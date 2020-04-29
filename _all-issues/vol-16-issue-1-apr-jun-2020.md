@@ -15,6 +15,11 @@ Some text here.
 This line of text happens right after the last one even though it's on its own line.
 </div>
 
+
+
+![BiblioAsia Logo](/images/logo-biblioasia.png)
+Some text here
+
 ## Feature title
 
 Summary text of feature
