@@ -5,6 +5,16 @@ permalink: /all-issues/vol-16-issue-1-apr-jun-2020/
 
 # Issue Theme
 
+## New Look, New Logo
+
+<div style="background-color: lightgrey;">
+<br/>
+<img src="/images/logo-biblioasia.png" style="width: 130px; height: 35px;" />
+
+Some text here.
+This line of text happens right after the last one even though it's on its own line.
+</div>
+
 ## Feature title
 
 Summary text of feature
