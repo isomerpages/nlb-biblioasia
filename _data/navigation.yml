@@ -7,9 +7,9 @@
 logo: /images/logo-biblioasia.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: In This Issue
     url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
+  - title: Past Issues
+    url: /all-articles/issues/
   - title: All Articles
     resource_room: true
