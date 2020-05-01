@@ -1,7 +1,7 @@
 ---
 title: History Through Postcards
-permalink: /latest-issues/nl-notes/_posts/2020-04-24-History-Through-Postcardss
-date: 2020-04-23T00:00:00.000Z
+permalink: /latest-issues/nl-notes/_posts/2020-04-30-History-Through-Postcards
+date: 2020-04-30T00:00:00.000Z
 third_nav_title: History Through Postcards
 ---
 
@@ -20,6 +20,8 @@ These days, when we want to chat with friends and family living abroad, we just 
 This was not the case even 30 years back, let alone 100 years ago. And while early 20th-century Singapore did have telephone and telegraph links with the rest of the world, most people could only afford to communicate using letters and postcards.
 
 Postcards, in particular, were popular. Although space was limited and the messages written were exposed for all to see, postcards were affordable and, more importantly, allowed the sender to share images of distant lands. Very quickly, people began collecting them and, over time, old postcards have become a valuable source of information about the past.
+
+![Malay Village](/images/Malay_Village.png)
 
 <img src="images/Malay_Village.png" alt=Malay Village " style="zoom:67%;" />
 
@@ -123,9 +125,13 @@ Some postcards featured the *karayuki-san* posing provocatively in their kimonos
 
 As not much has been written about the pre-war Japanese community in Singapore, these postcards provide insights into the lives of these migrants and their social networks, and also offer new perspectives of Singapore society in the early 20th century.
 
-<img src="images/Lim_Shao_Bin_mockup.png" alt="Postcard Impressions of Early 20th-century Singapore" style="zoom: 25%;" />
+<div style="background-color: lightgrey;">
+<br/>
+<img src="/images/Lim_Shao_Bin_mockup.png" style="width: 130px; height: 35px;" />
 
-| __Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community__, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]). It also retails at major bookshops in Singapore. |
+__Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community__, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]). It also retails at major bookshops in Singapore. 
+
+</div>
 
 
 
