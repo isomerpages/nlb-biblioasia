@@ -92,18 +92,17 @@ Idyllic fishing villages were very likely the first scenes that greeted travelle
 
 ###### The photo featured on this undated postcard is part of a series of four photographs titled “A Big Snake Swallowing a Deer”. The photos depict the snake with its distended belly, its capture and the subsequent release of the deer from its stomach. Postcards like this suggest that there was a market for such exotica in Singapore. *Accession no.: B32413807F_0146.*
 
-![Pulau Brani](images/Pulau_Brani.png)
+![Pulau Brani](/images/Pulau_Brani.png)
 
 ###### *Sampans* and serene fishing villages off Pulau Brani were sights early visitors to Singapore might have seen as they arrived on the island. *Publisher: Wilson & Co., Singapore. Accession no.: B32413807F_0002.*
 
-![Singapore Botanic Gardens](/images/Singapore_Botanic_Gardens.png)
+![Singapore Botanic Gardens](/images/SBG.png)
 
 ###### This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo. The brief message on the front of the postcard says that the sender is writing from “far away” and that the picture is of Singapore. *Postmarked 15 March 1906 (Singapore); 19 March 1906 (Hong Kong); 24 March 1906 (Tokyo). Accession no.: B32440324K_0011.*
 
 <div style="background-color: lightgrey;">
 <br/>
-**About the Lim Shao Bin Collection**
-The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board. <br> <br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period. <br> <br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – *Harada’s Guide* (1919) and *Shingapōru Gaiyō* (1923). <br> <br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.
+__About the Lim Shao Bin Collection__ <br> <br>The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board. <br> <br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period. <br> <br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – *Harada’s Guide* (1919) and *Shingapōru Gaiyō* (1923). <br> <br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.
 </div>
 
 
