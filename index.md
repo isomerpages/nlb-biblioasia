@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Isomer Site
-description: Brief site description here
+description: BiblioAsia is a quarterly magazine produced by the National Library of Singapore
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -10,8 +10,8 @@ sections:
         title: Hero title
         subtitle: Hero subtitle
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        button: Read the latest issue
+        url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
@@ -29,7 +29,7 @@ sections:
         button: Button text
         url: /faq/
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: Past Issues
+        subtitle: Read Our
         button: View More
 ---
