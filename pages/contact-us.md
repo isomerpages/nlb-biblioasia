@@ -9,8 +9,7 @@ locations:
         - 100 Victoria Street
         - National Library Building 14-01
         - Singapore 188064
-    operating_hours:
-      - 
+    operating_hours: 
   - title: Branch Office
     address:
        
