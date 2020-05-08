@@ -126,13 +126,16 @@ Some postcards featured the *karayuki-san* posing provocatively in their kimonos
 
 As not much has been written about the pre-war Japanese community in Singapore, these postcards provide insights into the lives of these migrants and their social networks, and also offer new perspectives of Singapore society in the early 20th century.
 
-<img src="images/Lim_Shao_Bin_mockup.png" alt="Postcard Impressions of Early 20th-century Singapore" style="zoom: 25%;" />
+<div style="background-color: lightgrey;">
+<br/>
+<img src="/images/Lim_Shao_Bin_mockup.png" style="width: 200px; height: 200px;" />
 
-| __Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community__, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]). It also retails at major bookshops in Singapore. |
 
+<b>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]). It also retails at major bookshops in Singapore. 
 
+</div>
 
-<img src="images/profile.png" alt="Profile" style="zoom: 5%;" />
+<img src="/images/profile.png">
 
 **Stephanie Pee** is an Assistant Manager with the Publishing department at the National Library, Singapore. She edits publications produced by the National Library and manages book projects. 
 
