@@ -23,10 +23,14 @@ This was not the case even 30 years back, let alone 100 years ago. And while ear
 
 Postcards, in particular, were popular. Although space was limited and the messages written were exposed for all to see, postcards were affordable and, more importantly, allowed the sender to share images of distant lands. Very quickly, people began collecting them and, over time, old postcards have become a valuable source of information about the past.
 
-<div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Malay_Village.png" />
+<b>This undated postcard features a group of villagers in traditional Malay attire. Japanese travellers would send postcards featuring scenes such as this back home as a way of sharing their experiences abroad. In this card, the writer conveys his general greetings and notes that he is fine in Singapore*. Accession no.: B29626253B_0047.* </b>
 
-![Malay Village](/images/Malay_Village.png)
-###### This undated postcard features a group of villagers in traditional Malay attire. Japanese travellers would send postcards featuring scenes such as this back home as a way of sharing their experiences abroad. In this card, the writer conveys his general greetings and notes that he is fine in Singapore*. Accession no.: B29626253B_0047.* </div>
+</div>    
+
+
 
 ![South Bridge Road](/images/South_Bridge_Road.png)
 ###### Scenes such as this gave recipients an idea of what Singapore was like. Addressed to Mr J. Takeda in Tokyo, this postcard features the Central Police Station on South Bridge Road (left) as well as the vessel S.S. *Sanuki Maru* of the Nippon Yūsen Kaisha (bottom right). The sender says that he has arrived in Singapore and is awaiting his ship to Java. He also notes that the steamy temperature on board the ship (86–88° F or 30–31°C) is similar to Singapore’s weather. *Postmarked 22 October 1907. Publisher: Nippon Yūsen Kaisha. Accession no.: B32413805D_0093.*
