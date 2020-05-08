@@ -35,7 +35,7 @@ This undated postcard features a group of villagers in traditional Malay attire.
 ```
 <div style="background-color: white;">
 <br/>
-<img src="/images/logo-biblioasia.png">
+<img src="/images/South_Bridge_Road.png">
 
 Scenes such as this gave recipients an idea of what Singapore was like. Addressed to Mr J. Takeda in Tokyo, this postcard features the Central Police Station on South Bridge Road (left) as well as the vessel S.S. <i>Sanuki Maru</i> of the Nippon Yūsen Kaisha (bottom right). The sender says that he has arrived in Singapore and is awaiting his ship to Java. He also notes that the steamy temperature on board the ship (86–88° F or 30–31°C) is similar to Singapore’s weather. <i>Postmarked 22 October 1907. Publisher: Nippon Yūsen Kaisha. Accession no.: B32413805D_0093.</i>
 </div>
@@ -144,11 +144,10 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 ```
 
 <div style="background-color: lightgrey;">
-    margin: 20px;
-    padding: 40px;
 <br/>
 <b>About the Lim Shao Bin Collection</b> <br> <br>The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board. <br> <br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period. <br> <br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – *Harada’s Guide* (1919) and *Shingapōru Gaiyō* (1923). <br> <br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.
 </div>
+
 #### **Early Japanese Community** 
 
 The early Japanese community in Singapore comprised traders, businessmen, professionals and sex workers known as *karayuki-san*. The postcards in the book provide us with a sense of their lives here.
