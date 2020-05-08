@@ -23,7 +23,7 @@ This was not the case even 30 years back, let alone 100 years ago. And while ear
 
 Postcards, in particular, were popular. Although space was limited and the messages written were exposed for all to see, postcards were affordable and, more importantly, allowed the sender to share images of distant lands. Very quickly, people began collecting them and, over time, old postcards have become a valuable source of information about the past.
 
-```
+```html
 <div style="background-color: white;">
 <br/>
 <img src="/images/Malay_Village">
