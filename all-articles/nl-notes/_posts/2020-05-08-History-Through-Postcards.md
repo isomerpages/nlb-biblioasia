@@ -101,9 +101,6 @@ Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima T
 
 </div>
 
-<img src="/images/Nihombashi.png">
-###### Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard (left) is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. *Dated April 1923. Accession no.: B32413805D_0100.*
-
 
 These postcards provided the ­recipients with an inkling of life in Singapore as well as ideas of places to visit, sights to see and foods to savour. These scenes fostered perceptions of Singapore as a romantic, tropical destination worthy of a visit, which in turn fuelled the sale of such memorabilia.
 
