@@ -32,7 +32,7 @@ This undated postcard features a group of villagers in traditional Malay attire.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/South_Bridge_Road.png" style="width: 1200px; height: 200px;" />
+<img src="/images/South_Bridge_Road.png" style="width: 1200px; height: 350px;" />
 
 
 Scenes such as this gave recipients an idea of what Singapore was like. Addressed to Mr J. Takeda in Tokyo, this postcard features the Central Police Station on South Bridge Road (left) as well as the vessel S.S. <i>Sanuki Maru</i> of the Nippon Yūsen Kaisha (bottom right). The sender says that he has arrived in Singapore and is awaiting his ship to Java. He also notes that the steamy temperature on board the ship (86–88° F or 30–31°C) is similar to Singapore’s weather. <i>Postmarked 22 October 1907. Publisher: Nippon Yūsen Kaisha. Accession no.: B32413805D_0093</i>.
@@ -100,7 +100,7 @@ Alkaff Gardens was built in 1930 in the style of a Japanese park, and was a popu
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Nihombashi.png" style="width: 1200px; height: 200px;" />
+<img src="/images/Nihombashi.png" style="width: 1200px; height: 350px;" />
 
 
 Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard (left) is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. <i>Dated April 1923. Accession no.: B32413805D_0100.</i>.
