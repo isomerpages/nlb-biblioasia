@@ -32,7 +32,7 @@ This undated postcard features a group of villagers in traditional Malay attire.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/South_Bridge_Road.png" style="width: 1200px; height: 350px;" />
+<img src="/images/South_Bridge_Road.png" style="width: 1200px; height: 300px;" />
 
 
 Scenes such as this gave recipients an idea of what Singapore was like. Addressed to Mr J. Takeda in Tokyo, this postcard features the Central Police Station on South Bridge Road (left) as well as the vessel S.S. <i>Sanuki Maru</i> of the Nippon Yūsen Kaisha (bottom right). The sender says that he has arrived in Singapore and is awaiting his ship to Java. He also notes that the steamy temperature on board the ship (86–88° F or 30–31°C) is similar to Singapore’s weather. <i>Postmarked 22 October 1907. Publisher: Nippon Yūsen Kaisha. Accession no.: B32413805D_0093</i>.
@@ -48,7 +48,7 @@ A selection of some 160 Japanese postcards from the National Library’s Lim Sha
 <img src="/images/Warship_Asama.png" style="width: 800px; height: 650px;" />
 
 
-This postcard was posted from the warship <i>Asama</i> by Major Ōhashi Kyōzō and mailed to an address in Aichi prefecture. Being a military postcard, it did not require a postage stamp. The postcard shows a tropical sunset and two coconut trees set within a frame. The motif of the coconut tree was frequently used to evoke the exotic South Seas (Nanyō, or Nanyang) after the Japanese colonisation of Taiwan in 1895. The postcard was produced in commemoration of the Japanese Navy’s overseas training voyage from 1934 to 1935, which included Singapore (written in <i>katakana</i> characters) as a stopover. <i>Postmarked 1 January 1935. Printed by Tokyo Shibaura Asahi Printing Company. Accession no.: B32413808G_0026.</i>.
+This postcard was posted from the warship <i>Asama</i> by Major Ōhashi Kyōzō and mailed to an address in Aichi prefecture. Being a military postcard, it did not require a postage stamp. The postcard shows a tropical sunset and two coconut trees set within a frame. The motif of the coconut tree was frequently used to evoke the exotic South Seas (Nanyō, or Nanyang) after the Japanese colonisation of Taiwan in 1895. The postcard was produced in commemoration of the Japanese Navy’s overseas training voyage from 1934 to 1935, which included Singapore (written in <i>katakana</i> characters) as a stopover. <i>Postmarked 1 January 1935. Printed by Tokyo Shibaura Asahi Printing Company. Accession no.: B32413808G_0026.</i>
 
 </div>
 
@@ -74,12 +74,9 @@ In addition, the book features commemorative postcards marking the fall of Singa
 <img src="/images/Fall_of_Singapore.png" style="width: 1200px; height: 600px;" />
 
 
-Produced to mark the fall of Singapore in February 1942, this postcard features three different commemorative postmarks and postage stamps. A Japanese stamp collector had intentionally visited the post office on three separate occasions to collect these postmarks. From the left: the first anniversary of the Pacific War (dated 8 December 1942); the fall of Singapore (dated 20 February 1942 at Nagoya); and the second anniversary of the Pacific War (dated 8 December 1943). <i>Dated 1942 and 1943. Accession no.: B32413808G_0030.</i>.
+Produced to mark the fall of Singapore in February 1942, this postcard features three different commemorative postmarks and postage stamps. A Japanese stamp collector had intentionally visited the post office on three separate occasions to collect these postmarks. From the left: the first anniversary of the Pacific War (dated 8 December 1942); the fall of Singapore (dated 20 February 1942 at Nagoya); and the second anniversary of the Pacific War (dated 8 December 1943). <i>Dated 1942 and 1943. Accession no.: B32413808G_0030.</i>
 
 </div>
-
-<img src="/images/Fall_of_Singapore.png">
-###### Produced to mark the fall of Singapore in February 1942, this postcard features three different commemorative postmarks and postage stamps. A Japanese stamp collector had intentionally visited the post office on three separate occasions to collect these postmarks. From the left: the first anniversary of the Pacific War (dated 8 December 1942); the fall of Singapore (dated 20 February 1942 at Nagoya); and the second anniversary of the Pacific War (dated 8 December 1943). *Dated 1942 and 1943. Accession no.: B32413808G_0030.*
 
 
 #### **Early Japanese Tourists**
@@ -95,15 +92,12 @@ Alkaff Gardens was built in 1930 in the style of a Japanese park, and was a popu
 
 </div>
 
-<img src="/images/Alkaff_Gardens.png">
-###### Alkaff Gardens was built in 1930 in the style of a Japanese park, and was a popular destination among locals and Japanese tourists. The garden had a Japanese teahouse that served “refreshments all day and night until 12 o'clock”. The picture on this undated postcard is also featured in an advertisement for Alkaff Gardens published in the 31 May 1930 issue of the *Malayan Saturday Post*, suggesting that the postcard had been specially commissioned to publicise the garden. On the far left of the picture is a traditional Japanese lantern made of stone called a *tōrō*. The garden, which was located near the former Bidadari Cemetery, closed in December 1941 in preparation for war. Cedar Girls’ Secondary School currently occupies the site. *Accession no.: B32413806E_0002*
-
 <div style="background-color: white;">
 <br/>
-<img src="/images/Nihombashi.png" style="width: 1200px; height: 350px;" />
+<img src="/images/Nihombashi.png" style="width: 1200px; height: 300px;" />
 
 
-Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard (left) is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. <i>Dated April 1923. Accession no.: B32413805D_0100.</i>.
+Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard (left) is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. <i>Dated April 1923. Accession no.: B32413805D_0100.</i>
 
 </div>
 
@@ -122,12 +116,9 @@ Idyllic fishing villages were very likely the first scenes that greeted travelle
 <img src="/images/Rochor_River.png" style="width: 1200px; height: 600px;" />
 
 
-A small herd of cattle in a river, possibly the Rochor River, that once flowed in the vicinity of Selegie and Rochor Canal roads. <i>Accession no.: B32413805D_0171.</i>.
+A small herd of cattle in a river, possibly the Rochor River, that once flowed in the vicinity of Selegie and Rochor Canal roads. <i>Accession no.: B32413805D_0171.</i>
 
 </div>
-
-<img src="/images/Rochor_River.png">
-###### A small herd of cattle in a river, possibly the Rochor River, that once flowed in the vicinity of Selegie and Rochor Canal roads. *Accession no.: B32413805D_0171.*
 
 <div style="background-color: white;">
 <br/>
@@ -138,9 +129,6 @@ The photo featured on this undated postcard is part of a series of four photogra
 
 </div>
 
-<img src="/images/Snake.png">
-###### The photo featured on this undated postcard is part of a series of four photographs titled “A Big Snake Swallowing a Deer”. The photos depict the snake with its distended belly, its capture and the subsequent release of the deer from its stomach. Postcards like this suggest that there was a market for such exotica in Singapore. *Accession no.: B32413807F_0146.*
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/Pulau_Brani.png" style="width: 1200px; height: 600px;" />
@@ -149,9 +137,6 @@ The photo featured on this undated postcard is part of a series of four photogra
 <i>Sampans</i> and serene fishing villages off Pulau Brani were sights early visitors to Singapore might have seen as they arrived on the island. <i>Publisher: Wilson & Co., Singapore. Accession no.: B32413807F_0002.</i>.
 
 </div>
-
-<img src="/images/Pulau_Brani.png">
-###### *Sampans* and serene fishing villages off Pulau Brani were sights early visitors to Singapore might have seen as they arrived on the island. *Publisher: Wilson & Co., Singapore. Accession no.: B32413807F_0002.*
 
 <div style="background-color: white;">
 <br/>
@@ -162,8 +147,6 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 
 </div>
 
-<img src="/images/SBG.png">
-###### This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo. The brief message on the front of the postcard says that the sender is writing from “far away” and that the picture is of Singapore. *Postmarked 15 March 1906 (Singapore); 19 March 1906 (Hong Kong); 24 March 1906 (Tokyo). Accession no.: B32440324K_0011.*
 
 | **About the Lim Shao Bin Collection** |
 | The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board. <br> <br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period. <br> <br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – *Harada’s Guide* (1919) and *Shingapōru Gaiyō* (1923). <br> <br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history. |
@@ -174,6 +157,15 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 The early Japanese community in Singapore comprised traders, businessmen, professionals and sex workers known as *karayuki-san*. The postcards in the book provide us with a sense of their lives here.
 
 Part of the Lim Shao Bin Collection includes a set of postcards documenting the correspondence between businessman Ejiri Koichirō and his friend Tajika Shōjiro, spanning a decade across various countries. These postcards give us an idea of how early migrants adapted to life in Singapore. Some of the postcards exchanged between the two men are featured in the book.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Karayuki.png" style="width: 1200px; height: 600px;" />
+
+
+This undated postcard features a Japanese woman, likely a <i>karayuki-san</i>, in her kimono. <i>Karayuki-san</i>, or Japanese prostitutes, sometimes posed for a fee at the request of photographers in Singapore. <i>Accession no.: B32440324K_0076.</i>
+
+</div>
 
 <img src="/images/Karayuki.png">
 ###### This undated postcard features a Japanese woman, likely a *karayuki-san*, in her kimono. *Karayuki-san*, or Japanese prostitutes, sometimes posed for a fee at the request of photographers in Singapore.  *Accession no.: B32440324K_0076.*
