@@ -144,7 +144,7 @@ The photo featured on this undated postcard is part of a series of four photogra
 This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo. The brief message on the front of the postcard says that the sender is writing from “far away” and that the picture is of Singapore. <i>Postmarked 15 March 1906 (Singapore); 19 March 1906 (Hong Kong); 24 March 1906 (Tokyo). Accession no.: B32440324K_0011.</i>
 
 </div>
-
+<br>
 <div style="background-color: lightgrey;">
 <b>About the Lim Shao Bin Collection</b>
 <br>
@@ -191,10 +191,6 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 <b>Stephanie Pee</b> is an Assistant Manager with the Publishing department at the National Library, Singapore. She edits publications produced by the National Library and manages book projects.
 
 </div>
-
-<img src="/images/profile.png">
-
-**Stephanie Pee** is an Assistant Manager with the Publishing department at the National Library, Singapore. She edits publications produced by the National Library and manages book projects. 
 
 
 #### **NOTES**
