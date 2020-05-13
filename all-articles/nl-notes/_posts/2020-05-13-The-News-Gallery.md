@@ -1,6 +1,6 @@
 ---
-title: History Through Postcards
-permalink: /latest-issues/nl-notes/_posts/2020-04-24-History-Through-Postcardss
+title: The News Gallery: Beyond Headlines
+permalink: /latest-issues/nl-notes/_posts/2020-05-13-The_News_Gallery
 date: 2020-05-13T00:00:00.000Z
 third_nav_title: The News Gallery: Beyond Headlines 
 ---
