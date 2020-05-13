@@ -10,10 +10,10 @@ table {
 	background-color: #e1deea;
 	}
 	
-.infobox { 
+.colourobox { 
   padding: 20px;
   margin: 20px;
-  background: green
+  background: red
 }
 </style>
 
