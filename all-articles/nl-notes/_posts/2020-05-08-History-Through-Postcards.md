@@ -9,6 +9,12 @@ third_nav_title: History Through Postcards
 table { 
 	background-color: #e1deea;
 	}
+	
+.colourbox { 
+  padding: 20px;
+  margin: 20px;
+  background: lightgrey
+}
 </style>
 
 
