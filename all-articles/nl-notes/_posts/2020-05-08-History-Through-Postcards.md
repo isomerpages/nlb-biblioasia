@@ -18,7 +18,7 @@ table {
 </style>
 
 
-### 1 postcard may not say much, but a collection of postcards can speak volumes. **Stephanie Pee** tells us what *Postcard Impressions of Early 20th-century Singapore* has to say. 
+### One postcard may not say much, but a collection of postcards can speak volumes. **Stephanie Pee** tells us what *Postcard Impressions of Early 20th-century Singapore* has to say. 
 
 These days, when we want to chat with friends and family living abroad, we just pick up our smartphones. The ability to communicate cheaply and easily with someone who lives thousands of kilometres away is something that we take for granted.
 
