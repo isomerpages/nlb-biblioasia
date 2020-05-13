@@ -127,7 +127,7 @@ The photo featured on this undated postcard is part of a series of four photogra
 This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo. The brief message on the front of the postcard says that the sender is writing from “far away” and that the picture is of Singapore. <i>Postmarked 15 March 1906 (Singapore); 19 March 1906 (Hong Kong); 24 March 1906 (Tokyo). Accession no.: B32440324K_0011.</i>
 </div>
 
-<div class="infobox">
+<div class="colourbox">
 <b>About the Lim Shao Bin Collection</b>
 The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.
 
