@@ -10,7 +10,7 @@ table {
 	background-color: #e1deea;
 	}
 	
-.colourobox { 
+.infobox { 
   padding: 20px;
   margin: 20px;
   background: red
@@ -151,37 +151,35 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 
 </div>
 
-<div class="colourbox">
-<h3>About the Lim Shao Bin Collection</h3>
+<div class="infobox">
+<b>About the Lim Shao Bin Collection</b>
 The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.
 <p>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.</p>
 <p>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – <i>Harada’s Guide</i> (1919) and <i>Shingapōru Gaiyō</i> (1923).</pr>
 <p>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.</p>
 </div>
 
-
+<div>
 #### **Early Japanese Community** 
 
 The early Japanese community in Singapore comprised traders, businessmen, professionals and sex workers known as *karayuki-san*. The postcards in the book provide us with a sense of their lives here.
 
 Part of the Lim Shao Bin Collection includes a set of postcards documenting the correspondence between businessman Ejiri Koichirō and his friend Tajika Shōjiro, spanning a decade across various countries. These postcards give us an idea of how early migrants adapted to life in Singapore. Some of the postcards exchanged between the two men are featured in the book.
 
-<div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-1/Karayuki.png" style="width: 1200px; height: 600px;" />
 
-
 This undated postcard features a Japanese woman, likely a <i>karayuki-san</i>, in her kimono. <i>Karayuki-san</i>, or Japanese prostitutes, sometimes posed for a fee at the request of photographers in Singapore. <i>Accession no.: B32440324K_0076.</i>
 
-</div>
 
 One group of Japanese migrants who received particular attention in postcards are the *karayuki-san*. Many of these women were from the poor, rural regions of Kyushu island and had been sold or kidnapped, and subsequently forced into the sex trade overseas. While often ostracised or looked down upon, they played an important role in Japan’s economic and social fabric as their presence supported fledgling local Japanese businesses (and in turn the wider Japanese economy). The women even responded to disaster relief efforts in Japan by sending home much-needed funds and supplies. 
 
 Some postcards featured the *karayuki-san* posing provocatively in their kimonos, which reinforced the image of Singapore “as a centre of romanticism, exoticism, and easy sex”.[^6] Regardless whether the women were indeed *karayuki-san* or whether they were even living in Singapore, the fact that these postcards were bought and used suggests that the women formed part of the impressions that early travellers held of Singapore. 
 
 As not much has been written about the pre-war Japanese community in Singapore, these postcards provide insights into the lives of these migrants and their social networks, and also offer new perspectives of Singapore society in the early 20th century.
+</div>
 
-<div class="colourbox">
+<div class="infobox">
 <img src="/images/Vol-16-issue-1/Lim_Shao_Bin_mockup.png" style="width: 200px; height: 200px;" />
 <b>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]). It also retails at major bookshops in Singapore. 
 </div>
