@@ -144,12 +144,12 @@ The photo featured on this undated postcard is part of a series of four photogra
 This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo. The brief message on the front of the postcard says that the sender is writing from “far away” and that the picture is of Singapore. <i>Postmarked 15 March 1906 (Singapore); 19 March 1906 (Hong Kong); 24 March 1906 (Tokyo). Accession no.: B32440324K_0011.</i>
 
 </div>
-<br>
 <div class="colourbox">
-<b>About the Lim Shao Bin Collection</b>
-<br>
-The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.<br> <br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.<br> <br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – <i>Harada’s Guide</i> (1919) and <i>Shingapōru Gaiyō</i> (1923). <br> <br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history. 
-
+<h3>About the Lim Shao Bin Collection</h3>
+<p>The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.</p>
+<p>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.</p>
+<p>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – <i>Harada’s Guide</i> (1919) and <i>Shingapōru Gaiyō</i> (1923)./pr>
+<p>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.</p>
 </div>
 
 
@@ -175,12 +175,8 @@ Some postcards featured the *karayuki-san* posing provocatively in their kimonos
 As not much has been written about the pre-war Japanese community in Singapore, these postcards provide insights into the lives of these migrants and their social networks, and also offer new perspectives of Singapore society in the early 20th century.
 
 <div class="colourbox">
-<br/>
 <img src="/images/Vol-16-issue-1/Lim_Shao_Bin_mockup.png" style="width: 200px; height: 200px;" />
-
-
 <b>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]). It also retails at major bookshops in Singapore. 
-
 </div>
 
 <div style="background-color: white;">
