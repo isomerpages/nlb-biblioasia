@@ -148,7 +148,7 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 <div style="background-color: lightgrey;">
 <b>About the Lim Shao Bin Collection</b>
 <br>
-The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board. <br> <br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period. <br> <br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – <i>Harada’s Guide</i> (1919) and <i>Shingapōru Gaiyō</i> (1923). <br> <br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history. 
+The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.<br> <br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.<br> <br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – <i>Harada’s Guide</i> (1919) and <i>Shingapōru Gaiyō</i> (1923). <br> <br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history. 
 
 </div>
 
@@ -195,11 +195,11 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 
 #### **NOTES**
 
-[^1]: Cheah, J. S. (2006). *Singapore: 500 early postcards* (p. 8). Singapore: Editions Didier Millet. (Call no.: RSING 769.566095957 CHE)
-[^2]: National Archives. (1986). *Singapore historical postcards from the National Archives Collection* (p. 8). Singapore: Marshall Cavendish Editions. (Call no.: RSING 769.95957 SIN)
+[^1]: Cheah, J. S. (2006). *[Singapore: 500 early postcards](https://collections.nationalgallery.sg/#/details/Search/?BRN=4132)* (p. 8). Singapore: Editions Didier Millet. (Call no.: RSING 769.566095957 CHE)
+[^2]: National Archives. (1986). *[Singapore historical postcards from the National Archives Collection](https://eresources.nlb.gov.sg/printheritage/detail/baa98281-c5b9-48bb-8392-db03a84c1307.aspx)* (p. 8). Singapore: Marshall Cavendish Editions. (Call no.: RSING 769.95957 SIN)
 [^3]: Schencking, J.C. (1999, October). The Imperial Japanese Navy and the constructed consciousness of a South Seas destiny, 1872–1921., *Modern Asian Studies, 33* (4), 769–796, pp. 772–73. Retrieved from JSTOR via NLB’s eResources website. 
 [^4]: Nishihara suggests that Pulau Brani was likely the model for the water villages depicted in the works of Shikō Imamura’s (今村紫紅) *Scrolls of Tropical Countries (Morning Scroll)* [熱国之巻（朝之巻)] [Nekkoku no Maki (Asa no Maki)], which was designated as an important cultural property in Japan, indicating that the sight of Pulau Brani likely constituted one of the key Japanese perspectives of Singapore. 西原大輔 [Daisuke Nishihara]. (2017). 日本人のシンガポール体験：幕末明治から日本占領下・戦後まで [Nihonjin no Shingapōru Taiken: Bakumatsumeiji kara nihonsenryōka.sengo made] (p. 88). Kyoto, Japan: Jinbun Shoin. (Not available in NLB holdings) 
 [^5]: Nishihara, 2017, p. 88.
-[^6]:Warren, J. (1993). *Ah ku and karayuki-san: Prostitution in Singapore* (p. 252). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
+[^6]:Warren, J. (1993). *[Ah ku and karayuki-san: Prostitution in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/6522b558-af66-4ac0-b0c6-eec13bd94967.aspx)* (p. 252). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
 
 
