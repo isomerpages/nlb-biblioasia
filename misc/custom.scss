@@ -335,3 +335,9 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+.colourbox { 
+  padding: 20px;
+  margin: 20px;
+  background: lightgrey
+}
