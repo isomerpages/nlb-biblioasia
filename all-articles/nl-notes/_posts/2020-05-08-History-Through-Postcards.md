@@ -174,7 +174,7 @@ Some postcards featured the *karayuki-san* posing provocatively in their kimonos
 
 As not much has been written about the pre-war Japanese community in Singapore, these postcards provide insights into the lives of these migrants and their social networks, and also offer new perspectives of Singapore society in the early 20th century.
 
-<div style="background-color: lightgrey;">
+<div class="colourbox">
 <br/>
 <img src="/images/Vol-16-issue-1/Lim_Shao_Bin_mockup.png" style="width: 200px; height: 200px;" />
 
