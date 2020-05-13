@@ -13,7 +13,7 @@ table {
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: red
+  background: lightgrey
 }
 </style>
 
