@@ -10,10 +10,10 @@ table {
 	background-color: #e1deea;
 	}
 	
-.colourbox { 
+.infobox { 
   padding: 20px;
   margin: 20px;
-  background: lightgrey
+  background: green
 }
 </style>
 
@@ -151,7 +151,7 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 
 </div>
 
-<div class="colourbox">
+<div class="infobox">
 <h3>About the Lim Shao Bin Collection</h3>
 The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.
 <p>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.</p>
@@ -181,7 +181,7 @@ Some postcards featured the *karayuki-san* posing provocatively in their kimonos
 
 As not much has been written about the pre-war Japanese community in Singapore, these postcards provide insights into the lives of these migrants and their social networks, and also offer new perspectives of Singapore society in the early 20th century.
 
-<div class="colourbox">
+<div class="infobox">
 <img src="/images/Vol-16-issue-1/Lim_Shao_Bin_mockup.png" style="width: 200px; height: 200px;" />
 <b>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]). It also retails at major bookshops in Singapore. 
 </div>
