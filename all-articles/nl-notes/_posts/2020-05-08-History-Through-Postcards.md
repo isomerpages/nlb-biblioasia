@@ -23,7 +23,7 @@ Postcards, in particular, were popular. Although space was limited and the messa
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Malay_Village.png" style="width: 800px; height: 650px;" />
+<img src="/images/Vol-16-issue-1/Malay_Village.png" style="width: 800px; height: 650px;" />
 
 
 This undated postcard features a group of villagers in traditional Malay attire. Japanese travellers would send postcards featuring scenes such as this back home as a way of sharing their experiences abroad. In this card, the writer conveys his general greetings and notes that he is fine in Singapore. <i>Accession no.: B29626253B_0047</i>. 
