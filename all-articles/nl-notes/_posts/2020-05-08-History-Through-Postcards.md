@@ -163,7 +163,7 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/authors/Stephanie_Pee.png">
+<img src="/images/Vol-16-issue-1/authors/Stephanie_Pee.png"style="width: 200px; height: 200px;" />
 
 
 <b>Stephanie Pee</b> is an Assistant Manager with the Publishing department at the National Library, Singapore. She edits publications produced by the National Library and manages book projects.
