@@ -9,7 +9,6 @@ third_nav_title: The News Gallery – Beyond Headlines
 table { 
 	background-color: #e1deea;
 	}
-
 .infobox { 
   padding: 20px;
   margin: 20px;
