@@ -1,8 +1,8 @@
 ---
-title: The News Gallery Beyond Headlines
+title: The News Gallery<br>Beyond Headlines</br>
 permalink: /latest-issues/nl-notes/_posts/2020-05-13-The-News-Gallery
 date: 2020-05-14T00:00:00.000Z
-third_nav_title: The News Gallery Beyond Headlines
+third_nav_title: The News Gallery<br>Beyond Headlines</br>
 ---
 
 <style>
