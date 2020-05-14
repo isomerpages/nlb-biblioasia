@@ -38,7 +38,7 @@ Old newspapers are treasure troves of information and are a rich resource for ac
 
 The printed newspaper as we know it today began proliferating in the 17th century with the rise of the modern printing press. It took another two centuries before Singapore first English-language newspaper hit the stands when the *Singapore Chronicle and Commercial Register* rolled off the presses on 1 January 1824. Francis James Bernard, the son-in-law of Singapore’s first Resident, William Farquhar, was its editor.[^2] 
 
-In 1835, a second English newspaper called *The Singapore Free Press and Mercantile Advertiser*  entered the scene. In retaliation, the Singapore Chronicle -halved its price and advertising rates, but to no avail. Barely two years later, the *Chronicle* folded; its last issue was published on 30 September 1837. Eight years later in 1845, *The Straits Times*[^4] – the newspaper that most Singaporeans are familiar with and the longest-running daily broadsheet – was launched.
+In 1835, a second English newspaper called *The Singapore Free Press and Mercantile Advertiser* [^3] entered the scene. In retaliation, the Singapore Chronicle -halved its price and advertising rates, but to no avail. Barely two years later, the *Chronicle* folded; its last issue was published on 30 September 1837. Eight years later in 1845, *The Straits Times*[^4] – the newspaper that most Singaporeans are familiar with and the longest-running daily broadsheet – was launched.
 
 This zone of the exhibition also showcases non-English-language newspapers that were published in Singapore. These vernacular newspapers addressed and promoted the issues, concerns and interests of their respective communities. In the early years, Chinese-language newspapers such as *Nanyang Siang Pau* and *Sin Chew Jit Poh* were concerned with the affairs of China,[^5] while *Tamil Murasu* was the vanguard of the social reform movement that was taking place among Indians in Singapore.[^6]  Similarly, early Malay newspapers such as *Jawi Peranakkan*[^7]  and *Utusan Malayu*[^8]  championed the causes of the Malay and Muslim communities in Singapore.
 
@@ -46,19 +46,7 @@ This zone of the exhibition also showcases non-English-language newspapers that 
 
 <b>THE SINGAPORE FREE PRESS AND MERCANTILE ADVERTISER</b>
 <br>
-While there are a number of English-language newspapers in Singapore today, *The Straits Times* is, by far, the dominant paper. However, it was not always so. In fact, even though it is Singapore’s longest-running newspaper today, *The Straits Times* was a latecomer to the scene. When it first appeared, the paper had to compete with an earlier newspaper: *The Singapore Free Press and Mercantile Advertiser.* It was a tussle that lasted over a century.
-
-*The Singapore Free Press* was Singapore’s second English-language newspaper and began publishing on 8 October 1835. *The Free Press* took its name from the abolition of the gagging act. Prior to 1835, every issue of a publication in Singapore had to be submitted to the government before it could be published.[^9] With the demise of the *Singapore Chronicle* in 1837,*The Free Press* remained unrivalled until *The Straits Times* was launched in 1845.[^10] 
-
-*The Singapore Free Press* remained in circulation until 1869. It was relaunched in 1884 and, in 1946, it was bought over by *The Straits Times* in a move to fend off competition from a newspaper that had been launched in 1914, *The Malaya Tribune.*[^11] In 1962, *The Singapore Free Press* was eventually merged with *The Malay Mail* and the new entity retained the *Malay Mail* name.
-
-*The Singapore Free Press* is associated with a number of well-known names. It was originally set up by a group that included lawyer William Napier; architect George D. Coleman; Edward Boustead, the founder of Boustead and Company; and Walter Scott Lorrain, head of Lorrain, Sandilands and Company. It was relaunched in 1884 by Charles Burton Buckley (author of *An Anecdotal History of Old Times in Singapore 1819–1867*[^12]), who was later joined by John Fraser and David Neave (the co-founders of Fraser & Neave). Walter Makepeace (later co-editor of *One Hundred Years of Singapore*[^13]) was a reporter with the paper who rose to become its joint proprietor and editor.
-
-*The Free Press* was also notable for its contributions to the Malay newspaper scene. In 1907, *The Singapore Free Press* set up *Utusan Malayu,*[^14] the Malay edition of the newspaper. *Utusan Malayu* became the only Malay newspaper to be circulated in the Straits Settlements and Malay Peninsula after its rival, *Chahaya Pulau Pinang,* folded just a few months into 1908.[^15] 
-
-Under its first editor, Mohamed Eunos Abdullah, *Utusan Malayu’s* mission was to provide the Malay community with an intelligent and impartial view of Malaya and the world.
-
-In 1921, the newspaper was sued for libel by Raja Shariman and Che Tak, assistant commissioners of police in the Federated Malay States. The heavy damages awarded against it proved to be financially crippling and *Utusan Malayu* ceased operations as a result.[^16] 
+While there are a number of English-language newspapers in Singapore today, <i>The Straits Times</i> is, by far, the dominant paper. However, it was not always so. In fact, even though it is Singapore’s longest-running newspaper today, <i>The Straits Times</i> was a latecomer to the scene. When it first appeared, the paper had to compete with an earlier newspaper: <i>The Singapore Free Press and Mercantile Advertiser.</i> It was a tussle that lasted over a century.<br><br><i>The Singapore Free Press</i> was Singapore’s second English-language newspaper and began publishing on 8 October 1835. <i>The Free Press</i> took its name from the abolition of the gagging act. Prior to 1835, every issue of a publication in Singapore had to be submitted to the government before it could be published.[^9] With the demise of the <i>Singapore Chronicle</i> in 1837,<i>The Free Press</i> remained unrivalled until <i>The Straits Times</i> was launched in 1845.[^10]<br><br><i>The Singapore Free Press</i> remained in circulation until 1869. It was relaunched in 1884 and, in 1946, it was bought over by <i>The Straits Times</i> in a move to fend off competition from a newspaper that had been launched in 1914, <i>The Malaya Tribune.</i>[^11] In 1962, <i>The Singapore Free Press</i> was eventually merged with <i>The Malay Mail</i> and the new entity retained the <i>Malay Mail</i> name.<br><br><i>The Singapore Free Press</i> is associated with a number of well-known names. It was originally set up by a group that included lawyer William Napier; architect George D. Coleman; Edward Boustead, the founder of Boustead and Company; and Walter Scott Lorrain, head of Lorrain, Sandilands and Company. It was relaunched in 1884 by Charles Burton Buckley (author of <i>An Anecdotal History of Old Times in Singapore 1819–1867</i>[^12]), who was later joined by John Fraser and David Neave (the co-founders of Fraser & Neave). Walter Makepeace (later co-editor of <i>One Hundred Years of Singapore</i>[^13]) was a reporter with the paper who rose to become its joint proprietor and editor.<br><br><i>The Free Press</i> was also notable for its contributions to the Malay newspaper scene. In 1907, <i>The Singapore Free Press</i> set up <i>Utusan Malayu,<i>[^14] the Malay edition of the newspaper. <i>Utusan Malayu</i> became the only Malay newspaper to be circulated in the Straits Settlements and Malay Peninsula after its rival, <i>Chahaya Pulau Pinang,</i> folded just a few months into 1908.[^15]<br><br>Under its first editor, Mohamed Eunos Abdullah, <i>Utusan Malayu’s</i> mission was to provide the Malay community with an intelligent and impartial view of Malaya and the world.<br><br>In 1921, the newspaper was sued for libel by Raja Shariman and Che Tak, assistant commissioners of police in the Federated Malay States. The heavy damages awarded against it proved to be financially crippling and <i>Utusan Malayu</i> ceased operations as a result.[^16] 
 
 </div>
 
@@ -68,7 +56,7 @@ In 1921, the newspaper was sued for libel by Raja Shariman and Che Tak, assistan
 
 
 
-*The Singapore Free Press* was set up by William Napier, a lawyer and the main owner of the paperr; George D. Coleman, the first superintendent of public works; Edward Boustead, founder of Boustead and Company; and Walter Scott Lorrain, head of Lorrain, Sandilands and Company. This is the front page of the issue dated 19 November 1835. *Retrieved from NewspaperSG.* 	
+<i>The Singapore Free Press</i> was set up by William Napier, a lawyer and the main owner of the paperr; George D. Coleman, the first superintendent of public works; Edward Boustead, founder of Boustead and Company; and Walter Scott Lorrain, head of Lorrain, Sandilands and Company. This is the front page of the issue dated 19 November 1835. <i>Retrieved from NewspaperSG.</i>	
 
 </div>
 
@@ -113,7 +101,7 @@ There is also a digital station featuring electronic newspaper resources availab
 
 </div>
 
-#### #### **NOTES**
+#### **NOTES**
 
 [^1]: Although in recent years, social media networks such as Facebook, YouTube and Instagram have made concerted efforts to stem the flow of fake news and misinformation on their sites.
 [^2]: National Library Board. (2017). *[Singapore Chronicle](https://eresources.nlb.gov.sg/infopedia/articles/SIP_513_2005-01-06.html?s=singapore%20chronicle)* written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia website. 
