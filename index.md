@@ -22,16 +22,6 @@ sections:
             - title: "The News Gallery: Beyond Headlines"
               description:
               url: /latest-issues/nl-notes/_posts/2020-05-13-The-News-Gallery
-    - infobar:
-        description: BiblioAsiais a free quarterly publication produced by the National 
-Library Board. It features articles on the history, culture and heritage 
-of Singapore within the larger Asian context, and has a strong focus 
-on the collections and services of the National Library. BiblioAsia is 
-distributed to local and international libraries, academic institutions, 
-government ministries and agencies, as well as members of the public. 
-        button:
-        url:
-
     - resources:
         title: Past Issues
         subtitle: Read Our
