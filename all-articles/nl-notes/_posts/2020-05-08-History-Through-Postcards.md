@@ -27,14 +27,14 @@ Postcards, in particular, were popular. Although space was limited and the messa
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Malay_Village.png" style="width: 800px; height: 650px;" />
+<img src="/images/Vol-16-issue-1/Postcards/Malay_Village.png">
 
 This undated postcard features a group of villagers in traditional Malay attire. Japanese travellers would send postcards featuring scenes such as this back home as a way of sharing their experiences abroad. In this card, the writer conveys his general greetings and notes that he is fine in Singapore. <i>Accession no.: B29626253B_0047</i>. 
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/South_Bridge_Road.png" style="width: 1200px; height: 250px;" />
+<img src="/images/Vol-16-issue-1/Postcards/South_Bridge_Road.png">
 
 Scenes such as this gave recipients an idea of what Singapore was like. Addressed to Mr J. Takeda in Tokyo, this postcard features the Central Police Station on South Bridge Road (left) as well as the vessel S.S. <i>Sanuki Maru</i> of the Nippon Yūsen Kaisha (bottom right). The sender says that he has arrived in Singapore and is awaiting his ship to Java. He also notes that the steamy temperature on board the ship (86–88° F or 30–31°C) is similar to Singapore’s weather. <i>Postmarked 22 October 1907. Publisher: Nippon Yūsen Kaisha. Accession no.: B32413805D_0093</i>.
 </div>
