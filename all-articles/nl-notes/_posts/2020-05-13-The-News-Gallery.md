@@ -42,7 +42,8 @@ In 1835, a second English newspaper called *The Singapore Free Press and Mercant
 
 This zone of the exhibition also showcases non-English-language newspapers that were published in Singapore. These vernacular newspapers addressed and promoted the issues, concerns and interests of their respective communities. In the early years, Chinese-language newspapers such as *Nanyang Siang Pau* and *Sin Chew Jit Poh* were concerned with the affairs of China,[^5] while *Tamil Murasu* was the vanguard of the social reform movement that was taking place among Indians in Singapore.[^6]  Similarly, early Malay newspapers such as *Jawi Peranakkan*[^7]  and *Utusan Malayu*[^8]  championed the causes of the Malay and Muslim communities in Singapore.
 
-<div style="background-color: lightgrey;">
+<div class="infobox">
+
 <b>THE SINGAPORE FREE PRESS AND MERCANTILE ADVERTISER</b>
 <br>
 While there are a number of English-language newspapers in Singapore today, *The Straits Times* is, by far, the dominant paper. However, it was not always so. In fact, even though it is Singapore’s longest-running newspaper today, *The Straits Times* was a latecomer to the scene. When it first appeared, the paper had to compete with an earlier newspaper: *The Singapore Free Press and Mercantile Advertiser.* It was a tussle that lasted over a century.
