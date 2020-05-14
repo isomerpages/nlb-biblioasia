@@ -127,12 +127,7 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 </div>
 
 <div class="colourbox">
-<b>About the Lim Shao Bin Collection</b>
-The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.[^6]
-
-Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.[^7]
-
-The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – <i>Harada’s Guide</i> (1919) and <i>Shingapōru Gaiyō</i> (1923).
+<b>About the Lim Shao Bin Collection</b><br><br>The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.[^6]<br><br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.[^7]<br><br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – <i>Harada’s Guide</i> (1919) and <i>Shingapōru Gaiyō</i> (1923).
 
 Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.
 </div>
