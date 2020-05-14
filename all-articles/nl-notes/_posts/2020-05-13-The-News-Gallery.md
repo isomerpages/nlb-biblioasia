@@ -1,15 +1,16 @@
 ---
 title: The News Gallery: Beyond Headlines
 permalink: /latest-issues/nl-notes/_posts/2020-05-13-The-News-Gallery
-date: 2020-05-13T00:00:00.000Z
-third_nav_title: The News Gallery: Beyond Headlines 
+date: 2020-05-14T00:00:00.000Z
+third_nav_title: The News Gallery
 ---
 
 There is more to news that meets the eye. **Mazelan Anuar** and **Faridah Ibrahim** give us the scoop on the National Library’s latest exhibition. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/news_gallery_header.png">
+<img src="/images/Vol-16-issue-1/news/behind_every_story.jpg">
+
 
 
 The “Behind Every Story” interactive zone showcases significant events from Singapore’s history to illustrate how news reporting can create different versions of reality for different readers. 	
