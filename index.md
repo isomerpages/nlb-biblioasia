@@ -9,9 +9,9 @@ sections:
     - hero:
         title: Mad Dogs and Englishmen
         subtitle: The Rabies Outbreak in 19th-century Singapore
-        background: /images/Main_Banner.jpg
+        background: /images/Vol-16-issue-1/Main_Banner.jpg
         button: Read Now
-        url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
+        url: https://google.com/
         key_highlights:
             - title: The News Gallery: Beyond Headlines
               description: Important highlight A is important
