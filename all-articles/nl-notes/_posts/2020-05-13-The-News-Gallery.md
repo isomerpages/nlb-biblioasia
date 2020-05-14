@@ -1,10 +1,9 @@
 ---
 title: The News Gallery: Beyond Headlines
-permalink: /all-articles/nl-notes/_posts/2020-05-13-The-News-Gallery
+permalink: /latest-issues/nl-notes/_posts/2020-05-13-The-News-Gallery
 date: 2020-05-13T00:00:00.000Z
 third_nav_title: The News Gallery: Beyond Headlines 
 ---
-
 
 There is more to news that meets the eye. **Mazelan Anuar** and **Faridah Ibrahim** give us the scoop on the National Library’s latest exhibition. 
 
