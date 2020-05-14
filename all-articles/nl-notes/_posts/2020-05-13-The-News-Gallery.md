@@ -64,12 +64,23 @@ In 1921, the newspaper was sued for libel by Raja Shariman and Che Tak, assistan
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/n.png">
+<img src="/images/Vol-16-issue-1/news/The_Singapore_Free_Press.png">
 
 
-The “Behind Every Story” interactive zone showcases significant events from Singapore’s history to illustrate how news reporting can create different versions of reality for different readers. 	
+
+*The Singapore Free Press* was set up by William Napier, a lawyer and the main owner of the paperr; George D. Coleman, the first superintendent of public works; Edward Boustead, founder of Boustead and Company; and Walter Scott Lorrain, head of Lorrain, Sandilands and Company. This is the front page of the issue dated 19 November 1835. *Retrieved from NewspaperSG.* 	
 
 </div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-1/news/The_Straits_Times.png">
+
+ 
+
+At the height of the Michael Fay’ incident in 1994, *The Straits Times* deliberately published the opinions of US columnists alongside its own columnists to rebut their arguments. *The Straits Times, 8 April 1994. Retrieved from NewspaperSG.* 
+
+</div>   
 
 #### **The Story Behind the Story**
 
@@ -83,35 +94,42 @@ Look out for the interactive zone called Behind Every Story, which highlights si
 
 The events featured include the fall of Singapore to the Japanese in February 1942,[^17]  the Maria Hertogh riots in 1950[^18] and Singapore’s separation[^19] from Malaysia in 1965. More recent events include the Michael Fay saga in 1994[^20]  and the decision made in 2005 to develop two Integrated Resorts in Singapore.[^21] 
 
-#### **On a Lighter Note**
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-1/news/Fake _News.jpg">
+
+</div>
+
+#### On a Lighter Note**
 
 Newspapers are not all about serious news – they also contain advertisements, entertainment stories, food reviews, photographs, recipes, puzzles, comics and even agony aunt columns. One zone of The News Gallery, Extra! Extra!, showcases the “non-news” features of newspapers. The exhibits will be regularly updated to highlight different elements found in newspapers, with the first installment on games and quizzes such as crossword puzzles, spot the ball and sudoku. Subsequent exhibits will look at photojournalism, cartoons and caricatures, and advertisements.
 
 There is also a digital station featuring electronic newspaper resources available to library users. Visitors can browse and search past and current news on NewspaperSG, the National Library's online archives of Singapore’s newspapers dating back to 1831 as well as other databases that provide access to local and international newspapers.
 
-<div style="background-color: lightgrey;">
+<div class="infobox">
+
 
 “The News Gallery: Beyond Headlines” is located at the Promenade on level 11 of the National Library Building. Opened between 10am and 9pm daily, admission to this permanent exhibition is free. 
 
 </div>
 
-#### **NOTES**
+#### #### **NOTES**
 
 [^1]: Although in recent years, social media networks such as Facebook, YouTube and Instagram have made concerted efforts to stem the flow of fake news and misinformation on their sites.
-[^2]: National Library Board. (2017). *Singapore Chronicle* written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia website. 
-[^3]: National Library Board. (2005, June 15). *The Singapore Free Press* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
-[^4]: National Library Board. (2016, February 28). *The Straits Times* written by Stephanie Ho. Retrieved from Singapore Infopedia website.
-[^5]: Kennard, A. (1967, October 2). History of Chinese newspapers in Singapore. *The Straits Times*, p. 12. Retrieved from NewspaperSG. Also see Lee, M. (2020, Jan–Mar). From Lat Pau to Zaobao: A history of Chinese newspapers. *BiblioAsia, 15 (4)*. Retrieved from BiblioAsia website.
+[^2]: National Library Board. (2017). *[Singapore Chronicle](https://eresources.nlb.gov.sg/infopedia/articles/SIP_513_2005-01-06.html?s=singapore%20chronicle)* written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia website. 
+[^3]: National Library Board. (2005, June 15). *[The Singapore Free Press](https://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html?s=the%20signapore%20free%20press)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
+[^4]: National Library Board. (2016, February 28). *[The Straits Times](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-02-29_133820.html?s=the%20straits%20times%20ho)* written by Stephanie Ho. Retrieved from Singapore Infopedia website.
+[^5]: Kennard, A. (1967, October 2). [History of Chinese newspapers in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671002-1.2.96?ST=1&AT=search&k=History%20of%20Chinese%20newspapers%20in%20Singapore%20kennard&QT=history,of,chinese,newspapers,in,singapore,kennard&oref=article). *The Straits Times*, p. 12. Retrieved from NewspaperSG. Also see Lee, M. (2020, Jan–Mar). [From Lat Pau to Zaobao: A history of Chinese newspapers. *BiblioAsia, 15 (4)](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)*. Retrieved from BiblioAsia website.
 [^6]: Nirmala, M. (2013, February 9). A champion of Tamil causes who raised profile of Indians here. *The Straits Times*, p. 7. Retrieved from NewspaperSG.
-[^7]: National Library Board. (2016). *Jawi Peranakkan* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
-[^8]: National Library Board. (2014). *First issue of Utusan Malayu (1907–1921)* is published. Retrieved from HistorySG website.
-[^9]: National Library Board. (2005, June 15). *The Singapore Free Press* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website. 
+[^7]: National Library Board. (2016). *[Jawi Peranakkan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_106_2005-02-02.html?s=Jawi%20Peranakkan)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
+[^8]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921)](https://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)* is published. Retrieved from HistorySG website.
+[^9]: National Library Board. (2005, June 15). *[The Singapore Free Press](https://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html?s=the%20signapore%20free%20press)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
 [^10]: National Library Board, 15 Jun 2005. 
 [^11]: National Library Board, 15 Jun 2005.
-[^12]: Buckley, C.B. (1902). *An anecdotal history of old times in Singapore* (Vols. I and II). Singapore: Fraser & Neave, Limited. (Accession nos.: B02966444B; B02966440I)
-[^13]: Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.) (1921). *One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919* (Vols. I and II). London: John Murray. (Call no.: RCLOS 959.51 MAK)  
-[^14]: National Library Board. (2014). *First issue of Utusan Malayu (1907–1921) is published*. Retrieved from HistorySG website.
-[^15]: Roff, W.R. (1972). *Bibliography of Malay and Arabic periodicals published in the Straits Settlements and peninsular Malay states 1876–1941: With an annotated union list of holdings in Malaysia, Singapore and the United Kingdom* (p. 6). London: Oxford University Press. (Call no.: RCLOS 016.0599923 ROF)
+[^12]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/66968401/1006041,4)* (Vols. I and II). Singapore: Fraser & Neave, Limited. (Accession nos.: B02966444B; B02966440I)
+[^13]: Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.) (1921). *[One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/66968428/2294155,2)* (Vols. I and II). London: John Murray. (Call no.: RCLOS 959.51 MAK)  
+[^14]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921)](https://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)* is published. Retrieved from HistorySG website.
+[^15]: Roff, W.R. (1972). *[Bibliography of Malay and Arabic periodicals published in the Straits Settlements and peninsular Malay states 1876–1941: With an annotated union list of holdings in Malaysia, Singapore and the United Kingdom](https://www.nlb.gov.sg/biblio/542243)* (p. 6). London: Oxford University Press. (Call no.: RCLOS 016.0599923 ROF)
 
 
 
