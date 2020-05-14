@@ -1,6 +1,6 @@
 ---
 title: The News Gallery: Beyond Headlines
-permalink: /latest-issues/nl-notes/_posts/2020-05-13-The_News_Gallery
+permalink: /all-articles/nl-notes/_posts/2020-05-13-The-News-Gallery
 date: 2020-05-13T00:00:00.000Z
 third_nav_title: The News Gallery: Beyond Headlines 
 ---

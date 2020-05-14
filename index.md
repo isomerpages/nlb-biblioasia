@@ -7,11 +7,11 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: Mad Dogs and Englishmen
+        subtitle: The Rabies Outbreak in 19th-century Singapore
+        background: /images/Vol-16-issue-1/Vol16_Iss1.jpg
+        button: Read Now
+        url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
