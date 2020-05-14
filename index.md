@@ -13,21 +13,21 @@ sections:
         button: Read Now
         url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
         key_highlights:
-            - title: The News Gallery
-              description: Important highlight A is important
-              url: /all-articles/nl-notes/_posts/The-News-Gallery
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: "The News Gallery: Beyond Headlines"
+              description:
+              url: /latest-issues/nl-notes/_posts/2020-05-13-The-News-Gallery
+            - title: History Through Postcards
+              description:
+              url: /latest-issues/nl-notes/_posts/2020-04-24-History-Through-Postcardss
+            - title: "The News Gallery: Beyond Headlines"
+              description:
+              url: /latest-issues/nl-notes/_posts/2020-05-13-The-News-Gallery
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        title:
+        subtitle:
+        description:
+        button:
+        url:
 
     - resources:
         title: Past Issues
