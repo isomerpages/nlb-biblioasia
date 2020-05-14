@@ -67,7 +67,7 @@ While there are a number of English-language newspapers in Singapore today, <i>T
 
  
 
-At the height of the Michael Fay’ incident in 1994, *The Straits Times* deliberately published the opinions of US columnists alongside its own columnists to rebut their arguments. *The Straits Times, 8 April 1994. Retrieved from NewspaperSG.* 
+At the height of the Michael Fay’ incident in 1994, <>The Straits Times</i> deliberately published the opinions of US columnists alongside its own columnists to rebut their arguments. <i>The Straits Times, 8 April 1994. Retrieved from NewspaperSG.</i> 
 
 </div>   
 
@@ -89,7 +89,7 @@ The events featured include the fall of Singapore to the Japanese in February 19
 
 </div>
 
-#### On a Lighter Note**
+#### **On a Lighter Note**
 
 Newspapers are not all about serious news – they also contain advertisements, entertainment stories, food reviews, photographs, recipes, puzzles, comics and even agony aunt columns. One zone of The News Gallery, Extra! Extra!, showcases the “non-news” features of newspapers. The exhibits will be regularly updated to highlight different elements found in newspapers, with the first installment on games and quizzes such as crossword puzzles, spot the ball and sudoku. Subsequent exhibits will look at photojournalism, cartoons and caricatures, and advertisements.
 
