@@ -9,7 +9,9 @@ sections:
     - hero:
         title:
         subtitle:
-        background: /images/[Main_Banner_2.jpeg](/all-articles/issues/vol-16-issue-1-apr-jun-2020/)
+        background: /images/Main_Banner_2.jpeg
+        button: 
+        url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
         key_highlights:
             - title: "The News Gallery: Beyond Headlines"
               description:
