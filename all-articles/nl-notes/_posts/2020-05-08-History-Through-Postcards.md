@@ -51,7 +51,7 @@ The postcards printed in Singapore feature scenes and activities of a bygone era
 <br/>
 <img src="/images/Vol-16-issue-1/Postcards/warship_asama.png">
 
-This postcard was posted from the warship <i>Asama</> by Major Ōhashi Kyōzō and mailed to an address in Aichi prefecture. Being a military postcard, it did not require a postage stamp. The postcard shows a tropical sunset and two coconut trees set within a frame. The motif of the coconut tree was frequently used to evoke the exotic South Seas (Nanyō, or Nanyang) after the Japanese colonisation of Taiwan in 1895. The postcard was produced in commemoration of the Japanese Navy’s overseas training voyage from 1934 to 1935, which included Singapore (written in <i>katakana</i> characters) as a stopover. <i>Postmarked 1 January 1935. Printed by Tokyo Shibaura Asahi Printing Company. Accession no.: B32413808G_0026.</i>
+This postcard was posted from the warship <i>Asama</i> by Major Ōhashi Kyōzō and mailed to an address in Aichi prefecture. Being a military postcard, it did not require a postage stamp. The postcard shows a tropical sunset and two coconut trees set within a frame. The motif of the coconut tree was frequently used to evoke the exotic South Seas (Nanyō, or Nanyang) after the Japanese colonisation of Taiwan in 1895. The postcard was produced in commemoration of the Japanese Navy’s overseas training voyage from 1934 to 1935, which included Singapore (written in <i>katakana</i> characters) as a stopover. <i>Postmarked 1 January 1935. Printed by Tokyo Shibaura Asahi Printing Company. Accession no.: B32413808G_0026.</i>
 
 </div>
 
