@@ -38,7 +38,7 @@ Old newspapers are treasure troves of information and are a rich resource for ac
 
 The printed newspaper as we know it today began proliferating in the 17th century with the rise of the modern printing press. It took another two centuries before Singapore first English-language newspaper hit the stands when the *Singapore Chronicle and Commercial Register* rolled off the presses on 1 January 1824. Francis James Bernard, the son-in-law of Singapore’s first Resident, William Farquhar, was its editor.[^2] 
 
-In 1835, a second English newspaper called *The Singapore Free Press and Mercantile Advertiser* [^3] entered the scene. In retaliation, the Singapore Chronicle -halved its price and advertising rates, but to no avail. Barely two years later, the *Chronicle* folded; its last issue was published on 30 September 1837. Eight years later in 1845, *The Straits Times*[^4] – the newspaper that most Singaporeans are familiar with and the longest-running daily broadsheet – was launched.
+In 1835, a second English newspaper called *The Singapore Free Press and Mercantile Advertiser*<sup id="fnref:3"><a href="#fnref:3" class="footnote">3</a></sup> entered the scene. In retaliation, the Singapore Chronicle -halved its price and advertising rates, but to no avail. Barely two years later, the *Chronicle* folded; its last issue was published on 30 September 1837. Eight years later in 1845, *The Straits Times*[^4] – the newspaper that most Singaporeans are familiar with and the longest-running daily broadsheet – was launched.
 
 This zone of the exhibition also showcases non-English-language newspapers that were published in Singapore. These vernacular newspapers addressed and promoted the issues, concerns and interests of their respective communities. In the early years, Chinese-language newspapers such as *Nanyang Siang Pau* and *Sin Chew Jit Poh* were concerned with the affairs of China,[^5] while *Tamil Murasu* was the vanguard of the social reform movement that was taking place among Indians in Singapore.[^6]  Similarly, early Malay newspapers such as *Jawi Peranakkan*[^7]  and *Utusan Malayu*[^8]  championed the causes of the Malay and Muslim communities in Singapore.
 
@@ -104,6 +104,9 @@ There is also a digital station featuring electronic newspaper resources availab
 
 #### **NOTES**
 
+<li id="fn:3">
+      <p>National Library Board. (2005, June 15). <em><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html?s=the%20signapore%20free%20press">The Singapore Free Press</a></em> written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.&nbsp;<a href="#fnref:3" class="reversefootnote">↩</a></p>
+    </li>
 [^1]: Although in recent years, social media networks such as Facebook, YouTube and Instagram have made concerted efforts to stem the flow of fake news and misinformation on their sites.
 [^2]: National Library Board. (2017). *[Singapore Chronicle](https://eresources.nlb.gov.sg/infopedia/articles/SIP_513_2005-01-06.html?s=singapore%20chronicle)* written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia website. 
 [^3]: National Library Board. (2005, June 15). *[The Singapore Free Press](https://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html?s=the%20signapore%20free%20press)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
