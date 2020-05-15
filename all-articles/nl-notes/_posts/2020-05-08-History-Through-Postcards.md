@@ -83,7 +83,7 @@ Early Japanese tourists to Singapore only had a few reliable sources to turn to 
 <br/>
 <img src="/images/Vol-16-issue-1/Postcards/Alkaff_Gardens.png">
 
-Alkaff Gardens was built in 1930 in the style of a Japanese park, and was a popular destination among locals and Japanese tourists. The garden had a Japanese teahouse that served “refreshments all day and night until 12 o'clock”. The picture on this undated postcard is also featured in an advertisement for Alkaff Gardens published in the 31 May 1930 issue of the <i>Malayan Saturday Post</i>, suggesting that the postcard had been specially commissioned to publicise the garden. On the far left of the picture is a traditional Japanese lantern made of stone called a tōrō. The garden, which was located near the former Bidadari Cemetery, closed in December 1941 in preparation for war. Cedar Girls’ Secondary School currently occupies the site. <i>Accession no.: B32413806E_0002.</i>.
+Alkaff Gardens was built in 1930 in the style of a Japanese park, and was a popular destination among locals and Japanese tourists. The garden had a Japanese teahouse that served “refreshments all day and night until 12 o'clock”. The picture on this undated postcard is also featured in an advertisement for Alkaff Gardens published in the 31 May 1930 issue of the <i>Malayan Saturday Post</i>, suggesting that the postcard had been specially commissioned to publicise the garden. On the far left of the picture is a traditional Japanese lantern made of stone called a tōrō. The garden, which was located near the former Bidadari Cemetery, closed in December 1941 in preparation for war. Cedar Girls’ Secondary School currently occupies the site. <i>Accession no.: B32413806E_0002.</i>
 
 </div>
 
@@ -98,7 +98,7 @@ These postcards provided the ­recipients with an inkling of life in Singapore a
 
 Recurring images featured on postcards include fishing villages on Pulau Brani, tree-lined beaches, street views and buildings such as St Andrew’s Cathedral. 
 
-Idyllic fishing villages were very likely the first scenes that greeted travellers when they set foot on Singapore.4 The sight was a great source of fascination to Japanese travellers, and was frequently mentioned in their written and illustrated accounts of the island.[^5]
+Idyllic fishing villages were very likely the first scenes that greeted travellers when they set foot on Singapore.[^4] The sight was a great source of fascination to Japanese travellers, and was frequently mentioned in their written and illustrated accounts of the island.[^5]
 
 <div style="background-color: white;">
 <br/>
@@ -111,7 +111,7 @@ A small herd of cattle in a river, possibly the Rochor River, that once flowed i
 <br/>
 <img src="/images/Vol-16-issue-1/Postcards/Snake.png">
 
-The photo featured on this undated postcard is part of a series of four photographs titled “A Big Snake Swallowing a Deer”. The photos depict the snake with its distended belly, its capture and the subsequent release of the deer from its stomach. Postcards like this suggest that there was a market for such exotica in Singapore. <>Accession no.: B32413807F_0146.</i>
+The photo featured on this undated postcard is part of a series of four photographs titled “A Big Snake Swallowing a Deer”. The photos depict the snake with its distended belly, its capture and the subsequent release of the deer from its stomach. Postcards like this suggest that there was a market for such exotica in Singapore. <i>Accession no.: B32413807F_0146.</i>
 </div>
 
 <div style="background-color: white;">
@@ -129,11 +129,11 @@ The photo featured on this undated postcard is part of a series of four photogra
 This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo. The brief message on the front of the postcard says that the sender is writing from “far away” and that the picture is of Singapore. Postmarked 15 March 1906 (Singapore); 19 March 1906 (Hong Kong); 24 March 1906 (Tokyo). <i>Accession no.: B32440324K_0011.</i>
 </div>
 
-<div class="colourbox">
-<b>About the Lim Shao Bin Collection</b><br><br>The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.<br><br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.<br><br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – <i>Harada’s Guide</i> (1919) and <i>Shingapōru Gaiyō</i> (1923).
-Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.
 
-</div>
+| **About the Lim Shao Bin Collection** <br><br>The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.[^6]<br><br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.[^7]<br><br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – *Harada’s Guide* (1919) and *Shingapōru Gaiyō* (1923).
+Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history. |
+
+
 
 #### **Early Japanese Community** 
 
@@ -151,7 +151,7 @@ This undated postcard features a Japanese woman, likely a <i>karayuki-san</i>, i
 
 One group of Japanese migrants who received particular attention in postcards are the <i>karayuki-san</i>. Many of these women were from the poor, rural regions of Kyushu island and had been sold or kidnapped, and subsequently forced into the sex trade overseas. While often ostracised or looked down upon, they played an important role in Japan’s economic and social fabric as their presence supported fledgling local Japanese businesses (and in turn the wider Japanese economy). The women even responded to disaster relief efforts in Japan by sending home much-needed funds and supplies.
 
-Some postcards featured the <i>karayuki-san</i> posing provocatively in their kimonos, which reinforced the image of Singapore “as a centre of romanticism, exoticism, and easy sex”.6 Regardless whether the women were indeed *karayuki-san* or whether they were even living in Singapore, the fact that these postcards were bought and used suggests that the women formed part of the impressions that early travellers held of Singapore. 
+Some postcards featured the <i>karayuki-san</i> posing provocatively in their kimonos, which reinforced the image of Singapore “as a centre of romanticism, exoticism, and easy sex”.[^8] Regardless whether the women were indeed *karayuki-san* or whether they were even living in Singapore, the fact that these postcards were bought and used suggests that the women formed part of the impressions that early travellers held of Singapore. 
 
 As not much has been written about the pre-war Japanese community in Singapore, these postcards provide insights into the lives of these migrants and their social networks, and also offer new perspectives of Singapore society in the early 20th century.
 
