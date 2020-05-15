@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Mad Dogs and Englishmen
+        title: Mad Dogs and<br>Englishmen
         subtitle: The Rabies Outbreak in 19th-century Singapore
         background: /images/Main_Banner.jpg
         button: Read Now
