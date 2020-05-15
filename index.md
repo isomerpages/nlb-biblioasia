@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title:
-        subtitle: The Rabies Outbreak in 19th-century Singapore
+        subtitle:
         background: /images/Main_Banner_2.jpeg
         button: Read Now
         url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
