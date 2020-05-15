@@ -119,6 +119,13 @@ There is also a digital station featuring electronic newspaper resources availab
 [^13]: Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.) (1921). *[One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/66968428/2294155,2)* (Vols. I and II). London: John Murray. (Call no.: RCLOS 959.51 MAK)  
 [^14]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921)](https://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)* is published. Retrieved from HistorySG website.
 [^15]: Roff, W.R. (1972). *[Bibliography of Malay and Arabic periodicals published in the Straits Settlements and peninsular Malay states 1876–1941: With an annotated union list of holdings in Malaysia, Singapore and the United Kingdom](https://www.nlb.gov.sg/biblio/542243)* (p. 6). London: Oxford University Press. (Call no.: RCLOS 016.0599923 ROF)
+[^16]: National Library Board, 2014.
+[^17]: See National Library Board. (2013, July 19). Battle of Singapore by Stephane Ho. Retrieved from Singapore Infopedia website.
+[^18]: See National Library Board. (2014, September 28). Maria Hertogh riots. Retrieved from Singapore Infopedia website. 
+[^19]: See National Library Board. (2018, November). Federation of Malaysia written by Lee Meiyu. Retrieved from Singapore Infopedia website.
+[^20]: On 3 March 1994, American teenager Michael Fay was sentenced to four months’ jail, six strokes of the cane and fined S$3,000 for vandalism. His case was widely covered by the international media, especially in the US, who considered caning an archaic and barbaric act of torture. The number of cane strokes was eventually reduced to four. Singapore-US relations remained strained for a number of years after the incident. See National Library Board. (2009). Michael Fay written by Valerie Chew. Retrieved from Singapore Infopedia website; New defining moments for Singapore (2018, September 24). The Straits Times. Retrieved from The Straits Times website.    
+[^21]: The two integrated resorts, which opened in 2010, are Marina Bay Sands and Resorts World Sentosa. See National Library Board. (2011). Marina Bay Sands written by Alvin Chua. Retrieved from Singapore Infopedia website.
+
 
 
 
