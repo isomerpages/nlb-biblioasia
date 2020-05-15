@@ -57,7 +57,7 @@ While there are a number of English-language newspapers in Singapore today, <i>T
 
 
 
-<i>The Singapore Free Press</i> was set up by William Napier, a lawyer and the main owner of the paperr; George D. Coleman, the first superintendent of public works; Edward Boustead, founder of Boustead and Company; and Walter Scott Lorrain, head of Lorrain, Sandilands and Company. This is the front page of the issue dated 19 November 1835. <i>Retrieved from NewspaperSG.</i>	
+<i>The Singapore Free Press</i> was set up by William Napier, a lawyer and the main owner of the paper; George D. Coleman, the first superintendent of public works; Edward Boustead, founder of Boustead and Company; and Walter Scott Lorrain, head of Lorrain, Sandilands and Company. This is the front page of the issue dated 19 November 1835. <i>Retrieved from NewspaperSG.</i>	
 
 </div>
 
@@ -65,9 +65,9 @@ While there are a number of English-language newspapers in Singapore today, <i>T
 <br/>
 <img src="/images/Vol-16-issue-1/news/The_Straits_Times.png">
 
- 
 
-At the height of the Michael Fay’ incident in 1994, <>The Straits Times</i> deliberately published the opinions of US columnists alongside its own columnists to rebut their arguments. <i>The Straits Times, 8 April 1994. Retrieved from NewspaperSG.</i> 
+
+At the height of the Michael Fay’ incident in 1994, <i>The Straits Times</i> deliberately published the opinions of US columnists alongside its own columnists to rebut their arguments. <i>The Straits Times, 8 April 1994. Retrieved from NewspaperSG.</i> 
 
 </div>   
 

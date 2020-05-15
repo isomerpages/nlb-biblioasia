@@ -28,7 +28,6 @@ Postcards, in particular, were popular. Although space was limited and the messa
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-1/Postcards/Malay_Village.png">
-
 This undated postcard features a group of villagers in traditional Malay attire. Japanese travellers would send postcards featuring scenes such as this back home as a way of sharing their experiences abroad. In this card, the writer conveys his general greetings and notes that he is fine in Singapore. <i>Accession no.: B29626253B_0047</i>. 
 </div>
 
@@ -108,15 +107,14 @@ A small herd of cattle in a river, possibly the Rochor River, that once flowed i
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-1/Postcards/Snake.png">
-
-The photo featured on this undated postcard is part of a series of four photographs titled “A Big Snake Swallowing a Deer”. The photos depict the snake with its distended belly, its capture and the subsequent release of the deer from its stomach. Postcards like this suggest that there was a market for such exotica in Singapore. <i>Accession no.: B32413807F_0146.</i>.
+The photo featured on this undated postcard is part of a series of four photographs titled “A Big Snake Swallowing a Deer”. The photos depict the snake with its distended belly, its capture and the subsequent release of the deer from its stomach. Postcards like this suggest that there was a market for such exotica in Singapore. <i>Accession no.: B32413807F_0146.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-1/Postcards/Pulau_Brani.png">
 
-<i>Sampans</i> and serene fishing villages off Pulau Brani were sights early visitors to Singapore might have seen as they arrived on the island. <i>Publisher: Wilson & Co., Singapore. Accession no.: B32413807F_0002.</i>.
+<i>Sampans</i> and serene fishing villages off Pulau Brani were sights early visitors to Singapore might have seen as they arrived on the island. <i>Publisher: Wilson & Co., Singapore. Accession no.: B32413807F_0002.</i>
 </div>
 
 <div style="background-color: white;">
