@@ -82,7 +82,7 @@ Newspapers are not merely about serious news – they also contain advertisement
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/authors/Mazelan_Anuar.png">
+<img src="/images/Vol-16-issue-1/authors/Mazelan_Anuar.png" style="width: 100px; height: 100px;" />
 
 Mazelan Anuar is a Senior Librarian with the National Library, Singapore. His research interests are in early Malay publishing and digital librarianship. He is part of the team that manages the Malay-language collection and NewspaperSG.
 
@@ -90,7 +90,7 @@ Mazelan Anuar is a Senior Librarian with the National Library, Singapore. His re
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/authors/Faridah_Ibrahim.png">
+<img src="/images/Vol-16-issue-1/authors/Faridah_Ibrahim.png" style="width: 100px; height: 100px;" />
 
 Faridah Ibrahim is Head of Reader Services at the National Library, Singapore, where she promotes the use of credible sources for research. Her research interests include information-seeking behaviours and pedagogical approaches.
 
@@ -99,26 +99,26 @@ Faridah Ibrahim is Head of Reader Services at the National Library, Singapore, w
 #### **NOTES**
 
 [^1]: Although in recent years, social media networks such as Facebook, YouTube and Instagram have made concerted efforts to stem the flow of fake news and misinformation on their sites.
-[^2]: National Library Board. (2017). *[Singapore Chronicle](https://eresources.nlb.gov.sg/infopedia/articles/SIP_513_2005-01-06.html?s=singapore%20chronicle)* written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia website. 
-[^3]: National Library Board. (2005, June 15). *[The Singapore Free Press](https://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html?s=the%20signapore%20free%20press)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
-[^4]: National Library Board. (2016, February 28). *[The Straits Times](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-02-29_133820.html?s=the%20straits%20times%20ho)* written by Stephanie Ho. Retrieved from Singapore Infopedia website.
-[^5]: Kennard, A. (1967, October 2). [History of Chinese newspapers in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671002-1.2.96?ST=1&AT=search&k=History%20of%20Chinese%20newspapers%20in%20Singapore%20kennard&QT=history,of,chinese,newspapers,in,singapore,kennard&oref=article). *The Straits Times*, p. 12. Retrieved from NewspaperSG. Also see Lee, M. (2020, Jan–Mar). [From Lat Pau to Zaobao: A history of Chinese newspapers. *BiblioAsia, 15 (4)](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)*. Retrieved from BiblioAsia website.
-[^6]: Nirmala, M. (2013, February 9). A champion of Tamil causes who raised profile of Indians here. *The Straits Times*, p. 7. Retrieved from NewspaperSG.
-[^7]: National Library Board. (2016). *[Jawi Peranakkan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_106_2005-02-02.html?s=Jawi%20Peranakkan)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
-[^8]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921)](https://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)* is published. Retrieved from HistorySG website.
-[^9]: National Library Board. (2005, June 15). *[The Singapore Free Press](https://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html?s=the%20signapore%20free%20press)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
-[^10]: National Library Board, 15 Jun 2005. 
-[^11]: National Library Board, 15 Jun 2005.
+[^2]: National Library Board. (2017). *[Singapore Chronicle](https://eresources.nlb.gov.sg/infopedia/articles/SIP_513_2005-01-06.html)* written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia website. 
+[^3]: National Library Board. (2005, June 15). *[The Singapore Free Press](http://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
+[^4]: National Library Board. (2016, February 28). *[The Straits Times]http://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2016-02-29_133820.html)* written by Stephanie Ho. Retrieved from Singapore Infopedia website.
+[^5]: Kennard, A. (1967, October 2). [History of Chinese newspapers in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19671002-1.1.12). *The Straits Times*, p. 12. Retrieved from NewspaperSG. Also see Lee, M. (2020, Jan–Mar). [From Lat Pau to Zaobao: A history of Chinese newspapers. *BiblioAsia, 15 (4)](http://www.nlb.gov.sg/biblioasia/2020/02/21/from-lat-pau-to-zaobao-a-history-of-chinese-newspaper/)*. Retrieved from BiblioAsia website.
+[^6]: Nirmala, M. (2013, February 9). [A champion of Tamil causes who raised profile of Indians here.](http://eresources.nlb.gov.sg/newspapers/Digitised/article/straitstimes20130209-1.2.44.4) *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^7]: National Library Board. (2016). *[Jawi Peranakkan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_106_2005-02-02.html)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
+[^8]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921)](http://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bcc)* is published. Retrieved from HistorySG website.
+[^9]: National Library Board. (2005, June 15). *[The Singapore Free Press](http://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
+[^10]: [National Library Board,](http://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html) 15 Jun 2005. 
+[^11]: [National Library Board,](http://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html) 15 Jun 2005.
 [^12]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/66968401/1006041,4)* (Vols. I and II). Singapore: Fraser & Neave, Limited. (Accession nos.: B02966444B; B02966440I)
-[^13]: Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.) (1921). *[One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/66968428/2294155,2)* (Vols. I and II). London: John Murray. (Call no.: RCLOS 959.51 MAK)  
-[^14]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921)](https://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)* is published. Retrieved from HistorySG website.
-[^15]: Roff, W.R. (1972). *[Bibliography of Malay and Arabic periodicals published in the Straits Settlements and peninsular Malay states 1876–1941: With an annotated union list of holdings in Malaysia, Singapore and the United Kingdom](https://www.nlb.gov.sg/biblio/542243)* (p. 6). London: Oxford University Press. (Call no.: RCLOS 016.0599923 ROF)
-[^16]: National Library Board, 2014.
-[^17]: See National Library Board. (2013, July 19). Battle of Singapore by Stephane Ho. Retrieved from Singapore Infopedia website.
-[^18]: See National Library Board. (2014, September 28). Maria Hertogh riots. Retrieved from Singapore Infopedia website. 
-[^19]: See National Library Board. (2018, November). Federation of Malaysia written by Lee Meiyu. Retrieved from Singapore Infopedia website.
-[^20]: On 3 March 1994, American teenager Michael Fay was sentenced to four months’ jail, six strokes of the cane and fined S$3,000 for vandalism. His case was widely covered by the international media, especially in the US, who considered caning an archaic and barbaric act of torture. The number of cane strokes was eventually reduced to four. Singapore-US relations remained strained for a number of years after the incident. See National Library Board. (2009). Michael Fay written by Valerie Chew. Retrieved from Singapore Infopedia website; New defining moments for Singapore (2018, September 24). The Straits Times. Retrieved from The Straits Times website.    
-[^21]: The two integrated resorts, which opened in 2010, are Marina Bay Sands and Resorts World Sentosa. See National Library Board. (2011). Marina Bay Sands written by Alvin Chua. Retrieved from Singapore Infopedia website.
+[^13]: Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.) (1921). *[One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)* (Vols. I and II). London: John Murray. (Call no.: RCLOS 959.51 MAK)  
+[^14]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921)](http://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)* is published. Retrieved from HistorySG website.
+[^15]: Roff, W.R. (1972). *[Bibliography of Malay and Arabic periodicals published in the Straits Settlements and peninsular Malay states 1876–1941: With an annotated union list of holdings in Malaysia, Singapore and the United Kingdom](https://eservice.nlb.gov.sg/item_holding.aspx?bid=542243)* (p. 6). London: Oxford University Press. (Call no.: RCLOS 016.0599923 ROF)
+[^16]: [National Library Board,](ttp://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc) 2014.
+[^17]: See National Library Board. (2013, July 19). *[Battle of Singapore]*(https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_113523.html) by Stephane Ho. Retrieved from Singapore Infopedia website.
+[^18]: See National Library Board. (2014, September 28). *[Maria Hertogh riots.]*(https://eresources.nlb.gov.sg/infopedia/articles/SIP_83_2005-02-02.html) Retrieved from Singapore Infopedia website. 
+[^19]: See National Library Board. (2018, November). *[Federation of Malaysia]*(https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-07-15_170844.html) written by Lee Meiyu. Retrieved from Singapore Infopedia website.
+[^20]: On 3 March 1994, American teenager Michael Fay was sentenced to four months’ jail, six strokes of the cane and fined S$3,000 for vandalism. His case was widely covered by the international media, especially in the US, who considered caning an archaic and barbaric act of torture. The number of cane strokes was eventually reduced to four. Singapore-US relations remained strained for a number of years after the incident. See National Library Board. (2009). *[Michael Fay]*(https://eresources.nlb.gov.sg/infopedia/articles/SIP_1554_2009-08-06.html) written by Valerie Chew. Retrieved from Singapore Infopedia website; New defining moments for Singapore (2018, September 24). The Straits Times. Retrieved from The Straits Times website.    
+[^21]: The two integrated resorts, which opened in 2010, are Marina Bay Sands and Resorts World Sentosa. See National Library Board. (2011). *[Marina Bay Sands]*(https://eresources.nlb.gov.sg/infopedia/articles/SIP_1607_2011-11-01.html) written by Alvin Chua. Retrieved from Singapore Infopedia website.
 
 
 
