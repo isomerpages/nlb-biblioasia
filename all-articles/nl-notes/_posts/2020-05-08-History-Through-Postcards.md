@@ -131,7 +131,7 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 </div>
 
 <div style="background-color: white;">
-"        "
+        
 
 </div>
 
