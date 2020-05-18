@@ -4,6 +4,8 @@ title: Director's note
 date: 2020-05-18T00:00:00.000Z
 permalink: /all-articles/features/Directors-Note
 
+---
+
 These are challenging times. As I write this note, a “circuit breaker” is in place to reduce the rise of Covid-19 infections in Singapore. Schools, libraries and many businesses are closed and the majority of us are working from home: social distancing is now the new normal.
 
 What gives me some comfort is that throughout history, humankind has faced other fatal infectious diseases and ultimately prevailed. In our cover story, Timothy P. Barnard looks at the deadly rabies outbreak in late 19th-century Singapore. Rabies caused a great scare here and led to the culling of over 22,000 dogs, but eventually it was eradicated from our shores. 
