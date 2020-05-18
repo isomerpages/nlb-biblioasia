@@ -1,6 +1,6 @@
 ---
 title: Director's Note
-permalink: /latest-issues/features/_posts/2020-05-18-Director-Note
+permalink: /all-articles/features/_posts/2020-05-18-Director-Note
 date: 2020-05-18T00:00:00.000Z
 third_nav_title: Director's Note
 
