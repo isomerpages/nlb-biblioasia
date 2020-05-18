@@ -130,6 +130,11 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 
 </div>
 
+<div style="background-color: white;">
+"        "
+
+</div>
+
 <br><br>| **About the Lim Shao Bin Collection**<br><br>The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.[^6]<br><br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.[^7]<br><br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – *Harada’s Guide* (1919) and *Shingapōru Gaiyō* (1923).<br><br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history. |
 
 #### **Early Japanese Community** 
@@ -174,7 +179,7 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 [^3]: Schencking, J.C. (1999, October). The Imperial Japanese Navy and the constructed consciousness of a South Seas destiny, 1872–1921., *Modern Asian Studies, 33* (4), 769–796, pp. 772–73. Retrieved from JSTOR via NLB’s eResources website. 
 [^4]: Nishihara suggests that Pulau Brani was likely the model for the water villages depicted in the works of Shikō Imamura’s (今村紫紅) *Scrolls of Tropical Countries (Morning Scroll)* [熱国之巻（朝之巻)] [Nekkoku no Maki (Asa no Maki)], which was designated as an important cultural property in Japan, indicating that the sight of Pulau Brani likely constituted one of the key Japanese perspectives of Singapore. 西原大輔 [Daisuke Nishihara]. (2017). 日本人のシンガポール体験：幕末明治から日本占領下・戦後まで [Nihonjin no Shingapōru Taiken: Bakumatsumeiji kara nihonsenryōka.sengo made] (p. 88). Kyoto, Japan: Jinbun Shoin. (Not available in NLB holdings) 
 [^5]: Nishihara, 2017, p. 88.
-[^6]: For more information on the collection, see Lee, G. (2018). Japan in Southeast Asia: The Lim Shao Bin Collection. *BiblioAsia 14 (2).* Retrieved  from BiblioAsia website.
+[^6]: For more information on the collection, see Lee, G. (2018, Jul-Sep). Japan in Southeast Asia: The Lim Shao Bin Collection. *BiblioAsia, 14 (2).* Retrieved  from BiblioAsia website.
 [^7]: Lim Shao Bin is the editor of *Images of Singapore from the Japanese Perspective (1868–1941)*, which contains over 1,000 images from postcards, maps and photo albums that trace shifting Japanese perspectives of Singapore. See Lim, T.W. & Lim, S.B. (2004). *[Images of Singapore from the Japanese perspective (1868–1941)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12410034)*. Singapore: The Japanese Cultural Society. (Call no.: RSING 959.57 IMA-[HIS])
 [^8]: Warren, J. (1993). *[Ah ku and karayuki-san: Prostitution in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 252). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
 
