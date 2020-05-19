@@ -189,6 +189,6 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 [^8]: Warren, J. (1993). *[Ah ku and karayuki-san: Prostitution in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 252). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
 
 <div class="backbox">
-[Back](https://nlb-ba-staging.netlify.app/all-articles/issues/vol-16-issue-1-apr-jun-2020/)
+<a href="https://nlb-ba-staging.netlify.app/all-articles/issues/vol-16-issue-1-apr-jun-2020/">Back</a>
 
 </div>
