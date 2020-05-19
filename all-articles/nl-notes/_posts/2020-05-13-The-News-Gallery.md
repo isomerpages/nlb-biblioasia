@@ -16,7 +16,7 @@ table {
 }
 </style>
 
-There is more to news that meets the eye. **Mazelan Anuar** and **Faridah Ibrahim** give us the scoop on the National Library’s latest exhibition. 
+### There is more to news than meets the eye. **Mazelan Anuar** and **Faridah Ibrahim** give us the scoop on the National Library’s latest exhibition. 
 
 <div style="background-color: white;">
 <br/>
@@ -28,7 +28,7 @@ The “Behind Every Story” interactive zone showcases significant events from 
 
 </div>
 
-While rumours, falsehoods and hoaxes have been around since time immemorial, the advent of the internet and the proliferation of social media platforms have accelerated the speed at which such news is disseminated today.[^1] of information (and disinformation) people are presented with from both established and new sources of media.
+While rumours, falsehoods and hoaxes have been around since time immemorial, the advent of the internet and the proliferation of social media platforms have accelerated the speed at which such news is disseminated today.[^1] The need to sift fact from fiction is all the more important given the volume of information (and disinformation) people are presented with from both established and new sources of media.
 
 With this in mind, the exhibition “The News Gallery: Beyond Headlines” was launched in March this year by the National Library Board. The exhibition, on level 11 of the National Library building, contains six zones, each focusing on a different aspect of the news landscape, including one on the history of newspapers in Singapore. 
 
