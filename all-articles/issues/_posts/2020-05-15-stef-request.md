@@ -1,9 +1,9 @@
 ---
 layout: post
-title: BiblioAsia Jan-Mar 2020 Vol 16: Mad Dogs and Englishmen
+title: "BiblioAsia Jan-Mar 2020 Vol 16: Mad Dogs and Englishmen"
 date: 2020-05-15T00:00:00.000Z
 breadcrumb: "Vol 16 Issue 1, Apr-Jun 2020"
-permalink: /all-articles/issues/copy1/
+permalink: /all-articles/issues/stef-request/
 ---
 
 <img src="/images/Vol-16-issue-1/Vol16_Iss1.jpg">
