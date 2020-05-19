@@ -1,7 +1,6 @@
 ---
 title: History Through Postcards
 permalink: /latest-issues/nl-notes/_posts/2020-04-24-History-Through-Postcardss
-date: 2020-05-08T00:00:00.000Z
 third_nav_title: History Through Postcards
 ---
 
