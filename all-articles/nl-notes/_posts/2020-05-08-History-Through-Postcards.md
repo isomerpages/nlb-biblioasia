@@ -13,6 +13,11 @@ table {
   margin: 20px;
   background: #e1deea
 }
+.backbox { 
+  padding: 20px;
+  margin: 20px;
+  background: white
+}
 </style>
 
 
@@ -182,6 +187,8 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 [^6]: For more information on the collection, see Lee, G. (2018, Jul–Sep). Japan in Southeast Asia: The Lim Shao Bin Collection. *BiblioAsia, 14 (2).* Retrieved  from BiblioAsia website.
 [^7]: Lim Shao Bin is the editor of *Images of Singapore from the Japanese Perspective (1868–1941)*, which contains over 1,000 images from postcards, maps and photo albums that trace shifting Japanese perspectives of Singapore. See Lim, T.W. & Lim, S.B. (2004). *[Images of Singapore from the Japanese perspective (1868–1941)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12410034)*. Singapore: The Japanese Cultural Society. (Call no.: RSING 959.57 IMA-[HIS])
 [^8]: Warren, J. (1993). *[Ah ku and karayuki-san: Prostitution in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 252). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
-#### 
 
+<div class="backbox">
 [Back](https://nlb-ba-staging.netlify.app/all-articles/issues/vol-16-issue-1-apr-jun-2020/)
+
+</div>
