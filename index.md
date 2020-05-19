@@ -10,18 +10,18 @@ sections:
         title:
         subtitle:
         background: /images/Main_Banner_2.jpeg
-        button: 
+        button: 'Read this issue'
         url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
         key_highlights:
-            - title: "The News Gallery: Beyond Headlines"
+            - title: "Mad Dogs and Englishmen"
               description:
-              url: /latest-issues/nl-notes/_posts/2020-05-13-The-News-Gallery
-            - title: History Through Postcards
+              url: /latest-issues/nl-notes/_posts/2020-05-19-Mad-Dogs
+            - title: Malay Seals from Singapore
+              description:
+              url: /latest-issues/nl-notes/_posts/2020-05-19-Malay-Seals
+            - title: "History Through Postcards"
               description:
               url: /latest-issues/nl-notes/_posts/2020-04-24-History-Through-Postcardss
-            - title: "The News Gallery: Beyond Headlines"
-              description:
-              url: /latest-issues/nl-notes/_posts/2020-05-13-The-News-Gallery
     - resources:
         title: Past Issues
         subtitle: Read Our
