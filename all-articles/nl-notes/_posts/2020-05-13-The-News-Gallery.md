@@ -12,7 +12,7 @@ table {
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: lightgrey
+  background: #e1deea
 }
 </style>
 
