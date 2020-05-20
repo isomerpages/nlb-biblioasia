@@ -25,5 +25,5 @@ sections:
     - resources:
         title: Past Issues
         subtitle: Read Our
-        button: View More
+        button: View More Issues
 ---
