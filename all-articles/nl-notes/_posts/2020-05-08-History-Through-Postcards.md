@@ -177,7 +177,7 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 </div>
 
 <div class="backbox">
-<a href="https://nlb-ba-staging.netlify.app/all-articles/issues/vol-16-issue-1-apr-jun-2020/">Back</a>
+<a href="https://nlb-ba-staging.netlify.app/all-articles/issues/vol-16-issue-1-apr-jun-2020/"><center>Back to In This Issue</center></a>
 
 </div>
 
