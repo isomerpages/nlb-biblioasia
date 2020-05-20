@@ -9,7 +9,7 @@ sections:
     - hero:
         title:
         subtitle:
-        background: /images/Main_Banner_2.jpeg
+        background: /images/Main_Banner.jpeg
         button: 'Read this issue'
         url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
         key_highlights:
