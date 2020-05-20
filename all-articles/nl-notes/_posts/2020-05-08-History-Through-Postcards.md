@@ -180,7 +180,6 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 <a href="https://nlb-ba-staging.netlify.app/all-articles/issues/vol-16-issue-1-apr-jun-2020/"><center>Back to In This Issue</center></a>
 
 </div>
-
 #### **NOTES**
 
 [^1]: Cheah, J. S. (2006). *[Singapore: 500 early postcards](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716049)* (p. 8). Singapore: Editions Didier Millet. (Call no.: RSING 769.566095957 CHE)
