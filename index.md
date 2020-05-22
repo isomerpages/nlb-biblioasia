@@ -5,7 +5,6 @@ description: BiblioAsia is a quarterly magazine produced by the National Library
 image: /images/isomer-logo.svg
 permalink: /
 notification: 
-
 sections:
     - hero:
         title: 
@@ -38,5 +37,4 @@ sections:
     url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
     image: /images/Vol-16-issue-1/sample malay seal.JPG
     alt: Sample of the Malay Seal
-
 ---
