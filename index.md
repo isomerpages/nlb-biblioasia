@@ -6,5 +6,14 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: 
 sections:
-  
+    - hero:
+        title:
+        subtitle:
+        background: /images/Main_Banner.jpg
+        button:
+        url:
+        key_highlights:
+            - title: "Read this issue"
+              description:
+              url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
 ---
