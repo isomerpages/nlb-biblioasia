@@ -18,10 +18,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
-
 collections:
   all-issues:
     output: true
