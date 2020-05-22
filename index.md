@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: NLB BiblioAsia
 description: BiblioAsia is a quarterly magazine produced by the National Library of Singapore
 image: /images/isomer-logo.svg
 permalink: /
