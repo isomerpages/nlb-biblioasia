@@ -40,7 +40,7 @@ sections:
         subtitle: Highlights
         description: One postcard may not say much but a collection of postcards can speak volumes. A new book published by the National Library, Postcard Impressions of Early 20th-Century Singapore, features postcards from the Lim Shao Bin Collection. Find out what they have to say.
         button: Read this article
-        url: /all-articles/nl-notes/_posts/2020-05-08-History-Through-Postcards.md
+        url: /latest-issues/nl-notes/_posts/2020-04-24-history-through-postcardss
         image: /images/Vol-16-issue-1/sample postcard.JPG
         alt: Sample of the Postcard       
       
