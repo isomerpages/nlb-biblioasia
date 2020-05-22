@@ -22,11 +22,6 @@ colors:
 homepage_hero_i_want_to: false
 homepage_resources: true
 
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
-safe: false
-
 collections:
   all-issues:
     output: true
