@@ -16,4 +16,8 @@ sections:
             - title: "Read this issue"
               description:
               url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
+     - resources:
+        title: Past Issues
+        subtitle: Read Our
+        button: View More Issues
 ---
