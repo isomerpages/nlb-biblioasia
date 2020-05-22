@@ -10,18 +10,12 @@ sections:
         title:
         subtitle:
         background: /images/Main_Banner.jpg
-        button: 'Read this issue'
-        url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
+        button:
+        url:
         key_highlights:
-            - title: "Mad Dogs and Englishmen"
+            - title: "Read this issue"
               description:
-              url: /latest-issues/nl-notes/_posts/2020-05-19-Mad-Dogs
-            - title: Malay Seals from Singapore
-              description:
-              url: /latest-issues/nl-notes/_posts/2020-05-19-Malay-Seals
-            - title: "History Through Postcards"
-              description:
-              url: /latest-issues/nl-notes/_posts/2020-04-24-History-Through-Postcardss
+              url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
     - resources:
         title: Past Issues
         subtitle: Read Our
