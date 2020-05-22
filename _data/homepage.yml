@@ -30,7 +30,7 @@ info-sections:
     section-more-button: Read this article
     external: false
     section-more-button-url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
-    section-image-path: 
+    section-image-path: /images/Vol-16-issue-1/sample postcard.JPG
   - section-title: 
     section-subtitle: "Malay Seals from Singapore"
     section-description: |
@@ -38,7 +38,7 @@ info-sections:
     section-more-button: Read this article
     external: false
     section-more-button-url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
-    section-image-path: 
+    section-image-path: /images/Vol-16-issue-1/sample malay seal.JPG
   - section-title: 
     section-subtitle: "History Through Postcards"
     section-description: |
@@ -46,5 +46,5 @@ info-sections:
     section-more-button: Read this article
     external: false
     section-more-button-url: /latest-issues/nl-notes/_posts/2020-04-24-history-through-postcardss
-    section-image-path:
+    section-image-path: /images/Vol-16-issue-1/sample postcard.JPG
 
