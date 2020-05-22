@@ -16,10 +16,6 @@ sections:
             - title: "Read this issue"
               description:
               url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
-    - resources:
-        title: Past Issues
-        subtitle: Read Our
-        button: View More Issues
 
     - infopic:
         title: Mad Dogs and Englishmen
@@ -38,5 +34,10 @@ sections:
         url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
         image: /images/Vol-16-issue-1/sample malay seal.JPG
         alt: Sample of the Malay Seal
+    
+    - resources:
+        title: Past Issues
+        subtitle: Read Our
+        button: View More Issues
     
 ---
