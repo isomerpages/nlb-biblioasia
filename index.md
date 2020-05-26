@@ -31,7 +31,7 @@ sections:
         subtitle: Highlights
         description: A careful study of the intricate designs of 19th-century Malay seals and the imprints they leave behind can reveal a surprising amount of information.
         button: Read this article
-        url: /all-articles/issues/vol-16-issue-1-apr-jun-2020/
+        url: /all-articles/nl-notes/_posts/2020-05-19-Malay-Seals
         image: /images/Vol-16-issue-1/sample malay seal.JPG
         alt: Sample of the Malay Seal
     
