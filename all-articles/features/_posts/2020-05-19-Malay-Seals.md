@@ -1,6 +1,6 @@
 ---
 title: "Malay Seals from Singapore"
-permalink: /latest-issues/nl-notes/_posts/2020-05-19-Malay-Seals
+permalink: /latest-issues/features/_posts/2020-05-19-Malay-Seals
 third_nav_title: Malay Seals from Singapore
 ---
 
