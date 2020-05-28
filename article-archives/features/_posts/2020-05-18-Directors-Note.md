@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Director's note
 date: 2020-04-01T00:00:00.000Z
 permalink: /article-archives/features/Directors-Note
-
+third_nav_title: Director's note
 ---
 
 These are challenging times. As I write this note, a “circuit breaker” is in place to reduce the rise of Covid-19 infections in Singapore. Schools, libraries and many businesses are closed and the majority of us are working from home: social distancing is now the new normal.
