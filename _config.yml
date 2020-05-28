@@ -21,7 +21,7 @@ colors:
 collections:
   all-issues:
     output: true
-resources_name: all-articles
+resources_name: article-archives
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
