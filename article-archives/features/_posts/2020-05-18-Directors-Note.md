@@ -2,7 +2,7 @@
 layout: post
 title: Director's note
 date: 2020-04-01T00:00:00.000Z
-permalink: /all-articles/features/Directors-Note
+permalink: /article-archives/features/Directors-Note
 
 ---
 
