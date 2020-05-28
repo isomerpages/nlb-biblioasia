@@ -1,6 +1,5 @@
 ---
 title: Director's note
-date: 2020-04-01T00:00:00.000Z
 permalink: /article-archives/features/Directors-Note
 third_nav_title: Director's note
 ---
