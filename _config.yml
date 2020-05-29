@@ -19,11 +19,9 @@ colors:
       color: '#00838f'
 
 collections:
-  past-issues:
-    output: true
-
-collections:
   all-issues:
+    output: true
+  past-issues:
     output: true
 resources_name: article-archives
 
