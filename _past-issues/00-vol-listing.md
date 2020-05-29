@@ -1,7 +1,7 @@
 ---
 title: Past Issues
 permalink: /past-issues/
-breadcrumb: Past Issues
+breadcrumb: Overview
 collection_name: past-issues
 ---
 
