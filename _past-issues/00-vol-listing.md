@@ -5,4 +5,4 @@ breadcrumb: Overview
 collection_name: past-issues
 ---
 
-Bah bah bah...
+Past listing landing page
