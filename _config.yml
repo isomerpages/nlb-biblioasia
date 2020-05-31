@@ -23,7 +23,7 @@ collections:
     output: true
   past-issues:
     output: true
-resources_name: article-archives
+resources_name: articles-archive
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
