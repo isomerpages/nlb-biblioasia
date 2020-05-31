@@ -89,6 +89,8 @@ Faridah Ibrahim is Head of Reader Services at the National Library, Singapore, w
 
 </div>
 
+<a href="https://nlb-ba-staging.netlify.app/articles-archive/issues/vol-16-issue-1-apr-jun-2020/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 
 [^1]: Although in recent years, social media networks such as Facebook, YouTube and Instagram have made concerted efforts to stem the flow of fake news and misinformation on their sites.
