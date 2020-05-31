@@ -1,8 +1,8 @@
 ---
-title: "Malay Seals from Singapore"
+title: "Witness to History"
 date: 2020-04-01T00:00:00.000Z
-permalink: /article-archives/features/_posts/2020-05-19-Malay-Seals
-third_nav_title: Malay Seals from Singapore
+permalink: /article-archives/features/_posts/2020-04-01-witness-to-history
+third_nav_title: "Witness to History"
 ---
 
 <style>
