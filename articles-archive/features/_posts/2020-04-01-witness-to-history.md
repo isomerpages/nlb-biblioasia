@@ -1,8 +1,8 @@
 ---
-title: "Mad Dogs and Englishmen"
+title: "Witness to History"
 date: 2020-04-01T00:00:00.000Z
-permalink: /article-archives/features/_posts/2020-05-19-Mad-Dogs
-third_nav_title: Mad Dogs and Englishmen
+permalink: /articles-archive/features/_posts/2020-04-01-witness-to-history
+third_nav_title: "Witness to History"
 ---
 
 <style>
