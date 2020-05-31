@@ -21,6 +21,8 @@ colors:
 collections:
   all-issues:
     output: true
+  past-issues:
+    output: true
 resources_name: article-archives
 
 ##################################################################################################################
