@@ -1,7 +1,7 @@
 ---
 title: "Witness to History"
 date: 2020-04-01T00:00:00.000Z
-permalink: /article-archives/features/_posts/2020-04-01-witness-to-history
+permalink: /vol-16/issues-1/apr-jun-2020/witness-to-history
 third_nav_title: "Witness to History"
 ---
 

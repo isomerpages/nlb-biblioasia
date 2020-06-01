@@ -1,7 +1,7 @@
 ---
 title: History Through Postcards
 date: 2020-04-01T00:00:00.000Z
-permalink: /articles-archive/features/2020-04-24-history-through-postcards
+permalink: /vol-16/issues-1/apr-jun-2020/history-through-postcards
 third_nav_title: History Through Postcards
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Keong Saik Road: The Other Side of the Red-Light District"
 date: 2020-04-01T00:00:00.000Z
-permalink: /article-archives/features/_posts/2020-04-01-Keong-Saik
+permalink: /vol-16/issues-1/apr-jun-2020/keong-saik
 third_nav_title: "Keong Saik Road: The Other Side of the Red-Light District"
 ---
 

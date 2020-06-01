@@ -1,6 +1,6 @@
 ---
 title: "The News Gallery: Beyond Headlines"
-permalink: /latest-issues/features/_posts/2020-05-13-The-News-Gallery
+permalink: /vol-16/issues-1/apr-jun-2020/the-news-gallery
 date: 2020-04-01T00:00:00.000Z
 third_nav_title: The News Gallery – Beyond Headlines
 ---
