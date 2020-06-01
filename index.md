@@ -32,7 +32,7 @@ sections:
         description: A careful study of the intricate designs of 19th-century Malay seals and the imprints they leave behind can reveal a surprising amount of information.
         button: Read this article
         url: /articles-archive/features/_posts/2020-05-19-malay-seals
-        image: /images/Vol-16-issue-1/Malay Seals/Fig.6-MHC, Sept 2012 (2)_100dpi.JPG
+        image: /images/Vol-16-issue-1/sample malay seal.JPG
         alt: Sample of the Malay Seal
     
     - infopic:
@@ -41,7 +41,7 @@ sections:
         description: One postcard may not say much but a collection of postcards can speak volumes. A new book published by the National Library, Postcard Impressions of Early 20th-Century Singapore, features postcards from the Lim Shao Bin Collection. Find out what they have to say.
         button: Read this article
         url: /articles-archive/features/_posts/2020-04-24-history-through-postcardss
-        image: /images/Vol-16-issue-1/Postcards/rochor_river.JPG
+        image: /images/Vol-16-issue-1/sample postcard.JPG
         alt: Sample of the Postcard       
       
 ---
