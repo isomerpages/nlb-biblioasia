@@ -12,6 +12,6 @@ links:
   - title: Features
     url: articles-archive/features/
   - title: Articles Archive
-    resource room: true
+    resource_room: true
   - title: Past Issues
     url: /past-issues/
