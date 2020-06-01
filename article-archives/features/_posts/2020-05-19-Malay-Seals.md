@@ -1,8 +1,8 @@
 ---
-title: "Milestones to the Metric System"
+title: "Malay Seals from Singapore"
 date: 2020-04-01T00:00:00.000Z
-permalink: /articles-archive/features/_posts/2020-04-01-Metric
-third_nav_title: "Milestones to the Metric System"
+permalink: /article-archives/features/_posts/2020-05-19-Malay-Seals
+third_nav_title: Malay Seals from Singapore
 ---
 
 <style>
