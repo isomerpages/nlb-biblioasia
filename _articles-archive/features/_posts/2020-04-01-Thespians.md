@@ -1,7 +1,7 @@
 ---
 title: "The Thespians of RAF Seletar"
 date: 2020-04-01T00:00:00.000Z
-permalink: /_articles-archive/features/_posts/2020-04-01-Thespians
+permalink: /articles-archive/features/_posts/2020-04-01-Thespians
 third_nav_title: "The Thespians of RAF Seletar"
 ---
 

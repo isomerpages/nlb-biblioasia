@@ -1,7 +1,7 @@
 ---
 title: "Malay Seals from Singapore"
 date: 2020-04-01T00:00:00.000Z
-permalink: /_articles-archive/features/_posts/2020-05-19-Malay-Seals
+permalink: /articles-archive/features/_posts/2020-05-19-Malay-Seals
 third_nav_title: Malay Seals from Singapore
 ---
 
