@@ -7,6 +7,8 @@ collection_name: past-issues
 
 ### BiblioAsia Jan-Mar 2020 (v.15/4): [Remembering Rediffusion](http://www.nlb.gov.sg/biblioasia/category/vol-15-issue-4/)
 
+![Cover of BA 15-3](/images/covers/ba cover 15-4.JPG)
+
 [Director’s Note](http://www.nlb.gov.sg/biblioasia/2020/02/21/directors-note-16/)
 
 [Rediffusion’s Golden Years](http://www.nlb.gov.sg/biblioasia/2020/02/21/rediffusions-golden-years/)
@@ -28,5 +30,3 @@ collection_name: past-issues
 [The Istana Turns 150](http://www.nlb.gov.sg/biblioasia/2020/02/21/the-istana-turns-150/)
 
 [Head Count: The History of Census-taking in Singapore](http://www.nlb.gov.sg/biblioasia/2020/02/21/head-count-the-history-of-census-taking-in-singapore/)
-
-
