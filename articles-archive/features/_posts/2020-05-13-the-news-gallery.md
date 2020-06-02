@@ -89,7 +89,7 @@ Faridah Ibrahim is Head of Reader Services at the National Library, Singapore, w
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/all-articles/issues/vol-16-issue-1-apr-jun-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
