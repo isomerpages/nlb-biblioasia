@@ -181,8 +181,7 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 
 #### **NOTES**
 
-###### [^1]: Cheah, J. S. (2006). *[Singapore: 500 early postcards](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716049)* (p. 8). Singapore: Editions Didier Millet. (Call no.: RSING 769.566095957 CHE)
-###### [^2]: National Archives. (1986). *[Singapore historical postcards from the National Archives Collection](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182977)* (p. 8). Singapore: Marshall Cavendish Editions. (Call no.: RSING 769.95957 SIN)
+##### [^1]: Cheah, J. S. (2006). *[Singapore: 500 early postcards](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716049)* (p. 8). Singapore: Editions Didier Millet. (Call no.: RSING 769.566095957 CHE)	[^2]: National Archives. (1986). *[Singapore historical postcards from the National Archives Collection](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182977)* (p. 8). Singapore: Marshall Cavendish Editions. (Call no.: RSING 769.95957 SIN)
 [^3]: Schencking, J.C. (1999, October). The Imperial Japanese Navy and the constructed consciousness of a South Seas destiny, 1872–1921., *Modern Asian Studies, 33* (4), 769–796, pp. 772–73. Retrieved from JSTOR via NLB’s eResources website. 
 [^4]: Nishihara suggests that Pulau Brani was likely the model for the water villages depicted in the works of Shikō Imamura’s (今村紫紅) *Scrolls of Tropical Countries (Morning Scroll)* [熱国之巻（朝之巻)] [Nekkoku no Maki (Asa no Maki)], which was designated as an important cultural property in Japan, indicating that the sight of Pulau Brani likely constituted one of the key Japanese perspectives of Singapore. 西原大輔 [Daisuke Nishihara]. (2017). 日本人のシンガポール体験：幕末明治から日本占領下・戦後まで [Nihonjin no Shingapōru Taiken: Bakumatsumeiji kara nihonsenryōka.sengo made] (p. 88). Kyoto, Japan: Jinbun Shoin. (Not available in NLB holdings) 
 [^5]: Nishihara, 2017, p. 88.
