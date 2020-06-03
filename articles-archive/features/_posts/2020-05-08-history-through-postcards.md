@@ -165,8 +165,9 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 
 <div class="infobox">
 <img src="/images/Vol-16-issue-1/Postcards/Lim_Shao_Bin_mockup.png" style="width: 200px; height: 200px;" />
-<b>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS])](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382). It also retails at major bookshops in Singapore. 
+    <b>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382">Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS])</a>. It also retails at major bookshops in Singapore. 
 </div>
+
 
 <div style="background-color: white;">
 <br/>
