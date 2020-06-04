@@ -7,7 +7,7 @@ collection_name: past-issues
 
 ### BiblioAsia Jan-Mar 2020 (v.15/4): [Remembering Rediffusion](http://www.nlb.gov.sg/biblioasia/category/vol-15-issue-4/)
 
-<img src="/images/covers/ba cover 15-4.JPG" alt="Cover of BA 15-3" width="322" height="489">
+![Cover of BA 15-4](/images/covers/BA 15-4v2.jpg)
 
 [Director’s Note](http://www.nlb.gov.sg/biblioasia/2020/02/21/directors-note-16/)
 
