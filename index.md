@@ -13,7 +13,7 @@ sections:
         button:
         url:
         key_highlights:
-            - title: "Read <b>BiblioAsia Apr-Jun 2020 (v. 16/1)</b>"
+            - title: "Read <b>BiblioAsia Apr-Jun 2020</b>"
               description:
               url: /vol-16/issue-1/apr-jun-2020/
 
