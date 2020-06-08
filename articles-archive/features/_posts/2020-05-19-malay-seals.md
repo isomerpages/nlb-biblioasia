@@ -18,6 +18,11 @@ table {
 
 #### Malay seals of the 19th century hold important information says **Annabel Teh Gallop**.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg">
+</div>
+
 Malay seals – defined as seals from Southeast Asia, or used by Southeast Asians, with inscriptions in Arabic script – have been found everywhere in the Malay Archipelago. As small but highly visible and symbolic emblems of their owners, Malay seals were designed to portray the image of the self that the seal holder wished to project, but they were also no less strongly shaped by the prevailing cultural, religious and artistic norms of their time. These multiple layers of identity – both consciously and subconsciously revealed in seals – are recorded, explored and interpreted in a new catalogue of Malay seals.
 
 *Malay Seals from the Islamic World of Southeast Asia* – published in Singapore by NUS Press in association with The British Library,[^1] and in Indonesia by Lontar Foundation – presents 2,168 Malay seals sourced from more than 70 public institutions and 60 private collections worldwide. The seals were retrieved mainly from impressions stamped in lampblack (a material obtained from candles or oil lamps), ink or wax on manuscript letters, treaties and other documents. In addition, around 300 silver, brass and stone seal matrices (the objects used to make the impression) are also documented. 
@@ -104,7 +109,7 @@ Red ink seal impression of Sultan Ali Iskandar Syah, from a letter to Orfeur Cav
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/malay-seals/silver-seal.jpg">
+<img src="/images/Vol-16-issue-1/malay-seals/silver-seal.png">
 
 The silver seal matrix of Encik Bujal, official of Sultan Ali, exhibited in the Malay Heritage Centre in 2012 (cat. 991 in Gallop 2019).
 
