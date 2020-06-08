@@ -10,14 +10,23 @@ collection_name: past-issues
 ![Cover of BA 15-4](/images/covers/BA 15-4v2.jpg)
 
 [Director’s Note](http://www.nlb.gov.sg/biblioasia/2020/02/21/directors-note-16/)
-[Rediffusion’s Golden Years](http://www.nlb.gov.sg/biblioasia/2020/02/21/rediffusions-golden-years/)
-[The Theatres of Bangsawan](http://www.nlb.gov.sg/biblioasia/2020/02/21/the-theatres-of-bangsawan/)
-[When Women Were Commodities](http://www.nlb.gov.sg/biblioasia/2020/02/21/when-women-were-commodities/)
-[Snakes, Tigers and Cannibals: Ida Pfeiffer’s Travels in Southeast Asia](http://www.nlb.gov.sg/biblioasia/2020/02/21/snakes-tigers-and-cannibals-ida-pfeiffers-travels-in-southeast-asia/)
-[The Vietnam War Through Singapore Eyes](http://www.nlb.gov.sg/biblioasia/2020/02/21/the-vietnam-war-through-singapore-eyes/)
-[Trial by Firing Squad](http://www.nlb.gov.sg/biblioasia/2020/02/21/trial-by-firing-squad/)
-[From Lat Pau to Zaobao: A History of Chinese Newspapers](http://www.nlb.gov.sg/biblioasia/2020/02/21/from-lat-pau-to-zaobao-a-history-of-chinese-newspaper/)
-[Early Printing in Indochina](http://www.nlb.gov.sg/biblioasia/2020/02/21/early-printing-in-indochina/)
-[The Istana Turns 150](http://www.nlb.gov.sg/biblioasia/2020/02/21/the-istana-turns-150/)
-[Head Count: The History of Census-taking in Singapore](http://www.nlb.gov.sg/biblioasia/2020/02/21/head-count-the-history-of-census-taking-in-singapore/)
 
+[Rediffusion’s Golden Years](http://www.nlb.gov.sg/biblioasia/2020/02/21/rediffusions-golden-years/)
+
+[The Theatres of Bangsawan](http://www.nlb.gov.sg/biblioasia/2020/02/21/the-theatres-of-bangsawan/)
+
+[When Women Were Commodities](http://www.nlb.gov.sg/biblioasia/2020/02/21/when-women-were-commodities/)
+
+[Snakes, Tigers and Cannibals: Ida Pfeiffer’s Travels in Southeast Asia](http://www.nlb.gov.sg/biblioasia/2020/02/21/snakes-tigers-and-cannibals-ida-pfeiffers-travels-in-southeast-asia/)
+
+[The Vietnam War Through Singapore Eyes](http://www.nlb.gov.sg/biblioasia/2020/02/21/the-vietnam-war-through-singapore-eyes/)
+
+[Trial by Firing Squad](http://www.nlb.gov.sg/biblioasia/2020/02/21/trial-by-firing-squad/)
+
+[From Lat Pau to Zaobao: A History of Chinese Newspapers](http://www.nlb.gov.sg/biblioasia/2020/02/21/from-lat-pau-to-zaobao-a-history-of-chinese-newspaper/)
+
+[Early Printing in Indochina](http://www.nlb.gov.sg/biblioasia/2020/02/21/early-printing-in-indochina/)
+
+[The Istana Turns 150](http://www.nlb.gov.sg/biblioasia/2020/02/21/the-istana-turns-150/)
+
+[Head Count: The History of Census-taking in Singapore](http://www.nlb.gov.sg/biblioasia/2020/02/21/head-count-the-history-of-census-taking-in-singapore/)

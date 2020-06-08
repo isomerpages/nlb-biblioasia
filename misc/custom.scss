@@ -336,8 +336,14 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+// NLB CUSTOM ADDED
+
 .colourbox { 
   padding: 20px;
   margin: 20px;
   background: lightgrey
+}
+
+.footnote {
+  font-size: 0.5em;
 }
