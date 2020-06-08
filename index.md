@@ -23,7 +23,7 @@ sections:
         description: Panic swept through Singapore in 1889 following a serious outbreak of rabies on the island. Stray dogs were intially blamed but the real culprits were purebreds imported from England a few years before. Find out how the authorities contained the disease in this issue's cover story.
         button: Read this article
         url: /vol-16/issue-1/apr-jun-2020/mad-dogs
-        image: /images/Vol-16-issue-1/mad-dogs/lady-with-dog.jpg
+        image: /images/Vol-16-issue-1/mad-dogs/lady-with-dog.png
         alt: Sample of a Mad Dog
         
     - infopic:
