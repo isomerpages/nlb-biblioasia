@@ -14,7 +14,7 @@ While rabies was no longer a problem in Singapore by the 20th century, another d
 
 This issue is not merely about disease though. [Annabel Teh Gallop](/vol-16/issue-1/apr-jun-2020/malay-seals) of The British Library reveals why a close study of the beautiful and ornate markings of Malay seals of the 19th century is warranted. Like seals, the humble postcard also benefits from close examination. [Stephanie Pee’s](/vol-16/issue-1/apr-jun-2020/history-through-postcards) article on postcards from the National Library’s Lim Shao Bin Collection explains how these picture postcards give us an insight into Singapore’s Japanese community before the outbreak of World War II.
 
-Old postcards and photographs are fascinating because they offer a snapshot of the past. This is the value of a collection of architectural photos of Singapore taken by [Marjorie Doggett](/vol-16/issue-1/apr-jun-2020/doggett) in the mid-1950s. Edward Stokes’ essay on this pioneering photographer looks at her life and work.
+Old postcards and photographs are fascinating because they offer a snapshot of the past. This is the value of a collection of architectural photos of Singapore taken by Marjorie Doggett in the mid-1950s. [Edward Stokes’s](/vol-16/issue-1/apr-jun-2020/doggett) essay on this pioneering photographer looks at her life and work.
 
 Part of the value of an old photograph is that it preserves a glimpse of a place that no longer exists. However, oftentimes these places still exist, but their character has changed so much that they become unrecognisable. This was the experience of [Charmaine Leung](/vol-16/issue-1/apr-jun-2020/keong-saik), who writes about growing up on Keong Saik Road in the 1970s and 80s. 
 
