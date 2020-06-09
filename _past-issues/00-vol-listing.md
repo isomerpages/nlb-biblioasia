@@ -4,7 +4,7 @@ permalink: /past-issues/
 breadcrumb: Overview
 collection_name: past-issues
 ---
-Please note that when accessing our past issues, you may be redirected away from this site to our archived site or other platforms. 
+Please note that you may be redirected away from this site to our archived site or other platforms when accessing our past issues. 
 
 |                                                              |
 | :----------------------------------------------------------: |
