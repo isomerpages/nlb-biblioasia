@@ -155,7 +155,7 @@ Lee Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
 <div class="infobox">
-<img src="/images/Vol-16-issue-1/keong-saik-road/Keong-Saik-book-mockup.png" style="width: 300px; height: 250px;" />
+<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-book-mockup.png" style="width: 300px; height: 250px;" />
 
 Charmaine Leung grew up on Keong Saik Road in the 1970s and 80s as the daughter of a brothel operator. After having lived overseas for almost 20 years, Charmaine returned to Singapore and discovered a vastly different Keong Saik Road.
 
