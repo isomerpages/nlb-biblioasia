@@ -107,14 +107,6 @@ Red ink seal impression of Sultan Ali Iskandar Syah, from a letter to Orfeur Cav
 
 </div>
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/malay-seals/silver-seal.png">
-
-The silver seal matrix of Encik Bujal, official of Sultan Ali, exhibited in the Malay Heritage Centre in 2012 (cat. 991 in Gallop 2019).
-
-</div>
-
 | **The Politics of the Johor Sultanate**
 The kingdom of Johor was established following the fall of Melaka to the Portuguese in 1511 when Mahmud Syah (also spelled as Shah), the exiled sultan, and his court fled southwards and took refuge along the Johor River. In 1699, Mahmud Syah II – the despotic last sultan of Johor who was descended from the Melaka royal line – was murdered by his nobles while being borne to the mosque on a dais (hence his posthumous title Marhum Mangkat Dijulang, which means “The late one who died as he was being carried aloft”). 
 
@@ -200,7 +192,7 @@ Malay seal of the British Governor of the Straits Settlements, on a letter from 
 </div>
 
 <div class="infobox">
-<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-book.png" style="width: 250px; height: 350px;" />
+<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-book.png" style="width: 300px; height: 250px;" />
 Annabel Teh Gallop’s <i>Malay Seals from the Islamic World of Southeast Asia</i> (2019) is published in Singapore by NUS Press in association with The British Library. The catalogue is available for reference at the Lee Kong Chian Reference Library (<a href=””Call no.: RSING 737.60959 GAL</a>). It also retails at major bookshops in Singapore and overseas. 
 
 </div>
