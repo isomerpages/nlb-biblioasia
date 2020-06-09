@@ -7,12 +7,12 @@ third_nav_title: History Through Postcards
 
 <style>
 table { 
-	background-color: #e1deea;
+	background-color: #e0dde8;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #e1deea
+  background: #e0dde8
 }
 .backbox { 
   padding: 20px;
@@ -66,6 +66,13 @@ Maps and shipping routes were frequently featured on postcards issued by Japanes
 
 These postcards also conveyed information to potential customers about a company’s major shipping routes and schedules, and enabled families of travellers to track their loved ones’ journeys. The postcards generally point to Singapore as an important port along major international shipping routes.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-1/Postcards/Nihonbashi.png">
+
+Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. <i>Dated April 1923. Accession no.: B32413805D_0100.</i>
+</div>
+
 Japanese economic migrants were another group of travellers who made use of postcards to communicate with families back home. In the 19th century, the Japanese government encouraged migration as a means of managing its growing population and alleviating the pressures faced by its domestic economy. These people made their way to destinations such as the United States, Canada, Europe and even Brazil. Migrants headed for these countries often stopped over in Singapore and took the opportunity to send a postcard home.
 
 Included in the book are postcards issued by the Imperial Japanese Navy. Singapore was an important port-of-call for training voyages, which honed the technical skills of rookie cadets by exposing them to conditions in the Pacific Ocean as well as to raise public awareness of the Nanyō (South Seas, or Nanyang).[^3] These training voyages also signalled Japan’s increasing knowledge of current political developments unfolding beyond its shores.
@@ -92,14 +99,7 @@ Alkaff Gardens was built in 1930 in the style of a Japanese park, and was a popu
 
 </div>
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/Postcards/Nihonbashi.png">
-
-Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. <i>Dated April 1923. Accession no.: B32413805D_0100.</i>
-</div>
-
-These postcards provided the ­recipients with an inkling of life in Singapore as well as ideas of places to visit, sights to see and foods to savour. These scenes fostered perceptions of Singapore as a romantic, tropical destination worthy of a visit, which in turn fuelled the sale of such memorabilia.
+These postcards provided the recipients with an inkling of life in Singapore as well as ideas of places to visit, sights to see and foods to savour. These scenes fostered perceptions of Singapore as a romantic, tropical destination worthy of a visit, which in turn fuelled the sale of such memorabilia.
 
 Recurring images featured on postcards include fishing villages on Pulau Brani, tree-lined beaches, street views and buildings such as St Andrew’s Cathedral. 
 

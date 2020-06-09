@@ -61,11 +61,11 @@ At the height of the Michael Fay incident in 1994, <i>The Straits Times</i> deli
 
 </div> 
 
-<img src="/images/Vol-16-issue-1/news/Fake_News.jpg">
-
 #### **On a Lighter Note**
 
 Newspapers are not merely about serious news – they also contain advertisements, entertainment stories, food reviews, photographs, recipes, puzzles, comics and even “Aunt Agony” columns. The zone “Extra! Extra!” showcases other interesting aspects of newspapers. The exhibits will be regularly updated to highlight different elements found in newspapers, with the first instalment on games and quizzes such as crossword puzzles, spot the ball and sudoku. Subsequent exhibits will look at photojournalism, cartoons and caricatures, and advertisements.<br><br>There is also a digital station featuring electronic newspaper resources available to library users. Visitors can browse and search past and current news on NewspaperSG, the National Library’s online archives of Singapore’s newspapers dating back to 1831 as well as other databases that provide access to local and international newspapers.
+
+<img src="/images/Vol-16-issue-1/news/Fake_News.jpg">
 
 <div class="infobox">
 
@@ -77,7 +77,7 @@ Newspapers are not merely about serious news – they also contain advertisement
 <br/>
 <img src="/images/Vol-16-issue-1/authors/Mazelan_Anuar.png" style="width: 100px; height: 100px;" />
 
-Mazelan Anuar is a Senior Librarian with the National Library, Singapore. His research interests are in early Malay publishing and digital librarianship. He is part of the team that manages the Malay-language collection and NewspaperSG.
+**Mazelan Anuar** is a Senior Librarian with the National Library, Singapore. His research interests are in early Malay publishing and digital librarianship. He is part of the team that manages the Malay-language collection and NewspaperSG.
 
 </div>
 
@@ -85,7 +85,7 @@ Mazelan Anuar is a Senior Librarian with the National Library, Singapore. His re
 <br/>
 <img src="/images/Vol-16-issue-1/authors/Faridah_Ibrahim.png" style="width: 100px; height: 100px;" />
 
-Faridah Ibrahim is Head of Reader Services at the National Library, Singapore, where she promotes the use of credible sources for research. Her research interests include information-seeking behaviours and pedagogical approaches.
+**Faridah Ibrahim** is Head of Reader Services at the National Library, Singapore, where she promotes the use of credible sources for research. Her research interests include information-seeking behaviours and pedagogical approaches.
 
 </div>
 
