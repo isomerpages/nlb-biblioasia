@@ -9,5 +9,5 @@ Please note that when accessing our past issues, you may be redirected away from
 
 |                                                              |
 | ------------------------------------------------------------ |
-| ![Cover of BA 15-3](/images/covers/BA 15-4v2.jpg) [BiblioAsia Jan-Mar 2020](http://www.nlb.gov.sg/biblioasia/category/vol-15-issue-4/) |
+| ![Cover of BA 15-4](/images/covers/BA 15-4v2.jpg) [BiblioAsia Jan-Mar 2020](http://www.nlb.gov.sg/biblioasia/category/vol-15-issue-4/) |
 
