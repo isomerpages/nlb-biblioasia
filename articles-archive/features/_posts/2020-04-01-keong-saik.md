@@ -23,7 +23,6 @@ table {
 <img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-title.jpg">
 
 The iconic Tong Ah Eating House at the junction of Keong Saik and Teck Lim roads. Watercolour painting by Don Low, 2014. <i>Courtesy of Don Low</i>.
-
 </div>
 
 If I were to think of Keong Saik as a person, it would be a woman. In particular, I see an elderly lady who is hardworking, loyal and reliable, tirelessly working to provide for her family and her employers.
@@ -58,7 +57,7 @@ A <i>majie</i>. and her adopted daughter. <i>Majie</i>. were Cantonese women fro
 
 </div>
 
-My Foon Yee Por has since passed away and many of the *majie* known to my family are no longer around. Singapore probably has a handful of surviving *majie* left. Before long, they too will pass on. But they have certainly left behind many stories of old Keong Saik Road, and Foon Yee Por and her community form an indelible part of Singapore’s history and heritage today.  
+My Foon Yee Por has since passed away and many of the *majie* known to my family are no longer around. Singapore probably has a handful of surviving *majie* left. Before long, they too will pass on. But they have certainly left behind many stories of old Keong Saik Road, and Foon Yee Por and her community form an indelible part of Singapore’s history and heritage today.
 
 #### **Wine, Women and Song**
 
@@ -70,7 +69,7 @@ Located on Keong Saik Road and Bukit Pasoh Road, the entertainment houses were p
 
 It was in the offices, clan associations and entertainment houses on Keong Saik Road that many *majie* found work as domestic helpers and cleaners. These early Chinese migrants brought with them many cultural and religious practices that are still being observed today such as “Beat the little people”.
 
-Nestled among the shophouses is Zhun Ti Gong (or Cundhi Gong) – a Chinese temple dedicated to Guanyin, the Goddess of Mercy – located at 13 Keong Saik Road. An ornate structure with a roof featuring decorative beams and adorned with intricate motifs of dragons, peacocks, phoenixes and flowers, the temple witnessed many *sor hei* ceremonies held by the *majie*. 
+Nestled among the shophouses is Zhun Ti Gong (or Cundhi Gong) – a Chinese temple dedicated to Guanyin, the Goddess of Mercy – located at 13 Keong Saik Road. An ornate structure with a roof featuring decorative beams and adorned with intricate motifs of dragons, peacocks, phoenixes and flowers, the temple witnessed many *sor hei* ceremonies held by the *majie*.
 
 Today, this temple is especially popular with former residents of Chinatown. While many of these elderly devotees have since moved to newer housing estates with their children, many still return with younger family members to offer their prayers on the first and 15th days of the lunar month.
 
@@ -92,17 +91,17 @@ I remember an Indian man in his 30s living there who operated a "mama shop"[^4] 
 
 The shophouse where the Indian coolies lived was close to the Sri Layan Sithi Vinayagar Temple at 73 Keong Saik Road. During the Thaipusam festival that takes place between 14 January and 14 February each year, Keong Saik Road becomes a hive of activity. The Sri Layan Sithi Vinayagar Temple plays an important role in the run-up to Thaipusam. On the eve of the festival, at about 6 am, a silver chariot from the Sri Thendayuthapani Temple on Tank Road makes it way to the Sri Layan Sithi Vinayagar Temple during a procession known as Punar Pusam. The chariot bears Lord Murugan, the Hindu god of war, and it stays at the Sri Layan Sithi Vinayagar Temple until evening when the chariot and the procession return to the temple on Tank Road.[^5]
 
-|**BEAT THE LITTLE PEOPLE**
+|**BEAT THE LITTLE PEOPLE**|
 
-An interesting practice that was popular among the Chinese community of Keong Saik Road and Chinatown was to go to a wall near the Sri Layan Sithi Vinayagar Temple to “beat the little people” (打小人; *da xiao ren* in Mandarin). The term “little people” in the Chinese language is synonymous with evil people and negativity. 
+|An interesting practice that was popular among the Chinese community of Keong Saik Road and Chinatown was to go to a wall near the Sri Layan Sithi Vinayagar Temple to “beat the little people” (打小人; *da xiao ren* in Mandarin). The term “little people” in the Chinese language is synonymous with evil people and negativity.|
 
-The ritual involved using either a clog or a shoe to repeatedly hit human-shaped paper figurines that symbolise the negativity in one’s life. An auspicious piece of red paper would be placed on top of the beaten figurines and the figurines pasted on the wall. Incense was then offered. 
+|The ritual involved using either a clog or a shoe to repeatedly hit human-shaped paper figurines that symbolise the negativity in one’s life. An auspicious piece of red paper would be placed on top of the beaten figurines and the figurines pasted on the wall. Incense was then offered.|
 
-The Chinese believed that the ritual was effective in warding off evil and dispelling negativity in one’s life. It was commonly observed among the Cantonese communities of Hong Kong and Guangdong. It usually took place at road intersections, under bridges, and at the foot of a hill or mountain as these places were generally perceived to have bad fengshui and thus prone to the influence of evil spirits.
+|The Chinese believed that the ritual was effective in warding off evil and dispelling negativity in one’s life. It was commonly observed among the Cantonese communities of Hong Kong and Guangdong. It usually took place at road intersections, under bridges, and at the foot of a hill or mountain as these places were generally perceived to have bad fengshui and thus prone to the influence of evil spirits.|
 
-![Beating little people](/images/Vol-16-issue-1/keong-saik-road/beating-little-people.jpg)
+|<img src="/images/Vol-16-issue-1/keong-saik-road/beating-little-people.jpg">|
 
-Women “beating the little people” on Keong Saik Road, 1950s. The Cantonese believe that the ritual would ward off evil and banish negativity in one’s life. In the background is the Sri Layan Sithi Vinayagar Temple before it was renovated into the current structure. Photo by Yip Cheong Fun. *Courtesy of Andrew Yip*.|
+|Women “beating the little people” on Keong Saik Road, 1950s. The Cantonese believe that the ritual would ward off evil and banish negativity in one’s life. In the background is the Sri Layan Sithi Vinayagar Temple before it was renovated into the current structure. Photo by Yip Cheong Fun. *Courtesy of Andrew Yip*.|
 
 <div style="background-color: white;">
 <br/>
@@ -133,17 +132,13 @@ In 2013, the coffee shop moved across the street to number 35. The Chinese chara
 
 #### **Keong Saik Road Today**
 
-To the uninitiated, Keong Saik Road may be just another
-street in Singapore. But for those who are interested in the history of our country, Keong Saik is part of Singapore’s heritage, offering a glimpse into the lives of early Chinese immigrants. The eclectic mix of communities and businesses at the Keong Saik Road of yesteryear has given the place a unique identity.
+To the uninitiated, Keong Saik Road may be just another street in Singapore. But for those who are interested in the history of our country, Keong Saik is part of Singapore’s heritage, offering a glimpse into the lives of early Chinese immigrants. The eclectic mix of communities and businesses at the Keong Saik Road of yesteryear has given the place a unique identity.
 
 Keong Saik Road is now a trendy neighbourhood offering contemporary wine and dine options in restored shophouses, attracting many tourists who are often seen on the street posing for photographs. (Keong Saik’s international profile was raised after it was voted one of the top four travel sights in Asia by Lonely Planet in 2017). For me, Keong Saik Road is the first home I knew.
 
-As I stroll along the Keong Saik area today, what I encounter now is very
-different from what I remember. On a recent visit, I walked past fancy
-restaurants and ultra-modern boutique hotels stylishly designed to attract a new generation of visitors. The community there is no longer the one I had been familiar with. 
+As I stroll along the Keong Saik area today, what I encounter now is very different from what I remember. On a recent visit, I walked past fancy restaurants and ultra-modern boutique hotels stylishly designed to attract a new generation of visitors. The community there is no longer the one I had been familiar with. 
 
-Although newness brings excitement, if we are not deliberate
-in preserving the spirit of our heritage beyond its physical structures, we may one day lose the intangible beauty of our past and heritage completely. I am grateful for the privilege to have lived in an iconic part of Singapore’s past and to have experienced the old Keong Saik Road and its community. As one of Singapore’s daughters, I can only hope that I have done my part in helping to preserve a little of Singapore’s heritage in my sharing about a street that was once my home.
+Although newness brings excitement, if we are not deliberate in preserving the spirit of our heritage beyond its physical structures, we may one day lose the intangible beauty of our past and heritage completely. I am grateful for the privilege to have lived in an iconic part of Singapore’s past and to have experienced the old Keong Saik Road and its community. As one of Singapore’s daughters, I can only hope that I have done my part in helping to preserve a little of Singapore’s heritage in my sharing about a street that was once my home.
 
 <div style="background-color: white;">
 <br/>
@@ -159,8 +154,7 @@ Lee Collection, courtesy of National Archives of Singapore</i>.
 
 Charmaine Leung grew up on Keong Saik Road in the 1970s and 80s as the daughter of a brothel operator. After having lived overseas for almost 20 years, Charmaine returned to Singapore and discovered a vastly different Keong Saik Road.
 
-The unspoken family shame that shrouded much of her young life – and the changes she witnessed upon her return – prompted her to pen a memoir of her childhood years.
-Leung’s book, <i>17A Keong Saik Road</i> (2017) is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href=""Call nos.: RSING 959.57004951 LEU and SING 959.57004951 LEU</a>) as well as for digital loan on nlb.overdrive.com. The book also retails at major bookshops and ethosbooks.com.sg.
+The unspoken family shame that shrouded much of her young life – and the changes she witnessed upon her return – prompted her to pen a memoir of her childhood years. Leung’s book, <i>17A Keong Saik Road</i> (2017) is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href=""Call nos.: RSING 959.57004951 LEU and SING 959.57004951 LEU</a>) as well as for digital loan on nlb.overdrive.com. The book also retails at major bookshops and ethosbooks.com.sg.
 
 </div>
 
