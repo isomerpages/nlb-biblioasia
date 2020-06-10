@@ -147,7 +147,11 @@ Shophouses on Keong Saik Road, 1997. <i>Joanne
 Lee Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
 
+</div>
 
 |<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-book-mockup.png" style="width: 300px; height: 250px;" />|
 
