@@ -22,7 +22,7 @@ table {
 <br/>
 <img src="/images/Vol-16-issue-1/Seletar/Seletar-title.jpg">
 
-Seletar Theatre Club’s production of <i>Meet Mr. Callaghan</i> in October 1954. *RAFSA Collection, <i>courtesy of National Archives of Singapore</i>.
+Seletar Theatre Club’s production of <i>Meet Mr. Callaghan</i> in October 1954. RAFSA Collection, <i>courtesy of National Archives of Singapore</i>.
 
 </div>
 
@@ -114,33 +114,30 @@ RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, 
 
 </div>
 
-| **NoËl Coward’s Seletar Connection**
+|**NoËl Coward’s Seletar Connection**|
 
-The renowned playwright Noël Coward, known for his plays such as *Present Laughter*, *Design for Living*, *Hay Fever* and *Blithe Spirit*, was associated with RAF Seletar although not with the RAF Seletar Theatre Club.
+|The renowned playwright Noël Coward, known for his plays such as *Present Laughter*, *Design for Living*, *Hay Fever* and *Blithe Spirit*, was associated with RAF Seletar although not with the RAF Seletar Theatre Club.|
 
-While on a stopover in Singapore in 1930, Coward ended up extending his stay for several weeks after his travelling partner fell ill. During his stay, Coward became acquainted with Air Commodore S.W. Smith, Air Officer Commanding Far East, and the commodore’s wife.[^22]
+|While on a stopover in Singapore in 1930, Coward ended up extending his stay for several weeks after his travelling partner fell ill. During his stay, Coward became acquainted with Air Commodore S.W. Smith, Air Officer Commanding Far East, and the commodore’s wife.[^22]|
 
-Despite being on holiday “as a complete rest from the strain of continually catering for other people’s amusement”, [^23] the pull of the theatre proved too strong. When the opportunity came for him to take to the stage, Coward seized it. 
+|Despite being on holiday “as a complete rest from the strain of continually catering for other people’s amusement”, [^23] the pull of the theatre proved too strong. When the opportunity came for him to take to the stage, Coward seized it.|
 
-A visiting English theatrical group was in Singapore to perform R.C. Sherriff’s *Journey’s End*. However, when the lead actor lost his voice at the last minute, Coward agreed to replace him­ as a favour to the theatre company.[^24]
+|A visiting English theatrical group was in Singapore to perform R.C. Sherriff’s *Journey’s End*. However, when the lead actor lost his voice at the last minute, Coward agreed to replace him­ as a favour to the theatre company.[^24]|
 
-He had just five days to prepare for his role as Captain Stanhope in the three-night performance that ran at the Victoria Theatre from 2 to 4 April. The near sold-out shows received mixed reviews though, with some critics saying that Coward was miscast in the role while others felt he gave an almost flawless and rich portrayal of the character.[^25]
+|He had just five days to prepare for his role as Captain Stanhope in the three-night performance that ran at the Victoria Theatre from 2 to 4 April. The near sold-out shows received mixed reviews though, with some critics saying that Coward was miscast in the role while others felt he gave an almost flawless and rich portrayal of the character.[^25]|
 
-One critic was the wife of Sir Cecil Clementi, the British Governor, although her beef with him did not involve his acting ability. At a dinner with the governor and Lady Clementi, the latter rebuked Coward for his involvement in the play as she felt the play was critical of British soldiers during World War I.[^26]
+|One critic was the wife of Sir Cecil Clementi, the British Governor, although her beef with him did not involve his acting ability. At a dinner with the governor and Lady Clementi, the latter rebuked Coward for his involvement in the play as she felt the play was critical of British soldiers during World War I.[^26]|
 
-Coward also had a brief cameo in the company’s production of *When Knights Were Bold* as one of the ladies-in-waiting, before leaving Singapore on 6 April 1930 to continue on his trip around the Far East.[^27]
+|Coward also had a brief cameo in the company’s production of *When Knights Were Bold* as one of the ladies-in-waiting, before leaving Singapore on 6 April 1930 to continue on his trip around the Far East.[^27]|
 
-In 1935, Coward visited Singapore twice. As part of an extensive world tour travelling from Hollywood in America to Japan and China, he arrived in Singapore from Hong Kong on 22 April 1935.[^28] He stayed for a week in a house in RAF Seletar before leaving for Java on 29 April.[^29] 
+|In 1935, Coward visited Singapore twice. As part of an extensive world tour travelling from Hollywood in America to Japan and China, he arrived in Singapore from Hong Kong on 22 April 1935.[^28] He stayed for a week in a house in RAF Seletar before leaving for Java on 29 April.[^29]| 
 
-Coward made another stopover in Singapore on 19 May, where he again stayed at RAF Seletar, before setting sail for Europe on 24 May.[^30] Alas, his two sojourns in 1935 did not involve any impromptu turns on the stage. |
+|Coward made another stopover in Singapore on 19 May, where he again stayed at RAF Seletar, before setting sail for Europe on 24 May.[^30] Alas, his two sojourns in 1935 did not involve any impromptu turns on the stage.|
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/Seletar/Noel-Coward-at-Yacht-Club.jpg”>
+|<img src="/images/Vol-16-issue-1/Seletar/Noel-Coward-at-Yacht-Club.jpg”>|
 
-Noël Coward (back row, fifth from the right) at the RAF Seletar Yacht Club with RAF personnel in 1935. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.
+|Noël Coward (back row, fifth from the right) at the RAF Seletar Yacht Club with RAF personnel in 1935. *RAFSA Collection, courtesy of National Archives of Singapore*.|
 
-</div>
 
 #### **Award-winning Feats** 
 
@@ -158,7 +155,6 @@ The second edition of the Festival of Drama was organised by the University of S
 
 <div style="background-color: white;">
 <br/>
-
 <img src="/images/Vol-16-issue-1/Seletar/Wanted-One-Body.png”>
 
 Programme booklet for <i>Wanted One Body</i>, a Seletar Theatre Club production in August 1967 starring Pam Ayres. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.
@@ -167,16 +163,17 @@ Programme booklet for <i>Wanted One Body</i>, a Seletar Theatre Club production 
 
 <div style="background-color: white;">
 <br/>
-
 <img src="/images/Vol-16-issue-1/Seletar/souvenir-programme.png”>
 
-The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s <i>J.B.</>, winner of the Inter-Services Drama Festival in 1962. <i>Retrieved from Seletar Theatre Club website</i>.
+The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s <i>J.B.</i>, winner of the Inter-Services Drama Festival in 1962. <i>Retrieved from Seletar Theatre Club website</i>.
 
 </div>
 
-| **THE RAFSA COLLECTION AT THE NAS**
-The Royal Air Force Seletar Association (RAFSA) (www.rafseletar.co.uk), based in the United Kingdom, was formed in late 1997 with the objective of reuniting an estimated 80,000 to 100,000 personnel who had served at RAF Seletar from 1928 to 1971, and to keep their memories alive. 
-The association donated approximately 4,300 items comprising photographs, posters, slides, booklets and documents to the National Archives of Singapore in 2016. To access the RAFSA Collection, visit www.nas.gov.sg/archivesonline/. |
+|**THE RAFSA COLLECTION AT THE NAS**|
+
+|The Royal Air Force Seletar Association (RAFSA )(www.rafseletar.co.uk), based in the United Kingdom, was formed in late 1997 with the objective of reuniting an estimated 80,000 to 100,000 personnel who had served at RAF Seletar from 1928 to 1971, and to keep their memories alive.|
+
+|The association donated approximately 4,300 items comprising photographs, posters, slides, booklets and documents to the National Archives of Singapore in 2016. To access the RAFSA Collection, visit www.nas.gov.sg/archivesonline/.|
 
 <div style="background-color: white;">
 <br/>
