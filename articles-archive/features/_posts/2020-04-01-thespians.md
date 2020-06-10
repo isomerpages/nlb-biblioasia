@@ -60,7 +60,7 @@ With income generated from ticket sales, the club carried out minor improvements
 
 In July 1963, the club completed a major reconstruction of the theatre’s stage and proscenium, which were closely modelled after the Mermaid Theatre in London. The new theatre was reportedly the first of its kind in the Far East. Unfortunately, disaster struck barely a month later on 6 August. At around 3 pm, a fire broke out in a backstage storeroom that almost completely gutted the theatre. Nothing was left but the walls. The stage auditorium, workshop, foyer and lighting box were destroyed, leaving only the clubroom and dressing rooms intact.[^10] Noted *The Straits Times*: 
 
-<centre>“By a completely undeserved piece of misfortune, the RAF Seletar Theatre Club has just lost its excellent bijou theatre at the RAF base in a disastrous fire which left almost nothing but the walls. Very little of the club’s properties and wardrobe was saved, and the hard-working amateurs now face the tremendous task of starting all over again the building up of a theatre which had taken them nearly a decade of hard work.”[^11]</centre>
+“By a completely undeserved piece of misfortune, the RAF Seletar Theatre Club has just lost its excellent bijou theatre at the RAF base in a disastrous fire which left almost nothing but the walls. Very little of the club’s properties and wardrobe was saved, and the hard-working amateurs now face the tremendous task of starting all over again the building up of a theatre which had taken them nearly a decade of hard work.”[^11]
 
 Despite the setback, the club did not give up. Members used a temporary stage at the Junior RAF School in Seletar airbase to present Tennessee Williams' *Orpheus Descending* at the 1963 Inter-Services Drama Festival. The club also performed *The Laboratory* and *The Dear Departed* in February 1964 on that same stage to raise funds for a new theatre. This money – along with the insurance payout, donations from the Nuffield Foundation[^12] and funds from other service stations – was used to construct a new theatre which opened in June 1964.
 
@@ -92,7 +92,7 @@ Ayres found Singapore to be an eye-opener. The Singapore River back then was “
 
 Ayres joined the Seletar Theatre Club and appeared in several productions.[^15] She noted that it was the Friday night get-togethers at the club that kickstarted her writing career. She said: 
 
-<center>“On these occasions members of the club would get up on stage to do an impromptu ‘turn’. I wanted to do a turn as well, but I could find nothing to declaim which corresponded with my own sense of humour or that, saddled with my country accent, I could put over in a way that worked.”[^16]</center>
+“On these occasions members of the club would get up on stage to do an impromptu ‘turn’. I wanted to do a turn as well, but I could find nothing to declaim which corresponded with my own sense of humour or that, saddled with my country accent, I could put over in a way that worked.”[^16]
 
 This spurred Ayres to start writing her own material, leading to her first poem titled “Foolish Brother Luke” about a shaky love affair; this was the first of many poems she would eventually write and perform. [^17]
 
