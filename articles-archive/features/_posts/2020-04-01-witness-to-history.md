@@ -65,11 +65,7 @@ Feng distinguished himself in battle and in 1941, he was promoted to Major-Gener
 
 Major-General Feng Yee’s handwritten résumé in Chinese, along with the accompanying English translation in typescript, regarding his appointment as Chief Delegate to the South East Asia Command in 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
- 
-
 </div>
-
- 
 
 #### **Appointment to the South East Asia Command**
 
