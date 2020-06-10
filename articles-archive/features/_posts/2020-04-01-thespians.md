@@ -133,7 +133,8 @@ RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, 
 |In 1935, Coward visited Singapore twice. As part of an extensive world tour travelling from Hollywood in America to Japan and China, he arrived in Singapore from Hong Kong on 22 April 1935.[^28] He stayed for a week in a house in RAF Seletar before leaving for Java on 29 April.[^29]| 
 
 |Coward made another stopover in Singapore on 19 May, where he again stayed at RAF Seletar, before setting sail for Europe on 24 May.[^30] Alas, his two sojourns in 1935 did not involve any impromptu turns on the stage.|
-|<img src="/images/Vol-16-issue-1/Seletar/Noel-Coward-at-Yacht-Club.jpg”>|
+
+<img src="/images/Vol-16-issue-1/Seletar/Noel-Coward-at-Yacht-Club.jpg”>
 
 |Noël Coward (back row, fifth from the right) at the RAF Seletar Yacht Club with RAF personnel in 1935. *RAFSA Collection, courtesy of National Archives of Singapore*.|
 
