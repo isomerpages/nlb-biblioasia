@@ -117,6 +117,12 @@ in the Malay Heritage Centre in 2012 (cat. 991 in Gallop 2019).
 
 </div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+
+</div>
+
 |**The Politics of the Johor Sultanate**|
 
 |The kingdom of Johor was established following the fall of Melaka to the Portuguese in 1511 when Mahmud Syah (also spelled as Shah), the exiled sultan, and his court fled southwards and took refuge along the Johor River. In 1699, Mahmud Syah II – the despotic last sultan of Johor who was descended from the Melaka royal line – was murdered by his nobles while being borne to the mosque on a dais (hence his posthumous title Marhum Mangkat Dijulang, which means “The late one who died as he was being carried aloft”).| 
