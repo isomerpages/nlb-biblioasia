@@ -108,8 +108,9 @@ Red ink seal impression of Sultan Ali Iskandar Syah, from a letter to Orfeur Cav
 
 Although Sultan Ali Iskandar’s seal inscription grandiloquently describes him as “the king of Johor”, this claim was short-lived for in 1855, he agreed to relinquish sovereign power to Temenggung Daeng Ibrahim of Johor in return for a pension as well as jurisdiction over the small district of Kesang-Muar. The seal he issued to his senior minister in Muar, Encik Bujal, bears the inscription *al-wakil wa-al-wazir al-Sultan Ali Bujal bin Saadat sanat 1275*, or “The deputy and the vizier of the Sultan Ali, Bujal, son of Saadat, the year 1275” (1858/9). The use of the term *al-wakil* recalls the seals granted by Sultan Ali’s grandfather, Sultan Mahmud Syah III, to his own officers of state.
 
-| **The Politics of the Johor Sultanate** |
-<br>|The kingdom of Johor was established following the fall of Melaka to the Portuguese in 1511 when Mahmud Syah (also spelled as Shah), the exiled sultan, and his court fled southwards and took refuge along the Johor River. In 1699, Mahmud Syah II – the despotic last sultan of Johor who was descended from the Melaka royal line – was murdered by his nobles while being borne to the mosque on a dais (hence his posthumous title Marhum Mangkat Dijulang, which means “The late one who died as he was being carried aloft”).| 
+|**The Politics of the Johor Sultanate**|
+
+|The kingdom of Johor was established following the fall of Melaka to the Portuguese in 1511 when Mahmud Syah (also spelled as Shah), the exiled sultan, and his court fled southwards and took refuge along the Johor River. In 1699, Mahmud Syah II – the despotic last sultan of Johor who was descended from the Melaka royal line – was murdered by his nobles while being borne to the mosque on a dais (hence his posthumous title Marhum Mangkat Dijulang, which means “The late one who died as he was being carried aloft”).| 
 
 |As Mahmud Syah II had died without an heir, Bendahara Abdul Jalil, who was the most senior minister at the time, was proclaimed Sultan Abdul Jalil Riayat Syah IV of Johor. But he was in turn unseated by a Minangkabau prince, Raja Kecil of Siak, who claimed to be a posthumous son of Mahmud Syah II. Raja Kecil installed himself as Sultan Abdul Jalil Rahmat Syah of Johor and arranged for the killing of his predecessor.|
 
