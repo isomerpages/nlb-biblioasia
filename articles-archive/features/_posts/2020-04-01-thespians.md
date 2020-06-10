@@ -66,7 +66,7 @@ Despite the setback, the club did not give up. Members used a temporary stage at
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Seletar/Lady-Wheeler-and-Mrs-Maisner.jpg">
+<img src="/images/Vol-16-issue-1/Seletar/Lady-Wheeler-and-Mrs-Maisner.png">
 
 Lady Wheeler (centre), wife of the Commander of Britain’s Far East Air Force Air Marshal Neil Wheeler, and Mrs Maisner (left), wife of Station Commander and Group Captain Alec Maisner, visiting the RAF Seletar Theatre Club in 1971. They were briefed by R. J. Thompson. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.
 
