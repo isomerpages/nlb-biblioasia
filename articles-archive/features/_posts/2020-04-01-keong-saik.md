@@ -148,12 +148,19 @@ Lee Collection, courtesy of National Archives of Singapore</i>.
 
 </div>
 
-<div class="infobox">
-<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-book-mockup.png" style="width: 300px; height: 250px;" />
+|<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-book-mockup.png" style="width: 300px; height: 250px;" />|
 
-Charmaine Leung grew up on Keong Saik Road in the 1970s and 80s as the daughter of a brothel operator. After having lived overseas for almost 20 years, Charmaine returned to Singapore and discovered a vastly different Keong Saik Road.
+|Charmaine Leung grew up on Keong Saik Road in the 1970s and 80s as the daughter of a brothel operator. After having lived overseas for almost 20 years, Charmaine returned to Singapore and discovered a vastly different Keong Saik Road.|
 
-The unspoken family shame that shrouded much of her young life – and the changes she witnessed upon her return – prompted her to pen a memoir of her childhood years. Leung’s book, <i>17A Keong Saik Road</i> (2017) is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href=""Call nos.: RSING 959.57004951 LEU and SING 959.57004951 LEU</a>) as well as for digital loan on nlb.overdrive.com. The book also retails at major bookshops and ethosbooks.com.sg.
+|The unspoken family shame that shrouded much of her young life – and the changes she witnessed upon her return – prompted her to pen a memoir of her childhood years.|
+
+|Leung’s book, <i>17A Keong Saik Road</i> (2017) is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57004951 LEU and SING 959.57004951 LEU]()) as well as for digital loan on nlb.overdrive.com. The book also retails at major bookshops and ethosbooks.com.sg.|
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-1/authors/Charmaine_Leung.png" style="width: 100px; height: 100px;" />
+
+<b>Charmaine Leung</b> is the author of 17A <i>Keong Saik</i> Road, which was shortlisted for the Singapore Literature Prize in 2018. When she is not writing, Charmaine is a curious traveller who enjoys roaming the globe and seeking out off-the-beaten tracks to capture landscapes and communities through photography.
 
 </div>
 
