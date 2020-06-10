@@ -234,7 +234,7 @@ Ismail Hakki Kadi & Peacock, A.C.S. (2020). *Ottoman-Southeast Asian relations: 
 
 Taner, S.H. (2015). [*The first Turkish representatives in Singapore and Consul General Ahmed Ataullah Efendi*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202777287). Singapore: Embassy of the Republic of Turkey in Singapore. (Available via Publication SG) 
 
-Winstedt, R.O., Khoo, K.K., & Ismail Hussein. (1992). [*A history of Johore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6453077) (1365–1941)*. Kuala Lumpur: Printed for the Malaysian Branch of the Royal Asiatic Society by Academe Art & Printing Services Sdn. Bhd. (Call no.: RSING 959.511903 WIN)
+Winstedt, R.O., Khoo, K.K., & Ismail Hussein. (1992). *[A history of Johore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6453077) (1365–1941)*. Kuala Lumpur: Printed for the Malaysian Branch of the Royal Asiatic Society by Academe Art & Printing Services Sdn. Bhd. (Call no.: RSING 959.511903 WIN)
 
 ##### NOTES
 [^1]: Gallop, A.T. (2019). [*Malay seals from the Islamic world of Southeast Asia: Content, form, context, catalogue*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203922496). Singapore: NUS Press in association with The British Library. (Call no.: RSING 737.60959 GAL)
