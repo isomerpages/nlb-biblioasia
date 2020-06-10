@@ -22,86 +22,48 @@ table {
 <br/>
 <img src="/images/Vol-16-issue-1/History/History-title2.jpg">
 
-Major-General Feng Yee is seated third from the extreme right in the photo, holding his Leica camera during the Japanese Surrender Ceremony held in the Municipal Building on 12 September 1945. <i>*Image reproduced from Mountbatten, L. (1979). Mountbatten: Eighty Years in Pictures (p. 161). London: Macmillan. (Call no.: RSING 941.0820924 MOU)*</i>.
+Major-General Feng Yee is seated third from the extreme right in the photo, holding his Leica camera during the Japanese Surrender Ceremony held in the Municipal Building on 12 September 1945. <i>Image reproduced from Mountbatten, L. (1979). Mountbatten: Eighty Years in Pictures (p. 161). London: Macmillan. (Call no.: RSING 941.0820924 MOU)</i>.
 
 </div>
-
- 
 
 On 12 September 1945, one of the darkest chapters of Singapore’s history officially came to a close when the Japanese formally surrendered to the Allies in Singapore. The ceremony took place 10 days after General Douglas MacArthur, Supreme Commander of the Allied Powers, formally accepted Japan’s surrender in a similar event held onboard the USS *Missouri* in Tokyo Bay.[^1]
 
 In Singapore, the surrender ceremony was held in the Council Chamber of the Municipal Building, later renamed City Hall.[^2] General Seishiro Itagaki of Japan’s Seventh Area Army signed the surrender document on behalf of Japan while the Allies were represented by Louis Mountbatten, Supreme Allied Commander of the South East Asia Command (SEAC).[^3]
 
- 
-
 The proceedings were solemn, but there was a moment mid-way when Japanese feathers were ruffled. This happened when China’s representative to the SEAC, Major-General Feng Yee 
  (冯衍) (1908–47)[^4] whipped out a camera and pointed it at the Japanese delegation. This action was particularly noticeable because Feng was seated in the first row, directly facing them. In an entry in Mountbatten’s personal diary, he records:
 
- 
-
-<center>
-
 “The representative of the great Republic of China, Major-General Feng Yee, produced in the middle of the Ceremony a Leica camera which he actually proceeded to focus on the Japanese in turn. The Japanese delegates looked absolutely furious…”[^5]
-
-</center>
-
- 
 
 In March 2019, 74 years after that event, the National Library of Singapore received a donation of 82 items from Feng’s family.[^6] The items are mainly documents in Chinese that date between 1937 and 1946. They consist of Feng’s military accreditations and appointments, his military correspondence and letters, working papers and newspaper clippings.
 
- 
-
 Among the materials donated were four photographs, though none of the surrender ceremony in Singapore. One of the photos shows Feng in Singapore. The photo is not dated so it is unclear exactly when it was taken. Feng had visited Singapore twice: in May 1941 when he was part of a Chinese military mission and toured British military facilities,[^7] and in September 1945 to attend the surrender ceremony.
-
- 
 
 Taken together, these materials document China’s contributions to the Allied operations against the Japanese during World War II. In addition, they provide insights into Feng’s military life and his contributions as the Chief Delegate to the SEAC.
 
- 
-
 Because of his role with the SEAC and this connection with Singapore, Feng’s family decided to donate these materials to the National Library. Through the donation, Feng’s personal documents and letters will be made publicly available to researchers.
 
- 
-
 <div style="background-color: white;">
-
 <br/>
+<img src="/images/Vol-16-issue-1/History/History-title1.png" style="width: 300px; height: 350px;" />
 
-<img src="/images/Vol-16-issue-1/History/History-title1.png">
-
- 
-
-Portrait of Major-General Feng Yee, taken in the 1940s. Documents of Major-General Feng Yee (冯衍将军珍藏资料). *Collection of the National Library, Singapore (Accession no.: B34450839C)*</i>*.*
-
- 
+Portrait of Major-General Feng Yee, taken in the 1940s. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
 </div>
 
- 
-
-**#### \**Early Military Career\****
+#### **Early Military Career**
 
 Born on 11 January 1908 in Nantong, Jiangsu province (江苏省南通县) in China, Feng graduated from the Central Military Academy in Nanking (Nanjing) (南京中央军校)[^8] in 1927 and was posted to the 47th Division as second lieutenant. The following year, he was promoted to first lieutenant and became a platoon leader.
 
- 
-
 Feng had been involved in China’s resistance against the Japanese since the 1930s. In 1934, he served in the 4th Regiment in the “taxation police regiment”, a special service brigade which was part of the 87th Division. In September 1937, this division came under the newly formed 71st Army. Shortly after, the 71st Army was regrouped with several other armies to form the 9th Army Corps to fight in the three-month-long Battle of Shanghai (13 August–26 November 1937) which took place at the beginning of the Second Sino-Japanese war.[^9] In December 1937, Feng graduated from the Military College in Nanking.[^10] The next year, Feng was involved in the Battle of Taierzhuang (24 March–7 April 1938), where China scored its first victory over the Japanese and dealt a significant blow to the Japanese military.
-
- 
 
 Feng distinguished himself in battle and in 1941, he was promoted to Major-General, Chief of Staff of the 71st Army. In May 1942, the 71st Army was one of the troops deployed as reinforcements for the Chinese Expeditionary Force (中国远征军) which had been recalled back to Yunnan, China.[^11] The force had earlier been dispatched to Burma and India to support Allied efforts against the Imperial Japanese Army as well as to protect the land routes that were critical for transporting essential war supplies to China.[^12] In 1943, the 71st Army was absorbed into the 11th Army Corps, which together with other corps and divisions, became part of the Chinese Expeditionary Force.[^13] In the same year, Feng was appointed Deputy Chief of Staff.[^14] in the headquarters of the Commander-in-Chief of the Chinese Expeditionary Force.
 
- 
-
 <div style="background-color: white;">
-
 <br/>
-
 <img src="/images/Vol-16-issue-1/History/resume.png">
 
- 
-
-Major-General Feng Yee’s handwritten résumé in Chinese, along with the accompanying English translation in typescript, regarding his appointment as Chief Delegate to the South East Asia Command in 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>*Collection of the National Library, Singapore (Accession no.: B34450839C)*</i>*.*
+Major-General Feng Yee’s handwritten résumé in Chinese, along with the accompanying English translation in typescript, regarding his appointment as Chief Delegate to the South East Asia Command in 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
  
 
@@ -109,123 +71,63 @@ Major-General Feng Yee’s handwritten résumé in Chinese, along with the accom
 
  
 
-**#### \**Appointment to the South East Asia Command\****
+#### **Appointment to the South East Asia Command**
 
- 
-
-In August 1943, the British and Americans formed the SEAC with Louis Mountbatten as Supreme Allied Commander. His job was to oversee the operations of Allied forces in Southeast Asia against the Japanese in Burma, Malaya, Sumatra, Ceylon, Siam and French Indochina.[^15] To cultivate good relations, Mountbatten personally paid a visit to Generalissimo Chiang Kai-shek, Supreme Commander of Allied forces in the China war zone in Chungking (Chong­qing) in October 1943, after the latter had assumed office.[^16]
-
- 
+In August 1943, the British and Americans formed the SEAC with Louis Mountbatten as Supreme Allied Commander. His job was to oversee the operations of Allied forces in Southeast Asia against the Japanese in Burma, Malaya, Sumatra, Ceylon, Siam and French Indochina.[^15] To cultivate good relations, Mountbatten personally paid a visit to Generalissimo Chiang Kai-shek, Supreme Commander of Allied forces in the China war zone in Chungking (Chongqing) in October 1943, after the latter had assumed office.[^16]
 
 During the trip, the two men decided to better coordinate efforts between the Southeast Asia and China war theatres. Following this, Feng was appointed Chief Delegate to lead a Chinese Military Mission based at the SEAC’s headquarters in Kandy, Ceylon (Sri Lanka). He had recently graduated from the National Defence Research Institute (国防研究) in Chungking in 1944 before being deployed to this mission.[^17] The mission’s objective was twofold: to improve communications between China and the SEAC, and to coordinate Allied operations in Southeast Asia, especially when it involved China.[^18]
 
- 
-
-While Feng was not in a frontline posting, he was almost killed because of his job. Feng and his team were inspecting the Victoria Dock in Bombay (Mumbai) on 14 April 1944 when a fire set off two huge explosions on board the freighter SS **Fort Stikine**.[^19] The explosion is said to be one of the worst fire-related disasters in Indian history. It claimed between 800 and 1,300 lives, rendered 80,000 people homeless and also destroyed 13 other ships in the vicinity.[^20] Fortunately, Feng escaped with only minor injuries, though some in his party were not so fortunate.[^21]
-
- 
+While Feng was not in a frontline posting, he was almost killed because of his job. Feng and his team were inspecting the Victoria Dock in Bombay (Mumbai) on 14 April 1944 when a fire set off two huge explosions on board the freighter SS *Fort Stikine*.[^19] The explosion is said to be one of the worst fire-related disasters in Indian history. It claimed between 800 and 1,300 lives, rendered 80,000 people homeless and also destroyed 13 other ships in the vicinity.[^20] Fortunately, Feng escaped with only minor injuries, though some in his party were not so fortunate.[^21]
 
 As the liaison between the SEAC and China, Feng accompanied Mountbatten to China in March 1945 as the latter attempted to persuade Chiang Kai-shek to leave Chinese troops in northern Burma. Chiang was planning to withdraw all Chinese forces and a joint US-China brigade with attendant aircraft from northern Burma back to China. He wanted to re-organise these forces and mobilise them to recapture Hunan and Kwangsi (Guangxi) provinces from the Japanese. These provinces were important because they dominated the bulk of China's rice production.[^22]
 
- 
-
 A Chinese withdrawal from Burma, however, could potentially derail British plans to capture Rangoon (Yangon). The SEAC had captured the city of Meiktila in central Burma in March 1945 and needed the help of Chinese forces to hold back the Japanese. The route to the south would then be free for British forces to advance to Rangoon in southern Burma. The British also depended heavily on the air transport squadrons of the American air force to transport war supplies and troops, and could not afford for these planes to be diverted to transport Chinese forces back to China.[^23]
 
- 
-
-Mountbatten and Feng arrived in Chungking on 8 March 1945. Mountbatten hoped to persuade Chiang to change his mind but the generalissimo was not to be swayed. Notwithstanding this setback, Mountbatten later managed to get the Americans to agree that US transport squadrons would leave Burma only after the capture of Rangoon, or on 1 June 1945, whichever came first. The SEAC managed to capture Rangoon in May that year.[^24]
-
- 
-
- 
+Mountbatten and Feng arrived in Chungking on 8 March 1945. Mountbatten hoped to persuade Chiang to change his mind but the generalissimo was not to be swayed. Notwithstanding this setback, Mountbatten later managed to get the Americans to agree that US transport squadrons would leave Burma only after the capture of Rangoon, or on 1 June 1945, whichever came first. The SEAC managed to capture Rangoon in May that year.[^24] 
 
 <div style="background-color: white;">
-
 <br/>
-
 <img src="/images/Vol-16-issue-1/History/certificate.png">
 
- 
-
-Certificate of Major-General Feng Yee’s appointment in February 1943 as the Deputy Chief of Staff in the headquarters of the Commander -in-Chief of the Chinese Expeditionary Force. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>*Collection of the National Library, Singapore (Accession no.: B34450839C)*</i>*.*
-
- 
+Certificate of Major-General Feng Yee’s appointment in February 1943 as the Deputy Chief of Staff in the headquarters of the Commander -in-Chief of the Chinese Expeditionary Force. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
 </div>
 
- 
-
-**#### \**Post-1945\****
-
- 
+#### **Post-1945**
 
 After the war, Feng returned to China and in August 1946, he was appointed Deputy Director in the office of the Minister for National Defence based in Nanking. In June the following year, he moved on to the Land and Building Division in the same ministry and was promoted to Lieutenant-General a month later.[^25] However, just when things appeared to be going well, disaster struck.
 
- 
-
 On 23 November 1947, Feng left Nanking and transited in Shanghai for an official trip to Linhai city in Zhejiang province. Travelling by sea on his way back, the rough waves left Feng nauseated and vomiting profusely, which led to bleeding in his stomach. As soon as the ship docked at Haimen, a city in Jiangsu province, he was rushed to hospital but doctors there could not stanch the bleeding. Feng decided to continue his journey back to Shanghai but by the time he arrived at a hospital in the city, he had lost a lot of blood. Three days later, on 3 December 1947, Feng died at the age of 39.[^26] He was buried in his hometown of Nantong.[^27]
 
- 
-
 <div style="background-color: white;">
-
 <br/>
-
 <img src="/images/Vol-16-issue-1/History/China-trip-letter.png">
 
- 
-
-Letter dated 5 March 1945 from Louis Mountbatten to Feng – with the accompanying envelope – regarding their impending trip to China. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>*Collection of the National Library, Singapore (Accession no.: B34450839C)*</i>*.*
-
- 
+Letter dated 5 March 1945 from Louis Mountbatten to Feng – with the accompanying envelope – regarding their impending trip to China. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
 </div>
 
- 
+#### **The Family Man** 
 
-**#### \**The Family Man\****
-
- 
-
-Feng died leaving behind two wives who, between them, bore six children. Feng’s first wife was Madam Lu Yun Ruo, with whom he had a daughter. During the chaotic period when the Chinese army retreated to Chung­king from Nanking, Feng became separated from his wife and with the ongoing war, they could not find each other.
-
- 
+Feng died leaving behind two wives who, between them, bore six children. Feng’s first wife was Madam Lu Yun Ruo, with whom he had a daughter. During the chaotic period when the Chinese army retreated to Chungking from Nanking, Feng became separated from his wife and with the ongoing war, they could not find each other.
 
 Although Feng subsequently remarried, he never stopped looking for Madam Lu and his efforts finally paid off. He brought her back to Chungking and she was accepted by his second family. The daughter he had with Madam Lu died of an illness at the age of 16.
 
- 
-
 Feng had a son and four daughters with his second wife, Madam Han Pei Chun. According to the youngest daughter Patsy, he valued family time very much. Because Feng was devoted to his work in the army and often travelled overseas, he made sure he doted on his children whenever he was home. 
-
- 
 
 After Feng’s death in 1947, the family followed the Chinese Nationalist Party (Kuomintang) when it retreated to Taiwan during the civil war in China in 1949. His two wives settled down in Taiwan and brought up the children together. Today, Feng’s descendants – which include 11 grandchildren and great-grandchildren – live in Taiwan, the United States and Hong Kong.
 
- 
-
 <div style="background-color: white;">
-
 <br/>
-
 <img src="/images/Vol-16-issue-1/History/family-photo.png">
 
- 
-
-Major-General Feng Yee with his second daughter Xiangzhong (湘钟) on his right and third daughter Xuanzhong (漩钟) on his left. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>*Collection of the National Library, Singapore (Accession no.: B34450839C)*<i>*.*
-
- 
+Major-General Feng Yee with his second daughter Xiangzhong (湘钟) on his right and third daughter Xuanzhong (漩钟) on his left. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)<i>.
 
 </div>
 
- 
-
 <div style="background-color: white;">
-
 <br/>
-
-<img src="/images/Vol-16-issue-1/authors/Charmaine_Leung.png" style="width: 100px; height: 100px;" />
-
- 
+<img src="/images/Vol-16-issue-1/authors/Seow_Peck_Ngiam.png" style="width: 100px; height: 100px;" />
 
 <b> Seow Peck Ngiam</b> is a Senior Librarian with the National Library, Singapore. Her main responsibilities include developing the Chinese Collection, and providing research and reference services. She is interested in the history of the Chinese community in Singapore.
 
