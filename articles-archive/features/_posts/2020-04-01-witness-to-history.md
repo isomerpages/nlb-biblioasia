@@ -44,7 +44,7 @@ Because of his role with the SEAC and this connection with Singapore, Feng’s f
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/History/History-title1.png" style="width: 300px; height: 350px;" />
+<img src="/images/Vol-16-issue-1/History/History-title1.png" style="width: 400px; height: 300px;" />
 
 Portrait of Major-General Feng Yee, taken in the 1940s. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
