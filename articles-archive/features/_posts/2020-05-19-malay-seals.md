@@ -67,7 +67,6 @@ Letter from Temenggung Abdul Rahman of Johor (featuring his seal) to T.S. Raffle
 
 Sultan Husain’s seal, on the other hand, opens with the most common expression of piety found on Malay seals: *al-wāthiq billāh al-Sultan Husain Syah ibn Sultan Mahmud Syah al-marhum sanat 1234*, which means “He who trusts in God, the Sultan Husain Syah, son of the late Sultan Mahmud Syah, the year 1234” (1818/9). In order for it to be used for the treaty signing on the afternoon of 6 February 1819, the silver seal must have been made at very short notice, namely in the brief interval between Raffles’ preliminary agreement with Temenggung Abdul Rahman on 30 January, and Husain’s installation as sultan in Singapore a week later, on the morning of 6 February. It was therefore most probably made in Singapore by a silversmith in the Temenggung’s entourage.
 
-
 #### **Seals of Malay Nobles**
 
 In many parts of the Islamic world, from Istanbul to Cairo, seals were used at all levels of society, from sultans to slaves. In the Malay world however, seals were a royal prerogative and the use of seals was restricted to court circles. The clearest proof of this accepted convention was that even the famous writer Munsyi Abdullah (born Abdullah bin Abdul Kadir), who was renowned as a seal designer, did not have his own seal. His last will and testament, drawn up before he embarked on his Haj pilgrimage in 1856 – and recently exhibited in the National Library of Singapore’s exhibition “On Paper: Singapore Before 1867” – is not sealed. Thus, the story of Malay seals from Singapore is essentially a study of the seals of Sultan Husain Syah and his short-lived line, until superseded in the second half of the 19th century by the seals 
@@ -121,9 +120,9 @@ Thenceforth, there were two seats of power within the sultanate of Johor, both l
 
 The last sultan able to lay claim to jurisdiction over the great kingdom of “Johor and Pahang and Riau and Lingga” was Mahmud Syah III. He reigned for over 50 years but died in January 1811 without naming which of his two sons – by different wives – was to succeed him. 
 
-As the older son Tengku Husain was away in Pahang fulfilling his father’s instruction to marry the daughter of the Bendahara, the powerful Bugis faction led by the Yang Dipertuan Muda, Raja Jafar, seized the opportunity to install the younger son, Tengku Abdul Rahman, who happened to be Raja Jafar’s nephew. This unilateral action was neither recognised by the Bendahara and Temenggung nor by Sultan Mahmud’s primary consort, Tengku Puteri, who refused to hand over the sacred regalia. 
+|As the older son Tengku Husain was away in Pahang fulfilling his father’s instruction to marry the daughter of the Bendahara, the powerful Bugis faction led by the Yang Dipertuan Muda, Raja Jafar, seized the opportunity to install the younger son, Tengku Abdul Rahman, who happened to be Raja Jafar’s nephew. This unilateral action was neither recognised by the Bendahara and Temenggung nor by Sultan Mahmud’s primary consort, Tengku Puteri, who refused to hand over the sacred regalia.|
 
-This was the succession dispute that Stamford Raffles took advantage of in 1819. Raffles installed Tengku Husain as sultan and the latter, thus empowered, signed a treaty with Raffles allowing a trading post to be set up on the island of Singapore. |
+|This was the succession dispute that Stamford Raffles took advantage of in 1819. Raffles installed Tengku Husain as sultan and the latter, thus empowered, signed a treaty with Raffles allowing a trading post to be set up on the island of Singapore.|
 
 #### **Seals Used by Women**
 
@@ -232,6 +231,5 @@ Winstedt, R.O., Khoo, K.K., & Ismail Hussein. (1992). [*A history of Johore](htt
 [^8]: National Archives of Indonesia, Riouw 119. Letter in Malay from al-Sayyid al-Safi bin 'Ali al-Habshi to Yang Dipertuan Muda Raja Muhammad Yusuf ibn al-marhum Raja Ali in Riau, 14 Rejab 1282 (3 December 1865).
 [^9]: [Gallop](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203922496), 2019, p. 341. 
 [^10]: [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18610202-1.2.4). (1861, February 2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
- 
 
- 
+
