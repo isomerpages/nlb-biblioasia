@@ -186,38 +186,38 @@ The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]: Singapore’s air base. (1928, February 17). *The Straits Times*, p. 9. Retrieved from NewspaperSG; Shorrick, N. (1968). *Lion in the sky* (p. 26). Singapore: Federal Publications. (Call no.: RSING 358.4095957 SHO); Taylor, D. (2002). *Seletar: Crowning glory* (p. 177). West Sussex: Woodfield Pub. (Call no.: RSING 358.40095957 TAY)
-[^2]: Seletar Theatre Club. (2020). Retrieved from the RAF Seletar Theatre Club website.
+[^1]: [Singapore’s air base](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280217-1.2.55). (1928, February 17). *The Straits Times*, p. 9. Retrieved from NewspaperSG; Shorrick, N. (1968). *[Lion in the sky](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200113889)* (p. 26). Singapore: Federal Publications. (Call no.: RSING 358.4095957 SHO); Taylor, D. (2002). *[Seletar: Crowning glory](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11783315)* (p. 177). West Sussex: Woodfield Pub. (Call no.: RSING 358.40095957 TAY)
+[^2]: Seletar Theatre Club. (2020). Retrieved from the [RAF Seletar Theatre Club](http://www.rafseletar.com/RAF%20Seletar%20Theatre%20Club.html) website.
 [^3]: Seletar Theatre Club, 2020.
 [^4]: Seletar Theatre Club, 2020.
 [^5]: Seletar Theatre Club, 2020.
 [^6]: A Nissen hut is a prefabricated semi-circular structure made out of corrugated steel usually used by the military as temporary housing. 
 [^7]: Seletar Theatre Club, 2020.
-[^8]: Seletar Theatre Club, 2020; Stage door. (1955, September 17). *Singapore Standard*, p. 10. Retrieved from NewspaperSG.
+[^8]: Seletar Theatre Club, 2020; [Stage door](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19550917-1.2.143). (1955, September 17). *Singapore Standard*, p. 10. Retrieved from NewspaperSG.
 [^9]: Seletar Theatre Club, 2020.
-[^10]: Seletar Theatre Club, 2020; Taylor, 2002, p. 167; The theatre. (1963, July 7). *The Straits Times*, p. 9; The theatre. (1963, August 11). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
-[^11]: The theatre. (1963, August 11). *The Straits Times*, p. 9.
+[^10]: Seletar Theatre Club, 2020; [Taylor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11783315), 2002, p. 167; The theatre. (1963, July 7). *The Straits Times*, p. 9; [The theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630707-1.2.31.1.3). (1963, August 11). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
+[^11]: [The theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630811-1.2.26.1.4). (1963, August 11). *The Straits Times*, p. 9.
 [^12]: Based in London, the Nuffield Foundation is a charitable trust established in 1943 to improve social well-being.
-[^13]: Cowley, D. (1979, October 27). Meet England’s queen of comic verse. *The Straits Times*, p. 12. Retrieved from NewspaperSG; Ayres, P. (1998). *With these hands: A collection of work* (p. 5). Orion Publishing Co. (Not available in NLB holdings)
+[^13]: Cowley, D. (1979, October 27). [Meet England’s queen of comic verse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791027-1.2.150.30). *The Straits Times*, p. 12. Retrieved from NewspaperSG; Ayres, P. (1998). *With these hands: A collection of work* (p. 5). Orion Publishing Co. (Not available in NLB holdings)
 [^14]: Ayres, 1998, p. 6.
 [^15]: Seletar Theatre Club, 2020.
 [^16]: Ayres, 1998, p. 6. 
 [^17]: Ayres, 1998, p. 6.
 [^18]: Ayres, 1998, p. 7; *The Straits Times*, 27 Oct 1979, p. 12.
-[^19]: *The Straits Times*, 27 Oct 1979, p. 12; Clef, V. (1981, January 27). Sparkling items provide something for everyone. *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^19]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791027-1.2.150.30)*, 27 Oct 1979, p. 12; Clef, V. (1981, January 27). [Sparkling items provide something for everyone](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810127-1.2.114.9.2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^20]: RAF Seletar Theatre Club. (n.d.). *Juliana (Julie) Goss*. Retrieved from the RAF Seletar Theatre Club website.
 [^21]: Seletar Theatre Club, 2020; The Royal Air Force Theatrical Association. (May/June 2012). *Noises Off, The RAFTA Newsletter*. Retrieved from RAFTA website.
-[^22]: A famous visitor. (1930, March 22). *The Malaya Tribune*, p. 8; Notes of the day. (1930, November 26). *The Straits Times*, p. 10; Noel Coward and the Censors. (1930, March 22). The Straits Times, p. 12. Mr Noel Coward here. (1935, April 23). *The Malaya Tribune*, p. 11. Retrieved from NewspaperSG.
-[^23]: Mr Noel Coward. (1930, March 26). *The Malaya Tribune*, p. 8. Retrieved from NewspaperSG.
-[^24]: Noel Coward in Journey’s End. (1930, April 3). *The Straits Times*, p. 12. Retrieved from NewspaperSG. 
-[^25]: The Quaints. (1930, March 30). The Malaya Tribune, p. 8; Mr Noel Coward. (1930, April 3). *The Malaya Tribune*, p. 8. Retrieved from NewspaperSG.
-[^26]: Coward, N. (2007). *The letters of Noel Coward* (pp. 174–175). New York: Alfred A. Knopf. (Call no.: 822.912 COW)
-[^27]: Victoria Theatre. (1930, April 7). *The Straits Times*, p. 12. Retrieved from NewspaperSG. 
-[^28]: No yachting for Noel Coward. (1935, April 23). *The Straits Times*, p. 12; *The Malaya Tribune*, 23 Apr 1935, p. 11. Retrieved from NewspaperSG.
+[^22]: [A famous visitor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19300322-1.2.55). (1930, March 22). *The Malaya Tribune*, p. 8; [Notes of the day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19301126-1.2.30). (1930, November 26). *The Straits Times*, p. 10; [Noel Coward and the Censors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300322-1.2.69). (1930, March 22). The Straits Times, p. 12. [Mr Noel Coward here](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19350423-1.2.69). (1935, April 23). *The Malaya Tribune*, p. 11. Retrieved from NewspaperSG.
+[^23]: [Mr Noel Coward](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19300326-1.2.45). (1930, March 26). *The Malaya Tribune*, p. 8. Retrieved from NewspaperSG.
+[^24]: [Noel Coward in Journey’s End](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300403-1.2.82). (1930, April 3). *The Straits Times*, p. 12. Retrieved from NewspaperSG. 
+[^25]: [The Quaints](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19300331-1.2.42). (1930, March 30). The Malaya Tribune, p. 8; [Mr Noel Coward](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300403-1.2.82). (1930, April 3). *The Malaya Tribune*, p. 8. Retrieved from NewspaperSG.
+[^26]: Coward, N. (2007). *[The letters of Noel Coward](hhttp://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12958530)* (pp. 174–175). New York: Alfred A. Knopf. (Call no.: 822.912 COW)
+[^27]: [Victoria Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300407-1.2.84). (1930, April 7). *The Straits Times*, p. 12. Retrieved from NewspaperSG. 
+[^28]: [No yachting for Noel Coward](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350423-1.2.60). (1935, April 23). *The Straits Times*, p. 12; *The Malaya Tribune*, 23 Apr 1935, p. 11. Retrieved from NewspaperSG.
 [^29]: Shorrick, N. (1968). *Lion in the sky* (p. 43). Singapore: Federal Publications. (Call no.: RSING 358.4095957 SHO); *The Malaya Tribune*, 23 Apr 1935, p. 11; Chat aboard. (1935, April 29). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
-[^30]: Noel Coward. (1935, May 19). *The Sunday Tribune* (Singapore), p. 1; Social & personal. (1935, May 25). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
-[^31]: Plans to make festival of drama annual event. (1969, May 29). *The Straits Times*, p. 8; First open drama festival makes its impact. (1969, November 12). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
-[^32]: *The Straits Times*, 12 Nov 1969, p. 11. 
-[^33]: Seletar’s 'Vigil' wins top award in festival. (1969, November 17). *The Straits Times*, p. 6. Retrieved from NewspaperSG. 
-[^34]: Local drama groups inactive. (1971, January 29). *The Straits Times*, p. 7.  Retrieved from NewspaperSG.
-[^35]: 8 amateur clubs rehearsing for festival of drama. (1971, February 24). *The Straits Times*, p. 6.  Retrieved from NewspaperSG.
+[^30]: [Noel Coward](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19350519-1.2.10). (1935, May 19). *The Sunday Tribune* (Singapore), p. 1; [Social & personal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350524-1.2.110). (1935, May 25). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+[^31]: [Plans to make festival of drama annual event](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690529-1.2.58). (1969, May 29). *The Straits Times*, p. 8; [First open drama festival makes its impact](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691112-1.2.70). (1969, November 12). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+[^32]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691112-1.2.70)*, 12 Nov 1969, p. 11. 
+[^33]: [Seletar’s 'Vigil' wins top award in festival](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691117-1.2.43). (1969, November 17). *The Straits Times*, p. 6. Retrieved from NewspaperSG. 
+[^34]: [Local drama groups inactive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19710129-1.2.44). (1971, January 29). *The Straits Times*, p. 7.  Retrieved from NewspaperSG.
+[^35]: [8 amateur clubs rehearsing for festival of drama](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710224-1.2.21). (1971, February 24). *The Straits Times*, p. 6.  Retrieved from NewspaperSG.
