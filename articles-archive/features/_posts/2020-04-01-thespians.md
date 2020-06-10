@@ -176,7 +176,7 @@ The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/authors/Suriati_Sani.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-16-issue-1/authors/Suriati.png" style="width: 100px; height: 100px;" />
 
 <b>Suriati Sani</b> is an Assistant Archivist with the National Archives of Singapore where she handles reference enquiries and helps researchers navigate archival materials. This essay combines her interests in history and theatre arts.
 
