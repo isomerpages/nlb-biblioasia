@@ -40,10 +40,6 @@ In 1835, a second English newspaper called *The Singapore Free Press and Mercant
 
 This zone of the exhibition also showcases non-English-language newspapers that were published in Singapore. These vernacular newspapers addressed and promoted the issues, concerns and interests of their respective communities. In the early years, Chinese-language newspapers such as *Nanyang Siang Pau* and *Sin Chew Jit Poh* were concerned with the affairs of China,[^5] while *Tamil Murasu* was the vanguard of the social reform movement that was taking place among Indians in Singapore.[^6] Similarly, early Malay newspapers such as *Jawi Peranakkan*[^7] and *Utusan Malayu*[^8] championed the causes of the Malay and Muslim communities in Singapore.
 
-| <img src="/images/Vol-16-issue-1/news/The_Singapore_Free_Press.png">|
-
-|*The Singapore Free Press* was set up by William Napier, a lawyer; George D. Coleman, the first superintendent of public works; Edward Boustead, founder of Boustead and Company; and Walter Scott Lorrain, head of Lorrain, Sandilands and Company. This is the masthead of the issue dated 19 November 1835. *Retrieved from NewspaperSG.*|
-
 |**THE SINGAPORE FREE PRESS AND MERCANTILE ADVERTISER**|
 
 |While there are a number of English-language newspapers in Singapore today, *The Straits Times* is, by far, the dominant paper. However, it was not always so. In fact, even though it is Singapore’s longest-running newspaper, *The Straits Times* was a latecomer to the scene. When it first appeared, the paper had to compete with an earlier newspaper: *The Singapore Free Press and Mercantile Advertiser*. It was a tussle that lasted over a century.|
@@ -59,6 +55,11 @@ This zone of the exhibition also showcases non-English-language newspapers that 
 |Under its first editor, Mohamed Eunos Abdullah, *Utusan Malayu’s* mission was to provide the Malay community with an intelligent and impartial view of Malaya and the world.|
 
 |In 1921, the newspaper was sued for libel by Raja Shariman and Che Tak, assistant commissioners of police in the Federated Malay States. The heavy damages awarded against it proved to be financially crippling and *Utusan Malayu* ceased operations as a result.[^16]|
+
+| <img src="/images/Vol-16-issue-1/news/The_Singapore_Free_Press.png">|
+
+|*The Singapore Free Press* was set up by William Napier, a lawyer; George D. Coleman, the first superintendent of public works; Edward Boustead, founder of Boustead and Company; and Walter Scott Lorrain, head of Lorrain, Sandilands and Company. This is the masthead of the issue dated 19 November 1835. *Retrieved from NewspaperSG.*|
+
 
 #### **The Story Behind the Story**
 
