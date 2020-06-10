@@ -146,7 +146,7 @@ Although newness brings excitement, if we are not deliberate in preserving the s
 Shophouses on Keong Saik Road, 1997. <i>Joanne
 Lee Collection, courtesy of National Archives of Singapore</i>.
 </div>
-<br>
+
 
 |<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-book-mockup.png" style="width: 300px; height: 250px;" />|
 
