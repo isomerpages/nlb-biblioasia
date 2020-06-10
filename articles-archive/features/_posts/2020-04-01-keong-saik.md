@@ -53,7 +53,7 @@ Many of these hardworking and independent *majie* took vows of celibacy, pledgin
 <br/>
 <img src="/images/Vol-16-issue-1/keong-saik-road/ma-jie-and-adopted-daughter.png">
 
-A <i>majie</i>. and her adopted daughter. <i>Majie</i>. were Cantonese women from the Pearl River Delta region in China's Guangdong province, who journeyed to Southeast Asia in the 1930s to work mainly as domestic servants for wealthy families. <i>*Courtesy of Charmaine Leung.*
+A <i>majie</i>. and her adopted daughter. <i>Majie</i>. were Cantonese women from the Pearl River Delta region in China's Guangdong province, who journeyed to Southeast Asia in the 1930s to work mainly as domestic servants for wealthy families. <i>Courtesy of Charmaine Leung</i>.
 
 </div>
 
