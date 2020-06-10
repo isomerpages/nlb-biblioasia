@@ -172,7 +172,7 @@ Lee Collection, courtesy of National Archives of Singapore</i>.
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]: See Loo, J. (2017, Oct–Dec). A lifetime of labour: Cantonese amahs in Singapore. BiblioAsia, 13 (3): 2–9. Retrieved from BiblioAsia website.
+[^1]: See Loo, J. (2017, Oct–Dec). A lifetime of labour: Cantonese amahs in Singapore. *BiblioAsia*, 13 (3): 2–9. Retrieved from BiblioAsia website.
 [^2]: Nanyang, which means “South Seas” in Mandarin, refers to Southeast Asia. 
 [^3]: The *pipa*, or Chinese lute, is a pear-shaped four-stringed musical instrument made of wood. *Pipa tsai* were girls trained to play various musical instruments and sing to entertain men in clubs and brothels in Singapore. In some instances, the girls were forced into prostitution.
 [^4]: A “mama shop” or “mamak shop” (from Tamil word *mama* meaning “uncle” or “elder”) is a convenience store or sundry shop selling a wide variety of goods and provisions.
