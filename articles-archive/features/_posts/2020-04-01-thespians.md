@@ -111,8 +111,14 @@ After three years in Singapore, the Gosses left on 19 April 1963 when Ken was po
 <img src="/images/Vol-16-issue-1/Seletar/Pantomine.jpg">
 
 RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i>.
+
 </div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+
+</div>
 
 |**NoËl Coward’s Seletar Connection**|
 
@@ -134,9 +140,9 @@ RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, 
 
 |Coward made another stopover in Singapore on 19 May, where he again stayed at RAF Seletar, before setting sail for Europe on 24 May.[^30] Alas, his two sojourns in 1935 did not involve any impromptu turns on the stage.|
 
-<img src="/images/Vol-16-issue-1/Seletar/Noel-Coward-at-Yacht-Club.jpg”>
+|<img src="/images/Vol-16-issue-1/Seletar/Noel-Coward-at-Yacht-Club.jpg”>
 
-|Noël Coward (back row, fifth from the right) at the RAF Seletar Yacht Club with RAF personnel in 1935. *RAFSA Collection, courtesy of National Archives of Singapore*.|
+Noël Coward (back row, fifth from the right) at the RAF Seletar Yacht Club with RAF personnel in 1935. *RAFSA Collection, courtesy of National Archives of Singapore*.|
 
 #### **Award-winning Feats** 
 
@@ -168,6 +174,11 @@ The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s 
 
 </div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+
+</div>
 
 |**THE RAFSA COLLECTION AT THE NAS**|
 
