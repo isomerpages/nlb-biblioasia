@@ -30,8 +30,7 @@ On 12 September 1945, one of the darkest chapters of Singapore’s history offic
 
 In Singapore, the surrender ceremony was held in the Council Chamber of the Municipal Building, later renamed City Hall.[^2] General Seishiro Itagaki of Japan’s Seventh Area Army signed the surrender document on behalf of Japan while the Allies were represented by Louis Mountbatten, Supreme Allied Commander of the South East Asia Command (SEAC).[^3]
 
-The proceedings were solemn, but there was a moment mid-way when Japanese feathers were ruffled. This happened when China’s representative to the SEAC, Major-General Feng Yee 
- (冯衍) (1908–47)[^4] whipped out a camera and pointed it at the Japanese delegation. This action was particularly noticeable because Feng was seated in the first row, directly facing them. In an entry in Mountbatten’s personal diary, he records:
+The proceedings were solemn, but there was a moment mid-way when Japanese feathers were ruffled. This happened when China’s representative to the SEAC, Major-General Feng Yee (冯衍) (1908–47)[^4] whipped out a camera and pointed it at the Japanese delegation. This action was particularly noticeable because Feng was seated in the first row, directly facing them. In an entry in Mountbatten’s personal diary, he records:
 
 “The representative of the great Republic of China, Major-General Feng Yee, produced in the middle of the Ceremony a Leica camera which he actually proceeded to focus on the Japanese in turn. The Japanese delegates looked absolutely furious…”[^5]
 
