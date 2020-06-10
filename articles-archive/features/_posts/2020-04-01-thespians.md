@@ -185,7 +185,7 @@ The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s 
 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
-#### **NOTES**
+##### **NOTES**
 [^1]: [Singapore’s air base](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280217-1.2.55). (1928, February 17). *The Straits Times*, p. 9. Retrieved from NewspaperSG; Shorrick, N. (1968). *[Lion in the sky](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200113889)* (p. 26). Singapore: Federal Publications. (Call no.: RSING 358.4095957 SHO); Taylor, D. (2002). *[Seletar: Crowning glory](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11783315)* (p. 177). West Sussex: Woodfield Pub. (Call no.: RSING 358.40095957 TAY)
 [^2]: Seletar Theatre Club. (2020). Retrieved from the [RAF Seletar Theatre Club](http://www.rafseletar.com/RAF%20Seletar%20Theatre%20Club.html) website.
 [^3]: Seletar Theatre Club, 2020.
