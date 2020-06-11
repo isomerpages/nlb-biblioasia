@@ -43,17 +43,11 @@ Many of these hardworking and independent *majie* took vows of celibacy, pledgin
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/keong-saik-road/sor-hei-ritual.png">
+<img src="/images/Vol-16-issue-1/keong-saik-road/ma-jie-daughter-so-hei-comb-up.png">
 
-<i>Majie</i> took vows of celibacy. Image shows a ritual called <i>sor hei</i> (梳起; literally “comb up”) in which the women styled their hair into a neat bun at the back of their head. Photo by Yip Cheong Fun. <i>Courtesy of Andrew Yip</i>.
+(Left) A <i>majie</i>. and her adopted daughter. <i>Majie</i> were Cantonese women from the Pearl River Delta region in China's Guangdong province, who journeyed to Southeast Asia in the 1930s to work mainly as domestic servants for wealthy families. <i>Courtesy of Charmaine Leung</i>.
 
-</div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/keong-saik-road/ma-jie-and-adopted-daughter.png">
-
-A <i>majie</i>. and her adopted daughter. <i>Majie</i> were Cantonese women from the Pearl River Delta region in China's Guangdong province, who journeyed to Southeast Asia in the 1930s to work mainly as domestic servants for wealthy families. <i>Courtesy of Charmaine Leung</i>.
+{Right) <i>Majie</i> took vows of celibacy. Image shows a ritual called <i>sor hei</i> (梳起; literally “comb up”) in which the women styled their hair into a neat bun at the back of their head. Photo by Yip Cheong Fun. <i>Courtesy of Andrew Yip</i>.
 
 </div>
 
@@ -78,7 +72,6 @@ Today, this temple is especially popular with former residents of Chinatown. Whi
 <img src="/images/Vol-16-issue-1/keong-saik-road/zhun-ti-gong-temple.jpg">
 
 The Zhun Ti Gong Temple (or Cundhi Gong) at 13 Keong Saik Road, 2000. Built in 1928, the temple played an important role in the lives of <i>majie</i>. Many of the <i>sor hei</i> ceremonies by the <i>majie</i> took place at the temple. <i>Courtesy of Charmaine Leung</i>.
-
 </div> 
 
 #### **The Indian Community**
@@ -98,7 +91,6 @@ The shophouse where the Indian coolies lived was close to the Sri Layan Sithi Vi
 |The ritual involved using either a clog or a shoe to repeatedly hit human-shaped paper figurines that symbolise the negativity in one’s life. An auspicious piece of red paper would be placed on top of the beaten figurines and the figurines pasted on the wall. Incense was then offered.|
 
 |The Chinese believed that the ritual was effective in warding off evil and dispelling negativity in one’s life. It was commonly observed among the Cantonese communities of Hong Kong and Guangdong. It usually took place at road intersections, under bridges, and at the foot of a hill or mountain as these places were generally perceived to have bad fengshui and thus prone to the influence of evil spirits.|
-
 |<img src="/images/Vol-16-issue-1/keong-saik-road/beating-little-people.jpg">|
 
 |Women “beating the little people” on Keong Saik Road, 1950s. The Cantonese believe that the ritual would ward off evil and banish negativity in one’s life. In the background is the Sri Layan Sithi Vinayagar Temple before it was renovated into the current structure. Photo by Yip Cheong Fun. *Courtesy of Andrew Yip*.|
