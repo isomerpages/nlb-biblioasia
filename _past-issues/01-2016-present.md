@@ -12,19 +12,16 @@ Note: You may be redirected to an archived site or PDF version when accessing pa
 
 #### Volume 14
 
-|                                                              |                                                              |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BA cover 14-1](/images/covers/ba cover 14-1.JPG)[BiblioAsia Apr–Jun 2018](http://www.nlb.gov.sg/biblioasia/vol-14-issue-1-apr-jun-2018/) | ![BA cover 14-2](/images/covers/ba cover 14-2.JPG)[BiblioAsia Jul–Sep 2018](http://www.nlb.gov.sg/biblioasia/past-issues/vol-14-issue-2-jul-sep-2018/) | ![BA cover 14-3](/images/covers/ba cover 14-3.JPG)[BiblioAsia Oct–Dec 2018](http://www.nlb.gov.sg/biblioasia/vol-14-issue-3/) | ![BA cover 14-4](/images/covers/ba cover 14-4.JPG)[BiblioAsia Jan–Mar 2019](http://www.nlb.gov.sg/biblioasia/vol-14-issue-4/) |
 
 ####  Volume 13
 
-|                                                              |                                                              |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BA cover 13-1](/images/covers/ba cover 13-1.JPG)[BiblioAsia Apr–Jun 2017](http://www.nlb.gov.sg/biblioasia/volume-13-issue-1-may-to-jul-2017/) | ![BA cover 13-2](/images/covers/ba cover 13-2.JPG)[BiblioAsia Jul–Sep 2017](http://www.nlb.gov.sg/biblioasia/vol-13-issue-2-jul-sept-2017/) | ![BA cover 13-3](/images/covers/ba cover 13-3.JPG)[BiblioAsia Oct–Dec 2017](http://www.nlb.gov.sg/biblioasia/vol13-issue-3/) | ![BA cover 13-4](/images/covers/ba cover 13-4.JPG)[BiblioAsia Jan–Mar 2018](http://www.nlb.gov.sg/biblioasia/vol-13-issue-4/) |
 
 ####  Volume 12
 
-|                                                              |                                                              |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BA cover 12-1](/images/covers/ba cover 12-1.JPG)[BiblioAsia   Apr–Jun 2016](http://www.nlb.gov.sg/biblioasia/vol-12-issue-1-april-jun-2016/) | ![BA cover 12-2](/images/covers/ba cover 12-2.JPG)[BiblioAsia   Jul–Sep 2016](http://www.nlb.gov.sg/biblioasia/vol-12-issue-2-jul-sep-2016/) | ![BA cover 12-3](/images/covers/ba cover 12-3.JPG)[BiblioAsia Oct–Dec 2016](http://www.nlb.gov.sg/biblioasia/vol-12-issue-3-oct-dec-2016/) | ![BA cover 12-4](/images/covers/ba cover 12-4.JPG)[BiblioAsia Jan–Mar 2017](http://www.nlb.gov.sg/biblioasia/volume-12-issue-4-jan-mar-2017/) |
 
