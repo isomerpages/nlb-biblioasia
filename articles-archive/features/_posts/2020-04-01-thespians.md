@@ -126,7 +126,7 @@ RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, 
 
 |Despite being on holiday “as a complete rest from the strain of continually catering for other people’s amusement”, [^23] the pull of the theatre proved too strong. When the opportunity came for him to take to the stage, Coward seized it.|
 
-|A visiting English theatrical group was in Singapore to perform R.C. Sherriff’s *Journey’s End*. However, when the lead actor lost his voice at the last minute, Coward agreed to replace him­ as a favour to the theatre company.[^24]|
+|A visiting English theatrical group was in Singapore to perform R.C. Sherriff’s *Journey’s End*. However, when the lead actor lost his voice at the last minute, Coward agreed to replace him as a favour to the theatre company.[^24]|
 
 |He had just five days to prepare for his role as Captain Stanhope in the three-night performance that ran at the Victoria Theatre from 2 to 4 April. The near sold-out shows received mixed reviews though, with some critics saying that Coward was miscast in the role while others felt he gave an almost flawless and rich portrayal of the character.[^25]|
 
@@ -173,7 +173,7 @@ The second edition of the Festival of Drama was organised by the University of S
 
 |**THE RAFSA COLLECTION AT THE NAS**|
 
-|The Royal Air Force Seletar Association (RAFSA )(www.rafseletar.co.uk), based in the United Kingdom, was formed in late 1997 with the objective of reuniting an estimated 80,000 to 100,000 personnel who had served at RAF Seletar from 1928 to 1971, and to keep their memories alive.|
+|The Royal Air Force Seletar Association (RAFSA)(www.rafseletar.co.uk), based in the United Kingdom, was formed in late 1997 with the objective of reuniting an estimated 80,000 to 100,000 personnel who had served at RAF Seletar from 1928 to 1971, and to keep their memories alive.|
 
 |The association donated approximately 4,300 items comprising photographs, posters, slides, booklets and documents to the National Archives of Singapore in 2016. To access the RAFSA Collection, visit www.nas.gov.sg/archivesonline/.|
 
