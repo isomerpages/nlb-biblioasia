@@ -125,6 +125,12 @@ Major-General Feng Yee with his second daughter Xiangzhong (湘钟) on his right
 
 <div style="background-color: white;">
 <br/>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+
+</div>
+
+<div style="background-color: white;">
+<br/>
 <img src="/images/Vol-16-issue-1/authors/Seow_Peck_Ngiam.png" style="width: 100px; height: 100px;" />
 
 <b> Seow Peck Ngiam</b> is a Senior Librarian with the National Library, Singapore. Her main responsibilities include developing the Chinese Collection, and providing research and reference services. She is interested in the history of the Chinese community in Singapore.
