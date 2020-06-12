@@ -92,8 +92,8 @@ The shophouse where the Indian coolies lived was close to the Sri Layan Sithi Vi
 
 |The Chinese believed that the ritual was effective in warding off evil and dispelling negativity in one’s life. It was commonly observed among the Cantonese communities of Hong Kong and Guangdong. It usually took place at road intersections, under bridges, and at the foot of a hill or mountain as these places were generally perceived to have bad fengshui and thus prone to the influence of evil spirits.|
 
-<img src="/images/Vol-16-issue-1/keong-saik-road/beating-little-people.jpg">
-Women “beating the little people” on Keong Saik Road, 1950s. The Cantonese believe that the ritual would ward off evil and banish negativity in one’s life. In the background is the Sri Layan Sithi Vinayagar Temple before it was renovated into the current structure. Photo by Yip Cheong Fun. *Courtesy of Andrew Yip*.|
+|<img src="/images/Vol-16-issue-1/keong-saik-road/beating-little-people.jpg">|
+|Women “beating the little people” on Keong Saik Road, 1950s. The Cantonese believe that the ritual would ward off evil and banish negativity in one’s life. In the background is the Sri Layan Sithi Vinayagar Temple before it was renovated into the current structure. Photo by Yip Cheong Fun. *Courtesy of Andrew Yip*.|
 
 <div style="background-color: white;">
 <br/>
