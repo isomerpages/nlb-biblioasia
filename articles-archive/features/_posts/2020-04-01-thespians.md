@@ -160,7 +160,7 @@ The second edition of the Festival of Drama was organised by the University of S
 <br/>
 <img src="/images/Vol-16-issue-1/Seletar/programme-booklets.png”>
 
-{Left) Programme booklet for <i>Wanted One Body</i>, a Seletar Theatre Club production in August 1967 starring Pam Ayres. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.
+(Left) Programme booklet for <i>Wanted One Body</i>, a Seletar Theatre Club production in August 1967 starring Pam Ayres. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.
 <br>
 (Right) The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s <i>J.B.</i>, winner of the Inter-Services Drama Festival in 1962. <i>Retrieved from Seletar Theatre Club website</i>.
 </div>
