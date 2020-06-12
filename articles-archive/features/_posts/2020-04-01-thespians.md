@@ -113,11 +113,9 @@ After three years in Singapore, the Gosses left on 19 April 1963 when Ken was po
 RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i>.
 
 </div>
-
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
-
 </div>
 
 |**NoËl Coward’s Seletar Connection**|
@@ -140,9 +138,9 @@ RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, 
 
 |Coward made another stopover in Singapore on 19 May, where he again stayed at RAF Seletar, before setting sail for Europe on 24 May.[^30] Alas, his two sojourns in 1935 did not involve any impromptu turns on the stage.|
 
-|<img src="/images/Vol-16-issue-1/Seletar/Noel-Coward-at-Yacht-Club.jpg”>
+|<img src="/images/Vol-16-issue-1/Seletar/Noel-Coward-at-Yacht-Club.jpg”>|
 
-Noël Coward (back row, fifth from the right) at the RAF Seletar Yacht Club with RAF personnel in 1935. *RAFSA Collection, courtesy of National Archives of Singapore*.|
+|Noël Coward (back row, fifth from the right) at the RAF Seletar Yacht Club with RAF personnel in 1935. *RAFSA Collection, courtesy of National Archives of Singapore*.|
 
 #### **Award-winning Feats** 
 
@@ -160,22 +158,15 @@ The second edition of the Festival of Drama was organised by the University of S
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Seletar/Wanted-One-Body.png”>
+<img src="/images/Vol-16-issue-1/Seletar/programme-booklets.png”>
 
-Programme booklet for <i>Wanted One Body</i>, a Seletar Theatre Club production in August 1967 starring Pam Ayres. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.
-
+{Left) Programme booklet for <i>Wanted One Body</i>, a Seletar Theatre Club production in August 1967 starring Pam Ayres. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.
+<br>
+(Right) The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s <i>J.B.</i>, winner of the Inter-Services Drama Festival in 1962. <i>Retrieved from Seletar Theatre Club website</i>.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Seletar/souvenir-programme.png”>
-
-The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s <i>J.B.</i>, winner of the Inter-Services Drama Festival in 1962. <i>Retrieved from Seletar Theatre Club website</i>.
-
-</div>
-
-<div style="background-color: white;">
-<br>
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 
 </div>
