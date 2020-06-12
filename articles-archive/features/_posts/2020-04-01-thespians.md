@@ -102,7 +102,7 @@ Ayres, who lives in England today, performed in the Royal Variety show at the Lo
 
 A less well-known actor associated with the club is Julianna Goss (née Francis). Goss trained as an actress at the Royal Academy of Dramatic Art (RADA) in London before enlisting in the Women’s Auxiliary Air Force (WAAF) during World War II. She started out as a mechanic but later became a member of the wartime entertainment troupe that toured military bases. 
 
-In the WAAF, she met and married Ken Goss, an engine fitter, and became a service wife. They moved to Singapore when Ken was posted to RAF Seletar in 1960. She joined the RAF Seletar Theatre Club and used her RADA credentials to conduct classes. She also acted in and produced several major productions, such as *Charley’s Aunt*, *Roar like a Dove* and Archibald MacLeish’s *J.B.*, which was the winner of the Inter-Services Drama Festival in 1962.[^20]
+In the WAAF, she met and married Ken Goss, an engine fitter, and became a service wife. They moved to Singapore when Ken was posted to RAF Seletar in 1960. She joined the RAF Seletar Theatre Club and used her RADA credentials to conduct classes. She also acted in and produced several major productions, such as *Charley’s Aunt*, *Roar like a Dove* and Archibald MacLeish’s *J.B*., which was the winner of the Inter-Services Drama Festival in 1962.[^20]
 
 After three years in Singapore, the Gosses left on 19 April 1963 when Ken was posted to RAF Lyneham in Wiltshire, England. At RAF Lyneham, Goss joined the Lyneham Stage Club where she managed to persuade successive station commanders to agree to a purpose-built theatre for the club. It was constructed in 1969 and named The New Theatre. Following her death in 1977, the theatre was renamed Juliana Goss Theatre in her honour. The club continued to stage three shows a year until its closure in 2012 when the RAF withdrew from Lyneham.[^21]
 
@@ -138,13 +138,13 @@ RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, 
 
 |Coward made another stopover in Singapore on 19 May, where he again stayed at RAF Seletar, before setting sail for Europe on 24 May.[^30] Alas, his two sojourns in 1935 did not involve any impromptu turns on the stage.|
 
-|<img src="/images/Vol-16-issue-1/Seletar/Noel-Coward-at-Yacht-Club.jpg”>|
+|<img src="/images/Vol-16-issue-1/seletar/noel-coward-at-yacht-club.jpg”>|
 
 |Noël Coward (back row, fifth from the right) at the RAF Seletar Yacht Club with RAF personnel in 1935. *RAFSA Collection, courtesy of National Archives of Singapore*.|
 
 #### **Award-winning Feats** 
 
-The club’s offerings were a class act, clinching the first prize in the Inter-Services Drama Festival not once but three times – for its productions of Archibald MacLeish’s Pulitzer Prize-winning play *J.B.* in 1962, Keith Waterhouse’s *Billy Liar* in 1966 and Trevor Peacock’s *Collapse of Stout Party* in 1967.
+The club’s offerings were a class act, clinching the first prize in the Inter-Services Drama Festival not once but three times – for its productions of Archibald MacLeish’s Pulitzer Prize-winning play *J.B*. in 1962, Keith Waterhouse’s *Billy Liar* in 1966 and Trevor Peacock’s *Collapse of Stout Party* in 1967.
 
 In 1969, the Far East Land Forces organised the first open Festival of Drama in which all English-language dramatic societies in Singapore were eligible to take part. (The Inter-Services Drama Festival, which first started running in 1961, had only been open to British services group). Plays for the Festival of Drama were presented in one-act performances – each lasting between 30 and 50 minutes – on any topic, although themes on societal issues or relating to Singapore were preferred.[^31]
 
@@ -158,11 +158,12 @@ The second edition of the Festival of Drama was organised by the University of S
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Seletar/programme-booklets.png”>
+<img src="/images/Vol-16-issue-1/seletar/programme-booklets.png">
 
 (Left) Programme booklet for <i>Wanted One Body</i>, a Seletar Theatre Club production in August 1967 starring Pam Ayres. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.
 <br>
 (Right) The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s <i>J.B.</i>, winner of the Inter-Services Drama Festival in 1962. <i>Retrieved from Seletar Theatre Club website</i>.
+
 </div>
 
 <div style="background-color: white;">
