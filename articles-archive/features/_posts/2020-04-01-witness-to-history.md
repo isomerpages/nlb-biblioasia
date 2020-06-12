@@ -116,7 +116,7 @@ After Feng’s death in 1947, the family followed the Chinese Nationalist Party 
 <br/>
 <img src="/images/Vol-16-issue-1/History/family-photo.png">
 
-Major-General Feng Yee with his second daughter Xiangzhong (湘钟) on his right and third daughter Xuanzhong (漩钟) on his left. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)<i>.
+Major-General Feng Yee with his second daughter Xiangzhong (湘钟) on his right and third daughter Xuanzhong (漩钟) on his left. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
 </div>
 
