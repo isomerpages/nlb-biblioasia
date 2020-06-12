@@ -46,7 +46,7 @@ Many of these hardworking and independent *majie* took vows of celibacy, pledgin
 <img src="/images/Vol-16-issue-1/keong-saik-road/ma-jie-daughter-so-hei-comb-up.png">
 
 (Left) A <i>majie</i>. and her adopted daughter. <i>Majie</i> were Cantonese women from the Pearl River Delta region in China's Guangdong province, who journeyed to Southeast Asia in the 1930s to work mainly as domestic servants for wealthy families. <i>Courtesy of Charmaine Leung</i>.
-
+<br>
 {Right) <i>Majie</i> took vows of celibacy. Image shows a ritual called <i>sor hei</i> (梳起; literally “comb up”) in which the women styled their hair into a neat bun at the back of their head. Photo by Yip Cheong Fun. <i>Courtesy of Andrew Yip</i>.
 
 </div>
@@ -91,8 +91,8 @@ The shophouse where the Indian coolies lived was close to the Sri Layan Sithi Vi
 |The ritual involved using either a clog or a shoe to repeatedly hit human-shaped paper figurines that symbolise the negativity in one’s life. An auspicious piece of red paper would be placed on top of the beaten figurines and the figurines pasted on the wall. Incense was then offered.|
 
 |The Chinese believed that the ritual was effective in warding off evil and dispelling negativity in one’s life. It was commonly observed among the Cantonese communities of Hong Kong and Guangdong. It usually took place at road intersections, under bridges, and at the foot of a hill or mountain as these places were generally perceived to have bad fengshui and thus prone to the influence of evil spirits.|
-|<img src="/images/Vol-16-issue-1/keong-saik-road/beating-little-people.jpg">|
 
+|<img src="/images/Vol-16-issue-1/keong-saik-road/beating-little-people.jpg">|
 |Women “beating the little people” on Keong Saik Road, 1950s. The Cantonese believe that the ritual would ward off evil and banish negativity in one’s life. In the background is the Sri Layan Sithi Vinayagar Temple before it was renovated into the current structure. Photo by Yip Cheong Fun. *Courtesy of Andrew Yip*.|
 
 <div style="background-color: white;">
@@ -145,7 +145,7 @@ Lee Collection, courtesy of National Archives of Singapore</i>.
 
 </div>
 
-|<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-book-mockup.png" style="width: 300px; height: 250px;" />|
+|<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-book.png" style="width: 300px; height: 250px;" />|
 
 |Charmaine Leung grew up on Keong Saik Road in the 1970s and 80s as the daughter of a brothel operator. After having lived overseas for almost 20 years, Charmaine returned to Singapore and discovered a vastly different Keong Saik Road.|
 
