@@ -84,7 +84,7 @@ Mountbatten and Feng arrived in Chungking on 8 March 1945. Mountbatten hoped to 
 <br/>
 <img src="/images/Vol-16-issue-1/History/certificate.png">
 
-Certificate of Major-General Feng Yee’s appointment in February 1943 as the Deputy Chief of Staff in the headquarters of the Commander -in-Chief of the Chinese Expeditionary Force. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
+Certificate of Major-General Feng Yee’s appointment in February 1943 as the Deputy Chief of Staff in the headquarters of the Commander-in-Chief of the Chinese Expeditionary Force. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
 </div>
 
@@ -158,4 +158,4 @@ Major-General Feng Yee with his second daughter Xiangzhong (湘钟) on his right
 [^24]: [Pearson](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2008131670, 2010, pp. 51–54; [Mountbatten](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4083962), 1951, pp. 7, 132, 134.
 [^25]: 国防训令. 令本部部本部土地及建筑司 [Order of National Defence Ministry. By order of this ministry, Land and Building Division]. (1947, July 21). In 冯衍将军珍藏资料 [Documents of Major-General Feng Yee]. Collection of the National Library, Singapore. (Accession no.: B34450839C)
 [^26]: 由冯衍逝世谈到医药改进问题 [A discussion on the issues in improving medical science arising from Feng Yee’s demise]. (1948, March 3). 平民医药周报 [*People Medical Weekly*], p. 3. (Not available in NLB holdings)
-[^27]: 冯衍和白崇禧 [Feng Yee and Bai Chongxi]. (2014). 江海晚报多媒体数字版 [Jianghai Wanbao multimedia digital edition]. Retrieved from Jianghai Wanbao website
+[^27]: 冯衍和白崇禧 [Feng Yee and Bai Chongxi]. (2014). 江海晚报多媒体数字版 [Jianghai Wanbao multimedia digital edition]. Retrieved from Jianghai Wanbao website.
