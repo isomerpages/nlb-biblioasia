@@ -80,6 +80,14 @@ Apart from the predominantly Cantonese-speaking Chinese community who lived and 
 
 Keong Saik Road was home to a shophouse occupied by Indian coolies. Many were young bachelors working in Singapore, but some were older men who had left their families in India in search of greener pastures in Singapore. 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-1/keong-saik-road/sri-layan-sithi-vinayagar-temple.jpg">
+
+Devotees at the Sri Layan Sithi Vinayagar Temple welcoming the silver
+chariot bearing Lord Murugan that has just arrived from the Sri Thendayuthapani Temple. The annual procession is called Punar Pusam and takes place the day before Thaipusam. <i>Courtesy of the Chettiars’ Temple Society - Sri Thendayuthapani Temple</i>.
+</div>
+
 I remember an Indian man in his 30s living there who operated a "mama shop"[^4]  just across the street. He spoke fluent Cantonese and always sold candy to kids at a discount, even giving them extra treats. He allowed children to hang around his shop, letting them admire the wide array of colourful merchandise that included toy swords, badminton rackets and magazines. 
 
 The shophouse where the Indian coolies lived was close to the Sri Layan Sithi Vinayagar Temple at 73 Keong Saik Road. During the Thaipusam festival that takes place between 14 January and 14 February each year, Keong Saik Road becomes a hive of activity. The Sri Layan Sithi Vinayagar Temple plays an important role in the run-up to Thaipusam. On the eve of the festival, at about 6 am, a silver chariot from the Sri Thendayuthapani Temple on Tank Road makes it way to the Sri Layan Sithi Vinayagar Temple during a procession known as Punar Pusam. The chariot bears Lord Murugan, the Hindu god of war, and it stays at the Sri Layan Sithi Vinayagar Temple until evening when the chariot and the procession return to the temple on Tank Road.[^5]
@@ -90,17 +98,10 @@ The shophouse where the Indian coolies lived was close to the Sri Layan Sithi Vi
 
 |The ritual involved using either a clog or a shoe to repeatedly hit human-shaped paper figurines that symbolise the negativity in one’s life. An auspicious piece of red paper would be placed on top of the beaten figurines and the figurines pasted on the wall. Incense was then offered.|
 
-|The Chinese believed that the ritual was effective in warding off evil and dispelling negativity in one’s life. It was commonly observed among the Cantonese communities of Hong Kong and Guangdong. It usually took place at road intersections, under bridges, and at the foot of a hill or mountain as these places were generally perceived to have bad fengshui and thus prone to the influence of evil spirits.|
+|The Chinese believed that the ritual was effective in warding off evil and dispelling negativity in one’s life. It was commonly observed among the Cantonese communities of Hong Kong and Guangdong. It usually took place at road intersections, under bridges, and at the foot of a hill or mountain as these places were generally perceived to have bad *fengshui* and thus prone to the influence of evil spirits.|
 
 |<img src="/images/Vol-16-issue-1/keong-saik-road/beating-little-people.jpg">||Women “beating the little people” on Keong Saik Road, 1950s. The Cantonese believe that the ritual would ward off evil and banish negativity in one’s life. In the background is the Sri Layan Sithi Vinayagar Temple before it was renovated into the current structure. Photo by Yip Cheong Fun. *Courtesy of Andrew Yip*.|
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/keong-saik-road/sri-layan-sithi-vinayagar-temple.jpg">
-
-Devotees at the Sri Layan Sithi Vinayagar Temple welcoming the silver
-chariot bearing Lord Murugan that has just arrived from the Sri Thendayuthapani Temple. The annual procession is called Punar Pusam and takes place the day before Thaipusam. <i>Courtesy of the Chettiars’ Temple Society - Sri Thendayuthapani Temple</i>.
-</div>
 
 #### **A Bustling Neighbourhood**
 
@@ -116,19 +117,13 @@ Located near Keong Saik Road was a factory called Yip Choy Sun (叶彩新), a fa
 thousands of boxes for Tai Chong Kok (大中国), a traditional bakery
 in Chinatown that was popular for its mooncakes. Yip Choy Sun operated at full capacity to meet the orders for mooncake boxes and because it was not uncommon to receive last-minute orders, the entire family would pitch in to get the orders out. The family moved out of the Keong Saik area when the patriarch passed away in October 1997. 
 
-A well-loved icon of Keong Saik Road, then and now, is the famous Tong Ah Eating House, formerly located in the distinctive red-and-white three-storey building situated on the triangular plot of land at the junction of Keong Saik and Teck Lim roads. The coffee shop was opened in 1939, the same year that the building was completed. Favoured by the residents of Keong Saik, Tong Ah was packed every morning. One of the most sought-after breakfast items was buttered toast topped with kaya.[^7]
+A well-loved icon of Keong Saik Road, then and now, is the famous Tong Ah Eating House, formerly located in the distinctive red-and-white three-storey building situated on the triangular plot of land at the junction of Keong Saik and Teck Lim roads. The coffee shop was opened in 1939, the same year that the building was completed. Favoured by the residents of Keong Saik, Tong Ah was packed every morning. One of the most sought-after breakfast items was buttered toast topped with *kaya*.[^7]
 
-In 2013, the coffee shop moved across the street to number 35. The Chinese characters 東亞 (Tong Ah) remain inscribed on the facade of the former location. The kaya toast set – comprising buttered toast slathered with homemade kaya and paired with two soft-boiled eggs drizzled with soya sauce and a dash of pepper, all accompanied by hot coffee or tea – remains popular. 
+In 2013, the coffee shop moved across the street to number 35. The Chinese characters 東亞 (Tong Ah) remain inscribed on the facade of the former location. The *kaya* toast set – comprising buttered toast slathered with homemade *kaya* and paired with two soft-boiled eggs drizzled with soya sauce and a dash of pepper, all accompanied by hot coffee or tea – remains popular. 
 
 #### **Keong Saik Road Today**
 
 To the uninitiated, Keong Saik Road may be just another street in Singapore. But for those who are interested in the history of our country, Keong Saik is part of Singapore’s heritage, offering a glimpse into the lives of early Chinese immigrants. The eclectic mix of communities and businesses at the Keong Saik Road of yesteryear has given the place a unique identity.
-
-Keong Saik Road is now a trendy neighbourhood offering contemporary wine and dine options in restored shophouses, attracting many tourists who are often seen on the street posing for photographs. (Keong Saik’s international profile was raised after it was voted one of the top four travel sights in Asia by Lonely Planet in 2017). For me, Keong Saik Road is the first home I knew.
-
-As I stroll along the Keong Saik area today, what I encounter now is very different from what I remember. On a recent visit, I walked past fancy restaurants and ultra-modern boutique hotels stylishly designed to attract a new generation of visitors. The community there is no longer the one I had been familiar with. 
-
-Although newness brings excitement, if we are not deliberate in preserving the spirit of our heritage beyond its physical structures, we may one day lose the intangible beauty of our past and heritage completely. I am grateful for the privilege to have lived in an iconic part of Singapore’s past and to have experienced the old Keong Saik Road and its community. As one of Singapore’s daughters, I can only hope that I have done my part in helping to preserve a little of Singapore’s heritage in my sharing about a street that was once my home.
 
 <div style="background-color: white;">
 <br/>
@@ -137,6 +132,12 @@ Although newness brings excitement, if we are not deliberate in preserving the s
 Shophouses on Keong Saik Road, 1997. <i>Joanne
 Lee Collection, courtesy of National Archives of Singapore</i>.
 </div>
+
+Keong Saik Road is now a trendy neighbourhood offering contemporary wine and dine options in restored shophouses, attracting many tourists who are often seen on the street posing for photographs. (Keong Saik’s international profile was raised after it was voted one of the top four travel sights in Asia by Lonely Planet in 2017). For me, Keong Saik Road is the first home I knew.
+
+As I stroll along the Keong Saik area today, what I encounter now is very different from what I remember. On a recent visit, I walked past fancy restaurants and ultra-modern boutique hotels stylishly designed to attract a new generation of visitors. The community there is no longer the one I had been familiar with. 
+
+Although newness brings excitement, if we are not deliberate in preserving the spirit of our heritage beyond its physical structures, we may one day lose the intangible beauty of our past and heritage completely. I am grateful for the privilege to have lived in an iconic part of Singapore’s past and to have experienced the old Keong Saik Road and its community. As one of Singapore’s daughters, I can only hope that I have done my part in helping to preserve a little of Singapore’s heritage in my sharing about a street that was once my home.
 
 <div style="background-color: white;">
 <br>
@@ -163,7 +164,7 @@ Lee Collection, courtesy of National Archives of Singapore</i>.
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]: See Loo, J. (2017, Oct–Dec). A lifetime of labour: Cantonese amahs in Singapore. *BiblioAsia*, 13 (3): 2–9. Retrieved from BiblioAsia website.
+[^1]: See Loo, J. (2017, Oct–Dec). A lifetime of labour: Cantonese amahs in Singapore. *BiblioAsia, 13* (3): 2–9. Retrieved from BiblioAsia website.
 [^2]: Nanyang, which means “South Seas” in Mandarin, refers to Southeast Asia. 
 [^3]: The *pipa*, or Chinese lute, is a pear-shaped four-stringed musical instrument made of wood. *Pipa tsai* were girls trained to play various musical instruments and sing to entertain men in clubs and brothels in Singapore. In some instances, the girls were forced into prostitution.
 [^4]: A “mama shop” or “mamak shop” (from Tamil word *mama* meaning “uncle” or “elder”) is a convenience store or sundry shop selling a wide variety of goods and provisions.
