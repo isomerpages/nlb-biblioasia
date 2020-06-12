@@ -164,7 +164,7 @@ Major-General Feng Yee with his second daughter Xiangzhong (湘钟) on his right
 [^21]: [Mountbatten](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4128060), 1969, p. 321.
 [^22]: Pearson, M. (2010). *[End game Burma 1945: Slim's master stroke, Meiktila 1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200813167)* (p. 52). South Yorkshire: Pen & Sword Military (Call no.: RSEA 940.5425 PEA-[WAR])
 [^23]: Young, E.M. (2004). *[Meiktila 1945: The battle to liberate Burma](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14311010)* (p. 68). Oxford: Osprey. (Call no.: R 940.542591 YOU-[WAR])
-[^24]: [Pearson](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2008131670, 2010, pp. 51–54; [Mountbatten](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4083962), 1951, pp. 7, 132, 134.
+[^24]: [Pearson](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200813167), 2010, pp. 51–54; [Mountbatten](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4083962), 1951, pp. 7, 132, 134.
 [^25]: 国防训令. 令本部部本部土地及建筑司 [Order of National Defence Ministry. By order of this ministry, Land and Building Division]. (1947, July 21). In 冯衍将军珍藏资料 [Documents of Major-General Feng Yee]. Collection of the National Library, Singapore. (Accession no.: B34450839C)
 [^26]: 由冯衍逝世谈到医药改进问题 [A discussion on the issues in improving medical science arising from Feng Yee’s demise]. (1948, March 3). 平民医药周报 [*People Medical Weekly*], p. 3. (Not available in NLB holdings)
 [^27]: 冯衍和白崇禧 [Feng Yee and Bai Chongxi]. (2014). 江海晚报多媒体数字版 [Jianghai Wanbao multimedia digital edition]. Retrieved from Jianghai Wanbao website.
