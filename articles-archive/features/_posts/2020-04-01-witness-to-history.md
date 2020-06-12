@@ -94,17 +94,20 @@ After the war, Feng returned to China and in August 1946, he was appointed Deput
 
 On 23 November 1947, Feng left Nanking and transited in Shanghai for an official trip to Linhai city in Zhejiang province. Travelling by sea on his way back, the rough waves left Feng nauseated and vomiting profusely, which led to bleeding in his stomach. As soon as the ship docked at Haimen, a city in Jiangsu province, he was rushed to hospital but doctors there could not stanch the bleeding. Feng decided to continue his journey back to Shanghai but by the time he arrived at a hospital in the city, he had lost a lot of blood. Three days later, on 3 December 1947, Feng died at the age of 39.[^26] He was buried in his hometown of Nantong.[^27]
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/History/China-trip-letter.png">
-
-Letter dated 5 March 1945 from Louis Mountbatten to Feng – with the accompanying envelope – regarding their impending trip to China. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
-
-</div>
-
 #### **The Family Man** 
 
 Feng died leaving behind two wives who, between them, bore six children. Feng’s first wife was Madam Lu Yun Ruo, with whom he had a daughter. During the chaotic period when the Chinese army retreated to Chungking from Nanking, Feng became separated from his wife and with the ongoing war, they could not find each other.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-1/History/letters.png">
+
+(Left) Letter dated 5 March 1945 from Louis Mountbatten to Feng – with the accompanying envelope – regarding their impending trip to China. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
+(Right) A letter dated 9 June (likely 1944) from Wei Lihuang, Commander of the Chinese Expeditionary 
+Force. He expressed concern about Major-General Feng Yee’s injuries sustained during the Bombay docks 
+explosion on 14 April 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
+
+</div>
 
 Although Feng subsequently remarried, he never stopped looking for Madam Lu and his efforts finally paid off. He brought her back to Chungking and she was accepted by his second family. The daughter he had with Madam Lu died of an illness at the age of 16.
 
@@ -140,7 +143,7 @@ Major-General Feng Yee with his second daughter Xiangzhong (湘钟) on his right
 [^6]: 冯家讣告, 3 Dec 1947.
 [^7]: 中国军事考察团在新加坡 [Chinese Military Mission in Malaya]. (1941). 良友 [*The Young Companion*], 167, 8; (Call no.: R Chinese 059.951YC); 冯衍少将演词. (1945, September 12). 星洲日报总汇报 [*Sin Chew Jit Poh Union Times*], p. 1. In 冯衍将军珍藏资料 [Documents of Major-General Feng Yee]. Collection of the National Library, Singapore. (Accession no.: B34450839C)
 [^8]: 华人百科 [Encyclopaedia of Chinese]. 冯衍 [Feng Yee]. Retrieved from 华人百科 website.
-[^9]: 曹剑浪 [Cao, J.L.]. (2004). [国民党军简史上册](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=123110440) [Brief history of Kuomintang Army volume one] (pp. 176, 295). 北京: 解放军出版社 (Call no.: R 951.082 CJL). The Battle of Shanghai (13 August to 26 November 1937) was fought between the National Revolutionary Army of the Republic of China and the Imperial Japanese Army at the beginning of the Second Sino-Japanese War (1937–45). The battle took place over three phases and was described as one of the largest and bloodiest battles of the entire war, resulting in heavy military as well as civilian casualties.
+[^9]: 曹剑浪 [Cao, J.L.]. (2004). [国民党军简史上册](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12311044) [Brief history of Kuomintang Army volume one] (pp. 176, 295). 北京: 解放军出版社 (Call no.: R 951.082 CJL). The Battle of Shanghai (13 August to 26 November 1937) was fought between the National Revolutionary Army of the Republic of China and the Imperial Japanese Army at the beginning of the Second Sino-Japanese War (1937–45). The battle took place over three phases and was described as one of the largest and bloodiest battles of the entire war, resulting in heavy military as well as civilian casualties.
 [^10]: 陆军大学校证书 [Certificate of Military College]. (1937, December 25). In 冯衍将军珍藏资料 [Documents of Major-General Feng Yee]. Collection of the National Library, Singapore. (Accession no.: B34450839C)
 [^11]: [曹剑浪](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12311044), 2004, pp. 625,713.
 [^12]: Diamond, J. (2014). *[Stilwell and the Chindits: The Allied campaign for Northern Burma, 1943–1944: Rare photographs from wartime archives](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201556675)* (p. 23). England: Pen & Sword Military. (Call no.: RSEA 940.5425910222 DIA-[WAR])
@@ -151,7 +154,7 @@ Major-General Feng Yee with his second daughter Xiangzhong (湘钟) on his right
 [^17]: 国防研究院第一期结业研究员出国研究及分派服务表 [List of National Defence Research Institute’s first batch of graduated researchers for overseas study and their service locations]. (Undated). Major-General Feng Yee (冯衍), Chief Delegate to the S.E.A.C (Resume). In 冯衍将军珍藏资料 [Documents of Major-General Feng Yee]. Collection of the National Library, Singapore. (Accession no.: B34450839C)
 [^18]: Mountbatten, 1951, pp. 4–5; Mountbatten, L. (1969). *Post surrender tasks: Section E of 'The report to the Combined Chiefs of Staff* (p. 321). London: Her Majesty Stationery Office. (Call no.: RSEA 940.5425 ALL-[WAR])
 [^19]: The Bombay docks explosion on 14 April 1944 occurred when the freighter SS *Fort Stikine* moored at Victoria Dock caught fire and was destroyed in two massive explosions. The cargo ship was carrying close to 1,400 tons of explosives, including torpedoes, flares, mines, shells and ammunition. Also on board were 8,700 bales of raw cotton, 1,000 barrels of lubricating oil, crates of gold bars and a mixed cargo of fish manure, resin, rice, scrap iron, sulphur and timber.
-[^20]: P]ezarkar, L. (2018, May 20). The explosion that shook Bombay in 1944. Retrieved from Live History India website.
+[^20]: Pezarkar, L. (2018, May 20). The explosion that shook Bombay in 1944. Retrieved from Live History India website.
 [^21]: [Mountbatten](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4128060), 1969, p. 321.
 [^22]: Pearson, M. (2010). *[End game Burma 1945: Slim's master stroke, Meiktila 1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200813167)* (p. 52). South Yorkshire: Pen & Sword Military (Call no.: RSEA 940.5425 PEA-[WAR])
 [^23]: Young, E.M. (2004). *[Meiktila 1945: The battle to liberate Burma](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14311010)* (p. 68). Oxford: Osprey. (Call no.: R 940.542591 YOU-[WAR])
