@@ -211,7 +211,7 @@ Traditional Malay seals were generally personal official seals. Behind the offic
 
 
 <div class="infobox">
-<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-book.png" style="width: 300px; height: 250px;" />
+<img src="/images/Vol-16-issue-1/malay-seals/Malay-Seals-mockup.png" style="width: 300px; height: 250px;" />
 
 Annabel Teh Gallop’s <i>Malay Seals from the Islamic World of Southeast Asia</i> (2019) is published in Singapore by NUS Press in association with The British Library. The catalogue is available for reference at the Lee Kong Chian Reference Library (<a href=””Call no.: RSING 737.60959 GAL</a>). It also retails at major bookshops in Singapore and overseas. 
 
