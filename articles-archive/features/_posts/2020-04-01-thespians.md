@@ -138,7 +138,7 @@ RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, 
 
 |Coward made another stopover in Singapore on 19 May, where he again stayed at RAF Seletar, before setting sail for Europe on 24 May.[^30] Alas, his two sojourns in 1935 did not involve any impromptu turns on the stage.|
 
-|<img src="/images/Vol-16-issue-1/seletar/noel-coward-at-yacht-club.jpg”>|
+|<img src="/images/Vol-16-issue-1/seletar/noel-coward-at-yacht-club.jpg">|
 
 |Noël Coward (back row, fifth from the right) at the RAF Seletar Yacht Club with RAF personnel in 1935. *RAFSA Collection, courtesy of National Archives of Singapore*.|
 
