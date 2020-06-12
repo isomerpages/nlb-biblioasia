@@ -103,8 +103,8 @@ Feng died leaving behind two wives who, between them, bore six children. Feng’
 <img src="/images/Vol-16-issue-1/History/letters.png">
 
 (Left) Letter dated 5 March 1945 from Louis Mountbatten to Feng – with the accompanying envelope – regarding their impending trip to China. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
-(Right) A letter dated 9 June (likely 1944) from Wei Lihuang, Commander of the Chinese Expeditionary 
-Force. He expressed concern about Major-General Feng Yee’s injuries sustained during the Bombay docks 
+
+(Right) A letter dated 9 June (likely 1944) from Wei Lihuang, Commander of the Chinese Expeditionary Force. He expressed concern about Major-General Feng Yee’s injuries sustained during the Bombay docks 
 explosion on 14 April 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
 </div>
