@@ -66,7 +66,6 @@ Certificate of Major-General Feng Yee’s appointment in February 1943 as the De
 
 </div>
 
-
 #### **Appointment to the South East Asia Command**
 
 In August 1943, the British and Americans formed the SEAC with Louis Mountbatten as Supreme Allied Commander. His job was to oversee the operations of Allied forces in Southeast Asia against the Japanese in Burma, Malaya, Sumatra, Ceylon, Siam and French Indochina.[^15] To cultivate good relations, Mountbatten personally paid a visit to Generalissimo Chiang Kai-shek, Supreme Commander of Allied forces in the China war zone in Chungking (Chongqing) in October 1943, after the latter had assumed office.[^16]
@@ -87,8 +86,7 @@ While Feng was not in a frontline posting, he was almost killed because of his j
 <br/>
 <img src="/images/Vol-16-issue-1/History/letters.png">
 
-(Left) Letter from General Zhang Zhizhong, Commander-in-Chief during the Battle of Shanghai in 1937, to Major-General Feng Yee, dated 13 July (likely 1944). General Zhang asked after Feng’s well-being 
-as the latter had suffered minor injuries in the Bombay docks explosion on 14 April 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
+(Left) Letter from General Zhang Zhizhong, Commander-in-Chief during the Battle of Shanghai in 1937, to Major-General Feng Yee, dated 13 July (likely 1944). General Zhang asked after Feng’s well-being as the latter had suffered minor injuries in the Bombay docks explosion on 14 April 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
 (Right) A letter dated 9 June (likely 1944) from Wei Lihuang, Commander of the Chinese Expeditionary Force. He expressed concern about Major-General Feng Yee’s injuries sustained during the Bombay docks explosion on 14 April 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
