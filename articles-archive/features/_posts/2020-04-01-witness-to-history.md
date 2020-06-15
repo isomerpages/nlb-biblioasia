@@ -86,7 +86,7 @@ While Feng was not in a frontline posting, he was almost killed because of his j
 <br/>
 <img src="/images/Vol-16-issue-1/History/letters.png">
 
-(Left) Letter from General Zhang Zhizhong, Commander-in-Chief during the Battle of Shanghai in 1937, to Major-General Feng Yee, dated 13 July (likely 1944). General Zhang asked after Feng’s well-being as the latter had suffered minor injuries in the Bombay docks explosion on 14 April 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
+(Left) Letter from General Zhang Zhizhong, Commander-in-Chief during the Battle of Shanghai in 1937, to Major-General Feng Yee, dated 13 July (likely 1944). General Zhang asked after Feng’s well-being as the latter had suffered minor injuries in the Bombay docks explosion on 14 April 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
 (Right) A letter dated 9 June (likely 1944) from Wei Lihuang, Commander of the Chinese Expeditionary Force. He expressed concern about Major-General Feng Yee’s injuries sustained during the Bombay docks explosion on 14 April 1944. Documents of Major-General Feng Yee (冯衍将军珍藏资料). <i>Collection of the National Library, Singapore (Accession no.: B34450839C)</i>.
 
