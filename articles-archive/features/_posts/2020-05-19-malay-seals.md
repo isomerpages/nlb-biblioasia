@@ -69,14 +69,14 @@ Sultan Husain’s seal, on the other hand, opens with the most common expression
 
 #### **Seals of Malay Nobles**
 
-In many parts of the Islamic world, from Istanbul to Cairo, seals were used at all levels of society, from sultans to slaves. In the Malay world however, seals were a royal prerogative and the use of seals was restricted to court circles. The clearest proof of this accepted convention was that even the famous writer Munsyi Abdullah (born Abdullah bin Abdul Kadir), who was renowned as a seal designer, did not have his own seal. His last will and testament, drawn up before he embarked on his Haj pilgrimage in 1856 – and recently exhibited in the National Library of Singapore’s exhibition “On Paper: Singapore Before 1867” – is not sealed. Thus, the story of Malay seals from Singapore is essentially a study of the seals of Sultan Husain Syah and his short-lived line, until superseded in the second half of the 19th century by the seals 
+In many parts of the Islamic world, from Istanbul to Cairo, seals were used at all levels of society, from sultans to slaves. In the Malay world however, seals were a royal prerogative and the use of seals was restricted to court circles. The clearest proof of this accepted convention was that even the famous writer Munsyi Abdullah (born Abdullah bin Abdul Kadir), who was renowned as a seal designer, did not have his own seal. His last will and testament, drawn up before he embarked on his Haj pilgrimage in 1856 – and recently exhibited in the National Library of Singapore’s exhibition “[On Paper: Singapore Before 1867](https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/onpaper/)” – is not sealed. Thus, the story of Malay seals from Singapore is essentially a study of the seals of Sultan Husain Syah and his short-lived line, until superseded in the second half of the 19th century by the seals 
 of the British colonial government.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-1/malay-seals/sultan-hussain.png">
 
-Seal of Sultan Husain Syah from a letter to William Farquhar in Singapore, undated. Library of Congress, MS Jawi 12, no. 41 (cat. 983 in Gallop 2019).
+Seal of Sultan Husain Syah in a letter to William Farquhar in Singapore, undated. Library of Congress, MS Jawi 12, no. 41 (cat. 983 in Gallop 2019).
 
 </div>
 
@@ -213,7 +213,7 @@ Traditional Malay seals were generally personal official seals. Behind the offic
 <div class="infobox">
 <img src="/images/Vol-16-issue-1/malay-seals/Malay-Seals-mockup.png" style="width: 300px; height: 250px;" />
 
-Annabel Teh Gallop’s <i>Malay Seals from the Islamic World of Southeast Asia</i> (2019) is published in Singapore by NUS Press in association with The British Library. The catalogue is available for reference at the Lee Kong Chian Reference Library (<a href=””Call no.: RSING 737.60959 GAL</a>). It also retails at major bookshops in Singapore and overseas. 
+Annabel Teh Gallop’s <i>Malay Seals from the Islamic World of Southeast Asia</i> (2019) is published in Singapore by NUS Press in association with The British Library. The catalogue is available for reference at the Lee Kong Chian Reference Library (<a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=%20203922496”Call no.: RSING 737.60959 GAL</a>). It also retails at major bookshops in Singapore and overseas. 
 
 </div>
 
@@ -239,9 +239,9 @@ Winstedt, R.O., Khoo, K.K., & Ismail Hussein. (1992). *[A history of Johore](htt
 ##### NOTES
 [^1]: Gallop, A.T. (2019). [*Malay seals from the Islamic world of Southeast Asia: Content, form, context, catalogue*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203922496). Singapore: NUS Press in association with The British Library. (Call no.: RSING 737.60959 GAL)
 [^2]: Jawi is the modified Arabic script used to write the Malay language before it became displaced in popular use by a romanised script known as Rumi.
-[^3]: Buckley, C.B. (1902). *An anecdotal history of old times in Singapore (Vol. I, Frontispiece)*. Singapore: Fraser & Neave, Limited. (Accession no.: B02966444B). Retrieved from BookSG. 
+[^3]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore (Vol. I, Frontispiece)](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*. Singapore: Fraser & Neave, Limited. (Accession no.: B02966444B). Retrieved from BookSG. 
 [^4]: [How Singapore was founded: Signing of the treaty on February 6, 1819](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371025-1.2.46). (1937, October 25). *The Straits Times*, p. 10. Retrieved from NewspaperSG. 
-[^5]: Buckley, 1902, p. 132.
+[^5]: [Buckley](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx), 1902, p. 132.
 [^6]: [The Johore claimant](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18970928-1.2.23). (1897, September 28). *The Singapore Free Press and Mercantile Advertiser (Weekly)*, p. 4. Retrieved from NewspaperSG. 
 [^7]: The Hadhramis inhabit the Hadhramaut region in Yemen. Hadhrami Arabs began migrating to Southeast Asia in great numbers from the mid-18th century onwards. The majority of Arabs in Singapore are descended from the Hadhramis. 
 [^8]: National Archives of Indonesia, Riouw 119. Letter in Malay from al-Sayyid al-Safi bin 'Ali al-Habshi to Yang Dipertuan Muda Raja Muhammad Yusuf ibn al-marhum Raja Ali in Riau, 14 Rejab 1282 (3 December 1865).
