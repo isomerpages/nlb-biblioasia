@@ -210,12 +210,10 @@ Malay seal of the British Governor of the Straits Settlements, on a letter from 
 Traditional Malay seals were generally personal official seals. Behind the office of state named on each seal was an individual, whose predilections might be glimpsed in the form of name, family pedigree, date of accession to office and religious sentiment that they chose to have inscribed, as well as in the aesthetic choices affecting shape and decoration. However, with the introduction around the beginning of the 20th century of European-style seals of office – designed to be used by successive incumbents of a post – personal preferences began receding from view and we are merely left with the anonymising cloak of administrative authority.
 
 
-<div class="infobox">
-<img src="/images/Vol-16-issue-1/malay-seals/Malay-Seals-mockup.png" style="width: 300px; height: 250px;" />
+|<img src="/images/Vol-16-issue-1/malay-seals/Malay-Seals-mockup.png" style="width: 300px; height: 250px;" />|
 
-Annabel Teh Gallop’s <i>Malay Seals from the Islamic World of Southeast Asia</i> (2019) is published in Singapore by NUS Press in association with The British Library. The catalogue is available for reference at the Lee Kong Chian Reference Library (<a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=%20203922496”Call no.: RSING 737.60959 GAL</a>). It also retails at major bookshops in Singapore and overseas. 
+|Annabel Teh Gallop’s *Malay Seals from the Islamic World of Southeast Asia* (2019) is published in Singapore by NUS Press in association with The British Library. The catalogue is available for reference at the Lee Kong Chian Reference Library ([Call no.: RSING 737.60959 GAL](https://eservice.nlb.gov.sg/item_holding.aspx?bid=%20203922496)). It also retails at major bookshops in Singapore and overseas. |
 
-</div>
 
 <div style="background-color: white;">
 <br/>
