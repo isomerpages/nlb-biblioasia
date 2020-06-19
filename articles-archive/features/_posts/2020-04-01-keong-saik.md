@@ -47,6 +47,7 @@ Many of these hardworking and independent *majie* took vows of celibacy, pledgin
 
 (Left) A <i>majie</i>. and her adopted daughter. <i>Majie</i> were Cantonese women from the Pearl River Delta region in China's Guangdong province, who journeyed to Southeast Asia in the 1930s to work mainly as domestic servants for wealthy families. <i>Courtesy of Charmaine Leung</i>.
 <br>
+
 {Right) <i>Majie</i> took vows of celibacy. Image shows a ritual called <i>sor hei</i> (梳起; literally “comb up”) in which the women styled their hair into a neat bun at the back of their head. Photo by Yip Cheong Fun. <i>Courtesy of Andrew Yip</i>.
 
 </div>
