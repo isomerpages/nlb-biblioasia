@@ -110,7 +110,7 @@ After three years in Singapore, the Gosses left on 19 April 1963 when Ken was po
 <br/>
 <img src="/images/Vol-16-issue-1/Seletar/Pantomine.jpg">
 
-RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i>.
+RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i>
 
 </div>
 <div style="background-color: white;">
