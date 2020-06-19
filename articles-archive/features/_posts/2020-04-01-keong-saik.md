@@ -151,7 +151,7 @@ Although newness brings excitement, if we are not deliberate in preserving the s
 
 |The unspoken family shame that shrouded much of her young life – and the changes she witnessed upon her return – prompted her to pen a memoir of her childhood years.|
 
-|Leung’s book, <i>17A Keong Saik Road</i> (2017) is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57004951 LEU and SING 959.57004951 LEU]()) as well as for digital loan on nlb.overdrive.com. The book also retails at major bookshops and ethosbooks.com.sg.|
+|Leung’s book, <i>17A Keong Saik Road</i> (2017) is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57004951 LEU and SING 959.57004951 LEU](https://www.nlb.gov.sg/biblio/202826932)) as well as for digital loan on nlb.overdrive.com. The book also retails at major bookshops and ethosbooks.com.sg.|
 
 <div style="background-color: white;">
 <br/>
