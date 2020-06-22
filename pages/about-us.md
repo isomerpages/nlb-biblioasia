@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: about us
 permalink: /pages/about-us/
 ---
 
