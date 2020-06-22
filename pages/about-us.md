@@ -1,5 +1,5 @@
 ---
-title: About BiblioAsia
+title: About Us
 permalink: /pages/about-us/
 ---
 
