@@ -1,6 +1,6 @@
 ---
 title: About BiblioAsia
-permalink: /about-us/
+permalink: /pages/about-us/
 ---
 
 ### **About BiblioAsia**
