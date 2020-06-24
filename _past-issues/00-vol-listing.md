@@ -55,7 +55,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 #### Volume 6
 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BA cover 6-1](/images/covers/ba cover 6-1-v2.JPG)[Apr 2010](/past-issues/pdf/Biblioasia Apr 2010.pdf) | ![BA cover 6-2](/images/covers/ba cover 6-2-v2.JPG)[Jul 2010](/past-issues/pdf/BiblioAsia Jul 2010.pdf) | ![BA cover 6-3](/images/covers/ba cover 6-3-v2.JPG)[Oct 2010](/past-issues/pdf/BiblioAsia Oct 2010.pdf) | ![BA cover 6-4](/images/covers/ba cover 6-4-v2.JPG)[Jan 2011](/past-issues/pdf/BiblioAsia Jan 2011.pdf) |
+| ![BA cover 6-1](/images/covers/ba cover 6-1-v2.JPG)[Apr 2010](/past-issues/pdf/Biblioasia Apr 2010.pdf) | ![BA cover 6-2](/images/covers/ba cover 6-2-v2.JPG)[Jul 2010](/past-issues/pdf/BiblioAsia Jul 2010.pdf) | ![BA cover 6-3](/images/covers/ba cover 6-3-v3.JPG)[Oct 2010](/past-issues/pdf/BiblioAsia Oct 2010.pdf) | ![BA cover 6-4](/images/covers/ba cover 6-4-v2.JPG)[Jan 2011](/past-issues/pdf/BiblioAsia Jan 2011.pdf) |
 
 #### Volume 5
 
