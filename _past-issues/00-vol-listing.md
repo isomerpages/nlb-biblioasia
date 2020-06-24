@@ -29,7 +29,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 
 #### Volume 11
 
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
 | ![BA cover 11-1](/images/covers/ba cover 11-1-v2.JPG)[Apr–Jun 2015](/past-issues/pdf/BiblioAsia Apr-Jun 2015.pdf) | ![BA cover 11-2](/images/covers/ba cover 11-2-v2.JPG)[Jul–Sep 2015](/past-issues/pdf/BiblioAsia Jul-Sep 2015.pdf) | ![BA cover 11-3](/images/covers/ba cover 11-3-v2.JPG)[Oct–Dec 2015](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx) | ![BA cover 11-4](/images/covers/ba cover 11-4-v2.JPG)[Jan–Mar 2016](http://www.nlb.gov.sg/biblioasia/vol-11-issue-4-jan-mar-2016/) |
 
 #### Volume 10
@@ -59,7 +59,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 
 #### Volume 5
 
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
 | ![BA cover 5-1](/images/covers/ba cover 5-1-v2.JPG)[Apr 2009](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx) | ![BA cover 5-2](/images/covers/ba cover 5-2-v2.JPG)[Jul 2009](/past-issues/pdf/BiblioAsia Jul 2009.pdf) | ![BA cover 5-3](/images/covers/ba cover 5-3-v2.JPG)[Oct 2009](/past-issues/pdf/BiblioAsia Oct 2009.pdf) | ![BA cover 5-4](/images/covers/ba cover 5-4-v2.JPG)[Jan 2010](/past-issues/pdf/BiblioAsia Jan 2010.pdf) |
 
 #### Volume 4
