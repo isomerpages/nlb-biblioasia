@@ -66,13 +66,6 @@ Maps and shipping routes were frequently featured on postcards issued by Japanes
 
 These postcards also conveyed information to potential customers about a company’s major shipping routes and schedules, and enabled families of travellers to track their loved ones’ journeys. The postcards generally point to Singapore as an important port along major international shipping routes.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/Postcards/Nihonbashi.png">
-
-Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. <i>Dated April 1923. Accession no.: B32413805D_0100.</i>
-</div>
-
 Japanese economic migrants were another group of travellers who made use of postcards to communicate with families back home. In the 19th century, the Japanese government encouraged migration as a means of managing its growing population and alleviating the pressures faced by its domestic economy. These people made their way to destinations such as the United States, Canada, Europe and even Brazil. Migrants headed for these countries often stopped over in Singapore and took the opportunity to send a postcard home.
 
 Included in the book are postcards issued by the Imperial Japanese Navy. Singapore was an important port-of-call for training voyages, which honed the technical skills of rookie cadets by exposing them to conditions in the Pacific Ocean as well as to raise public awareness of the Nanyō (South Seas, or Nanyang).[^3] These training voyages also signalled Japan’s increasing knowledge of current political developments unfolding beyond its shores.
@@ -83,7 +76,7 @@ In addition, the book features commemorative postcards marking the fall of Singa
 <br/>
 <img src="/images/Vol-16-issue-1/Postcards/Fall_of_Singapore.png">
 
-Produced to mark the fall of Singapore in February 1942, this postcard features three different commemorative postmarks and postage stamps. A Japanese stamp collector had intentionally visited the post office on three separate occasions to collect these postmarks. From the left: the first anniversary of the Pacific War (dated 8 December 1942); the fall of Singapore (dated 20 February 1942 at Nagoya); and the second anniversary of the Pacific War (dated 8 December 1943). Dated 1942 and 1943. <i>Accession no.: B32413808G_0030.</i>
+Produced to mark the fall of Singapore in February 1942, this postcard features three different commemorative postmarks and postage stamps. A Japanese stamp collector had intentionally visited the post office on three separate occasions to collect these postmarks. From the left: the first anniversary of the Pacific War (dated 8 December 1942); the fall of Singapore (dated 20 February 1942 at Nagoya); and the second anniversary of the Pacific War (dated 8 December 1943). <i>Dated 1942 and 1943</i>. <i>Accession no.: B32413808G_0030.</i>
 
 </div>
 
@@ -99,11 +92,19 @@ Alkaff Gardens was built in 1930 in the style of a Japanese park, and was a popu
 
 </div>
 
-These postcards provided the recipients with an inkling of life in Singapore as well as ideas of places to visit, sights to see and foods to savour. These scenes fostered perceptions of Singapore as a romantic, tropical destination worthy of a visit, which in turn fuelled the sale of such memorabilia.
+These postcards provided their recipients with an inkling of life in Singapore as well as ideas of places to visit, sights to see and foods to savour. These scenes fostered perceptions of Singapore as a romantic, tropical destination worthy of a visit, which in turn fuelled the sale of such memorabilia.
 
 Recurring images featured on postcards include fishing villages on Pulau Brani, tree-lined beaches, street views and buildings such as St Andrew’s Cathedral. 
 
 Idyllic fishing villages were very likely the first scenes that greeted travellers when they set foot on Singapore.[^4] The sight was a great source of fascination to Japanese travellers, and was frequently mentioned in their written and illustrated accounts of the island.[^5]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-1/Postcards/Pulau_Brani.png">
+
+<i>Sampans</i> and serene fishing villages off Pulau Brani were sights early visitors to Singapore might have seen as they arrived on the island. This postcard was addressed to someone in Russia but appears not to have been sent. <i>Publisher: Wilson & Co. for Hotel de l’Europe & Orchard Road, Singapore. Accession no.: B32413807F_0004.</i>
+
+</div>
 
 <div style="background-color: white;">
 <br/>
@@ -117,14 +118,6 @@ A small herd of cattle in a river, possibly the Rochor River, that once flowed i
 <img src="/images/Vol-16-issue-1/Postcards/Snake.png">
 
 The photo featured on this undated postcard is part of a series of four photographs titled “A Big Snake Swallowing a Deer”. The photos depict the snake with its distended belly, its capture and the subsequent release of the deer from its stomach. Postcards like this suggest that there was a market for such exotica in Singapore. <i>Accession no.: B32413807F_0146.</i>
-</div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/Postcards/Pulau_Brani.png">
-
-<i>Sampans</i> and serene fishing villages off Pulau Brani were sights early visitors to Singapore might have seen as they arrived on the island. This postcard was addressed to someone in Russia but appears not to have been sent. <i>Publisher: Wilson & Co. for Hotel de l’Europe & Orchard Road, Singapore. Accession no.: B32413807F_0004.</i>
-
 </div>
 
 <div style="background-color: white;">
@@ -151,6 +144,8 @@ The early Japanese community in Singapore comprised traders, businessmen, profes
 
 Part of the Lim Shao Bin Collection includes a set of postcards documenting the correspondence between businessman Ejiri Koichirō and his friend Tajika Shōjiro, spanning a decade across various countries. These postcards give us an idea of how early migrants adapted to life in Singapore. Some of the postcards exchanged between the two men are featured in the book.
 
+One group of Japanese migrants who received particular attention in postcards are the <i>karayuki-san</i>. Many of these women were from the poor, rural regions of Kyushu island and had been sold or kidnapped, and subsequently forced into the sex trade overseas. While often ostracised or looked down upon, they played an important role in Japan’s economic and social fabric as their presence supported fledgling local Japanese businesses (and in turn the wider Japanese economy). The women even responded to disaster relief efforts in Japan by sending home much-needed funds and supplies.
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-1/Postcards/Karayuki.png">
@@ -159,21 +154,25 @@ This undated postcard features a Japanese woman, likely a <i>karayuki-san</i>, i
 
 </div>
 
-One group of Japanese migrants who received particular attention in postcards are the <i>karayuki-san</i>. Many of these women were from the poor, rural regions of Kyushu island and had been sold or kidnapped, and subsequently forced into the sex trade overseas. While often ostracised or looked down upon, they played an important role in Japan’s economic and social fabric as their presence supported fledgling local Japanese businesses (and in turn the wider Japanese economy). The women even responded to disaster relief efforts in Japan by sending home much-needed funds and supplies.
-
 Some postcards featured the <i>karayuki-san</i> posing provocatively in their kimonos, which reinforced the image of Singapore “as a centre of romanticism, exoticism, and easy sex”.[^8] Regardless whether the women were indeed *karayuki-san* or whether they were even living in Singapore, the fact that these postcards were bought and used suggests that the women formed part of the impressions that early travellers held of Singapore. 
 
 As not much has been written about the pre-war Japanese community in Singapore, these postcards provide insights into the lives of these migrants and their social networks, and also offer new perspectives of Singapore society in the early 20th century.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-1/Postcards/Nihonbashi.png">
+
+Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. <i>Dated April 1923. Accession no.: B32413805D_0100.</i>
+</div>
+
 |<img src="/images/Vol-16-issue-1/Postcards/Lim_Shao_Bin_mockup.png" style="width: 200px; height: 200px;" />|
 
-|<b>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382)). It also retails at major bookshops in Singapore.|
+|<b><i>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</i></b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382)). It also retails at major bookshops in Singapore.|
 
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-1/authors/Stephanie_Pee.png" style="width: 100px; height: 100px;" />
-
 
 <b>Stephanie Pee</b> is an Assistant Manager with the Publishing department at the National Library, Singapore. She edits publications produced by the National Library and manages book projects.
 </div>
@@ -183,10 +182,10 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 #### **NOTES**
 [^1]: Cheah, J. S. (2006). *[Singapore: 500 early postcards](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716049)* (p. 8). Singapore: Editions Didier Millet. (Call no.: RSING 769.566095957 CHE)
 [^2]: National Archives. (1986). *[Singapore historical postcards from the National Archives Collection](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182977)* (p. 8). Singapore: Marshall Cavendish Editions. (Call no.: RSING 769.95957 SIN)
-[^3]: Schencking, J.C. (1999, October). The Imperial Japanese Navy and the constructed consciousness of a South Seas destiny, 1872–1921., *Modern Asian Studies, 33* (4), 769–796, pp. 772–73. Retrieved from JSTOR via NLB’s eResources website. 
+[^3]: Schencking, J.C. (1999, October). The Imperial Japanese Navy and the constructed consciousness of a South Seas destiny, 1872–1921. *Modern Asian Studies, 33* (4), 769–796, pp. 772–73. Retrieved from JSTOR via [NLB’s eResources website](https://eresources.nlb.gov.sg/). 
 [^4]: Nishihara suggests that Pulau Brani was likely the model for the water villages depicted in the works of Shikō Imamura’s (今村紫紅) *Scrolls of Tropical Countries (Morning Scroll)* [熱国之巻（朝之巻)] [Nekkoku no Maki (Asa no Maki)], which was designated as an important cultural property in Japan, indicating that the sight of Pulau Brani likely constituted one of the key Japanese perspectives of Singapore. 西原大輔 [Daisuke Nishihara]. (2017). 日本人のシンガポール体験：幕末明治から日本占領下・戦後まで [Nihonjin no Shingapōru Taiken: Bakumatsumeiji kara nihonsenryōka.sengo made] (p. 88). Kyoto, Japan: Jinbun Shoin. (Not available in NLB holdings) 
 [^5]: Nishihara, 2017, p. 88.
-[^6]: For more information on the collection, see Lee, G. (2018, Jul–Sep). Japan in Southeast Asia: The Lim Shao Bin Collection. *BiblioAsia, 14 (2).* Retrieved  from BiblioAsia website.
+[^6]: For more information on the collection, see Lee, G. (2018, Jul–Sep). [Japan in Southeast Asia: The Lim Shao Bin Collection](http://www.nlb.gov.sg/biblioasia/2018/07/11/japan-in-southeast-asia-the-lim-shao-bin-collection/). *BiblioAsia, 14 (2).* Retrieved  from BiblioAsia website.
 [^7]: Lim Shao Bin is the editor of *Images of Singapore from the Japanese Perspective (1868–1941)*, which contains over 1,000 images from postcards, maps and photo albums that trace shifting Japanese perspectives of Singapore. See Lim, T.W. & Lim, S.B. (2004). *[Images of Singapore from the Japanese perspective (1868–1941)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12410034)*. Singapore: The Japanese Cultural Society. (Call no.: RSING 959.57 IMA-[HIS])
 [^8]: Warren, J. (1993). *[Ah ku and karayuki-san: Prostitution in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 252). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
 
