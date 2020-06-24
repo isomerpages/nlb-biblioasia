@@ -110,7 +110,7 @@ Although Sultan Ali Iskandar’s seal inscription grandiloquently describes him 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/malay-seals/silver-seal.png">
+<img src="/images/Vol-16-issue-1/malay-seals/silver-seal.jpg">
 
 The silver seal matrix of Encik Bujal, official of Sultan Ali, exhibited
 in the Malay Heritage Centre in 2012 (cat. 991 in Gallop 2019).
