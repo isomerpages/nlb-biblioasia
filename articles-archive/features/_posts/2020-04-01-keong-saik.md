@@ -94,7 +94,7 @@ The shophouse where the Indian coolies lived was close to the Sri Layan Sithi Vi
 
 |An interesting practice that was popular among the Chinese community of Keong Saik Road and Chinatown was to go to a wall near the Sri Layan Sithi Vinayagar Temple to “beat the little people” (打小人; *da xiao ren* in Mandarin). The term “little people” in the Chinese language is synonymous with evil people and negativity.|
 
-|The ritual involved using either a clog or a shoe to repeatedly hit human-shaped paper figurines that symbolisedthe negativity in one’s life. An auspicious piece of red paper would be placed on top of the beaten figurines and the figurines pasted on the wall. Incense was then offered.|
+|The ritual involved using either a clog or a shoe to repeatedly hit human-shaped paper figurines that symbolised the negativity in one’s life. An auspicious piece of red paper would be placed on top of the beaten figurines and the figurines pasted on the wall. Incense was then offered.|
 
 |The Chinese believed that the ritual was effective in warding off evil and dispelling negativity in one’s life. It was commonly observed among the Cantonese communities of Hong Kong and Guangdong. It usually took place at road intersections, under bridges, and at the foot of a hill or mountain as these places were generally perceived to have bad *fengshui* and thus prone to the influence of evil spirits.|
 
