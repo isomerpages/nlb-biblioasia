@@ -61,7 +61,7 @@ Located on Keong Saik Road and Bukit Pasoh Road, the entertainment houses were p
 
 It was in the offices, clan associations and entertainment houses on Keong Saik Road that many *majie* found work as domestic helpers and cleaners. These early Chinese migrants brought with them many cultural and religious practices that are still being observed today such as “Beat the little people”.
 
-Nestled among the shophouses is Zhun Ti Gong (or Cundhi Gong) – a Chinese temple dedicated to Guanyin, the Goddess of Mercy – located at 13 Keong Saik Road. An ornate structure with a roof featuring decorative beams and adorned with intricate motifs of dragons, peacocks, phoenixes and flowers, the temple witnessed many *sor hei* ceremonies held by the *majie*.
+Nestled among the shophouses is Zhun Ti Gong (or Cundhi Gong) – a Chinese temple dedicated to Guanyin, the Goddess of Mercy – located at 13 Keong Saik Road. An ornate structure with a roof featuring decorative beams and adorned with intricate motifs of dragons, peacocks, phoenixes and flowers, the temple has witnessed many *sor hei* ceremonies held by the *majie*.
 
 Today, this temple is especially popular with former residents of Chinatown. While many of these elderly devotees have since moved to newer housing estates with their children, many still return with younger family members to offer their prayers on the first and 15th days of the lunar month.
 
@@ -94,7 +94,7 @@ The shophouse where the Indian coolies lived was close to the Sri Layan Sithi Vi
 
 |An interesting practice that was popular among the Chinese community of Keong Saik Road and Chinatown was to go to a wall near the Sri Layan Sithi Vinayagar Temple to “beat the little people” (打小人; *da xiao ren* in Mandarin). The term “little people” in the Chinese language is synonymous with evil people and negativity.|
 
-|The ritual involved using either a clog or a shoe to repeatedly hit human-shaped paper figurines that symbolise the negativity in one’s life. An auspicious piece of red paper would be placed on top of the beaten figurines and the figurines pasted on the wall. Incense was then offered.|
+|The ritual involved using either a clog or a shoe to repeatedly hit human-shaped paper figurines that symbolisedthe negativity in one’s life. An auspicious piece of red paper would be placed on top of the beaten figurines and the figurines pasted on the wall. Incense was then offered.|
 
 |The Chinese believed that the ritual was effective in warding off evil and dispelling negativity in one’s life. It was commonly observed among the Cantonese communities of Hong Kong and Guangdong. It usually took place at road intersections, under bridges, and at the foot of a hill or mountain as these places were generally perceived to have bad *fengshui* and thus prone to the influence of evil spirits.|
 
@@ -111,7 +111,7 @@ Sim San Loke Hup Athletic Association was at No. 65, very close to the Indian do
 
 Besides the “mama shop”, there were two other provision shops on Keong Saik Road. One was situated across the road from the Indian dormitory, and the other was at the other end of the street, closer to Neil Road. There were no lack of options for dry provisions at Keong Saik, and residents only went to the wet markets of Chinatown to buy fresh produce. 
 
-At least two businesses provided specialised services for those who wanted to stay connected with China: a Chinese calligraphy shop offered letter-writing services for the illiterate who wanted to write home, and a sundries shop imported goods directly from China for those who yearned for special items and produce that were only available from their hometown. 
+At least two businesses provided specialised services for those who wanted to stay connected with China: a Chinese calligraphy shop offered letter-writing services for the illiterate who wanted to write home, and a sundries shop imported goods directly from China for those who yearned for special items and produce that were only available from their hometowns 
 
 Located near Keong Saik Road was a factory called Yip Choy Sun (叶彩新), a family-run business that produced a variety of handmade paper boxes. It operated on the ground floor of 6 Jiak Chuan Road.[^6] The factory was busiest during the Mid-Autumn Festival when it produced
 thousands of boxes for Tai Chong Kok (大中国), a traditional bakery
@@ -139,11 +139,6 @@ As I stroll along the Keong Saik area today, what I encounter now is very differ
 
 Although newness brings excitement, if we are not deliberate in preserving the spirit of our heritage beyond its physical structures, we may one day lose the intangible beauty of our past and heritage completely. I am grateful for the privilege to have lived in an iconic part of Singapore’s past and to have experienced the old Keong Saik Road and its community. As one of Singapore’s daughters, I can only hope that I have done my part in helping to preserve a little of Singapore’s heritage in my sharing about a street that was once my home.
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol-16-issue-1/Postcards/space.png">
-
-</div>
 
 |<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-book.png" style="width: 350px; height: 250px;" />|
 

@@ -165,6 +165,8 @@ As not much has been written about the pre-war Japanese community in Singapore, 
 Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima Tōsaku to Ejiri Koichirō, the proprietor of the pharmacy, K. Ejiri & Co., in Singapore. Fukujima had visited Ejiri in Singapore. On the reverse of the postcard is a stock message to inform those who had hosted Fukujima during his travels that he had returned safely to Japan and to thank them for their kind hospitality. <i>Dated April 1923. Accession no.: B32413805D_0100.</i>
 </div>
 
+<br>
+
 |<img src="/images/Vol-16-issue-1/Postcards/Lim_Shao_Bin_mockup.png" style="width: 200px; height: 200px;" />|
 
 |<b><i>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</i></b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382)). It also retails at major bookshops in Singapore.|
