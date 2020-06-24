@@ -62,7 +62,7 @@ In July 1963, the club completed a major reconstruction of the theatre’s stage
 
 “By a completely undeserved piece of misfortune, the RAF Seletar Theatre Club has just lost its excellent bijou theatre at the RAF base in a disastrous fire which left almost nothing but the walls. Very little of the club’s properties and wardrobe was saved, and the hard-working amateurs now face the tremendous task of starting all over again the building up of a theatre which had taken them nearly a decade of hard work.”[^11]
 
-Despite the setback, the club did not give up. Members used a temporary stage at the Junior RAF School in Seletar airbase to present Tennessee Williams' *Orpheus Descending* at the 1963 Inter-Services Drama Festival. The club also performed *The Laboratory* and *The Dear Departed*  in February 1964 on that same stage to raise funds for a new theatre. This money – along with the insurance payout, donations from the Nuffield Foundation[^12] and funds from other service stations – was used to construct a new theatre which opened in June 1964.
+Despite the setback, the club did not give up. Members used a temporary stage at the Junior RAF School in Seletar airbase to present Tennessee Williams' *Orpheus Descending* at the 1963 Inter-Services Drama Festival. The club also performed *The Laboratory* and *The Dear Departed*   in February 1964 on that same stage to raise funds for a new theatre. This money – along with the insurance payout, donations from the Nuffield Foundation[^12] and funds from other service stations – was used to construct a new theatre which opened in June 1964.
 
 <div style="background-color: white;">
 <br/>
