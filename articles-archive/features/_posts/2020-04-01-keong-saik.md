@@ -146,7 +146,7 @@ Although newness brings excitement, if we are not deliberate in preserving the s
 
 |The unspoken family shame that shrouded much of her young life – and the changes she witnessed upon her return – prompted her to pen a memoir of her childhood years.|
 
-|Leung’s book, <i>17A Keong Saik Road</i> (2017) is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57004951 LEU and SING 959.57004951 LEU](https://www.nlb.gov.sg/biblio/202826932)) as well as for digital loan on nlb.overdrive.com. The book also retails at major bookshops and ethosbooks.com.sg.|
+|Leung’s book, *17A Keong Saik Road* (2017) is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57004951 LEU and SING 959.57004951 LEU](https://www.nlb.gov.sg/biblio/202826932)) as well as for digital loan on [nlb.overdrive.com](https://nlb.overdrive.com/). The book also retails at major bookshops and ethosbooks.com.sg.|
 
 <div style="background-color: white;">
 <br/>
@@ -159,10 +159,10 @@ Although newness brings excitement, if we are not deliberate in preserving the s
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]: See Loo, J. (2017, Oct–Dec). A lifetime of labour: Cantonese amahs in Singapore. *BiblioAsia, 13* (3): 2–9. Retrieved from BiblioAsia website.
+[^1]: See Loo, J. (2017, Oct–Dec). [A lifetime of labour: Cantonese amahs in Singapore](http://www.nlb.gov.sg/biblioasia/2017/10/02/a-lifetime-of-labour-cantonese-amahs-in-singapore/). *BiblioAsia, 13* (3): 2–9. Retrieved from BiblioAsia website.
 [^2]: Nanyang, which means “South Seas” in Mandarin, refers to Southeast Asia. 
 [^3]: The *pipa*, or Chinese lute, is a pear-shaped four-stringed musical instrument made of wood. *Pipa tsai* were girls trained to play various musical instruments and sing to entertain men in clubs and brothels in Singapore. In some instances, the girls were forced into prostitution.
 [^4]: A “mama shop” or “mamak shop” (from Tamil word *mama* meaning “uncle” or “elder”) is a convenience store or sundry shop selling a wide variety of goods and provisions.
-[^5]: The Punar Pusam procession takes place the day before Thaipusam, which is an annual festival dedicated to Lord Subramaniam, also known as Lord Murugan, the Hindu god of war. During Thaipusam in Singapore, devotees will carry a *kavadi* (which means “burden” or “load”) from the Sri Srinivasan Perumal Temple on Serangoon Road to the Sri Thendayuthapani Temple on Tank Road. For more information about Thaipusam, see National Library Board. (2016). *Thaipusam* written by Bonny Tan. Retrieved from Singapore Infopedia website. For more information on Punar Pusam, see Ng, M. (2017, Oct–Dec). Micro India: The Chettiars of Market Street. *BiblioAsia*, 13 (3): 10–17. Retrieved from BiblioAsia website. 
+[^5]: The Punar Pusam procession takes place the day before Thaipusam, which is an annual festival dedicated to Lord Subramaniam, also known as Lord Murugan, the Hindu god of war. During Thaipusam in Singapore, devotees will carry a *kavadi* (which means “burden” or “load”) from the Sri Srinivasan Perumal Temple on Serangoon Road to the Sri Thendayuthapani Temple on Tank Road. For more information about Thaipusam, see National Library Board. (2016). *[Thaipusam](https://eresources.nlb.gov.sg/infopedia/articles/SIP_760_2004-12-27.html)* written by Bonny Tan. Retrieved from Singapore Infopedia website. For more information on Punar Pusam, see Ng, M. (2017, Oct–Dec). [Micro India: The Chettiars of Market Street](http://www.nlb.gov.sg/biblioasia/2017/10/03/micro-india-the-chettiars-of-market-street/). *BiblioAsia*, 13 (3): 10–17. Retrieved from BiblioAsia website. 
 [^6]: Jiak Chuan Road – named after Tan Jiak Chuan, grandson of the philanthropist Tan Kim Seng – links Keong Saik Road to Teck Lim Road. It is home to several budget hotels and eateries today. The road was formerly part of the Keong Saik Road red-light district. 
 [^7]: *Kaya* is a type of jam made from coconut, eggs and sugar, and is typically spread on toast. It is popular in Singapore, Malaysia and Indonesia.
