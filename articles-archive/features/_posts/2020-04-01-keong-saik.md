@@ -111,7 +111,7 @@ Sim San Loke Hup Athletic Association was at No. 65, very close to the Indian do
 
 Besides the “mama shop”, there were two other provision shops on Keong Saik Road. One was situated across the road from the Indian dormitory, and the other was at the other end of the street, closer to Neil Road. There were no lack of options for dry provisions at Keong Saik, and residents only went to the wet markets of Chinatown to buy fresh produce. 
 
-At least two businesses provided specialised services for those who wanted to stay connected with China: a Chinese calligraphy shop offered letter-writing services for the illiterate who wanted to write home, and a sundries shop imported goods directly from China for those who yearned for special items and produce that were only available from their hometowns 
+At least two businesses provided specialised services for those who wanted to stay connected with China: a Chinese calligraphy shop offered letter-writing services for the illiterate who wanted to write home, and a sundries shop imported goods directly from China for those who yearned for special items and produce that were only available from their hometowns. 
 
 Located near Keong Saik Road was a factory called Yip Choy Sun (叶彩新), a family-run business that produced a variety of handmade paper boxes. It operated on the ground floor of 6 Jiak Chuan Road.[^6] The factory was busiest during the Mid-Autumn Festival when it produced
 thousands of boxes for Tai Chong Kok (大中国), a traditional bakery
