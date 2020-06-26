@@ -7,7 +7,7 @@ collection_name: past-issues
 ### Check out our previous issues!
 Note: You may be redirected to an archived site or the PDF version when accessing past issues. 
 
-#### Volume 15
+#### Volume 15.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
