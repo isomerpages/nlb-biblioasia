@@ -96,7 +96,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 3-1 cover](/images/covers/ba3-1.jpg)[Apr 2007](/past-issues/pdf/BiblioAsia Apr 2007.pdf) | ![BiblioAsia 3-2 cover](/images/covers/ba3-2.jpg)[Jul 2007](/past-issues/pdf/BiblioAsia Jul 2007.pdf) |
-| ![BiblioAsia 3-3 cover](/images/covers/ba3-3.jpg)[Oct 2007](/past-issues/pdf/BiblioAsia Oct 2007.pdf) | ![BiblioAsia 3-4 cover](/images/covers/ba3-4.jpg)[Jan 2008](/past-issues/pdf/BiblioAsia Jan 2008.pdf) |
+| ![BiblioAsia 3-3 cover](/images/covers/ba3-3-v2.jpg)[Oct 2007](/past-issues/pdf/BiblioAsia Oct 2007.pdf) | ![BiblioAsia 3-4 cover](/images/covers/ba3-4.jpg)[Jan 2008](/past-issues/pdf/BiblioAsia Jan 2008.pdf) |
 
 ####  Volume 2
 
