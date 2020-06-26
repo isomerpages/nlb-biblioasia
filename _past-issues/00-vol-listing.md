@@ -18,7 +18,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 14-1 cover](/images/covers/ba14-1.jpg) [Apr–Jun 2018](http://www.nlb.gov.sg/biblioasia/vol-14-issue-1-apr-jun-2018/){:target="_blank"} | ![BiblioAsia 14-2 cover](/images/covers/ba15-2.jpg) [Jul–Sep 2018](http://www.nlb.gov.sg/biblioasia/past-issues/vol-14-issue-2-jul-sep-2018/){:target="_blank"} |
+| ![BiblioAsia 14-1 cover](/images/covers/ba14-1.jpg) [Apr–Jun 2018](http://www.nlb.gov.sg/biblioasia/vol-14-issue-1-apr-jun-2018/){:target="_blank"} | ![BiblioAsia 14-2 cover](/images/covers/ba14-2.jpg) [Jul–Sep 2018](http://www.nlb.gov.sg/biblioasia/past-issues/vol-14-issue-2-jul-sep-2018/){:target="_blank"} |
 | ![BiblioAsia 14-3 cover](/images/covers/ba14-3.jpg) [Oct–Dec 2018](http://www.nlb.gov.sg/biblioasia/vol-14-issue-3/){:target="_blank"} | ![BiblioAsia 14-4 cover](/images/covers/ba14-4.jpg) [Jan–Mar 2019](http://www.nlb.gov.sg/biblioasia/vol-14-issue-4/){:target="_blank"} |
 
 ####  Volume 13
