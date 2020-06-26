@@ -192,7 +192,7 @@ The second edition of the Festival of Drama was organised by the University of S
 [^8]: Seletar Theatre Club, 2020; [Stage door](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19550917-1.2.143). (1955, September 17). *Singapore Standard*, p. 10. Retrieved from NewspaperSG.
 [^9]: Seletar Theatre Club, 2020.
 [^10]: Seletar Theatre Club, 2020; [Taylor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11783315), 2002, p. 167; The theatre. (1963, July 7). *The Straits Times*, p. 9; [The theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630707-1.2.31.1.3). (1963, August 11). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
-[^11]: The theatre. (1963, August 11). *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630811-1.2.26.1.4)*, p. 9.
+[^11]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630811-1.2.26.1.4)*, 11 Aug 1963, p. 9. 
 [^12]: Based in London, the Nuffield Foundation is a charitable trust established in 1943 to improve social well-being.
 [^13]: Cowley, D. (1979, October 27). [Meet England’s queen of comic verse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791027-1.2.150.30). *The Straits Times*, p. 12. Retrieved from NewspaperSG; Ayres, P. (1998). *With these hands: A collection of work* (p. 5). Orion Publishing Co. (Not available in NLB holdings)
 [^14]: Ayres, 1998, p. 6.
