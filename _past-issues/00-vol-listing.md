@@ -7,12 +7,12 @@ collection_name: past-issues
 ### Check out our previous issues!
 Note: You may be redirected to an archived site or the PDF version when accessing past issues. 
 
-#### Volume 15.
+#### Volume 15..
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 15-1 cover](/images/covers/ba15-1.jpg)[Apr–Jun 2019](http://www.nlb.gov.sg/biblioasia/vol-15-issue-1/) | ![BiblioAsia 15-2 cover](/images/covers/ba15-2.jpg)[Jul–Sep 2019](http://www.nlb.gov.sg/biblioasia/home-page/) |
-| ![BiblioAsia 15-3 cover](/images/covers/ba15-3.jpg)[Oct–Dec 2019](http://www.nlb.gov.sg/biblioasia/vol-15-issue-3/) | ![BiblioAsia 15-4 cover](/images/covers/ba15-4.jpg)[Jan–Mar 2020](http://www.nlb.gov.sg/biblioasia/vol-15-issue-4/) |
+| ![BiblioAsia 15-1 cover](/images/covers/ba15-1.jpg)[Apr–Jun 2019](http://www.nlb.gov.sg/biblioasia/vol-15-issue-1/){:target="_blank"} | ![BiblioAsia 15-2 cover](/images/covers/ba15-2.jpg) [Jul–Sep 2019](http://www.nlb.gov.sg/biblioasia/home-page/){:target="_blank"}  |
+| ![BiblioAsia 15-3 cover](/images/covers/ba15-3.jpg) [Oct–Dec 2019](http://www.nlb.gov.sg/biblioasia/vol-15-issue-3/){:target="_blank"} | ![BiblioAsia 15-4 cover](/images/covers/ba15-4.jpg) [Jan–Mar 2020](http://www.nlb.gov.sg/biblioasia/vol-15-issue-4/){:target="_blank"} |
 
 ####  Volume 14
 
