@@ -88,7 +88,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 4-1 cover](/images/covers/ba4-1.jpg) [Apr 2008](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} | ![BiblioAsia 4-2 cover](/images/covers/ba4-2.jpg)[Jul 2008](/past-issues/pdf/BiblioAsia Jul 2009.pdf) |
+| ![BiblioAsia 4-1 cover](/images/covers/ba4-1.jpg) [Apr 2008](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} | ![BiblioAsia 4-2 cover](/images/covers/ba4-2.jpg)[Jul 2008](/past-issues/pdf/BiblioAsia Jul 2008.pdf) |
 | ![BiblioAsia 4-3 cover](/images/covers/ba4-3.jpg)[Oct 2008](/past-issues/pdf/BiblioAsia Oct 2008.pdf) | ![BiblioAsia 4-4 cover](/images/covers/ba4-4.jpg)[Jan 2009](/past-issues/pdf/BiblioAsia Jan 2009.pdf) |
 
 ####  Volume 3
