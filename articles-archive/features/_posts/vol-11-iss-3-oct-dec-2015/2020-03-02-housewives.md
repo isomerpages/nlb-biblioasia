@@ -1,6 +1,6 @@
 ---
 title: "Desperate Housewives"
-date: 2020-03-01T00:00:00.000Z
+date: 2015-10-01T00:00:00.000Z
 permalink: /vol-11/issue-3/oct-dec-2015/housewives
 breadcrumb: "Desperate Housewives"
 third_nav_title: "Desperate Housewives"
@@ -58,7 +58,7 @@ After gathering the bets, the collectors would assemble for the drawing of the l
 A $1 “Syonan Shoken” lottery ticket issued by the Japanese military government during the Japanese Occupation (1942–45). The Japanese encouraged gambling in Singapore, and gambling dens were often set up along the streets. *Courtesy of the National Museum of Singapore, National Heritage Board*.
 
 
-The role of collector was greatly sought-after for the steady income it brought; collectors typically earned a 10 percent commission on every winning stake. Profit margins were high as some lotteries did not restrict the amounts staked. It helped of course that the clientele comprised mainly affluent Straits Chinese ladies with ample leisure time and money to spare. Their healthy appetite for gambling came to public attention in several notable police court cases: in 1909, for instance, when 11 *nonyas* were arrested in a house on Tank Road for playing *chap ji kee*, the magistrate – who felt that the maximum fine of $25 was grossly inadequate as punishment – sagely advised their husbands to let the women be imprisoned for two weeks instead of paying a fine. In another interesting case, the wife of a wealthy Chinese gentleman pawned her jewellery to settle a $50,000 *chap ji kee* debt – a sizable fortune even by today’s standards – and had them replaced with cheap imitations.   
+The role of collector was greatly sought-after for the steady income it brought; collectors typically earned a 10 percent commission on every winning stake. Profit margins were high as some lotteries did not restrict the amounts staked. It helped of course that the clientele comprised mainly affluent Straits Chinese ladies with ample leisure time and money to spare. Their healthy appetite for gambling came to public attention in several notable police court cases: in 1909, for instance, when 11 *nonyas* were arrested in a house on Tank Road for playing *chap ji kee*, the magistrate – who felt that the maximum fine of $25 was grossly inadequate as punishment – sagely advised their husbands to let the women be imprisoned for two weeks instead of paying a fine. In another interesting case, the wife of a wealthy Chinese gentleman pawned her jewellery to settle a $50,000 *chap ji kee* debt – a sizable fortune even by today’s standards – and had them replaced with cheap imitations.
 
 The success of the *chap ji kee* lottery spawned a franchise of sorts. Enticed by the lure of easy money, enterprising individuals opened sub-agencies or branch firms, declaring the same winning number announced by the main syndicate. Unlike the principal *chap ji kee*, the sub-agency was open to the general public and run by men as well as women. In time, an elaborate three-tier system of promoters, sub-promoters and collectors was established. 
 
@@ -77,15 +77,14 @@ The odds were always rigged in favour of the syndicates as they would regularly 
 
 Yet, punters remained undeterred. In 1973, the *New Nation* tabloid interviewed 200 gamblers and found that 95 percent knew how the winning numbers were derived. Quite incredulously, when asked the reason for their continued participation, the respondents, most of whom were housewives, explained matter-of-factly:
 
-“*Chap-ji-kee* is the only form of gambling that we can take part daily without too many objections from our husbands, unless we bet heavily. The stakes allowed are small. It is convenient and it happens daily. All we have to do is tell the collectors some of whom are people we meet every day on our market rounds – the vegetable sellers or fish mongers”.5 
+“*Chap-ji-kee* is the only form of gambling that we can take part daily without too many objections from our husbands, unless we bet heavily. The stakes allowed are small. It is convenient and it happens daily. All we have to do is tell the collectors some of whom are people we meet every day on our market rounds – the vegetable sellers or fish mongers”.[^5] 
 
 <img src="\images\Vol-11-issue-3\housewives\ChinaStreetin1983.jpg">
-
 China Street in 1983. China Street was once known in Hokkien as *Kiau keng cheng* (赌间前), which means “front of the gambling houses”, and also as *Kiau keng khau* (赌间口), which means the “street on to which the gambling houses open”. To the Cantonese, China Street was *Po tsz chheung kai* (宝字场街) or “Gambling-hall street”.  *Lee Kip Lin collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore*.
 
 *Chap ji kee* was called the “housewives’ opium” as it was an easy way of injecting some excitement into their lives, and to relieve the tedium of domestic chores and child-minding. Although the women played for low stakes and did not realistically expect a windfall from *chap ji kee*, the prospect of winning just that little extra cash was attractive enough for the average housewife with fairly modest wants – “that special meal, a new dress for baby or that much desired gold ring for herself”. The principles of an honest game did not concern the [wo]man in the street. In their minds, *chap ji kee* was still based on chance since the combination of numbers that was likely to attract the least stakes was anyone’s guess. The syndicates, which pocketed at least 80 percent of the annual turnover, were clearly the indisputable winners – so long as their luck held. 
 
-->The combination of small bets and high returns made *chap ji kee* irresistible to low-wage workers and housewives. <-
+->The combination of small bets and high returns made *chap ji kee* irresistible to low-wage workers and housewives.<-
 
 #### **The Death of Chap Ji Kee**
 The authorities tried to stamp out *chap ji kee* for years but to no avail. The key to the game’s longevity lay in the well-organised syndicates and their covert operations as well as the intricate network of collectors who did the dirty work on behalf of the promoter. It would take two decades and the progressive tightening of the law and relentless police raids throughout the 1960s and 70s before the *chap ji kee* rackets were smashed. The syndicates gradually disintegrated as the kingpins and their close associates were arrested or went into hiding. 
@@ -98,7 +97,12 @@ In addition, the creation of a legal lottery operator, the Singapore Pools, in 1
 
 While it is entirely plausible that *chap ji kee* might still be played in some isolated circles today, there is little chance of the game ever regaining its former glory. To recall Hare’s words, *chap ji kee* has been cast “out of men’s minds and [has become] one of the dead ghosts of a forgotten past.”
 
-**Janice Loo** is an Associate Librarian with the National Library of Singapore. Her responsibilities include collection management, content development and research and reference assistance on topics relating to Singapore and Southeast Asia. 
+<div style="background-color: white;">
+<br/>
+
+<b>Janice Loo</b> is an Associate Librarian with the National Library of Singapore. Her responsibilities include collection management, content development and research and reference assistance on topics relating to Singapore and Southeast Asia. 
+
+</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
