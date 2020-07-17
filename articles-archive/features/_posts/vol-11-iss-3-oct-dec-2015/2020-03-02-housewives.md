@@ -3,7 +3,7 @@ title: "Triads, Coolies and Pimps:<br>Chinatown in Former Times"
 date: 2020-03-01T00:00:00.000Z
 permalink: /vol-11/issue-3/oct-dec-2015/coolies
 breadcrumb: "Triads, Coolies and Pimps"
-third_nav_title: "Triads, Coolies and Pimps: Chinatown in Former Times"
+third_nav_title: "Triads, Coolies and Pimps:<br>Chinatown in Former Times"
 ---
 
 <style>
