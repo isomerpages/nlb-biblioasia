@@ -4,8 +4,8 @@ favicon: /images/nlb-favicon.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#4f4284'
+  secondary-color: '#28b0a0'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -18,11 +18,12 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-
 collections:
   all-issues:
     output: true
-resources_name: all-articles
+  past-issues:
+    output: true
+resources_name: articles-archive
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

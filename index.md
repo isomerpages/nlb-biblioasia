@@ -1,35 +1,48 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: NLB BiblioAsia
+description: BiblioAsia is a quarterly magazine produced by the National Library of Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: 
+        subtitle:
+        background: /images/Main_Banner.jpg
+        button:
+        url:
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+            - title: "Read <b>BiblioAsia Apr-Jun 2020</b>"
+              description:
+              url: /vol-16/issue-1/apr-jun-2020/
+
+    - infopic:
+        title: Mad Dogs and Englishmen
+        subtitle: Highlights
+        description: Panic swept through Singapore in 1889 following a serious outbreak of rabies on the island. Stray dogs were intially blamed but the real culprits were purebreds imported from England a few years before. Find out how the authorities contained the disease in this issue's cover story.
+        button: Read this article
+        url: /vol-16/issue-1/apr-jun-2020/mad-dogs
+        image: /images/Vol-16-issue-1/mad-dogs/lady-with-dog.jpg
+        alt: Sample of a Mad Dog
+        
+    - infopic:
+        title: Malay Seals from Singapore
+        subtitle: Highlights
+        description: A careful study of the intricate designs of 19th-century Malay seals and the imprints they leave behind can reveal a surprising amount of information.
+        button: Read this article
+        url: /vol-16/issue-1/apr-jun-2020/malay-seals
+        image: /images/Vol-16-issue-1//malay-seals/silver-seal.jpg
+        alt: Sample of the Malay Seal
+    
+    - infopic:
+        title: History Through Postcards
+        subtitle: Highlights
+        description: One postcard may not say much but a collection of postcards can speak volumes. A new book published by the National Library, Postcard Impressions of Early 20th-Century Singapore, features postcards from the Lim Shao Bin Collection. Find out what they have to say.
+        button: Read this article
+        url: /vol-16/issue-1/apr-jun-2020/history-through-postcards
+        image: /images/Vol-16-issue-1/postcards/rochor_river.png
+        alt: Sample of the Postcard       
+      
 ---
+
