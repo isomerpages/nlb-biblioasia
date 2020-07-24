@@ -19,7 +19,7 @@ table {
 
 #### In the second of two essays on the history of printing in mainland Southeast Asia, **Gracie Lee** recounts how Christian missionaries brought printing technology to Myanmar and Thailand.*
 
-* For the first essay titled “Early Printing in Indochina”, see *BiblioAsia*, Jan–Mar 2020 (Vol. 15, Issue 4).
+*For the first essay titled “Early Printing in Indochina”, see *BiblioAsia*, Jan–Mar 2020 (Vol. 15, Issue 4).
 
 <div style="background-color: white;">
 <br/>
