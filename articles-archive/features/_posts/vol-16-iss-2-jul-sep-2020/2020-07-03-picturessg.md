@@ -86,7 +86,7 @@ Kouo captured streetscapes and panoramic views of the Singapore River, the Marin
 <br/>
 <img src="/images/Vol-16-issue-2/picturessg/SingaporeCityscape.jpg">
 
-In 1984, this dramatic shot by Kouo Shang-Wei bagged him the first prize in the Singapore Cityscape Today photo competition organised by the Urban Redevelopment Authority. The photo shows pigeons in flight against the backdrop of skyscrapers like OCBC Centre and UOB Plaza in the Central Business District in the 1970s. In the foreground are bumboats clustered along the Singapore River. <i>Kouo Shang-Wei Collection, PictureSG, National Library, Singapore</i>
+In 1984, this dramatic shot by Kouo Shang-Wei bagged him the first prize in the Singapore Cityscape Today photo competition organised by the Urban Redevelopment Authority. The photo shows pigeons in flight against the backdrop of skyscrapers like OCBC Centre and UOB Plaza in the Central Business District in the 1970s. In the foreground are bumboats clustered along the Singapore River. <i>Kouo Shang-Wei Collection, PictureSG, National Library, Singapore</i>.
 
 </div>
 
@@ -115,7 +115,7 @@ The 1,600 print and digital images in this collection provide visual documentati
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/picturessg/WeLovePingPong.jpg">
+<img src="/images/Vol-16-issue-2/picturessg/HarmonyOfTheSphere.jpg">
 
 The “Harmony of the Spheres” performance held at The Substation‘s Music Space from 18 to 20 July 1997. <i>The Substation Collection, PictureSG, National Library, Singapore</i>.
 
@@ -166,7 +166,7 @@ One way to make it more convenient for the public to help enrich content is to e
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/authors/Janice.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-16-issue-2/authors/JaniceLoo.png" style="width: 100px; height: 100px;" />
 
 <b>Janice Loo</b> is a Librarian with the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.
 
@@ -184,8 +184,7 @@ One way to make it more convenient for the public to help enrich content is to e
 [^7]: National Library Board. (1999). *[Mobile Library Services (1960-1991)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_885_2004-12-27.html)* written by Wong Heng and Thulaja Naidu. Retrieved from Singapore Infopedia website.
 [^8]: National Library Board. (2000). *[Queenstown Community Library](https://eresources.nlb.gov.sg/infopedia/articles/SIP_934_2004-12-13.html)* written by Wong Heng. Retrieved from Singapore Infopedia website.
 [^9]: Lee, K.L. (1988). *[The Singapore House: 1819–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5087274)*. Singapore: Times Editions for Preservation of Monuments Board. (Call no.: RSING 728.095957 LEE); Lee, K.L. (2015). *[The Singapore House: 1819–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201187608)*. Singapore: Marshall Cavendish Editions and National Library Board. (Call no.: RSING 728.095957 LEE)
-[^10]: Lai, C.K. (2015). *[Through the lens of Lee Kip Lin: Photographs of Singapore 1965–1995](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201191869)* (pp. 10–11, 22). Singapore: National Library Board and Editions Didier
-Millet. (Call no.: RSING 779.45957 LAI)
+[^10]: Lai, C.K. (2015). *[Through the lens of Lee Kip Lin: Photographs of Singapore 1965–1995](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201191869)* (pp. 10–11, 22). Singapore: National Library Board and Editions Didier Millet. (Call no.: RSING 779.45957 LAI)
 [^11]: National Library Board. (2009). *[Kouo Shang Wei](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1420_2009-01-13.html)* written by Nurhaizatul Jamila Jamil. Retrieved from Singapore Infopedia website; Zhuang, W.B. (2018). *[Shifting currents: Glimpses of a changing nation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203056880)*. Singapore: National Library Board and Marshall Cavendish Editions. (Call no.: RSING 915.957 KUO)
 [^12]: Zhuang, W.B. (2019, Jul–Sep). [From the archives: The work of photographer K.F. Wong](http://www.nlb.gov.sg/biblioasia/2019/08/30/from-the-archives-the-work-of-photographer-k-f-wong/). *BiblioAsia, 15* (*2*). Retrieved from BiblioAsia website. Select photographs by K.F. Wong are available at the National Archives of Singapore and can be viewed via the Archives Online portal.
 [^13]: Tan B.T. (2006). *[An ingenious reverie: The photography of Yip Cheong Fun](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12712426)*. Singapore: National Library Board and Singapore Heritage Society. (Call no.: RSING 779.092 TAN)
