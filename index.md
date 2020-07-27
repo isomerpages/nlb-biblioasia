@@ -42,7 +42,6 @@ sections:
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/sangnila
         image: /images/Vol-16-issue-2/postcards/royalresidence.jpg
-        alt:      
-
+        alt:
 ---
 
