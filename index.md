@@ -24,7 +24,7 @@ sections:
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/raffles
         image: /images/Vol-16-issue-2/raffles/stork.jpg
-        alt:
+        alt: Sample of raffles
         
     - infopic:
         title: Cholera in 19th-century Singapore
@@ -33,7 +33,7 @@ sections:
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/cholera
         image: /images/Vol-16-issue-2/cholera/migrantshighlights.jpg
-        alt:
+        alt: sample of cholera
     
     - infopic:
         title: "Sang Nila Utama: Separating Myth from Reality"
@@ -42,6 +42,6 @@ sections:
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/sangnila
         image: /images/Vol-16-issue-2/sangnila/royalresidence.jpg
-        alt:
+        alt: sample of sang nila utama
 ---
 
