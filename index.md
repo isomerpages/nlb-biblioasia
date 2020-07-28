@@ -23,8 +23,8 @@ sections:
         description: Two young French naturalists worked Stamford Raffles starting December 1818. They worked for him for a little over a year and were with him when he paid his first visit to Singapore.
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/raffles
-        image: /images/Vol-16-issue-2/raffles/stork.jpg
-        alt:
+        image: /images/Vol-16-issue-1/mad-dogs/lady-with-dog.jpg
+        alt: Sample of mad dog
         
     - infopic:
         title: Cholera in 19th-century Singapore
@@ -32,8 +32,8 @@ sections:
         description: The colony experienced its first cholera outbreak in 1841 and several epidemics in the decades thereafter. We examine how the battle against this deadly illness was won.
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/cholera
-        image: /images/Vol-16-issue-2/malay-seals/boatquay.jpg
-        alt:
+        image: /images/Vol-16-issue-1/malay-seals/silver-seal.jpg
+        alt: sample of malay seals
     
     - infopic:
         title: Sang Nila Utama: Separating Myth from Reality
@@ -41,7 +41,7 @@ sections:
         description: The Malay prince who founded Singapura in the 13th-century is a controversial figure helped established the legitimacy of the Melaka Sultanate.
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/sangnila
-        image: /images/Vol-16-issue-2/postcards/royalresidence.jpg
-        alt:
+        image: /images/Vol-16-issue-1/postcards/rochor_river.png
+        alt: sample of postcard
 ---
 
