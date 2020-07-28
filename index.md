@@ -24,7 +24,7 @@ sections:
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/raffles
         image: /images/Vol-16-issue-2/raffles/stork.jpg
-        alt: Sample of mad dog
+        alt:
         
     - infopic:
         title: Cholera in 19th-century Singapore
@@ -32,8 +32,8 @@ sections:
         description: The colony experienced its first cholera outbreak in 1841 and several epidemics in the decades thereafter. We examine how the battle against this deadly illness was won.
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/cholera
-        image: /images/Vol-16-issue-2/cholera/Migrants.jpg
-        alt: sample of malay seals
+        image: /images/Vol-16-issue-2/cholera/migrantshighlights.jpg
+        alt:
     
     - infopic:
         title: "Sang Nila Utama: Separating Myth from Reality"
@@ -42,6 +42,6 @@ sections:
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/sangnila
         image: /images/Vol-16-issue-2/sangnila/royalresidence.jpg
-        alt: sample of postcard
+        alt:
 ---
 
