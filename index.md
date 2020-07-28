@@ -36,7 +36,7 @@ sections:
         alt: sample of malay seals
     
     - infopic:
-        title: Sang Nila Utama: Separating Myth from Reality
+        title: "Sang Nila Utama: Separating Myth from Reality"
         subtitle: Highlights
         description: The Malay prince who founded Singapura in the 13th-century is a controversial figure helped established the legitimacy of the Melaka Sultanate.
         button: Read this article
