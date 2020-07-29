@@ -7,16 +7,25 @@ third_nav_title: "Desperate Housewives: The Lure of Chap Ji Kee"
 ---
 
 <style>
+table { 
+	background-color: #fce0e5;
+	}
 .infobox { 
   padding: 20px;
   margin: 20px;
+  background: #fce0e5
 }
 </style>
 
 #### *Chap ji kee* has been famously called the “housewives’ opium”. **Janice Loo** traces its rise and subsequent decline.
 
+<div style="background-color: white;">
+<br/>
 <img src="\images\Vol-11-issue-3\housewives\12chapjikeetiles.jpg"> 
-The 12 *chap ji kee* tiles and the corresponding *soo sik* (四色 or “four colours”) playing cards. *All rights reserved, Dobree, C. T. (1955). Gambling Games of Malaya. Kuala Lumpur: Caxton Press with permission of the Government of the Federation of Malaya*. 
+
+The 12 <i>chap ji kee</i> tiles and the corresponding <i>soo sik</i> (四色 or “four colours”) playing cards. <i>All rights reserved, Dobree, C. T. (1955). Gambling Games of Malaya. Kuala Lumpur: Caxton Press with permission of the Government of the Federation of Malaya</i>. 
+
+</div>
 
 In 1977, Prime Minister Lee Kuan Yew, explaining the need for state-run lotteries such as Big Sweep and Toto, said: 
 
@@ -36,8 +45,13 @@ The new regulation did not spell the end of gambling in Singapore. The new resid
 
 “One’s length of days here, is to [the Chinese] mind, but a long game where the cards are always changing. Gambling seems to clear his mind and brace his nerves. It is training ground to him for the real gamble of life.”[^3]
 
+<div style="background-color: white;">
+<br/>
 <img src="\images\Vol-11-issue-3\housewives\AgroupofChinesemengambling.jpg">
-A group of Chinese men gambling in the 1880s. Gambling was a principal vice of the migrant Chinese community in the Straits Settlements. *Courtesy of National Archives of Singapore*. 
+
+A group of Chinese men gambling in the 1880s. Gambling was a principal vice of the migrant Chinese community in the Straits Settlements. <i>Courtesy of National Archives of Singapore</i>. 
+
+</div>
 
 The socio-economic circumstances of immigrant life inadvertently conditioned the propensity of the Chinese to gamble. Fleeing poverty and unrest in their homeland in the 19th century, Chinese immigrants arrived by the boatloads, swelling the ranks of unskilled labourers in Singapore. In his study on Chinese rickshaw coolies, James Warren asserts that gambling “was an inevitable fact of life in a migrant community bereft of family life [and] comprised largely of restless adult men with time on their hands and money to burn”. With few options for wholesome recreational activities, gambling went hand-in-hand with drinking, opium smoking and prostitution – the “four evils” – as the main sources of entertainment and escape from the drudgery of everyday life for these men. Earning a pittance for back-breaking work with little rest, they nevertheless dreamt of returning to China with a fortune; the hope of winning a game or lottery was a psychological balm that made their grim existence more bearable. 
 
@@ -48,15 +62,24 @@ Writing at the end of the 19th century, Hare likened gambling in Singapore to ep
 
 The game operated in the manner outlined until 1894 when, as Hare claims, it became much altered by the *nonyas* who had emerged as its chief organisers and top patrons. As the popularity of the game grew, *chap ji kee* was modified in order to evade detection by the authorities and to make it difficult to prosecute the offenders. To circumvent the law, the promoter would engage a number of collectors who went from door to door taking bets from private homes, thus obviating the need for punters to gather in one place to stake their money in person. To avoid being caught with evidence of the lottery on their bodies, collectors rarely carried the *chap ji kee* cards with them and further devised their own cryptic notations to keep track of the various accounts. For example, the value of 10 cents was denoted by a circle, and a dollar by a cross inside a circle. These symbols were combined or doubled to represent higher values. Likewise, *chap ji kee* characters were represented in a variety of ways such as written and pictorial symbols, strings of beads, numerals – even the number of spots on a certain type of handkerchief carried by *nonya* ladies could surreptitiously function as a code.
 
+<div style="background-color: white;">
+<br/>
 <img src="\images\Vol-11-issue-3\housewives\StraitsChineseladies.jpg"> 
-Straits Chinese ladies, known as *nonyas*, were avid *chap ji kee* players. *Boden-Kloss Collection, courtesy of National Archives of Singapore*.
+
+Straits Chinese ladies, known as <i>nonyas</i>, were avid <i>chap ji kee</i> players. <i>Boden-Kloss Collection, courtesy of National Archives of Singapore</i>. 
+
+</div>
 
 #### **The Modus Operandi**
 After gathering the bets, the collectors would assemble for the drawing of the lottery at a place and time decided in advance by the promoter. Houses that afforded some means of quick escape through a backdoor or over the roofs of neighbouring houses onto the streets were usually selected as the venue. With informants hired to keep a lookout for the police, the game would only commence after the front entrance had been secured and the whole party ensconced in a room upstairs or on the ground floor at the back of the house. The packets containing the stakes and betting memoranda would be laid on a table in front of the promoter, who would proceed to announce the winning character from the selected card. The group quickly dispersed once the winnings were paid out. 
 
+<div style="background-color: white;">
+<br/>
 <img src="\images\Vol-11-issue-3\housewives\SyonanShoken.jpg">
-A $1 “Syonan Shoken” lottery ticket issued by the Japanese military government during the Japanese Occupation (1942–45). The Japanese encouraged gambling in Singapore, and gambling dens were often set up along the streets. *Courtesy of the National Museum of Singapore, National Heritage Board*.
 
+A $1 “Syonan Shoken” lottery ticket issued by the Japanese military government during the Japanese Occupation (1942–45). The Japanese encouraged gambling in Singapore, and gambling dens were often set up along the streets. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
+
+</div>
 
 The role of collector was greatly sought-after for the steady income it brought; collectors typically earned a 10 percent commission on every winning stake. Profit margins were high as some lotteries did not restrict the amounts staked. It helped of course that the clientele comprised mainly affluent Straits Chinese ladies with ample leisure time and money to spare. Their healthy appetite for gambling came to public attention in several notable police court cases: in 1909, for instance, when 11 *nonyas* were arrested in a house on Tank Road for playing *chap ji kee*, the magistrate – who felt that the maximum fine of $25 was grossly inadequate as punishment – sagely advised their husbands to let the women be imprisoned for two weeks instead of paying a fine. In another interesting case, the wife of a wealthy Chinese gentleman pawned her jewellery to settle a $50,000 *chap ji kee* debt – a sizable fortune even by today’s standards – and had them replaced with cheap imitations.
 
@@ -79,27 +102,35 @@ Yet, punters remained undeterred. In 1973, the *New Nation* tabloid interviewed 
 
 “*Chap-ji-kee* is the only form of gambling that we can take part daily without too many objections from our husbands, unless we bet heavily. The stakes allowed are small. It is convenient and it happens daily. All we have to do is tell the collectors some of whom are people we meet every day on our market rounds – the vegetable sellers or fish mongers”.[^5] 
 
+<div style="background-color: white;">
+<br/>
 <img src="\images\Vol-11-issue-3\housewives\ChinaStreetin1983.jpg">
-China Street in 1983. China Street was once known in Hokkien as *Kiau keng cheng* (赌间前), which means “front of the gambling houses”, and also as *Kiau keng khau* (赌间口), which means the “street on to which the gambling houses open”. To the Cantonese, China Street was *Po tsz chheung kai* (宝字场街) or “Gambling-hall street”.  *Lee Kip Lin collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore*.
+
+China Street in 1983. China Street was once known in Hokkien as <i>Kiau keng cheng</i> (赌间前), which means “front of the gambling houses”, and also as <i>Kiau keng khau</i> (赌间口), which means the “street on to which the gambling houses open”. To the Cantonese, China Street was <i>Po tsz chheung kai</i> (宝字场街) or “Gambling-hall street”.  <i>Lee Kip Lin collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore</I>.
+
+</div>
 
 *Chap ji kee* was called the “housewives’ opium” as it was an easy way of injecting some excitement into their lives, and to relieve the tedium of domestic chores and child-minding. Although the women played for low stakes and did not realistically expect a windfall from *chap ji kee*, the prospect of winning just that little extra cash was attractive enough for the average housewife with fairly modest wants – “that special meal, a new dress for baby or that much desired gold ring for herself”. The principles of an honest game did not concern the [wo]man in the street. In their minds, *chap ji kee* was still based on chance since the combination of numbers that was likely to attract the least stakes was anyone’s guess. The syndicates, which pocketed at least 80 percent of the annual turnover, were clearly the indisputable winners – so long as their luck held. 
 
-<center>The combination of small bets and high returns made <i>chap ji kee</i> irresistible to low-wage workers and housewives.</center>
+##### The combination of small bets and high returns made *chap ji kee* irresistible to low-wage workers and housewives
 
 #### **The Death of Chap Ji Kee**
 The authorities tried to stamp out *chap ji kee* for years but to no avail. The key to the game’s longevity lay in the well-organised syndicates and their covert operations as well as the intricate network of collectors who did the dirty work on behalf of the promoter. It would take two decades and the progressive tightening of the law and relentless police raids throughout the 1960s and 70s before the *chap ji kee* rackets were smashed. The syndicates gradually disintegrated as the kingpins and their close associates were arrested or went into hiding. 
 
 In addition, the creation of a legal lottery operator, the Singapore Pools, in 1968 and the introduction of state-run lotteries beginning with Toto that year, gradually chipped away at the syndicates’ customer base. Since history has shown that gambling cannot be completely eradicated, the government took a pragmatic approach and introduced legalised gambling options; at least this way, gambling could be regulated and the revenue channelled towards worthwhile and civic causes. The first project funded by Singapore Pools was the construction of the National Stadium. Today, the Tote Board (Singapore Totalisator Board), which was formed in 1988, channels the surpluses from these state-run lottery operations to support public, social or charitable causes, as well as the growth of culture, art and sport in Singapore. 
 
+<div style="background-color: white;">
+<br/>
 <img src="\images\Vol-11-issue-3\housewives\Chapjikeeschedules.jpg">
 
-*Chap ji kee* sub-promoters drew up such schedules to tally the stakes collected on each of the 144 combinations. *All rights reserved, Dobree, C. T. (1955). Gambling Games of Malaya. Kuala Lumpur: Caxton Press with permission of the Government of the Federation of Malaya*.
+<i>Chap ji kee</i> sub-promoters drew up such schedules to tally the stakes collected on each of the 144 combinations. <i>All rights reserved, Dobree, C. T. (1955). Gambling Games of Malaya. Kuala Lumpur: Caxton Press with permission of the Government of the Federation of Malaya</i>.
+
+</div>
 
 While it is entirely plausible that *chap ji kee* might still be played in some isolated circles today, there is little chance of the game ever regaining its former glory. To recall Hare’s words, *chap ji kee* has been cast “out of men’s minds and [has become] one of the dead ghosts of a forgotten past.”
 
 <div style="background-color: white;">
 <br/>
-
 <b>Janice Loo</b> is an Associate Librarian with the National Library of Singapore. Her responsibilities include collection management, content development and research and reference assistance on topics relating to Singapore and Southeast Asia. 
 
 </div>
@@ -108,37 +139,37 @@ While it is entirely plausible that *chap ji kee* might still be played in some 
 
 
 #### **References**
-Abdullah bin Abdul Kadir. (2009). *[The hikayat Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908)*. Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.5 ABD)
+Abdullah bin Abdul Kadir. (2009). *[The Hikayat Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908)*. Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.5 ABD)
 
-Blythe, W.L. (1951). *[Colony of Singapore annual report 1950](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)*. Singapore: Government Printing Office. (Call no.: RDLKL 959.57 SIN) 
+Blythe, W.L. (1951). *[Colony of Singapore Annual Report 1950](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)*. Singapore: Government Printing Office. (Call no.: RDLKL 959.57 SIN) 
 
 Braddell, T. (1854). Gambling and opium smoking in the Straits of Malacca. *Journal of the Indian Archipelago and Eastern Asia, 8*, 74–75. (Microfilm no.: NL25796) 
 
-Buckley, C.B. (1984). *An anecdotal history of old times in Singapore: From the foundation of the settlement... on February 6th, 1819 to the transfer to the Colonial Office... on April 1st, 1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)*.  Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+Buckley, C.B. (1984). *An Anecdotal History of Old Times in Singapore: From the foundation of the settlement... on February 6th, 1819 to the transfer to the Colonial Office... on April 1st, 1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)*.  Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
 
 Dobree, C.T. (1955). *[Gambling games of Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1011405)*. Kuala Lumpur: Caxton Press with permission of the Government of the Federation of Malaya. (Call no.: RCLOS 759 DOB)
 
 Hare, G.T. (1898, July). The game of chap-ji-ki. *Journal of the Straits Branch of the Royal Asiatic Society, 31*, 63–71, p. 48. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (1991). *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE) 
+Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (1991). *[One Hundred Years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE) 
 
 [Multi-million dollar chap-ji-kee racket](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730227-1.2.54.2). (1973, February 27). *New Nation*, p. 7. Retrieved from NewspaperSG.
 
 Regulation, No. IV of 1823. A regulation prohibiting gaming-houses and cockpits, and for suppressing the vice of gaming at Singapore. (1824). *[Singapore Local Laws and Institutions, 1823](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981135)*. London: Printed by Cox and Baylis. (Call no.: RCLOS 348.595702 SIN) 
 
-Sharp, I. & Stephens, J. (1998). *[Just a little flutter: The Singapore pools story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9217611)*. Singapore: Singapore Pools. (Call no.: RSING 336.1095957 SHA) 
+Sharp, I. & Stephens, J. (1998). *[Just a Little Flutter: The Singapore Pools story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9217611)*. Singapore: Singapore Pools. (Call no.: RSING 336.1095957 SHA) 
 
-Singapore. Parliament. *[Parliamentary debates: Official report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1977, February 23). Debate on President’s Address (Vol. 36, col. 433). Singapore: Govt. Printer. (Call no.: RSING 328.5957 SIN)
+Singapore. Parliament. *[Parliamentary Debates: Official Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1977, February 23). Debate on President’s Address (Vol. 36, col. 433). Singapore: Govt. Printer. (Call no.: RSING 328.5957 SIN)
 
-Song, O.S. (1984). *[One hundred years' history of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
+Song, O.S. (1984). *[One Hundred Years' History of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
 
 Turnbull, C.M. (1972). *[The Straits Settlements, 1826–67: Indian presidency to crown colony](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4132712)*. London: Athlone Press. (Call no.: RSING 959.57 TUR)
 
-Turnbull, C.M. (2009). *[A history of modern Singapore, 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200096792)*. Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
+Turnbull, C.M. (2009). *[A History of Modern Singapore, 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200096792)*. Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
 
-Vaughan, J.D. (1879). *[The manners and customs of the Chinese of the Straits Settlements](https://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx?s=The%20Manners%20and%20Customs%20of%20the%20Chinese%20of%20the%20Straits%20Settlements)*. Singapore: Mission Press. Retrieved from BookSG.
+Vaughan, J.D. (1879). *[The Manners and Customs of the Chinese of the Straits Settlements](https://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx?s=The%20Manners%20and%20Customs%20of%20the%20Chinese%20of%20the%20Straits%20Settlements)*. Singapore: Mission Press. Retrieved from BookSG.
 
-Warren, J.F. (2003). *[Rickshaw coolie: A people's history of Singapore, 1880–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063)*. Singapore: Singapore University Press. (Call no.: RSING 338.341 WAR) 
+Warren, J.F. (2003). *[Rickshaw coolie: A People's History of Singapore, 1880–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063)*. Singapore: Singapore University Press. (Call no.: RSING 338.341 WAR) 
 
 Yen, C, (1990, April). Gambling in the Chinese community in Singapore and Malaya 1792–1911. *Asian Culture*, 14, 47–56. (Not available in NLB holdings)
 
@@ -147,5 +178,5 @@ Yen, C, (1990, April). Gambling in the Chinese community in Singapore and Malaya
 [^1]: Singapore. Parliament. *[Parliamentary Debates Singapore Official Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1977, February 23). Debate on President’s Address (Vol. 36, col. 433). Singapore: Govt. Printer. Call no.: RSING 328.5957 SIN
 [^2]: A tax-farming system introduced by William Farquhar in which monopoly rights were auctioned off to sell opium and spirits, and to run gambling dens. See Turnbull, C. M. (2009). *[A History of Modern Singapore 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200096792)* (p. 35). Singapore: NUS Press. Call no.: RSING 959.57 TUR-[HIS] 
 [^3]: Hare, G.T. (1898, July). The game of chap-ji-ki. *Journal of the Straits Branch of the Royal Asiatic Society, 31*, 63–71, p. 48. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-[^4]: The term Peranakan or Straits Chinese generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as babas while the females are known as nonyas (or nyonyas). See National Library Board. (2013, 26 August). *[Peranakan (Straits Chinese) community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html)* written by Koh, Jaime. Retrieved from Singapore Infopedia.
+[^4]: The term Peranakan or Straits Chinese generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as babas while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (2013, 26 August). *[Peranakan (Straits Chinese) community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html)* written by Koh, Jaime. Retrieved from Singapore Infopedia.
 [^5]: [Multi-million dollar chap-ji-kee racket](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730227-1.2.54.2). (1973, February 27). *New Nation*, p. 7. Retrieved from NewspaperSG.
