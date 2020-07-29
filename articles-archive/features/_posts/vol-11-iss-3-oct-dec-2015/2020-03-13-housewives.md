@@ -145,7 +145,7 @@ Blythe, W.L. (1951). *[Colony of Singapore Annual Report 1950](https://eservice.
 
 Braddell, T. (1854). Gambling and opium smoking in the Straits of Malacca. *Journal of the Indian Archipelago and Eastern Asia, 8*, 74–75. (Microfilm no.: NL25796) 
 
-Buckley, C.B. (1984). *An Anecdotal History of Old Times in Singapore: From the foundation of the settlement... on February 6th, 1819 to the transfer to the Colonial Office... on April 1st, 1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)*.  Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+Buckley, C.B. (1984). *[An Anecdotal History of Old Times in Singapore: From the foundation of the settlement... on February 6th, 1819 to the transfer to the Colonial Office... on April 1st, 1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)*.  Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
 
 Dobree, C.T. (1955). *[Gambling games of Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1011405)*. Kuala Lumpur: Caxton Press with permission of the Government of the Federation of Malaya. (Call no.: RCLOS 759 DOB)
 
