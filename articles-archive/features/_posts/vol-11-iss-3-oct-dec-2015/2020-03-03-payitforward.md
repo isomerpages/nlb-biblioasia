@@ -8,11 +8,11 @@ third_nav_title: "Pay it Forward: The Tamil Digital Heritage Project"
 
 <style>
 table { 
-	background-color: #e5f1ee;
+	background-color: #fef0c3;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #e5f1ee
+  background: #fef0c3
 }
 </style>

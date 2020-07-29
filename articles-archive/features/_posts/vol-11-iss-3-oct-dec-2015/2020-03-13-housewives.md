@@ -8,12 +8,12 @@ third_nav_title: "Desperate Housewives: The Lure of Chap Ji Kee"
 
 <style>
 table { 
-	background-color: #fce0e5;
+	background-color: #fef0c3;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #fce0e5
+  background: #fef0c3
 }
 </style>
 
