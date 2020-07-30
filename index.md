@@ -20,10 +20,10 @@ sections:
     - infopic:
         title: Stamford Raffles and the Two French Naturalists
         subtitle: Highlights
-        description: Two young French naturalists worked Stamford Raffles starting December 1818. They worked for him for a little over a year and were with him when he paid his first visit to Singapore.
+        description: Two young French naturalists were hired by Stamford Raffles starting December 1818. They worked for him for a little over a year and were with him when he paid his first visit to Singapore.
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/raffles
-        image: /images/Vol-16-issue-2/raffles/stork.jpg
+        image: /images/Vol-16-issue-2/raffles/storkk.jpg
         alt: Sample of raffles
         
     - infopic:
@@ -38,7 +38,7 @@ sections:
     - infopic:
         title: "Sang Nila Utama: Separating Myth from Reality"
         subtitle: Highlights
-        description: The Malay prince who founded Singapura in the 13th-century is a controversial figure helped established the legitimacy of the Melaka Sultanate.
+        description: The Malay prince who founded Singapura in the 13th-century is a controversial figure who helped established the legitimacy of the Melaka Sultanate.
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/sangnila
         image: /images/Vol-16-issue-2/sangnila/royalresidence.jpg
