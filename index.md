@@ -23,7 +23,7 @@ sections:
         description: Two young French naturalists were hired by Stamford Raffles starting December 1818. They worked for him for a little over a year and were with him when he paid his first visit to Singapore.
         button: Read this article
         url: /vol-16/issue-2/jul-sep-2020/raffles
-        image: /images/Vol-16-issue-2/raffles/storkk.jpg
+        image: /images/Vol-16-issue-2/raffles/stork.jpg
         alt: Sample of raffles
         
     - infopic:
