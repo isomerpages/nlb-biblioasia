@@ -54,6 +54,14 @@ The NLB offered to take on the expense of digitisation. Various vendors were inv
 
 The TDHP team, along with another large group of willing volunteers, then took on the painstaking task of proofreading and matching digitised copies to the originals. Computers are not foolproof; the electronic conversion of text and images into digital copy through Optical Character Recognition (OCR) software does inadvertently introduce errors in the scanned copy that can only be picked out by human effort.
 
+<div style="background-color: white;">
+<br/>
+<img src="\images\Vol-11-issue-3\payitforward\Proofreaders.jpg"> 
+
+Proofreaders involved in the Tamil Digital Heritage Project team hard at work. 
+
+</div>
+
 Concurrently, experts began looking into ways in which the digitised books could be made searchable using appropriate and effective search engines that not only facilitate the search of a specific text but also articles and other materials related to the text. But that was not the end of it. The project team also wanted users to be able to copy, paste and collate information using the digitised collection.
 
 It was patently clear to all involved that the scale of the project was unprecedented – this was the first time that such a massive and concerted effort at digitising an entire national collection of Tamil works was taking place. Another notable aspect of this project is the community element: it is a people-driven project, initiated by and for the benefit of the community. The push for the TDHP did not come from top leaders or community organisations, but from well-meaning citizens who initiated the idea, sought community support and obtained the patronage of S. Iswaran, Minister in the Prime Minister’s Office and Second Minister for Home Affairs and Trade and Industry. The TDHP clearly debunks the idea that Singaporeans are apathetic and lack initiative, and that all large projects are top-down efforts that emanate from the government.
@@ -68,6 +76,14 @@ More than a year and a half after its inception and many hours of painstaking wo
 In his speech, Minister Tharman hoped that some of the digitised books could “be translated into our other languages so that our whole nation can benefit from the memories of a small community”. He added that Singapore’s policy of multiculturalism, which gives equal opportunities to all races, has meant that even minorities have felt their culture can be nurtured and developed.
 
 Minister Tharman likened the work of the TDHP team to the labour of a great Tamil scholar more than a century ago, Swaminatha Iyer, popularly known as “Thamizh Thatha” or “the Grandfather of Tamil”. He collected all the ancient Tamil classical texts which were in the form of decaying palm leaves scattered around the state of Tamil Nadu and brought them to print. This was his lifelong work over five decades.
+
+<div style="background-color: white;">
+<br/>
+<img src="\images\Vol-11-issue-3\payitforward\Eventlaunch.jpg"> 
+
+Deputy Prime Minister Tharman Shanmugaratnam launching the Tamil Digital Heritage Collection. Looking on are S. Iswaran, Second Minister for Home Affairs and Trade and Industry, and Elaine Ng, Chief Executive Officer, National Library Board. 
+
+</div>
 
 The TDHP has come to fruition through the handiwork of ordinary Singaporeans who have dedicated themselves to the task of preserving their linguistic heritage. They are truly the beavers of Singapore. An interesting fact about beavers is that they grow in size throughout their entire lives. The Singapore “beavers” behind the TDHP see their efforts as only the starting point of a project that will flourish through the generations and gradually include all genres of Tamil books, perhaps even books published before 1965.
 
