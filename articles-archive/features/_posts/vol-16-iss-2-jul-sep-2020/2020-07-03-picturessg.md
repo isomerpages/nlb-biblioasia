@@ -134,6 +134,7 @@ Today, images of Singapore are being created and disseminated at an unprecedente
 In seeking to build a robust pictorial record of Singapore, the challenge today lies in handling this deluge with the help of technology to sift through, select, describe and organise an ever-increasing number of images for discovery, learning and research.
 
 |**THE MAKING OF PICTURESG**|
+
 |Photographs form part of the special materials collection at the National Library. As photographs of Singapore are generally difficult to find on the market, the library has made concerted efforts to grow its photograph collection through donations by individuals, groups and organisations in addition to acquisitions.|
 
 |The National Library is interested in collecting photographs that document national events and the activities of notable individuals and organisations in Singapore, including those that chronicle themes of national significance such as urban redevelopment, or are representative of Singapore society in a particular time period. These photographs tend to mostly remain in private collections or are held in organisational archives.|
