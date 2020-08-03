@@ -24,7 +24,7 @@ table {
 <br/>
 <img src="/images/Vol-16-issue-2/earlyprinting/Alphabetum&Comparative.jpg">
 
-(Left) <i>Alphabetum Barmanum</i> (1776) by Father Carpani is widely regarded as the oldest extant printed book in Burmese. The Catholic prayer the Ave Maria is shown here. <i>Retrieved from Internet Archive website</i>.<br>(Right) <i>A Comparative Vocabulary of the Barma, Maláyu and T’hái Languages</i> (1810) by the Scottish linguist John Leyden. This is one of the earliest printed works in Burmese published by the Serampore Mission Press. The book also contains Jawi script. <i>Collection of the National Library, Singapore. (Accession no.: B03013686E)</i>
+(Left) <i>Alphabetum Barmanum</i> (1776) by Father Carpani is widely regarded as the oldest extant printed book in Burmese. The Catholic prayer the Ave Maria is shown here. <i>Retrieved from Internet Archive website</i>. (Right) <i>A Comparative Vocabulary of the Barma, Maláyu and T’hái Languages</i> (1810) by the Scottish linguist John Leyden. This is one of the earliest printed works in Burmese published by the Serampore Mission Press. The book also contains Jawi script. <i>Collection of the National Library, Singapore. (Accession no.: B03013686E)</i>
 
 </div>
 
