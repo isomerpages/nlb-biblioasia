@@ -19,7 +19,6 @@ table {
 
 #### In the second of two essays on the history of printing in mainland Southeast Asia, **Gracie Lee** recounts how Christian missionaries brought printing technology to Myanmar and Thailand.*
 
-*For the first essay titled “Early Printing in Indochina”, see <i>BiblioAsia</i>, Jan–Mar 2020 (Vol. 15, Issue 4).
 
 <div style="background-color: white;">
 <br/>
@@ -79,15 +78,7 @@ Another prominent figure in Catholic printing was Father Jean-Baptiste Pallegoix
 <br/>
 <img src="/images/Vol-16-issue-2/earlyprinting/fatherjean.jpg">
 
-An undated portrait of Father Jean-Baptiste Pallegoix. He was the Vicar Apostolic of Eastern Siam and one of the earliest printers in Thailand. One of his most notable publications is <i>Grammatica Linguae Thai</i> (1850), a Thai grammar which contains both Latin and Thai script. <i>Retrieved from Wikimedia Commons</i>.
-
-</div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/earlyprinting/GrammaticaLinguaeThai.jpg">
-
-<i>Grammatica Linguae Thai</i> (1850), a Thai grammar in Latin with some text in Thai script written by Father Jean-Baptiste Pallegoix and published in Bangkok. <i>Courtesy of Bayerische Staatsbibliothek München, 4 L.as. 271 h, title page, urn:nbn:de:bvb:12-bsb10522371-0</i>.
+(Left) An undated portrait of Father Jean-Baptiste Pallegoix. He was the Vicar Apostolic of Eastern Siam and one of the earliest printers in Thailand. One of his most notable publications is Grammatica Linguae Thai (1850), a Thai grammar which contains both Latin and Thai script. <i>Retrieved from Wikimedia Commons</i>. (Right) The title page of <i>Grammatica Linguae Thai</i> (1850). It was published in Bangkok. <i>Courtesy of Bayerische Staatsbibliothek München, 4 L.as. 271 h, title page, urn:nbn:de:bvb:12-bsb10522371-0</i>.
 
 </div>
 
@@ -126,6 +117,8 @@ The government press took charge of publishing the *Ratchakitchanubeksa* (Royal 
 Mention should also be made of the important role that Buddhist monasteries performed in the publication of cremation volumes to honour those who had died. Distributed to guests during funerals, these books contain information and details on the lives of the deceased.[^19]
 
 In examining how printing technology spread to mainland Southeast Asia, we can see the role of the colonial government (in French Indochina) and Christian missionaries (in Myanmar and Thailand) in bringing and applying the know-how to the region. However, it is equally clear that the local inhabitants of mainland Southeast Asia – whether they were kings, Buddhist clergy or the intelligentsia – saw the potential of the printing press to quickly disseminate information and ideas. Local presses were thus established to serve the people’s needs.
+
+*For the first essay titled [“Early Printing in Indochina”](http://www.nlb.gov.sg/biblioasia/2020/02/21/early-printing-in-indochina/), see <i>BiblioAsia</i>, Jan–Mar 2020 (Vol. 15, Issue 4).
 
 <div style="background-color: white;">
 <br/>

@@ -33,7 +33,7 @@ In one image, a man is pulling a rickshaw outside the Thian Hock Keng Temple on 
 <br/>
 <img src="/images/Vol-16-issue-2/picturessg/NewYear&Family.jpg">
 
-(Left) A family posing outside the National Theatre, 1965. Designed by local architect Alfred H.K. Wong, the National Theatre was built to commemorate Singapore’s attainment of self-government in 1959. The theatre was situated at the corner of Clemenceau Avenue and River Valley Road. It was closed in 1984 and subsequently demolished to make way for the Central Expressway. <i>Donated by Chang Wei Jie Jerroy, PictureSG, National Library, Singapore</i>.<br>(Right) Scene of the New Year Sea Sports, 1939. This was an annual regatta that took place in the
+(Left) A family posing outside the National Theatre, 1965. Designed by local architect Alfred H.K. Wong, the National Theatre was built to commemorate Singapore’s attainment of self-government in 1959. The theatre was situated at the corner of Clemenceau Avenue and River Valley Road. It was closed in 1984 and subsequently demolished to make way for the Central Expressway. <i>Donated by Chang Wei Jie Jerroy, PictureSG, National Library, Singapore</i>. (Right) Scene of the New Year Sea Sports, 1939. This was an annual regatta that took place in the
 harbour, off Collyer Quay. The Supreme Court building and Municipal Building can be seen in the background. <i>Edwin A. Brown Collection, PictureSG, National Library, Singapore</i>.<br>
 
 </div>
@@ -42,7 +42,7 @@ All these images capture scenes of Singapore that no longer exist. The Thian Hoc
 
 Photographs like these are why the National Library’s online PictureSG Collection is so valuable. Consisting of more than 35,000 digitised and “born-digital” (images originally shot in digital format) photographs, PictureSG allows anyone with an internet connection to explore Singapore’s history from the 19th century to modern times.
 
-PictureSG exists because a key function of the National Library is to collect, preserve and make available the published and documentary heritage of the nation. To this end, the National Library has been acquiring, organising and digitising all manner of Singapore-related content, including monographs,[^1] newspapers,[^2] music recordings[^3] and photographs. Over the years, the library has created online platforms to facilitate the search and discovery of the library’s wide array of materials by formats. For images and photographs, that platform is PictureSG.
+PictureSG exists because a key function of the National Library is to collect, preserve and make available the published and documentary heritage of the nation. To this end, the National Library has been acquiring, organising and digitising all manner of Singapore-related content, including monographs,[^1] newspapers,[^2] music recordings[^3] and photographs. Over the years, the library has created online platforms to facilitate the search and discovery of the library’s wide array of materials by format. For images and photographs, that platform is PictureSG.
 
 #### **Photographs of Early Singapore**
 Some of the oldest works in the National Library’s photograph collection were taken by early commercial photography studios – such as Sachtler & Co. and G.R. Lambert & Co. – that operated in Singapore in the 19th and early 20th centuries. These studios produced picturesque scenes and portraits of people that became popular tourist souvenirs at the time. Today, the prints serve as an invaluable source of visual documentation on early Singapore.[^4]
@@ -97,7 +97,7 @@ Another notable part of the PictureSG Collection is a donation by French photogr
 #### **Performing Arts Photographs**
 The National Library also has a collection of more than 4,500 images capturing the activities of local arts groups and organisations, with the majority of them coming from established Chinese performing arts groups. These materials were received as part of larger donations that included publications, ephemera, and audio and video recordings.
 
-In 2008, the National Library obtained permission to digitise some 1,000 photographs and publications from the Thau Yong Amateur Musical was formed in 1931 and continues to stage regular performances of Waijiang (外江)[^14] and Teochew opera and music today.[^15] The collection comprises photographs of the association’s members, costumes, performances, stage design and anniversary events.
+In 2008, the National Library obtained permission to digitise some 1,000 photographs and publications from the Thau Yong Amateur Musical Association (陶融儒乐社). The association was formed in 1931 and continues to stage regular performances of Waijiang (外江)[^14] and Teochew opera and music today.[^15] The collection comprises photographs of the association’s members, costumes, performances, stage design and anniversary events.
 
 In 2014, the Singapore Children’s Playhouse (新加坡儿童剧社), a Mandarin theatre group for children and youths, donated over 1,500 photographs and about 100 other items comprising books, brochures, periodicals, sound recordings, certificates, reels and vinyl records to the National Library. These materials document the performances and theatre productions of the group from the 1960s to the 80s. That same year, the National Library also received some 500 images from Siong Leng Musical Association (湘音社), which has been actively promoting traditional Nanyin music (南音) and Liyuan (梨園) opera[^16] in Singapore since its founding in 1941. The association remains active today and has won international awards for its performances.
 
@@ -136,13 +136,11 @@ In seeking to build a robust pictorial record of Singapore, the challenge today 
 |**THE MAKING OF PICTURESG**|
 |Photographs form part of the special materials collection at the National Library. As photographs of Singapore are generally difficult to find on the market, the library has made concerted efforts to grow its photograph collection through donations by individuals, groups and organisations in addition to acquisitions.|
 
-|The National Library is interested in collecting photographs that document national events and the activities of notable individuals and organisations in Singapore, including those that chronicle themes of national significance such as urban redevelopment, or are representative
-of Singapore society in a particular time period. These photographs tend to mostly remain in private collections or are held in organisational archives.|
+|The National Library is interested in collecting photographs that document national events and the activities of notable individuals and organisations in Singapore, including those that chronicle themes of national significance such as urban redevelopment, or are representative of Singapore society in a particular time period. These photographs tend to mostly remain in private collections or are held in organisational archives.|
 
 |The National Library has put in place a Donors Programme to promote the library’s mission of collecting and preserving published and unpublished materials of national significance and heritage value.|
 
-|The library collects works by both professional and amateur photographers. The main criteria for selection is that they must contain documentary or historical content about Singapore. As photographs are important for their informational and evidential value, preference is given
-to those that capture the subject with accuracy and detail, and include information such as dates, locations and names.|
+|The library collects works by both professional and amateur photographers. The main criteria for selection is that they must contain documentary or historical content about Singapore. As photographs are important for their informational and evidential value, preference is given to those that capture the subject with accuracy and detail, and include information such as dates, locations and names.|
 
 |Reproductions or duplicates of original photographs are only accepted in exceptional circumstances, such as when the original cannot be obtained or is in poor condition. In evaluating an item, the library also considers its physical condition and its suitability for long-term preservation.|
 
@@ -152,7 +150,7 @@ to those that capture the subject with accuracy and detail, and include informat
 
 |In 2011, SNAP was revamped and relaunched as PictureSG.[^19] The collection has since grown substantially due to donations and public contributions.|
 
-|Among the new features that improved the usability of the PictureSG database are the inclusion of thumbnails in the search results, which reduced the number of clicks needed to access the desired image. Previously, the search results in SNAP were limited to text descriptions and users had to click on each link to ascertain if the image matched what they were looking for.|
+|Among the new features that improved the usability of the PictureSG database is the inclusion of thumbnails in the search results, which reduced the number of clicks needed to access the desired image. Previously, the search results in SNAP were limited to text descriptions and users had to click on each link to ascertain if the image matched what they were looking for.|
 
 |The photograph collection of the National Library complements that of the National Archives of Singapore (NAS) and other collecting institutions in Singapore. To promote content discovery across collections, text analytics are used to recommend related images within PictureSG as well as those from the NAS.[^20] In addition, PictureSG images are featured on other National Library websites such as Singapore Infopedia, an electronic encyclopedia of articles about Singapore.|
 
