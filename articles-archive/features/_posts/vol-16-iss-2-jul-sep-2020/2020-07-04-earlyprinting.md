@@ -76,7 +76,7 @@ Another prominent figure in Catholic printing was Father Jean-Baptiste Pallegoix
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/earlyprinting/fatherjean.jpg">
+<img src="/images/Vol-16-issue-2/earlyprinting/fatherjeanLinguae.jpg">
 
 (Left) An undated portrait of Father Jean-Baptiste Pallegoix. He was the Vicar Apostolic of Eastern Siam and one of the earliest printers in Thailand. One of his most notable publications is Grammatica Linguae Thai (1850), a Thai grammar which contains both Latin and Thai script. <i>Retrieved from Wikimedia Commons</i>. (Right) The title page of <i>Grammatica Linguae Thai</i> (1850). It was published in Bangkok. <i>Courtesy of Bayerische Staatsbibliothek München, 4 L.as. 271 h, title page, urn:nbn:de:bvb:12-bsb10522371-0</i>.
 
