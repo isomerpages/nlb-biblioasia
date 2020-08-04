@@ -114,8 +114,6 @@ China Street in 1983. China Street was once known in Hokkien as <i>Kiau keng che
 
 *Chap ji kee* was called the “housewives’ opium” as it was an easy way of injecting some excitement into their lives, and to relieve the tedium of domestic chores and child-minding. Although the women played for low stakes and did not realistically expect a windfall from *chap ji kee*, the prospect of winning just that little extra cash was attractive enough for the average housewife with fairly modest wants – “that special meal, a new dress for baby or that much desired gold ring for herself”. The principles of an honest game did not concern the [wo]man in the street. In their minds, *chap ji kee* was still based on chance since the combination of numbers that was likely to attract the least stakes was anyone’s guess. The syndicates, which pocketed at least 80 percent of the annual turnover, were clearly the indisputable winners – so long as their luck held. 
 
-##### The combination of small bets and high returns made *chap ji kee* irresistible to low-wage workers and housewives.
-
 #### **The Death of Chap Ji Kee**
 The authorities tried to stamp out *chap ji kee* for years but to no avail. The key to the game’s longevity lay in the well-organised syndicates and their covert operations as well as the intricate network of collectors who did the dirty work on behalf of the promoter. It would take two decades and the progressive tightening of the law and relentless police raids throughout the 1960s and 70s before the *chap ji kee* rackets were smashed. The syndicates gradually disintegrated as the kingpins and their close associates were arrested or went into hiding. 
 
