@@ -138,7 +138,7 @@ While it is entirely plausible that *chap ji kee* might still be played in some 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 
-#### **References**
+#### REFERENCES
 Abdullah bin Abdul Kadir. (2009). *[The Hikayat Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908)*. Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.5 ABD)
 
 Blythe, W.L. (1951). *[Colony of Singapore Annual Report 1950](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)*. Singapore: Government Printing Office. (Call no.: RDLKL 959.57 SIN) 
@@ -174,7 +174,7 @@ Warren, J.F. (2003). *[Rickshaw coolie: A People's History of Singapore, 1880–
 Yen, C, (1990, April). Gambling in the Chinese community in Singapore and Malaya 1792–1911. *Asian Culture*, 14, 47–56. (Not available in NLB holdings)
 
 
-#### **Notes**
+#### NOTES
 [^1]: Singapore. Parliament. *[Parliamentary Debates Singapore Official Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1977, February 23). Debate on President’s Address (Vol. 36, col. 433). Singapore: Govt. Printer. Call no.: RSING 328.5957 SIN
 [^2]: A tax-farming system introduced by William Farquhar in which monopoly rights were auctioned off to sell opium and spirits, and to run gambling dens. See Turnbull, C. M. (2009). *[A History of Modern Singapore 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200096792)* (p. 35). Singapore: NUS Press. Call no.: RSING 959.57 TUR-[HIS] 
 [^3]: Hare, G.T. (1898, July). The game of chap-ji-ki. *Journal of the Straits Branch of the Royal Asiatic Society, 31*, 63–71, p. 48. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
