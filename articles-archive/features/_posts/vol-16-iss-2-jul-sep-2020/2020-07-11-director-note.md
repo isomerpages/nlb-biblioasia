@@ -5,17 +5,6 @@ date: 2020-07-01T00:00:00.000Z
 third_nav_title: Director's Note
 ---
 
-<style>
-table { 
-	background-color: #e5f1ee;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #e5f1ee
-}
-</style>
-
 During the “circuit breaker” period, a widely circulated video showed a family of otters scurrying around the suddenly quiet streets of urban Singapore. Elsewhere around the world, skies, seas and rivers cleared up because of widespread lockdowns. Some conservation groups have cautioned against thinking that the COVID-19 pandemic has given nature a break, pointing to mounting pressures to exploit nature further because of economic disruptions caused by the virus. Humans and nature – a very complex relationship.
 
 In our first article, [Danièle Weiler](/vol-16/issue-2/jul-sep-2020/raffles) recounts the story of two French naturalists who were hired by Stamford Raffles to collect wildlife specimens in the region. These two young men accompanied Raffles when he arrived in Singapore in 1819. A year later, the first systematic recording of Singapore’s rainfall and temperature was started by William Farquhar, as [Lim Tin Seng](/vol-16/issue-2/jul-sep-2020/rain) notes. These stories remind us how scientific endeavours of the past were often associated with colonial, economic and military interests.
