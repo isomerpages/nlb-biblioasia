@@ -17,6 +17,6 @@ In part two of [Gracie Lee’s](/vol-16/issue-2/jul-sep-2020/earlyprinting) essa
 
 We round up this issue with [Derek Heng’s](/vol-16/issue-2/jul-sep-2020/sangnila) essay on a character of great importance to the story of Singapura – Sang Nila Utama – through the lens of different versions of the royal Malay text *Sulalat al-Salatin* (better known as the *Sejarah Melayu*).
 
-Finally, I would like to announce that we’ve migrated the online version of *BiblioAsia* to a new platform. Do check out our new look and please let us know what you think by taking part in the survey. Go to https://biblioasia.nlb.gov.sg
+Finally, I would like to announce that we’ve migrated the online version of *BiblioAsia* to a new platform. Do check out our new look and please let us know what you think by taking part in the [survey](https://efm.jusfeedback.com/Community/se/705E3ED92204BF70).
 
 Happy reading and take care.
