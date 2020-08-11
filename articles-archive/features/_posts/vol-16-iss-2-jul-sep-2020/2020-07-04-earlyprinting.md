@@ -118,8 +118,6 @@ Mention should also be made of the important role that Buddhist monasteries perf
 
 In examining how printing technology spread to mainland Southeast Asia, we can see the role of the colonial government (in French Indochina) and Christian missionaries (in Myanmar and Thailand) in bringing and applying the know-how to the region. However, it is equally clear that the local inhabitants of mainland Southeast Asia – whether they were kings, Buddhist clergy or the intelligentsia – saw the potential of the printing press to quickly disseminate information and ideas. Local presses were thus established to serve the people’s needs.
 
-*For the first essay titled [“Early Printing in Indochina”](http://www.nlb.gov.sg/biblioasia/2020/02/21/early-printing-in-indochina/), see <i>BiblioAsia</i>, Jan–Mar 2020 (Vol. 15, Issue 4).
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-2/authors/Gracie.png" style="width: 100px; height: 100px;" />
@@ -127,6 +125,22 @@ In examining how printing technology spread to mainland Southeast Asia, we can s
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
 
 </div>
+
+**Related articles**
+
+*For the first essay titled Early Printing in Indochina, see:
+
+Lee, G. (2020, Jan–Mar). [Early printing in Indochina](http://www.nlb.gov.sg/biblioasia/2020/02/21/early-printing-in-indochina/). *BiblioAsia, 15* (4), 50–53. 
+
+For other related essays on printing, see:
+
+Lee, M. (2020, Jan–Mar). [From Lat Pau to Zaobao: A history of Chinese newspapers](http://www.nlb.gov.sg/biblioasia/2020/02/21/from-lat-pau-to-zaobao-a-history-of-chinese-newspaper/). *BiblioAsia, 15* (4), 44–49.
+
+Mazelan Anuar. (2017, Oct–Dec). [Early Malay printing in Singapore](http://www.nlb.gov.sg/biblioasia/2017/10/07/early-malay-printing-in-singapore/). *BiblioAsia, 13* (3). 40–43.
+
+Tan, B. (2016, Jan–Mar). [A magazine for the Straits Chinese](http://www.nlb.gov.sg/biblioasia/2016/01/22/a-magazine-for-the-straits-chinese/). *BiblioAsia, 11* (4), 80–81.
+
+Tan, B. (2017, Jan–Mar). [Claudius Henry Thomsen: A pioneer in Malay printing](http://www.nlb.gov.sg/biblioasia/2017/01/06/claudius-henry-thomsen-a-pioneer-in-malay-printing/). *BiblioAsia, 12* (4), 26–31.
 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
@@ -139,10 +153,10 @@ In examining how printing technology spread to mainland Southeast Asia, we can s
 [^6]: [Herbert & Milner](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487), 1989, p. 9; [Rhodes](http://eservice.nlb.gov.sg/item_holding.aspx?bid=44106), 1969, p. 82; San, Dec 2010, p. 34.
 [^7]: [Herbert & Milner](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487), 1989, p. 10; [Rhodes](http://eservice.nlb.gov.sg/item_holding.aspx?bid=44106), 1969, pp. 83–86; San, Dec 2010, p. 34; Suarez, M.F., & Woudhuysen, H.R. (Eds.). (2013). *[The book: A global history](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200774186)* (p. 633). Oxford: Oxford University Press. (Call no.: 002.09 BOO); Wright, A., Cartwright, H.A., & Breakspear, O.T. (Eds.). (1910). *Twentieth century impressions of Burma: Its history, people, commerce, industries, and resources* (pp. 132–139). London; Durban; Perth (W.A.): Lloyd’s Greater Britain Pub. Co. Retrieved from Cornell University Library website.
 [^8]: Winship, M. (1986). Early Thai printing: The beginning to 1851. *Crossroads: An Interdisciplinary Journal of Southeast Asian Studies, 3* (1), 45–47. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Bressan, L. (2003). The first printed sentence in Thai: A.D. 1646. *Journal of the Siam Society*, 91, p. 241. Retrieved from Siam Society website; Kantaphong, C. (2017). Khâm Són Christang: A witness of the French missionnaries’ knowledge of Thai language during the Ayutthaya era of Siam (Thailand). *Proceedings*, pp. 184–186. Retrieved from the 13th International Conference on Thai Studies website; Smyth, D. (2001). Farangs and Siamese: A brief history of learning Thai (p. 279). In K. Tingsabadh & A. Abramson. (Eds.), *Essays in Tai linguistics*. Bangkok: Chulalongkorn University Press. Retrieved from SEAlang website; [Herbert & Milner](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487), 1989, p. 30.
-[^9]: [Herbert & Milner](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487), 1989, p. 30; Winship, 1986, pp. 48–49; Smyth, D. (2007). James Low, on Siamese Literature (1839). *Journal of the Siam Society*, 95, pp. 159–160. Retrieved from The Siam Society website; Low, J. (1828). *Grammar of the T,hai or Siamese Language*. Calcutta: Baptist Mission Press. Retrieved from HathiTrust website; Nida, E.A. (Ed.). (1972). *The book of a thousand tongues* (Rev. ed., p. 427). London: United Bible Societie. Retrieved from Internet Archive website. 
+[^9]: [Herbert & Milner](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487), 1989, p. 30; Winship, 1986, pp. 48–49; Smyth, D. (2007). James Low, on Siamese Literature (1839). *Journal of the Siam Society*, 95, pp. 159–160. Retrieved from The Siam Society website; Low, J. (1828). *A Grammar of the T,hai or Siamese Language*. Calcutta: Baptist Mission Press. Retrieved from HathiTrust website; Nida, E.A. (Ed.). (1972). *The book of a thousand tongues* (Rev. ed., p. 427). London: United Bible Societie. Retrieved from Internet Archive website. 
 [^10]: Byrd, C.K. (1970). *[Early printing in the Straits Settlements, 1806–1858](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4081984)* (pp. 13–16). Singapore: National Library. (Call no.: RSING 686.2095957 BYR); Su, C. (1996). *The printing presses of the London Missionary Society among the Chinese* (pp. 154–163) [Unpublished dissertation]. Retrieved from University College of London website; Church Missionary Society. (1825, January). *The Missionary Register*, 13, p. 46. London: L.B. Seeley & Son. Retrieved from HathiTrust website.
 [^11]: [Byrd](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081984), 1970, pp. 13–16; Su, 1996, pp. 154–163; Baptist General Convention. (June, 1840). *The Baptist Missionary Magazine*, 20, p. 144. Retrieved from HathiTrust website.
-[^12]: Igunma, J. (2014, June 2). *The beginnings of Thai book production: Thai books at the British Library*. Retrieved from The British Library website; British Library. (n.d.). *Catalogue of [Tract and sermon on the Mount (in Thai). Singapore: s.n., 1835]*. Retrieved from British Library catalogue; British Library. (n.d.). *Catalogue of [The Gospel by Matthew in Thai. Singapore: s.n., 1835]*. Retrieved from British Library catalogue; Columbia University Libraries. (n.d.) *Catalogue record of [St. Matthew’s gospel in Siamese / tr. by J. Taylor Jones and Charles Robinson]. [Singapore: s.n., 1835]*. Retrieved from Columbia University Libraries website; Nida, 1972, p. 427.
+[^12]: Igunma, J. (2014, June 2). *The beginnings of Thai book production: Thai books at the British Library*. Retrieved from The British Library website; The British Library. (n.d.). *Catalogue of [Tract and sermon on the Mount (in Thai). Singapore: s.n., 1835]*. Retrieved from The British Library catalogue; The British Library. (n.d.). *Catalogue of [The Gospel by Matthew in Thai. Singapore: s.n., 1835]*. Retrieved from The British Library catalogue; Columbia University Libraries. (n.d.) *Catalogue record of [St. Matthew’s gospel in Siamese / tr. by J. Taylor Jones and Charles Robinson]. [Singapore: s.n., 1835]*. Retrieved from Columbia University Libraries website; Nida, 1972, p. 427.
 [^13]: Winship. 1986, pp. 49–51; Bradley, D.C. (1861). *Bangkok calendar for the year of our Lord 1861* (p. 82). Bangkok: American Missionary Association. Retrieved from HathiTrust website; Bradley, D.C. (1869). *Bangkok calendar for the year of our Lord 1869* (p. 65). Bangkok: American Missionary Association. Retrieved from Google Books website; American Tract Society. (1836). *Eleventh annual report of the American Tract Society* (p. 89). New York: Society’s House. Retrieved from HathiTrust website.
 [^14]: Mattani, M.R. (1988). *[Modern Thai literature: The process of modernization and the transformation of values](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5376383)* (pp. 7–9). Bangkok: Thammasat University. (Call no.: RDET 895.91308 MAT); Winship, 1986, pp. 51–54.
 [^15]: Winship, 1986, p. 51.
