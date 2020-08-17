@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 
         subtitle:
-        background: /images/Vol-16-issue-2/Main Bannerr.jpg
+        background: /images/Vol-16-issue-2/main banner/Main Banner2_Center.jpg
         button:
         url:
         key_highlights:
