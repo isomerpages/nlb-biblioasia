@@ -9,40 +9,48 @@ sections:
     - hero:
         title: 
         subtitle:
-        background: /images/Main_Banner.jpg
+        background: /images/Vol-16-issue-2/Main Banner2.jpg
         button:
         url:
         key_highlights:
-            - title: "Read <b>BiblioAsia Apr-Jun 2020</b>"
+            - title: "Read <b>BiblioAsia Jul-Sep 2020</b>"
               description:
-              url: /vol-16/issue-1/apr-jun-2020/
+              url: /vol-16/issue-2/jul-sep-2020/
 
     - infopic:
-        title: Mad Dogs and Englishmen
+        title: Stamford Raffles and the Two French Naturalists
         subtitle: Highlights
-        description: Panic swept through Singapore in 1889 following a serious outbreak of rabies on the island. Stray dogs were intially blamed but the real culprits were purebreds imported from England a few years before. Find out how the authorities contained the disease in this issue's cover story.
+        description: Two young French naturalists were hired by Stamford Raffles starting December 1818. They worked for him for a little over a year and were with him when he paid his first visit to Singapore.
         button: Read this article
-        url: /vol-16/issue-1/apr-jun-2020/mad-dogs
-        image: /images/Vol-16-issue-1/mad-dogs/lady-with-dog.jpg
-        alt: Sample of a Mad Dog
+        url: /vol-16/issue-2/jul-sep-2020/raffles
+        image: /images/Vol-16-issue-2/raffles/stork.jpg
+        alt: Sample of raffles
         
     - infopic:
-        title: Malay Seals from Singapore
+        title: Cholera in 19th-century Singapore
         subtitle: Highlights
-        description: A careful study of the intricate designs of 19th-century Malay seals and the imprints they leave behind can reveal a surprising amount of information.
+        description: The colony experienced its first cholera outbreak in 1841 and several epidemics in the decades thereafter. We examine how the battle against this deadly illness was won.
         button: Read this article
-        url: /vol-16/issue-1/apr-jun-2020/malay-seals
-        image: /images/Vol-16-issue-1//malay-seals/silver-seal.jpg
-        alt: Sample of the Malay Seal
+        url: /vol-16/issue-2/jul-sep-2020/cholera
+        image: /images/Vol-16-issue-2/cholera/migrantshighlights.jpg
+        alt: sample of cholera
     
     - infopic:
-        title: History Through Postcards
+        title: "Sang Nila Utama: Separating Myth from Reality"
         subtitle: Highlights
-        description: One postcard may not say much but a collection of postcards can speak volumes. A new book published by the National Library, Postcard Impressions of Early 20th-Century Singapore, features postcards from the Lim Shao Bin Collection. Find out what they have to say.
+        description: The Malay prince who founded Singapura in the 13th-century is a controversial figure who helped established the legitimacy of the Melaka Sultanate.
         button: Read this article
-        url: /vol-16/issue-1/apr-jun-2020/history-through-postcards
-        image: /images/Vol-16-issue-1/postcards/rochor_river.png
-        alt: Sample of the Postcard       
-      
+        url: /vol-16/issue-2/jul-sep-2020/sangnila
+        image: /images/Vol-16-issue-2/sangnila/royalresidence.jpg
+        alt: sample of sang nila utama
+        
+    - infopic:
+        title: We want to hear from you!
+        subtitle:
+        description: Tell us what you like reading on <i>BiblioAsia</i>. Take part in our readership survey.
+        button: Take the survey
+        url: https://efm.jusfeedback.com/Community/se/705E3ED92204BF70
+        image: /images/Vol-16-issue-2/surveyplaceholder.jpg
+        alt: sample of survey
 ---
 
