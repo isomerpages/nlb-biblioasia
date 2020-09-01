@@ -145,38 +145,38 @@ Blythe, W.L. (1951). *[Colony of Singapore Annual Report 1950](https://eservice.
 
 Braddell, T. (1854). Gambling and opium smoking in the Straits of Malacca. *Journal of the Indian Archipelago and Eastern Asia, 8*, 74–75. (Microfilm no.: NL25796) 
 
-Buckley, C.B. (1984). *[An Anecdotal History of Old Times in Singapore: From the foundation of the settlement... on February 6th, 1819 to the transfer to the Colonial Office... on April 1st, 1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)*.  Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore: From the foundation of the settlement ... on February 6th, 1819 to the transfer to the Colonial Office ... on April 1st, 1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)*.  Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
 
 Dobree, C.T. (1955). *[Gambling games of Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1011405)*. Kuala Lumpur: Caxton Press with permission of the Government of the Federation of Malaya. (Call no.: RCLOS 759 DOB)
 
 Hare, G.T. (1898, July). The game of chap-ji-ki. *Journal of the Straits Branch of the Royal Asiatic Society, 31*, 63–71, p. 48. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (1991). *[One Hundred Years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE) 
+Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (1991). *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE) 
 
 [Multi-million dollar chap-ji-kee racket](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730227-1.2.54.2). (1973, February 27). *New Nation*, p. 7. Retrieved from NewspaperSG.
 
-Regulation, No. IV of 1823. A regulation prohibiting gaming-houses and cockpits, and for suppressing the vice of gaming at Singapore. (1824). *[Singapore Local Laws and Institutions, 1823](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981135)*. London: Printed by Cox and Baylis. (Call no.: RCLOS 348.595702 SIN) 
+Regulation, No. IV of 1823. A regulation prohibiting gaming-houses and cockpits, and for suppressing the vice of gaming at Singapore. (1824). *[Singapore local laws and institutions, 1823](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981135)*. London: Printed by Cox and Baylis. (Call no.: RCLOS 348.595702 SIN)
 
-Sharp, I. & Stephens, J. (1998). *[Just a Little Flutter: The Singapore Pools story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9217611)*. Singapore: Singapore Pools. (Call no.: RSING 336.1095957 SHA) 
+Sharp, I. & Stephens, J. (1998). *[Just a little flutter: The Singapore pools story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9217611)*. Singapore: Singapore Pools. (Call no.: RSING 336.1095957 SHA) 
 
-Singapore. Parliament. *[Parliamentary Debates: Official Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1977, February 23). Debate on President’s Address (Vol. 36, col. 433). Singapore: Govt. Printer. (Call no.: RSING 328.5957 SIN)
+Singapore. Parliament. *[Parliamentary debates: Official report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1977, February 23). Debate on President’s Address (Vol. 36, col. 433). Singapore: Govt. Printer. (Call no.: RSING 328.5957 SIN)
 
-Song, O.S. (1984). *[One Hundred Years' History of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
+Song, O.S. (1984). *[One hundred years' history of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
 
 Turnbull, C.M. (1972). *[The Straits Settlements, 1826–67: Indian presidency to crown colony](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4132712)*. London: Athlone Press. (Call no.: RSING 959.57 TUR)
 
-Turnbull, C.M. (2009). *[A History of Modern Singapore, 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200096792)*. Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
+Turnbull, C.M. (2009). *[A history of modern Singapore, 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200096792)*. Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
 
-Vaughan, J.D. (1879). *[The Manners and Customs of the Chinese of the Straits Settlements](https://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx?s=The%20Manners%20and%20Customs%20of%20the%20Chinese%20of%20the%20Straits%20Settlements)*. Singapore: Mission Press. Retrieved from BookSG.
+Vaughan, J.D. (1879). *[The manners and customs of the Chinese of the Straits Settlements](https://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx?s=The%20Manners%20and%20Customs%20of%20the%20Chinese%20of%20the%20Straits%20Settlements)*. Singapore: Mission Press. Retrieved from BookSG.
 
-Warren, J.F. (2003). *[Rickshaw coolie: A People's History of Singapore, 1880–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063)*. Singapore: Singapore University Press. (Call no.: RSING 338.341 WAR) 
+Warren, J.F. (2003). *[Rickshaw coolie: A people's history of Singapore, 1880–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063)*. Singapore: Singapore University Press. (Call no.: RSING 338.341 WAR) 
 
-Yen, C, (1990, April). Gambling in the Chinese community in Singapore and Malaya 1792–1911. *Asian Culture*, 14, 47–56. (Not available in NLB holdings)
+Yen, C.H. (1990, April). Gambling in the Chinese community in Singapore and Malaya, 1792–1911. Asian Culture, (14), 47–56. 
 
 
 #### NOTES
-[^1]: Singapore. Parliament. *[Parliamentary Debates Singapore Official Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1977, February 23). Debate on President’s Address (Vol. 36, col. 433). Singapore: Govt. Printer. Call no.: RSING 328.5957 SIN
-[^2]: A tax-farming system introduced by William Farquhar in which monopoly rights were auctioned off to sell opium and spirits, and to run gambling dens. See Turnbull, C. M. (2009). *[A History of Modern Singapore 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200096792)* (p. 35). Singapore: NUS Press. Call no.: RSING 959.57 TUR-[HIS] 
+[^1]: Singapore. Parliament. *[Parliamentary debates: Official report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1977, February 23). Debate on President’s Address (Vol. 36, col. 433). Singapore: Govt. Printer. (Call no.: RSING 328.5957 SIN)
+[^2]: A tax-farming system introduced by William Farquhar in which monopoly rights were auctioned off to sell opium and spirits, and to run gambling dens. See Turnbull, C.M. (2009). *[A history of modern Singapore 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200096792)* (p. 35). Singapore: NUS Press. (Call no.: RCLOS 959.57 TUR)  
 [^3]: Hare, G.T. (1898, July). The game of chap-ji-ki. *Journal of the Straits Branch of the Royal Asiatic Society, 31*, 63–71, p. 48. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^4]: The term Peranakan or Straits Chinese generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as babas while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (2013, 26 August). *[Peranakan (Straits Chinese) community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html)* written by Koh, Jaime. Retrieved from Singapore Infopedia.
 [^5]: [Multi-million dollar chap-ji-kee racket](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730227-1.2.54.2). (1973, February 27). *New Nation*, p. 7. Retrieved from NewspaperSG.
