@@ -7,7 +7,7 @@ third_nav_title: Director's Note
 
 Singapore’s transformation from a sleepy backwater to a global metropolis in 50 years is a remarkable feat. As we celebrate our Golden Jubilee this year, it’s time to take stock of where we are and reflect on where we came from.
 
-Singapore is one of the safest countries in the world today. But it was a very different picture in the 19th and early 20th centuries, and right up to the pre-independence period when people were constantly exposed to riots, unrest and all sorts of vices imaginable. This issue of BiblioAsia, based on the theme “Crime, Vice & Punishment”, uncovers the seedy and less glamorous side of early Singapore.
+Singapore is one of the safest countries in the world today. But it was a very different picture in the 19th and early 20th centuries, and right up to the pre-independence period when people were constantly exposed to riots, unrest and all sorts of vices imaginable. This issue of *BiblioAsia*, based on the theme “Crime, Vice & Punishment”, uncovers the seedy and less glamorous side of early Singapore.
 
 The Chinatown of yesteryear was a hotbed of crime, gambling, prostitution and myriad illegal activities, with powerful Chinese secret societies like the Ghee Hin and Ghee Hok pulling the strings. Newly arrived and penniless Chinese migrants were subject to the mercy of these ruthless triads. Lim Tin Seng recounts Chinatown’s dark history in [“Coolies, Triads and Pimps”](https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/coolies).
 
