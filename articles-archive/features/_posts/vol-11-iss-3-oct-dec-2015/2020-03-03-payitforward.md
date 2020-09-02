@@ -28,7 +28,7 @@ In 2013, a small group of concerned Singaporeans came together to think of a way
 
 Just as beavers identify a problem and then work studiously to set it right, this group of far-sighted people realised that many valuable Tamil publications had disappeared from the public domain due to various reasons, including the death of an author, copies not being deposited at the National Library, and so on.
 
-The TDHP team realised that something has to be done to address this problem. The market for Tamil books in Singapore is not robust, and in fact, most of these books are not even available in local bookshops. While such books could be useful literary resources for schools, they are infrequently used due to their unavailability. Given these circumstances, the TDHP team realised that the best way forward was to digitise the books so that they would be made accessible not only to Singaporeans but also to interested readers from all over the world.
+The TDHP team realised that something had to be done to address this problem. The market for Tamil books in Singapore is not robust, and in fact, most of these books are not even available in local bookshops. While such books could be useful literary resources for schools, they are infrequently used due to their unavailability. Given these circumstances, the TDHP team realised that the best way forward was to digitise the books so that they would be made accessible not only to Singaporeans but also to interested readers from all over the world.
 
 As a first step, the team identified the following seven criteria to select books for the digitisation project:
 1. Written in Tamil;
@@ -71,7 +71,7 @@ In order to underscore this “common-man” approach, the TDHP team also made a
 #### **Launch and Future Plans**
 The project will benefit Tamil-language speakers from all walks of life, including students, teachers, authors, researchers and academics as well as laypeople, who can use the collection as a source for research, as social historical documents, as inspirations for their own creative works and in a multitude of other ways. Indeed, not only Singaporeans but people living in any corner of the world can now access valuable Tamil publications with a mere click of the mouse.
 
-More than a year and a half after its inception and many hours of painstaking work, the Tamil Digital Heritage Collection was launched on 22 August at the National Library Building. The occasion was graced by Deputy Prime Minister and Minister for Finance Tharman Shanmugaratnam, and by Minister S. Iswaran, the project’s patron. The evening’s entertainment was based entirely on content taken from the digitised collection and featured a unique showcase of music, dance, recitals and songs featuring talented artists from the Singaporean Tamil community.
+More than a year-and-a-half after its inception and many hours of painstaking work, the Tamil Digital Heritage Collection was launched on 22 August at the National Library Building. The occasion was graced by Deputy Prime Minister and Minister for Finance Tharman Shanmugaratnam, and by Minister S. Iswaran, the project’s patron. The evening’s entertainment was based entirely on content taken from the digitised collection and featured a unique showcase of music, dance, recitals and songs by talented artists from the Singaporean Tamil community.
 
 In his speech, Minister Tharman hoped that some of the digitised books could “be translated into our other languages so that our whole nation can benefit from the memories of a small community”. He added that Singapore’s policy of multiculturalism, which gives equal opportunities to all races, has meant that even minorities have felt their culture can be nurtured and developed.
 
@@ -87,9 +87,9 @@ Deputy Prime Minister Tharman Shanmugaratnam launching the Tamil Digital Heritag
 
 The TDHP has come to fruition through the handiwork of ordinary Singaporeans who have dedicated themselves to the task of preserving their linguistic heritage. They are truly the beavers of Singapore. An interesting fact about beavers is that they grow in size throughout their entire lives. The Singapore “beavers” behind the TDHP see their efforts as only the starting point of a project that will flourish through the generations and gradually include all genres of Tamil books, perhaps even books published before 1965.
 
-It is also envisaged that the project will serve to inspire communities to initiate similar projects in their own countries. It is not inconceivable that one day in the distant future a child will go online and research a school project on “Singapore in the 21st Century Through the Eyes of Singaporean Tamil Writers”. We hope that when that day comes, the body of Tamil literature deposited in the Tamil Digital Heritage Collection would have grown exponentially.
+It is also envisaged that the project will serve to inspire communities to initiate similar projects in their own countries. It is not inconceivable that one day in the distant future, a child will go online and research a school project on “Singapore in the 21st Century Through the Eyes of Singaporean Tamil Writers”. We hope that when that day comes, the body of Tamil literature deposited in the Tamil Digital Heritage Collection would have grown exponentially.
 
-To access the Tamil Digital Heritage Collection, visit NLB’s BookSG website at http://eresources.nlb.gov.sg/printheritage/browse/Tamil_Digital_Heritage_Collection.aspx
+Visit NLB’s BookSG website to access the [Tamil Digital Heritage Collection](http://eresources.nlb.gov.sg/printeritage/browse/Tamil_Digiral_Heritage_Collection.aspx).
 
 <div style="background-color: white;">
 <br/>
