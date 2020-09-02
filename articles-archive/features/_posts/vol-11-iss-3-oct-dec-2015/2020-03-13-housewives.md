@@ -171,7 +171,7 @@ Vaughan, J.D. (1879). *[The manners and customs of the Chinese of the Straits Se
 
 Warren, J.F. (2003). *[Rickshaw coolie: A people's history of Singapore, 1880–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063)*. Singapore: Singapore University Press. (Call no.: RSING 338.341 WAR) 
 
-Yen, C.H. (1990, April). Gambling in the Chinese community in Singapore and Malaya, 1792–1911. Asian Culture, (14), 47–56. 
+Yen, C.H. (1990, April). Gambling in the Chinese community in Singapore and Malaya, 1792–1911. *Asian Culture*, (14), 47–56. 
 
 
 #### NOTES
