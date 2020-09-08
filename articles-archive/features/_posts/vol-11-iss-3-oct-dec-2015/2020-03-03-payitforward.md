@@ -89,7 +89,7 @@ The TDHP has come to fruition through the handiwork of ordinary Singaporeans who
 
 It is also envisaged that the project will serve to inspire communities to initiate similar projects in their own countries. It is not inconceivable that one day in the distant future, a child will go online and research a school project on “Singapore in the 21st Century Through the Eyes of Singaporean Tamil Writers”. We hope that when that day comes, the body of Tamil literature deposited in the Tamil Digital Heritage Collection would have grown exponentially.
 
-Visit NLB’s BookSG website to access the [Tamil Digital Heritage Collection](http://eresources.nlb.gov.sg/printeritage/browse/Tamil_Digiral_Heritage_Collection.aspx).
+Visit NLB’s BookSG website to access the [Tamil Digital Heritage Collection](http://eresources.nlb.gov.sg/printheritage/browse/Tamil_Digital_Heritage_Collection.aspx).
 
 <div style="background-color: white;">
 <br/>
