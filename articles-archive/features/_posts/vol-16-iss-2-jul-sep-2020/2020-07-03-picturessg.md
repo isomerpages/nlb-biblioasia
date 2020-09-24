@@ -40,7 +40,7 @@ harbour, off Collyer Quay. The Supreme Court building and Municipal Building can
 
 All these images capture scenes of Singapore that no longer exist. The Thian Hock Keng Temple photo dates to the 1890s, hence the rickshaws. These days, *kolek* no longer race in the waters off Collyer Quay on New Year’s Day. And while the National Theatre is certainly Instagram-worthy, that building was demolished in 1986.
 
-Photographs like these are why the National Library’s online PictureSG Collection is so valuable. Consisting of more than 35,000 digitised and “born-digital” (images originally shot in digital format) photographs, PictureSG allows anyone with an internet connection to explore Singapore’s history from the 19th century to modern times.
+Photographs like these are why the National Library’s online [PictureSG Collection](http://eresources.nlb.gov.sg/pictures) is so valuable. Consisting of more than 35,000 digitised and “born-digital” (images originally shot in digital format) photographs, PictureSG allows anyone with an internet connection to explore Singapore’s history from the 19th century to modern times.
 
 PictureSG exists because a key function of the National Library is to collect, preserve and make available the published and documentary heritage of the nation. To this end, the National Library has been acquiring, organising and digitising all manner of Singapore-related content, including monographs,[^1] newspapers,[^2] music recordings[^3] and photographs. Over the years, the library has created online platforms to facilitate the search and discovery of the library’s wide array of materials by format. For images and photographs, that platform is PictureSG.
 
