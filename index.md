@@ -13,9 +13,9 @@ sections:
         button:
         url:
         key_highlights:
-            - title: "Read BiblioAsia Oct-Dec 2020"
+            - title: "Read <b>BiblioAsia Jul-Sep 2020</b>"
               description:
-              url: /vol-16/issue-3/oct-dec-2020/
+              url: /vol-16/issue-2/jul-sep-2020/
 
     - infopic:
         title: "A Bite of History: Betel Chewing in Singapore"
