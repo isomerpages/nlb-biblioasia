@@ -24,7 +24,7 @@ sections:
         button: Read this article
         url: /vol-16/issue-3/oct-dec-2020/betel-chewing
         image: /images/Vol-16-issue-3/raffles/stork.jpg
-        alt: Sample of raffles
+        alt: Sample of betel-chewing
         
     - infopic:
         title: ""The Tiger” in Singapore: Georges Clemenceau’s Visit in 1920"
@@ -33,7 +33,7 @@ sections:
         button: Read this article
         url: /vol-16/issue-3/oct-dec-2020/tiger
         image: /images/Vol-16-issue-3/cholera/migrantshighlights.jpg
-        alt: sample of cholera
+        alt: sample of tiger
     
     - infopic:
         title: Planning to Build, Building to Plan
@@ -42,7 +42,7 @@ sections:
         button: Read this article
         url: /vol-16/issue-3/oct-dec-2020/building
         image: /images/Vol-16-issue-3/sangnila/royalresidence.jpg
-        alt: sample of sang nila utama
+        alt: sample of building
         
     - infopic:
         title: We want to hear from you!
