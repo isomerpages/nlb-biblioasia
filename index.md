@@ -27,7 +27,7 @@ sections:
         alt: Sample of raffles
         
     - infopic:
-        title: “The Tiger” in Singapore: Georges Clemenceau’s Visit in 1920
+        title: ""The Tiger” in Singapore: Georges Clemenceau’s Visit in 1920"
         subtitle: Highlights
         description: This year marks the 100th anniversary of the former French premier’s visit to Singapore. Lim Tin Seng has the details.
         button: Read this article
