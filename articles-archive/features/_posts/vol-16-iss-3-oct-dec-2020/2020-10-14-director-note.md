@@ -28,6 +28,6 @@ A somewhat larger structure inspired [Erni Salleh](/vol-16/issue-3/oct-dec-2020/
 
 Collecting materials that capture present-day events or culture is a way for the National Library to preserve a documentary heritage representative of Singapore. [Janice Loo’s](/vol-16/issue-3/oct-dec-2020/covid19) piece on the  COVID-19 documentation project explains how you can help future generations understand this extraordinary time. [Shereen Tay](/vol-16/issue-3/oct-dec-2020/website), on the other hand, provides an update on a different, but no less important, collection effort: web archiving.
 
-Also, don’t miss [Lee Meiyu’s](/vol-16/issue-3/oct-dec-2020/kim-mui) essay written in Chinese on the Kim Mui Hoey Kuan Collection and Wan Wee Pin’s review of the recently published book, The Year 1000.
+Also, don’t miss [Lee Meiyu’s](/vol-16/issue-3/oct-dec-2020/kim-mui) essay written in Chinese on the Kim Mui Hoey Kuan Collection and [Wan Wee Pin’s](/vol-16/issue-3/oct-dec-2020/book-review) review of the recently published book, The Year 1000.
 
-Finally, I would again like to invite everyone to take part in our readers’ survey(https://efm.jusfeedback.com/Community/se/705E3ED92204BF70). Please visit our website at biblioasia.nlb.gov.sg or use the QR link below to have your say. We want to make BiblioAsia better than ever, and your feedback is invaluable.
+Finally, I would again like to invite everyone to take part in our readers’ [survey](https://efm.jusfeedback.com/Community/se/705E3ED92204BF70). Please visit our website at biblioasia.nlb.gov.sg or use the QR link below to have your say. We want to make BiblioAsia better than ever, and your feedback is invaluable.
