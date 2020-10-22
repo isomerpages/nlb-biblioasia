@@ -1,9 +1,9 @@
 ---
-title: Stamford Raffles and the Two French Naturalists
-permalink: /vol-16/issue-2/jul-sep-2020/raffles
-date: 2020-07-01T00:00:00.000Z
-breadcrumb: Stamford Raffles
-third_nav_title: Stamford Raffles and the Two French Naturalists
+title: The Sticky Problem of Opium Revenue
+permalink: /vol-16/issue-3/oct-dec-2020/opium-revenue
+date: 2020-10-01T00:00:00.000Z
+breadcrumb: Opium Revenue
+third_nav_title: The Sticky Problem of Opium Revenue
 ---
 
 <style>

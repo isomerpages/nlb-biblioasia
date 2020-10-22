@@ -1,9 +1,9 @@
 ---
-title: "The Plague Fighter: Dr Wu Lien-Teh and His Work"
-permalink: /vol-16/issue-2/jul-sep-2020/plague
-date: 2020-07-01T00:00:00.000Z
-breadcrumb: The Plague Fighter
-third_nav_title: "The Plague Fighter: Dr Wu Lien-Teh and His Work"
+title: The Borobudur, Mysterious Gold Plates and Singing Maps
+permalink: /vol-16/issue-3/oct-dec-2020/borobudur
+date: 2020-10-01T00:00:00.000Z
+breadcrumb: The Borobudur
+third_nav_title: The Borobudur, Mysterious Gold Plates and Singing Maps
 ---
 
 <style>

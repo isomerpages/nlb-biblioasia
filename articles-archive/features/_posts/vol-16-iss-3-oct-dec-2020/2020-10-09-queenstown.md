@@ -1,9 +1,9 @@
 ---
-title: Cholera in 19th-century Singapore
-permalink: /vol-16/issue-2/jul-sep-2020/cholera
-date: 2020-07-01T00:00:00.000Z
-breadcrumb: Cholera in 19th-century Singapore
-third_nav_title: Cholera in 19th-century Singapore
+title: Looking Back at Queenstown Library’s 50 Years
+permalink: /vol-16/issue-3/oct-dec-2020/queenstown
+date: 2020-10-01T00:00:00.000Z
+breadcrumb: Queenstown Library
+third_nav_title: Looking Back at Queenstown Library’s 50 Years
 ---
 
 <style>

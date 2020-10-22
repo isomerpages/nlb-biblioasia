@@ -1,9 +1,9 @@
 ---
-title: "The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World"
-permalink: /vol-16/issue-2/jul-sep-2020/medium
-date: 2020-07-01T00:00:00.000Z
-breadcrumb: The Chinese Spirit-Medium
-third_nav_title: "The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World"
+title: "Book Review: The Year 1000"
+permalink: /vol-16/issue-3/oct-dec-2020/book-review
+date: 2020-10-01T00:00:00.000Z
+breadcrumb: "Book Review: The Year 1000"
+third_nav_title: "Book Review: The Year 1000"
 ---
 
 <style>

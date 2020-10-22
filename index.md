@@ -31,7 +31,7 @@ sections:
         subtitle: Highlights
         description: This year marks the 100th anniversary of the former French premier’s visit to Singapore. Lim Tin Seng has the details.
         button: Read this article
-        url: /vol-16/issue-3/oct-dec-2020/cholera
+        url: /vol-16/issue-3/oct-dec-2020/tiger
         image: /images/Vol-16-issue-3/cholera/migrantshighlights.jpg
         alt: sample of cholera
     
@@ -40,7 +40,7 @@ sections:
         subtitle: Highlights
         description: The collection of building plans in the National Archives of Singapore is a treasure trove of information about the history of urban Singapore, says Yap Jo Lin.
         button: Read this article
-        url: /vol-16/issue-3/oct-dec-2020/sangnila
+        url: /vol-16/issue-3/oct-dec-2020/building
         image: /images/Vol-16-issue-3/sangnila/royalresidence.jpg
         alt: sample of sang nila utama
         
