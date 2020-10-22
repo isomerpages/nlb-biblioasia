@@ -4,8 +4,8 @@ favicon: /images/nlb-favicon.ico
 
 # Site colors
 colors:
-  primary-color: '#003974'
-  secondary-color: '#f68c47'
+  primary-color: '#006052'
+  secondary-color: '#c7932c'
   media-colors:
     - title: media-color-one
       color: '#49759a'
