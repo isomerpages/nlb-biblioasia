@@ -18,7 +18,7 @@ sections:
               url: /vol-16/issue-2/jul-sep-2020/
 
     - infopic:
-        title: "A Bite of History: Betel Chewing in Singapore"
+        title: A Bite of History: Betel Chewing in Singapore
         subtitle: Highlights
         description: Fiona Lim and Geoffrey Pakiam look at this time-honoured tradition – once a mainstay in Malay, Indian and Peranakan homes – that has since fallen out of fashion.
         button: Read this article
@@ -27,7 +27,7 @@ sections:
         alt: Sample of betel-chewing
         
     - infopic:
-        title: ""The Tiger” in Singapore: Georges Clemenceau’s Visit in 1920"
+        title: "The Tiger” in Singapore: Georges Clemenceau’s Visit in 1920
         subtitle: Highlights
         description: This year marks the 100th anniversary of the former French premier’s visit to Singapore. Lim Tin Seng has the details.
         button: Read this article
