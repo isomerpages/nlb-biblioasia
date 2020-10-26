@@ -207,8 +207,7 @@ Although most of the old flats in Margaret Drive have been torn down, with those
 [^33]: Ramchand, A., Devadoss, P.R, & Pan, S.L (2005). *The impact of ubiquitous computing technologies on business process change and management: The case of Singapore’s National Library Board* (pp. 139–152). In C. Sørenson, Y. Yoo, K., Lyytinen & J.I. DeGross. (Eds.), *Designing ubiquitous information evironments: Socio-technical issues and challenges*. IFIP – The International Federation for Information Processing Digital Library, vol. 185. Boston, M.A.: Springer. Retrieved from Springer website. 
 [^34]: Tan, 194, pp. 9, 22, 74, 102.
 [^35]: Personal interview with Goh Siew Han, 1 June 2020. 
-[^36]: Kwek, L.Y., & Lee, J. (2015). *My Queenstown heritage trail*
-(p. 7). Singapore: My Community. (Call no.: RSING 915.95704 KWE); Urban Redevelopment Authority, Singapore, 1994, p. 14; Tan, H.Y. (1996, May 1). Queenstown flats selected for en-bloc redevelopment. *The Straits Times*, p. 1; Hooi, A. (2005, December 30). 3 Queenstown blocks to be redeveloped. *The Straits Times*, p. 20. Retrieved from NewspaperSG.
+[^36]: Kwek, L.Y., & Lee, J. (2015). *My Queenstown heritage trail* (p. 7). Singapore: My Community. (Call no.: RSING 915.95704 KWE); Urban Redevelopment Authority, Singapore, 1994, p. 14; Tan, H.Y. (1996, May 1). Queenstown flats selected for en-bloc redevelopment. *The Straits Times*, p. 1; Hooi, A. (2005, December 30). 3 Queenstown blocks to be redeveloped. *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 [^37]: Personal interview with Goh Siew Han, 1 June 2020.
 [^38]: Saifulbahri Ismail. (2013, October 3). Three buildings in Queenstown to be conserved. *Today*, p. 32. Retrieved from NewspaperSG.
 [^39]: Personal interview with Von Tjong, 20 June 2020. 
