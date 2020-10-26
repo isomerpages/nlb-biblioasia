@@ -172,7 +172,7 @@ Although most of the old flats in Margaret Drive have been torn down, with those
 
 #### **NOTES**
 
-[^1]: Urban Redevelopment Authority (Singapore). (1994). *Queenstown planning area: Planning report 1994* (pp. 4, 8). Singapore: The Authority. (Call no.: RSING 711.4095957 SIN)
+[^1]: Urban Redevelopment Authority (Singapore). (1994). *Queenstown planning area: Planning report 1994*  (pp. 4, 8). Singapore: The Authority. (Call no.: RSING 711.4095957 SIN)
 [^2]: What’s in a name? (2005, August 9). The Straits Times, p. 114. Retrieved from NewspaperSG; National Library Board. (2014, April 8). *Queen Elizabeth II’s coronation celebrations in Singapore*. Retrieved from Singapore Infopedia website. 
 [^3]: Asad Latif. (2009). Lim Kim San: *A builder of Singapore* (pp. 60–61). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 363.585092 ASA)
 [^4]: National Library Board. (2020, April 30). *History of National Library Singapore*. Retrieved from National Library Board website; Seet, K.K. (1983). A place for the people (p. 18). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE); Lim, P.H. (2010, Aug). The history of an emerging multilingual public library system and the role of mobile libraries in post colonial Singapore, 1956–1991. *Malaysian Journal of Library & Information Science*, 15 (2), 85–108. Retrieved from University of Malaya website.
