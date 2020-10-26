@@ -31,7 +31,7 @@ Queenstown is Singapore’s first satellite town, and the prototype for the coun
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/queenstown/leekuanyew.jpg">
+<img src="/images/Vol-16-issue-3/queenstown/queenstown-leekuanyew.jpg">
 
 Prime Minister Lee Kuan Yew is taken on a tour of Queenstown Branch Library by Mrs Hedwig Anuar, Director of the National Library, during its official opening on 30 April 1970. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 
@@ -61,7 +61,7 @@ At the opening, Prime Minister Lee described Queenstown Branch Library as “a m
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/queenstown/queeingup.jpg">
+<img src="/images/Vol-16-issue-3/queenstown/queenstown-queeingup.jpg">
 
 Patrons queuing up for library services at Queenstown Branch Library, 1970s. The counter is manned by three teenagers. <i>PictureSG, National Library, Singapore</i>.
 
@@ -69,7 +69,7 @@ Patrons queuing up for library services at Queenstown Branch Library, 1970s. The
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/queenstown/reading.jpg">
+<img src="/images/Vol-16-issue-3/queenstown/queenstown-reading.jpg">
 
 The packed reading room of Queenstown Branch Library, 1970s. <i>PictureSG, National Library, Singapore</i>.
 
@@ -115,7 +115,7 @@ The newly formed National Library Board (NLB) aimed to “expand continuously th
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/queenstown/libstaffscanbarcode.jpg">
+<img src="/images/Vol-16-issue-3/queenstown/queenstown-libstaffscanbarcode.jpg">
 
 A patron watches as the library staff scans the barcode on his new library membership card, 1980s. <i>PictureSG, National Library, Singapore</i>.
 
@@ -142,7 +142,7 @@ The library continues to support the community, which includes students from two
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/queenstown/halloweenstorytelling.jpg">
+<img src="/images/Vol-16-issue-3/queenstown/queenstown-halloweenstorytelling.jpg">
 
 A library officer at Queenstown Public Library conducting a storytelling session, 2017. Such programmes are usually very well received by the public. <i>Photo by Paddy Jonathan Ong</i>.
 
@@ -152,7 +152,7 @@ Initiatives to reinvent the library to keep up with the changing needs of librar
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/queenstown/publiclib2020.jpg">
+<img src="/images/Vol-16-issue-3/queenstown/queenstown-publiclib2020.jpg">
 
 An exterior view of Queenstown Public Library, 2020. The bow-tie canopies and lattices on the facade have not changed since the library opened in 1970. <i>Photo by Paddy Jonathan Ong</i>.
 
