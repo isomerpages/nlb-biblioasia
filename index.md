@@ -9,40 +9,39 @@ sections:
         - hero:
         title: 
         subtitle:
-        background: /images/Vol-16-issue-2/Main Bannerr.jpg
-        background: /images/Vol-16-issue-2/Main Banner2.jpg
+        background: /images/Vol-16-issue-3/Main Banner2.jpg
         button:
         url:
         key_highlights:
-            - title: "Read <b>BiblioAsia Jul-Sep 2020</b>"
+            - title: "Read BiblioAsia Oct-Dec 2020"
               description:
-              url: /vol-16/issue-2/jul-sep-2020/
+              url: /vol-16/issue-3/oct-dec-2020/
     - infopic:
-        title: Stamford Raffles and the Two French Naturalists
+        title: "A Bite of History: Betel Chewing in Singapore"
         subtitle: Highlights
-        description: Two young French naturalists were hired by Stamford Raffles starting December 1818. They worked for him for a little over a year and were with him when he paid his first visit to Singapore.
+        description: Fiona Lim and Geoffrey Pakiam look at this time-honoured tradition – once a mainstay in Malay, Indian and Peranakan homes – that has since fallen out of fashion.
         button: Read this article
-        url: /vol-16/issue-2/jul-sep-2020/raffles
-        image: /images/Vol-16-issue-2/raffles/stork.jpg
-        alt: Sample of raffles
+        url: /vol-16/issue-3/oct-dec-2020/betel-chewing
+        image: /images/Vol-16-issue-3/betel/straitschinesebetelset.png
+        alt: Sample of betel
         
     - infopic:
-        title: Cholera in 19th-century Singapore
+        title: "The Tiger in Singapore: Georges Clemenceau’s Visit in 1920"
         subtitle: Highlights
-        description: The colony experienced its first cholera outbreak in 1841 and several epidemics in the decades thereafter. We examine how the battle against this deadly illness was won.
+        description: This year marks the 100th anniversary of the former French premier’s visit to Singapore. Lim Tin Seng has the details.
         button: Read this article
-        url: /vol-16/issue-2/jul-sep-2020/cholera
-        image: /images/Vol-16-issue-2/cholera/migrantshighlights.jpg
-        alt: sample of cholera
+        url: /vol-16/issue-3/oct-dec-2020/tiger
+        image: /images/Vol-16-issue-3/tiger/georgesclemenceau-withlimboonkeng.jpg
+        alt: sample of tiger
     
     - infopic:
-        title: "Sang Nila Utama: Separating Myth from Reality"
+        title: Planning to Build, Building to Plan
         subtitle: Highlights
-        description: The Malay prince who founded Singapura in the 13th-century is a controversial figure who helped established the legitimacy of the Melaka Sultanate.
+        description: The collection of building plans in the National Archives of Singapore is a treasure trove of information about the history of urban Singapore, says Yap Jo Lin.
         button: Read this article
-        url: /vol-16/issue-2/jul-sep-2020/sangnila
-        image: /images/Vol-16-issue-2/sangnila/royalresidence.jpg
-        alt: sample of sang nila utama
+        url: /vol-16/issue-3/oct-dec-2020/building
+        image: /images/Vol-16-issue-3/building/planningbuilding-buildingsplan.jpg
+        alt: sample of building
         
     - infopic:
         title: We want to hear from you!
@@ -52,5 +51,5 @@ sections:
         url: https://efm.jusfeedback.com/Community/se/705E3ED92204BF70
         image: /images/Vol-16-issue-2/surveyplaceholder.jpg
         alt: sample of survey
-​---
+---
 ---
