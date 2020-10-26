@@ -21,7 +21,7 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/queenstown/libopening.jpg">
+<img src="/images/Vol-16-issue-3/queenstown/queenstown-libopening.jpg">
 
 </div>
 
@@ -33,7 +33,7 @@ Queenstown is Singapore’s first satellite town, and the prototype for the coun
 <br/>
 <img src="/images/Vol-16-issue-3/queenstown/leekuanyew.jpg">
 
-*(Below)* Prime Minister Lee Kuan Yew is taken on a tour of Queenstown Branch Library by Mrs Hedwig Anuar, Director of the National Library, during its official opening on 30 April 1970. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
+Prime Minister Lee Kuan Yew is taken on a tour of Queenstown Branch Library by Mrs Hedwig Anuar, Director of the National Library, during its official opening on 30 April 1970. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 
 </div>
 
@@ -63,7 +63,7 @@ At the opening, Prime Minister Lee described Queenstown Branch Library as “a m
 <br/>
 <img src="/images/Vol-16-issue-3/queenstown/queeingup.jpg">
 
-<b>(Below)</b> Patrons queuing up for library services at Queenstown Branch Library, 1970s. The counter is manned by three teenagers. <i>PictureSG, National Library, Singapore</i>.
+Patrons queuing up for library services at Queenstown Branch Library, 1970s. The counter is manned by three teenagers. <i>PictureSG, National Library, Singapore</i>.
 
 </div>
 
@@ -71,7 +71,7 @@ At the opening, Prime Minister Lee described Queenstown Branch Library as “a m
 <br/>
 <img src="/images/Vol-16-issue-3/queenstown/reading.jpg">
 
-<b>(Bottom)</b> The packed reading room of Queenstown Branch Library, 1970s. <i>PictureSG, National Library, Singapore</i>.
+The packed reading room of Queenstown Branch Library, 1970s. <i>PictureSG, National Library, Singapore</i>.
 
 </div>
 
@@ -111,7 +111,7 @@ One of the biggest upgrades was not made to the physical infrastructure though. 
 
 The 1990s saw a big change to the role of libraries in Singapore. In June 1992, the Library 2000 Review Committee headed by Tan Chin Nam, Chairman of the National Computer Board and Managing Director of the Economic Development Board, was convened to review the public library system in Singapore. To lead public libraries into the information age, the National Library became a statutory board on 1 September 1995 with Tan as its first chairman and Christopher Chia as the first chief executive.
 
-The newly formed National Library Board (NLB) aimed to “expand continuously the nation’s capacity to learn” and to “educate [the] people to maximum potential throughout life”.[^31] This marked a new era for library services in Singapore and as part of that, all branch libraries were renamed community libraries. Queenstown Branch Library became known as Queenstown Community Library (all community libraries were later renamed public libraries). 
+The newly formed National Library Board (NLB) aimed to “expand continuously the nation’s capacity to learn” and to “educate [the] people to maximum potential throughout life”.[^31] This marked a new era for library services in Singapore and as part of that, all branch libraries were renamed community libraries. Queenstown Branch Library became known as Queenstown Community Library (all community libraries were later renamed public  libraries). 
 
 <div style="background-color: white;">
 <br/>
