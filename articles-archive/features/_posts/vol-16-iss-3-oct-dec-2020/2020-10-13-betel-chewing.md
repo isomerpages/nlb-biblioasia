@@ -1,211 +1,243 @@
 ---
 title: "A Bite of History: Betel Chewing in Singapore"
-permalink: /vol-16/issue-3/oct-dec-2020/betel-chewing
-date: 2020-10-01T00:00:00.000Z
-breadcrumb: Betel Chewing
-third_nav_title: "A Bite of History: Betel Chewing in Singapore"
+permalink: /vol-16/issue-2/jul-sep-2020/cholera
+date: 2020-07-01T00:00:00.000Z
+breadcrumb: Betel Chewing in Singapore
+third_nav_title: Betel Chewing in Singapore
+
 ---
 
 <style>
 table { 
-	background-color: #d6dae9;
+	background-color: #ffe19c;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #d6dae9
+  background: #ffe19c;
 }
 </style>
 
-#### **Danièle Weiler** uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
+
+#### **Fiona Lim** and **Geoffrey Pakiam** look at this time-honoured tradition – once a mainstay in Malay, Indian and Peranakan homes – that has since fallen out of fashion.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/stork.jpg">
+<img src="/images/Vol-16-issue-3/betel/betelchewinginsingapore.jpg">
 
-The lesser adjutant stork, or <i>Leptoptilos javanicus</i> (Horsfield, 1821), is a large wading bird found in wetland habitats in India and Southeast Asia. <i>Image reproduced from Figures peintes d’oiseaux [et de reptiles], envoyées de l’Inde par Duvaucel et Diard (Painted depictions of birds [and reptiles], sent from India by Duvaucel and Diard). Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s BookSG portal from August 2020</i>.
+A <i>sirih seller</i>, Indonesia, late 19th–early 20th centuries. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i>
 
 </div>
 
-Stamford Raffles is probably best known as the East India Company (EIC) official who set up a trading post in Singapore that became part of the British Empire. However, a lesser-known fact about Raffles is that he was fascinated by the natural world. As a colonial administrator in Southeast Asia, he hired zoologists, botanists and naturalists to collect specimens and conduct research on his behalf. 
+Betel chewing has been practised for thousands of years in Asia. Across Southeast Asia, betel chewing (*makan sirih*[ˆ1] in Malay) was once a social necessity. The practice was also deeply embedded in Indian and Peranakan communities. However, the rich symbolism in the various elements of betel chewing, as well as the important social and cultural functions that it once served, has often been overshadowed by the visual spectacle of the betel chewers, with their black-stained teeth, crimson lips, scarlet saliva and proclivity for spitting. 
 
-Among the people Raffles hired were two young French naturalists – Alfred Duvaucel and Pierre Médard Diard. Interestingly, they were also on board the *Indiana* in January 1819 when Raffles and William Farquhar made landfall in Singapore and met Temenggung Abdul Rahman. Raffles went on to sign an interim agreement with the Temenggung before inking a treaty with Sultan Husain Shah and the Temenggung on 6 February, allowing the EIC to set up a trading post on the island. 
-
-As the two men were with Raffles at the time, they offer a unique account of the meeting between Raffles and the Malay court officials in Singapore:
-
-“On reaching the harbour, the governor received the visit of three of the king’s aides-de-camp. These officers were not like our young men – tight-lipped, musk-scented and richly dressed – their black heads were shaven and covered with a dark-coloured turban; a large waistcoat hid their oiled, burnt, peeling and stooped backs. On their left side they carried a large *kris* or dagger and were bare-legged. These three Malays seemed delighted to see us, as if we had come for their benefit. The English were trying to find out what advantage might be gained by taking possession of their island; we, who were less concerned about this, questioned them about the animals that lived there. Who do you think these poor people listened to most willingly? They respond eagerly to the demands of their allies, and shrugged their shoulders listening to ours.”[^1]
+In Singapore, betel chewing has all but died out among its people today, and the practice is now sustained largely by migrants and visitors from regions where chewing betel remains widespread.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/pierre.jpg">
+<img src="/images/Vol-16-issue-3/betel/betelleaf.jpg">
 
-(Left) Pierre Médard Diard in the uniform of the Garde d’Honneur, which would date this portrait to between 1813 and 1814. He was around 19 years old at the time. Note: no image of Alfred Duvaucel appears to exist. <i>Image reproduced from Peysonnaux, J.H. (1935). Vie voyages et travaux de Pierre Médard Diard. Naturaliste Français aux Indes Orientales (1794–1863). Voyage dans l’Indochine (1821–1824) (plate 2). Bulletin des amis du vieux Hué</i>. (Right) The great French anatomist and zoologist George Cuvier, also known as Jean Léopold Nicolas Frédéric, Baron Cuvier (1769–1832). Line engraving by A.J. Chollet after Lizinka de Mirbel and Giraud. Cuvier was also the stepfather of Alfred Duvaucel. <i>Image from Wellcome Collection. Attribution 4.0 International (CC BY 4.0)</i>.
+The basic elements of the betel quid: the betel leaf <i>(sirih)</i>, pieces of areca nut <i>(pinang)</i> and a smear of slaked lime <i>(kapor or chunam)</i>, a white paste made from the powdered shells of molluscs or coral. <i>Photo from Shutterstock.</i>
 
 </div>
 
-Diard and Duvaucel would have better luck later on, amassing a large collection of specimens, both while travelling with Raffles, as well as around Bencoolen (now Bengkulu) where Raffles was the Lieutenant-Governor at the time.
+#### **A Millennia-old Asian Habit**
 
-Unfortunately for the duo, their association with Raffles only lasted until March 1820 when their services were terminated. To make things worse, there was a dispute over how the collection would be divided and the two Frenchmen ended up losing a significant part of it. Undaunted, and perhaps not entirely legally, they managed to retrieve more specimens than they were entitled to before parting company with Raffles.
+Fragments of containers from the 14th century that held lime (calcium carbonate) have been discovered in Singapore, attesting to the likelihood that betel chewing on the island dates from this period at least.[ˆ2] However, the quid has been part of Asia’s social and cultural landscape for much longer. One of the oldest known sources of evidence dates to around 2660 BCE: skeletal remains with stained teeth suggestive of betel chewing, as well as containers for storing lime, were discovered at a burial site in Duyong Cave on the island of Palawan in southern Philippines.[ˆ3]
 
-#### **Diard and Duvaucel**
-Born in Paris in 1793, Alfred Duvaucel was the stepson of Georges Cuvier,[^2] a naturalist and zoologist sometimes known as the founding father of palaeontology. After a brief stint in the army, Duvaucel decided to become a naturalist and in December 1817, he sailed to India, bearing the title of Naturalist to King Louis XVIII of France. He arrived in Calcutta (now Kolkata) at the end of May 1818.
+Historian Anthony Reid points out the wide-ranging indigenous terms for areca nut and betel used in the Indonesian Archipelago and the Philippines, suggesting that the betel quid originated from island Southeast Asia.[ˆ4] The areca palm itself  |* (Areca catechu)*|  may have a Malayan origin, judging by the sheer number of palm varieties recorded in the Malay Peninsula.[ˆ5]
 
-In Calcutta, Duvaucel met up with his friend Diard, who had arrived in the city a few months before. Diard, a year younger than Duvaucel, was interested in science and had studied medicine. In France, Diard had became acquainted with both Cuvier and his stepson Duvaucel. Diard had always been fascinated by the Far East and in 1817, he seized the opportunity to travel to India to settle inheritance matters on behalf of a family. He left Bordeaux on 20 August and arrived in Calcutta on 5 January 1818.
-
-Both men got along well. In a letter to his mother, Duvaucel wrote: “(O)f all the pleasures I have experienced here, the most pleasant is to have met poor old Diard, whom I have embraced as a brother, and who is as constantly by my side as my own shadow, and with whom I am determined to live and work for two or three years.”[^3]
-
-The pair, who were in their mid-20s, soon left Calcutta for the French trading post of Chandernagor (now Chandannagar), about 50 km north. There, they began collecting animals to be stuffed or drawn. They frequently sent animal skeletons, drawings and mineralogical specimens back to the Muséum National d’Histoire Naturelle (National Musuem of Natural History) in Paris where Cuvier, Duvaucel’s stepfather, was assistant professor to the Chair of Animal Anatomy.
-
-Diard and Duvaucel came to Raffles’ notice when he visited Calcutta – the EIC’s Asian headquarters – in late 1818. Raffles persuaded the two Frenchmen to collect specimens for him at his base in Bencoolen.[^4] In turn, the EIC would pay them an allowance to help defray expenses. Raffles also agreed that the collections and findings of the research would be shared equally among the three of them.[^5]
-
-Although there was no written agreement, Diard and Duvaucel accepted Raffles’ offer. They were short of funds and realised that they would not be able to continue working on their own for much longer. They trusted Raffles, who appeared to benefit from unlimited funds from the EIC. The only condition stipulated by the two Frenchmen, which Raffles agreed to, was that they could freely dispose of duplicate specimens and publish their observations in Calcutta, France or England as they chose.
-
-#### **To Penang, Singapore and Melaka**
-Accompanied by Diard and Duvaucel, Raffles and his entourage left Calcutta for Penang on 7 December 1818. The journey began well and even before reaching Penang, Diard and Duvaucel managed to capture a dugong, which they sketched, dissected and described. (Their notes and drawings were later published in 1824.[^6])
+The archaeological and linguistic records found in southern India strongly suggest that the areca palm and betel vine *(Piper betle)*  came from Southeast Asia, probably from the second millennium BCE onwards.[ˆ6] Through centuries of maritime trade and migration, betel chewing and its accompanyig botanical material spread throughout Southeast Asia to the western Pacific, across the Indian subcontinent and even reaching as far as the fringes of East Africa.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/Dugong.jpg">
-
-Dugong specimens obtained by Pierre Médard Diard and Alfred Duvaucel were sent by Stamford Raffles to British surgeon Everard Home in London. Based on the specimens, Home published two papers in the <i>Philosophical Transactions of the Royal Society of London</i>, which included these drawings. (Top) <i>Image reproduced from Home, E. (1820, January 1). XX: Particulars respecting the anatomy of the dugong, intended as a supplement to Sir T.S. Raffles’ account of that animal. Philosophical Transactions of the Royal Society of London, vol. 110, pp. 315–323</i>. (Bottom) <i>Image reproduced from Home, E. (1821, January 1). XVII: An account of the skeletons of the dugong, two-horned rhinoceros, and tapir of Sumatra, sent to England by Sir Thomas Stamford Raffles, Governor of Bencoolen. Philosophical Transactions of the Royal Society of London, vol. 111, pp. 268–275. Retrieved from The Royal Society Publishing website</i>.
-
+<img src="/images/Vol-16-issue-3/betel/twomensellingbetel.jpg">
+A painting of two men selling betel quid by an Indian artist, c. 1800s. <i>Wellcome Collection. Attribution 4.0 International (CC BY 4.0).</i>
 </div>
 
-The group eventually arrived in Penang on 29 December 1818,[^7] and Diard and Duvaucel spent a few days on the island where they collected, among other animals, two species of fish and some rare birds.
 
-On 19 January 1819, Raffles sailed from Penang on the *Indiana*, accompanied by the schooner *Enterprise*. After failing to land in Carimon (the Karimun Islands), they headed for Singapore and anchored off St John’s Island in the morning of 28 January 1819. That afternoon, Raffles and his entourage landed at the mouth of the Singapore River where Raffles met Temenggung Abdul Rahman. And that is how the two French naturalists ended up witnessing the fateful meeting that would lead to a major shift in Singapore’s history.
+#### **A Parcel Like No Other**
 
-After the treaty was signed on 6 February 1819, Raffles left Singapore with the two naturalists and some of his men, leaving William Farquhar behind to manage the new settlement as its Resident. For the next five months, Raffles turned his attention to other matters in the region before returning to Bencoolen. One of the tasks he had been assigned by the EIC in Calcutta was to resolve a dynastic dispute in Aceh.
+While it is often referred to as betel chewing, strictly speaking, what is chewed is known as the betel quid. In its most basic form, the betel quid comprises three ingredients: betel leaf *(sirih)*, areca nut *(pinang)*  and slaked lime *(kapor or chunam)*, a paste made from the powdered shells of molluscs or coral. Slaked lime is first spread on the leaf before shavings or pieces of dried areca nut are laid on top. The leaf is then folded inwards to cover the contents, ready to be chewed. 
 
-Diard and Duvaucel accompanied Raffles to the northern tip of Sumatra where the naturalists attempted to collect specimens from the area. This, however, did not go so well as Duvaucel’s letter to the French Academy of Sciences, which Cuvier was a member of, reveals:
+Preparation techniques varied according to cultural and individual preferences. According to Gwee Thian Lye (better known as G.T. Lye), a well-known *dondang sayang*[ˆ7]  performer and consultant on Peranakan culture, two types of betel leaves were chewed in Singapore: one larger and dark green, the other smaller and light green. Peranakan Chinese ladies are said to have favoured the latter for making *sirih*, while the Indian and Malay communities mainly used the former.[ˆ8]
 
-“We stayed more than a month in this frightful country, without being able to penetrate the interior, nor procure most of the objects we had expected to collect there. The bad reputation of these people is justified every day by their conduct towards the Europeans, and Mr. Diard, convinced that the savages are only bad when they are mistreated, almost fell victim to this sense of false security which I have been fighting against for a long time: surrounded by two hundred Malays, with three of our servants he was able, it is true, to escape without injury, but he lost the fruit of his hunt, his weapons, and our luggage… Our stay at Achem, Padie, Tulosimawe has not greatly enriched our collections; a few plants, a few insects, a few birds, two or three snakes, four or five fish, and two deer are the only results of this arduous journey.”[^8]
+Many also considered gambier to be an essential ingredient and small pieces would be added alongside the areca nut slices. Later, tobacco became a popular addition and shreds of it might be folded together with the leaf. For a change of flavour, betel chewers sometimes rubbed a wad of tobacco against their teeth and gums after chewing betel.[ˆ9ˆ
 
-Diard and Duvaucel did manage to visit Melaka, then under the Dutch, where they had better luck than they did in Aceh. In his correspondence with the French Academy of Sciences, again Duvaucel wrote:
+Known as *vetrilai* (Tamil), *paan supari* (Hindi) or *tambula* (Sanskrit), the betel quid favoured by Tamils included finely ground spices such as cardamom, clove, nutmeg and mace for an extra dash of fragrance. The mix of spices is known as *paan masala* and each betel quid vendor *(paanwalla)* had his own unique mix. A clove might also be used to seal the betel package.
 
-“No sooner had we arrived in Melaka than the whole city was at our door: all we have ever traded in here is opium and pepper and they could not guess what we wanted to do with the monkeys and birds we buy; in two hours we were able to acquire a bear, an Argus Pheasant and some other birds. The Dutch Governor has a young Orang-utang, and I shall leave you now to pay him a not disinterested visit.”[^9]
+The English herbalist John Gerard first described the areca nut as the “drunken date” in 1597, due to its supposedly intoxicating effects when consumed together with slaked lime.[ˆ10] The common physiological effects of areca nut, similar to narcotics and stimulants, include a sense of well-being, heightened alertness, increased bodily warmth, improved digestion and better stamina.[ˆ11] The combination of lime and areca nut releases the latter’s alkaloids, particularly arecoline, producing a sedative effect. At the same time, arecoline affects the peripheral and central nervous systems of the body.[ˆ12] Chewing the quid also produces copious amounts of red saliva, leading to the habit of frequent spitting and even red stools.
 
-While Diard and Duvaucel were arguably the first European naturalists to visit Singapore, the island does not appear to figure highly as a location for collecting specimens. Singapore, however, is mentioned as a place where they captured and named the common treeshrew. In a paper published in 1822, they described the squirrel-like mammal as follows:
+The World Health Organization (WHO) estimates that some 600 million people around the world consume some form of areca nut today. The areca nut is classified as a carcinogen by the WHO, and studies have shown a correlation between betel chewing and cancer of the mouth and esophagus.[ˆ13]
 
-“During our stay in Pulo Penang and Singapore, on several occasions we killed a small quadruped in the woods which we took at first for a Squirrel but our examination of it soon led us to recognise that it belonged to the Insectivora family… it perfectly resembled a species of small squirrel that we meet at every step of the way in the woods of Singapore... we gave it the name Sorex Glis, which gives at one and the same time an idea of its outer appearance and true nature.”[^10]
+As with other widely consumed alkaloids like caffeine and theobromine (the latter is present in cocoa), the psychotropic effects of betel chewing vary between individuals and, perhaps more importantly, are heavily tempered by social context. Those accustomed to viewing betel chewing as a comforting and calming practice may feel calm and relaxed from chewing, while the habit may have the opposite effect on someone brought up to believe in betel chewing’s stimulating effects.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/treeshrew.jpg">
-
-Pierre Médard Diard and Alfred Duvaucel discussed catching the common treeshrew (<i>Sorex glis</i>) in Singapore and Penang in an article titled “Notice – Sur une nouvelle espèce de Sorex – Sorex Glis” published in <i>Asiatick Researches</i> (Volume XIV, 1822). Although the species was given its first scientific name by Diard in 1820, it was subsequently renamed as <i>Tupaia glis</i>. <i>Image reproduced from Pechuel-Loesch, E. (1890) Brehms Tierleben. Allgemeine Kunde des Tierreichs. Dritte, gänzlich neubearbeitete Auflage. Säugetiere – Zweiter Band. Leipzig: Bibliographisches Institut,. Retrieved from Biodiversity Heritage Library website</i>. 
-
+<img src="/images/Vol-16-issue-3/betel/peranakanwomanholdingbetelquid.jpg">
+Portrait of a Peranakan Chinese woman holding a betel quid by August Sachtler, Singapore, c. 1860s. On the table is a betel box. Collection of Mr and Mrs Lee Kip Lee. <i>Courtesy of Peter Lee.</i>
 </div>
 
-Eventually, Raffles completed the work he needed to do and on 28 June 1819, Diard and Duvaucel sailed with Raffles from Singapore for west Sumatra, arriving in Bencoolen about a month later. During the six months that they were with Raffles, their difficulties in Aceh notwithstanding, they had managed to amass a large collection of animals that filled half the ship.
 
-#### **The Fallout with Raffles**
-In Bencoolen, Diard and Duvaucel settled in Raffles’ country house and began their work hunting and collecting animals to study. However, this happy state was not to last as Raffles informed them that the EIC was going to stop paying them.
+#### **Our Daily Chew**
 
-This was actually the second major blow that Raffles delivered to the two naturalists. The first was when Raffles reneged on his verbal agreement made in December 1818 that the collection and the research findings would be equally shared among the three of them. On 7 March 1819, Raffles wrote to the Frenchmen, informing them that they would not actually own anything they had collected. His letter read:
+In Singapore and Malaya during the 19th and early 20th centuries, the betel quid was enjoyed by a broad swathe of society, often transcending class and gender. It was consumed throughout the day, especially after meals due to the quid’s digestive and breath-freshening qualities.[ˆ14] Although only a minority of Chinese migrants and Eurasians in Singapore appreciated the quid, many aristocrats, merchants and labourers in the Indian, Malay and Peranakan communities chewed betel regularly.[ˆ15]
 
-“Your researches to be confined to Sumatra and the smaller Islands in its immediate vicinity. The draftsmen, &c. engaged by you to be entertained at the charge of Government, who will also defray all incidental and necessary expenses to which you may be subjected in the prosecution of your researches, on condition that such researches are made for and on account of the Honourable The East India Company, and that your collections &c. are considered as their property. An estimate to be framed of your monthly expenses for such establishment, &c. in which a fixed sum will be paid to you to cover all charges of every description… With reference to your present establishment, and the expenses you must necessarily be subjected to, a fixed monthly allowance of five hundred ducats is considered adequate to cover all your disbursements…”[^11]
+Perhaps the most fundamental role of the betel quid was in promoting and strengthening social ties.[ˆ16] Betel chewing served as a social lubricant, like communal eating or drinking alcohol: 
 
-Losing the financial support of the EIC would be disastrous for them. In an effort to salvage the situation, Diard and Duvaucel exchanged a number of letters with Raffles in March 1820 attempting to present alternative proposals, but it was in vain. In a letter dated 15 March 1820, Raffles announced that he would terminate their services. That same day, he appointed a committee to seize the entire collection of objects, along with the descriptions, observations and drawings, from the two naturalists.
+“Over a chew of betel, they might cogi­tate over the day’s problems, or gossip with a neighbour or just sit and relax. Chewing betel is a leisurely business and cannot be hurried over.”[ˆ17“Over a chew of betel, they might cogi­tate over the day’s problems, or gossip with a neighbour or just sit and relax. Chewing betel is a leisurely business and cannot be hurried over.”[ˆ17ˆ]
 
-Raffles ordered that one of each item was to be sent to him, with the duplicate placed on the *Mary* to be shipped back to Europe and any surplus stored at Government House in Bencoolen. The committee was also instructed to compile a catalogue of all items. At the same time, Raffles informed Diard and Duvaucel of the new arrangement and requested that they provide assistance to the committee.[^12]
+During social and business gatherings, it was *de rigueur* to welcome guests, friends, colleagues and relatives with a tray of betel quid ingredients. According to Reid, “Everyday hospitality consisted in the sharing of betel, not food.”[ˆ18] Declining the quid was deemed as being disrespectful to the host, and those who did not chew would politely consume a betel leaf at least. The betel set was thus an indispensable part of Tamil, Malay and Straits Chinese homes.[ˆ19] For some, it was treated like a sacred object that had to be respected. In Straits Chinese homes, placing a betel box on the floor instead of a table when one was seated on a chair was widely believed to invite bad luck.[ˆ20]
 
-In a subsequent about-turn, Raffles agreed that Diard and Duvaucel could keep some specimens provided there were spares available. This was on condition that the specimens taken did not arrive in France before those sent to England were received and noticed.[^13]
+As in much of the Malay world, betel chewing in Singapore tended to have feminine overtones. According to a 1951 *Singapore Free Press* article, among ethnic Indians it was mostly women who “chewed a lot”, and the typical image of a Tamil grandmother in the 1950s was of her “sitting with her legs stretched out at ease and pounding away her chew of betel in her little mortar”.[ˆ21] Even well into the 1980s, Peranakan Chinese bibik[ˆ22] were popularly portrayed as deftly folding sirih during card games such as cherki.[ˆ23] *The Malaya Tribune* reported in 1949 that many Peranakan Chinese women (known as *nonya*) were so attached to their chews that “wherever the *nonya* goes, the sireh set is sure to go”.[ˆ24] Peranakan Chinese men *(baba)* who indulged in betel chewing were said to be quite rare, and those who did were perceived to be effeminate.[ˆ25]
 
-Diard and Duvaucel felt that this was still not good enough. On account of their good relations with the English in Bencoolen, the two naturalists managed to secretly obtain additional specimens which they hid in their luggage, replacing the contents of some crates with rags.[^14] The specimens arrived safely in France and were received by the Muséum National d’Histoire Naturelle, some of which are on display at the institution today.
+However, many men were known to be habitual chewers. Indian labourers sharing areca nuts, betel leaves and lime with one another were once a common sight.[ˆ26] For them, betel chewing was perhaps a means to stave off hunger and be more alert. Manual workers were said to derive energy from chewing betel during their long hours of work.[ˆ27] The betel quid was also believed to be particularly useful for those embarking on a long journey, such as Muslims performing the Haj, as it helped tide them over periods of hunger and fatigue.[ˆ28] 
 
-Around the same time that Raffles sent the collection to England on board the *Mary*, he also compiled a *Descriptive Catalogue*, which was published in volume XIII of *The Transactions of the Linnean Society of London* (1821–23).[^15] This established Raffles’ reputation as a zoologist when in fact the *Descriptive Catalogue* was mainly the work of his secretary, William Jack.[^16]
+#### **A Symbol of Love**
 
-Interestingly, in the introduction to this catalogue, Raffles briefly explains the situation that arose between him and Diard and Duvaucel. He wrote:
+The *sirih’s* centrality in mediating social relations extended to love and romance. The betel quid symbolised courtship, marital and sexual union in Malay, Straits Chinese and Hindu cultures, and features strongly in betrothal rituals. It is believed that the areca nut and betel leaf complement each other perfectly: they are considered “heaty” and “cooling” foods respectively – together they symbolise balance. The betel leaf and areca nut are also said to represent the female and male respectively, alluding to how the betel vine entwines itself around the areca palm.
 
-“They advanced pretensions diametrically opposed to the spirit and letter of their engagement and altogether inconsistent with what I had a right to expect from them, or they from me. Thus situated, I had no alternative but to undertake an immediate description of the collection myself, or to allow the result of all my endeavours and exertions to be carried to a foreign country.”[^17]
+The age-old association of the betel quid with love and courtship is evident in the etymology of Malay and Tamil words relating to marriage and betrothal. The Malay terms for proposing marriage *(meminang)* and betrothal *(pinangan)* are derived from pinang (areca nut), while the Tamil term for engagement, *nichaya tambulam*, is derived from *tambulam* (betel quid).
 
-That said, Raffles did have kind words for the pair: “They are young men not deficient in zeal, and though misled for the moment by private and national views, will, I doubt not, profit by the means I have afforded them, and eventually contribute to our further knowledge of the zoology of these islands.”[^18]
+In traditional Malay culture, a suitor or one of his relatives would bring a tray of betel quid to the prospective wife’s residence to ask for her hand in marriage. This custom of *hantar sirih* (Malay for “presenting betel”) was also practised by the Peranakan community, albeit with some differences. Female guests of a Straits Chinese wedding would have received an invitation known as the sa *kapor siray* – a miniature triangular parcel of betel quid containing a smidgen of areca nut. This custom was still practised in post-war Singapore, but was replaced by Western-style invitation cards by the 1980s.[ˆ29] Similarly, the Chetty Melaka (Peranakan Indians) had a ritual known as *hantar sirih kovil pathiram* during which trays of invitation cards, betel leaves, areca nuts, flowers and other items would be blessed at the temple before being distributed to guests.[ˆ30] One’s acceptance of a betel quid in most social contexts implied agreement.
 
-#### **An Amicable Parting**
-Once the collections had been sent to England and France, Diard and Duvaucel asked Raffles if they could sail to Batavia (now Jakarta) on the *Indiana*. Raffles agreed on condition that they provide the aforementioned committee with all the remaining specimens, drawings and descriptions still in their possession.[^19]
+In Malay weddings, a ceremonial betel box known as the *tepak sirih*, containing betel quid ingredients, was once the centrepiece in the bridal display. Traditionally, the tepak sirih was also placed outside the newlyweds’ room on the first night of marriage as an indication of the bride’s chastity. If the groom discovered that his wife was not a virgin, the *tepak sirih* would be turned upside down the next morning.[ˆ31] In Straits Chinese culture, the betel box also symbolised the bride’s purity: on the wedding day, a betel box was placed in the centre of the marital bed. These rituals are no longer customary in Singapore as most Malay and Straits Chinese weddings now take on a more contemporary flavour.
 
-Before Diard and Duvaucel left Bencoolen, Raffles penned a final letter to the naturalists on 22 March 1820. He wrote: 
+However, Malay weddings today still feature the betel leaf in various guises: *sirih dara, sirih junjung and sirih lat-lat. Sirih dara and sirih junjung* refer to floral arrangements featuring verdant green betel leaves rolled into a conical shape, representing the virginity of the bride and groom respectively. These are displayed during the wedding ceremony. 
 
-“No man can appreciate more highly than myself the zeal and personal exertion which you have displayed in making these collections and researches, I am sincerely desirous of securing to you the full measure of credit due to them, and I think you must be satisfied that it is always been my wish to contribute to the extension of science… I conclude with expressing my regret at the necessary close of our public relation, but at the same time my satisfaction at its being about to terminate in an amicable adjustment.”[^20]
+*Sirih lat-lat* is a small floral bouquet containing betel leaves, which is delivered to the groom on the wedding day to signal the bride’s readiness to be visited by the groom and his entourage. According to researcher Khir Johari, the betel leaf, or sirih, generally represents humility, generosity and respectfulness in the Malay world – a reflection of the way in which the betel vine climbs up its host plant unobtrusively.[ˆ32]
 
-Diard and Duvaucel were equally effusive in their reply. They wrote in French:
+The betel quid is considered an aphrodisiac in the *Kamasutra*, the ancient Sanskrit text on sexuality and eroticism.[ˆ33] In Hindu marriage ceremonies, trays of betel quid, symbolising everlasting bonds, were passed around for guests to chew.[ˆ34] Although betel quid ingredients are still used in Hindu prayer offerings and wedding ceremonies today, the quid is rarely chewed. 
 
-“Although it has been painful for us to engage with you in a public dispute, we have been pleased to receive the recompense of receiving your assurance that this opposition on our part has not affected the esteem in which we hold you. We are eager therefore to express how grateful we are at this fresh proof of your benevolence.
 
-“We are more than pleased, Sir, to see that you have been able to appreciate the motives for our conduct, so that henceforth we may have no other desire than to conform to the views you have expressed. We beg you therefore, to be persuaded that we gladly agree to your proposals and that nothing could be more satisfactory to us before we leave Bencoolen than to prove to you our perfect confidence in your amicable intentions.”[^21]
+|**THE BETEL CHEWER'S TOOLKIT**|
+|<img src="/images/Vol-16-issue-3/betel/straitschinesebetelset.png">|
 
-After bidding Raffles farewell, the two naturalists wanted to make good their losses and immediately set to work again. The pair agreed to go their separate ways this time but to meet up at some point in future. Unfortunately, they never met again.
+|An early 20th-century Straits Chinese betel set comprising four containers *(cembul)* for storing betel leaves, areca nut slices, slaked lime and gambier, and a nut slicer *(kacip)* designed as the Malay mythical flying horse known as the *kuda sembrani. Courtesy of the National Museum of Singapore, National Heritage Board.*|
 
-Duvaucel left on 1 April 1820 for Padang where he amassed 14 cases of stuffed animals and skeletons, including the skeleton and skin of a Sumatran tapir, the skeletons and skins of four rhinoceroses of two recognisably distinct species, a large number of monkeys (some still alive), reptiles and two kinds of deer.
+|A typical betel set might comprise a box with three or four containers *(cembul)* – for storing betel leaves, sliced areca nut, slaked lime, gambier or tobacco – and a slicer *(kacip)*  for cutting the dried areca nut. The quality of a betel caddy indicated the owner’s social status: the working class had their betel chewing paraphernalia wrapped simply in a piece of newspaper or cloth, or kept in a wooden box, while the well-heeled showcased betel boxes made of highly decorated brass, copper or silver.[ˆ1] Ornate *kacip* often featured handles carved in the form of the *kuda sembrani*, the Malay mythological flying horse.[ˆ2]|
 
-In 1821, Duvaucel decided to turn his attention to collecting animals in South Asia. While in India, he became severely injured after being attacked by a rhinoceros while on a hunt. Although Duvaucel survived the initial attack, he died about a year later in 1824. Accounts at the time pointed to either fever or dysentery as the cause of his death.
+|A moderately wealthy household usually had two betel sets at home: one for daily use and another for guests. The more elaborate betel boxes ended up as family heirlooms or collectors’ items. Alongside betel sets, spittoons were also a common fixture in homes and establishments to hold the red spittle produced from chewing betel. These spittoons were often made of brass or porcelain. Elderly chewers who lacked teeth used a small mortar and pestle to grind larger ingredients, if not the entire quid, into a finer consistency for an easier chew.[ˆ3]|
+
+|Betel chewing also shaped sartorial practices. A wealthy Malay lady in the 1920s might wear an intricately crafted silver belt from which hung a purse and a case to contain betel ingredients so as to satisfy her craving for a chew while she was out.[ˆ4] A Straits Chinese woman would drape a large red or dark-coloured handkerchief, folded into a triangle, over one shoulder of her kebaya for wiping red spittle from her lips.[ˆ5]|
+
+|**NOTES**|
+[ˆ1]: Ponnudurai, V.R. (1951, August 25). Chewing the betel. *The Singapore Free Press*, p. 9. Retrieved from NewspaperSG.
+
+[ˆ2]: Norhuda Salleh. (2015). Tepak sireh: Interpretation and perception in Malay wedding customs. *INTCESS15 – 2nd International Conference on Education and Social Services* (p. 1184). Retrieved from International Organisation Center of Academic Research website. 
+
+[ˆ3]: Chia, F. (1994). The Babas revisited (p. 102). Singapore: Heinemann Asia. (Call no.: RSING 309.895105957 CHI)
+
+[ˆ4]: Hunt for ethnic costumes. (1993, January 19). The Straits Times, p. 19. Retrieved from NewspaperSG.
+
+[ˆ5]: The wispy see-through kebaya tantalised many a Baba youth... (1976, May 12). New Nation, pp. 10–11. Retrieved from NewspaperSG.
+
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/leopard.jpg">
+<img src="/images/Vol-16-issue-3/betel/betelchewing-sitandstand.png">
 
-Georges Cuvier named a leopard, the <i>Neofelis diardi</i>, commonly known as the Sunda clouded leopard, after Pierre Médard Diard in 1823. The animal was only confirmed to be a distinct species in 2007. <i>Image reproduced from Jardine, W. (1834). The Natural History of the Felinae (plate 22). Edinburgh: W.H. Lizars, and Stirling and Kenney. Retrieved from Internet Archive website</i>.
+
+(Left) A <i>paanwalla</i>, or betel quid vendor, at his stall, 1968. By the 1980s, as betel chewing had fallen out of favour, these vendors, once a ubiquitous sight in Singapore, joined the ranks of a long list of vanishing trades. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
+
+(Right) A woman with a chew in her mouth, 1955. Betel chewing was a habit indulged in by many women in early Singapore. <i>Donald Moore Collection, courtesy of National Archives of Singapore.</i>
 
 </div>
 
-Diard, on the other hand, stayed on in the Dutch East Indies (modern-day Indonesia) and lived in the region until his death in 1863. In addition to collecting animals, Diard also worked for the Dutch colonial government. He died from arsenic poisoning caused by the chemical used in the preservation of animal skins when he was assembling a new collection for a museum in Leiden in the Netherlands.
+#### **The Decline of Betel Chewing**
 
-Raffles’ view that the two men would “eventually contribute to our further knowledge of the zoology of these islands” turned out to be prescient. Diard and Duvaucel managed to send some 2,000 items, comprising stuffed animals, skins and skeletons from the region back to the Muséum National d’Histoire Naturelle in Paris. They also sent back numerous drawings of animals and plants that they had commissioned.
+By the 1950s, betel chewing had reportedly fallen out of favour among younger adults in Singapore.[ˆ35] Some 30 years later, the practice was near extinction, enjoyed only by the elderly, a remarkable decline of such an old, pervasive habit within a single generation.
 
-Their memory also lives on in a number of animals named after them. These include a species of deer, *Cervus duvaucelii* (first described by Georges Cuvier); a bird, the scarlet-rumped trogon *Harpactes duvaucelii*; a bat, *Pachysoma duvaucelii*; the Indian squid, *Loligo duvaucelii*; the Sunda clouded leopard, *Neofelis diardi* (also first described by Cuvier); a snake, *Typhlops diardii*; and *Rattus diardii*, a kind of rat.
+Growing concerns about betel chewing’s long-term effects on health likely played a part in deterring youths from picking up the habit, and perhaps nudged some older people into reducing their chewing frequency. While *sirih* is a common ingredient in traditional Malay medicine, betel chewing from the 1930s onwards became increasingly associated with oral cancer. The purported dental benefits of chewing betel, such as the strengthening of teeth and gums, were also challenged in popular media. That said, Singapore newspapers continued to run health advisories against betel chewing as late as the 1980s, suggesting that such advice was often ignored, particularly among habitual chewers.
+
+Changing social and cultural attitudes were, perhaps, greater contributing factors to the quid’s demise in Singapore. Once socially acceptable, betel-stained teeth were increasingly perceived as unsightly, thanks to the circulation of images in mass media of “beautiful” people with *Berita Harian* in 1964, the protagonist was so repulsed by his wife’s betel-stained teeth that “he wanted to jump from the window”.[ˆ36] Meanwhile, the effect of red-stained lips caused by betel chewing, often coveted by women as a marker of beauty, was achieved by cosmetics, which replaced the increasingly unfashionable chew. In a 1994 feature in *The Straits Times*, Helena Rubenstein’s Rouge Glorious lipstick was touted as “a cross between a shine-less matt lipstick and a long-wearing one with cling-to-the-lip colour but without the betel-nut stain effect”.[ˆ37]
+
+The habit was also often deemed unsanitary due to the frequent spitting that accompanied the chewing. When betel chewing was still widespread in Singapore, walkways and roads in the town area were covered in red blotches of spittle, prompting frequent complaints about defaced environments and hygiene issues. One writer expressed disgust at the “revolting scarlet gobs of the betel chewer” that occasionally landed on an unfortunate passer-by.[ˆ38] Newspapers published numerous letters airing similar grievances up until the 1980s. 
+
+Anti-tuberculosis campaigns in the post-war decades also portrayed spitting as socially deviant and disease-spreading. Given the many negative connotations surrounding betel chewing, it was perhaps unsurprising that aspirational individuals and households found it difficult to reconcile the age-old habit with new forms of civic-mindedness and respectability in Singapore.
+
+As independent Singapore pursued its modernisation plans at full throttle, betel chewing became a habit associated with the older generations and was perceived as an outdated practice. In the mid-1970s, the weekend crowd at Geylang Serai Market was described as comprising mostly the elderly who chewed betel together.[ˆ39] In Little India, too, the main chewers were older proprietors, seated in front of their shops.[ˆ40] By the late 1980s, the *paanwalla* was considered part of a long list of vanishing trades in Singapore, along with Indian parrot astrologers and Chinese letter writers. 
+
+#### **Contemporary Consumption**
+
+The 1980s saw the Singapore government vigorously courting the tourist dollar and Little India was developed into a tourist attraction. As a result, the *paanwalla* were retained and co-opted into the government’s plan to inject “local flavour” into the area.[ˆ41] In this vision, a guided tour in Little India would not be complete without a visit to the *paanwalla* for a betel chewing demonstration, where tourists could marvel at his red saliva and stained teeth.[ˆ42] Betel chewing was thus presented as an object of fascination in a reordered, modern and sanitised city. 
+
+The betel quid trade in Singapore today is largely supported by migrants and visitors from countries like Bangladesh, India and Myanmar, where betel chewing remains widespread. A handful of vendors still operate in areas frequented by migrants, such as Little India and Peninsula Plaza. One may also encounter the betel quid in Indian restaurants. Green bundles are strategically placed on trays located near the cashier so that patrons can grab one for a post-meal chew while paying their bill.
+
+In most homes today, betel chewing lives on, if at all, in the memories of those who recall their elderly relatives indulging in the habit:
+
+“I can still see [grandma], fragile and lovely in her *sarong kebaya*, her bun immaculate even at that hour, each ornate *cucuk sanggul* in place. Beside her was the betel set that was her trademark, each tiny container holding mystery none of her grandchildren would ever fathom. With each story she delicately prepared and chewed a betel quid, weaving a spell that held us entranced.”[ˆ43]
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/Deer.jpg">
-
-Georges Cuvier named a species of deer, the <i>Rucervus duvaucelii</i>, commonly known as the barasingha, after Alfred Duvaucel in 1823. <i>Image reproduced from Sclater, P. L. (1871). On certain species of deer now or lately living in the society’s menagerie. Transactions of the Zoological Society of London, 7 (5): 333–352. Retrieved from Biodiversity Heritage Library website</i>.
-
+<img src="/images/Vol-16-issue-3/betel/betelchewing-yellowcloth.jpg">
+A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red container filled with betel leaves, brass receptacles for holding the incense and <i>air mawar</i> (rose water), and a container for storing the areca nut <i>(pinang)</i> and slaked lime <i>(kapor or chunam).</i> <i>PictureSG, National Library, Singapore.</i>
 </div>
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol-16-issue-1/Postcards/space.png">
 
-</div>
 
-|<img src="/images/Vol-16-issue-2/raffles/voyagers.png">|
-
-|This essay is adapted from Danièle Weiler’s chapter on Diard and Duvaucel in *Voyageurs, Explorateurs Et Scientifiques: The French and Natural History in Singapore* (2019) published by the Lee Kong Chian Natural History Museum.|
-
-|The book can be reserved for on-site reference at the Lee Kong Chian Reference Library, National Library Building, on the PublicationSG portal.|
-
-|Close to 120 drawings of animals and plants commissioned by the two French naturalists have been compiled in *Figures peintes d’oiseaux [et de reptiles], envoyées de l’Inde par Duvaucel et Diard (Painted depictions of birds [and reptiles], sent from India by Duvaucel and Diard)*. The digitised drawings were provided by the Muséum National d’Histoire Naturelle in Paris and will be available on the National Library’s BookSG portal in August 2020.|
+|The authors would like to thank Gayathrii Nathan and Toffa Abdul Wahed for their research assistance and for reviewing an early draft of the article; Dr Azhar Ibrahim for his thoughts on the subject; and Baba G.T. Lye for participating in the interview. Initial research for this article was conducted for “Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption”, a collaborative project supported by the Heritage Research Grant of the National Heritage Board, Singapore.[ˆ44]|
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/authors/DanieleWeiler.png" style="width: 100px; height: 100px;" />
-
-<b>Danièle Weiler</b> contributed a chapter to the book, <i>Voyageurs, Explorateurs Et Scientifiques: The French and Natural History in Singapore (2019)</i>. She is also the co-author of <i>The French in Singapore: An Illustrated History, 1819–Today (2011)</i>. A retired teacher and librarian now back in France, she lived in Singapore for 15 years where she worked at the Lycee Francais de Singapour.
-
+<img src="/images/Vol-16-issue-3/authors/FionaLim.png" style="width: 100px; height: 100px;" />
+<b>Fiona Lim</b> Fiona Lim is a freelance writer, editor and researcher. She is interested in the complexities of cities and their people.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/authors/GeoffreyPakiam.png" style="width: 100px; height: 100px;"/>
+<b>Dr Geoffrey Pakiam</b> is a Fellow at ISEAS – Yusof Ishak Institute in Singapore. He works on the history of commodities and is currently researching the interplay between livelihoods, consumer cultures and the environment of the Malay world.
+</div>
+
+
+
+<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+
 
 #### **NOTES**
-[^1]: Notice sur les voyages de MM. Diard et Duvaucel, naturalistes français, dans les Indes orientales et dans les iles de la Sonde, extraite de leur correspondance et lue à l’Académie des sciences le 14 mai 1821 par M. le baron George Cuvier, membre de l’institut. *Revue Encyclopédique, ou analyse raisonnée des productions les plus remarquables dans la littérature, les sciences et les arts, par une réunion de Membres de l’Institut et d’autres hommes de lettres*. Tome X. Paris, Avril 1821 (p .478); Société Asiatique. (1824, Mars–Avril). Notice sur le voyage de M. Duvaucel. *Journal Asiatique*, IV, pp. 137–145. (Not available in NLB holdings)
-[^2]: Jean Léopold Nicolas Frédéric, Buron Cuvier (1769–1832) was a major figure in natural sciences research in the early 19th century. He established the sciences of palaeontology and comparative anatomy. See Encyclopaedia Britannica. (2020, May 9). *Georges Cuvier*. Retrieved from Britannica website.
-[^3]: Coulmann, J.-J. (1973) *Réminiscences* (Tome 1, p. 146). Genève Slatkine Reprints. (Not available in NLB holdings)
-[^4]: Bastin, J.S. (2014). *[Raffles and Hastings: Private exchanges behind the founding of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200867141)* (p. 195). Singapore: National Library Board and Marshall Cavendish Editions. (Call no.: RSING 959.5703 BAS-[HIS]) 
-[^5]: Cuvier, 14 May 1821, p. 478.
-[^6]: Geoffroy Saint-Hilaire, E., & Cuvier, F. (1824). *Histoire naturelle des mammifères: Avec des figures originales, coloriees, dessinees d’apres des animaux vivans*. A Paris: Chez A. Belin. Retrieved from Biodiversity Heritage Library website.
-[^7]: [Bastin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200867141), 2014, p. 29. 
-[^8]: Cuvier, 14 May 1821, p. 478.
-[^9]: Cuvier, 14 May 1821, p. 479.
-[^10]: Diard, P.M., & Duvaucel, A. (1822). On the Sorex Glis. *Asiatick Researches or Transactions of the Society, Instituted in Bengal for Inquiring into the History and Antiquities, the Arts, Sciences and Literature of Asia*, vol. XIV, pp. 471–475. Retrieved from Biodiversity Heritage Library website.
-[^11]: Raffles, S. (1830). *[Memoir of the life and public services of Sir Stamford Raffles: Particularly in the government of Java 1811–1816, and of Bencoolen and its dependencies, 1817–1824: With details of the commerce and resource of the eastern archipelago, and selections from his correspondence](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx)* (p. 703). London: J. Murray. Retrieved from BookSG.
-[^12]: [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, pp. 711–716.
-[^13]: [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, pp. 718–719.
-[^14]: Peysonnaux, J.H. (1935). Vie voyages et travaux de Pierre Médard Diard. Naturaliste Français aux Indes Orientales (1794–1863). Voyage dans l’Indochine (1821–1824) (p. 21). *Bulletin des amis du vieux Hué*. (Not available in NLB holdings) 
-[^15]: Raffles, T.S. (1821–1823). Descriptive catalogue of a zoological collection, made on account of the honorable East India Company, in the island of Sumatra and its vicinity, under the direction of Sir Thomas Stamford Raffles, Lieutenant-Governor of Fort Marlborough, with additional notices illustrative of the natural history of those countries. *The Transactions of the Linnean Society of London*, volume XIII, pp. 239–74, 277–340. Retrieved from Biodiversity Heritage Library website. 
-[^16]: [Bastin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200867141), 2014, p. 194. 
-[^17]: Raffles, 1821–1823, p. 240. 
-[^18]: Raffles, 1821–1823, p. 240.
-[^19]: [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, pp. 720–721. 
-[^20]: [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, pp. 721–722. 
-[^21]: [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, pp. 722–723.
+
+[ˆ1]: Here, sirih refers to the betel quid, but sirih is also the Malay term for the betel leaf. 
+[ˆ2]: Miksic, J. (2013). Singapore & the Silk Road of the sea, 1300–1800Singapore & the Silk Road of the sea, 1300–1800 (p. 316). Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
+[ˆ3]: Zumbroich, T.J. (2008). The origin and diffusion of betel chewing: A synthesis of evidence from South Asia, Southeast Asia and beyond. eJournal of Indian Medicine, 1 (3), 87–140, p. 99. Retrieved from University of Groningen Press website. 
+[ˆ4]: Reid, A. (1985, May). From betel-chewing to tobacco-smoking in Indonesia. Journal of Asian Studies, 44 (3), 529–547, pp. 529–530. Retrieved from JSTOR via NLB’s eResources website.
+[ˆ5]: Raghavan, V., & Baruah, H.K. (1958). Arecanut: India’s popular masticatory: History, chemistry and utilization. Economic Botany, 12 (4), 315–345, pp. 317–318. Retrieved from JSTOR via NLB’s eResources website.
+[ˆ6]: Betel chewing arrived in northern India later, around 500 BCE. See Zumbroich, 2008, pp. 114, 119.
+[ˆ7]: Dondang sayang is a traditional poetic art form associated with the Malay and Straits  Chinese communities in Singapore and Malaysia. See National Library Board. (2015, March 9). Dondang sayang written by Stephanie Ho. Retrieved from Singapore Infopedia website.
+[ˆ8]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
+[ˆ9]: Mardiana Abu Bakar. (1987, October 12). The betel leaf and its role in Malay life. The Straits Times, p. 5. Retrieved from NewspaperSG.
+[ˆ10]: Rohel, J. (2017). Empire and the reordering of edibility: Deconstructing betel quid through metropolitan discourses of intoxication. Global Food History, 3 (2), 150–170, p. 156. Retrieved from Taylor & Francis Group website. 
+[ˆ11]: Zumbroich, 2008, p. 90.
+[ˆ12]: Reid, May 1985, pp. 529–530.
+[ˆ13]: How dangerous is betel nut? (2014, October 10). Retrieved from Healthline website.
+[ˆ14]: Wee, A. (1987, January 29). Misinformation on Little India. The Straits Times, p. 11; Wee, A. (1987, April 7). Trainee guides get tips on Little India. The Straits Times, p. 15; To Mecca. (1912, September 13). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+[ˆ15]: Neither the betel quid nor its respective ingredients were particularly significant in the cultures of the Chinese and Eurasians in Singapore. Goh, B.-L. (2018). Modern dreams: An inquiry into power, cultural production, and the cityscape in contemporary urban Penang, Malaysia (p. 131). Ithaca, NY: Cornell University. (Call no.: RSEA 307.76095951 GOH); Choo, C., et al. (2007). Being Eurasian (p. 109). In M. Perkins (Ed.), Visibly different: Face, place and race in Australia. Switzerland: Peter Lang Verlag. (Not available in NLB holdings); Nirmala, M. (2003, July 4). All are welcome at new Eurasian House. The Straits Times, p. 27. Retrieved from NewspaperSG.
+[ˆ16]: Zumbroich, 2008, p. 90.
+[ˆ17]: Ponnudurai, V.R. (1951, August 25). Chewing the betel. The Singapore Free Press, p. 9. Retrieved from NewspaperSG.
+[ˆ18]: Reid, A. (1988). Southeast Asia in the age of commerce 1450–1680 (Vol. 1, p. 41). New Haven; London: Yale University Press. (Call no.: RSEA 959 REI)
+[ˆ19]: The Singapore Free Press, 25 Aug 1951, p. 9.
+[ˆ20]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
+[ˆ21]: The Singapore Free Press, 25 Aug 1951, p. 9.
+[ˆ22]: A form of address for elderly Peranakan Chinese women.
+[ˆ23]: Grand dames bring life to the museum. (1987, September 6). The Straits Times, p. 19. Retrieved from NewspaperSG.
+[ˆ24]: Lee, L.H. (1949, July 8). Keeping on the right side of all the gods. The Malaya Tribune, p. V. Retrieved from NewspaperSG.
+[ˆ25]: Gwee, T.H. (2013). A nyonya mosaic: Memoirs of a Peranakan childhood (p. 60). Singapore: Marshall Cavendish. (Call no.: RSING 959.57030922 GWE)
+[ˆ26]: 8,000 labourers on strike in Singapore. (1936, December 2). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[ˆ27]: Orme, W.B. (1914, February 7). Makan sireh. The British Medical Journal, 1 (2771), 325–326, p. 326. Retrieved from JSTOR via NLB’s eResources website.
+[ˆ28]: The Singapore Free Press, 13 Sep 1912, p. 3; Reid, 1988, p. 43.
+[ˆ29]: Gwee, 2013, p. 81.
+[ˆ30]: Neo, D., & Rathabai, J. (2015). Elaborate customs and rituals. The Peranakan, (2), p. 16. Retrieved from The Peranakan Association Singapore website.
+[ˆ31]: Norhuda Salleh. (2015). Tepak sireh: Interpretation and perception in Malay wedding customs. INTCESS15 – 2nd International Conference on Education and Social Services (pp. 1185–1186). Retrieved from International Organisation Center of Academic Research website. 
+[ˆ32]: Warisan SG. (2015). Sacred sirih: Traditions and symbolism in the Malay world Part 1 [Video]. Retrieved from YouTube.
+[ˆ33]: Menon, V. (1981, November 20). The betel and its role in Hindu functions. The Straits Times, p. 4. Retrieved from NewspaperSG.
+[ˆ34]: The Singapore Free Press, 25 Aug 1951, p. 9.
+[ˆ35]: The Singapore Free Press, 25 Aug 1951, p. 9; Betel nuts? We’ll stick to lipstick, say women. (1952, July 30). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[ˆ36]: Abdullah Othman. (1964, December 31). Ada jua yang tiada. Berita Harian, p. 6. Retrieved from NewspaperSG. [Translated by authors.]
+[ˆ37]: Smooth operators. (1994, July 7). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[ˆ38]: Peet, G. (1977, April 2). An old timer on the five-foot-way. The Straits Times, p. 14. Retrieved from NewspaperSG.
+[ˆ39]: Holmberg, J. (1975, February 1). The old ‘new market’. New Nation, p. 7. Retrieved from NewspaperSG.
+[ˆ40]: Tan, F. (1975, May 17). Teck Kah… or the place under the bamboo. New Nation, p. 7. Retrieved from NewspaperSG.
+[ˆ41]: Hole-in-the-wall stores at Little India to stay. (1992, June 11). The Straits Times, p. 40. Retrieved from NewspaperSG.
+[ˆ42]: Lim, J., & Lim, Y.L. (2012, November 3). Enjoy the city’s charms. The Straits Times, p. 3; Lim, S.N. (1989, April 5). Giving old attractions new life. The Business Times, p. 10; Ng, I., & Fernandez, W. (1987, August 13). Arab Street and Little India captivate tourists. The Straits Times, p. 16. Retrieved from NewspaperSG.
+[ˆ43]: Juita. N. (1989, May 10). Remembering the childhood joys of past Hari Rayas. The Straits Times, p. 20. Retrieved from NewspaperSG.
