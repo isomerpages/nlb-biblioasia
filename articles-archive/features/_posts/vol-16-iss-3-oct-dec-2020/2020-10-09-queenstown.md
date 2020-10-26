@@ -170,42 +170,42 @@ Although most of the old flats in Margaret Drive have been torn down, with those
 
 #### **NOTES**
 [^1]: Urban Redevelopment Authority (Singapore). (1994). *Queenstown planning area: Planning report 1994* (pp. 4, 8). Singapore: The Authority. (Call no.: RSING 711.4095957 SIN)
-[^2]:What’s in a name? (2005, August 9). The Straits Times, p. 114. Retrieved from NewspaperSG; National Library Board. (2014, April 8). *Queen Elizabeth II’s coronation celebrations in Singapore*. Retrieved from Singapore Infopedia website. 
-[^3]:Asad Latif. (2009). Lim Kim San: *A builder of Singapore* (pp. 60–61). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 363.585092 ASA)
-[^4]:National Library Board. (2020, April 30). *History of National Library Singapore*. Retrieved from National Library Board website; Seet, K.K. (1983). A place for the people (p. 18). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE); Lim, P.H. (2010, Aug). The history of an emerging multilingual public library system and the role of mobile libraries in post colonial Singapore, 1956–1991. *Malaysian Journal of Library & Information Science*, 15 (2), 85–108. Retrieved from University of Malaya website.
+[^2]: What’s in a name? (2005, August 9). The Straits Times, p. 114. Retrieved from NewspaperSG; National Library Board. (2014, April 8). *Queen Elizabeth II’s coronation celebrations in Singapore*. Retrieved from Singapore Infopedia website. 
+[^3]: Asad Latif. (2009). Lim Kim San: *A builder of Singapore* (pp. 60–61). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 363.585092 ASA)
+[^4]: National Library Board. (2020, April 30). *History of National Library Singapore*. Retrieved from National Library Board website; Seet, K.K. (1983). A place for the people (p. 18). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE); Lim, P.H. (2010, Aug). The history of an emerging multilingual public library system and the role of mobile libraries in post colonial Singapore, 1956–1991. *Malaysian Journal of Library & Information Science*, 15 (2), 85–108. Retrieved from University of Malaya website.
 [^5]: Upper Serangoon folk will soon have their own library. (1951, October 6). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^6]: Singapore. (1960). 1960 *Supplement to the laws of Singapore* (p. 1). Raffles National Library (Change of Name) Ordinance 1960 (Ord. 66 of 1960). Singapore: Government Printing Office, p. 1. (Call no.: RCLOS 348.5957 SIN); Cultural awakening. (1960, November 13). The Straits Times, p. 5; Out goes the name Raffles. (1960, November 21). The Straits Times, p. 9; Raffles’ name will live on: Rajaratnam. (1960, December 1). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 [^7]: National Library Board. (1999). *Mobile Library Services* (1960–1991) written by Wong Heng. Retrieved from Singapore Infopedia website. 
 [^8]: Lim, J. (Interviewer). (2000, May 10). Oral history interview with Chan Thye Seng [MP3 recording no.: 002265/15/9]. Retrieved from National Archives of Singapore website.
 [^9]: National Library (Singapore). (1963–1965). Annual report 1963. Singapore: The Library. (Call no.: RCLOS 027.55957 RLSAR); N-Library: The first branch at Queenstown. (1966, December 21). *The Straits Times*, p. 24. Retrieved from NewspaperSG.
 [^10]: *Oral history interview with Chan Thye Seng*, 10 May 2000. 
-[^11]: My Community. (2017). Queenstown Public Library 10. *Retrieved from My Community website; Chan, T.S. (1971). A branch library for the people. *Singapore Libraries*, 1, 63–66. (Call no.: RCLOS q020.5 SL); National Library Board. (2000). *Queenstown Community Library* written by Wong Heng. Retrieved from Singapore Infopedia website.
+[^11]: My Community. (2017). Queenstown Public Library 10. Retrieved from My Community website; Chan, T.S. (1971). A branch library for the people. *Singapore Libraries*, 1, 63–66. (Call no.: RCLOS q020.5 SL); National Library Board. (2000). *Queenstown Community Library* written by Wong Heng. Retrieved from Singapore Infopedia website.
 [^12]: *Oral history interview with Chan Thye Seng*, 10 May 2000. 
 [^13]: *Oral history interview with Chan Thye Seng*, 10 May 2000. 
 [^14]: Ministry of Culture. (1970, April 30). *Address by the Prime Minister at the opening of the Queenstown Branch Library* [Speech] (pp. 2–3). Retrieved from National Archives of Singapore website.
 [^15]: The queue up in Queenstown. (1978, April 3). New Nation, p. 5; More are taking to reading, says library. (1973, January 24). New Nation, p. 3; A record rise in library members. (1973, January 24). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 [^16]: Lim, J. (Interviewer). (2007, April 17). *Oral history interview with Chan Soo Sen* [Transcript of MP3 recording no.: 003151/01/01, p. 9]. Retrieved from National Archives of Singapore website.
 [^17]: Lim, J. (Interviewer). (2007, April 4). *Oral history interview with Dr Ng Eng Hen* [Transcript of MP3 recording no.: 003143/01/01, pp. 8–15]. Retrieved from National Archives of Singapore website.
-[^18]:Lim, J. (Interviewer). (2007, Apr 3). *Oral history interview with Heng Chee How* [Transcript of MP3 recording no.: 003142/01/01, p. 6]. Retrieved from National Archives of Singapore website.
-[^19]:High praise for library. (1971, March 13). *New Nation*, p. 3. Retrieved from NewspaperSG.
-[^20]:Kiang-Koh, L.L. (Interviewer). (2016, October 13). *Oral history interview with Iris Lim Ai Keng* [MP3 recording no.: 004089/04/01]. Retrieved from National Archives of Singapore website.
-[^21]:Ismail Kassim. (1974, May 21). Making libraries social and cultural centres. *New Nation*, p. 4. Retrieved from NewspaperSG.
-[^22]:TV replace reading? (1972, April 28). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
-[^23]:Karate thrills for 200 kids. (1972, October 30). The Straits Times, p. 7; Schoon, J. (1973, October 15). A sound of music at the library. *New Nation*, p. 4. Retrieved from NewspaperSG.
+[^18]: Lim, J. (Interviewer). (2007, Apr 3). *Oral history interview with Heng Chee How* [Transcript of MP3 recording no.: 003142/01/01, p. 6]. Retrieved from National Archives of Singapore website.
+[^19]: High praise for library. (1971, March 13). *New Nation*, p. 3. Retrieved from NewspaperSG.
+[^20]: Kiang-Koh, L.L. (Interviewer). (2016, October 13). *Oral history interview with Iris Lim Ai Keng* [MP3 recording no.: 004089/04/01]. Retrieved from National Archives of Singapore website.
+[^21]: Ismail Kassim. (1974, May 21). Making libraries social and cultural centres. *New Nation*, p. 4. Retrieved from NewspaperSG.
+[^22]: TV replace reading? (1972, April 28). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
+[^23]: Karate thrills for 200 kids. (1972, October 30). *The Straits Times*, p. 7; Schoon, J. (1973, October 15). A sound of music at the library. *New Nation*, p. 4. Retrieved from NewspaperSG.
 [^24]: New Nation, 21 May 1974, p. 4.
-[^25]:Personal interview with Kweh Soon Huat, 1 June 2020.
-[^26]:Forum on sexist ads. (1986, November 3). *The Business Times*, p. 3; Forum on polygamy. (1987, January 6). The Business Times, p. 2; Forum on marriage draws up new ‘contract’. (1986, December 6). The Straits Times, p. 17. Retrieved from NewspaperSG.
-[^27]:Kiang-Koh, L.L. (Interviewer). (2018, January 17). *Oral history interview with Jasmin Samat Simon* [MP3 recording no.: 004239/03/02]. Retrieved from National Archives of Singapore website.
-[^28]:Hedwig, A. (1983, May 13). Library to start audio-video loan scheme. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
-[^29]:National Library Board, 2000. 
-[^30]:Lim, R. (1987, October 24). Queenstown Library goes on-line. *The Straits Times*, p. 17; Rohaniah Saini. (1988, May 20). On-line system boon to library users. The Straits Times, p. 20. Retrieved from NewspaperSG.
-[^31]:Tan, C.N. (1994). *Library 2000: Investing in a learning nation: Report of the Library 2000 Review Committee* (pp. 9, 22, 74, 102). Singapore: Ministry of Information and the Arts. (Call no.: RSING 027.05957 SIN)
-[^32]:National Library Board. (1999). *Annual report FY1998*. Retrieved from National Library Board website; National Library Board. (2018). *World class libraries and archives for a knowledgeable nation* (pp. 22, 105–106). Singapore: National Library Board. [Note: RFID is an electronic system for automatically identifying items. It uses RFID tags, or transponders, which are contained in smart labels consisting of a silicon chip and coiled antenna. The Electronic Library Management System is an integrated system comprising self-check machines, automated bookdrops and sorting machines.] 
-[^33]:Ramchand, A., Devadoss, P.R, & Pan, S.L (2005). *The impact of ubiquitous computing technologies on business process change and management: The case of Singapore’s National Library Board* (pp. 139–152). In C. Sørenson, Y. Yoo, K., Lyytinen & J.I. DeGross. (Eds.), *Designing ubiquitous information evironments: Socio-technical issues and challenges*. IFIP – The International Federation for Information Processing Digital Library, vol. 185. Boston, M.A.: Springer. Retrieved from Springer website. 
-[^34]:Tan, 194, pp. 9, 22, 74, 102.
-[^35]:Personal interview with Goh Siew Han, 1 June 2020. 
-[^36]:Kwek, L.Y., & Lee, J. (2015). *My Queenstown heritage trail*
+[^25]: Personal interview with Kweh Soon Huat, 1 June 2020.
+[^26]: Forum on sexist ads. (1986, November 3). *The Business Times*, p. 3; Forum on polygamy. (1987, January 6). *The Business Times*, p. 2; Forum on marriage draws up new ‘contract’. (1986, December 6). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^27]: Kiang-Koh, L.L. (Interviewer). (2018, January 17). *Oral history interview with Jasmin Samat Simon* [MP3 recording no.: 004239/03/02]. Retrieved from National Archives of Singapore website.
+[^28]: Hedwig, A. (1983, May 13). Library to start audio-video loan scheme. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^29]: National Library Board, 2000. 
+[^30]: Lim, R. (1987, October 24). Queenstown Library goes on-line. *The Straits Times*, p. 17; Rohaniah Saini. (1988, May 20). On-line system boon to library users. *The Straits Times*, p. 20. Retrieved from NewspaperSG.
+[^31]: Tan, C.N. (1994). *Library 2000: Investing in a learning nation: Report of the Library 2000 Review Committee* (pp. 9, 22, 74, 102). Singapore: Ministry of Information and the Arts. (Call no.: RSING 027.05957 SIN)
+[^32]: National Library Board. (1999). *Annual report FY1998*. Retrieved from National Library Board website; National Library Board. (2018). *World class libraries and archives for a knowledgeable nation* (pp. 22, 105–106). Singapore: National Library Board. [Note: RFID is an electronic system for automatically identifying items. It uses RFID tags, or transponders, which are contained in smart labels consisting of a silicon chip and coiled antenna. The Electronic Library Management System is an integrated system comprising self-check machines, automated bookdrops and sorting machines.] 
+[^33]: Ramchand, A., Devadoss, P.R, & Pan, S.L (2005). *The impact of ubiquitous computing technologies on business process change and management: The case of Singapore’s National Library Board* (pp. 139–152). In C. Sørenson, Y. Yoo, K., Lyytinen & J.I. DeGross. (Eds.), *Designing ubiquitous information evironments: Socio-technical issues and challenges*. IFIP – The International Federation for Information Processing Digital Library, vol. 185. Boston, M.A.: Springer. Retrieved from Springer website. 
+[^34]: Tan, 194, pp. 9, 22, 74, 102.
+[^35]: Personal interview with Goh Siew Han, 1 June 2020. 
+[^36]: Kwek, L.Y., & Lee, J. (2015). *My Queenstown heritage trail*
 (p. 7). Singapore: My Community. (Call no.: RSING 915.95704 KWE); Urban Redevelopment Authority, Singapore, 1994, p. 14; Tan, H.Y. (1996, May 1). Queenstown flats selected for en-bloc redevelopment. *The Straits Times*, p. 1; Hooi, A. (2005, December 30). 3 Queenstown blocks to be redeveloped. *The Straits Times*, p. 20. Retrieved from NewspaperSG.
-[^37]:Personal interview with Goh Siew Han, 1 June 2020.
-[^38]:Saifulbahri Ismail. (2013, October 3). Three buildings in Queenstown to be conserved. *Today*, p. 32. Retrieved from NewspaperSG.
-[^39]:Personal interview with Von Tjong, 20 June 2020. 
+[^37]: Personal interview with Goh Siew Han, 1 June 2020.
+[^38]: Saifulbahri Ismail. (2013, October 3). Three buildings in Queenstown to be conserved. *Today*, p. 32. Retrieved from NewspaperSG.
+[^39]: Personal interview with Von Tjong, 20 June 2020. 
