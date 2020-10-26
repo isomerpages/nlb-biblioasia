@@ -166,6 +166,8 @@ Although most of the old flats in Margaret Drive have been torn down, with those
 
 <b>Paddy Jonathan Ong</b> has been an Associate Librarian with Queenstown Public Library since 2017. He manages its community garden and the adults’ collection, and also creates services and programmes to help adults rediscover their love for reading and learning.
 
+</div>
+
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
