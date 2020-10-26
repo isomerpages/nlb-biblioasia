@@ -110,8 +110,7 @@ However, Malay weddings today still feature the betel leaf in various guises: *s
 The betel quid is considered an aphrodisiac in the *Kamasutra*, the ancient Sanskrit text on sexuality and eroticism.[^33] In Hindu marriage ceremonies, trays of betel quid, symbolising everlasting bonds, were passed around for guests to chew.[^34] Although betel quid ingredients are still used in Hindu prayer offerings and wedding ceremonies today, the quid is rarely chewed. 
 
 
-|**THE BETEL CHEWER'S TOOLKIT**|
-|<img src="/images/Vol-16-issue-3/betel/straitschinesebetelset.png">|
+|**THE BETEL CHEWER'S TOOLKIT**||<img src="/images/Vol-16-issue-3/betel/straitschinesebetelset.png">|
 
 |An early 20th-century Straits Chinese betel set comprising four containers *(cembul)* for storing betel leaves, areca nut slices, slaked lime and gambier, and a nut slicer *(kacip)* designed as the Malay mythical flying horse known as the *kuda sembrani. Courtesy of the National Museum of Singapore, National Heritage Board.*|
 
