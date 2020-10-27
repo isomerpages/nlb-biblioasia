@@ -37,7 +37,7 @@ In Singapore, betel chewing has all but died out among its people today, and the
 <br/>
 <img src="/images/Vol-16-issue-3/betel/betelleaf.jpg">
 
-The basic elements of the betel quid: the betel leaf <i>(sirih)</i>, pieces of areca nut <i>(pinang)</i> and a smear of slaked lime <i>(kapor or chunam)</i>, a white paste made from the powdered shells of molluscs or coral. <i>Photo from Shutterstock.</i>
+The basic elements of the betel quid: the betel leaf <i>(sirih)</i>, pieces of areca nut <i>(pinang)</i> and a smear of slaked lime <i>(kapor</i> or <i>chunam)</i>, a white paste made from the powdered shells of molluscs or coral. <i>Photo from Shutterstock.</i>
 
 </div>
 
