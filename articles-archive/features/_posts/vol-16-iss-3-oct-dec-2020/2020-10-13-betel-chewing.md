@@ -61,6 +61,12 @@ While it is often referred to as betel chewing, strictly speaking, what is chewe
 
 Preparation techniques varied according to cultural and individual preferences. According to Gwee Thian Lye (better known as G.T. Lye), a well-known *dondang sayang*[^7]  performer and consultant on Peranakan culture, two types of betel leaves were chewed in Singapore: one larger and dark green, the other smaller and light green. Peranakan Chinese ladies are said to have favoured the latter for making *sirih*, while the Indian and Malay communities mainly used the former.[^8]
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/betel/peranakanwomanholdingbetelquid.jpg">
+Portrait of a Peranakan Chinese woman holding a betel quid by August Sachtler, Singapore, c. 1860s. On the table is a betel box. Collection of Mr and Mrs Lee Kip Lee. <i>Courtesy of Peter Lee.</i>
+</div>
+
 Many also considered gambier to be an essential ingredient and small pieces would be added alongside the areca nut slices. Later, tobacco became a popular addition and shreds of it might be folded together with the leaf. For a change of flavour, betel chewers sometimes rubbed a wad of tobacco against their teeth and gums after chewing betel.[^9]
 
 Known as *vetrilai* (Tamil), *paan supari* (Hindi) or *tambula* (Sanskrit), the betel quid favoured by Tamils included finely ground spices such as cardamom, clove, nutmeg and mace for an extra dash of fragrance. The mix of spices is known as *paan masala* and each betel quid vendor (*paanwalla*) had his own unique mix. A clove might also be used to seal the betel package.
@@ -70,12 +76,6 @@ The English herbalist John Gerard first described the areca nut as the “drunke
 The World Health Organization (WHO) estimates that some 600 million people around the world consume some form of areca nut today. The areca nut is classified as a carcinogen by the WHO, and studies have shown a correlation between betel chewing and cancer of the mouth and esophagus.[^13]
 
 As with other widely consumed alkaloids like caffeine and theobromine (the latter is present in cocoa), the psychotropic effects of betel chewing vary between individuals and, perhaps more importantly, are heavily tempered by social context. Those accustomed to viewing betel chewing as a comforting and calming practice may feel calm and relaxed from chewing, while the habit may have the opposite effect on someone brought up to believe in betel chewing’s stimulating effects.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/peranakanwomanholdingbetelquid.jpg">
-Portrait of a Peranakan Chinese woman holding a betel quid by August Sachtler, Singapore, c. 1860s. On the table is a betel box. Collection of Mr and Mrs Lee Kip Lee. <i>Courtesy of Peter Lee.</i>
-</div>
 
 #### **Our Daily Chew**
 
@@ -105,6 +105,13 @@ However, Malay weddings today still feature the betel leaf in various guises: *s
 
 *Sirih lat-lat* is a small floral bouquet containing betel leaves, which is delivered to the groom on the wedding day to signal the bride’s readiness to be visited by the groom and his entourage. According to researcher Khir Johari, the betel leaf, or *sirih*, generally represents humility, generosity and respectfulness in the Malay world – a reflection of the way in which the betel vine climbs up its host plant unobtrusively.[^32]
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/betel/betelchewing-yellowcloth.jpg">
+A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red container filled with betel leaves, brass receptacles for holding the incense and <i>air mawar</i> (rose water), and a container for storing the areca nut <i>(pinang)</i> and slaked lime <i>(kapor or chunam).</i> <i>PictureSG, National Library, Singapore.</i>
+
+</div>
+
 The betel quid is considered an aphrodisiac in the *Kamasutra*, the ancient Sanskrit text on sexuality and eroticism.[^33] In Hindu marriage ceremonies, trays of betel quid, symbolising everlasting bonds, were passed around for guests to chew.[^34] Although betel quid ingredients are still used in Hindu prayer offerings and wedding ceremonies today, the quid is rarely chewed. 
 
 
@@ -117,16 +124,6 @@ The betel quid is considered an aphrodisiac in the *Kamasutra*, the ancient Sans
 |Betel chewing also shaped sartorial practices. A wealthy Malay lady in the 1920s might wear an intricately crafted silver belt from which hung a purse and a case to contain betel ingredients so as to satisfy her craving for a chew while she was out.[^38] A Straits Chinese woman would drape a large red or dark-coloured handkerchief, folded into a triangle, over one shoulder of her *kebaya* for wiping red spittle from her lips.[^39]|
 
 |<img src="/images/Vol-16-issue-3/betel/straitschinesebetelset.png">An early 20th-century Straits Chinese betel set comprising four containers (*cembul*) for storing betel leaves, areca nut slices, slaked lime and gambier, and a nut slicer (*kacip*) designed as the Malay mythical flying horse known as the *kuda sembrani. Courtesy of the National Museum of Singapore, National Heritage Board.*|
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewing-sitandstand.png">
-
-(Left) A <i>paanwalla</i>, or betel quid vendor, at his stall, 1968. By the 1980s, as betel chewing had fallen out of favour, these vendors, once a ubiquitous sight in Singapore, joined the ranks of a long list of vanishing trades. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
-
-(Right) A woman with a chew in her mouth, 1955. Betel chewing was a habit indulged in by many women in early Singapore. <i>Donald Moore Collection, courtesy of National Archives of Singapore.</i>
-
-</div>
 
 #### **The Decline of Betel Chewing**
 
@@ -142,6 +139,16 @@ Anti-tuberculosis campaigns in the post-war decades also portrayed spitting as s
 
 As independent Singapore pursued its modernisation plans at full throttle, betel chewing became a habit associated with the older generations and was perceived as an outdated practice. In the mid-1970s, the weekend crowd at Geylang Serai Market was described as comprising mostly the elderly who chewed betel together.[^44] In Little India, too, the main chewers were older proprietors, seated in front of their shops.[^45] By the late 1980s, the *paanwalla* was considered part of a long list of vanishing trades in Singapore, along with Indian parrot astrologers and Chinese letter writers. 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/betel/betelchewing-sitandstand.png">
+
+(Left) A <i>paanwalla</i>, or betel quid vendor, at his stall, 1968. By the 1980s, as betel chewing had fallen out of favour, these vendors, once a ubiquitous sight in Singapore, joined the ranks of a long list of vanishing trades. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
+
+(Right) A woman with a chew in her mouth, 1955. Betel chewing was a habit indulged in by many women in early Singapore. <i>Donald Moore Collection, courtesy of National Archives of Singapore.</i>
+
+</div>
+
 #### **Contemporary Consumption**
 
 The 1980s saw the Singapore government vigorously courting the tourist dollar and Little India was developed into a tourist attraction. As a result, the *paanwalla* were retained and co-opted into the government’s plan to inject “local flavour” into the area.[^46] In this vision, a guided tour in Little India would not be complete without a visit to the *paanwalla* for a betel chewing demonstration, where tourists could marvel at his red saliva and stained teeth.[^47] Betel chewing was thus presented as an object of fascination in a reordered, modern and sanitised city. 
@@ -151,14 +158,6 @@ The betel quid trade in Singapore today is largely supported by migrants and vis
 In most homes today, betel chewing lives on, if at all, in the memories of those who recall their elderly relatives indulging in the habit:
 
 “I can still see [grandma], fragile and lovely in her *sarong kebaya*, her bun immaculate even at that hour, each ornate *cucuk sanggul* in place. Beside her was the betel set that was her trademark, each tiny container holding mystery none of her grandchildren would ever fathom. With each story she delicately prepared and chewed a betel quid, weaving a spell that held us entranced.”[^48]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewing-yellowcloth.jpg">
-A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red container filled with betel leaves, brass receptacles for holding the incense and <i>air mawar</i> (rose water), and a container for storing the areca nut <i>(pinang)</i> and slaked lime <i>(kapor or chunam).</i> <i>PictureSG, National Library, Singapore.</i>
-
-</div>
-<br>
 
 |The authors would like to thank Gayathrii Nathan and Toffa Abdul Wahed for their research assistance and for reviewing an early draft of the article; Dr Azhar Ibrahim for his thoughts on the subject; and Baba G.T. Lye for participating in the interview. Initial research for this article was conducted for “Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption”, a collaborative project supported by the Heritage Research Grant of the National Heritage Board, Singapore.[^49]|
 
@@ -180,14 +179,14 @@ A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red cont
 #### **NOTES**
 
 [^1]: Here, *sirih* refers to the betel quid, but *sirih* is also the Malay term for the betel leaf. 
-[^2]: Miksic, J. (2013). *Singapore & the Silk Road of the sea, 1300–1800* (p. 316). Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
+[^2]: Miksic, J. (2013). *[Singapore & the Silk Road of the sea, 1300–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868)* (p. 316). Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
 [^3]: Zumbroich, T.J. (2008). The origin and diffusion of betel chewing: A synthesis of evidence from South Asia, Southeast Asia and beyond. *eJournal of Indian Medicine, 1* (3), 87–140, p. 99. Retrieved from University of Groningen Press website. 
 [^4]: Reid, A. (1985, May). From betel-chewing to tobacco-smoking in Indonesia. *Journal of Asian Studies, 44* (3), 529–547, pp. 529–530. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^5]: Raghavan, V., & Baruah, H.K. (1958). Arecanut: India’s popular masticatory: History, chemistry and utilization. *Economic Botany, 12* (4), 315–345, pp. 317–318. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^6]: Betel chewing arrived in northern India later, around 500 BCE. See Zumbroich, 2008, pp. 114, 119.
-[^7]: *Dondang sayang* is a traditional poetic art form associated with the Malay and Straits  Chinese communities in Singapore and Malaysia. See National Library Board. (2015, March 9). *Dondang sayang* written by Stephanie Ho. Retrieved from Singapore Infopedia website.
+[^7]: *[Dondang sayang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_495_2004-12-20.html)* is a traditional poetic art form associated with the Malay and Straits  Chinese communities in Singapore and Malaysia. See National Library Board. (2015, March 9). *Dondang sayang* written by Stephanie Ho. Retrieved from Singapore Infopedia website.
 [^8]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
-[^9]: Mardiana Abu Bakar. (1987, October 12). The betel leaf and its role in Malay life. *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^9]: Mardiana Abu Bakar. (1987, October 12). [The betel leaf and its role in Malay life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871012-1.2.64.8.1). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 [^10]: Rohel, J. (2017). Empire and the reordering of edibility: Deconstructing betel quid through metropolitan discourses of intoxication. *Global Food History, 3* (2), 150–170, p. 156. Retrieved from Taylor & Francis Group website. 
 [^11]: Zumbroich, 2008, p. 90.
 [^12]: Reid, May 1985, pp. 529–530.
@@ -203,11 +202,11 @@ A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red cont
 [^22]: A form of address for elderly Peranakan Chinese women.
 [^23]: Grand dames bring life to the museum. (1987, September 6). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 [^24]: Lee, L.H. (1949, July 8). Keeping on the right side of all the gods. *The Malaya Tribune*, p. V. Retrieved from NewspaperSG.
-[^25]: Gwee, T.H. (2013). *A nyonya mosaic: Memoirs of a Peranakan childhood* (p. 60). Singapore: Marshall Cavendish. (Call no.: RSING 959.57030922 GWE)
+[^25]: Gwee, T.H. (2013). *[A nyonya mosaic: Memoirs of a Peranakan childhood](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684877)* (p. 60). Singapore: Marshall Cavendish. (Call no.: RSING 959.57030922 GWE)
 [^26]: 8,000 labourers on strike in Singapore. (1936, December 2). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^27]: Orme, W.B. (1914, February 7). Makan sireh. *The British Medical Journal, 1* (2771), 325–326, p. 326. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^28]: *The Singapore Free Press*, 13 Sep 1912, p. 3; Reid, 1988, p. 43.
-[^29]: Gwee, 2013, p. 81.
+[^29]: [Gwee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684877), 2013, p. 81.
 [^30]: Neo, D., & Rathabai, J. (2015). Elaborate customs and rituals. *The Peranakan*, (2), p. 16. Retrieved from The Peranakan Association Singapore website.
 [^31]: Norhuda Salleh. (2015). Tepak sireh: Interpretation and perception in Malay wedding customs. *INTCESS15 – 2nd International Conference on Education and Social Services* (pp. 1185–1186). Retrieved from International Organisation Center of Academic Research website. 
 [^32]: Warisan SG. (2015). *Sacred sirih: Traditions and symbolism in the Malay world Part 1* [Video]. Retrieved from YouTube.
@@ -226,5 +225,5 @@ A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red cont
 [^45]: Tan, F. (1975, May 17). Teck Kah… or the place under the bamboo. *New Nation*, p. 7. Retrieved from NewspaperSG.
 [^46]: Hole-in-the-wall stores at Little India to stay. (1992, June 11). *The Straits Times*, p. 40. Retrieved from NewspaperSG.
 [^47]: Lim, J., & Lim, Y.L. (2012, November 3). Enjoy the city’s charms. *The Straits Times*, p. 3; Lim, S.N. (1989, April 5). Giving old attractions new life. *The Business Times*, p. 10; Ng, I., & Fernandez, W. (1987, August 13). Arab Street and Little India captivate tourists. *The Straits Times*, p. 16. Retrieved from NewspaperSG.
-[^48]: Juita. N. (1989, May 10). Remembering the childhood joys of past Hari Rayas. *The Straits Times*, p. 20. Retrieved from NewspaperSG. [*Sarong kebaya* is the outfit worn by Malay and Peranakan women, comprising a sheer fabric blouse paired with a *batik sarong* skirt. *Cucuk sanggul* is a hair pin for securing the bun.]
+[^48]: Juita. N. (1989, May 10). [Remembering the childhood joys of past Hari Rayas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890510-1.2.35.2). *The Straits Times*, p. 20. Retrieved from NewspaperSG. [*Sarong kebaya* is the outfit worn by Malay and Peranakan women, comprising a sheer fabric blouse paired with a *batik sarong* skirt. *Cucuk sanggul* is a hair pin for securing the bun.]
 [^49]: Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Heritage Board, Singapore.
