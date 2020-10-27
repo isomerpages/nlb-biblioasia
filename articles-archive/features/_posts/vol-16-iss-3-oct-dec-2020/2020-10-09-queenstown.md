@@ -23,6 +23,9 @@ table {
 <br/>
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-libopening.jpg">
 
+Queenstown Branch Library on the night of its official opening, 30 April 1970. The ceremony
+began at 8.15 pm. Crowds are seen waiting to enter the library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
+
 </div>
 
 Fringed by tall palms and old rain trees, a modest, two-storey building nestles in the quiet street that is Margaret Drive. With its characteristic bowtie arches and floor-to-ceiling glass windows, the Queenstown Public Library has been a neighbourhood landmark for half a century. Although not a grand edifice, this humble building has played a significant role in the social and cultural life of a young nation.
@@ -59,6 +62,8 @@ Construction of the library took about a year. After it was completed in Decembe
 #### **Superlatives and Success**
 At the opening, Prime Minister Lee described Queenstown Branch Library as “a milestone in our rising standards of life” and announced that similar libraries would be set up in every major housing estate such as Toa Payoh, Katong, Jurong and Woodlands. He noted that these libraries would provide convenient access to books which most people could not afford to buy, and they would also be “sanctuaries of peace and quiet where concentration and better work is possible”. Queenstown Branch Library, he said, marked “one milestone along the road up the hill towards a more educated society”.[^14]
 
+The library’s popularity was evident in the snaking queues at the counter that formed on Saturdays as people borrowed and returned books. Additional staff had to be deployed to handle the crowd, many of them students in their early teens or younger. The library was so popular that by the end of 1972, it had achieved 97 percent of its membership target of 24,000. The number of books borrowed that year also saw a 15.9 percent increase to 1.76 million, compared with 1.5 million loans in 1971.[^15]
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-queeingup.jpg">
@@ -74,8 +79,6 @@ Patrons queuing up for library services at Queenstown Branch Library, 1970s. The
 The packed reading room of Queenstown Branch Library, 1970s. <i>PictureSG, National Library, Singapore</i>.
 
 </div>
-
-The library’s popularity was evident in the snaking queues at the counter that formed on Saturdays as people borrowed and returned books. Additional staff had to be deployed to handle the crowd, many of them students in their early teens or younger. The library was so popular that by the end of 1972, it had achieved 97 percent of its membership target of 24,000. The number of books borrowed that year also saw a 15.9 percent increase to 1.76 million, compared with 1.5 million loans in 1971.[^15]
 
 Among those young bookworms was former Member of Parliament Chan Soo Sen. Chan remembered how he had been impressed when he visited the library for the first time as he had never seen so many books before. He said: “It was a nice environment. Near my place. Just walked five minutes from there.”[^16]
 
@@ -115,7 +118,7 @@ The newly formed National Library Board (NLB) aimed to “expand continuously th
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/queenstown/queenstown-libstaffscanbarcode.jpg">
+<img src="/images/Vol-16-issue-3/queenstown/queenstown-libstaffscanbarcodee.jpg">
 
 A patron watches as the library staff scans the barcode on his new library membership card, 1980s. <i>PictureSG, National Library, Singapore</i>.
 
