@@ -229,5 +229,4 @@ A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red cont
 [^46]: Hole-in-the-wall stores at Little India to stay. (1992, June 11). *The Straits Times*, p. 40. Retrieved from NewspaperSG.
 [^47]: Lim, J., & Lim, Y.L. (2012, November 3). Enjoy the city’s charms. *The Straits Times*, p. 3; Lim, S.N. (1989, April 5). Giving old attractions new life. *The Business Times*, p. 10; Ng, I., & Fernandez, W. (1987, August 13). Arab Street and Little India captivate tourists. *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 [^48]: Juita. N. (1989, May 10). Remembering the childhood joys of past Hari Rayas. *The Straits Times*, p. 20. Retrieved from NewspaperSG. [*Sarong kebaya* is the outfit worn by Malay and Peranakan women, comprising a sheer fabric blouse paired with a *batik sarong* skirt. *Cucuk sanggul* is a hair pin for securing the bun.]
-[^49]: Any opinions, findings and conclusions or recommendations
-expressed in this material are those of the authors and do not necessarily reflect the views of the National Heritage Board, Singapore.
+[^49]: Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Heritage Board, Singapore.
