@@ -161,7 +161,6 @@ A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red cont
 
 </div>
 <br>
-
 |The authors would like to thank Gayathrii Nathan and Toffa Abdul Wahed for their research assistance and for reviewing an early draft of the article; Dr Azhar Ibrahim for his thoughts on the subject; and Baba G.T. Lye for participating in the interview. Initial research for this article was conducted for “Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption”, a collaborative project supported by the Heritage Research Grant of the National Heritage Board, Singapore.[^49]|
 
 <div style="background-color: white;">
