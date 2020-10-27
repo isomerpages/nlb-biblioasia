@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: 
 sections:
-        - hero:
+    - hero:
         title: 
         subtitle:
         background: /images/Vol-16-issue-2/Main Banner2.jpg
