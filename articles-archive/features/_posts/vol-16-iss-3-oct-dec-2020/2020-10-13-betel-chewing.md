@@ -183,8 +183,8 @@ A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red cont
 [^1]: Here, *sirih* refers to the betel quid, but *sirih* is also the Malay term for the betel leaf. 
 [^2]: Miksic, J. (2013). *Singapore & the Silk Road of the sea, 1300–1800* (p. 316). Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
 [^3]: Zumbroich, T.J. (2008). The origin and diffusion of betel chewing: A synthesis of evidence from South Asia, Southeast Asia and beyond. *eJournal of Indian Medicine, 1* (3), 87–140, p. 99. Retrieved from University of Groningen Press website. 
-[^4]: Reid, A. (1985, May). From betel-chewing to tobacco-smoking in Indonesia. *Journal of Asian Studies, 44* (3), 529–547, pp. 529–530. Retrieved from JSTOR via NLB’s eResources website.
-[^5]: Raghavan, V., & Baruah, H.K. (1958). Arecanut: India’s popular masticatory: History, chemistry and utilization. *Economic Botany, 12* (4), 315–345, pp. 317–318. Retrieved from JSTOR via NLB’s eResources website.
+[^4]: Reid, A. (1985, May). From betel-chewing to tobacco-smoking in Indonesia. *Journal of Asian Studies, 44* (3), 529–547, pp. 529–530. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^5]: Raghavan, V., & Baruah, H.K. (1958). Arecanut: India’s popular masticatory: History, chemistry and utilization. *Economic Botany, 12* (4), 315–345, pp. 317–318. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^6]: Betel chewing arrived in northern India later, around 500 BCE. See Zumbroich, 2008, pp. 114, 119.
 [^7]: *Dondang sayang* is a traditional poetic art form associated with the Malay and Straits  Chinese communities in Singapore and Malaysia. See National Library Board. (2015, March 9). *Dondang sayang* written by Stephanie Ho. Retrieved from Singapore Infopedia website.
 [^8]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
@@ -206,7 +206,7 @@ A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red cont
 [^24]: Lee, L.H. (1949, July 8). Keeping on the right side of all the gods. *The Malaya Tribune*, p. V. Retrieved from NewspaperSG.
 [^25]: Gwee, T.H. (2013). *A nyonya mosaic: Memoirs of a Peranakan childhood* (p. 60). Singapore: Marshall Cavendish. (Call no.: RSING 959.57030922 GWE)
 [^26]: 8,000 labourers on strike in Singapore. (1936, December 2). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
-[^27]: Orme, W.B. (1914, February 7). Makan sireh. *The British Medical Journal, 1* (2771), 325–326, p. 326. Retrieved from JSTOR via NLB’s eResources website.
+[^27]: Orme, W.B. (1914, February 7). Makan sireh. *The British Medical Journal, 1* (2771), 325–326, p. 326. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^28]: *The Singapore Free Press*, 13 Sep 1912, p. 3; Reid, 1988, p. 43.
 [^29]: Gwee, 2013, p. 81.
 [^30]: Neo, D., & Rathabai, J. (2015). Elaborate customs and rituals. *The Peranakan*, (2), p. 16. Retrieved from The Peranakan Association Singapore website.
