@@ -8,231 +8,143 @@ third_nav_title: The Borobudur, Mysterious Gold Plates and Singing Maps
 
 <style>
 table { 
-	background-color: #d6dae9;
+	background-color: #ffe19c;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #d6dae9
+  background: #ffe19c;
 }
 </style>
 
-#### The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. **Kevin Y.L. Tan** documents his life and work. 
+
+#### Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller The Java Enigma by debut novelist **Erni Salleh**.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/plague/DrWuLienTeh.jpg">
-
-Dr Wu Lien-Teh working with a microscope in his first plague laboratory in Harbin, China, 1911. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
-
+<img src="/images/Vol-16-issue-3/borobudur/theborobudur-buddha.jpg">
+Sunrise as seen from the summit of Borobudur, with Mount Merapi in the horizon, 2017. Photo by <i>Erni Salleh.</i>
 </div>
 
-The year 2020 will be remembered as the time when the Covid-19 pandemic struck. As the virus spread through towns and cities, people were made to isolate themselves, to work from home and to don face masks when they went out.
+Watching the sun rise from Borobudur is a magnificent experience.
 
-Although few realise it, much of this is a replay of some of the protocols that were pioneered 110 years ago by a brilliant but now-forgotten Penang-born bacteriologist Wu Lien-Teh (伍連德) when he was tasked to deal with the Manchurian pneumonic plague of 1910–11. Wu’s efforts gained him the reputation and sobriquet “The Plague Fighter”.[^1]
+The climb to the summit starts at 4 am. As your eyes become accustomed to the darkness, you might spot offerings of flowers and incense at the base of the 9th-century Buddhist monument as the call of prayers from the nearby village mosques serenades your ascent. 
 
-#### **The Making of a Modern Chinese Doctor**
-Born in Penang on 10 March 1879, Wu was the fourth son of Ng Khee-Hock (1832–1916) and Lam Choy-Fan (1844–1908). Ng was an immigrant from Taishan in Guangdong province, China, while Lam was a Penang-born Hakka. Although Wu’s Cantonese birth name was Ng Leen Tuck, he was officially registered as “Gnoh Lean Tuck” by a school clerk who transliterated his name into Hokkien.[^2] Wu was known by this name until 1908 when, upon arrving in Tianjin, China, he had it transliterated into Mandarin as Wu Lien-Teh. (When Wu was studying in Cambridge though, he was known as G.L. Tuck as the English mistook his personal name for his surname).[^3]
+When you reach the top, you are greeted by a large central stupa, surrounded by 72 smaller ones. Two of these are exposed, showing a seated Buddha in a lotus pose, one facing the east and the other, west. I like to think these statues are privy to the many secrets still waiting to be uncovered in the region – mysteries and forgotten histories that inspire writers such as myself to speculate and to weave stories around them. 
 
-In 1886, at the age of seven, Wu enrolled at the Penang Free School. Seven years later, he sat for the first of his four attempts at the Queen’s Scholarship examination. In 1896, the 17-year-old was finally awarded the scholarship and became only the third student from the Penang Free School to bag this prestigious honour.[^4]
+#### **Inspiration for The Java Enigma**
 
-Scholarship in hand, Wu entered Emmanuel College in Cambridge where he continued to excel. In 1898, he was awarded the “Exhibition” (scholarship) in Natural Science at the college, which earned him a stipend of £40.[^5] Reporting this news, *The Singapore Free Press and Mercantile Advertiser* speculated that Wu was the first Straits student at either Oxford or Cambridge to attain the status of “Exhibitioner”.[^6]
+It was during such a climb in July 2017 that the inspiration for my novel, *The Java Enigma*, took root. Just like Irin, the main character of the story, I had received devastating news of my father’s passing while I was away from home. In my case, I was neck-deep in field research at the Borobudur Archaeological Park in Central Java for my post-graduate degree in Southeast Asian Studies, and it was impossible for me to get home in time for his funeral. (Muslim tradition mandates that the deceased be buried within 24 hours of a person’s passing.)
 
-In his third year, Wu obtained a First Class in his Bachelor of Arts final examination (which he had to take before studying for his medical degree in Cambridge) and was made a Foundation Scholar with a stipend of £60. Thereafter, he won one of two university scholarships offered by St Mary’s Hospital in Paddington, which came with a £150-scholarship prize that was enough to cover his hospital training fees for three years. Wu was the first Chinese student to be accepted by St Mary’s where he won a series of prizes: the Special Prize in Clinical Surgery (1901), the Kerslake Scholarship in Pathology (1901) and the Cheadle Gold Medal for Clinical Medicine (1902).[^7]
+However, unlike Irin, my late father did not leave me a secret safe deposit box with codes that sent me chasing for clues around the world. Instead, his passing prompted me to dig into his past and his work on marine salvage projects overseas. It brought to memory his adventures navigating treacherous waters and uncovering priceless treasures around the world, from the Java Sea all the way to the Gulf of Mexico. This man, who always seemed larger than life to me, provided the inspiration as well as the starting point for many of the mysteries the reader encounters in my book. 
 
-Upon completing his three-year clinical training in 1902, Wu obtained a House Physicianship at the Brompton Hospital for Consumption and Diseases of the Chest.[^8] At Brompton, he received news from Emmanuel College that he had been awarded a Research Studentship, valued at £150 a year, to undertake postgraduate work at a research institute in either England or continental Europe.
-
-Wu spent the last four months of 1902 at the Tropical Diseases Institute in Liverpool. At the end of his stint, Wu completed his final examination for his Bachelor of Medicine and Bachelor of Surgery degrees. At his oral examination, Clifford Allbutt, Regius Professor of Medicine at Cambridge University, advised Wu to make good use of his forthcoming research stint in Europe and to submit it for the degree of Doctor of Medicine (MD).[^9]
-
-In 1903, Wu spent eight months in Germany’s University of Halle (today’s Martin Luther University of Halle-Wittenberg), under the supervision of the famous German bacteriologist Professor Karl Fraenkel, and then at the Institut Pasteur in Paris under Professor Ellie Metchikoff. Wu then returned to Cambridge University and worked on his doctoral thesis which he submitted to Professor Allbutt in August that year. 
-
-Wu successfully defended his thesis and, at age 24, had done everything necessary to fulfill the requirements for his MD degree. However, as university regulations stipulated that there should be a minimum of three years between the initial medical degrees and the MD degree, Wu was only conferred the latter two years later *in absentia* in 1905.
-
-Meanwhile, Wu expressed interest in working for the Colonial Medical Service but was informed by the Colonial Office that he would only be accepted as an “Assistant Medical Officer” and not as a “Medical Officer”, as the latter post was reserved for “Britishers of pure European parentage, whatever the qualification”.[^10] Incensed, Wu decided to accept another Research Studentship from Emmanuel College to pursue a further year of research into tropical diseases at the newly established Institute for Medical Research in Kuala Lumpur.
-
-In 1903, Wu returned to Malaya, stopping by Singapore for a week before travelling to Penang to visit his parents whom he had not seen in almost seven years. He then headed to Kuala Lumpur where he undertook research into beri-beri as the institute’s first research student.[^11] On completing his fellowship at the end of 1904, Wu returned to Penang and established a private medical practice on Chulia Street that became very popular.[^12]
-
-<div class="infobox"> 
-
-<b>THE WU LIEN-TEH COLLECTION</b><br>
-<div style="background-color: #d6dae9;">
-<br/><img src="/images/Vol-16-issue-2/plague/portrait.png">
-
-Dr Wu Lien-Teh, at age 41, taking charge of anti-plague work during the second pneumonic plague epidemic in Manchuria, c. 1920. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.</div><br>The Wu Lien-Teh Collection in the National Library has over 840 photographs that mainly document Wu’s work and achievements in Manchuria and China, including his efforts to contain the pneumonic plague of 1910–11 and 1920–21. In addition, there are photographs of his family and friends.<br><br>The photographs of Manchuria and China capture grim scenes such as unburied bodies left out in the open, mass cremation of corpses, and the isolation and protective measures adopted to curb the spread of the plague. These were likely to have been taken and captioned by Wu himself. It is not known who took the photographs of Wu with his family, friends and colleagues.<br><br>These photographs came from two separate donations. In 2010, Wu’s eldest daughter, Dr Betty Wu Yu-lin, gave three photo albums to the National Library as well as individual photographs. The three albums are titled <i>Plague and Medical Scenes: Manchuria and China, 1911, 1921 up to 1936</i>; <i>Chronological Record of Anti-plague Work in Manchuria and China, 1910–1937</i>; and <i>Ruth’s Complete Collection, 1910 to 1935</i>. In 2018, the National Library received another 35 photographs from Dr Wu’s grandson, Daven Wu. The photographs have been digitised and can be accessed on the National Library’s PictureSG portal.<br><br>The Wu Lien-Teh Collection also includes publications by Dr Wu, such as <i>League of Nations Health Organisation: A Treatise on Pneumonic Plague</i>; <i>History of Chinese Medicine</i>; <i>The Queen’s Scholarships of Malaya, 1885–1948</i>; and <i>Plague Fighter: The Autobiography of a Modern Chinese Physician</i>; two typescript manuscripts; and a set of compiled genealogy of the Wu surname, which traces it back to Lingnan in China (岭南伍氏阖族总谱).
-
-</div>
-
-#### **Social Causes and the Anti-Opium Movement**
-Although Wu only spent a week in Singapore en route to Penang in October 1903, it was a period that would have a big impact on his life. He stayed with Lim Boon Keng[^13] – also a medical doctor and Singapore’s first Queen’s Scholar – who initiated Wu “into the need for devoting some time to social service among the people”.[^14] At Lim’s home, Wu met the “most charming and beautiful” Ruth Huang – the younger sister of Lim’s wife Margaret. She reciprocated his affections and the couple married in July 1905.
-
-Apart from his flourishing medical practice in Penang, Wu also played a “prominent part in the social service work, and tried hard to introduce reforms among the people, such as girls’ education, removal of the queue [pigtails for men], campaign against gambling and opium smoking, formation of literary clubs and promotion of healthy physical exercises among boys and girls”.[^15]
-
-In 1906, Wu plunged himself “heart and soul into the anti-opium campaign” after reading that the British parliament had denounced the opium trade and requested the British government “to take such steps as may be necessary for bringing it to a speedy close”.[^16] In March that year, Wu organised the first-ever Anti-Opium Conference for the Straits Settlements and Federated Malay States, which was held in Ipoh.[^17]
-
-Unfortunately, the official rhetoric on stopping the opium trade had not yet percolated to the colonies. Officials in Malaya still supported the trade in opium and continued issuing licences for its sale. In retaliation, the Penang authorities decided to teach Wu a lesson by prosecuting him for unlicensed opium possession. In 1906, a staged “raid” was organised by no less than the Senior Medical Officer of Penang, Dr Sidney Lucy. Wu had purchased a single ounce of opium from the previous owner of the dispensary, but had never sold nor dispensed it. He was charged with possessing opium without a requisite licence and was fined $100 by the District Court. His conviction was subsequently upheld by the Supreme Court.
+As a librarian, access to this wealth of knowledge felt like being immersed in my own personal archive. I spent hours cataloguing items from my father’s past, piecing together the where, the when and the why. I found some of his earliest moments as a salvage diver captured in photos and discovered that he, too, had spent time at Borobudur. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/plague/DrWuFamily.jpg">
-
-Dr Wu Lien-Teh (standing, extreme right) in a family portrait with his parents, four brothers and three nephews, 1903. He had just returned from England. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
-
+<img src="/images/Vol-16-issue-3/borobudur/theborobudur-ernisalleh.jpg">
+Librarian and debut novelist Erni Salleh. <i>Courtesy of Epigram Books.</i>
 </div>
 
-#### **The First Plague Epidemic, 1910**
-At the time of Wu’s troubles with the Penang authorities, he received two invitations: the first from London to attend an anti-opium meeting at the Queen’s Hall and the second from General Yuan Shih-Kai, Grand Councillor (and later President) of the Chinese government in Peking (Beijing), who offered him the post of Vice-Director of the Imperial Medical College in Tianjin.[^18] Although Wu was only 29 years old at the time, he felt that he was at a major crossroads in his life:
-
-“Should I remain on the inhospitable shores of my birthplace where neither government nor friends seemed to need me, or should I accept the invitation, so opportunely offered, to render useful service to China where, at least, I would not be misrepresented and where I might find a fertile soil for promoting the scientific and health work which I had taken such pains to acquire before and since graduation.”[^19]
-
-Wu decided to accept both invitations. He set off for London and then went on a three-month tour of Europe. Upon his return to Penang, Wu resumed his practice but by May 1908, he and his family had set sail for China. Wu could hardly speak any Mandarin then as his education had wholly been in English, but he was a fast learner and very quickly picked up a working knowledge of the language, just as he had picked up French and German in the eight short months he worked in Europe. 
-
-By Wu’s own admission, the first few years of his stay in Tianjin “was not all too invigorating”,[^20] but this was to change in December 1910 when he received an unexpected telegram summoning him to the Foreign Ministry. Wu learned that there had been a deadly epidemic in Harbin and they needed an expert on bacteriology to “proceed to that region to investigate the cause and to suppress it, if possible”.[^21]
-
-A few months before, reports had reached Peking of a mysterious illness afflicting the people of Fuchiatien, the Chinese sector of the half-Russian town of Harbin in Northern Manchuria. Those who contracted the disease developed high fever, a cough with blood-streaked sputum and purplish discolouration of the skin. Almost all who were afflicted died within a few days. The Foreign Ministry feared that if the Qing court failed to stop the spread of the disease, the Russians and Japanese would take matters into their own hands and send in their own medical personnel to deal with the contagion.[^22]
+In October 2018, when I had to write a paper on tangible and intangible heritage for my postgraduate course, Borobudur was the natural choice. I visited numerous other temples, as well as plantations and local homestays, and spoke to countless locals and tourists. Returning to Borobudor was cathartic, bringing me closure but also continuity.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/plague/Horsecarts.jpg">
-
-Horse carts transporting corpses to the cremation ground in Fuchiatien, Harbin, 1911. China’s first outbreak of the deadly pneumonic plague occured in this remote northern Manchurian region. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
-
+<img src="/images/Vol-16-issue-3/borobudur/theborobudur-mohdsalleh.jpg">
+The writer’s father Mohd Salleh (left) posing with a friend in front of Borobudur a few days before a dive, 1982. <i>Courtesy of Erni Salleh.</i>
 </div>
 
-Wu and his assistant arrived in Harbin on Christmas Eve, 1910. The situation was grim: temperatures were minus 30 degrees, the city had just two doctors and five dressers for a population of 24,000, and dead bodies littered the streets, making the primitive unsanitary conditions of the town even worse. Russian doctors suspected bubonic plague (which is spread by infected flea bites) and examined patients without a mask. They soon contracted the disease as well. 
+In January 2019, armed with research materials about Borobudur and my father’s adventures, I began writing *The Java Enigma*, which I completed seven months later.
 
-The families of victims were unwilling to provide bodies of their loved ones for a post-mortem because of the Confucian tradition of mourning and burying the dead. The opportunity arose on his third day in Harbin when the Japanese wife of a Chinese innkeeper died and Wu was able to perform a preliminary post-mortem. He found the presence of the plague bacterium *Yersinia pestis* and evidence that it was a pneumonic plague (spread through the air by human hosts). Knowing that the disease was highly contagious and could spread from person to person through the inhalation of the bacterium, Wu formulated a strategy to control its spread. He had to do this quickly because many people were preparing to return from the city to their villages for the upcoming Lunar New Year, which would cause a further spread of the disease.
+*The Java Enigma* is a thriller centred around the origins of Borobudur. Irin, the novel’s main protagonist, is a librarian who uncovers the real reason for the hidden panels – known as the Karmawibhangga Reliefs and chanced upon in 1885 – at the base of what is said to be the biggest Buddhist temple in the world. The discovery pits her against those fighting to guard its ancient secrets. 
 
-To keep the infected away from others, disused schools, warehouses and other facilities like train cars were turned into isolation facilities. In addition, a new plague hospital was built while the old one was burnt down. Wu also recommended the use of face masks so that people could protect themselves and others from the infection.
 
-Initially, Wu’s plan met with opposition. Dr Gerald Mesny, a French professor at the Peiyang Medical College in Tianjin – who had experience dealing with the bubonic plague – insisted on being put in charge of operations. Mesny cast aside Wu’s plan with typical colonial arrogance. When Wu paid him a courtesy call and sat quietly, “trying to smile away their differences”, the Frenchman yelled threateningly, “You, you Chinaman, how dare you laugh at me and contradict your superior.”
+#### **The Research Process**
+
+Back in Singapore, I relied heavily on reference materials at the regional libraries and the Lee Kong Chian Reference Library. I also consulted scholarly journals via the library’s access to JSTOR, a digital library of academic journals and books. Not many people know this but reference books at Jurong, Woodlands and Tampines regional libraries can be borrowed, a blessing for time-strapped professionals like me. However, my all-time favourite resource was BookSG – a repository of digitised books and other print materials – because of its amazing collection of digital maps that includes items from The British Library. 
+
+All these resources are equally available to the public. My access to rare documents at the National Library was the same as any other library user. Even though I work for the library, I did not get preferential treatment (in fact, I got a minor dressing-down once when I mistakenly brought a pen instead of a pencil into the reading room).
+
+#### **The Writer’s Challenge**
+
+My job as a librarian requires me to approach information as a science, classifying and packaging it to meet the needs of users; impartiality being the primary guiding principle. Although my training in history requires me to make inferences, historians are also preoccupied with facts. As a writer of fiction though, I have to distill the essence of my research into an interesting narrative that moves the plot along. This is sometimes at odds with the librarian-historian in me who wants to ensure that the facts 
+are accurate.
+
+How did I resolve this conundrum? I’d like to think that I see information as a piece of a larger puzzle. The librarian in me presents these pieces, the historian connects them, while the writer creates new ones to add on to or disrupt our understanding of that puzzle. The challenge is to know when to hold back one impulse and to let the other have the limelight. You wouldn’t believe the number of times my editor had to remind me that I wasn’t writing a thesis.
+
+I found that immersing myself in fiction was one of the best ways to unleash my fun, creative side. My job with Molly, the mobile library bus, was also good training as it gave me the chance to read with, and read to, children and parents on board the bus. My genre of choice: wordless picture books. You can change the story to suit any audience and make up your own plot along the way – what better way to practise the art of developing a narrative?
+
+#### **Bridging the Historical Gap with Fiction**
+
+It is perhaps not surprising that the daughter of a salvage diver would find joy in uncovering the hidden. And the history of the region has no shortage of hidden or unknown aspects. Doing my Masters in Southeast Asian studies opened my eyes to the many gaps in scholarship in this area: narratives lost over the centuries due to the death of ancient languages and ancient cultures, and from perishable records. I used some of these as plot devices in *The Java Enigma*, from lost 15th-century indigenous maps to the mysterious location of the shipwreck of the Portuguese carrack *Flor de la Mar* and, of course, the raison d’être of the book’s namesake – the biggest enigma on the island of Java – Borobudur. 
+
+Borobudur is the only surviving monument of its kind in Java and, possibly, Southeast Asia.[^1] In ancient times, a pilgrim would make his way up to the summit, meditating and praying as he circumambulates 10 rounds past the 1,460 relief panels centering around the themes of punishment and reward, the life of Buddha and the search for the ultimate wisdom – symbolic of the 10 stages of existence that a bodhisattva goes through to attain enlightenment. 
+
+What a pilgrim today would not see, however, is an additional 160 panels at the base of the monument showing scenes of heaven and hell from Buddhist mythology, illustrating the rewards or punishment of one’s actions. These were concealed by stone slabs at some point, then discovered by accident in 1885 and were covered up again five years later after photographic records were made. What is visible now are four panels in the southeastern corner of the monument, exposed by curious members of the Japanese occupation forces in the early 1940s.
+
+Why were these panels hidden? When was this done and under whose instruction?
+Conservationists generally agree that the panels were erected to shore up the sagging stones and provide a broader base to hold up the weight of the upper levels. The lack of a cornice to prevent rain damage or a plinth for added support has led some scholars to believe that “the stone covering had already been foreseen before the whole project was executed”.[^2] (The reliefs on the other levels of Borobudur have cornices to protect them from the rain.) Of course, the writer of a thriller might have entirely different ideas about why someone would want these panels covered up, and this is why these hidden panels form a major plot element in my book. 
+
+One real-life mystery I use for my novel is a set of inscriptions carved into 11 rectangular gold plates that mysteriously appeared at Jakarta’s Museum Nasional Indonesia in 1946. The provenance of these plates and how they suddenly came to be at the museum are an unsolved puzzle to this day. The engravings were copied between 650 and 800 CE from a much earlier scripture that reached Java in the early 5th century. The plates contain well-known Buddhist teachings about the 12 causes of suffering and how to break this chain to attain enlightenment. It was written in a language that transitions between the sacred Pallava script and that of vernacular Old Javanese, or Kawi.[^3] Bereft of complicated grammatical sentences, the text seems to have been written for commoners rather than for priests or the ruling class.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/plague/Wagons.jpg">
-
-Two horse-drawn wagons used as ambulances during the pneumonic plague epidemic that started in Harbin, China, in 1911. The covered one on the right is for the sick, while the unsheltered one is for those who had come into contact with the sick. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
-
+<img src="/images/Vol-16-issue-3/borobudur/theborobudur-hiddenfoot.jpg">
+The four previously hidden panels located at the base of the southeastern corner of Borobudur, 2017. <i>Photo by Erni Salleh.</i>
 </div>
 
-Wu reported the encounter and tendered his resignation, but the authorities asked him to stay while they suspended Mesny’s services. Unfortunately for Mesny, his failure to correctly diagnose the disease cost him his life. Thinking that it was another type of bubonic plague, Mesny went about examining patients without a mask. As a result, he caught the pneumonic plague and died six days later.[^23] Suddenly, everyone wanted the simple cotton and gauze mask that Wu had used and recommended. Volunteers were soon producing them by the thousands.
+The most intriguing aspect of these gold plates is the presence of a particular verse that does not have an equivalent in any Buddhist text, whether in the original Indic languages, or in Tibetan or Chinese translations. Yet, this same verse is echoed in artefacts found at eight other locations in Southeast Asia, including three stone slabs discovered in Peninsular Malaysia, and stone stupas in Brunei, Sarawak and Kalimantan. The text reads:
 
-Despite all the isolation and movement controls enforced by military troops, the infection and mortality rates continued to rise throughout January 1911. In addition, there was another problem in Harbin: dead bodies were piling up because the ground had frozen solid to a depth of two metres, making burial impossible.
+*“Ajñānāc cīyate karma janmanaḥ karma kāraṇam Jñānān na kritate karma karmmābhāvān na jāyate.”*
 
-In late January, when Wu visited the burial ground, he found rows of corpses and coffins a mile long, all unburied. This presented him with a most difficult and delicate situation. If the corpses were left unburied, they would pose a huge health risk in the coming spring when rats would gnaw at the infected decomposing bodies and spread the infection further. The only way to quickly dispose of the corpses was to organise a mass cremation, but that would go against the tenets of Confucianism in a country where ancestor worship and visiting ancestral tombs had been viewed as an act of filial piety for centuries.
+(Translation: Through ignorance, karma is accumulated; Karma is the cause of rebirth. Through wisdom, karma is not accumulated; In the absence of karma, one is not reborn.)[ˆ4] 
 
-However, Wu managed to convince the local officials and a memorandum was sent to the Chinese emperor to approve their proposed action. Three days later, an imperial edict was handed down and on 31 January 1911 (the second day of the Lunar New Year), what is believed to be the first mass cremation in Chinese history was carried out in Harbin.
+Because this verse is not found in the Buddhist canon, researchers have suggested the possibility of it originating from a local text that was circulated in the region but then was later redacted. This prompts further questions: who selected this verse and chose to associate it with the various artefacts in Southeast Asia? And who sponsored the valuable Javanese gold plates? 
 
-Eventually, the containment measures began to have an impact and mortality rates started falling almost immediately. By 1 March 1911, the last case of the plague in Harbin was registered. In other cities, the outbreak lasted another month before it was finally contained. In all, the epidemic affected an area that stretched almost 2,800 km from Manchuria to Peking, and reaching Zhili and Shandong provinces. It lasted seven months and claimed some 60,000 lives.
+What we do know is that the gold plates had likely “served as relics – inscribed to constitute a deposit in a religious foundation such as a stupa” or “one of the large Buddhist temples in Indonesia”.[^5] But seeing that the origins of the verse are unknown, a writer has the luxury to speculate if it could link to Borobudur. And so the mysterious local text ended up as grist for my literary mill.
 
-#### **The Second Plague Epidemic, 1920**
-In 1912, Wu was made director of the newly set up North Manchurian Plague Prevention Service and he established a network of plague hospitals and laboratories throughout the region. As a result, he was prepared when a second major outbreak occurred in 1920.
+#### **Making Sense of Ancient Maps**
 
-The second plague began in October in the Hailar district of Manchuria and quickly spread through cities and towns in China’s north-east. Efforts by the Plague Prevention Service and local authorities eventually stopped the epidemic in October 1921, but not before 9,300 people had died.
+The artefacts carrying the mysterious verses were discovered at nodal points along the maritime trade routes from India to China. However, this is not to suggest that the verses moved in a single direction, seeing that trade routes are complex and multidirectional, and texts are open to indigenous interpretations and circulation. Glimpses of Southeast Asian mariners – along with their technology of shipbuilding, navigation and cartography – have been preserved in Borobudur’s stone reliefs, which prompted me to make an unexplored connection between sea travels, the origins of Borobudur’s architecture and the meaning behind the untraceable verses. 
 
-During this outbreak, Wu himself went to affected areas to assess the situation and to make recommendations. In a paper published in *The Journal of Hygiene* in 1923, Wu wrote that when the outbreak first broke out in Hailar, he and his team had gone there in November 1920 where they noticed “the gradual evolution of the plague from the bubonic through the septicaemic into the pneumonic form, due principally to promiscuous spitting and huddling together of coolies day and night in unventilated inns”.[^24]
+The researcher and curator Thomas Suárez notes that “[i]n early Southeast Asia, there was no absolute distinction between the physical, the metaphysical and the religious. Southeast Asian geographic thought, like Southeast Asian life, could be at once, both empirical and transcendental”.[^6] 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/plague/EpidemicinManchuria.jpg">
-
-During the second pneumonic plague epidemic in Manchuria in 1921, Dr Wu Lien-Teh (left) and another doctor conducted experiments on animals like marmots to find out how the disease spread. In 1910, when the pneumonic plague outbreak first began, the initial victims of the disease were marmot trappers and fur traders in Manchouli (Manzhouli), along the Siberian border. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
-
+<img src="/images/Vol-16-issue-3/borobudur/theborobudur-westjavamap.jpg">
+Detail from a 16th-century map of a district in West Java. This detailed map is drawn in ink on cloth and shows what indigenous mapmaking in Java looks like. <i>Image reproduced from Holle, K.F. (1876). De Kaart van Tjiela of Timbanganten. Tijdschrift voor Indische Taal-, Land- en Volkenkunde, Deel 24. Batavia: Lange & Co.</i>
 </div>
 
-Wu also wrote about the non-medical difficulties that doctors faced. In the city of Harbin, rumours circulated that the plague hospital’s staff poisoned wells, flour and food in order to kill patients and earn the $3 they were paid for each dead body. In addition, he noted that the hospital “took in patients but did not let them out, and that something uncanny therefore happened within the hospital compound”.[^25] This suspicion made the lives of the doctors much harder. Wu wrote:
+This fluidity in time and space is an element I have incorporated into my novel as a way to remind readers to situate their appreciation of these histories and mysteries outside of familiar Western modes of measurements and methods of mapmaking. This is an important consideration so that we don’t see the limited number of extant Southeast Asian maps as inaccurate or having no practical value simply because we are viewing it through the lens of current cartographic conventions.
 
-“For instance, the Chief Medical Officer was accused of shooting the sick in the plague compound and was threatened with a similar fate should an opportunity offer itself, our house-to-house inspection doctors were on several occasions faced with revolvers and knives in the course of their duty, while the disinfection assistants were almost obliged to swallow some of the disinfectants used in the disinfected houses.”[^26]
+In his letter to King Manuel of Portugal dated 1 April 1512, Alfonso de Albuquerque, founder of Portugal’s empire in Southeast Asia, wrote that the Bugis of Sulawesi and the maritime traders in Java and Sumatra have been recorded as having maps so detailed that they contained references to “the Clove islands, the navigation of the Chinese and the Gores [people of Formosa], with their rhumbs and direct routes followed by the ships, and the hinterland, and how the kingdoms border on each other”.[^7]
+
+However, the Bugis also relied on unwritten itineraries that were committed to memory in the form of songs so that navigators could construct a mental image of time and space, topography and even landmarks. This might have been the preferred mode of mapmaking by the Bugis, in an attempt to keep their navigational aids confidential, after witnessing “the aggressive commercial spirit of their European visitors”.[^8] Many of their physical maps, like the one described earlier, ended up in the hands of Europeans or were lost at sea. One such map went missing when the *Flor de la Mar* sank during its voyage from Melaka to Portugal in 1511. While a copy of this map might have survived thanks to the efforts of Portuguese pilot Francisco Rodrigues in 1513, any mention of European reliance on native Southeast Asian maps seem to have disappeared from written records from this point on.
+
+#### **Historical Mysteries or Forgotten Narratives?**
+
+The loss of a large corpus of indigenous maps was not as disconcerting as my realisation that despite being a seaman’s daughter, I have never once heard a “map” being sung to me. Surely such a map exists out there, waiting to be documented, if it hasn’t already disappeared from our cultural consciousness? Who’s to say that these lost maps do not provide clues to the secrets and mysteries in the region that remain unsolved today?
+
+As an academic and a writer, I feel the responsibility of bringing to the fore unknown stories that have not made their presence in history books; the literary space being a safe place to explore and present these narratives. *The Java Enigma* is my attempt at addressing these forgotten histories while bringing the mysteries of our region into a meaningful dialogue with one another. At the same time, to me, the real challenge of using history in fiction is whether in the end you’ve been able to guide your readers to engage with your story emotionally and cognitively, letting them ask their own questions and make their own decisions about the “what-ifs” of our pasts. 
+
+|<img src="/images/Vol-16-issue-3/borobudur/theborobudur-javaenigma.jpg">|
+|The Java Enigma is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING S823 ERN and ERN). It also retails at major bookshops in Singapore.|
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/plague/CorposeCollector.jpg">
-
-Corpse collectors using long prongs to collect dead bodies during the second pneumonic plague epidemic in Manchuria, 1921. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
-
+<img src="/images/Vol-16-issue-3/authors/GeoffreyPakiam.png" style="width: 100px; height: 100px;"/>
+<b>Erni Salleh</b> is a trained librarian who currently manages the Mobile Library Services at the National Library Board. She is the author of <i>The Java Enigma</i>, which was shortlisted for the 2020 Epigram Book Fiction Prize. An avid traveller, she collects bits of the past – from 19th-century Laotian ceremonial scrolls to generations-old keris from Yogyakarta.
 </div>
 
-Wu also met with resistance to mask-wearing among some medical personnel. When he visited the affected Manchouli (Manzhouli) region, he found a small Russian medical team there (half the region’s population was Russian). They were “most untrained, very careless about wearing masks in the presence of the sick and the dead” and even “smoked cigarettes while handling the dead”. Three nurses and 15 attendants from this team subsequently died from the plague. The Plague Prevention Service, on the other hand, suffered no fatalities.[^27]
 
-Wu himself was proud of the cotton and gauze masks he had popularised, and he noted that the service’s laboratory in Harbin also produced 60,000 face masks, in addition to their routine work.[^28]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/plague/Mask.jpg">
-
-Demonstrating the correct way to wear cotton and gauze masks during the second pneumonic plague in Manchuria (1920–21). <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
-
-</div>
-
-#### **Father of Modern Chinese Medical Services**
-By now, Wu had become an important figure in the world of Chinese medical services.[^29] Following the first plague of 1910–11, he submitted a long memorandum on “Medical Education in China”, suggesting radical improvements to modernise the training of medical students. At Wu’s instigation, the government established the National Medical Association in 1915 to promote Western medicine in China. Wu was elected as its inaugural secretary and later served two terms as president from 1916 to 1920. 
-
-In 1930, the Chinese government created the National Quarantine Service and appointed Wu as its first director. Headquartered in Shanghai, this agency  enabled the government to regain control of quarantine centres in China’s major ports that were previously under the supervision of foreign powers.
-
-Wu was also responsible for initiating the building of modern Western-style medical facilities in China. The centrepiece of his efforts was the Peking Central Hospital to which he devoted his best efforts “unceasingly for four years, because it was intended as a model *civil* hospital”.[^30] Between 1912 and 1935, Wu was responsible for building 14 hospitals in various parts of the country.[^31]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/plague/DrWufamily2.jpg">
-
-Dr Wu Lien-Teh in a studio portrait with his second wife Marie (his first wife passed away in 1937) and their children, 1949. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
-
-</div>
-
-#### **Wu’s Final Decades**
-In 1937, while Wu was in Java attending a medical conference, he received news that his Shanghai home had been destroyed by Japanese invaders. He decided not to return to China and resigned from his position as director of the National Quarantine Service. He also suffered a personal tragedy when his wife Ruth died in November that year. By January 1938, he was back in Malaya where he resumed private medical practice at the Boon Pharmacy in Ipoh – the town of his first anti-opium conference.[^32]
-
-Like most other Malayans, Wu suffered during the Japanese Occupation. But he was able to continue practising without too much trouble as he had been previously conferred an honorary doctorate by the University of Tokyo. He was friendly with many of the Japanese commanders who sought his medical services.
-
-In 1943, Wu was kidnapped by guerrillas of the Malayan Communist Party and held for a ransom of $7,000. He was released only after the money was paid up. The Japanese authorities found out about the ransom payment and accused Wu of helping the anti-Japanese resistance movement. Fortunately, his life was spared as he was the attending physician to one of the Japanese officers in Malaya.
-
-Wu finally retired from medical practice in 1957 at the age of 78. In mid-January 1960, he moved back to Penang where he was born but died a week later on 21 January 1960, after suffering a stroke.[^33] He was survived by his second wife, Marie, two sons and three daughters.
-
-Wu gained great fame as a pioneering plague fighter and became the first Malayan nominated for the Nobel Prize in Medicine in 1935. It is ironic that his success was the indirect result of the systemic racism that he experienced. As a colonial subject, he was raised and nurtured to be among the best of the King’s Chinese (as the Peranakan, or Straits-born Chinese, were known) and, indeed, he had proven himself the equal of any doctor in the British Empire. Yet, colonial racism ensured that he would not receive his due. When he tried to spread the values he had acquired in England in Malaya, the authorities decided to teach him a lesson and marginalise him.
-
-Malaya’s loss was, however, China’s gain. Wu left for China at a time when it was on the cusp of modernity. This was just after China’s defeat in the Sino-Japanese War of 1895 and the collapse of the modernising Self-Strengthening Movement that had started in 1861.[^34] The movement, which sought to modernise through “Western means” but with “Chinese minds”, was an effort to import Western technology, methods and institutions without a corresponding adoption of the thinking, morals or norms of the West. It took someone like Wu – an overseas Chinese person with a Western education – to show how it was possible to do this. Western medical methods were applied and institutionalised with a sensitivity to Chinese traditions. Limited as this movement was in the field of medicine, it nevertheless paved the way for the creation of a modern Chinese state. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/authors/KevinTan.png" style="width: 100px; height: 100px;" />
-
-<b>Dr Kevin Y.L. Tan</b> is Adjunct Professor at the Faculty of Law, National University of Singapore, and at the S. Rajaratnam School of International Studies, Nanyang Technological University. He specialises in Constitutional and Administrative Law, International Law and International Human Rights. He has written and edited over 50 books on the law, history and politics of Singapore.
-
-</div>
-
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]: Wu, L.-T. (2014). *[Plague fighter: The autobiography of a modern Chinese physician](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787)*. Penang: Areca Books. (Call no.: RSEA 610.92 WU)
-[^2]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 149.
-[^3]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 168.
-[^4]: The first student from the Penang Free School to win the Queen’s Scholarship was Ung Bok Hoey, in 1893. He was followed by Koh Leap Teng in 1894. See Tan, C.L. (2016).  *[Live free: In the spirit of serving](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202722818)* (p. 166). Singapore: The Old Frees’ Association. (Call no.: RSING 371.0095951 TAN)
-[^5]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 182.
-[^6]: [Penang School](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18980721-1.2.89). (1898, July 11). *The Singapore Free Press and Mercantile Advertiser*, p. 11. Retrieved from NewspaperSG.
-[^7]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 193.
-[^8]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 195.
-[^9]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 197.
-[^10]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 214.
-[^11]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, pp. 224–225.
-[^12]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 232.
-[^13]: See National Library Board. (2015, December 31). *[Lim Boon Keng](https://eresources.nlb.gov.sg/infopedia/articles/SIP_855_2004-12-27.html)*   written by Ang Seow Leng. Retrieved from Singapore Infopedia website. 
-[^14]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 221.
-[^15]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 232.
-[^16]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 236.
-[^17]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, pp. 236–237.
-[^18]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 244.
-[^19]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, pp. 244–245.
-[^20]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 279.
-[^21]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, pp. 279–280.
-[^22]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, pp. 3–4.
-[^23]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, pp. 19–21.
-[^24]: Wu, L.T. (1923, May). The second pneumonic plague epidemic in Manchuria, 1920–21. *The Journal of Hygiene, 21* (3), 262–288, p. 264. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-[^25]: Wu, 1923, p. 275.
-[^26]: Wu, 1923, p. 275.
-[^27]: Wu, 1923, p. 271.
-[^28]: Wu, 1923, p. 277.
-[^29]: See Goh, L.G., Ho, T.M., & Phua, K.H. (1987). Wisdom and Western science: The work of Dr Wu Lien-Teh. *Asia Pacific Journal of Public Health, 1* (1), 99–109. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Lee, K.H., Wong, T.K., & Ng, K.H. (2014, January). Dr Wu Lien-teh: Moderninsing post-1911 China’s public health service. *Singapore Medical Journal, 55* (2), 99–102. Retrieved from Singapore Medical Journal website. 
-[^30]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 460.
-[^31]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 469.
-[^32]: [Dr Wu Lien Teh retires](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380122-1.2.108). (1938, January 22). *The Malaya Tribune*, p. 12. Retrieved from NewspaperSG. 
-[^33]: [Dr Wu – plague fighter – dies, aged 81](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600122-1.2.70). (1960, January 22). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
-[^34]: See Qu, J. (2016, August). Self-strengthening movement of late Qing China: An Intermediate reform doomed to failure. *Asian Culture and History, 8* (2), 148–154. Retrieved from ResearchGate website.
+[^1]: Most ancient Javanese or Buddhist temples have rooms designed to house special objects of worship. Only priests were allowed to enter. Conversely, Borobudur is not intended as a devotional monument to Buddha but a place for pilgrims to achieve enlightenment. 
+[^2]: Stutterheim, W.F. (1956). *[Studies in Indonesian archaeology](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3274470)* (p. 33). The Hague: M.Nijhoff. (Call no.: RCLOS 992.2 STU). [A plinth is a pedestal or support for a statue or a column in architecture.] 
+[^3]: The Pallava script is a Brahmic script named after the Pallava dynasty (275 CE to 897 CE) of Southern India. It later influenced the development of languages in Southeast Asia such as Cham (spoken in Cambodia and Vietnam) and Kawi (Old Javanese). Pallava was likely spoken by the religious and ruling classes at the time. 
+[^4]: Skilling, P. (2015). An untraced Buddhist verse inscription from Peninsular Southeast Asia (p. 33). In D.C. Lammerts (Ed.), *[Buddhist dynamics in premodern and early modern Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202101197)*. Singapore: ISEAS Publishing. (Call no.: RSEA 294.30959 BUD)
+[^5]: De Casparis, J.G. (1956).* [Selected Inscriptions from the 7th to the 9th century A.D. (pp. 48, 52, 55–56). Bandung: Masa Baru.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407143)* (Call no.: RU 499.2017 CAS)
+[^6]: Suarez, T. (1999). *[Early mapping of Southeast Asia: The epic story of seafarers, adventurers, and cartographers who first mapped the regions between China and India](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)* (p. 27). Hong Kong: Periplus Editions. (Call no.: RSING q912.59 SUA) 
+[^7]: Suarez, 1999, p. 39. These places were mentioned in Afonso de Albuquerque’s letter to King Manuel of Portugal, dated 1 April 1512. Albuquerque was a military genius and a great naval commander who helped to build and expand the Portuguese Empire. He conquered Ormuz in 1507, Goa in 1510 and Melaka in 1511. 
+[^8]: [Suarez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316), 1999, p. 32.
