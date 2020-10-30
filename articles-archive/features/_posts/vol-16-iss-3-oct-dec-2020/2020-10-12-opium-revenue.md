@@ -158,23 +158,14 @@ The same year that the fund was renamed, a solution for addressing the problem o
 
 #### **NOTES**
 [^1]: [No fund money to cure opium addicts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520917-1.2.68). (1952, September 17). *The Straits Times*, p. 4. Retrieved from NewspaperSG. 
-
 [^2]: [Truth about opium](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520704-1.2.104). (1952, July 4). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
-
 [^3]: [2,000 opium saloons](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520705-1.2.114). (1952, July 5). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
-
 [^4]: Truth about opium. (1952, July 4). The Straits Times, p. 6. Retrieved from NewspaperSG.
-
 [^5]: Blackburn, K. (2017). Education, industrialization and the end of empire in Singapore (p. 71). New York: Routledge. (Call no.: RSING 370.95957 BLA)
-
 [^6]: Blythe explains opium fund. (1952, September 17). Singapore Standard. Retrieved from NewspaperSG. 
-
 [^7]: The Straits Times, 17 Sep 1952, p. 4.
-
 [^8]: Singapore. Parliament. (1956, November 20). Liquidation of special reserve fund (col. 815). Retrieved from Singapore Parliament website.
-
 [^9]: Kim, D.S. (2020). Empires of vice: The rise of opium prohibition across Southeast Asia (p. 35). Princeton, New Jersey: Princeton University Press. (Call no.: RSING 364.1770959 KIM), citing Report from the Colonial Military Contributions Committee, Hong Kong Opium Revenue, 9 April 1914, National Archives of the United Kingdom, Kew (TNA)/T1/11642/11908. Also see Kim, 2020, p. 128, citing House of Lords, 24 July 1891, vol. 356, cc. 214-234. Retrieved from UK Parliament website. Also see The coalition stations of the world. The Coal Trade Journal, 1896, vol. 28, p. 207. Retrieved from HathiTrust website.
-
 [^10]: Kim, 2020, p. 35, citing Report from the Colonial Military Contributions Committee, Hong Kong Opium Revenue, 
 [^11]: 9 April 1914, National Archives of the United Kingdom, Kew (TNA)/T1/11642/11908.
 Kim, 2020, p. 125, citing Straits Settlements. (1921). Blue book for the year... Singapore: Government of the Colony of Singapore. (Microfilm nos.: NL1153; 1155); The Straits Times, 6 Oct 1925, p. 9. 
