@@ -143,7 +143,7 @@ Any solution to this problem – so deeply entwined with the foundations of Brit
 
 The same year that the fund was renamed, a solution for addressing the problem of Singapore’s opium addicts arose for discussion. Official plans for establishing a rehabilitation facility on St John’s Island were put forward, garnering much public support. “St John’s is ideal,” said physician and social reformer Chen Su Lan, calling it a “quiet, restful spot ‘away from it all’ with plenty of fresh air, sunshine, and the sea” that would help opium addicts “forget their habit”.[^35] Paglar concurred, calling it a “wonderful gesture” by the government.[^36] Two years later, the St John’s Opium Treatment Centre opened its doors with much fanfare, commanding the attention of the international community and medical experts as “the first in the world established solely to fight opium addiction”.[^37]  
 
-|<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-empiresofvice.png" style="width: 100px; height: 100px;"/>|
+|<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-empiresofvice.png"/>|
 
 |This essay is based on research that led to Diana S. Kim’s Empires of Vice: The Rise of Opium Prohibition across Southeast Asia (2020). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 364.1770959 KIM and SING 364.1770959 KIM). It also retails at major bookshops in Singapore.|
 
@@ -188,8 +188,7 @@ The same year that the fund was renamed, a solution for addressing the problem o
 [^29]: Kim, 2020, p. 151, citing Straits Settlements Blue Book, 1934. 
 [^30]: Kim, 2020, p. 151, citing from Clementi to Passfield, 11 September 1930, TNA CO 717/66. 
 [^31]: Community leaders praise authorities’ opium policy to be stamped out by gradual curing of addicts. (1942, September 27). Syonan Shinbun, p. 4. Retrieved from NewspaperSG.
-[^32]: Living on our savings? (1947, June 17). The Straits Times, 
-p. 6. Retrieved from NewspaperSG.
+[^32]: Living on our savings? (1947, June 17). The Straits Times, p. 6. Retrieved from NewspaperSG.
 [^33]: Kim, 2020, p. 197, citing Sabaratnam, S. (1948, October 13). S’pore’s $15 million opium racket. The Malaya Tribune, p. 5. Retrieved from NewspaperSG.
 [^34]: Govt. to put by boom surplus. (1953, October 20). The Singapore Free Press, p. 3. Retrieved from NewspaperSG
 [^35]: St. John’s is ideal, says Dr. Chen. (1953, September 13). The Straits Times, p. 5. Retrieved from NewspaperSG. 
