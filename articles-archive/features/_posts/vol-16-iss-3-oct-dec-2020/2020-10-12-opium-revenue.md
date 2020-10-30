@@ -167,8 +167,7 @@ The same year that the fund was renamed, a solution for addressing the problem o
 [^8]: Singapore. Parliament. (1956, November 20). Liquidation of special reserve fund (col. 815). Retrieved from Singapore Parliament website.
 [^9]: Kim, D.S. (2020). Empires of vice: The rise of opium prohibition across Southeast Asia (p. 35). Princeton, New Jersey: Princeton University Press. (Call no.: RSING 364.1770959 KIM), citing Report from the Colonial Military Contributions Committee, Hong Kong Opium Revenue, 9 April 1914, National Archives of the United Kingdom, Kew (TNA)/T1/11642/11908. Also see Kim, 2020, p. 128, citing House of Lords, 24 July 1891, vol. 356, cc. 214-234. Retrieved from UK Parliament website. Also see The coalition stations of the world. The Coal Trade Journal, 1896, vol. 28, p. 207. Retrieved from HathiTrust website.
 [^10]: Kim, 2020, p. 35, citing Report from the Colonial Military Contributions Committee, Hong Kong Opium Revenue, 
-[^11]: 9 April 1914, National Archives of the United Kingdom, Kew (TNA)/T1/11642/11908.
-Kim, 2020, p. 125, citing Straits Settlements. (1921). Blue book for the year... Singapore: Government of the Colony of Singapore. (Microfilm nos.: NL1153; 1155); The Straits Times, 6 Oct 1925, p. 9. 
+[^11]: 9 April 1914, National Archives of the United Kingdom, Kew (TNA)/T1/11642/11908. Kim, 2020, p. 125, citing Straits Settlements. (1921). Blue book for the year... Singapore: Government of the Colony of Singapore. (Microfilm nos.: NL1153; 1155); The Straits Times, 6 Oct 1925, p. 9. 
 [^12]: Kim, 2020, p. 131, citing Swettenham to Secretary of State for the Colonies, 9 October 9 1904, TNA/CO 271/292. 
 [^13]: Kim, 2020, p. 136, citing C. J. Saunders, 8 September 1907, Straits Settlements Opium Commission (SSOC) 1908, vol. 2, p. 100. 
 [^14]: Kim, 2020, p. 137, referring to SSOC 1908, 3 January 1908; 12 October 1907; 8 September 8 1907. 
