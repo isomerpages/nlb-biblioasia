@@ -97,7 +97,7 @@ One real-life mystery I use for my novel is a set of inscriptions carved into 11
 
 The most intriguing aspect of these gold plates is the presence of a particular verse that does not have an equivalent in any Buddhist text, whether in the original Indic languages, or in Tibetan or Chinese translations. Yet, this same verse is echoed in artefacts found at eight other locations in Southeast Asia, including three stone slabs discovered in Peninsular Malaysia, and stone stupas in Brunei, Sarawak and Kalimantan. The text reads:
 
-*“Ajñānāc cīyate karma janmanaḥ karma kāraṇam Jñānān na kritate karma karmmābhāvān na jāyate.”*
+<i>“Ajñānāc cīyate karma janmanaḥ<br><br>karma kāraṇam<br><br>Jñānān na kritate karma<br><br>karmmābhāvān na jāyate.”</i>
 
 (Translation: Through ignorance, karma is accumulated; Karma is the cause of rebirth. Through wisdom, karma is not accumulated; In the absence of karma, one is not reborn.)[^4] 
 
@@ -111,17 +111,18 @@ The artefacts carrying the mysterious verses were discovered at nodal points alo
 
 The researcher and curator Thomas Suárez notes that “[i]n early Southeast Asia, there was no absolute distinction between the physical, the metaphysical and the religious. Southeast Asian geographic thought, like Southeast Asian life, could be at once, both empirical and transcendental”.[^6] 
 
+This fluidity in time and space is an element I have incorporated into my novel as a way to remind readers to situate their appreciation of these histories and mysteries outside of familiar Western modes of measurements and methods of mapmaking. This is an important consideration so that we don’t see the limited number of extant Southeast Asian maps as inaccurate or having no practical value simply because we are viewing it through the lens of current cartographic conventions.
+
+In his letter to King Manuel of Portugal dated 1 April 1512, Alfonso de Albuquerque, founder of Portugal’s empire in Southeast Asia, wrote that the Bugis of Sulawesi and the maritime traders in Java and Sumatra have been recorded as having maps so detailed that they contained references to “the Clove islands, the navigation of the Chinese and the Gores [people of Formosa], with their rhumbs and direct routes followed by the ships, and the hinterland, and how the kingdoms border on each other”.[^7]
+
+However, the Bugis also relied on unwritten itineraries that were committed to memory in the form of songs so that navigators could construct a mental image of time and space, topography and even landmarks. This might have been the preferred mode of mapmaking by the Bugis, in an attempt to keep their navigational aids confidential, after witnessing “the aggressive commercial spirit of their European visitors”.[^8] Many of their physical maps, like the one described earlier, ended up in the hands of Europeans or were lost at sea. One such map went missing when the *Flor de la Mar* sank during its voyage from Melaka to Portugal in 1511. While a copy of this map might have survived thanks to the efforts of Portuguese pilot Francisco Rodrigues in 1513, any mention of European reliance on native Southeast Asian maps seem to have disappeared from written records from this point on.
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/borobudur/theborobudur-westjavamap.jpg">
 Detail from a 16th-century map of a district in West Java. This detailed map is drawn in ink on cloth and shows what indigenous mapmaking in Java looks like. <i>Image reproduced from Holle, K.F. (1876). De Kaart van Tjiela of Timbanganten. Tijdschrift voor Indische Taal-, Land- en Volkenkunde, Deel 24. Batavia: Lange & Co.</i>
 </div>
 
-This fluidity in time and space is an element I have incorporated into my novel as a way to remind readers to situate their appreciation of these histories and mysteries outside of familiar Western modes of measurements and methods of mapmaking. This is an important consideration so that we don’t see the limited number of extant Southeast Asian maps as inaccurate or having no practical value simply because we are viewing it through the lens of current cartographic conventions.
-
-In his letter to King Manuel of Portugal dated 1 April 1512, Alfonso de Albuquerque, founder of Portugal’s empire in Southeast Asia, wrote that the Bugis of Sulawesi and the maritime traders in Java and Sumatra have been recorded as having maps so detailed that they contained references to “the Clove islands, the navigation of the Chinese and the Gores [people of Formosa], with their rhumbs and direct routes followed by the ships, and the hinterland, and how the kingdoms border on each other”.[^7]
-
-However, the Bugis also relied on unwritten itineraries that were committed to memory in the form of songs so that navigators could construct a mental image of time and space, topography and even landmarks. This might have been the preferred mode of mapmaking by the Bugis, in an attempt to keep their navigational aids confidential, after witnessing “the aggressive commercial spirit of their European visitors”.[^8] Many of their physical maps, like the one described earlier, ended up in the hands of Europeans or were lost at sea. One such map went missing when the *Flor de la Mar* sank during its voyage from Melaka to Portugal in 1511. While a copy of this map might have survived thanks to the efforts of Portuguese pilot Francisco Rodrigues in 1513, any mention of European reliance on native Southeast Asian maps seem to have disappeared from written records from this point on.
 
 #### **Historical Mysteries or Forgotten Narratives?**
 
@@ -129,8 +130,12 @@ The loss of a large corpus of indigenous maps was not as disconcerting as my rea
 
 As an academic and a writer, I feel the responsibility of bringing to the fore unknown stories that have not made their presence in history books; the literary space being a safe place to explore and present these narratives. *The Java Enigma* is my attempt at addressing these forgotten histories while bringing the mysteries of our region into a meaningful dialogue with one another. At the same time, to me, the real challenge of using history in fiction is whether in the end you’ve been able to guide your readers to engage with your story emotionally and cognitively, letting them ask their own questions and make their own decisions about the “what-ifs” of our pasts. 
 
-|<img src="/images/Vol-16-issue-3/borobudur/theborobudur-javaenigma.jpg">|
-|*The Java Enigma* is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING S823 ERN and ERN). It also retails at major bookshops in Singapore.|
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/borobudur/theborobudur-javaenigma.jpg style="width: 200px; height: 300px;"/>
+
+<i>The Java Enigma<i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING S823 ERN and ERN). It also retails at major bookshops in Singapore.
+</div>
 
 <div style="background-color: white;">
 <br/>
@@ -147,7 +152,7 @@ As an academic and a writer, I feel the responsibility of bringing to the fore u
 [^2]: Stutterheim, W.F. (1956). *[Studies in Indonesian archaeology](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3274470)* (p. 33). The Hague: M.Nijhoff. (Call no.: RCLOS 992.2 STU). [A plinth is a pedestal or support for a statue or a column in architecture.] 
 [^3]: The Pallava script is a Brahmic script named after the Pallava dynasty (275 CE to 897 CE) of Southern India. It later influenced the development of languages in Southeast Asia such as Cham (spoken in Cambodia and Vietnam) and Kawi (Old Javanese). Pallava was likely spoken by the religious and ruling classes at the time. 
 [^4]: Skilling, P. (2015). An untraced Buddhist verse inscription from Peninsular Southeast Asia (p. 33). In D.C. Lammerts (Ed.), *[Buddhist dynamics in premodern and early modern Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202101197)*. Singapore: ISEAS Publishing. (Call no.: RSEA 294.30959 BUD)
-[^5]: De Casparis, J.G. (1956).* [Selected Inscriptions from the 7th to the 9th century A.D.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407143)* (pp. 48, 52, 55–56) Bandung: Masa Baru. (Call no.: RU 499.2017 CAS)
+[^5]: De Casparis, J.G. (1956). *[Selected Inscriptions from the 7th to the 9th century A.D.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407143)* (pp. 48, 52, 55–56) Bandung: Masa Baru. (Call no.: RU 499.2017 CAS)
 [^6]: Suárez, T. (1999). *[Early mapping of Southeast Asia: The epic story of seafarers, adventurers, and cartographers who first mapped the regions between China and India](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)* (p. 27). Hong Kong: Periplus Editions. (Call no.: RSING q912.59 SUA) 
 [^7]: Suárez, 1999, p. 39. Albuquerque was a military genius and a great naval commander who helped to build and expand the Portuguese Empire. He conquered Ormuz in 1507, Goa in 1510 and Melaka in 1511. 
 [^8]: [Suárez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316), 1999, p. 32.
