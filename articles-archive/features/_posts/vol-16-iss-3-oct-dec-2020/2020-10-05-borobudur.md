@@ -133,7 +133,7 @@ As an academic and a writer, I feel the responsibility of bringing to the fore u
 <div class="infobox"> 
 <img src="/images/Vol-16-issue-3/borobudur/theborobudur-javaenigma.jpg" style="width: 200px; height: 250px;"/>
 
-<i>The Java Enigma<i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING S823 ERN and ERN). It also retails at major bookshops in Singapore.
+<i>The Java Enigma</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING S823 ERN and ERN). It also retails at major bookshops in Singapore.
 
 </div>
 
