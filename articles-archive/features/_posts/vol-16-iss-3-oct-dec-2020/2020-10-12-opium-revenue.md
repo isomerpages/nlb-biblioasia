@@ -32,7 +32,7 @@ At the time, opium addiction was a deeply controversial social issue. Only the y
 
 Moreover, the law was being made a mockery of, according to the physician and social reformer Chen Su Lan. Chen, the elected president of the Singapore Anti-opium Society in 1930, worried how “opium addiction, instead of being regarded as an offence was being used as a legitimate excuse for illegal possession of opium”.[^4] Like Chen, Paglar was a medical doctor and, in his capacity as the Progressive Party’s elected representative for Changi, also a longstanding advocate for better care of the sick and poor.[^5] He requested that some of the funds be released to treat opium addicts in need.[^6]
 
-The government, however, rejected Paglar’s proposal and informed him that the Opium Revenue Replacement Reserve Fund was “not available for the curative treatment of needy addicts”.[^7 ]
+The government, however, rejected Paglar’s proposal and informed him that the Opium Revenue Replacement Reserve Fund was “not available for the curative treatment of needy addicts”.[^7]
 
 In 1953, the $55 million was transferred to a different account – the vaguely named Special Reserve Fund.[^8] By the time the British granted Singapore internal self-government in 1959, this fund had been absorbed into the general revenue surplus, without any traceable connections to its opium origins. The disappearance of the huge sum of money marked the quiet end to a radical arrangement that helped justify a deeply controversial aspect of 20th-century British colonial rule in Singapore: fiscal dependency on opium taxes. 
 
