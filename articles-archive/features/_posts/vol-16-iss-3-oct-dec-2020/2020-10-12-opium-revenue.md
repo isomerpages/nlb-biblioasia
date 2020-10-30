@@ -150,7 +150,7 @@ The same year that the fund was renamed, a solution for addressing the problem o
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/authors/DianaKim.png" style="width: 100px; height: 100px;"/>
-<b>Dr Diana S. Kim</b> is an Assistant Professor at Georgetown University in the Edmund A. Walsh School of Foreign Service. She is the author of *Empires of Vice*, a comparative study of the rise of opium prohibition in British Burma, Malaya and French Indochina.
+<b>Dr Diana S. Kim</b> is an Assistant Professor at Georgetown University in the Edmund A. Walsh School of Foreign Service. She is the author of <i>Empires of Vice</i>, a comparative study of the rise of opium prohibition in British Burma, Malaya and French Indochina.
 
 </div>
 
