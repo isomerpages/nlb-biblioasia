@@ -130,11 +130,11 @@ The loss of a large corpus of indigenous maps was not as disconcerting as my rea
 
 As an academic and a writer, I feel the responsibility of bringing to the fore unknown stories that have not made their presence in history books; the literary space being a safe place to explore and present these narratives. *The Java Enigma* is my attempt at addressing these forgotten histories while bringing the mysteries of our region into a meaningful dialogue with one another. At the same time, to me, the real challenge of using history in fiction is whether in the end you’ve been able to guide your readers to engage with your story emotionally and cognitively, letting them ask their own questions and make their own decisions about the “what-ifs” of our pasts. 
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/borobudur/theborobudur-javaenigma.jpg" style="width: 200px; height: 300px;"/>
+<div class="infobox"> 
+<img src="/images/Vol-16-issue-3/borobudur/theborobudur-javaenigma.jpg" style="width: 200px; height: 250px;"/>
 
 <i>The Java Enigma<i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING S823 ERN and ERN). It also retails at major bookshops in Singapore.
+
 </div>
 
 <div style="background-color: white;">
