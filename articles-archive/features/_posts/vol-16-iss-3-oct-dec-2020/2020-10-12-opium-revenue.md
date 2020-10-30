@@ -143,13 +143,13 @@ Any solution to this problem – so deeply entwined with the foundations of Brit
 
 The same year that the fund was renamed, a solution for addressing the problem of Singapore’s opium addicts arose for discussion. Official plans for establishing a rehabilitation facility on St John’s Island were put forward, garnering much public support. “St John’s is ideal,” said physician and social reformer Chen Su Lan, calling it a “quiet, restful spot ‘away from it all’ with plenty of fresh air, sunshine, and the sea” that would help opium addicts “forget their habit”.[^35] Paglar concurred, calling it a “wonderful gesture” by the government.[^36] Two years later, the St John’s Opium Treatment Centre opened its doors with much fanfare, commanding the attention of the international community and medical experts as “the first in the world established solely to fight opium addiction”.[^37]  
 
-|<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-empiresofvice.png" style="width: 100px; height: 100px;"/>|
+|<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-empiresofvice.png" style="width: 200px; height: 302px;"/>|
 
 |This essay is based on research that led to Diana S. Kim’s Empires of Vice: The Rise of Opium Prohibition across Southeast Asia (2020). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 364.1770959 KIM and SING 364.1770959 KIM). It also retails at major bookshops in Singapore.|
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/authors/DianaKim.png" style="width: 200px; height: 302px;"/>
+<img src="/images/Vol-16-issue-3/authors/DianaKim.png" style="width: 100px; height: 100px;"/>
 <b>Dr Diana S. Kim</b> is an Assistant Professor at Georgetown University in the Edmund A. Walsh School of Foreign Service. She is the author of <i>Empires of Vice</i>, a comparative study of the rise of opium prohibition in British Burma, Malaya and French Indochina.
 
 </div>
