@@ -8,204 +8,200 @@ third_nav_title: The Sticky Problem of Opium Revenue
 
 <style>
 table { 
-	background-color: #d6dae9;
+	background-color: #d9ddda;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #d6dae9
+  background: #d9ddda;
 }
 </style>
 
-#### **Danièle Weiler** uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
+
+#### At one point, half of Singapore’s annual revenue came from taxing opium. **Diana S. Kim** looks at how the colonial government managed to break its addiction to easy money.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/stork.jpg">
-
-The lesser adjutant stork, or <i>Leptoptilos javanicus</i> (Horsfield, 1821), is a large wading bird found in wetland habitats in India and Southeast Asia. <i>Image reproduced from Figures peintes d’oiseaux [et de reptiles], envoyées de l’Inde par Duvaucel et Diard (Painted depictions of birds [and reptiles], sent from India by Duvaucel and Diard). Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s BookSG portal from August 2020</i>.
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg">
 
 </div>
 
-Stamford Raffles is probably best known as the East India Company (EIC) official who set up a trading post in Singapore that became part of the British Empire. However, a lesser-known fact about Raffles is that he was fascinated by the natural world. As a colonial administrator in Southeast Asia, he hired zoologists, botanists and naturalists to collect specimens and conduct research on his behalf. 
+On 16 September 1952, the government in Singapore found itself in a delicate situation over the sum of $55 million. This money was sitting in the Opium Revenue Replacement Reserve Fund, an entity set up in 1925 that contained nearly 30 years’ worth of revenue collected by the British colonial authorities from legal opium sales in Singapore. It seemed reasonable, opined one member of the Legislative Council, Charles Joseph Pemberton Paglar, to spend at least part of the money raised from the drug to help those suffering from its ill effects.[^1]
 
-Among the people Raffles hired were two young French naturalists – Alfred Duvaucel and Pierre Médard Diard. Interestingly, they were also on board the *Indiana* in January 1819 when Raffles and William Farquhar made landfall in Singapore and met Temenggung Abdul Rahman. Raffles went on to sign an interim agreement with the Temenggung before inking a treaty with Sultan Husain Shah and the Temenggung on 6 February, allowing the EIC to set up a trading post on the island. 
+At the time, opium addiction was a deeply controversial social issue. Only the year before, a new Dangerous Drugs Ordinance had rendered opium consumption in Singapore an offence punishable by imprisonment. Some denounced the government’s punitive turn while others welcomed it as a “corrective” approach as “the prison acts as a hospital and reformatory at the same time and it is better than either alone”.[^2] But both sides shared similar dismay at the persistence of opium-smoking and its associated problems. At least 2,000 illegal opium saloons were operating in Singapore then and opium-related crime, tuberculosis and suicide rates were high.[^3]
 
-As the two men were with Raffles at the time, they offer a unique account of the meeting between Raffles and the Malay court officials in Singapore:
+Moreover, the law was being made a mockery of, according to the physician and social reformer Chen Su Lan. Chen, the elected president of the Singapore Anti-opium Society in 1930, worried how “opium addiction, instead of being regarded as an offence was being used as a legitimate excuse for illegal possession of opium”.[^4] Like Chen, Paglar was a medical doctor and, in his capacity as the Progressive Party’s elected representative for Changi, also a longstanding advocate for better care of the sick and poor.[^5] He requested that some of the funds be released to treat opium addicts in need.[^6]
 
-“On reaching the harbour, the governor received the visit of three of the king’s aides-de-camp. These officers were not like our young men – tight-lipped, musk-scented and richly dressed – their black heads were shaven and covered with a dark-coloured turban; a large waistcoat hid their oiled, burnt, peeling and stooped backs. On their left side they carried a large *kris* or dagger and were bare-legged. These three Malays seemed delighted to see us, as if we had come for their benefit. The English were trying to find out what advantage might be gained by taking possession of their island; we, who were less concerned about this, questioned them about the animals that lived there. Who do you think these poor people listened to most willingly? They respond eagerly to the demands of their allies, and shrugged their shoulders listening to ours.”[^1]
+The government, however, rejected Paglar’s proposal and informed him that the Opium Revenue Replacement Reserve Fund was “not available for the curative treatment of needy addicts”.[^7 ]
+
+In 1953, the $55 million was transferred to a different account – the vaguely named Special Reserve Fund.[^8] By the time the British granted Singapore internal self-government in 1959, this fund had been absorbed into the general revenue surplus, without any traceable connections to its opium origins. The disappearance of the huge sum of money marked the quiet end to a radical arrangement that helped justify a deeply controversial aspect of 20th-century British colonial rule in Singapore: fiscal dependency on opium taxes. 
+
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/pierre.jpg">
-
-(Left) Pierre Médard Diard in the uniform of the Garde d’Honneur, which would date this portrait to between 1813 and 1814. He was around 19 years old at the time. Note: no image of Alfred Duvaucel appears to exist. <i>Image reproduced from Peysonnaux, J.H. (1935). Vie voyages et travaux de Pierre Médard Diard. Naturaliste Français aux Indes Orientales (1794–1863). Voyage dans l’Indochine (1821–1824) (plate 2). Bulletin des amis du vieux Hué</i>. (Right) The great French anatomist and zoologist George Cuvier, also known as Jean Léopold Nicolas Frédéric, Baron Cuvier (1769–1832). Line engraving by A.J. Chollet after Lizinka de Mirbel and Giraud. Cuvier was also the stepfather of Alfred Duvaucel. <i>Image from Wellcome Collection. Attribution 4.0 International (CC BY 4.0)</i>.
-
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-britishmalayabookcover.jpg">
+Dr Chen Su Lan, as Director of the Anti-Opium Clinic and President of the Singapore Anti-Opium Society, delivered an address on the opium problem in British Malaya at the Rotary Conference held in Penang on 23 November 1934. <i>Collection of the National Library, Singapore</i>.<i>(Accession no.: B02890349B)</i>. 
 </div>
 
-Diard and Duvaucel would have better luck later on, amassing a large collection of specimens, both while travelling with Raffles, as well as around Bencoolen (now Bengkulu) where Raffles was the Lieutenant-Governor at the time.
+#### **Opium and Colonial State Building in Singapore**
 
-Unfortunately for the duo, their association with Raffles only lasted until March 1820 when their services were terminated. To make things worse, there was a dispute over how the collection would be divided and the two Frenchmen ended up losing a significant part of it. Undaunted, and perhaps not entirely legally, they managed to retrieve more specimens than they were entitled to before parting company with Raffles.
+From the earliest years, the colonial government had levied taxes on opium consumption. At its peak in the 19th century, opium accounted for over 50 percent of the revenue collected in the Straits Settlements (comprising Singapore, Melaka and Penang). Until 1909, Singapore auctioned off rights to private interest groups to operate opium tax farms. Thereafter, the government established a monopoly that collected licence fees directly from state-owned opium retail shops. 
 
-#### **Diard and Duvaucel**
-Born in Paris in 1793, Alfred Duvaucel was the stepson of Georges Cuvier,[^2] a naturalist and zoologist sometimes known as the founding father of palaeontology. After a brief stint in the army, Duvaucel decided to become a naturalist and in December 1817, he sailed to India, bearing the title of Naturalist to King Louis XVIII of France. He arrived in Calcutta (now Kolkata) at the end of May 1818.
+During the first half of the 20th century, opium tax revenue was essential to Singapore because it constituted a large proportion of the territory’s finances and there were few viable options to replace it. Opium helped pay for the building and maintenance of public infrastructure like roads, bridges and lighthouses, and financed the upkeep of the harbour and wharves at the heart of Singapore’s economy.[^9]
 
-In Calcutta, Duvaucel met up with his friend Diard, who had arrived in the city a few months before. Diard, a year younger than Duvaucel, was interested in science and had studied medicine. In France, Diard had became acquainted with both Cuvier and his stepson Duvaucel. Diard had always been fascinated by the Far East and in 1817, he seized the opportunity to travel to India to settle inheritance matters on behalf of a family. He left Bordeaux on 20 August and arrived in Calcutta on 5 January 1818.
+Metropolitan Britain and other British territories also profited from the opium revenue: in 1914, the Straits Settlements contributed the largest share of military funds to the Imperial Exchequer among the Crown Colonies, more than half of which came from opium revenue.[^10] In the early 1920s, government opium sales represented 75 percent of the colony’s excise tax and internal revenue, or 55 percent of its total revenue.[^11]
 
-Both men got along well. In a letter to his mother, Duvaucel wrote: “(O)f all the pleasures I have experienced here, the most pleasant is to have met poor old Diard, whom I have embraced as a brother, and who is as constantly by my side as my own shadow, and with whom I am determined to live and work for two or three years.”[^3]
-
-The pair, who were in their mid-20s, soon left Calcutta for the French trading post of Chandernagor (now Chandannagar), about 50 km north. There, they began collecting animals to be stuffed or drawn. They frequently sent animal skeletons, drawings and mineralogical specimens back to the Muséum National d’Histoire Naturelle (National Musuem of Natural History) in Paris where Cuvier, Duvaucel’s stepfather, was assistant professor to the Chair of Animal Anatomy.
-
-Diard and Duvaucel came to Raffles’ notice when he visited Calcutta – the EIC’s Asian headquarters – in late 1818. Raffles persuaded the two Frenchmen to collect specimens for him at his base in Bencoolen.[^4] In turn, the EIC would pay them an allowance to help defray expenses. Raffles also agreed that the collections and findings of the research would be shared equally among the three of them.[^5]
-
-Although there was no written agreement, Diard and Duvaucel accepted Raffles’ offer. They were short of funds and realised that they would not be able to continue working on their own for much longer. They trusted Raffles, who appeared to benefit from unlimited funds from the EIC. The only condition stipulated by the two Frenchmen, which Raffles agreed to, was that they could freely dispose of duplicate specimens and publish their observations in Calcutta, France or England as they chose.
-
-#### **To Penang, Singapore and Melaka**
-Accompanied by Diard and Duvaucel, Raffles and his entourage left Calcutta for Penang on 7 December 1818. The journey began well and even before reaching Penang, Diard and Duvaucel managed to capture a dugong, which they sketched, dissected and described. (Their notes and drawings were later published in 1824.[^6])
+From an administrative perspective, Singapore’s fiscal dependency on opium had long been worrisome, but it was not necessarily an actionable problem. For one, opium was regarded as a predominantly Chinese realm of profit-making that the British authorities tended to avoid interfering with. Since the early 19th century, migrant workers from southern China, many of whom smoked opium, had provided the essential labour for pepper and gambier plantations as well as in tin mines across the Malay Peninsula that sustained the colonial economy. Powerful Chinese entrepreneurs competed to run the Singapore opium tax farm and paid enormous licence fees to monopolise the sale and distribution of opium.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/Dugong.jpg">
-
-Dugong specimens obtained by Pierre Médard Diard and Alfred Duvaucel were sent by Stamford Raffles to British surgeon Everard Home in London. Based on the specimens, Home published two papers in the <i>Philosophical Transactions of the Royal Society of London</i>, which included these drawings. (Top) <i>Image reproduced from Home, E. (1820, January 1). XX: Particulars respecting the anatomy of the dugong, intended as a supplement to Sir T.S. Raffles’ account of that animal. Philosophical Transactions of the Royal Society of London, vol. 110, pp. 315–323</i>. (Bottom) <i>Image reproduced from Home, E. (1821, January 1). XVII: An account of the skeletons of the dugong, two-horned rhinoceros, and tapir of Sumatra, sent to England by Sir Thomas Stamford Raffles, Governor of Bencoolen. Philosophical Transactions of the Royal Society of London, vol. 111, pp. 268–275. Retrieved from The Royal Society Publishing website</i>.
-
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-flower.jpg">
+A coloured zincograph print of a poppy flower and seed capsule (Papaver somniferum) by M.A. Burnett, c. 1853. This species of poppy is used to produce opium. <i>Wellcome Collection. Attribution 4.0 International (CC BY 4.0)</i>.
 </div>
 
-The group eventually arrived in Penang on 29 December 1818,[^7] and Diard and Duvaucel spent a few days on the island where they collected, among other animals, two species of fish and some rare birds.
+However, the colonial government did not have a clear idea how these Chinese-run opium tax farms operated financially. As late as 1903, Governor of the Straits Settlements Frank Swettenham admitted to the Colonial Office that “no individual and no Department has made any study of the question and there is no one with experience to whom to appeal for advice on the subject”.[^12]
 
-On 19 January 1819, Raffles sailed from Penang on the *Indiana*, accompanied by the schooner *Enterprise*. After failing to land in Carimon (the Karimun Islands), they headed for Singapore and anchored off St John’s Island in the morning of 28 January 1819. That afternoon, Raffles and his entourage landed at the mouth of the Singapore River where Raffles met Temenggung Abdul Rahman. And that is how the two French naturalists ended up witnessing the fateful meeting that would lead to a major shift in Singapore’s history.
+Among administrators stationed in the Straits Settlements, there was a weak conviction about the necessity of official action addressing the harms and social ills caused by opium. In the heyday of social Darwinism and evolving scientific knowledge about the drug’s addictive properties, Europeans held that the so-called Asiatic races were less injured by opium and used this to justify its commercial sale in Southeast Asia. As a result, the British often discounted social demands in their colonies to ban opium-smoking.
 
-After the treaty was signed on 6 February 1819, Raffles left Singapore with the two naturalists and some of his men, leaving William Farquhar behind to manage the new settlement as its Resident. For the next five months, Raffles turned his attention to other matters in the region before returning to Bencoolen. One of the tasks he had been assigned by the EIC in Calcutta was to resolve a dynastic dispute in Aceh.
-
-Diard and Duvaucel accompanied Raffles to the northern tip of Sumatra where the naturalists attempted to collect specimens from the area. This, however, did not go so well as Duvaucel’s letter to the French Academy of Sciences, which Cuvier was a member of, reveals:
-
-“We stayed more than a month in this frightful country, without being able to penetrate the interior, nor procure most of the objects we had expected to collect there. The bad reputation of these people is justified every day by their conduct towards the Europeans, and Mr. Diard, convinced that the savages are only bad when they are mistreated, almost fell victim to this sense of false security which I have been fighting against for a long time: surrounded by two hundred Malays, with three of our servants he was able, it is true, to escape without injury, but he lost the fruit of his hunt, his weapons, and our luggage… Our stay at Achem, Padie, Tulosimawe has not greatly enriched our collections; a few plants, a few insects, a few birds, two or three snakes, four or five fish, and two deer are the only results of this arduous journey.”[^8]
-
-Diard and Duvaucel did manage to visit Melaka, then under the Dutch, where they had better luck than they did in Aceh. In his correspondence with the French Academy of Sciences, again Duvaucel wrote:
-
-“No sooner had we arrived in Melaka than the whole city was at our door: all we have ever traded in here is opium and pepper and they could not guess what we wanted to do with the monkeys and birds we buy; in two hours we were able to acquire a bear, an Argus Pheasant and some other birds. The Dutch Governor has a young Orang-utang, and I shall leave you now to pay him a not disinterested visit.”[^9]
-
-While Diard and Duvaucel were arguably the first European naturalists to visit Singapore, the island does not appear to figure highly as a location for collecting specimens. Singapore, however, is mentioned as a place where they captured and named the common treeshrew. In a paper published in 1822, they described the squirrel-like mammal as follows:
-
-“During our stay in Pulo Penang and Singapore, on several occasions we killed a small quadruped in the woods which we took at first for a Squirrel but our examination of it soon led us to recognise that it belonged to the Insectivora family… it perfectly resembled a species of small squirrel that we meet at every step of the way in the woods of Singapore... we gave it the name Sorex Glis, which gives at one and the same time an idea of its outer appearance and true nature.”[^10]
+In 1906, despite protests citing the harmful effects of opium to the Chinese community in Singapore, Penang and Kedah, records reveal that local bureaucrats were skeptical such collective action conveyed actual popular anti-opium sentiments. As Charles J. Saunders, the Acting Secretary for Chinese Affairs, explained to the Straits Settlements Opium Commission, “I do not think that either the idea or the movement is indigenous.” More likely, he believed it was due to the loud machinations of “zealous and religious people” such as Protestant missionaries in Singapore and certain members of the Chinese Chamber of Commerce.[^13]
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/treeshrew.jpg">
-
-Pierre Médard Diard and Alfred Duvaucel discussed catching the common treeshrew (<i>Sorex glis</i>) in Singapore and Penang in an article titled “Notice – Sur une nouvelle espèce de Sorex – Sorex Glis” published in <i>Asiatick Researches</i> (Volume XIV, 1822). Although the species was given its first scientific name by Diard in 1820, it was subsequently renamed as <i>Tupaia glis</i>. <i>Image reproduced from Pechuel-Loesch, E. (1890) Brehms Tierleben. Allgemeine Kunde des Tierreichs. Dritte, gänzlich neubearbeitete Auflage. Säugetiere – Zweiter Band. Leipzig: Bibliographisches Institut,. Retrieved from Biodiversity Heritage Library website</i>. 
-
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-papapapa.jpg">
+In July 1952, police raids in Singapore resulted in the arrest of more than 200 opium addicts and opium den operators.<i> The Straits Times, 8 July 1952, p. 5. Retrieved from NewspaperSG</i>.
 </div>
 
-Eventually, Raffles completed the work he needed to do and on 28 June 1819, Diard and Duvaucel sailed with Raffles from Singapore for west Sumatra, arriving in Bencoolen about a month later. During the six months that they were with Raffles, their difficulties in Aceh notwithstanding, they had managed to amass a large collection of animals that filled half the ship.
+Official reluctance to end opium taxation was further linked to the daunting task of finding and replacing such a large source of revenue. The possibility of raising stamp fees and kerosene taxes was considered, or perhaps higher excise taxes on tobacco and alcohol. Instituting estate taxes or a state monopoly over pawnbroking were also examined.[^14]
 
-#### **The Fallout with Raffles**
-In Bencoolen, Diard and Duvaucel settled in Raffles’ country house and began their work hunting and collecting animals to study. However, this happy state was not to last as Raffles informed them that the EIC was going to stop paying them.
+Chinese-specific taxes were looked at, including a poll tax on migrants from China, taxes on their remittances and savings, as well as an income tax on wealthy Chinese inhabitants who owned property in the Straits Settlements. According to Dr David Galloway, Head of the Singapore Medical Association, taxes targeting the Chinese were justified because declining opium consumption would most likely benefit the health and welfare of the Chinese community. 
 
-This was actually the second major blow that Raffles delivered to the two naturalists. The first was when Raffles reneged on his verbal agreement made in December 1818 that the collection and the research findings would be equally shared among the three of them. On 7 March 1819, Raffles wrote to the Frenchmen, informing them that they would not actually own anything they had collected. His letter read:
-
-“Your researches to be confined to Sumatra and the smaller Islands in its immediate vicinity. The draftsmen, &c. engaged by you to be entertained at the charge of Government, who will also defray all incidental and necessary expenses to which you may be subjected in the prosecution of your researches, on condition that such researches are made for and on account of the Honourable The East India Company, and that your collections &c. are considered as their property. An estimate to be framed of your monthly expenses for such establishment, &c. in which a fixed sum will be paid to you to cover all charges of every description… With reference to your present establishment, and the expenses you must necessarily be subjected to, a fixed monthly allowance of five hundred ducats is considered adequate to cover all your disbursements…”[^11]
-
-Losing the financial support of the EIC would be disastrous for them. In an effort to salvage the situation, Diard and Duvaucel exchanged a number of letters with Raffles in March 1820 attempting to present alternative proposals, but it was in vain. In a letter dated 15 March 1820, Raffles announced that he would terminate their services. That same day, he appointed a committee to seize the entire collection of objects, along with the descriptions, observations and drawings, from the two naturalists.
-
-Raffles ordered that one of each item was to be sent to him, with the duplicate placed on the *Mary* to be shipped back to Europe and any surplus stored at Government House in Bencoolen. The committee was also instructed to compile a catalogue of all items. At the same time, Raffles informed Diard and Duvaucel of the new arrangement and requested that they provide assistance to the committee.[^12]
-
-In a subsequent about-turn, Raffles agreed that Diard and Duvaucel could keep some specimens provided there were spares available. This was on condition that the specimens taken did not arrive in France before those sent to England were received and noticed.[^13]
-
-Diard and Duvaucel felt that this was still not good enough. On account of their good relations with the English in Bencoolen, the two naturalists managed to secretly obtain additional specimens which they hid in their luggage, replacing the contents of some crates with rags.[^14] The specimens arrived safely in France and were received by the Muséum National d’Histoire Naturelle, some of which are on display at the institution today.
-
-Around the same time that Raffles sent the collection to England on board the *Mary*, he also compiled a *Descriptive Catalogue*, which was published in volume XIII of *The Transactions of the Linnean Society of London* (1821–23).[^15] This established Raffles’ reputation as a zoologist when in fact the *Descriptive Catalogue* was mainly the work of his secretary, William Jack.[^16]
-
-Interestingly, in the introduction to this catalogue, Raffles briefly explains the situation that arose between him and Diard and Duvaucel. He wrote:
-
-“They advanced pretensions diametrically opposed to the spirit and letter of their engagement and altogether inconsistent with what I had a right to expect from them, or they from me. Thus situated, I had no alternative but to undertake an immediate description of the collection myself, or to allow the result of all my endeavours and exertions to be carried to a foreign country.”[^17]
-
-That said, Raffles did have kind words for the pair: “They are young men not deficient in zeal, and though misled for the moment by private and national views, will, I doubt not, profit by the means I have afforded them, and eventually contribute to our further knowledge of the zoology of these islands.”[^18]
-
-#### **An Amicable Parting**
-Once the collections had been sent to England and France, Diard and Duvaucel asked Raffles if they could sail to Batavia (now Jakarta) on the *Indiana*. Raffles agreed on condition that they provide the aforementioned committee with all the remaining specimens, drawings and descriptions still in their possession.[^19]
-
-Before Diard and Duvaucel left Bencoolen, Raffles penned a final letter to the naturalists on 22 March 1820. He wrote: 
-
-“No man can appreciate more highly than myself the zeal and personal exertion which you have displayed in making these collections and researches, I am sincerely desirous of securing to you the full measure of credit due to them, and I think you must be satisfied that it is always been my wish to contribute to the extension of science… I conclude with expressing my regret at the necessary close of our public relation, but at the same time my satisfaction at its being about to terminate in an amicable adjustment.”[^20]
-
-Diard and Duvaucel were equally effusive in their reply. They wrote in French:
-
-“Although it has been painful for us to engage with you in a public dispute, we have been pleased to receive the recompense of receiving your assurance that this opposition on our part has not affected the esteem in which we hold you. We are eager therefore to express how grateful we are at this fresh proof of your benevolence.
-
-“We are more than pleased, Sir, to see that you have been able to appreciate the motives for our conduct, so that henceforth we may have no other desire than to conform to the views you have expressed. We beg you therefore, to be persuaded that we gladly agree to your proposals and that nothing could be more satisfactory to us before we leave Bencoolen than to prove to you our perfect confidence in your amicable intentions.”[^21]
-
-After bidding Raffles farewell, the two naturalists wanted to make good their losses and immediately set to work again. The pair agreed to go their separate ways this time but to meet up at some point in future. Unfortunately, they never met again.
-
-Duvaucel left on 1 April 1820 for Padang where he amassed 14 cases of stuffed animals and skeletons, including the skeleton and skin of a Sumatran tapir, the skeletons and skins of four rhinoceroses of two recognisably distinct species, a large number of monkeys (some still alive), reptiles and two kinds of deer.
-
-In 1821, Duvaucel decided to turn his attention to collecting animals in South Asia. While in India, he became severely injured after being attacked by a rhinoceros while on a hunt. Although Duvaucel survived the initial attack, he died about a year later in 1824. Accounts at the time pointed to either fever or dysentery as the cause of his death.
+These possibilities were more easily imagined than done. Any alternative revenue source was too small. “[T]o produce anything like the same revenue [from opium], the poll tax would have to be $10 or $15 per head,” fretted one administrator.[^15] Chinese-specific taxes were seen as highly discriminatory, as the eminent doctor and prominent community leader Lim Boon Keng pointed out, because if Singapore was able to eradicate opium consumption, it was hardly to the advantage of the Chinese only, but also “to the general advantage of the State”.[^16] It was also obvious that social backlash would occur. T.S. Baker, the legislative councillor representing the Singapore Chamber of Commerce, pointed out that an income tax that fell disproportionately on the Chinese was a fiscal strategy “fifty if not one hundred years in advance of the times” and would lead to “dishonesty and deception” while driving away “capital business, trade and people”.[^17]
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/leopard.jpg">
-
-Georges Cuvier named a leopard, the <i>Neofelis diardi</i>, commonly known as the Sunda clouded leopard, after Pierre Médard Diard in 1823. The animal was only confirmed to be a distinct species in 2007. <i>Image reproduced from Jardine, W. (1834). The Natural History of the Felinae (plate 22). Edinburgh: W.H. Lizars, and Stirling and Kenney. Retrieved from Internet Archive website</i>.
-
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-twoguys.jpg">
+Emaciated Chinese labourers smoking opium, late 19th century–early 20th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
 
-Diard, on the other hand, stayed on in the Dutch East Indies (modern-day Indonesia) and lived in the region until his death in 1863. In addition to collecting animals, Diard also worked for the Dutch colonial government. He died from arsenic poisoning caused by the chemical used in the preservation of animal skins when he was assembling a new collection for a museum in Leiden in the Netherlands.
+#### **Opium Revenue Reserve Replacement Fund**
 
-Raffles’ view that the two men would “eventually contribute to our further knowledge of the zoology of these islands” turned out to be prescient. Diard and Duvaucel managed to send some 2,000 items, comprising stuffed animals, skins and skeletons from the region back to the Muséum National d’Histoire Naturelle in Paris. They also sent back numerous drawings of animals and plants that they had commissioned.
+It was a complex and deep-seated problem of fiscal dependency and decades would pass before a viable solution emerged. The impetus came partly from external pressures. During the interwar period, there were strong international anti-opium feelings, at once drawing upon and reconfiguring the demands of religiously inspired reformers and transnational activists who had long framed the harm caused by opium as serious moral problems and lobbied for the drug’s prohibition.[^18] The end of World War I had helped consolidate multilateral cooperation among European empires to end opium’s commercial life, not least because ratifying pre-war agreements to restrict the drug was made a condition of the 1919 Versailles peace treaties.[^19]
 
-Their memory also lives on in a number of animals named after them. These include a species of deer, *Cervus duvaucelii* (first described by Georges Cuvier); a bird, the scarlet-rumped trogon *Harpactes duvaucelii*; a bat, *Pachysoma duvaucelii*; the Indian squid, *Loligo duvaucelii*; the Sunda clouded leopard, *Neofelis diardi* (also first described by Cuvier); a snake, *Typhlops diardii*; and *Rattus diardii*, a kind of rat.
+In this context, the fiscal practice of taxing opium consumption was a potential source of embarrassment that would damage imperial prestige and repute. During a meeting in Geneva in 1924–1925, Britain faced accusations of “being influenced by money considerations in postponing a desirable social reform”.[^20] Diplomats and politicians in London pressed the colonial authorities in the Straits Settlements to devise an arrangement that would help signal both the Empire’s will and ability to end its reliance on a controversial source of revenue.
+
+Yet, neither the abstract demands of an international community nor the worries of imperial leadership about losing face before other empires provided a practical way to wean Singapore off its opium revenue. This was a deeply entrenched problem of colonial governance that long predated the global rise of anti-opium norms. It would take someone with intimate knowledge of the nitty-gritty workings of Singapore’s opium-entangled fiscal regime, who was creative within the narrow bounds of bureaucratic imagination, and with just enough hubris to take on the enormous task of reinventing the economic foundations of the British colonial state. That man was Arthur Meek Pountney.
+
+“I am extremely fond of figures,” professed the Oxford mathematics graduate who also took great pride in being an expert in matters of opium and Chinese affairs across the Malay Peninsula. In 1908, as Selangor’s Assistant Protector of Chinese, he produced what his colleagues called “the most complete… the most instructive set of tables and notes” on Chinese migrants and opium consumption.[^21]
+
+Throughout his administrative career, Pountney capitalised on his talent for numbers: he moved to Singapore in 1910 to oversee the census, then joined the Treasury Department in 1913 and became Treasurer in 1917 before finally assuming the position of Financial Adviser to the governor. In this capacity, Pountney designed the Opium Revenue Reserve Replacement Fund, calling it “the apotheosis of that part of my career which has been long and intimately connected with the opium question as it affects Malaya”.[^22]
+
+The idea was simple, Pountney explained to the Straits Settlements Legislative Council on 25 August 1925. The colonial government would set aside $30 million – which would come from Singapore’s currency surplus – part of which would be transferred to an investment fund that “after 5 years… give 4 percent interest, an annual income of $1,460,000”. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/raffles/Deer.jpg">
-
-Georges Cuvier named a species of deer, the <i>Rucervus duvaucelii</i>, commonly known as the barasingha, after Alfred Duvaucel in 1823. <i>Image reproduced from Sclater, P. L. (1871). On certain species of deer now or lately living in the society’s menagerie. Transactions of the Zoological Society of London, 7 (5): 333–352. Retrieved from Biodiversity Heritage Library website</i>.
-
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-card.jpg">
+An authorisation card to purchase chandu (opium) from Queen Street in 1942, during the Japanese Occupation. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore</i>. 
 </div>
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol-16-issue-1/Postcards/space.png">
+This was not a huge sum, acknowledged Pountney, as it would amount to less than a quarter of opium revenue accrued to the colonial state’s coffers. Thus, the shrewd bureaucrat planned for the equivalent of 10 percent of the colony’s annual revenue to be transferred into the reserve fund to top it up. According to Pountney: “[A]ssuming that the fund was left absolutely intact, and growing at compound interest, it would amount in 5 years… to a sum which would give an annual income of $2,050,000” and “within a reasonable time… might come to something approximating the revenue from opium”.[^23]
 
-</div>
+By design, the fund was a long-term arrangement. Indeed, it would be a very long-term income stream, with increasingly larger returns. Poutney estimated that in 10 years, “the income would be $3,100,000; in 15 years $4,360,000; and 20 years $5,900,000”. This administrator’s prosaic calculations contained a remarkably bold vision of British colonial governance and its prospects as a permanent and stabilising force. Pountney announced that he “did not want to leave to posterity an annual bill which it cannot meet without a very great reduction of efficiency or a drastic reduction in the maintenance and upkeep of the systems and institutions of Government”.[^24]
 
-|<img src="/images/Vol-16-issue-2/raffles/voyagers.png">|
+Observers remarked that the Opium Revenue Reserve Replacement Fund was a “financial innovation of a startling nature for which, as far as we know, no precedent exists”.[^25] Some lauded the fund as anchored in considerations of both honour and prudence. Legislative Council member E.S. Hoses admired how the fund provided “tangible proof to all the world” that despite the dependence on opium revenue, it did not “interfere with a honest and sustained endeavor to overcome the evil of [opium] consumption within our borders”.[^26]
 
-|This essay is adapted from Danièle Weiler’s chapter on Diard and Duvaucel in *Voyageurs, Explorateurs Et Scientifiques: The French and Natural History in Singapore* (2019) published by the Lee Kong Chian Natural History Museum.|
+Others worried that “the existence of so large a fund… will tend towards profligate expenditure on the part of the Government spending departments” and the surplus would be “liable to be diverted to other uses”.[^27] The Singapore Chamber of Commerce sharply criticised Pountney’s “indulgence of posterity” at the expense of the welfare and needs of people in the present. Within the Colonial Office in London, suspicions were also voiced about the possibly impure intentions of administrators in Singapore to “build up a fund so large, that the interest upon them would equal the opium revenue which is to be lost and the Governments would then live like rentiers upon their savings”.[^28]
 
-|The book can be reserved for on-site reference at the Lee Kong Chian Reference Library, National Library Building, on the PublicationSG portal.|
-
-|Close to 120 drawings of animals and plants commissioned by the two French naturalists have been compiled in *Figures peintes d’oiseaux [et de reptiles], envoyées de l’Inde par Duvaucel et Diard (Painted depictions of birds [and reptiles], sent from India by Duvaucel and Diard)*. The digitised drawings were provided by the Muséum National d’Histoire Naturelle in Paris and will be available on the National Library’s BookSG portal in August 2020.|
+Each perspective contained elements of potential truth. There was a clear instrumental value to the mere existence of this arrangement as it enabled the British to claim on the international stage that they were making a genuine effort to curb opium consumption in their colonies and asserting the moral authority of imperial rule. However, there was also a blatant lack of transparency as to how the colonial government would use what quickly became a very large pot of money. By the end of its first year of operations, the fund had increased by $4 million to $34 million, a sum that far exceeded Pountney’s original projections. Yet both perspectives missed a deeper story about the transformation of the colonial state and how a bureaucratic solution was emerging to address Singapore’s long-standing problem of fiscal dependency on opium sales under British rule. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-2/authors/DanieleWeiler.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-doctor.jpg">
+Charles Joseph Pemberton Paglar, a medical doctor and member of the Legislative Council. In 1952, he proposed using part of the Opium Revenue Replacement Reserve Fund to help opium addicts. <i>Eric Paglar Collection, courtesy of National Archives of Singapore</i>.
+</div>
 
-<b>Danièle Weiler</b> contributed a chapter to the book, <i>Voyageurs, Explorateurs Et Scientifiques: The French and Natural History in Singapore (2019)</i>. She is also the co-author of <i>The French in Singapore: An Illustrated History, 1819–Today (2011)</i>. A retired teacher and librarian now back in France, she lived in Singapore for 15 years where she worked at the Lycee Francais de Singapour.
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-treatmentcentre.jpg">
+Visitors to the Opium Treatment Centre on St John’s Island, 1957. The facility opened in 1955 to treat and rehabilitate opium addicts. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
+</div>
+
+#### **Managing the Fund**
+
+The bureaucratic solution to a century-old problem of fiscal dependency would soon morph into an abstract form of investment wealth that helped sustain the Empire and finance myriad projects for colonial development. The fund’s management was entrusted to the Crown Agents, a quasi-governmental office of the Treasury in London, and invested across the world. In 1926, the $34 million generated another $4 million in net value through purchasing colonial stocks in Nigeria, Jamaica, Sierra Leone, the Union of South Africa, Ceylon (now Sri Lanka), Hong Kong and Canada. Within 10 years, vestiges of the fund could be found in nearly all territories under British rule, with a total net value of $62 million.[^29]
+
+Closer to home, the fund helped support the Perak Electric Power Company, which had long supplied electricity to the Kinta Valley, one of the main tin mining areas of the Malay Peninsula. The British feared the company would default on a loan and used the opium funds to transform the loan into an investment to avoid losses from the company’s possible liquidation or restructuring.[^30]
+
+The fund took on a longevity that extended far beyond what had been an imaginable future in interwar Singapore. Even the Japanese invasion in 1942, which replaced the Union Jack with the Rising Sun, and subsequent Occupation (1942–45), did not fundamentally weaken the fund.
+
+During the Occupation years, the Japanese Military Administration and local community leaders in Singapore both disavowed and also benefitted from the revenue generated from opium’s commercial sale.[^31] And while the British no longer ruled Singapore, they still gained because the Opium Revenue Replacement Reserve Fund was held in sterling securities in London and continued to collect compound interest.
+
+It is still not completely clear what exactly happened to the fund following the end of World War II, after Japan’s defeat and the return of the British to Singapore. Hopefully, this will be a topic for future research. What is evident in currently available and declassified archival records is that the fund carried over to postwar Singapore and became a controversial topic of much public debate. In June 1946, the prominent lawyer Roland Braddell argued that the opium funds belonged to the public, but had never been subject to proper accounting. “We do not know at what figure they stand today,” he noted.[^32] The following year, a committee report of the Singapore Association estimated that approximately $9 million was missing from the fund because the British had utilised all of the interest that had accrued during the war, instead of reinvesting the money in securities in London.[^33]
+
+Such concerns about the fund’s murkiness were tied to larger questions about Singapore’s future – if and how the legacies of colonial opium revenue might help finance its postwar recovery, where opium entangled funds might fit into Singapore’s assets and liabilities, and what vision of posterity should guide a government in the protracted process of decolonisation.
+
+Any solution to this problem – so deeply entwined with the foundations of British colonial rule in Singapore and accumulated for over a century – would necessarily be imperfect and partial. By 1952, when Charles Paglar’s request to use the Opium Revenue Replacement Reserve Fund for addict treatment was denied, it had assumed a strange ambiguity, its only clarity being that the fund not be used for the people from whom it had been collected, i.e. opium smokers in Singapore. Questions regarding its actual purpose and legitimate use were sidestepped as the fund was effectively renamed in 1953 and absorbed into a Special Reserve Fund to assist the government’s commitments to development and public infrastructure improvement.[^34]
+
+The same year that the fund was renamed, a solution for addressing the problem of Singapore’s opium addicts arose for discussion. Official plans for establishing a rehabilitation facility on St John’s Island were put forward, garnering much public support. “St John’s is ideal,” said physician and social reformer Chen Su Lan, calling it a “quiet, restful spot ‘away from it all’ with plenty of fresh air, sunshine, and the sea” that would help opium addicts “forget their habit”.[^35] Paglar concurred, calling it a “wonderful gesture” by the government.[^36] Two years later, the St John’s Opium Treatment Centre opened its doors with much fanfare, commanding the attention of the international community and medical experts as “the first in the world established solely to fight opium addiction”.[^37]  
+
+|<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-empiresofvice.jpg">|
+
+|This essay is based on research that led to Diana S. Kim’s Empires of Vice: The Rise of Opium Prohibition across Southeast Asia (2020). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 364.1770959 KIM and SING 364.1770959 KIM). It also retails at major bookshops in Singapore.|
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/authors/DianaKim.png" style="width: 100px; height: 100px;" />
+<b>Dr Diana S. Kim</b> is an Assistant Professor at Georgetown University in the Edmund A. Walsh School of Foreign Service. She is the author of *Empires of Vice*, a comparative study of the rise of opium prohibition in British Burma, Malaya and French Indochina.
 
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]: Notice sur les voyages de MM. Diard et Duvaucel, naturalistes français, dans les Indes orientales et dans les iles de la Sonde, extraite de leur correspondance et lue à l’Académie des sciences le 14 mai 1821 par M. le baron George Cuvier, membre de l’institut. *Revue Encyclopédique, ou analyse raisonnée des productions les plus remarquables dans la littérature, les sciences et les arts, par une réunion de Membres de l’Institut et d’autres hommes de lettres*. Tome X. Paris, Avril 1821 (p .478); Société Asiatique. (1824, Mars–Avril). Notice sur le voyage de M. Duvaucel. *Journal Asiatique*, IV, pp. 137–145. (Not available in NLB holdings)
-[^2]: Jean Léopold Nicolas Frédéric, Buron Cuvier (1769–1832) was a major figure in natural sciences research in the early 19th century. He established the sciences of palaeontology and comparative anatomy. See Encyclopaedia Britannica. (2020, May 9). *Georges Cuvier*. Retrieved from Britannica website.
-[^3]: Coulmann, J.-J. (1973) *Réminiscences* (Tome 1, p. 146). Genève Slatkine Reprints. (Not available in NLB holdings)
-[^4]: Bastin, J.S. (2014). *[Raffles and Hastings: Private exchanges behind the founding of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200867141)* (p. 195). Singapore: National Library Board and Marshall Cavendish Editions. (Call no.: RSING 959.5703 BAS-[HIS]) 
-[^5]: Cuvier, 14 May 1821, p. 478.
-[^6]: Geoffroy Saint-Hilaire, E., & Cuvier, F. (1824). *Histoire naturelle des mammifères: Avec des figures originales, coloriees, dessinees d’apres des animaux vivans*. A Paris: Chez A. Belin. Retrieved from Biodiversity Heritage Library website.
-[^7]: [Bastin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200867141), 2014, p. 29. 
-[^8]: Cuvier, 14 May 1821, p. 478.
-[^9]: Cuvier, 14 May 1821, p. 479.
-[^10]: Diard, P.M., & Duvaucel, A. (1822). On the Sorex Glis. *Asiatick Researches or Transactions of the Society, Instituted in Bengal for Inquiring into the History and Antiquities, the Arts, Sciences and Literature of Asia*, vol. XIV, pp. 471–475. Retrieved from Biodiversity Heritage Library website.
-[^11]: Raffles, S. (1830). *[Memoir of the life and public services of Sir Stamford Raffles: Particularly in the government of Java 1811–1816, and of Bencoolen and its dependencies, 1817–1824: With details of the commerce and resource of the eastern archipelago, and selections from his correspondence](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx)* (p. 703). London: J. Murray. Retrieved from BookSG.
-[^12]: [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, pp. 711–716.
-[^13]: [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, pp. 718–719.
-[^14]: Peysonnaux, J.H. (1935). Vie voyages et travaux de Pierre Médard Diard. Naturaliste Français aux Indes Orientales (1794–1863). Voyage dans l’Indochine (1821–1824) (p. 21). *Bulletin des amis du vieux Hué*. (Not available in NLB holdings) 
-[^15]: Raffles, T.S. (1821–1823). Descriptive catalogue of a zoological collection, made on account of the honorable East India Company, in the island of Sumatra and its vicinity, under the direction of Sir Thomas Stamford Raffles, Lieutenant-Governor of Fort Marlborough, with additional notices illustrative of the natural history of those countries. *The Transactions of the Linnean Society of London*, volume XIII, pp. 239–74, 277–340. Retrieved from Biodiversity Heritage Library website. 
-[^16]: [Bastin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200867141), 2014, p. 194. 
-[^17]: Raffles, 1821–1823, p. 240. 
-[^18]: Raffles, 1821–1823, p. 240.
-[^19]: [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, pp. 720–721. 
-[^20]: [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, pp. 721–722. 
-[^21]: [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, pp. 722–723.
+[^1]: [No fund money to cure opium addicts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520917-1.2.68). (1952, September 17). *The Straits Times*, p. 4. Retrieved from NewspaperSG. 
+
+[^2]: [Truth about opium](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520704-1.2.104). (1952, July 4). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+
+[^3]: [2,000 opium saloons](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520705-1.2.114). (1952, July 5). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+
+[^4]: Truth about opium. (1952, July 4). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[^5]: Blackburn, K. (2017). Education, industrialization and the end of empire in Singapore (p. 71). New York: Routledge. (Call no.: RSING 370.95957 BLA)
+
+[^6]: Blythe explains opium fund. (1952, September 17). Singapore Standard. Retrieved from NewspaperSG. 
+
+[^7]: The Straits Times, 17 Sep 1952, p. 4.
+
+[^8]: Singapore. Parliament. (1956, November 20). Liquidation of special reserve fund (col. 815). Retrieved from Singapore Parliament website.
+
+[^9]: Kim, D.S. (2020). Empires of vice: The rise of opium prohibition across Southeast Asia (p. 35). Princeton, New Jersey: Princeton University Press. (Call no.: RSING 364.1770959 KIM), citing Report from the Colonial Military Contributions Committee, Hong Kong Opium Revenue, 9 April 1914, National Archives of the United Kingdom, Kew (TNA)/T1/11642/11908. Also see Kim, 2020, p. 128, citing House of Lords, 24 July 1891, vol. 356, cc. 214-234. Retrieved from UK Parliament website. Also see The coalition stations of the world. The Coal Trade Journal, 1896, vol. 28, p. 207. Retrieved from HathiTrust website.
+
+[^10]: Kim, 2020, p. 35, citing Report from the Colonial Military Contributions Committee, Hong Kong Opium Revenue, 
+[^11]: 9 April 1914, National Archives of the United Kingdom, Kew (TNA)/T1/11642/11908.
+Kim, 2020, p. 125, citing Straits Settlements. (1921). Blue book for the year... Singapore: Government of the Colony of Singapore. (Microfilm nos.: NL1153; 1155); The Straits Times, 6 Oct 1925, p. 9. 
+[^12]: Kim, 2020, p. 131, citing Swettenham to Secretary of State for the Colonies, 9 October 9 1904, TNA/CO 271/292. 
+[^13]: Kim, 2020, p. 136, citing C. J. Saunders, 8 September 1907, Straits Settlements Opium Commission (SSOC) 1908, vol. 2, p. 100. 
+[^14]: Kim, 2020, p. 137, referring to SSOC 1908, 3 January 1908; 12 October 1907; 8 September 8 1907. 
+[^15]: Kim, 2020, p. 139, citing C. J. Saunders, 8 September 1907, Straits Settlements Opium Commission (SSOC) 1908, vol. 2, p. 100.
+[^16]: Kim, 2020, p. 139, citing National Library Board. (2015, December 31). Lim Boon Keng written by Ang Seow Leng & Fiona Lim. Retrieved from Singapore Infopedia website; 17 August 1907, SSOC 1908, vol. 2, p. 51. 
+[^17]: Kim, 2020, p. 139, citing Income tax protest. (1911, January 28). The Straits Times, p. 9. Retrieved from NewspaperSG. 
+[^18]: Rimner S. (2018). Opium’s long shadow: From Asian revolt to global drug control. Harvard University Press. (Not available in NLB’s holdings)
+[^19]: Kim, 2020, p. 64. 
+[^20]: Kim, 2020, p. 125. On the Geneva Opium Conferences, see Goto-Shibata, H. (2002, October). The International Opium Conference of 1924–25 and Japan. Modern Asian Studies, 36 (4), 969–991. Retrieved from JSTOR via NLB’s eResources website. 
+[^21]: Kim, 2020, p. 133. 
+[^22]: Kim, 2020, p. 264, citing The Council. (1925, August 24). The Straits Times, p. 9. Retrieved from NewspaperSG. 
+[^23]: Kim, 2020, pp. 145–146, citing The Council. (1925, October 6). The Straits Times, p. 9. Retrieved from NewspaperSG. Pountney designed a separate Opium Revenue Reserve Replacement Fund for the Federated Malay States (FMS), which began with $10 million and added yearly contributions of 15 percent of collected opium revenue. In this essay, I focus on the Straits Settlements fund. On its complex relationship with, and differences from, the FMS opium fund, see Kim, 2020, pp. 121, 143–151 and Cooray, F. (1947, July 15). Chandu shops follow gambling farms. The Malaya Tribune, p. 4. Retrieved from NewspaperSG.
+[^24]: Kim, 2020, pp. 145–146, citing The Straits Times, 6 Oct 1925, p. 9. 
+[^25]: Kim, 2020, p. 121, citing Report of Opium Revenue Replacement and Taxation Committee, 1928. 
+[^26]: Kim, 2020, p. 146, citing Straits Settlements Legislative Council Proceedings, 1925. 
+[^27]: Kim, 2020, 147, citing Report of the Subcommittee appointed by the Straits Settlements Association, 6 April 1926, TNA/CO 273/534/9. 
+[^28]: Kim, 2020, p. 149, citing unnamed 1928, TNA/CO 273/508. 
+[^29]: Kim, 2020, p. 151, citing Straits Settlements Blue Book, 1934. 
+[^30]: Kim, 2020, p. 151, citing from Clementi to Passfield, 11 September 1930, TNA CO 717/66. 
+[^31]: Community leaders praise authorities’ opium policy to be stamped out by gradual curing of addicts. (1942, September 27). Syonan Shinbun, p. 4. Retrieved from NewspaperSG.
+[^32]: Living on our savings? (1947, June 17). The Straits Times, 
+p. 6. Retrieved from NewspaperSG.
+[^33]: Kim, 2020, p. 197, citing Sabaratnam, S. (1948, October 13). S’pore’s $15 million opium racket. The Malaya Tribune, p. 5. Retrieved from NewspaperSG.
+[^34]: Govt. to put by boom surplus. (1953, October 20). The Singapore Free Press, p. 3. Retrieved from NewspaperSG
+[^35]: St. John’s is ideal, says Dr. Chen. (1953, September 13). The Straits Times, p. 5. Retrieved from NewspaperSG. 
+[^36]: Island camp to cure opium addicts. (1954, May 25). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
+[^37]: Morgan, P. (1955, February 5). Whole world watches this S’pore experiment. The Straits Times, p. 8. Retrieved from NewspaperSG.
