@@ -187,8 +187,8 @@ The same year that the fund was renamed, a solution for addressing the problem o
 [^28]: Kim, 2020, p. 149, citing unnamed 1928, TNA/CO 273/508. 
 [^29]: Kim, 2020, p. 151, citing Straits Settlements Blue Book, 1934. 
 [^30]: Kim, 2020, p. 151, citing from Clementi to Passfield, 11 September 1930, TNA CO 717/66. 
-[^31]: Community leaders praise authorities’ opium policy to be stamped out by gradual curing of addicts. (1942, September 27). Syonan Shinbun, p. 4. Retrieved from NewspaperSG.
-[^32]: Living on our savings? (1947, June 17). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^31]: Community leaders praise authorities’ opium policy to be stamped out by gradual curing of addicts. (1942, September 27). Syonan Shinbun, p.4. Retrieved from NewspaperSG.
+[^32]: Living on our savings? (1947, June 17). The Straits Times, p. 6.Retrieved from NewspaperSG.
 [^33]: Kim, 2020, p. 197, citing Sabaratnam, S. (1948, October 13). S’pore’s $15 million opium racket. The Malaya Tribune, p. 5. Retrieved from NewspaperSG.
 [^34]: Govt. to put by boom surplus. (1953, October 20). The Singapore Free Press, p. 3. Retrieved from NewspaperSG
 [^35]: St. John’s is ideal, says Dr. Chen. (1953, September 13). The Straits Times, p. 5. Retrieved from NewspaperSG. 
