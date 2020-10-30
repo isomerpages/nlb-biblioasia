@@ -97,7 +97,7 @@ One real-life mystery I use for my novel is a set of inscriptions carved into 11
 
 The most intriguing aspect of these gold plates is the presence of a particular verse that does not have an equivalent in any Buddhist text, whether in the original Indic languages, or in Tibetan or Chinese translations. Yet, this same verse is echoed in artefacts found at eight other locations in Southeast Asia, including three stone slabs discovered in Peninsular Malaysia, and stone stupas in Brunei, Sarawak and Kalimantan. The text reads:
 
-<i>“Ajñānāc cīyate karma janmanaḥ<br><br>karma kāraṇam<br><br>Jñānān na kritate karma<br><br>karmmābhāvān na jāyate.”</i>
+<i>“Ajñānāc cīyate karma janmanaḥ<br>karma kāraṇam<br>Jñānān na kritate karma<br>karmmābhāvān na jāyate.”</i>
 
 (Translation: Through ignorance, karma is accumulated; Karma is the cause of rebirth. Through wisdom, karma is not accumulated; In the absence of karma, one is not reborn.)[^4] 
 
