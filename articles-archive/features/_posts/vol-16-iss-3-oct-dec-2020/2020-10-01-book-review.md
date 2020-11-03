@@ -17,11 +17,11 @@ table {
 }
 </style>
 
-#### **The Year 1000 When Explorers Connected the World and Globalization Began** Reviewed by Wan Wee Pin
+#### The Year 1000 When Explorers Connected the World and Globalization Began Reviewed by **Wan Wee Pin**
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/book-review/year1000-opening.jpg.jpg">
+<img src="/images/Vol-16-issue-3/book-review/year1000-opening.jpg">
 </div>
 
 With China and the United States locking horns over trade, an increasing tendency towards nativism around the world and a recognition that globalisation is not always a good thing, the publication of Valerie Hansen’s *The Year 1000* is a timely one. 
