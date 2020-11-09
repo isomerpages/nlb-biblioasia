@@ -67,8 +67,8 @@ In 1906, despite protests citing the harmful effects of opium to the Chinese com
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-papapapa.jpg">
-In July 1952, police raids in Singapore resulted in the arrest of more than 200 opium addicts and opium den operators.<i> The Straits Times, 8 July 1952, p. 5. Retrieved from NewspaperSG</i>.
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-twoguys.jpg">
+Emaciated Chinese labourers smoking opium, late 19th century–early 20th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
 
 Official reluctance to end opium taxation was further linked to the daunting task of finding and replacing such a large source of revenue. The possibility of raising stamp fees and kerosene taxes was considered, or perhaps higher excise taxes on tobacco and alcohol. Instituting estate taxes or a state monopoly over pawnbroking were also examined.[^14]
@@ -76,12 +76,6 @@ Official reluctance to end opium taxation was further linked to the daunting tas
 Chinese-specific taxes were looked at, including a poll tax on migrants from China, taxes on their remittances and savings, as well as an income tax on wealthy Chinese inhabitants who owned property in the Straits Settlements. According to Dr David Galloway, Head of the Singapore Medical Association, taxes targeting the Chinese were justified because declining opium consumption would most likely benefit the health and welfare of the Chinese community. 
 
 These possibilities were more easily imagined than done. Any alternative revenue source was too small. “[T]o produce anything like the same revenue [from opium], the poll tax would have to be $10 or $15 per head,” fretted one administrator.[^15] Chinese-specific taxes were seen as highly discriminatory, as the eminent doctor and prominent community leader Lim Boon Keng pointed out, because if Singapore was able to eradicate opium consumption, it was hardly to the advantage of the Chinese only, but also “to the general advantage of the State”.[^16] It was also obvious that social backlash would occur. T.S. Baker, the legislative councillor representing the Singapore Chamber of Commerce, pointed out that an income tax that fell disproportionately on the Chinese was a fiscal strategy “fifty if not one hundred years in advance of the times” and would lead to “dishonesty and deception” while driving away “capital business, trade and people”.[^17]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-twoguys.jpg">
-Emaciated Chinese labourers smoking opium, late 19th century–early 20th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
-</div>
 
 #### **Opium Revenue Reserve Replacement Fund**
 
@@ -96,12 +90,6 @@ Yet, neither the abstract demands of an international community nor the worries 
 Throughout his administrative career, Pountney capitalised on his talent for numbers: he moved to Singapore in 1910 to oversee the census, then joined the Treasury Department in 1913 and became Treasurer in 1917 before finally assuming the position of Financial Adviser to the governor. In this capacity, Pountney designed the Opium Revenue Reserve Replacement Fund, calling it “the apotheosis of that part of my career which has been long and intimately connected with the opium question as it affects Malaya”.[^22]
 
 The idea was simple, Pountney explained to the Straits Settlements Legislative Council on 25 August 1925. The colonial government would set aside $30 million – which would come from Singapore’s currency surplus – part of which would be transferred to an investment fund that “after 5 years… give 4 percent interest, an annual income of $1,460,000”. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-card.jpg">
-An authorisation card to purchase chandu (opium) from Queen Street in 1942, during the Japanese Occupation. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore</i>. 
-</div>
 
 This was not a huge sum, acknowledged Pountney, as it would amount to less than a quarter of opium revenue accrued to the colonial state’s coffers. Thus, the shrewd bureaucrat planned for the equivalent of 10 percent of the colony’s annual revenue to be transferred into the reserve fund to top it up. According to Pountney: “[A]ssuming that the fund was left absolutely intact, and growing at compound interest, it would amount in 5 years… to a sum which would give an annual income of $2,050,000” and “within a reasonable time… might come to something approximating the revenue from opium”.[^23]
 
@@ -119,12 +107,6 @@ Each perspective contained elements of potential truth. There was a clear instru
 Charles Joseph Pemberton Paglar, a medical doctor and member of the Legislative Council. In 1952, he proposed using part of the Opium Revenue Replacement Reserve Fund to help opium addicts. <i>Eric Paglar Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-treatmentcentre.jpg">
-Visitors to the Opium Treatment Centre on St John’s Island, 1957. The facility opened in 1955 to treat and rehabilitate opium addicts. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
-</div>
-
 #### **Managing the Fund**
 
 The bureaucratic solution to a century-old problem of fiscal dependency would soon morph into an abstract form of investment wealth that helped sustain the Empire and finance myriad projects for colonial development. The fund’s management was entrusted to the Crown Agents, a quasi-governmental office of the Treasury in London, and invested across the world. In 1926, the $34 million generated another $4 million in net value through purchasing colonial stocks in Nigeria, Jamaica, Sierra Leone, the Union of South Africa, Ceylon (now Sri Lanka), Hong Kong and Canada. Within 10 years, vestiges of the fund could be found in nearly all territories under British rule, with a total net value of $62 million.[^29]
@@ -135,17 +117,35 @@ The fund took on a longevity that extended far beyond what had been an imaginabl
 
 During the Occupation years, the Japanese Military Administration and local community leaders in Singapore both disavowed and also benefitted from the revenue generated from opium’s commercial sale.[^31] And while the British no longer ruled Singapore, they still gained because the Opium Revenue Replacement Reserve Fund was held in sterling securities in London and continued to collect compound interest.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-card.jpg">
+An authorisation card to purchase <i>chandu</i> (opium) from Queen Street in 1942, during the Japanese Occupation. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore</i>. 
+</div>
+
 It is still not completely clear what exactly happened to the fund following the end of World War II, after Japan’s defeat and the return of the British to Singapore. Hopefully, this will be a topic for future research. What is evident in currently available and declassified archival records is that the fund carried over to postwar Singapore and became a controversial topic of much public debate. In June 1946, the prominent lawyer Roland Braddell argued that the opium funds belonged to the public, but had never been subject to proper accounting. “We do not know at what figure they stand today,” he noted.[^32] The following year, a committee report of the Singapore Association estimated that approximately $9 million was missing from the fund because the British had utilised all of the interest that had accrued during the war, instead of reinvesting the money in securities in London.[^33]
 
 Such concerns about the fund’s murkiness were tied to larger questions about Singapore’s future – if and how the legacies of colonial opium revenue might help finance its postwar recovery, where opium entangled funds might fit into Singapore’s assets and liabilities, and what vision of posterity should guide a government in the protracted process of decolonisation.
 
 Any solution to this problem – so deeply entwined with the foundations of British colonial rule in Singapore and accumulated for over a century – would necessarily be imperfect and partial. By 1952, when Charles Paglar’s request to use the Opium Revenue Replacement Reserve Fund for addict treatment was denied, it had assumed a strange ambiguity, its only clarity being that the fund not be used for the people from whom it had been collected, i.e. opium smokers in Singapore. Questions regarding its actual purpose and legitimate use were sidestepped as the fund was effectively renamed in 1953 and absorbed into a Special Reserve Fund to assist the government’s commitments to development and public infrastructure improvement.[^34]
 
-The same year that the fund was renamed, a solution for addressing the problem of Singapore’s opium addicts arose for discussion. Official plans for establishing a rehabilitation facility on St John’s Island were put forward, garnering much public support. “St John’s is ideal,” said physician and social reformer Chen Su Lan, calling it a “quiet, restful spot ‘away from it all’ with plenty of fresh air, sunshine, and the sea” that would help opium addicts “forget their habit”.[^35] Paglar concurred, calling it a “wonderful gesture” by the government.[^36] Two years later, the St John’s Opium Treatment Centre opened its doors with much fanfare, commanding the attention of the international community and medical experts as “the first in the world established solely to fight opium addiction”.[^37]  
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-papapapa.jpg">
+In July 1952, police raids in Singapore resulted in the arrest of more than 200 opium addicts and opium den operators.<i> The Straits Times, 8 July 1952, p. 5. Retrieved from NewspaperSG</i>.
+</div>
+
+The same year that the fund was renamed, a solution for addressing the problem of Singapore’s opium addicts arose for discussion. Official plans for establishing a rehabilitation facility on St John’s Island were put forward, garnering much public support. “St John’s is ideal,” said physician and social reformer Chen Su Lan, calling it a “quiet, restful spot ‘away from it all’ with plenty of fresh air, sunshine, and the sea” that would help opium addicts “forget their habit”.[^35] Paglar concurred, calling it a “wonderful gesture” by the government.[^36] Two years later, the St John’s Opium Treatment Centre opened its doors with much fanfare, commanding the attention of the international community and medical experts as “the first in the world established solely to fight opium addiction”.[^37]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-treatmentcentre.jpg">
+Visitors to the Opium Treatment Centre on St John’s Island, 1957. The facility opened in 1955 to treat and rehabilitate opium addicts. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
+</div>
 
 |<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-empiresofvice.png" style="width: 140px; height: 200px;"/>|
 
-|This essay is based on research that led to Diana S. Kim’s Empires of Vice: The Rise of Opium Prohibition across Southeast Asia (2020). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 364.1770959 KIM and SING 364.1770959 KIM). It also retails at major bookshops in Singapore.|
+|This essay is based on research that led to Diana S. Kim’s Empires of Vice: The Rise of Opium Prohibition Across Southeast Asia (2020). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 364.1770959 KIM and SING 364.1770959 KIM). It also retails at major bookshops in Singapore.|
 
 <div style="background-color: white;">
 <br/>
