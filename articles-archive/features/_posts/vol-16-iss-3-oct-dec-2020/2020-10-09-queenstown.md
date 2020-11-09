@@ -72,14 +72,6 @@ Patrons queuing up for library services at Queenstown Branch Library, 1970s. The
 
 </div>
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/queenstown/queenstown-reading.jpg">
-
-The packed reading room of Queenstown Branch Library, 1970s. <i>PictureSG, National Library, Singapore</i>.
-
-</div>
-
 Among those young bookworms was former Member of Parliament Chan Soo Sen. Chan remembered how he had been impressed when he visited the library for the first time as he had never seen so many books before. He said: “It was a nice environment. Near my place. Just walked five minutes from there.”[^16]
 
 Another regular visitor to the library was Defence Minister Ng Eng Hen, who grew up around Tanglin Halt and Commonwealth Drive. He recalled: “… as a teen you sort of go and walk, what would be considered quite far, 20 minutes, 30 minutes, and go out and go to your library… The library was very useful because we would spend afternoons just reading.”[^17]
@@ -91,6 +83,14 @@ The new branch library also received praise from academics and overseas visitors
 But the most important validation came from regular Singaporeans. Iris Lim, a former resident of Queenstown who lived near the library recalled: “When I was in primary school, every day I would go to the library.” As a child, she would devour the fairytales and folktales of various cultures, all translated into Mandarin, and she said she eventually read the entire collection. “That’s why my Chinese is so good,” she quipped.[^20]
 
 Hedwig Anuar, then Director of the National Library, was particularly pleased with the library’s success in attracting non-English educated patrons. “Some make use of the library as a club. They come regularly to read, meet their friends and attend the various activities. They even know the librarians by name and the librarians too know their names,” she said.[^21]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/queenstown/queenstown-reading.jpg">
+
+The packed reading room of Queenstown Branch Library, 1970s. <i>PictureSG, National Library, Singapore</i>.
+
+</div>
 
 #### **More Than Just Books**
 Beyond being a repository of books and knowledge, libraries also became community spaces. As one of the few spaces accessible to the public in the 1970s, the library organised a plethora of programmes and events, some of which were quite unorthodox for a space meant as a peaceful sanctuary. There were gardening or bonsai talks; arts and crafts sessions for children; talks and presentations on photography, bridal makeup, car design; and even a forum on whether television would replace books.[^22]
