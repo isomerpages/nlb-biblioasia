@@ -11,7 +11,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 
 |                                                              |                                                  |
 | :----------------------------------------------------------: | :----------------------------------------------: |
-| ![BiblioAsia 16-1 cover](/images/covers/ba16-1v2.jpg)[Apr–Jun 2020](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/) | ![BiblioAsia 16-2 cover](/images/covers/ba16-2.JPG)[Jul–Sep 2020](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/)|
+| ![BiblioAsia 16-1 cover](/images/covers/ba16-1v2.jpg)[Apr–Jun 2020](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/) | ![BiblioAsia 16-2 cover](/images/covers/ba16-2v2.JPG)[Jul–Sep 2020](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/)|
 
 #### Volume 15
 
