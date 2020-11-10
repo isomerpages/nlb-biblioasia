@@ -200,23 +200,23 @@ In most homes today, betel chewing lives on, if at all, in the memories of those
 [^20]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
 [^21]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
 [^22]: A form of address for elderly Peranakan Chinese women.
-[^23]: Grand dames bring life to the museum. (1987, September 6). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
-[^24]: Lee, L.H. (1949, July 8). Keeping on the right side of all the gods. *The Malaya Tribune*, p. V. Retrieved from NewspaperSG.
+[^23]: [Grand dames bring life to the museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870906-1.2.29.17). (1987, September 6). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
+[^24]: Lee, L.H. (1949, July 8). [Keeping on the right side of all the gods](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490708-1.2.58). *The Malaya Tribune*, p. V. Retrieved from NewspaperSG.
 [^25]: Gwee, T.H. (2013). *[A nyonya mosaic: Memoirs of a Peranakan childhood](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684877)* (p. 60). Singapore: Marshall Cavendish. (Call no.: RSING 959.57030922 GWE)
-[^26]: 8,000 labourers on strike in Singapore. (1936, December 2). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^26]: [8,000 labourers on strike in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19361202-1.2.46). (1936, December 2). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^27]: Orme, W.B. (1914, February 7). Makan sireh. *The British Medical Journal, 1* (2771), 325–326, p. 326. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^28]: *The Singapore Free Press*, 13 Sep 1912, p. 3; Reid, 1988, p. 43.
+[^28]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120913-1.2.10)*, 13 Sep 1912, p. 3; [Reid](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4305251), 1988, p. 43.
 [^29]: [Gwee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684877), 2013, p. 81.
 [^30]: Neo, D., & Rathabai, J. (2015). Elaborate customs and rituals. *The Peranakan*, (2), p. 16. Retrieved from The Peranakan Association Singapore website.
 [^31]: Norhuda Salleh. (2015). Tepak sireh: Interpretation and perception in Malay wedding customs. *INTCESS15 – 2nd International Conference on Education and Social Services* (pp. 1185–1186). Retrieved from International Organisation Center of Academic Research website. 
 [^32]: Warisan SG. (2015). *Sacred sirih: Traditions and symbolism in the Malay world Part 1* [Video]. Retrieved from YouTube.
-[^33]: Menon, V. (1981, November 20). The betel and its role in Hindu functions. *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^34]: *The Singapore Free Press*, 25 Aug 1951, p. 9.
-[^35]: Ponnudurai, V.R. (1951, August 25). Chewing the betel. *The Singapore Free Press*, p. 9. Retrieved from NewspaperSG.
-[^36]: Norhuda Salleh. (2015). Tepak sireh: Interpretation and perception in Malay wedding customs. *INTCESS15 – 2nd International Conference on Education and Social Services* (p. 1184). Retrieved from International Organisation Center of Academic Research website. 
-[^37]: Chia, F. (1994). *The Babas revisited* (p. 102). Singapore: Heinemann Asia. (Call no.: RSING 309.895105957 CHI)
-[^38]: Hunt for ethnic costumes. (1993, January 19). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
-[^39]: The wispy see-through kebaya tantalised many a Baba youth... (1976, May 12). *New Nation*, pp. 10–11. Retrieved from NewspaperSG.
+[^33]: Menon, V. (1981, November 20). [The betel and its role in Hindu functions](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811120-1.2.169.8.2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^34]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
+[^35]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
+[^36]: Norhuda, 2015, p. 1184.
+[^37]: Chia, F. (1994). *[The Babas revisited](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6790835)* (p. 102). Singapore: Heinemann Asia. (Call no.: RSING 309.895105957 CHI)
+[^38]: [Hunt for ethnic costumes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930119-1.2.33.4). (1993, January 19). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
+[^39]: *[The wispy see-through kebaya tantalised many a Baba youth...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760512-1.2.52.1)*(1976, May 12). *New Nation*, pp. 10–11. Retrieved from NewspaperSG.
 [^40]: *The Singapore Free Press*, 25 Aug 1951, p. 9; Betel nuts? We’ll stick to lipstick, say women. (1952, July 30). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 [^41]: Text is translated from Malay. Abdullah Othman. (1964, December 31). Ada jua yang tiada. *Berita Harian*, p. 6. Retrieved from NewspaperSG.
 [^42]: Smooth operators. (1994, July 7). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
