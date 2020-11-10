@@ -178,19 +178,19 @@ Visitors to the Opium Treatment Centre on St John’s Island, 1957. The facility
 [^19]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 64. 
 [^20]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 125. On the Geneva Opium Conferences, see Goto-Shibata, H. (2002, October). The International Opium Conference of 1924–25 and Japan. *Modern Asian Studies, 36* (4), 969–991. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website. 
 [^21]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 133. 
-[^22]: Kim, 2020, p. 264, citing [The Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250824-1.2.67). (1925, August 24). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
+[^22]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 264, citing [The Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250824-1.2.67). (1925, August 24). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
 [^23]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, pp. 145–146, citing *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251006-1.2.72)*, 6 Oct 1925, p. 9. Pountney designed a separate Opium Revenue Reserve Replacement Fund for the Federated Malay States (FMS), which began with $10 million and added yearly contributions of 15 percent of collected opium revenue. In this essay, I focus on the Straits Settlements fund. On its complex relationship with, and differences from, the FMS opium fund, see [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, pp. 121, 143–151 and Cooray, F. (1947, July 15). [Chandu shops follow gambling farms](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470715-1.2.31). *The Malaya Tribune*, p. 4. Retrieved from NewspaperSG.
 [^24]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, pp. 145–146, citing *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251006-1.2.72)*, 6 Oct 1925, p. 9. 
 [^25]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 121, citing Report of Opium Revenue Replacement and Taxation Committee, 1928. 
 [^26]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 146, citing Straits Settlements Legislative Council Proceedings, 1925. 
 [^27]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, 147, citing Report of the Subcommittee appointed by the Straits Settlements Association, 6 April 1926, TNA/CO 273/534/9. 
-[^28]: Kim, 2020, p. 149, citing unnamed 1928, TNA/CO 273/508. 
-[^29]: Kim, 2020, p. 151, citing Straits Settlements Blue Book, 1934. 
-[^30]: Kim, 2020, p. 151, citing from Clementi to Passfield, 11 September 1930, TNA CO 717/66. 
-[^31]: Community leaders praise authorities’ opium policy to be stamped out by gradual curing of addicts. (1942, September 27). Syonan Shinbun, p.4. Retrieved from NewspaperSG.
-[^32]: Living on our savings? (1947, June 17). The Straits Times, p. 6.Retrieved from NewspaperSG.
-[^33]: Kim, 2020, p. 197, citing Sabaratnam, S. (1948, October 13). S’pore’s $15 million opium racket. The Malaya Tribune, p. 5. Retrieved from NewspaperSG.
-[^34]: Govt. to put by boom surplus. (1953, October 20). The Singapore Free Press, p. 3. Retrieved from NewspaperSG
-[^35]: St. John’s is ideal, says Dr. Chen. (1953, September 13). The Straits Times, p. 5. Retrieved from NewspaperSG. 
-[^36]: Island camp to cure opium addicts. (1954, May 25). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
-[^37]: Morgan, P. (1955, February 5). Whole world watches this S’pore experiment. The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^28]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 149, citing unnamed 1928, TNA/CO 273/508. 
+[^29]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 151, citing *[Straits Settlements Blue Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201120998)*, 1934. 
+[^30]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 151, citing from Clementi to Passfield, 11 September 1930, TNA CO 717/66. 
+[^31]: [Community leaders praise authorities’ opium policy to be stamped out by gradual curing of addicts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420927-1.2.38). (1942, September 27). *Syonan Shimbun*, p.4. Retrieved from NewspaperSG.
+[^32]: [Living on our savings?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470617-1.2.50) (1947, June 17). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^33]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 197, citing Sabaratnam, S. (1948, October 13). [S’pore’s $15 million opium racket](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19481013-1.2.49). *The Malaya Tribune*, p. 5. Retrieved from NewspaperSG.
+[^34]: [Govt. to put by boom surplus](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19531020-1.2.28). (1953, October 20). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG
+[^35]: [St. John’s is ideal](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530913-1.2.58), says Dr. Chen. (1953, September 13). *The Straits Times*, p. 5. Retrieved from NewspaperSG. 
+[^36]: [Island camp to cure opium addicts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19540525-1.2.54). (1954, May 25). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
+[^37]: Morgan, P. (1955, February 5). [Whole world watches this S’pore experiment](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550205-1.2.163). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
