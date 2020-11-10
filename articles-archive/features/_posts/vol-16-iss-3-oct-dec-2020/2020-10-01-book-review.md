@@ -48,7 +48,7 @@ Hansen says the solution lies in how we respond to these shifts in society. Hist
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/authors/WanWeePin.png" style="width: 100px; height: 100px;" />
-<b>Wan Wee Pin</b> is Programme Director, National Reading Movement, National Library Board. Valerie Hansen’s <i>The Year 1000</i> is available for reference at the Lee Kong Chian Reference Library, and for loan at selected public libraries (Call nos.: R909.1 HAN; 909.1 HAN) and on Overdrive[nlb.overdrive.com](https://nlb.overdrive.com).
+<b>Wan Wee Pin</b> is Programme Director, National Reading Movement, National Library Board. Valerie Hansen’s <i>The Year 1000</i> is available for reference at the Lee Kong Chian Reference Library, and for loan at selected public libraries (Call nos.: R909.1 HAN; 909.1 HAN) and on Overdrive <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
