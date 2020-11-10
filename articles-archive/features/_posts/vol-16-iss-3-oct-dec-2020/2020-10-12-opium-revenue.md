@@ -185,7 +185,7 @@ Visitors to the Opium Treatment Centre on St John’s Island, 1957. The facility
 [^26]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 146, citing Straits Settlements Legislative Council Proceedings, 1925. 
 [^27]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, 147, citing Report of the Subcommittee appointed by the Straits Settlements Association, 6 April 1926, TNA/CO 273/534/9. 
 [^28]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 149, citing unnamed 1928, TNA/CO 273/508. 
-[^29]: [Kim], 2020, p. 151, citing *[Straits Settlements Blue Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201120998)*, 1934. 
+[^29]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 151, citing *[Straits Settlements Blue Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201120998)*, 1934. 
 [^30]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 151, citing from Clementi to Passfield, 11 September 1930, TNA CO 717/66. 
 [^31]: [Community leaders praise authorities’ opium policy to be stamped out by gradual curing of addicts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420927-1.2.38). (1942, September 27). *Syonan Shimbun*, p.4. Retrieved from NewspaperSG.
 [^32]: [Living on our savings?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470617-1.2.50) (1947, June 17). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
