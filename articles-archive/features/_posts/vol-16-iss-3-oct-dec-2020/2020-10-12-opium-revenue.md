@@ -34,14 +34,15 @@ Moreover, the law was being made a mockery of, according to the physician and so
 
 The government, however, rejected Paglar’s proposal and informed him that the Opium Revenue Replacement Reserve Fund was “not available for the curative treatment of needy addicts”.[^7]
 
-In 1953, the $55 million was transferred to a different account – the vaguely named Special Reserve Fund.[^8] By the time the British granted Singapore internal self-government in 1959, this fund had been absorbed into the general revenue surplus, without any traceable connections to its opium origins. The disappearance of the huge sum of money marked the quiet end to a radical arrangement that helped justify a deeply controversial aspect of 20th-century British colonial rule in Singapore: fiscal dependency on opium taxes. 
-
-
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-britishmalayabookcover.jpg">
-Dr Chen Su Lan, as Director of the Anti-Opium Clinic and President of the Singapore Anti-Opium Society, delivered an address on the opium problem in British Malaya at the Rotary Conference held in Penang on 23 November 1934. <i>Collection of the National Library, Singapore</i>.<i>(Accession no.: B02890349B)</i>. 
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-combined.png">
+
+(Left) Charles Joseph Pemberton Paglar, a medical doctor and member of the Legislative Council. In 1952, he proposed using part of the Opium Revenue Replacement Reserve Fund to help opium addicts. <i>Eric Paglar Collection, courtesy of National Archives of Singapore.</i> 
+(Right) Dr Chen Su Lan, as Director of the Anti-Opium Clinic and President of the Singapore Anti-Opium Society, delivered an address on the opium problem in British Malaya at the Rotary Conference held in Penang on 23 November 1934. <i>Collection of the National Library, Singapore. (Accession no.: B02890349B).</i>
 </div>
+
+In 1953, the $55 million was transferred to a different account – the vaguely named Special Reserve Fund.[^8] By the time the British granted Singapore internal self-government in 1959, this fund had been absorbed into the general revenue surplus, without any traceable connections to its opium origins. The disappearance of the huge sum of money marked the quiet end to a radical arrangement that helped justify a deeply controversial aspect of 20th-century British colonial rule in Singapore: fiscal dependency on opium taxes. 
 
 #### **Opium and Colonial State Building in Singapore**
 
@@ -100,12 +101,6 @@ Observers remarked that the Opium Revenue Reserve Replacement Fund was a “fina
 Others worried that “the existence of so large a fund… will tend towards profligate expenditure on the part of the Government spending departments” and the surplus would be “liable to be diverted to other uses”.[^27] The Singapore Chamber of Commerce sharply criticised Pountney’s “indulgence of posterity” at the expense of the welfare and needs of people in the present. Within the Colonial Office in London, suspicions were also voiced about the possibly impure intentions of administrators in Singapore to “build up a fund so large, that the interest upon them would equal the opium revenue which is to be lost and the Governments would then live like rentiers upon their savings”.[^28]
 
 Each perspective contained elements of potential truth. There was a clear instrumental value to the mere existence of this arrangement as it enabled the British to claim on the international stage that they were making a genuine effort to curb opium consumption in their colonies and asserting the moral authority of imperial rule. However, there was also a blatant lack of transparency as to how the colonial government would use what quickly became a very large pot of money. By the end of its first year of operations, the fund had increased by $4 million to $34 million, a sum that far exceeded Pountney’s original projections. Yet both perspectives missed a deeper story about the transformation of the colonial state and how a bureaucratic solution was emerging to address Singapore’s long-standing problem of fiscal dependency on opium sales under British rule. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-doctor.jpg">
-Charles Joseph Pemberton Paglar, a medical doctor and member of the Legislative Council. In 1952, he proposed using part of the Opium Revenue Replacement Reserve Fund to help opium addicts. <i>Eric Paglar Collection, courtesy of National Archives of Singapore</i>.
-</div>
 
 #### **Managing the Fund**
 
