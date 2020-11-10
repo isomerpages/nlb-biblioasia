@@ -17,7 +17,7 @@ table {
 }
 </style>
 
-#### The Year 1000 When Explorers Connected the World and Globalization Began Reviewed by **Wan Wee Pin**
+#### The Year 1000 When Explorers Connected the World and Globalization Began
 
 <div style="background-color: white;">
 <br/>
@@ -42,11 +42,13 @@ What lessons can we draw from Hansen’s account? The words of philosopher and n
 
 Hansen says the solution lies in how we respond to these shifts in society. History has shown that increased contact with the external world will bring about new opportunities; what is needed is to be prepared for the unfamiliar, to learn from the Other and to treat the challenges as incentives to improve. Hansen’s caution that “(t)hose who remained open to the unfamiliar did much better than those who rejected anything new” is sound advice that should be heeded as we navigate the challenges of an increasingly uncertain world.
 
+*Reviewed by Wan Wee Pin*
+
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/authors/WanWeePin.png" style="width: 100px; height: 100px;" />
-<b>Wan Wee Pin</b> is Programme Director, National Reading Movement, National Library Board. Valerie Hansen’s <i>The Year 1000</i> is available for reference at the Lee Kong Chian Reference Library, and for loan at selected public libraries (Call nos.: R909.1 HAN; 909.1 HAN) and on Overdrive (nlb.overdrive.com).
+<b>Wan Wee Pin</b> is Programme Director, National Reading Movement, National Library Board. Valerie Hansen’s <i>The Year 1000</i> is available for reference at the Lee Kong Chian Reference Library, and for loan at selected public libraries (Call nos.: R909.1 HAN; 909.1 HAN) and on Overdrive[nlb.overdrive.com](nlb.overdrive.com).
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
