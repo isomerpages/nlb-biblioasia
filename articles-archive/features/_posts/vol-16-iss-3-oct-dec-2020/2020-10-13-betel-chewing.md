@@ -195,8 +195,8 @@ In most homes today, betel chewing lives on, if at all, in the memories of those
 [^15]: Neither the betel quid nor its respective ingredients were particularly significant in the cultures of the Chinese and Eurasians in Singapore. Goh, B.-L. (2018). *[Modern dreams: An inquiry into power, cultural production, and the cityscape in contemporary urban Penang, Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11110271)* (p. 131). Ithaca, NY: Cornell University. (Call no.: RSEA 307.76095951 GOH); Choo, C., et al. (2007). Being Eurasian (p. 109). In M. Perkins (Ed.), *Visibly different: Face, place and race in Australia*. Switzerland: Peter Lang Verlag. (Not available in NLB holdings); Nirmala, M. (2003, July 4). [All are welcome at new Eurasian House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030704-1.2.29.15). *The Straits Times*, p. 27. Retrieved from NewspaperSG.
 [^16]: Zumbroich, 2008, p. 90.
 [^17]: Ponnudurai, V.R. (1951, August 25). [Chewing the betel](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88). *The Singapore Free Press*, p. 9. Retrieved from NewspaperSG.
-[^18]: Reid, A. (1988). *[Southeast Asia in the age of commerce 1450–1680 (https://eservice.nlb.gov.sg/item_holding.aspx?bid=4305251)* (Vol. 1, p. 41). New Haven; London: Yale University Press. (Call no.: RSEA 959 REI)
-[^19]: *[The Singapore Free Press (https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
+[^18]: Reid, A. (1988). *[Southeast Asia in the age of commerce 1450–1680](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4305251)* (Vol. 1, p. 41). New Haven; London: Yale University Press. (Call no.: RSEA 959 REI)
+[^19]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
 [^20]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
 [^21]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
 [^22]: A form of address for elderly Peranakan Chinese women.
