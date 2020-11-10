@@ -15,7 +15,7 @@ that it made up half of the colonial government’s annual tax takings. [Diana S
 Violent gun crime also used to be common in Singapore; up until the 1960s, street shootouts
 and kidnappings of millionaires were regular occurrences. [Tan Chui Hua’s](/vol-16/issue-3/oct-dec-2020/gunpoint) account of the city’s gun-happy gangsters is a reminder that the “good old days” weren’t always so good.
 
-On a less violent note, this year is the centenary of former French prime minister Georges
+On a less violent note, this year is the centenary of former French Prime Minister Georges
 Clemenceau’s visit here and the 50th anniversary of the opening of Queenstown Library. [Lim
 Tin Seng](/vol-16/issue-3/oct-dec-2020/tiger) revisits 1920 while [Paddy Jonathan Ong](/vol-16/issue-3/oct-dec-2020/queenstown) recounts the history of Singapore’s first proper
 branch library.
@@ -30,4 +30,4 @@ Collecting materials that capture present-day events or culture is a way for the
 
 Also, don’t miss [Lee Meiyu’s](/vol-16/issue-3/oct-dec-2020/kim-mui) essay written in Chinese on the Kim Mui Hoey Kuan Collection and [Wan Wee Pin’s](/vol-16/issue-3/oct-dec-2020/book-review) review of the recently published book, *The Year 1000*.
 
-Finally, I would again like to invite everyone to take part in our readers’ [survey](https://efm.jusfeedback.com/Community/se/705E3ED92204BF70). Please visit our website at biblioasia.nlb.gov.sg or use the QR link below to have your say. We want to make *BiblioAsia* better than ever, and your feedback is invaluable.
+Finally, I would again like to invite everyone to take part in our readers’ [survey](https://efm.jusfeedback.com/Community/se/705E3ED92204BF70). We want to make *BiblioAsia* better than ever, and your feedback is invaluable.

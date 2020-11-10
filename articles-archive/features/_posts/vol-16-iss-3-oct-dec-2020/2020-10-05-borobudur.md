@@ -24,7 +24,7 @@ table {
 <br/>
 <img src="/images/Vol-16-issue-3/borobudur/theborobudur-buddha.jpg">
 
-Sunrise as seen from the summit of Borobudur, with Mount Merapi in the horizon, 2017. Photo by <i>Erni Salleh.</i>
+Sunrise as seen from the summit of Borobudur, with Mount Merapi in the horizon, 2017. <i>Photo by Erni Salleh.</i>
 
 </div>
 
@@ -141,7 +141,7 @@ As an academic and a writer, I feel the responsibility of bringing to the fore u
 <br/>
 <img src="/images/Vol-16-issue-3/authors/ErniSalleh.png" style="width: 100px; height: 100px;"/>
 
-<b>Erni Salleh</b> is a trained librarian who currently manages the Mobile Library Services at the National Library Board. She is the author of <i>The Java Enigma</i>, which was shortlisted for the 2020 Epigram Book Fiction Prize. An avid traveller, she collects bits of the past – from 19th-century Laotian ceremonial scrolls to generations-old keris from Yogyakarta.
+<b>Erni Salleh</b> is a trained librarian who currently manages the Mobile Library Services at the National Library Board. She is the author of <i>The Java Enigma</i>, which was shortlisted for the 2020 Epigram Book Fiction Prize. An avid traveller, she collects bits of the past – from 19th-century Laotian ceremonial scrolls to generations-old <i>keris</i> from Yogyakarta.
 
 </div>
 
