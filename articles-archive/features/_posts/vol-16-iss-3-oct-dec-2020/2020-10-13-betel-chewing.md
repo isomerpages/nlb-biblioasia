@@ -213,7 +213,7 @@ In most homes today, betel chewing lives on, if at all, in the memories of those
 [^33]: Menon, V. (1981, November 20). [The betel and its role in Hindu functions](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811120-1.2.169.8.2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^34]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
 [^35]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^36]: Norhuda, 2015, p. 1184.
+[^36]: Norhuda Salleh, 2015, p. 1184.
 [^37]: Chia, F. (1994). *[The Babas revisited](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6790835)* (p. 102). Singapore: Heinemann Asia. (Call no.: RSING 309.895105957 CHI)
 [^38]: [Hunt for ethnic costumes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930119-1.2.33.4). (1993, January 19). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 [^39]: *[The wispy see-through kebaya tantalised many a Baba youth...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760512-1.2.52.1)* (1976, May 12). *New Nation*, pp. 10–11. Retrieved from NewspaperSG.
