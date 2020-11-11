@@ -106,7 +106,7 @@ However, Malay weddings today still feature the betel leaf in various guises: *s
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/betel/betelchewing-yellowcloth.jpg">
-A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red container filled with betel leaves, brass receptacles for holding the incense and <i>air mawar</i> (rose water), and a container for storing the areca nut <i>(pinang)</i> and slaked lime <i>(kapor or chunam).</i> <i>PictureSG, National Library, Singapore.</i>
+A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red container filled with betel leaves, brass receptacles for holding the incense and <i>air mawar</i> (rose water), and a container for storing the areca nut <i>(pinang)</i> and slaked lime <i>(kapor</i> or <i>chunam).</i> <i>PictureSG, National Library, Singapore.</i>
 
 </div>
 
