@@ -44,7 +44,7 @@ sections:
         alt: sample of building
         
     - infopic:
-        title: We’re listening.
+        title: We’re listening
         subtitle:
         description: Tell us what you like reading about in <i>BiblioAsia</i> by taking part in this readership survey.
         button: Take the survey
