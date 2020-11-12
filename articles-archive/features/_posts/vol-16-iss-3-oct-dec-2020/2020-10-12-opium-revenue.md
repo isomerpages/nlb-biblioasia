@@ -138,9 +138,14 @@ The same year that the fund was renamed, a solution for addressing the problem o
 Visitors to the Opium Treatment Centre on St John’s Island, 1957. The facility opened in 1955 to treat and rehabilitate opium addicts. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+</div>
+
 |<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-empiresofvice.png" style="width: 140px; height: 200px;"/>|
 
-|This essay is based on research that led to Diana S. Kim’s Empires of Vice: The Rise of Opium Prohibition Across Southeast Asia (2020). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 364.1770959 KIM and SING 364.1770959 KIM). It also retails at major bookshops in Singapore.|
+|This essay is based on research that led to Diana S. Kim’s *Empires of Vice: The Rise of Opium Prohibition Across Southeast Asia* (2020). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 364.1770959 KIM and SING 364.1770959 KIM). It also retails at major bookshops in Singapore.|
 
 <div style="background-color: white;">
 <br/>
