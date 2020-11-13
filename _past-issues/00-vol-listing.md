@@ -46,7 +46,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 11-1 cover](/images/covers/ba11-1.jpg)[Apr–Jun 2015](/past-issues/pdf/BiblioAsia Apr-Jun 2015.pdf) | ![BiblioAsia 11-2 cover](/images/covers/ba11-2.jpg)[Jul–Sep 2015](/past-issues/pdf/BiblioAsia Jul-Sep 2015.pdf) |
-| ![BiblioAsia 11-3 cover](/images/covers/ba11-3.jpg) [Oct–Dec 2015](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/){:target="_blank"} | ![BiblioAsia 11-4 cover](/images/covers/ba11-4.jpg) [Jan–Mar 2016](http://www.nlb.gov.sg/biblioasia/vol-11-issue-4-jan-mar-2016/){:target="_blank"} |
+| ![BiblioAsia 11-3 cover](/images/covers/ba11-3.jpg) [Oct–Dec 2015](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/) | ![BiblioAsia 11-4 cover](/images/covers/ba11-4.jpg) [Jan–Mar 2016](http://www.nlb.gov.sg/biblioasia/vol-11-issue-4-jan-mar-2016/){:target="_blank"} |
 
 ####  Volume 10
 
