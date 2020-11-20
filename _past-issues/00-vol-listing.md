@@ -38,7 +38,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 12-1 cover](/images/covers/ba12-1.jpg) [Apr–Jun 2016](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2022:04:39.000/wp/details/http://www.nlb.gov.sg/biblioasia/tag/vol-12-issue-1/){:target="_blank"} | ![BiblioAsia 12-2 cover](/images/covers/ba12-2.jpg) [Jul–Sep 2016](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2021:54:05.000/wp/details/http://www.nlb.gov.sg/biblioasia/tag/vol-12-issue-2/){:target="_blank"} |
+| ![BiblioAsia 12-1 cover](/images/covers/ba12-1.jpg) [Apr–Jun 2016](https://eresources.nlb.gov.sg/webarchives/2018-09-21%2000:55:34.000/wp/details/http://www.nlb.gov.sg/biblioasia/vol-12-issue-1-april-jun-2016/){:target="_blank"} | ![BiblioAsia 12-2 cover](/images/covers/ba12-2.jpg) [Jul–Sep 2016](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2021:54:05.000/wp/details/http://www.nlb.gov.sg/biblioasia/tag/vol-12-issue-2/){:target="_blank"} |
 | ![BiblioAsia 12-3 cover](/images/covers/ba12-3.jpg) [Oct–Dec 2016](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2023:32:44.000/wp/details/http://www.nlb.gov.sg/biblioasia/category/vol-12-issue-3/){:target="_blank"} | ![BiblioAsia 12-4 cover](/images/covers/ba12-4.jpg) [Jan–Mar 2017](https://eresources.nlb.gov.sg/webarchives/2020-10-22%2004:05:46.000/wp/details/http://www.nlb.gov.sg/biblioasia/category/vol-12-issue-4/){:target="_blank"} |
 
 ####  Volume 11
