@@ -17,36 +17,36 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 15-1 cover](/images/covers/ba15-1.jpg)[Apr–Jun 2019](http://www.nlb.gov.sg/biblioasia/vol-15-issue-1/){:target="_blank"} | ![BiblioAsia 15-2 cover](/images/covers/ba15-2.jpg) [Jul–Sep 2019](http://www.nlb.gov.sg/biblioasia/home-page/){:target="_blank"}  |
-| ![BiblioAsia 15-3 cover](/images/covers/ba15-3.jpg) [Oct–Dec 2019](http://www.nlb.gov.sg/biblioasia/vol-15-issue-3/){:target="_blank"} | ![BiblioAsia 15-4 cover](/images/covers/ba15-4.jpg) [Jan–Mar 2020](http://www.nlb.gov.sg/biblioasia/vol-15-issue-4/){:target="_blank"} |
+| ![BiblioAsia 15-1 cover](/images/covers/ba15-1.jpg)[Apr–Jun 2019](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:41:54.000/wp/details/http://www.nlb.gov.sg/biblioasia/vol-15-issue-1/){:target="_blank"} | ![BiblioAsia 15-2 cover](/images/covers/ba15-2.jpg) [Jul–Sep 2019](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:41:22.000/wp/details/http://www.nlb.gov.sg/biblioasia/home-page/){:target="_blank"}  |
+| ![BiblioAsia 15-3 cover](/images/covers/ba15-3.jpg) [Oct–Dec 2019](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:40:47.000/wp/details/http://www.nlb.gov.sg/biblioasia/vol-15-issue-3/){:target="_blank"} | ![BiblioAsia 15-4 cover](/images/covers/ba15-4.jpg) [Jan–Mar 2020](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:38:01.000/wp/details/http://www.nlb.gov.sg/biblioasia/){:target="_blank"} |
 
 ####  Volume 14
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 14-1 cover](/images/covers/ba14-1.jpg) [Apr–Jun 2018](http://www.nlb.gov.sg/biblioasia/vol-14-issue-1-apr-jun-2018/){:target="_blank"} | ![BiblioAsia 14-2 cover](/images/covers/ba14-2.jpg) [Jul–Sep 2018](http://www.nlb.gov.sg/biblioasia/past-issues/vol-14-issue-2-jul-sep-2018/){:target="_blank"} |
-| ![BiblioAsia 14-3 cover](/images/covers/ba14-3.jpg) [Oct–Dec 2018](http://www.nlb.gov.sg/biblioasia/vol-14-issue-3/){:target="_blank"} | ![BiblioAsia 14-4 cover](/images/covers/ba14-4.jpg) [Jan–Mar 2019](http://www.nlb.gov.sg/biblioasia/vol-14-issue-4/){:target="_blank"} |
+| ![BiblioAsia 14-1 cover](/images/covers/ba14-1.jpg) [Apr–Jun 2018](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:44:29.000/wp/details/http://www.nlb.gov.sg/biblioasia/vol-14-issue-1-apr-jun-2018/){:target="_blank"} | ![BiblioAsia 14-2 cover](/images/covers/ba14-2.jpg) [Jul–Sep 2018](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:43:54.000/wp/details/http://www.nlb.gov.sg/biblioasia/past-issues/vol-14-issue-2-jul-sep-2018/){:target="_blank"} |
+| ![BiblioAsia 14-3 cover](/images/covers/ba14-3.jpg) [Oct–Dec 2018](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:43:12.000/wp/details/http://www.nlb.gov.sg/biblioasia/vol-14-issue-3/){:target="_blank"} | ![BiblioAsia 14-4 cover](/images/covers/ba14-4.jpg) [Jan–Mar 2019](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:42:35.000/wp/details/http://www.nlb.gov.sg/biblioasia/vol-14-issue-4/){:target="_blank"} |
 
 ####  Volume 13
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 13-1 cover](/images/covers/ba13-1.jpg) [Apr–Jun 2017](http://www.nlb.gov.sg/biblioasia/volume-13-issue-1-may-to-jul-2017/){:target="_blank"} | ![BiblioAsia 13-2 cover](/images/covers/ba13-2.jpg) [Jul–Sep 2017](http://www.nlb.gov.sg/biblioasia/vol-13-issue-2-jul-sept-2017/){:target="_blank"} |
-| ![BiblioAsia 13-3 cover](/images/covers/ba13-3.jpg) [Oct–Dec 2017](http://www.nlb.gov.sg/biblioasia/vol13-issue-3/){:target="_blank"} | ![BiblioAsia 13-4 cover](/images/covers/ba13-4.jpg) [Jan–Mar 2018](http://www.nlb.gov.sg/biblioasia/vol-13-issue-4/){:target="_blank"} |
+| ![BiblioAsia 13-1 cover](/images/covers/ba13-1.jpg) [Apr–Jun 2017](https://eresources.nlb.gov.sg/webarchives/2020-10-22%2003:58:39.000/wp/details/http://www.nlb.gov.sg/biblioasia/category/vol-13-issue-1/){:target="_blank"} | ![BiblioAsia 13-2 cover](/images/covers/ba13-2.jpg) [Jul–Sep 2017](https://eresources.nlb.gov.sg/webarchives/2020-10-22%2001:35:38.000/wp/details/http://www.nlb.gov.sg/biblioasia/category/vol-13-iss-2/){:target="_blank"} |
+| ![BiblioAsia 13-3 cover](/images/covers/ba13-3.jpg) [Oct–Dec 2017](https://eresources.nlb.gov.sg/webarchives/2020-10-22%2001:33:23.000/wp/details/http://www.nlb.gov.sg/biblioasia/category/vol-13-iss3/){:target="_blank"} | ![BiblioAsia 13-4 cover](/images/covers/ba13-4.jpg) [Jan–Mar 2018](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:45:11.000/wp/details/http://www.nlb.gov.sg/biblioasia/vol-13-issue-4/){:target="_blank"} |
 
 ####  Volume 12
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 12-1 cover](/images/covers/ba12-1.jpg) [Apr–Jun 2016](http://www.nlb.gov.sg/biblioasia/vol-12-issue-1-april-jun-2016/){:target="_blank"} | ![BiblioAsia 12-2 cover](/images/covers/ba12-2.jpg) [Jul–Sep 2016](http://www.nlb.gov.sg/biblioasia/vol-12-issue-2-jul-sep-2016/){:target="_blank"} |
-| ![BiblioAsia 12-3 cover](/images/covers/ba12-3.jpg) [Oct–Dec 2016](http://www.nlb.gov.sg/biblioasia/vol-12-issue-3-oct-dec-2016/){:target="_blank"} | ![BiblioAsia 12-4 cover](/images/covers/ba12-4.jpg) [Jan–Mar 2017](http://www.nlb.gov.sg/biblioasia/volume-12-issue-4-jan-mar-2017/){:target="_blank"} |
+| ![BiblioAsia 12-1 cover](/images/covers/ba12-1.jpg) [Apr–Jun 2016](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2022:04:39.000/wp/details/http://www.nlb.gov.sg/biblioasia/tag/vol-12-issue-1/){:target="_blank"} | ![BiblioAsia 12-2 cover](/images/covers/ba12-2.jpg) [Jul–Sep 2016](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2021:54:05.000/wp/details/http://www.nlb.gov.sg/biblioasia/tag/vol-12-issue-2/){:target="_blank"} |
+| ![BiblioAsia 12-3 cover](/images/covers/ba12-3.jpg) [Oct–Dec 2016](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2023:32:44.000/wp/details/http://www.nlb.gov.sg/biblioasia/category/vol-12-issue-3/){:target="_blank"} | ![BiblioAsia 12-4 cover](/images/covers/ba12-4.jpg) [Jan–Mar 2017](https://eresources.nlb.gov.sg/webarchives/2020-10-22%2004:05:46.000/wp/details/http://www.nlb.gov.sg/biblioasia/category/vol-12-issue-4/){:target="_blank"} |
 
 ####  Volume 11
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 11-1 cover](/images/covers/ba11-1.jpg)[Apr–Jun 2015](/past-issues/pdf/BiblioAsia Apr-Jun 2015.pdf) | ![BiblioAsia 11-2 cover](/images/covers/ba11-2.jpg)[Jul–Sep 2015](/past-issues/pdf/BiblioAsia Jul-Sep 2015.pdf) |
-| ![BiblioAsia 11-3 cover](/images/covers/ba11-3.jpg) [Oct–Dec 2015](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/) | ![BiblioAsia 11-4 cover](/images/covers/ba11-4.jpg) [Jan–Mar 2016](http://www.nlb.gov.sg/biblioasia/vol-11-issue-4-jan-mar-2016/){:target="_blank"} |
+| ![BiblioAsia 11-3 cover](/images/covers/ba11-3.jpg) [Oct–Dec 2015](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/) | ![BiblioAsia 11-4 cover](/images/covers/ba11-4.jpg) [Jan–Mar 2016](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2018:23:36.000/wp/details/http://www.nlb.gov.sg/biblioasia/category/vol-11-issue-4/){:target="_blank"} |
 
 ####  Volume 10
 
