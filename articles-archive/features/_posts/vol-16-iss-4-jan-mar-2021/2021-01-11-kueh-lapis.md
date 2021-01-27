@@ -27,26 +27,46 @@ table {
 sample caption
 </div>
 
+When I was young, *kueh lapis legit*[^1] would announce its presence in my family kitchen long before anyone got to taste it. The first portent was the careful shepherding of precious bottles of spice powders and brandy. The next sign was the buying of many eggs and much butter. On baking day, the kitchen thrummed with signals: the loud rhythm of batter vigorously beaten; the steady cadence of spread batter thinly, grill it until brown, press out bubbles, brush with butter, then repeat; and the rippling scent-waves of sizzling butter and caramelising crust. Anticipation ran at a fever pitch, or perhaps that was just the heat nimbus of our Baby Belling oven.
 
-In Singapore, betel chewing has all but died out among its people today, and the practice is now sustained largely by migrants and visitors from regions where chewing betel remains widespread.
+*Kue lapis legit* and its sister confection *spekkoek* (more of that sisterhood later) are iconic cakes for Indonesians, Malays – especially those with some Javanese heritage – and Peranakan Chinese. Major festivals such as Hari Raya and the Lunar New Year would not be complete without tables graced by these tiered touchstones. These communities have roots and branches in the milieus of maritime Southeast Asia’s Dutch colonial era, which saw the flowering of many hybrid foodways. “Most of us who live in cities known for rich colonial history, like Jakarta, Palembang, Bangka, Semarang, Surabaya and Bandung, are familiar with *lapis legit* and *spekkoek* as [legacies of] Dutch influence,” says Indonesian food writer, author and restaurant pundit Kevindra Soemantri.[^2]
 
-#### **A Millennia-old Asian Habit**
+Modern makeovers have spawned a multiplicity of *lapis* varieties – patterned in bright colours; flavoured with fresh or dried fruit, cheese or coffee or chocolate; rolled up into logs; or carved and rearranged like intricate marquetry. A comprehensive 1986 Indonesian recipe book, *Hidangan Ringan: Party Snacks*, includes 11 different variations on the theme, to the tune of *cempedak*, durian, mocha and more.[^3] However, the classic version remains the most revered incarnation: a soft, rich European-style butter cake infused with spices native to the Indonesian Archipelago, cooked one layer at a time under a hot grill.
 
-Fragments of containers from the 14th century that held lime (calcium carbonate) have been discovered in Singapore, attesting to the likelihood that betel chewing on the island dates from this period at least.[^2] However, the quid has been part of Asia’s social and cultural landscape for much longer. One of the oldest known sources of evidence dates to around 2660 BCE: skeletal remains with stained teeth suggestive of betel chewing, as well as containers for storing lime, were discovered at a burial site in Duyong Cave on the island of Palawan in southern Philippines.[^3]
+#### **Peeling Back the Years**
 
-Historian Anthony Reid points out the wide-ranging indigenous terms for areca nut and betel used in the Indonesian Archipelago and the Philippines, suggesting that the betel quid originated from island Southeast Asia.[^4] The areca palm itself  (*Areca catechu*)  may have a Malayan origin, judging by the sheer number of palm varieties recorded in the Malay Peninsula.[^5]
+Trawling through vintage recipes, I found that this basic template has persisted with little alteration for well over a century. The only major differences between old and modern recipes are the heat source – formerly charcoal, these days usually an electric oven element – and the now-frequent addition of condensed milk and/or milk powder to the batter, perhaps to mimic the stronger flavours and higher protein content of yesteryear’s imported butter.
 
-The archaeological and linguistic records found in southern India strongly suggest that the areca palm and betel vine (*Piper betle*)  came from Southeast Asia, probably from the second millennium BCE onwards.[^6] Through centuries of maritime trade and migration, betel chewing and its accompanying botanical material spread throughout Southeast Asia to the western Pacific, across the Indian subcontinent and even reaching as far as the fringes of East Africa.
+The Spekkoek (Kwee Lapies) recipe in the 1895 book, *Recepten Van De Haagsche Kookschool (Recipes from The Hague Cooking School)*, is fully consonant with modern recipes, albeit its “65 cloves” might be a bit much for most of us today. It directs the cook to cream butter, sugar, eggs and flour into a batter “in the usual way”, flavour it with very finely ground spices, bake it in layers, smearing butter over each layer when it is done, and finally to store the cake in a tightly sealed tin, where it will keep for “a long time”.[^4]
+
+The 1925 *Groot Nieuwe Volledig Oost-Indisch Kookboek (Great New Complete East Indies Cookbook)*[^5] collates three *spekkoek* recipes in its *inlandsche bakken* (native baking) chapter. One of them has only three thick sponge cake layers, baked individually and then sandwiched with “some sort of jelly” – we know this style today as *kue lapis surabaya, koningskroon* (“king’s crown cake” in Dutch) or *bahulu lapis*.
+
+The other two *inlandsche* recipes are classic *spekkoek*, and both require “two persons… two skillets… two deep bowls… two wicker brooms or egg beaters” (see text box on below) to wrangle one plain white batter and one spiced brown batter, baked in alternating layers. Their formulas otherwise differ: one rests on copious butter and flour, plus cloves, cardamom, cinnamon, nutmeg and mace; the other is more egg-rich, and omits nutmeg and mace but includes crushed ang-khak,6 or Chinese red yeast rice. This last item is especially intriguing given Soemantri’s observation that lapis legit spice blends are “similar to Chinese five-spice… there is a lapis legit recipe that uses fennel also”.7
+Vintage recipes using a single spiced batter are also common. Besides the Haagsche Kookschool book, Kokki Bitja (Beloved Cook; 1859),8 Oost-Indisch Kookboek (East Indies Cookbook; 1870)9 and Het Nieuwe Kookboek (The New Cookbook; 1925)10 all take this tack for their spekkoek. The Groot Nieuw Volledig Oost-Indische Kookboek also lists a single plain-batter variation, “for convenience”, with the spices merely sprinkled over each layer after the cake is baked. In a Straits Times interview in 1983, famed Kampong Glam culinarian Hajjah Asfiah binte Haji Abdullah called this version kueh baulu lapis, which she would make to sell at her Ramadan bazaar stall near Bussorah Street.11
+Dutch-Indonesian chef Jeff Keasberry identifies the two-batter cake with fewer total layers as Indo-Dutch spekkoek that originates from the Dutch East Indies era, a species older than and distinct from what he calls Indonesian kue lapis legit, which uses a single batter and has thinner and more layers – at least 18, according to him.12 Indonesian culinary teacher and author Sitti Nur Zainuddin-Moro also makes the same distinction in her influential cookbook Kue-Kue Manasuka (Kue You Will Like; 1980), naming the two-batter version Sepekuk Biasa (ordinary spekkoek), and the other lapis legit.13
+Many examples of both variants have appeared in Singaporean recipe books over the years, although their names are sometimes conflated. Mrs Susie Hing’s landmark 1956 cookbook, In A Malayan Kitchen, includes a spekkoek recipe (and a koningskroon recipe) that Dutch readers from earlier generations would have recognised straightaway.14
+
+A 1957 Straits Times article records a spekkoek recipe by a Mrs Rosaleen Yang, who baked alternating plain and cocoa-spiked batters in “a copper or brass pan”.15 A similar recipe for Lapis Betawi (Batavia, as Jakarta was called under the Dutch) appeared in Berita Harian in 1968, which called for a generous amount of spice to augment the cocoa.16
+
+In 1981, the New Nation published Nonya doyenne and cookbook author Mrs Leong Yee Soo’s single-batter Speckok Kueh Lapis Batavia recipe, which details the importance of pricking each cooked layer with a skewer to deflate bubbles and create microscopic holes for the next layer’s batter to flow in, for better adhesion.17 In 1977, the Straits Times featured a recipe by one Cik Khatijah Ashiblie for Lapis Mascovrish, whose vanilla batter was layered with almonds and raisins.18
+
+Outside of home kitchens, only a few stores in Singapore made or imported spekkoek and kue lapis in the early 20th century. One such establishment was the Java Restaurant (originally Mooi Thien Restaurant) on North Bridge Road – described in a 1950 Straits Times article as being “not unlike a Paris bistro”19 – where founder Lim Djin Hai and his family served both Javanese and European food in the late 1940s. Prior to emigrating to Singapore in 1946, Lim was a caterer in his hometown of Bencoolen (now Bengkulu), where one of his clients was the then Governor-General of the Dutch East Indies. (Java Restaurant later moved to Killiney Road, morphing into the Java Provision Store, where for over 25 years it purveyed home-baked and imported Indo-Dutch goods.)
+
+#### **Building a Mystery**
+
+The early origin stories of spekkoek and lapis legit remain largely unknown, despite their widespread popularity. Spekkoek derives from the Dutch words spek koek, meaning “bacon cake”, no doubt an allusion to the cake’s pale and red-brown stripes. However, there seem to be no records in the Netherlands of any layered cake by that name which pre-dates lapis legit, and neither is there such an extant cake there.
+
+Some have suggested spekkoek has its origins in the German baumkuchen, the “tree-ring” cake considered the ultimate test and accomplishment of a konditormeister (master pastry chef). However, baumkuchen has a drier texture than spekkoek and is made using a different method: its cylindrical layers are built up around a rotating spit. Also, German records clearly trace its evolution from a dough-based cake in the 1500s into the batter-based form known from the 1700s until today.20 “There is no significant record of Prussian people in Indonesia,” says Soemantri, but “perhaps baumkuchen influenced the original Dutch spekkoek”.21
+
+Here is a curious similarity though: baumkuchen is traditionally flavoured with spices (cinnamon, cardamom, nutmeg, ginger or vanilla), citrus, nuts (most often almonds) and liquor. The oldest spekkoek recipe I have come across, from Kokki Bitja, calls for clove, cardamom, white pepper, jeruk cina (mandarin orange) zest, kenari nuts and brandy. Mere coincidence or distant cousinhood?
+
+
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/kuehlapis/GrootNieuwe.jpg">
-A painting of two men selling betel quid by an Indian artist, c. 1800s. <i>Wellcome Collection. Attribution 4.0 International (CC BY 4.0).</i>
+<i></i>
 </div>
-
-#### **A Parcel Like No Other**
-
-While it is often referred to as betel chewing, strictly speaking, what is chewed is known as the betel quid. In its most basic form, the betel quid comprises three ingredients: betel leaf (*sirih*), areca nut (*pinang*)  and slaked lime (*kapor* or *chunam*), a paste made from the powdered shells of molluscs or coral. Slaked lime is first spread on the leaf before shavings or pieces of dried areca nut are laid on top. The leaf is then folded inwards to cover the contents, ready to be chewed. 
 
 <div style="background-color: white;">
 <br/>
@@ -56,7 +76,6 @@ The basic elements of the betel quid: the betel leaf (<i>sirih</i>), pieces of a
 
 </div>
 
-Preparation techniques varied according to cultural and individual preferences. According to Gwee Thian Lye (better known as G.T. Lye), a well-known *dondang sayang*[^7]  performer and consultant on Peranakan culture, two types of betel leaves were chewed in Singapore: one larger and dark green, the other smaller and light green. Peranakan Chinese ladies are said to have favoured the latter for making *sirih*, while the Indian and Malay communities mainly used the former.[^8]
 
 <div style="background-color: white;">
 <br/>
@@ -64,77 +83,67 @@ Preparation techniques varied according to cultural and individual preferences. 
 Portrait of a Peranakan Chinese woman holding a betel quid by August Sachtler, Singapore, c. 1860s. On the table is a betel box. <i>Collection of Mr and Mrs Lee Kip Lee. Courtesy of Peter Lee.</i>
 </div>
 
-Many also considered gambier to be an essential ingredient and small pieces would be added alongside the areca nut slices. Later, tobacco became a popular addition and shreds of it might be folded together with the leaf. For a change of flavour, betel chewers sometimes rubbed a wad of tobacco against their teeth and gums after chewing betel.[^9]
 
-Known as *vetrilai* (Tamil), *paan supari* (Hindi) or *tambula* (Sanskrit), the betel quid favoured by Tamils included finely ground spices such as cardamom, clove, nutmeg and mace for an extra dash of fragrance. The mix of spices is known as *paan masala* and each betel quid vendor (*paanwalla*) had his own unique mix. A clove might also be used to seal the betel package.
+|**BEAT 16 EGG YOLKS… FOR ONE HOUR**|
 
-The English herbalist John Gerard first described the areca nut as the “drunken date” in 1597, due to its supposedly intoxicating effects when consumed together with slaked lime.[^10] The common physiological effects of areca nut, similar to narcotics and stimulants, include a sense of well-being, heightened alertness, increased bodily warmth, improved digestion and better stamina.[^11] The combination of lime and areca nut releases the latter’s alkaloids, particularly arecoline, producing a sedative effect. At the same time, arecoline affects the peripheral and central nervous systems of the body.[^12] Chewing the quid also produces copious amounts of red saliva, leading to the habit of frequent spitting and even red stools.
+|The following is a 1925 recipe for spekkoek from Groot nieuw volledig Oost-Indisch kookboek (Great New Complete East Indies Cookbook), translated from the original Dutch by Christopher Tan.1 The cake, in its springform pan, may have been baked within a metal vessel with hot coals underneath and/or on top of its lid. Dutch technical prowess at casting such pots led to such vessels being dubbed “Dutch ovens” by other nations in the 18th century.|
 
-The World Health Organization (WHO) estimates that some 600 million people around the world consume some form of areca nut today. The areca nut is classified as a carcinogen by the WHO, and studies have shown a correlation between betel chewing and cancer of the mouth and esophagus.[^13]
+|**Kwée lapis (Spekkoek)**|
 
-As with other widely consumed alkaloids like caffeine and theobromine (the latter is present in cocoa), the psychotropic effects of betel chewing vary between individuals and, perhaps more importantly, are heavily tempered by social context. Those accustomed to viewing betel chewing as a comforting and calming practice may feel calm and relaxed from chewing, while the habit may have the opposite effect on someone brought up to believe in betel chewing’s stimulating effects.
+|Thirty eggs, the whites beaten separately, 30 tablespoons fine dry white sugar, 15 tablespoons sifted flour, one pound washed butter,2 two dessertspoons finely pounded Chinese red rice or red yeast rice (ang-khak3), one teaspoon clove powder, one teaspoon finely pounded cardamom, two teaspoons finely pounded cinnamon, melted butter.|
 
-#### **Our Daily Chew**
+|Preparation:|
 
-In Singapore and Malaya during the 19th and early 20th centuries, the betel quid was enjoyed by a broad swathe of society, often transcending class and gender. It was consumed throughout the day, especially after meals due to the quid’s digestive and breath-freshening qualities.[^14] Although only a minority of Chinese migrants and Eurasians in Singapore appreciated the quid, many aristocrats, merchants and labourers in the Indian, Malay and Peranakan communities chewed betel regularly.[^15]
+To make the batters for this cake, two persons are needed, as well as two pots, two deep bowls4 and two wicker brooms5 or egg beaters.
 
-Perhaps the most fundamental role of the betel quid was in promoting and strengthening social ties.[^16] Betel chewing served as a social lubricant, like communal eating or drinking alcohol: 
+One batter may not stand longer than the other: this is why the above-mentioned ingredients are divided into two lots.
 
-“Over a chew of betel, they might cogitate over the day’s problems, or gossip with a neighbour or just sit and relax. Chewing betel is a leisurely business and cannot be hurried over." [^17]
+In one of the pots, beat 16 egg yolks with 16 tablespoons of fine dry white sugar for one hour,6 until the mixture is as smooth as butter.7 Then add eight tablespoons of flour one by one, then add half a pound of washed butter in small increments while beating constantly.
 
-During social and business gatherings, it was *de rigueur* to welcome guests, friends, colleagues and relatives with a tray of betel quid ingredients. According to Reid, “Everyday hospitality consisted in the sharing of betel, not food.”[^18] Declining the quid was deemed as being disrespectful to the host, and those who did not chew would politely consume a betel leaf at least. The betel set was thus an indispensable part of Tamil, Malay and Straits Chinese homes.[^19] For some, it was treated like a sacred object that had to be respected. In Straits Chinese homes, placing a betel box on the floor instead of a table when one was seated on a chair was widely believed to invite bad luck.[^20]
+In the second pot, beat the remaining 14 egg yolks with seven tablespoons of the white sugar and seven tablespoons of flour, along with the spices mentioned above, and half a pound of butter.
 
-As in much of the Malay world, betel chewing in Singapore tended to have feminine overtones. According to a 1951 *Singapore Free Press* article, among ethnic Indians it was mostly women who “chewed a lot”, and the typical image of a Tamil grandmother in the 1950s was of her “sitting with her legs stretched out at ease and pounding away her chew of betel in her little mortar”.[^21] Even well into the 1980s, Peranakan Chinese *bibik*[^22] were popularly portrayed as deftly folding *sirih* during card games such as *cherki*.[^23] *The Malaya Tribune* reported in 1949 that many Peranakan Chinese women (known as *nonya*) were so attached to their chews that “wherever the *nonya* goes, the *sireh* set is sure to go”.[^24] Peranakan Chinese men (*baba*) who indulged in betel chewing were said to be quite rare, and those who did were perceived to be effeminate.[^25]
+When the batters in the two pots have been well mixed, add the whipped egg whites a spoonful at a time, 16 egg whites for the 16-yolk batter lot.8
+The cake is baked in layers in a springform pan,9 which must first be brushed well with butter.
 
-However, many men were known to be habitual chewers. Indian labourers sharing areca nuts, betel leaves and lime with one another were once a common sight.[^26] For them, betel chewing was perhaps a means to stave off hunger and be more alert. Manual workers were said to derive energy from chewing betel during their long hours of work.[^27] The betel quid was also believed to be particularly useful for those embarking on a long journey, such as Muslims performing the Haj, as it helped tide them over periods of hunger and fatigue.[^28] 
+The first layer must be thoroughly dry and well cooked: before you add a second layer of the spiced batter, press it down with a muslin-wrapped hand,10 then brush some melted butter over it.11 Then continue to bake the batters alternately in layers.
 
-#### **A Symbol of Love**
+When you have baked four layers, prick the cake with a knitting needle: if nothing adheres to the needle then the layers are done, and you can continue layering; otherwise let them bake for a while longer.12
+Use a soup ladle that is not too large to scoop the batter.
 
-The *sirih’s* centrality in mediating social relations extended to love and romance. The betel quid symbolised courtship, marital and sexual union in Malay, Straits Chinese and Hindu cultures, and features strongly in betrothal rituals. It is believed that the areca nut and betel leaf complement each other perfectly: they are considered “heaty” and “cooling” foods respectively – together they symbolise balance. The betel leaf and areca nut are also said to represent the female and male respectively, alluding to how the betel vine entwines itself around the areca palm.
+For convenience’s sake, you can also make this cake using only the first batter, and after every layer is baked, sprinkle it well with the mixed spices, and then top with the batter again.
 
-The age-old association of the betel quid with love and courtship is evident in the etymology of Malay and Tamil words relating to marriage and betrothal. The Malay terms for proposing marriage (*meminang*) and betrothal (*pinangan*) are derived from *pinang* (areca nut), while the Tamil term for engagement, *nichaya tambulam*, is derived from *tambulam* (betel quid).
+|<img src="/images/Vol-16-issue-4/kuehlapis/SpekkoekRecipe.png">Javanese *kue lapis* and *spekkoek* recipes in the *Groot Nieuwe Volledig Oost-Indische Kookboek*, published in 1925. *Reproduced from van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great New Complete East Indies Cookbook] (p. 305). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings)*.|
 
-In traditional Malay culture, a suitor or one of his relatives would bring a tray of betel quid to the prospective wife’s residence to ask for her hand in marriage. This custom of *hantar sirih* (Malay for “presenting betel”) was also practised by the Peranakan community, albeit with some differences. Female guests of a Straits Chinese wedding would have received an invitation known as the *sa kapor siray* – a miniature triangular parcel of betel quid containing a smidgen of areca nut. This custom was still practised in post-war Singapore, but was replaced by Western-style invitation cards by the 1980s.[^29] Similarly, the Chetty Melaka (Peranakan Indians) had a ritual known as *hantar sirih kovil pathiram* during which trays of invitation cards, betel leaves, areca nuts, flowers and other items would be blessed at the temple before being distributed to guests.[^30] One’s acceptance of a betel quid in most social contexts implied agreement.
+|**NOTES**|
 
-In Malay weddings, a ceremonial betel box known as the *tepak sirih*, containing betel quid ingredients, was once the centrepiece in the bridal display. Traditionally, the *tepak sirih* was also placed outside the newlyweds’ room on the first night of marriage as an indication of the bride’s chastity. If the groom discovered that his wife was not a virgin, the *tepak sirih* would be turned upside down the next morning.[^31] In Straits Chinese culture, the betel box also symbolised the bride’s purity: on the wedding day, a betel box was placed in the centre of the marital bed. These rituals are no longer customary in Singapore as most Malay and Straits Chinese weddings now take on a more contemporary flavour.
+|[^]: Van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great new complete East Indies cookbook] (p. 305). Malang: G.C.T. Van Dorp & Co. (Not available in NLB’s holdings)|
 
-However, Malay weddings today still feature the betel leaf in various guises: *sirih dara, sirih junjung* and *sirih lat-lat. Sirih dara* and *sirih junjung* refer to floral arrangements featuring verdant green betel leaves rolled into a conical shape, representing the virginity of the bride and groom respectively. These are displayed during the wedding ceremony. 
+|Freshly churned butter is always washed with plain water to remove all traces of buttermilk – the liquid separated from the butterfat by the churning – and casein dairy proteins. If not washed away, these make the butter develop rancid off-flavours and turn bad.|
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewing-yellowcloth.jpg">
-A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red container filled with betel leaves, brass receptacles for holding the incense and <i>air mawar</i> (rose water), and a container for storing the areca nut <i>(pinang)</i> and slaked lime <i>(kapor</i> or <i>chunam).</i> <i>PictureSG, National Library, Singapore.</i>
+|See note 6 on page 9.|
 
-</div>
+|The batters are mixed in the pots so presumably the bowls are used for beating the egg whites.|
 
-*Sirih lat-lat* is a small floral bouquet containing betel leaves, which is delivered to the groom on the wedding day to signal the bride’s readiness to be visited by the groom and his entourage. According to researcher Khir Johari, the betel leaf, or *sirih*, generally represents humility, generosity and respectfulness in the Malay world – a reflection of the way in which the betel vine climbs up its host plant unobtrusively.[^32]
+|Small brooms – bundled plant stalks or twigs  – were historically used to beat liquid ingredients. Metal whisks only started to become more common around the early 20th century.|
 
-The betel quid is considered an aphrodisiac in the *Kamasutra*, the ancient Sanskrit text on sexuality and eroticism.[^33] In Hindu marriage ceremonies, trays of betel quid, symbolising everlasting bonds, were passed around for guests to chew.[^34] Although betel quid ingredients are still used in Hindu prayer offerings and wedding ceremonies today, the quid is rarely chewed. 
+|Brooms are not very efficient whisks.|
 
+|Presumably this means a thick and creamy foam.|
 
-|**THE BETEL CHEWER'S TOOLKIT**|
+|And presumably do the same for the remaining 14 whites for the 14-yolk batter lot, although the recipe does not spell this out.|
 
-|A typical betel set might comprise a box with three or four containers (*cembul*) – for storing betel leaves, sliced areca nut, slaked lime, gambier or tobacco – and a slicer (*kacip*)  for cutting the dried areca nut. The quality of a betel caddy indicated the owner’s social status: the working class had their betel chewing paraphernalia wrapped simply in a piece of newspaper or cloth, or kept in a wooden box, while the well-heeled showcased betel boxes made of highly decorated brass, copper or silver.[^35] Ornate *kacip* often featured handles carved in the form of the *kuda sembrani*, the Malay mythological flying horse.[^36]|
+|Springform pans with latched sides and removable bases were largely the same then as they still are now. Pan size is unmentioned, so this was either standard knowledge, or the reader is expected to know how to make do.|
 
-|A moderately wealthy household usually had two betel sets at home: one for daily use and another for guests. The more elaborate betel boxes ended up as family heirlooms or collectors’ items. Alongside betel sets, spittoons were also a common fixture in homes and establishments to hold the red spittle produced from chewing betel. These spittoons were often made of brass or porcelain. Elderly chewers who lacked teeth used a small mortar and pestle to grind larger ingredients, if not the entire quid, into a finer consistency for an easier chew.[^37]|
+|The muslin prevents the cake layer from sticking to your hand as you flatten it.|
 
-|Betel chewing also shaped sartorial practices. A wealthy Malay lady in the 1920s might wear an intricately crafted silver belt from which hung a purse and a case to contain betel ingredients so as to satisfy her craving for a chew while she was out.[^38] A Straits Chinese woman would drape a large red or dark-coloured handkerchief, folded into a triangle, over one shoulder of her *kebaya* for wiping red spittle from her lips.[^39]|
+|The layering alternates the two batters; every layer is pressed and butter-brushed.|
 
-|<img src="/images/Vol-16-issue-3/betel/straitschinesebetelset.png">An early 20th-century Straits Chinese betel set comprising four containers (*cembul*) for storing betel leaves, areca nut slices, slaked lime and gambier, and a nut slicer (*kacip*) designed as the Malay mythical flying horse known as the *kuda sembrani. Courtesy of the National Museum of Singapore, National Heritage Board.*|
+|The needle test checks for uncooked batter under the surface: heat sources were not always even. The baking set-up is not detailed, but it would have featured top-down heat.|
 
-#### **The Decline of Betel Chewing**
-
-By the 1950s, betel chewing had reportedly fallen out of favour among younger adults in Singapore.[^40] Some 30 years later, the practice was near extinction, enjoyed only by the elderly, a remarkable decline of such an old, pervasive habit within a single generation.
-
-Growing concerns about betel chewing’s long-term effects on health likely played a part in deterring youths from picking up the habit, and perhaps nudged some older people into reducing their chewing frequency. While *sirih* is a common ingredient in traditional Malay medicine, betel chewing from the 1930s onwards became increasingly associated with oral cancer. The purported dental benefits of chewing betel, such as the strengthening of teeth and gums, were also challenged in popular media. That said, Singapore newspapers continued to run health advisories against betel chewing as late as the 1980s, suggesting that such advice was often ignored, particularly among habitual chewers.
-
-Changing social and cultural attitudes were, perhaps, greater contributing factors to the quid’s demise in Singapore. Once socially acceptable, betel-stained teeth were increasingly perceived as unsightly, thanks to the circulation of images in mass media of “beautiful” people with spotless, gleaming teeth. Negative perceptions were also reinforced by unflattering portrayals of chewers in Asian literature. In a short story published in the Malay-language newspaper *Berita Harian* in 1964, the protagonist was so repulsed by his wife’s betel-stained teeth that “he wanted to jump from the window”.[^41] Meanwhile, the effect of red-stained lips caused by betel chewing, often coveted by women as a marker of beauty, was achieved by cosmetics, which replaced the increasingly unfashionable chew. In a 1994 feature in *The Straits Times*, Helena Rubenstein’s Rouge Glorious lipstick was touted as “a cross between a shine-less matt lipstick and a long-wearing one with cling-to-the-lip colour but without the betel-nut stain effect”.[^42]
-
-The habit was also often deemed unsanitary due to the frequent spitting that accompanied the chewing. When betel chewing was still widespread in Singapore, walkways and roads in the town area were covered in red blotches of spittle, prompting frequent complaints about defaced environments and hygiene issues. One writer expressed disgust at the “revolting scarlet gobs of the betel chewer” that occasionally landed on an unfortunate passer-by.[^43] Newspapers published numerous letters airing similar grievances up until the 1980s. 
-
-Anti-tuberculosis campaigns in the post-war decades also portrayed spitting as socially deviant and disease-spreading. Given the many negative connotations surrounding betel chewing, it was perhaps unsurprising that aspirational individuals and households found it difficult to reconcile the age-old habit with new forms of civic-mindedness and respectability in Singapore.
-
-As independent Singapore pursued its modernisation plans at full throttle, betel chewing became a habit associated with the older generations and was perceived as an outdated practice. In the mid-1970s, the weekend crowd at Geylang Serai Market was described as comprising mostly the elderly who chewed betel together.[^44] In Little India, too, the main chewers were older proprietors, seated in front of their shops.[^45] By the late 1980s, the *paanwalla* was considered part of a long list of vanishing trades in Singapore, along with Indian parrot astrologers and Chinese letter writers. 
+A more plausible progenitor for kue lapis legit may be the layer cakes traditionally made in southern China to celebrate the annual Double Ninth festival – recipes which travelled to maritime Southeast Asia with the Chinese diaspora. Chiefly rice-based, these cakes are steamed layer by layer, frequently with alternating batters of different colours, often tinted with – yes – red yeast rice. Chinese communities in Southeast Asia still make these today; in Indonesia they are simply called kue lapis, but old Dutch and Indonesian cookbooks identify them as kue lapis cina22 or kue lapis jawa. In Kue-Kue Manasuka, Sitti Nur Zainuddin-Moro records a Batavian recipe for a red and white version called “Lapis Merah Putih (Betawi)”.23
+The auspicious Chinese saying and wish for success 歩歩高升 (bu bu gao sheng, which means “rising step by step”) is embodied by both steamed and baked lapis. For the Indonesian Chinese, lapis legit “is always related to celebration, and for them, its many layers equal prosperity,” says Soemantri.24
+A Nonlinear Lineage
+Indeed, kueh lapis legit is nothing if not rich. In my family, we let it sit untouched for at least a couple of days post-baking, so that all the butter and spice can fully 
 
 <div style="background-color: white;">
 <br/>
@@ -146,81 +155,112 @@ As independent Singapore pursued its modernisation plans at full throttle, betel
 
 </div>
 
-#### **Contemporary Consumption**
+A more plausible progenitor for kue lapis legit may be the layer cakes traditionally made in southern China to celebrate the annual Double Ninth festival – recipes which travelled to maritime Southeast Asia with the Chinese diaspora. Chiefly rice-based, these cakes are steamed layer by layer, frequently with alternating batters of different colours, often tinted with – yes – red yeast rice. Chinese communities in Southeast Asia still make these today; in Indonesia they are simply called kue lapis, but old Dutch and Indonesian cookbooks identify them as kue lapis cina22 or kue lapis jawa. In Kue-Kue Manasuka, Sitti Nur Zainuddin-Moro records a Batavian recipe for a red and white version called “Lapis Merah Putih (Betawi)”.23
 
-The 1980s saw the Singapore government vigorously courting the tourist dollar and Little India was developed into a tourist attraction. As a result, the *paanwalla* were retained and co-opted into the government’s plan to inject “local flavour” into the area.[^46] In this vision, a guided tour in Little India would not be complete without a visit to the *paanwalla* for a betel chewing demonstration, where tourists could marvel at his red saliva and stained teeth.[^47] Betel chewing was thus presented as an object of fascination in a reordered, modern and sanitised city. 
+The auspicious Chinese saying and wish for success 歩歩高升 (bu bu gao sheng, which means “rising step by step”) is embodied by both steamed and baked lapis. For the Indonesian Chinese, lapis legit “is always related to celebration, and for them, its many layers equal prosperity,” says Soemantri.24
 
-The betel quid trade in Singapore today is largely supported by migrants and visitors from countries like Bangladesh, India and Myanmar, where betel chewing remains widespread. A handful of vendors still operate in areas frequented by migrants, such as Little India and Peninsula Plaza. One may also encounter the betel quid in Indian restaurants. Green bundles are strategically placed on trays located near the cashier so that patrons can grab one for a post-meal chew while paying their bill.
+#### **A Nonlinear Lineage**
 
-In most homes today, betel chewing lives on, if at all, in the memories of those who recall their elderly relatives indulging in the habit:
+Indeed, kueh lapis legit is nothing if not rich. In my family, we let it sit untouched for at least a couple of days post-baking, so that all the butter and spice can fully permeate its crumb. When at last it falls under the knife, the sight of even, lovely lamina evokes great relief in the baker, who discovers only at this moment if the deck was stacked for success.
 
-“I can still see [grandma], fragile and lovely in her *sarong kebaya*, her bun immaculate even at that hour, each ornate *cucuk sanggul* in place. Beside her was the betel set that was her trademark, each tiny container holding mystery none of her grandchildren would ever fathom. With each story she delicately prepared and chewed a betel quid, weaving a spell that held us entranced.”[^48]
+So what might have bridged the gap between steamed rice-flour layers and baked wheat-flour layers, and how? Permit me to suggest a trip to Palembang. Now South Sumatra’s capital, Palembang was formerly the capital of the Srivijayan empire, a Buddhist kingdom which endured from around the 7th century to the 13th century. Its trade links with China, South Asia and the Middle East ensured a constant flow of goods, pilgrims, cultures and languages between those regions and the Malay Archipelago. This made Palembang a fertile place for culinary ferment.
 
-|The authors would like to thank Gayathrii Nathan and Toffa Abdul Wahed for their research assistance and for reviewing an early draft of the article; Dr Azhar Ibrahim for his thoughts on the subject; and Baba G.T. Lye for participating in the interview. Initial research for this article was conducted for “Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption”, a collaborative project supported by the Heritage Research Grant of the National Heritage Board, Singapore.[^49]|
+The city lays claim to several lapis varieties. Some are modern glosses on the form – made with pineapple jam between strata (lapis nenas), a multi-layered version of the regional pandan-scented specialty bolu kojo (lapis kojo), and so on.25 Two older signature Palembang lapis types are much closer in spirit to spekkoek, baked the same way but with fewer, slightly thicker layers.
+
+One of them, kue maksuba, is made using chicken and/or duck eggs, butter or margarine, sugar, condensed milk and vanilla, with flour in miniscule quantity or, most often, entirely absent. Essentially a hyper-rich custard, kue maksuba has a smooth solidity not unlike the Malay kuih bakar, with less of a cake-like vibe than orthodox spekkoek.
+
+The other lapis variety, kue engkak ketan, has the same ingredients as kue maksuba, plus two key elements: glutinous rice flour, and blondo or glondo – thick coconut milk which has been boiled until some of its oil has separated out. The oily sheen from the blondo and a faint springiness from the glutinous rice flour strongly recall steamed kue lapis cina, while the heavy doses of butter and condensed milk bestow a European richness. However, the airlessly dense wheat-free crumb and the lack of spice means the resemblance to spekkoek is only partial.
+
+Kue engkak ketan reminds me strongly of another sweet, one from Goa, India. Bebinca, also called bibinca or bibik, is a colonial legacy said to be a Portuguese recipe but tweaked with local ingredients. It has many spekkoek-like traits, first and foremost a very rich batter made of egg yolk and coconut milk, with comparatively little wheat flour, and spiced with cardamom and nutmeg. Bebinca is traditionally “baked” layer by layer – some recipes specify seven layers, others multiples of seven – under a pot lid holding burning wood or coconut husks, with clarified butter brushed over each layer. It must rest for several hours before being sliced. In terms of flavour and texture, bebinca sits squarely between spekkoek and kue engkak ketan.
+
+Bebinca’s creation is often attributed to a (possibly apocryphal) nun named Bibiana or Bebiana at the Convent of Santa Monica in Goa, whose devout sisters were famed for their culinary skills and repertoire of festive sweetmeats.26 Alternative origin stories suggest links with other similarly named Asian baked goods such as the Filipino bibingka and the Macanese bebinca; however, these purported family resemblances are scattered and hard to qualify. For instance, in Macau, bebinca de leite is a baked milk custard and bebinca de inhame is yam cake (wu tau koh in Cantonese), and neither is layered.
+
+That said, there is a Goan bebinca variation made with mashed potatoes and baked in a single layer, which is all but identical to Malay kuih bingka kentang. In fact, many Goan sweetmeats appear to be cognates of Southeast Asian ones. These include kulkuls (crisp shell-shaped pastries), cousins of kuih siput; alle belle (crepes rolled around grated coconut cooked with palm sugar), which are much like kuih dadar; pinaca (roasted rice and coconut pounded with palm sugar and warm spices), the twin of Peranakan kueh dadu; and Goan dodol (rice, palm sugar and coconut milk toffee), which differs from Indonesian dodol only in that Goan cooks use regular rice instead of glutinous rice.
+
+Food historian Janet Boileau quotes Macanese-culture expert Rui Rocha in speculating that Southeast Asian desserts likely travelled westward to Goa, perhaps via Melaka, and were assimilated into local and Catholic culinary and confectionery traditions there.27
+
+Bebinca is also traditional to East Timor, a Portuguese colony up until the 1970s. Though they seem similar, it is unclear whether Timorese bebinca prefigured or instead descended from the Goan version. Such intricately connected and mingled gastronomy is the legacy of centuries of Dutch and Portuguese colonisers contending over the same turf in Asia and around the world. While not as emblematic to Singapore’s Eurasians as sugee cake, spekkoek is also made by that community, whose origins, history and traditions incorporate both Portuguese and Dutch heritage.28
+
+#### **Much More Than Its Seams**
+
+Perhaps this is how the story could have gone: a colonial-era cook makes a Dutch taart (butter cake) batter. Some extra eggs are on hand, so in they go – has she not seen Portuguese cooks do likewise to make their cakes richer, softer, more velvety? Familiar with European cakes baked in separate layers and then assembled, she wonders if the layers could be baked in situ instead, just as her Chinese neighbours steam their cakes, and what if that uprising steam was replaced by coal heat radiating from above? And then, surrounded by – or maybe only dreaming of – the East Indies, she seizes on spices from that corner of the empire, those seeds and bark and buds whose aromas lift the spirits. Should these infuse all the batter? Or only half of it, for layers that alternate colours and scents? She thinks and experiments, and so it goes.
+
+Imagine such a narrative, writ not by a single person over an afternoon, but by numberless cooks and bakers, exchanging ideas and handing down legacies through the generations as they spread and grill and press and brush. Is this line of thought and practice not destined to birth something marvellous, something enduringly delicious? As The Straits Times opined in a 1957 article about making spiku (another nickname for spekkoek) for Hari Raya: “The results are more than equal to those achieved by even the most accomplished pastrycook of Vienna.”29
+
+I could not agree more. If mindfully made, each spice-flecked strata should be a beautiful paradox: coherent enough to peel off without tearing, yet thin and fragile enough to melt on the tongue; dairy-lush and spice-opulent, but debonair and delicate, and never ponderous.
+
+Having taken over lapis-making duties from my elders, I understand more keenly why this kueh and its kin have enjoyed such longevity and such exalted status. Refining and notating my family’s lapis legit recipe for my book, The Way of Kueh,30 took me months of research and testing, over 1,300 words and finally three pages of text and photos to do it full justice. Yes, lapis legit and spekkoek require significant mental and physical investment, but when they are imbued with care and commitment, their glory – and the accompanying feeling of achievement – transcends every ounce of expended effort. Master this cake, and you can truly say you have earned your stripes.
+
+
+<div class="infobox"> 
+<img src="/images/Vol-16-issue-4/borobudur/theborobudur-javaenigma.jpg" style="width: 200px; height: 250px;"/>
+Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN). It also retails at major bookshops in Singapore.
+</div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/authors/FionaLim.png" style="width: 100px; height: 100px;" />
-<b>Fiona Lim</b> is a freelance writer, editor and researcher. She is interested in the complexities of cities and their people.
+<img src="/images/Vol-16-issue-4/kuehlapis/FionaLim.png" style="width: 100px; height: 100px;" />
+<b>Christopher Tan</b> is a food writer, author, cooking instructor and photographer whose latest book is the award-winning <i>The Way of Kueh</i>, a comprehensive work about Singapore’s <i>kueh</i> culture.
 </div>
 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/authors/GeoffreyPakiam.png" style="width: 100px; height: 100px;"/>
-<b>Dr Geoffrey Pakiam</b> is a Fellow at ISEAS – Yusof Ishak Institute in Singapore. He works on the history of commodities and is currently researching the interplay between livelihoods, consumer cultures and the environment of the Malay world.
-</div>
-
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
-[^1]: Here, *sirih* refers to the betel quid, but *sirih* is also the Malay term for the betel leaf. 
-[^2]: Miksic, J. (2013). *[Singapore & the Silk Road of the sea, 1300–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868)* (p. 316). Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
-[^3]: Zumbroich, T.J. (2008). The origin and diffusion of betel chewing: A synthesis of evidence from South Asia, Southeast Asia and beyond. *eJournal of Indian Medicine, 1* (3), 87–140, p. 99. Retrieved from University of Groningen Press website. 
-[^4]: Reid, A. (1985, May). From betel-chewing to tobacco-smoking in Indonesia. *Journal of Asian Studies, 44* (3), 529–547, pp. 529–530. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^5]: Raghavan, V., & Baruah, H.K. (1958). Arecanut: India’s popular masticatory: History, chemistry and utilization. *Economic Botany, 12* (4), 315–345, pp. 317–318. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^6]: Betel chewing arrived in northern India later, around 500 BCE. See Zumbroich, 2008, pp. 114, 119.
-[^7]: *[Dondang sayang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_495_2004-12-20.html)* is a traditional poetic art form associated with the Malay and Straits  Chinese communities in Singapore and Malaysia. See National Library Board. (2015, March 9). *Dondang sayang*  written by Stephanie Ho. Retrieved from Singapore Infopedia website.
-[^8]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
-[^9]: Mardiana Abu Bakar. (1987, October 12). [The betel leaf and its role in Malay life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871012-1.2.64.8.1). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
-[^10]: Rohel, J. (2017). Empire and the reordering of edibility: Deconstructing betel quid through metropolitan discourses of intoxication. *Global Food History, 3* (2), 150–170, p. 156. Retrieved from Taylor & Francis Group website. 
-[^11]: Zumbroich, 2008, p. 90.
-[^12]: Reid, May 1985, pp. 529–530.
-[^13]: How dangerous is betel nut? (2014, October 10). Retrieved from Healthline website.
-[^14]: Wee, A. (1987, January 29). [Misinformation on Little India](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870129-1.2.20.18). *The Straits Times*, p. 11; Wee, A. (1987, April 7). [Trainee guides get tips on Little India](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870407-1.2.37.27). *The Straits Times*, p. 15; [To Mecca](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120913-1.2.10). (1912, September 13). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.
-[^15]: Neither the betel quid nor its respective ingredients were particularly significant in the cultures of the Chinese and Eurasians in Singapore. Goh, B.-L. (2018). *[Modern dreams: An inquiry into power, cultural production, and the cityscape in contemporary urban Penang, Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11110271)* (p. 131). Ithaca, NY: Cornell University. (Call no.: RSEA 307.76095951 GOH); Choo, C., et al. (2007). Being Eurasian (p. 109). In M. Perkins (Ed.), *Visibly different: Face, place and race in Australia*. Switzerland: Peter Lang Verlag. (Not available in NLB holdings); Nirmala, M. (2003, July 4). [All are welcome at new Eurasian House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030704-1.2.29.15). *The Straits Times*, p. 27. Retrieved from NewspaperSG.
-[^16]: Zumbroich, 2008, p. 90.
-[^17]: Ponnudurai, V.R. (1951, August 25). [Chewing the betel](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88). *The Singapore Free Press*, p. 9. Retrieved from NewspaperSG.
-[^18]: Reid, A. (1988). *[Southeast Asia in the age of commerce 1450–1680](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4305251)* (Vol. 1, p. 41). New Haven; London: Yale University Press. (Call no.: RSEA 959 REI)
-[^19]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^20]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
-[^21]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^22]: A form of address for elderly Peranakan Chinese women.
-[^23]: [Grand dames bring life to the museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870906-1.2.29.17). (1987, September 6). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
-[^24]: Lee, L.H. (1949, July 8). [Keeping on the right side of all the gods](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490708-1.2.58). *The Malaya Tribune*, p. V. Retrieved from NewspaperSG.
-[^25]: Gwee, T.H. (2013). *[A nyonya mosaic: Memoirs of a Peranakan childhood](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684877)* (p. 60). Singapore: Marshall Cavendish. (Call no.: RSING 959.57030922 GWE)
-[^26]: [8,000 labourers on strike in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19361202-1.2.46). (1936, December 2). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
-[^27]: Orme, W.B. (1914, February 7). Makan sireh. *The British Medical Journal, 1* (2771), 325–326, p. 326. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^28]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120913-1.2.10)*, 13 Sep 1912, p. 3; [Reid](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4305251), 1988, p. 43.
-[^29]: [Gwee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684877), 2013, p. 81.
-[^30]: Neo, D., & Rathabai, J. (2015). Elaborate customs and rituals. *The Peranakan*, (2), p. 16. Retrieved from The Peranakan Association Singapore website.
-[^31]: Norhuda Salleh. (2015). Tepak sireh: Interpretation and perception in Malay wedding customs. *INTCESS15 – 2nd International Conference on Education and Social Services* (pp. 1185–1186). Retrieved from International Organisation Center of Academic Research website. 
-[^32]: Warisan SG. (2015). *Sacred sirih: Traditions and symbolism in the Malay world Part 1* [Video]. Retrieved from YouTube.
-[^33]: Menon, V. (1981, November 20). [The betel and its role in Hindu functions](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811120-1.2.169.8.2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^34]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^35]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^36]: Norhuda Salleh, 2015, p. 1184.
-[^37]: Chia, F. (1994). *[The Babas revisited](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6790835)* (p. 102). Singapore: Heinemann Asia. (Call no.: RSING 309.895105957 CHI)
-[^38]: [Hunt for ethnic costumes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930119-1.2.33.4). (1993, January 19). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
-[^39]: *[The wispy see-through kebaya tantalised many a Baba youth...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760512-1.2.52.1)* (1976, May 12). *New Nation*, pp. 10–11. Retrieved from NewspaperSG.
-[^40]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 15 Aug 1951, p. 9; [Betel nuts? We’ll stick to lipstick, say women](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520730-1.2.106). (1952, July 30). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
-[^41]: Text is translated from Malay. Abdullah Othman. (1964, December 31). [Ada jua yang tiada](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19641231-1.2.66). *Berita Harian*, p. 6. Retrieved from NewspaperSG.
-[^42]: [Smooth operators](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940707-1.2.61.5.3.2). (1994, July 7). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
-[^43]: Peet, G. (1977, April 2). [An old timer on the five-foot-way](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770402-1.2.80). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
-[^44]: Holmberg, J. (1975, February 1). [The old ‘new market’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750201-1.2.18.1.1). *New Nation*, p. 7. Retrieved from NewspaperSG.
-[^45]: Tan, F. (1975, May 17). [Teck Kah… or the place under the bamboo](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750517-1.2.16.1). *New Nation*, p. 7. Retrieved from NewspaperSG.
-[^46]: [Hole-in-the-wall stores at Little India to stay](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920611-1.2.59.4). (1992, June 11). *The Straits Times*, p. 40. Retrieved from NewspaperSG.
-[^47]: Lim, J., & Lim, Y.L. (2012, November 3). [Enjoy the city’s charms](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121103-1.2.134.3). *The Straits Times*, p. 3; Lim, S.N. (1989, April 5). [Giving old attractions new life](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19890405-1.2.29.2). *The Business Times*, p. 10; Ng, I., & Fernandez, W. (1987, August 13). [Arab Street and Little India captivate tourists](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870813-1.2.28.17). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
-[^48]: Juita. N. (1989, May 10). [Remembering the childhood joys of past Hari Rayas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890510-1.2.35.2). *The Straits Times*, p. 20. Retrieved from NewspaperSG. [*Sarong kebaya* is the outfit worn by Malay and Peranakan women, comprising a sheer fabric blouse paired with a *batik sarong* skirt. *Cucuk sanggul* is a hair pin for securing the bun.]
-[^49]: Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Heritage Board, Singapore.
+[^1]: Throughout this article, I have used different spellings for the word kuih, as appropriate to that community to whose desserts I am referring: hence kuih for Malay items, kueh for Peranakan items, and kue for Indonesian items, plus idiosyncratic spelling within direct quotes. Legit, pronounced with a hard “g”, means “sweet” or “sticky” in Bahasa Indonesia.
+Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+
+Pamudji, D. (1986). Hidangan ringan: Party snacks. Kuala Lumpur: Arenabuku Sdn Bhd. (Not available in NLB holdings). Among the author’s lapis recipes are a few with “tikar” designs, constructed by rotating and reassembling cut sections of lapis, to yield complex patterns when sliced across. These pre-date by over a decade the more colourful lapis designs popular in Sarawak.
+
+Manden, A.C. (1895). Recepten van de Haagsche kookschool [Recipes from the Hague Cooking School] (p. 244). The Hague: De Gebroeders van Cleef. (Not available in NLB holdings). Founded in the late 1800s, the school provided its female students with formal culinary training.
+
+van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great new complete East Indies cookbook] (pp. 305–306). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings). A mammoth book chronicling nearly 1,400 recipes from the Dutch East Indies, written to help familiarise Dutch cooks with the cuisine.
+
+Also known as red rice, this is rice inoculated with a yeast strain that produces a vivid red pigment as it grows. The dried grains are a traditional Chinese ingredient used to make rice wine and to add colour to dishes.
+Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+
+Cornelia, N. (1859). Kokki bitja [Beloved cook] (p. 160). Batavia: Lange & Co. (Not available in NLB holdings). Written in Indonesian, this book includes both traditional Indonesian and Dutch recipes.
+
+Oost-Indisch kookboek [East Indies cookbook] (pp. 62, 89). (1870). Semarang: Van Dorp & Co. (Not available in NLB holdings). The first Dutch-language cookbook of Indonesian recipes.
+
+Koopmans-Gorter, A., & De Boer-De Jonge, G.A.M. (1925). Het nieuwe kookboek [The new cookbook] (p. 307). Groningen: P. Noordhoff. (Not available in NLB holdings)
+
+Delicacies and titbits for Hari Raya. (1983, July 5). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+Keasberry, J. (2019, February 25). Spekkoek and kue lapis legit differences revealed. Retrieved from Cooking with Keasberry website.
+
+Sitti Nur Zainuddin-Moro. (1980). Kue-kue manasuka [Kue you will like] (pp. 130, 132). Jakarta: Dian Rakyat. (Call no.: RSEA 641.5 ZAI). The author, a cooking academy veteran, formidably marshals 272 recipes for Indonesian kue, colonial delicacies, Western-style cakes, savoury snacks and pantry essentials.
+
+Hing, S. (1956). In a Malayan kitchen (pp. 65–66). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN). A wonderfully eclectic treasure trove of recipes spanning Indonesian, Malay, Chinese, Dutch and colonial “fusion” items.
+
+Prelude to New Year. (1957, January 24). The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+Kueh bangket kelapa dan lapis betawi, waduh, lazat sa-kali! (1968, June 2). Berita Harian, p. 8. Retrieved from NewspaperSG. This recipe has a truly decadent butter-to-flour ratio of around 6:1.
+
+Feast with the experts. (1981, January 29). New Nation, p. 10. Retrieved from NewspaperSG. The name Speckok Kueh Lapis Batavia comes from Mrs Leong Yee Soo’s classic local cookbook, Singaporean Cooking. See Leong, Y.S. (1976). Singaporean cooking. Singapore: Eastern Universities Press Sdn Bhd. (Call no.: RSING 641.595957 LEO)
+
+Hari Raya delight for you to try. (1977, September 13). The Straits Times, p. 34. Retrieved from NewspaperSG. “Mascovrish” is likely a rendering of “moscovis”, a Dutch colonial-era name attached to cakes made with dried fruit or candied peel. “Moscovis” refers to Russia, although the connection to the country is unclear.
+
+Chefs of S’pore–3. (1950, April 27). The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+Fritz Hahn: The Baumkuchen family. (2017). Retrieved from settinger.net website.
+
+Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+
+Keijner, W.C. (1972). Kookboek voor Hollandse, Chinese en Indonesische derechten [Cookbook for Dutch, Chinese and Indonesian dishes] (p. 161). Amsterdam: Uitgeverij J. F. Duwaer & Zonenmsterdam. (Not available in NLB holdings)
+
+Sitti Nur Zainuddin-Moro, 1980, p. 18.
+
+Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+
+Rudy, G. (2020). 23 resep kue autentik Palembang [23 authentic Palembang cake recipes]. Jakarta: Kompas Gramedia. (Not available in NLB holdings). Nine kinds of Palembang lapis are pictured on this book’s cover.
+
+Doctor, V. (2019, March 25). Tried bebinca yet? The Goan queen of desserts packs layers of flavour and history. Retrieved from The Economic Times website.
+
+Personal communication with Janet P. Boileau (www.janetboileau.com), October 2008.
+
+Braga-Blake, M., Ebert-Oehlers, A., & Pereira, A.A. (2017). Singapore Eurasians: Memories, hopes and dreams (p. 246). Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
+
+Malay women are very busy now. (1957, April 30). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+Tan, C. (2019). The way of kueh: Savouring & saving Singapore’s heritage desserts. Singapore: Epigram Books. (Call no.: RSING 641.595957 TAN)
