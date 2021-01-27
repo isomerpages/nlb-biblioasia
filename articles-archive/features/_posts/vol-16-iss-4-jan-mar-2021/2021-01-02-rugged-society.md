@@ -1,9 +1,9 @@
 ---
-title: Love Is A Many-Layered Thing
-permalink: /vol-16/issue-4/jan-mar-2021/kueh-lapis
+title: "A Rugged Society: Adventure and Nation-Building"
+permalink: /vol-16/issue-4/jan-mar-2021/rugged-society
 date: 2021-01-01T00:00:00.000Z
-breadcrumb: Love Is A Many-Layered Thing
-third_nav_title: Love Is A Many-Layered Thing
+breadcrumb: "A Rugged Society: Adventure and Nation-Building"
+third_nav_title: "A Rugged Society: Adventure and Nation-Building"
 
 ---
 

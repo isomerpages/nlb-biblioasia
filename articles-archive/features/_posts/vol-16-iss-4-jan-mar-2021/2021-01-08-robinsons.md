@@ -1,9 +1,9 @@
 ---
-title: Love Is A Many-Layered Thing
-permalink: /vol-16/issue-4/jan-mar-2021/kueh-lapis
+title: Remembering Robinsons
+permalink: /vol-16/issue-4/jan-mar-2021/robinsons
 date: 2021-01-01T00:00:00.000Z
-breadcrumb: Love Is A Many-Layered Thing
-third_nav_title: Love Is A Many-Layered Thing
+breadcrumb: Remembering Robinsons
+third_nav_title: Remembering Robinsons
 
 ---
 
