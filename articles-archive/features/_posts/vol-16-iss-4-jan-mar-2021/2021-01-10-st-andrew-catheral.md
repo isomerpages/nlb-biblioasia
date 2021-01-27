@@ -1,9 +1,9 @@
 ---
-title: Love Is A Many-Layered Thing
-permalink: /vol-16/issue-4/jan-mar-2021/kueh-lapis
+title: St Andrew’s Cathedral and the Mystery of Madras Chunam
+permalink: /vol-16/issue-4/jan-mar-2021/st-andrew-cathedral
 date: 2021-01-01T00:00:00.000Z
-breadcrumb: Love Is A Many-Layered Thing
-third_nav_title: Love Is A Many-Layered Thing
+breadcrumb: St Andrew’s Cathedral
+third_nav_title: St Andrew’s Cathedral and the Mystery of Madras Chunam
 
 ---
 
