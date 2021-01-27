@@ -6,29 +6,22 @@ third_nav_title: Director's Note
 
 ---
 
-Betel chewing is a time-honoured practice in Southeast Asia although the custom has mostly
-died out here. In our cover story, [Fiona Lim and Geoffrey Pakiam](/vol-16/issue-3/oct-dec-2020/betel-chewing) explore various aspects of the betel quid. Years ago, I remember asking my husband’s late aunt to make a quid for me to try
-but she refused, saying that it would be too intoxicating.
+I think we can all agree that 2020 was a challenging year. Like many people, I’m looking forward to a much better year ahead.
 
-Those intoxicating effects are nowhere near as dangerous as opium smoking. Yet, about a century ago, partaking of this opiate was so prevalent among the Chinese coolie community
-that it made up half of the colonial government’s annual tax takings. [Diana S. Kim](/vol-16/issue-3/oct-dec-2020/opium-revenue) explains how the colony ended its dependence on opium revenue.
 
-Violent gun crime also used to be common in Singapore; up until the 1960s, street shootouts
-and kidnappings of millionaires were regular occurrences. [Tan Chui Hua’s](/vol-16/issue-3/oct-dec-2020/gunpoint) account of the city’s gun-happy gangsters is a reminder that the “good old days” weren’t always so good.
+And for those of us with a sweet tooth, what better way to start 2021 than to tuck into buttery rich *kueh lapis*? [Christopher Tan’s]() essay on the origins of this mouth-watering layered cake from Indonesia – made of eggs, butter, flour and spices – is a feast for the senses, and very timely too, given the upcoming Lunar New Year.
 
-On a less violent note, this year is the centenary of former French Prime Minister Georges
-Clemenceau’s visit here and the 50th anniversary of the opening of Queenstown Library. [Lim
-Tin Seng](/vol-16/issue-3/oct-dec-2020/tiger) revisits 1920 while [Paddy Jonathan Ong](/vol-16/issue-3/oct-dec-2020/queenstown) recounts the history of Singapore’s first proper
-branch library.
+Still on the subject of eggs, you should read [Yeo Kang Shua’s]() examination of Madras *chunam*, the plaster made from, among other things, egg white and sugar. It is widely believed to have been used on the interior walls of St Andrew’s Cathedral. Kang Shua sets the record straight.
 
-We then turn to the National Archives of Singapore with [Yap Jo Lin](/vol-16/issue-3/oct-dec-2020/building) as our guide. She tells us what the 250,000 plans in the Building Control Division Collection reveal about Singapore’s architecture. The archives are also the focus of [Meira Chand’s](/vol-16/issue-3/oct-dec-2020/diff-sky) essay. By poring over memoirs and listening to oral history interviews, the London-born author was able to recreate in her mind the sights and sounds of mid-20th century Singapore.
 
-As a resident of Marine Parade, [William L. Gibson](/vol-16/issue-3/oct-dec-2020/karikal) became fascinated by two old buildings in his neighbourhood. That led to his essay on Karikal Mahal recounting the colourful history of the two landmarks on Still Road South.
+Given the current predilection for toppling statues of contentious historical figures, poet and playwright [Ng Yi-Sheng]() argues that Raffles has already been knocked off his pedestal – figuratively speaking that is.
 
-A somewhat larger structure inspired [Erni Salleh](/vol-16/issue-3/oct-dec-2020/borobudur). After completing her Masters degree, the librarian turned her research into *The Java Enigma*, a thriller that delves into the origins of Indonesia’s Borobudur, a Buddhist monument from the 9th century.
+From a familiar historical figure, we turn to a relatively unknown personality – Kunnuck Mistree, a former Indian convict who remade himself into a successful and respectable member of society. [Vandana Aggarwal]() ferrets out the facts to uncover a fascinating story of redemption in 19th-century Singapore.
 
-Collecting materials that capture present-day events or culture is a way for the National Library to preserve a documentary heritage representative of Singapore. [Janice Loo’s](/vol-16/issue-3/oct-dec-2020/covid19) piece on the  COVID-19 documentation project explains how you can help future generations understand this extraordinary time. [Shereen Tay](/vol-16/issue-3/oct-dec-2020/website), on the other hand, provides an update on a different, but no less important, collection effort: web archiving.
+For a break from these heavy topics, check out our delightful photo essay on the children of the 1960s from the collection of the National Archives. And sadly, as Robinsons too fades into history, we shine a spotlight on some not-so-well-known aspects of its storied past.
 
-Also, don’t miss [Lee Meiyu’s](/vol-16/issue-3/oct-dec-2020/kim-mui) essay written in Chinese on the Kim Mui Hoey Kuan Collection and [Wan Wee Pin’s](/vol-16/issue-3/oct-dec-2020/book-review) review of the recently published book, *The Year 1000*.
+Speaking of spotlights, one of my favourite essays in this issue is the one on the history of street lighting in Singapore. [Timothy Pwee]() takes what might have been a dull subject and turns it into an illuminating (pun intended) read.
 
-Finally, I would again like to invite everyone to take part in our readers’ [survey](https://efm.jusfeedback.com/Community/se/705E3ED92204BF70). We want to make *BiblioAsia* better than ever, and your feedback is invaluable.
+I’d also like to draw your attention to the essay that highlights the National Library’s rich collection of rare paper-based artefacts. We have more than 19,000 items and our recent book, *Stories from the Stacks*, showcases a small selection of them, including a manual of football rules in Jawi, a colonial-era list of Tamil names, and a copy of a 15th-century Chinese map that mentions Temasek.
+
+These are just a few of the interesting articles that await you in this issue. Make yourself a nice cuppa (perhaps with a slice of *kueh lapis*), sit back, and slowly savour these essays. We enjoyed putting this issue together and we hope you will equally enjoy reading it.

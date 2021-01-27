@@ -24,12 +24,9 @@ table {
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/kuehlapis/FreshBakedLapis.jpg">
-
 sample caption
-
 </div>
 
-Betel chewing has been practised for thousands of years in Asia. Across Southeast Asia, betel chewing (*makan sirih*[^1] in Malay) was once a social necessity. The practice was also deeply embedded in Indian and Peranakan communities. However, the rich symbolism in the various elements of betel chewing, as well as the important social and cultural functions that it once served, has often been overshadowed by the visual spectacle of the betel chewers, with their black-stained teeth, crimson lips, scarlet saliva and proclivity for spitting. 
 
 In Singapore, betel chewing has all but died out among its people today, and the practice is now sustained largely by migrants and visitors from regions where chewing betel remains widespread.
 
