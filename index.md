@@ -19,19 +19,19 @@ sections:
     - infopic:
         title: "Love Is a Many-Layered Thing"
         subtitle: Highlights
-        description: What lies in this vale of tiers? Christopher Tan delves into *kueh lapis* legit, the cake that is as famous for its exacting recipe as for the unparalleled flavour of its buttery layers.
+        description: What lies in this vale of tiers? Christopher Tan delves into <i>kueh lapis</i> legit, the cake that is as famous for its exacting recipe as for the unparalleled flavour of its buttery layers.
         button: Read this article
         url: /vol-16/issue-4/jan-mar-2021/kueh-lapis
-        image: /images/Vol-16-issue-4/kuehlapis/LapisLegit.png
+        image: /images/Vol-16-issue-4/kuehlapis/LapisLegit.jpg
         alt: Sample of lapis
         
     - infopic:
         title: "St Andrew’s Cathedral and the Mystery of Madras Chunam"
         subtitle: Highlights
-        description: Was Madras *chunam* used inside St Andrew’s Cathedral? Maybe not, says Yeo Kang Shua.
+        description: Was Madras <i>chunam</i> used inside St Andrew’s Cathedral? Maybe not, says Yeo Kang Shua.
         button: Read this article
         url: /vol-16/issue-4/jan-mar-2021/st-andrew-cathedral
-        image: /images/Vol-16-issue-4/tiger/St'sAndrewChurch.jpg
+        image: /images/Vol-16-issue-4/standrewcathedral/StAndrewChurch.jpg
         alt: sample of standrew
     
     - infopic:
