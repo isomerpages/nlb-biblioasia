@@ -186,7 +186,7 @@ I could not agree more. If mindfully made, each spice-flecked strata should be a
 Having taken over *lapis*-making duties from my elders, I understand more keenly why this *kueh* and its kin have enjoyed such longevity and such exalted status. Refining and notating my family’s *lapis legit* recipe for my book, *The Way of Kueh*,[^31] took me months of research and testing, over 1,300 words and finally three pages of text and photos to do it full justice. Yes, *lapis legit* and *spekkoek* require significant mental and physical investment, but when they are imbued with care and commitment, their glory – and the accompanying feeling of achievement – transcends every ounce of expended effort. Master this cake, and you can truly say you have earned your stripes.
 
 <div class="infobox"> 
-<img src="/images/Vol-16-issue-4/kuehlapis/TheWayOfKueh.png" style="width: 200px; height: 250px;"/>
+<img src="/images/Vol-16-issue-4/kuehlapis/TheWayOfKueh.png" style="width: 300px; height: 250px;"/>
 Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN). It also retails at major bookshops in Singapore.
 </div>
 
@@ -200,15 +200,15 @@ Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s H
 
 #### **NOTES**
 
-[^1]: Throughout this article, I have used different spellings for the word kuih, as appropriate to that community to whose desserts I am referring: hence kuih for Malay items, kueh for Peranakan items, and kue for Indonesian items, plus idiosyncratic spelling within direct quotes. Legit, pronounced with a hard “g”, means “sweet” or “sticky” in Bahasa Indonesia.
+[^1]: Throughout this article, I have used different spellings for the word *kuih*, as appropriate to that community to whose desserts I am referring: hence *kuih* for Malay items, *kueh* for Peranakan items, and *kue* for Indonesian items, plus idiosyncratic spelling within direct quotes. *Legit*, pronounced with a hard “g”, means “sweet” or “sticky” in Bahasa Indonesia.
 
 [^2]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
 
-[^3]: Pamudji, D. (1986). Hidangan ringan: Party snacks. Kuala Lumpur: Arenabuku Sdn Bhd. (Not available in NLB holdings). Among the author’s lapis recipes are a few with “tikar” designs, constructed by rotating and reassembling cut sections of lapis, to yield complex patterns when sliced across. These pre-date by over a decade the more colourful lapis designs popular in Sarawak.
+[^3]: Pamudji, D. (1986). *Hidangan ringan: Party snacks*. Kuala Lumpur: Arenabuku Sdn Bhd. (Not available in NLB holdings). Among the author’s *lapis* recipes are a few with “tikar” designs, constructed by rotating and reassembling cut sections of *lapis*, to yield complex patterns when sliced across. These pre-date by over a decade the more colourful *lapis* designs popular in Sarawak.
 
-[^4]: Manden, A.C. (1895). Recepten van de Haagsche kookschool [Recipes from the Hague Cooking School] (p. 244). The Hague: De Gebroeders van Cleef. (Not available in NLB holdings). Founded in the late 1800s, the school provided its female students with formal culinary training.
+[^4]: Manden, A.C. (1895). *Recepten van de Haagsche kookschool* [*Recipes from the Hague Cooking School*] (p. 244). The Hague: De Gebroeders van Cleef. (Not available in NLB holdings). Founded in the late 1800s, the school provided its female students with formal culinary training.
 
-[^5]: van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great new complete East Indies cookbook] (pp. 305–306). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings). A mammoth book chronicling nearly 1,400 recipes from the Dutch East Indies, written to help familiarise Dutch cooks with the cuisine.
+[^5]: van der Meijden, J.M.J.C. (1925). *Groot nieuw volledig Oost-Indisch kookboek* [*Great new complete East Indies cookbook*] (pp. 305–306). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings). A mammoth book chronicling nearly 1,400 recipes from the Dutch East Indies, written to help familiarise Dutch cooks with the cuisine.
 
 [^6]: Also known as red rice, this is rice inoculated with a yeast strain that produces a vivid red pigment as it grows. The dried grains are a traditional Chinese ingredient used to make rice wine and to add colour to dishes.
 
@@ -238,48 +238,48 @@ Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s H
 
 [^19]: The needle test checks for uncooked batter under the surface: heat sources were not always even. The baking set-up is not detailed, but it would have featured top-down heat.
 
-[^20]: Cornelia, N. (1859). Kokki bitja [Beloved cook] (p. 160). Batavia: Lange & Co. (Not available in NLB holdings). Written in Indonesian, this book includes both traditional Indonesian and Dutch recipes.
+[^20]: Cornelia, N. (1859). *Kokki bitja* [*Beloved cook*] (p. 160). Batavia: Lange & Co. (Not available in NLB holdings). Written in Indonesian, this book includes both traditional Indonesian and Dutch recipes.
 
-[^21]: Oost-Indisch kookboek [East Indies cookbook] (pp. 62, 89). (1870). Semarang: Van Dorp & Co. (Not available in NLB holdings). The first Dutch-language cookbook of Indonesian recipes.
+[^21]: *Oost-Indisch kookboek* [*East Indies cookbook*] (pp. 62, 89). (1870). Semarang: Van Dorp & Co. (Not available in NLB holdings). The first Dutch-language cookbook of Indonesian recipes.
 
-[^22]: Koopmans-Gorter, A., & De Boer-De Jonge, G.A.M. (1925). Het nieuwe kookboek [The new cookbook] (p. 307). Groningen: P. Noordhoff. (Not available in NLB holdings)
+[^22]: Koopmans-Gorter, A., & De Boer-De Jonge, G.A.M. (1925). *Het nieuwe kookboek* [The new cookbook] (p. 307). Groningen: P. Noordhoff. (Not available in NLB holdings)
 
-[^23]: Delicacies and titbits for Hari Raya. (1983, July 5). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^23]: Delicacies and titbits for Hari Raya. (1983, July 5). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^24]: Keasberry, J. (2019, February 25). Spekkoek and kue lapis legit differences revealed. Retrieved from Cooking with Keasberry website.
+[^24]: Keasberry, J. (2019, February 25). *Spekkoek and kue lapis legit differences revealed*. Retrieved from Cooking with Keasberry website.
 
-[^25]: Sitti Nur Zainuddin-Moro. (1980). Kue-kue manasuka [Kue you will like] (pp. 130, 132). Jakarta: Dian Rakyat. (Call no.: RSEA 641.5 ZAI). The author, a cooking academy veteran, formidably marshals 272 recipes for Indonesian kue, colonial delicacies, Western-style cakes, savoury snacks and pantry essentials.
+[^25]: Sitti Nur Zainuddin-Moro. (1980). *Kue-kue manasuka* [*Kue you will like*] (pp. 130, 132). Jakarta: Dian Rakyat. (Call no.: RSEA 641.5 ZAI). The author, a cooking academy veteran, formidably marshals 272 recipes for Indonesian *kue*, colonial delicacies, Western-style cakes, savoury snacks and pantry essentials.
 
-[^26]: Hing, S. (1956). In a Malayan kitchen (pp. 65–66). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN). A wonderfully eclectic treasure trove of recipes spanning Indonesian, Malay, Chinese, Dutch and colonial “fusion” items.
+[^26]: Hing, S. (1956). *In a Malayan kitchen* (pp. 65–66). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN). A wonderfully eclectic treasure trove of recipes spanning Indonesian, Malay, Chinese, Dutch and colonial “fusion” items.
 
-[^27]: Prelude to New Year. (1957, January 24). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^27]: Prelude to New Year. (1957, January 24). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^28]: Kueh bangket kelapa dan lapis betawi, waduh, lazat sa-kali! (1968, June 2). Berita Harian, p. 8. Retrieved from NewspaperSG. This recipe has a truly decadent butter-to-flour ratio of around 6:1.
+[^28]: Kueh bangket kelapa dan lapis betawi, waduh, lazat sa-kali! (1968, June 2). *Berita Harian*, p. 8. Retrieved from NewspaperSG. This recipe has a truly decadent butter-to-flour ratio of around 6:1.
 
-[^29]: Feast with the experts. (1981, January 29). New Nation, p. 10. Retrieved from NewspaperSG. The name Speckok Kueh Lapis Batavia comes from Mrs Leong Yee Soo’s classic local cookbook, Singaporean Cooking. See Leong, Y.S. (1976). Singaporean cooking. Singapore: Eastern Universities Press Sdn Bhd. (Call no.: RSING 641.595957 LEO)
+[^29]: Feast with the experts. (1981, January 29). *New Nation*, p. 10. Retrieved from NewspaperSG. The name Speckok Kueh Lapis Batavia comes from Mrs Leong Yee Soo’s classic local cookbook, *Singaporean Cooking*. See Leong, Y.S. (1976). *Singaporean cooking*. Singapore: Eastern Universities Press Sdn Bhd. (Call no.: RSING 641.595957 LEO)
 
-[^30]: Hari Raya delight for you to try. (1977, September 13). The Straits Times, p. 34. Retrieved from NewspaperSG. “Mascovrish” is likely a rendering of “moscovis”, a Dutch colonial-era name attached to cakes made with dried fruit or candied peel. “Moscovis” refers to Russia, although the connection to the country is unclear.
+[^30]: Hari Raya delight for you to try. (1977, September 13). *The Straits Times*, p. 34. Retrieved from NewspaperSG. “Mascovrish” is likely a rendering of “moscovis”, a Dutch colonial-era name attached to cakes made with dried fruit or candied peel. “Moscovis” refers to Russia, although the connection to the country is unclear.
 
-[^31]: Chefs of S’pore–3. (1950, April 27). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^31]: Chefs of S’pore–3. (1950, April 27). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^32]: Fritz Hahn: The Baumkuchen family. (2017). Retrieved from settinger.net website.
+[^32]: *Fritz Hahn: The Baumkuchen family*. (2017). Retrieved from settinger.net website.
 
 [^33]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
 
-[^34]: Keijner, W.C. (1972). Kookboek voor Hollandse, Chinese en Indonesische derechten [Cookbook for Dutch, Chinese and Indonesian dishes] (p. 161). Amsterdam: Uitgeverij J. F. Duwaer & Zonenmsterdam. (Not available in NLB holdings)
+[^34]: Keijner, W.C. (1972). *Kookboek voor Hollandse, Chinese en Indonesische derechten* [*Cookbook for Dutch, Chinese and Indonesian dishes*] (p. 161). Amsterdam: Uitgeverij J. F. Duwaer & Zonenmsterdam. (Not available in NLB holdings)
 
 [^35]: Sitti Nur Zainuddin-Moro, 1980, p. 18.
 
 [^36]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
 
-[^37]: Rudy, G. (2020). 23 resep kue autentik Palembang [23 authentic Palembang cake recipes]. Jakarta: Kompas Gramedia. (Not available in NLB holdings). Nine kinds of Palembang lapis are pictured on this book’s cover.
+[^37]: Rudy, G. (2020). *23 resep kue autentik Palembang* [*23 authentic Palembang cake recipes*]. Jakarta: Kompas Gramedia. (Not available in NLB holdings). Nine kinds of Palembang *lapis* are pictured on this book’s cover.
 
-[^38]: Doctor, V. (2019, March 25). Tried bebinca yet? The Goan queen of desserts packs layers of flavour and history. Retrieved from The Economic Times website.
+[^38]: Doctor, V. (2019, March 25). *Tried bebinca yet? The Goan queen of desserts packs layers of flavour and history*. Retrieved from The Economic Times website.
 
 [^39]: Personal communication with Janet P. Boileau (www.janetboileau.com), October 2008.
 
-[^40]: Braga-Blake, M., Ebert-Oehlers, A., & Pereira, A.A. (2017). Singapore Eurasians: Memories, hopes and dreams (p. 246). Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
+[^40]: Braga-Blake, M., Ebert-Oehlers, A., & Pereira, A.A. (2017). *Singapore Eurasians: Memories, hopes and dreams* (p. 246). Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
 
-[^41]: Malay women are very busy now. (1957, April 30). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^41]: Malay women are very busy now. (1957, April 30). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^42]: Tan, C. (2019). The way of kueh: Savouring & saving Singapore’s heritage desserts. Singapore: Epigram Books. (Call no.: RSING 641.595957 TAN)
+[^42]: Tan, C. (2019). *The way of kueh: Savouring & saving Singapore’s heritage desserts*. Singapore: Epigram Books. (Call no.: RSING 641.595957 TAN)
