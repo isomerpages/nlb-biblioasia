@@ -248,19 +248,19 @@ Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s H
 
 [^24]: Keasberry, J. (2019, February 25). *Spekkoek and kue lapis legit differences revealed*. Retrieved from Cooking with Keasberry website.
 
-[^25]: Sitti Nur Zainuddin-Moro. (1980). *Kue-kue manasuka* [*Kue you will like*] (pp. 130, 132). Jakarta: Dian Rakyat. (Call no.: RSEA 641.5 ZAI). The author, a cooking academy veteran, formidably marshals 272 recipes for Indonesian *kue*, colonial delicacies, Western-style cakes, savoury snacks and pantry essentials.
+[^25]: Sitti Nur Zainuddin-Moro. (1980). *[Kue-kue manasuka](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125292)* [*Kue you will like*] (pp. 130, 132). Jakarta: Dian Rakyat. (Call no.: RSEA 641.5 ZAI). The author, a cooking academy veteran, formidably marshals 272 recipes for Indonesian *kue*, colonial delicacies, Western-style cakes, savoury snacks and pantry essentials.
 
-[^26]: Hing, S. (1956). *In a Malayan kitchen* (pp. 65–66). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN). A wonderfully eclectic treasure trove of recipes spanning Indonesian, Malay, Chinese, Dutch and colonial “fusion” items.
+[^26]: Hing, S. (1956). *[In a Malayan kitchen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437)* (pp. 65–66). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN). A wonderfully eclectic treasure trove of recipes spanning Indonesian, Malay, Chinese, Dutch and colonial “fusion” items.
 
-[^27]: Prelude to New Year. (1957, January 24). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^27]: [Prelude to New Year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570124-1.2.125). (1957, January 24). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^28]: Kueh bangket kelapa dan lapis betawi, waduh, lazat sa-kali! (1968, June 2). *Berita Harian*, p. 8. Retrieved from NewspaperSG. This recipe has a truly decadent butter-to-flour ratio of around 6:1.
+[^28]: [Kueh bangket kelapa dan lapis betawi, waduh, lazat sa-kali!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19680602-1.2.65) (1968, June 2). *Berita Harian*, p. 8. Retrieved from NewspaperSG. This recipe has a truly decadent butter-to-flour ratio of around 6:1.
 
-[^29]: Feast with the experts. (1981, January 29). *New Nation*, p. 10. Retrieved from NewspaperSG. The name Speckok Kueh Lapis Batavia comes from Mrs Leong Yee Soo’s classic local cookbook, *Singaporean Cooking*. See Leong, Y.S. (1976). *Singaporean cooking*. Singapore: Eastern Universities Press Sdn Bhd. (Call no.: RSING 641.595957 LEO)
+[^29]: [Feast with the experts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810129-1.2.61.1). (1981, January 29). *New Nation*, p. 10. Retrieved from NewspaperSG. The name Speckok Kueh Lapis Batavia comes from Mrs Leong Yee Soo’s classic local cookbook, *Singaporean Cooking*. See Leong, Y.S. (1976). *[Singaporean cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551115)*. Singapore: Eastern Universities Press Sdn Bhd. (Call no.: RSING 641.595957 LEO)
 
-[^30]: Hari Raya delight for you to try. (1977, September 13). *The Straits Times*, p. 34. Retrieved from NewspaperSG. “Mascovrish” is likely a rendering of “moscovis”, a Dutch colonial-era name attached to cakes made with dried fruit or candied peel. “Moscovis” refers to Russia, although the connection to the country is unclear.
+[^30]: [Hari Raya delight for you to try](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770913-1.2.144.3). (1977, September 13). *The Straits Times*, p. 34. Retrieved from NewspaperSG. “Mascovrish” is likely a rendering of “moscovis”, a Dutch colonial-era name attached to cakes made with dried fruit or candied peel. “Moscovis” refers to Russia, although the connection to the country is unclear.
 
-[^31]: Chefs of S’pore–3. (1950, April 27). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^31]: [Chefs of S’pore–3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500427-1.2.180). (1950, April 27). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
 [^32]: *Fritz Hahn: The Baumkuchen family*. (2017). Retrieved from settinger.net website.
 
@@ -278,8 +278,8 @@ Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s H
 
 [^39]: Personal communication with Janet P. Boileau (www.janetboileau.com), October 2008.
 
-[^40]: Braga-Blake, M., Ebert-Oehlers, A., & Pereira, A.A. (2017). *Singapore Eurasians: Memories, hopes and dreams* (p. 246). Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
+[^40]: Braga-Blake, M., Ebert-Oehlers, A., & Pereira, A.A. (2017). *[Singapore Eurasians: Memories, hopes and dreams](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202743122)* (p. 246). Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
 
-[^41]: Malay women are very busy now. (1957, April 30). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^41]: [Malay women are very busy now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570430-1.2.97.1). (1957, April 30). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^42]: Tan, C. (2019). *The way of kueh: Savouring & saving Singapore’s heritage desserts*. Singapore: Epigram Books. (Call no.: RSING 641.595957 TAN)
+[^42]: Tan, C. (2019). *[The way of kueh: Savouring & saving Singapore’s heritage desserts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932)*. Singapore: Epigram Books. (Call no.: RSING 641.595957 TAN)
