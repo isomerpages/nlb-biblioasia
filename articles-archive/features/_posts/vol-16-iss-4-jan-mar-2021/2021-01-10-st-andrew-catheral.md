@@ -36,7 +36,7 @@ The use of Madras *chunam* is mentioned in the 1899 book, *Prisoners Their Own W
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/standrew/JohnFred.jpg">
-A studio portrait of Major John Frederick Aldophus McNair in his uniform, c. 1900. McNair, who supervised the construction of St Andrew’s Church, recounted in his book, <i>Prisoners Their Own Warders</i>, that Madras <i>chunam</i> was used as a plaster for the interior walls and columns of the church. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i>.
+A studio portrait of Major John Frederick Aldophus McNair in his uniform, c. 1900. McNair, who supervised the construction of St Andrew’s Church, recounted in his book, <i>Prisoners Their Own Warders</i>, that Madras <i>chunam</i> was used as a plaster for the interior walls and columns of the church. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
 
 This claim has been repeated many times since, and not merely in guidebooks but also in press reports as well as serious works.[^4] Indeed, some writers have gone on to suggest that the same plaster was not just found in St Andrew’s, but widely used in Singapore. In a 1981 *Straits Times* article, author Peter Keys wrote that “Madras (*chunam*) plasterwork became universally used, with its odd (but since proven to be practical) mixture of shell lime, egg white, sugar and coconut husk…” in Singapore.[^5] 
@@ -139,7 +139,7 @@ Work progressed slowly over the next few years.[^31] In 1863, the tower with eig
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/standrew/.jpg">
+<img src="/images/Vol-16-issue-4/standrew/StAndrewChurch.jpg">
 This elevation drawing of the proposed spire design for St Andrew’s Church (now St Andrew’s Cathedral) is attributed to Ronald MacPherson. However, his design was not realised and a simplified design (see inset photo) by Jasper Otway Mayne, an engineer with the Public Works Department, was constructed instead. Among the many differences, the <i>oeil-de-boeuf</i> (bull’s eye) windows at the belfry level were replaced by lancet windows, and the flying buttresses connecting the pinnacles to the spire, as well as <i>lucarne</i> (spire light), which is a type of dormer window, were removed. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i>.
 </div>
 
@@ -213,8 +213,7 @@ Having weighed the historical evidence – the budgetary constraints that affect
 
 [^20]: Navaratnarajah, S., et al. (2017, July 1). Performance of coconut coir reinforced hydraulic cement mortar for surface plastering application. Construction and Building Materials, 142, 23–30. Retrieved from ResearchGate.
 
-[^21]: Untitled. (1856, March 4). The Straits Times, p. 4; 
-St. Andrews. (1870, April 30). The Straits Times, p. 1; Untitled. (1870, December 24). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^21]: Untitled. (1856, March 4). The Straits Times, p. 4; St. Andrews. (1870, April 30). The Straits Times, p. 1; Untitled. (1870, December 24). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
 [^22]: Straits Times Saturday, Oct. 12, 1861. (1861, October 12). The Straits Times, p. 19. Retrieved from NewspaperSG; McNair & Bayliss, 1899, pp. 71–74, 97. 
 
