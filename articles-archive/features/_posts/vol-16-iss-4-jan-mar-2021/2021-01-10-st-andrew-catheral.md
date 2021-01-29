@@ -35,7 +35,7 @@ The use of Madras *chunam* is mentioned in the 1899 book, *Prisoners Their Own W
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/standrew/.jpg">
+<img src="/images/Vol-16-issue-4/standrew/JohnFred.jpg">
 A studio portrait of Major John Frederick Aldophus McNair in his uniform, c. 1900. McNair, who supervised the construction of St Andrew’s Church, recounted in his book, <i>Prisoners Their Own Warders</i>, that Madras <i>chunam</i> was used as a plaster for the interior walls and columns of the church. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i>.
 </div>
 
@@ -47,7 +47,7 @@ Over the last 100 years, it has become axiomatic that Madras *chunam* was used i
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/standrew/.jpg">
+<img src="/images/Vol-16-issue-4/standrew/PlasterSample.jpg">
 Plaster sampling at one of the columns in St Andrew’s Cathedral. A sample of the plaster was taken from the surface to the brick substrate for laboratory analysis. In this photograph, a thin layer (2–3 mm) of grey Portland cement screed can be seen under the white paint layer. <i>Courtesy of Yeo Kang Shua</i>.
 </div>
 
@@ -165,7 +165,7 @@ Having weighed the historical evidence – the budgetary constraints that affect
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/authors/GeoffreyPakiam.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol-16-issue-4/authors/GeoffreyPakiam.png" style="width: 100px; height: 100px;"/>
 <b>Dr Yeo Kang Shua</b> is Associate Professor of Architectural History, Theory and Criticism, and Associate Head of Pillar (Research/Practice/Industry) at the Singapore University of Technology and Design.
 </div>
 
