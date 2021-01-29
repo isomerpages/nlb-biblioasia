@@ -23,10 +23,8 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/standrewcathedral/betelchewinginsingapore.jpg">
-
-A <i>sirih</i> seller, Indonesia, late 19th–early 20th centuries. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i>
-
+<img src="/images/Vol-16-issue-4/standrew/.jpg">
+Completed in 1865 and consecrated as an Anglican cathedral in 1870, St Andrew’s is a national monument that regularly features in guidebooks of Singapore. Almost every description mentions that the interior walls of the building were plastered with Madras <i>chunam</i>, which is partly made of egg white. <i>Courtesy of Preservation of Sites and Monuments, National Heritage Board</i>.
 </div>
 
 Completed in 1865, St Andrew’s Cathedral[^1] is a national monument that is regularly featured in guidebooks about Singapore. Built in the English Gothic style, descriptions of this handsome building invariably mention that the interior walls of this Anglican church used a unique form of plaster known as Madras *chunam*. The rather unusual ingredients that make up Madras chunam – among other things, egg white and coarse sugar – are undoubtedly a key reason why it has become lodged in the popular imagination.
@@ -35,11 +33,23 @@ The use of Madras *chunam* is mentioned in the 1899 book, *Prisoners Their Own W
 
 “In dealing with the interior walls and columns, we used… ‘Madras *chunam*’, made from shell lime without sand; but with this lime we had whites of eggs and coarse sugar, or ‘jaggery’, beaten together to form a sort of paste, and mixed with water in which the husks of cocoanuts [*sic*] had been steeped. The walls and columns were plastered with this composition, and, after a certain period for drying, were rubbed with rock crystal or rounded stone until they took a beautiful polish, being occasionally dusted with fine soapstone powder, and so leaving a remarkably smooth and glossy surface….”[^3]
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/standrew/.jpg">
+A studio portrait of Major John Frederick Aldophus McNair in his uniform, c. 1900. McNair, who supervised the construction of St Andrew’s Church, recounted in his book, <i>Prisoners Their Own Warders</i>, that Madras <i>chunam</i> was used as a plaster for the interior walls and columns of the church. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i>.
+</div>
+
 This claim has been repeated many times since, and not merely in guidebooks but also in press reports as well as serious works.[^4] Indeed, some writers have gone on to suggest that the same plaster was not just found in St Andrew’s, but widely used in Singapore. In a 1981 *Straits Times* article, author Peter Keys wrote that “Madras (*chunam*) plasterwork became universally used, with its odd (but since proven to be practical) mixture of shell lime, egg white, sugar and coconut husk…” in Singapore.[^5] 
 
 In his 1988 book, *Singapore: A Guide to Buildings, Streets, Places*, co-written with Norman Edwards, the authors said that some of the buildings in the Serangoon area also featured Madras *chunam*.[^6] A 2017 article in *The Straits Times* even claimed that Madras *chunam* was used in the Istana (formerly known as Government House),[^7] despite McNair’s own account that they had used a mixture of Portland cement, sand and powdered granite.[^8]
 
 Over the last 100 years, it has become axiomatic that Madras *chunam* was used in St Andrew’s. There is, however, just one problem: there is no physical evidence of Madras *chunam* on the walls of St Andrew’s. For close to a decade, I have been involved in conservation issues pertaining to the interior of St Andrew’s and, as part of this job, I have closely examined and analysed the plaster work at various locations within the building. Despite having taken and analysed numerous samples of the plaster, we have not found any trace of egg white, the tell-tale sign of Madras *chunam*.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/standrew/.jpg">
+Plaster sampling at one of the columns in St Andrew’s Cathedral. A sample of the plaster was taken from the surface to the brick substrate for laboratory analysis. In this photograph, a thin layer (2–3 mm) of grey Portland cement screed can be seen under the white paint layer. <i>Courtesy of Yeo Kang Shua</i>.
+</div>
 
 #### **Peeling Back the Mystery**
 
@@ -127,6 +137,12 @@ Funding remained tight throughout the entire building process. In 1859, three ye
 
 Work progressed slowly over the next few years.[^31] In 1863, the tower with eight pinnacles, on which the base of the spire would be constructed, was built.[^32] It would take another two years before the spire was finally erected, signifying the completion of the handsome English gothic edifice.[^33] (The original design of the spire could not be realised and the spire was redesigned by Jasper Otway Mayne, an engineer in the Public Works Department.) In total, the construction of the church took nine years: five years to complete the main building and interiors, and another four for the tower and spire.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/standrew/.jpg">
+This elevation drawing of the proposed spire design for St Andrew’s Church (now St Andrew’s Cathedral) is attributed to Ronald MacPherson. However, his design was not realised and a simplified design (see inset photo) by Jasper Otway Mayne, an engineer with the Public Works Department, was constructed instead. Among the many differences, the <i>oeil-de-boeuf</i> (bull’s eye) windows at the belfry level were replaced by lancet windows, and the flying buttresses connecting the pinnacles to the spire, as well as <i>lucarne</i> (spire light), which is a type of dormer window, were removed. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i>.
+</div>
+
 One of the casualties of the tight funding was the plastering work. In 1859, *The Singapore Free Press* wrote that because the “proposal of a Government Loan for the completion of the Church has not produced any favourable effect… not a single man is now allowed to work there – that the small number of Convicts allowed for plasterers of the interior have been withdrawn”.[^34]
 
 #### **Putting It All Together**
@@ -146,8 +162,6 @@ Without a comprehensive examination, we cannot know with any certainty if Madras
 Having weighed the historical evidence – the budgetary constraints that affected the progress of construction and the grey walls in 1949 – and given the results of the trials and repairs conducted in the last decade, there is sufficient evidence to say that Madras *chunam* was never actually used in St Andrew’s. Regrettably, however, we will never know for sure.
 
 |The author would like to acknowledge Wee Sheau Theng for her invaluable assistance in the course of this research.|
-
-
 
 <div style="background-color: white;">
 <br/>
