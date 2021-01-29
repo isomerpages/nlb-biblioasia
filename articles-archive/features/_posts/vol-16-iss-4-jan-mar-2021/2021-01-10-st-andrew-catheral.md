@@ -19,211 +19,215 @@ table {
 </style>
 
 
-#### What lies in this vale of tiers? **Christopher Tan** delves into *lapis legit*, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers. 
+#### Was Madras *chunam* used inside St Andrew’s Cathedral? Maybe not, says **Yeo Kang Shua**, who has carefully examined the layers of plaster on its interior walls. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewinginsingapore.jpg">
+<img src="/images/Vol-16-issue-4/standrewcathedral/betelchewinginsingapore.jpg">
 
 A <i>sirih</i> seller, Indonesia, late 19th–early 20th centuries. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i>
 
 </div>
 
-Betel chewing has been practised for thousands of years in Asia. Across Southeast Asia, betel chewing (*makan sirih*[^1] in Malay) was once a social necessity. The practice was also deeply embedded in Indian and Peranakan communities. However, the rich symbolism in the various elements of betel chewing, as well as the important social and cultural functions that it once served, has often been overshadowed by the visual spectacle of the betel chewers, with their black-stained teeth, crimson lips, scarlet saliva and proclivity for spitting. 
+Completed in 1865, St Andrew’s Cathedral[^1] is a national monument that is regularly featured in guidebooks about Singapore. Built in the English Gothic style, descriptions of this handsome building invariably mention that the interior walls of this Anglican church used a unique form of plaster known as Madras *chunam*. The rather unusual ingredients that make up Madras chunam – among other things, egg white and coarse sugar – are undoubtedly a key reason why it has become lodged in the popular imagination.
 
-In Singapore, betel chewing has all but died out among its people today, and the practice is now sustained largely by migrants and visitors from regions where chewing betel remains widespread.
+The use of Madras *chunam* is mentioned in the 1899 book, *Prisoners Their Own Warders*,[^2] by John Frederick Adolphus (J.F.A.) McNair of the Madras Artillery who had supervised the construction of the church. (It was consecrated as a church in 1862, before it was fully completed, and re-consecrated as a cathedral in 1870.) In his book, McNair wrote:
 
-#### **A Millennia-old Asian Habit**
+“In dealing with the interior walls and columns, we used… ‘Madras *chunam*’, made from shell lime without sand; but with this lime we had whites of eggs and coarse sugar, or ‘jaggery’, beaten together to form a sort of paste, and mixed with water in which the husks of cocoanuts [*sic*] had been steeped. The walls and columns were plastered with this composition, and, after a certain period for drying, were rubbed with rock crystal or rounded stone until they took a beautiful polish, being occasionally dusted with fine soapstone powder, and so leaving a remarkably smooth and glossy surface….”[^3]
 
-Fragments of containers from the 14th century that held lime (calcium carbonate) have been discovered in Singapore, attesting to the likelihood that betel chewing on the island dates from this period at least.[^2] However, the quid has been part of Asia’s social and cultural landscape for much longer. One of the oldest known sources of evidence dates to around 2660 BCE: skeletal remains with stained teeth suggestive of betel chewing, as well as containers for storing lime, were discovered at a burial site in Duyong Cave on the island of Palawan in southern Philippines.[^3]
+This claim has been repeated many times since, and not merely in guidebooks but also in press reports as well as serious works.[^4] Indeed, some writers have gone on to suggest that the same plaster was not just found in St Andrew’s, but widely used in Singapore. In a 1981 *Straits Times* article, author Peter Keys wrote that “Madras (*chunam*) plasterwork became universally used, with its odd (but since proven to be practical) mixture of shell lime, egg white, sugar and coconut husk…” in Singapore.[^5] 
 
-Historian Anthony Reid points out the wide-ranging indigenous terms for areca nut and betel used in the Indonesian Archipelago and the Philippines, suggesting that the betel quid originated from island Southeast Asia.[^4] The areca palm itself  (*Areca catechu*)  may have a Malayan origin, judging by the sheer number of palm varieties recorded in the Malay Peninsula.[^5]
+In his 1988 book, *Singapore: A Guide to Buildings, Streets, Places*, co-written with Norman Edwards, the authors said that some of the buildings in the Serangoon area also featured Madras *chunam*.[^6] A 2017 article in *The Straits Times* even claimed that Madras *chunam* was used in the Istana (formerly known as Government House),[^7] despite McNair’s own account that they had used a mixture of Portland cement, sand and powdered granite.[^8]
 
-The archaeological and linguistic records found in southern India strongly suggest that the areca palm and betel vine (*Piper betle*)  came from Southeast Asia, probably from the second millennium BCE onwards.[^6] Through centuries of maritime trade and migration, betel chewing and its accompanying botanical material spread throughout Southeast Asia to the western Pacific, across the Indian subcontinent and even reaching as far as the fringes of East Africa.
+Over the last 100 years, it has become axiomatic that Madras *chunam* was used in St Andrew’s. There is, however, just one problem: there is no physical evidence of Madras *chunam* on the walls of St Andrew’s. For close to a decade, I have been involved in conservation issues pertaining to the interior of St Andrew’s and, as part of this job, I have closely examined and analysed the plaster work at various locations within the building. Despite having taken and analysed numerous samples of the plaster, we have not found any trace of egg white, the tell-tale sign of Madras *chunam*.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/twomensellingbetel.jpg">
-A painting of two men selling betel quid by an Indian artist, c. 1800s. <i>Wellcome Collection. Attribution 4.0 International (CC BY 4.0).</i>
-</div>
+#### **Peeling Back the Mystery**
 
-#### **A Parcel Like No Other**
+I first became involved with the conservation of the walls of St Andrew’s in 2011. Around that time, the paint on some parts of its interior walls had begun peeling, while in other parts, the plaster had delaminated (the technical term for “popped out”). Because of my background in architectural conservation, I was asked to study and advise the cathedral.
 
-While it is often referred to as betel chewing, strictly speaking, what is chewed is known as the betel quid. In its most basic form, the betel quid comprises three ingredients: betel leaf (*sirih*), areca nut (*pinang*)  and slaked lime (*kapor* or *chunam*), a paste made from the powdered shells of molluscs or coral. Slaked lime is first spread on the leaf before shavings or pieces of dried areca nut are laid on top. The leaf is then folded inwards to cover the contents, ready to be chewed. 
+While I began my investigation, the cathedral carried out ad-hoc repairs to the affected areas, mainly behind the lectern as well as around the Epiphany Chapel and pulpit. Two years later, more localised repairs were carried out, this time on the south facade of the west porch, to address the same problem.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/betelleaf.jpg">
+In 2016, to prepare for a large-scale and comprehensive plaster repair, the cathedral undertook lime plaster trials at selected interior walls and columns along the south aisle of the building.[^9] In 2018, further trials using proprietary lime were carried out behind the lectern and pulpit, on the west porch and on the north facade of the west porch.
 
-The basic elements of the betel quid: the betel leaf (<i>sirih</i>), pieces of areca nut (<i>pinang</i>) and a smear of slaked lime (<i>kapor</i> or <i>chunam</i>), a white paste made from the powdered shells of molluscs or coral. <i>Photo from Shutterstock.</i>
+In addition to these trials, in 2019, the internal walls of the tower (the belfry) were repaired during conservation work on the church bells.
 
-</div>
+Thus between 2011 and 2019, we had numerous opportunities to sample and study the plaster around many spots within St Andrew’s because of the repair work and the lime plaster trials. However, none of our investigations found any trace of protein (egg white) or fibre (coconut husk). The lime plaster trials in 2016 and 2018, in particular, allowed us to remove the existing plaster ahead of the trial. While doing so, we did find a thin finish coat of Portland cement screed and, in some cases, layers of Portland cement plaster, but no Madras *chunam*. (The existence of Portland cement attest to subsequent repair and/or replastering at these localised areas.)
 
-Preparation techniques varied according to cultural and individual preferences. According to Gwee Thian Lye (better known as G.T. Lye), a well-known *dondang sayang*[^7]  performer and consultant on Peranakan culture, two types of betel leaves were chewed in Singapore: one larger and dark green, the other smaller and light green. Peranakan Chinese ladies are said to have favoured the latter for making *sirih*, while the Indian and Malay communities mainly used the former.[^8]
+Our failure to find Madras *chunam* on the walls of St Andrew’s was puzzling. Why couldn’t we find any trace of this unique plaster inside the church even though we had done extensive sampling? One possibility is that Madras *chunam* had been originally used, but was completely stripped away later, which is why no trace can be found today. The more controversial possibility, of course, is that despite McNair’s account, Madras *chunam* was never actually used inside St Andrew’s.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/peranakanwomanholdingbetelquid.jpg">
-Portrait of a Peranakan Chinese woman holding a betel quid by August Sachtler, Singapore, c. 1860s. On the table is a betel box. <i>Collection of Mr and Mrs Lee Kip Lee. Courtesy of Peter Lee.</i>
-</div>
+To unravel this mystery, we must delve into the intricacies of the making and application of Madras *chunam*, and we need to learn more about how St Andrew’s was built.
 
-Many also considered gambier to be an essential ingredient and small pieces would be added alongside the areca nut slices. Later, tobacco became a popular addition and shreds of it might be folded together with the leaf. For a change of flavour, betel chewers sometimes rubbed a wad of tobacco against their teeth and gums after chewing betel.[^9]
+#### **Making Madras Chunam**
 
-Known as *vetrilai* (Tamil), *paan supari* (Hindi) or *tambula* (Sanskrit), the betel quid favoured by Tamils included finely ground spices such as cardamom, clove, nutmeg and mace for an extra dash of fragrance. The mix of spices is known as *paan masala* and each betel quid vendor (*paanwalla*) had his own unique mix. A clove might also be used to seal the betel package.
+The word *chunam* is a transliteration of *cuṇṇāmpu* or *choona*, which means “lime” in Tamil and Hindi respectively. Madras (now known as Chennai) is a city in Tamil Nadu, India. Madras *chunam* thus refers to a particular type of lime plaster commonly used in Madras.
 
-The English herbalist John Gerard first described the areca nut as the “drunken date” in 1597, due to its supposedly intoxicating effects when consumed together with slaked lime.[^10] The common physiological effects of areca nut, similar to narcotics and stimulants, include a sense of well-being, heightened alertness, increased bodily warmth, improved digestion and better stamina.[^11] The combination of lime and areca nut releases the latter’s alkaloids, particularly arecoline, producing a sedative effect. At the same time, arecoline affects the peripheral and central nervous systems of the body.[^12] Chewing the quid also produces copious amounts of red saliva, leading to the habit of frequent spitting and even red stools.
+One of the earliest descriptions of Madras *chunam* in English is found in *A Practical and Scientific Treatise on Calcareous Mortars and Cements, Artificial and Natural*, authored by Louis-Joseph Vicat. His 1837 book describes how shell-lime, sand, sugar, egg white, clarified butter, sour milk and powdered soapstone were used as ingredients to make the coats of this plaster.[^10]
 
-The World Health Organization (WHO) estimates that some 600 million people around the world consume some form of areca nut today. The areca nut is classified as a carcinogen by the WHO, and studies have shown a correlation between betel chewing and cancer of the mouth and esophagus.[^13]
+Published in 1840, James Holman’s Travels in *Madras, Ceylon, Mauritius, Cormoro Islands, Zanzibar, Calcutta, etc. etc.* contains a very detailed description of Madras *chunam* that bears repeating to get an idea of the work necessary to make the plaster, and how to apply it.
 
-As with other widely consumed alkaloids like caffeine and theobromine (the latter is present in cocoa), the psychotropic effects of betel chewing vary between individuals and, perhaps more importantly, are heavily tempered by social context. Those accustomed to viewing betel chewing as a comforting and calming practice may feel calm and relaxed from chewing, while the habit may have the opposite effect on someone brought up to believe in betel chewing’s stimulating effects.
+“The lime is of the finest quality, and is produced from sea-shells well washed and properly cleansed, after which they are calcined with charcoal, during which process the greatest care is taken to exclude every thing likely to injure the purity and whiteness of the lime. ….
 
-#### **Our Daily Chew**
+“The plaster is composed of one part of *chunam*, or burnt lime, and one and a half of river sand thoroughly mixed, and well beaten up with water. … Before the plaster is applied, the wall must be trimmed… and swept perfectly clean, it should then be slightly sprinkled with water; after the wall is ready the plaster is… mix… with jagghery-water, to a proper consistency, it is then laid on about an inch thick… and levelled…, being afterwards smoothed with a rubber, until it acquires an even surface. During the process of rubbing, the plaster is occasionally sprinkled with a little pure lime mixed with water, to give it a hard and even surface.
 
-In Singapore and Malaya during the 19th and early 20th centuries, the betel quid was enjoyed by a broad swathe of society, often transcending class and gender. It was consumed throughout the day, especially after meals due to the quid’s digestive and breath-freshening qualities.[^14] Although only a minority of Chinese migrants and Eurasians in Singapore appreciated the quid, many aristocrats, merchants and labourers in the Indian, Malay and Peranakan communities chewed betel regularly.[^15]
+“For two coats.
 
-Perhaps the most fundamental role of the betel quid was in promoting and strengthening social ties.[^16] Betel chewing served as a social lubricant, like communal eating or drinking alcohol: 
+… The plaster used for the second coat consists of three parts of lime, and one of white sand, which is mixed up as before… till it is reduced to a fine paste. The plaster thus prepared is… applied… over the first coat, about one-eighth of an inch thick, after which it is rubbed down…. It is then polished with a crystal, or smooth stone rubber, and as soon as it has acquired a sufficient polish, a little very fine Bellapum powder is sprinkled upon it, to increase its whiteness and lustre, while the rubbing is still continued. The second coat ought to begun [sic] and finished in one day, unless in damp weather….
 
-“Over a chew of betel, they might cogitate over the day’s problems, or gossip with a neighbour or just sit and relax. Chewing betel is a leisurely business and cannot be hurried over." [^17]
+“For three coats.
 
-During social and business gatherings, it was *de rigueur* to welcome guests, friends, colleagues and relatives with a tray of betel quid ingredients. According to Reid, “Everyday hospitality consisted in the sharing of betel, not food.”[^18] Declining the quid was deemed as being disrespectful to the host, and those who did not chew would politely consume a betel leaf at least. The betel set was thus an indispensable part of Tamil, Malay and Straits Chinese homes.[^19] For some, it was treated like a sacred object that had to be respected. In Straits Chinese homes, placing a betel box on the floor instead of a table when one was seated on a chair was widely believed to invite bad luck.[^20]
+… A day or two afterwards, before it has had time to dry, the third coat is applied. This consists of four parts of lime, and one of fine white sand; these, after being well mixed, are reduced by grinding to a very fine paste…. This is… mixed with the whites of eggs, tyre (curds), and ghee (butter), in the following proportions:-
 
-As in much of the Malay world, betel chewing in Singapore tended to have feminine overtones. According to a 1951 *Singapore Free Press* article, among ethnic Indians it was mostly women who “chewed a lot”, and the typical image of a Tamil grandmother in the 1950s was of her “sitting with her legs stretched out at ease and pounding away her chew of betel in her little mortar”.[^21] Even well into the 1980s, Peranakan Chinese *bibik*[^22] were popularly portrayed as deftly folding *sirih* during card games such as *cherki*.[^23] *The Malaya Tribune* reported in 1949 that many Peranakan Chinese women (known as *nonya*) were so attached to their chews that “wherever the *nonya* goes, the *sireh* set is sure to go”.[^24] Peranakan Chinese men (*baba*) who indulged in betel chewing were said to be quite rare, and those who did were perceived to be effeminate.[^25]
+12 eggs, 1½ measures of tyre and ½ lb. of ghee to every parah of plaster.
 
-However, many men were known to be habitual chewers. Indian labourers sharing areca nuts, betel leaves and lime with one another were once a common sight.[^26] For them, betel chewing was perhaps a means to stave off hunger and be more alert. Manual workers were said to derive energy from chewing betel during their long hours of work.[^27] The betel quid was also believed to be particularly useful for those embarking on a long journey, such as Muslims performing the Haj, as it helped tide them over periods of hunger and fatigue.[^28] 
+“These must all be thoroughly mixed… to a paste of a uniform consistence, a little thicker than cream, and perfectly free from grittiness…, and is put on about one-tenth of an inch thick, … when it is gently rubbed, till it becomes perfectly smooth. Immediately after this another coat of still finer plaster is applied, consisting of pure lime ground to a very fine paste, and afterwards mixed with water… until it is of consistency of cream. This is put on one-sixteenth of an inch thick, with a brush, and rubbed gently with a small trowel, till it becomes slightly hard it is then rubbed with the crystal or stone rubber, until a beautiful polish is produced, during which process the wall is occasionally sprinkled with fine Bellapum powder…
 
-#### **A Symbol of Love**
+“If the plaster be not entirely dry on the second morning, the operation of polishing ought to be continued until it is quite dry. The moisture as before mentioned must be carefully wiped off, and the wall kept quite dry till all appearance of moisture ceases.”[^11]
 
-The *sirih’s* centrality in mediating social relations extended to love and romance. The betel quid symbolised courtship, marital and sexual union in Malay, Straits Chinese and Hindu cultures, and features strongly in betrothal rituals. It is believed that the areca nut and betel leaf complement each other perfectly: they are considered “heaty” and “cooling” foods respectively – together they symbolise balance. The betel leaf and areca nut are also said to represent the female and male respectively, alluding to how the betel vine entwines itself around the areca palm.
+Holman’s and Vicat’s descriptions of how to mix the plaster, combined with our knowledge of the size of the church building, allow us to calculate approximately how much Madras *chunam* would have been needed to plaster the interior walls. According to McNair:
 
-The age-old association of the betel quid with love and courtship is evident in the etymology of Malay and Tamil words relating to marriage and betrothal. The Malay terms for proposing marriage (*meminang*) and betrothal (*pinangan*) are derived from *pinang* (areca nut), while the Tamil term for engagement, *nichaya tambulam*, is derived from *tambulam* (betel quid).
+“[The] building is 250 feet long internally, by 65 feet in width, with nave and side aisles; or, with the north and south transepts, 95 feet, the transepts being used as porticoes.”[^12]
 
-In traditional Malay culture, a suitor or one of his relatives would bring a tray of betel quid to the prospective wife’s residence to ask for her hand in marriage. This custom of *hantar sirih* (Malay for “presenting betel”) was also practised by the Peranakan community, albeit with some differences. Female guests of a Straits Chinese wedding would have received an invitation known as the *sa kapor siray* – a miniature triangular parcel of betel quid containing a smidgen of areca nut. This custom was still practised in post-war Singapore, but was replaced by Western-style invitation cards by the 1980s.[^29] Similarly, the Chetty Melaka (Peranakan Indians) had a ritual known as *hantar sirih kovil pathiram* during which trays of invitation cards, betel leaves, areca nuts, flowers and other items would be blessed at the temple before being distributed to guests.[^30] One’s acceptance of a betel quid in most social contexts implied agreement.
+Based on these dimensions, the interior walls have a linear run of 690 feet (250 by 95 feet) or approximately 210 m. With the height of the walls being approximately 50 feet (15.24 m), the approximate surface area of the interior walls would then be 34,500 sq ft (3,205 sq m). Vicat and Holman differed on the thickness of the final coat of Madras *chunam* used. The thickness ranges from one-tenth plus one-sixteenth of an inch, or approximately 4 mm, to one-quarter of an inch, or approximately 6 mm. The total volume of the final plaster would range approximately from 466 cu ft (13.2 cu m) to 718 cu ft (20.3 cu m).
 
-In Malay weddings, a ceremonial betel box known as the *tepak sirih*, containing betel quid ingredients, was once the centrepiece in the bridal display. Traditionally, the *tepak sirih* was also placed outside the newlyweds’ room on the first night of marriage as an indication of the bride’s chastity. If the groom discovered that his wife was not a virgin, the *tepak sirih* would be turned upside down the next morning.[^31] In Straits Chinese culture, the betel box also symbolised the bride’s purity: on the wedding day, a betel box was placed in the centre of the marital bed. These rituals are no longer customary in Singapore as most Malay and Straits Chinese weddings now take on a more contemporary flavour.
+Vicat and Holman also held different views on the number of eggs required to make the plaster. According to Vicat, around 10 to 12 eggs are needed per 1.28 cu ft, while Holman said that the whites of a dozen eggs were needed for every 2.17 cu ft.[^13] Based on these accounts, between 2,580 and 6,730 eggs would have been used to plaster the interior walls of St Andrew’s, which is a considerable number of eggs. This quantity does not account for the plaster on the columns. 
 
-However, Malay weddings today still feature the betel leaf in various guises: *sirih dara, sirih junjung* and *sirih lat-lat. Sirih dara* and *sirih junjung* refer to floral arrangements featuring verdant green betel leaves rolled into a conical shape, representing the virginity of the bride and groom respectively. These are displayed during the wedding ceremony. 
+|**THE CURIOUS INGREDIENTS THAT MAKE UP MADRAS CHUNAM**|
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewing-yellowcloth.jpg">
-A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red container filled with betel leaves, brass receptacles for holding the incense and <i>air mawar</i> (rose water), and a container for storing the areca nut <i>(pinang)</i> and slaked lime <i>(kapor</i> or <i>chunam).</i> <i>PictureSG, National Library, Singapore.</i>
+|When constructing a building, plaster is applied to the walls to protect the underlying stone or brick, and for decorative reasons. In the 19th-century, walls were typically plastered using lime plaster, which is primarily made of lime, sand and water.|
 
-</div>
+|Madras *chunam*, in contrast, uses additional ingredients. According to Louis-Joseph Vicat and James Holman, making Madras *chunam* also involved using ghee (butter) or oil, *tyre* (sour curd), albumen (egg white) and soapstone powder (*lapis ollaris*, commonly known as talc) in the final coat.| 
 
-*Sirih lat-lat* is a small floral bouquet containing betel leaves, which is delivered to the groom on the wedding day to signal the bride’s readiness to be visited by the groom and his entourage. According to researcher Khir Johari, the betel leaf, or *sirih*, generally represents humility, generosity and respectfulness in the Malay world – a reflection of the way in which the betel vine climbs up its host plant unobtrusively.[^32]
+|For lime, Vicat and Holman wrote that sea shells were used, while McNair’s account cites corals instead. “[Our] lime… [was] made from coral, of which there were extensive reefs round the Island of Singapore…. Coral is almost a pure carbonate of lime, and therefore very well suited for the purpose. It was broken up and heated in kilns constructed for the purpose”.[^14]|
 
-The betel quid is considered an aphrodisiac in the *Kamasutra*, the ancient Sanskrit text on sexuality and eroticism.[^33] In Hindu marriage ceremonies, trays of betel quid, symbolising everlasting bonds, were passed around for guests to chew.[^34] Although betel quid ingredients are still used in Hindu prayer offerings and wedding ceremonies today, the quid is rarely chewed. 
+|It is not unusual to use raw sugar (jaggery) in plaster. In fact, sugar is widely used as an additive to increase the plasticity of lime plaster as it decreases the viscosity of plaster and improves its workability and strength. This quality is especially important in decorative plastering, such as mouldings and capitals.| 
 
+|Oil is also a common ingredient used in the final coat of plaster. In the West, linseed oil[^15] is typically used, while Tung oil[^16] is used in China. The addition of oil increases the plaster’s water resistance and is typically used in the final layer.|
 
-|**THE BETEL CHEWER'S TOOLKIT**|
+|Soapstone powder consists of a large agglomerate of hydrated magnesium silicate that is used for polishing soft materials.|
 
-|A typical betel set might comprise a box with three or four containers (*cembul*) – for storing betel leaves, sliced areca nut, slaked lime, gambier or tobacco – and a slicer (*kacip*)  for cutting the dried areca nut. The quality of a betel caddy indicated the owner’s social status: the working class had their betel chewing paraphernalia wrapped simply in a piece of newspaper or cloth, or kept in a wooden box, while the well-heeled showcased betel boxes made of highly decorated brass, copper or silver.[^35] Ornate *kacip* often featured handles carved in the form of the *kuda sembrani*, the Malay mythological flying horse.[^36]|
+|Sour curd is largely made up of milk proteins (casein), which are useful as a binder in lime plaster to improve its adhesive properties.[^17] Conceivably, as albumen comprises primarily of protein, it might also have been used as a binder. In recent years, studies have found that albumen does increase the compressive and flexural strength of plaster.[^18]|
 
-|A moderately wealthy household usually had two betel sets at home: one for daily use and another for guests. The more elaborate betel boxes ended up as family heirlooms or collectors’ items. Alongside betel sets, spittoons were also a common fixture in homes and establishments to hold the red spittle produced from chewing betel. These spittoons were often made of brass or porcelain. Elderly chewers who lacked teeth used a small mortar and pestle to grind larger ingredients, if not the entire quid, into a finer consistency for an easier chew.[^37]|
+|Coconut fibre in some form is cited as an ingredient by McNair though not by Vicat and Holman. It is unclear from McNair’s account if the lime plaster was mixed with water, together with the coconut fibre (husk) that was steeped in it, or just the water, with the husk removed. Coconut fibre is composed mainly of cellulose, hemicellulose and lignin, which are insoluble in water.[^19] Coconut fibre, however, is known to have been added to plaster to improve its tensile strength[^20] and it is not inconceivable that it was used in the mixture.|
 
-|Betel chewing also shaped sartorial practices. A wealthy Malay lady in the 1920s might wear an intricately crafted silver belt from which hung a purse and a case to contain betel ingredients so as to satisfy her craving for a chew while she was out.[^38] A Straits Chinese woman would drape a large red or dark-coloured handkerchief, folded into a triangle, over one shoulder of her *kebaya* for wiping red spittle from her lips.[^39]|
+|<img src="/images/Vol-16-issue-4/standrew/LimeKiln.png">A lime kiln at Kampong Mata Ikan, 1967. Seashells (white pile on the left), which are made of calcium carbonate, are heated to approximately 900 degrees Celsius to produce calcium oxide, also known as quicklime. The man is using a woven rattan *pungki* or *pengki* (畚箕) (a shallow basket) to deposit what looks to be charcoal – fuel for the kiln – into an open pit. *Photo by Hor Kwok Kin. Retrieved from Photonico.*|
 
-|<img src="/images/Vol-16-issue-3/betel/straitschinesebetelset.png">An early 20th-century Straits Chinese betel set comprising four containers (*cembul*) for storing betel leaves, areca nut slices, slaked lime and gambier, and a nut slicer (*kacip*) designed as the Malay mythical flying horse known as the *kuda sembrani. Courtesy of the National Museum of Singapore, National Heritage Board.*|
+#### **Constructing St Andrew’s**
 
-#### **The Decline of Betel Chewing**
+The foundation stone of the present church building was laid by the Right Reverend Daniel Wilson, Lord Bishop of Calcutta and Metropolitan of India, on 4 March 1856.[^21] It was designed by Ronald MacPherson of the Madras Artillery, who was appointed Executive Engineer and Superintendent of Convicts in Singapore. He is said to have drawn inspiration for the design from a ruined Cistercian monastery in the village of Netley in Hampshire, a county in southeast England.[^22]
 
-By the 1950s, betel chewing had reportedly fallen out of favour among younger adults in Singapore.[^40] Some 30 years later, the practice was near extinction, enjoyed only by the elderly, a remarkable decline of such an old, pervasive habit within a single generation.
+When MacPherson left for Melaka in 1857 to take up a new posting as Resident Councillor, McNair took over the responsibility as Engineer and Superintendent of Convicts, and with the assistance of John Bennett, a civil and mechanical engineer, supervised the construction of the church carried out by Indian convict labourers.[^23]
 
-Growing concerns about betel chewing’s long-term effects on health likely played a part in deterring youths from picking up the habit, and perhaps nudged some older people into reducing their chewing frequency. While *sirih* is a common ingredient in traditional Malay medicine, betel chewing from the 1930s onwards became increasingly associated with oral cancer. The purported dental benefits of chewing betel, such as the strengthening of teeth and gums, were also challenged in popular media. That said, Singapore newspapers continued to run health advisories against betel chewing as late as the 1980s, suggesting that such advice was often ignored, particularly among habitual chewers.
+After five years of construction, an opening service was held on 11 October 1861.[^24] At the time, the interiors were almost completed but the exterior and the spire were still unfinished.[^25] The church was consecrated by the Bishop of Calcutta, George Edward Lynch Cotton, on 25 January the following year[^26] although the spire would only be completed in December 1864. Construction work on the entire building finally ended in April 1865, nine years after the foundation stone was laid.[^27]
 
-Changing social and cultural attitudes were, perhaps, greater contributing factors to the quid’s demise in Singapore. Once socially acceptable, betel-stained teeth were increasingly perceived as unsightly, thanks to the circulation of images in mass media of “beautiful” people with spotless, gleaming teeth. Negative perceptions were also reinforced by unflattering portrayals of chewers in Asian literature. In a short story published in the Malay-language newspaper *Berita Harian* in 1964, the protagonist was so repulsed by his wife’s betel-stained teeth that “he wanted to jump from the window”.[^41] Meanwhile, the effect of red-stained lips caused by betel chewing, often coveted by women as a marker of beauty, was achieved by cosmetics, which replaced the increasingly unfashionable chew. In a 1994 feature in *The Straits Times*, Helena Rubenstein’s Rouge Glorious lipstick was touted as “a cross between a shine-less matt lipstick and a long-wearing one with cling-to-the-lip colour but without the betel-nut stain effect”.[^42]
+The construction of St Andrew’s faced funding constraints from the very beginning, which affected the building schedule. In an 1855 letter, Edmund Augustus Blundell, then Governor of the Straits Settlements, wrote to the Secretary to the Government of India, outlining the budget and the reliance on convict labour to keep costs down: 
 
-The habit was also often deemed unsanitary due to the frequent spitting that accompanied the chewing. When betel chewing was still widespread in Singapore, walkways and roads in the town area were covered in red blotches of spittle, prompting frequent complaints about defaced environments and hygiene issues. One writer expressed disgust at the “revolting scarlet gobs of the betel chewer” that occasionally landed on an unfortunate passer-by.[^43] Newspapers published numerous letters airing similar grievances up until the 1980s. 
+“Original estimate sanctioned in 1853 amounting to Rs. 14,985 is now, of course, wholly inadequate to effect the construction of the entire New Building suited to accommodate the large and increasing Protestant Congregation of the place… Captain Macpherson’s estimate, amounts to 120,932 Rs, but with the assistance of Convict labor, and chiefly of materials prepared by Convict labor, he reduces the actual outlay to 47,916 Rs. and I have no doubt, that by venturing on Convict labour to a still greater extent, as mentioned by him in his letter accompanying the Plan and Estimate; the Estimate of the actual outlay of money may be reduced to 40,000 Rs…”[^28]
 
-Anti-tuberculosis campaigns in the post-war decades also portrayed spitting as socially deviant and disease-spreading. Given the many negative connotations surrounding betel chewing, it was perhaps unsurprising that aspirational individuals and households found it difficult to reconcile the age-old habit with new forms of civic-mindedness and respectability in Singapore.
+Funding remained tight throughout the entire building process. In 1859, three years into its construction, the government tried to raise funds to complete the spire through loans from public subscribers.[^29] Three years later, *The Singapore Free Press* reported that “Rs. 21,784 was spent on St Andrew’s Church; the body of this fine building was completed” while “the spire is in abeyance”.[^30] This suggests that the project may not have been allocated the Rs. 40,000 estimated by Blundell.
 
-As independent Singapore pursued its modernisation plans at full throttle, betel chewing became a habit associated with the older generations and was perceived as an outdated practice. In the mid-1970s, the weekend crowd at Geylang Serai Market was described as comprising mostly the elderly who chewed betel together.[^44] In Little India, too, the main chewers were older proprietors, seated in front of their shops.[^45] By the late 1980s, the *paanwalla* was considered part of a long list of vanishing trades in Singapore, along with Indian parrot astrologers and Chinese letter writers. 
+Work progressed slowly over the next few years.[^31] In 1863, the tower with eight pinnacles, on which the base of the spire would be constructed, was built.[^32] It would take another two years before the spire was finally erected, signifying the completion of the handsome English gothic edifice.[^33] (The original design of the spire could not be realised and the spire was redesigned by Jasper Otway Mayne, an engineer in the Public Works Department.) In total, the construction of the church took nine years: five years to complete the main building and interiors, and another four for the tower and spire.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewing-sitandstand.png">
+One of the casualties of the tight funding was the plastering work. In 1859, *The Singapore Free Press* wrote that because the “proposal of a Government Loan for the completion of the Church has not produced any favourable effect… not a single man is now allowed to work there – that the small number of Convicts allowed for plasterers of the interior have been withdrawn”.[^34]
 
-(Left) A <i>paanwalla</i>, or betel quid vendor, at his stall, 1968. By the 1980s, as betel chewing had fallen out of favour, these vendors, once a ubiquitous sight in Singapore, joined the ranks of a long list of vanishing trades. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
+#### **Putting It All Together**
 
-(Right) A woman with a chew in her mouth, 1955. Betel chewing was a habit indulged in by many women in early Singapore. <i>Donald Moore Collection, courtesy of National Archives of Singapore.</i>
+We know from Holman’s account that the production process for the plaster – from preparation and application to completion, especially for the final finishing coat – is both laborious and labour-intensive. Given the challenges of limited funds and a labour shortage, it is certainly possible that Madras *chunam* was not used at all, or if it was, only in a very limited fashion.
 
-</div>
+Some other clues emerged from newspaper archives. In 1949, the cathedral had to undergo major repair work as the structure had suffered damage during the Japanese Occupation (1942–45) when it was used as a hospital.[^35] A 1949 article in *The Malayan Tribune* reported that the “original walls of ‘Madras *chunam*’… are being replaced by plaster…” and that the colour scheme would be changed from grey to white on the interiors and grey on the exterior.[^36]
 
-#### **Contemporary Consumption**
+Based on this account, the interior of the church in 1949 was grey before the repair work. The key point to note is this: if the church’s interior was indeed executed in Madras *chunam* as McNair had asserted, the colour is unlikely to be grey. This is because only the purest and whitest of shells are used in the production of Madras *chunam*, and great care is taken to ensure its pristine whiteness. As such, the mention of the grey interior walls suggests that the walls were not plastered with Madras *chunam* when the building was first built, or possibly, that the material was replaced at some point thereafter. 
 
-The 1980s saw the Singapore government vigorously courting the tourist dollar and Little India was developed into a tourist attraction. As a result, the *paanwalla* were retained and co-opted into the government’s plan to inject “local flavour” into the area.[^46] In this vision, a guided tour in Little India would not be complete without a visit to the *paanwalla* for a betel chewing demonstration, where tourists could marvel at his red saliva and stained teeth.[^47] Betel chewing was thus presented as an object of fascination in a reordered, modern and sanitised city. 
+In the absence of any physical confirmation or other published documentation to confirm the presence of Madras *chunam* in St Andrew’s, the only evidence for it then is McNair’s account. Could McNair be mistaken? His book, *Prisoners Their Own Warders*, was published in 1899, some 34 years after the completion of the church, so a faulty memory cannot be ruled out. 
 
-The betel quid trade in Singapore today is largely supported by migrants and visitors from countries like Bangladesh, India and Myanmar, where betel chewing remains widespread. A handful of vendors still operate in areas frequented by migrants, such as Little India and Peninsula Plaza. One may also encounter the betel quid in Indian restaurants. Green bundles are strategically placed on trays located near the cashier so that patrons can grab one for a post-meal chew while paying their bill.
+An alternative explanation is that Madras *chunam* was indeed used as described by McNair, but only in a very limited fashion because of budgetary constraints. 
 
-In most homes today, betel chewing lives on, if at all, in the memories of those who recall their elderly relatives indulging in the habit:
+Without a comprehensive examination, we cannot know with any certainty if Madras *chunam* was actually used in St Andrew’s. And even if we were able to conduct comprehensive experiments that returned negative results, there is still a possibility that Madras *chunam* was used initially, but subsequently removed.
 
-“I can still see [grandma], fragile and lovely in her *sarong kebaya*, her bun immaculate even at that hour, each ornate *cucuk sanggul* in place. Beside her was the betel set that was her trademark, each tiny container holding mystery none of her grandchildren would ever fathom. With each story she delicately prepared and chewed a betel quid, weaving a spell that held us entranced.”[^48]
+Having weighed the historical evidence – the budgetary constraints that affected the progress of construction and the grey walls in 1949 – and given the results of the trials and repairs conducted in the last decade, there is sufficient evidence to say that Madras *chunam* was never actually used in St Andrew’s. Regrettably, however, we will never know for sure.
 
-|The authors would like to thank Gayathrii Nathan and Toffa Abdul Wahed for their research assistance and for reviewing an early draft of the article; Dr Azhar Ibrahim for his thoughts on the subject; and Baba G.T. Lye for participating in the interview. Initial research for this article was conducted for “Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption”, a collaborative project supported by the Heritage Research Grant of the National Heritage Board, Singapore.[^49]|
+|The author would like to acknowledge Wee Sheau Theng for her invaluable assistance in the course of this research.|
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/authors/FionaLim.png" style="width: 100px; height: 100px;" />
-<b>Fiona Lim</b> is a freelance writer, editor and researcher. She is interested in the complexities of cities and their people.
-</div>
 
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/authors/GeoffreyPakiam.png" style="width: 100px; height: 100px;"/>
-<b>Dr Geoffrey Pakiam</b> is a Fellow at ISEAS – Yusof Ishak Institute in Singapore. He works on the history of commodities and is currently researching the interplay between livelihoods, consumer cultures and the environment of the Malay world.
+<b>Dr Yeo Kang Shua</b> is Associate Professor of Architectural History, Theory and Criticism, and Associate Head of Pillar (Research/Practice/Industry) at the Singapore University of Technology and Design.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
-[^1]: Here, *sirih* refers to the betel quid, but *sirih* is also the Malay term for the betel leaf. 
-[^2]: Miksic, J. (2013). *[Singapore & the Silk Road of the sea, 1300–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868)* (p. 316). Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
-[^3]: Zumbroich, T.J. (2008). The origin and diffusion of betel chewing: A synthesis of evidence from South Asia, Southeast Asia and beyond. *eJournal of Indian Medicine, 1* (3), 87–140, p. 99. Retrieved from University of Groningen Press website. 
-[^4]: Reid, A. (1985, May). From betel-chewing to tobacco-smoking in Indonesia. *Journal of Asian Studies, 44* (3), 529–547, pp. 529–530. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^5]: Raghavan, V., & Baruah, H.K. (1958). Arecanut: India’s popular masticatory: History, chemistry and utilization. *Economic Botany, 12* (4), 315–345, pp. 317–318. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^6]: Betel chewing arrived in northern India later, around 500 BCE. See Zumbroich, 2008, pp. 114, 119.
-[^7]: *[Dondang sayang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_495_2004-12-20.html)* is a traditional poetic art form associated with the Malay and Straits  Chinese communities in Singapore and Malaysia. See National Library Board. (2015, March 9). *Dondang sayang*  written by Stephanie Ho. Retrieved from Singapore Infopedia website.
-[^8]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
-[^9]: Mardiana Abu Bakar. (1987, October 12). [The betel leaf and its role in Malay life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871012-1.2.64.8.1). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
-[^10]: Rohel, J. (2017). Empire and the reordering of edibility: Deconstructing betel quid through metropolitan discourses of intoxication. *Global Food History, 3* (2), 150–170, p. 156. Retrieved from Taylor & Francis Group website. 
-[^11]: Zumbroich, 2008, p. 90.
-[^12]: Reid, May 1985, pp. 529–530.
-[^13]: How dangerous is betel nut? (2014, October 10). Retrieved from Healthline website.
-[^14]: Wee, A. (1987, January 29). [Misinformation on Little India](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870129-1.2.20.18). *The Straits Times*, p. 11; Wee, A. (1987, April 7). [Trainee guides get tips on Little India](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870407-1.2.37.27). *The Straits Times*, p. 15; [To Mecca](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120913-1.2.10). (1912, September 13). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.
-[^15]: Neither the betel quid nor its respective ingredients were particularly significant in the cultures of the Chinese and Eurasians in Singapore. Goh, B.-L. (2018). *[Modern dreams: An inquiry into power, cultural production, and the cityscape in contemporary urban Penang, Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11110271)* (p. 131). Ithaca, NY: Cornell University. (Call no.: RSEA 307.76095951 GOH); Choo, C., et al. (2007). Being Eurasian (p. 109). In M. Perkins (Ed.), *Visibly different: Face, place and race in Australia*. Switzerland: Peter Lang Verlag. (Not available in NLB holdings); Nirmala, M. (2003, July 4). [All are welcome at new Eurasian House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030704-1.2.29.15). *The Straits Times*, p. 27. Retrieved from NewspaperSG.
-[^16]: Zumbroich, 2008, p. 90.
-[^17]: Ponnudurai, V.R. (1951, August 25). [Chewing the betel](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88). *The Singapore Free Press*, p. 9. Retrieved from NewspaperSG.
-[^18]: Reid, A. (1988). *[Southeast Asia in the age of commerce 1450–1680](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4305251)* (Vol. 1, p. 41). New Haven; London: Yale University Press. (Call no.: RSEA 959 REI)
-[^19]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^20]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
-[^21]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^22]: A form of address for elderly Peranakan Chinese women.
-[^23]: [Grand dames bring life to the museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870906-1.2.29.17). (1987, September 6). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
-[^24]: Lee, L.H. (1949, July 8). [Keeping on the right side of all the gods](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490708-1.2.58). *The Malaya Tribune*, p. V. Retrieved from NewspaperSG.
-[^25]: Gwee, T.H. (2013). *[A nyonya mosaic: Memoirs of a Peranakan childhood](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684877)* (p. 60). Singapore: Marshall Cavendish. (Call no.: RSING 959.57030922 GWE)
-[^26]: [8,000 labourers on strike in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19361202-1.2.46). (1936, December 2). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
-[^27]: Orme, W.B. (1914, February 7). Makan sireh. *The British Medical Journal, 1* (2771), 325–326, p. 326. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^28]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120913-1.2.10)*, 13 Sep 1912, p. 3; [Reid](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4305251), 1988, p. 43.
-[^29]: [Gwee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684877), 2013, p. 81.
-[^30]: Neo, D., & Rathabai, J. (2015). Elaborate customs and rituals. *The Peranakan*, (2), p. 16. Retrieved from The Peranakan Association Singapore website.
-[^31]: Norhuda Salleh. (2015). Tepak sireh: Interpretation and perception in Malay wedding customs. *INTCESS15 – 2nd International Conference on Education and Social Services* (pp. 1185–1186). Retrieved from International Organisation Center of Academic Research website. 
-[^32]: Warisan SG. (2015). *Sacred sirih: Traditions and symbolism in the Malay world Part 1* [Video]. Retrieved from YouTube.
-[^33]: Menon, V. (1981, November 20). [The betel and its role in Hindu functions](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811120-1.2.169.8.2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^34]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^35]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^36]: Norhuda Salleh, 2015, p. 1184.
-[^37]: Chia, F. (1994). *[The Babas revisited](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6790835)* (p. 102). Singapore: Heinemann Asia. (Call no.: RSING 309.895105957 CHI)
-[^38]: [Hunt for ethnic costumes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930119-1.2.33.4). (1993, January 19). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
-[^39]: *[The wispy see-through kebaya tantalised many a Baba youth...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760512-1.2.52.1)* (1976, May 12). *New Nation*, pp. 10–11. Retrieved from NewspaperSG.
-[^40]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 15 Aug 1951, p. 9; [Betel nuts? We’ll stick to lipstick, say women](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520730-1.2.106). (1952, July 30). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
-[^41]: Text is translated from Malay. Abdullah Othman. (1964, December 31). [Ada jua yang tiada](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19641231-1.2.66). *Berita Harian*, p. 6. Retrieved from NewspaperSG.
-[^42]: [Smooth operators](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940707-1.2.61.5.3.2). (1994, July 7). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
-[^43]: Peet, G. (1977, April 2). [An old timer on the five-foot-way](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770402-1.2.80). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
-[^44]: Holmberg, J. (1975, February 1). [The old ‘new market’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750201-1.2.18.1.1). *New Nation*, p. 7. Retrieved from NewspaperSG.
-[^45]: Tan, F. (1975, May 17). [Teck Kah… or the place under the bamboo](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750517-1.2.16.1). *New Nation*, p. 7. Retrieved from NewspaperSG.
-[^46]: [Hole-in-the-wall stores at Little India to stay](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920611-1.2.59.4). (1992, June 11). *The Straits Times*, p. 40. Retrieved from NewspaperSG.
-[^47]: Lim, J., & Lim, Y.L. (2012, November 3). [Enjoy the city’s charms](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121103-1.2.134.3). *The Straits Times*, p. 3; Lim, S.N. (1989, April 5). [Giving old attractions new life](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19890405-1.2.29.2). *The Business Times*, p. 10; Ng, I., & Fernandez, W. (1987, August 13). [Arab Street and Little India captivate tourists](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870813-1.2.28.17). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
-[^48]: Juita. N. (1989, May 10). [Remembering the childhood joys of past Hari Rayas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890510-1.2.35.2). *The Straits Times*, p. 20. Retrieved from NewspaperSG. [*Sarong kebaya* is the outfit worn by Malay and Peranakan women, comprising a sheer fabric blouse paired with a *batik sarong* skirt. *Cucuk sanggul* is a hair pin for securing the bun.]
-[^49]: Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Heritage Board, Singapore.
+[^1]: St Andrew’s Cathedral is the second church building on the site of the original St Andrew’s Church, named after the patron saint of Scotland. The original building was designed by Government Superintendent of Public Works George D. Coleman and completed in 1836. After the spire of the church had been struck by lightning in 1845 and 1849, the building was considered unsafe and later demolished. The second St Andrew’s Church was completed in 1865. It was consecrated as a cathedral in 1870 and became known as St Andrew’s Cathedral. See Cornelius-Takahama, V. (2017). St Andrew’s Cathedral. Retrieved from Singapore Infopedia, National Library Singapore.
+
+[^2]: McNair, J.F.A., & Bayliss, W.D. (1899). Prisoners their own warders: A record of the convict prison at Singapore established 1825, discontinued 1873, together with a cursory history of the convict establishments at Bencoolen, Penang and Malacca from the Year 1797. Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)
+
+[^3]: McNair & Bayliss, 1899, pp. 98–100.
+
+[^4]: Town and country. (1928, July 7). The Straits Times, p. 10; Cathedral bells silent for first time in fifty years. (1936, March 29). The Straits Times, p. 28; Cathedral’s walls were coated with egg. (1949, September 13). The Malaya Tribune, p. 2; Davies, D. (1954, October 24). Convicts and the whites of eggs. The Straits Times, p. 14; The hazards of photography 100 years ago. (1957, July 7). The Straits Times, p. 12; St. Andrew’s Cathedral. (1971, September 17). New Nation, p. 9; Chandy, G. (1979, December 3). Christmas was special event even then. New Nation, p. 9; Chia, A. (1981, July 19). Peace and quiet pervades its grounds. The Straits Times, p. 4; Teh, J.L. (2003, June 5). Fewer cars might help this building last longer. The New Paper, p. 4; Ng, J.X. (2013, April 2). White church, colourful past. The Straits Times, p. 8. Retrieved from NewspaperSG; Liu, G. (1996). In granite and chunam: The national monuments of Singapore (p. 174). Singapore: Landmark Books and Preservation of Monuments Board. (Call no.: RSING 725.94095957 LIU); Tan, B. (2015, October–December). Convict labour in colonial Singapore. BiblioAsia, 11 (3), pp. 36–41. Retrieved from BiblioAsia website.
+
+[^5]: Keys, P. (1981, June 14). Terrace houses. The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^6]: Edwards, N., & Keys, P. (1988). Singapore: A guide to buildings, streets, places (p. 114). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
+
+[^7]: Toh, W.L. (2017, November 2). Once upon a glorious time at the Istana. The Straits Times, p. 15. Retrieved from NewspaperSG.
+
+[^8]: McNair & Bayliss, 1899, pp.103–104.
+
+[^9]: Zaccheus, M. (2016, November 17). Caring for a 154-year-old Matriarch. The Straits Times, p. 14. Retrieved from NewspaperSG. 
+
+[^10]: Vicat, L.-J. (1837). A practical and scientific treatise on calcareous mortars and cements, artificial and natural (p. 176). London: John Weale. (Not available in NLB holdings)
+
+[^11]: Holman, J. (1840). Travels in Madras, Ceylon, Mauritius, Cormoro Islands, Zanzibar, Calcutta, etc. etc (pp. 420–425). London: George Routledge. (Not available in NLB holdings)
+
+[^12]: McNair & Bayliss, 1899, pp. 98–100.
+
+[^13]: Treese, S.A. (2018). History and measurement of the base and derived units (p. 429). Switzerland: Springer International Publishing. (Not available in NLB holdings)
+
+[^14]: McNair, J.F.A., & Bayliss, W.D. (1899). Prisoners their own warders: A record of the convict prison at Singapore established 1825, discontinued 1873, together with a cursory history of the convict establishments at Bencoolen, Penang and Malacca from the Year 1797 (p. 111). Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)
+
+[^15]: Tesi, T. (2009). The effect of linseed oil on the properties of lime-based restoration mortars [Unpublished PhD thesis]. Universita di Bologna. Retrieved from Core website; Nunes, C., & Slizkova, Z. (2014, July–August). Hydrophobic lime-based mortars with linseed oil: Characterization and durability assessment. Cement and Concrete Research, 61–62, 28–39; Nunes, C., et al. (2018, November 20). Influence of linseed oil on the microstructure and composition of lime and lime-metakaolin pastes after a long curing time. Construction and Building Materials, 189, 787–796. Retrieved from ResearchGate.
+
+[^16]: Fang, S., et al. (2014, January). A study of Tung-oil-lime putty – A traditional lime-based mortar. International Journal of Adhesion and Adhesives, 48, 224–230; Zhao, P., et al. (2015, June). Material characteristics of ancient Chinese lime binder and experimental reproductions with organic admixtures. Construction and Building Materials, 84, 477–488. Retrieved from ResearchGate.
+
+[^17]: Ventola, L. et al. (2011, August). Traditional organic additives improve lime mortars: New old materials for restoration and building natural stone fabrics. Construction and Building Materials, 25 (8), 3313–3318. Retrieved from ResearchGate.
+
+[^18]: Md Azree Othuman Mydin. (2017, October). Preliminary studies on the development of lime-based mortar with added egg white. International Journal of Technology, 8 (5), 800–810, p. 800; Md Azree Othuman Mydin. (2018). Physico-mechanical properties of lime mortar by adding exerted egg albumen for plastering work in conservation work. Journal of Materials and Environmental Sciences, 9 (2), 376–384. Retrieved from ResearchGate.
+
+[^19]: Rencoret, J., et al. (2013, March). Structural characterization of lignin isolated from coconut (Cocos nucifera) coir fibers, Journal of Agricultural and Food Chemistry, 61 (10), 2434–2445. Retrieved from ResearchGate.
+
+[^20]: Navaratnarajah, S., et al. (2017, July 1). Performance of coconut coir reinforced hydraulic cement mortar for surface plastering application. Construction and Building Materials, 142, 23–30. Retrieved from ResearchGate.
+
+[^21]: Untitled. (1856, March 4). The Straits Times, p. 4; 
+St. Andrews. (1870, April 30). The Straits Times, p. 1; Untitled. (1870, December 24). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^22]: Straits Times Saturday, Oct. 12, 1861. (1861, October 12). The Straits Times, p. 19. Retrieved from NewspaperSG; McNair & Bayliss, 1899, pp. 71–74, 97. 
+
+[^23]: McNair & Bayliss, 1899, pp. 71–74, 97; The Straits calendar and directory for 1861 (pp. 26–27). (1861). Singapore: Printed at the Commercial Press. Retrieved from BookSG. In the Straits Times article, John Bennett was named the Executive Engineer while J.F.A. McNair was not mentioned. However, in McNair’s Prisoners Their Own Warders, it is mentioned that a Captain Purvis of the Madras Artillery had succeeded MacPherson in the role of Engineer and Superintendent of Convicts in 1857 but relinquished his position a year later. McNair then succeeded him, while Bennett was Assistant Superintendent of Convicts. Upon verification with The Straits Calendar and Directory for 1861, McNair was on leave in Europe and Bennett, who held the positions of Special Assistant Engineer and Deputy Superintendent of Convicts, was thus officiating as both the Executive Engineer and the Superintendent of Convicts in McNair’s absence.
+
+[^24]: The Straits Times, 12 Oct 1861, p. 19. It is interesting to note, however, that the church was recorded as opened for service on 6 October 1861 in The Straits Calendar and Directory for 1861. See The Straits calendar and directory for 1861, 1861, p. 42.
+
+[^25]: During construction, the original design of the spire by Ronald MacPherson was deemed unsuitable due to supposed settlement issues and thus said to have been redesigned by Jasper Otway Mayne, an engineer with the Public Works Department. See The Straits Times, 24 Dec 1870, p. 1.
+
+[^26]: McNair & Bayliss, 1899, p. 74; The Straits calendar and directory for 1863 (p. 20). (1863). Singapore: Printed at the Commercial Press. Retrieved from BookSG.
+
+[^27]: The Singapore Free Press: Notes on the annual report on the administration of the Straits Settlement for the year 1864–65. (1865, August 31). The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG; The Straits calendar and directory for 1865 (p. 21). (1865) Singapore: Printed at the Commercial Press. Retrieved from BookSG; The Straits Times, 24 Dec 1870, p. 1. 
+
+[^28]: Blundell, E.A. (1856, May 6). The editor’s room. The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[^29]: Correspondence: Government loan. (1859, August 25). The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG.
+
+[^30]: Page 3 Advertisement Column 1: Ecclesiastical. (1862, June 26). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
+
+[^31]: Singapore: Saturday, 12 Nov. 1859. (1859, November 12). The Straits Times, p. 2; Straits Times Saturday, Oct. 12, 1861. (1861, October 12). The Straits Times, p. 19; News of the Week. (1863, April 11). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^32]: St. Andrew’s Church. (1863, October 17). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^33]: The Singapore Free Press, 31 Aug 1865, p. 2.
+
+[^34]: Correspondence. (1859, September 8). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
+
+[^35]: Singapore on February 15, 1942. (1946, February 15). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^36]: The Malaya Tribune, 13 Sep 1949, p. 2; Lim, S.J. (1996, November 30). Places of worship steeped in history. The Straits Times, p. 10. Retrieved from NewspaperSG.
