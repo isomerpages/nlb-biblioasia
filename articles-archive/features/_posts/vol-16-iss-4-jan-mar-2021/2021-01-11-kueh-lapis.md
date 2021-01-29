@@ -29,15 +29,21 @@ The author’s home-made <i>kueh lapis legit</i>. This is an iconic cake for Ind
 
 When I was young, *kueh lapis legit*[^1] would announce its presence in my family kitchen long before anyone got to taste it. The first portent was the careful shepherding of precious bottles of spice powders and brandy. The next sign was the buying of many eggs and much butter. On baking day, the kitchen thrummed with signals: the loud rhythm of batter vigorously beaten; the steady cadence of spread batter thinly, grill it until brown, press out bubbles, brush with butter, then repeat; and the rippling scent-waves of sizzling butter and caramelising crust. Anticipation ran at a fever pitch, or perhaps that was just the heat nimbus of our Baby Belling oven.
 
-*Kue lapis legit* and its sister confection *spekkoek* (more of that sisterhood later) are iconic cakes for Indonesians, Malays – especially those with some Javanese heritage – and Peranakan Chinese. Major festivals such as Hari Raya and the Lunar New Year would not be complete without tables graced by these tiered touchstones. These communities have roots and branches in the milieus of maritime Southeast Asia’s Dutch colonial era, which saw the flowering of many hybrid foodways. “Most of us who live in cities known for rich colonial history, like Jakarta, Palembang, Bangka, Semarang, Surabaya and Bandung, are familiar with *lapis legit* and *spekkoek* as [legacies of] Dutch influence,” says Indonesian food writer, author and restaurant pundit Kevindra Soemantri.[^2]
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/kuehlapis/FreshBakedLapis.jpg">
 The author’s home-made <i>kueh lapis legit</i>. This is an iconic cake for Indonesians, Malays and the Peranakan Chinese. <i>Courtesy of Christopher Tan</i>.
 </div>
 
+*Kue lapis legit* and its sister confection *spekkoek* (more of that sisterhood later) are iconic cakes for Indonesians, Malays – especially those with some Javanese heritage – and Peranakan Chinese. Major festivals such as Hari Raya and the Lunar New Year would not be complete without tables graced by these tiered touchstones. These communities have roots and branches in the milieus of maritime Southeast Asia’s Dutch colonial era, which saw the flowering of many hybrid foodways. “Most of us who live in cities known for rich colonial history, like Jakarta, Palembang, Bangka, Semarang, Surabaya and Bandung, are familiar with *lapis legit* and *spekkoek* as [legacies of] Dutch influence,” says Indonesian food writer, author and restaurant pundit Kevindra Soemantri.[^2]
+
 Modern makeovers have spawned a multiplicity of *lapis* varieties – patterned in bright colours; flavoured with fresh or dried fruit, cheese or coffee or chocolate; rolled up into logs; or carved and rearranged like intricate marquetry. A comprehensive 1986 Indonesian recipe book, *Hidangan Ringan: Party Snacks*, includes 11 different variations on the theme, to the tune of *cempedak*, durian, mocha and more.[^3] However, the classic version remains the most revered incarnation: a soft, rich European-style butter cake infused with spices native to the Indonesian Archipelago, cooked one layer at a time under a hot grill.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/kuehlapis/ModernRolledLapis.jpg">
+A modern rolled variation of <i>kue lapis legit</i> with a flower-shaped cross-section. <i>Courtesy of Christopher Tan</i>.
+</div>
 
 #### **Peeling Back the Years**
 
@@ -85,7 +91,7 @@ The other two *inlandsche* recipes are classic *spekkoek*, and both require “t
 
 |For convenience’s sake, you can also make this cake using only the first batter, and after every layer is baked, sprinkle it well with the mixed spices, and then top with the batter again.|
 
-|<img src="/images/Vol-16-issue-4/kuehlapis/SpekkoekRecipe.png">Javanese *kue lapis* and *spekkoek* recipes in the *Groot Nieuwe Volledig Oost-Indische Kookboek*, published in 1925. *Reproduced from van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great New Complete East Indies Cookbook] (p. 305). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings)*.|
+|<img src="/images/Vol-16-issue-4/kuehlapis/JavaneseKueRecipes.png">Javanese *kue lapis* and *spekkoek* recipes in the *Groot Nieuwe Volledig Oost-Indische Kookboek*, published in 1925. *Reproduced from van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great New Complete East Indies Cookbook] (p. 305). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings)*.|
 
 |**NOTES**|
 
@@ -127,6 +133,12 @@ Many examples of both variants have appeared in Singaporean recipe books over th
 
 A 1957 *Straits Times* article records a *spekkoek* recipe by a Mrs Rosaleen Yang, who baked alternating plain and cocoa-spiked batters in “a copper or brass pan”.[^15] A similar recipe for *Lapis Betawi* (Batavia, as Jakarta was called under the Dutch) appeared in *Berita Harian* in 1968, which called for a generous amount of spice to augment the cocoa.[^16]
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/kuehlapis/VintageBrass.jpg">
+A vintage brass pan of the type used for baking <i>kueh lapis legit></i>. Note the “scars” on the lid left by hot coals. <i>Courtesy of Christopher Tan</i>.
+</div>
+
 In 1981, the *New Nation* published Nonya doyenne and cookbook author Mrs Leong Yee Soo’s single-batter Speckok Kueh Lapis Batavia recipe, which details the importance of pricking each cooked layer with a skewer to deflate bubbles and create microscopic holes for the next layer’s batter to flow in, for better adhesion.[^17] In 1977, the *Straits Times* featured a recipe by one Cik Khatijah Ashiblie for Lapis Mascovrish, whose vanilla batter was layered with almonds and raisins.[^18]
 
 Outside of home kitchens, only a few stores in Singapore made or imported *spekkoek* and *kue lapis* in the early 20th century. One such establishment was the Java Restaurant (originally Mooi Thien Restaurant) on North Bridge Road – described in a 1950 *Straits Times* article as being “not unlike a Paris bistro”[^19] – where founder Lim Djin Hai and his family served both Javanese and European food in the late 1940s. Prior to emigrating to Singapore in 1946, Lim was a caterer in his hometown of Bencoolen (now Bengkulu), where one of his clients was the then Governor-General of the Dutch East Indies. (Java Restaurant later moved to Killiney Road, morphing into the Java Provision Store, where for over 25 years it purveyed home-baked and imported Indo-Dutch goods.)
@@ -151,16 +163,6 @@ Here is a curious similarity though: *baumkuchen* is traditionally flavoured wit
 Pressing a freshly baked <i>lapis legit</i> layer to flatten and smoothen it, and spreading batter for the next layer. <i>Courtesy of Christopher Tan</i>.
 </div>
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewing-sitandstand.png">
-
-(Left) A <i>paanwalla</i>, or betel quid vendor, at his stall, 1968. By the 1980s, as betel chewing had fallen out of favour, these vendors, once a ubiquitous sight in Singapore, joined the ranks of a long list of vanishing trades. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
-
-(Right) A woman with a chew in her mouth, 1955. Betel chewing was a habit indulged in by many women in early Singapore. <i>Donald Moore Collection, courtesy of National Archives of Singapore.</i>
-
-</div>
-
 A more plausible progenitor for *kue lapis legit* may be the layer cakes traditionally made in southern China to celebrate the annual Double Ninth festival – recipes which travelled to maritime Southeast Asia with the Chinese diaspora. Chiefly rice-based, these cakes are steamed layer by layer, frequently with alternating batters of different colours, often tinted with – yes – red yeast rice. Chinese communities in Southeast Asia still make these today; in Indonesia they are simply called *kue lapis*, but old Dutch and Indonesian cookbooks identify them as *kue lapis cina*[^22] or *kue lapis jawa*. In *Kue-Kue Manasuka*, Sitti Nur Zainuddin-Moro records a Batavian recipe for a red and white version called “Lapis Merah Putih (Betawi)”.23
 
 The auspicious Chinese saying and wish for success 歩歩高升 (*bu bu gao sheng*, which means “rising step by step”) is embodied by both steamed and baked *lapis*. For the Indonesian Chinese, *lapis legit* “is always related to celebration, and for them, its many layers equal prosperity,” says Soemantri.[^24]
@@ -175,7 +177,19 @@ The city lays claim to several *lapis* varieties. Some are modern glosses on the
 
 One of them, *kue maksuba*, is made using chicken and/or duck eggs, butter or margarine, sugar, condensed milk and vanilla, with flour in miniscule quantity or, most often, entirely absent. Essentially a hyper-rich custard, *kue maksuba* has a smooth solidity not unlike the Malay *kuih bakar*, with less of a cake-like vibe than orthodox *spekkoek*.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/kuehlapis/SteamedRicelapis&HomemadeKue.jpg">
+Steamed rice-based <i>kue lapis</i> for sale at a <i>kue pasar</i> (market) in Jakarta. <i>Courtesy of Christopher Tan</i>.
+</div>
+
 The other *lapis* variety, *kue engkak ketan*, has the same ingredients as *kue maksuba*, plus two key elements: glutinous rice flour, and *blondo* or *glondo* – thick coconut milk which has been boiled until some of its oil has separated out. The oily sheen from the *blondo* and a faint springiness from the glutinous rice flour strongly recall steamed *kue lapis cina*, while the heavy doses of butter and condensed milk bestow a European richness. However, the airlessly dense wheat-free crumb and the lack of spice means the resemblance to *spekkoek* is only partial.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/kuehlapis/SteamedRicelapis&HomemadeKue.jpg">
+Home-made <i>kue engkak ketan</i>, composed of glutinous rice flour, eggs, butter, sugar, condensed milk, and <i>blondo</i> – boiled, oily coconut milk. <i>Courtesy of Christopher Tan</i>.
+</div>
 
 *Kue engkak ketan* reminds me strongly of another sweet, one from Goa, India. *Bebinca*, also called *bibinca8 or *bibik*, is a colonial legacy said to be a Portuguese recipe but tweaked with local ingredients. It has many *spekkoek*-like traits, first and foremost a very rich batter made of egg yolk and coconut milk, with comparatively little wheat flour, and spiced with cardamom and nutmeg. *Bebinca* is traditionally “baked” layer by layer – some recipes specify seven layers, others multiples of seven – under a pot lid holding burning wood or coconut husks, with clarified butter brushed over each layer. It must rest for several hours before being sliced. In terms of flavour and texture, *bebinca* sits squarely between *spekkoek* and *kue engkak ketan*.
 
