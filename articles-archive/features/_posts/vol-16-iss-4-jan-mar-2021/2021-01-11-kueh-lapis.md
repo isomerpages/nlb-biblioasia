@@ -186,7 +186,7 @@ I could not agree more. If mindfully made, each spice-flecked strata should be a
 Having taken over *lapis*-making duties from my elders, I understand more keenly why this *kueh* and its kin have enjoyed such longevity and such exalted status. Refining and notating my family’s *lapis legit* recipe for my book, *The Way of Kueh*,[^31] took me months of research and testing, over 1,300 words and finally three pages of text and photos to do it full justice. Yes, *lapis legit* and *spekkoek* require significant mental and physical investment, but when they are imbued with care and commitment, their glory – and the accompanying feeling of achievement – transcends every ounce of expended effort. Master this cake, and you can truly say you have earned your stripes.
 
 <div class="infobox"> 
-<img src="/images/Vol-16-issue-4/kuehlapis/TheWayOfKueh.png" style="width: 300px; height: 250px;"/>
+<img src="/images/Vol-16-issue-4/kuehlapis/TheWayOfKueh.png" style="width: 400px; height: 300px;"/>
 Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN). It also retails at major bookshops in Singapore.
 </div>
 
@@ -244,7 +244,7 @@ Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s H
 
 [^22]: Koopmans-Gorter, A., & De Boer-De Jonge, G.A.M. (1925). *Het nieuwe kookboek* [The new cookbook] (p. 307). Groningen: P. Noordhoff. (Not available in NLB holdings)
 
-[^23]: Delicacies and titbits for Hari Raya. (1983, July 5). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^23]: [Delicacies and titbits for Hari Raya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830705-1.2.94.6.1). (1983, July 5). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 [^24]: Keasberry, J. (2019, February 25). *Spekkoek and kue lapis legit differences revealed*. Retrieved from Cooking with Keasberry website.
 
