@@ -32,7 +32,7 @@ When I was young, *kueh lapis legit*[^1] would announce its presence in my famil
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/kuehlapis/FreshBakedLapis.jpg">
-The author’s home-made <i>kueh lapis legit</i>. This is an iconic cake for Indonesians, Malays and the Peranakan Chinese. <i>Courtesy of Christopher Tan</i>.
+Pressing a freshly baked <i>lapis legit</i> layer to flatten and smoothen it, and spreading batter for the next layer. <i>Courtesy of Christopher Tan</i>.
 </div>
 
 *Kue lapis legit* and its sister confection *spekkoek* (more of that sisterhood later) are iconic cakes for Indonesians, Malays – especially those with some Javanese heritage – and Peranakan Chinese. Major festivals such as Hari Raya and the Lunar New Year would not be complete without tables graced by these tiered touchstones. These communities have roots and branches in the milieus of maritime Southeast Asia’s Dutch colonial era, which saw the flowering of many hybrid foodways. “Most of us who live in cities known for rich colonial history, like Jakarta, Palembang, Bangka, Semarang, Surabaya and Bandung, are familiar with *lapis legit* and *spekkoek* as [legacies of] Dutch influence,” says Indonesian food writer, author and restaurant pundit Kevindra Soemantri.[^2]
@@ -130,12 +130,6 @@ The early origin stories of *spekkoek* and *lapis legit* remain largely unknown,
 Some have suggested *spekkoek* has its origins in the German *baumkuchen*, the “tree-ring” cake considered the ultimate test and accomplishment of a *konditormeister* (master pastry chef). However, *baumkuchen* has a drier texture than *spekkoek* and is made using a different method: its cylindrical layers are built up around a rotating spit. Also, German records clearly trace its evolution from a dough-based cake in the 1500s into the batter-based form known from the 1700s until today.[^32] “There is no significant record of Prussian people in Indonesia,” says Soemantri, but “perhaps *baumkuchen* influenced the original Dutch *spekkoek*”.[^33]
 
 Here is a curious similarity though: *baumkuchen* is traditionally flavoured with spices (cinnamon, cardamom, nutmeg, ginger or vanilla), citrus, nuts (most often almonds) and liquor. The oldest *spekkoek* recipe I have come across, from *Kokki Bitja*, calls for clove, cardamom, white pepper, *jeruk cina* (mandarin orange) zest, kenari nuts and brandy. Mere coincidence or distant cousinhood?
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/FreshBakedLapis.jpg">
-Pressing a freshly baked <i>lapis legit</i> layer to flatten and smoothen it, and spreading batter for the next layer. <i>Courtesy of Christopher Tan</i>.
-</div>
 
 A more plausible progenitor for *kue lapis legit* may be the layer cakes traditionally made in southern China to celebrate the annual Double Ninth festival – recipes which travelled to maritime Southeast Asia with the Chinese diaspora. Chiefly rice-based, these cakes are steamed layer by layer, frequently with alternating batters of different colours, often tinted with – yes – red yeast rice. Chinese communities in Southeast Asia still make these today; in Indonesia they are simply called *kue lapis*, but old Dutch and Indonesian cookbooks identify them as *kue lapis cina*[^34] or *kue lapis jawa*. In *Kue-Kue Manasuka*, Sitti Nur Zainuddin-Moro records a Batavian recipe for a red and white version called “Lapis Merah Putih (Betawi)”.[^35]
 
