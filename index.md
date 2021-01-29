@@ -44,4 +44,3 @@ sections:
         alt: sample of light
         
 ---
----
