@@ -19,7 +19,7 @@ table {
 </style>
 
 
-#### What lies in this vale of tiers? **Christopher Tan** delves into *lapis legit*, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers. 
+#### Many generations of Singaporeans have shopped in Robinsons since its founding in 1858. *Gracie Lee* and *Kevin Khoo* highlight some milestones in its illustrious history.
 
 <div style="background-color: white;">
 <br/>
@@ -29,143 +29,21 @@ A <i>sirih</i> seller, Indonesia, late 19th–early 20th centuries. <i>Courtesy 
 
 </div>
 
-Betel chewing has been practised for thousands of years in Asia. Across Southeast Asia, betel chewing (*makan sirih*[^1] in Malay) was once a social necessity. The practice was also deeply embedded in Indian and Peranakan communities. However, the rich symbolism in the various elements of betel chewing, as well as the important social and cultural functions that it once served, has often been overshadowed by the visual spectacle of the betel chewers, with their black-stained teeth, crimson lips, scarlet saliva and proclivity for spitting. 
+After surviving 162 years, the Great Depression, being bombed by the Japanese during World War II, several economic downturns and a devastating fire in 1972, the curtains have finally come down on home-grown department store Robinsons – once hailed as “one of the handsomest shops in the Far East”.1 
+In August 2020, Robinsons closed its store in Jem shopping mall. Barely four months later, its flagship luxury store in The Heeren followed suit. Its last outlet at Raffles City Shopping Centre shuttered in January 2021.
+High-quality merchandise and impeccable service set Robinsons apart when it opened in 1858, and the store quickly became popular with the European community and Malay royalty. Even King Mongkut of Siam was a loyal customer and was known to have signed off his letters to Robinsons as “your good friend”. Famous people who graced its portals back in its heyday included Britain’s Prince Philip, Prime Minister Margaret Thatcher and singer Cliff Richard.2 
+Over the years, Robinsons served countless Singaporeans, many of whom became friendly with staff who had worked in the store for decades. The annual Robinsons’ sale, touted as “the sale truly worth waiting for”, was one of the highlights of Singapore’s shopping calendar. 
+What felled the retail giant? Declining sales due to changing consumer tastes and the rising popularity of online shopping were contributing factors. The reduced footfall to its outlets was exacerbated by the COVID-19 pandemic that ravaged the world for much of 2020.  
+As Singaporeans bid farewell to a much-loved icon, we look back at some of the defining moments in Robinsons’ storied past gleaned from newspaper reports in NewspaperSG, annual reports and inhouse newsletters kept by the National Library, and oral history interviews and images from the National Archives.
 
-In Singapore, betel chewing has all but died out among its people today, and the practice is now sustained largely by migrants and visitors from regions where chewing betel remains widespread.
-
-#### **A Millennia-old Asian Habit**
-
-Fragments of containers from the 14th century that held lime (calcium carbonate) have been discovered in Singapore, attesting to the likelihood that betel chewing on the island dates from this period at least.[^2] However, the quid has been part of Asia’s social and cultural landscape for much longer. One of the oldest known sources of evidence dates to around 2660 BCE: skeletal remains with stained teeth suggestive of betel chewing, as well as containers for storing lime, were discovered at a burial site in Duyong Cave on the island of Palawan in southern Philippines.[^3]
-
-Historian Anthony Reid points out the wide-ranging indigenous terms for areca nut and betel used in the Indonesian Archipelago and the Philippines, suggesting that the betel quid originated from island Southeast Asia.[^4] The areca palm itself  (*Areca catechu*)  may have a Malayan origin, judging by the sheer number of palm varieties recorded in the Malay Peninsula.[^5]
-
-The archaeological and linguistic records found in southern India strongly suggest that the areca palm and betel vine (*Piper betle*)  came from Southeast Asia, probably from the second millennium BCE onwards.[^6] Through centuries of maritime trade and migration, betel chewing and its accompanying botanical material spread throughout Southeast Asia to the western Pacific, across the Indian subcontinent and even reaching as far as the fringes of East Africa.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/twomensellingbetel.jpg">
-A painting of two men selling betel quid by an Indian artist, c. 1800s. <i>Wellcome Collection. Attribution 4.0 International (CC BY 4.0).</i>
-</div>
-
-#### **A Parcel Like No Other**
-
-While it is often referred to as betel chewing, strictly speaking, what is chewed is known as the betel quid. In its most basic form, the betel quid comprises three ingredients: betel leaf (*sirih*), areca nut (*pinang*)  and slaked lime (*kapor* or *chunam*), a paste made from the powdered shells of molluscs or coral. Slaked lime is first spread on the leaf before shavings or pieces of dried areca nut are laid on top. The leaf is then folded inwards to cover the contents, ready to be chewed. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/betelleaf.jpg">
-
-The basic elements of the betel quid: the betel leaf (<i>sirih</i>), pieces of areca nut (<i>pinang</i>) and a smear of slaked lime (<i>kapor</i> or <i>chunam</i>), a white paste made from the powdered shells of molluscs or coral. <i>Photo from Shutterstock.</i>
-
-</div>
-
-Preparation techniques varied according to cultural and individual preferences. According to Gwee Thian Lye (better known as G.T. Lye), a well-known *dondang sayang*[^7]  performer and consultant on Peranakan culture, two types of betel leaves were chewed in Singapore: one larger and dark green, the other smaller and light green. Peranakan Chinese ladies are said to have favoured the latter for making *sirih*, while the Indian and Malay communities mainly used the former.[^8]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/peranakanwomanholdingbetelquid.jpg">
-Portrait of a Peranakan Chinese woman holding a betel quid by August Sachtler, Singapore, c. 1860s. On the table is a betel box. <i>Collection of Mr and Mrs Lee Kip Lee. Courtesy of Peter Lee.</i>
-</div>
-
-Many also considered gambier to be an essential ingredient and small pieces would be added alongside the areca nut slices. Later, tobacco became a popular addition and shreds of it might be folded together with the leaf. For a change of flavour, betel chewers sometimes rubbed a wad of tobacco against their teeth and gums after chewing betel.[^9]
-
-Known as *vetrilai* (Tamil), *paan supari* (Hindi) or *tambula* (Sanskrit), the betel quid favoured by Tamils included finely ground spices such as cardamom, clove, nutmeg and mace for an extra dash of fragrance. The mix of spices is known as *paan masala* and each betel quid vendor (*paanwalla*) had his own unique mix. A clove might also be used to seal the betel package.
-
-The English herbalist John Gerard first described the areca nut as the “drunken date” in 1597, due to its supposedly intoxicating effects when consumed together with slaked lime.[^10] The common physiological effects of areca nut, similar to narcotics and stimulants, include a sense of well-being, heightened alertness, increased bodily warmth, improved digestion and better stamina.[^11] The combination of lime and areca nut releases the latter’s alkaloids, particularly arecoline, producing a sedative effect. At the same time, arecoline affects the peripheral and central nervous systems of the body.[^12] Chewing the quid also produces copious amounts of red saliva, leading to the habit of frequent spitting and even red stools.
-
-The World Health Organization (WHO) estimates that some 600 million people around the world consume some form of areca nut today. The areca nut is classified as a carcinogen by the WHO, and studies have shown a correlation between betel chewing and cancer of the mouth and esophagus.[^13]
-
-As with other widely consumed alkaloids like caffeine and theobromine (the latter is present in cocoa), the psychotropic effects of betel chewing vary between individuals and, perhaps more importantly, are heavily tempered by social context. Those accustomed to viewing betel chewing as a comforting and calming practice may feel calm and relaxed from chewing, while the habit may have the opposite effect on someone brought up to believe in betel chewing’s stimulating effects.
-
-#### **Our Daily Chew**
-
-In Singapore and Malaya during the 19th and early 20th centuries, the betel quid was enjoyed by a broad swathe of society, often transcending class and gender. It was consumed throughout the day, especially after meals due to the quid’s digestive and breath-freshening qualities.[^14] Although only a minority of Chinese migrants and Eurasians in Singapore appreciated the quid, many aristocrats, merchants and labourers in the Indian, Malay and Peranakan communities chewed betel regularly.[^15]
-
-Perhaps the most fundamental role of the betel quid was in promoting and strengthening social ties.[^16] Betel chewing served as a social lubricant, like communal eating or drinking alcohol: 
-
-“Over a chew of betel, they might cogitate over the day’s problems, or gossip with a neighbour or just sit and relax. Chewing betel is a leisurely business and cannot be hurried over." [^17]
-
-During social and business gatherings, it was *de rigueur* to welcome guests, friends, colleagues and relatives with a tray of betel quid ingredients. According to Reid, “Everyday hospitality consisted in the sharing of betel, not food.”[^18] Declining the quid was deemed as being disrespectful to the host, and those who did not chew would politely consume a betel leaf at least. The betel set was thus an indispensable part of Tamil, Malay and Straits Chinese homes.[^19] For some, it was treated like a sacred object that had to be respected. In Straits Chinese homes, placing a betel box on the floor instead of a table when one was seated on a chair was widely believed to invite bad luck.[^20]
-
-As in much of the Malay world, betel chewing in Singapore tended to have feminine overtones. According to a 1951 *Singapore Free Press* article, among ethnic Indians it was mostly women who “chewed a lot”, and the typical image of a Tamil grandmother in the 1950s was of her “sitting with her legs stretched out at ease and pounding away her chew of betel in her little mortar”.[^21] Even well into the 1980s, Peranakan Chinese *bibik*[^22] were popularly portrayed as deftly folding *sirih* during card games such as *cherki*.[^23] *The Malaya Tribune* reported in 1949 that many Peranakan Chinese women (known as *nonya*) were so attached to their chews that “wherever the *nonya* goes, the *sireh* set is sure to go”.[^24] Peranakan Chinese men (*baba*) who indulged in betel chewing were said to be quite rare, and those who did were perceived to be effeminate.[^25]
-
-However, many men were known to be habitual chewers. Indian labourers sharing areca nuts, betel leaves and lime with one another were once a common sight.[^26] For them, betel chewing was perhaps a means to stave off hunger and be more alert. Manual workers were said to derive energy from chewing betel during their long hours of work.[^27] The betel quid was also believed to be particularly useful for those embarking on a long journey, such as Muslims performing the Haj, as it helped tide them over periods of hunger and fatigue.[^28] 
-
-#### **A Symbol of Love**
-
-The *sirih’s* centrality in mediating social relations extended to love and romance. The betel quid symbolised courtship, marital and sexual union in Malay, Straits Chinese and Hindu cultures, and features strongly in betrothal rituals. It is believed that the areca nut and betel leaf complement each other perfectly: they are considered “heaty” and “cooling” foods respectively – together they symbolise balance. The betel leaf and areca nut are also said to represent the female and male respectively, alluding to how the betel vine entwines itself around the areca palm.
-
-The age-old association of the betel quid with love and courtship is evident in the etymology of Malay and Tamil words relating to marriage and betrothal. The Malay terms for proposing marriage (*meminang*) and betrothal (*pinangan*) are derived from *pinang* (areca nut), while the Tamil term for engagement, *nichaya tambulam*, is derived from *tambulam* (betel quid).
-
-In traditional Malay culture, a suitor or one of his relatives would bring a tray of betel quid to the prospective wife’s residence to ask for her hand in marriage. This custom of *hantar sirih* (Malay for “presenting betel”) was also practised by the Peranakan community, albeit with some differences. Female guests of a Straits Chinese wedding would have received an invitation known as the *sa kapor siray* – a miniature triangular parcel of betel quid containing a smidgen of areca nut. This custom was still practised in post-war Singapore, but was replaced by Western-style invitation cards by the 1980s.[^29] Similarly, the Chetty Melaka (Peranakan Indians) had a ritual known as *hantar sirih kovil pathiram* during which trays of invitation cards, betel leaves, areca nuts, flowers and other items would be blessed at the temple before being distributed to guests.[^30] One’s acceptance of a betel quid in most social contexts implied agreement.
-
-In Malay weddings, a ceremonial betel box known as the *tepak sirih*, containing betel quid ingredients, was once the centrepiece in the bridal display. Traditionally, the *tepak sirih* was also placed outside the newlyweds’ room on the first night of marriage as an indication of the bride’s chastity. If the groom discovered that his wife was not a virgin, the *tepak sirih* would be turned upside down the next morning.[^31] In Straits Chinese culture, the betel box also symbolised the bride’s purity: on the wedding day, a betel box was placed in the centre of the marital bed. These rituals are no longer customary in Singapore as most Malay and Straits Chinese weddings now take on a more contemporary flavour.
-
-However, Malay weddings today still feature the betel leaf in various guises: *sirih dara, sirih junjung* and *sirih lat-lat. Sirih dara* and *sirih junjung* refer to floral arrangements featuring verdant green betel leaves rolled into a conical shape, representing the virginity of the bride and groom respectively. These are displayed during the wedding ceremony. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewing-yellowcloth.jpg">
-A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red container filled with betel leaves, brass receptacles for holding the incense and <i>air mawar</i> (rose water), and a container for storing the areca nut <i>(pinang)</i> and slaked lime <i>(kapor</i> or <i>chunam).</i> <i>PictureSG, National Library, Singapore.</i>
-
-</div>
-
-*Sirih lat-lat* is a small floral bouquet containing betel leaves, which is delivered to the groom on the wedding day to signal the bride’s readiness to be visited by the groom and his entourage. According to researcher Khir Johari, the betel leaf, or *sirih*, generally represents humility, generosity and respectfulness in the Malay world – a reflection of the way in which the betel vine climbs up its host plant unobtrusively.[^32]
-
-The betel quid is considered an aphrodisiac in the *Kamasutra*, the ancient Sanskrit text on sexuality and eroticism.[^33] In Hindu marriage ceremonies, trays of betel quid, symbolising everlasting bonds, were passed around for guests to chew.[^34] Although betel quid ingredients are still used in Hindu prayer offerings and wedding ceremonies today, the quid is rarely chewed. 
-
-
-|**THE BETEL CHEWER'S TOOLKIT**|
-
-|A typical betel set might comprise a box with three or four containers (*cembul*) – for storing betel leaves, sliced areca nut, slaked lime, gambier or tobacco – and a slicer (*kacip*)  for cutting the dried areca nut. The quality of a betel caddy indicated the owner’s social status: the working class had their betel chewing paraphernalia wrapped simply in a piece of newspaper or cloth, or kept in a wooden box, while the well-heeled showcased betel boxes made of highly decorated brass, copper or silver.[^35] Ornate *kacip* often featured handles carved in the form of the *kuda sembrani*, the Malay mythological flying horse.[^36]|
-
-|A moderately wealthy household usually had two betel sets at home: one for daily use and another for guests. The more elaborate betel boxes ended up as family heirlooms or collectors’ items. Alongside betel sets, spittoons were also a common fixture in homes and establishments to hold the red spittle produced from chewing betel. These spittoons were often made of brass or porcelain. Elderly chewers who lacked teeth used a small mortar and pestle to grind larger ingredients, if not the entire quid, into a finer consistency for an easier chew.[^37]|
-
-|Betel chewing also shaped sartorial practices. A wealthy Malay lady in the 1920s might wear an intricately crafted silver belt from which hung a purse and a case to contain betel ingredients so as to satisfy her craving for a chew while she was out.[^38] A Straits Chinese woman would drape a large red or dark-coloured handkerchief, folded into a triangle, over one shoulder of her *kebaya* for wiping red spittle from her lips.[^39]|
-
-|<img src="/images/Vol-16-issue-3/betel/straitschinesebetelset.png">An early 20th-century Straits Chinese betel set comprising four containers (*cembul*) for storing betel leaves, areca nut slices, slaked lime and gambier, and a nut slicer (*kacip*) designed as the Malay mythical flying horse known as the *kuda sembrani. Courtesy of the National Museum of Singapore, National Heritage Board.*|
-
-#### **The Decline of Betel Chewing**
-
-By the 1950s, betel chewing had reportedly fallen out of favour among younger adults in Singapore.[^40] Some 30 years later, the practice was near extinction, enjoyed only by the elderly, a remarkable decline of such an old, pervasive habit within a single generation.
-
-Growing concerns about betel chewing’s long-term effects on health likely played a part in deterring youths from picking up the habit, and perhaps nudged some older people into reducing their chewing frequency. While *sirih* is a common ingredient in traditional Malay medicine, betel chewing from the 1930s onwards became increasingly associated with oral cancer. The purported dental benefits of chewing betel, such as the strengthening of teeth and gums, were also challenged in popular media. That said, Singapore newspapers continued to run health advisories against betel chewing as late as the 1980s, suggesting that such advice was often ignored, particularly among habitual chewers.
-
-Changing social and cultural attitudes were, perhaps, greater contributing factors to the quid’s demise in Singapore. Once socially acceptable, betel-stained teeth were increasingly perceived as unsightly, thanks to the circulation of images in mass media of “beautiful” people with spotless, gleaming teeth. Negative perceptions were also reinforced by unflattering portrayals of chewers in Asian literature. In a short story published in the Malay-language newspaper *Berita Harian* in 1964, the protagonist was so repulsed by his wife’s betel-stained teeth that “he wanted to jump from the window”.[^41] Meanwhile, the effect of red-stained lips caused by betel chewing, often coveted by women as a marker of beauty, was achieved by cosmetics, which replaced the increasingly unfashionable chew. In a 1994 feature in *The Straits Times*, Helena Rubenstein’s Rouge Glorious lipstick was touted as “a cross between a shine-less matt lipstick and a long-wearing one with cling-to-the-lip colour but without the betel-nut stain effect”.[^42]
-
-The habit was also often deemed unsanitary due to the frequent spitting that accompanied the chewing. When betel chewing was still widespread in Singapore, walkways and roads in the town area were covered in red blotches of spittle, prompting frequent complaints about defaced environments and hygiene issues. One writer expressed disgust at the “revolting scarlet gobs of the betel chewer” that occasionally landed on an unfortunate passer-by.[^43] Newspapers published numerous letters airing similar grievances up until the 1980s. 
-
-Anti-tuberculosis campaigns in the post-war decades also portrayed spitting as socially deviant and disease-spreading. Given the many negative connotations surrounding betel chewing, it was perhaps unsurprising that aspirational individuals and households found it difficult to reconcile the age-old habit with new forms of civic-mindedness and respectability in Singapore.
-
-As independent Singapore pursued its modernisation plans at full throttle, betel chewing became a habit associated with the older generations and was perceived as an outdated practice. In the mid-1970s, the weekend crowd at Geylang Serai Market was described as comprising mostly the elderly who chewed betel together.[^44] In Little India, too, the main chewers were older proprietors, seated in front of their shops.[^45] By the late 1980s, the *paanwalla* was considered part of a long list of vanishing trades in Singapore, along with Indian parrot astrologers and Chinese letter writers. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewing-sitandstand.png">
-
-(Left) A <i>paanwalla</i>, or betel quid vendor, at his stall, 1968. By the 1980s, as betel chewing had fallen out of favour, these vendors, once a ubiquitous sight in Singapore, joined the ranks of a long list of vanishing trades. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
-
-(Right) A woman with a chew in her mouth, 1955. Betel chewing was a habit indulged in by many women in early Singapore. <i>Donald Moore Collection, courtesy of National Archives of Singapore.</i>
-
-</div>
-
-#### **Contemporary Consumption**
-
-The 1980s saw the Singapore government vigorously courting the tourist dollar and Little India was developed into a tourist attraction. As a result, the *paanwalla* were retained and co-opted into the government’s plan to inject “local flavour” into the area.[^46] In this vision, a guided tour in Little India would not be complete without a visit to the *paanwalla* for a betel chewing demonstration, where tourists could marvel at his red saliva and stained teeth.[^47] Betel chewing was thus presented as an object of fascination in a reordered, modern and sanitised city. 
-
-The betel quid trade in Singapore today is largely supported by migrants and visitors from countries like Bangladesh, India and Myanmar, where betel chewing remains widespread. A handful of vendors still operate in areas frequented by migrants, such as Little India and Peninsula Plaza. One may also encounter the betel quid in Indian restaurants. Green bundles are strategically placed on trays located near the cashier so that patrons can grab one for a post-meal chew while paying their bill.
-
-In most homes today, betel chewing lives on, if at all, in the memories of those who recall their elderly relatives indulging in the habit:
-
-“I can still see [grandma], fragile and lovely in her *sarong kebaya*, her bun immaculate even at that hour, each ornate *cucuk sanggul* in place. Beside her was the betel set that was her trademark, each tiny container holding mystery none of her grandchildren would ever fathom. With each story she delicately prepared and chewed a betel quid, weaving a spell that held us entranced.”[^48]
-
-|The authors would like to thank Gayathrii Nathan and Toffa Abdul Wahed for their research assistance and for reviewing an early draft of the article; Dr Azhar Ibrahim for his thoughts on the subject; and Baba G.T. Lye for participating in the interview. Initial research for this article was conducted for “Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption”, a collaborative project supported by the Heritage Research Grant of the National Heritage Board, Singapore.[^49]|
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/authors/FionaLim.png" style="width: 100px; height: 100px;" />
-<b>Fiona Lim</b> is a freelance writer, editor and researcher. She is interested in the complexities of cities and their people.
-</div>
+From High-end to High Street
+Robinsons began life as a high-end store when it opened, setting out to woo customers with its wide array of quality merchandise, excellent service and eye-catching displays. By the turn of the 20th century, the store had become a household name among British “mems”, European expatriates and the well-heeled of Singapore society. 
+Robinsons made a name for itself as a one-stop shopping paradise, with departments dedicated to drapery, haberdashery, millinery, home furnishings, bicycles, photographic apparatus, sporting equipment, musical instruments, and even arms and ammunitions used for game hunting.
+It was said that wealthy Straits Chinese women would travel from Kuching in Sarawak to Singapore just to buy Swiss voile, which could only be found in Robinsons. To appeal to female shoppers, the store later offered dressmaking services that included bespoke clothing sent all the way from London. 
+Robinsons was also a trailblazer in introducing new shopping experiences and brands exclusive to the store, such as Hennessy brandy and Heineken beer. In 1907, Robinsons became among the world’s first agents for Raleigh bicycles and, by the 1950s, had sold more than half a million of such bicycles. 
+Unfortunately, Robinsons’ reputation as a high-end shopping destination put off some people. Polytechnic lecturer Ng Joo Kee, who was born in 1959 and lived in nearby Chulia Street, recalled that Robinsons was particular about who could enter its premises. It was “a very up-market kind of a department store and we were very poor. We usually [wore] singlets, and shorts and slippers and we weren’t allowed in”. It was only when the underground carpark in Raffles Place opened in 1965, giving people access to the supermarket at Robinsons, that he managed to sneak into the store.1
+By the 1970s and 80s, as Singapore’s economy took off and disposable incomes rose, Robinsons began carrying a wider range of products to cater to the emerging middle class. Over time, Robinsons grew in popularity among shoppers from all walks of life. 
+In 2013, its new owners decided to revive the store’s luxury roots: its premises at The Centrepoint were closed and a new, decidedly more upscale, flagship store opened at The Heeren. However, the attempt to target more affluent customers failed. According to retail experts, Robinsons ended up being too expensive for the general public, but at the same time, it was not attractive enough for the well-heeled.2
 
 
 <div style="background-color: white;">
