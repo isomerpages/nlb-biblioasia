@@ -3,7 +3,7 @@ url: "https://biblioasia.nlb.gov.sg" # the base hostname & protocol for your sit
 favicon: /images/nlb-favicon.ico
 
 # Analytics
-google_analytics: UA-50449401-21
+google_analytics: UA-50449401-32
 
 # Site colors
 colors:
