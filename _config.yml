@@ -2,6 +2,9 @@ title: BiblioAsia
 url: "https://biblioasia.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/nlb-favicon.ico
 
+# Analytics
+google_analytics: UA-50449401-21
+
 # Site colors
 colors:
   primary-color: '#006052'
