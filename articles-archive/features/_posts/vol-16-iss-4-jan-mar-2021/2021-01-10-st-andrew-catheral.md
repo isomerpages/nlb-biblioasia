@@ -199,7 +199,7 @@ Having weighed the historical evidence – the budgetary constraints that affect
 
 [^13]: Treese, S.A. (2018). *History and measurement of the base and derived units* (p. 429). Switzerland: Springer International Publishing. (Not available in NLB holdings)
 
-[^14]: [McNair, J.F.A., & Bayliss, W.D. (1899). *Prisoners their own warders: A record of the convict prison at Singapore established 1825, discontinued 1873, together with a cursory history of the convict establishments at Bencoolen, Penang and Malacca from the Year 1797](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)* (p. 111). Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)
+[^14]: McNair, J.F.A., & Bayliss, W.D. (1899). *[Prisoners their own warders: A record of the convict prison at Singapore established 1825, discontinued 1873, together with a cursory history of the convict establishments at Bencoolen, Penang and Malacca from the Year 1797](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)* (p. 111). Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)
 
 [^15]: Tesi, T. (2009). *The effect of linseed oil on the properties of lime-based restoration mortars* [Unpublished PhD thesis]. Universita di Bologna. Retrieved from Core website; Nunes, C., & Slizkova, Z. (2014, July–August). Hydrophobic lime-based mortars with linseed oil: Characterization and durability assessment. *Cement and Concrete Research, 61–62*, 28–39; Nunes, C., et al. (2018, November 20). Influence of linseed oil on the microstructure and composition of lime and lime-metakaolin pastes after a long curing time. *Construction and Building Materials, 189*, 787–796. Retrieved from ResearchGate.
 
