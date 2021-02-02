@@ -1,4 +1,5 @@
 ---
+​---
 layout: homepage
 title: NLB BiblioAsia
 description: BiblioAsia is a quarterly magazine produced by the National Library of Singapore
@@ -42,11 +43,11 @@ sections:
         url: /vol-16/issue-3/oct-dec-2020/building
         image: /images/Vol-16-issue-3/building/planningbuilding-buildingsplan.jpg
         alt: sample of building
-        
+
     - infopic:
-        title: We want to hear from you!
+        title: We’re listening.
         subtitle:
-        description: Tell us what you like reading on <i>BiblioAsia</i>. Take part in our readership survey.
+        description: Tell us what you like reading about in <i>BiblioAsia</i> by taking part in this readership survey.
         button: Take the survey
         url: https://efm.jusfeedback.com/Community/se/705E3ED92204BF70
         image: /images/Vol-16-issue-3/Storytelling.jpg
