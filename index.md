@@ -10,7 +10,7 @@ sections:
     - hero:
         title: 
         subtitle:
-        background: /images/Vol-16-issue-3/Main-Banner2.jpg
+        background: /images/Vol-16-issue-2/Main-Banner2.jpg
         button:
         url:
         key_highlights:
@@ -43,14 +43,14 @@ sections:
         url: /vol-16/issue-3/oct-dec-2020/building
         image: /images/Vol-16-issue-3/building/planningbuilding-buildingsplan.jpg
         alt: sample of building
-
+        
     - infopic:
-        title: We’re listening.
+        title: We want to hear from you!
         subtitle:
-        description: Tell us what you like reading about in <i>BiblioAsia</i> by taking part in this readership survey.
+        description: Tell us what you like reading on <i>BiblioAsia</i>. Take part in our readership survey.
         button: Take the survey
         url: https://efm.jusfeedback.com/Community/se/705E3ED92204BF70
-        image: /images/Vol-16-issue-3/Storytelling.jpg
+        image: /images/Vol-16-issue-2/surveyplaceholder.jpg
         alt: sample of survey
 ​---
 ---
