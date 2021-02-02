@@ -42,14 +42,5 @@ sections:
         url: /vol-16/issue-3/oct-dec-2020/building
         image: /images/Vol-16-issue-3/building/planningbuilding-buildingsplan.jpg
         alt: sample of light
-            
-    - infopic:
-        title: We want to hear from you!
-        subtitle:
-        description: Tell us what you like reading on <i>BiblioAsia</i>. Take part in our readership survey.
-        button: Take the survey
-        url: https://efm.jusfeedback.com/Community/se/705E3ED92204BF70
-        image: /images/Vol-16-issue-3/Storytelling.jpg
-        alt: sample of survey
-        
+  ---
 ---
