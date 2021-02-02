@@ -35,12 +35,21 @@ sections:
         alt: sample of tiger
     
     - infopic:
-        title: Let There Be Light
+        title: Planning to Build, Building to Plan
         subtitle: Highlights
-        description: Timothy Pwee enlightens us about the history of street lighting in Singapore, starting with the first flickering oil lamps that were lit in 1824.
+        description: The collection of building plans in the National Archives of Singapore is a treasure trove of information about the history of urban Singapore, says Yap Jo Lin.
         button: Read this article
-        url: /vol-16/issue-4/jan-mar-2021/light
-        image: /images/Vol-16-issue-4/light/BoatQuay.jpg
+        url: /vol-16/issue-3/oct-dec-2020/building
+        image: /images/Vol-16-issue-3/building/planningbuilding-buildingsplan.jpg
         alt: sample of light
+            
+    - infopic:
+        title: We want to hear from you!
+        subtitle:
+        description: Tell us what you like reading on <i>BiblioAsia</i>. Take part in our readership survey.
+        button: Take the survey
+        url: https://efm.jusfeedback.com/Community/se/705E3ED92204BF70
+        image: /images/Vol-16-issue-2/surveyplaceholder.jpg
+        alt: sample of survey
         
 ---
