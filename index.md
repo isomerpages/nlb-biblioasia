@@ -26,13 +26,13 @@ sections:
         alt: Sample of betel
         
     - infopic:
-        title: "St Andrew’s Cathedral and the Mystery of Madras Chunam"
+        title: "The Tiger in Singapore: Georges Clemenceau’s Visit in 1920"
         subtitle: Highlights
-        description: Was Madras <i>chunam</i> used inside St Andrew’s Cathedral? Maybe not, says Yeo Kang Shua.
+        description: This year marks the 100th anniversary of the former French premier’s visit to Singapore. Lim Tin Seng has the details.
         button: Read this article
-        url: /vol-16/issue-4/jan-mar-2021/st-andrew-cathedral
-        image: /images/Vol-16-issue-4/standrew/StAndrewChurch.jpg
-        alt: sample of standrew
+        url: /vol-16/issue-3/oct-dec-2020/tiger
+        image: /images/Vol-16-issue-3/tiger/georgesclemenceau-withlimboonkeng.jpg
+        alt: sample of tiger
     
     - infopic:
         title: Let There Be Light
