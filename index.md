@@ -1,5 +1,4 @@
 ---
-​---
 layout: homepage
 title: NLB BiblioAsia
 description: BiblioAsia is a quarterly magazine produced by the National Library of Singapore
@@ -10,47 +9,38 @@ sections:
     - hero:
         title: 
         subtitle:
-        background: /images/Vol-16-issue-2/Main-Banner2.jpg
+        background: /images/Vol-16-issue-3/Main-Banner2.jpg
         button:
         url:
         key_highlights:
             - title: "Read BiblioAsia Oct-Dec 2020"
               description:
-              url: /vol-16/issue-3/oct-dec-2020/
+              url: /vol-16/issue-4/oct-dec-2020/
     - infopic:
-        title: "A Bite of History: Betel Chewing in Singapore"
+        title: "Love Is a Many-Layered Thing"
         subtitle: Highlights
-        description: Fiona Lim and Geoffrey Pakiam look at this time-honoured tradition – once a mainstay in Malay, Indian and Peranakan homes – that has since fallen out of fashion.
+        description: What lies in this vale of tiers? Christopher Tan delves into <i>kueh lapis legit</i>, the cake that is as famous for its exacting recipe as for the unparalleled flavour of its buttery layers.
         button: Read this article
-        url: /vol-16/issue-3/oct-dec-2020/betel-chewing
-        image: /images/Vol-16-issue-3/betel/straitschinesebetelset.png
-        alt: Sample of betel
+        url: /vol-16/issue-4/jan-mar-2021/kueh-lapis
+        image: /images/Vol-16-issue-4/kuehlapis/LapisLegit.jpg
+        alt: Sample of lapis
         
     - infopic:
-        title: "The Tiger in Singapore: Georges Clemenceau’s Visit in 1920"
+        title: "St Andrew’s Cathedral and the Mystery of Madras Chunam"
         subtitle: Highlights
-        description: This year marks the 100th anniversary of the former French premier’s visit to Singapore. Lim Tin Seng has the details.
+        description: Was Madras <i>chunam</i> used inside St Andrew’s Cathedral? Maybe not, says Yeo Kang Shua.
         button: Read this article
-        url: /vol-16/issue-3/oct-dec-2020/tiger
-        image: /images/Vol-16-issue-3/tiger/georgesclemenceau-withlimboonkeng.jpg
-        alt: sample of tiger
+        url: /vol-16/issue-4/jan-mar-2021/st-andrew-cathedral
+        image: /images/Vol-16-issue-4/standrew/StAndrewChurch.jpg
+        alt: sample of standrew
     
     - infopic:
-        title: Planning to Build, Building to Plan
+        title: Let There Be Light
         subtitle: Highlights
-        description: The collection of building plans in the National Archives of Singapore is a treasure trove of information about the history of urban Singapore, says Yap Jo Lin.
+        description: Timothy Pwee enlightens us about the history of street lighting in Singapore, starting with the first flickering oil lamps that were lit in 1824.
         button: Read this article
-        url: /vol-16/issue-3/oct-dec-2020/building
-        image: /images/Vol-16-issue-3/building/planningbuilding-buildingsplan.jpg
-        alt: sample of building
+        url: /vol-16/issue-4/jan-mar-2021/light
+        image: /images/Vol-16-issue-4/light/BoatQuay.jpg
+        alt: sample of light
         
-    - infopic:
-        title: We want to hear from you!
-        subtitle:
-        description: Tell us what you like reading on <i>BiblioAsia</i>. Take part in our readership survey.
-        button: Take the survey
-        url: https://efm.jusfeedback.com/Community/se/705E3ED92204BF70
-        image: /images/Vol-16-issue-2/surveyplaceholder.jpg
-        alt: sample of survey
-​---
 ---
