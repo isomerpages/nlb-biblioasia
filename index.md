@@ -15,15 +15,15 @@ sections:
         key_highlights:
             - title: "Read BiblioAsia Oct-Dec 2020"
               description:
-              url: /vol-16/issue-4/oct-dec-2020/
+              url: /vol-16/issue-3/oct-dec-2020/
     - infopic:
-        title: "Love Is a Many-Layered Thing"
+        title: "A Bite of History: Betel Chewing in Singapore"
         subtitle: Highlights
-        description: What lies in this vale of tiers? Christopher Tan delves into <i>kueh lapis legit</i>, the cake that is as famous for its exacting recipe as for the unparalleled flavour of its buttery layers.
+        description: Fiona Lim and Geoffrey Pakiam look at this time-honoured tradition – once a mainstay in Malay, Indian and Peranakan homes – that has since fallen out of fashion.
         button: Read this article
-        url: /vol-16/issue-4/jan-mar-2021/kueh-lapis
-        image: /images/Vol-16-issue-4/kuehlapis/LapisLegit.jpg
-        alt: Sample of lapis
+        url: /vol-16/issue-3/oct-dec-2020/betel-chewing
+        image: /images/Vol-16-issue-3/betel/straitschinesebetelset.png
+        alt: Sample of betel
         
     - infopic:
         title: "St Andrew’s Cathedral and the Mystery of Madras Chunam"
