@@ -57,14 +57,16 @@ Robinsons advertising its annual sale in 1907. <i>The Straits Times, 5 September
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/robinsons/Ad2.jpg">
-Spicer and Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). <i>The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG</i>.
+Spicer & Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). <i>The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG.</i>
+
 </div>
 
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/robinsons/Ad3.jpg">
-Robinsons advertising the services of its experienced European cutters who offered bespoke clothing for “every well-dressed man”. <i>The Straits Times, 17 November 1928, p. 1. Retrieved from NewspaperSG</i>.
+Robinsons advertising the services of its experienced European cutters who offered bespoke clothing for “every well-dressed man”. <i>The Straits Times, 17 November 1928, p. 1. Retrieved from NewspaperSG.</i>
+
 </div>
 
 #### **From High-end to High Street**
@@ -89,6 +91,7 @@ In 1907, Robinsons became among the world’s first agents for Raleigh bicycles,
 The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. <i>Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)</i>.
 </div>
 
+<img src="/images/Vol-16-issue-1/postcards/space.png">
 
 |**Robinsons During World War II**|
 
