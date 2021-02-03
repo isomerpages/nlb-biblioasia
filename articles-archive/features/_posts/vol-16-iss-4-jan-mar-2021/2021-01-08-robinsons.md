@@ -90,15 +90,15 @@ The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with 
 
 |#### **Robinsons During World War II**|
 
-In July 1941, Robinsons held its annual shareholder meeting in Singapore. This took place amidst the backdrop of World War II which had broken out in Europe in 1939.[^5] When the company’s Chairman W.H. MacGregor addressed shareholders on 28 July, Britain was still reeling from aerial bombings by the Luftwaffe, the German air force, which had taken place between September 1940 and May 1941.
+|In July 1941, Robinsons held its annual shareholder meeting in Singapore. This took place amidst the backdrop of World War II which had broken out in Europe in 1939.[^5] When the company’s Chairman W.H. MacGregor addressed shareholders on 28 July, Britain was still reeling from aerial bombings by the Luftwaffe, the German air force, which had taken place between September 1940 and May 1941.|
 
-Fortunately, as the war had not yet reached the shores of Britain’s colonies in Southeast Asia, Robinsons managed to turn a profit. In 1941, the company reported profits amounting to more than $270,000, almost double its pre-war 1939 earnings. Robinsons shareholders received dividends ranging from 5 percent to 8 percent, depending on the class of stock each person owned. Even after the payouts, there were substantial funds left over to fill the company’s coffers. Despite the ongoing war in Europe, the store had plenty of fine goods on display as the company was able to procure supplies from Australia.[^6]
+|Fortunately, as the war had not yet reached the shores of Britain’s colonies in Southeast Asia, Robinsons managed to turn a profit. In 1941, the company reported profits amounting to more than $270,000, almost double its pre-war 1939 earnings. Robinsons shareholders received dividends ranging from 5 percent to 8 percent, depending on the class of stock each person owned. Even after the payouts, there were substantial funds left over to fill the company’s coffers. Despite the ongoing war in Europe, the store had plenty of fine goods on display as the company was able to procure supplies from Australia.[^6]|
 
-At the shareholder meeting in 1941, MacGregor ruefully noted that “there may be some who will suggest that the increased profit is due to advantage having been taken of war conditions… [t]o a limited extent that perhaps is true, but it is a truism which applies to every business… and is difficult to avoid… [the] policy of the Board, however, has been to maintain prices at a reasonable level, and I should like to emphasise that the improved results this year have resulted from greatly increased turnover rather than from large profit margins”. MacGregor also announced that the company had earlier contributed $5,000 towards the War Fund and would be making a further donation of $5,000.[^7]
+|At the shareholder meeting in 1941, MacGregor ruefully noted that “there may be some who will suggest that the increased profit is due to advantage having been taken of war conditions… [t]o a limited extent that perhaps is true, but it is a truism which applies to every business… and is difficult to avoid… [the] policy of the Board, however, has been to maintain prices at a reasonable level, and I should like to emphasise that the improved results this year have resulted from greatly increased turnover rather than from large profit margins”. MacGregor also announced that the company had earlier contributed $5,000 towards the War Fund and would be making a further donation of $5,000.[^7]|
 
-At the same time, MacGregor sounded a note of caution. “Conditions at the present time make it difficult to foresee what the future may bring.” He assured shareholders that “however much the spending power of the public is contracted, or import bans extended, there will always be goods to sell and there will also be buyers of these goods, and we can rest assured that we shall have a full share of any business passing”.[^8]
+|At the same time, MacGregor sounded a note of caution. “Conditions at the present time make it difficult to foresee what the future may bring.” He assured shareholders that “however much the spending power of the public is contracted, or import bans extended, there will always be goods to sell and there will also be buyers of these goods, and we can rest assured that we shall have a full share of any business passing”.[^8]|
 
-Just five month later, on 8 December 1941, the Imperial Japanese Army dropped the first bombs on Singapore. Some of these landed on Robinsons, which damaged its beautiful frontage. Although Robinsons declared the store “Open as usual” the following day, rubble piled up at the entrance of its premises. In the last days before the fall of Singapore, the cafe in Robinsons became a rallying point for the European community, packed with civilians and servicemen as many deserted the business district and eateries bolted their doors.[^9] The store was struck again by bombs on 13 February 1942 and was later looted.
+|Just five month later, on 8 December 1941, the Imperial Japanese Army dropped the first bombs on Singapore. Some of these landed on Robinsons, which damaged its beautiful frontage. Although Robinsons declared the store “Open as usual” the following day, rubble piled up at the entrance of its premises. In the last days before the fall of Singapore, the cafe in Robinsons became a rallying point for the European community, packed with civilians and servicemen as many deserted the business district and eateries bolted their doors.[^9] The store was struck again by bombs on 13 February 1942 and was later looted.|
 
 |Robinsons was closed throughout the three-and-a-half years of the Japanese Occupation (1942–45). It only reopened for business in April 1946 and in the first year of operations, managed to reap a profit of over a million dollars.|
 
@@ -169,7 +169,7 @@ Robinsons would bounce back quickly from this disaster. On 11 December 1972, a n
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/authors/gracie.png" style="width: 100px; height: 100px;" />
-<b>Gracie Lee</i> is a Senior Librarian with the National Library, Singapore, and works with its Rare Materials Collection. 
+<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore, and works with its Rare Materials Collection. 
 </div>
 
 <div style="background-color: white;">
@@ -181,6 +181,8 @@ Robinsons would bounce back quickly from this disaster. On 11 December 1972, a n
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
+
+
 
 [^3]: New Family Warehouse. (1858, February 25). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.
 
