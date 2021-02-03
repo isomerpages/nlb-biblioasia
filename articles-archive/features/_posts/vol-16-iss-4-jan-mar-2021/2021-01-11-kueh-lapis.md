@@ -110,7 +110,7 @@ A 1957 *Straits Times* article records a *spekkoek* recipe by a Mrs Rosaleen Yan
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/kuehlapis/VintageBrass.jpg">
-A vintage brass pan of the type used for baking <i>kueh lapis legit></i>. Note the “scars” on the lid left by hot coals. <i>Courtesy of Christopher Tan</i>.
+A vintage brass pan of the type used for baking <i>kueh lapis legit</i>. Note the “scars” on the lid left by hot coals. <i>Courtesy of Christopher Tan</i>.
 </div>
 
 In 1981, the *New Nation* published Nonya doyenne and cookbook author Mrs Leong Yee Soo’s single-batter Speckok Kueh Lapis Batavia recipe, which details the importance of pricking each cooked layer with a skewer to deflate bubbles and create microscopic holes for the next layer’s batter to flow in, for better adhesion.[^29] In 1977, the *Straits Times* featured a recipe by one Cik Khatijah Ashiblie for Lapis Mascovrish, whose vanilla batter was layered with almonds and raisins.[^30]
@@ -147,7 +147,7 @@ One of them, *kue maksuba*, is made using chicken and/or duck eggs, butter or ma
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/SteamedRicelapis&HomemadeKue.jpg">
+<img src="/images/Vol-16-issue-4/kuehlapis/SteamedRiceKue.jpg">
 Steamed rice-based <i>kue lapis</i> for sale at a <i>kue pasar</i> (market) in Jakarta. <i>Courtesy of Christopher Tan</i>.
 </div>
 
@@ -155,7 +155,7 @@ The other *lapis* variety, *kue engkak ketan*, has the same ingredients as *kue 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/SteamedRicelapis&HomemadeKue.jpg">
+<img src="/images/Vol-16-issue-4/kuehlapis/HomeMadeKue.jpg">
 Home-made <i>kue engkak ketan</i>, composed of glutinous rice flour, eggs, butter, sugar, condensed milk, and <i>blondo</i> – boiled, oily coconut milk. <i>Courtesy of Christopher Tan</i>.
 </div>
 
