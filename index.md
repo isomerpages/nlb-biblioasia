@@ -1,5 +1,4 @@
 ---
-​---
 layout: homepage
 title: NLB BiblioAsia
 description: BiblioAsia is a quarterly magazine produced by the National Library of Singapore
@@ -44,5 +43,4 @@ sections:
         image: /images/Vol-16-issue-4/light/bulb.jpg
         alt: sample of light
         
-​---
 ---
