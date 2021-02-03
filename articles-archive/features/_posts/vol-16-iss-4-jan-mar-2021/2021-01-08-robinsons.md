@@ -89,6 +89,7 @@ In 1907, Robinsons became among the world’s first agents for Raleigh bicycles,
 The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. <i>Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)</i>.
 </div>
 
+
 |**Robinsons During World War II**|
 
 |In July 1941, Robinsons held its annual shareholder meeting in Singapore. This took place amidst the backdrop of World War II which had broken out in Europe in 1939.[^5] When the company’s Chairman W.H. MacGregor addressed shareholders on 28 July, Britain was still reeling from aerial bombings by the Luftwaffe, the German air force, which had taken place between September 1940 and May 1941.|
@@ -117,7 +118,7 @@ In 2013, its new owners decided to revive the store’s luxury roots: its premis
 
 |In 1881, Robinsons opened a new shop with a tailoring department on Battery Road. Ten years later, it returned to Commercial Square – by then renamed Raffles Place – and occupied much larger premises. In November 1941, the store moved to Raffles Chambers, located on the opposite side of Raffles Place.|
 
-|<img src="/images/Vol-16-issue-4/robinsons/RP1901.jpg">Raffles Place c. 1901. Robinsons occupied the two buildings on the extreme right, before moving to Raffles Chambers in 1941. <i>Andrew Tan Collection, courtesy of National Archives of Singapore</i>.|
+|<img src="/images/Vol-16-issue-4/robinsons/RP1901.png">Raffles Place c. 1901. Robinsons occupied the two buildings on the extreme right, before moving to Raffles Chambers in 1941. <i>Andrew Tan Collection, courtesy of National Archives of Singapore</i>.|
 
 |This new store was met with approval by the press. Noted a news report: “Those who have visited it already have remarked on its spaciousness, the modern way of displaying the merchandise so that you can walk all round it, the wide entrance where you can wait for your car in comfort.” The ground floor housed the “men’s clothing and tailoring departments, leather goods, confectionary, cosmetics, perfumes, gramophones and sports goods, silverware. On the first floor you have women’s departments, dresses for children, furnishing and dress materials, household linens, haberdashery, shoes and the like”. The second floor featured an air-conditioned cafe as well as hair salons for men and women.[^13]|
 
@@ -157,7 +158,7 @@ The fire brigade arrived at 10.13 am and attempted to put out the blaze but the 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/robinsons/StraitsTimes.jpg">
+<img src="/images/Vol-16-issue-4/robinsons/RPflames.jpg">
 The Robinsons store in Raffles Place engulfed in flames. The fire on 21 November 1972 completely gutted the building and destroyed millions of dollars worth of goods. Nine people died in the fire. <i>Image reproduced from Robinsons and Company (Singapore). (2002, December). Family News: The Staff Newsletter of the Robinsons Group (p. 11). Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)</i>.
 </div>
 
