@@ -182,8 +182,61 @@ Robinsons would bounce back quickly from this disaster. On 11 December 1972, a n
 
 #### **NOTES**
 
+[^1]: ‘Open as usual’ after bombing. (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
+[^2]: Tay, S.C. (2015, August 25). A store of nostalgia. *The Business Times*, p. 7. Retrieved from NewspaperSG.
 
 [^3]: New Family Warehouse. (1858, February 25). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.
 
 [^4]: Robinson’s & Co. (1958). *The story of Robinson’s, 1858–1958* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); Buckley, C.B. (1984). *An anecdotal history of old times in Singapore: 1819–1867* (p. 350). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC); *Koh Seow Chuan Collection: Eu Tong Sen: Robinson & Company, Limited: Minutes of meetings, financial statements, receipts and invoices, 1922–1934*. (1922–1934). [n.p.]. (Call no.: RRARE 338.7616151092 KOH)
+
+[^5]: Robinsons to buy goods from Australia. (1941, July 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+
+[^6]: Robinson’s & Co. (1958). *The story of Robinson’s, 1858–1958* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *The Straits Times*, 28 Jul 1941, p. 4. 
+
+[^7]: *The Straits Times*, 28 Jul 1941, p. 4.
+
+[^8]: *The Straits Times*, 28 Jul 1941, p. 4.
+
+[^9]: *Robinsons and Company (Singapore). (2002, December)*. 
+Robinsons 1858: A century of progress (p. 11). *Family News: The Staff Newsletter of the Robinsons Group*. Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)
+
+[^10]: Robinson’s & Company, 1958, [n.p.].
+
+[^11]: Yap, W.C. (Interviewer). (1997, November 3). *Oral history interview with Ng Joo Kee* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.
+
+[^12]: Low, Y. (2020, November 2). Upmarket or mass market? Retail experts say Robinsons’ confused identity contributed to its closure. *Today*. Retrieved from Today website.
+
+[^13]: Heathcott, M. (1941, September 30). In The “New Family Warehouse”. *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG
+
+[^14]: Robinson’s & Co. (1958). *The story of Robinson’s, 1858–1958* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); ‘Open as usual’ after bombing. (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG. 
+
+[^15]: Robinson & Co. (Singapore). (1973). *Annual report 1973* (p. 3). Singapore: The Company. (Call no.: RCLOS q338.47658871 RCSAR)
+
+[^16]: Pereira, A. (1983, November–December). History of Clifford Centre Branch. *Robinson’s Group Berita* [n.p.]. (Accession no. B28739090E)
+
+[^17]: A step forward in difficult time. (1983, July-August). *Robinson’s Group Berita* [n.p.]. (Accession no. B28739088A)
+
+[^18]: Robinson & Co. (Singapore). (1983). *Annual report 1983* (p. 9). (Call no.: RCLOS q338.47658871 RCSAR-[AR]); Zachariah, N.A. (2013, November 9). Robinson’s fancy new home. *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+
+[^19]: Robinsons takes the city. (2001, June). *Family news: The staff newsletter of the Robinsons Group*, 3. (Accession no.: B12020063C); Gems at JEM. (2013, June 26). *Today*, p. 60. Retrieved from NewspaperSG.
+
+[^20]: Robinson’s & Co, 1958, [n.p.]; David, A. (2020, December 21). End of an era as Robinsons closes in Malaysia. *New Straits Times*. Retrieved from New Straits Times website. 
+
+[^21]: Fung, E. (2008, April 4). Sold – Robinson’s now owned by Dubai’s Al-Futtaim. *Today*, p. 4. Retrieved from NewspaperSG; Dubai Festival City Mall. (2021). *Robinsons*. Retrieved from Dubai Festival City Mall website. [Note: Robinsons’ main shareholder OCBC Bank sold its stake to Indonesia’s Lippo Group in 2006. Robinsons was acquired by the Al-Futtaim Group in 2008.]
+
+[^22]: Singapore. Commission of Inquiry into the Robinson’s Fire. (1973). *Report of the Commission of Inquiry into the Robinson’s Fire, 1973* (pp. 5–8). [Singapore: Printed for the Govt. of Singapore by the Singapore National Printers]. (Call no.: RSING 614.84 SIN)
+
+[^23]: Nine feared dead. (1972, November 22). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+
+[^24]: *The Straits Times*, 22 Nov 1972, p. 1.
+
+[^25]: Ng, B. (Interviewer). (2012, November 1). *Oral history interview with George Yuille Caldwell* [MP3 recording no. 003776/38/14]. Retrieved from National Archives of Singapore website.
+
+[^26]: Chew, H.M. (Interviewer). (2006, June 9). *Oral history interview with Tan Wee Him* [Transcript of MP3 recording no. 003058/07/03, pp. 65–67]. Retrieved from National Archives of Singapore website.
+
+[^27]: *The Straits Times*, 22 Nov 1972, p. 1.
+
+[^28]: Singapore. Commission of Inquiry into the Robinson’s Fire, 1973, pp. 5–20.
+
+[^29]: Kwee, M. (1972, December 12). Robinson’s plans to rebuild at fire site. *The Straits Times*, p. 15; Govt takes over Robinson fire site. (1973, January 18). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
