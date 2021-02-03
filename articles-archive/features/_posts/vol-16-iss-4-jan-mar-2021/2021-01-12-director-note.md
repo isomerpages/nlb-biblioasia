@@ -24,3 +24,10 @@ Speaking of spotlights, one of my favourite essays in this issue is the one on t
 I’d also like to draw your attention to the essay that highlights the National Library’s rich collection of rare paper-based artefacts. We have more than 19,000 items and our recent book, *[Stories from the Stacks](/vol-16/issue-4/jan-mar-2021/stacks)*, showcases a small selection of them, including a manual of football rules in Jawi, a colonial-era list of Tamil names, and a copy of a 15th-century Chinese map that mentions Temasek.
 
 These are just a few of the interesting articles that await you in this issue. Make yourself a nice cuppa (perhaps with a slice of *kueh lapis*), sit back, and slowly savour these essays. We enjoyed putting this issue together and we hope you will equally enjoy reading it.
+
+<div style="background-color: white;">
+<br/>
+<b>Ms Tan Huism</b>
+Director 
+National Library
+</div>
