@@ -90,7 +90,6 @@ In 1907, Robinsons became among the world’s first agents for Raleigh bicycles,
 <img src="/images/Vol-16-issue-4/robinsons/BigSale.jpg">
 The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. <i>Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)</i>.
 </div>
-
 <img src="/images/Vol-16-issue-1/postcards/space.png">
 
 |**Robinsons During World War II**|
@@ -187,25 +186,25 @@ Robinsons would bounce back quickly from this disaster. On 11 December 1972, a n
 
 #### **NOTES**
 
-[^1]: ‘Open as usual’ after bombing. (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^1]: [‘Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^2]: Tay, S.C. (2015, August 25). A store of nostalgia. *The Business Times*, p. 7. Retrieved from NewspaperSG.
+[^2]: Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20150829-1.2.4.3.1). *The Business Times*, p. 7. Retrieved from NewspaperSG.
 
-[^3]: New Family Warehouse. (1858, February 25). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.
+[^3]: [New Family Warehouse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18580225-1.2.5.3). (1858, February 25). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.
 
-[^4]: Robinson’s & Co. (1958). *The story of Robinson’s, 1858–1958* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); Buckley, C.B. (1984). *An anecdotal history of old times in Singapore: 1819–1867* (p. 350). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC); *Koh Seow Chuan Collection: Eu Tong Sen: Robinson & Company, Limited: Minutes of meetings, financial statements, receipts and invoices, 1922–1934*. (1922–1934). [n.p.]. (Call no.: RRARE 338.7616151092 KOH)
+[^4]: Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore: 1819–1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)* (p. 350). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC); *[Koh Seow Chuan Collection: Eu Tong Sen: Robinson & Company, Limited: Minutes of meetings, financial statements, receipts and invoices, 1922–1934](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203780599)*. (1922–1934). [n.p.]. (Call no.: RRARE 338.7616151092 KOH)
 
-[^5]: Robinsons to buy goods from Australia. (1941, July 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^5]: [Robinsons to buy goods from Australi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6). (1941, July 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^6]: Robinson’s & Co. (1958). *The story of Robinson’s, 1858–1958* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *The Straits Times*, 28 Jul 1941, p. 4. 
+[^6]: Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4. 
 
-[^7]: *The Straits Times*, 28 Jul 1941, p. 4.
+[^7]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.
 
-[^8]: *The Straits Times*, 28 Jul 1941, p. 4.
+[^8]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.
 
-[^9]: *Robinsons and Company (Singapore). (2002, December)*. Robinsons 1858: A century of progress (p. 11). *Family News: The Staff Newsletter of the Robinsons Group*. Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)
+[^9]: *Robinsons and Company (Singapore). (2002, December)*. Robinsons 1858: A century of progress (p. 11). *[Family News: The Staff Newsletter of the Robinsons Group](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10129199)*. Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)
 
-[^10]: Robinson’s & Company, 1958, [n.p.].
+[^10]: [Robinson’s & Company](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5189511), 1958, [n.p.].
 
 [^11]: Yap, W.C. (Interviewer). (1997, November 3). *Oral history interview with Ng Joo Kee* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.
 
