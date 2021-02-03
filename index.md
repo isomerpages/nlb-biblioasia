@@ -1,4 +1,5 @@
 ---
+​---
 layout: homepage
 title: NLB BiblioAsia
 description: BiblioAsia is a quarterly magazine produced by the National Library of Singapore
@@ -31,7 +32,7 @@ sections:
         description: Was Madras <i>chunam</i> used inside St Andrew’s Cathedral? Maybe not, says Yeo Kang Shua.
         button: Read this article
         url: /vol-16/issue-4/jan-mar-2021/st-andrew-cathedral
-        image: /images/Vol-16-issue-4/standrew/St-Andrew.jpg
+        image: /images/Vol-16-issue-4/standrew/StAndrew.jpg
         alt: sample of standrew
     
     - infopic:
