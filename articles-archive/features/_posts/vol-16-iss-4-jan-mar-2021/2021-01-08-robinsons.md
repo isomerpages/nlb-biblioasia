@@ -24,7 +24,6 @@ table {
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/robinsons/RememberingRobinsons.jpg">
-
 The Robinsons building in Raffles Place, 1950s. The store’s name is also displayed in Chinese and Malay on the signboard. The statue of Mercury is perched on the top of the arch. <i>Chiang Ker Chiu Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
@@ -40,7 +39,7 @@ What felled the retail giant? Declining sales due to changing consumer tastes an
 
 As Singaporeans bid farewell to a much-loved icon, we look back at some of the defining moments in Robinsons’ storied past gleaned from newspaper reports in NewspaperSG, annual reports and inhouse newsletters kept by the National Library, and oral history interviews and images from the National Archives.
 
-|#### **HOW ROBINSONS GOT ITS NAME**|
+|**HOW ROBINSONS GOT ITS NAME**|
 
 |The grand dame’s history can be traced back to 1 February 1858 when Philip Robinson, who came from Australia, and James Gaborian Spicer, a former keeper at the Singapore Jail, opened Spicer & Robinson at Nos. 9 & 10 Commercial Square (now Raffles Place).|
 
@@ -56,13 +55,13 @@ Robinsons advertising its annual sale in 1907. <i>The Straits Times, 5 September
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/robinsons/Ad2.jpg">
+<img src="/images/Vol-16-issue-4/robinsons/ad2.jpg">
 Spicer & Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). <i>The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG</i>.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/robinsons/Ad3.jpg">
+<img src="/images/Vol-16-issue-4/robinsons/ad3.jpg">
 Robinsons advertising the services of its experienced European cutters who offered bespoke clothing for “every well-dressed man”. <i>The Straits Times, 17 November 1928, p. 1. Retrieved from NewspaperSG</i>.
 </div>
 
@@ -88,7 +87,7 @@ In 1907, Robinsons became among the world’s first agents for Raleigh bicycles,
 The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. <i>Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)</i>.
 </div>
 
-|#### **Robinsons During World War II**|
+|**Robinsons During World War II**|
 
 |In July 1941, Robinsons held its annual shareholder meeting in Singapore. This took place amidst the backdrop of World War II which had broken out in Europe in 1939.[^5] When the company’s Chairman W.H. MacGregor addressed shareholders on 28 July, Britain was still reeling from aerial bombings by the Luftwaffe, the German air force, which had taken place between September 1940 and May 1941.|
 
@@ -110,7 +109,7 @@ By the 1970s and 80s, as Singapore’s economy took off and disposable incomes r
 
 In 2013, its new owners decided to revive the store’s luxury roots: its premises at The Centrepoint were closed and a new, decidedly more upscale, flagship store opened at The Heeren. However, the attempt to target more affluent customers failed. According to retail experts, Robinsons ended up being too expensive for the general public, but at the same time, it was not attractive enough for the well-heeled.[^12]
 
-|#### **Always on the Move**|
+|**Always on the Move**|
 
 |In Singapore, Robinsons relocated several times in the course of its long history. The store’s first move took place in 1859 when it shifted from its original site in Commercial Square to the corner of Coleman Street and North Bridge Road. The new site was a stone’s throw away from the Esplanade (Padang), the heart of social life in 19th-century Singapore.|
 
@@ -157,7 +156,7 @@ The fire brigade arrived at 10.13 am and attempted to put out the blaze but the 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/robinsons/StraitsTimes.jpg">
-The Robinsons store in Raffles Place engulfed in flames. The fire on 21 November 1972 completely gutted the building and destroyed millions of dollars worth of goods. Nine people died in the fire. <i>Image reproduced from Robinsons and Company (Singapore). (2002, December). Family News: The Staff Newsletter of the Robinsons Group (p. 11). Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)</i>. </i>.
+The Robinsons store in Raffles Place engulfed in flames. The fire on 21 November 1972 completely gutted the building and destroyed millions of dollars worth of goods. Nine people died in the fire. <i>Image reproduced from Robinsons and Company (Singapore). (2002, December). Family News: The Staff Newsletter of the Robinsons Group (p. 11). Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)</i>.
 </div>
 
 On 21 December 1972, then President Benjamin Sheares officially appointed a Commission of Inquiry to investigate the cause of the fire. The commission found that Robinsons had overloaded its ageing and deteriorating electrical circuitry by installing numerous spotlights and decorative fittings for the festive Christmas period, ignoring warnings of overloading by its own electricians.
