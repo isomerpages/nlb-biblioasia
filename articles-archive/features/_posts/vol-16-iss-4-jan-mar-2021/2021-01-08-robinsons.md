@@ -53,15 +53,17 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 Robinsons advertising its annual sale in 1907. <i>The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG</i>.
 </div>
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/robinsons/ad2.jpg">
-Spicer & Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). <i>The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG</i>.
-</div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/robinsons/ad3.jpg">
+<img src="/images/Vol-16-issue-4/robinsons/Ad2.jpg">
+Spicer and Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). <i>The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG</i>.
+</div>
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/robinsons/Ad3.jpg">
 Robinsons advertising the services of its experienced European cutters who offered bespoke clothing for “every well-dressed man”. <i>The Straits Times, 17 November 1928, p. 1. Retrieved from NewspaperSG</i>.
 </div>
 
