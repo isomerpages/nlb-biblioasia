@@ -178,7 +178,7 @@ Robinsons would bounce back quickly from this disaster. On 11 December 1972, a n
 <b>Kevin Khoo</b> is a Senior Manager with the Oral History Centre at the National Archives of Singapore.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
