@@ -9,7 +9,7 @@ third_nav_title: Love Is A Many-Layered Thing
 
 <style>
 table { 
-	background-color: #d6dae9c;
+	background-color: #d6dae9;
 	}
 .infobox { 
   padding: 20px;

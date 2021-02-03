@@ -198,8 +198,7 @@ Robinsons would bounce back quickly from this disaster. On 11 December 1972, a n
 
 [^8]: *The Straits Times*, 28 Jul 1941, p. 4.
 
-[^9]: *Robinsons and Company (Singapore). (2002, December)*. 
-Robinsons 1858: A century of progress (p. 11). *Family News: The Staff Newsletter of the Robinsons Group*. Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)
+[^9]: *Robinsons and Company (Singapore). (2002, December)*. Robinsons 1858: A century of progress (p. 11). *Family News: The Staff Newsletter of the Robinsons Group*. Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)
 
 [^10]: Robinson’s & Company, 1958, [n.p.].
 
