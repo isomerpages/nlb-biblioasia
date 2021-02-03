@@ -9,12 +9,12 @@ third_nav_title: St Andrew’s Cathedral and the Mystery of Madras Chunam
 
 <style>
 table { 
-	background-color: #ffe19c;
+	background-color: #ffeee1;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #ffe19c;
+  background: #ffeee1;
 }
 </style>
 
