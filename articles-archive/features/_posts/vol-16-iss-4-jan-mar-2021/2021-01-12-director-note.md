@@ -27,7 +27,5 @@ These are just a few of the interesting articles that await you in this issue. M
 
 <div style="background-color: white;">
 <br/>
-<b>Ms Tan Huism</b>
-Director 
-National Library
+<b>Ms Tan Huism</b><br>Director<br>National Library
 </div>
