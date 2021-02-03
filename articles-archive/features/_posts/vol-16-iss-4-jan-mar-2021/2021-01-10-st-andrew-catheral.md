@@ -23,7 +23,7 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/standrew/.jpg">
+<img src="/images/Vol-16-issue-4/standrew/st-andrew.jpg">
 Completed in 1865 and consecrated as an Anglican cathedral in 1870, St Andrew’s is a national monument that regularly features in guidebooks of Singapore. Almost every description mentions that the interior walls of the building were plastered with Madras <i>chunam</i>, which is partly made of egg white. <i>Courtesy of Preservation of Sites and Monuments, National Heritage Board</i>.
 </div>
 
@@ -165,7 +165,7 @@ Having weighed the historical evidence – the budgetary constraints that affect
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/authors/GeoffreyPakiam.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol-16-issue-4/authors/YeoKangShua.png" style="width: 100px; height: 100px;"/>
 <b>Dr Yeo Kang Shua</b> is Associate Professor of Architectural History, Theory and Criticism, and Associate Head of Pillar (Research/Practice/Industry) at the Singapore University of Technology and Design.
 </div>
 
