@@ -19,7 +19,7 @@ table {
 </style>
 
 
-#### Many generations of Singaporeans have shopped in Robinsons since its founding in 1858. *Gracie Lee* and *Kevin Khoo* highlight some milestones in its illustrious history.
+#### Many generations of Singaporeans have shopped in Robinsons since its founding in 1858. **Gracie Lee** and **Kevin Khoo** highlight some milestones in its illustrious history.
 
 <div style="background-color: white;">
 <br/>
