@@ -27,5 +27,6 @@ These are just a few of the interesting articles that await you in this issue. M
 
 <div style="background-color: white;">
 <br/>
+<img src="/images/Vol-16-issue-4/authors/Tan_Huism.png" style="width: 100px; height: 100px;" />
 <b>Ms Tan Huism</b><br>Director<br>National Library
 </div>

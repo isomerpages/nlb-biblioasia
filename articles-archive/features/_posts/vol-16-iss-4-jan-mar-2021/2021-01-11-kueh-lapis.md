@@ -186,7 +186,7 @@ Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s H
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/ChristopherTan.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-16-issue-4/kuehlapis/Christopher_Tan.png" style="width: 100px; height: 100px;" />
 <b>Christopher Tan</b> is a food writer, author, cooking instructor and photographer whose latest book is the award-winning <i>The Way of Kueh</i>, a comprehensive work about Singapore’s <i>kueh</i> culture.
 </div>
 
