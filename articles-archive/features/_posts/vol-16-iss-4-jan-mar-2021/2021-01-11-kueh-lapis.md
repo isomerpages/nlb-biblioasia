@@ -1,9 +1,9 @@
 ---
-title: Love Is A Many-Layered Thing
+title: Love Is a Many-Layered Thing
 permalink: /vol-16/issue-4/jan-mar-2021/kueh-lapis
 date: 2021-01-01T00:00:00.000Z
-breadcrumb: Love Is A Many-Layered Thing
-third_nav_title: Love Is A Many-Layered Thing
+breadcrumb: Love Is a Many-Layered Thing
+third_nav_title: Love Is a Many-Layered Thing
 
 ---
 
@@ -124,7 +124,7 @@ The early origin stories of *spekkoek* and *lapis legit* remain largely unknown,
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-4/kuehlapis/SpekkoekRecipe.jpg">
-<i>Spekkoek</i> recipe from In a Malayan Kitchen. <i>Spek koek</i> means “bacon cake” in Dutch. Both bacon and cake bear stripes – as can ribbons, as this recipe’s subtitle references. <i>Reproduced from Hing, S. (1956). In a Malayan Kitchen (p. 65). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)</i>.
+The <i>Spekkoek</i> recipe from <i>In a Malayan Kitchen</i>. <i>Spek koek</i> means “bacon cake” in Dutch. Both bacon and cake bear stripes – as can ribbons, as this recipe’s subtitle references. <i>Reproduced from Hing, S. (1956). In a Malayan Kitchen (p. 65). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)</i>.
 </div>
 
 Some have suggested *spekkoek* has its origins in the German *baumkuchen*, the “tree-ring” cake considered the ultimate test and accomplishment of a *konditormeister* (master pastry chef). However, *baumkuchen* has a drier texture than *spekkoek* and is made using a different method: its cylindrical layers are built up around a rotating spit. Also, German records clearly trace its evolution from a dough-based cake in the 1500s into the batter-based form known from the 1700s until today.[^32] “There is no significant record of Prussian people in Indonesia,” says Soemantri, but “perhaps *baumkuchen* influenced the original Dutch *spekkoek*”.[^33]
@@ -181,7 +181,7 @@ Having taken over *lapis*-making duties from my elders, I understand more keenly
 
 <div class="infobox"> 
 <img src="/images/Vol-16-issue-4/kuehlapis/TheWayOfKueh.png" style="width: 350px; height: 200px;"/>
-Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN). It also retails at major bookshops in Singapore.
+Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932)). It also retails at major bookshops in Singapore.
 </div>
 
 <div style="background-color: white;">
@@ -202,13 +202,13 @@ Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s H
 
 [^4]: Manden, A.C. (1895). *Recepten van de Haagsche kookschool* [*Recipes from the Hague Cooking School*] (p. 244). The Hague: De Gebroeders van Cleef. (Not available in NLB holdings). Founded in the late 1800s, the school provided its female students with formal culinary training.
 
-[^5]: van der Meijden, J.M.J.C. (1925). *Groot nieuw volledig Oost-Indisch kookboek* [*Great new complete East Indies cookbook*] (pp. 305–306). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings). A mammoth book chronicling nearly 1,400 recipes from the Dutch East Indies, written to help familiarise Dutch cooks with the cuisine.
+[^5]: Van der Meijden, J.M.J.C. (1925). *Groot nieuw volledig Oost-Indisch kookboek* [*Great new complete East Indies cookbook*] (pp. 305–306). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings). A mammoth book chronicling nearly 1,400 recipes from the Dutch East Indies, written to help familiarise Dutch cooks with the cuisine.
 
 [^6]: Also known as red rice, this is rice inoculated with a yeast strain that produces a vivid red pigment as it grows. The dried grains are a traditional Chinese ingredient used to make rice wine and to add colour to dishes.
 
 [^7]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
 
-[^8]: Van der Meijden, J.M.J.C. (1925). *Groot nieuw volledig Oost-Indisch kookboek* [*Great new complete East Indies cookbook*] (p. 305). Malang: G.C.T. Van Dorp & Co. (Not available in NLB’s holdings)
+[^8]: Van der Meijden, 1925, p. 305.
 
 [^9]: Freshly churned butter is always washed with plain water to remove all traces of buttermilk – the liquid separated from the butterfat by the churning – and casein dairy proteins. If not washed away, these make the butter develop rancid off-flavours and turn bad.
 
@@ -236,7 +236,7 @@ Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s H
 
 [^21]: *Oost-Indisch kookboek* [*East Indies cookbook*] (pp. 62, 89). (1870). Semarang: Van Dorp & Co. (Not available in NLB holdings). The first Dutch-language cookbook of Indonesian recipes.
 
-[^22]: Koopmans-Gorter, A., & De Boer-De Jonge, G.A.M. (1925). *Het nieuwe kookboek* [The new cookbook] (p. 307). Groningen: P. Noordhoff. (Not available in NLB holdings)
+[^22]: Koopmans-Gorter, A., & De Boer-De Jonge, G.A.M. (1925). *Het nieuwe kookboek* [*The new cookbook*] (p. 307). Groningen: P. Noordhoff. (Not available in NLB holdings)
 
 [^23]: [Delicacies and titbits for Hari Raya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830705-1.2.94.6.1). (1983, July 5). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
@@ -262,7 +262,7 @@ Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s H
 
 [^34]: Keijner, W.C. (1972). *Kookboek voor Hollandse, Chinese en Indonesische derechten* [*Cookbook for Dutch, Chinese and Indonesian dishes*] (p. 161). Amsterdam: Uitgeverij J. F. Duwaer & Zonenmsterdam. (Not available in NLB holdings)
 
-[^35]: Sitti Nur Zainuddin-Moro, 1980, p. 18.
+[^35]: [Sitti Nur Zainuddin-Moro](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125292), 1980, p. 18.
 
 [^36]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
 
