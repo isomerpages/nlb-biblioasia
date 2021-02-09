@@ -181,12 +181,12 @@ Having taken over *lapis*-making duties from my elders, I understand more keenly
 
 <div class="infobox"> 
 <img src="/images/Vol-16-issue-4/kuehlapis/TheWayOfKueh.png" style="width: 350px; height: 200px;"/>
-Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932)). It also retails at major bookshops in Singapore.
+Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932">(Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN)</a>. It also retails at major bookshops in Singapore.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/Christopher_Tan.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-16-issue-4/authors/Christopher_Tan.png" style="width: 100px; height: 100px;" />
 <b>Christopher Tan</b> is a food writer, author, cooking instructor and photographer whose latest book is the award-winning <i>The Way of Kueh</i>, a comprehensive work about Singapore’s <i>kueh</i> culture.
 </div>
 
