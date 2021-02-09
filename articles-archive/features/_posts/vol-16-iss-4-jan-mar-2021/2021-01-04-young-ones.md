@@ -92,7 +92,7 @@ Yet, some things carried on as they had before. Bumboats still jostled on the fe
 This small selection of photographs is a reminder that every senior citizen today was once a playful, lively child and that it is important to remember, as Cliff Richard so famously sang in his 1962 record-breaking pop single, “The Young Ones”, to “live, love, while the flame is strong, ‘cause we may not be the young ones, very long”.
 
 <div class="infobox"> 
-<img src="/images/Vol-16-issue-4/youngones/ThereWasATimeFINAL.png" style="width: 350px; height: 200px;"/>
+<img src="/images/Vol-16-issue-4/youngones/There-Was-A-Time-cover-mockup-FINAL.png" style="width: 350px; height: 200px;"/>
 <i>There Was a Time: Singapore from Self-Rule to Independence, 1959–1965</i> – produced by Landmark Books in collaboration with the National Archives of Singapore (NAS) – is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.5705 THE-[HIS] and SING 959.5705 THE). Comprising some 238 images, largely taken from the collections of the NAS, the 288-page pictorial book also retails at major bookshops in Singapore.
 </div>
 
