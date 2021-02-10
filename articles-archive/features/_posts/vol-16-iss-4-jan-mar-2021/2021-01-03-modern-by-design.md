@@ -191,35 +191,35 @@ By making design education accessible to the man in the street, BVI was instrume
 
 [^2]: The first vocational institute to specialise in craft and trade subjects was the Singapore Vocational Institute set up in 1963 in Balestier. In 1965, the government announced two new institutes, one specialising in engineering in Boon Lay and another for the applied arts in Queenstown. The latter became the Baharuddin Vocational Institute.
 
-[^3]: Ministry of Culture. (1970, November 7). *Text of speech by the Minister of State for Education, Dr Lee Chiaw Meng, at the first graduation exercise and open house of Baharuddin Vocational Institute, Stirling Road, on Saturday November 7, at 5 p.m.* [Speech]. Retrieved from National Archives of Singapore website.
+[^3]: Ministry of Culture. (1970, November 7). *[Text of speech by the Minister of State for Education, Dr Lee Chiaw Meng, at the first graduation exercise and open house of Baharuddin Vocational Institute, Stirling Road, on Saturday November 7, at 5 p.m.](https://www.nas.gov.sg/archivesonline/speeches/record-details/03c148b5-bb8d-11e6-b045-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
 [^4]: Ong, Z.M. (2006). *A history of the Nanyang Academy of Fine Arts (1938–1990)* [Unpublished thesis]. Singapore: National University of Singapore. (Not available in NLB’s holdings)
 
-[^5]: The Singapore Commercial Art Society. (1977). *National commercial art exhibition souvenir catalogue*. Singapore: Singapore Commercial Art Society. (Call no.: RSING 741.6 NAT)
+[^5]: The Singapore Commercial Art Society. (1977). *[National commercial art exhibition souvenir catalogue](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84511929)*. Singapore: Singapore Commercial Art Society. (Call no.: RSING 741.6 NAT)
 
-[^6]: Ministry of Education. (1964–1969). *Proposed Queenstown Vocational Institute for manual and applied arts – training*. Retrieved from National Archives of Singapore website.
+[^6]: Ministry of Education. (1964–1969). *[Proposed Queenstown Vocational Institute for manual and applied arts – training](https://www.nas.gov.sg/archivesonline/government_records/record-details/94abee4b-1159-11e3-83d5-0050568939ad)*. Retrieved from National Archives of Singapore website.
 
-[^7]: Creamer, R. (2016). *Iskandar Jalil*. Retrieved from Singapore Infopedia, National Library, Singapore.
+[^7]: Creamer, R. (2016). *[Iskandar Jalil](https://eresources.nlb.gov.sg/infopedia/articles/SIP_267_2005-01-13.html)*. Retrieved from Singapore Infopedia, National Library, Singapore.
 
-[^8]: Ministry of Culture. (1971, October 8). *Speech by Prof Wong Lin Ken, Minister for Home Affairs and M.P. for Alexandra, at official opening of the Baharuddin Vocational Institute on Friday, 8th October 1971, at 7.15 p.m.* [Speech]. Retrieved from National Archives of Singapore website.
+[^8]: Ministry of Culture. (1971, October 8). *[Speech by Prof Wong Lin Ken, Minister for Home Affairs and M.P. for Alexandra, at official opening of the Baharuddin Vocational Institute on Friday, 8th October 1971, at 7.15 p.m.](https://www.nas.gov.sg/archivesonline/speeches/record-details/7af53731-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
-[^9]: Kwee, M. (1971, October 1). From doll making to ads display with 70 experts. *The Straits Times*, p. 1. Retrieved from NewspaperSG; Ministry of Culture, 8 Oct 1971.
+[^9]: Kwee, M. (1971, October 1). [From doll making to ads display with 70 experts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711001-1.2.87). *The Straits Times*, p. 1. Retrieved from NewspaperSG; [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7af53731-115d-11e3-83d5-0050568939ad), 8 Oct 1971.
 
 [^10]: *Baharuddin Vocational Institute Printing School*. (1971, October). Singapore: Baharuddin Vocational Institute. (Not available in NLB holdings)
 
-[^11]: Ministry of Culture, 8 Oct 1971.
+[^11]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7af53731-115d-11e3-83d5-0050568939ad), 8 Oct 1971.
 
-[^12]: *Baharuddin Vocational Institute*. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)
+[^12]: *[Baharuddin Vocational Institute](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5383082)*. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)
 
-[^13]: Lee warns: Be ready for a long dispute with Soek. (1965, June 21). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^13]: [Lee warns: Be ready for a long dispute with Soek](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650621-1.2.28). (1965, June 21). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^14]: New Town Secondary School. (2018). *School history*. Retrieved from New Town Secondary School website.
 
-[^15]: *The Straits Times*, 1 Oct 1971, p. 1; Baharuddin Vocational Institute, 1971.
+[^15]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711001-1.2.87)*, 1 Oct 1971, p. 1; [Baharuddin Vocational Institute](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5383082), 1971.
 
-[^16]: Holmberg, J. (1977, July 14). Creativity. *New Nation*, p. 9. Retrieved from NewspaperSG.
+[^16]: Holmberg, J. (1977, July 14). [Creativity](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770714-1.2.57). *New Nation*, p. 9. Retrieved from NewspaperSG.
 
-[^17]: Notices: Technical Education Department. (1971, March 8). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+[^17]: [Notices: Technical Education Department](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710308-1.2.81.1). (1971, March 8). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
 [^18]: Personal interview with Patrick Cheah, 1 February 2012. 
 
@@ -227,11 +227,11 @@ By making design education accessible to the man in the street, BVI was instrume
 
 [^20]: Chew, 2020, Memory of Nancy Wee. 
 
-[^21]: Alfred, H. (1984, April 8). ‘Brain drain’ to Poly. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^21]: Alfred, H. (1984, April 8). ‘[Brain drain’ to Poly](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840408-1.2.6). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 [^22]: Personal interview with Wee Chwee Beng, 16 March 2010.
 
-[^23]: Ministry of Culture. (1979, November 27). *Address by Dr Ahmad Mattar, acting Minister for Social Affairs and Chairman, Vocational and Industrial Training Board, at the inaugural meeting of the second term of office of the applied arts trade advisory committee at the VITB Board room* [Speech]. Retrieved from National Archives of Singapore website.
+[^23]: Ministry of Culture. (1979, November 27). *[Address by Dr Ahmad Mattar, acting Minister for Social Affairs and Chairman, Vocational and Industrial Training Board, at the inaugural meeting of the second term of office of the applied arts trade advisory committee at the VITB Board room](https://www.nas.gov.sg/archivesonline/speeches/record-details/7244df85-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
 [^24]: Personal interview with Ronnie Tan, 1 September 2011.
 
@@ -239,14 +239,14 @@ By making design education accessible to the man in the street, BVI was instrume
 
 [^26]: Email interview with Lim Chong Jin, 8 November 2010.
 
-[^27]: Tan, W.J. (1974, June 2). Baharuddin students’ works on sale at exhibition. *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^27]: Tan, W.J. (1974, June 2). [Baharuddin students’ works on sale at exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740602-1.2.54). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^28]: *The Straits Times*, 2 Jun 1974, p. 10.
+[^28]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740602-1.2.54)*, 2 Jun 1974, p. 10.
 
-[^29]: Singapore. Industrial Training Board. (1977, October). ITB appoints its ninth TAC. *ITB News*, 3.
+[^29]: Singapore. Industrial Training Board. (1977, October). ITB appoints its ninth TAC. *[ITB News](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5041517)*, 3.
 
-[^30]: Ministry of Culture, 27 Nov 1979.
+[^30]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7244df85-115d-11e3-83d5-0050568939ad), 27 Nov 1979.
 
-[^31]: He, S. (2008, September 4). *Oral history interview with Khor Ean Ghee* [许延义] [MP3 recording no. 003343/12/08]. Retrieved from National Archives of Singapore website.
+[^31]: He, S. (2008, September 4). *[Oral history interview with Khor Ean Ghee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/759020e5-1161-11e3-83d5-0050568939ad?keywords=KHOR+Ean+Ghee&keywords-type=all)* [许延义] [MP3 recording no. 003343/12/08]. Retrieved from National Archives of Singapore website.
 
 [^32]: Management Development Institute of Singapore. (2020). MDIS Heritage 2000. Retrieved from MDIS website.BecomingModernByDesign
