@@ -249,4 +249,4 @@ By making design education accessible to the man in the street, BVI was instrume
 
 [^31]: He, S. (2008, September 4). *[Oral history interview with Khor Ean Ghee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/759020e5-1161-11e3-83d5-0050568939ad?keywords=KHOR+Ean+Ghee&keywords-type=all)* [许延义] [MP3 recording no. 003343/12/08]. Retrieved from National Archives of Singapore website.
 
-[^32]: Management Development Institute of Singapore. (2020). MDIS Heritage 2000. Retrieved from MDIS website.BecomingModernByDesign
+[^32]: Management Development Institute of Singapore. (2020). MDIS Heritage 2000. Retrieved from MDIS website.
