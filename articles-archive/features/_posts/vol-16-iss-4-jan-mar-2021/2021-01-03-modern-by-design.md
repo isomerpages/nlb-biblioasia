@@ -19,211 +19,234 @@ table {
 </style>
 
 
-#### What lies in this vale of tiers? **Christopher Tan** delves into *lapis legit*, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers. 
+#### The now-defunct Baharuddin Vocational Institute was Singapore’s first formal school for design. **Justin Zhuang** looks at how the institute laid the foundation for the design industry here.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewinginsingapore.jpg">
-
-A <i>sirih</i> seller, Indonesia, late 19th–early 20th centuries. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i>
-
+<img src="/images/Vol-16-issue-4/modernbydesign/BecomingModernByDesign.jpg">
+According to a manifesto by the editorial team of Baharuddin Vocational Institute’s 1971 commemorative magazine, the institute aimed to produce a “new breed of creative people”. <i>Image reproduced from Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)</i>.
 </div>
 
-Betel chewing has been practised for thousands of years in Asia. Across Southeast Asia, betel chewing (*makan sirih*[^1] in Malay) was once a social necessity. The practice was also deeply embedded in Indian and Peranakan communities. However, the rich symbolism in the various elements of betel chewing, as well as the important social and cultural functions that it once served, has often been overshadowed by the visual spectacle of the betel chewers, with their black-stained teeth, crimson lips, scarlet saliva and proclivity for spitting. 
+In the 1960s, most school crests in Singapore probably involved some combination of a torch with an open flame, an open book and a lion – all emblazoned on a shield with a motto below it.
 
-In Singapore, betel chewing has all but died out among its people today, and the practice is now sustained largely by migrants and visitors from regions where chewing betel remains widespread.
-
-#### **A Millennia-old Asian Habit**
-
-Fragments of containers from the 14th century that held lime (calcium carbonate) have been discovered in Singapore, attesting to the likelihood that betel chewing on the island dates from this period at least.[^2] However, the quid has been part of Asia’s social and cultural landscape for much longer. One of the oldest known sources of evidence dates to around 2660 BCE: skeletal remains with stained teeth suggestive of betel chewing, as well as containers for storing lime, were discovered at a burial site in Duyong Cave on the island of Palawan in southern Philippines.[^3]
-
-Historian Anthony Reid points out the wide-ranging indigenous terms for areca nut and betel used in the Indonesian Archipelago and the Philippines, suggesting that the betel quid originated from island Southeast Asia.[^4] The areca palm itself  (*Areca catechu*)  may have a Malayan origin, judging by the sheer number of palm varieties recorded in the Malay Peninsula.[^5]
-
-The archaeological and linguistic records found in southern India strongly suggest that the areca palm and betel vine (*Piper betle*)  came from Southeast Asia, probably from the second millennium BCE onwards.[^6] Through centuries of maritime trade and migration, betel chewing and its accompanying botanical material spread throughout Southeast Asia to the western Pacific, across the Indian subcontinent and even reaching as far as the fringes of East Africa.
+But Wee Chwee Beng, a pioneer teacher of Baharuddin Vocational Institute (BVI), ditched these hallmarks of Western heraldry when he designed a crest for the new institute in 1968. Instead of an illustrative approach, Wee abstracted the initials “BVI”  into two right-angled arrows. Each was assembled by combining the letters “V” and “I”, while one was enclosed to form a triangle-like “B”. The arrows were constructed into a larger right-angled triangle that was inversely mirrored to form a square crest, which looked identical regardless of which side it was viewed from.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/betel/twomensellingbetel.jpg">
-A painting of two men selling betel quid by an Indian artist, c. 1800s. <i>Wellcome Collection. Attribution 4.0 International (CC BY 4.0).</i>
+<img src="/images/Vol-16-issue-4/modernbydesign/DesignCrest.jpg">
+The design of the crest of Baharuddin Vocational Institute. The crest was an abstract combination of the letters “BVI”. <i>Image reproduced from Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)</i>.
 </div>
 
-#### **A Parcel Like No Other**
-
-While it is often referred to as betel chewing, strictly speaking, what is chewed is known as the betel quid. In its most basic form, the betel quid comprises three ingredients: betel leaf (*sirih*), areca nut (*pinang*)  and slaked lime (*kapor* or *chunam*), a paste made from the powdered shells of molluscs or coral. Slaked lime is first spread on the leaf before shavings or pieces of dried areca nut are laid on top. The leaf is then folded inwards to cover the contents, ready to be chewed. 
+This design was too radical, even for his colleagues at Baharuddin. They found the abstract logo too modern for their liking. “I felt strongly at that point in time that we should break away from the norm or what is expected because I am designing for the future, not for the present, not for the past,” Wee explained. “At a time when others were drawing tigers and lions [on school crests], people were a bit shocked. I kept on trying to tell them it will be acceptable even 30 to 40 years on. I was saying this [design] would be modern and contemporary whereas if you start to have lions and tigers you are going back [in time].”1
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/betel/betelleaf.jpg">
-
-The basic elements of the betel quid: the betel leaf (<i>sirih</i>), pieces of areca nut (<i>pinang</i>) and a smear of slaked lime (<i>kapor</i> or <i>chunam</i>), a white paste made from the powdered shells of molluscs or coral. <i>Photo from Shutterstock.</i>
-
+<img src="/images/Vol-16-issue-4/modernbydesign/magcover.jpg">
+The cover of the commemorative magazine to mark the official launch of Baharuddin Vocational Institute in 1971. <i>Image reproduced from Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)</i>.
 </div>
 
-Preparation techniques varied according to cultural and individual preferences. According to Gwee Thian Lye (better known as G.T. Lye), a well-known *dondang sayang*[^7]  performer and consultant on Peranakan culture, two types of betel leaves were chewed in Singapore: one larger and dark green, the other smaller and light green. Peranakan Chinese ladies are said to have favoured the latter for making *sirih*, while the Indian and Malay communities mainly used the former.[^8]
+The eventual adoption of Wee’s progressive design was a fitting start for an institute set up to support Singapore’s rapid industrialisation programme. BVI was part of a network of vocational training institutes established by the government after Independence as part of a national industrialisation drive spearheaded by then Minister for Finance Goh Keng Swee. 
+
+At the time, the newly minted nation faced a raft of economic woes: the unemployment rate was high and many people were living in slums and squatter settlements. These vocational institutes2 were started with the objective of training a skilled workforce who could work in the new multinational companies and factories that the government was trying to attract to invest in Singapore. 
+
+The diverse curriculum from vocational institutes ranged from courses in mechanical engineering to building construction. BVI, however, specialised in the manual and applied arts, which included advertising art, handicrafts, fashion, furniture design and printing. Its graduates were expected to play a vital role in creating made-in-Singapore products, said then Minister of State for Education Lee Chiaw Meng at BVI’s first graduation ceremony on 7 November 1970:
+
+“This institute was established with the realisation that the development of industries in Singapore requires a greater focus on design, product presentation, packaging, advertising and display and a growing printing industry. Furthermore, the expanding tourist trade planned for Singapore will inevitably generate a demand for handicrafts and souvenirs with a local flavour.”3
+
+#### **A National Design Institute**
+
+Prior to the establishment of the BVI, one typically entered such creative trades via an internship with companies or apprenticeship with artisans and practitioners. Studying art and design in prestigious overseas institutions was a privilege that only a select few enjoyed, who either paid the hefty school fees out of their own pockets or were awarded full scholarships. Although various private organisations in Singapore offered formal training in such fields, none seemed to be particularly successful.
+
+The Nanyang Academy of Fine Arts – Singapore’s only art school then – had an Applied Arts Department since its founding in 1938, offering courses in calligraphy, graphic design, fabric design and illustration.4 However, it was primarily regarded as a school for artists rather than one that trained skilled workers for the manufacturing and industrial sector.
+
+The Singapore Commercial Art Society (now defunct), which represented artists working in the advertising industry, pioneered a two-year commercial art course taught by members in 1970. Unfortunately, the take-up rate was low and there was a hiatus of six years before the next run of the course began in 1976.5
+
+The government’s foray into applied arts training started in the 1960s with short-term courses offered by the Adult Education Board. Sometime around 1964, the Ministry of Education began planning for a dedicated institute.6 In 1965, Laurence Koh Boon Piang, a Specialist Inspector (Arts and Crafts), was appointed to plan, lead and run the proposed “Queenstown Vocational Institute” (BVI’s original name), overseen by the ministry’s Technical Education Department. He was supported by a team of art teachers, many of whom were sent overseas for applied arts training sponsored by various countries and organisations, including the Colombo Plan.
+
+Wee was one of those sent abroad. He went to Montreal, where he studied under a Canadian team that was constructing displays for the 1967 International and Universal Exposition, or Expo 67, the historic world fair where nations come together to showcase their achievements.
+
+Another Baharuddin teacher, Iskandar Jalil (who later became an eminent ceramist and winner of the Cultural Medallion for Visual Arts in 1988),7 was sent to Maharashtra, India, in 1966 under a Colombo Plan Scholarship to learn textile design. In 1972, he headed to Tajimi, Japan, where he received an education in ceramics engineering, also under the same scholarship. By the time BVI officially opened in 1971, nearly 40 percent of its teaching staff had been trained abroad.8
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/betel/peranakanwomanholdingbetelquid.jpg">
-Portrait of a Peranakan Chinese woman holding a betel quid by August Sachtler, Singapore, c. 1860s. On the table is a betel box. <i>Collection of Mr and Mrs Lee Kip Lee. Courtesy of Peter Lee.</i>
+<img src="/images/Vol-16-issue-4/modernbydesign/MasterPotter.jpg">
+Master potter Iskandar Jalil using his single-hand technique to create an artwork, 2007. The Cultural Medallion winner taught at the Baharuddin Vocational Institute and later at Temasek Polytechnic’s School of Design until his retirement in 1999. <i>Courtesy of Iskandar Jalil</i>. 
 </div>
 
-Many also considered gambier to be an essential ingredient and small pieces would be added alongside the areca nut slices. Later, tobacco became a popular addition and shreds of it might be folded together with the leaf. For a change of flavour, betel chewers sometimes rubbed a wad of tobacco against their teeth and gums after chewing betel.[^9]
-
-Known as *vetrilai* (Tamil), *paan supari* (Hindi) or *tambula* (Sanskrit), the betel quid favoured by Tamils included finely ground spices such as cardamom, clove, nutmeg and mace for an extra dash of fragrance. The mix of spices is known as *paan masala* and each betel quid vendor (*paanwalla*) had his own unique mix. A clove might also be used to seal the betel package.
-
-The English herbalist John Gerard first described the areca nut as the “drunken date” in 1597, due to its supposedly intoxicating effects when consumed together with slaked lime.[^10] The common physiological effects of areca nut, similar to narcotics and stimulants, include a sense of well-being, heightened alertness, increased bodily warmth, improved digestion and better stamina.[^11] The combination of lime and areca nut releases the latter’s alkaloids, particularly arecoline, producing a sedative effect. At the same time, arecoline affects the peripheral and central nervous systems of the body.[^12] Chewing the quid also produces copious amounts of red saliva, leading to the habit of frequent spitting and even red stools.
-
-The World Health Organization (WHO) estimates that some 600 million people around the world consume some form of areca nut today. The areca nut is classified as a carcinogen by the WHO, and studies have shown a correlation between betel chewing and cancer of the mouth and esophagus.[^13]
-
-As with other widely consumed alkaloids like caffeine and theobromine (the latter is present in cocoa), the psychotropic effects of betel chewing vary between individuals and, perhaps more importantly, are heavily tempered by social context. Those accustomed to viewing betel chewing as a comforting and calming practice may feel calm and relaxed from chewing, while the habit may have the opposite effect on someone brought up to believe in betel chewing’s stimulating effects.
-
-#### **Our Daily Chew**
-
-In Singapore and Malaya during the 19th and early 20th centuries, the betel quid was enjoyed by a broad swathe of society, often transcending class and gender. It was consumed throughout the day, especially after meals due to the quid’s digestive and breath-freshening qualities.[^14] Although only a minority of Chinese migrants and Eurasians in Singapore appreciated the quid, many aristocrats, merchants and labourers in the Indian, Malay and Peranakan communities chewed betel regularly.[^15]
-
-Perhaps the most fundamental role of the betel quid was in promoting and strengthening social ties.[^16] Betel chewing served as a social lubricant, like communal eating or drinking alcohol: 
-
-“Over a chew of betel, they might cogitate over the day’s problems, or gossip with a neighbour or just sit and relax. Chewing betel is a leisurely business and cannot be hurried over." [^17]
-
-During social and business gatherings, it was *de rigueur* to welcome guests, friends, colleagues and relatives with a tray of betel quid ingredients. According to Reid, “Everyday hospitality consisted in the sharing of betel, not food.”[^18] Declining the quid was deemed as being disrespectful to the host, and those who did not chew would politely consume a betel leaf at least. The betel set was thus an indispensable part of Tamil, Malay and Straits Chinese homes.[^19] For some, it was treated like a sacred object that had to be respected. In Straits Chinese homes, placing a betel box on the floor instead of a table when one was seated on a chair was widely believed to invite bad luck.[^20]
-
-As in much of the Malay world, betel chewing in Singapore tended to have feminine overtones. According to a 1951 *Singapore Free Press* article, among ethnic Indians it was mostly women who “chewed a lot”, and the typical image of a Tamil grandmother in the 1950s was of her “sitting with her legs stretched out at ease and pounding away her chew of betel in her little mortar”.[^21] Even well into the 1980s, Peranakan Chinese *bibik*[^22] were popularly portrayed as deftly folding *sirih* during card games such as *cherki*.[^23] *The Malaya Tribune* reported in 1949 that many Peranakan Chinese women (known as *nonya*) were so attached to their chews that “wherever the *nonya* goes, the *sireh* set is sure to go”.[^24] Peranakan Chinese men (*baba*) who indulged in betel chewing were said to be quite rare, and those who did were perceived to be effeminate.[^25]
-
-However, many men were known to be habitual chewers. Indian labourers sharing areca nuts, betel leaves and lime with one another were once a common sight.[^26] For them, betel chewing was perhaps a means to stave off hunger and be more alert. Manual workers were said to derive energy from chewing betel during their long hours of work.[^27] The betel quid was also believed to be particularly useful for those embarking on a long journey, such as Muslims performing the Haj, as it helped tide them over periods of hunger and fatigue.[^28] 
-
-#### **A Symbol of Love**
-
-The *sirih’s* centrality in mediating social relations extended to love and romance. The betel quid symbolised courtship, marital and sexual union in Malay, Straits Chinese and Hindu cultures, and features strongly in betrothal rituals. It is believed that the areca nut and betel leaf complement each other perfectly: they are considered “heaty” and “cooling” foods respectively – together they symbolise balance. The betel leaf and areca nut are also said to represent the female and male respectively, alluding to how the betel vine entwines itself around the areca palm.
-
-The age-old association of the betel quid with love and courtship is evident in the etymology of Malay and Tamil words relating to marriage and betrothal. The Malay terms for proposing marriage (*meminang*) and betrothal (*pinangan*) are derived from *pinang* (areca nut), while the Tamil term for engagement, *nichaya tambulam*, is derived from *tambulam* (betel quid).
-
-In traditional Malay culture, a suitor or one of his relatives would bring a tray of betel quid to the prospective wife’s residence to ask for her hand in marriage. This custom of *hantar sirih* (Malay for “presenting betel”) was also practised by the Peranakan community, albeit with some differences. Female guests of a Straits Chinese wedding would have received an invitation known as the *sa kapor siray* – a miniature triangular parcel of betel quid containing a smidgen of areca nut. This custom was still practised in post-war Singapore, but was replaced by Western-style invitation cards by the 1980s.[^29] Similarly, the Chetty Melaka (Peranakan Indians) had a ritual known as *hantar sirih kovil pathiram* during which trays of invitation cards, betel leaves, areca nuts, flowers and other items would be blessed at the temple before being distributed to guests.[^30] One’s acceptance of a betel quid in most social contexts implied agreement.
-
-In Malay weddings, a ceremonial betel box known as the *tepak sirih*, containing betel quid ingredients, was once the centrepiece in the bridal display. Traditionally, the *tepak sirih* was also placed outside the newlyweds’ room on the first night of marriage as an indication of the bride’s chastity. If the groom discovered that his wife was not a virgin, the *tepak sirih* would be turned upside down the next morning.[^31] In Straits Chinese culture, the betel box also symbolised the bride’s purity: on the wedding day, a betel box was placed in the centre of the marital bed. These rituals are no longer customary in Singapore as most Malay and Straits Chinese weddings now take on a more contemporary flavour.
-
-However, Malay weddings today still feature the betel leaf in various guises: *sirih dara, sirih junjung* and *sirih lat-lat. Sirih dara* and *sirih junjung* refer to floral arrangements featuring verdant green betel leaves rolled into a conical shape, representing the virginity of the bride and groom respectively. These are displayed during the wedding ceremony. 
+Besides sponsoring the training of staff, several countries also funded the physical set-up of the institute. The British government allocated some $2.25 million from its Special Aid Scheme to construct a new building for the BVI on Stirling Road and furnish it with $850,000 worth of equipment and furniture.9 The Federal Republic of Germany donated some $3.5 million worth of machinery and equipment, provided training fellowships and even sent a team of eight experts here to set up and run a department at BVI to teach students how to work in a commercial press.10
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewing-yellowcloth.jpg">
-A Malay wedding <i>sirih</i> set, 2004. It comprises a gold embroidered red container filled with betel leaves, brass receptacles for holding the incense and <i>air mawar</i> (rose water), and a container for storing the areca nut <i>(pinang)</i> and slaked lime <i>(kapor</i> or <i>chunam).</i> <i>PictureSG, National Library, Singapore.</i>
-
+<img src="/images/Vol-16-issue-4/modernbydesign/Campus.jpg">
+The campus of Baharuddin Vocational Institute on Stirling Road, which opened in 1971. <i>Image reproduced from Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)</i>.
 </div>
 
-*Sirih lat-lat* is a small floral bouquet containing betel leaves, which is delivered to the groom on the wedding day to signal the bride’s readiness to be visited by the groom and his entourage. According to researcher Khir Johari, the betel leaf, or *sirih*, generally represents humility, generosity and respectfulness in the Malay world – a reflection of the way in which the betel vine climbs up its host plant unobtrusively.[^32]
-
-The betel quid is considered an aphrodisiac in the *Kamasutra*, the ancient Sanskrit text on sexuality and eroticism.[^33] In Hindu marriage ceremonies, trays of betel quid, symbolising everlasting bonds, were passed around for guests to chew.[^34] Although betel quid ingredients are still used in Hindu prayer offerings and wedding ceremonies today, the quid is rarely chewed. 
-
-
-|**THE BETEL CHEWER'S TOOLKIT**|
-
-|A typical betel set might comprise a box with three or four containers (*cembul*) – for storing betel leaves, sliced areca nut, slaked lime, gambier or tobacco – and a slicer (*kacip*)  for cutting the dried areca nut. The quality of a betel caddy indicated the owner’s social status: the working class had their betel chewing paraphernalia wrapped simply in a piece of newspaper or cloth, or kept in a wooden box, while the well-heeled showcased betel boxes made of highly decorated brass, copper or silver.[^35] Ornate *kacip* often featured handles carved in the form of the *kuda sembrani*, the Malay mythological flying horse.[^36]|
-
-|A moderately wealthy household usually had two betel sets at home: one for daily use and another for guests. The more elaborate betel boxes ended up as family heirlooms or collectors’ items. Alongside betel sets, spittoons were also a common fixture in homes and establishments to hold the red spittle produced from chewing betel. These spittoons were often made of brass or porcelain. Elderly chewers who lacked teeth used a small mortar and pestle to grind larger ingredients, if not the entire quid, into a finer consistency for an easier chew.[^37]|
-
-|Betel chewing also shaped sartorial practices. A wealthy Malay lady in the 1920s might wear an intricately crafted silver belt from which hung a purse and a case to contain betel ingredients so as to satisfy her craving for a chew while she was out.[^38] A Straits Chinese woman would drape a large red or dark-coloured handkerchief, folded into a triangle, over one shoulder of her *kebaya* for wiping red spittle from her lips.[^39]|
-
-|<img src="/images/Vol-16-issue-3/betel/straitschinesebetelset.png">An early 20th-century Straits Chinese betel set comprising four containers (*cembul*) for storing betel leaves, areca nut slices, slaked lime and gambier, and a nut slicer (*kacip*) designed as the Malay mythical flying horse known as the *kuda sembrani. Courtesy of the National Museum of Singapore, National Heritage Board.*|
-
-#### **The Decline of Betel Chewing**
-
-By the 1950s, betel chewing had reportedly fallen out of favour among younger adults in Singapore.[^40] Some 30 years later, the practice was near extinction, enjoyed only by the elderly, a remarkable decline of such an old, pervasive habit within a single generation.
-
-Growing concerns about betel chewing’s long-term effects on health likely played a part in deterring youths from picking up the habit, and perhaps nudged some older people into reducing their chewing frequency. While *sirih* is a common ingredient in traditional Malay medicine, betel chewing from the 1930s onwards became increasingly associated with oral cancer. The purported dental benefits of chewing betel, such as the strengthening of teeth and gums, were also challenged in popular media. That said, Singapore newspapers continued to run health advisories against betel chewing as late as the 1980s, suggesting that such advice was often ignored, particularly among habitual chewers.
-
-Changing social and cultural attitudes were, perhaps, greater contributing factors to the quid’s demise in Singapore. Once socially acceptable, betel-stained teeth were increasingly perceived as unsightly, thanks to the circulation of images in mass media of “beautiful” people with spotless, gleaming teeth. Negative perceptions were also reinforced by unflattering portrayals of chewers in Asian literature. In a short story published in the Malay-language newspaper *Berita Harian* in 1964, the protagonist was so repulsed by his wife’s betel-stained teeth that “he wanted to jump from the window”.[^41] Meanwhile, the effect of red-stained lips caused by betel chewing, often coveted by women as a marker of beauty, was achieved by cosmetics, which replaced the increasingly unfashionable chew. In a 1994 feature in *The Straits Times*, Helena Rubenstein’s Rouge Glorious lipstick was touted as “a cross between a shine-less matt lipstick and a long-wearing one with cling-to-the-lip colour but without the betel-nut stain effect”.[^42]
-
-The habit was also often deemed unsanitary due to the frequent spitting that accompanied the chewing. When betel chewing was still widespread in Singapore, walkways and roads in the town area were covered in red blotches of spittle, prompting frequent complaints about defaced environments and hygiene issues. One writer expressed disgust at the “revolting scarlet gobs of the betel chewer” that occasionally landed on an unfortunate passer-by.[^43] Newspapers published numerous letters airing similar grievances up until the 1980s. 
-
-Anti-tuberculosis campaigns in the post-war decades also portrayed spitting as socially deviant and disease-spreading. Given the many negative connotations surrounding betel chewing, it was perhaps unsurprising that aspirational individuals and households found it difficult to reconcile the age-old habit with new forms of civic-mindedness and respectability in Singapore.
-
-As independent Singapore pursued its modernisation plans at full throttle, betel chewing became a habit associated with the older generations and was perceived as an outdated practice. In the mid-1970s, the weekend crowd at Geylang Serai Market was described as comprising mostly the elderly who chewed betel together.[^44] In Little India, too, the main chewers were older proprietors, seated in front of their shops.[^45] By the late 1980s, the *paanwalla* was considered part of a long list of vanishing trades in Singapore, along with Indian parrot astrologers and Chinese letter writers. 
+At BVI’s official opening on 8 October 1971, then Minister for Home Affairs Wong Lin Ken acknowledged the international efforts in realising what was ultimately a nationalistic endeavour. “The Baharuddin Vocational Institute is also unique in that it is a multi-national effort,” he said. “In this way, our Republic will some day be able to depend entirely on our own designers and craftsmen in the field of advertising, handicraft souvenir, fashion, woodworking and printing trades.”11
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/betel/betelchewing-sitandstand.png">
-
-(Left) A <i>paanwalla</i>, or betel quid vendor, at his stall, 1968. By the 1980s, as betel chewing had fallen out of favour, these vendors, once a ubiquitous sight in Singapore, joined the ranks of a long list of vanishing trades. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
-
-(Right) A woman with a chew in her mouth, 1955. Betel chewing was a habit indulged in by many women in early Singapore. <i>Donald Moore Collection, courtesy of National Archives of Singapore.</i>
-
+<img src="/images/Vol-16-issue-4/modernbydesign/1975Cohort.jpg">
+The 1975 cohort of the advertising art class. Seated second from the right is pioneer teacher Wee Chwee Beng, who designed the crest for the institute in 1968. The principal, Rashid Durai, is seated fourth from the right. <i>Courtesy of Collin Choo</i>.
 </div>
 
-#### **Contemporary Consumption**
+#### **Advertising for BVI**
 
-The 1980s saw the Singapore government vigorously courting the tourist dollar and Little India was developed into a tourist attraction. As a result, the *paanwalla* were retained and co-opted into the government’s plan to inject “local flavour” into the area.[^46] In this vision, a guided tour in Little India would not be complete without a visit to the *paanwalla* for a betel chewing demonstration, where tourists could marvel at his red saliva and stained teeth.[^47] Betel chewing was thus presented as an object of fascination in a reordered, modern and sanitised city. 
+BVI began taking in its first batch of students in 1968, even before the completion of its campus on Stirling Road. Over the next two years, the institute ran courses out of borrowed classrooms at Kim Keat Vocational School, Singapore Vocational Institute, Tanglin Vocational School and even at the printing demonstration room of the East Asiatic Co.12 
 
-The betel quid trade in Singapore today is largely supported by migrants and visitors from countries like Bangladesh, India and Myanmar, where betel chewing remains widespread. A handful of vendors still operate in areas frequented by migrants, such as Little India and Peninsula Plaza. One may also encounter the betel quid in Indian restaurants. Green bundles are strategically placed on trays located near the cashier so that patrons can grab one for a post-meal chew while paying their bill.
+It cannot be ascertained why the institute was renamed from Queenstown to Baharuddin, but it is most likely in memory of former People’s Action Party assemblyman Baharuddin bin Mohamed Ariff, who passed away in 1961. In 1965, the government had named the new Baharuddin Vocational School in Queensway after him.13 But after the school’s merger with New Town Secondary School in 1969, the name “Baharuddin” was dropped.14 Subsequently, Queenstown Vocational Institute was renamed Baharuddin Vocational Institute.
 
-In most homes today, betel chewing lives on, if at all, in the memories of those who recall their elderly relatives indulging in the habit:
+By the time BVI settled into its new campus on Stirling Road in 1971, some 300 people had already graduated from the institute. In addition, around 800 students were enrolled in 23 fulltime courses, each typically lasting two years.15 The largest intake of over 200 students was in the Handicrafts Department, which offered training in courses ranging from ceramic arts to fabric design and even classes on shellcraft and dollmaking.
 
-“I can still see [grandma], fragile and lovely in her *sarong kebaya*, her bun immaculate even at that hour, each ornate *cucuk sanggul* in place. Beside her was the betel set that was her trademark, each tiny container holding mystery none of her grandchildren would ever fathom. With each story she delicately prepared and chewed a betel quid, weaving a spell that held us entranced.”[^48]
+However, BVI became best known for its Applied Arts Department, specifically its course in advertising art, now known as graphic design. The two-year programme provided training in the design of advertisements and other forms of visual communication. In 1977, it was reported that the course drew about 200 applicants annually for its 40 vacancies, with interior design coming in a close second.16 Its popularity reflected pent-up demand for the institute’s heavily subsidised courses, with citizens  paying a nominal monthly fee of just $6. To apply for the course, candidates had to complete at least Secondary 4, be over 15 years old, pass entrance tests in English, mathematics and science, and sit for an interview to demonstrate their interest in art and design.17
 
-|The authors would like to thank Gayathrii Nathan and Toffa Abdul Wahed for their research assistance and for reviewing an early draft of the article; Dr Azhar Ibrahim for his thoughts on the subject; and Baba G.T. Lye for participating in the interview. Initial research for this article was conducted for “Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption”, a collaborative project supported by the Heritage Research Grant of the National Heritage Board, Singapore.[^49]|
+“I knew the [advertising art] course was very competitive by looking at the crowd [that turned up],” recalled former student Patrick Cheah.18 He successfully convinced the assessors with the artwork and posters he had designed in St Joseph’s Institution, and enrolled in 1972.
+
+Not everyone was successful on their first attempt at applying to join at BVI. Nancy Wee, who spent 36 years teaching design – first at BVI and then at Temasek Polytechnic’s School of Design – had applied for the Industrial Technician Certificate in Commercial Art in 1974. “It was really tough. We all had to go for interviews and I didn’t get in on my first try. There were many applicants who were much better than me,” she said. However, she was determined to join BVI. She waited for a year and then re-applied, using the extra time to attend art classes in the hope of boosting her chances. She nailed it on her second attempt. She recalled: “When I went for the interview, I met the same lecturer who had assessed me the first time, so I said, ‘I’m here again!’ He must have felt that this girl was really interested.”19
+
+Having given up a place in pre-university for BVI, Cheah was surprised by the diversity of his fellow classmates. “Sitting next to me was a Hokkien-speaking fellow. I spoke English, and he only spoke Hokkien. But his art was good.” According to Wee Chwee Beng, the early batches of advertising art students ranged from working professionals to those eligible for pre-university as well as academically weaker students. It reflected the flexibility of BVI’s enrolment criteria, which not only considered academic results but also a student’s aptitude for creative work.
+
+Despite the popularity of some of BVI’s courses, the general public often saw the institute’s students as “dropouts” because of its vocational roots. As most Singaporeans aspired for white-collar jobs, opting for vocational institutes was popularly thought of as a last resort for those who struggled academically. “[BVI] wasn’t considered prestigious. Back then, the thinking was that if you went to a vocational school, it was because you were not good at studying. There was this perception that vocational institutes were for dropouts,” said Nancy Wee.20
+
+Such sentiments were reinforced by then Minister for Education Tay Eng Soon in 1984 when he expressed concern that bright students who struggled with English were opting for vocational training and the polytechnics. However, he did single out BVI as an exception because it catered to a specialised interest.21 Nonetheless, parents often contacted Wee Chwee Beng to express concerns for their children’s future. “I even had mothers who [came] to me and [said], ‘I don’t understand why my son wants to study in this vocational institute when he can go to junior college’,” he said.22
+
+Fortunately, he could point to the early success of BVI’s students, who were frequent winners of logo and poster design competitions – even beating professionals in the field. Companies and organisations used such competitions to select and commission the winning designs as their logo. Some examples include the logos for Keppel Shipyard (1968) by Sim Bee Ong and the Singapore Metrication Board (1971) by Lee Chee Kang. The institute also took on work for the government, including the 1974 branding for the Singapore Sports Council as well as designing displays for the temporary maritime museum on Sentosa that same year.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/authors/FionaLim.png" style="width: 100px; height: 100px;" />
-<b>Fiona Lim</b> is a freelance writer, editor and researcher. She is interested in the complexities of cities and their people.
+<img src="/images/Vol-16-issue-4/modernbydesign/Logos.jpg">
+Logos designed by staff and students of Baharuddin Vocational Institute. The abstract designs that distilled letters into shapes were part of a popular international trend known as the modernist graphic design style. Clockwise from top left: Logos for Keppel Shipyard (1968), Singapore Metrication Board (1971), the Vocational Industrial and Training Board (1979) and the Singapore Sports Council (1974).
 </div>
 
+#### **Preparing for the Industry**
+
+Ensuring that BVI’s students were well equipped to serve the industry was the focus of its curriculum. In the advertising course, students were taught a variety of techniques to manually construct visuals at a time when computers had yet to become part of graphic design production. Besides classes in fundamental skills such as drawing in various media, students were also given hands-on training in modern techniques like photography using a 4X5" large-format camera, typography, layout and packaging design. Such training was supplemented by classes in English, science and mathematics, which were tailored to teach students the theory behind design work.
+
+As a result of their specialised and comprehensive training, BVI students were able to find employment quickly upon graduation, often as in-house designers in advertising agencies and publishing companies. By 1979, BVI’s advertising art course had trained some 371 graduates and these made up a quarter of the advertising art personnel in the industry.23 Many BVI graduates performed well in their jobs and quickly rose through the ranks. Typically, one started out in an advertising agency as a finished artist whose job was to realise the concepts of visualisers and art directors. BVI graduates, however, often leapfrogged this career progression to become art directors.
+
+“The people that advertising agencies could employ before were not trained in design,” said Ronnie Tan who graduated in 1973 and started his own graphic design practice soon after.24 “If you come in knowing how to do typography, drawing images that look good in flat tones… you become an American Idol, one in a million,” he quipped.
+
+Tan believed that the success of BVI graduates was due to a shortage of designers rather than its curriculum. Comparing what he had been taught with his brother’s experience in an advertising agency, he felt that BVI’s teachers, the majority of whom had never worked in the industry, were not attuned to what employers were looking for. Neither did they keep abreast of the latest design trends.
+
+Theresa Yong, the top trainee of the 1977 cohort, felt that the curriculum was too technical-focused. The training at BVI was good enough that Yong could skip a year when she went to study at the Art Center College of Design in California in the United States. However, her overseas experience taught her to push the limits of creative design compared to the more technically driven training she received in Singapore. “The design course [in the US] was challenging in a way that it forced me to open up my mind. It was a different way of training from Singapore,” she said. “The courses themselves were not very different from what we had [at BVI]… it’s how the teachers taught them.”25
+
+Lim Chong Jin of the 1978 cohort, agreed. “The ‘V’ of BVI stood for ‘vocational’. The training was completely skewed towards skill-based competencies. We had to use a 0.2 nib technical pen to draw perfect lines with faultlessly precise spacing,” recalled Lim, who went on to study in the Nova Scotia College of Art and Design in Canada (NSCAD).26
+
+In Canada, Lim found he had to write essays, participate in critical discussions and read art history. “To me, it was more difficult to pursue the course than to get in[to] the school,” he said. “I probably had a strong visual portfolio that supported my acceptance to NSCAD, but the contextual studies and other theoretical aspects were evidently lacking.”
+
+#### **Ahead of Its Time**
+
+BVI was aware of its shortcomings and continually reviewed its offerings to ensure it remained relevant and could produce employable graduates. In its early years, BVI even worked with companies to sponsor training which was not included in its curriculum, such as jewellery and rosewood furniture design.27
+
+To better meet the needs of the industry, BVI and other vocational institutes became part of a newly established Industrial Training Board (ITB) in 1973. It led to courses being organised into three levels of certification – Industrial Technician, Trade, and Artisan – to cater for a variety of educational qualifications.
+
+In 1974, BVI’s courses were streamlined and those with poor employment prospects – such as shellcraft and doll and flower making – were phased out. Popular courses were also offered at the Industrial Technician Certificate level and graduates with this certificate were deemed as being on par with the technician-certified students of the polytechnics.28 These courses included advertising art, fashion arts, furniture design and production, interior design and three-dimensional design.
+
+“[The students] will be learning more than studio skills. We want them to know something about costing, production planning, quality control and communications,” explained BVI principal Rashid Durai, who took over from Laurence Koh Boon Piang in 1974. “The idea is to supply the missing link – designers and craftsmen who can fill supervisory and junior management grades,” he added.
+
+In 1977, ITB formalised the ad hoc practice of seeking advice from industry professionals and appointed a Trade Advisory Committee for each institute. BVI’s Applied Arts Trade Advisory Committee was made up of 17 external members from a variety of fields, including advertising, photography, interior design, architecture, handicrafts and sculpture. Reflecting the institute’s most popular offering, the committee was headed by Chan Yen Park, who was then the accounts director of a leading advertising firm as well as President of the Association of Accredited Advertising Agencies.29
+
+The committee conducted a survey of manpower and training needs in the applied arts industry and found an urgent need for more professional designers. In 1980, BVI upgraded its advertising art and interior design courses as three-year diplomas, becoming the first institute in Singapore to offer such a level of training in these fields.30 It helped raise BVI’s profile among the growing number of institutes offering formal design training. In 1988, a new milestone was reached when BVI launched the Diploma in Applied Arts (Product Design) course to support the government’s push for local manufacturers to produce higher-value exports.
+
+Besides responding directly to industry needs, BVI’s Trade Advisory Committee also tried to address other issues that were impacting the quality of design in Singapore. One of the ways suggested by the committee was to raise the level of creativity by getting the institute to look beyond technical education and include art in its curriculum, which was what overseas institutes were doing.
+
+Committee members Khor Ean Ghee and Brother Joseph McNally proposed the establishment of a Singapore Institute of Art and Design. “Good design should be art training, art is a foundation,” said Khor. “If art [is] not good, other design cannot be very good.”31 Unfortunately, the idea was not taken up by the government as it regarded design education to be a domain of industrial training.
+
+In 1990, when Singapore’s education system was restructured, technical education was streamlined and the Normal (Technical) stream was introduced for technically inclined students. BVI’s diploma courses were then transferred to the design school of a new polytechnic – Temasek Polytechnic. 
+
+The design school continued operating out of BVI’s premises on Stirling Road until its campus officially opened in Tampines in 1995. At the same time, BVI’s other applied art offerings were absorbed into a new Institute of Technical Education, thereby marking the end of an era for an institute that had, for more than two decades, nurtured and produced some of Singapore’s best design pioneers.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/authors/GeoffreyPakiam.png" style="width: 100px; height: 100px;"/>
-<b>Dr Geoffrey Pakiam</b> is a Fellow at ISEAS – Yusof Ishak Institute in Singapore. He works on the history of commodities and is currently researching the interplay between livelihoods, consumer cultures and the environment of the Malay world.
+<img src="/images/Vol-16-issue-4/modernbydesign/BookCoverCollin.jpg">
+Various book covers designed by former student Collin Choo for his assignments. <i>Courtesy of Collin Choo</i>.
+</div>
+
+#### **The Cradle of Design**
+
+Today, the only physical trace of BVI is a heritage marker outside its former campus on Stirling Road, which was repurposed in 2004 to house the Management Development Institute of Singapore.32
+
+Its more enduring legacy is the generation of practitioners who helped pioneer Singapore’s design industry. Advertising art graduates such as Patrick Cheah, Ronnie Tan and Theresa Yong eventually set up their own practices – DPC Design, Design Objectives and Immortal Design respectively – and were part of the first wave of homegrown graphic design firms in Singapore. Lim Chong Jin rose to become a creative director at local advertising agency TNC Worldwide, before returning to his alma mater in 1992. Today, he is the Director of Temasek Polytechnic’s School of Design.
+
+BVI’s graduates have also made their mark outside Singapore. Fashion stalwart Esther Tay started the fashion label Esta, which grew into a household name in the 1980s and even retailed in Japan. Today, she is better known for designing uniforms for corporations such as DBS, Singtel and NTUC Income. Product design graduates like Low Cheah Hwei currently heads the design team for Philips in Asia, while Nathan Yong has made a name designing furniture for international labels such as Design Within Reach and Ligne Roset.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/modernbydesign/DressMaking.jpg">
+Dressmaking students of Baharuddin Vocational Institute showcasing their designs in the institute’s 1971 commemorative magazine. <i>Image reproduced from Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)</i>.
+</div>
+
+By making design education accessible to the man in the street, BVI was instrumental in laying the foundation for Singapore’s design industry. The establishment of a state-sponsored institute to groom and supply a design workforce showed the commitment of the government in developing such services that ultimately spurred the growth of the industry.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/authors/JustinZhuang.png" style="width: 100px; height: 100px;"/>
+<b>Justin Zhuang</b> is a writer and researcher who sees the world through design. He has written about the development of the design industry in Singapore, including <i>Independence: The History of Graphic Design in Singapore Since the 1960s</i> and <i>Fifty Years of Singapore Design</i>.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
-[^1]: Here, *sirih* refers to the betel quid, but *sirih* is also the Malay term for the betel leaf. 
-[^2]: Miksic, J. (2013). *[Singapore & the Silk Road of the sea, 1300–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868)* (p. 316). Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
-[^3]: Zumbroich, T.J. (2008). The origin and diffusion of betel chewing: A synthesis of evidence from South Asia, Southeast Asia and beyond. *eJournal of Indian Medicine, 1* (3), 87–140, p. 99. Retrieved from University of Groningen Press website. 
-[^4]: Reid, A. (1985, May). From betel-chewing to tobacco-smoking in Indonesia. *Journal of Asian Studies, 44* (3), 529–547, pp. 529–530. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^5]: Raghavan, V., & Baruah, H.K. (1958). Arecanut: India’s popular masticatory: History, chemistry and utilization. *Economic Botany, 12* (4), 315–345, pp. 317–318. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^6]: Betel chewing arrived in northern India later, around 500 BCE. See Zumbroich, 2008, pp. 114, 119.
-[^7]: *[Dondang sayang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_495_2004-12-20.html)* is a traditional poetic art form associated with the Malay and Straits  Chinese communities in Singapore and Malaysia. See National Library Board. (2015, March 9). *Dondang sayang*  written by Stephanie Ho. Retrieved from Singapore Infopedia website.
-[^8]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
-[^9]: Mardiana Abu Bakar. (1987, October 12). [The betel leaf and its role in Malay life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871012-1.2.64.8.1). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
-[^10]: Rohel, J. (2017). Empire and the reordering of edibility: Deconstructing betel quid through metropolitan discourses of intoxication. *Global Food History, 3* (2), 150–170, p. 156. Retrieved from Taylor & Francis Group website. 
-[^11]: Zumbroich, 2008, p. 90.
-[^12]: Reid, May 1985, pp. 529–530.
-[^13]: How dangerous is betel nut? (2014, October 10). Retrieved from Healthline website.
-[^14]: Wee, A. (1987, January 29). [Misinformation on Little India](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870129-1.2.20.18). *The Straits Times*, p. 11; Wee, A. (1987, April 7). [Trainee guides get tips on Little India](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870407-1.2.37.27). *The Straits Times*, p. 15; [To Mecca](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120913-1.2.10). (1912, September 13). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.
-[^15]: Neither the betel quid nor its respective ingredients were particularly significant in the cultures of the Chinese and Eurasians in Singapore. Goh, B.-L. (2018). *[Modern dreams: An inquiry into power, cultural production, and the cityscape in contemporary urban Penang, Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11110271)* (p. 131). Ithaca, NY: Cornell University. (Call no.: RSEA 307.76095951 GOH); Choo, C., et al. (2007). Being Eurasian (p. 109). In M. Perkins (Ed.), *Visibly different: Face, place and race in Australia*. Switzerland: Peter Lang Verlag. (Not available in NLB holdings); Nirmala, M. (2003, July 4). [All are welcome at new Eurasian House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030704-1.2.29.15). *The Straits Times*, p. 27. Retrieved from NewspaperSG.
-[^16]: Zumbroich, 2008, p. 90.
-[^17]: Ponnudurai, V.R. (1951, August 25). [Chewing the betel](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88). *The Singapore Free Press*, p. 9. Retrieved from NewspaperSG.
-[^18]: Reid, A. (1988). *[Southeast Asia in the age of commerce 1450–1680](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4305251)* (Vol. 1, p. 41). New Haven; London: Yale University Press. (Call no.: RSEA 959 REI)
-[^19]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^20]: Personal interview with G.T. Lye @ Gwee Thian Lye, 13 June 2020.
-[^21]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^22]: A form of address for elderly Peranakan Chinese women.
-[^23]: [Grand dames bring life to the museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870906-1.2.29.17). (1987, September 6). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
-[^24]: Lee, L.H. (1949, July 8). [Keeping on the right side of all the gods](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490708-1.2.58). *The Malaya Tribune*, p. V. Retrieved from NewspaperSG.
-[^25]: Gwee, T.H. (2013). *[A nyonya mosaic: Memoirs of a Peranakan childhood](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684877)* (p. 60). Singapore: Marshall Cavendish. (Call no.: RSING 959.57030922 GWE)
-[^26]: [8,000 labourers on strike in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19361202-1.2.46). (1936, December 2). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
-[^27]: Orme, W.B. (1914, February 7). Makan sireh. *The British Medical Journal, 1* (2771), 325–326, p. 326. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^28]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120913-1.2.10)*, 13 Sep 1912, p. 3; [Reid](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4305251), 1988, p. 43.
-[^29]: [Gwee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684877), 2013, p. 81.
-[^30]: Neo, D., & Rathabai, J. (2015). Elaborate customs and rituals. *The Peranakan*, (2), p. 16. Retrieved from The Peranakan Association Singapore website.
-[^31]: Norhuda Salleh. (2015). Tepak sireh: Interpretation and perception in Malay wedding customs. *INTCESS15 – 2nd International Conference on Education and Social Services* (pp. 1185–1186). Retrieved from International Organisation Center of Academic Research website. 
-[^32]: Warisan SG. (2015). *Sacred sirih: Traditions and symbolism in the Malay world Part 1* [Video]. Retrieved from YouTube.
-[^33]: Menon, V. (1981, November 20). [The betel and its role in Hindu functions](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811120-1.2.169.8.2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^34]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^35]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 25 Aug 1951, p. 9.
-[^36]: Norhuda Salleh, 2015, p. 1184.
-[^37]: Chia, F. (1994). *[The Babas revisited](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6790835)* (p. 102). Singapore: Heinemann Asia. (Call no.: RSING 309.895105957 CHI)
-[^38]: [Hunt for ethnic costumes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930119-1.2.33.4). (1993, January 19). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
-[^39]: *[The wispy see-through kebaya tantalised many a Baba youth...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760512-1.2.52.1)* (1976, May 12). *New Nation*, pp. 10–11. Retrieved from NewspaperSG.
-[^40]: *[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510825-1.2.88)*, 15 Aug 1951, p. 9; [Betel nuts? We’ll stick to lipstick, say women](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520730-1.2.106). (1952, July 30). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
-[^41]: Text is translated from Malay. Abdullah Othman. (1964, December 31). [Ada jua yang tiada](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19641231-1.2.66). *Berita Harian*, p. 6. Retrieved from NewspaperSG.
-[^42]: [Smooth operators](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940707-1.2.61.5.3.2). (1994, July 7). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
-[^43]: Peet, G. (1977, April 2). [An old timer on the five-foot-way](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770402-1.2.80). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
-[^44]: Holmberg, J. (1975, February 1). [The old ‘new market’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750201-1.2.18.1.1). *New Nation*, p. 7. Retrieved from NewspaperSG.
-[^45]: Tan, F. (1975, May 17). [Teck Kah… or the place under the bamboo](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750517-1.2.16.1). *New Nation*, p. 7. Retrieved from NewspaperSG.
-[^46]: [Hole-in-the-wall stores at Little India to stay](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920611-1.2.59.4). (1992, June 11). *The Straits Times*, p. 40. Retrieved from NewspaperSG.
-[^47]: Lim, J., & Lim, Y.L. (2012, November 3). [Enjoy the city’s charms](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121103-1.2.134.3). *The Straits Times*, p. 3; Lim, S.N. (1989, April 5). [Giving old attractions new life](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19890405-1.2.29.2). *The Business Times*, p. 10; Ng, I., & Fernandez, W. (1987, August 13). [Arab Street and Little India captivate tourists](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870813-1.2.28.17). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
-[^48]: Juita. N. (1989, May 10). [Remembering the childhood joys of past Hari Rayas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890510-1.2.35.2). *The Straits Times*, p. 20. Retrieved from NewspaperSG. [*Sarong kebaya* is the outfit worn by Malay and Peranakan women, comprising a sheer fabric blouse paired with a *batik sarong* skirt. *Cucuk sanggul* is a hair pin for securing the bun.]
-[^49]: Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Heritage Board, Singapore.
+Personal interview with Wee Chwee Beng, 16 March 2010.
+
+The first vocational institute to specialise in craft and trade subjects was the Singapore Vocational Institute set up in 1963 in Balestier. In 1965, the government announced two new institutes, one specialising in engineering in Boon Lay and another for the applied arts in Queenstown. The latter became the Baharuddin Vocational Institute.
+
+Ministry of Culture. (1970, November 7). Text of speech by the Minister of State for Education, Dr Lee Chiaw Meng, at the first graduation exercise and open house of Baharuddin Vocational Institute, Stirling Road, on Saturday November 7, at 5 p.m. [Speech]. Retrieved from National Archives of Singapore website.
+
+Ong, Z.M. (2006). A history of the Nanyang Academy of Fine Arts (1938–1990) [Unpublished thesis]. Singapore: National University of Singapore. (Not available in NLB’s holdings)
+
+The Singapore Commercial Art Society. (1977). National commercial art exhibition souvenir catalogue. Singapore: Singapore Commercial Art Society. (Call no.: RSING 741.6 NAT)
+
+Ministry of Education. (1964–1969). Proposed Queenstown Vocational Institute for manual and applied arts – training. Retrieved from National Archives of Singapore website.
+
+Creamer, R. (2016). Iskandar Jalil. Retrieved from Singapore Infopedia, National Library, Singapore.
+
+Ministry of Culture. (1971, October 8). Speech by Prof Wong Lin Ken, Minister for Home Affairs and M.P. for Alexandra, at official opening of the Baharuddin Vocational Institute on Friday, 8th October 1971, at 7.15 p.m. [Speech]. Retrieved from National Archives of Singapore website.
+
+Kwee, M. (1971, October 1). From doll making to ads display with 70 experts. The Straits Times, p. 1. Retrieved from NewspaperSG; Ministry of Culture, 8 Oct 1971.
+
+Baharuddin Vocational Institute Printing School. (1971, October). Singapore: Baharuddin Vocational Institute. (Not available in NLB holdings)
+
+Ministry of Culture, 8 Oct 1971.
+
+Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)
+
+Lee warns: Be ready for a long dispute with Soek. (1965, June 21). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+New Town Secondary School. (2018). School history. Retrieved from New Town Secondary School website.
+
+The Straits Times, 1 Oct 1971, p. 1; Baharuddin Vocational Institute, 1971.
+
+Holmberg, J. (1977, July 14). Creativity. New Nation, p. 9. Retrieved from NewspaperSG.
+
+Notices: Technical Education Department. (1971, March 8). The Straits Times, p. 16. Retrieved from NewspaperSG.
+
+Personal interview with Patrick Cheah, 1 February 2012. 
+
+Chew, H.L. (2020). Better by design: Memory of Nancy Wee. Retrieved from Singapore Memory Project website. 
+
+Chew, 2020, Memory of Nancy Wee. 
+
+Alfred, H. (1984, April 8). ‘Brain drain’ to Poly. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Personal interview with Wee Chwee Beng, 16 March 2010.
+
+Ministry of Culture. (1979, November 27). Address by Dr Ahmad Mattar, acting Minister for Social Affairs and Chairman, Vocational and Industrial Training Board, at the inaugural meeting of the second term of office of the applied arts trade advisory committee at the VITB Board room [Speech]. Retrieved from National Archives of Singapore website.
+
+Personal interview with Ronnie Tan, 1 September 2011.
+
+Personal interview with Theresa Yong, 1 October 2010.
+
+Email interview with Lim Chong Jin, 8 November 2010.
+
+Tan, W.J. (1974, June 2). Baharuddin students’ works on sale at exhibition. The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+The Straits Times, 2 Jun 1974, p. 10.
+
+Singapore. Industrial Training Board. (1977, October). ITB appoints its ninth TAC. ITB News, 3.
+
+Ministry of Culture, 27 Nov 1979.
+
+He, S. (2008, September 4). Oral history interview with Khor Ean Ghee [许延义] [MP3 recording no. 003343/12/08]. Retrieved from National Archives of Singapore website.
+
+Management Development Institute of Singapore. (2020). MDIS Heritage 2000. Retrieved from MDIS website.BecomingModernByDesign
