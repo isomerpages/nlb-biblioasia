@@ -210,36 +210,36 @@ Robinsons would bounce back quickly from this disaster. On 11 December 1972, a n
 
 [^12]: Low, Y. (2020, November 2). Upmarket or mass market? Retail experts say Robinsons’ confused identity contributed to its closure. *Today*. Retrieved from Today website.
 
-[^13]: Heathcott, M. (1941, September 30). In The “New Family Warehouse”. *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG
+[^13]: Heathcott, M. (1941, September 30). [In The “New Family Warehouse”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410930-1.2.84). *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG
 
-[^14]: Robinson’s & Co. (1958). *The story of Robinson’s, 1858–1958* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); ‘Open as usual’ after bombing. (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG. 
+[^14]: Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); ['Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG. 
 
-[^15]: Robinson & Co. (Singapore). (1973). *Annual report 1973* (p. 3). Singapore: The Company. (Call no.: RCLOS q338.47658871 RCSAR)
+[^15]: Robinson & Co. (Singapore). (1973). *[Annual report 1973](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5128967)* (p. 3). Singapore: The Company. (Call no.: RCLOS q338.47658871 RCSAR)
 
-[^16]: Pereira, A. (1983, November–December). History of Clifford Centre Branch. *Robinson’s Group Berita* [n.p.]. (Accession no. B28739090E)
+[^16]: Pereira, A. (1983, November–December). History of Clifford Centre Branch. *[Robinson’s Group Berita](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13183992)* [n.p.]. (Accession no. B28739090E)
 
-[^17]: A step forward in difficult time. (1983, July-August). *Robinson’s Group Berita* [n.p.]. (Accession no. B28739088A)
+[^17]: A step forward in difficult time. (1983, July-August). *[Robinson’s Group Berita](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13183992)* [n.p.]. (Accession no. B28739088A)
 
-[^18]: Robinson & Co. (Singapore). (1983). *Annual report 1983* (p. 9). (Call no.: RCLOS q338.47658871 RCSAR-[AR]); Zachariah, N.A. (2013, November 9). Robinson’s fancy new home. *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+[^18]: Robinson & Co. (Singapore). (1983). *[Annual report 1983](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5128967)* (p. 9). (Call no.: RCLOS q338.47658871 RCSAR-[AR]); Zachariah, N.A. (2013, November 9). [Robinson’s fancy new home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131109-1.2.125.13.2). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
-[^19]: Robinsons takes the city. (2001, June). *Family news: The staff newsletter of the Robinsons Group*, 3. (Accession no.: B12020063C); Gems at JEM. (2013, June 26). *Today*, p. 60. Retrieved from NewspaperSG.
+[^19]: Robinsons takes the city. (2001, June). *[Family news: The staff newsletter of the Robinsons Group](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10129199)*, 3. (Accession no.: B12020063C); [Gems at JEM](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20130626-1.2.66.2.3). (2013, June 26). *Today*, p. 60. Retrieved from NewspaperSG.
 
-[^20]: Robinson’s & Co, 1958, [n.p.]; David, A. (2020, December 21). End of an era as Robinsons closes in Malaysia. *New Straits Times*. Retrieved from New Straits Times website. 
+[^20]: [Robinson’s & Co](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511), 1958, [n.p.]; David, A. (2020, December 21). End of an era as Robinsons closes in Malaysia. *New Straits Times*. Retrieved from New Straits Times website. 
 
-[^21]: Fung, E. (2008, April 4). Sold – Robinson’s now owned by Dubai’s Al-Futtaim. *Today*, p. 4. Retrieved from NewspaperSG; Dubai Festival City Mall. (2021). *Robinsons*. Retrieved from Dubai Festival City Mall website. [Note: Robinsons’ main shareholder OCBC Bank sold its stake to Indonesia’s Lippo Group in 2006. Robinsons was acquired by the Al-Futtaim Group in 2008.]
+[^21]: Fung, E. (2008, April 4). [Sold – Robinson’s now owned by Dubai’s Al-Futtaim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080404-1.2.9.2). *Today*, p. 4. Retrieved from NewspaperSG; Dubai Festival City Mall. (2021). *Robinsons*. Retrieved from Dubai Festival City Mall website. [Note: Robinsons’ main shareholder OCBC Bank sold its stake to Indonesia’s Lippo Group in 2006. Robinsons was acquired by the Al-Futtaim Group in 2008.]
 
-[^22]: Singapore. Commission of Inquiry into the Robinson’s Fire. (1973). *Report of the Commission of Inquiry into the Robinson’s Fire, 1973* (pp. 5–8). [Singapore: Printed for the Govt. of Singapore by the Singapore National Printers]. (Call no.: RSING 614.84 SIN)
+[^22]: Singapore. Commission of Inquiry into the Robinson’s Fire. (1973). *[Report of the Commission of Inquiry into the Robinson’s Fire, 1973](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1390273)* (pp. 5–8). [Singapore: Printed for the Govt. of Singapore by the Singapore National Printers]. (Call no.: RSING 614.84 SIN)
 
-[^23]: Nine feared dead. (1972, November 22). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^23]: [Nine feared dead](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721122-1.2.2). (1972, November 22). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^24]: *The Straits Times*, 22 Nov 1972, p. 1.
+[^24]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721122-1.2.2)*, 22 Nov 1972, p. 1.
 
-[^25]: Ng, B. (Interviewer). (2012, November 1). *Oral history interview with George Yuille Caldwell* [MP3 recording no. 003776/38/14]. Retrieved from National Archives of Singapore website.
+[^25]: Ng, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1c80cc22-1163-11e3-83d5-0050568939ad)* [MP3 recording no. 003776/38/14]. Retrieved from National Archives of Singapore website.
 
-[^26]: Chew, H.M. (Interviewer). (2006, June 9). *Oral history interview with Tan Wee Him* [Transcript of MP3 recording no. 003058/07/03, pp. 65–67]. Retrieved from National Archives of Singapore website.
+[^26]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d8484310-1160-11e3-83d5-0050568939ad-OHC003058_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1)* [Transcript of MP3 recording no. 003058/07/03, pp. 65–67]. Retrieved from National Archives of Singapore website.
 
 [^27]: *The Straits Times*, 22 Nov 1972, p. 1.
 
 [^28]: Singapore. Commission of Inquiry into the Robinson’s Fire, 1973, pp. 5–20.
 
-[^29]: Kwee, M. (1972, December 12). Robinson’s plans to rebuild at fire site. *The Straits Times*, p. 15; Govt takes over Robinson fire site. (1973, January 18). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^29]: Kwee, M. (1972, December 12). [Robinson’s plans to rebuild at fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721212-1.2.52.aspx). *The Straits Times*, p. 15; [Govt takes over Robinson fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730118-1.2.9.aspx). (1973, January 18). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
