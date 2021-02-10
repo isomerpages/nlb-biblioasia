@@ -8,13 +8,13 @@ third_nav_title: Remembering Robinsons
 ---
 
 <style>
-table1 { 
+table { 
 	background-color: #ffeee1;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #d6dae9;
+  background: #ffeee1;
 }
 </style>
 
@@ -27,17 +27,11 @@ table1 {
 The Robinsons building in Raffles Place, 1950s. The store’s name is also displayed in Chinese and Malay on the signboard. The statue of Mercury is perched on the top of the arch. <i>Chiang Ker Chiu Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
-|After surviving 162 years, the Great Depression, being bombed by the Japanese during World War II, several economic downturns and a devastating fire in 1972, the curtains have finally come down on home-grown department store Robinsons – once hailed as “one of the handsomest shops in the Far East”.[^1]|
+After surviving 162 years, the Great Depression, being bombed by the Japanese during World War II, several economic downturns and a devastating fire in 1972, the curtains have finally come down on home-grown department store Robinsons – once hailed as “one of the handsomest shops in the Far East”.[^1]
 
-<style>
-table2 { 
-	background-color: #d6dae9;
-	}
-</style>
+In August 2020, Robinsons closed its store in Jem shopping mall. Barely four months later, its flagship luxury store in The Heeren followed suit. Its last outlet at Raffles City Shopping Centre shuttered in January 2021.
 
-|In August 2020, Robinsons closed its store in Jem shopping mall. Barely four months later, its flagship luxury store in The Heeren followed suit. Its last outlet at Raffles City Shopping Centre shuttered in January 2021.|
-
-|High-quality merchandise and impeccable service set Robinsons apart when it opened in 1858, and the store quickly became popular with the European community and Malay royalty. Even King Mongkut of Siam was a loyal customer and was known to have signed off his letters to Robinsons as “your good friend”. Famous people who graced its portals back in its heyday included Britain’s Prince Philip, Prime Minister Margaret Thatcher and singer Cliff Richard.[^2]|
+High-quality merchandise and impeccable service set Robinsons apart when it opened in 1858, and the store quickly became popular with the European community and Malay royalty. Even King Mongkut of Siam was a loyal customer and was known to have signed off his letters to Robinsons as “your good friend”. Famous people who graced its portals back in its heyday included Britain’s Prince Philip, Prime Minister Margaret Thatcher and singer Cliff Richard.[^2]
 
 Over the years, Robinsons served countless Singaporeans, many of whom became friendly with staff who had worked in the store for decades. The annual Robinsons’ sale, touted as “the sale truly worth waiting for”, was one of the highlights of Singapore’s shopping calendar.
 
