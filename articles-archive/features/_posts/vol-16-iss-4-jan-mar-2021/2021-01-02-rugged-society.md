@@ -137,54 +137,54 @@ Public discourse reflects the centrality of this rugged ideal – take for insta
 
 #### **NOTES**
 
-[^1]: Ministry of Culture. (1966, August 10). *Speech by the Prime Minister, Mr Lee Kuan Yew, at Queenstown Community Centre, August, 10, 1966* [Speech]. Retrieved from National Archives of Singapore website. 
+[^1]: Ministry of Culture. (1966, August 10). *[Speech by the Prime Minister, Mr Lee Kuan Yew, at Queenstown Community Centre, August, 10, 1966](https://www.nas.gov.sg/archivesonline/speeches/record-details/73d68d51-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website. 
 
-[^2]: Ministry of Culture, 10 Aug 1966.
+[^2]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/73d68d51-115d-11e3-83d5-0050568939ad), 10 Aug 1966.
 
-[^3]: Lee, C.K. (1969, June 12). Extra-curricula: The word that put new life in schools in Singapore. *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^3]: Lee, C.K. (1969, June 12). [Extra-curricula: The word that put new life in schools in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690623-1.2.77). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
 [^4]: Ministry of Culture.  (1979, November 16). *Speech by Dr Tony Tan Keng Yam, Senior Minister of State for Education, at the National Police Cadet Corps 20th anniversary dinner held at the Silver Star Theatre Restaurant on Friday, 16 November 1979 at 7.30pm* [Speech]. Retrieved from National Archives of Singapore website.
 
 [^5]: Horton, P.A. (2002). Shacking the lion: Sport and modern Singapore. *International Journal of the History of Sport, 19* (2–2), 243–274, pp. 254–255. Retrieved from Taylor & Francis Online. 
 
-[^6]: Murfett, M.H., et al. (2011). *Between two oceans: A military history of Singapore from 1275 to 1971* (p. 329). Singapore: Marshall Cavendish Editions. (Call no.: RSING 355.0095957 BET); Lee begins talks to avert total British pull-out by 1975. (1967, June 27). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
+[^6]: Murfett, M.H., et al. (2011). *[Between two oceans: A military history of Singapore from 1275 to 1971](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13764491)* (p. 329). Singapore: Marshall Cavendish Editions. (Call no.: RSING 355.0095957 BET); Lee begins talks to avert total British pull-out by 1975. (1967, June 27). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
-[^7]: Ministry of Culture. (1967, July 18). *Speech by the Prime Minister, Mr Lee Kuan Yew, at the commissioning ceremony of officer cadets into the Armed Forces at Istana on Tuesday, July, 18, 1967* [Speech]. Retrieved from National Archives of Singapore website. 
+[^7]: Ministry of Culture. (1967, July 18). *[Speech by the Prime Minister, Mr Lee Kuan Yew, at the commissioning ceremony of officer cadets into the Armed Forces at Istana on Tuesday, July, 18, 1967](https://www.nas.gov.sg/archivesonline/speeches/record-details/739e13c6-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website. 
 
-[^8]: The children’s hour of enchantment. (1968, July 22). *The Straits Times*, p. 11; Mammoth parade is festival highlight. (1970, July 15). *The Straits Times*, p. 20. Retrieved from NewspaperSG. [Note: By 1975, the Singapore Youth Festival would be shortened from a two-week affair to a one-day event.]
+[^8]: The children’s hour of enchantment. (1968, July 22). *The Straits Times*, p. 11; [Mammoth parade is festival highlight](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700715-1.2.131). (1970, July 15). *The Straits Times*, p. 20. Retrieved from NewspaperSG. [Note: By 1975, the Singapore Youth Festival would be shortened from a two-week affair to a one-day event.]
 
-[^9]: Lee reviews parade in the rain. (1968, July 21). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^9]: [Lee reviews parade in the rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680721-1.2.12.1). (1968, July 21). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
 [^10]: Personal interview with Wang Lee Hoon, 10 July 2019.
 
-[^11]: Singapore Department of Statistics. (1970). Table 12.3: Percentage Distribution of Population in Private Households in Urban, Suburban and Rural Census Areas by Type of Census House, 1970. In *Report on the census of population 1970 Singapore* (Vol. I; p. 233). Singapore: Government Printing Office. (Call no.: RSING 312.095957 SIN)
+[^11]: Singapore Department of Statistics. (1970). Table 12.3: Percentage Distribution of Population in Private Households in Urban, Suburban and Rural Census Areas by Type of Census House, 1970. In *[Report on the census of population 1970 Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4648614)* (Vol. I; p. 233). Singapore: Government Printing Office. (Call no.: RSING 312.095957 SIN)
 
-[^12]: Thum, P.J. (2014). The old normal is the new normal. In D. Low & S. Vadaketh (Eds.), *Hard choices: Challenging the Singapore consensus* (p. 143). Singapore: NUS Press. (Call no.: RSING 320.95957 LOW)
+[^12]: Thum, P.J. (2014). The old normal is the new normal. In D. Low & S. Vadaketh (Eds.), *[Hard choices: Challenging the Singapore consensus](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200186206)* (p. 143). Singapore: NUS Press. (Call no.: RSING 320.95957 LOW)
 
 [^13]: Personal interview with Jackie Yap, 25 September 2019.
 
 [^14]: Personal interview with Taylor Eng, 17 September 2019.
 
-[^15]: 16 to attempt raft trip by river to East-Coast. (1968, August 9). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+[^15]: [16 to attempt raft trip by river to East-Coast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680809-1.2.77). (1968, August 9). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
-[^16]: Ministry of Culture. (1976, February 2). *NCC (Sea) second round Singapore island canoeing expedition* [Press release]. Retrieved from the National Archives of Singapore website. 
+[^16]: Ministry of Culture. (1976, February 2). *[NCC (Sea) second round Singapore island canoeing expedition](https://www.nas.gov.sg/archivesonline/speeches/record-details/7ca196ec-115d-11e3-83d5-0050568939ad)* [Press release]. Retrieved from the National Archives of Singapore website. 
 
 [^17]: Personal interview with Rina Sim, 8 July 2019.
 
 [^18]: Shamsia Muslim. (1979). An unforgettable experience. In *1969–1979: 10th anniversary souvenir magazine: Dunearn Secondary School* (pp. 110–111). Singapore: The School. (Available via PublicationSG) 
 
-[^19]: Singapore Scouts Association. (2010). *100 years of adventure, 1910–2010* (p. 58). Singapore: Singapore Scouts Association. (Call no.: RSING 369.43095957 ONE)
+[^19]: Singapore Scouts Association. (2010). *[100 years of adventure, 1910–2010](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13726479)* (p. 58). Singapore: Singapore Scouts Association. (Call no.: RSING 369.43095957 ONE)
 
-[^20]: Singapore Scouts Association, 2010, p. 80. 
+[^20]: [Singapore Scouts Association](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13726479), 2010, p. 80. 
 
 [^21]: Personal interview with Jackie Yap, 25 September 2019. 
 
-[^22]: Old rallying call of a rugged society in these hard times. (1974, May 5). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^22]: [Old rallying call of a rugged society in these hard times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740505-1.2.58). (1974, May 5). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^23]: Still the rugged society? (1980, May 31). *New Nation*, p. 8. Retrieved from NewspaperSG. 
+[^23]: [Still the rugged society?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800531-1.2.37) (1980, May 31). *New Nation*, p. 8. Retrieved from NewspaperSG. 
 
-[^24]: Goh, C.T. (1990, March 10). *Speech by Mr Goh Chok Tong, first Deputy Prime Minister and Minister for Defence, at the official opening of the College of Physical Education new facilities at 21 Evans Road, on Saturday, 10 March 1990 at 1800hrs* [Speech]. Retrieved from National Archives of Singapore website.
+[^24]: Goh, C.T. (1990, March 10). *[Speech by Mr Goh Chok Tong, first Deputy Prime Minister and Minister for Defence, at the official opening of the College of Physical Education new facilities at 21 Evans Road, on Saturday, 10 March 1990 at 1800hrs](mailto:https://www.nas.gov.sg/archivesonline/data/pdfdoc/gct19900310.pdf)* [Speech]. Retrieved from National Archives of Singapore website.
 
 [^25]: Siau, M.E. (2015, August 23). The three factors behind Singapore’s success. *TODAY*. Retrieved from TODAYonline.
 
-[^26]: Tan, T. (2017, December 7). Millennials, redefined: Meet Generation Grit. *The Straits Times*. Retrieved from The Straits Times website.
+[^26]: Tan, T. (2017, December 7). [Millennials, redefined: Meet Generation Grit](mailto:https://www.straitstimes.com/opinion/millennials-redefined-meet-generation-grit). *The Straits Times*. Retrieved from The Straits Times website.
