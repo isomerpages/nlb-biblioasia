@@ -117,7 +117,7 @@ Jackie Yap of Bukit Ho Swee Secondary School felt that his time in the Sea Scout
 
 #### **Whither the Rugged Society?**
 
-While the rugged society rhetoric eventually petered out, such was the appeal of the concept that the call would be resurrected every now and then over the ensuing decades. In 1974, a year of high inflation and economic uncertainty, Haji Sha’ari Tadin, then Member of Parliament for Kampong Chai Chee, recalled the “old rallying call” of the rugged society as he called on Singaporeans to “roll up their sleeves and work even harder” after several years of stellar economic growth.22
+While the rugged society rhetoric eventually petered out, such was the appeal of the concept that the call would be resurrected every now and then over the ensuing decades. In 1974, a year of high inflation and economic uncertainty, Haji Sha’ari Tadin, then Member of Parliament for Kampong Chai Chee, recalled the “old rallying call” of the rugged society as he called on Singaporeans to “roll up their sleeves and work even harder” after several years of stellar economic growth.[^22]
 
 In 1980, a *New Nation* editorial bemoaned the pampered lives of younger generations, believing Singaporeans to have come “a long way and perhaps wrong way away from the rugged society” of the 1960s. The editorial lamented that people no longer woke up at 6.30 am for national fitness exercises but were instead “snoring away on their expensive deluxe beauty rest bed” in an air-conditioned room, before travelling in an air-conditioned vehicle to an air-conditioned office and, after work, relaxing in air-conditioned squash courts, bowling alleys and shopping malls.[^23]
 
