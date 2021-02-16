@@ -58,7 +58,6 @@ Robinsons advertising its annual sale in 1907. <i>The Straits Times, 5 September
 <br/>
 <img src="/images/Vol-16-issue-4/robinsons/Ad2.png">
 Spicer & Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). <i>The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG.</i>
-
 </div>
 
 
