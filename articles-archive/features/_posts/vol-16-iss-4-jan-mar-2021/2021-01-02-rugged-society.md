@@ -143,7 +143,7 @@ Public discourse reflects the centrality of this rugged ideal – take for insta
 
 [^3]: Lee, C.K. (1969, June 12). [Extra-curricula: The word that put new life in schools in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690623-1.2.77). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^4]: Ministry of Culture.  (1979, November 16). *Speech by Dr Tony Tan Keng Yam, Senior Minister of State for Education, at the National Police Cadet Corps 20th anniversary dinner held at the Silver Star Theatre Restaurant on Friday, 16 November 1979 at 7.30pm* [Speech]. Retrieved from National Archives of Singapore website.
+[^4]: Ministry of Culture.  (1979, November 16). *[Speech by Dr Tony Tan Keng Yam, Senior Minister of State for Education, at the National Police Cadet Corps 20th anniversary dinner held at the Silver Star Theatre Restaurant on Friday, 16 November 1979 at 7.30pm](www.nas.gov.sg\archivesonline\data\pdfdoc\tkyt19791126s.pdf)* [Speech]. Retrieved from National Archives of Singapore website.
 
 [^5]: Horton, P.A. (2002). Shacking the lion: Sport and modern Singapore. *International Journal of the History of Sport, 19* (2–2), 243–274, pp. 254–255. Retrieved from Taylor & Francis Online. 
 
