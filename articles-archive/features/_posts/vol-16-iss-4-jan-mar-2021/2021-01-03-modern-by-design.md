@@ -9,12 +9,12 @@ third_nav_title: Becoming Modern By Design
 
 <style>
 table { 
-	background-color: #ffe19c;
+	background-color: #d6dae9;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #ffe19c;
+  background: #d6dae9;
 }
 </style>
 
