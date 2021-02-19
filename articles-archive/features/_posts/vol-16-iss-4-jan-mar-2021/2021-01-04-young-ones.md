@@ -23,7 +23,7 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/youngones/TheYoungOnes.jpg">
+<img src="/images/Vol-16-issue-4/youngones/Children at play_800px.jpg">
 Children at play, 1962. <i>Captek</i>, <i>kuti-kuti</i>, five stones, hopscotch, <i>gasing</i> and even <i>tikam-tikam</i> – games played by children of every race. © <i>Urban Redevelopment Authority. All rights reserved</i>.
 </div>
 
