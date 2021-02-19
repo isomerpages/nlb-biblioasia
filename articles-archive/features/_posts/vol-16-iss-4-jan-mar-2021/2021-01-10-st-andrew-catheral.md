@@ -139,7 +139,7 @@ Work progressed slowly over the next few years.[^31] In 1863, the tower with eig
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/standrew/StAndrewChurch.jpg">
+<img src="/images/Vol-16-issue-4/standrew/image005_800px.jpg">
 This elevation drawing of the proposed spire design for St Andrew’s Church (now St Andrew’s Cathedral) is attributed to Ronald MacPherson. However, his design was not realised and a simplified design (see inset photo) by Jasper Otway Mayne, an engineer with the Public Works Department, was constructed instead. Among the many differences, the <i>oeil-de-boeuf</i> (bull’s eye) windows at the belfry level were replaced by lancet windows, and the flying buttresses connecting the pinnacles to the spire, as well as <i>lucarne</i> (spire light), which is a type of dormer window, were removed. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i>.
 </div>
 
