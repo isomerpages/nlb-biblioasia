@@ -87,7 +87,7 @@ Despite the foot drills, uniformed groups became popular in schools. One reason 
 
 Former scout Jackie Yap used to live in Bukit Ho Swee, “a very notorious area” rife with gangsters, and studied in Bukit Ho Swee Secondary School in the late 1960s. Despite participating in his school’s National Police Cadet Corps (NPCC) activities on Saturday mornings, Yap’s appetite for adventure beckoned and he also joined the local Sea Scout group on Sunday afternoons.
 
-Scouting gave Yap the opportunity to leave behind claustrophobic afternoons at home–crammed into a one-room flat shared with nine other family members. With the scouts, Yap was able to venture outdoors and indulge in his “passion for the sea”, once even rowing around Singapore in a wooden *sampan*. Yap said that many of his fellow underprivileged peers enjoyed their time with the Sea Scouts because “they could [finally] enjoy space and some form of novel recreation for free”.[^13]
+Scouting gave Yap the opportunity to leave behind claustrophobic afternoons at home – crammed into a one-room flat shared with nine other family members. With the scouts, Yap was able to venture outdoors and indulge in his “passion for the sea”, once even rowing around Singapore in a wooden *sampan*. Yap said that many of his fellow underprivileged peers enjoyed their time with the Sea Scouts because “they could [finally] enjoy space and some form of novel recreation for free”.[^13]
 
 <div style="background-color: white;">
 <br/>
@@ -111,7 +111,7 @@ The National Cadet Corps (NCC) girls’ contingent marching through the streets 
 
 Dunearn Secondary NCC cadet Shamsia Muslim was proud that she completed a day-long navigation test in the countryside – the “toughest of all training tests in the NCC”. Shamsia resolutely refused offers of help from passing lorries when she got lost in rural Lim Chu Kang and expressed wonderment at the world beyond her neighbourhood to discover plantations and “hospitable rural dwellers”.[^18]
 
-All these activities left a mark on young, impressionable minds. Former 1960s Rafflesian scout Zainul Abidin bin Mohamed Rasheed (later Senior Minister of State in the Ministry of Foreign Affairs)  “the sense of service to others” and learned “the true meaning of life-long friends”.[^19] Another fellow scout, Kwek Siew Jin (who later became Rear-Admiral and Chief of Navy) believed that scouting “was the best thing that happened” to him in his formative years, resulting in character-building and moral growth.[^20]
+All these activities left a mark on young, impressionable minds. Former 1960s Rafflesian scout Zainul Abidin bin Mohamed Rasheed (later Senior Minister of State in the Ministry of Foreign Affairs)  learned “the sense of service to others” and “the true meaning of life-long friends”.[^19] Another fellow scout, Kwek Siew Jin (who later became Rear-Admiral and Chief of Navy) believed that scouting “was the best thing that happened” to him in his formative years, resulting in character-building and moral growth.[^20]
 
 Jackie Yap of Bukit Ho Swee Secondary School felt that his time in the Sea Scouts and NPCC taught “a lot of very good survival skills, life skills which [are] today, so important”. Yap later went on to join the Singapore Army as a regular in the Commandos, where he completed the SAF Ranger Course before leaving service in the late 1980s. Today, he works with corporate clients as a team-building consultant, helping participants to enjoy the great outdoors and to understand themselves and nature better.[^21]
 
@@ -141,17 +141,17 @@ Public discourse reflects the centrality of this rugged ideal – take for insta
 
 [^2]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/73d68d51-115d-11e3-83d5-0050568939ad), 10 Aug 1966.
 
-[^3]: Lee, C.K. (1969, June 12). [Extra-curricula: The word that put new life in schools in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690623-1.2.77). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^3]: Lee, C.K. (1969, June 23). [Extra-curricula: The word that put new life in schools in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690623-1.2.77). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^4]: Ministry of Culture.  (1979, November 16). *[Speech by Dr Tony Tan Keng Yam, Senior Minister of State for Education, at the National Police Cadet Corps 20th anniversary dinner held at the Silver Star Theatre Restaurant on Friday, 16 November 1979 at 7.30pm](www.nas.gov.sg\archivesonline\data\pdfdoc\tkyt19791126s.pdf)* [Speech]. Retrieved from National Archives of Singapore website.
+[^4]: Ministry of Culture.  (1979, November 16). *[Speech by Dr Tony Tan Keng Yam, Senior Minister of State for Education, at the National Police Cadet Corps 20th anniversary dinner held at the Silver Star Theatre Restaurant on Friday, 16 November 1979 at 7.30pm](https://www.nas.gov.sg/archivesonline/speeches/record-details/71b89a90-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
 [^5]: Horton, P.A. (2002). Shacking the lion: Sport and modern Singapore. *International Journal of the History of Sport, 19* (2–2), 243–274, pp. 254–255. Retrieved from Taylor & Francis Online. 
 
-[^6]: Murfett, M.H., et al. (2011). *[Between two oceans: A military history of Singapore from 1275 to 1971](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13764491)* (p. 329). Singapore: Marshall Cavendish Editions. (Call no.: RSING 355.0095957 BET); Lee begins talks to avert total British pull-out by 1975. (1967, June 27). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
+[^6]: Murfett, M.H., et al. (2011). *[Between two oceans: A military history of Singapore from 1275 to 1971](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13764491)* (p. 329). Singapore: Marshall Cavendish Editions. (Call no.: RSING 355.0095957 BET); [Lee begins talks to avert total British pull-out by 1975](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670627-1.2.127). (1967, June 27). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
 [^7]: Ministry of Culture. (1967, July 18). *[Speech by the Prime Minister, Mr Lee Kuan Yew, at the commissioning ceremony of officer cadets into the Armed Forces at Istana on Tuesday, July, 18, 1967](https://www.nas.gov.sg/archivesonline/speeches/record-details/739e13c6-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website. 
 
-[^8]: The children’s hour of enchantment. (1968, July 22). *The Straits Times*, p. 11; [Mammoth parade is festival highlight](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700715-1.2.131). (1970, July 15). *The Straits Times*, p. 20. Retrieved from NewspaperSG. [Note: By 1975, the Singapore Youth Festival would be shortened from a two-week affair to a one-day event.]
+[^8]: [The children’s hour of enchantment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680722-1.2.63). (1968, July 22). *The Straits Times*, p. 11; [Mammoth parade is festival highlight](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700715-1.2.131). (1970, July 15). *The Straits Times*, p. 20. Retrieved from NewspaperSG. [Note: By 1975, the Singapore Youth Festival would be shortened from a two-week affair to a one-day event.]
 
 [^9]: [Lee reviews parade in the rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680721-1.2.12.1). (1968, July 21). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
@@ -171,7 +171,7 @@ Public discourse reflects the centrality of this rugged ideal – take for insta
 
 [^17]: Personal interview with Rina Sim, 8 July 2019.
 
-[^18]: Shamsia Muslim. (1979). An unforgettable experience. In *1969–1979: 10th anniversary souvenir magazine: Dunearn Secondary School* (pp. 110–111). Singapore: The School. (Available via PublicationSG) 
+[^18]: Shamsia Muslim. (1979). An unforgettable experience. In *[1969–1979: 10th anniversary souvenir magazine: Dunearn Secondary School](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200010696)* (pp. 110–111). Singapore: The School. (Available via PublicationSG) 
 
 [^19]: Singapore Scouts Association. (2010). *[100 years of adventure, 1910–2010](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13726479)* (p. 58). Singapore: Singapore Scouts Association. (Call no.: RSING 369.43095957 ONE)
 
@@ -183,8 +183,8 @@ Public discourse reflects the centrality of this rugged ideal – take for insta
 
 [^23]: [Still the rugged society?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800531-1.2.37) (1980, May 31). *New Nation*, p. 8. Retrieved from NewspaperSG. 
 
-[^24]: Goh, C.T. (1990, March 10). *[Speech by Mr Goh Chok Tong, first Deputy Prime Minister and Minister for Defence, at the official opening of the College of Physical Education new facilities at 21 Evans Road, on Saturday, 10 March 1990 at 1800hrs](mailto:https://www.nas.gov.sg/archivesonline/data/pdfdoc/gct19900310.pdf)* [Speech]. Retrieved from National Archives of Singapore website.
+[^24]: Goh, C.T. (1990, March 10). *[Speech by Mr Goh Chok Tong, first Deputy Prime Minister and Minister for Defence, at the official opening of the College of Physical Education new facilities at 21 Evans Road, on Saturday, 10 March 1990 at 1800hrs](https://www.nas.gov.sg/archivesonline/speeches/record-details/72f8091c-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
-[^25]: Siau, M.E. (2015, August 23). The three factors behind Singapore’s success. *TODAY*. Retrieved from TODAYonline.
+[^25]: Siau, M.E. (2015, August 24). [The three factors behind Singapore’s success](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20150824-1.2.4.2.2). *TODAY*. Retrieved from TODAYonline.
 
-[^26]: Tan, T. (2017, December 7). [Millennials, redefined: Meet Generation Grit](mailto:https://www.straitstimes.com/opinion/millennials-redefined-meet-generation-grit). *The Straits Times*. Retrieved from The Straits Times website.
+[^26]: Tan, T. (2017, December 7). [Millennials, redefined: Meet Generation Grit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20171207-1.2.33.3). *The Straits Times*. Retrieved from The Straits Times website.
