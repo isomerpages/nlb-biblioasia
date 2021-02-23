@@ -39,9 +39,10 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |As Singaporeans bid farewell to a much-loved icon, we look back at some of the defining moments in Robinsons’ storied past gleaned from newspaper reports in NewspaperSG, annual reports and inhouse newsletters kept by the National Library, and oral history interviews and images from the National Archives.|
 
-|<img src="/images/Vol-16-issue-4/robinsons/BigSale.jpg">||The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. *Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)*.|
+|<img src="/images/Vol-16-issue-4/robinsons/BigSale.jpg">|
+|The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. *Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)*.|
 
-|<img src="/images/Vol-16-issue-4/robinsons/Ad1.jpg">||Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.|
+|<img src="/images/Vol-16-issue-4/robinsons/Ad1.jpg">Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.|
 
 |**REFERENCES**|
 
@@ -59,8 +60,10 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |A year later, the store was renamed Robinson and Company when Robinson’s partnership with Spicer was dissolved and George Rappa, Jr. came on board. After Robinson’s death in 1886, his son, with the splendid name of Stamford Raffles Robinson, succeeded him. One A.W. Bean was also brought in as a partner. The business flourished and was incorporated as a limited company in 1920. The firm then came under the management of a hired general manager and a board of directors comprising members such as prominent businessman Eu Tong Sen.[^4]|
 
-|**REFERENCES**
-[New Family Warehouse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18580225-1.2.5.3). (1858, February 25). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.|
+|**REFERENCES**|
+
+|[New Family Warehouse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18580225-1.2.5.3). (1858, February 25). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.|
+
 |Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore: 1819–1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)* (p. 350). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC); *[Koh Seow Chuan Collection: Eu Tong Sen: Robinson & Company, Limited: Minutes of meetings, financial statements, receipts and invoices, 1922–1934](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203780599)*. (1922–1934). [n.p.]. (Call no.: RRARE 338.7616151092 KOH)|
 
 |**Gracie Lee**|
