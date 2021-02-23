@@ -107,7 +107,7 @@ Vicat and Holman also held different views on the number of eggs required to mak
 
 |Madras *chunam*, in contrast, uses additional ingredients. According to Louis-Joseph Vicat and James Holman, making Madras *chunam* also involved using ghee (butter) or oil, *tyre* (sour curd), albumen (egg white) and soapstone powder (*lapis ollaris*, commonly known as talc) in the final coat.| 
 
-|For lime, Vicat and Holman wrote that sea shells were used, while McNair’s account cites corals instead. “[Our] lime… [was] made from coral, of which there were extensive reefs round the Island of Singapore…. Coral is almost a pure carbonate of lime, and therefore very well suited for the purpose. It was broken up and heated in kilns constructed for the purpose”.[^14]|
+|For lime, Vicat and Holman wrote that sea shells were used, while Frederick Aldophus McNair’s account cites corals instead. “[Our] lime… [was] made from coral, of which there were extensive reefs round the Island of Singapore…. Coral is almost a pure carbonate of lime, and therefore very well suited for the purpose. It was broken up and heated in kilns constructed for the purpose”.[^14]|
 
 |It is not unusual to use raw sugar (jaggery) in plaster. In fact, sugar is widely used as an additive to increase the plasticity of lime plaster as it decreases the viscosity of plaster and improves its workability and strength. This quality is especially important in decorative plastering, such as mouldings and capitals.| 
 
@@ -117,7 +117,7 @@ Vicat and Holman also held different views on the number of eggs required to mak
 
 |Sour curd is largely made up of milk proteins (casein), which are useful as a binder in lime plaster to improve its adhesive properties.[^17] Conceivably, as albumen comprises primarily of protein, it might also have been used as a binder. In recent years, studies have found that albumen does increase the compressive and flexural strength of plaster.[^18]|
 
-|Coconut fibre in some form is cited as an ingredient by John Frederick Aldophus McNair though not by Vicat and Holman. It is unclear from McNair’s account if the lime plaster was mixed with water, together with the coconut fibre (husk) that was steeped in it, or just the water, with the husk removed. Coconut fibre is composed mainly of cellulose, hemicellulose and lignin, which are insoluble in water.[^19] Coconut fibre, however, is known to have been added to plaster to improve its tensile strength[^20] and it is not inconceivable that it was used in the mixture.|
+|Coconut fibre in some form is cited as an ingredient by McNair though not by Vicat and Holman. It is unclear from McNair’s account if the lime plaster was mixed with water, together with the coconut fibre (husk) that was steeped in it, or just the water, with the husk removed. Coconut fibre is composed mainly of cellulose, hemicellulose and lignin, which are insoluble in water.[^19] Coconut fibre, however, is known to have been added to plaster to improve its tensile strength[^20] and it is not inconceivable that it was used in the mixture.|
 
 |<img src="/images/Vol-16-issue-4/standrew/LimeKiln.png">A lime kiln at Kampong Mata Ikan, 1967. Seashells (white pile on the left), which are made of calcium carbonate, are heated to approximately 900 degrees Celsius to produce calcium oxide, also known as quicklime. The man is using a woven rattan *pungki* or *pengki* (畚箕) (a shallow basket) to deposit what looks to be charcoal – fuel for the kiln – into an open pit. *Photo by Hor Kwok Kin. Retrieved from Photonico.*|
 
@@ -233,7 +233,7 @@ Having weighed the historical evidence – the budgetary constraints that affect
 
 [^30]: [Page 3 Advertisement Column 1: Ecclesiastical](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18620626-1.2.8.1). (1862, June 26). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.
 
-[^31]: [The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18611012-1.2.3), 12 Oct 1861, p. 19; [Singapore: Saturday, 12 Nov. 1859](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18591112-1.2.3). (1859, November 12). The Straits Times, p. 2; [News of the Week](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18630411-1.2.12). (1863, April 11). The Straits Times, p. 2. Retrieved from NewspaperSG. 
+[^31]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18611012-1.2.3)*, 12 Oct 1861, p. 19; [Singapore: Saturday, 12 Nov. 1859](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18591112-1.2.3). (1859, November 12). *The Straits Times*, p. 2; [News of the Week](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18630411-1.2.12). (1863, April 11). *The Straits Times*, p. 2. Retrieved from NewspaperSG. 
 
 [^32]: [St. Andrew’s Church](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18631017-1.2.2.14). (1863, October 17). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 

@@ -70,7 +70,7 @@ An Indian family in Serangoon Road, 1962. This was the time when the iconic busi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/youngones/BukitMerah.jpg">
+<img src="/images/Vol-16-issue-4/youngones/BukitMerahEstate.jpg">
 Bukit Merah estate, 1963. The Housing and Development Board, established in 1960, was set up to alleviate the severe housing shortage in Singapore. By the time of Singapore’s independence, it had built 54,430 flats. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
