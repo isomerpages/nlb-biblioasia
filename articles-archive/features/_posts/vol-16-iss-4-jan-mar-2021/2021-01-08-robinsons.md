@@ -40,12 +40,16 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 |What felled the retail giant? Declining sales due to changing consumer tastes and the rising popularity of online shopping were contributing factors. The reduced footfall to its outlets was exacerbated by the COVID-19 pandemic that ravaged the world for much of 2020.|
 
 |As Singaporeans bid farewell to a much-loved icon, we look back at some of the defining moments in Robinsons’ storied past gleaned from newspaper reports in NewspaperSG, annual reports and inhouse newsletters kept by the National Library, and oral history interviews and images from the National Archives.|
-|<img src="/images/Vol-16-issue-4/robinsons/BigSale.jpg">The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. *Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)*.|
 
-|<img src="/images/Vol-16-issue-4/robinsons/Ad1.jpg">Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.|
+|<img src="/images/Vol-16-issue-4/robinsons/BigSale.jpg">|
+|The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. *Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)*.|
 
-|**REFERENCES**
-[‘Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.|
+|<img src="/images/Vol-16-issue-4/robinsons/Ad1.jpg">|
+|Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.|
+
+|**REFERENCES**|
+
+|[‘Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.|
 
 |Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20150829-1.2.4.3.1). *The Business Times*, p. 7. Retrieved from NewspaperSG.|
 
