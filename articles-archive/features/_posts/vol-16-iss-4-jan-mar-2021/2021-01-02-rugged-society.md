@@ -73,7 +73,7 @@ The same day the withdrawal was announced, then Prime Minister Lee addressed the
 
 Lee was of the view that a rugged society would be reflected in a credible defence force – and this effort would need to begin in the schools, well before youths enlisted for military service.
 
-Since a rugged society ultimately served the purpose of national defence, much of its rhetoric and initiatives were militaristic in tone. Drill and parades were very much part of the movement. In July 1967, four months after the National Service (Amendment) Bill was passed, the inaugural Singapore Youth Festival (SYF) was held. The festival saw 4,390 students participating in ceremonial military drills, athletic displays and cultural performances over two weeks. By 1970, this figure had risen to 9,000.[^8] At SYF 1968, Lee refused an umbrella and joined cadets and schoolchildren who were getting soaked in a tropical downpour.[^9]
+Since a rugged society ultimately served the purpose of national defence, much of its rhetoric and initiatives were militaristic in tone. Drill and parades were very much part of the movement. In July 1967, four months after the National Service (Amendment) Bill was passed, the inaugural Singapore Youth Festival (SYF) was held. The festival saw 4,390 students participating in ceremonial military drills, athletic displays and cultural performances over two weeks. By 1970, this figure had risen to 9,000.[^8] At SYF 1968, Lee refused an umbrella and joined cadets and school children who were getting soaked in a tropical downpour.[^9]
 
 <div style="background-color: white;">
 <br/>
@@ -185,6 +185,6 @@ Public discourse reflects the centrality of this rugged ideal – take for insta
 
 [^24]: Goh, C.T. (1990, March 10). *[Speech by Mr Goh Chok Tong, first Deputy Prime Minister and Minister for Defence, at the official opening of the College of Physical Education new facilities at 21 Evans Road, on Saturday, 10 March 1990 at 1800hrs](https://www.nas.gov.sg/archivesonline/speeches/record-details/72f8091c-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
-[^25]: Siau, M.E. (2015, August 24). [The three factors behind Singapore’s success](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20150824-1.2.4.2.2). *TODAY*. Retrieved from TODAYonline.
+[^25]: Siau, M.E. (2015, August 24). [The three factors behind Singapore’s success](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20150824-1.2.4.2.2). *Today*, p. 8. Retrieved from NewspaperSG.
 
-[^26]: Tan, T. (2017, December 7). [Millennials, redefined: Meet Generation Grit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20171207-1.2.33.3). *The Straits Times*. Retrieved from The Straits Times website.
+[^26]: Tan, T. (2017, December 7). [Millennials, redefined: Meet Generation Grit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20171207-1.2.33.3). *The Straits Times*, p. 27. Retrieved from NewspaperSG.
