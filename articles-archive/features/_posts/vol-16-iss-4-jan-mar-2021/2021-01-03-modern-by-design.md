@@ -227,7 +227,7 @@ By making design education accessible to the man in the street, BVI was instrume
 
 [^20]: Chew, 2020, Memory of Nancy Wee. 
 
-[^21]: Alfred, H. (1984, April 8). ‘[Brain drain’ to Poly](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840408-1.2.6). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^21]: Alfred, H. (1984, April 8). ‘[Brain drain’ to poly](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840408-1.2.6). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 [^22]: Personal interview with Wee Chwee Beng, 16 March 2010.
 
@@ -243,10 +243,10 @@ By making design education accessible to the man in the street, BVI was instrume
 
 [^28]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740602-1.2.54)*, 2 Jun 1974, p. 10.
 
-[^29]: Singapore. Industrial Training Board. (1977, October). ITB appoints its ninth TAC. *[ITB News](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5041517)*, 3.
+[^29]: Singapore. Industrial Training Board. (1977, October). ITB appoints its ninth TAC. *[ITB News](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5041517)*, 3. (Call no.: RSING 331.79407105957 ITBSIT)
 
 [^30]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7244df85-115d-11e3-83d5-0050568939ad), 27 Nov 1979.
 
 [^31]: He, S. (2008, September 4). *[Oral history interview with Khor Ean Ghee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/759020e5-1161-11e3-83d5-0050568939ad?keywords=KHOR+Ean+Ghee&keywords-type=all)* [许延义] [MP3 recording no. 003343/12/08]. Retrieved from National Archives of Singapore website.
 
-[^32]: Management Development Institute of Singapore. (2020). MDIS Heritage 2000. Retrieved from MDIS website.
+[^32]: Management Development Institute of Singapore. (2020). *MDIS Heritage 2000*. Retrieved from MDIS website.
