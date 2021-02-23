@@ -60,8 +60,7 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |A year later, the store was renamed Robinson and Company when Robinson’s partnership with Spicer was dissolved and George Rappa, Jr. came on board. After Robinson’s death in 1886, his son, with the splendid name of Stamford Raffles Robinson, succeeded him. One A.W. Bean was also brought in as a partner. The business flourished and was incorporated as a limited company in 1920. The firm then came under the management of a hired general manager and a board of directors comprising members such as prominent businessman Eu Tong Sen.⁴|
 
-|<img src="/images/Vol-16-issue-4/robinsons/Ad2.png">
-Spicer & Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). *The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG*.|
+|<img src="/images/Vol-16-issue-4/robinsons/Ad2.png">Spicer & Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). *The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG*.|
 
 |**REFERENCES**|
 
@@ -135,7 +134,7 @@ Spicer & Robinson’s first newspaper advertisement. The company started out as 
 
 <img src="/images/Vol-16-issue-1/postcards/space.png">
 
-|**Always on the Move**|
+|**ALWAYS ON THE MOVE**|
 
 |In Singapore, Robinsons relocated several times in the course of its long history. The store’s first move took place in 1859 when it shifted from its original site in Commercial Square to the corner of Coleman Street and North Bridge Road. The new site was a stone’s throw away from the Esplanade (Padang), the heart of social life in 19th-century Singapore.|
 
@@ -183,27 +182,27 @@ Spicer & Robinson’s first newspaper advertisement. The company started out as 
 
 <img src="/images/Vol-16-issue-1/postcards/space.png">
 
-|**The Great Robinsons Fire**|
+|**THE GREAT ROBINSONS FIRE**|
 
-|On Tuesday, 21 November 1972, an overloaded electrical system short-circuited on the ground floor of the buiding and started a fire at about 9.50 am.[^22] According to *The Straits Times*, “a Robinson’s salesman in the Men’s Department said he saw a flash across some electrical wire running along the ground floor ceiling near the jewellery counter. The drapes on the wall were set ablaze, he said, and within minutes the fire had spread across the room”. The flames that engulfed the building soared as high as 200 ft (61 m) at one point, with the conflagration reportedly visible as far away as Toa Payoh and Jurong.[^23]|
+|On Tuesday, 21 November 1972, an overloaded electrical system short-circuited on the ground floor of the buiding and started a fire at about 9.50 am.²² According to *The Straits Times*, “a Robinson’s salesman in the Men’s Department said he saw a flash across some electrical wire running along the ground floor ceiling near the jewellery counter. The drapes on the wall were set ablaze, he said, and within minutes the fire had spread across the room”. The flames that engulfed the building soared as high as 200 ft (61 m) at one point, with the conflagration reportedly visible as far away as Toa Payoh and Jurong.²³|
 
-|Nine people died in the fire, eight of whom were trapped in the store’s lifts. Out of the nine fatalities, eight were employees. The fire gutted the entire building, leaving only a shell, and incinerated millions of dollars worth of goods stockpiled for Christmas. It also damaged neighbouring buildings, including the roof of the adjoining Overseas Union Bank. Businesses across Raffles Place and the commercial district were forced to stop for the day, and thousands of workers were evacuated from their offices.[^24]|
+|Nine people died in the fire, eight of whom were trapped in the store’s lifts. Out of the nine fatalities, eight were employees. The fire gutted the entire building, leaving only a shell, and incinerated millions of dollars worth of goods stockpiled for Christmas. It also damaged neighbouring buildings, including the roof of the adjoining Overseas Union Bank. Businesses across Raffles Place and the commercial district were forced to stop for the day, and thousands of workers were evacuated from their offices.²⁴|
 
 <img src="/images/Vol-16-issue-4/robinsons/StraitsTimes.png">*The Straits Times* put the news of the Robinsons fire on the front page. *The Straits Times, 22 November 1972, p. 1. Retrieved from NewspaperSG*.|
 
-|George Yuille Cadwell was a medical doctor whose practice was located at the Bank of China building across from the store. “I was busy working and didn’t notice anything and… [one of my patients] came in [and said] ‘Robinsons is on fire!’,” he recalled. “And I looked out of the window and I saw lots of smoke coming out of the building and flames coming out of the windows… a very, very big fire. And I noticed that as the flames got higher and higher, this little tiny figure of winged Mercury [on the roof of the Robinsons building] just slowly melting in the heat and folding over and dropping down. And I could feel the heat through the glass of my window [although] we must have been 200 yards away? It was quite warm… The buildings [at Raffles Place] are all joined together… as Robinsons was built just of wooden floors and wooden rafters. And so it went up [in flames] very quickly, very dry.”[^25]|
+|George Yuille Cadwell was a medical doctor whose practice was located at the Bank of China building across from the store. “I was busy working and didn’t notice anything and… [one of my patients] came in [and said] ‘Robinsons is on fire!’,” he recalled. “And I looked out of the window and I saw lots of smoke coming out of the building and flames coming out of the windows… a very, very big fire. And I noticed that as the flames got higher and higher, this little tiny figure of winged Mercury [on the roof of the Robinsons building] just slowly melting in the heat and folding over and dropping down. And I could feel the heat through the glass of my window [although] we must have been 200 yards away? It was quite warm… The buildings [at Raffles Place] are all joined together… as Robinsons was built just of wooden floors and wooden rafters. And so it went up [in flames] very quickly, very dry.”²⁵|
 
-|Tan Wee Him, a journalist with *The Straits Times* who covered the fire, was another eyewitness. “I received a call from my office… ‘We need every available journalist to cover the fire that broke out at Robinson.’… When I [reached] Robinsons, I couldn’t believe [it]. The whole place was a towering inferno. The flame was shooting up and even this bronze statue right at the top of the roof of Robinsons melted. You can just imagine the heat generated… I had to hide behind pillars… to protect myself from the heat.”[^26]|
+|Tan Wee Him, a journalist with *The Straits Times* who covered the fire, was another eyewitness. “I received a call from my office… ‘We need every available journalist to cover the fire that broke out at Robinson.’… When I [reached] Robinsons, I couldn’t believe [it]. The whole place was a towering inferno. The flame was shooting up and even this bronze statue right at the top of the roof of Robinsons melted. You can just imagine the heat generated… I had to hide behind pillars… to protect myself from the heat.”²⁶|
 
-|The fire brigade arrived at 10.13 am and attempted to put out the blaze but the nearby fire hydrants were not functioning as they should as the water pressure was too low. Although efforts were made to divert and supply water from other mains, the water pressure fell again at noon and the firemen resorted to pumping water directly from the Singapore River. By late afternoon, a fleet of 18 fire engines had been deployed to the scene. The police later cordoned off most of Raffles Place for public safety and to prevent looting. The total value of the Robinsons building, the goods destroyed and loss of profits was estimated to be about $14 million.[^27]|
+|The fire brigade arrived at 10.13 am and attempted to put out the blaze but the nearby fire hydrants were not functioning as they should as the water pressure was too low. Although efforts were made to divert and supply water from other mains, the water pressure fell again at noon and the firemen resorted to pumping water directly from the Singapore River. By late afternoon, a fleet of 18 fire engines had been deployed to the scene. The police later cordoned off most of Raffles Place for public safety and to prevent looting. The total value of the Robinsons building, the goods destroyed and loss of profits was estimated to be about $14 million.²⁷|
 
 |<img src="/images/Vol-16-issue-4/robinsons/RPflames.png">The Robinsons store in Raffles Place engulfed in flames. The fire on 21 November 1972 completely gutted the building and destroyed millions of dollars worth of goods. Nine people died in the fire. *Image reproduced from Robinsons and Company (Singapore). (2002, December). Family News: The Staff Newsletter of the Robinsons Group (p. 11). Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)*.|
 
 |On 21 December 1972, then President Benjamin Sheares officially appointed a Commission of Inquiry to investigate the cause of the fire. The commission found that Robinsons had overloaded its ageing and deteriorating electrical circuitry by installing numerous spotlights and decorative fittings for the festive Christmas period, ignoring warnings of overloading by its own electricians.|
 
-|The commission also noted that Robinsons had inadequate fire safety measures and had, in fact, stored large quantities of combustible goods in unauthorised loft storage areas. In its report released to the public in December 1973, the commission made several recommendations on fire safety and building safety measures to prevent a similar tragedy. Many of the commission’s recommendations were subsequently incorporated into the Building Control Act of 1974, which vested the government with the power to take action against unauthorised building works as well as the owners of dangerous or dilapidated buildings.[^28]|
+|The commission also noted that Robinsons had inadequate fire safety measures and had, in fact, stored large quantities of combustible goods in unauthorised loft storage areas. In its report released to the public in December 1973, the commission made several recommendations on fire safety and building safety measures to prevent a similar tragedy. Many of the commission’s recommendations were subsequently incorporated into the Building Control Act of 1974, which vested the government with the power to take action against unauthorised building works as well as the owners of dangerous or dilapidated buildings.²⁸|
 
-|Robinsons would bounce back quickly from this disaster. On 11 December 1972, a new Robinsons store opened at Specialists’ Shopping Centre on Orchard Road. The company also made plans to rebuild the store in Raffles Place, but the government had acquired the prime site for urban redevelopment before this could happen.[^29] The site is presently occupied by One Raffles Place, the former OUB Centre.|
+|Robinsons would bounce back quickly from this disaster. On 11 December 1972, a new Robinsons store opened at Specialists’ Shopping Centre on Orchard Road. The company also made plans to rebuild the store in Raffles Place, but the government had acquired the prime site for urban redevelopment before this could happen.²⁹ The site is presently occupied by One Raffles Place, the former OUB Centre.|
 
 |**REFERENCES**|
 
@@ -221,7 +220,7 @@ Spicer & Robinson’s first newspaper advertisement. The company started out as 
 
 |Singapore. Commission of Inquiry into the Robinson’s Fire, 1973, pp. 5–20.|
 
-[^29]: Kwee, M. (1972, December 12). [Robinson’s plans to rebuild at fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721212-1.2.52.aspx). *The Straits Times*, p. 15; [Govt takes over Robinson fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730118-1.2.9.aspx). (1973, January 18). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+|Kwee, M. (1972, December 12). [Robinson’s plans to rebuild at fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721212-1.2.52.aspx). *The Straits Times*, p. 15; [Govt takes over Robinson fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730118-1.2.9.aspx). (1973, January 18). *The Straits Times*, p. 1. Retrieved from NewspaperSG.|
 
 <div style="background-color: white;">
 <br/>
