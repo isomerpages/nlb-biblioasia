@@ -27,6 +27,7 @@ table {
 The Robinsons building in Raffles Place, 1950s. The store’s name is also displayed in Chinese and Malay on the signboard. The statue of Mercury is perched on the top of the arch. <i>Chiang Ker Chiu Collection, courtesy of National Archives of Singapore</i>.
 </div>
 <img src="/images/Vol-16-issue-1/postcards/space.png">
+
 |After surviving 162 years, the Great Depression, being bombed by the Japanese during World War II, several economic downturns and a devastating fire in 1972, the curtains have finally come down on home-grown department store Robinsons – once hailed as “one of the handsomest shops in the Far East”.¹|
 
 |In August 2020, Robinsons closed its store in Jem shopping mall. Barely four months later, its flagship luxury store in The Heeren followed suit. Its last outlet at Raffles City Shopping Centre shuttered in January 2021.|
@@ -39,8 +40,7 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |As Singaporeans bid farewell to a much-loved icon, we look back at some of the defining moments in Robinsons’ storied past gleaned from newspaper reports in NewspaperSG, annual reports and inhouse newsletters kept by the National Library, and oral history interviews and images from the National Archives.|
 
-|<img src="/images/Vol-16-issue-4/robinsons/BigSale.jpg">|
-|The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. *Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)*.|
+|<img src="/images/Vol-16-issue-4/robinsons/BigSale.jpg">The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. *Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)*.|
 
 |<img src="/images/Vol-16-issue-4/robinsons/Ad1.jpg">Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.|
 
@@ -56,9 +56,9 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |The grand dame’s history can be traced back to 1 February 1858 when Philip Robinson, who came from Australia, and James Gaborian Spicer, a former keeper at the Singapore Jail, opened Spicer & Robinson at Nos. 9 & 10 Commercial Square (now Raffles Place).|
 
-|An 1858 advertisement for the “New Family Warehouse”, as it was called, went: “Spicer & Robinson respectfully invite the attention of Private Families, Hotel Proprietors, and the Public generally to their establishment, now replete with a well selected stock, which they are determined to offer at the lowest remunerative rates, in order to ensure a large amount of public support.”[^3] The store sold items such as tea, rice, sugar, oatmeal, biscuits, crackers, cheese, preserved meats and women’s hats.|
+|An 1858 advertisement for the “New Family Warehouse”, as it was called, went: “Spicer & Robinson respectfully invite the attention of Private Families, Hotel Proprietors, and the Public generally to their establishment, now replete with a well selected stock, which they are determined to offer at the lowest remunerative rates, in order to ensure a large amount of public support.”³ The store sold items such as tea, rice, sugar, oatmeal, biscuits, crackers, cheese, preserved meats and women’s hats.|
 
-|A year later, the store was renamed Robinson and Company when Robinson’s partnership with Spicer was dissolved and George Rappa, Jr. came on board. After Robinson’s death in 1886, his son, with the splendid name of Stamford Raffles Robinson, succeeded him. One A.W. Bean was also brought in as a partner. The business flourished and was incorporated as a limited company in 1920. The firm then came under the management of a hired general manager and a board of directors comprising members such as prominent businessman Eu Tong Sen.[^4]|
+|A year later, the store was renamed Robinson and Company when Robinson’s partnership with Spicer was dissolved and George Rappa, Jr. came on board. After Robinson’s death in 1886, his son, with the splendid name of Stamford Raffles Robinson, succeeded him. One A.W. Bean was also brought in as a partner. The business flourished and was incorporated as a limited company in 1920. The firm then came under the management of a hired general manager and a board of directors comprising members such as prominent businessman Eu Tong Sen.⁴|
 
 |**REFERENCES**|
 
