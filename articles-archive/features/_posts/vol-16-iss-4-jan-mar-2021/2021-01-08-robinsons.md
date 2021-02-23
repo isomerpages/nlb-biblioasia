@@ -41,11 +41,9 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |As Singaporeans bid farewell to a much-loved icon, we look back at some of the defining moments in Robinsons’ storied past gleaned from newspaper reports in NewspaperSG, annual reports and inhouse newsletters kept by the National Library, and oral history interviews and images from the National Archives.|
 
-|<img src="/images/Vol-16-issue-4/robinsons/BigSale.jpg">|
-|The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. *Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)*.|
+|<img src="/images/Vol-16-issue-4/robinsons/BigSale.jpg">||The Robinsons “Big Sale” in 1959 took place from 23 March to 11 April, with substantial discounts storewide. Shoppers could write in to order their items and collect them later. *Image reproduced from Robinson & Co. Ltd. (1959, March 2). This is Robinson’s reporting from Singapore. Singapore: Robinson & Co. Ltd. Collection of the National Library, Singapore. (Accession no.: B28906607E)*.|
 
-|<img src="/images/Vol-16-issue-4/robinsons/Ad1.jpg">|
-|Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.|
+|<img src="/images/Vol-16-issue-4/robinsons/Ad1.jpg">||Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.|
 
 |**REFERENCES**|
 
