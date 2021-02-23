@@ -93,6 +93,12 @@ Spicer & Robinson’s first newspaper advertisement. The company started out as 
 
 |<img src="/images/Vol-16-issue-4/robinsons/Raleigh.jpg">In 1907, Robinsons became among the world’s first agents for Raleigh bicycles, a British brand. For the coronation of Queen Elizabeth II, Raleigh launched its “New Elizabethan” model of bicycles, which were sold in Robinsons. *Image reproduced from The Straits Times Annual, 1954, p. 131*.|
 
+|**REFERENCES**|
+
+|[Robinsons to buy goods from Australi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6). (1941, July 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.|
+
+|Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
+
 <img src="/images/Vol-16-issue-1/postcards/space.png">
 
 |**ROBINSONS DURING WORLD WAR II**|
@@ -115,10 +121,6 @@ Spicer & Robinson’s first newspaper advertisement. The company started out as 
 
 |**REFERENCES**|
 
-|[Robinsons to buy goods from Australi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6). (1941, July 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.|
-
-|Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
-
 |*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
 
 |*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
@@ -131,6 +133,7 @@ Spicer & Robinson’s first newspaper advertisement. The company started out as 
 
 |Low, Y. (2020, November 2). Upmarket or mass market? Retail experts say Robinsons’ confused identity contributed to its closure. *Today*. Retrieved from Today website.|
 
+<img src="/images/Vol-16-issue-1/postcards/space.png">
 
 |**Always on the Move**|
 
@@ -138,25 +141,47 @@ Spicer & Robinson’s first newspaper advertisement. The company started out as 
 
 |In 1881, Robinsons opened a new shop with a tailoring department on Battery Road. Ten years later, it returned to Commercial Square – by then renamed Raffles Place – and occupied much larger premises. In November 1941, the store moved to Raffles Chambers, located on the opposite side of Raffles Place.|
 
-|<img src="/images/Vol-16-issue-4/robinsons/RP1901.png">Raffles Place c. 1901. Robinsons occupied the two buildings on the extreme right, before moving to Raffles Chambers in 1941. <i>Andrew Tan Collection, courtesy of National Archives of Singapore</i>.|
+|<img src="/images/Vol-16-issue-4/robinsons/RP1901.png">Raffles Place c. 1901. Robinsons occupied the two buildings on the extreme right, before moving to Raffles Chambers in 1941. *Andrew Tan Collection, courtesy of National Archives of Singapore*.|
 
-|This new store was met with approval by the press. Noted a news report: “Those who have visited it already have remarked on its spaciousness, the modern way of displaying the merchandise so that you can walk all round it, the wide entrance where you can wait for your car in comfort.” The ground floor housed the “men’s clothing and tailoring departments, leather goods, confectionary, cosmetics, perfumes, gramophones and sports goods, silverware. On the first floor you have women’s departments, dresses for children, furnishing and dress materials, household linens, haberdashery, shoes and the like”. The second floor featured an air-conditioned cafe as well as hair salons for men and women.[^13]|
+|This new store was met with approval by the press. Noted a news report: “Those who have visited it already have remarked on its spaciousness, the modern way of displaying the merchandise so that you can walk all round it, the wide entrance where you can wait for your car in comfort.” The ground floor housed the “men’s clothing and tailoring departments, leather goods, confectionary, cosmetics, perfumes, gramophones and sports goods, silverware. On the first floor you have women’s departments, dresses for children, furnishing and dress materials, household linens, haberdashery, shoes and the like”. The second floor featured an air-conditioned cafe as well as hair salons for men and women.¹³|
 
-|Business came to a halt during the Japanese Occupation (1942–45), and resumed only in April 1946. Operating from the same iconic location at Raffles Place, Robinsons became the first department store in Southeast Asia to be fully air-conditioned in 1955. After a facelift in 1957, the name “Robinsons” on its facade was also displayed in Malay and Chinese, envisioning its future in a self-governing Singapore.[^14]|
+|Business came to a halt during the Japanese Occupation (1942–45), and resumed only in April 1946. Operating from the same iconic location at Raffles Place, Robinsons became the first department store in Southeast Asia to be fully air-conditioned in 1955. After a facelift in 1957, the name “Robinsons” on its facade was also displayed in Malay and Chinese, envisioning its future in a self-governing Singapore.¹⁴|
 
-|<img src="/images/Vol-16-issue-4/robinsons/RP1965.jpg">Raffles Place in 1965. The Overseas Union Bank building is on the extreme left and Robinsons department store just next to it. In the middle is the Chartered Bank building with the dome, while the tall building on the right is Bank of China. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore</i>.|
+|<img src="/images/Vol-16-issue-4/robinsons/RP1965.jpg">Raffles Place in 1965. The Overseas Union Bank building is on the extreme left and Robinsons department store just next to it. In the middle is the Chartered Bank building with the dome, while the tall building on the right is Bank of China. *Arshak C. Galstaun Collection, courtesy of National Archives of Singapore*.|
 
-|Tragedy struck in 1972 when a huge fire razed the store to the ground (see overleaf). The store reopened in less than a month at Specialists’ Shopping Centre on Orchard Road – Singapore’s prime shopping district.[^15] To keep its links with the original site in Raffles Place, Robinsons opened a branch at Clifford Centre in 1977 but this closed in 1983.[^16] That same year, the store decamped across the road to Centrepoint Shopping Centre (now known as The Centrepoint).|
+|Tragedy struck in 1972 when a huge fire razed the store to the ground (see overleaf). The store reopened in less than a month at Specialists’ Shopping Centre on Orchard Road – Singapore’s prime shopping district.¹⁵ To keep its links with the original site in Raffles Place, Robinsons opened a branch at Clifford Centre in 1977 but this closed in 1983.¹⁶ That same year, the store decamped across the road to Centrepoint Shopping Centre (now known as The Centrepoint).|
 
-|The Centrepoint store was where the management pinned its hopes on regaining the lustre lost after the disastrous fire. In the company’s in-house newsletter in 1983, Chief Executive Loh Man Chee wrote that “your management has [sic] determined to regain the lost leadership of Robinson’s being ‘the shopping place’ for families in South East Asia”. He noted that the company had invested more than $10 million in fixing up the new store. “Great effort has been made to give the new store a new look and to reinforce our merchandising objectives – superior quality and value.”[^17]|
+|The Centrepoint store was where the management pinned its hopes on regaining the lustre lost after the disastrous fire. In the company’s in-house newsletter in 1983, Chief Executive Loh Man Chee wrote that “your management has [sic] determined to regain the lost leadership of Robinson’s being ‘the shopping place’ for families in South East Asia”. He noted that the company had invested more than $10 million in fixing up the new store. “Great effort has been made to give the new store a new look and to reinforce our merchandising objectives – superior quality and value.”¹⁷|
 
-|The store was a major tenant in Centrepoint until 2013 when it moved to The Heeren.[^18]|
+|The store was a major tenant in Centrepoint until 2013 when it moved to The Heeren.¹⁸|
 
-|Robinsons also opened other outlets in Singapore. A branch in Raffles City was unveiled in 2001 to reach out to younger customers. In 2013, Robinsons expanded into the suburbs with an outlet in Jem, a shopping mall in Jurong East.[^19]|
+|Robinsons also opened other outlets in Singapore. A branch in Raffles City was unveiled in 2001 to reach out to younger customers. In 2013, Robinsons expanded into the suburbs with an outlet in Jem, a shopping mall in Jurong East.¹⁹|
 
-|Robinsons also expanded overseas, launching its first overseas outlet in 1928 in Kuala Lumpur, though this closed in 1975. The company re-entered the Malaysian market with stores at The Gardens Mall in 2007 and The Shoppes at Four Seasons Place in 2018 (both ceased operations in December 2020[^20]).|
+|Robinsons also expanded overseas, launching its first overseas outlet in 1928 in Kuala Lumpur, though this closed in 1975. The company re-entered the Malaysian market with stores at The Gardens Mall in 2007 and The Shoppes at Four Seasons Place in 2018 (both ceased operations in December 2020²⁰).|
 
-|Although all of Robinsons’ stores in Singapore and Malaysia have closed, the time-honoured trade name lives on through its sole store at the Dubai Festival City Mall in the United Arab Emirates, a development opened in 2017 by the Al-Futtaim Group, which acquired Robinsons in 2008.[^21]|
+|Although all of Robinsons’ stores in Singapore and Malaysia have closed, the time-honoured trade name lives on through its sole store at the Dubai Festival City Mall in the United Arab Emirates, a development opened in 2017 by the Al-Futtaim Group, which acquired Robinsons in 2008.²¹|
+
+|**REFERENCES**|
+
+|Heathcott, M. (1941, September 30). [In The “New Family Warehouse”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410930-1.2.84). *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG.|
+
+|Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); ['Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.|
+
+|Robinson & Co. (Singapore). (1973). *[Annual report 1973](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5128967)* (p. 3). Singapore: The Company. (Call no.: RCLOS q338.47658871 RCSAR)|
+
+|Pereira, A. (1983, November–December). History of Clifford Centre Branch. *[Robinson’s Group Berita](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13183992)* [n.p.]. (Accession no. B28739090E)|
+
+|A step forward in difficult time. (1983, July-August). *[Robinson’s Group Berita](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13183992)* [n.p.]. (Accession no. B28739088A)|
+
+|Robinson & Co. (Singapore). (1983). *[Annual report 1983](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5128967)* (p. 9). (Call no.: RCLOS q338.47658871 RCSAR-[AR]); Zachariah, N.A. (2013, November 9). [Robinson’s fancy new home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131109-1.2.125.13.2). *The Straits Times*, p. 16. Retrieved from NewspaperSG.|
+
+|Robinsons takes the city. (2001, June). *[Family news: The staff newsletter of the Robinsons Group](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10129199)*, 3. (Accession no.: B12020063C); [Gems at JEM](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20130626-1.2.66.2.3). (2013, June 26). *Today*, p. 60. Retrieved from NewspaperSG.|
+
+|[Robinson’s & Co](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511), 1958, [n.p.]; David, A. (2020, December 21). End of an era as Robinsons closes in Malaysia. *New Straits Times*. Retrieved from New Straits Times website.|
+
+|Fung, E. (2008, April 4). [Sold – Robinson’s now owned by Dubai’s Al-Futtaim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080404-1.2.9.2). *Today*, p. 4. Retrieved from NewspaperSG; Dubai Festival City Mall. (2021). *Robinsons*. Retrieved from Dubai Festival City Mall website. [Note: Robinsons’ main shareholder OCBC Bank sold its stake to Indonesia’s Lippo Group in 2006. Robinsons was acquired by the Al-Futtaim Group in 2008.]|
+
+<img src="/images/Vol-16-issue-1/postcards/space.png">
 
 #### **The Great Robinsons Fire**
 
@@ -204,27 +229,6 @@ Robinsons would bounce back quickly from this disaster. On 11 December 1972, a n
 
 #### **NOTES**
 
-
-
-
-
-[^13]: Heathcott, M. (1941, September 30). [In The “New Family Warehouse”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410930-1.2.84). *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG
-
-[^14]: Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); ['Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG. 
-
-[^15]: Robinson & Co. (Singapore). (1973). *[Annual report 1973](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5128967)* (p. 3). Singapore: The Company. (Call no.: RCLOS q338.47658871 RCSAR)
-
-[^16]: Pereira, A. (1983, November–December). History of Clifford Centre Branch. *[Robinson’s Group Berita](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13183992)* [n.p.]. (Accession no. B28739090E)
-
-[^17]: A step forward in difficult time. (1983, July-August). *[Robinson’s Group Berita](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13183992)* [n.p.]. (Accession no. B28739088A)
-
-[^18]: Robinson & Co. (Singapore). (1983). *[Annual report 1983](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5128967)* (p. 9). (Call no.: RCLOS q338.47658871 RCSAR-[AR]); Zachariah, N.A. (2013, November 9). [Robinson’s fancy new home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131109-1.2.125.13.2). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
-
-[^19]: Robinsons takes the city. (2001, June). *[Family news: The staff newsletter of the Robinsons Group](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10129199)*, 3. (Accession no.: B12020063C); [Gems at JEM](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20130626-1.2.66.2.3). (2013, June 26). *Today*, p. 60. Retrieved from NewspaperSG.
-
-[^20]: [Robinson’s & Co](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511), 1958, [n.p.]; David, A. (2020, December 21). End of an era as Robinsons closes in Malaysia. *New Straits Times*. Retrieved from New Straits Times website. 
-
-[^21]: Fung, E. (2008, April 4). [Sold – Robinson’s now owned by Dubai’s Al-Futtaim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080404-1.2.9.2). *Today*, p. 4. Retrieved from NewspaperSG; Dubai Festival City Mall. (2021). *Robinsons*. Retrieved from Dubai Festival City Mall website. [Note: Robinsons’ main shareholder OCBC Bank sold its stake to Indonesia’s Lippo Group in 2006. Robinsons was acquired by the Al-Futtaim Group in 2008.]
 
 [^22]: Singapore. Commission of Inquiry into the Robinson’s Fire. (1973). *[Report of the Commission of Inquiry into the Robinson’s Fire, 1973](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1390273)* (pp. 5–8). [Singapore: Printed for the Govt. of Singapore by the Singapore National Printers]. (Call no.: RSING 614.84 SIN)
 
