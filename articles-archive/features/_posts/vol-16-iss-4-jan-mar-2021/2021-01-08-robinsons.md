@@ -98,6 +98,8 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
 
+|**Gracie Lee**|
+
 <img src="/images/Vol-16-issue-1/postcards/space.png">
 
 |**ROBINSONS DURING WORLD WAR II**|
@@ -131,6 +133,8 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 |Yap, W.C. (Interviewer). (1997, November 3). *[Oral history interview with Ng Joo Kee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.|
 
 |Low, Y. (2020, November 2). Upmarket or mass market? Retail experts say Robinsons’ confused identity contributed to its closure. *Today*. Retrieved from Today website.|
+
+|**Kevin Khoo**|
 
 <img src="/images/Vol-16-issue-1/postcards/space.png">
 
@@ -180,6 +184,8 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |Fung, E. (2008, April 4). [Sold – Robinson’s now owned by Dubai’s Al-Futtaim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080404-1.2.9.2). *Today*, p. 4. Retrieved from NewspaperSG; Dubai Festival City Mall. (2021). *Robinsons*. Retrieved from Dubai Festival City Mall website. [Note: Robinsons’ main shareholder OCBC Bank sold its stake to Indonesia’s Lippo Group in 2006. Robinsons was acquired by the Al-Futtaim Group in 2008.]|
 
+|**Gracie Lee**|
+
 <img src="/images/Vol-16-issue-1/postcards/space.png">
 
 |**THE GREAT ROBINSONS FIRE**|
@@ -221,6 +227,10 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 |Singapore. Commission of Inquiry into the Robinson’s Fire, 1973, pp. 5–20.|
 
 |Kwee, M. (1972, December 12). [Robinson’s plans to rebuild at fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721212-1.2.52.aspx). *The Straits Times*, p. 15; [Govt takes over Robinson fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730118-1.2.9.aspx). (1973, January 18). *The Straits Times*, p. 1. Retrieved from NewspaperSG.|
+
+|**Kevin Khoo**|
+
+<img src="/images/Vol-16-issue-1/postcards/space.png">
 
 <div style="background-color: white;">
 <br/>
