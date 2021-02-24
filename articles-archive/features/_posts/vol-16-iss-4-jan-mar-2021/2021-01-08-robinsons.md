@@ -43,11 +43,11 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 <img src="/images/Vol-16-issue-4/robinsons/Ad1.png">Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.
 
-**REFERENCES**
+**NOTES**
 
-[‘Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+1. [‘Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20150829-1.2.4.3.1). *The Business Times*, p. 7. Retrieved from NewspaperSG.
+2. Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20150829-1.2.4.3.1). *The Business Times*, p. 7. Retrieved from NewspaperSG.
 
 <img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
@@ -61,13 +61,13 @@ Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg
 
 |<img src="/images/Vol-16-issue-4/robinsons/Ad22.png">Spicer & Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). *The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG*.|
 
-|**REFERENCES**|
+|**Gracie Lee**|
+
+|**NOTES**|
 
 |[New Family Warehouse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18580225-1.2.5.3). (1858, February 25). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.|
 
 |Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore: 1819–1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)* (p. 350). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC); *[Koh Seow Chuan Collection: Eu Tong Sen: Robinson & Company, Limited: Minutes of meetings, financial statements, receipts and invoices, 1922–1934](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203780599)*. (1922–1934). [n.p.]. (Call no.: RRARE 338.7616151092 KOH)|
-
-|**Gracie Lee**|
 
 <img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
@@ -91,49 +91,13 @@ Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg
 
 |<img src="/images/Vol-16-issue-4/robinsons/Raleigh.png">In 1907, Robinsons became among the world’s first agents for Raleigh bicycles, a British brand. For the coronation of Queen Elizabeth II, Raleigh launched its “New Elizabethan” model of bicycles, which were sold in Robinsons. *Image reproduced from The Straits Times Annual, 1954, p. 131*.|
 
-|**REFERENCES**|
+|**Gracie Lee**|
+
+|**NOTES**|
 
 |[Robinsons to buy goods from Australia](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6). (1941, July 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.|
 
 |Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
-
-|**Gracie Lee**|
-
-<img src="/images/Vol-16-issue-4/robinsons/space2.png">
-
-|**ROBINSONS DURING WORLD WAR II**|
-
-|In July 1941, Robinsons held its annual shareholder meeting in Singapore. This took place amidst the backdrop of World War II which had broken out in Europe in 1939.⁷ When the company’s Chairman W.H. MacGregor addressed shareholders on 28 July, Britain was still reeling from aerial bombings by the Luftwaffe, the German air force, which had taken place between September 1940 and May 1941.|
-
-|Fortunately, as the war had not yet reached the shores of Britain’s colonies in Southeast Asia, Robinsons managed to turn a profit. In 1941, the company reported profits amounting to more than $270,000, almost double its pre-war 1939 earnings. Robinsons shareholders received dividends ranging from 5 percent to 8 percent, depending on the class of stock each person owned. Even after the payouts, there were substantial funds left over to fill the company’s coffers. Despite the ongoing war in Europe, the store had plenty of fine goods on display as the company was able to procure supplies from Australia.⁸|
-
-|At the shareholder meeting in 1941, MacGregor ruefully noted that “there may be some who will suggest that the increased profit is due to advantage having been taken of war conditions… [t]o a limited extent that perhaps is true, but it is a truism which applies to every business… and is difficult to avoid… [the] policy of the Board, however, has been to maintain prices at a reasonable level, and I should like to emphasise that the improved results this year have resulted from greatly increased turnover rather than from large profit margins”. MacGregor also announced that the company had earlier contributed $5,000 towards the War Fund and would be making a further donation of $5,000.⁹|
-
-|At the same time, MacGregor sounded a note of caution. “Conditions at the present time make it difficult to foresee what the future may bring.” He assured shareholders that “however much the spending power of the public is contracted, or import bans extended, there will always be goods to sell and there will also be buyers of these goods, and we can rest assured that we shall have a full share of any business passing”.¹⁰|
-
-|Just five month later, on 8 December 1941, the Imperial Japanese Army dropped the first bombs on Singapore. Some of these landed on Robinsons, which damaged its beautiful frontage. Although Robinsons declared the store “Open as usual” the following day, rubble piled up at the entrance of its premises. In the last days before the fall of Singapore, the cafe in Robinsons became a rallying point for the European community, packed with civilians and servicemen as many deserted the business district and eateries bolted their doors.¹¹ The store was struck again by bombs on 13 February 1942 and was later looted.|
-
-|Robinsons was closed throughout the three-and-a-half years of the Japanese Occupation (1942–45). It only reopened for business in April 1946 and in the first year of operations, managed to reap a profit of over a million dollars.|
-
-|MacGregor did not live to see Robinson’s post-war restoration as he had died in March 1942 during his internment by the Japanese.¹²|
-
-|<img src="/images/Vol-16-issue-4/robinsons/ROBINSONSFRONTAGE.png">Robinsons’ frontage was damaged after Japanese bombs fell on the building on 8 December 1941. The next day, the store advertised that it was “Open as usual”. *Image reproduced from Robinsons & Co. (Singapore). (2018). Robinsons 160 Extraordinary Years: 1858–2018 (p. 4). Singapore: Robinsons. (Accession no.: B29960618H)*.|
-
-|**REFERENCES**|
-
-|*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
-
-|*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
-
-|*Robinsons and Company (Singapore). (2002, December)*. Robinsons 1858: A century of progress (p. 11). *[Family News: The Staff Newsletter of the Robinsons Group](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10129199)*. Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)|
-
-|[Robinson’s & Company](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5189511), 1958, [n.p.].|
-
-|Yap, W.C. (Interviewer). (1997, November 3). *[Oral history interview with Ng Joo Kee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.|
-
-|Low, Y. (2020, November 2). Upmarket or mass market? Retail experts say Robinsons’ confused identity contributed to its closure. *Today*. Retrieved from Today website.|
-
-|**Kevin Khoo**|
 
 <img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
@@ -163,7 +127,9 @@ Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg
 
 |Although all of Robinsons’ stores in Singapore and Malaysia have closed, the time-honoured trade name lives on through its sole store at the Dubai Festival City Mall in the United Arab Emirates, a development opened in 2017 by the Al-Futtaim Group, which acquired Robinsons in 2008.²¹|
 
-|**REFERENCES**|
+|**Gracie Lee**|
+
+|**NOTES**|
 
 |Heathcott, M. (1941, September 30). [In The “New Family Warehouse”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410930-1.2.84). *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG.|
 
@@ -183,7 +149,41 @@ Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg
 
 |Fung, E. (2008, April 4). [Sold – Robinson’s now owned by Dubai’s Al-Futtaim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080404-1.2.9.2). *Today*, p. 4. Retrieved from NewspaperSG; Dubai Festival City Mall. (2021). *Robinsons*. Retrieved from Dubai Festival City Mall website. [Note: Robinsons’ main shareholder OCBC Bank sold its stake to Indonesia’s Lippo Group in 2006. Robinsons was acquired by the Al-Futtaim Group in 2008.]|
 
-|**Gracie Lee**|
+<img src="/images/Vol-16-issue-4/robinsons/space2.png">
+
+|**ROBINSONS DURING WORLD WAR II**|
+
+|In July 1941, Robinsons held its annual shareholder meeting in Singapore. This took place amidst the backdrop of World War II which had broken out in Europe in 1939.⁷ When the company’s Chairman W.H. MacGregor addressed shareholders on 28 July, Britain was still reeling from aerial bombings by the Luftwaffe, the German air force, which had taken place between September 1940 and May 1941.|
+
+|Fortunately, as the war had not yet reached the shores of Britain’s colonies in Southeast Asia, Robinsons managed to turn a profit. In 1941, the company reported profits amounting to more than $270,000, almost double its pre-war 1939 earnings. Robinsons shareholders received dividends ranging from 5 percent to 8 percent, depending on the class of stock each person owned. Even after the payouts, there were substantial funds left over to fill the company’s coffers. Despite the ongoing war in Europe, the store had plenty of fine goods on display as the company was able to procure supplies from Australia.⁸|
+
+|At the shareholder meeting in 1941, MacGregor ruefully noted that “there may be some who will suggest that the increased profit is due to advantage having been taken of war conditions… [t]o a limited extent that perhaps is true, but it is a truism which applies to every business… and is difficult to avoid… [the] policy of the Board, however, has been to maintain prices at a reasonable level, and I should like to emphasise that the improved results this year have resulted from greatly increased turnover rather than from large profit margins”. MacGregor also announced that the company had earlier contributed $5,000 towards the War Fund and would be making a further donation of $5,000.⁹|
+
+|At the same time, MacGregor sounded a note of caution. “Conditions at the present time make it difficult to foresee what the future may bring.” He assured shareholders that “however much the spending power of the public is contracted, or import bans extended, there will always be goods to sell and there will also be buyers of these goods, and we can rest assured that we shall have a full share of any business passing”.¹⁰|
+
+|Just five month later, on 8 December 1941, the Imperial Japanese Army dropped the first bombs on Singapore. Some of these landed on Robinsons, which damaged its beautiful frontage. Although Robinsons declared the store “Open as usual” the following day, rubble piled up at the entrance of its premises. In the last days before the fall of Singapore, the cafe in Robinsons became a rallying point for the European community, packed with civilians and servicemen as many deserted the business district and eateries bolted their doors.¹¹ The store was struck again by bombs on 13 February 1942 and was later looted.|
+
+|Robinsons was closed throughout the three-and-a-half years of the Japanese Occupation (1942–45). It only reopened for business in April 1946 and in the first year of operations, managed to reap a profit of over a million dollars.|
+
+|MacGregor did not live to see Robinson’s post-war restoration as he had died in March 1942 during his internment by the Japanese.¹²|
+
+|<img src="/images/Vol-16-issue-4/robinsons/ROBINSONSFRONTAGE.png">Robinsons’ frontage was damaged after Japanese bombs fell on the building on 8 December 1941. The next day, the store advertised that it was “Open as usual”. *Image reproduced from Robinsons & Co. (Singapore). (2018). Robinsons 160 Extraordinary Years: 1858–2018 (p. 4). Singapore: Robinsons. (Accession no.: B29960618H)*.|
+
+|**Kevin Khoo**|
+
+|**NOTES**|
+
+|*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
+
+|*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
+
+|*Robinsons and Company (Singapore). (2002, December)*. Robinsons 1858: A century of progress (p. 11). *[Family News: The Staff Newsletter of the Robinsons Group](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10129199)*. Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)|
+
+|[Robinson’s & Company](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5189511), 1958, [n.p.].|
+
+|Yap, W.C. (Interviewer). (1997, November 3). *[Oral history interview with Ng Joo Kee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.|
+
+|Low, Y. (2020, November 2). Upmarket or mass market? Retail experts say Robinsons’ confused identity contributed to its closure. *Today*. Retrieved from Today website.|
 
 <img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
@@ -209,25 +209,25 @@ Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg
 
 |Robinsons would bounce back quickly from this disaster. On 11 December 1972, a new Robinsons store opened at Specialists’ Shopping Centre on Orchard Road. The company also made plans to rebuild the store in Raffles Place, but the government had acquired the prime site for urban redevelopment before this could happen.²⁹ The site is presently occupied by One Raffles Place, the former OUB Centre.|
 
-|**REFERENCES**|
-
-|Singapore. Commission of Inquiry into the Robinson’s Fire. (1973). *[Report of the Commission of Inquiry into the Robinson’s Fire, 1973](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1390273)* (pp. 5–8). [Singapore: Printed for the Govt. of Singapore by the Singapore National Printers]. (Call no.: RSING 614.84 SIN)|
-
-|[Nine feared dead](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721122-1.2.2). (1972, November 22). *The Straits Times*, p. 1. Retrieved from NewspaperSG.|
-
-|*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721122-1.2.2)*, 22 Nov 1972, p. 1.|
-
-|Ng, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1c80cc22-1163-11e3-83d5-0050568939ad)* [MP3 recording no. 003776/38/14]. Retrieved from National Archives of Singapore website.|
-
-|Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d8484310-1160-11e3-83d5-0050568939ad-OHC003058_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1)* [Transcript of MP3 recording no. 003058/07/03, pp. 65–67]. Retrieved from National Archives of Singapore website.|
-
-|*The Straits Times*, 22 Nov 1972, p. 1.|
-
-|Singapore. Commission of Inquiry into the Robinson’s Fire, 1973, pp. 5–20.|
-
-|Kwee, M. (1972, December 12). [Robinson’s plans to rebuild at fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721212-1.2.52.aspx). *The Straits Times*, p. 15; [Govt takes over Robinson fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730118-1.2.9.aspx). (1973, January 18). *The Straits Times*, p. 1. Retrieved from NewspaperSG.|
-
 |**Kevin Khoo**|
+
+|**NOTES**|
+
+|1. Singapore. Commission of Inquiry into the Robinson’s Fire. (1973). *[Report of the Commission of Inquiry into the Robinson’s Fire, 1973](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1390273)* (pp. 5–8). [Singapore: Printed for the Govt. of Singapore by the Singapore National Printers]. (Call no.: RSING 614.84 SIN)|
+
+|2. [Nine feared dead](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721122-1.2.2). (1972, November 22). *The Straits Times*, p. 1. Retrieved from NewspaperSG.|
+
+|3. *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721122-1.2.2)*, 22 Nov 1972, p. 1.|
+
+|4. Ng, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1c80cc22-1163-11e3-83d5-0050568939ad)* [MP3 recording no. 003776/38/14]. Retrieved from National Archives of Singapore website.|
+
+|5. Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d8484310-1160-11e3-83d5-0050568939ad-OHC003058_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1)* [Transcript of MP3 recording no. 003058/07/03, pp. 65–67]. Retrieved from National Archives of Singapore website.|
+
+|6. *The Straits Times*, 22 Nov 1972, p. 1.|
+
+|7. Singapore. Commission of Inquiry into the Robinson’s Fire, 1973, pp. 5–20.|
+
+|8. Kwee, M. (1972, December 12). [Robinson’s plans to rebuild at fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721212-1.2.52.aspx). *The Straits Times*, p. 15; [Govt takes over Robinson fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730118-1.2.9.aspx). (1973, January 18). *The Straits Times*, p. 1. Retrieved from NewspaperSG.|
 
 
 <div style="background-color: white;">
