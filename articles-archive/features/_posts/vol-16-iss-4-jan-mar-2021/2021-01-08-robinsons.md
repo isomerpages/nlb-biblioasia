@@ -51,7 +51,7 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20150829-1.2.4.3.1). *The Business Times*, p. 7. Retrieved from NewspaperSG.|
 
-<img src="/images/Vol-16-issue-1/postcards/space.png">
+<img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
 |**HOW ROBINSONS GOT ITS NAME**|
 
@@ -71,7 +71,7 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |**Gracie Lee**|
 
-<img src="/images/Vol-16-issue-1/postcards/space.png">
+<img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
 |**FROM HIGH-END TO HIGH STREET**|
 
@@ -101,7 +101,7 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |**Gracie Lee**|
 
-<img src="/images/Vol-16-issue-1/postcards/space.png">
+<img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
 |**ROBINSONS DURING WORLD WAR II**|
 
@@ -137,7 +137,7 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |**Kevin Khoo**|
 
-<img src="/images/Vol-16-issue-1/postcards/space.png">
+<img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
 |**ALWAYS ON THE MOVE**|
 
@@ -187,7 +187,7 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |**Gracie Lee**|
 
-<img src="/images/Vol-16-issue-1/postcards/space.png">
+<img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
 |**THE GREAT ROBINSONS FIRE**|
 
