@@ -43,11 +43,11 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 <img src="/images/Vol-16-issue-4/robinsons/Ad1.png">Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.
 
-|**REFERENCES**|
+**REFERENCES**
 
-|[‘Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.|
+[‘Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-|Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20150829-1.2.4.3.1). *The Business Times*, p. 7. Retrieved from NewspaperSG.|
+Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20150829-1.2.4.3.1). *The Business Times*, p. 7. Retrieved from NewspaperSG.
 
 <img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
@@ -59,7 +59,7 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 |A year later, the store was renamed Robinson and Company when Robinson’s partnership with Spicer was dissolved and George Rappa, Jr. came on board. After Robinson’s death in 1886, his son, with the splendid name of Stamford Raffles Robinson, succeeded him. One A.W. Bean was also brought in as a partner. The business flourished and was incorporated as a limited company in 1920. The firm then came under the management of a hired general manager and a board of directors comprising members such as prominent businessman Eu Tong Sen.⁴|
 
-|<img src="/images/Vol-16-issue-4/robinsons/Ad2.png">Spicer & Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). *The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG*.|
+|<img src="/images/Vol-16-issue-4/robinsons/Ad22.png">Spicer & Robinson’s first newspaper advertisement. The company started out as a family warehouse in Commercial Square (now Raffles Place). *The Singapore Free Press and Mercantile Advertiser, 25 February 1858, p. 3. Retrieved from NewspaperSG*.|
 
 |**REFERENCES**|
 
