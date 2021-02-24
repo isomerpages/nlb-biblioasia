@@ -43,7 +43,7 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 <img src="/images/Vol-16-issue-4/robinsons/Ad1.png">Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.
 
-##### **NOTES**
+###### **NOTES**
 
 1. [‘Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
