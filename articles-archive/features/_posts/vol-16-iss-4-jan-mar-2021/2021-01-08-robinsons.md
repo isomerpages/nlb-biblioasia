@@ -14,7 +14,7 @@ table {
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #ffeee1;
+  background: #ffffff;
 }
 </style>
 
@@ -45,9 +45,9 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 ###### **NOTES**
 
-1. [‘Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
-
-2. Tay, S.C. (2015, August 25). [A store of nostalgia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20150829-1.2.4.3.1). *The Business Times*, p. 7. Retrieved from NewspaperSG.
+<div class="infobox">
+1.  <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173">‘Open as usual’ after bombing.</a> (1958, October 4). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.<br>2. Tay, S.C. (2015, August 25). <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20150829-1.2.4.3.1">A store of nostalgia.</a> <i>The Business Times</i>*, p. 7. Retrieved from NewspaperSG.
+</div>
 
 <img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
