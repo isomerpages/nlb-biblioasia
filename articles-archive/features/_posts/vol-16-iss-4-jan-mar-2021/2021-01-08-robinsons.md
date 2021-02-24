@@ -26,7 +26,7 @@ table {
 <img src="/images/Vol-16-issue-4/robinsons/RememberingRobinsons.jpg">
 The Robinsons building in Raffles Place, 1950s. The store’s name is also displayed in Chinese and Malay on the signboard. The statue of Mercury is perched on the top of the arch. <i>Chiang Ker Chiu Collection, courtesy of National Archives of Singapore</i>.
 </div>
-<img src="/images/Vol-16-issue-1/postcards/space.png">
+<br>
 
 |After surviving 162 years, the Great Depression, being bombed by the Japanese during World War II, several economic downturns and a devastating fire in 1972, the curtains have finally come down on home-grown department store Robinsons – once hailed as “one of the handsomest shops in the Far East”.¹|
 
@@ -88,13 +88,13 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |In 2013, its new owners decided to revive the store’s luxury roots: its premises at The Centrepoint were closed and a new, decidedly more upscale, flagship store opened at The Heeren. However, the attempt to target more affluent customers failed. According to retail experts, Robinsons ended up being too expensive for the general public, but at the same time, it was not attractive enough for the well-heeled.⁶|
 
-|<img src="/images/Vol-16-issue-4/robinsons/Ad3.png">Robinsons advertising the services of its experienced European cutters who offered bespoke clothing for “every well-dressed man”. *The Straits Times, 17 November 1928, p. 1. Retrieved from NewspaperSG*.|
+|<img src="/images/Vol-16-issue-4/robinsons/ad3.png">Robinsons advertising the services of its experienced European cutters who offered bespoke clothing for “every well-dressed man”. *The Straits Times, 17 November 1928, p. 1. Retrieved from NewspaperSG*.|
 
 |<img src="/images/Vol-16-issue-4/robinsons/Raleigh.png">In 1907, Robinsons became among the world’s first agents for Raleigh bicycles, a British brand. For the coronation of Queen Elizabeth II, Raleigh launched its “New Elizabethan” model of bicycles, which were sold in Robinsons. *Image reproduced from The Straits Times Annual, 1954, p. 131*.|
 
 |**REFERENCES**|
 
-|[Robinsons to buy goods from Australi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6). (1941, July 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.|
+|[Robinsons to buy goods from Australia](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6). (1941, July 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.|
 
 |Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
 
@@ -230,7 +230,6 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |**Kevin Khoo**|
 
-<img src="/images/Vol-16-issue-1/postcards/space.png">
 
 <div style="background-color: white;">
 <br/>
