@@ -173,7 +173,7 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 |**NOTES**|
 
-|1. [Robinsons to buy goods from Australia](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6). (1941, July 28). The Straits Times, p. 4. Retrieved from NewspaperSG.|
+|1. [Robinsons to buy goods from Australia](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6). (1941, July 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.|
 
 |2. Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
 
