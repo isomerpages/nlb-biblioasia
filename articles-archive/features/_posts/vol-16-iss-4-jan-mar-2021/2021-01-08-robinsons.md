@@ -27,6 +27,8 @@ table {
 The Robinsons building in Raffles Place, 1950s. The store’s name is also displayed in Chinese and Malay on the signboard. The statue of Mercury is perched on the top of the arch. <i>Chiang Ker Chiu Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
+<img src="/images/Vol-16-issue-4/robinsons/space2.png">
+
 |After surviving 162 years, the Great Depression, being bombed by the Japanese during World War II, several economic downturns and a devastating fire in 1972, the curtains have finally come down on home-grown department store Robinsons – once hailed as “one of the handsomest shops in the Far East”.¹|
 
 |In August 2020, Robinsons closed its store in Jem shopping mall. Barely four months later, its flagship luxury store in The Heeren followed suit. Its last outlet at Raffles City Shopping Centre shuttered in January 2021.|
@@ -87,7 +89,7 @@ The Robinsons building in Raffles Place, 1950s. The store’s name is also displ
 
 |In 2013, its new owners decided to revive the store’s luxury roots: its premises at The Centrepoint were closed and a new, decidedly more upscale, flagship store opened at The Heeren. However, the attempt to target more affluent customers failed. According to retail experts, Robinsons ended up being too expensive for the general public, but at the same time, it was not attractive enough for the well-heeled.⁶|
 
-|<img src="/images/Vol-16-issue-4/robinsons/ad3.png">Robinsons advertising the services of its experienced European cutters who offered bespoke clothing for “every well-dressed man”. *The Straits Times, 17 November 1928, p. 1. Retrieved from NewspaperSG*.|
+|<img src="/images/Vol-16-issue-4/robinsons/ad33.png">Robinsons advertising the services of its experienced European cutters who offered bespoke clothing for “every well-dressed man”. *The Straits Times, 17 November 1928, p. 1. Retrieved from NewspaperSG*.|
 
 |<img src="/images/Vol-16-issue-4/robinsons/Raleigh.png">In 1907, Robinsons became among the world’s first agents for Raleigh bicycles, a British brand. For the coronation of Queen Elizabeth II, Raleigh launched its “New Elizabethan” model of bicycles, which were sold in Robinsons. *Image reproduced from The Straits Times Annual, 1954, p. 131*.|
 
