@@ -43,8 +43,7 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 <img src="/images/Vol-16-issue-4/robinsons/Ad1.png">Robinsons advertising its annual sale in 1907. *The Straits Times, 5 September 1907, p. 1. Retrieved from NewspaperSG*.
 
-#### **NOTES**
-### **NOTES**
+##### **NOTES**
 
 1. [‘Open as usual’ after bombing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581004-1.2.173). (1958, October 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
@@ -96,9 +95,9 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 |**NOTES**|
 
-|[Robinsons to buy goods from Australia](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6). (1941, July 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.|
+|1. Yap, W.C. (Interviewer). (1997, November 3). *[Oral history interview with Ng Joo Kee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.|
 
-|Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
+|2. Low, Y. (2020, November 2). Upmarket or mass market? Retail experts say Robinsons’ confused identity contributed to its closure. *Today*. Retrieved from Today website.|
 
 <img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
@@ -116,7 +115,7 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 |<img src="/images/Vol-16-issue-4/robinsons/RP1965.png">Raffles Place in 1965. The Overseas Union Bank building is on the extreme left and Robinsons department store just next to it. In the middle is the Chartered Bank building with the dome, while the tall building on the right is Bank of China. *Arshak C. Galstaun Collection, courtesy of National Archives of Singapore*.|
 
-|Tragedy struck in 1972 when a huge fire razed the store to the ground (see overleaf). The store reopened in less than a month at Specialists’ Shopping Centre on Orchard Road – Singapore’s prime shopping district.³ To keep its links with the original site in Raffles Place, Robinsons opened a branch at Clifford Centre in 1977 but this closed in 1983.⁴ That same year, the store decamped across the road to Centrepoint Shopping Centre (now known as The Centrepoint).|
+|Tragedy struck in 1972 when a huge fire razed the store to the ground. The store reopened in less than a month at Specialists’ Shopping Centre on Orchard Road – Singapore’s prime shopping district.³ To keep its links with the original site in Raffles Place, Robinsons opened a branch at Clifford Centre in 1977 but this closed in 1983.⁴ That same year, the store decamped across the road to Centrepoint Shopping Centre (now known as The Centrepoint).|
 
 |The Centrepoint store was where the management pinned its hopes on regaining the lustre lost after the disastrous fire. In the company’s in-house newsletter in 1983, Chief Executive Loh Man Chee wrote that “your management has [sic] determined to regain the lost leadership of Robinson’s being ‘the shopping place’ for families in South East Asia”. He noted that the company had invested more than $10 million in fixing up the new store. “Great effort has been made to give the new store a new look and to reinforce our merchandising objectives – superior quality and value.”⁵|
 
@@ -174,17 +173,17 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 |**NOTES**|
 
-|1. *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
+|1. [Robinsons to buy goods from Australia](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6). (1941, July 28). The Straits Times, p. 4. Retrieved from NewspaperSG.|
 
-|2. *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
+|2. Robinson’s & Co. (1958). *[The story of Robinson’s, 1858–1958](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5189511)* [n.p.]. Singapore: [publisher not identified]. (Call no.: RCLOS 338.065 ROB); *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
 
-|3. *Robinsons and Company (Singapore). (2002, December)*. Robinsons 1858: A century of progress (p. 11). *[Family News: The Staff Newsletter of the Robinsons Group](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10129199)*. Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)|
+|3. [The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
 
-|4. [Robinson’s & Company](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5189511), 1958, [n.p.].|
+|4. [The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410728-1.2.6)*, 28 Jul 1941, p. 4.|
 
-|5. Yap, W.C. (Interviewer). (1997, November 3). *[Oral history interview with Ng Joo Kee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.|
+|5. *Robinsons and Company (Singapore). (2002, December)*. Robinsons 1858: A century of progress (p. 11). *[Family News: The Staff Newsletter of the Robinsons Group](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10129199)*. Singapore: The Robinsons Group. (Call no.: RSING 338.47658871 FN)|
 
-|6. Low, Y. (2020, November 2). Upmarket or mass market? Retail experts say Robinsons’ confused identity contributed to its closure. *Today*. Retrieved from Today website.|
+|6. [Robinson’s & Company](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5189511), 1958, [n.p.].|
 
 <img src="/images/Vol-16-issue-4/robinsons/space2.png">
 
@@ -224,9 +223,9 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 |5. Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d8484310-1160-11e3-83d5-0050568939ad-OHC003058_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1)* [Transcript of MP3 recording no. 003058/07/03, pp. 65–67]. Retrieved from National Archives of Singapore website.|
 
-|6. *The Straits Times*, 22 Nov 1972, p. 1.|
+|6. *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721122-1.2.2)*, 22 Nov 1972, p. 1.|
 
-|7. Singapore. Commission of Inquiry into the Robinson’s Fire, 1973, pp. 5–20.|
+|7. [Singapore. Commission of Inquiry into the Robinson’s Fire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1390273), 1973, pp. 5–20.|
 
 |8. Kwee, M. (1972, December 12). [Robinson’s plans to rebuild at fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721212-1.2.52.aspx). *The Straits Times*, p. 15; [Govt takes over Robinson fire site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730118-1.2.9.aspx). (1973, January 18). *The Straits Times*, p. 1. Retrieved from NewspaperSG.|
 
