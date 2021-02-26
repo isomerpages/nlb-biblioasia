@@ -40,7 +40,7 @@ sections:
         description: Timothy Pwee enlightens us about the history of street lighting in Singapore, starting with the first flickering oil lamps that were lit in 1824.
         button: Read this article
         url: /vol-16/issue-4/jan-mar-2021/light
-        image: /images/Vol-16-issue-4/light/bulb.jpg
+        image: /images/Vol-16-issue-4/light/lettherebelight.jpg
         alt: sample of light
         
 ---
