@@ -129,10 +129,12 @@ There is one final aspect that gives the Dumbarton Folio, and indeed natural his
 A composite drawing of the <i>cempedak</i>, rambutan, <i>nam-nam</i> and <i>sentul</i> from the Dumbarton Folio. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
 
-|Faris Joraimi wishes to record his thanks to Dr Trisha Craig of Yale-NUS College and Professor Sir Peter Crane of the Oak Spring Garden Foundation for making this study possible, as well as Dr Yota Batsaki and Dr Anatole Tchikine for their hospitality throughout his stay at Dumbarton Oaks in 2019.  
-To access the Dumbarton Folio, visit https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits|
+|Faris Joraimi wishes to record his thanks to Dr Trisha Craig of Yale-NUS College and Professor Sir Peter Crane of the Oak Spring Garden Foundation for making this study possible, as well as Dr Yota Batsaki and Dr Anatole Tchikine for their hospitality throughout his stay at Dumbarton Oaks in 2019. To access the Dumbarton Folio, visit https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits|
 
-
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+</div>
 
 <div style="background-color: white;">
 <br/>
