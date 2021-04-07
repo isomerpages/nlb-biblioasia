@@ -79,7 +79,7 @@ Little is known about the precise circumstances surrounding the volume’s produ
 
 The title given on the spine is, at least, accurate. Like the Farquhar drawings, those in the Dumbarton Folio bear the stylistic mark of Chinese artists trained in the Cantonese tradition of ink painting in the ateliers of southern Chinese ports. For instance, the light blue shade applied as a backdrop to white-coloured flowers was a signature technique in Chinese watercolour painting.
 
-Generally, British officials working in Southeast Asia in the 19th century commissioned Chinese artists to produce botanical illustrations. Abdullah Abdul Kadir (more popularly known as Munshi Abdullah), who was employed by Stamford Raffles as his scribe and interpreter, corroborates this fact in his memoir, *Hikayat Abdullah* (*The Tale of Abdullah*): Stamford Raffles himself employed painters from Fujian and Macao while playing gentleman-naturalist in the forests of Singapore.[^7]
+Generally, British officials working in Southeast Asia in the 19th century commissioned Chinese artists to produce botanical illustrations. Abdullah Abdul Kadir (more popularly known as Munshi Abdullah), who was employed by Stamford Raffles as his scribe and interpreter, corroborates this fact in his memoir, *Hikayat Abdullah (The Tale of Abdullah)*: Stamford Raffles himself employed painters from Fujian and Macao while playing gentleman-naturalist in the forests of Singapore.[^7]
 
 What also stands out about the folio was its inclusion, in clear hand, of the Malay names for all the 57 fruits depicted. The Jawi script reads as sharply today as perhaps when it was first inscribed. Who identified these names? Was there a local expert consulted? Maybe – as with the William Farquhar Collection – the British official who commissioned these drawings had instructed artists to visit the local marketplace: all the fruits depicted are edible after all; in which case, all it took was to ask the fruit seller what they were called.
 
@@ -113,7 +113,7 @@ For the sake of comparison, shown here is the durian from the William Farquhar C
 #### **The Scientific Cosmopolitanism of the Malay World**
 When the Dumbarton Folio was made, Europeans still had much to learn about the biodiversity of the Malay Archipelago. It would take the exertions of later naturalists, notably Alfred Russel Wallace (who conceived the theory of evolution through natural selection), Henry Nicholas Ridley (first director of Singapore’s Botanic Gardens), Pieter Bleeker (Dutch medical doctor, ichthyologist and herpetologist) and Isaac Henry Burkill (second director of Singapore’s Botanic Gardens), to identify and describe the grand multitude of life in the region. Their illustrated catalogues and scientific encyclopedias brought these strange new forms – now taxonomised and given Latin binomial names – existing on the frontiers of the West’s understanding into an ordered familiarity.
 
-The art historian Gill Saunders argues that naming and description was a process of “placing these unfamiliar plants in the existing scheme of things”.22 Assimilated into an ever-expanding universal regime of classifying life, modern science alienated these plants and animals from the original cultural contexts in which they were embedded, and through which Europeans first encountered them.
+The art historian Gill Saunders argues that naming and description was a process of “placing these unfamiliar plants in the existing scheme of things”.[^22] Assimilated into an ever-expanding universal regime of classifying life, modern science alienated these plants and animals from the original cultural contexts in which they were embedded, and through which Europeans first encountered them.
 
 Complicating this, however, is the fact that modern scientific inquiry in the Malay world was not an unmediated process where Europeans simply entered and independently extracted information about local biodiversity for their own curiosity and profit. The Dumbarton Folio embodies the work of science as a cross-ethnic interface – one where European patrons employed Chinese labour to produce images, while Malay botanical knowledge supplied local nomenclature. This is not to downplay the fundamentally unbalanced relationship between the Europeans and their local assistants. Men like Wallace were privileged by their connection to the 19th century’s global centres of knowledge, with societies dedicated to botany, geology, zoology and other scientific disciplines blossoming in places like London and Paris. The colonisation of the Malay world enabled European scientists to travel freely and organise field research in a way that locals could not.
 
@@ -131,6 +131,8 @@ A composite drawing of the <i>cempedak</i>, rambutan, <i>nam-nam</i> and <i>sent
 
 |Faris Joraimi wishes to record his thanks to Dr Trisha Craig of Yale-NUS College and Professor Sir Peter Crane of the Oak Spring Garden Foundation for making this study possible, as well as Dr Yota Batsaki and Dr Anatole Tchikine for their hospitality throughout his stay at Dumbarton Oaks in 2019.  
 To access the Dumbarton Folio, visit https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits|
+
+
 
 <div style="background-color: white;">
 <br/>
