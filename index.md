@@ -13,9 +13,9 @@ sections:
         button:
         url:
         key_highlights:
-            - title: "Read BiblioAsia Jan-Mar 2021"
+            - title: "Read BiblioAsia Apr-Jun 2021"
               description:
-              url: /vol-16/issue-4/jan-mar-2021/
+              url: /vol-17/issue-1/apr-jun-2021/
     - infopic:
         title: "Love Is a Many-Layered Thing"
         subtitle: Highlights
