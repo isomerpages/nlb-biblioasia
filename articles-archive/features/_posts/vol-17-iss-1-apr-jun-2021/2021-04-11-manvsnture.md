@@ -1,9 +1,9 @@
 ---
-title: Love Is a Many-Layered Thing
-permalink: /vol-17/issue-1/apr-apr-2021/kueh-lapis
+title: "Man vs Nature: Speculative Fiction and the Environment"
+permalink: /vol-17/issue-1/apr-jun-2021/manvsnature
 date: 2021-04-01T00:00:00.000Z
-breadcrumb: Love Is a Many-Layered Thing
-third_nav_title: Love Is a Many-Layered Thing
+breadcrumb: "Man vs Nature: Speculative Fiction and the Environment"
+third_nav_title: "Man vs Nature: Speculative Fiction and the Environment"
 
 ---
 
@@ -190,7 +190,7 @@ Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s H
 <b>Christopher Tan</b> is a food writer, author, cooking instructor and photographer whose latest book is the award-winning <i>The Way of Kueh</i>, a comprehensive work about Singapore’s <i>kueh</i> culture.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
