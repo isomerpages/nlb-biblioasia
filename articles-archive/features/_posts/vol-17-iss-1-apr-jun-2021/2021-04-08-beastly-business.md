@@ -19,11 +19,11 @@ table {
 </style>
 
 
-#### What lies in this vale of tiers? **Christopher Tan** delves into *lapis legit*, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers. 
+#### The buying and selling of wildlife was a lucrative business in the early decades of the 20th century, but there were many difficulties in the attempts to regulate the trade, says **Fiona Tan**.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/LapisLegit.jpg">
+<img src="/images/Vol-17-issue-1/beastly/LapisLegit.jpg">
 The author’s home-made <i>kueh lapis legit</i>. This is an iconic cake for Indonesians, Malays and the Peranakan Chinese. <i>Courtesy of Christopher Tan</i>.
 </div>
 
@@ -107,11 +107,6 @@ The attempt in 1933 to curb the wildlife trade in colonial Singapore was fraught
 
 Furthermore, the demand for exotic wild animals and Singapore’s role as an important centre for the international wildlife trade meant that even if the Straits Settlements government was willing to act against its preferences and had stepped in to regulate the trade, the high demand and the prevalence of smuggling could have thwarted attempts at regulation. The failure of the committee to effect significant change reflects the complex and multilayered nature of the wildlife trade that existed in Singapore 
 at the time.
-
-<div class="infobox"> 
-<img src="/images/Vol-16-issue-4/kuehlapis/TheWayOfKueh.png" style="width: 350px; height: 200px;"/>
-Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932">(Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN)</a>. It also retails at major bookshops in Singapore.
-</div>
 
 <div style="background-color: white;">
 <br/>
