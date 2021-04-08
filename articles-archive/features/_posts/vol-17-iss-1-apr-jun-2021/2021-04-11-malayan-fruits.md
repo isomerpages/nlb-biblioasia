@@ -63,12 +63,6 @@ Included in the Dumbarton folio is the composite drawing featuring the <i>Ananas
 
 We find instances of lyrical expressions in the second set as well. The stunning watermelon painting depicts swirling tendrils with leaves and flowers shown in distinct stages of development. Like the pineapple, the watermelon is also cut in half to reveal its fleshy red interior, with the seeds laid aside. All the fruits in both the composite scenes and single-species studies are dissected this way. Revealing the anatomy of the fruit, down to every last succulent pulp, pit and seed, was crucial to botany’s thorough investigation of plant life. Dissection was an invaluable technical skill. Many pioneering botanists, such as Nathaniel Wallich,[^5] were surgeon-naturalists after all.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/nature/watermelon.jpg">
-The watermelon painting in the Dumbarton Folio (left) depicts swirling tendrils with leaves and flowers shown in distinct stages of development. The watermelon is also cut in half to reveal its fleshy red interior and black seeds. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>. An almost exact replica of the painting (right) can be found in the bound folio titled <i>NHD 42</i> housed at the Prints and Drawings Room of the British Library. <i>Photo by Faris Joraimi</i>.
-</div>
-
 Little is known about the precise circumstances surrounding the volume’s production, or who and what it was intended for. There is no information that survives regarding how and why it came into the custody of the Blisses. However, it likely predates the William Farquhar collection, and indeed the establishment of a British trading post in Singapore in 1819. The late Mildred Archer, Curator of Prints and Drawings at the India Office Library in London, dated the Dumbarton Folio’s production to be roughly between 1798 and 1810.[^6] To the best of my knowledge, it is the only such volume known to exist, and there are no known duplicates. Only two of its illustrations find parallels in one other collection. Apart from those, every other painting is unique.
 
 The title given on the spine is, at least, accurate. Like the Farquhar drawings, those in the Dumbarton Folio bear the stylistic mark of Chinese artists trained in the Cantonese tradition of ink painting in the ateliers of southern Chinese ports. For instance, the light blue shade applied as a backdrop to white-coloured flowers was a signature technique in Chinese watercolour painting.
@@ -81,6 +75,12 @@ But who wrote the names? Before mass education, most people in the Malay world w
 
 #### **Following the Watermelon’s Lead**
 There are only two pieces in the entire Dumbarton folio that find almost exact matches in another collection of botanical art. A few months after encountering Dumbarton’s Malay fruits, I chanced upon the watermelon’s twin in Mildred Archer’s catalogue, *British Drawings in the India Office Library*.[^9] It was listed as being part of a folio simply titled *NHD 42*, housed at the Prints and Drawings Room of the British Library. Leafing through the large sheets of drawings in the Asian and African Prints Room of the British Library, I discovered a pomelo study among the 10 watercolours in *NHD 42* that was also an almost exact twin of the one in the Dumbarton folio.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/nature/watermelon.jpg">
+The watermelon painting in the Dumbarton Folio (left) depicts swirling tendrils with leaves and flowers shown in distinct stages of development. The watermelon is also cut in half to reveal its fleshy red interior and black seeds. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>. An almost exact replica of the painting (right) can be found in the bound folio titled <i>NHD 42</i> housed at the Prints and Drawings Room of the British Library. <i>Photo by Faris Joraimi</i>.
+</div>
 
 Unfortunately, the British Library has no idea who *NHD 42* was made for and why, but at least they have firmer dates: the watermark on the sheets of paper used for the drawings is from 1807, so the *NHD 42* most likely dates back to 1808. This places it comfortably within Archer’s 1798–1810 range for the Dumbarton folio. The artist is also a Chinese “probably from Sumatra”, and the drawings “appear to have been borrowed by the Marsdens in 1809.”[^10] 
 
