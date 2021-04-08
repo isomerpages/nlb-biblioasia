@@ -38,26 +38,20 @@ In 2019, I visited the Dumbarton Oaks Research Library and Collection, a histori
 
 Carefully housed among the shelves in its impressive reading room is this folio containing exquisite depictions of fruits from the Malay world. The bound volume has no label on its cover save a generic title, “Chinese Watercolours: Fruits”, hot-stamped in gold on the spine. The drawings feature 57 species of fruits commonly found in Southeast Asia, such as pineapples, watermelons, mangosteens and durians.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/nature/pulasan.jpg">
-A composite drawing from the Dumbarton Folio featuring the durian, <i>pulasan</i>, <i>rambai</i> and <i>rukam</i>. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
-</div>
-
 #### **Scientific Illustration as an Aesthetic**
 The Dumbarton Folio is structured in three parts. The first 12 watercolours are composite scenes, each showcasing four species of fruit. Following these are 10 drawings, each focused on a specimen of a single species. In the last section, each page depicts eight fruits drawn in miniature, two groups of four. Each group – two rows on top and two rows below – corresponds to the four species depicted in each of the 12 composite scenes. The groups of four are arranged in the order of the corresponding composite scenes, and each fruit is labelled according to its Malay name in Jawi as well as poor transliterations in barely visible Roman script.
 
 The folio dissolves hard distinctions between conventionally “scientific” documentation and “ornamental” representation. Of course, the key formal features of botanical illustration are strongly evident. For instance, the fruits are typically drawn on plain backgrounds which traditionally serve to isolate the specimen from its original setting, so that it could be properly recorded and observed. This was a near-universal procedure used by European botanists for representing specimens collected in the field.[^2] Another typical element is the portrayal of multiple stages in the plant’s life cycle within a single drawn specimen. In the set of drawings featuring mangosteens for example, the viewer is shown unopened flower buds, flowers in full bloom, juvenile fruits as well as fully ripe ones, all on the same branch.
-
-Historian Daniela Bleichmar, who studied 16th-century botanical drawings by colonial Spanish expeditions to the Americas and the Philippines, found these features to be among the “iconographic strategies” that allowed artists to “compress time and space” in order for drawings to contain the necessary botanical information.[^3] While plants in reality take time to manifest visible changes across different seasons, an artist could capture the full range of that information on one page. In a “single imaginary specimen”, for instance, the plants could be rendered in different stages of growth to depict all possible conditions it could be in.[^4] The botanical illustration was effective at capturing knowledge obtained about the biodiversity of distant colonies for circulation and analysis in the imperial centre. This involved a degree of artistic manipulation, however, distorting essential distinctions we have about “objective” versus “artistic” representation.
-
-Viewing these drawings, one also cannot help but notice how intensely lyrical the compositions are. Highly expressive, the scenes are richly illustrated with leaves and stems entwined around one another. Vividly textured fruits catch one’s eye among the foliage. In most of these pieces, the leaves and branches are cut off at the edges of the frame. A visual protagonist dominates each scene, usually a fruit like a *cempedak*, mangosteen or durian.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-1/nature/cempedak.jpg">
 Each page in the last section of the Dumbarton Folio depicts eight fruits drawn in miniature, two groups of four. Each group – two rows on top and two rows below – corresponds to the four species depicted in each of the 12 composite scenes. Each fruit is labelled according to its Malay name in Jawi as well as poor transliterations in barely visible Roman script. Shown here are the top two rows from one of the pages. Clockwise from the top: <i>cempedak</i>, red rambutan, <i>sentul</i> and <i>nam-nam</i>. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
+
+Historian Daniela Bleichmar, who studied 16th-century botanical drawings by colonial Spanish expeditions to the Americas and the Philippines, found these features to be among the “iconographic strategies” that allowed artists to “compress time and space” in order for drawings to contain the necessary botanical information.[^3] While plants in reality take time to manifest visible changes across different seasons, an artist could capture the full range of that information on one page. In a “single imaginary specimen”, for instance, the plants could be rendered in different stages of growth to depict all possible conditions it could be in.[^4] The botanical illustration was effective at capturing knowledge obtained about the biodiversity of distant colonies for circulation and analysis in the imperial centre. This involved a degree of artistic manipulation, however, distorting essential distinctions we have about “objective” versus “artistic” representation.
+
+Viewing these drawings, one also cannot help but notice how intensely lyrical the compositions are. Highly expressive, the scenes are richly illustrated with leaves and stems entwined around one another. Vividly textured fruits catch one’s eye among the foliage. In most of these pieces, the leaves and branches are cut off at the edges of the frame. A visual protagonist dominates each scene, usually a fruit like a *cempedak*, mangosteen or durian.
 
 A notable example features a large pineapple, whose seductive shade of pink is characteristic of the species, *Ananas bracteatus* (red pineapple). It is a different variety from *Ananas comosus*, which we find in every local wet market and supermarket. *Ananas bracteatus*, on the other hand, is esteemed for its pretty foliage: note the stripes and red-tinted edges. The artist evidently decided to show off these ornamental qualities by having one of the leaves drape elegantly across the page.
 
@@ -96,6 +90,18 @@ Elizabeth contributed the illustrations to her husband’s tome. At some point, 
 
 Nevertheless, the duplicates led me to briefly entertain the possibility of model types, circulated to enable the reproduction of copies produced for a wide clientele expecting the same images. If, however, such an established commercial market existed, with demand sufficient to justify some sort of mass production, we will have likely found many more duplicates and not a mere two drawings. It is far likelier that these duplicates were individually copied.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/nature/pulasan.jpg">
+A composite drawing from the Dumbarton Folio featuring the durian, <i>pulasan</i>, <i>rambai</i> and <i>rukam</i>. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/nature/durian.jpg">
+For the sake of comparison, shown here is the durian from the William Farquhar Collection of Natural History Drawings. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
+</div>
+
 What is the Dumbarton Folio, then? Its scale and scope do not match that of earlier, more encyclopedic catalogues documenting local ecology in the Malay world. A century earlier, there was Johannes Nieuhof’s *Voyages and Travels, into Brasil, and the East Indies*, for instance, with its elaborate accounts of this region’s flora and fauna, published in 1703.[^14] Neither does the folio engage in the kind of intense accumulation of data found in Georg Eberhard Rumphius’ six-volume *Het Amboinsche Kruidboek*, or *Herbarium Amboinense*, a catalogue of the plants of the island of Ambon, published posthumously from 1741 to 1750.[^15] By the time the Dumbarton Folio was produced, the field of botany had been established in the region. And while it was likely made slightly before the Farquhar drawings, it falls far short of the latter’s range, but its style is certainly more ornate.
 
 The academic Farish Noor believes that the folio was commissioned as a picturesque record of local flora by a European official, most probably someone from the British East India Company (EIC), who wanted a souvenir to take home.[^16] A lovely present, surely, for a wife none too pleased that her husband’s little excursion to the “Far East” had lasted several more years than promised. This was exceedingly common in the 18th and 19th centuries, especially in India, where EIC officials hired local painters to depict ancient monuments, people and, of course, “exotic” plants and animals to be taken home as mementos.[^17] Many of these artisans were trained in the courtly tradition of Indian miniature painting, but to suit the European aesthetic preferred by their British patrons, they developed a hybrid Indo-European type of painting now referred to as “Company style” or “Company painting”.
@@ -106,8 +112,8 @@ While drawing upon the representational conventions of botanical illustration, t
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/nature/durian.jpg">
-For the sake of comparison, shown here is the durian from the William Farquhar Collection of Natural History Drawings. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
+<img src="/images/Vol-17-issue-1/nature/namnam.jpg">
+A composite drawing of the <i>cempedak</i>, rambutan, <i>nam-nam</i> and <i>sentul</i> from the Dumbarton Folio. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
 
 #### **The Scientific Cosmopolitanism of the Malay World**
@@ -122,12 +128,6 @@ In fact, the Dumbarton Folio demonstrates how local knowledge almost always faci
 Popular narratives about science, with their persistent focus on the trope of “discovery” by an individual genius, have conveniently erased the contributions of these faceless and nameless local individuals. In reality, scientific inquiry is cosmopolitan, and involves the participation of diverse communities. In drawing attention to this diversity, we can put together a fuller and more accurate history of science in the Malay world.
 
 There is one final aspect that gives the Dumbarton Folio, and indeed natural history from that period, such an exquisitely human dimension. These edible fruits were probably drawn from a roadside marketplace, giving us a glimpse into what people ate here two centuries ago. Many of these are the same fruits we still recognise and are available today: from mangosteens and *duku* to *langsat* and *jambu air*. But they also depict a Malay world long embedded in the global circulation of people and goods: both the pineapple and cacao are native to South America, while the watermelon comes from Africa. Conjuring up rich aromas intermingling over the din of a dozen languages, the Dumbarton drawings are a symbol of the region’s dynamic cultures of consumption, enriched by hybrid interactions and international trade.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/nature/namnam.jpg">
-A composite drawing of the <i>cempedak</i>, rambutan, <i>nam-nam</i> and <i>sentul</i> from the Dumbarton Folio. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
-</div>
 
 |Faris Joraimi wishes to record his thanks to Dr Trisha Craig of Yale-NUS College and Professor Sir Peter Crane of the Oak Spring Garden Foundation for making this study possible, as well as Dr Yota Batsaki and Dr Anatole Tchikine for their hospitality throughout his stay at Dumbarton Oaks in 2019. To access the Dumbarton Folio, visit https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits|
 
