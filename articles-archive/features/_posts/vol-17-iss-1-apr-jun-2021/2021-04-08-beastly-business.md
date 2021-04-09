@@ -174,11 +174,11 @@ at the time.
 
 [^7]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e39084c3-a82e-11e3-927b-0050568939ad)* (p. B43). (1933, March 6). (Accession no.: R.M.I E/67; Microfilm no.: NL1126). Accessed at the National Archives of Singapore.
 
-[^8]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e3882f8a-a82e-11e3-927b-0050568939ad)*. (pp. C206–207). (1927, October 31). (Accession no.: R.M.I E/61; Microfilm no.: NL1123). Accessed at the National Archives of Singapore.
+[^8]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e3882f8a-a82e-11e3-927b-0050568939ad)* (pp. C206–207). (1927, October 31). (Accession no.: R.M.I E/61; Microfilm no.: NL1123). Accessed at the National Archives of Singapore.
 
-[^9]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e389b882-a82e-11e3-927b-0050568939ad)*. (pp. B93–B94). (1928, August 27). (Accession no.: R.M.I E/62; Microfilm no.: NL1124). Accessed at the National Archives of Singapore.
+[^9]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e389b882-a82e-11e3-927b-0050568939ad)* (pp. B93–B94). (1928, August 27). (Accession no.: R.M.I E/62; Microfilm no.: NL1124). Accessed at the National Archives of Singapore.
 
-[^10]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e38b1007-a82e-11e3-927b-0050568939ad)*. (pp. B125–B127). (1929, October 7). (Accession no.: R.M.I E/63; Microfilm no.: NL1124); *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e38c722a-a82e-11e3-927b-0050568939ad)* (p. B32). (1930, May 12). (Accession no.: R.M.I E/64; Microfilm no.: NL1125). Accessed at the National Archives of Singapore.
+[^10]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e38b1007-a82e-11e3-927b-0050568939ad)* (pp. B125–B127). (1929, October 7). (Accession no.: R.M.I E/63; Microfilm no.: NL1124); *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e38c722a-a82e-11e3-927b-0050568939ad)* (p. B32). (1930, May 12). (Accession no.: R.M.I E/64; Microfilm no.: NL1125). Accessed at the National Archives of Singapore.
 
 [^11]: [Humanity in the east](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240820-1.2.75.2). (1924, August 10). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
@@ -222,7 +222,7 @@ at the time.
 
 [^31]: [Hubback](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4981390) et al., 1934, pp. 15–20.
 
-[^32]: *[Minutes of the Proceedings of the Municipal Commissioners](C:\Users\user\Downloads\nas.gov.sg\archivesonline\private_records\record-details\05d9299e-f14b-11e3-a330-0050568939ad)*. (p. 178). (1934, May 4). (Microfilm no.: NA436). Retrieved from National Archives of Singapore website.
+[^32]: *[Minutes of the Proceedings of the Municipal Commissioners](https://www.nas.gov.sg/archivesonline/private_records/record-details/05d9299e-f14b-11e3-a330-0050568939ad)* (p. 178). (1934, May 4). (Microfilm no.: NA436). Retrieved from National Archives of Singapore website.
 
 [^33]: [Lost, stolen or strayed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350913-1.2.42). (1935, September 13). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
