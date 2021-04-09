@@ -153,7 +153,7 @@ at the time.
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-1/authors/Fiona_Tan.png" style="width: 100px; height: 100px;" />
-Fiona Tan is an Archivist with the Records Management department at the National Archives of Singapore. She started her journey with the archives as an undergraduate studying history, poring over microfilms at the old Archives Reading Room. This research formed the basis of her dissertation, which is abridged in this article.
+<b>Fiona Tan</b> is an Archivist with the Records Management department at the National Archives of Singapore. She started her journey with the archives as an undergraduate studying history, poring over microfilms at the old Archives Reading Room. This research formed the basis of her dissertation, which is abridged in this article.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
@@ -164,8 +164,7 @@ Fiona Tan is an Archivist with the Records Management department at the National
 
 [^2]: Newbold, T.J. (1839). *[Political and statistical account of the British settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore; with a history of the Malayan states on the peninsula of Malacca](https://eresources.nlb.gov.sg/printheritage/detail/6d9115ab-ce0d-42e9-8986-1ce41a6eb493.aspx)* (Vol. II; p. 190). London: John Murray. Retrieved from BookSG. (Call no.: RRARE 959.5 NEW; Accession no.: B03013424F)
 
-[^3]: Hornaday, W.T. (1993). *[The experiences of a hunter and naturalist in India, Ceylon, the Malay Peninsula and Borneo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6558659)* (p. 8). Kuala Lumpur: Oxford University Press. 
-(Call no.: RSING 910.4 HOR)
+[^3]: Hornaday, W.T. (1993). *[The experiences of a hunter and naturalist in India, Ceylon, the Malay Peninsula and Borneo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6558659)* (p. 8). Kuala Lumpur: Oxford University Press. (Call no.: RSING 910.4 HOR)
 
 [^4]: Mayer, C. (1922). *[Trapping wild animals in Malay jungles](https://eresources.nlb.gov.sg/printheritage/detail/8ad77605-621c-4f54-a98e-05146aaaf1c9.aspx)* (pp.25–30, 33–34, 93). London: T. Fisher Unwin Ltd. Retrieved from BookSG. (Call no.: RRARE 799.29595 MAY-[JSB]; Accession no.: B29267011F)
 
@@ -177,11 +176,9 @@ Fiona Tan is an Archivist with the Records Management department at the National
 
 [^8]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e3882f8a-a82e-11e3-927b-0050568939ad)*. (pp. C206–207). (1927, October 31). (Accession no.: R.M.I E/61; Microfilm no.: NL1123). Accessed at the National Archives of Singapore.
 
-[^9]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e389b882-a82e-11e3-927b-0050568939ad)*. 
-(pp. B93–B94). (1928, August 27). (Accession no.: R.M.I E/62; Microfilm no.: NL1124). Accessed at the National Archives of Singapore.
+[^9]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e389b882-a82e-11e3-927b-0050568939ad)*. (pp. B93–B94). (1928, August 27). (Accession no.: R.M.I E/62; Microfilm no.: NL1124). Accessed at the National Archives of Singapore.
 
-[^10]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e38b1007-a82e-11e3-927b-0050568939ad)*. 
-(pp. B125–B127). (1929, October 7). (Accession no.: R.M.I E/63; Microfilm no.: NL1124); *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e38c722a-a82e-11e3-927b-0050568939ad)* (p. B32). (1930, May 12). (Accession no.: R.M.I E/64; Microfilm no.: NL1125). Accessed at the National Archives of Singapore.
+[^10]: *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e38b1007-a82e-11e3-927b-0050568939ad)*. (pp. B125–B127). (1929, October 7). (Accession no.: R.M.I E/63; Microfilm no.: NL1124); *[Proceedings of Straits Settlements Legislative Council](https://www.nas.gov.sg/archivesonline/private_records/record-details/e38c722a-a82e-11e3-927b-0050568939ad)* (p. B32). (1930, May 12). (Accession no.: R.M.I E/64; Microfilm no.: NL1125). Accessed at the National Archives of Singapore.
 
 [^11]: [Humanity in the east](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240820-1.2.75.2). (1924, August 10). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
