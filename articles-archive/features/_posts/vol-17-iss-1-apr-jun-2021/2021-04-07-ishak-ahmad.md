@@ -19,261 +19,186 @@ table {
 </style>
 
 
-#### What lies in this vale of tiers? **Christopher Tan** delves into *lapis legit*, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers. 
+#### As a senior officer in the Fisheries Department, Ishak Ahmad was instrumental in spurring the growth of the Malayan fishing industry. **Anthony Medrano** sheds light on his contributions.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/LapisLegit.jpg">
-The author’s home-made <i>kueh lapis legit</i>. This is an iconic cake for Indonesians, Malays and the Peranakan Chinese. <i>Courtesy of Christopher Tan</i>.
+<img src="/images/Vol-17-issue-1/ishak-ahmad/malayfisherman.jpg">
+A Malay fisherman casting his net, 1954. By the 1930s, it was estimated that Japanese companies controlled more than 50 percent of the fish supply in Singapore, threatening the livelihoods of local fishermen. <i>Courtesy of National Archives of Singapore</i>.
 </div>
 
-When I was young, *kueh lapis legit*[^1] would announce its presence in my family kitchen long before anyone got to taste it. The first portent was the careful shepherding of precious bottles of spice powders and brandy. The next sign was the buying of many eggs and much butter. On baking day, the kitchen thrummed with signals: the loud rhythm of batter vigorously beaten; the steady cadence of spread batter thinly, grill it until brown, press out bubbles, brush with butter, then repeat; and the rippling scent-waves of sizzling butter and caramelising crust. Anticipation ran at a fever pitch, or perhaps that was just the heat nimbus of our Baby Belling oven.
+Most people in Singapore know of Yusof Ishak, the former journalist and politician who became the country’s first president. However, less well known is the fact that his civil servant father, Ishak Ahmad, was also a significant figure in the history of Singapore and Malaya.
+
+Ishak spent 27 years in the Fisheries Department and worked his way up to its highest rungs. His service was duly recognised when he was awarded the Medal of the Civil Division of the Most Excellent Order of the British Empire in 1939.1
+
+However, it was perhaps his work on behalf of the fishermen of Singapore and Malaya that he is best remembered for. During his long career with the Fisheries Department, Ishak acquired a vast knowledge of the many kinds of fish found in Malayan waters and this information helped the government understand where and when economically important species could be found. He was also passionate about helping local fishermen, and did so both directly and indirectly. In fact, at a 1939 event honouring him after he had been awarded the medal, Ishak described himself as a “servant of the public, particularly that public which comprised the fishermen”.2
+
+Ishak’s knowledge of Malayan fishes and their habitats – and the economic lives that both supported – played a key role in shaping the process of urban and social change in interwar Singapore and Malaya. And the legacy of Ishak’s biodiversity knowledge has figured prominently in the publication of important environmental works such as An Introduction to the Sea Fishes of Malaya (1959).3
+
+#### **Malaya’s Edible Ocean**
+Fish consumed as food powered the rise of urban Singapore, with the surrounding  seas, reefs and estuaries feeding Malaya’s economic transformation and its concurrent environmental and demographic changes from the late 19th century to the end of the interwar period. For the nearly 30 million Indian and Chinese workers who came to Singapore and the region to tap rubber, extract tin, move cargo in and out of ports, open shops and ply the streets, fish was an essential source of protein.4 Seafood was also a major component of the local Malay community’s daily meal, with products such as ikan bilis (anchovy) and belachan (shrimp paste) crucial ingredients in many home-cooked dishes.
+
+Local fishermen, primarily Malay, were initially the main people involved in catching this important protein but during the interwar years, these fishermen began to come under pressure from Japanese competition.
+
+1926 was a pivotal year that impacted the livelihoods of local fishermen. That year, severe weather made for a poor fish harvest. In one weekend in July alone, six typhoons were reported to have passed through the South China Sea.5 Heavy monsoon rains also restricted the number of days local fishermen could go out to their kelong, the traditional fishing method practised by most fishermen at the time. This created a crisis in the supply of fish, impacting the livelihoods of communities across Malaya. These fishermen suffered economically, physically and materially through the loss or damage to their fishing apparatus such as the stakes and platforms.6
+
+#### **Okinawan Fishermen in Malaya**
+The impact of the fish shortage would have been far worse had it not been for one group: the Okinawan fishermen in Malaya. In the early decades of the 20th century, Japan began making inroads into the fishing industry in Southeast Asia to relieve overpopulation in the country’s fishing villages as well as to tap on the Southeast Asian market for marine products.7
+
+The Japanese fishing community in Singapore was largely comprised of young men from the town of Itoman on the island of Okinawa. These Okinawan fishermen had been migrating to Singapore since 1921 to work in the fisheries here.8 By 1926, there were 292 Okinawan fishermen registered in Singapore, making up more than half of the fishing community of 411 Japanese fishermen here.9 These Okinawan Japanese fishermen represented a minute percentage of the entire fishermen population in Malaya, yet it was this group that made up the greatest impact in the fishing scene.10
+
+The Okinawan fishermen had certain advantages over the local fishing community. They used cold storage, had motorboats and deployed an Okinawan fishing method known as muro ami.11 While the combination of refrigeration and diesel engines certainly allowed this small but critical group to fish further from shore and keep larger catches fresh for local markets, it was the introduction of muro ami to Malayan seas that transformed the fishing industry in interwar Singapore and beyond. Indeed, muro ami fishing was one of the main factors that led to Malaya’s boom in the 1920s and 30s, with Okinawan fishermen becoming the dominant suppliers of fresh fish to both urban and rural markets.12
+
+Muro ami fishing revolutionised the capture of fish in and around Malayan waters. Ecologically, this new fishing method targeted offshore coral reefs, a zone of the ocean that had previously been untouched by local fishermen. Economically, it exploited a type of reef fish called ikan delah (Caesio spp.) that was quite expensive to purchase and rarely found in local markets.13
+
+After the advent of muro ami fishing, though, ikan delah became a cheap and abundant source of protein, constituting about 30 percent of the total weight of fish sold in Singapore in 1928.14 By the late 1930s, this share accounted for more than 50 percent.15
+
+Japanese fishing companies began contributing to the supply of fish in Malaya. By the 1930s, for example, it was estimated that Japanese companies controlled more than 50 percent of Singapore’s  fish supply.16 On seeing how these Okinawan fishermen and their operations upended the livelihoods of local fishermen, Ishak saw an opportunity to help them.
+
+#### **From Kuala Trong to Singapore** 
+Born in 1887 in Kuala Trong, Perak, a mangrove-rich estuarine village north of Kuala Lumpur and about 15 km from the Chinese mining town of Taiping, Ishak entered the colonial government service as a Malay Clerk in the District Office in Taiping in 1906 before joining the Fisheries Department in 1914.17
+
+Growing up by a river in Kuala Trong, Ishak became deeply anchored in a world of fish and water. He understood the ways in which this estuarine ecology supported the economic life of Malays, from providing food to facilitating trade. Similarly, he likely witnessed how upstream changes affected Kuala Trong’s fish supply and impacted the communities that depended on the river’s aquatic life for food and commerce.
+
+As early as the 1890s, Malaya’s rubber boom was transforming Perak. Among other things, this commodity expanded the reach of colonial development. New roads were built, new rail tracks were laid, forests were cleared and migrants were recruited to work on newly planted rubber estates. At the same time, Perak’s tin industry was on the rise but so was the runoff that flowed from the mines around Larung and Matang downstream into the waters near Kuala Trong.18 Ishak came to see how fish was not only the heartbeat of Malay life – because they were free to catch and abundant – but also how their availability could change and, in the process, jeopardise the livelihoods  of residents in places such as Kuala Trong.
+
+In 1923, Ishak and his young family moved from Perak to Singapore, where he was appointed as a Senior Fishery Officer with the Fisheries Department. This relocation would prove transformative, both in terms of Ishak’s career and his political work. It also meant new opportunities for his children. For Ishak, however, the question of Singapore’s fish supply loomed large because it was increasingly unclear how local fishermen were to figure within Malaya’s rapidly changing protein economy.
+
+Interwar Singapore was a city on the move, a city on the rise. But at the heart of these urban and demographic changes was an island society wholly dependent on the mass provision of fish. In 1900, Singapore’s population was 228,000. By 1940, this figure had grown to 680,000, making Singapore the second largest city in terms of population in Southeast Asia, behind Bangkok. Critical to feeding the hungry city were the Japanese fishermen, more specifically the Okinawans, who controlled Malaya’s supply of fresh sea fish. The head of this expatriate fishing community was Tora Eifuku, a scientist who had arrived in Singapore in 1914 as part of a Japanese fisheries expedition that sought not only to survey the food potential of Malayan waters, but also to establish Japanese fishing companies in the colonial port city.
+
+The survey itself was completed two years later (1916), and while the government team returned to Japan, Eifuku remained in Singapore to launch his own fishing company. By 1926, he was operating a transregional network of muro ami fleets, ice factories and refrigeration plants.19
+
+Comprised largely of Okinawan fisherman, Eifuku’s operations Taichong Kongsi was the largest fishing company registered in interwar Singapore at the time.20 While Chinese fishmongers controlled the distribution of fish through a network of stalls, buyers and vendors, it was Eifuku and other Japanese companies that provided the majority of the fresh fish in Singapore. In addition, a combination of lorries and rails linked Okinawan-caught fish (packed on Japanese-made ice) to the rubber plantations, Malay markets, and the tin and iron mines of interior Malaya.21
+
+The combination of scale, mobility, capital and technology enabled Eifuku’s cartel, and other Japanese companies like his, to dominate the late interwar supply of fish in Singapore and Malaya. This squeezed out the local fishing communities, who were unable to compete with the Okinawan fishermen in terms of freshness, quantity and price. Losing out to the Japanese was a huge blow as it affected their livelihoods.22
+
+Partly in response to the plight of these fishermen and their dislocation within Singapore and Malaya’s changing fishing economy, Ishak decided to become politically involved. After moving to Singapore in 1923, he became a founding member of the Kesatuan Melayu Singapura (KMS; Singapore Malay Union), the colony’s first Malay political association and established in 1926.23
+
+KMS was led by Mohamed Eunos bin Abdullah, a one-time harbourmaster and postmaster who became the organisation’s first president as well as the founding editor of Utusan Melayu, Singapore’s first daily Malay-language newspaper. The association sought to advance the interests of the local Malay community.24 For Ishak, KMS was an important platform. It enabled him to communicate his concerns about the uncertain future of local fishermen as well as why their livelihood was at stake.
+
+#### **Knowing Malayan Waters**
+Ishak’s knowledge of Malayan seas and the promise these waters held for the economic life of Malaya was especially deepened through his work with the Fisheries Department in the 1920s and 30s. During this period, Ishak conducted biological surveys off Pulau Tioman, tuna experiments in Terengganu and kelong inspections around Pulau Ketam, off the coast of Selangor, among other activities. In Singapore, he participated in a Malay-language radio programme that championed Malaya’s edible ocean.25
+
+In 1926, Ishak played an important role in the first survey expedition conducted by the Fisheries Department to explore, map and index the economic fauna of Malayan waters.26 At the centre of these scientific investigations was the 
+S.T. Tongkol, a coal-powered steamer built to search and identify suitable fishing grounds and to test the use of European trawls.
+
+Ishak served a vital scientific as well as economic role in the expedition.27 As the only Malay member, the combination of his linguistic skills (he also spoke Hokkien and Teochew), cultural expertise and knowledge allowed him to translate (or approximate) the species of fish caught in vernacular terms. While other members of the S.T. Tongkol were concerned with technical and technological matters, such as the efficacy of European trawls in Malayan seas, Ishak was the expedition’s official taxonomiser.
+
+His focus was on “making sense” of the ocean’s marine products in ways that rendered them familiar to Malay and non-Malay speakers alike.28 As a result, Ishak produced the Malay names of more than 75 fish species.29 In doing so, he brought a vernacular sensibility that only a local could achieve in the creation of modern taxonomic records. In the case of the Jewfish (a class of groupers), for instance, he identified three types commonly known to Malays: Gelama tikus, Gelama panjang and Gelama pisang.30
+
+Knowing a fish’s name in Malay (and whether it was poisonous or not) was crucial to fitting the species within the local food supply and marketing it on land.31 In this way, Ishak’s scientific work had real economic implications for both the S.T. Tongkol and Singapore’s Clyde Terrace Market on Beach Road, the expedition’s main distribution point for its caught fish. From this central market, city officers operated a year-round public auction. Buyers included stallholders from Clyde Terrace and other local fish markets, contractors supplying ocean liners and cargo ships, and Singapore’s first supermarket, Cold Storage.32
+
+Through the public auction, boxes of edible fish – weighed and identified by their Malay names – were sold and distributed throughout Malaya. On average, 17 tons of fish were sold per day at Singapore’s various fish markets. From late May to late December in 1926, the S.T. Tongkol landed almost 200,000 pounds of food fish, netting – through the public auction system – a tidy sum of nearly $30,000.33 Ishak’s Malay names for the various types of fish – rather than their English approximations such as smelt, herring, perch, sole or grunter – facilitated the marketing and dispensing of the fish supply caught by the S.T. Tongkol.
+
+In the end, as it turned out, the surrounding seafloor’s abundance of mud, sea-fans, sponges, corals and especially seagrass rendered Malayan waters resistant to European trawls, leading to a fiscal loss and the eventual sale of the S.T. Tongkol to the government in Ceylon in 1929.34
+
+On the whole, however, the Tongkol  expedition was invaluable as it developed a scientific understanding of Malayan waters and the fishes that were indigenous to these waters. Economically important to this new understanding was knowing where Malayan fishes thrived in terms of their preferred habitats (ecology) and preferred depths (bathymetry) as well as when these economic species were abundant (in terms of their preferred seasons). Harnessed by Ishak and others in the Malayan Fisheries Department, the scientific data derived from the Tongkol expedition in the late 1920s was used to strengthen the local fishing industry and therefore boost the local fish supply.
+
+#### **Ishak’s Legacy**
+The late interwar period was a pivotal time. In 1933, Ishak was appointed to act as Director of Fisheries when the incumbent W. Birtwistle was on leave for eight months.35 As acting Director, Ishak was in charge of a colonial service that recognised the strategic food value of Malayan waters as well as how fish supplies were needed – and increasingly so – without disruption and delay. From his experience on the ground, Ishak also knew that the Malayan system of producing, marketing and distributing fish depended heavily on the work of Japanese companies and the Okinawan fishermen they employed, and how this impacted the Chinese, Malay and Indian fishermen in Singapore.
+
+Ishak extended government assistance to local fishing communities, thereby aiding them to tap the wealth of Malayan seas to feed the growth of cities like Singapore. In 1937, for example, he sought to offset the dominance of Japanese-caught fish by refitting the department’s experimental vessel, Kembong, with an on-board refrigeration plant so that it could transport fresh fish supplies from Terengganu and Kelantan to Singapore.36 By improving access to distant hungry markets, Ishak was boosting the livelihoods of Malaya’s east coast fishing communities. He extended similar refrigeration schemes to Chinese fishermen who worked the Strait of Melaka, particularly around Pulau Pangkor.
+
+As a result of his distinguished career in public service, including two stints as acting Director of Fisheries, Ishak was awarded the Malayan Coronation Medal in 193737 and the Medal of the Civil Division of the Most Excellent Order of the British Empire in 1939. With more than 100 people in attendance, including a popular Malay musical orchestra, the KMS hosted an afternoon tea celebration at the Kota Raja Malay School in February 1939 in recognition of Ishak’s service to Singapore and Malaya.38
+
+That same year, Ishak played a central role in establishing Malaya’s first fisheries school in Tanah Merah that, among other things, sought to “modernise” traditional fishing methods and equip local fishermen with new technology and knowledge.39 Likewise, he founded a Malay school for the children of Pulau Sudong’s fishing community.40 After a long and decorated career, Ishak retired from the Fisheries Department in 1941.
+
+But even in retirement, Ishak’s life remained intertwined with the story of Malayan waters. A closer look at the year 1959 reveals this intimate connection. In that year, Ishak’s eldest son, Yusof, was appointed Yang di-Pertuan Negara (Head of State) after Singapore was granted internal self-government. Another son, Abdul Aziz, who once worked in the Fisheries Department before the war, was the Federation of Malaya’s first Minister for Agriculture, a post he held from 1955 to 1963. As minister, Abdul Aziz oversaw the management of inshore and offshore fisheries – much like his father did in the 1930s.
+
+It was under Abdul Aziz that the Ministry of Agriculture published An Introduction to the Sea Fishes of Malaya (1959). This publication recognised Ishak’s “wealth of knowledge and experience” as a cultural and scientific repository borne from his lifelong association with Malayan waters. Prior to its publication, Ishak had “consented to examine the manuscript and made many valuable comments which have been incorporated in the finished work” as the foreword notes.41
+
+From cataloguing the fish diversity of Malayan seas as a scientific member of the Tongkol expedition in the 1920s to sharing his wealth of knowledge and experience with a global community of ichthyologists in the 1950s, Ishak’s life and contributions are critical to appreciating how we know what we know about the waters around us today.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/FreshBakedLapis.jpg">
-Pressing a freshly baked <i>lapis legit</i> layer to flatten and smoothen it, and spreading batter for the next layer. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-*Kue lapis legit* and its sister confection *spekkoek* (more of that sisterhood later) are iconic cakes for Indonesians, Malays – especially those with some Javanese heritage – and Peranakan Chinese. Major festivals such as Hari Raya and the Lunar New Year would not be complete without tables graced by these tiered touchstones. These communities have roots and branches in the milieus of maritime Southeast Asia’s Dutch colonial era, which saw the flowering of many hybrid foodways. “Most of us who live in cities known for rich colonial history, like Jakarta, Palembang, Bangka, Semarang, Surabaya and Bandung, are familiar with *lapis legit* and *spekkoek* as [legacies of] Dutch influence,” says Indonesian food writer, author and restaurant pundit Kevindra Soemantri.[^2]
-
-Modern makeovers have spawned a multiplicity of *lapis* varieties – patterned in bright colours; flavoured with fresh or dried fruit, cheese or coffee or chocolate; rolled up into logs; or carved and rearranged like intricate marquetry. A comprehensive 1986 Indonesian recipe book, *Hidangan Ringan: Party Snacks*, includes 11 different variations on the theme, to the tune of *cempedak*, durian, mocha and more.[^3] However, the classic version remains the most revered incarnation: a soft, rich European-style butter cake infused with spices native to the Indonesian Archipelago, cooked one layer at a time under a hot grill.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/ModernRolledLapis.jpg">
-A modern rolled variation of <i>kue lapis legit</i> with a flower-shaped cross-section. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-#### **Peeling Back the Years**
-
-Trawling through vintage recipes, I found that this basic template has persisted with little alteration for well over a century. The only major differences between old and modern recipes are the heat source – formerly charcoal, these days usually an electric oven element – and the now-frequent addition of condensed milk and/or milk powder to the batter, perhaps to mimic the stronger flavours and higher protein content of yesteryear’s imported butter.
-
-The Spekkoek (Kwee Lapies) recipe in the 1895 book, *Recepten Van De Haagsche Kookschool* (*Recipes from The Hague Cooking School*), is fully consonant with modern recipes, albeit its “65 cloves” might be a bit much for most of us today. It directs the cook to cream butter, sugar, eggs and flour into a batter “in the usual way”, flavour it with very finely ground spices, bake it in layers, smearing butter over each layer when it is done, and finally to store the cake in a tightly sealed tin, where it will keep for “a long time”.[^4]
-
-The 1925 *Groot Nieuwe Volledig Oost-Indisch Kookboek* (*Great New Complete East Indies Cookbook*)[^5] collates three *spekkoek* recipes in its *inlandsche bakken* (native baking) chapter. One of them has only three thick sponge cake layers, baked individually and then sandwiched with “some sort of jelly” – we know this style today as *kue lapis surabaya, koningskroon* (“king’s crown cake” in Dutch) or *bahulu lapis*.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/GrootNieuwe.jpg">
-Title page of <i>Groot Nieuwe Volledig Oost-Indische Kookboek</i>, published in 1925. It contains nearly 1,400 recipes, including three <i>spekkoek</i> recipes in its <i>inlandsche bakken</i> (native baking) chapter. <i>Image reproduced from van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great New Complete East Indies Cookbook]. Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings)</i>.
-</div>
-
-The other two *inlandsche* recipes are classic *spekkoek*, and both require “two persons… two skillets… two deep bowls… two wicker brooms or egg beaters” (see text box below) to wrangle one plain white batter and one spiced brown batter, baked in alternating layers. Their formulas otherwise differ: one rests on copious butter and flour, plus cloves, cardamom, cinnamon, nutmeg and mace; the other is more egg-rich, and omits nutmeg and mace but includes crushed *ang-khak*,[^6] or Chinese red yeast rice. This last item is especially intriguing given Soemantri’s observation that *lapis legit* spice blends are “similar to Chinese five-spice… there is a *lapis legit* recipe that uses fennel also”.[^7]
-
-|**BEAT 16 EGG YOLKS… FOR ONE HOUR**|
-
-|The following is a 1925 recipe for *spekkoek* from *Groot nieuw volledig Oost-Indisch kookboek* (*Great New Complete East Indies Cookbook*), translated from the original Dutch by Christopher Tan.[^8] The cake, in its springform pan, may have been baked within a metal vessel with hot coals underneath and/or on top of its lid. Dutch technical prowess at casting such pots led to such vessels being dubbed “Dutch ovens” by other nations in the 18th century.|
-
-|**Kwée lapis (Spekkoek)**|
-
-|Thirty eggs, the whites beaten separately, 30 tablespoons fine dry white sugar, 15 tablespoons sifted flour, one pound washed butter,[^9] two dessertspoons finely pounded Chinese red rice or red yeast rice (*ang-khak*[^10]), one teaspoon clove powder, one teaspoon finely pounded cardamom, two teaspoons finely pounded cinnamon, melted butter.|
-
-|Preparation:|
-
-|To make the batters for this cake, two persons are needed, as well as two pots, two deep bowls[^11] and two wicker brooms[^12] or egg beaters.|
-
-|One batter may not stand longer than the other: this is why the above-mentioned ingredients are divided into two lots.|
-
-|In one of the pots, beat 16 egg yolks with 16 tablespoons of fine dry white sugar for one hour,[^13] until the mixture is as smooth as butter.[^14] Then add eight tablespoons of flour one by one, then add half a pound of washed butter in small increments while beating constantly.|
-
-|In the second pot, beat the remaining 14 egg yolks with seven tablespoons of the white sugar and seven tablespoons of flour, along with the spices mentioned above, and half a pound of butter.|
-
-|When the batters in the two pots have been well mixed, add the whipped egg whites a spoonful at a time, 16 egg whites for the 16-yolk batter lot.[^15]|
-
-|The cake is baked in layers in a springform pan,[^16] which must first be brushed well with butter.|
-
-|The first layer must be thoroughly dry and well cooked: before you add a second layer of the spiced batter, press it down with a muslin-wrapped hand,[^17] then brush some melted butter over it.[^18] Then continue to bake the batters alternately in layers.|
-
-|When you have baked four layers, prick the cake with a knitting needle: if nothing adheres to the needle then the layers are done, and you can continue layering; otherwise let them bake for a while longer.[^19]|
-
-|Use a soup ladle that is not too large to scoop the batter.|
-
-|For convenience’s sake, you can also make this cake using only the first batter, and after every layer is baked, sprinkle it well with the mixed spices, and then top with the batter again.|
-
-|<img src="/images/Vol-16-issue-4/kuehlapis/JavaneseKueRecipes.png">Javanese *kue lapis* and *spekkoek* recipes in the *Groot Nieuwe Volledig Oost-Indische Kookboek*, published in 1925. *Reproduced from van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great New Complete East Indies Cookbook] (p. 305). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings)*.|
-
-Vintage recipes using a single spiced batter are also common. Besides the *Haagsche Kookschool* book, *Kokki Bitja* (*Beloved Cook;* 1859),[^20] *Oost-Indisch Kookboek* (*East Indies Cookbook*; 1870)[^21] and *Het Nieuwe Kookboek* (*The New Cookbook*; 1925)[^22] all take this tack for their *spekkoek*. The *Groot Nieuw Volledig Oost-Indische Kookboek* also lists a single plain-batter variation, “for convenience”, with the spices merely sprinkled over each layer after the cake is baked. In a *Straits Times* interview in 1983, famed Kampong Glam culinarian Hajjah Asfiah binte Haji Abdullah called this version *kueh baulu lapis*, which she would make to sell at her Ramadan bazaar stall near Bussorah Street.[^23]
-
-Dutch-Indonesian chef Jeff Keasberry identifies the two-batter cake with fewer total layers as Indo-Dutch *spekkoek* that originates from the Dutch East Indies era, a species older than and distinct from what he calls Indonesian *kue lapis legit*, which uses a single batter and has thinner and more layers – at least 18, according to him.[^24] Indonesian culinary teacher and author Sitti Nur Zainuddin-Moro also makes the same distinction in her influential cookbook *Kue-Kue Manasuka* (*Kue You Will Like*; 1980), naming the two-batter version *Sepekuk Biasa* (ordinary *spekkoek*), and the other *lapis legit*.[^25]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/TwoBatterCake.jpg">
-Dutch-Indonesian chef Jeff Keasberry identifies the two-batter cake with fewer total layers as Indo-Dutch <i>spekkoek</i> (right) originating from the Dutch East Indies era, a species older than and distinct from what he calls Indonesian <i>kue lapis legit</i> (left), which uses a single batter and has more and thinner layers. <i>Courtesy of Jeff Keasberry</i>.
-</div>
-
-Many examples of both variants have appeared in Singaporean recipe books over the years, although their names are sometimes conflated. Mrs Susie Hing’s landmark 1956 cookbook, *In A Malayan Kitchen*, includes a *spekkoek* recipe (and a *koningskroon* recipe) that Dutch readers from earlier generations would have recognised straightaway.[^26]
-
-A 1957 *Straits Times* article records a *spekkoek* recipe by a Mrs Rosaleen Yang, who baked alternating plain and cocoa-spiked batters in “a copper or brass pan”.[^27] A similar recipe for *Lapis Betawi* (Batavia, as Jakarta was called under the Dutch) appeared in *Berita Harian* in 1968, which called for a generous amount of spice to augment the cocoa.[^28]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/VintageBrass.jpg">
-A vintage brass pan of the type used for baking <i>kueh lapis legit</i>. Note the “scars” on the lid left by hot coals. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-In 1981, the *New Nation* published Nonya doyenne and cookbook author Mrs Leong Yee Soo’s single-batter Speckok Kueh Lapis Batavia recipe, which details the importance of pricking each cooked layer with a skewer to deflate bubbles and create microscopic holes for the next layer’s batter to flow in, for better adhesion.[^29] In 1977, the *Straits Times* featured a recipe by one Cik Khatijah Ashiblie for Lapis Mascovrish, whose vanilla batter was layered with almonds and raisins.[^30]
-
-Outside of home kitchens, only a few stores in Singapore made or imported *spekkoek* and *kue lapis* in the early 20th century. One such establishment was the Java Restaurant (originally Mooi Thien Restaurant) on North Bridge Road – described in a 1950 *Straits Times* article as being “not unlike a Paris bistro”[^31] – where founder Lim Djin Hai and his family served both Javanese and European food in the late 1940s. Prior to emigrating to Singapore in 1946, Lim was a caterer in his hometown of Bencoolen (now Bengkulu), where one of his clients was the then Governor-General of the Dutch East Indies. (Java Restaurant later moved to Killiney Road, morphing into the Java Provision Store, where for over 25 years it purveyed home-baked and imported Indo-Dutch goods.)
-
-#### **Building a Mystery**
-
-The early origin stories of *spekkoek* and *lapis legit* remain largely unknown, despite their widespread popularity. *Spekkoek* derives from the Dutch words *spek koek*, meaning “bacon cake”, no doubt an allusion to the cake’s pale and red-brown stripes. However, there seem to be no records in the Netherlands of any layered cake by that name which pre-dates *lapis legit*, and neither is there such an extant cake there.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/SpekkoekRecipe.jpg">
-The <i>Spekkoek</i> recipe from <i>In a Malayan Kitchen</i>. <i>Spek koek</i> means “bacon cake” in Dutch. Both bacon and cake bear stripes – as can ribbons, as this recipe’s subtitle references. <i>Reproduced from Hing, S. (1956). In a Malayan Kitchen (p. 65). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)</i>.
-</div>
-
-Some have suggested *spekkoek* has its origins in the German *baumkuchen*, the “tree-ring” cake considered the ultimate test and accomplishment of a *konditormeister* (master pastry chef). However, *baumkuchen* has a drier texture than *spekkoek* and is made using a different method: its cylindrical layers are built up around a rotating spit. Also, German records clearly trace its evolution from a dough-based cake in the 1500s into the batter-based form known from the 1700s until today.[^32] “There is no significant record of Prussian people in Indonesia,” says Soemantri, but “perhaps *baumkuchen* influenced the original Dutch *spekkoek*”.[^33]
-
-Here is a curious similarity though: *baumkuchen* is traditionally flavoured with spices (cinnamon, cardamom, nutmeg, ginger or vanilla), citrus, nuts (most often almonds) and liquor. The oldest *spekkoek* recipe I have come across, from *Kokki Bitja*, calls for clove, cardamom, white pepper, *jeruk cina* (mandarin orange) zest, kenari nuts and brandy. Mere coincidence or distant cousinhood?
-
-A more plausible progenitor for *kue lapis legit* may be the layer cakes traditionally made in southern China to celebrate the annual Double Ninth festival – recipes which travelled to maritime Southeast Asia with the Chinese diaspora. Chiefly rice-based, these cakes are steamed layer by layer, frequently with alternating batters of different colours, often tinted with – yes – red yeast rice. Chinese communities in Southeast Asia still make these today; in Indonesia they are simply called *kue lapis*, but old Dutch and Indonesian cookbooks identify them as *kue lapis cina*[^34] or *kue lapis jawa*. In *Kue-Kue Manasuka*, Sitti Nur Zainuddin-Moro records a Batavian recipe for a red and white version called “Lapis Merah Putih (Betawi)”.[^35]
-
-The auspicious Chinese saying and wish for success 歩歩高升 (*bu bu gao sheng*, which means “rising step by step”) is embodied by both steamed and baked *lapis*. For the Indonesian Chinese, *lapis legit* “is always related to celebration, and for them, its many layers equal prosperity,” says Soemantri.[^36]
-
-#### **A Nonlinear Lineage**
-
-Indeed, *kueh lapis legit* is nothing if not rich. In my family, we let it sit untouched for at least a couple of days post-baking, so that all the butter and spice can fully permeate its crumb. When at last it falls under the knife, the sight of even, lovely lamina evokes great relief in the baker, who discovers only at this moment if the deck was stacked for success.
-
-So what might have bridged the gap between steamed rice-flour layers and baked wheat-flour layers, and how? Permit me to suggest a trip to Palembang. Now South Sumatra’s capital, Palembang was formerly the capital of the Srivijayan empire, a Buddhist kingdom which endured from around the 7th century to the 13th century. Its trade links with China, South Asia and the Middle East ensured a constant flow of goods, pilgrims, cultures and languages between those regions and the Malay Archipelago. This made Palembang a fertile place for culinary ferment.
-
-The city lays claim to several *lapis* varieties. Some are modern glosses on the form – made with pineapple jam between strata (*lapis nenas*), a multi-layered version of the regional pandan-scented specialty *bolu kojo* (*lapis kojo*), and so on.[^37] Two older signature Palembang *lapis* types are much closer in spirit to *spekkoek*, baked the same way but with fewer, slightly thicker layers.
-
-One of them, *kue maksuba*, is made using chicken and/or duck eggs, butter or margarine, sugar, condensed milk and vanilla, with flour in miniscule quantity or, most often, entirely absent. Essentially a hyper-rich custard, *kue maksuba* has a smooth solidity not unlike the Malay *kuih bakar*, with less of a cake-like vibe than orthodox *spekkoek*.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/SteamedRiceKue.jpg">
-Steamed rice-based <i>kue lapis</i> for sale at a <i>kue pasar</i> (market) in Jakarta. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-The other *lapis* variety, *kue engkak ketan*, has the same ingredients as *kue maksuba*, plus two key elements: glutinous rice flour, and *blondo* or *glondo* – thick coconut milk which has been boiled until some of its oil has separated out. The oily sheen from the *blondo* and a faint springiness from the glutinous rice flour strongly recall steamed *kue lapis cina*, while the heavy doses of butter and condensed milk bestow a European richness. However, the airlessly dense wheat-free crumb and the lack of spice means the resemblance to *spekkoek* is only partial.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/HomeMadeKue.jpg">
-Home-made <i>kue engkak ketan</i>, composed of glutinous rice flour, eggs, butter, sugar, condensed milk, and <i>blondo</i> – boiled, oily coconut milk. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-*Kue engkak ketan* reminds me strongly of another sweet, one from Goa, India. *Bebinca*, also called *bibinca* or *bibik*, is a colonial legacy said to be a Portuguese recipe but tweaked with local ingredients. It has many *spekkoek*-like traits, first and foremost a very rich batter made of egg yolk and coconut milk, with comparatively little wheat flour, and spiced with cardamom and nutmeg. *Bebinca* is traditionally “baked” layer by layer – some recipes specify seven layers, others multiples of seven – under a pot lid holding burning wood or coconut husks, with clarified butter brushed over each layer. It must rest for several hours before being sliced. In terms of flavour and texture, *bebinca* sits squarely between *spekkoek* and *kue engkak ketan*.
-
-*Bebinca*’s creation is often attributed to a (possibly apocryphal) nun named Bibiana or Bebiana at the Convent of Santa Monica in Goa, whose devout sisters were famed for their culinary skills and repertoire of festive sweetmeats.[^38] Alternative origin stories suggest links with other similarly named Asian baked goods such as the Filipino *bibingka* and the Macanese *bebinca*; however, these purported family resemblances are scattered and hard to qualify. For instance, in Macau, *bebinca de leite* is a baked milk custard and *bebinca de inhame* is yam cake (*wu tau koh* in Cantonese), and neither is layered.
-
-That said, there is a Goan *bebinca* variation made with mashed potatoes and baked in a single layer, which is all but identical to Malay *kuih bingka kentang*. In fact, many Goan sweetmeats appear to be cognates of Southeast Asian ones. These include *kulkuls* (crisp shell-shaped pastries), cousins of *kuih siput*; *alle belle* (crepes rolled around grated coconut cooked with palm sugar), which are much like *kuih dadar*; *pinaca* (roasted rice and coconut pounded with palm sugar and warm spices), the twin of Peranakan *kueh dadu*; and Goan *dodol* (rice, palm sugar and coconut milk toffee), which differs from Indonesian *dodol* only in that Goan cooks use regular rice instead of glutinous rice.
-
-Food historian Janet Boileau quotes Macanese-culture expert Rui Rocha in speculating that Southeast Asian desserts likely travelled westward to Goa, perhaps via Melaka, and were assimilated into local and Catholic culinary and confectionery traditions there.[^39]
-
-*Bebinca* is also traditional to East Timor, a Portuguese colony up until the 1970s. Though they seem similar, it is unclear whether Timorese *bebinca* prefigured or instead descended from the Goan version. Such intricately connected and mingled gastronomy is the legacy of centuries of Dutch and Portuguese colonisers contending over the same turf in Asia and around the world. While not as emblematic to Singapore’s Eurasians as sugee cake, *spekkoek* is also made by that community, whose origins, history and traditions incorporate both Portuguese and Dutch heritage.[^40]
-
-#### **Much More Than Its Seams**
-
-Perhaps this is how the story could have gone: a colonial-era cook makes a Dutch *taart* (butter cake) batter. Some extra eggs are on hand, so in they go – has she not seen Portuguese cooks do likewise to make their cakes richer, softer, more velvety? Familiar with European cakes baked in separate layers and then assembled, she wonders if the layers could be baked *in situ* instead, just as her Chinese neighbours steam their cakes, and what if that uprising steam was replaced by coal heat radiating from above? And then, surrounded by – or maybe only dreaming of – the East Indies, she seizes on spices from that corner of the empire, those seeds and bark and buds whose aromas lift the spirits. Should these infuse all the batter? Or only half of it, for layers that alternate colours and scents? She thinks and experiments, and so it goes.
-
-Imagine such a narrative, writ not by a single person over an afternoon, but by numberless cooks and bakers, exchanging ideas and handing down legacies through the generations as they spread and grill and press and brush. Is this line of thought and practice not destined to birth something marvellous, something enduringly delicious? As *The Straits Times* opined in a 1957 article about making *spiku* (another nickname for *spekkoek*) for Hari Raya: “The results are more than equal to those achieved by even the most accomplished pastrycook of Vienna.”[^41]
-
-I could not agree more. If mindfully made, each spice-flecked strata should be a beautiful paradox: coherent enough to peel off without tearing, yet thin and fragile enough to melt on the tongue; dairy-lush and spice-opulent, but debonair and delicate, and never ponderous.
-
-Having taken over *lapis*-making duties from my elders, I understand more keenly why this *kueh* and its kin have enjoyed such longevity and such exalted status. Refining and notating my family’s *lapis legit* recipe for my book, *The Way of Kueh*,[^42] took me months of research and testing, over 1,300 words and finally three pages of text and photos to do it full justice. Yes, *lapis legit* and *spekkoek* require significant mental and physical investment, but when they are imbued with care and commitment, their glory – and the accompanying feeling of achievement – transcends every ounce of expended effort. Master this cake, and you can truly say you have earned your stripes.
-
-<div class="infobox"> 
-<img src="/images/Vol-16-issue-4/kuehlapis/TheWayOfKueh.png" style="width: 350px; height: 200px;"/>
-Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932">(Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN)</a>. It also retails at major bookshops in Singapore.
-</div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/Christopher_Tan.png" style="width: 100px; height: 100px;" />
-<b>Christopher Tan</b> is a food writer, author, cooking instructor and photographer whose latest book is the award-winning <i>The Way of Kueh</i>, a comprehensive work about Singapore’s <i>kueh</i> culture.
+<img src="/images/Vol-17-issue-1/authors/anthony_medrano.png" style="width: 100px; height: 100px;" />
+<b>Assistant Professor Anthony Medrano</b> is the National University of Singapore Presidential Young Professor of Environmental Studies at Yale-NUS College. He is a former Ziff Environmental Fellow at Harvard University and has a PhD in History from the University of Wisconsin-Madison.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
-[^1]: Throughout this article, I have used different spellings for the word *kuih*, as appropriate to that community to whose desserts I am referring: hence *kuih* for Malay items, *kueh* for Peranakan items, and *kue* for Indonesian items, plus idiosyncratic spelling within direct quotes. *Legit*, pronounced with a hard “g”, means “sweet” or “sticky” in Bahasa Indonesia.
+[^1]: Award of the Medal of the Civil Division of the Most Excellent Order of the British Empire to the undermentioned: For Meritorious Service. (1939, January 2). Supplement to the London Gazette, p. 20. (Not available in NLB holdings)
 
-[^2]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+[^2]: Malay who speaks two Chinese dialects honoured. 
+(1939, February 20). The Straits Times, p. 12. Retrieved from NewspaperSG. 
 
-[^3]: Pamudji, D. (1986). *Hidangan ringan: Party snacks*. Kuala Lumpur: Arenabuku Sdn Bhd. (Not available in NLB holdings). Among the author’s *lapis* recipes are a few with “tikar” designs, constructed by rotating and reassembling cut sections of *lapis*, to yield complex patterns when sliced across. These pre-date by over a decade the more colourful *lapis* designs popular in Sarawak.
+[^3]: Scott, J.S. (1959). An introduction to the sea fishes of Malaya (p. iii). Kuala Lumpur: Ministry of Agriculture. (Call no.: RCLOS 597.925 SCO)
 
-[^4]: Manden, A.C. (1895). *Recepten van de Haagsche kookschool* [*Recipes from the Hague Cooking School*] (p. 244). The Hague: De Gebroeders van Cleef. (Not available in NLB holdings). Founded in the late 1800s, the school provided its female students with formal culinary training.
+[^4]: For the scale of migration in the late 19th and early 20th centuries, see Amrith, S.S. (2011). Migration and diaspora in modern Asia (pp. 18–19). Cambridge: University of Cambridge Press. (Call no.: R 304.8095 AMR)
 
-[^5]: Van der Meijden, J.M.J.C. (1925). *Groot nieuw volledig Oost-Indisch kookboek* [*Great new complete East Indies cookbook*] (pp. 305–306). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings). A mammoth book chronicling nearly 1,400 recipes from the Dutch East Indies, written to help familiarise Dutch cooks with the cuisine.
+[^5]: Shipping notes. (1926, July 20). The Singapore Free Press and Mercantile Advertiser, p. 11. Retrieved from NewspaperSG.
 
-[^6]: Also known as red rice, this is rice inoculated with a yeast strain that produces a vivid red pigment as it grows. The dried grains are a traditional Chinese ingredient used to make rice wine and to add colour to dishes.
+[^6]: Governor Hugh Clifford to Members of the Legislative Council. (1927, October 10). (Reference no.: CO 273/537/24). Retrieved from The National Archives UK website. 
 
-[^7]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+[^7]: Chen, H. (2008, June 1). Japan and the birth of Takao's fisheries in Nanyo 1895–1945. International Journal of Maritime History, 20 (1), 133–152. Retrieved from SAGE Journals website.
 
-[^8]: Van der Meijden, 1925, p. 305.
+[^8]: For references to Okinawan fishermen in Southeast Asia, see De Indische Courant, 25 November 1925, p. 2; Het Vaderland, 25 December 1929, p. 8; De Sumatra Post, 1 December 1925, p. 5; and Markus, B. (1930–1941). De Japansche visscherij in het Oosten van de Archipel (p. 2). Batavia: Instituut voor de Zeevisscherij. (Not available in NLB holdings). In the 1920s, Okinawans, mostly from Itoman, also went to work the waters around Saipan, Palau and the Marianas. See Higuchi, W. (2007). Pre-war Japanese fisheries in Micronesia: Focusing on bonito and tuna fishing in the Northern Mariana Islands. Immigration Studies, (3), 49–68, p. 51. For a close analysis of the relationship between Itoman and Singapore, see Shimizu, H. (2008, June). Theories of migration and the Okinawan fishermen in colonial Singapore. Research on Contemporary Society, (3), 27–42, pp. 27, 34. Retrieved from Aichi Shukutoku University website.
 
-[^9]: Freshly churned butter is always washed with plain water to remove all traces of buttermilk – the liquid separated from the butterfat by the churning – and casein dairy proteins. If not washed away, these make the butter develop rancid off-flavours and turn bad.
+[^9]: Hiroshi, S. (1997, September). The Japanese fisheries based in Singapore, 1892–1945. Journal of Southeast Asian Studies, 28 (2), 324–344, p. 329. Retrieved from JSTOR via NLB’s eResources website. Hiroshi uses the Japanese Foreign Ministry Archives, J1.2.0, 1927, to reconstruct the number of Okinawans in Singapore.
 
-[^10]: See note 6.
+[^10]: Governor Hugh Clifford to Members of the Legislative Council, 10 Oct 1927.
 
-[^11]: The batters are mixed in the pots so presumably the bowls are used for beating the egg whites.
+[^11]: “Muro Ami”. (1926, September 4). The Straits Times, p. 11. Retrieved from NewspaperSG.
 
-[^12]: Small brooms – bundled plant stalks or twigs  – were historically used to beat liquid ingredients. Metal whisks only started to become more common around the early 20th century.
+[^12]: For Singapore and Penang, see the Annual report on the Colony of the Straits Settlements for the year 1927 in CO 273/552/17, The National Archives UK; for Batavia, see Delsman, H.C. (1939, February). Fishing and fish-culture in the Netherlands Indies. Bulletin of the Colonial Institute of Amsterdam, 2 (2), 92–105; and for Manila, see Herre, A.W., Miscellaneous Notes, Box Folder: 2, Series: Notes III, Dates: 1929–1948. Accessed at Albert W. Herre Papers, Special Collections, Western Libraries Heritage Resources, Western Washington University.
 
-[^13]: Brooms are not very efficient whisks.
+[^13]: Report on the Tongkol. (1928, July 7). The Straits Times, p. 3; Notes of the day: Local fisheries. (1929, May 21). The Straits Times, p. 9. Retrieved from NewspaperSG.
 
-[^14]: Presumably this means a thick and creamy foam.
+[^14]: Singapore’s fish supply. (1928, May 14). The Straits Times, 
+p. 3. Retrieved from NewspaperSG.
 
-[^15]: And presumably do the same for the remaining 14 whites for the 14-yolk batter lot, although the recipe does not spell this out.
+[^15]: The Straits Times, 14 May 1928, p. 3.
 
-[^16]: Springform pans with latched sides and removable bases were largely the same then as they still are now. Pan size is unmentioned, so this was either standard knowledge, or the reader is expected to know how to make do.
+[^16]: Japanese fishermen may not get renewals of licences. (1938, June 29). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG. 
 
-[^17]: The muslin prevents the cake layer from sticking to your hand as you flatten it.
+[^17]: In Malay, kuala means “estuary”. For information about Kuala Trong and the Matang mangrove reserve, see Mohammad Ismail Shaharuddin et al., (Eds.). (2005). Sustainable management of matang mangroves 100 years and beyond. Kuala Lumpur: Malaysian Forestry Department. (Not available in NLB holdings)
 
-[^18]: The layering alternates the two batters; every layer is pressed and butter-brushed.
+[^18]: Abdul Aziz Ishak. (1983). Mencari bako (p. 27). Kuala Lumpur: Penerbitan Abadi. (Call no.: Malay RSEA 079.5950924 ABD)
 
-[^19]: The needle test checks for uncooked batter under the surface: heat sources were not always even. The baking set-up is not detailed, but it would have featured top-down heat.
+[^19]: For Tora Eifuku’s work in the Dutch East Indies (also known as Netherlands Indies), see De Japansche Visscherij. (1925, November 25). Bataviaasch Nieuwsblad, 1; Het Visscherijbedrijft te Soerabaja. (1926, September 9). De Sumatra Post, 5; De ‘Fuku Maru’. (1938, January 7). Het Nieuws Van Den Dag Voor Nederlandsch-Indie, 2. For his operations in the Gulf of Martaban, Burma, see Mystery move by Japanese. (1938, December 11). The Straits Times, p. 1. Retrieved from NewspaperSG. In 1936, Eifuku applied for a licence to fish in the Mergui Archipelago, but he had already been operating there for several years. See National Archives of Myanmar. (1936–1937). Fishery by Japanese in the Mergui Archipelago. (Accession no. 1266, series 1/7, file IV–8); On his offices in Penang, Batavia and Singapore, see De Japansche Visscherij. (1925, December 1). De Sumatra Post, 5.
 
-[^20]: Cornelia, N. (1859). *Kokki bitja* [*Beloved cook*] (p. 160). Batavia: Lange & Co. (Not available in NLB holdings). Written in Indonesian, this book includes both traditional Indonesian and Dutch recipes.
+[^20]: The Malayan Bulletin of Political Intelligence. (1925, June). (Reference no.: CO 537/933/4). Accessed at the National Archives of Singapore. 
 
-[^21]: *Oost-Indisch kookboek* [*East Indies cookbook*] (pp. 62, 89). (1870). Semarang: Van Dorp & Co. (Not available in NLB holdings). The first Dutch-language cookbook of Indonesian recipes.
+[^21]: Malaya cannot supply her own requirements of fish. (1934, August 30). The Singapore Free Press and Mercantile Advertiser, p. 4. Retrieved from NewspaperSG. 
 
-[^22]: Koopmans-Gorter, A., & De Boer-De Jonge, G.A.M. (1925). *Het nieuwe kookboek* [*The new cookbook*] (p. 307). Groningen: P. Noordhoff. (Not available in NLB holdings)
+[^22]: Agricultural progress In the Colony. (1937, September 3). The Malaya Tribune, p. 4. Retrieved from NewspaperSG. 
 
-[^23]: [Delicacies and titbits for Hari Raya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830705-1.2.94.6.1). (1983, July 5). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^23]: Parti Melayu lahir di Istana Kg Glam. (1985, April 9). Berita Harian, p. 5. Retrieved from NewspaperSG. 
 
-[^24]: Keasberry, J. (2019, February 25). *Spekkoek and kue lapis legit differences revealed*. Retrieved from Cooking with Keasberry website.
+[^24]: The British appointed Mohamed Eunos bin Abdullah to the Straits Settlements Legislative Council in 1924, making him the first Malay to serve on the council. Eunos remains a fixture within Singapore’s political history. As a member of the Legislative Council, he voted against the establishment of a public aquarium in the 1930s.
 
-[^25]: Sitti Nur Zainuddin-Moro. (1980). *[Kue-kue manasuka](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125292)* [*Kue you will like*] (pp. 130, 132). Jakarta: Dian Rakyat. (Call no.: RSEA 641.5 ZAI). The author, a cooking academy veteran, formidably marshals 272 recipes for Indonesian *kue*, colonial delicacies, Western-style cakes, savoury snacks and pantry essentials.
+[^25]: Page 21 Miscellaneous Column 2: Programme of B.M.B.C. (1937, May 10). Morning Tribune, p. 21. Retrieved from NewspaperSG.
 
-[^26]: Hing, S. (1956). *[In a Malayan kitchen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437)* (pp. 65–66). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN). A wonderfully eclectic treasure trove of recipes spanning Indonesian, Malay, Chinese, Dutch and colonial “fusion” items.
+[^26]: National Archives of Malaysia (NAM). (1926, May 28–31 December). Report on the Working of the S.T. ‘Tongkol’. (Selangor Secretariat (SS), 3182/1927). The colonial government in Indochina also conducted a series of trawling expeditions in the South China Sea from 1925 to 1929. See Chevey, P. (1932). Poissons des campagnes du “de Lanessan” (1925–1929). Travaux de l'Institut océanographique de l'Indochine, 4, 1–155.
 
-[^27]: [Prelude to New Year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570124-1.2.125). (1957, January 24). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^27]: National Archives of Malaysia (NAM), 28 May–31 Dec 1926. 
 
-[^28]: [Kueh bangket kelapa dan lapis betawi, waduh, lazat sa-kali!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19680602-1.2.65) (1968, June 2). *Berita Harian*, p. 8. Retrieved from NewspaperSG. This recipe has a truly decadent butter-to-flour ratio of around 6:1.
+[^28]: On “making sense” as a cultural process of knowing in Southeast Asian history and studies, see Wolters, O.W. (1994, October). Southeast Asia as a Southeast Asian field of study. Indonesia, (58), 1–17. Retrieved from JSTOR via NLB’s eResources website.
 
-[^29]: [Feast with the experts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810129-1.2.61.1). (1981, January 29). *New Nation*, p. 10. Retrieved from NewspaperSG. The name Speckok Kueh Lapis Batavia comes from Mrs Leong Yee Soo’s classic local cookbook, *Singaporean Cooking*. See Leong, Y.S. (1976). *[Singaporean cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551115)*. Singapore: Eastern Universities Press Sdn Bhd. (Call no.: RSING 641.595957 LEO)
+[^29]: In post-war Malaya, Ishak was often consulted by fish experts for his “wealth of knowledge”. For the publication of J.S. Scott’s An Introduction to the Sea Fishes of Malaya in 1959, for instance, Ishak “examine[d] the manuscript and made many valuable comments which [were] incorporated in[to] the finished work”. See Scott, 1959, p. iii.
 
-[^30]: [Hari Raya delight for you to try](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770913-1.2.144.3). (1977, September 13). *The Straits Times*, p. 34. Retrieved from NewspaperSG. “Mascovrish” is likely a rendering of “moscovis”, a Dutch colonial-era name attached to cakes made with dried fruit or candied peel. “Moscovis” refers to Russia, although the connection to the country is unclear.
+[^30]: National Archives of Malaysia (NAM), 28 May–31 Dec 1926. Part II, appendix IV, “Scientific Names of Fish Caught by the S.T. ‘Tongkol’.”
 
-[^31]: [Chefs of S’pore–3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500427-1.2.180). (1950, April 27). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^31]: On poisonous fish as a subject in Southeast Asian ichthyology, see Seale, A. (1912). Poisonous fishes of the Philippine Islands. Bureau of Health Bulletin, No. 9; Herre, A.W.C.T. (1924, October). Poisonous and worthless fishes: An account of the Philippine plectognaths. Philippine Journal of Science, 25 (4), 415–512. Retrieved from Semantic Scholar website; Hiyama, Y. (1943). Report on the research of poisonous fish in the South Seas. Odawara: Nissan Fisheries Institute. (Not available in NLB holdings) (in Japanese).
 
-[^32]: *Fritz Hahn: The Baumkuchen family*. (2017). Retrieved from settinger.net website.
+[^32]: Cold Storage was established in 1903. For more on its history, see Goh, C.B. (2003). Serving Singapore: A hundred years of Cold Storage, 1903–2003. Singapore: Cold Storage Singapore. (Call no.: RSING 381.148095957 GOH)
 
-[^33]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+[^33]: National Archives of Malaysia (NAM), May 28 May–31 Dec 1926. 
 
-[^34]: Keijner, W.C. (1972). *Kookboek voor Hollandse, Chinese en Indonesische derechten* [*Cookbook for Dutch, Chinese and Indonesian dishes*] (p. 161). Amsterdam: Uitgeverij J. F. Duwaer & Zonenmsterdam. (Not available in NLB holdings)
+[^34]: On the idea of nature’s resistance, I am reminded of Frantz Fanon’s important line: “The resistance that forests and swamps present to foreign penetration is the natural ally of the native.” See Fanon, F. (1963). The wretched of the earth (p. 294). New York: Grove Press. (Not available in NLB holdings). On the sale of the S.T. Tongkol, see Ceylon fisheries. (1929, September 10). The Straits Times, p. 8. Retrieved from NewspaperSG. On the abundance of sea grass, see National Archives of Malaysia (NAM), 28 May–31 Dec 1926. Part II, “Biological Aspects of Trawling Experiments”.
 
-[^35]: [Sitti Nur Zainuddin-Moro](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125292), 1980, p. 18.
+[^35]: In 1933, Ishak was appointed as acting Director of Fisheries. See Malay in charge of all Malayan-department. (1937, May 15). The Straits Times, p. 12. Also in 1933, Ishak was elected President of Singapore’s Fathul Karib Club. Founded in 1898, Fathul Karib was a soccer club that competed in all-Malaya tournaments. See Fathol Karib Club. (1933, March 23). The Malaya Tribune, p. 10. Retrieved from NewspaperSG. 
 
-[^36]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+[^36]: Malaya’s fishery ‘ice-box’. (1937, July 28). The Straits Times, p. 20. Retrieved from NewspaperSG.
 
-[^37]: Rudy, G. (2020). *23 resep kue autentik Palembang* [*23 authentic Palembang cake recipes*]. Jakarta: Kompas Gramedia. (Not available in NLB holdings). Nine kinds of Palembang *lapis* are pictured on this book’s cover.
+[^37]: Malayan Coronation Medal Awards. (1937, May 26). The Straits Times, p. 17. Retrieved from NewspaperSG. 
 
-[^38]: Doctor, V. (2019, March 25). *Tried bebinca yet? The Goan queen of desserts packs layers of flavour and history*. Retrieved from The Economic Times website.
+[^38]: Tea to fisheries officer. (1939, February 20). The Malaya Tribune, p. 12. Retrieved from NewspaperSG.
 
-[^39]: Personal communication with Janet P. Boileau (www.janetboileau.com), October 2008.
+[^39]: Singapore school of fisheries opened. (1939, October 6). Morning Tribune, p. 11. Retrieved from NewspaperSG.
 
-[^40]: Braga-Blake, M., Ebert-Oehlers, A., & Pereira, A.A. (2017). *[Singapore Eurasians: Memories, hopes and dreams](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202743122)* (p. 246). Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
+[^40]: On Ishak, the school and Pulau Sudong, see The Straits Times, 20 Feb 1939, p. 12. On KMS and Pulau Sudong, see An island school. (1940, March 26). The Straits Times, p. 13. Retrieved from NewspaperSG; Minutes of the Legislative Council. (1940, October 14). (Reference no.: CO 275/154/147). Retrieved from The National Archives UK website. On Pulau Sudong’s fishing community, see Chew, S.B. (1982). Fishermen in flats. Melbourne: Centre of Southeast Asian Studies, Monash University. (Call no.: RSING 301.4443095957 CHE)
 
-[^41]: [Malay women are very busy now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570430-1.2.97.1). (1957, April 30). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
-
-[^42]: Tan, C. (2019). *[The way of kueh: Savouring & saving Singapore’s heritage desserts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932)*. Singapore: Epigram Books. (Call no.: RSING 641.595957 TAN)
+[^41]: Scott, 1959, p. iii.
