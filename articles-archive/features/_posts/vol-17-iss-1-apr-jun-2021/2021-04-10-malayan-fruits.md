@@ -23,7 +23,7 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/nature/mangosteens.jpg">
+<img src="/images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg">
 In this set of drawings from the Dumbarton Folio featuring mangosteens, there are unopened flower buds, flowers in full bloom, juvenile fruits as well as fully ripe ones, all on the same branch. The other three types of fruit are the ivory yellow rambutan, <i>jambu air</i> and <i>buah melaka</i>. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
 
@@ -45,7 +45,7 @@ The folio dissolves hard distinctions between conventionally “scientific” do
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/nature/cempedak.jpg">
+<img src="/images/Vol-17-issue-1/malayan-fruits/cempedak.jpg">
 Each page in the last section of the Dumbarton Folio depicts eight fruits drawn in miniature, two groups of four. Each group – two rows on top and two rows below – corresponds to the four species depicted in each of the 12 composite scenes. Each fruit is labelled according to its Malay name in Jawi as well as poor transliterations in barely visible Roman script. Shown here are the top two rows from one of the pages. Clockwise from the top: <i>cempedak</i>, red rambutan, <i>sentul</i> and <i>nam-nam</i>. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
 
@@ -57,7 +57,7 @@ A notable example features a large pineapple, whose seductive shade of pink is c
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/nature/ananas.jpg">
+<img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg">
 Included in the Dumbarton folio is the composite drawing featuring the <i>Ananas bracteatus</i> (red pineapple), with its distinctive shade of pink skin characteristic of the species, and the <i>langsat</i>, <i>chiku</i> and <i>kundang</i>. Although the exterior of the pineapple is pink, it has a fleshy yellow pulp like other pineapple varieties. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
 
@@ -78,7 +78,7 @@ There are only two pieces in the entire Dumbarton folio that find almost exact m
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/nature/watermelon.jpg">
+<img src="/images/Vol-17-issue-1/malayan-fruits/watermelon.jpg">
 The watermelon painting in the Dumbarton Folio (left) depicts swirling tendrils with leaves and flowers shown in distinct stages of development. The watermelon is also cut in half to reveal its fleshy red interior and black seeds. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>. An almost exact replica of the painting (right) can be found in the bound folio titled <i>NHD 42</i> housed at the Prints and Drawings Room of the British Library. <i>Photo by Faris Joraimi</i>.
 </div>
 
@@ -92,13 +92,13 @@ Nevertheless, the duplicates led me to briefly entertain the possibility of mode
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/nature/pulasan.jpg">
+<img src="/images/Vol-17-issue-1/malayan-fruits/pulasan.jpg">
 A composite drawing from the Dumbarton Folio featuring the durian, <i>pulasan</i>, <i>rambai</i> and <i>rukam</i>. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/nature/durian.jpg">
+<img src="/images/Vol-17-issue-1/malayan-fruits/durian.jpg">
 For the sake of comparison, shown here is the durian from the William Farquhar Collection of Natural History Drawings. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
 
@@ -112,7 +112,7 @@ While drawing upon the representational conventions of botanical illustration, t
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/nature/namnam.jpg">
+<img src="/images/Vol-17-issue-1/malayan-fruits/namnam.jpg">
 A composite drawing of the <i>cempedak</i>, rambutan, <i>nam-nam</i> and <i>sentul</i> from the Dumbarton Folio. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
 
