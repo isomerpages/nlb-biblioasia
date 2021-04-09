@@ -23,7 +23,7 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/beastly/LapisLegit.jpg">
+<img src="/images/Vol-17-issue-1/beastly/manintrishaw.jpg">
 The author’s home-made <i>kueh lapis legit</i>. This is an iconic cake for Indonesians, Malays and the Peranakan Chinese. <i>Courtesy of Christopher Tan</i>.
 </div>
 
@@ -118,4 +118,89 @@ Fiona Tan is an Archivist with the Records Management department at the National
 
 #### **NOTES**
 
-[^1]: 
+[^1]: Elephants were imported and traded in the region before colonial rule from places as near as Java and Melaka to as far away as India. See Boomgaard, B. (1997). Hunting and trapping in the Indonesian archipelago, 1500–1950. In P. Boomgaard, F. Colombijn & D. Henley (Eds.), *Paper landscapes: Explorations in the environmental history of Indonesia* (p. 195). Leiden: KITLV Press. (Call no.: RSEA 304.2809598 PAP); Andaya, B.W. (1979). *Perak, the abode of grace: A study of an eighteenth-century Malay state* (pp. 77–78). Kuala Lumpur; New York: Oxford University Press. (Call no.: RSING 959.5131 AND)
+
+[^2]: Newbold, T.J. (1839). *Political and statistical account of the British settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore; with a history of the Malayan states on the peninsula of Malacca* (Vol. II; p. 190). London: John Murray. Retrieved from BookSG. (Call no.: RRARE 959.5 NEW; Accession no.: B03013424F)
+
+[^3]: Hornaday, W.T. (1993). *The experiences of a hunter and naturalist in India, Ceylon, the Malay Peninsula and Borneo* (p. 8). Kuala Lumpur: Oxford University Press. 
+(Call no.: RSING 910.4 HOR)
+
+[^4]: Mayer, C. (1922). *Trapping wild animals in Malay jungles* (pp.25–30, 33–34, 93). London: T. Fisher Unwin Ltd. Retrieved from BookSG. (Call no.: RRARE 799.29595 MAY-[JSB]; Accession no.: B29267011F)
+
+[^5]: Buck, F., & Anthony, E. (1930). *Bring ’em back alive (p. 18). Garden City, N.Y.: Garden City Pub. (Call no.: RSEA 799.2 BUC)
+
+[^6]: For the detailed breakdown, see Table 1 in Tan, F. (2014). The beastly business of regulating the wildlife trade in colonial Singapore. In T. Barnard (Ed.), Nature contained: Environmental histories of Singapore (p. 151). Singapore: NUS Press. (Call no.: RSING 304.2095957 NAT)
+
+[^7]: Proceedings of Straits Settlements Legislative Council (p. B43). (1933, March 6). (Accession no.: R.M.I E/67; Microfilm no.: NL1126). Accessed at the National Archives of Singapore.
+
+[^8]: Proceedings of Straits Settlements Legislative Council. (pp. C206–207). (1927, October 31). (Accession no.: R.M.I E/61; Microfilm no.: NL1123). Accessed at the National Archives of Singapore.
+
+[^9]: Proceedings of Straits Settlements Legislative Council. 
+(pp. B93–B94). (1928, August 27). (Accession no.: R.M.I E/62; Microfilm no.: NL1124). Accessed at the National Archives of Singapore.
+
+[^10]: Proceedings of Straits Settlements Legislative Council. 
+(pp. B125–B127). (1929, October 7). (Accession no.: R.M.I E/63; Microfilm no.: NL1124); Proceedings of Straits Settlements Legislative Council (p. B32). (1930, May 12). (Accession no.: R.M.I E/64; Microfilm no.: NL1125). Accessed at the National Archives of Singapore.
+
+[^11]: Humanity in the east. (1924, August 10). The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+[^12]: Cruelties of the bird trade. (1931, October 20). The Singapore Free Press and Mercantile Advertiser, p. 8. Retrieved from NewspaperSG.
+
+[^13]: A plea for the wild. (1931, October 28). The Singapore Free Press and Mercantile Advertiser, p. 8. Retrieved from NewspaperSG. Further instances of such reports in the 1930s include A callous Chinese: Exemplary sentence for cruelty to ducklings. (1930, April 26). The Straits Times, p. 12; Cruelty to animals: Indian menagerie owner fined. (1930, November 27). The Straits Times, p. 12; Cruelty to birds: Two Chinese fined for overcrowding. (1933, June 15). The Straits Times, p. 16; Smile disappeared: Chinese fined for cruelty to birds. (1932, January 13). The Singapore Free Press and Mercantile Advertiser, p. 6. Retrieved from NewspaperSG.
+
+[^14]: Dammerman, K.W. (1929). Preservation of wildlife and nature reserves in the Netherlands Indies (pp. 88–91). Weltevreden: Emmink. (Call no.: RCLOS 591.9598 PAC)
+
+[^15]: Prohibition of the importation of orang utan from Dutch East Indies into the Straits Settlements: Letter from K.W. Dammerman to C. Kloss. (1928, September 11). (Record reference no.: C.S.O. Museums 8366/1928; Microfilm no.: MSA 1139/10). Accessed at the National Archives of Singapore; Prohibition of the importation of orang utan from Dutch East Indies into the Straits Settlements: Letter from W. Daniels to Colonial Secretary of Straits Settlements. (1929, August 16). (Record reference no.: C.S.O. Museums 8366/1928; Microfilm no.: MSA 1139/10). Accessed at the National Archives of Singapore.
+
+[^16]: Proceedings of Straits Settlements Legislative Council (p. B19). (1930, March 24). (Accession no.: R.M.I E/64; Microfilm nos.: NL1124, NL1125). Accessed at the National Archives of Singapore.
+
+[^17]: Straits Settlements. (1933, June 30). Straits Settlements government gazette (Gazette Notification 1283). Singapore: Government Printing Office. (Call no.: RRARE 959.51 SGG; Microfilm nos.: NL1240, NL1241)
+
+[^18]: Kathirithamby-Wells, J. (2005). Nature and nation: Forests and development in Peninsular Malaysia (pp. 198–199). Honolulu: University of Hawaii Press. (Call no.: RSEA 333.75095951 KAT)
+
+[^19]: Malaya. Wild Life Commission. (1932). Report of the Wild Life Commission (p. 46). Singapore: Government Printing Office. (Call no.: RRARE 591.9595 MAL; Microfilm nos.: NL26030 [v. 1]; NL9935 [v. 1–v. 3]; NL31934 [v. 3])
+
+[^20]: The wild life report. (1932, August 15). Straits Times, p. 10. Retrieved from NewspaperSG.
+
+[^21]: Hubback, T.R., et al. (1934). Report of the Wild Animals and Wild Birds Committee, Singapore, 1933 (p. 17). Singapore: Government Printing Office. (Call no.: RRARE 338.3728 SIN; Accession no.: B02978387K ; Microfilm no.: NL26231)
+
+[^22]: Straits Settlements. (1933, July 21). Straits Settlements government gazette (Gazette Notification 1412). Singapore: Government Printing Office. (Call no.: RRARE 959.51 SGG; Microfilm nos.: NL1240, NL1241)
+
+[^23]: Proceedings of Straits Settlements Legislative Council (p. B32). (1930, March 24). (Accession no.: R.M.I E/64; Microfilm nos.: NL1124, NL1125). Accessed at the National Archives of Singapore.
+
+[^24]: Proceedings of Straits Settlements Legislative Council, 24 Mar 1930, p. B32.
+
+[^25]: Hubback et al., 1934, pp. 7­–8. 
+
+[^26]: Hubback et al., 1934, p. 11.
+
+[^27]: Hubback et al., 1934, pp. 14–15. Also see The Singapore Free Press and Mercantile Advertiser, 20 Oct 1931, p. 8. 
+
+[^28]: ‘Appalling stench’ in Ponggol zoo cages. (1938, November 11). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
+
+[^29]: Hubback et al., 1934, pp. 14–15.
+
+[^30]: Hubback et al., 1934, pp. 14–15.
+
+[^31]: Hubback et al., 1934, pp. 15–20.
+
+[^32]: Minutes of the Proceedings of the Municipal Commissioners. (p. 178). (1934, May 4). (Microfilm no.: NA436). Retrieved from National Archives of Singapore website.
+
+[^33]: Lost, stolen or strayed. (1935, September 13). The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+[^34]: The percentage was calculated based on total imports of $330,661,128 and total exports of $346,471,451. The total import of raw rubber and gutta percha was estimated at $22,251,167 and total export estimated at $73,726,509. Statistics from The Foreign Trade of Malaya. (1934). See Straits Settlements. (1933). Straits Settlements annual reports (pp. 700, 702–703). (Accession no.: R.M.I D/73; Microfilm no.: NL2922). Accessed at the National Archives of Singapore. 
+
+[^35]: The sum of $78 was based on the $1 annual licence fee according to the Animal and Bird Shop By-Laws and the Prevention of Cruelty to Animals Department Annual Report figure of 78 shops being licensed in 1933. The revenue from opium licensing is taken from Straits Settlements. (1934). Straits Settlements Blue Book 1933 (p. 85). (Accession no.: RM: I F/64; Microfilm no. NL3143). Retrieved from National Archives of Singapore website.
+
+[^36]: Smith, S.C. (1995). British relations with the Malay rulers from decentralization to Malayan independence 1930–1957 (pp. 22–23). Kuala Lumpur; New York: Oxford University Press. (Call no.: RSEA 959.5105 SMI)
+
+[^37]: Note by E. Gent. (1934, January 16). Preservation of wildlife. (Reference no.: CO717/96/1; 13329/1933). Accessed at the National Archives of Singapore.
+
+[^38]: Letter from John Kempe to Colonial Office. (1934, April 29). Preservation of wildlife. (Reference no.: CO717/104/13, 33359/1934). Accessed at the National Archives of Singapore. 
+
+[^39]: Letter from T. Hubback to C. Clementi. (1931, July 14). Preservation of game. (Reference no.: CO717/78/13; 82352/1931). Accessed at the National Archives of Singapore. 
+
+[^40]: Hubback et al., 1934, p. 9. 
+
+[^41]: Hubback et al., 1934, p. 9. 
+
+[^42]: Malay village at world fair. (1938, December 18). 
