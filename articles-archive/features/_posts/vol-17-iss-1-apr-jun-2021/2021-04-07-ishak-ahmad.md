@@ -57,7 +57,7 @@ The Okinawan fishermen had certain advantages over the local fishing community. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/ishak-ahmad/muroami.jpg">
+<img src="/images/Vol-17-issue-1/ishak-ahmad/caesio.jpg">
 The Japanese <i>muro ami</i> fishing method revolutionised the capture of fish in Malayan waters. A type of reef fish called <i>ikan delah</i> (<i>Caesio</i> spp.), which had been quite expensive to purchase, became a cheap and abundant source of protein. <i>Photo by BEDO. Retrieved from Wikimedia Commons (CC BY-SA 4.0)</i>.
 </div>
 
@@ -103,7 +103,7 @@ Ishak served a vital scientific as well as economic role in the expedition.[^27]
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/ishak-ahmad/kelong.jpg">
+<img src="/images/Vol-17-issue-1/ishak-ahmad/tongkol.jpg">
 Crew of the <i>S.T. Tongkol</i>. Ishak Ahmad (in white top and black hat) is standing second from the right. The coal-powered steamer was used to search and identify suitable fishing grounds in the first survey expedition conducted by the Fisheries Department in 1926. <i>Accessed at the National Archives of Malaysia</i>.
 </div>
 
@@ -124,7 +124,7 @@ Ishak extended government assistance to local fishing communities, thereby aidin
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/ishak-ahmad/muroami.jpg">
+<img src="/images/Vol-17-issue-1/ishak-ahmad/chinesefisherman.jpg">
 A Chinese fisherman with his catch, 1951. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
