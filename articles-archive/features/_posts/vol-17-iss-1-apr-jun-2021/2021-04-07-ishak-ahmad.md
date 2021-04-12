@@ -242,4 +242,4 @@ p. 3. Retrieved from NewspaperSG.
 
 [^40]: On Ishak, the school and Pulau Sudong, see *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390220-1.2.81)*, 20 Feb 1939, p. 12. On KMS and Pulau Sudong, see [An island school](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400326-1.2.105). (1940, March 26). *The Straits Times*, p. 13. Retrieved from NewspaperSG; Minutes of the Legislative Council. (1940, October 14). (Reference no.: CO 275/154/147). Retrieved from The National Archives UK website. On Pulau Sudong’s fishing community, see Chew, S.B. (1982). *[Fishermen in flats](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4137660)*. Melbourne: Centre of Southeast Asian Studies, Monash University. (Call no.: RSING 301.4443095957 CHE)
 
-[^41]: Scott, 1959, p. iii.
+[^41]: [Scott](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4114600), 1959, p. iii.
