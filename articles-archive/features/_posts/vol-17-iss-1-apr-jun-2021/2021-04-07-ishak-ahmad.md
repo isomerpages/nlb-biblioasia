@@ -162,8 +162,7 @@ From cataloguing the fish diversity of Malayan seas as a scientific member of th
 
 [^1]: Award of the Medal of the Civil Division of the Most Excellent Order of the British Empire to the undermentioned: For Meritorious Service. (1939, January 2). *Supplement to the London Gazette*, p. 20. (Not available in NLB holdings)
 
-[^2]: [Malay who speaks two Chinese dialects honoured](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390220-1.2.81). 
-(1939, February 20). *The Straits Times*, p. 12. Retrieved from NewspaperSG. 
+[^2]: [Malay who speaks two Chinese dialects honoured](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390220-1.2.81). (1939, February 20). *The Straits Times*, p. 12. Retrieved from NewspaperSG. 
 
 [^3]: Scott, J.S. (1959). *[An introduction to the sea fishes of Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4114600)* (p. iii). Kuala Lumpur: Ministry of Agriculture. (Call no.: RCLOS 597.925 SCO)
 
@@ -187,8 +186,7 @@ From cataloguing the fish diversity of Malayan seas as a scientific member of th
 
 [^13]: [Report on the Tongkol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280707-1.2.5). (1928, July 7). *The Straits Times*, p. 3; [Notes of the day: Local fisheries](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290521-1.2.34). (1929, May 21). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^14]: [Singapore’s fish supply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280514-1.2.5). (1928, May 14). *The Straits Times*, 
-p. 3. Retrieved from NewspaperSG.
+[^14]: [Singapore’s fish supply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280514-1.2.5). (1928, May 14). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
 [^15]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280514-1.2.5)*, 14 May 1928, p. 3.
 
