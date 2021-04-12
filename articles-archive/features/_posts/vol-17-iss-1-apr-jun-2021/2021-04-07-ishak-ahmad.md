@@ -162,14 +162,14 @@ From cataloguing the fish diversity of Malayan seas as a scientific member of th
 
 [^1]: Award of the Medal of the Civil Division of the Most Excellent Order of the British Empire to the undermentioned: For Meritorious Service. (1939, January 2). *Supplement to the London Gazette*, p. 20. (Not available in NLB holdings)
 
-[^2]: Malay who speaks two Chinese dialects honoured. 
+[^2]: [Malay who speaks two Chinese dialects honoured](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390220-1.2.81). 
 (1939, February 20). *The Straits Times*, p. 12. Retrieved from NewspaperSG. 
 
 [^3]: Scott, J.S. (1959). *[An introduction to the sea fishes of Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4114600)* (p. iii). Kuala Lumpur: Ministry of Agriculture. (Call no.: RCLOS 597.925 SCO)
 
-[^4]: For the scale of migration in the late 19th and early 20th centuries, see Amrith, S.S. (2011). *Migration and diaspora in modern Asia* (pp. 18–19). Cambridge: University of Cambridge Press. (Call no.: R 304.8095 AMR)
+[^4]: For the scale of migration in the late 19th and early 20th centuries, see Amrith, S.S. (2011). *[Migration and diaspora in modern Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14034044)* (pp. 18–19). Cambridge: University of Cambridge Press. (Call no.: R 304.8095 AMR)
 
-[^5]: Shipping notes. (1926, July 20). *The Singapore Free Press and Mercantile Advertiser*, p. 11. Retrieved from NewspaperSG.
+[^5]: [Shipping notes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19260720-1.2.61). (1926, July 20). *The Singapore Free Press and Mercantile Advertiser*, p. 11. Retrieved from NewspaperSG.
 
 [^6]: Governor Hugh Clifford to Members of the Legislative Council. (1927, October 10). (Reference no.: CO 273/537/24). Retrieved from The National Archives UK website. 
 
@@ -177,69 +177,69 @@ From cataloguing the fish diversity of Malayan seas as a scientific member of th
 
 [^8]: For references to Okinawan fishermen in Southeast Asia, see *De Indische Courant*, 25 November 1925, p. 2; *Het Vaderland*, 25 December 1929, p. 8; *De Sumatra Post*, 1 December 1925, p. 5; and Markus, B. (1930–1941). *De Japansche visscherij in het Oosten van de Archipel* (p. 2). Batavia: Instituut voor de Zeevisscherij. (Not available in NLB holdings). In the 1920s, Okinawans, mostly from Itoman, also went to work the waters around Saipan, Palau and the Marianas. See Higuchi, W. (2007). Pre-war Japanese fisheries in Micronesia: Focusing on bonito and tuna fishing in the Northern Mariana Islands. *Immigration Studies*, (3), 49–68, p. 51. For a close analysis of the relationship between Itoman and Singapore, see Shimizu, H. (2008, June). Theories of migration and the Okinawan fishermen in colonial Singapore. *Research on Contemporary Society*, (3), 27–42, pp. 27, 34. Retrieved from Aichi Shukutoku University website.
 
-[^9]: Hiroshi, S. (1997, September). The Japanese fisheries based in Singapore, 1892–1945. *Journal of Southeast Asian Studies, 28* (2), 324–344, p. 329. Retrieved from JSTOR via NLB’s eResources website. Hiroshi uses the Japanese Foreign Ministry Archives, J1.2.0, 1927, to reconstruct the number of Okinawans in Singapore.
+[^9]: Hiroshi, S. (1997, September). The Japanese fisheries based in Singapore, 1892–1945. *Journal of Southeast Asian Studies, 28* (2), 324–344, p. 329. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website. Hiroshi uses the Japanese Foreign Ministry Archives, J1.2.0, 1927, to reconstruct the number of Okinawans in Singapore.
 
 [^10]: Governor Hugh Clifford to Members of the Legislative Council, 10 Oct 1927.
 
-[^11]: “Muro Ami”. (1926, September 4). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+[^11]: [“Muro Ami”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19260904-1.2.67). (1926, September 4). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
 [^12]: For Singapore and Penang, see the Annual report on the Colony of the Straits Settlements for the year 1927 in CO 273/552/17, The National Archives UK; for Batavia, see Delsman, H.C. (1939, February). Fishing and fish-culture in the Netherlands Indies. *Bulletin of the Colonial Institute of Amsterdam, 2* (2), 92–105; and for Manila, see Herre, A.W., Miscellaneous Notes, Box Folder: 2, Series: Notes III, Dates: 1929–1948. Accessed at Albert W. Herre Papers, Special Collections, Western Libraries Heritage Resources, Western Washington University.
 
-[^13]: Report on the Tongkol. (1928, July 7). *The Straits Times*, p. 3; Notes of the day: Local fisheries. (1929, May 21). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^13]: [Report on the Tongkol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280707-1.2.5). (1928, July 7). *The Straits Times*, p. 3; [Notes of the day: Local fisheries](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290521-1.2.34). (1929, May 21). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^14]: Singapore’s fish supply. (1928, May 14). *The Straits Times*, 
+[^14]: [Singapore’s fish supply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280514-1.2.5). (1928, May 14). *The Straits Times*, 
 p. 3. Retrieved from NewspaperSG.
 
-[^15]: *The Straits Times*, 14 May 1928, p. 3.
+[^15]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280514-1.2.5)*, 14 May 1928, p. 3.
 
-[^16]: Japanese fishermen may not get renewals of licences. (1938, June 29). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG. 
+[^16]: [Japanese fishermen may not get renewals of licences](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380629-1.2.30). (1938, June 29). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG. 
 
 [^17]: In Malay, *kuala* means “estuary”. For information about Kuala Trong and the Matang mangrove reserve, see Mohammad Ismail Shaharuddin et al., (Eds.). (2005). *Sustainable management of matang mangroves 100 years and beyond*. Kuala Lumpur: Malaysian Forestry Department. (Not available in NLB holdings)
 
-[^18]: Abdul Aziz Ishak. (1983). *Mencari bako* (p. 27). Kuala Lumpur: Penerbitan Abadi. (Call no.: Malay RSEA 079.5950924 ABD)
+[^18]: Abdul Aziz Ishak. (1983). *[Mencari bako](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3227322)* (p. 27). Kuala Lumpur: Penerbitan Abadi. (Call no.: Malay RSEA 079.5950924 ABD)
 
-[^19]: For Tora Eifuku’s work in the Dutch East Indies (also known as Netherlands Indies), see De Japansche Visscherij. (1925, November 25). *Bataviaasch Nieuwsblad*, 1; Het Visscherijbedrijft te Soerabaja. (1926, September 9). *De Sumatra Post*, 5; De ‘Fuku Maru’. (1938, January 7). *Het Nieuws Van Den Dag Voor Nederlandsch-Indie*, 2. For his operations in the Gulf of Martaban, Burma, see Mystery move by Japanese. (1938, December 11). *The Straits Times*, p. 1. Retrieved from NewspaperSG. In 1936, Eifuku applied for a licence to fish in the Mergui Archipelago, but he had already been operating there for several years. See National Archives of Myanmar. (1936–1937). *Fishery by Japanese in the Mergui Archipelago*. (Accession no. 1266, series 1/7, file IV–8); On his offices in Penang, Batavia and Singapore, see De Japansche Visscherij. (1925, December 1). *De Sumatra Post*, 5.
+[^19]: For Tora Eifuku’s work in the Dutch East Indies (also known as Netherlands Indies), see De Japansche Visscherij. (1925, November 25). *Bataviaasch Nieuwsblad*, 1; Het Visscherijbedrijft te Soerabaja. (1926, September 9). *De Sumatra Post*, 5; De ‘Fuku Maru’. (1938, January 7). *Het Nieuws Van Den Dag Voor Nederlandsch-Indie*, 2. For his operations in the Gulf of Martaban, Burma, see [Mystery move by Japanese](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19381211-1.2.2). (1938, December 11). *The Straits Times*, p. 1. Retrieved from NewspaperSG. In 1936, Eifuku applied for a licence to fish in the Mergui Archipelago, but he had already been operating there for several years. See National Archives of Myanmar. (1936–1937). *Fishery by Japanese in the Mergui Archipelago*. (Accession no. 1266, series 1/7, file IV–8); On his offices in Penang, Batavia and Singapore, see De Japansche Visscherij. (1925, December 1). *De Sumatra Post*, 5.
 
-[^20]: The Malayan Bulletin of Political Intelligence. (1925, June). (Reference no.: CO 537/933/4). Accessed at the National Archives of Singapore. 
+[^20]: [The Malayan Bulletin of Political Intelligence](https://www.nas.gov.sg/archivesonline/private_records/record-details/49c7fd42-99ac-11e6-9af5-0050568939ad). (1925, June). (Reference no.: CO 537/933/4). Accessed at the National Archives of Singapore. 
 
-[^21]: Malaya cannot supply her own requirements of fish. (1934, August 30). *The Singapore Free Press and Mercantile Advertiser*, p. 4. Retrieved from NewspaperSG. 
+[^21]: [Malaya cannot supply her own requirements of fish](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340830-1.2.32). (1934, August 30). *The Singapore Free Press and Mercantile Advertiser*, p. 4. Retrieved from NewspaperSG. 
 
-[^22]: Agricultural progress In the Colony. (1937, September 3). *The Malaya Tribune*, p. 4. Retrieved from NewspaperSG. 
+[^22]: [Agricultural progress In the Colony](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340830-1.2.32). (1937, September 3). *The Malaya Tribune*, p. 4. Retrieved from NewspaperSG. 
 
-[^23]: Parti Melayu lahir di Istana Kg Glam. (1985, April 9). *Berita Harian*, p. 5. Retrieved from NewspaperSG. 
+[^23]: [Parti Melayu lahir di Istana Kg Glam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19850409-1.2.33.1). (1985, April 9). *Berita Harian*, p. 5. Retrieved from NewspaperSG. 
 
 [^24]: The British appointed Mohamed Eunos bin Abdullah to the Straits Settlements Legislative Council in 1924, making him the first Malay to serve on the council. Eunos remains a fixture within Singapore’s political history. As a member of the Legislative Council, he voted against the establishment of a public aquarium in the 1930s.
 
-[^25]: Page 21 Miscellaneous Column 2: Programme of B.M.B.C. (1937, May 10). *Morning Tribune*, p. 21. Retrieved from NewspaperSG.
+[^25]: [Page 21 Miscellaneous Column 2: Programme of B.M.B.C](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19370510-1.2.94.2). (1937, May 10). *Morning Tribune*, p. 21. Retrieved from NewspaperSG.
 
 [^26]: National Archives of Malaysia (NAM). (1926, May 28–31 December). *Report on the Working of the S.T. ‘Tongkol’*. (Selangor Secretariat (SS), 3182/1927). The colonial government in Indochina also conducted a series of trawling expeditions in the South China Sea from 1925 to 1929. See Chevey, P. (1932). Poissons des campagnes du “de Lanessan” (1925–1929). *Travaux de l'Institut océanographique de l'Indochine, 4*, 1–155.
 
 [^27]: National Archives of Malaysia (NAM), 28 May–31 Dec 1926. 
 
-[^28]: On “making sense” as a cultural process of knowing in Southeast Asian history and studies, see Wolters, O.W. (1994, October). Southeast Asia as a Southeast Asian field of study. *Indonesia*, (58), 1–17. Retrieved from JSTOR via NLB’s eResources website.
+[^28]: On “making sense” as a cultural process of knowing in Southeast Asian history and studies, see Wolters, O.W. (1994, October). Southeast Asia as a Southeast Asian field of study. *Indonesia*, (58), 1–17. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^29]: In post-war Malaya, Ishak was often consulted by fish experts for his “wealth of knowledge”. For the publication of J.S. Scott’s *An Introduction to the Sea Fishes of Malaya* in 1959, for instance, Ishak “examine[d] the manuscript and made many valuable comments which [were] incorporated in[to] the finished work”. See Scott, 1959, p. iii.
+[^29]: In post-war Malaya, Ishak was often consulted by fish experts for his “wealth of knowledge”. For the publication of J.S. Scott’s *An Introduction to the Sea Fishes of Malaya* in 1959, for instance, Ishak “examine[d] the manuscript and made many valuable comments which [were] incorporated in[to] the finished work”. See [Scott](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4114600), 1959, p. iii.
 
 [^30]: National Archives of Malaysia (NAM), 28 May–31 Dec 1926. Part II, appendix IV, “Scientific Names of Fish Caught by the S.T. ‘Tongkol’.”
 
 [^31]: On poisonous fish as a subject in Southeast Asian ichthyology, see Seale, A. (1912). Poisonous fishes of the Philippine Islands. *Bureau of Health Bulletin*, No. 9; Herre, A.W.C.T. (1924, October). Poisonous and worthless fishes: An account of the Philippine plectognaths. *Philippine Journal of Science, 25* (4), 415–512. Retrieved from Semantic Scholar website; Hiyama, Y. (1943). *Report on the research of poisonous fish in the South Seas*. Odawara: Nissan Fisheries Institute. (Not available in NLB holdings) (in Japanese).
 
-[^32]: Cold Storage was established in 1903. For more on its history, see Goh, C.B. (2003). *Serving Singapore: A hundred years of Cold Storage, 1903–2003*. Singapore: Cold Storage Singapore. (Call no.: RSING 381.148095957 GOH)
+[^32]: Cold Storage was established in 1903. For more on its history, see Goh, C.B. (2003). *[Serving Singapore: A hundred years of Cold Storage, 1903–2003](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11900478)*. Singapore: Cold Storage Singapore. (Call no.: RSING 381.148095957 GOH)
 
 [^33]: National Archives of Malaysia (NAM), May 28 May–31 Dec 1926. 
 
-[^34]: On the idea of nature’s resistance, I am reminded of Frantz Fanon’s important line: “The resistance that forests and swamps present to foreign penetration is the natural ally of the native.” See Fanon, F. (1963). *The wretched of the earth* (p. 294). New York: Grove Press. (Not available in NLB holdings). On the sale of the *S.T. Tongkol*, see Ceylon fisheries. (1929, September 10). *The Straits Times*, p. 8. Retrieved from NewspaperSG. On the abundance of sea grass, see National Archives of Malaysia (NAM), 28 May–31 Dec 1926. Part II, “Biological Aspects of Trawling Experiments”.
+[^34]: On the idea of nature’s resistance, I am reminded of Frantz Fanon’s important line: “The resistance that forests and swamps present to foreign penetration is the natural ally of the native.” See Fanon, F. (1963). *The wretched of the earth* (p. 294). New York: Grove Press. (Not available in NLB holdings). On the sale of the *S.T. Tongkol*, see [Ceylon fisheries](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290910-1.2.18.1.2). (1929, September 10). *The Straits Times*, p. 8. Retrieved from NewspaperSG. On the abundance of sea grass, see National Archives of Malaysia (NAM), 28 May–31 Dec 1926. Part II, “Biological Aspects of Trawling Experiments”.
 
-[^35]: In 1933, Ishak was appointed as acting Director of Fisheries. See Malay in charge of all Malayan-department. (1937, May 15). *The Straits Times*, p. 12. Also in 1933, Ishak was elected President of Singapore’s Fathul Karib Club. Founded in 1898, Fathul Karib was a soccer club that competed in all-Malaya tournaments. See Fathol Karib Club. (1933, March 23). *The Malaya Tribune*, p. 10. Retrieved from NewspaperSG. 
+[^35]: In 1933, Ishak was appointed as acting Director of Fisheries. See [Malay in charge of all Malayan-department](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370515-1.2.87). (1937, May 15). *The Straits Times*, p. 12. Also in 1933, Ishak was elected President of Singapore’s Fathul Karib Club. Founded in 1898, Fathul Karib was a soccer club that competed in all-Malaya tournaments. See [Fathol Karib Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330323-1.2.72). (1933, March 23). *The Malaya Tribune*, p. 10. Retrieved from NewspaperSG. 
 
-[^36]: Malaya’s fishery ‘ice-box’. (1937, July 28). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
+[^36]: [Malaya’s fishery ‘ice-box’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370728-1.2.121). (1937, July 28). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
-[^37]: Malayan Coronation Medal Awards. (1937, May 26). *The Straits Times*, p. 17. Retrieved from NewspaperSG. 
+[^37]: [Malayan Coronation Medal Awards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370526-1.2.143). (1937, May 26). *The Straits Times*, p. 17. Retrieved from NewspaperSG. 
 
-[^38]: Tea to fisheries officer. (1939, February 20). *The Malaya Tribune*, p. 12. Retrieved from NewspaperSG.
+[^38]: [Tea to fisheries officer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390220-1.2.90). (1939, February 20). *The Malaya Tribune*, p. 12. Retrieved from NewspaperSG.
 
-[^39]: Singapore school of fisheries opened. (1939, October 6). *Morning Tribune*, p. 11. Retrieved from NewspaperSG.
+[^39]: [Singapore school of fisheries opened](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19391006-1.2.69). (1939, October 6). *Morning Tribune*, p. 11. Retrieved from NewspaperSG.
 
-[^40]: On Ishak, the school and Pulau Sudong, see *The Straits Times*, 20 Feb 1939, p. 12. On KMS and Pulau Sudong, see An island school. (1940, March 26). *The Straits Times*, p. 13. Retrieved from NewspaperSG; Minutes of the Legislative Council. (1940, October 14). (Reference no.: CO 275/154/147). Retrieved from The National Archives UK website. On Pulau Sudong’s fishing community, see Chew, S.B. (1982). *Fishermen in flats*s. Melbourne: Centre of Southeast Asian Studies, Monash University. (Call no.: RSING 301.4443095957 CHE)
+[^40]: On Ishak, the school and Pulau Sudong, see *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390220-1.2.81)*, 20 Feb 1939, p. 12. On KMS and Pulau Sudong, see [An island school](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400326-1.2.105). (1940, March 26). *The Straits Times*, p. 13. Retrieved from NewspaperSG; Minutes of the Legislative Council. (1940, October 14). (Reference no.: CO 275/154/147). Retrieved from The National Archives UK website. On Pulau Sudong’s fishing community, see Chew, S.B. (1982). *[Fishermen in flats](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4137660)*. Melbourne: Centre of Southeast Asian Studies, Monash University. (Call no.: RSING 301.4443095957 CHE)
 
 [^41]: Scott, 1959, p. iii.
