@@ -141,7 +141,7 @@ In addition to the demand from zoos and circuses in Europe, America and Australi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/beastly/privatezoo.jpg">
+<img src="/images/Vol-17-issue-1/beastly/liveelephant.jpg">
 A live elephant, nicknamed Babe, being transported from Singapore to San Francisco in the 1920s. <i>Image reproduced from Buck, F.H., & Anthony, E. (1930). Bring ’Em Back Alive (facing p. 220). Garden City, N.Y.: Garden City Pub. Collection of the National Library, Singapore. (Call no.: RSEA 799.2 BUC)</i>.
 </div>
 
