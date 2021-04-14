@@ -122,12 +122,12 @@ Through their prose, the writers ask the all-important question – “What if?�
 
 [^14]: Hassan Hassaa’ree Ali. (2013). Doa.com (pp. 10–15). In *[Selamat malam, Caesar](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200333503)*. Singapura: Akademi Anuar Othman. (Call no.: Malay RSING 899.283 HAS)
 
-[^15]: The Centipede Collective. (2012).  Chapter 28: Energy. In J.E. Lundberg (Ed.), *Fish eats lion: New Singaporean speculative fiction*. Singapore: Math Paper Press. (Call no.: RSING S823 FIS)
+[^15]: The Centipede Collective. (2012).  Chapter 28: Energy. In J.E. Lundberg (Ed.), *[Fish eats lion: New Singaporean speculative fiction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14629271)*. Singapore: Math Paper Press. (Call no.: RSING S823 FIS)
 
 [^16]: The Centipede Collective, 2012, pp. 321–324.
 
 [^17]: National Climate Change Secretariat. (2020, December 30). *Impact of climate change and adaptation measures*. Retrieved from National Climate Change Secretariat website.
 
-[^18]: Rée, W. (2018). Satay. In J.E. Lundberg. (Ed.), *LONTAR: The Journal of Southeast Asian Speculative Fiction*, (10), pp. 79–92. (Call no.: RSING 828.995903 LJSASF)
+[^18]: Rée, W. (2018). Satay. In J.E. Lundberg. (Ed.), *[LONTAR: The Journal of Southeast Asian Speculative Fiction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200149999)*, (10), pp. 79–92. (Call no.: RSING 828.995903 LJSASF)
 
-[^19]: Karunungan, P. (2018). Agatha. In J.E. Lundberg (Ed.), *LONTAR: The Journal of Southeast Asian Speculative Fiction*, (10), 187–204. (Call no.: RSING 828.995903 LJSASF)
+[^19]: Karunungan, P. (2018). Agatha. In J.E. Lundberg (Ed.), *[LONTAR: The Journal of Southeast Asian Speculative Fiction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200149999)*, (10), 187–204. (Call no.: RSING 828.995903 LJSASF)
