@@ -23,7 +23,7 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/manvsnature/medusa">
+<img src="/images/Vol-17-issue-1/manvsnature/medusa.jpg">
 The multiple awards won by <i>The Gatekeeper</i> shows that speculative fiction has become a mainstream genre in Singapore. Shown here is an illustration of Ria, the medusa from the novel drawn by the author Nuraliah Norasid. <i>Image reproduced from Nuraliah Norasid. (2015). Ria, a Novel and an Exegesis (p. 334) [PhD dissertation]. Singapore: Nanyang Technological University. Collection of the National Library, Singapore. (Call no.: RCLOS 808.3 NUR)</i>.
 </div>
 
@@ -35,7 +35,7 @@ The genre has become increasingly mainstream in Singapore over the last few year
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/manvsnature/gatekeeper">
+<img src="/images/Vol-17-issue-1/manvsnature/gatekeeper.jpg">
 <i>The Gatekeeper</i> by Nuraliah Norasid clinched the Epigram Books Fiction Prize in 2016, and Best Fiction Title and Best Book Cover Design at the Singapore Book Awards in 2018. Nuraliah Norasid. (2018). <i>The Gatekeeper. Singapore: Epigram Books. (Ebook available from NLB OverDrive)</i>.
 </div>
 
@@ -43,7 +43,7 @@ In addition to the efforts of individual writers, there have also been local pla
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/manvsnature/lontar">
+<img src="/images/Vol-17-issue-1/manvsnature/lontar.jpg">
 <i>LONTAR: The Journal of Southeast Asian Speculative Fiction</i> was published in Singapore between 2013 and 2018. Its editor, Jason Erik Lundberg, has been a long-time advocate for creating an audience for speculative fiction in Singapore. Shown here is the cover of the last issue (No. 10; 2018). <i>Lundberg, J.E. (Ed.). (2013–2018). LONTAR: The Journal of Southeast Asian Speculative Fiction. Singapore: Epigram Books. Collection of the National Library, Singapore. (Call no.: RSING 828.995903 LJSASF)</i>.
 </div>
 
@@ -56,7 +56,7 @@ The *orang minyak* is described as a supernatural creature coated with shiny bla
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/manvsnature/orangminyak">
+<img src="/images/Vol-17-issue-1/manvsnature/orangminyak.jpg">
 The promotional standee for <i>Orang Minyak (The Oily Man)</i>, a Malay film directed by L. Krishnan and released in 1958. According to Malay folklore, the <i>orang minyak</i> is a supernatural creature coated with shiny black grease who abducts young women at night, and is able to climb walls and evade capture due to its slippery surface. <i>Image reproduced from Millet, R. (2006). Singapore Cinema (p. 43). Singapore: Editions Didier Millet. Collection of the National Library, Singapore. (Call no.: RSING q791.43095957 MIL)</i>.
 </div>
 
@@ -75,7 +75,7 @@ Ng Yi-Sheng’s Lion City (2019) also deals with a time where many animals have 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/manvsnature/lioncity">
+<img src="/images/Vol-17-issue-1/manvsnature/lioncity.jpg">
 <i>Lion City</i> by Ng Yi-Sheng is an anthology of short stories. In the titular short story, the narrator is given a behind-the-scenes look at the “animals” in the Singapore Zoo, which are actually robots. <i>Ng, Y.-S. (2019). Lion City. Singapore: Epigram Books. (Ebook available from NLB OverDrive)</i>.
 </div>
 
@@ -86,7 +86,7 @@ Constraints arising from the lack of land also provides the background for Hassa
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/manvsnature/caesar">
+<img src="/images/Vol-17-issue-1/manvsnature/caesar.jpg">
 Hassan Hasaa’ree Ali’s Malay short story “Doa.com” in <i>Selamat Malam, Caesar</i> presents an imaginative solution to address the scarcity of land for burials in Singapore. The book was shortlisted for the Singapore Literature Prize for Malay Fiction in 2014. <i>Hassan Hassaa’ree Ali. (2013). Selamat Malam, Caesar. Singapura: Akademi Anuar Othman. Collection of the National Library, Singapore. (Call no.: Malay RSING 899.283 HAS)</i>.
 </div>
 
@@ -96,7 +96,7 @@ While witnessing his father’s cremation, one researcher in Singapore comes up 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/manvsnature/illus">
+<img src="/images/Vol-17-issue-1/manvsnature/illus.jpg">
 Illustrations from the short story “Chapter 28: Energy” showing the process of converting latent energy from dead bodies to produce a liquid called NecrOil that can create batteries and power cars. <i>Images reproduced from The Centipede Collective. (2012). Chapter 28: Energy (pp. 321, 329). In J.E. Lundberg (Ed.), Fish Eats Lion: New Singaporean Speculative Fiction. Singapore: Math Paper Press. (Call no.: RSING S823 FIS)</i>
 </div>
 
