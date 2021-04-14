@@ -31,21 +31,21 @@ As the threat of climate change looms, global warming and other environmental is
 
 One genre that directly grapples with the impact of man on the environment is speculative fiction. A broad category encompassing fiction with supernatural, fantastical or futuristic elements, it includes sub-genres such as science fiction, fantasy, horror and the supernatural.1 Yeow Kai Chai, the poet and former director of the Singapore Writers Festival, notes that speculative fiction “compels us to imagine and ask questions about the fate of humanity, the environment and alternate realities”.2
 
-The genre has become increasingly mainstream in Singapore over the last few years. In May 2017, The Straits Times reported that at least eight such home-grown novels and anthologies had been published in the previous six months.3 One such novel – Nuraliah Norasid’s The Gatekeeper4 – even clinched the Epigram Books Fiction Prize in 2016, and Best Fiction Title and Best Book Cover Design at the Singapore Book Awards in 2018.
+The genre has become increasingly mainstream in Singapore over the last few years. In May 2017, *The Straits Times* reported that at least eight such home-grown novels and anthologies had been published in the previous six months.3 One such novel – Nuraliah Norasid’s *The Gatekeeper*4 – even clinched the Epigram Books Fiction Prize in 2016, and Best Fiction Title and Best Book Cover Design at the Singapore Book Awards in 2018.
 
-In addition to the efforts of individual writers, there have also been local platforms for speculative fiction. An important one was LONTAR: The Journal of Southeast Asian Speculative Fiction. Published in Singapore, the journal existed between 2013 and 2018 and its editor, Jason Erik Lundberg, has been a long-time advocate for creating an audience for speculative fiction in Singapore.5
+In addition to the efforts of individual writers, there have also been local platforms for speculative fiction. An important one was *LONTAR: The Journal of Southeast Asian Speculative Fiction*. Published in Singapore, the journal existed between 2013 and 2018 and its editor, Jason Erik Lundberg, has been a long-time advocate for creating an audience for speculative fiction in Singapore.5
 
 #### **Oil and Petrohorror**
 While one might think that speculative fiction in Singapore has only recently begun dealing with environmental issues, there are examples that go back to the immediate post-war years.
 
-In the essay “An Oily Mirror: 1950s Orang Minyak Films as Singaporean Petrohorror”, Yogesh Tulsi argues that films about the orang minyak (which means “oily man” in Malay) that were popular during the golden age of Malay cinema in Singapore (1950s to 1960s) are dramatisations of a “horrific petromodernity” and its destruction of traditional ways of life.6
+In the essay “An Oily Mirror: 1950s *Orang Minyak Films* as Singaporean Petrohorror”, Yogesh Tulsi argues that films about the *orang minyak* (which means “oily man” in Malay) that were popular during the golden age of Malay cinema in Singapore (1950s to 1960s) are dramatisations of a “horrific petromodernity” and its destruction of traditional ways of life.6
 
-The orang minyak is described as a supernatural creature coated with shiny black grease who abducts young women at night, and is able to climb walls and evade capture due to its slippery surface. While seemingly based on Malay folklore, the first mention of orang minyak in local newspapers was in The Berita Harian in 1957.7
+The *orang minyak* is described as a supernatural creature coated with shiny black grease who abducts young women at night, and is able to climb walls and evade capture due to its slippery surface. While seemingly based on Malay folklore, the first mention of *orang minyak* in local newspapers was in *The Berita Harian* in 1957.7
 
-The figure was at first described to be covered in hair oil, and later coconut oil and soot, before its description coalesced into crude, black oil (as portrayed in the orang minyak movies), possibly in an “unconscious attempt to represent oil’s increasing ubiquity” at the time.8 Oil represents modernity and, by extension, the orang minyak represented the threat of modernity.
+The figure was at first described to be covered in hair oil, and later coconut oil and soot, before its description coalesced into crude, black oil (as portrayed in the *orang minyak* movies), possibly in an “unconscious attempt to represent oil’s increasing ubiquity” at the time.8 Oil represents modernity and, by extension, the *orang minyak* represented the threat of modernity.
 
 #### **Loss of Biodiversity**
-A popular theme in general science fiction is the loss of biodiversity. One of the best known examples is Philip K. Dick’s 1968 novel Do Androids Dream of Electric Sheep? (this novel became the basis for the cult 1982 movie Blade Runner). Likewise, large-scale extinction is also a recurring theme in Singapore speculative fiction.
+A popular theme in general science fiction is the loss of biodiversity. One of the best known examples is Philip K. Dick’s 1968 novel (Do Androids Dream of Electric Sheep?* (this novel became the basis for the cult 1982 movie *Blade Runner*). Likewise, large-scale extinction is also a recurring theme in Singapore speculative fiction.
 
 In Melissa De Silva’s short story “Blind Date” (2016), the extinction of local wildlife species parallels the extinction of Eurasians in a Singapore that relies on robots and where steel is used everywhere in place of natural materials. In this version of Singapore, the population census reports only two remaining Eurasians – 75-year-old Martin Desker and 66-year-old Gerald Pereira. Meanwhile, animals like the Sambar deer and the Raffles’ Malkoha (a species of bird) are implied to be extinct, appearing as holograms programmed to pop up at intervals and accompanied by audio commentary.9 (Sambar deer have been listed as a vulnerable species on The IUCN Red List of Threatened Species since 2008, so this scenario is not that far-fetched.10)
 
@@ -96,31 +96,31 @@ Through their prose, the writers ask the all-important question – “What if?�
 
 [^1]: Dictionary.com, LLC. (n.d.). *Speculative fiction*. Retrieved from Dictionary.com, LLC website.
 
-[^2]: Ho, O. (2017, May 2). Tall tales of Singapore take off. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^2]: Ho, O. (2017, May 2). [Tall tales of Singapore take off](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170502-1.2.52.1). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^3]: *The Straits Times*, 2 May 2017, p. 1.
+[^3]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170502-1.2.52.1)*, 2 May 2017, p. 1.
 
-[^4]: Nuraliah Norasid. (2018). *The gatekeeper*. Singapore: Epigram Books. (Ebook available from NLB OverDrive)
+[^4]: Nuraliah Norasid. (2018). *[The gatekeeper](https://nlb.overdrive.com/media/5BAD7407-5104-413F-9E38-601FDCF7AF70)*. Singapore: Epigram Books. (Ebook available from NLB OverDrive)
 
-[^5]: Lundberg, J.E. (Ed.). (2013–2018). *LONTAR: The Journal of Southeast Asian Speculative Fiction*. Singapore: Epigram Books. (Call no.: RSING 828.995903 LJSASF)
+[^5]: Lundberg, J.E. (Ed.). (2013–2018). *[LONTAR: The Journal of Southeast Asian Speculative Fiction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200149999)*. Singapore: Epigram Books. (Call no.: RSING 828.995903 LJSASF)
 
-[^6]: Tulsi, Y. (2020). An oily mirror: 1950s orang minyak films as Singaporean petrohorror (pp. 338–385). In M. Schneider-Mayerson (Ed), *Eating chilli crab in the Anthropocene: Environmental perspectives on life in Singapore*. Singapore: Ethos Books. (Call no.: RSING 304.2095957 EAT)
+[^6]: Tulsi, Y. (2020). An oily mirror: 1950s orang minyak films as Singaporean petrohorror (pp. 338–385). In M. Schneider-Mayerson (Ed), *[Eating chilli crab in the Anthropocene: Environmental perspectives on life in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204396426)*. Singapore: Ethos Books. (Call no.: RSING 304.2095957 EAT)
 
-[^7]: Wanita2 pindah takut orang minyak. (1957, October 12). *Berita Harian*, p. 1. Retrieved from NewspaperSG.
+[^7]: [Wanita2 pindah takut orang minyak](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19571012-1.2.14). (1957, October 12). *Berita Harian*, p. 1. Retrieved from NewspaperSG.
 
 [^8]: Tulsi, 2020, p. 341.
 
-[^9]: De Silva, M. (2016). Blind date. In J.E. Lundberg (Ed.), *LONTAR: The Journal of Southeast Asian Speculative Fiction*, (7), 39–51. (Call no.: RSING 828.995903 LJSASF)
+[^9]: De Silva, M. (2016). Blind date. In J.E. Lundberg (Ed.), *[LONTAR: The Journal of Southeast Asian Speculative Fiction](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200149999)*, (7), 39–51. (Call no.: RSING 828.995903 LJSASF)
 
 [^10]: Established in 1964, The IUCN (International Union for Conservation of Nature) Red List of Threatened Species has become the world’s most comprehensive information source on the global extinction risk status of animal, fungus and plant species, and is a critical indicator of the health of the world’s biodiversity.
 
-[^11]: De Silva, 2016, p. 40.
+[^11]: [De Silva](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200149999), 2016, p. 40.
 
-[^12]: Ng, Y.-S. (2019). *Lion city* (pp. 16–33). Singapore: Epigram Books. (Ebook available from NLB OverDrive)
+[^12]: Ng, Y.-S. (2019). *[Lion city](https://nlb.overdrive.com/media/4757900)* (pp. 16–33). Singapore: Epigram Books. (Ebook available from NLB OverDrive)
 
-[^13]: Chow, C. (2017). Welcome, 265 aggregate scorers. In J.E. Lundberg (Ed.), *LONTAR: The Journal of Southeast Asian Speculative Fiction*, (8), 79–95. (Call no.: RSING 828.995903 LJSASF)
+[^13]: Chow, C. (2017). Welcome, 265 aggregate scorers. In J.E. Lundberg (Ed.), *[LONTAR: The Journal of Southeast Asian Speculative Fiction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200149999)*, (8), 79–95. (Call no.: RSING 828.995903 LJSASF)
 
-[^14]: Hassan Hassaa’ree Ali. (2013). Doa.com (pp. 10–15). In *Selamat malam, Caesar*. Singapura: Akademi Anuar Othman. (Call no.: Malay RSING 899.283 HAS)
+[^14]: Hassan Hassaa’ree Ali. (2013). Doa.com (pp. 10–15). In *[Selamat malam, Caesar](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200333503)*. Singapura: Akademi Anuar Othman. (Call no.: Malay RSING 899.283 HAS)
 
 [^15]: The Centipede Collective. (2012).  Chapter 28: Energy. In J.E. Lundberg (Ed.), *Fish eats lion: New Singaporean speculative fiction*. Singapore: Math Paper Press. (Call no.: RSING S823 FIS)
 
