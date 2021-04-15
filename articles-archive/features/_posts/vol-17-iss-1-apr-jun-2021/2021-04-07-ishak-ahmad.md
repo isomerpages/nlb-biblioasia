@@ -23,8 +23,8 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/ishak-ahmad/malayfisherman.jpg">
-A Malay fisherman casting his net, 1954. By the 1930s, it was estimated that Japanese companies controlled more than 50 percent of the fish supply in Singapore, threatening the livelihoods of local fishermen. <i>Courtesy of National Archives of Singapore</i>.
+<img src="/images/Vol-17-issue-1/ishak-ahmad/ishakahmad.jpg">
+Ishak Ahmad, 1960s. A senior officer in the Fisheries Department, he was also the father of the first president of Singapore, Yusof Ishak. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
 Most people in Singapore know of Yusof Ishak, the former journalist and politician who became the country’s first president. However, less well known is the fact that his civil servant father, Ishak Ahmad, was also a significant figure in the history of Singapore and Malaya.
@@ -34,6 +34,12 @@ Ishak spent 27 years in the Fisheries Department and worked his way up to its hi
 However, it was perhaps his work on behalf of the fishermen of Singapore and Malaya that he is best remembered for. During his long career with the Fisheries Department, Ishak acquired a vast knowledge of the many kinds of fish found in Malayan waters and this information helped the government understand where and when economically important species could be found. He was also passionate about helping local fishermen, and did so both directly and indirectly. In fact, at a 1939 event honouring him after he had been awarded the medal, Ishak described himself as a “servant of the public, particularly that public which comprised the fishermen”.[^2]
 
 Ishak’s knowledge of Malayan fishes and their habitats – and the economic lives that both supported – played a key role in shaping the process of urban and social change in interwar Singapore and Malaya. And the legacy of Ishak’s biodiversity knowledge has figured prominently in the publication of important environmental works such as *An Introduction to the Sea Fishes of Malaya* (1959).[^3]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/ishak-ahmad/yusofishak.jpg">
+Ishak Ahmad (left) with his son, Yusof Ishak, the first president of Singapore, 1960s. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore</i>.
+</div>
 
 #### **Malaya’s Edible Ocean**
 Fish consumed as food powered the rise of urban Singapore, with the surrounding  seas, reefs and estuaries feeding Malaya’s economic transformation and its concurrent environmental and demographic changes from the late 19th century to the end of the interwar period. For the nearly 30 million Indian and Chinese workers who came to Singapore and the region to tap rubber, extract tin, move cargo in and out of ports, open shops and ply the streets, fish was an essential source of protein.[^4] Seafood was also a major component of the local Malay community’s daily meal, with products such as *ikan bilis* (anchovy) and *belachan* (shrimp paste) crucial ingredients in many home-cooked dishes.
@@ -67,6 +73,13 @@ After the advent of *muro ami* fishing, though, *ikan delah* became a cheap and 
 
 Japanese fishing companies began contributing to the supply of fish in Malaya. By the 1930s, for example, it was estimated that Japanese companies controlled more than 50 percent of Singapore’s  fish supply.[^16] On seeing how these Okinawan fishermen and their operations upended the livelihoods of local fishermen, Ishak saw an opportunity to help them.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/ishak-ahmad/malayfisherman.jpg">
+A Malay fisherman casting his net, 1954. By the 1930s, it was estimated that Japanese companies controlled more than 50 percent of the fish supply in Singapore, threatening the livelihoods of local fishermen. <i>Courtesy of National Archives of Singapore</i>.
+</div>
+
+
 #### **From Kuala Trong to Singapore** 
 Born in 1887 in Kuala Trong, Perak, a mangrove-rich estuarine village north of Kuala Lumpur and about 15 km from the Chinese mining town of Taiping, Ishak entered the colonial government service as a Malay Clerk in the District Office in Taiping in 1906 before joining the Fisheries Department in 1914.[^17]
 
@@ -75,12 +88,6 @@ Growing up by a river in Kuala Trong, Ishak became deeply anchored in a world of
 As early as the 1890s, Malaya’s rubber boom was transforming Perak. Among other things, this commodity expanded the reach of colonial development. New roads were built, new rail tracks were laid, forests were cleared and migrants were recruited to work on newly planted rubber estates. At the same time, Perak’s tin industry was on the rise but so was the runoff that flowed from the mines around Larung and Matang downstream into the waters near Kuala Trong.[^18] Ishak came to see how fish was not only the heartbeat of Malay life – because they were free to catch and abundant – but also how their availability could change and, in the process, jeopardise the livelihoods  of residents in places such as Kuala Trong.
 
 In 1923, Ishak and his young family moved from Perak to Singapore, where he was appointed as a Senior Fishery Officer with the Fisheries Department. This relocation would prove transformative, both in terms of Ishak’s career and his political work. It also meant new opportunities for his children. For Ishak, however, the question of Singapore’s fish supply loomed large because it was increasingly unclear how local fishermen were to figure within Malaya’s rapidly changing protein economy.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/ishak-ahmad/ishakahmad.jpg">
-Ishak Ahmad, 1960s. A senior officer in the Fisheries Department, he was also the father of the first president of Singapore, Yusof Ishak. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore</i>.
-</div>
 
 Interwar Singapore was a city on the move, a city on the rise. But at the heart of these urban and demographic changes was an island society wholly dependent on the mass provision of fish. In 1900, Singapore’s population was 228,000. By 1940, this figure had grown to 680,000, making Singapore the second largest city in terms of population in Southeast Asia, behind Bangkok. Critical to feeding the hungry city were the Japanese fishermen, more specifically the Okinawans, who controlled Malaya’s supply of fresh sea fish. The head of this expatriate fishing community was Tora Eifuku, a scientist who had arrived in Singapore in 1914 as part of a Japanese fisheries expedition that sought not only to survey the food potential of Malayan waters, but also to establish Japanese fishing companies in the colonial port city.
 
@@ -139,12 +146,6 @@ Ishak Ahmad founded a Malay school on Pulau Sudong for the children of the islan
 </div>
 
 But even in retirement, Ishak’s life remained intertwined with the story of Malayan waters. A closer look at the year 1959 reveals this intimate connection. In that year, Ishak’s eldest son, Yusof, was appointed Yang di-Pertuan Negara (Head of State) after Singapore was granted internal self-government. Another son, Abdul Aziz, who once worked in the Fisheries Department before the war, was the Federation of Malaya’s first Minister for Agriculture, a post he held from 1955 to 1963. As minister, Abdul Aziz oversaw the management of inshore and offshore fisheries – much like his father did in the 1930s.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/ishak-ahmad/yusofishak.jpg">
-Ishak Ahmad (left) with his son, Yusof Ishak, the first president of Singapore, 1960s. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore</i>.
-</div>
 
 It was under Abdul Aziz that the Ministry of Agriculture published *An Introduction to the Sea Fishes of Malaya* (1959). This publication recognised Ishak’s “wealth of knowledge and experience” as a cultural and scientific repository borne from his lifelong association with Malayan waters. Prior to its publication, Ishak had “consented to examine the manuscript and made many valuable comments which have been incorporated in the finished work” as the foreword notes.[^41]
 
