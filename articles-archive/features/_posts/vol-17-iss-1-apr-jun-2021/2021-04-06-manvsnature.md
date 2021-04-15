@@ -50,7 +50,7 @@ In addition to the efforts of individual writers, there have also been local pla
 #### **Oil and Petrohorror**
 While one might think that speculative fiction in Singapore has only recently begun dealing with environmental issues, there are examples that go back to the immediate post-war years.
 
-In the essay “An Oily Mirror: 1950s *Orang Minyak Films* as Singaporean Petrohorror”, Yogesh Tulsi argues that films about the *orang minyak* (which means “oily man” in Malay) that were popular during the golden age of Malay cinema in Singapore (1950s to 1960s) are dramatisations of a “horrific petromodernity” and its destruction of traditional ways of life.[^6]
+In the essay “An Oily Mirror: 1950s *Orang Minyak* Films as Singaporean Petrohorror”, Yogesh Tulsi argues that films about the *orang minyak* (which means “oily man” in Malay) that were popular during the golden age of Malay cinema in Singapore (1950s to 1960s) are dramatisations of a “horrific petromodernity” and its destruction of traditional ways of life.[^6]
 
 The *orang minyak* is described as a supernatural creature coated with shiny black grease who abducts young women at night, and is able to climb walls and evade capture due to its slippery surface. While seemingly based on Malay folklore, the first mention of *orang minyak* in local newspapers was in *The Berita Harian* in 1957.[^7]
 
