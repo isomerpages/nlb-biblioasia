@@ -65,15 +65,15 @@ Animals were also used as a form of entertainment. Shown here is a group of Euro
 #### **Legislating the Protection of Wildlife**
 Legislation to protect wildlife in the Straits Settlements dates back to 1884, when the Wild Birds Protection Ordinance was passed. The Wild Animals and Birds Protection Ordinance issued in 1904, which superseded the 1884 legislation and now included animals, vested the government with the power to declare closed seasons for hunting certain wildlife. These laws, however, only prohibited hunting and did not address the inherent problems related to the trade in non-indigenous wildlife. Only after pressure from officials in the Dutch East Indies and London did the Straits Settlements government take action to implement legislation protecting non-native species.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/beastly/investigate.jpg">
-Chop Joo Soon Hin at 532 North Bridge Road was one of the shops that the 1933 Wild Animals and Wild Birds Committee investigated. The shop was frequented by American animal dealers. <i>Image reproduced from Buck, F.H.. (1922, August). A Jungle Business. Asia: The American Magazine of the Orient, 22 (8), 633–638</i>.
-</div>
-
 Between 1918 and 1925, practically all the wild animals exported from the Dutch East Indies made their way into Singapore, with the percentage never dipping below 80 percent. In addition to live animals, Singapore was also the principal port of destination for products derived from wild animals, such as rhinoceros horns, ivory, antlers, feathers and animal skins.[^14]
 
 In 1928, Karel Willem Dammerman, Director of the Zoological Museum in Buitenzorg (now Bogor) and Chairman of the Netherlands Indies Society for the Protection of Nature, wrote to Carl Boden Kloss, Director of the Raffles Museum, to enquire if the latter could help stop the illegal importation of orangutans into Singapore. Willem Daniels, Consul-General for the Netherlands, followed up with an official letter in 1929 when he asked that Singapore “consider the desirability of legislative action prohibiting the importation into the Colony of orangutans”.[^15]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/beastly/privatezoo.jpg">
+Orangutans out for a ride at the Punggol Zoo owned by William Lawrence Soma Basapa, c. 1930s. Such private zoos were exempted from scrutiny and investigation by the 1933 Wild Animals and Wild Birds Committee. <i>Courtesy of the National Heritage Board</i>.
+</div>
 
 In response, the British colonial government passed laws to limit wildlife trade. During the first reading of the proposed Wild Animals and Birds (Amendment) Bill in the Legislative Council meeting on 24 March 1930, which sought to prohibit the unlicensed importation of orangutans, Attorney-General Walter C. Huggard said that the “object of this amending Bill… is to enable this Government to co-operate with the Government of the Netherlands East Indies”.[^16] By 1933, the list of animals and birds prohibited for importation from the Dutch East Indies under the Schedule of the Wild Animals and Birds Ordinance had increased to 28 species from just the solitary orangutan previously.[^17]
 
@@ -102,12 +102,6 @@ The committee’s terms of reference were to inquire and report on the retail tr
 
 The scope of the committee’s investigations was limited to businesses such as the Asian animal traders on Rochor Road, which had been the subject of “much adverse criticism… in the local press”. Although private zoos such as those owned by Herbert de Souza on East Coast Road and William Basapa in Punggol were mentioned, these were considered “beyond the scope of small retail traders”.[^25]
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/beastly/privatezoo.jpg">
-Orangutans out for a ride at the Punggol Zoo owned by William Lawrence Soma Basapa, c. 1930s. Such private zoos were exempted from scrutiny and investigation by the 1933 Wild Animals and Wild Birds Committee. <i>Courtesy of the National Heritage Board</i>.
-</div>
-
 The committee’s focus on the Rochor Road shops and the conspicuous absence of foreign animal dealers mirrored the government’s discriminatory attitudes towards non-Europeans involved in the business. Unlike the Rochor Road traders, the committee believed that private zoo proprietors such as de Souza and Basapa and foreign animal dealers like Buck did not ill-treat their animals, and hence excluded them from specific scrutiny and investigation. To support this, the report cited Government Veterinary Surgeon George Rocker, who said that “the *bona fide* agent and dealer in wild animals for zoological gardens and collectors usually carrie[d] on his business in a satisfactory manner… [because] the high monetary value of his stock for an animal kept under unfavourable conditions rapidly depreciates in marketable worth”.[^26]
 
 This assumed distinction between “bona fide” agents and “unscrupulous” Asian animal traders, however, reflected the committee’s personal biases rather than reality. One of the shops the committee took to task was Chop Joo Soon Hin, operating at 532 North Bridge Road and mentioned in Frank Buck’s *Bring ’Em Back Alive* as a key local animal shop frequented by American wildlife dealers.[^27] As a supplier to well-known animal dealers, it is difficult to imagine how the proprietor of Chop Joo Soon Hin could not be considered a bona fide agent who was aware of the value of his animals.
@@ -119,6 +113,12 @@ The *Report of the Wild Animals and Wild Birds Committee* cited how Asians attem
 The committee easily picked apart this argument by pointing out that the Asian shopkeepers neglected the welfare of other animals in their perhaps misplaced concern for the canaries which, after all, did not seem to experience any severe effects from exposure to strong winds.[^30] Positioning the welfare of the birds as a central argument showed a creative, but unfortunately unsuccessful, attempt by Asian dealers at pushing back.
 
 The committee made four broad recommendations: construct a central market for the sale of animals; restructure the system of authority overseeing the wildlife trade by placing it under the governance of a central Malaya-wide body; refine legislations to prosecute smugglers of wildlife; and issue licences for the importation of protected species of wildlife and the operation of private zoos in Singapore.[^31]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/beastly/investigate.jpg">
+Chop Joo Soon Hin at 532 North Bridge Road was one of the shops that the 1933 Wild Animals and Wild Birds Committee investigated. The shop was frequented by American animal dealers. <i>Image reproduced from Buck, F.H.. (1922, August). A Jungle Business. Asia: The American Magazine of the Orient, 22 (8), 633–638</i>.
+</div>
 
 #### **The Reluctance to Regulate**
 Despite favourable public opinion lauding the formation of the Wild Animals and Wild Birds Committee, none of the report’s recommendations were subsequently implemented.
