@@ -19,261 +19,149 @@ table {
 </style>
 
 
-#### What lies in this vale of tiers? **Christopher Tan** delves into *lapis legit*, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers. 
+#### Manmade climate change is usually seen as a modern phenomenon. In fact, rising temperatures as a result of rampant deforestation were already evident in Singapore two centuries ago, says **Chia Jie Lin**.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-1/deforestation/junglefire.jpg">
-The author’s home-made <i>kueh lapis legit</i>. This is an iconic cake for Indonesians, Malays and the Peranakan Chinese. <i>Courtesy of Christopher Tan</i>.
+This print titled “Jungle Fire Near Bukit Timah” (1876) by Austrian diplomat and naturalist Eugen von Ransonnet-Villez was published in his <i>Skizzen aus Singapur and Djohor (Sketches: Singapore and Johor)</i> in 1876. The burning of vast swathes of primary forest to clear the land for crop cultivation was a familiar sight in 19th-century Singapore. <i>Image reproduced from Ransonnet-Villez, E. (1876). Skizzen aus Singapur and Djohor. Braunschweig: Druck und Verlag von George Westermann. Retrieved from BookSG. Collection of the National Library, Singapore. (Call no.: RRARE 959.51 RAN; Accession no.: B03013662J)</i>.
 </div>
 
-When I was young, *kueh lapis legit*[^1] would announce its presence in my family kitchen long before anyone got to taste it. The first portent was the careful shepherding of precious bottles of spice powders and brandy. The next sign was the buying of many eggs and much butter. On baking day, the kitchen thrummed with signals: the loud rhythm of batter vigorously beaten; the steady cadence of spread batter thinly, grill it until brown, press out bubbles, brush with butter, then repeat; and the rippling scent-waves of sizzling butter and caramelising crust. Anticipation ran at a fever pitch, or perhaps that was just the heat nimbus of our Baby Belling oven.
+The year was 1873 and Singapore’s wells had almost run dry. The Impounding Reservoir (present-day MacRitchie Reservoir) on Thomson Road, a major source of potable water and completed six years earlier, failed to carry water to the town because water levels had dropped to extremely low levels.1 Water was so scarce that the poor resorted to drinking filthy canal water, exacerbating the cholera epidemic that killed at least 448 people that year.2
+
+How did this situation come to be? In the decades following the arrival of the British in 1819, vast swathes of primary forest were cleared for the planting of cash crops such as gambier and pepper, leading to the mass displacement and extinction of native flora and fauna. The rampant deforestation brought about unprecedented ecological effects – including water scarcity.
+
+#### **Cultivating the Colony**
+The dissolution of the Dutch East India Company at the turn of the 19th century created new opportunities for the British to challenge the commercial dominance of the Dutch in the East Indies (present-day Indonesia). Men like Stamford Raffles and William Farquhar arrived in search of new colonies. The tropical climate of Malaya was seen as conducive for the cultivation of spice plantations, which the British sought to fashion after the Dutch-controlled Moluccas (Maluku).3
+
+“The rain falling here in showers throughout the year, and not confined to one season, gives a perpetual verdure to vegetation, cools the surface of the earth,” wrote surgeon Robert Little in an essay published in *The Journal of the Indian Archipelago and Eastern Asia* in 1848.4 Raffles and Farquhar had envisioned Singapore as a spice island and were keen to develop commercial plantations of spices and other crops for trade and profit.
+
+In 1822, Raffles and Nathaniel Wallich, a Danish surgeon and naturalist who had previously been Superintendent of the Royal Gardens in Calcutta, India, established a  botanical garden on Government Hill (now Fort Canning Hill) for the “experimental cultivation of the indigenous plants of Singapore” such as nutmeg and cloves.5 The island’s European and Chinese residents followed suit, and attempted to grow nutmeg until an infestation in the 1850s and 60s decimated the nutmeg plantations.6
+
+It was pepper and gambier plantations, however, that were the main drivers behind the large-scale clearing of inland primary forests on the island. The cultivation of these two crops had begun in late 18th-century Singapore with the arrival of Teochew planters. After fleeing Chinese clan wars on the Riau islands, they settled in remote river estuaries across Singapore and began planting gambier and pepper alongside Malay planters.
+
+In his correspondences with Raffles’ Acting Secretary L. Nelson Hull in 1822, Resident and Commandant of Singapore William Farquhar wrote that Temenggong Abdul Rahman had granted “various Malays and Chinese” permission to clear the ground for plantations. Farquhar further reported that some 20 plantations were already present in Singapore when he first arrived with Raffles in 1819.7
+
+The founding of a free port on the island transformed the regional market for gambier, causing the centre of trade to shift from Riau to Singapore. Fuelled by their displeasure with rising Dutch taxes in Riau, Chinese planters also began migrating en masse from Riau to Singapore to trade and cultivate gambier.8
+
+These planters brought with them their practice of shifting cultivation, in which primary forest was cleared to cultivate crops. When the soil became exhausted of nutrients, usually by the 15th year of production, and timber and firewood supplies nearby became scarce, these farmers moved onto new virgin land.9 Joseph Balestier, the first American Consul to Singapore, compared the pepper and gambier planter to a “locust”, leaving “a tract of desolation behind him”.10
+
+From 1835 to the 1890s, Singapore was a major production centre for gambier, the cultivation of which afforded employment opportunities for Chinese immigrants – either as plantation owners who became *kangchu* (港主; headman or literally “lord of the river”) or labourers. Most of the immigrants ended up in the latter category.
+
+In the 1830s, the relocation of the gambier market from Riau to Singapore, as well as the lifting of trade tariffs on gambier, encouraged extensive cultivation.11 As a result, by the late 1840s, large expanses of primary forest in Singapore had been indiscriminately cleared and there were some 400 pepper and gambier plantations across the island. The highest recorded land area for cultivated gambier was 24,220 acres in the 1850s, while that for cultivated pepper amounted to 2,614 acres in the same decade.12 By 1855, Singapore was home to an estimated 12.5 million gambier trees and 1.5 million pepper vines in over 540 documented plantations – 27 times more than the estimated 20 plantations that existed on the island a little over three decades ago.13
+
+These plantations were not merely land-intensive, but also timber-intensive. Trees were felled for timber, fuel and charcoal in gambier-producing factories, resulting in the widespread disappearance of dipterocarp primary forests (lowland rainforest on dry land) and freshwater swamp forests.
+
+In his 1883 *Report on the Forests of the Straits Settlements* that led to the demarcation of Singapore’s first forest reserves and the creation of a Forest Department,14 Nathaniel Cantley, then Superintendent of the Singapore Botanic Gardens, wrote that small areas of cultivated land known as *bangsal* (Malay for a “shed” or “lean-to shelter”) typically used up approximately 2,500 pounds of timber per day for pepper kilns and boiling gambier. These *bangsal* served as dwellings for the labourers and a place where they could prepare gambier. Over time, the area of land deforested for firewood for a plantation would have been equivalent to the size of the corresponding plantation itself.15
+
+#### **Environmentalism Takes Root** 
+Environmental studies by British colonial officials first emerged out of efforts to better understand and govern their colonies in Southeast Asia to maximise commercial agricultural output.16 Such studies focused on areas such as native plant and animal species, tropical diseases and meteorological observations; the latter involved measurements of rainfall, atmospheric pressure, and air and earth temperatures.
+
+In the 19th century, meteorological explorations served many functions within the British Empire. The British Association for the Advancement of Science and the Royal Society sought to advance “the science of terrestrial magnetism”, which was of great importance to the empire’s maritime interests. Meanwhile, medical officers in the colonies recorded temperatures and air pressures to study the relationship between tropical climates and the incidence of diseases.17
+
+However, scientific concerns regarding the environmental impact of deforestation can be traced to 17th-century European academic circles. In 1664, landscape architect John Evelyn, known as one of Britain’s first environmentalists, published *Sylva, or A Discourse of Forest-Trees, and the Propagation of Timber*18 under the newly established Royal Society. Evelyn argued that the extensive growth of glassworks, iron industries and shipbuilding – all of which were heavy in timber usage – threatened the forests of Britain. Such concerns, coupled with the environmental costs of deforestation, continued into the next century and, by the early 1800s, had become an established domain for scientific study.
+
+Scientists working in Europe and America linked extensive forest clearance for agriculture to climatic issues such as lower rainfall and higher water evaporation rates, the latter due to the lack of tree cover. The Prussian polymath and naturalist Alexander von Humboldt, who investigated the relationship between deforestation and climatic change in the New World and Central Asia, warned in 1849 that “by felling trees which cover the tops and sides of mountains, men in every climate prepare at once two calamities for future generations – the want of fuel and the scarcity of water”.19
+
+Adverse climatic effects were similarly felt in the wake of mass deforestation across British colonies in Southeast Asia. By the mid-19th century, colonial officials and foresters in the Straits Settlements began to attribute these environmental changes to widespread deforestation.20 
+
+In an 1848 essay on the “probable effects” of unchecked land clearance on Penang’s climate published in *The Journal of the Indian Archipelago and Eastern Asia*, James Richardson Logan, the editor of the journal, wrote: “Nature when left to herself provides a compensatory influence in the dense leafy forests, but if these are consigned to destruction, every successive drought will prove more baneful than the preceding.” In the same report, Logan observed that Singapore’s governor had forbidden “the further destruction of forest on the summit of hills”, likely to ameliorate destructive effects like erosion, siltation and even flood-induced famines.21
+
+Among the earliest observers of this “destruction of forest” on Singapore’s hilltops was naturalist Alfred Russel Wallace, renowned for his discovery of the theory of evolution. Wallace first arrived in Singapore on 20 April 1854 to collect bird and insect specimens and Bukit Timah soon became a favourite hunting ground.
+
+In a letter dated 9 May 1854, Wallace wrote: “Here portions of the forest, which originally covered the whole island, and which is rapidly disappearing, still exists, and it is in them that I find my only good hunting-grounds.” He further remarked that Bukit Timah offered a “good view” of the island’s rapidly proliferating pepper and gambier plantations and “it is apparent that but few years can elapse before the whole island will be denuded of its indigenous vegetation, when its climate will no doubt be materially altered (probably for the worse), and countless tribes of interesting insects become extinct”.22
+
+Wallace’s predictions were realised. By the turn of the 20th century, some 90 percent of Singapore’s primary forest cover had been lost. Timber resources had become so scarce that planters struggled to find even simple wooden stakes to support gambier and pepper vines. Hundreds of square kilometres of abandoned pepper and gambier plantations had become secondary forest (*belukar*), invaded by lalang and brushwood that were dry and easily flammable. Forest fires broke out so frequently, especially during prolonged dry weather, that the Forest Department began experimenting with planting new species like the *Syzygium grande* (sea apple) and *Gluta rengas* trees along the forest edges to act as fire breaks.23
+
+Another consequence was that the temperature in the town centre began to increase. In his study of temperature readings of Singapore made by officers of the East India Company, John Turnbull Thomson, Government Surveyor of the Straits Settlements, observed that the temperature of Singapore town and its surrounding areas had increased by 2.48 °F (1.38 °C) in just two decades from the early 1820s to 40s. 
+
+Thomson suggested that the temperature increase was caused by “the country within 3 miles of the town being now clear of jungle and cultivated, which formerly was covered with primeval forest”.24 Europeans settlers in Singapore’s urban core sought respite from the heat of the town by retreating to the jungle, coastal or hillside bungalows, which afforded breezy and cooler surroundings.
+
+“By resorting to the neighbourhood of the jungle a degree at least of reduction in the temperature may be secured. In such places as Selita [Seletar]… lying well in the interior, and with the primeval forest all around them, the additional coolness is palpable, and cannot be less than two or three degrees,” wrote John Cameron in *Our Tropical Possessions in Malayan India*.25
+
+Such observations and accounts illustrate what we know today as the urban heat island effect – a phenomenon where cities with little greenery have warmer temperatures than rural, forested areas, due to their dense concentration of pavements and buildings that absorb heat.26 
+
+#### **Dry Wells and Droughts**
+One key casualty of deforestation was Singapore’s rapidly diminishing water supply. The destruction of much of the island’s mangroves, freshwater swamps and streams, and other natural water bodies meant the loss of crucial water sources for consumption, plantation agriculture, sanitation and other municipal needs.27
+
+In 1879, Colonial Engineer and Surveyor-General John Frederick Adolphus McNair was tasked by Colonial Secretary Cecil Clementi Smith to investigate the state of natural forests in the Straits Settlements, partly to seek “conclusions… as to the climatic influence of forests or the effect of their clearances on the rainfall”. Although the island had been “greatly denuded of trees”, McNair found that there was “no marked diminution” in the volume of rainfall in Singapore.28
+
+However, in his 1883 report on deforestation, Cantley wrote that a decrease in forested areas “economises the water supply” – an indirect reference to a cyclic relationship between rainfall and forest density.29 He also noted that experiments conducted outside Singapore had revealed that greater tree cover and shade led to higher rainfall, as “accounted for by the fact that when a cloud containing vapour comes in contact with the cool air over the forest or woodland, contraction takes place, the aqueous particles are forced together and fall in the shape of rain”.30 The same experiments found that bare, deforested land was not conducive to cloud formation, thus bringing no rain.
+
+Such environmental effects continued to be hotly debated in European academic circles. Colonial Treasurer Allan Skinner remarked that while some believed that the loss of timber had “diminished the supply of rain”, this theory was dismissed by others who cited continued rainfall patterns and the difficulties of ascertaining localised climate effects.31 While widespread global deforestation would certainly have a knock-on effect on the climate around the world, colonial administrators and writers believed that it was unlikely that, given Singapore’s diminutive size, deforestation here would have an immediate impact on rainfall patterns in the region.
+
+That said, Singapore was struck by droughts several times – in 1842, 1849, 1855 and 1864 – typically due to the dry season lasting from February to March each year.32 These took on an increased intensity in the latter years of the 19th century. “Singapore was suffering badly from want of water, the season was unusually dry,” wrote medical assistant J.J.L. Wheatley in 1885 in the* Journal of the Straits Branch of the Royal Asiatic Society* regarding the abject conditions of the 1873 drought. “Nearly all the wells such as they were – many being mere pits a few feet deep without any protective wall – had almost run dry.”33
+
+Another prolonged drought hit the island in 1877, causing fruit and rice harvests to fail and the loss of plant species under cultivation in the Singapore Botanic Gardens.34 We now know that this drought was brought about by the global El Niño Southern Oscillation, which is the unusual warming of ocean surfaces in the eastern tropical Pacific Ocean.35 Although the phenomenon was unknown then, such periodic El Niño (“the little boy” in Spanish) events resulted in lower rainfall in Southeast Asia and other parts of the world in the mid 1800s.
+
+The poor water provisions in Singapore exacerbated the effects of both global and local climatic changes on the local population. The poor were hardest hit by droughts, and intermittent cholera outbreaks continued to devastate the population throughout the 1870s. A *Straits Times* article dated 5 May 1877 reported that people living in villages “are dying off like flies”, due to the lack of a reliable potable water supply.36
+
+These deadly droughts underscored the poor provision of waterworks by municipal authorities, and the increasing pressure on limited water resources as the population expanded and urban sprawl increased. Demand for water soared from new industries such as “the Docks and Wharves at Telok Blanga[h] and New Harbour and from suburban districts like Mount Elizabeth and Orchard Road and Chinese streets like Havelock Road, Chin Swee Road and Kelang [Kallang] Road”.37
+
+A municipal notice dated 26 March 1885 declared limits on the supply of water to town due to “the protracted drought and increasing scarcity of water”.38 In the meteorological report for 1885, Thomas Irvine Rowell, Principal Civil Medical Officer of the Straits Settlements, reported a “long drought” in March, a “somewhat dry” August and an “unusually dry” October.  He wrote that there was “little doubt” that “forest desiccation” – an archaic expression for “destruction” – influenced rainfall, but like Skinner found it difficult to ascertain the exact effects of extensive forest clearing on rainfall in Singapore.39
+
+Within a mere eight decades, the deforestation of Singapore’s primary forests for agricultural purposes and commercial profit had brought about unprecedented ecological destruction. An island once described as being “covered with the mighty forest trees” had been degraded into a lalang wasteland, beset by water shortages and forest fires.40 Such developments were catastrophic not only for flora and fauna, but also imperilled the humans living on the island, especially the impoverished who had limited access to clean water.
+
+By the end of the 19th century, colonial administrators sought to ameliorate the environmental devastation and combat climatic changes in the Straits Settlements. To this end, they established forestry programmes in the 1880s and 90s to encourage the sustainable consumption of nature. In Singapore, these included gazetting the interior reserves of Sembawang, Mandai, Chan Chu Kang (later renamed Nee Soon Village) , Bukit Panjang and Ang Mo Kio, with the goal of protecting streams and water supplies like the Impounding Reservoir.
+
+Despite this, Singapore’s water precarity continued into the early years of the 20th century. Increasing water pressures became so severe that the municipal authorities limited the daily supply of water to the town to a mere three hours per day in 1895 and two hours per day in 1902.41 By 1900, the average supply of water per day had swelled to four million gallons, with the number estimated to rise to 6.5 million gallons by 1910.42
+
+Environmental discourse from the 17th to 19th centuries contains early theories on the phenomenon we now know today as disruptions to the global water cycles (or movement of water in the atmosphere), most likely exacerbated by human destruction of the environment and climate change. With the progress of science, scientists can now attribute droughts to mass deforestation, with some postulating that severe droughts across the world will soon be inevitable, should mass deforestation of areas like the Amazon continue.43
+
+The relationship between forests and the climate is complex. A look at the environmental history of Singapore can offer a window into how nature in the 19th century was an object of consumption, and how this unhindered exploitation of natural resources devastated the environment and those who lived within it. These are lessons that remain relevant today.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/FreshBakedLapis.jpg">
-Pressing a freshly baked <i>lapis legit</i> layer to flatten and smoothen it, and spreading batter for the next layer. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-*Kue lapis legit* and its sister confection *spekkoek* (more of that sisterhood later) are iconic cakes for Indonesians, Malays – especially those with some Javanese heritage – and Peranakan Chinese. Major festivals such as Hari Raya and the Lunar New Year would not be complete without tables graced by these tiered touchstones. These communities have roots and branches in the milieus of maritime Southeast Asia’s Dutch colonial era, which saw the flowering of many hybrid foodways. “Most of us who live in cities known for rich colonial history, like Jakarta, Palembang, Bangka, Semarang, Surabaya and Bandung, are familiar with *lapis legit* and *spekkoek* as [legacies of] Dutch influence,” says Indonesian food writer, author and restaurant pundit Kevindra Soemantri.[^2]
-
-Modern makeovers have spawned a multiplicity of *lapis* varieties – patterned in bright colours; flavoured with fresh or dried fruit, cheese or coffee or chocolate; rolled up into logs; or carved and rearranged like intricate marquetry. A comprehensive 1986 Indonesian recipe book, *Hidangan Ringan: Party Snacks*, includes 11 different variations on the theme, to the tune of *cempedak*, durian, mocha and more.[^3] However, the classic version remains the most revered incarnation: a soft, rich European-style butter cake infused with spices native to the Indonesian Archipelago, cooked one layer at a time under a hot grill.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/ModernRolledLapis.jpg">
-A modern rolled variation of <i>kue lapis legit</i> with a flower-shaped cross-section. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-#### **Peeling Back the Years**
-
-Trawling through vintage recipes, I found that this basic template has persisted with little alteration for well over a century. The only major differences between old and modern recipes are the heat source – formerly charcoal, these days usually an electric oven element – and the now-frequent addition of condensed milk and/or milk powder to the batter, perhaps to mimic the stronger flavours and higher protein content of yesteryear’s imported butter.
-
-The Spekkoek (Kwee Lapies) recipe in the 1895 book, *Recepten Van De Haagsche Kookschool* (*Recipes from The Hague Cooking School*), is fully consonant with modern recipes, albeit its “65 cloves” might be a bit much for most of us today. It directs the cook to cream butter, sugar, eggs and flour into a batter “in the usual way”, flavour it with very finely ground spices, bake it in layers, smearing butter over each layer when it is done, and finally to store the cake in a tightly sealed tin, where it will keep for “a long time”.[^4]
-
-The 1925 *Groot Nieuwe Volledig Oost-Indisch Kookboek* (*Great New Complete East Indies Cookbook*)[^5] collates three *spekkoek* recipes in its *inlandsche bakken* (native baking) chapter. One of them has only three thick sponge cake layers, baked individually and then sandwiched with “some sort of jelly” – we know this style today as *kue lapis surabaya, koningskroon* (“king’s crown cake” in Dutch) or *bahulu lapis*.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/GrootNieuwe.jpg">
-Title page of <i>Groot Nieuwe Volledig Oost-Indische Kookboek</i>, published in 1925. It contains nearly 1,400 recipes, including three <i>spekkoek</i> recipes in its <i>inlandsche bakken</i> (native baking) chapter. <i>Image reproduced from van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great New Complete East Indies Cookbook]. Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings)</i>.
-</div>
-
-The other two *inlandsche* recipes are classic *spekkoek*, and both require “two persons… two skillets… two deep bowls… two wicker brooms or egg beaters” (see text box below) to wrangle one plain white batter and one spiced brown batter, baked in alternating layers. Their formulas otherwise differ: one rests on copious butter and flour, plus cloves, cardamom, cinnamon, nutmeg and mace; the other is more egg-rich, and omits nutmeg and mace but includes crushed *ang-khak*,[^6] or Chinese red yeast rice. This last item is especially intriguing given Soemantri’s observation that *lapis legit* spice blends are “similar to Chinese five-spice… there is a *lapis legit* recipe that uses fennel also”.[^7]
-
-|**BEAT 16 EGG YOLKS… FOR ONE HOUR**|
-
-|The following is a 1925 recipe for *spekkoek* from *Groot nieuw volledig Oost-Indisch kookboek* (*Great New Complete East Indies Cookbook*), translated from the original Dutch by Christopher Tan.[^8] The cake, in its springform pan, may have been baked within a metal vessel with hot coals underneath and/or on top of its lid. Dutch technical prowess at casting such pots led to such vessels being dubbed “Dutch ovens” by other nations in the 18th century.|
-
-|**Kwée lapis (Spekkoek)**|
-
-|Thirty eggs, the whites beaten separately, 30 tablespoons fine dry white sugar, 15 tablespoons sifted flour, one pound washed butter,[^9] two dessertspoons finely pounded Chinese red rice or red yeast rice (*ang-khak*[^10]), one teaspoon clove powder, one teaspoon finely pounded cardamom, two teaspoons finely pounded cinnamon, melted butter.|
-
-|Preparation:|
-
-|To make the batters for this cake, two persons are needed, as well as two pots, two deep bowls[^11] and two wicker brooms[^12] or egg beaters.|
-
-|One batter may not stand longer than the other: this is why the above-mentioned ingredients are divided into two lots.|
-
-|In one of the pots, beat 16 egg yolks with 16 tablespoons of fine dry white sugar for one hour,[^13] until the mixture is as smooth as butter.[^14] Then add eight tablespoons of flour one by one, then add half a pound of washed butter in small increments while beating constantly.|
-
-|In the second pot, beat the remaining 14 egg yolks with seven tablespoons of the white sugar and seven tablespoons of flour, along with the spices mentioned above, and half a pound of butter.|
-
-|When the batters in the two pots have been well mixed, add the whipped egg whites a spoonful at a time, 16 egg whites for the 16-yolk batter lot.[^15]|
-
-|The cake is baked in layers in a springform pan,[^16] which must first be brushed well with butter.|
-
-|The first layer must be thoroughly dry and well cooked: before you add a second layer of the spiced batter, press it down with a muslin-wrapped hand,[^17] then brush some melted butter over it.[^18] Then continue to bake the batters alternately in layers.|
-
-|When you have baked four layers, prick the cake with a knitting needle: if nothing adheres to the needle then the layers are done, and you can continue layering; otherwise let them bake for a while longer.[^19]|
-
-|Use a soup ladle that is not too large to scoop the batter.|
-
-|For convenience’s sake, you can also make this cake using only the first batter, and after every layer is baked, sprinkle it well with the mixed spices, and then top with the batter again.|
-
-|<img src="/images/Vol-16-issue-4/kuehlapis/JavaneseKueRecipes.png">Javanese *kue lapis* and *spekkoek* recipes in the *Groot Nieuwe Volledig Oost-Indische Kookboek*, published in 1925. *Reproduced from van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great New Complete East Indies Cookbook] (p. 305). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings)*.|
-
-Vintage recipes using a single spiced batter are also common. Besides the *Haagsche Kookschool* book, *Kokki Bitja* (*Beloved Cook;* 1859),[^20] *Oost-Indisch Kookboek* (*East Indies Cookbook*; 1870)[^21] and *Het Nieuwe Kookboek* (*The New Cookbook*; 1925)[^22] all take this tack for their *spekkoek*. The *Groot Nieuw Volledig Oost-Indische Kookboek* also lists a single plain-batter variation, “for convenience”, with the spices merely sprinkled over each layer after the cake is baked. In a *Straits Times* interview in 1983, famed Kampong Glam culinarian Hajjah Asfiah binte Haji Abdullah called this version *kueh baulu lapis*, which she would make to sell at her Ramadan bazaar stall near Bussorah Street.[^23]
-
-Dutch-Indonesian chef Jeff Keasberry identifies the two-batter cake with fewer total layers as Indo-Dutch *spekkoek* that originates from the Dutch East Indies era, a species older than and distinct from what he calls Indonesian *kue lapis legit*, which uses a single batter and has thinner and more layers – at least 18, according to him.[^24] Indonesian culinary teacher and author Sitti Nur Zainuddin-Moro also makes the same distinction in her influential cookbook *Kue-Kue Manasuka* (*Kue You Will Like*; 1980), naming the two-batter version *Sepekuk Biasa* (ordinary *spekkoek*), and the other *lapis legit*.[^25]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/TwoBatterCake.jpg">
-Dutch-Indonesian chef Jeff Keasberry identifies the two-batter cake with fewer total layers as Indo-Dutch <i>spekkoek</i> (right) originating from the Dutch East Indies era, a species older than and distinct from what he calls Indonesian <i>kue lapis legit</i> (left), which uses a single batter and has more and thinner layers. <i>Courtesy of Jeff Keasberry</i>.
-</div>
-
-Many examples of both variants have appeared in Singaporean recipe books over the years, although their names are sometimes conflated. Mrs Susie Hing’s landmark 1956 cookbook, *In A Malayan Kitchen*, includes a *spekkoek* recipe (and a *koningskroon* recipe) that Dutch readers from earlier generations would have recognised straightaway.[^26]
-
-A 1957 *Straits Times* article records a *spekkoek* recipe by a Mrs Rosaleen Yang, who baked alternating plain and cocoa-spiked batters in “a copper or brass pan”.[^27] A similar recipe for *Lapis Betawi* (Batavia, as Jakarta was called under the Dutch) appeared in *Berita Harian* in 1968, which called for a generous amount of spice to augment the cocoa.[^28]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/VintageBrass.jpg">
-A vintage brass pan of the type used for baking <i>kueh lapis legit</i>. Note the “scars” on the lid left by hot coals. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-In 1981, the *New Nation* published Nonya doyenne and cookbook author Mrs Leong Yee Soo’s single-batter Speckok Kueh Lapis Batavia recipe, which details the importance of pricking each cooked layer with a skewer to deflate bubbles and create microscopic holes for the next layer’s batter to flow in, for better adhesion.[^29] In 1977, the *Straits Times* featured a recipe by one Cik Khatijah Ashiblie for Lapis Mascovrish, whose vanilla batter was layered with almonds and raisins.[^30]
-
-Outside of home kitchens, only a few stores in Singapore made or imported *spekkoek* and *kue lapis* in the early 20th century. One such establishment was the Java Restaurant (originally Mooi Thien Restaurant) on North Bridge Road – described in a 1950 *Straits Times* article as being “not unlike a Paris bistro”[^31] – where founder Lim Djin Hai and his family served both Javanese and European food in the late 1940s. Prior to emigrating to Singapore in 1946, Lim was a caterer in his hometown of Bencoolen (now Bengkulu), where one of his clients was the then Governor-General of the Dutch East Indies. (Java Restaurant later moved to Killiney Road, morphing into the Java Provision Store, where for over 25 years it purveyed home-baked and imported Indo-Dutch goods.)
-
-#### **Building a Mystery**
-
-The early origin stories of *spekkoek* and *lapis legit* remain largely unknown, despite their widespread popularity. *Spekkoek* derives from the Dutch words *spek koek*, meaning “bacon cake”, no doubt an allusion to the cake’s pale and red-brown stripes. However, there seem to be no records in the Netherlands of any layered cake by that name which pre-dates *lapis legit*, and neither is there such an extant cake there.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/SpekkoekRecipe.jpg">
-The <i>Spekkoek</i> recipe from <i>In a Malayan Kitchen</i>. <i>Spek koek</i> means “bacon cake” in Dutch. Both bacon and cake bear stripes – as can ribbons, as this recipe’s subtitle references. <i>Reproduced from Hing, S. (1956). In a Malayan Kitchen (p. 65). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)</i>.
-</div>
-
-Some have suggested *spekkoek* has its origins in the German *baumkuchen*, the “tree-ring” cake considered the ultimate test and accomplishment of a *konditormeister* (master pastry chef). However, *baumkuchen* has a drier texture than *spekkoek* and is made using a different method: its cylindrical layers are built up around a rotating spit. Also, German records clearly trace its evolution from a dough-based cake in the 1500s into the batter-based form known from the 1700s until today.[^32] “There is no significant record of Prussian people in Indonesia,” says Soemantri, but “perhaps *baumkuchen* influenced the original Dutch *spekkoek*”.[^33]
-
-Here is a curious similarity though: *baumkuchen* is traditionally flavoured with spices (cinnamon, cardamom, nutmeg, ginger or vanilla), citrus, nuts (most often almonds) and liquor. The oldest *spekkoek* recipe I have come across, from *Kokki Bitja*, calls for clove, cardamom, white pepper, *jeruk cina* (mandarin orange) zest, kenari nuts and brandy. Mere coincidence or distant cousinhood?
-
-A more plausible progenitor for *kue lapis legit* may be the layer cakes traditionally made in southern China to celebrate the annual Double Ninth festival – recipes which travelled to maritime Southeast Asia with the Chinese diaspora. Chiefly rice-based, these cakes are steamed layer by layer, frequently with alternating batters of different colours, often tinted with – yes – red yeast rice. Chinese communities in Southeast Asia still make these today; in Indonesia they are simply called *kue lapis*, but old Dutch and Indonesian cookbooks identify them as *kue lapis cina*[^34] or *kue lapis jawa*. In *Kue-Kue Manasuka*, Sitti Nur Zainuddin-Moro records a Batavian recipe for a red and white version called “Lapis Merah Putih (Betawi)”.[^35]
-
-The auspicious Chinese saying and wish for success 歩歩高升 (*bu bu gao sheng*, which means “rising step by step”) is embodied by both steamed and baked *lapis*. For the Indonesian Chinese, *lapis legit* “is always related to celebration, and for them, its many layers equal prosperity,” says Soemantri.[^36]
-
-#### **A Nonlinear Lineage**
-
-Indeed, *kueh lapis legit* is nothing if not rich. In my family, we let it sit untouched for at least a couple of days post-baking, so that all the butter and spice can fully permeate its crumb. When at last it falls under the knife, the sight of even, lovely lamina evokes great relief in the baker, who discovers only at this moment if the deck was stacked for success.
-
-So what might have bridged the gap between steamed rice-flour layers and baked wheat-flour layers, and how? Permit me to suggest a trip to Palembang. Now South Sumatra’s capital, Palembang was formerly the capital of the Srivijayan empire, a Buddhist kingdom which endured from around the 7th century to the 13th century. Its trade links with China, South Asia and the Middle East ensured a constant flow of goods, pilgrims, cultures and languages between those regions and the Malay Archipelago. This made Palembang a fertile place for culinary ferment.
-
-The city lays claim to several *lapis* varieties. Some are modern glosses on the form – made with pineapple jam between strata (*lapis nenas*), a multi-layered version of the regional pandan-scented specialty *bolu kojo* (*lapis kojo*), and so on.[^37] Two older signature Palembang *lapis* types are much closer in spirit to *spekkoek*, baked the same way but with fewer, slightly thicker layers.
-
-One of them, *kue maksuba*, is made using chicken and/or duck eggs, butter or margarine, sugar, condensed milk and vanilla, with flour in miniscule quantity or, most often, entirely absent. Essentially a hyper-rich custard, *kue maksuba* has a smooth solidity not unlike the Malay *kuih bakar*, with less of a cake-like vibe than orthodox *spekkoek*.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/SteamedRiceKue.jpg">
-Steamed rice-based <i>kue lapis</i> for sale at a <i>kue pasar</i> (market) in Jakarta. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-The other *lapis* variety, *kue engkak ketan*, has the same ingredients as *kue maksuba*, plus two key elements: glutinous rice flour, and *blondo* or *glondo* – thick coconut milk which has been boiled until some of its oil has separated out. The oily sheen from the *blondo* and a faint springiness from the glutinous rice flour strongly recall steamed *kue lapis cina*, while the heavy doses of butter and condensed milk bestow a European richness. However, the airlessly dense wheat-free crumb and the lack of spice means the resemblance to *spekkoek* is only partial.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/HomeMadeKue.jpg">
-Home-made <i>kue engkak ketan</i>, composed of glutinous rice flour, eggs, butter, sugar, condensed milk, and <i>blondo</i> – boiled, oily coconut milk. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-*Kue engkak ketan* reminds me strongly of another sweet, one from Goa, India. *Bebinca*, also called *bibinca* or *bibik*, is a colonial legacy said to be a Portuguese recipe but tweaked with local ingredients. It has many *spekkoek*-like traits, first and foremost a very rich batter made of egg yolk and coconut milk, with comparatively little wheat flour, and spiced with cardamom and nutmeg. *Bebinca* is traditionally “baked” layer by layer – some recipes specify seven layers, others multiples of seven – under a pot lid holding burning wood or coconut husks, with clarified butter brushed over each layer. It must rest for several hours before being sliced. In terms of flavour and texture, *bebinca* sits squarely between *spekkoek* and *kue engkak ketan*.
-
-*Bebinca*’s creation is often attributed to a (possibly apocryphal) nun named Bibiana or Bebiana at the Convent of Santa Monica in Goa, whose devout sisters were famed for their culinary skills and repertoire of festive sweetmeats.[^38] Alternative origin stories suggest links with other similarly named Asian baked goods such as the Filipino *bibingka* and the Macanese *bebinca*; however, these purported family resemblances are scattered and hard to qualify. For instance, in Macau, *bebinca de leite* is a baked milk custard and *bebinca de inhame* is yam cake (*wu tau koh* in Cantonese), and neither is layered.
-
-That said, there is a Goan *bebinca* variation made with mashed potatoes and baked in a single layer, which is all but identical to Malay *kuih bingka kentang*. In fact, many Goan sweetmeats appear to be cognates of Southeast Asian ones. These include *kulkuls* (crisp shell-shaped pastries), cousins of *kuih siput*; *alle belle* (crepes rolled around grated coconut cooked with palm sugar), which are much like *kuih dadar*; *pinaca* (roasted rice and coconut pounded with palm sugar and warm spices), the twin of Peranakan *kueh dadu*; and Goan *dodol* (rice, palm sugar and coconut milk toffee), which differs from Indonesian *dodol* only in that Goan cooks use regular rice instead of glutinous rice.
-
-Food historian Janet Boileau quotes Macanese-culture expert Rui Rocha in speculating that Southeast Asian desserts likely travelled westward to Goa, perhaps via Melaka, and were assimilated into local and Catholic culinary and confectionery traditions there.[^39]
-
-*Bebinca* is also traditional to East Timor, a Portuguese colony up until the 1970s. Though they seem similar, it is unclear whether Timorese *bebinca* prefigured or instead descended from the Goan version. Such intricately connected and mingled gastronomy is the legacy of centuries of Dutch and Portuguese colonisers contending over the same turf in Asia and around the world. While not as emblematic to Singapore’s Eurasians as sugee cake, *spekkoek* is also made by that community, whose origins, history and traditions incorporate both Portuguese and Dutch heritage.[^40]
-
-#### **Much More Than Its Seams**
-
-Perhaps this is how the story could have gone: a colonial-era cook makes a Dutch *taart* (butter cake) batter. Some extra eggs are on hand, so in they go – has she not seen Portuguese cooks do likewise to make their cakes richer, softer, more velvety? Familiar with European cakes baked in separate layers and then assembled, she wonders if the layers could be baked *in situ* instead, just as her Chinese neighbours steam their cakes, and what if that uprising steam was replaced by coal heat radiating from above? And then, surrounded by – or maybe only dreaming of – the East Indies, she seizes on spices from that corner of the empire, those seeds and bark and buds whose aromas lift the spirits. Should these infuse all the batter? Or only half of it, for layers that alternate colours and scents? She thinks and experiments, and so it goes.
-
-Imagine such a narrative, writ not by a single person over an afternoon, but by numberless cooks and bakers, exchanging ideas and handing down legacies through the generations as they spread and grill and press and brush. Is this line of thought and practice not destined to birth something marvellous, something enduringly delicious? As *The Straits Times* opined in a 1957 article about making *spiku* (another nickname for *spekkoek*) for Hari Raya: “The results are more than equal to those achieved by even the most accomplished pastrycook of Vienna.”[^41]
-
-I could not agree more. If mindfully made, each spice-flecked strata should be a beautiful paradox: coherent enough to peel off without tearing, yet thin and fragile enough to melt on the tongue; dairy-lush and spice-opulent, but debonair and delicate, and never ponderous.
-
-Having taken over *lapis*-making duties from my elders, I understand more keenly why this *kueh* and its kin have enjoyed such longevity and such exalted status. Refining and notating my family’s *lapis legit* recipe for my book, *The Way of Kueh*,[^42] took me months of research and testing, over 1,300 words and finally three pages of text and photos to do it full justice. Yes, *lapis legit* and *spekkoek* require significant mental and physical investment, but when they are imbued with care and commitment, their glory – and the accompanying feeling of achievement – transcends every ounce of expended effort. Master this cake, and you can truly say you have earned your stripes.
-
-<div class="infobox"> 
-<img src="/images/Vol-16-issue-4/kuehlapis/TheWayOfKueh.png" style="width: 350px; height: 200px;"/>
-Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932">(Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN)</a>. It also retails at major bookshops in Singapore.
-</div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/Christopher_Tan.png" style="width: 100px; height: 100px;" />
-<b>Christopher Tan</b> is a food writer, author, cooking instructor and photographer whose latest book is the award-winning <i>The Way of Kueh</i>, a comprehensive work about Singapore’s <i>kueh</i> culture.
+<img src="/images/Vol-17-issue-1/authors/chia_jie_lin.png" style="width: 100px; height: 100px;" />
+<b>Chia Jie Lin</b> is an Assistant Curator with Programmes & Exhibitions at the National Library, Singapore. She is co-curator of the “Human x Nature: Environmental Histories of Singapore” exhibition.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
-[^1]: Throughout this article, I have used different spellings for the word *kuih*, as appropriate to that community to whose desserts I am referring: hence *kuih* for Malay items, *kueh* for Peranakan items, and *kue* for Indonesian items, plus idiosyncratic spelling within direct quotes. *Legit*, pronounced with a hard “g”, means “sweet” or “sticky” in Bahasa Indonesia.
-
-[^2]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
-
-[^3]: Pamudji, D. (1986). *Hidangan ringan: Party snacks*. Kuala Lumpur: Arenabuku Sdn Bhd. (Not available in NLB holdings). Among the author’s *lapis* recipes are a few with “tikar” designs, constructed by rotating and reassembling cut sections of *lapis*, to yield complex patterns when sliced across. These pre-date by over a decade the more colourful *lapis* designs popular in Sarawak.
-
-[^4]: Manden, A.C. (1895). *Recepten van de Haagsche kookschool* [*Recipes from the Hague Cooking School*] (p. 244). The Hague: De Gebroeders van Cleef. (Not available in NLB holdings). Founded in the late 1800s, the school provided its female students with formal culinary training.
-
-[^5]: Van der Meijden, J.M.J.C. (1925). *Groot nieuw volledig Oost-Indisch kookboek* [*Great new complete East Indies cookbook*] (pp. 305–306). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings). A mammoth book chronicling nearly 1,400 recipes from the Dutch East Indies, written to help familiarise Dutch cooks with the cuisine.
-
-[^6]: Also known as red rice, this is rice inoculated with a yeast strain that produces a vivid red pigment as it grows. The dried grains are a traditional Chinese ingredient used to make rice wine and to add colour to dishes.
-
-[^7]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
-
-[^8]: Van der Meijden, 1925, p. 305.
-
-[^9]: Freshly churned butter is always washed with plain water to remove all traces of buttermilk – the liquid separated from the butterfat by the churning – and casein dairy proteins. If not washed away, these make the butter develop rancid off-flavours and turn bad.
-
-[^10]: See note 6.
-
-[^11]: The batters are mixed in the pots so presumably the bowls are used for beating the egg whites.
-
-[^12]: Small brooms – bundled plant stalks or twigs  – were historically used to beat liquid ingredients. Metal whisks only started to become more common around the early 20th century.
-
-[^13]: Brooms are not very efficient whisks.
-
-[^14]: Presumably this means a thick and creamy foam.
-
-[^15]: And presumably do the same for the remaining 14 whites for the 14-yolk batter lot, although the recipe does not spell this out.
-
-[^16]: Springform pans with latched sides and removable bases were largely the same then as they still are now. Pan size is unmentioned, so this was either standard knowledge, or the reader is expected to know how to make do.
-
-[^17]: The muslin prevents the cake layer from sticking to your hand as you flatten it.
-
-[^18]: The layering alternates the two batters; every layer is pressed and butter-brushed.
-
-[^19]: The needle test checks for uncooked batter under the surface: heat sources were not always even. The baking set-up is not detailed, but it would have featured top-down heat.
-
-[^20]: Cornelia, N. (1859). *Kokki bitja* [*Beloved cook*] (p. 160). Batavia: Lange & Co. (Not available in NLB holdings). Written in Indonesian, this book includes both traditional Indonesian and Dutch recipes.
-
-[^21]: *Oost-Indisch kookboek* [*East Indies cookbook*] (pp. 62, 89). (1870). Semarang: Van Dorp & Co. (Not available in NLB holdings). The first Dutch-language cookbook of Indonesian recipes.
-
-[^22]: Koopmans-Gorter, A., & De Boer-De Jonge, G.A.M. (1925). *Het nieuwe kookboek* [*The new cookbook*] (p. 307). Groningen: P. Noordhoff. (Not available in NLB holdings)
-
-[^23]: [Delicacies and titbits for Hari Raya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830705-1.2.94.6.1). (1983, July 5). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-
-[^24]: Keasberry, J. (2019, February 25). *Spekkoek and kue lapis legit differences revealed*. Retrieved from Cooking with Keasberry website.
-
-[^25]: Sitti Nur Zainuddin-Moro. (1980). *[Kue-kue manasuka](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125292)* [*Kue you will like*] (pp. 130, 132). Jakarta: Dian Rakyat. (Call no.: RSEA 641.5 ZAI). The author, a cooking academy veteran, formidably marshals 272 recipes for Indonesian *kue*, colonial delicacies, Western-style cakes, savoury snacks and pantry essentials.
-
-[^26]: Hing, S. (1956). *[In a Malayan kitchen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437)* (pp. 65–66). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN). A wonderfully eclectic treasure trove of recipes spanning Indonesian, Malay, Chinese, Dutch and colonial “fusion” items.
-
-[^27]: [Prelude to New Year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570124-1.2.125). (1957, January 24). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
-
-[^28]: [Kueh bangket kelapa dan lapis betawi, waduh, lazat sa-kali!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19680602-1.2.65) (1968, June 2). *Berita Harian*, p. 8. Retrieved from NewspaperSG. This recipe has a truly decadent butter-to-flour ratio of around 6:1.
-
-[^29]: [Feast with the experts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810129-1.2.61.1). (1981, January 29). *New Nation*, p. 10. Retrieved from NewspaperSG. The name Speckok Kueh Lapis Batavia comes from Mrs Leong Yee Soo’s classic local cookbook, *Singaporean Cooking*. See Leong, Y.S. (1976). *[Singaporean cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551115)*. Singapore: Eastern Universities Press Sdn Bhd. (Call no.: RSING 641.595957 LEO)
-
-[^30]: [Hari Raya delight for you to try](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770913-1.2.144.3). (1977, September 13). *The Straits Times*, p. 34. Retrieved from NewspaperSG. “Mascovrish” is likely a rendering of “moscovis”, a Dutch colonial-era name attached to cakes made with dried fruit or candied peel. “Moscovis” refers to Russia, although the connection to the country is unclear.
-
-[^31]: [Chefs of S’pore–3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500427-1.2.180). (1950, April 27). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
-
-[^32]: *Fritz Hahn: The Baumkuchen family*. (2017). Retrieved from settinger.net website.
-
-[^33]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
-
-[^34]: Keijner, W.C. (1972). *Kookboek voor Hollandse, Chinese en Indonesische derechten* [*Cookbook for Dutch, Chinese and Indonesian dishes*] (p. 161). Amsterdam: Uitgeverij J. F. Duwaer & Zonenmsterdam. (Not available in NLB holdings)
-
-[^35]: [Sitti Nur Zainuddin-Moro](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125292), 1980, p. 18.
-
-[^36]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
-
-[^37]: Rudy, G. (2020). *23 resep kue autentik Palembang* [*23 authentic Palembang cake recipes*]. Jakarta: Kompas Gramedia. (Not available in NLB holdings). Nine kinds of Palembang *lapis* are pictured on this book’s cover.
-
-[^38]: Doctor, V. (2019, March 25). *Tried bebinca yet? The Goan queen of desserts packs layers of flavour and history*. Retrieved from The Economic Times website.
-
-[^39]: Personal communication with Janet P. Boileau (www.janetboileau.com), October 2008.
-
-[^40]: Braga-Blake, M., Ebert-Oehlers, A., & Pereira, A.A. (2017). *[Singapore Eurasians: Memories, hopes and dreams](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202743122)* (p. 246). Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
-
-[^41]: [Malay women are very busy now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570430-1.2.97.1). (1957, April 30). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
-
-[^42]: Tan, C. (2019). *[The way of kueh: Savouring & saving Singapore’s heritage desserts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932)*. Singapore: Epigram Books. (Call no.: RSING 641.595957 TAN)
+[^1]: Wheatley, J.J.L. (1885, June). Further notes on the rainfall of Singapore. Journal of the Straits Branch of the Royal Asiatic Society, (15), 61–67, p. 62. Retrieved from JSTOR via NLB’s eResources website.
+Tan, B. (2020, July–September). Cholera in 19th-century Singapore. BiblioAsia, 16 (2), 10–15, p. 11. Retrieved from BiblioAsia website. 
+Williamson, F. (2015, September). Weathering the empire: Meteorological research in the early British Straits Settlements. The British Journal for the History of Science, 48 (3), 475–492, p. 475. Retrieved from JSTOR via NLB’s eResources website.
+Little, R. (1848, August). An essay on coral reefs as the cause of Blakan mati fever, and of the fevers in various parts of the East. The Journal of the Indian Archipelago and Eastern Asia, Vol. II, 449–497, p. 458. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03014449C)
+Hanitsch, R. (1913, December). Letters of Nathaniel Wallich relating to the establishment of Botanical Gardens in Singapore. Journal of the Straits Branch of the Royal Asiatic Society, (65), 39–48, p. 45; Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. Journal of the Malaysian Branch of the Royal Asiatic Society, 54 (2), 1–73, p.13. Retrieved from JSTOR via NLB’s eResources website.
+O’Dempsey, T. (2014). Singapore’s changing landscape since c. 1800 (p. 20). In T.P. Barnard (Ed.), Nature contained: Environmental histories of Singapore (pp. 17–48). Singapore: NUS Press. (Call no.: RSING 304.2095957 NAT)
+National Archives of Singapore The Citizen Archivist Project. (1822, December 23). L6: Singapore: Letters to Bencoolen. (Media no.: SSR/L006_0178). Retrieved from National Archives of Singapore website.
+Trocki, C.A. (1976). The origins of the kangchu system 1740–1860. Journal of the Malaysian Branch of the Royal Asiatic Society, 49 (2) (230), 132–155, p. 139. Retrieved from JSTOR via NLB’s eResources website.
+Jackson, J.C. (1965, July). Chinese agricultural pioneering in Singapore and Johore 1800–1917. Journal of the Malaysian Branch of the Royal Asiatic Society 38 (1) (207), 77–105, 
+p. 80. Retrieved from JSTOR via NLB’s eResources website.
+Balestier, J. (1848). Views of the state of agriculture in the British possessions in the Straits of Malacca (p. 146). [n.p.]. (Call no.: RRARE 630.95951 BAL; Accession no.: B29029409B)
+Trocki, 1976, p. 140. 
+Jackson, Jul 1965, pp. 78–79. 
+Untitled. (1855, May 15). The Straits Times, p. 5. Retrieved from NewspaperSG. 
+Cantley, N. (1883). Report on the forests of the Straits Settlements. In Proceedings of the Legislative Council of the Straits Settlements for the year 1883. Singapore: Government Printing Office. (Call no.: RRARE 328.5957 SSLCPL; Accession no.: B20048240I). [Note: Cantley’s report can also be retrieved from the Annual report on the Botanic Gardens, Singapore, for the year 1879–1890 at the Biodiversity Heritage Library website.]
+O’Dempsey, 2014, p. 23.
+Williamson, Sep 2015, p. 476.
+Williamson, Sep 2015, p. 489.
+Evelyn, J. (1664). Sylva, or a discourse of forest-trees, and the propagation of timber. London: Printed by J. Martyn and J. Allestry. Retrieved from Biodoversity Heritage Library website. 
+Rajan, S.R. (2006). A contract with nature (pp. 21–54). In Modernizing nature: Forestry and imperial eco-development 1800–1950. Clarendon: Oxford University Press. (Not available in NLB holdings)
+Logan, J.R. (1848). The probable effects on the climate of Pinang of the continued destruction of its hill jungles. The Journal of the Indian Archipelago and Eastern Asia, Vol. II, 534–536, p. 535. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03014449C)
+Logan, 1848, p. 534; Powell, M.A. (2016, August). People in peril, environments at risk: Coolies, tigers, and colonial Singapore’s ecology of poverty. Environment and History, 22 (3), 445–482, p. 466. Retrieved from ResearchGate website.
+Wallace, A.R. (1854). [Letter dated 9 May 1854, Singapore]. Zoologist 12 (142), 4395–4397. Retrieved from Wallace Online website. 
+O’Dempsey, 2014, p. 37.
+Thomson, J.T. (1849). General report on the residency of Singapore.  Journal of the Indian Archipelago and Eastern Asia, Vol. III, 618–628, 744–755, p. 627. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
+Cameron, J. (1865). Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca (p. 158). London: Smith, Elder and Co. Retrieved from BookSG. (Call no.: RRARE 959.9 CAM-[JSB]; Accession no.: B29032445G); Williamson, F. (2020, June 15). The science of stifling heat: Recognising urban climate change in the Straits Settlements. Historical Climatology. Retrieved from Historical Climatology website. 
+Williamson, 15 Jun 2020.  
+O’Dempsey, T., & Ping, T.C. (2011, October 16). The freshwater swamp forests of Sungei Seletar Catchment: A status report (pp. 121–166). In Proceedings of Nature Society, Singapore’s Conference on “Nature Conservation for a Sustainable Singapore”. Retrieved from Nature Society (Singapore) website.  
+McNair, J.F.A. (1879, June 21). Report by the colonial engineer on the timber forests in the Malayan Peninsula (p. E10). In Annual report on the Botanic Gardens, Singapore, for the year 1879–1890. Retrieved from Biodiversity Heritage Library website. 
+Cantley, 1883, p. 6.
+Cantley, 1883, p. 7.
+Skinner, A.M. (1883, December). Straits meteorology. Journal of the Straits Branch of the Royal Asiatic Society, 12 (3), 245–259, p. 250. Retrieved from JSTOR via NLB’s eResources website.
+Williamson, F. (2020, September). Responding to extremes: Managing urban water scarcity in the late nineteenth-century Straits Settlements. Water History, 12 (3), 251–263, p. 253. Retrieved from Springer Link website.
+Wheatley, Jun 1885, p. 62. 
+Williamson, Sep 2020, p. 254. 
+Williamson, Sep 2020, p. 251.
+Tuesday, 1st May. (1877, May 5). The Straits Times, p. 3. Retrieved from NewspaperSG; Williamson, 2020, p. 254.
+Yeoh, B.S.A. (1993, September). Urban sanitation, health and water supply in late nineteenth and early twentieth century colonial Singapore. South East Asia Research, 1 (2), 143–172, p. 148. Retrieved from JSTOR via NLB’s eResources website.
+Presgrave, D.G. (1885, April 28). Page 4 Advertisements Column 6: Municipal notice. The Straits Times, p. 4. Retrieved from NewspaperSG. 
+Rowell, T. I. (1885, December). Meteorological report, for the year 1885. Journal of the Straits Branch of the Royal Asiatic Society, (16), 385–411, p. 390. Retrieved from JSTOR via NLB’s eResources website. [Note: From 1870 to 1885, the mean annual rainfall of Singapore fell by over 52 percent, from 123.24 to 58.37 inches, while the mean annual number of rainy days fell by 43 percent, from 209 to 119 days.]
+Thomson, J.T. (1865). Some glimpses into life in the Far East (p. 15). London: Richardson & Company. Retrieved from BookSG. (Call no.: RRARE 959.51 THO-[LKL]; Accession no.: B20048166E)
+Untitled. (1895, May 22). The Straits Times, p. 3; A water famine. (1902, September 4). The Singapore Free Press and Mercantile Advertiser, p. 145. Retrieved from NewspaperSG.
+Yeoh, Sep 1993, p. 148.
+Pearce, F. (2018, July 24). Rivers in the sky: How deforestation is affecting global water cycles. Retreived from Yale Environment 360 website; MacDonald, J. (2015, November 11). Does deforestation lead to drought? 
+Are we at the point of no return? Retrieved from JSTOR Daily website.
