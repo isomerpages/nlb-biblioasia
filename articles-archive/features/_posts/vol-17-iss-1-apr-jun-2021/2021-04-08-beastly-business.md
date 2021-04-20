@@ -19,7 +19,7 @@ table {
 </style>
 
 
-#### The buying and selling of wildlife was a lucrative business in the early decades of the 20th century, but there were many difficulties in the attempts to regulate the trade, says **Fiona Tan**.
+#### The 1933 *Report of the Wild Animals and Wild Birds Committee* represents a failed attempt to regulate the buying and selling of wildlife in pre-war Singapore, says **Fiona Tan**.
 
 <div style="background-color: white;">
 <br/>
