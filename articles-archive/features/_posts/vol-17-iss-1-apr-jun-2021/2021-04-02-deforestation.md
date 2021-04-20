@@ -42,6 +42,12 @@ It was pepper and gambier plantations, however, that were the main drivers behin
 
 In his correspondences with Raffles’ Acting Secretary L. Nelson Hull in 1822, Resident and Commandant of Singapore William Farquhar wrote that Temenggong Abdul Rahman had granted “various Malays and Chinese” permission to clear the ground for plantations. Farquhar further reported that some 20 plantations were already present in Singapore when he first arrived with Raffles in 1819.7
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/deforestation/gambier.jpg">
+A painting of the gambier plant from the William Farquhar Collection of Natural History Drawings, 1803–18. <i>Gift of G.K. Goh. Courtesy of the National Museum of Singapore, National Heritage Board</i>.
+</div>
+
 The founding of a free port on the island transformed the regional market for gambier, causing the centre of trade to shift from Riau to Singapore. Fuelled by their displeasure with rising Dutch taxes in Riau, Chinese planters also began migrating en masse from Riau to Singapore to trade and cultivate gambier.8
 
 These planters brought with them their practice of shifting cultivation, in which primary forest was cleared to cultivate crops. When the soil became exhausted of nutrients, usually by the 15th year of production, and timber and firewood supplies nearby became scarce, these farmers moved onto new virgin land.9 Joseph Balestier, the first American Consul to Singapore, compared the pepper and gambier planter to a “locust”, leaving “a tract of desolation behind him”.10
@@ -52,7 +58,19 @@ In the 1830s, the relocation of the gambier market from Riau to Singapore, as we
 
 These plantations were not merely land-intensive, but also timber-intensive. Trees were felled for timber, fuel and charcoal in gambier-producing factories, resulting in the widespread disappearance of dipterocarp primary forests (lowland rainforest on dry land) and freshwater swamp forests.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/deforestation/pepper.jpg">
+Workers in a pepper plantation in Malaya, 1890s. Pepper was planted alongside gambier as the cultivation of either crop alone was not economically viable. Plantation workers used the waste produced from the boiling of gambier leaves as fertiliser for pepper vines. The latter also entwine themselves around the gambier plants for support as they grow. <i>Gretchen Liu Collection, courtesy of National Archives of Singapore</i>.
+</div>
+
 In his 1883 *Report on the Forests of the Straits Settlements* that led to the demarcation of Singapore’s first forest reserves and the creation of a Forest Department,14 Nathaniel Cantley, then Superintendent of the Singapore Botanic Gardens, wrote that small areas of cultivated land known as *bangsal* (Malay for a “shed” or “lean-to shelter”) typically used up approximately 2,500 pounds of timber per day for pepper kilns and boiling gambier. These *bangsal* served as dwellings for the labourers and a place where they could prepare gambier. Over time, the area of land deforested for firewood for a plantation would have been equivalent to the size of the corresponding plantation itself.15
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/deforestation/bangsal.jpg">
+Gambier production, 1890s. Small areas of cultivated land known as <i>bangsal</i> (Malay for a “shed” or “lean-to shelter”) typically used up approximately 2,500 pounds of timber per day for pepper kilns and boiling gambier. These <i>bangsal</i> served as dwellings for the labourers and a place where they could prepare gambier. <i>Gretchen Liu Collection, courtesy of National Archives of Singapore</i>.
+</div>
 
 #### **Environmentalism Takes Root** 
 Environmental studies by British colonial officials first emerged out of efforts to better understand and govern their colonies in Southeast Asia to maximise commercial agricultural output.16 Such studies focused on areas such as native plant and animal species, tropical diseases and meteorological observations; the latter involved measurements of rainfall, atmospheric pressure, and air and earth temperatures.
