@@ -138,48 +138,89 @@ The relationship between forests and the climate is complex. A look at the envir
 
 #### **NOTES**
 
-[^1]: Wheatley, J.J.L. (1885, June). Further notes on the rainfall of Singapore. Journal of the Straits Branch of the Royal Asiatic Society, (15), 61–67, p. 62. Retrieved from JSTOR via NLB’s eResources website.
-Tan, B. (2020, July–September). Cholera in 19th-century Singapore. BiblioAsia, 16 (2), 10–15, p. 11. Retrieved from BiblioAsia website. 
-Williamson, F. (2015, September). Weathering the empire: Meteorological research in the early British Straits Settlements. The British Journal for the History of Science, 48 (3), 475–492, p. 475. Retrieved from JSTOR via NLB’s eResources website.
-Little, R. (1848, August). An essay on coral reefs as the cause of Blakan mati fever, and of the fevers in various parts of the East. The Journal of the Indian Archipelago and Eastern Asia, Vol. II, 449–497, p. 458. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03014449C)
-Hanitsch, R. (1913, December). Letters of Nathaniel Wallich relating to the establishment of Botanical Gardens in Singapore. Journal of the Straits Branch of the Royal Asiatic Society, (65), 39–48, p. 45; Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. Journal of the Malaysian Branch of the Royal Asiatic Society, 54 (2), 1–73, p.13. Retrieved from JSTOR via NLB’s eResources website.
-O’Dempsey, T. (2014). Singapore’s changing landscape since c. 1800 (p. 20). In T.P. Barnard (Ed.), Nature contained: Environmental histories of Singapore (pp. 17–48). Singapore: NUS Press. (Call no.: RSING 304.2095957 NAT)
-National Archives of Singapore The Citizen Archivist Project. (1822, December 23). L6: Singapore: Letters to Bencoolen. (Media no.: SSR/L006_0178). Retrieved from National Archives of Singapore website.
-Trocki, C.A. (1976). The origins of the kangchu system 1740–1860. Journal of the Malaysian Branch of the Royal Asiatic Society, 49 (2) (230), 132–155, p. 139. Retrieved from JSTOR via NLB’s eResources website.
-Jackson, J.C. (1965, July). Chinese agricultural pioneering in Singapore and Johore 1800–1917. Journal of the Malaysian Branch of the Royal Asiatic Society 38 (1) (207), 77–105, 
+[^1]: Wheatley, J.J.L. (1885, June). Further notes on the rainfall of Singapore. *Journal of the Straits Branch of the Royal Asiatic Society*, (15), 61–67, p. 62. Retrieved from JSTOR via NLB’s eResources website.
+
+[^2]: Tan, B. (2020, July–September). Cholera in 19th-century Singapore. *BiblioAsia, 16* (2), 10–15, p. 11. Retrieved from BiblioAsia website.
+
+[^3]: Williamson, F. (2015, September). Weathering the empire: Meteorological research in the early British Straits Settlements. The British Journal for the History of Science, 48 (3), 475–492, p. 475. Retrieved from JSTOR via NLB’s eResources website.
+
+[^4]: Little, R. (1848, August). An essay on coral reefs as the cause of Blakan mati fever, and of the fevers in various parts of the East. *The Journal of the Indian Archipelago and Eastern Asia*, Vol. II, 449–497, p. 458. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03014449C)
+
+[^5]: Hanitsch, R. (1913, December). Letters of Nathaniel Wallich relating to the establishment of Botanical Gardens in Singapore. *Journal of the Straits Branch of the Royal Asiatic Society*, (65), 39–48, p. 45; Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. *Journal of the Malaysian Branch of the Royal Asiatic Society, 54* (2), 1–73, p.13. Retrieved from JSTOR via NLB’s eResources website.
+
+[^6]: O’Dempsey, T. (2014). Singapore’s changing landscape since c. 1800 (p. 20). In T.P. Barnard (Ed.), *Nature contained: Environmental histories of Singapore* (pp. 17–48). Singapore: NUS Press. (Call no.: RSING 304.2095957 NAT)
+
+[^7]: National Archives of Singapore The Citizen Archivist Project. (1822, December 23). *L6: Singapore: Letters to Bencoolen*. (Media no.: SSR/L006_0178). Retrieved from National Archives of Singapore website.
+
+[^8]: Trocki, C.A. (1976). The origins of the kangchu system 1740–1860. *Journal of the Malaysian Branch of the Royal Asiatic Society, 49* (2) (230), 132–155, p. 139. Retrieved from JSTOR via NLB’s eResources website.
+
+[^9]: Jackson, J.C. (1965, July). Chinese agricultural pioneering in Singapore and Johore 1800–1917. *Journal of the Malaysian Branch of the Royal Asiatic Society 38* (1) (207), 77–105, 
 p. 80. Retrieved from JSTOR via NLB’s eResources website.
-Balestier, J. (1848). Views of the state of agriculture in the British possessions in the Straits of Malacca (p. 146). [n.p.]. (Call no.: RRARE 630.95951 BAL; Accession no.: B29029409B)
-Trocki, 1976, p. 140. 
-Jackson, Jul 1965, pp. 78–79. 
-Untitled. (1855, May 15). The Straits Times, p. 5. Retrieved from NewspaperSG. 
-Cantley, N. (1883). Report on the forests of the Straits Settlements. In Proceedings of the Legislative Council of the Straits Settlements for the year 1883. Singapore: Government Printing Office. (Call no.: RRARE 328.5957 SSLCPL; Accession no.: B20048240I). [Note: Cantley’s report can also be retrieved from the Annual report on the Botanic Gardens, Singapore, for the year 1879–1890 at the Biodiversity Heritage Library website.]
-O’Dempsey, 2014, p. 23.
-Williamson, Sep 2015, p. 476.
-Williamson, Sep 2015, p. 489.
-Evelyn, J. (1664). Sylva, or a discourse of forest-trees, and the propagation of timber. London: Printed by J. Martyn and J. Allestry. Retrieved from Biodoversity Heritage Library website. 
-Rajan, S.R. (2006). A contract with nature (pp. 21–54). In Modernizing nature: Forestry and imperial eco-development 1800–1950. Clarendon: Oxford University Press. (Not available in NLB holdings)
-Logan, J.R. (1848). The probable effects on the climate of Pinang of the continued destruction of its hill jungles. The Journal of the Indian Archipelago and Eastern Asia, Vol. II, 534–536, p. 535. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03014449C)
-Logan, 1848, p. 534; Powell, M.A. (2016, August). People in peril, environments at risk: Coolies, tigers, and colonial Singapore’s ecology of poverty. Environment and History, 22 (3), 445–482, p. 466. Retrieved from ResearchGate website.
-Wallace, A.R. (1854). [Letter dated 9 May 1854, Singapore]. Zoologist 12 (142), 4395–4397. Retrieved from Wallace Online website. 
-O’Dempsey, 2014, p. 37.
-Thomson, J.T. (1849). General report on the residency of Singapore.  Journal of the Indian Archipelago and Eastern Asia, Vol. III, 618–628, 744–755, p. 627. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
-Cameron, J. (1865). Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca (p. 158). London: Smith, Elder and Co. Retrieved from BookSG. (Call no.: RRARE 959.9 CAM-[JSB]; Accession no.: B29032445G); Williamson, F. (2020, June 15). The science of stifling heat: Recognising urban climate change in the Straits Settlements. Historical Climatology. Retrieved from Historical Climatology website. 
-Williamson, 15 Jun 2020.  
-O’Dempsey, T., & Ping, T.C. (2011, October 16). The freshwater swamp forests of Sungei Seletar Catchment: A status report (pp. 121–166). In Proceedings of Nature Society, Singapore’s Conference on “Nature Conservation for a Sustainable Singapore”. Retrieved from Nature Society (Singapore) website.  
-McNair, J.F.A. (1879, June 21). Report by the colonial engineer on the timber forests in the Malayan Peninsula (p. E10). In Annual report on the Botanic Gardens, Singapore, for the year 1879–1890. Retrieved from Biodiversity Heritage Library website. 
-Cantley, 1883, p. 6.
-Cantley, 1883, p. 7.
-Skinner, A.M. (1883, December). Straits meteorology. Journal of the Straits Branch of the Royal Asiatic Society, 12 (3), 245–259, p. 250. Retrieved from JSTOR via NLB’s eResources website.
-Williamson, F. (2020, September). Responding to extremes: Managing urban water scarcity in the late nineteenth-century Straits Settlements. Water History, 12 (3), 251–263, p. 253. Retrieved from Springer Link website.
-Wheatley, Jun 1885, p. 62. 
-Williamson, Sep 2020, p. 254. 
-Williamson, Sep 2020, p. 251.
-Tuesday, 1st May. (1877, May 5). The Straits Times, p. 3. Retrieved from NewspaperSG; Williamson, 2020, p. 254.
-Yeoh, B.S.A. (1993, September). Urban sanitation, health and water supply in late nineteenth and early twentieth century colonial Singapore. South East Asia Research, 1 (2), 143–172, p. 148. Retrieved from JSTOR via NLB’s eResources website.
-Presgrave, D.G. (1885, April 28). Page 4 Advertisements Column 6: Municipal notice. The Straits Times, p. 4. Retrieved from NewspaperSG. 
-Rowell, T. I. (1885, December). Meteorological report, for the year 1885. Journal of the Straits Branch of the Royal Asiatic Society, (16), 385–411, p. 390. Retrieved from JSTOR via NLB’s eResources website. [Note: From 1870 to 1885, the mean annual rainfall of Singapore fell by over 52 percent, from 123.24 to 58.37 inches, while the mean annual number of rainy days fell by 43 percent, from 209 to 119 days.]
-Thomson, J.T. (1865). Some glimpses into life in the Far East (p. 15). London: Richardson & Company. Retrieved from BookSG. (Call no.: RRARE 959.51 THO-[LKL]; Accession no.: B20048166E)
-Untitled. (1895, May 22). The Straits Times, p. 3; A water famine. (1902, September 4). The Singapore Free Press and Mercantile Advertiser, p. 145. Retrieved from NewspaperSG.
-Yeoh, Sep 1993, p. 148.
-Pearce, F. (2018, July 24). Rivers in the sky: How deforestation is affecting global water cycles. Retreived from Yale Environment 360 website; MacDonald, J. (2015, November 11). Does deforestation lead to drought? 
-Are we at the point of no return? Retrieved from JSTOR Daily website.
+
+[^10]: Balestier, J. (1848). *Views of the state of agriculture in the British possessions in the Straits of Malacca* (p. 146). [n.p.]. (Call no.: RRARE 630.95951 BAL; Accession no.: B29029409B)
+
+[^11]: Trocki, 1976, p. 140. 
+
+[^12]: Jackson, Jul 1965, pp. 78–79. 
+
+[^13]: Untitled. (1855, May 15). *The Straits Times*, p. 5. Retrieved from NewspaperSG. 
+
+[^14]: Cantley, N. (1883). Report on the forests of the Straits Settlements. In *Proceedings of the Legislative Council of the Straits Settlements for the year 1883*. Singapore: Government Printing Office. (Call no.: RRARE 328.5957 SSLCPL; Accession no.: B20048240I). [Note: Cantley’s report can also be retrieved from the *Annual report on the Botanic Gardens, Singapore, for the year 1879–1890* at the Biodiversity Heritage Library website.]
+
+[^15]: O’Dempsey, 2014, p. 23.
+
+[^16]: Williamson, Sep 2015, p. 476.
+
+[^17]: Williamson, Sep 2015, p. 489.
+
+[^18]: Evelyn, J. (1664). *Sylva, or a discourse of forest-trees, and the propagation of timber*. London: Printed by J. Martyn and J. Allestry. Retrieved from Biodoversity Heritage Library website. 
+
+[^19]: Rajan, S.R. (2006). A contract with nature (pp. 21–54). In *Modernizing nature: Forestry and imperial eco-development 1800–1950*. Clarendon: Oxford University Press. (Not available in NLB holdings)
+
+[^20]: Logan, J.R. (1848). The probable effects on the climate of Pinang of the continued destruction of its hill jungles. *The Journal of the Indian Archipelago and Eastern Asia*, Vol. II, 534–536, p. 535. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03014449C)
+
+[^21]: Logan, 1848, p. 534; Powell, M.A. (2016, August). People in peril, environments at risk: Coolies, tigers, and colonial Singapore’s ecology of poverty. *Environment and History, 22* (3), 445–482, p. 466. Retrieved from ResearchGate website.
+
+[^22]: Wallace, A.R. (1854). [Letter dated 9 May 1854, Singapore]. *Zoologist 12* (142), 4395–4397. Retrieved from Wallace Online website. 
+
+[^23]: O’Dempsey, 2014, p. 37.
+
+[^24]: Thomson, J.T. (1849). General report on the residency of Singapore. * Journal of the Indian Archipelago and Eastern Asia*, Vol. III, 618–628, 744–755, p. 627. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
+
+[^25]: Cameron, J. (1865). *Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca* (p. 158). London: Smith, Elder and Co. Retrieved from BookSG. (Call no.: RRARE 959.9 CAM-[JSB]; Accession no.: B29032445G); Williamson, F. (2020, June 15). The science of stifling heat: Recognising urban climate change in the Straits Settlements. *Historical Climatology*. Retrieved from Historical Climatology website. 
+
+[^26]: Williamson, 15 Jun 2020.
+
+[^27]: O’Dempsey, T., & Ping, T.C. (2011, October 16). The freshwater swamp forests of Sungei Seletar Catchment: A status report (pp. 121–166). In *Proceedings of Nature Society, Singapore’s Conference on “Nature Conservation for a Sustainable Singapore”*. Retrieved from Nature Society (Singapore) website.
+
+[^28]: McNair, J.F.A. (1879, June 21). Report by the colonial engineer on the timber forests in the Malayan Peninsula (p. E10). In *Annual report on the Botanic Gardens, Singapore, for the year 1879–1890*. Retrieved from Biodiversity Heritage Library website. 
+
+[^29]: Cantley, 1883, p. 6.
+
+[^30]: Cantley, 1883, p. 7.
+
+[^31]: Skinner, A.M. (1883, December). Straits meteorology. *Journal of the Straits Branch of the Royal Asiatic Society, 12* (3), 245–259, p. 250. Retrieved from JSTOR via NLB’s eResources website.
+
+[^32]: Williamson, F. (2020, September). Responding to extremes: Managing urban water scarcity in the late nineteenth-century Straits Settlements. *Water History, 12* (3), 251–263, p. 253. Retrieved from Springer Link website.
+
+[^33]: Wheatley, Jun 1885, p. 62. 
+
+[^34]: Williamson, Sep 2020, p. 254. 
+
+[^35]: Williamson, Sep 2020, p. 251.
+
+[^36]: Tuesday, 1st May. (1877, May 5). *The Straits Times*, p. 3. Retrieved from NewspaperSG; Williamson, 2020, p. 254.
+
+[^37]: Yeoh, B.S.A. (1993, September). Urban sanitation, health and water supply in late nineteenth and early twentieth century colonial Singapore. *South East Asia Research, 1* (2), 143–172, p. 148. Retrieved from JSTOR via NLB’s eResources website.
+
+[^38]: Presgrave, D.G. (1885, April 28). Page 4 Advertisements Column 6: Municipal notice. *The Straits Times*, p. 4. Retrieved from NewspaperSG. 
+
+[^39]: Rowell, T. I. (1885, December). Meteorological report, for the year 1885. *Journal of the Straits Branch of the Royal Asiatic Society*, (16), 385–411, p. 390. Retrieved from JSTOR via NLB’s eResources website. [Note: From 1870 to 1885, the mean annual rainfall of Singapore fell by over 52 percent, from 123.24 to 58.37 inches, while the mean annual number of rainy days fell by 43 percent, from 209 to 119 days.]
+
+[^40]: Thomson, J.T. (1865). *Some glimpses into life in the Far East* (p. 15). London: Richardson & Company. Retrieved from BookSG. (Call no.: RRARE 959.51 THO-[LKL]; Accession no.: B20048166E)
+
+[^41]: Untitled. (1895, May 22). *The Straits Times*, p. 3; A water famine. (1902, September 4). *The Singapore Free Press and Mercantile Advertiser*, p. 145. Retrieved from NewspaperSG.
+
+[^42]: Yeoh, Sep 1993, p. 148.
+
+[^43]: Pearce, F. (2018, July 24). *Rivers in the sky: How deforestation is affecting global water cycles*. Retreived from Yale Environment 360 website; MacDonald, J. (2015, November 11). *Does deforestation lead to drought? Are we at the point of no return?* Retrieved from JSTOR Daily website.
