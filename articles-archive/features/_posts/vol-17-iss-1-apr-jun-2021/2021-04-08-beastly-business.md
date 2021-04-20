@@ -59,7 +59,7 @@ Although Europeans and Americans were also involved in the wildlife trade, the v
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-1/beastly/animalrace.jpg">
-Animals were also used as a form of entertainment. Shown here is a group of European men using their pets to compete in an animal race. This print titled “A Menagerie Race at Singapore” was first published in the 20th August 1881 issue of British newspaper, The Graphic. <i>Courtesy of National Archives of Singapore</i>.
+Animals were also used as a form of entertainment. Shown here is a group of European men using their pets to compete in an animal race. This print titled “A Menagerie Race at Singapore” was first published in the 20th August 1881 issue of British newspaper, <i>The Graphic</i>. <i>Courtesy of National Archives of Singapore</i>.
 </div>
 
 #### **Legislating the Protection of Wildlife**
@@ -72,7 +72,7 @@ In 1928, Karel Willem Dammerman, Director of the Zoological Museum in Buitenzorg
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-1/beastly/privatezoo.jpg">
-Orangutans out for a ride at the Punggol Zoo owned by William Lawrence Soma Basapa, c. 1930s. Such private zoos were exempted from scrutiny and investigation by the 1933 Wild Animals and Wild Birds Committee. <i>Courtesy of the National Heritage Board</i>.
+Orangutans were illegally imported into Singapore in the early decades of the 20th century. Their continued smuggling from the Dutch East Indies was an impetus for the 1933 Wild Animals and Wild Birds Committee. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
 In response, the British colonial government passed laws to limit wildlife trade. During the first reading of the proposed Wild Animals and Birds (Amendment) Bill in the Legislative Council meeting on 24 March 1930, which sought to prohibit the unlicensed importation of orangutans, Attorney-General Walter C. Huggard said that the “object of this amending Bill… is to enable this Government to co-operate with the Government of the Netherlands East Indies”.[^16] By 1933, the list of animals and birds prohibited for importation from the Dutch East Indies under the Schedule of the Wild Animals and Birds Ordinance had increased to 28 species from just the solitary orangutan previously.[^17]
