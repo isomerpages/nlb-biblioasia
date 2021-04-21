@@ -173,7 +173,7 @@ From cataloguing the fish diversity of Malayan seas as a scientific member of th
 
 [^6]: Governor Hugh Clifford to Members of the Legislative Council. (1927, October 10). (Reference no.: CO 273/537/24). Retrieved from The National Archives UK website. 
 
-[^7]: Chen, H. (2008, June 1). *Japan and the birth of Takao's fisheries in Nanyo 1895–1945. International Journal of Maritime History, 20* (1), 133–152. Retrieved from SAGE Journals website.
+[^7]: Chen, H. (2008, June 1). Japan and the birth of Takao's fisheries in Nanyo 1895–1945. International Journal of Maritime History, 20 (1), 133–152. Retrieved from SAGE Journals website.
 
 [^8]: For references to Okinawan fishermen in Southeast Asia, see *De Indische Courant*, 25 November 1925, p. 2; *Het Vaderland*, 25 December 1929, p. 8; *De Sumatra Post*, 1 December 1925, p. 5; and Markus, B. (1930–1941). *De Japansche visscherij in het Oosten van de Archipel* (p. 2). Batavia: Instituut voor de Zeevisscherij. (Not available in NLB holdings). In the 1920s, Okinawans, mostly from Itoman, also went to work the waters around Saipan, Palau and the Marianas. See Higuchi, W. (2007). Pre-war Japanese fisheries in Micronesia: Focusing on bonito and tuna fishing in the Northern Mariana Islands. *Immigration Studies*, (3), 49–68, p. 51. For a close analysis of the relationship between Itoman and Singapore, see Shimizu, H. (2008, June). Theories of migration and the Okinawan fishermen in colonial Singapore. *Research on Contemporary Society*, (3), 27–42, pp. 27, 34. Retrieved from Aichi Shukutoku University website.
 
@@ -199,11 +199,11 @@ From cataloguing the fish diversity of Malayan seas as a scientific member of th
 
 [^19]: For Tora Eifuku’s work in the Dutch East Indies (also known as Netherlands Indies), see De Japansche Visscherij. (1925, November 25). *Bataviaasch Nieuwsblad*, 1; Het Visscherijbedrijft te Soerabaja. (1926, September 9). *De Sumatra Post*, 5; De ‘Fuku Maru’. (1938, January 7). *Het Nieuws Van Den Dag Voor Nederlandsch-Indie*, 2. For his operations in the Gulf of Martaban, Burma, see [Mystery move by Japanese](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19381211-1.2.2). (1938, December 11). *The Straits Times*, p. 1. Retrieved from NewspaperSG. In 1936, Eifuku applied for a licence to fish in the Mergui Archipelago, but he had already been operating there for several years. See National Archives of Myanmar. (1936–1937). *Fishery by Japanese in the Mergui Archipelago*. (Accession no. 1266, series 1/7, file IV–8); On his offices in Penang, Batavia and Singapore, see De Japansche Visscherij. (1925, December 1). *De Sumatra Post*, 5.
 
-[^20]: [The Malayan Bulletin of Political Intelligence](https://www.nas.gov.sg/archivesonline/private_records/record-details/49c7fd42-99ac-11e6-9af5-0050568939ad). (1925, June). (Reference no.: CO 537/933/4). Accessed at the National Archives of Singapore. 
+[^20]: *[The Malayan Bulletin of Political Intelligence](https://www.nas.gov.sg/archivesonline/private_records/record-details/49c7fd42-99ac-11e6-9af5-0050568939ad)*. (1925, June). (Reference no.: CO 537/933/4). Accessed at the National Archives of Singapore. 
 
 [^21]: [Malaya cannot supply her own requirements of fish](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340830-1.2.32). (1934, August 30). *The Singapore Free Press and Mercantile Advertiser*, p. 4. Retrieved from NewspaperSG. 
 
-[^22]: [Agricultural progress In the Colony](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340830-1.2.32). (1937, September 3). *The Malaya Tribune*, p. 4. Retrieved from NewspaperSG. 
+[^22]: [Agricultural progress In the Colony](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370903-1.2.10). (1937, September 3). *The Malaya Tribune*, p. 4. Retrieved from NewspaperSG. 
 
 [^23]: [Parti Melayu lahir di Istana Kg Glam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19850409-1.2.33.1). (1985, April 9). *Berita Harian*, p. 5. Retrieved from NewspaperSG. 
 
