@@ -71,8 +71,8 @@ In 1928, Karel Willem Dammerman, Director of the Zoological Museum in Buitenzorg
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/beastly/privatezoo.jpg">
-Orangutans were illegally imported into Singapore in the early decades of the 20th century. Their continued smuggling from the Dutch East Indies was an impetus for the 1933 Wild Animals and Wild Birds Committee. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</i>.
+<img src="/images/Vol-17-issue-1/beastly/orangutan.jpg">
+Orangutans were illegally imported into Singapore in the early decades of the 20th century. Their continued smuggling from the Dutch East Indies was an impetus for the 1933 Wild Animals and Wild Birds Committee. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
 In response, the British colonial government passed laws to limit wildlife trade. During the first reading of the proposed Wild Animals and Birds (Amendment) Bill in the Legislative Council meeting on 24 March 1930, which sought to prohibit the unlicensed importation of orangutans, Attorney-General Walter C. Huggard said that the “object of this amending Bill… is to enable this Government to co-operate with the Government of the Netherlands East Indies”.[^16] By 1933, the list of animals and birds prohibited for importation from the Dutch East Indies under the Schedule of the Wild Animals and Birds Ordinance had increased to 28 species from just the solitary orangutan previously.[^17]
@@ -166,7 +166,7 @@ at the time.
 
 [^3]: Hornaday, W.T. (1993). *[The experiences of a hunter and naturalist in India, Ceylon, the Malay Peninsula and Borneo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6558659)* (p. 8). Kuala Lumpur: Oxford University Press. (Call no.: RSING 910.4 HOR)
 
-[^4]: Mayer, C. (1922). *[Trapping wild animals in Malay jungles](https://eresources.nlb.gov.sg/printheritage/detail/8ad77605-621c-4f54-a98e-05146aaaf1c9.aspx)* (pp.25–30, 33–34, 93). London: T. Fisher Unwin Ltd. Retrieved from BookSG. (Call no.: RRARE 799.29595 MAY-[JSB]; Accession no.: B29267011F)
+[^4]: Mayer, C. (1922). *[Trapping wild animals in Malay jungles](https://eresources.nlb.gov.sg/printheritage/detail/8ad77605-621c-4f54-a98e-05146aaaf1c9.aspx)* (pp. 25–30, 33–34, 93). London: T. Fisher Unwin Ltd. Retrieved from BookSG. (Call no.: RRARE 799.29595 MAY-[JSB]; Accession no.: B29267011F)
 
 [^5]: Buck, F., & Anthony, E. (1930). *[Bring ’em back alive](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=631920)* (p. 18). Garden City, N.Y.: Garden City Pub. (Call no.: RSEA 799.2 BUC)
 
@@ -184,7 +184,7 @@ at the time.
 
 [^12]: [Cruelties of the bird trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19311020-1.2.41). (1931, October 20). *The Singapore Free Press and Mercantile Advertiser*, p. 8. Retrieved from NewspaperSG.
 
-[^13]: [A plea for the wild](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19311028-1.2.45). (1931, October 28). *The Singapore Free Press and Mercantile Advertiser*, p. 8. Retrieved from NewspaperSG. Further instances of such reports in the 1930s include [A callous Chinese](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300426-1.2.66): Exemplary sentence for cruelty to ducklings. (1930, April 26). *The Straits Times*, p. 12; [Cruelty to animals: Indian menagerie owner fined](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19301127-1.2.88). (1930, November 27). *The Straits Times*, p. 12; [Cruelty to birds: Two Chinese fined for overcrowding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330615-1.2.119). (1933, June 15). *The Straits Times*, p. 16; [Smile disappeared: Chinese fined for cruelty to birds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340113-1.2.49). (1932, January 13). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG.
+[^13]: [A plea for the wild](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19311028-1.2.45). (1931, October 28). *The Singapore Free Press and Mercantile Advertiser*, p. 8. Retrieved from NewspaperSG. Further instances of such reports in the 1930s include [A callous Chinese: Exemplary sentence for cruelty to ducklings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300426-1.2.66): Exemplary sentence for cruelty to ducklings. (1930, April 26). *The Straits Times*, p. 12; [Cruelty to animals: Indian menagerie owner fined](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19301127-1.2.88). (1930, November 27). *The Straits Times*, p. 12; [Cruelty to birds: Two Chinese fined for overcrowding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330615-1.2.119). (1933, June 15). *The Straits Times*, p. 16; [Smile disappeared: Chinese fined for cruelty to birds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340113-1.2.49). (1934, January 13). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG.
 
 [^14]: Dammerman, K.W. (1929). *[Preservation of wildlife and nature reserves in the Netherlands Indies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5024107)* (pp. 88–91). Weltevreden: Emmink. (Call no.: RCLOS 591.9598 PAC)
 
@@ -198,7 +198,7 @@ at the time.
 
 [^19]: Malaya. Wild Life Commission. (1932). *[Report of the Wild Life Commission](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982569)* (p. 46). Singapore: Government Printing Office. (Call no.: RRARE 591.9595 MAL; Microfilm nos.: NL26030 [v. 1]; NL9935 [v. 1–v. 3]; NL31934 [v. 3])
 
-[^20]: [The wild life report](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320815-1.2.44). (1932, August 15). *Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^20]: [The wild life report](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320815-1.2.44). (1932, August 15). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
 [^21]: Hubback, T.R., et al. (1934). *[Report of the Wild Animals and Wild Birds Committee, Singapore, 1933](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4981390)* (p. 17). Singapore: Government Printing Office. (Call no.: RRARE 338.3728 SIN; Accession no.: B02978387K ; Microfilm no.: NL26231)
 
@@ -242,4 +242,4 @@ at the time.
 
 [^41]: [Hubback](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4981390) et al., 1934, p. 9. 
 
-[^42]: [Malay village at world fair](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19381218-1.2.139). (1938, December 18). 
+[^42]: [Malay village at world fair](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19381218-1.2.139). (1938, December 18). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
