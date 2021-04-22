@@ -155,60 +155,60 @@ Visit the “Human x Nature: Environmental Histories of Singapore” exhibition 
 
 #### **NOTES**
 
-[^1]: In Alfred Russel Wallace’s letter to Edward Newman. Newman was an English entomologist and botanist, and editor-in-chief of the natural history magazine, *The Zoologist*. See Van Wyhe, J., & Rookmaaker, R. (Eds.). (2013). *Alfred Russel Wallace: Letters from the Malay Archipelago* (p. 286). Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL)
+[^1]: In Alfred Russel Wallace’s letter to Edward Newman. Newman was an English entomologist and botanist, and editor-in-chief of the natural history magazine, *The Zoologist*. See Van Wyhe, J., & Rookmaaker, R. (Eds.). (2013). *[Alfred Russel Wallace: Letters from the Malay Archipelago](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200158642)* (p. 286). Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL)
 
-[^2]: Clarke, S. (2011). The chance to send their first class men out to the colonies: The making of the colonial research service (p. 188). In B.M. Bennett & J.M. Hodge (Eds.), *Science and empire: Knowledge and networks of science across the British Empire, 1800–1970* (pp. 187–208). Houndmills, Basingstoke, Hampshire; New York, NY: Palgrave Macmillan. (Call no.: R 509.171241 SCI)
+[^2]: Clarke, S. (2011). The chance to send their first class men out to the colonies: The making of the colonial research service (p. 188). In B.M. Bennett & J.M. Hodge (Eds.), *[Science and empire: Knowledge and networks of science across the British Empire, 1800–1970](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14293222)* (pp. 187–208). Houndmills, Basingstoke, Hampshire; New York, NY: Palgrave Macmillan. (Call no.: R 509.171241 SCI)
 
-[^3]: For more information on the British East India Company and their activities regarding the environment of the region, see Damodaran, V., Winterbottom, A., & Alan, L. (Eds.). (2015) *The East India Company and the natural world*. Houndsmills, Basingstoke, Hampshire, UK: Palgrave Macmillan. (Call. no.: RSEA 508.54 EAS)
+[^3]: For more information on the British East India Company and their activities regarding the environment of the region, see Damodaran, V., Winterbottom, A., & Alan, L. (Eds.). (2015) *[The East India Company and the natural world](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201352373)*. Houndsmills, Basingstoke, Hampshire, UK: Palgrave Macmillan. (Call. no.: RSEA 508.54 EAS)
 
 [^4]: Darwin, C., & Wallace, A. (1858, August). On the tendency of species to form varieties; and on the perpetuation of varieties and species by natural means of selection. *Zoological Journal of the Linnean Society, 3* (9), 45–62. Retrieved from Wiley Online Library.
 
-[^5]: Wallace, A.R. (1869). *The Malay archipelago: The land of the orang-utan, and the bird of paradise; a narrative of travel, with studies of man and nature* (vol. I; p. vii). London: Macmillan. (Call no.: RRARE 915.9804 WAL; Accession no.: B03013900E). [Note: NLB has digitised the 1874 edition. See Wallace, A.R. (1874). *The Malay Archipelago: The land of the orang-utan, and the bird of paradise; a narrative of travel, with studies of man and nature*. London: Macmillan. Retrieved from BookSG. (Call no.: RRARE 915.9804 WAL; Accession no.: B18835319E)
+[^5]: Wallace, A.R. (1869). *[The Malay archipelago: The land of the orang-utan, and the bird of paradise; a narrative of travel, with studies of man and nature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4390754)* (vol. I; p. vii). London: Macmillan. (Call no.: RRARE 915.9804 WAL; Accession no.: B03013900E). [Note: NLB has digitised the 1874 edition. See Wallace, A.R. (1874). *[The Malay Archipelago: The land of the orang-utan, and the bird of paradise; a narrative of travel, with studies of man and nature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4390754)*. London: Macmillan. Retrieved from BookSG. (Call no.: RRARE 915.9804 WAL; Accession no.: B18835319E)
 
 [^6]: Deyrolle. (2021). *Deyrolle La Boutique En Ligne*. Retrieved from Deyrolle website. 
 
-[^7]: Deyrolle, H. (1864). *Description des buprestides de la Malaisie* (pp. vi–vii). Brussels, Paris: [n.p.]. Retrieved from BookSG. (Call no.: RRARE 595.763095951 DEY-[SEA]; Accession no.: B20395528A); Deyrolle, H. (1864). Description des buprestides de la Malaisie Receuillis par M. Wallace. *Annales de la Société Entomologique de Belgique, 8*, 1–269, p. iii. Retrieved from Biodversity Heritage Library website.
+[^7]: Deyrolle, H. (1864). *[Description des buprestides de la Malaisie](https://eresources.nlb.gov.sg/printheritage/detail/64fb8760-379d-4799-b8b0-8056a8182e68.aspx)* (pp. vi–vii). Brussels, Paris: [n.p.]. Retrieved from BookSG. (Call no.: RRARE 595.763095951 DEY-[SEA]; Accession no.: B20395528A); Deyrolle, H. (1864). Description des buprestides de la Malaisie Receuillis par M. Wallace. *Annales de la Société Entomologique de Belgique, 8*, 1–269, p. iii. Retrieved from Biodversity Heritage Library website.
 
 [^8]: Deyrolle, 1864, pp. vi–vii, plate II.
 
-[^9]: Desmond, R. (1982). *The India Museum, 1801–1879* (p. 13). London: Her Majesty’s Stationery Office. (Call no.: RCLOS 069.0954 DES-[JSB])
+[^9]: Desmond, R. (1982). *[The India Museum, 1801–1879](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3632210)* (p. 13). London: Her Majesty’s Stationery Office. (Call no.: RCLOS 069.0954 DES-[JSB])
 
-[^10]: Bastin, J. (2019). *Sir Stamford Raffles and some of his friends and contemporaries: A memoir of the founder of Singapore* (pp. 135–137). Singapore: World Scientific Publishing Co. Pte Ltd. (Call no.: RSING 959.5703092 BAS-[HIS])
+[^10]: Bastin, J. (2019). *[Sir Stamford Raffles and some of his friends and contemporaries: A memoir of the founder of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203823402)* (pp. 135–137). Singapore: World Scientific Publishing Co. Pte Ltd. (Call no.: RSING 959.5703092 BAS-[HIS])
 
-[^11]: Horsfield, T. (1824). *Zoological researches in Java, and the neighbouring islands*.  London: Printed for Kingsbury, Parbury, & Allen. Retrieved from BookSG. (Call no.: RRARE 591.9922 HOR; Accession no.: B03013680J)
+[^11]: Horsfield, T. (1824). *[Zoological researches in Java, and the neighbouring islands](https://eresources.nlb.gov.sg/printheritage/detail/c82861cf-b4ab-4441-876c-62eda77ac466.aspx)*.  London: Printed for Kingsbury, Parbury, & Allen. Retrieved from BookSG. (Call no.: RRARE 591.9922 HOR; Accession no.: B03013680J)
 
 [^12]: Bastin, 2019, pp. 90, 153.
 
-[^13]: Pocklington, K., & Low, M. (2019). *200: Points in Singapore’s natural history*. Singapore: Lee Kong Chian Natural History Museum. (Call no.: RSING 508.5957 LOW); Home, E. (1820, April 13). *On the milk tusks, and organ of hearing of the dugong. Philosophical Transactions of the Royal Society of London for the Year 1820*, Part II, 144–55. London: W. Bulmer and W. Nicol. (Call no.: RRARE 599.556 PHI-[JSB]; Accession no.: B29268003H)
+[^13]: Pocklington, K., & Low, M. (2019). *[200: Points in Singapore’s natural history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203948534)*. Singapore: Lee Kong Chian Natural History Museum. (Call no.: RSING 508.5957 LOW); Home, E. (1820, April 13). *[On the milk tusks, and organ of hearing of the dugong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202684845). Philosophical Transactions of the Royal Society of London for the Year 1820*, Part II, 144–55. London: W. Bulmer and W. Nicol. (Call no.: RRARE 599.556 PHI-[JSB]; Accession no.: B29268003H)
 
-[^14]: Weiler, D. (2020, Jul–Sep). Stamford Raffles and the two French naturalists. *BiblioAsia, 16* (2), 4–9. Retrieved from BiblioAsia website. 
+[^14]: Weiler, D. (2020, Jul–Sep). [Stamford Raffles and the two French naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles). *BiblioAsia, 16* (2), 4–9. Retrieved from BiblioAsia website. 
 
-[^15]: Ikechi, M. (2006). *Global biopiracy: Patents, plants and indigenous knowledge* (pp. 10–13). Vancouver, British Columbia: UBC Press. Retrieved from ProQuest Ebook Central via NLB’s eResources website.
+[^15]: Ikechi, M. (2006). *Global biopiracy: Patents, plants and indigenous knowledge* (pp. 10–13). Vancouver, British Columbia: UBC Press. Retrieved from ProQuest Ebook Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^16]: Damodaran, Winterbottom & Alan, 2015, pp. 18–20, 29–30.
+[^16]: [Damodaran, Winterbottom & Alan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201352373), 2015, pp. 18–20, 29–30.
 
-[^17]: Gimlette, J.D. (1915). *Malay poisons and charm cures*. London: J. & A. Churchill. (Call no.: RRARE 398.4 GIM-[JSB]; Accession no.: B29267423B). [Note: NLB has digitised the second edition. See Gimlette, J.D. (1923). *Malay poisons and charm cures*. London: J. & A. Churchill. Retrieved from BookSG. (Call no.: RRARE 398.4 GIM; Accession no.: B02993050F)]
+[^17]: Gimlette, J.D. (1915). *[Malay poisons and charm cures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202517206)*. London: J. & A. Churchill. (Call no.: RRARE 398.4 GIM-[JSB]; Accession no.: B29267423B). [Note: NLB has digitised the second edition. See Gimlette, J.D. (1923). *[Malay poisons and charm cures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202517206)*. London: J. & A. Churchill. Retrieved from BookSG. (Call no.: RRARE 398.4 GIM; Accession no.: B02993050F)]
 
-[^18]: Gimlette, 1923, p. xi. 
+[^18]: [Gimlette](https://eresources.nlb.gov.sg/printheritage/detail/81b91bde-03e5-468d-8c7f-1baec9396f4a.aspx), 1923, p. xi. 
 
-[^19]: Gimlette, 1923, pp. vi, 113–114.
+[^19]: [Gimlette](https://eresources.nlb.gov.sg/printheritage/detail/81b91bde-03e5-468d-8c7f-1baec9396f4a.aspx), 1923, pp. vi, 113–114.
 
-[^20]: Burkill, I.H., & Mohamed Haniff. (1930, April). Malay village medicine. *The Gardens’ Bulletin Straits Settlements, 6* (6–10), 165–321, p. 165. Singapore: Botanic Gardens. (Call no.: RDTYS 615.3209595 BUR) 
+[^20]: Burkill, I.H., & Mohamed Haniff. (1930, April). [Malay village medicine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979969). *The Gardens’ Bulletin Straits Settlements, 6* (6–10), 165–321, p. 165. Singapore: Botanic Gardens. (Call no.: RDTYS 615.3209595 BUR) 
 
-[^21]: Burkill & Mohamed Haniff, Apr 1930, p. 166.
+[^21]: [Burkill & Mohamed Haniff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979969), Apr 1930, p. 166.
 
 [^22]: Mohamed Haniff obituary. (1930, June). *The Gardens Bulletin Straits Settlements, 5* (3–6), 161–162, p. 161. Retrieved from Biodiversity Heritage Library website. 
 
 [^23]: A large volume of letters along with Henry Nicholas Ridley’s own field notes document the everyday work of the Singapore Botanic Gardens. These can be accessed at the Biodiversity Heritage Library website.
 
-[^24]: Ridley, H.N. (1922–25). *The flora of the Malay Peninsula* (5 volumes). London: L. Reeve & Co., Ltd. (Call no.: RRARE 581.9595 RID; Accession nos.: B03006199F [vol. I], B03006198E [vol. II], B03006197D [vol. III], B03006204D [vol. IV], B03006203C [vol. V])
+[^24]: Ridley, H.N. (1922–25). *[The flora of the Malay Peninsula](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3586524)* (5 volumes). London: L. Reeve & Co., Ltd. (Call no.: RRARE 581.9595 RID; Accession nos.: B03006199F [vol. I], B03006198E [vol. II], B03006197D [vol. III], B03006204D [vol. IV], B03006203C [vol. V])
 
-[^25]: Barnard, T. (2016). *Nature’s colony: Empire nation and environment in the Singapore Botanic Gardens* (p. 181). Singapore: NUS Press. (Call no.: RSING 580.735957 BAR)
+[^25]: Barnard, T. (2016). *[Nature’s colony: Empire nation and environment in the Singapore Botanic Gardens](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202468295)* (p. 181). Singapore: NUS Press. (Call no.: RSING 580.735957 BAR)
 
-[^26]: Barnard, 2016, pp. 182–183. 
+[^26]: [Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202468295), 2016, pp. 182–183. 
 
-[^27]: Burkill, I.H. (1935). *A dictionary of the economic products of the Malay Peninsula*. London: Published on behalf of the Governments of the Straits Settlements and Federated Malay states by the Crown Agents for the Colonies. (Call no.: RCLOS 634.909595 BUR)
+[^27]: Burkill, I.H. (1935). *[A dictionary of the economic products of the Malay Peninsula](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4121248)*. London: Published on behalf of the Governments of the Straits Settlements and Federated Malay states by the Crown Agents for the Colonies. (Call no.: RCLOS 634.909595 BUR)
 
-[^28]: Tinsley, B. (2009). *Gardens of perpetual summer: The Singapore Botanic Gardens* (pp. 41–42). Singapore: National Parks Board, Singapore Botanic Gardens. (Call no.: RSING 580.735957 TIN); Tan, P.W.C., Tan, A.L., & Lau, L. (2015). *Singapore rubber trade: An economic heritage* (pp. 41–42). Singapore: Suntree Media Pte Ltd. (Call no.: RSING 338.476782095957 TAN)
+[^28]: Tinsley, B. (2009). *[Gardens of perpetual summer: The Singapore Botanic Gardens](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13185369)* (pp. 41–42). Singapore: National Parks Board, Singapore Botanic Gardens. (Call no.: RSING 580.735957 TIN); Tan, P.W.C., Tan, A.L., & Lau, L. (2015). *[Singapore rubber trade: An economic heritage](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201091734)* (pp. 41–42). Singapore: Suntree Media Pte Ltd. (Call no.: RSING 338.476782095957 TAN)
 
-[^29]: Ridley found a way to tap rubber and gave Malaya its wealth. (1953, November 21). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^29]: [Ridley found a way to tap rubber and gave Malaya its wealth](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531121-1.2.162). (1953, November 21). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
