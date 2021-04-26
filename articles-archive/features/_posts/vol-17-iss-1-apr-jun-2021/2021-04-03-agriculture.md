@@ -19,261 +19,195 @@ table {
 </style>
 
 
-#### What lies in this vale of tiers? **Christopher Tan** delves into *lapis legit*, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers. 
+#### **Timothy Pwee** takes us on a tour through pepper, gambier, nutmeg, pineapple and rubber plantations that were once common in 19th-century Singapore.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/LapisLegit.jpg">
+<img src="/images/Vol-17-issue-1/agriculture/LapisLegit.jpg">
 The author’s home-made <i>kueh lapis legit</i>. This is an iconic cake for Indonesians, Malays and the Peranakan Chinese. <i>Courtesy of Christopher Tan</i>.
 </div>
 
-When I was young, *kueh lapis legit*[^1] would announce its presence in my family kitchen long before anyone got to taste it. The first portent was the careful shepherding of precious bottles of spice powders and brandy. The next sign was the buying of many eggs and much butter. On baking day, the kitchen thrummed with signals: the loud rhythm of batter vigorously beaten; the steady cadence of spread batter thinly, grill it until brown, press out bubbles, brush with butter, then repeat; and the rippling scent-waves of sizzling butter and caramelising crust. Anticipation ran at a fever pitch, or perhaps that was just the heat nimbus of our Baby Belling oven.
+Being a free port astride a major trading route between the Indian Ocean and the South China Sea enabled Singapore to flourish in the 19th century. While Singapore’s wealth was clearly built on trade, this tends to overshadow the fact that for much of the 19th and well into the 20th century, commercial agriculture was a significant economic activity on the island as well.
+
+The first topographical survey of Singapore Town – conducted by colonial architect George D. Coleman in 1829 and which yielded the *Map of the Town and Environs of Singapore* in 1836 – showed large plots of land dedicated to agriculture on the outskirts of settled areas. There were paddy fields on the eastern banks of the Kallang River, while to the east of these fields, land had been cleared for the growing of sugar and cotton. In addition, the area south of the paddy fields was used for the cultivation of the betel vine. Around what is now the Orchard Road area were gambier plantations.1 About a decade later, coconuts had taken over the paddy fields, according to Government Surveyor John Turnbull Thomson’s 1844 map of Singapore town and the adjoining districts. Meanwhile, pineapples were being grown on Pulau Blakang Mati (present-day Sentosa) and there were nutmeg orchards in the Claymore district (today’s Orchard Road).2
+
+Since the arrival of the British in 1819, large swathes of land in Singapore had been used for the cultivation of commercial crops – the most important of which were pepper, gambier, nutmeg, coconut, pineapple and rubber. While plantation agriculture is no longer practised in Singapore, these long-gone plantations have had a significant impact on Singapore’s economy, environment and biodiversity.
+
+#### **Gambier and Pepper – a Close Connection**
+The earliest recorded plantations in Singapore were devoted to growing gambier. When Stamford Raffles landed here in 1819, he found that he had been preceded by the Chinese, mostly Teochew, who were growing the crop.3
+
+At the time, gambier was being planted in the region, including on the Riau Islands and in Penang, so it would not have been surprising to encounter gambier planters in Singapore. In 1822, the first Resident, William Farquhar, writes of a Chinese gambier plantation west of Government Hill (today’s Fort Canning). That same year, James Pearl, the captain of the ship *Indiana* that brought Raffles to Singapore, purchased land on the western side of the hill from the gambier planter Tan Ngun Ha. Pearl began to acquire more plots on the hill from Chinese gambier planters until he owned the entire hill. Today, this hill in Chinatown is known as Pearl’s Hill.4
+
+Gambier is a fast-growing shrub whose foliage can be harvested in about 14 months. The leaves and twigs are first boiled and the resulting paste is then dried. The final product, popularly called catechu, contains both tannins and catechin.
+
+In the early 19th century, catechu was mainly used as an additive in the betel quid. The catechu and lime were smeared on the betel leaf (known locally as *sireh*), which was then wrapped around small slices of areca nut. Betel chewing was a habit that was popular in the region at the time.5
+
+Much of the produce went to Batavia (now Jakarta) in the Dutch East Indies and distributed throughout the region. However, this came to a sudden halt in 1827 with the imposition of restrictive duties by the Dutch. This caused a crash and many gambier plantations, including those in Singapore, went out of business.6
+
+The industry revived in the 1830s though as gambier was discovered to be a good source of tannic acid, used for tanning leather and dyeing textiles. Demand from England, and later the Americas, caused a boom regionally. Among the beneficiaries was businessman Seah Eu Chin. In 1835, he purchased an 8-mile (almost 13 km) stretch of land between River Valley Road and Bukit Timah Road for his gambier plantations. This made him the largest gambier planter in Singapore, earning him the moniker “Gambier King”.7
+
+Commonly grown alongside gambier is pepper. Although pepper was a much more profitable crop, the plant takes three years before it can be harvested. Additionally, the pepper plant is a vine that requires frames for support to grow upwards and also needs to be fertilised regularly. The boiled gambier leaves provide much-needed fertiliser for pepper plants which is why the two crops are often grown together; gambier would be planted while waiting for the pepper vines to start bearing fruits.
+
+Unfortunately, growing gambier and pepper takes a significant toll on the land as the crops exhaust the soil drastically and render it infertile after about 15 years. In addition, the purification of gambier catechu required so much firewood that the forests surrounding gambier plantations would be stripped of wood for fuel. This meant moving elsewhere to start the cycle all over again. 
+The result was a pattern of shifting cultivation that started from the Singapore River area and eventually spreading across the island until practically the entire island had been exploited. By the 1860s, Singapore’s gambier output had begun to decline as planters moved to Johor. However, it was only at the close of the 19th century that gambier planting finally faded into oblivion.8
+
+#### **The Blighted Nutmegs**
+Another cash crop that was cultivated in 19th-century Singapore was nutmeg, which was one of the major spices that drove the colonial enterprise in Southeast Asia. Two spices are actually produced from the plant: nutmeg and mace. The nutmeg spice comes from the seed, while mace comes from the aril, the red lacy layer surrounding the seed. Both nutmeg and mace are similar in taste, with mace described as being more delicate. Given its desirability and profitability, nutmeg was an obvious crop for the pioneer merchants in Singapore to cash in on.
+
+After Raffles established a trading post on Singapore, he sent over nutmeg seeds and saplings from Bencoolen (now Bengkulu), on the island of Sumatra, where he was Lieutenant-Governor. Nutmeg plantations were then established along what is today’s Orchard Road and in Tanglin. Although the nutmeg trees had thrived initially, there were later problems with blight.
+
+When William Montgomerie, Assistant Surgeon with the Bengal Native Infantry, returned to Singapore in 1835, he found that the nutmeg trees planted on Raffles’ instructions a decade and a half earlier had been neglected and were diseased.9 He estimated that there were about 25,000 nutmeg trees in Singapore with only a few hundred being over 10 years old.10
+
+One reason for the large number of new trees from the 1830s onwards is that the lease periods for land were initially shorter. It was only in 1828 that the government started giving out longer land leases of 20 years, with the option to renew for another 30 years.11 George Windsor Earl, writing in *The Eastern Seas* in 1837, observed that “there are no European planters in the island of Singapore; nor is it probable that any British-born subject will venture to engage in agricultural speculations, since the system of land tenure would destroy all confidence, and all hope of profit in the planter”.12
+
+However, the longer land leases from 1828 onwards appeared to have given some Europeans the assurance that they could plant nutmeg saplings and reap some profit when the trees matured and bore fruit. In 1834 for instance, a plot of land in the Duxton area of Tanjong Pagar that had been planted with nutmeg trees was offered at an auction with a 15-year lease that began in 1827.13 Montgomerie bought the land and planted more nutmeg trees. In 1843, the government started issuing what is now called freehold land, and by the time of Montgomerie’s passing in 1856, his plot in Duxton had become freehold land. He must have purchased the freehold title to it, most likely in 1842 when the original lease expired.14
+
+Although Singapore was now a nutmeg producer, its output trailed behind Penang which was already producing enough nutmeg to meet the demand from Britain by 1842. This caused the price of nutmegs in Penang to plummet from $10–$12 per thousand to $4–$5 per thousand.15 This did not deter planters, and the mania for planting nutmeg trees in Singapore continued unabated. John Cameron’s 1865 *Our Tropical Possessions in Malayan India* noted: “What had been flower gardens and ornamental grounds of private residences were turned over, and nutmegs planted to within a stone’s throw of the house walls. Besides this, large tracts of jungle, at a distance of four or five miles from town, were bought up from Government, cleared at great expense, and turned into plantations. Some of these newly reclaimed properties… changed hands at exorbitant prices.”16
+
+However, from the 1850s, the nutmeg trees were again plagued by the mysterious blight that blackened branches and killed the fruits. During that decade, nutmeg plantations were decimated just as the original nutmeg trees planted in the 1820s had been. In 1897, Director of the Botanic Gardens Henry Nicholas Ridley diagnosed these symptoms as being caused by the nutmeg beetle (*Phloeosinus ribatus*).17
+
+#### **Coconuts on Sandy Beaches**
+Another important plantation crop grown in Singapore in the 19th century was coconut. An 1841 *Singapore Free Press and Mercantile Advertiser* report noted that “[no] trees of this kind can well be more flourishing than those in the plantations which stretch along the seashore to the N.E. of the Town – and which growing on the Island called Blakang Mati”, and estimates that “[t]here are perhaps about 50,000 trees now planted out and occupying about 660 acres of land”.18
+
+In 1849, it was estimated that coconut plantations occupied 2,658 acres in Singapore, even larger than the area used for nutmeg plantations which took up 1,190 acres.19 Coconut was the second largest crop by acreage behind gambier and pepper (by far the largest at 27,000 acres).
+
+A history of Joo Chiat identifies Francis Bernard as the pioneer coconut estate planter on the eastern coast of Singapore.20 The son-in-law of first Resident William Farquhar, Bernard started planting coconuts in 1823 and was followed in the subsequent decades by other Europeans such as Thomas Dunman (the first Commissioner of Police in Singapore from 1856 to 1871) and Chinese businessmen like Hoo Ah Kay21 (better known as Whampoa). Dunman’s estate was one of the biggest, stretching from today’s Fort Road to Tanjong Katong Road and reaching inland to Dunman Road, which was named after him.
+
+As Singapore’s long and sandy south eastern coast was conducive for growing coconuts, these plantations became characteristic of the area. Unfortunately, these plantations also eventually wiped out the coastal forests.22
+
+Smaller coconut plantations were found elsewhere on the island, like a 30-acre nutmeg and coconut estate on Bukit Timah Road, which was put on auction in 1845.23 Planting different types of crops in one plantation was not uncommon. In the early decades especially, planters would experiment with different crops. Jose d’Almeida, a Portuguese naval surgeon who arrived in Singapore in 1825 and set up a dispensary in Commercial Square (now Raffles Place), was one such example. He later became a landowner and one of Singapore’s leading merchants. On his Confederate Estate in Tanjong Katong, he tried but failed with cotton before turning to coconut.24
+
+#### **Pineapples and the Canning Industry**
+The pineapple, indigenous to South America, was one of the native food plants from the Americas, like chilies, potatoes and tomatoes, that was spread by Europeans to the rest of the world in the 17th century. Surprisingly, it was Singapore’s third largest crop by acreage in 1849.25
+
+Pineapple seems to have been a popular fruit and was originally cultivated by the Bugis on the southern islands and in Telok Blangah as can be seen from mid-19th century maps of the area. The earliest mention of pineapple cultivation appears to be a *Singapore Chronicle* article by second Resident John Crawfurd, published around 1824.26 John Cameron states in *Our Tropical Possessions in Malayan India* that the pineries in Telok Blangah belonged to the Temenggong and these were mainly for sale in Singapore.27
+
+Ownership of the offshore-island estates is less clear although accounts in the mid-1800s agree that they were cultivated by the Bugis.28 English navigator George Windsor Earl’s 1837 account suggests that there might be Javanese cultivators as well: “On the coast of the island to the eastwards of the town, and also on the little islets off the harbour, are small agricultural settlements of Bugis and Javanese.”29
+
+Writing in 1841, Joseph Balestier, the first American Consul to Singapore, and William Montgomerie, then Head of the Medical Department in Singapore, noted that although the pineapples growing on the island “are of a superior quality… are large [and] sweet and well flavoured” and “eagerly consumed by the lower classes”, they also cautioned that the pineapple is “not a wholesome fruit and… assisted the cholera in the ravages it made here last spring; when it is believed from six to seven hundred natives died of that dire disease”.30
+
+At the time, there was no hint of the fruit being exported but there was apparently a small export market to China for the pineapple leaf fibre.31 Called *piña* in the Philippines, it was often combined with silk or cotton to weave into textiles. From the 1870s onwards, when the British developed Pulau Blakang Mati into a defence post to protect shipping passages due to its strategic location, the Bugis-owned pineapple gardens on the island appeared to have gone into retreat.
+
+It was only with the advent of canning or tinning technology that the pineapple became exportable in the days before air freight and nitrogen storage. The high acidity of pineapple made it ideal for preventing the growth of *Clostridium botulinum*, an anaerobic bacterium that produces the deadly botulinum toxin. If not properly sterilised, this bacterium thrives in canned food and its toxin can cause paralysis and even death.
+
+A certain Frenchman, known only as Laurent, began canning pineapples in Singapore around 1875 but this effort was short-lived.32 Another Frenchman, a war veteran and seaman named Joseph Pierre Bastiani, started exporting canned pineapples from Singapore to Europe in the mid- to late 1870s.
+
+Pineapples grown in Singapore and the Malay Peninsula became a major canned export from the 1900s. In 1907 alone, 846,000 cases of preserved pineapples were exported from Singapore as “pineapples grown in the Straits Settlements are favoured in the European markets,” noted *The Straits Times*.33
+
+The pineapple estates that were established to supply this new canning industry were Chinese-owned and located inland rather than along the rocky coast.34 These pineapple estates helped build the fortunes of several people, notably that of Tan Kah Kee.35 Tan, who later became a philanthropist and prominent leader of the Chinese community in Singapore, started a pineapple cannery called Sin Lee Chuan in Sembawang and established Hock Shan Plantation in 1904. Blessed with an acute business acumen, Tan sensed the opportunity of rubber and quickly interplanted rubber trees in his pineapple plantation. He made a fortune selling it off as a rubber estate (with rights to continue harvesting the pineapples).
+
+It soon became a common practice for rubber plantation owners to plant pineapples while waiting for the rubber trees to mature as this allowed them to earn some revenue in the initial years. Tan became a pineapple canning tycoon, controlling over 70 percent of the output in Singapore,36 before an embargo during World War I (1914–18) disrupted trade. His son-in-law, Lee Kong Chian,37 would also go into the pineapple plantation business but would focus his work on the peninsula where Lee Pineapple still operates today. Like rubber, pineapple’s viability would be ended by Singapore’s expanding population and industrialisation.
+
+#### **The Rise of Rubber**
+After the blight killed off nugmeg trees in Singapore, coconuts and pineapples became the dominant choices for Singapore’s plantations. In addition, other less common crops like tapioca and Liberian coffee were planted as well. However, the increasing use of electricity and the rise of the automobile sparked a boom in a new commodity that provided both insulation for electric wires and pneumatic tyres – rubber.
+
+Ridley, Director of Singapore’s Botanic Gardens, persuaded local merchants to try growing Pará rubber which eventually became a major cash crop in both Singapore and the peninsula. Ridley’s first convert was Tan Chay Yan, who became the first rubber planter in Malaya.38 In 1898, Tan started Asahan Estate in Melaka after a successful trial run at Bukit Lintang two years earlier. In Singapore, Tan subsequently entered into an agreement with other prominent Chinese merchants to establish Sembawang Rubber Plantations Limited, and Tempines Para and Coconut Plantations Limited in 1910.39
+
+Although rubber could yield significant profits for plantation owners, the initial outlay was very high as rubber plantations tied up huge amounts of capital in the land, maintenance, labour and basic processing of the latex into transportable sheets. There were, however, eager British investors willing to put their money into rubber companies that promised regular dividends. London brokers quickly coordinated the floating of companies to buy over Malayan rubber plantations and engage local agents to manage these plantations. This allowed for huge plantations with the accompanying economies of scale to flourish. If the original local owners wanted to continue investing in the plantations, they would accept shares in the London company in lieu of part of the purchase price.
+
+Two London-based companies, Bukit Sembawang Rubber Company Limited and Singapore United Rubber Plantations Limited, were formed to acquire the companies of Tan Chay Yan’s coalition in exchange for shares in these London companies. The holdings of the London companies, plus further acquisitions of neighbouring estates, totalled over 12,000 acres by 1912.40 Combined, this made them one of Singapore’s largest landowners, whose holdings stretched from Jurong to Changi.
+
+But the rubber trade in Singapore soon hit a major speedbump. Japan’s growing military might and Britain’s pivot away from an alliance with the Japanese to the United States made it necessary to construct a naval base in Southeast Asia for the British Imperial Fleet should it need to fight in the Pacific. Construction of the naval base in Sembawang, along with associated defences like airfields, meant the compulsory acquisition of large chunks of land from Bukit Sembawang and Singapore United companies in 1923. More acquisitions happened over the years as the military presence in Singapore grew.
+
+When the Japanese Occupation (1942–45) ended, the rapid growth of Singapore’s population necessitated the clearing of more land for homes and for development.41 But this housing need also presented an opportunity as land became more valuable. In 1954, a new company, Bukit Sembawang Estates Limited, was created to take over blocks of plantation land from the two earlier companies and build low-cost housing for sale.42 Another company was created to provide loans to prospective buyers.
+
+The first project was Bukit Sembawang Hills in 1954, a landed estate just south of the junction of Yio Chu Kang Road and Upper Thomson Road. Bukit Sembawang would eventually acquire the two companies in London and become the property developer, Bukit Sembawang Estates Limited, of today. 
+
+Of course, this was not the typical fate of smaller rubber plantation companies and rubber tapping smallholdings in Singapore. These would mostly be sold, acquired or fade into oblivion, thereby closing the chapter on Singapore’s plantation era.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/FreshBakedLapis.jpg">
-Pressing a freshly baked <i>lapis legit</i> layer to flatten and smoothen it, and spreading batter for the next layer. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-*Kue lapis legit* and its sister confection *spekkoek* (more of that sisterhood later) are iconic cakes for Indonesians, Malays – especially those with some Javanese heritage – and Peranakan Chinese. Major festivals such as Hari Raya and the Lunar New Year would not be complete without tables graced by these tiered touchstones. These communities have roots and branches in the milieus of maritime Southeast Asia’s Dutch colonial era, which saw the flowering of many hybrid foodways. “Most of us who live in cities known for rich colonial history, like Jakarta, Palembang, Bangka, Semarang, Surabaya and Bandung, are familiar with *lapis legit* and *spekkoek* as [legacies of] Dutch influence,” says Indonesian food writer, author and restaurant pundit Kevindra Soemantri.[^2]
-
-Modern makeovers have spawned a multiplicity of *lapis* varieties – patterned in bright colours; flavoured with fresh or dried fruit, cheese or coffee or chocolate; rolled up into logs; or carved and rearranged like intricate marquetry. A comprehensive 1986 Indonesian recipe book, *Hidangan Ringan: Party Snacks*, includes 11 different variations on the theme, to the tune of *cempedak*, durian, mocha and more.[^3] However, the classic version remains the most revered incarnation: a soft, rich European-style butter cake infused with spices native to the Indonesian Archipelago, cooked one layer at a time under a hot grill.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/ModernRolledLapis.jpg">
-A modern rolled variation of <i>kue lapis legit</i> with a flower-shaped cross-section. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-#### **Peeling Back the Years**
-
-Trawling through vintage recipes, I found that this basic template has persisted with little alteration for well over a century. The only major differences between old and modern recipes are the heat source – formerly charcoal, these days usually an electric oven element – and the now-frequent addition of condensed milk and/or milk powder to the batter, perhaps to mimic the stronger flavours and higher protein content of yesteryear’s imported butter.
-
-The Spekkoek (Kwee Lapies) recipe in the 1895 book, *Recepten Van De Haagsche Kookschool* (*Recipes from The Hague Cooking School*), is fully consonant with modern recipes, albeit its “65 cloves” might be a bit much for most of us today. It directs the cook to cream butter, sugar, eggs and flour into a batter “in the usual way”, flavour it with very finely ground spices, bake it in layers, smearing butter over each layer when it is done, and finally to store the cake in a tightly sealed tin, where it will keep for “a long time”.[^4]
-
-The 1925 *Groot Nieuwe Volledig Oost-Indisch Kookboek* (*Great New Complete East Indies Cookbook*)[^5] collates three *spekkoek* recipes in its *inlandsche bakken* (native baking) chapter. One of them has only three thick sponge cake layers, baked individually and then sandwiched with “some sort of jelly” – we know this style today as *kue lapis surabaya, koningskroon* (“king’s crown cake” in Dutch) or *bahulu lapis*.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/GrootNieuwe.jpg">
-Title page of <i>Groot Nieuwe Volledig Oost-Indische Kookboek</i>, published in 1925. It contains nearly 1,400 recipes, including three <i>spekkoek</i> recipes in its <i>inlandsche bakken</i> (native baking) chapter. <i>Image reproduced from van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great New Complete East Indies Cookbook]. Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings)</i>.
-</div>
-
-The other two *inlandsche* recipes are classic *spekkoek*, and both require “two persons… two skillets… two deep bowls… two wicker brooms or egg beaters” (see text box below) to wrangle one plain white batter and one spiced brown batter, baked in alternating layers. Their formulas otherwise differ: one rests on copious butter and flour, plus cloves, cardamom, cinnamon, nutmeg and mace; the other is more egg-rich, and omits nutmeg and mace but includes crushed *ang-khak*,[^6] or Chinese red yeast rice. This last item is especially intriguing given Soemantri’s observation that *lapis legit* spice blends are “similar to Chinese five-spice… there is a *lapis legit* recipe that uses fennel also”.[^7]
-
-|**BEAT 16 EGG YOLKS… FOR ONE HOUR**|
-
-|The following is a 1925 recipe for *spekkoek* from *Groot nieuw volledig Oost-Indisch kookboek* (*Great New Complete East Indies Cookbook*), translated from the original Dutch by Christopher Tan.[^8] The cake, in its springform pan, may have been baked within a metal vessel with hot coals underneath and/or on top of its lid. Dutch technical prowess at casting such pots led to such vessels being dubbed “Dutch ovens” by other nations in the 18th century.|
-
-|**Kwée lapis (Spekkoek)**|
-
-|Thirty eggs, the whites beaten separately, 30 tablespoons fine dry white sugar, 15 tablespoons sifted flour, one pound washed butter,[^9] two dessertspoons finely pounded Chinese red rice or red yeast rice (*ang-khak*[^10]), one teaspoon clove powder, one teaspoon finely pounded cardamom, two teaspoons finely pounded cinnamon, melted butter.|
-
-|Preparation:|
-
-|To make the batters for this cake, two persons are needed, as well as two pots, two deep bowls[^11] and two wicker brooms[^12] or egg beaters.|
-
-|One batter may not stand longer than the other: this is why the above-mentioned ingredients are divided into two lots.|
-
-|In one of the pots, beat 16 egg yolks with 16 tablespoons of fine dry white sugar for one hour,[^13] until the mixture is as smooth as butter.[^14] Then add eight tablespoons of flour one by one, then add half a pound of washed butter in small increments while beating constantly.|
-
-|In the second pot, beat the remaining 14 egg yolks with seven tablespoons of the white sugar and seven tablespoons of flour, along with the spices mentioned above, and half a pound of butter.|
-
-|When the batters in the two pots have been well mixed, add the whipped egg whites a spoonful at a time, 16 egg whites for the 16-yolk batter lot.[^15]|
-
-|The cake is baked in layers in a springform pan,[^16] which must first be brushed well with butter.|
-
-|The first layer must be thoroughly dry and well cooked: before you add a second layer of the spiced batter, press it down with a muslin-wrapped hand,[^17] then brush some melted butter over it.[^18] Then continue to bake the batters alternately in layers.|
-
-|When you have baked four layers, prick the cake with a knitting needle: if nothing adheres to the needle then the layers are done, and you can continue layering; otherwise let them bake for a while longer.[^19]|
-
-|Use a soup ladle that is not too large to scoop the batter.|
-
-|For convenience’s sake, you can also make this cake using only the first batter, and after every layer is baked, sprinkle it well with the mixed spices, and then top with the batter again.|
-
-|<img src="/images/Vol-16-issue-4/kuehlapis/JavaneseKueRecipes.png">Javanese *kue lapis* and *spekkoek* recipes in the *Groot Nieuwe Volledig Oost-Indische Kookboek*, published in 1925. *Reproduced from van der Meijden, J.M.J.C. (1925). Groot nieuw volledig Oost-Indisch kookboek [Great New Complete East Indies Cookbook] (p. 305). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings)*.|
-
-Vintage recipes using a single spiced batter are also common. Besides the *Haagsche Kookschool* book, *Kokki Bitja* (*Beloved Cook;* 1859),[^20] *Oost-Indisch Kookboek* (*East Indies Cookbook*; 1870)[^21] and *Het Nieuwe Kookboek* (*The New Cookbook*; 1925)[^22] all take this tack for their *spekkoek*. The *Groot Nieuw Volledig Oost-Indische Kookboek* also lists a single plain-batter variation, “for convenience”, with the spices merely sprinkled over each layer after the cake is baked. In a *Straits Times* interview in 1983, famed Kampong Glam culinarian Hajjah Asfiah binte Haji Abdullah called this version *kueh baulu lapis*, which she would make to sell at her Ramadan bazaar stall near Bussorah Street.[^23]
-
-Dutch-Indonesian chef Jeff Keasberry identifies the two-batter cake with fewer total layers as Indo-Dutch *spekkoek* that originates from the Dutch East Indies era, a species older than and distinct from what he calls Indonesian *kue lapis legit*, which uses a single batter and has thinner and more layers – at least 18, according to him.[^24] Indonesian culinary teacher and author Sitti Nur Zainuddin-Moro also makes the same distinction in her influential cookbook *Kue-Kue Manasuka* (*Kue You Will Like*; 1980), naming the two-batter version *Sepekuk Biasa* (ordinary *spekkoek*), and the other *lapis legit*.[^25]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/TwoBatterCake.jpg">
-Dutch-Indonesian chef Jeff Keasberry identifies the two-batter cake with fewer total layers as Indo-Dutch <i>spekkoek</i> (right) originating from the Dutch East Indies era, a species older than and distinct from what he calls Indonesian <i>kue lapis legit</i> (left), which uses a single batter and has more and thinner layers. <i>Courtesy of Jeff Keasberry</i>.
-</div>
-
-Many examples of both variants have appeared in Singaporean recipe books over the years, although their names are sometimes conflated. Mrs Susie Hing’s landmark 1956 cookbook, *In A Malayan Kitchen*, includes a *spekkoek* recipe (and a *koningskroon* recipe) that Dutch readers from earlier generations would have recognised straightaway.[^26]
-
-A 1957 *Straits Times* article records a *spekkoek* recipe by a Mrs Rosaleen Yang, who baked alternating plain and cocoa-spiked batters in “a copper or brass pan”.[^27] A similar recipe for *Lapis Betawi* (Batavia, as Jakarta was called under the Dutch) appeared in *Berita Harian* in 1968, which called for a generous amount of spice to augment the cocoa.[^28]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/VintageBrass.jpg">
-A vintage brass pan of the type used for baking <i>kueh lapis legit</i>. Note the “scars” on the lid left by hot coals. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-In 1981, the *New Nation* published Nonya doyenne and cookbook author Mrs Leong Yee Soo’s single-batter Speckok Kueh Lapis Batavia recipe, which details the importance of pricking each cooked layer with a skewer to deflate bubbles and create microscopic holes for the next layer’s batter to flow in, for better adhesion.[^29] In 1977, the *Straits Times* featured a recipe by one Cik Khatijah Ashiblie for Lapis Mascovrish, whose vanilla batter was layered with almonds and raisins.[^30]
-
-Outside of home kitchens, only a few stores in Singapore made or imported *spekkoek* and *kue lapis* in the early 20th century. One such establishment was the Java Restaurant (originally Mooi Thien Restaurant) on North Bridge Road – described in a 1950 *Straits Times* article as being “not unlike a Paris bistro”[^31] – where founder Lim Djin Hai and his family served both Javanese and European food in the late 1940s. Prior to emigrating to Singapore in 1946, Lim was a caterer in his hometown of Bencoolen (now Bengkulu), where one of his clients was the then Governor-General of the Dutch East Indies. (Java Restaurant later moved to Killiney Road, morphing into the Java Provision Store, where for over 25 years it purveyed home-baked and imported Indo-Dutch goods.)
-
-#### **Building a Mystery**
-
-The early origin stories of *spekkoek* and *lapis legit* remain largely unknown, despite their widespread popularity. *Spekkoek* derives from the Dutch words *spek koek*, meaning “bacon cake”, no doubt an allusion to the cake’s pale and red-brown stripes. However, there seem to be no records in the Netherlands of any layered cake by that name which pre-dates *lapis legit*, and neither is there such an extant cake there.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/SpekkoekRecipe.jpg">
-The <i>Spekkoek</i> recipe from <i>In a Malayan Kitchen</i>. <i>Spek koek</i> means “bacon cake” in Dutch. Both bacon and cake bear stripes – as can ribbons, as this recipe’s subtitle references. <i>Reproduced from Hing, S. (1956). In a Malayan Kitchen (p. 65). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)</i>.
-</div>
-
-Some have suggested *spekkoek* has its origins in the German *baumkuchen*, the “tree-ring” cake considered the ultimate test and accomplishment of a *konditormeister* (master pastry chef). However, *baumkuchen* has a drier texture than *spekkoek* and is made using a different method: its cylindrical layers are built up around a rotating spit. Also, German records clearly trace its evolution from a dough-based cake in the 1500s into the batter-based form known from the 1700s until today.[^32] “There is no significant record of Prussian people in Indonesia,” says Soemantri, but “perhaps *baumkuchen* influenced the original Dutch *spekkoek*”.[^33]
-
-Here is a curious similarity though: *baumkuchen* is traditionally flavoured with spices (cinnamon, cardamom, nutmeg, ginger or vanilla), citrus, nuts (most often almonds) and liquor. The oldest *spekkoek* recipe I have come across, from *Kokki Bitja*, calls for clove, cardamom, white pepper, *jeruk cina* (mandarin orange) zest, kenari nuts and brandy. Mere coincidence or distant cousinhood?
-
-A more plausible progenitor for *kue lapis legit* may be the layer cakes traditionally made in southern China to celebrate the annual Double Ninth festival – recipes which travelled to maritime Southeast Asia with the Chinese diaspora. Chiefly rice-based, these cakes are steamed layer by layer, frequently with alternating batters of different colours, often tinted with – yes – red yeast rice. Chinese communities in Southeast Asia still make these today; in Indonesia they are simply called *kue lapis*, but old Dutch and Indonesian cookbooks identify them as *kue lapis cina*[^34] or *kue lapis jawa*. In *Kue-Kue Manasuka*, Sitti Nur Zainuddin-Moro records a Batavian recipe for a red and white version called “Lapis Merah Putih (Betawi)”.[^35]
-
-The auspicious Chinese saying and wish for success 歩歩高升 (*bu bu gao sheng*, which means “rising step by step”) is embodied by both steamed and baked *lapis*. For the Indonesian Chinese, *lapis legit* “is always related to celebration, and for them, its many layers equal prosperity,” says Soemantri.[^36]
-
-#### **A Nonlinear Lineage**
-
-Indeed, *kueh lapis legit* is nothing if not rich. In my family, we let it sit untouched for at least a couple of days post-baking, so that all the butter and spice can fully permeate its crumb. When at last it falls under the knife, the sight of even, lovely lamina evokes great relief in the baker, who discovers only at this moment if the deck was stacked for success.
-
-So what might have bridged the gap between steamed rice-flour layers and baked wheat-flour layers, and how? Permit me to suggest a trip to Palembang. Now South Sumatra’s capital, Palembang was formerly the capital of the Srivijayan empire, a Buddhist kingdom which endured from around the 7th century to the 13th century. Its trade links with China, South Asia and the Middle East ensured a constant flow of goods, pilgrims, cultures and languages between those regions and the Malay Archipelago. This made Palembang a fertile place for culinary ferment.
-
-The city lays claim to several *lapis* varieties. Some are modern glosses on the form – made with pineapple jam between strata (*lapis nenas*), a multi-layered version of the regional pandan-scented specialty *bolu kojo* (*lapis kojo*), and so on.[^37] Two older signature Palembang *lapis* types are much closer in spirit to *spekkoek*, baked the same way but with fewer, slightly thicker layers.
-
-One of them, *kue maksuba*, is made using chicken and/or duck eggs, butter or margarine, sugar, condensed milk and vanilla, with flour in miniscule quantity or, most often, entirely absent. Essentially a hyper-rich custard, *kue maksuba* has a smooth solidity not unlike the Malay *kuih bakar*, with less of a cake-like vibe than orthodox *spekkoek*.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/SteamedRiceKue.jpg">
-Steamed rice-based <i>kue lapis</i> for sale at a <i>kue pasar</i> (market) in Jakarta. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-The other *lapis* variety, *kue engkak ketan*, has the same ingredients as *kue maksuba*, plus two key elements: glutinous rice flour, and *blondo* or *glondo* – thick coconut milk which has been boiled until some of its oil has separated out. The oily sheen from the *blondo* and a faint springiness from the glutinous rice flour strongly recall steamed *kue lapis cina*, while the heavy doses of butter and condensed milk bestow a European richness. However, the airlessly dense wheat-free crumb and the lack of spice means the resemblance to *spekkoek* is only partial.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kuehlapis/HomeMadeKue.jpg">
-Home-made <i>kue engkak ketan</i>, composed of glutinous rice flour, eggs, butter, sugar, condensed milk, and <i>blondo</i> – boiled, oily coconut milk. <i>Courtesy of Christopher Tan</i>.
-</div>
-
-*Kue engkak ketan* reminds me strongly of another sweet, one from Goa, India. *Bebinca*, also called *bibinca* or *bibik*, is a colonial legacy said to be a Portuguese recipe but tweaked with local ingredients. It has many *spekkoek*-like traits, first and foremost a very rich batter made of egg yolk and coconut milk, with comparatively little wheat flour, and spiced with cardamom and nutmeg. *Bebinca* is traditionally “baked” layer by layer – some recipes specify seven layers, others multiples of seven – under a pot lid holding burning wood or coconut husks, with clarified butter brushed over each layer. It must rest for several hours before being sliced. In terms of flavour and texture, *bebinca* sits squarely between *spekkoek* and *kue engkak ketan*.
-
-*Bebinca*’s creation is often attributed to a (possibly apocryphal) nun named Bibiana or Bebiana at the Convent of Santa Monica in Goa, whose devout sisters were famed for their culinary skills and repertoire of festive sweetmeats.[^38] Alternative origin stories suggest links with other similarly named Asian baked goods such as the Filipino *bibingka* and the Macanese *bebinca*; however, these purported family resemblances are scattered and hard to qualify. For instance, in Macau, *bebinca de leite* is a baked milk custard and *bebinca de inhame* is yam cake (*wu tau koh* in Cantonese), and neither is layered.
-
-That said, there is a Goan *bebinca* variation made with mashed potatoes and baked in a single layer, which is all but identical to Malay *kuih bingka kentang*. In fact, many Goan sweetmeats appear to be cognates of Southeast Asian ones. These include *kulkuls* (crisp shell-shaped pastries), cousins of *kuih siput*; *alle belle* (crepes rolled around grated coconut cooked with palm sugar), which are much like *kuih dadar*; *pinaca* (roasted rice and coconut pounded with palm sugar and warm spices), the twin of Peranakan *kueh dadu*; and Goan *dodol* (rice, palm sugar and coconut milk toffee), which differs from Indonesian *dodol* only in that Goan cooks use regular rice instead of glutinous rice.
-
-Food historian Janet Boileau quotes Macanese-culture expert Rui Rocha in speculating that Southeast Asian desserts likely travelled westward to Goa, perhaps via Melaka, and were assimilated into local and Catholic culinary and confectionery traditions there.[^39]
-
-*Bebinca* is also traditional to East Timor, a Portuguese colony up until the 1970s. Though they seem similar, it is unclear whether Timorese *bebinca* prefigured or instead descended from the Goan version. Such intricately connected and mingled gastronomy is the legacy of centuries of Dutch and Portuguese colonisers contending over the same turf in Asia and around the world. While not as emblematic to Singapore’s Eurasians as sugee cake, *spekkoek* is also made by that community, whose origins, history and traditions incorporate both Portuguese and Dutch heritage.[^40]
-
-#### **Much More Than Its Seams**
-
-Perhaps this is how the story could have gone: a colonial-era cook makes a Dutch *taart* (butter cake) batter. Some extra eggs are on hand, so in they go – has she not seen Portuguese cooks do likewise to make their cakes richer, softer, more velvety? Familiar with European cakes baked in separate layers and then assembled, she wonders if the layers could be baked *in situ* instead, just as her Chinese neighbours steam their cakes, and what if that uprising steam was replaced by coal heat radiating from above? And then, surrounded by – or maybe only dreaming of – the East Indies, she seizes on spices from that corner of the empire, those seeds and bark and buds whose aromas lift the spirits. Should these infuse all the batter? Or only half of it, for layers that alternate colours and scents? She thinks and experiments, and so it goes.
-
-Imagine such a narrative, writ not by a single person over an afternoon, but by numberless cooks and bakers, exchanging ideas and handing down legacies through the generations as they spread and grill and press and brush. Is this line of thought and practice not destined to birth something marvellous, something enduringly delicious? As *The Straits Times* opined in a 1957 article about making *spiku* (another nickname for *spekkoek*) for Hari Raya: “The results are more than equal to those achieved by even the most accomplished pastrycook of Vienna.”[^41]
-
-I could not agree more. If mindfully made, each spice-flecked strata should be a beautiful paradox: coherent enough to peel off without tearing, yet thin and fragile enough to melt on the tongue; dairy-lush and spice-opulent, but debonair and delicate, and never ponderous.
-
-Having taken over *lapis*-making duties from my elders, I understand more keenly why this *kueh* and its kin have enjoyed such longevity and such exalted status. Refining and notating my family’s *lapis legit* recipe for my book, *The Way of Kueh*,[^42] took me months of research and testing, over 1,300 words and finally three pages of text and photos to do it full justice. Yes, *lapis legit* and *spekkoek* require significant mental and physical investment, but when they are imbued with care and commitment, their glory – and the accompanying feeling of achievement – transcends every ounce of expended effort. Master this cake, and you can truly say you have earned your stripes.
-
-<div class="infobox"> 
-<img src="/images/Vol-16-issue-4/kuehlapis/TheWayOfKueh.png" style="width: 350px; height: 200px;"/>
-Christopher Tan’s book, <i>The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts</i> (2019), won Book of the Year at the 2020 Singapore Book Awards and was also the winner in the Best Illustrated Non-Fiction Title category. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932">(Call nos.: RSING 641.595957 TAN and SING 641.595957 TAN)</a>. It also retails at major bookshops in Singapore.
-</div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/Christopher_Tan.png" style="width: 100px; height: 100px;" />
-<b>Christopher Tan</b> is a food writer, author, cooking instructor and photographer whose latest book is the award-winning <i>The Way of Kueh</i>, a comprehensive work about Singapore’s <i>kueh</i> culture.
+<img src="/images/Vol-17-issue-1/authors/timothy_pwee.png" style="width: 100px; height: 100px;" />
+<b>Timothy Pwee</b> is a Senior Librarian with the National Library, Singapore. He is interested in Singapore’s business and natural histories and is developing the library’s donor collections around these areas.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
-[^1]: Throughout this article, I have used different spellings for the word *kuih*, as appropriate to that community to whose desserts I am referring: hence *kuih* for Malay items, *kueh* for Peranakan items, and *kue* for Indonesian items, plus idiosyncratic spelling within direct quotes. *Legit*, pronounced with a hard “g”, means “sweet” or “sticky” in Bahasa Indonesia.
+[^1]: Survey Department, Singapore. (1836). Map of the town and environs of Singapore [Map]. Retrieved from National Archives of Singapore website.
 
-[^2]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+[^2]: A second edition was published in 1846. See National Archives of Singapore. (1846). Plan of Singapore town and adjoining districts [Map]. Retrieved from National Archives of Singapore website.  
 
-[^3]: Pamudji, D. (1986). *Hidangan ringan: Party snacks*. Kuala Lumpur: Arenabuku Sdn Bhd. (Not available in NLB holdings). Among the author’s *lapis* recipes are a few with “tikar” designs, constructed by rotating and reassembling cut sections of *lapis*, to yield complex patterns when sliced across. These pre-date by over a decade the more colourful *lapis* designs popular in Sarawak.
+[^3]: Tan, G.L. (2018). An introduction to the culture and history of the Teochews in Singapore (p. 44). Singapore: World Scientific. (Call no.: RSING 305.895105957 TAN)
 
-[^4]: Manden, A.C. (1895). *Recepten van de Haagsche kookschool* [*Recipes from the Hague Cooking School*] (p. 244). The Hague: De Gebroeders van Cleef. (Not available in NLB holdings). Founded in the late 1800s, the school provided its female students with formal culinary training.
+[^4]: Bartley, W. (1969, July). Population of Singapore in 1819. Journal of the Malaysian Branch of the Royal Asiatic Society, 42 (1), 112–113. Retrieved from JSTOR via NLB’s eResources website.
 
-[^5]: Van der Meijden, J.M.J.C. (1925). *Groot nieuw volledig Oost-Indisch kookboek* [*Great new complete East Indies cookbook*] (pp. 305–306). Malang: G.C.T. Van Dorp & Co. (Not available in NLB holdings). A mammoth book chronicling nearly 1,400 recipes from the Dutch East Indies, written to help familiarise Dutch cooks with the cuisine.
+[^5]: For more information about betel chewing, see Lim, F., & Pakiam, G. (2020, October–December). A bite of history: Betel chewing in Singapore. BiblioAsia, 16 (3), 4–9. Retrieved from BiblioAsia website.
 
-[^6]: Also known as red rice, this is rice inoculated with a yeast strain that produces a vivid red pigment as it grows. The dried grains are a traditional Chinese ingredient used to make rice wine and to add colour to dishes.
+[^6]: Low, S.C. (1955). Gambier-and-pepper planting in Singapore, 1819–1860 (p. 36) [University of Malaya, Singapore; thesis]. [n.p.]. (Call no.: RCLOS 630.95957 LOW)
 
-[^7]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+[^7]: Song, O.S. (1923). One hundred years’ history of the Chinese in Singapore (p. 20). London: John Murray. Retrieved from BookSG. (Call no.: RCLOS 959.57 SON; Accession no.: B02956336A). For more information about Seah Eu Chin, see Yong, C.Y. (2016). Seah Eu Chin. Retrieved from Singapore Infopedia website.
 
-[^8]: Van der Meijden, 1925, p. 305.
+[^8]: Low, 1955, p. 37.
 
-[^9]: Freshly churned butter is always washed with plain water to remove all traces of buttermilk – the liquid separated from the butterfat by the churning – and casein dairy proteins. If not washed away, these make the butter develop rancid off-flavours and turn bad.
+[^9]: Montgomerie, W. (1843–44). Cultivation of nutmegs at Singapore. Transactions of the Society, Instituted at London, for the Encouragement of Arts, Manufactures, and Commerce, 54, 38–50. Retrieved from JSTOR via NLB’s eResources website.
 
-[^10]: See note 6.
+[^10]: Balestier, J., & Montgomerie, W. (1841, November 25). From an unpublished journal of a residence at Singapore: During part of 1840 & 41. The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG.
 
-[^11]: The batters are mixed in the pots so presumably the bowls are used for beating the egg whites.
+[^11]: Lee, K.L. (1984). Emerald Hill: The story of a street in words and pictures (p. 1). Singapore: National Museum of Singapore. (Call no.: RSING 959.57 LEE)
 
-[^12]: Small brooms – bundled plant stalks or twigs  – were historically used to beat liquid ingredients. Metal whisks only started to become more common around the early 20th century.
+[^12]: Earl, G.W. (1837). The eastern seas, or voyages and adventures in the Indian Archipelago, 1832–33–34 
+(pp. 408–409). London: W.H. Allen & Co. Retrieved from BookSG. (Call no.: RRARE 915.980422 EAR; Accession no.: B02948006G)
 
-[^13]: Brooms are not very efficient whisks.
+[^13]: Duxton. (1834, January 1). Singapore Chronicle and Commercial Register, p. 1. Retrieved from NewspaperSG.
 
-[^14]: Presumably this means a thick and creamy foam.
+[^14]: Page 4 Advertisements Column 2: For sale by auction, the valuable nutmeg plantation, belonging to the estate of the late Dr. Montgomerie. (1856, September 9). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
-[^15]: And presumably do the same for the remaining 14 whites for the 14-yolk batter lot, although the recipe does not spell this out.
+[^15]: The statistics of nutmeg. (1849). The Journal of the Indian Archipelago and Eastern Asia, Vol. III. pp. iii–vii, p. iv. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
 
-[^16]: Springform pans with latched sides and removable bases were largely the same then as they still are now. Pan size is unmentioned, so this was either standard knowledge, or the reader is expected to know how to make do.
+[^16]: Cameron, J. (1865). Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca; Their peoples, products, commerce, and government (p. 168). London: Smith, Elder & Co. Retrieved from BookSG. (Call no.: RRARE 959.5 CAM-[JSB]; Accession no.: B29032445G)
 
-[^17]: The muslin prevents the cake layer from sticking to your hand as you flatten it.
+[^17]: Ridley, H.N. (1897, April). Spices. Agricultural Bulletin of the Malay Peninsula, (6), 96–129, p. 106; De Guzman, C.C., & Siemonsma, J.S. (Eds.). (1999). Spices. Bogor, Indonesia: PROSEA Foundation. (Call no.: RCLOS 633.830959 SPI). For more information about Henry Nicholas Ridley, see Cornelius-Takahama, V. (2016). Henry Nicholas Ridley. Retrieved from Singapore Infopedia website. 
 
-[^18]: The layering alternates the two batters; every layer is pressed and butter-brushed.
+[^18]: Balestier, J., & Montgomerie, W. (1841, November 11). 
+From an unpublished journal of a residence at Singapore: During part of 1840 & 41. The Singapore Free Press and Mercantile Advertiser, p. 23. Retrieved from NewspaperSG.
 
-[^19]: The needle test checks for uncooked batter under the surface: heat sources were not always even. The baking set-up is not detailed, but it would have featured top-down heat.
+[^19]: Brooke, G.E. (1921). Botanic gardens and economic notes (p. 71). In W. Makepeace, G.E. Brooke & R.St.J. Braddell (Eds.), One hundred years of Singapore (Vol. II; pp. 63–78). London: John Murray. (Call no.: RCLOS 959.51 MAK)
 
-[^20]: Cornelia, N. (1859). *Kokki bitja* [*Beloved cook*] (p. 160). Batavia: Lange & Co. (Not available in NLB holdings). Written in Indonesian, this book includes both traditional Indonesian and Dutch recipes.
+[^20]: Kong, L., & Chang, T.C. (2001). Joo Chiat: A living legacy (p. 29). Singapore: Joo Chiat Citizens’ Consultative Committee & National Archives of Singapore. 
+(Call no.: RSING q959.57 KON)
 
-[^21]: *Oost-Indisch kookboek* [*East Indies cookbook*] (pp. 62, 89). (1870). Semarang: Van Dorp & Co. (Not available in NLB holdings). The first Dutch-language cookbook of Indonesian recipes.
+[^21]: For more information about Hoo Ah Kay, see Tan, B. (2019, August). Hoo Ah Kay. Retrieved from Singapore Infopedia website. 
 
-[^22]: Koopmans-Gorter, A., & De Boer-De Jonge, G.A.M. (1925). *Het nieuwe kookboek* [*The new cookbook*] (p. 307). Groningen: P. Noordhoff. (Not available in NLB holdings)
+[^22]: Corlett, R.T. (1992, July). The ecological transformation of Singapore. Journal of Biogeography, 19 (4), 411–420. Retrieved from JSTOR via NLB’s eResources website.
 
-[^23]: [Delicacies and titbits for Hari Raya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830705-1.2.94.6.1). (1983, July 5). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^23]: Page 1 Advertisements Column 3: Notice. (1845, June 12). The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG. 
 
-[^24]: Keasberry, J. (2019, February 25). *Spekkoek and kue lapis legit differences revealed*. Retrieved from Cooking with Keasberry website.
+[^24]: Buckley, C.B. (1902).  An anecdotal history of old times in Singapore (Vol. I; p. 185). Singapore: Fraser and Neave. Retrieved from BookSG. (Call no.: RRARE 959.57 BUC; Accession no.: B02966440I). For more information about Jose d’Almeida, see Ong, E.C. (2019, May). Jose d’Almeida. Retrieved from Singapore Infopedia website. 
 
-[^25]: Sitti Nur Zainuddin-Moro. (1980). *[Kue-kue manasuka](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125292)* [*Kue you will like*] (pp. 130, 132). Jakarta: Dian Rakyat. (Call no.: RSEA 641.5 ZAI). The author, a cooking academy veteran, formidably marshals 272 recipes for Indonesian *kue*, colonial delicacies, Western-style cakes, savoury snacks and pantry essentials.
+[^25]: Brooke, 1921, p. 71.
 
-[^26]: Hing, S. (1956). *[In a Malayan kitchen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437)* (pp. 65–66). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN). A wonderfully eclectic treasure trove of recipes spanning Indonesian, Malay, Chinese, Dutch and colonial “fusion” items.
+[^26]: Crawfurd, J. (1849). Agriculture of Singapore. The Journal of the Indian Archipelago and Eastern Asia, Vol. III, 508–511, p. 509. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
 
-[^27]: [Prelude to New Year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570124-1.2.125). (1957, January 24). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^27]: Cameron, 1865, p. 34.
 
-[^28]: [Kueh bangket kelapa dan lapis betawi, waduh, lazat sa-kali!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19680602-1.2.65) (1968, June 2). *Berita Harian*, p. 8. Retrieved from NewspaperSG. This recipe has a truly decadent butter-to-flour ratio of around 6:1.
+[^28]: Little, R. (1848). An essay on coral reefs as the cause of Blakan Mati fever, and of the fevers in various parts of the East. The Journal of the Indian Archipelago and Eastern Asia, Vol. II, 571–602, pp. 573–583. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03014449C)
 
-[^29]: [Feast with the experts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810129-1.2.61.1). (1981, January 29). *New Nation*, p. 10. Retrieved from NewspaperSG. The name Speckok Kueh Lapis Batavia comes from Mrs Leong Yee Soo’s classic local cookbook, *Singaporean Cooking*. See Leong, Y.S. (1976). *[Singaporean cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551115)*. Singapore: Eastern Universities Press Sdn Bhd. (Call no.: RSING 641.595957 LEO)
+[^29]: Earl, 1837, p. 352.
 
-[^30]: [Hari Raya delight for you to try](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770913-1.2.144.3). (1977, September 13). *The Straits Times*, p. 34. Retrieved from NewspaperSG. “Mascovrish” is likely a rendering of “moscovis”, a Dutch colonial-era name attached to cakes made with dried fruit or candied peel. “Moscovis” refers to Russia, although the connection to the country is unclear.
+[^30]: Balestier, J., & Montgomerie, W. (1841, December 2). From an unpublished journal of a residence at Singapore: During part of 1840 & 41. The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG.
 
-[^31]: [Chefs of S’pore–3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500427-1.2.180). (1950, April 27). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^31]: Thomson, J.T. (1850). General report on the residency of Singapore, drawn up principally with a view of illustrating its agricultural statistics. The Journal of the Indian Archipelago and Eastern Asia, Vol. IV, 134–143, p. 140. (Call no.: RRARE 950.05 JOU; Microfilm no.: NL25791)
 
-[^32]: *Fritz Hahn: The Baumkuchen family*. (2017). Retrieved from settinger.net website.
+[^32]: Pwee, T. (2015, July–September). The French can. BiblioAsia, 11 (2), 38. Retrieved from BiblioAsia website.
 
-[^33]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+[^33]: Pineapple industry. (1908, September 2). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
-[^34]: Keijner, W.C. (1972). *Kookboek voor Hollandse, Chinese en Indonesische derechten* [*Cookbook for Dutch, Chinese and Indonesian dishes*] (p. 161). Amsterdam: Uitgeverij J. F. Duwaer & Zonenmsterdam. (Not available in NLB holdings)
+[^34]: C.D. (1908, July 25). Planting in Singapore. The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG.
 
-[^35]: [Sitti Nur Zainuddin-Moro](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125292), 1980, p. 18.
+[^35]: For more information about Tan Kah Kee, see Tan, B., & Wee, J. (2016). Tan Kah Kee. Retrieved from Singapore Infopedia website. 
 
-[^36]: Personal communication with Kevindra Soemantri (www.feastin.id), 23–30 March, 2019.
+[^36]: First pineapple canning factory in Federated Malay States. (1922, June 20). The Singapore Free Press and Mercantile Advertiser, p. 7. Retrieved from NewspaperSG.
 
-[^37]: Rudy, G. (2020). *23 resep kue autentik Palembang* [*23 authentic Palembang cake recipes*]. Jakarta: Kompas Gramedia. (Not available in NLB holdings). Nine kinds of Palembang *lapis* are pictured on this book’s cover.
+[^37]: For more information about Lee Kong Chian, see Nor-Afidah Abd Rahman & Wee, J. (2011). Lee Kong Chian. Retrieved from Singapore Infopedia website.
 
-[^38]: Doctor, V. (2019, March 25). *Tried bebinca yet? The Goan queen of desserts packs layers of flavour and history*. Retrieved from The Economic Times website.
+[^38]: For more information about Tan Chay Yan, see Sutherland, D. (2009). Tan Chay Yan. Retrieved from Singapore Infopedia website.
 
-[^39]: Personal communication with Janet P. Boileau (www.janetboileau.com), October 2008.
+[^39]: [Untitled]. (1910, August 11). The Straits Times, p. 6; Tampenis Plantations, Ltd. (1910, September 10). The Straits Times, p. 7; The Sembawang sale. (1910, November 11). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
-[^40]: Braga-Blake, M., Ebert-Oehlers, A., & Pereira, A.A. (2017). *[Singapore Eurasians: Memories, hopes and dreams](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202743122)* (p. 246). Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
+[^40]: Bukit Sembawang. (1912, July 10). The Singapore Free Press and Mercantile Advertiser, p. 4; Singapore United Rubber Plantations Limited. (1912, December 11). The Singapore Free Press and Mercantile Advertiser, p. 4. Retrieved from NewspaperSG.
 
-[^41]: [Malay women are very busy now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570430-1.2.97.1). (1957, April 30). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^41]: The shortage of land. (1952, August 23). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
-[^42]: Tan, C. (2019). *[The way of kueh: Savouring & saving Singapore’s heritage desserts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932)*. Singapore: Epigram Books. (Call no.: RSING 641.595957 TAN)
+[^42]: Companies plan to build and sell. (1954, November 29). The Straits Times, p. 8. Retrieved from NewspaperSG.
