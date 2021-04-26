@@ -23,8 +23,8 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg">
-In this set of drawings from the Dumbarton Folio featuring mangosteens, there are unopened flower buds, flowers in full bloom, juvenile fruits as well as fully ripe ones, all on the same branch. The other three types of fruit are the ivory yellow rambutan, <i>jambu air</i> and <i>buah melaka</i>. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
+<img src="/images/Vol-17-issue-1/magic/pawang.jpg">
+A Malay <i>pawang</i> of the Straits Settlements, c. 1900. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
 Originally published in 1900, Walter William Skeat’s *Malay Magic* was conceived as a comprehensive description of Malay beliefs, folklore and customs. Among other things, it covers customs and rites relating to various aspects of the natural world.
@@ -32,6 +32,12 @@ Originally published in 1900, Walter William Skeat’s *Malay Magic* was conceiv
 For example, Skeat writes about how Malay *pawang* (shamans) detect perfumed agarwood (also known as eaglewood), or locally, gaharu.1 The perfume is created by a disease that infects the inner heartwood of the aquilaria tree, making it impossible to tell if a tree is valuable from the outside, hence the need for a pawang. According to Skeat, the process involves the pawang burning incense and repeating a charm or formula until the right tree is found.
 
 Skeat’s work was considered groundbreaking but some scholars have critiqued the work for positioning Malay knowledge and practices as “charms” and “rituals”, where in many cases they were simply traditions through which practical experience and scientific information were passed on.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/magic/malaymagic.png">
+The title page of <i>Malay Magic</i> by Walter William Skeat.<i> Skeat, W.W. (1900). Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula. London: Macmillan and Co., Limited. Retrieved from BookSG. Collection of the National Library, Singapore. (Call no.: RRARE 398.4 SKE; Accession no.: B02930611K)</i>.
+</div>
 
 During the colonial era, data-collecting and knowledge-building went hand-in-hand with conquest and territorial expansion. This was as true of the British Empire as it was with the other European powers – like the French, Dutch and Portuguese – who expanded their spheres of influence across Southeast Asia.
 
