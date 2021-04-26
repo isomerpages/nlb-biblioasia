@@ -154,8 +154,7 @@ The relationship between forests and the climate is complex. A look at the envir
 
 [^8]: Trocki, C.A. (1976). The origins of the kangchu system 1740–1860. *Journal of the Malaysian Branch of the Royal Asiatic Society, 49* (2) (230), 132–155, p. 139. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^9]: Jackson, J.C. (1965, July). Chinese agricultural pioneering in Singapore and Johore 1800–1917. *Journal of the Malaysian Branch of the Royal Asiatic Society 38* (1) (207), 77–105, 
-p. 80. Retrieved from JSTOR via NLB’s eResources website.
+[^9]: Jackson, J.C. (1965, July). Chinese agricultural pioneering in Singapore and Johore 1800–1917. *Journal of the Malaysian Branch of the Royal Asiatic Society 38* (1) (207), 77–105, p. 80. Retrieved from JSTOR via NLB’s eResources website.
 
 [^10]: Balestier, J. (1848). *[Views of the state of agriculture in the British possessions in the Straits of Malacca](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202498183)* (p. 146). [n.p.]. (Call no.: RRARE 630.95951 BAL; Accession no.: B29029409B)
 
