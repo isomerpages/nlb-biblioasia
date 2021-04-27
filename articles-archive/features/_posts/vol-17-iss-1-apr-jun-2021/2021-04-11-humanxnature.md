@@ -141,7 +141,7 @@ His subsequent relentless promotion of the commercial value of rubber and the la
 The study of Southeast Asia’s natural history has been driven by many factors, including colonialism, territorial expansion and the European pursuit of knowledge. This perception of nature, shaped primarily by collection, classification and ultimately profit, paved the way for the large-scale exploitation and transformation of the landscape of Singapore and the region.  
 
 <div class="infobox"> 
-<img src="/images/Vol-17-issue-1/humanxnature/x.png" style="width: 300px; height: 200px;"/>
+<img src="/images/Vol-17-issue-1/humanxnature/x.png" style="width: 250px; height: 350px;"/>
 Visit the “Human x Nature: Environmental Histories of Singapore” exhibition at the Gallery on Level 10 of the National Library building on Victoria Street. Featuring over 150 artefacts, it explores our relationship with the natural world, from cultural understandings and scientific study to commercial and urban land use. It also examines efforts at conservation and restoration.
 </div>
 
