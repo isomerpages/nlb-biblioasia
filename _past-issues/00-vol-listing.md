@@ -1,6 +1,6 @@
 ---
-title: Past Issues
-permalink: /past-issues/
+title: All Issues
+permalink: /all-issues/
 breadcrumb: Overview
 collection_name: past-issues
 ---
