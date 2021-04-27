@@ -29,6 +29,12 @@ A Malay <i>pawang</i> of the Straits Settlements, c. 1900. <i>Lim Kheng Chye Col
 
 Originally published in 1900, Walter William Skeat’s *Malay Magic* was conceived as a comprehensive description of Malay beliefs, folklore and customs. Among other things, it covers customs and rites relating to various aspects of the natural world.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/magic/book.jpg">
+<i>Malay Magic</i> by Walter William Skeat. This edition was published by Silverfish Books in Kuala Lumpur, Malaysia, 2018.
+</div>
+
 For example, Skeat writes about how Malay *pawang* (shamans) detect perfumed agarwood (also known as eaglewood), or locally, *gaharu*.[^1] The perfume is created by a disease that infects the inner heartwood of the aquilaria tree, making it impossible to tell if a tree is valuable from the outside, hence the need for a *pawang*. According to Skeat, the process involves the *pawang* burning incense and repeating a charm or formula until the right tree is found.
 
 Skeat’s work was considered groundbreaking but some scholars have critiqued the work for positioning Malay knowledge and practices as “charms” and “rituals”, where in many cases they were simply traditions through which practical experience and scientific information were passed on.
@@ -81,6 +87,12 @@ From here, it does not require much effort for the present-day reader to see tha
 
 Skeat’s propensity to find magic wherever he looked is perhaps most evident in the section of his work where he discusses the role of the *pawang* of the tin mines. In chapter five, Skeat devotes an entire section on minerals in the natural world and mining charms. It is here that he writes about the “mining wizard”, an individual of considerable importance in the mining districts of Perak and Selangor.[^14]
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/magic/perak.jpg">
+Tin mining in Ipoh, Perak, c. 1910. In chapter five of <i>Malay Magic</i>, Walter William Skeat discusses the role of the “mining wizard” or <i>pawang</i>, an important individual in the mining districts of Perak and Selangor. <i>Retrieved from Southeast Asian & Caribbean Images (KITLV), Leiden University Libraries (CC BY 4.0)</i>.
+</div>
+
 Yet upon closer reading, it seems that the role of the famous “mining wizard” in the tin-mining districts was closer to that of a factory foreman, whose duty was “to carry out certain ceremonies, for which he is entitled to collect the customary fees, and enforcing certain rules for the breach of which he levies the customary fines”.[^15] The rules (or taboos/*pantang*) enforced by the *pawang* of the mines are listed by Skeat as follows (paraphrased), with the fines or penalties enclosed in brackets:[^16]
 
 1. No bringing cotton or raw cotton to the mines ($12.50); 
@@ -101,6 +113,12 @@ Yet upon closer reading, it seems that the role of the famous “mining wizard�
 16. Any *keris* (dagger) or spear that is without a sheath of its own must be covered and hidden from view (“amount uncertain”); and 
 17. The obligatory payment to the *pawang* of the sum of one *chupak* of tin sand upon the death of any miner.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/magic/hantu.jpg">
+The Spectre Huntsman (<i>hantu pemburu</i>) roams the forest carrying a spear in his right hand and with his dogs in search of a quarry. Its appearance is the harbinger of disease or death. <i>Image reproduced from Skeat, W.W. (1900). Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula (after p. 116). London: Macmillan and Co., Limited. Retrieved from BookSG. Collection of the National Library, Singapore. (Call no.: RRARE 398.4 SKE; Accession no.: B02930611K)</i>.
+</div>
+
 Just exactly how most of these rules could count as “magical” is difficult to see as they seem to be more practical in nature. From the mid-19th century onwards, the tin-mining districts of Perak and Selangor were opened up even further and by the time Skeat was writing his book, the previously dominant position of Malay entrepreneurs, such as the Dato Panglima Kinta (Lord of Kinta) of Kinta Valley in Perak, had been usurped by the advances of British and other Western capital as well as the influx of migrant workers brought in by the British.
 
 The tin mines of Perak and Selangor were male-dominated spaces that were full of poor and underpaid miners who were either local Malays or Chinese migrants. Being spaces of evident economic and power differentials (between the mine owners and the mine workers), and whose conditions were at the same time hot, damp, dusty and unsanitary, workers were vulnerable to bouts of malaria, beri-beri and other diseases. Such places were potential tinderboxes.
@@ -110,6 +128,12 @@ Under such circumstances, most of the rules of the so-called “mining wizard”
 Given the commonsensical nature of the “mining wizard’s” restrictions and rules, Skeat does not concede the possibility that these regulations were not so different from the health and safety regulations enforced at coalmines back in England, or the rules on board a vessel of the Royal Navy.
 
 The closest we get to a more mundane account of the life and work of the *pawang* of the tin mines is when Skeat writes about the political economy of the mining industry in colonial Malaya at the time, and how the *pawang* was in the enviable position of being able to exploit his rank and status in the face of foreign capital.[^17] Yet at no point in his narrative does Skeat acknowledge the fact that the territory of Perak had been a contested one during the Perak War (1875–76), which extended British political influence over the Malay Peninsula.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/magic/squares.jpg">
+An illustration from <i>Malay Magic</i> which shows diagrams used by pawang for divination. The top left figure has different points drawn on its anatomy for divination means. The bottom left diagram is used like a compass with the diviner counting around it from point to point. The diagrams on the right are two different types of “magic squares”. <i>Image reproduced from Skeat, W.W. (1900). Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula (after p. 554). London: Macmillan and Co., Limited. Retrieved from BookSG. Collection of the National Library, Singapore. (Call no.: RRARE 398.4 SKE; Accession no.: B02930611K)</i>.
+</div>
 
 Back in England, proponents of further British capital penetration – aided and abetted by a bellicose British press that was clamoring for the annexation of Perak – had been baying for greater control over the tin deposits. Nor does Skeat acknowledge that the Malays knew the lay of their land better than foreigners, and that some Malays knew where tin deposits could be found thanks to their understanding of their own geography.
 
