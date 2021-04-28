@@ -29,7 +29,7 @@ Famed naturalist Alfred Russel Wallace spent eight years, from 1854 to 1862, exp
 
 “[I]t is apparent that but few years can elapse before the whole island will be denuded of its indigenous vegetation, when its climate will no doubt be materially altered (probably for the worse), and countless tribes of interesting insects become extinct. I am therefore working hard at the insects alone for the present, and will give you some little notion of what I have done and may hope to do.”[^1]
 
-– Alfred Russel Wallace, Singapore, 9 May 1854
+                          – Alfred Russel Wallace, Singapore, 9 May 1854
 
 The National Library’s latest exhibition, “Human x Nature: Environmental Histories of Singapore”, explores the history of human relationships with nature on the island over the last 200 years. These relationships – be they scientific study, sustenance farming or commercial exploitation – vary between communities and have evolved over time. As much of the ways in which humans interact with the environment are based on our understanding and perception of the natural world, the exhibition begins with an examination of the study of natural history in Southeast Asia.
 
