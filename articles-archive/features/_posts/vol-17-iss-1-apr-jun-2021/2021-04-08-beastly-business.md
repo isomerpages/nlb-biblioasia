@@ -9,12 +9,12 @@ third_nav_title: "A Beastly Business: Regulating the Wildlife Trade in Colonial 
 
 <style>
 table { 
-	background-color: #d6dae9;
+	background-color: #f4d3d3;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #d6dae9;
+  background: #f4d3d3;
 }
 </style>
 

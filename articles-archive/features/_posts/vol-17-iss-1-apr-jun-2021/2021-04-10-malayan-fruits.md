@@ -9,12 +9,12 @@ third_nav_title: "A Banquet of Malayan Fruits: Botanical Art in the Melaka Strai
 
 <style>
 table { 
-	background-color: #d6dae9;
+	background-color: #f4d3d3;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #d6dae9;
+  background: #f4d3d3;
 }
 </style>
 
