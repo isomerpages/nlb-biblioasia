@@ -1,9 +1,9 @@
 ---
-title: Deforestation in 19th Century Singapore
+title: Deforestation in 19th-century Singapore
 permalink: /vol-17/issue-1/apr-jun-2021/deforestation
 date: 2021-04-01T00:00:00.000Z
-breadcrumb: Deforestation in 19th Century Singapore
-third_nav_title: Deforestation in 19th Century Singapore
+breadcrumb: Deforestation in 19th-century Singapore
+third_nav_title: Deforestation in 19th-century Singapore
 
 ---
 
@@ -108,7 +108,7 @@ However, in his 1883 report on deforestation, Cantley wrote that a decrease in f
 
 Such environmental effects continued to be hotly debated in European academic circles. Colonial Treasurer Allan Skinner remarked that while some believed that the loss of timber had “diminished the supply of rain”, this theory was dismissed by others who cited continued rainfall patterns and the difficulties of ascertaining localised climate effects.[^31] While widespread global deforestation would certainly have a knock-on effect on the climate around the world, colonial administrators and writers believed that it was unlikely that, given Singapore’s diminutive size, deforestation here would have an immediate impact on rainfall patterns in the region.
 
-That said, Singapore was struck by droughts several times – in 1842, 1849, 1855 and 1864 – typically due to the dry season lasting from February to March each year.[^32] These took on an increased intensity in the latter years of the 19th century. “Singapore was suffering badly from want of water, the season was unusually dry,” wrote medical assistant J.J.L. Wheatley in 1885 in the* Journal of the Straits Branch of the Royal Asiatic Society* regarding the abject conditions of the 1873 drought. “Nearly all the wells such as they were – many being mere pits a few feet deep without any protective wall – had almost run dry.”[^33]
+That said, Singapore was struck by droughts several times – in 1842, 1849, 1855 and 1864 – typically due to the dry season lasting from February to March each year.[^32] These took on an increased intensity in the latter years of the 19th century. “Singapore was suffering badly from want of water, the season was unusually dry,” wrote medical assistant J.J.L. Wheatley in 1885 in the *Journal of the Straits Branch of the Royal Asiatic Society* regarding the abject conditions of the 1873 drought. “Nearly all the wells such as they were – many being mere pits a few feet deep without any protective wall – had almost run dry.”[^33]
 
 Another prolonged drought hit the island in 1877, causing fruit and rice harvests to fail and the loss of plant species under cultivation in the Singapore Botanic Gardens.[^34] We now know that this drought was brought about by the global El Niño Southern Oscillation, which is the unusual warming of ocean surfaces in the eastern tropical Pacific Ocean.[^35] Although the phenomenon was unknown then, such periodic El Niño (“the little boy” in Spanish) events resulted in lower rainfall in Southeast Asia and other parts of the world in the mid 1800s.
 
@@ -142,7 +142,7 @@ The relationship between forests and the climate is complex. A look at the envir
 
 [^2]: Tan, B. (2020, July–September). [Cholera in 19th-century Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/cholera). *BiblioAsia, 16* (2), 10–15, p. 11. Retrieved from BiblioAsia website.
 
-[^3]: Williamson, F. (2015, September). Weathering the empire: Meteorological research in the early British Straits Settlements. The British Journal for the History of Science, 48 (3), 475–492, p. 475. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^3]: Williamson, F. (2015, September). Weathering the empire: Meteorological research in the early British Straits Settlements. *The British Journal for the History of Science, 48* (3), 475–492, p. 475. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^4]: Little, R. (1848, August). An essay on coral reefs as the cause of Blakan mati fever, and of the fevers in various parts of the East. *[The Journal of the Indian Archipelago and Eastern Asia](https://eresources.nlb.gov.sg/printheritage/detail/7ac284a7-ac54-4fff-ad21-789cbb55df54.aspx)*, Vol. II, 449–497, p. 458. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03014449C)
 
@@ -154,7 +154,7 @@ The relationship between forests and the climate is complex. A look at the envir
 
 [^8]: Trocki, C.A. (1976). The origins of the kangchu system 1740–1860. *Journal of the Malaysian Branch of the Royal Asiatic Society, 49* (2) (230), 132–155, p. 139. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^9]: Jackson, J.C. (1965, July). Chinese agricultural pioneering in Singapore and Johore 1800–1917. *Journal of the Malaysian Branch of the Royal Asiatic Society 38* (1) (207), 77–105, p. 80. Retrieved from JSTOR via NLB’s eResources website.
+[^9]: Jackson, J.C. (1965, July). Chinese agricultural pioneering in Singapore and Johore 1800–1917. *Journal of the Malaysian Branch of the Royal Asiatic Society 38* (1) (207), 77–105, p. 80. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^10]: Balestier, J. (1848). *[Views of the state of agriculture in the British possessions in the Straits of Malacca](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202498183)* (p. 146). [n.p.]. (Call no.: RRARE 630.95951 BAL; Accession no.: B29029409B)
 
