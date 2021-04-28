@@ -23,13 +23,19 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/agriculture/LapisLegit.jpg">
-The author’s home-made <i>kueh lapis legit</i>. This is an iconic cake for Indonesians, Malays and the Peranakan Chinese. <i>Courtesy of Christopher Tan</i>.
+<img src="/images/Vol-17-issue-1/agriculture/gambierpepper.jpg">
+A gambier and pepper plantation in Singapore, c. 1900.  Pepper and gambier are often grown together. The boiled gambier leaves provide the much-needed fertiliser for pepper plants. Pepper vines also entwine around the gambier plants for support as they grow. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
 
 Being a free port astride a major trading route between the Indian Ocean and the South China Sea enabled Singapore to flourish in the 19th century. While Singapore’s wealth was clearly built on trade, this tends to overshadow the fact that for much of the 19th and well into the 20th century, commercial agriculture was a significant economic activity on the island as well.
 
 The first topographical survey of Singapore Town – conducted by colonial architect George D. Coleman in 1829 and which yielded the *Map of the Town and Environs of Singapore* in 1836 – showed large plots of land dedicated to agriculture on the outskirts of settled areas. There were paddy fields on the eastern banks of the Kallang River, while to the east of these fields, land had been cleared for the growing of sugar and cotton. In addition, the area south of the paddy fields was used for the cultivation of the betel vine. Around what is now the Orchard Road area were gambier plantations.[^1] About a decade later, coconuts had taken over the paddy fields, according to Government Surveyor John Turnbull Thomson’s 1844 map of Singapore town and the adjoining districts. Meanwhile, pineapples were being grown on Pulau Blakang Mati (present-day Sentosa) and there were nutmeg orchards in the Claymore district (today’s Orchard Road).[^2]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/agriculture/map.jpg">
+Detail from the 1836 <i>Map of the Town and Environs of Singapore</i> showing the land east of the Kelang (Kallang) River planted with rice. However, the land was soon dominated by coconut plantations. The map was drawn by Jean-Baptiste Athanase Tassin, a renowned French lithographer and cartographer, and printed in Calcutta. It was based on George D. Coleman’s 1829 survey of Singapore, which is the earliest known topographical survey of Singapore town. This map is useful in showing the various crops produced on the outskirts of the town in the 1830s. <i>Survey Department Collection, courtesy of National Archives of Singapore</i>.
+</div>
 
 Since the arrival of the British in 1819, large swathes of land in Singapore had been used for the cultivation of commercial crops – the most important of which were pepper, gambier, nutmeg, coconut, pineapple and rubber. While plantation agriculture is no longer practised in Singapore, these long-gone plantations have had a significant impact on Singapore’s economy, environment and biodiversity.
 
@@ -41,6 +47,12 @@ At the time, gambier was being planted in the region, including on the Riau Isla
 Gambier is a fast-growing shrub whose foliage can be harvested in about 14 months. The leaves and twigs are first boiled and the resulting paste is then dried. The final product, popularly called catechu, contains both tannins and catechin.
 
 In the early 19th century, catechu was mainly used as an additive in the betel quid. The catechu and lime were smeared on the betel leaf (known locally as *sireh*), which was then wrapped around small slices of areca nut. Betel chewing was a habit that was popular in the region at the time.[^5]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/agriculture/shrub.jpg">
+The gambier shrub looks quite nondescript, with the most notable feature being its bright yellow inflorescence. <i>Jessica Teo, NParks Flora&FaunaWeb</i>.
+</div>
 
 Much of the produce went to Batavia (now Jakarta) in the Dutch East Indies and distributed throughout the region. However, this came to a sudden halt in 1827 with the imposition of restrictive duties by the Dutch. This caused a crash and many gambier plantations, including those in Singapore, went out of business.[^6]
 
@@ -54,6 +66,12 @@ The result was a pattern of shifting cultivation that started from the Singapore
 
 #### **The Blighted Nutmegs**
 Another cash crop that was cultivated in 19th-century Singapore was nutmeg, which was one of the major spices that drove the colonial enterprise in Southeast Asia. Two spices are actually produced from the plant: nutmeg and mace. The nutmeg spice comes from the seed, while mace comes from the aril, the red lacy layer surrounding the seed. Both nutmeg and mace are similar in taste, with mace described as being more delicate. Given its desirability and profitability, nutmeg was an obvious crop for the pioneer merchants in Singapore to cash in on.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/agriculture/nutmeg.jpg">
+The black seed of the nutmeg fruit is ground to make the nutmeg spice, while the red aril around the seed is used to make another spice known as mace. Locally, the flesh is eaten pickled as <i>buah pala</i>. <i>Courtesy of Boo Chih Min, NParks Flora&Fauna Web</i>.
+</div>
 
 After Raffles established a trading post on Singapore, he sent over nutmeg seeds and saplings from Bencoolen (now Bengkulu), on the island of Sumatra, where he was Lieutenant-Governor. Nutmeg plantations were then established along what is today’s Orchard Road and in Tanglin. Although the nutmeg trees had thrived initially, there were later problems with blight.
 
@@ -78,10 +96,22 @@ As Singapore’s long and sandy south eastern coast was conducive for growing co
 
 Smaller coconut plantations were found elsewhere on the island, like a 30-acre nutmeg and coconut estate on Bukit Timah Road, which was put on auction in 1845.[^23] Planting different types of crops in one plantation was not uncommon. In the early decades especially, planters would experiment with different crops. Jose d’Almeida, a Portuguese naval surgeon who arrived in Singapore in 1825 and set up a dispensary in Commercial Square (now Raffles Place), was one such example. He later became a landowner and one of Singapore’s leading merchants. On his Confederate Estate in Tanjong Katong, he tried but failed with cotton before turning to coconut.[^24]
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/agriculture/coconut.jpg">
+A young worker sitting atop harvested coconuts in a coconut estate in Singapore, 1922. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</i>.
+</div>
+
 #### **Pineapples and the Canning Industry**
 The pineapple, indigenous to South America, was one of the native food plants from the Americas, like chilies, potatoes and tomatoes, that was spread by Europeans to the rest of the world in the 17th century. Surprisingly, it was Singapore’s third largest crop by acreage in 1849.[^25]
 
 Pineapple seems to have been a popular fruit and was originally cultivated by the Bugis on the southern islands and in Telok Blangah as can be seen from mid-19th century maps of the area. The earliest mention of pineapple cultivation appears to be a *Singapore Chronicle* article by second Resident John Crawfurd, published around 1824.[^26] John Cameron states in *Our Tropical Possessions in Malayan India* that the pineries in Telok Blangah belonged to the Temenggong and these were mainly for sale in Singapore.[^27]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/agriculture/pineapple.jpg">
+Freshly harvested pineapples in Singapore being transported by a bullock cart to be sold, 1900s. Pineapples grown in Singapore and the Malay Peninsula became a major canned export from the 1900s onwards. <i>Courtesy of National Archives of Singapore</i>.
+</div>
 
 Ownership of the offshore-island estates is less clear although accounts in the mid-1800s agree that they were cultivated by the Bugis.[^28] English navigator George Windsor Earl’s 1837 account suggests that there might be Javanese cultivators as well: “On the coast of the island to the eastwards of the town, and also on the little islets off the harbour, are small agricultural settlements of Bugis and Javanese.”[^29]
 
@@ -103,6 +133,12 @@ It soon became a common practice for rubber plantation owners to plant pineapple
 After the blight killed off nugmeg trees in Singapore, coconuts and pineapples became the dominant choices for Singapore’s plantations. In addition, other less common crops like tapioca and Liberian coffee were planted as well. However, the increasing use of electricity and the rise of the automobile sparked a boom in a new commodity that provided both insulation for electric wires and pneumatic tyres – rubber.
 
 Ridley, Director of Singapore’s Botanic Gardens, persuaded local merchants to try growing Pará rubber which eventually became a major cash crop in both Singapore and the peninsula. Ridley’s first convert was Tan Chay Yan, who became the first rubber planter in Malaya.[^38] In 1898, Tan started Asahan Estate in Melaka after a successful trial run at Bukit Lintang two years earlier. In Singapore, Tan subsequently entered into an agreement with other prominent Chinese merchants to establish Sembawang Rubber Plantations Limited, and Tempines Para and Coconut Plantations Limited in 1910.[^39]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/agriculture/rubber.jpg">
+A worker tapping latex in a rubber plantation in Singapore, 1930s. Henry Nicholas Ridley, Director of the Singapore Botanic Gardens (1888–1912), invented the “herringbone” technique that allowed rubber trees to be tapped at regular intervals without causing the trees any harm. The herringbone-pattern incisions can be clearly seen on the trunk of the tree. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</i>.
+</div>
 
 Although rubber could yield significant profits for plantation owners, the initial outlay was very high as rubber plantations tied up huge amounts of capital in the land, maintenance, labour and basic processing of the latex into transportable sheets. There were, however, eager British investors willing to put their money into rubber companies that promised regular dividends. London brokers quickly coordinated the floating of companies to buy over Malayan rubber plantations and engage local agents to manage these plantations. This allowed for huge plantations with the accompanying economies of scale to flourish. If the original local owners wanted to continue investing in the plantations, they would accept shares in the London company in lieu of part of the purchase price.
 
