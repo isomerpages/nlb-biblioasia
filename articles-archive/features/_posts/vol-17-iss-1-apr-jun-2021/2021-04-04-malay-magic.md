@@ -150,7 +150,6 @@ The same can be said of Skeat’s quest for traces of the magical, arcane and su
 
 Skeat’s work is less interesting for the things he says about the Malays but more interesting for the things he *does not say* about himself. That such authors – who were surely aware of their own respective subject-positions in the colonial order of knowledge and power – were seemingly unaware of their role in the endless reproduction of native stereotypes speaks volumes about the workings of the Empire’s echo-chamber.[^19]
 
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-1/authors/Farish_Noor.png" style="width: 100px; height: 100px;" />
@@ -161,4 +160,22 @@ Skeat’s work is less interesting for the things he says about the Malays but m
 
 #### **NOTES**
 
-12334
+[^1]: Agarwood is the dark resinous heartwood of the aquilaria tree. It is formed when the aquilaria tree becomes infected with a type of mould. Prior to infection, the heartwood is odourless, relatively light and pale coloured. As the infection worsens, the tree produces a dark aromatic resin called aloes or agar. Agarwood is used as a raw material for incense, perfume and medicine.
+Thomas, R. (1993). The imperial archive: Knowledge and the fantasy of empire (p. 4). London: Verso Press. (Not available in NLB holdings) 
+Skeat, W.W. (1900). Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula. London: Macmillan and Co., Limited. Retrieved from BookSG. (Call no.: RRARE 398.4 SKE; Accession no.: B02930611K) 
+Skeat, W.W., & Blagden, C.O. (1906). Pagan races of the Malay Peninsula. London: Macmillan and Co., Limited. (Call no.: RCLOS 301.209595 SKE)
+Skeat, 1900, p. vi.
+Skeat, 1900, p. vi
+Skeat, 1900, pp. xiv–xv.
+On page 675 of Malay Magic, Skeat lists the “chief authorities” quoted in his work, and perhaps not surprisingly – with the exception of Klinkert’s and Wall’s Malay dictionaries – they were all the works of fellow Englishmen.
+There are few instances where Skeat writes about the interaction between the Malays and Chinese in colonial Malaya then, and it becomes evident early on that the belief systems of the Chinese were of lesser concern to him. When discussing the topic of Malay shrines (keramat), he noted that “I have never yet, however, heard of any shrine dedicated to a Chinaman, and it is probably that this species of canonisation is confined (at least in modern times) to local celebrities professing the Muhammadan religion, as would certainly be the case of the Malays and Javanese mentioned. […] It is true that Chinese often worship at these shrines – just as, on the same principle, they employ Malay magicians in prospecting for tin; but there appear to be certain limits beyond which they cannot go”. See Skeat, 1900, pp. 69–70.
+Skeat, 1900, pp. 32–36, 51. 
+Skeat, 1900, p. 43. It is also interesting to note that Skeat’s comparison of the Malays with Polynesians came from James George Frazer. See Frazer, J.G. (1890). The golden bough: A study in magic and religion (vol. I, p. 189). London: Macmillan. [Note: NLB has the third edition in 12 volumes. See Frazer, J.G. (1911–1915). The golden bough: A study in magic and religion. London: Macmillan. (Call no.: RCLOS 291 FRA-[RFL])]
+Skeat, 1900, pp. 56–57, quoting Hugh Clifford. See Clifford, H.C. (1897). In court & kampong: Being tales and sketches of native life in the Malay Peninsula (p. 28). London: G. Richard. Retrieved from BookSG. (Call no.: RRARE 915.95 CLI; Accession no.: B02806362E)
+Skeat, 1900, p. 59.
+Skeat, 1900, p. 253.
+Skeat, 1900, p. 256.
+Skeat, 1900, pp. 257–258.
+Skeat, 1900, p. 253.
+Review of Raffles’s The History of Java. (1817). [London]: [Printed for Black, Kingsbury, Parbury, & Allen]. (Call no.: RRARE 959.82 REV-[JSB]; Accession no.: B29267854J)
+Farish A. Noor. (2016). The discursive construction of Southeast Asia in 19th century colonial-capitalist discourse. Amsterdam: Amsterdam University Press. (Call no.: RSING 959.0072 FAR); Farish A. Noor. (2019, April). Mea culpa: Re-reading nineteenth century colonial-era works on South East Asia as confessional texts. Southeast Asia Research: The Past, Present and Future of Area Studies, 27 (1), 74–96. Retrieved from Taylor & Francis Online; Farish A. Noor. (2020). Data-gathering in colonial Southeast Asia 1800–1900: Framing the other. Amsterdam: Amsterdam University Press. (Call no.: RSING 325.59 FAR)
