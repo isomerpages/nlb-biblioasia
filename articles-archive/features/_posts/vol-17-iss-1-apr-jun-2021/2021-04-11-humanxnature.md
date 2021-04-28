@@ -104,7 +104,7 @@ John Desmond Gimlette’s book, <i>Malay Poisons and Charm Cures</i>, devotes a 
 </div>
 
 #### **Mohamed Haniff and Henry Ridley**
-One of the rare works that credits a Malayan botanist as co-author is *Malay Village Medicine*, published in *The Gardens’ Bulletin Straits Settlements* in April 1930. It was written by Mohamed Haniff, Field Assistant and one-time Overseer of the Penang Botanic Gardens, and Isaac Burkill, then Director of the Botanic Gardens in Singapore. Long-time collaborators Burkill and Haniff toured the Malay Peninsula, extensively consulting bomoh and bidan (midwives) about local medicine and collecting plant samples to deposit in the gardens’ herbarium.[^20]
+One of the rare works that credits a Malayan botanist as co-author is *Malay Village Medicine*, published in *The Gardens’ Bulletin Straits Settlements* in April 1930. It was written by Mohamed Haniff, Field Assistant and one-time Overseer of the Penang Botanic Gardens, and Isaac Burkill, then Director of the Botanic Gardens in Singapore. Long-time collaborators Burkill and Haniff toured the Malay Peninsula, extensively consulting *bomoh* and *bidan* (midwives) about local medicine and collecting plant samples to deposit in the gardens’ herbarium.[^20]
 
 <div style="background-color: white;">
 <br/>
@@ -112,7 +112,7 @@ One of the rare works that credits a Malayan botanist as co-author is *Malay Vil
 Portrait of Mohamed Haniff, Field Assistant and one-time Overseer of the Penang Botanic Gardens. Mohamed Haniff, who died on 25 March 1930, co-wrote <i>Malay Village Medicine</i> with Isaac Burkill, then Director of the Botanic Gardens in Singapore, This was published in <i>The Gardens’ Bulletin Straits Settlements</i> in April 1930, and is one of the rare works that credits a Malayan botanist as co-author. <i>Image reproduced from Mohamed Haniff Obituary (1930, June). The Gardens’ Bulletin Straits Settlements,  5 (3–6), 161–162, p. 161. Retrieved from Biodiversity Heritage Library website</i>.
 </div>
 
-The publication contains a glossary of plant species, complete with their Malay names. The authors note that according to Malay naming convention, many plants were named for their properties and uses instead of their physical characteristics – resulting in plants with wildly different appearances sharing similar names. According to Burkill, this led European naturalists who only understood plants but not Malay knowledge systems, attributed perceived inaccuracies to their Malay sources.[^21]
+The publication contains a glossary of plant species, complete with their Malay names. The authors note that according to Malay naming convention, many plants were named for their properties and uses instead of their physical characteristics – resulting in plants with wildly different appearances sharing similar names. According to Burkill, this led European naturalists who only understood plants but not Malay knowledge systems, attributing perceived inaccuracies to their Malay sources.[^21]
 
 Haniff was an extremely prolific botanist and collector. Armed with an extensive knowledge of Malayan flora, he was frequently relied upon to source for plants and collect information from indigenous communities. Despite having worked with several prominent European botanists, Haniff was never promoted beyond the rank of Field Assistant.[^22]
 
@@ -163,7 +163,7 @@ Visit the “Human x Nature: Environmental Histories of Singapore” exhibition 
 
 [^4]: Darwin, C., & Wallace, A. (1858, August). On the tendency of species to form varieties; and on the perpetuation of varieties and species by natural means of selection. *Zoological Journal of the Linnean Society, 3* (9), 45–62. Retrieved from Wiley Online Library.
 
-[^5]: Wallace, A.R. (1869). *[The Malay archipelago: The land of the orang-utan, and the bird of paradise; a narrative of travel, with studies of man and nature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4390754)* (vol. I; p. vii). London: Macmillan. (Call no.: RRARE 915.9804 WAL; Accession no.: B03013900E). [Note: NLB has digitised the 1874 edition. See Wallace, A.R. (1874). *[The Malay Archipelago: The land of the orang-utan, and the bird of paradise; a narrative of travel, with studies of man and nature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4390754)*. London: Macmillan. Retrieved from BookSG. (Call no.: RRARE 915.9804 WAL; Accession no.: B18835319E)
+[^5]: Wallace, A.R. (1869). *[The Malay archipelago: The land of the orang-utan, and the bird of paradise; a narrative of travel, with studies of man and nature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4390754)* (vol. I; p. vii). London: Macmillan. (Call no.: RRARE 915.9804 WAL; Accession no.: B03013900E). [Note: NLB has digitised the 1874 edition. See Wallace, A.R. (1874). *[The Malay Archipelago: The land of the orang-utan, and the bird of paradise; a narrative of travel, with studies of man and nature](https://eresources.nlb.gov.sg/printheritage/detail/75cb65b3-2ab5-4a8f-98aa-62e43dbca10e.aspx)*. London: Macmillan. Retrieved from BookSG. (Call no.: RRARE 915.9804 WAL; Accession no.: B18835319E)
 
 [^6]: Deyrolle. (2021). *Deyrolle La Boutique En Ligne*. Retrieved from Deyrolle website. 
 
@@ -177,7 +177,7 @@ Visit the “Human x Nature: Environmental Histories of Singapore” exhibition 
 
 [^11]: Horsfield, T. (1824). *[Zoological researches in Java, and the neighbouring islands](https://eresources.nlb.gov.sg/printheritage/detail/c82861cf-b4ab-4441-876c-62eda77ac466.aspx)*.  London: Printed for Kingsbury, Parbury, & Allen. Retrieved from BookSG. (Call no.: RRARE 591.9922 HOR; Accession no.: B03013680J)
 
-[^12]: Bastin, 2019, pp. 90, 153.
+[^12]: [Bastin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203823402), 2019, pp. 90, 153.
 
 [^13]: Pocklington, K., & Low, M. (2019). *[200: Points in Singapore’s natural history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203948534)*. Singapore: Lee Kong Chian Natural History Museum. (Call no.: RSING 508.5957 LOW); Home, E. (1820, April 13). *[On the milk tusks, and organ of hearing of the dugong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202684845). Philosophical Transactions of the Royal Society of London for the Year 1820*, Part II, 144–55. London: W. Bulmer and W. Nicol. (Call no.: RRARE 599.556 PHI-[JSB]; Accession no.: B29268003H)
 
