@@ -154,7 +154,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/authors/timothy_pwee.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-17-issue-1/authors/timpwee.png" style="width: 100px; height: 100px;" />
 <b>Timothy Pwee</b> is a Senior Librarian with the National Library, Singapore. He is interested in Singapore’s business and natural histories and is developing the library’s donor collections around these areas.
 </div>
 
