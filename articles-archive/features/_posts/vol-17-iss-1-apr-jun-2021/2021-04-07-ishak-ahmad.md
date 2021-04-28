@@ -9,12 +9,12 @@ third_nav_title: Ishak Ahmad and the Story of Malayan Waters
 
 <style>
 table { 
-	background-color: #d6dae9;
+	background-color: #fff6ba;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #d6dae9;
+  background: #fff6ba;
 }
 </style>
 
