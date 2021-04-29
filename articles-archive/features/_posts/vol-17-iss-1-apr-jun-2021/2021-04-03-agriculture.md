@@ -182,7 +182,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^10]: Balestier, J., & Montgomerie, W. (1841, November 25). [From an unpublished journal of a residence at Singapore: During part of 1840 & 41](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18411125-1.2.11). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 
-[^11]: Lee, K.L. (1984). [Emerald Hill: The story of a street in words and pictures](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080780) (p. 1). Singapore: National Museum of Singapore. (Call no.: RSING 959.57 LEE)
+[^11]: Lee, K.L. (1984). *[Emerald Hill: The story of a street in words and pictures](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080780)* (p. 1). Singapore: National Museum of Singapore. (Call no.: RSING 959.57 LEE)
 
 [^12]: Earl, G.W. (1837). *[The eastern seas, or voyages and adventures in the Indian Archipelago, 1832–33–34](https://eresources.nlb.gov.sg/printheritage/detail/ad9d0845-d805-4ec1-9cec-f26135c14d4a.aspx)* (pp. 408–409). London: W.H. Allen & Co. Retrieved from BookSG. (Call no.: RRARE 915.980422 EAR; Accession no.: B02948006G)
 
@@ -238,7 +238,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^38]: For more information about Tan Chay Yan, see Sutherland, D. (2009). *[Tan Chay Yan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1628_2009-12-31.html)*. Retrieved from Singapore Infopedia website.
 
-[^39]: [[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100811-1.2.35). (1910, August 11). *The Straits Times*, p. 6; *[Tampenis Plantations, Ltd](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100910-1.2.66)*. (1910, September 10). *The Straits Times*, p. 7; [The Sembawang sale](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101111-1.2.61). (1910, November 11). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^39]: [[Untitled]](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100811-1.2.35). (1910, August 11). *The Straits Times*, p. 6; *[Tampenis Plantations, Ltd](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100910-1.2.66)*. (1910, September 10). *The Straits Times*, p. 7; [The Sembawang sale](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101111-1.2.61). (1910, November 11). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
 [^40]: [Bukit Sembawang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120710-1.2.13). (1912, July 10). *The Singapore Free Press and Mercantile Advertiser*, p. 4; [Singapore United Rubber Plantations Limited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19121211-1.2.17.2). (1912, December 11). *The Singapore Free Press and Mercantile Advertiser*, p. 4. Retrieved from NewspaperSG.
 
