@@ -187,7 +187,7 @@ Visit the “Human x Nature: Environmental Histories of Singapore” exhibition 
 
 [^16]: [Damodaran, Winterbottom & Alan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201352373), 2015, pp. 18–20, 29–30.
 
-[^17]: Gimlette, J.D. (1915). *[Malay poisons and charm cures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202517206)*. London: J. & A. Churchill. (Call no.: RRARE 398.4 GIM-[JSB]; Accession no.: B29267423B). [Note: NLB has digitised the second edition. See Gimlette, J.D. (1923). *[Malay poisons and charm cures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202517206)*. London: J. & A. Churchill. Retrieved from BookSG. (Call no.: RRARE 398.4 GIM; Accession no.: B02993050F)]
+[^17]: Gimlette, J.D. (1915). *[Malay poisons and charm cures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202517206)*. London: J. & A. Churchill. (Call no.: RRARE 398.4 GIM-[JSB]; Accession no.: B29267423B). [Note: NLB has digitised the second edition. See Gimlette, J.D. (1923). *[Malay poisons and charm cures](https://eresources.nlb.gov.sg/printheritage/detail/81b91bde-03e5-468d-8c7f-1baec9396f4a.aspx)*. London: J. & A. Churchill. Retrieved from BookSG. (Call no.: RRARE 398.4 GIM; Accession no.: B02993050F)]
 
 [^18]: [Gimlette](https://eresources.nlb.gov.sg/printheritage/detail/81b91bde-03e5-468d-8c7f-1baec9396f4a.aspx), 1923, p. xi. 
 
