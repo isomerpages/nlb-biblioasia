@@ -194,6 +194,6 @@ Skeat’s work is less interesting for the things he says about the Malays but m
 
 [^17]: [Skeat](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx), 1900, p. 253.
 
-[^18]: *Review of Raffles’s The History of Java*. (1817). [London]: [Printed for Black, Kingsbury, Parbury, & Allen]. (Call no.: RRARE 959.82 REV-[JSB]; Accession no.: B29267854J)
+[^18]: *[Review of Raffles’s The History of Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202532559)*. (1817). [London]: [Printed for Black, Kingsbury, Parbury, & Allen]. (Call no.: RRARE 959.82 REV-[JSB]; Accession no.: B29267854J)
 
 [^19]: Farish A. Noor. (2016). *[The discursive construction of Southeast Asia in 19th century colonial-capitalist discourse](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204372521)*. Amsterdam: Amsterdam University Press. (Call no.: RSING 959.0072 FAR); Farish A. Noor. (2019, April). Mea culpa: Re-reading nineteenth century colonial-era works on South East Asia as confessional texts. *Southeast Asia Research: The Past, Present and Future of Area Studies, 27* (1), 74–96. Retrieved from Taylor & Francis Online; Farish A. Noor. (2020). *[Data-gathering in colonial Southeast Asia 1800–1900: Framing the other](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204372524)*. Amsterdam: Amsterdam University Press. (Call no.: RSING 325.59 FAR)
