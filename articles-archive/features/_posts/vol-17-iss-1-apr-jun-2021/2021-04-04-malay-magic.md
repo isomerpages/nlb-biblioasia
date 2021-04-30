@@ -181,3 +181,7 @@ Skeat’s work is less interesting for the things he says about the Malays but m
 [^10]: [Skeat](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx), 1900, pp. 32–36, 51. 
 
 [^11]: [Skeat](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx), 1900, p. 43. It is also interesting to note that Skeat’s comparison of the Malays with Polynesians came from James George Frazer. See Frazer, J.G. (1890). *The golden bough: A study in magic and religion* (vol. I, p. 189). London: Macmillan. [Note: NLB has the third edition in 12 volumes. See Frazer, J.G. (1911–1915). *[The golden bough: A study in magic and religion](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2749401)*. London: Macmillan. (Call no.: RCLOS 291 FRA-[RFL])]
+
+[^12]: [Skeat](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx), 1900, pp. 56–57, quoting Hugh Clifford. See Clifford, H.C. (1897). *[In court & kampong: Being tales and sketches of native life in the Malay Peninsula](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx)* (p. 28). London: G. Richard. Retrieved from BookSG. (Call no.: RRARE 915.95 CLI; Accession no.: B02806362E)
+
+[^13]: [Skeat](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx), 1900, p. 59.
