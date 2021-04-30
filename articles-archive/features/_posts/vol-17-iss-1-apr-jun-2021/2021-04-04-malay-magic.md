@@ -29,12 +29,6 @@ A Malay <i>pawang</i> of the Straits Settlements, c. 1900. <i>Lim Kheng Chye Col
 
 Originally published in 1900, Walter William Skeat’s *Malay Magic* was conceived as a comprehensive description of Malay beliefs, folklore and customs. Among other things, it covers customs and rites relating to various aspects of the natural world.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/magic/book.jpg">
-<i>Malay Magic</i> by Walter William Skeat. This edition was published by Silverfish Books in Kuala Lumpur, Malaysia, 2018.
-</div>
-
 For example, Skeat writes about how Malay *pawang* (shamans) detect perfumed agarwood (also known as eaglewood), or locally, *gaharu*.[^1] The perfume is created by a disease that infects the inner heartwood of the aquilaria tree, making it impossible to tell if a tree is valuable from the outside, hence the need for a *pawang*. According to Skeat, the process involves the *pawang* burning incense and repeating a charm or formula until the right tree is found.
 
 Skeat’s work was considered groundbreaking but some scholars have critiqued the work for positioning Malay knowledge and practices as “charms” and “rituals”, where in many cases they were simply traditions through which practical experience and scientific information were passed on.
@@ -59,6 +53,12 @@ While not denying the near-exhaustive scope of Skeat’s work, my view is that c
 *Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula*[^3] marked the beginning of Skeat’s partnership with Blagden, an English Orientalist and linguist known for his expertise in Southeast Asian languages – notably Malay and the Mon language of Burma (now Myanmar). Blagden wrote the preface and also saw the book through the final stages of its publication.
 
 *Malay Magic* was the result of the fieldwork that Skeat had undertaken in the Malay interior, notably in the kingdom of Selangor and the areas bordering the kingdoms of Pahang and Perak. Skeat and Blagden would later collaborate while studying the aboriginal peoples of the Malay Peninsula, and the outcome of their joint research is the co-authored work, *Pagan Races of the Malay Peninsula*, published in 1906.[^4]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-1/magic/book.jpg">
+<i>Malay Magic</i> by Walter William Skeat. This edition was published by Silverfish Books in Kuala Lumpur, Malaysia, 2018.
+</div>
 
 Skeat begins *Malay Magic* with a quotation from Rudyard Kipling’s *The White Man’s Burden*, which sets the tone for the rest of his inquiry:
 
@@ -132,7 +132,7 @@ The closest we get to a more mundane account of the life and work of the *pawang
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-1/magic/squares.jpg">
-An illustration from <i>Malay Magic</i> which shows diagrams used by pawang for divination. The top left figure has different points drawn on its anatomy for divination means. The bottom left diagram is used like a compass with the diviner counting around it from point to point. The diagrams on the right are two different types of “magic squares”. <i>Image reproduced from Skeat, W.W. (1900). Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula (after p. 554). London: Macmillan and Co., Limited. Retrieved from BookSG. Collection of the National Library, Singapore. (Call no.: RRARE 398.4 SKE; Accession no.: B02930611K)</i>.
+An illustration from <i>Malay Magic</i> which shows diagrams used by <i>pawang</i> for divination. The top left figure has different points drawn on its anatomy for divination means. The bottom left diagram is used like a compass with the diviner counting around it from point to point. The diagrams on the right are two different types of “magic squares”. <i>Image reproduced from Skeat, W.W. (1900). Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula (after p. 554). London: Macmillan and Co., Limited. Retrieved from BookSG. Collection of the National Library, Singapore. (Call no.: RRARE 398.4 SKE; Accession no.: B02930611K)</i>.
 </div>
 
 Back in England, proponents of further British capital penetration – aided and abetted by a bellicose British press that was clamoring for the annexation of Perak – had been baying for greater control over the tin deposits. Nor does Skeat acknowledge that the Malays knew the lay of their land better than foreigners, and that some Malays knew where tin deposits could be found thanks to their understanding of their own geography.
@@ -153,7 +153,7 @@ Skeat’s work is less interesting for the things he says about the Malays but m
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-1/authors/Farish_Noor.png" style="width: 100px; height: 100px;" />
-<b>Dr Farish A. Noor</b> is Associate Professor at the S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore. His recent works include <i>Racial Difference and the Colonial Wars of 19th Century Southeast Asia</i> (edited with Peter Carey, 2021), and <i>Data Collecting in Colonial Southeast Asia 1800–1900: Framing the Other (2020)</i>.
+<b>Dr Farish A. Noor</b> is Associate Professor at the S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore. His recent works include <i>Racial Difference and the Colonial Wars of 19th Century Southeast Asia</i> (edited with Peter Carey, 2021), and <i>Data Collecting in Colonial Southeast Asia 1800–1900: Framing the Other</i> (2020).
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
