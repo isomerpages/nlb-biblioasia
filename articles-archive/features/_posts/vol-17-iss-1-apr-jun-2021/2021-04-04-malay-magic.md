@@ -185,3 +185,8 @@ Skeat’s work is less interesting for the things he says about the Malays but m
 [^12]: [Skeat](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx), 1900, pp. 56–57, quoting Hugh Clifford. See Clifford, H.C. (1897). *[In court & kampong: Being tales and sketches of native life in the Malay Peninsula](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx)* (p. 28). London: G. Richard. Retrieved from BookSG. (Call no.: RRARE 915.95 CLI; Accession no.: B02806362E)
 
 [^13]: [Skeat](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx), 1900, p. 59.
+
+[^14]: [Skeat](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx), 1900, p. 253.
+
+[^15]: [Skeat](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx), 1900, p. 256.
+
