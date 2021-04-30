@@ -163,3 +163,5 @@ Skeat’s work is less interesting for the things he says about the Malays but m
 [^1]: Agarwood is the dark resinous heartwood of the aquilaria tree. It is formed when the aquilaria tree becomes infected with a type of mould. Prior to infection, the heartwood is odourless, relatively light and pale coloured. As the infection worsens, the tree produces a dark aromatic resin called aloes or agar. Agarwood is used as a raw material for incense, perfume and medicine.
 
 [^2]: Thomas, R. (1993). *The imperial archive: Knowledge and the fantasy of empire* (p. 4). London: Verso Press. (Not available in NLB holdings)
+
+[^3]: Skeat, W.W. (1900). *[Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx)*. London: Macmillan and Co., Limited. Retrieved from BookSG. (Call no.: RRARE 398.4 SKE; Accession no.: B02930611K)
