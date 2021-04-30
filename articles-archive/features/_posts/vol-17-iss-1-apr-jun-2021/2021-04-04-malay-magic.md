@@ -194,4 +194,4 @@ Skeat’s work is less interesting for the things he says about the Malays but m
 
 [^17]: [Skeat](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx), 1900, p. 253.
 
-[^18]: *[Review of Raffles’s The History of Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202532559)*. (1817). [London]: [Printed for Black, Kingsbury, Parbury, & Allen]. (Call no.: RRARE 959.82 REV-[JSB]; Accession no.: B29267854J)
+[^18]: *Review of Raffles’s The History of Java*. (1817). [London]: [Printed for Black, Kingsbury, Parbury, & Allen]. (Call no.: RRARE 959.82 REV-[JSB]; Accession no.: B29267854J)
