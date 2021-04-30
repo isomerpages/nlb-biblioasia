@@ -165,3 +165,5 @@ Skeat’s work is less interesting for the things he says about the Malays but m
 [^2]: Thomas, R. (1993). *The imperial archive: Knowledge and the fantasy of empire* (p. 4). London: Verso Press. (Not available in NLB holdings)
 
 [^3]: Skeat, W.W. (1900). *[Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx)*. London: Macmillan and Co., Limited. Retrieved from BookSG. (Call no.: RRARE 398.4 SKE; Accession no.: B02930611K)
+
+[^4]: Skeat, W.W., & Blagden, C.O. (1906). *[Pagan races of the Malay Peninsula](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4378828)*. London: Macmillan and Co., Limited. (Call no.: RCLOS 301.209595 SKE)
