@@ -11,7 +11,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 16-1 cover](/images/covers/ba16-1v2.jpg)[Apr–Jun 2020](/vol-16/issue-1/apr-jun-2020/)<br>[Apr–Jun 2020 (PDF)](/past-issues/pdf/BiblioAsia Apr-Jun 2020.pdf) | ![Blank](/images/covers/placeholdercover-v2.jpg)     |
+| ![BiblioAsia 17-1 cover](/images/covers/ba17-1.jpg)[Apr–Jun 2021](/vol-16/issue-1/apr-jun-2021/)<br>[Apr–Jun 2021 (PDF)](/past-issues/pdf/BiblioAsia Apr-Jun 2021.pdf) | ![Blank](/images/covers/placeholdercover-v2.jpg)     |
 | ![Blank](/images/covers/placeholdercover-v2.jpg)    |       ![Blank](/images/covers/placeholdercover-v2.jpg)       |
 
 #### Volume 16
@@ -19,7 +19,7 @@ Note: You may be redirected to an archived site or the PDF version when accessin
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 16-1 cover](/images/covers/ba16-1v2.jpg)[Apr–Jun 2020](/vol-16/issue-1/apr-jun-2020/)<br>[Apr–Jun 2020 (PDF)](/past-issues/pdf/BiblioAsia Apr-Jun 2020.pdf) | ![BiblioAsia 16-2 cover](/images/covers/ba16-2v2.JPG)[Jul–Sep 2020](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/)<br>[Jul–Sep 2020 (PDF)](/past-issues/pdf/BiblioAsia Jul-Sep 2020.pdf) |
-| ![BiblioAsia 16-3 cover](/images/covers/ba16-3.jpg)[Oct–Dec 2020](https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/)<br>[Oct–Dec 2020 (PDF)](/past-issues/pdf/BiblioAsia Oct-Dec 2020.pdf) |       ![Blank](/images/covers/placeholdercover-v2.jpg)       |
+| ![BiblioAsia 16-3 cover](/images/covers/ba16-3.jpg)[Oct–Dec 2020](https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/)<br>[Oct–Dec 2020 (PDF)](/past-issues/pdf/BiblioAsia Oct-Dec 2020.pdf) |![BiblioAsia 16-4 cover](/images/covers/ba16-4.jpg)[Jan–Mar 2021](/vol-16/issue-1/jan-mar-2021/)<br>[Jan–Mar 2021 (PDF)](/past-issues/pdf/BiblioAsia Jan-Mar 2021.pdf)        |
 
 
 #### Volume 15
