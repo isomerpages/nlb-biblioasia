@@ -4,8 +4,15 @@ permalink: /all-issues/
 breadcrumb: Overview
 collection_name: past-issues
 ---
-### Check out our previous issues!
+
 Note: You may be redirected to an archived site or the PDF version when accessing past issues. 
+
+#### Volume 17
+
+|                                                              |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![BiblioAsia 16-1 cover](/images/covers/ba16-1v2.jpg)[Apr–Jun 2020](/vol-16/issue-1/apr-jun-2020/)<br>[Apr–Jun 2020 (PDF)](/past-issues/pdf/BiblioAsia Apr-Jun 2020.pdf) | ![Blank](/images/covers/placeholdercover-v2.jpg)     |
+| ![Blank](/images/covers/placeholdercover-v2.jpg)    |       ![Blank](/images/covers/placeholdercover-v2.jpg)       |
 
 #### Volume 16
 
