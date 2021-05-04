@@ -102,11 +102,6 @@ $desktop: 960px + (2 * $gap) !default;
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0164b6', endColorstr='#04a4e3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
   }
 }
-
-// remove hero-body transparency
-.bp-hero-body {
-	background: none !important;
-}
 	  
 // Color definitions
 .is {
@@ -139,6 +134,12 @@ $desktop: 960px + (2 * $gap) !default;
 	border-bottom: 1px solid $secondary !important;
 }
 
+	  
+// remove hero-body transparency
+.bp-hero-body {
+	background: none !important;
+}
+	  
 // Button
 
 .bp-button.is-text span {
