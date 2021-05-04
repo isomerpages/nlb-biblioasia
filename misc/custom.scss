@@ -103,6 +103,11 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+// remove hero-body transparency
+.bp-hero-body {
+	background: none !important;
+}
+	  
 // Color definitions
 .is {
 	&-primary {
