@@ -133,12 +133,6 @@ $desktop: 960px + (2 * $gap) !default;
 	color: $secondary !important;
 	border-bottom: 1px solid $secondary !important;
 }
-
-	  
-// remove hero-body transparency
-.bp-hero-body {
-	background: none !important;
-}
 	  
 // Button
 
@@ -352,4 +346,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 .footnote {
   font-size: 0.75em;
+}
+
+.bp-hero-body {
+	background: none !important; 	  // remove hero-body transparency
+
 }
