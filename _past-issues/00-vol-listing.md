@@ -5,7 +5,7 @@ breadcrumb: Overview
 collection_name: past-issues
 ---
 
-Note: You may be redirected to an archived site or the PDF version when accessing past issues. 
+Note: When accessing older issues, you may be directed to an archived version.
 
 #### Volume 17
 
