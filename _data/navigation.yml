@@ -4,12 +4,12 @@
 #                                #
 ##################################
 
-logo: /images/Vol-16-issue-4/logo.jpg
+logo: /images/Vol-17-issue-1/logo.jpg
 
 links:
   - title: In This Issue
-    url: /vol-16/issue-4/jan-mar-2021/
+    url: /vol-17/issue-1/apr-jun-2021/
   - title: Articles Archive
     resource_room: true
-  - title: Past Issues
-    url: /past-issues/
+  - title: All Issues
+    url: /all-issues/
