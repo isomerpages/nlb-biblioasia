@@ -9,38 +9,38 @@ sections:
     - hero:
         title: 
         subtitle:
-        background: /images/Vol-16-issue-4/main-banner.jpg
+        background: /images/Vol-17-issue-1/main-banner.jpg
         button:
         url:
         key_highlights:
-            - title: "Read BiblioAsia Jan-Mar 2021"
+            - title: "Read BiblioAsia Apr-Jun 2021"
               description:
-              url: /vol-16/issue-4/jan-mar-2021/
+              url: /vol-17/issue-1/apr-jun-2021/
     - infopic:
-        title: "Love Is a Many-Layered Thing"
+        title: "Deforestation in 19th-century Singapore"
         subtitle: Highlights
-        description: What lies in this vale of tiers? Christopher Tan delves into <i>kueh lapis legit</i>, the cake that is as famous for its exacting recipe as for the unparalleled flavour of its buttery layers.
+        description: Widespread deforestation caused temperatures to rise, made forest fires more likely and even affected Singapore’s water supply, says Chia Jie Lin.
         button: Read this article
-        url: /vol-16/issue-4/jan-mar-2021/kueh-lapis
-        image: /images/Vol-16-issue-4/kuehlapis/LapisLegit.jpg
-        alt: Sample of lapis
+        url: /vol-17/issue-1/apr-jun-2021/deforestation
+        image: /images/Vol-17-issue-1/deforestation/junglefire.jpg
+        alt: Sample of deforestation
         
     - infopic:
-        title: "St Andrew’s Cathedral and the Mystery of Madras Chunam"
+        title: "A Banquet of Malayan Fruits"
         subtitle: Highlights
-        description: Was Madras <i>chunam</i> used inside St Andrew’s Cathedral? Maybe not, says Yeo Kang Shua.
+        description: The Dumbarton Oaks collection of paintings of fruits date to the late 18th-century and feature their Malay names written in Jawi. Faris Joraimi pieces together the story behind these mysterious works.
         button: Read this article
-        url: /vol-16/issue-4/jan-mar-2021/st-andrew-cathedral
-        image: /images/Vol-16-issue-4/standrew/St-Andrew.jpg
-        alt: sample of standrew
+        url: /vol-17/issue-1/apr-jun-2021/malayan-fruits
+        image: /images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg
+        alt: sample of fruits
     
     - infopic:
-        title: Let There Be Light
+        title: Nature Conservation in Singapore
         subtitle: Highlights
-        description: Timothy Pwee enlightens us about the history of street lighting in Singapore, starting with the first flickering oil lamps that were lit in 1824.
+        description: Over the last two centuries, the balance between biodiversity conservation and development has evolved, says Ang Seow Leng.
         button: Read this article
-        url: /vol-16/issue-4/jan-mar-2021/light
-        image: /images/Vol-16-issue-4/light/bulb.jpg
-        alt: sample of light
+        url: /vol-17/issue-1/apr-jun-2021/nature
+        image: /images/Vol-17-issue-1/nature/pangolin.jpg
+        alt: sample of pangolin
         
 ---

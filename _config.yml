@@ -7,8 +7,8 @@ google_analytics: UA-50449401-32
 
 # Site colors
 colors:
-  primary-color: '#60455b'
-  secondary-color: '#fbaa38'
+  primary-color: '#ba1c21'
+  secondary-color: '#ffc90a'
   media-colors:
     - title: media-color-one
       color: '#49759a'
