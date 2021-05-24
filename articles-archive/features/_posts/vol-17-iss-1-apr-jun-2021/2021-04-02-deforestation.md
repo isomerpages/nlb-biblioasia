@@ -184,7 +184,7 @@ The relationship between forests and the climate is complex. A look at the envir
 
 [^23]: [O’Dempsey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148897), 2014, p. 37.
 
-[^24]: Thomson, J.T. (1849). General report on the residency of Singapore. *[Journal of the Indian Archipelago and Eastern Asia](https://eresources.nlb.gov.sg/printheritage/detail/18eef945-846b-40ac-a7a6-bd5bbe2ca0f8.aspx)*, Vol. III, 618–628, 744–755, p. 627. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
+[^24]: Thomson, J.T. (1849). General report on the residency of Singapore. *[The Journal of the Indian Archipelago and Eastern Asia](https://eresources.nlb.gov.sg/printheritage/detail/18eef945-846b-40ac-a7a6-bd5bbe2ca0f8.aspx)*, Vol. III, 618–628, 744–755, p. 627. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
 
 [^25]: Cameron, J. (1865). *[Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx)* (p. 158). London: Smith, Elder and Co. Retrieved from BookSG. (Call no.: RRARE 959.9 CAM-[JSB]; Accession no.: B29032445G); Williamson, F. (2020, June 15). The science of stifling heat: Recognising urban climate change in the Straits Settlements. *Historical Climatology*. Retrieved from Historical Climatology website. 
 
