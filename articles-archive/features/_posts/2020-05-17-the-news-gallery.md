@@ -2,7 +2,7 @@
 title: "The News Gallery: Beyond Headlines"
 permalink: /vol-16/issue-1/apr-jun-2020/the-news-gallery
 date: 2020-04-01T00:00:00.000Z
-third_nav_title: The News Gallery – Beyond Headlines
+third_nav_title: 'The News Gallery – Beyond Headlines'
 ---
 
 <style>
