@@ -21,11 +21,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-collections:
-  all-issues:
-    output: true
-  past-issues:
-    output: true
 resources_name: articles-archive
 
 ##################################################################################################################
@@ -46,10 +41,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://nlb-ba-staging.netlify.app
+prod: https://nlb-ba-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme
