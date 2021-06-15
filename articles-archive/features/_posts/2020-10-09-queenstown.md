@@ -3,7 +3,7 @@ title: Looking Back at Queenstown Library’s 50 Years
 permalink: /vol-16/issue-3/oct-dec-2020/queenstown
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Queenstown Library
-third_nav_title: Looking Back at Queenstown Library’s 50 Years
+third_nav_title: 'Looking Back at Queenstown Library’s 50 Years'
 ---
 
 <style>
