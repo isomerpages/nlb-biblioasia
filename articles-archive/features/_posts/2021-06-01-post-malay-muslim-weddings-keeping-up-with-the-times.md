@@ -82,47 +82,47 @@ It has also become customary in Malay weddings for the groom and his groomsmen t
 
 *Pantun* are also rarely exchanged today. Instead, to appease the bride’s side and avoid having to perform additional tasks, the groom would offer money to the bride’s party so that he would be allowed to take his place by his bride on the dais.
 
-Once the groom is seated on the dais, family members and guests take turns to go up and congratulate the couple and to have their photos taken with them. The bersanding ceremony ends with the bride and groom having their first meal together as husband and wife, known as the makan berdamai. In the past, the couple would retreat to the bridal room to have their meal, accompanied by their pengapit. Today, the bride and groom are seated at a special dining table set up near the dais so that they can mingle and interact with their guests.21
+Once the groom is seated on the dais, family members and guests take turns to go up and congratulate the couple and to have their photos taken with them. The *bersanding* ceremony ends with the bride and groom having their first meal together as husband and wife, known as the *makan berdamai*. In the past, the couple would retreat to the bridal room to have their meal, accompanied by their *pengapit*. Today, the bride and groom are seated at a special dining table set up near the dais so that they can mingle and interact with their guests.[^21]
 
-The last leg of the ceremony is known as bertandang and takes place at the groom’s residence. In the past, this would be held a week after the wedding feast. Bertandang, also known as majlis sambut menantu (welcoming the bride/in-laws), is when the groom brings his new bride back to his kampong to be introduced to the rest of his family members and other village residents. A second and smaller bersanding ceremony would be conducted at the groom’s residence.22
+The last leg of the ceremony is known as *bertandang* and takes place at the groom’s residence. In the past, this would be held a week after the wedding feast. *Bertandang*, also known as *majlis sambut menantu* (welcoming the bride/in-laws), is when the groom brings his new bride back to his kampong to be introduced to the rest of his family members and other village residents. A second and smaller *bersanding* ceremony would be conducted at the groom’s residence.[^22]
 
-Today, however, the bertandang ceremony usually takes place on the same day as walimah and bersanding. After lunch, a wardrobe change and photos with guests, the newlyweds depart for the groom’s home.23
+Today, however, the *bertandang* ceremony usually takes place on the same day as *walimah* and *bersanding*. After lunch, a wardrobe change and photos with guests, the newlyweds depart for the groom’s home.[^23]
 
-Back when Malays largely lived in kampongs, weddings typically spanned a week, from the nikah to the bertandang ceremonies. These days, couples are more likely to prioritise convenience, simplicity and practicality over tradition. Many choose to have the nikah, walimah and bersanding ceremonies on the same day instead of having the solemnisation performed the day before the wedding feast. Some couples even forego the bertandang ceremony altogether. As Malay dance pioneer and Cultural Medallion recipient Som Said has noted:  
+Back when Malays largely lived in kampongs, weddings typically spanned a week, from the *nikah* to the *bertandang* ceremonies. These days, couples are more likely to prioritise convenience, simplicity and practicality over tradition. Many choose to have the *nikah*, *walimah* and *bersanding* ceremonies on the same day instead of having the solemnisation performed the day before the wedding feast. Some couples even forego the *bertandang* ceremony altogether. As Malay dance pioneer and Cultural Medallion recipient Som Said has noted:  
 
-“Kalau kita nak cakap pasal masa kini, yang tinggal cuma pernikahan dan bersanding. Ringkas kerana mengikut tuntutan masa… Banyak yang dah takde. Banyak yang dihilangkan, bukan hanya dalam majlisnya tapi dalam peradaban, peralatan, persiapan semua… yang tak perlu tu sudah dikikis.”24
-(Translation: If we want to talk about the present, what is left is just the nikah and bersanding ceremonies. Simple and practical due to time constraints… A lot have been done away with. Many aspects of the Malay traditions have been removed, not only in the ceremony but also in traditions, equipment, preparation… those that are not necessary are no longer practised.)
+“Kalau kita nak cakap pasal masa kini, yang tinggal cuma pernikahan dan bersanding. Ringkas kerana mengikut tuntutan masa… Banyak yang dah takde. Banyak yang dihilangkan, bukan hanya dalam majlisnya tapi dalam peradaban, peralatan, persiapan semua… yang tak perlu tu sudah dikikis.”[^24]
 
-Berinai Ceremonies 
-A tradition that used to be a major part of Malay weddings, but is rarely observed in Singapore today, is the berinai comprising three ceremonies: berinai curi (curi means “steal” in Malay), berinai kechil (small henna ceremony) and berinai besar (big henna ceremony). The traditional tepung tawar (blessing ritual) was the central element in all three berinai ceremonies. 
+(Translation: If we want to talk about the present, what is left is just the *nikah* and *bersanding* ceremonies. Simple and practical due to time constraints… A lot have been done away with. Many aspects of the Malay traditions have been removed, not only in the ceremony but also in traditions, equipment, preparation… those that are not necessary are no longer practised.)
 
-The berinai curi and berinai kechil ceremonies would take place before the solemnisation.25 Berinai curi was organised for the bride and involved her female relatives and close female friends. During this ceremony, the bridal party would perform the tepung tawar for the bride before applying henna on her hands and feet. It is traditionally held without the knowledge and consent of the groom’s side, hence the name berinai curi, and usually takes place two days before the nikah, in the evening.26
+#### Berinai Ceremonies 
+A tradition that used to be a major part of Malay weddings, but is rarely observed in Singapore today, is the *berinai* comprising three ceremonies: *berinai curi* (curi means “steal” in Malay), *berinai kechil* (small henna ceremony) and *berinai besar* (big henna ceremony). The traditional *tepung tawar* (blessing ritual) was the central element in all three *berinai* ceremonies. 
 
-The berinai kechil ceremony is held the next evening, involving both the bride and groom. The couple undergo tepung tawar separately, with the groom going first, followed by the bride.27
-The berinai besar ceremony, on the other hand, would be held right after the solemnisation, usually at the bride’s home. It comprised the tepung tawar and included a photography session, during which the bride might have up to 20 changes of outfits.28
+The *berinai curi* and *berinai kechil* ceremonies would take place before the solemnisation.[^25] *Berinai curi* was organised for the bride and involved her female relatives and close female friends. During this ceremony, the bridal party would perform the *tepung tawar* for the bride before applying henna on her hands and feet. It is traditionally held without the knowledge and consent of the groom’s side, hence the name *berinai curi*, and usually takes place two days before the *nikah*, in the evening.[^26]
 
-However, all three berinai ceremonies are rarely conducted today, partly due to the costs and time involved. The berinai curi and the berinai kecil fell out of favour first, by the 1980s, only the berinai besar was commonly performed.29 This last ceremony, too, eventually disappeared by around the early 2000s.30
+The *berinai kechil* ceremony is held the next evening, involving both the bride and groom. The couple undergo *tepung tawar* separately, with the groom going first, followed by the bride.[^27]
+The *berinai besar* ceremony, on the other hand, would be held right after the solemnisation, usually at the bride’s home. It comprised the *tepung tawar* and included a photography session, during which the bride might have up to 20 changes of outfits.[^28]
 
-Stricter Adherence to Islam
-One of the key drivers of change has been a greater understanding and awareness of Islamic obligations. Rituals that are deemed haram, or forbidden under Islam, have been jettisoned. An example of this is the almost complete disappearance of the tepung tawar blessing ceremony because of its purported Hindu origins. 
+However, all three *berinai* ceremonies are rarely conducted today, partly due to the costs and time involved. The *berinai curi* and the *berinai kecil* fell out of favour first, by the 1980s, only the *berinai besar* was commonly performed.[^29] This last ceremony, too, eventually disappeared by around the early 2000s.[^30]
 
-During tepung tawar, the person officiating the blessing first sprinkles rose water and yellow rice on the newlyweds and then dots henna as well as rice flour mixed with water on their palms. A groomsman or bridesmaid wipes away the henna, while the person offering the blessing ends the ceremony by lightly touching an egg to the noses of the couple. During the berinai besar ceremony, the officiator would be presented with a flower from the pulut pahar (a floral bouquet made of yellow glutinous rice, flowers and hard boiled eggs) as a token of appreciation.31
+#### Stricter Adherence to Islam
+One of the key drivers of change has been a greater understanding and awareness of Islamic obligations. Rituals that are deemed *haram*, or forbidden under Islam, have been jettisoned. An example of this is the almost complete disappearance of the *tepung tawar* blessing ceremony because of its purported Hindu origins. 
 
-Today, the tepung tawar ritual is rarely practised. If it does take place at all, it happens during the bersanding ceremony and is officiated by the elders in attendance, including the parents of the bride and groom.
+During *tepung tawar*, the person officiating the blessing first sprinkles rose water and yellow rice on the newlyweds and then dots henna as well as rice flour mixed with water on their palms. A groomsman or bridesmaid wipes away the henna, while the person offering the blessing ends the ceremony by lightly touching an egg to the noses of the couple. During the *berinai besar* ceremony, the officiator would be presented with a flower from the *pulut pahar* (a floral bouquet made of yellow glutinous rice, flowers and hard boiled eggs) as a token of appreciation.[^31]
 
-The potong andam (a beautifying ritual ceremony involving the bride-to-be and the mak andam), is another ritual that is no longer carried out today because it is perceived as non-Islamic. The purpose of this ceremony is to beautify the bride by cutting or shaving the fine hairs on her face and body. 
+Today, the *tepung tawar* ritual is rarely practised. If it does take place at all, it happens during the *bersanding* ceremony and is officiated by the elders in attendance, including the parents of the bride and groom.
 
-During this process, the mak andam would recite mantras while removing the hair. A second part of the ceremony involves the mak andam observing how the cut hairs fall and using that to determine if the bride is a virgin. Due to the spiritual but non-Islamic nature of this ceremony, it is no longer conducted.32
+The *potong andam* (a beautifying ritual ceremony involving the bride-to-be and the *mak andam*), is another ritual that is no longer carried out today because it is perceived as non-Islamic. The purpose of this ceremony is to beautify the bride by cutting or shaving the fine hairs on her face and body. 
 
-The aforementioned Javanese kuda kepang dance, which used to be a popular form of entertainment at weddings, also fell out of favour for the same reason. 
+During this process, the *mak andam* would recite mantras while removing the hair. A second part of the ceremony involves the *mak andam* observing how the cut hairs fall and using that to determine if the bride is a virgin. Due to the spiritual but non-Islamic nature of this ceremony, it is no longer conducted.[^32]
 
-In Singapore, the dance was commonly performed at Malay weddings in the 1970s and early 80s. Dancers would enter into a trance and perform feats like peeling coconut husks using their teeth, chewing or eating glass, and drinking buckets of water. However, in 1979, Majlis Agama Islam Singapura (Islamic Religious Council of Singapore) advised that the trance elements of kuda kepang contravened the tenets of Islam and urged Muslims to avoid such performances.33 As a result, the practice has died out.
+The aforementioned Javanese *kuda kepang* dance, which used to be a popular form of entertainment at weddings, also fell out of favour for the same reason. 
 
-Not Just Singapore
-Many of the changes that Malay wedding customs have undergone in Singapore are replicated in cities like Kuala Lumpur. The makeshift tents in front of houses for the wedding feast (itself an adaptation from the communal space in a kampong) and the gotong royong spirit in preparing for the wedding ceremony and reception have given way to catered events at banquet halls or hotel ballrooms. Elaborate and time-consuming ceremonies have also been simplified. And, like bridal couples in Singapore, Malaysian couples are also opting for themed weddings with wedding planners helping to organise their big do, although the tepung tawar ritual is still practised in Malaysia.34
+In Singapore, the dance was commonly performed at Malay weddings in the 1970s and early 80s. Dancers would enter into a trance and perform feats like peeling coconut husks using their teeth, chewing or eating glass, and drinking buckets of water. However, in 1979, Majlis Agama Islam Singapura (Islamic Religious Council of Singapore) advised that the trance elements of *kuda kepang* contravened the tenets of Islam and urged Muslims to avoid such performances.[^33] As a result, the practice has died out.
+
+#### Not Just Singapore
+Many of the changes that Malay wedding customs have undergone in Singapore are replicated in cities like Kuala Lumpur. The makeshift tents in front of houses for the wedding feast (itself an adaptation from the communal space in a kampong) and the *gotong royong* spirit in preparing for the wedding ceremony and reception have given way to catered events at banquet halls or hotel ballrooms. Elaborate and time-consuming ceremonies have also been simplified. And, like bridal couples in Singapore, Malaysian couples are also opting for themed weddings with wedding planners helping to organise their big do, although the *tepung tawar* ritual is still practised in Malaysia.[^34]
 
 Inevitably, customs and traditions will evolve in response to social and economic changes. As new norms and new expectations develop, Malay wedding customs will also evolve in tandem.
-
 
 <div style="background-color: white;">
 <br/>
@@ -140,71 +140,72 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 
 #### NOTES
-A. Kadir Pandi. (1986, March 26). Kain songket lambang budaya kita. The Straits Times, p. 5; Zakaria Buang. (1982, November 29). Pakaian pengantin tradisional. Berita Minggu, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. Wacana Seni Journal of Arts Discourse, 15, 63–94. Retrieved from ResearchGate website.
+[^1]: A. Kadir Pandi. (1986, March 26). Kain songket lambang budaya kita. The Straits Times, p. 5; Zakaria Buang. (1982, November 29). Pakaian pengantin tradisional. Berita Minggu, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. Wacana Seni Journal of Arts Discourse, 15, 63–94. Retrieved from ResearchGate website.
 
-Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. Sekata. 1 (11), 1–8. Retrieved from National Institute of Education website.
+[^2]: Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. Sekata. 1 (11), 1–8. Retrieved from National Institute of Education website.
 
-Amran Kasimin. (2002). Perkahwinan Melayu (pp. 84–85). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay R q392.509595 AMR-[CUS]); Hidayah Amin. (2014). Malay weddings don’t cost $50 and other facts about Malay culture (p. 97). Singapore: Helang Books. (Call no.: RSING 305.8992805957 HID)
+[^3]: Amran Kasimin. (2002). Perkahwinan Melayu (pp. 84–85). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay R q392.509595 AMR-[CUS]); Hidayah Amin. (2014). Malay weddings don’t cost $50 and other facts about Malay culture (p. 97). Singapore: Helang Books. (Call no.: RSING 305.8992805957 HID)
 
-Hidayah Amin, 2014, pp. 95–97.
+[^4]: Hidayah Amin, 2014, pp. 95–97.
 
-Muhammad Ariff Ahmad. (2007). Nilam: Nilai Melayu menurut adat (pp. 278–279). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH); Hidayah Amin, 2014, pp. 95–97.
+[^5]: Muhammad Ariff Ahmad. (2007). Nilam: Nilai Melayu menurut adat (pp. 278–279). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH); Hidayah Amin, 2014, pp. 95–97.
 
-Registry of Muslim Marriages. (2019, May 10). Maskahwin & marriage expenses. Retrieved from Registry of Muslim Marriages website.
+[^6]: Registry of Muslim Marriages. (2019, May 10). Maskahwin & marriage expenses. Retrieved from Registry of Muslim Marriages website.
 
-Ruzita Zaki. (Interviewer). (1995, February 7). Oral history interview with Mohd Amin bin Abdul Wahab (Haji) [MP3 recording no. 001597/44/7]. Retrieved from National Archives of Singapore website.
+[^7]: Ruzita Zaki. (Interviewer). (1995, February 7). Oral history interview with Mohd Amin bin Abdul Wahab (Haji) [MP3 recording no. 001597/44/7]. Retrieved from National Archives of Singapore website.
 
-Azahar Mohamed. (1999, May 23). Wang hantaran tinggi? Itu cabaran lelaki pertingkat diri. Berita Minggu, p. 8; Perihal mas kahwin dan wang hantaran. (2015, August 11). Berita Harian, p. 7. Retrieved from NewspaperSG.
+[^8]: Azahar Mohamed. (1999, May 23). Wang hantaran tinggi? Itu cabaran lelaki pertingkat diri. Berita Minggu, p. 8; Perihal mas kahwin dan wang hantaran. (2015, August 11). Berita Harian, p. 7. Retrieved from NewspaperSG.
 
-Muhammad Ariff Ahmad, 2007, pp. 278–279; Zaharian Osman. (2009, April 11). Barang hantaran kian canggih. Berita Harian, p. 22; Farid Hamzah. (2010, January 4). Dariku untukmu, sayang: Hantaran. Berita Harian, p. 8; Zawiyah Salleh. (2009, March 18). Gubah hantaran pengantin. Berita Harian, p. 9. Retrieved from NewspaperSG. 
+[^9]: Muhammad Ariff Ahmad, 2007, pp. 278–279; Zaharian Osman. (2009, April 11). Barang hantaran kian canggih. Berita Harian, p. 22; Farid Hamzah. (2010, January 4). Dariku untukmu, sayang: Hantaran. Berita Harian, p. 8; Zawiyah Salleh. (2009, March 18). Gubah hantaran pengantin. Berita Harian, p. 9. Retrieved from NewspaperSG. 
 
-Hidayah Amin, 2014, pp. 97–98.
+[^10]: Hidayah Amin, 2014, pp. 97–98.
 
-Muhammad Ariff Ahmad, 2007, pp. 274–275; Hadijah Rahmat. (2005). Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
+[^11]: Muhammad Ariff Ahmad, 2007, pp. 274–275; Hadijah Rahmat. (2005). Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
 
-Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). Oral history interview with Abu Talib bin Ally [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
+[^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). Oral history interview with Abu Talib bin Ally [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
 
-Mohd Yussoff Ahmad. (Interviewer). (1987, March 12). Oral history interview with Aliman bin Hassan (Haji) [MP3 recording no. 000797/11/2]. Retrieved from National Archives of Singapore website. 
+[^13]: Mohd Yussoff Ahmad. (Interviewer). (1987, March 12). Oral history interview with Aliman bin Hassan (Haji) [MP3 recording no. 000797/11/2]. Retrieved from National Archives of Singapore website. 
 
-Haron Abdul Rahman. (1986, Febraury 12). The big day and its rites. The Straits Times, p. 20; Lebih meriah kalau adakan majlis di tempat sendiri. (1986, March 30). Berita Harian, 
+[^14]: Haron Abdul Rahman. (1986, Febraury 12). The big day and its rites. The Straits Times, p. 20; Lebih meriah kalau adakan majlis di tempat sendiri. (1986, March 30). Berita Harian, 
 p. 11. Retrieved from NewspaperSG.
 
-Spykerman, K. (2012, January 15). My big fat void deck wedding. The Straits Times, p. 2; Shahida Sarhid. (2012, September 30). Kambing barbeku, susyi antara hidangan. Berita Harian, p. 6. Retrieved from NewspaperSG. 
+[^15]: Spykerman, K. (2012, January 15). My big fat void deck wedding. The Straits Times, p. 2; Shahida Sarhid. (2012, September 30). Kambing barbeku, susyi antara hidangan. Berita Harian, p. 6. Retrieved from NewspaperSG. 
 
-Nur ‘Adilah Mahbob. (2013, May 24). Taman jadi laman popular majlis kahwin. Berita Harian, p. 14; Salma Semono. (2007, July 28). Sajian untuk jemputan. Berita Harian, p. 27. Retrieved from NewspaperSG; Norhaiza Hashim & Shahida Sarhid. (2019, October 6). Khidmat semua di ‘bawah satu bumbung’ kian jadi pilihan mempelai. Berita Minggu. Retrieved from Factiva via NLB’s eResources website.
+[^16]: Nur ‘Adilah Mahbob. (2013, May 24). Taman jadi laman popular majlis kahwin. Berita Harian, p. 14; Salma Semono. (2007, July 28). Sajian untuk jemputan. Berita Harian, p. 27. Retrieved from NewspaperSG; Norhaiza Hashim & Shahida Sarhid. (2019, October 6). Khidmat semua di ‘bawah satu bumbung’ kian jadi pilihan mempelai. Berita Minggu. Retrieved from Factiva via NLB’s eResources website.
 
-Azman Siraj. (1990, October 24). Khidmat DJ kian popular dalam majlis perkahwinan. Berita Harian, p. 6; Ismail Pantek. (2010, June 14). Semua ‘turun padang’ rewang. Berita Harian, p. 9; Kamali Hudi. (2002, August 17). Lagu pengantin citra warisan. Berita Harian, p. 22. Retrieved from NewspaperSG; Hadijah Rahmat, 2005, p. 244.
+[^17]: Azman Siraj. (1990, October 24). Khidmat DJ kian popular dalam majlis perkahwinan. Berita Harian, p. 6; Ismail Pantek. (2010, June 14). Semua ‘turun padang’ rewang. Berita Harian, p. 9; Kamali Hudi. (2002, August 17). Lagu pengantin citra warisan. Berita Harian, p. 22. Retrieved from NewspaperSG; Hadijah Rahmat, 2005, p. 244.
 
-Hadijah Rahmat, 2005, p. 241; Muhammad Ariff Ahmad. (1988, April 7). The grand finale in the Malay wedding. The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^18]: Hadijah Rahmat, 2005, p. 241; Muhammad Ariff Ahmad. (1988, April 7). The grand finale in the Malay wedding. The Straits Times, p. 6. Retrieved from NewspaperSG.
 
-Silat pengantin is a ceremonial Malay martial arts performance to honour and give strength to the groom and to welcome the newlyweds. Compared to pencak silat (Malay martial arts), silat pengantin uses gentler hand movements, which are still executed in firm and strong strokes to convey respect and honour to the newlyweds. The silat pengantin is performed in rhythm with accompanying music from the kompang troupe. The performance ends with a handshake between the groom and the silat performer. See Pendekar Temasek. (2019). Silat pengantin (pp. 24–40). Singapore: Pustaka Nasional Pte Ltd. (Call no.: Malay RSING 796.81509595 PEN); The Straits Times, 7 Apr 1988, p. 6; Koh, J., & Ho, S. (2009). Culture and customs of Singapore and Malaysia (p. 119). Santa Barbara, California: Greenwood Press. (Call no.: YP R305.80095957 KOH)
+[^19]: Silat pengantin is a ceremonial Malay martial arts performance to honour and give strength to the groom and to welcome the newlyweds. Compared to pencak silat (Malay martial arts), silat pengantin uses gentler hand movements, which are still executed in firm and strong strokes to convey respect and honour to the newlyweds. The silat pengantin is performed in rhythm with accompanying music from the kompang troupe. The performance ends with a handshake between the groom and the silat performer. See Pendekar Temasek. (2019). Silat pengantin (pp. 24–40). Singapore: Pustaka Nasional Pte Ltd. (Call no.: Malay RSING 796.81509595 PEN); The Straits Times, 7 Apr 1988, p. 6; Koh, J., & Ho, S. (2009). Culture and customs of Singapore and Malaysia (p. 119). Santa Barbara, California: Greenwood Press. (Call no.: YP R305.80095957 KOH)
 
-The Straits Times, 7 Apr 1988, p. 6; Muhammad Ariff Ahmad. (1993). Bicara tentang adat dan tradisi (pp. 44–46). Singapore: Pustaka Nasional. (Call no.: Malay RSING 306.08999205957 MUH)
+[^20]: The Straits Times, 7 Apr 1988, p. 6; Muhammad Ariff Ahmad. (1993). Bicara tentang adat dan tradisi (pp. 44–46). Singapore: Pustaka Nasional. (Call no.: Malay RSING 306.08999205957 MUH)
 
-Muhammad Ariff Ahmad, 2007, p. 282.
+[^21]: Muhammad Ariff Ahmad, 2007, p. 282.
 
-Muhammad Ariff Ahmad, 2007, p. 282; Muhammad Ariff Ahmad, 1993, pp. 45–46; The Straits Times, 7 Apr 1988, p. 6.
+[^22]: Muhammad Ariff Ahmad, 2007, p. 282; Muhammad Ariff Ahmad, 1993, pp. 45–46; The Straits Times, 7 Apr 1988, p. 6.
 
-Muhammad Ariff Ahmad, 1993, pp. 45–46; Hidayah Amin, 2014, p. 107.
+[^23]: Muhammad Ariff Ahmad, 1993, pp. 45–46; Hidayah Amin, 2014, p. 107.
 
-Mediacorp News Group. (2017, October 18). DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu. Retrieved from Berita Mediacorp website.
+[^24]: Mediacorp News Group. (2017, October 18). DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu. Retrieved from Berita Mediacorp website.
 
-Muhammad Ariff Ahmad, 2007, pp. 271, 275–276.
+[^25]: Muhammad Ariff Ahmad, 2007, pp. 271, 275–276.
 
-Muhammad Ariff Ahmad, 2007, p. 275.
+[^26]: Muhammad Ariff Ahmad, 2007, p. 275.
 
-Muhammad Ariff Ahmad, 1993, p. 40.
+[^27]: Muhammad Ariff Ahmad, 1993, p. 40.
 
-Muhammad Ariff Ahmad, 1993, p. 40.
+[^28]: Muhammad Ariff Ahmad, 1993, p. 40.
 
-Adat perkahwinan banyak berubah. (1983, September 1). The Straits Times, p. 4; Dua ‘pencurian’ dalam berinai curi. (1988, March 24). The Straits Times, p. 5. Retrieved from NewspaperSG.
-Muhammad Ariff Ahmad, 2007, p. 248; Berinai di pelamin: Adat perkahwinan orang Melayu. (2006, March 5). Berita Harian, p. 11. Retrieved from NewspaperSG.
+[^29]: Adat perkahwinan banyak berubah. (1983, September 1). The Straits Times, p. 4; Dua ‘pencurian’ dalam berinai curi. (1988, March 24). The Straits Times, p. 5. Retrieved from NewspaperSG.
 
-The pulut pahar is a floral bouquet comprising a base of pulut kuning (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the pulut kuning is absent, the arrangement is known as bunga telur. The pulut pahar, which is distributed to those attending the tepung tawar ceremony, is not to be confused with the bunga telur given to all guests at the wedding reception. In the past, half of the bunga pahar or bunga telur would be given to the mak andam (makeup artist-cum-lady-in-waiting). See Muhammad Ariff Ahmad, 2007, pp. 275–276.
+[^30]: Muhammad Ariff Ahmad, 2007, p. 248; Berinai di pelamin: Adat perkahwinan orang Melayu. (2006, March 5). Berita Harian, p. 11. Retrieved from NewspaperSG.
 
-Muhammad Ariff Ahmad, 2007, pp. 276–277; Amran Kasimin. (2002). Perkahwinan Melayu (pp. 49–52). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: 
+[^31]: The pulut pahar is a floral bouquet comprising a base of pulut kuning (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the pulut kuning is absent, the arrangement is known as bunga telur. The pulut pahar, which is distributed to those attending the tepung tawar ceremony, is not to be confused with the bunga telur given to all guests at the wedding reception. In the past, half of the bunga pahar or bunga telur would be given to the mak andam (makeup artist-cum-lady-in-waiting). See Muhammad Ariff Ahmad, 2007, pp. 275–276.
+
+[^32]: Muhammad Ariff Ahmad, 2007, pp. 276–277; Amran Kasimin. (2002). Perkahwinan Melayu (pp. 49–52). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: 
 R q392.509595 AMR-[CUS])
 
-Advisory on kuda kepang performances. (2019, July 25). Office of the Mufti. Retrieved from Majlis Ugama Islam Singapura website; ‘Kuda kepang’ against Islam: Muis. (1979, June 14). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^33]: Advisory on kuda kepang performances. (2019, July 25). Office of the Mufti. Retrieved from Majlis Ugama Islam Singapura website; ‘Kuda kepang’ against Islam: Muis. (1979, June 14). The Straits Times, p. 12. Retrieved from NewspaperSG.
 
-Fatimah Abdullah. (2009). Dari halaman rumah ke Dewan Merak Kayangan: Upacara perkahwinan Melayu bandar. SARI: Jurnal Alam dan Tamadun Melayu, 27, 97–107. Retrieved from UKM Journal Article Repository website; Mohd Khairuddin Mohd Sallehuddin & Mohamad Fauzi Sukimi. (2016). Impian dan realiti majlis perkahwinan orang Melayu masakini: Kajian kes di pinggir bandar Kuala Lumpur. Geografia: Malaysian Journal of Society and Space, 12 (7), 1–12. Retrieved from UKM Journal Article Repository website.
+[^34]: Fatimah Abdullah. (2009). Dari halaman rumah ke Dewan Merak Kayangan: Upacara perkahwinan Melayu bandar. SARI: Jurnal Alam dan Tamadun Melayu, 27, 97–107. Retrieved from UKM Journal Article Repository website; Mohd Khairuddin Mohd Sallehuddin & Mohamad Fauzi Sukimi. (2016). Impian dan realiti majlis perkahwinan orang Melayu masakini: Kajian kes di pinggir bandar Kuala Lumpur. Geografia: Malaysian Journal of Society and Space, 12 (7), 1–12. Retrieved from UKM Journal Article Repository website.
