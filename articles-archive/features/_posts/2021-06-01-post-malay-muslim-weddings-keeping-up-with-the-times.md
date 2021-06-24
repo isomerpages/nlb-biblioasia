@@ -42,7 +42,7 @@ The Malay wedding reaches its peak during the *walimah* and *bersanding* ceremon
 
 These events were typically communal events involving the entire kampong in the spirit of *gotong-royong*. It was customary to round up family members and enlist the entire village to help out with both the wedding preparations as well as the festivities leading up to the wedding day. 
 
-Physically demanding tasks such as carpentry and house painting were handled by men, while women helped to decorate the bridal *dais* with palm and banana leaves and paper flowers, as well as cook for the volunteers. The wedding feast would also be painstakingly prepared and cooked by family, friends and neighbours, with some even contributing ingredients for the feast.[^11]
+Physically demanding tasks such as carpentry and house painting were handled by men, while women helped to decorate the bridal dais with palm and banana leaves and paper flowers, as well as cook for the volunteers. The wedding feast would also be painstakingly prepared and cooked by family, friends and neighbours, with some even contributing ingredients for the feast.[^11]
 
 Abu Talib Bin Ally, who lived in Kampong Glam in the 1920s, recalled how friends and relatives would come over days before the wedding to help out at the bride’s and groom’s homes: 
 
@@ -71,16 +71,16 @@ The types of entertainment for wedding guests have also changed. Until the 1980s
 #### Bersanding Ceremony
 The sound of the *kompang*, sometimes referred to as *rebana*, and a troupe singing along to the beating drums, signals the arrival of the groom and his entourage. Flanked by his *pengapit* (groomsmen), the groom begins a processional march known as *berarak*.  
 
-Accompanying him are two men carrying the *bunga manggar* (palm blossoms made from tinsel paper). The bride awaits on the bridal *dai*s, her face shielded by a fan held by the *mak andam* (the makeup artist-cum-lady-in-waiting).[^18]
+Accompanying him are two men carrying the *bunga manggar* (palm blossoms made from tinsel paper). The bride awaits on the bridal dais, her face shielded by a fan held by the *mak andam* (the makeup artist-cum-lady-in-waiting).[^18]
 
-To reach the bride, the groom must first overcome various *hadang* (roadblocks or obstacles). During the first *hadang*, witty *pantuns (Malay poems) are exchanged between the pengapit and the bride’s wedding party. The groom must also pay what is known as the duit pagar, or “gate fee”. After the groom passes the tests, he is allowed to be seated in front of the bridal dais and a silat pengantin (Malay martial arts display) performed for him.19
+To reach the bride, the groom must first overcome various *hadang* (roadblocks or obstacles). During the first *hadang*, witty pantuns* (Malay poems) are exchanged between the *pengapit* and the bride’s wedding party. The groom must also pay what is known as the *duit pagar*, or “gate fee”. After the groom passes the tests, he is allowed to be seated in front of the bridal dais and a *silat pengantin* (Malay martial arts display) performed for him.[^19]
 
-The final hadang takes place at the bridal dais itself, this time between the groom and the mak andam. He pays her the duit kipas (fan money); once satisfied, she reveals the bride and the groom finally takes his seat on the dais beside the bride.20
+The final *hadang* takes place at the bridal dais itself, this time between the groom and the *mak andam*. He pays her the *duit kipas* (fan money); once satisfied, she reveals the bride and the groom finally takes his seat on the dais beside the bride.[^20]
 
-Traditionally, the groom’s older relatives were roped in to be the groomsmen and expected to partake in the exchange of pantuns. These days however, the pengapit role is assumed by friends. 
+Traditionally, the groom’s older relatives were roped in to be the groomsmen and expected to partake in the exchange of *pantuns*. These days however, the *pengapit* role is assumed by friends. 
 It has also become customary in Malay weddings for the groom and his groomsmen to perform a series of tasks, such as singing and dancing, before he is allowed to meet his bride, possibly borrowed from a similar Chinese tradition. 
 
-Pantun are also rarely exchanged today. Instead, to appease the bride’s side and avoid having to perform additional tasks, the groom would offer money to the bride’s party so that he would be allowed to take his place by his bride on the dais.
+*Pantun* are also rarely exchanged today. Instead, to appease the bride’s side and avoid having to perform additional tasks, the groom would offer money to the bride’s party so that he would be allowed to take his place by his bride on the dais.
 
 Once the groom is seated on the dais, family members and guests take turns to go up and congratulate the couple and to have their photos taken with them. The bersanding ceremony ends with the bride and groom having their first meal together as husband and wife, known as the makan berdamai. In the past, the couple would retreat to the bridal room to have their meal, accompanied by their pengapit. Today, the bride and groom are seated at a special dining table set up near the dais so that they can mingle and interact with their guests.21
 
