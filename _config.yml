@@ -9,9 +9,9 @@ colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#ffc90a"
-    - title: media-color-three
       color: "#ba1c21"
+    - title: media-color-three
+      color: "#ffc90a"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
