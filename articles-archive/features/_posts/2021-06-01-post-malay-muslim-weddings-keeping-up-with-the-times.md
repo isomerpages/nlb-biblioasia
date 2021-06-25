@@ -169,8 +169,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^13]: Mohd Yussoff Ahmad. (Interviewer). (1987, March 12). Oral history interview with Aliman bin Hassan (Haji) [MP3 recording no. 000797/11/2]. Retrieved from National Archives of Singapore website. 
 
-[^14]: Haron Abdul Rahman. (1986, Febraury 12). The big day and its rites. The Straits Times, p. 20; Lebih meriah kalau adakan majlis di tempat sendiri. (1986, March 30). Berita Harian, 
-p. 11. Retrieved from NewspaperSG.
+[^14]: Haron Abdul Rahman. (1986, Febraury 12). The big day and its rites. The Straits Times, p. 20; Lebih meriah kalau adakan majlis di tempat sendiri. (1986, March 30). Berita Harian, p. 11. Retrieved from NewspaperSG.
 
 [^15]: Spykerman, K. (2012, January 15). My big fat void deck wedding. The Straits Times, p. 2; Shahida Sarhid. (2012, September 30). Kambing barbeku, susyi antara hidangan. Berita Harian, p. 6. Retrieved from NewspaperSG. 
 
