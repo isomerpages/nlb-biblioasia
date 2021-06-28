@@ -1,9 +1,10 @@
 ---
-title: "Malay Muslim Weddings: Keeping Up with the Times"
+title: "Malay-Muslim Weddings: Keeping Up with the Times"
 date: 2021-06-01
 permalink: /articles-archive/features/malay-weddings
 layout: post
 ---
+
 #### Customs and traditions change over time. **Asrina Tanuri** and **Nadya Suradi** trace how Malay Muslim weddings in Singapore have evolved since the 1950s.
 
 ![image](/images/Vol-17-issue-1/agriculture/coconut.jpg)
