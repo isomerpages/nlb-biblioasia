@@ -105,7 +105,7 @@ Although it has been close to 50 years since his death, Tan is still fondly reme
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-2/authors/Asrina-Tanuri.png" style="width: 100px; height: 100px;" />
-	<b>Asrina Tanuri</b> is a Manager (Research) with the National Library, Singapore, where she provides information services to government agencies. Her research areas include community safety and security, and adult learning.
+	<b>Lee Meiyu</b> is a Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her research interests include Singapore’s Chinese community. She is the co-author of Money by Mail to China: Dreams and Struggles of Early Migrants (2012) and Roots: Tracing Family Histories – a Resource Guide (2013).
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
