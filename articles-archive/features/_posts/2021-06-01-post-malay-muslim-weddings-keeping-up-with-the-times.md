@@ -4,8 +4,6 @@ date: 2021-06-01
 permalink: /articles-archive/features/malay-weddings
 layout: post
 ---
-
-
 #### Customs and traditions change over time. **Asrina Tanuri** and **Nadya Suradi** trace how Malay-Muslim weddings in Singapore have evolved since the 1950s.
 
 ![image](/images/Vol-17-issue-1/agriculture/coconut.jpg)
@@ -77,6 +75,16 @@ The types of entertainment for wedding guests have also changed. Until the 1980s
 The sound of the *kompang*, sometimes referred to as *rebana*, and a troupe singing along to the beating drums, signals the arrival of the groom and his entourage. Flanked by his *pengapit* (groomsmen), the groom begins a processional march known as *berarak*.  
 
 Accompanying him are two men carrying the *bunga manggar* (palm blossoms made from tinsel paper). The bride awaits on the bridal dais, her face shielded by a fan held by the *mak andam* (the makeup artist-cum-lady-in-waiting).[^18]
+
+|**BUNGA TELUR**|
+
+|Wedding favours are known as berkat kahwin or berkat pengantin. Traditionally, guests at Malay weddings are given a bunga telur (literally a “flower egg”) as a token of appreciation. A bunga telur comprises a red hard boiled egg resting on top of a bed of pulut kunyit (yellow glutinous rice) in a glass decorated with flowers, hence its name.[^1]|
+
+|Each part of the bunga telur has a special meaning. The egg symbolises fertility and prosperity. The yellow glutinous rice represents harmony, honesty and royalty – referring to the bride and groom, who are regarded as royals for the day – while the flower signifies love in their marriage.[^2]|
+
+|In the past, the making of the bunga telur was an opportunity for family members, neighbours and friends to lend a helping hand with the various tasks involved, such as boiling the eggs, steaming the glutinous rice, colouring the eggs and decorating with the flowers.[^3]|
+
+|These days however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the bunga telur.[^4]|
 
 To reach the bride, the groom must first overcome various *hadang* (roadblocks or obstacles). During the first *hadang*, witty pantuns* (Malay poems) are exchanged between the *pengapit* and the bride’s wedding party. The groom must also pay what is known as the *duit pagar*, or “gate fee”. After the groom passes the tests, he is allowed to be seated in front of the bridal dais and a *silat pengantin* (Malay martial arts display) performed for him.[^19]
 
