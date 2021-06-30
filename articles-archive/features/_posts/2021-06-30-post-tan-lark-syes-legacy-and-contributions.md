@@ -112,4 +112,4 @@ Although it has been close to 50 years since his death, Tan is still fondly reme
 
 
 #### NOTES
-[^1]: NTU building and road renamed in honour of pioneers. (2019, October 20). The Sunday Times. Retrieved from The Straits Times website.
+[^1]: NTU building and road renamed in honour of pioneers. (2019, October 20). *The Sunday Times*. Retrieved from The Straits Times website.
