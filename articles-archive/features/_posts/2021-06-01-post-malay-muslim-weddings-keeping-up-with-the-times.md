@@ -164,7 +164,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/authors/georgina_wong.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-17-issue-2/authors/Nadya-Suradi.png" style="width: 100px; height: 100px;" />
 <b>Nadya Suradi</b> is an Assistant Manager with Programmes and Exhibitions. She curates programmes to introduce younger people to the collections of the National Library and National Archives.
 </div>
 
