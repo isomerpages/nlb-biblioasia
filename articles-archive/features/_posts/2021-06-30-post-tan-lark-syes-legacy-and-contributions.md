@@ -87,7 +87,7 @@ In 1962, the government agreed to send three representatives to attend meetings 
 
 Things came to a head during the 1963 Legislative Assembly general election. The election pitted the PAP against the Barisan Sosialis, the left-wing breakaway faction of the PAP. In the run-up to the elections, Tan appealed to voters to support Nantah alumni contesting the election, most of whom were running under the banner of the Barisan Sosialis.
 
-At a press conference, Tan said he was delighted that so many Nanyang graduates were pursuing the university’s policy of rendering service to their country and appealed to the electorate to “vote for Nanyang graduate candidates, irrespective of the political parties to which they belong”. 
+At a press conference, Tan said he was delighted that so many Nanyang graduates were pursuing the university’s policy of rendering service to their country and appealed to the electorate to “vote for Nanyang graduate candidates, irrespective of the political parties to which they belong”.[^31]
 
 This call, however, was viewed by the PAP as Tan openly showing support for the Barisan Sosialis, a political party formed by ex-PAP members who were regarded as pro-communists. The PAP believed that Tan had been used by the Communists. 
 
