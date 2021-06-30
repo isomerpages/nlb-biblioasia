@@ -64,3 +64,6 @@ To his detractors, Tan Lark Sye argued that the setting up of a university would
 Businessman and prominent community leader Tan Cheng Lock helped to allay the concerns of both the colonial government and the Malay community. Finally, on 5 May 1953, Nanyang University was registered, albeit as a private limited company and not as a university to avoid complications.[^22]
 
 The next day, Tan Lark Sye announced that politics would be banned from the university. “We will not tolerate professors, lecturers, students or even the Chancellor if any of them should be found participating in political activities inside the university,” he said.[^23]
+
+##### Recognising Nanyang University
+Given Tan’s history of advocacy on behalf of the Chinese community, it is not surprising that he would push for the founding of a Chinese university in Malaya. On 17 March 1950, a Nanyang Siang Pau article noted that Chinese-educated students were unable to attend the University of Malaya because English proficiency was one of the mandatory entry requirements. A few days later, the university announced that it would establish a Chinese Department and also suggested that qualified Chinese-educated students could apply for admission. Tan donated $300,000 to the university upon hearing the news.
