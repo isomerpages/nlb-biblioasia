@@ -142,6 +142,6 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^14]: 利亮时 [Li, L.S.]. (2012).《陈六使与南洋大学》[Tan Lark Sye and Nanyang University] (pp. 38–46). 新加坡: 八方文化创作室. (Call no.: RSING 378.5957 LLS); Ong, Lim & Ng, 2015, p. 148.
 
-[^15]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 27, 60–61. For more details, see chapter six of Li (2018).
+[^15]: Ong, Lim & Ng, 2015, pp. 24–25, 55–56, 147, 150.
 
 [^16]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 27, 60–61. For more details, see chapter six of Li (2018).
