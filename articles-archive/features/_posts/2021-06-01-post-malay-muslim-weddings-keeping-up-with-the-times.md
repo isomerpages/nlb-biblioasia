@@ -89,13 +89,13 @@ Accompanying him are two men carrying the *bunga manggar* (palm blossoms made fr
 
 |**BUNGA TELUR**|
 
-|Wedding favours are known as berkat kahwin or berkat pengantin. Traditionally, guests at Malay weddings are given a bunga telur (literally a “flower egg”) as a token of appreciation. A bunga telur comprises a red hard boiled egg resting on top of a bed of pulut kunyit (yellow glutinous rice) in a glass decorated with flowers, hence its name.[^1]|
+|Wedding favours are known as berkat kahwin or berkat pengantin. Traditionally, guests at Malay weddings are given a bunga telur (literally a “flower egg”) as a token of appreciation. A bunga telur comprises a red hard boiled egg resting on top of a bed of pulut kunyit (yellow glutinous rice) in a glass decorated with flowers, hence its name.19|
 
-|Each part of the bunga telur has a special meaning. The egg symbolises fertility and prosperity. The yellow glutinous rice represents harmony, honesty and royalty – referring to the bride and groom, who are regarded as royals for the day – while the flower signifies love in their marriage.[^2]|
+|Each part of the bunga telur has a special meaning. The egg symbolises fertility and prosperity. The yellow glutinous rice represents harmony, honesty and royalty – referring to the bride and groom, who are regarded as royals for the day – while the flower signifies love in their marriage.20|
 
-|In the past, the making of the bunga telur was an opportunity for family members, neighbours and friends to lend a helping hand with the various tasks involved, such as boiling the eggs, steaming the glutinous rice, colouring the eggs and decorating with the flowers.[^3]|
+|In the past, the making of the bunga telur was an opportunity for family members, neighbours and friends to lend a helping hand with the various tasks involved, such as boiling the eggs, steaming the glutinous rice, colouring the eggs and decorating with the flowers.21|
 
-|These days however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the bunga telur.[^4]|
+|These days however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the bunga telur.22|
 
 To reach the bride, the groom must first overcome various *hadang* (roadblocks or obstacles). During the first *hadang*, witty pantuns* (Malay poems) are exchanged between the *pengapit* and the bride’s wedding party. The groom must also pay what is known as the *duit pagar*, or “gate fee”. After the groom passes the tests, he is allowed to be seated in front of the bridal dais and a *silat pengantin* (Malay martial arts display) performed for him.[^19]
 
