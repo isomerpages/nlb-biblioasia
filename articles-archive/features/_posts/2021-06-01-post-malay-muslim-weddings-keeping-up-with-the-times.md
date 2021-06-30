@@ -206,7 +206,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^14]: Haron Abdul Rahman. (1986, Febraury 12). [The big day and its rites](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860212-1.2.40.1). *The Straits Times*, p. 20; [Lebih meriah kalau adakan majlis di tempat sendiri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860330-1.2.28.4.7). (1986, March 30). *Berita Harian*, p. 11. Retrieved from NewspaperSG.
 
-[^15]: Spykerman, K. (2012, January 15). My big fat void deck wedding. *The Straits Times*, p. 2; Shahida Sarhid. (2012, September 30). Kambing barbeku, susyi antara hidangan. *Berita Harian*, p. 6. Retrieved from NewspaperSG. 
+[^15]: Spykerman, K. (2012, January 15). [My big fat void deck wedding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120115-1.2.54.1.1). *The Straits Times*, p. 2; Shahida Sarhid. (2012, September 30). Kambing barbeku, susyi antara hidangan. *Berita Harian*, p. 6. Retrieved from NewspaperSG. 
 
 [^16]: Nur ‘Adilah Mahbob. (2013, May 24). Taman jadi laman popular majlis kahwin. *Berita Harian*, p. 14; Salma Semono. (2007, July 28). Sajian untuk jemputan. *Berita Harian*, p. 27. Retrieved from NewspaperSG; Norhaiza Hashim & Shahida Sarhid. (2019, October 6). Khidmat semua di ‘bawah satu bumbung’ kian jadi pilihan mempelai. *Berita Minggu*. Retrieved from Factiva via NLB’s eResources website.
 
