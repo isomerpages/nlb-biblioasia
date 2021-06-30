@@ -236,7 +236,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^29]: [Adat perkahwinan banyak berubah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830901-1.2.172.6.3). (1983, September 1). The Straits Times, p. 4; [Dua ‘pencurian’ dalam berinai curi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880324-1.2.61.8.2). (1988, March 24). The Straits Times, p. 5. Retrieved from NewspaperSG.
 
-[^30]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 248; Berinai di pelamin: Adat perkahwinan orang Melayu. (2006, March 5). Berita Harian, p. 11. Retrieved from NewspaperSG.
+[^30]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 248; [Berinai di pelamin: Adat perkahwinan orang Melayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20060305-1.2.11.9). (2006, March 5). Berita Harian, p. 11. Retrieved from NewspaperSG.
 
 [^31]: The *pulut pahar* is a floral bouquet comprising a base of *pulut kuning* (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the *pulut kuning* is absent, the arrangement is known as *bunga telur*. The *pulut pahar*, which is distributed to those attending the *tepung tawar* ceremony, is not to be confused with the *bunga telur* given to all guests at the wedding reception. In the past, half of the *bunga pahar* or *bunga telur* would be given to the *mak andam* (makeup artist-cum-lady-in-waiting). See Muhammad Ariff Ahmad, 2007, pp. 275–276.
 
