@@ -6,12 +6,12 @@ layout: post
 ---
 <style>
 table { 
-	background-color: #e5f1ee;
+	background-color: #e5ebf6;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #e5f1ee
+  background: #e5ebf6
 }
 </style>
 
