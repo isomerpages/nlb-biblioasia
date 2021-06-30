@@ -120,4 +120,4 @@ Although it has been close to 50 years since his death, Tan is still fondly reme
 
 [^4]: Ong, C.M., Lim, H.Y., & Ng, L.Y. (2015). [*Tan Lark Sye: Advocator and founder of Nanyang University*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065) (pp. 22, 33–34). Singapore: World Scientific Publishing Co. Pte. Ltd. (Call no.: RSING 378.5957 TAN)
 
-[^5]: Ong, Lim, & Ng, 2015, pp. 22–23, 35–38. [Note: For a list of subsidiary companies and joint ventures linked to the Aik Hoe Group, refer to this book by Ong, Lim and Ng.]
+[^5]: [Ong, Lim, & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 22–23, 35–38. [Note: For a list of subsidiary companies and joint ventures linked to the Aik Hoe Group, refer to this book by Ong, Lim and Ng.]
