@@ -134,6 +134,6 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^10]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 16–19, 26–27.
 
-[^11]: For more details, see chapters three and four of 李奕志 [Li, Y. Z.]. (2018).《历史的抉择：“二战”后新加坡华侨争取公民权运动》[*A historic choice: Campaign for citizenship by overseas Chinese in Singapore after World War II*]. 北京市 : 人民出版社. (Call no.: Chinese RSING 959.57004951 LYZ-[HIS])
+[^11]: For more details, see chapters three and four of 李奕志 [Li, Y. Z.]. (2018).《[历史的抉择：“二战”后新加坡华侨争取公民权运动](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84513676)》[*A historic choice: Campaign for citizenship by overseas Chinese in Singapore after World War II*]. 北京市 : 人民出版社. (Call no.: Chinese RSING 959.57004951 LYZ-[HIS])
 
 [^12]: Ong, Lim & Ng, 2015, pp. 27, 60–61. For more details, see chapter six of Li (2018).
