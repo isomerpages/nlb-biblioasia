@@ -109,6 +109,12 @@ The final *hadang* takes place at the bridal dais itself, this time between the 
 
 |Another change has been to the role of the *mak andam*, who has one of the more important jobs during a Malay wedding. In addition to doing the bridal makeup, the *mak andam* is the de facto protocol guide of a traditional Malay wedding. On the big day, it is the job of the *mak andam* to guide the bride and groom during the many ceremonies.28|
 
+|Today, however, the *mak andam* has been relegated to a less important role. In a 2017 television interview, Malay dance pioneer and Cultural Medallion recipient Som Said said:|
+
+|“… kalau you dah istilahnya dah jadi mak andam, you bukan hanya menyiapkan pengantin tu sahaja. Peradaban, the protocol, bila nak salam, bila nak ini [itu], semua sudah harus tahu. Jadi [it] is not that dulu-dulu orang tanya, you nak kahwin eh, Mak andamnya siapa? Oh, straightaway people tahu, oh, ini tatasusila nya bagus. Tapi sekarang tidak. Who is the mak andam? Oh it is about the dressing, it is about the look?”29|
+
+|(Translation: … if you are a *mak andam*, your duties will extend beyond just dolling up the bride. You will have to know the various cultural traditions, protocols and rites. Previously, when people ask which *mak andam* you picked, they would go oh, this *mak andam* has very good mannerisms and adherence to traditions. Whereas nowadays, when people ask who is the *mak andam*, they are comparing how stylish the makeup and outfits are.)|
+
 Traditionally, the groom’s older relatives were roped in to be the groomsmen and expected to partake in the exchange of *pantuns*. These days however, the *pengapit* role is assumed by friends. 
 It has also become customary in Malay weddings for the groom and his groomsmen to perform a series of tasks, such as singing and dancing, before he is allowed to meet his bride, possibly borrowed from a similar Chinese tradition. 
 
