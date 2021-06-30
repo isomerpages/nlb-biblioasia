@@ -159,7 +159,7 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^22]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 66–76.
 
-[^23]: Politics to be banned in Nanyang University. (1953, May 7). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.
+[^23]: [Politics to be banned in Nanyang University](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19530507-1.2.30). (1953, May 7). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.
 
 [^24]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 92–93, 104–105, 107.
 
