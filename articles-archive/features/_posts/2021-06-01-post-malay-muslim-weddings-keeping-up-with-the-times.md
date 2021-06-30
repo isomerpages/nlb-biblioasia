@@ -192,7 +192,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^7]: Ruzita Zaki. (Interviewer). (1995, February 7). *[Oral history interview with Mohd Amin bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad)* [MP3 recording no. 001597/44/7]. Retrieved from National Archives of Singapore website.
 
-[^8]: Azahar Mohamed. (1999, May 23). Wang hantaran tinggi? Itu cabaran lelaki pertingkat diri. *Berita Minggu*, p. 8; Perihal mas kahwin dan wang hantaran. (2015, August 11). *Berita Harian*, p. 7. Retrieved from NewspaperSG.
+[^8]: Azahar Mohamed. (1999, May 23). [Wang hantaran tinggi? Itu cabaran lelaki pertingkat diri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19990523-1.2.17.3). *Berita Minggu*, p. 8; Perihal mas kahwin dan wang hantaran. (2015, August 11). *Berita Harian*, p. 7. Retrieved from NewspaperSG.
 
 [^9]: Muhammad Ariff Ahmad, 2007, pp. 278–279; Zaharian Osman. (2009, April 11). Barang hantaran kian canggih. *Berita Harian*, p. 22; Farid Hamzah. (2010, January 4). Dariku untukmu, sayang: Hantaran. *Berita Harian*, p. 8; Zawiyah Salleh. (2009, March 18). Gubah hantaran pengantin. *Berita Harian*, p. 9. Retrieved from NewspaperSG. 
 
