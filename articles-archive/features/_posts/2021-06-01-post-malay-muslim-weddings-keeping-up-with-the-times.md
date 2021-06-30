@@ -178,29 +178,29 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 
 #### NOTES
-[^1]: A. Kadir Pandi. (1986, March 26). Kain songket lambang budaya kita. The Straits Times, p. 5; Zakaria Buang. (1982, November 29). Pakaian pengantin tradisional. Berita Minggu, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. Wacana Seni Journal of Arts Discourse, 15, 63–94. Retrieved from ResearchGate website.
+[^1]: A. Kadir Pandi. (1986, March 26). Kain songket lambang budaya kita. *The Straits Times*, p. 5; Zakaria Buang. (1982, November 29). Pakaian pengantin tradisional. *Berita Minggu*, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. *Wacana Seni Journal of Arts Discourse, 15*, 63–94. Retrieved from ResearchGate website.
 
-[^2]: Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. Sekata. 1 (11), 1–8. Retrieved from National Institute of Education website.
+[^2]: Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. *Sekata*. 1 (11), 1–8. Retrieved from National Institute of Education website.
 
-[^3]: Amran Kasimin. (2002). Perkahwinan Melayu (pp. 84–85). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay R q392.509595 AMR-[CUS]); Hidayah Amin. (2014). Malay weddings don’t cost $50 and other facts about Malay culture (p. 97). Singapore: Helang Books. (Call no.: RSING 305.8992805957 HID)
+[^3]: Amran Kasimin. (2002). *Perkahwinan Melayu* (pp. 84–85). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay R q392.509595 AMR-[CUS]); Hidayah Amin. (2014). *Malay weddings don’t cost $50 and other facts about Malay culture* (p. 97). Singapore: Helang Books. (Call no.: RSING 305.8992805957 HID)
 
 [^4]: Hidayah Amin, 2014, pp. 95–97.
 
-[^5]: Muhammad Ariff Ahmad. (2007). Nilam: Nilai Melayu menurut adat (pp. 278–279). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH); Hidayah Amin, 2014, pp. 95–97.
+[^5]: Muhammad Ariff Ahmad. (2007). *Nilam: Nilai Melayu menurut adat* (pp. 278–279). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH); Hidayah Amin, 2014, pp. 95–97.
 
-[^6]: Registry of Muslim Marriages. (2019, May 10). Maskahwin & marriage expenses. Retrieved from Registry of Muslim Marriages website.
+[^6]: Registry of Muslim Marriages. (2019, May 10). *Maskahwin & marriage expenses*. Retrieved from Registry of Muslim Marriages website.
 
-[^7]: Ruzita Zaki. (Interviewer). (1995, February 7). Oral history interview with Mohd Amin bin Abdul Wahab (Haji) [MP3 recording no. 001597/44/7]. Retrieved from National Archives of Singapore website.
+[^7]: Ruzita Zaki. (Interviewer). (1995, February 7). *Oral history interview with Mohd Amin bin Abdul Wahab (Haji)* [MP3 recording no. 001597/44/7]. Retrieved from National Archives of Singapore website.
 
-[^8]: Azahar Mohamed. (1999, May 23). Wang hantaran tinggi? Itu cabaran lelaki pertingkat diri. Berita Minggu, p. 8; Perihal mas kahwin dan wang hantaran. (2015, August 11). Berita Harian, p. 7. Retrieved from NewspaperSG.
+[^8]: Azahar Mohamed. (1999, May 23). Wang hantaran tinggi? Itu cabaran lelaki pertingkat diri. *Berita Minggu*, p. 8; Perihal mas kahwin dan wang hantaran. (2015, August 11). *Berita Harian*, p. 7. Retrieved from NewspaperSG.
 
-[^9]: Muhammad Ariff Ahmad, 2007, pp. 278–279; Zaharian Osman. (2009, April 11). Barang hantaran kian canggih. Berita Harian, p. 22; Farid Hamzah. (2010, January 4). Dariku untukmu, sayang: Hantaran. Berita Harian, p. 8; Zawiyah Salleh. (2009, March 18). Gubah hantaran pengantin. Berita Harian, p. 9. Retrieved from NewspaperSG. 
+[^9]: Muhammad Ariff Ahmad, 2007, pp. 278–279; Zaharian Osman. (2009, April 11). Barang hantaran kian canggih. *Berita Harian*, p. 22; Farid Hamzah. (2010, January 4). Dariku untukmu, sayang: Hantaran. *Berita Harian*, p. 8; Zawiyah Salleh. (2009, March 18). Gubah hantaran pengantin. *Berita Harian*, p. 9. Retrieved from NewspaperSG. 
 
 [^10]: Hidayah Amin, 2014, pp. 97–98.
 
-[^11]: Muhammad Ariff Ahmad, 2007, pp. 274–275; Hadijah Rahmat. (2005). Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
+[^11]: Muhammad Ariff Ahmad, 2007, pp. 274–275; Hadijah Rahmat. (2005). *Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura* (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
 
-[^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). Oral history interview with Abu Talib bin Ally [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
+[^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). *Oral history interview with Abu Talib bin Ally* [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
 
 [^13]: Mohd Yussoff Ahmad. (Interviewer). (1987, March 12). *Oral history interview with Aliman bin Hassan (Haji)* [MP3 recording no. 000797/11/2]. Retrieved from National Archives of Singapore website. 
 
