@@ -189,4 +189,4 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^37]: Lu, 2014, pp. i–ii, 2–3; Choo, 20 Oct 2019; 刘全棨 [Liu, Q.Q.]. (2013).《新院图书馆命名为陈六使》 [Library at New Era College named after Tan Lark Sye]. Retrieved from KNN website; Tan Lark Sye’s name still sells. (1988, April 24). The Straits Times, p. 42. Retrieved from NewspaperSG.
 
-[^38]: See [Hong & Huang](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12987231), 2008, pp.  90–91, 170–173, 176 for the historiography and rehabilitation of other personalities relating to Nanyang University such as Chinese calligrapher and poet Pan Shou in the 1980s.
+[^38]: Toh, E. (2017, September 21). Remembering Tan Lark Sye. The Straits Times, p. 28. Retrieved from NewspaperSG.
