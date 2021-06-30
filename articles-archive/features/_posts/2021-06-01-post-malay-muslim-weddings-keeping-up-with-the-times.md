@@ -226,17 +226,17 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^24]: Mediacorp News Group. (2017, October 18). *DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu*. Retrieved from Berita Mediacorp website.
 
-[^25]: Muhammad Ariff Ahmad, 2007, pp. 271, 275–276.
+[^25]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 271, 275–276.
 
-[^26]: Muhammad Ariff Ahmad, 2007, p. 275.
+[^26]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 275.
 
-[^27]: Muhammad Ariff Ahmad, 1993, p. 40.
+[^27]: [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, p. 40.
 
-[^28]: Muhammad Ariff Ahmad, 1993, p. 40.
+[^28]: [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, p. 40.
 
 [^29]: Adat perkahwinan banyak berubah. (1983, September 1). The Straits Times, p. 4; Dua ‘pencurian’ dalam berinai curi. (1988, March 24). The Straits Times, p. 5. Retrieved from NewspaperSG.
 
-[^30]: Muhammad Ariff Ahmad, 2007, p. 248; Berinai di pelamin: Adat perkahwinan orang Melayu. (2006, March 5). Berita Harian, p. 11. Retrieved from NewspaperSG.
+[^30]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 248; Berinai di pelamin: Adat perkahwinan orang Melayu. (2006, March 5). Berita Harian, p. 11. Retrieved from NewspaperSG.
 
 [^31]: The *pulut pahar* is a floral bouquet comprising a base of *pulut kuning* (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the *pulut kuning* is absent, the arrangement is known as *bunga telur*. The *pulut pahar*, which is distributed to those attending the *tepung tawar* ceremony, is not to be confused with the *bunga telur* given to all guests at the wedding reception. In the past, half of the *bunga pahar* or *bunga telur* would be given to the *mak andam* (makeup artist-cum-lady-in-waiting). See Muhammad Ariff Ahmad, 2007, pp. 275–276.
 
