@@ -175,4 +175,4 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^30]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 177, 180–182, 187–188; [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, p. 28; [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201266968), 2015, p. 332; [New chapter as govt accepts degrees](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680526-1.2.13.2). (1968, May 26). *The Sunday Times*, p. 2. Retrieved from NewspaperSG.
 
-[^31]: [Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203121840), 2015, p. 332.
+[^31]: Tan: Vote for Nanyang grads. (1963, September 15). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
