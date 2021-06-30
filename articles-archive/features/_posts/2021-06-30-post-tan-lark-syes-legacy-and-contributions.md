@@ -89,7 +89,7 @@ Things came to a head during the 1963 Legislative Assembly general election. The
 
 At a press conference, Tan said he was delighted that so many Nanyang graduates were pursuing the university’s policy of rendering service to their country and appealed to the electorate to “vote for Nanyang graduate candidates, irrespective of the political parties to which they belong”.[^31]
 
-This call, however, was viewed by the PAP as Tan openly showing support for the Barisan Sosialis, a political party formed by ex-PAP members who were regarded as pro-communists. The PAP believed that Tan had been used by the Communists. 
+This call, however, was viewed by the PAP as Tan openly showing support for the Barisan Sosialis, a political party formed by ex-PAP members who were regarded as pro-communists. The PAP believed that Tan had been used by the Communists.[^32]
 
 When the PAP won the 1963 election, the new government immediately announced that they were initiating proceedings to remove Tan’s Singapore citizenship. The statement read: “He had openly and blatantly intervened in these elections by signing statements drafted by these communists standing as Barisan Sosialis candidates denouncing the government, using as cover his so-called protection of Chinese language, culture and education.”  Under political pressure, Tan resigned from Nantah’s Lay Council on 25 September 1963. 
 
