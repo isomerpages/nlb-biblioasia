@@ -22,3 +22,6 @@ In 1916, the 19-year-old Tan left China for Southeast Asia and found employment 
 Thanks to Tan’s business acumen, Aik Hoe became one of the leading players in the rubber trade and by 1938, the company had business interests throughout Southeast Asia as well as agencies in New York and London. In October 1938, Aik Hoe was reorganised as a private limited company with a registered and paid-up capital of $1 million.[^5]
 
 Apart from rubber, Tan was also involved in the finance, paper and cement industries. He set up Asia Insurance Company and Overseas Union Bank together with Lien Ying Chow, and served as a director of Oversea-Chinese Bank and chairman of Chiyu Banking Corporation Ltd in Hong Kong. Two of his companies, Lima Paper Products Co. Ltd and Tasek Cement Co. Ltd., were listed on the stock exchanges of Singapore and Malaysia.[^6]
+
+##### Building a Business Empire
+Although Tan was one of the key figures behind the founding of Nantah, he himself did not have much formal education. Tan was born in 1897 in the town of Jimei, part of Tong’an county, in China’s Fujian province. The sixth of seven brothers, Tan was orphaned as a child. He spent a few years at Jimei School, which had been set up by Tan Kah Kee, a prominent businessman and community leader in Singapore, who had also hailed from the same town.
