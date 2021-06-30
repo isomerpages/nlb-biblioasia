@@ -186,7 +186,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^4]: [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, pp. 95–97.
 
-[^5]: Muhammad Ariff Ahmad. (2007). *Nilam: Nilai Melayu menurut adat* (pp. 278–279). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH); Hidayah Amin, 2014, pp. 95–97.
+[^5]: Muhammad Ariff Ahmad. (2007). *[Nilam: Nilai Melayu menurut adat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522)* (pp. 278–279). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH); Hidayah Amin, 2014, pp. 95–97.
 
 [^6]: Registry of Muslim Marriages. (2019, May 10). *Maskahwin & marriage expenses*. Retrieved from Registry of Muslim Marriages website.
 
