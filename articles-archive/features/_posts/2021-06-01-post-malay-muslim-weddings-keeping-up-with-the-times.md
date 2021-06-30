@@ -190,7 +190,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^6]: Registry of Muslim Marriages. (2019, May 10). *Maskahwin & marriage expenses*. Retrieved from Registry of Muslim Marriages website.
 
-[^7]: Ruzita Zaki. (Interviewer). (1995, February 7). *Oral history interview with Mohd Amin bin Abdul Wahab (Haji)* [MP3 recording no. 001597/44/7]. Retrieved from National Archives of Singapore website.
+[^7]: Ruzita Zaki. (Interviewer). (1995, February 7). *[Oral history interview with Mohd Amin bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad)* [MP3 recording no. 001597/44/7]. Retrieved from National Archives of Singapore website.
 
 [^8]: Azahar Mohamed. (1999, May 23). Wang hantaran tinggi? Itu cabaran lelaki pertingkat diri. *Berita Minggu*, p. 8; Perihal mas kahwin dan wang hantaran. (2015, August 11). *Berita Harian*, p. 7. Retrieved from NewspaperSG.
 
