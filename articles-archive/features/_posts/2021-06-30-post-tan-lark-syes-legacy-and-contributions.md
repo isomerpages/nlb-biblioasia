@@ -144,4 +144,4 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^15]: Ong, Lim & Ng, 2015, pp. 24–25, 55–56, 147, 150.
 
-[^16]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 27, 60–61. For more details, see chapter six of Li (2018).
+[^16]: Ong, Lim & Ng, 2015, pp. 25, 67–68, 70–71; Li, 2012, p. 78. 
