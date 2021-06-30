@@ -95,5 +95,5 @@ When the PAP won the 1963 election, the new government immediately announced tha
 
 In February 1965, the university formed the Curriculum Review Committee, headed by Professor Wang Gungwu of the University of Malaya in Kuala Lumpur, to review the curriculum and make changes. Among the recommendations in the report, which was released on 11 September 1965, were proposals to enhance bilingualism and improve the quality of teaching staff. Several student protests followed soon after, but these were quickly nipped in the bud.[^34]
 
-##### The Entanglement of Education and Politics
+##### In Memory of Tan Lark Sye[^35]
 The university council clashed with the government over a number
