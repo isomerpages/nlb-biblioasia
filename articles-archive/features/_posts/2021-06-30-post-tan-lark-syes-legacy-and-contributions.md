@@ -49,13 +49,13 @@ Plans for a Chinese university in Singapore were stepped up. A committee made up
 
 Setting up a new university would require money, and Tan issued a call for donations, noting that education was investment in the future:
 
-“When the tide comes in, we should harness it to irrigate the fields, and then the field would produce good yield. If we do nothing… this swell of wealth is meaningless to us. Within moments, the tide will recede, as will our wealth. Therefore, if you know that your children are good learners, would you not want to contribute to nurture their talents? If you are wealthy and understand that money comes and goes like the tide, would you not want to put it to good use before it is too late?” 
+“When the tide comes in, we should harness it to irrigate the fields, and then the field would produce good yield. If we do nothing… this swell of wealth is meaningless to us. Within moments, the tide will recede, as will our wealth. Therefore, if you know that your children are good learners, would you not want to contribute to nurture their talents? If you are wealthy and understand that money comes and goes like the tide, would you not want to put it to good use before it is too late?”[^17]
 
 Tan himself announced that he would personally donate $5 million while the Hokkien Huay Kuan, which he chaired, gave 500 acres of land in Jurong for the university campus. 
 
-The idea of having a local Chinese university fired the enthusiasm of the Chinese community here and the subsequent fundraising effort became a massive campaign with people from all walks of life rallying to the call. It was a matter of great pride to the Chinese community to have a university and the Chinese in Malaya wanted to be part of the effort. 
+The idea of having a local Chinese university fired the enthusiasm of the Chinese community here and the subsequent fundraising effort became a massive campaign with people from all walks of life rallying to the call. It was a matter of great pride to the Chinese community to have a university and the Chinese in Malaya wanted to be part of the effort.[^18]
 
-However, not everyone was in favour of the idea. The colonial government was initially unsupportive as they were concerned about communist elements infiltrating Singapore and Malaya in the 1950s, and were worried that the university would become a breeding ground for communism. They were also concerned about the university’s standards and whether there was enough money to support a second university in Singapore. 
+However, not everyone was in favour of the idea. The colonial government was initially unsupportive as they were concerned about communist elements infiltrating Singapore and Malaya in the 1950s, and were worried that the university would become a breeding ground for communism. They were also concerned about the university’s standards and whether there was enough money to support a second university in Singapore.[^19] 
 
 Some members of the Malay community were fearful that the establishment of a Chinese university, with its emphasis on the Chinese language, would disrupt racial harmony. They were also worried that the university would only admit ethnic Chinese students. 
 
