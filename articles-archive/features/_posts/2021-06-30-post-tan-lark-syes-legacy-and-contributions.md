@@ -177,4 +177,6 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^31]: [Tan: Vote for Nanyang grads](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630915-1.2.23). (1963, September 15). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^32]: [Tan: Vote for Nanyang grads](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630915-1.2.23). (1963, September 15). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^32]: 李总理在群众大会演说政府要给南大资助但共产党从中作梗认为陈六使谈话不聪明 [In his rally speech, Prime Minister Lee Kuan Yew said the government wants to give subsidies to Nantah but the coomunists were placing obtacles in the way and what Tan Lark Sye said was unwise]. (1963, September 19). 南洋商报 [Nanyang Siang Pau], p. 5. Retrieved from NewspaperSG.
+
+[^33]: Citizenship move against magnate. (1963, September 23). The Straits Times, p. 1. Retrieved from NewspaperSG.
