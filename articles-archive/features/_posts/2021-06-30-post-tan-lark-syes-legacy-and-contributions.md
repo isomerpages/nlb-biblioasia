@@ -146,7 +146,7 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^16]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 25, 67–68, 70–71; [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, p. 78.
 
-[^17]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 24–25, 55–56, 147, 150.
+[^17]: Ong, Lim & Ng, 2015, pp. 182–183.
 
 [^18]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 24–25, 55–56, 147, 150.
 
