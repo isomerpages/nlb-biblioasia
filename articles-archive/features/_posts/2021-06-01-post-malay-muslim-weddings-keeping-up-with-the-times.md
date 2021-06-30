@@ -242,6 +242,6 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^32]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 276–277; Amran Kasimin. (2002). *[Perkahwinan Melayu](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11713807)* (pp. 49–52). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: R q392.509595 AMR-[CUS])
 
-[^33]: Advisory on kuda kepang performances. (2019, July 25). *Office of the Mufti*. Retrieved from Majlis Ugama Islam Singapura website; ‘Kuda kepang’ against Islam: Muis. (1979, June 14). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^33]: Advisory on kuda kepang performances. (2019, July 25). *Office of the Mufti*. Retrieved from Majlis Ugama Islam Singapura website; [‘Kuda kepang’ against Islam: Muis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790614-1.2.82). (1979, June 14). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
 [^34]: Fatimah Abdullah. (2009). Dari halaman rumah ke Dewan Merak Kayangan: Upacara perkahwinan Melayu bandar. *SARI: Jurnal Alam dan Tamadun Melayu, 27*, 97–107. Retrieved from UKM Journal Article Repository website; Mohd Khairuddin Mohd Sallehuddin & Mohamad Fauzi Sukimi. (2016). Impian dan realiti majlis perkahwinan orang Melayu masakini: Kajian kes di pinggir bandar Kuala Lumpur. *Geografia: Malaysian Journal of Society and Space, 12* (7), 1–12. Retrieved from UKM Journal Article Repository website.
