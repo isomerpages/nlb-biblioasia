@@ -178,7 +178,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 
 #### NOTES
-[^1]: A. Kadir Pandi. (1986, March 26). Kain songket lambang budaya kita. *The Straits Times*, p. 5; Zakaria Buang. (1982, November 29). Pakaian pengantin tradisional. *Berita Minggu*, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. *Wacana Seni Journal of Arts Discourse, 15*, 63–94. Retrieved from ResearchGate website.
+[^1]: A. Kadir Pandi. (1986, March 26). [Kain songket lambang budaya kita](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860326-1.2.62.8.2). *The Straits Times*, p. 5; Zakaria Buang. (1982, November 29). Pakaian pengantin tradisional. *Berita Minggu*, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. *Wacana Seni Journal of Arts Discourse, 15*, 63–94. Retrieved from ResearchGate website.
 
 [^2]: Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. *Sekata*. 1 (11), 1–8. Retrieved from National Institute of Education website.
 
