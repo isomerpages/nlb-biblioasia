@@ -157,11 +157,11 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^21]: [Chinese varsity ‘certain’. Multi-millionaire backed by 276 associations](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530213-1.2.97). (1953, February 13). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^22]: Li, 2012, pp. 66–76.
+[^22]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 66–76.
 
 [^23]: Politics to be banned in Nanyang University. (1953, May 7). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.
 
-[^24]: Li, 2012, pp. 92–93, 104–105, 107.
+[^24]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 92–93, 104–105, 107.
 
-[^25]: Li, 2012, pp. 113, 122–127; Ong, Lim & Ng, 2015, 
+[^25]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 113, 122–127; Ong, Lim & Ng, 2015, 
 pp. 175–178.
