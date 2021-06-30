@@ -59,8 +59,8 @@ However, not everyone was in favour of the idea. The colonial government was ini
 
 Some members of the Malay community were fearful that the establishment of a Chinese university, with its emphasis on the Chinese language, would disrupt racial harmony. They were also worried that the university would only admit ethnic Chinese students.[^20]
 
-To his detractors, Tan Lark Sye argued that the setting up of a university would benefit the country. “Think how important a university is to Malaya. Think of the thousands of students who could not have higher studies and are therefore forced to take lower appointments. I am not a university graduate but I know how important it is to have higher studies,” he declared.  
+To his detractors, Tan Lark Sye argued that the setting up of a university would benefit the country. “Think how important a university is to Malaya. Think of the thousands of students who could not have higher studies and are therefore forced to take lower appointments. I am not a university graduate but I know how important it is to have higher studies,” he declared.[^21]
 
-Businessman and prominent community leader Tan Cheng Lock helped to allay the concerns of both the colonial government and the Malay community. Finally, on 5 May 1953, Nanyang University was registered, albeit as a private limited company and not as a university to avoid complications.  
+Businessman and prominent community leader Tan Cheng Lock helped to allay the concerns of both the colonial government and the Malay community. Finally, on 5 May 1953, Nanyang University was registered, albeit as a private limited company and not as a university to avoid complications.[^22]
 
-The next day, Tan Lark Sye announced that politics would be banned from the university. “We will not tolerate professors, lecturers, students or even the Chancellor if any of them should be found participating in political activities inside the university,” he said.
+The next day, Tan Lark Sye announced that politics would be banned from the university. “We will not tolerate professors, lecturers, students or even the Chancellor if any of them should be found participating in political activities inside the university,” he said.[^23]
