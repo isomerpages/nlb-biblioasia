@@ -167,10 +167,10 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^26]: Ng, V. (1959, July 25). Prescott report is ‘unjust and cruel’. *The Straits Times*, p. 1. Retrieved from NewspaperSG; [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 139–140, 142–146.
 
-[^27]: Ong, Lim & Ng, 2015, pp. 28, 74; [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 152–154.
+[^27]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 28, 74; [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 152–154.
 
 [^28]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, p. 180.
 
 [^29]: [Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203121840), 2015, p. 332.
 
-[^30]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 177, 180–182, 187–188; Ong, Lim & Ng, 2015, p. 28; [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201266968), 2015, p. 332; New chapter as govt accepts degrees. (1968, May 26). *The Sunday Times*, p. 2. Retrieved from NewspaperSG.
+[^30]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 177, 180–182, 187–188; [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, p. 28; [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201266968), 2015, p. 332; New chapter as govt accepts degrees. (1968, May 26). *The Sunday Times*, p. 2. Retrieved from NewspaperSG.
