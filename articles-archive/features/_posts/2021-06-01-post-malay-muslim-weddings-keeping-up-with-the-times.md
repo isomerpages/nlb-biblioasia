@@ -101,6 +101,14 @@ To reach the bride, the groom must first overcome various *hadang* (roadblocks o
 
 The final *hadang* takes place at the bridal dais itself, this time between the groom and the *mak andam*. He pays her the *duit kipas* (fan money); once satisfied, she reveals the bride and the groom finally takes his seat on the dais beside the bride.[^20]
 
+|**BRIDAL OUTFITS AND THE MAK ANDAM**|
+
+|The world of fashion is one of constant change and wedding outfits are no exception. Between the 1950s and 1990s, popular outfit choices for the bersanding ceremony were the traditional baju kurung or kebaya for women and the baju Melayu for men, made from fabrics such as traditional songket1,  brocade or velvet. These outfits were intricately embroidered and embellished with sequins and beadings. An elaborate sanggul (metal headdress) for the bride and a tanjak (headgear) and keris (dagger) for the groom completed the attire.2|
+
+|Although many brides today still opt for the classic songket fabric for their attire, the baju kurung or kebaya styles in which they are sewn into have been given a more contemporary spin to keep pace with current sartorial trends. Some brides also choose to commission bespoke one-of-a-kind songket outfits instead of renting from bridal houses. It is also common for brides to wear outfits inspired by the Western wedding gowns using fabrics such as chiffon, satin and lace, while grooms don formal Western suits.3| 
+
+|Another change has been to the role of the mak andam, who has one of the more important jobs during a Malay wedding. In addition to doing the bridal makeup, the mak andam is the de facto protocol guide of a traditional Malay wedding. On the big day, it is the job of the mak andam to guide the bride and groom during the many ceremonies.4|
+
 Traditionally, the groom’s older relatives were roped in to be the groomsmen and expected to partake in the exchange of *pantuns*. These days however, the *pengapit* role is assumed by friends. 
 It has also become customary in Malay weddings for the groom and his groomsmen to perform a series of tasks, such as singing and dancing, before he is allowed to meet his bride, possibly borrowed from a similar Chinese tradition. 
 
