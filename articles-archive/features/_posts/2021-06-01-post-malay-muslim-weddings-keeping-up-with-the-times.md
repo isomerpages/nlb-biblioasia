@@ -196,7 +196,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^9]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 278–279; Zaharian Osman. (2009, April 11). [Barang hantaran kian canggih](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20090411-1.2.27.7). *Berita Harian*, p. 22; Farid Hamzah. (2010, January 4). [Dariku untukmu, sayang: Hantaran](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20100104-1.2.17.1). *Berita Harian*, p. 8; Zawiyah Salleh. (2009, March 18). [Gubah hantaran pengantin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20090318-1.2.18.1). *Berita Harian*, p. 9. Retrieved from NewspaperSG. 
 
-[^10]: Hidayah Amin, 2014, pp. 97–98.
+[^10]: [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, pp. 97–98.
 
 [^11]: Muhammad Ariff Ahmad, 2007, pp. 274–275; Hadijah Rahmat. (2005). *Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura* (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
 
