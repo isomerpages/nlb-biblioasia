@@ -216,7 +216,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^19]: *Silat pengantin* is a ceremonial Malay martial arts performance to honour and give strength to the groom and to welcome the newlyweds. Compared to *pencak silat* (Malay martial arts), *silat pengantin* uses gentler hand movements, which are still executed in firm and strong strokes to convey respect and honour to the newlyweds. The *silat pengantin* is performed in rhythm with accompanying music from the *kompang* troupe. The performance ends with a handshake between the groom and the *silat* performer. See Pendekar Temasek. (2019). *[Silat pengantin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203939195)* (pp. 24–40). Singapore: Pustaka Nasional Pte Ltd. (Call no.: Malay RSING 796.81509595 PEN); *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6; Koh, J., & Ho, S. (2009). *[Culture and customs of Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13221966)* (p. 119). Santa Barbara, California: Greenwood Press. (Call no.: YP R305.80095957 KOH)
 
-[^20]: *The Straits Times*, 7 Apr 1988, p. 6; Muhammad Ariff Ahmad. (1993). *Bicara tentang adat dan tradisi* (pp. 44–46). Singapore: Pustaka Nasional. (Call no.: Malay RSING 306.08999205957 MUH)
+[^20]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6; Muhammad Ariff Ahmad. (1993). *Bicara tentang adat dan tradisi* (pp. 44–46). Singapore: Pustaka Nasional. (Call no.: Malay RSING 306.08999205957 MUH)
 
 [^21]: Muhammad Ariff Ahmad, 2007, p. 282.
 
