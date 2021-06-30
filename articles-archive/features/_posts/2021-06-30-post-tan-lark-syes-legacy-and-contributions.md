@@ -4,3 +4,4 @@ date: 2021-06-30
 permalink: /articles-archive/features/tan-lark-sye
 layout: post
 ---
+#### **Lee Meiyu** looks back at the life of rubber tycoon Tan Lark Sye, long-time chairman of Hokkien Huay Kuan and the founder of the former Nanyang University in Singapore.
