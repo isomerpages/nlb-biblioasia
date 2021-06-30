@@ -182,7 +182,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^2]: Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. *Sekata*. 1 (11), 1–8. Retrieved from National Institute of Education website.
 
-[^3]: Amran Kasimin. (2002). *[Perkahwinan Melayu](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11713807)* (pp. 84–85). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay R q392.509595 AMR-[CUS]); Hidayah Amin. (2014). *Malay weddings don’t cost $50 and other facts about Malay culture* (p. 97). Singapore: Helang Books. (Call no.: RSING 305.8992805957 HID)
+[^3]: Amran Kasimin. (2002). *[Perkahwinan Melayu](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11713807)* (pp. 84–85). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay R q392.509595 AMR-[CUS]); Hidayah Amin. (2014). *[Malay weddings don’t cost $50 and other facts about Malay culture](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931)* (p. 97). Singapore: Helang Books. (Call no.: RSING 305.8992805957 HID)
 
 [^4]: Hidayah Amin, 2014, pp. 95–97.
 
