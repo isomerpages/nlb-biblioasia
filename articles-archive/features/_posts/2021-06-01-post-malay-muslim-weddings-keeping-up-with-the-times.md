@@ -218,9 +218,9 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^20]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6; Muhammad Ariff Ahmad. (1993). *[Bicara tentang adat dan tradisi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070)* (pp. 44–46). Singapore: Pustaka Nasional. (Call no.: Malay RSING 306.08999205957 MUH)
 
-[^21]: Muhammad Ariff Ahmad, 2007, p. 282.
+[^21]: [Muhammad Ariff Ahmad,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522) 2007, p. 282.
 
-[^22]: Muhammad Ariff Ahmad, 2007, p. 282; Muhammad Ariff Ahmad, 1993, pp. 45–46; *The Straits Times*, 7 Apr 1988, p. 6.
+[^22]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 282; Muhammad Ariff Ahmad, 1993, pp. 45–46; *The Straits Times*, 7 Apr 1988, p. 6.
 
 [^23]: Muhammad Ariff Ahmad, 1993, pp. 45–46; Hidayah Amin, 2014, p. 107.
 
