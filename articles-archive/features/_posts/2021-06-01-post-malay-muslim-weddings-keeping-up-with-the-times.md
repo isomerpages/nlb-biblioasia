@@ -202,17 +202,17 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). Oral history interview with Abu Talib bin Ally [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
 
-[^13]: Mohd Yussoff Ahmad. (Interviewer). (1987, March 12). Oral history interview with Aliman bin Hassan (Haji) [MP3 recording no. 000797/11/2]. Retrieved from National Archives of Singapore website. 
+[^13]: Mohd Yussoff Ahmad. (Interviewer). (1987, March 12). *Oral history interview with Aliman bin Hassan (Haji)* [MP3 recording no. 000797/11/2]. Retrieved from National Archives of Singapore website. 
 
-[^14]: Haron Abdul Rahman. (1986, Febraury 12). The big day and its rites. The Straits Times, p. 20; Lebih meriah kalau adakan majlis di tempat sendiri. (1986, March 30). Berita Harian, p. 11. Retrieved from NewspaperSG.
+[^14]: Haron Abdul Rahman. (1986, Febraury 12). The big day and its rites. *The Straits Times*, p. 20; Lebih meriah kalau adakan majlis di tempat sendiri. (1986, March 30). *Berita Harian*, p. 11. Retrieved from NewspaperSG.
 
-[^15]: Spykerman, K. (2012, January 15). My big fat void deck wedding. The Straits Times, p. 2; Shahida Sarhid. (2012, September 30). Kambing barbeku, susyi antara hidangan. Berita Harian, p. 6. Retrieved from NewspaperSG. 
+[^15]: Spykerman, K. (2012, January 15). My big fat void deck wedding. *The Straits Times*, p. 2; Shahida Sarhid. (2012, September 30). Kambing barbeku, susyi antara hidangan. *Berita Harian*, p. 6. Retrieved from NewspaperSG. 
 
-[^16]: Nur ‘Adilah Mahbob. (2013, May 24). Taman jadi laman popular majlis kahwin. Berita Harian, p. 14; Salma Semono. (2007, July 28). Sajian untuk jemputan. Berita Harian, p. 27. Retrieved from NewspaperSG; Norhaiza Hashim & Shahida Sarhid. (2019, October 6). Khidmat semua di ‘bawah satu bumbung’ kian jadi pilihan mempelai. Berita Minggu. Retrieved from Factiva via NLB’s eResources website.
+[^16]: Nur ‘Adilah Mahbob. (2013, May 24). Taman jadi laman popular majlis kahwin. *Berita Harian*, p. 14; Salma Semono. (2007, July 28). Sajian untuk jemputan. *Berita Harian*, p. 27. Retrieved from NewspaperSG; Norhaiza Hashim & Shahida Sarhid. (2019, October 6). Khidmat semua di ‘bawah satu bumbung’ kian jadi pilihan mempelai. *Berita Minggu*. Retrieved from Factiva via NLB’s eResources website.
 
-[^17]: Azman Siraj. (1990, October 24). Khidmat DJ kian popular dalam majlis perkahwinan. Berita Harian, p. 6; Ismail Pantek. (2010, June 14). Semua ‘turun padang’ rewang. Berita Harian, p. 9; Kamali Hudi. (2002, August 17). Lagu pengantin citra warisan. Berita Harian, p. 22. Retrieved from NewspaperSG; Hadijah Rahmat, 2005, p. 244.
+[^17]: Azman Siraj. (1990, October 24). Khidmat DJ kian popular dalam majlis perkahwinan. *Berita Harian*, p. 6; Ismail Pantek. (2010, June 14). Semua ‘turun padang’ rewang. *Berita Harian*, p. 9; Kamali Hudi. (2002, August 17). Lagu pengantin citra warisan. *Berita Harian*, p. 22. Retrieved from NewspaperSG; Hadijah Rahmat, 2005, p. 244.
 
-[^18]: Hadijah Rahmat, 2005, p. 241; Muhammad Ariff Ahmad. (1988, April 7). The grand finale in the Malay wedding. The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^18]: Hadijah Rahmat, 2005, p. 241; Muhammad Ariff Ahmad. (1988, April 7). The grand finale in the Malay wedding. *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^19]: *Silat pengantin* is a ceremonial Malay martial arts performance to honour and give strength to the groom and to welcome the newlyweds. Compared to *pencak silat* (Malay martial arts), *silat pengantin* uses gentler hand movements, which are still executed in firm and strong strokes to convey respect and honour to the newlyweds. The *silat pengantin* is performed in rhythm with accompanying music from the *kompang* troupe. The performance ends with a handshake between the groom and the *silat* performer. See Pendekar Temasek. (2019). *Silat pengantin* (pp. 24–40). Singapore: Pustaka Nasional Pte Ltd. (Call no.: Malay RSING 796.81509595 PEN); *The Straits Times*, 7 Apr 1988, p. 6; Koh, J., & Ho, S. (2009). *Culture and customs of Singapore and Malaysia* (p. 119). Santa Barbara, California: Greenwood Press. (Call no.: YP R305.80095957 KOH)
 
