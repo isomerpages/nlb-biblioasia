@@ -70,7 +70,7 @@ However, Nantah continued to be dogged with problems.  Its first chancellor, Lin
 
 Convincing the government to recognise Nantah’s degrees was also  a concern. On 1 May 1956, Chew Swee Kee, the Education Minister in the Labour Front government, announced that the government would not recognise the university’s degrees as the institution had no right to confer academic degrees. This came as a rude shock as classes had already begun two months earlier.
 
-Tan was furious and there was an exchange of letters with Chew, which were published in the Nanyang Siang Pau Chinese daily in May 1956. The strongly worded correspondence soured the relationship between Tan and the authorities and in 1957, the government informed the British that they wanted Tan’s citizenship to be revoked. Given Tan’s preeminent status in the local Chinese community, the British declined. 
+Tan was furious and there was an exchange of letters with Chew, which were published in the Nanyang Siang Pau Chinese daily in May 1956. The strongly worded correspondence soured the relationship between Tan and the authorities and in 1957, the government informed the British that they wanted Tan’s citizenship to be revoked. Given Tan’s preeminent status in the local Chinese community, the British declined.[^25]
 
 In February 1959, a commission headed by Stanley Lewis Prescott, then Vice-Chancellor of the University of Western Australia, arrived in Singapore to evaluate Nantah’s academic standards. Unfortunately its findings, released in July of that year, did not recommend granting the institution university status, pointing out that its administration, teaching staff, infrastructure and curriculum did not meet the criteria of a modern university.
 
