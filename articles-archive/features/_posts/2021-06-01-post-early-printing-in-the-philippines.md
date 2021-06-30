@@ -17,15 +17,8 @@ table {
 
 #### Continuing with the series on printing in Southeast Asia, **Gracie Lee** explores the early history of printing and printed works in the Philippines.
 
-<div style="background-color: white;">Map of the Philippine Islands  (1924) compiled and published by John Bach, and the cover to the postal directory accompanying the map. The map was lithographed by Carmelo and Bauermann. Gift of Mr Tan Yeok Seong. Collection of the National Library, Singapore (Accession no.: B19475837K).</div>
 
 The spread of printing in Southeast Asia is closely intertwined with European colonisation and the arrival of missionaries in the region from the 16th century onwards. While the time-honoured art of woodblock printing (known also as xylography) had been used in Vietnam as early as the 11th century,[^1] book printing was unknown in the rest of Southeast Asia where oral and manuscript traditions had existed for centuries.[^2] The emergence of a print culture in the Philippines is particularly fascinating as it chronicles the transnational and cross-cultural transfer of printing knowledge among the Europeans, the Chinese and indigenous Filipinos within colonial Filipino society and economy.
-
-
-<div style="background-color: white;">Doctrina Christiana, en Lengua Española y Tagala (1593), widely accepted as the oldest surviving book printed in the Philippines. The woodcut frontispiece of the Spanish-Tagalog version depicts Dominic de Guzmán, the founder of the Dominican Order. Library of Congress, Rare Book and Special Collections Division. Retrieved from Library of Congress website. </div>
-
-
-<div style="background-color: white;">The Chinese version of the Doctrina Christiana titled《辯正教真傳實錄》(Testimony of the True Religion). Written by Dominican friar Juan Cobo and printed in 1593, one of the illustrations in the publication shows a Dominican friar with a book in his hand (presumably the Bible) conversing with a Chinese scholar. Image from the holdings of the Biblioteca Nacional de España. Retrieved from Biblioteca Digital Hispánica website.</div>
 
 ##### Beginnings of Printing in the Philippines
 According to the earliest written accounts of the history of the country, pre-colonial Philippines was a literate society with an indigenous writing system. In Relación de las Islas Filipinas (1604), one of the earliest works about the Philippines and its people, Spanish Jesuit priest and historian Pedro Chirino wrote: “All these islanders are much given to reading and writing and there is hardly a man, and much less a woman, who does not read and write in the letters used in the island of Manila.”[^3] These writings were inscribed on perishable materials such as tree bark, leaves and bamboo tubes.[^4] 
@@ -43,9 +36,6 @@ Cobo’s work contains a mix of treatises on theology, Western cosmography and n
 In this respect, it also bears similarities with another earlier work. Penned in 1583 by another Dominican friar, Fray Luis de Granada, who was a noted theologian, writer and preacher, the Introducción del Símbolo de la Fe (Introduction of the Symbol of Faith) was an attempt to explain the Christian doctrine through natural theology – an argument that evidence of intelligent design in nature points to the existence of a creator God. This approach was probably designed to appeal to learned Chinese readers as shown in the illustration of a Western scholar-priest conversing with a Chinese scholar.[^11] 
 As for the copy in the Vatican Library, its provenance remains uncertain. One view contends that it predates the Doctrina Christiana in the Library of Congress and the National Library of Spain. Unlike most officially approved publications which were dated, this book was not. According to the title page it was printed with licence, but the omission of the year of publication has led some to speculate that the work was printed before the necessary permit could be secured due to the urgent need to evangelise to the Chinese community. 
 This view has been challenged by others who place the publication in the early 1600s based on studies of its linguistic and physical characteristics. Although its history cannot be conclusively determined, the identification of its printer, Keng Yong, throws a spotlight on the role that Chinese printers played in the development of early printing in the Philippines.[^12]
-
-<div style="background-color: white;">Memorial de la Vida Christiana en Lengva China 
-(《 新刊僚氏正教便览》; A Printed Edition of the Guide to the True Faith in God ) was written by Dominican padre Domingo de Nieva. It was printed in 1606 by Chinese Christian printer, Pedro de Vera. The title page is in Spanish and main text is in Chinese. Retrieved from Österreichische Nationalbibliothek website.</div>
 
 ##### Contributions of Early Chinese Printers
 known only by their baptismal names, were two early Chinese Christian printers involved in some of the earliest imprints found in the Philippines. Under the auspices of Francisco Blancas de San José, a Dominican priest, the first typographical press was set up by Juan de Vera in the Chinese settlement of Binondo. 
