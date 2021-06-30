@@ -17,9 +17,6 @@ table {
 
 #### Customs and traditions change over time. **Asrina Tanuri** and **Nadya Suradi** trace how Malay-Muslim weddings in Singapore have evolved since the 1950s.
 
-![image](/images/Vol-17-issue-1/agriculture/coconut.jpg)
-<div style="background-color: white;">In addition, a growing awareness of what constitutes Islamic practice has resulted in certain customs and rituals being abandoned because these have been deemed as non-Islamic.</div>
-
 The insistent rhythms of the handheld *kompang* drum heralding the groom’s arrival, the resplendent bride glowing with happiness and the upbeat music accompanying the feasting throngs: there is nothing quite like a traditional Malay wedding to inject colour and life into the humdrum rhythms of a public housing estate in Singapore. On their wedding day, the newlyweds are treated like royalty and accorded the term *raja sehari* (“King and Queen for a day”).[^1]
 
 As traditional as it appears though, Malay wedding customs in Singapore have changed considerably in the last few decades. These changes are part of a larger phenomenon of Malay customs evolving in response to modernity and current trends. As well-known writer and Malay culture expert Muhammad Ariff Ahmad noted in 1999: 
