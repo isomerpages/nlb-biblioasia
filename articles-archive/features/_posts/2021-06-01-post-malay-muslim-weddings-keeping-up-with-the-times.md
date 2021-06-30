@@ -198,7 +198,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^10]: [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, pp. 97–98.
 
-[^11]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 274–275; Hadijah Rahmat. (2005). *Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura* (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
+[^11]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 274–275; Hadijah Rahmat. (2005). *[Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182)* (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
 
 [^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). *Oral history interview with Abu Talib bin Ally* [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
 
