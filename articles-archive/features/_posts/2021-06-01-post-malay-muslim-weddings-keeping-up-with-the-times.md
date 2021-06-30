@@ -214,17 +214,17 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^18]: Hadijah Rahmat, 2005, p. 241; Muhammad Ariff Ahmad. (1988, April 7). The grand finale in the Malay wedding. The Straits Times, p. 6. Retrieved from NewspaperSG.
 
-[^19]: Silat pengantin is a ceremonial Malay martial arts performance to honour and give strength to the groom and to welcome the newlyweds. Compared to pencak silat (Malay martial arts), silat pengantin uses gentler hand movements, which are still executed in firm and strong strokes to convey respect and honour to the newlyweds. The silat pengantin is performed in rhythm with accompanying music from the kompang troupe. The performance ends with a handshake between the groom and the silat performer. See Pendekar Temasek. (2019). Silat pengantin (pp. 24–40). Singapore: Pustaka Nasional Pte Ltd. (Call no.: Malay RSING 796.81509595 PEN); The Straits Times, 7 Apr 1988, p. 6; Koh, J., & Ho, S. (2009). Culture and customs of Singapore and Malaysia (p. 119). Santa Barbara, California: Greenwood Press. (Call no.: YP R305.80095957 KOH)
+[^19]: *Silat pengantin* is a ceremonial Malay martial arts performance to honour and give strength to the groom and to welcome the newlyweds. Compared to *pencak silat* (Malay martial arts), *silat pengantin* uses gentler hand movements, which are still executed in firm and strong strokes to convey respect and honour to the newlyweds. The *silat pengantin* is performed in rhythm with accompanying music from the *kompang* troupe. The performance ends with a handshake between the groom and the *silat* performer. See Pendekar Temasek. (2019). *Silat pengantin* (pp. 24–40). Singapore: Pustaka Nasional Pte Ltd. (Call no.: Malay RSING 796.81509595 PEN); *The Straits Times*, 7 Apr 1988, p. 6; Koh, J., & Ho, S. (2009). *Culture and customs of Singapore and Malaysia* (p. 119). Santa Barbara, California: Greenwood Press. (Call no.: YP R305.80095957 KOH)
 
-[^20]: The Straits Times, 7 Apr 1988, p. 6; Muhammad Ariff Ahmad. (1993). Bicara tentang adat dan tradisi (pp. 44–46). Singapore: Pustaka Nasional. (Call no.: Malay RSING 306.08999205957 MUH)
+[^20]: *The Straits Times*, 7 Apr 1988, p. 6; Muhammad Ariff Ahmad. (1993). *Bicara tentang adat dan tradisi* (pp. 44–46). Singapore: Pustaka Nasional. (Call no.: Malay RSING 306.08999205957 MUH)
 
 [^21]: Muhammad Ariff Ahmad, 2007, p. 282.
 
-[^22]: Muhammad Ariff Ahmad, 2007, p. 282; Muhammad Ariff Ahmad, 1993, pp. 45–46; The Straits Times, 7 Apr 1988, p. 6.
+[^22]: Muhammad Ariff Ahmad, 2007, p. 282; Muhammad Ariff Ahmad, 1993, pp. 45–46; *The Straits Times*, 7 Apr 1988, p. 6.
 
 [^23]: Muhammad Ariff Ahmad, 1993, pp. 45–46; Hidayah Amin, 2014, p. 107.
 
-[^24]: Mediacorp News Group. (2017, October 18). DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu. Retrieved from Berita Mediacorp website.
+[^24]: Mediacorp News Group. (2017, October 18). *DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu*. Retrieved from Berita Mediacorp website.
 
 [^25]: Muhammad Ariff Ahmad, 2007, pp. 271, 275–276.
 
@@ -238,10 +238,10 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^30]: Muhammad Ariff Ahmad, 2007, p. 248; Berinai di pelamin: Adat perkahwinan orang Melayu. (2006, March 5). Berita Harian, p. 11. Retrieved from NewspaperSG.
 
-[^31]: The pulut pahar is a floral bouquet comprising a base of pulut kuning (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the pulut kuning is absent, the arrangement is known as bunga telur. The pulut pahar, which is distributed to those attending the tepung tawar ceremony, is not to be confused with the bunga telur given to all guests at the wedding reception. In the past, half of the bunga pahar or bunga telur would be given to the mak andam (makeup artist-cum-lady-in-waiting). See Muhammad Ariff Ahmad, 2007, pp. 275–276.
+[^31]: The *pulut pahar* is a floral bouquet comprising a base of *pulut kuning* (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the *pulut kuning* is absent, the arrangement is known as *bunga telur*. The *pulut pahar*, which is distributed to those attending the *tepung tawar* ceremony, is not to be confused with the *bunga telur* given to all guests at the wedding reception. In the past, half of the *bunga pahar* or *bunga telur* would be given to the *mak andam* (makeup artist-cum-lady-in-waiting). See Muhammad Ariff Ahmad, 2007, pp. 275–276.
 
-[^32]: Muhammad Ariff Ahmad, 2007, pp. 276–277; Amran Kasimin. (2002). Perkahwinan Melayu (pp. 49–52). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: R q392.509595 AMR-[CUS])
+[^32]: Muhammad Ariff Ahmad, 2007, pp. 276–277; Amran Kasimin. (2002). *Perkahwinan Melayu* (pp. 49–52). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: R q392.509595 AMR-[CUS])
 
-[^33]: Advisory on kuda kepang performances. (2019, July 25). Office of the Mufti. Retrieved from Majlis Ugama Islam Singapura website; ‘Kuda kepang’ against Islam: Muis. (1979, June 14). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^33]: Advisory on kuda kepang performances. (2019, July 25). *Office of the Mufti*. Retrieved from Majlis Ugama Islam Singapura website; ‘Kuda kepang’ against Islam: Muis. (1979, June 14). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
 [^34]: Fatimah Abdullah. (2009). Dari halaman rumah ke Dewan Merak Kayangan: Upacara perkahwinan Melayu bandar. *SARI: Jurnal Alam dan Tamadun Melayu, 27*, 97–107. Retrieved from UKM Journal Article Repository website; Mohd Khairuddin Mohd Sallehuddin & Mohamad Fauzi Sukimi. (2016). Impian dan realiti majlis perkahwinan orang Melayu masakini: Kajian kes di pinggir bandar Kuala Lumpur. *Geografia: Malaysian Journal of Society and Space, 12* (7), 1–12. Retrieved from UKM Journal Article Repository website.
