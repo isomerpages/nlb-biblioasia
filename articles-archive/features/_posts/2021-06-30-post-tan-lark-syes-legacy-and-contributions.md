@@ -127,4 +127,6 @@ Although it has been close to 50 years since his death, Tan is still fondly reme
 [^7]: To read more about Tan’s involvement in China’s affairs, refer to pp. 79–116 of 陈少斌 [Chen, S.B.]. (2003). 
 《[循履嘉庚业迹：集美乡贤陈文确陈六使家族传略](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200184853)》 [*Following in the footsteps of Kah Kee: Family biography of Chen Wenque and Chen Liushi, eminent personalities of Jimei*]. 厦门市: 厦门市集美区归国华侨联合会，厦门市集美陈嘉庚研究会. (Call no.: Chinese RSING 338.040922 XLJ)
 
-[^8]: 卢燕玲 [Lu, Y.L.] (编辑). (2014).《[华语语系的人文视野: 新加坡经验](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201280662)》[Sinophone humanities and the Singaporean experience] (pp. 77–78). 新加坡: 南洋理工大学中华语言文化中心. (Call no.: RSING 305.895105957 WDW); Ong, Lim & Ng, 2015, p. 26.
+[^8]: 卢燕玲 [Lu, Y.L.] (编辑). (2014).《[华语语系的人文视野: 新加坡经验](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201280662)》[*Sinophone humanities and the Singaporean experience*] (pp. 77–78). 新加坡: 南洋理工大学中华语言文化中心. (Call no.: RSING 305.895105957 WDW); Ong, Lim & Ng, 2015, p. 26.
+
+[^9]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 23, 47, 56.
