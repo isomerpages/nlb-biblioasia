@@ -153,4 +153,4 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^19]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 63–66.
 
-[^20]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 63–66.
+[^20]: Li, 2012, pp. 66–76; Non-Chinese in federation decry ‘racial’ university. (1953, January 23). The Straits Times, p. 8; 巫统机构主席阿都拉曼称成立华文大学建议本邦巫人未表反对 [UMNO’s president Abdul Rahman said Malays in the federation are not against the suggestion of establishing a Chinese university]. (1953, February 21). 星洲日報 [Sin Chew Jit Poh], p. 9; 巫人不乏明达之士巫协青年团代表大会反对设立南洋大学案经激辩后遭否决 [There are enlightened people in the Malay community. UMNO Youth’s stand against the establishment of Nanyang University refuted after vigorous debate]. (1953, March 2). 南洋商报 [Nanyang Siang Pau], p. 7. Retrieved from NewspaperSG.
