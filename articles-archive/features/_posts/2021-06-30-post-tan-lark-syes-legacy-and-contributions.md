@@ -122,4 +122,4 @@ Although it has been close to 50 years since his death, Tan is still fondly reme
 
 [^5]: [Ong, Lim, & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 22–23, 35–38. [Note: For a list of subsidiary companies and joint ventures linked to the Aik Hoe Group, refer to this book by Ong, Lim and Ng.]
 
-[^6]: Tan Lark Sye and Tan Kah Kee hailed from the same ancestral town of Jimei and shared a common ancestor. It was not unusual in those days for fellow kinsmen to look out and help one another in a foreign land.
+[^6]: Ong, Lim & Ng, 2015, pp. 23, 47, 56.
