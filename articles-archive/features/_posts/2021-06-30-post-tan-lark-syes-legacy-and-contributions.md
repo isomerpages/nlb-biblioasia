@@ -79,7 +79,7 @@ Tan was devasted by the Prescott report. In an interview he gave following the i
 Almost immediately, a committee headed by Gwee Ah Leng, Acting Medical Superintendent of the Singapore General Hospital, was set up to review the first report. In another blow, this second report, released in February 1960, also did not recommend the recognition of Nantah’s degrees.[^27]
 
 ##### The Entanglement of Education and Politics
-The university council clashed with the government over a number of recommendations in the Prescott and Gwee reports. Negotiations broke down in December 1960, with both sides blaming each other. 
+The university council clashed with the government over a number of recommendations in the Prescott and Gwee reports. Negotiations broke down in December 1960, with both sides blaming each other.[^28]
 
 In 1961, the university went ahead, without the consent of the government, to establish a Lay Council headed by Tan. In addition, Tan appointed a vice chancellor that the government believed harboured pro-communist sympathies. Former Prime Minister Lee Kuan Yew wrote in his memoirs: “Tan Lark Sye, as chairman of the University Council, was very angry with us. To show his defiance, he appointed Dr Chuang Chu Lin, the pro-communist headmaster of Chung Cheng High School who had been dismissed from his post, to be vice-chancellor of the university… We knew this would give the MCP [Malayan Communist Party] greater freedom to use the university as breeding ground, but we were not then in a position to intervene without paying a high political price.” 
 
