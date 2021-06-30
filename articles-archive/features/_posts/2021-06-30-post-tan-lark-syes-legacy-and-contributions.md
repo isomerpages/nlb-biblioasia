@@ -77,3 +77,6 @@ In February 1959, a commission headed by Stanley Lewis Prescott, then Vice-Chanc
 Tan was devasted by the Prescott report. In an interview he gave following the issuing of the report, he told reporters that he had “hardly slept a wink for the past few nights. I have never felt so terrible”. He described the report bitterly as “biased, unjust and cruel”, and criticised it as “prejudiced” and rife with “baseless allegations”. Tan also accused the evaluation team of being politically aligned with the Labour Front.[^26] By then, however, the People’s Action Party (PAP), led by Lee Kuan Yew, had replaced the Labour Front as the new government after winning the Legislative Assembly general election in May 1959.
 
 Almost immediately, a committee headed by Gwee Ah Leng, Acting Medical Superintendent of the Singapore General Hospital, was set up to review the first report. In another blow, this second report, released in February 1960, also did not recommend the recognition of Nantah’s degrees.[^27]
+
+##### The Entanglement of Education and Politics
+However, Nantah continued to be dogged with problems.  Its first chancellor, Lin Yutang – an established Chinese scholar based in the United States and who had assumed the post in October 1954 – 
