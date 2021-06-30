@@ -129,4 +129,5 @@ Although it has been close to 50 years since his death, Tan is still fondly reme
 
 [^8]: 卢燕玲 [Lu, Y.L.] (编辑). (2014).《[华语语系的人文视野: 新加坡经验](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201280662)》[*Sinophone humanities and the Singaporean experience*] (pp. 77–78). 新加坡: 南洋理工大学中华语言文化中心. (Call no.: RSING 305.895105957 WDW); Ong, Lim & Ng, 2015, p. 26.
 
-[^9]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 23, 47, 56.
+[^9]: Ong, Lim & Ng, 2015, pp. 26, 39; 新加坡树胶公会 (Rubber Trade Association of Singapore). (2018).《树义百年盛, 胶融世纪情: 新加坡树胶公会百年庆典》[Centenary celebration of Rubber Trade Association of Singapore 1918–2019] (p. 64). 新加坡: 新加坡树胶公会. (Call no.: Chinese RSING 338.476782095957 CEN); Tan, B.L. (Interviewer). (1982, March 3). Oral history interview with Lim Soo Gan [Transcript of MP3 recording no. 000147/27/26, p. 309]. Retrieved from National Archives of Singapore website. To find out more about Tan’s involvement with the Hokkien Huay Kuan, 
+see Ong, Lim & Ng, 2015, pp. 76–85.
