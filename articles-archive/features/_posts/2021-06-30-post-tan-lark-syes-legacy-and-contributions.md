@@ -104,7 +104,7 @@ Although it has been close to 50 years since his death, Tan is still fondly reme
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/authors/Asrina-Tanuri.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-16-issue-3/authors/LeeMelyu.png" style="width: 100px; height: 100px;" />
 <b>Lee Meiyu</b> is a Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her research interests include Singapore’s Chinese community. She is the co-author of <i>Money by Mail to China: Dreams and Struggles of Early Migrants</i> (2012) and  <i>Roots: Tracing Family Histories – a Resource Guide</i> (2013).
 </div>
 
