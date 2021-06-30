@@ -170,7 +170,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-1/authors/georgina_wong.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-17-issue-2/authors/Asrina-Tanuri.png" style="width: 100px; height: 100px;" />
 	<b>Asrina Tanuri</b> is a Manager (Research) with the National Library, Singapore, where she provides information services to government agencies. Her research areas include community safety and security, and adult learning.
 </div>
 
