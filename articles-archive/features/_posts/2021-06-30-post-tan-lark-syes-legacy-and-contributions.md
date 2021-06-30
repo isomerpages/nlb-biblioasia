@@ -101,3 +101,15 @@ After Tan’s citizenship was revoked in 1964, he scaled down his business opera
 The renaming of Nanyang Valley in NTU to Tan Lark Sye Walk in 2019 is the most recent effort by the university to honour Tan for his contributions to the setting up of Nantah. In 1998, the Tan Lark Sye Professorship in Chinese Language and Culture was established in NTU, with funds raised by The Association of Nanyang University Graduates and financial contributions from Tan’s family and other associations. International scholars in Chinese language and culture were invited to give lectures and conduct research with university staff. The Tan Lark Sye Professorship was seen by a Nantah alumnus from the first batch of graduates as a positive gesture towards the Chinese community as many regard Tan as a hero. In Malaysia, there is the Tan Lark Sye Library in New Era College in Selangor.[^37]
 
 Although it has been close to 50 years since his death, Tan is still fondly remembered in Singapore. As Elgin Toh, the Deputy Political Editor of The Straits Times noted in 2017, “one thing is clear: Tan Lark Sye remains an important figure to some Chinese-educated Singaporeans”. Toh said that based on his many interviews with this group of Singaporeans, they felt a “deep gratitude towards Tan. This is especially true among older Singaporeans who remember the 1950s when the campaign to build Nantah succeeded against all odds”.[^38]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-2/authors/Asrina-Tanuri.png" style="width: 100px; height: 100px;" />
+	<b>Asrina Tanuri</b> is a Manager (Research) with the National Library, Singapore, where she provides information services to government agencies. Her research areas include community safety and security, and adult learning.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+
+
+#### NOTES
+[^1]: A. Kadir Pandi. (1986, March 26). [Kain songket lambang budaya kita](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860326-1.2.62.8.2). *The Straits Times*, p. 5; Zakaria Buang. (1982, November 29). [Pakaian pengantin tradisional](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19811129-1.2.20). *Berita Minggu*, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. *Wacana Seni Journal of Arts Discourse, 15*, 63–94. Retrieved from ResearchGate website.
