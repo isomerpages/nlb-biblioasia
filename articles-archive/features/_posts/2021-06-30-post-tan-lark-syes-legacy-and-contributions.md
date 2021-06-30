@@ -154,3 +154,14 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 [^19]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 63–66.
 
 [^20]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 66–76; [Non-Chinese in federation decry ‘racial’ university](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530123-1.2.136). (1953, January 23). *The Straits Times*, p. 8; [巫统机构主席阿都拉曼称成立华文大学建议本邦巫人未表反对](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19530221-1.2.37.18) [UMNO’s president Abdul Rahman said Malays in the federation are not against the suggestion of establishing a Chinese university]. (1953, February 21). 星洲日報 [*Sin Chew Jit Poh*], p. 9; [巫人不乏明达之士巫协青年团代表大会反对设立南洋大学案经激辩后遭否决](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19530302-1.2.33.1) [There are enlightened people in the Malay community. UMNO Youth’s stand against the establishment of Nanyang University refuted after vigorous debate]. (1953, March 2). 南洋商报 [*Nanyang Siang Pau*], p. 7. Retrieved from NewspaperSG.
+
+[^21]: Chinese varsity ‘certain’. Multi-millionaire backed by 276 associations. (1953, February 13). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+[^22]: Li, 2012, pp. 66–76.
+
+[^23]: Politics to be banned in Nanyang University. (1953, May 7). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+
+[^24]: Li, 2012, pp. 92–93, 104–105, 107.
+
+[^25]: Li, 2012, pp. 113, 122–127; Ong, Lim & Ng, 2015, 
+pp. 175–178.
