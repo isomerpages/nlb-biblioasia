@@ -140,8 +140,8 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^13]: Tan Lark Sye was very much influenced by Tan Kah Kee whom he held in high regard. He was inspired by the latter’s altruism and donated generously to both Chinese and English schools in China and Singapore. In China, Tan Lark Sye donated $150,000 to Jimei School in 1939, $20,000 to Nanqiao Institute of Education in 1941, and $700,000 to restore Jimei School and to rejuvenate Fujian’s economy in the 1940s. In 1950, he donated $300,000 to the University of Malaya. Together with Lee Kong Chian, Tan Lark Sye set up Chiyu Banking Corporation in Hong Kong, whose profits were used to fund Jimei School and Xiamen University (founded by Tan Kah Kee in 1921). Tan Lark Sye also established an educational foundation under the Hokkien Huay Kuan, which paid for the expansion of the five Chinese-medium schools under its management.
 
-[^14]: 利亮时 [Li, L.S.]. (2012).《[陈六使与南洋大学](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572)》[*Tan Lark Sye and Nanyang University*] (pp. 38–46). 新加坡: 八方文化创作室. (Call no.: RSING 378.5957 LLS); Ong, Lim & Ng, 2015, p. 148.
+[^14]: 利亮时 [Li, L.S.]. (2012).《[陈六使与南洋大学](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572)》[*Tan Lark Sye and Nanyang University*] (pp. 38–46). 新加坡: 八方文化创作室. (Call no.: RSING 378.5957 LLS); [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, p. 148.
 
-[^15]: Ong, Lim & Ng, 2015, pp. 24–25, 55–56, 147, 150.
+[^15]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 24–25, 55–56, 147, 150.
 
-[^16]: Ong, Lim & Ng, 2015, pp. 25, 67–68, 70–71; Li, 2012, p. 78.
+[^16]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 25, 67–68, 70–71; Li, 2012, p. 78.
