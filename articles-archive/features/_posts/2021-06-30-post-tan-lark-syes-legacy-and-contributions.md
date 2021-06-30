@@ -119,3 +119,5 @@ Although it has been close to 50 years since his death, Tan is still fondly reme
 [^3]: Tan Lark Sye and Tan Kah Kee hailed from the same ancestral town of Jimei and shared a common ancestor. It was not unusual in those days for fellow kinsmen to look out and help one another in a foreign land.
 
 [^4]: Ong, C.M., Lim, H.Y., & Ng, L.Y. (2015). [*Tan Lark Sye: Advocator and founder of Nanyang University*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065) (pp. 22, 33–34). Singapore: World Scientific Publishing Co. Pte. Ltd. (Call no.: RSING 378.5957 TAN)
+
+[^5]: Tan Lark Sye and Tan Kah Kee hailed from the same ancestral town of Jimei and shared a common ancestor. It was not unusual in those days for fellow kinsmen to look out and help one another in a foreign land.
