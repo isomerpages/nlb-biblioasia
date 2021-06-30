@@ -238,9 +238,9 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^30]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 248; [Berinai di pelamin: Adat perkahwinan orang Melayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20060305-1.2.11.9). (2006, March 5). Berita Harian, p. 11. Retrieved from NewspaperSG.
 
-[^31]: The *pulut pahar* is a floral bouquet comprising a base of *pulut kuning* (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the *pulut kuning* is absent, the arrangement is known as *bunga telur*. The *pulut pahar*, which is distributed to those attending the *tepung tawar* ceremony, is not to be confused with the *bunga telur* given to all guests at the wedding reception. In the past, half of the *bunga pahar* or *bunga telur* would be given to the *mak andam* (makeup artist-cum-lady-in-waiting). See Muhammad Ariff Ahmad, 2007, pp. 275–276.
+[^31]: The *pulut pahar* is a floral bouquet comprising a base of *pulut kuning* (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the *pulut kuning* is absent, the arrangement is known as *bunga telur*. The *pulut pahar*, which is distributed to those attending the *tepung tawar* ceremony, is not to be confused with the *bunga telur* given to all guests at the wedding reception. In the past, half of the *bunga pahar* or *bunga telur* would be given to the *mak andam* (makeup artist-cum-lady-in-waiting). See [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 275–276.
 
-[^32]: Muhammad Ariff Ahmad, 2007, pp. 276–277; Amran Kasimin. (2002). *Perkahwinan Melayu* (pp. 49–52). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: R q392.509595 AMR-[CUS])
+[^32]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 276–277; Amran Kasimin. (2002). *Perkahwinan Melayu* (pp. 49–52). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: R q392.509595 AMR-[CUS])
 
 [^33]: Advisory on kuda kepang performances. (2019, July 25). *Office of the Mufti*. Retrieved from Majlis Ugama Islam Singapura website; ‘Kuda kepang’ against Islam: Muis. (1979, June 14). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
