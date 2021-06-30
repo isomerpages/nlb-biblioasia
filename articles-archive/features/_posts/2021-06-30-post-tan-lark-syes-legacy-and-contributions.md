@@ -37,4 +37,32 @@ The Chinese Chamber of Commerce thus led the fight in pushing for citizenship to
 Later, as a committee member of the chamber, Tan also advocated for the use of vernacular languages (Chinese, Malay and Tamil) in the Legislative Assembly and City Council so that non-English-speaking candidates could be elected. In 1955, the chamber submitted a resolution to the colonial government calling for the abolition of the English-only rule and also rallied various local communities to sign a petition that subsequently garnered support from about 140,000 residents. As a result of these efforts, the language restriction was lifted in 1959 when the first fully elected Legislative Assembly was formed.[^12]
 
 ##### The Founding of Nanyang University
-Having spent the first two decades of his life in China, Tan’s initial political allegiance was to the land of his birth.[^7]  However, after the People’s Republic of China (PRC) was formed in 1949, ties between the British colonial government and the PRC were severed and Tan, by then in his early 50s, decided to focus his attention on Singapore where most of his businesses were located.[^8]
+Given Tan’s history of advocacy on behalf of the Chinese community, it is not surprising that he would push for the founding of a Chinese university in Malaya. On 17 March 1950, a Nanyang Siang Pau article noted that Chinese-educated students were unable to attend the University of Malaya because English proficiency was one of the mandatory entry requirements. A few days later, the university announced that it would establish a Chinese Department and also suggested that qualified Chinese-educated students could apply for admission. Tan donated $300,000 to the university upon hearing the news.
+
+In a meeting with the Hokkien Huay Kuan in September that year, Tan proposed setting up a Chinese university modelled after Yenching University or Tsinghua University in Beijing or Xiamen University in Fujian. 
+
+The proposal did not make much headway initially. However, the delay in setting up a Chinese Department in the University of Malaya eventually prompted Tan to raise the idea of a local Chinese university again, which he did in January 1953 during a meeting of the Hokkien Huay Kuan. Tan said in the meeting that “the prevailing political situation will deny our Chinese high school graduates an opportunity of higher education. We have no choice but to set up a Chinese university ourselves”. 
+
+Tan was also concerned about the shortage of teachers in Singapore’s Chinese-medium secondary schools as teachers from China had been barred from coming after ties were cut between Singapore and the PRC. Chinese-educated high school leavers were trapped in
+Singapore because if they chose to go to university in China, the colonial government was unlikely to allow them to return home. 
+
+Plans for a Chinese university in Singapore were stepped up. A committee made up of representatives from 12 influential Chinese organisations held a meeting on 20 February 1953, and the delegates decided that the name of this new institute would be “Nanyang
+University” (Nanyang Daxue, 南洋大学; abbreviated as Nantah, 南大). “Nanyang” means “South Seas”, which was how the Chinese then referred to Southeast Asia. 
+
+Setting up a new university would require money, and Tan issued a call for donations, noting that education was investment in the future:
+
+“When the tide comes in, we should harness it to irrigate the fields, and then the field would produce good yield. If we do nothing… this swell of wealth is meaningless to us. Within moments, the tide will recede, as will our wealth. Therefore, if you know that your children are good learners, would you not want to contribute to nurture their talents? If you are wealthy and understand that money comes and goes like the tide, would you not want to put it to good use before it is too late?” 
+
+Tan himself announced that he would personally donate $5 million while the Hokkien Huay Kuan, which he chaired, gave 500 acres of land in Jurong for the university campus. 
+
+The idea of having a local Chinese university fired the enthusiasm of the Chinese community here and the subsequent fundraising effort became a massive campaign with people from all walks of life rallying to the call. It was a matter of great pride to the Chinese community to have a university and the Chinese in Malaya wanted to be part of the effort. 
+
+However, not everyone was in favour of the idea. The colonial government was initially unsupportive as they were concerned about communist elements infiltrating Singapore and Malaya in the 1950s, and were worried that the university would become a breeding ground for communism. They were also concerned about the university’s standards and whether there was enough money to support a second university in Singapore. 
+
+Some members of the Malay community were fearful that the establishment of a Chinese university, with its emphasis on the Chinese language, would disrupt racial harmony. They were also worried that the university would only admit ethnic Chinese students. 
+
+To his detractors, Tan Lark Sye argued that the setting up of a university would benefit the country. “Think how important a university is to Malaya. Think of the thousands of students who could not have higher studies and are therefore forced to take lower appointments. I am not a university graduate but I know how important it is to have higher studies,” he declared.  
+
+Businessman and prominent community leader Tan Cheng Lock helped to allay the concerns of both the colonial government and the Malay community. Finally, on 5 May 1953, Nanyang University was registered, albeit as a private limited company and not as a university to avoid complications.  
+
+The next day, Tan Lark Sye announced that politics would be banned from the university. “We will not tolerate professors, lecturers, students or even the Chancellor if any of them should be found participating in political activities inside the university,” he said.
