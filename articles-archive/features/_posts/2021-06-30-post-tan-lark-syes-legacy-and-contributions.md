@@ -124,4 +124,5 @@ Although it has been close to 50 years since his death, Tan is still fondly reme
 
 [^6]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 23, 47, 56.
 
-[^7]: Tan Lark Sye and Tan Kah Kee hailed from the same ancestral town of Jimei and shared a common ancestor. It was not unusual in those days for fellow kinsmen to look out and help one another in a foreign land.
+[^7]: To read more about Tan’s involvement in China’s affairs, refer to pp. 79–116 of 陈少斌 [Chen, S.B.]. (2003). 
+《循履嘉庚业迹：集美乡贤陈文确陈六使家族传略》 [Following in the footsteps of Kah Kee: Family biography of Chen Wenque and Chen Liushi, eminent personalities of Jimei]. 厦门市: 厦门市集美区归国华侨联合会，厦门市集美陈嘉庚研究会. (Call no.: Chinese RSING 338.040922 XLJ)
