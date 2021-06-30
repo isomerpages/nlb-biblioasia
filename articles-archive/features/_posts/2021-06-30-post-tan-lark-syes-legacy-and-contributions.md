@@ -139,3 +139,9 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 [^12]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 27, 60–61. For more details, see chapter six of Li (2018).
 
 [^13]: Tan Lark Sye was very much influenced by Tan Kah Kee whom he held in high regard. He was inspired by the latter’s altruism and donated generously to both Chinese and English schools in China and Singapore. In China, Tan Lark Sye donated $150,000 to Jimei School in 1939, $20,000 to Nanqiao Institute of Education in 1941, and $700,000 to restore Jimei School and to rejuvenate Fujian’s economy in the 1940s. In 1950, he donated $300,000 to the University of Malaya. Together with Lee Kong Chian, Tan Lark Sye set up Chiyu Banking Corporation in Hong Kong, whose profits were used to fund Jimei School and Xiamen University (founded by Tan Kah Kee in 1921). Tan Lark Sye also established an educational foundation under the Hokkien Huay Kuan, which paid for the expansion of the five Chinese-medium schools under its management.
+
+[^14]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 27, 60–61. For more details, see chapter six of Li (2018).
+
+[^15]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 27, 60–61. For more details, see chapter six of Li (2018).
+
+[^16]: [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 27, 60–61. For more details, see chapter six of Li (2018).
