@@ -165,10 +165,10 @@ see [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065)
 
 [^25]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 113, 122–127; [Ong, Lim & Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201364065), 2015, pp. 175–178.
 
-[^26]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 92–93, 104–105, 107.
+[^26]: Ng, V. (1959, July 25). Prescott report is ‘unjust and cruel’. The Straits Times, p. 1. Retrieved from NewspaperSG; Li, 2012, pp. 139–140, 142–146.
 
-[^27]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 92–93, 104–105, 107.
+[^27]: Ong, Lim & Ng, 2015, pp. 28, 74; Li, 2012, pp. 152–154.
 
-[^28]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 92–93, 104–105, 107.
+[^28]: Li, 2012, p. 180.
 
-[^29]: [Li](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14709572), 2012, pp. 92–93, 104–105, 107.
+[^29]: Lee, 2015, p. 332.
