@@ -94,7 +94,7 @@ Accompanying him are two men carrying the *bunga manggar* (palm blossoms made fr
 
 |These days however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the *bunga telur*.22|
 
-To reach the bride, the groom must first overcome various *hadang* (roadblocks or obstacles). During the first *hadang*, witty pantuns* (Malay poems) are exchanged between the *pengapit* and the bride’s wedding party. The groom must also pay what is known as the *duit pagar*, or “gate fee”. After the groom passes the tests, he is allowed to be seated in front of the bridal dais and a *silat pengantin* (Malay martial arts display) performed for him.[^19]
+To reach the bride, the groom must first overcome various *hadang* (roadblocks or obstacles). During the first *hadang*, witty *pantuns* (Malay poems) are exchanged between the *pengapit* and the bride’s wedding party. The groom must also pay what is known as the *duit pagar*, or “gate fee”. After the groom passes the tests, he is allowed to be seated in front of the bridal dais and a *silat pengantin* (Malay martial arts display) performed for him.[^19]
 
 The final *hadang* takes place at the bridal dais itself, this time between the groom and the *mak andam*. He pays her the *duit kipas* (fan money); once satisfied, she reveals the bride and the groom finally takes his seat on the dais beside the bride.[^20]
 
