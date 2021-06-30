@@ -45,8 +45,7 @@ The proposal did not make much headway initially. However, the delay in setting 
 
 Tan was also concerned about the shortage of teachers in Singapore’s Chinese-medium secondary schools as teachers from China had been barred from coming after ties were cut between Singapore and the PRC. Chinese-educated high school leavers were trapped in Singapore because if they chose to go to university in China, the colonial government was unlikely to allow them to return home.[^15]
 
-Plans for a Chinese university in Singapore were stepped up. A committee made up of representatives from 12 influential Chinese organisations held a meeting on 20 February 1953, and the delegates decided that the name of this new institute would be “Nanyang
-University” (Nanyang Daxue, 南洋大学; abbreviated as Nantah, 南大). “Nanyang” means “South Seas”, which was how the Chinese then referred to Southeast Asia. 
+Plans for a Chinese university in Singapore were stepped up. A committee made up of representatives from 12 influential Chinese organisations held a meeting on 20 February 1953, and the delegates decided that the name of this new institute would be “Nanyang University” (Nanyang Daxue, 南洋大学; abbreviated as Nantah, 南大). “Nanyang” means “South Seas”, which was how the Chinese then referred to Southeast Asia.[^16]
 
 Setting up a new university would require money, and Tan issued a call for donations, noting that education was investment in the future:
 
