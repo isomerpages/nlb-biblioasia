@@ -57,7 +57,7 @@ The idea of having a local Chinese university fired the enthusiasm of the Chines
 
 However, not everyone was in favour of the idea. The colonial government was initially unsupportive as they were concerned about communist elements infiltrating Singapore and Malaya in the 1950s, and were worried that the university would become a breeding ground for communism. They were also concerned about the university’s standards and whether there was enough money to support a second university in Singapore.[^19] 
 
-Some members of the Malay community were fearful that the establishment of a Chinese university, with its emphasis on the Chinese language, would disrupt racial harmony. They were also worried that the university would only admit ethnic Chinese students. 
+Some members of the Malay community were fearful that the establishment of a Chinese university, with its emphasis on the Chinese language, would disrupt racial harmony. They were also worried that the university would only admit ethnic Chinese students.[^20]
 
 To his detractors, Tan Lark Sye argued that the setting up of a university would benefit the country. “Think how important a university is to Malaya. Think of the thousands of students who could not have higher studies and are therefore forced to take lower appointments. I am not a university graduate but I know how important it is to have higher studies,” he declared.  
 
