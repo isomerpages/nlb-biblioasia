@@ -14,7 +14,7 @@ The setting up of Nantah was a major point of pride for the Chinese community in
 
 Although Tan ceased to be a citizen, he remained a resident in Singapore. He focused on his businesses until his death from a heart attack about a decade later. Nantah soldiered on until 1980, when it merged with the University of Singapore to form the National University of Singapore. The next year, Nanyang Technological Institute (NTI) was set up on the premises of Nantah, and in 1991, it was renamed NTU.[^2]
 
-##### Building a Business Empire
+##### **Building a Business Empire**
 Although Tan was one of the key figures behind the founding of Nantah, he did not have much formal education himself. Tan was born in 1897 in the town of Jimei, part of Tong’an county, in China’s Fujian province. The sixth of seven brothers, Tan was orphaned as a child. He spent a few years at Jimei School, which had been set up by Tan Kah Kee, a prominent businessman and community leader in Singapore who also hailed from the same town.
 
 In 1916, the 19-year-old Tan Lark Sye left China for Southeast Asia and found employment at one of the companies founded by Tan Kah Kee, who was 23 years his senior. The capable young man later worked in the latter’s Khiam Aik rubber factory in Singapore,[^3] and after amassing enough capital and experience, decided to strike out on his own. In 1923, at the age of 26, Tan started Lian Hoe Rubber Shop with one of his older brothers, which was incorporated as Aik Hoe Rubber Company the following year.[^4]
@@ -23,7 +23,7 @@ Thanks to Tan’s business acumen, Aik Hoe became one of the leading players in 
 
 Apart from rubber, Tan was also involved in the finance, paper and cement industries. He set up Asia Insurance Company and Overseas Union Bank together with Lien Ying Chow, and served as a director of Oversea-Chinese Bank in Singapore and chairman of Chiyu Banking Corporation Ltd in Hong Kong. Two of his companies, Lima Paper Products Co. Ltd. and Tasek Cement Co. Ltd., were listed on the stock exchanges of Singapore and Malaysia.[^6]
 
-##### Citizenship for Foreign-born Chinese
+##### **Citizenship for Foreign-born Chinese**
 Having spent the first two decades of his life in China, Tan’s initial political allegiance was to the land of his birth.[^7] However, after the People’s Republic of China (PRC) was formed in 1949, ties between the British colonial government and the PRC were severed. Tan, by then in his early 50s, decided to focus his attention on Singapore where most of his businesses were located.[^8]
 
 In 1950, Tan became the chairman of the powerful Hokkien Huay Kuan, which represented the largest dialect group in Singapore. He had been appointed to this position by the previous chairman, Tan Kah Kee. In the latter’s opinion, the younger Tan had the requisite determination and acumen to lead the clan association.
@@ -36,7 +36,7 @@ The Chinese Chamber of Commerce thus led the fight in pushing for citizenship to
 
 Later, as a committee member of the chamber, Tan also advocated for the use of vernacular languages (Chinese, Malay and Tamil) in the Legislative Assembly and City Council so that non-English-speaking candidates could be elected. In 1955, the chamber submitted a resolution to the colonial government calling for the abolition of the English-only rule and rallied various local communities to sign a petition that subsequently garnered support from about 140,000 residents. As a result of these efforts, the language restriction was lifted in 1959 when the first fully elected Legislative Assembly was formed.[^12]
 
-##### The Founding of Nanyang University
+##### **The Founding of Nanyang University**
 Given Tan’s history of advocacy on behalf of the Chinese community, it is not surprising that he would push for the founding of a Chinese university in Malaya. On 17 March 1950, a Nanyang Siang Pau article noted that Chinese-educated students were unable to attend the University of Malaya because English proficiency was one of the mandatory entry requirements. A few days later, the university announced that it would establish a Chinese Department and suggested that qualified Chinese-educated students apply for admission. Tan donated $300,000 to the university upon hearing the news.
 
 In a meeting with the Hokkien Huay Kuan in September that year, Tan proposed setting up a Chinese university modelled after Yenching University or Tsinghua University in Beijing or Xiamen University in Fujian.[^13]
@@ -65,7 +65,7 @@ Businessman and prominent community leader Tan Cheng Lock helped allay the conce
 
 The next day, Tan Lark Sye announced that politics would be banned from the university. “We will not tolerate professors, lecturers, students or even the Chancellor if any of them should be found participating in political activities inside the university,” he declared.[^23]
 
-##### A Rocky Start
+##### **A Rocky Start**
 Nantah’s problems did not disappear with its registration though. Its first chancellor, Lin Yutang – an established Chinese scholar based in the United States and who had assumed the post in October 1954 – resigned within a year due to budgetary and ideological differences with the executive committee over the management of the university. In January 1955, Lin submitted a budget of almost $6 million dollars in order to establish a first-class university, which was two times what the university fund had at the time. The executive committee also preferred to establish the university first to address the pressing need for a tertiary institution for the graduates of Chinese high schools while gradually building up the university’s standard over time.[^24]
 
 Convincing the government to recognise Nantah’s degrees was also  a concern. On 1 May 1956, Chew Swee Kee, the Education Minister in the Labour Front government, announced that the government would not recognise the university’s degrees as the institution had no right to confer academic degrees. This came as a rude shock as classes had already begun two months earlier.
@@ -78,7 +78,7 @@ Tan was devasted by the Prescott report. In an interview he gave following the i
 
 Almost immediately, a committee headed by Gwee Ah Leng, Acting Medical Superintendent of the Singapore General Hospital, was set up to review the first report. This second report, released in February 1960, similarly did not recommend the recognition of Nantah’s degrees.[^27]
 
-##### The Entanglement of Education and Politics
+##### **The Entanglement of Education and Politics**
 The university council clashed with the government over a number of recommendations in the Prescott and Gwee reports. Negotiations broke down in December 1960, with both sides blaming each other.[^28]
 
 In 1961, the university went ahead, without the consent of the government, to establish a Lay Council headed by Tan. In addition, Tan appointed a vice-chancellor that the government believed harboured pro-communist sympathies. Former Prime Minister Lee Kuan Yew wrote in his memoirs: “Tan Lark Sye, as chairman of the University Council, was very angry with us. To show his defiance, he appointed Dr Chuang Chu Lin, the pro-communist headmaster of Chung Cheng High School who had been dismissed from his post, to be vice-chancellor of the university… We knew this would give the MCP [Malayan Communist Party] greater freedom to use the university as breeding ground, but we were not then in a position to intervene without paying a high political price.”[^29]
@@ -95,7 +95,7 @@ After the PAP won the 1963 election, the new government immediately announced th
 
 In February 1965, the university formed the Curriculum Review Committee, headed by Professor Wang Gungwu of the University of Malaya in Kuala Lumpur, to review the curriculum and make changes. Among the recommendations in the report, released on 11 September 1965, were proposals to enhance bilingualism and improve the quality of teaching staff. Several student protests followed soon after, but these were quickly nipped in the bud.[^34]
 
-##### In Memory of Tan Lark Sye[^35]
+##### **In Memory of Tan Lark Sye[^35]**
 After Tan’s citizenship was revoked in 1964, he scaled down his business operations in Singapore and shifted key investments to Malaysia. Nonetheless, he continued living in Singapore until his death from a heart attack on 11 September 1972 at the age of 76. He left behind his wife, 11 sons and three daughters.[^36]
 
 The renaming of Nanyang Valley at NTU to Tan Lark Sye Walk in 2019 marks the most recent effort by the university to honour Tan for his contributions to the founding of Nantah. In 1998, the Tan Lark Sye Professorship in Chinese Language and Culture was established in NTU, with funds raised by the Association of Nanyang University Graduates and financial contributions from Tan’s family and other associations. International scholars in Chinese language and culture were invited to give lectures and conduct research with university staff. The Tan Lark Sye Professorship was seen by some Nantah alumni as a positive gesture towards a man that the Chinese community regarded as a hero. In Selangor, Malaysia, the Tan Lark Sye Library was set up in New Era University College.[^37]
