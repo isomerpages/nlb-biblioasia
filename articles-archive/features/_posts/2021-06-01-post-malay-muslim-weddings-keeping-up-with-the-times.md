@@ -84,33 +84,9 @@ The sound of the *kompang*, sometimes referred to as *rebana*, and a troupe sing
 
 Accompanying him are two men carrying the *bunga manggar* (palm blossoms made from tinsel paper). The bride awaits on the bridal dais, her face shielded by a fan held by the *mak andam* (the makeup artist-cum-lady-in-waiting).[^18]
 
-|**BUNGA TELUR**|
-
-|Wedding favours are known as *berkat kahwin* or *berkat pengantin*. Traditionally, guests at Malay weddings are given a *bunga telur* (literally a “flower egg”) as a token of appreciation. A *bunga telur* comprises a red hard boiled egg resting on top of a bed of *pulut kunyit* (yellow glutinous rice) in a glass decorated with flowers, hence its name.19|
-
-|Each part of the *bunga telur* has a special meaning. The egg symbolises fertility and prosperity. The yellow glutinous rice represents harmony, honesty and royalty – referring to the bride and groom, who are regarded as royals for the day – while the flower signifies love in their marriage.20|
-
-|In the past, the making of the *bunga telur* was an opportunity for family members, neighbours and friends to lend a helping hand with the various tasks involved, such as boiling the eggs, steaming the glutinous rice, colouring the eggs and decorating with the flowers.21|
-
-|These days however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the *bunga telur*.22|
-
 To reach the bride, the groom must first overcome various *hadang* (roadblocks or obstacles). During the first *hadang*, witty *pantuns* (Malay poems) are exchanged between the *pengapit* and the bride’s wedding party. The groom must also pay what is known as the *duit pagar*, or “gate fee”. After the groom passes the tests, he is allowed to be seated in front of the bridal dais and a *silat pengantin* (Malay martial arts display) performed for him.[^19]
 
 The final *hadang* takes place at the bridal dais itself, this time between the groom and the *mak andam*. He pays her the *duit kipas* (fan money); once satisfied, she reveals the bride and the groom finally takes his seat on the dais beside the bride.[^20]
-
-|**BRIDAL OUTFITS AND THE MAK ANDAM**|
-
-|The world of fashion is one of constant change and wedding outfits are no exception. Between the 1950s and 1990s, popular outfit choices for the *bersanding* ceremony were the traditional *baju kurung* or *kebaya* for women and the *baju Melayu* for men, made from fabrics such as traditional *songket*25,  brocade or velvet. These outfits were intricately embroidered and embellished with sequins and beadings. An elaborate *sanggul* (metal headdress) for the bride and a *tanjak* (headgear) and *keris* (dagger) for the groom completed the attire.26|
-
-|Although many brides today still opt for the classic *songket* fabric for their attire, the *baju kurung* or *kebaya* styles in which they are sewn into have been given a more contemporary spin to keep pace with current sartorial trends. Some brides also choose to commission bespoke one-of-a-kind *songket* outfits instead of renting from bridal houses. It is also common for brides to wear outfits inspired by the Western wedding gowns using fabrics such as chiffon, satin and lace, while grooms don formal Western suits.27| 
-
-|Another change has been to the role of the *mak andam*, who has one of the more important jobs during a Malay wedding. In addition to doing the bridal makeup, the *mak andam* is the de facto protocol guide of a traditional Malay wedding. On the big day, it is the job of the *mak andam* to guide the bride and groom during the many ceremonies.28|
-
-|Today, however, the *mak andam* has been relegated to a less important role. In a 2017 television interview, Malay dance pioneer and Cultural Medallion recipient Som Said said:|
-
-|“… kalau you dah istilahnya dah jadi mak andam, you bukan hanya menyiapkan pengantin tu sahaja. Peradaban, the protocol, bila nak salam, bila nak ini [itu], semua sudah harus tahu. Jadi [it] is not that dulu-dulu orang tanya, you nak kahwin eh, Mak andamnya siapa? Oh, straightaway people tahu, oh, ini tatasusila nya bagus. Tapi sekarang tidak. Who is the mak andam? Oh it is about the dressing, it is about the look?”29|
-
-|(Translation: … if you are a *mak andam*, your duties will extend beyond just dolling up the bride. You will have to know the various cultural traditions, protocols and rites. Previously, when people ask which *mak andam* you picked, they would go oh, this *mak andam* has very good mannerisms and adherence to traditions. Whereas nowadays, when people ask who is the *mak andam*, they are comparing how stylish the makeup and outfits are.)|
 
 Traditionally, the groom’s older relatives were roped in to be the groomsmen and expected to partake in the exchange of *pantuns*. These days however, the *pengapit* role is assumed by friends. 
 It has also become customary in Malay weddings for the groom and his groomsmen to perform a series of tasks, such as singing and dancing, before he is allowed to meet his bride, possibly borrowed from a similar Chinese tradition. 
@@ -158,6 +134,30 @@ In Singapore, the dance was commonly performed at Malay weddings in the 1970s an
 Many of the changes that Malay wedding customs have undergone in Singapore are replicated in cities like Kuala Lumpur. The makeshift tents in front of houses for the wedding feast (itself an adaptation from the communal space in a kampong) and the *gotong royong* spirit in preparing for the wedding ceremony and reception have given way to catered events at banquet halls or hotel ballrooms. Elaborate and time-consuming ceremonies have also been simplified. And, like bridal couples in Singapore, Malaysian couples are also opting for themed weddings with wedding planners helping to organise their big do, although the *tepung tawar* ritual is still practised in Malaysia.[^34]
 
 Inevitably, customs and traditions will evolve in response to social and economic changes. As new norms and new expectations develop, Malay wedding customs will also evolve in tandem.
+
+|**BUNGA TELUR**|
+
+|Wedding favours are known as *berkat kahwin* or *berkat pengantin*. Traditionally, guests at Malay weddings are given a *bunga telur* (literally a “flower egg”) as a token of appreciation. A *bunga telur* comprises a red hard boiled egg resting on top of a bed of *pulut kunyit* (yellow glutinous rice) in a glass decorated with flowers, hence its name.[^35]|
+
+|Each part of the *bunga telur* has a special meaning. The egg symbolises fertility and prosperity. The yellow glutinous rice represents harmony, honesty and royalty – referring to the bride and groom, who are regarded as royals for the day – while the flower signifies love in their marriage.[^36]|
+
+|In the past, the making of the *bunga telur* was an opportunity for family members, neighbours and friends to lend a helping hand with the various tasks involved, such as boiling the eggs, steaming the glutinous rice, colouring the eggs and decorating with the flowers.[^37]|
+
+|These days however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the *bunga telur*.[^38]|
+
+|**BRIDAL OUTFITS AND THE MAK ANDAM**|
+
+|The world of fashion is one of constant change and wedding outfits are no exception. Between the 1950s and 1990s, popular outfit choices for the *bersanding* ceremony were the traditional *baju kurung* or *kebaya* for women and the *baju Melayu* for men, made from fabrics such as traditional *songket*25,  brocade or velvet. These outfits were intricately embroidered and embellished with sequins and beadings. An elaborate *sanggul* (metal headdress) for the bride and a *tanjak* (headgear) and *keris* (dagger) for the groom completed the attire.[^39]|
+
+|Although many brides today still opt for the classic *songket* fabric for their attire, the *baju kurung* or *kebaya* styles in which they are sewn into have been given a more contemporary spin to keep pace with current sartorial trends. Some brides also choose to commission bespoke one-of-a-kind *songket* outfits instead of renting from bridal houses. It is also common for brides to wear outfits inspired by the Western wedding gowns using fabrics such as chiffon, satin and lace, while grooms don formal Western suits.[^40]| 
+
+|Another change has been to the role of the *mak andam*, who has one of the more important jobs during a Malay wedding. In addition to doing the bridal makeup, the *mak andam* is the de facto protocol guide of a traditional Malay wedding. On the big day, it is the job of the *mak andam* to guide the bride and groom during the many ceremonies.[^41]|
+
+|Today, however, the *mak andam* has been relegated to a less important role. In a 2017 television interview, Malay dance pioneer and Cultural Medallion recipient Som Said said:|
+
+|“… kalau you dah istilahnya dah jadi mak andam, you bukan hanya menyiapkan pengantin tu sahaja. Peradaban, the protocol, bila nak salam, bila nak ini [itu], semua sudah harus tahu. Jadi [it] is not that dulu-dulu orang tanya, you nak kahwin eh, Mak andamnya siapa? Oh, straightaway people tahu, oh, ini tatasusila nya bagus. Tapi sekarang tidak. Who is the mak andam? Oh it is about the dressing, it is about the look?”[^42]|
+
+|(Translation: … if you are a *mak andam*, your duties will extend beyond just dolling up the bride. You will have to know the various cultural traditions, protocols and rites. Previously, when people ask which *mak andam* you picked, they would go oh, this *mak andam* has very good mannerisms and adherence to traditions. Whereas nowadays, when people ask who is the *mak andam*, they are comparing how stylish the makeup and outfits are.)|
 
 <div style="background-color: white;">
 <br/>
