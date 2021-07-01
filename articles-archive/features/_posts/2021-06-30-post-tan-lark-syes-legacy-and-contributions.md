@@ -111,7 +111,7 @@ Although it has been close to 50 years since his death, Tan is fondly remembered
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 
-#### NOTES
+#### **NOTES**
 [^1]: NTU building and road renamed in honour of pioneers. (2019, October 20). *The Sunday Times*. Retrieved from The Straits Times website.
 
 [^2]: [Rags to riches rubber tycoon Lark Sye dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720912-1.2.8). (1972, September 12). *The Straits Times*, p. 1; [And the two become one](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800708-1.2.52). (1980, July 8). *New Nation*, pp. 10-11; [Key NTI men start work in Jurong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810416-1.2.31). (1981, April 16). *The Straits Times*, p. 8; [Overview of courses](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910305-1.2.57.5.2.3). (1991, March 5). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
