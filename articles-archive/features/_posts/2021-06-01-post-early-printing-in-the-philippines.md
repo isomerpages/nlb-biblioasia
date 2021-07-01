@@ -136,3 +136,20 @@ R q070.509599 HIS)
 
 [^18]: Van der Loon, 1966–67, pp. 25–28; De la Costa, H. (1955, June). A first printing. *Philippine Studies*, 3 (2), 214–216. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
+[^19]: Van der Loon, 1966–67, pp. 28–31; Chan, A. (2002). *[Chinese books and documents in the Jesuit archives in Rome: A descriptive catalogue: Japonica-Sinica I-IV ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11630717)* (pp. 226–229). Armonk, N.Y.: M.E. Sharpe. (Call no.: 
+R q016.895108 CHA-[LIB]); [Menegon](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140), 2009, p. 52. 
+
+[^20]: Van der Loon, 1966–1967, pp. 31–39; [Chan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11630717), 2002, pp. 229–230; [Menegon](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140), 2009, p. 52; Standaert, N. (1994). Heaven and hell in the 17th century exchange between China and the West. *Review of Culture*, (21), 83–94. Retrieved from Instituto Cultural de Macau website; Thomas, M. (1606). *Simbolo de la fe, en lengua y letra China (Hsin k’an ke wu ch’iung li pien lan*). Binondoc: Pedro de Vera. Retrieved from Österreichische Nationalbibliothek website.
+
+
+[^21]: [Buhain](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141), 1998, p. 9. 
+
+[^22]: Gomez, B. (2020, June 18). *Opinion: Celebrating Magellan plus a history lesson on Tomas Pinpin*. Retrieved from ABS-CBN News website; Taylor, C. (1927). *History of Philippine press* (p. 3). Manila: [s.n.] Retrieved from University of Michigan Library website. 
+
+[^23]: Vibar, A.M. (2014). The 1610 *Arte y reglas de a lengua tagala* revisited: An advanced grammar for Spanish missionaries of the seventeenth century. *Synergeia*, 5 (1), 1–22. Retrieved from Philippine e-journals website; MacKinlay, W.E.W. (1905). *A handbook and grammar of the Tagalog language* (p. 8). Washington: Government Printing Office. Retrieved from University of Michigan Library website.
+
+[^24]: Jurilla, P.B. (2006, August 30). *Tagalog bestsellers and the history of the book in the Philippines* (pp. 43–46). [A thesis for the degree of Doctor of Philosophy, no. 2768]. London: University of London (School of Oriental and African Studies). Retrieved from SOAS Research Online website; [Buhain](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141), 1998, p. 9; Vallejo, n.d.; National Historical Commission of the Philippines. (n.d.). *Filipinos in history: Tomas Pinpin*. Retrieved from National Historical Commission of the Philippines website; Fernandez, D.G. (1989). The Philippine press system: 1811–1989. *Philippine Studies*, 37 (3), 317–344, p. 318. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[^25]: [Buhain](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141), 1998, pp. 19–23; Taylor, 1927, p. 3; Fernandez, 1989, 317–344; Del Carmen Pareja Ortiz, M. (1993). “Gaceta Del Superior Gobierno”: The first Philippine newspaper. *Philippine Studies*, 41 (2), 182–203. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Jurilla, 2006, pp. 53–54. 
+
+[^26]: Miguel de Benavides Library of the Universty of Santa Tomas. (n.d.). *Collection 9.3 - Ilustración Filipina*. Retrieved from University of Santo Tomas Miguel de Benavides Library and Archives website.
