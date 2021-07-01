@@ -145,6 +145,11 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 |These days however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the *bunga telur*.[^38]|
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+</div>
+
 |**BRIDAL OUTFITS AND THE MAK ANDAM**|
 
 |The world of fashion is one of constant change and wedding outfits are no exception. Between the 1950s and 1990s, popular outfit choices for the *bersanding* ceremony were the traditional *baju kurung* or *kebaya* for women and the *baju Melayu* for men, made from fabrics such as traditional *songket*,[^39]  brocade or velvet. These outfits were intricately embroidered and embellished with sequins and beadings. An elaborate *sanggul* (metal headdress) for the bride and a *tanjak* (headgear) and *keris* (dagger) for the groom completed the attire.[^40]|
@@ -242,3 +247,21 @@ Inevitably, customs and traditions will evolve in response to social and economi
 [^33]: Advisory on kuda kepang performances. (2019, July 25). *Office of the Mufti*. Retrieved from Majlis Ugama Islam Singapura website; [‘Kuda kepang’ against Islam: Muis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790614-1.2.82). (1979, June 14). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
 [^34]: Fatimah Abdullah. (2009). [Dari halaman rumah ke Dewan Merak Kayangan: Upacara perkahwinan Melayu bandar](http://journalarticle.ukm.my/1155/1/sari27%281%29-2009%5B06%5D.pdf). *SARI: Jurnal Alam dan Tamadun Melayu, 27*, 97–107. Retrieved from UKM Journal Article Repository website; Mohd Khairuddin Mohd Sallehuddin & Mohamad Fauzi Sukimi. (2016). [Impian dan realiti majlis perkahwinan orang Melayu masakini: Kajian kes di pinggir bandar Kuala Lumpur](http://journalarticle.ukm.my/10320/1/1x.full-geo-mei16-khairuddin-edam.pdf). *Geografia: Malaysian Journal of Society and Space, 12* (7), 1–12. Retrieved from UKM Journal Article Repository website.
+
+[^35]: A. Hamid Besih. (1996, September 28). Pengertian di sebalik ‘bunga telur’ hampir lebur. Berita Harian, p. 7. Retrieved NewspaperSG.
+
+[^36]: Berita Harian, 28 Sep 1996; p. 7; Hanim Mohd Saleh. (2004, February 15). Bunga telur semakin dipinggir. Berita Harian, p. 11. Retrieved from NewspaperSG.
+
+[^37]: Berita Harian, 15 Feb 2004, p. 11; Hadijah Rahmat. (2005). Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura (p. 241). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD); Muhammad Ariff Ahmad. (2007). Nilam: Nilai Melayu menurut adat (p. 275). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH)
+
+[^38]: Berita Harian, 15 Feb 2004, p. 11; Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. Sekata. 1 (11), 1–8. Retrieved from National Institute of Education website.
+
+[^39]: Songket is a cotton or silk fabric interwoven with gold or silver threads. This traditional Malay handwoven fabric comes in wide variety of designs and patterns. The cost of a songket outfit can go up to the thousands, depending on the quality of fabric, density of threads and intricacy of design and colours. Malays typically don songket during festive and formal occasions such as weddings and Hari Raya. See Kong, L. (1989, January 16). Songket: Symbol of a rich tradition. The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+ [^40]: Zakaria Buang. (1981, November 29). Pakaian pengantin tradisional. Berita Minggu, p. 3; Wan Jumaiah Mohd Jubri. (1996, September 28). ‘Biru, birulah… coklat, coklatlah… pengantin dulu memang tak kisah’. Berita Harian, p. 10. Retrieved from NewspaperSG.
+	
+[^41]: Pakaian tradisional terus jadi pilihan. (1991, September 27). Berita Harian, p. 12; Ismawati Ismail. (2012, January 21). Majlis unik ‘lain daripada yang lain’. Berita Harian, p. 17; Fesyen selebriti jadi trend terbaru pengantin. (2013, December 29). Berita Harian, p. 19. Retrieved from NewspaperSG. 
+  
+[^42]: Umur mak andam semakin muda. (1987, July 21). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[^43]: Mediacorp News Group (2017, October 18). DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu. Retrieved from Berita Mediacorp website.
