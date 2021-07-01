@@ -104,8 +104,7 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 
 [^3]: Wolf, E. (1947). *Doctrina Christiana: The first book printed in the Philippines, Manila, 1593*. Retrieved from Project Gutenberg website.
 
-[^4]: Buhain, D.D. (1998). *[A history of publishing in the Philippines](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141)* (p. 2). [Quezon City]: D.D. Buhain. (Call no.: 
-R q070.509599 HIS)
+[^4]: Buhain, D.D. (1998). *[A history of publishing in the Philippines](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141)* (p. 2). [Quezon City]: D.D. Buhain. (Call no.: R q070.509599 HIS)
 
 [^5]: Vallejo, R.M. (n.d.). *Books and bookmaking in the Philippines*. Retrieved from the National Commission for Culture and Arts (Republic of the Philippines, Office of the President) website; [Suarez & Woudhuysen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200774186), 2013, p. 112.
 
@@ -136,8 +135,7 @@ R q070.509599 HIS)
 
 [^18]: Van der Loon, 1966–67, pp. 25–28; De la Costa, H. (1955, June). A first printing. *Philippine Studies*, 3 (2), 214–216. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^19]: Van der Loon, 1966–67, pp. 28–31; Chan, A. (2002). *[Chinese books and documents in the Jesuit archives in Rome: A descriptive catalogue: Japonica-Sinica I-IV ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11630717)* (pp. 226–229). Armonk, N.Y.: M.E. Sharpe. (Call no.: 
-R q016.895108 CHA-[LIB]); [Menegon](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140), 2009, p. 52. 
+[^19]: Van der Loon, 1966–67, pp. 28–31; Chan, A. (2002). *[Chinese books and documents in the Jesuit archives in Rome: A descriptive catalogue: Japonica-Sinica I-IV ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11630717)* (pp. 226–229). Armonk, N.Y.: M.E. Sharpe. (Call no.: R q016.895108 CHA-[LIB]); [Menegon](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140), 2009, p. 52. 
 
 [^20]: Van der Loon, 1966–1967, pp. 31–39; [Chan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11630717), 2002, pp. 229–230; [Menegon](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140), 2009, p. 52; Standaert, N. (1994). Heaven and hell in the 17th century exchange between China and the West. *Review of Culture*, (21), 83–94. Retrieved from Instituto Cultural de Macau website; Thomas, M. (1606). *Simbolo de la fe, en lengua y letra China (Hsin k’an ke wu ch’iung li pien lan*). Binondoc: Pedro de Vera. Retrieved from Österreichische Nationalbibliothek website.
 
