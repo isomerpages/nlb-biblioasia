@@ -135,30 +135,6 @@ Many of the changes that Malay wedding customs have undergone in Singapore are r
 
 Inevitably, customs and traditions will evolve in response to social and economic changes. As new norms and new expectations develop, Malay wedding customs will also evolve in tandem.
 
-|**BUNGA TELUR**|
-
-|Wedding favours are known as *berkat kahwin* or *berkat pengantin*. Traditionally, guests at Malay weddings are given a *bunga telur* (literally a “flower egg”) as a token of appreciation. A *bunga telur* comprises a red hard boiled egg resting on top of a bed of *pulut kunyit* (yellow glutinous rice) in a glass decorated with flowers, hence its name.[^35]|
-
-|Each part of the *bunga telur* has a special meaning. The egg symbolises fertility and prosperity. The yellow glutinous rice represents harmony, honesty and royalty – referring to the bride and groom, who are regarded as royals for the day – while the flower signifies love in their marriage.[^36]|
-
-|In the past, the making of the *bunga telur* was an opportunity for family members, neighbours and friends to lend a helping hand with the various tasks involved, such as boiling the eggs, steaming the glutinous rice, colouring the eggs and decorating with the flowers.[^37]|
-
-|These days however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the *bunga telur*.[^38]|
-
-|**BRIDAL OUTFITS AND THE MAK ANDAM**|
-
-|The world of fashion is one of constant change and wedding outfits are no exception. Between the 1950s and 1990s, popular outfit choices for the *bersanding* ceremony were the traditional *baju kurung* or *kebaya* for women and the *baju Melayu* for men, made from fabrics such as traditional *songket*25,  brocade or velvet. These outfits were intricately embroidered and embellished with sequins and beadings. An elaborate *sanggul* (metal headdress) for the bride and a *tanjak* (headgear) and *keris* (dagger) for the groom completed the attire.[^39]|
-
-|Although many brides today still opt for the classic *songket* fabric for their attire, the *baju kurung* or *kebaya* styles in which they are sewn into have been given a more contemporary spin to keep pace with current sartorial trends. Some brides also choose to commission bespoke one-of-a-kind *songket* outfits instead of renting from bridal houses. It is also common for brides to wear outfits inspired by the Western wedding gowns using fabrics such as chiffon, satin and lace, while grooms don formal Western suits.[^40]| 
-
-|Another change has been to the role of the *mak andam*, who has one of the more important jobs during a Malay wedding. In addition to doing the bridal makeup, the *mak andam* is the de facto protocol guide of a traditional Malay wedding. On the big day, it is the job of the *mak andam* to guide the bride and groom during the many ceremonies.[^41]|
-
-|Today, however, the *mak andam* has been relegated to a less important role. In a 2017 television interview, Malay dance pioneer and Cultural Medallion recipient Som Said said:|
-
-|“… kalau you dah istilahnya dah jadi mak andam, you bukan hanya menyiapkan pengantin tu sahaja. Peradaban, the protocol, bila nak salam, bila nak ini [itu], semua sudah harus tahu. Jadi [it] is not that dulu-dulu orang tanya, you nak kahwin eh, Mak andamnya siapa? Oh, straightaway people tahu, oh, ini tatasusila nya bagus. Tapi sekarang tidak. Who is the mak andam? Oh it is about the dressing, it is about the look?”[^42]|
-
-|(Translation: … if you are a *mak andam*, your duties will extend beyond just dolling up the bride. You will have to know the various cultural traditions, protocols and rites. Previously, when people ask which *mak andam* you picked, they would go oh, this *mak andam* has very good mannerisms and adherence to traditions. Whereas nowadays, when people ask who is the *mak andam*, they are comparing how stylish the makeup and outfits are.)|
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-2/authors/Nadya-Suradi.png" style="width: 100px; height: 100px;" />
