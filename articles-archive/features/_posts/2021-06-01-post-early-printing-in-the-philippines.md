@@ -20,12 +20,12 @@ table {
 
 The spread of printing in Southeast Asia is closely intertwined with European colonisation and the arrival of missionaries in the region from the 16th century onwards. While the time-honoured art of woodblock printing (known also as xylography) had been used in Vietnam as early as the 11th century,[^1] book printing was unknown in the rest of Southeast Asia where oral and manuscript traditions had existed for centuries.[^2] The emergence of a print culture in the Philippines is particularly fascinating as it chronicles the transnational and cross-cultural transfer of printing knowledge among the Europeans, the Chinese and indigenous Filipinos within colonial Filipino society and economy.
 
-##### Beginnings of Printing in the Philippines
+##### **Beginnings of Printing in the Philippines**
 According to the earliest written accounts of the history of the country, pre-colonial Philippines was a literate society with an indigenous writing system. In Relación de las Islas Filipinas (1604), one of the earliest works about the Philippines and its people, Spanish Jesuit priest and historian Pedro Chirino wrote: “All these islanders are much given to reading and writing and there is hardly a man, and much less a woman, who does not read and write in the letters used in the island of Manila.”[^3] These writings were inscribed on perishable materials such as tree bark, leaves and bamboo tubes.[^4] 
 
 Printing came on the heels of the spread of Christianity and Spanish colonisation during the 16th century. Although the beginnings of the first printing press in Philippines are obscure, most scholars agree that the Dominicans, a Roman Catholic order, were the first to start printing in the Philippines. Much of the early printed literature in the Philippines consisted of catechism and language instructional texts published by various Catholic religious orders operating in the Philippines such as the Franciscans, the Jesuits and the Augustinians.[^5] 
 
-##### Oldest Known Book Printed in the Philippines
+##### **Oldest Known Book Printed in the Philippines**
 The Doctrina Christiana (Christian Doctrine) is widely accepted as the oldest surviving book printed in the Philippines. This publication of Catholic teachings was printed in 1593 using the xylographic method in two editions. The version in Spanish-Tagalog was written for the local Filipino population and is attributed to Franciscan friar Juan de Plasencia, whose translation was approved by the diocesan synod in 1582. The second was produced in Chinese for the conversion of the Chinese community in the Parián,[^6]  a commercial enclave of Manila. 
 
 In a letter from the governor-general of the Philippines, Gómez Pérez Dasmariñas, to King Philip II of Spain dated 20 June 1593, Dasmariñas wrote that because of the existing great need, “he had granted a licence for the printing of the Doctrinas Christianas, herewith enclosed – one in the Tagalog language, which is the native and best of these islands, and the other in Chinese – from which I hope great benefits will result in the conversion and instruction of the peoples of both nations; and because the lands of the Indies are on a larger scale in everything and things more expensive, I have set the price of them at four reales a piece, until Your Majesty is pleased to decree in full what is to be done”.[^7]  
@@ -48,7 +48,7 @@ As for the copy in the Vatican Library, its provenance remains uncertain. One vi
 
 This view has been challenged by others who place the publication in the early 1600s based on studies of its linguistic and physical characteristics. Although its history cannot be conclusively determined, the identification of its printer, Keng Yong, throws a spotlight on the role that Chinese printers played in the development of early printing in the Philippines.[^12]
 
-##### Contributions of Early Chinese Printers
+##### **Contributions of Early Chinese Printers**
 known only by their baptismal names, were two early Chinese Christian printers involved in some of the earliest imprints found in the Philippines. Under the auspices of Francisco Blancas de San José, a Dominican priest, the first typographical press was set up by Juan de Vera in the Chinese settlement of Binondo. 
 
 In his ecclesiastical history of the Philippines, Dominican friar Diego Aduarte noted that Francisco Blancas de San José had written many books of devotion, and “since there was no printing in these islands, and no one who understood it or who was a journeyman printer, he planned to have it done through a Chinaman, a good Christian, who, seeing that the books of P. Fr. Francisco were sure to be of great use, bestowed so much care upon this undertaking that he finally succeeded, aided by those who told him whatever they knew about it, in learning everything necessary to do printing; and he printed these books”.[^13] 
@@ -69,7 +69,7 @@ He used the same approach in another work printed in 1607, Simbolo de la Fe, en 
 
 This expository guide, composed by Dominican friar Tomás Mayor (哆媽氏), was an adaptation of Luis de Granada’s Introducción del Símbolo de la Fe (Introduction of the Symbol of Faith). Copies of Mayor’s work can be found in the Jesuit Archives in Rome, the Austrian National Library and the Leiden University Library in the Netherlands. According to the Latin inscription on one of the copies in the Jesuit Archives, the book was subsequently suspended and expurgated from circulation due to its many errors.[^20]
 
-##### The First Filipino Printer
+##### **The First Filipino Printer**
 From the early 17th century, the influence of Chinese printers began to wane as a generation of local Filipino printers emerged. Foremost among them was Tomás Pinpin, who is credited as the first Filipino printer and typesetter.[^21] Today, his name is enshrined throughout the Philippines – such as the Limbagang Pinpin Museum in Abucay, Tomas Pinpin Street in Manila and an early 20th-century Tomás Pinpin obelisk that stands at the Plaza San Lorenzo Ruiz in Manila.[^22]
 
 Pinpin was a printer and writer from Abucay, a municipality in the province of Bataan. It is commonly believed that he had learnt to print from an apprenticeship with Chinese artisans and/or Francisco Blancas de San José, who set up the first movable type press in Binondo with Juan de Vera. 
@@ -84,7 +84,7 @@ In 1637, Pinpin also published the booklet Sucessos Felices (Fortunate Events). 
 
 It has been estimated that between 1563 and 1640, some 100 books were published in the Philippines.[^24]
 
-##### Later Developments
+##### **Later Developments**
 For much of the period between the 16th and 18th centuries, religious presses dominated the landscape of printing and publishing in the Philippines until the proliferation of the secular press in the 19th century – signalling a maturation of the printing and publishing industry in the country. 
 
 The first newspaper published in the Philippines, Gaceta del Superior Gobierno (Gazette of the High Government), made its debut on 8 August 1811. Edited by the governor-general of the Philippines, Mariano Fernández de Folgueras, the Spanish-language newspaper focused on political news in Europe that affected Spain, principally the Napoleonic Wars. However, the newspaper was not published regularly. It ceased publication after just 15 issues, with the last edition released on 7 February 1812. 
