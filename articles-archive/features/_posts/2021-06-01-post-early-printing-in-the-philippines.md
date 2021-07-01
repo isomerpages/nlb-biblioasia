@@ -97,6 +97,14 @@ Another firm, Cacho Hermanos, which started as a printing shop set up in 1880 by
 
 In 1901, the Bureau of Printing (today’s National Printing Office) was created to take charge of all routine government printing jobs such as government gazettes, official reports and communication materials. The emergence of commercial and government printing sets the stage for the next phase of the history of printing and publishing in the Philippines as Spanish colonial rule drew to a close, to be replaced by another colonial master, the United States, in the early 20th century. 
 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-4/authors/Gracie.png" style="width: 100px; height: 100px;" />
+<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
+</div>
+
+
 #### NOTES
 [^1]: Kornicki, P.F. (2018). *Languages, scripts, and Chinese texts in East Asia* (p. 117). Oxford: Oxford University Press. (Not available in NLB holdings)
 
