@@ -135,7 +135,7 @@ Many of the changes that Malay wedding customs have undergone in Singapore are r
 
 Inevitably, customs and traditions will evolve in response to social and economic changes. As new norms and new expectations develop, Malay wedding customs will also evolve in tandem.
 
-|*BUNGA TELUR*|
+|**BUNGA TELUR**|
 
 |Wedding favours are known as *berkat kahwin* or *berkat pengantin*. Traditionally, guests at Malay weddings are given a *bunga telur* (literally a “flower egg”) as a token of appreciation. A *bunga telur* comprises a red hard boiled egg resting on top of a bed of *pulut kunyit* (yellow glutinous rice) in a glass decorated with flowers, hence its name.[^35]|
 
@@ -145,7 +145,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 |These days however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the *bunga telur*.[^38]|
 
-|*BRIDAL OUTFITS AND THE MAK ANDAM*|
+|**BRIDAL OUTFITS AND THE MAK ANDAM**|
 
 |The world of fashion is one of constant change and wedding outfits are no exception. Between the 1950s and 1990s, popular outfit choices for the *bersanding* ceremony were the traditional *baju kurung* or *kebaya* for women and the *baju Melayu* for men, made from fabrics such as traditional *songket*,[^39]  brocade or velvet. These outfits were intricately embroidered and embellished with sequins and beadings. An elaborate *sanggul* (metal headdress) for the bride and a *tanjak* (headgear) and *keris* (dagger) for the groom completed the attire.[^40]|
 
