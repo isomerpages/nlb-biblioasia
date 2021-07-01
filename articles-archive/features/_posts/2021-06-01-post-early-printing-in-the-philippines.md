@@ -121,7 +121,7 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
  
   [^11]: [Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Menegon, E. (2009). *[Ancestors, virgins, & friars: Christianity as a local religion in late Imperial China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140)* (p. 52). Cambridge, Mass.: Harvard University Asia Center for the Harvard-Yenching Institute. (Call no.: R 275.1245 MEN); Chan, A. (1989). A note on the Shih-lu of Juan Cobo. *Philippines Studies*, 37 (4), 479–487. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Van der Loon, 1966–1967, p. 4
 	
-  [^12]: 	[Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Van der Loon, 1966–67, pp. 1–25; University of Michigan Library. (n.d.). *Missionary writing*. Retrieved from University of Michigan Library website.
+[^12]: 	[Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Van der Loon, 1966–67, pp. 1–25; University of Michigan Library. (n.d.). *Missionary writing*. Retrieved from University of Michigan Library website.
 
 [^13]: Wolf, 1947.
 	
