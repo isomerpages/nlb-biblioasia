@@ -122,5 +122,17 @@ R q070.509599 HIS)
  
   [^11]: [Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Menegon, E. (2009). *[Ancestors, virgins, & friars: Christianity as a local religion in late Imperial China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140)* (p. 52). Cambridge, Mass.: Harvard University Asia Center for the Harvard-Yenching Institute. (Call no.: R 275.1245 MEN); Chan, A. (1989). A note on the Shih-lu of Juan Cobo. *Philippines Studies*, 37 (4), 479–487. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Van der Loon, 1966–1967, p. 4
 	
+  [^12]: 	[Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Van der Loon, 1966–67, pp. 1–25; University of Michigan Library. (n.d.). *Missionary writing*. Retrieved from University of Michigan Library website. 
 	
- 
+[^13]: Wolf, 1947.
+	
+[^14]: Wolf, 1947.
+	
+[^15]: Wolf, 1947; Van der Loon, 1966–67, pp. 25–28. 
+
+[^16]: Van der Loon, 1966–67, pp. 25–28; Vallejo, n.d.; Lent, J.A. (1980). The missionary press of Asia, 1550–1860. *Communicatio Socialis*, 14 (2), 119–141, p. 120. Retrieved from Nomos eLibrary website.
+
+[^17]: A mendicant is a member of any of several Roman Catholic religious orders who assumes a vow of poverty and supports himself or herself by work and charitable contributions. 
+
+[^18]: Van der Loon, 1966–67, pp. 25–28; De la Costa, H. (1955, June). A first printing. *Philippine Studies*, 3 (2), 214–216. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
