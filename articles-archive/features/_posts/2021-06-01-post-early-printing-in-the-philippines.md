@@ -99,3 +99,5 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 
 #### NOTES
 [^1]: Kornicki, P.F. (2018). *Languages, scripts, and Chinese texts in East Asia* (p. 117). Oxford: Oxford University Press. (Not available in NLB holdings)
+
+[^2]: Suarez, M.F., & Woudhuysen, H.R. (Eds.). (2013).  *[The book: A global history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200774186)* (pp. 624–625, 631–632). Oxford: Oxford University Press. (Call no.: 002.09 BOO) 
