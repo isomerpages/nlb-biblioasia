@@ -105,3 +105,6 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 [^3]: Wolf, E. (1947). *Doctrina Christiana: The first book printed in the Philippines, Manila, 1593*. Retrieved from Project Gutenberg website.
 
 [^4]: Buhain, D.D. (1998).  *[A history of publishing in the Philippines](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141)* (p. 2). [Quezon City]: D.D. Buhain. (Call no.: R q070.509599 HIS)
+
+[^5]: Vallejo, R.M. (n.d.). *Books and bookmaking in the Philippines*. Retrieved from the National Commission for Culture and Arts (Republic of the Philippines, Office of the President) website; [Suarez & Woudhuysen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200774186), 2013, p. 112. 
+
