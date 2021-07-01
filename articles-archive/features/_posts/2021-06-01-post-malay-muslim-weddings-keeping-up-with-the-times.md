@@ -31,7 +31,7 @@ Economic growth and increased modernisation since Singapore’s independence hav
 
 In addition, a growing awareness of what constitutes Islamic practice has resulted in certain customs and rituals being abandoned because these have been deemed as non-Islamic.
 
-##### Changing Times
+##### **Changing Times**
 Malay weddings incorporate both Islamic practices as well as customs that are specific to Malay culture.[^3] In Singapore today, the core ceremonies are the *nikah* (the solemnisation), *walimah* (the communal wedding feast), *bersanding* (sitting-in-state during the walimah) and bertandang (the ceremony to welcome the bride/in-laws). All of these have changed over the last 50 or 60 years, both in ways large and small.
 
 Among these ceremonies, *nikah* is the only religious obligation stipulated by Islam. Traditionally, it takes place the day before *walimah* and *bersanding*. An intimate affair attended by close family members and friends, the solemnisation ceremony is held at the bride’s residence or at a reception venue. A religious official, known as the *tok kadi*, officiates and oversees the proceedings and also issues the marriage certificate.[^4] 
@@ -79,7 +79,7 @@ In recent years, one-stop wedding services that provide the wedding venue itself
 
 The types of entertainment for wedding guests have also changed. Until the 1980s, it was common to have performances such as *kuda kepang* (a Javanese dance in which performers straddle wooden hobby horses and enter a trance-like state), *silat* martial arts demonstrations, and traditional orchestras and bands playing live music of various genres. The latter would include popular and traditional Malay music such as *zapin*, *masri*, *inang*, *joget* and *dondang sayang*, as well as Hindi and English songs. There were even *joget lambak* (traditional mass dancing) sessions. These days, however, the scaled-down entertainment usually consists of just deejays spinning music.[^17]
 
-#### Bersanding Ceremony
+#### **Bersanding Ceremony**
 The sound of the *kompang*, sometimes referred to as *rebana*, and a troupe singing along to the beating drums, signals the arrival of the groom and his entourage. Flanked by his *pengapit* (groomsmen), the groom begins a processional march known as *berarak*.  
 
 Accompanying him are two men carrying the *bunga manggar* (palm blossoms made from tinsel paper). The bride awaits on the bridal dais, her face shielded by a fan held by the *mak andam* (the makeup artist-cum-lady-in-waiting).[^18]
@@ -100,7 +100,7 @@ The final *hadang* takes place at the bridal dais itself, this time between the 
 
 |**BRIDAL OUTFITS AND THE MAK ANDAM**|
 
-|The world of fashion is one of constant change and wedding outfits are no exception. Between the 1950s and 1990s, popular outfit choices for the bersanding ceremony were the traditional *baju kurung* or *kebaya* for women and the *baju Melayu* for men, made from fabrics such as traditional *songket*25,  brocade or velvet. These outfits were intricately embroidered and embellished with sequins and beadings. An elaborate *sanggul* (metal headdress) for the bride and a *tanjak* (headgear) and *keris* (dagger) for the groom completed the attire.26|
+|The world of fashion is one of constant change and wedding outfits are no exception. Between the 1950s and 1990s, popular outfit choices for the *bersanding* ceremony were the traditional *baju kurung* or *kebaya* for women and the *baju Melayu* for men, made from fabrics such as traditional *songket*25,  brocade or velvet. These outfits were intricately embroidered and embellished with sequins and beadings. An elaborate *sanggul* (metal headdress) for the bride and a *tanjak* (headgear) and *keris* (dagger) for the groom completed the attire.26|
 
 |Although many brides today still opt for the classic *songket* fabric for their attire, the *baju kurung* or *kebaya* styles in which they are sewn into have been given a more contemporary spin to keep pace with current sartorial trends. Some brides also choose to commission bespoke one-of-a-kind *songket* outfits instead of renting from bridal houses. It is also common for brides to wear outfits inspired by the Western wedding gowns using fabrics such as chiffon, satin and lace, while grooms don formal Western suits.27| 
 
@@ -129,7 +129,7 @@ Back when Malays largely lived in kampongs, weddings typically spanned a week, f
 
 (Translation: If we want to talk about the present, what is left is just the *nikah* and *bersanding* ceremonies. Simple and practical due to time constraints… A lot have been done away with. Many aspects of the Malay traditions have been removed, not only in the ceremony but also in traditions, equipment, preparation… those that are not necessary are no longer practised.)
 
-#### Berinai Ceremonies 
+#### **Berinai Ceremonies** 
 A tradition that used to be a major part of Malay weddings, but is rarely observed in Singapore today, is the *berinai* comprising three ceremonies: *berinai curi* (curi means “steal” in Malay), *berinai kechil* (small henna ceremony) and *berinai besar* (big henna ceremony). The traditional *tepung tawar* (blessing ritual) was the central element in all three *berinai* ceremonies. 
 
 The *berinai curi* and *berinai kechil* ceremonies would take place before the solemnisation.[^25] *Berinai curi* was organised for the bride and involved her female relatives and close female friends. During this ceremony, the bridal party would perform the *tepung tawar* for the bride before applying henna on her hands and feet. It is traditionally held without the knowledge and consent of the groom’s side, hence the name *berinai curi*, and usually takes place two days before the *nikah*, in the evening.[^26]
@@ -139,7 +139,7 @@ The *berinai besar* ceremony, on the other hand, would be held right after the s
 
 However, all three *berinai* ceremonies are rarely conducted today, partly due to the costs and time involved. The *berinai curi* and the *berinai kecil* fell out of favour first, by the 1980s, only the *berinai besar* was commonly performed.[^29] This last ceremony, too, eventually disappeared by around the early 2000s.[^30]
 
-#### Stricter Adherence to Islam
+#### **Stricter Adherence to Islam**
 One of the key drivers of change has been a greater understanding and awareness of Islamic obligations. Rituals that are deemed *haram*, or forbidden under Islam, have been jettisoned. An example of this is the almost complete disappearance of the *tepung tawar* blessing ceremony because of its purported Hindu origins. 
 
 During *tepung tawar*, the person officiating the blessing first sprinkles rose water and yellow rice on the newlyweds and then dots henna as well as rice flour mixed with water on their palms. A groomsman or bridesmaid wipes away the henna, while the person offering the blessing ends the ceremony by lightly touching an egg to the noses of the couple. During the *berinai besar* ceremony, the officiator would be presented with a flower from the *pulut pahar* (a floral bouquet made of yellow glutinous rice, flowers and hard boiled eggs) as a token of appreciation.[^31]
@@ -154,7 +154,7 @@ The aforementioned Javanese *kuda kepang* dance, which used to be a popular form
 
 In Singapore, the dance was commonly performed at Malay weddings in the 1970s and early 80s. Dancers would enter into a trance and perform feats like peeling coconut husks using their teeth, chewing or eating glass, and drinking buckets of water. However, in 1979, Majlis Agama Islam Singapura (Islamic Religious Council of Singapore) advised that the trance elements of *kuda kepang* contravened the tenets of Islam and urged Muslims to avoid such performances.[^33] As a result, the practice has died out.
 
-#### Not Just Singapore
+#### **Not Just Singapore**
 Many of the changes that Malay wedding customs have undergone in Singapore are replicated in cities like Kuala Lumpur. The makeshift tents in front of houses for the wedding feast (itself an adaptation from the communal space in a kampong) and the *gotong royong* spirit in preparing for the wedding ceremony and reception have given way to catered events at banquet halls or hotel ballrooms. Elaborate and time-consuming ceremonies have also been simplified. And, like bridal couples in Singapore, Malaysian couples are also opting for themed weddings with wedding planners helping to organise their big do, although the *tepung tawar* ritual is still practised in Malaysia.[^34]
 
 Inevitably, customs and traditions will evolve in response to social and economic changes. As new norms and new expectations develop, Malay wedding customs will also evolve in tandem.
@@ -177,7 +177,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 #### NOTES
 [^1]: A. Kadir Pandi. (1986, March 26). [Kain songket lambang budaya kita](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860326-1.2.62.8.2). *The Straits Times*, p. 5; Zakaria Buang. (1982, November 29). [Pakaian pengantin tradisional](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19811129-1.2.20). *Berita Minggu*, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. *Wacana Seni Journal of Arts Discourse, 15*, 63–94. Retrieved from ResearchGate website.
 
-[^2]: Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. *Sekata*. 1 (11), 1–8. Retrieved from National Institute of Education website.
+[^2]: Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. *Sekata. 1* (11), 1–8. Retrieved from National Institute of Education website.
 
 [^3]: Amran Kasimin. (2002). *[Perkahwinan Melayu](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11713807)* (pp. 84–85). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay R q392.509595 AMR-[CUS]); Hidayah Amin. (2014). *[Malay weddings don’t cost $50 and other facts about Malay culture](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931)* (p. 97). Singapore: Helang Books. (Call no.: RSING 305.8992805957 HID)
 
@@ -231,9 +231,9 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^28]: [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, p. 40.
 
-[^29]: [Adat perkahwinan banyak berubah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830901-1.2.172.6.3). (1983, September 1). The Straits Times, p. 4; [Dua ‘pencurian’ dalam berinai curi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880324-1.2.61.8.2). (1988, March 24). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^29]: [Adat perkahwinan banyak berubah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830901-1.2.172.6.3). (1983, September 1). *The Straits Times*, p. 4; [Dua ‘pencurian’ dalam berinai curi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880324-1.2.61.8.2). (1988, March 24). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^30]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 248; [Berinai di pelamin: Adat perkahwinan orang Melayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20060305-1.2.11.9). (2006, March 5). Berita Harian, p. 11. Retrieved from NewspaperSG.
+[^30]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 248; [Berinai di pelamin: Adat perkahwinan orang Melayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20060305-1.2.11.9). (2006, March 5). *Berita Harian*, p. 11. Retrieved from NewspaperSG.
 
 [^31]: The *pulut pahar* is a floral bouquet comprising a base of *pulut kuning* (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the *pulut kuning* is absent, the arrangement is known as *bunga telur*. The *pulut pahar*, which is distributed to those attending the *tepung tawar* ceremony, is not to be confused with the *bunga telur* given to all guests at the wedding reception. In the past, half of the *bunga pahar* or *bunga telur* would be given to the *mak andam* (makeup artist-cum-lady-in-waiting). See [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 275–276.
 
