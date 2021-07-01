@@ -109,6 +109,18 @@ R q070.509599 HIS)
 
 [^5]: Vallejo, R.M. (n.d.). *Books and bookmaking in the Philippines*. Retrieved from the National Commission for Culture and Arts (Republic of the Philippines, Office of the President) website; [Suarez & Woudhuysen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200774186), 2013, p. 112.
 
-
 [^6]: The Parián was an area built to house Chinese merchants in Manila in the 16th and 17th centuries during the Spanish colonial period. It quickly became the commercial centre of Manila comprising the Chinese silk market and other small shops of tailors, cobblers, painters, bakers, confectioners, candle makers, silversmiths, apothecaries and other tradesmen. 
 
+[^7]: Wolf, 1947. 
+
+[^8]: Wolf, 1947; Quirino, C. (1973). Foreword (pp. iii–xi). In *[Doctrina Christiana: The first book printed in the Philippines, Manila, 1593](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4085587)*. Manila: National Historical Commission. (Call no.: RSEA 094.4 DOC); Blair, E.H., Robertson, J.A., & Bourne, E.G. (1903–09). *[The Philippine islands, 1493–1803](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2665204)* (Vol. 5; p. 272). Cleveland, A.H. Clark Co. (Call no.: RSEA 959.902 BLA).
+
+[^9]: [Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Wolf, 1947; Van der Loon, P. (1966–67). *The Manila incunabula and early Hokkien studies* (pp. 1–25) London: P. Lund, Humphries. Retrieved from Institute of History and Philology, Academia Sinica website.
+
+ [^10]: Van der Loon, 1966–67, p. 6
+ 
+ 
+  [^11]: [Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Menegon, E. (2009). *[Ancestors, virgins, & friars: Christianity as a local religion in late Imperial China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140)* (p. 52). Cambridge, Mass.: Harvard University Asia Center for the Harvard-Yenching Institute. (Call no.: R 275.1245 MEN); Chan, A. (1989). A note on the Shih-lu of Juan Cobo. *Philippines Studies*, 37 (4), 479–487. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Van der Loon, 1966–1967, p. 4
+	
+	
+ 
