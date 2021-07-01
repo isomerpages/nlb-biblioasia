@@ -100,11 +100,15 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 #### NOTES
 [^1]: Kornicki, P.F. (2018). *Languages, scripts, and Chinese texts in East Asia* (p. 117). Oxford: Oxford University Press. (Not available in NLB holdings)
 
-[^2]: Suarez, M.F., & Woudhuysen, H.R. (Eds.). (2013).  *[The book: A global history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200774186)* (pp. 624–625, 631–632). Oxford: Oxford University Press. (Call no.: 002.09 BOO)
+[^2]: Suarez, M.F., & Woudhuysen, H.R. (Eds.). (2013). *[The book: A global history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200774186)* (pp. 624–625, 631–632). Oxford: Oxford University Press. (Call no.: 002.09 BOO) 
 
 [^3]: Wolf, E. (1947). *Doctrina Christiana: The first book printed in the Philippines, Manila, 1593*. Retrieved from Project Gutenberg website.
 
-[^4]: Buhain, D.D. (1998).  *[A history of publishing in the Philippines](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141)* (p. 2). [Quezon City]: D.D. Buhain. (Call no.: R q070.509599 HIS)
+[^4]: Buhain, D.D. (1998). *[A history of publishing in the Philippines](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141)* (p. 2). [Quezon City]: D.D. Buhain. (Call no.: 
+R q070.509599 HIS)
 
-[^5]: Vallejo, R.M. (n.d.). *Books and bookmaking in the Philippines*. Retrieved from the National Commission for Culture and Arts (Republic of the Philippines, Office of the President) website; [Suarez & Woudhuysen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200774186), 2013, p. 112. 
+[^5]: Vallejo, R.M. (n.d.). *Books and bookmaking in the Philippines*. Retrieved from the National Commission for Culture and Arts (Republic of the Philippines, Office of the President) website; [Suarez & Woudhuysen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200774186), 2013, p. 112.
+
+
+[^6]: The Parián was an area built to house Chinese merchants in Manila in the 16th and 17th centuries during the Spanish colonial period. It quickly became the commercial centre of Manila comprising the Chinese silk market and other small shops of tailors, cobblers, painters, bakers, confectioners, candle makers, silversmiths, apothecaries and other tradesmen. 
 
