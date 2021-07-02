@@ -211,3 +211,13 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 [^44]: [An all-out war on hepatitis B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830803-1.2.2). (1983, August 3). *The Straits Times*, p. 1; Lim, J. (1983, August 3). [Plan for mass immunisation against hepatitis B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19830803-1.2.9). *The Business Times*, p. 1; Wong, K.L. (1985, October 29). [No mass vaccination against hepatitis B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851029-1.2.43.6). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
 [^45]: Kong, S.C. (1987, August 2). [Low-cost anti-hepatitis B jabs for newborns](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870802-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+
+[^46]: Ministry of Information, Communications and the Arts. (2000, October 21). Speech by Mr Chan Soo Sen, parliamentary secretary (Prime Minister’s Office & Ministry of Health), at the international hepatitis B awareness weekend opening ceremony on Saturday, 21 Oct 2000 at Great world city [Speech]. Retrieved from National Archives Singapore website. 
+
+[^47]: Tan, K. (2001, November 8). Benefits of vaccine outweigh risks. The Straits Times, p. 18; Oon, C.J. (2009, November 7). Hepatitis vaccination: It began in Singapore. The Straits Times, p. 107; Oon, C.J., & Kwek, K. (2011). A cancer vaccine that transformed Singapore and the world: The battle against hepatitis B (pp. 8, 54). Singapore: Straits Times Press Reference. (Call no.: RSING 614.593623 OON); World Health Organization. (2001). Hepatitis B immunization: Introducing hepatitis B vaccine into national immunization services. Retrieved from World Health Organization IRIS website.
+
+[^48]: Ministry of Health Singapore. (2021, June 14). Vaccination data. Retrieved from Ministry of Health website.
+
+[^49]: Chew, H.M. (2021, May 31). People who want alternative COVID-19 vaccines can get them under special access route. CNA. Retrieved from CNA website. 
+
+[^50]: Kurohi, R. (2021, May 31). 6 key announcements from PM Lee Hsien Loong’s address on Covid-19 plans. The Straits Times. Retrieved from The Straits Times website. 
