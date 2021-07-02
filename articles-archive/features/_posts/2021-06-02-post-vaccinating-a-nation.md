@@ -103,6 +103,14 @@ By 2000, more than 90 percent of infants had received the hepatitis B vaccinatio
 
 Since the introduction of the hepatitis B immunisation programme in Singapore, the annual incidence of acute hepatitis B infection has declined from eight cases per 100,000 population in 1987 to 3.6 per 100,000 population in 2000. The nation’s research findings and experience on implementing a national hepatitis B vaccination programme were shared internationally. In 2001, WHO also endorsed the long-term safety and effectiveness of the hepatitis B vaccine and recommended that it be implemented in all endemic countries and for all newborns.[^47]
 
+##### **Vaccinating Against Covid-19**
+As Singapore, and the world, struggles to contain the spread of Covid-19, vaccination has emerged as a key weapon in the fight. 
+Singapore has already begun vaccinating its population, having approved the emergency use of vaccines by Pfizer-BioNTech and Moderna. Vaccinations began in December 2020 and as at 14 June 2021, close to 2 million people have been fully vaccinated while 2.7 million have received at least one dose.[^48]
+
+On 31 May 2021, the government announced that vaccines that have been approved for emergency use by WHO against Covid-19 can also be used in Singapore as well. At the moment, the list includes the vaccines by Johnson & Johnson, Sinovac and Oxford-AstraZeneca. This move will increase the pool of vaccines available for use here.[^49]
+
+As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 2021, when a large proportion of Singapore’s population is vaccinated, more restrictions can be lifted safely and gradually so that a semblance of normal life can return even as the virus becomes endemic here. [^50]
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/authors/LeeMelyu.png" style="width: 100px; height: 100px;" />
