@@ -59,7 +59,36 @@ Students used to get booster jabs at age 12 or 16 but from 2001, this was discon
 TB remains a global public threat and is still endemic in Singapore, with a higher proportion of the elderly contracting the disease. In 2020, there were 1,370 new cases of active TB among Singapore residents, slightly lower than the 1,398 cases in 2019.
 
 ##### **Polio, Diphtheria, Measles and Rubella**
-At the end of World War II, Singapore found itself in anoth
+During the post-war period, Singapore also had to deal with poliomyelitis, or polio, a crippling and life-threatening disease caused by the poliovirus. The virus is highly contagious and can infect a person’s spinal cord resulting in paralysis and can even lead to death. Although the disease affects people of all ages, infants and children are particularly vulnerable.[^24]
+
+A major polio outbreak between August and December 1958 killed 12 and caused 404 infants and children to be crippled by the disease.[^25] As the number of polio cases continued to surge, there was added pressure on the government to act. Eventually, the Health Ministry decided to offer free polio vaccination on a voluntary basis to children between three months and 10 years old. 
+
+In roughly four weeks from November to December that year, over 200,000 children were immunised using the oral Sabin vaccine (named after its developer, Albert Bruce Sabin) in vaccination centres set up across the island.[^26] However, this did not stop another outbreak from happening just two years later which resulted in 196 cases of paralytic poliomyelitis.
+
+After the first outbreak, the government convened a committee to address the problem. The committee recommended vaccinating all children from birth to school entry age. The government approved the recommendation and the immunisation programme began with a mass campaign in 1962, when children up to 6 years old were vaccinated.
+
+This led to a significant decline in the incidence of paralytic polio and polio cases in the following decade.[^27] By 1975, a large segment of the population had been immunised. This reduced the circulation of the poliovirus among the community to such a low level that the chances of any person being infected and developing paralytic poliomyelitis had been “reduced to vanishing point”.[^28]
+
+Although Singapore was officially declared polio-free in 2000, vaccination against polio continued as the disease had not been eradicated worldwide. In 2019, some 1,000 Singapore athletes and officials headed to the Philippines for the SEA Games had to be vaccinated against polio when new cases of polio were reported in there, 19 years after the country had been declared free of polio.[^29]
+
+Another potentially dangerous disease is diphtheria. This infectious disease is caused by the Corynebacterium diphtheriae bacteria. Diphtheria patients experience common symptoms such as sore throat and fever but in severe cases, infection can lead to difficulty in breathing, heart failure, paralysis and even death.[^30] Vaccination against diphtheria was developed in the early 1920s and was introduced in Singapore before World War II. After the Japanese Occupation, the government offered free vaccinations against diphtheria and other diseases such as pertussis (also known as whooping cough).[^31]
+
+However, the response to the government’s voluntary immunisation programme was lukewarm. Despite having no diphtheria epidemics, the government decided to make diphtheria vaccination compulsory to reduced the number of increasing cases.
+In 1961, the Legislative Assembly passed the Diphtheria Immunisation Ordinance making immunisation against diphtheria compulsory for all children under the age of 1. Parents or guardians who failed to comply with the law would be liable to a fine not exceeding $500 for the first offence and $1,000 and/or jail of not more than a year for subsequent convictions. Free vaccination was offered at 27 maternal and child health care clinics.[^32]
+
+Today, diphtheria has been eradicated from Singapore although the disease is still endemic in many countries.[^33] In 2017, an isolated case of diphtheria occurred in Singapore in which a Bangladeshi construction worker died of diphtheria, the first local case in 25 years.[^34]
+
+By 1970, the Maternal and Child Health Services was providing a comprehensive programme of vaccination against tuberculosis, smallpox, poliomyelitis, diphtheria, whooping cough and tetanus through its network of 52 centres. In July that year, the government announced a new requirement that all children seeking admission to primary one in 1971 would have to be immunised against these infectious diseases.[^35]
+
+During the 1970s, due to frequent outbreaks of measles and rubella (also known as German measles), inoculation against these two diseases was introduced into the childhood vaccination programme.[^36]
+
+Measles is caused by the measles (rubeola) virus. Its symptoms include high fever, cough, watery eyes, and spots and rashes. However, measles is not just a little rash. It can be dangerous, especially for babies and young children as it can lead to serious complications such as pneumonia and encephalitis (inflammation of the brain).[^37]
+
+Rubella is caused by its namesake virus. Most people who are infected develop a mild illness, but as with measles, rubella can result in serious complications. It can cause infected pregnant women to miscarry or their babies to develop serious birth defects.[^38]
+
+Measles vaccination was introduced in October 1976, while rubella vaccination for female primary school leavers was introduced in November that year. However, many parents were still reluctant to vaccinate their children against measles because many held the traditional belief that it is good for children to get it since it rids the body of “heat” or “cold” that cause rashes.[^39]
+
+Vaccination against the disease became compulsory by law on 1 August 1985. In January 1990, the measles-mumps-rubella (MMR) vaccine replaced the single jabs for measles and rubella. Although the three-in-one vaccine was more expensive, Acting Minister for Health Yeo Cheow Tong said that “for the child, having one shot is better than having three shots”. This injection would be administered to infants who were at least a year old.[^40]
 
 <div style="background-color: white;">
 <br/>
