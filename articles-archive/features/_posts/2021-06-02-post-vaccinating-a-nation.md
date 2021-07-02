@@ -136,7 +136,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^7]: The Royal Jennerian Institute was named after Edward Jenner. Lee, Y.K. (1977, March). Smallpox in early Singapore. (Part III) (1850–59). *Singapore Medical Journal, 18* (1), 16–20, p. 16. Retrieved from Singapore Medical Association website.
 
-[^8]: Lee, Mar 1977, p. 16; Lee, Y.K. (1977, June). Smallpox in early Singapore. (Part IV) (1860–1872). Singapore Medical Journal, 18 (2), 126–135, pp. 126–127. Retrieved from Singapore Medical Association website.
+[^8]: Lee, Mar 1977, p. 16; Lee, Y.K. (1977, June). Smallpox in early Singapore. (Part IV) (1860–1872). *Singapore Medical Journal, 18* (2), 126–135, pp. 126–127. Retrieved from Singapore Medical Association website.
 
 [^9]: Lee, Jun 1977, p. 129.
 
