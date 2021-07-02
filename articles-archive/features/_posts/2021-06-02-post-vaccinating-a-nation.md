@@ -141,3 +141,9 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 [^9]: Lee, Jun 1977, p. 129.
 
 [^10]: The Vaccination Ordinance (No. 19 of 1868) was supplanted by the Quarantine and Prevention of Disease Ordinance (No. 33 of 1915) See Srinivasagam, E. (1972). *Tables of the written laws of the Republic of Singapore, 1819–1971* (pp. 4, 40). Singapore: Malaya Law Review, University of Singapore. (Call no.: RSING q348.5957028 SRI)
+
+[^11]: Lee, Jun 1977, p. 132.
+
+[^12]: Smallpox jabs no more a must for kids. (1981, March 7). The Straits Times, p. 9; Smallpox vaccination papers not needed. (1981, March 7). The Business Times, p. 5. Retrieved from NewspaperSG. 
+
+[^13]: Centers for Disease Control and Prevention. (n.d.). Basic TB facts. Retrieved from Centers for Disease Control and Prevention website.
