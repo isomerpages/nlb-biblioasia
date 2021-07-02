@@ -140,7 +140,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^9]: Lee, Jun 1977, p. 129.
 
-[^10]: The Vaccination Ordinance (No. 19 of 1868) was supplanted by the Quarantine and Prevention of Disease Ordinance (No. 33 of 1915) See Srinivasagam, E. (1972). *Tables of the written laws of the Republic of Singapore, 1819–1971* (pp. 4, 40). Singapore: Malaya Law Review, University of Singapore. (Call no.: RSING q348.5957028 SRI)
+[^10]: The Vaccination Ordinance (No. 19 of 1868) was supplanted by the Quarantine and Prevention of Disease Ordinance (No. 33 of 1915) See Srinivasagam, E. (1972). *[Tables of the written laws of the Republic of Singapore, 1819–1971](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4184970)* (pp. 4, 40). Singapore: Malaya Law Review, University of Singapore. (Call no.: RSING q348.5957028 SRI)
 
 [^11]: Lee, Jun 1977, p. 132.
 
