@@ -167,3 +167,11 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 [^22]: Chew & Hu, Dec 1974, p. 241.
 
 [^23]: [Just one anti-TB jab from now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010628-1.2.29.3.1). (2001, June 28). *The Straits Times*, p. 21; [One TB jab at birth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20010628-1.2.8.3). (2001, June 28). *The New Paper*, p. 6. Retried from NewspaperSG
+
+[^24]: Centers for Diseases Control and Prevention. (n.d.). What is polio? Retrieved from Centers for Diseases Control and Prevention website; Ministry of Health. (n.d.). What all parents need to know about polio. Retrieved from Healthhub website.
+
+[^25]: Colony of Singapore. (1959). Annual report 1958 (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. Healthscope, 5, 7. (Call no. RSING 362.1095957 H)
+
+[^26]: Colony of Singapore, 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. Singapore Medical Journal, 18 (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
+
+[^27]: The number of paralytic polio cases went down from 78 cases in 1963 to four cases in 1968. In the subsequent years up to 1975, there were only five cases in total. Overall, the number of polio cases also decreased from 1,067 notified cases for the period 1954 to 1964 to 62 cases from 1965 to 1975. Not a single case was reported in 1969, 1970, 1974 and 1975. 
