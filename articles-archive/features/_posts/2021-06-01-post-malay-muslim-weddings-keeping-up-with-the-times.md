@@ -264,4 +264,4 @@ Inevitably, customs and traditions will evolve in response to social and economi
   
 [^42]: [Umur mak andam semakin muda](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870721-1.2.59.11.2). (1987, July 21). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^43]: Mediacorp News Group (2017, October 18). DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu. Retrieved from Berita Mediacorp website.
+[^43]: Mediacorp News Group (2017, October 18). *DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu*. Retrieved from Berita Mediacorp website.
