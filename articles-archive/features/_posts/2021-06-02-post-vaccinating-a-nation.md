@@ -7,7 +7,7 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/authors/LeeMelyu.png" style="width: 100px; height: 100px;" />
-<b>Lee Meiyu</b> is a Senior Librarian with the National Library, Singapore, managing the Rare Materials Collection. His research interest is in early Singapore publications.
+<b>Ong Eng Chuan</b> is a Senior Librarian with the National Library, Singapore, managing the Rare Materials Collection. His research interest is in early Singapore publications.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
