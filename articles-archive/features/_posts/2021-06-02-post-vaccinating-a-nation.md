@@ -122,7 +122,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 
 #### **NOTES**
-[^1]: Webb, J. (1979, November 26). World declared rid of smallpox. *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^1]: Webb, J. (1979, November 26). [World declared rid of smallpox](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791126-1.2.123.20). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
 [^2]: Centers for Disease Control and Prevention. (n.d.). *History of smallpox*. Retrieved from Centers for Disease Control and Prevention website.
 
