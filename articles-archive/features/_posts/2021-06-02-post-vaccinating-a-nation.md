@@ -170,7 +170,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^24]: Centers for Diseases Control and Prevention. (n.d.). *What is polio?* Retrieved from Centers for Diseases Control and Prevention website; Ministry of Health. (n.d.). *What all parents need to know about polio*. Retrieved from Healthhub website.
 
-[^25]: Colony of Singapore. (1959). *Annual report 1958* (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. *Healthscope*, 5, 7. (Call no. RSING 362.1095957 H)
+[^25]: Colony of Singapore. (1959). *[Annual report 1958](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)* (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. *Healthscope*, 5, 7. (Call no. RSING 362.1095957 H)
 
 [^26]: *Colony of Singapore*, 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. *Singapore Medical Journal*, 18 (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
 
