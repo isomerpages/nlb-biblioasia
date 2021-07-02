@@ -260,7 +260,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
  [^40]: Zakaria Buang. (1981, November 29). [Pakaian pengantin tradisional](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19811129-1.2.20). *Berita Minggu*, p. 3; Wan Jumaiah Mohd Jubri. (1996, September 28). [‘Biru, birulah… coklat, coklatlah… pengantin dulu memang tak kisah’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960928-1.2.43.2.13). *Berita Harian*, p. 10. Retrieved from NewspaperSG.
 	
-[^41]: [Pakaian tradisional terus jadi pilihan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19910927-1.2.19.3). (1991, September 27). *Berita Harian*, p. 12; Ismawati Ismail. (2012, January 21). [Majlis unik ‘lain daripada yang lain’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20120121-1.2.25.6). *Berita Harian*, p. 17; Fesyen selebriti jadi trend terbaru pengantin. (2013, December 29). *Berita Harian*, p. 19. Retrieved from NewspaperSG. 
+[^41]: [Pakaian tradisional terus jadi pilihan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19910927-1.2.19.3). (1991, September 27). *Berita Harian*, p. 12; Ismawati Ismail. (2012, January 21). [Majlis unik ‘lain daripada yang lain’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20120121-1.2.25.6). *Berita Harian*, p. 17; [Fesyen selebriti jadi trend terbaru pengantin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20131229-1.2.27.1.3). (2013, December 29). *Berita Harian*, p. 19. Retrieved from NewspaperSG. 
   
 [^42]: Umur mak andam semakin muda. (1987, July 21). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
