@@ -196,7 +196,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^37]: Centers for Disease Control and Prevention. (n.d.). *Rubella*. Retrieved from Centers for Disease Control and Prevention website; National Centre for Infectious Diseases. (n.d.). *Rubella*. Retrieved from National Centre for Infectious Diseases website.
 
-[^38]: Clinging to measle belief is rash act. (1980, April 17). *New Nation*, p. 5. Retrieved from NewspaperSG.
+[^38]: [Clinging to measle belief is rash act](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800417-1.2.21). (1980, April 17). *New Nation*, p. 5. Retrieved from NewspaperSG.
 
 [^39]: Measles vaccination a must. (1985, July 27). *The Straits Times*, p. 12; A three-in-one vaccine for infants. (1989, October 27). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
 
