@@ -165,3 +165,5 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 [^21]: [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561119-1.2.100), 19 Nov 1956, p. 7; [BCG vaccine for new-born babies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561201-1.2.65). (1956, December 1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^22]: Chew & Hu, Dec 1974, p. 241.
+
+[^23]: Just one anti-TB jab from now. (2001, June 28). *The Straits Times*, p. 21; One TB jab at birth. (2001, June 28). *The New Paper*, p. 6. Retried from NewspaperSG
