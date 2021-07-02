@@ -262,6 +262,6 @@ Inevitably, customs and traditions will evolve in response to social and economi
 	
 [^41]: [Pakaian tradisional terus jadi pilihan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19910927-1.2.19.3). (1991, September 27). *Berita Harian*, p. 12; Ismawati Ismail. (2012, January 21). [Majlis unik ‘lain daripada yang lain’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20120121-1.2.25.6). *Berita Harian*, p. 17; [Fesyen selebriti jadi trend terbaru pengantin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20131229-1.2.27.1.3). (2013, December 29). *Berita Harian*, p. 19. Retrieved from NewspaperSG. 
   
-[^42]: Umur mak andam semakin muda. (1987, July 21). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^42]: [Umur mak andam semakin muda](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870721-1.2.59.11.2). (1987, July 21). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^43]: Mediacorp News Group (2017, October 18). DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu. Retrieved from Berita Mediacorp website.
