@@ -193,3 +193,11 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 [^35]: Ministry of Culture. (1971). *[Singapore 1971](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183594)* (p. 196). Singapore: Ministry of Culture. (Call no.: RCLOS 959.57 SIN); [Jabs for primary one pupils in 1971](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700707-1.2.34). (1970, July 7). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 [^36]: For instance, in 1973, there were 600 hospital admissions and 11 deaths due to measles. In the case of rubella, the incidence rate was 8.5 per 100,000 deliveries at Kendang Kerbau Maternity Hospital during the period November 1969 to December 1971, with many developing complications and the more serious cases resulting in mental retardation. See Goh, K.T. (1985, June). The national childhood immunisation programmes in Singapore. *Singapore Medical Journal*, 26 (3), 225–242, p. 231. Retrieved from Singapore Medical Association website.
+
+[^37]: Centers for Disease Control and Prevention. (n.d.). Rubella. Retrieved from Centers for Disease Control and Prevention website; National Centre for Infectious Diseases. (n.d.). Rubella. Retrieved from National Centre for Infectious Diseases website.
+
+[^38]: Clinging to measle belief is rash act. (1980, April 17). New Nation, p. 5. Retrieved from NewspaperSG.
+
+[^39]: Measles vaccination a must. (1985, July 27). The Straits Times, p. 12; A three-in-one vaccine for infants. (1989, October 27). The Straits Times, p. 28. Retrieved from NewspaperSG.
+
+[^40]: Oon, C.J. (1979, November 7). Towards a cure for liver cancer. The Straits Times, p. 6. Retrieved from NewspaperSG.
