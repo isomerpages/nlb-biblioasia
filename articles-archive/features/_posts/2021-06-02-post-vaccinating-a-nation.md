@@ -178,7 +178,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^28]: Lee & Lim, Mar 1977, pp. 35, 37–38.
 
-[^29]: Wee, L. (2000, November 2). Singapore officially declared polio-free. *The Straits Times*, p. 42. Retrieved from NewspaperSG; Dancel, R. (2019, September 19). Polio, a menace eradicated in the Philippines 19 years ago, resurfaces. *The Straits Times*; Chia, N. (2019, November 24). Polio shots for Team S’pore athletes just before SEA Games. The Straits Times. Retrieved from The Straits Times website.
+[^29]: Wee, L. (2000, November 2). Singapore officially declared polio-free. *The Straits Times*, p. 42. Retrieved from NewspaperSG; Dancel, R. (2019, September 19). Polio, a menace eradicated in the Philippines 19 years ago, resurfaces. *The Straits Times*; Chia, N. (2019, November 24). Polio shots for Team S’pore athletes just before SEA Games. *The Straits Times*. Retrieved from The Straits Times website.
 
 [^30]: Centers for Disease Control and Prevention. (n.d.). Diphtheria. Retrieved from Centers for Disease Control and Prevention website.
 
