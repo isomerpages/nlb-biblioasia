@@ -40,7 +40,7 @@ At the end of World War II, Singapore found itself in another battle, this time 
 
 In the aftermath of the Japanese Occupation (1942–45), the incidence of tuberculosis increased sharply, especially among young children. It was the number one killer disease right up to the 1960s.[^14]
 
-The anti-tuberculosis vaccine, Bacillus Calmette-Guérin (BCG), had been developed by French scientists, Albert Calmette and Camille Guérin, in 1919. However, the vaccine only gained wider acceptance after studies began to appear in the 1940s providing evidence of its efficacy.[^15] 
+The anti-tuberculosis vaccine, *Bacillus Calmette-Guérin* (BCG), had been developed by French scientists, Albert Calmette and Camille Guérin, in 1919. However, the vaccine only gained wider acceptance after studies began to appear in the 1940s providing evidence of its efficacy.[^15] 
 
 The first large-scale BCG vaccination in Singapore was not carried out by government health authorities though. Instead, it was conducted by the Singapore Anti-Tuberculosis Association (SATA), a charity organisation. The idea of forming an organisation to fight TB had originated from a group of prisoners-of-war interned at Changi Prison and Sime Road Camp during the Japanese Occupation. Eventually, a group of doctors and philanthropists banded together to form SATA in 1947.[^16]
 
