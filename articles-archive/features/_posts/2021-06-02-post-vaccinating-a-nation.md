@@ -35,6 +35,25 @@ The latter legislation led to the Ordinance for Registration of Births and Death
 
 Smallpox continued to be a problem in Singapore up until the 1950s. After WHO declared the virus eradicated, Singapore amended the law so that from smallpox vaccination would no longer be required by law from March 1982.[^12]
 
+##### **BCG and the Battle Against Tuberculosis**
+At the end of World War II, Singapore found itself in another battle, this time against tuberculosis (TB). TB is an infectious disease caused by the Mycobacterium tuberculosis bacteria. There are two types of TB infections – latent TB infection and TB disease. People with the former show no symptoms and cannot spread the bacteria to others whereas people with the TB disease may spread the bacteria to others. If left untreated, TB can be fatal.13 
+In the aftermath of the Japanese Occupation (1942–45), the incidence of tuberculosis increased sharply, especially among young children. It was the number one killer disease right up to the 1960s.14
+The anti-tuberculosis vaccine, Bacillus Calmette-Guérin (BCG), had been developed by French scientists, Albert Calmette and Camille Guérin, in 1919. However, the vaccine only gained wider acceptance after studies began to appear in the 1940s providing evidence of its efficacy.15 
+The first large-scale BCG vaccination in Singapore was not carried out by government health authorities though. Instead, it was conducted by the Singapore Anti-Tuberculosis Association (SATA), a charity organisation. The idea of forming an organisation to fight TB had originated from a group of prisoners-of-war interned at Changi Prison and Sime Road Camp during the Japanese Occupation. Eventually, a group of doctors and philanthropists banded together to form SATA in 1947.16
+While government health officials were still reviewing the BCG vaccine, SATA, under its first medical director, G.H. Garlick, believed that providing children with protection against TB was an urgent task which could not wait.[^17]
+
+After obtaining a small consignment of the BCG vaccine from the Pasteur Institute in Paris, SATA launched its immunisation programme on 28 June 1949, with the vaccination of 21 children.[^18] As new consignments of the vaccine began to arrive more regularly, SATA ramped up its vaccination drive.[^19]
+
+Two years later, the government’s pilot BCG vaccination programme under the auspices of the United Nations International Children Emergency Fund (UNICEF) began. A UNICEF team started conducting tests on pupils of the Convent of the Holy Infant Jesus at Bras Basah Road in June 1951, with the aim of eventually vaccinating the majority of the 130,000 school children in Singapore within four months. That same year, inoculations of newborns began but these were discontinued in 1952 due to the “lack of staff to do follow-up work”.[^20] 
+
+By 1956, the Singapore government realised that administering the BCG vaccine to children at school entrance age was too late as statistics showed that many children had been infected even before starting school. In December that year, the Health Ministry announced that all babies in Singapore would be given the BCG vaccine soon after birth. SATA’s Garlick approved. “The younger a child is inoculated the better,” he said. “T.B. is so rife here that many children become infected at a very early age.”[^21]
+
+By 1972, after a period of 16 years, over one million vaccinations had been performed. It was estimated that more than 90 percent of infants and primary school students, and 75 percent of secondary school students had been inoculated against TB by 1972.[^22]
+
+Students used to get booster jabs at age 12 or 16 but from 2001, this was discontinued as there was no scientific evidence that this was effective.[^23]
+
+TB remains a global public threat and is still endemic in Singapore, with a higher proportion of the elderly contracting the disease. In 2020, there were 1,370 new cases of active TB among Singapore residents, slightly lower than the 1,398 cases in 2019. 
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/authors/LeeMelyu.png" style="width: 100px; height: 100px;" />
