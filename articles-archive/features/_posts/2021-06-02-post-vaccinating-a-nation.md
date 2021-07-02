@@ -188,7 +188,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^33]: National Centre for Infectious Diseases. (n.d.). *Diphtheria*. Retrieved from National Centre for Infectious Diseases website.
 
-[^34]: Seow, B.Y., & Lim, M.Z. (2017, August 6). [Foreign worker dies in first local diphtheria case in 25 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170806-1.2.5.1). *The Straits Times*, pp. 2/3; Choo, F. (2017, August 11). No evidence diphtheria has spread further, says MOH. *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^34]: Seow, B.Y., & Lim, M.Z. (2017, August 6). [Foreign worker dies in first local diphtheria case in 25 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170806-1.2.5.1). *The Straits Times*, pp. 2/3; Choo, F. (2017, August 11). [No evidence diphtheria has spread further, says MOH](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170811-1.2.9.15). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
 [^35]: Ministry of Culture. (1971). *Singapore 1971* (p. 196). Singapore: Ministry of Culture. (Call no.: RCLOS 959.57 SIN); Jabs for primary one pupils in 1971. (1970, July 7). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
