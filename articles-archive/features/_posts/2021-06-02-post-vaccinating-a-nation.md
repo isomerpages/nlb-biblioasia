@@ -183,3 +183,13 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 [^30]: Centers for Disease Control and Prevention. (n.d.). *Diphtheria*. Retrieved from Centers for Disease Control and Prevention website.
 
 [^31]: Blakemore, W. L. (1941). *[Diphtheria and its prevention by immunisation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5454865)*. Singapore: Government Printing Office. (Call no.: RRARE 616.931305 BLA; Accession no.: B03075172C); Lim, T.J. (1948, November 28). [War on diphtheria hots up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481128-1.2.48). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+
+[^32]: Diphtheria: Govt’s new measures. (1962, March 31). The Straits Times, p. f11. Retrieved from NewspaperSG.
+
+[^33]: National Centre for Infectious Diseases. (n.d.). Diphtheria. Retrieved from National Centre for Infectious Diseases website.
+
+[^34]: Seow, B.Y., & Lim, M.Z. (2017, August 6). Foreign worker dies in first local diphtheria case in 25 years. The Straits Times, pp. 2/3; Choo, F. (2017, August 11). No evidence diphtheria has spread further, says MOH. The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+[^35]: Ministry of Culture. (1971). Singapore 1971 (p. 196). Singapore: Ministry of Culture. (Call no.: RCLOS 959.57 SIN); Jabs for primary one pupils in 1971. (1970, July 7). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^36]: For instance, in 1973, there were 600 hospital admissions and 11 deaths due to measles. In the case of rubella, the incidence rate was 8.5 per 100,000 deliveries at Kendang Kerbau Maternity Hospital during the period November 1969 to December 1971, with many developing complications and the more serious cases resulting in mental retardation. See Goh, K.T. (1985, June). The national childhood immunisation programmes in Singapore. Singapore Medical Journal, 26 (3), 225–242, p. 231. Retrieved from Singapore Medical Association website.
