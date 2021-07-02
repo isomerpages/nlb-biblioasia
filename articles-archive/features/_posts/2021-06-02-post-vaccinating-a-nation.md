@@ -90,6 +90,19 @@ Measles vaccination was introduced in October 1976, while rubella vaccination fo
 
 Vaccination against the disease became compulsory by law on 1 August 1985. In January 1990, the measles-mumps-rubella (MMR) vaccine replaced the single jabs for measles and rubella. Although the three-in-one vaccine was more expensive, Acting Minister for Health Yeo Cheow Tong said that “for the child, having one shot is better than having three shots”. This injection would be administered to infants who were at least a year old.[^40]
 
+##### **Hepatitis B Vaccine and Foray into Biotechnology**
+In the 1970s, hepatitis B was a serious public health problem. It was a disease that was endemic in Singapore and countries in the Asia-Pacific.[^41] The hepatitis B virus was first identified in the 1960s by American physician and geneticist Baruch S. Blumberg, who also developed the first vaccine for the disease. It soon emerged that this vaccine could help prevent a type of liver cancer called primary liver cancer.[^42] Studies showed that chronic hepatitis B carriers had a high risk of developing primary liver cancer, which was a common type of cancer in Singapore at the time. In 1979, it was reported that Singapore had the highest incidence of primary liver cancer in the world.[^43]
+
+The association between hepatitis B and primary liver cancer fuelled a global race to produce the vaccine on a commercial scale. The Singapore government was also interested in the commercial production of the hepatitis B vaccine as the biotechnology industry was seen as an economically viable new industry. Unfortunately, the vaccine production plan was eventually scrapped because the projected returns did not justify the $20 million investment required for the project. 
+
+Although the scheme to produce the hepatitis B vaccine in Singapore was derailed, the fight against hepatitis did not stop. As early as 1983, 600 medical staff from MOH and NUS became the first to receive the anti-hepatitis B vaccine as the government waged an all-out-war against the disease. Due to the high cost, the vaccination programme targeted selected population groups who were at higher risks of acquiring the disease, such as babies of infected and carrier mothers, health care workers and national servicemen.[^44]
+
+On 1 September 1987, a vaccination-at-birth service was rolled out to vaccinate all newborns in Singapore at a reduced fee. At the time, there were 140,000 hepatitis B carriers in Singapore, and the government wanted to ensure that the disease would not spread to the rest of the population. Singapore was also one of the few countries in the world to make the hepatitis B vaccination available to all newborns.[^45]
+
+By 2000, more than 90 percent of infants had received the hepatitis B vaccination. While this age group was well protected against hepatitis B, about half of Singapore’s adult population had no immunity against the virus. In 2001, MOH launched a four-year hepatitis B immunisation programme for students in secondary schools, junior colleges, centralised institutes, the Institute of Technical Education, polytechnics and universities.[^46]
+
+Since the introduction of the hepatitis B immunisation programme in Singapore, the annual incidence of acute hepatitis B infection has declined from eight cases per 100,000 population in 1987 to 3.6 per 100,000 population in 2000. The nation’s research findings and experience on implementing a national hepatitis B vaccination programme were shared internationally. In 2001, WHO also endorsed the long-term safety and effectiveness of the hepatitis B vaccine and recommended that it be implemented in all endemic countries and for all newborns.[^47]
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/authors/LeeMelyu.png" style="width: 100px; height: 100px;" />
