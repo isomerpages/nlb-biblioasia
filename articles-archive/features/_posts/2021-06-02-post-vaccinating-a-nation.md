@@ -184,9 +184,9 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^31]: Blakemore, W. L. (1941). *[Diphtheria and its prevention by immunisation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5454865)*. Singapore: Government Printing Office. (Call no.: RRARE 616.931305 BLA; Accession no.: B03075172C); Lim, T.J. (1948, November 28). [War on diphtheria hots up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481128-1.2.48). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^32]: Diphtheria: Govt’s new measures. (1962, March 31). The Straits Times, p. f11. Retrieved from NewspaperSG.
+[^32]: Diphtheria: Govt’s new measures. (1962, March 31). *The Straits Times*, p. f11. Retrieved from NewspaperSG.
 
-[^33]: National Centre for Infectious Diseases. (n.d.). Diphtheria. Retrieved from National Centre for Infectious Diseases website.
+[^33]: National Centre for Infectious Diseases. (n.d.). *Diphtheria*. Retrieved from National Centre for Infectious Diseases website.
 
 [^34]: Seow, B.Y., & Lim, M.Z. (2017, August 6). Foreign worker dies in first local diphtheria case in 25 years. The Straits Times, pp. 2/3; Choo, F. (2017, August 11). No evidence diphtheria has spread further, says MOH. The Straits Times, p. 9. Retrieved from NewspaperSG.
 
