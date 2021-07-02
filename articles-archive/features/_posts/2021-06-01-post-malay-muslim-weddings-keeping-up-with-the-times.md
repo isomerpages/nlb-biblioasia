@@ -248,7 +248,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^34]: Fatimah Abdullah. (2009). [Dari halaman rumah ke Dewan Merak Kayangan: Upacara perkahwinan Melayu bandar](http://journalarticle.ukm.my/1155/1/sari27%281%29-2009%5B06%5D.pdf). *SARI: Jurnal Alam dan Tamadun Melayu, 27*, 97–107. Retrieved from UKM Journal Article Repository website; Mohd Khairuddin Mohd Sallehuddin & Mohamad Fauzi Sukimi. (2016). [Impian dan realiti majlis perkahwinan orang Melayu masakini: Kajian kes di pinggir bandar Kuala Lumpur](http://journalarticle.ukm.my/10320/1/1x.full-geo-mei16-khairuddin-edam.pdf). *Geografia: Malaysian Journal of Society and Space, 12* (7), 1–12. Retrieved from UKM Journal Article Repository website.
 
-[^35]: A. Hamid Besih. (1996, September 28). Pengertian di sebalik ‘bunga telur’ hampir lebur. Berita Harian, p. 7. Retrieved NewspaperSG.
+[^35]: A. Hamid Besih. (1996, September 28). [Pengertian di sebalik ‘bunga telur’ hampir lebur](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960928-1.2.43.2.10). *Berita Harian*, p. 7. Retrieved NewspaperSG.
 
 [^36]: Berita Harian, 28 Sep 1996; p. 7; Hanim Mohd Saleh. (2004, February 15). Bunga telur semakin dipinggir. Berita Harian, p. 11. Retrieved from NewspaperSG.
 
