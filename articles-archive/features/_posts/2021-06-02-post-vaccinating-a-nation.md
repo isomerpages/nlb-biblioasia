@@ -184,7 +184,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^31]: Blakemore, W. L. (1941). *[Diphtheria and its prevention by immunisation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5454865)*. Singapore: Government Printing Office. (Call no.: RRARE 616.931305 BLA; Accession no.: B03075172C); Lim, T.J. (1948, November 28). [War on diphtheria hots up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481128-1.2.48). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^32]: Diphtheria: Govt’s new measures. (1962, March 31). *The Straits Times*, p. f11. Retrieved from NewspaperSG.
+[^32]: [Diphtheria: Govt’s new measures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620331-1.2.85). (1962, March 31). *The Straits Times*, p. f11. Retrieved from NewspaperSG.
 
 [^33]: National Centre for Infectious Diseases. (n.d.). *Diphtheria*. Retrieved from National Centre for Infectious Diseases website.
 
