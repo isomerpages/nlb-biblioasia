@@ -36,10 +36,14 @@ The latter legislation led to the Ordinance for Registration of Births and Death
 Smallpox continued to be a problem in Singapore up until the 1950s. After WHO declared the virus eradicated, Singapore amended the law so that from smallpox vaccination would no longer be required by law from March 1982.[^12]
 
 ##### **BCG and the Battle Against Tuberculosis**
-At the end of World War II, Singapore found itself in another battle, this time against tuberculosis (TB). TB is an infectious disease caused by the Mycobacterium tuberculosis bacteria. There are two types of TB infections – latent TB infection and TB disease. People with the former show no symptoms and cannot spread the bacteria to others whereas people with the TB disease may spread the bacteria to others. If left untreated, TB can be fatal.13 
-In the aftermath of the Japanese Occupation (1942–45), the incidence of tuberculosis increased sharply, especially among young children. It was the number one killer disease right up to the 1960s.14
-The anti-tuberculosis vaccine, Bacillus Calmette-Guérin (BCG), had been developed by French scientists, Albert Calmette and Camille Guérin, in 1919. However, the vaccine only gained wider acceptance after studies began to appear in the 1940s providing evidence of its efficacy.15 
-The first large-scale BCG vaccination in Singapore was not carried out by government health authorities though. Instead, it was conducted by the Singapore Anti-Tuberculosis Association (SATA), a charity organisation. The idea of forming an organisation to fight TB had originated from a group of prisoners-of-war interned at Changi Prison and Sime Road Camp during the Japanese Occupation. Eventually, a group of doctors and philanthropists banded together to form SATA in 1947.16
+At the end of World War II, Singapore found itself in another battle, this time against tuberculosis (TB). TB is an infectious disease caused by the Mycobacterium tuberculosis bacteria. There are two types of TB infections – latent TB infection and TB disease. People with the former show no symptoms and cannot spread the bacteria to others whereas people with the TB disease may spread the bacteria to others. If left untreated, TB can be fatal.[^13] 
+
+In the aftermath of the Japanese Occupation (1942–45), the incidence of tuberculosis increased sharply, especially among young children. It was the number one killer disease right up to the 1960s.[^14]
+
+The anti-tuberculosis vaccine, Bacillus Calmette-Guérin (BCG), had been developed by French scientists, Albert Calmette and Camille Guérin, in 1919. However, the vaccine only gained wider acceptance after studies began to appear in the 1940s providing evidence of its efficacy.[^15] 
+
+The first large-scale BCG vaccination in Singapore was not carried out by government health authorities though. Instead, it was conducted by the Singapore Anti-Tuberculosis Association (SATA), a charity organisation. The idea of forming an organisation to fight TB had originated from a group of prisoners-of-war interned at Changi Prison and Sime Road Camp during the Japanese Occupation. Eventually, a group of doctors and philanthropists banded together to form SATA in 1947.[^16]
+
 While government health officials were still reviewing the BCG vaccine, SATA, under its first medical director, G.H. Garlick, believed that providing children with protection against TB was an urgent task which could not wait.[^17]
 
 After obtaining a small consignment of the BCG vaccine from the Pasteur Institute in Paris, SATA launched its immunisation programme on 28 June 1949, with the vaccination of 21 children.[^18] As new consignments of the vaccine began to arrive more regularly, SATA ramped up its vaccination drive.[^19]
