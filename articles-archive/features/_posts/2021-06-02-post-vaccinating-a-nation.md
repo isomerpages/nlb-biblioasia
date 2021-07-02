@@ -194,7 +194,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^36]: For instance, in 1973, there were 600 hospital admissions and 11 deaths due to measles. In the case of rubella, the incidence rate was 8.5 per 100,000 deliveries at Kendang Kerbau Maternity Hospital during the period November 1969 to December 1971, with many developing complications and the more serious cases resulting in mental retardation. See Goh, K.T. (1985, June). The national childhood immunisation programmes in Singapore. *Singapore Medical Journal*, 26 (3), 225–242, p. 231. Retrieved from Singapore Medical Association website.
 
-[^37]: Centers for Disease Control and Prevention. (n.d.). Measles. Retrieved from Centers for Disease Control and Prevention website; National Centre for Infectious Diseases. (n.d.) Measles. Retrieved from National Centre for Infectious Diseases website.
+[^37]: Centers for Disease Control and Prevention. (n.d.). *Measles*. Retrieved from Centers for Disease Control and Prevention website; National Centre for Infectious Diseases. (n.d.) *Measles*. Retrieved from National Centre for Infectious Diseases website.
 
 [^38]: Centers for Disease Control and Prevention. (n.d.). *Rubella*. Retrieved from Centers for Disease Control and Prevention website; National Centre for Infectious Diseases. (n.d.). *Rubella*. Retrieved from National Centre for Infectious Diseases website.
 
