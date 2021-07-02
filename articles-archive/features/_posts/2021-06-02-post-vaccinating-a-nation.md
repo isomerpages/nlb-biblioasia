@@ -12,6 +12,9 @@ Vaccinations for children are done under National Childhood Immunisation Schedul
 
 The highly organised way in which the Health Ministry handles the schedule for childhood vaccinations makes it seems like a very modern medical practice. However, vaccinations in Singapore actually have a long history. The very first vaccine – for smallpox – was introduced as early as December 1819.
 
+##### **Smallpox and Vaccination in Early Singapore**
+Although Tan was one of the key figu
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/authors/LeeMelyu.png" style="width: 100px; height: 100px;" />
