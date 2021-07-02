@@ -210,4 +210,4 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^44]: An all-out war on hepatitis B. (1983, August 3). The Straits Times, p. 1; Lim, J. (1983, August 3). Plan for mass immunisation against hepatitis B. The Business Times, p. 1; Wong, K.L. (1985, October 29). No mass vaccination against hepatitis B. The Straits Times, p. 18. Retrieved from NewspaperSG.
 
-[^45]: Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^45]: Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
