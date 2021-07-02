@@ -206,7 +206,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^42]: *Baruch Blumberg*: Facts. (n.d.). Retrieved from Nobel Prize Organisation website; [Liver cancer virus can be curbed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770928-1.2.25). (1979, September 28). *New Nation*, p. 5; [Vaccine for cancer?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800929-1.2.50) (1980, September 29). *New Nation*, p. 11. Retrieved from NewspaperSG.
 
-[^43]: Hepatitis – the ‘silent killer’. (1984, September 10). *Singapore Monitor*, p. 1; Chua, I. (1985, May 29). The fight against hepatitis. *The Straits Times*, p. 3; Ngoo, I. (1979, October 21). S’pore is worst in the world. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^43]: [Hepatitis – the ‘silent killer’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840910-2.2.21.1). (1984, September 10). *Singapore Monitor*, p. 1; Chua, I. (1985, May 29). The fight against hepatitis. *The Straits Times*, p. 3; Ngoo, I. (1979, October 21). S’pore is worst in the world. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 [^44]: An all-out war on hepatitis B. (1983, August 3). *The Straits Times*, p. 1; Lim, J. (1983, August 3). Plan for mass immunisation against hepatitis B. *The Business Times*, p. 1; Wong, K.L. (1985, October 29). No mass vaccination against hepatitis B. *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
