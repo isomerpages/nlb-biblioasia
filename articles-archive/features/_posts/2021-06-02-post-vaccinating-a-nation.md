@@ -175,3 +175,10 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 [^26]: [*Colony of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303), 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. *Singapore Medical Journal*, 18 (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
 
 [^27]: The number of paralytic polio cases went down from 78 cases in 1963 to four cases in 1968. In the subsequent years up to 1975, there were only five cases in total. Overall, the number of polio cases also decreased from 1,067 notified cases for the period 1954 to 1964 to 62 cases from 1965 to 1975. Not a single case was reported in 1969, 1970, 1974 and 1975.
+
+[^28]: Lee & Lim, Mar 1977, pp. 35, 37–38.
+
+[^29]: Wee, L. (2000, November 2). Singapore officially declared polio-free. The Straits Times, p. 42. Retrieved from NewspaperSG; Dancel, R. (2019, September 19). Polio, a menace eradicated in the Philippines 19 years ago, resurfaces. The Straits Times; Chia, N. (2019, November 24). Polio shots for Team S’pore athletes just before SEA Games. The Straits Times. Retrieved from The Straits Times website.
+Centers for Disease Control and Prevention. (n.d.). Diphtheria. Retrieved from Centers for Disease Control and Prevention website.
+
+[^31]: Blakemore, W. L. (1941). Diphtheria and its prevention by immunisation. Singapore: Government Printing Office. (Call no.: RRARE 616.931305 BLA; Accession no.: B03075172C); Lim, T.J. (1948, November 28). War on diphtheria hots up. The Straits Times, p. 4. Retrieved from NewspaperSG.
