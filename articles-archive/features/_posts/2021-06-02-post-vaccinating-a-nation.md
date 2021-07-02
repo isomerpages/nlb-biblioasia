@@ -203,3 +203,11 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 [^40]: [Measles vaccination a must](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850727-1.2.21.17). (1985, July 27). *The Straits Times*, p. 12; [A three-in-one vaccine for infants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891027-1.2.37.8). (1989, October 27). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
 
 [^41]: Oon, C.J. (1979, November 7). [Towards a cure for liver cancer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791107-1.2.97.13.1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+
+[^42]: Baruch Blumberg: Facts. (n.d.). Retrieved from Nobel Prize Organisation website; Liver cancer virus can be curbed. (1979, September 28). New Nation, p. 5; Vaccine for cancer? (1980, September 29). New Nation, p. 11. Retrieved from NewspaperSG.
+
+[^43]: Hepatitis – the ‘silent killer’. (1984, September 10). Singapore Monitor, p. 1; Chua, I. (1985, May 29). The fight against hepatitis. The Straits Times, p. 3; Ngoo, I. (1979, October 21). S’pore is worst in the world. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^44]: An all-out war on hepatitis B. (1983, August 3). The Straits Times, p. 1; Lim, J. (1983, August 3). Plan for mass immunisation against hepatitis B. The Business Times, p. 1; Wong, K.L. (1985, October 29). No mass vaccination against hepatitis B. The Straits Times, p. 18. Retrieved from NewspaperSG.
+
+[^45]: Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. The Straits Times, p. 1. Retrieved from NewspaperSG.
