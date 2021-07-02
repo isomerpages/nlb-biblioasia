@@ -166,4 +166,4 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^22]: Chew & Hu, Dec 1974, p. 241.
 
-[^23]: [Just one anti-TB jab from now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010628-1.2.29.3.1). (2001, June 28). *The Straits Times*, p. 21; One TB jab at birth. (2001, June 28). *The New Paper*, p. 6. Retried from NewspaperSG
+[^23]: [Just one anti-TB jab from now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010628-1.2.29.3.1). (2001, June 28). *The Straits Times*, p. 21; [One TB jab at birth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20010628-1.2.8.3). (2001, June 28). *The New Paper*, p. 6. Retried from NewspaperSG
