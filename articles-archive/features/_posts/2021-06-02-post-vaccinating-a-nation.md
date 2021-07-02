@@ -162,6 +162,6 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^20]: [B.C.G. team starts S’pore campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510604-1.2.65). (1951, June 4). *The Straits Times*, p. 5; [Vaccination for 130,000 children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510604-1.2.73). (1951, June 4). *The Singapore Free Press*, p. 5; [New campaign to halt TB](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561119-1.2.100). (1956, November 19). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^21]: *The Straits Times*, 19 Nov 1956, p. 7; BCG vaccine for new-born babies. (1956, December 1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^21]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561119-1.2.100)*, 19 Nov 1956, p. 7; BCG vaccine for new-born babies. (1956, December 1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^22]: Chew & Hu, Dec 1974, p. 241.
