@@ -56,7 +56,10 @@ By 1972, after a period of 16 years, over one million vaccinations had been perf
 
 Students used to get booster jabs at age 12 or 16 but from 2001, this was discontinued as there was no scientific evidence that this was effective.[^23]
 
-TB remains a global public threat and is still endemic in Singapore, with a higher proportion of the elderly contracting the disease. In 2020, there were 1,370 new cases of active TB among Singapore residents, slightly lower than the 1,398 cases in 2019. 
+TB remains a global public threat and is still endemic in Singapore, with a higher proportion of the elderly contracting the disease. In 2020, there were 1,370 new cases of active TB among Singapore residents, slightly lower than the 1,398 cases in 2019.
+
+##### **Polio, Diphtheria, Measles and Rubella**
+At the end of World War II, Singapore found itself in anoth
 
 <div style="background-color: white;">
 <br/>
