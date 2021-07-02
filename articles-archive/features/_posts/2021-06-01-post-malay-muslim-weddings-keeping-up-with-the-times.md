@@ -250,7 +250,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^35]: A. Hamid Besih. (1996, September 28). [Pengertian di sebalik ‘bunga telur’ hampir lebur](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960928-1.2.43.2.10). *Berita Harian*, p. 7. Retrieved NewspaperSG.
 
-[^36]: *[Berita Harian](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960928-1.2.43.2.10)*, 28 Sep 1996; p. 7; Hanim Mohd Saleh. (2004, February 15). [Bunga telur semakin dipinggir](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20040215-1.2.13.13). *Berita Harian*, p. 11. Retrieved from NewspaperSG.
+[^36]: *[Berita Harian](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960928-1.2.43.2.10)*, 28 Sep 1996; p. 7; Hanim Mohd Saleh. (2004, February 15). Bunga telur semakin dipinggir. Berita Harian, p. 11. Retrieved from NewspaperSG.
 
 [^37]: Berita Harian, 15 Feb 2004, p. 11; Hadijah Rahmat. (2005). Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura (p. 241). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD); Muhammad Ariff Ahmad. (2007). Nilam: Nilai Melayu menurut adat (p. 275). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH)
 
