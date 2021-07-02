@@ -154,6 +154,6 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^16]: [Lim & Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724), 1997, p. 18; SATA ComHealth. (n.d.). *Our history and milestones*. Retrieved from SATA ComHealth website; Vo. (1973, July 6). [SATA tames a killer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730706-1.2.59.3). *New Nation*, p. 11. Retrieved from NewspaperSG.
 
-[^17]: Studying use of T.B. serum. (1949, February 1). *The Singapore Free Press*, p. 5; Flying anti-T.B. vaccine to S’pore. (1949, May 1). *The Straits Times*, p. 1; B.C.G. for kids: No decision yet. (1949, June 18). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^17]: [Studying use of T.B. serum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490201-1.2.69). (1949, February 1). *The Singapore Free Press*, p. 5; Flying anti-T.B. vaccine to S’pore. (1949, May 1). *The Straits Times*, p. 1; B.C.G. for kids: No decision yet. (1949, June 18). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 
 [^18]: B.C.G. starts this week. (1949, June 12). *Sunday Tribune* (Singapore), p. 1; TB immunisation of children begins. (1949, June 29). *The Straits Times*, p. 7. Retrieved from NewspaperSG
