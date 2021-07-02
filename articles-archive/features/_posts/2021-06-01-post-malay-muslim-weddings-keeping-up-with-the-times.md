@@ -258,7 +258,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^39]: *Songket* is a cotton or silk fabric interwoven with gold or silver threads. This traditional Malay handwoven fabric comes in wide variety of designs and patterns. The cost of a *songket* outfit can go up to the thousands, depending on the quality of fabric, density of threads and intricacy of design and colours. Malays typically don *songket* during festive and formal occasions such as weddings and Hari Raya. See Kong, L. (1989, January 16). [Songket: Symbol of a rich tradition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890116-1.2.62.6.1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
- [^40]: Zakaria Buang. (1981, November 29). Pakaian pengantin tradisional. Berita Minggu, p. 3; Wan Jumaiah Mohd Jubri. (1996, September 28). ‘Biru, birulah… coklat, coklatlah… pengantin dulu memang tak kisah’. Berita Harian, p. 10. Retrieved from NewspaperSG.
+ [^40]: Zakaria Buang. (1981, November 29). [Pakaian pengantin tradisional](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19811129-1.2.20). *Berita Minggu*, p. 3; Wan Jumaiah Mohd Jubri. (1996, September 28). [‘Biru, birulah… coklat, coklatlah… pengantin dulu memang tak kisah’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960928-1.2.43.2.13). Berita Harian, p. 10. Retrieved from NewspaperSG.
 	
 [^41]: Pakaian tradisional terus jadi pilihan. (1991, September 27). Berita Harian, p. 12; Ismawati Ismail. (2012, January 21). Majlis unik ‘lain daripada yang lain’. Berita Harian, p. 17; Fesyen selebriti jadi trend terbaru pengantin. (2013, December 29). Berita Harian, p. 19. Retrieved from NewspaperSG. 
   
