@@ -152,4 +152,4 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^15]: Luca, S., & Mihaescu, T. (2013, March). History of BCG vaccine. *Maedica*, 8 (1), 53–58. Retrieved from National Center for Biotechnology Information website; BCG prevents T.B. (1949, March 5). *The Malaya Tribune*, pp. VIII/I. Retrieved from NewspaperSG.
 
-[^16]: Lim & Lee, 1997, p. 18; SATA ComHealth. (n.d.). *Our history and milestones*. Retrieved from SATA ComHealth website; Vo. (1973, July 6). SATA tames a killer. *New Nation*, p. 11. Retrieved from NewspaperSG.
+[^16]: [Lim & Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724), 1997, p. 18; SATA ComHealth. (n.d.). *Our history and milestones*. Retrieved from SATA ComHealth website; Vo. (1973, July 6). [SATA tames a killer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730706-1.2.59.3). *New Nation*, p. 11. Retrieved from NewspaperSG.
