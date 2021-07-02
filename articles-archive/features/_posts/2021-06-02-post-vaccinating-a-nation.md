@@ -4,6 +4,8 @@ date: 2021-06-02
 permalink: /articles-archive/features/vaccinating-nation
 layout: post
 ---
+#### From the first smallpox vaccine introduced in 1819 to the nationwide Covid-19 vaccination programme now underway, **Ong Eng Chuan** provides a quick history of vaccination efforts in Singapore since colonial times.
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-16-issue-3/authors/LeeMelyu.png" style="width: 100px; height: 100px;" />
