@@ -147,3 +147,9 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 [^12]: [Smallpox jabs no more a must for kids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810307-1.2.47). (1981, March 7). *The Straits Times*, p. 9; [Smallpox vaccination papers not needed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810307-1.2.19.10). (1981, March 7). *The Business Times*, p. 5. Retrieved from NewspaperSG. 
 
 [^13]: Centers for Disease Control and Prevention. (n.d.). *Basic TB facts*. Retrieved from Centers for Disease Control and Prevention website.
+
+[^14]: Lim, K.T., & Lee, M. (1997). Fighting TB: The SATA story, 1947–1997 (p. 14). Singapore: The Association. (Call no.: RSING 614.542095957 SIN); McKerron, P.A.B. [1947]. Annual report on Singapore for 1st April-–31st December 1946 (p. 70). (Call no.: RDLKL 959.57 MAC); Tuberculosis: Singapore’s no. 1 killer... (1957, February 11). The Singapore Free Press, p. 13; Cancer Society. (1964, December 10). The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+[^15]: Luca, S., & Mihaescu, T. (2013, March). History of BCG vaccine. Maedica, 8 (1), 53–58. Retrieved from National Center for Biotechnology Information website; BCG prevents T.B. (1949, March 5). The Malaya Tribune, pp. VIII/I. Retrieved from NewspaperSG.
+
+[^16]: Lim & Lee, 1997, p. 18; SATA ComHealth. (n.d.). Our history and milestones. Retrieved from SATA ComHealth website; Vo. (1973, July 6). SATA tames a killer. New Nation, p. 11. Retrieved from NewspaperSG.
