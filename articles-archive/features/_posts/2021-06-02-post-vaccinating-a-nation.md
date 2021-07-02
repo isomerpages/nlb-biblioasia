@@ -160,8 +160,8 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^19]: 2,000 children get anti-T.B. vaccination. (1949, October 13). *The Malaya Tribune*, p. 5; B.C.G. vaccination to start again. (1949, October 27). *The Straits Times*, p. 7; 1,500 Seletar boys get BCG serum. (1949, October 27). *The Malaya Tribune*, p. 2. Retrieved from NewspaperSG.
 
-[^20]: B.C.G. team starts S’pore campaign. (1951, June 4). The Straits Times, p. 5; Vaccination for 130,000 children. (1951, June 4). The Singapore Free Press, p. 5; New campaign to halt TB. (1956, November 19). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^20]: B.C.G. team starts S’pore campaign. (1951, June 4). *The Straits Times*, p. 5; Vaccination for 130,000 children. (1951, June 4). *The Singapore Free Press*, p. 5; New campaign to halt TB. (1956, November 19). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^21]: The Straits Times, 19 Nov 1956, p. 7; BCG vaccine for new-born babies. (1956, December 1). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^21]: *The Straits Times*, 19 Nov 1956, p. 7; BCG vaccine for new-born babies. (1956, December 1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^22]: Chew & Hu, Dec 1974, p. 241.
