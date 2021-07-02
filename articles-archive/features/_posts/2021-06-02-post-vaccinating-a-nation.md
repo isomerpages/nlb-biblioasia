@@ -182,4 +182,4 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^30]: Centers for Disease Control and Prevention. (n.d.). *Diphtheria*. Retrieved from Centers for Disease Control and Prevention website.
 
-[^31]: Blakemore, W. L. (1941). Diphtheria and its prevention by immunisation. Singapore: Government Printing Office. (Call no.: RRARE 616.931305 BLA; Accession no.: B03075172C); Lim, T.J. (1948, November 28). War on diphtheria hots up. The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^31]: Blakemore, W. L. (1941). *Diphtheria and its prevention by immunisation*. Singapore: Government Printing Office. (Call no.: RRARE 616.931305 BLA; Accession no.: B03075172C); Lim, T.J. (1948, November 28). War on diphtheria hots up. The Straits Times, p. 4. Retrieved from NewspaperSG.
