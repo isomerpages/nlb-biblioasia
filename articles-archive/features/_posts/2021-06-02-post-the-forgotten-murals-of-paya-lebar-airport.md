@@ -90,4 +90,20 @@ Given that two of the murals have been lost, it is my hope that the remaining on
 
 
 #### **NOTES**
-[^1]: Webb, J. (1979, November 26). [World declared rid of smallpox](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791126-1.2.123.20). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^1]: Page 17 Advertisements Column 5: Open competition for design of murals in the passenger terminal building, Paya Lebar Airport. (1962, October 1). The Straits Times, p. 17. Retrieved from NewspaperSG.
+
+[^2]: Design for airport murals: 2 win prizes. (1963, March 24). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[^3]: This essay on the Paya Lebar Airport murals is based on a series of conversations with my father and William Mundy (Bill). The chats were conducted between 2009 and 2016 in Singapore. I also interviewed Bill via email in 2016. My father and Bill have maintained their friendship all these years. Bill is 84 years old and lives in Britain where he is a successful artist. My 88-year-old father worked for local and international advertising agencies in Singapore and he designed the original logos for Mendaki and the old Changi Hospital, the updated logo for the Singapore Heritage Society, and the original book covers for Alex Josey’s Lee Kuan Yew (first published in 1971), Donald and Joanna Moore’s The First 150 Years of Singapore (first published in 1969), and Mahathir Mohamad’s The Malay Dilemma (first published in 1970).
+
+[^4]: Zhuang, J. (2012). Independence: The history of graphic design in Singapore since the 1960s (p. 76). Singapore: The Design Society. (Call no.: RSING 741.6095957 ZHU); Bahasa jiwa bangsa. (1964, August 13). The Straits Times, p. 18. Retrieved from NewspaperSG.
+
+[^5]: Selegie House – how flats are rented out. (1963, May 31). The Straits Times, p. 17. Retrieved from NewspaperSG.
+
+[^6]: Email correspondence with Bill Mundy, 2016 and 2021.
+
+[^7]: Changi to be future civil airport. (1975, June 3). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^8]: From airbase to airport. (1981, December 29). The Straits Times, p. 43. Retrieved from NewspaperSG.
+
+[^9]: Email correspondence with Bill Mundy, 1 May 2021.
