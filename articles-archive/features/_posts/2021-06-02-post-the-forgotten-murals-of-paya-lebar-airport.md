@@ -44,7 +44,7 @@ The three murals were rendered in different colour schemes and designs. My fathe
 
 It was not an easy task assembling my father’s mural. He recalls going to a shipyard in Tanjong Rhu to supervise the Chinese workers who were bending the iron to create the figures of the dancers, and one of them telling him “Wah! Lu punya banyak susah!”, [“Wah! Your (design) is so difficult!”].
 
-My father’s mural depicts four types of Malaysian dance forms – represented by a pair of Indian dancers, a pair of Chinese wayang (opera) dancers, a traditional dancer from Sarawak and a pair of Mak Yong dancers from the state of Kelantan. (Mak Yong is a traditional form of dance-drama prevalent in the area.)
+My father’s mural depicts four types of Malaysian dance forms – represented by a pair of Indian dancers, a pair of *Chinese wayang* (opera) dancers, a traditional dancer from Sarawak and a pair of Mak Yong dancers from the state of Kelantan. (Mak Yong is a traditional form of dance-drama prevalent in the area.)
 
 My family has a personal connection to Kelantan as my father’s eldest sister had moved to the state with her husband in the mid-1940s, after the war. Over the years, my father would regularly visit my aunt up north. So the Mak Yong dancers were probably inspired by this link 
 with Kelantan.
