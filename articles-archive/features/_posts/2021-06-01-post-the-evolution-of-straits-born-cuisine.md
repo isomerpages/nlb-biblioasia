@@ -103,4 +103,4 @@ In his book, The Traditional Dietary Culture of Southeast Asia, Akira Matsuyama 
 
 These two trends – preservation and alteration – are hallmarks of Straits cuisine in Singapore. Today, creative cooks and chefs have been experimenting, introducing unlikely, new-fangled combinations such as otak-otak buns and foie gras tau kua pau. At the same time, they have also preserved much of the cuisine’s conventional and aboriginal characteristics. 
 
-One of the traits of a great cuisine is its ability to retain its traditional roots while taking on new and interesting flavours with the introduction of non-traditional ingredients. Straits cuisine definitely falls into that category. 
+One of the traits of a great cuisine is its ability to retain its traditional roots while taking on new and interesting flavours with the introduction of non-traditional ingredients. Straits cuisine definitely falls into that category.
