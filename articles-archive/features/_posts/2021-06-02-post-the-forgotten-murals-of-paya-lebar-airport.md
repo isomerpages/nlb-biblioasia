@@ -90,7 +90,7 @@ Given that two of the murals have been lost, it is my hope that the remaining on
 
 
 #### **NOTES**
-[^1]: Page 17 Advertisements Column 5: Open competition for design of murals in the passenger terminal building, Paya Lebar Airport. (1962, October 1). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^1]: [Page 17 Advertisements Column 5: Open competition for design of murals in the passenger terminal building, Paya Lebar Airport](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621001-1.2.130.5). (1962, October 1). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
 [^2]: Design for airport murals: 2 win prizes. (1963, March 24). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
