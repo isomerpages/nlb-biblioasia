@@ -137,7 +137,7 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 	
 [^15]: Wolf, 1947; Van der Loon, 1966–67, pp. 25–28. 
 
-[^16]: Van der Loon, 1966–67, pp. 25–28; Vallejo, n.d.; Lent, J.A. (1980). The missionary press of Asia, 1550–1860. *Communicatio Socialis*, 14 (2), 119–141, p. 120. Retrieved from Nomos eLibrary website.
+[^16]: Van der Loon, 1966–67, pp. 25–28; Vallejo, n.d.; Lent, J.A. (1980). The missionary press of Asia, 1550–1860. *Communicatio Socialis, 14* (2), 119–141, p. 120. Retrieved from Nomos eLibrary website.
 
 [^17]: A mendicant is a member of any of several Roman Catholic religious orders who assumes a vow of poverty and supports himself or herself by work and charitable contributions. 
 
@@ -152,10 +152,10 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 
 [^22]: Gomez, B. (2020, June 18). *Opinion: Celebrating Magellan plus a history lesson on Tomas Pinpin*. Retrieved from ABS-CBN News website; Taylor, C. (1927). *History of Philippine press* (p. 3). Manila: [s.n.] Retrieved from University of Michigan Library website. 
 
-[^23]: Vibar, A.M. (2014). The 1610 *Arte y reglas de a lengua tagala* revisited: An advanced grammar for Spanish missionaries of the seventeenth century. *Synergeia*, 5 (1), 1–22. Retrieved from Philippine e-journals website; MacKinlay, W.E.W. (1905). *A handbook and grammar of the Tagalog language* (p. 8). Washington: Government Printing Office. Retrieved from University of Michigan Library website.
+[^23]: Vibar, A.M. (2014). The 1610 *Arte y reglas de a lengua tagala* revisited: An advanced grammar for Spanish missionaries of the seventeenth century. *Synergeia, 5* (1), 1–22. Retrieved from Philippine e-journals website; MacKinlay, W.E.W. (1905). *A handbook and grammar of the Tagalog language* (p. 8). Washington: Government Printing Office. Retrieved from University of Michigan Library website.
 
-[^24]: Jurilla, P.B. (2006, August 30). *Tagalog bestsellers and the history of the book in the Philippines* (pp. 43–46). [A thesis for the degree of Doctor of Philosophy, no. 2768]. London: University of London (School of Oriental and African Studies). Retrieved from SOAS Research Online website; [Buhain](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141), 1998, p. 9; Vallejo, n.d.; National Historical Commission of the Philippines. (n.d.). *Filipinos in history: Tomas Pinpin*. Retrieved from National Historical Commission of the Philippines website; Fernandez, D.G. (1989). The Philippine press system: 1811–1989. *Philippine Studies*, 37 (3), 317–344, p. 318. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^24]: Jurilla, P.B. (2006, August 30). *Tagalog bestsellers and the history of the book in the Philippines* (pp. 43–46). [A thesis for the degree of Doctor of Philosophy, no. 2768]. London: University of London (School of Oriental and African Studies). Retrieved from SOAS Research Online website; [Buhain](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141), 1998, p. 9; Vallejo, n.d.; National Historical Commission of the Philippines. (n.d.). *Filipinos in history: Tomas Pinpin*. Retrieved from National Historical Commission of the Philippines website; Fernandez, D.G. (1989). The Philippine press system: 1811–1989. *Philippine Studies, 37* (3), 317–344, p. 318. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^25]: [Buhain](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141), 1998, pp. 19–23; Taylor, 1927, p. 3; Fernandez, 1989, 317–344; Del Carmen Pareja Ortiz, M. (1993). “Gaceta Del Superior Gobierno”: The first Philippine newspaper. *Philippine Studies*, 41 (2), 182–203. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Jurilla, 2006, pp. 53–54. 
+[^25]: [Buhain](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9751141), 1998, pp. 19–23; Taylor, 1927, p. 3; Fernandez, 1989, 317–344; Del Carmen Pareja Ortiz, M. (1993). “Gaceta Del Superior Gobierno”: The first Philippine newspaper. *Philippine Studies, 41* (2), 182–203. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Jurilla, 2006, pp. 53–54. 
 
 [^26]: Miguel de Benavides Library of the Universty of Santa Tomas. (n.d.). *Collection 9.3 - Ilustración Filipina*. Retrieved from University of Santo Tomas Miguel de Benavides Library and Archives website.
