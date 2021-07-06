@@ -102,7 +102,7 @@ Given that two of the murals have been lost, it is my hope that the remaining on
 
 [^6]: Email correspondence with Bill Mundy, 2016 and 2021.
 
-[^7]: Changi to be future civil airport. (1975, June 3). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^7]: [Changi to be future civil airport](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750603-1.2.9). (1975, June 3). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 [^8]: From airbase to airport. (1981, December 29). *The Straits Times*, p. 43. Retrieved from NewspaperSG.
 
