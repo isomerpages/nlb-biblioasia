@@ -82,7 +82,7 @@ Given that two of the murals have been lost, it is my hope that the remaining on
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-3/authors/Ong-Eng-Chuan.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-16-issue-3/authors/Dahlia.png" style="width: 100px; height: 100px;" />
 <b>Dahlia Shamsuddin </b> is a Senior Librarian with the Resource Discovery & Management, National Library Board, where she catalogues legal deposit, gift and donor materials. She has worked in public, academic, law and national libraries doing reference, circulation, digital and print cataloguing work.
 </div>
 
