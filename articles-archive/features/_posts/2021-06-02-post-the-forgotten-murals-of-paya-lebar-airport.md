@@ -12,7 +12,7 @@ In a presumed effort to add a dash of colour to this new building, the governmen
 
 In the end, however, only three designs were chosen. Two were done by a Singapore-based British art director, William P. Mundy, which showed what The Straits Times described as “a panoramic view of Singapore by night” and “a Malaysian panorama”.2 The third winning design, which depicted “the cultural dances of Malaysia”, was created by one Shamsuddin H. Akib – my father.3 
 
-The Murals Competition
+##### **The Murals Competition**
 My father, a commercial artist, and Mundy (Bill as he prefers to be called) were colleagues at Papineau Advertising during the 1960s where Bill was the art director. My father and Bill were 30 and 26 years old respectively when they won the mural design competition. 
 My father is a self-taught artist. Born in Singapore in 1933, he started out as a peon (office boy) in the Commissioner-General Office but realised advancement prospects were limited and that he was capable of more. He briefly joined The Straits Times as an apprentice artist before moving to Papineau Advertising as they were looking for someone who could write Jawi in a calligraphic style. My father had taken part in other competitions before, winning a poster competition on diphtheria in 1959 and later coming in second place in a poster competition for the National Language campaign organised by The Straits Times in 1964.4 
 Bill first came to Singapore in 1957 as a soldier during his national service. He was based at Gillman Barracks doing cartographic work. He left Singapore a year later after completing his national service before returning in 1960 to work in Papineau Advertising. He was hired as a visualiser and was promoted to art director after six months. 
