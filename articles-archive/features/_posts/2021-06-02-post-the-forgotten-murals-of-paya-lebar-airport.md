@@ -79,3 +79,15 @@ Bill said he was hopeful that at least one of his designs would clinch a prize a
 My father, on his part, has one wish: that his mural be reconstructed one day.
 
 Given that two of the murals have been lost, it is my hope that the remaining one – Bill’s skyline of Singapore – will be preserved. These murals captured my father’s and Bill’s experience of living and working in Singapore in the early 1960s. The murals also reflected their aspirations for a new, multiracial and independent country. Even after Singapore gained independence in 1965, the underlying message encapsulated in the murals – multiculturalism, development and progress – remained, and continues to remain significant today.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-16-issue-3/authors/Ong-Eng-Chuan.png" style="width: 100px; height: 100px;" />
+<b>Ong Eng Chuan</b> is a Senior Librarian with the National Library, Singapore, managing the Rare Materials Collection. His research interest is in early Singapore publications.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+
+
+#### **NOTES**
+[^1]: Webb, J. (1979, November 26). [World declared rid of smallpox](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791126-1.2.123.20). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
