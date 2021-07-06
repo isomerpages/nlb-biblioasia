@@ -90,9 +90,9 @@ Given that two of the murals have been lost, it is my hope that the remaining on
 
 
 #### **NOTES**
-[^1]: Page 17 Advertisements Column 5: Open competition for design of murals in the passenger terminal building, Paya Lebar Airport. (1962, October 1). The Straits Times, p. 17. Retrieved from NewspaperSG.
+[^1]: Page 17 Advertisements Column 5: Open competition for design of murals in the passenger terminal building, Paya Lebar Airport. (1962, October 1). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-[^2]: Design for airport murals: 2 win prizes. (1963, March 24). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^2]: Design for airport murals: 2 win prizes. (1963, March 24). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
 [^3]: This essay on the Paya Lebar Airport murals is based on a series of conversations with my father and William Mundy (Bill). The chats were conducted between 2009 and 2016 in Singapore. I also interviewed Bill via email in 2016. My father and Bill have maintained their friendship all these years. Bill is 84 years old and lives in Britain where he is a successful artist. My 88-year-old father worked for local and international advertising agencies in Singapore and he designed the original logos for Mendaki and the old Changi Hospital, the updated logo for the Singapore Heritage Society, and the original book covers for Alex Josey’s Lee Kuan Yew (first published in 1971), Donald and Joanna Moore’s The First 150 Years of Singapore (first published in 1969), and Mahathir Mohamad’s The Malay Dilemma (first published in 1970).
 
