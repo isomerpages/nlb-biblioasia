@@ -44,7 +44,7 @@ Cobo’s work contains a mix of treatises on theology, Western cosmography and n
 
 In this respect, it also bears similarities with another earlier work. Penned in 1583 by another Dominican friar, Fray Luis de Granada, who was a noted theologian, writer and preacher, the *Introducción del Símbolo de la Fe* (*Introduction of the Symbol of Faith*) was an attempt to explain the Christian doctrine through natural theology – an argument that evidence of intelligent design in nature points to the existence of a creator God. This approach was probably designed to appeal to learned Chinese readers as shown in the illustration of a Western scholar-priest conversing with a Chinese scholar.[^11] 
 
-As for the copy in the Vatican Library, its provenance remains uncertain. One view contends that it predates the Doctrina Christiana in the Library of Congress and the National Library of Spain. Unlike most officially approved publications which were dated, this book was not. According to the title page it was printed with licence, but the omission of the year of publication has led some to speculate that the work was printed before the necessary permit could be secured due to the urgent need to evangelise to the Chinese community. 
+As for the copy in the Vatican Library, its provenance remains uncertain. One view contends that it predates the *Doctrina Christiana* in the Library of Congress and the National Library of Spain. Unlike most officially approved publications which were dated, this book was not. According to the title page it was printed with licence, but the omission of the year of publication has led some to speculate that the work was printed before the necessary permit could be secured due to the urgent need to evangelise to the Chinese community. 
 
 This view has been challenged by others who place the publication in the early 1600s based on studies of its linguistic and physical characteristics. Although its history cannot be conclusively determined, the identification of its printer, Keng Yong, throws a spotlight on the role that Chinese printers played in the development of early printing in the Philippines.[^12]
 
@@ -127,7 +127,7 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
  [^10]: Van der Loon, 1966–67, p. 6
  
  
-[^11]: [Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Menegon, E. (2009). *[Ancestors, virgins, & friars: Christianity as a local religion in late Imperial China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140)* (p. 52). Cambridge, Mass.: Harvard University Asia Center for the Harvard-Yenching Institute. (Call no.: R 275.1245 MEN); Chan, A. (1989). A note on the Shih-lu of Juan Cobo. *Philippines Studies*, 37 (4), 479–487. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Van der Loon, 1966–1967, p. 4
+[^11]: [Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Menegon, E. (2009). *[Ancestors, virgins, & friars: Christianity as a local religion in late Imperial China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140)* (p. 52). Cambridge, Mass.: Harvard University Asia Center for the Harvard-Yenching Institute. (Call no.: R 275.1245 MEN); Chan, A. (1989). A note on the *Shih-lu* of Juan Cobo. *Philippines Studies, 37* (4), 479–487. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Van der Loon, 1966–1967, p. 4
 
 [^12]: [Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Van der Loon, 1966–67, pp. 1–25; University of Michigan Library. (n.d.). *Missionary writing*. Retrieved from University of Michigan Library website.
 
@@ -141,7 +141,7 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 
 [^17]: A mendicant is a member of any of several Roman Catholic religious orders who assumes a vow of poverty and supports himself or herself by work and charitable contributions. 
 
-[^18]: Van der Loon, 1966–67, pp. 25–28; De la Costa, H. (1955, June). A first printing. *Philippine Studies*, 3 (2), 214–216. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^18]: Van der Loon, 1966–67, pp. 25–28; De la Costa, H. (1955, June). A first printing. *Philippine Studies, 3* (2), 214–216. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^19]: Van der Loon, 1966–67, pp. 28–31; Chan, A. (2002). *[Chinese books and documents in the Jesuit archives in Rome: A descriptive catalogue: Japonica-Sinica I-IV ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11630717)* (pp. 226–229). Armonk, N.Y.: M.E. Sharpe. (Call no.: R q016.895108 CHA-[LIB]); [Menegon](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140), 2009, p. 52. 
 
