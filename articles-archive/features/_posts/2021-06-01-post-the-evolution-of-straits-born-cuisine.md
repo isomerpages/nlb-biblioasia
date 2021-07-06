@@ -95,4 +95,12 @@ Mrs Lee explained that she published the book because “it has been one of [her
 
 Perhaps similarly inspired, her sister, Mrs Leong Yee Soo, also published her cookbook, Singaporean Cooking, in 1976.22 In the 1970s and 80s, Mrs Lee and Mrs Leong were among the first Peranakan women who were active in spreading knowledge about Straits-born cuisine through cooking classes. Indeed, family recipes were never actually kept secret but usually passed on to family members and favoured friends and through cooking classes. 
 
-In all likelihood, all these early cookbooks contained heritage recipes that had been tweaked and modified over time into family favourites. 
+In all likelihood, all these early cookbooks contained heritage recipes that had been tweaked and modified over time into family favourites.
+
+#####**Preservation and Alteration**
+
+In his book, The Traditional Dietary Culture of Southeast Asia, Akira Matsuyama proposes two concepts for studying the dietary culture of the region. One is to look at “conventionality” when traditional food is defined as food that has stood the test of time, and the other is “aboriginality” or the linkage of this food to the inhabitants of the area. Both conventionality and aboriginality are seen in Straits-born cooking. Matsuyama writes: “The preservation of tradition and acceptance of alteration are two aspects of the dietary culture of Southeast Asia.”23
+
+These two trends – preservation and alteration – are hallmarks of Straits cuisine in Singapore. Today, creative cooks and chefs have been experimenting, introducing unlikely, new-fangled combinations such as otak-otak buns and foie gras tau kua pau. At the same time, they have also preserved much of the cuisine’s conventional and aboriginal characteristics. 
+
+One of the traits of a great cuisine is its ability to retain its traditional roots while taking on new and interesting flavours with the introduction of non-traditional ingredients. Straits cuisine definitely falls into that category. 
