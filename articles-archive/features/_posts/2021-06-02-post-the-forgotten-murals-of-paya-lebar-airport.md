@@ -39,13 +39,14 @@ Bill’s mural of Singapore’s cityscape at night was the longest of the three,
 
 ##### **Of Mosaic and Iron**
 Although Bill and my father did not discuss their designs beforehand, the two men agreed on the basic material for the murals – Italian mosaic or coloured Smalti glass. Bill had seen these being used in Singapore and thought that it would be suitable for the murals. 
+
 Bill had originally planned to return home to Britain for a visit shortly after the winners of the mural design competition were announced. As his flight from Singapore to London would include a stopover in Rome, at the prize giving ceremony Bill told Dr Toh that he was prepared to stop in Murano, Venice, for a few days to visit the mosaic factory and supervise the colour selection of the Smalti glass if the Singapore government would pay for the cost of his stay. Dr Toh agreed, and the government made arrangements for Bill’s stay in Venice and also provided him with an allowance.[^6]
 
 The three murals were rendered in different colour schemes and designs. My father’s mural used red and orange Smalti glass pieces as the backdrop. To make the dancers more prominent, he designed them out of thin iron strips, in a dark colour. The figures were then affixed to the tiles so that they protruded slightly.
 
 It was not an easy task assembling my father’s mural. He recalls going to a shipyard in Tanjong Rhu to supervise the Chinese workers who were bending the iron to create the figures of the dancers, and one of them telling him “Wah! Lu punya banyak susah!”, [“Wah! Your (design) is so difficult!”].
 
-My father’s mural depicts four types of Malaysian dance forms – represented by a pair of Indian dancers, a pair of *Chinese wayang* (opera) dancers, a traditional dancer from Sarawak and a pair of Mak Yong dancers from the state of Kelantan. (Mak Yong is a traditional form of dance-drama prevalent in the area.)
+My father’s mural depicts four types of Malaysian dance forms – represented by a pair of Indian dancers, a pair of Chinese *wayang* (opera) dancers, a traditional dancer from Sarawak and a pair of Mak Yong dancers from the state of Kelantan. (Mak Yong is a traditional form of dance-drama prevalent in the area.)
 
 My family has a personal connection to Kelantan as my father’s eldest sister had moved to the state with her husband in the mid-1940s, after the war. Over the years, my father would regularly visit my aunt up north. So the Mak Yong dancers were probably inspired by this link 
 with Kelantan.
