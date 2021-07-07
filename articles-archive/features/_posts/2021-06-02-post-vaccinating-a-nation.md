@@ -205,7 +205,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^41]: Oon, C.J. (1979, November 7). [Towards a cure for liver cancer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791107-1.2.97.13.1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^42]: *Baruch Blumberg*: Facts. (n.d.). Retrieved from Nobel Prize Organisation website; [Liver cancer virus can be curbed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770928-1.2.25). (1979, September 28). *New Nation*, p. 5; [Vaccine for cancer?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800929-1.2.50) (1980, September 29). *New Nation*, p. 11. Retrieved from NewspaperSG.
+[^42]: *Baruch Blumberg: Facts*. (n.d.). Retrieved from Nobel Prize Organisation website; [Liver cancer virus can be curbed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770928-1.2.25). (1979, September 28). *New Nation*, p. 5; [Vaccine for cancer?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800929-1.2.50) (1980, September 29). *New Nation*, p. 11. Retrieved from NewspaperSG.
 
 [^43]: [Hepatitis – the ‘silent killer’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840910-2.2.21.1). (1984, September 10). *Singapore Monitor*, p. 1; Chua, I. (1985, May 29). [The fight against hepatitis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850529-1.2.80.2.5). *The Straits Times*, p. 3; Ngoo, I. (1979, October 21). [S’pore is worst in the world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791021-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
