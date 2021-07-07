@@ -151,7 +151,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^14]: Lim, K.T., & Lee, M. (1997). *[Fighting TB: The SATA story, 1947–1997](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724)* (p. 14). Singapore: The Association. (Call no.: RSING 614.542095957 SIN); McKerron, P.A.B. [1947]. *[Annual report on Singapore for 1st April-–31st December 1946](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200185729)* (p. 70). (Call no.: RDLKL 959.57 MAC); [Tuberculosis: Singapore’s no. 1 killer...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570211-1.2.56.2) (1957, February 11). *The Singapore Free Press*, p. 13; [Cancer Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641210-1.2.82.3). (1964, December 10). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^15]: Luca, S., & Mihaescu, T. (2013, March). History of BCG vaccine. *Maedica*, 8 (1), 53–58. Retrieved from National Center for Biotechnology Information website; [BCG prevents T.B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490305-1.2.87). (1949, March 5). *The Malaya Tribune*, pp. VIII/I. Retrieved from NewspaperSG.
+[^15]: Luca, S., & Mihaescu, T. (2013, March). History of BCG vaccine. *Maedica, 8* (1), 53–58. Retrieved from National Center for Biotechnology Information website; [BCG prevents T.B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490305-1.2.87). (1949, March 5). *The Malaya Tribune*, pp. VIII/I. Retrieved from NewspaperSG.
 
 [^16]: [Lim & Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724), 1997, p. 18; SATA ComHealth. (n.d.). *Our history and milestones*. Retrieved from SATA ComHealth website; Vo. (1973, July 6). [SATA tames a killer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730706-1.2.59.3). *New Nation*, p. 11. Retrieved from NewspaperSG.
 
@@ -173,7 +173,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^25]: Colony of Singapore. (1959). *[Annual report 1958](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)* (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. *[Healthscope](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4192522)*, 5, 7. (Call no. RSING 362.1095957 H)
 
-[^26]: [*Colony of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303), 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. *Singapore Medical Journal*, 18 (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
+[^26]: [*Colony of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303), 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. *Singapore Medical Journal, 18* (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
 
 [^27]: The number of paralytic polio cases went down from 78 cases in 1963 to four cases in 1968. In the subsequent years up to 1975, there were only five cases in total. Overall, the number of polio cases also decreased from 1,067 notified cases for the period 1954 to 1964 to 62 cases from 1965 to 1975. Not a single case was reported in 1969, 1970, 1974 and 1975.
 
