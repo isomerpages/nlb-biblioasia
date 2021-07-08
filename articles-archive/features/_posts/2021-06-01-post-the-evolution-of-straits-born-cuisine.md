@@ -108,5 +108,6 @@ One of the traits of a great cuisine is its ability to retain its traditional ro
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-2/authors/Nadya-Suradi.png" style="width: 100px; height: 100px;" />
-<b>Nadya Suradi</b> is an Assistant Manager with Programmes and Exhibitions. She curates programmes to introduce younger people to the collections of the National Library and National Archives.
+<b>Lee Geok Boi</b> has a life-long interest in all aspects of food but especially in cooking it. She is the 
+author of several books and a prolific writer of cookbooks focusing on Asian cuisines and, in particular, Southeast Asian recipes. 
 </div>
