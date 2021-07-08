@@ -107,7 +107,7 @@ One of the traits of a great cuisine is its ability to retain its traditional ro
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-2/authors/Nadya-Suradi.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-2/authors/Lee%20Geok%20Boi.png" style="width: 100px; height: 100px;" />
 <b>Lee Geok Boi</b> has a life-long interest in all aspects of food but especially in cooking it. She is the 
 author of several books and a prolific writer of cookbooks focusing on Asian cuisines and, in particular, Southeast Asian recipes. 
 </div>
