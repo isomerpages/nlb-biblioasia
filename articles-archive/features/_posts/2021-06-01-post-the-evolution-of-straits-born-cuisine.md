@@ -123,8 +123,7 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 
 [^5]North Carolina Soybean Production Association. (2019). *History of soybeans*. Retrieved from NC Soybean Producers Association website.
 
+[^6]Matsuyama, A. (2003). *[The traditional dietary culture of Southeast Asia: Its formation and pedigree*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123011) (p. 112). London: Keegan Paul. (Call no.: RSEA 394.10959 MAT) 
 
+[^7]Mintz, S.W. (1985). [*Sweetness and power: The place of sugar in modern history*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13079336) (p. 19). New York: Viking. (Call no.: RCLOS 394.12 MIN)
 
-
-
-[1]: A. Kadir Pandi. (1986, March 26). [Kain songket lambang budaya kita](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860326-1.2.62.8.2). *The Straits Times*, p. 5; Zakaria Buang. (1982, November 29). [Pakaian pengantin tradisional](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19811129-1.2.20). *Berita Minggu*, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. *Wacana Seni Journal of Arts Discourse, 15*, 63–94. Retrieved from ResearchGate website.
