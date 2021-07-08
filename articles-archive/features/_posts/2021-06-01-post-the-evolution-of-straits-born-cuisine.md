@@ -115,4 +115,12 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 #### NOTES
 [^1] Eurasians are persons with mixed European and Asian lineage. Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. See Ho, S. (2013, July 25). [*Eurasian community.*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html) Retrieved from Singapore Infopedia website.
 
+[^2]The Chetti Melaka, or Peranakan Indians, are the descendants of Tamil traders who settled in Melaka during the reign of the Melaka Sultanate and married local women of Malay and Chinese descent. National Heritage Board. (2020, November 13). *Chetti Melaka of the Straits – Rediscovering Peranakan Indian communities.* Retrieved from Roots website. 
+
+
+
+
+
+
+
 [1]: A. Kadir Pandi. (1986, March 26). [Kain songket lambang budaya kita](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860326-1.2.62.8.2). *The Straits Times*, p. 5; Zakaria Buang. (1982, November 29). [Pakaian pengantin tradisional](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19811129-1.2.20). *Berita Minggu*, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. *Wacana Seni Journal of Arts Discourse, 15*, 63–94. Retrieved from ResearchGate website.
