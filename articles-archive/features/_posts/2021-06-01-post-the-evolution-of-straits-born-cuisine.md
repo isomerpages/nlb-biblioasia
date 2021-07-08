@@ -149,3 +149,6 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 
 [^18]Handy, E. (1960). [*My favourite recipes* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181823)(p. 57.) *Singapore: Singapore: Malaya Publishing House. (Call no.: RLOCS 641.595 HAN) *
 
+[^19]Lee, C.K., Mrs. (1974). [*Mrs. Lee’s cookbook: Nonya recipes and other favourite recipes.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081778) Singapore: [The Author]. (Call no: RSING 641.595957 LEE)
+
+[^20]
