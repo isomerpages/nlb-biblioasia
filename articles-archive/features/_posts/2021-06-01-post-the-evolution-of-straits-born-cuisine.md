@@ -151,4 +151,8 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 
 [^19]Lee, C.K., Mrs. (1974). [*Mrs. Lee’s cookbook: Nonya recipes and other favourite recipes.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081778) Singapore: [The Author]. (Call no: RSING 641.595957 LEE)
 
-[^20]
+[^20][Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9129591), 1998, p. 27.
+
+[^21][Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081778), 1974, unpaginated.
+
+[^22]Leong, Y.S. (1976). [*Singaporean cooking.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551115) Singapore: Eastern Universities Press. (Call no.: RSING 641.595957 LEO)
