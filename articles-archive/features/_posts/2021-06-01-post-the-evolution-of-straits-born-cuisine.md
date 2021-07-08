@@ -117,7 +117,11 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 
 [^2]The Chetti Melaka, or Peranakan Indians, are the descendants of Tamil traders who settled in Melaka during the reign of the Melaka Sultanate and married local women of Malay and Chinese descent. National Heritage Board. (2020, November 13). *Chetti Melaka of the Straits – Rediscovering Peranakan Indian communities.* Retrieved from Roots website. 
 
+[^3]Sengupta, J. (2017, August 30). *India’s cultural and civilisational influence on Southeast Asia*. Retrieved from Observer Research Foundation website. 
 
+[^4]Kwa, C.G., & Kua, B.L. (Eds.). (2019). *[A general history of the Chinese in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868804) (p. 9). Singapore: Singapore Federation of Chinese Clan Associations and World Scientific. (Call no.: RSING 305.895105957 GEN)
+
+[^5]North Carolina Soybean Production Association. (2019). *History of soybeans*. Retrieved from NC Soybean Producers Association website.
 
 
 
