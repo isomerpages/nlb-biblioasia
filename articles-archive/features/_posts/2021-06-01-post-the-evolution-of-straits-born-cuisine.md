@@ -111,3 +111,8 @@ One of the traits of a great cuisine is its ability to retain its traditional ro
 <b>Lee Geok Boi</b> has a life-long interest in all aspects of food but especially in cooking it. She is the 
 author of several books and a prolific writer of cookbooks focusing on Asian cuisines and, in particular, Southeast Asian recipes. 
 </div>
+
+#### NOTES
+[^1] Eurasians are persons with mixed European and Asian lineage. Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. See Ho, S. (2013, July 25). [*Eurasian community.*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html) Retrieved from Singapore Infopedia website.
+
+[1]: A. Kadir Pandi. (1986, March 26). [Kain songket lambang budaya kita](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860326-1.2.62.8.2). *The Straits Times*, p. 5; Zakaria Buang. (1982, November 29). [Pakaian pengantin tradisional](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19811129-1.2.20). *Berita Minggu*, p. 3. Retrieved from NewspaperSG; Hanisa Hasan. (2016, November 15). A study on the development of baju kurung design in the context of cultural changes in modern Malaysia. *Wacana Seni Journal of Arts Discourse, 15*, 63–94. Retrieved from ResearchGate website.
