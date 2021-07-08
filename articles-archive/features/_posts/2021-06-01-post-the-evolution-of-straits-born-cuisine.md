@@ -23,9 +23,7 @@ The Straits, in this case, refers not only to the territories of the former Stra
 
 In Straits-born kitchens, housewives and servants whipped up meals that were rooted in the geography, history and traditional ingredients of Island Southeast Asia. These resulted in a fusion cuisine that we enjoy and are familiar with today.
 
-#####**The Rich Flavours of 
-Straits-born Cuisine**
-
+##### **The Rich Flavours of Straits-born Cuisine**
 What makes a cuisine Straits-born? Well, it would feature dishes that are an amalgamation of Indian, Chinese and European influences infused with traditional Malay-Indonesian and Southeast Asian cooking. The latter two cuisines evolved from what indigenous cooks first found in the wild and began cultivating in kitchen gardens, along with ingredients sourced from village markets. 
 
 Numerous aromatics such as lemongrass (*Cymbopogon*) or serai in Malay, and galangal (*Alpinia galanga*) or greater galangal, also known as *lengkuas* or blue ginger, are native to Southeast Asia. Several types of ginger such as the common ginger (*Zingiber officinale*) can be found across Asia – from South Asia through Southeast Asia to East Asia. Locally available plants that yield fragrant leaves used in Straits cooking include those from the kaffir lime or *limau perut* in Malay (*Citrus hystrix*), also known as the makrut lime, and the pandan (*Pandanus amaryllifolius*) or screwpine. 
@@ -60,8 +58,8 @@ Another festive treat is *kueh Belanda* (meaning “Dutch cake” in Malay), com
 
 Interestingly, a recipe labelled as “Dutch” for *Ijzer Koekes*, translated as “Iron (thin) Cakes”, was found in a compilation of traditional Sri Lankan recipes first published in 1929.[^9] The recipe is identical to that for *kueh Belanda*. What Singaporeans call “love letters” are better known as *kueh kapit* in Penang, where the thin *kueh* is folded flat into a triangular shape rather than rolled into a cigarillo-like *ijzer koek* or love letter. 
 
-#####**Tracing Straits-born Cooking**
 
+##### **Tracing Straits-born Cooking**
 Unlike textiles or pottery, delectable dishes have an ephemeral existence. Fortunately, recipes are almost always transmitted orally within families and communities and many of these traditional recipes have  also found their way into cookbooks. This makes tracing the evolution of Straits-born cuisine easier and more accurate.[^10]
 
 What is probably the first local cookbook was *The Y.W.C.A. of Malaya Cookery Book: A Book of Culinary Information and Recipes Compiled in Malaya*, published in 1931.[^11] It was edited by Mrs R.E. Holttum, wife of the director of the Singapore Botanic Gardens, and Mrs T.W. Hinch, wife of the principal of Anglo-Chinese School. The book was very well received and went through nine editions, the last in 1962. 
@@ -97,8 +95,7 @@ Perhaps similarly inspired, her sister, Mrs Leong Yee Soo, also published her co
 
 In all likelihood, all these early cookbooks contained heritage recipes that had been tweaked and modified over time into family favourites.
 
-#####**Preservation and Alteration**
-
+##### **Preservation and Alteration**
 In his book, *The Traditional Dietary Culture of Southeast Asia*, Akira Matsuyama proposes two concepts for studying the dietary culture of the region. One is to look at “conventionality” when traditional food is defined as food that has stood the test of time, and the other is “aboriginality” or the linkage of this food to the inhabitants of the area. Both conventionality and aboriginality are seen in Straits-born cooking. Matsuyama writes: “The preservation of tradition and acceptance of alteration are two aspects of the dietary culture of Southeast Asia.”[^23]
 
 These two trends – preservation and alteration – are hallmarks of Straits cuisine in Singapore. Today, creative cooks and chefs have been experimenting, introducing unlikely, new-fangled combinations such as *otak-otak* buns and foie gras *tau kua pau*. At the same time, they have also preserved much of the cuisine’s conventional and aboriginal characteristics. 
@@ -113,48 +110,48 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 </div>
 
 #### NOTES
-[^1] Eurasians are persons with mixed European and Asian lineage. Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. See Ho, S. (2013, July 25). [*Eurasian community.*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html) Retrieved from Singapore Infopedia website.
+[^1]:  Eurasians are persons with mixed European and Asian lineage. Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. See Ho, S. (2013, July 25). [*Eurasian community.*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html) Retrieved from Singapore Infopedia website.
 
-[^2]The Chetti Melaka, or Peranakan Indians, are the descendants of Tamil traders who settled in Melaka during the reign of the Melaka Sultanate and married local women of Malay and Chinese descent. National Heritage Board. (2020, November 13). *Chetti Melaka of the Straits – Rediscovering Peranakan Indian communities.* Retrieved from Roots website. 
+[^2]: The Chetti Melaka, or Peranakan Indians, are the descendants of Tamil traders who settled in Melaka during the reign of the Melaka Sultanate and married local women of Malay and Chinese descent. National Heritage Board. (2020, November 13). *Chetti Melaka of the Straits – Rediscovering Peranakan Indian communities.* Retrieved from Roots website. 
 
-[^3]Sengupta, J. (2017, August 30). *India’s cultural and civilisational influence on Southeast Asia*. Retrieved from Observer Research Foundation website. 
+[^3]: Sengupta, J. (2017, August 30). *India’s cultural and civilisational influence on Southeast Asia*. Retrieved from Observer Research Foundation website. 
 
-[^4]Kwa, C.G., & Kua, B.L. (Eds.). (2019). *[A general history of the Chinese in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868804) (p. 9). Singapore: Singapore Federation of Chinese Clan Associations and World Scientific. (Call no.: RSING 305.895105957 GEN)
+[^4]: Kwa, C.G., & Kua, B.L. (Eds.). (2019). *[A general history of the Chinese in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868804) (p. 9). Singapore: Singapore Federation of Chinese Clan Associations and World Scientific. (Call no.: RSING 305.895105957 GEN)
 
-[^5]North Carolina Soybean Production Association. (2019). *History of soybeans*. Retrieved from NC Soybean Producers Association website.
+[^5]: North Carolina Soybean Production Association. (2019). *History of soybeans*. Retrieved from NC Soybean Producers Association website.
 
-[^6]Matsuyama, A. (2003). *[The traditional dietary culture of Southeast Asia: Its formation and pedigree*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123011) (p. 112). London: Keegan Paul. (Call no.: RSEA 394.10959 MAT) 
+[^6]: Matsuyama, A. (2003). *[The traditional dietary culture of Southeast Asia: Its formation and pedigree*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123011) (p. 112). London: Keegan Paul. (Call no.: RSEA 394.10959 MAT) 
 
-[^7]Mintz, S.W. (1985). [*Sweetness and power: The place of sugar in modern history*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13079336) (p. 19). New York: Viking. (Call no.: RCLOS 394.12 MIN)
+[^7]: Mintz, S.W. (1985). [*Sweetness and power: The place of sugar in modern history*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13079336) (p. 19). New York: Viking. (Call no.: RCLOS 394.12 MIN)
 
-[^8]For more information on kueh lapis, see Tan, C. (2021, Jan–Mar). [*Love is a many-layered thing.* ](https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/kueh-lapis)*BiblioAsia, 16* (4). Retrieved from BiblioAsia website.  
+[^8]: For more information on kueh lapis, see Tan, C. (2021, Jan–Mar). [*Love is a many-layered thing.* ](https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/kueh-lapis)*BiblioAsia, 16* (4). Retrieved from BiblioAsia website.  
 
-[^9]Deutrom, H. (2013). *Ceylon daily news cookery book* (5th ed., p. 261). Colombo, Stamford Lake. (Not available in NLB holdings)
+[^9]: Deutrom, H. (2013). *Ceylon daily news cookery book* (5th ed., p. 261). Colombo, Stamford Lake. (Not available in NLB holdings)
 
-[^10]Wee, S. (2012). [*Growing up in a nonya kitchen: Singapore recipes from my mother.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14293039) Singapore: Marshall Cavendish. (Call no.: 641.595957 WEE); Tan, C. (1983). [*Penang nyonya cooking: Foods of my childhood.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080160) Petaling Jaya: Eastern Universities Press. (Call no.: RSING q641.59595 TAN). There is no cookbook on Chetti food that I am aware of although there are some Chetti-like recipes in Sanmugam, D. (1997). [*Banana leaf temptations.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8815349)Singapore: VJ Times. (Call no.: RSING 641.5948 SAN) and Gomes, M. (2001). *[The Eurasian cookbook.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10902933) Singapore: Horizon Books. (Call no.: RSING q641.5 GOM) 
+[^10]: Wee, S. (2012). [*Growing up in a nonya kitchen: Singapore recipes from my mother.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14293039) Singapore: Marshall Cavendish. (Call no.: 641.595957 WEE); Tan, C. (1983). [*Penang nyonya cooking: Foods of my childhood.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080160) Petaling Jaya: Eastern Universities Press. (Call no.: RSING q641.59595 TAN). There is no cookbook on Chetti food that I am aware of although there are some Chetti-like recipes in Sanmugam, D. (1997). [*Banana leaf temptations.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8815349)Singapore: VJ Times. (Call no.: RSING 641.5948 SAN) and Gomes, M. (2001). *[The Eurasian cookbook.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10902933) Singapore: Horizon Books. (Call no.: RSING q641.5 GOM) 
 
-[^11]Looking at old locally published cookbooks means looking at Malayan cookbooks. The concept of a Singapore separate from Malaya did not come into being until 1965 when Singapore became an independent republic. The National Library does not have this 1931 edition, but it has the 1937, 1939, 1948, 1951 and 1962 editions. See Holttum, R.E., Mrs, & Hinch, T.W., Mrs. (Eds.). (1937). [*The Y.W.C.A. international cookery book of Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12767940)[Kuala Lumpur]: Malayan Y.W.C.A. (Call no.: RRARE 641.59595 YWA; Microfilm no.: NL29320); Holttum, R.E., Mrs, & Waite, D.S., Mrs. (Eds.). (1939). [*The Y.W.C.A. international cookery book of Malaya.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202742186) [s.l.]: Malayan Committee of the Young Women’s Christian Association. (Call no.: RRARE 641.59595 YWC; Accession no.: B29232809B); Llewellyn, A.E., Mrs. (Ed.). (1948). [*The Y.W.C.A. of Malaya international cookery book.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589) [Kuala Lumpur]: Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YWC); Llewellyn, A.E., Mrs. (Ed.). (1951). [*The Y.W.C.A. of Malaya & Singapore cookery book: A book of culinary information and recipes compiled in Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221740)[s.l.]: Y.W.C.A. of Malaya and Singapore. (Call no.: RCLOS 641.595951 YWC); Llewellyn, A.E., Mrs. (Ed.). (1962). [*The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681)[Kuala Lumpur]: Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
+[^11]: Looking at old locally published cookbooks means looking at Malayan cookbooks. The concept of a Singapore separate from Malaya did not come into being until 1965 when Singapore became an independent republic. The National Library does not have this 1931 edition, but it has the 1937, 1939, 1948, 1951 and 1962 editions. See Holttum, R.E., Mrs, & Hinch, T.W., Mrs. (Eds.). (1937). [*The Y.W.C.A. international cookery book of Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12767940)[Kuala Lumpur]: Malayan Y.W.C.A. (Call no.: RRARE 641.59595 YWA; Microfilm no.: NL29320); Holttum, R.E., Mrs, & Waite, D.S., Mrs. (Eds.). (1939). [*The Y.W.C.A. international cookery book of Malaya.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202742186) [s.l.]: Malayan Committee of the Young Women’s Christian Association. (Call no.: RRARE 641.59595 YWC; Accession no.: B29232809B); Llewellyn, A.E., Mrs. (Ed.). (1948). [*The Y.W.C.A. of Malaya international cookery book.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589) [Kuala Lumpur]: Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YWC); Llewellyn, A.E., Mrs. (Ed.). (1951). [*The Y.W.C.A. of Malaya & Singapore cookery book: A book of culinary information and recipes compiled in Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221740)[s.l.]: Y.W.C.A. of Malaya and Singapore. (Call no.: RCLOS 641.595951 YWC); Llewellyn, A.E., Mrs. (Ed.). (1962). [*The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681)[Kuala Lumpur]: Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
 
-[^12]Yule, H., & Burnell, A.C. (1886). [*Hobson-Jobson: Being a glossary of colloquial Anglo-Indian words and phrases, and of kindred terms; etymological, historical, geographical and discursive*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202585839) (p. 5). London: John Murray. (Call no.: RRARE 422.03 YUL-[JSB]; Accession no.: B29265644E)
+[^12]: Yule, H., & Burnell, A.C. (1886). [*Hobson-Jobson: Being a glossary of colloquial Anglo-Indian words and phrases, and of kindred terms; etymological, historical, geographical and discursive*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202585839) (p. 5). London: John Murray. (Call no.: RRARE 422.03 YUL-[JSB]; Accession no.: B29265644E)
 
-[^13]Handy, E. (1952). [*My favourite recipes.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202764155) Singapore: Printed at the Malaya Publishing House Ltd. (Call no.: RCLOS 641.595 HAN-[JK])
+[^13]: Handy, E. (1952). [*My favourite recipes.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202764155) Singapore: Printed at the Malaya Publishing House Ltd. (Call no.: RCLOS 641.595 HAN-[JK])
 
-[^14]Lane, L. (1964). [*Malayan cookery recipes tested in Malayan schools.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077879) Singapore: Printed by Eastern Universities Press for University of London Press. (Call no.: RCLOS 641.59595 LAN)
+[^14]: Lane, L. (1964). [*Malayan cookery recipes tested in Malayan schools.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077879) Singapore: Printed by Eastern Universities Press for University of London Press. (Call no.: RCLOS 641.59595 LAN)
 
-[^15][Matsuyama](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123011), 2003, p. 138. 
+[^15]: [Matsuyama](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123011), 2003, p. 138. 
 
-[^16]Hing, S., Mrs (1956). [*In a Malayan kitchen.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437) Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN-[RFL])
+[^16]: Hing, S., Mrs (1956). [*In a Malayan kitchen.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437) Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN-[RFL])
 
-[^17]Lee, K.Y. (1998). [*The Singapore story: Memoirs of Lee Kuan Yew* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9129591)(p. 27). Singapore: Times Editions, Singapore Press Holdings. (Call no.: RSING 959.57 LEE-[HIS])
+[^17]: Lee, K.Y. (1998). [*The Singapore story: Memoirs of Lee Kuan Yew* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9129591)(p. 27). Singapore: Times Editions, Singapore Press Holdings. (Call no.: RSING 959.57 LEE-[HIS])
 
-[^18]Handy, E. (1960). [*My favourite recipes* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181823)(p. 57.) *Singapore: Singapore: Malaya Publishing House. (Call no.: RLOCS 641.595 HAN) *
+[^18]: Handy, E. (1960). [*My favourite recipes* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181823)(p. 57.) *Singapore: Singapore: Malaya Publishing House. (Call no.: RLOCS 641.595 HAN) *
 
-[^19]Lee, C.K., Mrs. (1974). [*Mrs. Lee’s cookbook: Nonya recipes and other favourite recipes.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081778) Singapore: [The Author]. (Call no: RSING 641.595957 LEE)
+[^19]: Lee, C.K., Mrs. (1974). [*Mrs. Lee’s cookbook: Nonya recipes and other favourite recipes.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081778) Singapore: [The Author]. (Call no: RSING 641.595957 LEE)
 
-[^20][Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9129591), 1998, p. 27.
+[^20]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9129591), 1998, p. 27.
 
-[^21][Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081778), 1974, unpaginated.
+[^21]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081778), 1974, unpaginated.
 
-[^22]Leong, Y.S. (1976). [*Singaporean cooking.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551115) Singapore: Eastern Universities Press. (Call no.: RSING 641.595957 LEO)
+[^22]: Leong, Y.S. (1976). [*Singaporean cooking.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551115) Singapore: Eastern Universities Press. (Call no.: RSING 641.595957 LEO)
 
-[^23][Matsuyama](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123011), 2003, p. 4.
+[^23]: [Matsuyama](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123011), 2003, p. 4.
