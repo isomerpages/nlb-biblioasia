@@ -172,7 +172,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^25]: Uchida, Y. (1994). *The wise old woman*. New York: Margaret K. McElderry. (Call no.: RAC398.20952 UCH-[ACL])
 
-[^26]: Young, E. (2004). *I, Doko: The tale of a basket*. New York: Philomel Books (Call no.: RAC 813.54 YOU)
+[^26]: Young, E. (2004). *[I, Doko: The tale of a basket](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12399597)*. New York: Philomel Books (Call no.: RAC 813.54 YOU)
 
 [^27]: *Stories from Asia: The Asian children’s literature collection*, 2016, pp. 22–25.
 
