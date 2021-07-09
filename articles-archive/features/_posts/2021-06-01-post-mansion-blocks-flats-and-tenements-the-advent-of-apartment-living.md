@@ -140,23 +140,23 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 [^1]: Georges-Eugène Haussmann, commonly known as Baron Haussmann (1809–91), was a French official who served as prefect of Seine (1853–70) and was chosen by Emperor Napoleon III to carry out a massive urban renewal programme of new boulevards, parks and public works in Paris.  
 
 
-[^2]: For more information about Joseph Aaron Elias, see Chia, J.Y.J. (2017). *Joseph Aaron Elias.* Retrieved from Singapore Infopedia website. 
+[^2]: For more information about Joseph Aaron Elias, see Chia, J.Y.J. (2017). [*Joseph Aaron Elias.*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1206_2008-12-05.html) Retrieved from Singapore Infopedia website. 
 
 
 [^3]: The architect who designed A.J. Elias’ two-storey building was Regent Alfred John Bidwell, who joined Swan & Maclaren in 1895. He became a partner in 1899. 
 
 [^4]: A gable is the triangular-shaped top part of a wall that meets the sloping roofs of a building. A Dutch gable has curved sides rather than straight sides.
 
-[^5]: Company Meetings. Singapore Building Corporation. (1923, December 26). *The Singapore Free Press and Mercantile Advertiser,* p. 4.  Retrieved from NewspaperSG.
+[^5]: [Company Meetings. Singapore Building Corporation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19231226-1.2.29). (1923, December 26). *The Singapore Free Press and Mercantile Advertiser,* p. 4.  Retrieved from NewspaperSG.
 
 [^6]: A loggia is a design feature of Italian origin and refers to an arcaded gallery or corridor, open on at least one side and affording a protected seating place with a view. The Arts and Crafts Movement, which emerged in England in the latter half of the 19th century, was an aesthetic movement in the decorative and fine arts. This movement later spread to Europe and America. 
 
 
-[^7]: For more information about Eu Tong Sen, see Chow, A. (2014, September 15). *Eu Tong Sen.* Retrieved from Singapore Infopedia website. 
+[^7]: For more information about Eu Tong Sen, see Chow, A. (2014, September 15). [*Eu Tong Sen*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_790_2005-01-22.html). Retrieved from Singapore Infopedia website. 
 
 [^8]: Classical architecture originated in ancient Greece and Rome, and is characterised by symmetry, regular proportions, columns, and the use of stone or marble as a primary building material.
 
-[^9]: For more information about Manasseh Meyer, see Tan, B. (2010). *Manasseh Meyer.* Retrieved from Singapore Infopedia website. 
+[^9]: For more information about Manasseh Meyer, see Tan, B. (2010). [*Manasseh Meyer*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_830_2004-12-29.html). Retrieved from Singapore Infopedia website. 
 
 [^10]: In Britain, the use of the word “mansion” (usually in the plural) to describe a block of flats was something that crept in during the late-19th century as property developers tried to encourage an emerging generation of middle- and upper-class urbanites to buy into what at the time was a wholly new residential typology – it lent a “touch of class”, or so people thought.
 
@@ -167,4 +167,4 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 
 [^13]: “Li” means neighbourhood and “Long” means lane. A *lilong* is a type of housing that developed in Shanghai in the 19th century and is a characteristic of the city. It melds Western architectural details with traditional Chinese spatial arrangements. 
 
-[^14]: Buildings in Singapore. (1928, September 15). *The Straits Times,* p. 10. Retrieved from NewspaperSG.
+[^14]: [Buildings in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280915-1.2.91). (1928, September 15). *The Straits Times,* p. 10. Retrieved from NewspaperSG.
