@@ -82,4 +82,30 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 
 #### **NOTES**
-[^1]: NTU building and road renamed in honour of pioneers. (2019, October 20). *The Sunday Times*. Retrieved from The Straits Times website.
+[^1]: 李想 [Li, X.]. (2000).《花木兰》[Hua Mulan] (p. 18). Singapore: Newton Publications. (Call no.: Chinese RAC 398.20951 LX-[FOL])
+
+[^2]: Dong, L. (2006, April). Writing Chinese America into words and images: Storytelling and retelling of the song of Mu Lan. The Lion and the Unicorn, 30 (2), 218–233, p. 219. Retrieved from ProQuest Central via NLB’s eResources website.
+
+[^3]: The period that followed the Eastern Jin dynasty (东晋, 317–420) and before the establishment of the Sui dynasty in 581 is commonly referred to as the Northern and Southern dynasties (南北朝). The Southern Dynasties (420–589) referred to the four dynasties, namely Song (宋), Qi (齐), Liang (梁) and Chen (陈), which ruled the southern part of China from Jiankang (建康, modern-day Nanjing). In contrast, the northern part of China was in a state of war from 304 to 439 [known to historians as the era of Sixteen Kingdoms (十六国)] until the Tuoba clan of the Xianbei established the (Northern) Wei dynasty ((北)魏) and conquered the most part of northern China. The regime under the Tuoba clan was short-lived and northern China was ruled under different clans and factions, each establishing their own dynasty. These dynasties were collectively referred to as the Northern dynasties. For more details, see Ebrey, P.B. (1996). The Cambridge illustrated history of China (pp. 89–93). Cambridge; New York: Cambridge University Press. (Call no.: R 951 EBR)
+
+[^4]: For more details on the different versions of Mulan in different periods in the history of China, see Lan, F. (2003, Summer). The female individual and the empire: A historicist approach to Mulan and Kingston’s woman warrior. Comparative Literature, 55 (3), 229–245. Retrieved from JSTOR via NLB’s eResources website; Edwards, L. (2016). Women warriors and wartime spies of China (pp. 17–39). Cambridge, United Kingdom; New York, New York: Cambridge University Press. (Call no.: 355.0092 EDW); Yang, Q. (2018). Mulan in China and America: From premodern to modern. Comparative Literature: East & West, 2 (1), 45–59. Retrieved from Taylor & Francis Online website.
+
+[^5]: Yang, 2018, pp. 49–50. 
+
+[^6]: Kingston, M.H. (1989). The woman warrior: Memoirs of a girlhood among ghosts. London: Picador. (Call no.: 305.8951073 KIN)
+
+[^7]: 李想, 2000, p. 19.
+
+[^8]: Lee, J.M. (1995). The song of Mu Lan. Arden, North Carolina: Front Street. (Call no.: RAC 895.1 MUL-[ACL])
+Song, N.Z. (1998). The ballad of Mulan. Union City, California: Pan Asian Publications. (Call no.: 398.220951 ZHA-[FOL])
+Song, 1998, unpaginated.
+李想 [Li, X.]. (1998).《花木兰》[Hua Mulan]. Singapore: Newton Publications. (Call no.: Chinese RAC 398.2095102 HML-[FOL]); 李想, 2000. 
+李想, 2000, p. 19. 
+San Souci, R.D. (1998). Fa Mulan: The story of a woman warrior. New York: Hyperion Books for Children. (Call no.: RAC 398.2 SAN-[ACL])
+San Souci, 1998, Author’s note.
+San Souci, 1998, Author’s note.
+永春 [Yong, C.]. (2002).《花木兰》[Hua Mu Lan]. Singapore: 新亚出版社. (Call no.: Chinese RAC C813.4 YC); Wang, Z. (2020, July). Cultural “authenticity” as a conflict-ridden hypotext: Mulan (1998), Mulan joins the army (1939) and a millennium-long intertextual metamorphosis. Arts, 9 (3), 78. Retrieved from MDPI website. 
+Li, J. (2014). Mulan: A story in English and Chinese. New York: Better Link Press. (Call no.: RAC 398.2 JIA-[ACL])
+Gang, Y., & Xiao, G. (2007). The story of Mulan: The daughter and the warrior. Beijing: China Intercontinental Press. (Call no.: RAC 398.2 YI-[FOL])
+
+Li, 2014, back cover.
