@@ -72,7 +72,7 @@ As San Souci writes, Mulan’s courage and filial piety have inspired creators a
 
 Even now, some 1,500 years after the tale was first written, Mulan continues to serve as an inspiration and role model for girls and women today.
 
-|**BUNGA TELUR**|
+|**OF FAMILIAL LOVE AND SACRIFICE**|
 
 |Wedding favours are known as *berkat kahwin* or *berkat pengantin*. Traditionally, guests at Malay weddings are given a *bunga telur* (literally a “flower egg”) as a token of appreciation. A *bunga telur* comprises a red hard boiled egg resting on top of a bed of *pulut kunyit* (yellow glutinous rice) in a glass decorated with flowers, hence its name.[^35]|
 
