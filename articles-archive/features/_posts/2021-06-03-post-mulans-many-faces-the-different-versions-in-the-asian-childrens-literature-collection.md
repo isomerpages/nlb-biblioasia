@@ -92,7 +92,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^5]: Yang, 2018, pp. 49–50. 
 
-[^6]: Kingston, M.H. (1989). *The woman warrior: Memoirs of a girlhood among ghosts*. London: Picador. (Call no.: 305.8951073 KIN)
+[^6]: Kingston, M.H. (1989). *[The woman warrior: Memoirs of a girlhood among ghosts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201292588)*. London: Picador. (Call no.: 305.8951073 KIN)
 
 [^7]: 李想, 2000, p. 19.
 
