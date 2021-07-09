@@ -108,9 +108,9 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^13]: San Souci, R.D. (1998). *[Fa Mulan: The story of a woman warrior](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8458971)*. New York: Hyperion Books for Children. (Call no.: RAC 398.2 SAN-[ACL])
 
-[^14]: San Souci, 1998, Author’s note.
+[^14]: [San Souci](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8458971), 1998, Author’s note.
 
-[^15]: San Souci, 1998, Author’s note.
+[^15]: [San Souci](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8458971), 1998, Author’s note.
 
 [^16]: 永春 [Yong, C.]. (2002).《花木兰》[*Hua Mu Lan*]. Singapore: 新亚出版社. (Call no.: Chinese RAC C813.4 YC); Wang, Z. (2020, July). Cultural “authenticity” as a conflict-ridden hypotext: Mulan (1998), Mulan joins the army (1939) and a millennium-long intertextual metamorphosis. *Arts, 9* (3), 78. Retrieved from MDPI website. 
 
