@@ -25,7 +25,7 @@ Given that the tale is about 1,500 years old, the story of Mulan has inspired nu
 
 The authors or editors of these titles have adopted different approaches in their versions by combining elements of older Mulan stories with new re-interpretations. These can be broadly categorised into two groups, namely the re-telling of “The Ballad of Mulan”, largely sticking to the original poem, and the re-writing of the story of Mulan, which involves adding significant new elements.
 
-Re-telling The Ballad of Mulan
+##### **Re-telling The Ballad of Mulan**
 “脱我战时袍，著我旧时裳。当窗理云鬓，对镜贴花黄。”7
 (Translation: I remove my armour, change into my old dress; comb my hair by the window, and apply yellow powder in front of the mirror.)
 Several titles in the ACL Collection closely follow the format in the earliest known poem, The Ballad of Mulan. The Song of Mu Lan (1995) by Jeanne M. Lee is a direct translation of the ancient poem alongside its original Chinese text.8 The English translation and the original poem, which is faithfully reproduced in traditional Chinese calligraphy by Lee’s father, Chan Bo Wen, are juxtaposed against watercolour paintings on silk by Lee, each corresponding to a scene described in the respective verses. 
