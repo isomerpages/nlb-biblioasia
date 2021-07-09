@@ -182,7 +182,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^30]: *[Stories from Asia: The Asian children’s literature collection](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067)*, 2016, p. 25.
 
-[^31]: Herring, A., & Hirose, T. (1969). *Otogi-Banashi: A miniature toy-book from Japan*. Tokyo: Ise-Tatsu. (Call no.: RCLOS 895.63 HER) 
+[^31]: Herring, A., & Hirose, T. (1969). *[Otogi-Banashi: A miniature toy-book from Japan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202723538)*. Tokyo: Ise-Tatsu. (Call no.: RCLOS 895.63 HER) 
 
 [^32]: *[Stories from Asia: The Asian children’s literature collection](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067)*, 2016, pp. 132–133.
 
