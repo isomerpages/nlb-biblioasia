@@ -175,13 +175,13 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^26]: Young, E. (2004). I, Doko: The tale of a basket. New York: Philomel Books (Call no.: RAC 813.54 YOU)
 
-[^27]: Stories from Asia: The Asian children’s literature collection, 2016, pp. 22–25.
+[^27]: *Stories from Asia: The Asian children’s literature collection*, 2016, pp. 22–25.
 
-[^28]: Stories from Asia: The Asian children’s literature collection, 2016, p. 24.
+[^28]: *Stories from Asia: The Asian children’s literature collection*, 2016, p. 24.
 
-[^29]: Stories from Asia: The Asian children’s literature collection, 2016, p. 25.
+[^29]: *Stories from Asia: The Asian children’s literature collection*, 2016, p. 25.
 
-[^30]: Stories from Asia: The Asian children’s literature collection, 2016, p. 25.
+[^30]: *Stories from Asia: The Asian children’s literature collection*, 2016, p. 25.
 
 [^31]: Herring, A., & Hirose, T. (1969). *Otogi-Banashi: A miniature toy-book from Japan*. Tokyo: Ise-Tatsu. (Call no.: RCLOS 895.63 HER) 
 
