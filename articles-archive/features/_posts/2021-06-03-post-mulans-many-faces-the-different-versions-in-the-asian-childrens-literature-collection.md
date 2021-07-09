@@ -159,3 +159,26 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 [^18]: Gang, Y., & Xiao, G. (2007). *[The story of Mulan: The daughter and the warrior](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13067559)*. Beijing: China Intercontinental Press. (Call no.: RAC 398.2 YI-[FOL])
 
 [^19]: [Li](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201262042), 2014, back cover.
+
+[^20]: 雅瑟 & 苏阳 [Ya, S., & Su, Y.]. (2012).《中华句源: 品味文化精髓, 感受传世经典》[Zhonghua ju yuan] 
+(p. 202). Beijing: Beijing Book Co. Inc. (Call no.: Chinese 810.07 YS); Lee, C.Y. (2004). Emperor Chengzu and imperial filial piety of the Ming dynasty: From the Classic of Filial Piety to the Biographical Accounts of Filial Piety. In Chan, A.K.L. Chan & S.-H. Tan (Eds.). (2004). Filial piety in Chinese thought and history (pp. 144–151). London: RoutledgeCurzon (Call no.: R 173 FIL)
+
+[^21]: Ebrey, P.B. (1996). The Cambridge illustrated history of China (pp. 70–72). Cambridge; New York: Cambridge University Press. (Call no.: R 951 EBR)
+
+[^22]: Wong, R. (2016). Introduction: The power of stories (pp. 11–15). In Stories from Asia: The Asian Children’s Literature Collection. Singapore: National Library Board. (Call no.: R 809.89282)
+
+[^23]: Hearn, L., & Hodges, M. (1989). The voice of the great bell. Boston: Little, Brown & Company. (Call no.: RCLOS 398.20951 HOD)
+
+[^24]: San Souci, D. (1999). In the moonlight mist: A Korean tale. Honesdale, PA: Boyds Mills Press. (Call no.: RAC 398.209519 SAN-[ACL])
+
+[^25]: Uchida, Y. (1994). The wise old woman. New York: Margaret K. McElderry. (Call no.: RAC398.20952 UCH-[ACL]) 
+Young, E. (2004). I, Doko: The tale of a basket. New York: Philomel Books (Call no.: RAC 813.54 YOU)
+Stories from Asia: The Asian children’s literature collection, 2016, pp. 22–25.
+Stories from Asia: The Asian children’s literature collection, 2016, p. 24.
+Stories from Asia: The Asian children’s literature collection, 2016, p. 25.
+Stories from Asia: The Asian children’s literature collection, 2016, p. 25.
+Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. (Call no.: RCLOS 895.63 HER) 
+Stories from Asia: The Asian children’s literature collection, 2016, pp. 132–133.
+蟠桃八仙會 = Pang tao (Flat peaches), Eidht [i.e. Eight] Fairies Festival, a festival held on the 3d [i.e. 3rd day] of the 3d [i.e. 3rd] lunar month in honor of the Goddess Hsi Wang mu. c. 1900–1950). China: [s.n.]. (Call no.: RCLOS 398.0951 PAN)
+Stories from Asia: The Asian children’s literature collection, 2016, pp. 142–143.
+Stories from Asia: The Asian children’s literature collection, 2016, p. 26.
