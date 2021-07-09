@@ -118,4 +118,4 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^18]: Gang, Y., & Xiao, G. (2007). *[The story of Mulan: The daughter and the warrior](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13067559)*. Beijing: China Intercontinental Press. (Call no.: RAC 398.2 YI-[FOL])
 
-[^19]: Li, 2014, back cover.
+[^19]: [Li](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201262042), 2014, back cover.
