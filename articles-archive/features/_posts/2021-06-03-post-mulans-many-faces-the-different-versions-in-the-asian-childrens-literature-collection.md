@@ -171,14 +171,24 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^24]: San Souci, D. (1999). In the moonlight mist: A Korean tale. Honesdale, PA: Boyds Mills Press. (Call no.: RAC 398.209519 SAN-[ACL])
 
-[^25]: Uchida, Y. (1994). The wise old woman. New York: Margaret K. McElderry. (Call no.: RAC398.20952 UCH-[ACL]) 
-Young, E. (2004). I, Doko: The tale of a basket. New York: Philomel Books (Call no.: RAC 813.54 YOU)
-Stories from Asia: The Asian children’s literature collection, 2016, pp. 22–25.
-Stories from Asia: The Asian children’s literature collection, 2016, p. 24.
-Stories from Asia: The Asian children’s literature collection, 2016, p. 25.
-Stories from Asia: The Asian children’s literature collection, 2016, p. 25.
-Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. (Call no.: RCLOS 895.63 HER) 
-Stories from Asia: The Asian children’s literature collection, 2016, pp. 132–133.
-蟠桃八仙會 = Pang tao (Flat peaches), Eidht [i.e. Eight] Fairies Festival, a festival held on the 3d [i.e. 3rd day] of the 3d [i.e. 3rd] lunar month in honor of the Goddess Hsi Wang mu. c. 1900–1950). China: [s.n.]. (Call no.: RCLOS 398.0951 PAN)
-Stories from Asia: The Asian children’s literature collection, 2016, pp. 142–143.
-Stories from Asia: The Asian children’s literature collection, 2016, p. 26.
+[^25]: Uchida, Y. (1994). The wise old woman. New York: Margaret K. McElderry. (Call no.: RAC398.20952 UCH-[ACL])
+
+[^26]: Young, E. (2004). I, Doko: The tale of a basket. New York: Philomel Books (Call no.: RAC 813.54 YOU)
+
+[^27]: Stories from Asia: The Asian children’s literature collection, 2016, pp. 22–25.
+
+[^28]: Stories from Asia: The Asian children’s literature collection, 2016, p. 24.
+
+[^29]: Stories from Asia: The Asian children’s literature collection, 2016, p. 25.
+
+[^30]: Stories from Asia: The Asian children’s literature collection, 2016, p. 25.
+
+[^31]: Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. (Call no.: RCLOS 895.63 HER) 
+
+[^32]: Stories from Asia: The Asian children’s literature collection, 2016, pp. 132–133.
+
+[^33]: 蟠桃八仙會 = Pang tao (Flat peaches), Eidht [i.e. Eight] Fairies Festival, a festival held on the 3d [i.e. 3rd day] of the 3d [i.e. 3rd] lunar month in honor of the Goddess Hsi Wang mu. c. 1900–1950). China: [s.n.]. (Call no.: RCLOS 398.0951 PAN)
+
+[^34]: Stories from Asia: The Asian children’s literature collection, 2016, pp. 142–143.
+
+[^35]: Stories from Asia: The Asian children’s literature collection, 2016, p. 26.
