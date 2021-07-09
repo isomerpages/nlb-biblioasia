@@ -94,9 +94,9 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^6]: Kingston, M.H. (1989). *[The woman warrior: Memoirs of a girlhood among ghosts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201292588)*. London: Picador. (Call no.: 305.8951073 KIN)
 
-[^7]: 李想, 2000, p. 19.
+[^7]: [李想](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9999054), 2000, p. 19.
 
-[^8]: Lee, J.M. (1995). *The song of Mu Lan*. Arden, North Carolina: Front Street. (Call no.: RAC 895.1 MUL-[ACL])
+[^8]: Lee, J.M. (1995). *[The song of Mu Lan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7538760)*. Arden, North Carolina: Front Street. (Call no.: RAC 895.1 MUL-[ACL])
 
 [^9]: Song, N.Z. (1998). *The ballad of Mulan*. Union City, California: Pan Asian Publications. (Call no.: 398.220951 ZHA-[FOL])
 [^10]: Song, 1998, unpaginated.
