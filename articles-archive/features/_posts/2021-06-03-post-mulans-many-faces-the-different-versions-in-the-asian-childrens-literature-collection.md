@@ -34,7 +34,7 @@ Several titles in the ACL Collection closely follow the format in the earliest k
 
 Lee dedicates the book “to all women, young and old” and notes that “the verses of the poem are still taught to children in China today and are sung in Chinese opera in different dialects”. She stresses that the values of filial piety and loyalty conveyed in the story of Mulan are still relevant today and that Mulan is a good role model for all females.
 
-Another book, Song Nan Zhang’s The Ballad of Mulan (1998), is similar to Lee’s version, with the story in English and the original Chinese poem set against drawings depicting the different scenes.[^9] (Song also drew the illustrations in the book.)
+Another book, Song Nan Zhang’s *The Ballad of Mulan* (1998), is similar to Lee’s version, with the story in English and the original Chinese poem set against drawings depicting the different scenes.[^9] (Song also drew the illustrations in the book.)
 
 In Song’s interpretation, each drawing is enclosed within a frame which is similar to how early Chinese books are bound. Although Song follows the original storyline closely, he also includes minor new details and new lines. For example, the following lines describe the scene where Mulan appears before her fellow soldiers in female attire:
 
