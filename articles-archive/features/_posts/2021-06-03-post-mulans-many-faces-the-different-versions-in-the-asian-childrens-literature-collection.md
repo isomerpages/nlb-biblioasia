@@ -164,7 +164,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^21]: Ebrey, P.B. (1996). *[The Cambridge illustrated history of China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7598979)* (pp. 70–72). Cambridge; New York: Cambridge University Press. (Call no.: R 951 EBR)
 
-[^22]: Wong, R. (2016). Introduction: The power of stories (pp. 11–15). In *Stories from Asia: The Asian Children’s Literature Collection*. Singapore: National Library Board. (Call no.: R 809.89282)
+[^22]: Wong, R. (2016). Introduction: The power of stories (pp. 11–15). In *[Stories from Asia: The Asian Children’s Literature Collection](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067)*. Singapore: National Library Board. (Call no.: R 809.89282)
 
 [^23]: Hearn, L., & Hodges, M. (1989). *The voice of the great bell*. Boston: Little, Brown & Company. (Call no.: RCLOS 398.20951 HOD)
 
