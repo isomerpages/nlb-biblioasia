@@ -104,9 +104,9 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^11]: 李想 [Li, X.]. (1998).《[花木兰](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84465223)》[*Hua Mulan*]. Singapore: Newton Publications. (Call no.: Chinese RAC 398.2095102 HML-[FOL]); 李想, 2000.
 
-[^12]: 李想, 2000, p. 19.
+[^12]: [李想](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9999054), 2000, p. 19.
 
-[^13]: San Souci, R.D. (1998). *Fa Mulan: The story of a woman warrior*. New York: Hyperion Books for Children. (Call no.: RAC 398.2 SAN-[ACL])
+[^13]: San Souci, R.D. (1998). *[Fa Mulan: The story of a woman warrior](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8458971)*. New York: Hyperion Books for Children. (Call no.: RAC 398.2 SAN-[ACL])
 
 [^14]: San Souci, 1998, Author’s note.
 
