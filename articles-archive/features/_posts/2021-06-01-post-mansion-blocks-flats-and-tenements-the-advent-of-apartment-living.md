@@ -103,7 +103,7 @@ To this end, David commissioned Swan & Maclaren to design two rows of two-storey
 
 Part of the ground floor of the David Elias Building was occupied by David and Joe’s own business, D.J. Elias and Company, with Messrs Cold Storage & Co. as the anchor tenant. This was one of Cold Storage’s first ventures outside of Orchard Road, where the importer of frozen comestibles had first set up shop in early 1905. 
 
-In truth, the tenement-shophouses were not much different in terms of their layout and internal arrangements to the typical Singapore shophouse of the period, but there is something about these buildings that is reminiscent of similar housing typologies in contemporary Shanghai called lilong.[^13] Possibly it is the Shanghai plaster rendering that brings the association to mind, or the cantilevered bay windows on the upper storey, which are rather different from the usual shophouse fare and which help to contribute to the slightly exotic flavour of these buildings. 
+In truth, the tenement-shophouses were not much different in terms of their layout and internal arrangements to the typical Singapore shophouse of the period, but there is something about these buildings that is reminiscent of similar housing typologies in contemporary Shanghai called *lilong*.[^13] Possibly it is the Shanghai plaster rendering that brings the association to mind, or the cantilevered bay windows on the upper storey, which are rather different from the usual shophouse fare and which help to contribute to the slightly exotic flavour of these buildings. 
 
 The windows themselves are doubly unusual on account of the “blind” balustrading beneath the window sills, comprising pre-cast concrete balusters (series of pillars supporting a railing) that echo traditional wooden balusters turned on a lathe. 
 
@@ -111,7 +111,7 @@ The David Elias Building next door, though much larger in scale – three storey
 
 A Jewish “Star of David” motif appears at regular intervals on the main elevations – this was, after all, at the heart of the Mahallah – and also adorns the two Deco-style pediments, which bookend the Middle Road elevation; the latter also bear the legend “D.J. Elias Buildings” and the date of completion, which was 1928. 
 
-Completed in September that year, David Elias’s new venture was hailed by The Straits Times as “an important addition to the housing amenities of Singapore”.[^14] “Built on a site which was previously occupied by a single house and compound,” the article continues, “they afford, at reasonable rents, very acceptable housing accommodation in a congested district”. 
+Completed in September that year, David Elias’s new venture was hailed by *The Straits Times* as “an important addition to the housing amenities of Singapore”.[^14] “Built on a site which was previously occupied by a single house and compound,” the article continues, “they afford, at reasonable rents, very acceptable housing accommodation in a congested district”. 
 
 Not only was David Elias “to be congratulated on a well designed block of buildings”, but also for demonstrating “how sites in the centre of town can be used to the best advantage... in striking contrast to the old wasteful shophouse properties which are their immediate neighbours”. 
 
@@ -120,14 +120,14 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 
 |Established in 1892, Swan & Maclaren (named after Archibald Alexander Swan and James Waddell Boyd Maclaren) is the oldest architectural practice in Singapore. Its architects, such as Regent Alfred John Bidwell, Denis Santry and Frank Lundon, designed many of Singapore’s historic buildings, including the Raffles Hotel, Teutonia Club (present-day Goodwood Park Hotel), the Chesed-El Synagogue, Stamford House, Victoria Memorial Hall and Theatre, and the Tanjong Pagar Railway Terminal. |
 
-|The first 50 years of its history is detailed in Julian Davison’s Swan & Maclaren: A Story of Singapore Architecture, published by ORO Editions and the National Archives of Singapore in 2020. In this edited extract from Chapter 30, the author looks at some of the earliest apartment buildings in Singapore built by the firm. Note: Apart from the David Elias Building on Middle Road and the two rows of shophouses next door, all the other apartment blocks mentioned in this essay have been demolished.|
+|The first 50 years of its history is detailed in Julian Davison’s *Swan & Maclaren: A Story of Singapore Architecture*, published by ORO Editions and the National Archives of Singapore in 2020. In this edited extract from Chapter 30, the author looks at some of the earliest apartment buildings in Singapore built by the firm. Note: Apart from the David Elias Building on Middle Road and the two rows of shophouses next door, all the other apartment blocks mentioned in this essay have been demolished.|
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 </div>
 
-|Swan & Maclaren: A Story of Singapore Architecture (2020) is published by ORO Editions and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 720.95957 DAV and SING 720.95957 DAV). It retails at major bookshops in Singapore and is also sold online.|
+|*Swan & Maclaren: A Story of Singapore Architecture* (2020) is published by ORO Editions and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 720.95957 DAV and SING 720.95957 DAV). It retails at major bookshops in Singapore and is also sold online.|
 
 
 <div style="background-color: white;">
@@ -140,35 +140,31 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 [^1]: Georges-Eugène Haussmann, commonly known as Baron Haussmann (1809–91), was a French official who served as prefect of Seine (1853–70) and was chosen by Emperor Napoleon III to carry out a massive urban renewal programme of new boulevards, parks and public works in Paris.  
 
 
-[^2]: For more information about Joseph Aaron Elias, see Chia, J.Y.J. (2017). Joseph Aaron Elias. Retrieved from Singapore Infopedia website. 
+[^2]: For more information about Joseph Aaron Elias, see Chia, J.Y.J. (2017). *Joseph Aaron Elias.* Retrieved from Singapore Infopedia website. 
 
 
 [^3]: The architect who designed A.J. Elias’ two-storey building was Regent Alfred John Bidwell, who joined Swan & Maclaren in 1895. He became a partner in 1899. 
 
 [^4]: A gable is the triangular-shaped top part of a wall that meets the sloping roofs of a building. A Dutch gable has curved sides rather than straight sides.
 
-[^5]: Company Meetings. Singapore Building Corporation. (1923, December 26). The Singapore Free Press and Mercantile Advertiser, p. 4.  Retrieved from NewspaperSG.
+[^5]: Company Meetings. Singapore Building Corporation. (1923, December 26). *The Singapore Free Press and Mercantile Advertiser,* p. 4.  Retrieved from NewspaperSG.
 
 [^6]: A loggia is a design feature of Italian origin and refers to an arcaded gallery or corridor, open on at least one side and affording a protected seating place with a view. The Arts and Crafts Movement, which emerged in England in the latter half of the 19th century, was an aesthetic movement in the decorative and fine arts. This movement later spread to Europe and America. 
 
 
-[^7]: For more information about Eu Tong Sen, see Chow, A. (2014, September 15). Eu Tong Sen. Retrieved from Singapore Infopedia website. 
+[^7]: For more information about Eu Tong Sen, see Chow, A. (2014, September 15). *Eu Tong Sen.* Retrieved from Singapore Infopedia website. 
 
 [^8]: Classical architecture originated in ancient Greece and Rome, and is characterised by symmetry, regular proportions, columns, and the use of stone or marble as a primary building material.
 
-[^9]: For more information about Manasseh Meyer, see Tan, B. (2010). Manasseh Meyer. Retrieved from Singapore Infopedia website. 
+[^9]: For more information about Manasseh Meyer, see Tan, B. (2010). *Manasseh Meyer.* Retrieved from Singapore Infopedia website. 
 
 [^10]: In Britain, the use of the word “mansion” (usually in the plural) to describe a block of flats was something that crept in during the late-19th century as property developers tried to encourage an emerging generation of middle- and upper-class urbanites to buy into what at the time was a wholly new residential typology – it lent a “touch of class”, or so people thought.
 
-[^11]: Harris, W.T., & Allen, F.S. (Eds.). (1923). Webster’s new international dictionary of the English language, based on the international dictionary of 1890 and 1900 (p. 2127). Springfield, Mass., USA: G. & C. Merriam Company. Retrieved from Internet Archive website.  
+[^11]: Harris, W.T., & Allen, F.S. (Eds.). (1923). *Webster’s new international dictionary of the English language, based on the international dictionary of 1890 and 1900* (p. 2127). Springfield, Mass., USA: G. & C. Merriam Company. Retrieved from Internet Archive website.  
 
 
 [^12]: The term “compound house” referred to a free-standing dwelling situated on its own land, the latter being typically surrounded by a masonry wall on all sides, especially in an urban setting. The etymology of the term “compound”, as used in this content, as opposed to, say, a chemical compound, is said to have come from the Malay word “kampong”, or village.
 
-[^13]: “Li” means neighbourhood and “Long” means lane. A lilong is a type of housing that developed in Shanghai in the 19th century and is a characteristic of the city. It melds Western architectural details with traditional Chinese spatial arrangements. 
+[^13]: “Li” means neighbourhood and “Long” means lane. A *lilong* is a type of housing that developed in Shanghai in the 19th century and is a characteristic of the city. It melds Western architectural details with traditional Chinese spatial arrangements. 
 
-[^14]: Buildings in Singapore. (1928, September 15). The Straits Times, p. 10. Retrieved from NewspaperSG.
-
-
-
-
+[^14]: Buildings in Singapore. (1928, September 15). *The Straits Times,* p. 10. Retrieved from NewspaperSG.
