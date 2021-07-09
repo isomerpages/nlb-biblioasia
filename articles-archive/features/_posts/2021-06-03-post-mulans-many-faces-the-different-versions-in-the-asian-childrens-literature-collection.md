@@ -82,7 +82,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 
 #### **NOTES**
-[^1]: 李想 [Li, X.]. (2000).《花木兰》[*Hua Mulan*] (p. 18). Singapore: Newton Publications. (Call no.: Chinese RAC 398.20951 LX-[FOL])
+[^1]: 李想 [Li, X.]. (2000).《[花木兰](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9999054)》[*Hua Mulan*] (p. 18). Singapore: Newton Publications. (Call no.: Chinese RAC 398.20951 LX-[FOL])
 
 [^2]: Dong, L. (2006, April). Writing Chinese America into words and images: Storytelling and retelling of the song of Mu Lan. *The Lion and the Unicorn, 30* (2), 218–233, p. 219. Retrieved from ProQuest Central via NLB’s eResources website.
 
