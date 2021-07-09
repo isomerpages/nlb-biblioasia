@@ -21,8 +21,10 @@ Although filial piety and loyalty are constant themes in the different represent
 
 Recent efforts to reimagine the story of Mulan consist of books, stage adaptations, television serials and movies. They include the chapter “White Tigers” in Maxine Hong Kingston’s The Woman Warrior: Memoirs of a Girlhood Among Ghosts (1976)6 and of course Disney’s Mulan, comprising an animated film in 1998 and a live action drama film in 2020.
 
-Given that the tale is about 1,500 years old, the story of Mulan has inspired numerous books and iterations of the tale, as well as in various languages and for different age groups, including children. Some of these titles are available in the Asian Children’s Literature Collection (ACL Collection) of the National Library (see text box on pp. 19–20).  
-The authors or editors of these titles have adopted different approaches in their versions by combining elements of older Mulan stories with new re-interpretations. These can be broadly categorised into two groups, namely the re-telling of “The Ballad of Mulan”, largely sticking to the original poem, and the re-writing of the story of Mulan, which involves adding significant new elements. 
+Given that the tale is about 1,500 years old, the story of Mulan has inspired numerous books and iterations of the tale, as well as in various languages and for different age groups, including children. Some of these titles are available in the Asian Children’s Literature Collection (ACL Collection) of the National Library (see text box on pp. 19–20).
+
+The authors or editors of these titles have adopted different approaches in their versions by combining elements of older Mulan stories with new re-interpretations. These can be broadly categorised into two groups, namely the re-telling of “The Ballad of Mulan”, largely sticking to the original poem, and the re-writing of the story of Mulan, which involves adding significant new elements.
+
 Re-telling The Ballad of Mulan
 “脱我战时袍，著我旧时裳。当窗理云鬓，对镜贴花黄。”7
 (Translation: I remove my armour, change into my old dress; comb my hair by the window, and apply yellow powder in front of the mirror.)
