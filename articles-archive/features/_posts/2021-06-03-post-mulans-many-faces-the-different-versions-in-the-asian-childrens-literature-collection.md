@@ -96,7 +96,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^7]: 李想, 2000, p. 19.
 
-[^8]: Lee, J.M. (1995). The song of Mu Lan. Arden, North Carolina: Front Street. (Call no.: RAC 895.1 MUL-[ACL])
+[^8]: Lee, J.M. (1995). *The song of Mu Lan*. Arden, North Carolina: Front Street. (Call no.: RAC 895.1 MUL-[ACL])
 
 [^9]: Song, N.Z. (1998). *The ballad of Mulan*. Union City, California: Pan Asian Publications. (Call no.: 398.220951 ZHA-[FOL])
 [^10]: Song, 1998, unpaginated.
