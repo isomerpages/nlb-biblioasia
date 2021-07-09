@@ -167,11 +167,11 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^22]: Wong, R. (2016). Introduction: The power of stories (pp. 11–15). In Stories from Asia: The Asian Children’s Literature Collection. Singapore: National Library Board. (Call no.: R 809.89282)
 
-[^23]: Hearn, L., & Hodges, M. (1989). The voice of the great bell. Boston: Little, Brown & Company. (Call no.: RCLOS 398.20951 HOD)
+[^23]: Hearn, L., & Hodges, M. (1989). *The voice of the great bell*. Boston: Little, Brown & Company. (Call no.: RCLOS 398.20951 HOD)
 
-[^24]: San Souci, D. (1999). In the moonlight mist: A Korean tale. Honesdale, PA: Boyds Mills Press. (Call no.: RAC 398.209519 SAN-[ACL])
+[^24]: San Souci, D. (1999). *In the moonlight mist: A Korean tale*. Honesdale, PA: Boyds Mills Press. (Call no.: RAC 398.209519 SAN-[ACL])
 
-[^25]: Uchida, Y. (1994). The wise old woman. New York: Margaret K. McElderry. (Call no.: RAC398.20952 UCH-[ACL])
+[^25]: Uchida, Y. (1994). *The wise old woman*. New York: Margaret K. McElderry. (Call no.: RAC398.20952 UCH-[ACL])
 
 [^26]: Young, E. (2004). *I, Doko: The tale of a basket*. New York: Philomel Books (Call no.: RAC 813.54 YOU)
 
