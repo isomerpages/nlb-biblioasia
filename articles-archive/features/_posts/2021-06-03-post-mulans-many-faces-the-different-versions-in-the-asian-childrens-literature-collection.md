@@ -30,7 +30,7 @@ The authors or editors of these titles have adopted different approaches in thei
 
 (Translation: I remove my armour, change into my old dress; comb my hair by the window, and apply yellow powder in front of the mirror.)
 
-Several titles in the ACL Collection closely follow the format in the earliest known poem, The Ballad of Mulan. The Song of Mu Lan (1995) by Jeanne M. Lee is a direct translation of the ancient poem alongside its original Chinese text.[^8] The English translation and the original poem, which is faithfully reproduced in traditional Chinese calligraphy by Lee’s father, Chan Bo Wen, are juxtaposed against watercolour paintings on silk by Lee, each corresponding to a scene described in the respective verses.
+Several titles in the ACL Collection closely follow the format in the earliest known poem, *The Ballad of Mulan. The Song of Mu Lan* (1995) by Jeanne M. Lee is a direct translation of the ancient poem alongside its original Chinese text.[^8] The English translation and the original poem, which is faithfully reproduced in traditional Chinese calligraphy by Lee’s father, Chan Bo Wen, are juxtaposed against watercolour paintings on silk by Lee, each corresponding to a scene described in the respective verses.
 
 Lee dedicates the book “to all women, young and old” and notes that “the verses of the poem are still taught to children in China today and are sung in Chinese opera in different dialects”. She stresses that the values of filial piety and loyalty conveyed in the story of Mulan are still relevant today and that Mulan is a good role model for all females.
 
