@@ -70,7 +70,11 @@ It is not surprising that the tale of Mulan has become a popular story for child
 
 As San Souci writes, Mulan’s courage and filial piety have inspired creators and readers in Chinese communities worldwide. The preface of Yong Chun’s《花木兰》notes that Mulan exemplifies the Chinese values of loyalty (忠), filial piety (孝), benevolence (仁) and love (爱), as well as the wish for peace (追求和平生活的愿望). On the back cover of Li Jian’s *Mulan*, the blurb highlights the fact that “it was [Mulan’s] love for her family and her father that made her into a great soldier”.[^19] 
 
-Even now, some 1,500 years after the tale was first written, Mulan continues to serve as an inspiration and role model for girls and women today. 
+Even now, some 1,500 years after the tale was first written, Mulan continues to serve as an inspiration and role model for girls and women today.
+
+|**BUNGA TELUR**|
+
+|Wedding favours are known as *berkat kahwin* or *berkat pengantin*. Traditionally, guests at Malay weddings are given a *bunga telur* (literally a “flower egg”) as a token of appreciation. A *bunga telur* comprises a red hard boiled egg resting on top of a bed of *pulut kunyit* (yellow glutinous rice) in a glass decorated with flowers, hence its name.[^35]|
 
 <div style="background-color: white;">
 <br/>
