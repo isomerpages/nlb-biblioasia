@@ -26,24 +26,38 @@ Given that the tale is about 1,500 years old, the story of Mulan has inspired nu
 The authors or editors of these titles have adopted different approaches in their versions by combining elements of older Mulan stories with new re-interpretations. These can be broadly categorised into two groups, namely the re-telling of “The Ballad of Mulan”, largely sticking to the original poem, and the re-writing of the story of Mulan, which involves adding significant new elements.
 
 ##### **Re-telling The Ballad of Mulan**
-“脱我战时袍，著我旧时裳。当窗理云鬓，对镜贴花黄。”7
+“脱我战时袍，著我旧时裳。当窗理云鬓，对镜贴花黄。”[^7]
+
 (Translation: I remove my armour, change into my old dress; comb my hair by the window, and apply yellow powder in front of the mirror.)
-Several titles in the ACL Collection closely follow the format in the earliest known poem, The Ballad of Mulan. The Song of Mu Lan (1995) by Jeanne M. Lee is a direct translation of the ancient poem alongside its original Chinese text.8 The English translation and the original poem, which is faithfully reproduced in traditional Chinese calligraphy by Lee’s father, Chan Bo Wen, are juxtaposed against watercolour paintings on silk by Lee, each corresponding to a scene described in the respective verses. 
+
+Several titles in the ACL Collection closely follow the format in the earliest known poem, The Ballad of Mulan. The Song of Mu Lan (1995) by Jeanne M. Lee is a direct translation of the ancient poem alongside its original Chinese text.[^8] The English translation and the original poem, which is faithfully reproduced in traditional Chinese calligraphy by Lee’s father, Chan Bo Wen, are juxtaposed against watercolour paintings on silk by Lee, each corresponding to a scene described in the respective verses.
+
 Lee dedicates the book “to all women, young and old” and notes that “the verses of the poem are still taught to children in China today and are sung in Chinese opera in different dialects”. She stresses that the values of filial piety and loyalty conveyed in the story of Mulan are still relevant today and that Mulan is a good role model for all females.
-Another book, Song Nan Zhang’s The Ballad of Mulan (1998), is similar to Lee’s version, with the story in English and the original Chinese poem set against drawings depicting the different scenes.9 (Song also drew the illustrations in the book.)
+
+Another book, Song Nan Zhang’s The Ballad of Mulan (1998), is similar to Lee’s version, with the story in English and the original Chinese poem set against drawings depicting the different scenes.[^9] (Song also drew the illustrations in the book.)
+
 In Song’s interpretation, each drawing is enclosed within a frame which is similar to how early Chinese books are bound. Although Song follows the original storyline closely, he also includes minor new details and new lines. For example, the following lines describe the scene where Mulan appears before her fellow soldiers in female attire:
+
 “What a surprise it was when Mulan appeared at the door! 
 Her comrades were astonished and amazed.
-‘How is this possible?’ they asked.”10
-The original line from The Ballad of Mulan, “出门看伙伴，伙伴皆惊恐”, only states that when Mulan exits from her room and appears in front of her fellow soldiers, they are astonished. Her fellow soldiers’ question is a minor detail that Song has added, which is not found in the original poem. 
+‘How is this possible?’ they asked.”[^10]
+
+The original line from The Ballad of Mulan, “出门看伙伴，伙伴皆惊恐”, only states that when Mulan exits from her room and appears in front of her fellow soldiers, they are astonished. Her fellow soldiers’ question is a minor detail that Song has added, which is not found in the original poem.
+
 At the end of Song’s book, there is a very short section titled “Historical Notes on Mulan” which explains the historical context of Mulan’s life and the development of the story from the early days until the present. It notes that the story (and poem) is a well-known folk tale studied by school children in China today. Song writes that the story continues to inspire Chinese women, and he dedicates the book to “everyone with an interest in ancient Chinese culture and literature”.
+
 Closer to home, the story of Mulan has been re-written as a Chinese picture book,《花木兰》(Hua Mulan), and published in Singapore. Written by Li Xiang (李想) with illustrations by Zhang He (张禾), it follows the original storyline closely although the author has added minor new scenes, such as Mulan’s father teaching her martial arts.  
-The picture book was first published in 1998 by Newton Publications, with a new edition two years later.11 The 1998 edition contains the original poem in classical Chinese, a re-telling of the story with additional details and a section on the historical context of the ballad. The 2000 edition includes the original poem rendered in simplified Chinese, which the 1998 version does not have.
-Re-writing the Story of Mulan 
-“雄兔脚扑朔，雌兔眼迷离；两兔傍地走，安能辨我是雄雌？”12
-(Translation: The male rabbit hops rapidly, while the female rabbit has blurry eyes. When both are running side-by-side, how can one tell if I am male or female?) 
+
+The picture book was first published in 1998 by Newton Publications, with a new edition two years later.[^11] The 1998 edition contains the original poem in classical Chinese, a re-telling of the story with additional details and a section on the historical context of the ballad. The 2000 edition includes the original poem rendered in simplified Chinese, which the 1998 version does not have.
+
+#### **Re-writing the Story of Mulan**
+“雄兔脚扑朔，雌兔眼迷离；两兔傍地走，安能辨我是雄雌？”[^12]
+
+(Translation: The male rabbit hops rapidly, while the female rabbit has blurry eyes. When both are running side-by-side, how can one tell if I am male or female?)
+
 Several other titles about Mulan found in the ACL Collection involve much more re-writing, and they include significant details or scenes not found in the original poem, “The Ballad of Mulan”.
-Fa Mulan: The Story of a Woman Warrior (1998) by Robert D. San Souci, and illustrated by Jean Tseng and Mou-Sien Tseng, is one such example.13 In his “Author’s Note”, San Souci explains that he added scenes not explicitly mentioned in the original poem by “drawing on [his] study of the original poem in its historical and cultural context”.14 
+
+Fa Mulan: The Story of a Woman Warrior (1998) by Robert D. San Souci, and illustrated by Jean Tseng and Mou-Sien Tseng, is one such example.[^13] In his “Author’s Note”, San Souci explains that he added scenes not explicitly mentioned in the original poem by “drawing on [his] study of the original poem in its historical and cultural context”.14 
 He notes that the ballad had few details of the campaign against the Tartars so he obtained information on military organisation and strategy, and the advice Mulan shares with her generals, from Sun Tzu’s The Art of War. “It seems logical that Mulan, in her rise to generalship, would have studied this essential text in length – even committing its principles to memory,” he adds.15
 San Souci also injects an element of romance in his Mulan story, drawing his inspiration from the reference to a pair of male and female rabbits in the original verse that could be symbolic of a marriage bond. 
 Other contemporary authors have used details that might have originated from Xu Wei’s opera,《雌木兰替父从军》.  For example,《花木兰》(Hua Mulan; 2002) by Yong Chun (永春) mentions Mulan’s surname, Hua (花), along with her father’s name, Hua Hu (花弧), which was first mentioned in Xu’s opera.16 In Mulan: A Story in English and Chinese (2014) by Li Jian, the author writes that “Mulan learned Chinese calligraphy and reading from her father at a young age”,17 while Gang Yi and Xiao Guo’s The Story of Mulan: The Daughter and the Warrior (2007) says that “[Mulan’s] father taught her archery and horseback riding”.18 These embellishments are also found in Xu Wei’s opera and not in the original poem.   
