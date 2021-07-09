@@ -116,6 +116,6 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^17]: Li, J. (2014). *[Mulan: A story in English and Chinese](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201262042)*. New York: Better Link Press. (Call no.: RAC 398.2 JIA-[ACL])
 
-[^18]: Gang, Y., & Xiao, G. (2007). *The story of Mulan: The daughter and the warrior*. Beijing: China Intercontinental Press. (Call no.: RAC 398.2 YI-[FOL])
+[^18]: Gang, Y., & Xiao, G. (2007). *[The story of Mulan: The daughter and the warrior](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13067559)*. Beijing: China Intercontinental Press. (Call no.: RAC 398.2 YI-[FOL])
 
 [^19]: Li, 2014, back cover.
