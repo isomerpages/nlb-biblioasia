@@ -111,7 +111,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^15]: San Souci, 1998, Author’s note.
 
-[^16]: 永春 [Yong, C.]. (2002).《花木兰》[Hua Mu Lan]. Singapore: 新亚出版社. (Call no.: Chinese RAC C813.4 YC); Wang, Z. (2020, July). Cultural “authenticity” as a conflict-ridden hypotext: Mulan (1998), Mulan joins the army (1939) and a millennium-long intertextual metamorphosis. Arts, 9 (3), 78. Retrieved from MDPI website. 
+[^16]: 永春 [Yong, C.]. (2002).《花木兰》[Hua Mu Lan]. Singapore: 新亚出版社. (Call no.: Chinese RAC C813.4 YC); Wang, Z. (2020, July). Cultural “authenticity” as a conflict-ridden hypotext: Mulan (1998), Mulan joins the army (1939) and a millennium-long intertextual metamorphosis. *Arts, 9* (3), 78. Retrieved from MDPI website. 
 
 [^17]: Li, J. (2014). *Mulan: A story in English and Chinese*. New York: Better Link Press. (Call no.: RAC 398.2 JIA-[ACL])
 
