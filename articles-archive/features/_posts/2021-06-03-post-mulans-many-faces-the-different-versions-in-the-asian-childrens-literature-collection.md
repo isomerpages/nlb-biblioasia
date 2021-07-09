@@ -115,7 +115,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-2/authors/YuMei.png" style="width: 100px; height: 100px;" />
-<b>Michelle Heng</b> is a Librarian with the National Library, Singapore. She has curated a tribute showcase, “Edwin Thumboo – Time-travelling: A Poetry Exhibition” in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems (2012) as well as the Selected Poems of Goh Poh Seng (2013).
+<b>Michelle Heng</b> is a Librarian with the National Library, Singapore. She has curated a tribute showcase, “Edwin Thumboo – Time-travelling: A Poetry Exhibition” in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, *Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems* (2012) as well as the *Selected Poems of Goh Poh Seng* (2013).
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
