@@ -46,7 +46,7 @@ The original line from The Ballad of Mulan, “出门看伙伴，伙伴皆惊恐
 
 At the end of Song’s book, there is a very short section titled “Historical Notes on Mulan” which explains the historical context of Mulan’s life and the development of the story from the early days until the present. It notes that the story (and poem) is a well-known folk tale studied by school children in China today. Song writes that the story continues to inspire Chinese women, and he dedicates the book to “everyone with an interest in ancient Chinese culture and literature”.
 
-Closer to home, the story of Mulan has been re-written as a Chinese picture book,《花木兰》(Hua Mulan), and published in Singapore. Written by Li Xiang (李想) with illustrations by Zhang He (张禾), it follows the original storyline closely although the author has added minor new scenes, such as Mulan’s father teaching her martial arts.  
+Closer to home, the story of Mulan has been re-written as a Chinese picture book,《花木兰》(*Hua Mulan*), and published in Singapore. Written by Li Xiang (李想) with illustrations by Zhang He (张禾), it follows the original storyline closely although the author has added minor new scenes, such as Mulan’s father teaching her martial arts.  
 
 The picture book was first published in 1998 by Newton Publications, with a new edition two years later.[^11] The 1998 edition contains the original poem in classical Chinese, a re-telling of the story with additional details and a section on the historical context of the ballad. The 2000 edition includes the original poem rendered in simplified Chinese, which the 1998 version does not have.
 
