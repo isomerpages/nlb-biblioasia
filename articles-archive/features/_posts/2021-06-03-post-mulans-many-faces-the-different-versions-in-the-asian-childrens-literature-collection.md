@@ -162,7 +162,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^20]: 雅瑟 & 苏阳 [Ya, S., & Su, Y.]. (2012).《中华句源: 品味文化精髓, 感受传世经典》[*Zhonghua ju yuan*] (p. 202). Beijing: Beijing Book Co. Inc. (Call no.: Chinese 810.07 YS); Lee, C.Y. (2004). Emperor Chengzu and imperial filial piety of the Ming dynasty: From the Classic of Filial Piety to the Biographical Accounts of Filial Piety. In Chan, A.K.L. Chan & S.-H. Tan (Eds.). (2004). *[Filial piety in Chinese thought and history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12359873)* (pp. 144–151). London: RoutledgeCurzon (Call no.: R 173 FIL)
 
-[^21]: Ebrey, P.B. (1996). *The Cambridge illustrated history of China* (pp. 70–72). Cambridge; New York: Cambridge University Press. (Call no.: R 951 EBR)
+[^21]: Ebrey, P.B. (1996). *[The Cambridge illustrated history of China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7598979)* (pp. 70–72). Cambridge; New York: Cambridge University Press. (Call no.: R 951 EBR)
 
 [^22]: Wong, R. (2016). Introduction: The power of stories (pp. 11–15). In *Stories from Asia: The Asian Children’s Literature Collection*. Singapore: National Library Board. (Call no.: R 809.89282)
 
