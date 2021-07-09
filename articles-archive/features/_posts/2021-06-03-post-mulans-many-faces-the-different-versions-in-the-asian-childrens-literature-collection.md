@@ -97,15 +97,24 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 [^7]: 李想, 2000, p. 19.
 
 [^8]: Lee, J.M. (1995). The song of Mu Lan. Arden, North Carolina: Front Street. (Call no.: RAC 895.1 MUL-[ACL])
-Song, N.Z. (1998). The ballad of Mulan. Union City, California: Pan Asian Publications. (Call no.: 398.220951 ZHA-[FOL])
-Song, 1998, unpaginated.
-李想 [Li, X.]. (1998).《花木兰》[Hua Mulan]. Singapore: Newton Publications. (Call no.: Chinese RAC 398.2095102 HML-[FOL]); 李想, 2000. 
-李想, 2000, p. 19. 
-San Souci, R.D. (1998). Fa Mulan: The story of a woman warrior. New York: Hyperion Books for Children. (Call no.: RAC 398.2 SAN-[ACL])
-San Souci, 1998, Author’s note.
-San Souci, 1998, Author’s note.
-永春 [Yong, C.]. (2002).《花木兰》[Hua Mu Lan]. Singapore: 新亚出版社. (Call no.: Chinese RAC C813.4 YC); Wang, Z. (2020, July). Cultural “authenticity” as a conflict-ridden hypotext: Mulan (1998), Mulan joins the army (1939) and a millennium-long intertextual metamorphosis. Arts, 9 (3), 78. Retrieved from MDPI website. 
-Li, J. (2014). Mulan: A story in English and Chinese. New York: Better Link Press. (Call no.: RAC 398.2 JIA-[ACL])
-Gang, Y., & Xiao, G. (2007). The story of Mulan: The daughter and the warrior. Beijing: China Intercontinental Press. (Call no.: RAC 398.2 YI-[FOL])
 
-Li, 2014, back cover.
+[^9]: Song, N.Z. (1998). The ballad of Mulan. Union City, California: Pan Asian Publications. (Call no.: 398.220951 ZHA-[FOL])
+[^10]: Song, 1998, unpaginated.
+
+[^11]: 李想 [Li, X.]. (1998).《花木兰》[Hua Mulan]. Singapore: Newton Publications. (Call no.: Chinese RAC 398.2095102 HML-[FOL]); 李想, 2000.
+
+[^12]: 李想, 2000, p. 19.
+
+[^13]: San Souci, R.D. (1998). Fa Mulan: The story of a woman warrior. New York: Hyperion Books for Children. (Call no.: RAC 398.2 SAN-[ACL])
+
+[^14]: San Souci, 1998, Author’s note.
+
+[^15]: San Souci, 1998, Author’s note.
+
+[^16]: 永春 [Yong, C.]. (2002).《花木兰》[Hua Mu Lan]. Singapore: 新亚出版社. (Call no.: Chinese RAC C813.4 YC); Wang, Z. (2020, July). Cultural “authenticity” as a conflict-ridden hypotext: Mulan (1998), Mulan joins the army (1939) and a millennium-long intertextual metamorphosis. Arts, 9 (3), 78. Retrieved from MDPI website. 
+
+[^17]: Li, J. (2014). Mulan: A story in English and Chinese. New York: Better Link Press. (Call no.: RAC 398.2 JIA-[ACL])
+
+[^18]: Gang, Y., & Xiao, G. (2007). The story of Mulan: The daughter and the warrior. Beijing: China Intercontinental Press. (Call no.: RAC 398.2 YI-[FOL])
+
+[^19]: Li, 2014, back cover.
