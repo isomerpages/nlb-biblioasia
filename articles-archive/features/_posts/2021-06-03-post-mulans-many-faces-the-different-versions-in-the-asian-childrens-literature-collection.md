@@ -183,9 +183,9 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^30]: Stories from Asia: The Asian children’s literature collection, 2016, p. 25.
 
-[^31]: Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. (Call no.: RCLOS 895.63 HER) 
+[^31]: Herring, A., & Hirose, T. (1969). *Otogi-Banashi: A miniature toy-book from Japan*. Tokyo: Ise-Tatsu. (Call no.: RCLOS 895.63 HER) 
 
-[^32]: Stories from Asia: The Asian children’s literature collection, 2016, pp. 132–133.
+[^32]: *Stories from Asia: The Asian children’s literature collection*, 2016, pp. 132–133.
 
 [^33]: *蟠桃八仙會 = Pang tao (Flat peaches), Eidht [i.e. Eight] Fairies Festival, a festival held on the 3d [i.e. 3rd day] of the 3d [i.e. 3rd] lunar month in honor of the Goddess Hsi Wang mu*. c. 1900–1950). China: [s.n.]. (Call no.: RCLOS 398.0951 PAN)
 
