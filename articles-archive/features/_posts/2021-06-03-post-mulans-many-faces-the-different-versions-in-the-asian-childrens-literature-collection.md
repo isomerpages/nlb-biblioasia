@@ -7,7 +7,7 @@ layout: post
 ---
 #### **Goh Yu Mei** looks at how the story of Mulan takes on different approaches when retold as a children’s tale in English and Chinese.
 
-In October 2019, a ceremony was held at Nanyang Technological University (NTU) to mark the renaming of a road. Originally called “唧唧复唧唧，木兰当户织。不闻机杼声，惟闻女叹息。” [^1]
+“唧唧复唧唧，木兰当户织。不闻机杼声，惟闻女叹息。” [^1]
 
 (Translation: Click, click, click, click, Mulan is at her loom. One could not hear the sound of the loom weaving, but only Mulan’s sigh.”)
 These are the opening lines in 《木兰辞》 (*The Ballad of Mulan*),[^2] believed to have been composed during the Northern dynasties period (北朝, c. 386–581).[^3]
