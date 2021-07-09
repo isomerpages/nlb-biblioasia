@@ -174,7 +174,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^26]: Young, E. (2004). *[I, Doko: The tale of a basket](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12399597)*. New York: Philomel Books (Call no.: RAC 813.54 YOU)
 
-[^27]: *Stories from Asia: The Asian children’s literature collection*, 2016, pp. 22–25.
+[^27]: *[Stories from Asia: The Asian children’s literature collection](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067)*, 2016, pp. 22–25.
 
 [^28]: *Stories from Asia: The Asian children’s literature collection*, 2016, p. 24.
 
