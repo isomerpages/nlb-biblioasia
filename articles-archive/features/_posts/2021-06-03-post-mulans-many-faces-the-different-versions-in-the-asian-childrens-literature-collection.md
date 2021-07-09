@@ -105,7 +105,7 @@ Even now, some 1,500 years after the tale was first written, Mulan continues to 
 
 [^12]: 李想, 2000, p. 19.
 
-[^13]: San Souci, R.D. (1998). Fa Mulan: The story of a woman warrior. New York: Hyperion Books for Children. (Call no.: RAC 398.2 SAN-[ACL])
+[^13]: San Souci, R.D. (1998). *Fa Mulan: The story of a woman warrior*. New York: Hyperion Books for Children. (Call no.: RAC 398.2 SAN-[ACL])
 
 [^14]: San Souci, 1998, Author’s note.
 
