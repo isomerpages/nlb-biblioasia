@@ -19,7 +19,7 @@ During the Tang dynasty (618–907), the story was retold as《木兰歌》(The 
 
 Although filial piety and loyalty are constant themes in the different representations of Mulan, these values are portrayed differently by different authors. In Zhang Shaoxian’s novel, for instance, Mulan commits suicide when she is forced to choose between returning home to care for her parents (i.e. filial piety), or remaining in the army to serve the emperor (i.e. loyalty). The tragic ending in this narrative of Mulan hints at a criticism of the interpretations of filial piety and loyalty in earlier versions of the tale.[^5]
 
-Recent efforts to reimagine the story of Mulan consist of books, stage adaptations, television serials and movies. They include the chapter “White Tigers” in Maxine Hong Kingston’s The Woman Warrior: Memoirs of a Girlhood Among Ghosts (1976)6 and of course Disney’s Mulan, comprising an animated film in 1998 and a live action drama film in 2020.
+Recent efforts to reimagine the story of Mulan consist of books, stage adaptations, television serials and movies. They include the chapter “White Tigers” in Maxine Hong Kingston’s The Woman Warrior: Memoirs of a Girlhood Among Ghosts (1976)[^6] and of course Disney’s Mulan, comprising an animated film in 1998 and a live action drama film in 2020.
 
 Given that the tale is about 1,500 years old, the story of Mulan has inspired numerous books and iterations of the tale, as well as in various languages and for different age groups, including children. Some of these titles are available in the Asian Children’s Literature Collection (ACL Collection) of the National Library (see text box on pp. 19–20).
 
