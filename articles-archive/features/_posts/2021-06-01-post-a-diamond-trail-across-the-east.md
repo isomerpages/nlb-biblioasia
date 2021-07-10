@@ -53,4 +53,18 @@ Some of the earliest documented Banjar merchants emigrated to Singapore in the m
 
 By the turn of the 20th century, passenger ships began to ply more regularly between Singapore and Banjarmasin, indicating a high demand for travel to these two places. In 1907, shipping companies were advertising first-class passenger routes from Singapore to Banjarmasin.10 
 
-Due to the ease of travelling between the two cities, more Banjar people began arriving and they soon established a small but significant presence in the local Singapore landscape. 
+Due to the ease of travelling between the two cities, more Banjar people began arriving and they soon established a small but significant presence in the local Singapore landscape.
+
+##### **Singapore’s Banjar Community**
+
+In Singapore, Banjar families and businesses established themselves in places like Kampong Gelam (Glam) and various locations in the east.
+
+##### *Kampong Gelam*
+
+Within Kampong Gelam was a “Kampong Intan” (Diamond Kampong), said to be named after the Banjarese gemstone merchants and jewellery shops operating there in the late 19th century. According to oral histories and anecdotes, this kampong was located along present-day Baghdad Street.11
+
+It is believed that there was another area in Kampong Gelam known as “Kampong Selong” (Ceylon Kampong), where Ceylonese gemstone traders plied their trade and together with the Banjar merchants, formed a thriving ecosystem where customers could purchase readymade jewellery or even procure raw diamonds to be set into customised one-of-a-kind pieces. However, this diamond trade by the Banjar and Ceylonese likely declined after the Japanese Occupation (1942–45), most probably due to the increasing demand for African diamonds whose trade was controlled by the Europeans. 
+
+Sisters Fauziah and Faridah Jamal recalled that their family’s diamond trading business and polishing workshop were located on Jalan Pisang (as was their home). Their late father, Haji Ahmad Jamal bin Haji Mohd Hassan, who was also a trustee of Sutlan Mosque, was said to be one of a few, if not the only, Banjar diamond cutter and artisan living and working in the area in the early 20th century. 
+
+Said Fauziah Jamal: “We had our neighbours – a goldsmithing workshop, an old Chinese man who would be working on these pieces of jewellery, mostly gold pieces, and then we had my uncle who’s working across the road… we had also another granduncle who had an office further down this road. Basically [Jalan Pisang] is where the activity of the diamond trade used to be.”12
