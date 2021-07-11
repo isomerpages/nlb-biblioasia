@@ -107,4 +107,19 @@ These gatherings parallel an activity that the Banjar community today refers to 
 
 The displaced inhabitants of Kampong Banjar moved south to nearby villages, notably Kampong Beting Kusah, Kampong Telok Paku and even to Kampong Ayer Gemuroh, in what is today’s East Coast Park.16
 
-Kampong Ayer Gemuroh would suffer a smilar fate as Kampong Banjar and had to also make way for the expansion of Changi airfield.17 In the 1970s, with the extension of the Changi land reclamation project beyond the immediate confines of Kampong Banjar and Kampong Beting Kusa, Kampong Ayer Gemuroh, which served as an interim home for the displaced villagers from the three aforementioned kampongs, was eventually expunged. The Banjar people were then resettled into high-rise flats. 
+Kampong Ayer Gemuroh would suffer a smilar fate as Kampong Banjar and had to also make way for the expansion of Changi airfield.17 In the 1970s, with the extension of the Changi land reclamation project beyond the immediate confines of Kampong Banjar and Kampong Beting Kusa, Kampong Ayer Gemuroh, which served as an interim home for the displaced villagers from the three aforementioned kampongs, was eventually expunged. The Banjar people were then resettled into high-rise flats.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-2/authors/Lee%20Geok%20Boi.png" style="width: 100px; height: 100px;" />
+<b>Zinnurain Nasir</b>  is an Assistant Curator with the Malay Heritage Centre. His interests include community histories, local and regional identity histories and charting cultural practices. He is currently researching on Jawi publications as a medium to represent post-World War II community landscapes.
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-2/authors/Lee%20Geok%20Boi.png" style="width: 100px; height: 100px;" />
+<b>Nasri Shah</b>   is a Curator with the Malay Heritage Centre. His past projects include “Mereka Utusan” (2016) and “Women in Action” (2018), which focused on histories of the Malay publishing industry and women’s rights movement respectively.
+</div>
+
+
+#### NOTES
