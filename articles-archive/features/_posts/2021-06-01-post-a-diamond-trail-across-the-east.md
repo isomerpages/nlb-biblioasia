@@ -68,3 +68,43 @@ It is believed that there was another area in Kampong Gelam known as “Kampong 
 Sisters Fauziah and Faridah Jamal recalled that their family’s diamond trading business and polishing workshop were located on Jalan Pisang (as was their home). Their late father, Haji Ahmad Jamal bin Haji Mohd Hassan, who was also a trustee of Sutlan Mosque, was said to be one of a few, if not the only, Banjar diamond cutter and artisan living and working in the area in the early 20th century. 
 
 Said Fauziah Jamal: “We had our neighbours – a goldsmithing workshop, an old Chinese man who would be working on these pieces of jewellery, mostly gold pieces, and then we had my uncle who’s working across the road… we had also another granduncle who had an office further down this road. Basically [Jalan Pisang] is where the activity of the diamond trade used to be.”12
+
+
+##### *Sumbawa Road*
+
+Not so far away, near the intersection of today’s Jalan Sultan and Victoria Street or North Bridge Road is said to be the site of a former club called the Darul Ta’alam Club, founded in 1893. A photo of this club, located along the now expunged Sumbawa Road, depicts several well-dressed men, some of whom are presumably Banjar businessmen and merchants, gathered in front of a building with “Darul Ta’alam 20th Anniversary 15th Nov 1913” inscribed on its facade. 
+
+The motivation behind the founding of the club and by whom remain unclear. But by the time the photo was taken in 1913, the club was well patronised by merchants and individuals from other sub-ethnic Malay groups. 
+
+Besides serving as the headquarters for a football club of the same name, the Darul Ta’alam Club was also the venue for other social and communal gatherings, including serving as the main meeting place for organisations such as the Kesatuan Melayu (Malayan Union). The building has since been demolished but when it was carried out is a mystery too.
+
+##### *Geylang*
+
+As Geylang became a thriving residential and commercial centre in the 19th century, several Banjar merchants acquired property in the area, including the diamond trader Haji Mahmood bin Abdul Rahim.
+
+Many newly arrived Banjar also made Geylang their home, such as the father of Haji Ahmad Jamal bin Haji Mohd Hassan (the grandfather of sisters Fauziah and Faridah Jamal) who lived at 681 Geylang Road. There were also other Banjar families residing on Lorong 26 and Lorong 35. 
+
+Geylang may have been more than just a centre for the Banjar community to live though. The evidence comes from a 1937 lithographed manuscript titled Kitab Perukunan Sembahyang Sheikh Arsyad (Sheikh Arsyad’s Book of Commandments Pertaining to Prayer), which consolidates the writings of a famous Banjar religious scholar. In the frontispiece, the publisher indicates that the book was printed at 242 Lorong Engku Aman in Geylang, although the name of the publishing company is not mentioned.
+
+
+##### *Kembangan*
+
+One of the artefacts in the exhibition was a mandala-shaped diagram called the ayat pendinding consisting of text written in Arabic. The text comprises words of prayers, composed specifically to protect a house and its occupants. The ayat pendinding was designed and made by Haji Arshad, the father of Mohd Gazali bin Mohd Arshad, who lived on Lorong Marican in Kembangan. 
+
+Members of the Banjar community who visited Haji Arshad’s home for religious classes would request copies of these ayat pendinding from him to be displayed in their own homes. 
+
+“This house [at Lorong Marican] represented a house rich with history,” said Mohd Gazali. “That was where my uncles gathered in my youth, to speak to my father and reminisce about their father and grandfather. It was only much later that I realised that it was because of who my grandfather [the diamond trader Haji Mahmood] was.”13 
+
+The house was designed in the architecture known as rumah panggung, a traditional house form built on stilts found in South Kalimantan and a model of Mohd Gazali’s childhood house was displayed at the exhibition. Similar housing could also be found on adjacent roads like Lorong Marzuki. 
+
+##### *Kampong Banjar*
+
+In addition to the communities in traditional Malay settlements like Geylang and Kembangan, there is also evidence of Banjar settlements on the coast as well. A 1924 map lists a “Kampong Banjar” along Changi Road.14 
+
+Although no existing members of the Banjar community are familiar with this kampong, an account in the Berita Harian newspaper in 1987 by a Kahar bin Kurus, 71, who once lived in the Changi area, describes life in the kampong. According to him, Kampong Banjar and the neighbouring kampongs were once thriving villages inhabited by various sub-ethnic Malay groups, including the Banjar community. The vilagers, who obtainted their income primarily through fishing, lived in close-knit communities and would hold frequent gatherings to celebrate their small successes and muse over their daily affairs. “Para penduduk di situ juga sering mengadakan majlis-majis keramaian dua tiga kali dalam setahun untuk menghiburkan hati setelah berpenat-lelah bekerja,” he said. (“The villagers frequently hosted gatherings, at least two to three times a year, to reward themselves for their hard work”).15 
+
+These gatherings parallel an activity that the Banjar community today refers to as arul ganal, which means “big gatherings”, a cultural event that was held back in South Kalimantan as well. Unfortunately, this kampong was expunged prior to World War II, and in a 1945 map, this site appears to have made way for Changi airfield. 
+
+The displaced inhabitants of Kampong Banjar moved south to nearby villages, notably Kampong Beting Kusah, Kampong Telok Paku and even to Kampong Ayer Gemuroh, in what is today’s East Coast Park.16
+
+Kampong Ayer Gemuroh would suffer a smilar fate as Kampong Banjar and had to also make way for the expansion of Changi airfield.17 In the 1970s, with the extension of the Changi land reclamation project beyond the immediate confines of Kampong Banjar and Kampong Beting Kusa, Kampong Ayer Gemuroh, which served as an interim home for the displaced villagers from the three aforementioned kampongs, was eventually expunged. The Banjar people were then resettled into high-rise flats. 
