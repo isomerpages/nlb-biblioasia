@@ -153,7 +153,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^30]: Bird park’s breeding success. (1976, August 24). The Straits Times, p. 11. Retrieved from NewspaperSG.
 
-[^31]: Wildlife Reserves Singapore Group. (2021). Hornbills and toucans. Retrieved from Wildlife Reserves Singapore website.
+[^31]: Wildlife Reserves Singapore Group. (2021). *Hornbills and toucans*. Retrieved from Wildlife Reserves Singapore website.
 
 [^32]: Wildlife Reserves Singapore Group. (2019, January 23). *Two highly threatened bird species successfully bred at Jurong Bird Park*. Retrieved from Wildlife Reserves Singapore website.
 
