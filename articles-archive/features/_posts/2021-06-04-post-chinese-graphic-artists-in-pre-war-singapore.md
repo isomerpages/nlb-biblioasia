@@ -90,7 +90,7 @@ In 1948, Leong joined a group of old-school scholars, calligraphers and Shanghai
 
 Professionally, Leong worked as a full-time graphic artist in his own studio. The studio provided a range of services, including head-shot portrait painting on ceramic plaques (generally for tombstones, advertising illustrations and lithograph plate making).
 
-The signatures that Leong left on his commercial works suggest that he focused  on three areas – illustration, for which he signed off as 小天繪製 (Xiaotian huizhi); lithograph plate making, where he used 小天製版 (Xiaotian zhiban); and photo-engraving, when he was known as 小天電版 (Xiaotian dianban).
+The signatures that Leong left on his commercial works suggest that he focused  on three areas – illustration, for which he signed off as 小天繪製 (*Xiaotian huizhi*); lithograph plate making, where he used 小天製版 (*Xiaotian zhiban*); and photo-engraving, when he was known as 小天電版 (*Xiaotian dianban*).
 
 Leong’s commercial art features old Shanghai-style composition made popular at the turn of the 20th century, in which products or *cheongsam*-clad ladies were meticulously drawn using clean lines, perfect for monochrome printing, while text was rendered in striking classic seal characters. He was also an active member of the Singapore Commercial Art Society until the late 1970s.
 
