@@ -95,13 +95,19 @@ The signatures that Leong left on his commercial works suggest that he focused  
 Leong’s commercial art features old Shanghai-style composition made popular at the turn of the 20th century, in which products or cheongsam-clad ladies were meticulously drawn using clean lines, perfect for monochrome printing, while text was rendered in striking classic seal characters. He was also an active member of the Singapore Commercial Art Society until the late 1970s.
 
 #### **Cupid Studio (天使畫室)**
-Established by Chong Beng Si (鍾鳴世) around 1937, Cupid Studio operated from a shophouse at 270 Telok Ayer Street, strategically positioned to serve the Chinese businesses in the vicinity of Robinson Road, Cecil Street, Telok Ayer, Amoy Street and Club Street. 
+Established by Chong Beng Si (鍾鳴世) around 1937, Cupid Studio operated from a shophouse at 270 Telok Ayer Street, strategically positioned to serve the Chinese businesses in the vicinity of Robinson Road, Cecil Street, Telok Ayer, Amoy Street and Club Street.
+
 Chong was also assistant to Lim Hak Tai, principal and founder of NAFA. Chong handled administrative and estate-related matters for the school in addition to teaching Western art. He was also one of the earliest members of the Society of Chinese Artists. And, like many of his fellow contemporary artists, Chong made his living creating commercial advertisement art.
-Chong’s clientele included major brands in Singapore such as the Nanyang Elephant brand of rubber shoes made by Nanyang Manufacturing, which belonged to Lee Kong Chian; Hua Hong Manufacturing (cooking oils); and Yeo Hiap Seng Sauce Factory. 
-Most of his artworks used formalistic and clear composition where the products were vividly illustrated, with the brands and brand-owners’ names rendered in strong and beautiful Westernised non-calligraphic typography. 
-Chong deftly created Chinese characters and used decorative elements such as italics, shadowing and sans serif  text to complement the non-Chinese letters and words. 
-In general, Chong’s graphic works display a sure grasp of the Western graphic art sensibility – functional although not necessarily cutting-edge. His fine art works featured in the exhibitions by the Society of Chinese Artists, generally in oil or watercolour, are not stunning but they are competent and pleasing. 
-Leaving a Legacy
+
+Chong’s clientele included major brands in Singapore such as the Nanyang Elephant brand of rubber shoes made by Nanyang Manufacturing, which belonged to Lee Kong Chian; Hua Hong Manufacturing (cooking oils); and Yeo Hiap Seng Sauce Factory.
+
+Most of his artworks used formalistic and clear composition where the products were vividly illustrated, with the brands and brand-owners’ names rendered in strong and beautiful Westernised non-calligraphic typography.
+
+Chong deftly created Chinese characters and used decorative elements such as italics, shadowing and sans serif  text to complement the non-Chinese letters and words.
+
+In general, Chong’s graphic works display a sure grasp of the Western graphic art sensibility – functional although not necessarily cutting-edge. His fine art works featured in the exhibitions by the Society of Chinese Artists, generally in oil or watercolour, are not stunning but they are competent and pleasing.
+
+#### **Leaving a Legacy**
 A number of these graphic artists formed the Singapore Commercial Art Society in 1937. In recounting its history, long-time Chairman Siew Suet Pak (邵雪白) remembered the persistence of Xu Diaolun in pushing to form the society.14 Leong Siew Tian and U-Chow were among the artists, either as freelancers or studio owners, who were members.15 The society continued to function well into the 1990s, although printing technologies and desktop graphic design would have made the skills of the society’s members obsolete by then. 
 Studying the history of art-making in Singapore provides an insight into the workings of Singapore’s economy which, until very recently, was essentially a history of trade and one powered by thousands of small and medium-sized businesses, including the individuals who designed, made signages, laid-out pages of books, and printed publications for domestic and international publishers and readers. 
 The story of these graphic artists of a bygone era will contribute greatly to our appreciation of Singapore’s art history as well as its economy, its tenacity and responsiveness to change.
