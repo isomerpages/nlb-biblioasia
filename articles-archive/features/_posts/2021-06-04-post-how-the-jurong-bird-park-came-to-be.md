@@ -111,7 +111,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^9]: The National Archives, United Kingdom. (1970). *[FCO 24/901: Request for assistance in obtaining rare birds for Jurong Bird Park, Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/e6f7a3c3-115b-11e3-83d5-0050568939ad)*. Accessed at National Archives of Singapore. (Accession no.: FCO 24/901)
 
-[^10]: The National Archives, United Kingdom, 1970.
+[^10]: [The National Archives, United Kingdom](https://www.nas.gov.sg/archivesonline/private_records/record-details/e6f7a3c3-115b-11e3-83d5-0050568939ad), 1970.
 
 [^11]: One cassowary for sale, cheap – until yesterday. (1969, 14 September). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
