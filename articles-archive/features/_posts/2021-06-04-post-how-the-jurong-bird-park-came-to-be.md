@@ -113,7 +113,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^10]: [The National Archives, United Kingdom](https://www.nas.gov.sg/archivesonline/private_records/record-details/e6f7a3c3-115b-11e3-83d5-0050568939ad), 1970.
 
-[^11]: One cassowary for sale, cheap – until yesterday. (1969, 14 September). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^11]: [One cassowary for sale, cheap – until yesterday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690914-1.2.57). (1969, 14 September). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
 [^12]: *The Straits Times*, 14 Sep 1969, p. 8.
 
