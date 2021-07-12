@@ -139,7 +139,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^23]: [What a lark! This bird park which has almost everything](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19701217-1.2.129.6)… (1970, December 17). *Singapore Herald*, p. 13. Retrieved from NewspaperSG.
 
-[^24]: Ministry of Culture, 3 Jan 1971. 
+[^24]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b98e58a-115d-11e3-83d5-0050568939ad), 3 Jan 1971. 
 
 [^25]: Ministry of Culture, 3 Jan 1971. 
 
