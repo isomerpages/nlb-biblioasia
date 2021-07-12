@@ -93,4 +93,43 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 
 #### **NOTES**
-[^1]: Webb, J. (1979, November 26). [World declared rid of smallpox](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791126-1.2.123.20). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^1]: Ministry of Culture. (1971, January 3). Speech by Dr. Goh Keng Swee, Minister of Defence, at the opening of Jurong Bird Park on Sunday, 3rd January 1971 at 6.00 pm [Speech]. Retrieved from National Archives of Singapore website; Goh tells why the bird park was built. (1971, January 4). The Straits Times, p. 15. Retrieved from NewspaperSG.
+
+[^2]: Ministry of Culture, 3 Jan 1971. 
+
+[^3]: Tan, S.S. (2015). Goh Keng Swee: A portrait (p. 175). Singapore: Editions Didier Millet. (Call no.: RSING 959.5704092 TAN-[HIS])
+
+[^4]: Tsang, S., & Hendricks, E. (2007). Discover Singapore: The city’s history & culture redefined (pp. 96–97). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 TSA-[HIS])
+Yeo, T.J. (1969, January 3). Work on $1 mil. Aviary at Jurong. The Straits Times, p. 6. Retrieved from NewspaperSG.
+Ministry of Culture, 3 Jan 1971. 
+Ministry of Culture, 3 Jan 1971.
+New attractions almost every year to whip up visitor interest. (1995, February 24). The Straits Times, p. 3. Retrieved from NewspaperSG.
+The National Archives, United Kingdom. (1970). FCO 24/901: Request for assistance in obtaining rare birds for Jurong Bird Park, Singapore. Accessed at National Archives of Singapore. (Accession no.: FCO 24/901)
+The National Archives, United Kingdom, 1970.
+One cassowary for sale, cheap – until yesterday. (1969, 14 September). The Straits Times, p. 8. Retrieved from NewspaperSG.
+The Straits Times, 14 Sep 1969, p. 8.
+The Straits Times, 14 Sep 1969, p. 8.
+Fong, L. (1971, January 3). Rainbow on the falls on a sunny afternoon. The Straits Times, p. 20. Retrieved from NewspaperSG.
+The Straits Times, 3 Jan 1971, p. 20.
+Park opening postponed. (1970, June 28). The Straits Times, p. 9. Retrieved from NewspaperSG. 
+Lim, J. (Interviewer). (2002, August 15). Oral history interview with Lee Oon Pong [MP3 recording no. 002510/52/51]. Accessed at the National Archives of Singapore. [Note: Written permission to the National Archives is required for use.]
+Oral history interview with Lee Oon Pong, 15 Aug 2002. 
+Oral history interview with Lee Oon Pong, 15 Aug 2002.
+The Straits Times, 3 Jan 1971, p. 20
+Another 4 months wait for bird lovers. (1970, August 26). The Straits Times, p. 8. Retrieved from NewspaperSG. 
+Delay – strictly for some rare birds. (1970, September 12). Singapore Herald, p. 13. Retrieved from NewspaperSG. 
+What a lark! This bird park which has almost everything… (1970, December 17). Singapore Herald, p. 13. Retrieved from NewspaperSG. 
+Ministry of Culture, 3 Jan 1971. 
+Ministry of Culture, 3 Jan 1971. 
+Har, N. (1971, January 11). Thousands spend rest day at bird park. The Straits Times, p. 10. Retrieved from NewspaperSG.
+Jurong birds netted $1m last year. (1972, January 19). The Straits Times, p. 7. Retrieved from NewspaperSG. 
+Chia, P. (1972, August 3). Jurong Bird Park to breed 350 species for sale. The Straits Times, p. 6. Retrieved from NewspaperSG.
+Ng, E. (1972, September 12). Exotic bird business gets off the ground. The Straits Times, p. 26. Retrieved from NewspaperSG; The Straits Times, 3 Aug 1972, p. 6.
+Bird park’s breeding success. (1976, August 24). The Straits Times, p. 11. Retrieved from NewspaperSG.
+Wildlife Reserves Singapore Group. (2021). Hornbills and toucans. Retrieved from Wildlife Reserves Singapore website.
+Wildlife Reserves Singapore Group. (2019, January 23). Two highly threatened bird species successfully bred at Jurong Bird Park. Retrieved from Wildlife Reserves Singapore website.
+Teo, R. (2012, February). Conserving hornbiills in the urban environment. Citygreen, (4), 130–135, p. 132. Retrieved from National Parks Board website
+Teo, Feb 2012, p. 134.
+Wildlife Reserves Singapore Group. (2018, August 17). Jurong Bird Park home to possibly half the world’s Santa Cruz ground-dove population. Retrieved from Wildlife Reserves Singapore website.
+Email correspondence with Wildlife Reserves Singapore, 4 May 2021.
+Email correspondence with Mandai Park Holdings, 7 May 2021.
