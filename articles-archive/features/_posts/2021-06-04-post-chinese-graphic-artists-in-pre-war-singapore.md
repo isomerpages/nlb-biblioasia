@@ -154,5 +154,4 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 
 [^14]: *First commercial art course graduation exhibition: Officially opened by Inche Sha’ari bin Tadin* (1972). Singapore: Singapore Commercial Art Society. (No available in NLB holdings)
 
-[^15]: [美術廣告研究會會員，會選出第一屆職員](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390704-1.2.72). (1939, 
-July 4). 南洋商报 [Nanyang Siang Pau], p. 7. Retrieved from NewspaperSG.
+[^15]: [美術廣告研究會會員，會選出第一屆職員](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390704-1.2.72). (1939, July 4). 南洋商报 [Nanyang Siang Pau], p. 7. Retrieved from NewspaperSG.
