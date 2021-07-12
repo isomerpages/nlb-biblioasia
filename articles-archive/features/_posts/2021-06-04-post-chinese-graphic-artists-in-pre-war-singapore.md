@@ -82,13 +82,19 @@ Xu’s works are characterised by minute articulation and detailed embellishment
 #### **Xiaotian Huashi (小天畫室)**
 Leong Siew Tien (Liang Xiaotian) came to Singapore, possibly via Hong Kong and  later established the studio Xiaotian Huashi (小天畫室) on Cross Street in the 1930s. In the late 1920s, Leong was part of the Kreta Ayer literati scene. He was an urban legend, writing and drawing satirical cartoons for the Nan Fan Periodical (南薰三日刊; Nanxun sanrikan) , which had a strong following among the Cantonese community living in the area.[^13]
 
-Leong’s versatility in Chinese ink and watercolour painting is documented in publications of the Chung Shan (Clan) Association (中山會館) and the Society of Chinese Artists, where he was a member. 
-While his watercolour works are competently executed, Leong’s classical training is visible in his Chinese ink works, which recall the Shanghai School (上海画派; Shanghai huapai) influence, characterised by powerful calligraphy-styled brushwork and dynamic compositions. 
-In 1948, Leong joined a group of old-school scholars, calligraphers and Shanghai-influenced artists to form the Seal and Inscription Society (金石学会; Jinshi Xuehui), a hobbyist gathering dedicated to the study and appreciation of ancient inscriptions, etymology, calligraphy and seal-carving. 
-Professionally, Leong worked as a full-time graphic artist in his own studio. The studio provided a range of services, including head-shot portrait painting on ceramic plaques (generally for tombstones, advertising illustrations and lithograph plate making). 
-The signatures that Leong left on his commercial works suggest that he focused  on three areas – illustration, for which he signed off as 小天繪製 (Xiaotian huizhi); lithograph plate making, where he used 小天製版 (Xiaotian zhiban); and photo-engraving, when he was known as 小天電版 (Xiaotian dianban). 
-Leong’s commercial art features old Shanghai-style composition made popular at the turn of the 20th century, in which products or cheongsam-clad ladies were meticulously drawn using clean lines, perfect for monochrome printing, while text was rendered in striking classic seal characters. He was also an active member of the Singapore Commercial Art Society until the late 1970s. 
-Cupid Studio (天使畫室)
+Leong’s versatility in Chinese ink and watercolour painting is documented in publications of the Chung Shan (Clan) Association (中山會館) and the Society of Chinese Artists, where he was a member.
+
+While his watercolour works are competently executed, Leong’s classical training is visible in his Chinese ink works, which recall the Shanghai School (上海画派; Shanghai huapai) influence, characterised by powerful calligraphy-styled brushwork and dynamic compositions.
+
+In 1948, Leong joined a group of old-school scholars, calligraphers and Shanghai-influenced artists to form the Seal and Inscription Society (金石学会; Jinshi Xuehui), a hobbyist gathering dedicated to the study and appreciation of ancient inscriptions, etymology, calligraphy and seal-carving.
+
+Professionally, Leong worked as a full-time graphic artist in his own studio. The studio provided a range of services, including head-shot portrait painting on ceramic plaques (generally for tombstones, advertising illustrations and lithograph plate making).
+
+The signatures that Leong left on his commercial works suggest that he focused  on three areas – illustration, for which he signed off as 小天繪製 (Xiaotian huizhi); lithograph plate making, where he used 小天製版 (Xiaotian zhiban); and photo-engraving, when he was known as 小天電版 (Xiaotian dianban).
+
+Leong’s commercial art features old Shanghai-style composition made popular at the turn of the 20th century, in which products or cheongsam-clad ladies were meticulously drawn using clean lines, perfect for monochrome printing, while text was rendered in striking classic seal characters. He was also an active member of the Singapore Commercial Art Society until the late 1970s.
+
+#### **Cupid Studio (天使畫室)**
 Established by Chong Beng Si (鍾鳴世) around 1937, Cupid Studio operated from a shophouse at 270 Telok Ayer Street, strategically positioned to serve the Chinese businesses in the vicinity of Robinson Road, Cecil Street, Telok Ayer, Amoy Street and Club Street. 
 Chong was also assistant to Lim Hak Tai, principal and founder of NAFA. Chong handled administrative and estate-related matters for the school in addition to teaching Western art. He was also one of the earliest members of the Society of Chinese Artists. And, like many of his fellow contemporary artists, Chong made his living creating commercial advertisement art.
 Chong’s clientele included major brands in Singapore such as the Nanyang Elephant brand of rubber shoes made by Nanyang Manufacturing, which belonged to Lee Kong Chian; Hua Hong Manufacturing (cooking oils); and Yeo Hiap Seng Sauce Factory. 
