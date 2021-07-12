@@ -62,7 +62,7 @@ While Tchang pursued a more conventional style for Long Long’s laundry deterge
 
 Instead of using brush calligraphy in the traditional style to render the Chinese characters of his main headings, Tchang would hand draw characters in his unique style. The characters were quirky, elegant and usually tilted slightly to accentuate his handiwork. His graphic style is unique and recognisable, and with his assistant illustrators such as Tsou Chin Hai (周金海), a distinctive house style for the studio can be discerned.
 
-During his editorial stint at Lat Pau’s Yehui, Tchang had to source for and produce content to fill the pictorial weekend supplement, a two-page spread. He would also enter design competitions organised by international brands handled by British agents.
+During his editorial stint at *Lat Pau’s Yehui*, Tchang had to source for and produce content to fill the pictorial weekend supplement, a two-page spread. He would also enter design competitions organised by international brands handled by British agents.
 
 Tchang signed off most of his works with 器 (qi), the last character of his name. The four 口 (“mouth”) in the character would be transformed into a doodle with a comic face. Like many of his illustrations, the signature is immediately recognisable and instrumental in the identification of his works, now scattered in the advertising sections, supplements and section mastheads of many newspapers and magazines.
 
