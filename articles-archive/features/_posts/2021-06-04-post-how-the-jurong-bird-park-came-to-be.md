@@ -159,7 +159,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^33]: Teo, R. (2012, February). Conserving hornbiills in the urban environment. *Citygreen*, (4), 130–135, p. 132. Retrieved from National Parks Board website
 
-[^34]: Teo, Feb 2012, p. 134.
+[^34]: [Teo](file:///C:/Users/nlsymsj/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/DOIZB7BT/Teo), Feb 2012, p. 134.
 
 [^35]: Wildlife Reserves Singapore Group. (2018, August 17). *Jurong Bird Park home to possibly half the world’s Santa Cruz ground-dove population*. Retrieved from Wildlife Reserves Singapore website.
 
