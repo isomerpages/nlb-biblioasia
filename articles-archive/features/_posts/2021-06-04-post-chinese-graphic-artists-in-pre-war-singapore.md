@@ -124,7 +124,7 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 
 
 #### **NOTES**
-[^1]: “Art making in a cultural desert” lecture by Lee Chor Lin on 27 November 2019, part of the lecture series for the exhibition “Living with Ink: The Collection of Dr Tan Tsze Chor” (8 Nov 2019–26 Apr 2020), Asian Civilisations Museum; Lee, C.L. (2021, June). Colonising the coconut groves: Artistic legacies of British colonial Malaya. (Post)Colonialism and Cultural Heritage. Humboldt Forum, Berlin.
+[^1]: “Art making in a cultural desert” lecture by Lee Chor Lin on 27 November 2019, part of the lecture series for the exhibition “Living with Ink: The Collection of Dr Tan Tsze Chor” (8 Nov 2019–26 Apr 2020), Asian Civilisations Museum; Lee, C.L. (2021, June). Colonising the coconut groves: Artistic legacies of British colonial Malaya. *(Post)Colonialism and Cultural Heritage*. Humboldt Forum, Berlin.
 
 [^2]: Table 4.6 circulation rates of Singapore newspapers, 1919–1932. See Kenley, D.L. (2003). *New culture in a new world: The May Fourth Movement and the Chinese diaspora in Singapore, 1919–1932* (p. 101). New York: Routledge. (Call no.: RSING 959.57004951 KEN). For Singapore’s population of the period, see Table 5.14, percentage distribution of Singapore’s total population by ethnic group in, Pan, L. (Ed.). (1998). *The encyclopedia of the Chinese overseas* (p. 200). Singapore: Archipelago Press. (Call no.: RSING 304.80951 ENC)
 
