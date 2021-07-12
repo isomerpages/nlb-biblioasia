@@ -107,7 +107,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^7]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b98e58a-115d-11e3-83d5-0050568939ad), 3 Jan 1971.
 
-[^8]: New attractions almost every year to whip up visitor interest. (1995, February 24). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^8]: [New attractions almost every year to whip up visitor interest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950224-1.2.68.3.1). (1995, February 24). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
 [^9]: The National Archives, United Kingdom. (1970). *FCO 24/901: Request for assistance in obtaining rare birds for Jurong Bird Park, Singapore*. Accessed at National Archives of Singapore. (Accession no.: FCO 24/901)
 
