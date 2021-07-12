@@ -141,7 +141,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^24]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b98e58a-115d-11e3-83d5-0050568939ad), 3 Jan 1971. 
 
-[^25]: Ministry of Culture, 3 Jan 1971. 
+[^25]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b98e58a-115d-11e3-83d5-0050568939ad), 3 Jan 1971. 
 
 [^26]: Har, N. (1971, January 11). Thousands spend rest day at bird park. *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
