@@ -37,10 +37,11 @@ A number of them taught art in the Chinese schools that proliferated at the time
 
 An example of the phenomenon is artist Xu Qigao (許奇高) from Jieyang city in Guangdong province. A Tokyo-trained Modernist who had already made a name for himself in China, Xu came to Singapore to escape violence inflicted in his hometown by the Kuomingtang (KMT) government between the late 1920s and the early 30s.
 
-In 1936, Xu staged an exhibition in Singapore, which was sponsored by Chima Studio (“Red Horse”) (赤馬画室).[^3] While he was here, Xu lodged with his aunt and uncle. His cousin Tan Teo Kwang (陳潮光) remembered seeing Xu drawing advertisements. (Xu lived with the Tans until he returned to China in 1947.)[^4] His stint with Chima shows that even established artists had to find ways to supplement their fine art endeavours. 
+In 1936, Xu staged an exhibition in Singapore, which was sponsored by Chima Studio (“Red Horse”) (赤馬画室).[^3] While he was here, Xu lodged with his aunt and uncle. His cousin Tan Teo Kwang (陳潮光) remembered seeing Xu drawing advertisements. (Xu lived with the Tans until he returned to China in 1947.)[^4] His stint with Chima shows that even established artists had to find ways to supplement their fine art endeavours.
+
 While Xu’s commercial work has yet to surface, we do have the creations of four of his contemporaries – Tchang Ju-ch’i (張汝器), Xu Diaolun (許釣綸), Leong Siew Tien (梁小天; Liang Xiaotian) and Chong Beng Si (鍾鳴世). Their signed works enhance our understanding of the nature of art-making and their connections to Singapore’s pre-war business scene.
-Ju Chi Studio (汝器画室) and 
-The United Painters (朋特画室)
+
+#### **Ju Chi Studio (汝器画室) and The United Painters (朋特画室)**
 One of the most prominent and active artists in pre-war Singapore, Tchang Ju-ch’i had his life brutally cut short by World War II in 1942. A student at the Shanghai Academy of Art, Tchang left for France to pursue art but had to turn back after running out of funds. It is unclear when he arrived in Singapore but by late 1928, he had certainly settled down here and by the following year,  he was involved in a number of projects. 
 Apart from teaching art at Yeung Cheng (養正學校) and Tuan Mong (端蒙學校) schools, and a small artists collective called The Painting Society (繪畫研究會),5 Tchang was also picture editor and editor of Sin Chew Jit Poh’s (星洲日报) weekly supplement. 
 At the invitation of Chen Lien Tsing 
