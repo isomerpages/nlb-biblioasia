@@ -142,7 +142,7 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 [^8]: [漳宜軍人影院重新改建](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391208-1.2.61). (1939, December 8).
 南洋商报 [*Nanyang Siang Pau*], p. 6. Retrieved from NewspaperSG.
 
-[^9]: 大眾圖書館不久將在本坡出現. (1937, January 14). 南洋商报 [*Nanyang Siang Pau*], p. 5. Retrieved from NewspaperSG.
+[^9]: [大眾圖書館不久將在本坡出現](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370114-1.2.52). (1937, January 14). 南洋商报 [*Nanyang Siang Pau*], p. 5. Retrieved from NewspaperSG.
 
 [^10]: 許釣綸 (Xu, D.L]. (1937). 圖畫科的教學理論和實際 (p. 65). In 愛同學校二十五週年特刊 [Ai Tong School, 25th Anniversary Commemorative Publication]. (Not available in NLB holdings)
 
