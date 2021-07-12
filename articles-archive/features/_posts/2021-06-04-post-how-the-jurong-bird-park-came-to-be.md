@@ -144,11 +144,16 @@ The new and improved bird park will include themed walk-through aviaries designe
 [^25]: Ministry of Culture, 3 Jan 1971. 
 
 [^26]: Har, N. (1971, January 11). Thousands spend rest day at bird park. The Straits Times, p. 10. Retrieved from NewspaperSG.
-Jurong birds netted $1m last year. (1972, January 19). The Straits Times, p. 7. Retrieved from NewspaperSG. 
-Chia, P. (1972, August 3). Jurong Bird Park to breed 350 species for sale. The Straits Times, p. 6. Retrieved from NewspaperSG.
-Ng, E. (1972, September 12). Exotic bird business gets off the ground. The Straits Times, p. 26. Retrieved from NewspaperSG; The Straits Times, 3 Aug 1972, p. 6.
-Bird park’s breeding success. (1976, August 24). The Straits Times, p. 11. Retrieved from NewspaperSG.
-Wildlife Reserves Singapore Group. (2021). Hornbills and toucans. Retrieved from Wildlife Reserves Singapore website.
+
+[^27]: Jurong birds netted $1m last year. (1972, January 19). The Straits Times, p. 7. Retrieved from NewspaperSG. 
+
+[^28]: Chia, P. (1972, August 3). Jurong Bird Park to breed 350 species for sale. The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[^29]: Ng, E. (1972, September 12). Exotic bird business gets off the ground. The Straits Times, p. 26. Retrieved from NewspaperSG; The Straits Times, 3 Aug 1972, p. 6.
+
+[^30]: Bird park’s breeding success. (1976, August 24). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+[^31]: Wildlife Reserves Singapore Group. (2021). Hornbills and toucans. Retrieved from Wildlife Reserves Singapore website.
 Wildlife Reserves Singapore Group. (2019, January 23). Two highly threatened bird species successfully bred at Jurong Bird Park. Retrieved from Wildlife Reserves Singapore website.
 Teo, R. (2012, February). Conserving hornbiills in the urban environment. Citygreen, (4), 130–135, p. 132. Retrieved from National Parks Board website
 Teo, Feb 2012, p. 134.
