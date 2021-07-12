@@ -149,7 +149,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^28]: Chia, P. (1972, August 3). [Jurong Bird Park to breed 350 species for sale](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720803-1.2.37). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^29]: Ng, E. (1972, September 12). Exotic bird business gets off the ground. *The Straits Times*, p. 26. Retrieved from NewspaperSG; *The Straits Times*, 3 Aug 1972, p. 6.
+[^29]: Ng, E. (1972, September 12). [Exotic bird business gets off the ground](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720912-1.2.115). *The Straits Times*, p. 26. Retrieved from NewspaperSG; *The Straits Times*, 3 Aug 1972, p. 6.
 
 [^30]: Bird park’s breeding success. (1976, August 24). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
