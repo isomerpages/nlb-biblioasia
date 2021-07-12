@@ -103,9 +103,9 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^5]: Yeo, T.J. (1969, January 3). [Work on $1 mil. Aviary at Jurong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690103-1.2.31). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^6]: Ministry of Culture, 3 Jan 1971.
+[^6]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b98e58a-115d-11e3-83d5-0050568939ad), 3 Jan 1971.
 
-[^7]: Ministry of Culture, 3 Jan 1971.
+[^7]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b98e58a-115d-11e3-83d5-0050568939ad), 3 Jan 1971.
 
 [^8]: New attractions almost every year to whip up visitor interest. (1995, February 24). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
