@@ -49,7 +49,7 @@ Recalled Lee: “[He] looked at Woon Wah Siang and said ‘Wah Siang, you want m
 
 The bird park swiftly acquired a filtration plant costing a quarter of a million dollars. It was installed near the waterfall and was “capable of filtering and cleaning the water so that what thunders down is crystal clear”.[^20]
 
-In August 1970, The Straits Times reported that as there was still ongoing work in the bird park, there would be a four-month wait until December that year before the attraction could open to the public, even though the aviaries, lakes and the artificial waterfall had been built. But not everyone realised that the park’s opening had been postponed and unsuspecting visitors were turned away.[^21]
+In August 1970, *The Straits Times* reported that as there was still ongoing work in the bird park, there would be a four-month wait until December that year before the attraction could open to the public, even though the aviaries, lakes and the artificial waterfall had been built. But not everyone realised that the park’s opening had been postponed and unsuspecting visitors were turned away.[^21]
 
 A month later, in September, the bird park again announced that its opening would be delayed as it would be introducing two new innovations – control of temperature of the aviary through landscaping and a new feeding method – both aimed at improving the welfare of the feathered residents of the park.[^22]
 
