@@ -155,7 +155,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^31]: Wildlife Reserves Singapore Group. (2021). Hornbills and toucans. Retrieved from Wildlife Reserves Singapore website.
 
-[^32]: Wildlife Reserves Singapore Group. (2019, January 23). Two highly threatened bird species successfully bred at Jurong Bird Park. Retrieved from Wildlife Reserves Singapore website.
+[^32]: Wildlife Reserves Singapore Group. (2019, January 23). *Two highly threatened bird species successfully bred at Jurong Bird Park*. Retrieved from Wildlife Reserves Singapore website.
 
 [^33]: Teo, R. (2012, February). Conserving hornbiills in the urban environment. *Citygreen*, (4), 130–135, p. 132. Retrieved from National Parks Board website
 
