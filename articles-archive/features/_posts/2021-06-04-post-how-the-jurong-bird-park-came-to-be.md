@@ -151,7 +151,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^29]: Ng, E. (1972, September 12). Exotic bird business gets off the ground. The Straits Times, p. 26. Retrieved from NewspaperSG; The Straits Times, 3 Aug 1972, p. 6.
 
-[^30]: Bird park’s breeding success. (1976, August 24). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^30]: Bird park’s breeding success. (1976, August 24). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
 [^31]: Wildlife Reserves Singapore Group. (2021). *Hornbills and toucans*. Retrieved from Wildlife Reserves Singapore website.
 
