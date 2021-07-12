@@ -154,9 +154,15 @@ The new and improved bird park will include themed walk-through aviaries designe
 [^30]: Bird park’s breeding success. (1976, August 24). The Straits Times, p. 11. Retrieved from NewspaperSG.
 
 [^31]: Wildlife Reserves Singapore Group. (2021). Hornbills and toucans. Retrieved from Wildlife Reserves Singapore website.
-Wildlife Reserves Singapore Group. (2019, January 23). Two highly threatened bird species successfully bred at Jurong Bird Park. Retrieved from Wildlife Reserves Singapore website.
-Teo, R. (2012, February). Conserving hornbiills in the urban environment. Citygreen, (4), 130–135, p. 132. Retrieved from National Parks Board website
-Teo, Feb 2012, p. 134.
-Wildlife Reserves Singapore Group. (2018, August 17). Jurong Bird Park home to possibly half the world’s Santa Cruz ground-dove population. Retrieved from Wildlife Reserves Singapore website.
-Email correspondence with Wildlife Reserves Singapore, 4 May 2021.
-Email correspondence with Mandai Park Holdings, 7 May 2021.
+
+[^32]: Wildlife Reserves Singapore Group. (2019, January 23). Two highly threatened bird species successfully bred at Jurong Bird Park. Retrieved from Wildlife Reserves Singapore website.
+
+[^33]: Teo, R. (2012, February). Conserving hornbiills in the urban environment. Citygreen, (4), 130–135, p. 132. Retrieved from National Parks Board website
+
+[^34]: Teo, Feb 2012, p. 134.
+
+[^35]: Wildlife Reserves Singapore Group. (2018, August 17). Jurong Bird Park home to possibly half the world’s Santa Cruz ground-dove population. Retrieved from Wildlife Reserves Singapore website.
+
+[^36]: Email correspondence with Wildlife Reserves Singapore, 4 May 2021.
+
+[^37]: Email correspondence with Mandai Park Holdings, 7 May 2021.
