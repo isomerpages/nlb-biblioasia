@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-2/authors/Ong-Eng-Chuan.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol-17-issue-2/authors/ChorLin.png" style="width: 100px; height: 100px;" />
 <b>Ong Eng Chuan</b> is a Senior Librarian with the National Library, Singapore, managing the Rare Materials Collection. His research interest is in early Singapore publications.
 </div>
 
