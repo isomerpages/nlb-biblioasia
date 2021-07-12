@@ -93,7 +93,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 
 #### **NOTES**
-[^1]: Ministry of Culture. (1971, January 3). Speech by Dr. Goh Keng Swee, Minister of Defence, at the opening of Jurong Bird Park on Sunday, 3rd January 1971 at 6.00 pm [Speech]. Retrieved from National Archives of Singapore website; Goh tells why the bird park was built. (1971, January 4). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
+[^1]: Ministry of Culture. (1971, January 3). *Speech by Dr. Goh Keng Swee, Minister of Defence, at the opening of Jurong Bird Park on Sunday, 3rd January 1971 at 6.00 pm* [Speech]. Retrieved from National Archives of Singapore website; Goh tells why the bird park was built. (1971, January 4). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
 [^2]: Ministry of Culture, 3 Jan 1971. 
 
