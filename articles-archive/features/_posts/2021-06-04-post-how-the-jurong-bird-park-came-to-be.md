@@ -97,7 +97,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^2]: Ministry of Culture, 3 Jan 1971. 
 
-[^3]: Tan, S.S. (2015). *Goh Keng Swee: A portrait* (p. 175). Singapore: Editions Didier Millet. (Call no.: RSING 959.5704092 TAN-[HIS])
+[^3]: Tan, S.S. (2015). *[Goh Keng Swee: A portrait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201485216)* (p. 175). Singapore: Editions Didier Millet. (Call no.: RSING 959.5704092 TAN-[HIS])
 
 [^4]: Tsang, S., & Hendricks, E. (2007). *Discover Singapore: The city’s history & culture redefined* (pp. 96–97). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 TSA-[HIS])
 
