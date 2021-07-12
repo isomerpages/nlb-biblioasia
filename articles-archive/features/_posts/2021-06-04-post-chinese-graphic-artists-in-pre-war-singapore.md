@@ -56,7 +56,7 @@ As their business expanded, Tchang and U-Chow were enlisted to work on large pro
 
 Their design for the expansion and renovation of the Astra cinema in the Royal Air Force Changi Airbase was equally impressive.[^8] Tchang continued to be a sought-after designer, helming the design and installation committees of prestigious trade fairs, China War Relief fundraisers and art exhibitions as well as becoming the founding president of the Society of Chinese Artists in September 1935.
 
-Tchang was also prolific as an illustrator and designer, and left behind a large body of works in print. His major clients featured in Lat Pau included Kwang Heng Goldsmiths (光興金莊), Asiatic Coffee and Long Long Laundry Blue.
+Tchang was also prolific as an illustrator and designer, and left behind a large body of works in print. His major clients featured in *Lat Pau* included Kwang Heng Goldsmiths (光興金莊), Asiatic Coffee and Long Long Laundry Blue.
 
 While Tchang pursued a more conventional style for Long Long’s laundry detergent, his works for Kwang Heng and Asiatic Coffee demonstrate his strong grasp of geometricised shapes with clean lines, the clever of use of silhouettes as well as the inclusion of black and white contrasts.
 
