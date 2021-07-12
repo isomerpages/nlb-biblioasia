@@ -131,9 +131,9 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^19]: Oral history interview with Lee Oon Pong, 15 Aug 2002.
 
-[^20]: The Straits Times, 3 Jan 1971, p. 20
+[^20]: *The Straits Times*, 3 Jan 1971, p. 20
 
-[^21]: Another 4 months wait for bird lovers. (1970, August 26). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^21]: Another 4 months wait for bird lovers. (1970, August 26). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
 [^22]: Delay – strictly for some rare birds. (1970, September 12). *Singapore Herald*, p. 13. Retrieved from NewspaperSG.
 
