@@ -4,7 +4,7 @@ date: 2021-06-04
 permalink: /articles-archive/features/jurong-bird-park
 layout: post
 ---
-#### **Lee Meiyu** looks back at the life of rubber tycoon Tan Lark Sye, long-time chairman of Hokkien Huay Kuan and the founder of the former Nanyang University in Singapore.
+#### **Zoe Yeo** is an Associate Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions at the National Library Board. She manages the Legal Deposit function and collection, including its collection policies, workflows and enforcement as well as engagement with publishers and the public.
 
 <div style="background-color: white;">
 <br/>
