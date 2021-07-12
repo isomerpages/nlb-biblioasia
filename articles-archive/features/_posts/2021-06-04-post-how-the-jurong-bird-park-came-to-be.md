@@ -39,7 +39,7 @@ There were also engineering challenges involved in building the bird park. The f
 
 But it was perhaps the man-made waterfall that was the most challenging to build. Said to be the highest in the world at the time, it had “8,000 gallons of water pouring from a height of 100 feet every minute”. Huge granite rocks were used as the backdrop, “each weighing no less than a ton”. These boulders had to be held together with steel cables to prevent them from sliding down.[^15]
 
-Eventually, all the challenges were overcome and a date was set for the opening: 29 June 1970. However, on 28 June, The Straits Times announced that the park’s opening, scheduled for the following day, would be postponed. The two-paragraph statement reported that the “aviaries, the man-made waterfall and the flight-in aviary were all completed but certain improvements had yet to be made”.[^16]
+Eventually, all the challenges were overcome and a date was set for the opening: 29 June 1970. However, on 28 June, *The Straits Times* announced that the park’s opening, scheduled for the following day, would be postponed. The two-paragraph statement reported that the “aviaries, the man-made waterfall and the flight-in aviary were all completed but certain improvements had yet to be made”.[^16]
 
 According to Lee Oon Pong, the director of Employment at the Ministry of Defence (1970–75), who worked closely with Goh, the last-minute postponement was because the latter did not feel that one of the key attractions, the man-made waterfall, was up to mark.[^17]
 
