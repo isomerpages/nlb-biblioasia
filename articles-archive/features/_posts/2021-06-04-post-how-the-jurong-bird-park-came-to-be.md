@@ -161,7 +161,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^34]: Teo, Feb 2012, p. 134.
 
-[^35]: Wildlife Reserves Singapore Group. (2018, August 17). Jurong Bird Park home to possibly half the world’s Santa Cruz ground-dove population. Retrieved from Wildlife Reserves Singapore website.
+[^35]: Wildlife Reserves Singapore Group. (2018, August 17). *Jurong Bird Park home to possibly half the world’s Santa Cruz ground-dove population*. Retrieved from Wildlife Reserves Singapore website.
 
 [^36]: Email correspondence with Wildlife Reserves Singapore, 4 May 2021.
 
