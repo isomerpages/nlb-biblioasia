@@ -125,7 +125,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^16]: [Park opening postponed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700628-1.2.66). (1970, June 28). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^17]: Lim, J. (Interviewer). (2002, August 15). *Oral history interview with Lee Oon Pong* [MP3 recording no. 002510/52/51]. Accessed at the National Archives of Singapore. [Note: Written permission to the National Archives is required for use.]
+[^17]: Lim, J. (Interviewer). (2002, August 15). *[Oral history interview with Lee Oon Pong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/a3577051-115e-11e3-83d5-0050568939ad)* [MP3 recording no. 002510/52/51]. Accessed at the National Archives of Singapore. [Note: Written permission to the National Archives is required for use.]
 
 [^18]: *Oral history interview with Lee Oon Pong*, 15 Aug 2002. 
 
