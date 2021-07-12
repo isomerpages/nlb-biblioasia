@@ -137,7 +137,7 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 
 [^6]: [Singapore & coronation reflections](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370510-1.2.4). (1937, May 10). *The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
 
-[^7]: 星華籌賑大會主辦南新洋國民商報報滇緬公路攝影展覽會舉行隆重開幕高總領事主持開幕禮稱觀此影展可加强抗戰信念主席李光前謂此影展會足以發揚吾民族復興精神會場佈置由美術專家多人設計極爲精緻. (1939, November 25). 南洋商报 [*Nanyang Siang Pau*], p. 7. Retrieved from NewspaperSG.
+[^7]: [星華籌賑大會主辦南新洋國民商報報滇緬公路攝影展覽會舉行隆重開幕高總領事主持開幕禮稱觀此影展可加强抗戰信念主席李光前謂此影展會足以發揚吾民族復興精神會場佈置由美術專家多人設計極爲精緻](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391125-1.2.46.1). (1939, November 25). 南洋商报 [*Nanyang Siang Pau*], p. 7. Retrieved from NewspaperSG.
 
 [^8]: 漳宜軍人影院重新改建. (1939, December 8).
 南洋商报 [*Nanyang Siang Pau*], p. 6. Retrieved from NewspaperSG.
