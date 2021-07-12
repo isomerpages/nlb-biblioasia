@@ -54,7 +54,7 @@ The pair worked well together. Tchang’s good-natured personality and connectio
 
 As their business expanded, Tchang and U-Chow were enlisted to work on large projects. In November 1939, the duo – together with Lim Hak Tai, principal and founder of the Nanyang Academy of Fine Arts (NAFA) – designed the Yunnan-Burma Railway Photography Exhibition, which was organised by the China Relief Fund. The clean and modern design featuring a series of V-shaped hanging frames won them a rare mention in the press.[^7]
 
-Their design for the expansion and renovation of the Astra cinema in the Royal Air Force Changi Airbase was equally impressive.8 Tchang continued to be a sought-after designer, helming the design and installation committees of prestigious trade fairs, China War Relief fundraisers and art exhibitions as well as becoming the founding president of the Society of Chinese Artists in September 1935.
+Their design for the expansion and renovation of the Astra cinema in the Royal Air Force Changi Airbase was equally impressive.[^8] Tchang continued to be a sought-after designer, helming the design and installation committees of prestigious trade fairs, China War Relief fundraisers and art exhibitions as well as becoming the founding president of the Society of Chinese Artists in September 1935.
 
 Tchang was also prolific as an illustrator and designer, and left behind a large body of works in print. His major clients featured in Lat Pau included Kwang Heng Goldsmiths (光興金莊), Asiatic Coffee and Long Long Laundry Blue.
 
