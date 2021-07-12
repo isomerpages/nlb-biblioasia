@@ -143,9 +143,9 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^25]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b98e58a-115d-11e3-83d5-0050568939ad), 3 Jan 1971. 
 
-[^26]: Har, N. (1971, January 11). Thousands spend rest day at bird park. *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^26]: Har, N. (1971, January 11). [Thousands spend rest day at bird park](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710111-1.2.63). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^27]: Jurong birds netted $1m last year. (1972, January 19). *The Straits Times*, p. 7. Retrieved from NewspaperSG. 
+[^27]: [Jurong birds netted $1m last year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720119-1.2.40). (1972, January 19). *The Straits Times*, p. 7. Retrieved from NewspaperSG. 
 
 [^28]: Chia, P. (1972, August 3). Jurong Bird Park to breed 350 species for sale. *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
