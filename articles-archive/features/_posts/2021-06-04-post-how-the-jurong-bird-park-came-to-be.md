@@ -119,11 +119,11 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^13]: The Straits Times, 14 Sep 1969, p. 8.
 
-[^14]: Fong, L. (1971, January 3). Rainbow on the falls on a sunny afternoon. The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^14]: Fong, L. (1971, January 3). Rainbow on the falls on a sunny afternoon. *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
-[^15]: The Straits Times, 3 Jan 1971, p. 20.
+[^15]: *The Straits Times*, 3 Jan 1971, p. 20.
 
-[^16]: Park opening postponed. (1970, June 28). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^16]: Park opening postponed. (1970, June 28). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
 [^17]: Lim, J. (Interviewer). (2002, August 15). *Oral history interview with Lee Oon Pong* [MP3 recording no. 002510/52/51]. Accessed at the National Archives of Singapore. [Note: Written permission to the National Archives is required for use.]
 
