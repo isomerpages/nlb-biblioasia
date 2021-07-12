@@ -92,7 +92,7 @@ Professionally, Leong worked as a full-time graphic artist in his own studio. Th
 
 The signatures that Leong left on his commercial works suggest that he focused  on three areas – illustration, for which he signed off as 小天繪製 (Xiaotian huizhi); lithograph plate making, where he used 小天製版 (Xiaotian zhiban); and photo-engraving, when he was known as 小天電版 (Xiaotian dianban).
 
-Leong’s commercial art features old Shanghai-style composition made popular at the turn of the 20th century, in which products or cheongsam-clad ladies were meticulously drawn using clean lines, perfect for monochrome printing, while text was rendered in striking classic seal characters. He was also an active member of the Singapore Commercial Art Society until the late 1970s.
+Leong’s commercial art features old Shanghai-style composition made popular at the turn of the 20th century, in which products or *cheongsam*-clad ladies were meticulously drawn using clean lines, perfect for monochrome printing, while text was rendered in striking classic seal characters. He was also an active member of the Singapore Commercial Art Society until the late 1970s.
 
 #### **Cupid Studio (天使畫室)**
 Established by Chong Beng Si (鍾鳴世) around 1937, Cupid Studio operated from a shophouse at 270 Telok Ayer Street, strategically positioned to serve the Chinese businesses in the vicinity of Robinson Road, Cecil Street, Telok Ayer, Amoy Street and Club Street.
