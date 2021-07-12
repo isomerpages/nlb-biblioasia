@@ -9,7 +9,7 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-2/authors/ZoeYeo.png" style="width: 100px; height: 100px;" />
-<b>Ong Eng Chuan</b> is a Senior Librarian with the National Library, Singapore, managing the Rare Materials Collection. His research interest is in early Singapore publications.
+<b>Zoe Yeo</b> is an Associate Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions at the National Library Board. She manages the Legal Deposit function and collection, including its collection policies, workflows and enforcement as well as engagement with publishers and the public.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
