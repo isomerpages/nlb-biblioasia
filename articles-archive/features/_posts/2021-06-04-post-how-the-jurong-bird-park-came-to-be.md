@@ -127,9 +127,9 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^17]: Lim, J. (Interviewer). (2002, August 15). *[Oral history interview with Lee Oon Pong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/a3577051-115e-11e3-83d5-0050568939ad)* [MP3 recording no. 002510/52/51]. Accessed at the National Archives of Singapore. [Note: Written permission to the National Archives is required for use.]
 
-[^18]: *Oral history interview with Lee Oon Pong*, 15 Aug 2002. 
+[^18]: *[Oral history interview with Lee Oon Pong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/a3577051-115e-11e3-83d5-0050568939ad)*, 15 Aug 2002. 
 
-[^19]: *Oral history interview with Lee Oon Pong*, 15 Aug 2002.
+[^19]: *[Oral history interview with Lee Oon Pong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/a3577051-115e-11e3-83d5-0050568939ad)*, 15 Aug 2002.
 
 [^20]: *The Straits Times*, 3 Jan 1971, p. 20
 
