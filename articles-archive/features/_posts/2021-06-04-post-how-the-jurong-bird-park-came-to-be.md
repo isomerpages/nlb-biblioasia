@@ -143,7 +143,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^25]: Ministry of Culture, 3 Jan 1971. 
 
-[^26]: Har, N. (1971, January 11). Thousands spend rest day at bird park. The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^26]: Har, N. (1971, January 11). Thousands spend rest day at bird park. *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
 [^27]: Jurong birds netted $1m last year. (1972, January 19). *The Straits Times*, p. 7. Retrieved from NewspaperSG. 
 
