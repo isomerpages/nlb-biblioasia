@@ -145,7 +145,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^26]: Har, N. (1971, January 11). Thousands spend rest day at bird park. The Straits Times, p. 10. Retrieved from NewspaperSG.
 
-[^27]: Jurong birds netted $1m last year. (1972, January 19). The Straits Times, p. 7. Retrieved from NewspaperSG. 
+[^27]: Jurong birds netted $1m last year. (1972, January 19). *The Straits Times*, p. 7. Retrieved from NewspaperSG. 
 
 [^28]: Chia, P. (1972, August 3). Jurong Bird Park to breed 350 species for sale. *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
