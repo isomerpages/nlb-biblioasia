@@ -133,12 +133,17 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^20]: The Straits Times, 3 Jan 1971, p. 20
 
-[^21]: Another 4 months wait for bird lovers. (1970, August 26). The Straits Times, p. 8. Retrieved from NewspaperSG. 
-Delay – strictly for some rare birds. (1970, September 12). Singapore Herald, p. 13. Retrieved from NewspaperSG. 
-What a lark! This bird park which has almost everything… (1970, December 17). Singapore Herald, p. 13. Retrieved from NewspaperSG. 
-Ministry of Culture, 3 Jan 1971. 
-Ministry of Culture, 3 Jan 1971. 
-Har, N. (1971, January 11). Thousands spend rest day at bird park. The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^21]: Another 4 months wait for bird lovers. (1970, August 26). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[^22]: Delay – strictly for some rare birds. (1970, September 12). Singapore Herald, p. 13. Retrieved from NewspaperSG.
+
+[^23]: What a lark! This bird park which has almost everything… (1970, December 17). Singapore Herald, p. 13. Retrieved from NewspaperSG.
+
+[^24]: Ministry of Culture, 3 Jan 1971. 
+
+[^25]: Ministry of Culture, 3 Jan 1971. 
+
+[^26]: Har, N. (1971, January 11). Thousands spend rest day at bird park. The Straits Times, p. 10. Retrieved from NewspaperSG.
 Jurong birds netted $1m last year. (1972, January 19). The Straits Times, p. 7. Retrieved from NewspaperSG. 
 Chia, P. (1972, August 3). Jurong Bird Park to breed 350 species for sale. The Straits Times, p. 6. Retrieved from NewspaperSG.
 Ng, E. (1972, September 12). Exotic bird business gets off the ground. The Straits Times, p. 26. Retrieved from NewspaperSG; The Straits Times, 3 Aug 1972, p. 6.
