@@ -108,8 +108,10 @@ Chong deftly created Chinese characters and used decorative elements such as ita
 In general, Chong’s graphic works display a sure grasp of the Western graphic art sensibility – functional although not necessarily cutting-edge. His fine art works featured in the exhibitions by the Society of Chinese Artists, generally in oil or watercolour, are not stunning but they are competent and pleasing.
 
 #### **Leaving a Legacy**
-A number of these graphic artists formed the Singapore Commercial Art Society in 1937. In recounting its history, long-time Chairman Siew Suet Pak (邵雪白) remembered the persistence of Xu Diaolun in pushing to form the society.14 Leong Siew Tian and U-Chow were among the artists, either as freelancers or studio owners, who were members.15 The society continued to function well into the 1990s, although printing technologies and desktop graphic design would have made the skills of the society’s members obsolete by then. 
-Studying the history of art-making in Singapore provides an insight into the workings of Singapore’s economy which, until very recently, was essentially a history of trade and one powered by thousands of small and medium-sized businesses, including the individuals who designed, made signages, laid-out pages of books, and printed publications for domestic and international publishers and readers. 
+A number of these graphic artists formed the Singapore Commercial Art Society in 1937. In recounting its history, long-time Chairman Siew Suet Pak (邵雪白) remembered the persistence of Xu Diaolun in pushing to form the society.[^14] Leong Siew Tian and U-Chow were among the artists, either as freelancers or studio owners, who were members.[^15] The society continued to function well into the 1990s, although printing technologies and desktop graphic design would have made the skills of the society’s members obsolete by then.
+
+Studying the history of art-making in Singapore provides an insight into the workings of Singapore’s economy which, until very recently, was essentially a history of trade and one powered by thousands of small and medium-sized businesses, including the individuals who designed, made signages, laid-out pages of books, and printed publications for domestic and international publishers and readers.
+
 The story of these graphic artists of a bygone era will contribute greatly to our appreciation of Singapore’s art history as well as its economy, its tenacity and responsiveness to change.
 
 <div style="background-color: white;">
