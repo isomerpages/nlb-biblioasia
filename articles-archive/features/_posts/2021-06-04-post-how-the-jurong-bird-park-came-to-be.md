@@ -121,7 +121,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^14]: Fong, L. (1971, January 3). [Rainbow on the falls on a sunny afternoon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710103-1.2.55.4). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
-[^15]: *The Straits Times*, 3 Jan 1971, p. 20.
+[^15]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710103-1.2.55.4)*, 3 Jan 1971, p. 20.
 
 [^16]: Park opening postponed. (1970, June 28). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
