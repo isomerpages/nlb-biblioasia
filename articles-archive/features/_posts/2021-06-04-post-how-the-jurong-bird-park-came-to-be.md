@@ -4,7 +4,7 @@ date: 2021-06-04
 permalink: /articles-archive/features/jurong-bird-park
 layout: post
 ---
-#### **Zoe Yeo** is an Associate Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions at the National Library Board. She manages the Legal Deposit function and collection, including its collection policies, workflows and enforcement as well as engagement with publishers and the public.
+#### **Zoe Yeo** pores through oral history archives and old newspaper reports to get a bird’s eye view of the setting up of one of Singapore’s most popular tourist attractions.
 
 <div style="background-color: white;">
 <br/>
