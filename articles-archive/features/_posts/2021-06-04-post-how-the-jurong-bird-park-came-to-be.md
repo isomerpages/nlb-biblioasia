@@ -119,7 +119,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^13]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690914-1.2.57)*, 14 Sep 1969, p. 8.
 
-[^14]: Fong, L. (1971, January 3). Rainbow on the falls on a sunny afternoon. *The Straits Times*, p. 20. Retrieved from NewspaperSG.
+[^14]: Fong, L. (1971, January 3). [Rainbow on the falls on a sunny afternoon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710103-1.2.55.4). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
 [^15]: *The Straits Times*, 3 Jan 1971, p. 20.
 
