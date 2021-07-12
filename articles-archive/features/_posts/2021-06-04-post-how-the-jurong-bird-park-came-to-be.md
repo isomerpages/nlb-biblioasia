@@ -101,7 +101,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^4]: Tsang, S., & Hendricks, E. (2007). *[Discover Singapore: The city’s history & culture redefined](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885312)* (pp. 96–97). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 TSA-[HIS])
 
-[^5]: Yeo, T.J. (1969, January 3). Work on $1 mil. Aviary at Jurong. *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^5]: Yeo, T.J. (1969, January 3). [Work on $1 mil. Aviary at Jurong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690103-1.2.31). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^6]: Ministry of Culture, 3 Jan 1971.
 
