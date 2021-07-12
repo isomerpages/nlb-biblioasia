@@ -80,11 +80,11 @@ In Chinese High School’s 1938 yearbook, Xu worked on an advertisement for loca
 Xu’s works are characterised by minute articulation and detailed embellishment. He drew women in long ankle-length tight-fitting cheongsam, seated tilted at an angle to accentuate their svelte figures. His lines are clean and slightly rigid, while his calligraphy is stately and seal-like. There is no mention of him in the Chinese press from around 1941, but his works in advertising illustrations continue to remind us of his artistry.
 
 #### **Xiaotian Huashi (小天畫室)**
-Leong Siew Tien (Liang Xiaotian) came to Singapore, possibly via Hong Kong and  later established the studio Xiaotian Huashi (小天畫室) on Cross Street in the 1930s. In the late 1920s, Leong was part of the Kreta Ayer literati scene. He was an urban legend, writing and drawing satirical cartoons for the Nan Fan Periodical (南薰三日刊; Nanxun sanrikan) , which had a strong following among the Cantonese community living in the area.[^13]
+Leong Siew Tien (Liang Xiaotian) came to Singapore, possibly via Hong Kong and  later established the studio Xiaotian Huashi (小天畫室) on Cross Street in the 1930s. In the late 1920s, Leong was part of the Kreta Ayer literati scene. He was an urban legend, writing and drawing satirical cartoons for the *Nan Fan Periodical* (南薰三日刊; *Nanxun sanrikan*) , which had a strong following among the Cantonese community living in the area.[^13]
 
 Leong’s versatility in Chinese ink and watercolour painting is documented in publications of the Chung Shan (Clan) Association (中山會館) and the Society of Chinese Artists, where he was a member.
 
-While his watercolour works are competently executed, Leong’s classical training is visible in his Chinese ink works, which recall the Shanghai School (上海画派; Shanghai huapai) influence, characterised by powerful calligraphy-styled brushwork and dynamic compositions.
+While his watercolour works are competently executed, Leong’s classical training is visible in his Chinese ink works, which recall the Shanghai School (上海画派; *Shanghai huapai*) influence, characterised by powerful calligraphy-styled brushwork and dynamic compositions.
 
 In 1948, Leong joined a group of old-school scholars, calligraphers and Shanghai-influenced artists to form the Seal and Inscription Society (金石学会; *Jinshi Xuehui*), a hobbyist gathering dedicated to the study and appreciation of ancient inscriptions, etymology, calligraphy and seal-carving.
 
