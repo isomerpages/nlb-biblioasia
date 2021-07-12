@@ -137,7 +137,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^22]: Delay – strictly for some rare birds. (1970, September 12). Singapore Herald, p. 13. Retrieved from NewspaperSG.
 
-[^23]: What a lark! This bird park which has almost everything… (1970, December 17). Singapore Herald, p. 13. Retrieved from NewspaperSG.
+[^23]: What a lark! This bird park which has almost everything… (1970, December 17). *Singapore Herald*, p. 13. Retrieved from NewspaperSG.
 
 [^24]: Ministry of Culture, 3 Jan 1971. 
 
