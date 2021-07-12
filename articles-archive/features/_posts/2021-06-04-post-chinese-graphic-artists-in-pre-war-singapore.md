@@ -150,7 +150,7 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 
 [^12]: Shanghai New Asiatic Pharmaceutical Company, founded in 1926, was one of China’s leading nationalist entrepreneurial efforts in the first half of the 20th century, and a current major pharmaceutical player in Shanghai.
 
-[^13]: 梁山. (1983, July 14). 牛车水的旧文. *联合早报* [*Lianhe Zaobao*], p. 39; 梁山. (1984, December 17).  新加坡早期的小报. *联合早报* [*Lianhe Zaobao*], p. 40. Retrieved from NewspaperSG.
+[^13]: 梁山. (1983, July 14). [牛车水的旧文](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19830714-1.2.82.1.2). *联合早报* [*Lianhe Zaobao*], p. 39; 梁山. (1984, December 17).  [新加坡早期的小报](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19841217-1.2.87.2). *联合早报* [*Lianhe Zaobao*], p. 40. Retrieved from NewspaperSG.
 
 [^14]: *First commercial art course graduation exhibition: Officially opened by Inche Sha’ari bin Tadin* (1972). Singapore: Singapore Commercial Art Society. (No available in NLB holdings)
 
