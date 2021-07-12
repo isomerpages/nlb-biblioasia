@@ -100,15 +100,25 @@ The new and improved bird park will include themed walk-through aviaries designe
 [^3]: Tan, S.S. (2015). Goh Keng Swee: A portrait (p. 175). Singapore: Editions Didier Millet. (Call no.: RSING 959.5704092 TAN-[HIS])
 
 [^4]: Tsang, S., & Hendricks, E. (2007). Discover Singapore: The city’s history & culture redefined (pp. 96–97). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 TSA-[HIS])
-Yeo, T.J. (1969, January 3). Work on $1 mil. Aviary at Jurong. The Straits Times, p. 6. Retrieved from NewspaperSG.
-Ministry of Culture, 3 Jan 1971. 
-Ministry of Culture, 3 Jan 1971.
-New attractions almost every year to whip up visitor interest. (1995, February 24). The Straits Times, p. 3. Retrieved from NewspaperSG.
-The National Archives, United Kingdom. (1970). FCO 24/901: Request for assistance in obtaining rare birds for Jurong Bird Park, Singapore. Accessed at National Archives of Singapore. (Accession no.: FCO 24/901)
-The National Archives, United Kingdom, 1970.
-One cassowary for sale, cheap – until yesterday. (1969, 14 September). The Straits Times, p. 8. Retrieved from NewspaperSG.
-The Straits Times, 14 Sep 1969, p. 8.
-The Straits Times, 14 Sep 1969, p. 8.
+
+[^5]: Yeo, T.J. (1969, January 3). Work on $1 mil. Aviary at Jurong. The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[^6]: Ministry of Culture, 3 Jan 1971.
+
+[^7]: Ministry of Culture, 3 Jan 1971.
+
+[^8]: New attractions almost every year to whip up visitor interest. (1995, February 24). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^9]: The National Archives, United Kingdom. (1970). FCO 24/901: Request for assistance in obtaining rare birds for Jurong Bird Park, Singapore. Accessed at National Archives of Singapore. (Accession no.: FCO 24/901)
+
+[^10]: The National Archives, United Kingdom, 1970.
+
+[^11]: One cassowary for sale, cheap – until yesterday. (1969, 14 September). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[^12]: The Straits Times, 14 Sep 1969, p. 8.
+
+[^13]: The Straits Times, 14 Sep 1969, p. 8.
+
 Fong, L. (1971, January 3). Rainbow on the falls on a sunny afternoon. The Straits Times, p. 20. Retrieved from NewspaperSG.
 The Straits Times, 3 Jan 1971, p. 20.
 Park opening postponed. (1970, June 28). The Straits Times, p. 9. Retrieved from NewspaperSG. 
