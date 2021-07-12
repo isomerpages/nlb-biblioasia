@@ -86,7 +86,7 @@ Leong’s versatility in Chinese ink and watercolour painting is documented in p
 
 While his watercolour works are competently executed, Leong’s classical training is visible in his Chinese ink works, which recall the Shanghai School (上海画派; Shanghai huapai) influence, characterised by powerful calligraphy-styled brushwork and dynamic compositions.
 
-In 1948, Leong joined a group of old-school scholars, calligraphers and Shanghai-influenced artists to form the Seal and Inscription Society (金石学会; Jinshi Xuehui), a hobbyist gathering dedicated to the study and appreciation of ancient inscriptions, etymology, calligraphy and seal-carving.
+In 1948, Leong joined a group of old-school scholars, calligraphers and Shanghai-influenced artists to form the Seal and Inscription Society (金石学会; *Jinshi Xuehui*), a hobbyist gathering dedicated to the study and appreciation of ancient inscriptions, etymology, calligraphy and seal-carving.
 
 Professionally, Leong worked as a full-time graphic artist in his own studio. The studio provided a range of services, including head-shot portrait painting on ceramic plaques (generally for tombstones, advertising illustrations and lithograph plate making).
 
