@@ -115,9 +115,9 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^11]: [One cassowary for sale, cheap – until yesterday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690914-1.2.57). (1969, 14 September). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^12]: *The Straits Times*, 14 Sep 1969, p. 8.
+[^12]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690914-1.2.57)*, 14 Sep 1969, p. 8.
 
-[^13]: *The Straits Times*, 14 Sep 1969, p. 8.
+[^13]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690914-1.2.57)*, 14 Sep 1969, p. 8.
 
 [^14]: Fong, L. (1971, January 3). Rainbow on the falls on a sunny afternoon. *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
