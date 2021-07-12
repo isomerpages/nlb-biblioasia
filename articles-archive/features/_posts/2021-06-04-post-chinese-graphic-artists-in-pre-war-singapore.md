@@ -124,4 +124,25 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 
 
 #### **NOTES**
-[^1]: Webb, J. (1979, November 26). [World declared rid of smallpox](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791126-1.2.123.20). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^1]: “Art making in a cultural desert” lecture by Lee Chor Lin on 27 November 2019, part of the lecture series for the exhibition “Living with Ink: The Collection of Dr Tan Tsze Chor” (8 Nov 2019–26 Apr 2020), Asian Civilisations Museum; Lee, C.L. (2021, June). Colonising the coconut groves: Artistic legacies of British colonial Malaya. (Post)Colonialism and Cultural Heritage. Humboldt Forum, Berlin.
+
+[^2]: Table 4.6 circulation rates of Singapore newspapers, 1919–1932. See Kenley, D.L. (2003). New culture in a new world: The May Fourth Movement and the Chinese diaspora in Singapore, 1919–1932 (p. 101). New York: Routledge. (Call no.: RSING 959.57004951 KEN). For Singapore’s population of the period, see Table 5.14, percentage distribution of Singapore’s total population by ethnic group in, Pan, L. (Ed.). (1998). The encyclopedia of the Chinese overseas (p. 200). Singapore: Archipelago Press. (Call no.: RSING 304.80951 ENC)
+
+[^3]: Chima (“Red Horse”) Art Studio, run by Xie Song An (謝松盫),  was an established company by the early 1930s. Xie himself made a donation of $200 (in Chinese currency) in 1932 towards relief funds for the flood in Shanghai while the staff contributed half a month’s salary voluntarily. It is unclear if Xie was himself an artist, but he was an active member of the Chinese community in Singapore, making regular cash donations and serving on the decorating committee for the high-profile fundraiser of the China Relief Fund in 1938.
+
+[^4]: Personal correspondence with Tan Teo Kwang, c. 2017–2018.
+
+[^5]: 第19页 广告 专栏 1. (1929, March 16). 南洋商报 
+[Nanyang Siang Pau], p. 19. Retrieved from NewspaperSG. [The same advertisement appeared in the 1, 8, 13, 19, 20 and 21 March 1929 editions of the newspaper.]
+Singapore & coronation reflections. (1937, May 10). The Malaya Tribune, p. 3. Retrieved from NewspaperSG. 
+星華籌賑大會主辦南新洋國民商報報滇緬公路攝影展覽會舉行隆重開幕高總領事主持開幕禮稱觀此影展可加强抗戰信念主席李光前謂此影展會足以發揚吾民族復興精神會場佈置由美術專家多人設計極爲精緻. (1939, November 25). 南洋商报 [Nanyang Siang Pau], p. 7. Retrieved from NewspaperSG.
+漳宜軍人影院重新改建. (1939, December 8).
+南洋商报 [Nanyang Siang Pau], p. 6. Retrieved from NewspaperSG.
+大眾圖書館不久將在本坡出現. (1937, January 14). 南洋商报 [Nanyang Siang Pau], p. 5. Retrieved from NewspaperSG.
+許釣綸 (Xu, D.L]. (1937). 圖畫科的教學理論和實際 (p. 65). In 愛同學校二十五週年特刊 [Ai Tong School, 25th Anniversary Commemorative Publication]. (Not available in NLB holdings)
+福建事变／闽变. See 杨伯凯 123, 参加‘福建事变’的农工当主要人物简介. Retrieved from 中国农工民主党福建省委员会 website. 
+Shanghai New Asiatic Pharmaceutical Company, founded in 1926, was one of China’s leading nationalist entrepreneurial efforts in the first half of the 20th century, and a current major pharmaceutical player in Shanghai. 
+梁山. (1983, July 14). 牛车水的旧文. 联合早报 [Lianhe Zaobao], p. 39; 梁山. (1984, December 17).  新加坡早期的小报. 联合早报 [Lianhe Zaobao], p. 40. Retrieved from NewspaperSG.
+First commercial art course graduation exhibition: Officially opened by Inche Sha’ari bin Tadin (1972). Singapore: Singapore Commercial Art Society. (No available in NLB holdings)
+美術廣告研究會會員，會選出第一屆職員. (1939, 
+July 4). 南洋商报 [Nanyang Siang Pau], p. 7. Retrieved from NewspaperSG.
