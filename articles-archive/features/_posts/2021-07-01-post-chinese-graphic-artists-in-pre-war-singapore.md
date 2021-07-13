@@ -137,11 +137,11 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 
 [^6]: [Singapore & coronation reflections](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370510-1.2.4). (1937, May 10). *The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
 
-[^7]: [星華籌賑大會主辦南新洋國民商報報滇緬公路攝影展覽會舉行隆重開幕高總領事主持開幕禮稱觀此影展可加强抗戰信念主席李光前謂此影展會足以發揚吾民族復興精神會場佈置由美術專家多人設計極爲精緻](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391125-1.2.46.1). (1939, November 25). 南洋商报 [*Nanyang Siang Pau*], p. 7. Retrieved from NewspaperSG.
+[^7]: [星華籌賑大會主辦南新洋國民商報報滇緬公路攝影展覽會舉行隆重開幕高總領事主持開幕禮稱觀此影展可加强抗戰信念主席李光前謂此影展會足以發揚吾民族復興精神會場佈置由美術專家多人設計極爲精緻](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391125-1.2.46.1). (1939, November 25). *南洋商报* [*Nanyang Siang Pau*], p. 7. Retrieved from NewspaperSG.
 
-[^8]: [漳宜軍人影院重新改建](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391208-1.2.61). (1939, December 8). 南洋商报 [*Nanyang Siang Pau*], p. 6. Retrieved from NewspaperSG.
+[^8]: [漳宜軍人影院重新改建](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391208-1.2.61). (1939, December 8). *南洋商报* [*Nanyang Siang Pau*], p. 6. Retrieved from NewspaperSG.
 
-[^9]: [大眾圖書館不久將在本坡出現](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370114-1.2.52). (1937, January 14). 南洋商报 [*Nanyang Siang Pau*], p. 5. Retrieved from NewspaperSG.
+[^9]: [大眾圖書館不久將在本坡出現](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370114-1.2.52). (1937, January 14). *南洋商报* [*Nanyang Siang Pau*], p. 5. Retrieved from NewspaperSG.
 
 [^10]: 許釣綸 (Xu, D.L]. (1937). 圖畫科的教學理論和實際 (p. 65). In 愛同學校二十五週年特刊 [Ai Tong School, 25th Anniversary Commemorative Publication]. (Not available in NLB holdings)
 
@@ -153,4 +153,4 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 
 [^14]: *First commercial art course graduation exhibition: Officially opened by Inche Sha’ari bin Tadin* (1972). Singapore: Singapore Commercial Art Society. (No available in NLB holdings)
 
-[^15]: [美術廣告研究會會員，會選出第一屆職員](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390704-1.2.72). (1939, July 4). 南洋商报 [Nanyang Siang Pau], p. 7. Retrieved from NewspaperSG.
+[^15]: [美術廣告研究會會員，會選出第一屆職員](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390704-1.2.72). (1939, July 4). *南洋商报* [*Nanyang Siang Pau*], p. 7. Retrieved from NewspaperSG.
