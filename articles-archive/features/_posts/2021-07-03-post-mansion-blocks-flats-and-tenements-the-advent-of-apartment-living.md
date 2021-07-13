@@ -132,7 +132,7 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-17-issue-2/authors/Julian%20Davison.png" style="width: 100px; height: 100px;" />
-<b>Dr Julian Davison</b>  is an anthropologist, architectural historian and former Lee Kong Chian Research Fellow. He grew up in Singapore and Malaysia, but currently lives here as a writer and television presenter, specialising in Singapore architecture and local history.
+<b>Dr Julian Davison</b>  is an anthropologist, architectural historian and former Lee Kong Chian Research Fellow of the National Library, Singapore. He grew up in Singapore and Malaysia, but currently lives here as a writer and television presenter, specialising in Singapore architecture and local history.
 </div>
 
 #### NOTES
