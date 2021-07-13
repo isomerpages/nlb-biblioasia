@@ -28,7 +28,7 @@ Two publications of great research value in this area were published for Chinese
 The repertoire of most studios in the pre-war years would also include outdoor signages. Walls could be used for advertising, particularly those that were owned privately. In 1938, at their Third Annual Exhibition, members of the Society of Chinese Artists (華人美術研
 究會) posed for a photograph on the grounds of the Chinese Chamber of Commerce with a gigantic wall advertisement of the neighbouring Lim Shing Hong Jewellery (林盛豐金莊) in the background.
 
-Although it is difficult to ascertain the number of people involved in graphic design and the making of print advertising, there were enough of them to form a society of their own. The Singapore Commercial Art Society was formally established on 28 February 1937 and by the following year, it had organised sketching trips. Following the outbreak of the Sino-Japanese War in July 1937, the society also actively contributed to the China War Relief Fund.
+Although it is difficult to ascertain the number of people involved in graphic design and the making of print advertising, there were enough of them to form a society of their own. The Singapore Commercial Art Society was formally established on 28 February 1937; by the following year, it had organised sketching trips. Following the outbreak of the Sino-Japanese War in July 1937, the society also actively contributed to the China War Relief Fund.
 
 #### **Artists and Their Studios**
 While the buoyant economy of pre-war Singapore provided opportunities for artists to live and work in the city, art making remained a challenging vocation for most artists. No artist was able to paint full time and so many held other jobs to make ends meet.
