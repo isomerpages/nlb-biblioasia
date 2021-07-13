@@ -91,7 +91,7 @@ The final *hadang* takes place at the bridal dais itself, this time between the 
 Traditionally, the groom’s older relatives were roped in to be the groomsmen and expected to partake in the exchange of *pantuns*. These days however, the *pengapit* role is assumed by friends. 
 It has also become customary in Malay weddings for the groom and his groomsmen to perform a series of tasks, such as singing and dancing, before he is allowed to meet his bride, possibly borrowed from a similar Chinese tradition. 
 
-*Pantun* are also rarely exchanged today. Instead, to appease the bride’s side and avoid having to perform additional tasks, the groom would offer money to the bride’s party so that he would be allowed to take his place by his bride on the dais.
+*Pantuns* are also rarely exchanged today. Instead, to appease the bride’s side and avoid having to perform additional tasks, the groom would offer money to the bride’s party so that he would be allowed to take his place by his bride on the dais.
 
 Once the groom is seated on the dais, family members and guests take turns to go up and congratulate the couple and to have their photos taken with them. The *bersanding* ceremony ends with the bride and groom having their first meal together as husband and wife, known as the *makan berdamai*. In the past, the couple would retreat to the bridal room to have their meal, accompanied by their *pengapit*. Today, the bride and groom are seated at a special dining table set up near the dais so that they can mingle and interact with their guests.[^21]
 
