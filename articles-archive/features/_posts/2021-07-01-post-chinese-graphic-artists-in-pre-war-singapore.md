@@ -4,8 +4,6 @@ date: 2021-07-01
 permalink: /articles-archive/features/chinese-graphic-artists
 layout: post
 ---
-
-
 #### Graphic artists in pre-war Singapore were often sidelined by their contemporaries in the fine arts. **Lee Chor Lin** highlights the works and achievements of several prominent Chinese graphic artists based here.
 
 As Singapore became one of the most dynamic global cities during the first half of the 20th century, it began to attract individuals thanks to the myriad opportunities and lifestyles that a modern, lively and booming metropolis offered. By the late 1920s, established and novice artists from China began converging in Singapore due to the job opportunities as well as the instability back home caused by natural disasters, incessant civil wars and Japanese aggression. As a result, in the years leading up to the fall of Singapore in February 1942, the art scene here was thriving and new styles of art were being created.[^1]
@@ -119,7 +117,8 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-2/authors/ChorLin.png" style="width: 100px; height: 100px;" />
-<b>Lee Chor Lin</b> is an art historian and museum consultant. She was director of the National Museum between 2003 and 2013 where she transformed the museum and museum scene in Singapore. She is also a former Lee Kong Chian Research Fellow.
+<b>Lee Chor Lin</b> is an art historian and museum consultant. She was director of the National Museum between 2003 and 2013 where she transformed the museum and museum scene in Singapore. She is also a Lee Kong Chian Research Fellow (2019). [Photo by Melisa Teo]
+
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
