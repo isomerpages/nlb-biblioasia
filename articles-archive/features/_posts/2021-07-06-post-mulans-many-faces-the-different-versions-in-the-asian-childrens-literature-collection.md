@@ -5,7 +5,7 @@ date: 2021-07-06
 permalink: /articles-archive/features/mulan-many-faces
 layout: post
 ---
-#### **Goh Yu Mei** looks at how the story of Mulan takes on different approaches when retold as a children’s tale in English and Chinese.
+#### **Goh Yu Mei** examines the National Library’s Asian Children’s Literature Collection to see how the story of Mulan has evolved over time, while **Michelle Heng** reviews other Asian tales in the acclaimed collection.
 
 “唧唧复唧唧，木兰当户织。不闻机杼声，惟闻女叹息。” [^1]
 
