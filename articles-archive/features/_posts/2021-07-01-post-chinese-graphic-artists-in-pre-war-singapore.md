@@ -46,7 +46,7 @@ One of the most prominent and active artists in pre-war Singapore, Tchang Ju-ch�
 
 Apart from teaching art at Yeung Cheng (養正學校) and Tuan Mong schools, and a small artists collective called The Painting Society (繪畫研究會),[^5] Tchang was also picture editor and editor of *Sin Chew Jit Poh’s* (星洲日报) weekly supplement.
 
-At the invitation of Chen Lien Tsing (陳鍊青), the chief editor of *Lat Pau* (叻报), Tchang re-designed the masthead of its literary section, *Coconut Grove* (椰林; *Yelin*), and subsequently guest-edited *Yehui* (椰暉), *Lat Pau*’s illustrated weekend pictorial, for half a year between October 1930 and April 1931. During this period, Tchang made a name for himself as an accomplished cartoonist and when he opened Ju Chi studio (汝器画室) in early 1930, it was widely publicised in both *Lat Pau* and *Sin Chew Jit Poh*.
+At the invitation of Chen Lien Tsing (陳鍊青), the chief editor of *Lat Pau* (叻报), Tchang redesigned the masthead of its literary section, *Coconut Grove* (椰林; *Yelin*), and subsequently guest-edited *Yehui* (椰暉), *Lat Pau*’s illustrated weekend pictorial, for half a year between October 1930 and April 1931. During this period, Tchang made a name for himself as an accomplished cartoonist and when he opened Ju Chi studio (汝器画室) in early 1930, it was widely publicised in both *Lat Pau* and *Sin Chew Jit Poh*.
 
 In 1934, Tchang and U-Chow (莊有釗) set up The United Painters (朋特畫社) at 181 Tank Road, offering a suite of services such as advertisement graphic design and painting, oil painting, sculpture and badge design (U-Chow, also known as Chong Yew Chao or Chuang Yew Chao, was married to Tchang’s first cousin).
 
