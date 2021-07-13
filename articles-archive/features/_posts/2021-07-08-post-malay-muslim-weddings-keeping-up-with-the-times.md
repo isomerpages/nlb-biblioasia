@@ -4,8 +4,6 @@ date: 2021-07-08
 permalink: /articles-archive/features/malay-weddings
 layout: post
 ---
-
-
 <style>
 table { 
 	background-color: #e5ebf6;
@@ -50,7 +48,7 @@ Grooms today are expected to fork out between $8,000 and $20,000, depending on h
 
 The *nikah* ceremony is also an occasion for the groom to present gifts to the bride. In the past, these gifts were typically a set of clothes for the bride and a selection of Malay cakes and desserts. These gifts were creatively packaged, wrapped and displayed on trays decorated with flowers and ribbons. Some gifts even featured fabric intricately folded into swans or flowers, and individually wrapped chocolates made into structures such as floral arrangements, houses and baskets. These days, brides and grooms may exchange gifts such as jewellery, watches, shoes, wallets, handbags, cosmetics and electronic gadgets, in addition to cakes and chocolates. Some couples even present each other with expensive  items like motorcycles and cars.[^9]
 
-Walimah Ceremony
+#### **Walimah Ceremony**
 The Malay wedding reaches its peak during the *walimah* and *bersanding* ceremonies, the wedding feast and the sitting-in-state respectively. The wedding feast, which typically takes place the day after the *nikah*, usually starts at 11 am and ends at 5 pm. It is an informal gathering of family, relatives and friends, with guests numbering in the hundreds and sometimes thousands. They are served a feast of either *nasi minyak* (ghee rice) or *nasi biryani* (spiced long-grain rice), accompanied by various dishes.[^10] Up to the 1950s, when most Malays largely lived in kampongs, the *walimah* and *bersanding* ceremonies would be held under tents in the village. 
 
 These events were typically communal events involving the entire kampong in the spirit of *gotong-royong*. It was customary to round up family members and enlist the entire village to help out with both the wedding preparations as well as the festivities leading up to the wedding day. 
