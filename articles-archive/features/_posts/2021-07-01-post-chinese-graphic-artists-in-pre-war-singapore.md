@@ -50,7 +50,7 @@ At the invitation of Chen Lien Tsing (陳鍊青), the chief editor of *Lat Pau* 
 
 In 1934, Tchang and U-Chow (莊有釗) set up The United Painters (朋特畫社) at 181 Tank Road, offering a suite of services such as advertisement graphic design and painting, oil painting, sculpture and badge design (U-Chow, also known as Chong Yew Chao or Chuang Yew Chao, was married to Tchang’s first cousin).
 
-The pair worked well together. Tchang’s good-natured personality and connections with Chinese businessmen worked hand-in-glove with U-Chow’s forte, which was carpentry and light constructions that were useful for interior decoration and large-scale structures. In May 1937, when Singapore was mobilised to celebrate the coronation of King George VI, The United Painters was commissioned to erect illuminated arches on Carpenter Street.[^6]
+The pair worked well together. Tchang’s good-natured personality and connections with Chinese businessmen worked hand-in-glove with U-Chow’s forte – carpentry and light construction which were useful for interior decoration and large-scale structures. In May 1937, when Singapore was mobilised to celebrate the coronation of King George VI, The United Painters was commissioned to erect illuminated arches on Carpenter Street.[^6]
 
 As their business expanded, Tchang and U-Chow were enlisted to work on large projects. In November 1939, the duo – together with Lim Hak Tai, principal and founder of the Nanyang Academy of Fine Arts (NAFA) – designed the Yunnan-Burma Railway Photography Exhibition, which was organised by the China Relief Fund. The clean and modern design featuring a series of V-shaped hanging frames won them a rare mention in the press.[^7]
 
