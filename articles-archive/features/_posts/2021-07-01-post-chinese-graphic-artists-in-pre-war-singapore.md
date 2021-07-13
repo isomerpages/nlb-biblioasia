@@ -143,7 +143,7 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 
 [^9]: [大眾圖書館不久將在本坡出現](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370114-1.2.52). (1937, January 14). *南洋商报* [*Nanyang Siang Pau*], p. 5. Retrieved from NewspaperSG.
 
-[^10]: 許釣綸 (Xu, D.L]. (1937). 圖畫科的教學理論和實際 (p. 65). In 愛同學校二十五週年特刊 [Ai Tong School, 25th Anniversary Commemorative Publication]. (Not available in NLB holdings)
+[^10]: 許釣綸 (Xu, D.L]. (1937). 圖畫科的教學理論和實際 (p. 65). In *愛同學校二十五週年特刊* [Ai Tong School, 25th Anniversary Commemorative Publication]. (Not available in NLB holdings)
 
 [^11]: 福建事变／闽变. See 杨伯凯 123, 参加‘福建事变’的农工当主要人物简介. Retrieved from 中国农工民主党福建省委员会 website.
 
