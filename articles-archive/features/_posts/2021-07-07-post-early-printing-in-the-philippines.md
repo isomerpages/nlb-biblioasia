@@ -4,8 +4,6 @@ date: 2021-07-07
 permalink: /articles-archive/features/early-printing
 layout: post
 ---
-
-
 <style>
 table { 
 	background-color: #e5ebf6;
@@ -106,6 +104,7 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
 </div>
 
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Kornicki, P.F. (2018). *Languages, scripts, and Chinese texts in East Asia* (p. 117). Oxford: Oxford University Press. (Not available in NLB holdings)
