@@ -4,20 +4,18 @@ date: 2021-07-03
 permalink: /articles-archive/features/swanandmaclaren
 layout: post
 ---
-
-
 <style>
 table { 
-	background-color: #e5ebf6;
+	background-color: #f7eddb;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #e5ebf6
+  background: #f7eddb
 }
 </style>
 
-#### Customs and traditions change over time. Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan & Maclaren helped to introduce the concept of apartment living in Singapore, as **Julian Davison** tells us.
+#### Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan & Maclaren introduced the concept of apartment living in Singapore, as **Julian Davison** tells us.
 
 The late flourishing of the black and white house notwithstanding, the residential architecture of Singapore in the early 1920s was notable for the emergence of a new way of living, namely the residential apartment block. In the West, the modern middle-class apartment dwelling has its origins in Baron Haussmann’s reconstruction of Paris in the 1850s.[^1]
 
@@ -47,7 +45,7 @@ Completed in early 1922, the apartments were initially a little hard to dispose 
 
 The retail units were a little harder to let and a year later, there were still eight units vacant. The directors of the company, however, were “confident that the class of shopkeeper who seems glued to High Street at exorbitant rents will sooner or later recognise the advantage of carrying on his trade in what is undoubtedly the principal European thoroughfare in town”.[^5] And so they did.
 
-#### **Institution Hill Mansions, River Valley Road, 1920 **
+#### **Institution Hill Mansions, River Valley Road, 1920**
 
 Institution Hill Mansions on River Valley Road date from the same year as Amber Mansions and were designed by Swan & Maclaren for their regular engineering partners, United Engineers. (The latter was formed in 1912 through the amalgamation of Howarth Erskine & Co., Swan & Maclaren’s long-standing collaborators, with Riley, Hargreaves & Co., Singapore’s oldest engineering firm.) 
 
@@ -55,10 +53,9 @@ Erected at a cost of $290,000, the Institution Hill apartments were primarily in
 
 The layout of the apartments was quite similar to Amber Mansions and consisted of a living room, dining room and two bedrooms, with a shared bathroom and a box room for storage; there was also a “boy’s room” attached to the kitchen for a live-in domestic servant. Although the external elevations were unmistakably “modern” in their restrained detailing, they were less austere than Amber Mansions. With their Mock-Tudor gables and loggia-style verandah-balconies, they represent a kind of Arts and Crafts take on the apartment lifestyle.[^6]
 
-#### **Eu Court, Hill Street and Stamford Road, 1925  **
+#### **Eu Court, Hill Street and Stamford Road, 1925**
 
-
-Although Amber Mansions was well received upon completion in early 1922, it would be another three years before Swan & Maclaren received their next commission for an apartment block. It came from businessman and philanthropist Eu Tong Sen (who built up Chinese medicine purveyor Eu Yan Sang) and was for a three-storey, L-shaped block of flats at the corner of Hill Street and Stamford Road.[^7 ]
+Although Amber Mansions was well received upon completion in early 1922, it would be another three years before Swan & Maclaren received their next commission for an apartment block. It came from businessman and philanthropist Eu Tong Sen (who built up Chinese medicine purveyor Eu Yan Sang) and was for a three-storey, L-shaped block of flats at the corner of Hill Street and Stamford Road.[^7]
 
 There were to be eight retail units on the ground floor and as many residential apartments on each of the floors above. The latter offered a choice of two- or three-bedroom flats, with a living room, dining room and kitchen. There were garages, too – a sign of the times – with servants’ quarters above that were located across a courtyard at the rear of the property. 
 
@@ -91,7 +88,7 @@ Amber Mansions, Institution Hill Mansions and Meyer Flats: three upmarket reside
 
 Likewise, the apartment blocks commissioned by Eu Tong Sen at the junction of Stamford Road and Hill Street. Which is not to say that there was any overt colour bar in place that would have prevented members of Singapore’s emerging Asian middle class – businessmen, office staff, clerical workers, school teachers and even young professionals – from renting a unit in one of these apartment blocks. If they could afford it, that is. But then somewhere in between the purpose-built apartment block and the shoebox cubicle of the repeatedly subdivided shophouse, there was a kind of halfway house – the tenement. 
 
-The word tenement today comes with pejorative associations but in the 1920s, the dictionary definition of a “tenement house” was simply “a dwelling house erected or used for the purpose of being rented, esp. one divided into separate apartments, or tenements, for families”.[^11 ]
+The word tenement today comes with pejorative associations but in the 1920s, the dictionary definition of a “tenement house” was simply “a dwelling house erected or used for the purpose of being rented, esp. one divided into separate apartments, or tenements, for families”.[^11]
 
 In Singapore, the term only begins to appear in planning submissions to the Municipal Engineer after World War I, usually in connection with the laudable efforts of civic-minded individuals and charitable organisations looking to provide decent but affordable housing for less well-off sectors of society; the “tenement”, like the “flat”, was a new building typology. 
 
