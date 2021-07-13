@@ -162,8 +162,8 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 [^11]: Harris, W.T., & Allen, F.S. (Eds.). (1923). *Webster’s new international dictionary of the English language, based on the international dictionary of 1890 and 1900* (p. 2127). Springfield, Mass., USA: G. & C. Merriam Company. Retrieved from Internet Archive website.  
 
 
-[^12]: The term “compound house” referred to a free-standing dwelling situated on its own land, the latter being typically surrounded by a masonry wall on all sides, especially in an urban setting. The etymology of the term “compound”, as used in this content, as opposed to, say, a chemical compound, is said to have come from the Malay word “kampong”, or village.
+[^12]: The term “compound house” referred to a free-standing dwelling situated on its own land, the latter being typically surrounded by a masonry wall on all sides, especially in an urban setting. The etymology of the term “compound”, as used in this content, as opposed to, say, a chemical compound, is said to have come from the Malay word *kampong*, or village.
 
-[^13]: “Li” means neighbourhood and “Long” means lane. A *lilong* is a type of housing that developed in Shanghai in the 19th century and is a characteristic of the city. It melds Western architectural details with traditional Chinese spatial arrangements. 
+[^13]: *Li* means neighbourhood and *Long* means lane. A *lilong* is a type of housing that developed in Shanghai in the 19th century and is a characteristic of the city. It melds Western architectural details with traditional Chinese spatial arrangements. 
 
 [^14]: [Buildings in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280915-1.2.91). (1928, September 15). *The Straits Times,* p. 10. Retrieved from NewspaperSG.
