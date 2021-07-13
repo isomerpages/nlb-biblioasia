@@ -133,7 +133,7 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 
 [^4]: Personal correspondence with Tan Teo Kwang, c. 2017–2018.
 
-[^5]: [第19页 广告 专栏 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19290316-1.2.57.1). (1929, March 16). 南洋商报 [*Nanyang Siang Pau*], p. 19. Retrieved from NewspaperSG. [The same advertisement appeared in the 1, 8, 13, 19, 20 and 21 March 1929 editions of the newspaper.]
+[^5]: [第19页 广告 专栏 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19290316-1.2.57.1). (1929, March 16). *南洋商报* [*Nanyang Siang Pau*], p. 19. Retrieved from NewspaperSG. [The same advertisement appeared in the 1, 8, 13, 19, 20 and 21 March 1929 editions of the newspaper.]
 
 [^6]: [Singapore & coronation reflections](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370510-1.2.4). (1937, May 10). *The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
 
