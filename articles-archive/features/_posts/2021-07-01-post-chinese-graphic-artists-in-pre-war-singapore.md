@@ -44,7 +44,7 @@ While Xu’s commercial work has yet to surface, we do have the creations of fou
 #### **Ju Chi Studio (汝器画室) and The United Painters (朋特画室)**
 One of the most prominent and active artists in pre-war Singapore, Tchang Ju-ch’i had his life brutally cut short by World War II in 1942. A student at the Shanghai Academy of Art, Tchang left for France to pursue art but had to turn back after running out of funds. It is unclear when he arrived in Singapore but by late 1928, he had certainly settled down here and by the following year,  he was involved in a number of projects.
 
-Apart from teaching art at Yeung Cheng (養正學校) and Tuan Mong (端蒙學校) schools, and a small artists collective called The Painting Society (繪畫研究會),[^5] Tchang was also picture editor and editor of *Sin Chew Jit Poh’s* (星洲日报) weekly supplement.
+Apart from teaching art at Yeung Cheng (養正學校) and Tuan Mong schools, and a small artists collective called The Painting Society (繪畫研究會),[^5] Tchang was also picture editor and editor of *Sin Chew Jit Poh’s* (星洲日报) weekly supplement.
 
 At the invitation of Chen Lien Tsing (陳鍊青), the chief editor of *Lat Pau* (叻报), Tchang re-designed the masthead of its literary section, *Coconut Grove* (椰林; *Yelin*), and subsequently guest-edited *Yehui* (椰暉), *Lat Pau*’s illustrated weekend pictorial, for half a year between October 1930 and April 1931. During this period, Tchang made a name for himself as an accomplished cartoonist and when he opened Ju Chi studio (汝器画室) in early 1930, it was widely publicised in both *Lat Pau* and *Sin Chew Jit Poh*.
 
