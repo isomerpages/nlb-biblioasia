@@ -113,7 +113,7 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
-#### NOTES
+#### **NOTES**
 [^1]:  Eurasians are persons with mixed European and Asian lineage. Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. See Ho, S. (2013, July 25). [*Eurasian community.*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html) Retrieved from Singapore Infopedia website.
 
 [^2]: The Chetti Melaka, or Peranakan Indians, are the descendants of Tamil traders who settled in Melaka during the reign of the Melaka Sultanate and married local women of Malay and Chinese descent. National Heritage Board. (2020, November 13). *Chetti Melaka of the Straits – Rediscovering Peranakan Indian communities.* Retrieved from Roots website. 
