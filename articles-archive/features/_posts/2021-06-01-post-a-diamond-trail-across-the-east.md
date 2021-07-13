@@ -158,4 +158,4 @@ Kampong Ayer Gemuroh would suffer a smilar fate as Kampong Banjar and had to als
 
 [^16]: 
 
-[^17]: 
+[^17]:
