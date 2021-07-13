@@ -31,7 +31,7 @@ The repertoire of most studios in the pre-war years would also include outdoor s
 Although it is difficult to ascertain the number of people involved in graphic design and the making of print advertising, there were enough of them to form a society of their own. The Singapore Commercial Art Society was formally established on 28 February 1937; by the following year, it had organised sketching trips. Following the outbreak of the Sino-Japanese War in July 1937, the society also actively contributed to the China War Relief Fund.
 
 #### **Artists and Their Studios**
-While the buoyant economy of pre-war Singapore provided opportunities for artists to live and work in the city, art making remained a challenging vocation for most artists. No artist was able to paint full time and so many held other jobs to make ends meet.
+While the buoyant economy of pre-war Singapore provided opportunities for artists to live and work in the city, art making remained a challenging vocation for most artists. Few were able to paint fulltime so many held other jobs to make ends meet.
 
 A number of them taught art in the Chinese schools that proliferated at the time which were founded on the Modernist belief that art and physical education were integral to building good character. Otherwise, these artists would work in the “commercial” sector – drafting shop drawings for architects, designing furniture and printing textile. Many found jobs more easily in companies creating advertising art work.
 
