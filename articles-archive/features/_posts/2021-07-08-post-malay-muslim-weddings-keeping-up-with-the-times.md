@@ -113,7 +113,7 @@ The *berinai curi* and *berinai kechil* ceremonies would take place before the s
 The *berinai kechil* ceremony is held the next evening, involving both the bride and groom. The couple undergo *tepung tawar* separately, with the groom going first, followed by the bride.[^27]
 The *berinai besar* ceremony, on the other hand, would be held right after the solemnisation, usually at the bride’s home. It comprised the *tepung tawar* and included a photography session, during which the bride might have up to 20 changes of outfits.[^28]
 
-However, all three *berinai* ceremonies are rarely conducted today, partly due to the costs and time involved. The *berinai curi* and the *berinai kecil* fell out of favour first, by the 1980s, only the *berinai besar* was commonly performed.[^29] This last ceremony, too, eventually disappeared by around the early 2000s.[^30]
+However, all three *berinai* ceremonies are rarely conducted today, partly due to the costs and time involved. The *berinai curi* and the *berinai kecil* fell out of favour first; by the 1980s, only the *berinai besar* was commonly performed.[^29] This last ceremony, too, eventually disappeared by around the early 2000s.[^30]
 
 #### **Stricter Adherence to Islam**
 One of the key drivers of change has been a greater understanding and awareness of Islamic obligations. Rituals that are deemed *haram*, or forbidden under Islam, have been jettisoned. An example of this is the almost complete disappearance of the *tepung tawar* blessing ceremony because of its purported Hindu origins. 
