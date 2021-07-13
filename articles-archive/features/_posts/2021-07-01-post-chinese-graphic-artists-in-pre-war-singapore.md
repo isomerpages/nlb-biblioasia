@@ -58,7 +58,7 @@ Their design for the expansion and renovation of the Astra cinema in the Royal A
 
 Tchang was also prolific as an illustrator and designer, and left behind a large body of works in print. His major clients featured in *Lat Pau* and *Sin Chew Jit Poh* included Kwang Heng Goldsmiths (光興金莊), Asiatic Coffee and Long Long Laundry Blue.
 
-While Tchang pursued a more conventional style for Long Long’s laundry detergent, his works for Kwang Heng and Asiatic Coffee demonstrate his strong grasp of geometricised shapes with clean lines, the clever of use of silhouettes as well as the inclusion of black and white contrasts.
+While Tchang pursued a more conventional style for Long Long’s laundry detergent, his works for Kwang Heng Goldsmiths and Asiatic Coffee demonstrate his strong grasp of geometricised shapes with clean lines, the clever of use of silhouettes as well as the inclusion of black and white contrasts.
 
 Instead of using brush calligraphy in the traditional style to render the Chinese characters of his main headings, Tchang would hand draw characters in his unique style. The characters were quirky, elegant and usually tilted slightly to accentuate his handiwork. His graphic style is unique and recognisable, and with his assistant illustrators such as Tsou Chin Hai (周金海), a distinctive house style for the studio can be discerned.
 
