@@ -222,7 +222,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^21]: [Muhammad Ariff Ahmad,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522) 2007, p. 282.
 
-[^22]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 282; [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, pp. 45–46; *The Straits Times*, 7 Apr 1988, p. 6.
+[^22]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 282; [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, pp. 45–46; *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6.
 
 [^23]: [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, pp. 45–46; [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, p. 107.
 
