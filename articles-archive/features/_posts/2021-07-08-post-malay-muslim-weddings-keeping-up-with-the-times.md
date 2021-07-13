@@ -143,7 +143,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 |In the past, the making of the *bunga telur* was an opportunity for family members, neighbours and friends to lend a helping hand with the various tasks involved, such as boiling the eggs, steaming the glutinous rice, colouring the eggs and decorating with the flowers.[^37]|
 
-|These days however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the *bunga telur*.[^38]|
+|These days, however, many couples choose to go for modern, hassle-free wedding favours. Cakes and chocolates, and items such as hand towels, plates and mugs, have replaced the *bunga telur*.[^38]|
 
 <div style="background-color: white;">
 <br>
