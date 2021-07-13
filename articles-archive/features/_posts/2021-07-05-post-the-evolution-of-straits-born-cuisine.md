@@ -4,8 +4,6 @@ date: 2021-07-05
 permalink: /articles-archive/features/straitsborncuisine
 layout: post
 ---
-
-
 <style>
 table { 
 	background-color: #e5ebf6;
@@ -148,7 +146,7 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 
 [^17]: Lee, K.Y. (1998). [*The Singapore story: Memoirs of Lee Kuan Yew* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9129591)(p. 27). Singapore: Times Editions, Singapore Press Holdings. (Call no.: RSING 959.57 LEE-[HIS])
 
-[^18]: Handy, E. (1960). [*My favourite recipes* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181823)(p. 57.) *Singapore: Singapore: Malaya Publishing House. (Call no.: RLOCS 641.595 HAN) *
+[^18]: Handy, E. (1960). [*My favourite recipes* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181823)(p. 57.) Singapore: Singapore: Malaya Publishing House. (Call no.: RLOCS 641.595 HAN)
 
 [^19]: Lee, C.K., Mrs. (1974). [*Mrs. Lee’s cookbook: Nonya recipes and other favourite recipes.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081778) Singapore: [The Author]. (Call no: RSING 641.595957 LEE)
 
