@@ -40,7 +40,7 @@ The picture book was first published in 1998, with a new edition two years later
 Re-creating the Story of Mulan 
 “雄兔脚扑朔，雌兔眼迷离；两兔傍地走，安能辨我是雄雌？”12
 (Translation: The male rabbit hops rapidly, while the female rabbit has blurry eyes. When both are running side by side, how can one tell if I am male or female?) 
-Several other titles about Mulan in the ACL Collection involve much more rewriting, including significant details or scenes not found in the original poem, The Ballad of Mulan.
+Several other titles about Mulan in the ACL Collection involve much more rewriting, including significant details or scenes not found in the original poem, *The Ballad of Mulan*.
 
 *Fa Mulan: The Story of a Woman Warrior* (1998) by Robert D. San Souci, and illustrated by Jean Tseng and Mou-Sien Tseng, is one such example. (This version by San Souci was probably the inspiration for Disney’s 1998 animated film).[^13] In his “Author’s Note”, San Souci explains that he added scenes not explicitly mentioned in the original poem by “drawing on [his] study of the original poem in its historical and cultural context”.[^14]
 
