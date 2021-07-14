@@ -43,7 +43,7 @@ Re-creating the Story of Mulan
 Several other titles about Mulan in the ACL Collection involve much more rewriting, including significant details or scenes not found in the original poem, The Ballad of Mulan.
 Fa Mulan: The Story of a Woman Warrior (1998) by Robert D. San Souci, and illustrated by Jean Tseng and Mou-Sien Tseng, is one such example. (This version by San Souci was probably the inspiration for Disney’s 1998 animated film).[^13] In his “Author’s Note”, San Souci explains that he added scenes not explicitly mentioned in the original poem by “drawing on [his] study of the original poem in its historical and cultural context”.[^14]
 
-San Souci notes that the ballad had few details of the campaign against the Tartars so he obtained information on military organisation and strategy, as well as the advice Mulan shares with her generals, from Sun Tzu’s The Art of War. “It seems logical that Mulan, in her rise to generalship, would have studied this essential text in length – even committing its principles to memory,” he adds.[^15]
+San Souci notes that the ballad had few details of the campaign against the Tartars so he obtained information on military organisation and strategy, as well as the advice Mulan shares with her generals, from Sun Tzu’s *The Art of War*. “It seems logical that Mulan, in her rise to generalship, would have studied this essential text in length – even committing its principles to memory,” he adds.[^15]
 
 San Souci also injects an element of romance in his Mulan story, drawing his inspiration from the reference to a pair of male and female rabbits in the original verse that he had interpreted as suggesting a marriage bond.
 
