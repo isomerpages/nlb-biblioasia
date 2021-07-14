@@ -11,10 +11,11 @@ layout: post
 (Translation: Click, click, click, click, Mulan is at her loom. One could not hear the sound of the loom weaving, but only Mulan’s sigh.”)
 These are the opening lines in 《木兰辞》 (Mulan Ci; The Ballad of Mulan),2 believed to have been composed during the Northern dynasties period (北朝, c. 386–581).3 
 Widely accepted as the earliest written version of the story of Mulan (木兰), the 62-line poem tells the inspiring story of a young woman who disguises herself as a man so that she can take her aged father’s place when he is conscripted into the army to fight the Tartars. The ballad was subsequently included in《乐府诗集》(Yuefu Shiji; Collection of Yuefu Poetry), an anthology of poetry compiled by Guo Maoqian 
-(郭茂倩) during the Song Dynasty (960–1276). 
-During the Tang dynasty (618–907), the story was retold as《木兰歌》(Mulan Ge; The Song of Mulan), a poem written by Wei Yuanfu (韦元甫). Several centuries later, during the Ming dynasty (1368–1644), Xu Wei 
-(徐渭) composed the opera《雌木兰替
-父从军》(Cimulan Tifucongjun; Female Mulan Took Her Father’s Place in the Army). The story was then turned into the novel《北魏奇史闺孝烈传》(Beiwei Qishi Guixiao Liezhuan; The Legendary Story of a Filial and Heroic Girl from the Northern Wei) by Zhang Shaoxian (张绍贤) during the Qing dynasty (1644–1912).4 
+(郭茂倩) during the Song Dynasty (960–1276).
+
+During the Tang dynasty (618–907), the story was retold as《木兰歌》(*Mulan Ge*; *The Song of Mulan*), a poem written by Wei Yuanfu (韦元甫). Several centuries later, during the Ming dynasty (1368–1644), Xu Wei (徐渭) composed the opera《雌木兰替
+父从军》(Cimulan Tifucongjun; Female Mulan Took Her Father’s Place in the Army). The story was then turned into the novel《北魏奇史闺孝烈传》(Beiwei Qishi Guixiao Liezhuan; The Legendary Story of a Filial and Heroic Girl from the Northern Wei) by Zhang Shaoxian (张绍贤) during the Qing dynasty (1644–1912).[^4]
+
 Although filial piety and loyalty are constant themes in the different representations of Mulan, these values are portrayed differently by different authors. In Zhang Shaoxian’s novel, for instance, Mulan takes her own life when she is forced to choose between returning home to care for her parents (i.e. filial piety), and remaining in the army to serve the emperor (i.e. loyalty). The tragic ending in this narrative of Mulan hints at a criticism of the interpretations of filial piety and loyalty in earlier versions of the tale.[^5]
 
 Recent efforts to reimagine the story of Mulan consist of books, stage adaptations, television serials and movies. These include the chapter “White Tigers” in Maxine Hong Kingston’s *The Woman Warrior: Memoirs of a Girlhood Among Ghosts* (1976)[^6] and, of course, Disney’s *Mulan*, comprising an animated film in 1998 and a live-action drama film in 2020.
