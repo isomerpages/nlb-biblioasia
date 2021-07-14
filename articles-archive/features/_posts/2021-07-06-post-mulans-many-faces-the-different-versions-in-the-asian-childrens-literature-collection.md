@@ -30,7 +30,8 @@ In Zhang’s interpretation, each drawing is enclosed within a frame which is si
 “What a surprise it was when Mulan appeared at the door! 
 Her comrades were astonished and amazed.
 ‘How is this possible?’ they asked.”[^10]
-The original line from The Ballad of Mulan, “出门看伙伴，伙伴皆惊恐”, only states that when Mulan exits from her room and appears in front of her fellow soldiers, they are astonished. Her fellow soldiers’ question is a minor detail that Zhang has added.
+
+The original line from *The Ballad of Mulan*, “出门看伙伴，伙伴皆惊恐”, only states that when Mulan exits from her room and appears in front of her fellow soldiers, they are astonished. Her fellow soldiers’ question is a minor detail that Zhang has added.
 
 At the end of Zhang’s book, there is a very short section titled “Historical Notes on Mulan” which explains the historical context of Mulan’s life and the development of the story from the early days until the present. It notes that the story (and poem) is a well-known folk tale studied by schoolchildren in China today. Zhang writes that the story continues to inspire Chinese women, and he dedicates the book to “everyone with an interest in ancient Chinese culture and literature”.
 
