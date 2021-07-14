@@ -38,7 +38,7 @@ book,《花木兰》(Hua Mulan), published by Newton Publications. Written by Li
 follows the original storyline closely, although the author has added minor new scenes such as Mulan’s father teaching her martial arts. 
 The picture book was first published in 1998, with a new edition two years later.11 The 1998 edition contains the original poem in classical Chinese, a retelling of the story with additional details and a section on the historical context of the ballad. The 2000 edition includes the original poem rendered in simplified Chinese, which the 1998 version does not have.
 
-#####**Re-creating the Story of Mulan**
+Re-creating the Story of Mulan
 “雄兔脚扑朔，雌兔眼迷离；两兔傍地走，安能辨我是雄雌？”[^12]
 
 (Translation: The male rabbit hops rapidly, while the female rabbit has blurry eyes. When both are running side by side, how can one tell if I am male or female?)
