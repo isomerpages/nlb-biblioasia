@@ -11,7 +11,7 @@ layout: post
 
 (Translation: Click, click, click, click, Mulan is at her loom. One could not hear the sound of the loom weaving, but only Mulan’s sigh.”)
 
-These are the opening lines in 《木兰辞》 (Mulan Ci; The Ballad of Mulan),[^2] believed to have been composed during the Northern dynasties period (北朝, c. 386–581).[^3]
+These are the opening lines in 《木兰辞》 (*Mulan Ci; The Ballad of Mulan*),[^2] believed to have been composed during the Northern dynasties period (北朝, c. 386–581).[^3]
 
 Widely accepted as the earliest written version of the story of Mulan (木兰), the 62-line poem tells the inspiring story of a young woman who disguises herself as a man so that she can take her aged father’s place when he is conscripted into the army to fight the Tartars. The ballad was subsequently included in《乐府诗集》(*Yuefu Shiji; Collection of Yuefu Poetry*), an anthology of poetry compiled by Guo Maoqian 
 (郭茂倩) during the Song Dynasty (960–1276).
