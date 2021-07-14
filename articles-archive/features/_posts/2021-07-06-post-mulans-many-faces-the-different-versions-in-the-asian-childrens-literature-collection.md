@@ -23,7 +23,7 @@ Retelling The Ballad of Mulan
 “脱我战时袍，著我旧时裳。当窗理云鬓，对镜贴花黄。”7
 (Translation: I remove my armour, change into my old dress; comb my hair by the window, and apply yellow powder in front of the mirror.)
 
-Several titles in the ACL Collection closely follow the format in *The Ballad of Mulan*. The Song of Mu Lan (1995) by Jeanne M. Lee is a direct translation of the ancient poem alongside its original Chinese text.[^8] The English translation and the poem, which is faithfully reproduced in traditional Chinese calligraphy by Lee’s father, Chan Bo Wen, are juxtaposed against watercolour paintings on silk by Lee, each corresponding to a scene described in the respective verses.
+Several titles in the ACL Collection closely follow the format in *The Ballad of Mulan*. *The Song of Mu Lan* (1995) by Jeanne M. Lee is a direct translation of the ancient poem alongside its original Chinese text.[^8] The English translation and the poem, which is faithfully reproduced in traditional Chinese calligraphy by Lee’s father, Chan Bo Wen, are juxtaposed against watercolour paintings on silk by Lee, each corresponding to a scene described in the respective verses.
 
 Lee dedicates the book “to all women, young and old” and notes that “the verses of the poem are still taught to children in China today and are sung in Chinese opera in different dialects”. These hint at the values of filial piety and loyalty conveyed in the story of Mulan, which are still relevant today and that Mulan is a good role model for women.
 
