@@ -4,7 +4,7 @@ date: 2021-07-02
 permalink: /articles-archive/features/jurong-bird-park
 layout: post
 ---
-#### **Zoe Yeo** pores through oral history archives and old newspaper reports to get a bird’s eye view of the setting up of one of Singapore’s most popular tourist attractions.
+#### On the 50th anniversary of its opening, **Zoe Yeo** gives us a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
 
 Jurong Bird Park is one of Singapore’s more successful attractions, beloved by tourists and locals alike. I recall numerous trips during my formative years with my parents and siblings to observe the birds. I even took enough pictures to obtain the “I am a Young Ornithologist” badge, which was awarded by the Singapore Science Centre under its Young Scientist Badge Scheme. Now as an adult, I still love visiting the park to marvel at the different bird species.
 
