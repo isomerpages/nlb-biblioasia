@@ -37,9 +37,12 @@ book,《花木兰》(Hua Mulan), published by Newton Publications. Written by Li
 (李想) with illustrations by Zhang He (张禾), it 
 follows the original storyline closely, although the author has added minor new scenes such as Mulan’s father teaching her martial arts. 
 The picture book was first published in 1998, with a new edition two years later.11 The 1998 edition contains the original poem in classical Chinese, a retelling of the story with additional details and a section on the historical context of the ballad. The 2000 edition includes the original poem rendered in simplified Chinese, which the 1998 version does not have.
-Re-creating the Story of Mulan 
-“雄兔脚扑朔，雌兔眼迷离；两兔傍地走，安能辨我是雄雌？”12
-(Translation: The male rabbit hops rapidly, while the female rabbit has blurry eyes. When both are running side by side, how can one tell if I am male or female?) 
+
+#####**Re-creating the Story of Mulan**
+“雄兔脚扑朔，雌兔眼迷离；两兔傍地走，安能辨我是雄雌？”[^12]
+
+(Translation: The male rabbit hops rapidly, while the female rabbit has blurry eyes. When both are running side by side, how can one tell if I am male or female?)
+
 Several other titles about Mulan in the ACL Collection involve much more rewriting, including significant details or scenes not found in the original poem, *The Ballad of Mulan*.
 
 *Fa Mulan: The Story of a Woman Warrior* (1998) by Robert D. San Souci, and illustrated by Jean Tseng and Mou-Sien Tseng, is one such example. (This version by San Souci was probably the inspiration for Disney’s 1998 animated film).[^13] In his “Author’s Note”, San Souci explains that he added scenes not explicitly mentioned in the original poem by “drawing on [his] study of the original poem in its historical and cultural context”.[^14]
