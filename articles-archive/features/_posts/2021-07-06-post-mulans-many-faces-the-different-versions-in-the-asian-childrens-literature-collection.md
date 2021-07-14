@@ -24,9 +24,11 @@ Retelling The Ballad of Mulan
 (Translation: I remove my armour, change into my old dress; comb my hair by the window, and apply yellow powder in front of the mirror.)
 Several titles in the ACL Collection closely follow the format in The Ballad of Mulan. The Song of Mu Lan (1995) by Jeanne M. Lee is a direct translation of the ancient poem alongside its original Chinese text.8 The English translation and the poem, which is faithfully reproduced in traditional Chinese calligraphy by Lee’s father, Chan Bo Wen, are juxtaposed against watercolour paintings on silk by Lee, each corresponding to a scene described in the respective verses. 
 Lee dedicates the book “to all women, young and old” and notes that “the verses of the poem are still taught to children in China today and are sung in Chinese opera in different dialects”. These hint at the values of filial piety and loyalty conveyed in the story of Mulan, which are still relevant today and that Mulan is a good role model for women.
-Another book, Song Nan Zhang’s 
-The Ballad of Mulan (1998), has adopted the same way of depicting the story as Lee, with the narrative in English and the original Chinese poem set against drawings depicting the different scenes.9 (Zhang, who was born in Shanghai and later migrated to Canada, also drew the illustrations in the book.)
+
+Another book, Song Nan Zhang’s *The Ballad of Mulan* (1998), has adopted the same way of depicting the story as Lee, with the narrative in English and the original Chinese poem set against drawings depicting the different scenes.[^9] (Zhang, who was born in Shanghai and later migrated to Canada, also drew the illustrations in the book.)
+
 In Zhang’s interpretation, each drawing is enclosed within a frame which is similar to how early Chinese books are bound. Although Zhang follows the original storyline closely, he also includes new details and lines. For example, the following lines describe the scene where Mulan appears before her fellow soldiers in female attire:
+
 “What a surprise it was when Mulan appeared at the door! 
 Her comrades were astonished and amazed.
 ‘How is this possible?’ they asked.”[^10]
