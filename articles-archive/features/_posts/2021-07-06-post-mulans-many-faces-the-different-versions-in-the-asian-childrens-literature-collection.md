@@ -18,9 +18,11 @@ During the Tang dynasty (618–907), the story was retold as《木兰歌》(Mula
 Although filial piety and loyalty are constant themes in the different representations of Mulan, these values are portrayed differently by different authors. In Zhang Shaoxian’s novel, for instance, Mulan takes her own life when she is forced to choose between returning home to care for her parents (i.e. filial piety), and remaining in the army to serve the emperor (i.e. loyalty). The tragic ending in this narrative of Mulan hints at a criticism of the interpretations of filial piety and loyalty in earlier versions of the tale.5
 Recent efforts to reimagine the story of Mulan consist of books, stage adaptations, television serials and movies. These include the chapter “White Tigers” in Maxine Hong Kingston’s The Woman Warrior: Memoirs of a Girlhood Among Ghosts (1976)6 and, of course, Disney’s Mulan, comprising an animated film in 1998 and a live-action drama film in 2020. 
 Given that the tale is about 1,500 years old, the story of Mulan has inspired numerous books and iterations in various languages and for different age groups, including children. Some of these titles are available in the Asian Children’s Literature Collection (ACL Collection) of the National Library (see text box on pp. 31–32). 
-The authors or editors of these titles have adopted different approaches in their versions by combining elements of older Mulan stories with new reinterpretations. These can be broadly categorised into two groups: retelling of The Ballad of Mulan, largely sticking to the original poem, and the rewriting of the story of Mulan, which involves adding significant new elements. 
-Retelling The Ballad of Mulan
-“脱我战时袍，著我旧时裳。当窗理云鬓，对镜贴花黄。”7
+The authors or editors of these titles have adopted different approaches in their versions by combining elements of older Mulan stories with new reinterpretations. These can be broadly categorised into two groups: retelling of The Ballad of Mulan, largely sticking to the original poem, and the rewriting of the story of Mulan, which involves adding significant new elements.
+
+#### **Retelling The Ballad of Mulan**
+“脱我战时袍，著我旧时裳。当窗理云鬓，对镜贴花黄。”[^7]
+
 (Translation: I remove my armour, change into my old dress; comb my hair by the window, and apply yellow powder in front of the mirror.)
 
 Several titles in the ACL Collection closely follow the format in *The Ballad of Mulan*. *The Song of Mu Lan* (1995) by Jeanne M. Lee is a direct translation of the ancient poem alongside its original Chinese text.[^8] The English translation and the poem, which is faithfully reproduced in traditional Chinese calligraphy by Lee’s father, Chan Bo Wen, are juxtaposed against watercolour paintings on silk by Lee, each corresponding to a scene described in the respective verses.
