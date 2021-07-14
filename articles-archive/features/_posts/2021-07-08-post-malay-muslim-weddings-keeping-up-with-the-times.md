@@ -250,7 +250,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 [^36]: [*Berita Harian*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960928-1.2.43.2.10), 28 Sep 1996; p. 7; Hanim Mohd Saleh. (2004, February 15). [Bunga telur semakin dipinggir](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20040215-1.2.13.13). *Berita Harian*, p. 11. Retrieved from NewspaperSG.
 
-[^37]: [*Berita Harian*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20040215-1.2.13.13), 15 Feb 2004, p. 11; Hadijah Rahmat. (2005). [*Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182) (p. 241). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD); Muhammad Ariff Ahmad. (2007). *[Nilam: Nilai Melayu menurut adat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522)* (p. 275). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH)
+[^37]: *Berita Harian*, 15 Feb 2004, p. 11; [Hadijah Rahmat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, p. 241; [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 275.
 
 [^38]: [*Berita Harian*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20040215-1.2.13.13), 15 Feb 2004, p. 11; Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. *Sekata. 1* (11), 1–8. Retrieved from National Institute of Education website.
 
