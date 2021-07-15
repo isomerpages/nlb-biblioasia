@@ -147,7 +147,8 @@ Chew & Hu, Dec 1974, p. 241.
 Just one anti-TB jab from now. (2001, June 28). The Straits Times, p. 21; One TB jab at birth. (2001, June 28). The New Paper, p. 6. Retrieved from NewspaperSG.
 Ministry of Health Singapore. (2021, March 24). Update on tuberculosis situation in Singapore. Retrieved from Ministry of Health website. 
 Centers for Diseases Control and Prevention. (n.d.). What is polio? Retrieved from Centers for Diseases Control and Prevention website; Ministry of Health. (n.d.). What all parents need to know about polio. Retrieved from Healthhub website.
-Colony of Singapore. (1959). Annual report 1958 (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. Healthscope, 5, 7. (Call no. RSING 362.1095957 H)
+
+[^26]: Colony of Singapore. (1959). *Annual report 1958* (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. Healthscope, 5, 7. (Call no. RSING 362.1095957 H)
 
 [^27]: *[Colony of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)*, 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. *Singapore Medical Journal*, 18 (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
 
