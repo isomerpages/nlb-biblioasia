@@ -6,8 +6,10 @@ layout: post
 ---
 #### The history of vaccination in Singapore goes back to the days of William Farquhar. **Ong Eng Chuan** provides an overview of vaccination efforts to prevent epidemics from breaking out here.
 
-The ongoing Covid-19 pandemic has cast vaccination into the spotlight in the fight against the disease and to reduce its spread. Vaccination is not a new phenomenon in Singapore though. Most children here are routinely vaccinated against diseases such as measles and mumps. 
-Vaccinations for children are carried out under the National Childhood Immunisation Schedule overseen by the Ministry of Health. It covers diseases such as tuberculosis, diphtheria, hepatitis B, measles, pertussis (whooping cough), pneumococcal infection, poliomyelitis, rubella (German measles) and tetanus. Vaccination does not stop with children either. Many adults take the influenza (flu) vaccine, especially before travelling to colder climates, as well as the pneumococcal and hepatitis B vaccines. The elderly and people with certain chronic conditions are strongly advised to have the flu jab regularly as well. 
+The ongoing Covid-19 pandemic has cast vaccination into the spotlight in the fight against the disease and to reduce its spread. Vaccination is not a new phenomenon in Singapore though. Most children here are routinely vaccinated against diseases such as measles and mumps.
+
+Vaccinations for children are carried out under the National Childhood Immunisation Schedule overseen by the Ministry of Health. It covers diseases such as tuberculosis, diphtheria, hepatitis B, measles, pertussis (whooping cough), pneumococcal infection, poliomyelitis, rubella (German measles) and tetanus. Vaccination does not stop with children either. Many adults take the influenza (flu) vaccine, especially before travelling to colder climates, as well as the pneumococcal and hepatitis B vaccines. The elderly and people with certain chronic conditions are strongly advised to have the flu jab regularly as well.
+
 The highly organised way in which the Health Ministry handles the programme for childhood vaccinations makes it seem like a modern medical practice. However, vaccination in Singapore actually has a long history. The very first vaccine – for smallpox – was introduced as early as 1819.
 
 #### **Smallpox and Vaccination in Early Singapore**
