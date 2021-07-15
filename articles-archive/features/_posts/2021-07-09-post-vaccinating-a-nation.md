@@ -4,9 +4,7 @@ date: 2021-07-09
 permalink: /articles-archive/features/vaccinating-nation
 layout: post
 ---
-
-
-#### From the first smallpox vaccine introduced in 1819 to the nationwide Covid-19 vaccination programme now underway, **Ong Eng Chuan** provides a quick history of vaccination efforts in Singapore since colonial times.
+#### The history of vaccination in Singapore goes back to the days of William Farquhar. **Ong Eng Chuan** provides an overview of vaccination efforts to prevent epidemics from breaking out here.
 
 The ongoing Covid-19 pandemic has cast vaccination into the spotlight as it helps to prevent the disease and reduce its spread. Being vaccinated is not a new concept in Singapore though. Most children here routinely get vaccinated against diseases such as measles and mumps.
 
