@@ -166,7 +166,7 @@ Centers for Disease Control and Prevention. (n.d.). Rubella. Retrieved from Cent
 Clinging to measle belief is rash act. (1980, April 17). 
 New Nation, p. 5. Retrieved from NewspaperSG.
 
-[^41]: Measles vaccination a must. (1985, July 27). *The Straits Times*, p. 12; A three-in-one vaccine for infants. (1989, October 27). The Straits Times, p. 28. Retrieved from NewspaperSG.
+[^41]: Measles vaccination a must. (1985, July 27). *The Straits Times*, p. 12; A three-in-one vaccine for infants. (1989, October 27). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
 
 [^42]: Oon, C.J. (1979, November 7). Towards a cure for liver cancer. The Straits Times, p. 6. Retrieved from NewspaperSG.
 
