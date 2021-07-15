@@ -130,8 +130,10 @@ The Royal Jennerian Institute was named after Edward Jenner. Lee, Y.K. (1977, Ma
 Lee, Mar 1977, p. 16; Lee, Y.K. (1977, June). Smallpox in early Singapore. (Part IV) (1860–1872). Singapore Medical Journal, 18 (2), 126–135, pp. 126–127. Retrieved from Singapore Medical Association website.
 Lee, Jun 1977, p. 129. 
 The Vaccination Ordinance (No. 19 of 1868) was supplanted by the Quarantine and Prevention of Disease Ordinance (No. 33 of 1915). See Srinivasagam, E. (1972). Tables of the written laws of the Republic of Singapore, 1819–1971 (pp. 4, 40). Singapore: Malaya Law Review, University of Singapore. (Call no.: RSING q348.5957028 SRI)
-Lee, Jun 1977, p. 132.
-Smallpox jabs no more a must for kids. (1981, March 7). The Straits Times, p. 9; Smallpox vaccination papers not needed. (1981, March 7). The Business Times, p. 5. Retrieved from NewspaperSG.
+
+[^11]: Lee, Jun 1977, p. 132.
+
+[^12]: Smallpox jabs no more a must for kids. (1981, March 7). *The Straits Times*, p. 9; Smallpox vaccination papers not needed. (1981, March 7). *The Business Times*, p. 5. Retrieved from NewspaperSG.
 
 [^13]: Centers for Disease Control and Prevention. (n.d.). *Basic TB facts*. Retrieved from Centers for Disease Control and Prevention website.
 
