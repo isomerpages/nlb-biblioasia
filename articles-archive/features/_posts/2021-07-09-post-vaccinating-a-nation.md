@@ -12,8 +12,9 @@ The highly organised way in which the Health Ministry handles the programme for 
 Smallpox and Vaccination in 
 Early Singapore
 Until fairly recently, smallpox, which is caused by the variola virus, was a much-feared disease. It was highly contagious, had a high mortality rate and those who survived were often disfigured for life. Thanks to a concerted global vaccination campaign, smallpox was eventually eradicated and on 8 May 1980, the World Health Organization (WHO) declared the world free of the disease.1
-The first step towards eradicating smallpox began in 1796 when English doctor Edward Jenner used cowpox (a milder form of smallpox) to induce immunity against the more virulent smallpox.2 This smallpox vaccine was the first vaccine to be introduced in Singapore. 
-In December 1819, the Resident of Singapore William Farquhar wrote to officials in Penang to request for supplies of the smallpox vaccine.3 The vaccine was sent to Singapore and a Vaccine Department set up to administer the vaccination. However, this early attempt at a vaccination programme failed and the Vaccine Department was abolished in 1829. Subsequent efforts also produced erratic outcomes and as a result, smallpox remained prevalent in Singapore. In 1838, for example, a smallpox epidemic claimed hundreds of lives.[^4]
+The first step towards eradicating smallpox began in 1796 when English doctor Edward Jenner used cowpox (a milder form of smallpox) to induce immunity against the more virulent smallpox.2 This smallpox vaccine was the first vaccine to be introduced in Singapore.
+
+In December 1819, the Resident of Singapore William Farquhar wrote to officials in Penang to request for supplies of the smallpox vaccine.[^3] The vaccine was sent to Singapore and a Vaccine Department set up to administer the vaccination. However, this early attempt at a vaccination programme failed and the Vaccine Department was abolished in 1829. Subsequent efforts also produced erratic outcomes and as a result, smallpox remained prevalent in Singapore. In 1838, for example, a smallpox epidemic claimed hundreds of lives.[^4]
 
 These early vaccination programmes faltered due to resistance from the local population.[^5] Few residents came forward to be vaccinated and parents were unwilling to send their healthy children to be vaccinated for fear of putting them at risk.
 
