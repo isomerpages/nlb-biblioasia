@@ -73,11 +73,11 @@ While Mulan’s story strongly reflects Chinese culture and values, different au
 
 The titles published in North America put more effort into providing background and context. Lee notes that the poem is still being studied in schools and performed as operas in China today. San Souci writes that he has incorporated elements from *The Art of War* and believes that Mulan could have looked up to the Maiden of Yue (越女; *Yue Nü*; a legendary swordswoman from the Spring and Autumn period) as a role model. Meanwhile, Zhang dedicates his book to all who are interested in Chinese culture and literature. In many ways, these authors appear to be attempting to explain the cultural context of Mulan’s story to an unfamiliar audience.
 
-On the other hand, the authors whose books are published in Asia appear to take it for granted that their audience has the necessary background. Yong Chun merely notes that Mulan exemplifies the Chinese values of loyalty (忠), filial piety (孝), benevolence (仁) and love (爱), while Li Xiang simply states on the back cover of his book that the original poem《木兰辞》is a gem passed down through history. No extra explanations are given.
+On the other hand, the authors whose books are published in Asia appear to take it for granted that their audience has the necessary background. Yong Chun merely notes that Mulan exemplifies the Chinese values of loyalty (忠), filial piety (孝), benevolence (仁) and love (爱), while Li Xiang simply states on the back cover of his book that the original poem《木兰辞》is a gem passed down through history. No extra explanations are given.[^19]
 
 These differences probably arise from the writer’s perception of who the readers will be.
 
-Differences in treatment notwithstanding, the fundamental story of Mulan taking her father’s place in the army has not changed over the last 1,500 years. The enduring popularity of her story is testimony to the fact that this particular tale strikes a deep chord within people, regardless of time period or cultural milieu. And Mulan herself continues to serve as an inspiration and role model for children today. 
+Differences in treatment notwithstanding, the fundamental story of Mulan taking her father’s place in the army has not changed over the last 1,500 years. The enduring popularity of her story is testimony to the fact that this particular tale strikes a deep chord within people, regardless of time period or cultural milieu. And Mulan herself continues to serve as an inspiration and role model for children today.
 
 |**OF FAMILIAL LOVE AND SACRIFICE**|
 
