@@ -133,7 +133,7 @@ The Vaccination Ordinance (No. 19 of 1868) was supplanted by the Quarantine and 
 
 [^11]: Lee, Jun 1977, p. 132.
 
-[^12]: Smallpox jabs no more a must for kids. (1981, March 7). *The Straits Times*, p. 9; Smallpox vaccination papers not needed. (1981, March 7). *The Business Times*, p. 5. Retrieved from NewspaperSG.
+[^12]: [Smallpox jabs no more a must for kids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810307-1.2.47). (1981, March 7). *The Straits Times*, p. 9; [Smallpox vaccination papers not needed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810307-1.2.19.10). (1981, March 7). *The Business Times*, p. 5. Retrieved from NewspaperSG.
 
 [^13]: Centers for Disease Control and Prevention. (n.d.). *Basic TB facts*. Retrieved from Centers for Disease Control and Prevention website.
 
