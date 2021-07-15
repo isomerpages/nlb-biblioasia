@@ -139,7 +139,7 @@ Luca, S., & Mihaescu, T. (2013, March). History of BCG vaccine. Maedica, 8 (1), 
 pp. VIII/I. Retrieved from NewspaperSG.
 Lim & Lee, 1997, p. 18; SATA ComHealth. (n.d.). Our history and milestones. Retrieved from SATA ComHealth website; Vo. (1973, July 6). SATA tames a killer. New Nation, p. 11. Retrieved from NewspaperSG.
 
-[^17]: [Studying use of T.B. serum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490201-1.2.69). (1949, February 1). *The Singapore Free Press*, p. 5; Flying anti-T.B. vaccine to S’pore. (1949, May 1). *The Straits Times*, p. 1; B.C.G. for kids: No decision yet. (1949, June 18). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^17]: [Studying use of T.B. serum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490201-1.2.69). (1949, February 1). *The Singapore Free Press*, p. 5; [Flying anti-T.B. vaccine to S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490501-1.2.2). (1949, May 1). *The Straits Times*, p. 1; [B.C.G. for kids: No decision yet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490618-1.2.54). (1949, June 18). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 
 [^18]: [B.C.G. starts this week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19490612-1.2.2). (1949, June 12). *Sunday Tribune* (Singapore), p. 1; [TB immunisation of children begins](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490629-1.2.76). (1949, June 29). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
