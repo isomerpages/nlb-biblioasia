@@ -42,6 +42,38 @@ The first large-scale wave of migration is thought to have occurred in the 1780s
 
 But the story of migration of the Banjar community across the Malay Archipelago is framed not only in terms of conflict; it was also as a quest for new opportunities and life experiences. The numerous towns and cities in the Malay world afforded these migratory Banjar many options and it was just a matter of deciding which locale would best suit their needs. True to the aforementioned Banjar phrase, conflict and crisis failed to dampen the Banjar community’s spirit and resilience in persevering till the end (waja sampai kaputing). 
 
+The Banjar with ties to royalty and the nobility, as well as those with links to the diamond industry, such as diamond traders and merchants, flocked to Landak in West Kalimantan which had built up a reputation as a diamond mining district from the 18th century. By 1858, the diamond trade in Landak was predominantly in the hands of the Banjar community. 
+
+The Banjar people also regarded Landak as a safe haven since the Sultanate of Landak was allied with the Sultanate of Banjar. The increasing Dutch presence in South Kalimantan, coupled with the Banjarmasin War and the subsequent abolition of the Sultanate of Banjar in 1860, prompted a wave of migration.
+
+Perak, on the western coast of the Malay Peninsula, was another destination for the Banjar people.7 The state had fertile land similar to the area surrounding the Barito River in South Kalimantan. The flooding that occurred around this river in the late 1880s prompted a mass movement of the Banjar people to Krian (Kerian) in the northwestern corner of Perak. 
+
+These migratory and settlement patterns would be replicated when the Urang Banjar to Singapore. In 1824, the Dutch colonial government re-established Banjarmasin as a free port, which meant that cargo ships could ply routes to non-Dutch-controlled ports, including Singapore.8 Trade between both cities primarily consisted of textiles, including muslins, gurrahs and blatchu cloth, among others.9 
+
+Some of the earliest documented Banjar merchants emigrated to Singapore from the mid-19th century onwards, including Haji Mahmood bin Abdul Rahim and Haji Osman bin Haji Abu Naim, who became successful diamond traders and prominent members of the local Banjar community. Haji Mahmood owned a large house spanning Lorongs 18 and 20 Geylang, one of several abodes reserved for his extended family of three wives and 18 children.10 
+
+By the turn of the 20th century, passenger ships began to ply regularly between Singapore and Banjarmasin, indicating a high demand for travel to these two destinations. In 1907, shipping companies were advertising first-class passenger routes from Singapore to Banjarmasin.11 
+
+Due to the ease of travelling between the two cities, more Banjar people began arriving in Singapore and they soon established a small but significant presence in the local landscape. 
+
+##### **Singapore’s Banjar Community**
+
+
+In Singapore, Banjar families and businesses established themselves in places like Kampong Gelam (Glam) and various locations in the eastern part of the island.
+
+##### *Kampong Gelam*
+
+Within Kampong Gelam there was a “Kampong Intan” (Diamond Kampong), said to be named after the Banjarese gemstone merchants and jewellery shops operating there in the late 19th century. According to oral histories and anecdotes, this kampong was located along present-day Baghdad Street.12
+
+It is believed that there was another area in Kampong Gelam known as “Kampong Selong” (Ceylon Kampong), where Ceylonese gemstone traders plied their trade, and together with the Banjar merchants, formed a thriving ecosystem where customers could purchase ready-made jewellery or even procure raw diamonds to be set into customised one-of-a-kind pieces. However, this diamond trade by the Banjar and Ceylonese likely declined after the Japanese Occupation (1942–45), most probably due to the increasing demand for African diamonds whose trade was controlled by the Europeans. 
+
+Sisters Fauziah and Faridah Jamal recalled that their family’s diamond trading business and polishing workshop were located on Jalan Pisang (as was their home). Their late father, Haji Ahmad Jamal bin Haji Mohd Hassan, who was also a trustee of Sultan Mosque, was said to be one of a few, if not the only, Banjar diamond cutters and artisans living and working in the area in the early 20th century. 
+
+Said Fauziah Jamal: “We had our neighbours – a goldsmithing workshop, an old Chinese man who would be working on these pieces of jewellery, mostly gold pieces, and then we had my uncle who’s working across the road… we had also another granduncle who had an office further down this road. Basically [Jalan Pisang] is where the activity of the diamond trade used to be.”13
+
+
+
+
 
 
 
