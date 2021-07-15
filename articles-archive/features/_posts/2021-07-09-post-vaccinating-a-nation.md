@@ -146,7 +146,7 @@ The Straits Times, 19 Nov 1956, p. 7; BCG vaccine for new-born babies. (1956, De
 
 [^22]: Chew & Hu, Dec 1974, p. 241.
 
-[^23]: Just one anti-TB jab from now. (2001, June 28). *The Straits Times*, p. 21; One TB jab at birth. (2001, June 28). The New Paper, p. 6. Retrieved from NewspaperSG.
+[^23]: Just one anti-TB jab from now. (2001, June 28). *The Straits Times*, p. 21; One TB jab at birth. (2001, June 28). *The New Paper*, p. 6. Retrieved from NewspaperSG.
 
 [^24]: Ministry of Health Singapore. (2021, March 24). *Update on tuberculosis situation in Singapore*. Retrieved from Ministry of Health website.
 
