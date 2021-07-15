@@ -131,8 +131,9 @@ Lee, Mar 1977, p. 16; Lee, Y.K. (1977, June). Smallpox in early Singapore. (Part
 Lee, Jun 1977, p. 129. 
 The Vaccination Ordinance (No. 19 of 1868) was supplanted by the Quarantine and Prevention of Disease Ordinance (No. 33 of 1915). See Srinivasagam, E. (1972). Tables of the written laws of the Republic of Singapore, 1819–1971 (pp. 4, 40). Singapore: Malaya Law Review, University of Singapore. (Call no.: RSING q348.5957028 SRI)
 Lee, Jun 1977, p. 132.
-Smallpox jabs no more a must for kids. (1981, March 7). The Straits Times, p. 9; Smallpox vaccination papers not needed. (1981, March 7). The Business Times, p. 5. Retrieved from NewspaperSG. 
-Centers for Disease Control and Prevention. (n.d.). Basic TB facts. Retrieved from Centers for Disease Control and Prevention website.
+Smallpox jabs no more a must for kids. (1981, March 7). The Straits Times, p. 9; Smallpox vaccination papers not needed. (1981, March 7). The Business Times, p. 5. Retrieved from NewspaperSG.
+
+[^13]: Centers for Disease Control and Prevention. (n.d.). Basic TB facts. Retrieved from Centers for Disease Control and Prevention website.
 
 [^14]: Lim, K.T., & Lee, M. (1997). *[Fighting TB: The SATA story, 1947–1997](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724)* (p. 14). Singapore: The Association. (Call no.: RSING 614.542095957 SIN); McKerron, P.A.B. [1947]. *[Annual report on Singapore for 1st April-–31st December 1946](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200185729)* (p. 70). (Call no.: RDLKL 959.57 MAC); [Tuberculosis: Singapore’s no. 1 killer...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570211-1.2.56.2) (1957, February 11). *The Singapore Free Press*, p. 13; [Cancer Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641210-1.2.82.3). (1964, December 10). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
