@@ -140,7 +140,8 @@ pp. VIII/I. Retrieved from NewspaperSG.
 Lim & Lee, 1997, p. 18; SATA ComHealth. (n.d.). Our history and milestones. Retrieved from SATA ComHealth website; Vo. (1973, July 6). SATA tames a killer. New Nation, p. 11. Retrieved from NewspaperSG.
 Studying use of T.B. serum. (1949, February 1). The Singapore Free Press, p. 5; Flying anti-T.B. vaccine to S’pore. (1949, May 1). The Straits Times, p. 1; B.C.G. for kids: No decision yet. (1949, June 18). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
 B.C.G. starts this week. (1949, June 12). Sunday Tribune (Singapore), p. 1; TB immunisation of children begins. (1949, June 29). The Straits Times, p. 7. Retrieved from NewspaperSG.
-2,000 children get anti-T.B. vaccination. (1949, October 13). The Malaya Tribune, p. 5; B.C.G. vaccination to start again. (1949, October 27). The Straits Times, p. 7; 1,500 Seletar boys get BCG serum. (1949, October 27). The Malaya Tribune, p. 2. Retrieved from NewspaperSG.
+
+[^19]: 2,000 children get anti-T.B. vaccination. (1949, October 13). The Malaya Tribune, p. 5; B.C.G. vaccination to start again. (1949, October 27). The Straits Times, p. 7; 1,500 Seletar boys get BCG serum. (1949, October 27). The Malaya Tribune, p. 2. Retrieved from NewspaperSG.
 
 [^20]: [B.C.G. team starts S’pore campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510604-1.2.65). (1951, June 4). *The Straits Times*, p. 5; [Vaccination for 130,000 children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510604-1.2.73). (1951, June 4). *The Singapore Free Press*, p. 5; [New campaign to halt TB](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561119-1.2.100). (1956, November 19). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
