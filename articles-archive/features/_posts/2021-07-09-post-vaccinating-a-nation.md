@@ -119,7 +119,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 
 #### **NOTES**
-[^1]: World Health Assembly, 33. (1980). Declaration of global eradication of smallpox. Retrieved from World Health Organization IRIS website.
+[^1]: World Health Assembly, 33. (1980). *Declaration of global eradication of smallpox*. Retrieved from World Health Organization IRIS website.
 
 [^2]: Centers for Disease Control and Prevention. (n.d.). *History of smallpox*. Retrieved from Centers for Disease Control and Prevention website. 
 
