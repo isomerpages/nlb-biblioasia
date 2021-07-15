@@ -5,6 +5,17 @@ date: 2021-07-06
 permalink: /articles-archive/features/mulan-many-faces
 layout: post
 ---
+<style>
+table { 
+	background-color: #e5ebf6;
+	}
+.infobox { 
+  padding: 20px;
+  margin: 20px;
+  background: #e5ebf6
+}
+</style>
+
 #### **Goh Yu Mei** examines the National Library’s Asian Children’s Literature Collection to see how the story of Mulan has evolved over time, while **Michelle Heng** reviews other Asian tales in the acclaimed collection.
 
 “唧唧复唧唧，木兰当户织。不闻机杼声，惟闻女叹息。” [^1]
