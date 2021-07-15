@@ -83,7 +83,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 |By Michelle Heng|
 
-|There is a Chinese proverb, 百善孝为先, which says that filial piety ranks first among all virtues.[^20] Filial piety is a major tenet of Confucian thought and has remained the cornerstone of Chinese society for thousands of years.[^21] According to the *Classic of Filial Piety* (*孝经; Xiaojing*), a Confucian classic treatise giving advice on filial piety, “Filial piety begins with the serving of our parents, continues with the serving of our ruler, and is completed with the establishment of our own character”.
+|There is a Chinese proverb, 百善孝为先, which says that filial piety ranks first among all virtues.[^20] Filial piety is a major tenet of Confucian thought and has remained the cornerstone of Chinese society for thousands of years.[^21] According to the *Classic of Filial Piety* (孝经; *Xiaojing*), a Confucian classic treatise giving advice on filial piety, “Filial piety begins with the serving of our parents, continues with the serving of our ruler, and is completed with the establishment of our own character”.
 
 The values of loyalty, respect and obedience to one’s parents and seniors, reflected in the tale of Mulan, are also universal virtues that find common ground in several Asian tales centred on sacrifices made by children for their elderly kinfolk in the National Library’s Asian Children’s Literature (ACL) Collection.[^22]
 
