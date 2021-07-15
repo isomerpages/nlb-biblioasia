@@ -119,102 +119,64 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 
 #### **NOTES**
-[^1]: Webb, J. (1979, November 26). [World declared rid of smallpox](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791126-1.2.123.20). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^1]: World Health Assembly, 33. (‎1980)‎. Declaration of global eradication of smallpox. Retrieved from World Health Organization IRIS website.
+Centers for Disease Control and Prevention. (n.d.). History of smallpox. Retrieved from Centers for Disease Control and Prevention website. 
+Lee, Y.K. (1973, December). Smallpox and vaccination in early Singapore (Part I) (1819–1829). Singapore Medical Journal, 14 (4), 525–531, p. 527. Retrieved from Singapore Medical Association website.
+Lee, Y.K. (1976, December). Smallpox in early Singapore (Part II) (1830–1849). Singapore Medical Journal, 
+17 (4), 202–206, p. 202. Retrieved from Singapore Medical Association website.
+Lee, Dec 1976, pp. 202–203. 
+Belongia, E.A., & Naleway, A.L. (2003, April). Smallpox vaccine: The good, the bad, and the ugly. Clinical Medicine Research, 1 (2), 87–92, p. 88. Retrieved from NCBI website.
+The Royal Jennerian Institute was named after Edward Jenner. Lee, Y.K. (1977, March). Smallpox in early Singapore. (Part III) (1850–59). Singapore Medical Journal, 18 (1), 16–20, p. 16. Retrieved from Singapore Medical Association website. 
+Lee, Mar 1977, p. 16; Lee, Y.K. (1977, June). Smallpox in early Singapore. (Part IV) (1860–1872). Singapore Medical Journal, 18 (2), 126–135, pp. 126–127. Retrieved from Singapore Medical Association website.
+Lee, Jun 1977, p. 129. 
+The Vaccination Ordinance (No. 19 of 1868) was supplanted by the Quarantine and Prevention of Disease Ordinance (No. 33 of 1915). See Srinivasagam, E. (1972). Tables of the written laws of the Republic of Singapore, 1819–1971 (pp. 4, 40). Singapore: Malaya Law Review, University of Singapore. (Call no.: RSING q348.5957028 SRI)
+Lee, Jun 1977, p. 132.
+Smallpox jabs no more a must for kids. (1981, March 7). The Straits Times, p. 9; Smallpox vaccination papers not needed. (1981, March 7). The Business Times, p. 5. Retrieved from NewspaperSG. 
+Centers for Disease Control and Prevention. (n.d.). Basic TB facts. Retrieved from Centers for Disease Control and Prevention website.
+Lim, K.T., & Lee, M. (1997). Fighting TB: The SATA story, 1947–1997 (p. 14). Singapore: The Association. (Call no.: RSING 614.542095957 SIN); McKerron, P.A.B. [1947]. Annual report on Singapore for 1st April-–31st December 1946 (p. 70). (Call no.: RDLKL 959.57 MAC); Tuberculosis: Singapore’s no. 1 killer... (1957, February 11). The Singapore Free Press, p. 13; Cancer Society. (1964, December 10). 
+The Straits Times, p. 12. Retrieved from NewspaperSG.
+Luca, S., & Mihaescu, T. (2013, March). History of BCG vaccine. Maedica, 8 (1), 53–58. Retrieved from National Center for Biotechnology Information website; BCG prevents T.B. (1949, March 5). The Malaya Tribune, 
+pp. VIII/I. Retrieved from NewspaperSG.
+Lim & Lee, 1997, p. 18; SATA ComHealth. (n.d.). Our history and milestones. Retrieved from SATA ComHealth website; Vo. (1973, July 6). SATA tames a killer. New Nation, p. 11. Retrieved from NewspaperSG.
+Studying use of T.B. serum. (1949, February 1). The Singapore Free Press, p. 5; Flying anti-T.B. vaccine to S’pore. (1949, May 1). The Straits Times, p. 1; B.C.G. for kids: No decision yet. (1949, June 18). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+B.C.G. starts this week. (1949, June 12). Sunday Tribune (Singapore), p. 1; TB immunisation of children begins. (1949, June 29). The Straits Times, p. 7. Retrieved from NewspaperSG.
+2,000 children get anti-T.B. vaccination. (1949, October 13). The Malaya Tribune, p. 5; B.C.G. vaccination to start again. (1949, October 27). The Straits Times, p. 7; 1,500 Seletar boys get BCG serum. (1949, October 27). The Malaya Tribune, p. 2. Retrieved from NewspaperSG.
+B.C.G. team starts S’pore campaign. (1951, June 4). The Straits Times, p. 5; Vaccination for 130,000 children. (1951, June 4). The Singapore Free Press, p. 5; New campaign to halt TB. (1956, November 19). The Straits Times, p. 7. Retrieved from NewspaperSG.
+The Straits Times, 19 Nov 1956, p. 7; BCG vaccine for new-born babies. (1956, December 1). The Straits Times, p. 6. Retrieved from NewspaperSG.
+Chew & Hu, Dec 1974, p. 241.
+Just one anti-TB jab from now. (2001, June 28). The Straits Times, p. 21; One TB jab at birth. (2001, June 28). The New Paper, p. 6. Retrieved from NewspaperSG.
+Ministry of Health Singapore. (2021, March 24). Update on tuberculosis situation in Singapore. Retrieved from Ministry of Health website. 
+Centers for Diseases Control and Prevention. (n.d.). What is polio? Retrieved from Centers for Diseases Control and Prevention website; Ministry of Health. (n.d.). What all parents need to know about polio. Retrieved from Healthhub website.
+Colony of Singapore. (1959). Annual report 1958 (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. Healthscope, 5, 7. (Call no. RSING 362.1095957 H)
+Colony of Singapore, 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. Singapore Medical Journal, 18 (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
+The number of paralytic polio cases went down from 78 cases in 1963 to four cases in 1968. In the subsequent years up to 1975, there were only five cases in total. Overall, the number of polio cases also decreased from 1,067 notified cases for the period 1954 to 1964 to 62 cases from 1965 to 1975. Not a single case was reported in 1969, 1970, 1974 and 1975. 
+Lee & Lim, Mar 1977, pp. 35, 37–38.
+Wee, L. (2000, November 2). Singapore officially declared polio-free. The Straits Times, p. 42. Retrieved from NewspaperSG; Dancel, R. (2019, September 19). Polio, a menace eradicated in the Philippines 19 years ago, resurfaces. The Straits Times; Chia, N. (2019, November 24). Polio shots for Team S’pore athletes just before SEA Games. The Straits Times. Retrieved from The Straits Times website.
+Centers for Disease Control and Prevention. (n.d.). Diphtheria. Retrieved from Centers for Disease Control and Prevention website.
+Blakemore, W. L. (1941). Diphtheria and its prevention by immunisation. Singapore: Government Printing Office. (Call no.: RRARE 616.931305 BLA; Accession no.: B03075172C); Lim, T.J. (1948, November 28). War on diphtheria hots up. The Straits Times, p. 4. Retrieved from NewspaperSG.
+Diphtheria: Govt’s new measures. (1962, March 31). 
+The Straits Times, p. 11. Retrieved from NewspaperSG.
+National Centre for Infectious Diseases. (n.d.). Diphtheria. Retrieved from National Centre for Infectious Diseases website.
+Seow, B.Y., & Lim, M.Z. (2017, August 6). Foreign worker dies in first local diphtheria case in 25 years. The Straits Times, pp. 2–3; Choo, F. (2017, August 11). No evidence diphtheria has spread further, says MOH. The Straits Times, p. 9. Retrieved from NewspaperSG.
+Ministry of Culture. (1971). Singapore 1971 (p. 196). Singapore: Ministry of Culture. (Call no.: RCLOS 959.57 SIN); Jabs for primary one pupils in 1971. (1970, July 7). 
+The Straits Times, p. 4. Retrieved from NewspaperSG.
+For instance, in 1973, there were 600 hospital admissions and 11 deaths due to measles. In the case of rubella, the incidence rate was 8.5 per 100,000 deliveries at Kendang Kerbau Maternity Hospital during the period November 1969 to December 1971, with many developing complications and the more serious cases resulting in mental retardation. See Goh, K.T. (1985, June). The national childhood immunisation programmes in Singapore. Singapore Medical Journal, 26 (3), 225–242, p. 231. Retrieved from Singapore Medical Association website.
+Centers for Disease Control and Prevention. (n.d.). Measles. Retrieved from Centers for Disease Control and Prevention website; National Centre for Infectious Diseases. (n.d.) Measles. Retrieved from National Centre for Infectious Diseases website.
+Centers for Disease Control and Prevention. (n.d.). Rubella. Retrieved from Centers for Disease Control and Prevention website; National Centre for Infectious Diseases. (n.d.). Rubella. Retrieved from National Centre for Infectious Diseases website.
+Clinging to measle belief is rash act. (1980, April 17). 
+New Nation, p. 5. Retrieved from NewspaperSG.
+Measles vaccination a must. (1985, July 27). The Straits Times, p. 12; A three-in-one vaccine for infants. (1989, October 27). The Straits Times, p. 28. Retrieved from NewspaperSG.
+Oon, C.J. (1979, November 7). Towards a cure for liver cancer. The Straits Times, p. 6. Retrieved from NewspaperSG.
+Baruch Blumberg: Facts. (n.d.). Retrieved from Nobel Prize Organisation website; Liver cancer virus can be curbed. (1979, September 28). New Nation, p. 5; Vaccine for cancer? (1980, September 29). New Nation, p. 11. Retrieved from NewspaperSG.
+Hepatitis – the ‘silent killer’. (1984, September 10). Singapore Monitor, p. 1; Chua, I. (1985, May 29). The fight against hepatitis. The Straits Times, p. 3; Ngoo, I. (1979, October 21). S’pore is worst in the world. The Straits Times, p. 1. Retrieved from NewspaperSG.
+An all-out war on hepatitis B. (1983, August 3). 
+The Straits Times, p. 1; Lim, J. (1983, August 3). Plan for mass immunisation against hepatitis B. The Business Times, p. 1; Wong, K.L. (1985, October 29). No mass vaccination against hepatitis B. The Straits Times, p. 18. Retrieved from NewspaperSG.
+Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. The Straits Times, p. 1. Retrieved from NewspaperSG.
+Ministry of Information, Communications and the Arts. (2000, October 21). Speech by Mr Chan Soo Sen, parliamentary secretary (Prime Minister’s Office & Ministry of Health), at the international hepatitis B awareness weekend opening ceremony on Saturday, 21 Oct 2000 at Great world city [Speech]. Retrieved from National Archives of Singapore website. 
+Tan, K. (2001, November 8). Benefits of vaccine outweigh risks. The Straits Times, p. 18; Oon, C.J. (2009, November 7). Hepatitis vaccination: It began in Singapore. The Straits Times, p. 107; Oon, C.J., & Kwek, K. (2011). A cancer vaccine that transformed Singapore and the world: The battle against hepatitis B (pp. 8, 54). Singapore: Straits Times Press Reference. (Call no.: RSING 614.593623 OON); World Health Organization. (2001). Hepatitis B immunization: Introducing hepatitis B vaccine into national immunization services. Retrieved from World Health Organization IRIS website.
 
-[^2]: Centers for Disease Control and Prevention. (n.d.). *History of smallpox*. Retrieved from Centers for Disease Control and Prevention website.
+Ministry of Health Singapore. (2021, June 21). Vaccination data. Retrieved from Ministry of Health website.
 
-[^3]: Lee, Y.K. (1973, December). Smallpox and vaccination in early Singapore (Part I) (1819–1829). *Singapore Medical Journal, 14* (4), 525–531, p. 527. Retrieved from Singapore Medical Association website.
+Chew, H.M. (2021, May 31). People who want alternative Covid-19 vaccines can get them under special access route. CNA. Retrieved from CNA website.
 
-[^4]: Lee, Y.K. (1976, December). Smallpox in early Singapore (Part II) (1830–1849). *Singapore Medical Journal, 17* (4), 202–206, p. 202. Retrieved from Singapore Medical Association website.
-
-[^5]: Lee, Dec 1976, pp. 202–203.
-
-[^6]: Belongia, E.A., & Naleway, A.L. (2003, April). Smallpox vaccine: The good, the bad, and the ugly. *Clinical Medicine Research, 1* (2), 87–92, p. 88. Retrieved from NCBI website.
-
-[^7]: The Royal Jennerian Institute was named after Edward Jenner. Lee, Y.K. (1977, March). Smallpox in early Singapore. (Part III) (1850–59). *Singapore Medical Journal, 18* (1), 16–20, p. 16. Retrieved from Singapore Medical Association website.
-
-[^8]: Lee, Mar 1977, p. 16; Lee, Y.K. (1977, June). Smallpox in early Singapore. (Part IV) (1860–1872). *Singapore Medical Journal, 18* (2), 126–135, pp. 126–127. Retrieved from Singapore Medical Association website.
-
-[^9]: Lee, Jun 1977, p. 129.
-
-[^10]: The Vaccination Ordinance (No. 19 of 1868) was supplanted by the Quarantine and Prevention of Disease Ordinance (No. 33 of 1915) See Srinivasagam, E. (1972). *[Tables of the written laws of the Republic of Singapore, 1819–1971](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4184970)* (pp. 4, 40). Singapore: Malaya Law Review, University of Singapore. (Call no.: RSING q348.5957028 SRI)
-
-[^11]: Lee, Jun 1977, p. 132.
-
-[^12]: [Smallpox jabs no more a must for kids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810307-1.2.47). (1981, March 7). *The Straits Times*, p. 9; [Smallpox vaccination papers not needed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810307-1.2.19.10). (1981, March 7). *The Business Times*, p. 5. Retrieved from NewspaperSG. 
-
-[^13]: Centers for Disease Control and Prevention. (n.d.). *Basic TB facts*. Retrieved from Centers for Disease Control and Prevention website.
-
-[^14]: Lim, K.T., & Lee, M. (1997). *[Fighting TB: The SATA story, 1947–1997](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724)* (p. 14). Singapore: The Association. (Call no.: RSING 614.542095957 SIN); McKerron, P.A.B. [1947]. *[Annual report on Singapore for 1st April-–31st December 1946](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200185729)* (p. 70). (Call no.: RDLKL 959.57 MAC); [Tuberculosis: Singapore’s no. 1 killer...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570211-1.2.56.2) (1957, February 11). *The Singapore Free Press*, p. 13; [Cancer Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641210-1.2.82.3). (1964, December 10). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
-
-[^15]: Luca, S., & Mihaescu, T. (2013, March). History of BCG vaccine. *Maedica, 8* (1), 53–58. Retrieved from National Center for Biotechnology Information website; [BCG prevents T.B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490305-1.2.87). (1949, March 5). *The Malaya Tribune*, pp. VIII/I. Retrieved from NewspaperSG.
-
-[^16]: [Lim & Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724), 1997, p. 18; SATA ComHealth. (n.d.). *Our history and milestones*. Retrieved from SATA ComHealth website; Vo. (1973, July 6). [SATA tames a killer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730706-1.2.59.3). *New Nation*, p. 11. Retrieved from NewspaperSG.
-
-[^17]: [Studying use of T.B. serum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490201-1.2.69). (1949, February 1). *The Singapore Free Press*, p. 5; [Flying anti-T.B. vaccine to S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490501-1.2.2). (1949, May 1). *The Straits Times*, p. 1; [B.C.G. for kids: No decision yet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490618-1.2.54). (1949, June 18). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
-
-[^18]: [B.C.G. starts this week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19490612-1.2.2). (1949, June 12). *Sunday Tribune* (Singapore), p. 1; [TB immunisation of children begins](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490629-1.2.76). (1949, June 29). *The Straits Times*, p. 7. Retrieved from NewspaperSG
-
-[^19]: [2,000 children get anti-T.B. vaccination](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19491013-1.2.81). (1949, October 13). *The Malaya Tribune*, p. 5; [B.C.G. vaccination to start again](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491027-1.2.89). (1949, October 27). *The Straits Times*, p. 7; [1,500 Seletar boys get BCG serum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19491027-1.2.18). (1949, October 27). *The Malaya Tribune*, p. 2. Retrieved from NewspaperSG.
-
-[^20]: [B.C.G. team starts S’pore campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510604-1.2.65). (1951, June 4). *The Straits Times*, p. 5; [Vaccination for 130,000 children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510604-1.2.73). (1951, June 4). *The Singapore Free Press*, p. 5; [New campaign to halt TB](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561119-1.2.100). (1956, November 19). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
-
-[^21]: [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561119-1.2.100), 19 Nov 1956, p. 7; [BCG vaccine for new-born babies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561201-1.2.65). (1956, December 1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
-
-[^22]: Chew & Hu, Dec 1974, p. 241.
-
-[^23]: [Just one anti-TB jab from now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010628-1.2.29.3.1). (2001, June 28). *The Straits Times*, p. 21; [One TB jab at birth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20010628-1.2.8.3). (2001, June 28). *The New Paper*, p. 6. Retried from NewspaperSG
-
-[^24]: Centers for Diseases Control and Prevention. (n.d.). *What is polio?* Retrieved from Centers for Diseases Control and Prevention website; Ministry of Health. (n.d.). *What all parents need to know about polio*. Retrieved from Healthhub website.
-
-[^25]: Colony of Singapore. (1959). *[Annual report 1958](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)* (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. *[Healthscope](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4192522)*, 5, 7. (Call no. RSING 362.1095957 H)
-
-[^26]: [*Colony of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303), 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. *Singapore Medical Journal, 18* (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
-
-[^27]: The number of paralytic polio cases went down from 78 cases in 1963 to four cases in 1968. In the subsequent years up to 1975, there were only five cases in total. Overall, the number of polio cases also decreased from 1,067 notified cases for the period 1954 to 1964 to 62 cases from 1965 to 1975. Not a single case was reported in 1969, 1970, 1974 and 1975.
-
-[^28]: Lee & Lim, Mar 1977, pp. 35, 37–38.
-
-[^29]: Wee, L. (2000, November 2). [Singapore officially declared polio-free](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001102-1.2.40.16). *The Straits Times*, p. 42. Retrieved from NewspaperSG; Dancel, R. (2019, September 19). Polio, a menace eradicated in the Philippines 19 years ago, resurfaces. *The Straits Times*; Chia, N. (2019, November 24). Polio shots for Team S’pore athletes just before SEA Games. *The Straits Times*. Retrieved from The Straits Times website.
-
-[^30]: Centers for Disease Control and Prevention. (n.d.). *Diphtheria*. Retrieved from Centers for Disease Control and Prevention website.
-
-[^31]: Blakemore, W. L. (1941). *[Diphtheria and its prevention by immunisation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5454865)*. Singapore: Government Printing Office. (Call no.: RRARE 616.931305 BLA; Accession no.: B03075172C); Lim, T.J. (1948, November 28). [War on diphtheria hots up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481128-1.2.48). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-
-[^32]: [Diphtheria: Govt’s new measures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620331-1.2.85). (1962, March 31). *The Straits Times*, p. f11. Retrieved from NewspaperSG.
-
-[^33]: National Centre for Infectious Diseases. (n.d.). *Diphtheria*. Retrieved from National Centre for Infectious Diseases website.
-
-[^34]: Seow, B.Y., & Lim, M.Z. (2017, August 6). [Foreign worker dies in first local diphtheria case in 25 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170806-1.2.5.1). *The Straits Times*, pp. 2/3; Choo, F. (2017, August 11). [No evidence diphtheria has spread further, says MOH](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170811-1.2.9.15). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
-
-[^35]: Ministry of Culture. (1971). *[Singapore 1971](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183594)* (p. 196). Singapore: Ministry of Culture. (Call no.: RCLOS 959.57 SIN); [Jabs for primary one pupils in 1971](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700707-1.2.34). (1970, July 7). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-
-[^36]: For instance, in 1973, there were 600 hospital admissions and 11 deaths due to measles. In the case of rubella, the incidence rate was 8.5 per 100,000 deliveries at Kendang Kerbau Maternity Hospital during the period November 1969 to December 1971, with many developing complications and the more serious cases resulting in mental retardation. See Goh, K.T. (1985, June). The national childhood immunisation programmes in Singapore. *Singapore Medical Journal, 26* (3), 225–242, p. 231. Retrieved from Singapore Medical Association website.
-
-[^37]: Centers for Disease Control and Prevention. (n.d.). *Measles*. Retrieved from Centers for Disease Control and Prevention website; National Centre for Infectious Diseases. (n.d.) *Measles*. Retrieved from National Centre for Infectious Diseases website.
-
-[^38]: Centers for Disease Control and Prevention. (n.d.). *Rubella*. Retrieved from Centers for Disease Control and Prevention website; National Centre for Infectious Diseases. (n.d.). *Rubella*. Retrieved from National Centre for Infectious Diseases website.
-
-[^39]: [Clinging to measle belief is rash act](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800417-1.2.21). (1980, April 17). *New Nation*, p. 5. Retrieved from NewspaperSG.
-
-[^40]: [Measles vaccination a must](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850727-1.2.21.17). (1985, July 27). *The Straits Times*, p. 12; [A three-in-one vaccine for infants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891027-1.2.37.8). (1989, October 27). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
-
-[^41]: Oon, C.J. (1979, November 7). [Towards a cure for liver cancer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791107-1.2.97.13.1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
-
-[^42]: *Baruch Blumberg: Facts*. (n.d.). Retrieved from Nobel Prize Organisation website; [Liver cancer virus can be curbed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770928-1.2.25). (1979, September 28). *New Nation*, p. 5; [Vaccine for cancer?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800929-1.2.50) (1980, September 29). *New Nation*, p. 11. Retrieved from NewspaperSG.
-
-[^43]: [Hepatitis – the ‘silent killer’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840910-2.2.21.1). (1984, September 10). *Singapore Monitor*, p. 1; Chua, I. (1985, May 29). [The fight against hepatitis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850529-1.2.80.2.5). *The Straits Times*, p. 3; Ngoo, I. (1979, October 21). [S’pore is worst in the world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791021-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
-
-[^44]: [An all-out war on hepatitis B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830803-1.2.2). (1983, August 3). *The Straits Times*, p. 1; Lim, J. (1983, August 3). [Plan for mass immunisation against hepatitis B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19830803-1.2.9). *The Business Times*, p. 1; Wong, K.L. (1985, October 29). [No mass vaccination against hepatitis B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851029-1.2.43.6). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
-
-[^45]: Kong, S.C. (1987, August 2). [Low-cost anti-hepatitis B jabs for newborns](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870802-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
-
-[^46]: Ministry of Information, Communications and the Arts. (2000, October 21). *[Speech by Mr Chan Soo Sen, parliamentary secretary (Prime Minister’s Office & Ministry of Health), at the international hepatitis B awareness weekend opening ceremony on Saturday, 21 Oct 2000 at Great world city](https://www.nas.gov.sg/archivesonline/speeches/record-details/74736ef4-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives Singapore website. 
-
-[^47]: Tan, K. (2001, November 8). [Benefits of vaccine outweigh risks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011108-1.2.27.2). *The Straits Times*, p. 18; Oon, C.J. (2009, November 7). [Hepatitis vaccination: It began in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20091107-1.2.114.2.4). *The Straits Times*, p. 107; Oon, C.J., & Kwek, K. (2011). *[A cancer vaccine that transformed Singapore and the world: The battle against hepatitis B](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13707653)* (pp. 8, 54). Singapore: Straits Times Press Reference. (Call no.: RSING 614.593623 OON); World Health Organization. (2001). *Hepatitis B immunization: Introducing hepatitis B vaccine into national immunization services*. Retrieved from World Health Organization IRIS website.
-
-[^48]: Ministry of Health Singapore. (2021, June 14). *Vaccination data*. Retrieved from Ministry of Health website.
-
-[^49]: Chew, H.M. (2021, May 31). People who want alternative COVID-19 vaccines can get them under special access route. *CNA*. Retrieved from CNA website. 
-
-[^50]: Kurohi, R. (2021, May 31). 6 key announcements from PM Lee Hsien Loong’s address on Covid-19 plans. *The Straits Times*. Retrieved from The Straits Times website.
+Kurohi, R. (2021, May 31). 6 key announcements from PM Lee Hsien Loong’s address on Covid-19 plans. The Straits Times. Retrieved from The Straits Times website.
