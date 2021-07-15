@@ -124,8 +124,10 @@ Centers for Disease Control and Prevention. (n.d.). History of smallpox. Retriev
 Lee, Y.K. (1973, December). Smallpox and vaccination in early Singapore (Part I) (1819–1829). Singapore Medical Journal, 14 (4), 525–531, p. 527. Retrieved from Singapore Medical Association website.
 Lee, Y.K. (1976, December). Smallpox in early Singapore (Part II) (1830–1849). Singapore Medical Journal, 
 17 (4), 202–206, p. 202. Retrieved from Singapore Medical Association website.
-Lee, Dec 1976, pp. 202–203. 
-Belongia, E.A., & Naleway, A.L. (2003, April). Smallpox vaccine: The good, the bad, and the ugly. Clinical Medicine Research, 1 (2), 87–92, p. 88. Retrieved from NCBI website.
+
+[^5]: Lee, Dec 1976, pp. 202–203.
+
+[^6]: Belongia, E.A., & Naleway, A.L. (2003, April). Smallpox vaccine: The good, the bad, and the ugly. Clinical Medicine Research, 1 (2), 87–92, p. 88. Retrieved from NCBI website.
 
 [^7]: The Royal Jennerian Institute was named after Edward Jenner. Lee, Y.K. (1977, March). Smallpox in early Singapore. (Part III) (1850–59). *Singapore Medical Journal, 18* (1), 16–20, p. 16. Retrieved from Singapore Medical Association website.
 
