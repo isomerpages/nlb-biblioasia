@@ -121,7 +121,8 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 #### **NOTES**
 [^1]: World Health Assembly, 33. (1980). Declaration of global eradication of smallpox. Retrieved from World Health Organization IRIS website.
 Centers for Disease Control and Prevention. (n.d.). History of smallpox. Retrieved from Centers for Disease Control and Prevention website. 
-Lee, Y.K. (1973, December). Smallpox and vaccination in early Singapore (Part I) (1819–1829). Singapore Medical Journal, 14 (4), 525–531, p. 527. Retrieved from Singapore Medical Association website.
+
+[^3]: Lee, Y.K. (1973, December). Smallpox and vaccination in early Singapore (Part I) (1819–1829). *Singapore Medical Journal, 14* (4), 525–531, p. 527. Retrieved from Singapore Medical Association website.
 
 [^4]: Lee, Y.K. (1976, December). Smallpox in early Singapore (Part II) (1830–1849). *Singapore Medical Journal, 17* (4), 202–206, p. 202. Retrieved from Singapore Medical Association website.
 
