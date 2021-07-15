@@ -159,7 +159,7 @@ The Straits Times, p. 11. Retrieved from NewspaperSG.
 National Centre for Infectious Diseases. (n.d.). Diphtheria. Retrieved from National Centre for Infectious Diseases website.
 Seow, B.Y., & Lim, M.Z. (2017, August 6). Foreign worker dies in first local diphtheria case in 25 years. The Straits Times, pp. 2–3; Choo, F. (2017, August 11). No evidence diphtheria has spread further, says MOH. The Straits Times, p. 9. Retrieved from NewspaperSG.
 
-[^36]: Ministry of Culture. (1971). *Singapore 1971* (p. 196). Singapore: Ministry of Culture. (Call no.: RCLOS 959.57 SIN); Jabs for primary one pupils in 1971. (1970, July 7). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^36]: Ministry of Culture. (1971). *Singapore 1971* (p. 196). Singapore: Ministry of Culture. (Call no.: RCLOS 959.57 SIN); Jabs for primary one pupils in 1971. (1970, July 7). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 [^37]: For instance, in 1973, there were 600 hospital admissions and 11 deaths due to measles. In the case of rubella, the incidence rate was 8.5 per 100,000 deliveries at Kendang Kerbau Maternity Hospital during the period November 1969 to December 1971, with many developing complications and the more serious cases resulting in mental retardation. See Goh, K.T. (1985, June). The national childhood immunisation programmes in Singapore. *Singapore Medical Journal, 26* (3), 225–242, p. 231. Retrieved from Singapore Medical Association website.
 
