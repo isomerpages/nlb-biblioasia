@@ -35,8 +35,9 @@ TB remains a global public threat and is still endemic in Singapore, with a high
 Polio, Diphtheria, Measles 
 and Rubella 
 During the post-war period, Singapore also had to deal with poliomyelitis, or polio, a crippling and life-threatening disease caused by the poliovirus. The virus is highly contagious and can infect a person’s spinal cord causing paralysis and even death. Although the disease affects people of all ages, infants and children are particularly vulnerable.25 
-A major polio outbreak between August and December 1958 killed 12 and caused 404 infants and children to be crippled by the disease.26 As the number of polio cases continued to surge, there was added pressure on the government to act. Eventually, the Health Ministry decided to offer free polio vaccinations on a voluntary basis to children aged three to 10. 
-Between November and December 1958, over 200,000 children were immunised with the oral Sabin vaccine (named after its developer, Albert Bruce Sabin) in vaccination centres set up across the island.27 However, this did not stop another outbreak from happening just two years later which crippled 196 people.
+A major polio outbreak between August and December 1958 killed 12 and caused 404 infants and children to be crippled by the disease.26 As the number of polio cases continued to surge, there was added pressure on the government to act. Eventually, the Health Ministry decided to offer free polio vaccinations on a voluntary basis to children aged three to 10.
+
+Between November and December 1958, over 200,000 children were immunised with the oral Sabin vaccine (named after its developer, Albert Bruce Sabin) in vaccination centres set up across the island.[^27] However, this did not stop another outbreak from happening just two years later which crippled 196 people.
 
 After the first outbreak, the government convened a committee to address the problem. The committee recommended vaccinating all children from birth to school-entry age. The government approved the recommendation and the immunisation programme began with a mass campaign in 1962, when children up to 6 years old were vaccinated.
 
