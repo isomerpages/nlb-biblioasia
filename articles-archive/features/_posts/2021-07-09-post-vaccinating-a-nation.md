@@ -217,6 +217,6 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^49]: Ministry of Health Singapore. (2021, June 21). *Vaccination data*. Retrieved from Ministry of Health website.
 
-[^50]: Chew, H.M. (2021, May 31). People who want alternative Covid-19 vaccines can get them under special access route. CNA. Retrieved from CNA website.
+[^50]: Chew, H.M. (2021, May 31). People who want alternative Covid-19 vaccines can get them under special access route. *CNA*. Retrieved from CNA website.
 
 [^51]: Kurohi, R. (2021, May 31). 6 key announcements from PM Lee Hsien Loong’s address on Covid-19 plans. *The Straits Times*. Retrieved from The Straits Times website.
