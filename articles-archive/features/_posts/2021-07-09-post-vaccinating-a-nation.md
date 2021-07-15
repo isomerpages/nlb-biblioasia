@@ -171,8 +171,10 @@ Baruch Blumberg: Facts. (n.d.). Retrieved from Nobel Prize Organisation website;
 Hepatitis – the ‘silent killer’. (1984, September 10). Singapore Monitor, p. 1; Chua, I. (1985, May 29). The fight against hepatitis. The Straits Times, p. 3; Ngoo, I. (1979, October 21). S’pore is worst in the world. The Straits Times, p. 1. Retrieved from NewspaperSG.
 An all-out war on hepatitis B. (1983, August 3). 
 The Straits Times, p. 1; Lim, J. (1983, August 3). Plan for mass immunisation against hepatitis B. The Business Times, p. 1; Wong, K.L. (1985, October 29). No mass vaccination against hepatitis B. The Straits Times, p. 18. Retrieved from NewspaperSG.
-Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. The Straits Times, p. 1. Retrieved from NewspaperSG.
-Ministry of Information, Communications and the Arts. (2000, October 21). Speech by Mr Chan Soo Sen, parliamentary secretary (Prime Minister’s Office & Ministry of Health), at the international hepatitis B awareness weekend opening ceremony on Saturday, 21 Oct 2000 at Great world city [Speech]. Retrieved from National Archives of Singapore website.
+
+[^46]: Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^47]: Ministry of Information, Communications and the Arts. (2000, October 21). *Speech by Mr Chan Soo Sen, parliamentary secretary (Prime Minister’s Office & Ministry of Health), at the international hepatitis B awareness weekend opening ceremony on Saturday, 21 Oct 2000 at Great world city* [Speech]. Retrieved from National Archives of Singapore website.
 
 [^48]: Tan, K. (2001, November 8).[ Benefits of vaccine outweigh risks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011108-1.2.27.2). *The Straits Times*, p. 18; Oon, C.J. (2009, November 7). [Hepatitis vaccination: It began in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20091107-1.2.114.2.4). *The Straits Times*, p. 107; Oon, C.J., & Kwek, K. (2011). *[A cancer vaccine that transformed Singapore and the world: The battle against hepatitis B](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13707653)* (pp. 8, 54). Singapore: Straits Times Press Reference. (Call no.: RSING 614.593623 OON); World Health Organization. (2001). *Hepatitis B immunization: Introducing hepatitis B vaccine into national immunization services*. Retrieved from World Health Organization IRIS website.
 
