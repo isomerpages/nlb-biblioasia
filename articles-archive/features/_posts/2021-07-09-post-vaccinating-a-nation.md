@@ -136,7 +136,7 @@ Centers for Disease Control and Prevention. (n.d.). Basic TB facts. Retrieved fr
 Lim, K.T., & Lee, M. (1997). Fighting TB: The SATA story, 1947–1997 (p. 14). Singapore: The Association. (Call no.: RSING 614.542095957 SIN); McKerron, P.A.B. [1947]. Annual report on Singapore for 1st April-–31st December 1946 (p. 70). (Call no.: RDLKL 959.57 MAC); Tuberculosis: Singapore’s no. 1 killer... (1957, February 11). The Singapore Free Press, p. 13; Cancer Society. (1964, December 10). 
 The Straits Times, p. 12. Retrieved from NewspaperSG.
 
-[^15]: Luca, S., & Mihaescu, T. (2013, March). History of BCG vaccine. Maedica, 8 (1), 53–58. Retrieved from National Center for Biotechnology Information website; BCG prevents T.B. (1949, March 5). The Malaya Tribune, pp. VIII/I. Retrieved from NewspaperSG.
+[^15]: Luca, S., & Mihaescu, T. (2013, March). History of BCG vaccine. *Maedica*, 8 (1), 53–58. Retrieved from National Center for Biotechnology Information website; BCG prevents T.B. (1949, March 5). The Malaya Tribune, pp. VIII/I. Retrieved from NewspaperSG.
 
 [^16]: [Lim & Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724), 1997, p. 18; SATA ComHealth. (n.d.). *Our history and milestones*. Retrieved from SATA ComHealth website; Vo. (1973, July 6). [SATA tames a killer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730706-1.2.59.3). *New Nation*, p. 11. Retrieved from NewspaperSG.
 
