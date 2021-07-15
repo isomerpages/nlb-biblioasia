@@ -145,7 +145,8 @@ B.C.G. team starts S’pore campaign. (1951, June 4). The Straits Times, p. 5; V
 The Straits Times, 19 Nov 1956, p. 7; BCG vaccine for new-born babies. (1956, December 1). The Straits Times, p. 6. Retrieved from NewspaperSG.
 Chew & Hu, Dec 1974, p. 241.
 Just one anti-TB jab from now. (2001, June 28). The Straits Times, p. 21; One TB jab at birth. (2001, June 28). The New Paper, p. 6. Retrieved from NewspaperSG.
-Ministry of Health Singapore. (2021, March 24). Update on tuberculosis situation in Singapore. Retrieved from Ministry of Health website.
+
+[^24]: Ministry of Health Singapore. (2021, March 24). *Update on tuberculosis situation in Singapore*. Retrieved from Ministry of Health website.
 
 [^25]: Centers for Diseases Control and Prevention. (n.d.). *What is polio?* Retrieved from Centers for Diseases Control and Prevention website; Ministry of Health. (n.d.).* What all parents need to know about polio*. Retrieved from Healthhub website.
 
