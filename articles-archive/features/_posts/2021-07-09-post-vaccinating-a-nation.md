@@ -150,7 +150,8 @@ Centers for Diseases Control and Prevention. (n.d.). What is polio? Retrieved fr
 Colony of Singapore. (1959). Annual report 1958 (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. Healthscope, 5, 7. (Call no. RSING 362.1095957 H)
 Colony of Singapore, 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. Singapore Medical Journal, 18 (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
 The number of paralytic polio cases went down from 78 cases in 1963 to four cases in 1968. In the subsequent years up to 1975, there were only five cases in total. Overall, the number of polio cases also decreased from 1,067 notified cases for the period 1954 to 1964 to 62 cases from 1965 to 1975. Not a single case was reported in 1969, 1970, 1974 and 1975. 
-Lee & Lim, Mar 1977, pp. 35, 37–38.
+
+[^29]: Lee & Lim, Mar 1977, pp. 35, 37–38.
 
 [^30]: Wee, L. (2000, November 2). [Singapore officially declared polio-free](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001102-1.2.40.16). *The Straits Times*, p. 42. Retrieved from NewspaperSG; Dancel, R. (2019, September 19). Polio, a menace eradicated in the Philippines 19 years ago, resurfaces. *The Straits Times*; Chia, N. (2019, November 24). Polio shots for Team S’pore athletes just before SEA Games. *The Straits Times*. Retrieved from The Straits Times website.
 
