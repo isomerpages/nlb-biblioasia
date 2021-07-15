@@ -168,8 +168,10 @@ New Nation, p. 5. Retrieved from NewspaperSG.
 Measles vaccination a must. (1985, July 27). The Straits Times, p. 12; A three-in-one vaccine for infants. (1989, October 27). The Straits Times, p. 28. Retrieved from NewspaperSG.
 Oon, C.J. (1979, November 7). Towards a cure for liver cancer. The Straits Times, p. 6. Retrieved from NewspaperSG.
 Baruch Blumberg: Facts. (n.d.). Retrieved from Nobel Prize Organisation website; Liver cancer virus can be curbed. (1979, September 28). New Nation, p. 5; Vaccine for cancer? (1980, September 29). New Nation, p. 11. Retrieved from NewspaperSG.
-Hepatitis – the ‘silent killer’. (1984, September 10). Singapore Monitor, p. 1; Chua, I. (1985, May 29). The fight against hepatitis. The Straits Times, p. 3; Ngoo, I. (1979, October 21). S’pore is worst in the world. The Straits Times, p. 1. Retrieved from NewspaperSG.
-An all-out war on hepatitis B. (1983, August 3). 
+
+[^44]: Hepatitis – the ‘silent killer’. (1984, September 10). *Singapore Monitor*, p. 1; Chua, I. (1985, May 29). The fight against hepatitis. The Straits Times, p. 3; Ngoo, I. (1979, October 21). S’pore is worst in the world. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^45]: An all-out war on hepatitis B. (1983, August 3). 
 The Straits Times, p. 1; Lim, J. (1983, August 3). Plan for mass immunisation against hepatitis B. The Business Times, p. 1; Wong, K.L. (1985, October 29). No mass vaccination against hepatitis B. The Straits Times, p. 18. Retrieved from NewspaperSG.
 
 [^46]: Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
