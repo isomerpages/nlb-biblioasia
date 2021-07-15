@@ -23,7 +23,7 @@ The latter legislation led to the Ordinance for Registration of Births and Death
 Smallpox continued to be a problem in Singapore up until the 1950s. After WHO declared the virus eradicated, Singapore amended the legislation so that smallpox vaccination would no longer be required by law from March 1982.[^12]
 
 #### **BCG and the Battle Against Tuberculosis**
-At the end of World War II, Singapore found itself in another battle, this time against tuberculosis (TB). TB is an infectious disease caused by the Mycobacterium tuberculosis bacteria. There are two types of TB infections – latent TB infection and TB disease. People with the former are asymptomatic and cannot spread the bacteria whereas people with the TB disease may infect others. If left untreated, TB can be fatal.[^13]
+At the end of World War II, Singapore found itself in another battle, this time against tuberculosis (TB). TB is an infectious disease caused by the *Mycobacterium tuberculosis* bacteria. There are two types of TB infections – latent TB infection and TB disease. People with the former are asymptomatic and cannot spread the bacteria whereas people with the TB disease may infect others. If left untreated, TB can be fatal.[^13]
 
 In the aftermath of the Japanese Occupation (1942–45), the incidence of tuberculosis increased sharply, especially among young children. In fact, it was the number one killer disease right up to the 1960s.[^14]
 
