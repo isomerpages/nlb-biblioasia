@@ -167,7 +167,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^24]: Ministry of Health Singapore. (2021, March 24). *Update on tuberculosis situation in Singapore*. Retrieved from Ministry of Health website.
 
-[^25]: Centers for Diseases Control and Prevention. (n.d.). *What is polio?* Retrieved from Centers for Diseases Control and Prevention website; Ministry of Health. (n.d.).* What all parents need to know about polio*. Retrieved from Healthhub website.
+[^25]: Centers for Diseases Control and Prevention. (n.d.). *What is polio?* Retrieved from Centers for Diseases Control and Prevention website; Ministry of Health. (n.d.).*What all parents need to know about polio*. Retrieved from Healthhub website.
 
 [^26]: Colony of Singapore. (1959). *[Annual report 1958](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)* (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. *[Healthscope](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4192522)*, 5, 7. (Call no. RSING 362.1095957 H)
 
