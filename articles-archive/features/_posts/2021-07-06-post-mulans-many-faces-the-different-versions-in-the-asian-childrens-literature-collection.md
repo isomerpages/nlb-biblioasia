@@ -33,7 +33,7 @@ Although filial piety and loyalty are constant themes in the different represent
 
 Recent efforts to reimagine the story of Mulan consist of books, stage adaptations, television serials and movies. These include the chapter “White Tigers” in Maxine Hong Kingston’s *The Woman Warrior: Memoirs of a Girlhood Among Ghosts* (1976)[^6] and, of course, Disney’s *Mulan*, comprising an animated film in 1998 and a live-action drama film in 2020.
 
-Given that the tale is about 1,500 years old, the story of Mulan has inspired numerous books and iterations in various languages and for different age groups, including children. Some of these titles are available in the Asian Children’s Literature Collection (ACL Collection) of the National Library (see text box on pp. 31–32).
+Given that the tale is about 1,500 years old, the story of Mulan has inspired numerous books and iterations in various languages and for different age groups, including children. Some of these titles are available in the Asian Children’s Literature Collection (ACL Collection) of the National Library.
 
 The authors or editors of these titles have adopted different approaches in their versions by combining elements of older Mulan stories with new reinterpretations. These can be broadly categorised into two groups: retelling of *The Ballad of Mulan*, largely sticking to the original poem, and the rewriting of the story of Mulan, which involves adding significant new elements.
 
