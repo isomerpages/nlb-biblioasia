@@ -171,7 +171,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^26]: Colony of Singapore. (1959). *[Annual report 1958](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)* (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. *[Healthscope](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4192522)*, 5, 7. (Call no. RSING 362.1095957 H)
 
-[^27]: *[Colony of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)*, 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. *Singapore Medical Journal*, 18 (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
+[^27]: *[Colony of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)*, 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. *Singapore Medical Journal, 18* (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
 
 [^28]: The number of paralytic polio cases went down from 78 cases in 1963 to four cases in 1968. In the subsequent years up to 1975, there were only five cases in total. Overall, the number of polio cases also decreased from 1,067 notified cases for the period 1954 to 1964 to 62 cases from 1965 to 1975. Not a single case was reported in 1969, 1970, 1974 and 1975. 
 
