@@ -149,7 +149,8 @@ Ministry of Health Singapore. (2021, March 24). Update on tuberculosis situation
 Centers for Diseases Control and Prevention. (n.d.). What is polio? Retrieved from Centers for Diseases Control and Prevention website; Ministry of Health. (n.d.). What all parents need to know about polio. Retrieved from Healthhub website.
 Colony of Singapore. (1959). Annual report 1958 (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. Healthscope, 5, 7. (Call no. RSING 362.1095957 H)
 Colony of Singapore, 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. Singapore Medical Journal, 18 (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
-The number of paralytic polio cases went down from 78 cases in 1963 to four cases in 1968. In the subsequent years up to 1975, there were only five cases in total. Overall, the number of polio cases also decreased from 1,067 notified cases for the period 1954 to 1964 to 62 cases from 1965 to 1975. Not a single case was reported in 1969, 1970, 1974 and 1975. 
+
+[^28]: The number of paralytic polio cases went down from 78 cases in 1963 to four cases in 1968. In the subsequent years up to 1975, there were only five cases in total. Overall, the number of polio cases also decreased from 1,067 notified cases for the period 1954 to 1964 to 62 cases from 1965 to 1975. Not a single case was reported in 1969, 1970, 1974 and 1975. 
 
 [^29]: Lee & Lim, Mar 1977, pp. 35, 37–38.
 
