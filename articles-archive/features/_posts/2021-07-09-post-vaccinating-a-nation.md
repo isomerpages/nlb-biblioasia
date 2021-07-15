@@ -126,7 +126,8 @@ Lee, Y.K. (1976, December). Smallpox in early Singapore (Part II) (1830–1849).
 17 (4), 202–206, p. 202. Retrieved from Singapore Medical Association website.
 Lee, Dec 1976, pp. 202–203. 
 Belongia, E.A., & Naleway, A.L. (2003, April). Smallpox vaccine: The good, the bad, and the ugly. Clinical Medicine Research, 1 (2), 87–92, p. 88. Retrieved from NCBI website.
-The Royal Jennerian Institute was named after Edward Jenner. Lee, Y.K. (1977, March). Smallpox in early Singapore. (Part III) (1850–59). Singapore Medical Journal, 18 (1), 16–20, p. 16. Retrieved from Singapore Medical Association website.
+
+[^7]: The Royal Jennerian Institute was named after Edward Jenner. Lee, Y.K. (1977, March). Smallpox in early Singapore. (Part III) (1850–59). Singapore Medical Journal, 18 (1), 16–20, p. 16. Retrieved from Singapore Medical Association website.
 
 [^8]: Lee, Mar 1977, p. 16; Lee, Y.K. (1977, June). Smallpox in early Singapore. (Part IV) (1860–1872). *Singapore Medical Journal, 18* (2), 126–135, pp. 126–127. Retrieved from Singapore Medical Association website.
 
