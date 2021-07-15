@@ -172,7 +172,7 @@ Hepatitis – the ‘silent killer’. (1984, September 10). Singapore Monitor, 
 An all-out war on hepatitis B. (1983, August 3). 
 The Straits Times, p. 1; Lim, J. (1983, August 3). Plan for mass immunisation against hepatitis B. The Business Times, p. 1; Wong, K.L. (1985, October 29). No mass vaccination against hepatitis B. The Straits Times, p. 18. Retrieved from NewspaperSG.
 
-[^46]: Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^46]: Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 [^47]: Ministry of Information, Communications and the Arts. (2000, October 21). *[Speech by Mr Chan Soo Sen, parliamentary secretary (Prime Minister’s Office & Ministry of Health), at the international hepatitis B awareness weekend opening ceremony on Saturday, 21 Oct 2000 at Great world city](https://www.nas.gov.sg/archivesonline/speeches/record-details/74736ef4-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
