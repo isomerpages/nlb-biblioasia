@@ -175,8 +175,8 @@ Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. The St
 Ministry of Information, Communications and the Arts. (2000, October 21). Speech by Mr Chan Soo Sen, parliamentary secretary (Prime Minister’s Office & Ministry of Health), at the international hepatitis B awareness weekend opening ceremony on Saturday, 21 Oct 2000 at Great world city [Speech]. Retrieved from National Archives of Singapore website. 
 Tan, K. (2001, November 8). Benefits of vaccine outweigh risks. The Straits Times, p. 18; Oon, C.J. (2009, November 7). Hepatitis vaccination: It began in Singapore. The Straits Times, p. 107; Oon, C.J., & Kwek, K. (2011). A cancer vaccine that transformed Singapore and the world: The battle against hepatitis B (pp. 8, 54). Singapore: Straits Times Press Reference. (Call no.: RSING 614.593623 OON); World Health Organization. (2001). Hepatitis B immunization: Introducing hepatitis B vaccine into national immunization services. Retrieved from World Health Organization IRIS website.
 
-Ministry of Health Singapore. (2021, June 21). Vaccination data. Retrieved from Ministry of Health website.
+[^49]: Ministry of Health Singapore. (2021, June 21). Vaccination data. Retrieved from Ministry of Health website.
 
-Chew, H.M. (2021, May 31). People who want alternative Covid-19 vaccines can get them under special access route. CNA. Retrieved from CNA website.
+[^50]: Chew, H.M. (2021, May 31). People who want alternative Covid-19 vaccines can get them under special access route. CNA. Retrieved from CNA website.
 
 [^51]: Kurohi, R. (2021, May 31). 6 key announcements from PM Lee Hsien Loong’s address on Covid-19 plans. *The Straits Times*. Retrieved from The Straits Times website.
