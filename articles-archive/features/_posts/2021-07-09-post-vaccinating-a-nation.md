@@ -172,7 +172,7 @@ Baruch Blumberg: Facts. (n.d.). Retrieved from Nobel Prize Organisation website;
 [^44]: Hepatitis – the ‘silent killer’. (1984, September 10). *Singapore Monitor*, p. 1; Chua, I. (1985, May 29). The fight against hepatitis. *The Straits Times*, p. 3; Ngoo, I. (1979, October 21). S’pore is worst in the world. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 [^45]: An all-out war on hepatitis B. (1983, August 3). 
-*The Straits Times*, p. 1; Lim, J. (1983, August 3). Plan for mass immunisation against hepatitis B. *The Business Times*, p. 1; Wong, K.L. (1985, October 29). No mass vaccination against hepatitis B. The Straits Times, p. 18. Retrieved from NewspaperSG.
+*The Straits Times*, p. 1; Lim, J. (1983, August 3). Plan for mass immunisation against hepatitis B. *The Business Times*, p. 1; Wong, K.L. (1985, October 29). No mass vaccination against hepatitis B. *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
 [^46]: Kong, S.C. (1987, August 2). Low-cost anti-hepatitis B jabs for newborns. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
