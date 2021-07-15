@@ -168,7 +168,7 @@ New Nation, p. 5. Retrieved from NewspaperSG.
 
 [^41]: Measles vaccination a must. (1985, July 27). *The Straits Times*, p. 12; A three-in-one vaccine for infants. (1989, October 27). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
 
-[^42]: Oon, C.J. (1979, November 7). Towards a cure for liver cancer. The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^42]: Oon, C.J. (1979, November 7). Towards a cure for liver cancer. *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^43]: *Baruch Blumberg: Facts*. (n.d.). Retrieved from Nobel Prize Organisation website; [Liver cancer virus can be curbed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770928-1.2.25). (1979, September 28). *New Nation*, p. 5; [Vaccine for cancer?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800929-1.2.50) (1980, September 29). *New Nation*, p. 11. Retrieved from NewspaperSG.
 
