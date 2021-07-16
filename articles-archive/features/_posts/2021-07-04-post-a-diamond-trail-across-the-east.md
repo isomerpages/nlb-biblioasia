@@ -72,6 +72,65 @@ Sisters Fauziah and Faridah Jamal recalled that their family’s diamond trading
 Said Fauziah Jamal: “We had our neighbours – a goldsmithing workshop, an old Chinese man who would be working on these pieces of jewellery, mostly gold pieces, and then we had my uncle who’s working across the road… we had also another granduncle who had an office further down this road. Basically [Jalan Pisang] is where the activity of the diamond trade used to be.”13
 
 
+##### *Sumbawa Road*
+
+Not so far away, near the intersection of today’s Jalan Sultan and Victoria Street or North Bridge Road is said to be the site of a former club called the Darul Ta’alam Club, founded in 1893. A photo of this club, located along the now expunged Sumbawa Road, depicts several well-dressed men, some of whom are presumably Banjar businessmen and merchants, gathered in front of a building with “Darul Ta’alam 20th Anniversary 15th Nov 1913” inscribed on its facade (see previous page). 
+
+The origins of the club and the identity of its founders are unclear. But by the time the photo was taken in 1913, the club was well patronised by merchants and individuals from other sub-ethnic Malay groups. 
+
+Besides serving as the headquarters for a football club of the same name, the Darul Ta’alam Club was also the venue for other social and communal gatherings, including serving as the main meeting place for organisations such as the Kesatuan Melayu (Malay Union). The building has since been demolished.
+
+##### *Geylang*
+
+As Geylang became a thriving residential and commercial centre in the 19th century, several Banjar merchants acquired property in the area, including the diamond trader Haji Mahmood bin Abdul Rahim.
+
+Many newly arrived Banjar also made Geylang their home, such as the father of Haji Ahmad Jamal bin Haji Mohd Hassan (the grandfather of sisters Fauziah and Faridah Jamal) who lived at 681 Geylang Road. There were also other Banjar families residing at Lorongs 26 and 35 Geylang. 
+
+However, Geylang may have been more than just a centre for the Banjar community to live though. The evidence comes from a 1937 lithographed manuscript titled Kitab Perukunan Sembahyang Sheikh Arsyad (Sheikh Arsyad’s Book of Commandments Pertaining to Prayer), which consolidates the writings of a famous Banjar religious scholar. In the frontispiece, the publisher indicates that the book was printed at 242 Lorong Engku Aman in Geylang, although the name of the publishing company is not mentioned.
+
+##### *Kembangan*
+
+Lorong Marican in Kembangan was home to Haji Arshad bin Haji Mahmood, the father of Mohd Gazali bin Mohd Arshad. “This house [at Lorong Marican] represented a house rich with history,” said Mohd Gazali. “That was where my uncles gathered... to speak to my father and reminisce about their father and grandfather. It was only much later that I realised that it was because of who my grandfather [the diamond trader Haji Mahmood] was.”14
+
+The house was designed as a rumah panggung, a traditional house form built on stilts found in South Kalimantan, and similar housing were also once commonly seen on adjacent roads like Lorong Marzuki.
+
+Hanging in Haji Arshad’s home was a mandala-shaped diagram called the ayat pendinding, consisting of text written in Arabic. The text comprises words of prayers, composed specifically to protect a house and its occupants. The ayat pendinding was designed and made by Haji Arshad, and members of the Banjar community who visited Haji Arshad’s home for religious classes would request copies of these ayat pendinding from him to be displayed in their own homes. 
+
+##### *Kampong Banjar*
+
+In addition to the communities living in traditional Malay settlements like Geylang and Kembangan, there is also evidence of Banjar settlements by the coast. A 1924 map lists a “Kampong Banjar” along Changi Road.15 
+
+Although no existing members of the Banjar community today are familiar with this kampong, an account in the Berita Harian newspaper in 1987 by Kahar bin Kurus, 71, who once lived in the Changi area, describes life in the kampong. According to him, Kampong Banjar and the neighbouring kampongs were once thriving villages inhabited by various sub-ethnic Malay groups, including the Banjarese. The villagers, who earned a living primarily from fishing, lived in close-knit communities and held frequent gatherings to celebrate their small successes and muse over their daily affairs. “Para penduduk di situ juga sering mengadakan majlis-majis keramaian dua tiga kali dalam setahun untuk menghiburkan hati setelah berpenat-lelah bekerja,” he said. (“The villagers frequently hosted gatherings, at least two to three times a year, to reward themselves for their hard work.”)16 
+
+These gatherings parallel an activity that the Banjar community today refers to as arul ganal, which means “big gatherings”, a cultural event that is commonly held in South Kalimantan. Unfortunately, this kampong was expunged prior to World War II, and in a 1945 map, this site appears to have made way for Changi airfield. 
+
+The displaced inhabitants of Kampong Banjar moved south to nearby villages, notably Kampong Beting Kusah, Kampong Telok Paku and even to Kampong Ayer Gemuroh, at what is today’s East Coast Park.17
+
+In the 1970s, Kampong Ayer Gemuroh suffered a similar fate as Kampong Banjar and also had to make way for the expansion of Changi airfield.18 The Banjar people were resettled into high-rise flats and the kampong was expunged.
+
+While estimates are not available, the number of people who identify as being Urang Banjar in Singapore today is likely to be very small. However, no one should underestimate what the Urang Banjar, regardless of their numbers, are capable of. Haram manyarah waja sampai kaputing is still very much a part of what being a Banjar means today, and speaks to the determination of the Banjar people to face every challenge and to never give up, no matter the odds. 
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-2/authors/Lee%20Geok%20Boi.png" style="width: 100px; height: 100px;" />
+<b>Zinnurain Nasir</b>   is an Assistant Curator with the Malay Heritage Centre. His interests include community histories, local and regional identity histories and charting cultural practices. He is currently researching Jawi publications as a medium to represent post-World War II community landscapes.
+
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-2/authors/Lee%20Geok%20Boi.png" style="width: 100px; height: 100px;" />
+<b>Nasri Shah</b>   is a Curator with the Malay Heritage Centre. His past projects include “Mereka Utusan” (2016) and “Women in Action” (2018), which focused on histories of the Malay publishing industry and women’s rights movement respectively.
+</div>
+
+
+#### NOTES
+
+
+
+
+
 
 
 
