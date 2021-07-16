@@ -153,9 +153,9 @@ While estimates are not available, the number of people who identify as being Ur
 [^11]: [Steamer sailings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19071002-1.2.15.3). (1907, October 2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 
-[^12]: Karim Iskandar. (2011, February 16). [Kisah amuk di Kg Intan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20110216-1.2.21.4). *Berita Harian*, p. 11. Retrieved from NewspaperSG; Rossman Ithnain. (2014, July/August). Popular Malay jewellery in the 1950s and 1960s. *Passage*. Retrieved from Singapura Stories website. [Note: The location of the former Diamond Kampong has also been suggested to be at the site now occupied by Raffles Hospital. See Imran Tajudeen. (2005). Reading the traditional maritime city in Southeast Asia: Reconstructing the 19th century port town at Gelam-Rochor-Kallang, Singapore. *Journal of Southeast Asian Architecture, 8,* pp. 1–25. (Call no.: RSING q720.95 JSAA)]
+[^12]: Karim Iskandar. (2011, February 16). [Kisah amuk di Kg Intan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20110216-1.2.21.4). *Berita Harian*, p. 11. Retrieved from NewspaperSG; Rossman Ithnain. (2014, July/August). Popular Malay jewellery in the 1950s and 1960s. *Passage*. Retrieved from Singapura Stories website. [Note: The location of the former Diamond Kampong has also been suggested to be at the site now occupied by Raffles Hospital. See Imran Tajudeen. (2005). Reading the traditional maritime city in Southeast Asia: Reconstructing the 19th century port town at Gelam-Rochor-Kallang, Singapore. [*Journal of Southeast Asian Architecture, 8,*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7915685) pp. 1–25. (Call no.: RSING q720.95 JSAA)]
 
-[^13]: National Heritage Board. (2021, March 16). Urang Banjar: Heritage and culture of the Banjar in Singapore. Retrieved from Roots website.
+[^13]: National Heritage Board. (2021, March 16). *Urang Banjar: Heritage and culture of the Banjar in Singapore*. Retrieved from Roots website.
 
 [^14]: National Heritage Board, 16 Mar 2021. 
 
