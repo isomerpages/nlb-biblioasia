@@ -131,36 +131,39 @@ While estimates are not available, the number of people who identify as being Ur
 
 [^1]: In the Banjarese language, the Indonesian word “orang” for “person” is pronounced as “urang”. 
 
-[^2]: The Banjarmasin War (1859–63) was a succession war in the Sultanate of Banjarmasin as well as a colonial war fought for the restoration of Dutch authority in the eastern and southern parts of Borneo. 
+[^2]: The Banjarmasin War (1859–63) was a succession war in the Sultanate of Banjarmasin as well as a colonial war fought for the restoration of Dutch authority in the eastern and southern parts of Borneo.  
 
 [^3]: The digital companion to the exhibition can be accessed from the National Heritage Board’s Roots website: https://www.roots.gov.sg/stories-landing/stories/Urang-Banjar
 
-[^4]: Tham, S.C. (1993). Defining “Malay”. Singapore: Department of Malay Studies, National University of Singapore. (Call no.: RSING 305.899205957 THA). [Note: This number is only representative of people who indicated themselves as “Banjarese” on their own accord. The actual number of people with Banjarese ancestry might be far higher.] 
+[^4]: Tham, S.C. (1993). Defining “Malay”. Singapore: Department of Malay Studies, National University of Singapore. (Call no.: RSING 305.899205957 THA). [Note: This number is only representative of people who indicated themselves as “Banjarese” on their own accord. The actual number of people with Banjarese ancestry might be far higher.]
 
-[^5]: For more information, see Ahmad Fakhri Hutauruk. (2020). Sejarah Indonesia: Masuknya Islam hingga kolonialisme (pp. 77–78). Indonesia: Yayasan Kita Menulis. (Not available in NLB holdings); Haiqal Halim. (2019, May 14). Penghijrahan orang Banjar ke Malaysia. M-Update. Retrieved from M-Update website.
+[^5]: Marriott, H. (1911). Report on the census of the Colony of the Straits Settlements, taken on the 10th March, 1911. Singapore: Printed at the Government Printing Office. (Call no.: RRARE 312.095957 STR; Microfilm no.: NL5646)
 
-[^6]: Potter, L. (1993). Banjarese in and beyond Hulu Sungai, South Kalimantan: A study of cultural independence, economic opportunity and mobility (pp. 264–296). In J.T. Lindblad (Ed.), New challenges in the modern economic history of Indonesia: Proceedings of the first conference on Indonesia’s modern economic history, Jakarta, October 1–4, 1991. Leiden: Programme of Indonesian Studies. (Call no.: RCLOS 330.9598 CON)
+[^6]: For more information, see Ahmad Fakhri Hutauruk. (2020). Sejarah Indonesia: Masuknya Islam hingga kolonialisme (pp. 77–78). Indonesia: Yayasan Kita Menulis. (Not available in NLB holdings); Haiqal Halim. (2019, May 14). Penghijrahan orang Banjar ke Malaysia. M-Update. Retrieved from M-Update website.
 
-[^7]: Rochwulaningsih, Y., Noor Naelil Masruroh & Fanada Sholihah. (2019, December). Tracing the maritime greatness and the formation of cosmopolitan society in South Borneo. Journal of Maritime Studies and National Integration, 3 (2), pp. 71–79. Retrieved from ResearchGate website. 
-
-
-[^8]: Exports. (1833, March 7). Singapore Chronicle and Commercial Register, p. 4. Retrieved from NewspaperSG. 
-
-[^9]: Saudagar kaya dengan niaga intan berlian. (1981, December 8). Berita Harian, p. 5. Retrieved from NewspaperSG.
-
-[^10]: Page 4 Advertisements Column 3: Steamer sailings. (1907, October 2). The Straits Times, p. 4. Retrieved from NewspaperSG.
-
-[^11]: Karim Iskandar. (2011, February 16). Kisah amuk di kg intan. Berita Harian, p. 11. Retrieved from NewspaperSG; Rossman Ithnain. (2014, July/August). Popular Malay jewellery in the 1950s and 1960s. Passage. Retrieved from Singapura Stories website. The location of the former Diamond Kampong has also been suggested to be on the site now occupied by Raffles Hospital. See Imran Tajudeen. (2005). Reading the traditional maritime city in Southeast Asia: Reconstructing the 19th century port town at Gelam-Rochor-Kallang, Singapore. Journal of Southeast Asian Architecture, 8, pp. 1–25. (Call no.: RSING q720.95 JSAA)
+[^7]: Potter, L. (1993). Banjarese in and beyond Hulu Sungai, South Kalimantan: A study of cultural independence, economic opportunity and mobility (pp. 264–296). In J.T. Lindblad (Ed.), New challenges in the modern economic history of Indonesia: Proceedings of the first conference on Indonesia’s modern economic history, Jakarta, October 1–4, 1991. Leiden: Programme of Indonesian Studies. (Call no.: RCLOS 330.9598 CON) 
 
 
-[^12]: 
+[^8]: Rochwulaningsih, Y., Noor Naelil Masruroh & Fanada Sholihah. (2019, December). Tracing the maritime greatness and the formation of cosmopolitan society in South Borneo. Journal of Maritime Studies and National Integration, 3 (2), pp. 71–79. Retrieved from ResearchGate website.
 
-[^13]: 
+[^9]: Exports. (1833, March 7). Singapore Chronicle and Commercial Register, p. 4. Retrieved from NewspaperSG.
 
-[^14]: 
+[^10]: Saudagar kaya dengan niaga intan berlian. (1981, December 8). Berita Harian, p. 5. Retrieved from NewspaperSG.
 
-[^15]: 
+[^11]: Steamer sailings. (1907, October 2). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
-[^16]: 
 
-[^17]:
+[^12]: Karim Iskandar. (2011, February 16). Kisah amuk di Kg Intan. Berita Harian, p. 11. Retrieved from NewspaperSG; Rossman Ithnain. (2014, July/August). Popular Malay jewellery in the 1950s and 1960s. Passage. Retrieved from Singapura Stories website. [Note: The location of the former Diamond Kampong has also been suggested to be at the site now occupied by Raffles Hospital. See Imran Tajudeen. (2005). Reading the traditional maritime city in Southeast Asia: Reconstructing the 19th century port town at Gelam-Rochor-Kallang, Singapore. Journal of Southeast Asian Architecture, 8, pp. 1–25. (Call no.: RSING q720.95 JSAA)]
+
+[^13]: National Heritage Board. (2021, March 16). Urang Banjar: Heritage and culture of the Banjar in Singapore. Retrieved from Roots website.
+
+[^14]: National Heritage Board, 16 Mar 2021. 
+
+[^15]: Survey Department, Singapore. (1924). Singapore Sheet No. 8: Mukim Number: XXVII Bedok, XXVIII Ulu Bedok, XXIII Paya Lebar, XXII Saranggong, XXX Teban, XXIX Tampines, XXXI Changi, XXI Punggol [Map]. Retrieved from National Archives of Singapore website.
+
+[^16]: Hanim Mohd Salleh. (1987, September 10). Zaman ke laut dengan lampu colok. Berita Harian, p. 3. Retrieved from NewspaperSG.
+
+[^17]: Housing problems in Singapore kampongs. (1948, 
+July 3). The Malaya Tribune, p. 1; Rural Malays’ grievances. (1948, June 16), The Malaya Tribune, p. 2. Retrieved from NewspaperSG. 
+
+[^18]: Kampong Ayer Gemuroh turut beri jalan kpd projek pembangunan. (1974, November 21). Berita Harian, p. 5. Retrieved from NewspaperSG.
