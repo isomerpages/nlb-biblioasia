@@ -137,23 +137,23 @@ While estimates are not available, the number of people who identify as being Ur
 
 [^4]: Tham, S.C. (1993). [*Defining “Malay”*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6538629). Singapore: Department of Malay Studies, National University of Singapore. (Call no.: RSING 305.899205957 THA). [Note: This number is only representative of people who indicated themselves as “Banjarese” on their own accord. The actual number of people with Banjarese ancestry might be far higher.]
 
-[^5]: Marriott, H. (1911). Report on the census of the Colony of the Straits Settlements, taken on the 10th March, 1911. Singapore: Printed at the Government Printing Office. (Call no.: RRARE 312.095957 STR; Microfilm no.: NL5646)
+[^5]: Marriott, H. (1911). [*Report on the census of the Colony of the Straits Settlements, taken on the 10th March, 1911*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5091142). Singapore: Printed at the Government Printing Office. (Call no.: RRARE 312.095957 STR; Microfilm no.: NL5646)
 
-[^6]: For more information, see Ahmad Fakhri Hutauruk. (2020). Sejarah Indonesia: Masuknya Islam hingga kolonialisme (pp. 77–78). Indonesia: Yayasan Kita Menulis. (Not available in NLB holdings); Haiqal Halim. (2019, May 14). Penghijrahan orang Banjar ke Malaysia. M-Update. Retrieved from M-Update website.
+[^6]: For more information, see Ahmad Fakhri Hutauruk. (2020). *Sejarah Indonesia: Masuknya Islam hingga kolonialisme* (pp. 77–78). Indonesia: Yayasan Kita Menulis. (Not available in NLB holdings); Haiqal Halim. (2019, May 14). Penghijrahan orang Banjar ke Malaysia. M-Update. Retrieved from M-Update website.
 
-[^7]: Potter, L. (1993). Banjarese in and beyond Hulu Sungai, South Kalimantan: A study of cultural independence, economic opportunity and mobility (pp. 264–296). In J.T. Lindblad (Ed.), New challenges in the modern economic history of Indonesia: Proceedings of the first conference on Indonesia’s modern economic history, Jakarta, October 1–4, 1991. Leiden: Programme of Indonesian Studies. (Call no.: RCLOS 330.9598 CON) 
-
-
-[^8]: Rochwulaningsih, Y., Noor Naelil Masruroh & Fanada Sholihah. (2019, December). Tracing the maritime greatness and the formation of cosmopolitan society in South Borneo. Journal of Maritime Studies and National Integration, 3 (2), pp. 71–79. Retrieved from ResearchGate website.
-
-[^9]: Exports. (1833, March 7). Singapore Chronicle and Commercial Register, p. 4. Retrieved from NewspaperSG.
-
-[^10]: Saudagar kaya dengan niaga intan berlian. (1981, December 8). Berita Harian, p. 5. Retrieved from NewspaperSG.
-
-[^11]: Steamer sailings. (1907, October 2). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^7]: Potter, L. (1993). Banjarese in and beyond Hulu Sungai, South Kalimantan: A study of cultural independence, economic opportunity and mobility (pp. 264–296). In J.T. Lindblad (Ed.), [*New challenges in the modern economic history of Indonesia: Proceedings of the first conference on Indonesia’s modern economic history, Jakarta, October 1–4, 1991*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7033539). Leiden: Programme of Indonesian Studies. (Call no.: RCLOS 330.9598 CON) 
 
 
-[^12]: Karim Iskandar. (2011, February 16). Kisah amuk di Kg Intan. Berita Harian, p. 11. Retrieved from NewspaperSG; Rossman Ithnain. (2014, July/August). Popular Malay jewellery in the 1950s and 1960s. Passage. Retrieved from Singapura Stories website. [Note: The location of the former Diamond Kampong has also been suggested to be at the site now occupied by Raffles Hospital. See Imran Tajudeen. (2005). Reading the traditional maritime city in Southeast Asia: Reconstructing the 19th century port town at Gelam-Rochor-Kallang, Singapore. Journal of Southeast Asian Architecture, 8, pp. 1–25. (Call no.: RSING q720.95 JSAA)]
+[^8]: Rochwulaningsih, Y., Noor Naelil Masruroh & Fanada Sholihah. (2019, December). Tracing the maritime greatness and the formation of cosmopolitan society in South Borneo. *Journal of Maritime Studies and National Integration, 3* (2), pp. 71–79. Retrieved from ResearchGate website.
+
+[^9]: [Exports](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18330307-1.2.28.2). (1833, March 7). *Singapore Chronicle and Commercial Register*, p. 4. Retrieved from NewspaperSG.
+
+[^10]: [Saudagar kaya dengan niaga intan berlian](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19811208-1.2.45). (1981, December 8). *Berita Harian*, p. 5. Retrieved from NewspaperSG.
+
+[^11]: [Steamer sailings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19071002-1.2.15.3). (1907, October 2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+
+
+[^12]: Karim Iskandar. (2011, February 16). [Kisah amuk di Kg Intan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20110216-1.2.21.4). *Berita Harian*, p. 11. Retrieved from NewspaperSG; Rossman Ithnain. (2014, July/August). Popular Malay jewellery in the 1950s and 1960s. *Passage*. Retrieved from Singapura Stories website. [Note: The location of the former Diamond Kampong has also been suggested to be at the site now occupied by Raffles Hospital. See Imran Tajudeen. (2005). Reading the traditional maritime city in Southeast Asia: Reconstructing the 19th century port town at Gelam-Rochor-Kallang, Singapore. *Journal of Southeast Asian Architecture, 8,* pp. 1–25. (Call no.: RSING q720.95 JSAA)]
 
 [^13]: National Heritage Board. (2021, March 16). Urang Banjar: Heritage and culture of the Banjar in Singapore. Retrieved from Roots website.
 
