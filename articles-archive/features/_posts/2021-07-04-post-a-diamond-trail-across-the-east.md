@@ -159,11 +159,11 @@ While estimates are not available, the number of people who identify as being Ur
 
 [^14]: National Heritage Board, 16 Mar 2021. 
 
-[^15]: Survey Department, Singapore. (1924). Singapore Sheet No. 8: Mukim Number: XXVII Bedok, XXVIII Ulu Bedok, XXIII Paya Lebar, XXII Saranggong, XXX Teban, XXIX Tampines, XXXI Changi, XXI Punggol [Map]. Retrieved from National Archives of Singapore website.
+[^15]: Survey Department, Singapore. (1924). [*Singapore Sheet No. 8: Mukim Number: XXVII Bedok, XXVIII Ulu Bedok, XXIII Paya Lebar, XXII Saranggong, XXX Teban, XXIX Tampines, XXXI Changi, XXI Punggol*](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9bea4bb-115c-11e3-83d5-0050568939ad) [Map]. Retrieved from National Archives of Singapore website.
 
-[^16]: Hanim Mohd Salleh. (1987, September 10). Zaman ke laut dengan lampu colok. Berita Harian, p. 3. Retrieved from NewspaperSG.
+[^16]: Hanim Mohd Salleh. (1987, September 10). [Zaman ke laut dengan lampu colok](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19870910-1.2.14.8). *Berita Harian,* p. 3. Retrieved from NewspaperSG.
 
-[^17]: Housing problems in Singapore kampongs. (1948, 
-July 3). The Malaya Tribune, p. 1; Rural Malays’ grievances. (1948, June 16), The Malaya Tribune, p. 2. Retrieved from NewspaperSG. 
+[^17]: [Housing problems in Singapore kampongs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480703-1.2.8). (1948, 
+July 3). *The Malaya Tribune,* p. 1; [Rural Malays’ grievances](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480616-1.2.28). (1948, June 16), *The Malaya Tribune,* p. 2. Retrieved from NewspaperSG. 
 
-[^18]: Kampong Ayer Gemuroh turut beri jalan kpd projek pembangunan. (1974, November 21). Berita Harian, p. 5. Retrieved from NewspaperSG.
+[^18]: [Kampong Ayer Gemuroh turut beri jalan kpd projek pembangunan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19741121-1.2.24.1). (1974, November 21). *Berita Harian,* p. 5. Retrieved from NewspaperSG.
