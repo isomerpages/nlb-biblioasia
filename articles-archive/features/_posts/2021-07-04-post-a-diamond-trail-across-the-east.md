@@ -112,14 +112,14 @@ While estimates are not available, the number of people who identify as being Ur
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-2/authors/Lee%20Geok%20Boi.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-2/authors/Zinnurain.png" style="width: 100px; height: 100px;" />
 <b>Zinnurain Nasir</b>   is an Assistant Curator with the Malay Heritage Centre. His interests include community histories, local and regional identity histories and charting cultural practices. He is currently researching Jawi publications as a medium to represent post-World War II community landscapes.
 
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-2/authors/Lee%20Geok%20Boi.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-2/authors/Nasri%20Shah.png" style="width: 100px; height: 100px;" />
 <b>Nasri Shah</b>   is a Curator with the Malay Heritage Centre. His past projects include “Mereka Utusan” (2016) and “Women in Action” (2018), which focused on histories of the Malay publishing industry and women’s rights movement respectively.
 </div>
 
