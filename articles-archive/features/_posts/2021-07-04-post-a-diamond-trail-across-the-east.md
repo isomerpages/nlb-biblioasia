@@ -48,28 +48,27 @@ The Banjar people also regarded Landak as a safe haven since the Sultanate of La
 
 Perak, on the western coast of the Malay Peninsula, was another destination for the Banjar people.[^7] The state had fertile land similar to the area surrounding the Barito River in South Kalimantan. The flooding that occurred around this river in the late 1880s prompted a mass movement of the Banjar people to Krian (Kerian) in the northwestern corner of Perak. 
 
-These migratory and settlement patterns would be replicated when the Urang Banjar to Singapore. In 1824, the Dutch colonial government re-established Banjarmasin as a free port, which meant that cargo ships could ply routes to non-Dutch-controlled ports, including Singapore.[^8] Trade between both cities primarily consisted of textiles, including muslins, gurrahs and blatchu cloth, among others.9 
+These migratory and settlement patterns would be replicated when the Urang Banjar to Singapore. In 1824, the Dutch colonial government re-established Banjarmasin as a free port, which meant that cargo ships could ply routes to non-Dutch-controlled ports, including Singapore.[^8] Trade between both cities primarily consisted of textiles, including muslins, gurrahs and blatchu cloth, among others.[^9]
 
-Some of the earliest documented Banjar merchants emigrated to Singapore from the mid-19th century onwards, including Haji Mahmood bin Abdul Rahim and Haji Osman bin Haji Abu Naim, who became successful diamond traders and prominent members of the local Banjar community. Haji Mahmood owned a large house spanning Lorongs 18 and 20 Geylang, one of several abodes reserved for his extended family of three wives and 18 children.10 
+Some of the earliest documented Banjar merchants emigrated to Singapore from the mid-19th century onwards, including Haji Mahmood bin Abdul Rahim and Haji Osman bin Haji Abu Naim, who became successful diamond traders and prominent members of the local Banjar community. Haji Mahmood owned a large house spanning Lorongs 18 and 20 Geylang, one of several abodes reserved for his extended family of three wives and 18 children.[^10] 
 
-By the turn of the 20th century, passenger ships began to ply regularly between Singapore and Banjarmasin, indicating a high demand for travel to these two destinations. In 1907, shipping companies were advertising first-class passenger routes from Singapore to Banjarmasin.11 
+By the turn of the 20th century, passenger ships began to ply regularly between Singapore and Banjarmasin, indicating a high demand for travel to these two destinations. In 1907, shipping companies were advertising first-class passenger routes from Singapore to Banjarmasin.[^11]
 
 Due to the ease of travelling between the two cities, more Banjar people began arriving in Singapore and they soon established a small but significant presence in the local landscape. 
 
 ##### **Singapore’s Banjar Community**
 
-
 In Singapore, Banjar families and businesses established themselves in places like Kampong Gelam (Glam) and various locations in the eastern part of the island.
 
 ##### *Kampong Gelam*
 
-Within Kampong Gelam there was a “Kampong Intan” (Diamond Kampong), said to be named after the Banjarese gemstone merchants and jewellery shops operating there in the late 19th century. According to oral histories and anecdotes, this kampong was located along present-day Baghdad Street.12
+Within Kampong Gelam there was a “Kampong Intan” (Diamond Kampong), said to be named after the Banjarese gemstone merchants and jewellery shops operating there in the late 19th century. According to oral histories and anecdotes, this kampong was located along present-day Baghdad Street.[^12]
 
 It is believed that there was another area in Kampong Gelam known as “Kampong Selong” (Ceylon Kampong), where Ceylonese gemstone traders plied their trade, and together with the Banjar merchants, formed a thriving ecosystem where customers could purchase ready-made jewellery or even procure raw diamonds to be set into customised one-of-a-kind pieces. However, this diamond trade by the Banjar and Ceylonese likely declined after the Japanese Occupation (1942–45), most probably due to the increasing demand for African diamonds whose trade was controlled by the Europeans. 
 
 Sisters Fauziah and Faridah Jamal recalled that their family’s diamond trading business and polishing workshop were located on Jalan Pisang (as was their home). Their late father, Haji Ahmad Jamal bin Haji Mohd Hassan, who was also a trustee of Sultan Mosque, was said to be one of a few, if not the only, Banjar diamond cutters and artisans living and working in the area in the early 20th century. 
 
-Said Fauziah Jamal: “We had our neighbours – a goldsmithing workshop, an old Chinese man who would be working on these pieces of jewellery, mostly gold pieces, and then we had my uncle who’s working across the road… we had also another granduncle who had an office further down this road. Basically [Jalan Pisang] is where the activity of the diamond trade used to be.”13
+Said Fauziah Jamal: “We had our neighbours – a goldsmithing workshop, an old Chinese man who would be working on these pieces of jewellery, mostly gold pieces, and then we had my uncle who’s working across the road… we had also another granduncle who had an office further down this road. Basically [Jalan Pisang] is where the activity of the diamond trade used to be.”[^13]
 
 
 ##### *Sumbawa Road*
@@ -86,29 +85,29 @@ As Geylang became a thriving residential and commercial centre in the 19th centu
 
 Many newly arrived Banjar also made Geylang their home, such as the father of Haji Ahmad Jamal bin Haji Mohd Hassan (the grandfather of sisters Fauziah and Faridah Jamal) who lived at 681 Geylang Road. There were also other Banjar families residing at Lorongs 26 and 35 Geylang. 
 
-However, Geylang may have been more than just a centre for the Banjar community to live though. The evidence comes from a 1937 lithographed manuscript titled Kitab Perukunan Sembahyang Sheikh Arsyad (Sheikh Arsyad’s Book of Commandments Pertaining to Prayer), which consolidates the writings of a famous Banjar religious scholar. In the frontispiece, the publisher indicates that the book was printed at 242 Lorong Engku Aman in Geylang, although the name of the publishing company is not mentioned.
+However, Geylang may have been more than just a centre for the Banjar community to live though. The evidence comes from a 1937 lithographed manuscript titled *Kitab Perukunan Sembahyang Sheikh Arsyad* (*Sheikh Arsyad’s Book of Commandments Pertaining to Prayer*), which consolidates the writings of a famous Banjar religious scholar. In the frontispiece, the publisher indicates that the book was printed at 242 Lorong Engku Aman in Geylang, although the name of the publishing company is not mentioned.
 
 ##### *Kembangan*
 
-Lorong Marican in Kembangan was home to Haji Arshad bin Haji Mahmood, the father of Mohd Gazali bin Mohd Arshad. “This house [at Lorong Marican] represented a house rich with history,” said Mohd Gazali. “That was where my uncles gathered... to speak to my father and reminisce about their father and grandfather. It was only much later that I realised that it was because of who my grandfather [the diamond trader Haji Mahmood] was.”14
+Lorong Marican in Kembangan was home to Haji Arshad bin Haji Mahmood, the father of Mohd Gazali bin Mohd Arshad. “This house [at Lorong Marican] represented a house rich with history,” said Mohd Gazali. “That was where my uncles gathered... to speak to my father and reminisce about their father and grandfather. It was only much later that I realised that it was because of who my grandfather [the diamond trader Haji Mahmood] was.”[^14]
 
-The house was designed as a rumah panggung, a traditional house form built on stilts found in South Kalimantan, and similar housing were also once commonly seen on adjacent roads like Lorong Marzuki.
+The house was designed as a *rumah panggung*, a traditional house form built on stilts found in South Kalimantan, and similar housing were also once commonly seen on adjacent roads like Lorong Marzuki.
 
-Hanging in Haji Arshad’s home was a mandala-shaped diagram called the ayat pendinding, consisting of text written in Arabic. The text comprises words of prayers, composed specifically to protect a house and its occupants. The ayat pendinding was designed and made by Haji Arshad, and members of the Banjar community who visited Haji Arshad’s home for religious classes would request copies of these ayat pendinding from him to be displayed in their own homes. 
+Hanging in Haji Arshad’s home was a mandala-shaped diagram called the *ayat pendinding*, consisting of text written in Arabic. The text comprises words of prayers, composed specifically to protect a house and its occupants. The *ayat pendinding* was designed and made by Haji Arshad, and members of the Banjar community who visited Haji Arshad’s home for religious classes would request copies of these *ayat pendinding* from him to be displayed in their own homes. 
 
 ##### *Kampong Banjar*
 
-In addition to the communities living in traditional Malay settlements like Geylang and Kembangan, there is also evidence of Banjar settlements by the coast. A 1924 map lists a “Kampong Banjar” along Changi Road.15 
+In addition to the communities living in traditional Malay settlements like Geylang and Kembangan, there is also evidence of Banjar settlements by the coast. A 1924 map lists a “Kampong Banjar” along Changi Road.[^15] 
 
-Although no existing members of the Banjar community today are familiar with this kampong, an account in the Berita Harian newspaper in 1987 by Kahar bin Kurus, 71, who once lived in the Changi area, describes life in the kampong. According to him, Kampong Banjar and the neighbouring kampongs were once thriving villages inhabited by various sub-ethnic Malay groups, including the Banjarese. The villagers, who earned a living primarily from fishing, lived in close-knit communities and held frequent gatherings to celebrate their small successes and muse over their daily affairs. “Para penduduk di situ juga sering mengadakan majlis-majis keramaian dua tiga kali dalam setahun untuk menghiburkan hati setelah berpenat-lelah bekerja,” he said. (“The villagers frequently hosted gatherings, at least two to three times a year, to reward themselves for their hard work.”)16 
+Although no existing members of the Banjar community today are familiar with this kampong, an account in the *Berita Harian* newspaper in 1987 by Kahar bin Kurus, 71, who once lived in the Changi area, describes life in the kampong. According to him, Kampong Banjar and the neighbouring kampongs were once thriving villages inhabited by various sub-ethnic Malay groups, including the Banjarese. The villagers, who earned a living primarily from fishing, lived in close-knit communities and held frequent gatherings to celebrate their small successes and muse over their daily affairs. “Para penduduk di situ juga sering mengadakan majlis-majis keramaian dua tiga kali dalam setahun untuk menghiburkan hati setelah berpenat-lelah bekerja,” he said. (“The villagers frequently hosted gatherings, at least two to three times a year, to reward themselves for their hard work.”)[^16] 
 
-These gatherings parallel an activity that the Banjar community today refers to as arul ganal, which means “big gatherings”, a cultural event that is commonly held in South Kalimantan. Unfortunately, this kampong was expunged prior to World War II, and in a 1945 map, this site appears to have made way for Changi airfield. 
+These gatherings parallel an activity that the Banjar community today refers to as *arul ganal*, which means “big gatherings”, a cultural event that is commonly held in South Kalimantan. Unfortunately, this kampong was expunged prior to World War II, and in a 1945 map, this site appears to have made way for Changi airfield. 
 
-The displaced inhabitants of Kampong Banjar moved south to nearby villages, notably Kampong Beting Kusah, Kampong Telok Paku and even to Kampong Ayer Gemuroh, at what is today’s East Coast Park.17
+The displaced inhabitants of Kampong Banjar moved south to nearby villages, notably Kampong Beting Kusah, Kampong Telok Paku and even to Kampong Ayer Gemuroh, at what is today’s East Coast Park.[^17]
 
-In the 1970s, Kampong Ayer Gemuroh suffered a similar fate as Kampong Banjar and also had to make way for the expansion of Changi airfield.18 The Banjar people were resettled into high-rise flats and the kampong was expunged.
+In the 1970s, Kampong Ayer Gemuroh suffered a similar fate as Kampong Banjar and also had to make way for the expansion of Changi airfield.[^18] The Banjar people were resettled into high-rise flats and the kampong was expunged.
 
-While estimates are not available, the number of people who identify as being Urang Banjar in Singapore today is likely to be very small. However, no one should underestimate what the Urang Banjar, regardless of their numbers, are capable of. Haram manyarah waja sampai kaputing is still very much a part of what being a Banjar means today, and speaks to the determination of the Banjar people to face every challenge and to never give up, no matter the odds. 
+While estimates are not available, the number of people who identify as being Urang Banjar in Singapore today is likely to be very small. However, no one should underestimate what the Urang Banjar, regardless of their numbers, are capable of. *Haram manyarah waja sampai kaputing* is still very much a part of what being a Banjar means today, and speaks to the determination of the Banjar people to face every challenge and to never give up, no matter the odds. 
 
 
 <div style="background-color: white;">
