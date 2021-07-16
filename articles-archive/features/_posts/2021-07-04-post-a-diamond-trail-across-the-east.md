@@ -135,7 +135,7 @@ While estimates are not available, the number of people who identify as being Ur
 
 [^3]: The digital companion to the exhibition can be accessed from the National Heritage Board’s Roots website: https://www.roots.gov.sg/stories-landing/stories/Urang-Banjar
 
-[^4]: Tham, S.C. (1993). Defining “Malay”. Singapore: Department of Malay Studies, National University of Singapore. (Call no.: RSING 305.899205957 THA). [Note: This number is only representative of people who indicated themselves as “Banjarese” on their own accord. The actual number of people with Banjarese ancestry might be far higher.]
+[^4]: Tham, S.C. (1993). [*Defining “Malay”*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6538629). Singapore: Department of Malay Studies, National University of Singapore. (Call no.: RSING 305.899205957 THA). [Note: This number is only representative of people who indicated themselves as “Banjarese” on their own accord. The actual number of people with Banjarese ancestry might be far higher.]
 
 [^5]: Marriott, H. (1911). Report on the census of the Colony of the Straits Settlements, taken on the 10th March, 1911. Singapore: Printed at the Government Printing Office. (Call no.: RRARE 312.095957 STR; Microfilm no.: NL5646)
 
