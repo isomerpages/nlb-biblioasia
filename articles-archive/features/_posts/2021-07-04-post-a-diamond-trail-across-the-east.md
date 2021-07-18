@@ -17,9 +17,9 @@ table {
 
 #### **Zinnurain Nasir** and **Nasri Shah** shed light on the Banjar people, a small but significant sub-ethnic Malay community from Borneo.
 
-*Haram manyarah waja sampai kaputing* is a traditional phrase in basa Banjar, or Banjarese, the native language of the Banjar people (Urang Banjar)[^1] who originally hailed from South Kalimantan on the island of Borneo. 
+*Haram manyarah waja sampai kaputing* is a traditional phrase in *basa* Banjar, or Banjarese, the native language of the Banjar people (Urang Banjar)[^1] who originally hailed from South Kalimantan on the island of Borneo. 
 
-Literally translated as “Let not the steel [of a blade] stop short until its very point”, the imagery of steel and blade recalls the Banjar community’s martial history, beginning with the local sultanate’s skirmishes with Dutch and British traders in the 17th century right up to the Banjarmasin War of 1859.[^2 ]
+Literally translated as “Let not the steel [of a blade] stop short until its very point”, the imagery of steel and blade recalls the Banjar community’s martial history, beginning with the local sultanate’s skirmishes with Dutch and British traders in the 17th century right up to the Banjarmasin War of 1859.[^2]
 
 In the context of modern Singapore, the phrase is about persistence, about never giving up. In the words of former Malay-language teacher and a Banjar, Mohd Gazali bin Mohd Arshad, whose uncle Haji Mohamed Sanusi was the first Mufti of Singapore and also a Banjar, “… haram manyarah waja sampai kaputing. If we [are] to do anything, let us do it well… achieve and complete it well”. The phrase continues to be used today by the Banjar communities in cities such as Banjarmasin (now the capital city of South Kalimantan) and Martapura. 
 
@@ -60,7 +60,7 @@ Due to the ease of travelling between the two cities, more Banjar people began a
 
 In Singapore, Banjar families and businesses established themselves in places like Kampong Gelam (Glam) and various locations in the eastern part of the island.
 
-##### *Kampong Gelam*
+###### **Kampong Gelam**
 
 Within Kampong Gelam there was a “Kampong Intan” (Diamond Kampong), said to be named after the Banjarese gemstone merchants and jewellery shops operating there in the late 19th century. According to oral histories and anecdotes, this kampong was located along present-day Baghdad Street.[^12]
 
@@ -71,15 +71,15 @@ Sisters Fauziah and Faridah Jamal recalled that their family’s diamond trading
 Said Fauziah Jamal: “We had our neighbours – a goldsmithing workshop, an old Chinese man who would be working on these pieces of jewellery, mostly gold pieces, and then we had my uncle who’s working across the road… we had also another granduncle who had an office further down this road. Basically [Jalan Pisang] is where the activity of the diamond trade used to be.”[^13]
 
 
-##### *Sumbawa Road*
+###### **Sumbawa Road**
 
-Not so far away, near the intersection of today’s Jalan Sultan and Victoria Street or North Bridge Road is said to be the site of a former club called the Darul Ta’alam Club, founded in 1893. A photo of this club, located along the now expunged Sumbawa Road, depicts several well-dressed men, some of whom are presumably Banjar businessmen and merchants, gathered in front of a building with “Darul Ta’alam 20th Anniversary 15th Nov 1913” inscribed on its facade (see previous page). 
+Not so far away, near the intersection of today’s Jalan Sultan and Victoria Street or North Bridge Road is said to be the site of a former club called the Darul Ta’alam Club, founded in 1893. A photo of this club, located along the now expunged Sumbawa Road, depicts several well-dressed men, some of whom are presumably Banjar businessmen and merchants, gathered in front of a building with “Darul Ta’alam 20th Anniversary 15th Nov 1913” inscribed on its facade.
 
 The origins of the club and the identity of its founders are unclear. But by the time the photo was taken in 1913, the club was well patronised by merchants and individuals from other sub-ethnic Malay groups. 
 
 Besides serving as the headquarters for a football club of the same name, the Darul Ta’alam Club was also the venue for other social and communal gatherings, including serving as the main meeting place for organisations such as the Kesatuan Melayu (Malay Union). The building has since been demolished.
 
-##### *Geylang*
+###### **Geylang**
 
 As Geylang became a thriving residential and commercial centre in the 19th century, several Banjar merchants acquired property in the area, including the diamond trader Haji Mahmood bin Abdul Rahim.
 
@@ -87,7 +87,7 @@ Many newly arrived Banjar also made Geylang their home, such as the father of Ha
 
 However, Geylang may have been more than just a centre for the Banjar community to live though. The evidence comes from a 1937 lithographed manuscript titled *Kitab Perukunan Sembahyang Sheikh Arsyad* (*Sheikh Arsyad’s Book of Commandments Pertaining to Prayer*), which consolidates the writings of a famous Banjar religious scholar. In the frontispiece, the publisher indicates that the book was printed at 242 Lorong Engku Aman in Geylang, although the name of the publishing company is not mentioned.
 
-##### *Kembangan*
+###### **Kembangan**
 
 Lorong Marican in Kembangan was home to Haji Arshad bin Haji Mahmood, the father of Mohd Gazali bin Mohd Arshad. “This house [at Lorong Marican] represented a house rich with history,” said Mohd Gazali. “That was where my uncles gathered... to speak to my father and reminisce about their father and grandfather. It was only much later that I realised that it was because of who my grandfather [the diamond trader Haji Mahmood] was.”[^14]
 
@@ -95,7 +95,7 @@ The house was designed as a *rumah panggung*, a traditional house form built on 
 
 Hanging in Haji Arshad’s home was a mandala-shaped diagram called the *ayat pendinding*, consisting of text written in Arabic. The text comprises words of prayers, composed specifically to protect a house and its occupants. The *ayat pendinding* was designed and made by Haji Arshad, and members of the Banjar community who visited Haji Arshad’s home for religious classes would request copies of these *ayat pendinding* from him to be displayed in their own homes. 
 
-##### *Kampong Banjar*
+###### **Kampong Banjar**
 
 In addition to the communities living in traditional Malay settlements like Geylang and Kembangan, there is also evidence of Banjar settlements by the coast. A 1924 map lists a “Kampong Banjar” along Changi Road.[^15] 
 
@@ -124,10 +124,10 @@ While estimates are not available, the number of people who identify as being Ur
 </div>
 
 
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
-
-#### NOTES
+#### **NOTES**
 
 [^1]: In the Banjarese language, the Indonesian word “orang” for “person” is pronounced as “urang”. 
 
