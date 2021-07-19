@@ -83,7 +83,7 @@ Mrs Hing’s book had typical Indonesian recipes such as *opor ayam, rendang* Pa
 
 The cookbook also features typical Malayan-Singapore recipes such as *roti jala* (a lacy pancake eaten with curry), Hokkien *mee* and pineapple tarts, both the open and the closed pineapple-shaped tarts with spikes that were traditionally seen as Indonesian.
 
-One interesting find in Mrs Hing’s book is a recipe for *kroket tjanker* or *Java kwei patti*. This is a dish using deep-fried shells made the same way as today’s *kueh pie tee* shells. But unlike today’s *kueh pie tee*, which is filled with shredded bamboo shoots or yam bean, this *Java kwei patti* has a rich meat filling. Did today’s *kueh pie tee* start out as a Dutch colonial dish? (The 1960 edition of Mrs Ellice Handy’s *My Favourite Recipes* has a recipe for *kueh pie tee* that used a filling of bamboo shoots.[^18]) Note that yam bean or *jicama* (*Pachyrhizus erosus*) was originally native to Mexico, and was probably introduced to Southeast Asia during the Spanish colonial era in the Philippines. 
+One interesting find in Mrs Hing’s book is a recipe for *kroket tjanker* or*Java kwei patti*. This is a dish using deep-fried shells made the same way as today’s *kueh pie tee* shells. But unlike today’s *kueh pie tee*, which is filled with shredded bamboo shoots or yam bean, this *Java kwei patti* has a rich meat filling. Did today’s *kueh pie tee* start out as a Dutch colonial dish? (The 1960 edition of Mrs Ellice Handy’s *My Favourite Recipes* has a recipe for *kueh pie tee* that used a filling of bamboo shoots.[^18]) Note that yam bean or *jicama* (*Pachyrhizus erosus*) was originally native to Mexico, and was probably introduced to Southeast Asia during the Spanish colonial era in the Philippines. 
 
 The first local cookbook that identified itself as being Peranakan is *Mrs Lee’s Cookbook*, originally self-published in 1974.[^19] (The author – Mrs Lee Chin Koon, née Chua Jim Neo – was the mother of Prime Minister Lee Kuan Yew). In her book, she wrote: “Malay influence, because of mingling and intermarriage, has produced a unique Peranakan culture and set of customs distinct from those of the Chinese community who came from China. Our food, which is basically Malay or Indonesian in method and ingredients, were altered to suit our tastes.” 
 
@@ -102,7 +102,8 @@ These two trends – preservation and alteration – are hallmarks of Straits cu
 
 One of the traits of a great cuisine is its ability to retain its traditional roots while taking on new and interesting flavours with the introduction of non-traditional ingredients. Straits cuisine definitely falls into that category.
 
-|Lee Geok Boi’s newly published cookbook, *In a Straits-born Kitchen*, by Marshall Cavendish Cuisine features the recipes that she has inherited, collected, tweaked or experimented with over more than half a century. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 641.5959 LEE and SING 641.5959 LEE). It also retails at major bookshops in Singapore.|
+|Lee Geok Boi’s newly published cookbook, *In a Straits-born Kitchen*, by Marshall Cavendish Cuisine features the recipes that she has inherited, collected, tweaked or experimented with over more than half a century. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 641.5959 LEE and SING 641.5959 LEE)](https://eservice.nlb.gov.sg/item_holding.
+aspx?bid=201510067). It also retails at major bookshops in Singapore.|
 
 <div style="background-color: white;">
 <br/>
@@ -120,7 +121,7 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 
 [^3]: Sengupta, J. (2017, August 30). *India’s cultural and civilisational influence on Southeast Asia*. Retrieved from Observer Research Foundation website. 
 
-[^4]: Kwa, C.G., & Kua, B.L. (Eds.). (2019). *[A general history of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868804)*(p. 9). Singapore: Singapore Federation of Chinese Clan Associations and World Scientific. (Call no.: RSING 305.895105957 GEN)
+[^4]: Kwa, C.G., & Kua, B.L. (Eds.). (2019). *[A general history of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868804)* (p. 9). Singapore: Singapore Federation of Chinese Clan Associations and World Scientific. (Call no.: RSING 305.895105957 GEN)
 
 [^5]: North Carolina Soybean Production Association. (2019). *History of soybeans*. Retrieved from NC Soybean Producers Association website.
 
