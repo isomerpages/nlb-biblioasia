@@ -123,11 +123,6 @@ Not only was David Elias “to be congratulated on a well designed block of buil
 Commendable though the D.J. Elias Building may have been, it was, however, but a very small step in the right direction, given the huge housing problems Singapore faced at the time.
 
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol-16-issue-1/Postcards/space.png">
-</div>
-
 |*Swan & Maclaren: A Story of Singapore Architecture* (2020) is published by ORO Editions and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 720.95957 DAV and SING 720.95957 DAV)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827). It retails at major bookshops in Singapore and is also sold online.|
 
 
