@@ -18,6 +18,11 @@ table {
 #### Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan & Maclaren introduced the concept of apartment living in Singapore, as **Julian Davison** tells us.
 
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+</div>
+
 |Established in 1892, Swan & Maclaren (named after Archibald Alexander Swan and James Waddell Boyd Maclaren) is the oldest architectural practice in Singapore. Its architects, such as Regent Alfred John Bidwell, Denis Santry and Frank Lundon, designed many of Singapore’s historic buildings, including Raffles Hotel, Teutonia Club (present-day Goodwood Park Hotel), Chesed-El Synagogue, Stamford House, Victoria Memorial Hall and Theatre, and Tanjong Pagar Railway Terminus. |
 
 |The first 50 years of the firm's history is detailed in Julian Davison’s *Swan & Maclaren: A Story of Singapore Architecture*, published by ORO Editions and the National Archives of Singapore in 2020. In this edited extract from Chapter 30, the author looks at some of the earliest apartment buildings in Singapore built by the firm. Note: Apart from the David Elias Building on Middle Road and the two rows of shophouses next door, all the other apartment blocks mentioned in this essay have been demolished.|
