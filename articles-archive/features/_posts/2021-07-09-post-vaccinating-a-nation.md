@@ -92,18 +92,18 @@ In the 1970s, hepatitis B was a serious public health problem here. It was a dis
 
 The association between hepatitis B and primary liver cancer fuelled a global race to produce the vaccine on a commercial scale. The Singapore government was also interested in the commercial production of the hepatitis B vaccine as the biotechnology industry was seen as an economically viable new sector. Unfortunately, Singapore’s vaccine production plan was eventually scrapped because the projected returns did not justify the $20 million investment required for the project.
 
-Although the scheme to produce the hepatitis B vaccine in Singapore was derailed, the fight against hepatitis did not stop. In 1983, 600 medical staff from the Ministry of Health and the National University of Singapore became the first to receive the hepatitis B vaccine. Due to the high cost, the vaccination programme targeted selected population groups who were at higher risk of acquiring the disease, such as babies of infected mothers, healthcare workers and national servicemen.[^45]
+Although the scheme to produce the hepatitis B vaccine in Singapore was derailed, the fight against hepatitis did not stop. In 1983, 600 medical staff from the Health Ministry and the National University of Singapore became the first to receive the hepatitis B vaccine. Due to the high cost, the vaccination programme targeted selected population groups who were at higher risk of acquiring the disease, such as babies of infected mothers, healthcare workers and national servicemen.[^45]
 
 On 1 September 1987, a vaccination-at-birth service was rolled out to inoculate all newborns in Singapore at a reduced fee. There were 140,000 hepatitis B carriers in Singapore at the time, and the government wanted to ensure that the disease would not spread to the rest of the population. Singapore was also one of the few countries in the world to make the hepatitis B vaccination available to all newborns.[^46]
 
-By 2000, more than 90 percent of infants had received the hepatitis B vaccination. While this age group was well protected against the disease, about half of Singapore’s adult population had no immunity against the virus. In 2001, MOH launched a four-year hepatitis B immunisation programme for students in secondary schools, junior colleges, centralised institutes, the institutes of technical education, polytechnics and universities.[^47]
+By 2000, more than 90 percent of infants had received the hepatitis B vaccination. While this age group was well protected against the disease, about half of Singapore’s adult population had no immunity against the virus. In 2001, the Health Ministry launched a four-year hepatitis B immunisation programme for students in secondary schools, junior colleges, centralised institutes, the institutes of technical education, polytechnics and universities.[^47]
 
 Since the introduction of this programme in Singapore, the annual incidence of acute hepatitis B infection has declined from eight cases per 100,000 population in 1987 to 3.6 per 100,000 population in 2000. The nation’s research findings and experience in implementing a national hepatitis B vaccination programme were shared internationally. In 2001, WHO also endorsed the long-term safety and efficacy of the hepatitis B vaccine and recommended that it be implemented in all endemic countries and for all newborns.[^48]
 
 #### **Vaccinating Against Covid-19**
 As Singapore and the world struggle to contain the spread of Covid-19, vaccination has emerged as a key weapon in the fight.
 
-Singapore has already begun vaccinating its population, having approved the emergency use of vaccines by Pfizer-BioNTech and Moderna. Vaccinations began in December 2020 and as at 21 June 2021, close to 2.1 million people have been fully vaccinated while around 3 million have received at least one dose.[^49]
+Singapore has already begun vaccinating its population, having approved the emergency use of vaccines by Pfizer-BioNTech and Moderna. Vaccinations began in December 2020 and as at 17 July 2021, close to 2.7 million people have been fully vaccinated while around 4.1 million have received at least one dose.[^49]
 
 On 31 May 2021, the government announced that vaccines which have been approved for emergency use by WHO against Covid-19 could also be used in Singapore. At the moment, the list includes the vaccines by Johnson & Johnson, Sinovac and Oxford-AstraZeneca. This move will increase the pool of vaccines available for use here.[^50]
 
@@ -161,7 +161,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^21]: [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561119-1.2.100), 19 Nov 1956, p. 7; [BCG vaccine for new-born babies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561201-1.2.65). (1956, December 1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^22]: Chew & Hu, Dec 1974, p. 241.
+[^22]: Chew, C.H., & Hu, P.Y. (1974, December). BCG programme in the Republic of Singapore. *Singapore Medical Journal, 15* (4), 241–245, p. 241. Retrieved from Singapore Medical Association website.
 
 [^23]: [Just one anti-TB jab from now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010628-1.2.29.3.1). (2001, June 28). *The Straits Times*, p. 21; [One TB jab at birth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20010628-1.2.8.3). (2001, June 28). *The New Paper*, p. 6. Retrieved from NewspaperSG.
 
@@ -205,7 +205,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^43]: *Baruch Blumberg: Facts*. (n.d.). Retrieved from Nobel Prize Organisation website; [Liver cancer virus can be curbed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770928-1.2.25). (1979, September 28). *New Nation*, p. 5; [Vaccine for cancer?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800929-1.2.50) (1980, September 29). *New Nation*, p. 11. Retrieved from NewspaperSG.
 
-[^44]: [Hepatitis – the ‘silent killer’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840910-2.2.21.1). (1984, September 10). *Singapore Monitor*, p. 1; Chua, I. (1985, May 29). [The fight against hepatitis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850529-1.2.80.2.5). *The Straits Times*, p. 3; Ngoo, I. (1979, October 21). [S’pore is worst in the world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791021-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^44]: [Hepatitis – the ‘silent killer’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840910-2.2.21.1). (1984, September 10). *Singapore Monitor*, p. 13; Chua, I. (1985, May 29). [The fight against hepatitis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850529-1.2.80.2.5). *The Straits Times*, p. 3; Ngoo, I. (1979, October 21). [S’pore is worst in the world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791021-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 [^45]: [An all-out war on hepatitis B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830803-1.2.2). (1983, August 3). *The Straits Times*, p. 1; Lim, J. (1983, August 3). [Plan for mass immunisation against hepatitis B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19830803-1.2.9). *The Business Times*, p. 1; Wong, K.L. (1985, October 29). No mass vaccination against hepatitis B. *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
@@ -213,9 +213,9 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^47]: Ministry of Information, Communications and the Arts. (2000, October 21). *[Speech by Mr Chan Soo Sen, parliamentary secretary (Prime Minister’s Office & Ministry of Health), at the international hepatitis B awareness weekend opening ceremony on Saturday, 21 Oct 2000 at Great world city](https://www.nas.gov.sg/archivesonline/speeches/record-details/74736ef4-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
-[^48]: Tan, K. (2001, November 8).[ Benefits of vaccine outweigh risks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011108-1.2.27.2). *The Straits Times*, p. 18; Oon, C.J. (2009, November 7). [Hepatitis vaccination: It began in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20091107-1.2.114.2.4). *The Straits Times*, p. 107; Oon, C.J., & Kwek, K. (2011). *[A cancer vaccine that transformed Singapore and the world: The battle against hepatitis B](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13707653)* (pp. 8, 54). Singapore: Straits Times Press Reference. (Call no.: RSING 614.593623 OON); World Health Organization. (2001). *Hepatitis B immunization: Introducing hepatitis B vaccine into national immunization services*. Retrieved from World Health Organization IRIS website.
+[^48]: Tan, K. (2001, November 8).[ Benefits of vaccine outweigh risks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011108-1.2.27.2). *The Straits Times*, p. 18; Oon, C.J. (2009, November 7). [Hepatitis vaccination: It began in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20091107-1.2.114.2.4). *The Straits Times*, p. 106; Oon, C.J., & Kwek, K. (2011). *[A cancer vaccine that transformed Singapore and the world: The battle against hepatitis B](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13707653)* (pp. 8, 54). Singapore: Straits Times Press Reference. (Call no.: RSING 614.593623 OON); World Health Organization. (2001). *Hepatitis B immunization: Introducing hepatitis B vaccine into national immunization services*. Retrieved from World Health Organization IRIS website.
 
-[^49]: Ministry of Health Singapore. (2021, June 21). *Vaccination data*. Retrieved from Ministry of Health website.
+[^49]: Ministry of Health Singapore. (2021, July 17). *Vaccination data*. Retrieved from Ministry of Health website.
 
 [^50]: Chew, H.M. (2021, May 31). People who want alternative Covid-19 vaccines can get them under special access route. *CNA*. Retrieved from CNA website.
 
