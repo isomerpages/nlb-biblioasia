@@ -1,9 +1,10 @@
 ---
 title: "Mansion Blocks, Flats and Tenements: The Advent of Apartment Living"
 date: 2021-07-03
-permalink: /articles-archive/features/swanandmaclaren
+permalink: /vol-17/issue-2/jul-sep-2021/swanandmaclaren
 layout: post
 ---
+
 <style>
 table { 
 	background-color: #f7eddb;
