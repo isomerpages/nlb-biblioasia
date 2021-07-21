@@ -44,7 +44,7 @@ Bill had originally planned to return home to Britain for a visit shortly after 
 
 The three murals were rendered in different colour schemes and designs. My father’s mural used red and orange Smalti glass pieces as the backdrop. To make the dancers more prominent, he designed them out of thin iron strips, in a dark colour. The figures were then affixed to the tiles so that they protruded slightly.
 
-It was not an easy task assembling my father’s mural. He recalls going to a shipyard in Tanjong Rhu to supervise the Chinese workers who were bending the iron to create the figures of the dancers, and one of them telling him “Wah! Lu punya banyak susah!”, [“Wah! Your (design) is so difficult!”].
+It was not an easy task assembling my father’s mural. He recalls going to a shipyard in Tanjong Rhu to supervise the Chinese workers who were bending the iron to create the figures of the dancers, and one of them telling him “Wah! Lu punya banyak susah!” [“Wah! Your (design) is so difficult!”].
 
 My father’s mural depicts four types of Malaysian dance forms – represented by a pair of Indian dancers, a pair of Chinese *wayang* (opera) dancers, a traditional dancer from Sarawak and a pair of *mak yong* dancers from the state of Kelantan. (*mak yong* is a traditional form of dance-drama prevalent in the area.)
 
