@@ -1,9 +1,10 @@
 ---
 title: The Forgotten Murals of Paya Lebar Airport
 date: 2021-07-10
-permalink: /articles-archive/features/murals
+permalink: /vol-17/issue-2/jul-sep-2021/murals
 layout: post
 ---
+
 #### Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. **Dahlia Shamsuddin** has the inside story of how they came to be.
 
 Before Changi Airport, there was Paya Lebar Airport. Opened in 1955, Paya Lebar Airport was Singapore’s gateway to the world and one of the most modern airports of its time. However, as Singapore grew in importance as an air hub and a destination in its own right, further expansion was necessary to cope with the increasing number of passengers using the airport. In November 1962, work began on a new International Passenger Terminal Building. It was completed in April 1964 at a cost of $3.5 million.
