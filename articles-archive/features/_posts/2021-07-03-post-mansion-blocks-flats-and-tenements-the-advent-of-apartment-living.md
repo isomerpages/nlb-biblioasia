@@ -4,7 +4,6 @@ date: 2021-07-03
 permalink: /vol-17/issue-2/jul-sep-2021/swanandmaclaren
 layout: post
 ---
-
 <style>
 table { 
 	background-color: #f7eddb;
