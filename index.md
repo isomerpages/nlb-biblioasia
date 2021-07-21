@@ -34,12 +34,12 @@ sections:
       image: /images/vol-17-issue-2/vaccination/highlights.jpg
       alt: sample of vaccination
   - infopic:
-      title: Nature Conservation in Singapore
+      title: How the Jurong Bird Park Came To Be
       subtitle: Highlights
       description: Over the last two centuries, the balance between biodiversity
         conservation and development has evolved, says Ang Seow Leng.
       button: Read this article
-      url: /vol-17/issue-1/apr-jun-2021/nature
+      url: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
       image: /images/Vol-17-issue-1/nature/pangolin.jpg
-      alt: sample of pangolin
+      alt: sample of JBP
 ---
