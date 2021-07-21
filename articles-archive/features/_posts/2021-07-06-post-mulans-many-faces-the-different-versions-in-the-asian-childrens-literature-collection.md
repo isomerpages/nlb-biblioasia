@@ -126,7 +126,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 </div>
 
-|*Stories from Asia: The Asian Children’s Literature Collectio*n presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.|
+|*Stories from Asia: The Asian Children’s Literature Collection* presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.|
 
 |The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 809.89282 STO and SING 809.89282 STO) as well as for digital loan at nlb.overdrive.com.|
 
@@ -142,7 +142,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 <b>Michelle Heng</b> is a Librarian with the National Library, Singapore. She has curated a tribute showcase, “Edwin Thumboo – Time-travelling: A Poetry Exhibition” in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> (2012) as well as the <i>Selected Poems of Goh Poh Seng</i> (2013).
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
 #### **NOTES**
