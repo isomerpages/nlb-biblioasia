@@ -1,9 +1,10 @@
 ---
 title: "Malay-Muslim Weddings: Keeping Up with the Times"
 date: 2021-07-08
-permalink: /articles-archive/features/malay-weddings
+permalink: /vol-17/issue-2/jul-sep-2021/malay-weddings
 layout: post
 ---
+
 <style>
 table { 
 	background-color: #e5ebf6;
