@@ -30,9 +30,18 @@ It was also difficult to obtain fresh vaccine lymph or material when the supply 
 
 In 1863, when the incidence of smallpox increased again, the government was urged to take tougher measures, including making vaccination compulsory by law, following in the footsteps of the Dutch who had successfully introduced compulsory vaccination in the Dutch East Indies (present-day Indonesia).[^9]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Waitingvaccinated.jpg)
+<div style="background-color: white;">People waiting to be vaccinated against smallpox outside the health centre on Outram Road in April 1959. After four cases of smallpox were discovered in Kampong Alexandra in 1959, government and city health authorities decided on an island-wide vaccination as a precaution. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission</i>. </div>
+
 Stricter public health control measures were finally introduced after the Straits Settlements became a Crown Colony in 1867. The Quarantine Ordinance was passed by the Legislative Council in June 1868, followed by An Ordinance to Extend and Make Compulsory the Practice of Vaccination, which came into effect on 1 May 1869.[^10]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Notice.jpg)
+<div style="background-color: white;">A vaccination notice issued by the Registrar of Births and Deaths dated 13 October 1935. The notice was issued to the parents of a newborn, informing them to have the baby vaccinated within six months of birth pursuant to the provisions and directions of the Quarantine and Prevention of Diseases Ordinance, failing which there would be a penalty of $10. Vaccination was provided free-of-charge at Infant Welfare Clinics listed in the notice. <i>Collection of the National Library, Singapore. (Accession no.: B18978036I)</i>.</div>
+
 The latter legislation led to the Ordinance for Registration of Births and Deaths of 1868. This was a necessary move to keep track of the number of children who were being vaccinated as well as the overall death rate in the population. It would also allow the authorities to study the causes of death and gauge the success of the islandwide vaccination programme.[^11] In addition, the Registrar of Births and Deaths was also responsible for notifying all parents to vaccinate their newborn babies.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Certificate.jpg)
+<div style="background-color: white;">An International Certificate of Inoculation and Vaccination issued by the Singapore Port Health Office on 3 March 1947, certifying that the holder of this certificate had been vaccinated against smallpox and cholera. The certificate was established by the International Sanitary Convention for Aerial Navigation (1933) in The Hague, which came into force on 1 August 1935. <i>Image reproduced from Singapore: Certificates, Registration Cards, and Immigration Department Letters, 1947–1961. Donated by Family of the late Mr Koh Chin Ghee and Mdm Ham Wee Lun. Collection of the National Library, Singapore. (Accession no.: B32441602K)</i>.</div>
 
 Smallpox continued to be a problem in Singapore up until the 1950s. After WHO declared the virus eradicated, Singapore amended the legislation so that smallpox vaccination would no longer be required by law from March 1982.[^12]
 
