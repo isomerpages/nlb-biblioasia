@@ -24,8 +24,8 @@ In this issue’s cover story, we shine the spotlight on three murals that were 
 
 [Urang Banjar: From South Kalimantan to Singapore](/vol-17/issue-2/jul-sep-2021/diamondtrail)<br>*Zinnurain Nasir* and *Nasri Shah* shed light on the Banjar people in Singapore.
 
-[Mansion Blocks, Flats and Tenements: The Advent of Apartment Living](/vol-17/issue-2/jul-sep-2021/murals)<br>Through buildings like Amber Mansions and Eu Court, Swan & Maclaren helped to introduce the concept of apartment living in Singapore, says *Julian Davison*.
+[Mansion Blocks, Flats and Tenements: The Advent of Apartment Living](/vol-17/issue-2/jul-sep-2021/swanandmaclaren)<br>Through buildings like Amber Mansions and Eu Court, Swan & Maclaren helped to introduce the concept of apartment living in Singapore, says *Julian Davison*.
 
-[How Jurong Bird Park was Hatched](/vol-17/issue-2/jul-sep-2021/murals)<br>*Zoe Yeo* gives a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
+[How Jurong Bird Park was Hatched](/vol-17/issue-2/jul-sep-2021/jurong-bird-park)<br>*Zoe Yeo* gives a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
 
-[Chinese Graphic Artists in Pre-war Singapore](/vol-17/issue-2/jul-sep-2021/murals)<br>Several talented graphic artists moved from China to Singapore from the 1920s. *Lee Chor Lin* highlights these artists and their works.
+[Chinese Graphic Artists in Pre-war Singapore](/vol-17/issue-2/jul-sep-2021/chinese-graphic-artists)<br>Several talented graphic artists moved from China to Singapore from the 1920s. *Lee Chor Lin* highlights these artists and their works.
