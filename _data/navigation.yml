@@ -1,14 +1,7 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/Vol-17-issue-1/logo.jpg
-
 links:
   - title: In This Issue
-    url: /vol-17/issue-1/apr-jun-2021/
+    url: /vol-17/issue-2/jul-sep-2021/
   - title: Articles Archive
     resource_room: true
   - title: All Issues
