@@ -80,7 +80,8 @@ Bill said he was hopeful that at least one of his designs would clinch a prize a
 
 My father, on his part, has one wish: that his mural be reconstructed one day.
 
-Given that two of the murals have been lost, it is my hope that the remaining one – Bill’s skyline of Singapore – will be preserved. These murals captured my father’s and Bill’s experience of living and working in Singapore in the early 1960s. The murals also reflected their aspirations for a new, multiracial and independent country. Even after Singapore gained independence in 1965, the underlying message encapsulated in the murals – multiculturalism, development and progress – remained, and continues to remain significant today.
+Given that two of the murals have been lost, it is my hope that the remaining one – Bill’s skyline of Singapore – will be preserved. These murals captured my father’s and Bill’s experience of living and working in Singapore in the early 1960s. The murals also reflected their aspirations for a new, multiracial and independent country. Even after Singapore gained independence in 1965, the underlying message encapsulated in the murals – multiculturalism, development and progress – remains
+significant today.
 
 <div style="background-color: white;">
 <br/>
@@ -98,9 +99,10 @@ Given that two of the murals have been lost, it is my hope that the remaining on
 
 [^3]: This essay on the Paya Lebar Airport murals is based on a series of conversations with my father and William Mundy (Bill). The chats were conducted between 2009 and 2016 in Singapore. I also interviewed Bill via email in 2016. My father and Bill have maintained their friendship all these years. Bill is 84 years old and lives in Britain where he is a successful artist. My 88-year-old father worked for local and international advertising agencies in Singapore and he designed the original logos for Mendaki and the old Changi Hospital, the updated logo for the Singapore Heritage Society, and the original book covers for Alex Josey’s *Lee Kuan Yew* (first published in 1971), Donald and Joanna Moore’s *[The First 150 Years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081611)* (first published in 1969), and Mahathir Mohamad’s *[The Malay Dilemma](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6268241)* (first published in 1970).
 
-[^4]: Zhuang, J. (2012). *[Independence: The history of graphic design in Singapore since the 1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14331232)* (p. 76). Singapore: The Design Society. (Call no.: RSING 741.6095957 ZHU); [Bahasa jiwa bangsa](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640831-1.2.134.36). (1964, August 13). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
+[^4]: Zhuang, J. (2012). *[Independence: The history of graphic design in Singapore since the 1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14331232)* (p. 76). Singapore: The Design Society. (Call no.: RSING 741.6095957 ZHU); [Bahasa jiwa bangsa](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640831-1.2.134.36). (1964, August 31). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
-[^5]: [Selegie House – how flats are rented out](https://safe.menlosecurity.com/https:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630531-1.2.129). (1963, May 31). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^5]: [Selegie House – how flats are rented out](https://eresources.nlb.gov.sg/newspapers/
+Digitised/Article/straitstimes19630531-1.2.129). (1963, May 31). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
 [^6]: Email correspondence with Bill Mundy, 2016 and 2021.
 
