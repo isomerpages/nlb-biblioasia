@@ -10,9 +10,9 @@ sections:
   - hero:
       background: /images/Vol-17-issue-1/main-banner.jpg
       key_highlights:
-        - title: Read BiblioAsia Apr-Jun 2021
+        - title: Read BiblioAsia Jul-Sep 2021
           description: null
-          url: /vol-17/issue-1/apr-jun-2021/
+          url: /vol-17/issue-2/jul-sep-2021/
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
       subtitle: Highlights
