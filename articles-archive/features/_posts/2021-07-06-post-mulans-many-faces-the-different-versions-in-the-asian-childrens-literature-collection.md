@@ -5,7 +5,6 @@ date: 2021-07-06
 permalink: /vol-17/issue-2/jul-sep-2021/mulan-many-faces
 layout: post
 ---
-
 <style>
 table { 
 	background-color: #e5ebf6;
@@ -23,10 +22,9 @@ table {
 
 (Translation: Click, click, click, click, Mulan is at her loom. One could not hear the sound of the loom weaving, but only Mulan’s sigh.”)
 
-These are the opening lines in 《木兰辞》 (*Mulan Ci; The Ballad of Mulan*),[^2] believed to have been composed during the Northern dynasties period (北朝, c. 386–581).[^3]
+These are the opening lines in《木兰辞》(*Mulan Ci; The Ballad of Mulan*),[^2] believed to have been composed during the Northern dynasties period (北朝, c. 386–581).[^3]
 
-Widely accepted as the earliest written version of the story of Mulan (木兰), the 62-line poem tells the inspiring story of a young woman who disguises herself as a man so that she can take her aged father’s place when he is conscripted into the army to fight the Tartars. The ballad was subsequently included in《乐府诗集》(*Yuefu Shiji; Collection of Yuefu Poetry*), an anthology of poetry compiled by Guo Maoqian 
-(郭茂倩) during the Song Dynasty (960–1276).
+Widely accepted as the earliest written version of the story of Mulan (木兰), the 62-line poem tells the inspiring story of a young woman who disguises herself as a man so that she can take her aged father’s place when he is conscripted into the army to fight the Tartars. The ballad was subsequently included in《乐府诗集》(*Yuefu Shiji; Collection of Yuefu Poetry*), an anthology of poetry compiled by Guo Maoqian (郭茂倩) during the Song Dynasty (960–1276).
 
 During the Tang dynasty (618–907), the story was retold as《木兰歌》(*Mulan Ge*; *The Song of Mulan*), a poem written by Wei Yuanfu (韦元甫). Several centuries later, during the Ming dynasty (1368–1644), Xu Wei (徐渭) composed the opera《雌木兰替父从军》(*Cimulan Tifucongjun; Female Mulan Took Her Father’s Place in the Army*). The story was then turned into the novel《北魏奇史闺孝烈传》(*Beiwei Qishi Guixiao Liezhuan; The Legendary Story of a Filial and Heroic Girl from the Northern Wei*) by Zhang Shaoxian (张绍贤) during the Qing dynasty (1644–1912).[^4]
 
@@ -59,9 +57,7 @@ The original line from *The Ballad of Mulan*, “出门看伙伴，伙伴皆惊�
 
 At the end of Zhang’s book, there is a very short section titled “Historical Notes on Mulan” which explains the historical context of Mulan’s life and the development of the story from the early days until the present. It notes that the story (and poem) is a well-known folk tale studied by schoolchildren in China today. Zhang writes that the story continues to inspire Chinese women, and he dedicates the book to “everyone with an interest in ancient Chinese culture and literature”.
 
-In Singapore, the story of Mulan has been rewritten as a Chinese picture book,《花木兰》(*Hua Mulan*), published by Newton Publications. Written by Li Xiang 
-(李想) with illustrations by Zhang He (张禾), it 
-follows the original storyline closely, although the author has added minor new scenes such as Mulan’s father teaching her martial arts.
+In Singapore, the story of Mulan has been rewritten as a Chinese picture book,《花木兰》(*Hua Mulan*), published by Newton Publications. Written by Li Xiang (李想) with illustrations by Zhang He (张禾), it follows the original storyline closely, although the author has added minor new scenes such as Mulan’s father teaching her martial arts.
 
 The picture book was first published in 1998, with a new edition two years later.[^11] The 1998 edition contains the original poem in classical Chinese, a retelling of the story with additional details and a section on the historical context of the ballad. The 2000 edition includes the original poem rendered in simplified Chinese, which the 1998 version does not have.
 
@@ -126,9 +122,18 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 |The ACL Collection aspires to captivate, inform and foster awareness among readers and researchers of Asia’s rich cultural and literary heritage. The books in the collection, which number more than 12,000, are available for reference on Level 9 of the National Library Building.|
 
 <div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+</div>
+
+|*Stories from Asia: The Asian Children’s Literature Collectio*n presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.|
+
+|The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 809.89282 STO and SING 809.89282 STO) as well as for digital loan at nlb.overdrive.com.|
+
+<div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-2/authors/YuMei.png" style="width: 100px; height: 100px;" />
-<b>Goh Yu Mei</b>  is a Librarian at the National Library, Singapore, working with the Chinese Arts and Literary Collection. Her research interest lies in the interaction between society and Chinese literature.
+<b>Goh Yu Mei</b> is a Librarian at the National Library, Singapore, working with the Chinese Arts and Literary Collection. Her research interest lies in the interaction between society and Chinese literature.
 </div>
 
 <div style="background-color: white;">
@@ -171,7 +176,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 [^15]: [San Souci](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8458971), 1998, Author’s note.
 
-[^16]: 永春 [Yong, C.]. (2002).《[花木兰](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12138671)》[*Hua Mu Lan*]. Singapore: 新亚出版社. (Call no.: Chinese RAC C813.4 YC); Wang, Z. (2020, July). Cultural “authenticity” as a conflict-ridden hypotext: Mulan (1998), Mulan joins the army (1939) and a millennium-long intertextual metamorphosis. *Arts, 9* (3), 78. Retrieved from MDPI website. 
+[^16]: 永春 [Yong, C.]. (2002).《[花木兰](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12138671)》[*Hua Mulan*]. Singapore: 新亚出版社. (Call no.: Chinese RAC C813.4 YC); Wang, Z. (2020, July). Cultural “authenticity” as a conflict-ridden hypotext: Mulan (1998), Mulan Joins The Army (1939) and a millennium-long intertextual metamorphosis. *Arts, 9* (3), 78. Retrieved from MDPI website. 
 
 [^17]: Li, J. (2014). *[Mulan: A story in English and Chinese](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201262042)*. New York: Better Link Press. (Call no.: RAC 398.2 JIA-[ACL])
 
@@ -179,9 +184,11 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 [^19]: [Li](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201262042), 2014, back cover.
 
-[^20]: 雅瑟 & 苏阳 [Ya, S., & Su, Y.]. (2012).《中华句源: 品味文化精髓, 感受传世经典》[*Zhonghua ju yuan*] (p. 202). Beijing: Beijing Book Co. Inc. (Call no.: Chinese 810.07 YS); Lee, C.Y. (2004). Emperor Chengzu and imperial filial piety of the Ming dynasty: From the Classic of Filial Piety to the Biographical Accounts of Filial Piety. In Chan, A.K.L. Chan & S.-H. Tan (Eds.). (2004). *[Filial piety in Chinese thought and history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12359873)* (pp. 144–151). London: RoutledgeCurzon (Call no.: R 173 FIL)
+[^20]: 雅瑟 & 苏阳 [Ya, S., & Su, Y.]. (2012).《中华句源: 品味文化精髓, 感受传世经典》[*Zhonghua juyuan: Pinwei wenhua jingsui, ganshou chuanshi jingdian*] (p. 202). Beijing: Beijing Book Co. Inc. (Call no.: Chinese 810.07 YS); Lee, C.Y. (2004). Emperor Chengzu and imperial filial piety of the Ming dynasty:
+From the classic of filial piety to the biographical accounts of filial piety. In A.K.L. Chan & S.-H. Tan (Eds.). (2004). *[Filial piety in Chinese thought and history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12359873)* (pp. 144–151). London: RoutledgeCurzon. (Call no.: R 173 FIL)
 
-[^21]: Ebrey, P.B. (1996). *[The Cambridge illustrated history of China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7598979)* (pp. 70–72). Cambridge; New York: Cambridge University Press. (Call no.: R 951 EBR)
+
+[^21]: [Ebrey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7598979), 1996, pp. 70–72.
 
 [^22]: Wong, R. (2016). Introduction: The power of stories (pp. 11–15). In *[Stories from Asia: The Asian Children’s Literature Collection](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067)*. Singapore: National Library Board. (Call no.: R 809.89282)
 
@@ -205,7 +212,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 [^32]: *[Stories from Asia: The Asian children’s literature collection](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067)*, 2016, pp. 132–133.
 
-[^33]: *[蟠桃八仙會 = Pang tao (Flat peaches), Eidht [i.e. Eight] Fairies Festival, a festival held on the 3d [i.e. 3rd day] of the 3d [i.e. 3rd] lunar month in honor of the Goddess Hsi Wang mu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13697984)*. c. 1900–1950). China: [s.n.]. (Call no.: RCLOS 398.0951 PAN)
+[^33]: *[蟠桃八仙會 = Pang tao (Flat peaches), Eidht [i.e. Eight] Fairies Festival, a festival held on the 3d [i.e. 3rd day] of the 3d [i.e. 3rd] lunar month in honor of the Goddess Hsi Wang mu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13697984)*. (c. 1900–1950). China: [s.n.]. (Call no.: RCLOS 398.0951 PAN)
 
 [^34]: *[Stories from Asia: The Asian children’s literature collection](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067)*, 2016, pp. 142–143.
 
