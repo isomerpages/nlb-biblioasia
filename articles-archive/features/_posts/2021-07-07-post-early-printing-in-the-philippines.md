@@ -1,9 +1,10 @@
 ---
 title: Early Printing in the Philippines
 date: 2021-07-07
-permalink: /articles-archive/features/early-printing
+permalink: /vol-17/issue-2/jul-sep-2021/early-printing
 layout: post
 ---
+
 <style>
 table { 
 	background-color: #e5ebf6;
