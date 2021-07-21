@@ -1,9 +1,10 @@
 ---
 title: "The Evolution of Straits-born Cuisine "
 date: 2021-07-05
-permalink: /articles-archive/features/straitsborncuisine
+permalink: /vol-17/issue-2/jul-sep-2021/straitsborncuisine
 layout: post
 ---
+
 <style>
 table { 
 	background-color: #e5ebf6;
