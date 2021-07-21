@@ -1,9 +1,10 @@
 ---
 title: A Diamond Trail Across the East
 date: 2021-07-04
-permalink: /articles-archive/features/diamondtrail
+permalink: /vol-17/issue-2/jul-sep-2021/diamondtrail
 layout: post
 ---
+
 <style>
 table { 
 	background-color: #e5ebf6;
