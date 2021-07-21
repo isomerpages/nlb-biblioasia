@@ -1,9 +1,10 @@
 ---
 title: Chinese Graphic Artists in Pre-war Singapore
 date: 2021-07-01
-permalink: /articles-archive/features/chinese-graphic-artists
+permalink: /vol-17/issue-2/jul-sep-2021/chinese-artists
 layout: post
 ---
+
 #### Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. **Lee Chor Lin** highlights their works.
 
 As Singapore became one of the most dynamic global cities during the first half of the 20th century, it began to attract new migrants due to the myriad opportunities and lifestyles offered by a modern and booming metropolis. By the late 1920s, established and novice artists from China began converging in Singapore due to the job opportunities as well as the instability back home caused by natural disasters, incessant civil wars and Japanese aggression. As a result, in the years leading up to the fall of Singapore in February 1942, the art scene here was thriving and new styles of art were being created.1
