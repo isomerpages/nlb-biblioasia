@@ -4,7 +4,6 @@ date: 2021-07-08
 permalink: /vol-17/issue-2/jul-sep-2021/malay-weddings
 layout: post
 ---
-
 <style>
 table { 
 	background-color: #e5ebf6;
@@ -175,7 +174,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 	<b>Asrina Tanuri</b> is a Manager (Research) with the National Library, Singapore, where she provides information services to government agencies. Her research areas include community safety and security, and adult learning.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
 #### NOTES
