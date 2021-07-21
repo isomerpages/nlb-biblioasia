@@ -4,8 +4,6 @@ date: 2021-07-10
 permalink: /articles-archive/features/murals
 layout: post
 ---
-
-
 #### Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. **Dahlia Shamsuddin** has the inside story of how they came to be.
 
 Before Changi Airport, there was Paya Lebar Airport. Opened in 1955, Paya Lebar Airport was Singapore’s gateway to the world and one of the most modern airports of its time. However, as Singapore grew in importance as an air hub and a destination in its own right, further expansion was necessary to cope with the increasing number of passengers using the airport. In November 1962, work began on a new International Passenger Terminal Building. It was completed in April 1964 at a cost of $3.5 million.
@@ -48,9 +46,9 @@ The three murals were rendered in different colour schemes and designs. My fathe
 
 It was not an easy task assembling my father’s mural. He recalls going to a shipyard in Tanjong Rhu to supervise the Chinese workers who were bending the iron to create the figures of the dancers, and one of them telling him “Wah! Lu punya banyak susah!”, [“Wah! Your (design) is so difficult!”].
 
-My father’s mural depicts four types of Malaysian dance forms – represented by a pair of Indian dancers, a pair of Chinese *wayang* (opera) dancers, a traditional dancer from Sarawak and a pair of Mak Yong dancers from the state of Kelantan. (Mak Yong is a traditional form of dance-drama prevalent in the area.)
+My father’s mural depicts four types of Malaysian dance forms – represented by a pair of Indian dancers, a pair of Chinese *wayang* (opera) dancers, a traditional dancer from Sarawak and a pair of *mak yong* dancers from the state of Kelantan. (*mak yong* is a traditional form of dance-drama prevalent in the area.)
 
-My family has a personal connection to Kelantan as my father’s eldest sister had moved to the state with her husband in the mid-1940s, after the war. Over the years, my father would regularly visit my aunt up north. So the Mak Yong dancers were probably inspired by this link 
+My family has a personal connection to Kelantan as my father’s eldest sister had moved to the state with her husband in the mid-1940s, after the war. Over the years, my father would regularly visit my aunt up north. So the *mak yong* dancers were probably inspired by this link 
 with Kelantan.
 
 Bill’s mural of Singapore at night depicts the financial district in 1962 from the vantage point of the Singapore River. Blue, purple and green were the predominant colours. The mural shows landmarks such as the General Post Office Building (present-day Fullerton Hotel) and the Asia Insurance Building (now known as the Ascott Raffles Place) among other structures. Bill chose this scene because it was iconic, he told me. 
