@@ -4,7 +4,6 @@ date: 2021-07-07
 permalink: /vol-17/issue-2/jul-sep-2021/early-printing
 layout: post
 ---
-
 <style>
 table { 
 	background-color: #e5ebf6;
@@ -105,7 +104,7 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Kornicki, P.F. (2018). *Languages, scripts, and Chinese texts in East Asia* (p. 117). Oxford: Oxford University Press. (Not available in NLB holdings)
@@ -127,7 +126,6 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 [^9]: [Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Wolf, 1947; Van der Loon, P. (1966–67). *The Manila incunabula and early Hokkien studies* (pp. 1–25) London: P. Lund, Humphries. Retrieved from Institute of History and Philology, Academia Sinica website.
 
  [^10]: Van der Loon, 1966–67, p. 6
- 
  
 [^11]: [Quirino](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4085587), 1973, pp. iii–xi; Menegon, E. (2009). *[Ancestors, virgins, & friars: Christianity as a local religion in late Imperial China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13661140)* (p. 52). Cambridge, Mass.: Harvard University Asia Center for the Harvard-Yenching Institute. (Call no.: R 275.1245 MEN); Chan, A. (1989). A note on the *Shih-lu* of Juan Cobo. *Philippines Studies, 37* (4), 479–487. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Van der Loon, 1966–1967, p. 4
 
