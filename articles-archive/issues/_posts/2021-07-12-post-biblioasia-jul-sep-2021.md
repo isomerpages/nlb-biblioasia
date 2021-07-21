@@ -4,7 +4,6 @@ date: 2021-07-12
 permalink: /vol-17/issue-2/jul-sep-2021/
 layout: post
 ---
-
 <img src="/images/Vol-17-issue-2/cover.jpg">
 
 In this issue’s cover story, we shine the spotlight on three murals that were once showpieces at the former Paya Lebar Airport. Two of the three artworks have already been lost. Is there hope for the last one?
@@ -29,4 +28,4 @@ In this issue’s cover story, we shine the spotlight on three murals that were 
 
 [How Jurong Bird Park was Hatched](/vol-17/issue-2/jul-sep-2021/jurong-bird-park)<br>*Zoe Yeo* gives a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
 
-[Chinese Graphic Artists in Pre-war Singapore](/vol-17/issue-2/jul-sep-2021/chinese-graphic-artists)<br>Several talented graphic artists moved from China to Singapore from the 1920s. *Lee Chor Lin* highlights these artists and their works.
+[Chinese Graphic Artists in Pre-war Singapore](/vol-17/issue-2/jul-sep-2021/chinese-artists)<br>Several talented graphic artists moved from China to Singapore from the 1920s. *Lee Chor Lin* highlights these artists and their works.
