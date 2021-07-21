@@ -4,7 +4,6 @@ date: 2021-07-04
 permalink: /vol-17/issue-2/jul-sep-2021/diamondtrail
 layout: post
 ---
-
 <style>
 table { 
 	background-color: #e5ebf6;
@@ -49,7 +48,7 @@ The Banjar people also regarded Landak as a safe haven since the Sultanate of La
 
 Perak, on the western coast of the Malay Peninsula, was another destination for the Banjar people.[^7] The state had fertile land similar to the area surrounding the Barito River in South Kalimantan. The flooding that occurred around this river in the late 1880s prompted a mass movement of the Banjar people to Krian (Kerian) in the northwestern corner of Perak. 
 
-These migratory and settlement patterns would be replicated when the Urang Banjar to Singapore. In 1824, the Dutch colonial government re-established Banjarmasin as a free port, which meant that cargo ships could ply routes to non-Dutch-controlled ports, including Singapore.[^8] Trade between both cities primarily consisted of textiles, including muslins, gurrahs and blatchu cloth, among others.[^9]
+These migratory and settlement patterns would be replicated when the Urang Banjar migrated to Singapore. In 1824, the Dutch colonial government re-established Banjarmasin as a free port, which meant that cargo ships could ply routes to non-Dutch-controlled ports, including Singapore.[^8] Trade between both cities primarily consisted of textiles, including muslins, gurrahs and blatchu cloth, among others.[^9]
 
 Some of the earliest documented Banjar merchants emigrated to Singapore from the mid-19th century onwards, including Haji Mahmood bin Abdul Rahim and Haji Osman bin Haji Abu Naim, who became successful diamond traders and prominent members of the local Banjar community. Haji Mahmood owned a large house spanning Lorongs 18 and 20 Geylang, one of several abodes reserved for his extended family of three wives and 18 children.[^10] 
 
@@ -154,7 +153,7 @@ While estimates are not available, the number of people who identify as being Ur
 [^11]: [Steamer sailings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19071002-1.2.15.3). (1907, October 2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 
-[^12]: Karim Iskandar. (2011, February 16). [Kisah amuk di Kg Intan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20110216-1.2.21.4). *Berita Harian*, p. 11. Retrieved from NewspaperSG; Rossman Ithnain. (2014, July/August). Popular Malay jewellery in the 1950s and 1960s. *Passage*. Retrieved from Singapura Stories website. [Note: The location of the former Diamond Kampong has also been suggested to be at the site now occupied by Raffles Hospital. See Imran Tajudeen. (2005). Reading the traditional maritime city in Southeast Asia: Reconstructing the 19th century port town at Gelam-Rochor-Kallang, Singapore. [*Journal of Southeast Asian Architecture, 8,*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7915685) pp. 1–25. (Call no.: RSING q720.95 JSAA)]
+[^12]: Karim Iskandar. (2011, February 16). [Kisah amuk di Kg Intan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20110216-1.2.21.4). *Berita Harian*, p. 11. Retrieved from NewspaperSG; Rossman Ithnain. (2014, July/August). Popular Malay jewellery in the 1950s and 1960s. *Passage*. Retrieved from Singapura Stories website. Note: The location of the former Diamond Kampong has also been suggested to be at the site now occupied by Raffles Hospital. See Imran Tajudeen. (2005). Reading the traditional maritime city in Southeast Asia: Reconstructing the 19th century port town at Gelam-Rochor-Kallang, Singapore. *[Journal of Southeast Asian Architecture,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7915685) 8*, pp. 1–25. (Call no.: RSING q720.95 JSAA)
 
 [^13]: National Heritage Board. (2021, March 16). *Urang Banjar: Heritage and culture of the Banjar in Singapore*. Retrieved from Roots website.
 
