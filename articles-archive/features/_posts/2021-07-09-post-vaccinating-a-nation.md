@@ -6,7 +6,8 @@ layout: post
 ---
 #### The history of vaccination in Singapore goes back to the days of William Farquhar. **Ong Eng Chuan** provides an overview of vaccination efforts to prevent epidemics from breaking out here.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Vaccination.jpg)<div style="background-color: white;">A child receiving a spoonful of the oral Sabin vaccine at the Lim Ah Pin Road Clinic during a polio epidemic, 1958. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Vaccination.jpg)
+<div style="background-color: white;">A child receiving a spoonful of the oral Sabin vaccine at the Lim Ah Pin Road Clinic during a polio epidemic, 1958. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The ongoing Covid-19 pandemic has cast vaccination into the spotlight in the fight against the disease and to reduce its spread. Vaccination is not a new phenomenon in Singapore though. Most children here are routinely vaccinated against diseases such as measles and mumps.
 
