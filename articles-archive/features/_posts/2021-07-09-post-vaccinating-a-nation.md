@@ -56,6 +56,9 @@ The first large-scale BCG vaccination in Singapore was not carried out by govern
 
 While government health officials were still reviewing the BCG vaccine, SATA, under its first medical director, G.H. Garlick, believed that providing children with protection against TB was an urgent task that could not wait.[^17]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Sata.jpg)
+<div style="background-color: white;">A campaign brochure in Chinese by the Singapore Anti-Tuberculosis Association (SATA) promoting the use of SATA’s mobile X-ray vans to screen for tuberculosis, c. 1950s–60s. <i>Collection of National Museum of Singapore, National Heritage Board. Courtesy of SATA CommHealth.</i>.</div>
+
 After obtaining a small consignment of the BCG vaccine from the Pasteur Institute in Paris, SATA launched its immunisation programme on 28 June 1949 by vaccinating 21 children.[^18] As new consignments of the vaccine began to arrive more regularly, SATA ramped up its vaccination drive.[^19]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/NurseandKids.jpg)
@@ -89,6 +92,9 @@ Another infectious and potentially dangerous disease is diphtheria which is caus
 
 However, the response to the government’s voluntary immunisation programme was lukewarm. Despite having no diphtheria epidemics in Singapore, the government decided to make diphtheria vaccination compulsory to reduce the number of increasingly isolated cases.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/CampaignPoster.jpg)
+<div style="background-color: white;">An anti-diphtheria immunisation campaign poster along Maxwell Road, 1957. In 1962, immunisation against diphtheria was made compulsory for all children under one. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>.</div>
+
 In 1961, the Legislative Assembly passed the Diphtheria Immunisation Ordinance making immunisation against diphtheria compulsory for all children under the age of one. Parents or guardians who failed to comply with the law would be liable to a fine not exceeding $500 for the first offence and $1,000 and/or jail of not more than a year for subsequent convictions. Free vaccination was offered at 27 maternal and children’s healthcare clinics.[^33]
 
 Today, diphtheria has been eradicated from Singapore although the disease is still endemic in many countries.[^34] In 2017, an isolated case of diphtheria occurred in Singapore when a Bangladeshi construction worker succumbed to the disease, the first local case in 25 years.[^35]
@@ -100,6 +106,9 @@ During the 1970s, due to frequent outbreaks of measles and rubella (also known a
 Measles is caused by the measles (rubeola) virus. Its symptoms include high fever, cough, watery eyes, and spots and rashes. But measles can be dangerous, especially for babies and young children as it may lead to serious complications such as pneumonia and encephalitis (inflammation of the brain).[^38]
 
 Rubella is caused by its namesake virus. Most people who are infected develop a mild illness, but as with measles, rubella can result in serious complications. It can cause infected pregnant women to miscarry or their babies to develop congenital birth defects.[^39]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Rubella.jpg)
+<div style="background-color: white;">After an outbreak of rubella (German measles) at the Singapore Armed Forces Infantry Training Depot on Pulau Tekong in February 1984, all recruits were confined in camp for two weekends. <i>The Business Times, 11 February 1984, p. 2. Retrieved from NewspaperSG.</i>.</div>
 
 Measles vaccination was introduced in October 1976 while rubella vaccination for female primary school leavers was introduced a month later. However, many parents were still reluctant to vaccinate their children against measles because many held the traditional belief that it was good for children to get infected since it rids the body of “heat” or “cold” that causes rashes.[^40]
 
