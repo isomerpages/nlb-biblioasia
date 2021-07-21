@@ -40,6 +40,6 @@ sections:
         conservation and development has evolved, says Ang Seow Leng.
       button: Read this article
       url: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
-      image: /images/Vol-17-issue-1/nature/pangolin.jpg
+      image: /images/vol-17-issue-2/birdpark/highlights.jpg
       alt: sample of JBP
 ---
