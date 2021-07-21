@@ -101,8 +101,7 @@ significant today.
 
 [^4]: Zhuang, J. (2012). *[Independence: The history of graphic design in Singapore since the 1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14331232)* (p. 76). Singapore: The Design Society. (Call no.: RSING 741.6095957 ZHU); [Bahasa jiwa bangsa](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640831-1.2.134.36). (1964, August 31). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
-[^5]: [Selegie House – how flats are rented out](https://eresources.nlb.gov.sg/newspapers/
-Digitised/Article/straitstimes19630531-1.2.129). (1963, May 31). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^5]: [Selegie House – how flats are rented out](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630531-1.2.129). (1963, May 31). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
 [^6]: Email correspondence with Bill Mundy, 2016 and 2021.
 
