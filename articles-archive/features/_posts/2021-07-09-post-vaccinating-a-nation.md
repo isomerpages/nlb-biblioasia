@@ -31,7 +31,7 @@ It was also difficult to obtain fresh vaccine lymph or material when the supply 
 In 1863, when the incidence of smallpox increased again, the government was urged to take tougher measures, including making vaccination compulsory by law, following in the footsteps of the Dutch who had successfully introduced compulsory vaccination in the Dutch East Indies (present-day Indonesia).[^9]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Waitingvaccinated.jpg)
-<div style="background-color: white;">People waiting to be vaccinated against smallpox outside the health centre on Outram Road in April 1959. After four cases of smallpox were discovered in Kampong Alexandra in 1959, government and city health authorities decided on an island-wide vaccination as a precaution. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission</i>. </div>
+<div style="background-color: white;">People waiting to be vaccinated against smallpox outside the health centre on Outram Road in April 1959. After four cases of smallpox were discovered in Kampong Alexandra in 1959, government and city health authorities decided on an island-wide vaccination as a precaution. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission</i>.</div>
 
 Stricter public health control measures were finally introduced after the Straits Settlements became a Crown Colony in 1867. The Quarantine Ordinance was passed by the Legislative Council in June 1868, followed by An Ordinance to Extend and Make Compulsory the Practice of Vaccination, which came into effect on 1 May 1869.[^10]
 
@@ -58,6 +58,9 @@ While government health officials were still reviewing the BCG vaccine, SATA, un
 
 After obtaining a small consignment of the BCG vaccine from the Pasteur Institute in Paris, SATA launched its immunisation programme on 28 June 1949 by vaccinating 21 children.[^18] As new consignments of the vaccine began to arrive more regularly, SATA ramped up its vaccination drive.[^19]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/NurseandKids.jpg)
+<div style="background-color: white;">A nurse administering the Bacillus Calmette-Guérin (BCG) vaccination to a girl while other children await their turn, 1958. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
+
 Two years later, the government’s pilot BCG vaccination programme under the auspices of the United Nations International Children’s Emergency Fund (UNICEF) began. In June 1951, a UNICEF team started conducting tests on pupils of the Convent of the Holy Infant Jesus on Bras Basah Road, with the aim of eventually vaccinating the majority of the 130,000 schoolchildren in Singapore within four months. That same year, inoculations of newborns began but these were discontinued in 1952 due to the “lack of staff to do follow-up work”.[^20]
 
 By 1956, the Singapore government realised that administering the BCG vaccine to children at school entrance age was too late as statistics showed that many children had been infected even before starting school. In December that year, the Health Ministry announced that all babies in Singapore would be given the BCG vaccine soon after birth. SATA’s medical director Garlick approved of this move. “The younger a child is inoculated the better,” he said. “T.B. is so rife here that many children become infected at a very early age.”[^21]
@@ -70,6 +73,9 @@ TB remains a global public threat and is still endemic in Singapore, with a high
 During the post-war period, Singapore also had to deal with poliomyelitis, or polio, a crippling and life-threatening disease caused by the poliovirus. The virus is highly contagious and can infect a person’s spinal cord causing paralysis and even death. Although the disease affects people of all ages, infants and children are particularly vulnerable.[^25]
 
 A major polio outbreak between August and December 1958 killed 12 and caused 404 infants and children to be crippled by the disease.[^26] As the number of polio cases continued to surge, there was added pressure on the government to act. Eventually, the Health Ministry decided to offer free polio vaccinations on a voluntary basis to children aged three to 10.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/ParentsandChildren.jpg)
+<div style="background-color: white;">More than 2,000 parents and children packed the Lim Ah Pin Road Clinic to get vaccinated during an outbreak of polio, 1958. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
 Between November and December 1958, over 200,000 children were immunised with the oral Sabin vaccine (named after its developer, Albert Bruce Sabin) in vaccination centres set up across the island.[^27] However, this did not stop another outbreak from happening just two years later which crippled 196 people.
 
