@@ -124,7 +124,7 @@ Singapore. She is also a Lee Kong Chian Research Fellow (2019). [Photo by Melisa
 
 
 #### **NOTES**
-[^1]: “Art making in a cultural desert” lecture by Lee Chor Lin on 27 November 2019, part of the lecture series for the exhibition “Living with Ink: The Collection of Dr Tan Tsze Chor” (8 Nov 2019–26 Apr 2020), Asian Civilisations Museum; Lee, C.L. (2021, June). Colonising the coconut groves: Artistic legacies of British colonial Malaya. *(Post)Colonialism and Cultural Heritage*. Humboldt Forum, Berlin.
+[^1]: “Art making in a cultural desert” lecture by Lee Chor Lin on 27 November 2019, part of the lecture series for the exhibition “Living with Ink: The Collection of Dr Tan Tsze Chor” (8 Nov 2019–26 Apr 2020), Asian Civilisations Museum; Lee, C.L. (2021, June). Colonising the coconut groves: Artistic legacies of British colonial Malaya. *(Post) Colonialism and Cultural Heritage*. Humboldt Forum, Berlin.
 
 [^2]: See Table 4.6 circulation rates of Singapore newspapers, 1919–1932 in Kenley, D.L. (2003). *[New culture in a new world: The May Fourth Movement and the Chinese diaspora in Singapore, 1919–1932](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11956556)* (p. 101). New York: Routledge. (Call no.: RSING 959.57004951 KEN). For Singapore’s population of the period, see Table 5.14, percentage distribution of Singapore’s total population by ethnic group in Pan, L. (Ed.). (1998). *[The encyclopedia of the Chinese overseas](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9237625)* (p. 200). Singapore: Archipelago Press. (Call no.: RSING 304.80951 ENC)
 
@@ -132,21 +132,17 @@ Singapore. She is also a Lee Kong Chian Research Fellow (2019). [Photo by Melisa
 
 [^4]: Personal correspondence with Tan Teo Kwang, c. 2017–2018.
 
-[^5]: 第19页 广告 专栏 1. (1929, March 16). *南洋商报* 
-[*Nanyang Siang Pau*], p. 19. Retrieved from NewspaperSG. [The same advertisement appeared in the 1, 8, 13, 19, 20 and 21 March 1929 editions of the newspaper.]
+[^5]: 第19页 广告 专栏 1. (1929, March 16). *南洋商报* [*Nanyang Siang Pau*], p. 19. Retrieved from NewspaperSG. [The same advertisement appeared in the 1, 8, 13, 19, 20 and 21 March 1929 editions of the newspaper.]
 
-[^6]: Singapore & coronation reflections. (1937, May 10). 
-*The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
+[^6]: Singapore & coronation reflections. (1937, May 10). *The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
 
 [^7]: 星華籌賑大會主辦南新洋國民商報報滇緬公路攝影展覽會舉行隆重開幕高總領事主持開幕禮稱觀此影展可加强抗戰信念主席李光前謂此影展會足以發揚吾民族復興精神會場佈置由美術專家多人設計極爲精緻. (1939, November 25). *南洋商报* [*Nanyang Siang Pau*], p. 7. Retrieved from NewspaperSG.
 
-[^8]: 漳宜軍人影院重新改建. (1939, December 8).
-*南洋商报* [*Nanyang Siang Pau*], p. 6. Retrieved from NewspaperSG.
+[^8]: 漳宜軍人影院重新改建. (1939, December 8). *南洋商报* [*Nanyang Siang Pau*], p. 6. Retrieved from NewspaperSG.
 
 [^9]: 大眾圖書館不久將在本坡出現. (1937, January 14). *南洋商报* [*Nanyang Siang Pau*], p. 5. Retrieved from NewspaperSG.
 
-[^10]: 許釣綸 (Xu, D.L]. (1937). 圖畫科的教學理論和實際 
-(p. 65). In *愛同學校二十五週年特刊* [*Ai Tong School 25th Anniversary Commemorative Publication*]. (Not available in NLB holdings)
+[^10]: 許釣綸 (Xu, D.L]. (1937). 圖畫科的教學理論和實際  (p. 65). In *愛同學校二十五週年特刊* [*Ai Tong School 25th Anniversary Commemorative Publication*]. (Not available in NLB holdings)
 
 [^11]: 福建事变／闽变. See 杨伯凯 123, 参加‘福建事变’的农工当主要人物简介. Retrieved from 中国农工民主党福建省委员会 website.
 
@@ -156,5 +152,4 @@ Singapore. She is also a Lee Kong Chian Research Fellow (2019). [Photo by Melisa
 
 [^14]: *First commercial art course graduation exhibition: Officially opened by Inche Sha’ari bin Tadin.* (1972). Singapore: Singapore Commercial Art Society. (Not available in NLB holdings)
 
-[^15]: 美術廣告研究會會員，會選出第一屆職員. (1939, 
-July 4). *南洋商报* [*Nanyang Siang Pau*], p. 7. Retrieved from NewspaperSG.
+[^15]: 美術廣告研究會會員，會選出第一屆職員. (1939, July 4). *南洋商报* [*Nanyang Siang Pau*], p. 7. Retrieved from NewspaperSG.
