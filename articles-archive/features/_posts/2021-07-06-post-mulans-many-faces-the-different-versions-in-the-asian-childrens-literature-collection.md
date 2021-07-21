@@ -2,9 +2,10 @@
 title: "Mulan’s Many Faces: The Different Versions in the Asian Children’s
   Literature Collection"
 date: 2021-07-06
-permalink: /articles-archive/features/mulan-many-faces
+permalink: /vol-17/issue-2/jul-sep-2021/mulan-many-faces
 layout: post
 ---
+
 <style>
 table { 
 	background-color: #e5ebf6;
