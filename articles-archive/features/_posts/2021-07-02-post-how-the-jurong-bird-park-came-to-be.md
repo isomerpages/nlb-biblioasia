@@ -4,7 +4,6 @@ date: 2021-07-02
 permalink: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
 layout: post
 ---
-
 #### On the 50th anniversary of its opening, **Zoe Yeo** gives us a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
 
 Jurong Bird Park is one of Singapore’s more successful attractions, beloved by tourists and locals alike. I recall numerous trips during my formative years with my parents and siblings to observe the birds. I even took enough pictures to obtain the “I am a Young Ornithologist” badge, which was awarded by the Singapore Science Centre under its Young Scientist Badge Scheme. Now as an adult, I still love visiting the park to marvel at the different bird species.
@@ -30,7 +29,7 @@ One of the early challenges faced by the bird park was that it had to have a sig
 
 Beyond attending cocktail parties, Woon also approached ambassadors and foreign dignitaries here for help. He penned a 10-page letter to the British High Commissioner, Arthur de la Mare, listing over 350 bird species and seeking assistance in obtaining these birds from the United Kingdom. The document was first forwarded to the London Zoo, who felt that they had “already been of considerable assistance” after providing guidance and donating a number of birds and they “did not feel like that they could reasonably be expected to do more”. The London Zoo also claimed to be in dire financial straits and could not “envisage any further gifts being made”.[^9] The United Kingdom’s Wildfowl Trust were also approached but they shared the same sentiments as the London Zoo.[^10]
 
-In addition to obtaining birds, there was also the challenge of keeping them safe. On top of preventing the birds from flying away, the bird park had to deal with thieves as well. In September 1969, a rare cassowary, two peacocks and a pair of storks were actuallly stolen from the park and sold off. [^11]
+In addition to obtaining birds, there was also the challenge of keeping them safe. On top of preventing the birds from flying away, the bird park had to deal with thefts as well. In September 1969, a rare cassowary, two peacocks and a pair of storks were actuallly stolen from the park and sold off. [^11]
 
 Apparently, a day after the birds were stolen, three men approached a bird shop in Geylang with an offer to sell “Indonesian birds”. The shop assistant asked to see the birds and was taken to a house in Changi. “A price of $500 was offered, but this was later bargained down to $250. The shop assistant then took them back to his shop and paid the money there.”[^12]
 
@@ -82,7 +81,7 @@ Big John, a cockatoo who has been with the aviary since its opening in 1971 will
 
 In 2016, it was announced that Jurong Bird Park would be moving to Mandai to form an integrated nature and wildlife precinct together with a new Rainforest Park and the three existing wildlife parks in Singapore (the Singapore Zoological Gardens, the Night Safari and the River Safari).
 
-The new and improved bird park will include themed walk-through aviaries designed after different regions and ecosystems of the world – stretching from the rainforests of Africa to the bushlands of Australia – allowing visitors to immerse themselves in the naturalistic habitats of the birds.[^37] Slated to open in 2022, it will mean moving out from Jurong after 51 years, which will no doubt sadden some. However the new location will allow the bird park to enjoy the synergies of being close to similar attractions. In addition, the new designs for the various aviaries will allow the bird park’s ambitions to truly take flight.
+The new and improved bird park will include themed walk-through aviaries designed after different regions and ecosystems of the world – stretching from the rainforests of Africa to the bushlands of Australia – allowing visitors to immerse themselves in the naturalistic habitats of the birds.[^37] Slated to open in 2022, it will mean moving out from Jurong after 51 years, which will no doubt sadden some. However, the new location will allow the bird park to enjoy the synergies of being close to similar attractions. In addition, the new designs for the various aviaries will allow the bird park’s ambitions to truly take flight.
 
 <div style="background-color: white;">
 <br/>
@@ -94,9 +93,9 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 
 #### **NOTES**
-[^1]: Ministry of Culture. (1971, January 3). *[Speech by Dr. Goh Keng Swee, Minister of Defence, at the opening of Jurong Bird Park on Sunday, 3rd January 1971 at 6.00 pm](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b98e58a-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website; Goh tells why the bird park was built. (1971, January 4). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
+[^1]: Ministry of Culture. (1971, January 3). *[Speech by Dr. Goh Keng Swee, Minister of Defence, at the opening of Jurong Bird Park on Sunday, 3rd January 1971 at 6.00 pm](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b98e58a-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website; [Goh tells why the bird park was built](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710104-1.2.90). (1971, January 4). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^2]: Ministry of Culture, 3 Jan 1971. 
+[^2]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b98e58a-115d-11e3-83d5-0050568939ad), 3 Jan 1971. 
 
 [^3]: Tan, S.S. (2015). *[Goh Keng Swee: A portrait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201485216)* (p. 175). Singapore: Editions Didier Millet. (Call no.: RSING 959.5704092 TAN-[HIS])
 
@@ -114,7 +113,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^10]: [The National Archives, United Kingdom](https://www.nas.gov.sg/archivesonline/private_records/record-details/e6f7a3c3-115b-11e3-83d5-0050568939ad), 1970.
 
-[^11]: [One cassowary for sale, cheap – until yesterday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690914-1.2.57). (1969, 14 September). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^11]: [One cassowary for sale, cheap – until yesterday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690914-1.2.57). (1969, September 14). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
 [^12]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690914-1.2.57)*, 14 Sep 1969, p. 8.
 
