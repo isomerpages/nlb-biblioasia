@@ -17,11 +17,6 @@ table {
 
 #### Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan & Maclaren introduced the concept of apartment living in Singapore, as **Julian Davison** tells us.
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol-16-issue-1/Postcards/space.png">
-</div>
-
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/Mansion_Main.jpg)
 <div style="background-color: white;">Amber Mansions, Orchard Road, c. 1922. The Cape Dutch Revival-style elevations of Amber Mansions almost certainly point to Denis Santry as the author of this building, the architect having previously worked in South Africa during a period when a revival of traditional Cape Dutch architecture was at its height. <i>Courtesy of National Museum of Singapore, National Heritage Board</i>.</div>
 
