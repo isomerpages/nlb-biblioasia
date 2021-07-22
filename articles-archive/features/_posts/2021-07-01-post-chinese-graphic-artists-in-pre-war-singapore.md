@@ -59,8 +59,10 @@ At the invitation of Chen Lien Tsing (陳鍊青), the chief editor of *Lat Pau* 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/JuChi.jpg)
 <div style="background-color: white;">Advertisements by Ju Chi Studio published in the <i>Sin Chew Jit Poh</i> newspaper between 1929 and 1930. Ju Chi Studio was set up by Tchang Ju-ch’i in February 1930. <i>Sin Chew Jit Poh, 27 September 1930, p. 2; and Sin Chew Jit Poh, 7 September 1929, p. 2. Retrieved from NewspaperSG.</i></div>
 
-
 In 1934, Tchang and U-Chow (莊有釗) set up The United Painters (朋特畫社) at 181 Tank Road, offering a suite of services such as advertisement graphic design and painting, oil painting, sculpture and badge design (U-Chow, also known as Chong Yew Chao or Chuang Yew Chao, was married to Tchang’s first cousin).
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/DecorationCommittee.jpg)
+<div style="background-color: white;">Members of the Decoration Committee of the Chinese National Day Fundraiser for the China Relief Fund, 1938. Tchang Ju-ch’i is in the front row on the far right, while U-Chow is in the back row on the extreme left. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</i>.</div>
 
 The pair worked well together. Tchang’s good-natured personality and connections with Chinese businessmen worked hand-in-glove with U-Chow’s forte – carpentry and light construction which were useful for interior decoration and large-scale structures. In May 1937, when Singapore was mobilised to celebrate the coronation of King George VI, The United Painters was commissioned to erect illuminated arches on Carpenter Street.[^6]
 
@@ -94,13 +96,11 @@ In the Ai Tong School publication, Xu contributed an advertisement featuring toy
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/XuDiaolun1.jpg)
 <div style="background-color: white;">A work by Xu Diaolun for Shanghai New Asiatic Pharmaceutical in <i>Ai Tong School 25th Anniversary Commemorative Publication</i> (1937, p. 51). The advertisment features toy-like soldiers armed with rifles and bullets. <i>National University of Singapore Library Collection.</i></div>
-
  
 In Chinese High School’s 1938 yearbook, Xu worked on an advertisement for local biscuit factory Hock Ann. He also took part in competitions and in 1935, his illustration for Tolley Brandy won first prize in the brand’s annual advertisement illustration contest.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/XuDiaolun2.jpg)
 <div style="background-color: white;">Xu Diaolun’s work for Hock Ann Biscuits in Chinese High School’s 1938 yearbook. <i>National University of Singapore Library Collection.</i></div>
-
 
 Xu’s works are characterised by minute articulation and detailed embellishment. He drew women in long ankle-length tight-fitting *cheongsam*, seated tilted at an angle to accentuate their svelte figures. His lines are clean and slightly rigid, while his calligraphy is stately and seal-like. There is no mention of him in the Chinese press from around 1941, but his works in advertising illustrations continue to remind us of his artistry.
 
@@ -109,11 +109,13 @@ Leong Siew Tien (Liang Xiaotian) came to Singapore, possibly via Hong Kong, and 
 
 Leong’s versatility in Chinese ink and watercolour painting is documented in publications of the Chung Shan (Clan) Association (中山會館) and the Society of Chinese Artists, where he was a member.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/LeongSiew.jpg)
-<div style="background-color: white;">A Chinese ink painting by Leong Siew Tien published in Chung Shan Association’s commemorative book, 1950. <i>National University of Singapore Library Collection.</i></div>
-
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/Seascape2.jpg)
+<div style="background-color: white;">“Seascape” (watercolour) by Leong Siew Tien in the Society of Chinese Artists exhibition catalogue, 1939. <i>Liu Kang Family Collection</i>.</div>
 
 While his watercolour works are competently executed, Leong’s classical training is visible in his Chinese-ink works, which recall the Shanghai School (上海画派) influence, characterised by powerful calligraphy-style brushwork and dynamic compositions.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/LeongSiew.jpg)
+<div style="background-color: white;">A Chinese ink painting by Leong Siew Tien published in Chung Shan Association’s commemorative book, 1950. <i>National University of Singapore Library Collection.</i></div>
 
 In 1948, Leong joined a group of old-school scholars, calligraphers and Shanghai-influenced artists to form the Seal and Inscription Society (金石学会; *Jinshi Xuehui*), a hobbyist gathering dedicated to the study and appreciation of ancient inscriptions, etymology, calligraphy and seal-carving.
 
@@ -133,7 +135,6 @@ Established by Chong Beng Si (鍾鳴世) around 1937, Cupid Studio operated from
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/ChongBengSi.jpg)
 <div style="background-color: white;">Chong Beng Si (right) and Lim Hak Tai (middle) in front of Cupid Studio at 270 Telok Ayer Street. Lim was the founder and principal of the Nanyang Academy of Fine Arts. <i>Lim Hak Tai Archives, National Gallery Singapore.</i></div>
 
-
 Chong was also assistant to Lim Hak Tai, principal and founder of NAFA. Chong handled administrative and estate-related matters for the school in addition to teaching Western art. He was also one of the earliest members of the Society of Chinese Artists. And, like many of his fellow contemporary artists, Chong made his living creating commercial advertisement art.
 
 Chong’s clientele included major brands in Singapore such as the Nanyang Elephant brand of rubber shoes made by Nanyang Manufacturing, which belonged to Lee Kong Chian; Hua Hong Manufacturing (cooking oils); and Yeo Hiap Seng Sauce Factory.
@@ -143,7 +144,9 @@ Most of his artworks used formalistic and clear composition where the products w
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/NanyangElephantBrand2.jpg)
 <div style="background-color: white;">An advertisement for Nanyang Elephant Brand shoes by Cupid Studio in the Chinese High Teachers Training Programme yearbook, 1948. <i>National University of Singapore Library Collection.</i></div>
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/NanyangElephantBrand.jpg)
+<div style="background-color: white;">An advertisement for Nanyang Elephant Brand shoes by Cupid Studio in Ai Tong School 25th Anniversary Commemorative Publication, 1937. <i>National University of Singapore Library Collection</i>.</div>
+	
 Chong deftly created Chinese characters and used decorative elements such as italics, shadowing and sans serif text to complement the non-Chinese letters and words.
 
 In general, Chong’s graphic works display a sure grasp of the Western graphic art sensibility – functional although not necessarily cutting-edge. His fine art works featured in the exhibitions by the Society of Chinese Artists, generally in oil or watercolour, are not stunning but they are competent and pleasing.
