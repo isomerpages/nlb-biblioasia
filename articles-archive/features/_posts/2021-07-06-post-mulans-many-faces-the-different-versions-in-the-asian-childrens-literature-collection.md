@@ -18,6 +18,13 @@ table {
 
 #### **Goh Yu Mei** examines the National Library’s Asian Children’s Literature Collection to see how the story of Mulan has evolved over time, while **Michelle Heng** reviews other Asian tales in the acclaimed collection.
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Mulan_Main.jpg)
+<div style="background-color: white;">A page from Jeanne M. Lee’s <i>The Song of Mu Lan</i>. Lee painted the watercolours while her father wrote the text in traditional Chinese. <i>Image reproduced from Lee, J.M. (1995). The Song of Mu Lan. Arden, North Carolina: Front Street. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 895.1 MUL-[ACL]).</i></div>
+
+
+
+
 “唧唧复唧唧，木兰当户织。不闻机杼声，惟闻女叹息。” [^1]
 
 (Translation: Click, click, click, click, Mulan is at her loom. One could not hear the sound of the loom weaving, but only Mulan’s sigh.”)
