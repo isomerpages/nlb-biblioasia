@@ -8,7 +8,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/Vol-17-issue-1/main-banner.jpg
+      background: /images/vol-17-issue-2/Hero%20Banner2.jpg
       key_highlights:
         - title: Read BiblioAsia Jul-Sep 2021
           description: null
