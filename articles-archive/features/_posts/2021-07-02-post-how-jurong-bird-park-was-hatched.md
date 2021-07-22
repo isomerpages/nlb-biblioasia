@@ -4,8 +4,10 @@ date: 2021-07-02
 permalink: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
 layout: post
 ---
-
 #### On the 50th anniversary of its opening, **Zoe Yeo** gives us a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg)
+<div style="background-color: white;">Caribbean flamingoes feeding and preening at the Flamingo Pool. These birds are identified by their tri-coloured beak – grey at the base, pink in the middle and black at the tip. <i>Courtesy of Jimmy Yap</i>.</div>
 
 Jurong Bird Park is one of Singapore’s more successful attractions, beloved by tourists and locals alike. I recall numerous trips during my formative years with my parents and siblings to observe the birds. I even took enough pictures to obtain the “I am a Young Ornithologist” badge, which was awarded by the Singapore Science Centre under its Young Scientist Badge Scheme. Now as an adult, I still love visiting the park to marvel at the different bird species.
 
@@ -32,9 +34,15 @@ Beyond attending cocktail parties, Woon also approached ambassadors and foreign 
 
 In addition to obtaining birds, there was also the challenge of keeping them safe. On top of preventing the birds from flying away, the bird park had to deal with thefts as well. In September 1969, a rare cassowary, two peacocks and a pair of storks were actuallly stolen from the park and sold off. [^11]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/Cassowary.jpg)
+<div style="background-color: white;">A cassowary, like the one stolen in 1969. <i>Courtesy of Wildlife Reserves Singapore</i>.
+
 Apparently, a day after the birds were stolen, three men approached a bird shop in Geylang with an offer to sell “Indonesian birds”. The shop assistant asked to see the birds and was taken to a house in Changi. “A price of $500 was offered, but this was later bargained down to $250. The shop assistant then took them back to his shop and paid the money there.”[^12]
 
 The birds were then put up for sale at the shop but they began “drawing unmanageable crowds and the owner decided to transfer them to [his] farm” in Choa Chu Kang. After reading about the stolen birds in the newspapers, the owner contacted the police who recovered the birds.[^13]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/CassowaryNews.jpg)
+<div style="background-color: white;">In September 1969, a rare cassowary, two peacocks and a pair of storks were stolen from the park and put up for sale. The police managed to recover the birds. <i>The Straits Times, 14 September 1969, p. 8. Retrieved from NewspaperSG</i>.</div> 
 
 There were also engineering challenges involved in building the bird park. The flight-in aviary used 18 steel cables, each weighing about three tons, which had to be stretched across the top of the 2-hectare space. On either end of the slope, where the cables were attached, piling was necessary to ensure that these cables did not come loose.[^14]
 
@@ -45,8 +53,11 @@ Eventually, all the challenges were overcome and a date was set for the opening:
 According to Lee Oon Pong, the director of Employment at the Ministry of Defence (1970–75), who worked closely with Goh, the last-minute postponement was because the latter did not feel that one of the key attractions, the man-made waterfall, was up to mark.[^17]
 
 Goh, who was by then Minister for Defence, along with board members of Jurong Town Corporation, had visited the bird park about a week before the scheduled official opening. When he got to the waterfall, however, Goh was appalled when he saw muddy water cascading down what was supposed to be a highlight of the park. The water was brown because the waterfall was pumping water from the duck pond, which had been contaminated with mud due to the ongoing construction works at the park.[^18]
-
+	
 Recalled Lee: “[He] looked at Woon Wah Siang and said ‘Wah Siang, you want me to open this?’ [Woon] was dumbfounded. [Goh said], ‘If you want me to open the bird park… when I throw a five-cent coin into the brook… I expect to see [it] at the bottom, then I’ll open it.’ … Then he just walked off.” Woon had to scramble to call up all the invited guests to apologise.[^19]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/MinDef1.jpg)
+<div style="background-color: white;">Minister for Defence Goh Keng Swee (centre) arriving for the opening of Jurong Bird Park, 1971. Woon Wah Siang, the park’s chairman and managing director, is on the far right. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div> 
 
 The bird park swiftly acquired a filtration plant costing a quarter of a million dollars. It was installed near the waterfall and was “capable of filtering and cleaning the water so that what thunders down is crystal clear”.[^20]
 
@@ -55,6 +66,9 @@ In August 1970, *The Straits Times* reported that as there was still ongoing wor
 A month later, in September, the bird park again announced that its opening would be delayed as it would be introducing two new innovations – control of temperature of the aviary through landscaping and a new feeding method – both aimed at improving the welfare of the feathered residents of the park.[^22]
 
 With a new filtration system in place and all amenities ready, the park was finally opened on 3 January 1971. It was reported to be the biggest aviary in the world at the time, sprawling over 20.6 hectares with more than 7,000 birds, some of them gifted to the park by 12 countries, 40 private collectors and seven zoos.[^23] At the opening, Goh, still looking to make more improvements, issued a call to guests for more birds, specifically falcons.[^24]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/MinDef2.jpg)
+<div style="background-color: white;">Goh Keng Swee tours Jurong Bird Park during its opening, 1971. In the background is the man-made waterfall aviary. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
 “I had originally planned to introduce falconry displays as part of the bird park’s activities,” he said. Goh added, in his inimitable tongue-in-cheek manner, that he was not hopeful that “modern industrial nations” would have anyone but “perhaps in some quiet corner of the world, in some last refuge of reaction and obscurantism, people still happily engage in falconry without let or hinderance from tiresome moralisers. If one of your Excellencies represents such a 20th century Ruritania, may I suggest that our respective Governments immediately enter into a Bilateral Technical Assistance Agreement for the Promotion of Falconry in Singapore”.[^25]
 
@@ -68,16 +82,28 @@ The first few species successfully bred for sale were the night heron, ibis, whi
 The bird park eventually stopped breeding birds for sale and instead embarked on efforts to conserve rare bird species, especially those from Southeast Asia. In 1995, the park became the first zoological institution to breed the black hornbill, a vulnerable species native to Southeast Asia.[^31]
 
 The straw-headed bulbul, a critically endangered species native to Singapore, was also successfully bred by Jurong Bird Park in 2017. The bulbul is coveted by songbird traders due to its unique vocalisation, making it a target of poachers.[^32]
+	
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/Bulbul.jpg)
+	<div style="background-color: white;">The straw-headed bulbul, successfully bred by Jurong Bird Park in 2017, is coveted by songbird traders because of its unique vocalisation. <i>Courtesy of Wildlife Reserves Singapore</i>.</div>
 
 The park also works with the National Parks Board, Nanyang Technological University and researchers on the Singapore Hornbill Project. The oriental pied hornbill disappeared in Singapore in the mid-1800s because of hunting and loss of habitat, but re-emerged some 140 years later when a pair of wild hornbills was recorded on Pulau Ubin in 1994.[^33]
-
+	
 The collaborative project initiated in 2004 aims to enhance the population and distribution of this locally endangered bird. This includes providing artificial nesting boxes and reducing anthropogenic threats – such as overzealous bird watchers and photographers disturbing nesting activities – by fencing nesting areas with thick vegetation to minimise disturbance. About a decade ago, 40 to 50 hornbills were recorded on Pulau Ubin and at least two pairs had flown to Changi.[^34] Since then, oriental pied hornbills have been spotted in various locations around Singapore.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/Hornbill.jpg)
+<div style="background-color: white;">The oriental pied hornbill is making a resurgence in Singapore with the help of the Jurong Bird Park. <i>Courtesy of Wildlife Reserves Singapore</i>.</div>
+
 The bird park also participates in international projects on the conservation of endangered species. In 2018, some 60 Santa Cruz ground doves were flown from the Solomon Islands to Singapore, becoming the world’s only “assurance colony” of the species outside of the Islands. A large population of the ground doves had been wiped out in a volcanic eruption in Tinakula in 2018, and the 60 birds were part of a flock that had been confiscated from poachers after the eruption. The assurance colony ensures that a population of the species is safe under human care in case of a catastrophic population decline in the wild. In 2019, the Jurong Bird Park became the first zoological institution to breed these birds.[^35]
+	
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/Dove.jpg)
+<div style="background-color: white;">In 2019, Jurong Bird Park because the first zoological institution to breed the endangered Santa Cruz ground doves. <i>Courtesy of Wildlife Reserves Singapore</i>.</div>
 
 #### **Celebrating 50 Years**
 Since its opening 50 years ago, the Jurong Bird Park has welcomed 30 million visitors. To commemorate the half century since the opening of the aviary, the park planned a year-long celebration with events and activities throughout 2021. The aviary kickstarted its jubilee celebrations by reverting to its 1971 admission price of $2.50 for all residents in the month of January 2021. (The usual price of a ticket for local residents is currently $34 for adults and $23 for children.)
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/ManMadeWaterfall.jpg)
+	<div style="background-color: white;">The dramatic man-made waterfall has always been a popular backdrop for taking photographs, as evidenced by this photo from 2000, featuring the author and her family. <i>Courtesy of Zoe Yeo</i>.</div>
+	
 Big John, a cockatoo who has been with the aviary since its opening in 1971 will also be making appearances in special shows throughout the year. The bird park also invites people to upload photographs taken in the park to Facebook and Instagram with the hashtag #JBP50. These photos would be featured as part of the aviary’s “Memories of Jurong Bird Park” exhibition in 2021.[^36]
 
 In 2016, it was announced that Jurong Bird Park would be moving to Mandai to form an integrated nature and wildlife precinct together with a new Rainforest Park and the three existing wildlife parks in Singapore (the Singapore Zoological Gardens, the Night Safari and the River Safari).
