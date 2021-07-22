@@ -77,6 +77,14 @@ Other notable works printed by Juan de Vera include the 1602 *Libro de Nuestra S
 
 Pedro de Vera, believed to be the younger brother who assumed Juan de Vera’s responsibilities upon the latter’s death, was also behind some of the earliest imprints in the Philippines. In 1606, he printed *Memorial de la Vida Christiana en Lengva China* 《 新刊僚氏正教便览》; (*Xinkan Liao Shi Zhengjiao Bianlan; A Printed Edition of the Guide to the True Faith in God*). Written by Dominican priest, Domingo de Nieva (巴禮羅明敖黎尼媽), the book aimed to help beginners grow in their faith through the exercise of spiritual disciplines, and was modelled after Fray Luis de Granada’s guide on spiritual formation titled *Memorial de la Vida Cristiana* (*Memorial of the Christian Life*, 1565). 
 
+
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/earlyprinting/MemorialDeLaVida.jpg)
+<div style="background-color: white;"><i>Memorial de la Vida Christiana en Lengva China</i> (《 新刊僚氏正教便览》; <i>A Printed Edition of the Guide to the True Faith in God</i> ) was written by Dominican padre Domingo de Nieva. It was printed in 1606 by Chinese Christian printer, Pedro de Vera. The title page is in Spanish and main text is in Chinese. <i>Retrieved from Österreichische Nationalbibliothek website.</i></div>
+
+
+
+
 Pedro de Vera used a combination of Chinese and European printing methods for this book. For instance, preliminary information such as the title page, approbation, licences and dedication in Spanish were printed using movable type. The main text, preface and table of contents in Chinese were printed using woodblock printing. Copies of this two-part work can be found in the Jesuit Archives in Rome and the Österreichische Nationalbibliothek (Austrian National Library).[^19] 
 
 He used the same approach in another work printed in 1607, *Simbolo de la Fe, en Lengua y Letra China* 《新刊格物窮理錄》; (*Xinkan Gewu Qiongli Lu; Newly Printed Record of the Investigation of Things and Exhaustive Examination of Principle*). The  preliminary information in Spanish was rendered in movable type, while the main text in Chinese and the illustrations of animals, the human anatomy and the underworld were produced using xylography. 
