@@ -102,6 +102,10 @@ Bill was silent when he heard the news. I asked about the state of the other two
 
 In 2015, when Bill visited my father at home, I asked them how they felt upon hearing about the fate of the murals in 2012. They expressed their shock and sadness at what had happened. Bill also revealed that he liked my father’s mural best because it was timeless. In a 2016 email to me, he said: “I thought your father’s design the best of the three. It was so striking in oranges and red with very modern use of the dark metal.”
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Designers.jpg)
+<div style="background-color: white;">The designers of the murals, Shamsuddin H. Akib and William P. Mundy, at the former’s home, 2018. <i>Courtesy of Dahlia Shamsuddin.</i></div>
+
+
 It has been close to 60 years since Bill and my father won the mural competition. In the meantime, both men have gone on to distinguished careers. My father eventually left Papineau and joined publisher Donald Moore before working for various international advertising agencies in Singapore. In the 1980s, he became a freelance graphic artist and continued doing commissions until his late 60s. In 2015, he was awarded the Singapore Design Golden Jubilee Award for Visual Communication.
 
 Bill left Singapore in 1964 and worked in Hong Kong and Bangkok before returning here in 1970 as the regional director of advertising agency Grant K&E. He went back to the United Kingdom in 1978 to become a full-time artist. Bill has been described as one of the world’s leading miniature portrait painters and has painted the portraits of members of the British and Malaysian royal families.
