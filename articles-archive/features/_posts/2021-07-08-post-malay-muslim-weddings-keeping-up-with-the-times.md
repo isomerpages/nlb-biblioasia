@@ -63,6 +63,10 @@ The *nikah* ceremony is also an occasion for the groom to present gifts to the b
 #### **Walimah Ceremony**
 The Malay wedding reaches its peak during the *walimah* and *bersanding* ceremonies, the wedding feast and the sitting-in-state respectively. The wedding feast, which typically takes place the day after the *nikah*, usually starts at 11 am and ends at 5 pm. It is an informal gathering of family, relatives and friends, with guests numbering in the hundreds and sometimes thousands. They are served a feast of either *nasi minyak* (ghee rice) or *nasi biryani* (spiced long-grain rice), accompanied by various dishes.[^10] Up to the 1950s, when most Malays largely lived in kampongs, the *walimah* and *bersanding* ceremonies would be held under tents in the village. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/Feast.jpg)
+<div style="background-color: white;">A typical Malay wedding feast held in Singapore in the 1970s. Guests would be served either <i>nasi minyak</i> (ghee rice) or <i>nasi biryani</i> (spiced long-grain rice), accompanied by various dishes. <i>Courtesy of Mohammed Farhan Bin Hassan.</i></div>
+
+
 These events were typically communal events involving the entire kampong in the spirit of *gotong-royong*. It was customary to round up family members and enlist the entire village to help out with both the wedding preparations as well as the festivities leading up to the wedding day. 
 
 Physically demanding tasks such as carpentry and house painting were handled by men, while women helped to decorate the bridal dais with palm and banana leaves and paper flowers, as well as cook for the volunteers. The wedding feast would also be painstakingly prepared and cooked by family, friends and neighbours, with some even contributing ingredients for the feast.[^11]
