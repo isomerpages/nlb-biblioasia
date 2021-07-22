@@ -38,7 +38,15 @@ In addition, a growing awareness of what constitutes Islamic practice has result
 ##### **Changing Times**
 Malay weddings incorporate both Islamic practices as well as customs that are specific to Malay culture.[^3] In Singapore today, the core ceremonies are the *nikah* (the solemnisation), *walimah* (the communal wedding feast), *bersanding* (sitting-in-state during the walimah) and bertandang (the ceremony to welcome the bride/in-laws). All of these have changed over the last 50 or 60 years, both in ways large and small.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/Tandu.jpg)
+<div style="background-color: white;">A Malay wedding, 1960. The bride and groom are seated on the <i>tandu</i>, which are rattan sedan chairs attached to bamboo poles and carried on the shoulders by men from the bride’s entourage. <i>Courtesy of National Archives of Singapore.</i></div>
+
+
 Among these ceremonies, *nikah* is the only religious obligation stipulated by Islam. Traditionally, it takes place the day before *walimah* and *bersanding*. An intimate affair attended by close family members and friends, the solemnisation ceremony is held at the bride’s residence or at a reception venue. A religious official, known as the *tok kadi*, officiates and oversees the proceedings and also issues the marriage certificate.[^4] 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/ATokKadi.jpg)
+<div style="background-color: white;">A <i>tok kadi</i> (right; religious official) performing the <i>akad nikah</i>, or solemnisation ceremony, 1980. The <i>akad nikah</i> is an obligation in Islam. The <i>tok kadi</i> officiates and oversees the proceedings, and issues the marriage certificate. <i>Hasnah Sapii Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 During this ceremony, it is customary for both parties to exchange *dulang hantaran* (trays of gifts), with the groom presenting to his bride a pre-agreed *duit hantaran* (cash gift) and the mandatory *mas kahwin* (literally “wedding gold”).[^5] *Mas kahwin*, also known as *mahar*, is an obligatory gift from the groom to his bride to signify the beginning of a husband’s responsibility towards his wife.[^6] 
 
