@@ -23,8 +23,6 @@ table {
 <div style="background-color: white;">A page from Jeanne M. Lee’s <i>The Song of Mu Lan</i>. Lee painted the watercolours while her father wrote the text in traditional Chinese. <i>Image reproduced from Lee, J.M. (1995). The Song of Mu Lan. Arden, North Carolina: Front Street. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 895.1 MUL-[ACL]).</i></div>
 
 
-
-
 “唧唧复唧唧，木兰当户织。不闻机杼声，惟闻女叹息。” [^1]
 
 (Translation: Click, click, click, click, Mulan is at her loom. One could not hear the sound of the loom weaving, but only Mulan’s sigh.”)
@@ -34,6 +32,13 @@ These are the opening lines in《木兰辞》(*Mulan Ci; The Ballad of Mulan*),[
 Widely accepted as the earliest written version of the story of Mulan (木兰), the 62-line poem tells the inspiring story of a young woman who disguises herself as a man so that she can take her aged father’s place when he is conscripted into the army to fight the Tartars. The ballad was subsequently included in《乐府诗集》(*Yuefu Shiji; Collection of Yuefu Poetry*), an anthology of poetry compiled by Guo Maoqian (郭茂倩) during the Song Dynasty (960–1276).
 
 During the Tang dynasty (618–907), the story was retold as《木兰歌》(*Mulan Ge*; *The Song of Mulan*), a poem written by Wei Yuanfu (韦元甫). Several centuries later, during the Ming dynasty (1368–1644), Xu Wei (徐渭) composed the opera《雌木兰替父从军》(*Cimulan Tifucongjun; Female Mulan Took Her Father’s Place in the Army*). The story was then turned into the novel《北魏奇史闺孝烈传》(*Beiwei Qishi Guixiao Liezhuan; The Legendary Story of a Filial and Heroic Girl from the Northern Wei*) by Zhang Shaoxian (张绍贤) during the Qing dynasty (1644–1912).[^4]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Poem.jpg)
+<div style="background-color: white;">The first known written form of the poem about Mulan titled《木兰辞》(<i>The Ballad of Mulan</i>) and 木兰歌 (<i>The Song of Mulan</i>) by Wei Yuanfu (韦元甫) were compiled by Guo Maoqian (郭茂倩) in his anthology of poetry,《乐府诗集》(<i>Yuefu Shiji</i>). <i>Image reproduced from 郭茂倩 [Guo M.Q.]. (1264–1269).《乐府诗集: 一百卷，目录 [二卷]》. Hubei: Chong Wen Shu Ju. Retrieved from Hathi Trust Digital Library website.</i></div>
+
+
+
+
 
 Although filial piety and loyalty are constant themes in the different representations of Mulan, these values are portrayed differently by different authors. In Zhang Shaoxian’s novel, for instance, Mulan takes her own life when she is forced to choose between returning home to care for her parents (i.e. filial piety), and remaining in the army to serve the emperor (i.e. loyalty). The tragic ending in this narrative of Mulan hints at a criticism of the interpretations of filial piety and loyalty in earlier versions of the tale.[^5]
 
