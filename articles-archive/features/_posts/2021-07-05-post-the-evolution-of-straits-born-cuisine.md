@@ -140,8 +140,10 @@ These two trends – preservation and alteration – are hallmarks of Straits cu
 
 One of the traits of a great cuisine is its ability to retain its traditional roots while taking on new and interesting flavours with the introduction of non-traditional ingredients. Straits cuisine definitely falls into that category.
 
-|![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/straitsbornkitchen2.png)Lee Geok Boi’s newly published cookbook, *In a Straits-born Kitchen*, by Marshall Cavendish Cuisine features the recipes that she has inherited, collected, tweaked or experimented with over more than half a century. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 641.5959 LEE and SING 641.5959 LEE)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067). It also retails at major bookshops in Singapore.|
+<div class="infobox">
+<img src="/images/vol-17-issue-2/straitscuisine/straitsbornkitchen2.png" style="width: 350px; height: 200px;"/>Lee Geok Boi’s newly published cookbook, <i>In a Straits-born Kitchen</i>, by Marshall Cavendish Cuisine features the recipes that she has inherited, collected, tweaked or experimented with over more than half a century. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067">(Call nos.: RSING 641.5959 LEE and SING 641.5959 LEE)</a>. It also retails at major bookshops in Singapore.</div>
 
+	
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-17-issue-2/authors/Lee%20Geok%20Boi.png" style="width: 100px; height: 100px;" />
