@@ -9,8 +9,6 @@ layout: post
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg)
 <div style="background-color: white;">An advertisement by Xu Diaolun for Khiauw Hing, which sold chemical products and liquor from Shanghai, China, published in the catalogue of the Chinese National Trade Fair in 1935. <i>National University of Singapore Library Collection.</i></div>
 
-
-
 As Singapore became one of the most dynamic global cities during the first half of the 20th century, it began to attract new migrants due to the myriad opportunities and lifestyles offered by a modern and booming metropolis. By the late 1920s, established and novice artists from China began converging in Singapore due to the job opportunities as well as the instability back home caused by natural disasters, incessant civil wars and Japanese aggression. As a result, in the years leading up to the fall of Singapore in February 1942, the art scene here was thriving and new styles of art were being created.[^1]
 
 Print advertising production also flourished during this period because the demand for news and information led to an exponential growth in the publishing industry, powered by large-scale printing technology.
@@ -30,7 +28,13 @@ Some of the more impressive art works appeared in the commemorative books of tra
 
 Two publications of great research value in this area were published for Chinese national trade fairs in 1935 and 1936, where artists were engaged to design and manage stall booths and the exhibition catalogues. The latter featured beautiful and elaborate lithographs interspersed with long textual chapters of meeting proceedings, and industry and trade essays. Lee Printing, one of the companies in Lee Kong Chian’s vast business empire, took the first page of the 1935 catalogue to showcase its printing services and graphic design capability.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/LeePrinting.jpg)
+<div style="background-color: white;">A coloured advertisement of the Lee Printing Company found in the catalogue of the 1935 Chinese National Trade Fair. <i>National University of Singapore Library Collection</i>.</div>
+
 The repertoire of most studios in the pre-war years also included outdoor signages. Walls could be used for advertising, particularly those that were owned privately. In 1938, at their Third Annual Exhibition, members of the Society of Chinese Artists (華人美術研究會) posed for a photograph on the grounds of the Chinese Chamber of Commerce with a gigantic wall advertisement of the neighbouring Lim Shing Hong Jewellery (林盛豐金莊) in the background.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/ArtExh.jpg)
+<div style="background-color: white;">During the Third Annual Exhibition of the Society of Chinese Artists in 1938. members posed for a photograph on the grounds of the Chinese Chamber of Commerce. A gigantic wall advertisement of the neighbouring Lim Shing Hong Jewellery is captured in the background. <i>Liu Kang Family Collection</i>.</div>
 
 Although it is difficult to ascertain the number of people involved in graphic design and the making of print advertising, there were enough of them to form a society of their own. The Singapore Commercial Art Society was formally established on 28 February 1937; by the following year, it had organised sketching trips. Following the outbreak of the Sino-Japanese War in July 1937, the society also actively contributed to the China War Relief Fund.
 
