@@ -17,6 +17,10 @@ table {
 
 #### **Lee Geok Boi** looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/StraitsbornCuisine_Main.jpg)
+<div style="background-color: white;">Today’s Penang fruit <i>rojak</i> contains <i>hae ko</i> (black prawn paste); yesteryear’s had <i>belacan</i> mixed with peanuts and <i>teecheo</i> (Chinese sweet black sauce). <i>Image reproduced from Lee, G.B. (2009). Classic Asian Salads (p. 188). Singapore: Marshall Cavendish Cuisine. Collection of the National Library, Singapore. (Call no.: RSING 641.83 LEE).</i></div>
+
+
 *Bakwan kepiting. Babi pongteh. Ayam buah keluak*. Many Singaporeans would describe these dishes as classic Peranakan or Straits Chinese dishes. However, the Malay word “peranakan” means “local born”, so perhaps a more accurate term for this cuisine is not so much “Straits Chinese” but “Straits-born”. 
 
 The Straits, in this case, refers not only to the territories of the former Straits Settlements, namely Singapore, Melaka and Penang, but also the islands that make up the Indonesian archipelago – an area that historians refer to as Island Southeast Asia. Through centuries of trade and colonisation, the people of Island Southeast Asia melded ancient culinary traditions with colonial culinary cultures and introduced ingredients that gave rise to several hybrid cuisines characteristic of the Straits-born communities – Eurasian (mainly of Portuguese, Dutch and English heritage),[^1] Chetti Melaka (or Chitty Melaka)[^2] as well as Penang, Melaka and Indonesian Chinese. 
