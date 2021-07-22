@@ -17,6 +17,9 @@ table {
 
 #### Continuing with the series on printing in Southeast Asia, **Gracie Lee** explores the early history of printing and printed works in the Philippines.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/earlyprinting/EarlyPrinting_Main2.jpg)
+<div style="background-color: white;">Map of the Philippine Islands (1924) compiled and published by John Bach, and the cover to the postal directory accompanying the map. The map was lithographed by Carmelo and Bauermann. <i>Gift of Mr Tan Yeok Seong. Collection of the National Library, Singapore (Accession no.: B19475837K). </i></div>
+
 
 The spread of printing in Southeast Asia is closely intertwined with European colonisation and the arrival of missionaries in the region from the 16th century onwards. While the time-honoured art of woodblock printing (known also as xylography) had been used in Vietnam as early as the 11th century,[^1] book printing was unknown in the rest of Southeast Asia where oral and manuscript traditions had existed for centuries.[^2] The emergence of a print culture in the Philippines is particularly fascinating as it chronicles the transnational and cross-cultural transfer of printing knowledge among the Europeans, the Chinese and indigenous Filipinos within colonial Filipino society and economy.
 
@@ -28,6 +31,12 @@ Printing came on the heels of the spread of Christianity and Spanish colonisatio
 ##### **Oldest Known Book Printed in the Philippines**
 The *Doctrina Christiana* (*Christian Doctrine*) is widely accepted as the oldest surviving book printed in the Philippines. This publication of Catholic teachings was printed in 1593 using the xylographic method in two editions. The version in Spanish-Tagalog was written for the local Filipino population and is attributed to Franciscan friar Juan de Plasencia, whose translation was approved by the diocesan synod in 1582. The second was produced in Chinese for the conversion of the Chinese community in the Parián,[^6]  a commercial enclave of Manila. 
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/earlyprinting/Doctrina1.jpg)
+<div style="background-color: white;"><i>Doctrina Christiana, en Lengua Española y Tagala</i> (1593), widely accepted as the oldest surviving book printed in the Philippines. The woodcut frontispiece of the Spanish-Tagalog version depicts Dominic de Guzmán, the founder of the Dominican Order. Library of Congress, Rare Book and Special Collections Division. <i>Retrieved from Library of Congress website.</i></div>
+
+
+
 In a letter from the governor-general of the Philippines, Gómez Pérez Dasmariñas, to King Philip II of Spain dated 20 June 1593, Dasmariñas wrote that because of the existing great need, “he had granted a licence for the printing of the *Doctrinas Christianas*, herewith enclosed – one in the Tagalog language, which is the native and best of these islands, and the other in Chinese – from which I hope great benefits will result in the conversion and instruction of the peoples of both nations; and because the lands of the Indies are on a larger scale in everything and things more expensive, I have set the price of them at four reales a piece, until Your Majesty is pleased to decree in full what is to be done”.[^7]  
 
 Printing permits were required as books were a tightly controlled commodity during Spanish rule (1565–1898) in the Philippines. In 1556, a royal cedula (decree) was issued prohibiting the sale of books about the East Indies without a special licence. 
@@ -35,6 +44,11 @@ Printing permits were required as books were a tightly controlled commodity duri
 In 1583, the Commissary of the Holy Office in Manila was instructed to inspect and seize imported books of prohibited titles. Restrictions were extended the following year such that “when any grammar or dictionary of the language of the Indies be made, it shall not be published or printed or used unless it has first been examined by the Bishop and seen by the Royal Audiencia [the colonial court]”.[^8]  
 
 Up until the mid-20th century, there were two known versions of the *Doctrina Christiana* in existence – a Spanish-Tagalog edition held at the Library of Congress titled *Doctrina Christiana, en Lengua Española y Tagala* (*Christian Doctrine in Spanish and Tagalog Languages*) printed at the Dominican Church of San Gabriel in Manila, and an undated Chinese edition found in the Vatican Library titled *Doctrina Christiana en Letra y Lengua China* (*Christian Doctrine in the Chinese Language and Letters*) compiled by Dominican priests ministering among the Sangleys (people of mixed Chinese and Filipino ancestry) and printed by Keng Yong, a Chinese living in the Parián district of Manila. In the absence of other known copies, these two texts were thought to be the ones referred to in the governor-general’s letter.[^9] 
+
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/earlyprinting/Doctrina1_Chinese.jpg)
+<div style="background-color: white;">The Chinese version of the <i>Doctrina Christiana<i> titled《辯正教真傳實錄》(<i>Testimony of the True Religion<i>). Written by Dominican friar Juan Cobo and printed in 1593, one of the illustrations in the publication shows a Dominican friar with a book in his hand (presumably the Bible) conversing with a Chinese scholar. Image from the holdings of the Biblioteca Nacional de España. <i>Retrieved from Biblioteca Digital Hispánica website.</i></div>
+
 
 In 1952, however, the discovery of another Chinese version at the Biblioteca Nacional de España (National Library of Spain) rippled across the scholarly community. Titled《新刻僧師高母羡撰無極天主正教真傳實錄》(*Xin Ke Seng Shi Gao Mu Xian Zhuan Wuji Tianzhu Zhengjiao Zhenchuan Shilu; A Printed Edition of the Veritable Record of the Authentic Tradition of the True Faith in the Infinite God, by the Religious Master Kao-mu Hsien*), also known as《辯正教真傳實錄》(*Bian Zhengjiao Zhenchuan Shilu, Testimony of the True Religion*), the work was written by Dominican friar Juan Cobo, who arrived in Manila in 1588. It was printed in the “second month of the spring in the year of our Lord 1593”.[^10] 
 
