@@ -33,7 +33,7 @@ Widely accepted as the earliest written version of the story of Mulan (木兰), 
 
 During the Tang dynasty (618–907), the story was retold as《木兰歌》(*Mulan Ge*; *The Song of Mulan*), a poem written by Wei Yuanfu (韦元甫). Several centuries later, during the Ming dynasty (1368–1644), Xu Wei (徐渭) composed the opera《雌木兰替父从军》(*Cimulan Tifucongjun; Female Mulan Took Her Father’s Place in the Army*). The story was then turned into the novel《北魏奇史闺孝烈传》(*Beiwei Qishi Guixiao Liezhuan; The Legendary Story of a Filial and Heroic Girl from the Northern Wei*) by Zhang Shaoxian (张绍贤) during the Qing dynasty (1644–1912).[^4]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Poem.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Poem2.jpg)
 <div style="background-color: white;">The first known written form of the poem about Mulan titled《木兰辞》(<i>The Ballad of Mulan</i>) and 木兰歌 (<i>The Song of Mulan</i>) by Wei Yuanfu (韦元甫) were compiled by Guo Maoqian (郭茂倩) in his anthology of poetry,《乐府诗集》(<i>Yuefu Shiji</i>). <i>Image reproduced from 郭茂倩 [Guo M.Q.]. (1264–1269).《乐府诗集: 一百卷，目录 [二卷]》. Hubei: Chong Wen Shu Ju. Retrieved from Hathi Trust Digital Library website.</i></div>
 
 
