@@ -103,6 +103,10 @@ Pinpin was a printer and writer from Abucay, a municipality in the province of B
 
 In 1608, Francisco Blancas de San José was posted to Abucay where he collaborated with Pinpin in the production of *Arte y Reglas de la Lengua Tagala* (*Art and Rules of the Tagalog Language*; 1610), the first published grammar of the Tagalog language. As the first published text of its kind, the work became a blueprint for the writing of subsequent grammar books on the native languages of the Philippines. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/earlyprinting/ArteYReglas.jpg)
+<div style="background-color: white;"><i>Arte y Reglas de la Lengua Tagala</i> (<i>Art and Rules of the Tagalog Language</i>) is the first published grammar of the Tagalog language. It was printed in 1610 by Tomás Pinpin. Shown here is the title page (left) and also the page of a hymn dedicated to the Purissima Virgen y Verdadera Madre de Dois Maria (Mary, the Most Pure Virgin and True Mother of God). Library of Congress, Rare Book and Special Collections Division. <i>Retrieved from Library of Congress website.</i></div>
+
+
 Pinpin and fellow Filipino printer Domingo Loag also operated the typographical printing press that the Franciscans had established in Pila, Laguna. In 1613, they printed Franciscan friar Pedro de San Buenaventura’s *Vocabulario de la Lengua Tagala* (*Vocabulary of the Tagalog Language*), the oldest surviving Tagalog dictionary.[^23]
 
 Pinpin’s trailblazing achievements extended beyond the realm of printing. He also authored *Librong Pagaaralan nang manga Tagalog nang Uicang Castilla* (*Reference Book for Learning Castellano in Tagalog*), celebrated as the first published work by an indigenous Filipino. Written to help fellow Filipinos learn Spanish, the guide was printed in Bataan in 1610 by Diego Talaghay, thought by some to be Pinpin’s assistant. 
