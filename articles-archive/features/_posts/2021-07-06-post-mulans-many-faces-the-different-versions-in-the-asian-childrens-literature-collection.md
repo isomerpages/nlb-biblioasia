@@ -130,17 +130,17 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 |Other Asian tales focusing on the themes of familial love and filial devotion include those from Korea, Japan and Nepal. In the Korean tale titled *In The Moonlight Mist* (1999),[^24] the heavenly king rewards a woodcutter who sacrifices his own happiness for his mother’s welfare by reuniting him with his family in heaven.|
 
  |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/TextBoxBook_Moonlight.png)
-<div style="background-color: white;">A son’s loving devotion to his elderly mother is fittingly rewarded and celebrated in this Korean folktale retold by Daniel San Souci. <i>San Souci, D. (1999). In the Moonlight Mist: A Korean Tale. Honesdale, PA: Boyds Mills Press. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.209519 SAN-[ACL]).</i></div>|
+A son’s loving devotion to his elderly mother is fittingly rewarded and celebrated in this Korean folktale retold by Daniel San Souci. <i>San Souci, D. (1999). In the Moonlight Mist: A Korean Tale. Honesdale, PA: Boyds Mills Press. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.209519 SAN-[ACL]).</i>|
 
 |The much-loved Japanese folktale, *The Wise Old Woman* (1994),[^25] tells of how a loving farmer shields his aged mother away from a cruel young lord who banishes elderly villagers, when they reach the age of 70, to the mountains and leave them to die there. When a nearby ruler threatens to invade the village unless the lord can perform three impossible tasks, only the farmer’s mother succeeds in solving them. The lord then reverses his decree and declares that elders “will be treated with respect and honour, and will share with us the wisdom of their years”.|
 
  |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/TextBoxBook_WiseOldWoman.png)
-<div style="background-color: white;">Wisdom comes with age and experience, and nowhere is this more apparent than Yoshiko Uchida’s retelling of a traditional Japanese folklore, <i>The Wise Old Woman</i>. <i>Uchida, Y. (1994). The Wise Old Woman. New York: Margaret K. McElderry. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC398.20952 UCH-[ACL]).</i></div>|
+Wisdom comes with age and experience, and nowhere is this more apparent than Yoshiko Uchida’s retelling of a traditional Japanese folklore, <i>The Wise Old Woman</i>. <i>Uchida, Y. (1994). The Wise Old Woman. New York: Margaret K. McElderry. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC398.20952 UCH-[ACL]).</i>|
 
 |In the Nepalese fable, *I, Doko: The Tale of a Basket* (2004),[^26] a man decides to abandon his ailing father by placing him in a basket on the temple steps. The man realises his mistake when his young son asks him to bring the basket back so that the son would not have to buy a new one when the time comes for him to carry his father to the temple to be abandoned. Told from the point of view of the basket called Doko, which has served the family for decades, the moral of the story is to treat old people with respect and deference even when they are ailing and are no longer “useful”.|
 
  |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Doko2.png)
-<div style="background-color: white;">Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance of filial love in this poignant Nepalese folktale by Ed Young. <i>Young, E. (2004), I, Doko: The Tale of a Basket. New York: Philomel Books. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 813.54 YOU).</i></div>|
+Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance of filial love in this poignant Nepalese folktale by Ed Young. <i>Young, E. (2004), I, Doko: The Tale of a Basket. New York: Philomel Books. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 813.54 YOU).</i>|
 
 
 |These timeless Asian tales for children have captivated the young and the young at heart alike for many generations. It was for the purpose of raising the profile and increasing the appreciation of Asian-centric children’s literature that the ACL Collection was first initiated by the National Library of Singapore in the 1960s.[^27]|
@@ -155,7 +155,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 
 |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/OtogiBanashi2.png)
-<div style="background-color: white;"><i>Otogi-Banashi: A Miniature Toy-Book</i> from Japan contains three miniature books on well-loved Japanese folktales as well as an introductory essay on the history of toy books and woodblock prints. <i>Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RCLOS 895.63 HER).</i></div>|
+<i>Otogi-Banashi: A Miniature Toy-Book</i> from Japan contains three miniature books on well-loved Japanese folktales as well as an introductory essay on the history of toy books and woodblock prints. <i>Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RCLOS 895.63 HER).</i>|
 
 
 |Another gem is the visually arresting *Pang Tao (Flat Peaches): Eight Fairies Festival* (c. 1900–1950)[^33] about a legendary group of deities. Bound in an accordion format and containing 10 beautifully hand-coloured illustrations framed in silk brocade, this bilingual title in English and Chinese is available in the ACL Collection.|
