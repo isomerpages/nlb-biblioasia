@@ -35,7 +35,7 @@ Beyond attending cocktail parties, Woon also approached ambassadors and foreign 
 In addition to obtaining birds, there was also the challenge of keeping them safe. On top of preventing the birds from flying away, the bird park had to deal with thefts as well. In September 1969, a rare cassowary, two peacocks and a pair of storks were actuallly stolen from the park and sold off. [^11]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/Cassowary.jpg)
-<div style="background-color: white;">A cassowary, like the one stolen in 1969. <i>Courtesy of Wildlife Reserves Singapore</i>.
+<div style="background-color: white;">A cassowary, like the one stolen in 1969. <i>Courtesy of Wildlife Reserves Singapore</i>.</div>
 
 Apparently, a day after the birds were stolen, three men approached a bird shop in Geylang with an offer to sell “Indonesian birds”. The shop assistant asked to see the birds and was taken to a house in Changi. “A price of $500 was offered, but this was later bargained down to $250. The shop assistant then took them back to his shop and paid the money there.”[^12]
 
