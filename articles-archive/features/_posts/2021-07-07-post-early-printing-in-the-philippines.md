@@ -129,6 +129,10 @@ This paved the way for other Spanish-language newspapers, such as the first dail
 
 Some leading printing firms and publishing houses in the 19th century include the Imprenta y Litografía de Ramírez y Giraudier, which was established in 1858 as a lithographic printing firm, and Carmelo and Bauermann (1887–1938), a major publishing house co-founded by artist-engraver Don Eulalio Carmelo de Lakandula, and William Bauermann, a German lithographer and cartographer. Carmelo’s son Alfredo (a famous Filipino aviator), operated the firm until 1938. Collectively, both firms produced some of the most beautiful prints on the Philippines, such as the images of Filipino life and landscapes in the illustrated magazine *Ilustración Filipina*,[^26] and maps of the Philippines. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/earlyprinting/Seamstress.jpg)
+<div style="background-color: white;">Portrait of a local seamstress (1858) by Baltasar Giraudier and C.W. Andrews from <i>Ilustración Filipina</i>, 1 April 1859 (No. 3). It was lithographed by Imprenta y Litografía de Ramírez y Giraudier, which was established in 1858 as a lithographic firm. Image from the holdings of the Biblioteca Nacional de España. <i>Retrieved from Biblioteca Digital Hispánica website.</i></div>
+
+
 Another firm, Cacho Hermanos, which started as a printing shop set up in 1880 by the first lithographic printer in the Philippines, Salvador Chofre, is one of the longest surviving printers still in business today. 
 
 In 1901, the Bureau of Printing (today’s National Printing Office) was created to take charge of all routine government printing jobs such as government gazettes, official reports and communication materials. The emergence of commercial and government printing sets the stage for the next phase of the history of printing and publishing in the Philippines as Spanish colonial rule drew to a close, to be replaced by another colonial master, the United States, in the early 20th century. 
