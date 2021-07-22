@@ -58,11 +58,10 @@ My father’s mural of the cultural dances of Malaysia, which measured about 9 m
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Head%20of%20Toa%20Payoh.jpg)
 <div style="background-color: white;">Chan Thye Seng (right; former head of the Toa Payoh Branch Library) with Professor J. Clement Harrison, Dalhousie University, a speaker at the Commonwealth Asian Regional Workshop on Research Methodology in Librarianship, 1977. The background shows part of the “Cultural Dances of Malaysia” mural by Shamsuddin H. Akib. <i>Courtesy of Chan Thye Seng.</i></div>
 
-
-
-
-
 Bill’s mural of Singapore’s cityscape at night was the longest of the three, at about 12 metres by 1.5 metres. It was installed on the opposite end of the building from my father’s mural, at the staircase landing one floor up. Due to the open-concept design of the concourse, this mural was still visible from the ground floor though. Bill’s second mural of Malaysian scenes, however, was much less visible as it was installed in the transit lounge on the ground floor. (The dimensions of this mural are not available.)
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Skyline%20of%20Singapore.jpg)
+<div style="background-color: white;">View of the “Skyline of Singapore” mural by William P. Mundy and the concourse at Paya Lebar Airport, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 ##### **Of Mosaic and Iron**
 Although Bill and my father did not discuss their designs beforehand, the two men agreed on the basic material for the murals – Italian mosaic or coloured Smalti glass. Bill had seen these being used in Singapore and thought that it would be suitable for the murals. 
