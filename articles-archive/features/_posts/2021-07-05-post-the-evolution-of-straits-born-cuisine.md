@@ -74,8 +74,6 @@ Baking as a cooking technique was first introduced to Southeast Asia in the colo
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/KuehBangkit.jpg)
 <div style="background-color: white;">During the colonial era, charcoal-fired ovens were used for baking <i>kueh bangkit</i>, a biscuit made of tapioca flour (<i>Manihot esculenta</i>), <i>santan</i> (coconut cream) and white or palm sugar. This is still a traditional festive treat made for occasions such as the Lunar New Year and Hari Raya Puasa. <i>Courtesy of Lee Geok Boi.</i></div>
 
-
-
 Another festive treat is *kueh Belanda* (meaning “Dutch cake” in Malay), commonly known as “love letters” (crispy egg rolls), which are still best made on a charcoal-fired grill. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/KuehBelanda.jpg)
@@ -83,6 +81,8 @@ Another festive treat is *kueh Belanda* (meaning “Dutch cake” in Malay), com
 
 Interestingly, a recipe labelled as “Dutch” for *Ijzer Koekes*, translated as “Iron (thin) Cakes”, was found in a compilation of traditional Sri Lankan recipes first published in 1929.[^9] The recipe is identical to that for *kueh Belanda*. What Singaporeans call “love letters” are better known as *kueh kapit* in Penang, where the thin *kueh* is folded flat into a triangular shape rather than rolled into a cigarillo-like *ijzer koek* or love letter. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/Snacks.jpg)
+<div style="background-color: white;">Typical Straits-born snacks include pineapple tarts, <i>kueh pie tee</i> shells filled with shredded bamboo shoots, coconut candy and <i>pulot hitam</i> drizzled with coconut milk. <i>Image reproduced from Lee, G.B. (2021). In a Straits-born Kitchen (p. 116). Singapore: Marshall Cavendish Cuisine. Collection of the National Library, Singapore. (Call no.: RSING 641.5959 LEE)</i>.
 
 ##### **Tracing Straits-born Cooking**
 Unlike textiles or pottery, delectable dishes have an ephemeral existence. Fortunately, recipes are almost always transmitted orally within families and communities and many of these traditional recipes have  also found their way into cookbooks. This makes tracing the evolution of Straits-born cuisine easier and more accurate.[^10]
