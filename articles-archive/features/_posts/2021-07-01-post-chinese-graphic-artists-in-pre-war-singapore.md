@@ -6,6 +6,11 @@ layout: post
 ---
 #### Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. **Lee Chor Lin** highlights their works.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg)
+<div style="background-color: white;">An advertisement by Xu Diaolun for Khiauw Hing, which sold chemical products and liquor from Shanghai, China, published in the catalogue of the Chinese National Trade Fair in 1935. <i>National University of Singapore Library Collection.</i></div>
+
+
+
 As Singapore became one of the most dynamic global cities during the first half of the 20th century, it began to attract new migrants due to the myriad opportunities and lifestyles offered by a modern and booming metropolis. By the late 1920s, established and novice artists from China began converging in Singapore due to the job opportunities as well as the instability back home caused by natural disasters, incessant civil wars and Japanese aggression. As a result, in the years leading up to the fall of Singapore in February 1942, the art scene here was thriving and new styles of art were being created.[^1]
 
 Print advertising production also flourished during this period because the demand for news and information led to an exponential growth in the publishing industry, powered by large-scale printing technology.
