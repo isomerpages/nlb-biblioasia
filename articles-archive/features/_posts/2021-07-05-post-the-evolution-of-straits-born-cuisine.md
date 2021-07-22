@@ -64,6 +64,13 @@ The arrival of the Portuguese in the 16th century brought about one of the bigge
 
 The subsequent arrival of the Dutch and British brought wheat flour and butter, without which Straits-born classics such as sugee cake and *kueh lapis*[^8] (also known as *spekkoek*, meaning “bacon cake” in Dutch) would not be possible. Traditional Southeast Asian *kueh* (or *kuih*; bite-sized snacks or dessert foods) were rice-based.
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/KuehLapis.jpg)
+<div style="background-color: white;">The arrival of the Dutch and British to Southeast Asia brought wheat flour and butter, without which the Straits-born classic <i>kueh lapis</i> would not be possible. <i>Image reproduced from Lee, G.B. (2021). In a Straits-born Kitchen (p. 155). Singapore: Marshall Cavendish Cuisine. Collection of the National Library, Singapore. (Call no.: RSING 641.5959 LEE).</i></div>
+
+
+
+
 Baking as a cooking technique was first introduced to Southeast Asia in the colonial era, and charcoal-fired ovens were used for making *kueh bahulu* and *kueh bangkit*. The former is a type of small sponge cake baked with eggs, wheat flour and sugar, while the latter is a biscuit made of tapioca flour (*Manihot esculenta*; a South American native and probably a Portuguese introduction to Southeast Asia), *santan* (coconut cream), and white or palm sugar. These are traditional festive treats that are still made for  occasions such as the Lunar New Year and Hari Raya Puasa (Eid al-Fitr). 
 
 Another festive treat is *kueh Belanda* (meaning “Dutch cake” in Malay), commonly known as “love letters” (crispy egg rolls), which are still best made on a charcoal-fired grill. 
