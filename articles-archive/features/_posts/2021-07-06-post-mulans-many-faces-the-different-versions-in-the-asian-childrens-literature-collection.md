@@ -61,7 +61,7 @@ Another book, Song Nan Zhang’s *The Ballad of Mulan* (1998), has adopted the s
 
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/BalladofMulan2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/BalladofMulan3.jpg)
 <div style="background-color: white;">These pages from Song Nan Zhang’s <i>The Ballad of Mulan</i> describe the war and how Mulan earned respect for herself. <i>Image reproduced from Zhang S.N. (1998). The Ballad of Mulan. Union City, California: Pan Asian Publications. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.220951 ZHA-[ACL]).</i></div>
 
 
