@@ -105,6 +105,10 @@ Leong Siew Tien (Liang Xiaotian) came to Singapore, possibly via Hong Kong, and 
 
 Leong’s versatility in Chinese ink and watercolour painting is documented in publications of the Chung Shan (Clan) Association (中山會館) and the Society of Chinese Artists, where he was a member.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/LeongSiew.jpg)
+<div style="background-color: white;">A Chinese ink painting by Leong Siew Tien published in Chung Shan Association’s commemorative book, 1950. <i>National University of Singapore Library Collection.</i></div>
+
+
 While his watercolour works are competently executed, Leong’s classical training is visible in his Chinese-ink works, which recall the Shanghai School (上海画派) influence, characterised by powerful calligraphy-style brushwork and dynamic compositions.
 
 In 1948, Leong joined a group of old-school scholars, calligraphers and Shanghai-influenced artists to form the Seal and Inscription Society (金石学会; *Jinshi Xuehui*), a hobbyist gathering dedicated to the study and appreciation of ancient inscriptions, etymology, calligraphy and seal-carving.
