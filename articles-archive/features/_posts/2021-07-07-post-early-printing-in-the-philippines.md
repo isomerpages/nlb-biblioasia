@@ -96,6 +96,9 @@ This expository guide, composed by Dominican friar Tomás Mayor (哆媽氏), was
 ##### **The First Filipino Printer**
 From the early 17th century, the influence of Chinese printers began to wane as a generation of local Filipino printers emerged. Foremost among them was Tomás Pinpin, who is credited as the first Filipino printer and typesetter.[^21] Today, his name is enshrined throughout the Philippines – such as the Limbagang Pinpin Museum in Abucay, Tomas Pinpin Street in Manila and an early 20th-century Tomás Pinpin obelisk that stands at the Plaza San Lorenzo Ruiz in Manila.[^22]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/earlyprinting/TomasPinpin.jpg)
+<div style="background-color: white;">A replica of the Tomás Pinpin monument at the Limbagang Pinpin Museum. He is credited as the first Filipino printer and typesetter. The monument is sited at the Plaza San Lorenzo Ruiz in Manila. <i>Courtesy of Limbagang Pinpin Museum.</i></div>
+
 Pinpin was a printer and writer from Abucay, a municipality in the province of Bataan. It is commonly believed that he had learnt to print from an apprenticeship with Chinese artisans and/or Francisco Blancas de San José, who set up the first movable type press in Binondo with Juan de Vera. 
 
 In 1608, Francisco Blancas de San José was posted to Abucay where he collaborated with Pinpin in the production of *Arte y Reglas de la Lengua Tagala* (*Art and Rules of the Tagalog Language*; 1610), the first published grammar of the Tagalog language. As the first published text of its kind, the work became a blueprint for the writing of subsequent grammar books on the native languages of the Philippines. 
