@@ -44,7 +44,7 @@ Malay weddings incorporate both Islamic practices as well as customs that are sp
 
 Among these ceremonies, *nikah* is the only religious obligation stipulated by Islam. Traditionally, it takes place the day before *walimah* and *bersanding*. An intimate affair attended by close family members and friends, the solemnisation ceremony is held at the bride’s residence or at a reception venue. A religious official, known as the *tok kadi*, officiates and oversees the proceedings and also issues the marriage certificate.[^4] 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/ATokKadi.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/TokKadi.jpg)
 <div style="background-color: white;">A <i>tok kadi</i> (right; religious official) performing the <i>akad nikah</i>, or solemnisation ceremony, 1980. The <i>akad nikah</i> is an obligation in Islam. The <i>tok kadi</i> officiates and oversees the proceedings, and issues the marriage certificate. <i>Hasnah Sapii Collection, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -112,7 +112,7 @@ It has also become customary in Malay weddings for the groom and his groomsmen t
 Once the groom is seated on the dais, family members and guests take turns to go up and congratulate the couple and to have their photos taken with them. The *bersanding* ceremony ends with the bride and groom having their first meal together as husband and wife, known as the *makan berdamai*. In the past, the couple would retreat to the bridal room to have their meal, accompanied by their *pengapit*. Today, the bride and groom are seated at a special dining table set up near the dais so that they can mingle and interact with their guests.[^21]
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/Bersanding.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/Bersanding2.jpg)
 <div style="background-color: white;">The <i>bersanding</i> ceremony ends with the bride and groom having their first meal together as husband and wife, known as <i>makan berdamai</i>, 2020. The newlyweds are seated at a special dining table set up near the dais so that they can mingle and interact with their guests. <i>Courtesy of Asrina Tanuri. </i></div>
 
 
@@ -154,7 +154,7 @@ During this process, the *mak andam* would recite mantras while removing the hai
 
 The aforementioned Javanese *kuda kepang* dance, which used to be a popular form of entertainment at weddings, also fell out of favour for the same reason. In Singapore, the dance was commonly performed at Malay weddings in the 1970s and early 80s. Dancers would enter into a trance and perform feats like peeling coconut husks using their teeth, chewing or eating glass, and drinking buckets of water. However, in 1979, Majlis Agama Islam Singapura (Islamic Religious Council of Singapore) advised that the trance elements of *kuda kepang* contravened the tenets of Islam and urged Muslims to avoid such performances.[^33] As a result, the practice has died out.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/TepungTawar.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/Silat.jpg)
 <div style="background-color: white;">Despite changes to wedding rituals over the years, modern Malay weddings still retain some traditional features, such as this <i>silat pengantin</i> performed in the presence of the bridegroom to the beat of the <i>kompang</i> in 2017. <i>Courtesy of Mohammed Farhan Bin Hassan.</i></div>
 
 
