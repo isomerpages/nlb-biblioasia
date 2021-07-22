@@ -44,6 +44,10 @@ In addition to aromatics, various useful plants that yield valuable cooking ingr
 
 East Java is the main source of *buah keluak*, the hard nut of the *kepayang* (*Pangium edule*), a tropical tree native to Indonesia, Malaysia and New Guinea. As hydrogen cyanide, a poison, is found in all parts of the tree, the nuts have to undergo a complicated process to neutralise the poison before they can be sold. Aficionados of *buah keluak* then go through another process to thoroughly clean and shell the nuts before cooking them with chicken or pork in this unusual-looking dish. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/Ingredients.jpg)
+<div style="background-color: white;"><i>Ayam buah keluak</i> is a typical Singapore Straits Chinese dish cooked using <i>buah keluak</i>, the hard nut of the <i>kepayang</i> (<i>Pangium edule</i>) tree. <i>Image reproduced from Lee, G.B. (2014). Asian Soups, Stews and Curries (p. 70). Singapore: Marshall Cavendish Cuisine. Collection of the National Library, Singapore. (Call no.: RSING 641.813095 LEE).</i></div>
+
+
 Global trade and the movement of traders added yet more ingredients to an already well-endowed Southeast Asian culinary tradition.[^3] Pepper (*Piper nigrum*), originally native to India, has been cultivated in Java and Sumatra since 200 BCE. Turmeric (*Curcuma longa*) and cardamom (*Elettaria cardamomum*), two members of the ginger family, are native to India, as are tamarind (*Tamarindus indica*), or *asam*, and the mango (*Mangifera indica*). 
 
 The Indian traders who introduced Buddhism and Hinduism to Southeast Asia also brought with them seed spices that they had acquired through trade further westwards: coriander (*Coriandrum sativum*) from the southern Mediterranean, cumin (*Cuminum cyminum*) from West Asia, fennel (*Foeniculum vulgare*) from southern Europe and West Asia, and fenugreek (*Trigonella foenum-graecum*) from southern Europe and West Asia. These spices became essentials in the spice mixes used in Indian and Straits-born cuisines. 
