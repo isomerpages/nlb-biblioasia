@@ -108,6 +108,11 @@ The titles published in North America put more effort into providing background 
 
 On the other hand, the authors whose books are published in Asia appear to take it for granted that their audience has the necessary background. Yong Chun merely notes that Mulan exemplifies the Chinese values of loyalty (忠), filial piety (孝), benevolence (仁) and love (爱), while Li Xiang simply states on the back cover of his book that the original poem《木兰辞》is a gem passed down through history. No extra explanations are given.[^19]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/YongChun.jpg)
+<div style="background-color: white;">Yong Chun’s《 花木兰》has elements from the opera added to the basic story depicted in the poem, The Ballad of Mulan. <i>永春 [Yong, C.]. (2002).《花木兰》[Hua Mulan]. 新加坡: 新亚出版社. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC Chinese C813.4 YC).</i></div>
+
+
+
 These differences probably arise from the writer’s perception of who the readers will be.
 
 Differences in treatment notwithstanding, the fundamental story of Mulan taking her father’s place in the army has not changed over the last 1,500 years. The enduring popularity of her story is testimony to the fact that this particular tale strikes a deep chord within people, regardless of time period or cultural milieu. And Mulan herself continues to serve as an inspiration and role model for children today.
