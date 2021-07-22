@@ -17,11 +17,13 @@ table {
 
 #### Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan & Maclaren introduced the concept of apartment living in Singapore, as **Julian Davison** tells us.
 
-
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 </div>
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/Mansion_Main.jpg)
+<div style="background-color: white;">Amber Mansions, Orchard Road, c. 1922. The Cape Dutch Revival-style elevations of Amber Mansions almost certainly point to Denis Santry as the author of this building, the architect having previously worked in South Africa during a period when a revival of traditional Cape Dutch architecture was at its height. <i>Courtesy of National Museum of Singapore, National Heritage Board</i>.</div>
 
 |Established in 1892, Swan & Maclaren (named after Archibald Alexander Swan and James Waddell Boyd Maclaren) is the oldest architectural practice in Singapore. Its architects, such as Regent Alfred John Bidwell, Denis Santry and Frank Lundon, designed many of Singapore’s historic buildings, including Raffles Hotel, Teutonia Club (present-day Goodwood Park Hotel), Chesed-El Synagogue, Stamford House, Victoria Memorial Hall and Theatre, and Tanjong Pagar Railway Terminus. |
 
@@ -39,6 +41,7 @@ In Singapore, the earliest apartment dwelling per se was probably the Elias Buil
 After World War I (1914–18), the idea began to gather traction in a big way. The most prominent of the early post-war apartment blocks was Amber Mansions at the junction of Orchard Road and Penang Lane. Commissioned by the Singapore Building Corporation in 1919, Amber Mansions is often hailed as Singapore’s first apartment block; clearly it wasn’t. It is also often singled out for special mention as Singapore’s first shopping centre. It wasn’t that either. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/BuildingPlan.jpg)
+<div style="background-color: white;">Building plan for Amber Mansions, Orchard Road, 1920 (253-2/1920). <i>Building Control Division Collection, courtesy of National Archives of Singapore</i>.</div>
 
 Nevertheless, Amber Mansions was an important and innovative building that was popularly associated in the public’s imagination with the emergence of a modern lifestyle in the years between the two world wars. It remained an architectural landmark symbolising that era until its demolition in 1984 to make way for Dhoby Ghaut MRT Station.
 
@@ -64,6 +67,9 @@ Institution Hill Mansions on River Valley Road date from the same year as Amber 
 
 Erected at a cost of $290,000, the Institution Hill apartments were primarily intended to provide accommodation for United Engineers’ European staff members. The initial scheme would comprise two residential blocks, each with three storeys and 18 units, although eventually only one block was built. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/HillMansions2.jpg)
+<div style="background-color: white;">Institution Hill Mansions, River Valley Road, 1920. This building was primarily intended as accommodation for United Engineers’ expatriate staff members, and surplus units were made available for rent to members of the general public. <i>Courtesy of Glen Christian</i>.</div>
+
 The layout of the apartments was quite similar to Amber Mansions and consisted of a living room, dining room and two bedrooms, with a shared bathroom and a box room for storage; there was also a “boy’s room” attached to the kitchen for a live-in domestic servant. Although the external elevations were unmistakably “modern” in their restrained detailing, they were less austere than Amber Mansions. With their Mock Tudor gables and loggia-style verandah-balconies, they represent a kind of Arts and Crafts take on the apartment lifestyle.[^6]
 
 #### **Eu Court, Hill Street and Stamford Road, 1925**
@@ -88,18 +94,26 @@ In the case of the Meyer Flats, as the new arrival was christened, the grid-like
 
 These details aside, Meyer Flats was an austere building, in sharp contrast to The Crescent next door. The latter, with its open verandahs and generous fenestration (arrangement of windows), was purpose-built to make the most of the sea breezes by way of natural ventilation. 
 
-Meyer Flats, on the other hand, was essentially a European-style building, being much more closed in, with modest window openings and an absence of verandahs and balconies. Indeed, apart from the louvered shutters and tiled air vents, the only real concession to Singapore’s monsoon climate was the high, hipped roof and broadly extended eaves. 
+Meyer Flats, on the other hand, was essentially a European-style building, being much more closed in, with modest window openings and an absence of verandahs and balconies. Indeed, apart from the louvered shutters and tiled air vents, the only real concession to Singapore’s monsoon climate was the high, hipped roof and broadly extended eaves.
 
-In this respect, Meyer Flats can be seen as representative of a gradual shift towards a more European style of residential architecture that took place in Singapore between the wars. Similar changes were taking place in the archetypal Singapore house which, by the late 1920s, had begun to move away from the traditional Anglo-Malay-style bungalow or villa that had defined the residential architecture of colonial Singapore more or less since the days of Raffles, towards more compact, European-style houses, with smaller windows, lower ceilings and greatly reduced verandah areas. 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/MeyerFlatPlan.jpg)
+<div style="background-color: white;">Building plan of Meyer Flats, Meyer Road, 1927 (141/1927). <i>Building Control Division Collection, courtesy of National Archives of Singapore</i>.</div>
+
+In this respect, Meyer Flats can be seen as representative of a gradual shift towards a more European style of residential architecture that took place in Singapore between the wars. Similar changes were taking place in the archetypal Singapore house which, by the late 1920s, had begun to move away from the traditional Anglo-Malay-style bungalow or villa that had defined the residential architecture of colonial Singapore more or less since the days of Raffles, towards more compact, European-style houses, with smaller windows, lower ceilings and greatly reduced verandah areas.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/Entrance.jpg)
+<div style="background-color: white;">Entrance to Meyer Flats, Meyer Road, 1970. <i>Lee Kip Lin Collection, PictureSG, National Library, Singapore</i>.</div>
 
 In both instances, what we see is a kind of Europeanisation of the building character that corresponded with a more Western-oriented outlook and lifestyle on the part of Singapore’s expatriate community. In this last respect, Meyer Flats represents a parallel development to the “mansion-block” housing schemes that were popular in London at around the same time.
 
- 
 #### **David Elias Building, Middle Road, 1927–28**
 
 Amber Mansions, Institution Hill Mansions and Meyer Flats: three upmarket residential developments that were evidently built with a European clientele in mind – their respective locations and self-aggrandising designation as “mansions” for the first two indicate as much.[^10]
 
-Likewise, the apartment blocks commissioned by Eu Tong Sen at the junction of Stamford Road and Hill Street. Which is not to say that there was any overt colour bar in place that would have prevented members of Singapore’s emerging Asian middle class – businessmen, office staff, clerical workers, school teachers and even young professionals – from renting a unit in one of these apartment blocks. If they could afford it, that is. But then somewhere in between the purpose-built apartment block and the shoebox cubicle of the repeatedly subdivided shophouse, there was a kind of halfway house – the tenement. 
+Likewise, the apartment blocks commissioned by Eu Tong Sen at the junction of Stamford Road and Hill Street. Which is not to say that there was any overt colour bar in place that would have prevented members of Singapore’s emerging Asian middle class – businessmen, office staff, clerical workers, school teachers and even young professionals – from renting a unit in one of these apartment blocks. If they could afford it, that is. But then somewhere in between the purpose-built apartment block and the shoebox cubicle of the repeatedly subdivided shophouse, there was a kind of halfway house – the tenement.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/EuCourt.jpg)
+<div style="background-color: white;">Eu Court at the corner of Hill Street and Stamford Road, c. 1930. <i>Courtesy of Glen Christian</i>.</div>
 
 The word "tenement" today comes with pejorative associations but in the 1920s, the dictionary definition of a “tenement house” was simply “a dwelling house erected or used for the purpose of being rented, esp. one divided into separate apartments, or tenements, for families”.[^11]
 
@@ -111,7 +125,10 @@ David Elias was a second cousin of Joe Elias and also his brother-in-law, as he 
 
 At the time, the land was occupied by a single “compound house”, standing in its own grounds.[^12] As the footprint of the house was small, relative to the size of the property, and in a densely populated neighbourhood of overcrowded shophouse dwellings that constituted Singapore’s Jewish quarter, or Mahallah, it seemed to David that the site could be used in a more beneficent way. 
 
-To this end, David commissioned Swan & Maclaren to design two rows of two-storey “tenement shophouses” on Short Street and also next door, at the junction of Middle Road and Short Street, a much larger, three-storey construction, today’s David Elias Building. The latter had shops and offices on the ground floor, with tenement apartments on the floors above. 
+To this end, David commissioned Swan & Maclaren to design two rows of two-storey “tenement shophouses” on Short Street and also next door, at the junction of Middle Road and Short Street, a much larger, three-storey construction, today’s David Elias Building. The latter had shops and offices on the ground floor, with tenement apartments on the floors above.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/DavidEliasTenement.jpg)
+<div style="background-color: white;">David Elias’s tenement shophouses, 2017. Located on Short Street, they consist of two terraces of three units each, placed back to back. The rear terrace, seen here, was accessed by a lane leading off Middle Road. <i>Courtesy of Julian Davison</i>.</div>
 
 Part of the ground floor of the David Elias Building was occupied by David and Joe’s own business, D.J. Elias and Company, with Messrs Cold Storage & Co. as the anchor tenant. This was one of Cold Storage’s first ventures outside of Orchard Road, where the importer of frozen comestibles had first set up shop in early 1905. 
 
@@ -121,7 +138,10 @@ The windows themselves are doubly unusual on account of the “blind” balustra
 
 The David Elias Building next door, though much larger in scale – three storeys instead of two, with a hipped roof – is stylistically very similar to its neighbours, sharing a rusticated basement floor with segmental arches spanning the five-footway as well as those distinctive cantilevered bay windows on the floors above. 
 
-A Jewish “Star of David” motif appears at regular intervals on the main elevations – this was, after all, at the heart of the Mahallah – and also adorns the two Deco-style pediments, which bookend the Middle Road elevation; the latter also bear the legend “D.J. Elias Buildings” and the date of completion, which was 1928. 
+A Jewish “Star of David” motif appears at regular intervals on the main elevations – this was, after all, at the heart of the Mahallah – and also adorns the two Deco-style pediments, which bookend the Middle Road elevation; the latter also bear the legend “D.J. Elias Buildings” and the date of completion, which was 1928.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/DavidEliasBuilding.jpg)
+<div style="background-color: white;">The David Elias Building, 2017. The building is located at the junction of Middle Road and Short Street. <i>Courtesy of Julian Davison</i>.</div>
 
 Completed in September that year, David Elias’s new venture was hailed by *The Straits Times* as “an important addition to the housing amenities of Singapore”.[^14] “Built on a site which was previously occupied by a single house and compound,” the article continues, “they afford, at reasonable rents, very acceptable housing accommodation in a congested district”. 
 
@@ -130,7 +150,7 @@ Not only was David Elias “to be congratulated on a well designed block of buil
 Commendable though the D.J. Elias Building may have been, it was, however, but a very small step in the right direction, given the huge housing problems Singapore faced at the time.
 
 
-|*Swan & Maclaren: A Story of Singapore Architecture* (2020) is published by ORO Editions and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 720.95957 DAV and SING 720.95957 DAV)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827). It retails at major bookshops in Singapore and is also sold online.|
+|![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/SwanMaclaren.png)*Swan & Maclaren: A Story of Singapore Architecture* (2020) is published by ORO Editions and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 720.95957 DAV and SING 720.95957 DAV)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827). It retails at major bookshops in Singapore and is also sold online.|
 
 
 <div style="background-color: white;">
