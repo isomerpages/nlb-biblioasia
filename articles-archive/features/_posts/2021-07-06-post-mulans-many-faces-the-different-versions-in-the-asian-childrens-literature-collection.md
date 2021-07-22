@@ -134,7 +134,7 @@ A son’s loving devotion to his elderly mother is fittingly rewarded and celebr
 
 |The much-loved Japanese folktale, *The Wise Old Woman* (1994),[^25] tells of how a loving farmer shields his aged mother away from a cruel young lord who banishes elderly villagers, when they reach the age of 70, to the mountains and leave them to die there. When a nearby ruler threatens to invade the village unless the lord can perform three impossible tasks, only the farmer’s mother succeeds in solving them. The lord then reverses his decree and declares that elders “will be treated with respect and honour, and will share with us the wisdom of their years”.|
 
-|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/TextBoxBook_WiseOldWoman.png)
+|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/TextBoxBook_WiseOldWoman2.png)
 Wisdom comes with age and experience, and nowhere is this more apparent than Yoshiko Uchida’s retelling of a traditional Japanese folklore, <i>The Wise Old Woman</i>. <i>Uchida, Y. (1994). The Wise Old Woman. New York: Margaret K. McElderry. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC398.20952 UCH-[ACL]).</i>|
 
 |In the Nepalese fable, *I, Doko: The Tale of a Basket* (2004),[^26] a man decides to abandon his ailing father by placing him in a basket on the temple steps. The man realises his mistake when his young son asks him to bring the basket back so that the son would not have to buy a new one when the time comes for him to carry his father to the temple to be abandoned. Told from the point of view of the basket called Doko, which has served the family for decades, the moral of the story is to treat old people with respect and deference even when they are ailing and are no longer “useful”.|
@@ -154,7 +154,7 @@ Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance 
 |Apart from its Asian-focused intent, the ACL Collection houses a treasure trove of uniquely crafted gems in the bookmaking tradition. *Otogi-Banashi: A Miniature Toy-Book from Japan* (1969)[^31] is a bilingual publication penned in Japanese by Tatsugoro Hirose, with the English text by Ann Herring. Embedded within a cut-out space in the pages are three Lilliputian books of much-loved Japanese folktales: “The Old Man Who Makes The Flowers Bloom”, “Momotaro” and “Kachi-Kachi Mountain”. Featuring distinctive woodblock-printed illustrations, the bindings of the miniature books and the slipcover are made of *chiyogami*, a traditional Japanese paper.[^32]|
 
 
-|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/OtogiBanashi2.png)
+|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/OtogiBanashi3.png)
 <i>Otogi-Banashi: A Miniature Toy-Book</i> from Japan contains three miniature books on well-loved Japanese folktales as well as an introductory essay on the history of toy books and woodblock prints. <i>Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RCLOS 895.63 HER).</i>|
 
 
