@@ -38,6 +38,8 @@ In Singapore, the earliest apartment dwelling per se was probably the Elias Buil
 
 After World War I (1914–18), the idea began to gather traction in a big way. The most prominent of the early post-war apartment blocks was Amber Mansions at the junction of Orchard Road and Penang Lane. Commissioned by the Singapore Building Corporation in 1919, Amber Mansions is often hailed as Singapore’s first apartment block; clearly it wasn’t. It is also often singled out for special mention as Singapore’s first shopping centre. It wasn’t that either. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/BuildingPlan.jpg)
+
 Nevertheless, Amber Mansions was an important and innovative building that was popularly associated in the public’s imagination with the emergence of a modern lifestyle in the years between the two world wars. It remained an architectural landmark symbolising that era until its demolition in 1984 to make way for Dhoby Ghaut MRT Station.
 
 The Singapore Building Corporation, despite its civic-sounding name, was actually a property development company owned by influential Jewish businessman Joseph Aaron Elias, better known as Joe Elias.[^2] The three-storeyed Amber Mansions at the bottom end of Orchard Road was named after the Elias family’s Jewish clan name; Amber Road, where the Elias family owned a lot of property, came by its name the same way. 
