@@ -176,7 +176,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 [^15]: [San Souci](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8458971), 1998, Author’s note.
 
-[^16]: 永春 [Yong, C.]. (2002).《[花木兰](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12138671)》[*Hua Mulan*]. Singapore: 新亚出版社. (Call no.: Chinese RAC C813.4 YC); Wang, Z. (2020, July). Cultural “authenticity” as a conflict-ridden hypotext: Mulan (1998), Mulan Joins The Army (1939) and a millennium-long intertextual metamorphosis. *Arts, 9* (3), 78. Retrieved from MDPI website. 
+[^16]: 永春 [Yong, C.]. (2002).《[花木兰](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12138671)》[*Hua Mulan*]. Singapore: 新亚出版社. (Call no.: Chinese RAC C813.4 YC); Wang, Z. (2020, July). Cultural “authenticity” as a conflict-ridden hypotext: Mulan (1998), Mulan Joins the Army (1939) and a millennium-long intertextual metamorphosis. *Arts, 9* (3), 78. Retrieved from MDPI website. 
 
 [^17]: Li, J. (2014). *[Mulan: A story in English and Chinese](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201262042)*. New York: Better Link Press. (Call no.: RAC 398.2 JIA-[ACL])
 
