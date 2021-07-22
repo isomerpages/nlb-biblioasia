@@ -113,6 +113,10 @@ Professionally, Leong worked as a fulltime graphic artist in his own studio. The
 
 The signatures that Leong left on his commercial works suggest that he focused on three areas – illustration, for which he signed off as 小天繪製 (*Xiaotian huizhi*); lithograph plate-making, where he used 小天製版 (*Xiaotian zhiban*); and photo-engraving, when he was known as 小天電版 (*Xiaotian dianban*).
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/LeongSiew2.jpg)
+<div style="background-color: white;">A photo engraving by Leong Siew Tien in the catalogue of the 1935 Chinese National Trade Fair. <i>National University of Singapore Library Collection.</i></div>
+
+
 Leong’s commercial art features old Shanghai-style composition made popular at the turn of the 20th century, in which products or *cheongsam*-clad ladies were meticulously drawn using clean lines, perfect for monochrome printing, while text was rendered in striking classic seal characters. He was also an active member of the Singapore Commercial Art Society until the late 1970s.
 
 #### **Cupid Studio (天使畫室)**
