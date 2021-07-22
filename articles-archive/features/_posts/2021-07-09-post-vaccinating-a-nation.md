@@ -6,7 +6,7 @@ layout: post
 ---
 #### The history of vaccination in Singapore goes back to the days of William Farquhar. **Ong Eng Chuan** provides an overview of vaccination efforts to prevent epidemics from breaking out here.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Vaccination.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Vaccination%20-%20Main2.jpg)
 <div style="background-color: white;">A child receiving a spoonful of the oral Sabin vaccine at the Lim Ah Pin Road Clinic during a polio epidemic, 1958. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The ongoing Covid-19 pandemic has cast vaccination into the spotlight in the fight against the disease and to reduce its spread. Vaccination is not a new phenomenon in Singapore though. Most children here are routinely vaccinated against diseases such as measles and mumps.
@@ -30,7 +30,7 @@ It was also difficult to obtain fresh vaccine lymph or material when the supply 
 
 In 1863, when the incidence of smallpox increased again, the government was urged to take tougher measures, including making vaccination compulsory by law, following in the footsteps of the Dutch who had successfully introduced compulsory vaccination in the Dutch East Indies (present-day Indonesia).[^9]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Waitingvaccinated.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Waitingtobevaccinated.jpg)
 <div style="background-color: white;">People waiting to be vaccinated against smallpox outside the health centre on Outram Road in April 1959. After four cases of smallpox were discovered in Kampong Alexandra in 1959, government and city health authorities decided on an island-wide vaccination as a precaution. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission</i>.</div>
 
 Stricter public health control measures were finally introduced after the Straits Settlements became a Crown Colony in 1867. The Quarantine Ordinance was passed by the Legislative Council in June 1868, followed by An Ordinance to Extend and Make Compulsory the Practice of Vaccination, which came into effect on 1 May 1869.[^10]
