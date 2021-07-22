@@ -52,6 +52,10 @@ Apart from teaching art at Yeung Cheng (養正學校) and Tuan Mong schools, and
 
 At the invitation of Chen Lien Tsing (陳鍊青), the chief editor of *Lat Pau* (叻报), Tchang redesigned the masthead of its literary section, *Coconut Grove* (椰林; *Yelin*), and subsequently guest-edited *Yehui* (椰暉), *Lat Pau*’s illustrated weekend pictorial, for half a year between October 1930 and April 1931. During this period, Tchang made a name for himself as an accomplished cartoonist and when he opened Ju Chi studio (汝器画室) in early 1930, it was widely publicised in both *Lat Pau* and *Sin Chew Jit Poh*.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/JuChi.jpg)
+<div style="background-color: white;">Advertisements by Ju Chi Studio published in the <i>Sin Chew Jit Poh</i> newspaper between 1929 and 1930. Ju Chi Studio was set up by Tchang Ju-ch’i in February 1930. <i>Sin Chew Jit Poh, 27 September 1930, p. 2; and Sin Chew Jit Poh, 7 September 1929, p. 2. Retrieved from NewspaperSG.</i></div>
+
+
 In 1934, Tchang and U-Chow (莊有釗) set up The United Painters (朋特畫社) at 181 Tank Road, offering a suite of services such as advertisement graphic design and painting, oil painting, sculpture and badge design (U-Chow, also known as Chong Yew Chao or Chuang Yew Chao, was married to Tchang’s first cousin).
 
 The pair worked well together. Tchang’s good-natured personality and connections with Chinese businessmen worked hand-in-glove with U-Chow’s forte – carpentry and light construction which were useful for interior decoration and large-scale structures. In May 1937, when Singapore was mobilised to celebrate the coronation of King George VI, The United Painters was commissioned to erect illuminated arches on Carpenter Street.[^6]
@@ -69,6 +73,10 @@ Instead of using brush calligraphy in the traditional style to render the Chines
 During his editorial stint at *Lat Pau*’s *Yehui*, Tchang had to source for and produce content to fill the pictorial weekend supplement, a two-page spread. He would also enter design competitions organised by international brands handled by British agents.
 
 Tchang signed off most of his works with 器 (*qi*), the last character of his name. The four 口 (“mouth”) in the character would be transformed into a doodle with a comic face. Like many of his illustrations, the signature is immediately recognisable and instrumental in the identification of his works, now scattered in the advertising sections, supplements and section mastheads of many newspapers and magazines.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/JuChi2.jpg)
+<div style="background-color: white;">An advertisement of Ju Chi Studio placed in the 27 September 1930 edition of the <i>Lat Pau</i> newspaper (p. 8). It features Tchang Ju-ch’i’s unique signature with the four 口 (“mouth”) transformed into a doodle. <i>National University of Singapore Library digital collection.</i></div>
+
 
 ##### **Xu Diaolun (許釣綸)**
 Even after two years of intensive research, not much information about Xu Diaolun (許釣綸) has surfaced. However, the evidence suggests that Xu may have been a high-profile person in a number of social circles in Singapore – as an art teacher in Ai Tong School (爱同學校), a founder of the Zhao’an Association (詔安會館), a member of the Khoh Clan Association (星洲許氏高陽公會), the main driving force behind the formation of the Singapore Commercial Art Society, a member of the Hokkien Association Executive Committee (福建會館常務委員會), an activist supporting China in its war against Japan, and one of the proponents of a public library (大眾圖書館).[^9]
