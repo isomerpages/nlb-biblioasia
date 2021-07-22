@@ -132,8 +132,11 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
  |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/WiseOldWoman3.jpg)
 <div style="background-color: white;">Wisdom comes with age and experience, and nowhere is this more apparent than Yoshiko Uchida’s retelling of a traditional Japanese folklore, <i>The Wise Old Woman</i>. <i>Uchida, Y. (1994). The Wise Old Woman. New York: Margaret K. McElderry. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC398.20952 UCH-[ACL]).</i></div>|
 
-
 |In the Nepalese fable, *I, Doko: The Tale of a Basket* (2004),[^26] a man decides to abandon his ailing father by placing him in a basket on the temple steps. The man realises his mistake when his young son asks him to bring the basket back so that the son would not have to buy a new one when the time comes for him to carry his father to the temple to be abandoned. Told from the point of view of the basket called Doko, which has served the family for decades, the moral of the story is to treat old people with respect and deference even when they are ailing and are no longer “useful”.|
+
+ |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Doko.jpg)
+<div style="background-color: white;">Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance of filial love in this poignant Nepalese folktale by Ed Young. <i>Young, E. (2004), I, Doko: The Tale of a Basket. New York: Philomel Books. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 813.54 YOU).</i></div>|
+
 
 |These timeless Asian tales for children have captivated the young and the young at heart alike for many generations. It was for the purpose of raising the profile and increasing the appreciation of Asian-centric children’s literature that the ACL Collection was first initiated by the National Library of Singapore in the 1960s.[^27]|
 
