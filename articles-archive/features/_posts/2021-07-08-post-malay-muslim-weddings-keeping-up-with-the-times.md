@@ -111,6 +111,11 @@ It has also become customary in Malay weddings for the groom and his groomsmen t
 
 Once the groom is seated on the dais, family members and guests take turns to go up and congratulate the couple and to have their photos taken with them. The *bersanding* ceremony ends with the bride and groom having their first meal together as husband and wife, known as the *makan berdamai*. In the past, the couple would retreat to the bridal room to have their meal, accompanied by their *pengapit*. Today, the bride and groom are seated at a special dining table set up near the dais so that they can mingle and interact with their guests.[^21]
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/Bersanding.jpg)
+<div style="background-color: white;">The <i>bersanding</i> ceremony ends with the bride and groom having their first meal together as husband and wife, known as <i>makan berdamai</i>, 2020. The newlyweds are seated at a special dining table set up near the dais so that they can mingle and interact with their guests. <i>Courtesy of Asrina Tanuri. </i></div>
+
+
 The last leg of the ceremony is known as *bertandang* and takes place at the groom’s residence. In the past, this would be held a week after the wedding feast. *Bertandang*, also known as *majlis sambut menantu* (welcoming the bride/in-laws), is when the groom brings his new bride back to his kampong to be introduced to the rest of his family members and other village residents. A second and smaller *bersanding* ceremony would be conducted at the groom’s residence.[^22]
 
 Today, however, the *bertandang* ceremony usually takes place on the same day as *walimah* and *bersanding*. After lunch, a wardrobe change and photos with guests, the newlyweds depart for the groom’s home.[^23]
@@ -149,6 +154,11 @@ During this process, the *mak andam* would recite mantras while removing the hai
 
 The aforementioned Javanese *kuda kepang* dance, which used to be a popular form of entertainment at weddings, also fell out of favour for the same reason. In Singapore, the dance was commonly performed at Malay weddings in the 1970s and early 80s. Dancers would enter into a trance and perform feats like peeling coconut husks using their teeth, chewing or eating glass, and drinking buckets of water. However, in 1979, Majlis Agama Islam Singapura (Islamic Religious Council of Singapore) advised that the trance elements of *kuda kepang* contravened the tenets of Islam and urged Muslims to avoid such performances.[^33] As a result, the practice has died out.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/TepungTawar.jpg)
+<div style="background-color: white;">Despite changes to wedding rituals over the years, modern Malay weddings still retain some traditional features, such as this <i>silat pengantin</i> performed in the presence of the bridegroom to the beat of the <i>kompang</i> in 2017. <i>Courtesy of Mohammed Farhan Bin Hassan.</i></div>
+
+
+ 
 #### **Not Just Singapore**
 Many of the changes that Malay wedding customs have undergone in Singapore are replicated in cities like Kuala Lumpur. The makeshift tents in front of houses for the wedding feast (itself an adaptation from the communal space in a kampong) and the *gotong royong* spirit in preparing for the wedding ceremony and reception have given way to catered events at banquet halls or hotel ballrooms. Elaborate and time-consuming ceremonies have also been simplified. And, like bridal couples in Singapore, Malaysian couples are also opting for themed weddings with wedding planners helping to organise their big do, although the *tepung tawar* ritual is still practised in Malaysia.[^34]
 
