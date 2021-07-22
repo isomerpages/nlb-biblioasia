@@ -122,6 +122,11 @@ The first newspaper published in the Philippines, *Gaceta del Superior Gobierno*
 
 This paved the way for other Spanish-language newspapers, such as the first daily *La Esperanza* (1846–1849) and *Diario de Manila* (1848–1898?), one of the longest-running newspapers published during the Spanish colonial era. The first daily in Tagalog, *Diariong Tagalog*, was published in 1882.[^25]
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/earlyprinting/DiarioDeManila.jpg)
+<div style="background-color: white;">The 31 August 1898 (No. 166) issue of <i>Diario de Manila</i>. This Spanish-language newspaper was one of the longest-running daily newspapers published in the Philippines during the period of Spanish rule. <i>Retrieved from Biblioteca Digital Memoriademadrid website (CC BY-NC 2.5 ES).</i></div>
+
+
 Some leading printing firms and publishing houses in the 19th century include the Imprenta y Litografía de Ramírez y Giraudier, which was established in 1858 as a lithographic printing firm, and Carmelo and Bauermann (1887–1938), a major publishing house co-founded by artist-engraver Don Eulalio Carmelo de Lakandula, and William Bauermann, a German lithographer and cartographer. Carmelo’s son Alfredo (a famous Filipino aviator), operated the firm until 1938. Collectively, both firms produced some of the most beautiful prints on the Philippines, such as the images of Filipino life and landscapes in the illustrated magazine *Ilustración Filipina*,[^26] and maps of the Philippines. 
 
 Another firm, Cacho Hermanos, which started as a printing shop set up in 1880 by the first lithographic printer in the Philippines, Salvador Chofre, is one of the longest surviving printers still in business today. 
