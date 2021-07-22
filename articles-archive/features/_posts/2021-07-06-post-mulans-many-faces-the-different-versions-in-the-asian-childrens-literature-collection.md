@@ -65,10 +65,6 @@ Another book, Song Nan Zhang’s *The Ballad of Mulan* (1998), has adopted the s
 <div style="background-color: white;">These pages from Song Nan Zhang’s <i>The Ballad of Mulan</i> describe the war and how Mulan earned respect for herself. <i>Image reproduced from Zhang S.N. (1998). The Ballad of Mulan. Union City, California: Pan Asian Publications. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.220951 ZHA-[ACL]).</i></div>
 
 
-
-
-
-
 In Zhang’s interpretation, each drawing is enclosed within a frame which is similar to how early Chinese books are bound. Although Zhang follows the original storyline closely, he also includes new details and lines. For example, the following lines describe the scene where Mulan appears before her fellow soldiers in female attire:
 
 “What a surprise it was when Mulan appeared at the door! 
@@ -82,6 +78,10 @@ At the end of Zhang’s book, there is a very short section titled “Historical
 In Singapore, the story of Mulan has been rewritten as a Chinese picture book,《花木兰》(*Hua Mulan*), published by Newton Publications. Written by Li Xiang (李想) with illustrations by Zhang He (张禾), it follows the original storyline closely, although the author has added minor new scenes such as Mulan’s father teaching her martial arts.
 
 The picture book was first published in 1998, with a new edition two years later.[^11] The 1998 edition contains the original poem in classical Chinese, a retelling of the story with additional details and a section on the historical context of the ballad. The 2000 edition includes the original poem rendered in simplified Chinese, which the 1998 version does not have.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/PublishedImprints2.jpg)
+<div style="background-color: white;">There are some differences between these two imprints published by Newton Publications in Singapore. The 1998 edition (yellow cover) states “忠孝义” (loyal, filial, righteous) in the prefix of the title, while the 2000 edition (pink cover) says “代父从军” (joining the army in father’s place). <i>李想 [Li, X.]. (1998).《花木兰》[Hua Mulan]). Singapore: Newton Publications. (Call no.: RAC 398.2095102 HML-[FOL]); and 李想 [Li, X.]. (2000).《花木兰》[Hua Mulan]. Singapore: Newton Publications. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.20951 LX-[FOL]).</i></div>
+
 
 #### **Re-creating the Story of Mulan**
 “雄兔脚扑朔，雌兔眼迷离；两兔傍地走，安能辨我是雄雌？”[^12]
