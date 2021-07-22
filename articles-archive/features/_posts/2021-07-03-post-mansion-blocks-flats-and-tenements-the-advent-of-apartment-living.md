@@ -20,6 +20,11 @@ table {
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/Mansion_Main.jpg)
 <div style="background-color: white;">Amber Mansions, Orchard Road, c. 1922. The Cape Dutch Revival-style elevations of Amber Mansions almost certainly point to Denis Santry as the author of this building, the architect having previously worked in South Africa during a period when a revival of traditional Cape Dutch architecture was at its height. <i>Courtesy of National Museum of Singapore, National Heritage Board</i>.</div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+</div>
+
 |Established in 1892, Swan & Maclaren (named after Archibald Alexander Swan and James Waddell Boyd Maclaren) is the oldest architectural practice in Singapore. Its architects, such as Regent Alfred John Bidwell, Denis Santry and Frank Lundon, designed many of Singapore’s historic buildings, including Raffles Hotel, Teutonia Club (present-day Goodwood Park Hotel), Chesed-El Synagogue, Stamford House, Victoria Memorial Hall and Theatre, and Tanjong Pagar Railway Terminus. |
 
 |The first 50 years of the firm's history is detailed in Julian Davison’s *Swan & Maclaren: A Story of Singapore Architecture*, published by ORO Editions and the National Archives of Singapore in 2020. In this edited extract from Chapter 30, the author looks at some of the earliest apartment buildings in Singapore built by the firm. Note: Apart from the David Elias Building on Middle Road and the two rows of shophouses next door, all the other apartment blocks mentioned in this essay have been demolished.|
