@@ -88,6 +88,12 @@ Even though my family would go to Paya Lebar Airport in the 1970s, we never thou
 
 In 2010, the Ministry of Defence (MINDEF) gave my father and me permission to visit Paya Lebar Airbase to view the murals. My reaction was “Finally! At last!” When we got there, we could easily spot Bill’s mural of the Singapore skyline. However, we could not see the other two murals on the ground floor at all because the space had been partitioned into office cubicles, with walls hidden behind plasterboards.
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Skyline%20of%20Singapore%20-%20Mural.jpg)
+<div style="background-color: white;">The only surviving mural, “Skyline of Singapore, made of Italian mosaic tiles by William P. Mundy at the former Paya Lebar Airport. <i>Photo by Darren Soh, 2008.</i></div>
+
+
+
 Armed with a map based from the 1964 souvenir programme for the opening of the new terminal, we walked around the ground floor, peering behind plasterboard walls. A small army of people from MINDEF and the Republic of Singapore Air Force even joined us in the search. Despite our best efforts, we were disappointed that we could not find the two murals.
 
 In early 2012, Bill was on a visit to Singapore and I invited him to attend the opening of an exhibition at the National Library Building commemorating the 70th anniversary of the Battle of Singapore. At the event, we were told by someone who had seen all three murals that only Bill’s skyline of Singapore at the staircase landing was still intact. 
