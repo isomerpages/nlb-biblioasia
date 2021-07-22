@@ -18,7 +18,7 @@ table {
 #### Customs and traditions change over time. **Asrina Tanuri** and **Nadya Suradi** trace how Malay-Muslim weddings in Singapore have evolved since the 1950s.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/MalayWedding-Main.jpg)
-<div style="background-color: white;">A bersanding ceremony at a modern Malay wedding, 2017. This sitting-in-state ceremony is usually the highlight of a wedding, and is often accompanied by a <i>kompang<i> drum performance that is carried over from a preceding procession. <i>Courtesy of Mohammed Farhan Bin Hassan.</i></div>
+<div style="background-color: white;">A <i>bersanding</i> ceremony at a modern Malay wedding, 2017. This sitting-in-state ceremony is usually the highlight of a wedding, and is often accompanied by a <i>kompang</i> drum performance that is carried over from a preceding procession. <i>Courtesy of Mohammed Farhan Bin Hassan.</i></div>
 
 
 The insistent rhythms of the handheld *kompang* drum heralding the groom’s arrival, the resplendent bride glowing with happiness and the upbeat music accompanying the feasting throngs: there is nothing quite like a traditional Malay wedding to inject colour and life into the humdrum rhythms of a public housing estate in Singapore. On their wedding day, the newlyweds are treated like royalty and accorded the term *raja sehari* (“King and Queen for a day”).[^1]
