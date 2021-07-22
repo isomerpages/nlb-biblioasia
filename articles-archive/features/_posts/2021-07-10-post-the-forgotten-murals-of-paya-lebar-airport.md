@@ -55,6 +55,13 @@ The money was a princely sum at the time. In comparison, the monthly rent for a 
 
 My father’s mural of the cultural dances of Malaysia, which measured about 9 metres by 1.5 metres, was installed on the ground floor of Paya Lebar Airport. As you entered the building and turned left, you would see my father’s mural on the wall at the far end, above a bank of phone booths. That location turned out to be a popular spot for people to take photos before flying off.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Head%20of%20Toa%20Payoh.jpg)
+<div style="background-color: white;">Chan Thye Seng (right; former head of the Toa Payoh Branch Library) with Professor J. Clement Harrison, Dalhousie University, a speaker at the Commonwealth Asian Regional Workshop on Research Methodology in Librarianship, 1977. The background shows part of the “Cultural Dances of Malaysia” mural by Shamsuddin H. Akib. <i>Courtesy of Chan Thye Seng.</i></div>
+
+
+
+
+
 Bill’s mural of Singapore’s cityscape at night was the longest of the three, at about 12 metres by 1.5 metres. It was installed on the opposite end of the building from my father’s mural, at the staircase landing one floor up. Due to the open-concept design of the concourse, this mural was still visible from the ground floor though. Bill’s second mural of Malaysian scenes, however, was much less visible as it was installed in the transit lounge on the ground floor. (The dimensions of this mural are not available.)
 
 ##### **Of Mosaic and Iron**
