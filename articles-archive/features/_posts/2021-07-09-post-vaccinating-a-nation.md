@@ -35,7 +35,7 @@ In 1863, when the incidence of smallpox increased again, the government was urge
 
 Stricter public health control measures were finally introduced after the Straits Settlements became a Crown Colony in 1867. The Quarantine Ordinance was passed by the Legislative Council in June 1868, followed by An Ordinance to Extend and Make Compulsory the Practice of Vaccination, which came into effect on 1 May 1869.[^10]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Notice.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Notice2.jpg)
 <div style="background-color: white;">A vaccination notice issued by the Registrar of Births and Deaths dated 13 October 1935. The notice was issued to the parents of a newborn, informing them to have the baby vaccinated within six months of birth pursuant to the provisions and directions of the Quarantine and Prevention of Diseases Ordinance, failing which there would be a penalty of $10. Vaccination was provided free-of-charge at Infant Welfare Clinics listed in the notice. <i>Collection of the National Library, Singapore. (Accession no.: B18978036I)</i>.</div>
 
 The latter legislation led to the Ordinance for Registration of Births and Deaths of 1868. This was a necessary move to keep track of the number of children who were being vaccinated as well as the overall death rate in the population. It would also allow the authorities to study the causes of death and gauge the success of the islandwide vaccination programme.[^11] In addition, the Registrar of Births and Deaths was also responsible for notifying all parents to vaccinate their newborn babies.
@@ -77,7 +77,7 @@ During the post-war period, Singapore also had to deal with poliomyelitis, or po
 
 A major polio outbreak between August and December 1958 killed 12 and caused 404 infants and children to be crippled by the disease.[^26] As the number of polio cases continued to surge, there was added pressure on the government to act. Eventually, the Health Ministry decided to offer free polio vaccinations on a voluntary basis to children aged three to 10.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/ParentsandChildren.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/ParentsAndChildren.jpg)
 <div style="background-color: white;">More than 2,000 parents and children packed the Lim Ah Pin Road Clinic to get vaccinated during an outbreak of polio, 1958. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
 Between November and December 1958, over 200,000 children were immunised with the oral Sabin vaccine (named after its developer, Albert Bruce Sabin) in vaccination centres set up across the island.[^27] However, this did not stop another outbreak from happening just two years later which crippled 196 people.
