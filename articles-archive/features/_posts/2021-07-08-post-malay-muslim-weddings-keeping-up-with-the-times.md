@@ -154,7 +154,7 @@ During this process, the *mak andam* would recite mantras while removing the hai
 
 The aforementioned Javanese *kuda kepang* dance, which used to be a popular form of entertainment at weddings, also fell out of favour for the same reason. In Singapore, the dance was commonly performed at Malay weddings in the 1970s and early 80s. Dancers would enter into a trance and perform feats like peeling coconut husks using their teeth, chewing or eating glass, and drinking buckets of water. However, in 1979, Majlis Agama Islam Singapura (Islamic Religious Council of Singapore) advised that the trance elements of *kuda kepang* contravened the tenets of Islam and urged Muslims to avoid such performances.[^33] As a result, the practice has died out.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/Silat.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/Silat2.jpg)
 <div style="background-color: white;">Despite changes to wedding rituals over the years, modern Malay weddings still retain some traditional features, such as this <i>silat pengantin</i> performed in the presence of the bridegroom to the beat of the <i>kompang</i> in 2017. <i>Courtesy of Mohammed Farhan Bin Hassan.</i></div>
 
 
