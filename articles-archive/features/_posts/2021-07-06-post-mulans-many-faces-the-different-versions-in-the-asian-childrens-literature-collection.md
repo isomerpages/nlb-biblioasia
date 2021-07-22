@@ -29,19 +29,15 @@ table {
 
 These are the opening lines in《木兰辞》(*Mulan Ci; The Ballad of Mulan*),[^2] believed to have been composed during the Northern dynasties period (北朝, c. 386–581).[^3]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Poem2.jpg)
+<div style="background-color: white;">The first known written form of the poem about Mulan titled《木兰辞》(<i>The Ballad of Mulan</i>) and 木兰歌 (<i>The Song of Mulan</i>) by Wei Yuanfu (韦元甫) were compiled by Guo Maoqian (郭茂倩) in his anthology of poetry,《乐府诗集》(<i>Yuefu Shiji</i>). <i>Image reproduced from 郭茂倩 [Guo M.Q.]. (1264–1269).《乐府诗集: 一百卷，目录 [二卷]》. Hubei: Chong Wen Shu Ju. Retrieved from Hathi Trust Digital Library website.</i></div>
+
 Widely accepted as the earliest written version of the story of Mulan (木兰), the 62-line poem tells the inspiring story of a young woman who disguises herself as a man so that she can take her aged father’s place when he is conscripted into the army to fight the Tartars. The ballad was subsequently included in《乐府诗集》(*Yuefu Shiji; Collection of Yuefu Poetry*), an anthology of poetry compiled by Guo Maoqian (郭茂倩) during the Song Dynasty (960–1276).
 
 During the Tang dynasty (618–907), the story was retold as《木兰歌》(*Mulan Ge*; *The Song of Mulan*), a poem written by Wei Yuanfu (韦元甫). Several centuries later, during the Ming dynasty (1368–1644), Xu Wei (徐渭) composed the opera《雌木兰替父从军》(*Cimulan Tifucongjun; Female Mulan Took Her Father’s Place in the Army*). The story was then turned into the novel《北魏奇史闺孝烈传》(*Beiwei Qishi Guixiao Liezhuan; The Legendary Story of a Filial and Heroic Girl from the Northern Wei*) by Zhang Shaoxian (张绍贤) during the Qing dynasty (1644–1912).[^4]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Poem2.jpg)
-<div style="background-color: white;">The first known written form of the poem about Mulan titled《木兰辞》(<i>The Ballad of Mulan</i>) and 木兰歌 (<i>The Song of Mulan</i>) by Wei Yuanfu (韦元甫) were compiled by Guo Maoqian (郭茂倩) in his anthology of poetry,《乐府诗集》(<i>Yuefu Shiji</i>). <i>Image reproduced from 郭茂倩 [Guo M.Q.]. (1264–1269).《乐府诗集: 一百卷，目录 [二卷]》. Hubei: Chong Wen Shu Ju. Retrieved from Hathi Trust Digital Library website.</i></div>
-
-
-
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Opera2.jpg)
 <div style="background-color: white;">The opera,《雌木兰替父从军》(<i>Female Mulan Took Her Father’s Place in the Army</i>), by Xu Wei (徐渭) during the Ming dynasty is reportedly the first known version of the story of Mulan that states her surname as Hua (花). <i>Image reproduced from 沈泰輯 (1628–1644).《名家杂剧: 三十种三十卷》(16 volumes). China: [s.n.]. Collection of the Harvard-Yenching Library, Harvard University. Retrieved from Harvard Library website (CC BY 4.0).</i></div>
-
-
 
 Although filial piety and loyalty are constant themes in the different representations of Mulan, these values are portrayed differently by different authors. In Zhang Shaoxian’s novel, for instance, Mulan takes her own life when she is forced to choose between returning home to care for her parents (i.e. filial piety), and remaining in the army to serve the emperor (i.e. loyalty). The tragic ending in this narrative of Mulan hints at a criticism of the interpretations of filial piety and loyalty in earlier versions of the tale.[^5]
 
@@ -62,12 +58,6 @@ Lee dedicates the book “to all women, young and old” and notes that “the v
 
 Another book, Song Nan Zhang’s *The Ballad of Mulan* (1998), has adopted the same way of depicting the story as Lee, with the narrative in English and the original Chinese poem set against drawings depicting the different scenes.[^9] (Zhang, who was born in Shanghai and later migrated to Canada, also drew the illustrations in the book.)
 
-
-
-![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/BalladofMulan3.jpg)
-<div style="background-color: white;">These pages from Song Nan Zhang’s <i>The Ballad of Mulan</i> describe the war and how Mulan earned respect for herself. <i>Image reproduced from Zhang S.N. (1998). The Ballad of Mulan. Union City, California: Pan Asian Publications. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.220951 ZHA-[ACL]).</i></div>
-
-
 In Zhang’s interpretation, each drawing is enclosed within a frame which is similar to how early Chinese books are bound. Although Zhang follows the original storyline closely, he also includes new details and lines. For example, the following lines describe the scene where Mulan appears before her fellow soldiers in female attire:
 
 “What a surprise it was when Mulan appeared at the door! 
@@ -75,6 +65,9 @@ Her comrades were astonished and amazed.
 ‘How is this possible?’ they asked.”[^10]
 
 The original line from *The Ballad of Mulan*, “出门看伙伴，伙伴皆惊恐”, only states that when Mulan exits from her room and appears in front of her fellow soldiers, they are astonished. Her fellow soldiers’ question is a minor detail that Zhang has added.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/BalladofMulan3.jpg)
+<div style="background-color: white;">These pages from Song Nan Zhang’s <i>The Ballad of Mulan</i> describe the war and how Mulan earned respect for herself. <i>Image reproduced from Zhang S.N. (1998). The Ballad of Mulan. Union City, California: Pan Asian Publications. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.220951 ZHA-[ACL]).</i></div>
 
 At the end of Zhang’s book, there is a very short section titled “Historical Notes on Mulan” which explains the historical context of Mulan’s life and the development of the story from the early days until the present. It notes that the story (and poem) is a well-known folk tale studied by schoolchildren in China today. Zhang writes that the story continues to inspire Chinese women, and he dedicates the book to “everyone with an interest in ancient Chinese culture and literature”.
 
@@ -84,7 +77,6 @@ The picture book was first published in 1998, with a new edition two years later
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/PublishedImprints2.jpg)
 <div style="background-color: white;">There are some differences between these two imprints published by Newton Publications in Singapore. The 1998 edition (yellow cover) states “忠孝义” (loyal, filial, righteous) in the prefix of the title, while the 2000 edition (pink cover) says “代父从军” (joining the army in father’s place). <i>李想 [Li, X.]. (1998).《花木兰》[Hua Mulan]). Singapore: Newton Publications. (Call no.: RAC 398.2095102 HML-[FOL]); and 李想 [Li, X.]. (2000).《花木兰》[Hua Mulan]. Singapore: Newton Publications. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.20951 LX-[FOL]).</i></div>
-
 
 #### **Re-creating the Story of Mulan**
 “雄兔脚扑朔，雌兔眼迷离；两兔傍地走，安能辨我是雄雌？”[^12]
@@ -99,7 +91,10 @@ San Souci notes that the ballad had few details of the campaign against the Tart
 
 San Souci also injects an element of romance in his Mulan story, drawing his inspiration from the reference to a pair of male and female rabbits in the original verse that he had interpreted as suggesting a marriage bond.
 
-Other contemporary authors have used details that might have originated from Xu Wei’s opera,《雌木兰替父从军》. For example,《花木兰》(*Hua Mulan*; 2002) by Yong Chun (永春) mentions Mulan’s surname, Hua (花), along with her father’s name, Hua Hu (花弧), which was first mentioned in Xu’s opera.[^16] In *Mulan: A Story in English and Chinese* (2014) by Li Jian, the author writes that “Mulan learned Chinese calligraphy and reading from her father at a young age”,[^17] while Gang Yi and Xiao Guo’s *The Story of Mulan: The Daughter and the Warrior* (2007) says that “[Mulan’s] father taught her archery and horseback riding”.[^18] These embellishments are found in Xu Wei’s opera and not in the original poem.  
+Other contemporary authors have used details that might have originated from Xu Wei’s opera,《雌木兰替父从军》. For example,《花木兰》(*Hua Mulan*; 2002) by Yong Chun (永春) mentions Mulan’s surname, Hua (花), along with her father’s name, Hua Hu (花弧), which was first mentioned in Xu’s opera.[^16] In *Mulan: A Story in English and Chinese* (2014) by Li Jian, the author writes that “Mulan learned Chinese calligraphy and reading from her father at a young age”,[^17] while Gang Yi and Xiao Guo’s *The Story of Mulan: The Daughter and the Warrior* (2007) says that “[Mulan’s] father taught her archery and horseback riding”.[^18] These embellishments are found in Xu Wei’s opera and not in the original poem. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/YongChun.jpg)
+<div style="background-color: white;">Yong Chun’s《 花木兰》has elements from the opera added to the basic story depicted in the poem, The Ballad of Mulan. <i>永春 [Yong, C.]. (2002).《花木兰》[Hua Mulan]. 新加坡: 新亚出版社. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC Chinese C813.4 YC).</i></div>
 
 #### **A Classic Tale**
 While Mulan’s story strongly reflects Chinese culture and values, different authors deal with these elements in different ways, as the various versions of the story in the ACL Collection demonstrate.
@@ -107,11 +102,6 @@ While Mulan’s story strongly reflects Chinese culture and values, different au
 The titles published in North America put more effort into providing background and context. Lee notes that the poem is still being studied in schools and performed as operas in China today. San Souci writes that he has incorporated elements from *The Art of War* and believes that Mulan could have looked up to the Maiden of Yue (越女; *Yue Nü*; a legendary swordswoman from the Spring and Autumn period) as a role model. Meanwhile, Zhang dedicates his book to all who are interested in Chinese culture and literature. In many ways, these authors appear to be attempting to explain the cultural context of Mulan’s story to an unfamiliar audience.
 
 On the other hand, the authors whose books are published in Asia appear to take it for granted that their audience has the necessary background. Yong Chun merely notes that Mulan exemplifies the Chinese values of loyalty (忠), filial piety (孝), benevolence (仁) and love (爱), while Li Xiang simply states on the back cover of his book that the original poem《木兰辞》is a gem passed down through history. No extra explanations are given.[^19]
-
-![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/YongChun.jpg)
-<div style="background-color: white;">Yong Chun’s《 花木兰》has elements from the opera added to the basic story depicted in the poem, The Ballad of Mulan. <i>永春 [Yong, C.]. (2002).《花木兰》[Hua Mulan]. 新加坡: 新亚出版社. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC Chinese C813.4 YC).</i></div>
-
-
 
 These differences probably arise from the writer’s perception of who the readers will be.
 
@@ -169,9 +159,7 @@ Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance 
 </div>
 
 |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/StoriesFromAsia4.png)
-*Stories from Asia: The Asian Children’s Literature Collection* presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.
-
-The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 809.89282 STO and SING 809.89282 STO)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201510067) as well as for digital loan at [nlb.overdrive.com](https://nlb.overdrive.com/).|
+*Stories from Asia: The Asian Children’s Literature Collection* presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.|<br>|The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 809.89282 STO and SING 809.89282 STO)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201510067) as well as for digital loan at [nlb.overdrive.com](https://nlb.overdrive.com/).|
 
 <div style="background-color: white;">
 <br/>
