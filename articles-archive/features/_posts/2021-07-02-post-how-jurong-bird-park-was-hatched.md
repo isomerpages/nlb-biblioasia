@@ -84,7 +84,7 @@ The bird park eventually stopped breeding birds for sale and instead embarked on
 The straw-headed bulbul, a critically endangered species native to Singapore, was also successfully bred by Jurong Bird Park in 2017. The bulbul is coveted by songbird traders due to its unique vocalisation, making it a target of poachers.[^32]
 	
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/Bulbul.jpg)
-	<div style="background-color: white;">The straw-headed bulbul, successfully bred by Jurong Bird Park in 2017, is coveted by songbird traders because of its unique vocalisation. <i>Courtesy of Wildlife Reserves Singapore</i>.</div>
+<div style="background-color: white;">The straw-headed bulbul, successfully bred by Jurong Bird Park in 2017, is coveted by songbird traders because of its unique vocalisation. <i>Courtesy of Wildlife Reserves Singapore</i>.</div>
 
 The park also works with the National Parks Board, Nanyang Technological University and researchers on the Singapore Hornbill Project. The oriental pied hornbill disappeared in Singapore in the mid-1800s because of hunting and loss of habitat, but re-emerged some 140 years later when a pair of wild hornbills was recorded on Pulau Ubin in 1994.[^33]
 	
@@ -102,7 +102,7 @@ The bird park also participates in international projects on the conservation of
 Since its opening 50 years ago, the Jurong Bird Park has welcomed 30 million visitors. To commemorate the half century since the opening of the aviary, the park planned a year-long celebration with events and activities throughout 2021. The aviary kickstarted its jubilee celebrations by reverting to its 1971 admission price of $2.50 for all residents in the month of January 2021. (The usual price of a ticket for local residents is currently $34 for adults and $23 for children.)
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/ManMadeWaterfall.jpg)
-	<div style="background-color: white;">The dramatic man-made waterfall has always been a popular backdrop for taking photographs, as evidenced by this photo from 2000, featuring the author and her family. <i>Courtesy of Zoe Yeo</i>.</div>
+<div style="background-color: white;">The dramatic man-made waterfall has always been a popular backdrop for taking photographs, as evidenced by this photo from 2000, featuring the author and her family. <i>Courtesy of Zoe Yeo</i>.</div>
 	
 Big John, a cockatoo who has been with the aviary since its opening in 1971 will also be making appearances in special shows throughout the year. The bird park also invites people to upload photographs taken in the park to Facebook and Instagram with the hashtag #JBP50. These photos would be featured as part of the aviary’s “Memories of Jurong Bird Park” exhibition in 2021.[^36]
 
