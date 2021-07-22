@@ -124,6 +124,11 @@ Back when Malays largely lived in kampongs, weddings typically spanned a week, f
 #### **Berinai Ceremonies** 
 A tradition that used to be a major part of Malay weddings, but is rarely observed in Singapore today, is the *berinai* comprising three ceremonies: *berinai curi* (curi means “steal” in Malay), *berinai kechil* (small henna ceremony) and *berinai besar* (big henna ceremony). The traditional *tepung tawar* (blessing ritual) was the central element in all three *berinai* ceremonies. 
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/TepungTawar.jpg)
+<div style="background-color: white;">During <i>tepung tawar</i> (a blessing ritual with Hindu origins), the person giving the blessing would sprinkle rose water and yellow rice on the newlyweds and dot some henna and rice flour mixed with water on their palms, as seen in this photo taken in 2009.  <i>Courtesy of Nadya Suradi.</i></div>
+
+
 The *berinai curi* and *berinai kechil* ceremonies would take place before the solemnisation.[^25] *Berinai curi* was organised for the bride and involved her female relatives and close female friends. During this ceremony, the bridal party would perform the *tepung tawar* for the bride before applying henna on her hands and feet. It is traditionally held without the knowledge and consent of the groom’s side, hence the name *berinai curi*, and usually takes place two days before the *nikah*, in the evening.[^26]
 
 The *berinai kechil* ceremony is held the next evening, involving both the bride and groom. The couple undergo *tepung tawar* separately, with the groom going first, followed by the bride.[^27]
