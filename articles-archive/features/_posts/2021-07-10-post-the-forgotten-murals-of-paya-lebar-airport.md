@@ -44,6 +44,10 @@ They believed, probably rightly, that the chances of winning at least one prize 
 
 The prize collection ceremony was held at City Hall on 23 March 1963, a Saturday morning. Deputy Prime Minister Toh Chin Chye presented Bill with a cheque for $4,000 for his two winning creations while my father received $2,000 for his design. Bill and my father never found out why only three designs were picked rather than the planned five. Bill’s murals were titled “Skyline of Singapore” and “Races and Religions of Malaysia”, while my father’s was called “Cultural Dances of Malaysia”. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Winners.jpg)
+<div style="background-color: white;">Deputy Prime Minister Toh Chin Chye (left) with William P. Mundy (middle) and Shamsuddin H. Akib (right), winners of the Paya Lebar Airport murals competition, at the prize-giving ceremony in City Hall on 23 March 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
+
 The money was a princely sum at the time. In comparison, the monthly rent for a three-room flat in the newly completed Selegie House was $90.[^5] With his prize money, Bill bought a green Triumph TR4 sports car which was waiting for him at the airport in London when he went back for a visit. He later had the car shipped to Singapore and he drove it around for the next 18 months before leaving for a new job in Hong Kong. My parents had more practical concerns; they were expecting their first child (me) a few months after my dad won the competition and the extra money would have come in handy.
 
 My father’s mural of the cultural dances of Malaysia, which measured about 9 metres by 1.5 metres, was installed on the ground floor of Paya Lebar Airport. As you entered the building and turned left, you would see my father’s mural on the wall at the far end, above a bank of phone booths. That location turned out to be a popular spot for people to take photos before flying off.
