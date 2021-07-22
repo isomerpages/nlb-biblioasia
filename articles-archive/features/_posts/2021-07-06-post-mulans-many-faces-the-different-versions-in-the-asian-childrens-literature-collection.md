@@ -139,7 +139,7 @@ Wisdom comes with age and experience, and nowhere is this more apparent than Yos
 
 |In the Nepalese fable, *I, Doko: The Tale of a Basket* (2004),[^26] a man decides to abandon his ailing father by placing him in a basket on the temple steps. The man realises his mistake when his young son asks him to bring the basket back so that the son would not have to buy a new one when the time comes for him to carry his father to the temple to be abandoned. Told from the point of view of the basket called Doko, which has served the family for decades, the moral of the story is to treat old people with respect and deference even when they are ailing and are no longer “useful”.|
 
-|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Doko2.png)
+|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Doko3.png)
 Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance of filial love in this poignant Nepalese folktale by Ed Young. <i>Young, E. (2004), I, Doko: The Tale of a Basket. New York: Philomel Books. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 813.54 YOU).</i>|
 
 
@@ -171,7 +171,7 @@ Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance 
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 </div>
 
-|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/StoriesFromAsia2.png)
+|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/StoriesFromAsia4.png)
 *Stories from Asia: The Asian Children’s Literature Collection* presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.|
 
 |The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 809.89282 STO and SING 809.89282 STO)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201510067) as well as for digital loan at [nlb.overdrive.com](https://nlb.overdrive.com/).|
