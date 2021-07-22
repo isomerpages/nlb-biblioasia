@@ -32,6 +32,10 @@ What makes a cuisine Straits-born? Well, it would feature dishes that are an ama
 
 Numerous aromatics such as lemongrass (*Cymbopogon*) or *serai* in Malay, and galangal (*Alpinia galanga*) or greater galangal, also known as *lengkuas* or blue ginger, are native to Southeast Asia. Several types of ginger such as the common ginger (*Zingiber officinale*) can be found across Asia – from South Asia through Southeast Asia to East Asia. Locally available plants that yield fragrant leaves used in Straits cooking include those from the kaffir lime or *limau perut* in Malay (*Citrus hystrix*), also known as the makrut lime, and the pandan (*Pandanus amaryllifolius*) or screwpine. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/Ingredients.jpg)
+<div style="background-color: white;">Aromatics, spices and ingredients used in Straits cooking include the pineapple, coconut, <i>jambu ayer</i>, torch ginger bud, lime, fresh and dried chillies, and <i>belimbing</i>. <i>Image reproduced from Lee, G.B. (2021). In a Straits-born Kitchen (back cover). Singapore: Marshall Cavendish Cuisine. Collection of the National Library, Singapore. (Call no.: RSING 641.5959 LEE).</i></div>
+
+
 Certain local flowers are also used in Southeast Asian cooking. The blue pea flower or butterfly pea flower (*Clitoria ternatea*), known in Malay as *bunga telang*, is favoured as a natural food colouring in otherwise boring, white glutinous rice desserts while the superb fragrance of the torch ginger bud (*Etlingera elatior*), or *bunga kantan*, adds flavour to salads and curries. 
 
 As its scientific name suggests, the blue pea flower originally came from Ternate, one of the fabled Spice Islands of the Moluccas (now Maluku Islands). The Spice Islands are the original source of the world’s nutmeg (*Myristica fragrans*), candlenut or buah keras (*Aleurites moluccana*), and clove (*Syzygium aromaticum*).
