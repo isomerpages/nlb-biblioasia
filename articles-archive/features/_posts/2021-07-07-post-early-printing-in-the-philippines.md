@@ -83,11 +83,13 @@ Pedro de Vera, believed to be the younger brother who assumed Juan de Vera’s r
 <div style="background-color: white;"><i>Memorial de la Vida Christiana en Lengva China</i> (《 新刊僚氏正教便览》; <i>A Printed Edition of the Guide to the True Faith in God</i> ) was written by Dominican padre Domingo de Nieva. It was printed in 1606 by Chinese Christian printer, Pedro de Vera. The title page is in Spanish and main text is in Chinese. <i>Retrieved from Österreichische Nationalbibliothek website.</i></div>
 
 
-
-
 Pedro de Vera used a combination of Chinese and European printing methods for this book. For instance, preliminary information such as the title page, approbation, licences and dedication in Spanish were printed using movable type. The main text, preface and table of contents in Chinese were printed using woodblock printing. Copies of this two-part work can be found in the Jesuit Archives in Rome and the Österreichische Nationalbibliothek (Austrian National Library).[^19] 
 
 He used the same approach in another work printed in 1607, *Simbolo de la Fe, en Lengua y Letra China* 《新刊格物窮理錄》; (*Xinkan Gewu Qiongli Lu; Newly Printed Record of the Investigation of Things and Exhaustive Examination of Principle*). The  preliminary information in Spanish was rendered in movable type, while the main text in Chinese and the illustrations of animals, the human anatomy and the underworld were produced using xylography. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/earlyprinting/SimboloDeLaFe.jpg)
+<div style="background-color: white;"><i>Simbolo de la Fe, en Lengua y Letra China</i> (《新刊格物窮理錄》; <i>Newly Printed Record of the Investigation of Things and Exhaustive Examination of Principle</i>) was printed by Pedro de Vera in 1607. Shown here are the Chinese title page (left) and illustrations of the human anatomy and the underworld where souls wait to enter the realm of Paradise. <i>Retrieved from Österreichische Nationalbibliothek website.</i></div>
+
 
 This expository guide, composed by Dominican friar Tomás Mayor (哆媽氏), was an adaptation of Luis de Granada’s *Introducción del Símbolo de la Fe* (*Introduction of the Symbol of Faith*). Copies of Mayor’s work can be found in the Jesuit Archives in Rome, the Austrian National Library and the Leiden University Library in the Netherlands. According to the Latin inscription on one of the copies in the Jesuit Archives, the book was subsequently suspended and expurgated from circulation due to its many errors.[^20]
 
