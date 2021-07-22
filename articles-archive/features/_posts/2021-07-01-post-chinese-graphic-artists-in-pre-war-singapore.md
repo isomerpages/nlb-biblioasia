@@ -126,6 +126,10 @@ Leong’s commercial art features old Shanghai-style composition made popular at
 #### **Cupid Studio (天使畫室)**
 Established by Chong Beng Si (鍾鳴世) around 1937, Cupid Studio operated from a shophouse at 270 Telok Ayer Street, strategically positioned to serve the Chinese businesses in the vicinity of Robinson Road, Cecil Street, Telok Ayer, Amoy Street and Club Street.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/ChongBengSi.jpg)
+<div style="background-color: white;">Chong Beng Si (right) and Lim Hak Tai (middle) in front of Cupid Studio at 270 Telok Ayer Street. Lim was the founder and principal of the Nanyang Academy of Fine Arts. <i>Lim Hak Tai Archives, National Gallery Singapore.</i></div>
+
+
 Chong was also assistant to Lim Hak Tai, principal and founder of NAFA. Chong handled administrative and estate-related matters for the school in addition to teaching Western art. He was also one of the earliest members of the Society of Chinese Artists. And, like many of his fellow contemporary artists, Chong made his living creating commercial advertisement art.
 
 Chong’s clientele included major brands in Singapore such as the Nanyang Elephant brand of rubber shoes made by Nanyang Manufacturing, which belonged to Lee Kong Chian; Hua Hong Manufacturing (cooking oils); and Yeo Hiap Seng Sauce Factory.
