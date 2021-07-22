@@ -13,11 +13,10 @@ In a presumed effort to add a dash of colour to this new building, the governmen
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Open%20Competition.jpg)
 <div style="background-color: white;">The government notice inviting entries for the murals design competition. <i>The Straits Times, 1 October 1962, p. 17. Retrieved from NewspaperSG. </i></div>
 
-
 In the end, however, only three designs were chosen. Two were done by a Singapore-based British art director, William P. Mundy, which showed what *The Straits Times* described as “a panoramic view of Singapore by night” and “a Malaysian panorama”.[^2] The third winning design, which depicted “the cultural dances of Malaysia”, was created by one Shamsuddin H. Akib – my father.[^3]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Murals1%20copy.jpg)
-<div style="background-color: white;">Races and Religions of Malaysia” was designed by William P. Mundy. 
+<div style="background-color: white;">"Races and Religions of Malaysia” was designed by William P. Mundy. 
 <i>Courtesy of William P. Mundy. </i></div>
 
 
