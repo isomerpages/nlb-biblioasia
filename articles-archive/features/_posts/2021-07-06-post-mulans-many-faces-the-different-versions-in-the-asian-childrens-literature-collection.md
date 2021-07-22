@@ -123,8 +123,15 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 |An example of this is a retelling of *The Voice of the Great Bell* (1989),[^23] the story of a pure and beauteous Chinese maiden, Ko-Ngai, who makes the ultimate sacrifice when the emperor threatens to execute her father, Kouan-Yu, after he fails repeatedly to create the greatest of bells “strengthened with brass, deepened with gold, sweetened with silver” despite gathering the best artisans in the country for the monumental task. When the cast is made and the mould removed, the bell falls apart as the three metals did not combine. Ko-Ngai then sacrifices herself, as the only way the metals will bond is if a pure young maiden is thrown into the molten mass.|
 
 |Other Asian tales focusing on the themes of familial love and filial devotion include those from Korea, Japan and Nepal. In the Korean tale titled *In The Moonlight Mist* (1999),[^24] the heavenly king rewards a woodcutter who sacrifices his own happiness for his mother’s welfare by reuniting him with his family in heaven.|
- 
+
+ |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/MoonlightMist2.jpg)
+<div style="background-color: white;">A son’s loving devotion to his elderly mother is fittingly rewarded and celebrated in this Korean folktale retold by Daniel San Souci. <i>San Souci, D. (1999). In the Moonlight Mist: A Korean Tale. Honesdale, PA: Boyds Mills Press. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.209519 SAN-[ACL]).</i></div>|
+
 |The much-loved Japanese folktale, *The Wise Old Woman* (1994),[^25] tells of how a loving farmer shields his aged mother away from a cruel young lord who banishes elderly villagers, when they reach the age of 70, to the mountains and leave them to die there. When a nearby ruler threatens to invade the village unless the lord can perform three impossible tasks, only the farmer’s mother succeeds in solving them. The lord then reverses his decree and declares that elders “will be treated with respect and honour, and will share with us the wisdom of their years”.|
+
+ |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/WiseOldWoman3.jpg)
+<div style="background-color: white;">Wisdom comes with age and experience, and nowhere is this more apparent than Yoshiko Uchida’s retelling of a traditional Japanese folklore, <i>The Wise Old Woman</i>. <i>Uchida, Y. (1994). The Wise Old Woman. New York: Margaret K. McElderry. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC398.20952 UCH-[ACL]).</i></div>|
+
 
 |In the Nepalese fable, *I, Doko: The Tale of a Basket* (2004),[^26] a man decides to abandon his ailing father by placing him in a basket on the temple steps. The man realises his mistake when his young son asks him to bring the basket back so that the son would not have to buy a new one when the time comes for him to carry his father to the temple to be abandoned. Told from the point of view of the basket called Doko, which has served the family for decades, the moral of the story is to treat old people with respect and deference even when they are ailing and are no longer “useful”.|
 
