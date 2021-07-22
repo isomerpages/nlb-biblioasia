@@ -136,6 +136,10 @@ Chong’s clientele included major brands in Singapore such as the Nanyang Eleph
 
 Most of his artworks used formalistic and clear composition where the products were vividly illustrated, with the brands and brand-owners’ names rendered in strong and beautiful Westernised non-calligraphic typography. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/NanyangElephantBrand2.jpg)
+<div style="background-color: white;">An advertisement for Nanyang Elephant Brand shoes by Cupid Studio in the Chinese High Teachers Training Programme yearbook, 1948. <i>National University of Singapore Library Collection.</i></div>
+
+
 Chong deftly created Chinese characters and used decorative elements such as italics, shadowing and sans serif text to complement the non-Chinese letters and words.
 
 In general, Chong’s graphic works display a sure grasp of the Western graphic art sensibility – functional although not necessarily cutting-edge. His fine art works featured in the exhibitions by the Society of Chinese Artists, generally in oil or watercolour, are not stunning but they are competent and pleasing.
