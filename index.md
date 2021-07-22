@@ -20,6 +20,8 @@ sections:
       url: /vol-17/issue-2/jul-sep-2021/murals
       image: /images/vol-17-issue-2/murals/highlights.jpg
       alt: Sample of murals
+      description: Three large murals used to grace the walls of Paya Lebar Airport.
+        Dahlia Shamsuddin has the inside story of how they came to be.
   - infopic:
       title: Vaccinating a Nation
       subtitle: Highlights
@@ -27,6 +29,8 @@ sections:
       url: /vol-17/issue-2/jul-sep-2021/vaccinating-nation
       image: /images/vol-17-issue-2/vaccination/highlights.jpg
       alt: sample of vaccination
+      description: Ong Eng Chuan looks at how the authorities have been trying to
+        vaccinate the residents of Singapore since 1819.
   - infopic:
       title: How the Jurong Bird Park Came To Be
       subtitle: Highlights
