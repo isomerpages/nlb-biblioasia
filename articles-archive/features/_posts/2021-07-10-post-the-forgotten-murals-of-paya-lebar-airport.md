@@ -42,6 +42,9 @@ Submitting separate designs to represent Singapore and Malaysia was a strategic 
 
 They believed, probably rightly, that the chances of winning at least one prize would be higher by submitting two separate designs each. They guessed that the judging panel, led by Cathay Organisation head Loke Wan Tho, would comprise people from Singapore and Malaysia, and figured that these judges would likely have their preferences when it came to what would be considered as suitable designs for the new passenger terminal building. It turned out that Bill and my father guessed right.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Official%20Letter.jpg)
+<div style="background-color: white;">The official letter, dated 19 March 1963, informing Shamsuddin H. Akib that one of his designs had been selected. <i>Courtesy of Dahlia Shamsuddin. </i></div>
+
 The prize collection ceremony was held at City Hall on 23 March 1963, a Saturday morning. Deputy Prime Minister Toh Chin Chye presented Bill with a cheque for $4,000 for his two winning creations while my father received $2,000 for his design. Bill and my father never found out why only three designs were picked rather than the planned five. Bill’s murals were titled “Skyline of Singapore” and “Races and Religions of Malaysia”, while my father’s was called “Cultural Dances of Malaysia”. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Winners.jpg)
