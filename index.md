@@ -27,7 +27,7 @@ sections:
       subtitle: Highlights
       button: Read this article
       url: /vol-17/issue-2/jul-sep-2021/vaccinating-nation
-      image: /images/vol-17-issue-2/vaccination/highlights.jpg
+      image: /images/vol-17-issue-2/vaccination/Highlight.png
       alt: sample of vaccination
       description: Ong Eng Chuan looks at how the authorities have been trying to
         vaccinate the residents of Singapore since 1819.
