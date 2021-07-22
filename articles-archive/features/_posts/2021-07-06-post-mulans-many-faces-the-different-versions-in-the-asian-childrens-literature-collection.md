@@ -129,7 +129,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 |Other Asian tales focusing on the themes of familial love and filial devotion include those from Korea, Japan and Nepal. In the Korean tale titled *In The Moonlight Mist* (1999),[^24] the heavenly king rewards a woodcutter who sacrifices his own happiness for his mother’s welfare by reuniting him with his family in heaven.|
 
- |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/TextBoxBook_Moonlight.png)
+ |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/TextBoxBook_Moonlight3.png)
 A son’s loving devotion to his elderly mother is fittingly rewarded and celebrated in this Korean folktale retold by Daniel San Souci. <i>San Souci, D. (1999). In the Moonlight Mist: A Korean Tale. Honesdale, PA: Boyds Mills Press. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.209519 SAN-[ACL]).</i>|
 
 |The much-loved Japanese folktale, *The Wise Old Woman* (1994),[^25] tells of how a loving farmer shields his aged mother away from a cruel young lord who banishes elderly villagers, when they reach the age of 70, to the mountains and leave them to die there. When a nearby ruler threatens to invade the village unless the lord can perform three impossible tasks, only the farmer’s mother succeeds in solving them. The lord then reverses his decree and declares that elders “will be treated with respect and honour, and will share with us the wisdom of their years”.|
