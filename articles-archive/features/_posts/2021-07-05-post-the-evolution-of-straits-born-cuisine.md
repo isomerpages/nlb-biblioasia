@@ -104,6 +104,10 @@ Given that Lane was based in Penang, it is interesting that her *rojak* recipe d
 
 Indonesia’s contributions to Straits-born cuisine in Singapore can be seen in Mrs Susie Hing’s *In A Malayan Kitchen*, published in 1956.[^16] Mrs Hing was from Semarang in central Java, the hub of the Indonesian Chinese community during the Dutch colonial era. Several prominent Singaporean families have forebears who hailed from Semarang, among them the Kwa family, the in-laws of the late founding Prime Minister Lee Kuan Yew, whose  own grandmother and father were born there.[^17]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/MalayanKitchen.jpg)
+<div style="background-color: white;">Mrs Susie Hing’s cookbook contains typical Indonesian recipes such as <i>opor ayam</i>, <i>rendang</i> Padang, <i>sate bakso and dendeng manis</i>. <i>Hing, S., Mrs. (1956). In a Malayan Kitchen. Singapore: Mun Seong Press. Collection of the National Library, Singapore. (Call no.: RCLOS 641.59595 HIN-[RFL]).</i></div>
+
+
 Mrs Hing’s book had typical Indonesian recipes such as *opor ayam, rendang* Padang, *sate bakso* and *dendeng manis*. This last is a spiced savoury meat rather like Singapore’s *bak kwa* but dried in the sun instead of being grilled. *Dendeng*, or dried meat, is a Javanese preparation that dates back to the 10th century, like *rujak*. An interesting question is whether Indonesian *dendeng* is the inspiration for *bak kwa*.  
 
 The cookbook also features typical Malayan-Singapore recipes such as *roti jala* (a lacy pancake eaten with curry), Hokkien *mee* and pineapple tarts, both the open and the closed pineapple-shaped tarts with spikes that were traditionally seen as Indonesian.
