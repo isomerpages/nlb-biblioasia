@@ -152,7 +152,6 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 
 |![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/SwanMaclaren.png)*Swan & Maclaren: A Story of Singapore Architecture* (2020) is published by ORO Editions and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 720.95957 DAV and SING 720.95957 DAV)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827). It retails at major bookshops in Singapore and is also sold online.|
 
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-17-issue-2/authors/Julian%20Davison.png" style="width: 100px; height: 100px;" />
