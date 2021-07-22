@@ -38,6 +38,9 @@ During the Tang dynasty (618–907), the story was retold as《木兰歌》(*Mul
 
 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Opera2.jpg)
+<div style="background-color: white;">The opera,《雌木兰替父从军》(<i>Female Mulan Took Her Father’s Place in the Army</i>), by Xu Wei (徐渭) during the Ming dynasty is reportedly the first known version of the story of Mulan that states her surname as Hua (花). <i>Image reproduced from 沈泰輯 (1628–1644).《名家杂剧: 三十种三十卷》(16 volumes). China: [s.n.]. Collection of the Harvard-Yenching Library, Harvard University. Retrieved from Harvard Library website (CC BY 4.0).</i></div>
+
 
 
 Although filial piety and loyalty are constant themes in the different representations of Mulan, these values are portrayed differently by different authors. In Zhang Shaoxian’s novel, for instance, Mulan takes her own life when she is forced to choose between returning home to care for her parents (i.e. filial piety), and remaining in the army to serve the emperor (i.e. loyalty). The tragic ending in this narrative of Mulan hints at a criticism of the interpretations of filial piety and loyalty in earlier versions of the tale.[^5]
@@ -134,6 +137,11 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 |In the early 1960s, most of the titles in the collection were translated into English from their original languages because not many English titles were published in Asia.[^30]|
 
 |Apart from its Asian-focused intent, the ACL Collection houses a treasure trove of uniquely crafted gems in the bookmaking tradition. *Otogi-Banashi: A Miniature Toy-Book from Japan* (1969)[^31] is a bilingual publication penned in Japanese by Tatsugoro Hirose, with the English text by Ann Herring. Embedded within a cut-out space in the pages are three Lilliputian books of much-loved Japanese folktales: “The Old Man Who Makes The Flowers Bloom”, “Momotaro” and “Kachi-Kachi Mountain”. Featuring distinctive woodblock-printed illustrations, the bindings of the miniature books and the slipcover are made of *chiyogami*, a traditional Japanese paper.[^32]|
+
+
+|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/OtogiBanashi2.jpg)
+<div style="background-color: white;"><i>Otogi-Banashi: A Miniature Toy-Book</i> from Japan contains three miniature books on well-loved Japanese folktales as well as an introductory essay on the history of toy books and woodblock prints. <i>Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RCLOS 895.63 HER).</i></div>|
+
 
 |Another gem is the visually arresting *Pang Tao (Flat Peaches): Eight Fairies Festival* (c. 1900–1950)[^33] about a legendary group of deities. Bound in an accordion format and containing 10 beautifully hand-coloured illustrations framed in silk brocade, this bilingual title in English and Chinese is available in the ACL Collection.|
 
