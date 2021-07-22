@@ -184,8 +184,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 [^19]: [Li](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201262042), 2014, back cover.
 
-[^20]: 雅瑟 & 苏阳 [Ya, S., & Su, Y.]. (2012).《中华句源: 品味文化精髓, 感受传世经典》[*Zhonghua juyuan: Pinwei wenhua jingsui, ganshou chuanshi jingdian*] (p. 202). Beijing: Beijing Book Co. Inc. (Call no.: Chinese 810.07 YS); Lee, C.Y. (2004). Emperor Chengzu and imperial filial piety of the Ming dynasty:
-From the classic of filial piety to the biographical accounts of filial piety. In A.K.L. Chan & S.-H. Tan (Eds.). (2004). *[Filial piety in Chinese thought and history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12359873)* (pp. 144–151). London: RoutledgeCurzon. (Call no.: R 173 FIL)
+[^20]: 雅瑟 & 苏阳 [Ya, S., & Su, Y.]. (2012).《中华句源: 品味文化精髓, 感受传世经典》[*Zhonghua juyuan: Pinwei wenhua jingsui, ganshou chuanshi jingdian*] (p. 202). Beijing: Beijing Book Co. Inc. (Call no.: Chinese 810.07 YS); Lee, C.Y. (2004). Emperor Chengzu and imperial filial piety of the Ming dynasty: From the classic of filial piety to the biographical accounts of filial piety. In A.K.L. Chan & S.-H. Tan (Eds.). (2004). *[Filial piety in Chinese thought and history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12359873)* (pp. 144–151). London: RoutledgeCurzon. (Call no.: R 173 FIL)
 
 
 [^21]: [Ebrey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7598979), 1996, pp. 70–72.
