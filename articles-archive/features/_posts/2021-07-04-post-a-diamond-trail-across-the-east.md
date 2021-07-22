@@ -17,6 +17,12 @@ table {
 
 #### **Zinnurain Nasir** and **Nasri Shah** shed light on the Banjar people, a small but significant sub-ethnic Malay community from Borneo.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/urangbanjar/UrangBanjar_Main.jpg)
+<div style="background-color: white;">A 1924 map of Singapore showing Kampong Banjar along Changi Road. <i>Survey Department Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+
+
 *Haram manyarah waja sampai kaputing* is a traditional phrase in *basa* Banjar, or Banjarese, the native language of the Banjar people (Urang Banjar)[^1] who originally hailed from South Kalimantan on the island of Borneo. 
 
 Literally translated as “Let not the steel [of a blade] stop short until its very point”, the imagery of steel and blade recalls the Banjar community’s martial history, beginning with the local sultanate’s skirmishes with Dutch and British traders in the 17th century right up to the Banjarmasin War of 1859.[^2]
@@ -74,6 +80,11 @@ Said Fauziah Jamal: “We had our neighbours – a goldsmithing workshop, an old
 ###### **Sumbawa Road**
 
 Not so far away, near the intersection of today’s Jalan Sultan and Victoria Street or North Bridge Road is said to be the site of a former club called the Darul Ta’alam Club, founded in 1893. A photo of this club, located along the now expunged Sumbawa Road, depicts several well-dressed men, some of whom are presumably Banjar businessmen and merchants, gathered in front of a building with “Darul Ta’alam 20th Anniversary 15th Nov 1913” inscribed on its facade.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/urangbanjar/BanjarMen.jpg)
+<div style="background-color: white;">Banjar men at the Darul Ta’alam Club on Sumbawa Road, 1913. The road, located near the intersection of Jalan Sultan and Victoria Street or North Bridge Road, has been expunged. <i>Courtesy of Abdul Latiff bin Omar.</i></div>
+
+
 
 The origins of the club and the identity of its founders are unclear. But by the time the photo was taken in 1913, the club was well patronised by merchants and individuals from other sub-ethnic Malay groups. 
 
