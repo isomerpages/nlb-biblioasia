@@ -110,6 +110,11 @@ The cookbook also features typical Malayan-Singapore recipes such as *roti jala*
 
 One interesting find in Mrs Hing’s book is a recipe for *kroket tjanker* or *Java kwei patti*. This is a dish using deep-fried shells made the same way as today’s *kueh pie tee* shells. But unlike today’s *kueh pie tee*, which is filled with shredded bamboo shoots or yam bean, this *Java kwei patti* has a rich meat filling. Did today’s *kueh pie tee* start out as a Dutch colonial dish? (The 1960 edition of Mrs Ellice Handy’s *My Favourite Recipes* has a recipe for *kueh pie tee* that used a filling of bamboo shoots.[^18]) Note that yam bean or *jicama* (*Pachyrhizus erosus*) was originally native to Mexico, and was probably introduced to Southeast Asia during the Spanish colonial era in the Philippines. 
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/Kuehpietee.jpg)
+<div style="background-color: white;"><i>Kueh pie tee</i> shells being deep fried before they are served with a filling of bamboo shoots. <i>Image reproduced from Lee, G.B. (2021). In a Straits-born Kitchen (p. 121). Singapore: Marshall Cavendish Cuisine. Collection of the National Library, Singapore. (Call no.: RSING 641.5959 LEE).</i></div>
+
+
 The first local cookbook that identified itself as being Peranakan is *Mrs Lee’s Cookbook*, originally self-published in 1974.[^19] (The author – Mrs Lee Chin Koon, née Chua Jim Neo – was the mother of Prime Minister Lee Kuan Yew). In her book, she wrote: “Malay influence, because of mingling and intermarriage, has produced a unique Peranakan culture and set of customs distinct from those of the Chinese community who came from China. Our food, which is basically Malay or Indonesian in method and ingredients, were altered to suit our tastes.” 
 
 Among the Indonesian influences recorded in her cookbook are recipes for *nonya ayam buah keluak* (chicken with stuffed *buah keluak* braised in a spicy tamarind gravy) and the eastern Javanese *nasi rawon*, which is beef stewed with *buah keluak* and served with rice. After all, her mother-in-law did come from Semarang.[^20]
