@@ -96,6 +96,10 @@ As Geylang became a thriving residential and commercial centre in the 19th centu
 
 Many newly arrived Banjar also made Geylang their home, such as the father of Haji Ahmad Jamal bin Haji Mohd Hassan (the grandfather of sisters Fauziah and Faridah Jamal) who lived at 681 Geylang Road. There were also other Banjar families residing at Lorongs 26 and 35 Geylang. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/urangbanjar/NewlyArrived.jpg)
+<div style="background-color: white;">Many newly arrived Banjar from South Kalimantan made Geylang their home. This photo shows family members, relatives, friends and neighbours at 681 Geylang Road in the compound of Haji Mohd Hassan bin Haji Mohd Salleh’s family home (he is seated in the middle), 1950s. His son, Haji Ahmad Jamal bin Haji Mohd Hassan (standing extreme left, first row), was a diamond cutter and artisan in Jalan Pisang in the early 20th century. <i>Courtesy of Faridah and Fauziah binte Jamal.</i></div>
+
+
 However, Geylang may have been more than just a centre for the Banjar community to live though. The evidence comes from a 1937 lithographed manuscript titled *Kitab Perukunan Sembahyang Sheikh Arsyad* (*Sheikh Arsyad’s Book of Commandments Pertaining to Prayer*), which consolidates the writings of a famous Banjar religious scholar. In the frontispiece, the publisher indicates that the book was printed at 242 Lorong Engku Aman in Geylang, although the name of the publishing company is not mentioned.
 
 ###### **Kembangan**
