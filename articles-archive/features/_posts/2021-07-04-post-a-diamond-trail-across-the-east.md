@@ -110,6 +110,10 @@ The house was designed as a *rumah panggung*, a traditional house form built on 
 
 Hanging in Haji Arshad’s home was a mandala-shaped diagram called the *ayat pendinding*, consisting of text written in Arabic. The text comprises words of prayers, composed specifically to protect a house and its occupants. The *ayat pendinding* was designed and made by Haji Arshad, and members of the Banjar community who visited Haji Arshad’s home for religious classes would request copies of these *ayat pendinding* from him to be displayed in their own homes. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/urangbanjar/AyatPendinding.jpg)
+<div style="background-color: white;"> Haji Arshad bin Haji Mahmood designed and made this mandala-shaped diagram called the <i>ayat pendinding</i>, which features Arabic text. The text comprises words of prayers, written specifically to protect a house and its occupants. <i>Courtesy of Mohd Gazali bin Mohd Arshad.</i></div>
+
+ 
 ###### **Kampong Banjar**
 
 In addition to the communities living in traditional Malay settlements like Geylang and Kembangan, there is also evidence of Banjar settlements by the coast. A 1924 map lists a “Kampong Banjar” along Changi Road.[^15] 
