@@ -87,7 +87,16 @@ Above all, Xu was an accomplished graphic artist who went by his *nom de plume* 
 
 In the Ai Tong School publication, Xu contributed an advertisement featuring toy-like soldiers armed with bullets and rifles on the march, symbolising the strength of its advertiser, Shanghai New Asiatic Pharmaceutical Company (上海新亞化學製藥廠).[^12] Xu seemed to have made inroads into the Shanghai network in Singapore as his other client was the Shanghainese-owned Khiauw Hing (僑興), a company that sold chemical products and liquor from China.
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/XuDiaolun1.jpg)
+<div style="background-color: white;">A work by Xu Diaolun for Shanghai New Asiatic Pharmaceutical in <i>Ai Tong School 25th Anniversary Commemorative Publication</i> (1937, p. 51). The advertisment features toy-like soldiers armed with rifles and bullets. <i>National University of Singapore Library Collection.</i></div>
+
+ 
 In Chinese High School’s 1938 yearbook, Xu worked on an advertisement for local biscuit factory Hock Ann. He also took part in competitions and in 1935, his illustration for Tolley Brandy won first prize in the brand’s annual advertisement illustration contest.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/XuDiaolun2.jpg)
+<div style="background-color: white;">Xu Diaolun’s work for Hock Ann Biscuits in Chinese High School’s 1938 yearbook. <i>National University of Singapore Library Collection.</i></div>
+
 
 Xu’s works are characterised by minute articulation and detailed embellishment. He drew women in long ankle-length tight-fitting *cheongsam*, seated tilted at an angle to accentuate their svelte figures. His lines are clean and slightly rigid, while his calligraphy is stately and seal-like. There is no mention of him in the Chinese press from around 1941, but his works in advertising illustrations continue to remind us of his artistry.
 
