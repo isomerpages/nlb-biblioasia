@@ -142,7 +142,6 @@ Wisdom comes with age and experience, and nowhere is this more apparent than Yos
 |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Doko3.png)
 Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance of filial love in this poignant Nepalese folktale by Ed Young. <i>Young, E. (2004), I, Doko: The Tale of a Basket. New York: Philomel Books. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 813.54 YOU).</i>|
 
-
 |These timeless Asian tales for children have captivated the young and the young at heart alike for many generations. It was for the purpose of raising the profile and increasing the appreciation of Asian-centric children’s literature that the ACL Collection was first initiated by the National Library of Singapore in the 1960s.[^27]|
 
 |The collection was initially stocked with children’s literature of British and American origins but steadily evolved over the years to reflect a stronger Asian focus. Vilasini Menon, one of the original curators of the collection, recalled being tasked to revamp the ACL Collection: “Singapore was a British colony. There was an existing children’s library, but the collection was in English for the English-speaking people and English expatriates. The books were all about pony-riding and English school stories, which were highly alien to our children.”[^28]|
@@ -153,10 +152,8 @@ Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance 
 
 |Apart from its Asian-focused intent, the ACL Collection houses a treasure trove of uniquely crafted gems in the bookmaking tradition. *Otogi-Banashi: A Miniature Toy-Book from Japan* (1969)[^31] is a bilingual publication penned in Japanese by Tatsugoro Hirose, with the English text by Ann Herring. Embedded within a cut-out space in the pages are three Lilliputian books of much-loved Japanese folktales: “The Old Man Who Makes The Flowers Bloom”, “Momotaro” and “Kachi-Kachi Mountain”. Featuring distinctive woodblock-printed illustrations, the bindings of the miniature books and the slipcover are made of *chiyogami*, a traditional Japanese paper.[^32]|
 
-
 |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/OtogiBanashi3.png)
 <i>Otogi-Banashi: A Miniature Toy-Book</i> from Japan contains three miniature books on well-loved Japanese folktales as well as an introductory essay on the history of toy books and woodblock prints. <i>Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RCLOS 895.63 HER).</i>|
-
 
 |Another gem is the visually arresting *Pang Tao (Flat Peaches): Eight Fairies Festival* (c. 1900–1950)[^33] about a legendary group of deities. Bound in an accordion format and containing 10 beautifully hand-coloured illustrations framed in silk brocade, this bilingual title in English and Chinese is available in the ACL Collection.|
 
@@ -172,9 +169,9 @@ Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance 
 </div>
 
 |![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/StoriesFromAsia4.png)
-*Stories from Asia: The Asian Children’s Literature Collection* presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.|
+*Stories from Asia: The Asian Children’s Literature Collection* presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.
 
-|The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 809.89282 STO and SING 809.89282 STO)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201510067) as well as for digital loan at [nlb.overdrive.com](https://nlb.overdrive.com/).|
+The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 809.89282 STO and SING 809.89282 STO)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201510067) as well as for digital loan at [nlb.overdrive.com](https://nlb.overdrive.com/).|
 
 <div style="background-color: white;">
 <br/>
