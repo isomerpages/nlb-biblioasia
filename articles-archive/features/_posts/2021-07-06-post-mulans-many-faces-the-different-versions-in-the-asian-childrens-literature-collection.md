@@ -59,6 +59,16 @@ Lee dedicates the book “to all women, young and old” and notes that “the v
 
 Another book, Song Nan Zhang’s *The Ballad of Mulan* (1998), has adopted the same way of depicting the story as Lee, with the narrative in English and the original Chinese poem set against drawings depicting the different scenes.[^9] (Zhang, who was born in Shanghai and later migrated to Canada, also drew the illustrations in the book.)
 
+
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/BalladofMulan2.jpg)
+<div style="background-color: white;">These pages from Song Nan Zhang’s <i>The Ballad of Mulan</i> describe the war and how Mulan earned respect for herself. <i>Image reproduced from Zhang S.N. (1998). The Ballad of Mulan. Union City, California: Pan Asian Publications. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.220951 ZHA-[ACL]).</i></div>
+
+
+
+
+
+
 In Zhang’s interpretation, each drawing is enclosed within a frame which is similar to how early Chinese books are bound. Although Zhang follows the original storyline closely, he also includes new details and lines. For example, the following lines describe the scene where Mulan appears before her fellow soldiers in female attire:
 
 “What a surprise it was when Mulan appeared at the door! 
