@@ -107,53 +107,14 @@ These differences probably arise from the writer’s perception of who the reade
 
 Differences in treatment notwithstanding, the fundamental story of Mulan taking her father’s place in the army has not changed over the last 1,500 years. The enduring popularity of her story is testimony to the fact that this particular tale strikes a deep chord within people, regardless of time period or cultural milieu. And Mulan herself continues to serve as an inspiration and role model for children today.
 
-<div class="infobox"> 
-
-<b>OF FAMILIAL LOVE AND SACRIFICE</b><br>
-
-	By Michelle Heng
-
-There is a Chinese proverb, 百善孝为先, which says that filial piety ranks first among all virtues.[^20] Filial piety is a major tenet of Confucian thought and has remained the cornerstone of Chinese society for thousands of years.[^21] According to the *Classic of Filial Piety* (孝经; *Xiaojing*), a Confucian classic treatise giving advice on filial piety, “Filial piety begins with the serving of our parents, continues with the serving of our ruler, and is completed with the establishment of our own character”.|
-
-|The values of loyalty, respect and obedience to one’s parents and seniors, reflected in the tale of Mulan, are also universal virtues that find common ground in several Asian tales centred on sacrifices made by children for their elderly kinfolk in the National Library’s Asian Children’s Literature (ACL) Collection.[^22]|
-
-|An example of this is a retelling of *The Voice of the Great Bell* (1989),[^23] the story of a pure and beauteous Chinese maiden, Ko-Ngai, who makes the ultimate sacrifice when the emperor threatens to execute her father, Kouan-Yu, after he fails repeatedly to create the greatest of bells “strengthened with brass, deepened with gold, sweetened with silver” despite gathering the best artisans in the country for the monumental task. When the cast is made and the mould removed, the bell falls apart as the three metals did not combine. Ko-Ngai then sacrifices herself, as the only way the metals will bond is if a pure young maiden is thrown into the molten mass.|
-
-|Other Asian tales focusing on the themes of familial love and filial devotion include those from Korea, Japan and Nepal. In the Korean tale titled *In The Moonlight Mist* (1999),[^24] the heavenly king rewards a woodcutter who sacrifices his own happiness for his mother’s welfare by reuniting him with his family in heaven.|
-
-|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/TextBoxBook_Moonlight4.png)
-A son’s loving devotion to his elderly mother is fittingly rewarded and celebrated in this Korean folktale retold by Daniel San Souci. <i>San Souci, D. (1999). In the Moonlight Mist: A Korean Tale. Honesdale, PA: Boyds Mills Press. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 398.209519 SAN-[ACL]).</i>|
-
-|The much-loved Japanese folktale, *The Wise Old Woman* (1994),[^25] tells of how a loving farmer shields his aged mother away from a cruel young lord who banishes elderly villagers, when they reach the age of 70, to the mountains and leave them to die there. When a nearby ruler threatens to invade the village unless the lord can perform three impossible tasks, only the farmer’s mother succeeds in solving them. The lord then reverses his decree and declares that elders “will be treated with respect and honour, and will share with us the wisdom of their years”.|
-
-|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/TextBoxBook_WiseOldWoman2.png)
-Wisdom comes with age and experience, and nowhere is this more apparent than Yoshiko Uchida’s retelling of a traditional Japanese folklore, <i>The Wise Old Woman</i>. <i>Uchida, Y. (1994). The Wise Old Woman. New York: Margaret K. McElderry. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC398.20952 UCH-[ACL]).</i>|
-
-|In the Nepalese fable, *I, Doko: The Tale of a Basket* (2004),[^26] a man decides to abandon his ailing father by placing him in a basket on the temple steps. The man realises his mistake when his young son asks him to bring the basket back so that the son would not have to buy a new one when the time comes for him to carry his father to the temple to be abandoned. Told from the point of view of the basket called Doko, which has served the family for decades, the moral of the story is to treat old people with respect and deference even when they are ailing and are no longer “useful”.|
-
-|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Doko3.png)
-Told from the perspective of a basket, <i>I, Doko,</i> depicts the significance of filial love in this poignant Nepalese folktale by Ed Young. <i>Young, E. (2004), I, Doko: The Tale of a Basket. New York: Philomel Books. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 813.54 YOU).</i>|
-
-|These timeless Asian tales for children have captivated the young and the young at heart alike for many generations. It was for the purpose of raising the profile and increasing the appreciation of Asian-centric children’s literature that the ACL Collection was first initiated by the National Library of Singapore in the 1960s.[^27]|
-
-|The collection was initially stocked with children’s literature of British and American origins but steadily evolved over the years to reflect a stronger Asian focus. Vilasini Menon, one of the original curators of the collection, recalled being tasked to revamp the ACL Collection: “Singapore was a British colony. There was an existing children’s library, but the collection was in English for the English-speaking people and English expatriates. The books were all about pony-riding and English school stories, which were highly alien to our children.”[^28]|
-
-|While recognising the collection’s possibilities as a resource for teachers intending to introduce Asian culture and stories to their young charges in Singapore, Menon was also mindful of the possible needs of researchers when making acquisitions. She looked to library review journals to decide which titles should be purchased, and developed the collection’s potential for cross-sectional study by including titles that reflected different attitudes towards Asia and Asians over time.[^29]|
-
-|In the early 1960s, most of the titles in the collection were translated into English from their original languages because not many English titles were published in Asia.[^30]|
-
-|Apart from its Asian-focused intent, the ACL Collection houses a treasure trove of uniquely crafted gems in the bookmaking tradition. *Otogi-Banashi: A Miniature Toy-Book from Japan* (1969)[^31] is a bilingual publication penned in Japanese by Tatsugoro Hirose, with the English text by Ann Herring. Embedded within a cut-out space in the pages are three Lilliputian books of much-loved Japanese folktales: “The Old Man Who Makes The Flowers Bloom”, “Momotaro” and “Kachi-Kachi Mountain”. Featuring distinctive woodblock-printed illustrations, the bindings of the miniature books and the slipcover are made of *chiyogami*, a traditional Japanese paper.[^32]|
-
-|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/OtogiBanashi3.png)
-<i>Otogi-Banashi: A Miniature Toy-Book</i> from Japan contains three miniature books on well-loved Japanese folktales as well as an introductory essay on the history of toy books and woodblock prints. <i>Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RCLOS 895.63 HER).</i>|
-
-|Another gem is the visually arresting *Pang Tao (Flat Peaches): Eight Fairies Festival* (c. 1900–1950)[^33] about a legendary group of deities. Bound in an accordion format and containing 10 beautifully hand-coloured illustrations framed in silk brocade, this bilingual title in English and Chinese is available in the ACL Collection.|
-
-|This book bears witness to how much the physical form of the book has evolved. Early books in China were made of narrow strips of bamboo tied together in a bundle using either silk or leather. Silk later replaced bamboo as a writing material and was rolled around rods like a scroll. With the invention of paper, books were made by folding a long strip of paper accordion-style.[^34]|
-
-|In the decades that followed, the ACL Collection has been redefined to concentrate on material written in the four official languages of Singapore, and aimed at children and young adults up to 14 years old. Comprising picture books, fiction and non-fiction as well as reference books, the collection includes titles from Southeast Asia, East Asia, Central Asia and West Asia.[^35]|
-
-|The ACL Collection aspires to captivate, inform and foster awareness among readers and researchers of Asia’s rich cultural and literary heritage. The books in the collection, which number more than 12,000, are available for reference on Level 9 of the National Library Building.|
+|##### **Of Familial Love and Sacrifice**|
+By Michelle Heng
+There is a Chinese proverb, 百善孝为先, which says that filial piety ranks first among all virtues.1 Filial piety is a major tenet of Confucian thought and has remained the cornerstone of Chinese society for thousands of years.2 According to the Classic of Filial Piety (孝经; Xiaojing), a Confucian classic treatise giving advice on filial piety, “Filial piety begins with the serving of our parents, continues with the serving of our ruler, and is completed with the establishment of our own character”. 
+The values of loyalty, respect and obedience to one’s parents and seniors, reflected in the tale of Mulan, are also universal virtues that find common ground in several Asian tales centred on sacrifices made by children for their elderly kinfolk in the National Library’s Asian Children’s Literature (ACL) Collection.3 
+An example of this is a retelling of The Voice of the Great Bell (1989),4 the story of a pure and beauteous Chinese maiden, Ko-Ngai, who makes the ultimate sacrifice when the emperor threatens to execute her father, Kouan-Yu, after he fails repeatedly to create the greatest of bells “strengthened with brass, deepened with gold, sweetened with silver” despite gathering the best artisans in the country for the monumental task. When the cast is made and the mould removed, the bell falls apart as the three metals did not combine. Ko-Ngai then sacrifices herself, as the only way the metals will bond is if a pure young maiden is thrown into the molten mass. 
+ Other Asian tales focusing on the themes of familial love and filial devotion include those from Korea, Japan and Nepal. In the Korean tale titled In The Moonlight Mist (1999),5 the heavenly king rewards a woodcutter who sacrifices his own happiness for his mother’s welfare by reuniting him with his family in heaven.
+The much-loved Japanese folktale, The Wise Old Woman (1994),6 tells of how a loving farmer shields his aged mother away from a cruel young lord who banishes elderly villagers, when they reach the age of 70, to the mountains and leave them to die there. When a nearby ruler threatens to invade the village unless the lord can perform three impossible tasks, only the farmer’s mother succeeds in solving them. The lord then reverses his decree and declares that elders “will be treated with respect and honour, and will share with us the wisdom of their years”. 
+In the Nepalese fable, I, Doko: The Tale of a Basket (2004),7 a man decides to abandon his ailing father by placing him in a basket on the temple steps. The man realises his mistake when his young son asks him to bring the basket back so that the son would not have to buy a new one when the time comes for him to carry his father to the temple to be abandoned. Told from the point of view of the basket called Doko, which has served the family 
 
 <div style="background-color: white;">
 <br>
