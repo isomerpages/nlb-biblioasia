@@ -145,10 +145,11 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 </div>
 
-|![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/StoriesFromAsia4.png)
-*Stories from Asia: The Asian Children’s Literature Collection* presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.|
-|The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 809.89282 STO and SING 809.89282 STO)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201510067) as well as for digital loan at [nlb.overdrive.com](https://nlb.overdrive.com/).|
 
+<div class="infobox">
+<img src="/images/vol-17-issue-2/mulan/StoriesFromAsia4.png style="width: 300px; height: 300px;"/>
+<i>Stories from Asia: The Asian Children’s Literature Collection</i> presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.<br>The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201510067">(Call nos.: RSING 809.89282 STO and SING 809.89282 STO)</a> as well as for digital loan at <a href="https://nlb.overdrive.com/">nlb.overdrive.com</a>.</div>
+	
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol-17-issue-2/authors/YuMei.png" style="width: 100px; height: 100px;" />
