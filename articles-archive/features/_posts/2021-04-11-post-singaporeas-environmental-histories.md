@@ -4,6 +4,7 @@ permalink: /vol-17/issue-1/apr-jun-2021/humanxnature
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: 'Singapore’s Environmental Histories'
 third_nav_title: 'Singapore’s Environmental Histories'
+image: /images/Vol-17-issue-1/humanxnature/birdofparadise.jpg
 
 ---
 
@@ -142,7 +143,8 @@ The study of Southeast Asia’s natural history has been driven by many factors,
 
 <div class="infobox"> 
 <img src="/images/Vol-17-issue-1/humanxnature/x.png" style="width: 200px; height: 230px;"/>
-Visit the “Human x Nature: Environmental Histories of Singapore” exhibition at the Gallery on Level 10 of the National Library building on Victoria Street. Featuring over 150 artefacts, it explores our relationship with the natural world, from cultural understandings and scientific study to commercial and urban land use. It also examines efforts at conservation and restoration.
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+Visit the <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/humanxnature/">“Human x Nature: Environmental Histories of Singapore”</a> exhibition at the Gallery on Level 10 of the National Library building on Victoria Street. Featuring over 150 artefacts, it explores our relationship with the natural world, from cultural understandings and scientific study to commercial and urban land use. It also examines efforts at conservation and restoration.
 </div>
 
 <div style="background-color: white;">
