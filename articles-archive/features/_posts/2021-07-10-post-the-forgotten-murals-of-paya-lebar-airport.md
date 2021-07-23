@@ -6,6 +6,10 @@ layout: post
 ---
 #### Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. **Dahlia Shamsuddin** has the inside story of how they came to be.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Murals2.jpg)
+<div style="background-color: white;"> “Cultural Dances of Malaysia” was designed by Shamsuddin H. Akib. This mural and the one above are no longer intact. <i>Courtesy of William P. Mundy.</i></div>
+
+
 Before Changi Airport, there was Paya Lebar Airport. Opened in 1955, Paya Lebar Airport was Singapore’s gateway to the world and one of the most modern airports of its time. However, as Singapore grew in importance as an air hub and a destination in its own right, further expansion was necessary to cope with the increasing number of passengers using the airport. In November 1962, work began on a new International Passenger Terminal Building. It was completed in April 1964 at a cost of $3.5 million.
 
 In a presumed effort to add a dash of colour to this new building, the government decided that large murals would adorn its walls. On 1 October 1962, a small notice published in *The Straits Times* invited artists to “submit designs for suitable murals which will be executed at five places in the Passenger Terminal Building of the Singapore Airport”.[^1] Each of the five winning designs would receive a cash prize of $2,000.
@@ -19,9 +23,6 @@ In the end, however, only three designs were chosen. Two were done by a Singapor
 <div style="background-color: white;">"Races and Religions of Malaysia” was designed by William P. Mundy. 
 <i>Courtesy of William P. Mundy. </i></div>
 
-
-![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Murals2.jpg)
-<div style="background-color: white;"> “Cultural Dances of Malaysia” was designed by Shamsuddin H. Akib. This mural and the one above are no longer intact. <i>Courtesy of William P. Mundy.</i></div>
 
 
 ##### **The Murals Competition**
