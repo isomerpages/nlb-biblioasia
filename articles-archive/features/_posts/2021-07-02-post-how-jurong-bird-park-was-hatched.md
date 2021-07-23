@@ -75,10 +75,16 @@ With a new filtration system in place and all amenities ready, the park was fina
 
 The absence of falconers was apparently not a major deterrence and the park quickly became a popular new haunt for Singaporeans, recording more than 8,000 visitors on the first Sunday of its opening.[^26] A year later, the park was reported to have collected more than $1 million in revenue since its opening, with some 645,800 people having visited by then. The park also chalked up a low bird mortality rate of 0.6 percent, one of the lowest in the world where the mortality rate averaged around 2.5 to 3 percent.[^27]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/KingsOfSkies.jpg)
+<div style="background-color: white;">The Kings of the Skies Show featuring majestic birds of prey is a favourite with visitors. Shown here is the Malay fish owl which catches prey with its strong and steady talons. <i>Courtesy of Jimmy Yap</i>.</div>
+
 #### **Breeding and Conservation**
 Apart from being a place for the general public to admire and appreciate birds, the park also planned to raise money by breeding and selling them. The first breeding programme started in 1972, with the aim of breeding “the 350 species in the park for sale to individuals and zoos at home and aboard”.[^28]
 
 The first few species successfully bred for sale were the night heron, ibis, white-crested laughing thrush and the water-fowl. The prices of these birds depended on the demand and rarity of the species.[^29] In 1976, the breeding of foreign birds in the park was reported to be a “tremendous success”, with a total of 137 birds, mostly species from Europe, America, India and Egypt, hatching the year before. These birds included the spoonbill, the ring-necked parakeet, the Alexandrine parakeet, the black swan and the scarlet ibis.[^30]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/Penguins.jpg)
+<div style="background-color: white;">The indoor penguin exhibit features the king penguin (seen here), Humboldt and rockhopper species. Temperatures are kept at 10–15 °C, with a special lighting system creating the four seasons to help the birds maintain their bio-rhythm. <i>Courtesy of Jimmy Yap</i>.</div>
 
 The bird park eventually stopped breeding birds for sale and instead embarked on efforts to conserve rare bird species, especially those from Southeast Asia. In 1995, the park became the first zoological institution to breed the black hornbill, a vulnerable species native to Southeast Asia.[^31]
 
@@ -109,7 +115,13 @@ Big John, a cockatoo who has been with the aviary since its opening in 1971 will
 
 In 2016, it was announced that Jurong Bird Park would be moving to Mandai to form an integrated nature and wildlife precinct together with a new Rainforest Park and the three existing wildlife parks in Singapore (the Singapore Zoological Gardens, the Night Safari and the River Safari).
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/Mandai.jpg)
+<div style="background-color: white;">In 2022, Jurong Bird Park will move to Mandai to form an integrated nature and wildlife precinct comprising a new Rainforest Park and the three existing wildlife parks in Singapore (Singapore Zoological Gardens, Night Safari and River Safari). <i>Courtesy of Wildlife Reserves Singapore</i>.</div>
+
 The new and improved bird park will include themed walk-through aviaries designed after different regions and ecosystems of the world – stretching from the rainforests of Africa to the bushlands of Australia – allowing visitors to immerse themselves in the naturalistic habitats of the birds.[^37] Slated to open in 2022, it will mean moving out from Jurong after 51 years, which will no doubt sadden some. However, the new location will allow the bird park to enjoy the synergies of being close to similar attractions. In addition, the new designs for the various aviaries will allow the bird park’s ambitions to truly take flight.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/CrimsonWetlands.jpg)
+<div style="background-color: white;">An artist impression of Crimson Wetlands, one of the themed aviaries to be built at the new bird park in Mandai when it relocates there in 2022. <i>Courtesy of Wildlife Reserves Singapore</i>.</div>
 
 <div style="background-color: white;">
 <br/>
