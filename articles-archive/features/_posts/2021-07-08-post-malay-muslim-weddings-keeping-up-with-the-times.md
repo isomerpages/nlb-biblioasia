@@ -168,8 +168,7 @@ Inevitably, customs and traditions will evolve in response to social and economi
 
 |Wedding favours are known as *berkat kahwin* or *berkat pengantin*. Traditionally, guests at Malay weddings are given a *bunga telur* (literally a “flower egg”) as a token of appreciation. A *bunga telur* comprises a red hard boiled egg resting on top of a bed of *pulut kunyit* (yellow glutinous rice) in a glass decorated with flowers, hence its name.[^35]|
 
-|<img src="/images/vol-17-issue-2/malayweddings/BungaTelur2.png">
-A *bunga telur* comprises a red hard boiled egg resting on top of a bed of *pulut kunyit* (yellow glutinous rice) in a glass decorated with flowers. *Courtesy of Asrina Tanuri.*|
+|<img src="/images/vol-17-issue-2/malayweddings/BungaTelur2.png">A *bunga telur* comprises a red hard boiled egg resting on top of a bed of *pulut kunyit* (yellow glutinous rice) in a glass decorated with flowers. *Courtesy of Asrina Tanuri.*|
 
 |Each part of the *bunga telur* has a special meaning. The egg symbolises fertility and prosperity. The yellow glutinous rice represents harmony, honesty and royalty – referring to the bride and groom, who are regarded as royals for the day – while the flower signifies love in their marriage.[^36]|
 
