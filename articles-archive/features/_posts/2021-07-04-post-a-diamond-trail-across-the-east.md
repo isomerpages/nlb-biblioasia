@@ -107,7 +107,7 @@ However, Geylang may have been more than just a centre for the Banjar community 
 Lorong Marican in Kembangan was home to Haji Arshad bin Haji Mahmood, the father of Mohd Gazali bin Mohd Arshad. “This house [at Lorong Marican] represented a house rich with history,” said Mohd Gazali. “That was where my uncles gathered... to speak to my father and reminisce about their father and grandfather. It was only much later that I realised that it was because of who my grandfather [the diamond trader Haji Mahmood] was.”[^14]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/urangbanjar/HjArshad.jpg)
-<div style="background-color: white;">Haji Arshad bin Haji Mahmood (second from right), the father of Mohd Gazali bin Mohd Arshad, seated alongside (from the left) Haji Jamal, Haji Abdul Hamid and Haji Hussein. The lady behind them is Hajjah Jamilah, Haji Arshad’s sister. The photo was taken outside Haji Arshad’s family home on Lorong Marican, 1950s. Haji Arshad designed the mandala-shaped ayat pendinding. <i>Courtesy of Mohd Gazali bin Mohd Arshad.</i></div>
+<div style="background-color: white;">Haji Arshad bin Haji Mahmood (second from right), the father of Mohd Gazali bin Mohd Arshad, seated alongside (from the left) Haji Jamal, Haji Abdul Hamid and Haji Hussein. The lady behind them is Hajjah Jamilah, Haji Arshad’s sister. The photo was taken outside Haji Arshad’s family home on Lorong Marican, 1950s. Haji Arshad designed the mandala-shaped <i>ayat pendinding</i>. <i>Courtesy of Mohd Gazali bin Mohd Arshad.</i></div>
 
 The house was designed as a *rumah panggung*, a traditional house form built on stilts found in South Kalimantan, and similar housing were also once commonly seen on adjacent roads like Lorong Marzuki.
 
