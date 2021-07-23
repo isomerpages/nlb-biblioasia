@@ -121,7 +121,7 @@ One interesting find in Mrs Hing’s book is a recipe for *kroket tjanker* or *J
 
 The first local cookbook that identified itself as being Peranakan is *Mrs Lee’s Cookbook*, originally self-published in 1974.[^19] (The author – Mrs Lee Chin Koon, née Chua Jim Neo – was the mother of Prime Minister Lee Kuan Yew). In her book, she wrote: “Malay influence, because of mingling and intermarriage, has produced a unique Peranakan culture and set of customs distinct from those of the Chinese community who came from China. Our food, which is basically Malay or Indonesian in method and ingredients, were altered to suit our tastes.” 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/MrsLeeCookbook3.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/MrsLeeCookbook4.jpg)
 <div style="background-color: white;">This is the first local cookbook that identifies itself as Peranakan. <i>Lee, C.K., Mrs. (1974). Mrs Lee’s Cookbook: Nonya Recipes and Other Favourite Recipes. Singapore: [The Author]. Collection of the National Library, Singapore. (Call no: RSING 641.595957 LEE).</i></div>
 
 
