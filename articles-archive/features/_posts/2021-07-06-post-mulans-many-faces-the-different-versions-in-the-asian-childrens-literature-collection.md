@@ -108,6 +108,7 @@ These differences probably arise from the writer’s perception of who the reade
 Differences in treatment notwithstanding, the fundamental story of Mulan taking her father’s place in the army has not changed over the last 1,500 years. The enduring popularity of her story is testimony to the fact that this particular tale strikes a deep chord within people, regardless of time period or cultural milieu. And Mulan herself continues to serve as an inspiration and role model for children today.
 
 |**Of Familial Love and Sacrifice**|
+
 |By Michelle Heng|
 
 |There is a Chinese proverb, 百善孝为先, which says that filial piety ranks first among all virtues.[^20] Filial piety is a major tenet of Confucian thought and has remained the cornerstone of Chinese society for thousands of years.[^21] According to the *Classic of Filial Piety* (孝经; Xiaojing), a Confucian classic treatise giving advice on filial piety, “Filial piety begins with the serving of our parents, continues with the serving of our ruler, and is completed with the establishment of our own character”.|
