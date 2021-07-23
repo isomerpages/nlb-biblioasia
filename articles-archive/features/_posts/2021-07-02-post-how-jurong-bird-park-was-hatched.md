@@ -41,7 +41,7 @@ Apparently, a day after the birds were stolen, three men approached a bird shop 
 
 The birds were then put up for sale at the shop but they began “drawing unmanageable crowds and the owner decided to transfer them to [his] farm” in Choa Chu Kang. After reading about the stolen birds in the newspapers, the owner contacted the police who recovered the birds.[^13]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/CassowaryNews.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/CassowaryNews2.jpg)
 <div style="background-color: white;">In September 1969, a rare cassowary, two peacocks and a pair of storks were stolen from the park and put up for sale. The police managed to recover the birds. <i>The Straits Times, 14 September 1969, p. 8. Retrieved from NewspaperSG</i>.</div> 
 
 There were also engineering challenges involved in building the bird park. The flight-in aviary used 18 steel cables, each weighing about three tons, which had to be stretched across the top of the 2-hectare space. On either end of the slope, where the cables were attached, piling was necessary to ensure that these cables did not come loose.[^14]
