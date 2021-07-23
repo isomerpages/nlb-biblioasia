@@ -27,6 +27,10 @@ When the idea of a bird park was mooted in 1968, Singapore had gained independen
 
 Goh described the origins of the bird park as “impeccable, and its conception, immaculate”. He also noted that the park would be self-supporting and that it would be open to all, for a modest fee. On the other hand, Goh said he did not want to overstate the case for the park: “It is well to concede from the outset that the Bird Park will not make our society more rugged…”. In addition, he added that the bird park would “have negligible effect on the productivity of workers in the Republic”. The park’s efficacy as a means of tightening national cohesion was also “open to doubt, as is its contribution to raising cultural and education standards of the population. I am afraid the Bird Park will achieve none of these admirable ends,” he said, somewhat tongue-in-cheek. “But it will add to the enjoyment of our citizens, especially our children. At the risk of appearing less than God-fearing, I give this as my final justification.”[^7]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/MinDef1.jpg)
+<div style="background-color: white;">Minister for Defence Goh Keng Swee (centre) arriving for the opening of Jurong Bird Park, 1971. Woon Wah Siang, the park’s chairman and managing director, is on the far right. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div> 
+
+
 #### **A Rocky Start**
 One of the early challenges faced by the bird park was that it had to have a significant bird collection in order to attract visitors. And since the endeavour started from scratch, the park’s pioneer chairman and managing director, Woon Wah Siang, pursued many different channels in order to find enough birds to fill the park. He was reported to have said: “I attended every National Day cocktail party just to ask for birds.”[^8]
 
@@ -55,9 +59,6 @@ According to Lee Oon Pong, the director of Employment at the Ministry of Defence
 Goh, who was by then Minister for Defence, along with board members of Jurong Town Corporation, had visited the bird park about a week before the scheduled official opening. When he got to the waterfall, however, Goh was appalled when he saw muddy water cascading down what was supposed to be a highlight of the park. The water was brown because the waterfall was pumping water from the duck pond, which had been contaminated with mud due to the ongoing construction works at the park.[^18]
 	
 Recalled Lee: “[He] looked at Woon Wah Siang and said ‘Wah Siang, you want me to open this?’ [Woon] was dumbfounded. [Goh said], ‘If you want me to open the bird park… when I throw a five-cent coin into the brook… I expect to see [it] at the bottom, then I’ll open it.’ … Then he just walked off.” Woon had to scramble to call up all the invited guests to apologise.[^19]
-
-![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/MinDef1.jpg)
-<div style="background-color: white;">Minister for Defence Goh Keng Swee (centre) arriving for the opening of Jurong Bird Park, 1971. Woon Wah Siang, the park’s chairman and managing director, is on the far right. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div> 
 
 The bird park swiftly acquired a filtration plant costing a quarter of a million dollars. It was installed near the waterfall and was “capable of filtering and cleaning the water so that what thunders down is crystal clear”.[^20]
 
