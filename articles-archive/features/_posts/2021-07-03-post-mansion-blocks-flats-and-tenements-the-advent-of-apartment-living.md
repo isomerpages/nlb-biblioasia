@@ -122,6 +122,10 @@ In Singapore, the term only begins to appear in planning submissions to the Muni
 
 The first designated tenement accommodation designed by Swan & Maclaren is a landmark development from 1927, the David Elias Building at the corner of Middle Road and Short Street. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/DavidEliasBuilding.jpg)
+<div style="background-color: white;">The David Elias Building, 2017. The building is located at the junction of Middle Road and Short Street. <i>Courtesy of Julian Davison</i>.</div>
+
+
 David Elias was a second cousin of Joe Elias and also his brother-in-law, as he had married Joe’s sister Miriam. David was in the import-export business, but in 1926 he decided to follow Joe into real estate with the redevelopment of a site at the junction of Middle Road and Selegie Road. 
 
 At the time, the land was occupied by a single “compound house”, standing in its own grounds.[^12] As the footprint of the house was small, relative to the size of the property, and in a densely populated neighbourhood of overcrowded shophouse dwellings that constituted Singapore’s Jewish quarter, or Mahallah, it seemed to David that the site could be used in a more beneficent way. 
@@ -140,9 +144,6 @@ The windows themselves are doubly unusual on account of the “blind” balustra
 The David Elias Building next door, though much larger in scale – three storeys instead of two, with a hipped roof – is stylistically very similar to its neighbours, sharing a rusticated basement floor with segmental arches spanning the five-footway as well as those distinctive cantilevered bay windows on the floors above. 
 
 A Jewish “Star of David” motif appears at regular intervals on the main elevations – this was, after all, at the heart of the Mahallah – and also adorns the two Deco-style pediments, which bookend the Middle Road elevation; the latter also bear the legend “D.J. Elias Buildings” and the date of completion, which was 1928.
-
-![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/DavidEliasBuilding.jpg)
-<div style="background-color: white;">The David Elias Building, 2017. The building is located at the junction of Middle Road and Short Street. <i>Courtesy of Julian Davison</i>.</div>
 
 Completed in September that year, David Elias’s new venture was hailed by *The Straits Times* as “an important addition to the housing amenities of Singapore”.[^14] “Built on a site which was previously occupied by a single house and compound,” the article continues, “they afford, at reasonable rents, very acceptable housing accommodation in a congested district”. 
 
