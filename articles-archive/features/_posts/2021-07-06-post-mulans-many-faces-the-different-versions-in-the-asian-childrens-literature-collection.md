@@ -150,7 +150,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 </div>
 
-|<img src="/images/Vol-17-issue-2/mulan/StoriesFromAsia4.png" style="width: 250px; height: 250px;"/>|
+|<img src="/images/vol-17-issue-2/mulan/StoriesFromAsia2.png">|
 
 |*Stories from Asia: The Asian Children’s Literature Collection* presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.|
 
