@@ -119,7 +119,11 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 |Other Asian tales focusing on the themes of familial love and filial devotion include those from Korea, Japan and Nepal. In the Korean tale titled *In The Moonlight Mist* (1999),[^24] the heavenly king rewards a woodcutter who sacrifices his own happiness for his mother’s welfare by reuniting him with his family in heaven.|
 
+|<img src="/images/vol-17-issue-2/mulan/TextBoxBook_Moonlight.png">|
+
 |The much-loved Japanese folktale, *The Wise Old Woman* (1994),[^25] tells of how a loving farmer shields his aged mother away from a cruel young lord who banishes elderly villagers, when they reach the age of 70, to the mountains and leave them to die there. When a nearby ruler threatens to invade the village unless the lord can perform three impossible tasks, only the farmer’s mother succeeds in solving them. The lord then reverses his decree and declares that elders “will be treated with respect and honour, and will share with us the wisdom of their years”.|
+
+|<img src="/images/vol-17-issue-2/mulan/TextBoxBook_WiseOldWoman.png">|
 
 |In the Nepalese fable, *I, Doko: The Tale of a Basket* (2004),[^26] a man decides to abandon his ailing father by placing him in a basket on the temple steps. The man realises his mistake when his young son asks him to bring the basket back so that the son would not have to buy a new one when the time comes for him to carry his father to the temple to be abandoned. Told from the point of view of the basket called Doko, which has served the family for decades, the moral of the story is to treat old people with respect and deference even when they are ailing and are no longer “useful”.|
 
@@ -148,8 +152,7 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 
 <div class="infobox">
-	
-|<img src="/images/vol-17-issue-2/mulan/StoriesFromAsia4.png style="width: 300px; height: 300px;" />|
+|<img src="/images/Vol-17-issue-2/mulan/StoriesFromAsia4.png" style="width: 350px; height: 200px;"/>|
 	
 |*Stories from Asia: The Asian Children’s Literature Collection* presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.|
 
