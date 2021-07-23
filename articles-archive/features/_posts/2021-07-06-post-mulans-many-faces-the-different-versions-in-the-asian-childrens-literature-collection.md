@@ -107,8 +107,8 @@ These differences probably arise from the writer’s perception of who the reade
 
 Differences in treatment notwithstanding, the fundamental story of Mulan taking her father’s place in the army has not changed over the last 1,500 years. The enduring popularity of her story is testimony to the fact that this particular tale strikes a deep chord within people, regardless of time period or cultural milieu. And Mulan herself continues to serve as an inspiration and role model for children today.
 
-|##### **Of Familial Love and Sacrifice**|
-By Michelle Heng
+|##### **Of Familial Love and Sacrifice**|<br>|By Michelle Heng|
+
 There is a Chinese proverb, 百善孝为先, which says that filial piety ranks first among all virtues.1 Filial piety is a major tenet of Confucian thought and has remained the cornerstone of Chinese society for thousands of years.2 According to the Classic of Filial Piety (孝经; Xiaojing), a Confucian classic treatise giving advice on filial piety, “Filial piety begins with the serving of our parents, continues with the serving of our ruler, and is completed with the establishment of our own character”. 
 The values of loyalty, respect and obedience to one’s parents and seniors, reflected in the tale of Mulan, are also universal virtues that find common ground in several Asian tales centred on sacrifices made by children for their elderly kinfolk in the National Library’s Asian Children’s Literature (ACL) Collection.3 
 An example of this is a retelling of The Voice of the Great Bell (1989),4 the story of a pure and beauteous Chinese maiden, Ko-Ngai, who makes the ultimate sacrifice when the emperor threatens to execute her father, Kouan-Yu, after he fails repeatedly to create the greatest of bells “strengthened with brass, deepened with gold, sweetened with silver” despite gathering the best artisans in the country for the monumental task. When the cast is made and the mould removed, the bell falls apart as the three metals did not combine. Ko-Ngai then sacrifices herself, as the only way the metals will bond is if a pure young maiden is thrown into the molten mass. 
