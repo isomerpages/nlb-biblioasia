@@ -123,11 +123,11 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 
 |The much-loved Japanese folktale, *The Wise Old Woman* (1994),[^25] tells of how a loving farmer shields his aged mother away from a cruel young lord who banishes elderly villagers, when they reach the age of 70, to the mountains and leave them to die there. When a nearby ruler threatens to invade the village unless the lord can perform three impossible tasks, only the farmer’s mother succeeds in solving them. The lord then reverses his decree and declares that elders “will be treated with respect and honour, and will share with us the wisdom of their years”.|
 
-|<img src="/images/vol-17-issue-2/mulan/TextBoxBook_WiseOldWoman2.png">|
+|<img src="/images/vol-17-issue-2/mulan/TextBoxBook_WiseOldWoman2.png">Wisdom comes with age and experience, and nowhere is this more apparent than Yoshiko Uchida’s retelling of a traditional Japanese folklore, *The Wise Old Woman. Uchida, Y. (1994). The Wise Old Woman. New York: Margaret K. McElderry. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC398.20952 UCH-[ACL])*.|
 
 |In the Nepalese fable, *I, Doko: The Tale of a Basket* (2004),[^26] a man decides to abandon his ailing father by placing him in a basket on the temple steps. The man realises his mistake when his young son asks him to bring the basket back so that the son would not have to buy a new one when the time comes for him to carry his father to the temple to be abandoned. Told from the point of view of the basket called Doko, which has served the family for decades, the moral of the story is to treat old people with respect and deference even when they are ailing and are no longer “useful”.|
 
-|<img src="/images/vol-17-issue-2/mulan/Doko3.png">|
+|<img src="/images/vol-17-issue-2/mulan/Doko3.png">Told from the perspective of a basket, I, Doko, depicts the significance of filial love in this poignant Nepalese folktale by Ed Young. *Young, E. (2004), I, Doko: The Tale of a Basket. New York: Philomel Books. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RAC 813.54 YOU)*|
 
 |These timeless Asian tales for children have captivated the young and the young at heart alike for many generations. It was for the purpose of raising the profile and increasing the appreciation of Asian-centric children’s literature that the ACL Collection was first initiated by the National Library of Singapore in the 1960s.[^27]|
 
@@ -138,6 +138,8 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 |In the early 1960s, most of the titles in the collection were translated into English from their original languages because not many English titles were published in Asia.[^30]|
 
 |Apart from its Asian-focused intent, the ACL Collection houses a treasure trove of uniquely crafted gems in the bookmaking tradition. *Otogi-Banashi: A Miniature Toy-Book from Japan* (1969)[^31] is a bilingual publication penned in Japanese by Tatsugoro Hirose, with the English text by Ann Herring. Embedded within a cut-out space in the pages are three Lilliputian books of much-loved Japanese folktales: “The Old Man Who Makes The Flowers Bloom”, “Momotaro” and “Kachi-Kachi Mountain”. Featuring distinctive woodblock-printed illustrations, the bindings of the miniature books and the slipcover are made of *chiyogami*, a traditional Japanese paper.[^32]|
+
+|<img src="/images/vol-17-issue-2/mulan/OtogiBanashi3.png">*Otogi-Banashi: A Miniature Toy-Book from Japan* contains three miniature books on well-loved Japanese folktales as well as an introductory essay on the history of toy books and woodblock prints. *Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RCLOS 895.63 HER)*.|
 
 |Another gem is the visually arresting *Pang Tao (Flat Peaches): Eight Fairies Festival* (c. 1900–1950)[^33] about a legendary group of deities. Bound in an accordion format and containing 10 beautifully hand-coloured illustrations framed in silk brocade, this bilingual title in English and Chinese is available in the ACL Collection.|
 
@@ -157,9 +159,6 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 |*Stories from Asia: The Asian Children’s Literature Collection* presents highlights from the collection held in the Lee Kong Chian Reference Library. The collection, over 12,000-strong, is located on level 9 of the National Library Building. This full-colour hardcover book sheds light on the literary and historical developments in children’s literature about Asians and Asia. Apart from featuring unique and rare items from the collection, it also covers diverse topics such as the power of storytelling and imagination, Asian folktales, foreign perspectives of Asia and emergent Asian children’s literature. The collection is recognised by UNESCO as one of the “nationally and internationally significant library collection”.|
 
 |The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 809.89282 STO and SING 809.89282 STO)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201510067) as well as for digital loan at [nlb.overdrive.com](https://nlb.overdrive.com/).
-	
-	
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201510067">(Call nos.: RSING 809.89282 STO and SING 809.89282 STO)</a> as well as for digital loan at <a href="https://nlb.overdrive.com/">nlb.overdrive.com</a>.
 	
 <div style="background-color: white;">
 <br/>
