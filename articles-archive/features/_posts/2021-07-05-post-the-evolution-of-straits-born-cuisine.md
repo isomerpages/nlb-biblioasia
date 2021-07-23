@@ -104,7 +104,7 @@ Given that Lane was based in Penang, it is interesting that her *rojak* recipe d
 
 Indonesia’s contributions to Straits-born cuisine in Singapore can be seen in Mrs Susie Hing’s *In A Malayan Kitchen*, published in 1956.[^16] Mrs Hing was from Semarang in central Java, the hub of the Indonesian Chinese community during the Dutch colonial era. Several prominent Singaporean families have forebears who hailed from Semarang, among them the Kwa family, the in-laws of the late founding Prime Minister Lee Kuan Yew, whose  own grandmother and father were born there.[^17]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/MalayanKitchen.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/MalayanKitchen2.jpg)
 <div style="background-color: white;">Mrs Susie Hing’s cookbook contains typical Indonesian recipes such as <i>opor ayam</i>, <i>rendang</i> Padang, <i>sate bakso and dendeng manis</i>. <i>Hing, S., Mrs. (1956). In a Malayan Kitchen. Singapore: Mun Seong Press. Collection of the National Library, Singapore. (Call no.: RCLOS 641.59595 HIN-[RFL]).</i></div>
 
 
@@ -121,7 +121,7 @@ One interesting find in Mrs Hing’s book is a recipe for *kroket tjanker* or *J
 
 The first local cookbook that identified itself as being Peranakan is *Mrs Lee’s Cookbook*, originally self-published in 1974.[^19] (The author – Mrs Lee Chin Koon, née Chua Jim Neo – was the mother of Prime Minister Lee Kuan Yew). In her book, she wrote: “Malay influence, because of mingling and intermarriage, has produced a unique Peranakan culture and set of customs distinct from those of the Chinese community who came from China. Our food, which is basically Malay or Indonesian in method and ingredients, were altered to suit our tastes.” 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/MrsLeeCookbook2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/MrsLeeCookbook3.jpg)
 <div style="background-color: white;">This is the first local cookbook that identifies itself as Peranakan. <i>Lee, C.K., Mrs. (1974). Mrs Lee’s Cookbook: Nonya Recipes and Other Favourite Recipes. Singapore: [The Author]. Collection of the National Library, Singapore. (Call no: RSING 641.595957 LEE).</i></div>
 
 
