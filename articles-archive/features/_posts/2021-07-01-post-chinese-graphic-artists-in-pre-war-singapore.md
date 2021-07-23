@@ -56,7 +56,7 @@ Apart from teaching art at Yeung Cheng (養正學校) and Tuan Mong schools, and
 
 At the invitation of Chen Lien Tsing (陳鍊青), the chief editor of *Lat Pau* (叻报), Tchang redesigned the masthead of its literary section, *Coconut Grove* (椰林; *Yelin*), and subsequently guest-edited *Yehui* (椰暉), *Lat Pau*’s illustrated weekend pictorial, for half a year between October 1930 and April 1931. During this period, Tchang made a name for himself as an accomplished cartoonist and when he opened Ju Chi studio (汝器画室) in early 1930, it was widely publicised in both *Lat Pau* and *Sin Chew Jit Poh*.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/JuChi.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/JuChi1.jpg)
 <div style="background-color: white;">Advertisements by Ju Chi Studio published in the <i>Sin Chew Jit Poh</i> newspaper between 1929 and 1930. Ju Chi Studio was set up by Tchang Ju-ch’i in February 1930. <i>Sin Chew Jit Poh, 27 September 1930, p. 2; and Sin Chew Jit Poh, 7 September 1929, p. 2. Retrieved from NewspaperSG.</i></div>
 
 In 1934, Tchang and U-Chow (莊有釗) set up The United Painters (朋特畫社) at 181 Tank Road, offering a suite of services such as advertisement graphic design and painting, oil painting, sculpture and badge design (U-Chow, also known as Chong Yew Chao or Chuang Yew Chao, was married to Tchang’s first cousin).
