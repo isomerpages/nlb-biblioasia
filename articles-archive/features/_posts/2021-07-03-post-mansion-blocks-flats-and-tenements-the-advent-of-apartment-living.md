@@ -76,6 +76,10 @@ The layout of the apartments was quite similar to Amber Mansions and consisted o
 
 Although Amber Mansions was well received upon completion in early 1922, it would be another three years before Swan & Maclaren received their next commission for an apartment block. It came from businessman and philanthropist Eu Tong Sen (who built up Chinese medicine purveyor Eu Yan Sang) and was for a three-storey, L-shaped block of flats at the corner of Hill Street and Stamford Road.[^7]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/EuCourt.jpg)
+<div style="background-color: white;">Eu Court at the corner of Hill Street and Stamford Road, c. 1930. <i>Courtesy of Glen Christian</i>.</div>
+
+
 There were to be eight retail units on the ground floor and as many residential apartments on each of the floors above. The latter offered a choice of two- or three-bedroom flats, with a living room, dining room and kitchen. There were garages, too – a sign of the times – with servants’ quarters above that were located across a courtyard at the rear of the property. 
 
 Architecturally, the style was “Stripped Classical”, a kind of reductive Classicism popular in the early decades of the 20th century, where the details have been greatly simplified, or stripped away, but there is still an adherence to the principles of Classical architecture in terms of symmetry, proportion and the arrangement of the elevation.[^8]
@@ -111,9 +115,6 @@ In both instances, what we see is a kind of Europeanisation of the building char
 Amber Mansions, Institution Hill Mansions and Meyer Flats: three upmarket residential developments that were evidently built with a European clientele in mind – their respective locations and self-aggrandising designation as “mansions” for the first two indicate as much.[^10]
 
 Likewise, the apartment blocks commissioned by Eu Tong Sen at the junction of Stamford Road and Hill Street. Which is not to say that there was any overt colour bar in place that would have prevented members of Singapore’s emerging Asian middle class – businessmen, office staff, clerical workers, school teachers and even young professionals – from renting a unit in one of these apartment blocks. If they could afford it, that is. But then somewhere in between the purpose-built apartment block and the shoebox cubicle of the repeatedly subdivided shophouse, there was a kind of halfway house – the tenement.
-
-![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/EuCourt.jpg)
-<div style="background-color: white;">Eu Court at the corner of Hill Street and Stamford Road, c. 1930. <i>Courtesy of Glen Christian</i>.</div>
 
 The word "tenement" today comes with pejorative associations but in the 1920s, the dictionary definition of a “tenement house” was simply “a dwelling house erected or used for the purpose of being rented, esp. one divided into separate apartments, or tenements, for families”.[^11]
 
