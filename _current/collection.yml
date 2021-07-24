@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - article1.md
+      - article2.md
