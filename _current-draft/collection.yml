@@ -1,5 +1,5 @@
 collections:
-  current:
+  current-draft:
     output: true
     order:
       - article1.md
