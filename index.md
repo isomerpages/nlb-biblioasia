@@ -10,12 +10,12 @@ sections:
   - hero:
       background: /images/vol-17-issue-2/Hero%20Banner2.jpg
       key_highlights:
-        - title: Read this issue
+        - title: ""
           description: Forgotten murals, Mulan's many faces, early printing in the
             Philippines, and more!
           url: /July-2021
-      button: " "
-      url: " "
+      button: read this issue
+      url: " /july-2021"
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
       subtitle: Highlights
