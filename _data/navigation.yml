@@ -6,3 +6,5 @@ links:
     resource_room: true
   - title: All Issues
     url: /all-issues/
+  - title: J2021
+    collection: j2021
