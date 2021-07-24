@@ -1,5 +1,6 @@
 ---
 title: Forgotten
-permalink: /j2021/forgotten
+permalink: /july-2021/forgotten
 ---
+
 
