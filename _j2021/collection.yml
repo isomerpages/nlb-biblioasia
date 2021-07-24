@@ -2,5 +2,6 @@ collections:
   j2021:
     output: true
     order:
+      - special/.keep
       - art1.md
       - art2.md
