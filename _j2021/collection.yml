@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - special/.keep
+      - special/art3.md
       - art1.md
       - art2.md
