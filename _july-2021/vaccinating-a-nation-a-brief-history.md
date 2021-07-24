@@ -141,8 +141,8 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 </div>
 
 #### **RELATED ARTICLES**
-* <a href="https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/plague">The plaque fighter </a> who helped eradicate the deadly Manchurian pneumonic plague of 1910
-* <a href="https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/cholera">The first recorded pandemic </a>, cholera, in the 19th century
+* <a href="https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/plague">The plaque fighter</a> who helped eradicate the deadly Manchurian pneumonic plague of 1910
+* <a href="https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/cholera">The first recorded pandemic</a>, cholera, in the 19th century
 
 
 #### **NOTES**
