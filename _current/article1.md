@@ -1,4 +1,5 @@
 ---
 title: article1
-permalink: /permalink
+permalink: /j2021-art1/permalink
 ---
+
