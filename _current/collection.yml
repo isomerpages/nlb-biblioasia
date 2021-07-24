@@ -1,0 +1,4 @@
+collections:
+  current:
+    output: true
+    order: []
