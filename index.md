@@ -18,7 +18,7 @@ sections:
       url: " /july-2021"
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
-      subtitle: Highlights
+      subtitle: In this issue
       button: Read this article
       url: /vol-17/issue-2/jul-sep-2021/murals
       image: /images/vol-17-issue-2/murals/highlights.jpg
@@ -27,7 +27,7 @@ sections:
         Dahlia Shamsuddin has the inside story of how they came to be.
   - infopic:
       title: Vaccinating a Nation
-      subtitle: Highlights
+      subtitle: In this issue
       button: Read this article
       url: /vol-17/issue-2/jul-sep-2021/vaccinating-nation
       image: /images/vol-17-issue-2/vaccination/Highlight.png
@@ -36,7 +36,7 @@ sections:
         vaccinate the residents of Singapore since 1819.
   - infopic:
       title: How Jurong Bird Park was Hatched
-      subtitle: Highlights
+      subtitle: In this issue
       description: A stolen cassowary. A questionable waterfall. A lack of falconers.
         The opening of Jurong Bird Park in 1971 was rife with challenges, as Zoe
         Yeo discovers.
@@ -44,4 +44,13 @@ sections:
       url: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
       image: /images/vol-17-issue-2/birdpark/highlights.jpg
       alt: sample of JBP
+  - infobar:
+      title: The Nature Issue
+      subtitle: Human x nature exhibition
+      button: Local environmental histories
+      url: https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/
+  - resources:
+      title: In the News
+      subtitle: from the archives
+      button: History of diseases
 ---
