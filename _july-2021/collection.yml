@@ -1,7 +1,0 @@
-collections:
-  july-2021:
-    output: true
-    order:
-      - directors-note.md
-      - forgotten.md
-      - vacc.md
