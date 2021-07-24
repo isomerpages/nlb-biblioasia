@@ -2,7 +2,7 @@ collections:
   j2021:
     output: true
     order:
-      - art1.md
+      - directors-note.md
       - art2.md
       - special/.keep
       - special/art3.md
