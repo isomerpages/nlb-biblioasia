@@ -1,7 +1,8 @@
 ---
 title: Forgotten
-permalink: /j2021/forgotten/current/permalink
+permalink: /j2021/forgotten/permalink
 ---
+
 
 #### Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. **Dahlia Shamsuddin** has the inside story of how they came to be.
 
