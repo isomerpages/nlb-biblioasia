@@ -2,8 +2,6 @@
 title: The Forgotten Murals of Paya Lebar Airport
 permalink: /july-2021/murals
 ---
-
-
 #### Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. **Dahlia Shamsuddin** has the inside story of how they came to be.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Mural_Main2.jpg)
@@ -126,8 +124,6 @@ significant today.
 <img src="/images/Vol-17-issue-2/authors/Dahlia.png" style="width: 100px; height: 100px;" />
 <b>Dahlia Shamsuddin </b> is a Senior Librarian with the Resource Discovery & Management, National Library Board, where she catalogues legal deposit, gift and donor materials. She has worked in public, academic, law and national libraries doing reference, circulation, digital and print cataloguing work.
 </div>
-
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
 #### **NOTES**
