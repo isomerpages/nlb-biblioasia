@@ -9,11 +9,12 @@ notification: ""
 sections:
   - hero:
       background: /images/vol-17-issue-2/Hero%20Banner2.jpg
-      dropdown:
-        title: Read the current issue
-        options:
-          - title: Hero Dropdown Element Title
-            url: /july-2021
+      key_highlights:
+        - title: Read this issue
+          description: Forgotten murals at a former airport
+          url: ""
+      button: " "
+      url: " "
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
       subtitle: Highlights
