@@ -2,5 +2,5 @@ collections:
   j2021:
     output: true
     order:
-      - directors-note.md
+      - director-note.md
       - forgotten.md
