@@ -49,5 +49,5 @@ sections:
       subtitle: Human x nature exhibition
       button: Local environmental histories
       url: https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/
-      description: Conservation, deforestation, plantations, and more
+      description: Conservation, deforestation, plantation, and more
 ---
