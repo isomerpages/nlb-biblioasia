@@ -11,8 +11,8 @@ sections:
       background: /images/vol-17-issue-2/Hero%20Banner2.jpg
       key_highlights:
         - title: ""
-          description: Forgotten murals, Mulan's many faces, early printing in the
-            Philippines, and more!
+          description: Read about the forgotten murals, Mulan's many faces, early printing
+            in the Philippines, and more!
           url: /July-2021
       button: read this issue
       url: " /july-2021"
