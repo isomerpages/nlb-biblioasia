@@ -2,5 +2,5 @@ collections:
   current-draft:
     output: true
     order:
-      - article1.md
+      - directors-note.md
       - article2.md
