@@ -1,5 +1,5 @@
 collections:
-  j2021:
+  july-2021:
     output: true
     order:
       - director-note.md
