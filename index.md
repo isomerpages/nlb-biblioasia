@@ -11,7 +11,6 @@ sections:
       background: /images/vol-17-issue-2/Hero%20Banner2.jpg
       button: Read the current issue
       url: /july-2021
-      title: The Forgotten Murals of Paya Lebar Airport
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
       subtitle: Highlights
