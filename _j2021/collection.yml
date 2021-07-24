@@ -1,4 +1,5 @@
 collections:
   j2021:
     output: true
-    order: []
+    order:
+      - art1.md
