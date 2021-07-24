@@ -2,7 +2,7 @@ collections:
   july-2021:
     output: true
     order:
-      - about-this-issue.md
+      - in-this-issue.md
       - director-note.md
       - the-forgotten-murals-of-paya-lebar-airport.md
       - vaccinating-a-nation-a-brief-history.md
