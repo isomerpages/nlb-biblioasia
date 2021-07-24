@@ -2,6 +2,6 @@ collections:
   july-2021:
     output: true
     order:
-      - july-2021.md
+      - about-this-issue.md
       - director-note.md
       - the-forgotten-murals-of-paya-lebar-airport.md
