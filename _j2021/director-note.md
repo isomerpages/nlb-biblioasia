@@ -1,7 +1,8 @@
 ---
 title: Director Note
-permalink: /j2021/dm
+permalink: /july-2021/dm
 ---
+
 I believe my first encounter with public art was at the old Plaza Singapura – “Wealth” and “Contentment”, two sculptures by local artist Ng Eng Teng. I remember being awed by the voluminous female figures soaring above me (both sculptures have since been relocated to a spot outside the University Cultural Centre). 
 
 Today, one can encounter public art everywhere around Singapore, whether in the form of sculptures and murals, or something more ephemeral like a performance. This issue’s cover story focuses on the murals at the former Paya Lebar Airport. Once iconic emblems of an iconic building, they are barely remembered today and are in danger of being completely lost. [Dahlia Shamsuddin's](/vol-17/issue-2/jul-sep-2021/murals) poignant piece reminds us to stop, look, and reflect on the artworks around us as these may not be here tomorrow.
