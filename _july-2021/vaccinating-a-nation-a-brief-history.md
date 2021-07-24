@@ -2,8 +2,6 @@
 title: "Vaccinating a Nation: A Brief History"
 permalink: /july-2021/vaccinating-a-nation
 ---
-
-
 #### The history of vaccination in Singapore goes back to the days of William Farquhar. **Ong Eng Chuan** provides an overview of vaccination efforts to prevent epidemics from breaking out here.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/Vaccination%20-%20Main2.jpg)
@@ -142,7 +140,9 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 <b>Ong Eng Chuan</b> is a Senior Librarian with the National Library, Singapore, where he manages the Rare Materials Collection. His research interest is in early Singapore publications.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+#### **RELATED ARTICLES**
+* <a href="https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/plague">The plaque fighter </a> who helped eradicate the deadly Manchurian pneumonic plague of 1910
+* <a href="https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/cholera">The first recorded pandemic </a>, cholera, in the 19th century
 
 
 #### **NOTES**
