@@ -11,8 +11,9 @@ sections:
       background: /images/vol-17-issue-2/Hero%20Banner2.jpg
       key_highlights:
         - title: Read this issue
-          description: Forgotten murals at a former airport
-          url: ""
+          description: Forgotten murals, Mulan's many faces, early printing in the
+            Philippines, and more!
+          url: /July-2021
       button: " "
       url: " "
   - infopic:
