@@ -4,5 +4,3 @@ collections:
     order:
       - directors-note.md
       - art2.md
-      - special/.keep
-      - special/art3.md
