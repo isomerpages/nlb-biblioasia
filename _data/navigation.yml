@@ -6,5 +6,5 @@ links:
     resource_room: true
   - title: All Issues
     url: /all-issues/
-  - title: Current
-    collection: current
+  - title: Current Draft
+    collection: current-draft
