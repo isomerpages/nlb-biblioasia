@@ -1,4 +1,5 @@
 collections:
   current:
     output: true
-    order: []
+    order:
+      - article1.md
