@@ -5,14 +5,13 @@ description: BiblioAsia is a quarterly magazine produced by the National Library
   of Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       background: /images/vol-17-issue-2/Hero%20Banner2.jpg
-      key_highlights:
-        - title: Read BiblioAsia Jul-Sep 2021
-          description: null
-          url: /vol-17/issue-2/jul-sep-2021/
+      button: Read the current issue
+      url: /july-2021
+      title: The Forgotten Murals of Paya Lebar Airport
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
       subtitle: Highlights
