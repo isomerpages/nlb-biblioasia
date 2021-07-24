@@ -49,8 +49,4 @@ sections:
       subtitle: Human x nature exhibition
       button: Local environmental histories
       url: https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/
-  - resources:
-      title: In the News
-      subtitle: from the archives
-      button: History of diseases
 ---
