@@ -1,8 +1,9 @@
 ---
-title: "Mulan's Many Faces: The Different Versions In The Asian Children's
+title: "Mulan's Many Faces: The Different Versions in the Asian Children's
   Literature Collection"
 permalink: /july-2021/mulan-many-faces
 ---
+
 #### **Goh Yu Mei** examines the National Library’s Asian Children’s Literature Collection to see how the story of Mulan has evolved over time, while **Michelle Heng** reviews other Asian tales in the acclaimed collection.
 
 
