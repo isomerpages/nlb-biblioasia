@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - culture/.keep
+      - culture/culture.md
       - food/.keep
       - food/food.md
       - art/.keep
