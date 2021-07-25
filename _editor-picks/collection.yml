@@ -2,9 +2,9 @@ collections:
   editor-picks:
     output: true
     order:
-      - culture/.keep
-      - culture/culture.md
-      - food/.keep
-      - food/food.md
       - art/.keep
       - art/art1.md
+      - food/.keep
+      - food/food.md
+      - culture/.keep
+      - culture/culture.md
