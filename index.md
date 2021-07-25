@@ -47,7 +47,8 @@ sections:
   - infobar:
       title: The Nature Issue
       subtitle: Human x nature exhibition
-      button: Local environmental histories
+      button: Read more
       url: https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/
-      description: Conservation, deforestation, plantation, and more
+      description: Conservation, deforestation, plantation, and more environmental
+        histories of Singapore
 ---
