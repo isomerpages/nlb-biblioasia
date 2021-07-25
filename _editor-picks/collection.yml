@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - art/.keep
+      - art/art1.md
