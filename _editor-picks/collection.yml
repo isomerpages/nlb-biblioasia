@@ -4,5 +4,6 @@ collections:
     order:
       - culture/.keep
       - food/.keep
+      - food/food.md
       - art/.keep
       - art/art1.md
