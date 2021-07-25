@@ -2,5 +2,6 @@ collections:
   editor-picks:
     output: true
     order:
+      - food/.keep
       - art/.keep
       - art/art1.md
