@@ -1,5 +1,5 @@
 collections:
-  july-2021:
+  biblioasia-jul-sep-2021:
     output: true
     order:
       - in-this-issue.md
