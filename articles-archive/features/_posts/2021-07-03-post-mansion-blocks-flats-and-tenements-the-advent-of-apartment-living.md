@@ -4,17 +4,6 @@ date: 2021-07-03
 permalink: /vol-17/issue-2/jul-sep-2021/swanandmaclaren
 layout: post
 ---
-<style>
-table { 
-	background-color: #f7eddb;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #f7eddb
-}
-</style>
-
 #### Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan & Maclaren introduced the concept of apartment living in Singapore, as **Julian Davison** tells us.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/Mansion_Main.jpg)
