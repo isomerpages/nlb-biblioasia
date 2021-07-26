@@ -4,17 +4,6 @@ date: 2021-07-04
 permalink: /vol-17/issue-2/jul-sep-2021/diamondtrail
 layout: post
 ---
-<style>
-table { 
-	background-color: #e5ebf6;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #e5ebf6
-}
-</style>
-
 #### **Zinnurain Nasir** and **Nasri Shah** shed light on the Banjar people, a small but significant sub-ethnic Malay community from Borneo.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/urangbanjar/UrangBanjar_Main.jpg)
