@@ -13,13 +13,13 @@ sections:
         - title: ""
           description: Learn about the forgotten murals, the evolution of Mulan's story,
             early printing in the Philippines, and more!
-          url: /July-2021
-      button: Read BiblioAsia Jul–Sep issue
+          url: /vol-17/issue-2/jul-sep-2021/
+      button: Read the current issue
       url: /vol-17/issue-2/jul-sep-2021/
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
       subtitle: highlights
-      button: Read this article
+      button: Read more
       url: /vol-17/issue-2/jul-sep-2021/murals
       image: /images/vol-17-issue-2/murals/highlights.jpg
       alt: Sample of murals
