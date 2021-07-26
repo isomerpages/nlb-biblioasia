@@ -44,10 +44,4 @@ sections:
       url: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
       image: /images/vol-17-issue-2/birdpark/highlights.jpg
       alt: sample of JBP
-  - infobar:
-      title: The Nature Issue
-      subtitle: Human x nature exhibition
-      button: Read more
-      url: https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/
-      description: Conservation, deforestation and more environmental histories of Singapore
 ---
