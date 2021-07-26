@@ -4,17 +4,6 @@ date: 2021-07-05
 permalink: /vol-17/issue-2/jul-sep-2021/straitsborncuisine
 layout: post
 ---
-<style>
-table { 
-	background-color: #e5ebf6;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #e5ebf6
-}
-</style>
-
 #### **Lee Geok Boi** looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/straitscuisine/StraitsbornCuisine_Main.jpg)

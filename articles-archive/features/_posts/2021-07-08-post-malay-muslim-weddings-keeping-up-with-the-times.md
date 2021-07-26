@@ -4,17 +4,6 @@ date: 2021-07-08
 permalink: /vol-17/issue-2/jul-sep-2021/malay-weddings
 layout: post
 ---
-<style>
-table { 
-	background-color: #e5ebf6;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #e5ebf6
-}
-</style>
-
 #### Customs and traditions change over time. **Asrina Tanuri** and **Nadya Suradi** trace how Malay-Muslim weddings in Singapore have evolved since the 1950s.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/malayweddings/MalayWedding-Main.jpg)

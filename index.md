@@ -5,18 +5,21 @@ description: BiblioAsia is a quarterly magazine produced by the National Library
   of Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       background: /images/vol-17-issue-2/Hero%20Banner2.jpg
       key_highlights:
-        - title: Read BiblioAsia Jul-Sep 2021
-          description: null
+        - title: ""
+          description: Learn about the forgotten murals, the evolution of Mulan's story,
+            early printing in the Philippines, and more!
           url: /vol-17/issue-2/jul-sep-2021/
+      button: Read the current issue
+      url: /vol-17/issue-2/jul-sep-2021/
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
-      subtitle: Highlights
-      button: Read this article
+      subtitle: highlights
+      button: Read more
       url: /vol-17/issue-2/jul-sep-2021/murals
       image: /images/vol-17-issue-2/murals/highlights.jpg
       alt: Sample of murals
@@ -24,8 +27,8 @@ sections:
         Dahlia Shamsuddin has the inside story of how they came to be.
   - infopic:
       title: Vaccinating a Nation
-      subtitle: Highlights
-      button: Read this article
+      subtitle: highlights
+      button: Read more
       url: /vol-17/issue-2/jul-sep-2021/vaccinating-nation
       image: /images/vol-17-issue-2/vaccination/Highlight.png
       alt: sample of vaccination
@@ -33,11 +36,11 @@ sections:
         vaccinate the residents of Singapore since 1819.
   - infopic:
       title: How Jurong Bird Park was Hatched
-      subtitle: Highlights
+      subtitle: highlights
       description: A stolen cassowary. A questionable waterfall. A lack of falconers.
         The opening of Jurong Bird Park in 1971 was rife with challenges, as Zoe
         Yeo discovers.
-      button: Read this article
+      button: Read more
       url: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
       image: /images/vol-17-issue-2/birdpark/highlights.jpg
       alt: sample of JBP

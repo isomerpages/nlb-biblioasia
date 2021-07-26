@@ -5,17 +5,6 @@ date: 2021-07-06
 permalink: /vol-17/issue-2/jul-sep-2021/mulan-many-faces
 layout: post
 ---
-<style>
-table { 
-	background-color: #e5ebf6;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #e5ebf6
-}
-</style>
-
 #### **Goh Yu Mei** examines the National Library’s Asian Children’s Literature Collection to see how the story of Mulan has evolved over time, while **Michelle Heng** reviews other Asian tales in the acclaimed collection.
 
 
@@ -29,10 +18,10 @@ table {
 
 These are the opening lines in《木兰辞》(*Mulan Ci; The Ballad of Mulan*),[^2] believed to have been composed during the Northern dynasties period (北朝, c. 386–581).[^3]
 
+Widely accepted as the earliest written version of the story of Mulan (木兰), the 62-line poem tells the inspiring story of a young woman who disguises herself as a man so that she can take her aged father’s place when he is conscripted into the army to fight the Tartars. The ballad was subsequently included in《乐府诗集》(*Yuefu Shiji; Collection of Yuefu Poetry*), an anthology of poetry compiled by Guo Maoqian (郭茂倩) during the Song Dynasty (960–1276).
+
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mulan/Poem2.jpg)
 <div style="background-color: white;">The first known written form of the poem about Mulan titled《木兰辞》(<i>The Ballad of Mulan</i>) and 木兰歌 (<i>The Song of Mulan</i>) by Wei Yuanfu (韦元甫) were compiled by Guo Maoqian (郭茂倩) in his anthology of poetry,《乐府诗集》(<i>Yuefu Shiji</i>). <i>Image reproduced from 郭茂倩 [Guo M.Q.]. (1264–1269).《乐府诗集: 一百卷，目录 [二卷]》. Hubei: Chong Wen Shu Ju. Retrieved from Hathi Trust Digital Library website.</i></div>
-
-Widely accepted as the earliest written version of the story of Mulan (木兰), the 62-line poem tells the inspiring story of a young woman who disguises herself as a man so that she can take her aged father’s place when he is conscripted into the army to fight the Tartars. The ballad was subsequently included in《乐府诗集》(*Yuefu Shiji; Collection of Yuefu Poetry*), an anthology of poetry compiled by Guo Maoqian (郭茂倩) during the Song Dynasty (960–1276).
 
 During the Tang dynasty (618–907), the story was retold as《木兰歌》(*Mulan Ge*; *The Song of Mulan*), a poem written by Wei Yuanfu (韦元甫). Several centuries later, during the Ming dynasty (1368–1644), Xu Wei (徐渭) composed the opera《雌木兰替父从军》(*Cimulan Tifucongjun; Female Mulan Took Her Father’s Place in the Army*). The story was then turned into the novel《北魏奇史闺孝烈传》(*Beiwei Qishi Guixiao Liezhuan; The Legendary Story of a Filial and Heroic Girl from the Northern Wei*) by Zhang Shaoxian (张绍贤) during the Qing dynasty (1644–1912).[^4]
 

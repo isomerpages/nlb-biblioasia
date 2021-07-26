@@ -1,19 +1,9 @@
 ---
-title: A Diamond Trail Across the East
+title: "Urang Banjar: From South Kalimantan to Singapore"
 date: 2021-07-04
-permalink: /vol-17/issue-2/jul-sep-2021/diamondtrail
+permalink: /vol-17/issue-2/jul-sep-2021/urangbanjar
 layout: post
 ---
-<style>
-table { 
-	background-color: #e5ebf6;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #e5ebf6
-}
-</style>
 
 #### **Zinnurain Nasir** and **Nasri Shah** shed light on the Banjar people, a small but significant sub-ethnic Malay community from Borneo.
 
