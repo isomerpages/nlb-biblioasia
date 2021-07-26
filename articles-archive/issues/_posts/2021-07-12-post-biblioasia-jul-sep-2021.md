@@ -22,7 +22,7 @@ In this issue’s cover story, we shine the spotlight on three murals that were 
 
 [The Evolution of Straits-born Cuisine](/vol-17/issue-2/jul-sep-2021/straitsborncuisine)<br>What makes Peranakan cuisine unique? *Lee Geok Boi* looks for answers in old cookbooks.
 
-[Urang Banjar: From South Kalimantan to Singapore](/vol-17/issue-2/jul-sep-2021/diamondtrail)<br>*Zinnurain Nasir* and *Nasri Shah* shed light on the Banjar people in Singapore.
+[Urang Banjar: From South Kalimantan to Singapore](/vol-17/issue-2/jul-sep-2021/urangbanjar)<br>*Zinnurain Nasir* and *Nasri Shah* shed light on the Banjar people in Singapore.
 
 [Mansion Blocks, Flats and Tenements: The Advent of Apartment Living](/vol-17/issue-2/jul-sep-2021/swanandmaclaren)<br>Through buildings like Amber Mansions and Eu Court, Swan & Maclaren helped to introduce the concept of apartment living in Singapore, says *Julian Davison*.
 
