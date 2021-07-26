@@ -2,6 +2,7 @@
 title: "The Evolution of Straits-born Cuisine "
 date: 2021-07-05
 permalink: /vol-17/issue-2/jul-sep-2021/straitsborncuisine
+image: /images/vol-17-issue-2/straitscuisine/StraitsbornCuisine_Main.jpg
 layout: post
 ---
 #### **Lee Geok Boi** looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be. 
