@@ -2,6 +2,7 @@
 title: Vaccinating a Nation
 date: 2021-07-09
 permalink: /vol-17/issue-2/jul-sep-2021/vaccinating-nation
+image: /images/vol-17-issue-2/vaccination/Vaccination%20-%20Main2.jpg
 layout: post
 ---
 #### The history of vaccination in Singapore goes back to the days of William Farquhar. **Ong Eng Chuan** provides an overview of vaccination efforts to prevent epidemics from breaking out here.
