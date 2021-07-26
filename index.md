@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: Vaccinating a Nation
       subtitle: highlights
-      button: Read this article
+      button: Read more
       url: /vol-17/issue-2/jul-sep-2021/vaccinating-nation
       image: /images/vol-17-issue-2/vaccination/Highlight.png
       alt: sample of vaccination
@@ -40,7 +40,7 @@ sections:
       description: A stolen cassowary. A questionable waterfall. A lack of falconers.
         The opening of Jurong Bird Park in 1971 was rife with challenges, as Zoe
         Yeo discovers.
-      button: Read this article
+      button: Read more
       url: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
       image: /images/vol-17-issue-2/birdpark/highlights.jpg
       alt: sample of JBP
