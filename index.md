@@ -16,6 +16,7 @@ sections:
           url: /July-2021
       button: Read BiblioAsia Jul–Sep issue
       url: " /july-2021"
+      title: The Forgotten Murals
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
       subtitle: highlights
