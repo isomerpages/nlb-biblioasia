@@ -15,7 +15,7 @@ sections:
             early printing in the Philippines, and more!
           url: /July-2021
       button: Read BiblioAsia Jul–Sep issue
-      url: " /july-2021"
+      url: /vol-17/issue-2/jul-sep-2021/
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
       subtitle: highlights
