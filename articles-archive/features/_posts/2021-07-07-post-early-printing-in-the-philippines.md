@@ -4,17 +4,6 @@ date: 2021-07-07
 permalink: /vol-17/issue-2/jul-sep-2021/early-printing
 layout: post
 ---
-<style>
-table { 
-	background-color: #e5ebf6;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #e5ebf6
-}
-</style>
-
 #### Continuing with the series on printing in Southeast Asia, **Gracie Lee** explores the early history of printing and printed works in the Philippines.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/earlyprinting/EarlyPrinting_Main2.jpg)
