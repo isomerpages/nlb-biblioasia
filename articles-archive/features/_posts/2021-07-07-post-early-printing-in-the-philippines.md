@@ -2,6 +2,7 @@
 title: Early Printing in the Philippines
 date: 2021-07-07
 permalink: /vol-17/issue-2/jul-sep-2021/early-printing
+image: /images/vol-17-issue-2/earlyprinting/EarlyPrinting_Main2.jpg
 layout: post
 ---
 #### Continuing with the series on printing in Southeast Asia, **Gracie Lee** explores the early history of printing and printed works in the Philippines.

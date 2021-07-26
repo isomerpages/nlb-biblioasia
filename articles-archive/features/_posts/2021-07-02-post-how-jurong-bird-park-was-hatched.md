@@ -2,6 +2,7 @@
 title: How Jurong Bird Park was Hatched
 date: 2021-07-02
 permalink: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
+image: /images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg
 layout: post
 ---
 #### On the 50th anniversary of its opening, **Zoe Yeo** gives us a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
