@@ -6,7 +6,7 @@ layout: post
 ---
 In this issue’s cover story, we shine the spotlight on three murals that were once showpieces at the former Paya Lebar Airport. Two of the three artworks have already been lost. Is there hope for the last one?
 
-[<img src="/images/Vol-17-issue-2/cover.jpg">](/vol-17/issue-2/jul-sep-2021/)
+<img src="/images/Vol-17-issue-2/cover.jpg">
 
 <b>[Director's Note](/vol-17/issue-2/jul-sep-2021/director-note)</b>
 
