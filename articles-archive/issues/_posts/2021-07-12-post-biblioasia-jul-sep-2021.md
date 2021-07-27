@@ -26,6 +26,6 @@ In this issue’s cover story, we shine the spotlight on three murals that were 
 
 <b>[Mansion Blocks, Flats and Tenements: The Advent of Apartment Living](/vol-17/issue-2/jul-sep-2021/swanandmaclaren)</b><br>Through buildings like Amber Mansions and Eu Court, Swan & Maclaren helped to introduce the concept of apartment living in Singapore, says *Julian Davison*.
 
-<b>[How Jurong Bird Park was Hatched](/vol-17/issue-2/jul-sep-2021/jurong-bird-park)</b><br>*Zoe Yeo* gives a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
+<b>[How Jurong Bird Park Was Hatched](/vol-17/issue-2/jul-sep-2021/jurong-bird-park)</b><br>*Zoe Yeo* gives a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
 
 <b>[Chinese Graphic Artists in Pre-war Singapore](/vol-17/issue-2/jul-sep-2021/chinese-artists)</b><br>Several talented graphic artists moved from China to Singapore from the 1920s. *Lee Chor Lin* highlights these artists and their works.
