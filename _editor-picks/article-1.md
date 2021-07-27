@@ -1,7 +1,8 @@
 ---
 title: article 1
-permalink: /editor-picks/permalink
+permalink: /vol-11/issue-3/oct-dec-2015/director-note
 ---
+
 Singapore’s transformation from a sleepy backwater to a global metropolis in 50 years is a remarkable feat. As we celebrate our Golden Jubilee this year, it’s time to take stock of where we are and reflect on where we came from.
 
 Singapore is one of the safest countries in the world today. But it was a very different picture in the 19th and early 20th centuries, and right up to the pre-independence period when people were constantly exposed to riots, unrest and all sorts of vices imaginable. This issue of *BiblioAsia*, based on the theme “Crime, Vice & Punishment”, uncovers the seedy and less glamorous side of early Singapore.
