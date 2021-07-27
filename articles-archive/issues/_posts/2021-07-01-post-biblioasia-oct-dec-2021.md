@@ -6,7 +6,7 @@ layout: post
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
 
-<img src="/images/Vol-17-issue-2/cover.jpg">
+<img src="/images/Vol-17-issue-2/cover.jpg" height="450">
 
 <b>[Director's Note](/vol-17/issue-3/oct-dec-2021/dn)</b>
 
