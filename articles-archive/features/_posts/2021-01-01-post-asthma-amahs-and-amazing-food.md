@@ -4,20 +4,9 @@ permalink: /vol-16/issue-4/jan-mar-2021/asthma
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Asthma, Amahs and Amazing Food
 third_nav_title: Asthma, Amahs and Amazing Food
+image:/images/Vol-16-issue-4/asthma/Asthma Amahs Food title image.jpg
 
 ---
-
-<style>
-table { 
-	background-color: #d6dae9;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #d6dae9;
-}
-</style>
-
 
 #### **Irene Lim** recalls herbal remedies, home-cooked meals and domestic servants in this extract from her memoir, *90 Years in Singapore*.
 
