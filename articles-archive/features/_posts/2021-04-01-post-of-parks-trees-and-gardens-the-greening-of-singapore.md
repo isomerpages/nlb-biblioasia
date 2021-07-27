@@ -4,7 +4,7 @@ permalink: /vol-17/issue-1/apr-jun-2021/greening
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: "Of Parks, Trees and Gardens: The Greening of Singapore"
 third_nav_title: "Of Parks, Trees and Gardens: The Greening of Singapore"
-
+image: /images/Vol-17-issue-1/greeningsg/ECP.jpg
 ---
 
 <style>
