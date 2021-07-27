@@ -8,6 +8,18 @@ image:/images/Vol-16-issue-4/asthma/Asthma Amahs Food title image.jpg
 
 ---
 
+<style>
+table { 
+	background-color: #f4d3d3;
+	}
+.infobox { 
+  padding: 20px;
+  margin: 20px;
+  background: #f4d3d3;
+}
+</style>
+
+
 #### **Irene Lim** recalls herbal remedies, home-cooked meals and domestic servants in this extract from her memoir, *90 Years in Singapore*.
 
 <div style="background-color: white;">
