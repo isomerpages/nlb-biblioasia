@@ -4,7 +4,7 @@ permalink: /vol-17/issue-1/apr-jun-2021/poetry
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: "The Nature of Poetry: An Odyssey Across Time"
 third_nav_title: "The Nature of Poetry: An Odyssey Across Time"
-
+image: /images/Vol-17-issue-1/poetry/selita.jpg
 ---
 
 <style>

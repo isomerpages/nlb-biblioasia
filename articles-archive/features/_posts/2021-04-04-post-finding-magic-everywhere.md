@@ -4,7 +4,7 @@ permalink: /vol-17/issue-1/apr-jun-2021/malay-magic
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: Finding Magic Everywhere
 third_nav_title: Finding Magic Everywhere
-
+image: /images/Vol-17-issue-1/magic/pawang.jpg
 ---
 
 <style>

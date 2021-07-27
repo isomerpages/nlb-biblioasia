@@ -1,11 +1,10 @@
 ---
-title: "The Circus Comes to Town"
+title: The Circus Comes to Town
 date: 2015-10-01T00:00:00.000Z
 permalink: /vol-11/issue-3/oct-dec-2015/circus
-breadcrumb: "The Circus Comes to Town"
-third_nav_title: "The Circus Comes to Town"
+breadcrumb: The Circus Comes to Town
+third_nav_title: The Circus Comes to Town
 ---
-
 <style>
 table { 
 	background-color: #fce0e5;
@@ -17,7 +16,7 @@ table {
 }
 </style>
 
-#### The story of a homegrown circus finds expression in a new book called *Life Beyond the Big Top: Stories of the Tai Thean Kew Circus*, by **Adele Wong**.
+#### The story of a homegrown circus finds expression in a new book called *Life Beyond the Big Top: Stories of the Tai Thean Kew Circus*, by **Adele Wong**. 
 
 <div style="background-color: white;">
 <br/>

@@ -1,20 +1,21 @@
 ---
-title: Asthma, Amahs and Amazing Food
+title: "Asthma, Amahs and Amazing Food"
 permalink: /vol-16/issue-4/jan-mar-2021/asthma
 date: 2021-01-01T00:00:00.000Z
-breadcrumb: Asthma, Amahs and Amazing Food
-third_nav_title: Asthma, Amahs and Amazing Food
+breadcrumb: "Asthma, Amahs and Amazing Food"
+third_nav_title: "Asthma, Amahs and Amazing Food"
+image:/images/Vol-16-issue-4/asthma/Asthma Amahs Food title image.jpg
 
 ---
 
 <style>
 table { 
-	background-color: #d6dae9;
+	background-color: #f4d3d3;
 	}
 .infobox { 
   padding: 20px;
   margin: 20px;
-  background: #d6dae9;
+  background: #f4d3d3;
 }
 </style>
 
