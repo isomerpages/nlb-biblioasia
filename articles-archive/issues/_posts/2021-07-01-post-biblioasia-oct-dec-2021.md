@@ -4,7 +4,7 @@ date: 2021-07-01
 permalink: /vol-17/issue-3/oct-dec-2021/
 layout: post
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+In this issue, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
 
 <img src="/images/Vol-17-issue-2/cover.jpg" width="auto" height="70%">
 
