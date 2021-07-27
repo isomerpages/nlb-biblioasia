@@ -4,6 +4,7 @@ permalink: /vol-17/issue-1/apr-jun-2021/malayan-fruits
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: "A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits"
 third_nav_title: "A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits"
+image: /images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg
 
 ---
 
