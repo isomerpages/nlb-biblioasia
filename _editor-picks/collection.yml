@@ -1,5 +1,0 @@
-collections:
-  editor-picks:
-    output: true
-    order:
-      - article-1.md
