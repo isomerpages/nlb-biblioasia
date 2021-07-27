@@ -4,7 +4,7 @@ permalink: /vol-17/issue-1/apr-jun-2021/deforestation
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: Deforestation in 19th-century Singapore
 third_nav_title: Deforestation in 19th-century Singapore
-
+image: /images/Vol-17-issue-1/deforestation/junglefire.jpg
 ---
 
 <style>
