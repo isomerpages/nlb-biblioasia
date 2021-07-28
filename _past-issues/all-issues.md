@@ -4,15 +4,14 @@ permalink: /all-issues/
 breadcrumb: Overview
 collection_name: past-issues
 ---
-
 Note: When accessing older issues, you may be directed to an archived version.
 
 #### Volume 17
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 17-1 cover](/images/covers/ba17-1.jpg)[Apr–Jun 2021](/vol-17/issue-1/apr-jun-2021/)<br>[Apr–Jun 2021 (PDF)](/files/pdf/BiblioAsia Apr-Jun 2021.pdf) | ![Blank](/images/covers/placeholdercover-v2.jpg)     |
-| ![Blank](/images/covers/placeholdercover-v2.jpg)    |       ![Blank](/images/covers/placeholdercover-v2.jpg)       |
+| ![BiblioAsia 17-1 cover](/images/covers/ba17-1.jpg)[Apr–Jun 2021](/vol-17/issue-1/apr-jun-2021/)<br>[Apr–Jun 2021 (PDF)](/files/pdf/BiblioAsia Apr-Jun 2021.pdf) | ![BiblioAsia 17-1 cover](/images/covers/ba17-2.jpg)[Jul–Sep 2021](/vol-17/issue-2/jul-sep-2021/)    |
+
 
 #### Volume 16
 
