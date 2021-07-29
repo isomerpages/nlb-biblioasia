@@ -35,7 +35,7 @@ sections:
       description: Ong Eng Chuan looks at how the authorities have been trying to
         vaccinate the residents of Singapore since 1819.
   - infopic:
-      title: How Jurong Bird Park was Hatched
+      title: How Jurong Bird Park Was Hatched
       subtitle: highlights
       description: A stolen cassowary. A questionable waterfall. A lack of falconers.
         The opening of Jurong Bird Park in 1971 was rife with challenges, as Zoe
