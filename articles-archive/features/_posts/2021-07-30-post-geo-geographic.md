@@ -27,10 +27,12 @@ Maps have a special significance in Singapore. Given the dearth of historical ma
 <div style="background-color: white;">
 <br/>
 <img src="\images\vol-10-issue-4\geo-geographic\Itinerarium_Sacrae_Scripturae.jpg"> 
-	
 This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves.<br><i>National Library of Singapore Collection.</i>
 	
-(Right) This 19th- century chart with place names written in Bugis script is a rare example of an extant map of the region drawn by an unnamed Southeast Asian cartographer. Some early maps Of the region drawn by Europeans are believed to have been based on indigenous maps and sources. In turn, indigenous cartographic traditions were also influenced by European maps of the time. This nautical chart, believed to a pirate's map, shows heavy borrowings from Dutch maps. <i>Courtesy of Univeristy of Utrecht Library.</i>
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\geo-geographic\19th_century_chart.jpg">
+This 19th- century chart with place names written in Bugis script is a rare example of an extant map of the region drawn by an unnamed Southeast Asian cartographer. Some early maps Of the region drawn by Europeans are believed to have been based on indigenous maps and sources. In turn, indigenous cartographic traditions were also influenced by European maps of the time. This nautical chart, believed to a pirate's map, shows heavy borrowings from Dutch maps. <i>Courtesy of Univeristy of Utrecht Library.</i>
 
 
 #### **LAND OF GOLD AND SPICES: EARLY MAPS OF SOUTHEAST ASIA AND SINGAPORE**
@@ -40,7 +42,78 @@ A highlight of the exhibition are several pre-1800 maps that contain names such 
 	
 (Right) On this hand-drawn and coloured 1725 Dutch map depicting the southern part of the Malay Peninsula and the Riau archipelago, Singapore is marked as Oud Straat Sincapura [Old Strait of Singapore). The Old Strait of Singapore is the name of the maritime channel between Sentosa and Telok Blangah. <i>Courtesy Of Leiden University Library, 006-14-012.</i>
 	
-(Left) The Dutch merchant/traveller and historian, Jan Huygen van Linschoten (1563-1611) is credited with writing a book on the navigational routes to the elusive East Indies (referring generally to India and Southeast Asia). The Portuguese, who at that time controlled the lucrative spice trade to Europe, kept such information secret. Sailing directions and accurate maps from Linschoten's book <i>Itinerario</i> (first published in 1596), later paved the way for the Dutch and British to venture to the region. This cropped detail Of a larger map from the English edition of the <i>Itinerario</i>, published in 1598, shows "Sincapura" at the tip of the Malay Peninsula. Interestingly, Linschoten's map is oriented with the east at the top. with the entire region positioned on its side. National Library ofSingapore Collection.
+(Left) The Dutch merchant/traveller and historian, Jan Huygen van Linschoten (1563-1611) is credited with writing a book on the navigational routes to the elusive East Indies (referring generally to India and Southeast Asia). The Portuguese, who at that time controlled the lucrative spice trade to Europe, kept such information secret. Sailing directions and accurate maps from Linschoten's book <i>Itinerario</i> (first published in 1596), later paved the way for the Dutch and British to venture to the region. This cropped detail Of a larger map from the English edition of the <i>Itinerario</i>, published in 1598, shows "Sincapura" at the tip of the Malay Peninsula. Interestingly, Linschoten's map is oriented with the east at the top. with the entire region positioned on its side. National Library of Singapore Collection.
+	
+ #### **ISLAND OF STORIES: SINGAPORE MAPS**
+Do you know where "zero point" is located in Singapore? Or where the "circus" at Orchard Road was found? "Island of Stories" draws on an eclectic mix of Singapore maps that capture intriguing moments from our country's history. This exhibition, organised by NAS and NL, showcases the NAS' map collection. Accompanied by images and audiovisual elements, the exhibition weaves a multifaceted story of Singapore's past.
+	
+On display are maps that depict Singapore's farmland and soil composition; stories of the detached mole (breakwater that provides a safe protected area for smaller ships to anchor) at Marina Bay; the election fever of 1955; 3-D aerial photogrammetry; and alternative urban concepts for Singapore. 
+	
+A special Geographic Information System (GIS) developed with the Urban Redevelopment Authority enables visitors to overlay maps from the mid-19th century over a contemporary map of Singapore to see how our landscape has radically changed over the years. Another highlight are three maps drafted by the British army during the Malayan campaign and the Battle for Singapore, which detail the movement and disposition of British and Japanese troops in Northern Malaya. This display, comprising rare maps on loan from the National Archives of the United Kingdom, commemorates the 70th anniversary of the end of World War II in 2015.
+
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\geo-geographic\1977_map.jpg">	
+This 1977 map depicts the findings of the very first comprehensive soil survey of Singapore. It is still the only known officially commissioned soil map of Singapore to date. The island's central area is made of hard granite, indicated in pink. This natural feature has influenced much of the urban development on the island, with most of the construction work taking place outside this central zone made up of softer alluvium and sedimentary rocks. <i>Survey Department, National Archives of Singapore Collection.</i>
+	
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\geo-geographic\Island_of_Stories_Singapore_Maps.jpg">	
+This map, on display at "Island Of Stories: Singapore Maps" organised by NAS. shows the positions of the British (in red) and Japanese military units (in blue) on 12 and 13 February 1942. The Battle for Singapore began on 8 February and after four days of intense fighting. the Japanese forces broke through the initial British defences and captured the western half Of the island, as depicted on the map. The British eventually surrendered on 15 February 1942. Courtesy of National Archives of the <i>United Kingdom; National Archives Of Singapore Collection.</i>
+
+#### **SEA STATE 8 SEABOOK:  AN ART PROJECT BY CHARLES LIM**
+	
+seabook was conceived by artist Charles Lim as a site for the agglomeration of archival material, anecdotes and memories that explores Singapore's relationship with the sea. Lim, who is Singapore's 2015 representative to the Venice Biennale, has a close relationship with the sea as he is a former national sailor and represented Singapore in the 1996 Olympics. 
+
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\geo-geographic\Charles_Lim_work.jpg">	
+Artist Charles Lim's work, Sea Safe(2014), in progress.
+	
+This particular project is an extension of Lim's previous solo-exhibition, "In Search of Raffles' Light", held in 2013 at the National University of Singapore (NUS) Museum. Both these projects are part of Lim's body of work known as the SEA STATE series, which was first initiated in 2008 and continues with his exploration of Singapore's maritime ecology. Developed together with the librarians at NL, seabook highlights the vast amount of information and data gathered from maps, charts and newspaper clippings, as well as scholarly material grappling with the complex relationship between Singapore and the sea—from colonial times to the present day. The stories encompass the mundane-such as fishing as a livelihood, the everyday lives of island communities, regulations on the use of the sea for leisure and other purposes, as well as sea-related tragedies, including an attack on a girl by a swordfish in 1961. The exhibition, jointly organised by NUS Museums and NL, highlights the troubled relationship Singapore has with its seas and its continued undercurrents in our lives.
+	
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\geo-geographic\Charles_Lim_with_Janice_Loo.jpg">	
+Artist Charles Lim working on seabook with NL librarian, Janice Loo.
+
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\geo-geographic\Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">	
+Close-up Of Michael Lee's Notes Towards a Museum of Cooking Pot Bay(2010-11), from his artwork, Bibliotopia.
+
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\geo-geographic\polystyrene_block.jpg">	
+A polystyrene block is given a textured surface in Jeremy Sharma's Outliers (2014-2015).
+
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\geo-geographic\Charles_Lim_with_Janice_Loo.jpg">	
+Stills from Sherman Ong's work, the seas will sing and the wind will carry us (Fables Of Nusantara).
+	
+#### **MIND THE GAP: MAPPING THE OTHER** 
+Making up the art component of "Geol Graphic" is "Mind the Gap", which presents the works of three Singapore contemporary artists, who harness data collection and mapping to investigate what lies beneath the surface of contemporary life.
+	
+#### **Bibliotopia by Michael Lee**
+
+Michael Lee's research interest focuses on urban memory and fiction, emphasising their contexts and issues of loss. He translates his findings into diagrams and texts, in particular, the mind map. Lee finds the mind map powerful in generating ideas and organising vast amounts of data. In <i>Bibliotopia</i>, Lee uses the device of the mind map to uncover the "secret bookscape" of Singapore's book culture. Focusing on the genres of short fiction, horror and the teen novel through the literary output of Catherine Lim, Russell Lee and Adrian Tan, he seeks to draw out secrets that are hidden within, or exposed by, narratives on identity, adolescence and the ghostly in Singapore.
+	
+
+#### **Outliers by Jeremy Sharma**
+In the installation work <i>Outliers</i>, by multidisciplinary artist Jeremy Sharma, are four white polystyrene blocks with undulating surfaces that capture in material form the signals of dying stars. When dying stars explode, their remnants (also known as pulsars) emit electromagnetic pulses that can be detected by a radio telescope on earth. These pulses are emitted until the star finally burns out, which could take anything between 10 and 100 million years. 
+	
+With the help of a pulsar scientist, Sharma has been collecting and categorising radiographic data of selected pulsars according to size, distance from earth and age at the time of discovery. This two- dimensional data was then converted into 3-D landscapes of valleys and peaks created by 3-D printing technology. 
+
+<i>Outliers</i> contemplates the profound space-time distance the signals of dying stars travel in order to communicate their death throes.
+	
+
+#### **the seas will sing and the wind will carry us [Fables of Nusantara] by Sherman Ong**
+Sherman Ong is a filmmaker, photographer and visual artist whose practice centres on the relationship between place and the human condition. In this video installation, he uses the documentary/ethnographic film genre to tell stories of migration, transborder identities, myths and memory in island Southeast Asia. The histories and contemporary stories of the region are explored through the stories of nine individuals featured in a series of video vignettes. The stories include an Acehnese living in Malaysia recounting the loss of his family in the Asian tsunami of 2004; a Peranakan (Straits Chinese) woman describing her life of servitude while waiting for the "right" man to come along; and a Chinese woman arriving in Singapore in search of a better life.
+	
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
 	
 	
 <a href="#"><center>Back to Issue</center></a>
