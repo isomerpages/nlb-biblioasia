@@ -131,6 +131,11 @@ significant today.
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
+#### **RELATED ARTICLES**
+* [A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/malayan-fruits)
+* [Chinese Graphic Artists in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists)
+
+
 #### **NOTES**
 [^1]: [Page 17 Advertisements Column 5: Open competition for design of murals in the passenger terminal building, Paya Lebar Airport](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621001-1.2.130.5). (1962, October 1). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
