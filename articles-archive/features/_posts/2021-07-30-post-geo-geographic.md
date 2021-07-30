@@ -115,5 +115,8 @@ Sherman Ong is a filmmaker, photographer and visual artist whose practice centre
 <br/>
 <img src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
 	
-	
+#### **NOTES**
+Domingue, R. (2013). The mapmaker’s war: Keeper of tales trilogy, Book 1 (p. 1). New York: Atria Book. Retrieved from overdrive books.
+
+[^1]: *Domingue*, R. (2013).*[The mapmaker’s war: Keeper of tales trilogy, Book 1](https://nlb.overdrive.com/media/3151C9AC-BD3F-429C-9CEA-F62E8D4BA82F)* (p. 286). Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL)
 <a href="#"><center>Back to Issue</center></a>
