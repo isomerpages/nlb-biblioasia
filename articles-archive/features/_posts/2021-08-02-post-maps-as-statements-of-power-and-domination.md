@@ -6,7 +6,10 @@ layout: post
 ---
 #### Drawing from his personal collection of maps amassed over three decades, **Dr Farish A. Noor** invites us to truly read maps and look beyond their geographical boundaries.
 
-Close-up of a Central Javanese batik embellished with a cosmological map motif. Courtesy Of Farish A. Noor.
+ <div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\statementsofpoweranddomination\batik.jpg">
+Close-up of a Central Javanese batik embellished with a cosmological map motif. <i>Courtesy Of Farish A. Noor</i>.
 
 I write this as an academic who also happens to be a collector Of antiquarian books, prints and maps of Southeast Asia. a hobby I have indulged in since my Late teens, and which has left me in a state of perpetual poverty as a result. Those who belong to this small fraternity Of aficionados will readily testify to the joy of collecting and the boundless pleasure of reading and appreciating books and maps that date back centuries. I am proud to say that although my passion has left me penniless, the state of destitution, thankfully, applies only to my wallet and not my sensibilities.
 
@@ -48,8 +51,7 @@ By the late 18th century, much of the Indian subcontinent and Southeast Asia had
 Through these maps we can see the story of Empire and colonialism unfolding - as the trading nations of Western Europe developed their military and transport capabilities, they were increasingly able to travel further and to project their power abroad. Zatta e Figli's map of Asia shows an Asia of the 18th century where Western power and knowledge were spreading in tandem from West to East, and also tells us something about how some of the Asian kingdoms then (notably China and Japan) had attempted to resist the combined might of Western economic and epistemic power. South and Southeast Asia had been "unveiled" thanks to the technological advantage enjoyed by the militarised trading companies of England, Holland, France and Spain. which conducted their business dealings in the form of armed companies that could also conquer territories in the name of their respective nations.
 
 Maps can, therefore, be read as documents that record the rise and fall of powers, and how the process of knowing Asia was linked to the relative decline of Asian nations and their inability to resist such attempts at charting and mapping their territories. As Indian and Southeast Asian kingdoms declined in both economic and military power, so too were their territories opened up to European cartographers who began to venture further inland, producing maps that were more accurate and reliable, but which also told the story of Western conquest of the East.
-
- 
+	
 #### **MAPS AS COLONIAL HISTORY: CARTOGRAPHY IN THE SERVICE OF EMPIRE**
 
 In 1817, <i>The History of Java</i> by Thomas Stamford Raffles was published, One year after the brief British occupation of Java came to an end. Later, in 1820, John Crawfurd's <i>A History Of the Indian Archipelago</i> was published. While both works feature maps that were produced by the same cartographer. J. Walker. the two maps tell us two very different stories of the men who wrote the books and their perceived roles during the British occupation Of the Dutch colony Of the East Indies.
@@ -76,14 +78,8 @@ For map collectors with an academic disposition, antiquarian map collecting is m
 The maps of Asia I have discussed in this essay tell us something about how the idea Of "Asia" came about, and how Asia was later divided into neat compartmentalised blocs comprising "Central Asia", "South Asia", "Southeast Asia" and "East Asia". From the fluid and globalised world of Münster in the 16th century to the compartmentalised one Of the 20th century, maps tell us how the world was literally and figuratively made up, invented, categorised and compartmentalised. But for us to fully appreciate these developments as they have been recorded in maps, we need to go beyond simply <i>looking</i> at them, and begin to see what is <i>written</i> in them.
 
 
-<b>Dr Farish A. Noor</b> is an Associate Professor 
-at the S. Rajaratnam School Of International 
-Studies (RSIS), Nanyang Technological 
-University (NTU), Singapore. He has been 
-collecting books, maps and prints Of Asia 
-since his student days in Europe and has been 
-researching the subject of state-formation and 
-religio-political movements across Asia. 
+<b>Dr Farish A. Noor</b> is an Associate Professor at the S. Rajaratnam School Of International Studies (RSIS), Nanyang Technological University (NTU), Singapore. He has been collecting books, maps and prints Of Asia since his student days in Europe and has been researching the subject of state-formation and religio-political movements across Asia.
+
 
 Portrait of French cartographer and geographer, Nicholas de Fer. <i>Wikimedia Commons</i>.
 
