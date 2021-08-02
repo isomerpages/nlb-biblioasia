@@ -113,6 +113,9 @@ L'Asie dressée sur les observations de M.rs de ('Académie Royale de Sciences &
 
 This wall map shows the trade route from Siam to Batavia and then to Europe through the Sunda Straits. By the mid-17th century, the Dutch East India Company had established a trading post in Siam. This map has illustrations of ships, animals and an elaborate title cartouche that features the various natives of Asia. Maps in the 18th century, besides being a source of geographical information, were also becoming important as collectors' items. Hence, the use of decorative features was more prominent during this time.
 
+**Makeswary Periasamy** is a Senior Librarian with the National Library of Singapore. She selects and acquires rare materials for the National Library and also overseas the map collections of the library. Makeswary has several years of experience in cataloguing, heritage collections management, reference and research, as well as in managing large-scale preservation projects.
+
+
 #### **REFERENCES**
 
 Bagrow, l. (1964). [History of cartography.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375) London: Watts. (Call no.: R 912.09 BAG)
