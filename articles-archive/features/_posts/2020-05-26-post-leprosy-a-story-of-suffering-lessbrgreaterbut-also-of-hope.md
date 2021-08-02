@@ -5,7 +5,6 @@ breadcrumb: "Leprosy: A Story of Suffering"
 permalink: /vol-16/issue-1/apr-jun-2020/leprosy
 third_nav_title: "Leprosy: A Story of Suffering, but Also of Hope"
 ---
-
 <style>
 table { 
 	background-color: #e0dde8;
@@ -131,9 +130,7 @@ Because *Mycobacterium leprae* attacks the nerves and muscles, many patients suf
 
 |*Joyce Fung Yong Siang began working in Trafalgar Home in 1973. She was a senior social worker there from 1976 to 1981*.|
 
-|<img src="/images/Vol-16-issue-1/leprosy/hands.jpg">|
-
-|If left untreated, leprosy is a debilitating and disfiguring disease that causes intense pain to sufferers as the disease progresses. It affects the nerves, skin, eyes and respiratory tract. The nerve damage can result in the crippling of hands and feet, with fingers and toes sometimes requiring amputation. *Photo from iStock*.|
+|<img src="/images/Vol-16-issue-1/leprosy/hands.jpg">If left untreated, leprosy is a debilitating and disfiguring disease that causes intense pain to sufferers as the disease progresses. It affects the nerves, skin, eyes and respiratory tract. The nerve damage can result in the crippling of hands and feet, with fingers and toes sometimes requiring amputation. *Photo from iStock*.|
 
 #### **Lorong Buangkok School**
 Of the 1,358 cases of leprosy registered in Singapore between 1962 and 1967, 150 were under 15 years of age.[^16] The children admitted to Trafalgar Home lived in dormitories and studied at Lorong Buangkok School, which had been set up in 1947 to cater to children with leprosy.[^17]
