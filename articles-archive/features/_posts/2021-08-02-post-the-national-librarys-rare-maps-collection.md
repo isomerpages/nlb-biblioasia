@@ -97,4 +97,12 @@ Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au 
 
 Jacques Nicolas Beltin (1703-72) was a French royal hydrographer who created maps for several key publications in the 18th century, such as Prévost's <i>L'Histoire Générale des Voyages</i> (1747-61) and <i>Petit Atlas Maritime(1764)</i>. His son (1745-85), who went by the same name, was an engraver based in Paris.<sup>20</sup> 
 
-The Singapore Straits that connected the Indian Ocean to the South China Sea was an important trade route. What was collectively referred to as the Singapore Straits was actually four maritime arter
+The Singapore Straits that connected the Indian Ocean to the South China Sea was an important trade route. What was collectively referred to as the Singapore Straits was actually four maritime arteries (namely the Old Strait, New Strait, Governor's Strait and the Johor Strait) that were often called by various names and mistaken for one another. 
+
+One of the maps in the collection that perpetuates this confusion is Bellin's map, which depicts the Johor Strait as the Old Strait of Singapore (Vieux Detroit de Sincapour). The Johor Strait (Selat Tubrau in Portuguese or Selat Tebrau in Malay) refers to the narrow channel between the Malay Peninsula and Singapore. It was Often marked as the "Old Strait of Singapore" in late 17th and 18th century maps. Strangely, Bellin's map shows two islands in the Johor Strait — Salat Buro and Joor. Johor Strait was also known as Salatburo or Salat Tubro. 
+
+Bellin's map recommends the sea passage through the Singapore Strait for vessels that could sail through the Old Strait and return via the New Strait. However, Bellin's map erroneously identifies the Old Strait as "Nouveau Detroit de Sincapour" (New Strait of Singapore) and the New Strait as "Detroit du Gouverneu" (Governor's Strait). 
+
+Bellin's map depicts Singapore island in an unrecognisable shape and calls it "Pulo ou Isle Panjang", one of the early names used for the island. The map also features coastal profiles at its centre.
+
+Part of the title cartouche depicting Asian peoples taken from the Covens & Mortier's 1730 map pictured on the opposite page.
