@@ -109,6 +109,16 @@ A Map of Java was produced by the British cartographer J. Walker in 1817, and ap
 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
+#### **REFERENCES**
+
+Anderson, B. (1983). [Imagined communities: Reflections on the origins and spread of nationalism.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657) London: Verso Press. (Call no.: R 320.54 AND)
+
+Chaudhuri, K.N. (1990). [Asia before Europe: Economy and civilisation in the Indian ocean from the rise of Islam to 1750.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657) Cambridge University Press. (Call no.: RCLOS 320.54 AND)
+
+Crawfurd, J. (1820). [History of the Indian archipelago: Containing an account of the manners, arts, languages, religions, institutions and commerce of its inhabitants.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202671761) Edinburgh: A. Constable and Co. (Call no.: RRARE 915.9 CRA; Accession nos.: B29033806I [Vol. I]; & B29033809A [Vol. II])
+
+Raffles, T.S. (1817). [History of the Indian archipelago: Containing an account of the manners, arts, languages, religions, institutions and commerce of its inhabitants.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201909379) London: Black, Parbury and Allen. (Call no.: RCLOS 959.82 RAF)
+
 #### **NOTES**
 [^1 ]:Anderson, B. (1983). *[Imagined communities: Reflections on the origins and spread of nationalism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657)*.  (pp. 163–164). London: Verso Press. (Call no.: R 320.54 AND)
 
@@ -123,13 +133,3 @@ A Map of Java was produced by the British cartographer J. Walker in 1817, and ap
 [^6]: Nicholas de Fer was a French cartographer whose influence extended beyond France: Apart from producing maps for the King of France, he also produced maps and books on geography and navigation for the court of Spain.
 
 [^7]: Antonio Zatta was a Venetian cartographer whose production was enormous by any standards. He produced very detailed maps of Europe, Africa and Asia, and his masterpiece was his four-volume atlas of the world.
-
-#### **REFERENCES**
-
-Anderson, B. (1983). [Imagined communities: Reflections on the origins and spread of nationalism.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657) London: Verso Press. (Call no.: R 320.54 AND)
-
-Chaudhuri, K.N. (1990). [Asia before Europe: Economy and civilisation in the Indian ocean from the rise of Islam to 1750.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657) Cambridge University Press. (Call no.: RCLOS 320.54 AND)
-
-Crawfurd, J. (1820). [History of the Indian archipelago: Containing an account of the manners, arts, languages, religions, institutions and commerce of its inhabitants.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202671761) Edinburgh: A. Constable and Co. (Call no.: RRARE 915.9 CRA; Accession nos.: B29033806I [Vol. I]; & B29033809A [Vol. II])
-
-Raffles, T.S. (1817). [History of the Indian archipelago: Containing an account of the manners, arts, languages, religions, institutions and commerce of its inhabitants.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201909379) London: Black, Parbury and Allen. (Call no.: RCLOS 959.82 RAF)
