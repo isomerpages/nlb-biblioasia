@@ -55,7 +55,7 @@ First produced in 1570, Ortelius' atlas was reprinted in various European langua
 
 <i>Nova tabula insularum lavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula lava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> | G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).
 
-Theodore de Bry (1528-98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.<sup>7</sup> 
+**Theodore de Bry** (1528-98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.<sup>7</sup> 
 
 He is famous for compiling a well- illustrated collection of voyages and travels to the East and West Indies. which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.<sup>8</sup>
 
@@ -69,7 +69,7 @@ Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal t
 
 A portrait of Theodore de Bry. <i>Wikimedia Commons</i>
 
-Sebastian Münster (1489—1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century.
+**Sebastian Münster** (1489—1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century.
 
 Münster was widely known for Cosmographia, first published in 1544, which features several woodcut maps illustruted with vignettes and creatures.<sup>12</sup> He was also the first to introduce a separate map for each of the four continents - Europe, Africa, Asia and America - known then.<sup>13</sup> 
 
@@ -85,7 +85,7 @@ A large chart decribeing <i>ye Streights of Malacca and Sincapore</i>, Samuel Th
 
 Portrait of Samuel Thornton by Karl Anton Hickel.<i>Collection of Bank of England</i>.
 
-Samuel Thornton (fl. 1703-39) was an English hydrographer.<sup>17</sup> His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as Oriental Navigation, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.<sup>18</sup>
+**Samuel Thornton** (fl. 1703-39) was an English hydrographer.<sup>17</sup> His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as Oriental Navigation, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.<sup>18</sup>
 
 Samuel Thornton took over his brother's business in 1706 and re-issued the charts under his own name. The above chart is from Samuel Thornton's re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island Of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea pas- sage rather than to the island or city. 
 
@@ -95,7 +95,7 @@ Thornton's chart, oriented with north to the right, is one of the first English 
 
 Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine, Jacques Nicolas Bellin (Paris, 1755).
 
-Jacques Nicolas Beltin (1703-72) was a French royal hydrographer who created maps for several key publications in the 18th century, such as Prévost's <i>L'Histoire Générale des Voyages</i> (1747-61) and <i>Petit Atlas Maritime(1764)</i>. His son (1745-85), who went by the same name, was an engraver based in Paris.<sup>20</sup> 
+**Jacques Nicolas Beltin** (1703-72) was a French royal hydrographer who created maps for several key publications in the 18th century, such as Prévost's <i>L'Histoire Générale des Voyages</i> (1747-61) and <i>Petit Atlas Maritime(1764)</i>. His son (1745-85), who went by the same name, was an engraver based in Paris.<sup>20</sup> 
 
 The Singapore Straits that connected the Indian Ocean to the South China Sea was an important trade route. What was collectively referred to as the Singapore Straits was actually four maritime arteries (namely the Old Strait, New Strait, Governor's Strait and the Johor Strait) that were often called by various names and mistaken for one another. 
 
@@ -106,3 +106,85 @@ Bellin's map recommends the sea passage through the Singapore Strait for vessels
 Bellin's map depicts Singapore island in an unrecognisable shape and calls it "Pulo ou Isle Panjang", one of the early names used for the island. The map also features coastal profiles at its centre.
 
 Part of the title cartouche depicting Asian peoples taken from the Covens & Mortier's 1730 map pictured on the opposite page.
+
+L'Asie dressée sur les observations de M.rs de ('Académie Royale de Sciences & de Sanson, Nolin, Du Fer, De L'Isle & principalement sur la carte que monsieur N: Witsen Bourgemaistre & c. &c.a donneé au public & sur les memoires les plus recens et mis au jour, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).
+
+**Covens & Mortier** was a successful map printing and publishing firm in Amsterdam, based on the successful business started by Cornelis Mortier's father, Pierre Mortier. in Paris in the late 17th century. The firm re-issued the maps of several European map-makers until its closure in 1866.<sup>23</sup>
+
+This wall map shows the trade route from Siam to Batavia and then to Europe through the Sunda Straits. By the mid-17th century, the Dutch East India Company had established a trading post in Siam. This map has illustrations of ships, animals and an elaborate title cartouche that features the various natives of Asia. Maps in the 18th century, besides being a source of geographical information, were also becoming important as collectors' items. Hence, the use of decorative features was more prominent during this time.
+
+#### **REFERENCES**
+
+Bagrow, l. (1964). [History of cartography.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375) London: Watts. (Call no.: R 912.09 BAG)
+
+Borschberg, P. (2010).  [The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century. ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095) Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
+
+Burnet, I. (2011).  [Spice islands. ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13978957) Kenthurst, N.S.W.: Rosenberg Publishing. (Call no.: RSEA 380.141383 BUR)
+
+Fell, R.T. (1991). [Early maps of South-East Asia. Singapore: Oxford University Press.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5966956) (Call no.: RSING 912.59 FEL)
+
+National Library of Australia. (2013).[ Mapping our world: Terra Incognita to Australia.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200573681) Canberra: National Library of Australia. (Call no.: R 912.94074 MAP)
+
+Parry, D.E. (2005). [The cartography of the east indian Islands = Insulae Indiae Orientalis.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569) London: Country Editions. (Call no.: RSING q912.59 PAR)
+
+Shirley, R.W. (1984). The mapping of the world: Early printed world maps, 1472–1700. London: Holland Press. (Not available in NLB holdings)
+
+Speake, J. (Ed.). (2003). [Literature of travel and exploration: An encyclopedia. ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10934077)New York: Fitzroy Dearborn. (Call no.: R q910.403 LIT)
+
+Stefoff, R. (1995). [The British Library companion to maps and mapmaking. London: British Library.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384) (Call no.: R 912.03 STE)
+
+Suarez, T. (1999). [Early mapping of Southeast Asia. Hong Kong: Periplus Editions.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316) (Call no.: RSING q912.59 SUA)
+
+Tooley, R.V. (1979). Tooley’s dictionary of mapmakers. Hertfordshire: Map Collector Publications. (Not available in NLB holdings)
+
+#### **NOTES**
+
+
+[^1]:  Bagrow, l. (1964). *[History of cartography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375)* (p. 125). London: Watts. (Call no.: R 912.09 BAG)
+
+
+[^2]: Shirley, R.W. (1984). The mapping of the world: Early printed world maps, 1472–1700 (pp. xxvii–xxviii). London: Holland Press. (Not available in NLB holdings)
+
+[^3]:Suarez, T. (1999). *[Early mapping of Southeast Asia] (https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*(p. 130). Hong Kong: Periplus Editions. (Call no.: RSING q912.59 SUA)
+
+[^4]: Stefoff, R. (1995). *[The British Library companion to maps and mapmaking ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384)*(p. 115). London: British Library. (Call no.: R 912.03 STE)
+
+[^5]: Shirley, 1984, p. xxviii.
+
+[^6]:National Library of Australia. (2013). *[Mapping our world: Terra Incognita to Australia ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200573681)*(p. 90). Canberra: National Library of Australia. (Call no.: R 912.94074 MAP)
+
+[^7]:Speake, J. (Ed.). (2003). *[Literature of travel and exploration: An encyclopedia ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10934077)*(pp. 134–136). New York: Fitzroy Dearborn. (Call no.: R q910.403 LIT)
+
+[^8]:Parry, D.E. (2005). *[The cartography of the east indian Islands = Insulae Indiae Orientalis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569)* (pp. 87–90). London: Country Editions. (Call no.: RSING q912.59 PAR); *[Speake](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10934077)*, 2003, p. 135.
+
+[^9]: *[Suarez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*, 1999, pp. 180–181.
+
+[^10]: *[Parry](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569)*, 2005, p. 90.
+
+[^11]: *[Stefoff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384)*, 1995, pp. 134–136.
+
+[^12]: *[Stefoff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384)*, 1995, p. 136.
+
+[^13]: Shirley, 1984, pp. 86–87.
+
+[^14]:  *[Suarez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*, 1999, pp. 127–129.
+
+[^15]: Fell, R.T. (1991).*[ Early maps of South-East Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5966956)* (p. 28). Singapore: Oxford University Press. (Call no.: RSING 912.59 FEL)
+
+[^16]:  Burnet, I. (2011). *[Spice islands](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13978957)* (p. 46). Kenthurst, N.S.W.: Rosenberg Publishing. (Call no.: RSEA 380.141383 BUR)
+
+[^17]: Tooley, R.V. (1979). Tooley’s dictionary of mapmakers (p. 619). Hertfordshire: Map Collector Publications. (Not available in NLB holdings)
+
+[^18]: *[Suarez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*, 1999, p. 209.
+
+[^19]: Borschberg, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)* (p. 49). Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
+
+[^20]: Tooley, 1979, p. 49.
+
+[^21]:  Shirley, 1984, pp. xxxviii–xxxix.
+
+[^22]:  *[Bagrow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375)*, 1964, p. 132.
+
+[^23]: Tooley, 1979, p. 135.
+
+[^24]:  Shirley, 1984, p. xxix.
