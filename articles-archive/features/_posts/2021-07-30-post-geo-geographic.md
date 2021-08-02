@@ -114,6 +114,7 @@ Sherman Ong is a filmmaker, photographer and visual artist whose practice centre
 <br/>
 <img src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
 	
+<a href="#"><center>Back to Issue</center></a>
 #### **NOTES**
 
 [^1]: *Domingue*, R. (2013).*[The mapmaker’s war: Keeper of tales trilogy, Book 1](https://nlb.overdrive.com/media/3151C9AC-BD3F-429C-9CEA-F62E8D4BA82F)* (p. 286). Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL)
@@ -134,4 +135,15 @@ Sherman Ong is a filmmaker, photographer and visual artist whose practice centre
 	
 [^9]:*Borschberg*, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)*. Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
 
-<a href="#"><center>Back to Issue</center></a>
+#### **REFERENCE**
+	
+Borschberg, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)* (pp. 60–112). Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
+	
+Domingue, R. (2013). *[The mapmaker’s war: Keeper of tales trilogy, Book 1](https://nlb.overdrive.com/media/3151C9AC-BD3F-429C-9CEA-F62E8D4BA82F)*. New York: Atria Book. Retrieved from overdrive books.
+	
+Harely, J.B., & Woodward, D. (Eds.). (1987). Preface. In *[The History of cartography: Cartography in the traditional east and southeast Asian societies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)* (Vol 1, p. xvi). Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
+	
+Smith, C. (1994). Prehistoric cartography in Asia. In J.B. Harley & D. Woodward (Eds.), *[The History of cartography: Cartography in the traditional east and southeast Asian societies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)* (Vol. 2). Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
+	
+Yee, C. (1994). Chinese maps in political culture. In J.B. Harley & D. Woodward (Eds.), *[The History of cartography: Cartography in the traditional east and southeast Asian societies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)* (Vol. 2). Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
+
