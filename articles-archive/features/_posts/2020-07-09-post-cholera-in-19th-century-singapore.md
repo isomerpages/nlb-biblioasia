@@ -4,6 +4,7 @@ permalink: /vol-16/issue-2/jul-sep-2020/cholera
 date: 2020-07-01T00:00:00.000Z
 breadcrumb: Cholera in 19th-century Singapore
 third_nav_title: Cholera in 19th-century Singapore
+image: /images/Vol-16-issue-2/cholera/boatquay.jpg
 ---
 
 <style>
