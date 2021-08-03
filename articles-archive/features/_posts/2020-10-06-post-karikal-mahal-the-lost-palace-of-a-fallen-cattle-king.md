@@ -3,6 +3,7 @@ title: "Karikal Mahal: The Lost Palace of a Fallen Cattle King"
 permalink: /vol-16/issue-3/oct-dec-2020/karikal
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Karikal Mahal
+image: /images/Vol-16-issue-3/karikal/karikalmahal-building.jpg
 third_nav_title: "Karikal Mahal: The Lost Palace of a Fallen Cattle King"
 ---
 
