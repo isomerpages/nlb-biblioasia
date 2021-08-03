@@ -3,6 +3,7 @@ title: Life in a Time of COVID-19
 permalink: /vol-16/issue-3/oct-dec-2020/covid19
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: COVID-19
+image: /images/Vol-16-issue-3/covid19/covid19-opening.jpg
 third_nav_title: Life in a Time of COVID-19
 ---
 
