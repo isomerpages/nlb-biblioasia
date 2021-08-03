@@ -1,7 +1,7 @@
 ---
 title: The Sticky Problem of Opium Revenue
 permalink: /vol-16/issue-3/oct-dec-2020/opium-revenue
-image:/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg
+image: /images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Opium Revenue
 third_nav_title: The Sticky Problem of Opium Revenue
