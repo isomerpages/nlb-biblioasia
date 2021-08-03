@@ -4,6 +4,7 @@ permalink: /vol-16/issue-2/jul-sep-2020/causeway
 date: 2020-07-01T00:00:00.000Z
 breadcrumb: Building The Causeway
 third_nav_title: "From Sea to Road: Building the Causeway"
+image: /images/Vol-16-issue-2/causeway/Causeway.jpg
 ---
 
 <style>
