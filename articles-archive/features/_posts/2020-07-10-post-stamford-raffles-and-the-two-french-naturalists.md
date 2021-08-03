@@ -4,6 +4,7 @@ permalink: /vol-16/issue-2/jul-sep-2020/raffles
 date: 2020-07-01T00:00:00.000Z
 breadcrumb: Stamford Raffles
 third_nav_title: Stamford Raffles and the Two French Naturalists
+image: /images/Vol-16-issue-2/raffles/stork.jpg
 ---
 
 <style>
