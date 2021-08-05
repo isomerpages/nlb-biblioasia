@@ -4,6 +4,7 @@ permalink: /vol-16/issue-2/jul-sep-2020/plague
 date: 2020-07-01T00:00:00.000Z
 breadcrumb: The Plague Fighter
 third_nav_title: "The Plague Fighter: Dr Wu Lien-Teh and His Work"
+image: /images/Vol-16-issue-2/plague/DrWuLienTeh.jpg
 ---
 
 <style>

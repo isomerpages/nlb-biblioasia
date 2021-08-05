@@ -3,6 +3,7 @@ title: "A Different Sky: The Other Side of the Looking Glass"
 permalink: /vol-16/issue-3/oct-dec-2020/diff-sky
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: A Different Sky
+image: /images/Vol-16-issue-3/diff-sky/adiffsky-cover.jpg
 third_nav_title: "A Different Sky: The Other Side of the Looking Glass"
 ---
 

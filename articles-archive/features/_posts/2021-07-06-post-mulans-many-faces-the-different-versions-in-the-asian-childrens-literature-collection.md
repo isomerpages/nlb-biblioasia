@@ -165,6 +165,10 @@ Differences in treatment notwithstanding, the fundamental story of Mulan taking 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
+#### **RELATED ARTICLES**
+* [Tales of the Malay World](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue2_MalayWorld.pdf )
+
+
 #### **NOTES**
 [^1]: 李想 [Li, X.]. (2000).《[花木兰](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9999054)》[*Hua Mulan*] (p. 18). Singapore: Newton Publications. (Call no.: Chinese RAC 398.20951 LX-[FOL])
 

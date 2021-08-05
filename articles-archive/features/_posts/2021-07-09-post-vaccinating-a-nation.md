@@ -146,6 +146,11 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
+#### **RELATED ARTICLES**
+* [Cholera in 19th-century Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/cholera)
+* [The Plague Fighter: Dr Wu Lien-Teh and His Work](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/plague)
+
+
 #### **NOTES**
 [^1]: World Health Assembly, 33. (1980). *[Declaration of global eradication of smallpox](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791126-1.2.123.20)*. Retrieved from World Health Organization IRIS website.
 

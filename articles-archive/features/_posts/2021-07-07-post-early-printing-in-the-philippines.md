@@ -134,6 +134,10 @@ In 1901, the Bureau of Printing (today’s National Printing Office) was created
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
+#### **RELATED ARTICLE**
+* [Early Printing in Myanmar and Thailand](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/earlyprinting)
+
+
 #### **NOTES**
 [^1]: Kornicki, P.F. (2018). *Languages, scripts, and Chinese texts in East Asia* (p. 117). Oxford: Oxford University Press. (Not available in NLB holdings)
 

@@ -2,6 +2,7 @@
 title: "跨境影响、情系侨乡: 新加坡金门会馆特藏"
 permalink: /vol-16/issue-3/oct-dec-2020/kim-mui
 date: 2020-10-01T00:00:00.000Z
+image: /images/Vol-16-issue-3/kim-mui/kim-openingcover.jpg
 breadcrumb: '新加坡金门会馆特藏'
 third_nav_title: "跨境影响、情系侨乡: 新加坡金门会馆特藏"
 ---
