@@ -1,4 +1,5 @@
 collections:
   isssue:
     output: true
-    order: []
+    order:
+      - directors-note.md
