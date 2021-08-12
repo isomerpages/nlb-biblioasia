@@ -154,3 +154,27 @@ Tee, H.C. (1999, May 7). [Cookbook author can’t cook at first.](https://eresou
 Teo, T.W. (1978, June 27). [Asia-Pacific lays out a special $20m winner.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19780627-1.2.19.3) <i>The Business Times</i>, p. 5. Retrieved from NewspaperSG.
 
 Wong, S-F. (1988, July 24). [Guides to better eating.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880724-1.2.89.41) <i> The Straits Times</i>, p. 8. Retrieved from NewspaperSG
+
+##**NOTE**
+
+[^1]: These include Bruce, A. (1971). *[Good food guide to Singapore.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081985)*[Singapore]: Published for Asia Pacific Press by D. Moore, (Call no.: RCLOS 642.56 BRU); Oon, V. (1986). *[Singapore: 101 meals.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5211155)*[Singapore]: Singapore Tourist Promotion Board. (Call no.: RSING 647.955957 SIN); *[Where to eat and drink and entertain.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4252865)* Singapore: Pacific Trade Press. (Call no.: RCLOS 647.955957 WEDE); *[Good food in Singapore.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5380295)*(1988). Singapore: Far East Trade Press. (Call no.: RSING 642.50255957 GFS)
+
+
+2 De, S.J. (1981, June 12). Browsers’ des’ delight. The Straits Times, p. 10. Retrieved from NewspaperSG.
+3 Chua, R. (1986, August 23). Surprising Singapore. The Straits Times, p. 1. Retrieved from NewspaperSG.
+4 Crossette, B. (1987, January 11). Travel advisory: Find the unusual in Singapore. The New York Times. Retrieved from The New York Times website.
+5 The Straits Times, 23 Aug 1986, p. 1.
+6 The Straits Times, 23 Aug 1986, p. 1.
+7 Tee, H.C. (1999, May 7). Cookbook author can’t cook at first. The Straits Times, p. 2. Retrieved from NewspaperSG.
+8 The Straits Times, 23 Aug 1986, p. 1.
+9 The Bouygues Offshore Company based in Paris specialised in the construction of marine structures. Teo, T.W. (1978, June 27). Asia-Pacific lays out a special $20m winner. The Business Times, p. 5. Retrieved from NewspaperSG.
+10 Linkedln. (2014). Michel Ropion. Retrieved from Linkedln website.
+11 Chuang, P.M. (1987, December 28). MPH chief to start new chapter in his life. The Business Times, p. 2. Retrieved from NewspaperSG.
+12 Ropion, M., Hunt, E., & Mowe, R. (1986). The secret map of Singapore [cartographic material]. Singapore: s.n. (Call no.: RSING 912.5957 SEC)
+13 Ong, S.C. (1987, May 28). Care for spicy snails and midnight murtabak? The Straits Times, p. 2. Retrieved from NewspaperSG.
+14 Ropion, Hunt, & Mowe, 1986.
+15 Oon, V. (1980, April 6). Bon appetit! The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+16 The Straits Times, 28 May 1987, p. 2.
+17 Blaisdell, A. (1990). The secret map of Singapore. Retrieved from Google site.
+18 Blaisdell, 1990.
