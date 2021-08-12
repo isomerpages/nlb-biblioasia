@@ -18,6 +18,7 @@ The first printed maps of Southeast Asia, however, were produced by Italian and 
 
 Italy and Germany played important roles in map production at the start of the Renaissance period, particularly Italy, whose coastal cities served as the midpoint between the trade routes of Europe and Asia<sup>1</sup>. However, map-making in Italy languished at the start of the 1500s (unlike in central Europe), until it was revived by the leading Italian geographer Giacoma Gastaldi in the mid-1500s. Map-making subsequently declined again in the 1800s<sup>2</sup>.
 
+
 (Top) Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>. 
 
 (Left) <i>Terza Tavola</i>, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563).
