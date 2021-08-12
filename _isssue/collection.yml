@@ -1,0 +1,4 @@
+collections:
+  isssue:
+    output: true
+    order: []
