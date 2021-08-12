@@ -125,3 +125,29 @@ For the historian, the maps pinpoint the locations of traditional but now barely
 **Bonny Tan** is a Senior Reference Librarian at the National Library of Singapore. Her interest in the obscure things about Singapore led her to re-examine two little known maps and found herself surprised by their contents.
 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+Blaisdell, A. (1990). The secret map of Singapore. Retrieved from Google site.
+
+Chua, R. (1986, August 23). [Surprising Singapore.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860823-1.2.62.2) <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+
+Chuang, P.M. (1987, December 28).  [MPH chief to start new chapter in his life.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19871228-1.2.11.1) <i>The Business Times</i>, p. 2. Retrieved from NewspaperSG.
+
+Crossette, B. (1987, January 11). Travel advisory: Find the unusual in Singapore. <i>The New York Times</i>. Retrieved from The New York Times website.
+
+De, S.J. (1981, June 12).  [Browsers’ des’ delight.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810612-1.2.122.19.1) <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+
+Dining map of Singapore. (1988, March 13). <i>The New York Times</i>. Retrieved from <i>The New York Times</i> website.
+
+Ong, S.C. (1987, May 28).  [Care for spicy snails and midnight murtabak?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870528-1.2.61.6.1) <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+Oon, V. (1980, April 6). [Bon appetit!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800406-1.2.99.6.1) <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
+
+Linkedln. (2014). <i>Michel Ropion</i>. Retrieved from Linkedln website. 
+
+Ropion, M., Hunt, E., & Mowe, R. (1986). [The secret map of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4384594)  [cartographic material].Singapore: s.n. (Call no.: RSING 912.5957 SEC)
+
+Ropion, M. (1987). The secret food map of Singapore. Singapore: Ropion Hunt Mowe. Retrieved from PublicationSG.
+Tee, H.C. (1999, May 7). Cookbook author can’t cook at first. The Straits Times, p. 2. Retrieved from NewspaperSG.
+Teo, T.W. (1978, June 27). Asia-Pacific lays out a special $20m winner. The Business Times, p. 5. Retrieved from NewspaperSG.
+Wong, S-F. (1988, July 24). Guides to better eating. The Straits Times, p. 8. Retrieved from NewspaperSG
