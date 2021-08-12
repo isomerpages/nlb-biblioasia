@@ -10,7 +10,7 @@ In August 2014, I found myself in Singapore, the country where I came of age as 
 
 Yet, many things had changed. Unfamiliar apartments and buildings had sprung up everywhere, and new shopping malls and changes inside once familiar buildings generated some anxiety. And there was a definite buzz to the city, with a lot more people than I remembered. I tried to recall and imprint in my memory scenes I was familiar with. But much as I was disturbed about losing my own memory of Singapore, I was equally concerned about the loss of one of Singapore's literary treasures. 
 
-I had come back to Singapore to trace the footsteps of Francis P. Ng, a forgotten Singapore poet who disappeared at the outset Of the Japanese invasion in 1942. Before arriving in Singapore. I had discovered that Francis P. Ng was a pseudonym for Teo Poh Leng, a local Chinese and the author of <i>F.M.S.R.<i> (1937), <sup>1</sup> a poem that describes a train journey from Singapore to Kuala Lumpur on the Federated Malay States Railways (FMSR). <i>F.M.S.R.</i> has been claimed to be the first published book-length English poem by a Singapore author. 
+I had come back to Singapore to trace the footsteps of Francis P. Ng, a forgotten Singapore poet who disappeared at the outset Of the Japanese invasion in 1942. Before arriving in Singapore. I had discovered that Francis P. Ng was a pseudonym for Teo Poh Leng, a local Chinese and the author of <i>F.M.S.R.</i> (1937),<sup>1</sup> a poem that describes a train journey from Singapore to Kuala Lumpur on the Federated Malay States Railways (FMSR). <i>F.M.S.R.</i> has been claimed to be the first published book-length English poem by a Singapore author. 
 
 (Right) An “S” Class Express engine of the Federated Malay States Railways (FMSR), which was a rail operator that serviced British Malaya in the first half of the 20th century. The poem <i>F.M.S.R.</i> (published in 1937) describes a train journey from Singapore to Kuala Lumpur. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i>
 
@@ -132,4 +132,3 @@ PICTURE
 (Top) Serangoon Road, circa 1911. At the time Serangoon Road was serviced by a single tram line running from Mackenzie Road depot to Paya Lebar. Teo very likely lived at 700 Serangoon Road in the early 1930s, today an empty plot of land just in front of the Kwong Wai Shiu Hospital. <i>Arkshak C Galstaun Collection,courtesy of National Archives of Singapore. </i> 
 
 (Above) St Joseph’s Institution, circa 1912. Teo studied here and passed his School Certificate Examination in 1929. <i>Arkshak C Collection. courtesy of National Archives of Singapore. </i>
-
