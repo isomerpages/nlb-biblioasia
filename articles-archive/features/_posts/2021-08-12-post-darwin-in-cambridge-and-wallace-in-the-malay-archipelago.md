@@ -146,6 +146,7 @@ On his return to Britain in 1862, Wallace was no longer an obscure collector. He
 #### **REFERENCES**
 
 van Wyhe, J. (2013). *[Dispelling the darkness: Voyage in the Malay Archipelago and the discovery of evolution by Wallace and Darwin. Singapore; New Jersey: World Scientific.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)* (Call no.: R 576.82092 VAN)
+
 van Wyhe, J. (2014). *[Charles Darwin in cambridge: The most joyful years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200921579)*. Singapore; New Jersey: World Scientific. (Call no.: R 576.82092 VAN)
 
 #### **NOTES**
@@ -154,7 +155,7 @@ van Wyhe, J. (2014). *[Charles Darwin in cambridge: The most joyful years](https
 
 [^2 ]: See van Wyhe, J. (2014). *[Charles Darwin in cambridge: The most joyful years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200921579)*. Singapore; New Jersey: World Scientific. (Call no.: R 576.82092 VAN)
 
-[^3 ]: Barlow, N. (Ed.). (1958). The autobiography of Charles Darwin 1809–1882. With the original omissions restored. London: Collins. (Not available in NLB holdings)
+[^3 ]: Barlow, N. (Ed.). (1958). <i>The autobiography of Charles Darwin 1809–1882. With the original omissions restored.</i> London: Collins. (Not available in NLB holdings)
 
 [^4 ]: Barlow, 1958.
 
@@ -162,15 +163,14 @@ van Wyhe, J. (2014). *[Charles Darwin in cambridge: The most joyful years](https
 
 [^6 ]: Barlow, 1958.
 
-[^7 ]: For many years it was said that Darwin was not really the naturalist, but more of a social companion to the ship’s captain. This has recently been refuted, see van Whye, J. (2013, September). My appointment received the sanction of the Admiralty”: Why Charles Darwin really was the naturalist on HMS Beagle’. Studies in History and Philosophy of Biological and Biomedical Sciences, 44 (3), 316–326. Retrieved from DOI.Org website.
+[^7 ]: For many years it was said that Darwin was not really the naturalist, but more of a social companion to the ship’s captain. This has recently been refuted, see van Whye, J. (2013, September). My appointment received the sanction of the Admiralty”: Why Charles Darwin really was the naturalist on HMS Beagle’. <i>Studies in History and Philosophy of Biological and Biomedical Sciences</i>, 44 (3), 316–326. Retrieved from DOI.Org website.
 
-[^8 ]: See van Whye, J. (2014, Winter). A delicate adjustment: Wallace and Bates on the Amazon and “the problem of the origin of species”. Journal of the History of Biology, 47 (4). 627–659. Retrieved from JSTOR via NLB’s eResources website.
+[^8 ]: See van Whye, J. (2014, Winter). A delicate adjustment: Wallace and Bates on the Amazon and “the problem of the origin of species”. <i>Journal of the History of Biology</i>, 47 (4). 627–659. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
 
-[^9 ]: van Whye, J., & Rookmaaker, L.K. (Eds.). (2013). Alfred Russel Wallace: Letters from the Malay Archipelago. Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL); van Wyhe, J. (Ed.). (2015). The annotated Malay Archipelago by Alfred Russel Wallace. Singapore: NUS Press. (Call no.: RSING 959.8 ANN)
+[^9 ]: van Whye, J., & Rookmaaker, L.K. (Eds.). (2013). *[Alfred Russel Wallace: Letters from the Malay Archipelago](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200158642)*. Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL); van Wyhe, J. (Ed.). (2015). *[The annotated Malay Archipelago by Alfred Russel Wallace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200350257)*. Singapore: NUS Press. (Call no.: RSING 959.8 ANN)
 
-[^10 ]: See Rookmaaker, K., & van Wyhe, J. (2012, December). In Wallace’s shadow: The forgotten assistant of Alfred Russel Wallace, Charles Allen. Journal of the Malayan Branch of the Royal Asiatic Society, 85 (2), 17–54. Retrieved from JSTOR via NLB’s eResources website.
+[^10 ]: See Rookmaaker, K., & van Wyhe, J. (2012, December). In Wallace’s shadow: The forgotten assistant of Alfred Russel Wallace, Charles Allen. Journal of the Malayan Branch of the Royal Asiatic Society, 85 (2), 17–54. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^11 ]: For many years it was believed that Wallace was actually on the nearby island of Gilolo, but that mistake has now been laid to rest. See van Wyhe, 2013, pp. 202–204.
+[^11 ]: For many years it was believed that Wallace was actually on the nearby island of Gilolo, but that mistake has now been laid to rest. See *[van Wyhe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)*, 2013, pp. 202–204.
 
-[^12 ]: See van Wyhe, 2013, pp. 225–226, 358 note 692; van Wyhe, J., & Rookmaaker, K. (2012, January). A new theory to explain the receipt of Wallace’s Ternate Essay by Darwin in 1858. Biological Journal of the Linnean Society 105 (1), 249–252. Retrieved from DOI.Org website.
-
+[^12 ]: See *[van Wyhe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)*, 2013, pp. 225–226, 358 note 692; van Wyhe, J., & Rookmaaker, K. (2012, January). A new theory to explain the receipt of Wallace’s Ternate Essay by Darwin in 1858. <i>Biological Journal of the Linnean Society</i> 105 (1), 249–252. Retrieved from DOI.Org website.
