@@ -146,6 +146,8 @@ The National Archives of Singapore (NAS) is the official custodian of all record
 
 **Kevin Khoo** is an archivist at the National Archives of Singapore. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science.
 
+<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+
 ##**REFERENCE**
 
 Hall-Jones, J., & Hooi, C. (1979). *[An early surveyor in Singapore: John Turnbull Thomson in Singapore 1841–1853](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082509)*. Singapore: National Museum. (Call no.: RSING 526.90924 THO)
@@ -175,4 +177,3 @@ Robinson, M., Muehrcke, K., & Guptil, S.C. (Eds.). (1995). *[Elements of cartogr
 [^8]: *[Mok](https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx)*, 2015.
 
 [^9]: *[Mok](https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx)*, 2015.
-
