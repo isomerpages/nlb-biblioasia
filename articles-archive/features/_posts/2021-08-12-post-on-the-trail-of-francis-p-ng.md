@@ -12,14 +12,19 @@ Yet, many things had changed. Unfamiliar apartments and buildings had sprung up 
 
 I had come back to Singapore to trace the footsteps of Francis P. Ng, a forgotten Singapore poet who disappeared at the outset Of the Japanese invasion in 1942. Before arriving in Singapore. I had discovered that Francis P. Ng was a pseudonym for Teo Poh Leng, a local Chinese and the author of <i>F.M.S.R.</i> (1937),<sup>1</sup> a poem that describes a train journey from Singapore to Kuala Lumpur on the Federated Malay States Railways (FMSR). <i>F.M.S.R.</i> has been claimed to be the first published book-length English poem by a Singapore author. 
 
+
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\FMSR_train.jpg">
+	</div>
 (Right) An “S” Class Express engine of the Federated Malay States Railways (FMSR), which was a rail operator that serviced British Malaya in the first half of the 20th century. The poem <i>F.M.S.R.</i> (published in 1937) describes a train journey from Singapore to Kuala Lumpur. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i>
 
 
-##**T.S. ELIOT AND THE SINGAPORE CONNECTION** 
+#### **T.S. ELIOT AND THE SINGAPORE CONNECTION** 
 
 <i>F.M.S.R. </i> first came to my attention when I was preparing for a conference presentation on the poet T.S. Eliot (1888-1965), who was born In the United States and emigrated to Britain in 1914 at age 25. Eliot is well known for his modernist masterpiece <i>The Waste Land</i> (1922). Beginning With the unconventional phrase. “April is the cruellest month”, the poem caused a sensation in the world of Western poetry by introducing new styles of writing and perception. After teaching Eliot in an undergraduate American Studies course in Germany for many years, I wanted to make a scholarly contribution to the study of this poet by exploring the extent of his literary influence in Asia. 
 
-I started by researching Eliot's impact on Japanese literature but quickly learned that many scholars had previously worked on this topic. My mind then turned to Singapore, where I had grown up as a teenager. I stumbled upon a Wikipedia entry on Singapore literature, and quite serendipitously, under the section on poetry. I learnt about <i>F.M.S.R. being "a pastiche of T.S. Eliot"! <sup>2</sup> According to Rajeev S. Patke’s and Philip Holden's <i>The Routledge Concise History of Southeast Asian Writing in English</i> (2009) available on Google Books, the poem was influenced by <i>The Waste Land</i>.<sup>3</sup> 
+I started by researching Eliot's impact on Japanese literature but quickly learned that many scholars had previously worked on this topic. My mind then turned to Singapore, where I had grown up as a teenager. I stumbled upon a Wikipedia entry on Singapore literature, and quite serendipitously, under the section on poetry. I learnt about <i>F.M.S.R. being "a pastiche of T.S. Eliot"!</i><sup>2</sup> According to Rajeev S. Patke’s and Philip Holden's <i>The Routledge Concise History of Southeast Asian Writing in English</i> (2009) available on Google Books, the poem was influenced by <i>The Waste Land</i>.<sup>3</sup> 
 
 
 My curiosity was piqued and I became interested in reading and analysing <i>F.M.S.R. </i> partly because no substantial scholarly studies on it existed and I enjoy the challenge of writing about neglected literary treasures. As of today, Holden's three-sentence description of <i>F.M.S.R. </i> as "one of the first of many efforts to tropicalize T.S. Eliot"<sup>4</sup> in <i>Writing Singapore</i> (2009) amounts to the longest scholarly comment on the poem. However, I soon found that F.M.S.R. is a very difficult book to obtain - aside from the National Library of Singapore, only four other libraries abroad hold the book. <sup>5</sup> No rare book dealer lists the text in its holdings. 
@@ -30,14 +35,14 @@ Perhaps even more striking was that <i>F.M.S.R.</i> does not simply emulate Elio
 
 As <i>F.M.S.R.</i> is an "orphan work" - meaning the copyright holder who is able to grant permission for reproduction is unknown - it hindered the usual routine of presenting a paper and developing it into a publishable scholarly article. Unfortunately, the copyright information and details of the author were destroyed when the office of his London publisher, Arthur H Stockwell, was bombed during World War II. <sup>6</sup> As I could not locate any information about the author, I was unable to track down his family who would have inherited the copyright. Current laws on intellectual property rights state that copyright expires 70 years after the death of the author but, without the necessary biographical information on Teo, there was no way to ascertain when exactly he died, if indeed he is dead. 
 
-Then came my Eureka moment. As I started reading the peripheral information added to the poem. I noticed a footnote to Section VII of <i>F.M.S.R.</i>, which stated that the section was published as an independent poem titled "The Song of the Night Express" in the 1937 spring issue of <i>Life and Letters To-day<i>, a British literary magazine. <sup>7</sup>Curious to know if Section VII and "The Song" were identical. I decided to seek out "The Song". 
+Then came my Eureka moment. As I started reading the peripheral information added to the poem. I noticed a footnote to Section VII of <i>F.M.S.R.</i>, which stated that the section was published as an independent poem titled "The Song of the Night Express" in the 1937 spring issue of <i>Life and Letters To-day</i>, a British literary magazine. <sup>7</sup>Curious to know if Section VII and "The Song" were identical. I decided to seek out "The Song". 
 
 
 The data bore out. In <i>Life and Letters To-day</i> was Section VII of <i>F.M.S.R.</i>, re-titled as “The Song of the Night Express”, which starts with “For he chánts of the whéels/ Of the whéels revolving, revolving". But also stumbled upon an unexpected surprise. The poem was attributed not to “Francis P. Ng” but to “Teo Poh Leng”. <sup>8</sup>There was also a short biographical note about Teo, introducing him as having been born in 1912, serving as a primary school master in Singapore and having written poems that won the approval of British poet Silvia Townsend Warner and Cornish poet Ronald Bottrall. <sup>9</sup> 
 
 Suddenly in the face of precious information I had been unable to gather for half a year, a shiver of excitement pulsed through me. Who exactly was Teo Poh Leng? Why did he publish under a different name? Why did he publish his poem in the United Kingdom? With these questions swirling in my head, I spent countless hours at my desk, trawling the Internet for more details as well as reaching out to various Singaporeans with many inquiries. 
 
-##**PIECING TOGETHER A PUZZLE: TEO'S BIOGRAPHY** 
+#### **PIECING TOGETHER A PUZZLE: TEO'S BIOGRAPHY** 
 
 Trawling through NewspaperSG, the digital newspaper database of the National Library Board (NLB), Singapore, to locate articles that contain the name Teo Poh Leng. I was able to ascertain that Francis P. Ng was a pseudonym that Teo adopted for <i>F.M.S.R.</i>. No wonder I could not find anything under Francis p. Ng! While I was still in Germany, I contacted librarian Tim Yap Fuan at the National University of Singapore (NUS), who was able to locate and make available to me pertinent materials from the NUS Central Library. 
 
@@ -55,15 +60,25 @@ During his final year at Raffles College, as the editor of <i>Raffles College Un
 
 It is highly likely that, upon graduation from Raffles College in 1934, Teo became a school teacher. No record of his school employment has been found but the <i>Blue Book</i> notes that he was a civil servant from 1934 to 1939. <sup>21</sup><i>Chorus</i>, the journal of the Singapore Teachers' Association, affirms that, in 1938, Teo served on the subcommittee of the magazine together with Percival Frank Aroozoo (1900-1969), the former headmaster of Gan Eng Seng School and father of Mrs Hedwig Anuar (1938-), the first Singaporean director of the National Library of Singapore. <sup>22</sup>Although publication of the <i>Blue Book</i> ceased in 1940 and hence provides no record of Teo's status after 1939, it would be fair to speculate that he was a teacher at least until 1941. In the 1941 issue of <i>Chorus</i> I chanced upon Teo’s poem "The Spider". <sup>23</sup> 
 
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\erangoonRoad.jpg">
+	</div>
+(Top) Serangoon Road, circa 1911. At the time Serangoon Road was serviced by a single tram line running from Mackenzie Road depot to Paya Lebar. Teo very likely lived at 700 Serangoon Road in the early 1930s, today an empty plot of land just in front of the Kwong Wai Shiu Hospital. <i>Arkshak C Galstaun Collection,courtesy of National Archives of Singapore. </i> 
 
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\StJosephInstitution.jpg">
+	</div>
+(Above) St Joseph’s Institution, circa 1912. Teo studied here and passed his School Certificate Examination in 1929. <i>Arkshak C Collection. courtesy of National Archives of Singapore. </i>
 
-##**TEO’S VISION FOR MALAYAN MODERNISM** 
+#### **TEO’S VISION FOR MALAYAN MODERNISM** 
 
 Teo’s passion for poetry may have started during his years at SJI. At that time poetry was a popular genre taught at Anglophone schools from the primary level. <sup>24</sup>Moreover, school magazines gave pupils an opportunity to write and publish their literary works. The old issues of <i>St Joseph Magazine</i>, for instance, contain literary works, although to a much lesser degree than <i>The Rafflesian</i>, the school magazine of Raffles Institution. 
 
 The earliest record of Teo’s poetry, however, dates from his first year at Rattles College. On 14 September 1931 from the address 700 Serangoon Road (presumably his home and currently a vacant plot of land in front of Kwong Wai Shiu Hospital), Teo mailed four poems to the American poet Harriet Monroe for publication in <i>Poetry: The Magazine of Verse</i>, although they went unpublished. <sup>25</sup> That was around one year before Teo started writing <i>F.M.S.R.</i> 
 
-Aside from <i>F.M.S.R.</i>, its section titled “The Song of the Night Express” and the 1941 poem "The Spider", Teo also wrote “Time is past” (1936). <sup>26</sup> This poem appeared in <i>The London Mercury</i>, a major British literary magazine in the first half of the 20th century that published poems by Robert Frost and W.B. Yeats and was absorbed by <i>Life and Letters To-day<i> in 1939. 
+Aside from <i>F.M.S.R.</i>, its section titled “The Song of the Night Express” and the 1941 poem "The Spider", Teo also wrote “Time is past” (1936). <sup>26</sup> This poem appeared in <i>The London Mercury</i>, a major British literary magazine in the first half of the 20th century that published poems by Robert Frost and W.B. Yeats and was absorbed by <i>Life and Letters To-day</i> in 1939. 
 
 All these poems commonly engage with the theme of life's journey. <i>F.M.S.R.</i> epitomised by "The Song of the Night Express", is about a train ride and simultaneously the spiritual salvation of the self, with the travelling narrator aiming "to meet flesh of my flesh ‘neath the station dome” <sup>27</sup> once he reaches his destination. "Time is Past" is about the journey from birth to death. Starting with “Time was when life began,/ When Space was infinite", <sup>28</sup> the poem narrates one's childhood, adulthood and afterlife in the light of Albert Einstein's theory of relativity <sup>29</sup> "The Spider" approaches life as a repetitive circle, narrating a spider's weaving of a web as an incessant repetition of creation and destruction. 
 
@@ -73,35 +88,54 @@ Literary articles that Teo contributed to <i>Raffles College Union Magazine</i> 
 
 Teo’s devotion to this modernist literary enterprise from the British colonial outpost in the tropics entailed a desire for the creation of Malayan art and culture. Lamenting Malaya for being "uncivilised in a cultural sense despite all her externals of civilised life"<sup>39</sup> and believing in the ability of artists to “commenc[e] the original outlines” instead of merely "furnishing civilization”, <sup>40</sup> Teo wrote poems with a strong vision for the advancement of what he would have called the Malayan civilisation at large. And significantly, central to this Vision was an amalgamation of the East and West. While emulating Western modernist poets, Teo crafted into his poems the so-called Eastern view of life, seeing life's journey as cyclic rather than linear, surmounting the notion of time, and picturing the encounter of various world and indigenous religions in the setting of the Lion City. 
 
-PICTURE
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\railway_station.jpg">
+	</div>
 Tanjong Pagar Railway Station on Keppel Road in 1932. This is where trains from Malaysia arrived and departed from Singapore. <i>Paul Yap Collection, courtesy of National Archives of Singapore. </i>
 
-##**Who exactly was Teo Poh Leng? 
+#### **Who exactly was Teo Poh Leng? 
 
 Why did he publish under a different name?** 
 
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\_OXY6878.jpg">
+	</div>
 1. A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i>. has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace & Co. All rights reserved, 1997. </i> 
 
-2. <i>Raffles College Magazine</i>, the publication of Raffles College, of which Teo Poh Leng was the editor in 1933. Teo also contributed articles to this magazine. <i>Raffles College Union Magazine (1993, Trinity Term). (Vol. 4, No. 8), p. 1 Courtesy of NUS Central Library. 
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\Raffles_College_Magazine.jpg">
+	</div>
+2. <i>Raffles College Magazine</i>, the publication of Raffles College, of which Teo Poh Leng was the editor in 1933. Teo also contributed articles to this magazine. <i>Raffles College Union Magazine (1993, Trinity Term). (Vol. 4, No. 8), p. 1 Courtesy of NUS Central Library. </i>
 
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\letter_to_submit.jpg">
+	</div>
 3. On 14 September 1931, in a letter addressed from 700 Serangoon Road (presumably his residence), Teo Poh Leng posted four poems to American poet Harriet Monroc for publication in <i>Poety: The Magazine of Verse. </i>Unfortunately, his submissions were not accepted. <i>Courtesy of the Special Collections Research Center, University of Chicago Library. </i>
 
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\Life_and_Letters.jpg">
+	</div>
 4. Section VII of <i>F.M.S.R.</i> retitled as "The Song of the Night Express" by Teo Poh Leng, was published in the 1937 spring issue of <i>Life and Letters To-day</i>, a British literary magazine. <i>Life and To-day</i>. (Vol. 16, No. 7)
 
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\rafflesCollege.jpg">
+	</div>
 5. Oei Tiong Ham Hall at Rattles College, Bukit Timah Road, in 1938. Teo Poh Leng was a student at Raffles College from 1931 1934, where he trained to be a teacher. <i>Courtesy of National Archives of Singapore. </i>
 
-6. A faded graduation photograph of the Raffles College batch of students 
-
-in 1934. One of the students in this photo is Teo Poh Leng, but he remains 
-
-unidentified as the author of this article has not been able track down 
-
-anyone who can recognise him. Paul Abisheganaden is the eighth from the 
-
-right in the middle row. <i>Raffles College Union Magazine (1934 July). (Vol. 4, No. 10), insert between pp. 42 and 42. Courtesy of NUS Central Library. </i> 
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\TeoRCPhoto1934.jpg">
+	</div>
+6. A faded graduation photograph of the Raffles College batch of students in 1934. One of the students in this photo is Teo Poh Leng, but he remains unidentified as the author of this article has not been able track down anyone who can recognise him. Paul Abisheganaden is the eighth from the right in the middle row. <i>Raffles College Union Magazine (1934 July). (Vol. 4, No. 10), insert between pp. 42 and 42. Courtesy of NUS Central Library. </i> 
 
 
-##**DISAPPEARANCE DURING THE JAPANESE OCCUPATION** 
+#### **DISAPPEARANCE DURING THE JAPANESE OCCUPATION** 
 
 The publication of "The Spider" in 1941 is the last evidence of Teo’s life that have been able to locate. His name does not appear in any later records and all leads from this point on have proved fruitless. <i>The Register of Graduates</i> (1963) reports Tea's whereabouts as "missing". <sup>41</sup> The fact that Wee Kwee Hai, a schoolmate of his whose whereabouts is likewise listed as missing but who was later found to be killed during the Japanese Occupation, suggests that Teo may have met a similar fate - or possibly escaped Singapore. After all, as a member of the Straits Chinese British Association (now known as the Peranakan Association Singapore) and a pro-British school teacher having received an English education, he would have been a likely target of invading Japanese forces. <sup>42</sup>  
 
@@ -114,21 +148,20 @@ Old documents of the Straits Chinese British Association might have contained hi
 
 I met or contacted siblings, children and grandchildren of people who knew Teo, hoping that someone would be able to shed light on the writer in his later years. I was especially hoping to hear something positive from the family Of Paul Abisheganaden: Teo was well versed in Western classical music and Abisheganaden in literature, even becoming the secretary of the Literary Department of Raffles College at one point. <sup>47</sup> Moreover, Teo’s Christian name was also Paul, suggesting that the two Pauls could have shared a common bond. <sup>48</sup> Regrettably, Abisheganaden passed away in 2011 and his family has neither heard of Teo nor retained any of Abisheganaden's private records that might have shed light on the elusive Teo. <sup>49</sup>
 
-##**The reprinting of <i>F.M.S.R.</i> will fill the gap in Singapore's literary past, and in particular, that of English - language literature.** 
+#### **The reprinting of <i>F.M.S.R.</i> will fill the gap in Singapore's literary past, and in particular, that of English - language literature.** 
 
-ORPHAN BOOK PROJECT 
+**ORPHAN BOOK PROJECT** 
 
 The death certificate and family records of Teo Poh Leng remain unknown. However, a month after my return to Germany from Singapore, I received a pleasant surprise from the United Kingdom Copyright Enquiries Service — namely, that the UK was to soon launch the Orphan Works Licensing Scheme. As of October Z014, it has become legal to republish an orphan book such as <i>F.M.S.R.</i> without permission from copyright holders on condition that a thorough search for its copyright owner has been conducted. <sup>50</sup> 
 
 With this news, my laborious and slightly futile one-year search suddenly took on a glimmer of hope. I am now trying to complete my research and work towards republishing this neglected literary treasure. The reprinting of <i>F.M.S.R.</i> will fill the gap in Singapore's literary past, and in particular, that of English-language literature - the genre which seems to have lagged behind Chinese- and Malay-language works that have a more prolific history. Along with Lim Boon Keng’s <i>Tragedies of Eastern Life</i> (1927), <i>F.M.S.R.</i> will take its rightful place among pre-World War II 20th-century English literature from Singapore that Philip Holden, Rajeev S. Patke and John Clammer have analysed. <i>F.M.S.R.</i> will also serve as a bridge between post-World War II poetry pioneered by Edwin Thumboo (1933-) and the abundance of poems that poet Alvin Pang (1972-) is currently excavating from 19th-century Singapore school magazines. <sup>51</sup> 
 
-REMARK
+<div style="background-color: white;">
+<br/>
+<img src="\images\vol-10-issue-4\francispng\TeoinRegister.jpg">
+	</div>
 Teo Poh Leng listed as missing in <i>The Register of Graduates (1968)</i> belonging to the University of Malaya’s King Edward VII College of Medicine and Raffles College.
 
 **Dr Eriko Ogihara-Schuck**, originally from Japan, is a lecturer in American Studies at the Technische Universität Dortmund, Germany. She is the author of <i>Miyazaki s Animism Abroad: The Reception of Japanese Religious Themes by American and German Audiences</i> (2014). Motivated by her research on Francis P. Ng, she is launching a larger project on Singapore-US relations in the area of literature and popular culture. 
 
 
-PICTURE
-(Top) Serangoon Road, circa 1911. At the time Serangoon Road was serviced by a single tram line running from Mackenzie Road depot to Paya Lebar. Teo very likely lived at 700 Serangoon Road in the early 1930s, today an empty plot of land just in front of the Kwong Wai Shiu Hospital. <i>Arkshak C Galstaun Collection,courtesy of National Archives of Singapore. </i> 
-
-(Above) St Joseph’s Institution, circa 1912. Teo studied here and passed his School Certificate Examination in 1929. <i>Arkshak C Collection. courtesy of National Archives of Singapore. </i>
