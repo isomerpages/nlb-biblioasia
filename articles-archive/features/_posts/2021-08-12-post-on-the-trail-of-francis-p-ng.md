@@ -230,67 +230,67 @@ Teo, P.L. (1936, January). Time is past. <i>The London Mercury</i>, 33 (95), 275
 
 [^17 ]: Union notes: Magazine Committee. (1933). *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 3 (7), 62.
 
-[^18 ]: Bottrall arrived in Singapore on December 8, 1933 and resigned the Johore Professor of Raffles College on October 2, 1937. See College notes. (1934, February). Raffles College Magazine, 4 (9), 48; College chronicle. (1938). Raffles College Magazine, 8 (1), 63.
+[^18 ]: Bottrall arrived in Singapore on December 8, 1933 and resigned the Johore Professor of Raffles College on October 2, 1937. See College notes. (1934, February). *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 4 (9), 48; College chronicle. (1938). *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 8 (1), 63.
 
-[^19 ]: English language and literature. (1935). Raffles College Singapore: Calendar 1935–1936 (pp. 12–14). Singapore: Malaya Publishing House. (Not available in NLB holdings)
+[^19 ]: English language and literature. (1935). <i>Raffles College Singapore: Calendar 1935–1936</i> (pp. 12–14). Singapore: Malaya Publishing House. (Not available in NLB holdings)
 
 [^20 ]: Patke, R.S. (2009, December). Canons and questions of value in literature in english from the Malayan Peninsula. Asiatic, 3 (2), 44.
 
 [^21 ]: See Fuan, 28 Oct 2013.	 
 
-[^22 ]: The Singapore Teachers’ Association: Office-bearers for the year 1938. (1938, September). Chorus: The Journal of the Singapore Teachers’ Association, 4, 90.
+[^22 ]: The Singapore Teachers’ Association: Office-bearers for the year 1938. (1938, September). *[Chorus: The Journal of the Singapore Teachers’ Association,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)* 4, 90.
 
-[^23 ]: Teo, P.L. (1941, November). The spider. Chorus: The Journal of the Singapore Teacher’s Association, 7, 90.
+[^23 ]: Teo, P.L. (1941, November). The spider. *[Chorus: The Journal of the Singapore Teacher’s Association,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)* 7, 90.
 
-[^24 ]: Chua, J.C.H. (Interviewer). (1993, March 9). Oral history interview with Paul Abisheganaden. [Transcript of recording no. 001415/48/02, p. 22]. Retrieved from National Archives of Singapore website.
+[^24 ]: Chua, J.C.H. (Interviewer). (1993, March 9). *[Oral history interview with Paul Abisheganaden.](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/1a8c8a1f-115e-11e3-83d5-0050568939ad-OHC001415_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* Transcript of recording no. 001415/48/02, p. 22. Retrieved from National Archives of Singapore website.
 
-[^25 ]: Teo, P.L. (1931, September 14). Letter to Harriet Monroe, Poetry. Guide to the poetry: A magazine of verse records 1895–1961. Administrative files, series 1, box 25, folder 11. The special collections research center, University of Chicago.
+[^25 ]: Teo, P.L. (1931, September 14). Letter to Harriet Monroe, Poetry. <i>Guide to the poetry: A magazine of verse records 1895–1961.</i> Administrative files, series 1, box 25, folder 11. The special collections research center, University of Chicago.
 
-[^26 ]: Teo, P.L. (1936, January). Time is past. The London Mercury, 33 (195), 275.
+[^26 ]: Teo, P.L. (1936, January). <i>Time is past.</i> The London Mercury, 33 (195), 275.
 
-[^27 ]: Ng, 1937, p. 18.
+[^27 ]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 18.
 
-[^28 ]: The London Mercury, Jan 1936, p. 275.
+[^28 ]: <i>The London Mercury</i>, Jan 1936, p. 275.
 
-[^29 ]: Teo. P.L. (1933, Hilary Term). The learning of advancement. Raffles College Magazine, 3 (7), 4.
+[^29 ]: Teo. P.L. (1933, Hilary Term). The learning of advancement. *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 3 (7), 4.
 
-[^30 ]: Ng, 1937, p. 9.
+[^30 ]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 9.
 
-[^31 ]: Ng, 1937, p. 31.
+[^31 ]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 31.
 
-[^32 ]: The London Mercury, Jan 1936, p. 275.
+[^32 ]: <i>The London Mercury</i>, Jan 1936, p. 275.
 
-[^33 ]: Chorus: The Journal of the Singapore Teacher’s Association, Nov 1941, p. 53.
+[^33 ]: *[Chorus: The Journal of the Singapore Teacher’s Association](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)*, Nov 1941, p. 53.
 
-[^34 ]: Raffles College Magazine, Hilary Term, 1933, 3 (7), 4.
+[^34 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 4.
 
-[^35 ]: Raffles College Magazine, Hilary Term, 1933, 3 (7), 5.
+[^35 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 5.
 
-[^36 ]: Teo, P.L. (1936, Trinity Term). Prolegomena to the modern poets. Raffles College Magazine, 6 (1), 14.
+[^36 ]: Teo, P.L. (1936, Trinity Term). Prolegomena to the modern poets. *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 6 (1), 14.
 
-[^37 ]: Raffles College Magazine, Trinity Term, 1936, 6 (1), 15.
+[^37 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Trinity Term, 1936, 6 (1), 15.
 
-[^38 ]: Raffles College Magazine, Trinity Term, 1936, 6 (1), 19.
+[^38 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Trinity Term, 1936, 6 (1), 19.
 
-[^39 ]: Raffles College Magazine, Hilary Term, 1933, 3 (7), 5.
+[^39 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 5.
 
-[^40 ]: Raffles College Magazine, Hilary Term, 1933, 3 (7), 6.
+[^40 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 6.
 
-[^41 ]: University of Malaya. (1963). The register of graduates (p. 49). Singapore: University of Malaya. (Call no.: RCLOS 378.595 UM)
+[^41 ]: University of Malaya. (1963). *[The register of graduates](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413300)* (p. 49). Singapore: University of Malaya. (Call no.: RCLOS 378.595 UM)
 
-[^42 ]: In 1934 Seow Poh Leng was also elected to be a messenger of the Straits Chinese British Association. See Straits Chinese and Education Policy: New officers. (1934, November 9). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^42 ]: In 1934 Seow Poh Leng was also elected to be a messenger of the Straits Chinese British Association. See *[Straits Chinese and Education Policy: New officers.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341109-1.2.66)* (1934, November 9). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-[^43 ]: Lim, S.M. (2014, November 2). Email to the author. In 1924, Teo and Seow Poh Leng were both elected to be messengers of the Straits Chinese British Association. See The Straits Times, 9 Nov 1934, p. 12.
+[^43 ]: Lim, S.M. (2014, November 2). Email to the author. In 1924, Teo and Seow Poh Leng were both elected to be messengers of the Straits Chinese British Association. See *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341109-1.2.66)*, 9 Nov 1934, p. 12.
 
 [^44 ]: 許雲樵、蔡史君編. 新馬華人抗日史料: 1937–1945. 新加坡文史出版 1984.pp. 999–1000.
 
 [^45 ]: Archives of the Chancery of the Roman Catholic Archidiocese of Singapore. (2014, September 16). Email to the Author.
 
-[^46 ]: How S.C.B.A. was revived after the war. (1950). S.C.B.A. Golden Jubilee Souvenir: 1900–1950 (p. 28). Singapore: S.C.B.A. Golden Jubilee Brochure Sub-Committee. (Not available in NLB holdings)
+[^46 ]: How S.C.B.A. was revived after the war. (1950). <i>S.C.B.A. Golden Jubilee Souvenir: 1900–1950</i> (p. 28). Singapore: S.C.B.A. Golden Jubilee Brochure Sub-Committee. (Not available in NLB holdings)
 
-[^47 ]: Literary Department. Report for Hilary Term 1934. (1934, July). Raffles College Union Magazine, 4 (10), 45. As for Teo’s interest in the intersection of poetry and music, see Teo, P.L. (1939, Trinity Term). Poetry and music – I. Raffles College Union Magazine, 9 (1), pp. 4–13; Teo, P.L. (1940–1941). Poetry and music – II. Raffles College Union Magazine, 10, pp. 5–15.
+[^47 ]: Literary Department. Report for Hilary Term 1934. (1934, July). *[Raffles College Union Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325486)*, 4 (10), 45. As for Teo’s interest in the intersection of poetry and music, see Teo, P.L. (1939, Trinity Term). Poetry and music - I. *[Raffles College Union Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325486)*, 9 (1), pp. 4–13; Teo, P.L. (1940–1941). Poetry and music – II. *[Raffles College Union Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325486)*, 10, pp. 5–15.
 
-[^48 ]: Local examination results. (1930, April 9). The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
+[^48 ]: *[Local examination results.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300409-1.2.97)* (1930, April 9). <i>The Singapore Free Press</i>, p. 12. Retrieved from NewspaperSG.
 
 [^49 ]: Abisheganaden, A., & Abisheganaden, J. (2014, August 15). Inteview with the Author; Chia, R. (2014, August 29). Email to the Author.
 
