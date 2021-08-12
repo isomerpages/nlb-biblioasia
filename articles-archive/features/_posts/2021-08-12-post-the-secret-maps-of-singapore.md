@@ -147,7 +147,10 @@ Linkedln. (2014). <i>Michel Ropion</i>. Retrieved from Linkedln website.
 
 Ropion, M., Hunt, E., & Mowe, R. (1986). [The secret map of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4384594)  [cartographic material].Singapore: s.n. (Call no.: RSING 912.5957 SEC)
 
-Ropion, M. (1987). The secret food map of Singapore. Singapore: Ropion Hunt Mowe. Retrieved from PublicationSG.
-Tee, H.C. (1999, May 7). Cookbook author can’t cook at first. The Straits Times, p. 2. Retrieved from NewspaperSG.
-Teo, T.W. (1978, June 27). Asia-Pacific lays out a special $20m winner. The Business Times, p. 5. Retrieved from NewspaperSG.
-Wong, S-F. (1988, July 24). Guides to better eating. The Straits Times, p. 8. Retrieved from NewspaperSG
+Ropion, M. (1987). [The secret food map of Singapore.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200042877)Singapore: Ropion Hunt Mowe. Retrieved from PublicationSG.
+
+Tee, H.C. (1999, May 7). [Cookbook author can’t cook at first.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990507-1.2.106.2.1) <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+Teo, T.W. (1978, June 27). [Asia-Pacific lays out a special $20m winner.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19780627-1.2.19.3) <i>The Business Times</i>, p. 5. Retrieved from NewspaperSG.
+
+Wong, S-F. (1988, July 24). [Guides to better eating.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880724-1.2.89.41) <i> The Straits Times</i>, p. 8. Retrieved from NewspaperSG
