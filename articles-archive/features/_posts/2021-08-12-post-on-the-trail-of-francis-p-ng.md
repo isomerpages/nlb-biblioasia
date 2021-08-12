@@ -162,6 +162,27 @@ With this news, my laborious and slightly futile one-year search suddenly took o
 	</div>
 Teo Poh Leng listed as missing in <i>The Register of Graduates (1968)</i> belonging to the University of Malaya’s King Edward VII College of Medicine and Raffles College.
 
-**Dr Eriko Ogihara-Schuck**, originally from Japan, is a lecturer in American Studies at the Technische Universität Dortmund, Germany. She is the author of <i>Miyazaki s Animism Abroad: The Reception of Japanese Religious Themes by American and German Audiences</i> (2014). Motivated by her research on Francis P. Ng, she is launching a larger project on Singapore-US relations in the area of literature and popular culture. 
+<i>If the name Teo Poh Leng is even remotely familiar to you, please contact the author of this article at eriko.ogiharaf@udo.edu 
 
+The National Library Board, Singapore holds two copies of F.M.S.R. which are kept at the Lee Kong Chian Reference Library on level 11 of the National Library. A microfilm copy shelved at NL 16347 is available for reference. Note: only four other libraries in the world hold copies of this book. 
 
+The writer would like to thank Ruth Chia, Joe Conceicao, Robbie Goh, Philip Holden, Koh Tai Ann, Catherine Lim, Janet Lim, Juliana Lim, Lim Su Min, Ng Ching Huei, Rajeev S. Patke, Valerie Siew, Peggy Tan, Edwin Thumboo, Medona Walter, Wang Gungwu, Richard Angus Whitehead and Ina Zhang Xing Hong - for their inputs in this project, and Harold Johnson for assisting her through the research process. </i>
+
+**Dr Eriko Ogihara-Schuck**, originally from Japan, is a lecturer in American Studies at the Technische Universität Dortmund, Germany. She is the author of <i>Miyazaki s Animism Abroad: The Reception of Japanese Religious Themes by American and German Audiences</i> (2014). Motivated by her research on Francis P. Ng, she is launching a larger project on Singapore-US relations in the area of literature and popular culture.
+
+<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Clammer, J.B. (1980). [Straits Chinese society: Studies in the sociology of the Baba communities of Malaysia and Singapore.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233) Singapore: NUS Press. (Call no.: RSING 301.45195105957 CLA)
+
+Eliot, T. (2003). <i>The waste land and other poems.</i> Longman: Penguin Books. (Not available in NLB holdings)
+
+Ng, F.P. (1937). F.M.S.R.: A poem. London: Author H Stockwell. (Call no.: RRARE 821.9 PNG; Microfilm no.: NL16347)
+Patke, R.S., & Holden, P. (2010). The Routledge concise history of Southeast Asian writing in English. New York: Routledge. (Call no.: RSING 895.9 PAT)
+Poon, A., & Holden, P., & Lim, S. G-L. (2009). (Eds.). Writing Singapore: An historical anthology of Singapore literature. Singapore: NUS Press. (Call no.: RSING S820.8 WRI)
+Teo. P.L. (1933, Hilary Term). The learning of advancement. Raffles College Magazine, 3 (7), 4.
+Teo, P.L. (1936, Trinity Term). Prolegomena to the modern poets. Raffles College Magazine, 6 (1), 14.
+Teo, P.L. (1937, Spring). The song of the night express. Life and Letters To-Day, 16 (7), 44.
+Teo, P.L. (1941, November). The spider. Chorus: The Journal of the Singapore Teacher’s Association, 7, 53.
+Teo, P.L. (1936, January). Time is past. The London Mercury, 33 (95), 275.
