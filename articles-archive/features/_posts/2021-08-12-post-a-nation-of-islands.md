@@ -119,11 +119,11 @@ This project was supported by the Singapore Memory Project's (SMP) irememberSG F
 <div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\nationofisland\Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0010201.jpg">
-	</div>
-	<div style="background-color: white;">
+</div>
+<div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\nationofisland\Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0020354.jpg">
-	</div>
+</div>
 (Left and middle) An aerial photograph of Pulau Satumu, home of the Raffles Lighthouse 
 
 <div style="background-color: white;">
