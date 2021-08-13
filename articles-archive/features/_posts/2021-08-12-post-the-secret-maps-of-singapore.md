@@ -10,7 +10,7 @@ The Secret Map of Singapore (1986) and its companion, <i>The Secret Food Map of 
 
 #### **COLOURFUL CARTOGRAPHERS**
 
-Three firm friends - Rosalind Mowe, Anne Ropion and Elyane Hunt - all saw Singapore with unconventional eyes as they had grown up and lived overseas and were widely travelled. Multilingual and of mixed ancestry, the women met while doing business at Tanglin Shopping Centre: French nationals Anne and Elyane operated Gompa, a shop selling Asian and Middle Eastern antiques, <sup>2</sup> while Rosalind, the only Singaporean in the trio, had an outlet selling Thai silk. 
+Three firm friends - Rosalind Mowe, Anne Ropion and Elyane Hunt - all saw Singapore with unconventional eyes as they had grown up and lived overseas and were widely travelled. Multilingual and of mixed ancestry, the women met while doing business at Tanglin Shopping Centre: French nationals Anne and Elyane operated Gompa, a shop selling Asian and Middle Eastern antiques, [^2] while Rosalind, the only Singaporean in the trio, had an outlet selling Thai silk. 
 
 The women's interest in the unusual and offbeat in Singapore and their love for food were just some of the things that drew them together. <sup>3</sup> But they were no passive observers in a rapidly developing island-city. Their passion for their adopted home and their zeal to show tourists and locals the hidden yet fascinating sights of an unchanged, older Singapore drove them to create these unusual maps. <sup>4</sup>
 
@@ -36,19 +36,19 @@ The bright colours on the map are not merely an element of graphic design. In ef
 Food outlets and good eats were already highlighted in <i>The Secret Map of Singapore</i> and thus the companion map. <i>The Secret Food Map of Singapore</i> naturally expanded on the research done previously. The second map was published around May 1987 and reportedly took 14 months to research and produce. The creators claimed to have visited as many as 10,000 outlets and eaten more than 1.000 meals in the course of researching <i>The Secret Food Map of Singapore</i>, from exotic Vietnamese and Thai eateries (well, exotic for the time) to humble hawker stalls selling comfort food such as goreng pisang (deep fried bananas). <sup>13</sup>A similar colour coding system was adopted in this map with "red for Chinese food, green for Malay or Nonya food. black for other Asian food and blue for Western food". <sup>14</sup>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\Details_SBR.jpg">
 	</div>
 Details of South Bridge Road in Chinatown as seen in <i>The Secret Map of Singapore, The Secret Map of Singapore. All right reserved. Mowe, Ropion, Hunt, 2014. </i>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\Smith_Street.jpg">
 	</div>
 A 1983 photograph of Smith Street, which is part of the Chinatown Conservation Area. <i> From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.
 
 </i><div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\South_Bridge_Road.jpg">
 	</div>
 A 1983 photograph of South Bridge Road, between Mosque and Pagoda streets, with Sri Mariamman Temple and Jamae Mosque on the right. <i> From the Lee Kip Lin Collection. All right reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
@@ -57,26 +57,26 @@ A 1983 photograph of South Bridge Road, between Mosque and Pagoda streets, with 
 
 Prior to this, articles about food and places of interest in the newspapers may have had accompanying maps <sup>15</sup> that oftentime seemed like an afterthought, but there was nothing that showcased local cuisine and traditional crafts in the cartographic manner that these map-guides achieved. Tourist maps of the time usually featured the usual sights and icons, whereas these maps revealed hidden places, including tips on where to sit on benches and "study exceptional style old houses" (answer: "at (the) corner of Lorong 19 and Lorong Bachok” in Geylang) or oddities like where to purchase " Chinese musical instruments, opera costumes and weapons, and Japanese martial art" (answer: on Merchant Road). Even details such as the telephone number of a master <i>gasing</i> (spinning top) maker or where to buy mosquito nets were studiously included in the map. 
 
-</i><div style="background-color: white;">
-<br/>
+<div style="background-color: white;">
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\secretmap.jpg">
 	</div>
 (Top) <i>The Secret Map of Singapore</i> was released on 1986. <i>The Secret Map of Singapore. All right reserved. Mowe, Ropion, Hunt, 2014. </i>. 
 
-</i><div style="background-color: white;">
-<br/>
+<div style="background-color: white;">
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\elderly.jpg">
 	</div>
 (Top right) An elderly lady dictating her letter to a professional letter writer in Kreta Ayer, who set up his makeshift stall along a five-foot way, circa late 1970s. <i>From the Kouo Shang-Wei Collection. All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007.
 
 </i><div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\pre-war_coffee_shop.jpg">
 	</div>
 (Above)Interior of a pre-war coffee shop located on New Bridge Road, taken in 1992. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.
 
 </i><div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\traditional_Chinese_medicine_shop.jpg">
 	</div>
 (Above)The interior of a traditional Chinese medicine shop located on New Bridge Road, taken in 1983. From <i>the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
@@ -92,32 +92,32 @@ For the historian, the maps pinpoint the locations of traditional but now barely
 <i>Only</i> The Secret Map of Singapore <i>is available in the National Library collection.</i> 
 
 
-</i><div style="background-color: white;">
-<br/>
+<div style="background-color: white;">
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\secrete_food_map.jpg">
 	</div>
 (Above) <i>The Secret Food Map of Singapore was produced in 1987. The Secret Food Map of Singapore. All rights reserved, Ropion, Hunt, 2014. </i> 
 
-</i><div style="background-color: white;">
-<br/>
+<div style="background-color: white;">
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\Sultan_Mosque.jpg">
 	</div>
 (Middle) 1980s photograph Of the Sultan Mosque located at 3 Muscat Street, GP Reichelt Collection, courtesy of National Archives of Singapore. 
 
-</i><div style="background-color: white;">
-<br/>
+<div style="background-color: white;">
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\Details_kg.jpg">
 	</div>
 (Middle right) Details of Kampong Glam as seen in <i>The Secret Map of Singapore. The Secret Map of Singapore, 1986. All rights reserved, Mowe, Ropion, Hunt, 2014. </i>
 
-</i><div style="background-color: white;">
-<br/>
+<div style="background-color: white;">
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\rattan_weaved.jpg">
 	</div>
 (Right) Shop selling rattan-weaved goods at Arab Street in the 1980s. <i>GP Reichelt Collection, courtesy of National Archives of Singapore. </i>
 
-</i><div style="background-color: white;">
-<br/>
+<div style="background-color: white;">
+<br>
 <img src="\images\vol-10-issue-4\thesecretmap\murtabak.jpg">
 	</div>
 (Far right) A man making murtatuk in the Kampong Glam area in 1991. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i>
@@ -145,7 +145,7 @@ Oon, V. (1980, April 6). [Bon appetit!](https://eresources.nlb.gov.sg/newspapers
 
 Linkedln. (2014). <i>Michel Ropion</i>. Retrieved from Linkedln website. 
 
-Ropion, M., Hunt, E., & Mowe, R. (1986). [The secret map of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4384594)  [cartographic material].Singapore: s.n. (Call no.: RSING 912.5957 SEC)
+Ropion, M., Hunt, E., &amp; Mowe, R. (1986). [The secret map of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4384594)  [cartographic material].Singapore: s.n. (Call no.: RSING 912.5957 SEC)
 
 Ropion, M. (1987). [The secret food map of Singapore.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200042877)Singapore: Ropion Hunt Mowe. Retrieved from PublicationSG.
 
@@ -162,7 +162,7 @@ Wong, S-F. (1988, July 24). [Guides to better eating.](http://eresources.nlb.gov
 [^2]: De, S.J. (1981, June 12).  *[Browsers’ des’ delight.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810612-1.2.122.19.1)* <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
 [^3]: Chua, R. (1986, August 23).*[Surprising Singapore.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860823-1.2.62.2)* <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
-[^1]: Robinson, M., Muehrcke, K., & Guptil, S.C. (Eds.). (1995). *[Elements of cartography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7213592)* (p. 12). New York: John Wiley & Sons. (Call no.: R 526 ELE)
+[^1]: Robinson, M., Muehrcke, K., &amp; Guptil, S.C. (Eds.). (1995). *[Elements of cartography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7213592)* (p. 12). New York: John Wiley &amp; Sons. (Call no.: R 526 ELE)
 
 [^4]:  Crossette, B. (1987, January 11). Travel advisory:  <i>Find the unusual in Singapore. The New York Times.</i> Retrieved from The New York Times website.
 
@@ -180,11 +180,11 @@ Wong, S-F. (1988, July 24). [Guides to better eating.](http://eresources.nlb.gov
 
 [^11]:Chuang, P.M. (1987, December 28). *[MPH chief to start new chapter in his life.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19871228-1.2.11.1)* <i>The Business Times</i>, p. 2. Retrieved from NewspaperSG.
 
-[^12]:Ropion, M., Hunt, E., & Mowe, R. (1986). *[The secret map of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4384594)* [cartographic material]. Singapore: s.n. (Call no.: RSING 912.5957 SEC)
+[^12]:Ropion, M., Hunt, E., &amp; Mowe, R. (1986). *[The secret map of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4384594)* [cartographic material]. Singapore: s.n. (Call no.: RSING 912.5957 SEC)
 
 [^13]:Ong, S.C. (1987, May 28). *[Care for spicy snails and midnight murtabak?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870528-1.2.61.6.1)* <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
-[^14]: *[Ropion, Hunt, & Mowe,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4384594)* 1986.
+[^14]: *[Ropion, Hunt, &amp; Mowe,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4384594)* 1986.
 
 [^15]: Oon, V. (1980, April 6). *[Bon appetit!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800406-1.2.99.6.1)* <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
