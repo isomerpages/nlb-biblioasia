@@ -44,6 +44,11 @@ The new MusicSG website was officially launched on 26 September 2014. Called “
 	</div>
 Guest performer Corrinne May presented this Custom-designed ukulele to Minister Lawrence Wong at “MusicSG Reloaded” 
 
+<div style="background-color: white;">
+<br>
+<img src="\images\vol-10-issue-4\music\steps.jpg">
+	</div>
+	
 **Joy Loh** is an Associate Librarian with the National Library of Singapore and is responsible for the new-look of MusicSG.
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
