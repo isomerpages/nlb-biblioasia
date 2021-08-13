@@ -204,6 +204,6 @@ Lucchesi, F. (1996, January). Geographic memories in travelogue literature: The 
 
 Nisah Haji Haron. (2012). *[Kembara sastera Nisah Haron: United Kingdom dan Dublin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14359588)*. Kuala Lumpur: ITBM. (Call no.: Malay R 899.2809 NIS)
 
-Raimy Che-Ross. (2003). Syair Peri Tuan Raffles pergi ke Minangkabau A Malay account of Raffle’s second expedition to the Sumatran Highland in 1819: Based partially on prefatory material by the Hon. Dudley Francis Amelius Hervey CMG JP, Resident Councillor Malacca (1882–1893). Journal of the Malaysian Branch of the Royal Asiatic Society, 76 (2) (285), 25–80. Retrieved from JSTOR via NLB’s *[eResources website](https://eresources.nlb.gov.sg/main/)*.
+Raimy Che-Ross. (2003). Syair Peri Tuan Raffles pergi ke Minangkabau A Malay account of Raffle’s second expedition to the Sumatran Highland in 1819: Based partially on prefatory material by the Hon. Dudley Francis Amelius Hervey CMG JP, Resident Councillor Malacca (1882–1893). Journal of the Malaysian Branch of the Royal Asiatic Society, 76 (2) (285), 25–80. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
 
 Sweeney, A. (2005). *[Karya lengkap Abdullah bin Abdul Kadir Munsyi. Jilid 1, Kisah pelayaran Abdullah ke Kelantan: Kisah pelayaran Abdullah ke Mekah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12729835)*. Jakarta: Kepustakaan Populer Gramedia. (Call no.: Malay RSING 959.5 KAR)
