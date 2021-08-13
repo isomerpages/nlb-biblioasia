@@ -65,8 +65,6 @@ layout: post
 10.Seet Seng Huat is the current caretaker of the Da Bo Gong (Tua Pek Gong) Temple of Kusus Island.
 <i>All photos by Edwin Koo.</i>
 
-**Zakaria Zainal** is an associate photographer for Captured, a creative agency based in Singapore that specialises in delivering visual-centric narratives. 
-
 The caretaker Da Bo Gong (Tua Pek Kong) Tample on Kusu Island - just a 20-minute boat ride from Singapore - stands astride the short flight of stairs leading to the temple's inner prayer sanctum, his eyes fixed on the jetty in the near distance. 
 
 It is the start of the ninth month Of the Chinese lunar calendar, and thousands of devotees will travel to the island temple seeking blessings 
@@ -135,6 +133,8 @@ This project was supported by the Singapore Memory Project's (SMP) irememberSG F
 (Above) An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu. 
 
 <i>All images by Captured.</i> 
+
+**Zakaria Zainal** is an associate photographer for Captured, a creative agency based in Singapore that specialises in delivering visual-centric narratives. 
 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
