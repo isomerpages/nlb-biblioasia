@@ -4,31 +4,30 @@ date: 2021-08-12
 permalink: /articles-archive/features/permalinkdarwin
 layout: post
 ---
-
 #### Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things, **Dr John van Wyhe** addresses the misconception that Darwin cheated Wallace of his rightful place in history. 
 
 ##### **DARWIN IN CAMBRIDGE**
 This article is based on the talk <i>“Darwin and Wallace” given by Dr John van Wyhe as part of the National Library's Prominent Speaker Series. Held on 31 July 2014 at the National Library Building, the talk was based on two of Dr van Wyhe’s recent books:</i> Charles Darwin in Cambridge: The Most Joyful Years and Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin. 
 
  <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\darwinandwallace\Charles_Darwin.jpg">
 	</div>
 Photograph of Charles Darwin, 1854
 
 Charles Darwin and Alfred Russel Wallace are best remembered as the co-proposers of the theory of evolution by natural selection. Now, over 150 years later, evolution is the foundation of the life sciences and more. It is no wonder that Darwin and Wallace remain some of the most important figures in the history of science. Yet, despite all that has been written about them over the years, historical research is still turning up surprising new findings about their lives, their science, and how they came to change our understanding of life on earth forever. 
 
-Many believe that Wallace has been overlooked and denied his rightful fame for his work on the theory of evolution and that Darwin had perhaps even stolen some of Wallace's ideas and delayed the publication Of Wallace's paper in favour of his own. This is not true and is the subject of my book <i>Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin</i> (2013).<sup>1</sup> 
+Many believe that Wallace has been overlooked and denied his rightful fame for his work on the theory of evolution and that Darwin had perhaps even stolen some of Wallace's ideas and delayed the publication Of Wallace's paper in favour of his own. This is not true and is the subject of my book <i>Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin</i> (2013).[^1]
 
 Charles Darwin (1809—1882) is one of the most intensely studied scientists in history, and has been for over a century. But one area of his life that has remained comparatively unexamined is his formative years as a student at the University of Cambridge. For the rest of his life Darwin held a particular affection for Cambridge. For a time he even considered a Cambridge professorship as a career. He later sent three of his sons there to be educated. Yet, the traces of what Darwin actually did and experienced as a student in Cambridge have remained undiscovered, and the details of his day-to-day life there are either largely unknown or misunderstood. 
 
 
 #### **WILLAGE IN THE MALAY ARCHIPELAGO DARWIN IN CAMBRIDGE** 
 
-Darwin entered the books as an undergraduate student at Christ's College, Cambridge, on 15 October 1827, but as he had forgotten most of his schoolboy Greek he had to be tutored at home before entering Cambridge. (Why this mattered is explained in <i>Darwin in Cambridge; The Most Joyful rears.</i><sup>2</sup>) This meant he did not arrive in Cambridge until January 1828 - and by then all the rooms in the college were filled. So he took lodgings above the tobacconist shop across the street. The owner had an arrangement with Christ's College so that its students could rent rooms there, though this sometimes led to complaints. For instance, the shop owner across the street from the tobacconist would complain to the Master of the College that students kept knocking the hats off unwary passers-by along the street by flicking a long horsewhip from their first floor windows. 
+Darwin entered the books as an undergraduate student at Christ's College, Cambridge, on 15 October 1827, but as he had forgotten most of his schoolboy Greek he had to be tutored at home before entering Cambridge. (Why this mattered is explained in <i>Darwin in Cambridge; The Most Joyful rears.</i>[^2]) This meant he did not arrive in Cambridge until January 1828 - and by then all the rooms in the college were filled. So he took lodgings above the tobacconist shop across the street. The owner had an arrangement with Christ's College so that its students could rent rooms there, though this sometimes led to complaints. For instance, the shop owner across the street from the tobacconist would complain to the Master of the College that students kept knocking the hats off unwary passers-by along the street by flicking a long horsewhip from their first floor windows. 
 
  <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\darwinandwallace\Alfred_Russel_Wallace.jpg">
 	</div>
 	Alfred Russel Wallace in Singapore in 1862. Merchant, James ed. 1916.<i>Alfred Ruessel Wallace and Reminiscences.</i>
@@ -41,39 +40,39 @@ One of the more surprising findings about Darwin's daily life as a student was t
 
 Like many young men of his social Class, Darwin passionately dedicated to the sport of shooting birds. When he could not go shooting, he would practise his aim in his comfortable college mom. He later recalled in his autobiography: 
 
-When at Cambridge I used to practise throwing up my gun to my shoulder before a looking-glass to see that I threw it up straight. Another and better plan was to get a friend to wave about a lighted candle, and then to fire at it with a cap on the nipple, and if the aim was accurate the little puff of air would blow out the candle. The explosion of the cap caused a sharp crack, and I was told that the Tutor of the College remarked. “What an extraordinary thing it is, Mr Darwin seems to spend hours in cracking a horse-whip in his room. for I often hear the crack when I pass under his windows.”<sup>3</sup> 
+When at Cambridge I used to practise throwing up my gun to my shoulder before a looking-glass to see that I threw it up straight. Another and better plan was to get a friend to wave about a lighted candle, and then to fire at it with a cap on the nipple, and if the aim was accurate the little puff of air would blow out the candle. The explosion of the cap caused a sharp crack, and I was told that the Tutor of the College remarked. “What an extraordinary thing it is, Mr Darwin seems to spend hours in cracking a horse-whip in his room. for I often hear the crack when I pass under his windows.”[^3]
 
 Not very keen on his official studies, Darwin devoted himself to collecting beetles instead. He soon discovered several novel ways to procure rare and unusual specimens, and had a special cabinet made to house his collection. Darwin sent records of his captures to the well-known entomologist James Stephens who regularly published records of British entomology. These were Darwin's first words in print. So even as an Undergraduate, and in a very small way, Darwin had already begun to contribute to science. 
 
-In later life Darwin liked to sheepishly recall one of his beetling misadventures: “One day, on tearing off some old bark, I saw two rare beetles and seized one in each hand; then I saw a third and new kind, which I could not bear to lose, so that I popped the one which held in my right hand into my mouth. Alas it ejected some intensely acrid fluid, which burnt my tongue so that I was forced to spit the beetle out, which was lost, as well as the third one.”<sup>4</sup> One certainly cannot doubt his sincerity as a collector. 
+In later life Darwin liked to sheepishly recall one of his beetling misadventures: “One day, on tearing off some old bark, I saw two rare beetles and seized one in each hand; then I saw a third and new kind, which I could not bear to lose, so that I popped the one which held in my right hand into my mouth. Alas it ejected some intensely acrid fluid, which burnt my tongue so that I was forced to spit the beetle out, which was lost, as well as the third one.”[^4] One certainly cannot doubt his sincerity as a collector. 
 
 Darwin’s interests in science became a lifelong passion. He read the scientific travel accounts of the great German naturalist Alexander von Humboldt and dreamed of travelling on a scientific tour of his own. 
 
-Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, from whom Darwin learned a great deal about scientific method. The two became such good friends that college dons who had not met Darwin referred to him as “the man who walks with Henslow.”<sup>5</sup> Darwin also studied other branches of natural science in his own time as the university then offered little instruction in science. He eventually learned the basics of a wide range of current fields. In 1831, he successfully completed his exam to gain his B.A. degree. Darwin later recalled, “Upon the whole, the three years I spent at Cambridge were the most joyful of my happy life.”<sup>6</sup> It was Henslow who would shortly thereafter recommend Darwin for the post of naturalist on HMS <i>Beagle</i> on a voyage around the world.<sup>7</sup> The Rest, as they say, is history. 
+Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, from whom Darwin learned a great deal about scientific method. The two became such good friends that college dons who had not met Darwin referred to him as “the man who walks with Henslow.”[^5] Darwin also studied other branches of natural science in his own time as the university then offered little instruction in science. He eventually learned the basics of a wide range of current fields. In 1831, he successfully completed his exam to gain his B.A. degree. Darwin later recalled, “Upon the whole, the three years I spent at Cambridge were the most joyful of my happy life.”[^6] It was Henslow who would shortly thereafter recommend Darwin for the post of naturalist on HMS <i>Beagle</i> on a voyage around the world.[^7] The Rest, as they say, is history. 
 
  <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\darwinandwallace\cambridge_graduate_1.jpg">
 	</div>
 (Top left) A Cambridge graduate in the 1820s sporting the latest fashion - trousers (instead of knee breeches)
 
  <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\darwinandwallace\Christs_Ackermann.jpg">
 	</div>
 (Left) Christ's College, Cambridge, where Darwin spent his undergraduate years. 
 
  <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\darwinandwallace\Darwin_room.jpg">
 	</div>
 (Above) Restoration of Darwin's room at Christ's College Was completed in 2009. He lived here from 1828-1831 
 
  <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\darwinandwallace\Dispelling_the_darkness_cover_large.jpg">
 	</div>
-(Below) <i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. Published by World Scientific Publishing Co. 2013</i> 
+(Below) <i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. Published by World Scientific Publishing Co. 2013 
 
 **IN SEARCH OF THE HISTORICAL WALLACE** 
 
@@ -91,7 +90,7 @@ A candid investigation of the original historical sources from Wallace's time di
 
 **WHAT REALLY HAPPENED IN THE ARCHIPELAGO?** 
 
-After a series of underpaying jobs, Wallace set out for the Amazon valley in 1848 to make a living as a commercial specimen collector. (The heroic version has him going instead on a quest to solve the problem of the origin of species.<sup>8</sup>) During his time there, Wallace continued his self-education in science and began to publish a series of scientific papers. As part of his research, he also collected large numbers of insects, birds and mammals. In 1852, Wallace was returning home when disaster struck. The sailing vessel on which he was travelling caught fire and sank in the Atlantic Ocean. Wallace and the crew were rescued and returned safely to England. 
+After a series of underpaying jobs, Wallace set out for the Amazon valley in 1848 to make a living as a commercial specimen collector. (The heroic version has him going instead on a quest to solve the problem of the origin of species.[^8]) During his time there, Wallace continued his self-education in science and began to publish a series of scientific papers. As part of his research, he also collected large numbers of insects, birds and mammals. In 1852, Wallace was returning home when disaster struck. The sailing vessel on which he was travelling caught fire and sank in the Atlantic Ocean. Wallace and the crew were rescued and returned safely to England. 
 
 Undaunted, Wallace prepared for another collecting expedition, this time to the Malay Archipelago; what is now Singapore, Malaysia, Indonesia and East Timor. With the help of government money for his ticket, Wallace arrived in the bustling entrepôt of Singapore on 18 April 1854. 
 
@@ -99,7 +98,7 @@ Over the next eight years Wallace made dozens of expeditions. His voyage corresp
 
 together with his illuminating book <i>The 
 
-Malay Archipelago</i> (1869), paints a rich picture of the peoples and nature of the 1850s and 1860s.<sup>9</sup> Ultimately Wallace's collection totalled 125,660 specimens 01 insects, birds, shells and mammals. In inflated versions of the story, Wallace painstakingly collected all of these specimens himself. But recent historical research has revealed that Wallace employed more than 30 fulltime assistants to aid him in his task, one of whom, Charles Allen and his own assistants, collected about 40,000 specimens.<sup>10</sup> Altogether, Wallace's assistants, particularly a Malay lad named Ali from Sarawak, probably collected more than half of the total number. 
+Malay Archipelago</i> (1869), paints a rich picture of the peoples and nature of the 1850s and 1860s.[^9] Ultimately Wallace's collection totalled 125,660 specimens 01 insects, birds, shells and mammals. In inflated versions of the story, Wallace painstakingly collected all of these specimens himself. But recent historical research has revealed that Wallace employed more than 30 fulltime assistants to aid him in his task, one of whom, Charles Allen and his own assistants, collected about 40,000 specimens.[^10] Altogether, Wallace's assistants, particularly a Malay lad named Ali from Sarawak, probably collected more than half of the total number. 
 
 In 1855, while staying in Sarawak, Wallace wrote his first theoretical paper on species: “On the law which has regulated the introduction of new species.” In heroic accounts of Wallace, the paper is represented as if it was the first to have outlined the modern theory of evolution minus only the “mechanism” of natural selection. 
 
@@ -111,13 +110,13 @@ In 1856, Wallace began to realise that in the west of the Malay Archipelago the 
 
 **ADAPTATION** 
 
-In 1858, Wallace was living on the tiny volcanic island of Ternate, one of the fabled Spice Islands of Indonesia, just west of New Guinea. He had come to procure the rare and beautiful Birds of Paradise that live only in and around New Guinea. It was on Ternate that Wallace conceived an explanation as to how species come to be adapted to their environments.<sup>11</sup> This was a radical departure from his previous thinking. He had never looked for an explanation for adaptation before. Indeed he thought that traditional ideas of species adaptation smacked of shallow and old-fashioned thinking. So what made him change his mind? 
+In 1858, Wallace was living on the tiny volcanic island of Ternate, one of the fabled Spice Islands of Indonesia, just west of New Guinea. He had come to procure the rare and beautiful Birds of Paradise that live only in and around New Guinea. It was on Ternate that Wallace conceived an explanation as to how species come to be adapted to their environments.[^11] This was a radical departure from his previous thinking. He had never looked for an explanation for adaptation before. Indeed he thought that traditional ideas of species adaptation smacked of shallow and old-fashioned thinking. So what made him change his mind? 
 
 The heroic story Of Wallace is based on his recollection of what happened many years later, and after he had read Darwin's <i>Origin of Species</i>. This is extremely problematic for two reasons. Firstly, retrospective accounts are not the same as contemporary evidence. Indeed, because historians have found recollections to be so inaccurate and untrustworthy, they are worth very little for understanding what a scientist was really doing many years before. Secondly, Wallace’s recollections are tainted by the fact that he had read Darwin and eventually his <i>Life and Letters</i> (1887). Therefore, Wallace's stories as an old man are not independent attestations. 
 
 In 1858, Wallace elaborated his new ideas in his so-called Ternate essay: “On the tendency of varieties to depart indefinitely from the original type,” For many years Wallace's essay was described as espousing exactly the same theory as Darvin's. But the more historians have analysed it, the more clearly it has been revealed to be quite a different theory, but with some basic parallels to Darwin's. Wallace certainly did originate a version of natural selection independently of Darwin. 
 
-What happened next has been surrounded by confusion and conspiracy theories for decades. Wallace did not send his essay to a journal. Instead he sent it to Darwin with the request that, if Darwin thought it suitable, it be forwarded to the great geologist Sir Charles Lyell. Here, the conspiracy theories mount thick and fast. Firstly, it was long claimed that Darwin lied about when he received Wallace's letter. This has now been fully refuted.<sup>12</sup> Secondly, it has been claimed that Darwin might have borrowed from Wallace's essay. There is no evidence for these claims at all. 
+What happened next has been surrounded by confusion and conspiracy theories for decades. Wallace did not send his essay to a journal. Instead he sent it to Darwin with the request that, if Darwin thought it suitable, it be forwarded to the great geologist Sir Charles Lyell. Here, the conspiracy theories mount thick and fast. Firstly, it was long claimed that Darwin lied about when he received Wallace's letter. This has now been fully refuted.[^12] Secondly, it has been claimed that Darwin might have borrowed from Wallace's essay. There is no evidence for these claims at all. 
 
 The remaining conspiracy theories are equally the sort of stories that could only have been told by recent writers quite unfamiliar with Victorian science and society: It is claimed that it was improper to publish Wallace's paper without his explicit permission (false); that his paper ought to have been, according to the rules of the day, published on its own or at least ahead of anything by Darwin (false). And so forth. 
 
@@ -128,13 +127,13 @@ The following year, Darwin published a condensed version of his 20 years of work
 On his return to Britain in 1862, Wallace was no longer an obscure collector. He had become a well-known player in the scientific community. His reputation was forever linked with Darwin because of his own independent discovery. This no doubt helped the acceptance of Darwin’s book. Wallace was a great naturalist and a pioneer of the study of the biodiversity of Southeast Asia. He continues to inspire biologists and conservationists to this day. But he was not a dupe or a victim. Only proper historical method allows us to uncover the truth about the past and dispel the darkness of conspiracy theories or plain wishful thinking. 
 
  <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\darwinandwallace\wallace_assistant.jpg">
 	</div>
 (Top left) Wallace's faithful Malay assistant Ali. 
 
  <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\darwinandwallace\Red_bird_paradise.jpg">
 	</div>
 (Left) The Red Bird of Paradise of New Guinea. This was what Wallace went to search for in 1858 in Ternate, Indonesia. 
@@ -152,26 +151,26 @@ van Wyhe, J. (2014). *[Charles Darwin in cambridge: The most joyful years](https
 
 #### **NOTES**
 
-[^1 ]: See van Wyhe, J. (2013). *[Dispelling the darkness: Voyage in the Malay Archipelago and the discovery of evolution by Wallace and Darwin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)*. Singapore; New Jersey: World Scientific. (Call no.: R 576.82092 VAN)
+[^1]: See van Wyhe, J. (2013). *[Dispelling the darkness: Voyage in the Malay Archipelago and the discovery of evolution by Wallace and Darwin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)*. Singapore; New Jersey: World Scientific. (Call no.: R 576.82092 VAN)
 
-[^2 ]: See van Wyhe, J. (2014). *[Charles Darwin in cambridge: The most joyful years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200921579)*. Singapore; New Jersey: World Scientific. (Call no.: R 576.82092 VAN)
+[^2]: See van Wyhe, J. (2014). *[Charles Darwin in cambridge: The most joyful years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200921579)*. Singapore; New Jersey: World Scientific. (Call no.: R 576.82092 VAN)
 
-[^3 ]: Barlow, N. (Ed.). (1958). <i>The autobiography of Charles Darwin 1809–1882. With the original omissions restored.</i> London: Collins. (Not available in NLB holdings)
+[^3]: Barlow, N. (Ed.). (1958). <i>The autobiography of Charles Darwin 1809–1882. With the original omissions restored.</i> London: Collins. (Not available in NLB holdings)
 
-[^4 ]: Barlow, 1958.
+[^4]: Barlow, 1958.
 
-[^5 ]: Barlow, 1958.
+[^5]: Barlow, 1958.
 
-[^6 ]: Barlow, 1958.
+[^6]: Barlow, 1958.
 
-[^7 ]: For many years it was said that Darwin was not really the naturalist, but more of a social companion to the ship’s captain. This has recently been refuted, see van Whye, J. (2013, September). My appointment received the sanction of the Admiralty”: Why Charles Darwin really was the naturalist on HMS Beagle’. <i>Studies in History and Philosophy of Biological and Biomedical Sciences</i>, 44 (3), 316–326. Retrieved from DOI.Org website.
+[^7]: For many years it was said that Darwin was not really the naturalist, but more of a social companion to the ship’s captain. This has recently been refuted, see van Whye, J. (2013, September). My appointment received the sanction of the Admiralty”: Why Charles Darwin really was the naturalist on HMS Beagle’. <i>Studies in History and Philosophy of Biological and Biomedical Sciences</i>, 44 (3), 316–326. Retrieved from DOI.Org website.
 
-[^8 ]: See van Whye, J. (2014, Winter). A delicate adjustment: Wallace and Bates on the Amazon and “the problem of the origin of species”. <i>Journal of the History of Biology</i>, 47 (4). 627–659. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
+[^8]: See van Whye, J. (2014, Winter). A delicate adjustment: Wallace and Bates on the Amazon and “the problem of the origin of species”. <i>Journal of the History of Biology</i>, 47 (4). 627–659. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
 
-[^9 ]: van Whye, J., & Rookmaaker, L.K. (Eds.). (2013). *[Alfred Russel Wallace: Letters from the Malay Archipelago](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200158642)*. Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL); van Wyhe, J. (Ed.). (2015). *[The annotated Malay Archipelago by Alfred Russel Wallace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200350257)*. Singapore: NUS Press. (Call no.: RSING 959.8 ANN)
+[^9]: van Whye, J., &amp; Rookmaaker, L.K. (Eds.). (2013). *[Alfred Russel Wallace: Letters from the Malay Archipelago](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200158642)*. Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL); van Wyhe, J. (Ed.). (2015). *[The annotated Malay Archipelago by Alfred Russel Wallace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200350257)*. Singapore: NUS Press. (Call no.: RSING 959.8 ANN)
 
-[^10 ]: See Rookmaaker, K., & van Wyhe, J. (2012, December). In Wallace’s shadow: The forgotten assistant of Alfred Russel Wallace, Charles Allen. Journal of the Malayan Branch of the Royal Asiatic Society, 85 (2), 17–54. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^10]: See Rookmaaker, K., &amp; van Wyhe, J. (2012, December). In Wallace’s shadow: The forgotten assistant of Alfred Russel Wallace, Charles Allen. Journal of the Malayan Branch of the Royal Asiatic Society, 85 (2), 17–54. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^11 ]: For many years it was believed that Wallace was actually on the nearby island of Gilolo, but that mistake has now been laid to rest. See *[van Wyhe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)*, 2013, pp. 202–204.
+[^11]: For many years it was believed that Wallace was actually on the nearby island of Gilolo, but that mistake has now been laid to rest. See *[van Wyhe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)*, 2013, pp. 202–204.
 
-[^12 ]: See *[van Wyhe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)*, 2013, pp. 225–226, 358 note 692; van Wyhe, J., & Rookmaaker, K. (2012, January). A new theory to explain the receipt of Wallace’s Ternate Essay by Darwin in 1858. <i>Biological Journal of the Linnean Society</i> 105 (1), 249–252. Retrieved from DOI.Org website.
+[^12]: See *[van Wyhe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)*, 2013, pp. 225–226, 358 note 692; van Wyhe, J., &amp; Rookmaaker, K. (2012, January). A new theory to explain the receipt of Wallace’s Ternate Essay by Darwin in 1858. <i>Biological Journal of the Linnean Society</i> 105 (1), 249–252. Retrieved from DOI.Org website.
