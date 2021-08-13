@@ -4,7 +4,7 @@ date: 2021-08-12
 permalink: /articles-archive/features/permalinkgeographic
 layout: post
 ---
-"You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel The Mapmaker's Wad.
+"You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel The Mapmaker's Wad.[^1]
 
 The act of graphically representing the world around us is an early human impulse -judging from the prehistoric engravings of landscapes found in caves and rock shelters.[^2] Perhaps the earliest surviving example of a world map is a 2,600-year-old clay tablet[^3] dating to around 600 BCE, representing a Babylonian's view of the world. Some might debate that the tablet cannot be considered a map as it is neither drawn to scale nor does it accurately capture the geographical landscape - for example, the river Euphrates is drawn as a set of parallel lines. From a scientific perspective, this clay tablet would certainly not qualify as a map. What, then, constitutes a map?
 
@@ -22,7 +22,7 @@ Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial glo
 	
 Maps have a special significance in Singapore. Given the dearth of historical material on Singapore before the arrival of Stamford Raffles in 1819, pre-19th-century maps depicting the island act as important visual records of our early origins. The National Library's latest exhibition, "Land of Gold and Spices: Early Maps of Southeast Asia and Singapore", provides visitors with the unique opportunity to view these rare early maps. This exhibition is part of a larger festival of maps and mapping called "GeolGraphic: Celebrating Maps and Their Stories" 
 
-"GeolGraphic", which is a curated combination of exhibitions and programmes, explores the diverse world of maps and showcases the collections of the National Library (NL) and the National Archives of Singapore (NAS), as well as mapping-related artworks by four Singapore artists. 
+"GeolGraphic", which is a curated combination of exhibitions and programmes, explores the diverse world of maps and showcases the collections of the National Library (NL) and the National Archives of Singapore (NAS), as well as mapping-related artworks by four Singapore artists. [^9]
 
 <div style="background-color: white;">
 <br>
@@ -144,7 +144,7 @@ Yee, C. (1994). Chinese maps in political culture. In J.B. Harley &amp; D. Woodw
 	
 #### **NOTES**
 
-[1]: *Domingue*, R. (2013).*[The mapmaker’s war: Keeper of tales trilogy, Book 1](https://nlb.overdrive.com/media/3151C9AC-BD3F-429C-9CEA-F62E8D4BA82F)* (p. 286). Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL)
+[^1]: *Domingue*, R. (2013).*[The mapmaker’s war: Keeper of tales trilogy, Book 1](https://nlb.overdrive.com/media/3151C9AC-BD3F-429C-9CEA-F62E8D4BA82F)* (p. 286). Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL)
 	
 [^2]: *Smith*, C. (1994). Prehistoric cartography in Asia. In J.B. Harley &amp; D. Woodward (Eds.), *[The history of cartography: Cartography in the traditional east and southeast Asian societies.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)* Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
 	
