@@ -1,9 +1,10 @@
 ---
 title: A Nation of Islands
 date: 2021-08-12
-permalink: /articles-archive/features/permalink
+permalink: /articles-archive/features/permalinknoi
 layout: post
 ---
+
 <div style="background-color: white;">
 <br/>
 <img src="\images\vol-10-issue-4\nationofisland\StJohn_KenanganManis_CA34821.jpg">
