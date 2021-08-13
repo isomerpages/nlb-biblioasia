@@ -120,6 +120,7 @@ This project was supported by the Singapore Memory Project's (SMP) irememberSG F
 <br>
 <img src="\images\vol-10-issue-4\nationofisland\Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0010201.jpg">
 </div>
+
 <div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\nationofisland\Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0020354.jpg">
