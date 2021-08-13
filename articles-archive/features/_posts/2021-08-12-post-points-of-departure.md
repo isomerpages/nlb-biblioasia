@@ -1,9 +1,10 @@
 ---
 title: Points of Departure
 date: 2021-08-12
-permalink: /articles-archive/features/permalink
+permalink: /articles-archive/features/permalinkpod
 layout: post
 ---
+
 #### **Charting Memories Through Collective Imagination**
 
 **Juria Toramae** is a Singapore-based artist and Engineer. Her photographic series “Temporality” debuted at Noise Singapore's The Apprenticeship Programme exhibition in 2013. She is an irememberSG fund recipient for her collaborative project titled “Paints of Departure”. 
