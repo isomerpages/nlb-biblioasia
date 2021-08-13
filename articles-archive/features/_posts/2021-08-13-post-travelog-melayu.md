@@ -176,35 +176,34 @@ Juffri Supa’at is a Senior Librarian with the National Library of Singapore. H
 <i>Warkah Eropah</i> by A. Samad Said was published in 1991 by Dewan Bahasa and Pustaka.
 
 #### **Rujukan**
-A Samad Said. (1991). Warkah Eropah. Kuala Lumpur: Dewan Bahasa dan Putaska. (Call no.: Malay R 899.2305 ABD)
+A Samad Said. (1991). *[Warkah Eropah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6137066)*. Kuala Lumpur: Dewan Bahasa dan Putaska. (Call no.: Malay R 899.2305 ABD)
 
-Farid Rashid. (2011). Travelog debu-debu kota 1000 menara. Kuala Lumpur: Must Read. (Call no.: Malay R 916.204 FAR)
+Farid Rashid. (2011). *[Travelog debu-debu kota 1000 menara](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14114951)*. Kuala Lumpur: Must Read. (Call no.: Malay R 916.204 FAR)
 
-Han, M.L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore, 1819–1940. Sojourn: Journal of Social Issues in Southeast Asia, 18 (2), 257–278. Retrieved from JSTOR via NLB’s eResources website.
+Han, M.L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore, 1819–1940. Sojourn: Journal of Social Issues in Southeast Asia, 18 (2), 257–278. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
 
-Harun Aminurrashid. (1953). Melawat ke Paris. Singapura: Royal Press. (Call no. Malay RCLOS 944.36 HAR)
+Harun Aminurrashid. (1953). *[Melawat ke Paris](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4520819)*. Singapura: Royal Press. (Call no. Malay RCLOS 944.36 HAR)
 
-Harun Aminurrashid. (1961). Chatetan ka-tanah suchi. Singapura: Pustaka Melayu. Available via PublicationSG.
+Harun Aminurrashid. (1961). *[Chatetan ka-tanah suchi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200011240)*. Singapura: Pustaka Melayu. Available via PublicationSG.
 
-Harun Aminurrashid. (1961). Terbang ka-barat. Singapura: Pustaka Melayu. (Call no. Malay RSING 942.085 HAR)
+Harun Aminurrashid. (1961). *[Terbang ka-barat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183850)*. Singapura: Pustaka Melayu. (Call no. Malay RSING 942.085 HAR)
 
-Harun Aminurrashid. (1961). Meninjau ka-negara Sham. Singapura: Pustaka Melayu. (Call no.: Malay RSEA 956 HAR)
+Harun Aminurrashid. (1961). *[Meninjau ka-negara Sham](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183851)*. Singapura: Pustaka Melayu. (Call no.: Malay RSEA 956 HAR)
 
-Harun Aminurrashid. (1963). Kunjongan ka-Indonesia 1954. Singapura: Pustaka Melayu. (Call no.: Malay RSING 959.803 HAR)
+Harun Aminurrashid. (1963). *[Kunjongan ka-Indonesia 1954](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183847)*. Singapura: Pustaka Melayu. (Call no.: Malay RSING 959.803 HAR)
 
-Harun Aminurrashid. (1964). Chatetan menjelajah ka-Eropah. Singapura: Pustaka Melayu. (Call no.: Malay RCLOS 940 HAR)
+Harun Aminurrashid. (1964). *[Chatetan menjelajah ka-Eropah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4385039)*. Singapura: Pustaka Melayu. (Call no.: Malay RCLOS 940 HAR)
 
-Harun Aminurrashid. (1965). Mengembara ka-Andalusia. Singapura: Pustaka Melayu. (Call no.: Malay RSING 946.8 HAR)
+Harun Aminurrashid. (1965). *[Mengembara ka-Andalusia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183849)*. Singapura: Pustaka Melayu. (Call no.: Malay RSING 946.8 HAR)
 
-Harun Aminurrashid. (1965). Melawat negara tetangga. Singapura: Pustaka Melayu. (Call no.: Malay RCLOS 915 HAR)
+Harun Aminurrashid. (1965). *[Melawat negara tetangga](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12929667)*. Singapura: Pustaka Melayu. (Call no.: Malay RCLOS 915 HAR)
 
-Khalid Hitam bin Raja Hasan. (2002). Bahwa inilah Syair perjalanan Sultan Lingga dan yang Dipertuan Muda Riau pergi ke Singapura dan peri keindahan istana Sultan Johor yang amat elok. Pekanbaru. Riau: Proyek Pembinaan Bahasa dan Sastra Daerah Riau, Dinas Kebudayaan, Kesenian dan Pariwisata. (Call no.: Malay R 899.281 KHA)
+Khalid Hitam bin Raja Hasan. (2002). *[Bahwa inilah Syair perjalanan Sultan Lingga dan yang Dipertuan Muda Riau pergi ke Singapura dan peri keindahan istana Sultan Johor yang amat elok](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11927551)*. Pekanbaru. Riau: Proyek Pembinaan Bahasa dan Sastra Daerah Riau, Dinas Kebudayaan, Kesenian dan Pariwisata. (Call no.: Malay R 899.281 KHA)
 
-Lucchesi, F. (1996, January). Geographic memories in travelogue literature: The Australian landscape in the writing of Italian travellers. GeoJournal, 38 (1), 129–136. Retrieved from JSTOR via NLB’s eResources website.
+Lucchesi, F. (1996, January). Geographic memories in travelogue literature: The Australian landscape in the writing of Italian travellers. GeoJournal, 38 (1), 129–136. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
 
-Nisah Haji Haron. (2012). Kembara sastera Nisah Haron: United Kingdom dan Dublin. Kuala Lumpur: ITBM. (Call no.: Malay R 899.2809 NIS)
+Nisah Haji Haron. (2012). *[Kembara sastera Nisah Haron: United Kingdom dan Dublin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14359588)*. Kuala Lumpur: ITBM. (Call no.: Malay R 899.2809 NIS)
 
 Raimy Che-Ross. (2003). Syair Peri Tuan Raffles pergi ke Minangkabau A Malay account of Raffle’s second expedition to the Sumatran Highland in 1819: Based partially on prefatory material by the Hon. Dudley Francis Amelius Hervey CMG JP, Resident Councillor Malacca (1882–1893). Journal of the Malaysian Branch of the Royal Asiatic Society, 76 (2) (285), 25–80. Retrieved from JSTOR via NLB’s *[eResources website](https://eresources.nlb.gov.sg/main/)*.
 
-Sweeney, A. (2005). Karya lengkap Abdullah bin Abdul Kadir Munsyi. Jilid 1, Kisah pelayaran Abdullah ke Kelantan: Kisah pelayaran Abdullah ke Mekah. Jakarta: Kepustakaan Populer Gramedia. (Call no.: Malay RSING 959.5 KAR)
-
+Sweeney, A. (2005). *[Karya lengkap Abdullah bin Abdul Kadir Munsyi. Jilid 1, Kisah pelayaran Abdullah ke Kelantan: Kisah pelayaran Abdullah ke Mekah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12729835)*. Jakarta: Kepustakaan Populer Gramedia. (Call no.: Malay RSING 959.5 KAR)
