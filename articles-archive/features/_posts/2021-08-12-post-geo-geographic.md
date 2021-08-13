@@ -41,9 +41,12 @@ This 19th- century chart with place names written in Bugis script is a rare exam
 This anchor exhibition for "Geo|Graphic" reveals how Southeast Asia was perceived, conceived and mapped by the Europeans from the 15th to the early 19th century. The exhibition starts off with maps based on Geography, the seminal work of the 2nd- century Greek astronomer and mathematician Claudius Ptolemy. Ptolemy plotted out what he considered as the known terrestrial world at the time. The region we now know as Southeast Asia was for Ptolemy "India Beyond the Ganges" - a land where gold, silver and other exotic products abounded In 13th-century Europe, the tables of longitudes and latitudes from Geography were translated into maps to accompany the text, first in manuscript form and, later, in the 15th century, in printed editions. These maps constitute some of the earliest European depictions of Southeast Asia. Eventually, the lure of spices and riches brought the Portuguese, Spanish, Dutch and British to the region and their intrepid journeys can be explored through the various maps displayed at the exhibition.
 	
 A highlight of the exhibition are several pre-1800 maps that contain names such as Cinca pula, Cingatola and Sincapura. Could these names refer to Singapore? Also on display are early printed and hand-drawn maps that identify Singapore as Old Strieghts of Sincapura, lantana, Pulo Panjang and Sincapour. Whatever the names used, these maps clearly point to Singapore's existence before 1819 and offer a glimpse into its maritime history. Another highlight are the rare hand-drawn Dutch and English maps that have been borrowed from European libraries and displayed in Singapore for the first time.
-	
+
+<div style="background-color: white;">
+<br>
+<img src="\images\vol-10-issue-4\geo-geographic\UBLCKA_COLLBN.jpg">
+</div>
 (Right) On this hand-drawn and coloured 1725 Dutch map depicting the southern part of the Malay Peninsula and the Riau archipelago, Singapore is marked as Oud Straat Sincapura (Old Strait of Singapore). The Old Strait of Singapore is the name of the maritime channel between Sentosa and Telok Blangah. <i>Courtesy Of Leiden University Library, 006-14-012.</i>
-	
 (Left) The Dutch merchant/traveller and historian, Jan Huygen van Linschoten (1563-1611) is credited with writing a book on the navigational routes to the elusive East Indies (referring generally to India and Southeast Asia). The Portuguese, who at that time controlled the lucrative spice trade to Europe, kept such information secret. Sailing directions and accurate maps from Linschoten's book <i>Itinerario</i> (first published in 1596), later paved the way for the Dutch and British to venture to the region. This cropped detail Of a larger map from the English edition of the <i>Itinerario</i>, published in 1598, shows "Sincapura" at the tip of the Malay Peninsula. Interestingly, Linschoten's map is oriented with the east at the top. with the entire region positioned on its side. National Library of Singapore Collection.
 	
 #### **ISLAND OF STORIES: SINGAPORE MAPS**
@@ -118,7 +121,7 @@ With the help of a pulsar scientist, Sharma has been collecting and categorising
 <i>Outliers</i> contemplates the profound space-time distance the signals of dying stars travel in order to communicate their death throes.
 	
 
-#### **the seas will sing and the wind will carry us (Fables of Nusantara) by Sherman Ong**
+#### **The seas will sing and the wind will carry us (Fables of Nusantara) by Sherman Ong**
 Sherman Ong is a filmmaker, photographer and visual artist whose practice centres on the relationship between place and the human condition. In this video installation, he uses the documentary/ethnographic film genre to tell stories of migration, transborder identities, myths and memory in island Southeast Asia. The histories and contemporary stories of the region are explored through the stories of nine individuals featured in a series of video vignettes. The stories include an Acehnese living in Malaysia recounting the loss of his family in the Asian tsunami of 2004; a Peranakan (Straits Chinese) woman describing her life of servitude while waiting for the "right" man to come along; and a Chinese woman arriving in Singapore in search of a better life.
 	
 <div style="background-color: white;">
