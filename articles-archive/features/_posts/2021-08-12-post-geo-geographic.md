@@ -1,9 +1,10 @@
 ---
 title: Geo Geographic
 date: 2021-08-12
-permalink: /articles-archive/features/permalink
+permalink: /articles-archive/features/permalinkgeographic
 layout: post
 ---
+
 "You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel The Mapmaker's Wad.
 
 The act of graphically representing the world around us is an early human impulse -judging from the prehistoric engravings of landscapes found in caves and rock shelters.[^2] Perhaps the earliest surviving example of a world map is a 2,600-year-old clay tablet<sup> 3</sup> dating to around 600 BCE, representing a Babylonian's view of the world. Some might debate that the tablet cannot be considered a map as it is neither drawn to scale nor does it accurately capture the geographical landscape - for example, the river Euphrates is drawn as a set of parallel lines. From a scientific perspective, this clay tablet would certainly not qualify as a map. What, then, constitutes a map?
