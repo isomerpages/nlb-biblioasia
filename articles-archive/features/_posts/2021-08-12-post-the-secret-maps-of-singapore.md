@@ -193,5 +193,3 @@ Wong, S-F. (1988, July 24). [Guides to better eating.](http://eresources.nlb.gov
 [^17]: Blaisdell, A. (1990). <i>The secret map of Singapore</i>. Retrieved from Google site.
 
 [^18]: Blaisdell, 1990.
-
-[^1]: Kornicki, P.F. (2018). *Languages, scripts, and Chinese texts in East Asia* (p. 117). Oxford: Oxford University Press. (Not available in NLB holdings)
