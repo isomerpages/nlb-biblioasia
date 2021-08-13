@@ -44,13 +44,13 @@ Details of South Bridge Road in Chinatown as seen in <i>The Secret Map of Singap
 <div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\thesecretmap\Smith_Street.jpg">
-	</div>
+</div>
 A 1983 photograph of Smith Street, which is part of the Chinatown Conservation Area. <i> From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.
 
 </i><div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\thesecretmap\South_Bridge_Road.jpg">
-	</div>
+</div>
 A 1983 photograph of South Bridge Road, between Mosque and Pagoda streets, with Sri Mariamman Temple and Jamae Mosque on the right. <i> From the Lee Kip Lin Collection. All right reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
 	
 #### **A FIRST IN MAPPING** 
@@ -60,22 +60,22 @@ Prior to this, articles about food and places of interest in the newspapers may 
 <div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\thesecretmap\secretmap.jpg">
-	</div>
+</div>
 (Top) <i>The Secret Map of Singapore</i> was released on 1986. <i>The Secret Map of Singapore. All right reserved. Mowe, Ropion, Hunt, 2014. </i>. 
 
 <div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\thesecretmap\elderly.jpg">
-	</div>
+</div>
 (Top right) An elderly lady dictating her letter to a professional letter writer in Kreta Ayer, who set up his makeshift stall along a five-foot way, circa late 1970s. <i>From the Kouo Shang-Wei Collection. All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007.
 
-</i><div style="background-color: white;">
+<div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\thesecretmap\pre-war_coffee_shop.jpg">
-	</div>
-(Above)Interior of a pre-war coffee shop located on New Bridge Road, taken in 1992. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.
+</div>
+(Above)Interior of a pre-war coffee shop located on New Bridge Road, taken in 1992. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
 
-</i><div style="background-color: white;">
+<div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\thesecretmap\traditional_Chinese_medicine_shop.jpg">
 	</div>
@@ -192,4 +192,4 @@ Wong, S-F. (1988, July 24). [Guides to better eating.](http://eresources.nlb.gov
 
 [^17]: Blaisdell, A. (1990). <i>The secret map of Singapore</i>. Retrieved from Google site.
 
-[^18]: Blaisdell, 1990.
+[^18]: Blaisdell, 1990.</i>
