@@ -4,7 +4,6 @@ date: 2021-08-12
 permalink: /articles-archive/features/permalink1
 layout: post
 ---
-
 #### In her effort to republish one of our unknown literary treasures, **Dr Eriko Ogihara-Schuck** tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
 
 In August 2014, I found myself in Singapore, the country where I came of age as a teenager. Twenty years had passed since I left Singapore to enter college in Japan and then higher degree studies in the United States and Germany. Initially, it felt as if nothing had changed since left the city. The night sky was still the same over the East Coast, twinkling here and there with the strobe lights of airplanes heading towards Changi Airport. On terra firma, the songs and sounds of the National Day festivities quickly re-absorbed me into this country, exactly the same way they did when I first arrived as a 12-year-old girl in the summer of 1988. 
@@ -15,7 +14,7 @@ I had come back to Singapore to trace the footsteps of Francis P. Ng, a forgotte
 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\FMSR_train.jpg">
 	</div>
 (Right) An “S” Class Express engine of the Federated Malay States Railways (FMSR), which was a rail operator that serviced British Malaya in the first half of the 20th century. The poem <i>F.M.S.R.</i> (published in 1937) describes a train journey from Singapore to Kuala Lumpur. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i>
@@ -51,7 +50,7 @@ Now hopeful that more sources about Teo could exist in other Singapore instituti
 
 Based on various fragmented sources I have been able to gather, thanks to these librarians and various Singapore official records, this is What I have pieced together on the life of Teo Poh Leng. 
 
-If the biographical note in Life and Letters To-day correctly affirms Teo’s birth year as 1912, then he was quite possibly born outside of Singapore. The Immigration & Checkpoints Authority of Singapore conducted a search for a birth certificate based on “Teo Poh Leng”, his pseudonym “Francis P Ng” and his postal address of “700 Serangoon Road” - but no record was found. Neither could the Catholic Chancery archives of Singapore find a baptism record, although in his 20s Teo had been a member of the Catholic Young Men's Association. <sup>10</sup> Perhaps he was born in today's Malaysia; after all in <i>F.M.S.R.</i> the traveller describes his journey to Kuala Lumpur, the Malaysian capital. as "coming home". <sup>11</sup>
+If the biographical note in Life and Letters To-day correctly affirms Teo’s birth year as 1912, then he was quite possibly born outside of Singapore. The Immigration &amp; Checkpoints Authority of Singapore conducted a search for a birth certificate based on “Teo Poh Leng”, his pseudonym “Francis P Ng” and his postal address of “700 Serangoon Road” - but no record was found. Neither could the Catholic Chancery archives of Singapore find a baptism record, although in his 20s Teo had been a member of the Catholic Young Men's Association. <sup>10</sup> Perhaps he was born in today's Malaysia; after all in <i>F.M.S.R.</i> the traveller describes his journey to Kuala Lumpur, the Malaysian capital. as "coming home". <sup>11</sup>
 
 Evidence shows that Teo studied at St Joseph's Institution ISJI). He took the School Certificate Examination in 1929. <sup>12</sup> Cambridge examinations records, the only materials pertaining to Teo that SJI still holds, attest that he excelled in English literature. <sup>13</sup>Teo graduated together with Kenneth Michael Byrne, who later became a member of the first People's Action Party cabinet in 1959. <sup>14</sup> 
 
@@ -62,13 +61,13 @@ During his final year at Raffles College, as the editor of <i>Raffles College Un
 It is highly likely that, upon graduation from Raffles College in 1934, Teo became a school teacher. No record of his school employment has been found but the <i>Blue Book</i> notes that he was a civil servant from 1934 to 1939. <sup>21</sup><i>Chorus</i>, the journal of the Singapore Teachers' Association, affirms that, in 1938, Teo served on the subcommittee of the magazine together with Percival Frank Aroozoo (1900-1969), the former headmaster of Gan Eng Seng School and father of Mrs Hedwig Anuar (1938-), the first Singaporean director of the National Library of Singapore. <sup>22</sup>Although publication of the <i>Blue Book</i> ceased in 1940 and hence provides no record of Teo's status after 1939, it would be fair to speculate that he was a teacher at least until 1941. In the 1941 issue of <i>Chorus</i> I chanced upon Teo’s poem "The Spider". <sup>23</sup> 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\erangoonRoad.jpg">
 	</div>
 (Top) Serangoon Road, circa 1911. At the time Serangoon Road was serviced by a single tram line running from Mackenzie Road depot to Paya Lebar. Teo very likely lived at 700 Serangoon Road in the early 1930s, today an empty plot of land just in front of the Kwong Wai Shiu Hospital. <i>Arkshak C Galstaun Collection,courtesy of National Archives of Singapore. </i> 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\StJosephInstitution.jpg">
 	</div>
 (Above) St Joseph’s Institution, circa 1912. Teo studied here and passed his School Certificate Examination in 1929. <i>Arkshak C Collection. courtesy of National Archives of Singapore. </i>
@@ -90,7 +89,7 @@ Literary articles that Teo contributed to <i>Raffles College Union Magazine</i> 
 Teo’s devotion to this modernist literary enterprise from the British colonial outpost in the tropics entailed a desire for the creation of Malayan art and culture. Lamenting Malaya for being "uncivilised in a cultural sense despite all her externals of civilised life"<sup>39</sup> and believing in the ability of artists to “commenc[e] the original outlines” instead of merely "furnishing civilization”, <sup>40</sup> Teo wrote poems with a strong vision for the advancement of what he would have called the Malayan civilisation at large. And significantly, central to this Vision was an amalgamation of the East and West. While emulating Western modernist poets, Teo crafted into his poems the so-called Eastern view of life, seeing life's journey as cyclic rather than linear, surmounting the notion of time, and picturing the encounter of various world and indigenous religions in the setting of the Lion City. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\railway_station.jpg">
 	</div>
 Tanjong Pagar Railway Station on Keppel Road in 1932. This is where trains from Malaysia arrived and departed from Singapore. <i>Paul Yap Collection, courtesy of National Archives of Singapore. </i>
@@ -100,37 +99,37 @@ Tanjong Pagar Railway Station on Keppel Road in 1932. This is where trains from 
 Why did he publish under a different name?** 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\_OXY6878.jpg">
 	</div>
-1. A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i>. has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace & Co. All rights reserved, 1997. </i> 
+1. A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i>. has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace &amp; Co. All rights reserved, 1997. </i> 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\Raffles_College_Magazine.jpg">
 	</div>
 2. <i>Raffles College Magazine</i>, the publication of Raffles College, of which Teo Poh Leng was the editor in 1933. Teo also contributed articles to this magazine. <i>Raffles College Union Magazine (1993, Trinity Term). (Vol. 4, No. 8), p. 1 Courtesy of NUS Central Library. </i>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\letter_to_submit.jpg">
 	</div>
 3. On 14 September 1931, in a letter addressed from 700 Serangoon Road (presumably his residence), Teo Poh Leng posted four poems to American poet Harriet Monroc for publication in <i>Poety: The Magazine of Verse. </i>Unfortunately, his submissions were not accepted. <i>Courtesy of the Special Collections Research Center, University of Chicago Library. </i>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\Life_and_Letters.jpg">
 	</div>
 4. Section VII of <i>F.M.S.R.</i> retitled as "The Song of the Night Express" by Teo Poh Leng, was published in the 1937 spring issue of <i>Life and Letters To-day</i>, a British literary magazine. <i>Life and To-day</i>. (Vol. 16, No. 7)
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\rafflesCollege.jpg">
 	</div>
 5. Oei Tiong Ham Hall at Rattles College, Bukit Timah Road, in 1938. Teo Poh Leng was a student at Raffles College from 1931 1934, where he trained to be a teacher. <i>Courtesy of National Archives of Singapore. </i>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\TeoRCPhoto1934.jpg">
 	</div>
 6. A faded graduation photograph of the Raffles College batch of students in 1934. One of the students in this photo is Teo Poh Leng, but he remains unidentified as the author of this article has not been able track down anyone who can recognise him. Paul Abisheganaden is the eighth from the right in the middle row. <i>Raffles College Union Magazine (1934 July). (Vol. 4, No. 10), insert between pp. 42 and 42. Courtesy of NUS Central Library. </i> 
@@ -158,7 +157,7 @@ The death certificate and family records of Teo Poh Leng remain unknown. However
 With this news, my laborious and slightly futile one-year search suddenly took on a glimmer of hope. I am now trying to complete my research and work towards republishing this neglected literary treasure. The reprinting of <i>F.M.S.R.</i> will fill the gap in Singapore's literary past, and in particular, that of English-language literature - the genre which seems to have lagged behind Chinese- and Malay-language works that have a more prolific history. Along with Lim Boon Keng’s <i>Tragedies of Eastern Life</i> (1927), <i>F.M.S.R.</i> will take its rightful place among pre-World War II 20th-century English literature from Singapore that Philip Holden, Rajeev S. Patke and John Clammer have analysed. <i>F.M.S.R.</i> will also serve as a bridge between post-World War II poetry pioneered by Edwin Thumboo (1933-) and the abundance of poems that poet Alvin Pang (1972-) is currently excavating from 19th-century Singapore school magazines. <sup>51</sup> 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\francispng\TeoinRegister.jpg">
 	</div>
 Teo Poh Leng listed as missing in <i>The Register of Graduates (1968)</i> belonging to the University of Malaya’s King Edward VII College of Medicine and Raffles College.
@@ -181,9 +180,9 @@ Eliot, T. (2003). <i>The waste land and other poems.</i> Longman: Penguin Books.
 
 Ng, F.P. (1937). *[F.M.S.R.: A poem.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)* London: Author H Stockwell. (Call no.: RRARE 821.9 PNG; Microfilm no.: NL16347)
 
-Patke, R.S., & Holden, P. (2010). *[The Routledge concise history of Southeast Asian writing in English.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)* New York: Routledge. (Call no.: RSING 895.9 PAT)
+Patke, R.S., &amp; Holden, P. (2010). *[The Routledge concise history of Southeast Asian writing in English.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)* New York: Routledge. (Call no.: RSING 895.9 PAT)
 
-Poon, A., & Holden, P., & Lim, S. G-L. (2009). (Eds.). 8[Writing Singapore: An historical anthology of Singapore literature.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13180645)* Singapore: NUS Press. (Call no.: RSING S820.8 WRI)
+Poon, A., &amp; Holden, P., &amp; Lim, S. G-L. (2009). (Eds.). 8[Writing Singapore: An historical anthology of Singapore literature.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13180645)* Singapore: NUS Press. (Call no.: RSING S820.8 WRI)
 
 Teo. P.L. (1933, Hilary Term). The learning of advancement. *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 3 (7), 4.
 
@@ -197,104 +196,104 @@ Teo, P.L. (1936, January). Time is past. <i>The London Mercury</i>, 33 (95), 275
 
 #### **NOTES**
 
-[^1 ]:The book actually does not indicate this publication date; it only says that Ng completed the poem between 1932 and 1934 and the preface in 1935 (“Note”). Publication of advertisements and reviews begins in 1937, suggesting that the book was published in that year. See Poetry review supplement. (1937). <i>Poetry review</i>, 28, xi; *[As I was saying.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19371218-1.2.41)* (1937, December 18). <i>The Singapore Free press</i>, p. 8: *[Notes of the day: Modern.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371221-1.2.45)* (1937, December 21). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+[^1]:The book actually does not indicate this publication date; it only says that Ng completed the poem between 1932 and 1934 and the preface in 1935 (“Note”). Publication of advertisements and reviews begins in 1937, suggesting that the book was published in that year. See Poetry review supplement. (1937). <i>Poetry review</i>, 28, xi; *[As I was saying.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19371218-1.2.41)* (1937, December 18). <i>The Singapore Free press</i>, p. 8: *[Notes of the day: Modern.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371221-1.2.45)* (1937, December 21). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-[^2 ]:Singaporean literature. (2020, October 13). Wikipedia. Retrieved from <i>Wikipedia</i> website.
+[^2]:Singaporean literature. (2020, October 13). Wikipedia. Retrieved from <i>Wikipedia</i> website.
 
-[^3 ]: Patke, R.S., & Holden, P. (2010). *[The Routledge concise history of Southeast Asian writing in English](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)* (p. 47). New York: Routledge. (Call no.: RSING 895.9 PAT)
+[^3]: Patke, R.S., &amp; Holden, P. (2010). *[The Routledge concise history of Southeast Asian writing in English](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)* (p. 47). New York: Routledge. (Call no.: RSING 895.9 PAT)
 
-[^4 ]: Poon, A., & Holden, P., & Lim, S. G-L. (2009). (Eds.). Introduction: Literature in English in Singapore before 1965. In *[Writing Singapore: An historical anthology of Singapore literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13180645)* (p. 10). Singapore: NUS Press. (Call no.: RSING S820.8 WRI)
+[^4]: Poon, A., &amp; Holden, P., &amp; Lim, S. G-L. (2009). (Eds.). Introduction: Literature in English in Singapore before 1965. In *[Writing Singapore: An historical anthology of Singapore literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13180645)* (p. 10). Singapore: NUS Press. (Call no.: RSING S820.8 WRI)
 
-[^5 ]: According to WorldCat, F.M.S.R. is also available at the British Library, the National Library of Scotland, the Oxford University Library and the University of North Carolina Library.
+[^5]: According to WorldCat, F.M.S.R. is also available at the British Library, the National Library of Scotland, the Oxford University Library and the University of North Carolina Library.
 
-[^6 ]: Arthur H Stockwell Ltd. (2003, July 9). Email to the Author.
+[^6]: Arthur H Stockwell Ltd. (2003, July 9). Email to the Author.
 
-[^7 ]: Ng, F.P. (1937). *[F.M.S.R.: A poem](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)* (p. 18). London: Author H Stockwell. (Call no.: RRARE 821.9 PNG; Microfilm no.: NL16347)
+[^7]: Ng, F.P. (1937). *[F.M.S.R.: A poem](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)* (p. 18). London: Author H Stockwell. (Call no.: RRARE 821.9 PNG; Microfilm no.: NL16347)
 
-[^8 ]: Teo, P.L. (1939, Spring). The song of the night express. <i>Life and Letters To-Day</i>, 16 (7), 44.
+[^8]: Teo, P.L. (1939, Spring). The song of the night express. <i>Life and Letters To-Day</i>, 16 (7), 44.
 
-[^9 ]: Notes on contributors. (1937, Spring). <i>Life and Letters To-Day</i>, 16 (7), ix.
+[^9]: Notes on contributors. (1937, Spring). <i>Life and Letters To-Day</i>, 16 (7), ix.
 
-[^10 ]: Archives of the Roman Catholis Archdiocese of Singapore. (2014, September 16). Email to the Author. At the Catholic Young Men’s Association, Teo Poh Leng was elected to the Vice President in 1932 and was the Honorary Librarian from 1935–1937. In 1934 he was also elected to be a special correspondent of the Malaya Catholic Leader. See Catholic Young Men’s Association of Singapore. (1935, March 2). <i>Malaya Catholic Leader</i>, 1 (9), 19; *[Untitled.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320909-1.2.82)* (1932, September 9). <i>The Straits Times</i>, p. 12; C.Y.M.A.: Church of St. Peter and Paul (Singapore). (1935, March 9). <i>Malaya Catholic Leader</i>, 1 (10), 16; Catholic Young Men’s Association: The study class. (1936, October 3). <i>Malaya Catholic Leader</i>, 13; Catholic Young Men’s Association. (1936, November 28). <i>Malaya Catholic Leader</i>, 13; Church of SS Peter and Paul: Catholic Young Men’s Association. (1937, February 6). Malaya Catholic Leader, 18; Church of SS. Peter & Paul. (1937, February 13). Malaya Catholic Leader, 19.
+[^10]: Archives of the Roman Catholis Archdiocese of Singapore. (2014, September 16). Email to the Author. At the Catholic Young Men’s Association, Teo Poh Leng was elected to the Vice President in 1932 and was the Honorary Librarian from 1935–1937. In 1934 he was also elected to be a special correspondent of the Malaya Catholic Leader. See Catholic Young Men’s Association of Singapore. (1935, March 2). <i>Malaya Catholic Leader</i>, 1 (9), 19; *[Untitled.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320909-1.2.82)* (1932, September 9). <i>The Straits Times</i>, p. 12; C.Y.M.A.: Church of St. Peter and Paul (Singapore). (1935, March 9). <i>Malaya Catholic Leader</i>, 1 (10), 16; Catholic Young Men’s Association: The study class. (1936, October 3). <i>Malaya Catholic Leader</i>, 13; Catholic Young Men’s Association. (1936, November 28). <i>Malaya Catholic Leader</i>, 13; Church of SS Peter and Paul: Catholic Young Men’s Association. (1937, February 6). Malaya Catholic Leader, 18; Church of SS. Peter &amp; Paul. (1937, February 13). Malaya Catholic Leader, 19.
 
-[^11 ]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 18.
+[^11]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 18.
 
-[^12 ]: Examination results. (1930). *[St Joseph’s Magazine: Chronicle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6533040)*, 29.
+[^12]: Examination results. (1930). *[St Joseph’s Magazine: Chronicle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6533040)*, 29.
 
-[^13 ]: University of Cambridge local examinations syndicate: Junior local examination, December 1928. University of Cambridge local examinations syndicate: School certificate examination, December 1929: Detailed report. These sources were provided by SJI Archives.
+[^13]: University of Cambridge local examinations syndicate: Junior local examination, December 1928. University of Cambridge local examinations syndicate: School certificate examination, December 1929: Detailed report. These sources were provided by SJI Archives.
 
-[^14 ]: *[St Joseph’s Magazine: Chronicle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6533040)*, 1930, 29.
+[^14]: *[St Joseph’s Magazine: Chronicle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6533040)*, 1930, 29.
 
-[^15 ]: 1931. (1993). *[Raffles College 1928–1949.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6457891)* Singapore: Alumni Affairs and Development Office. (Call no.: RSING 378.5957 RAF). According to the *[Straits Settlements blue book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)* for 1934–1939, Teo joined the civil service on February 14, 1929. His name was however not found in the establishment list for the education service for the years 1929–1933 in the *[Straits Settlements blue book.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)* See Fuan, T.Y. (2013, October 28). Teo Poh Leng. Email to the Author.
+[^15]: 1931. (1993). *[Raffles College 1928–1949.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6457891)* Singapore: Alumni Affairs and Development Office. (Call no.: RSING 378.5957 RAF). According to the *[Straits Settlements blue book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)* for 1934–1939, Teo joined the civil service on February 14, 1929. His name was however not found in the establishment list for the education service for the years 1929–1933 in the *[Straits Settlements blue book.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)* See Fuan, T.Y. (2013, October 28). Teo Poh Leng. Email to the Author.
 
-[^16 ]: *[Raffles College 1928–1949](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6457891)*, 1993; Fuan, 28 Oct 2013.
+[^16]: *[Raffles College 1928–1949](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6457891)*, 1993; Fuan, 28 Oct 2013.
 
-[^17 ]: Union notes: Magazine Committee. (1933). *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 3 (7), 62.
+[^17]: Union notes: Magazine Committee. (1933). *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 3 (7), 62.
 
-[^18 ]: Bottrall arrived in Singapore on December 8, 1933 and resigned the Johore Professor of Raffles College on October 2, 1937. See College notes. (1934, February). *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 4 (9), 48; College chronicle. (1938). *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 8 (1), 63.
+[^18]: Bottrall arrived in Singapore on December 8, 1933 and resigned the Johore Professor of Raffles College on October 2, 1937. See College notes. (1934, February). *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 4 (9), 48; College chronicle. (1938). *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 8 (1), 63.
 
-[^19 ]: English language and literature. (1935). <i>Raffles College Singapore: Calendar 1935–1936</i> (pp. 12–14). Singapore: Malaya Publishing House. (Not available in NLB holdings)
+[^19]: English language and literature. (1935). <i>Raffles College Singapore: Calendar 1935–1936</i> (pp. 12–14). Singapore: Malaya Publishing House. (Not available in NLB holdings)
 
-[^20 ]: Patke, R.S. (2009, December). Canons and questions of value in literature in english from the Malayan Peninsula. Asiatic, 3 (2), 44.
+[^20]: Patke, R.S. (2009, December). Canons and questions of value in literature in english from the Malayan Peninsula. Asiatic, 3 (2), 44.
 
-[^21 ]: See Fuan, 28 Oct 2013.	 
+[^21]: See Fuan, 28 Oct 2013.	 
 
-[^22 ]: The Singapore Teachers’ Association: Office-bearers for the year 1938. (1938, September). *[Chorus: The Journal of the Singapore Teachers’ Association,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)* 4, 90.
+[^22]: The Singapore Teachers’ Association: Office-bearers for the year 1938. (1938, September). *[Chorus: The Journal of the Singapore Teachers’ Association,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)* 4, 90.
 
-[^23 ]: Teo, P.L. (1941, November). The spider. *[Chorus: The Journal of the Singapore Teacher’s Association,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)* 7, 90.
+[^23]: Teo, P.L. (1941, November). The spider. *[Chorus: The Journal of the Singapore Teacher’s Association,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)* 7, 90.
 
-[^24 ]: Chua, J.C.H. (Interviewer). (1993, March 9). *[Oral history interview with Paul Abisheganaden.](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/1a8c8a1f-115e-11e3-83d5-0050568939ad-OHC001415_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* Transcript of recording no. 001415/48/02, p. 22. Retrieved from National Archives of Singapore website.
+[^24]: Chua, J.C.H. (Interviewer). (1993, March 9). *[Oral history interview with Paul Abisheganaden.](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/1a8c8a1f-115e-11e3-83d5-0050568939ad-OHC001415_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9)* Transcript of recording no. 001415/48/02, p. 22. Retrieved from National Archives of Singapore website.
 
-[^25 ]: Teo, P.L. (1931, September 14). Letter to Harriet Monroe, Poetry. <i>Guide to the poetry: A magazine of verse records 1895–1961.</i> Administrative files, series 1, box 25, folder 11. The special collections research center, University of Chicago.
+[^25]: Teo, P.L. (1931, September 14). Letter to Harriet Monroe, Poetry. <i>Guide to the poetry: A magazine of verse records 1895–1961.</i> Administrative files, series 1, box 25, folder 11. The special collections research center, University of Chicago.
 
-[^26 ]: Teo, P.L. (1936, January). <i>Time is past.</i> The London Mercury, 33 (195), 275.
+[^26]: Teo, P.L. (1936, January). <i>Time is past.</i> The London Mercury, 33 (195), 275.
 
-[^27 ]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 18.
+[^27]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 18.
 
-[^28 ]: <i>The London Mercury</i>, Jan 1936, p. 275.
+[^28]: <i>The London Mercury</i>, Jan 1936, p. 275.
 
-[^29 ]: Teo. P.L. (1933, Hilary Term). The learning of advancement. *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 3 (7), 4.
+[^29]: Teo. P.L. (1933, Hilary Term). The learning of advancement. *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 3 (7), 4.
 
-[^30 ]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 9.
+[^30]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 9.
 
-[^31 ]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 31.
+[^31]: *[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)*, 1937, p. 31.
 
-[^32 ]: <i>The London Mercury</i>, Jan 1936, p. 275.
+[^32]: <i>The London Mercury</i>, Jan 1936, p. 275.
 
-[^33 ]: *[Chorus: The Journal of the Singapore Teacher’s Association](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)*, Nov 1941, p. 53.
+[^33]: *[Chorus: The Journal of the Singapore Teacher’s Association](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)*, Nov 1941, p. 53.
 
-[^34 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 4.
+[^34]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 4.
 
-[^35 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 5.
+[^35]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 5.
 
-[^36 ]: Teo, P.L. (1936, Trinity Term). Prolegomena to the modern poets. *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 6 (1), 14.
+[^36]: Teo, P.L. (1936, Trinity Term). Prolegomena to the modern poets. *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, 6 (1), 14.
 
-[^37 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Trinity Term, 1936, 6 (1), 15.
+[^37]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Trinity Term, 1936, 6 (1), 15.
 
-[^38 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Trinity Term, 1936, 6 (1), 19.
+[^38]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Trinity Term, 1936, 6 (1), 19.
 
-[^39 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 5.
+[^39]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 5.
 
-[^40 ]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 6.
+[^40]: *[Raffles College Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200067716)*, Hilary Term, 1933, 3 (7), 6.
 
-[^41 ]: University of Malaya. (1963). *[The register of graduates](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413300)* (p. 49). Singapore: University of Malaya. (Call no.: RCLOS 378.595 UM)
+[^41]: University of Malaya. (1963). *[The register of graduates](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413300)* (p. 49). Singapore: University of Malaya. (Call no.: RCLOS 378.595 UM)
 
-[^42 ]: In 1934 Seow Poh Leng was also elected to be a messenger of the Straits Chinese British Association. See *[Straits Chinese and Education Policy: New officers.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341109-1.2.66)* (1934, November 9). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+[^42]: In 1934 Seow Poh Leng was also elected to be a messenger of the Straits Chinese British Association. See *[Straits Chinese and Education Policy: New officers.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341109-1.2.66)* (1934, November 9). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-[^43 ]: Lim, S.M. (2014, November 2). Email to the author. In 1924, Teo and Seow Poh Leng were both elected to be messengers of the Straits Chinese British Association. See *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341109-1.2.66)*, 9 Nov 1934, p. 12.
+[^43]: Lim, S.M. (2014, November 2). Email to the author. In 1924, Teo and Seow Poh Leng were both elected to be messengers of the Straits Chinese British Association. See *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341109-1.2.66)*, 9 Nov 1934, p. 12.
 
-[^44 ]: 許雲樵、蔡史君編. 新馬華人抗日史料: 1937–1945. 新加坡文史出版 1984.pp. 999–1000.
+[^44]: 許雲樵、蔡史君編. 新馬華人抗日史料: 1937–1945. 新加坡文史出版 1984.pp. 999–1000.
 
-[^45 ]: Archives of the Chancery of the Roman Catholic Archidiocese of Singapore. (2014, September 16). Email to the Author.
+[^45]: Archives of the Chancery of the Roman Catholic Archidiocese of Singapore. (2014, September 16). Email to the Author.
 
-[^46 ]: How S.C.B.A. was revived after the war. (1950). <i>S.C.B.A. Golden Jubilee Souvenir: 1900–1950</i> (p. 28). Singapore: S.C.B.A. Golden Jubilee Brochure Sub-Committee. (Not available in NLB holdings)
+[^46]: How S.C.B.A. was revived after the war. (1950). <i>S.C.B.A. Golden Jubilee Souvenir: 1900–1950</i> (p. 28). Singapore: S.C.B.A. Golden Jubilee Brochure Sub-Committee. (Not available in NLB holdings)
 
-[^47 ]: Literary Department. Report for Hilary Term 1934. (1934, July). *[Raffles College Union Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325486)*, 4 (10), 45. As for Teo’s interest in the intersection of poetry and music, see Teo, P.L. (1939, Trinity Term). Poetry and music - I. *[Raffles College Union Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325486)*, 9 (1), pp. 4–13; Teo, P.L. (1940–1941). Poetry and music – II. *[Raffles College Union Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325486)*, 10, pp. 5–15.
+[^47]: Literary Department. Report for Hilary Term 1934. (1934, July). *[Raffles College Union Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325486)*, 4 (10), 45. As for Teo’s interest in the intersection of poetry and music, see Teo, P.L. (1939, Trinity Term). Poetry and music - I. *[Raffles College Union Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325486)*, 9 (1), pp. 4–13; Teo, P.L. (1940–1941). Poetry and music – II. *[Raffles College Union Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325486)*, 10, pp. 5–15.
 
-[^48 ]: *[Local examination results.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300409-1.2.97)* (1930, April 9). <i>The Singapore Free Press</i>, p. 12. Retrieved from NewspaperSG.
+[^48]: *[Local examination results.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300409-1.2.97)* (1930, April 9). <i>The Singapore Free Press</i>, p. 12. Retrieved from NewspaperSG.
 
-[^49 ]: Abisheganaden, A., & Abisheganaden, J. (2014, August 15). Inteview with the Author; Chia, R. (2014, August 29). Email to the Author.
+[^49]: Abisheganaden, A., &amp; Abisheganaden, J. (2014, August 15). Inteview with the Author; Chia, R. (2014, August 29). Email to the Author.
 
-[^50 ]: United Kingdom Copyright Enquiries Service. (2014, September 22). Email to the Author.
+[^50]: United Kingdom Copyright Enquiries Service. (2014, September 22). Email to the Author.
 
-[^51 ]: While I was in Singapore, Alvin Pang shared with me an interesting anecdote about his thrilling encounter with F.M.S.R. Some years before the book was introduced on Wikipedia entry on Singapore literature in 2005, Yenping Yeo, a former NL Librarian who was tidying up NL’s old collection in the closed stacks, found the book and showed it to him.
+[^51]: While I was in Singapore, Alvin Pang shared with me an interesting anecdote about his thrilling encounter with F.M.S.R. Some years before the book was introduced on Wikipedia entry on Singapore literature in 2005, Yenping Yeo, a former NL Librarian who was tidying up NL’s old collection in the closed stacks, found the book and showed it to him.
