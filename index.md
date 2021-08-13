@@ -21,7 +21,7 @@ sections:
       subtitle: highlights
       button: Read more
       url: /vol-17/issue-2/jul-sep-2021/murals
-      image: /images/vol-17-issue-2/murals/highlights.jpg
+      image: /images/vol-17-issue-2/murals/mural%20highlight%20homepage%20520x320.jpg
       alt: Sample of murals
       description: Three large murals used to grace the walls of Paya Lebar Airport.
         Dahlia Shamsuddin has the inside story of how they came to be.
@@ -30,7 +30,7 @@ sections:
       subtitle: highlights
       button: Read more
       url: /vol-17/issue-2/jul-sep-2021/vaccinating-nation
-      image: /images/vol-17-issue-2/vaccination/Highlight.png
+      image: /images/vol-17-issue-2/vaccination/vacc%20highlight%20homepage%20520x320.jpg
       alt: sample of vaccination
       description: Ong Eng Chuan looks at how the authorities have been trying to
         vaccinate the residents of Singapore since 1819.
@@ -42,6 +42,6 @@ sections:
         Yeo discovers.
       button: Read more
       url: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
-      image: /images/vol-17-issue-2/birdpark/highlights.jpg
+      image: /images/vol-17-issue-2/birdpark/cassowary%20highlight%20homepage%20520x320.jpg
       alt: sample of JBP
 ---

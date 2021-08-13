@@ -37,7 +37,7 @@ One of the early challenges faced by the bird park was that it had to have a sig
 
 Beyond attending cocktail parties, Woon also approached ambassadors and foreign dignitaries here for help. He penned a 10-page letter to the British High Commissioner, Arthur de la Mare, listing over 350 bird species and seeking assistance in obtaining these birds from the United Kingdom. The document was first forwarded to the London Zoo, who felt that they had “already been of considerable assistance” after providing guidance and donating a number of birds and they “did not feel like that they could reasonably be expected to do more”. The London Zoo also claimed to be in dire financial straits and could not “envisage any further gifts being made”.[^9] The United Kingdom’s Wildfowl Trust were also approached but they shared the same sentiments as the London Zoo.[^10]
 
-In addition to obtaining birds, there was also the challenge of keeping them safe. On top of preventing the birds from flying away, the bird park had to deal with thefts as well. In September 1969, a rare cassowary, two peacocks and a pair of storks were actuallly stolen from the park and sold off. [^11]
+In addition to obtaining birds, there was also the challenge of keeping them safe. On top of preventing the birds from flying away, the bird park had to deal with thefts as well. In September 1969, a rare cassowary, two peacocks and a pair of storks were actually stolen from the park and sold off. [^11]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/birdpark/Cassowary.jpg)
 <div style="background-color: white;">A cassowary, like the one stolen in 1969. <i>Courtesy of Wildlife Reserves Singapore</i>.</div>
