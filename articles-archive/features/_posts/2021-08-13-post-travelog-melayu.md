@@ -37,40 +37,40 @@ Berdasarkan kepada teks-teks yang ada antara tempat-tempat pengembaraan yang ser
 Terdapat catatan kembara yang menarik ditulis dalam bentuk puisi syair, contohnya “Syair Peri Tuan Raffles Pergi ke Minangkabau” yang telah ditulis pada tahun 1818 (Raimy Che-Ross, 2003). Permulaan syair ini memberikan pembaca pengenalan tentang siapa Tuan Raffles yang pergi ke Padang dengan diiringi isterinya yakni "Madamnya yang arif buniman”. Selain itu bait-bait awal ini juga mepyentuh beberapa usahanya untuk merubah dan membuat raformasi sosial seperti membasmi perjudian dan sabung ayam di “Bangkahulu”.
 
 
-Bismillah itu permulaan baca 
-Alhamdulillah puji yang nyata 
-Berkat Muhammad Penghulu kita 
-Hatiku terbuka di dalam dada 
+	Bismillah itu permulaan baca 
+	Alhamdulillah puji yang nyata 
+	Berkat Muhammad Penghulu kita 
+	Hatiku terbuka di dalam dada 
+	
+	Inilah karangan suatu kisah 
+	Mengatur nazam syair yang indah 
+	Dari kerana berhati susah 
+	Kepada Tuan besar disandarkan madah 
 
-Inilah karangan suatu kisah 
-Mengatur nazam syair yang indah 
-Dari kerana berhati susah 
-Kepada Tuan besar disandarkan madah 
+	Inilah asalnya telah tersurat 
+	Pekerjaan Tuan Besar dijadikan Hikayat 
+	Di negeri Bangkahulu dibaikinya adat 
+	Sabung dan dadu dia-nya hemat 
 
-Inilah asalnya telah tersurat 
-Pekerjaan Tuan Besar dijadikan Hikayat 
-Di negeri Bangkahulu dibaikinya adat 
-Sabung dan dadu dia-nya hemat 
+	Sedikit lama perantaraan 
+	Tuan Besar itu hendak berjalan 
+	Serta Madamnya yang arif budiman 
+	Ke negeri Padang dia-nya kerjaan 
 
-Sedikit lama perantaraan 
-Tuan Besar itu hendak berjalan 
-Serta Madamnya yang arif budiman 
-Ke negeri Padang dia-nya kerjaan 
+	Hatta dengan Takdirullah 
+	Pekerjaannya itu dikehendak Allah 
+	Akalnya baik tangannya murah 
+	Madamnya majlis rupanya indah 
 
-Hatta dengan Takdirullah 
-Pekerjaannya itu dikehendak Allah 
-Akalnya baik tangannya murah 
-Madamnya majlis rupanya indah 
+	Belayarlah Tuan Besar dari Bangkahulu 
+	Dengan kapal namanya perahu 
+	Serta Madamnya yang baik laku 
+	Ke negeri Padang dia-nya rindu 
 
-Belayarlah Tuan Besar dari Bangkahulu 
-Dengan kapal namanya perahu 
-Serta Madamnya yang baik laku 
-Ke negeri Padang dia-nya rindu 
-
-Tuan Besar berjalan meriam berbunyi 
-Di Pulau Tikus kapal menanti 
-Kelasi berdayung tidak berhenti 
-Tiba di kapal di kasi ordi. 
+	Tuan Besar berjalan meriam berbunyi 
+	Di Pulau Tikus kapal menanti 
+	Kelasi berdayung tidak berhenti 
+	Tiba di kapal di kasi ordi. 
 
 Selain itu, terdapat juga catatan perjalanan yang seumpamanya, “Syair Perjalanan Sultan Lingga dan Yang Dipertuan 
 
@@ -78,58 +78,57 @@ Muda Riau Pergi ke Singapura dan Peri Keindahan Istana Sultan Johor Yang Amat El
 
 Sebagaimana tajuknya, syair ini menceritakan tentang perjalanan Sultan Lingga ke Singapura seperti digambarkan dalam bait-bait berikut: 
 
- Syahdan manakala bertemu sempurna 
-ketiga kapal tiadalah landa 
-beriringan di lautan sana 
-tiada didatangi suatu bencana 
+	Syahdan manakala bertemu sempurna 
+	ketiga kapal tiadalah landa 
+	beriringan di lautan sana 
+	tiada didatangi suatu bencana 
 
-Hingga sampai pukul empat 
-Singapura telah didapat 
-berlabuhlah kapal Sultan bersifat 
-di laut Teluk Belanga tempat 
+	Hingga sampai pukul empat 
+	Singapura telah didapat 
+	berlabuhlah kapal Sultan bersifat 
+	di laut Teluk Belanga tempat 
 
-Waf Borneo konon namanya 
-di situ beratur kapat ketiganya 
-kerana di situ mudah atasnya 
-menaikkan segalanya perempuan 
-ahlinya 
+	Waf Borneo konon namanya 
+	di situ beratur kapat ketiganya 
+	kerana di situ mudah atasnya 
+	menaikkan segalanya perempuan ahlinya 
 
-Kira-kira hampir pukul lima 
-Engku Khalid turun bersama 
-Tungku Said muda seksama 
-melewati kedatangan Sultan Kusuma 
+	Kira-kira hampir pukul lima 
+	Engku Khalid turun bersama 
+	Tungku Said muda seksama 
+	melewati kedatangan Sultan Kusuma 
 
-Amtener beberapa pula 
-pegawai Johor kepala 
-mengiringkan kedua Tengku terala 
-pakaian berhias sedikit tak cela 
+	Amtener beberapa pula 
+	pegawai Johor kepala 
+	mengiringkan kedua Tengku terala 
+	pakaian berhias sedikit tak cela 
 
-Kemudian dihadirkan ketika itu 
-lima betas kereta bukan suatu 
-beraturlah ia menanti di situ 
-berangkatlah Sultan usul yang tentu 
+	Kemudian dihadirkan ketika itu 
+	lima betas kereta bukan suatu 
+	beraturlah ia menanti di situ 
+	berangkatlah Sultan usul yang tentu 
 
-Bersama ayahnda bunda 
-diringkan mereka mana yang ada 
-laki perempuan tua dan muda 
-jalan berlomba kereta kuda 
+	Bersama ayahnda bunda 
+	diringkan mereka mana yang ada 
+	laki perempuan tua dan muda 
+	jalan berlomba kereta kuda 
 
-Yang dipertuan raja yang bakti 
-jalan berlomba kereta kuda 
-segala pengiringnya sama menuruti 
-beristirahat di sana bersenang hati 
+	Yang dipertuan raja yang bakti 
+	jalan berlomba kereta kuda 
+	segala pengiringnya sama menuruti 
+	beristirahat di sana bersenang hati 
 
-Sultan Lingga yang maha mulia 
-di rumah Wan Sharif tempatnya sedia 
-beserta sekalian pengiring dia 
-bersamalah tudia di situ saja 
+	Sultan Lingga yang maha mulia 
+	di rumah Wan Sharif tempatnya sedia 
+	beserta sekalian pengiring dia 
+	bersamalah tudia di situ saja 
 
-Melainkan Raja Muhammad hakimnya 
-tinggal di kapal kerajaannya 
-Raja Zainal saudara sepupunya 
-di kampung Gelam konon tempatnya 
+	Melainkan Raja Muhammad hakimnya 
+	tinggal di kapal kerajaannya 
+	Raja Zainal saudara sepupunya 
+	di kampung Gelam konon tempatnya 
 
-(hlm 10-11) 
+	(hlm 10-11) 
 
 <div style="background-color: white;">
 <br>
@@ -139,27 +138,28 @@ di kampung Gelam konon tempatnya
 
 Benua Eropah juga antara tempat menarik yang menjadi bahan catatan sebilangan travelog Melayu. Antara ciri yang menarik perhatian para penulis catatan-catatan di benua Eropah ialah tentang alam sekitarannya terutama sekali keindahan atau kelainan cuaca empat musim serta ketenangan di kawasan-kawasan pergunungan dan luar kota. Keadaan geografi yang berbeza mungkin telah memberi inspirasi kepada mereka untuk melestarikannya di dalam tulisan. Tidak keterlaluan rasanya apabila catatan-catatan ini menunjukkan sedikit kekaguman terhadap amalan menjaga alam sekitar di sana. Ini adalah antara kesan-kesan lawatan sepertl yang tertinta di dalam buku “Menggembara ka-Andalusia” (1964) oleh Harun Aminurrashid. 
 
- Pertengahan perjalanan hendak ka-Cordoba itu kita akan menempoh kawasan yang bergunung-gunung, yang ada berbatu, tetapi harnpir semua kawasan itu menjadi ladang pokok zaitun. Saya tiada melihat hutan langsung, kalau hendak dikatakan hutan ialah hutan pokok zaitun iaitu ladang zaitun yang sangat elok aturan susunan tanamannya. Mengikut keterangan orang Sepanyol sendiri, ladang zaitun itu telah beratus-ratus tahun lamanya, dan dikatakan ada yang dapat hidup lebih daripada seribu tahun. Saya lihat lading-ladang zaitun itu, mana-mana yang pokoknya telah rosak atau mati ditanam semula dengan pokok baru. Dengan sebab itu ladang zaitun itu sentiasa penuh. 
+	Pertengahan perjalanan hendak ka-Cordoba itu kita akan menempoh kawasan yang bergunung-gunung, yang ada berbatu, tetapi harnpir semua kawasan itu menjadi ladang pokok zaitun. Saya tiada melihat hutan langsung, kalau hendak dikatakan hutan ialah hutan pokok zaitun iaitu ladang zaitun yang sangat elok aturan susunan tanamannya. Mengikut keterangan orang Sepanyol sendiri, ladang zaitun itu telah beratus-ratus tahun lamanya, dan dikatakan ada yang dapat hidup lebih daripada seribu tahun. Saya lihat lading-ladang zaitun itu, mana-mana yang pokoknya telah rosak atau mati ditanam semula dengan pokok baru. Dengan sebab itu ladang zaitun itu sentiasa penuh. 
 
-(Harun Aminurrashid, Mengembara ka-Andalusia, hlm 144-145) 
+	(Harun Aminurrashid, Mengembara ka-Andalusia, hlm 144-145) 
 
 Hal yang sama tentang keindahan dan ketenangan tempat yang dilawati terutama di kawasan luar bandar terdapat di dalam travelog “Warkah Eropah” (1991) tulisan A. Samad Said dan “Kembara Sastera” (2012) nukilan Nisah Haron. Melalui pengalaman dan pengamatan mereka, pembaca dapat turut sama merasakan sesuatu yang cantik dan damai yang dikongsi penulis seperti berikut, 
 
- Pemandangan di Manchester nampaknya banyak juga yang tenang dan indah. Ada bahagian yang menyamai pemandangan rural di Perancis - barangkali sedikit kurang berwarna-warni. <i>Landscape</i> di Perancis, rasanya, lebih banyak yang direncana; <i>landscape</i>di Manchester barangkali banyak yang menjadi sendiri. Curna kambing biri-biri kelihatan lebih sering di sini - terkadang-kadang nampak seperti gumpalan kapas yang berselerak di atas hamparan permaidani hijau. Beberapa buah kampung atau pekan yang saya lalui nampaknya agak moden - tidak terasa atau tertihat iklim atau suasana medieval - kuno - seperti desa-desa di Perancis. Ini hanya mata seorang <i>tourist</i>. 
 
-(Warkah Eropah, A Samad Said hlm 139). 
+	Pemandangan di Manchester nampaknya banyak juga yang tenang dan indah. Ada bahagian yang menyamai pemandangan rural di Perancis - barangkali sedikit kurang berwarna-warni. <i>Landscape</i> di Perancis, rasanya, lebih banyak yang direncana; <i>landscape</i>di Manchester barangkali banyak yang menjadi sendiri. Curna kambing biri-biri kelihatan lebih sering di sini - terkadang-kadang nampak seperti gumpalan kapas yang berselerak di atas hamparan permaidani hijau. Beberapa buah kampung atau pekan yang saya lalui nampaknya agak moden - tidak terasa atau tertihat iklim atau suasana medieval - kuno - seperti desa-desa di Perancis. Ini hanya mata seorang <i>tourist</i>. 
 
-Sempai di pinggir tasik ini saya sungguh terpegun dan terasa seperti mahu menangis melihat keindahan tempat ini. Sesungguhnya, apabila kita menjaga alam, Tuhan akan balas dengan sebaik-baiknya. Tasiknya dan kawasan bukitnya cantik tidak tergambar oleh kata-kata. Semuanya bagai tidak terusik oleh tangan manusia. Betapa besarnya wakaf yang telah ditinggalkan oleh pengarang-pengarang seperti Beatrix Potter untuk tempat ini dinikmati oleh generasi hari ini. 
+	(Warkah Eropah, A Samad Said hlm 139). 
 
-(Kembara Sastera, Nisah Haron, hlm 13) 
+	Sempai di pinggir tasik ini saya sungguh terpegun dan terasa seperti mahu menangis melihat keindahan tempat ini. Sesungguhnya, apabila kita menjaga alam, Tuhan akan balas dengan sebaik-baiknya. Tasiknya dan kawasan bukitnya cantik tidak tergambar oleh kata-kata. Semuanya bagai tidak terusik oleh tangan manusia. Betapa besarnya wakaf yang telah ditinggalkan oleh pengarang-pengarang seperti Beatrix Potter untuk tempat ini dinikmati oleh generasi hari ini. 
+
+	(Kembara Sastera, Nisah Haron, hlm 13) 
 
 Timur Tengah merupakan sebuah lagi benua yang sering dilawati dan kemudiannya menjadi catatan kembara. Mesir, Syam (Syria), Tunisia dan Maghribi adalah antara negeri-negeri yang pernah ditulis sebagai travelog. 
 
 Paling popular sudah tentu perjalanan setiap Muslim yang digalakkan sekurang- kurangnya sekali seumur hidup iaitu perjalanan agung mengerjakan ibadat Haji. Namun, setiap pahit maung dalam perjalanan, terutama sekali semasa belum terdapat kemudahan moden, seringkali diiringi dengan rasa syukur setiap penggembara, seperti yang diungkapkan oleh Harun Aminurrashid apabila sampai ke kota suci Mekah dan melihat Kaabah, 
 
- Setelah selesai makan, kami pun dibawa oleh oang yang menjadi pandu itu masuk ke Masjidil Haram iaitu masuk dari Babus-salam. Tak dapat hendak saya katakan bagaimana detik jantung saya ketika saya memasukkan badan ke dalam masjid yang berseprah serta terpandang kepada bangunan Ka’abah tersergam hitam empat persegi di tengah-tengah masjid itu. Hanya ucapan Allahu-Akbar, Allahu-Akbar terus terpancar dari mulut saya. 
+	Setelah selesai makan, kami pun dibawa oleh oang yang menjadi pandu itu masuk ke Masjidil Haram iaitu masuk dari Babus-salam. Tak dapat hendak saya katakan bagaimana detik jantung saya ketika saya memasukkan badan ke dalam masjid yang berseprah serta terpandang kepada bangunan Ka’abah tersergam hitam empat persegi di tengah-tengah masjid itu. Hanya ucapan Allahu-Akbar, Allahu-Akbar terus terpancar dari mulut saya. 
 
-(Chatetan ka-Tanah Suchi, hlm 67) 
+	(Chatetan ka-Tanah Suchi, hlm 67) 
 
 
 Travelog-Travelog sebegini merupakan catatan perjalanan ilmu dan sering menjadi petunjuk atau panduan kepada pencinta ilmu. Catatan-catatan ini membuka pandangan pembaca kepada keadaan dan persekitaran serta gambaran sosio budaya masyarakat setempat yang dilawati. Selain itu, terdapat juga perbandingan-perbandingan yang diujarkan dan kritikan-kritikan taiam yang menuntut pembaharuan atau saranan perubahan. 
