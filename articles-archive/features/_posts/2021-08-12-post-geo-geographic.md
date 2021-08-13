@@ -4,21 +4,21 @@ date: 2021-08-12
 permalink: /articles-archive/features/permalinkgeographic
 layout: post
 ---
-
 "You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel The Mapmaker's Wad.
 
-The act of graphically representing the world around us is an early human impulse -judging from the prehistoric engravings of landscapes found in caves and rock shelters.[^2] Perhaps the earliest surviving example of a world map is a 2,600-year-old clay tablet<sup> 3</sup> dating to around 600 BCE, representing a Babylonian's view of the world. Some might debate that the tablet cannot be considered a map as it is neither drawn to scale nor does it accurately capture the geographical landscape - for example, the river Euphrates is drawn as a set of parallel lines. From a scientific perspective, this clay tablet would certainly not qualify as a map. What, then, constitutes a map?
+The act of graphically representing the world around us is an early human impulse -judging from the prehistoric engravings of landscapes found in caves and rock shelters.[^2] Perhaps the earliest surviving example of a world map is a 2,600-year-old clay tablet[^3] dating to around 600 BCE, representing a Babylonian's view of the world. Some might debate that the tablet cannot be considered a map as it is neither drawn to scale nor does it accurately capture the geographical landscape - for example, the river Euphrates is drawn as a set of parallel lines. From a scientific perspective, this clay tablet would certainly not qualify as a map. What, then, constitutes a map?
 
-According to J.B. Harley and David Woodward, editors of a multi-volume series <i>History of Cartography</i> first published in 1987, "maps are graphic representations that facilitate a spatial understanding of things, concepts, conditions, processes, or events in the human world. "<sup>4</sup> Most scholars who study maps have come to accept this definition of a map. This inclusive definition challenges the generally accepted view of maps as utilitarian, geographical and scientific, and its evolution as a move towards objective "truth". It opens up the discourse on maps as objects that combine both the visual and the textual, as shaped by their makers. Maps need not depict places that are found on our physical earth, such as cosmological maps of paradise and other worlds, nor do they have to be tangible in the way the maps in our smart phones are.
+According to J.B. Harley and David Woodward, editors of a multi-volume series <i>History of Cartography</i> first published in 1987, "maps are graphic representations that facilitate a spatial understanding of things, concepts, conditions, processes, or events in the human world. "[^4] Most scholars who study maps have come to accept this definition of a map. This inclusive definition challenges the generally accepted view of maps as utilitarian, geographical and scientific, and its evolution as a move towards objective "truth". It opens up the discourse on maps as objects that combine both the visual and the textual, as shaped by their makers. Maps need not depict places that are found on our physical earth, such as cosmological maps of paradise and other worlds, nor do they have to be tangible in the way the maps in our smart phones are.
 
-All maps are, in a sense, mental maps as they reflect not only the cultural and historical backgrounds but also the personal perspectives of their makers. This is because maps are simplified representations of space within which map-makers have to decide what details to include or exclude. Maps that claim to provide "accurate descriptions" of a place may be overstating their assertion.<sup>5</sup> Aside from reflecting the worldview of the map-maker, maps can be used to reinforce accepted values and power structures. 
+All maps are, in a sense, mental maps as they reflect not only the cultural and historical backgrounds but also the personal perspectives of their makers. This is because maps are simplified representations of space within which map-makers have to decide what details to include or exclude. Maps that claim to provide "accurate descriptions" of a place may be overstating their assertion.[^5] Aside from reflecting the worldview of the map-maker, maps can be used to reinforce accepted values and power structures. 
 
-Maps, atlases and globes are often used metaphorically to represent power (real or imagined) and domination over territories. For instance, Queen Elizabeth I has been depicted in a portrait standing on the map of the British Isles,<sup>6</sup> and in other paintings with her hand poised over a globe. In ancient China,the handing over of maps by the defeated state was a sign of submission to the victor,<sup>7</sup> and 17th-century Mughal emperor, Jahangir, was depicted in portraits as standing atop a terrestrial globe.<sup>8</sup> 
+Maps, atlases and globes are often used metaphorically to represent power (real or imagined) and domination over territories. For instance, Queen Elizabeth I has been depicted in a portrait standing on the map of the British Isles,[^6] and in other paintings with her hand poised over a globe. In ancient China,the handing over of maps by the defeated state was a sign of submission to the victor,[^7] and 17th-century Mughal emperor, Jahangir, was depicted in portraits as standing atop a terrestrial globe.[^8] 
 
 <div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\geo-geographic\Jahangir.jpg">
-		Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©
+	</div>
+Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©
 	
 Maps have a special significance in Singapore. Given the dearth of historical material on Singapore before the arrival of Stamford Raffles in 1819, pre-19th-century maps depicting the island act as important visual records of our early origins. The National Library's latest exhibition, "Land of Gold and Spices: Early Maps of Southeast Asia and Singapore", provides visitors with the unique opportunity to view these rare early maps. This exhibition is part of a larger festival of maps and mapping called "Geo|Graphic: Celebrating Maps and Their Stories" 
 
@@ -26,12 +26,14 @@ Maps have a special significance in Singapore. Given the dearth of historical ma
 
 <div style="background-color: white;">
 <br>
-<img src="\images\vol-10-issue-4\geo-geographic\Itinerarium_Sacrae_Scripturae.jpg"> 
+<img src="\images\vol-10-issue-4\geo-geographic\Itinerarium_Sacrae_Scripturae.jpg">
+	</div>
 This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves.<br><i>National Library of Singapore Collection.</i>
 	
 <div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\geo-geographic\19th_century_chart.jpg">
+	</div>
 This 19th- century chart with place names written in Bugis script is a rare example of an extant map of the region drawn by an unnamed Southeast Asian cartographer. Some early maps Of the region drawn by Europeans are believed to have been based on indigenous maps and sources. In turn, indigenous cartographic traditions were also influenced by European maps of the time. This nautical chart, believed to a pirate's map, shows heavy borrowings from Dutch maps. <i>Courtesy of Univeristy of Utrecht Library.</i>
 
 
@@ -40,11 +42,12 @@ This anchor exhibition for "Geo|Graphic" reveals how Southeast Asia was perceive
 	
 A highlight of the exhibition are several pre-1800 maps that contain names such as Cinca pula, Cingatola and Sincapura. Could these names refer to Singapore? Also on display are early printed and hand-drawn maps that identify Singapore as Old Strieghts of Sincapura, lantana, Pulo Panjang and Sincapour. Whatever the names used, these maps clearly point to Singapore's existence before 1819 and offer a glimpse into its maritime history. Another highlight are the rare hand-drawn Dutch and English maps that have been borrowed from European libraries and displayed in Singapore for the first time.
 	
-(Right) On this hand-drawn and coloured 1725 Dutch map depicting the southern part of the Malay Peninsula and the Riau archipelago, Singapore is marked as Oud Straat Sincapura [Old Strait of Singapore). The Old Strait of Singapore is the name of the maritime channel between Sentosa and Telok Blangah. <i>Courtesy Of Leiden University Library, 006-14-012.</i>
+(Right) On this hand-drawn and coloured 1725 Dutch map depicting the southern part of the Malay Peninsula and the Riau archipelago, Singapore is marked as Oud Straat Sincapura (Old Strait of Singapore). The Old Strait of Singapore is the name of the maritime channel between Sentosa and Telok Blangah. <i>Courtesy Of Leiden University Library, 006-14-012.</i>
 	
 (Left) The Dutch merchant/traveller and historian, Jan Huygen van Linschoten (1563-1611) is credited with writing a book on the navigational routes to the elusive East Indies (referring generally to India and Southeast Asia). The Portuguese, who at that time controlled the lucrative spice trade to Europe, kept such information secret. Sailing directions and accurate maps from Linschoten's book <i>Itinerario</i> (first published in 1596), later paved the way for the Dutch and British to venture to the region. This cropped detail Of a larger map from the English edition of the <i>Itinerario</i>, published in 1598, shows "Sincapura" at the tip of the Malay Peninsula. Interestingly, Linschoten's map is oriented with the east at the top. with the entire region positioned on its side. National Library of Singapore Collection.
 	
  #### **ISLAND OF STORIES: SINGAPORE MAPS**
+ 
 Do you know where "zero point" is located in Singapore? Or where the "circus" at Orchard Road was found? "Island of Stories" draws on an eclectic mix of Singapore maps that capture intriguing moments from our country's history. This exhibition, organised by NAS and NL, showcases the NAS' map collection. Accompanied by images and audiovisual elements, the exhibition weaves a multifaceted story of Singapore's past.
 	
 On display are maps that depict Singapore's farmland and soil composition; stories of the detached mole (breakwater that provides a safe protected area for smaller ships to anchor) at Marina Bay; the election fever of 1955; 3-D aerial photogrammetry; and alternative urban concepts for Singapore. 
@@ -53,12 +56,14 @@ A special Geographic Information System (GIS) developed with the Urban Redevelop
 
 <div style="background-color: white;">
 <br>
-<img src="\images\vol-10-issue-4\geo-geographic\1977_map.jpg">	
+<img src="\images\vol-10-issue-4\geo-geographic\1977_map.jpg">
+	</div>
 This 1977 map depicts the findings of the very first comprehensive soil survey of Singapore. It is still the only known officially commissioned soil map of Singapore to date. The island's central area is made of hard granite, indicated in pink. This natural feature has influenced much of the urban development on the island, with most of the construction work taking place outside this central zone made up of softer alluvium and sedimentary rocks. <i>Survey Department, National Archives of Singapore Collection.</i>
 	
 <div style="background-color: white;">
 <br>
-<img src="\images\vol-10-issue-4\geo-geographic\Island_of_Stories_Singapore_Maps.jpg">	
+<img src="\images\vol-10-issue-4\geo-geographic\Island_of_Stories_Singapore_Maps.jpg">
+	</div>
 This map, on display at "Island Of Stories: Singapore Maps" organised by NAS. shows the positions of the British (in red) and Japanese military units (in blue) on 12 and 13 February 1942. The Battle for Singapore began on 8 February and after four days of intense fighting. the Japanese forces broke through the initial British defences and captured the western half Of the island, as depicted on the map. The British eventually surrendered on 15 February 1942. Courtesy of National Archives of the <i>United Kingdom; National Archives Of Singapore Collection.</i>
 
 #### **SEA STATE 8 SEABOOK:  AN ART PROJECT BY CHARLES LIM**
@@ -67,29 +72,34 @@ seabook was conceived by artist Charles Lim as a site for the agglomeration of a
 
 <div style="background-color: white;">
 <br>
-<img src="\images\vol-10-issue-4\geo-geographic\Charles_Lim_work.jpg">	
+<img src="\images\vol-10-issue-4\geo-geographic\Charles_Lim_work.jpg">
+	</div>
 Artist Charles Lim's work, Sea Safe(2014), in progress.
 	
 This particular project is an extension of Lim's previous solo-exhibition, "In Search of Raffles' Light", held in 2013 at the National University of Singapore (NUS) Museum. Both these projects are part of Lim's body of work known as the SEA STATE series, which was first initiated in 2008 and continues with his exploration of Singapore's maritime ecology. Developed together with the librarians at NL, seabook highlights the vast amount of information and data gathered from maps, charts and newspaper clippings, as well as scholarly material grappling with the complex relationship between Singapore and the sea—from colonial times to the present day. The stories encompass the mundane-such as fishing as a livelihood, the everyday lives of island communities, regulations on the use of the sea for leisure and other purposes, as well as sea-related tragedies, including an attack on a girl by a swordfish in 1961. The exhibition, jointly organised by NUS Museums and NL, highlights the troubled relationship Singapore has with its seas and its continued undercurrents in our lives.
 	
 <div style="background-color: white;">
 <br>
-<img src="\images\vol-10-issue-4\geo-geographic\Charles_Lim_with_Janice_Loo.jpg">	
+<img src="\images\vol-10-issue-4\geo-geographic\Charles_Lim_with_Janice_Loo.jpg">
+	</div>
 Artist Charles Lim working on seabook with NL librarian, Janice Loo.
 
 <div style="background-color: white;">
 <br>
-<img src="\images\vol-10-issue-4\geo-geographic\Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">	
+<img src="\images\vol-10-issue-4\geo-geographic\Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">
+	</div>
 Close-up Of Michael Lee's Notes Towards a Museum of Cooking Pot Bay(2010-11), from his artwork, Bibliotopia.
 
 <div style="background-color: white;">
 <br>
-<img src="\images\vol-10-issue-4\geo-geographic\polystyrene_block.jpg">	
+<img src="\images\vol-10-issue-4\geo-geographic\polystyrene_block.jpg">
+	</div>
 A polystyrene block is given a textured surface in Jeremy Sharma's Outliers (2014-2015).
 
 <div style="background-color: white;">
 <br>
-<img src="\images\vol-10-issue-4\geo-geographic\Charles_Lim_with_Janice_Loo.jpg">	
+<img src="\images\vol-10-issue-4\geo-geographic\Charles_Lim_with_Janice_Loo.jpg">
+	</div>
 Stills from Sherman Ong's work, the seas will sing and the wind will carry us (Fables Of Nusantara).
 	
 #### **MIND THE GAP: MAPPING THE OTHER** 
@@ -108,13 +118,13 @@ With the help of a pulsar scientist, Sharma has been collecting and categorising
 <i>Outliers</i> contemplates the profound space-time distance the signals of dying stars travel in order to communicate their death throes.
 	
 
-#### **the seas will sing and the wind will carry us [Fables of Nusantara] by Sherman Ong**
+#### **the seas will sing and the wind will carry us (Fables of Nusantara) by Sherman Ong**
 Sherman Ong is a filmmaker, photographer and visual artist whose practice centres on the relationship between place and the human condition. In this video installation, he uses the documentary/ethnographic film genre to tell stories of migration, transborder identities, myths and memory in island Southeast Asia. The histories and contemporary stories of the region are explored through the stories of nine individuals featured in a series of video vignettes. The stories include an Acehnese living in Malaysia recounting the loss of his family in the Asian tsunami of 2004; a Peranakan (Straits Chinese) woman describing her life of servitude while waiting for the "right" man to come along; and a Chinese woman arriving in Singapore in search of a better life.
 	
 <div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
-	
+</div>
 <a href="#"><center>Back to Issue</center></a>
 
 #### **REFERENCE**
@@ -129,7 +139,7 @@ Smith, C. (1994). Prehistoric cartography in Asia. In J.B. Harley &amp; D. Woodw
 	
 Yee, C. (1994). Chinese maps in political culture. In J.B. Harley &amp; D. Woodward (Eds.), *[The History of cartography: Cartography in the traditional east and southeast Asian societies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)* (Vol. 2). Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
 	
-	#### **NOTES**
+#### **NOTES**
 
 [^1]: *Domingue*, R. (2013).*[The mapmaker’s war: Keeper of tales trilogy, Book 1](https://nlb.overdrive.com/media/3151C9AC-BD3F-429C-9CEA-F62E8D4BA82F)* (p. 286). Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL)
 	
@@ -147,4 +157,4 @@ Yee, C. (1994). Chinese maps in political culture. In J.B. Harley &amp; D. Woodw
 	
 [^8]:A miniature painting of Jahangir standing on the globe shooting at his enemy, Malik Anbar, dated 1620 is in the collection of the Chester Beatty Library. Another painting of Jahangir standing on a globe shows him embracing Shah Abbas of Iran, dated 1618 is in the collection of the Freer Gallery of Art.
 	
-[^9]:*Borschberg*, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)*. Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)</div></div></div></div></div></div></div></div></div></div></div>
+[^9]:*Borschberg*, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)*. Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
