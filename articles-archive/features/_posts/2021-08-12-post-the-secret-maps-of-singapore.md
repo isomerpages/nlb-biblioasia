@@ -47,7 +47,7 @@ Details of South Bridge Road in Chinatown as seen in <i>The Secret Map of Singap
 </div>
 A 1983 photograph of Smith Street, which is part of the Chinatown Conservation Area. <i> From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.
 
-</i><div style="background-color: white;">
+<div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\thesecretmap\South_Bridge_Road.jpg">
 </div>
@@ -192,4 +192,4 @@ Wong, S-F. (1988, July 24). [Guides to better eating.](http://eresources.nlb.gov
 
 [^17]: Blaisdell, A. (1990). <i>The secret map of Singapore</i>. Retrieved from Google site.
 
-[^18]: Blaisdell, 1990.</i>
+[^18]: Blaisdell, 1990.</i></i>
