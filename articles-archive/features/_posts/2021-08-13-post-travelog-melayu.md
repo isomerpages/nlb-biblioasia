@@ -175,6 +175,8 @@ Juffri Supa’at is a Senior Librarian with the National Library of Singapore. H
 	</div>
 <i>Warkah Eropah</i> by A. Samad Said was published in 1991 by Dewan Bahasa and Pustaka.
 
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+
 #### **Rujukan**
 A Samad Said. (1991). *[Warkah Eropah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6137066)*. Kuala Lumpur: Dewan Bahasa dan Putaska. (Call no.: Malay R 899.2305 ABD)
 
