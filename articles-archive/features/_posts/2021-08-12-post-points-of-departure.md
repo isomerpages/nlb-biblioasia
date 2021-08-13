@@ -9,12 +9,12 @@ layout: post
 **Juria Toramae** is a Singapore-based artist and Engineer. Her photographic series “Temporality” debuted at Noise Singapore's The Apprenticeship Programme exhibition in 2013. She is an irememberSG fund recipient for her collaborative project titled “Paints of Departure”. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\pointsofdeparture\ChangiTriptych_1_FP2.jpg">
 	</div>
-School excursion to Changi Point from "Points of Departure" (2014). The original photograph of school boys is in ”black and white, captioned” Form 4B picnic at Changi date 2B Nov 1 957". The artist has overlaid this image onto a more recent shot of Changi Point, &copy; <i>Juria Toramae. All rights reserved.</i> 
+School excursion to Changi Point from "Points of Departure" (2014). The original photograph of school boys is in ”black and white, captioned” Form 4B picnic at Changi date 2B Nov 1 957". The artist has overlaid this image onto a more recent shot of Changi Point, © <i>Juria Toramae. All rights reserved.</i> 
 
-When the National Library Board announced its plans to extend its outreach efforts for the Singapore Memory Project (SMP) in 2012,<sup>1</sup> the first question that sprung to my mind was: How can one relate to the shared memories of a place if the place in question no longer exists? 
+When the National Library Board announced its plans to extend its outreach efforts for the Singapore Memory Project (SMP) in 2012,[^1] the first question that sprung to my mind was: How can one relate to the shared memories of a place if the place in question no longer exists? 
 
 Memory is naturally place-oriented or, at least, place-supported as philosopher Edward S. Casey suggests. Memory is a place where “the past can revive and survive; it is a space for places, meeting them midway in its own preservative powers” - playing a “reservative”<sup>2</sup> function as Casey describes it. <sup>3</sup> Memory also relies entirely on the materiality of the trace, the immediacy of the recording and the visibility of the image, as noted by historian Pierre Nora.<sup>4</sup> Thus, in the context Of Singapore, where landscapes and places change in a heartbeat, it is not surprising, especially in recent times, to see a surge of interest in documenting the present and remembering the past. 
 
@@ -66,11 +66,11 @@ The idea of the sea being the only permanent feature in our ever-changing geogra
 Through this collaboration, we hope to create a meaningful connection with and between the memories that are very much part of who we are. It is a journey embarked on not by just the two of us but with all the people whose memories are part of the story. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\vol-10-issue-4\pointsofdeparture\The_Harbour.jpg">
 	</div>
 	
-“The Harbour” from “Temporality” (2013). The junk is constructed from a number of images from black and white archival photographs dating from the mid-1970s, which were taken at The New Harbour (present-day Keppel Harbour). It was inspired by Margaret Leong's poem “The Junk”. &copy <i>Juria Toramae. All rights reserved.</i> 
+“The Harbour” from “Temporality” (2013). The junk is constructed from a number of images from black and white archival photographs dating from the mid-1970s, which were taken at The New Harbour (present-day Keppel Harbour). It was inspired by Margaret Leong's poem “The Junk”. © <i>Juria Toramae. All rights reserved.</i> 
 
 <i>“Points Of Departure” - an exhibition of photographs, stones and installation art works - brings together the forgotten and the unfamiliar in the hope of making the past less foreign. The exhibition will take place between April and June 2015 at National Library Building and is part of Singapore’s 50th National Day celebrations. Find out more at: http://www.pointsofdeparture.sg or https://www.facebook.com/PointsOfDepartureSG 
 
@@ -86,3 +86,7 @@ Casey, E.S. (1987). Remembering: <i>A phenomenological study.</i> Bloomington: I
 Leong, M. (2011). The junk. In <i>The ice ball man and other peoms.</i> Singapore: Ethos Books. (Not available in NLB holdings)
 
 Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. <i>Representations, 26</i>, 7–25. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
+
+#### **NOTES**
+
+[^1]:See NLB to launch initiatives for Singapore Memory Project. (2012, September 5). AsiaOne. Retrieved from AsiaOne website.
