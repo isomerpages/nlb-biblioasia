@@ -148,7 +148,7 @@ The National Archives of Singapore (NAS) is the official custodian of all record
 
 <a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
-##**REFERENCE**
+#### **REFERENCE**
 
 Hall-Jones, J., &amp; Hooi, C. (1979). *[An early surveyor in Singapore: John Turnbull Thomson in Singapore 1841–1853](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082509)*. Singapore: National Museum. (Call no.: RSING 526.90924 THO)
 
@@ -158,7 +158,7 @@ Mok, L.Y. (2015). Mapping Singapore: 1819–2014. In *[Visualising space: Maps o
 
 Robinson, M., Muehrcke, K., &amp; Guptil, S.C. (Eds.). (1995). *[Elements of cartography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7213592)*. New York: John Wiley &amp; Sons. (Call no.: R 526 ELE)
 
-##**NOTE**
+#### **NOTE**
 
 [^1]: Robinson, M., Muehrcke, K., &amp; Guptil, S.C. (Eds.). (1995). *[Elements of cartography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7213592)* (p. 12). New York: John Wiley &amp; Sons. (Call no.: R 526 ELE)
 
