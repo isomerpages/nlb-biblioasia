@@ -46,7 +46,7 @@ A highlight of the exhibition are several pre-1800 maps that contain names such 
 	
 (Left) The Dutch merchant/traveller and historian, Jan Huygen van Linschoten (1563-1611) is credited with writing a book on the navigational routes to the elusive East Indies (referring generally to India and Southeast Asia). The Portuguese, who at that time controlled the lucrative spice trade to Europe, kept such information secret. Sailing directions and accurate maps from Linschoten's book <i>Itinerario</i> (first published in 1596), later paved the way for the Dutch and British to venture to the region. This cropped detail Of a larger map from the English edition of the <i>Itinerario</i>, published in 1598, shows "Sincapura" at the tip of the Malay Peninsula. Interestingly, Linschoten's map is oriented with the east at the top. with the entire region positioned on its side. National Library of Singapore Collection.
 	
- #### **ISLAND OF STORIES: SINGAPORE MAPS**
+#### **ISLAND OF STORIES: SINGAPORE MAPS**
  
 Do you know where "zero point" is located in Singapore? Or where the "circus" at Orchard Road was found? "Island of Stories" draws on an eclectic mix of Singapore maps that capture intriguing moments from our country's history. This exhibition, organised by NAS and NL, showcases the NAS' map collection. Accompanied by images and audiovisual elements, the exhibition weaves a multifaceted story of Singapore's past.
 	
