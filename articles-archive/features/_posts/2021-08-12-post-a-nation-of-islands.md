@@ -85,9 +85,9 @@ Those who remembered pointed out landmarks that are now gone, such as a well, no
 
 In the course of working on this project, we realised how interconnected the lives of the former islanders’ were and how important these islands still are to them today. Documenting their lives and what they remember of the islands is one way of capturing a slice of life that no longer exists in Singapore. 
 
-<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> [wvww.facebook.com/islandnationsg] <i>. The website</i> [www.islandnation.sg] <i>Will be launched in March 2015.</i>
+<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> wvww.facebook.com/islandnationsg <i>. The website</i> www.islandnation.sg <i>Will be launched in March 2015.</i>
 
-<i>This project was supported by the Singapore Memory Project's (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:</i> [http://www.iremember.sg/indexphp/fund-intro/]
+<i>This project was supported by the Singapore Memory Project's (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:</i> http://www.iremember.sg/indexphp/fund-intro/
 
 <div style="background-color: white;">
 <br>
@@ -95,10 +95,10 @@ In the course of working on this project, we realised how interconnected the liv
 </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0020354.jpg)
-<div style="background-color: white;">(Left and middle) An aerial photograph of Pulau Satumu, home of the Raffles Lighthouse </div>
+<div style="background-color: white;">An aerial photograph of Pulau Satumu, home of the Raffles Lighthouse </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Island_Nation_Singapore_Bukom_G0020334.jpg)
-<div style="background-color: white;">(Above) An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.</div>
+<div style="background-color: white;">An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.</div>
 
 
 <i>All images by Captured.</i> 
