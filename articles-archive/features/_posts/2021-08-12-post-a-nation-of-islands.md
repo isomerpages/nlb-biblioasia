@@ -40,7 +40,7 @@ layout: post
 
 The caretaker Da Bo Gong (Tua Pek Kong) Tample on Kusu Island - just a 20-minute boat ride from Singapore - stands astride the short flight of stairs leading to the temple's inner prayer sanctum, his eyes fixed on the jetty in the near distance. 
 
-It is the start of the ninth month Of the Chinese lunar calendar, and thousands of devotees will travel to the island temple seeking blessings 
+It is the start of the ninth month of the Chinese lunar calendar, and thousands of devotees will travel to the island temple seeking blessings 
 from Tua Pek Kong (God of Prosperity) and Guan Yin (Goddess of Mercy). 
 
 At the temple, caretaker Seet Seng Huat pauses and nods his head in the direction of a small group of men huddled at the furnace in the temple courtyard. The trio, in long sleeves and biker masks - with only their eyes visible - to protect themselves from the heat and smoke, offer to burn jos paper for devotees in return far a small donation. 
@@ -85,9 +85,9 @@ Those who remembered pointed out landmarks that are now gone, such as a well, no
 
 In the course of working on this project, we realised how interconnected the lives of the former islanders’ were and how important these islands still are to them today. Documenting their lives and what they remember of the islands is one way of capturing a slice of life that no longer exists in Singapore. 
 
-<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: wvww.facebook.com/islandnationsg. The website www.islandnation.sg Will be launched in March 2015.</i>
+<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> wvww.facebook.com/islandnationsg <i>. The website</i> www.islandnation.sg <i>Will be launched in March 2015.</i>
 
-<i>This project was supported by the Singapore Memory Project's (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to: http://www.iremember.sg/indexphp/fund-intro/ </i>
+<i>This project was supported by the Singapore Memory Project's (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:</i> http://www.iremember.sg/indexphp/fund-intro/
 
 <div style="background-color: white;">
 <br>
