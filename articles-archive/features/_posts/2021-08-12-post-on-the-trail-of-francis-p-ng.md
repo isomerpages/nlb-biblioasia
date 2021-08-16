@@ -83,13 +83,11 @@ Teo’s devotion to this modernist literary enterprise from the British colonial
 <div style="background-color: white;">Tanjong Pagar Railway Station on Keppel Road in 1932. This is where trains from Malaysia arrived and departed from Singapore. <i>Paul Yap Collection, courtesy of National Archives of Singapore. </i></div>
 
 
-#### **Who exactly was Teo Poh Leng? 
+#### **Who exactly was Teo Poh Leng?** 
 
-Why did he publish under a different name?** 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/_OXY6878.jpg)
-asd
+**Why did he publish under a different name?** 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/_OXY6878.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/The_Waste_Land.jpg)
 <div style="background-color: white;">1. A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i>. has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace &amp; Co. All rights reserved, 1997. </i> </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/Raffles_College_Magazine.jpg)
