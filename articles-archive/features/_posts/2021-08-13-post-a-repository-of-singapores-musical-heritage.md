@@ -20,11 +20,9 @@ Other special highlights include the 1967 recording of Singapore's national anth
 
 As of October 2014, the archive has amassed more than 13,000 music resources, including tracks, scores, lyrics, biographies and videos. 
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\music\local_singer.jpg">
-	</div>
-Local singer, Nicodemus Lee, performing during MusicSG’s post-launch concert held at the National Library.
+![Alt text for image on Isomer site](/images/vol-10-issue-4/music/local_singer.jpg)
+<div style="background-color: white;">Local singer, Nicodemus Lee, performing during MusicSG’s post-launch concert held at the National Library.</div>
+
 
 #### **WHAT'S NEW** 
 
@@ -38,11 +36,8 @@ The music scores of past Cultural Medallion winners such as classical musician a
 
 The new MusicSG website was officially launched on 26 September 2014. Called “MusicSG Reloaded”, the event was held at the National Library with Guest-of-Honour Minister for Culture, Community and Youth and Second Minister for Communications and Information, Lawrence Wong, and guest performer Corrinne May, who wowed the crowd with her luscious vocals. Guests included the former MusicSG Advisory Committee members, donors, local musicians, including veterans Rufino Soliano, Jacintha Ablsheganaden and Marina Xavier, as well as partner organisations. After the Launch, contemporary local artistes The Analog Girl, Jack &amp; Rai, ShiGGa Shay and Nicodemus Lee from 迷路兵 <i>(mi lu bing)</i> mesmerised crowds at the National Library’s Plaza for an evening of music and entertainment. 
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\music\ukelele.jpg">
-	</div>
-Guest performer Corrinne May presented this Custom-designed ukulele to Minister Lawrence Wong at “MusicSG Reloaded” 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/music/ukelele.jpg)
+<div style="background-color: white;">Guest performer Corrinne May presented this Custom-designed ukulele to Minister Lawrence Wong at “MusicSG Reloaded”.</div>
 
 <div style="background-color: white;">
 <br>
