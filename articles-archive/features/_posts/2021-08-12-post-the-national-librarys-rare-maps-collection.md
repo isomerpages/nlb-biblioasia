@@ -16,7 +16,7 @@ The Portuguese were the first Europeans to discover a sea route to Asia in the l
 
 The first printed maps of Southeast Asia, however, were produced by Italian and German map-makers from the late 1470s onwards - even before the Portuguese and Spanish arrived in the region. These early maps were based on Claudlus Ptolemy's <i>Geography</i>, the 2nd-century Greek astronomer's work that contained precise instructions on mapping the world. The textual instructions in <i>Geography</i> contained several fundamental errors but nevertheless continued to influence map-making for centuries despite newer discoveries.
 
-Italy and Germany played important roles in map production at the start of the Renaissance period, particularly Italy, whose coastal cities served as the midpoint between the trade routes of Europe and Asia<sup>1</sup>. However, map-making in Italy languished at the start of the 1500s (unlike in central Europe), until it was revived by the leading Italian geographer Giacoma Gastaldi in the mid-1500s. Map-making subsequently declined again in the 1800s<sup>2</sup>.
+Italy and Germany played important roles in map production at the start of the Renaissance period, particularly Italy, whose coastal cities served as the midpoint between the trade routes of Europe and Asia[^1]. However, map-making in Italy languished at the start of the 1500s (unlike in central Europe), until it was revived by the leading Italian geographer Giacoma Gastaldi in the mid-1500s. Map-making subsequently declined again in the 1800s[^2].
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Gerard_Mercator.jpg)
 <div style="background-color: white;">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.</div>
@@ -27,32 +27,24 @@ Italy and Germany played important roles in map production at the start of the R
 
 **Giacomo Gastaldi** (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula". an early, albeit, incorrect reference to Singapore as a cape.
 
-Gastaldi's later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capulal. The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the "third map" (or "Terza Tavola"), was printed in Giovanni Battista Ramusio's collection of voyages and travels.<sup>3</sup> 
+Gastaldi's later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capulal. The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the "third map" (or "Terza Tavola"), was printed in Giovanni Battista Ramusio's collection of voyages and travels.[^3] 
 
 Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore. 
 
 Note: the map is oriented with the south at the top.
 
-The period from 1570 to 1670 was known as the golden age of cartography and the Dutch were the leading map-makers of this era.<sup>4</sup> Notable Dutch cartographers during this period include Gerard Mercator, Abraham Ortelius, Willem Janszoon Blaeu and Jodocus Hondius. 
-
-Although Germany did not dominate map-making for an entire era, unlike the other European countries. German map-makers made important contributions to map-making from the 15th to 18th centuries. With the advances in printing technology in the 16th century, Germany (where the printing press was invented) became an important centre for map-making, far surpassing Italy. German map-makers also created better tools for map surveying. German map-making declined in the 17th century when Dutch map-makers became more prominent, but when the latter slowed down in the 18th century, German map-makers became active again. <sup>11</sup>
-
-The French and English were not as active in map-making as the Italians,  Germans or Dutch, although they did produce some fine maps of their own. The English started producing better quality and more accurate maps in the 18th and 19th centuries. Two of the key maps on the Singapore and Malacca Straits in the Rare Maps Collection were produced by French and English map-makers. By the start of the 17th century, Paris had become an important secondary publishing centre, rivalling those in the Netherlands, namely Antwerp and Amsterdam. Many atlases were co-published by the Dutch and French, and Dutch atlases began to be issued with French text.<sup>21</sup> The development of cartography in the Netherlands had a direct impact on map-making in Germany and France, with the map-makers from the three countries often collaborating with one another.<sup>22</sup> 
-
-Despite being the first Europeans to go on explorations, the Portuguese and Spanish did not play a significant role in the development of printed cartography. They carefully guarded their maps and charts, as well as the information collected during their voyages of discovery, particularly the sailing routes to the key trading ports in Asia. However, their manuscript charts "remained the sole cartographical source for the New World and the East Indies" and was the basis for many of the maps created by the other European cartographers during the 16th century.<sup>24</sup> The other Europeans managed to smuggle the information out from these secret archives and began printing maps of Southeast Asia based on the new discoveries.
-
-The National Library's collection of rare maps is an important source for the study of early cartography of the region, as well as the development of European mapping of Southeast Asia, a region whose early European names included East Indies, Indiae Orientalis, East Indian Islands and Further India (India Extrema). These maps are also useful for those researching early Malayan cartography as they contain some of the earliest references to Singapore and the Malay Peninsula.
+The period from 1570 to 1670 was known as the golden age of cartography and the Dutch were the leading map-makers of this era.[^4] Notable Dutch cartographers during this period include Gerard Mercator, Abraham Ortelius, Willem Janszoon Blaeu and Jodocus Hondius. 
 
 
-**Abraham Ortelius** (1527-98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.<sup>5</sup> 
+**Abraham Ortelius** (1527-98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5] 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Abraham_Ortelius_by_Peter_Paul_Rubens.jpg)
 <div style="background-color: white;">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i></div>
 
 
-Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island Of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula. 
+Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula. 
 
-Below Java, at the southern end of the map, a part of Terra Australis Incognita is evident. Labelled as pars continentis Australis. its northern tip is called Beach, due to 16th-century map-makers misreading Marco Polo's description of Locach, a southern kingdom thought to be filled with gold that he wrongly located below Java. Based on early records, Beach or Locach was probably the name of a place in Cambodia. <sup>6</sup> 
+Below Java, at the southern end of the map, a part of Terra Australis Incognita is evident. Labelled as pars continentis Australis. its northern tip is called Beach, due to 16th-century map-makers misreading Marco Polo's description of Locach, a southern kingdom thought to be filled with gold that he wrongly located below Java. Based on early records, Beach or Locach was probably the name of a place in Cambodia. [^6]
 
 First produced in 1570, Ortelius' atlas was reprinted in various European languages.
 
@@ -60,24 +52,28 @@ First produced in 1570, Ortelius' atlas was reprinted in various European langua
 <div style="background-color: white;"><i>Indiae orientalis, insularumque adiacientium typus,</i> Abraham Ortelius (Antwerp, 1579)</div>
 
 
-**Theodore de Bry** (1528-98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.<sup>7</sup> 
+**Theodore de Bry** (1528-98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.[^7]
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Theodor_de_Bry_self_portrait_1597.jpg)
 <div style="background-color: white;">A portrait of Theodore de Bry. <i>Wikimedia Commons</i></div>
 
 
-He is famous for compiling a well- illustrated collection of voyages and travels to the East and West Indies. which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.<sup>8</sup>
+He is famous for compiling a well- illustrated collection of voyages and travels to the East and West Indies. which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.[^8]
 
-De Bry's map is based on Willem Lodewijcksz's 1598 map. Lodewijcksz was part of the first Dutch voyage to Southeast Asia under the command of Cornelis de Houtman from 1595 to 1597.Lodewijcksz's map charted the Southeast Asian region in detail, including the Malacca and Sunda Straits, and was one of the first maps to focus on the areas around the Malay Peninsula.<sup>9</sup> 
+De Bry's map is based on Willem Lodewijcksz's 1598 map. Lodewijcksz was part of the first Dutch voyage to Southeast Asia under the command of Cornelis de Houtman from 1595 to 1597.Lodewijcksz's map charted the Southeast Asian region in detail, including the Malacca and Sunda Straits, and was one of the first maps to focus on the areas around the Malay Peninsula.[^9]
 
 While the Malay Peninsula is called Chersonese Aurea, an old Ptolemaic name depicting it as a land of gold. Singapore is once again erroneously identified as a cape at the eastern end of the peninsula. The map also features the northern coast of Java in greater detail. 
 
 Interestingly, the map depicts a trans-peninsular waterway bisecting the Malay Peninsula at its southern tip. This river channel with the Muar River at the western end and the Pahang River at the eastern end was used as an overland trade route. Several maps from the 16th century to the second decade of the 17th century also contain this unique feature. De Bry's map clearly marks the rivers on each side as R. Farmeso and Muar R.
 
-Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.<sup>10</sup>
+Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Nova_tabula.jpg)
 <div style="background-color: white;"><i>Nova tabula insularum lavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula lava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> | G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>
+
+Although Germany did not dominate map-making for an entire era, unlike the other European countries. German map-makers made important contributions to map-making from the 15th to 18th centuries. With the advances in printing technology in the 16th century, Germany (where the printing press was invented) became an important centre for map-making, far surpassing Italy. German map-makers also created better tools for map surveying. German map-making declined in the 17th century when Dutch map-makers became more prominent, but when the latter slowed down in the 18th century, German map-makers became active again. [^11]
+
+The French and English were not as active in map-making as the Italians,  Germans or Dutch, although they did produce some fine maps of their own. The English started producing better quality and more accurate maps in the 18th and 19th centuries. Two of the key maps on the Singapore and Malacca Straits in the Rare Maps Collection were produced by French and English map-makers. 
 
 
 **Sebastian Münster** (1489—1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century.
@@ -102,9 +98,9 @@ The shape of the Malay Peninsula is much improved, with only the city of Malaqua
 <div style="background-color: white;">Portrait of Samuel Thornton by Karl Anton Hickel.<i>Collection of Bank of England</i>.</div>
 
 
-Samuel Thornton took over his brother's business in 1706 and re-issued the charts under his own name. The above chart is from Samuel Thornton's re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island Of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea pas- sage rather than to the island or city. 
+Samuel Thornton took over his brother's business in 1706 and re-issued the charts under his own name. The above chart is from Samuel Thornton's re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea pas- sage rather than to the island or city. 
 
-European maps and charts Of the 16th and 17th centuries tended to call Singapore by various names and depicted it either as a port, or city, an island, one of the four straits, a cape or promontory, or as the entire southern portion of the Malay Peninsula. <sup>19</sup>
+European maps and charts of the 16th and 17th centuries tended to call Singapore by various names and depicted it either as a port, or city, an island, one of the four straits, a cape or promontory, or as the entire southern portion of the Malay Peninsula. <sup>19</sup>
 
 Thornton's chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.
 
@@ -115,7 +111,7 @@ Thornton's chart, oriented with north to the right, is one of the first English 
 
 The Singapore Straits that connected the Indian Ocean to the South China Sea was an important trade route. What was collectively referred to as the Singapore Straits was actually four maritime arteries (namely the Old Strait, New Strait, Governor's Strait and the Johor Strait) that were often called by various names and mistaken for one another. 
 
-One of the maps in the collection that perpetuates this confusion is Bellin's map, which depicts the Johor Strait as the Old Strait of Singapore (Vieux Detroit de Sincapour). The Johor Strait (Selat Tubrau in Portuguese or Selat Tebrau in Malay) refers to the narrow channel between the Malay Peninsula and Singapore. It was Often marked as the "Old Strait of Singapore" in late 17th and 18th century maps. Strangely, Bellin's map shows two islands in the Johor Strait — Salat Buro and Joor. Johor Strait was also known as Salatburo or Salat Tubro. 
+One of the maps in the collection that perpetuates this confusion is Bellin's map, which depicts the Johor Strait as the Old Strait of Singapore (Vieux Detroit de Sincapour). The Johor Strait (Selat Tubrau in Portuguese or Selat Tebrau in Malay) refers to the narrow channel between the Malay Peninsula and Singapore. It was often marked as the "Old Strait of Singapore" in late 17th and 18th century maps. Strangely, Bellin's map shows two islands in the Johor Strait — Salat Buro and Joor. Johor Strait was also known as Salatburo or Salat Tubro. 
 
 Bellin's map recommends the sea passage through the Singapore Strait for vessels that could sail through the Old Strait and return via the New Strait. However, Bellin's map erroneously identifies the Old Strait as "Nouveau Detroit de Sincapour" (New Strait of Singapore) and the New Strait as "Detroit du Gouverneu" (Governor's Strait). 
 
@@ -128,12 +124,20 @@ Bellin's map depicts Singapore island in an unrecognisable shape and calls it "P
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/depicting_asian_people.jpg)
 <div style="background-color: white;">Part of the title cartouche depicting Asian peoples taken from the Covens &amp; Mortier's 1730 map pictured on the opposite page.</div>
 
-**Covens &amp; Mortier** was a successful map printing and publishing firm in Amsterdam, based on the successful business started by Cornelis Mortier's father, Pierre Mortier. in Paris in the late 17th century. The firm re-issued the maps of several European map-makers until its closure in 1866.<sup>23</sup>
+
+By the start of the 17th century, Paris had become an important secondary publishing centre, rivalling those in the Netherlands, namely Antwerp and Amsterdam. Many atlases were co-published by the Dutch and French, and Dutch atlases began to be issued with French text.[^21] The development of cartography in the Netherlands had a direct impact on map-making in Germany and France, with the map-makers from the three countries often collaborating with one another.[^22]
+
+
+**Covens &amp; Mortier** was a successful map printing and publishing firm in Amsterdam, based on the successful business started by Cornelis Mortier's father, Pierre Mortier. in Paris in the late 17th century. The firm re-issued the maps of several European map-makers until its closure in 1866.[^23]
 
 This wall map shows the trade route from Siam to Batavia and then to Europe through the Sunda Straits. By the mid-17th century, the Dutch East India Company had established a trading post in Siam. This map has illustrations of ships, animals and an elaborate title cartouche that features the various natives of Asia. Maps in the 18th century, besides being a source of geographical information, were also becoming important as collectors' items. Hence, the use of decorative features was more prominent during this time.
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Sincapour.jpg)
 <div style="background-color: white;">L'Asie dressée sur les observations de M.rs de ('Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L'Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp; c. &amp;c.a donneé au public &amp; sur les memoires les plus recens et mis au jour, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</div>
+
+Despite being the first Europeans to go on explorations, the Portuguese and Spanish did not play a significant role in the development of printed cartography. They carefully guarded their maps and charts, as well as the information collected during their voyages of discovery, particularly the sailing routes to the key trading ports in Asia. However, their manuscript charts "remained the sole cartographical source for the New World and the East Indies" and was the basis for many of the maps created by the other European cartographers during the 16th century.[^24] The other Europeans managed to smuggle the information out from these secret archives and began printing maps of Southeast Asia based on the new discoveries.
+
+The National Library's collection of rare maps is an important source for the study of early cartography of the region, as well as the development of European mapping of Southeast Asia, a region whose early European names included East Indies, Indiae Orientalis, East Indian Islands and Further India (India Extrema). These maps are also useful for those researching early Malayan cartography as they contain some of the earliest references to Singapore and the Malay Peninsula.
 
 
 **Makeswary Periasamy** is a Senior Librarian with the National Library of Singapore. She selects and acquires rare materials for the National Library and also overseas the map collections of the library. Makeswary has several years of experience in cataloguing, heritage collections management, reference and research, as well as in managing large-scale preservation projects.
