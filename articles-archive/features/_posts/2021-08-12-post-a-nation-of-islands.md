@@ -4,66 +4,39 @@ date: 2021-08-12
 permalink: /articles-archive/features/permalinknoi
 layout: post
 ---
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\StJohn_KenanganManis_CA34821.jpg">
-	</div>
-1.Students from the St John's Island English School take a group photograph with their teacher Mr Choo Huay Kim at the same place where they had their flag-raising ceremony every morning in the early 1970s. 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg)
+<div style="background-color: white;">1.Students from the St John's Island English School take a group photograph with their teacher Mr Choo Huay Kim at the same place where they had their flag-raising ceremony every morning in the early 1970s.</div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\StJohn_KenanganManis_CA34961.jpg">
-	</div>
-2.More than 70 former islanders and their family members returned to the islands of Sekijang Bendera (St John) and Sekijang Pelepah (Lazarus) for a walk down memory lane on Sunday, 9 November 2014. This photograph was taken outside a home that is now used as a chalet for the public. 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34961.jpg)
+<div style="background-color: white;">2.More than 70 former islanders and their family members returned to the islands of Sekijang Bendera (St John) and Sekijang Pelepah (Lazarus) for a walk down memory lane on Sunday, 9 November 2014. This photograph was taken outside a home that is now used as a chalet for the public. </div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\MdmBedah_Stjohn_CA34927.jpg">
-	</div>
-3.Mdm Bedah bte Din, 76, swims joyfully in the waters off St John Island, once known as Pulau Sekijang Bendera during the recent reunion of former islanders of that cluster. 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/MdmBedah_Stjohn_CA34927.jpg)
+<div style="background-color: white;">3.Mdm Bedah bte Din, 76, swims joyfully in the waters off St John Island, once known as Pulau Sekijang Bendera during the recent reunion of former islanders of that cluster. </div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\Mustari_and_son.jpg">
-	</div>
-4.Mustari Dimu (centre), 92, with his son Sardon Mustari (left), 65, and Hazwari Abdul Wahid, 23, at the Da Bo Gong (Tua Pek Kong) Temple on Kusu Island. Photographed near the temple furnace, they help to burn joss paper during the peak season. 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Mustari_and_son.jpg)
+<div style="background-color: white;">4.Mustari Dimu (centre), 92, with his son Sardon Mustari (left), 65, and Hazwari Abdul Wahid, 23, at the Da Bo Gong (Tua Pek Kong) Temple on Kusu Island. Photographed near the temple furnace, they help to burn joss paper during the peak season. </div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\StJohn_CA30014.jpg">
-	</div>
-5.On St John's Island, Mohamed Sulih Bin Supian - born and bred on the island - and his wife Fuziyah use the space in front of their home to cook rice dumplings known as <i>ketupat</i> in preparation for Hari Raya Aidilfitri. He has special permission to live on the island.
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_CA30014.jpg)
+<div style="background-color: white;">5.On St John's Island, Mohamed Sulih Bin Supian - born and bred on the island - and his wife Fuziyah use the space in front of their home to cook rice dumplings known as <i>ketupat</i> in preparation for Hari Raya Aidilfitri. He has special permission to live on the island.</div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\StJohn_CA30074.jpg">
-	</div>
-6.Mohamed Sulih Bin Supian uses an electric bike to get around the island. Here he and his wife make their way to the St John's Island jetty to visit their children in time for Hari Raya Aidilfitri celebrations. 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_CA30074.jpg)
+<div style="background-color: white;">6.Mohamed Sulih Bin Supian uses an electric bike to get around the island. Here he and his wife make their way to the St John's Island jetty to visit their children in time for Hari Raya Aidilfitri celebrations. </div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\StJohn_CA34740.jpg">
-	</div>
-7.A man returning from his fishing trip on St John's Island. 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_CA34740.jpg)
+<div style="background-color: white;">7.A man returning from his fishing trip on St John's Island.</div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\StJohn_KenanganManis_CA34685.jpg">
-	</div>
-8.Hashim Daswan. Sg. briefs his fellow former islanders during their visit to the southern islands on 9 November 2014.
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34685.jpg)
+<div style="background-color: white;">8.Hashim Daswan. Sg. briefs his fellow former islanders during their visit to the southern islands on 9 November 2014.</div>
+ 
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\SoccerBoys.jpg">
-	</div>
-9.The St John's Island English School football team stand in front of the building where they once studied. This team went on to win the 1972 National Schools football tournament, led by their coach and teacher Choo Huay Kim (standing, far right). 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/SoccerBoys.jpg)
+<div style="background-color: white;">9.The St John's Island English School football team stand in front of the building where they once studied. This team went on to win the 1972 National Schools football tournament, led by their coach and teacher Choo Huay Kim (standing, far right). </div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\Seet_Seng_Huat.jpg">
-	</div>
-10.Seet Seng Huat is the current caretaker of the Da Bo Gong (Tua Pek Gong) Temple of Kusus Island.
-<i>All photos by Edwin Koo.</i>
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Seet_Seng_Huat.jpg)
+<div style="background-color: white;">10.Seet Seng Huat is the current caretaker of the Da Bo Gong (Tua Pek Gong) Temple of Kusus Island.
+
+<i>All photos by Edwin Koo.</i></div>
+
 
 The caretaker Da Bo Gong (Tua Pek Kong) Tample on Kusu Island - just a 20-minute boat ride from Singapore - stands astride the short flight of stairs leading to the temple's inner prayer sanctum, his eyes fixed on the jetty in the near distance. 
 
@@ -121,17 +94,12 @@ This project was supported by the Singapore Memory Project's (SMP) irememberSG F
 <img src="\images\vol-10-issue-4\nationofisland\Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0010201.jpg">
 </div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0020354.jpg">
-</div>
-(Left and middle) An aerial photograph of Pulau Satumu, home of the Raffles Lighthouse 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0020354.jpg)
+<div style="background-color: white;">(Left and middle) An aerial photograph of Pulau Satumu, home of the Raffles Lighthouse </div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\Island_Nation_Singapore_Bukom_G0020334.jpg">
-	</div>
-(Above) An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu. 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Island_Nation_Singapore_Bukom_G0020334.jpg)
+<div style="background-color: white;">(Above) An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.</div>
+
 
 <i>All images by Captured.</i> 
 
