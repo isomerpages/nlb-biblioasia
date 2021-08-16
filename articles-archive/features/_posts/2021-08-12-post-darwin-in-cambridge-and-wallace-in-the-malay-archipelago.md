@@ -9,11 +9,8 @@ layout: post
 ##### **DARWIN IN CAMBRIDGE**
 This article is based on the talk <i>“Darwin and Wallace” given by Dr John van Wyhe as part of the National Library's Prominent Speaker Series. Held on 31 July 2014 at the National Library Building, the talk was based on two of Dr van Wyhe’s recent books:</i> Charles Darwin in Cambridge: The Most Joyful Years and Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin. 
 
- <div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\darwinandwallace\Charles_Darwin.jpg">
-	</div>
-Photograph of Charles Darwin, 1854
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Charles_Darwin.jpg)
+<div style="background-color: white;">Photograph of Charles Darwin, 1854.</div>
 
 Charles Darwin and Alfred Russel Wallace are best remembered as the co-proposers of the theory of evolution by natural selection. Now, over 150 years later, evolution is the foundation of the life sciences and more. It is no wonder that Darwin and Wallace remain some of the most important figures in the history of science. Yet, despite all that has been written about them over the years, historical research is still turning up surprising new findings about their lives, their science, and how they came to change our understanding of life on earth forever. 
 
@@ -26,11 +23,8 @@ Charles Darwin (1809—1882) is one of the most intensely studied scientists in 
 
 Darwin entered the books as an undergraduate student at Christ's College, Cambridge, on 15 October 1827, but as he had forgotten most of his schoolboy Greek he had to be tutored at home before entering Cambridge. (Why this mattered is explained in <i>Darwin in Cambridge; The Most Joyful rears.</i>[^2]) This meant he did not arrive in Cambridge until January 1828 - and by then all the rooms in the college were filled. So he took lodgings above the tobacconist shop across the street. The owner had an arrangement with Christ's College so that its students could rent rooms there, though this sometimes led to complaints. For instance, the shop owner across the street from the tobacconist would complain to the Master of the College that students kept knocking the hats off unwary passers-by along the street by flicking a long horsewhip from their first floor windows. 
 
- <div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\darwinandwallace\Alfred_Russel_Wallace.jpg">
-	</div>
-	Alfred Russel Wallace in Singapore in 1862. Merchant, James ed. 1916.<i>Alfred Ruessel Wallace and Reminiscences.</i>
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Alfred_Russel_Wallace.jpg)
+<div style="background-color: white;">	Alfred Russel Wallace in Singapore in 1862. Merchant, James ed. 1916.<i>Alfred Ruessel Wallace and Reminiscences.</i></div>
 	
 For many years it has been repeated that Darwin was a theology student at Cambridge. This is not true. There was no such undergraduate degree. Instead, Darwin was registered for an ordinary Bachelor of Arts (BA) degree. It was his intention to become a clergyman, but such training could take place only after receiving the prerequisite B.A. In the end, Darwin never undertook any divinity training. 
 
@@ -50,29 +44,18 @@ Darwin’s interests in science became a lifelong passion. He read the scientifi
 
 Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, from whom Darwin learned a great deal about scientific method. The two became such good friends that college dons who had not met Darwin referred to him as “the man who walks with Henslow.”[^5] Darwin also studied other branches of natural science in his own time as the university then offered little instruction in science. He eventually learned the basics of a wide range of current fields. In 1831, he successfully completed his exam to gain his B.A. degree. Darwin later recalled, “Upon the whole, the three years I spent at Cambridge were the most joyful of my happy life.”[^6] It was Henslow who would shortly thereafter recommend Darwin for the post of naturalist on HMS <i>Beagle</i> on a voyage around the world.[^7] The Rest, as they say, is history. 
 
- <div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\darwinandwallace\cambridge_graduate_1.jpg">
-	</div>
-(Top left) A Cambridge graduate in the 1820s sporting the latest fashion - trousers (instead of knee breeches)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/cambridge_graduate_1.jpg)
+<div style="background-color: white;">(Top left) A Cambridge graduate in the 1820s sporting the latest fashion - trousers (instead of knee breeches)</div>
+	
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Christs_Ackermann.jpg)
+<div style="background-color: white;">(Left) Christ's College, Cambridge, where Darwin spent his undergraduate years. </div>
 
- <div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\darwinandwallace\Christs_Ackermann.jpg">
-	</div>
-(Left) Christ's College, Cambridge, where Darwin spent his undergraduate years. 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Darwin_room.jpg)
+<div style="background-color: white;">(Above) Restoration of Darwin's room at Christ's College Was completed in 2009. He lived here from 1828-1831.</div>
 
- <div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\darwinandwallace\Darwin_room.jpg">
-	</div>
-(Above) Restoration of Darwin's room at Christ's College Was completed in 2009. He lived here from 1828-1831 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large.jpg)
+<div style="background-color: white;">(Below) <i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. Published by World Scientific Publishing Co. 2013.</div>
 
- <div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\darwinandwallace\Dispelling_the_darkness_cover_large.jpg">
-	</div>
-(Below) <i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. Published by World Scientific Publishing Co. 2013 
 
 **IN SEARCH OF THE HISTORICAL WALLACE** 
 
@@ -94,11 +77,7 @@ After a series of underpaying jobs, Wallace set out for the Amazon valley in 184
 
 Undaunted, Wallace prepared for another collecting expedition, this time to the Malay Archipelago; what is now Singapore, Malaysia, Indonesia and East Timor. With the help of government money for his ticket, Wallace arrived in the bustling entrepôt of Singapore on 18 April 1854. 
 
-Over the next eight years Wallace made dozens of expeditions. His voyage correspondence was recently published, which 
-
-together with his illuminating book <i>The 
-
-Malay Archipelago</i> (1869), paints a rich picture of the peoples and nature of the 1850s and 1860s.[^9] Ultimately Wallace's collection totalled 125,660 specimens 01 insects, birds, shells and mammals. In inflated versions of the story, Wallace painstakingly collected all of these specimens himself. But recent historical research has revealed that Wallace employed more than 30 fulltime assistants to aid him in his task, one of whom, Charles Allen and his own assistants, collected about 40,000 specimens.[^10] Altogether, Wallace's assistants, particularly a Malay lad named Ali from Sarawak, probably collected more than half of the total number. 
+Over the next eight years Wallace made dozens of expeditions. His voyage correspondence was recently published, which together with his illuminating book <i>The Malay Archipelago</i> (1869), paints a rich picture of the peoples and nature of the 1850s and 1860s.[^9] Ultimately Wallace's collection totalled 125,660 specimens 01 insects, birds, shells and mammals. In inflated versions of the story, Wallace painstakingly collected all of these specimens himself. But recent historical research has revealed that Wallace employed more than 30 fulltime assistants to aid him in his task, one of whom, Charles Allen and his own assistants, collected about 40,000 specimens.[^10] Altogether, Wallace's assistants, particularly a Malay lad named Ali from Sarawak, probably collected more than half of the total number. 
 
 In 1855, while staying in Sarawak, Wallace wrote his first theoretical paper on species: “On the law which has regulated the introduction of new species.” In heroic accounts of Wallace, the paper is represented as if it was the first to have outlined the modern theory of evolution minus only the “mechanism” of natural selection. 
 
@@ -126,17 +105,11 @@ The following year, Darwin published a condensed version of his 20 years of work
 
 On his return to Britain in 1862, Wallace was no longer an obscure collector. He had become a well-known player in the scientific community. His reputation was forever linked with Darwin because of his own independent discovery. This no doubt helped the acceptance of Darwin’s book. Wallace was a great naturalist and a pioneer of the study of the biodiversity of Southeast Asia. He continues to inspire biologists and conservationists to this day. But he was not a dupe or a victim. Only proper historical method allows us to uncover the truth about the past and dispel the darkness of conspiracy theories or plain wishful thinking. 
 
- <div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\darwinandwallace\wallace_assistant.jpg">
-	</div>
-(Top left) Wallace's faithful Malay assistant Ali. 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/wallace_assistant.jpg)
+<div style="background-color: white;">(Below) <i>(Top left) Wallace's faithful Malay assistant Ali.</i> </div>
 
- <div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\darwinandwallace\Red_bird_paradise.jpg">
-	</div>
-(Left) The Red Bird of Paradise of New Guinea. This was what Wallace went to search for in 1858 in Ternate, Indonesia. 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Red_bird_paradise.jpg)
+<div style="background-color: white;">(Left) The Red Bird of Paradise of New Guinea. This was what Wallace went to search for in 1858 in Ternate, Indonesia. </div>
 
 
 **Dr John van Wyhe** is a historian of science at the National University of Singapore who specialises in Darwin and Wallace. For several years a Bye-Fellow of Christ's College, Cambridge, he is also the Director of Darwin Online and Wallace Online and the author of 10 books and numerous articles on the history of science. 
