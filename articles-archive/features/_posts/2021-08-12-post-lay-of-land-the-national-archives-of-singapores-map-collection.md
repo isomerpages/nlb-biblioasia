@@ -12,14 +12,14 @@ Kevin Khoo is an archivist at the National Archives of Singapore. His interests 
 <div style="background-color: white;">Illustration of entrance to Singapore's harbour in 1860. <i>Nineteenth Century Prints of Singapore (Plate 37. Notes p. 98), National Museum of Singapore, 1987.</i></div>
 
 
-Among the various records under the care of the National Archives of Singapore (NAS) is a collection Of some 10,000 maps that originate primarily from three government agencies - the Survey Division of the Singapore Land Authority (SLA), whose beginnings trace back to the Straits Settlements Survey Department formed in the mid-19th century; the Singapore Armed Forces Mapping Unit (SAFMU) formed in 1970; and the Maritime port Authority (MPA) established in 1996 and its predecessor the Port of Singapore Authority (PSA; formed in 1964). The collection also contains copies Of maps of Singapore acquired from overseas archives, notably the National Archives of the United Kingdom (NAUK) and the British Library, as well as maps from various private collectors. 
+Among the various records under the care of the National Archives of Singapore (NAS) is a collection of some 10,000 maps that originate primarily from three government agencies - the Survey Division of the Singapore Land Authority (SLA), whose beginnings trace back to the Straits Settlements Survey Department formed in the mid-19th century; the Singapore Armed Forces Mapping Unit (SAFMU) formed in 1970; and the Maritime port Authority (MPA) established in 1996 and its predecessor the Port of Singapore Authority (PSA; formed in 1964). The collection also contains copies of maps of Singapore acquired from overseas archives, notably the National Archives of the United Kingdom (NAUK) and the British Library, as well as maps from various private collectors. 
 
 The maps in the NAS collection fall into the following broad categories:
 
 
 #### **GENERAL REFERENCE MAPS**
 
-These maps show a variety of different physical features at a given location, such as coastlines, water bodies, vegetation, hills and mountains, roads, commercial, industrial, residential and recreational areas. These maps comprise two types: small-scale, covering large geographical areas such as whole countries or regions, or large-scale, covering a small geographical area but providing more detail on local physical features.[^1] The general reference maps in the NAS collection include maps of Asia and Southeast Asia, maps Of Singapore town and island, various street maps and district or precinct maps. There are presently around 3,800 general reference maps in the NAS collection. 
+These maps show a variety of different physical features at a given location, such as coastlines, water bodies, vegetation, hills and mountains, roads, commercial, industrial, residential and recreational areas. These maps comprise two types: small-scale, covering large geographical areas such as whole countries or regions, or large-scale, covering a small geographical area but providing more detail on local physical features.[^1] The general reference maps in the NAS collection include maps of Asia and Southeast Asia, maps of Singapore town and island, various street maps and district or precinct maps. There are presently around 3,800 general reference maps in the NAS collection. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1954_Map_of_SG_Town_Kallang_Bugis_Geylang.jpg)
 <div style="background-color: white;">General Reference Map: A section from a six-part large-scale map, “Map of Singapore City, 1965”, covering Bugis, Kallang and Geylang.<i>Survey Department, courtesy of National Archives of Singapore.</i></div>
@@ -43,14 +43,14 @@ Cadastral maps are drawn up by state land-use authorities to document and demarc
 These are sea navigation charts used by mariners to sail through open or near-shore waters. Such charts display features such as soundings (the depth of water at a given location), shoal waters. lights, key landmarks such as lighthouses and buoys. harbour approaches and anchorages, a compass rose to orientate the map and other information to aid navigation. Such maps are termed "charts" as they are not only meant to be looked at, but are also used as working material to be marked up by navigators in the course of their work. There are presently about 700 hydrographic charts in the NAS collection. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/20120001543_021_HC000528.jpg)
-<div style="background-color: white;">Hydrographic Chart: A modern hydrographic chart for small-craft navigating the waters around Singapore. Batam and Bintan islands. 1993. <i>Port of Singapore Authority. courtesy Of National Archives of Singapore. </i></div>
+<div style="background-color: white;">Hydrographic Chart: A modern hydrographic chart for small-craft navigating the waters around Singapore. Batam and Bintan islands. 1993. <i>Port of Singapore Authority. courtesy of National Archives of Singapore. </i></div>
 
 
 #### **THEMATIC MAPS**
 These are special purpose maps typically overlaid with details specific to the concerns of the user, for example, mining, urban and transportation planning, soil and environmental information, flood and disease control, and military planning. NAS has a small collection of less than a hundred of such maps. However, many more thematic maps can be found embedded within archived government reports, files and publications where they are frequently used as supporting and illustrative documents. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/Mileage_Along_Roads.jpg)
-<div style="background-color: white;">Thematic Map: "Singapore. Mileages Along Roads" was printed by the Federated Malay States Survey Department in 1936. This map measured the distance Of key landmarks and districts across Singapore island. using the General Post Office in the Fullerton Building at Empress Place as its "zero-point". <i>Survey Department, courtesy Of National Archives of Singapore. </i></div>
+<div style="background-color: white;">Thematic Map: "Singapore. Mileages Along Roads" was printed by the Federated Malay States Survey Department in 1936. This map measured the distance of key landmarks and districts across Singapore island. using the General Post Office in the Fullerton Building at Empress Place as its "zero-point". <i>Survey Department, courtesy of National Archives of Singapore. </i></div>
 	
 
 #### **GEOGRAPHICAL VARIETY **
@@ -58,7 +58,7 @@ These are special purpose maps typically overlaid with details specific to the c
 The vast majority of maps in the NAS collection (numbering over 8,000) are geographic maps of Singapore. These include maps of the island of Singapore and its surrounding waters, and of particular areas and districts of the island. notably the heavily populated town centre as well as outlying precincts like Katong, Jurong and Changi. In addition, the collection contains about 900 maps of Malaya dating to pre-1963. These maps illustrate the Malayan Peninsula, the seas around it and specific places such as the capital Kuala Lumpur and major towns such as Penang, Malacca and Johor. A small number of maps of Southeast Asia and wider Asia are also part of this collection. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1953_Malaya_Land_Allocation_Map.jpg)
-<div style="background-color: white;">Geographical Map: A 1953 map showing land utilisation on the Malayan Peninsula and Singapore. <i>Survey Department, courtesy Of National Archives of Singapore. </i></div>
+<div style="background-color: white;">Geographical Map: A 1953 map showing land utilisation on the Malayan Peninsula and Singapore. <i>Survey Department, courtesy of National Archives of Singapore. </i></div>
 
 
 #### **MAPS SPANNING 190 YEARS: FROM 1819 TO 2009  **
@@ -98,13 +98,13 @@ From the 1980s onwards, computerisation and digitisation of mapping emerged as n
 The National Archives of Singapore (NAS) is the official custodian of all records of national and historical significance that serve as the corporate and social memory of the Singapore government and its people. The NAS holds possibly the largest collection of Singapore maps, numbering around 10,000. These are available to the public and include an extensive collection of survey and topographic maps dating from the British colonial era to modern times. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1943_Syonan_Map_of_SG.jpg)
-<div style="background-color: white;">(Top left) A segment of the Singapore Town Plan series map printed by the Japanese in 1943 during the Occupation. The map is labelled "Syonan” on the top left corner and Japanese inscriptions can be seen on the bottom left corner of the map. <i>Survey Department, courtesy of National Archives of Singapore. </i></div>
+<div style="background-color: white;">A segment of the Singapore Town Plan series map printed by the Japanese in 1943 during the Occupation. The map is labelled "Syonan” on the top left corner and Japanese inscriptions can be seen on the bottom left corner of the map. <i>Survey Department, courtesy of National Archives of Singapore. </i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/Aerial_Map_of_SG_Town.jpg)
 <div style="background-color: white;">An aerial map of Singapore town, 1950. These maps were made by stitching together aerial photographs taken by the British airforce's 81 squadron, an air reconnaissance unit based at the Seletar and Tengah airbases between 1947 and 1970. <i> Survey Department, courtesy of National Archives of Singapore. </i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1971_Map_of_SG_Island.jpg)
-<div style="background-color: white;">The first map produced under the Singapore Armed Forces Mapping unit was this 1971 1-inch to 1-mile topographic map Of Singapore. <i> Singapore Land Authority, courtesy of National Archives of Singapore. </i></div>
+<div style="background-color: white;">The first map produced under the Singapore Armed Forces Mapping unit was this 1971 1-inch to 1-mile topographic map of Singapore. <i> Singapore Land Authority, courtesy of National Archives of Singapore. </i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1955_Electoral_Map.jpg)
 <div style="background-color: white;">An electoral division map for the 1955 Legislative Assembly general election. This was a landmark event in Singapore's political history in which the majority of members in the governing Legislative Assembly would be elected rather than appointed by British colonial authorities. It set the stage for Singapore's achievement of self-government in 1959. <i>Singapore Land Authority, courtesy of National Archives of Singapore. </i></div>
