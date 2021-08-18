@@ -4,9 +4,6 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/darwin-and-wallace
 layout: post
 ---
-
-
-
 #### Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things, **Dr John van Wyhe** addresses the misconception that Darwin cheated Wallace of his rightful place in history. 
 
 ##### **DARWIN IN CAMBRIDGE**
@@ -117,7 +114,7 @@ On his return to Britain in 1862, Wallace was no longer an obscure collector. He
 
 **Dr John van Wyhe** is a historian of science at the National University of Singapore who specialises in Darwin and Wallace. For several years a Bye-Fellow of Christ's College, Cambridge, he is also the Director of Darwin Online and Wallace Online and the author of 10 books and numerous articles on the history of science. 
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 
