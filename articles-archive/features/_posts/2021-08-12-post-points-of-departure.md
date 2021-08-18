@@ -4,8 +4,6 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/points-of-departure
 layout: post
 ---
-
-
 #### **Charting Memories Through Collective Imagination**
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/pointsofdeparture/ChangiTriptych_1_FP2.jpg)
@@ -73,7 +71,7 @@ Through this collaboration, we hope to create a meaningful connection with and b
 
 **Juria Toramae** is a Singapore-based artist and Engineer. Her photographic series “Temporality” debuted at Noise Singapore's The Apprenticeship Programme exhibition in 2013. She is an irememberSG fund recipient for her collaborative project titled “Paints of Departure”. 
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 Boey, K.C. (2009). *[Between stations: Essays](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13230282)*. Australia: Giramondo. (Call no.: RSING S821 BOE)
