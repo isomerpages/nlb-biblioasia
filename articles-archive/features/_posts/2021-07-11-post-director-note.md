@@ -16,7 +16,7 @@ The time-honoured tale of Mulan, available in the National Library’s Asian Chi
 
 [Gracie Lee's](/vol-17/issue-2/jul-sep-2021/early-printing) comprehensive overview of the history of printing in the Philippines amply demonstrates the impact of technological change on printing methods – from woodblock to moveable type. [Zoe Yeo's](/vol-17/issue-2/jul-sep-2021/jurong-bird-park) story of Jurong Bird Park’s fledgling years provides a backdrop to the exciting changes that will happen in 2022 as it relocates to Mandai. 
 
-These are just some of the highlights of this issue, which also looks at the origins of Straits-born cuisine by [Lee Geok Boi](/vol-17/issue-2/jul-sep-2021/straitsborncuisine), the history of the Banjar people in Singapore by [Zinnurain Nasir and Nasri Shah](/vol-17/issue-2/jul-sep-2021/diamondtrail), [Julian Davison's](/vol-17/issue-2/jul-sep-2021/swanandmaclaren) account of architectural firm Swan & Maclaren in propagating the idea of apartment living here, and [Lee Chor Lin's](/vol-17/issue-2/jul-sep-2021/chinese-artists) piece on Chinese graphic artists in pre-war Singapore.
+These are just some of the highlights of this issue, which also looks at the origins of Straits-born cuisine by [Lee Geok Boi](/vol-17/issue-2/jul-sep-2021/straitsborncuisine), the history of the Banjar people in Singapore by [Zinnurain Nasir and Nasri Shah](/vol-17/issue-2/jul-sep-2021/diamondtrail), [Julian Davison's](/vol-17/issue-2/jul-sep-2021/swanandmaclaren) account of architectural firm Swan &amp; Maclaren in propagating the idea of apartment living here, and [Lee Chor Lin's](/vol-17/issue-2/jul-sep-2021/chinese-artists) piece on Chinese graphic artists in pre-war Singapore.
 
 Clearly, one thing that does not change is our commitment to bringing you great reads. Enjoy this issue and stay safe!
 
@@ -24,7 +24,7 @@ P.S.: If you have photographs of the murals that Dahlia writes about, please let
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/Tan_Huism.png" style="width: 100px; height: 100px;" />
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-16-issue-4/authors/Tan_Huism.png">
 <center><b>Ms Tan Huism</b><br>Director<br>National Library</center>
 </div>
