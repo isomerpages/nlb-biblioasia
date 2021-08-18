@@ -1,9 +1,10 @@
 ---
 title: On The Trail of Francis P Ng
 date: 2021-08-12
-permalink: /vol-10/issue-4/jan-march-2015/ontrail
+permalink: /vol-10/issue-4/jan-march-2015/on-the-trail
 layout: post
 ---
+
 
 #### In her effort to republish one of our unknown literary treasures, **Dr Eriko Ogihara-Schuck** tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
 
