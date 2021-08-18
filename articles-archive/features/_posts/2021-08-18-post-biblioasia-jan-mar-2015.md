@@ -4,10 +4,9 @@ date: 2021-08-18
 permalink: /vol-10/issue-4/jan-mar-2015/
 layout: post
 ---
-
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/background/Cover5_dark.jpg)
 
-Director's Note
+[Director's Note](/vol-10/issue-4/jan-march-2015/director-note)
 
 
 [Geo Geographic](/vol-10/issue-4/jan-march-2015/geographic)
@@ -18,8 +17,6 @@ Director's Note
 
 Drawing from his personal collection of maps amassed over three decades, Dr Farish A. Noor invites us to truly read maps and look beyond their geographical boundaries.
 
-[Points Of Departure](/vol-10/issue-4/jan-march-2015/points-of-departure)
-Charting Memories Through Collective Imagination
 
 [The National Librarys Rare Maps Collection](/vol-10/issue-4/jan-march-2015/rare-map)
 
