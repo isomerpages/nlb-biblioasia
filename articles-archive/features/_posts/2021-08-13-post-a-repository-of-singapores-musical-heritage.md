@@ -1,9 +1,10 @@
 ---
 title: A Repository of Singapore’s Musical Heritage
 date: 2021-08-13
-permalink: /articles-archive/features/permalinkmusic
+permalink: /vol-10/issue-4/jan-march-2015/musical
 layout: post
 ---
+
 MusicSG is a digital archive set up by the National Library Board (NLB) to digitize, archive and provide access to all forms of published music works in Singapore. The scope of MusicSG is broad, comprising music composed or published by Singaporeans, music produced or published in Singapore, as well as any music related to Singapore. 
 
 By bringing together content on Singapore music, MusicSG aims to elevate the profile of local music and musicians and provide resources for research and discovery, while contributing to NLB's overarching objective in preserving local history and heritage. 
