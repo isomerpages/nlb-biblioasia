@@ -1,9 +1,10 @@
 ---
 title: Points of Departure
 date: 2021-08-12
-permalink: /vol-10/issue-4/jan-march-2015/pointsofdeparture
+permalink: /vol-10/issue-4/jan-march-2015/points-of-departure
 layout: post
 ---
+
 
 #### **Charting Memories Through Collective Imagination**
 
