@@ -4,12 +4,10 @@ date: 2021-08-13
 permalink: /vol-10/issue-4/jan-march-2015/travelog-melayu
 layout: post
 ---
-
-
 Travelogues, particularly those from yesteryear, serve as important reference documents that capture a slice of history and culture. These writings serve as sources of information about different places, cultures and communities as encountered by writers at different points in time. This article focuses on some of the most popular Malay-language travelogues available in the National Library collection and highlights several well-known accounts from the 19th century to more recent times. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/books.jpg)
-<div style="background-color: white;"><i>Melawat Negara Tetangga, Menin}au Ka-Negara Sham, Melawat KB-Paris, Chatetan Ka-Tanah Suchi </i>and <i>Kunjongan Ka-Indonesia 1954</i> were all written by Harun Aminurrashid. </div>
+<div style="background-color: white;"><i>Melawat Negara Tetangga, Meninau Ka-Negara Sham, Melawat KB-Paris, Chatetan Ka-Tanah Suchi </i>and <i>Kunjongan Ka-Indonesia 1954</i> were all written by Harun Aminurrashid. </div>
 
 
 <i>"Bahwa ini peringatan sahaya berlayar dari negeri Singapura dalam kapal Syeikh ‘Abdul Karim yang bernama Subla’s-salam, yaitu kepada tarikh sanat 1270 tahun, kepada 29 hari bulan Jamadilawal, yaitu kepada tarikh Masehi 1854, yaitu setuju kepada sehari bulan Cina tahun baharu. </i>
