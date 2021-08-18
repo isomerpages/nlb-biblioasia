@@ -4,8 +4,6 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/rare-map
 layout: post
 ---
-
-
 #### The National Library has a collection of rare maps dating back to the 15th century. **Makeswary Periasamy** shares the significance and history of these maps and their makers. 
 
 The National Library's Rare Maps Collection forms part of the valuable Rare Materials Collection held in its Lee Kong Chian Reference Library. The collection contains topographic maps and navigational charts covering Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The majority of the maps were printed by European map- makers before 1945. 
@@ -143,6 +141,8 @@ The National Library's collection of rare maps is an important source for the st
 
 
 **Makeswary Periasamy** is a Senior Librarian with the National Library of Singapore. She selects and acquires rare materials for the National Library and also overseas the map collections of the library. Makeswary has several years of experience in cataloguing, heritage collections management, reference and research, as well as in managing large-scale preservation projects.
+
+<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 
 #### **REFERENCES**
