@@ -4,7 +4,6 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/nation-of-island
 layout: post
 ---
-
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg)
 <div style="background-color: white;">1.Students from the St John's Island English School take a group photograph with their teacher Mr Choo Huay Kim at the same place where they had their flag-raising ceremony every morning in the early 1970s.</div>
 
@@ -106,7 +105,7 @@ In the course of working on this project, we realised how interconnected the liv
 
 **Zakaria Zainal** is an associate photographer for Captured, a creative agency based in Singapore that specialises in delivering visual-centric narratives. 
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
