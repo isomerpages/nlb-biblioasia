@@ -4,8 +4,6 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/map-as-statement
 layout: post
 ---
-
-
 #### Drawing from his personal collection of maps amassed over three decades, **Dr Farish A. Noor** invites us to truly read maps and look beyond their geographical boundaries.
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg)
@@ -96,7 +94,7 @@ The maps of Asia I have discussed in this essay tell us something about how the 
 
 
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 
