@@ -111,7 +111,7 @@ The National Archives of Singapore (NAS) is the official custodian of all record
 
 **Kevin Khoo** is an archivist at the National Archives of Singapore. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science.
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCE**
 
