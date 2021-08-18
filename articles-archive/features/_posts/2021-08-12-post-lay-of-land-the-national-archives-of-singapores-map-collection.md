@@ -1,9 +1,10 @@
 ---
 title: "Lay of Land: The National Archives of Singapore's Map Collection"
 date: 2021-08-12
-permalink: /articles-archive/features/permalink
+permalink: /vol-10/issue-4/jan-march-2015/mapcollection
 layout: post
 ---
+
 #### From Singapore's days as a colony to modern times, maps have been an integral part of the nation's development. **Kevin Khoo** highlights the National Archives of Singapore's 10,000-strong map collection. 
 
 Kevin Khoo is an archivist at the National Archives of Singapore. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science. 
