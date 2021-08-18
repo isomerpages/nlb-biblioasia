@@ -1,9 +1,10 @@
 ---
 title: Points of Departure
 date: 2021-08-12
-permalink: /articles-archive/features/permalinkpod
+permalink: /vol-10/issue-4/jan-march-2015/pointsofdeparture
 layout: post
 ---
+
 #### **Charting Memories Through Collective Imagination**
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/pointsofdeparture/ChangiTriptych_1_FP2.jpg)
