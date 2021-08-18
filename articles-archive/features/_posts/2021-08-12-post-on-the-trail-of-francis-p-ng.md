@@ -1,9 +1,10 @@
 ---
 title: On The Trail of Francis P Ng
 date: 2021-08-12
-permalink: /articles-archive/features/permalink1
+permalink: /vol-10/issue-4/jan-march-2015/ontrail
 layout: post
 ---
+
 #### In her effort to republish one of our unknown literary treasures, **Dr Eriko Ogihara-Schuck** tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
 
 In August 2014, I found myself in Singapore, the country where I came of age as a teenager. Twenty years had passed since I left Singapore to enter college in Japan and then higher degree studies in the United States and Germany. Initially, it felt as if nothing had changed since left the city. The night sky was still the same over the East Coast, twinkling here and there with the strobe lights of airplanes heading towards Changi Airport. On terra firma, the songs and sounds of the National Day festivities quickly re-absorbed me into this country, exactly the same way they did when I first arrived as a 12-year-old girl in the summer of 1988. 
