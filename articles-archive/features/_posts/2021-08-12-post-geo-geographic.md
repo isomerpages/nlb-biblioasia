@@ -1,9 +1,10 @@
 ---
 title: Geo Geographic
 date: 2021-08-12
-permalink: /articles-archive/features/permalinkgeographic
+permalink: /vol-10/issue-4/jan-march-2015/geographic
 layout: post
 ---
+
 "You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel The Mapmaker's Wad.[^1]
 
 
