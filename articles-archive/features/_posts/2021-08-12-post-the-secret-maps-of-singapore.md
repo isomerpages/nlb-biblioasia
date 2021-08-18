@@ -4,7 +4,6 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/secretmap
 layout: post
 ---
-
 #### Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. **Bonny Tan** explore the origins of these one-of-a-kind maps.
 
 The Secret Map of Singapore (1986) and its companion, <i>The Secret Food Map of Singapore</i> (1987), were created by three women whose sense of adventure led them to explore unusual corners of the island. The vividly coloured hand-drawn maps highlight little-known and often forgotten facets of Singapore's culture and flavours - long before it became fashionable for Singaporeans to reconnect with their own heritage. Unlike the staid text-based food guides produced in the 1980s, [^1] these map-centric guides provide visual impressions of places by locating them in the physical landscape, in the process giving context and lending immediacy to the everyday activities of the average Singaporean. 
@@ -92,7 +91,7 @@ For the historian, the maps pinpoint the locations of traditional but now barely
 
 **Bonny Tan** is a Senior Reference Librarian at the National Library of Singapore. Her interest in the obscure things about Singapore led her to re-examine two little known maps and found herself surprised by their contents.
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 Blaisdell, A. (1990). The secret map of Singapore. Retrieved from Google site.
