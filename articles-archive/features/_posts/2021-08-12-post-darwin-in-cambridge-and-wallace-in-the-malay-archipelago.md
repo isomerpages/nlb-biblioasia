@@ -57,7 +57,7 @@ Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, fr
 <div style="background-color: white;"><i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. Published by World Scientific Publishing Co. 2013.</div>
 
 
-**IN SEARCH OF THE HISTORICAL WALLACE** 
+##### **IN SEARCH OF THE HISTORICAL WALLACE** 
 
 For Alfred Russel Wallace (1823-1913) the picture is quite different. He did not come from a privileged background and although he attended a good school like Darwin's. Wallace never went to university. His family had fallen on hard times. But as there was little science taught at universities anyway, most men of science at the time were largely self-taught. Both were middle-class, Darwin from the higher end of the spectrum, Wallace from the lower. 
 
@@ -71,7 +71,7 @@ If Wallace's name is familiar at all to the average reader today, it is usually 
 
 A candid investigation of the original historical sources from Wallace's time differs strikingly from the modern picture of Wallace as the “hero-on-a-quest but cheated in the end.” <i>Dispelling the Darkness</i> is an attempt to reveal the historical Wallace as he lived and worked in his original time and context. Based on the most intensive research programme ever undertaken on Wallace in Southeast Asia, the real Wallace and his story turns out to be very different from the heroic version bandied about in recent years. In short, everything you have heard about Wallace is probably wrong. 
 
-**WHAT REALLY HAPPENED IN THE ARCHIPELAGO?** 
+##### **WHAT REALLY HAPPENED IN THE ARCHIPELAGO?** 
 
 After a series of underpaying jobs, Wallace set out for the Amazon valley in 1848 to make a living as a commercial specimen collector. (The heroic version has him going instead on a quest to solve the problem of the origin of species.[^8]) During his time there, Wallace continued his self-education in science and began to publish a series of scientific papers. As part of his research, he also collected large numbers of insects, birds and mammals. In 1852, Wallace was returning home when disaster struck. The sailing vessel on which he was travelling caught fire and sank in the Atlantic Ocean. Wallace and the crew were rescued and returned safely to England. 
 
@@ -87,7 +87,7 @@ Nevertheless, it is absolutely clear that Wallace privately believed that specie
 
 In 1856, Wallace began to realise that in the west of the Malay Archipelago the species of animals were more Asian in type, while towards the east. the animal species were more Australian. Wallace would eventually divide the archipelago into two biological regions and the line between them, roughly between Bali and Lombok, was named after him - The Wallace line. 
 
-**ADAPTATION** 
+##### **ADAPTATION** 
 
 In 1858, Wallace was living on the tiny volcanic island of Ternate, one of the fabled Spice Islands of Indonesia, just west of New Guinea. He had come to procure the rare and beautiful Birds of Paradise that live only in and around New Guinea. It was on Ternate that Wallace conceived an explanation as to how species come to be adapted to their environments.[^11] This was a radical departure from his previous thinking. He had never looked for an explanation for adaptation before. Indeed he thought that traditional ideas of species adaptation smacked of shallow and old-fashioned thinking. So what made him change his mind? 
 
