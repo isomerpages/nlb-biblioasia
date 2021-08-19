@@ -11,7 +11,7 @@ layout: post
 
 [Geo Geographic](/vol-10/issue-4/jan-march-2015/geographic)<br>“GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015. <i>Tan Huism</i> explains why you should not miss this event.
 
-[Map As Statement of Power And Domination](/vol-10/issue-4/jan-march-2015/map-as-statement)<br>Drawing from his personal collection of maps amassed over three decades, Dr Farish A. Noor invites us to truly read maps and look beyond their geographical boundaries.
+[Map As Statement of Power And Domination](/vol-10/issue-4/jan-march-2015/map-as-statement)<br>Drawing from his personal collection of maps amassed over three decades, <i>Dr Farish A. Noor</i> invites us to truly read maps and look beyond their geographical boundaries.
 
 
 [The National Librarys Rare Maps Collection](/vol-10/issue-4/jan-march-2015/rare-map)<br>The National Library has a collection of rare maps dating back to the 15th century.<i>Makeswary Periasamy</i> shares the significance and history of these maps and their makers. 
