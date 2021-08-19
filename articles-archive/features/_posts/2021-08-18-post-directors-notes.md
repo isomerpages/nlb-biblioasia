@@ -22,6 +22,4 @@ In <i>The Shallows</i>, a book I continue to return to time and again for its ar
 
 As Dr Noor succinctly puts it, maps are never simply maps.
 
-Gene Tan
-
-Director, National Library
+Gene Tan<br>Director, National Library
