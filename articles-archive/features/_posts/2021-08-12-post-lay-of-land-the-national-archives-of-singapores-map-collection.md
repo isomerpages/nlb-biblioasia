@@ -7,8 +7,7 @@ layout: post
 #### From Singapore's days as a colony to modern times, maps have been an integral part of the nation's development. **Kevin Khoo** highlights the National Archives of Singapore's 10,000-strong map collection. 
 
 
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/background.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/backgrounds.jpg)
 <div style="background-color: white;">Illustration of entrance to Singapore's harbour in 1860. <i>Nineteenth Century Prints of Singapore (Plate 37. Notes p. 98), National Museum of Singapore, 1987.</i></div>
 
 
@@ -56,7 +55,7 @@ These are special purpose maps typically overlaid with details specific to the c
 
 The vast majority of maps in the NAS collection (numbering over 8,000) are geographic maps of Singapore. These include maps of the island of Singapore and its surrounding waters, and of particular areas and districts of the island. notably the heavily populated town centre as well as outlying precincts like Katong, Jurong and Changi. In addition, the collection contains about 900 maps of Malaya dating to pre-1963. These maps illustrate the Malayan Peninsula, the seas around it and specific places such as the capital Kuala Lumpur and major towns such as Penang, Malacca and Johor. A small number of maps of Southeast Asia and wider Asia are also part of this collection. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1953_Malaya_Land_Allocation_Map.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1953_Malaya_Land_Allocation_Maps.jpg)
 <div style="background-color: white;">Geographical Map: A 1953 map showing land utilisation on the Malayan Peninsula and Singapore. <i>Survey Department, courtesy of National Archives of Singapore. </i></div>
 
 
