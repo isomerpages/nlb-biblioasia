@@ -52,8 +52,7 @@ These are special purpose maps typically overlaid with details specific to the c
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/Mileage_Along_Roads.jpg)
 <div style="background-color: white;">Thematic Map: "Singapore. Mileages Along Roads" was printed by the Federated Malay States Survey Department in 1936. This map measured the distance of key landmarks and districts across Singapore island. using the General Post Office in the Fullerton Building at Empress Place as its "zero-point". <i>Survey Department, courtesy of National Archives of Singapore. </i></div>
 	
-
-#### **GEOGRAPHICAL VARIETY **
+#### **GEOGRAPHICAL VARIETY**
 
 The vast majority of maps in the NAS collection (numbering over 8,000) are geographic maps of Singapore. These include maps of the island of Singapore and its surrounding waters, and of particular areas and districts of the island. notably the heavily populated town centre as well as outlying precincts like Katong, Jurong and Changi. In addition, the collection contains about 900 maps of Malaya dating to pre-1963. These maps illustrate the Malayan Peninsula, the seas around it and specific places such as the capital Kuala Lumpur and major towns such as Penang, Malacca and Johor. A small number of maps of Southeast Asia and wider Asia are also part of this collection. 
 
@@ -61,7 +60,7 @@ The vast majority of maps in the NAS collection (numbering over 8,000) are geogr
 <div style="background-color: white;">Geographical Map: A 1953 map showing land utilisation on the Malayan Peninsula and Singapore. <i>Survey Department, courtesy of National Archives of Singapore. </i></div>
 
 
-#### **MAPS SPANNING 190 YEARS: FROM 1819 TO 2009  **
+#### **MAPS SPANNING 190 YEARS: FROM 1819 TO 2009**
 
 Fewer than 40 maps from the NAS collection are from the pre-1819 period before Singapore was founded. Most of these early maps date from the late 18th century to the early 1800ss and are mainly of British as well as Dutch and Portuguese origins. 
 
