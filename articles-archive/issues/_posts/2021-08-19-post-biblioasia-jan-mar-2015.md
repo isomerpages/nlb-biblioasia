@@ -1,9 +1,10 @@
 ---
 title: Biblioasia Jan-Mar 2015
 date: 2021-08-19
-permalink: /articles-archive/issues/permalink
+permalink: /vol-10/issue-4/jan-mar-2015/
 layout: post
 ---
+
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/background/Cover5_dark.jpg)
 
 [Director's Note](/vol-10/issue-4/jan-march-2015/director-note)
