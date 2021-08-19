@@ -82,17 +82,17 @@ The French and English were not as active in map-making as the Italians,  German
 <div style="background-color: white;">Portrait ot Sebastian Munster by Christoph Amberger. c. 1552. <i>Wikimedia Commons</i></div>
 
 
-Münster was widely known for Cosmographia, first published in 1544, which features several woodcut maps illustruted with vignettes and creatures.<sup>12</sup> He was also the first to introduce a separate map for each of the four continents - Europe, Africa, Asia and America - known then.<sup>13</sup> 
+Münster was widely known for Cosmographia, first published in 1544, which features several woodcut maps illustruted with vignettes and creatures.[^12] He was also the first to introduce a separate map for each of the four continents - Europe, Africa, Asia and America - known then.[^13]
 
 This map was published in Münster's 1540 <i>Geographia Universalis</i>, which was based on Ptolemy's seminal work <i>Geography</i> but also incorporated new discoveries. Here, unlike earlier maps. Asia is depicted separately from Southeast Asia and the Moluccas (Maluku) is drawn correctly at the west coast of Halmahera. Sumatra is called by both its modern name and its Ptolemaic name of Taprohana. 
 
-The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.<sup>14</sup> Until the 17th century, most maps named the southern part the Peninsula as Malacca, an "exaggeration of the real extent of European influence and control<sup>15</sup>. Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.<sup>16</sup> Notably, there was no incentive to map the remaining interior of the Malay Peninsula.
+The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part the Peninsula as Malacca, an "exaggeration of the real extent of European influence and control[^15]. Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula.
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Inida_extrema.jpg)
 <div style="background-color: white;"><i>India Extrema nova tabula</i> by Sebastian Munster (Basle, 1540).</div>
 
 
-**Samuel Thornton** (fl. 1703-39) was an English hydrographer.<sup>17</sup> His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as Oriental Navigation, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.<sup>18</sup>
+**Samuel Thornton** (fl. 1703-39) was an English hydrographer.[^17] His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as Oriental Navigation, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.[^18]
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/SamuelThornton_2.jpg)
 <div style="background-color: white;">Portrait of Samuel Thornton by Karl Anton Hickel.<i>Collection of Bank of England</i>.</div>
@@ -100,14 +100,14 @@ The shape of the Malay Peninsula is much improved, with only the city of Malaqua
 
 Samuel Thornton took over his brother's business in 1706 and re-issued the charts under his own name. The above chart is from Samuel Thornton's re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea pas- sage rather than to the island or city. 
 
-European maps and charts of the 16th and 17th centuries tended to call Singapore by various names and depicted it either as a port, or city, an island, one of the four straits, a cape or promontory, or as the entire southern portion of the Malay Peninsula. <sup>19</sup>
+European maps and charts of the 16th and 17th centuries tended to call Singapore by various names and depicted it either as a port, or city, an island, one of the four straits, a cape or promontory, or as the entire southern portion of the Malay Peninsula. [^19]
 
 Thornton's chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg)
 <div style="background-color: white;">A large chart decribeing <i>ye Streights of Malacca and Sincapore</i>, Samuel Thornton(London, circa 1711)</div>
 
-**Jacques Nicolas Beltin** (1703-72) was a French royal hydrographer who created maps for several key publications in the 18th century, such as Prévost's <i>L'Histoire Générale des Voyages</i> (1747-61) and <i>Petit Atlas Maritime(1764)</i>. His son (1745-85), who went by the same name, was an engraver based in Paris.<sup>20</sup> 
+**Jacques Nicolas Beltin** (1703-72) was a French royal hydrographer who created maps for several key publications in the 18th century, such as Prévost's <i>L'Histoire Générale des Voyages</i> (1747-61) and <i>Petit Atlas Maritime(1764)</i>. His son (1745-85), who went by the same name, was an engraver based in Paris.[^20]
 
 The Singapore Straits that connected the Indian Ocean to the South China Sea was an important trade route. What was collectively referred to as the Singapore Straits was actually four maritime arteries (namely the Old Strait, New Strait, Governor's Strait and the Johor Strait) that were often called by various names and mistaken for one another. 
 
