@@ -71,25 +71,24 @@ Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal t
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Nova_tabula.jpg)
 <div style="background-color: white;"><i>Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> | G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>
 
-Although Germany did not dominate map-making for an entire era, unlike the other European countries. German map-makers made important contributions to map-making from the 15th to 18th centuries. With the advances in printing technology in the 16th century, Germany (where the printing press was invented) became an important centre for map-making, far surpassing Italy. German map-makers also created better tools for map surveying. German map-making declined in the 17th century when Dutch map-makers became more prominent, but when the latter slowed down in the 18th century, German map-makers became active again. [^11]
+Although Germany did not dominate map-making for an entire era, unlike the other European countries, German map-makers made important contributions to map-making from the 15th to 18th centuries. With the advances in printing technology in the 16th century, Germany (where the printing press was invented) became an important centre for map-making, far surpassing Italy. German map-makers also created better tools for map surveying. German map-making declined in the 17th century when Dutch map-makers became more prominent, but when the latter slowed down in the 18th century, German map-makers became active again. [^11]
 
-The French and English were not as active in map-making as the Italians,  Germans or Dutch, although they did produce some fine maps of their own. The English started producing better quality and more accurate maps in the 18th and 19th centuries. Two of the key maps on the Singapore and Malacca Straits in the Rare Maps Collection were produced by French and English map-makers. 
+The French and English were not as active in map-making as the Italians, Germans or Dutch, although they did produce some fine maps of their own. The English started producing better quality and more accurate maps in the 18th and 19th centuries. Two of the key maps on the Singapore and Malacca Straits in the Rare Maps Collection were produced by French and English map-makers.
 
-
-**Sebastian Münster** (1489—1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century.
+**Sebastian Münster** (1489-1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Portrait_of_the_Cosmographer_Sebastien_Munster_WGA.jpg)
-<div style="background-color: white;">Portrait ot Sebastian Munster by Christoph Amberger. c. 1552. <i>Wikimedia Commons</i></div>
+<div style="background-color: white;">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. <i>Wikimedia Commons</i></div>
 
 
-Münster was widely known for Cosmographia, first published in 1544, which features several woodcut maps illustruted with vignettes and creatures.[^12] He was also the first to introduce a separate map for each of the four continents - Europe, Africa, Asia and America - known then.[^13]
+Münster was widely known for Cosmographia, first published in 1544, which features several woodcut maps illustrated with vignettes and fanciful creatures.[^12] He was also the first to introduce a separate map for each of the four continents - Europe, Africa, Asia and America - known then.[^13]
 
 This map was published in Münster's 1540 <i>Geographia Universalis</i>, which was based on Ptolemy's seminal work <i>Geography</i> but also incorporated new discoveries. Here, unlike earlier maps. Asia is depicted separately from Southeast Asia and the Moluccas (Maluku) is drawn correctly at the west coast of Halmahera. Sumatra is called by both its modern name and its Ptolemaic name of Taprohana. 
 
-The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part the Peninsula as Malacca, an "exaggeration of the real extent of European influence and control[^15]. Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula.
+The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part of the Peninsula as Malacca, an “exaggeration of the real extent of European influence and control”.[^15] Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Inida_extrema.jpg)
-<div style="background-color: white;"><i>India Extrema nova tabula</i> by Sebastian Munster (Basle, 1540).</div>
+<div style="background-color: white;"><i>India Extrema XIX nova tabula</i> by Sebastian Münster (Basle, 1540).</div>
 
 
 **Samuel Thornton** (fl. 1703-39) was an English hydrographer.[^17] His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as Oriental Navigation, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.[^18]
