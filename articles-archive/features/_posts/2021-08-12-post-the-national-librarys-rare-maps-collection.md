@@ -4,33 +4,31 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/rare-map
 layout: post
 ---
-
 #### The National Library has a collection of rare maps dating back to the 15th century. **Makeswary Periasamy** shares the significance and history of these maps and their makers. 
 
-The National Library's Rare Maps Collection forms part of the valuable Rare Materials Collection held in its Lee Kong Chian Reference Library. The collection contains topographic maps and navigational charts covering Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The majority of the maps were printed by European map- makers before 1945. 
+The National Library’s Rare Maps Collection forms part of the valuable Rare Materials Collection held in its Lee Kong Chian Reference Library. The collection contains topographic maps and navigational charts covering Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The majority of the maps were printed by European map-makers before 1945.
 
-Most of the maps were inherited from the former Raffles Museum &amp; Library, in particular a set of early Malayan maps photocopied by J.V. Mills in 1936, now known as the Mills Collection, which comprises 208 maps and charts relating to the Malay Peninsula from the period before 1600 until 1879. Other maps were donated to the library and the rest were purchased over the years. In 2012, the library acquired the valuable and historically significant David Parry Southeast Aslan Map Collection, which constitutes 254 maps dating from the 15th to 19th centuries and created by prominent European cartographers.
+Most of the maps were inherited from the former Raffles Museum &amp; Library, in particular a set of early Malayan maps photocopied by J.V. Mills in 1936, now known as the Mills Collection, which comprises 208 maps and charts relating to the Malay Peninsula from the period before 1600 until 1879. Other maps were donated to the library and the rest were purchased over the years. In 2012, the library acquired the valuable and historically significant David Parry Southeast Asian Map Collection, which constitutes 254 maps dating from the 15th to 19th centuries and created by prominent European cartographers.
 
-The Rare Maps Collection includes maps that illustrate the development of European mapping of early Southeast Asia, as well as the history of the region. These early maps and charts were produced during the "age of discovery" when Europeans were looking for a sea route to Asia and the famed Spice Islands (Moluccas, today known as Maluku) of Indonesia, in the hope of securing the lucrative trade in spices such as pepper, cloves and nutmeg.
+The Rare Maps Collection includes maps that illustrate the development of European mapping of early Southeast Asia, as well as the history of the region. These early maps and charts were produced during the “age of discovery” when Europeans were looking for a sea route to Asia and the famed Spice Islands (Moluccas, today known as Maluku) of Indonesia, in the hope of securing the lucrative trade in spices such as pepper, cloves and nutmeg.
 
-The Portuguese were the first Europeans to discover a sea route to Asia in the late 15th century when the intrepid explorer Vasco da Gama reached India in 1498. The Spanish followed suit not long after and managed to sail to Asia in the early 16th century. Having found a safe route to Asia， the Iberian powers began to explore the region, in the process mapping the surrounding lands as well as charting its waters.
+The Portuguese were the first Europeans to discover a sea route to Asia in the late 15th century when the intrepid explorer Vasco da Gama reached India in 1498. The Spanish followed suit not long after and managed to sail to Asia in the early 16th century. Having found a safe route to Asia, the Iberian powers began to explore the region, in the process mapping the surrounding lands as well as charting its waters.
 
-The first printed maps of Southeast Asia, however, were produced by Italian and German map-makers from the late 1470s onwards - even before the Portuguese and Spanish arrived in the region. These early maps were based on Claudlus Ptolemy's <i>Geography</i>, the 2nd-century Greek astronomer's work that contained precise instructions on mapping the world. The textual instructions in <i>Geography</i> contained several fundamental errors but nevertheless continued to influence map-making for centuries despite newer discoveries.
+The first printed maps of Southeast Asia, however, were produced by Italian and German map-makers from the late 1470s onwards - even before the Portuguese and Spanish arrived in the region. These early maps were based on Claudius Ptolemy’s <i>Geography</i>, the 2nd-century Greek astronomer’s work that contained precise instructions on mapping the world. The textual instructions in <i>Geography</i> contained several fundamental errors but nevertheless continued to influence map-making for centuries despite newer discoveries.
 
 Italy and Germany played important roles in map production at the start of the Renaissance period, particularly Italy, whose coastal cities served as the midpoint between the trade routes of Europe and Asia[^1]. However, map-making in Italy languished at the start of the 1500s (unlike in central Europe), until it was revived by the leading Italian geographer Giacoma Gastaldi in the mid-1500s. Map-making subsequently declined again in the 1800s[^2].
+
+**Giacomo Gastaldi** (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula". an early, albeit, incorrect reference to Singapore as a cape.
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Gerard_Mercator.jpg)
 <div style="background-color: white;">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.</div>
 
+Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3] 
+
+Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.
+
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Terza_tavola.jpg)
 <div style="background-color: white;"><i>Terza Tavola</i>, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563).</div>
-
-
-**Giacomo Gastaldi** (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula". an early, albeit, incorrect reference to Singapore as a cape.
-
-Gastaldi's later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capulal. The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the "third map" (or "Terza Tavola"), was printed in Giovanni Battista Ramusio's collection of voyages and travels.[^3] 
-
-Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore. 
 
 Note: the map is oriented with the south at the top.
 
