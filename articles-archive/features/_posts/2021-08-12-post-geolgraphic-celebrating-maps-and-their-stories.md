@@ -4,14 +4,6 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/geographic
 layout: post
 ---
-
-
-
-
-
-
-
-
 #### “GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015. **Tan Huism** explains why you should not miss this event.
 
 "You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel The Mapmaker's Wad.[^1]
@@ -66,13 +58,13 @@ A special Geographic Information System (GIS) developed with the Urban Redevelop
 
 #### **SEA STATE 8 SEABOOK:  AN ART PROJECT BY CHARLES LIM**
 	
-seabook was conceived by artist Charles Lim as a site for the agglomeration of archival material, anecdotes and memories that explores Singapore's relationship with the sea. Lim, who is Singapore's 2015 representative to the Venice Biennale, has a close relationship with the sea as he is a former national sailor and represented Singapore in the 1996 Olympics. 
+<i>seabook</i> was conceived by artist Charles Lim as a site for the agglomeration of archival material, anecdotes and memories that explores Singapore's relationship with the sea. Lim, who is Singapore's 2015 representative to the Venice Biennale, has a close relationship with the sea as he is a former national sailor and represented Singapore in the 1996 Olympics. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Charles_Lim_work.jpg)
 <div style="background-color: white;">Artist Charles Lim's work, Sea Safe(2014), in progress.</div>
 
 	
-This particular project is an extension of Lim's previous solo-exhibition, "In Search of Raffles' Light", held in 2013 at the National University of Singapore (NUS) Museum. Both these projects are part of Lim's body of work known as the SEA STATE series, which was first initiated in 2008 and continues with his exploration of Singapore's maritime ecology. Developed together with the librarians at NL, seabook highlights the vast amount of information and data gathered from maps, charts and newspaper clippings, as well as scholarly material grappling with the complex relationship between Singapore and the sea—from colonial times to the present day. The stories encompass the mundane-such as fishing as a livelihood, the everyday lives of island communities, regulations on the use of the sea for leisure and other purposes, as well as sea-related tragedies, including an attack on a girl by a swordfish in 1961. The exhibition, jointly organised by NUS Museums and NL, highlights the troubled relationship Singapore has with its seas and its continued undercurrents in our lives.
+This particular project is an extension of Lim's previous solo-exhibition, "In Search of Raffles' Light", held in 2013 at the National University of Singapore (NUS) Museum. Both these projects are part of Lim's body of work known as the SEA STATE series, which was first initiated in 2008 and continues with his exploration of Singapore's maritime ecology. Developed together with the librarians at NL, <i>seabook</i> highlights the vast amount of information and data gathered from maps, charts and newspaper clippings, as well as scholarly material grappling with the complex relationship between Singapore and the sea -from colonial times to the present day. The stories encompass the mundane -such as fishing as a livelihood, the everyday lives of island communities, regulations on the use of the sea for leisure and other purposes, as well as sea-related tragedies, including an attack on a girl by a swordfish in 1961. The exhibition, jointly organised by NUS Museums and NL, highlights the troubled relationship Singapore has with its seas and its continued undercurrents in our lives.
 	
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Charles_Lim_with_Janice_Loo.jpg)
 <div style="background-color: white;">Artist Charles Lim working on seabook with NL librarian, Janice Loo.</div>
@@ -105,6 +97,7 @@ With the help of a pulsar scientist, Sharma has been collecting and categorising
 	
 
 #### **The seas will sing and the wind will carry us (Fables of Nusantara) by Sherman Ong**
+
 Sherman Ong is a filmmaker, photographer and visual artist whose practice centres on the relationship between place and the human condition. In this video installation, he uses the documentary/ethnographic film genre to tell stories of migration, transborder identities, myths and memory in island Southeast Asia. The histories and contemporary stories of the region are explored through the stories of nine individuals featured in a series of video vignettes. The stories include an Acehnese living in Malaysia recounting the loss of his family in the Asian tsunami of 2004; a Peranakan (Straits Chinese) woman describing her life of servitude while waiting for the "right" man to come along; and a Chinese woman arriving in Singapore in search of a better life.
 	
 <div style="background-color: white;">
