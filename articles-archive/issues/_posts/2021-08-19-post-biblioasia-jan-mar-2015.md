@@ -4,7 +4,6 @@ date: 2021-08-19
 permalink: /vol-10/issue-4/jan-mar-2015/
 layout: post
 ---
-
 <img src="/images/vol-10-issue-4/background/background_image.jpg">
 
 [<b>Director's Note</b>](/vol-10/issue-4/jan-march-2015/director-note)
@@ -15,11 +14,11 @@ layout: post
 [<b>Maps as Statements of Power and Domination</b>](/vol-10/issue-4/jan-march-2015/map-as-statement)<br>Drawing from his personal collection of maps amassed over three decades, <i>Dr Farish A. Noor</i> invites us to truly read maps and look beyond their geographical boundaries.
 
 
-[<b>The National Library’s Rare Maps Collection</b> ](/vol-10/issue-4/jan-march-2015/rare-map)<br>The National Library has a collection of rare maps dating back to the 15th century.<i>Makeswary Periasamy</i> shares the significance and history of these maps and their makers. 
+[<b>The National Library’s Rare Maps Collection</b> ](/vol-10/issue-4/jan-march-2015/rare-map)<br>The National Library has a collection of rare maps dating back to the 15th century. <i>Makeswary Periasamy</i> shares the significance and history of these maps and their makers. 
 
 
 [<b>Lay of the Land: 
-The National Archives of Singapore’s Map Collection</b>](/vol-10/issue-4/jan-march-2015/map-collection)<br>From Singapore's days as a colony to modern times, maps have been an integral part of the nation's development.<i>Kevin Khoo</i> highlights the National Archives of Singapore's 10,000-strong map collection. 
+The National Archives of Singapore’s Map Collection</b>](/vol-10/issue-4/jan-march-2015/map-collection)<br>From Singapore's days as a colony to modern times, maps have been an integral part of the nation's development. <i>Kevin Khoo</i> highlights the National Archives of Singapore's 10,000-strong map collection. 
 
 [<b>The Secret Maps of Singapore</b>](/vol-10/issue-4/jan-march-2015/secretmap)<br>Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. <i>Bonny Tan</i> explore the origins of these one-of-a-kind maps.
 
@@ -32,7 +31,7 @@ The National Archives of Singapore’s Map Collection</b>](/vol-10/issue-4/jan-m
 
 [<b>A Nation of Islands</b>](/vol-10/issue-4/jan-march-2015/nation-of-island)
 
-[<b>Points of Departure: Charting Memories Through Collective Imaginations</b>](/vol-10/issue-4/jan-march-2015/points-of-departure)<br>Charting Memories Through Collective Imagination
+[<b>Points of Departure: Charting Memories Through Collective Imaginations</b>](/vol-10/issue-4/jan-march-2015/points-of-departure)<br>Charting Memories Through Collective Imaginations
 
 [<b>MusicSG: 
 A Repository of Singapore’s Musical Heritage</b>](/vol-10/issue-4/jan-march-2015/musical)
