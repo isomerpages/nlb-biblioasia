@@ -42,11 +42,11 @@ The caretaker Da Bo Gong (Tua Pek Kong) Tample on Kusu Island - just a 20-minute
 
 It is the start of the ninth month of the Chinese lunar calendar, and thousands of devotees will travel to the island temple seeking blessings from Tua Pek Kong (God of Prosperity) and Guan Yin (Goddess of Mercy). 
 
-At the temple, caretaker Seet Seng Huat pauses and nods his head in the direction of a small group of men huddled at the furnace in the temple courtyard. The trio, in long sleeves and biker masks - with only their eyes visible - to protect themselves from the heat and smoke, offer to burn jos paper for devotees in return far a small donation. 
+At the temple, caretaker Seet Seng Huat pauses and nods his head in the direction of a small group of men huddled at the furnace in the temple courtyard. The trio, in long sleeves and biker masks - with only their eyes visible - to protect themselves from the heat and smoke, offer to burn joss paper for devotees in return far a small donation. 
 
 Thick smoke billows out steadily from the narrow chimney of the furnace. The requests come thick and fast. As the two men take turns to collect joss paper and throw them into the furnace, the third man - probably the oldest - sits down. 
 
-“He comes here every season,” Seng Huat says,” and stays for a long time each time he visits.” He adds, “I think you should speak to him.” 
+“He comes here every season,” Seng Huat says,“ and stays for a long time each time he visits.” He adds, “I think you should speak to him.” 
 
 “It has been over 60 years since I first started work here.” 91-year-old Mustari Dimu, a former resident of Lazarus Island, says in Malay. And every year since then, Mustari has returned to Kusu for a full month - maintaining his long family tradition and deep friendship with Seet Hock Seng, Seng Huat’s late father, the temple's former caretaker. 
 
@@ -58,9 +58,9 @@ Using photographic stills, videography and archival footage, “Island Nation”
 
 #### **LIVING HISTORIES** 
 
-These islands represent an important part of Singapore's heritage. According to Marcus Ng. researcher and co-curator of the exhibition “Balik Pulau: Stories from Singapore's Islands”,[^1] these islands represent the southernmost maritime boundary of the nation both physically and politically. “It is space where you are vulnerable because you are surrounded by elements you can’t control,” he says. “You are reminded that you live on an island.” 
+These islands represent an important part of Singapore's heritage. According to Marcus Ng, researcher and co-curator of the exhibition “Balik Pulau: Stories from Singapore's Islands”,[^1] these islands represent the southernmost maritime boundary of the nation both physically and politically. “It is space where you are vulnerable because you are surrounded by elements you can’t control,” he says. “You are reminded that you live on an island.” 
 
-For Mustari, his involvement started as a young boy when his father, along with his uncles, worked sporadically for Hock Seng’s father at the temple. A young Mustari would often accompany his father on his trips to the temple, When Mustari's uncles passed away, he decided to keep the tradition. 
+For Mustari, his involvement started as a young boy when his father, along with his uncles, worked sporadically for Hock Seng’s father at the temple. A young Mustari would often accompany his father on his trips to the temple. When Mustari’s uncles passed away, he decided to keep the tradition.
 
 These days Mustari waits for a call in early September from Seng Huat. He then packs his clothes, prepares food items such as tea, sugar and biscuits for the month-long stay. In fact, there is even a special locker reserved for him at the temple. 
 
