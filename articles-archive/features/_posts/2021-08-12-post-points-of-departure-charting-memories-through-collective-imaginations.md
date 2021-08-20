@@ -4,8 +4,7 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/points-of-departure
 layout: post
 ---
-
-#### **Charting Memories Through Collective Imagination**
+#### **Charting Memories Through Collective Imaginations**
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/pointsofdeparture/ChangiTriptych_1_FP2.jpg)
 <div style="background-color: white;">School excursion to Changi Point from "Points of Departure" (2014). The original photograph of school boys is in ”black and white, captioned” Form 4B picnic at Changi date 2B Nov 1 957". The artist has overlaid this image onto a more recent shot of Changi Point, © <i>Juria Toramae. All rights reserved.</i></div>
