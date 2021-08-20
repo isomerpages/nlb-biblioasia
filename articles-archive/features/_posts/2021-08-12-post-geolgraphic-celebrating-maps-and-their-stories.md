@@ -139,4 +139,4 @@ Yee, C. (1994). Chinese maps in political culture. In J.B. Harley &amp; D. Woodw
 	
 [^8]:A miniature painting of Jahangir standing on the globe shooting at his enemy, Malik Anbar, dated 1620 is in the collection of the Chester Beatty Library. Another painting of Jahangir standing on a globe shows him embracing Shah Abbas of Iran, dated 1618 is in the collection of the Freer Gallery of Art.
 	
-[9]:*Borschberg*, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)*. Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
+[^9]:*Borschberg*, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)*. Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
