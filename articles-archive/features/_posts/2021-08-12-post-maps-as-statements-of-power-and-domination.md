@@ -92,7 +92,7 @@ The maps of Asia I have discussed in this essay tell us something about how the 
 <div style="background-color: white;">A Map of Java was produced by the British cartographer J. Walker in 1817, and appeared in the book <i>The History of Java</i> by Stamford Raffles. The map is notable for its documentation of the advance of British power acr055 the island. <i>Courtesy of Farish A. Noor</i></div>
 
 
-**Dr Farish A. Noor** is an Associate Professor at the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU), Singapore. He has been collecting books, maps and prints 0f Asia since his student days in Europe and has been researching the subject of state-formation and religio-political movements across Asia.
+**Dr Farish A. Noor** is an Associate Professor at the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU), Singapore. He has been collecting books, maps and prints of Asia since his student days in Europe and has been researching the subject of state-formation and religio-political movements across Asia.
 
 
 
