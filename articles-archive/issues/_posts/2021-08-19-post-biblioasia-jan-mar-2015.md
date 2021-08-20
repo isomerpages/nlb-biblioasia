@@ -6,6 +6,8 @@ layout: post
 ---
 <img src="/images/vol-10-issue-4/background/background_image1.jpg">
 
+<img src="/images/vol-10-issue-4/background/covered.jpg">
+
 [<b>Director's Note</b>](/vol-10/issue-4/jan-march-2015/director-note)
 
 
