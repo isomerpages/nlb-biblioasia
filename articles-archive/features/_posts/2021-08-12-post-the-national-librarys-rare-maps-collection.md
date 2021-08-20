@@ -97,14 +97,14 @@ The shape of the Malay Peninsula is much improved, with only the city of Malaqua
 <div style="background-color: white;">Portrait of Samuel Thornton by Karl Anton Hickel.<i>Collection of Bank of England</i>.</div>
 
 
-Samuel Thornton took over his brother's business in 1706 and re-issued the charts under his own name. The above chart is from Samuel Thornton's re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea pas- sage rather than to the island or city. 
+Samuel Thornton took over his brother’s business in 1706 and re-issued the charts under his own name. The above chart is from Samuel Thornton’s re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea passage rather than to the island or city. 
 
 European maps and charts of the 16th and 17th centuries tended to call Singapore by various names and depicted it either as a port, or city, an island, one of the four straits, a cape or promontory, or as the entire southern portion of the Malay Peninsula. [^19]
 
-Thornton's chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.
+Thornton’s chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg)
-<div style="background-color: white;">A large chart decribeing <i>ye Streights of Malacca and Sincapore</i>, Samuel Thornton(London, circa 1711)</div>
+<div style="background-color: white;">A large chart describeing <i>ye Streights of Malacca and Sincapore</i>, Samuel Thornton (London, circa 1711).</div>
 
 **Jacques Nicolas Beltin** (1703-72) was a French royal hydrographer who created maps for several key publications in the 18th century, such as Prévost's <i>L'Histoire Générale des Voyages</i> (1747-61) and <i>Petit Atlas Maritime(1764)</i>. His son (1745-85), who went by the same name, was an engraver based in Paris.[^20]
 
