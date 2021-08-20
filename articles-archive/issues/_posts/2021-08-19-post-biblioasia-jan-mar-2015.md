@@ -4,33 +4,34 @@ date: 2021-08-19
 permalink: /vol-10/issue-4/jan-mar-2015/
 layout: post
 ---
+<img src="/images/vol-10-issue-4/background/background_image.jpg">
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/background/Cover5_dark.jpg)
-
-[Director's Note](/vol-10/issue-4/jan-march-2015/director-note)
-
-
-[Geo Geographic](/vol-10/issue-4/jan-march-2015/geographic)<br>“GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015. <i>Tan Huism</i> explains why you should not miss this event.
-
-[Map As Statement of Power And Domination](/vol-10/issue-4/jan-march-2015/map-as-statement)<br>Drawing from his personal collection of maps amassed over three decades, <i>Dr Farish A. Noor</i> invites us to truly read maps and look beyond their geographical boundaries.
+[<b>Director's Note</b>](/vol-10/issue-4/jan-march-2015/director-note)
 
 
-[The National Librarys Rare Maps Collection](/vol-10/issue-4/jan-march-2015/rare-map)<br>The National Library has a collection of rare maps dating back to the 15th century.<i>Makeswary Periasamy</i> shares the significance and history of these maps and their makers. 
+[<b>GeolGraphic: Celebrating Maps and Their Stories</b>](/vol-10/issue-4/jan-march-2015/geographic)<br>“GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015. <i>Tan Huism</i> explains why you should not miss this event.
+
+[<b>Maps as Statements of Power and Domination</b>](/vol-10/issue-4/jan-march-2015/map-as-statement)<br>Drawing from his personal collection of maps amassed over three decades, <i>Dr Farish A. Noor</i> invites us to truly read maps and look beyond their geographical boundaries.
 
 
-[Lay of Land The National Archives of Singapores Map Collection](/vol-10/issue-4/jan-march-2015/map-collection)<br>From Singapore's days as a colony to modern times, maps have been an integral part of the nation's development.<i>Kevin Khoo</i> highlights the National Archives of Singapore's 10,000-strong map collection. 
-
-[The Secret Maps of Singapore](/vol-10/issue-4/jan-march-2015/secretmap)<br>Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. <i>Bonny Tan</i> explore the origins of these one-of-a-kind maps.
-
-[On The Trail Of Francis P Ng](/vol-10/issue-4/jan-march-2015/on-the-trail)<br>In her effort to republish one of our unknown literary treasures, <i>Dr Eriko Ogihara-Schuck</i> tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
+[<b>The National Library’s Rare Maps Collection</b> ](/vol-10/issue-4/jan-march-2015/rare-map)<br>The National Library has a collection of rare maps dating back to the 15th century.<i>Makeswary Periasamy</i> shares the significance and history of these maps and their makers. 
 
 
-[Travelog Melayu](/vol-10/issue-4/jan-march-2015/travelog-melayu)
+[<b>Lay of the Land: 
+The National Archives of Singapore’s Map Collection</b>](/vol-10/issue-4/jan-march-2015/map-collection)<br>From Singapore's days as a colony to modern times, maps have been an integral part of the nation's development.<i>Kevin Khoo</i> highlights the National Archives of Singapore's 10,000-strong map collection. 
 
-[Darwin In Cambridge And Wallace In The Malay Archipelago](/vol-10/issue-4/jan-march-2015/darwin-and-wallace)<br>Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things, <i>Dr John van Wyhe</i> addresses the misconception that Darwin cheated Wallace of his rightful place in history. 
+[<b>The Secret Maps of Singapore</b>](/vol-10/issue-4/jan-march-2015/secretmap)<br>Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. <i>Bonny Tan</i> explore the origins of these one-of-a-kind maps.
 
-[A Nation of Island](/vol-10/issue-4/jan-march-2015/nation-of-island)
+[<b>On the Trail of Francis P. Ng: Author of F.M.S.R.</b>](/vol-10/issue-4/jan-march-2015/on-the-trail)<br>In her effort to republish one of our unknown literary treasures, <i>Dr Eriko Ogihara-Schuck</i> tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
 
-[Points of Departure](/vol-10/issue-4/jan-march-2015/points-of-departure)<br>Charting Memories Through Collective Imagination
 
-[A Repository Of Singapores Musical Heritage](/vol-10/issue-4/jan-march-2015/musical)
+[<b>Travelog Melayu</b>](/vol-10/issue-4/jan-march-2015/travelog-melayu)
+
+[<b>Darwin in Cambridge &amp; Wallace in the Malay Archipelago</b>](/vol-10/issue-4/jan-march-2015/darwin-and-wallace)<br>Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things, <i>Dr John van Wyhe</i> addresses the misconception that Darwin cheated Wallace of his rightful place in history. 
+
+[<b>A Nation of Islands</b>](/vol-10/issue-4/jan-march-2015/nation-of-island)
+
+[<b>Points of Departure: Charting Memories Through Collective Imaginations</b>](/vol-10/issue-4/jan-march-2015/points-of-departure)<br>Charting Memories Through Collective Imagination
+
+[<b>MusicSG: 
+A Repository of Singapore’s Musical Heritage</b>](/vol-10/issue-4/jan-march-2015/musical)
