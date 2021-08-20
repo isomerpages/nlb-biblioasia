@@ -53,22 +53,23 @@ First produced in 1570, Ortelius' atlas was reprinted in various European langua
 
 **Theodore de Bry** (1528-98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.[^7]
 
+
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Theodor_de_Bry_self_portrait_1597.jpg)
 <div style="background-color: white;">A portrait of Theodore de Bry. <i>Wikimedia Commons</i></div>
 
 
-He is famous for compiling a well- illustrated collection of voyages and travels to the East and West Indies. which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.[^8]
+He is famous for compiling a well-illustrated collection of voyages and travels to the East and West Indies, which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.[^8]
 
-De Bry's map is based on Willem Lodewijcksz's 1598 map. Lodewijcksz was part of the first Dutch voyage to Southeast Asia under the command of Cornelis de Houtman from 1595 to 1597.Lodewijcksz's map charted the Southeast Asian region in detail, including the Malacca and Sunda Straits, and was one of the first maps to focus on the areas around the Malay Peninsula.[^9]
+De Bry’s map is based on Willem Lodewijcksz's 1598 map. Lodewijcksz was part of the first Dutch voyage to Southeast Asia under the command of Cornelis de Houtman from 1595 to 1597. Lodewijcksz’s map charted the Southeast Asian region in detail, including the Malacca and Sunda Straits, and was one of the first maps to focus on the areas around the Malay Peninsula.[^9]
 
-While the Malay Peninsula is called Chersonese Aurea, an old Ptolemaic name depicting it as a land of gold. Singapore is once again erroneously identified as a cape at the eastern end of the peninsula. The map also features the northern coast of Java in greater detail. 
+While the Malay Peninsula is called Chersonese Aurea, an old Ptolemaic name depicting it as a land of gold, Singapore is once again erroneously identified as a cape at the eastern end of the peninsula. The map also features the northern coast of Java in greater detail. 
 
-Interestingly, the map depicts a trans-peninsular waterway bisecting the Malay Peninsula at its southern tip. This river channel with the Muar River at the western end and the Pahang River at the eastern end was used as an overland trade route. Several maps from the 16th century to the second decade of the 17th century also contain this unique feature. De Bry's map clearly marks the rivers on each side as R. Farmeso and Muar R.
+Interestingly, the map depicts a trans-peninsular waterway bisecting the Malay Peninsula at its southern tip. This river channel with the Muar River at the western end and the Pahang River at the eastern end was used as an overland trade route. Several maps from the 16th century to the second decade of the 17th century also contain this unique feature. De Bry’s map clearly marks the rivers on each side as R. Farmeso and Muar R.
 
 Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Nova_tabula.jpg)
-<div style="background-color: white;"><i>Nova tabula insularum lavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula lava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> | G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>
+<div style="background-color: white;"><i>Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> | G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>
 
 Although Germany did not dominate map-making for an entire era, unlike the other European countries. German map-makers made important contributions to map-making from the 15th to 18th centuries. With the advances in printing technology in the 16th century, Germany (where the printing press was invented) became an important centre for map-making, far surpassing Italy. German map-makers also created better tools for map surveying. German map-making declined in the 17th century when Dutch map-makers became more prominent, but when the latter slowed down in the 18th century, German map-makers became active again. [^11]
 
