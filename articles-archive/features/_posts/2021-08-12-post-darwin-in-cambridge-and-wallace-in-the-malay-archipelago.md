@@ -4,10 +4,9 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/darwin-and-wallace
 layout: post
 ---
-
 #### Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things, **Dr John van Wyhe** addresses the misconception that Darwin cheated Wallace of his rightful place in history. 
 
-##### **DARWIN IN CAMBRIDGE**
+
 This article is based on the talk <i>“Darwin and Wallace” given by Dr John van Wyhe as part of the National Library's Prominent Speaker Series. Held on 31 July 2014 at the National Library Building, the talk was based on two of Dr van Wyhe’s recent books:</i> Charles Darwin in Cambridge: The Most Joyful Years and Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Charles_Darwin.jpg)
@@ -22,6 +21,8 @@ Charles Darwin (1809—1882) is one of the most intensely studied scientists in 
 
 #### **WILLAGE IN THE MALAY ARCHIPELAGO DARWIN IN CAMBRIDGE** 
 
+##### **DARWIN IN CAMBRIDGE**
+
 Darwin entered the books as an undergraduate student at Christ's College, Cambridge, on 15 October 1827, but as he had forgotten most of his schoolboy Greek he had to be tutored at home before entering Cambridge. (Why this mattered is explained in <i>Darwin in Cambridge; The Most Joyful rears.</i>[^2]) This meant he did not arrive in Cambridge until January 1828 - and by then all the rooms in the college were filled. So he took lodgings above the tobacconist shop across the street. The owner had an arrangement with Christ's College so that its students could rent rooms there, though this sometimes led to complaints. For instance, the shop owner across the street from the tobacconist would complain to the Master of the College that students kept knocking the hats off unwary passers-by along the street by flicking a long horsewhip from their first floor windows. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Alfred_Russel_Wallace.jpg)
@@ -29,7 +30,7 @@ Darwin entered the books as an undergraduate student at Christ's College, Cambri
 	
 For many years it has been repeated that Darwin was a theology student at Cambridge. This is not true. There was no such undergraduate degree. Instead, Darwin was registered for an ordinary Bachelor of Arts (BA) degree. It was his intention to become a clergyman, but such training could take place only after receiving the prerequisite B.A. In the end, Darwin never undertook any divinity training. 
 
-In November 1828, Darwin moved into a set of rooms in Christ's College, as he later recalled. “in old court. middle stair-case, on right-hand on going into court, up one flight, right-hand door and capital rooms they were.” They were indeed comfortable and recently discovered college record books reveal that Darwin's rooms were the most expensive at €4 per quarter. The record books also reveal that his college bills over three years amounted to about €700. This was a princely sum of money at the time. 
+In November 1828, Darwin moved into a set of rooms in Christ's College, as he later recalled. “in old court, middle stair-case, on right-hand on going into court, up one flight, right-hand door and capital rooms they were.” They were indeed comfortable and recently discovered college record books reveal that Darwin's rooms were the most expensive at €4 per quarter. The record books also reveal that his college bills over three years amounted to about €700. This was a princely sum of money at the time. 
 
 One of the more surprising findings about Darwin's daily life as a student was the mandatory attendance at the College Chapel. This in itself is no surprise, but what was previously unknown is that Darwin almost certainly took his turn at the medieval brass lectern and read from the Bible to the assembled members of the college. It is a striking and paradoxical image. Charles Darwin has probably been attacked more than any other scientist in history as being purportedly irreligious or worse, dangerous to religion. Although Darwin would cease to believe in Christianity shortly after his voyage on HMS <i>Beagle</i> (1831-36), he was never an atheist. 
 
@@ -78,7 +79,7 @@ After a series of underpaying jobs, Wallace set out for the Amazon valley in 184
 
 Undaunted, Wallace prepared for another collecting expedition, this time to the Malay Archipelago; what is now Singapore, Malaysia, Indonesia and East Timor. With the help of government money for his ticket, Wallace arrived in the bustling entrepôt of Singapore on 18 April 1854. 
 
-Over the next eight years Wallace made dozens of expeditions. His voyage correspondence was recently published, which together with his illuminating book <i>The Malay Archipelago</i> (1869), paints a rich picture of the peoples and nature of the 1850s and 1860s.[^9] Ultimately Wallace's collection totalled 125,660 specimens 01 insects, birds, shells and mammals. In inflated versions of the story, Wallace painstakingly collected all of these specimens himself. But recent historical research has revealed that Wallace employed more than 30 fulltime assistants to aid him in his task, one of whom, Charles Allen and his own assistants, collected about 40,000 specimens.[^10] Altogether, Wallace's assistants, particularly a Malay lad named Ali from Sarawak, probably collected more than half of the total number. 
+Over the next eight years Wallace made dozens of expeditions. His voyage correspondence was recently published, which together with his illuminating book <i>The Malay Archipelago</i> (1869), paints a rich picture of the peoples and nature of the 1850s and 1860s.[^9] Ultimately Wallace's collection totalled 125,660 specimens of insects, birds, shells and mammals. In inflated versions of the story, Wallace painstakingly collected all of these specimens himself. But recent historical research has revealed that Wallace employed more than 30 fulltime assistants to aid him in his task, one of whom, Charles Allen and his own assistants, collected about 40,000 specimens.[^10] Altogether, Wallace's assistants, particularly a Malay lad named Ali from Sarawak, probably collected more than half of the total number. 
 
 In 1855, while staying in Sarawak, Wallace wrote his first theoretical paper on species: “On the law which has regulated the introduction of new species.” In heroic accounts of Wallace, the paper is represented as if it was the first to have outlined the modern theory of evolution minus only the “mechanism” of natural selection. 
 
