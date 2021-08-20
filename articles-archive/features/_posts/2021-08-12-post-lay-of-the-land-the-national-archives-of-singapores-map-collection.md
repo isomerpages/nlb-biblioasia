@@ -4,7 +4,6 @@ date: 2021-08-12
 permalink: /vol-10/issue-4/jan-march-2015/map-collection
 layout: post
 ---
-
 #### From Singapore's days as a colony to modern times, maps have been an integral part of the nation's development. **Kevin Khoo** highlights the National Archives of Singapore's 10,000-strong map collection. 
 
 
@@ -62,7 +61,7 @@ The vast majority of maps in the NAS collection (numbering over 8,000) are geogr
 
 #### **MAPS SPANNING 190 YEARS: FROM 1819 TO 2009**
 
-Fewer than 40 maps from the NAS collection are from the pre-1819 period before Singapore was founded. Most of these early maps date from the late 18th century to the early 1800ss and are mainly of British as well as Dutch and Portuguese origins. 
+Fewer than 40 maps from the NAS collection are from the pre-1819 period before Singapore was founded. Most of these early maps date from the late 18th century to the early 1800s and are mainly of British as well as Dutch and Portuguese origins. 
 
 NAS holds about 190 maps from the early colonial period (1819-1866) when Singapore was administered together with Penang and Malacca as part of the Straits Settlements under the British East India Company and subsequently the British India government based in Calcutta. This period marked the beginning of more precise mapping of Singapore's physical environment. [^3]
 
