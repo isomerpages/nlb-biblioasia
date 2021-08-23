@@ -160,9 +160,9 @@ Studying the history of art-making in Singapore provides an insight into the wor
 The story of these graphic artists of a bygone era will contribute greatly to our appreciation of Singapore’s art history as well as its economy, its tenacity and responsiveness to change.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-2/authors/ChorLin.png" style="width: 100px; height: 100px;" />
-<b>Lee Chor Lin</b> is an art historian and museum consultant. She was director of the National Museum between 2003 and 2013 where she transformed the museum and museum scene in
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-17-issue-2/authors/ChorLin.png">
+<b>Lee Chor Lin</b> is an art historian and a museum consultant. She was the director of the National Museum between 2003 and 2013. There, she transformed the museum and museum scene in
 Singapore. She is also a Lee Kong Chian Research Fellow (2019). [Photo by Melisa Teo]
 </div>
 
@@ -180,7 +180,7 @@ Singapore. She is also a Lee Kong Chian Research Fellow (2019). [Photo by Melisa
 
 [^5]: [第19页 广告 专栏 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19290316-1.2.57.1). (1929, March 16). *南洋商报* [*Nanyang Siang Pau*], p. 19. Retrieved from NewspaperSG. [The same advertisement appeared in the 1, 8, 13, 19, 20 and 21 March 1929 editions of the newspaper.]
 
-[^6]: [Singapore & coronation reflections](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370510-1.2.4). (1937, May 10). *The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
+[^6]: [Singapore &amp; coronation reflections](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370510-1.2.4). (1937, May 10). *The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
 
 [^7]: [星華籌賑大會主辦南新洋國民商報報滇緬公路攝影展覽會舉行隆重開幕高總領事主持開幕禮稱觀此影展可加强抗戰信念主席李光前謂此影展會足以發揚吾民族復興精神會場佈置由美術專家多人設計極爲精緻](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391125-1.2.46.1). (1939, November 25). *南洋商报* [*Nanyang Siang Pau*], p. 7. Retrieved from NewspaperSG.
 
