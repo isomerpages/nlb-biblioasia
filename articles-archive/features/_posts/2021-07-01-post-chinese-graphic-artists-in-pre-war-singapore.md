@@ -161,8 +161,8 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-17-issue-2/authors/ChorLin.png">
-<b>Lee Chor Lin</b> is an art historian and a museum consultant. She was the director of the National Museum between 2003 and 2013. There, she transformed the museum and museum scene in
+<img src="/images/Vol-17-issue-2/authors/ChorLin.png" style="width: 100px; height: 100px;">
+<b>Lee Chor Lin</b> is an art historian and a museum consultant. She was the director of the National Museum between 2003 and 2013 and during her tenure, she transformed the museum and museum scene in
 Singapore. She is also a Lee Kong Chian Research Fellow (2019). [Photo by Melisa Teo]
 </div>
 
