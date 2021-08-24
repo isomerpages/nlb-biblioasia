@@ -4,7 +4,6 @@ date: 2017-01-13
 permalink: /vol-12/issue-4/jan-mar-2017/script-stages-theatre
 layout: post
 ---
-
 **A new exhibition on Singapore theatre traces its growth from its nascent days in the 1950s when traditional art forms were dominant, as Georgina Wong explains.**
 
 Although theatre in Singapore has a relatively short history of some 60 years, with its foundations having been laid only in the 1950s, it is made complicated by the fact that the various communities who engaged with theatre in the early days did so independently of one another.
@@ -65,7 +64,7 @@ Programme booklet and handwritten draft of Mama Looking For Her Cat by Kuo Pao  
 <img src="/images/Vol-12-issue-4/scriptandstage/guest.png">
 Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s to 80s” on 27 October 2016.
 </div>
-<div style="background-color: #C0C0C0;">
+
 **Iconic Theatre Across the Decades**
 
 **The 50s**
@@ -100,4 +99,3 @@ The play examines the consequences of language policies in Singapore, resulting 
 **Emily of Emerald Hill.** Stella Kon (1944–). Directed by Max Le Blond,1985. This was a breakthrough for English-language theatre in Singapore when it was staged in 1985 with Margaret Chan in the lead role. Written in 1982 while Kon was living in Edinburgh, UK, the play has been produced well over 50 times in Singapore, Malaysia and around the world. The monodrama is influenced by Kon’s Peranakan (Straits Chinese) heritage, and draws inspiration from her childhood home on Emerald Hill and the life of her maternal grandmother.
 
 All the scenes in Emily are performed by a single actress, who mimes and interacts with unseen characters on and off stage. Its simplicity was considered avant-garde for its time, but what was most innovative was the play’s use of language. Emily’s ability to switch seamlessly from Singlish and a mix of Malay and Hokkien to proper English with a clipped British accent held audiences in thrall. It also set the standard for an authentic Singaporean voice to be expressed on stage in the following decades.
-	</div>
