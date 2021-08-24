@@ -125,17 +125,16 @@ Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien
 
 <center>
 “… minutes before 8.45 pm, just about every family who had [a] Rediffusion set at home would stop whatever they were doing and crowd around the little set… Around that time, too, one could hardly find a trishaw or taxi on the road! Every trishaw rider or taxi driver would be at his or her favourite coffee shop listening to the inimitable Ong Toh… At 8.45 pm sharp, everybody at home or coffee shop stopped talking. Coffee cups would cease clinking… There would be a complete hush… all problems would be forgotten as Ong Toh transported them through time to ancient China with tales of heroism, treachery, bravery, vanity, cowardice and the like.”<sup>41</sup>
-	</center>
+
 	
 <b>The Sunset Years</b>
 
 After peaking in the early 1980s, Rediffusion began to decline as the rising popularity of new FM radio stations and the failure of Rediffusion to obtain a free-to-air broadcasting license in the 1990s sealed its fate. Its subscription plunged by more than 40 percent, from 110,348 subscribers in 1982 to 62,940 in 1988. By 2006, it had only 8,000 subscribers.<sup>42</sup>
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Cantopop.JPG">
-<center>
-	<p style="color: grey; font-size: 15px;"> 
+	<div style="color: grey; font-size: 15px;"> 
 Cantopop diva Frances Yip with Rediffusion DJ Larry Lai at a satellite station in Metro Golden Mile, 1971. Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)
-	</p></center>
+	</div>
 
 The Speak Mandarin Campaign that was launched in 1979 is often cited as a major reason for Rediffusion’s decline. To promote the use of Mandarin, Rediffusion was required to stop all dialect programmes by 1982. The removal of all Hokkien, Cantonese, Teochew and Hakka storytellers took away a major pillar of its programming.
 
@@ -173,10 +172,10 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 [^1]:National Library Board. (2014). Chinese street storytellers by Fiona Tan. Retrieved from Singapore Infopedia website.
 [^2]:Cheong, J. (2006, February 12). Redi-rection. The Straits Times, p. 4. Retrieved from NewspaperSG.
-
+[^3]:National Library Board. (2014). <i>Chinese street storytellers</i> by Fiona Tan. Retrieved from Singapore Infopedia website.
 <b>Notes</b>
 <ol>
-	<li>National Library Board. (2014). <i>Chinese street storytellers</i> by Fiona Tan. Retrieved from Singapore Infopedia website.</li>
+
 	<li>Cheong, J. (2006, February 12). Redi-rection. <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.</li>
 <li>The Singapore Memory Project, launched in 2011, is a whole-of-nation movement by the National Library Board that documented memories and moments related to Singapore from individuals and organisations.</li>
 	<li>Seah, J. (2012, April 10). <i>Farewell to Redifffusion</i>. Retrieved from Singapore Memory Project website.</li>
@@ -198,4 +197,4 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 
 
-</ol>
+</ol></center>
