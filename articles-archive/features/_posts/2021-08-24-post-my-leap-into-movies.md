@@ -4,12 +4,10 @@ date: 2021-08-24
 permalink: /articles-archive/features/permalink
 layout: post
 ---
-<div style="background-color: white;">
-<br>
-<img src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile.jpg">
+<img src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile.jpg"><div style="background-color: white;">
 Theatre thespian and film director Glen Goei reflects on his transition from the stage to cinema screen..
 </div>	
-
+	
 My first film, <i>Forever Fever</i>, was born out of a situation of sheer desperation. It was 1995, and I’d been living in the UK for nearly 15 years. I was a 32-year-old West End actor, had won a couple of awards as theatre director on the London stage, and had been running an Asian theatre company called Mu-Lan Arts for close to five years. It was after our fourth production - the staging of <i>Three Japanese Women</i> at London’s Soho Theatre - that reality sunk in: the audience numbers were not increasing and the company’s finances were dwindling. I grew despondent. Despite receiving awards and great reviews from the British media, there just wasn’t sufficient demand for theatre with actors of Asian descent (or Orientals, as less informed Brits are wont to say). 
 
 Artistically frustrated, I left for New York to do a short course in film at New York University (NYU), where not unexpectedly, I was forced to think about possible storylines for films. On returning to London, I set out to produce a film based on Ming Cher’s <i>Spider Boys</i>, a gritty novel about youth gangs in 1950s Singapore. Unfortunately, before filming could take place in 1997, the project fell through due to casting problems. Dejected but not defeated, I became more determined to make a film - no matter what the odds were. 
@@ -27,14 +25,11 @@ I didn't know of any production company that worked solely in film. In desperati
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever.jpg)
 <div style="background-color: white;"></div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_2.jpg)
-<div style="background-color: white;"></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_2.jpg)<div style="background-color: white;"></div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_3.jpg)
-<div style="background-color: white;"></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_3.jpg)<div style="background-color: white;"></div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_5.jpg)
-<div style="background-color: white;">
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_5.jpg)<div style="background-color: white;">
 Film stills from <i>Forever Fever</i> (1998), starring Adrian Pang, Pierre Png, Anna Belle Francis and Medaline Tan. <i>Courtesy of Tiger Tiger Pictures</i>.</div>
 
 Eleven years later, when I made my second film <i>The Blue Mansion</i>, I wasn’t as fortunate. I blew the budget and despite good reviews, the murder-mystery thriller set in Penang turned out to be a financial disaster at the box office. I lost all the money I had made on <i>Forever Fever</i>. Once again, I found it hard to find a producer who could handle the demands of a feature film. Local producers rarely have the opportunity to handle big budgets and shoot large-scale films. Truth be told, it’s a chicken-and-egg situation: local films remain small because the market for them is small. I needed - and still need - producers who can handle the funding, the budgeting, and manage the scale and complexities of making a feature film; the demands are completely different from television. 
