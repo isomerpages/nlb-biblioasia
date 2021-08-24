@@ -34,9 +34,10 @@ Apart from stories, Rediffusion also broadcast recordings of outdoor stage shows
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
 <center>
+	<p style="color: grey; font-size: 15px;"> 
 A Rediffusion set from the 1950s. The radio service was transmitted via cable. Courtesy of National Museum of Singapore, National Heritage Board.
 An undated recording session in progress at a Rediffusion studio. Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)
-</center>
+	</p></center>
 
 Rediffusion became popular at a time when the majority of Singaporeans lived in rural areas and  not many households could afford a television set. Besides, Rediffusion triumphed over the  state-owned broadcaster because it had a clear advantage over conventional radio services  operated  by   the  state.<sup>6</sup>
 
