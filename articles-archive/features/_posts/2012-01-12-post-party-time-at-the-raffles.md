@@ -59,4 +59,28 @@ The party atmosphere at the Raffles was clearly contagious, as British traveller
 <div style="background-color: white;">Festive menu covers from Christmas and New Year’s Eve dinners in 1932, and Christmas 1936. French fare was served for dinner on Christmas Day 1936.</div>
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/st-george.jpg)
-<div style="background-color: white;">The Royal Society of St George was founded in 1894 with the aim of promoting “Englishness” and the English way of life in countries wherever the British had settled. The Singapore branch was founded in 1925. Sir Lawrence Guillemard, then Governor of the Straits Settlements, became a patron and life member of the society. Pictured here is the celebratory menu and programme for the society’s “England Day” menu on 6 May 1937..</div>
+<div style="background-color: white;">The Royal Society of St George was founded in 1894 with the aim of promoting “Englishness” and the English way of life in countries wherever the British had settled. The Singapore branch was founded in 1925. Sir Lawrence Guillemard, then Governor of the Straits Settlements, became a patron and life member of the society. Pictured here is the celebratory menu and programme for the society’s “England Day” menu on 6 May 1937.</div>
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/jubileedinner.jpg)
+<div style="background-color: white;">The menu card of the Jubilee Dinner held on 6 May 1935 to celebrate the 25th anniversary of the coronation of King George V and Queen Mary. Whoever crafted this menu to spell out the words “Jubilee Dinner” must have really struggled to come up with the appropriate dishes. The letter “U” for “Unless you prefer turtle soup with golden sherry” is rather lame and one wonders what inventive dessert dish called “Raffles” the chef had concocted for the letter “R”!</div>
+
+#### The Rare Materials Collection
+All the menus featured in this article were donated to the National Library, Singapore, by Roberto Pregarz, who was General Manager of Raffles Hotel from 1972 to 1989. He is a collector of historical memorabilia from the Raffles Hotel, and the author of two books: Memories of Raffles: 22 Years with a Grand Old Hotel and Raffles Legends and Stories.
+
+These menus are part of the National Library’s Rare Materials Collection. The collection – which is kept in a climate controlled facility on level 13 of the National Library − comprises over 11,000 items, mostly books and periodicals, but also materials such as manuscripts, maps, photographs, art prints and illustrations, as well as handwritten letters and documents.
+
+To provide access to the materials, the Rare Materials Collection is being digitised and made available on National Library’s BookSG website at [http://eresources.nlb.gov.sg/printheritage](http://eresources.nlb.gov.sg/printheritage). Microfilm copies are also available at level 11 of the Lee Kong Chian Reference Library (Singapore &amp; Southeast Asian Collection) at NLB Building. To view the originals, please email your request to [ref@nlb.gov.sg](mailto:ref@nlb.gov.sg).
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/francis.png">
+	<b>Francis Dorai </b>has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
+</div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
+	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
