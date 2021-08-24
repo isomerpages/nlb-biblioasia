@@ -2,6 +2,9 @@
 title: Director’s Note
 permalink: /directors-note-jan-2020/
 ---
+<img src="/images/Vol-11-issue-3/Vol11_Iss3.jpg">
+
+
 Welcome to the first issue of 2020! The start of any new year always provides us with the opportunity to look forward to what the future holds, and to reflect on our past.
 
 Today, we take it for granted that we can get our fill of entertainment anytime and anywhere we want. We download movies and television programmes onto our phones and tablets, and watch them while lying in bed or riding the MRT.
@@ -21,4 +24,3 @@ Some stories about colonial Singapore are better known than others. Adeline Foo 
 In contrast, we feature the intrepid Austrian writer Ida Pfeiffer, who travelled the world alone and stopped over twice in Singapore in the second half of the 19th century. She wrote about the wonders of Pulau Ubin, described a Chinese funeral in detail and came up close to drying human heads in Sarawak. John van Wyhe has the story.
 
 We round off this issue with Ang Seow Leng’s piece on census-taking in Singapore, Gracie Lee’s article on the history of printing in Indochina and Wong Sher Maine’s retrospective on 150 years of the Istana.
-
