@@ -6,6 +6,8 @@ layout: post
 ---
 #### A new exhibition on Singapore theatre traces its growth from its nascent days in the 1950s when traditional art forms were dominant, as Georgina Wong explains.
 
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/scriptandstage/script-stages.png)
+
 Although theatre in Singapore has a relatively short history of some 60 years, with its foundations having been laid only in the 1950s, it is made complicated by the fact that the various communities who engaged with theatre in the early days did so independently of one another.
 
 Thus, the Chinese, Malay, Tamil and English theatre scenes developed in parallel, relatively isolated within each community, and rarely crossed boundaries until the 1980s when multilingual and multidisciplinary productions were staged. Therefore, any attempt to study and understand Singaporean theatre as a unified whole is extremely challenging, and likely explains the dearth of research and documentation on the subject.
@@ -113,7 +115,7 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png" style="width: 100px; height: 100px;">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
