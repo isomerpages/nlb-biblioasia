@@ -88,7 +88,7 @@ Adukku Veetu Annasamy is a radio drama series written by P. Krishnan (also known
 
 Written as a collaborative effort between the drama group Persatuan Kemuning and the literary association Angkatan Sasterawan ’50 (or ASAS ’50), the partnership saw ASAS ’50 providing quality scripts and Persatuan Kemuning staging the plays. This was not uncommon in the Malay literary scene, where writers often crossed over into drama and vice versa.
 
-One of the founders of ASAS ’50 was the Singaporean Malay literary pioneer Masuri S.N. Better known as a poet, Matahari Malam was one of the few plays Masuri wrote in his lifetime, along with Dari Curfew. Regarded as a bold experimental work, Matahari is about an author who is confronted by five fictional characters of his own creation, who express displeasure at how their characters and storylines are being written.
+One of the founders of ASAS ’50 was the Singaporean Malay literary pioneer Masuri S.N. Better known as a poet, *Matahari Malam* was one of the few plays Masuri wrote in his lifetime, along with *Dari Curfew*. Regarded as a bold experimental work, *Matahari* is about an author who is confronted by five fictional characters of his own creation, who express displeasure at how their characters and storylines are being written.
 
 ***寻找小猫的妈妈, Xunzhao xiaomao de mama (Mama Looking For Her Cat).*** Directed by Kuo Pao Kun (1939–2002). Staged by the Practice Theatre Ensemble, 1988.
 Till today, Kuo’s iconic work, which he wrote in 1988, is considered as one of the most influential productions in Singapore’s theatre history. The production was performed by a multiracial ensemble who used four languages and three Chinese dialects on stage: English, Malay, Mandarin, Tamil, Hokkien, Cantonese and Teochew. The actors also employed non-verbal expressions such as body movements and gestures to explore the widening language divide in Singapore.
@@ -106,7 +106,7 @@ All the scenes in Emily are performed by a single actress, who mimes and interac
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong.png" style="width: 100px; height: 100px;">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
