@@ -23,7 +23,7 @@ One of the things the Raffles Hotel excelled at was throwing a good party. The d
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/lavishlivingroom.jpg)
 <div style="background-color: white;">Scenes of the lavish Dining Room that was “capable of seating 500”. The spacious Dining Room on the ground floor of the new Main Building, which was declared opened in November 1899, was where many extravagant dinners and parties were held. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
-The opening of the Main Building at the turn of the 20th century properly entrenched the Raffles as the venue to host a fine party. The new marble-floored Dining Room “capable of seating 500”[^1]was where many indulgent dinners – supervised by two French chefs – would be served by white-gloved waiters.
+The opening of the Main Building at the turn of the 20th century properly entrenched the Raffles as the venue to host a fine party. The new marble-floored Dining Room “capable of seating 500”[^1] was where many indulgent dinners – supervised by two French chefs – would be served by white-gloved waiters.
 
 Menu cards from this period, such as the one on 14 July 1917, featured gastronomic fare such as “Clear Turtle Soup, Baked Red Fish [in] Butter Sauce, Chicken en Aspic, Grilled Filet Steak &amp; Sugar Peas, Faisan Roti [roasted pheasant] a l’ Anglaise, Iced Asparagus [in] Mayonaise Sauce… [and] Wild Rose Ice Cream…”, among other delights. At the outdoor Palm Court, after-dinner music would be played by the Band of the K.O.R (King’s Own Regiment).
 
@@ -73,13 +73,13 @@ To provide access to the materials, the Rare Materials Collection is being digit
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/francis.png">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/francis.png" style="width: 100px; height: 100px;">
 	<b>Francis Dorai </b>has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png" style="width: 100px; height: 100px;">
 	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
 </div>
 
