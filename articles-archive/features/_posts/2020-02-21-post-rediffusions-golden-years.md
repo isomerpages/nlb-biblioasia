@@ -122,9 +122,16 @@ Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien
 
 After peaking in the early 1980s, Rediffusion began to decline as the rising popularity of new FM radio stations and the failure of Rediffusion to obtain a free-to-air broadcasting license in the 1990s sealed its fate. Its subscription plunged by more than 40 percent, from 110,348 subscribers in 1982 to 62,940 in 1988. By 2006, it had only 8,000 subscribers.42
 
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Weekly%20Compilation.JPG">
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Cantopop.JPG">
 <center>
-A weekly compilation of the most popular songs based on the number of requests received by Rediffusion’s English Programme Department for the week ending 23 January 1967. Image reproduced from Singapore’s “Top Tunes” (n.d.). Singapore: Rediffusion. (Call no.: RCLOS 016.78242 RSLSTT)
+Cantopop diva Frances Yip with Rediffusion DJ Larry Lai at a satellite station in Metro Golden Mile, 1971. Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)
 </center>
-	
-	
+
+The Speak Mandarin Campaign that was launched in 1979 is often cited as a major reason for Rediffusion’s decline. To promote the use of Mandarin, Rediffusion was required to stop all dialect programmes by 1982. The removal of all Hokkien, Cantonese, Teochew and Hakka storytellers took away a major pillar of its programming.
+
+However, this alone may not necessarily have been the death blow for Rediffusion.43 In fact, the switch to Mandarin potentially gave the station access to a new target audience: young Mandarin-speaking listeners instead of middle-aged and older people.44 In 1981, when Rediffusion introduced a new educational programme in Mandarin for secondary four students called “Revise Your Lessons with Us”, it became very popular, attracting as many listeners as some variety quiz shows.45
+
+Ironically, one of the key reasons for Rediffusion’s early success contributed to its eventual decline. Rediffusion’s receiving boxes were not plugged into electrical sockets, which was an advantage for people who did not have access to electricity. However, as portable battery-powered radio sets became affordable, and more homes became wired up to the electrical grid, Rediffusion lost its initial allure. Moreover, Rediffusion could not compete with new radio stations that delivered better programming.
+
+The cables that enabled Rediffusion to thrive in the kampong became a noose as it required an investment in cabling infrastructure, which AM and FM radios did not need. One academic study noted that Rediffusion’s “fateful mis-step may have been when it decided not to lay its wires into new HDB estates that were springing up from the 1980s”.46 Not investing in this meant that Rediffusion lost subscribers who had moved into these new housing estates and failed to attract new ones for a number of years.
+
