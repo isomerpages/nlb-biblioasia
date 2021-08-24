@@ -113,7 +113,7 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png" style="width: 100px; height: 100px;">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
@@ -127,14 +127,14 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 Don, R., et al. (Eds.). (2001). The world encyclopedia of contemporary theatre: Asia/Pacific. London: Taylor &amp; Francis. Retrieved from Googlebooks website.
 
-Krishnan, S. (Ed.). *[9 lives: 10 years of Singapore theatre 1987–1997: Essays]*(http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8815329). Singapore: The Stage. Call no.: RSING 792.095957 NIN
+Krishnan, S. (Ed.). [9 lives: 10 years of Singapore theatre 1987–1997: Essays](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8815329). Singapore: The Stage. Call no.: RSING 792.095957 NIN
 
-Mohamad Nazri Ahmad. (2000). *[Seni Persembahan Drama Melayu Moden]*(http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10106970). Bangi: Penerbit Universiti Kebangsaan Malaysia. Call no.: Malay R 899.282 MOH
+Mohamad Nazri Ahmad. (2000). [Seni Persembahan Drama Melayu Moden](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10106970). Bangi: Penerbit Universiti Kebangsaan Malaysia. Call no.: Malay R 899.282 MOH
 
-Oon, C. (2001). *[Theatre life: A history of English-language theatre in Singapore through The Straits Times (1958–2000)]*(http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10520186). Singapore: Singapore Press Holdings. Call no.: RSING 792.095957 OON
+Oon, C. (2001). [Theatre life: A history of English-language theatre in Singapore through The Straits Times (1958–2000)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10520186). Singapore: Singapore Press Holdings. Call no.: RSING 792.095957 OON
 
-Sikana, M., &amp; A. Raman Hanafiah. (2008). *[Sejarah kesusasteraan Melayu moden: Drama]*(http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13584641). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay R 899.28209 ABD
+Sikana, M., &amp; A. Raman Hanafiah. (2008). [Sejarah kesusasteraan Melayu moden: Drama](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13584641). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay R 899.28209 ABD
 
 Sarma, S.S. [எஸ். எஸ். சர்மா]. (2004). [நாடகம் நடத்தின􀀛ோம்](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12354372) [Nāţakam naţattinōm]. சிங்கப்பூர்: எஸ். எஸ். சர்மா [Cinkappūr: Es. Es. Carmā]. Call no.: Tamil RSING 894.8112 SAR
 
-Varathan, S., &amp; Sagul Hamid. (2008).*[ Development of Tamil drama in Singapore]*(http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13100123). Singapore: Singapore Indian Artistes Association. Call no.: RSING 792.095957 VAR-[SRN]
+Varathan, S., &amp; Sagul Hamid. (2008).[ Development of Tamil drama in Singapore](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13100123). Singapore: Singapore Indian Artistes Association. Call no.: RSING 792.095957 VAR-[SRN]
