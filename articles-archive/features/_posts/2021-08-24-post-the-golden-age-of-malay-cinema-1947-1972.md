@@ -21,9 +21,14 @@ While the Shaws' pre-World War II Malay films featured <i>bangsawan</i> actors a
 
 At this point, Rajhans recognised the need to infuse his crew with fresh blood instead of relying solely on the local traditional <i>bangsawan</i> (Malay opera) performers who had crossed over into the world of moving pictures. Whilst on talent-scouting trips in the Malay Peninsular and Singapore, Rajhans spotted the young musician P. Ramlee and quickly hired the charismatic singer-actor. Ramlee made his screen debut in the 1948 film <i>Chinta (Love)</i>, playing the supporting role of a swarthy villain opposite screen siren Siput Sarawak.[^13]
 
-(Facing page) Maria Menado as the pontianak in B.N. Rao's 1957 Dendam Pontianak. © Dendam Pontianak. Directed by B. Narayan Rao, produced by Cathay-Keris Films. Singapore, 1957. 
-(Top left) P. Ramlee was an actor-singer who starred in many of Shaw's MFP's films. © 120 Malay Movies, Amir Muhammad, published by Matahari Books, 2010. 
-(Top right) A 1948 flyer advertising Singapura Di Waktu Malam (Singapore Night), one of MFP’s earliest Malay films and starring Siput Sarawak and Bachtiar Effendi. © Singapura Di Waktu Malam. Directed by B.S. Rajhans, produced by Malay Film Productions, 1947. Courtesy of Wong Han Min.
+![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/bg3.jpg)
+<div style="background-color: white;">Maria Menado as the pontianak in B.N. Rao's 1957 Dendam Pontianak. © Dendam Pontianak. Directed by B. Narayan Rao, produced by Cathay-Keris Films. Singapore, 1957.</div>
+	
+![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/P_Ramlee.jpg)
+<div style="background-color: white;">P. Ramlee was an actor-singer who starred in many of Shaw's MFP's films. © 120 Malay Movies, Amir Muhammad, published by Matahari Books, 2010.</div>
+	
+![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Singapore_Night.jpg)
+<div style="background-color: white;">A 1948 flyer advertising Singapura Di Waktu Malam (Singapore Night), one of MFP’s earliest Malay films and starring Siput Sarawak and Bachtiar Effendi. © Singapura Di Waktu Malam. Directed by B.S. Rajhans, produced by Malay Film Productions, 1947. Courtesy of Wong Han Min.</div>
 
 Not to be eclipsed was rival Cathay Organisation’s Cathay-Keris Films with its studios at Jalan Keris in the East Coast area. In 1953, Cathay's chairman Loke Wan Tho teamed up with Keris Film Productions' managing director Ho Ah Loke to form the Cathay-Keris Studio. Cathay-Keris was to pose a serious challenge to Shaw Brothers MFP’s dominance in the Malay film industry.[^14]
 
@@ -33,8 +38,9 @@ A turning point in the Malay film industry occurred in 1957 when a dispute broke
 
 Following the strikes, Cathay-Keris released one of the most notable cult films in the Malay movie industry, <i>Pontianak</i> (1957), starring the radiant <i>kebaya-queen</i> from Indonesia, Maria Menado. The ghoulish tale of a beauty-turned vampire who could only be killed with a nail driven into her skull was directed by B.N. Rao. The phenomenal success of <i>Pontianak</i> - which spawned the sequel <i>Dendam Pontianak (Pontianak’s Revenge) </i> in the same year and consequently the horror film genre - heralded the arrival of Cathay-Keris as a formidable opponent in the industry.[^20] Menado, too, rode the crest of her success in the <i>Pontianak</i> films to become Malaya’s first film-star producer with her own company, Maria Menado Productions, rivalling P. Ramlee’s status in the filmmaking sphere.[^21]
 
-PICTURE
-Actress-producer Maria Menado (of the Pontianak movie fame) in 1960. K.F. Wong collection, courtesy of the National Archives of Singapore.
+![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Maria_Menado.jpg)
+<div style="background-color: white;">
+Actress-producer Maria Menado (of the Pontianak movie fame) in 1960. K.F. Wong collection, courtesy of the National Archives of Singapore.</div>
 
 #### **A Steady Decline**
 
@@ -61,10 +67,11 @@ In 1953, a new form of subtitling was introduced. The previous method outlining 
 
 Malay films of the 1950s and 60s, particularly P. Ramlee films, appealed to Malaya’s cosmopolitan society because the universal themes they portrayed cut across language and cultural barriers. [^43] In order to cater to non-Malay-speaking audiences, English subtitles were provided in Malay movies.[^44] The then sole translator, writer Zulkifli Haji Muhammad joined Shaw Brothers’ Jalan Ampas studio in 1960, eventually becoming assistant director, directing Malay films for Shaw.[^45]
 
-PICTURE
-A Chinese flyer promoting <i>Anak Pontianak</i> (1958). <i>Directed by Roman Estella, produced by Malay Film Productions Ltd. Singapore/ Hong Kong, 1958</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Anak_Pontianak.jpg)
+<div style="background-color: white;">
+A Chinese flyer promoting <i>Anak Pontianak</i> (1958). <i>Directed by Roman Estella, produced by Malay Film Productions Ltd. Singapore/ Hong Kong, 1958</i></div>
 
-**TERJEMAHAN BERKESAN: SARIKATA DALAM FILEM MELAYU** 
+#### **TERJEMAHAN BERKESAN: SARIKATA DALAM FILEM MELAYU** 
 
 Selepas perang, Shaw dan Cathay melihat kesan positif dari penggunaan sarikata (sub-titles) yang telah merancakkan lagi sambutan terhadap tayangan filem-filem bahasa asing mereka. Peminat filem dari masyarakat Melayu yang berduyun-duyun ke Taj dan Garrick di Geylang dalam 50an dan 60an terkena demam Bollywood kerana dapat memahami filem hindi menerusi sarikata yang disediakan dalam Bahasa Melayu. Bahkan sedekad sebelum Dev Anand memukau penonton Melayu dengan aksi pertarungannya yang hebat, penonton-penonton Cina di Singapura yang tidak fasih dalam bahasa Inggeris telahpun tertarik untuk menonton filem-filem dari Amerika dan Britain kerana tersedianya sarikata dalam bahasa Cina. Sekumpulan pakar dan operator penterjemah telah digajikan untuk menyiapkan sarikata filem. Pada 1948, dilaporkan hanya segelintir sahaja menjadi tenaga pakar ini dan mereka dikatakan memikul tugas yang paling sukar dan teruja dalam industri perfileman. Untuk filem blockbuster Hamlet yang ditayangkan dalam 1948, Cathay telah melantik seorang siswazah dari Hong Kong, Lau Shing-yuen, untuk menterjemah dan menyiapkan slides dalam bahasa Cina, yang kemudian dipancarkan ke skrin kecil di bawah tayangan gambar. Menyalin huruf Cina ke slides tersebut harus melalui dua tahap: melukis huruf degan Chinese ink dan memahat huruf Cina itu di atas slide kaca dengan stylus logam. Dalam 1953, cara ini telah diperbaharui kerana ianya hanya memuatkan plot filem secara ringkas dan kurang memaparkan jalan cerita dan dialog filem dengan sempurna. Untuk meningkatkan mutu terjemahan, sarikata sekarang dicetak langsung ke dalam filem dan ia dapat menghasilkan hampir 1000 sarikata bagi setiap filem. Cara baru ini dilancarkan di Hong Kong sebelum diperkenalkan di Singapura. 
 
@@ -86,10 +93,23 @@ According to Chew Poi Yong, Cathay’s painter in the early 1950s, two key ingre
 
 Hand-painted film posters went through a boom from the 1950s until the 1970s with as many as 100 posters commissioned per film. In the past, as many as 10 painters would be mobilised to complete a big billboard requiring 100 pieces of plywood for mounting. As experienced painters retired and new blood could not be attracted to join the profession, dwindling manpower meant that only one painter was assigned to a poster.[^57] By 1980, Shaw had closed down its art studio that produced its posters[^58] and by the end of the 1980s, hand-painted posters had given way to their digital rivals.
 
-Hand-painted film posters were the rage from the 1950s to 70s but slowed down by the 80s. Here, Neo Choon Teck, one of Singapore’s last surviving billboard artists, reprises his work for the Singapore Short Film Awards in 2011. <i>Courtesy of SINdie</i> (www.sindie.sg). 
 
-**TAYANGAN AKAN DATANG: POSTER LUKISAN TANGAN**
- Beberapa dekad telah berlalu tapi saya masih ingat dengan sekumpulan teman ayah yang dahulu bekerja di Jalan Ampas. Seorang yang masih segar di ingatan saya ialah A V Bapat, Pengarah Seni untuk kebanyakkan filem MFP (Malay Film Productions). Kalau anda dapat melihat poster filem Melayu lama (seperti poster Raja Bersiong…), kemungkinan besar ia adalah hasil karya beliau. Saya minat dengan cara beliau melukis poster… Pakcik Bapat telah lama pergi dan ia menyedihkan kadang kala sumbangan beliau kepada industri filem Melayu dilupakan. Setahu saya, beliau bertugas sebagai pereka set, pakaian dan semua kerja artistik semasa di Jalan Ampas. 
+![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/IMG_7443_2.jpg)
+<div style="background-color: white;">Hand-painted film posters were the rage from the 1950s to 70s but slowed down by the 80s. Here, Neo Choon Teck, one of Singapore’s last surviving billboard artists, reprises his work for the Singapore Short Film Awards in 2011. <i>Courtesy of SINdie</i> (www.sindie.sg).</div>
+
+#### **TAYANGAN AKAN DATANG: POSTER LUKISAN TANGAN**
+
+	Beberapa dekad telah berlalu tapi saya masih ingat
+	dengan sekumpulan teman ayah yang dahulu bekerja di 
+	Jalan Ampas. Seorang yang masih segar di ingatan saya 
+	ialah A V Bapat, Pengarah Seni untuk kebanyakkan filem
+	MFP (Malay Film Productions). Kalau anda dapat melihat
+	poster filem Melayu lama (seperti poster Raja Bersiong…),kemungkinan besar ia adalah hasil karya beliau. Saya minat dengan cara beliau melukis poster… 
+	Pakcik Bapat telah lama pergi dan ia menyedihkan 
+	kadang kala sumbangan beliau kepada industri filem 
+	Melayu dilupakan. Setahu saya, beliau bertugas sebagai 
+	pereka set, pakaian dan semua kerja artistik semasa di 
+	Jalan Ampas. 
 
 Shaw dan Cathay cuba memenuhi citarasa peminat filem Melayu terhadap perkembangan filem dengan mengeluarkan tabloid dan poster filem. Bagi yang tidak melanggan sebarang makalah, poster-poster filem yang dipamerkan di pawagam setempat adalah cara terunggul untuk mengetahui tayangan terkini dan yang dapat ditonton dalam jangkamasa terdekat. Di sebalik poster gah yang terpampang, mungkin ramai tidak dapat meneka yang banyak poster filem dihasilkan oleh pelukis-pelukis yang hanya bersinglet dan seluar pendek, dengan tangan comot berlumuran cat.
 
@@ -101,15 +121,40 @@ Sebagai pelukis poster, mereka banyak meniru gambar yang tersedia ada. Hal ini t
 
 Dua ciri utama untuk menjayakan poster ialah keseimbangan dan warna. Menurut Chew Poi Yong, seorang pelukis Cathay sejak tahun 50an, ciri pertama penting untuk mencapai penglebaran ukuran yang baik dan ciri kedua penting untuk membolehkan poster dilihat dari jauh. Untuk memudahkan pelukis dalam penglebaran yang seimbang, mereka akan membuat tanda empat persegi dengan kapur putih. Selepas melakar gambar dengan marker biru, mereka mencurahkan cat putih ke atasnya untuk warna latar dan corengan dari lakaran gamabr tadi akan timbul. Maka bermulalah kegiatan mencorak gambar itu dengan warna-warna yang lain.
 
-Permintaan untuk poster begitu rancak dari 50an ke 70an, hingga 100 keping boleh ditempah untuk setiap filem. Namun, pelukis-pelukis yang telah lama berkecimpung mula bersara sementara anak-muda tidak berminat untuk menceburi kraf ini. Kalau dahulu, seramai 10 pelukis dapat digembeling untuk menyiapkan sebuah billboard gah yang memerlukan 100 keping plywood sebagai <i>backing<i>. Dengan masa, tenaga yang sudah berkurangan menjadikan sebuah poster itu terpaksa disiapkan oleh seorang pelukis sahaja. Setelah berakhirnya tahun ‘80an, poster lukisan tangan mula akur dengan kehebatan poster digital. Bermula 1980, Shaw telah menutup studio yang membuat poster filemnya. Pada 2005, hanya seorang pelukis poster, Neo Choon Teck, yang tinggal.
+Permintaan untuk poster begitu rancak dari 50an ke 70an, hingga 100 keping boleh ditempah untuk setiap filem. Namun, pelukis-pelukis yang telah lama berkecimpung mula bersara sementara anak-muda tidak berminat untuk menceburi kraf ini. Kalau dahulu, seramai 10 pelukis dapat digembeling untuk menyiapkan sebuah billboard gah yang memerlukan 100 keping plywood sebagai <i>backing</i>. Dengan masa, tenaga yang sudah berkurangan menjadikan sebuah poster itu terpaksa disiapkan oleh seorang pelukis sahaja. Setelah berakhirnya tahun ‘80an, poster lukisan tangan mula akur dengan kehebatan poster digital. Bermula 1980, Shaw telah menutup studio yang membuat poster filemnya. Pada 2005, hanya seorang pelukis poster, Neo Choon Teck, yang tinggal.
 
-(Top left) Actress Normadiah on the cover of the now defunct Malay-language entertainment monthly magazine, <i>Asmara</i>. MFP studio at Jalan Ampas stands in the background. © Asmara, <i>Issue 23. Published by S.O.A. Alsagoff for Geliga Publication Bureau (Singapore), 1956. </i> 
-(Above) <i>Raja Bersiong</i> is a 1968 historical film written by former Malaysian prime minister Tunku Abdul Rahman. © Raja Bersiong. <i>Directed by Jamil Sulong, produced by Malay Film Productions, 1968. </i>
-
-
-
-
-Nor Afidah Bte Abd Rahman is a Senior Librarian with the National Library of Singapore and a regular contributor to BiblioAsia. 
+![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Asrama.jpg)
+<div style="background-color: white;">Actress Normadiah on the cover of the now defunct Malay-language entertainment monthly magazine, <i>Asmara</i>. MFP studio at Jalan Ampas stands in the background. © Asmara, <i>Issue 23. Published by S.O.A. Alsagoff for Geliga Publication Bureau (Singapore), 1956. </i></div>
 	
-Michelle Heng is a Librarian with the National Library of Singapore. She compiled and edited Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems (2012), and more recently, Selected Poems of Goh Poh Seng (2014).
-</i></i>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Raja_Bersiong.jpg)
+<div style="background-color: white;"><i>Raja Bersiong</i> is a 1968 historical film written by former Malaysian prime minister Tunku Abdul Rahman. © Raja Bersiong. <i>Directed by Jamil Sulong, produced by Malay Film Productions, 1968. </i></div>
+
+
+**Nor Afidah Bte Abd Rahman** is a Senior Librarian with the National Library of Singapore and a regular contributor to BiblioAsia. 
+	
+**Michelle Heng** is a Librarian with the National Library of Singapore. She compiled and edited Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems (2012), and more recently, Selected Poems of Goh Poh Seng (2014).
+
+
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Amir Muhammad. (2010). *[120 Malay movies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13702621)*. Petaling Jaya: Matahari Books. (Call no.: RSEA 791.430899923 AMI)
+
+Fu, P. (Ed.). *[China forever: The shaw brothers and diasporic cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*. Urbana: University of Illinois Press. (Call no.: RSEA 791.43095125 CHI)
+
+Harding, J., &amp; Ahmad Sarji. (2002). *[P. Ramlee: The bright star](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11727520)*. Selangor, Malaysia: Pelanduk Publications. (Call no.: RSEA 791.43028092 HAR)
+
+Hassan Abd. Muthalib. (2013). *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*. Selangor, Malaysia: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS)
+
+Jamil Sulong. (1990). *[Kaca permata: Memoir seorang pengarah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934)*. Kuala Lumpur: Dewan Bahasa and Pustaka. (Call no.: RSING 799.4309595 JAM)
+
+Lim, K.T., &amp; Yiu, T.C. (1991). *[Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*. Singapore: Landmark Books. (Call no.: RSING 791.43095957 LIM)
+
+Millet. R. (2006). *[Singapore cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*. Singapore: Editions Didier Millet. (Call no.: RSING q791.43095957 MIL)
+
+Mohd Zamberi A Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12741905)*. Ampang, Selangor Darul Ehsan: National Film Development Corporation Malaysia. (Call no.: RSING 791.43095957 MOD)
+
+van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and national cultures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11901462)*. Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN)
+
+#### **NOTES**
