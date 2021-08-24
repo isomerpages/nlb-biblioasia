@@ -197,7 +197,7 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^19]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, p. 163.
 
-[^20]: Hassan Abd. Muthalib. (2013). Cathay-Keris – A different kind of Malay films (pp. 72–73). In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192). Petaling Jaya: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS) 
+[^20]: Hassan Abd. Muthalib. (2013). Cathay-Keris – A different kind of Malay films (pp. 72–73). In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*. Petaling Jaya: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS) 
 
 [^21]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 120; Ramani, V. (2005, August 24). *[Scream queen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050824-1.2.44.1)*. Today, p. 32. Retrieved from NewspaperSG.
 
@@ -227,7 +227,7 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^34]: Travelfish. (n.d.). <i>Malay Heritage Centre: A crash course in all things malay</i>. Retrieved from Travelfish website. 
 
-[^35]: *[Kurang-nya filem2 Hindustan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690905-1.2.74), filem China jadi ganti. (1969, September 5). <i>Berita Harian</i>, p. 6. Retrieved from NewspaperSG.
+[^35]: *[Kurang-nya filem2 Hindustan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690905-1.2.74)*, filem China jadi ganti. (1969, September 5). <i>Berita Harian</i>, p. 6. Retrieved from NewspaperSG.
 
 [^36]: *[Tiga kesah dlm satu gambar](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19590130-1.2.70)*. (1959, January 30). <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
 
