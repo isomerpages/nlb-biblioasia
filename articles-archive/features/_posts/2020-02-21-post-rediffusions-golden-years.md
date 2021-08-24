@@ -31,6 +31,9 @@ Courtesy of National Archives of Singapore.
 
 Apart from stories, Rediffusion also broadcast recordings of outdoor stage shows such as concerts and music programmes, which were mainly in Chinese. Recordings of Chinese wayang (street opera) performances, in particular, were well received until the 1970s when boxing match commentaries took over.<sup>5</sup>
 
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small-Radio.JPG">
+
+
 Rediffusion became popular at a time when the majority of Singaporeans lived in rural areas and  not many households could afford a television set. Besides, Rediffusion triumphed over the  state-owned broadcaster because it had a clear advantage over conventional radio services  operated  by   the  state.<sup>6</sup>
 
 Unlike AM or FM radios, Rediffusion boxes did not have receivers; they were largely loudspeakers with a built-in amplifier. As Rediffusion’s service was transmitted via cable, the audio quality was much better compared with over-the-air radio services of the time. In addition, Rediffusion sets did not depend on electricity, as power was supplied via the same cable that delivered the radio signal. This was a boon especially in rural areas that were not connected to the electrical grid.<sup>7</sup>
