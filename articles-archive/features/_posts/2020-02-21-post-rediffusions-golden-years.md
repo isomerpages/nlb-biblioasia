@@ -25,7 +25,7 @@ Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.<sup>2
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.JPG">
 <center>
-<p style="width: 70%; color: grey; font-size: 15px;"> 
+<p style="color: grey; font-size: 15px;"> 
 Rediffusion became an important source of entertainment in Singapore when it was introduced here in 1949, especially for people living in kampongs that did not have access to electricity. Rediffusion sets, which were essentially loudspeakers with built-in amplifiers, did not depend on electricity because power was supplied by the same cable that delivered the radio signal.
 Courtesy of National Archives of Singapore.
 	</p></center>
@@ -170,3 +170,9 @@ Some of the programming that made Rediffusion popular are held by the National A
 The National Library’s Lee Kong Chian Reference Library also has a collection of Rediffusion materials that include issues of Rediffusion Times (丽的呼声周刊), photographs and rare drama scripts.
 
 <b>Notes</b>
+<ol>
+	<li>National Library Board. (2014). <i>Chinese street storytellers</i> by Fiona Tan. Retrieved from Singapore Infopedia website.</li>
+	<li>Cheong, J. (2006, February 12). Redi-rection. <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.</li>
+<li>The Singapore Memory Project, launched in 2011, is a whole-of-nation movement by the National Library Board that documented memories and moments related to Singapore from individuals and organisations.</li>
+	
+</ol>
