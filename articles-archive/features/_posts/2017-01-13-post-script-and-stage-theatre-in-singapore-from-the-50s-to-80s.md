@@ -4,7 +4,7 @@ date: 2017-01-13
 permalink: /vol-12/issue-4/jan-mar-2017/script-stages-theatre
 layout: post
 ---
-**A new exhibition on Singapore theatre traces its growth from its nascent days in the 1950s when traditional art forms were dominant, as Georgina Wong explains.**
+#### A new exhibition on Singapore theatre traces its growth from its nascent days in the 1950s when traditional art forms were dominant, as Georgina Wong explains.
 
 Although theatre in Singapore has a relatively short history of some 60 years, with its foundations having been laid only in the 1950s, it is made complicated by the fact that the various communities who engaged with theatre in the early days did so independently of one another.
 
@@ -14,7 +14,7 @@ Thus, the Chinese, Malay, Tamil and English theatre scenes developed in parallel
 
 The exhibition is by no means exhaustive, but seeks to give a general overview of the development of theatre in relation to the social and political history of Singapore through the performing arts collection of the National Library. Here are some pivotal moments in our theatre scene over the four significant decades.
 
-**The Turbulent 50s**
+#### **The Turbulent 50s**
 
 Pre-war theatre in Singapore was generally restricted to traditional art forms such as Chinese wayang (street opera) or bangsawan (Malay opera). While there was a revival of theatre activity after the Japanese Occupation until the 1950s, local playwriting was still very much in its infancy. Although there was a lack of good quality scripts from Malayan playwrights, this did not stop theatre groups from experimenting and regularly staging plays.
 
@@ -22,7 +22,7 @@ For post-war theatre practitioners, the performance stage provided a platform to
 
 This was a time when the Chinese community viewed the British colonial government as being biased against the Chinese-educated. Policies such as the National Service Ordinance (1954), the white paper on bilingual education in Chinese-medium schools (1953) and the deregistration of the Singapore Chinese Middle Schools Students’ Union (1956) were viewed by the Chinese as infringements on their autonomy and culture – and would result in violent street protests and riots.
 
-**The Burgeoning 60s**
+#### **The Burgeoning 60s**
 
 Up until the 1960s, English-language theatre in Singapore had been the preserve of the expatriate European community, staged by amateur groups such as The Stage Club and The Scene Shifters. What little local English playwriting that existed took place mainly in schools and universities.
 
@@ -34,7 +34,7 @@ The mid-1960s is often referred to as the “Golden Age” of Tamil theatre in S
 
 However, the Tamil theatre scene was not without its problems. A small Tamil population in Singapore meant that audiences were limited and theatre troupes struggled to stay afloat. In spite of this, Tamil theatre continued to grow and expand into other forms of media such as the radio.
 
-**The Experimental 70s**
+#### **The Experimental 70s**
 
 Within the Malay community for instance, a new generation of dramatists emerged in the 1970s and began pushing the boundaries of Malay theatrical art forms. These playwrights were looking to create a new form of theatre that would shape a unique identity for contemporary Malay drama that was independent of Western influence. One innovative result was the incorporation of traditional Malay art forms, such as silat (Malay martial arts) into contemporary plays.
 
@@ -44,7 +44,7 @@ Tamil theatre struggled with small audiences and talent pools from which to draw
 
 The Chinese theatre scene flourished for a while in the early 1970s. According to Kuo Jian Hong, artistic director of The Theatre Practice, theatre venues would be packed with people watching plays that were often left-leaning. In 1976, however, there was a crackdown on leftist elements in the community and several key theatre practitioners were detained. This put a huge dampener on Chinese theatre for the rest of the decade, although a few groups continued to perform regularly.
 
-**The Flourishing 80s**
+#### **The Flourishing 80s**
 
 The 1980s was something of a game-changer for local theatre, seeing several leaps in innovation and quality in both script writing as well as theatre production.
 
@@ -65,7 +65,7 @@ Programme booklet and handwritten draft of Mama Looking For Her Cat by Kuo Pao  
 Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s to 80s” on 27 October 2016.
 </div>
 
-**Iconic Theatre Across the Decades**
+#### **Iconic Theatre Across the Decades**
 
 **The 50s**
 
@@ -100,8 +100,8 @@ The play examines the consequences of language policies in Singapore, resulting 
 
 All the scenes in Emily are performed by a single actress, who mimes and interacts with unseen characters on and off stage. Its simplicity was considered avant-garde for its time, but what was most innovative was the play’s use of language. Emily’s ability to switch seamlessly from Singlish and a mix of Malay and Hokkien to proper English with a clipped British accent held audiences in thrall. It also set the standard for an authentic Singaporean voice to be expressed on stage in the following decades.
 
-**About the Exhibition**
-“Script &amp; Stage: Theatre in Singapore from the 50s to 80s” is held on levels 7 and 8 of the National Library Building until 26 March 2017. A series of programmes has been organised in conjunction with the exhibition, including public talks by playwrights, directors and artistes; guided tours by curators; and school tours. For more information, look up the website:[ www.nlb.gov.sg/exhibitions/]( www.nlb.gov.sg/exhibitions/)
+|**About the Exhibition**
+“Script &amp; Stage: Theatre in Singapore from the 50s to 80s” is held on levels 7 and 8 of the National Library Building until 26 March 2017. A series of programmes has been organised in conjunction with the exhibition, including public talks by playwrights, directors and artistes; guided tours by curators; and school tours. For more information, look up the website:[ www.nlb.gov.sg/exhibitions/]( www.nlb.gov.sg/exhibitions/)|
 
 ### **REFERENCES**
 
