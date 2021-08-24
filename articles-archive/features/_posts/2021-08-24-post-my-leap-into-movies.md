@@ -4,10 +4,12 @@ date: 2021-08-24
 permalink: /articles-archive/features/permalink
 layout: post
 ---
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile.jpg)
-<div style="background-color: white;">Theatre thespian and film director Glen Goei reflects on his transition from the stage to cinema screen.
-	
-	
+<div style="background-color: white;">
+<br>
+<img src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile.jpg">
+Theatre thespian and film director Glen Goei reflects on his transition from the stage to cinema screen..
+</div>	
+
 My first film, <i>Forever Fever</i>, was born out of a situation of sheer desperation. It was 1995, and I’d been living in the UK for nearly 15 years. I was a 32-year-old West End actor, had won a couple of awards as theatre director on the London stage, and had been running an Asian theatre company called Mu-Lan Arts for close to five years. It was after our fourth production - the staging of <i>Three Japanese Women</i> at London’s Soho Theatre - that reality sunk in: the audience numbers were not increasing and the company’s finances were dwindling. I grew despondent. Despite receiving awards and great reviews from the British media, there just wasn’t sufficient demand for theatre with actors of Asian descent (or Orientals, as less informed Brits are wont to say). 
 
 Artistically frustrated, I left for New York to do a short course in film at New York University (NYU), where not unexpectedly, I was forced to think about possible storylines for films. On returning to London, I set out to produce a film based on Ming Cher’s <i>Spider Boys</i>, a gritty novel about youth gangs in 1950s Singapore. Unfortunately, before filming could take place in 1997, the project fell through due to casting problems. Dejected but not defeated, I became more determined to make a film - no matter what the odds were. 
@@ -62,4 +64,4 @@ To develop a culture of filmmaking, risks need to be taken by investors from bot
 <i>Pontianak</i> is my homage to the Golden Age of filmmaking in Singapore and the highly successful string of iconic Pontianak films that were produced by Cathay-Keris and Shaw in the late 1950s.
 	
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
-</div></div></div></div></div></div></div>
+</div></div></div></div></div></div>
