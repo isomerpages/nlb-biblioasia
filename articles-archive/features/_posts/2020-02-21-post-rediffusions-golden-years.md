@@ -174,5 +174,14 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 	<li>National Library Board. (2014). <i>Chinese street storytellers</i> by Fiona Tan. Retrieved from Singapore Infopedia website.</li>
 	<li>Cheong, J. (2006, February 12). Redi-rection. <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.</li>
 <li>The Singapore Memory Project, launched in 2011, is a whole-of-nation movement by the National Library Board that documented memories and moments related to Singapore from individuals and organisations.</li>
-	
+	<li>Seah, J. (2012, April 10). <i>Farewell to Redifffusion</i>. Retrieved from Singapore Memory Project website.</li>
+	<li>Goh, Y.L. (1986, October 6). The entertainment house that Jack built. <i>The Business Times</i>, p. 8; Watcher, M. (1956, October 7). Commercial radio is the answer. <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG. </li>
+<li>Radio transmission in Singapore began in the 1920s, but progress was initially in fits and starts. The British Malaya Broadcasting Corporation, the predecessor to today’s Mediacorp broadcasting behemoth, began transmission on 1 March 1937. In 1946, the company was reorganised as Radio Malaya and renamed Radio Singapore 11 years later. In 1963, this entity merged with the television broadcaster to become Radio Television Singapore. This then became the Singapore Broadcasting Corporation in 1980. Today, the radio division is part of the Mediacorp conglomerate.</li>
+<li>Singapore Rediffusion (p. 1). [198-]. Singapore: Rediffusion. (Call no.: RSING 384.540655957 RED)</li>
+<li>Chan, R. (2012, April 15). Rediffusion launch pad. The Straits Times, p. 2; Aung-Thwin, E. (2012, April 23). Tuning out after 63 years. The Straits Times, pp. 6–7. Retrieved from NewspaperSG.</li>
+	<li>The Business Times, 6 Oct 1986, p. 8; The Straits Times, 7 Oct 1956, p. 6.</li>
+Singapore Rediffusion, [198-], p. 1; Goh, Y.L. (1986, October 6). The entertainment house that Jack built. The Business Times, p. 8. Retrieved from NewspaperSG.
+Singapore International Chamber of Commerce. (1979). From early days (p. 136). Singapore: Singapore International Chamber of Commerce. (Call no.: RSING 380.10655957 SIN)
+Move to new home will help: Rediffusion (1989, February 3). The New Paper, p. 6; Revamp a boost for Rediffusion (1989, February 6). The Straits Times, p. 12. Retrieved from NewspaperSG.
+Singapore Rediffusion,  [198-], p. 2.
 </ol>
