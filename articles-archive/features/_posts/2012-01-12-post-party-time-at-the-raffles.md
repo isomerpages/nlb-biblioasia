@@ -23,13 +23,13 @@ One of the things the Raffles Hotel excelled at was throwing a good party. The d
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/lavishlivingroom.jpg)
 <div style="background-color: white;">Scenes of the lavish Dining Room that was “capable of seating 500”. The spacious Dining Room on the ground floor of the new Main Building, which was declared opened in November 1899, was where many extravagant dinners and parties were held. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
-The opening of the Main Building at the turn of the 20th century properly entrenched the Raffles as the venue to host a fine party. The new marble-floored Dining Room “capable of seating 500”1 was where many indulgent dinners – supervised by two French chefs – would be served by white-gloved waiters.
+The opening of the Main Building at the turn of the 20th century properly entrenched the Raffles as the venue to host a fine party. The new marble-floored Dining Room “capable of seating 500”[^1]was where many indulgent dinners – supervised by two French chefs – would be served by white-gloved waiters.
 
 Menu cards from this period, such as the one on 14 July 1917, featured gastronomic fare such as “Clear Turtle Soup, Baked Red Fish [in] Butter Sauce, Chicken en Aspic, Grilled Filet Steak &amp; Sugar Peas, Faisan Roti [roasted pheasant] a l’ Anglaise, Iced Asparagus [in] Mayonaise Sauce… [and] Wild Rose Ice Cream…”, among other delights. At the outdoor Palm Court, after-dinner music would be played by the Band of the K.O.R (King’s Own Regiment).
 
-In 1904, the Raffles introduced a novel form of entertainment – the Skating Dinner. To the accompaniment of a live orchestra, grown men and women put on roller skates supplied by the hotel and “… skated about with the utmost glee until 11 o’clock when the fun had to stop despite the great anxiety of the guests to prolong the rinking”.2
+In 1904, the Raffles introduced a novel form of entertainment – the Skating Dinner. To the accompaniment of a live orchestra, grown men and women put on roller skates supplied by the hotel and “… skated about with the utmost glee until 11 o’clock when the fun had to stop despite the great anxiety of the guests to prolong the rinking”.[^2]
 
-German author Hermann Hesse was clearly not amused by the noise emanating from such a party on the night he spent at the Raffles. He recorded in his diary dated 29 October 1911: “the gigantic hotel is horrible acoustically and echoes like a drum in its vast corridors and stairways”.3
+German author Hermann Hesse was clearly not amused by the noise emanating from such a party on the night he spent at the Raffles. He recorded in his diary dated 29 October 1911: “the gigantic hotel is horrible acoustically and echoes like a drum in its vast corridors and stairways”.[^3]
 
 In the heady days before World War II, tickets for the legendary New Year’s Fancy Dress Ball would be booked out weeks in advance. The first such party was held on 1 January 1911 and was reported to be a resounding success by the press. The guest list was invariably European with the occasional moneyed Peranakan or Chinese making an appearance.
 
@@ -41,7 +41,7 @@ The opening of the capacious grand ballroom in 1921 further heightened the attra
 
 The ballroom also added to the continuing popularity of the New Year’s Fancy Dress Ball, which remained a fixture until World War II. Now there was a proper place to show off the quickstep and foxtrot after the stroke of midnight, the dance floor only slightly overshadowed by the outrageous costumes revelers would turn up in.
 
-The party atmosphere at the Raffles was clearly contagious, as British traveller Beatrice Borland observed during her stay at the hotel in 1933: “The truth of the matter is, it is impossible to lead a simple life at the Raffles Hotel, so you might as well join in the all-pervading air of wicked gaiety”.4
+The party atmosphere at the Raffles was clearly contagious, as British traveller Beatrice Borland observed during her stay at the hotel in 1933: “The truth of the matter is, it is impossible to lead a simple life at the Raffles Hotel, so you might as well join in the all-pervading air of wicked gaiety”.[^4]
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/hotelmenucards.jpg)
 <div style="background-color: white;">A selection of Raffles Hotel menu cards from the 1930s. From left, sumptuous offerings for breakfast (10 July 1934), lunch (8 February 1936) and dinner (5 July 1934). On the back of the 17 September 1936 menu card is the entertainment programme for the evening. Cocktail dances were held on Monday, Wednesday and Friday evenings, while the Orchestral Concerts took over on Tuesday, Thursday and Saturday. On all six evenings, after dinner dances took place at the grand ballroom until midnight (Sunday was presumably a quiet day at the Raffles!) By 1931, the hotel had fallen on hard times as a series of poor business decisions by its Armenian owners, the Sarkies brothers, had left the Raffles saddled in debt. Looking at these lavish menu cards, however, it is difficult to imagine the financial difficulties the hotel was mired in.</div>
@@ -84,3 +84,10 @@ To provide access to the materials, the Rare Materials Collection is being digit
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+
+#### **Notes**
+
+1. [^1]Liu, G. (1999). Singapore: A pictorial history, 1819–2000 (p. 123). Singapore: National Heritage Board and Editions Didier Millet. Call no.: RSING 959.57 LIU-[HIS]
+2.[^2] Liu, G. (2006). Raffles Hotel (p. 49). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU-[TRA]
+3.[^3] Liu, G. (2006). Raffles Hotel (p. 50). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU-[TRA]
+4.[^4]Liu, G. (2006). Raffles Hotel (p. 82). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU-[TRA]
