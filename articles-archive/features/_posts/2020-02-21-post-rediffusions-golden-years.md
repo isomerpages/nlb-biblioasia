@@ -58,3 +58,14 @@ Rediffusion soon became a household name in Singapore.<sup>13</sup> At a monthly
 </center>
 	
 Initially, the station broadcast programmes from the United Kingdom, but later added programmes in Chinese dialects to meet growing local demand. Soon, the station’s programmes became more popular than those produced by the state-owned radio station.<sup>18</sup> According to Lim Leng San, who used to work as a Hokkien voice actor, Rediffusion also held more appeal than television, which did not screen as many serial dramas in the Hokkien dialect.<sup>19</sup> By the 1960s, the number of Rediffusion subscribers had increased to about 50,000. The radio station continued to experience steady growth and, by 1977, had garnered 90,428 subscribers.<sup>20</sup>
+
+<b>Master Storyteller Lee Dai Soh</b>
+				
+Lee Dai Soh (李大傻) (1913–89) was a well-known storyteller who made his name on Rediffusion. His moniker is sometimes spelt as Lee Dai Sor, which means “Big Fool Lee”21 in Cantonese. He was born Lee Fook Hai and grew up in Tanjong Pagar. Although Lee only had a primary school education, he loved reading and collecting books.22
+
+According to his daughter, Lee started out telling stories while sitting on a box under a tree in Chinatown, with a burning joss stick as his timer.23 His radio career began in 1938 when he joined the British Malaya Broadcasting Corporation. After the Japanese Occupation of Singapore, he returned to his job at the company, which by then had been renamed Radio Malaya. In 1949, Lee moved over to Rediffusion when the radio station began operations in Singapore.24
+
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
+<center>
+	
+</center>
