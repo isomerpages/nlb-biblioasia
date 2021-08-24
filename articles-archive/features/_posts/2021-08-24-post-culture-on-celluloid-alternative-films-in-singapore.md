@@ -136,38 +136,38 @@ Tan, K.C.S. (1988). *[Cinema management in Singapore](https://eservice.nlb.gov.s
 Uhde, J., &amp; Udhe, Y.N. (2010). *[Latent images: Film in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916)*. Singapore: Ridge Books. (Call no.: RSING 384.8095957 UHD)
 
 #### **Notes**
-[^1]: Chua, A.L. (2012, December). Singapore’s ‘cinema-age’ of the 1930s: Hollywood and the shaping of Singapore modernity. Inter-Asia Cultural Studies, 13 (4), 592–604, p. 592.
+[^1]: Chua, A.L. (2012, December). Singapore’s ‘cinema-age’ of the 1930s: Hollywood and the shaping of Singapore modernity. <i>Inter-Asia Cultural Studies</i>, 13 (4), 592–604, p. 592.
 
-[^2]: The film in education. (1929, May 2). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^2]: *[The film in education](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290502-1.2.28)*. (1929, May 2). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-[^3]: Eastern kinematographs. (1917, March 13). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^3]: *[Eastern kinematographs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19170313-1.2.57)*. (1917, March 13). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-[^4]: Braddell, R. (1982). The lights of Singapore (pp. 120–123). Kuala Lumpur: Oxford University Press. (Call no.: RSING 959.57 BRA)
+[^4]: Braddell, R. (1982). *[The lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3013500)* (pp. 120–123). Kuala Lumpur: Oxford University Press. (Call no.: RSING 959.57 BRA)
 
-[^5]: They prefer Tarzan to serious films. (1948, July 13). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^5]: *[They prefer Tarzan to serious films](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480713-1.2.84)*. (1948, July 13). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
-[^6]: Public notices. (1933, August 28). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^6]: *[Public notices](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330828-1.2.11.4)*. (1933, August 28). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
-[^7]: Film society for Singapore. (1936, December 27). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^7]: *[Film society for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361227-1.2.30)*. (1936, December 27). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
-[^8]: Singapore wants to see intelligent films. (1937, May 23). The Straits Times, p. 14. Retrieved from NewspaperSG.
+[^8]: *[Singapore wants to see intelligent films](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370523-1.2.112)*. (1937, May 23). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
-[^9]: Intelligent films. (1937, May 30). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^9]: *[Intelligent films](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370530-1.2.54.1)*. (1937, May 30). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-[^10]: Film society for Malaya. (1947, October 6). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[^10]: *[Film society for Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19471006-1.2.27.6)*. (1947, October 6). <i>The Singapore Free Press</i>, p. 5. Retrieved from NewspaperSG.
 
-[^11]: Blow at cultural desert charges. (1948, July 18). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^11]: *[Blow at cultural desert charges](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480718-1.2.90)*. (1948, July 18). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
-[^12]: Langdon, R. (1950, March 25). ‘Super’ films not Superman. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+[^12]: Langdon, R. (1950, March 25). *[‘Super’ films not Superman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500325-1.2.126.6)*. <i>The Singapore Free Press</i>, p. 2. Retrieved from NewspaperSG.
 
-[^13]: Yuen, F. (1954, October 31). Is film society open to public? The Straits Times, p. 13. Retrieved from NewspaperSG.
+[^13]: Yuen, F. (1954, October 31). *[Is film society open to public?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19541031-1.2.106.1)* <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
-[^14]: Saw, P.L. (1978, November 6). Film festival proves locals do care. The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^14]: Saw, P.L. (1978, November 6). *[Film festival proves locals do care](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781106-1.2.112.4.2)*. <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
-[^15]: Nayar, P., &amp; Cheah, U. (2003, July 11). Beyond Hollywood. The Business Times, p. 13. Retrieved from NewspaperSG.
+[^15]: Nayar, P., &amp; Cheah, U. (2003, July 11). *[Beyond Hollywood](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20030711-1.2.33.1)*. <i>The Business Times</i>, p. 13. Retrieved from NewspaperSG.
 
-[^16]: Uhde, J., &amp; Udhe, Y.N. (2010). Latent images: Film in Singapore (p. 221). Singapore: Ridge Books. (Call no.: RSING 384.8095957 UHD)
+[^16]: Uhde, J., &amp; Udhe, Y.N. (2010). *[Latent images: Film in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916)* (p. 221). Singapore: Ridge Books. (Call no.: RSING 384.8095957 UHD)
 
-[^17]: Leong, W.K. (1983, February 18). Premier cinema to become live show theatre. The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^17]: Leong, W.K. (1983, February 18). *[Premier cinema to become live show theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830218-1.2.43)*. <i>The Straits Times</i>, p. 11. Retrieved from NewspaperSG.
 
-[^18]: Foo, J. (1990, November 18). Too arty, too soon. The Straits Times, p. 32. Retrieved from NewspaperSG.
+[^18]: Foo, J. (1990, November 18). *[Too arty, too soon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901118-1.2.56.46.1)*. <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
