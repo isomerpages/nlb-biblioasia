@@ -111,7 +111,7 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png" style="width: 100px; height: 100px;">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
@@ -119,7 +119,7 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 ### **REFERENCES**
 
-柯思仁 [Ke, S.R.]. (2013).《[戏聚百年: 新加坡华文戏剧 1913–2013](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200169140)》*[Scenes:A hundred years of Singapore Chinese language theatre 1913–2013]*. 戏剧盒: 新加坡国家博物馆. Call no.: Chinese RSING 792.095957 QSR
+柯思仁 [Ke, S.R.]. (2013).《[戏聚百年: 新加坡华文戏剧 1913–2013](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200169140)》*[Scenes: A hundred years of Singapore Chinese language theatre 1913–2013]*. 戏剧盒: 新加坡国家博物馆. Call no.: Chinese RSING 792.095957 QSR
 
 周宁. (主编) [Zhou, N. (Ed.)]. (2007).《[东南亚华语戏剧史](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12914113)》*[History of the Chinese theatre in Southeast Asia]*. Xiamen: 厦门 大学出版社. Call no.: Chinese RSING 792.0959 HIS
 
