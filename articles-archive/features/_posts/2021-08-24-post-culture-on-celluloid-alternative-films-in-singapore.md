@@ -111,25 +111,63 @@ To support the commercial and not-for-profit exhibition of alternative films, sm
 
 #### **REFERENCES**
 
-Aitken, I. (2001). European film theory and cinema: A critical introduction. Edinburgh: Edinburgh University Press. (Not available in NLB holdings)
+Aitken, I. (2001). <i>European film theory and cinema: A critical introduction</i>. Edinburgh: Edinburgh University Press. (Not available in NLB holdings)
 
-Braddell, R. (1982). The lights of Singapore. Kuala Lumpur: Oxford University Press. (Call no.: RSING 959.57 BRA)
+Braddell, R. (1982). *[The lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3013500)*. Kuala Lumpur: Oxford University Press. (Call no.: RSING 959.57 BRA)
 
-Burns, J. (2013). Cinema and society in the British empire, 1895–1940. Houndmills, Basingstoke, Hampshire; New York: Palgrave Macmillan. (Call no.: RSING 302.234309171241 BUR)
+Burns, J. (2013). *[Cinema and society in the British empire, 1895–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200155964)*. Houndmills, Basingstoke, Hampshire; New York: Palgrave Macmillan. (Call no.: RSING 302.234309171241 BUR)
 
-Chua, A.L. (2012, December). Singapore’s ‘cinema-age’ of the 1930s: Hollywood and the shaping of Singapore modernity. Inter-Asia Cultural Studies, 13 (4), 592–604.
+Chua, A.L. (2012, December). Singapore’s ‘cinema-age’ of the 1930s: Hollywood and the shaping of Singapore modernity. <i>Inter-Asia Cultural Studies</i>, 13 (4), 592–604.
 
-Drazen, C. (2011). The faber book of French cinema. London: Faber and Faber. (Call no.: 791.430944 DRA)
+Drazen, C. (2011). *[The faber book of French cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13792348)*. London: Faber and Faber. (Call no.: 791.430944 DRA)
 
-Duggal, U. (2014, December 13). New indie cinema The projector woos hipsters with original, retro seats and specially curated indie films. Retrieved from mothership.sg
+Duggal, U. (2014, December 13). <i>New indie cinema The projector woos hipsters with original, retro seats and specially curated indie films</i>. Retrieved from mothership.sg
 
-Khun, A., &amp; Westwell, G. (2012). A dictionary of film studies. Oxford: Oxford University Press. (Call no.: RSING 791.4303 KUH)
+Khun, A., &amp; Westwell, G. (2012). *[A dictionary of film studies](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)*. Oxford: Oxford University Press. (Call no.: RSING 791.4303 KUH)
 
-Parkinson, C.N. (1951). Report of the committee on film censorship 1951. Singapore: Govt. Print. Off. Retrieved from BookSG. (Call no.: RCLOS 791.43 SIN; Microfilm no.: NL9938)
+Parkinson, C.N. (1951). *[Report of the committee on film censorship 1951](https://eresources.nlb.gov.sg/printheritage/detail/8fd2e74b-795d-4a25-80a4-4167badc2069.aspx)*. Singapore: Govt. Print. Off. Retrieved from BookSG. (Call no.: RCLOS 791.43 SIN; Microfilm no.: NL9938)
 
-Sinema. (n.d.). SINdie. Retrieved from sinema.sg website.
-Stevenson, R. (1974, September). Cinemas and censorship in colonial Malaya. Journal of Southeast Asian Studies, 5 (2), 209–224. Retrieved from JSTOR via NLB’s eResources website. 
+Sinema. (n.d.). <i>SINdie</i>. Retrieved from sinema.sg website.
 
-Tan, K.C.S. (1988). Cinema management in Singapore. Singapore: Singapore Film Society. (Call no.: RSING 791.43068 TAN)
+Stevenson, R. (1974, September). Cinemas and censorship in colonial Malaya. <i>Journal of Southeast Asian Studies</i>, 5 (2), 209–224. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website. 
 
-Uhde, J., &amp; Udhe, Y.N. (2010). Latent images: Film in Singapore. Singapore: Ridge Books. (Call no.: RSING 384.8095957 UHD)
+Tan, K.C.S. (1988). *[Cinema management in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5256487)*. Singapore: Singapore Film Society. (Call no.: RSING 791.43068 TAN)
+
+Uhde, J., &amp; Udhe, Y.N. (2010). *[Latent images: Film in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916)*. Singapore: Ridge Books. (Call no.: RSING 384.8095957 UHD)
+
+#### **Notes**
+[^1]: Chua, A.L. (2012, December). Singapore’s ‘cinema-age’ of the 1930s: Hollywood and the shaping of Singapore modernity. Inter-Asia Cultural Studies, 13 (4), 592–604, p. 592.
+
+[^2]: The film in education. (1929, May 2). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[^3]: Eastern kinematographs. (1917, March 13). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[^4]: Braddell, R. (1982). The lights of Singapore (pp. 120–123). Kuala Lumpur: Oxford University Press. (Call no.: RSING 959.57 BRA)
+
+[^5]: They prefer Tarzan to serious films. (1948, July 13). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+[^6]: Public notices. (1933, August 28). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^7]: Film society for Singapore. (1936, December 27). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^8]: Singapore wants to see intelligent films. (1937, May 23). The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+[^9]: Intelligent films. (1937, May 30). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[^10]: Film society for Malaya. (1947, October 6). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+
+[^11]: Blow at cultural desert charges. (1948, July 18). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+[^12]: Langdon, R. (1950, March 25). ‘Super’ films not Superman. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+
+[^13]: Yuen, F. (1954, October 31). Is film society open to public? The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+[^14]: Saw, P.L. (1978, November 6). Film festival proves locals do care. The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^15]: Nayar, P., &amp; Cheah, U. (2003, July 11). Beyond Hollywood. The Business Times, p. 13. Retrieved from NewspaperSG.
+
+[^16]: Uhde, J., &amp; Udhe, Y.N. (2010). Latent images: Film in Singapore (p. 221). Singapore: Ridge Books. (Call no.: RSING 384.8095957 UHD)
+
+[^17]: Leong, W.K. (1983, February 18). Premier cinema to become live show theatre. The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+[^18]: Foo, J. (1990, November 18). Too arty, too soon. The Straits Times, p. 32. Retrieved from NewspaperSG.
