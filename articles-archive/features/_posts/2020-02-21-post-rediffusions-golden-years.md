@@ -25,7 +25,7 @@ Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.<sup>2
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.JPG">
 <center>
-<p style="color: grey; font-size: 15px;"> 
+<p style="width: 70%; color: grey; font-size: 15px;"> 
 Rediffusion became an important source of entertainment in Singapore when it was introduced here in 1949, especially for people living in kampongs that did not have access to electricity. Rediffusion sets, which were essentially loudspeakers with built-in amplifiers, did not depend on electricity because power was supplied by the same cable that delivered the radio signal.
 Courtesy of National Archives of Singapore.
 	</p></center>
