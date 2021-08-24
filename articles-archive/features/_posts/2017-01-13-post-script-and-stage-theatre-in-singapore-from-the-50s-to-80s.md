@@ -28,15 +28,15 @@ Up until the 1960s, English-language theatre in Singapore had been the preserve 
 
 The theatre scene changed with the emergence of local playwrights such as Lim Chor Pee (1936–2006) and Goh Poh Seng (1936–2010). Driven by a passion for literature and theatre, as well as a desire to see Malayan realities depicted on stage, they went on to establish the first two local amateur English-language theatre clubs in Singapore – ETC by Lim and Centre ‘65 by Goh. Both Lim, a lawyer by profession, and Goh, a doctor, shared similar backgrounds, having received their higher education in the UK.
 
-Their works are considered as important milestones in Singaporean English literature and planted the seeds for a local English-language theatre scene – even as playwrights struggled to find a “Singaporean voice” on stage. Lim’s breakthrough Mimi Fan (1962), for instance, is now considered Singapore’s first English language play.
+Their works are considered as important milestones in Singaporean English literature and planted the seeds for a local English-language theatre scene – even as playwrights struggled to find a “Singaporean voice” on stage. Lim’s breakthrough *Mimi Fan* (1962), for instance, is now considered Singapore’s first English language play.
 
-The mid-1960s is often referred to as the “Golden Age” of Tamil theatre in Singapore because of the proliferation of quality local scripts and the large number of troupes staging Tamil language plays.
+The mid-1960s is often referred to as the “*Golden Age*” of Tamil theatre in Singapore because of the proliferation of quality local scripts and the large number of troupes staging Tamil language plays.
 
 However, the Tamil theatre scene was not without its problems. A small Tamil population in Singapore meant that audiences were limited and theatre troupes struggled to stay afloat. In spite of this, Tamil theatre continued to grow and expand into other forms of media such as the radio.
 
 #### **The Experimental 70s**
 
-Within the Malay community for instance, a new generation of dramatists emerged in the 1970s and began pushing the boundaries of Malay theatrical art forms. These playwrights were looking to create a new form of theatre that would shape a unique identity for contemporary Malay drama that was independent of Western influence. One innovative result was the incorporation of traditional Malay art forms, such as silat (Malay martial arts) into contemporary plays.
+Within the Malay community for instance, a new generation of dramatists emerged in the 1970s and began pushing the boundaries of Malay theatrical art forms. These playwrights were looking to create a new form of theatre that would shape a unique identity for contemporary Malay drama that was independent of Western influence. One innovative result was the incorporation of traditional Malay art forms, such as *silat* (Malay martial arts) into contemporary plays.
 
 In general, the theatre scene in the 1970s struggled on several fronts. English theatre, in particular, was badly hit by the withdrawal of British troops from Singapore. The expatriate community had made up the majority of theatre practitioners and audiences since World War II.
 
@@ -50,13 +50,13 @@ The 1980s was something of a game-changer for local theatre, seeing several leap
 
 Practitioners and playwrights such as Kuo Pao Kun, Stella Kon, Ong Keng Seng and Michael Chiang began writing and producing works that could stand up to foreign productions in terms of quality and critical reception with Singapore audiences and critics.
 
-High-quality scripts and productions such as Kuo Pao Kun’s groundbreaking The Coffin is Too Big for the Hole (1985) and the multilingual Mama Looking For Her Cat (1988), and Stella Kon’s monodrama, Emily of Emerald Hill (1984) resulted in several amateur theatre groups turning professional – like Practice Theatre Ensemble (now known as The Theatre Practice), TheatreWorks and the Necessary Stage.
+High-quality scripts and productions such as Kuo Pao Kun’s groundbreaking The Coffin is Too Big for the Hole (1985) and the multilingual *Mama Looking For Her Cat* (1988), and Stella Kon’s monodrama, *Emily of Emerald Hill *(1984) resulted in several amateur theatre groups turning professional – like Practice Theatre Ensemble (now known as The Theatre Practice), TheatreWorks and the Necessary Stage.
 
 By the early 1990s, the local theatre scene had come into its own, paving the way for new amateur theatre groups to emerge and contribute to the vibrant performing arts scene we see today in Singapore.
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol-12-issue-4/scriptandstage/mamalookingforhercat.png">
-Programme booklet and handwritten draft of Mama Looking For Her Cat by Kuo Pao  Kun.
+Programme booklet and handwritten draft of *Mama Looking For Her Cat* by Kuo Pao  Kun.
 </div>
 
 <div style="background-color: white;">
@@ -70,9 +70,9 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 **The 50s**
 
 ***家, Jia (Family).*** Adapted by **曹禺** (Cao Yu, 1910–1996) from the novel by 巴金 (Ba Jin, 1904–2005 ). Presented by the Chung Cheng High School Drama Club, 1954
-In 1954, Jia was staged at the Victoria Theatre for 16 days to full houses, a milestone in Malayan theatre. Over 200 people were involved in the production, with each performance held over two nights and lasting more than six hours. Tickets were sold out within three days – a remarkable feat considering it was not a fundraising production.
+In 1954, *Jia* was staged at the Victoria Theatre for 16 days to full houses, a milestone in Malayan theatre. Over 200 people were involved in the production, with each performance held over two nights and lasting more than six hours. Tickets were sold out within three days – a remarkable feat considering it was not a fundraising production.
 
-The play was written in 1931 by the well-known Chinese writer Ba Jin, who based it on his childhood years in Sichuan province, China. Jia exposes the dark, repressive side of a feudal Chinese family through the lives of three brothers. The play highlights the oppressiveness of the old social system in China, and how a young generation tries to break free from it.
+The play was written in 1931 by the well-known Chinese writer Ba Jin, who based it on his childhood years in Sichuan province, China. *Jia* exposes the dark, repressive side of a feudal Chinese family through the lives of three brothers. The play highlights the oppressiveness of the old social system in China, and how a young generation tries to break free from it.
 
 **The 60s**
 
@@ -105,7 +105,7 @@ All the scenes in Emily are performed by a single actress, who mimes and interac
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong.png" style="width: 100px; height: 100px;">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
