@@ -169,6 +169,11 @@ Some of the programming that made Rediffusion popular are held by the National A
 
 The National Library’s Lee Kong Chian Reference Library also has a collection of Rediffusion materials that include issues of Rediffusion Times (丽的呼声周刊), photographs and rare drama scripts.
 
+#### **Notes**
+
+[^1]:National Library Board. (2014). Chinese street storytellers by Fiona Tan. Retrieved from Singapore Infopedia website.
+[^2]:Cheong, J. (2006, February 12). Redi-rection. The Straits Times, p. 4. Retrieved from NewspaperSG.
+
 <b>Notes</b>
 <ol>
 	<li>National Library Board. (2014). <i>Chinese street storytellers</i> by Fiona Tan. Retrieved from Singapore Infopedia website.</li>
