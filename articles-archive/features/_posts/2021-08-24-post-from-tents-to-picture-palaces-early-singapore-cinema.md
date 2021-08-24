@@ -165,88 +165,88 @@ Zamberi A. Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](http
 
 #### **NOTES**
 
-[^1]: Millet, R. (2006). *[Singapore cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)* (p. 16). Singapore Editions Didier Millet. (Call no.: RSING q791.43095957 MIL); *[Thirty years of film entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.49)*. (1932, January 2). The Singapore Free Press, p. 20. Retrieved from NewspaperSG.
+[^1]: Millet, R. (2006). *[Singapore cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)* (p. 16). Singapore Editions Didier Millet. (Call no.: RSING q791.43095957 MIL); *[Thirty years of film entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.49)*. (1932, January 2). <i>The Singapore Free Press</i>, p. 20. Retrieved from NewspaperSG.
 
-[^2]: Busrai is likely a reference to Messrs Busrai Co. a company dealing with unique products such as the Perpetual Pencil and the Dragon Pen. They were also owners of the Royal Bioscope which screened movies at a Beach Road tent at the end of 1902. The screening moved to the Hill Street location only on 10 January 1903. *[Page 2 Advertisements Column 3:The American Biograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19020421-1.2.8.3)*. (1902, April 21). The Singapore Free Press, p. 2; *[Page 4 Advertisements Column 1: The American Biograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020423-1.2.30.1)*. (1902, April 23). The Straits Times, p. 4; *[Page 5 Advertisements Colum 3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021017-1.2.62.3)*. (1902, October 17). The Straits Times, p. 5; *[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030110-1.2.29)*. (1903, January 10). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^2]: Busrai is likely a reference to Messrs Busrai Co. a company dealing with unique products such as the Perpetual Pencil and the Dragon Pen. They were also owners of the Royal Bioscope which screened movies at a Beach Road tent at the end of 1902. The screening moved to the Hill Street location only on 10 January 1903. *[Page 2 Advertisements Column 3:The American Biograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19020421-1.2.8.3)*. (1902, April 21). <i>The Singapore Free Press</i>, p. 2; *[Page 4 Advertisements Column 1: The American Biograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020423-1.2.30.1)*. (1902, April 23). <i>The Straits Times</i>, p. 4; *[Page 5 Advertisements Colum 3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021017-1.2.62.3)*. (1902, October 17).  <i>The Straits Times </i>, p. 5; *[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030110-1.2.29)*. (1903, January 10).  <i>The Straits Times </i>, p. 4. Retrieved from NewspaperSG.
 
 [^3]: Makepeace, W., Brooke, G.E. &amp; Braddell, R.St.J. (1991). *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)* (Vol. 2; pp. 477–478). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 
 [^4]: Tan, S.B. (1997). *[Bangsawan: A social and stylistic history of popular Malay opera](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9454231)* (pp. 26, 35). Penang: The Asian Centre. (Call no.: RSEA 782.1095951 TAN)
 
-[^5]:  [The Singapore: Saturday, Nov. 28th 1846](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18461128-1.2.3) (1846, November 28). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^5]:  [The Singapore: Saturday, Nov. 28th 1846](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18461128-1.2.3) (1846, November 28).  <i>The Straits Times </i>, p. 2. Retrieved from NewspaperSG.
 
-[^6]: *[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18830205-1.2.13)*. (1883, February 5). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^6]: *[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18830205-1.2.13)*. (1883, February 5).  <i>The Straits Times </i>, p. 2. Retrieved from NewspaperSG.
 
-[^7]: *[Local and general](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870713-1.2.7)*. (1887, July 13). Straits Times Weekly Issue, p. 2. Retrieved from NewspaperSG.
+[^7]: *[Local and general](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870713-1.2.7)*. (1887, July 13).  <i>Straits Times Weekly Issue </i>, p. 2. Retrieved from NewspaperSG.
 
-[^8]: *[Magic Lantern entertainment](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/middayherald18950823-1.2.11)*. (1895, August 23). The Mid-Day Herald, p. 3. Retrieved from NewspaperSG.
+[^8]: *[Magic Lantern entertainment](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/middayherald18950823-1.2.11)*. (1895, August 23).  <i>The Mid-Day Herald </i>, p. 3. Retrieved from NewspaperSG.
 
-[^9]: *[Edison’s kinetoscope](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18960713-1.2.42)*. (1896, July 13). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^9]: *[Edison’s kinetoscope](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18960713-1.2.42)*. (1896, July 13).  <i>The Straits Times </i>, p. 2. Retrieved from NewspaperSG.
 
-[^10]: *[Page 2 Advertisements Column 2: The Ripograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970520-1.2.30.2)*. (1897, May 20). The Straits Times, p. 2. Retrieved from NewspaperSG
+[^10]: *[Page 2 Advertisements Column 2: The Ripograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970520-1.2.30.2)*. (1897, May 20).  <i>The Straits Times </i>, p. 2. Retrieved from NewspaperSG
 
 [^11]: Uhde, J., &amp; Udhe, Y.N. (2010). *[Latent images: Film in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916)* (p. 2). Singapore: Ridge Books. (Call no.: RSING 384.8095957 UHD)
 
-[^12]: *[The Ripograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970513-1.2.38)*. (1897, May 13). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^12]: *[The Ripograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970513-1.2.38)*. (1897, May 13).  <i>The Straits Times </i>, p. 2. Retrieved from NewspaperSG.
 
-[^13]: R.A.S. (1914, March 10). *[The cinematograph of the East](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19140310-1.2.3)*. The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 1. Retrieved form NewspaperSG.
+[^13]: R.A.S. (1914, March 10). *[The cinematograph of the East](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19140310-1.2.3)*.  <i>The Singapore Free Press </i> and  <i>Mercantile Advertiser </i> (1884–1942), p. 1. Retrieved form NewspaperSG.
 
-[^14]: *[The cinematograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18980216-1.2.25)*. (1898, February 16). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+[^14]: *[The cinematograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18980216-1.2.25)*. (1898, February 16).  <i>The Singapore Free Press </i>, p. 3. Retrieved from NewspaperSG.
 
 [^15]: Tofighian in his thesis expands on this further. Tofighian, N. (2013). *[Blurring the colonial binary-turn-of-the-century transnational entertainment in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201359826)*. Stockholm: Acta Universitatis Stockholmeinsis. (Call no.: RART 791.430959 TOF)
 
-[^16]: *[Page 3 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060521-1.2.21.38.1)*. (1906, May 21). Eastern Daily Mail and Straits Morning Advertiser, p. 3. Retrieved from NewspaperSG. (P.T. Barnum was the American showman and businessman who founded the Barnum &amp; Bailey Circus in 1875.)
+[^16]: *[Page 3 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060521-1.2.21.38.1)*. (1906, May 21). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 3. Retrieved from NewspaperSG. (P.T. Barnum was the American showman and businessman who founded the Barnum &amp; Bailey Circus in 1875.)
 
-[^17]: *[The grand cinematograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19070902-1.2.31)*. (1907, September 2). Eastern Daily Mail and Straits Morning Advertiser, p. 3; *[Royal cinematograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060903-1.2.35)*. (1906, September 3). Eastern Daily Mail and Straits Morning Advertiser, p. 5. Retrieved from NewspaperSG.
+[^17]: *[The grand cinematograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19070902-1.2.31)*. (1907, September 2). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 3; *[Royal cinematograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060903-1.2.35)*. (1906, September 3). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 5. Retrieved from NewspaperSG.
 
-[^18]: *[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060614-1.2.78)*. (1906, June 14). The Straits Times, p. 8; *[The Japanese cinematograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060606-1.2.34)*. (1906, June 6). Eastern Daily Mail and Straits Morning Advertiser, p. 5. Retrieved from NewspaperSG.
+[^18]: *[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060614-1.2.78)*. (1906, June 14). <i>The Straits Times</i>, p. 8; *[The Japanese cinematograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060606-1.2.34)*. (1906, June 6). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 5. Retrieved from NewspaperSG.
 
-[^19]: *[The London chronograph show](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060528-1.2.9)*. (1906, May 28). Eastern Daily Mail and Straits Morning Advertiser, p. 2. Retrieved from NewspaperSG.
+[^19]: *[The London chronograph show](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060528-1.2.9)*. (1906, May 28). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 2. Retrieved from NewspaperSG.
 
 [^20]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970520-1.2.30.2)*, 20 May 1897, p. 2.
 
-[^21]: *[Page 8 Advertisements Column 3: Raffles Hotel](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080606-1.2.93.3)*. (1908, June 6). The Straits Times, p. 8; *[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080605-1.2.26)*. (1908, June 5). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^21]: *[Page 8 Advertisements Column 3: Raffles Hotel](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080606-1.2.93.3)*. (1908, June 6). <i>The Straits Times</i>, p. 8; *[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080605-1.2.26)*. (1908, June 5). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-[^22]: *[Ben Hur at Raffles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080608-1.2.15)*. (1908, June 8). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+[^22]: *[Ben Hur at Raffles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080608-1.2.15)*. (1908, June 8). <i>The Singapore Free Press</i>, p. 4. Retrieved from NewspaperSG.
 
 [^23]: Pilon, M., &amp; Weiler, D. (2011). *[The French in Singapore: An illustrated history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610)*, 1819-today (p. 100). Singapore: Editions Didier Millet. (Call no.: RSING 305.84105957 PIL)
 
-[^24]: *[Cinema has colourful history in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380727-1.2.150.28)*. (1938, July 27). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+[^24]: *[Cinema has colourful history in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380727-1.2.150.28)*. (1938, July 27). <i>The Singapore Free Press</i>, p. 4. Retrieved from NewspaperSG.
 
-[^25]: *[“Talkie” invasion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19291217-1.2.80)*. (1929, December 17). The Singapore Free Press, p. 11; *[Talkies in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300419-1.2.69)*. (1930, April 19). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^25]: *[“Talkie” invasion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19291217-1.2.80)*. (1929, December 17). <i>The Singapore Free Press</i>, p. 11; *[Talkies in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300419-1.2.69)*. (1930, April 19). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-[^26]: *[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19140418-1.2.44)*. (1914, April 18). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^26]: *[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19140418-1.2.44)*. (1914, April 18). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-[^27]: *[The New Alhambra](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19160113-1.2.65)*. (1916, January 13). The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
+[^27]: *[The New Alhambra](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19160113-1.2.65)*. (1916, January 13). <i>The Singapore Free Press</i>, p. 12. Retrieved from NewspaperSG.
 
-[^28]: *[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19180501-1.2.26)*. (1918, May 1). The Straits Times, p. 8: *[Modern entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19131224-1.2.70)*. (1913, December 24). The Singapore Free Press, p. 412; *[The Palladium Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19130924-1.2.45)*. (1913, September 24). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^28]: *[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19180501-1.2.26)*. (1918, May 1). <i>The Straits Times</i>, p. 8: *[Modern entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19131224-1.2.70)*. (1913, December 24). <i>The Singapore Free Press</i>, p. 412; *[The Palladium Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19130924-1.2.45)*. (1913, September 24).<i> The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
 [^29]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300419-1.2.69)*, 19 Apr 1930, p. 12. 
 
 [^30]: *[Tofighian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201359826)*, 2013, p. 221. *[The Projectoscope](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970819-1.2.28)*. (1897, August 19). <i>The Straits Times</i>, p. 2; *[Page 2 Advertisement Column 2: The Jubilee Procession](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18970821-1.2.12.2)*. (1897, August 21). <i>The Singapore Free Press</i>, p. 2; *[Page 1 Advertisements Column 3: The Jubilee Procession](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18970824-1.2.8.3)*. (1897, August 24). <i>The Singapore Free Press</i>, p. 1; *[Page 2 Advertisements Column 3: The Jubilee Procession](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970906-1.2.41.3)*. (1897, September 6). <i>The Straits Times</i>, p. 2; *[Page 2 Advertisements Column 3: The Jubilee Procession](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18970907-1.2.12.4)*. (1897, September 7). <i>The Singapore Free Press</i>, p. 1; *[The Projectorscope](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970914-1.2.46)*. (1897, September 14). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
-[^31]: *[The scenimatograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18980120-1.2.19)*. (1898, January 20). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+[^31]: *[The scenimatograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18980120-1.2.19)*. (1898, January 20). <i>The Singapore Free Press</i>, p. 3. Retrieved from NewspaperSG.
 
-[^32]: *[Page 2 Advertisements Column 4](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18980117-1.2.15.4)*. (1898, January 17). The Singapore Free Press, p. 2. Retrieved from NewspaperSG; Tofighian, 2013, p. 80.
+[^32]: *[Page 2 Advertisements Column 4](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18980117-1.2.15.4)*. (1898, January 17). <i>The Singapore Free Press</i>, p. 2. Retrieved from NewspaperSG; *[Tofighian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201359826)*, 2013, p. 80.
 
-[^33]: Tofighian, 2013, pp. 212–213; Page 1 Advertisements Column 1. (1903, October 20). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^33]: *[Tofighian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201359826)*, 2013, pp. 212–213; *[Page 1 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19031020-1.2.2.1)*. (1903, October 20). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
-[^34]: The Japanese cinematograph. (1906, November 6). Eastern Daily Mail and Straits Morning Advertiser, p. 3. Retrieved from NewspaperSG.
+[^34]: *[The Japanese cinematograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19061106-1.2.41)*. (1906, November 6). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 3. Retrieved from NewspaperSG.
 
-[^35]: Tofighian, 2013, pp. 136, 142–146.
+[^35]: *[Tofighian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201359826)*, 2013, pp. 136, 142–146.
 
-[^36]: Latest in cinematography. (1910, July 21). The Straits Times, p. 6 Retrieved from NewspaperSG.
+[^36]: *[Latest in cinematography](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100721-1.2.49)*. (1910, July 21). <i>The Straits Times</i>, p. 6 Retrieved from NewspaperSG.
 
-[^37]: Melies, D. (1913, September 4). A day at Singapore. IMDB. Retrieved from IMDD.com website; On cinema. (2009, February 16). bithiam. Retrieved from bthiam.wordpress.com.
+[^37]: Melies, D. (1913, September 4). A day at Singapore. <i>IMDB</i>. Retrieved from IMDD.com website; <i>On cinema</i>. (2009, February 16). <i>bithiam</i>. Retrieved from bthiam.wordpress.com.
 
-[^38]: Millet, 2006, p. 20.
+[^38]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, p. 20.
 
-[^39]: “Out of the sea” off Singapore. (1932, October 9). The Straits Times, p. 9; The camera men are coming! (1933, June 18). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^39]: *[“Out of the sea” off Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321009-1.2.64)*. (1932, October 9). <i>The Straits Times</i>, p. 9; *[The camera men are coming!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330618-1.2.47)* (1933, June 18). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-[^40]: Hu Ping. (2014). Of lost kampongs, fishnet bondage and remnant tombs in an equatorial Hollywood. Sgfilmhunter. Retrieved from sgfilmhunter.wordpress.com.
+[^40]: Hu Ping. (2014). Of lost kampongs, fishnet bondage and remnant tombs in an equatorial Hollywood. <i>Sgfilmhunter</i>. Retrieved from sgfilmhunter.wordpress.com.
 
-[^41]: The Straits Times, 9 Oct 1932, p. 9; Samarang/Shark Woman. Sgfilmhunter. Retrieved from sgfilmhunter.wordpress.com.
+[^41]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321009-1.2.64)*, 9 Oct 1932, p. 9; Samarang/Shark Woman. <i>Sgfilmhunter</i>. Retrieved from sgfilmhunter.wordpress.com.
 
-[^42]: Page 8 Advertisements Column 1: Samarang. (1933, October 1). The Straits Times, p. 8; The Alhambra. (1933, September 30). The Singapore Free Press, p. 9; Page 9 Advertisements Column 2: Alhambra. (1934, March 16). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^42]: *[Page 8 Advertisements Column 1: Samarang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19331001-1.2.43.1)*. (1933, October 1). <i>The Straits Times</i>, p. 8; *[The Alhambra](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330930-1.2.59)*. (1933, September 30). <i>The Singapore Free Press</i>, p. 9; *[Page 9 Advertisements Column 2: Alhambra](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340316-1.2.51.2)*. (1934, March 16). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-[^43]: Hall, M. (1933, June 29). Samarang. The New York Times. Retrieved from New York Times website.
+[^43]: Hall, M. (1933, June 29). Samarang. <i>The New York Times</i>. Retrieved from New York Times website.
