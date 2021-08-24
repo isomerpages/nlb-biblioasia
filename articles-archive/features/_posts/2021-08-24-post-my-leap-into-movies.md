@@ -25,37 +25,37 @@ I didn't know of any production company that worked solely in film. In desperati
  Inexperience and a lack of resources posed critical problems to funding and budgeting. To make the film, I ended up mortgaging my apartment in London. I was stupidly naïve then, even paying huge copyright fees for the use of 10 pop songs. Fortunately, it was a risk that paid off. Harvey Weinstein from Miramax, who later picked up Forever Fever for an international release, said it was the music that allowed him to connect with the film. Fortunately, screenings in international audience markets ensured a healthy profit for <i>Forever Fever</i> - its local takings would not have come close to breaking even.
  
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever.jpg)
-<div style="background-color: white;">
+<div style="background-color: white;"></div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_2.jpg)
-<div style="background-color: white;">
+<div style="background-color: white;"></div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_3.jpg)
-<div style="background-color: white;">
+<div style="background-color: white;"></div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_5.jpg)
 <div style="background-color: white;">
-Film stills from <i>Forever Fever</i> (1998), starring Adrian Pang, Pierre Png, Anna Belle Francis and Medaline Tan. <i>Courtesy of Tiger Tiger Pictures</i>.
+Film stills from <i>Forever Fever</i> (1998), starring Adrian Pang, Pierre Png, Anna Belle Francis and Medaline Tan. <i>Courtesy of Tiger Tiger Pictures</i>.</div>
 
 Eleven years later, when I made my second film <i>The Blue Mansion</i>, I wasn’t as fortunate. I blew the budget and despite good reviews, the murder-mystery thriller set in Penang turned out to be a financial disaster at the box office. I lost all the money I had made on <i>Forever Fever</i>. Once again, I found it hard to find a producer who could handle the demands of a feature film. Local producers rarely have the opportunity to handle big budgets and shoot large-scale films. Truth be told, it’s a chicken-and-egg situation: local films remain small because the market for them is small. I needed - and still need - producers who can handle the funding, the budgeting, and manage the scale and complexities of making a feature film; the demands are completely different from television. 
 
 I took a personal hit financially with <i>The Blue Mansion</i>, mainly because it failed to secure international distribution. At a foreign film market, I was told by a film executive in all seriousness that the film would sell better if it was in Chinese (I didn’t know whether to laugh or cry). In fact, for both my films, I found there to be resistance among investors and distributors to the idea of Asians speaking English in a film. In its North American release, <i>Forever Fever</i> was dubbed over by American actors because of fears that audiences would not understand the Singaporean actors. Changing a film’s language to pander to an audience market perplexes me. Shouldn’t a film’s marketability be based on its merits and not its language? 
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/TheBlueMansionPoster1.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/TheBlueMansionPoster1.jpg)<div style="background-color: white;"></div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_4.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_4.jpg)<div style="background-color: white;"></div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_5.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_5.jpg)<div style="background-color: white;"></div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion.jpg)
-<div style="background-color: white;">The Blue Mansion is a murder mystery starring Lim Kay Siu (top left and middle, extreme left), Claire Wong, Louisa Chong, Adrian Pang, Tan Kheng Hua and Karen Tan (middle from left to right), and the late Emma Yong (bottom). <i>Courtesy of Tiger Tiger Pictures</i>
+<div style="background-color: white;">The Blue Mansion is a murder mystery starring Lim Kay Siu (top left and middle, extreme left), Claire Wong, Louisa Chong, Adrian Pang, Tan Kheng Hua and Karen Tan (middle from left to right), and the late Emma Yong (bottom). <i>Courtesy of Tiger Tiger Pictures</i></div>
 	
 As a nation of immigrants, Singaporeans have no common language except for English; it has become our official lingua franca and our situation is unique for an Asian country. As a director, I make films about the Singapore I know - a Singapore where English or rather Singlish is primarily used as a means of communication. A significant majority of our population, however, converse in Chinese dialects in their homes. This is why Chinese films tend to do better at the domestic box office. I’ve recently started to source for funding for my next film <i>Pontianak</i>, and already, I’ve faced rejection for its language. A local production company (that will remain unnamed) has chosen not to invest in the film because it will be in Malay and does not feature any Chinese actors. The perceived financial risks are just too high. 
 	
 My earliest memories of watching movies are of Malay films screened by Radio Television Singapore (RTS) in the 1960s and 70s. Pontianak is my homage to the Golden Age of filmmaking in Singapore and the highly successful string of iconic Pontianak films that were produced by Cathay-Keris and Shaw in the late 1950s. These movies were in Malay and were watched by many Singaporeans regardless of their race or the language they spoke. Society felt more diverse and embracing of other cultures back then, possibly because we were searching for an identity in post-World War II Singapore. To be true to the spirit of the original films and that period of our history, it is essential that my remake of <i>Pontianak</i> be filmed in Malay. 
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Pontianak.jpg)
-<div style="background-color: white;">The movie poster for Glen Goei's latest film, <i>Pontianak</i>, slated for release in 2017. <i>Courtesy of Tiger Tiger Pictures</i>.
+<div style="background-color: white;">The movie poster for Glen Goei's latest film, <i>Pontianak</i>, slated for release in 2017. <i>Courtesy of Tiger Tiger Pictures</i>.</div>
 
 Our nation’s films are visual documents of our culture, traditions, languages and history. We should learn to look at film as a cultural product and not an economic commodity with a price and a return on investment. We need to develop a culture of filmmaking and film appreciation in order to address this narrow view of this art form, and by extension, the difficulties of funding, developing and maintaining an industry. It is grossly reductive to say that we are a small market or a young country when there existed a thriving film industry in 1950s Singapore. One also only needs to look at Hong Kong, a city not much larger than Singapore, for proof of the potential possibilities. 
 
@@ -64,4 +64,3 @@ To develop a culture of filmmaking, risks need to be taken by investors from bot
 <i>Pontianak</i> is my homage to the Golden Age of filmmaking in Singapore and the highly successful string of iconic Pontianak films that were produced by Cathay-Keris and Shaw in the late 1950s.
 	
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
-</div></div></div></div></div></div>
