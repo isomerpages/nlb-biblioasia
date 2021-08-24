@@ -61,12 +61,40 @@ Initially, the station broadcast programmes from the United Kingdom, but later a
 
 <b>Master Storyteller Lee Dai Soh</b>
 				
-Lee Dai Soh (李大傻) (1913–89) was a well-known storyteller who made his name on Rediffusion. His moniker is sometimes spelt as Lee Dai Sor, which means “Big Fool Lee”21 in Cantonese. He was born Lee Fook Hai and grew up in Tanjong Pagar. Although Lee only had a primary school education, he loved reading and collecting books.22
+Lee Dai Soh (李大傻) (1913–89) was a well-known storyteller who made his name on Rediffusion. His moniker is sometimes spelt as Lee Dai Sor, which means “Big Fool Lee”<sup>21</sup> in Cantonese. He was born Lee Fook Hai and grew up in Tanjong Pagar. Although Lee only had a primary school education, he loved reading and collecting books.<sup>22</sup>
 
-According to his daughter, Lee started out telling stories while sitting on a box under a tree in Chinatown, with a burning joss stick as his timer.23 His radio career began in 1938 when he joined the British Malaya Broadcasting Corporation. After the Japanese Occupation of Singapore, he returned to his job at the company, which by then had been renamed Radio Malaya. In 1949, Lee moved over to Rediffusion when the radio station began operations in Singapore.24
+According to his daughter, Lee started out telling stories while sitting on a box under a tree in Chinatown, with a burning joss stick as his timer.<sup>23</sup> His radio career began in 1938 when he joined the British Malaya Broadcasting Corporation. After the Japanese Occupation of Singapore, he returned to his job at the company, which by then had been renamed Radio Malaya. In 1949, Lee moved over to Rediffusion when the radio station began operations in Singapore.<sup>24</sup>
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Lee%20Dai%20Soh.JPG">
 <center>
 Cantonese raconteur Lee Dai Soh doing what he did best, 1966. Lee Dai Soh Collection, courtesy of National Archives of Singapore.
 </center>
+
+The master storyteller became a household name in the 1950s and 1960s. Apart from Rediffusion, he also made recordings for the Australian Broadcasting Commission station in Singapore, which were broadcast to countries such as Malaysia, Vietnam and Hong Kong.<sup>25</sup>
+
+Lee is fondly remembered for his retelling of the Chinese classic Journey to the West (西游记), which he narrated in Cantonese over 175 episodes, each lasting half an hour. These were recorded in 1979 on 7-inch open reel audiotapes at the Rediffusion Building on Clemenceau Avenue.
+
+When Rediffusion ceased its dialect programmes in 1982, Lee retired from broadcasting in Singapore. He went on to tell stories in Cantonese for Radio Australia, and also entertained audiences with his storytelling performances at clan associations and public events.
+
+Lee died of a heart attack in 1989, having done a recording for Radio Australia just the day before.<sup>26</sup> He left behind two wives, one son, two daughters and two grandchildren.<sup>27</sup>
+
+The audiotapes of Lee’s Journey to the West form part of the more than 5,000 Rediffusion recordings held in the collection of the National Archives of Singapore (NAS). These recordings have been digitised and are available for public access on the Archives Online website.<sup>28</sup> Lee was also interviewed by the Oral History Department of the NAS in 1983 and 1989.<sup>29</sup>
+
+<b>The People Behind the Voices</b>
+
+Rediffusion was an important part of the history of broadcasting in Singapore. Some big names in the industry had their first break on the station. Channel 8 MediaCorp actors Richard Low and Chen Shucheng, for instance, cut their teeth on Rediffusion after joining the station’s Chinese drama group as voice-acting talents.<sup>30</sup>
+
+In the early 1970s, Rediffusion nurtured many local talents, such as veteran Mediacorp actress Xiang Yun, who started out as a child artiste with the radio station,<sup>31</sup> popular radio DJ Mark van Cuylenberg (better known as The Flying Dutchman), <sup>32</sup> and the late theatre doyen Kuo Pao Kun, who began his career with the station’s Mandarin Drama Group.<sup>33</sup> Foong Choon Hon, former editor of the Chinese-language Shin Min Daily News, made his mark when he was a broadcaster with Rediffusion.<sup>34</sup> Composer-singer Dick Lee has credited Rediffusion for helping him break into the entertainment industry. Lee had participated in a contest organised by Rediffusion in the early 1970s and the judge later invited him back as a guest performer, and “that’s how [his] career took off”.<sup>35</sup>
+
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/US%20actor.JPG">
+<center>
+Rediffusion DJ Tan Swee Leong interviewing American actor Marlon Brando at the station’s studio in Clemenceau Avenue, 1956. Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)
+</center>
+
+Rediffusion stalwart Tan Swee Leong, who was a popular radio and television host from the 1960s to 1980s, became a mentor to younger DJs and local bands like The Quests. Tan had a long and illustrious career with Rediffusion as one of the two popular DJs alongside Larry Lai. They were nicknamed the “terrible twins”, often engaging in friendly banter to entertain listeners. Veteran sports commentator and radio presenter Brian Richmond said he modelled himself after Tan, having been inspired by him to enter the industry when he was just a teenager.<sup>36</sup>
+
+Frankie Sim, who was a fan of these Rediffusion DJs, recalled:
+
+“I remember Top Tunes of the Week, hosted by DJ Joseph Goh, on Rediffusion… Next was the P.O. Box 608 Request programme that aired six days a week, with announcers Peggy Ross, Honey Zain, Eric Lim, Johnny Lau, Larry Lai and Tan Swee Leong. There was also From Your House, hosted by Noreen Sales; Stars on Wings, hosted by DJ Neville Powley; and Listen with Love, hosted by DJ Jeremy Ramsey Gary Love… To them and other staff, I say thank you for the music.”<sup>37</sup>
+
 
