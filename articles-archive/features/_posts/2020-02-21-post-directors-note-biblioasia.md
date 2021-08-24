@@ -29,7 +29,7 @@ We round off this issue with Ang Seow Leng’s piece on census-taking in Singapo
 
 
 <center>
-<br><font size="4">AUTHOR
-<br>Tan Huism<br>
+<br><h6 style="color:purple;font-size:15px;">AUTHOR</h6>
+Tan Huism<br>
 <br>Director, National Library
-</font></center>
+</center>
