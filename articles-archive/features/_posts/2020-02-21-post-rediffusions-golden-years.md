@@ -188,7 +188,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 	<li>Oei, R. (2005). <i>Riding the bandwidth</i> (pp. 48–49). Singapore: Marshall Cavendish Academic. (Call no.: RSING 384.54 OEI); <i>Remembering Rediffusion Singapore</i>. (2010). Retrieved from Rediffusion (Singapore) Limited website.</li>
 <li>Singapore Rediffusion, [198-], p. 4; Move to new home will help: Rediffusion (1989, February 3). The New Paper, p. 6. Retrieved from NewspaperSG.</li>
 <li>Stories and memories. (2012, April 21). The Straits Times, p. 8. Retrieved from NewspaperSG.</li>
-	<li>Oei, 2005, pp. 48–49.</li>
+<li>Oei, 2005, pp. 48–49.</li>
 <li>Toh, W.L. (2017, September 21). The lives they live: Blast from the past of Rediffusion’s heyday. The Straits Times, p. 12. Retrieved from NewspaperSG.</li>
 
 
