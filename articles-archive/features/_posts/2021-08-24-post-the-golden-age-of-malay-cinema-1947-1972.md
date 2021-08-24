@@ -259,11 +259,18 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^50]:  Van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and national cultures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11901462)* (p. 259). Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN)
 
-51 Jamil, 1990, p. 35; Salma Semono. (2003, March 6). Pahit manis pengelola majalah hiburan zaman 60-san. Berita Harian, p. 11; Bintang2 filem mangsa2 banjir. (1967, January 20). Berita Harian, p. 2; Lukisan dalam pameran: Bantas keras. (1962, September 29). Berita Harian, p. 2. Retrieved from NewspaperSG.
-52 Lim, M.S. (1982, April 14). Those huge cinema posters. The Straits Times, p. 8. Retrieved from NewspaperSG.
-53 Jamil, 1990, p. 35; Farith Faruqi Sidek. (2013, June 21). Kitab tawarikh. A.V. bapat: Dari Bombay ke Kuala Lumpur, sentuhan sninya merentasi zaman. Retrieved from harithsidek blogspot
-54 Magiar Simen. (1967, October 27). Jins tidak terlibat dalam tindakan majikan. Berita Harian, p. 5. Retrieved from NewspaperSG.
-55 Tang, G. (1980, July 11). Keeping you posted on the latest movie. The Straits Times, p. 3. Retrieved from NewspaperSG.
-56 The Straits Times, 11 Jul 1980, p. 3; Billboard beem ended in 80s. (1993, February 5). The New Paper, p. 22. Retrieved from NewspaperSG.
-57 The New Paper, 5 Feb 1993, p. 22.
-58 The Straits Times, 11 Jul 1980, p. 3; The Straits Times, 9 Aug 2005, p. 94.
+[^51]: *[Jamil](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934)*, 1990, p. 35; Salma Semono. (2003, March 6). *[Pahit manis pengelola majalah hiburan zaman 60-sanh](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030306-1.2.24.1)*. <i>Berita Harian</i>, p. 11; *[Bintang2 filem mangsa2 banjir](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19670120-1.2.12)*. (1967, January 20). <i>Berita Harian</i>, p. 2; *[Lukisan dalam pameran: Bantas keras](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19620929-1.2.16)*. (1962, September 29). <i>Berita Harian</i>, p. 2. Retrieved from NewspaperSG.
+
+[^52]: Lim, M.S. (1982, April 14). *[Those huge cinema posters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820414-1.2.135.2.3)*. <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+
+[^53]: *[Jamil](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934)*, 1990, p. 35; Farith Faruqi Sidek. (2013, June 21). <i>Kitab tawarikh</i>. A.V. bapat: Dari Bombay ke Kuala Lumpur, sentuhan sninya merentasi zaman. Retrieved from harithsidek blogspot
+
+[^54]: Magiar Simen. (1967, October 27). *[Jins tidak terlibat dalam tindakan majikan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19671027-1.2.70)*. <i>Berita Harian</i>, p. 5. Retrieved from NewspaperSG.
+
+[^55]: Tang, G. (1980, July 11). *[Keeping you posted on the latest movie](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800711-1.2.128.7.3)*. <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
+
+[^56]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800711-1.2.128.7.3)*, 11 Jul 1980, p. 3; *[Billboard beem ended in 80s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19930205-1.2.49)*. (1993, February 5). <i>The New Paper</i>, p. 22. Retrieved from NewspaperSG.
+
+[^57]: *[The New Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19930205-1.2.49)*, 5 Feb 1993, p. 22.
+
+[^58]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800711-1.2.128.7.3)*, 11 Jul 1980, p. 3; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800711-1.2.128.7.3)*, 9 Aug 2005, p. 94.
