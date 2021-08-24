@@ -97,7 +97,7 @@ The play examines the consequences of language policies in Singapore, resulting 
 
 **The 80s**
 
-**Emily of Emerald Hill.** Stella Kon (1944–). Directed by Max Le Blond,1985. This was a breakthrough for English-language theatre in Singapore when it was staged in 1985 with Margaret Chan in the lead role. Written in 1982 while Kon was living in Edinburgh, UK, the play has been produced well over 50 times in Singapore, Malaysia and around the world. The monodrama is influenced by Kon’s Peranakan (Straits Chinese) heritage, and draws inspiration from her childhood home on Emerald Hill and the life of her maternal grandmother.
+***Emily of Emerald Hill.*** Stella Kon (1944–). Directed by Max Le Blond,1985. This was a breakthrough for English-language theatre in Singapore when it was staged in 1985 with Margaret Chan in the lead role. Written in 1982 while Kon was living in Edinburgh, UK, the play has been produced well over 50 times in Singapore, Malaysia and around the world. The monodrama is influenced by Kon’s Peranakan (Straits Chinese) heritage, and draws inspiration from her childhood home on Emerald Hill and the life of her maternal grandmother.
 
 All the scenes in Emily are performed by a single actress, who mimes and interacts with unseen characters on and off stage. Its simplicity was considered avant-garde for its time, but what was most innovative was the play’s use of language. Emily’s ability to switch seamlessly from Singlish and a mix of Malay and Hokkien to proper English with a clipped British accent held audiences in thrall. It also set the standard for an authentic Singaporean voice to be expressed on stage in the following decades.
 
@@ -106,7 +106,7 @@ All the scenes in Emily are performed by a single actress, who mimes and interac
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong.png" style="width: 100px; height: 100px;">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
