@@ -106,7 +106,7 @@ All the scenes in Emily are performed by a single actress, who mimes and interac
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong.png" style="width: 100px; height: 100px;">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
@@ -126,8 +126,8 @@ Mohamad Nazri Ahmad. (2000). [Seni Persembahan Drama Melayu Moden](http://eservi
 
 Oon, C. (2001). [Theatre life: A history of English-language theatre in Singapore through The Straits Times (1958–2000)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10520186). Singapore: Singapore Press Holdings. Call no.: RSING 792.095957 OON
 
-Sikana, M., &amp; A. Raman Hanafiah. (2008). Sejarah kesusasteraan Melayu moden: Drama. Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay R 899.28209 ABD
+Sikana, M., &amp; A. Raman Hanafiah. (2008). [Sejarah kesusasteraan Melayu moden: Drama](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13584641). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay R 899.28209 ABD
 
-Sarma, S.S. [எஸ். எஸ். சர்மா]. (2004). நாடகம் நடத்தின􀀛ோம் [Nāţakam naţattinōm]. சிங்கப்பூர்: எஸ். எஸ். சர்மா [Cinkappūr: Es. Es. Carmā]. Call no.: Tamil RSING 894.8112 SAR
+Sarma, S.S. [எஸ். எஸ். சர்மா]. (2004). [நாடகம் நடத்தின􀀛ோம்](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12354372) [Nāţakam naţattinōm]. சிங்கப்பூர்: எஸ். எஸ். சர்மா [Cinkappūr: Es. Es. Carmā]. Call no.: Tamil RSING 894.8112 SAR
 
-Varathan, S., &amp; Sagul Hamid. (2008). Development of Tamil drama in Singapore. Singapore: Singapore Indian Artistes Association. Call no.: RSING 792.095957 VAR-[SRN]
+Varathan, S., &amp; Sagul Hamid. (2008).[ Development of Tamil drama in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13100123). Singapore: Singapore Indian Artistes Association. Call no.: RSING 792.095957 VAR-[SRN]
