@@ -158,3 +158,81 @@ Mohd Zamberi A Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](
 van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and national cultures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11901462)*. Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN)
 
 #### **NOTES**
+
+[^1]: Amir Muhammad. (2010). *[120 Malay movies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13702621)* (pp. 120–121). Petaling Jaya: Matahari Books. (Call no.: RSEA 791.430899923 AMI)
+
+[^2]: *[Amir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13702621)*, 2010, pp. 120–121; Harding, J., &amp; Ahmad Sarji. (2002). *[P. Ramlee: The bright star](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11727520)* (pp. 98–99). Selangor, Malaysia: Pelanduk Publications. (Call no.: RSEA 791.43028092 HAR)
+
+[^3]: Hassan Abd. Muthalib. (2013). P. Ramlee: Birth of an enduring legend. In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)* (p. 55). Selangor, Malaysia: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS); Mafoot Simon. (1983, May 31). *[Tribute to an artiste of varied talents](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830531-1.2.168.6.1)*. <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+
+[^4]: *[Hassan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*, 2013, p. 55; Mafoot Simon. (1997, May 29). *[No one has come close to him](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970529-1.2.94.5.2)*. <i>The Straits Times</i>, p. 11. Retrieved from NewspaperSG.
+
+[^5]: Millet. R. (2006). *[Singapore cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)* (p. 28). Singapore: Editions Didier Millet. (Call no.: RSING q791.43095957 MIL); *[Malay film of the occupation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470310-1.2.31)*. (1947, March 10). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG; Mohd. Zamberi A Malek &amp; Aimi Jarr. (2005). Post-war malay films (pp. 115–120). In *[Malaysian films: The beginning](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12741905)*. Ampang, Selangor Darul Ehsan: National Film Development Corporation Malaysia. (Call no.: RSING 791.43095957 MOD)
+
+[^6]: Barnard, T.P. (2008). The shaw brothers’ malay films (p. 156). In P. Fu (Ed.). *[China forever: The shaw brothers and diasporic cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*. Urbana: University of Illinois Press. (Call no.: RSEA 791.43095125 CHI); Mohd Zamberi A. Malek &amp; Amir Jarr. (2005). The development of malay films (pp. 74–77). In *[Malaysian films: The beginning](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12741905)*. Ampang, Selangor Darul Ehsan: National Film Development Corporation Malaysia. (Call no.: RSING 791.43095957 MOD); *[Page 7 Advertisements Column 2: Malborough Theatre](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340324-1.2.37.2)*. (1934, March 24). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
+
+[^7]: *[Zamberi &amp; Amri](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12741905)*, 2005, pp. 115–120. 
+
+[^8]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, p. 29.
+
+[^9]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, p. 29.
+
+[^10]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, p. 29; Hassan Abd. Muthalib. (2013). Film arrives in the Nusantara (p. 39). In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*. Selangor, Malaysia: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS). Directed by B.S. Rajhans, Singapua Di-Waktu Malam’s plot focused on the plight of prostitutes in Singapore and starred as <i>Chempaka</i> (Magnolia, 1947); <i>Pisau Beracun</i> (The poisoned knife, 1948); <i>Chinta</i> (Love, 1948); *[First post-war malay film shown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19471116-1.2.34)*. (1947, November 16). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
+
+[^11]: *[Muthalib](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*, 2013, p. 35; Mohd. Zamberi A Malek &amp; Aimi Jarr. (2005). Pre-war malay films (p. 97). In *[Malaysian films: The beginning](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12741905)*. Ampang, Selangor Darul Ehsan: National Film Development Corporation Malaysia. (Call no.: RSING 791.43095957 MOD); *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, pp. 39–45.
+
+[^12]: Mohd Zamberi A Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12741905)* (pp. 166–170). Ampang, Selangor Darul Ehsan: National Film Development Corporation Malaysia. (Call no.: RSING 791.43095957 MOD)
+
+[^13]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, p. 158; *[Harding &amp; Sarji](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11727520)*, 2002, pp. 14–15; Tan, K.H. (1988, December 9). *[Screen legend lives on](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881209-1.2.114.10)*. <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+
+[^14]: Lim, K.T., &amp; Yiu, T.C. (1991). *[Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)* (p. 119). Singapore: Landmark Books. (Call no.: RSING 791.43095957 LIM); *[Take one…reference book on Malay movie history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970814-1.2.73.25.3)*. (1997, August 14). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+
+[^15]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 119.
+
+[^16]: *[Zamberi &amp; Aimi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12741905)*, 2005, p. 154. Directed by B.S. Rajhans, <i>Buloh Perindu</i> gave Shaw Brothers their first taste of real competition. The big budget film was produced in Geva Colour and shot on location in Chuping, Perlis and showcased a line-up of film-stars such as Salleh Ghani, Shariff Medan, M. Amin, Raden Sudior, Bakarudin, Yusof Kelana, Raden Rafeah, Raden Sumiani, Rosni and Norsiah Yem.
+
+[^17]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 119
+
+[^18]: Barnard, 2008, p. 163; Actors on strike today. (1957, March 16). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^19]: Barnard, 2008, p. 163.
+
+[^20]: Hassan Abd. Muthalib. (2013). Cathay-Keris – A different kind of Malay films (pp. 72–73). In Malaysian cinema in a bottle: A century (and a bit more) of wayang. Petaling Jaya: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS)  
+21 Lim &amp; Yiu, 1991, p. 120; Ramani, V. (2005, August 24). Scream queen. Today, p. 32. Retrieved from NewspaperSG.
+22 Barnard, 2008, p. 167.
+23 Barnard, 2008, pp. 167–168.
+24 Lim &amp; Yiu, 1991, p. 139; Film company goes into liquidation. (1967, October 28). The Straits Times, p. 6; Studio jalan ampas di-katakan hendak di-tutup. (1965, May 8). Berita Harian, p. 1. Retrieved from NewspaperSG.
+25 Lim &amp; Yiu, 1991, p. 139; Film studio cutting down staff. (1965, March 30). The Straits Times, p. 4. Retrieved from NewspaperSG.
+26 Amir Hamzah Shamsuddin. (1977, December 4). Dapatkan filem 2 Melayu rebut kembali zaman gemilangya? Berita Harian, p. 6. Retrieved from NewspaperSG.
+27 Anuar Othman. (1987, July 31). Salim Bachik dramatis belum ada gantiny. Berita Harian, p. 7. Retrieved from NewspaperSG.
+28 Chapter 8: Channel surfing. (2013, December 3). Today, p. 58. Retrieved from NewspaperSG.
+29 Coltoras. (2012, March 15). Nostalgia tahun 70an: Brorey Marantika. Retrieved from Coltoras website.
+30 Millet, 2006 pp. 71–76.
+31 Cheah, P. (2011). Beginning and starting over – Singapore film until 2002 (p. 13). In Y. Michalik (Ed.), Singapore independent film. Marburg (Germany): Shuren. (Call no.: RSING 791.43095957 SIN)
+32 Millet, 2006, pp. 71–76.
+33 Millet, 2006, pp. 71–76.
+34 Travelfish. (n.d.). Malay Heritage Centre: A crash course in all things malay. Retrieved from Travelfish website. 
+35 Kurang-nya filem2 Hindustan, filem China jadi ganti. (1969, September 5). Berita Harian, p. 6. Retrieved from NewspaperSG.
+36 Tiga kesah dlm satu gambar. (1959, January 30). Berita Harian, p. 7. Retrieved from NewspaperSG.
+37 Ferroa, R. (1948, June 1). Putting them wise. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+38 The Singapore Free Press, 1 Jun 1948, p. 2; 1,000 workers benefitted. (1962, May 19). The Straits Times, p. 4. Retrieved from NewspaperSG.
+39 The Singapore Free Press, 1 Jun 1948, p. 2.
+40 Hamlet in 3,070 ch8aracters. (1948, August 25). The Straits Times, p. 8. Retrieved from NewspaperSG.
+41 New sub-titling to help Chinese film fans. (1953, April 19). The Straits Times, p. 3. Retrieved from NewspaperSG.
+42 The Straits Times, 19 Apr 1953, p. 3; Filem mini penoh dengan lagu2 yang tetap menghibor. (1961, March 11). Berita Harian, p. 7. Retrieved from NewspaperSG.
+43 Lim, K.C. (1989, January 14). Golden movies of P Ramlee. The New Paper, p. 12. Retrieved from NewspaperSG.
+44 Halaman 8 iklan ruangan 1. (1964, May 5). Berita Harian, p. 8; Halaman 10 iklan ruangan 1. (1964, April 22). Berita Harian, p. 10. Retrieved from NewspaperSG.
+45 Bahyah Mahmud. (1965, October 16). Suami Sarimah akan menarek diri dari dunia perfileman. Berita Harian, p. 7. Retrieved from NewspaperSG.
+46 Anwardi Jamil. (2007, November 9). Anak wayang. People I remember in MFP. Retrieved from sayaanakwayang.blogspot.com website.
+47 The odd job. (2005, August 9). The Straits Times, p. 94. Retrieved from NewspaperSG.
+48 Jamil Sulong. (1990). Kaca permata: Memoir seorang pengarah (pp. 24–25, 54). Kuala Lumpur: Dewan Bahasa and Pustaka. (Call no.: Malay RSING 799.4309595 JAM)
+49 Jamil, 1990, pp. 22–25.
+50 Van de Heide, W. (2002). Malaysian cinema, Asian film: Border crossings and national cultures (p. 259). Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN)
+51 Jamil, 1990, p. 35; Salma Semono. (2003, March 6). Pahit manis pengelola majalah hiburan zaman 60-san. Berita Harian, p. 11; Bintang2 filem mangsa2 banjir. (1967, January 20). Berita Harian, p. 2; Lukisan dalam pameran: Bantas keras. (1962, September 29). Berita Harian, p. 2. Retrieved from NewspaperSG.
+52 Lim, M.S. (1982, April 14). Those huge cinema posters. The Straits Times, p. 8. Retrieved from NewspaperSG.
+53 Jamil, 1990, p. 35; Farith Faruqi Sidek. (2013, June 21). Kitab tawarikh. A.V. bapat: Dari Bombay ke Kuala Lumpur, sentuhan sninya merentasi zaman. Retrieved from harithsidek blogspot
+54 Magiar Simen. (1967, October 27). Jins tidak terlibat dalam tindakan majikan. Berita Harian, p. 5. Retrieved from NewspaperSG.
+55 Tang, G. (1980, July 11). Keeping you posted on the latest movie. The Straits Times, p. 3. Retrieved from NewspaperSG.
+56 The Straits Times, 11 Jul 1980, p. 3; Billboard beem ended in 80s. (1993, February 5). The New Paper, p. 22. Retrieved from NewspaperSG.
+57 The New Paper, 5 Feb 1993, p. 22.
+58 The Straits Times, 11 Jul 1980, p. 3; The Straits Times, 9 Aug 2005, p. 94.
