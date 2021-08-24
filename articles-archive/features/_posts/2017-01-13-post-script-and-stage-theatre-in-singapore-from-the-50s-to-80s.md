@@ -103,6 +103,12 @@ All the scenes in Emily are performed by a single actress, who mimes and interac
 **About the Exhibition**
 “Script &amp; Stage: Theatre in Singapore from the 50s to 80s” is held on levels 7 and 8 of the National Library Building until 26 March 2017. A series of programmes has been organised in conjunction with the exhibition, including public talks by playwrights, directors and artistes; guided tours by curators; and school tours. For more information, look up the website:[ www.nlb.gov.sg/exhibitions/]( www.nlb.gov.sg/exhibitions/)
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-16-issue-4/authors/NgYi-Sheng.png">
+<b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
+</div>
+
 ### **REFERENCES**
 
 柯思仁 [Ke, S.R.]. (2013).《戏聚百年: 新加坡华文戏剧 1913–2013》[Scenes:A hundred years of Singapore Chinese language theatre 1913–2013]. 戏剧盒: 新加坡国家博物馆. Call no.: Chinese RSING 792.095957 QSR
