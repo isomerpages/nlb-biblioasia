@@ -66,7 +66,7 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 </div>
 
 
-|#### **Iconic Theatre Across the Decades**|
+|**Iconic Theatre Across the Decades**|
 
 |**The 50s**|
 
@@ -112,7 +112,7 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
