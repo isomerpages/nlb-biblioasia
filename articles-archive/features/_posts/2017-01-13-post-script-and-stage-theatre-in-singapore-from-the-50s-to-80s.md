@@ -56,7 +56,7 @@ By the early 1990s, the local theatre scene had come into its own, paving the wa
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol-12-issue-4/scriptandstage/mamalookingforhercat.png">
-Programme booklet and handwritten draft of *Mama Looking For Her Cat* by Kuo Pao  Kun.
+Programme booklet and handwritten draft of  <i>Mama Looking For Her Cat </i> by Kuo Pao  Kun.
 </div>
 
 <div style="background-color: white;">
@@ -110,7 +110,7 @@ Till today, Kuo’s iconic work, which he wrote in 1988, is considered as one of
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
