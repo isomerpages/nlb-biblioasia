@@ -95,8 +95,9 @@ In the early 1970s, Rediffusion nurtured many local talents, such as veteran Med
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/US%20actor.JPG">
 <center>
+	<p style="color: grey; font-size: 15px;"> 
 Rediffusion DJ Tan Swee Leong interviewing American actor Marlon Brando at the station’s studio in Clemenceau Avenue, 1956. Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)
-</center>
+	</p></center>
 
 Rediffusion stalwart Tan Swee Leong, who was a popular radio and television host from the 1960s to 1980s, became a mentor to younger DJs and local bands like The Quests. Tan had a long and illustrious career with Rediffusion as one of the two popular DJs alongside Larry Lai. They were nicknamed the “terrible twins”, often engaging in friendly banter to entertain listeners. Veteran sports commentator and radio presenter Brian Richmond said he modelled himself after Tan, having been inspired by him to enter the industry when he was just a teenager.<sup>36</sup>
 
