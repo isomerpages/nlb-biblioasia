@@ -65,7 +65,7 @@ The party atmosphere at the Raffles was clearly contagious, as British traveller
 <div style="background-color: white;">The menu card of the Jubilee Dinner held on 6 May 1935 to celebrate the 25th anniversary of the coronation of King George V and Queen Mary. Whoever crafted this menu to spell out the words “Jubilee Dinner” must have really struggled to come up with the appropriate dishes. The letter “U” for “Unless you prefer turtle soup with golden sherry” is rather lame and one wonders what inventive dessert dish called “Raffles” the chef had concocted for the letter “R”!</div>
 
 #### The Rare Materials Collection
-All the menus featured in this article were donated to the National Library, Singapore, by Roberto Pregarz, who was General Manager of Raffles Hotel from 1972 to 1989. He is a collector of historical memorabilia from the Raffles Hotel, and the author of two books: Memories of Raffles: 22 Years with a Grand Old Hotel and Raffles Legends and Stories.
+All the menus featured in this article were donated to the National Library, Singapore, by Roberto Pregarz, who was General Manager of Raffles Hotel from 1972 to 1989. He is a collector of historical memorabilia from the Raffles Hotel, and the author of two books: *Memories of Raffles: 22 Years with a Grand Old Hotel and Raffles Legends and Stories*.
 
 These menus are part of the National Library’s Rare Materials Collection. The collection – which is kept in a climate controlled facility on level 13 of the National Library − comprises over 11,000 items, mostly books and periodicals, but also materials such as manuscripts, maps, photographs, art prints and illustrations, as well as handwritten letters and documents.
 
@@ -73,13 +73,13 @@ To provide access to the materials, the Rare Materials Collection is being digit
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/francis.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/francis.png">
 	<b>Francis Dorai </b>has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
 	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
 </div>
 
