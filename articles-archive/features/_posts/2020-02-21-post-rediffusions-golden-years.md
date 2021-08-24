@@ -71,8 +71,9 @@ According to his daughter, Lee started out telling stories while sitting on a bo
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Lee%20Dai%20Soh.JPG">
 <center>
+	<p style="color: grey; font-size: 15px;"> 
 Cantonese raconteur Lee Dai Soh doing what he did best, 1966. Lee Dai Soh Collection, courtesy of National Archives of Singapore.
-</center>
+	</p></center>
 
 The master storyteller became a household name in the 1950s and 1960s. Apart from Rediffusion, he also made recordings for the Australian Broadcasting Commission station in Singapore, which were broadcast to countries such as Malaysia, Vietnam and Hong Kong.<sup>25</sup>
 
