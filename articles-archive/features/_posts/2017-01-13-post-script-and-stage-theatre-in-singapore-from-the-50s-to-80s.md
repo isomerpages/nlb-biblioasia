@@ -1,9 +1,10 @@
 ---
 title: "Script & Stage: Theatre in Singapore from the 50s to 80s"
 date: 2017-01-13
-permalink: /articles-archive/features/script-stages-theatre
+permalink: /vol-12/issue-4/jan-mar-2017/script-stages-theatre
 layout: post
 ---
+
 **A new exhibition on Singapore theatre traces its growth from its nascent days in the 1950s when traditional art forms were dominant, as Georgina Wong explains.**
 
 Although theatre in Singapore has a relatively short history of some 60 years, with its foundations having been laid only in the 1950s, it is made complicated by the fact that the various communities who engaged with theatre in the early days did so independently of one another.
