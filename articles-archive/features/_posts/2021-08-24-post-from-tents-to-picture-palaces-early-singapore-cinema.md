@@ -4,7 +4,6 @@ date: 2021-08-24
 permalink: /articles-archive/features/permalinkesc
 layout: post
 ---
-
 #### Few people are aware that Singapore’s cinema history dates back to as early as 1896. **Bonny Tan** traces its development, from the days of the Magic Lantern projector to the first locally made films.
 “All we can say to Singapore’s pleasure-seekers is that if they do not like a couple of hours to hang heavily on their hands they could not do better than wend their steps to the Company’s tent after dinner and feast their eyes on this unique and novel exhibition.”
 
@@ -180,9 +179,12 @@ Zamberi A. Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](http
 
 [^7]: *[Local and general](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870713-1.2.7)*. (1887, July 13). Straits Times Weekly Issue, p. 2. Retrieved from NewspaperSG.
 
-[^8]: *[Magic Lantern entertainment]. (1895, August 23). The Mid-Day Herald, p. 3. Retrieved from NewspaperSG.
-[^9]: Edison’s kinetoscope. (1896, July 13). The Straits Times, p. 2. Retrieved from NewspaperSG.
-[^10]: Page 2 Advertisements Column 2: The Ripograph. (1897, May 20). The Straits Times, p. 2. Retrieved from NewspaperSG
+[^8]: *[Magic Lantern entertainment](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/middayherald18950823-1.2.11)*. (1895, August 23). The Mid-Day Herald, p. 3. Retrieved from NewspaperSG.
+
+[^9]: *[Edison’s kinetoscope](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18960713-1.2.42)*. (1896, July 13). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^10]: *[Page 2 Advertisements Column 2: The Ripograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970520-1.2.30.2)*. (1897, May 20). The Straits Times, p. 2. Retrieved from NewspaperSG
+
 11 Uhde, J., &amp; Udhe, Y.N. (2010). Latent images: Film in Singapore (p. 2). Singapore: Ridge Books. (Call no.: RSING 384.8095957 UHD)
 12 The Ripograph. (1897, May 13). The Straits Times, p. 2. Retrieved from NewspaperSG.
 13 R.A.S. (1914, March 10). The cinematograph of the East. The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 1. Retrieved form NewspaperSG.
