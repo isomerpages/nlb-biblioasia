@@ -25,9 +25,10 @@ Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.<sup>2
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.JPG">
 <center>
+<p style="color: grey; font-size: 15px;"> 
 Rediffusion became an important source of entertainment in Singapore when it was introduced here in 1949, especially for people living in kampongs that did not have access to electricity. Rediffusion sets, which were essentially loudspeakers with built-in amplifiers, did not depend on electricity because power was supplied by the same cable that delivered the radio signal.
 Courtesy of National Archives of Singapore.
-</center>
+	</p></center>
 
 Apart from stories, Rediffusion also broadcast recordings of outdoor stage shows such as concerts and music programmes, which were mainly in Chinese. Recordings of Chinese wayang (street opera) performances, in particular, were well received until the 1970s when boxing match commentaries took over.<sup>5</sup>
 
@@ -163,5 +164,3 @@ Some of the programming that made Rediffusion popular are held by the National A
 The National Library’s Lee Kong Chian Reference Library also has a collection of Rediffusion materials that include issues of Rediffusion Times (丽的呼声周刊), photographs and rare drama scripts.
 
 <b>Notes</b>
-
-
