@@ -2,7 +2,7 @@
 title: Director’s Note
 permalink: /directors-note-jan-2020/
 ---
-<img src="/images/Vol-11-issue-3/Vol11_Iss3.jpg">
+<img src="/images/Vol-15-issue-4/vol15_iss4.jpg">
 
 
 Welcome to the first issue of 2020! The start of any new year always provides us with the opportunity to look forward to what the future holds, and to reflect on our past.
