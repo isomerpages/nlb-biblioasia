@@ -26,3 +26,10 @@ Some stories about colonial Singapore are better known than others. Adeline Foo 
 In contrast, we feature the intrepid Austrian writer Ida Pfeiffer, who travelled the world alone and stopped over twice in Singapore in the second half of the 19th century. She wrote about the wonders of Pulau Ubin, described a Chinese funeral in detail and came up close to drying human heads in Sarawak. John van Wyhe has the story.
 
 We round off this issue with Ang Seow Leng’s piece on census-taking in Singapore, Gracie Lee’s article on the history of printing in Indochina and Wong Sher Maine’s retrospective on 150 years of the Istana.
+
+
+<center>
+<br><font size="4">AUTHOR
+<br>Tan Huism<br>
+<br>Director, National Library
+</font></center>
