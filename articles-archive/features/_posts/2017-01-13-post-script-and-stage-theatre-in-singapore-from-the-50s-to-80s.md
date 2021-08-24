@@ -77,7 +77,7 @@ The play was written in 1931 by the well-known Chinese writer Ba Jin, who based 
 **The 60s**
 
 ***The Elder Brother.*** Goh Poh Seng (1936–2010). Produced by The Lotus Club, University of Singapore, 1966
-The staging of The Elder Brother is cited as the first time Singlish was used on a public stage. Goh, who wrote the play in 1966, was a novice playwright at the time, experimenting with different forms of the English language to find a fit that would properly represent English as it was used and spoken in Singapore. The characters in the play use a mix of English and Singlish on stage.
+The staging of *The Elder Brother* is cited as the first time Singlish was used on a public stage. Goh, who wrote the play in 1966, was a novice playwright at the time, experimenting with different forms of the English language to find a fit that would properly represent English as it was used and spoken in Singapore. The characters in the play use a mix of English and Singlish on stage.
 
 ***அடுக்கு வீட்டு அண்ணாசாமி, Adukku Veetu Annasamy (Annasamy: A Flat Dweller).*** புதுமை தா சன் Puthumaithasan (P. Krishnan, 1932–). Broadcast on Radio Singapura from 1969–70.
 Adukku Veetu Annasamy is a radio drama series written by P. Krishnan (also known as Puthumaithasan) that was broadcast weekly from 1969 to 1970. Thanks to several repeat broadcasts between 1975 and 1985, the play captivated radio audiences for almost 20 years. It revolves around Annasamy, a man who observes and comments on the lives of the people living in his housing estate, with his wife Kokilavani. It is noteworthy for its depiction of the everyday lives of Singaporeans.
@@ -85,6 +85,7 @@ Adukku Veetu Annasamy is a radio drama series written by P. Krishnan (also known
 **The 70s**
 
 ***Matahari Malam (The Night’s Sun).*** Masuri S.N. (Masuri bin Salikun, 1927–2005). Staged by Persatuan Kemuning Singapura, 1978.
+
 Written as a collaborative effort between the drama group Persatuan Kemuning and the literary association Angkatan Sasterawan ’50 (or ASAS ’50), the partnership saw ASAS ’50 providing quality scripts and Persatuan Kemuning staging the plays. This was not uncommon in the Malay literary scene, where writers often crossed over into drama and vice versa.
 
 One of the founders of ASAS ’50 was the Singaporean Malay literary pioneer Masuri S.N. Better known as a poet, Matahari Malam was one of the few plays Masuri wrote in his lifetime, along with Dari Curfew. Regarded as a bold experimental work, Matahari is about an author who is confronted by five fictional characters of his own creation, who express displeasure at how their characters and storylines are being written.
@@ -105,7 +106,7 @@ All the scenes in Emily are performed by a single actress, who mimes and interac
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong.png">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
