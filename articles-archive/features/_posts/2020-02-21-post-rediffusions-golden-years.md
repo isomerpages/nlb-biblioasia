@@ -177,11 +177,20 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 	<li>Seah, J. (2012, April 10). <i>Farewell to Redifffusion</i>. Retrieved from Singapore Memory Project website.</li>
 	<li>Goh, Y.L. (1986, October 6). The entertainment house that Jack built. <i>The Business Times</i>, p. 8; Watcher, M. (1956, October 7). Commercial radio is the answer. <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG. </li>
 <li>Radio transmission in Singapore began in the 1920s, but progress was initially in fits and starts. The British Malaya Broadcasting Corporation, the predecessor to today’s Mediacorp broadcasting behemoth, began transmission on 1 March 1937. In 1946, the company was reorganised as Radio Malaya and renamed Radio Singapore 11 years later. In 1963, this entity merged with the television broadcaster to become Radio Television Singapore. This then became the Singapore Broadcasting Corporation in 1980. Today, the radio division is part of the Mediacorp conglomerate.</li>
-<li>Singapore Rediffusion (p. 1). [198-]. Singapore: Rediffusion. (Call no.: RSING 384.540655957 RED)</li>
-<li>Chan, R. (2012, April 15). Rediffusion launch pad. The Straits Times, p. 2; Aung-Thwin, E. (2012, April 23). Tuning out after 63 years. The Straits Times, pp. 6–7. Retrieved from NewspaperSG.</li>
-	<li>The Business Times, 6 Oct 1986, p. 8; The Straits Times, 7 Oct 1956, p. 6.</li>
-Singapore Rediffusion, [198-], p. 1; Goh, Y.L. (1986, October 6). The entertainment house that Jack built. The Business Times, p. 8. Retrieved from NewspaperSG.
-Singapore International Chamber of Commerce. (1979). From early days (p. 136). Singapore: Singapore International Chamber of Commerce. (Call no.: RSING 380.10655957 SIN)
-Move to new home will help: Rediffusion (1989, February 3). The New Paper, p. 6; Revamp a boost for Rediffusion (1989, February 6). The Straits Times, p. 12. Retrieved from NewspaperSG.
-Singapore Rediffusion,  [198-], p. 2.
+	<li><i>Singapore Rediffusion</i> (p. 1). [198-]. Singapore: Rediffusion. (Call no.: RSING 384.540655957 RED)</li>
+	<li>Chan, R. (2012, April 15). Rediffusion launch pad. <i>The Straits Times</i>, p. 2; Aung-Thwin, E. (2012, April 23). Tuning out after 63 years. <i>The Straits Times</i>, pp. 6–7. Retrieved from NewspaperSG.</li>
+	<li><i>The Business Times</i>, 6 Oct 1986, p. 8; <i>The Straits Times</i>, 7 Oct 1956, p. 6.</li>
+	<li><i>Singapore Rediffusion</i>, [198-], p. 1; Goh, Y.L. (1986, October 6). The entertainment house that Jack built. <i>The Business Times</i>, p. 8. Retrieved from NewspaperSG.</li>
+	<li>Singapore International Chamber of Commerce. (1979). <i>From early days</i> (p. 136). Singapore: Singapore International Chamber of Commerce. (Call no.: RSING 380.10655957 SIN)</li>
+	<li>Move to new home will help: Rediffusion (1989, February 3). <i>The New Paper</i>, p. 6; Revamp a boost for Rediffusion (1989, February 6). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.</li>
+<li><i>Singapore</i> Rediffusion,  [198-], p. 2.</li>
+	<li>Oei, R. (2002). <i>Borderless bandwidth: DNA of digital radio</i> (p. 111). Singapore: Times Academic Press. (Call no.: RSING 384.54 OEI)</li>
+	<li>Oei, R. (2005). <i>Riding the bandwidth</i> (pp. 48–49). Singapore: Marshall Cavendish Academic. (Call no.: RSING 384.54 OEI); <i>Remembering Rediffusion Singapore</i>. (2010). Retrieved from Rediffusion (Singapore) Limited website.</li>
+<li>Singapore Rediffusion, [198-], p. 4; Move to new home will help: Rediffusion (1989, February 3). The New Paper, p. 6. Retrieved from NewspaperSG.</li>
+<li>Stories and memories. (2012, April 21). The Straits Times, p. 8. Retrieved from NewspaperSG.</li>
+	<li>Oei, 2005, pp. 48–49.</li>
+<li>Toh, W.L. (2017, September 21). The lives they live: Blast from the past of Rediffusion’s heyday. The Straits Times, p. 12. Retrieved from NewspaperSG.</li>
+
+
+
 </ol>
