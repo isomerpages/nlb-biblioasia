@@ -193,31 +193,52 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^17]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 119
 
-[^18]: Barnard, 2008, p. 163; Actors on strike today. (1957, March 16). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^18]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, p. 163; Actors on strike today. (1957, March 16). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
-[^19]: Barnard, 2008, p. 163.
+[^19]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, p. 163.
 
-[^20]: Hassan Abd. Muthalib. (2013). Cathay-Keris – A different kind of Malay films (pp. 72–73). In Malaysian cinema in a bottle: A century (and a bit more) of wayang. Petaling Jaya: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS)  
-21 Lim &amp; Yiu, 1991, p. 120; Ramani, V. (2005, August 24). Scream queen. Today, p. 32. Retrieved from NewspaperSG.
-22 Barnard, 2008, p. 167.
-23 Barnard, 2008, pp. 167–168.
-24 Lim &amp; Yiu, 1991, p. 139; Film company goes into liquidation. (1967, October 28). The Straits Times, p. 6; Studio jalan ampas di-katakan hendak di-tutup. (1965, May 8). Berita Harian, p. 1. Retrieved from NewspaperSG.
-25 Lim &amp; Yiu, 1991, p. 139; Film studio cutting down staff. (1965, March 30). The Straits Times, p. 4. Retrieved from NewspaperSG.
-26 Amir Hamzah Shamsuddin. (1977, December 4). Dapatkan filem 2 Melayu rebut kembali zaman gemilangya? Berita Harian, p. 6. Retrieved from NewspaperSG.
-27 Anuar Othman. (1987, July 31). Salim Bachik dramatis belum ada gantiny. Berita Harian, p. 7. Retrieved from NewspaperSG.
-28 Chapter 8: Channel surfing. (2013, December 3). Today, p. 58. Retrieved from NewspaperSG.
-29 Coltoras. (2012, March 15). Nostalgia tahun 70an: Brorey Marantika. Retrieved from Coltoras website.
-30 Millet, 2006 pp. 71–76.
-31 Cheah, P. (2011). Beginning and starting over – Singapore film until 2002 (p. 13). In Y. Michalik (Ed.), Singapore independent film. Marburg (Germany): Shuren. (Call no.: RSING 791.43095957 SIN)
-32 Millet, 2006, pp. 71–76.
-33 Millet, 2006, pp. 71–76.
-34 Travelfish. (n.d.). Malay Heritage Centre: A crash course in all things malay. Retrieved from Travelfish website. 
-35 Kurang-nya filem2 Hindustan, filem China jadi ganti. (1969, September 5). Berita Harian, p. 6. Retrieved from NewspaperSG.
-36 Tiga kesah dlm satu gambar. (1959, January 30). Berita Harian, p. 7. Retrieved from NewspaperSG.
-37 Ferroa, R. (1948, June 1). Putting them wise. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
-38 The Singapore Free Press, 1 Jun 1948, p. 2; 1,000 workers benefitted. (1962, May 19). The Straits Times, p. 4. Retrieved from NewspaperSG.
-39 The Singapore Free Press, 1 Jun 1948, p. 2.
-40 Hamlet in 3,070 ch8aracters. (1948, August 25). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^20]: Hassan Abd. Muthalib. (2013). Cathay-Keris – A different kind of Malay films (pp. 72–73). In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192). Petaling Jaya: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS) 
+
+[^21]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 120; Ramani, V. (2005, August 24). *[Scream queen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050824-1.2.44.1)*. Today, p. 32. Retrieved from NewspaperSG.
+
+[^22]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, p. 167.
+
+[^23]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, pp. 167–168.
+
+[^24]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 139; *[Film company goes into liquidation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671028-1.2.37)*. (1967, October 28). The Straits Times, p. 6; *[Studio jalan ampas di-katakan hendak di-tutup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19650508-1.2.8)*. (1965, May 8). <i>Berita Harian</i>, p. 1. Retrieved from NewspaperSG.
+
+[^25]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 139; *[Film studio cutting down staff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650330-1.2.27)*. (1965, March 30). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+
+[^26]: Amir Hamzah Shamsuddin. (1977, December 4). *[Dapatkan filem 2 Melayu rebut kembali zaman gemilangya?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19771204-1.2.66.1)* <i>Berita Harian</i>, p. 6. Retrieved from NewspaperSG.
+
+[^27]: Anuar Othman. (1987, July 31). *[Salim Bachik dramatis belum ada gantiny](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19870731-1.2.19.2)*. <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
+
+[^28]: *[Chapter 8: Channel surfing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20131203-1.2.64.1.9)*. (2013, December 3). <i>Today</i>, p. 58. Retrieved from NewspaperSG.
+
+[^29]: Coltoras. (2012, March 15). <i>Nostalgia tahun 70an: Brorey Marantika</i>. Retrieved from Coltoras website.
+
+[^30]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006 pp. 71–76.
+
+[^31]: Cheah, P. (2011). Beginning and starting over – Singapore film until 2002 (p. 13). In Y. Michalik (Ed.), Singapore independent film. Marburg (Germany): Shuren. (Call no.: RSING 791.43095957 SIN)
+
+[^32]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, pp. 71–76.
+
+[^33]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, pp. 71–76.
+
+[^34]: Travelfish. (n.d.). Malay Heritage Centre: A crash course in all things malay. Retrieved from Travelfish website. 
+
+[^35]: Kurang-nya filem2 Hindustan, filem China jadi ganti. (1969, September 5). Berita Harian, p. 6. Retrieved from NewspaperSG.
+
+[^36]: Tiga kesah dlm satu gambar. (1959, January 30). Berita Harian, p. 7. Retrieved from NewspaperSG.
+
+[^37]: Ferroa, R. (1948, June 1). Putting them wise. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+
+[^38]: The Singapore Free Press, 1 Jun 1948, p. 2; 1,000 workers benefitted. (1962, May 19). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^39]: The Singapore Free Press, 1 Jun 1948, p. 2.
+
+[^40]: Hamlet in 3,070 ch8aracters. (1948, August 25). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
 41 New sub-titling to help Chinese film fans. (1953, April 19). The Straits Times, p. 3. Retrieved from NewspaperSG.
 42 The Straits Times, 19 Apr 1953, p. 3; Filem mini penoh dengan lagu2 yang tetap menghibor. (1961, March 11). Berita Harian, p. 7. Retrieved from NewspaperSG.
 43 Lim, K.C. (1989, January 14). Golden movies of P Ramlee. The New Paper, p. 12. Retrieved from NewspaperSG.
