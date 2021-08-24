@@ -70,11 +70,11 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 |**The 50s**|
 
-|***家, Jia (Family).*** Adapted by **曹禺** (Cao Yu, 1910–1996) from the novel by 巴金 (Ba Jin, 1904–2005 ). Presented by the Chung Cheng High School Drama Club, 1954|
+|***家, Jia (Family).*** Adapted by **曹禺** (Cao Yu, 1910–1996) from the novel by 巴金 (Ba Jin, 1904–2005 ). Presented by the Chung Cheng High School Drama Club, 1954
 
 In 1954, *Jia* was staged at the Victoria Theatre for 16 days to full houses, a milestone in Malayan theatre. Over 200 people were involved in the production, with each performance held over two nights and lasting more than six hours. Tickets were sold out within three days – a remarkable feat considering it was not a fundraising production.
 
-The play was written in 1931 by the well-known Chinese writer Ba Jin, who based it on his childhood years in Sichuan province, China. *Jia* exposes the dark, repressive side of a feudal Chinese family through the lives of three brothers. The play highlights the oppressiveness of the old social system in China, and how a young generation tries to break free from it.
+The play was written in 1931 by the well-known Chinese writer Ba Jin, who based it on his childhood years in Sichuan province, China. *Jia* exposes the dark, repressive side of a feudal Chinese family through the lives of three brothers. The play highlights the oppressiveness of the old social system in China, and how a young generation tries to break free from it.|
 
 **The 60s**
 
@@ -109,7 +109,7 @@ All the scenes in Emily are performed by a single actress, who mimes and interac
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/scriptandstage/georgina-wong1.png">
 <b>Georgina Wong</b>  is an Assistant Curator with Exhibitions &amp; Curation at the National Library, Singapore. She is the lead curator of "Script &amp; Stage: Theatre in Singapore from the 50s to 80s".
 </div>
 
