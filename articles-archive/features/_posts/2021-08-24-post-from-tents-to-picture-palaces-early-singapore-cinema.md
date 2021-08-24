@@ -214,4 +214,4 @@ Zamberi A. Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](http
 40 Hu Ping. (2014). Of lost kampongs, fishnet bondage and remnant tombs in an equatorial Hollywood. Sgfilmhunter. Retrieved from sgfilmhunter.wordpress.com.
 41 The Straits Times, 9 Oct 1932, p. 9; Samarang/Shark Woman. Sgfilmhunter. Retrieved from sgfilmhunter.wordpress.com.
 42 Page 8 Advertisements Column 1: Samarang. (1933, October 1). The Straits Times, p. 8; The Alhambra. (1933, September 30). The Singapore Free Press, p. 9; Page 9 Advertisements Column 2: Alhambra. (1934, March 16). The Straits Times, p. 9. Retrieved from NewspaperSG.
-43 Hall, M. (1933, June 29). Samarang. The New York Times. Retrieved from New York Times website. 
+43 Hall, M. (1933, June 29). Samarang. The New York Times. Retrieved from New York Times website.
