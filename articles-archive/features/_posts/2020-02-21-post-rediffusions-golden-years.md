@@ -97,4 +97,34 @@ Frankie Sim, who was a fan of these Rediffusion DJs, recalled:
 
 “I remember Top Tunes of the Week, hosted by DJ Joseph Goh, on Rediffusion… Next was the P.O. Box 608 Request programme that aired six days a week, with announcers Peggy Ross, Honey Zain, Eric Lim, Johnny Lau, Larry Lai and Tan Swee Leong. There was also From Your House, hosted by Noreen Sales; Stars on Wings, hosted by DJ Neville Powley; and Listen with Love, hosted by DJ Jeremy Ramsey Gary Love… To them and other staff, I say thank you for the music.”<sup>37</sup>
 
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Weekly%20Compilation.JPG">
+<center>
+A weekly compilation of the most popular songs based on the number of requests received by Rediffusion’s English Programme Department for the week ending 23 January 1967. Image reproduced from Singapore’s “Top Tunes” (n.d.). Singapore: Rediffusion. (Call no.: RCLOS 016.78242 RSLSTT)
+</center>
 
+Rediffusion Singapore also had Roger Kool, the moniker adopted by Roger Kiew, who was blind. Roger Kool made his debut on air in 1973 at the age of 19 and would go on to amass a huge following, so much so that he became known as the “king of the airwaves”.38
+
+Then of course there were the legendary storytellers who helped Rediffusion cement its leading position in Chinese radio broadcasting between the 1950s and 1970s. Lee Dai Soh, in particular, captivated generations of listeners with his animated narration of Chinese classics such as Journey to the West and Return of the Condor Heroes.39
+
+Ann Tang, who fondly remembers her grandmother listening to the Cantonese raconteur, said:
+
+<center>
+“My early memories of Rediffusion were in the 1970s. It was my grandmother’s only pastime, listening to Cantonese storyteller Lee Dai Soh… Every night after dinner, my siblings and I would climb onto granny’s bed and she would re-tell the story she had heard. That was how I came to know the stories from Romance of the Three Kingdoms – General Cao Cao and Guan Yu, [the] war strategist who could borrow the north wind to defeat their enemies, and Dream of the Red Chamber, even though I did not study Chinese.”40
+</center>
+
+Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien. Tan Bah Bah, a former journalist with the New Nation newspaper, was one of those spellbound by Ong’s storytelling when he was a child. He recalled:
+
+<center>
+“… minutes before 8.45 pm, just about every family who had [a] Rediffusion set at home would stop whatever they were doing and crowd around the little set… Around that time, too, one could hardly find a trishaw or taxi on the road! Every trishaw rider or taxi driver would be at his or her favourite coffee shop listening to the inimitable Ong Toh… At 8.45 pm sharp, everybody at home or coffee shop stopped talking. Coffee cups would cease clinking… There would be a complete hush… all problems would be forgotten as Ong Toh transported them through time to ancient China with tales of heroism, treachery, bravery, vanity, cowardice and the like.”41
+	</center>
+	
+<b>The Sunset Years</b>
+
+After peaking in the early 1980s, Rediffusion began to decline as the rising popularity of new FM radio stations and the failure of Rediffusion to obtain a free-to-air broadcasting license in the 1990s sealed its fate. Its subscription plunged by more than 40 percent, from 110,348 subscribers in 1982 to 62,940 in 1988. By 2006, it had only 8,000 subscribers.42
+
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Weekly%20Compilation.JPG">
+<center>
+A weekly compilation of the most popular songs based on the number of requests received by Rediffusion’s English Programme Department for the week ending 23 January 1967. Image reproduced from Singapore’s “Top Tunes” (n.d.). Singapore: Rediffusion. (Call no.: RCLOS 016.78242 RSLSTT)
+</center>
+	
+	
