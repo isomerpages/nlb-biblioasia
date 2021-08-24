@@ -87,7 +87,7 @@ To provide access to the materials, the Rare Materials Collection is being digit
 
 #### **Notes**
 
-1. [^1]Liu, G. (1999). Singapore: A pictorial history, 1819–2000 (p. 123). Singapore: National Heritage Board and Editions Didier Millet. Call no.: RSING 959.57 LIU-[HIS]
-2.[^2] Liu, G. (2006). Raffles Hotel (p. 49). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU-[TRA]
-3.[^3] Liu, G. (2006). Raffles Hotel (p. 50). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU-[TRA]
-4.[^4]Liu, G. (2006). Raffles Hotel (p. 82). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU-[TRA]
+[^1]: Liu, G. (1999). Singapore: A pictorial history, 1819–2000 (p. 123). Singapore: National Heritage Board and Editions Didier Millet. Call no.: RSING 959.57 LIU-[HIS]
+[^2]: Liu, G. (2006). Raffles Hotel (p. 49). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU-[TRA]
+[^3]: Liu, G. (2006). Raffles Hotel (p. 50). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU-[TRA]
+[^4]: Liu, G. (2006). Raffles Hotel (p. 82). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU-[TRA]
