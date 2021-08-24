@@ -133,8 +133,9 @@ After peaking in the early 1980s, Rediffusion began to decline as the rising pop
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Cantopop.JPG">
 <center>
+	<p style="color: grey; font-size: 15px;"> 
 Cantopop diva Frances Yip with Rediffusion DJ Larry Lai at a satellite station in Metro Golden Mile, 1971. Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)
-</center>
+	</p></center>
 
 The Speak Mandarin Campaign that was launched in 1979 is often cited as a major reason for Rediffusion’s decline. To promote the use of Mandarin, Rediffusion was required to stop all dialect programmes by 1982. The removal of all Hokkien, Cantonese, Teochew and Hakka storytellers took away a major pillar of its programming.
 
