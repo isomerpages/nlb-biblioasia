@@ -2,6 +2,7 @@
 title: Director’s Note
 permalink: /directors-note-jan-2020/
 ---
+
 <img src="/images/Vol-15-issue-4/vol15_iss4.jpg">
 
 
