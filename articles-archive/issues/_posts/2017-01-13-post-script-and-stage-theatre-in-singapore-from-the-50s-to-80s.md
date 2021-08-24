@@ -15,7 +15,6 @@ Thus, the Chinese, Malay, Tamil and English theatre scenes developed in parallel
 The exhibition is by no means exhaustive, but seeks to give a general overview of the development of theatre in relation to the social and political history of Singapore through the performing arts collection of the National Library. Here are some pivotal moments in our theatre scene over the four significant decades.
 
 **The Turbulent 50s**
-
 Pre-war theatre in Singapore was generally restricted to traditional art forms such as Chinese wayang (street opera) or bangsawan (Malay opera). While there was a revival of theatre activity after the Japanese Occupation until the 1950s, local playwriting was still very much in its infancy. Although there was a lack of good quality scripts from Malayan playwrights, this did not stop theatre groups from experimenting and regularly staging plays.
 
 For post-war theatre practitioners, the performance stage provided a platform to portray social realities and the clash of cultures. Theatre was also regarded as an agent for change and action within the Chinese community in the 1950s. Theatre activity in schools was often politically charged, and reflected the socio-political issues and sentiments of the day.
