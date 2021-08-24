@@ -20,9 +20,12 @@ Before the production of Channel 8 dramas, people were hooked on traditional tal
 
 Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.<sup>2</sup> Their efforts left a mark on people like James Seah who, on the Singapore Memory Project,<sup>3</sup> recalled how these stories affected the daily rhythms of life at home. Seah had become a Rediffusion fan in 1960 when he was still in Primary 5 and was living in a kampong in Bukit Ho Swee. He wrote:
 
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.jpg">
 
-
+<img align="right" src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.JPG">
+<center>
+Rediffusion became an important source of entertainment in Singapore when it was introduced here in 1949, especially for people living in kampongs that did not have access to electricity. Rediffusion sets, which were essentially loudspeakers with built-in amplifiers, did not depend on electricity because power was supplied by the same cable that delivered the radio signal.
+Courtesy of National Archives of Singapore.
+</center>
 
 <center>
 “My mother would stop whatever housework, and I had to complete school homework before 9 pm to sit attentively on a stool beside the wooden partition of my next door neighbour. The Rediffusion was subscribed by my neighbour and he kindly shared it with us… The radio was located nearest to our side of the wooden partition and the volume… turned on to its maximum."<sup>4</sup>
