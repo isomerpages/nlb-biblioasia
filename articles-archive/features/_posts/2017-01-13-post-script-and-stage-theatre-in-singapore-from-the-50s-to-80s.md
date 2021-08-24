@@ -10,7 +10,7 @@ Although theatre in Singapore has a relatively short history of some 60 years, w
 
 Thus, the Chinese, Malay, Tamil and English theatre scenes developed in parallel, relatively isolated within each community, and rarely crossed boundaries until the 1980s when multilingual and multidisciplinary productions were staged. Therefore, any attempt to study and understand Singaporean theatre as a unified whole is extremely challenging, and likely explains the dearth of research and documentation on the subject.
 
-“Script & Stage: Theatre in Singapore from the 50s to 80s” – which takes place on levels 7 and 8 of the National Library Building until 26 March 2017 − tracks the development of this art form over four decades, from its inception and formative years in the turbulent post-war period of the 1950s and 60s to its growth and maturity in the 1970s and 80s. All this would lead to a flourishing theatre scene in the 1990s and beyond.
+“Script &amp; Stage: Theatre in Singapore from the 50s to 80s” – which takes place on levels 7 and 8 of the National Library Building until 26 March 2017 − tracks the development of this art form over four decades, from its inception and formative years in the turbulent post-war period of the 1950s and 60s to its growth and maturity in the 1970s and 80s. All this would lead to a flourishing theatre scene in the 1990s and beyond.
 
 The exhibition is by no means exhaustive, but seeks to give a general overview of the development of theatre in relation to the social and political history of Singapore through the performing arts collection of the National Library. Here are some pivotal moments in our theatre scene over the four significant decades.
 
@@ -53,10 +53,17 @@ Practitioners and playwrights such as Kuo Pao Kun, Stella Kon, Ong Keng Seng and
 High-quality scripts and productions such as Kuo Pao Kun’s groundbreaking The Coffin is Too Big for the Hole (1985) and the multilingual Mama Looking For Her Cat (1988), and Stella Kon’s monodrama, Emily of Emerald Hill (1984) resulted in several amateur theatre groups turning professional – like Practice Theatre Ensemble (now known as The Theatre Practice), TheatreWorks and the Necessary Stage.
 
 By the early 1990s, the local theatre scene had come into its own, paving the way for new amateur theatre groups to emerge and contribute to the vibrant performing arts scene we see today in Singapore.
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/scriptandstage/mamalookingforhercat.png)
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-12-issue-4/scriptandstage/mamalookingforhercat.png">
 Programme booklet and handwritten draft of Mama Looking For Her Cat by Kuo Pao  Kun.
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/scriptandstage/guest.png)
-Guests at the launch of “Script & Stage: Theatre in Singapore from the 50s to 80s” on 27 October 2016.
+</div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-12-issue-4/scriptandstage/guest.png">
+Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s to 80s” on 27 October 2016.
+</div>
 
 **Iconic Theatre Across the Decades**
 
