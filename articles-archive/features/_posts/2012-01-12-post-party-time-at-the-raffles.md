@@ -36,3 +36,27 @@ In the heady days before World War II, tickets for the legendary New Year’s Fa
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/postcard2.jpg)
 <div style="background-color: white;">(Left) Postcard of Raffles Hotel from the 1950s.<i> Courtesy of the Raffles Hotel and National Museum of Singapore, National Heritage Board.</i>
 (Right) The English writer Rudyard Kipling (1865–1936) was so taken with the dining options at the Raffles Hotel after a trip to Singapore in 1889 that he moved to write, “Feed at the Raffles Hotel and sleep at the Hotel de l’Europe” (the latter was the other notable lodgings at the time). What Kipling didn’t know was that by 1900, the Raffles would overshadow the Hotel de l’Europe on all counts, including its rooms. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
+
+The opening of the capacious grand ballroom in 1921 further heightened the attraction of the Raffles Hotel. Lively tea dances from 5 to 7pm, and regular dance evenings and concerts became the mainstay of the social calendar, with music provided by the Raffles Hotel Orchestra under the baton of musical director F.A. Cooke.
+
+The ballroom also added to the continuing popularity of the New Year’s Fancy Dress Ball, which remained a fixture until World War II. Now there was a proper place to show off the quickstep and foxtrot after the stroke of midnight, the dance floor only slightly overshadowed by the outrageous costumes revelers would turn up in.
+
+The party atmosphere at the Raffles was clearly contagious, as British traveller Beatrice Borland observed during her stay at the hotel in 1933: “The truth of the matter is, it is impossible to lead a simple life at the Raffles Hotel, so you might as well join in the all-pervading air of wicked gaiety”.4
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/hotelmenucards.jpg)
+<div style="background-color: white;">A selection of Raffles Hotel menu cards from the 1930s. From left, sumptuous offerings for breakfast (10 July 1934), lunch (8 February 1936) and dinner (5 July 1934). On the back of the 17 September 1936 menu card is the entertainment programme for the evening. Cocktail dances were held on Monday, Wednesday and Friday evenings, while the Orchestral Concerts took over on Tuesday, Thursday and Saturday. On all six evenings, after dinner dances took place at the grand ballroom until midnight (Sunday was presumably a quiet day at the Raffles!) By 1931, the hotel had fallen on hard times as a series of poor business decisions by its Armenian owners, the Sarkies brothers, had left the Raffles saddled in debt. Looking at these lavish menu cards, however, it is difficult to imagine the financial difficulties the hotel was mired in.</div>
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/breakfastmenu.jpg)
+<div style="background-color: white;">In comparison, the breakfast menu offerings some 30 years earlier on 9 August 1903 were decidedly more spartan.</div>
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/menu-royals.jpg)
+<div style="background-color: white;">In comparison, the breakfast menu offerings some 30 years earlier on 9 August 1903 were decidedly more spartan.</div>
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-hotel-book.jpg)
+<div style="background-color: white;">According to the book <i>Raffles Hotel</i> by Gretchen Liu, this menu was created for a dinner held in honour of Song Ong Siang, a Queen’s Scholar and author of the book <i>One Hundred Years’ History of the Chinese in Singapore.</i></div>
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/festivemenu.jpg)
+<div style="background-color: white;">Festive menu covers from Christmas and New Year’s Eve dinners in 1932, and Christmas 1936. French fare was served for dinner on Christmas Day 1936.</div>
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/st-george.jpg)
+<div style="background-color: white;">The Royal Society of St George was founded in 1894 with the aim of promoting “Englishness” and the English way of life in countries wherever the British had settled. The Singapore branch was founded in 1925. Sir Lawrence Guillemard, then Governor of the Straits Settlements, became a patron and life member of the society. Pictured here is the celebratory menu and programme for the society’s “England Day” menu on 6 May 1937..</div>
