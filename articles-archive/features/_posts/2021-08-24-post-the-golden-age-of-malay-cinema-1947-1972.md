@@ -219,36 +219,46 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^30]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006 pp. 71–76.
 
-[^31]: Cheah, P. (2011). Beginning and starting over – Singapore film until 2002 (p. 13). In Y. Michalik (Ed.), Singapore independent film. Marburg (Germany): Shuren. (Call no.: RSING 791.43095957 SIN)
+[^31]: Cheah, P. (2011). Beginning and starting over – Singapore film until 2002 (p. 13). In Y. Michalik (Ed.), *[Singapore independent film](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14302102)*. Marburg (Germany): Shuren. (Call no.: RSING 791.43095957 SIN)
 
 [^32]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, pp. 71–76.
 
 [^33]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, pp. 71–76.
 
-[^34]: Travelfish. (n.d.). Malay Heritage Centre: A crash course in all things malay. Retrieved from Travelfish website. 
+[^34]: Travelfish. (n.d.). <i>Malay Heritage Centre: A crash course in all things malay</i>. Retrieved from Travelfish website. 
 
-[^35]: Kurang-nya filem2 Hindustan, filem China jadi ganti. (1969, September 5). Berita Harian, p. 6. Retrieved from NewspaperSG.
+[^35]: *[Kurang-nya filem2 Hindustan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690905-1.2.74), filem China jadi ganti. (1969, September 5). <i>Berita Harian</i>, p. 6. Retrieved from NewspaperSG.
 
-[^36]: Tiga kesah dlm satu gambar. (1959, January 30). Berita Harian, p. 7. Retrieved from NewspaperSG.
+[^36]: *[Tiga kesah dlm satu gambar](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19590130-1.2.70)*. (1959, January 30). <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
 
-[^37]: Ferroa, R. (1948, June 1). Putting them wise. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+[^37]: Ferroa, R. (1948, June 1). *[Putting them wise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480601-1.2.27.6)*. <i>The Singapore Free Press</i>, p. 2. Retrieved from NewspaperSG.
 
-[^38]: The Singapore Free Press, 1 Jun 1948, p. 2; 1,000 workers benefitted. (1962, May 19). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^38]: *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480601-1.2.27.6)*, 1 Jun 1948, p. 2; *[1,000 workers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620519-1.2.28)* benefitted. (1962, May 19). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
-[^39]: The Singapore Free Press, 1 Jun 1948, p. 2.
+[^39]: *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480601-1.2.27.6)*, 1 Jun 1948, p. 2.
 
-[^40]: Hamlet in 3,070 ch8aracters. (1948, August 25). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^40]: *[Hamlet in 3,070 ch8aracters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480825-1.2.84)*. (1948, August 25). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-41 New sub-titling to help Chinese film fans. (1953, April 19). The Straits Times, p. 3. Retrieved from NewspaperSG.
-42 The Straits Times, 19 Apr 1953, p. 3; Filem mini penoh dengan lagu2 yang tetap menghibor. (1961, March 11). Berita Harian, p. 7. Retrieved from NewspaperSG.
-43 Lim, K.C. (1989, January 14). Golden movies of P Ramlee. The New Paper, p. 12. Retrieved from NewspaperSG.
-44 Halaman 8 iklan ruangan 1. (1964, May 5). Berita Harian, p. 8; Halaman 10 iklan ruangan 1. (1964, April 22). Berita Harian, p. 10. Retrieved from NewspaperSG.
-45 Bahyah Mahmud. (1965, October 16). Suami Sarimah akan menarek diri dari dunia perfileman. Berita Harian, p. 7. Retrieved from NewspaperSG.
-46 Anwardi Jamil. (2007, November 9). Anak wayang. People I remember in MFP. Retrieved from sayaanakwayang.blogspot.com website.
-47 The odd job. (2005, August 9). The Straits Times, p. 94. Retrieved from NewspaperSG.
-48 Jamil Sulong. (1990). Kaca permata: Memoir seorang pengarah (pp. 24–25, 54). Kuala Lumpur: Dewan Bahasa and Pustaka. (Call no.: Malay RSING 799.4309595 JAM)
-49 Jamil, 1990, pp. 22–25.
-50 Van de Heide, W. (2002). Malaysian cinema, Asian film: Border crossings and national cultures (p. 259). Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN)
+[^41]:  New sub-titling to help Chinese film fans. (1953, April 19). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^42]:  The Straits Times, 19 Apr 1953, p. 3; Filem mini penoh dengan lagu2 yang tetap menghibor. (1961, March 11). Berita Harian, p. 7. Retrieved from NewspaperSG.
+
+[^43]: Lim, K.C. (1989, January 14). Golden movies of P Ramlee. The New Paper, p. 12. Retrieved from NewspaperSG.
+
+[^44]:  Halaman 8 iklan ruangan 1. (1964, May 5). Berita Harian, p. 8; Halaman 10 iklan ruangan 1. (1964, April 22). Berita Harian, p. 10. Retrieved from NewspaperSG.
+
+[^45]:  Bahyah Mahmud. (1965, October 16). Suami Sarimah akan menarek diri dari dunia perfileman. Berita Harian, p. 7. Retrieved from NewspaperSG.
+
+[^46]:  Anwardi Jamil. (2007, November 9). Anak wayang. People I remember in MFP. Retrieved from sayaanakwayang.blogspot.com website.
+
+[^47]:  The odd job. (2005, August 9). The Straits Times, p. 94. Retrieved from NewspaperSG.
+
+[^48]:  Jamil Sulong. (1990). Kaca permata: Memoir seorang pengarah (pp. 24–25, 54). Kuala Lumpur: Dewan Bahasa and Pustaka. (Call no.: Malay RSING 799.4309595 JAM)
+
+[^49]:  Jamil, 1990, pp. 22–25.
+
+[^50]:  Van de Heide, W. (2002). Malaysian cinema, Asian film: Border crossings and national cultures (p. 259). Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN)
+
 51 Jamil, 1990, p. 35; Salma Semono. (2003, March 6). Pahit manis pengelola majalah hiburan zaman 60-san. Berita Harian, p. 11; Bintang2 filem mangsa2 banjir. (1967, January 20). Berita Harian, p. 2; Lukisan dalam pameran: Bantas keras. (1962, September 29). Berita Harian, p. 2. Retrieved from NewspaperSG.
 52 Lim, M.S. (1982, April 14). Those huge cinema posters. The Straits Times, p. 8. Retrieved from NewspaperSG.
 53 Jamil, 1990, p. 35; Farith Faruqi Sidek. (2013, June 21). Kitab tawarikh. A.V. bapat: Dari Bombay ke Kuala Lumpur, sentuhan sninya merentasi zaman. Retrieved from harithsidek blogspot
