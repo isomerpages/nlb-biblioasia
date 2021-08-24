@@ -31,8 +31,11 @@ Courtesy of National Archives of Singapore.
 
 Apart from stories, Rediffusion also broadcast recordings of outdoor stage shows such as concerts and music programmes, which were mainly in Chinese. Recordings of Chinese wayang (street opera) performances, in particular, were well received until the 1970s when boxing match commentaries took over.<sup>5</sup>
 
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small-Radio.JPG">
-
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
+<center>
+A Rediffusion set from the 1950s. The radio service was transmitted via cable. Courtesy of National Museum of Singapore, National Heritage Board.
+An undated recording session in progress at a Rediffusion studio. Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)
+</center>
 
 Rediffusion became popular at a time when the majority of Singaporeans lived in rural areas and  not many households could afford a television set. Besides, Rediffusion triumphed over the  state-owned broadcaster because it had a clear advantage over conventional radio services  operated  by   the  state.<sup>6</sup>
 
@@ -42,14 +45,16 @@ At its peak, Rediffusion, which was dubbed “the people’s network”, had mor
 
 However, due to changing market conditions, new government policies and competition from television and free-to-air radio, Rediffusion began to wane in popularity in the 1980s and its audience numbers declined. The radio station ceased operations in 2012, and although it was revived a year later, Rediffusion no longer functioned as a radio station.
 
-The Formative Years
+<b>The Formative Years</b>
 
 Rediffusion was launched as a cable radio service in the town of Clacton, England, in the 1920s by Broadcast Relay Services (Overseas) Ltd, a London-based company, and introduced to Singapore in 1949. Jack Snowden, a young English engineer with the company, arrived with a core team to set up Rediffusion (Singapore). He stayed with the company for 38 years until his retirement as managing director in 1986.<sup>10</sup>
 
 The company operated out of the Rediffusion Building that was built on the site of the old railway station on Tank Road (now Clemenceau Avenue) in 1948. Before the company could begin its radio service, miles of trunk cables were laid throughout the streets of Singapore.<sup>11</sup> The building was later sold and, in 1989, Rediffusion relocated to the four-storey Rediffusion House on Jalan Selanting, off Upper Bukit Timah Road. The new facility had six broadcasting studios, two commercial studios and a suite for the rehearsal and production of dramas.<sup>12</sup>
 
-Rediffusion soon became a household name in Singapore.<sup>13</sup> At a monthly subscription rate of $5,14 Rediffusion offered a cheaper alternative to households that could not afford more expensive radio sets back in the day.15 Rediffusion subscribers enjoyed Chinese programmes over the Gold Channel that ran 18 hours daily, while English programmes on the Silver Channel were available around the clock.16 Paul Chan Poh Hoi, who spent his childhood tuning in to Rediffusion programmes, recalled:
+Rediffusion soon became a household name in Singapore.<sup>13</sup> At a monthly subscription rate of $5,<sup>14</sup> Rediffusion offered a cheaper alternative to households that could not afford more expensive radio sets back in the day.<sup>15</sup> Rediffusion subscribers enjoyed Chinese programmes over the Gold Channel that ran 18 hours daily, while English programmes on the Silver Channel were available around the clock.<sup>16</sup> Paul Chan Poh Hoi, who spent his childhood tuning in to Rediffusion programmes, recalled:
 
-“… this brown box has been a part of my family since its inception in 1949… We never switched off the set and it woke me up at six to go to Chung Cheng High School. I never missed a programme hosted by Lee [Dai Soh]. Our large family of 12 often squabbled over the channels. I used to clash with my sisters when I wanted to listen to popular songs by Pat Boone and Doris Day in Top Tunes of the Week, and they wanted to listen to Cantonese opera.”17
-
-Initially, the station broadcast programmes from the United Kingdom, but later added programmes in Chinese dialects to meet growing local demand. Soon, the station’s programmes became more popular than those produced by the state-owned radio station.18 According to Lim Leng San, who used to work as a Hokkien voice actor, Rediffusion also held more appeal than television, which did not screen as many serial dramas in the Hokkien dialect.19 By the 1960s, the number of Rediffusion subscribers had increased to about 50,000. The radio station continued to experience steady growth and, by 1977, had garnered 90,428 subscribers.20
+<center>
+“… this brown box has been a part of my family since its inception in 1949… We never switched off the set and it woke me up at six to go to Chung Cheng High School. I never missed a programme hosted by Lee [Dai Soh]. Our large family of 12 often squabbled over the channels. I used to clash with my sisters when I wanted to listen to popular songs by Pat Boone and Doris Day in Top Tunes of the Week, and they wanted to listen to Cantonese opera.”<sup>17</sup>
+</center>
+	
+Initially, the station broadcast programmes from the United Kingdom, but later added programmes in Chinese dialects to meet growing local demand. Soon, the station’s programmes became more popular than those produced by the state-owned radio station.<sup>18</sup> According to Lim Leng San, who used to work as a Hokkien voice actor, Rediffusion also held more appeal than television, which did not screen as many serial dramas in the Hokkien dialect.<sup>19</sup> By the 1960s, the number of Rediffusion subscribers had increased to about 50,000. The radio station continued to experience steady growth and, by 1977, had garnered 90,428 subscribers.<sup>20</sup>
