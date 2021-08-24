@@ -147,8 +147,9 @@ The cables that enabled Rediffusion to thrive in the kampong became a noose as i
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/1989.JPG">
 <center>
+	<p style="color: grey; font-size: 15px;"> 
 The Rediffusion Building on Clemenceau Avenue, 1989. The building was later sold and in 1989, Rediffusion relocated to the new four-storey Rediffusion House on Jalan Selanting, off Upper Bukit Timah Road. Courtesy of Xu Huimin.
-</center>
+	</p></center>
 
 <b>The Revival Years</b>
 
