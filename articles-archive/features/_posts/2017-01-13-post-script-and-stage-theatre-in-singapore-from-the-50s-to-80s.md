@@ -99,3 +99,26 @@ The play examines the consequences of language policies in Singapore, resulting 
 **Emily of Emerald Hill.** Stella Kon (1944–). Directed by Max Le Blond,1985. This was a breakthrough for English-language theatre in Singapore when it was staged in 1985 with Margaret Chan in the lead role. Written in 1982 while Kon was living in Edinburgh, UK, the play has been produced well over 50 times in Singapore, Malaysia and around the world. The monodrama is influenced by Kon’s Peranakan (Straits Chinese) heritage, and draws inspiration from her childhood home on Emerald Hill and the life of her maternal grandmother.
 
 All the scenes in Emily are performed by a single actress, who mimes and interacts with unseen characters on and off stage. Its simplicity was considered avant-garde for its time, but what was most innovative was the play’s use of language. Emily’s ability to switch seamlessly from Singlish and a mix of Malay and Hokkien to proper English with a clipped British accent held audiences in thrall. It also set the standard for an authentic Singaporean voice to be expressed on stage in the following decades.
+
+**About the Exhibition**
+“Script &amp; Stage: Theatre in Singapore from the 50s to 80s” is held on levels 7 and 8 of the National Library Building until 26 March 2017. A series of programmes has been organised in conjunction with the exhibition, including public talks by playwrights, directors and artistes; guided tours by curators; and school tours. For more information, look up the website:[ www.nlb.gov.sg/exhibitions/]( www.nlb.gov.sg/exhibitions/)
+
+### **REFERENCES**
+
+柯思仁 [Ke, S.R.]. (2013).《戏聚百年: 新加坡华文戏剧 1913–2013》[Scenes:A hundred years of Singapore Chinese language theatre 1913–2013]. 戏剧盒: 新加坡国家博物馆. Call no.: Chinese RSING 792.095957 QSR
+
+周宁. (主编) [Zhou, N. (Ed.)]. (2007).《东南亚华语戏剧史》[History of the Chinese theatre in Southeast Asia]. Xiamen: 厦门 大学出版社. Call no.: Chinese RSING 792.0959 HIS
+
+Don, R., et al. (Eds.). (2001). The world encyclopedia of contemporary theatre: Asia/Pacific. London: Taylor &amp; Francis. Retrieved from Googlebooks website.
+
+Krishnan, S. (Ed.). 9 lives: 10 years of Singapore theatre 1987–1997: Essays. Singapore: The Stage. Call no.: RSING 792.095957 NIN
+
+Mohamad Nazri Ahmad. (2000). Seni Persembahan Drama Melayu Moden. Bangi: Penerbit Universiti Kebangsaan Malaysia. Call no.: Malay R 899.282 MOH
+
+Oon, C. (2001). Theatre life: A history of English-language theatre in Singapore through The Straits Times (1958–2000). Singapore: Singapore Press Holdings. Call no.: RSING 792.095957 OON
+
+Sikana, M., &amp; A. Raman Hanafiah. (2008). Sejarah kesusasteraan Melayu moden: Drama. Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay R 899.28209 ABD
+
+Sarma, S.S. [எஸ். எஸ். சர்மா]. (2004). நாடகம் நடத்தின􀀛ோம் [Nāţakam naţattinōm]. சிங்கப்பூர்: எஸ். எஸ். சர்மா [Cinkappūr: Es. Es. Carmā]. Call no.: Tamil RSING 894.8112 SAR
+
+Varathan, S., &amp; Sagul Hamid. (2008). Development of Tamil drama in Singapore. Singapore: Singapore Indian Artistes Association. Call no.: RSING 792.095957 VAR-[SRN]
