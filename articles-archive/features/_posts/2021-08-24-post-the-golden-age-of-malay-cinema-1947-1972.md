@@ -239,25 +239,25 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^40]: *[Hamlet in 3,070 ch8aracters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480825-1.2.84)*. (1948, August 25). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-[^41]:  New sub-titling to help Chinese film fans. (1953, April 19). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^41]:  *[New sub-titling to help Chinese film fans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530419-1.2.28)*. (1953, April 19). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
-[^42]:  The Straits Times, 19 Apr 1953, p. 3; Filem mini penoh dengan lagu2 yang tetap menghibor. (1961, March 11). Berita Harian, p. 7. Retrieved from NewspaperSG.
+[^42]:  *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530419-1.2.28)*, 19 Apr 1953, p. 3; *[Filem mini penoh dengan lagu2 yang tetap menghibor](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19610311-1.2.72)*. (1961, March 11). <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
 
-[^43]: Lim, K.C. (1989, January 14). Golden movies of P Ramlee. The New Paper, p. 12. Retrieved from NewspaperSG.
+[^43]: Lim, K.C. (1989, January 14). *[Golden movies of P Ramlee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890114-1.2.14.1)*. <i>The New Paper</i>, p. 12. Retrieved from NewspaperSG.
 
-[^44]:  Halaman 8 iklan ruangan 1. (1964, May 5). Berita Harian, p. 8; Halaman 10 iklan ruangan 1. (1964, April 22). Berita Harian, p. 10. Retrieved from NewspaperSG.
+[^44]:  *[Halaman 8 iklan ruangan 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640505-1.2.96.1)*. (1964, May 5). <i>Berita Harian</i>, p. 8; *[Halaman 10 iklan ruangan 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640422-1.2.99.1)*. (1964, April 22). <i>Berita Harian</i>, p. 10. Retrieved from NewspaperSG.
 
-[^45]:  Bahyah Mahmud. (1965, October 16). Suami Sarimah akan menarek diri dari dunia perfileman. Berita Harian, p. 7. Retrieved from NewspaperSG.
+[^45]:  Bahyah Mahmud. (1965, October 16). *[Suami Sarimah akan menarek diri dari dunia perfileman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19651016-1.2.70)*. <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
 
-[^46]:  Anwardi Jamil. (2007, November 9). Anak wayang. People I remember in MFP. Retrieved from sayaanakwayang.blogspot.com website.
+[^46]:  Anwardi Jamil. (2007, November 9). Anak wayang. <i>People I remember in MFP</i>. Retrieved from sayaanakwayang.blogspot.com website.
 
-[^47]:  The odd job. (2005, August 9). The Straits Times, p. 94. Retrieved from NewspaperSG.
+[^47]:  *[The odd job](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050809-1.2.123.137)*. (2005, August 9). <i>The Straits Times</i>, p. 94. Retrieved from NewspaperSG.
 
-[^48]:  Jamil Sulong. (1990). Kaca permata: Memoir seorang pengarah (pp. 24–25, 54). Kuala Lumpur: Dewan Bahasa and Pustaka. (Call no.: Malay RSING 799.4309595 JAM)
+[^48]:  Jamil Sulong. (1990). *[Kaca permata: Memoir seorang pengarah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934)* (pp. 24–25, 54). Kuala Lumpur: Dewan Bahasa and Pustaka. (Call no.: Malay RSING 799.4309595 JAM)
 
-[^49]:  Jamil, 1990, pp. 22–25.
+[^49]:  *[Jamil](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934)*, 1990, pp. 22–25.
 
-[^50]:  Van de Heide, W. (2002). Malaysian cinema, Asian film: Border crossings and national cultures (p. 259). Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN)
+[^50]:  Van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and national cultures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11901462)* (p. 259). Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN)
 
 51 Jamil, 1990, p. 35; Salma Semono. (2003, March 6). Pahit manis pengelola majalah hiburan zaman 60-san. Berita Harian, p. 11; Bintang2 filem mangsa2 banjir. (1967, January 20). Berita Harian, p. 2; Lukisan dalam pameran: Bantas keras. (1962, September 29). Berita Harian, p. 2. Retrieved from NewspaperSG.
 52 Lim, M.S. (1982, April 14). Those huge cinema posters. The Straits Times, p. 8. Retrieved from NewspaperSG.
