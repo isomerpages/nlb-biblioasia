@@ -33,6 +33,9 @@ German author Hermann Hesse was clearly not amused by the noise emanating from s
 
 In the heady days before World War II, tickets for the legendary New Year’s Fancy Dress Ball would be booked out weeks in advance. The first such party was held on 1 January 1911 and was reported to be a resounding success by the press. The guest list was invariably European with the occasional moneyed Peranakan or Chinese making an appearance.
 
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-dressup.png)
+<div style="background-color: white;">Revellers all dressed up at a New Year’s Fancy Dress Ball at the Raffles Hotel, c. 1930s. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
+
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/postcard2.jpg)
 <div style="background-color: white;">(Left) Postcard of Raffles Hotel from the 1950s.<i> Courtesy of the Raffles Hotel and National Museum of Singapore, National Heritage Board.</i></div>
 <div style="background-color: white;">(Right) The English writer Rudyard Kipling (1865–1936) was so taken with the dining options at the Raffles Hotel after a trip to Singapore in 1889 that he moved to write, “Feed at the Raffles Hotel and sleep at the Hotel de l’Europe” (the latter was the other notable lodgings at the time). What Kipling didn’t know was that by 1900, the Raffles would overshadow the Hotel de l’Europe on all counts, including its rooms. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
@@ -42,6 +45,9 @@ The opening of the capacious grand ballroom in 1921 further heightened the attra
 The ballroom also added to the continuing popularity of the New Year’s Fancy Dress Ball, which remained a fixture until World War II. Now there was a proper place to show off the quickstep and foxtrot after the stroke of midnight, the dance floor only slightly overshadowed by the outrageous costumes revelers would turn up in.
 
 The party atmosphere at the Raffles was clearly contagious, as British traveller Beatrice Borland observed during her stay at the hotel in 1933: “The truth of the matter is, it is impossible to lead a simple life at the Raffles Hotel, so you might as well join in the all-pervading air of wicked gaiety”.[^4]
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-dancing2.png)
+<div style="background-color: white;">The capacious Raffles Hotel ballroom which opened in 1921 – said to be the largest in Asia at the time − was where dance evenings, concerts and musical shows took place. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/hotelmenucards.jpg)
 <div style="background-color: white;">A selection of Raffles Hotel menu cards from the 1930s. From left, sumptuous offerings for breakfast (10 July 1934), lunch (8 February 1936) and dinner (5 July 1934). On the back of the 17 September 1936 menu card is the entertainment programme for the evening. Cocktail dances were held on Monday, Wednesday and Friday evenings, while the Orchestral Concerts took over on Tuesday, Thursday and Saturday. On all six evenings, after dinner dances took place at the grand ballroom until midnight (Sunday was presumably a quiet day at the Raffles!) By 1931, the hotel had fallen on hard times as a series of poor business decisions by its Armenian owners, the Sarkies brothers, had left the Raffles saddled in debt. Looking at these lavish menu cards, however, it is difficult to imagine the financial difficulties the hotel was mired in.</div>
@@ -73,13 +79,13 @@ To provide access to the materials, the Rare Materials Collection is being digit
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/francis.png">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/francis.png" style="width: 100px; height: 100px;">
 	<b>Francis Dorai </b>has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png" style="width: 100px; height: 100px;">
 	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
 </div>
 
