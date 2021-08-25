@@ -6,7 +6,11 @@ layout: post
 ---
 #### Singapore’s only cable radio service was an instant hit when it was launched in 1949. **Barbara Quek** charts the history of the pioneering broadcasting station.
 
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/radio.jpg">
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG" style="width: 500px; height: 300px;">
+<div style="background-color: white;"> 
+(Left)A Rediffusion set from the 1950s. The radio service was transmitted via cable. Courtesy of National Museum of Singapore, National Heritage Board.
+An undated recording session in progress at a Rediffusion studio. Image reproduced from <i>Rediffusion Singapore, photographs, circa 1948–1987</i>. (Call no.: RCLOS 384.540655957 RED)
+</div>
 
 For a generation of Singaporeans, the name Rediffusion brings back warm memories of a little nondescript brown, rectangular box blaring music and entertainment in homes and coffeeshops across Singapore in the 1960s and 1970s. This iconic radio station – known as 丽的呼声 in Mandarin (Li Di Hu Sheng) – provided countless hours of enjoyment to its listeners with the latest American pop music, dramatic stories told in Chinese dialects like Hokkien and Cantonese, and the friendly chatter of DJs at a time when home entertainment options were in short supply.
 
@@ -23,12 +27,6 @@ Rediffusion became an important source of entertainment in Singapore when it was
 
 Apart from stories, Rediffusion also broadcast recordings of outdoor stage shows such as concerts and music programmes, which were mainly in Chinese. Recordings of Chinese wayang (street opera) performances, in particular, were well received until the 1970s when boxing match commentaries took over.[^5]
 
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
-<div style="background-color: white;"> 
-A Rediffusion set from the 1950s. The radio service was transmitted via cable. Courtesy of National Museum of Singapore, National Heritage Board.
-An undated recording session in progress at a Rediffusion studio. Image reproduced from <i>Rediffusion Singapore, photographs, circa 1948–1987</i>. (Call no.: RCLOS 384.540655957 RED)
-</div>
-
 Rediffusion became popular at a time when the majority of Singaporeans lived in rural areas and  not many households could afford a television set. Besides, Rediffusion triumphed over the  state-owned broadcaster because it had a clear advantage over conventional radio services  operated  by   the  state.[^6]
 
 Unlike AM or FM radios, Rediffusion boxes did not have receivers; they were largely loudspeakers with a built-in amplifier. As Rediffusion’s service was transmitted via cable, the audio quality was much better compared with over-the-air radio services of the time. In addition, Rediffusion sets did not depend on electricity, as power was supplied via the same cable that delivered the radio signal. This was a boon especially in rural areas that were not connected to the electrical grid.[^7]
@@ -37,7 +35,7 @@ At its peak, Rediffusion, which was dubbed “the people’s network”, had mor
 
 However, due to changing market conditions, new government policies and competition from television and free-to-air radio, Rediffusion began to wane in popularity in the 1980s and its audience numbers declined. The radio station ceased operations in 2012, and although it was revived a year later, Rediffusion no longer functioned as a radio station.
 
-#### The Formative Years
+#### **The Formative Years**
 
 Rediffusion was launched as a cable radio service in the town of Clacton, England, in the 1920s by Broadcast Relay Services (Overseas) Ltd, a London-based company, and introduced to Singapore in 1949. Jack Snowden, a young English engineer with the company, arrived with a core team to set up Rediffusion (Singapore). He stayed with the company for 38 years until his retirement as managing director in 1986.[^10]
 
@@ -49,7 +47,7 @@ Rediffusion soon became a household name in Singapore.[^13] At a monthly subscri
 	
 Initially, the station broadcast programmes from the United Kingdom, but later added programmes in Chinese dialects to meet growing local demand. Soon, the station’s programmes became more popular than those produced by the state-owned radio station.[^18] According to Lim Leng San, who used to work as a Hokkien voice actor, Rediffusion also held more appeal than television, which did not screen as many serial dramas in the Hokkien dialect.[^19] By the 1960s, the number of Rediffusion subscribers had increased to about 50,000. The radio station continued to experience steady growth and, by 1977, had garnered 90,428 subscribers.[^20]
 
-#### Master Storyteller Lee Dai Soh
+#### **Master Storyteller Lee Dai Soh**
 				
 Lee Dai Soh (李大傻) (1913–89) was a well-known storyteller who made his name on Rediffusion. His moniker is sometimes spelt as Lee Dai Sor, which means “Big Fool Lee”[^21] in Cantonese. He was born Lee Fook Hai and grew up in Tanjong Pagar. Although Lee only had a primary school education, he loved reading and collecting books.[^22]
 
@@ -70,7 +68,7 @@ Lee died of a heart attack in 1989, having done a recording for Radio Australia 
 
 The audiotapes of Lee’s Journey to the West form part of the more than 5,000 Rediffusion recordings held in the collection of the National Archives of Singapore (NAS). These recordings have been digitised and are available for public access on the Archives Online website.[^28] Lee was also interviewed by the Oral History Department of the NAS in 1983 and 1989.[^29]
 	
-#### The People Behind the Voices
+#### **The People Behind the Voices**
 
 Rediffusion was an important part of the history of broadcasting in Singapore. Some big names in the industry had their first break on the station. Channel 8 MediaCorp actors Richard Low and Chen Shucheng, for instance, cut their teeth on Rediffusion after joining the station’s Chinese drama group as voice-acting talents.[^30]
 
@@ -104,7 +102,7 @@ Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien
 
 “… minutes before 8.45 pm, just about every family who had [a] Rediffusion set at home would stop whatever they were doing and crowd around the little set… Around that time, too, one could hardly find a trishaw or taxi on the road! Every trishaw rider or taxi driver would be at his or her favourite coffee shop listening to the inimitable Ong Toh… At 8.45 pm sharp, everybody at home or coffee shop stopped talking. Coffee cups would cease clinking… There would be a complete hush… all problems would be forgotten as Ong Toh transported them through time to ancient China with tales of heroism, treachery, bravery, vanity, cowardice and the like.”[^41]
 
-#### The Sunset Years
+#### **The Sunset Years**
 
 After peaking in the early 1980s, Rediffusion began to decline as the rising popularity of new FM radio stations and the failure of Rediffusion to obtain a free-to-air broadcasting license in the 1990s sealed its fate. Its subscription plunged by more than 40 percent, from 110,348 subscribers in 1982 to 62,940 in 1988. By 2006, it had only 8,000 subscribers.[^42]
 
@@ -126,7 +124,7 @@ The cables that enabled Rediffusion to thrive in the kampong became a noose as i
 The Rediffusion Building on Clemenceau Avenue, 1989. The building was later sold and in 1989, Rediffusion relocated to the new four-storey Rediffusion House on Jalan Selanting, off Upper Bukit Timah Road. <i>Courtesy of Xu Huimin</i>.
 </div>
 
-#### The Revival Years
+#### **The Revival Years**
 
 In 2003, Rediffusion (Singapore) was acquired by Ronald Reagin, a retired American lawyer, and Wong Ban Kuan, the company’s general manager. Reagin became the chief operating officer while Wong assumed the post of managing director.
 
@@ -146,7 +144,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg">
 	
 **Barbara Quek** is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
