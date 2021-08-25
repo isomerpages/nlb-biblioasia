@@ -144,3 +144,41 @@ Lim, B.C. (2013, Spring). Archival fragility: Philippine cinema and the challeng
 Personal communication with Tan, B.T., 23 December 2014.
 
 Tan, J. (2005, January 25). *[Film buffs to the rescue](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050121-1.2.43.1)*. <i>Today</i>, p. 32. Retrieved from NewspaperSG.
+
+#### **NOTES**
+
+[^1]: Quote from South East Asia-Pacific Audiovisual Archives Association citation of Misbach Yusabiran as one of its founding fellows on its website. Seepavaa. (2010). SEAPAVAA honors contribution by leading archivists: Inaugural Fellows Circle. <i>News Archive</i>. Retrieved from Seapavaa website.
+
+[^2]: This is the vendor’s template of VFI’s digitised library software platform 2014; UCLA Film &amp; Television Archive. (2014). <i>Vietnam Film Institute</i>. Retrieved from UCLA Film &amp; Television Archive website. 
+
+[^3]: The reels keep turning. (2014, September 5). <i>Bangkok Post</i>.
+
+[^4]: Segay, J. (2007, February 26). <i>Current audiovisual and cinema situation in Laos</i>. Retrieved from ASEF CULTURE360 website.
+
+[^5]: Panh, R, (2006). <i>Bophana Audiovisual Resource Center</i>. Retrieved from Bophana.org website.
+
+[^6]: Nocon, C. R. (2011, October 27). Finally, a national film archive. <i>Philippine Daily Inquirer</i>. Retrieved from INQUIRER.net website. 
+
+[^7]: Del Mundo, C.A. (2009). <i>Dreaming of a national audio-visual archive</i> (p. 4). Manila: Society of Film Archivists (SOFIA). (Not available in NLB holdings)
+
+[^8]: Santiago, D.H. (2010). Interviewed for <i>Saving face: Issues in film preservation and archiving</i> Santiago, M.
+
+[^9]: Jones, J. (2012). <i>The past is a moving picture: Preserving the twentieth century on film</i> (p. 9). Florida: University Press of Florida. (Not available in NLB holdings)
+
+[^10]: AFA’s collection guidelines and FAW section can be found on the AFA website.
+
+[^11]: Jones, 2012, p. 126.
+
+[^12]: Academy of Motion Picture Arts and Sciences. Science and Technology Council. (2007). <i>Digital dilemma: Strategic issues in archiving and accessing digital motion picture materials</i> (p. 2). Beverly Hills, Calif.: Academy of Motion Picture Arts and Sciences. (Not available in NLB holdings)
+
+[^13]: Jones, 2012, p. 126.
+
+[^14]: Kula, S. (2002). *[Appraising moving images: Assessing the archival and monetary value of film and video records](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11729063)*. Lanham: Scarecrow Press. (Call no.: R 025.1773 KUL)
+
+[^15]: Details on the campaign can be seen on the Asian film archive website.
+
+[^16]: Publicity coverage in <i>The Straits Times</i> on the UNESCO inscription; Information about the UNESCO Memory of the World Programme can be found at Unesco mowcap org website.
+
+[^17]: Cherchi Usai, P. et al. (Eds.). (2008). *[Film curatorship: Archives, museums and the marketplace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)* (p. 170). Österreichisches Filmmuseum: ISYNEMA--Gesellschaft für Film und Medien. (Call no.: 025.1773 FIL)
+
+[^18]: *[Cherchi Usai](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)*, 2008, p. 231.
