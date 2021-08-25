@@ -148,9 +148,9 @@ Some of the programming that made Rediffusion popular are held by the National A
 The National Library’s Lee Kong Chian Reference Library also has a collection of Rediffusion materials that include issues of Rediffusion Times (丽的呼声周刊), photographs and rare drama scripts.
 
 <div style="background-color: white;">
-<br><br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara.jpeg"><br>
-<center><b>Barbara Quek</b>
+<br>
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara.jpeg" style="width: 100px; height: 100px;"><br>
+<center><b>Barbara Quek</b><br>
 Barbara Quek is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </center>
 </div>
