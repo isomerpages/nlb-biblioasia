@@ -4,7 +4,6 @@ date: 2021-08-24
 permalink: /vol-11/issue-1/apr-jun-2015/culture-on-celluloid
 layout: post
 ---
-
 #### Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years. **Gracie Lee** charts the challenges of alternative cinema in our city. 
 
 The beginnings of the art house cinema originated in France during the early 1920s in response to the growing commercialisation of films by Hollywood. After World War I, pioneering French film companies such as Gaumont and Pathé, which once dominated the European motion picture industry, began losing out to big budget Hollywood productions. In response, French producers began experimenting with new approaches to filmmaking, paving the way for the emergence of the French avant-garde film. 
@@ -17,7 +16,8 @@ The allure of the cinematograph for mass entertainment was phenomenal, extending
 
 By the 1930s, Hollywood had firmly entrenched its foothold in Singapore. Pre-war figures estimate that 70 percent of films shown in Singapore were American, 16 percent British and 13 percent Chinese, with the remaining from India, Java and Egypt. The stranglehold of American films was reinforced by the presence of major Hollywood distribution offices in Singapore, many of which were located along Orchard Road, including First-National (1926; later <i>Warner Bros-First National</i>), Fox Film (1927), United Artists (1928), Famous Players-Lasky Corporation (1929, reorganised as Paramount in 1931) and Metro-Goldwyn-Meyer (1933). 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival.jpg)<div style="background-color: white;">Publicity poster for the third French film festival – Rendezvous with French Cinema – in 2013. Collection of National Library, Singapore</div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival.jpg)
+<div style="background-color: white;">Publicity poster for the third French film festival – Rendezvous with French Cinema – in 2013. Collection of National Library, Singapore</div>
 
 #### **A Difficult Singapore Audience** 
 
@@ -41,7 +41,8 @@ The official history of the Singapore Film Society (SFS) dates its beginnings to
 
 The SFS’ first screening was held at Cathay Cinema and opened with three films: <i>The World is Rich</i>, a British Academy of Film and Television Arts (BAFTA) award winner and an Academy Award nominee for Best Documentary; <i>The Centre</i>; and <i>Cyrus</i>. Thereafter, the society held most of its screenings, comprising a repertoire of features, shorts, documentaries and cartoons, at the Victoria Theatre and the British Council Hall at Stamford Road. Its members were privy to films such as <i>Girl of My Dreams</i> (1944), a German wartime romance; <i>Alexander Nevsky</i> (1938); <i>Walt Disney’s Bambi</i> (1942); and <i>Nasib</i> (1949), a locally produced Malay film by the Shaw Brothers. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/Blue_Angel.jpg)<div style="background-color: white;">The Blue Angel is one of the earliest art house films to be screened in Singapore. © The Blue Angel. Directed by Josef von Sternberg, produced by Erich Pommer, distributed by UFA Paramount Pictures, Weimar Republic, 1930.</div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/Blue_Angel.jpg)
+<div style="background-color: white;">The Blue Angel is one of the earliest art house films to be screened in Singapore. © The Blue Angel. Directed by Josef von Sternberg, produced by Erich Pommer, distributed by UFA Paramount Pictures, Weimar Republic, 1930.</div>
 
 To enhance the appreciation of the films, the SFS organised talks to tie in with the films. For instance, at the screening of <i>English Criminal Justice</i>, the chief justice of Singapore, Sir Charles Murray-Aynsley spoke about the film and English law, while R.E. Holttum, Professor of Botany at the University of Malaya, was invited to speak at the screening of <i>Story of Plant Life</i>. 
 
@@ -69,7 +70,8 @@ Special mention should also be made of the British Council, which staged one of 
 Today, film festivals are almost de rigueur channels of promotion for foreign embassies. A <i>Business Times</i> article in 2003 reported that 10 to 12 film festivals are organised each year with robust ticket sales of up to 95 percent.[^15] Some of the foreign festivals that regularly appear on the film festival calendar include the French, Italian, German, Japanese, European Union, Chinese and Korean film festivals. Country-themed festivals on Arab, Australian, Israeli, Latin American, New Zealand, Russian, Scandinavian and Southeast Asian cinema have also been organised by foreign cultural agencies, the SFS or the Singapore International Film Festival (SGIFF).
 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival.jpg)<div style="background-color: white;">Publicity poster of the 8th German Film Festival held in 2004. Collection of the National Library, Singapore.</div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival.jpg)
+<div style="background-color: white;">Publicity poster of the 8th German Film Festival held in 2004. Collection of the National Library, Singapore.</div>
 
 
 
@@ -80,7 +82,8 @@ The festival’s first outing had a decidedly Western (and slightly commercial) 
 
 In its successive editions, the festival built its reputation as a platform for the promotion of Singapore-made films through the screening of Singapore shorts, features, documentaries and iconic films from the Singapore studio era (1947-1972); as well as a launch pad for aspiring local filmmakers through its introduction of the Silver Screen Awards that recognises the Best Asian Feature and the Best Singapore Short Film. The SGIFF “stood at the cradle of Singapore’s film revival…It stimulated the country’s short and feature production, discovered its seminal filmmakers, and highlighted its neglected film history.”[^16]
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/Singapore_International_Film_Festival.jpg)<div style="background-color: white;">Publicity poster of the 16th Singapore International Film Festival in 2003. The SIFF was launched in 1987. Collection of the National Library, Singapore.</div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/Singapore_International_Film_Festival.jpg)
+<div style="background-color: white;">Publicity poster of the 16th Singapore International Film Festival in 2003. The SIFF was launched in 1987. Collection of the National Library, Singapore.</div>
 
 #### **Art House Cinemas** 
 
@@ -88,7 +91,8 @@ With the groundwork laid by the SFS since the 1950s, foreign cultural institutio
 
 When Cathay Organisation opened Picturehouse, it had already assessed that audience tastes had changed and filmgoers were becoming more selective - in short Singapore was ready for an upmarket speciality cinema (Picturehouse was known for its draconian etiquette on dressing and food consumption that was implemented to enhance the art film viewing experience). The theatre screened critically acclaimed and independent films such as <i>Come See The Paradise</i> (1990), <i>The Wedding Banquet</i> (1993), <i>Welcome to the Dollhouse</i> (1995) and <i>Underground</i> (1995), which straddled between art and entertainment. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/Come_See_the_Paradise.jpg)<div style="background-color: white;">Come See the Paradise was the opening film for Picturehouse when it was launched in 1990. © Come See the Paradise. Directed by Alan Parker, produced by Robert F. Colesberry &amp; Nellie Nugiel, distributed by 20th Century Fox. United States, 1990. Collection of National Library, Singapore.</div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/Come_See_the_Paradise.jpg)
+<div style="background-color: white;">Come See the Paradise was the opening film for Picturehouse when it was launched in 1990. © Come See the Paradise. Directed by Alan Parker, produced by Robert F. Colesberry &amp; Nellie Nugiel, distributed by 20th Century Fox. United States, 1990. Collection of National Library, Singapore.</div>
 
 However, the cinema found that it could not survive on art films alone as local audiences were not quite ready for more alternative fare. The company began introducing mainstream films, such as <i>Army Daze</i> (1996), <i>The Crow</i> (1994) and <i>Striptease</i> (1996), alongside its less commercial offerings. In 2000, Picturehouse closed after a 10-year run when Cathay Building underwent a revamp. The cinema returned in 2006 with a smaller hall of 82 seats which allowed Cathay to experiment with more esoteric programming without the pressure of filling seats. In the same year, Golden Village introduced the speciality Cinema Europa at its newly opened multiplex at Vivocity. 
 
