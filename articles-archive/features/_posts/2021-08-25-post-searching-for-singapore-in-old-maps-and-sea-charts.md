@@ -20,6 +20,11 @@ We believe in maps because they help us to locate ourselves in unfamiliar places
 
 What do we make of a 16th-century Portuguese sea chart of the Straits of Melaka and Singapore that does not mark a Cingaporla, Cingatola or Cinghapola, (the old Portuguese transcriptions for Singapura) where we expect to see it? Is the chart therefore inaccurate and to be disregarded? Or, should we not ask why the Portuguese cartographer misrepresented the location of Cingaporla? Is Singapore the “Sabana Emporium” located on the southern edge of the Golden Khersonese or Golden Peninsula in the 16th-century rendition of a world map based on the work of the 2nd-century Greek astronomer Claudius Ptolemy? If so, then we should intensively study Ptolemy’s map for what else it can tell us about this earliest possible mention of a settlement on this island. 
 
+
+![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/Cantino_Chart.jpg)
+<div style="background-color: white;">Cantino Chart, Anonymous 1502. Based on the latest information from Portuguese explorations, secretly obtained by Albert Cantino, the map depicts the Malay Peninsula as an elongated promontory that reaches the south of the equator. <i>Biblioteca Estense Universitaria, Modena, C.G.A. Permission from the Ministry of Arts, Culture and Tourism, Italy.</i></div>
+
+
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/Cantino_Chart.jpg)
 <div style="background-color: white;">Cantino Chart, Anonymous 1502. Based on the latest information from Portuguese explorations, secretly obtained by Albert Cantino, the map depicts the Malay Peninsula as an elongated promontory that reaches the south of the equator. <i>Biblioteca Estense Universitaria, Modena, C.G.A. Permission from the Ministry of Arts, Culture and Tourism, Italy.</i></div>
 
