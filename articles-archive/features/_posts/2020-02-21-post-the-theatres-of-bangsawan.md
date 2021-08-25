@@ -4,7 +4,6 @@ date: 2020-02-21
 permalink: /vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/
 layout: post
 ---
-
 #### The Theatres of Bangsawan****
 <img src="/images/Vol-15-issue-4//theatres-of-bangsawan/Royal.JPG">
 
@@ -12,4 +11,4 @@ In the days before cinema, bangsawan performances entertained the masses. **Tan 
 
 “With a bottle of champagne broken on the door-step, the new Theatre Royal, in North Bridge Road, was opened officially on Saturday night, the Wayang Kassim’s Trip to Fairyland being staged before a packed house, the conclusion of the formal opening ceremony.”[^1]
 
-– The Straits Times, 15 June 1908
+<div style="text-align: center">– The Straits Times, 15 June 1908</div>
