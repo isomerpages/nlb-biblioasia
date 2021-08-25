@@ -48,11 +48,11 @@ The first thing a visitor sees upon entry to the lobby are displays that set the
 
 In total, there are over 200 exhibits on display at the exhibition. As it is not physically possible to cover all the exhibits within the confines of this article, we highlight a small selection here.
 
-##### Fall of Singapore
+##### **Fall of Singapore**
 
 Featuring the three intertwining narratives of Japanese military aggression, British defences and the civilians in Singapore caught up in these larger forces of empire and war, this section of the exhibition provides visitors with fresh perspectives into what Winston Churchill – the British Prime Minister during the war years – proclaimed as the “worst disaster and largest capitulation in British history”.
 
-##### Graduation yearbook of the Chinese Military Academy
+##### **Graduation yearbook of the Chinese Military Academy**
 
 One of the highlights of this section is a graduation yearbook of the Chinese Military Academy (1940), which belongs to 96-year-old Lim Kheng Jun.
 
@@ -66,7 +66,7 @@ Others like Lim Kheng Jun enlisted in the Chinese Military Academy (中央陆军
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/4-surviving-japanese-occupation.png)
 <div style="background-color: white;">Lim Kheng Jun pictured here with his graduation yearbook at the public Call for Archives event held at the National Library Building on 12 March 2016.</div>
 
-##### Japanese intelligence map of Singapore
+##### **Japanese intelligence map of Singapore**
 
 Another item of note – donated by Lim Shao Bin to the National Library − is a Japanese intelligence map of Singapore. It is accompanied by a booklet with 83 key locations marked up in red.
 
@@ -77,7 +77,7 @@ This map and its accompanying booklet contain annotated photographs of 83 key lo
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/5-surviving-japanese-occupation.png)
 <div style="background-color: white;">Japanese intelligence map of the town of Singapore with annotations marking out places of Japanese interest. <i>Donated by Lim Shao Bin. Collection of National Library, Singapore.</i></div>
 
-##### Identity cards issued under the Defence (Security Registration) Regulations
+##### **Identity cards issued under the Defence (Security Registration) Regulations**
 
 As the war in China waged on and hostilities in Europe broke out, the British colonial administration began to prepare the local population for the possibility of war in Malaya. Initially, the preparations were subtle, such as familiarising the public with air raid precautions and basic civil defence skills, but from 1941 onwards, the war preparations became more overt with screening of the population and recruiting locals to join the military.
 
@@ -88,7 +88,7 @@ In that same year, it became compulsory for all non-military residents of Singap
 <div style="background-color: white;">(Middle) Such postcards and paintings depicting scenes of war were distributed to Japanese soldiers and exhibited in the newly conquered territories as well as in Japan to highlight the might of the Japanese military. Donated by Taka Sakurai. Courtesy of National Archives of Singapore.</div>
 <div style="background-color: white;">(Right) Overseas Chinese certificate of registration, 1942. Donated by Ow Peng Hoong. Courtesy of National Archives of Singapore.</div>
 
-##### Japanese artistic impressions of occupied Singapore
+##### **Japanese artistic impressions of occupied Singapore**
 
 Also found in this section of the exhibition are *sensō sakusen kirokuga* (war campaign documentary paintings). A few months before the fall of Singapore, the Japanese military administration started to send prominent Japanese artists to various parts of Southeast Asia to paint scenes of war based on photographs or after talking to soldiers on the ground.
 
@@ -100,7 +100,7 @@ There are five postcards and two watercolour paintings on display, donated to th
 
 On 18 February 1942, Singapore was officially renamed Syonan-to, meaning “Light of the South”.  The Japanese Occupation was a grim period in our history. From the acts of state-sanctioned violence to grandiose promises as part of the “Greater East Asia Co-Prosperity Sphere”, this section of the exhibition showcases the experiences of people living under a new administration as well as the acts of resistance by those who chose to fight back and make a stand.
 
-##### “Screened” stamp
+##### **“Screened” stamp**
 
 One of the first actions by the Japanese military in Syonan was a mass screening or *dai kenshō* (大検証; “great inspection”), which the Chinese later referred to as Sook Ching (肃清). Such screenings to identify anti-Japanese elements in the population had been carried out whenever Japan conquered new territories in China. Three days after the British surrender in Singapore, Chinese males aged between 18 and 50 were ordered to report to screening centres − and in the confusion, some women and children went as well.[^5]
 
@@ -110,7 +110,7 @@ One survivor recounted:“When I went home, I had the rubber stamp with the word
 
 Apart from displays of such documents, the exhibition also allows visitors to experience first-hand accounts of Sook Ching survivors by listening to oral history excerpts.
 
-##### Case of Joseph Francis
+##### **Case of Joseph Francis**
 
 Stories of deprivation, suffering and torture were part of the fabric of the Syonan-to years, experienced by both the local civilian population as well as British and Allied soldiers.
 
@@ -120,7 +120,7 @@ Joseph Francis, who worked as a driver for a Japanese inspector at the POW camp,
 
 On his release, Francis required extensive medical care and he eventually died in May 1945. After the Occupation, his brother and friends wrote to the British Military Administration, describing in detail Francis’ contributions to the anti-Japanese resistance. On display at the exhibition is Francis’ driver’s license and the letter written by his friend, Kenneth Tay, describing the “horrors of inhuman punishment” that Francis endured at the hands of his captors, that had reduced him into a pitiable “living skeleton”.
 
-##### Sketches by William Haxworth
+##### **Sketches by William Haxworth**
 
 Also worth seeing are the selection of sketches, drawn from a collection of over 300 that were secretly sketched by former police inspector William R.M. Haxworth during his internment at Changi Prison and Sime Road Camp. The sketches depict the crowded and unsanitary living conditions at the camps, and capture the internees’ decline in health and weight over time. Several sketches reveal Haxworth’s ability to find humorous moments and comic relief through his art in spite of the difficult circumstances.
 
@@ -140,7 +140,7 @@ The legacies of war were manifested at various levels − from grand British pla
 
 Rounding off the final section of the exhibition is a reflective space where visitors are encouraged to consider how they remember the war and its legacies.
 
-##### Post-war policies
+##### **Post-war policies**
 
 There were significant shifts in terms of social policy in the immediate post-war years. The colonial government adopted a more involved approach to education, housing, health care and social welfare in Singapore, in line with the moderate socialist approach of post-war Britain. These moves were also part of the plan to unite Singapore’s plural society in preparation for decolonisation.
 
@@ -150,7 +150,7 @@ A Department of Social Welfare, for instance, was set up in in June 1946 to cont
 <div style="background-color: white;">(Left) Children’s feeding centre in the post-war period. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
 <div style="background-color: white;">(Right) A poster written with blood and Chinese brush ink protesting the arrest of members of the Malayan Communist Party in 1946. Courtesy of the Ministry of Home Affairs, Internal Security Department Heritage Centre.</div>
 
-##### Poster to protest arrests of communists
+##### **Poster to protest arrests of communists**
 
 One of the most profound changes of the war and Occupation was the realisation that the British did not have an inalienable right to rule Singapore. This political awakening coupled with the success of the Malayan People’s Anti-Japanese Army during the Occupation resulted in communism gaining traction as a political ideology in the post-war years.
 
