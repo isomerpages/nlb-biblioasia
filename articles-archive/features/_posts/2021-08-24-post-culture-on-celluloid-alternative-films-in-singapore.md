@@ -1,9 +1,10 @@
 ---
 title: "Culture on Celluloid:  Alternative Films in Singapore"
 date: 2021-08-24
-permalink: /articles-archive/features/permalinkafis
+permalink: /vol-11/issue-1/apr-jun-2015/culture-on-celluloid
 layout: post
 ---
+
 #### Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years. **Gracie Lee** charts the challenges of alternative cinema in our city. 
 
 The beginnings of the art house cinema originated in France during the early 1920s in response to the growing commercialisation of films by Hollywood. After World War I, pioneering French film companies such as Gaumont and Pathé, which once dominated the European motion picture industry, began losing out to big budget Hollywood productions. In response, French producers began experimenting with new approaches to filmmaking, paving the way for the emergence of the French avant-garde film. 
