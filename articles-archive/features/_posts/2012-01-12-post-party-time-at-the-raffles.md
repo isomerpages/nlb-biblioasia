@@ -4,7 +4,7 @@ date: 2012-01-12
 permalink: /vol-12/issue-4/jan-mar-2017/party-time-raffles
 layout: post
 ---
-#### The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days. Francis Dorai and Jessie Yak take a peek.
+#### The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days. **Francis Dorai and Jessie Yak** take a peek.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg)
 <div style="background-color: white;">Postcard view of the Raffles Hotel, c. 1900.<i> Courtesy of Professor Cheah Jin Seng and the Singapore Philatelic Museum.</i></div>
@@ -73,13 +73,13 @@ To provide access to the materials, the Rare Materials Collection is being digit
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/francis.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/francis.png">
 	<b>Francis Dorai </b>has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
 	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
 </div>
 
