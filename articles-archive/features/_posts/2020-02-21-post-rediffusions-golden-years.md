@@ -6,7 +6,7 @@ layout: post
 ---
 #### Singapore’s only cable radio service was an instant hit when it was launched in 1949. **Barbara Quek** charts the history of the pioneering broadcasting station.
 
-<img style="width: 500px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG" style="width: 500px; height: 300px;">
 <div style="background-color: white;"> 
 (Left) A Rediffusion set from the 1950s. The radio service was transmitted via cable.<i> Courtesy of National Museum of Singapore, National Heritage Board.</i>
 (Right) An undated recording session in progress at a Rediffusion studio. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)</i>
@@ -55,28 +55,28 @@ According to his daughter, Lee started out telling stories while sitting on a bo
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Lee%20Dai%20Soh.JPG">
 <div style="background-color: white;"> 
-Cantonese raconteur Lee Dai Soh doing what he did best, 1966. Lee Dai Soh Collection, <i>courtesy of National Archives of Singapore</i>.
+Cantonese raconteur Lee Dai Soh doing what he did best, 1966. <i>Lee Dai Soh Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
 The master storyteller became a household name in the 1950s and 1960s. Apart from Rediffusion, he also made recordings for the Australian Broadcasting Commission station in Singapore, which were broadcast to countries such as Malaysia, Vietnam and Hong Kong.[^25]
 
-Lee is fondly remembered for his retelling of the Chinese classic Journey to the West (西游记), which he narrated in Cantonese over 175 episodes, each lasting half an hour. These were recorded in 1979 on 7-inch open reel audiotapes at the Rediffusion Building on Clemenceau Avenue.
+Lee is fondly remembered for his retelling of the Chinese classic *Journey to the West* (西游记), which he narrated in Cantonese over 175 episodes, each lasting half an hour. These were recorded in 1979 on 7-inch open reel audiotapes at the Rediffusion Building on Clemenceau Avenue.
 
 When Rediffusion ceased its dialect programmes in 1982, Lee retired from broadcasting in Singapore. He went on to tell stories in Cantonese for Radio Australia, and also entertained audiences with his storytelling performances at clan associations and public events.
 
 Lee died of a heart attack in 1989, having done a recording for Radio Australia just the day before.[^26] He left behind two wives, one son, two daughters and two grandchildren.[^27]
 
-The audiotapes of Lee’s Journey to the West form part of the more than 5,000 Rediffusion recordings held in the collection of the National Archives of Singapore (NAS). These recordings have been digitised and are available for public access on the Archives Online website.[^28] Lee was also interviewed by the Oral History Department of the NAS in 1983 and 1989.[^29]
+The audiotapes of Lee’s *Journey to the West* form part of the more than 5,000 Rediffusion recordings held in the collection of the National Archives of Singapore (NAS). These recordings have been digitised and are available for public access on the Archives Online website.[^28] Lee was also interviewed by the Oral History Department of the NAS in 1983 and 1989.[^29]
 	
 #### **The People Behind the Voices**
 
 Rediffusion was an important part of the history of broadcasting in Singapore. Some big names in the industry had their first break on the station. Channel 8 MediaCorp actors Richard Low and Chen Shucheng, for instance, cut their teeth on Rediffusion after joining the station’s Chinese drama group as voice-acting talents.[^30]
 
-In the early 1970s, Rediffusion nurtured many local talents, such as veteran Mediacorp actress Xiang Yun, who started out as a child artiste with the radio station,[^31] popular radio DJ Mark van Cuylenberg (better known as The Flying Dutchman), [^32] and the late theatre doyen Kuo Pao Kun, who began his career with the station’s Mandarin Drama Group.[^33] Foong Choon Hon, former editor of the Chinese-language Shin Min Daily News, made his mark when he was a broadcaster with Rediffusion.[^34] Composer-singer Dick Lee has credited Rediffusion for helping him break into the entertainment industry. Lee had participated in a contest organised by Rediffusion in the early 1970s and the judge later invited him back as a guest performer, and “that’s how [his] career took off”.[^35]
+In the early 1970s, Rediffusion nurtured many local talents, such as veteran Mediacorp actress Xiang Yun, who started out as a child artiste with the radio station,[^31] popular radio DJ Mark van Cuylenberg (better known as The Flying Dutchman), [^32] and the late theatre doyen Kuo Pao Kun, who began his career with the station’s Mandarin Drama Group.[^33] Foong Choon Hon, former editor of the Chinese-language *Shin Min Daily News*, made his mark when he was a broadcaster with Rediffusion.[^34] Composer-singer Dick Lee has credited Rediffusion for helping him break into the entertainment industry. Lee had participated in a contest organised by Rediffusion in the early 1970s and the judge later invited him back as a guest performer, and “that’s how [his] career took off”.[^35]
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/US%20actor.JPG">
 <div style="background-color: white;"> 
-Rediffusion DJ Tan Swee Leong interviewing American actor Marlon Brando at the station’s studio in Clemenceau Avenue, 1956. Image reproduced from <i>Rediffusion Singapore, photographs, circa 1948–1987</i>. (Call no.: RCLOS 384.540655957 RED)
+Rediffusion DJ Tan Swee Leong interviewing American actor Marlon Brando at the station’s studio in Clemenceau Avenue, 1956. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987</i>. (Call no.: RCLOS 384.540655957 RED)
 </div>
 
 Rediffusion stalwart Tan Swee Leong, who was a popular radio and television host from the 1960s to 1980s, became a mentor to younger DJs and local bands like The Quests. Tan had a long and illustrious career with Rediffusion as one of the two popular DJs alongside Larry Lai. They were nicknamed the “terrible twins”, often engaging in friendly banter to entertain listeners. Veteran sports commentator and radio presenter Brian Richmond said he modelled himself after Tan, having been inspired by him to enter the industry when he was just a teenager.[^36]
@@ -87,18 +87,18 @@ Frankie Sim, who was a fan of these Rediffusion DJs, recalled:
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Weekly%20Compilation.JPG">
 <div style="background-color: white;"> 
-A weekly compilation of the most popular songs based on the number of requests received by Rediffusion’s English Programme Department for the week ending 23 January 1967. Image reproduced from <i>Singapore’s “Top Tunes” (n.d.). Singapore: Rediffusion</i>. (Call no.: RCLOS 016.78242 RSLSTT)
+A weekly compilation of the most popular songs based on the number of requests received by Rediffusion’s English Programme Department for the week ending 23 January 1967. <i>Image reproduced from Singapore’s “Top Tunes” (n.d.). Singapore: Rediffusion</i>. (Call no.: RCLOS 016.78242 RSLSTT)
 </div>
 
 Rediffusion Singapore also had Roger Kool, the moniker adopted by Roger Kiew, who was blind. Roger Kool made his debut on air in 1973 at the age of 19 and would go on to amass a huge following, so much so that he became known as the “king of the airwaves”.[^38]
 
-Then of course there were the legendary storytellers who helped Rediffusion cement its leading position in Chinese radio broadcasting between the 1950s and 1970s. Lee Dai Soh, in particular, captivated generations of listeners with his animated narration of Chinese classics such as Journey to the West and Return of the Condor Heroes.[^39]
+Then of course there were the legendary storytellers who helped Rediffusion cement its leading position in Chinese radio broadcasting between the 1950s and 1970s. Lee Dai Soh, in particular, captivated generations of listeners with his animated narration of Chinese classics such as *Journey to the West* and *Return of the Condor Heroes*.[^39]
 
 Ann Tang, who fondly remembers her grandmother listening to the Cantonese raconteur, said:
 
-“My early memories of Rediffusion were in the 1970s. It was my grandmother’s only pastime, listening to Cantonese storyteller Lee Dai Soh… Every night after dinner, my siblings and I would climb onto granny’s bed and she would re-tell the story she had heard. That was how I came to know the stories from Romance of the Three Kingdoms – General Cao Cao and Guan Yu, [the] war strategist who could borrow the north wind to defeat their enemies, and Dream of the Red Chamber, even though I did not study Chinese.”[^40]
+“My early memories of Rediffusion were in the 1970s. It was my grandmother’s only pastime, listening to Cantonese storyteller Lee Dai Soh… Every night after dinner, my siblings and I would climb onto granny’s bed and she would re-tell the story she had heard. That was how I came to know the stories from *Romance of the Three Kingdoms* – General Cao Cao and Guan Yu, [the] war strategist who could borrow the north wind to defeat their enemies, and *Dream of the Red Chamber*, even though I did not study Chinese.”[^40]
 
-Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien. Tan Bah Bah, a former journalist with the New Nation newspaper, was one of those spellbound by Ong’s storytelling when he was a child. He recalled:
+Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien. Tan Bah Bah, a former journalist with the *New Nation* newspaper, was one of those spellbound by Ong’s storytelling when he was a child. He recalled:
 
 “… minutes before 8.45 pm, just about every family who had [a] Rediffusion set at home would stop whatever they were doing and crowd around the little set… Around that time, too, one could hardly find a trishaw or taxi on the road! Every trishaw rider or taxi driver would be at his or her favourite coffee shop listening to the inimitable Ong Toh… At 8.45 pm sharp, everybody at home or coffee shop stopped talking. Coffee cups would cease clinking… There would be a complete hush… all problems would be forgotten as Ong Toh transported them through time to ancient China with tales of heroism, treachery, bravery, vanity, cowardice and the like.”[^41]
 
@@ -108,7 +108,7 @@ After peaking in the early 1980s, Rediffusion began to decline as the rising pop
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Cantopop.JPG">
 <div style="background-color: white;"> 
-Cantopop diva Frances Yip with Rediffusion DJ Larry Lai at a satellite station in Metro Golden Mile, 1971. Image reproduced from <i>Rediffusion Singapore, photographs, circa 1948–1987</i>. (Call no.: RCLOS 384.540655957 RED)
+Cantopop diva Frances Yip with Rediffusion DJ Larry Lai at a satellite station in Metro Golden Mile, 1971. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987</i>. (Call no.: RCLOS 384.540655957 RED)
 </div>
 
 The Speak Mandarin Campaign that was launched in 1979 is often cited as a major reason for Rediffusion’s decline. To promote the use of Mandarin, Rediffusion was required to stop all dialect programmes by 1982. The removal of all Hokkien, Cantonese, Teochew and Hakka storytellers took away a major pillar of its programming.
@@ -140,11 +140,11 @@ On 30 May 2013, the revamped station was relaunched as an internet-based service
 
 Some of the programming that made Rediffusion popular are held by the National Archives of Singapore (NAS). The collection comprises more than 5,000 recordings of popular Chinese classics, folk stories, comedy acts, opera performances and even children’s plays. The NAS also keeps a repository of oral history interviews with Lee Dai Soh and Ng Chia Keng as well as listeners recalling their fond memories of the radio station.[^57]
 
-The National Library’s Lee Kong Chian Reference Library also has a collection of Rediffusion materials that include issues of Rediffusion Times (丽的呼声周刊), photographs and rare drama scripts.
+The National Library’s Lee Kong Chian Reference Library also has a collection of Rediffusion materials that include issues of *Rediffusion Times* (丽的呼声周刊), photographs and rare drama scripts.
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg">
 	
 **Barbara Quek** is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
@@ -167,7 +167,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
  [^12]:[Move to new home will help: Rediffusion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890203-1.2.8.5) (1989, February 3). *The New Paper*, p. 6; [Revamp a boost for Rediffusion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890206-1.2.22.13) (1989, February 6).*The Straits Times*, p. 12. Retrieved from NewspaperSG.
   [^13]:*Singapore [Rediffusion](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6138747)*,  [198-], p. 2.
  [^14]:	Oei, R. (2002). *[Borderless bandwidth: DNA of digital radio](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11568745)* (p. 111). Singapore: Times Academic Press. (Call no.: RSING 384.54 OEI)
-[^15]:	Oei, R. (2005). *[Riding the bandwidth](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12457580)*(pp. 48–49). Singapore: Marshall Cavendish Academic. (Call no.: RSING 384.54 OEI); *Remembering Rediffusion Singapore*. (2010). Retrieved from Rediffusion (Singapore) Limited website.
+[^15]:	Oei, R. (2005). *[Riding the bandwidth](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12457580)* (pp. 48–49). Singapore: Marshall Cavendish Academic. (Call no.: RSING 384.54 OEI); *Remembering Rediffusion Singapore*. (2010). Retrieved from Rediffusion (Singapore) Limited website.
  [^16]:*[Singapore Rediffusion](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6138747)*, [198-], p. 4; [*Move to new home will help: Rediffusion*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890203-1.2.8.5) (1989, February 3). The New Paper, p. 6. Retrieved from NewspaperSG.
 [^17]:[Stories and memories](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120421-1.2.125.7.1). (2012, April 21). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
  [^18]:[Oei](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12457580), 2005, pp. 48–49.
@@ -176,11 +176,11 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
  [^21]:Hong, X. (2007, August 2). [Big Fool’s reign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070802-1.2.70.4.5). *The Straits Times*, p. 54. Retrieved from NewspaperSG.
  [^22]:Tang, K.F. (1989, March 24). [Storyteller Lee Dai Soh dies while waiting to see doctor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1). *The Straits Times*, p. 22; [Obituary](http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324.2.49.3). (1989, March 24). *The Straits Times*, p. 38. Retrieved from NewspaperSG.
 [^23]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1)*, 24 Mar 1989, p. 22.
- [^24]:*[The Straits Times](http://eresourcigitised/Article/straitstimes19890324-1.2.28.1)*, 2 Aug 2007, p. 54; Liew, S.C. (1978, May 9). [The storyteller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64). New* Nation*, pp. 10–11; [Radio Malaya’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960418-1.2.73.5.5) (1996, April 18). *The Straits Times*, p. 16; N. Balakrishnan (1986, October 6). [Man who brought the ‘sound box’ to S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861006-1.2.32.7).* The Straits Times*, p. 15. Retrieved from NewspaperSG.
+ [^24]:[The Straits Times](http://eresourcigitised/Article/straitstimes19890324-1.2.28.1), 2 Aug 2007, p. 54; Liew, S.C. (1978, May 9). [The storyteller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64). New Nation*, pp. 10–11; [Radio Malaya’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960418-1.2.73.5.5) (1996, April 18).*The Straits Times*, p. 16; N. Balakrishnan (1986, October 6). [Man who brought the ‘sound box’ to S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861006-1.2.32.7).*The Straits Times*, p. 15. Retrieved from NewspaperSG.
 [^25]:[*New Nation*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64), 9 May 1978, pp. 10–11.
  [^26]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1)*, 24 Mar 1989, p. 22; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1)*, 2 Aug 2007, p. 54.
  [^27]:*[The Straits Times](http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324.2.49.3)*, 24 Mar 1989, p. 38.
-[^28]:Rediffusion Pte Ltd (1979). *[粤语通俗故事：西游记](https://www.nas.gov.sg/archivesonline/audiovisual_records/search-result)* (Journey to the West) (175 audiotapes). Retrieved from National Archives of Singapore website. 
+[^28]:Rediffusion Pte Ltd (1979). *[粤语通俗故事：西游记](https://www.nas.gov.sg/archivesonline/audiovisual_records/search-result)* (*Journey to the West*) (175 audiotapes). Retrieved from National Archives of Singapore website. 
  [^29]:Tan, L. &amp; Yeo, G.L. (Interviewers). (1983, March 22 &amp; 1989, March 13).[ *Oral history interview with Lee Fook Hai @ Lee Dai Soh 李福鸿@李大傻*](https://eresouhttps://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3e5c6747-115f-11e3-83d5-0050568939ad-OHC000260_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no.: 000260/7/4]. Retrieved from National Archives of Singapore website.
  [^30]:Chan, R. (2012, April 15). [Rediffusion launch pad](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120415-1.2.55.1.1). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
  [^31]:Teo, P.L. (2005, December 12). [The original ah jie](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20051212-1.2.58.3.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
@@ -208,5 +208,5 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 [^53]:Yip, W.Y. (2013, May 31). [Rediffusion back on air with free podcasts and mobile app](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20130531-1.2.49.17). *The Straits Times*, p. 17. Retrieved from NewspaperSG. 
 [^54]:*Remembering Rediffusion Singapore*. (2010). Retrieved from Rediffusion Singapore 丽的呼声 website.
 [^55]:The Rediffusion channel is hosted on Ximalaya FM, an online audio-visual sharing platform. Retrieved from Ximalaya FM website.
-[^56]:Our story. (2019). Retrieved from Rediffusion Singapore 丽的呼声 Facebook; 杨涵净 (Yang, H.J.) (2019, October 28). 丽的呼声设透明播音站为牛车 水群众“讲故事”. 联合早报 [Lianhe Zaobao], p. 7. Retrieved from Factiva.
+[^56]:Our story. (2019). Retrieved from Rediffusion Singapore 丽的呼声 Facebook; 杨涵净 (Yang, H.J.) (2019, October 28). 丽的呼声设透明播音站为牛车 水群众“讲故事”. 联合早报 [*Lianhe Zaobao*], p. 7. Retrieved from Factiva.
 [^57]:[Lost to history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120415-1.2.55.1.3) (2012, April 15). *The Straits Times*, p. 3; Chin, E. (2012, April 20). [No Rediffusion materials destroyed: National Archives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120420-1.2.24.5.7). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
