@@ -104,7 +104,7 @@ The personal lives of the two brotherpoets and the Christian concept of forgiven
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/ties-that-bind/michelle.png">
+<img src="/images/Vol-12-issue-4/ties-that-bind/michelle.png" style="width: 100px; height: 100px;">
 	<b>Michelle Heng</b>  is a Literary Arts Librarian at the National Library, Singapore. She has curated a tribute showcase, "Edwin Thumboo – Time-travelling: A Poetry Exhibition" in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, "Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems" (2012) as well as the "Selected Poems of Goh Poh Seng" (2013).
 </div>
 
@@ -122,16 +122,16 @@ The personal lives of the two brotherpoets and the Christian concept of forgiven
 [^8]:Only much later did Ogihara-Schuck discover the origins of the pseudonym Francis P. Ng – a combination of Teo Poh Leng’s first and middle Christian names, Paul Francis, but in reverse order, and his maternal family name, Ng.
 [^9]:Teo, P.L. (1937). The song of the night express. Life and Letters To-day, 16 (7), 44. Not available in NLB holdings.
 [^10]:Ogihara-Schuck, E. (2015, Jan-Mar). On the trail of Francis P. Ng: Author of F.M.S.R. BiblioAsia, 10 (4), 38–45. Call no.: RSING 027.495957 SNBBA-[LIB]
-Nanda, A. (2015, February 22). Do you know Teo Poh Leng? The Straits Times. Retrieved from Factiva via NLB’s eResources website: http://eresources.nlb.gov.sg/Main/.
-Ogihara-Schuck, E. (2016). Editors’ introduction (pp. 6–8). In K.L. Teo, I found a bone and other poems. Singapore: Ethos Books. Call no.: RSING S821 TEO
-Ogihara-Schuck, E., &amp; Teo, A. (Eds.). (2015). Acknowledgements (pp. 4–5). In F. Ng &amp; K.L. Teo, Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG; Lee, G.B. (2005). The Syonan years: Singapore under Japanese rule 1942–1945 (pp. 113–115). Singapore: National Archives of Singapore and Epigram Pte Ltd. Call no.: RSING q940.53957 LEE-[WAR]; “Chinese massacre” Japs hanged at Changi. (1947, June 26). Malaya Tribune, p. 1. Retrieved from NewspaperSG.
-Tan, S., et al. (2009). Syonan Years, 1942-1945: Living beneath the rising sun (p. 14). Singapore: National Archives of Singapore. Call no.: RSING 940.530745957 TAN-[WAR]; Akashi, Y. (1970, September). Japanese policy towards the Malayan Chinese, 1941-1945. Journal of Southeast Asian Studies, 1(2), 61-89, p. 67. Call no.: RSING 959.005 JSA
-Ogihara-Schuck, E. (2016). Editors’ introduction (pp. 6–8). In K.L. Teo, I found a bone and other poems. Singapore: Ethos Books. Call no.: RSING S821 TEO
-Nanda, A. (2015, October 12). Work of lost Malayan poet Teo Poh Leng republished after 78 years thanks to ST article. The Straits Times. Retrieved from Factiva via NLB’s eResources website: http://eresources.nlb.gov.sg/Main/.
-Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
-Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
-Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
-Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
-Personal email communication with Eriko Ogihara-Schuck, 2016.
-Personal email communication with Eriko Ogihara-Schuck, 2016.
-Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
+[^11]:Nanda, A. (2015, February 22). Do you know Teo Poh Leng? The Straits Times. Retrieved from Factiva via NLB’s eResources website: http://eresources.nlb.gov.sg/Main/.
+[^12]:Ogihara-Schuck, E. (2016). Editors’ introduction (pp. 6–8). In K.L. Teo, I found a bone and other poems. Singapore: Ethos Books. Call no.: RSING S821 TEO
+[^13]:Ogihara-Schuck, E., &amp; Teo, A. (Eds.). (2015). Acknowledgements (pp. 4–5). In F. Ng &amp; K.L. Teo, Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG; Lee, G.B. (2005). The Syonan years: Singapore under Japanese rule 1942–1945 (pp. 113–115). Singapore: National Archives of Singapore and Epigram Pte Ltd. Call no.: RSING q940.53957 LEE-[WAR]; “Chinese massacre” Japs hanged at Changi. (1947, June 26). Malaya Tribune, p. 1. Retrieved from NewspaperSG.
+[^14]:Tan, S., et al. (2009). Syonan Years, 1942-1945: Living beneath the rising sun (p. 14). Singapore: National Archives of Singapore. Call no.: RSING 940.530745957 TAN-[WAR]; Akashi, Y. (1970, September). Japanese policy towards the Malayan Chinese, 1941-1945. Journal of Southeast Asian Studies, 1(2), 61-89, p. 67. Call no.: RSING 959.005 JSA
+[^15]:Ogihara-Schuck, E. (2016). Editors’ introduction (pp. 6–8). In K.L. Teo, I found a bone and other poems. Singapore: Ethos Books. Call no.: RSING S821 TEO
+[^16]:Nanda, A. (2015, October 12). Work of lost Malayan poet Teo Poh Leng republished after 78 years thanks to ST article. The Straits Times. Retrieved from Factiva via NLB’s eResources website: http://eresources.nlb.gov.sg/Main/.
+[^17]:Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
+[^18]:Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
+[^19]:Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
+[^20]:Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
+[^21]:Personal email communication with Eriko Ogihara-Schuck, 2016.
+[^22]:Personal email communication with Eriko Ogihara-Schuck, 2016.
+[^23]:Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
