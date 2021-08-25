@@ -178,12 +178,12 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/surviving-japanese-occupation/Fiona.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/surviving-japanese-occupation/Fiona.png">
 	<b>Fiona Tan</b> is an Assistant Archivist with the Outreach Department, National Archives of Singapore, where she conducts research to promote a greater awareness of its collections.</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
-#### Notes
+#### **Notes**
 
 [^1]:*Foreword to* *[The Japanese Occupation: Singapore 1942–1945. ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080649)* (1985). Singapore: Archives &amp; Oral History Department. Call no.: RCLOS q779.995957 JAP
 [^2]:[Public &amp; security registration](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19411227-1.2.55). (1941, December 27). *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 6. Retrieved from NewspaperSG.
