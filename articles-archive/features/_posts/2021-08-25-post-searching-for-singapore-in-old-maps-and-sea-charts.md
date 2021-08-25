@@ -115,26 +115,26 @@ Wheatley, P. (1961). *[The Golden Khersonese: Studies in the historical geograph
 Wheatley, P. (1983). *[Nagara and commandery: Origins of the Southeast Asian urban traditions](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2907872)*. Chicago: University of Chicago Dept. of Geography. (Call no.: RSEA 301.360959 WHE)
 
 #### **NOTES**
-[^1]: See David E. Parry’s write up of his collection in his D.E.Parry, (2005). The cartography of the East Indian islands: Insulae Indiae Orientalis. London: Countrywide editions. (Call no. RSING q912.59 PAR)
+[^1]: See David E. Parry’s write up of his collection in his D.E.Parry, (2005). *[The cartography of the East Indian islands: Insulae Indiae Orientalis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569)*. London: Countrywide editions. (Call no. RSING q912.59 PAR)
 
-[^2]: Harley, J.B. (2001). The new nature of maps: Essays in the history of cartography. Baltimore: John Hopkins University Press. (Not available in NLB holdings)
+[^2]: Harley, J.B. (2001). <i>The new nature of maps: Essays in the history of cartography</i>. Baltimore: John Hopkins University Press. (Not available in NLB holdings)
 
-[^3]: See Jerry Brotton for a development of this argument in his Brotton, J. (1997). Trading territories: Mapping the early modern world. London: Reaktion Books. (Not available in NLB holdings)
+[^3]: See Jerry Brotton for a development of this argument in his Brotton, J. (1997). <i>Trading territories: Mapping the early modern world</i>. London: Reaktion Books. (Not available in NLB holdings)
 
-[^4]: Renou, L. (1925). La Géographie de Ptolémée. L'Inde. (vii, 1–4). Paris: Champion. (Call no.: RCLOS 911.54 PTO)
+[^4]: Renou, L. (1925). *[La Géographie de Ptolémée. L'Inde. (vii, 1–4)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13025605)*. Paris: Champion. (Call no.: RCLOS 911.54 PTO)
 
-[^5]: Braddell, R.St.J. (1980). A study of ancient times in the Malay Peninsula and the Straits of Malacca and notes on ancient times in Malaya. Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society. (Call no.: RDLKL 959.01 BRA)
+[^5]: Braddell, R.St.J. (1980). *[A study of ancient times in the Malay Peninsula and the Straits of Malacca and notes on ancient times in Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4284660)*. Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society. (Call no.: RDLKL 959.01 BRA)
 
-[^6]: Tibbetts, G.R. (1979). Study of the Arabic texts containing materials on South-East Asia, oriental translation fund (New Series, Vol. 44). Leiden: E.J. Brill for the Royal Asiatic Society. (Not available in NLB holdings)
+[^6]: Tibbetts, G.R. (1979). <i>Study of the Arabic texts containing materials on South-East Asia, oriental translation fund</i> (New Series, Vol. 44). Leiden: E.J. Brill for the Royal Asiatic Society. (Not available in NLB holdings)
 
-[^7]: Godinho de Eredia, M. (1997). Eredia’s description of Malacca, Meridonial India and Cathay. Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.5118 GOD)
+[^7]: Godinho de Eredia, M. (1997). *[Eredia’s description of Malacca, Meridonial India and Cathay](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9014418)*. Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.5118 GOD)
 
-[^8]: Mills, J.V. (1937, December). On a collection of Malayan maps in Raffles Library. Journal of the Malayan Branch of the Royal Asiatic Society, 15 (3), 49–63. Retrieved from JSTOR via NLB’s eResources website.
+[^8]: Mills, J.V. (1937, December). On a collection of Malayan maps in Raffles Library. <i>Journal of the Malayan Branch of the Royal Asiatic Society</i>, 15 (3), 49–63. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
 
-[^9]: Gibson-Hill’s study was first published as Singapore: Notes on the history of the Old Strait, 1580–1850. (1954, May). Journal of the Malaysian Branch of the Royal Asiatic Society, 27 (1), (165), 163–214.  Retrieved from JSTOR via NLB’s eResources website and expanded as Gibson-Hill, C.A. (1956, December). Singapore: Old Strait and new harbour, 1300–1870. (Memoirs (Raffles Museum), No. 3). Singapore: Government Printers. (Call no.: RCLOS 959.51 BOG)
+[^9]: Gibson-Hill’s study was first published as Singapore: Notes on the history of the Old Strait, 1580–1850. (1954, May). <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 27 (1), (165), 163–214.  Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website and expanded as Gibson-Hill, C.A. (1956, December). *[Singapore: Old Strait and new harbour, 1300–1870](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)*. (Memoirs (Raffles Museum), No. 3). Singapore: Government Printers. (Call no.: RCLOS 959.51 BOG)
 
-[^10]: Miskic, J.N., &amp; Low, C-A, M.G. (Eds.). (2004). Early Singapore 1300s─1819: Evidence in maps, test and artefacts. Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
+[^10]: Miskic, J.N., &amp; Low, C-A, M.G. (Eds.). (2004). *[Early Singapore 1300s─1819: Evidence in maps, test and artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)*. Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
 
-[^11]: See Sailing past Singapore. In Miskic &amp; Low, 2004, pp. 95–105.
+[^11]: See Sailing past Singapore. In *[Miskic &amp; Low](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)*, 2004, pp. 95–105.
 
-[^12]: A Portuguese-Dutch naval battle in Johor river estuary and the liberation on Johor Lama in 1603. In Miskic &amp; Low, 2004, pp. 106–117 and Borschberg, P. (2010). The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century (pp. 60–112). Singapore: NUS Press. (Call no.: RSING 911.16472 BOR) which carries the narrative forward from the 1603 battle.
+[^12]: A Portuguese-Dutch naval battle in Johor river estuary and the liberation on Johor Lama in 1603. In *[Miskic &amp; Low](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)*, 2004, pp. 106–117 and Borschberg, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)* (pp. 60–112). Singapore: NUS Press. (Call no.: RSING 911.16472 BOR) which carries the narrative forward from the 1603 battle.
