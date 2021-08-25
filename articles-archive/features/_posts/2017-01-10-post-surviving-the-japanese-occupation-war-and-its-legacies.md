@@ -163,18 +163,29 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 </div>
 
-|Surviving the Japanese Occupation: War and its Legacies|
+|**Surviving the Japanese Occupation: War and its Legacies**|
 
-Former Ford Factory
-351 Upper Bukit Timah Road,
-Singapore 588192
+|Former Ford Factory<br>
+351 Upper Bukit Timah Road,<br>
+Singapore 588192|
 
-Mondays to Saturdays,
-9am – 5.30pm
+|Mondays to Saturdays,<br>
+9am – 5.30pm|
 
-Sundays,
-12 noon – 5.30pm
+|Sundays,<br>
+12 noon – 5.30pm|
 
-Daily guided tours are available.
+|Daily guided tours are available.|
 
-Visit www.nas.gov.sg/formerfordfactory for more information.
+|Visit [www.nas.gov.sg/formerfordfactory](www.nas.gov.sg/formerfordfactory) for more information.|
+
+
+#### Notes
+
+Foreword to The Japanese Occupation: Singapore 1942–1945. (1985). Singapore: Archives &amp; Oral History Department. Call no.: RCLOS q779.995957 JAP
+Public &amp; security registration. (1941, December 27). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 6. Retrieved from NewspaperSG.
+Tsuruya, M. (2005). Sensō sakusen Kirokuga (War campaign documentary paintings): Japan’s national imagery of the “Holy War”, 1937–1945, pp. 1–3 (Doctoral dissertation, School of Arts and Sciences, University of Pittsburgh). Retrieved from University of Pittsburg website.
+Yeo, C. (Interviewer). (2006, June 30). Oral history interview with Taka Sakurai [Transcript of Recording no. 003068/03/03, pp. 1–64]. Retrieved from National Archives of Singapore website.
+W.K. (2001, April 11). Justice done? Criminal and moral responsibility issues in the Chinese massacres trial Singapore, 1947, pp. 3–4 (Genocide Studies Program Working Paper No. 18, Branford College, Yale University). Retrieved from the Battle of Manila Online website.
+Chua, S.K. (Interviewer). (1982, February 2). Oral history interview with Heng Chiang Ki [Transcript of Recording No. 000152/08/02, pp. 20–21]. Retrieved from National Archives of Singapore website.
+Ho, C.T. (2013, April 3). Taking care of its own: Establishing the Singapore Department of Social Welfare, 1946–1949, pp. 12–13. Retrieved from Academia website.
