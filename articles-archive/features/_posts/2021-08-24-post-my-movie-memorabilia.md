@@ -4,8 +4,7 @@ date: 2021-08-24
 permalink: /vol-11/issue-1/apr-jun-2015/movie-memorabilia
 layout: post
 ---
-
-#### **Wong Han Min**’s treasure trove of film memorabilia – collected over three decades – provides a glimpse of Singapore’s rich cinematic past.**
+#### **Wong Han Min**’s treasure trove of film memorabilia – collected over three decades – provides a glimpse of Singapore’s rich cinematic past.
 
 
 Given the diverse range of movie-related memorabilia available, aficionados can easily amass huge collections over time. These can include cinema tickets, posters, scripts and other ephemera to film props and costumes as well as bulkier items like cinema seats, cinema projectors and studio camera sets - in short everything related to filmmaking and cinemas. 
