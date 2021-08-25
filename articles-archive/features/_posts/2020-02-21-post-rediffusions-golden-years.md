@@ -183,19 +183,30 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 21.  [^21]:Hong, X. (2007, August 2). [Big Fool’s reign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070802-1.2.70.4.5). *The Straits Times*, p. 54. Retrieved from NewspaperSG.
 22.  [^22]:Tang, K.F. (1989, March 24). [Storyteller Lee Dai Soh dies while waiting to see doctor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1). *The Straits Times*, p. 22; [Obituary](http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324.2.49.3). (1989, March 24). *The Straits Times*, p. 38. Retrieved from NewspaperSG.
 23.  [^23]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1)*, 24 Mar 1989, p. 22.
-24.  [^24]:*[The Straits Times](http://eresourcigitised/Article/straitstimes19890324-1.2.28.1)*, 2 Aug 2007, p. 54; Liew, S.C. (1978, May 9). [The storyteller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64). New* Nation*, pp. 10–11; Radio Malaya’s (1996, April 18). *The Straits Times*, p. 16; N. Balakrishnan (1986, October 6). Man who brought the ‘sound box’ to S’pore.* The Straits Times*, p. 15. Retrieved from NewspaperSG.
-25.  [^25]:
-26.  [^26]:
-27.  [^27]:
-28.  [^28]:
-29.  [^29]:
-30.  [^30]:
-31.  
+24.  [^24]:*[The Straits Times](http://eresourcigitised/Article/straitstimes19890324-1.2.28.1)*, 2 Aug 2007, p. 54; Liew, S.C. (1978, May 9). [The storyteller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64). New* Nation*, pp. 10–11; [Radio Malaya’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960418-1.2.73.5.5) (1996, April 18). *The Straits Times*, p. 16; N. Balakrishnan (1986, October 6). [Man who brought the ‘sound box’ to S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861006-1.2.32.7).* The Straits Times*, p. 15. Retrieved from NewspaperSG.
+25.  [^25]:[*New Nation*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64), 9 May 1978, pp. 10–11.
+26.  [^26]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1)*, 24 Mar 1989, p. 22; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1)*, 2 Aug 2007, p. 54.
+27.  [^27]:*[The Straits Times](http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324.2.49.3)*, 24 Mar 1989, p. 38.
+28.  [^28]:Rediffusion Pte Ltd (1979). *[粤语通俗故事：西游记](https://www.nas.gov.sg/archivesonline/audiovisual_records/search-result)* (Journey to the West) (175 audiotapes). Retrieved from National Archives of Singapore website. 
+29.  [^29]:Tan, L. &amp; Yeo, G.L. (Interviewers). (1983, March 22 &amp; 1989, March 13).[ *Oral history interview with Lee Fook Hai @ Lee Dai Soh 李福鸿@李大傻*](https://eresouhttps://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3e5c6747-115f-11e3-83d5-0050568939ad-OHC000260_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no.: 000260/7/4]. Retrieved from National Archives of Singapore website.
+30. [^30]:Chan, R. (2012, April 15). [Rediffusion launch pad](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120415-1.2.55.1.1). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+31. [^31]:Teo, P.L. (2005, December 12). [The original ah jie](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20051212-1.2.58.3.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+32. [^32]:
+33. [^33]:
+34. [^34]:
+35. [^35]:
+36. [^36]:
+37. [^37]:
+38. [^38]:
+39. [^39]:
+40. [^40]:
+Tan, J. (2006, May 24). Time to move on. Today, p. 38. Retrieved from NewspaperSG.
+Lam, D. (1990, November 22). Passionate pursuit. The Straits Times, p. 10. Retrieved from NewspaperSG.
+Zakir Hussain. (2009, April 17). Telling stories so that others may remember. The Straits Times, p. 28. Retrieved from NewspaperSG.
+Toh, C. (2013, May 31). Rediffusion returns as digital-only service. Today, p. 30. Retrieved from NewspaperSG.
+Ragaratman, A. (2015, December 19). Veteran radio, TV presenter Tan Swee Leong dies of cancer at age 77. The Straits Times, p. 10. Retrieved from NewspaperSG.
+The Straits Times, 21 Apr 2012, p. 8.
+The Straits Times, 15 Apr 2012, p. 2; Xu, H. (2012, May). Rediffusion and its glorious 63 years. Retrieved from Remember Singapore website.
+Xu, H. (2012). Rediffusion and its glorious 63 years. Retrieved from Remember Singapore website.
+The Straits Times, 21 Apr 2021, p. 8.
 
-
-New Nation, 9 May 1978, pp. 10–11.
-The Straits Times, 24 Mar 1989, p. 22; The Straits Times, 2 Aug 2007, p. 54.
-The Straits Times, 24 Mar 1989, p. 38.
-Rediffusion Pte Ltd (1979). 粤语通俗故事：西游记 (Journey to the West) (175 audiotapes). Retrieved from National Archives of Singapore website. 
-Tan, L. &amp; Yeo, G.L. (Interviewers). (1983, March 22 &amp; 1989, March 13). Oral history interview with Lee Fook Hai @ Lee Dai Soh 李福鸿@李大傻 [Transcript of recording no.: 000260/7/4]. Retrieved from National Archives of Singapore website.
-Chan, R. (2012, April 15). Rediffusion launch pad. The Straits Times, p. 2. Retrieved from NewspaperSG.
