@@ -6,7 +6,7 @@ layout: post
 ---
 #### An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. Michelle Heng has the story.
 
-|“I held the arm bone in my hand,
+“I held the arm bone in my hand,
 And let my warm tears fall;
 My brothers were slain at Ponggol Beach,
 My brothers Peter and Paul.”
@@ -20,4 +20,4 @@ Ultimately, this would set in motion a chain of events that would turn the dregs
 
 **The Search Begins**
 
-Dr Ogihara-Schuck, a Japanese national who teaches American Studies and Japanese at Technische Universität Dortmund in Germany where she resides with her German husband, first chanced upon F.M.S.R.3 when she answered a call in December 2012 for academic papers by the late Professor Tatsushi Narita, a specialist on the works of the Anglo-American modernist poet T.S. Eliot.4|![Alt text for image on Isomer site](/images/Vol-12-issue-4/ties-that-bind/1-findingfrancis.jpg)<div style="background-color: white;">*Finding Francis: A Poetic Adventure and I Found A Bone and Other Poems* were published in 2015 and 2016 respectively by Ethos Books.</div>|
+Dr Ogihara-Schuck, a Japanese national who teaches American Studies and Japanese at Technische Universität Dortmund in Germany where she resides with her German husband, first chanced upon F.M.S.R.3 when she answered a call in December 2012 for academic papers by the late Professor Tatsushi Narita, a specialist on the works of the Anglo-American modernist poet T.S. Eliot.4|![Alt text for image on Isomer site](/images/Vol-12-issue-4/ties-that-bind/1-findingfrancis.jpg)<div style="background-color: white;">*Finding Francis: A Poetic Adventure and I Found A Bone and Other Poems* were published in 2015 and 2016 respectively by Ethos Books.</div>
