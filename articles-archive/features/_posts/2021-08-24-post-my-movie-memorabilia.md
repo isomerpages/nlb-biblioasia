@@ -1,9 +1,10 @@
 ---
 title: My Movie Memorabilia
 date: 2021-08-24
-permalink: /articles-archive/features/permalinkmmm
+permalink: /vol-11/issue-1/apr-jun-2015/movie-memorabilia
 layout: post
 ---
+
 #### **Wong Han Min**’s treasure trove of film memorabilia – collected over three decades – provides a glimpse of Singapore’s rich cinematic past.**
 
 
