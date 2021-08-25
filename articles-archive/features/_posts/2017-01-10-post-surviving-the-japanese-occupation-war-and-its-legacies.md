@@ -15,7 +15,7 @@ Part of the original building was torn down when the area was redeveloped in the
 
 That fateful event was preceded by a week of intense fighting, dubbed “The Battle of Singapore”, between the combined British and Allied forces and Japanese troops after the latter made landfall on the northwestern coastline near the Johor Strait. Percival made the fatal error of assuming that the Japanese would attack from the northeastern coastline and had his firepower and soldiers concentrated along that front. The rest, as they say, is history.
 
-##### A New Exhibition Opens
+**A New Exhibition Opens**
 
 The Former Ford Factory – as the building is officially known − was gazetted as a national monument on 15 February 2006, following its conversion into a World War II exhibition space by its custodian, the National Archives of Singapore (NAS). Memories at Old Ford Factory (MOFF), as the gallery was called, operated for a decade until it closed in February 2016 for a major revamp.
 
@@ -31,7 +31,7 @@ One such programme was the Call for Archives in March 2016, which saw over 400 i
 
 As we approach the 75th anniversary of the fall of Singapore on 15 February 2017, it is timely to revisit these memories and experiences.
 
-##### Highlights of the Exhibition
+**Highlights of the Exhibition**
 
 The revamped exhibiton showcases the British surrender, the subsequent Japanese Occupation years, and the legacies of the war. Through oral history accounts and archival records from the collections of NAS, the National Library, Singapore, partner agencies and private collectors, this new exhibition aims to capture the diverse experiences of people who lived through this crucial period of our history.
 
@@ -82,3 +82,46 @@ This map and its accompanying booklet contain annotated photographs of 83 key lo
 As the war in China waged on and hostilities in Europe broke out, the British colonial administration began to prepare the local population for the possibility of war in Malaya. Initially, the preparations were subtle, such as familiarising the public with air raid precautions and basic civil defence skills, but from 1941 onwards, the war preparations became more overt with screening of the population and recruiting locals to join the military.
 
 In that same year, it became compulsory for all non-military residents of Singapore to carry identity cards under the Defence (Security Registration) Regulations.2 These cards – that allowed the government to screen the population for potential spies – were among the first ominous signs of the looming war.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/6-surviving-japanese-occupation.jpg)
+<div style="background-color: white;">(Left) Identity cards issued under the Defence (Security Registration) Regulations donated by A.J. Tyler, Chin Sin Chong, David E.S. Chelliah and Victor Tan. Courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">(Middle) Such postcards and paintings depicting scenes of war were distributed to Japanese soldiers and exhibited in the newly conquered territories as well as in Japan to highlight the might of the Japanese military. Donated by Taka Sakurai. Courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">(Right) Overseas Chinese certificate of registration, 1942. Donated by Ow Peng Hoong. Courtesy of National Archives of Singapore.</div>
+
+##### Japanese artistic impressions of occupied Singapore
+
+Also found in this section of the exhibition are *sensō sakusen kirokuga* (war campaign documentary paintings). A few months before the fall of Singapore, the Japanese military administration started to send prominent Japanese artists to various parts of Southeast Asia to paint scenes of war based on photographs or after talking to soldiers on the ground.
+
+These depictions of war, which took the form of postcards and paintings, were distributed to Japanese soldiers and exhibited both in the newly conquered territories and in Japan to highlight the bravery of the military.3
+
+There are five postcards and two watercolour paintings on display, donated to the NAS by Taka Sakurai, formerly an officer with the propaganda department of the Imperial Japanese Army. Sakurai produced these postcards based on artists’ impressions of scenes of Singapore after the fighting ceased. The postcards were then distributed to Japanese soldiers to commemorate their victory.4
+
+**Becoming Syonan**
+
+On 18 February 1942, Singapore was officially renamed Syonan-to, meaning “Light of the South”.  The Japanese Occupation was a grim period in our history. From the acts of state-sanctioned violence to grandiose promises as part of the “Greater East Asia Co-Prosperity Sphere”, this section of the exhibition showcases the experiences of people living under a new administration as well as the acts of resistance by those who chose to fight back and make a stand.
+
+##### “Screened” stamp
+
+One of the first actions by the Japanese military in Syonan was a mass screening or *dai kenshō* (大検証; “great inspection”), which the Chinese later referred to as Sook Ching (肃清). Such screenings to identify anti-Japanese elements in the population had been carried out whenever Japan conquered new territories in China. Three days after the British surrender in Singapore, Chinese males aged between 18 and 50 were ordered to report to screening centres − and in the confusion, some women and children went as well.5
+
+At the reporting centres, those who received a stamp with the character “検” (or “examined”) were allowed to leave. Some people brought Overseas Chinese registration passes issued by the Chinese consulate in the pre-war period and had them stamped; while others recounted getting stamped on their T-shirts, other personal identification documents, or even on parts of their body.
+
+One survivor recounted:“When I went home, I had the rubber stamp with the word ‘cleared’ [‘検’] or something like that. I made sure that the stamp lasted as long as possible. So washing my hands, whenever I took my bath, I got to raise my arm up to make sure the stamp there was not washed away… Wherever you go, you have to show your arm to the Japanese soldiers.”6
+
+Apart from displays of such documents, the exhibition also allows visitors to experience first-hand accounts of Sook Ching survivors by listening to oral history excerpts.
+
+##### Case of Joseph Francis
+
+Stories of deprivation, suffering and torture were part of the fabric of the Syonan-to years, experienced by both the local civilian population as well as British and Allied soldiers.
+
+One particular story stands out. On 27 September 1943, six Japanese oil tankers were destroyed at Keppel Harbour and suspicion fell upon the prisoners-of-war (POWs) interned in Changi Prison, who were thought to have transmitted news to the raiding party.
+
+Joseph Francis, who worked as a driver for a Japanese inspector at the POW camp, was caught for passing information and a secret transmitter to the prisoners. In the ensuing raid that took place at Changi Prison, many POWs were rounded up for interrogations. Several civilians too were arrested, including Francis, who was tortured by the kempeitai (Japanese military police) over a six-month period.
+
+On his release, Francis required extensive medical care and he eventually died in May 1945. After the Occupation, his brother and friends wrote to the British Military Administration, describing in detail Francis’ contributions to the anti-Japanese resistance. On display at the exhibition is Francis’ driver’s license and the letter written by his friend, Kenneth Tay, describing the “horrors of inhuman punishment” that Francis endured at the hands of his captors, that had reduced him into a pitiable “living skeleton”.
+
+##### Sketches by William Haxworth
+
+Also worth seeing are the selection of sketches, drawn from a collection of over 300 that were secretly sketched by former police inspector William R.M. Haxworth during his internment at Changi Prison and Sime Road Camp. The sketches depict the crowded and unsanitary living conditions at the camps, and capture the internees’ decline in health and weight over time. Several sketches reveal Haxworth’s ability to find humorous moments and comic relief through his art in spite of the difficult circumstances.
+
+After the war, Haxworth rejoined the police force and stayed there until his retirement in 1954. In 1986, one year after he passed away, his wife donated his entire set of sketches to the NAS.
