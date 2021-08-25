@@ -36,7 +36,8 @@ Developing a set of acquisition, selection and preservation policies was imperat
 
 While its name dictates Asia as its collection ambit, the AFA has focused its preservation efforts in the last nine years on the geographical region of Southeast Asia. As mentioned earlier, until recently, Southeast Asia had very few dedicated film archives with the means and the budgets to archive the numerous films produced in the region. Nevertheless, concentrating on Southeast Asia did not limit the films that the AFA acquired for its collection – it currently archives titles from wider Asia, such as China, Korea, Japan, Taiwan, India and Iran. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/Cleopatra_Wong.jpg)<div style="background-color: white;">They Call Her... Cleopatra Wong was released in 1978, and starred Marrie Lee as an Interpol agent. This poster is part of the AFA's holdings. © Cleopatra Wong International Pte Ltd.</div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/Cleopatra_Wong.jpg)
+<div style="background-color: white;">They Call Her... Cleopatra Wong was released in 1978, and starred Marrie Lee as an Interpol agent. This poster is part of the AFA's holdings. © Cleopatra Wong International Pte Ltd.</div>
 
 Although archives are generally associated with the antiquated, the AFA’s collection is relatively young by archival standards, with 70 percent of its films dating back to an average of 25 years. The main reason is because the AFA makes a conscious effort to acquire the works of living filmmakers. The selection criteria are determined by a list of priorities, taking into account the condition of the films’ formats and the “Asian-ness” and significance of the films on the cultural landscapes of both its country of origin and internationally. In addition, films that are independently produced and are not preserved in the home country of the filmmaker or by any other archive, receive particular attention. These guidelines are detailed on the AFA’s website and the mechanics of how films can be submitted for assessment and preservation are elaborated in the website’s Frequently Asked Questions (FAQ) section.[^10]
 
@@ -56,7 +57,8 @@ The AFA’s collection is available for public reference at the library@ esplana
 The AFA became a subsidiary of the National Library Board in January 2014.
 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/afa.jpg)<div style="background-color: white;">10th anniversary logo of the Asian Film Archive</div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/afa.jpg)
+<div style="background-color: white;">10th anniversary logo of the Asian Film Archive</div>
 
 #### **The Importance of Archiving** 
 
@@ -76,12 +78,14 @@ The AFA has come a long way from when it started 10 years ago by the visionary T
 
 Hosted by the AFA and supported by the National Library Board, Singapore, the 19th South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) Conference and General Assembly will take place from 22 to 28 April 2015. The week-long event at the National Library Building will feature a two-day symposium with concurrent sessions, institutional visits, Restoration Asia II (an event focusing on the restoration of films in Asia or about Asia), workshops, and an excursion. A total of 48 papers will be presented during the conference on topics such as archival advocacy, archival repatriation, professional development, repurposing of archives, technical, organisational and professional sustainability, and archives at risk. For more information, visit www. seapavaaconference.com. The theme for the 2015 SEAPAVAA conference is <i>Advocate. Connect. Engage.</i> This theme resonates closely with the thrust of AFA’s programmes and the three objectives contained in its mission statement - “To Save, Explore, and Share the Art of Asian Cinema”.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/logo_w_title.jpg)<div style="background-color: white;"></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/logo_w_title.jpg)
+<div style="background-color: white;"></div>
 
 #### **DIGITAL FILM RESTORATION** 
 Digital film restoration is a highly specialised and laborious process. It involves the complex use of technological software and equipment that are designed to ingest huge amounts of data. The simplified workflow diagram below gives an idea of the three main parts of digital film restoration - repair and cleaning; restoration and preservation; and access output.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/process.jpg)<div style="background-color: white;"></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/process.jpg)
+<div style="background-color: white;"></div>
 
 #### **THE GENESIS OF THE ASIAN FILM ARCHIVE** 
 
@@ -115,7 +119,8 @@ The AFA has since grown from strength to strength, expanding its collection, eng
 
 <i>**Thong Kay Wee** is the Outreach Officer of the Asian Film Archive (AFA). One part publicist and one part curator, he is responsible for devising strategies to propagate the archive’s mission and film collection. In his free time, he considers himself an independent moving image artist.</i>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/SKP_0517.jpg)<div style="background-color: white;">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/SKP_0517.jpg)
+<div style="background-color: white;">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i></div>
 	
 **Karen Chan** is Executive Director of the Asian Film Archive (AFA). Besides overseeing the growth, preservation and curation of the AFA’s collection, she teaches film literacy and preservation courses to educators, students and filmmakers. Karen also serves on the Executive Council of the South East Asia-Pacific Audiovisual Archive Association.
 
