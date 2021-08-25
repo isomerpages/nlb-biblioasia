@@ -18,7 +18,7 @@ Such was the draw of bangsawan in the pre-war years that people living in Tanjon
 
 “The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.”[^3]
 
-<img height="50" width="50" src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG" width="50" height="50">
 <div style="background-color: white;">
 Theatre Royal on North Bridge Road, c. 1910. The theatre was opened by Chinese Peranakan businessman Cheong Koon Seng in 1908. The Star Opera Company that he established was based at the theatre. <i>Courtesy of National Archives of Singapore</i>.</div>
 
@@ -132,14 +132,21 @@ Amalgamated Theatres immediately set to work modernising the place. In February 
 <img src="/images/Vol-15-issue-4/theatres-of-bangsawan/theatre.JPG">
 <div style="background-color: white;">Theatre Royal in the midst of demolition in 1977.<i>Image reproduced from Remember Singapore website.</i></div>
 
-During the Japanese Occupation of Singapore (1942–45), Royal Theatre was known as Indo Gekijo and used mainly to screen approved films and shows for the Indian community in Singapore.36 Bangsawan continued to be performed at Garrick Cinema in Geylang. Bangsawan music was also aired regularly over the radio. Nevertheless, the vibrancy of the bangsawan scene continued its decline.
+During the Japanese Occupation of Singapore (1942–45), Royal Theatre was known as Indo Gekijo and used mainly to screen approved films and shows for the Indian community in Singapore.36 *Bangsawan* continued to be performed at Garrick Cinema in Geylang. *Bangsawan* music was also aired regularly over the radio. Nevertheless, the vibrancy of the *bangsawan* scene continued its decline.
 
-Bangsawan scriptwriter Hamid bin Ahmad felt that the quality of bangsawan productions deteriorated, especially after the war. He recalled:
+*Bangsawan* scriptwriter Hamid bin Ahmad felt that the quality of *bangsawan* productions deteriorated, especially after the war. He recalled:
 
 “… saya sudah mulai hilang minat menonton kerana bila saya tengok alat-alat bangsawan itu sudah tidak seperti yang biasa saya tonton di dalam tahun-tahun 30-an dulu… sebelum perang Jepun. Begitu cantik begitu gemilang segala-gala yang dialatkan. Jadi apa lagi bangsawan waktu lepas Jepun ni dia orang buatkan bangsawan khemah. Di buat panggung sendiri seperti panggung wayang Cina, memang, kalau tak silap, kontraknya kontrak-kontrak itu orang kontrak panggung wayang Cina tulah. Buat panggung, habis, lantainya jugak berbunyi bila kita pijak tu semua, banyak sudah mulai. Saya pikir di waktu itulah mulai bangsawan mulai turun. Mulai standard bangsawan telah turun dari lepas perang Jepun lah tidak dapat naik kembali.”37
 
-(Translation: I lost interest in watching bangsawan because I saw that the standard was no longer the same as that in the 1930s… before the war with Japan. The performances then were so beautiful, so alluring. After the Occupation, the performing tents for bangsawan were like the stages for Chinese wayang. If I’m not mistaken, they had agreements with the Chinese who built the stages. The floor made sounds when you step on it. I feel that was when bangsawan really declined. The standard of performance dropped after the war and did not recover after that.)
+(Translation: I lost interest in watching *bangsawan* because I saw that the standard was no longer the same as that in the 1930s… before the war with Japan. The performances then were so beautiful, so alluring. After the Occupation, the performing tents for *bangsawan* were like the stages for Chinese *wayang*. If I’m not mistaken, they had agreements with the Chinese who built the stages. The floor made sounds when you step on it. I feel that was when *bangsawan* really declined. The standard of performance dropped after the war and did not recover after that.)
 
-The gradual conversion of bangsawan venues to movie theatres sounded the death knell for bangsawan. In 1947, Alexandra Hall underwent extensive renovations to become Diamond Theatre, another cinema for the screening of Tamil talkies.38 Interestingly, bangsawan as an art form began evolving too. From being popular commercial theatre, it began taking on the form of “traditional” Malay theatre and was staged in smaller arts venues on occasion. Advertisements for bangsawan performances became very infrequent.
+The gradual conversion of *bangsawan* venues to movie theatres sounded the death knell for *bangsawan*. In 1947, Alexandra Hall underwent extensive renovations to become Diamond Theatre, another cinema for the screening of Tamil talkies.38 Interestingly, *bangsawan* as an art form began evolving too. From being popular commercial theatre, it began taking on the form of “traditional” Malay theatre and was staged in smaller arts venues on occasion. Advertisements for *bangsawan* performances became very infrequent.
 
-Diamond Theatre and Royal Theatre continued with their new leases of life as Tamil cinemas until the late 1970s. In 1970, the government announced its land acquisition plans in the Rochor area, which included the sites of both theatres. By the end of the 1970s, the chapter on theatres specially built for bangsawan performances finally came to a close when these venues were demolished, making way for urban redevelopment.39
+Diamond Theatre and Royal Theatre continued with their new leases of life as Tamil cinemas until the late 1970s. In 1970, the government announced its land acquisition plans in the Rochor area, which included the sites of both theatres. By the end of the 1970s, the chapter on theatres specially built for *bangsawan* performances finally came to a close when these venues were demolished, making way for urban redevelopment.39
+
+
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/theatre.JPG">
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
+
+#### Notes
