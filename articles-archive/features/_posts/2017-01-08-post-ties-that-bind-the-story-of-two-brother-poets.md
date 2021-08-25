@@ -18,7 +18,7 @@ When American Studies scholar, Dr Eriko Ogihara-Schuck, embarked on the proverbi
 
 Ultimately, this would set in motion a chain of events that would turn the dregs of a family’s painful war-torn past into a serendipitous “reunion” of two talented brother-poets2 and the publication of two unique collections of poetic works.
 
-**The Search Begins**
+##### **The Search Begins**
 
 Dr Ogihara-Schuck, a Japanese national who teaches American Studies and Japanese at Technische Universität Dortmund in Germany where she resides with her German husband, first chanced upon F.M.S.R.3 when she answered a call in December 2012 for academic papers by the late Professor Tatsushi Narita, a specialist on the works of the Anglo-American modernist poet T.S. Eliot.4
 
@@ -45,7 +45,8 @@ What happened subsequently is the stuff of detective fiction novels. Journalist 
 <div style="background-color: white;">(Left) Staff of the Holy Innocents’ English School in 1937. Teo Kah Leng is the third person from the left of the back row. Courtesy of the Archives of the Brothers of St Gabriel House in Rome.</div>
 <div style="background-color: white;">(Right) Photo of Teo Kah Leng taken in front of Holy Innocents’ English School c. late 1940s–early 50s. Courtesy of Anne Teo.</div>
 
-The Brother-Poets
+##### **The Brother-Poets**
+
 The Straits Times’ article headlined “Do you know Teo Poh Leng?” jogged the memory of a reader by the name of Samuel Chia. He contacted the reporter to tell her about his childhood recollection of a poem titled “I Found A Bone”, penned by a poet named Teo Kah Leng, then a teacher at the Holy Innocents’ English School. Chia had correctly guessed that Poh Leng was Kah Leng’s brother due to the similarity of their names. He further suspected that Poh Leng was one of the two brothers, “Peter and Paul” mentioned in the final line of “I Found A Bone”, who had died during the Japanese Occupation.
 
 Peter was the Christian name of Teo Kee Leng, the elder brother, while Poh Leng (whose Christian name was Paul) was the youngest sibling. Kah Leng himself had escaped the same fate because he was not at home when his brothers were hauled away by the Japanese soldiers.
@@ -67,7 +68,8 @@ Aside from being privy to the fact that “Francis” was Poh Leng’s Christian
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/ties-that-bind/3-note.jpg)
 <div style="background-color: white;">Teo Kah Leng’s poignant poem, “I Found A Bone”, was published in the *Holy Innocents’ English School Annual* in 1955. This pencil drawing of an idyllic seaside landscape framed by coconut trees was firmly etched in the mind of Samuel Chia. He read the 22 February 2015 Straits Times article seeking the whereabouts of the elusive author of *F.M.S.R.* and provided the crucial link that Teo Kah Leng and Teo Poh Leng could be related, helping to solve a decades-long mystery about the poet’s identity. *Courtesy of Montfort Schools.*</div>
 
-Finding Francis is Published
+##### **Finding Francis is Published**
+
 On learning of Ogihara-Schuck’s plans to republish F.M.S.R, Anne Teo proposed a collaboration with her on the project. She also provided the much needed confirmation that her uncle had been dead for more than 70 years, which meant that copyright for the book had expired and now resided in the public domain.
 
 Another person who played a significant role in this journey was the Singaporean poet and literary activist, Alvin Pang, who had been aware of F.M.S.R. more than a decade before Ogihara-Schuck began researching it. After being introduced to the original 1937 edition of F.M.S.R. – one of five extant copies available in the world – by former librarian Yenping Yeo of the National Library, Singapore, in the early 2000s, Pang approached several Singapore institutions in the hope of creating awareness of this long-forgotten poem.
@@ -78,7 +80,8 @@ Finding Francis is indeed an apt title for this volume of Teo Poh Leng’s works
 
 For Ogihara-Schuck, the most serendipitous part of her project was the discovery of another pioneer Singaporean poet –Teo Kah Leng – and the unpublished manuscript of some 50 poems that his daughter Anne had inherited upon his death in 2001. A year after publishing Finding Francis, Ogihara-Schuck and Anne launched Teo Kah Leng’s poetry collection, I Found A Bone and Other Poems in August 2016, with Ethos Books and the aid of a grant from the National Arts Council.
 
-The Redemptive Power of Poetry
+##### **The Redemptive Power of Poetry**
+
 For Anne Teo, the discovery of her late uncle and his published poems was proof that her father and his brother were bound by their mutual love for verse.17 Juxtaposing her father’s poems with that of her uncle’s, she suggests that their brotherly bonds rose above the tragedy of war and the Japanese Occupation through the redemptive power of forgiveness, as seen in the poem “I Found A Bone”.18
 
 There are enough Christian motifs in the poem to suggest this idea. It starts and ends with Teo Kah Leng’s voice but switches to the persona of his younger sibling, Teo Poh Leng, in stanzas 12 and 13 as he recounts his tragic death at Punggol beach: “I am the way of life, your Hope… / Know I am hanging on a cross / And Calvary is nigh”.
