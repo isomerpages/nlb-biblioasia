@@ -104,7 +104,7 @@ The personal lives of the two brotherpoets and the Christian concept of forgiven
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/ties-that-bind/michelle.png">
+<img src="/images/Vol-12-issue-4/ties-that-bind/michelle.png" style="width: 100px; height: 100px;">
 	<b>Michelle Heng</b>  is a Literary Arts Librarian at the National Library, Singapore. She has curated a tribute showcase, "Edwin Thumboo – Time-travelling: A Poetry Exhibition" in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, "Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems" (2012) as well as the "Selected Poems of Goh Poh Seng" (2013).
 </div>
 
@@ -112,7 +112,7 @@ The personal lives of the two brotherpoets and the Christian concept of forgiven
 
 #### **Notes**
 
-[^1]:*F.M.S.R.* was published in 1937 by the London publisher, Arthur H. Stockwell. See Toh, H. M (2007). Introduction to Singapore poetry on Ars Interpres. Retrieved from Ars Interpres website; Pang, A., &amp; Shankar, R. (Eds.). (2015). Editors’ introduction. In Union:15 years of drunken boat, 50 years of writing from Singapore (pp. 12–13). Singapore: Ethos Books. Call no.: RSING S821 UNI
+[^1]: *F.M.S.R.* was published in 1937 by the London publisher, Arthur H. Stockwell. See Toh, H. M (2007). *[Introduction to Singapore poetry on Ars Interpres](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201578883)*. Retrieved from Ars Interpres website; Pang, A., &amp; Shankar, R. (Eds.). (2015). Editors’ introduction. In *Union:15 years of drunken boat*, 50 years of writing from Singapore (pp. 12–13). Singapore: Ethos Books. Call no.: RSING S821 UNI
 [^2]:Teo, A. (2015). Conclusion (p. 55). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), Finding Francis: A poetic adventure. Singapore: Ethos Books. Call no.: RSING S821 NG
 [^3]:Ng, F.P. (1937). F.M.S.R.: A poem. London: Arthur H. Stockwell. Call no.: RCLOS 821.9 PNG-[FRL]
 [^4]:Tatsushi Narita was looking for participants in his panel discussion titled “T.S. Eliot: East and West” but passed away before the conference convened. Although she had never met Narita in person, Ogihara-Schuck attributes the start of her research on F.M.S.R. to his last research effort before his death. Ogihara-Schuck’s paper was presented at the International Association of American Studies (IASA) conference in Poland in 2013.
