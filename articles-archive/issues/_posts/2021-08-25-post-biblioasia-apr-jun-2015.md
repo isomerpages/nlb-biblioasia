@@ -4,3 +4,31 @@ date: 2021-08-25
 permalink: /vol-11/issue-1/apr-jun-2015/
 layout: post
 ---
+<img src="/images/vol-11-issue-1/background/cover.jpg">
+
+[<b>Director's Note</b>](/vol-10/issue-4/jan-march-2015/director-note)
+
+[<b>My Leap into Movies</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/leap-into-movie)<br>
+
+
+[<b>From Tents to Picture Palaces: Early Singapore Cinema</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/early-sg-cinema)<br>Few people are aware that Singapore’s cinema history dates back to as early as 1896. **Bonny Tan** traces its development, from the days of the Magic Lantern projector to the first locally made films.
+
+
+[<b>The Golden Age of Malay Cinema: 1947–1972</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/ga-malay-cinema)<br>Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. **Nor-Afidah Bte Abd Rahman** and **Michelle Heng** recount its fabled history.
+
+
+[<b>Spies, Virgins, Pimps and Hitmen: Singapore Through the Western Lens</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/svph)<br>While Singapore’s own film industry has thrived and collapsed and then risen again, the history of foreign film production, particularly that of filmmakers from Europe and America making movies in and about the island is a long and fascinating one. This history is a reflection of the way Singapore has transformed over the last 50 years as well as changing perceptions of Singapore in the West.
+
+
+[<b>The Revival of Singapore Cinema: 1995–2014</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/revival-sg-cinema)<br>Singapore’s film industry gets a reboot as it enters a new phase of its development. **Raphaël Millet** explains how this resurgence came about.
+
+
+[<b>My Movie Memorabilia</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/movie-memorabilia)<br>**Wong Han Min**’s treasure trove of film memorabilia – collected over three decades – provides a glimpse of Singapore’s rich cinematic past.
+
+
+[<b>Culture on Celluloid: Alternative Films in Singapore</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/culture-on-celluloid)<br>Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years. **Gracie Lee** charts the challenges of alternative cinema in our city. 
+
+[<b>A Moving Journey: Film, Archiving and Curatorship</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/culture-on-celluloid)<br>
+
+
+[<b>Searching for Singapore in Old Maps and Sea Charts</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/culture-on-celluloid)<br>
