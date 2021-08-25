@@ -119,7 +119,6 @@ Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien
 
 “… minutes before 8.45 pm, just about every family who had [a] Rediffusion set at home would stop whatever they were doing and crowd around the little set… Around that time, too, one could hardly find a trishaw or taxi on the road! Every trishaw rider or taxi driver would be at his or her favourite coffee shop listening to the inimitable Ong Toh… At 8.45 pm sharp, everybody at home or coffee shop stopped talking. Coffee cups would cease clinking… There would be a complete hush… all problems would be forgotten as Ong Toh transported them through time to ancient China with tales of heroism, treachery, bravery, vanity, cowardice and the like.”[^41]
 
-	
 **The Sunset Years**
 
 After peaking in the early 1980s, Rediffusion began to decline as the rising popularity of new FM radio stations and the failure of Rediffusion to obtain a free-to-air broadcasting license in the 1990s sealed its fate. Its subscription plunged by more than 40 percent, from 110,348 subscribers in 1982 to 62,940 in 1988. By 2006, it had only 8,000 subscribers.[^42]
@@ -183,6 +182,3 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 <li>Stories and memories. (2012, April 21). The Straits Times, p. 8. Retrieved from NewspaperSG.</li>
 <li>Oei, 2005, pp. 48–49.</li>
 <li>Toh, W.L. (2017, September 21). The lives they live: Blast from the past of Rediffusion’s heyday. The Straits Times, p. 12. Retrieved from NewspaperSG.</li>
-
-
-
