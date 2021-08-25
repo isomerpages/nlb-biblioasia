@@ -16,13 +16,13 @@ Before the production of Channel 8 dramas, people were hooked on traditional tal
 
 Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.[^2]: Their efforts left a mark on people like James Seah who, on the Singapore Memory Project,[^3]: recalled how these stories affected the daily rhythms of life at home. Seah had become a Rediffusion fan in 1960 when he was still in Primary 5 and was living in a kampong in Bukit Ho Swee. He wrote: 
 
-  “My mother would stop whatever housework, and I had to complete school homework before 9 pm to sit attentively on a stool beside the wooden partition of my next door neighbour. The Rediffusion was subscribed by my neighbour and he kindly shared it with us… The radio was located nearest to our side of the wooden partition and the volume… turned on to its maximum."[^4]
+ “My mother would stop whatever housework, and I had to complete school homework before 9 pm to sit attentively on a stool beside the wooden partition of my next door neighbour. The Rediffusion was subscribed by my neighbour and he kindly shared it with us… The radio was located nearest to our side of the wooden partition and the volume… turned on to its maximum."[^4]
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.JPG">
 <div style="background-color: white;"> 
 Rediffusion became an important source of entertainment in Singapore when it was introduced here in 1949, especially for people living in kampongs that did not have access to electricity. Rediffusion sets, which were essentially loudspeakers with built-in amplifiers, did not depend on electricity because power was supplied by the same cable that delivered the radio signal.
 Courtesy of National Archives of Singapore.
-	</div>
+</div>
 
 Apart from stories, Rediffusion also broadcast recordings of outdoor stage shows such as concerts and music programmes, which were mainly in Chinese. Recordings of Chinese wayang (street opera) performances, in particular, were well received until the 1970s when boxing match commentaries took over.[^5]
 
@@ -149,7 +149,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 <div style="background-color: white;">
 <br><br>
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara.jpeg" style="width: 100px; height: 100px;"><br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara.jpeg"><br>
 <center><b>Barbara Quek</b>
 Barbara Quek is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </center>
