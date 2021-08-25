@@ -4,7 +4,9 @@ date: 2021-08-24
 permalink: /vol-11/issue-1/apr-jun-2015/svph
 layout: post
 ---
-#### While Singapore’s own film industry has thrived and collapsed and then risen again, the history of foreign film production, particularly that of filmmakers from Europe and America making movies in and about the island is a long and fascinating one. This history is a reflection of the way Singapore has transformed over the last 50 years as well as changing perceptions of Singapore in the West.
+#### VIRGINS, PIMPS AND HITMEN Singapore Through the Western Lens Western filmmakers have always had a fascination for Singapore. **Ben Slater** tells you why
+
+While Singapore’s own film industry has thrived and collapsed and then risen again, the history of foreign film production, particularly that of filmmakers from Europe and America making movies in and about the island is a long and fascinating one. This history is a reflection of the way Singapore has transformed over the last 50 years as well as changing perceptions of Singapore in the West.
 
 #### **The First Films** 
 In the early 1930s, Frank Buck - the self-promoting Texan showman and exotic animal “collector” - pitched up in Singapore with a small film crew to shoot a version of his bestselling memoir <i>Bring ‘Em Back Alive</i> (1932), re-enacting scenes of tigers and elephants being captured in their natural habitat. It was a huge success and spawned several sequels. Singapore, as depicted by Buck, contrasted the untamed wilderness of the jungle with the colonial sophistication of the Raffles Hotel. The result was a compelling myth of tropical Asia that was eagerly consumed by American film audiences. 
@@ -15,10 +17,7 @@ In travelling to Asia as filmmakers, Wing and Buck were pioneers. During this pe
 
 This fabricated Singapore was the perfect setting for Hollywood melodramas and thrillers concerning desperate souls set adrift in inhospitable foreign climes. The lovers in Alfred Hitchcock’s <i>Rich And Strange</i> (1931), for instance, wind up in Singapore briefly, as do the heroes and <i>femme fatales of Night Cargo</i> (1936), <i>The Letter</i> (1930), adapted from a famous story by Somerset Maugham, <i>The Blonde from Singapore</i> (1941) and <i>Singapore</i> (1947), a loose remake of Casablanca that features Ava Gardner speaking Malay! This cycle of “Singapore noir” films reached its apotheosis with Robert Aldrich’s explosive and bleak <i>World For Ransom</i> (1954), made using leftover sets (and actors) from the low-budget TV adventure series entitled <i>China Smith</i>, also set in our ersatz Lion City.
 
-#### **VIRGINS, PIMPS AND HITMEN** 
 
-**Singapore Through the Western Lens**
-Western filmmakers have always had a fascination for Singapore. **Ben Slater** tells you why
 
 #### **The Spying Sixties** 
 From the 1960s, as Singapore gained independence and modernised rapidly, foreign film crews became commonplace, their arrival coinciding with the decline of the local film industry. Low-budget filmmaking was flourishing in the US and Europe, successful genres were quickly copied and exploited, and the “production value” provided by shooting in exotic foreign places more than made up for the price of long-distance air tickets (which were quite affordable at the time) and the effort of hauling over equipment and people. 
