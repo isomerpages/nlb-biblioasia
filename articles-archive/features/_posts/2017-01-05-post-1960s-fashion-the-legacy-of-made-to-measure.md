@@ -148,4 +148,28 @@ When they sold out, it was the sign that he and his wife needed to change their 
 
 Before long, Mr Choong was retailing jersey-knit men’s shirts from the Parisian Montagut label at Caprice and Mrs Choong had brought in Biba, Bill Gibbs, Jean Muir and Mary Quant to Glamourette. However, their younger son Jacob K.H. recalls that it was when designers experimented with shiny new waterproof materials with a futuristic look using PVC and Perspex to create “Wet Look” fashion that his parents found they had hit upon their bestsellers of the 1960s.
 
+![Alt text for image on Isomer site](/images/space1.png)
+
 |*Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades* is published by Straits Times Press. The 160-page illustrated book retails for $35 (excluding GST) and is available at major bookshops and online bookshops such as [www.stpressbooks.com.sg](https://www.stpressbooks.com.sg) and Amazon. The book is also available for reference and loan at Lee Kong Chian Reference Library and branches of all public libraries (Call no.: RSING 746.92095957 DES and 746.92095957 DES).|
+
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png">
+“Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades” was written by John de Souza, Cat Ong and Tom Rao. All three authors cut their teeth on Singapore’s fashion scene in the 1980s as writers and editors for “The Strait Times” as well as leading fashion and beauty magazines such as “Her World”, “Elle” and “Marie Claire”. They continue to keep a pulse on the ever evolving fashion scene today.</div>
+
+#### **References**
+
+De Souza, J., Ong, C., &amp; Rao, T. (2016). *[Fashion most wanted: Singapore’s top insider secrets from the past five decades](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912)*. Singapore: Straits Times Press Pte Ltd. Call no.: RSING 746.92095957 DES
+
+Lee, V. (2015, November 16). The Life interview with Lim Chong Keat. *The Straits Times*. Retrieved from [Factiva](http://eresources.nlb.gov.sg/).
+
+Olson, H.S. (1967). *Olson’s orient guide*. Philadelphia, New York: J.B. Lippincott Company. Not available in NLB holdings.
+
+Powell, P.&amp; Peel, L. (1988). *50s and 60s style*. Grange Books, Quintet Publishing Ltd: Groovy Gear. Not available in NLB holdings.
+
+Ruzita Zaki. (Interviewer). (1996, February 13; 1996, February 28). *[Oral history interview with Vernon Christopher Cornelius](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/5a584d4c-115f-11e3-83d5-0050568939ad?keywords=vernon%20cornelius&amp;keywords-type=all)* [Transcript of Recording No. 001711, Reels 15, 16, 17]. Retrieved from [National Archives of Singapore website](http://www.nas.gov.sg/archivesonline/).
+
+The Most Famous Hotels in the World. (1986–2016). *Raffles Hotel: Famous guests*. Retrieved from The Most Famous Hotels in the World website.
+
+Singapore’s own Twiggy Rabiah. (1991). *I[n Her World Annual 1991: 30 years of style](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049407)* (A special anniversary issue). Singapore: Times Publishing. Call no.: RCLOS 052 HWA
