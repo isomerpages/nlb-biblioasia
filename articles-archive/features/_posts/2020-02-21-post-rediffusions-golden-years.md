@@ -19,7 +19,7 @@ Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.[^2]: 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.JPG">
 <div style="background-color: white;"> 
 Rediffusion became an important source of entertainment in Singapore when it was introduced here in 1949, especially for people living in kampongs that did not have access to electricity. Rediffusion sets, which were essentially loudspeakers with built-in amplifiers, did not depend on electricity because power was supplied by the same cable that delivered the radio signal.
-*Courtesy of National Archives of Singapore*.
+	<i>Courtesy of National Archives of Singapore</i>.
 </div>
 
 Apart from stories, Rediffusion also broadcast recordings of outdoor stage shows such as concerts and music programmes, which were mainly in Chinese. Recordings of Chinese wayang (street opera) performances, in particular, were well received until the 1970s when boxing match commentaries took over.[^5]
@@ -58,7 +58,7 @@ According to his daughter, Lee started out telling stories while sitting on a bo
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Lee%20Dai%20Soh.JPG">
 <div style="background-color: white;"> 
-Cantonese raconteur Lee Dai Soh doing what he did best, 1966. Lee Dai Soh Collection, *courtesy of National Archives of Singapore*.
+Cantonese raconteur Lee Dai Soh doing what he did best, 1966. Lee Dai Soh Collection, <i>courtesy of National Archives of Singapore</i>.
 </div>
 
 The master storyteller became a household name in the 1950s and 1960s. Apart from Rediffusion, he also made recordings for the Australian Broadcasting Commission station in Singapore, which were broadcast to countries such as Malaysia, Vietnam and Hong Kong.[^25]
@@ -147,7 +147,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg">
 	
 **Barbara Quek** is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
