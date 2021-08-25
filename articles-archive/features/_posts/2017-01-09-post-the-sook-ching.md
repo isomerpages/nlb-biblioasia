@@ -129,11 +129,11 @@ For me personally, Sook Ching was  no “purification through purge.” Yes, my 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/the-sook-ching/blank-author.png">
+<img src="/images/Vol-12-issue-4/the-sook-ching/blank-author.png" style="width: 100px; height: 100px;">
 	<b>Goh Sin Tub</b> (1927–2004) wore many hats in his lifetime – as teacher, social worker, high-ranking civil servant, banker and property developer, and also as chairman of the Board of Governors at St Joseph’s Institution. Although he had been writing since his school and university days, he only pursued it seriously after his retirement in 1986. Although Goh was a prolific writer of short stories, he also wrote poetry and two noteworthy novels. In all, he published 20 books during his two-decade-long writing career, mainly about Singapore and its struggles during its transformative years.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
 #### Notes
 
