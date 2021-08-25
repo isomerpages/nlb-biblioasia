@@ -75,10 +75,13 @@ The AFA has come a long way from when it started 10 years ago by the visionary T
 #### **THE 19TH SEAPAVAA CONFERENCE** 
 
 Hosted by the AFA and supported by the National Library Board, Singapore, the 19th South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) Conference and General Assembly will take place from 22 to 28 April 2015. The week-long event at the National Library Building will feature a two-day symposium with concurrent sessions, institutional visits, Restoration Asia II (an event focusing on the restoration of films in Asia or about Asia), workshops, and an excursion. A total of 48 papers will be presented during the conference on topics such as archival advocacy, archival repatriation, professional development, repurposing of archives, technical, organisational and professional sustainability, and archives at risk. For more information, visit www. seapavaaconference.com. The theme for the 2015 SEAPAVAA conference is <i>Advocate. Connect. Engage.</i> This theme resonates closely with the thrust of AFA’s programmes and the three objectives contained in its mission statement - “To Save, Explore, and Share the Art of Asian Cinema”.
-PICTURE
+
+![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/logo_w_title.jpg)<div style="background-color: white;"></div>
 
 #### **DIGITAL FILM RESTORATION** 
 Digital film restoration is a highly specialised and laborious process. It involves the complex use of technological software and equipment that are designed to ingest huge amounts of data. The simplified workflow diagram below gives an idea of the three main parts of digital film restoration - repair and cleaning; restoration and preservation; and access output.
+
+![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/process.jpg)<div style="background-color: white;"></div>
 
 #### **THE GENESIS OF THE ASIAN FILM ARCHIVE** 
 
@@ -112,8 +115,32 @@ The AFA has since grown from strength to strength, expanding its collection, eng
 
 <i>**Thong Kay Wee** is the Outreach Officer of the Asian Film Archive (AFA). One part publicist and one part curator, he is responsible for devising strategies to propagate the archive’s mission and film collection. In his free time, he considers himself an independent moving image artist.</i>
 
-PICTURE
-
-Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/SKP_0517.jpg)<div style="background-color: white;">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i></div>
 	
-	**Karen Chan** is Executive Director of the Asian Film Archive (AFA). Besides overseeing the growth, preservation and curation of the AFA’s collection, she teaches film literacy and preservation courses to educators, students and filmmakers. Karen also serves on the Executive Council of the South East Asia-Pacific Audiovisual Archive Association.
+**Karen Chan** is Executive Director of the Asian Film Archive (AFA). Besides overseeing the growth, preservation and curation of the AFA’s collection, she teaches film literacy and preservation courses to educators, students and filmmakers. Karen also serves on the Executive Council of the South East Asia-Pacific Audiovisual Archive Association.
+
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Academy of Motion Picture Arts and Sciences. Science and Technology Council. (2007). <i>Digital dilemma: Strategic issues in archiving and accessing digital motion picture materials.</i> Beverly Hills, Calif.: Academy of Motion Picture Arts and Sciences. (Not available in NLB holdings)
+
+Asian Film Archive &amp; National Archives of Singapore. (2005). <i>AFA signs first MOU with the National Archives of Singapore</i>. Retrieved from Asianfilm archive website.
+
+Cherchi Usai, P. (2001). *[The death of cinema: History, cultural memory and the digital dark age](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10218607)*. London: British Film Institue. (Call no.: 778.58 CHE)
+
+Cherchi Usai, P. et al. (Eds.). (2008). *[Film curatorship: Archives, museums and the marketplace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)* (p. 170). Österreichisches Filmmuseum: |SYNEMA--Gesellschaft für Film und Medien. (Call no.: 025.1773 FIL)
+
+Edmonson, R. (2004). <i>Audiovisual archiving: Philosophy and principle</i>. Paris: Unesco. (Not available in NLB holdings)
+
+Jones, J. (2012). <i>The past is a moving picture: Preserving the twentieth century on film</i> (p. 9). Florida: University Press of Florida. (Not available in NLB holdings)
+
+Kula, S. (2002). *[Appraising moving images: Assessing the archival and monetary value of film and video records](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11729063)*. Lanham: Scarecrow Press. (Call no.: R 025.1773 KUL)
+
+Kwok, Y. (2005, January 21). *[Archive alive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050121-1.2.133.13)*. <i>The Straits Times</i>, p. 15. Retrieved from NewspaperSG. 
+
+Lim, B.C. (2013, Spring). Archival fragility: Philippine cinema and the challenge of sustainable preservation. <i>Newsletter</i>, 67, 18–21. 
+
+Personal communication with Tan, B.T., 23 December 2014.
+
+Tan, J. (2005, January 25). *[Film buffs to the rescue](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050121-1.2.43.1)*. <i>Today</i>, p. 32. Retrieved from NewspaperSG.
