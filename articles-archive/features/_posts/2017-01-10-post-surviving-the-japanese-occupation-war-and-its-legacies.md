@@ -81,7 +81,7 @@ This map and its accompanying booklet contain annotated photographs of 83 key lo
 
 As the war in China waged on and hostilities in Europe broke out, the British colonial administration began to prepare the local population for the possibility of war in Malaya. Initially, the preparations were subtle, such as familiarising the public with air raid precautions and basic civil defence skills, but from 1941 onwards, the war preparations became more overt with screening of the population and recruiting locals to join the military.
 
-In that same year, it became compulsory for all non-military residents of Singapore to carry identity cards under the Defence (Security Registration) Regulations.2 These cards – that allowed the government to screen the population for potential spies – were among the first ominous signs of the looming war.
+In that same year, it became compulsory for all non-military residents of Singapore to carry identity cards under the Defence (Security Registration) Regulations.[^2] These cards – that allowed the government to screen the population for potential spies – were among the first ominous signs of the looming war.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/6-surviving-japanese-occupation.jpg)
 <div style="background-color: white;">(Left) Identity cards issued under the Defence (Security Registration) Regulations donated by A.J. Tyler, Chin Sin Chong, David E.S. Chelliah and Victor Tan. Courtesy of National Archives of Singapore.</div>
@@ -92,9 +92,9 @@ In that same year, it became compulsory for all non-military residents of Singap
 
 Also found in this section of the exhibition are *sensō sakusen kirokuga* (war campaign documentary paintings). A few months before the fall of Singapore, the Japanese military administration started to send prominent Japanese artists to various parts of Southeast Asia to paint scenes of war based on photographs or after talking to soldiers on the ground.
 
-These depictions of war, which took the form of postcards and paintings, were distributed to Japanese soldiers and exhibited both in the newly conquered territories and in Japan to highlight the bravery of the military.3
+These depictions of war, which took the form of postcards and paintings, were distributed to Japanese soldiers and exhibited both in the newly conquered territories and in Japan to highlight the bravery of the military.[^3]
 
-There are five postcards and two watercolour paintings on display, donated to the NAS by Taka Sakurai, formerly an officer with the propaganda department of the Imperial Japanese Army. Sakurai produced these postcards based on artists’ impressions of scenes of Singapore after the fighting ceased. The postcards were then distributed to Japanese soldiers to commemorate their victory.4
+There are five postcards and two watercolour paintings on display, donated to the NAS by Taka Sakurai, formerly an officer with the propaganda department of the Imperial Japanese Army. Sakurai produced these postcards based on artists’ impressions of scenes of Singapore after the fighting ceased. The postcards were then distributed to Japanese soldiers to commemorate their victory.[^4]
 
 **Becoming Syonan**
 
@@ -102,11 +102,11 @@ On 18 February 1942, Singapore was officially renamed Syonan-to, meaning “Ligh
 
 ##### “Screened” stamp
 
-One of the first actions by the Japanese military in Syonan was a mass screening or *dai kenshō* (大検証; “great inspection”), which the Chinese later referred to as Sook Ching (肃清). Such screenings to identify anti-Japanese elements in the population had been carried out whenever Japan conquered new territories in China. Three days after the British surrender in Singapore, Chinese males aged between 18 and 50 were ordered to report to screening centres − and in the confusion, some women and children went as well.5
+One of the first actions by the Japanese military in Syonan was a mass screening or *dai kenshō* (大検証; “great inspection”), which the Chinese later referred to as Sook Ching (肃清). Such screenings to identify anti-Japanese elements in the population had been carried out whenever Japan conquered new territories in China. Three days after the British surrender in Singapore, Chinese males aged between 18 and 50 were ordered to report to screening centres − and in the confusion, some women and children went as well.[^5]
 
 At the reporting centres, those who received a stamp with the character “検” (or “examined”) were allowed to leave. Some people brought Overseas Chinese registration passes issued by the Chinese consulate in the pre-war period and had them stamped; while others recounted getting stamped on their T-shirts, other personal identification documents, or even on parts of their body.
 
-One survivor recounted:“When I went home, I had the rubber stamp with the word ‘cleared’ [‘検’] or something like that. I made sure that the stamp lasted as long as possible. So washing my hands, whenever I took my bath, I got to raise my arm up to make sure the stamp there was not washed away… Wherever you go, you have to show your arm to the Japanese soldiers.”6
+One survivor recounted:“When I went home, I had the rubber stamp with the word ‘cleared’ [‘検’] or something like that. I made sure that the stamp lasted as long as possible. So washing my hands, whenever I took my bath, I got to raise my arm up to make sure the stamp there was not washed away… Wherever you go, you have to show your arm to the Japanese soldiers.”[^6]
 
 Apart from displays of such documents, the exhibition also allows visitors to experience first-hand accounts of Sook Ching survivors by listening to oral history excerpts.
 
@@ -182,10 +182,10 @@ Singapore 588192|
 
 #### Notes
 
-Foreword to The Japanese Occupation: Singapore 1942–1945. (1985). Singapore: Archives &amp; Oral History Department. Call no.: RCLOS q779.995957 JAP
-Public &amp; security registration. (1941, December 27). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 6. Retrieved from NewspaperSG.
-Tsuruya, M. (2005). Sensō sakusen Kirokuga (War campaign documentary paintings): Japan’s national imagery of the “Holy War”, 1937–1945, pp. 1–3 (Doctoral dissertation, School of Arts and Sciences, University of Pittsburgh). Retrieved from University of Pittsburg website.
-Yeo, C. (Interviewer). (2006, June 30). Oral history interview with Taka Sakurai [Transcript of Recording no. 003068/03/03, pp. 1–64]. Retrieved from National Archives of Singapore website.
-W.K. (2001, April 11). Justice done? Criminal and moral responsibility issues in the Chinese massacres trial Singapore, 1947, pp. 3–4 (Genocide Studies Program Working Paper No. 18, Branford College, Yale University). Retrieved from the Battle of Manila Online website.
-Chua, S.K. (Interviewer). (1982, February 2). Oral history interview with Heng Chiang Ki [Transcript of Recording No. 000152/08/02, pp. 20–21]. Retrieved from National Archives of Singapore website.
-Ho, C.T. (2013, April 3). Taking care of its own: Establishing the Singapore Department of Social Welfare, 1946–1949, pp. 12–13. Retrieved from Academia website.
+[^1]:*Foreword to* *The Japanese Occupation: Singapore 1942–1945. (1985)*. Singapore: Archives &amp; Oral History Department. Call no.: RCLOS q779.995957 JAP
+[^2]:Public &amp; security registration. (1941, December 27). *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 6. Retrieved from NewspaperSG.
+[^3]:Tsuruya, M. (2005). *Sensō sakusen Kirokuga (War campaign documentary paintings): Japan’s national imagery of the “Holy War”,* 1937–1945, pp. 1–3 (Doctoral dissertation, School of Arts and Sciences, University of Pittsburgh). Retrieved from University of Pittsburg website.
+[^4]:Yeo, C. (Interviewer). (2006, June 30). *Oral history interview with Taka Sakurai* [Transcript of Recording no. 003068/03/03, pp. 1–64]. Retrieved from National Archives of Singapore website.
+[^5]:W.K. (2001, April 11). *Justice done? Criminal and moral responsibility issues in the Chinese massacres trial Singapore*, 1947, pp. 3–4 (Genocide Studies Program Working Paper No. 18, Branford College, Yale University). Retrieved from the Battle of Manila Online website.
+[^6]:Chua, S.K. (Interviewer). (1982, February 2). *Oral history interview with Heng Chiang Ki* [Transcript of Recording No. 000152/08/02, pp. 20–21]. Retrieved from National Archives of Singapore website.
+[^7]:Ho, C.T. (2013, April 3). *Taking care of its own: Establishing the Singapore Department of Social Welfare*, 1946–1949, pp. 12–13. Retrieved from Academia website.
