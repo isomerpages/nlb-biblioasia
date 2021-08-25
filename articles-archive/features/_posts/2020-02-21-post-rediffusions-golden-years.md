@@ -200,7 +200,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 38. [^38]:
 39. [^39]:
 40. [^40]:
-Tan, J. (2006, May 24). Time to move on. Today, p. 38. Retrieved from NewspaperSG.
+Tan, J. (2006, May 24). [Time to move on](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20060524-2.2.49.1). Today, p. 38. Retrieved from NewspaperSG.
 Lam, D. (1990, November 22). Passionate pursuit. The Straits Times, p. 10. Retrieved from NewspaperSG.
 Zakir Hussain. (2009, April 17). Telling stories so that others may remember. The Straits Times, p. 28. Retrieved from NewspaperSG.
 Toh, C. (2013, May 31). Rediffusion returns as digital-only service. Today, p. 30. Retrieved from NewspaperSG.
@@ -209,4 +209,3 @@ The Straits Times, 21 Apr 2012, p. 8.
 The Straits Times, 15 Apr 2012, p. 2; Xu, H. (2012, May). Rediffusion and its glorious 63 years. Retrieved from Remember Singapore website.
 Xu, H. (2012). Rediffusion and its glorious 63 years. Retrieved from Remember Singapore website.
 The Straits Times, 21 Apr 2021, p. 8.
-
