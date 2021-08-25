@@ -1,9 +1,10 @@
 ---
 title: Searching for Singapore in  Old Maps and Sea Charts
 date: 2021-08-25
-permalink: /articles-archive/features/permalinksos
+permalink: /vol-11/issue-1/apr-jun-2015/search-sg-old-map
 layout: post
 ---
+
 #### **Kwa Chong Guan** dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.**
 
 The study of maps has traditionally been the purview of geographers. Maps are a documentation of the landscapes that geographers study, and as such, have not attracted the attention of historians whose primary concern is the study of events. But maps document the spatial context within which the events that historians study occur. This essay examines how early modern European maps and sea charts of Asia are significant for what they show of Singapore's historical significance and strategic location two centuries before Stamford Raffles claimed it. 
