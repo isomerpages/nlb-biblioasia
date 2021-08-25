@@ -27,7 +27,7 @@ Apart from stories, Rediffusion also broadcast recordings of outdoor stage shows
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
 <div style="background-color: white;"> 
 A Rediffusion set from the 1950s. The radio service was transmitted via cable. Courtesy of National Museum of Singapore, National Heritage Board.
-An undated recording session in progress at a Rediffusion studio. Image reproduced from *Rediffusion Singapore, photographs, circa 1948–1987*. (Call no.: RCLOS 384.540655957 RED)
+An undated recording session in progress at a Rediffusion studio. Image reproduced from <i>Rediffusion Singapore, photographs, circa 1948–1987</i>. (Call no.: RCLOS 384.540655957 RED)
 </div>
 
 Rediffusion became popular at a time when the majority of Singaporeans lived in rural areas and  not many households could afford a television set. Besides, Rediffusion triumphed over the  state-owned broadcaster because it had a clear advantage over conventional radio services  operated  by   the  state.[^6]
@@ -147,7 +147,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg">
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg" style="width: 100px; height: 100px;">
 	
 **Barbara Quek** is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
