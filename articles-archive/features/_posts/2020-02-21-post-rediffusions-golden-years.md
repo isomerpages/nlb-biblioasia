@@ -6,7 +6,7 @@ layout: post
 ---
 #### Singapore’s only cable radio service was an instant hit when it was launched in 1949. **Barbara Quek** charts the history of the pioneering broadcasting station.
 
-<img style="width: 500px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG" style="width: 500px; height: 300px;">
 <div style="background-color: white;"> 
 (Left) A Rediffusion set from the 1950s. The radio service was transmitted via cable.<i> Courtesy of National Museum of Singapore, National Heritage Board.</i>
 (Right) An undated recording session in progress at a Rediffusion studio. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)</i>
@@ -144,7 +144,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg">
 	
 **Barbara Quek** is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
@@ -176,7 +176,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
  [^21]:Hong, X. (2007, August 2). [Big Fool’s reign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070802-1.2.70.4.5). *The Straits Times*, p. 54. Retrieved from NewspaperSG.
  [^22]:Tang, K.F. (1989, March 24). [Storyteller Lee Dai Soh dies while waiting to see doctor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1). *The Straits Times*, p. 22; [Obituary](http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324.2.49.3). (1989, March 24). *The Straits Times*, p. 38. Retrieved from NewspaperSG.
 [^23]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1)*, 24 Mar 1989, p. 22.
- [^24]:[The Straits Times](http://eresourcigitised/Article/straitstimes19890324-1.2.28.1), 2 Aug 2007, p. 54; Liew, S.C. (1978, May 9). [The storyteller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64). New Nation*, pp. 10–11; [Radio Malaya’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960418-1.2.73.5.5) (1996, April 18).*The Straits Times*, p. 16; N. Balakrishnan (1986, October 6). [Man who brought the ‘sound box’ to S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861006-1.2.32.7).*The Straits Times*, p. 15. Retrieved from NewspaperSG.
+ [^24]:[The Straits Times](http://eresourcigitised/Article/straitstimes19890324-1.2.28.1), 2 Aug 2007, p. 54; Liew, S.C. (1978, May 9). [The storyteller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64). *New Nation*, pp. 10–11; [Radio Malaya’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960418-1.2.73.5.5) (1996, April 18).*The Straits Times*, p. 16; N. Balakrishnan (1986, October 6). [Man who brought the ‘sound box’ to S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861006-1.2.32.7).*The Straits Times*, p. 15. Retrieved from NewspaperSG.
 [^25]:[*New Nation*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64), 9 May 1978, pp. 10–11.
  [^26]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1)*, 24 Mar 1989, p. 22; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1)*, 2 Aug 2007, p. 54.
  [^27]:*[The Straits Times](http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324.2.49.3)*, 24 Mar 1989, p. 38.
