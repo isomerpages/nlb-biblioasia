@@ -5,7 +5,7 @@ permalink: /vol-15/issue-4/jan-mar-2020/rdifs-gden-yrs/
 layout: post
 ---
 <center>
-<h1 style="color:black;font-size:30px;">Rediffusion’s Golden Years</h1>
+#### **Rediffusion’s Golden Years**
 	</center>
 	
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/radio.jpg">
