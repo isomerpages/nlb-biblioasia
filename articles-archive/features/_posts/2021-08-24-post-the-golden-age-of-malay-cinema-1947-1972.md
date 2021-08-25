@@ -11,7 +11,7 @@ Azizah, the alluring customer-turned-love-interest of trishaw-rider Amran (playe
 
 <i> Penarek Becha (The Trishaw Puller) </i>  was a major box office hit when it was released in 1955 and was a watershed film[^3] for both its actor-director, P. Ramlee - the multi-hyphenate Renaissance Man of the Malay silver screen - as well as the local film industry. The success of this film paved the way for other Malays to direct films that suited the community’s sensibilities and ignited far-reaching changes in the screen image of the modern Malay and his struggle to come to terms with a rapidly changing world.[^4] 
 
-**Shaw Brothers vs Cathay-Keris**
+#### **Shaw Brothers vs Cathay-Keris**
 
 The winds of change, as far as post-World War II domestic film production was concerned, had already swept through Singapore with the 1947 release of the first post-war Malay film, <i>Seruan Merdeka (The Call For Freedom)</i>,[^5] produced by S.M. Chisty of Malayan Arts Productions, and directed by the influential Calcutta-born auteur, B.S. Rajhans, who was also the director of the first Malay-language film in Singapore, <i>Laila Majnun</i> (1934).[^6] Starring Salleh Ghani and Siti Tanjung Perak, <i>Seruan Merdeka</i> focused on how young Malay and Chinese Singaporeans came together to resist the Japanese occupiers. It was a rare screen outing as it was unusual to see both Malay and Chinese actors on the screen. Although the film was a commercial failure due to a lack of cinemas, and consequently, limited exposure, <i>Seruan Merdeka</i>[^7] marked the start of what was to become the 25-year-long golden age of Malay cinema in Singapore.[^8] 
 
