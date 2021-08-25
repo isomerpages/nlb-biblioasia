@@ -51,7 +51,7 @@ The German cartographer Martin Wald-seemüller (1470-1518) led the revision and 
 Another German cartographer, Sebastian Münster (1488-1552) produced a new edition of Ptolemy’s <i>Geography</i> in 1540 with 12 new maps and a major text, and published <i>Cosmographia</i> four years later. The work went through some 56 editions in six languages in the following century. Münster’s world map continued to follow Ptolemy’s principle, in which all the continents were linked up and enclosed the Indian Ocean, even as accumulating knowledge showed otherwise. It was only in the 17th century that this Ptolemaic image of Asia was finally abandoned.
 
 
-Tabula Asiae XI, Arnold Buckinck, 1478. The earliest map in the National Library's rare maps collection is a 1478 Ptolemaic map. The “Aurea Chersonesus” (or Golden Chersonese) in the map refers to the Malay Peninsula. <i>Collection of the National Library, Singapore.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/Tabula_Asiae_XI_combined.jpg)<div style="background-color: white;">Tabula Asiae XI, Arnold Buckinck, 1478. The earliest map in the National Library's rare maps collection is a 1478 Ptolemaic map. The “Aurea Chersonesus” (or Golden Chersonese) in the map refers to the Malay Peninsula. <i>Collection of the National Library, Singapore.</i></div>
 
 #### **Recovering Ptolemy’s Legacy in SE Asia** 
 
@@ -76,8 +76,9 @@ It was not until 1999 when new interest in Gibson-Hill’s insights was revived 
 In his essay “Sailing Past Singapore”, <sup>11</sup> Kwa Chong Guan argues that Gibson-Hill’s charting of the use and disuse of the various channels for sailing past Singapore in early modern times provides a link from the 14th-century emporium at the mouth of the Singapore River to the East India Company outpost established by Raffles. Based on the sea and the channels the mariners were using to navigate past Singapore and its 60-odd surrounding islands, there was much activity, as documented in the sea charts and maps. The Malays, Portuguese, Dutch and British were all manoeuvring and challenging each other for control of the waters around Singapore. Raffles’ establishment of an East India Company factory on Singapore was not so much about gaining territory but a continuation of this struggle for control over its waterways for British shipping in the region. 
 
 In another essay, <sup>12</sup> Peter Borschberg draws attention to a little-known schematic map of a Dutch-Portuguese naval confrontation at the eastern entrance of the Tebrau Straits in October 1603, which the German publisher Theodore de Bry had included as an appendix in his multi-volume compilation of early 16th-century voyages and travels to the East and West Indies, <i>Peregrinationum in Indiam Oriental et Indiam Occidentales</i>. Borschberg traces the circumstances leading to this naval battle to the Sultan of Johor’s seizure, with Dutch aid, of a fully laden Portuguese carrack - the <i>Santa Catarina</i> - which was returning from Macao in February 1603.The Portuguese blockaded the Johor capital at Batu Sawa and captured and occupied the old capital at Johor Lama. It was during this Johor-Portuguese confrontation that the Dutch intervened in support of Johor and stepped up their attacks on Portuguese ships in the waters around Singapore. Johor-Dutch cooperation culminated in an alliance that provided the Dutch East India Company the rights and privileges to trade with Johor and an agreement to mount a joint attack on Portuguese-occupied Melaka.
-PICTURE
-This map shows the Old Strait (“estreito velho”) as a narrow channel running east-west of the southern coast of Singapore island. The New Strait (“estreito novo”) is found further south of the Old Strait. This detail is taken from a 19th-century facsimile of Manuel Godinho de Eredia’s 1604 map in Malaca, L’Inde Orientale et le Cathay. Collection of the National Library, Singapore.
+
+
+![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/eredia.jpg)<div style="background-color: white;">This map shows the Old Strait (“estreito velho”) as a narrow channel running east-west of the southern coast of Singapore island. The New Strait (“estreito novo”) is found further south of the Old Strait. This detail is taken from a 19th-century facsimile of Manuel Godinho de Eredia’s 1604 map in Malaca, L’Inde Orientale et le Cathay. Collection of the National Library, Singapore.</div>
 
 #### **A History Long Before 1819** 
 
@@ -85,4 +86,32 @@ From this perspective, these early modern sea charts are more than an encapsulat
 
 <i>Several of the maps mentioned in this article are currently on display at the exhibition “Land of Gold and Spices: Early Maps of Southeast Asia” at level 11, National Library Building (see text box for more details).</i>
 
+![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/last.jpg)<div style="background-color: white;"></div>
+
 **Kwa Chong Guan** dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.
+
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Braddell, R.St.J. (1980). *[A study of ancient times in the Malay Peninsula and the Straits of Malacca and notes on ancient times in Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4284660)*. Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society. (Call no.: RDLKL 959.01 BRA)
+
+Borschberg, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)* (pp. 60–112). Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
+
+Gibson-Hill, C.A. (1956, December). *[Singapore: Old Strait and new harbour, 1300–1870](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)*. (Memoirs (Raffles Museum), No. 3). Singapore: Government Printers. (Call no.: RCLOS 959.51 BOG)
+
+Godinho de Eredia, M. (1997). *[Eredia’s description of Malacca, Meridonial India and Cathay](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9014418)*. Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.5118 GOD)
+
+Mills, J.V. (1937, December). On a collection of Malayan maps in Raffles Library. <i>Journal of the Malayan Branch of the Royal Asiatic Society</i>, 15 (3), 49–63. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
+
+Miskic, J.N., &amp; Low, C-A, M.G. (Eds.). (2004). *[Early Singapore 1300s─1819: Evidence in maps, test and artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)*. Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
+
+Parry, D.E. (2005). *[The cartography of the East Indian islands: Insulae Indiae Orientalis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569)*. London: Countrywide editions. (Call no. RSING q912.59 PAR)
+
+Tibbetts, G.R. (1979). <i>Study of the Arabic texts containing materials on South-East Asia, oriental translation fund</i>New Series, Vol. 44). Leiden: E.J. Brill for the Royal Asiatic Society. (Not available in NLB holdings)
+
+Wheatley, P. (1961). *[The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D. 1500](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462)*. Kuala Lumpur: University of Malayan Press. (Call no.: RSING 959.5 WHE)
+
+Wheatley, P. (1983). *[Nagara and commandery: Origins of the Southeast Asian urban traditions](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2907872)*. Chicago: University of Chicago Dept. of Geography. (Call no.: RSEA 301.360959 WHE)
+
+#### **NOTES**
