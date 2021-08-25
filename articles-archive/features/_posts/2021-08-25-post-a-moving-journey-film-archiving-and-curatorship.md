@@ -134,7 +134,7 @@ Asian Film Archive &amp; National Archives of Singapore. (2005). <i>AFA signs fi
 
 Cherchi Usai, P. (2001). *[The death of cinema: History, cultural memory and the digital dark age](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10218607)*. London: British Film Institue. (Call no.: 778.58 CHE)
 
-Cherchi Usai, P. et al. (Eds.). (2008). *[Film curatorship: Archives, museums and the marketplace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)* (p. 170). Österreichisches Filmmuseum: |SYNEMA--Gesellschaft für Film und Medien. (Call no.: 025.1773 FIL)
+Cherchi Usai, P. et al. (Eds.). (2008). *[Film curatorship: Archives, museums and the marketplace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)* (p. 170). Österreichisches Filmmuseum: lSYNEMA--Gesellschaft für Film und Medien. (Call no.: 025.1773 FIL)
 
 Edmonson, R. (2004). <i>Audiovisual archiving: Philosophy and principle</i>. Paris: Unesco. (Not available in NLB holdings)
 
