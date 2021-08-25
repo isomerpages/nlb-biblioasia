@@ -18,7 +18,7 @@ Such was the draw of bangsawan in the pre-war years that people living in Tanjon
 
 “The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.”[^3]
 
-<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG" width="50" height="50">
+<img height="50" width="50" src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG">
 <div style="background-color: white;">
 Theatre Royal on North Bridge Road, c. 1910. The theatre was opened by Chinese Peranakan businessman Cheong Koon Seng in 1908. The Star Opera Company that he established was based at the theatre. <i>Courtesy of National Archives of Singapore</i>.</div>
 
@@ -87,3 +87,44 @@ Theatre Royal was the brainchild of Chinese Peranakan businessman Cheong Koon Se
 
 <img src="/images/Vol-15-issue-4/theatres-of-bangsawan/building%20plan.JPG">
 <div style="background-color: white;">Building plan of Theatre Royal, 1907. The theatre was designed by Messrs Swan and Maclaren for Peranakan businessman Cheong Koon Seng.<i> Building Control Division Collection, courtesy of National Archives of Singapore.</i></div>
+
+Even members of royalty would make an appearance there as *bangsawan* fan, Abu Talib bin Ally, recalled:
+
+“Itu theatre dia, banyak orang-orang kenamaan tengok. Kalau raja-raja yang hendak tengok semua, nanti dia taruh kain kuning tempat dia.”[^23]
+
+(Translation: At his theatre, many dignitaries went to watch [*bangsawan*]. If royals attended the shows, yellow cloth would be placed over their seats.)
+
+The opening of Theatre Royal heralded the golden age of *bangsawan* in Singapore and Malaya. More and more *bangsawan* troupes were formed, and as appetite for the performances grew, the newspapers were filled with advertisements for local and touring *bangsawan* companies from the 1910s till the 1930s. For instance, in 1909, Cheong Koon Seng launched his own *bangsawan* company, Star Opera Company, which was based at Theatre Royal.[^24] Splinter groups also formed as members of established troupes left to establish their own acts.[^25]
+
+The increased demand for *bangsawan* also led to more venues for the performances. New theatres were mentioned in the papers, such as Beyrouth Theatre, which opened in 1921 opposite Geylang Police Station on Geylang Road. Beyrouth was home to Nahar Opera, a large *bangsawan* troupe comprising some 90 performers and 28 musicians.[^26]
+
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/gw%20amusement%20pk.JPG">
+<div style="background-color: white;">Great World amusement park bounded by Kim Seng, River Valley and Zion roads, 1950s. It was the venue of regular bangsawan performances. <i>Courtesy of National Archives of Singapore.</i></div>
+
+Amusement parks such as Great World in River Valley and Happy Valley in Tanjong Pagar also hosted regular *bangsawan* programmes. Zubir Said, composer of *Majulah Singapura*, the national anthem of Singapore, started out as a musician in the City Opera *bangsawan* troupe based in Happy Valley after arriving in Singapore in 1928. He recalled that the hall, as big as Victoria Theatre, was specially built for the performances, and that there were also living quarters on the park grounds for *bangsawan performers*.27
+
+Besides local *bangsawan* troupes, travelling acts from the region also performed at the theatres and halls in Singapore. Sometimes, performing tents would be specially erected for the duration they were based on the island. In 1928, *The Singapore Free Press and Mercantile Advertiser* reported on the popularity of such shows:
+
+“An attraction which never fails to draw crowds in any town either of Malaya or of the Dutch East Indies is described by a visit of a *Bangsawan*, or opera company… The personnel… is generally mixed, containing Malays, Eurasians, and sometimes Chinese players. Travelling from town to town, like a circus, the company pitches its tent on the medan and at once begins to advertise its presence by the distribution of leaflets.”28
+
+Hamid bin Ahmad, who wrote *bangsawan* scripts, said in his oral history interview in 1987 that tents for *bangsawan* performances used to be erected on the vacant plot of land on Geylang Road, just beside the MRT station facing City Plaza.29
+
+*Bangsawan*, however, was not the only draw of these performing venues. In an era of heady live entertainment before cinema became mainstream, performances such as variety shows, revues, vaudevilles, circuses, magic acts, acrobatics and even sports events were frequently staged. Theatre Royal and Alexandra Hall, for example, were famous for hosting high-profile wrestling and boxing matches featuring local and overseas champions in the pre-war years. The former was said to be filled to the brim with spectators every week for boxing promotions.30
+
+#### A Gradual Decline
+
+“I am afraid the talkies and the slump together are trying to oust the* Bangsawan* from its rightful place in the Malayan scheme of things.”31
+
+<div style="text-align: right">– Dr Kamel Mohamed Ariff, at a lecture on Malay poetry and bangsawan, 1932</div>
+
+As more cinemas were built and watching films became a popular pastime among Singaporeans, live entertainment such as* bangsawan* became less attractive. By the late 1930s, advertisements touting *bangsawan* performances became few and far between.
+
+Mohd Buang bin Marzuki, a former violinist and pianist for various *bangsawan* troupes, pointed to the advent of films in the 1930s as the start of *bangsawan*’s decline:
+
+“…ini gambar boleh bercakap… Singapore punya orang semua ini gambar boleh bercakap, “Baguslah, bercakap” dia orang bilang. Jadi semua orang bertumpulah di situ. Wayang [bangsawan] dah jadi kendur merosot. Baik-baik boleh dapat $30, makin kurang, kadang $20, kadang satu sen [pun] tak dapat … Gambar bagus-bagus main, semua bercakap menyanyi. Itulah yang jadi bangsawan merosot, sudah kurang orang. Sekali masuk ini filem, Melayu punya, terus sekali habis. Filem P Ramlee sekali masuk, habis sekali … gambar Melayu.”32
+
+(Translation: The pictures could talk… The people in Singapore all praised these talking pictures, so all of them went to the pictures. Bangsawan thus began declining. On a good day, we could make $30, sometimes less, $20, sometimes not even a cent… The nice pictures could talk, sing. So *bangsawan* declined, fewer people. When Malay films entered the scene, it became even worse [for* bangsawan*]. When P. Ramlee’s films were launched, it became even worse.)
+
+When Cheong Koon Seng died in 1934 at the age of 55, his family sold Theatre Royal to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas.33
+
+Amalgamated Theatres immediately set to work modernising the place. In February 1935, Theatre Royal, “once the favourite Star Opera”, had its grand opening with a Hindustani film, *Krishna Sudama*, produced by the well-known Ranjit Studio of Bombay.34 The grand dame of *bangsawan* performances was transformed into a cinema screening films from India, with the occasional live act from Indian theatrical and performing groups.35 Eventually, Tamil talkies replaced *bangsawan* as the mainstay of the Theatre Royal, now renamed Royal Theatre.
