@@ -107,9 +107,7 @@ Then of course there were the legendary storytellers who helped Rediffusion ceme
 
 Ann Tang, who fondly remembers her grandmother listening to the Cantonese raconteur, said:
 
-<div>
 “My early memories of Rediffusion were in the 1970s. It was my grandmother’s only pastime, listening to Cantonese storyteller Lee Dai Soh… Every night after dinner, my siblings and I would climb onto granny’s bed and she would re-tell the story she had heard. That was how I came to know the stories from Romance of the Three Kingdoms – General Cao Cao and Guan Yu, [the] war strategist who could borrow the north wind to defeat their enemies, and Dream of the Red Chamber, even though I did not study Chinese.”[^40]
-</div>
 
 Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien. Tan Bah Bah, a former journalist with the New Nation newspaper, was one of those spellbound by Ong’s storytelling when he was a child. He recalled:
 
@@ -121,7 +119,7 @@ Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien
 After peaking in the early 1980s, Rediffusion began to decline as the rising popularity of new FM radio stations and the failure of Rediffusion to obtain a free-to-air broadcasting license in the 1990s sealed its fate. Its subscription plunged by more than 40 percent, from 110,348 subscribers in 1982 to 62,940 in 1988. By 2006, it had only 8,000 subscribers.[^42]
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Cantopop.JPG">
-	<div style="background-color: white;"> 
+<div style="background-color: white;"> 
 Cantopop diva Frances Yip with Rediffusion DJ Larry Lai at a satellite station in Metro Golden Mile, 1971. Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)
 	</div>
 
@@ -158,7 +156,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 <div style="background-color: white;">
 <br><br>
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara.jpeg" style="width: 100px; height: 100px;"><br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara.jpeg"><br>
 	<center>**Barbara Quek**<br>
 Barbara Quek is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </center>
