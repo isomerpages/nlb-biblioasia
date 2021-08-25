@@ -6,6 +6,9 @@ layout: post
 ---
 #### The changing face of fashion in Singapore is the subject of a new book called *Fashion Most Wanted*. This extract recalls how the advent of TV impacted new fashion trends in the 1960s.
 
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/1960s-fashion/01-1960s-fashion.png)
+<div style="background-color: white;">A model wearing a creation from Janilaine, one of Singapore’s most prominent made-to-measure clothing shops in the1960s. <i>Courtesy of Singapore Press Holdings.</i></div>
+
 The neighbourhood dressmaker who relied on paper patterns and her pedal-powered Singer sewing machine, the exacting Shanghainese tailor who draped the body and crafted by hand, the Indian tailor – immaculate in a crisp white shirt and spotless *dhoti* – who arrived at your doorstep to take your measurements. These were the “magicians of style” in Singapore half a century ago.
 
 Says retired personal assistant Carol de Souza: “They only needed to see a photo from *Vogue* or another magazine in order to turn out a dress that looked exactly like the photo.”
@@ -155,17 +158,17 @@ Before long, Mr Choong was retailing jersey-knit men’s shirts from the Parisia
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png">
 “Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades” was written by <b>John de Souza, Cat Ong and Tom Rao</b>. All three authors cut their teeth on Singapore’s fashion scene in the 1980s as writers and editors for “The Strait Times” as well as leading fashion and beauty magazines such as “Her World”, “Elle” and “Marie Claire”. They continue to keep a pulse on the ever evolving fashion scene today.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png">
 “Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades” was written by <b>John de Souza, Cat Ong and Tom Rao</b>. All three authors cut their teeth on Singapore’s fashion scene in the 1980s as writers and editors for “The Strait Times” as well as leading fashion and beauty magazines such as “Her World”, “Elle” and “Marie Claire”. They continue to keep a pulse on the ever evolving fashion scene today.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png">
 “Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades” was written by <b>John de Souza, Cat Ong and Tom Rao</b>. All three authors cut their teeth on Singapore’s fashion scene in the 1980s as writers and editors for “The Strait Times” as well as leading fashion and beauty magazines such as “Her World”, “Elle” and “Marie Claire”. They continue to keep a pulse on the ever evolving fashion scene today.</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
