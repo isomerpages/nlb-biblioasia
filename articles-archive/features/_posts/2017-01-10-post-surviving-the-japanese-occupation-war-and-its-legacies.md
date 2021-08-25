@@ -129,3 +129,52 @@ After the war, Haxworth rejoined the police force and stayed there until his ret
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/7-surviving-japanese-occupation.jpg)
 <div style="background-color: white;">(Left) Records from the British Military Administration files pertaining to the case of Joseph Francis. British Military Administration files, File reference 28/45. Courtesy of National Archives of Singapore. </div>
 <div style="background-color: white;">(Right) William R.M. Haxworth’s sketches depict the harsh and cramped conditions at the POW camps. W R M Haxworth Collection, courtesy of National Archives of Singapore.</div>
+
+**Legacies of War and Occupation**
+
+On 5 September 1945, the British returned to Singapore to great relief and rejoicing among the people. However, the initial euphoria soon waned: the wartime experience and the subsequent problems the local population faced, coupled with the inability of the British Military Administration (BMA) to deal with the issues competently, left the people with a less rosy view of the British.
+
+For six months after the Japanese surrender, Singapore and Malaya were run by the interim BMA. People nicknamed it the “Black Market Administration” because it was plagued by corruption and inefficiency. Nonetheless, the BMA, despite difficult post-war conditions, did the best it could to restore public utilities and services, distribute war relief, and ease conditions for business and social activities.
+
+The legacies of war were manifested at various levels − from grand British plans for decolonisation and the social challenges of postwar reconstruction to the political awakening of the people across the political spectrum.
+
+Rounding off the final section of the exhibition is a reflective space where visitors are encouraged to consider how they remember the war and its legacies.
+
+##### Post-war policies
+
+There were significant shifts in terms of social policy in the immediate post-war years. The colonial government adopted a more involved approach to education, housing, health care and social welfare in Singapore, in line with the moderate socialist approach of post-war Britain. These moves were also part of the plan to unite Singapore’s plural society in preparation for decolonisation.
+
+A Department of Social Welfare, for instance, was set up in in June 1946 to continue the BMA’s work of tackling the lingering social problems caused by the Occupation. The department set up free feeding centres for children, as well as “People’s Restaurants”, where anyone could buy a cheap and nutritious lunch for 35 cents (later, 8-cent meals were introduced to help the urban poor).[^7]
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/8-surviving-japanese-occupation.jpg)
+<div style="background-color: white;">(Left) Children’s feeding centre in the post-war period. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">(Right) A poster written with blood and Chinese brush ink protesting the arrest of members of the Malayan Communist Party in 1946. Courtesy of the Ministry of Home Affairs, Internal Security Department Heritage Centre.</div>
+
+##### Poster to protest arrests of communists
+
+One of the most profound changes of the war and Occupation was the realisation that the British did not have an inalienable right to rule Singapore. This political awakening coupled with the success of the Malayan People’s Anti-Japanese Army during the Occupation resulted in communism gaining traction as a political ideology in the post-war years.
+
+Written with blood and Chinese brush ink, this poster (see image above) was created as a means of protest against police raids on the Malayan Communist Party and other pro-communist organisations on the eve of the 15 February demonstrations in 1946. The communists had organised the agitations as part of their plan to undermine the British. While the demonstrations were ostensibly meant to commemorate the fall of Singapore, the British authorities viewed it as an insult as it was on this day in 1942 that they had surrendered to the Japanese.
+
+In 1948, the Malayan Communist Party abandoned the “united front” strategy of peaceful struggle and pushed for an armed struggle, leading the British to declare a state of Emergency. The ensuing clashes between communists and the colonial government would have far-reaching consequences in shaping the post-war political landscape in Singapore and Malaya.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+</div>
+
+|Surviving the Japanese Occupation: War and its Legacies|
+
+Former Ford Factory
+351 Upper Bukit Timah Road,
+Singapore 588192
+
+Mondays to Saturdays,
+9am – 5.30pm
+
+Sundays,
+12 noon – 5.30pm
+
+Daily guided tours are available.
+
+Visit www.nas.gov.sg/formerfordfactory for more information.
