@@ -173,24 +173,13 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 10.  [^10]:*Singapore [Rediffusion](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6138747)*, [198-], p. 1; Goh, Y.L. (1986, October 6). [The entertainment house that Jack built](http://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19861006-1.2.24.1). *The Business Times*, p. 8. Retrieved from NewspaperSG.
 11.  [^11]:Singapore International Chamber of Commerce. (1979). *[From early days](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4182013)* (p. 136). Singapore: Singapore International Chamber of Commerce. (Call no.: RSING 380.10655957 SIN)
 12.  [^12]:[Move to new home will help: Rediffusion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890203-1.2.8.5) (1989, February 3). *The New Paper*, p. 6; [Revamp a boost for Rediffusion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890206-1.2.22.13) (1989, February 6).*The Straits Times*, p. 12. Retrieved from NewspaperSG.
-13.  [^13]:
-14.  [^14]:
-15.  [^15]:
-16.  [^16]:
-17.  [^17]:
-18.  [^18]:
-19.  [^19]:
+13.  [^13]:*Singapore [Rediffusion](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6138747)*,  [198-], p. 2.
+14.  [^14]:	Oei, R. (2002). *[Borderless bandwidth: DNA of digital radio](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11568745)* (p. 111). Singapore: Times Academic Press. (Call no.: RSING 384.54 OEI)
+15.  [^15]:	Oei, R. (2005). *[Riding the bandwidth](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12457580)*(pp. 48–49). Singapore: Marshall Cavendish Academic. (Call no.: RSING 384.54 OEI); *Remembering Rediffusion Singapore*. (2010). Retrieved from Rediffusion (Singapore) Limited website.
+16.  [^16]:*[Singapore Rediffusion](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6138747)*, [198-], p. 4; [*Move to new home will help: Rediffusion*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890203-1.2.8.5) (1989, February 3). The New Paper, p. 6. Retrieved from NewspaperSG.
+17.  [^17]:[Stories and memories](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120421-1.2.125.7.1). (2012, April 21). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+18.  [^18]:[Oei](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12457580), 2005, pp. 48–49.
+19.  [^19]:Toh, W.L. (2017, September 21). [T](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170921-1.2.46.4)[he lives they live: Blast from the past of Rediffusion’s heyday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170921-1.2.46.4). The Straits Times, p. 12. Retrieved from NewspaperSG.
 20.  [^20]:
 21.  [^21]:
 
-	
-	
-	
-	
-<li><i>Singapore</i> Rediffusion,  [198-], p. 2.</li>
-	<li>Oei, R. (2002). <i>Borderless bandwidth: DNA of digital radio</i> (p. 111). Singapore: Times Academic Press. (Call no.: RSING 384.54 OEI)</li>
-	<li>Oei, R. (2005). <i>Riding the bandwidth</i> (pp. 48–49). Singapore: Marshall Cavendish Academic. (Call no.: RSING 384.54 OEI); <i>Remembering Rediffusion Singapore</i>. (2010). Retrieved from Rediffusion (Singapore) Limited website.</li>
-<li>Singapore Rediffusion, [198-], p. 4; Move to new home will help: Rediffusion (1989, February 3). The New Paper, p. 6. Retrieved from NewspaperSG.</li>
-<li>Stories and memories. (2012, April 21). The Straits Times, p. 8. Retrieved from NewspaperSG.</li>
-<li>Oei, 2005, pp. 48–49.</li>
-<li>Toh, W.L. (2017, September 21). The lives they live: Blast from the past of Rediffusion’s heyday. The Straits Times, p. 12. Retrieved from NewspaperSG.</li>
