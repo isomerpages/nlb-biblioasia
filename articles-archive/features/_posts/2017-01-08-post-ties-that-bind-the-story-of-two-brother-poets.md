@@ -16,6 +16,4 @@ by Teo Kah Leng
 
 When American Studies scholar, Dr Eriko Ogihara-Schuck, embarked on the proverbial journey of a thousand miles to find out all she could about the elusive poet behind F.M.S.R.1 – widely acknowledged as one of the first notable works of English poetry by a Singaporean writer – little did she suspect that her research would unravel the mystery of not just one but two long-forgotten poets.
 
-Ultimately, this would set in motion a chain of events that would turn the dregs of a family’s painful war-torn past into a serendipitous “reunion” of two talented brother-poets2 and the publication of two unique collections of poetic works. | ![Alt text for image on Isomer site](/images/Vol-12-issue-4/1-findingfrancis.jpg) |
-
-
+Ultimately, this would set in motion a chain of events that would turn the dregs of a family’s painful war-torn past into a serendipitous “reunion” of two talented brother-poets2 and the publication of two unique collections of poetic works. |![Alt text for image on Isomer site](/images/Vol-12-issue-4/ties-that-bind/1-findingfrancis.jpg)<div style="background-color: white;">*Finding Francis: A Poetic Adventure and I Found A Bone and Other Poems* were published in 2015 and 2016 respectively by Ethos Books.</div>|
