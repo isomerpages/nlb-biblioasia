@@ -125,3 +125,7 @@ On his release, Francis required extensive medical care and he eventually died i
 Also worth seeing are the selection of sketches, drawn from a collection of over 300 that were secretly sketched by former police inspector William R.M. Haxworth during his internment at Changi Prison and Sime Road Camp. The sketches depict the crowded and unsanitary living conditions at the camps, and capture the internees’ decline in health and weight over time. Several sketches reveal Haxworth’s ability to find humorous moments and comic relief through his art in spite of the difficult circumstances.
 
 After the war, Haxworth rejoined the police force and stayed there until his retirement in 1954. In 1986, one year after he passed away, his wife donated his entire set of sketches to the NAS.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/7-surviving-japanese-occupation.jpg)
+<div style="background-color: white;">(Left) Records from the British Military Administration files pertaining to the case of Joseph Francis. British Military Administration files, File reference 28/45. Courtesy of National Archives of Singapore. </div>
+<div style="background-color: white;">(Right) William R.M. Haxworth’s sketches depict the harsh and cramped conditions at the POW camps. W R M Haxworth Collection, courtesy of National Archives of Singapore.</div>
