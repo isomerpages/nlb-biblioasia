@@ -1,9 +1,10 @@
 ---
 title: My Leap Into Movies
 date: 2021-08-24
-permalink: /articles-archive/features/permalink
+permalink: /vol-11/issue-1/apr-jun-2015/leap-into-movie
 layout: post
 ---
+
 <img src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile.jpg"><div style="background-color: white;">
 Theatre thespian and film director Glen Goei reflects on his transition from the stage to cinema screen..
 </div>	
