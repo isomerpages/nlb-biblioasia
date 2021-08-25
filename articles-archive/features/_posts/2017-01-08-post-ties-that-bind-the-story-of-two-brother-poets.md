@@ -4,7 +4,7 @@ date: 2017-01-08
 permalink: /vol-12/issue-4/jan-mar-2017/ties-that-bind
 layout: post
 ---
-#### An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. Michelle Heng has the story.
+#### An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. **Michelle Heng** has the story.
 
 “I held the arm bone in my hand,
 And let my warm tears fall;
@@ -104,7 +104,7 @@ The personal lives of the two brotherpoets and the Christian concept of forgiven
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/ties-that-bind/michelle.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/ties-that-bind/michelle.png">
 	<b>Michelle Heng</b>  is a Literary Arts Librarian at the National Library, Singapore. She has curated a tribute showcase, "Edwin Thumboo – Time-travelling: A Poetry Exhibition" in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, "Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems" (2012) as well as the "Selected Poems of Goh Poh Seng" (2013).
 </div>
 
