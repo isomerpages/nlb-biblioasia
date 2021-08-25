@@ -4,7 +4,6 @@ date: 2021-08-25
 permalink: /vol-11/issue-1/apr-jun-2015/search-sg-old-map
 layout: post
 ---
-
 #### **Kwa Chong Guan** dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.**
 
 The study of maps has traditionally been the purview of geographers. Maps are a documentation of the landscapes that geographers study, and as such, have not attracted the attention of historians whose primary concern is the study of events. But maps document the spatial context within which the events that historians study occur. This essay examines how early modern European maps and sea charts of Asia are significant for what they show of Singapore's historical significance and strategic location two centuries before Stamford Raffles claimed it. 
@@ -21,7 +20,8 @@ We believe in maps because they help us to locate ourselves in unfamiliar places
 
 What do we make of a 16th-century Portuguese sea chart of the Straits of Melaka and Singapore that does not mark a Cingaporla, Cingatola or Cinghapola, (the old Portuguese transcriptions for Singapura) where we expect to see it? Is the chart therefore inaccurate and to be disregarded? Or, should we not ask why the Portuguese cartographer misrepresented the location of Cingaporla? Is Singapore the “Sabana Emporium” located on the southern edge of the Golden Khersonese or Golden Peninsula in the 16th-century rendition of a world map based on the work of the 2nd-century Greek astronomer Claudius Ptolemy? If so, then we should intensively study Ptolemy’s map for what else it can tell us about this earliest possible mention of a settlement on this island. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/Cantino_Chart.jpg)<div style="background-color: white;">Cantino Chart, Anonymous 1502. Based on the latest information from Portuguese explorations, secretly obtained by Albert Cantino, the map depicts the Malay Peninsula as an elongated promontory that reaches the south of the equator. <i>Biblioteca Estense Universitaria, Modena, C.G.A. Permission from the Ministry of Arts, Culture and Tourism, Italy.</i></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/Cantino_Chart.jpg)
+<div style="background-color: white;">Cantino Chart, Anonymous 1502. Based on the latest information from Portuguese explorations, secretly obtained by Albert Cantino, the map depicts the Malay Peninsula as an elongated promontory that reaches the south of the equator. <i>Biblioteca Estense Universitaria, Modena, C.G.A. Permission from the Ministry of Arts, Culture and Tourism, Italy.</i></div>
 
 In reality, the early Portuguese, and all other European cartographers, were in a sense filling in the blank spaces of their maps with toponyms, geographical details and historical data of the lands they were exploring. In choosing what to mark on the maps, they were in fact documenting a vision of the East as lands of great wealth, the locus of King Soloman’s Ophir with its abundance of gold, silver and other gems which Ptolemy’s poetic reference to the Golden Khersonese confirmed. Asianus in Latin (or Asianos in Greek) was believed to be the source of things exotic: silks and spices, aromatic herbs, intoxicating drugs, places of golden opportunities. Was this continent of Asianus really located at the furthest edge of a flat world as depicted in medieval maps of the Christian world, or was the world a sphere as Ptolemy had calculated? 
 
@@ -52,7 +52,8 @@ The German cartographer Martin Wald-seemüller (1470-1518) led the revision and 
 Another German cartographer, Sebastian Münster (1488-1552) produced a new edition of Ptolemy’s <i>Geography</i> in 1540 with 12 new maps and a major text, and published <i>Cosmographia</i> four years later. The work went through some 56 editions in six languages in the following century. Münster’s world map continued to follow Ptolemy’s principle, in which all the continents were linked up and enclosed the Indian Ocean, even as accumulating knowledge showed otherwise. It was only in the 17th century that this Ptolemaic image of Asia was finally abandoned.
 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/Tabula_Asiae_XI_combined.jpg)<div style="background-color: white;">Tabula Asiae XI, Arnold Buckinck, 1478. The earliest map in the National Library's rare maps collection is a 1478 Ptolemaic map. The “Aurea Chersonesus” (or Golden Chersonese) in the map refers to the Malay Peninsula. <i>Collection of the National Library, Singapore.</i></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/Tabula_Asiae_XI_combined.jpg)
+<div style="background-color: white;">Tabula Asiae XI, Arnold Buckinck, 1478. The earliest map in the National Library's rare maps collection is a 1478 Ptolemaic map. The “Aurea Chersonesus” (or Golden Chersonese) in the map refers to the Malay Peninsula. <i>Collection of the National Library, Singapore.</i></div>
 
 #### **Recovering Ptolemy’s Legacy in SE Asia** 
 
@@ -79,7 +80,8 @@ In his essay “Sailing Past Singapore”,[^11] Kwa Chong Guan argues that Gibso
 In another essay,[^12] Peter Borschberg draws attention to a little-known schematic map of a Dutch-Portuguese naval confrontation at the eastern entrance of the Tebrau Straits in October 1603, which the German publisher Theodore de Bry had included as an appendix in his multi-volume compilation of early 16th-century voyages and travels to the East and West Indies, <i>Peregrinationum in Indiam Oriental et Indiam Occidentales</i>. Borschberg traces the circumstances leading to this naval battle to the Sultan of Johor’s seizure, with Dutch aid, of a fully laden Portuguese carrack - the <i>Santa Catarina</i> - which was returning from Macao in February 1603.The Portuguese blockaded the Johor capital at Batu Sawa and captured and occupied the old capital at Johor Lama. It was during this Johor-Portuguese confrontation that the Dutch intervened in support of Johor and stepped up their attacks on Portuguese ships in the waters around Singapore. Johor-Dutch cooperation culminated in an alliance that provided the Dutch East India Company the rights and privileges to trade with Johor and an agreement to mount a joint attack on Portuguese-occupied Melaka.
 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/eredia.jpg)<div style="background-color: white;">This map shows the Old Strait (“estreito velho”) as a narrow channel running east-west of the southern coast of Singapore island. The New Strait (“estreito novo”) is found further south of the Old Strait. This detail is taken from a 19th-century facsimile of Manuel Godinho de Eredia’s 1604 map in Malaca, L’Inde Orientale et le Cathay. Collection of the National Library, Singapore.</div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/eredia.jpg)
+<div style="background-color: white;">This map shows the Old Strait (“estreito velho”) as a narrow channel running east-west of the southern coast of Singapore island. The New Strait (“estreito novo”) is found further south of the Old Strait. This detail is taken from a 19th-century facsimile of Manuel Godinho de Eredia’s 1604 map in Malaca, L’Inde Orientale et le Cathay. Collection of the National Library, Singapore.</div>
 
 #### **A History Long Before 1819** 
 
@@ -87,7 +89,8 @@ From this perspective, these early modern sea charts are more than an encapsulat
 
 <i>Several of the maps mentioned in this article are currently on display at the exhibition “Land of Gold and Spices: Early Maps of Southeast Asia” at level 11, National Library Building (see text box for more details).</i>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/last.jpg)<div style="background-color: white;"></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/last.jpg)
+<div style="background-color: white;"></div>
 
 **Kwa Chong Guan** dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.
 
