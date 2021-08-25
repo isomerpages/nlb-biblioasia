@@ -127,6 +127,14 @@ For me personally, Sook Ching was  no “purification through purge.” Yes, my 
 
 |“The Sook Ching” was first published in 2004 as part of Walk Like a Dragon, a collection of short stories by Goh Sin Tub and published by Angsana Books. In 2016, “The Sook Ching” was reprinted along with other short stories by well-known Singaporean writers in a new anthology called Written Country: The History of Singapore Through Literature. Compiled and edited by Gwee Li Sui and published by Landmark Books, Written Country reconstructs the history of modern Singapore through 50 stories that capture pivotal moments in Singapore’s history. The 355-page book retails for $23.37 (excluding GST) at major bookstores and is also available for reference and loan at Lee Kong Chian Reference Library and branches of all public libraries (Call no. RSING S820.8 WRI and S820.8 WRI).|
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/the-sook-ching/blank-author.png">
+	<b>Goh Sin Tub</b> (1927–2004) wore many hats in his lifetime – as teacher, social worker, high-ranking civil servant, banker and property developer, and also as chairman of the Board of Governors at St Joseph’s Institution. Although he had been writing since his school and university days, he only pursued it seriously after his retirement in 1986. Although Goh was a prolific writer of short stories, he also wrote poetry and two noteworthy novels. In all, he published 20 books during his two-decade-long writing career, mainly about Singapore and its struggles during its transformative years.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+
 #### Notes
 
 [^1]:According to official accounts, Singapore fell to the Japanese on 15 February 1942. The British surrender took place at the old Ford Factory in Bukit Timah, where the Japanese had set up their headquarters.
