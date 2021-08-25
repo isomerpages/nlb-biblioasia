@@ -28,7 +28,7 @@ layout: post
 
 [<b>Culture on Celluloid: Alternative Films in Singapore</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/culture-on-celluloid)<br>Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years. **Gracie Lee** charts the challenges of alternative cinema in our city. 
 
-[<b>A Moving Journey: Film, Archiving and Curatorship</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/culture-on-celluloid)<br>
+[<b>A Moving Journey: Film, Archiving and Curatorship</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/moving-journey)<br>As the Asian Film Archive celebrates its 10th anniversary, **Karen Chan** takes a look back at the genesis of the organisation, the work it does and its plans for the future.
 
 
-[<b>Searching for Singapore in Old Maps and Sea Charts</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/culture-on-celluloid)<br>
+[<b>Searching for Singapore in Old Maps and Sea Charts</b>](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/search-sg-old-map)<br>**Kwa Chong Guan** dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.
