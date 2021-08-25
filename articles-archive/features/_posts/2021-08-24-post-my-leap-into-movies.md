@@ -4,7 +4,8 @@ date: 2021-08-24
 permalink: /vol-11/issue-1/apr-jun-2015/leap-into-movie
 layout: post
 ---
-<img src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile.jpg"><div style="background-color: white;">
+<img src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile.jpg">
+<div style="background-color: white;">
 Theatre thespian and film director Glen Goei reflects on his transition from the stage to cinema screen..
 </div>	
 	
@@ -28,7 +29,8 @@ I didn't know of any production company that worked solely in film. In desperati
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_3.jpg)
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_5.jpg)<div style="background-color: white;">
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_5.jpg)
+<div style="background-color: white;">
 Film stills from <i>Forever Fever</i> (1998), starring Adrian Pang, Pierre Png, Anna Belle Francis and Medaline Tan. <i>Courtesy of Tiger Tiger Pictures</i>.</div>
 
 Eleven years later, when I made my second film <i>The Blue Mansion</i>, I wasn’t as fortunate. I blew the budget and despite good reviews, the murder-mystery thriller set in Penang turned out to be a financial disaster at the box office. I lost all the money I had made on <i>Forever Fever</i>. Once again, I found it hard to find a producer who could handle the demands of a feature film. Local producers rarely have the opportunity to handle big budgets and shoot large-scale films. Truth be told, it’s a chicken-and-egg situation: local films remain small because the market for them is small. I needed - and still need - producers who can handle the funding, the budgeting, and manage the scale and complexities of making a feature film; the demands are completely different from television. 
