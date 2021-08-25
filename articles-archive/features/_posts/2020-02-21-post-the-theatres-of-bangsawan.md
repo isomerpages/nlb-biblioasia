@@ -18,7 +18,7 @@ Such was the draw of bangsawan in the pre-war years that people living in Tanjon
 
 “The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.”[^3]
 
-<img height="50" width="50" src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG" width="50" height="50">
 <div style="background-color: white;">
 Theatre Royal on North Bridge Road, c. 1910. The theatre was opened by Chinese Peranakan businessman Cheong Koon Seng in 1908. The Star Opera Company that he established was based at the theatre. <i>Courtesy of National Archives of Singapore</i>.</div>
 
@@ -58,7 +58,7 @@ Such was the state of the theatres catering to local entertainment that when The
 #### The Allure of Bangsawan
 
 <img src="/images/Vol-15-issue-4/theatres-of-bangsawan/production.JPG">
-<div style="background-color: white;">A scene from a bangsawan production, c. 1900s. Mohd Amin bin Kadarisman Collection,<i> courtesy of National Archives of Singapore</i>.</div>
+<div style="background-color: white;">A scene from a bangsawan production, c. 1900s.<i>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</i>.</div>
 
 It is believed that the first *bangsawan* troupes made their appearance in Singapore in the late 19th century, inspired by the travelling Parsi theatre groups from Gujarat, India, which started touring Malaya and the Dutch East Indies in the 1870s.[^12]
 
@@ -74,3 +74,16 @@ By the turn of the 20th century, a number of *bangsawan* companies had been esta
 
 Stories in *bangsawan* theatre were usually adapted from the *Sejarah Melayu* (Malay Annals), the two great Indian epics the *Mahabharata* and the *Ramayana*, Arabic tales, Chinese classics, European stories and even Shakespearean plays. Each act was interspersed with performances consisting of orchestral music, songs, dances, comedy skits and novelty acts. It was not uncommon for *bangsawan* productions to include exotic songs from the Americas, Middle East and India. Musical instruments from different cultures, such as the piano, violin and tabla, were also featured.[^17]
 
+#### Theatre Royal
+
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/cks.JPG">
+<div style="background-color: white;">Cheong Koon Seng opened Theatre Royal in 1908.<i> Image reproduced from Geni.com</i></div>
+
+Located at the site now occupied by Raffles Hospital, Theatre Royal is believed to be the first “permanent” theatre for the so-called “native” form of entertainment.[^18] It was described as a “most substantial edifice of brick, iron and stone, with seating accommodation for about 1,300 people”.[^19]
+
+Theatre Royal was the brainchild of Chinese Peranakan businessman Cheong Koon Seng, who was also a Municipal Commissioner and a Justice of the Peace.[^20] Designed by Messrs Swan and Maclaren, the theatre was reported to be built along European lines in which strength and safety of the building were taken into regard.[^21] In 1908, The *Singapore Free Press and Mercantile Advertiser* gave a detailed description of the theatre prior to its opening:
+
+“The front of the building is of very ornamental design and the main entrance is by three arches opening into a spacious hall off which is the pit and stalls both of which have ample emergency exits on either side. The auditorium is rectangular on plan about 70 feet long by 60 feet deep and is provided with good dressing room accommodation and the proscenium arch is 38 feet wide by 24 feet high. In front of the stage is the usual orchestra well. The upper part of the auditorium has a horseshoe-shaped circle and gallery and is reached by two wide and easy staircases from the side of the main entrance. The building is substantially constructed, steel being largely used, the circle being supported upon steel columns with cantilevers of the same material projecting beyond the girders to form the shape. The roof is lofty and well-ventilated and supported on steel columns. The building is pleasing in appearance, well-lighted and ventilated and the comfort of the audience and the performers has been studied.”[^22]
+
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/building%20plan.JPG">
+<div style="background-color: white;">Building plan of Theatre Royal, 1907. The theatre was designed by Messrs Swan and Maclaren for Peranakan businessman Cheong Koon Seng.<i> Building Control Division Collection, courtesy of National Archives of Singapore.</i></div>
