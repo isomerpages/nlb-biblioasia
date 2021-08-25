@@ -155,17 +155,17 @@ Before long, Mr Choong was retailing jersey-knit men’s shirts from the Parisia
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png">
+<img src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png" style="width: 100px; height: 100px;">
 “Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades” was written by <b>John de Souza, Cat Ong and Tom Rao</b>. All three authors cut their teeth on Singapore’s fashion scene in the 1980s as writers and editors for “The Strait Times” as well as leading fashion and beauty magazines such as “Her World”, “Elle” and “Marie Claire”. They continue to keep a pulse on the ever evolving fashion scene today.</div>
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png">
+<img src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png" style="width: 100px; height: 100px;">
 “Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades” was written by <b>John de Souza, Cat Ong and Tom Rao</b>. All three authors cut their teeth on Singapore’s fashion scene in the 1980s as writers and editors for “The Strait Times” as well as leading fashion and beauty magazines such as “Her World”, “Elle” and “Marie Claire”. They continue to keep a pulse on the ever evolving fashion scene today.</div>
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png">
+<img src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png" style="width: 100px; height: 100px;">
 “Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades” was written by <b>John de Souza, Cat Ong and Tom Rao</b>. All three authors cut their teeth on Singapore’s fashion scene in the 1980s as writers and editors for “The Strait Times” as well as leading fashion and beauty magazines such as “Her World”, “Elle” and “Marie Claire”. They continue to keep a pulse on the ever evolving fashion scene today.</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
@@ -184,4 +184,4 @@ Ruzita Zaki. (Interviewer). (1996, February 13; 1996, February 28). *[Oral histo
 
 The Most Famous Hotels in the World. (1986–2016). *Raffles Hotel: Famous guests*. Retrieved from The Most Famous Hotels in the World website.
 
-Singapore’s own Twiggy Rabiah. (1991). *I[n Her World Annual 1991: 30 years of style](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049407)* (A special anniversary issue). Singapore: Times Publishing. Call no.: RCLOS 052 HWA
+Singapore’s own Twiggy Rabiah. (1991). *[In Her World Annual 1991: 30 years of style](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049407)* (A special anniversary issue). Singapore: Times Publishing. Call no.: RCLOS 052 HWA
