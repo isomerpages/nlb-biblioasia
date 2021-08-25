@@ -4,7 +4,7 @@ date: 2017-01-09
 permalink: /vol-12/issue-4/jan-mar-2017/the-sook-ching
 layout: post
 ---
-#### February 15 marks the 75th anniversary of  the fall of Singapore. Goh Sin Tub recounts the horrors that many Chinese suffered at the  hands of the Japanese in this short story.
+#### February 15 marks the 75th anniversary of  the fall of Singapore. **Goh Sin Tub** recounts the horrors that many Chinese suffered at the  hands of the Japanese in this short story.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/the-sook-ching/1-sook-ching.jpg)
 <div style="background-color: white;">Japanese fighter planes began air raids of Singapore on 8 December 1941. The first air raid in the early hours of that morning killed 61 and injured 133 people. In the days to come, Singapore would see frequent air raids by the Japanese, sometimes several times a day before the British officially surrendered on 15 February 1942. The numbers that died were never fully documented. <i>Pictures Collection, State Library of Victoria.</i></div>
@@ -134,7 +134,7 @@ For me personally, Sook Ching was  no “purification through purge.” Yes, my 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/the-sook-ching/blank-author.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/the-sook-ching/blank-author.png">
 	<b>Goh Sin Tub</b> (1927–2004) wore many hats in his lifetime – as teacher, social worker, high-ranking civil servant, banker and property developer, and also as chairman of the Board of Governors at St Joseph’s Institution. Although he had been writing since his school and university days, he only pursued it seriously after his retirement in 1986. Although Goh was a prolific writer of short stories, he also wrote poetry and two noteworthy novels. In all, he published 20 books during his two-decade-long writing career, mainly about Singapore and its struggles during its transformative years.
 </div>
 
