@@ -18,7 +18,7 @@ Such was the draw of bangsawan in the pre-war years that people living in Tanjon
 
 “The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.”[^3]
 
-<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG" width="50" height="50">
+<img height="50" width="50" src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG">
 <div style="background-color: white;">
 Theatre Royal on North Bridge Road, c. 1910. The theatre was opened by Chinese Peranakan businessman Cheong Koon Seng in 1908. The Star Opera Company that he established was based at the theatre. <i>Courtesy of National Archives of Singapore</i>.</div>
 
@@ -40,4 +40,37 @@ Along the same road, Lee Peck Hoon Theatre was mentioned in the early 1900s for 
 
 <img src="/images/Vol-15-issue-4/theatres-of-bangsawan/advertisement.JPG">
 <div style="background-color: white;">Advertisement for Wayang Kassim’s bangsawan production at the New Theatre Royal, 1908. Image reproduced from The Straits Times, 3 July 1908, p. 8. (right) The Star Opera Company advertising its bangsawan production at the Theatre Royal, 1910. Image reproduced from <i>The Straits Times</i>, 11 January 1910, p. 8.</div>
+
+Advertisements in the early 1900s also mentioned a “North Bridge Road Theatre”,[^8] usually leased by the popular Wayang Kassim troupe, also known as Indra Zanibar Royal Theatrical Company. At 485 North Bridge Road was the “New Parsi Theatre Hall” that was frequently leased by Wayang Pusi from Penang. The latter – also known by various names such as Indra Bangsawan, The Queen Alexandra Theatrical Company and the Empress Victoria Jawi Peranakan Theatrical Company – is commonly acknowledged to be the first *bangsawan* troupe in Malaya. A few doors away at 499 North Bridge Road was Alexandra Theatre Hall, or Alexandra Hall, leased by Opera Yap Chow Tong, a *bangsawan* troupe.
+
+What did these early theatres look like? Except for Theatre Royal, no photographic records of these theatres have been found so far, so we only have the description of the Jalan Besar theatre as a wooden building with a zinc roof.
+
+In 1896, *The Mid-Day Herald* newspaper highlighted the lack of a brick structure for “native theatre” and the hazardous conditions of the Jalan Besar theatre, despite the fact that it was certified by the Municipal Engineer as fit for use as a theatre just a year ago:[^9]
+
+“The building in which the Parsee Theatre [Jalan Besar theatre] is performing does not seem to present a stable appearance. Were it not for the ponderous props, the building will, in all probability, collapse. As large numbers of people congregate here nightly, we think the Municipality should thoroughly satisfy itself that the building is perfectly safe, as in the event of a collapse, hundreds, if not thousands, are likely to be killed or injured. It would pay anyone to erect a commodious brick structure to take the place of the present one, as native companies are almost constantly here.”[^10]
+
+By the early 20th century, more solid structures had been built. A 1903 Straits Times article complaining of overcrowding at the North Bridge Road Theatre during Wayang Kassim’s performances mentioned brick walls along the main entrance:
+
+“Not only was every available seat occupied, but the very passages in the centre of the hall and in the wings underneath the zenana class were all densely packed, being taken up by people who could not, either for love or money, find sitting accommodation of any kind within the four walls of the building. Those among the audience who left before the conclusion of the play experienced very great difficulty in making their exit, having to carefully and slowly thread their way among the maze of human beings who thronged the passages and occupied every coign of vantage, from the main entrance up to the very stage itself… There is seemingly only one public entrance from the main thoroughfare, bordered on either side by a brick wall to the length of about 30 feet or so; and in the case of a panic succeeded by a block here, the result would be too awful to contemplate.”[^11]
+
+Such was the state of the theatres catering to local entertainment that when Theatre Royal opened in 1908, it was to much fanfare and praise.
+
+#### The Allure of Bangsawan
+
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/production.JPG">
+<div style="background-color: white;">A scene from a bangsawan production, c. 1900s. Mohd Amin bin Kadarisman Collection,<i> courtesy of National Archives of Singapore</i>.</div>
+
+It is believed that the first *bangsawan* troupes made their appearance in Singapore in the late 19th century, inspired by the travelling Parsi theatre groups from Gujarat, India, which started touring Malaya and the Dutch East Indies in the 1870s.[^12]
+
+The first recorded*bangsawan* troupe, or at least the first known to use the term *bangsawan*, which means “nobility” in Malay, is Wayang Pusi or Indra Bangsawan troupe from Penang. The troupe was also known as The Queen Alexandra Theatrical Company and the Empress Victoria Jawi Peranakan Theatrical Company.[^13]
+
+By the turn of the 20th century, a number of *bangsawan* companies had been established in Malaya, such as Opera Yap Chow Thong, Wayang Kassim and the Star Opera Company. A *Straits Times* article in 1903 described *bangsawan* as follows:
+
+“The origin of these plays [Malay drama] may be dated from the early part of the 18th century, for records exist in Java of such plays as having been performed there, and these indicate that playhouses similar to the present Malay theatre commonly known as *Bangsawan*, existed at that time in a crude form. The *Bangsawan* is an opera of Indian origin conducted in the Malay language. The tunes are mostly borrowed from European operas and songs which at first seems a little odd to the listener, but the Malay – a born improvisator – makes the best of them and seems to adapt these in a truly wonderful manner to his own tongue. The Chinese actors and performers spring from the lowest classes of the population, whereas the Malay actor comes from a highly educated class and is greatly esteemed and liked by his countrymen to whom the *Bangsawan* is a source of great enjoyment. At first the actors were almost exclusively Jawi Pakans (Kling and Malay descent),[^14] but in latter years Singapore Malays and Dutch Eurasians of a good class joined the profession and consequently a much higher standard of perfection and culture has been reached.”[^15]
+
+*Bangsawan* theatre in the pre-war years was primarily a form of commercial mass entertainment, catering to a wide audience in order to compete with other forms of entertainment such as plays, dances, revues and circuses. In 1932, a European who had attended an adaptation of *Cinderella* by the Starlight Opera Company described the people he saw:
+
+“The audience was composed of a motley crowd – Malays, dressed in all colours of the rainbow, which somehow never seem to clash, predominating. Among the rest of the audience I counted a large number of Chinese, Japanese, Sikhs, Bengalis, Tamils, Eurasians, and one European – myself.”[^16]
+
+Stories in *bangsawan* theatre were usually adapted from the *Sejarah Melayu* (Malay Annals), the two great Indian epics the *Mahabharata* and the *Ramayana*, Arabic tales, Chinese classics, European stories and even Shakespearean plays. Each act was interspersed with performances consisting of orchestral music, songs, dances, comedy skits and novelty acts. It was not uncommon for *bangsawan* productions to include exotic songs from the Americas, Middle East and India. Musical instruments from different cultures, such as the piano, violin and tabla, were also featured.[^17]
 
