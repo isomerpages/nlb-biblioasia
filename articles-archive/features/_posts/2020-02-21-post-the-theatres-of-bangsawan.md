@@ -18,7 +18,7 @@ Such was the draw of bangsawan in the pre-war years that people living in Tanjon
 
 “The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.”[^3]
 
-<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG" width="50" height="50">
+<img height="50" width="50" src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG">
 <div style="background-color: white;">
 Theatre Royal on North Bridge Road, c. 1910. The theatre was opened by Chinese Peranakan businessman Cheong Koon Seng in 1908. The Star Opera Company that he established was based at the theatre. <i>Courtesy of National Archives of Singapore</i>.</div>
 
@@ -75,7 +75,7 @@ By the turn of the 20th century, a number of *bangsawan* companies had been esta
 Stories in *bangsawan* theatre were usually adapted from the *Sejarah Melayu* (Malay Annals), the two great Indian epics the *Mahabharata* and the *Ramayana*, Arabic tales, Chinese classics, European stories and even Shakespearean plays. Each act was interspersed with performances consisting of orchestral music, songs, dances, comedy skits and novelty acts. It was not uncommon for *bangsawan* productions to include exotic songs from the Americas, Middle East and India. Musical instruments from different cultures, such as the piano, violin and tabla, were also featured.[^17]
 
 #### Theatre Royal
-<img src="/images/Vol-15-issue-4//theatres-of-bangsawan/cks.JPG" style="width: 300px; height: 300px;">
+<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-4//theatres-of-bangsawan/cks.JPG">
 <div style="background-color: white;">Cheong Koon Seng opened Theatre Royal in 1908.<i> Image reproduced from Geni.com</i></div>
 
 Located at the site now occupied by Raffles Hospital, Theatre Royal is believed to be the first “permanent” theatre for the so-called “native” form of entertainment.[^18] It was described as a “most substantial edifice of brick, iron and stone, with seating accommodation for about 1,300 people”.[^19]
@@ -144,7 +144,7 @@ The gradual conversion of *bangsawan* venues to movie theatres sounded the death
 Diamond Theatre and Royal Theatre continued with their new leases of life as Tamil cinemas until the late 1970s. In 1970, the government announced its land acquisition plans in the Rochor area, which included the sites of both theatres. By the end of the 1970s, the chapter on theatres specially built for *bangsawan* performances finally came to a close when these venues were demolished, making way for urban redevelopment.[^39]
 
 <br>
-<img src="/images/Vol-15-issue-4//theatres-of-bangsawan/tch1.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4//theatres-of-bangsawan/tch1.jpg">
 <center>
 <b>Tan Chui Hua</b>
 Researcher and writer Tan Chui Hua has worked on various projects documenting the heritage of Singapore, including a number of heritage trails and publications.
@@ -153,7 +153,7 @@ Researcher and writer Tan Chui Hua has worked on various projects documenting th
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
 
 #### Notes
-[^1]:
+[^1]:New theatre opened: Wayang Kassim’s first night at the Royal. (1908, June 15). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 [^2]:
 [^3]:
 [^4]:
@@ -167,3 +167,9 @@ Researcher and writer Tan Chui Hua has worked on various projects documenting th
 [^12]:
 [^13]:
 [^14]:
+
+
+Bangsawan means “nobility” or “something noble. See Tan, S.-B. (1989, Spring-Summer). From popular to “traditional” theatre: The dynamics of change in bangsawan of Malaysia. Ethnomusicology, 33(2), 229–274, p. 232. Retrieved from JSTOR via NLB’s eResources website.
+Chew, D. (Interviewer). (1991, May 13). Oral history interview with Mohamed Sidek bin Siraj [Transcript of recording no. 001255/6/4, p. 41]. Retrieved from National Archives of Singapore website.
+Van der Putten, J. (2017). The coming of a Malay popular theatrical form (p. 141). In C. Skott (Ed.), Interpreting diversity: Europe and the Malay World. New York: Routledge. (Call no.: RSEA 959.51 INT)
+Local and general. (1891, November 21). The Daily Advertiser, p. 3. Retrieved from NewspaperSG.
