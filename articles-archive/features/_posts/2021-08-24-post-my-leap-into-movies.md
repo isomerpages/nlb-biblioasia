@@ -4,7 +4,6 @@ date: 2021-08-24
 permalink: /vol-11/issue-1/apr-jun-2015/leap-into-movie
 layout: post
 ---
-
 <img src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile.jpg"><div style="background-color: white;">
 Theatre thespian and film director Glen Goei reflects on his transition from the stage to cinema screen..
 </div>	
@@ -24,11 +23,10 @@ I didn't know of any production company that worked solely in film. In desperati
  Inexperience and a lack of resources posed critical problems to funding and budgeting. To make the film, I ended up mortgaging my apartment in London. I was stupidly naïve then, even paying huge copyright fees for the use of 10 pop songs. Fortunately, it was a risk that paid off. Harvey Weinstein from Miramax, who later picked up Forever Fever for an international release, said it was the music that allowed him to connect with the film. Fortunately, screenings in international audience markets ensured a healthy profit for <i>Forever Fever</i> - its local takings would not have come close to breaking even.
  
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever.jpg)
-<div style="background-color: white;"></div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_2.jpg)<div style="background-color: white;"></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_2.jpg)
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_3.jpg)<div style="background-color: white;"></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_3.jpg)
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_5.jpg)<div style="background-color: white;">
 Film stills from <i>Forever Fever</i> (1998), starring Adrian Pang, Pierre Png, Anna Belle Francis and Medaline Tan. <i>Courtesy of Tiger Tiger Pictures</i>.</div>
@@ -37,11 +35,11 @@ Eleven years later, when I made my second film <i>The Blue Mansion</i>, I wasn�
 
 I took a personal hit financially with <i>The Blue Mansion</i>, mainly because it failed to secure international distribution. At a foreign film market, I was told by a film executive in all seriousness that the film would sell better if it was in Chinese (I didn’t know whether to laugh or cry). In fact, for both my films, I found there to be resistance among investors and distributors to the idea of Asians speaking English in a film. In its North American release, <i>Forever Fever</i> was dubbed over by American actors because of fears that audiences would not understand the Singaporean actors. Changing a film’s language to pander to an audience market perplexes me. Shouldn’t a film’s marketability be based on its merits and not its language? 
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/TheBlueMansionPoster1.jpg)<div style="background-color: white;"></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/TheBlueMansionPoster1.jpg)
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_4.jpg)<div style="background-color: white;"></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_4.jpg)
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_5.jpg)<div style="background-color: white;"></div>
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_5.jpg)
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion.jpg)
 <div style="background-color: white;">The Blue Mansion is a murder mystery starring Lim Kay Siu (top left and middle, extreme left), Claire Wong, Louisa Chong, Adrian Pang, Tan Kheng Hua and Karen Tan (middle from left to right), and the late Emma Yong (bottom). <i>Courtesy of Tiger Tiger Pictures</i></div>
