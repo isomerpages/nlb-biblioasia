@@ -19,7 +19,7 @@ Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.[^2]: 
   “My mother would stop whatever housework, and I had to complete school homework before 9 pm to sit attentively on a stool beside the wooden partition of my next door neighbour. The Rediffusion was subscribed by my neighbour and he kindly shared it with us… The radio was located nearest to our side of the wooden partition and the volume… turned on to its maximum."[^4]
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.JPG">
-<div style="color: grey; font-size: 15px;"> 
+<div style="background-color: white;"> 
 Rediffusion became an important source of entertainment in Singapore when it was introduced here in 1949, especially for people living in kampongs that did not have access to electricity. Rediffusion sets, which were essentially loudspeakers with built-in amplifiers, did not depend on electricity because power was supplied by the same cable that delivered the radio signal.
 Courtesy of National Archives of Singapore.
 	</div>
@@ -27,7 +27,7 @@ Courtesy of National Archives of Singapore.
 Apart from stories, Rediffusion also broadcast recordings of outdoor stage shows such as concerts and music programmes, which were mainly in Chinese. Recordings of Chinese wayang (street opera) performances, in particular, were well received until the 1970s when boxing match commentaries took over.[^5]
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
-	<div style="color: grey; font-size: 15px;"> 
+	<div style="background-color: white;"> 
 A Rediffusion set from the 1950s. The radio service was transmitted via cable. Courtesy of National Museum of Singapore, National Heritage Board.
 An undated recording session in progress at a Rediffusion studio. Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)
 	</div>
@@ -97,7 +97,7 @@ Frankie Sim, who was a fan of these Rediffusion DJs, recalled:
 “I remember Top Tunes of the Week, hosted by DJ Joseph Goh, on Rediffusion… Next was the P.O. Box 608 Request programme that aired six days a week, with announcers Peggy Ross, Honey Zain, Eric Lim, Johnny Lau, Larry Lai and Tan Swee Leong. There was also From Your House, hosted by Noreen Sales; Stars on Wings, hosted by DJ Neville Powley; and Listen with Love, hosted by DJ Jeremy Ramsey Gary Love… To them and other staff, I say thank you for the music.”[^37]
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Weekly%20Compilation.JPG">
-	<div style="color: grey; font-size: 15px;"> 
+	<div style="background-color: white;"> 
 A weekly compilation of the most popular songs based on the number of requests received by Rediffusion’s English Programme Department for the week ending 23 January 1967. Image reproduced from Singapore’s “Top Tunes” (n.d.). Singapore: Rediffusion. (Call no.: RCLOS 016.78242 RSLSTT)
 	</div>
 
@@ -134,7 +134,7 @@ Ironically, one of the key reasons for Rediffusion’s early success contributed
 The cables that enabled Rediffusion to thrive in the kampong became a noose as it required an investment in cabling infrastructure, which AM and FM radios did not need. One academic study noted that Rediffusion’s “fateful mis-step may have been when it decided not to lay its wires into new HDB estates that were springing up from the 1980s”.[^46] Not investing in this meant that Rediffusion lost subscribers who had moved into these new housing estates and failed to attract new ones for a number of years.
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/1989.JPG">
-	<div style="color: grey; font-size: 15px;"> 
+	<div style="background-color: white;"> 
 The Rediffusion Building on Clemenceau Avenue, 1989. The building was later sold and in 1989, Rediffusion relocated to the new four-storey Rediffusion House on Jalan Selanting, off Upper Bukit Timah Road. Courtesy of Xu Huimin.
 	</div>
 
