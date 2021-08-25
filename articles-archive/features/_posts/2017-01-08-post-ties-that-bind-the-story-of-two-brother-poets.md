@@ -104,11 +104,11 @@ The personal lives of the two brotherpoets and the Christian concept of forgiven
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/ties-that-bind/michelle.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/ties-that-bind/michelle.png">
 	<b>Michelle Heng</b>  is a Literary Arts Librarian at the National Library, Singapore. She has curated a tribute showcase, "Edwin Thumboo – Time-travelling: A Poetry Exhibition" in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, "Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems" (2012) as well as the "Selected Poems of Goh Poh Seng" (2013).
 </div>
 
-<a href="https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
 #### **Notes**
 
