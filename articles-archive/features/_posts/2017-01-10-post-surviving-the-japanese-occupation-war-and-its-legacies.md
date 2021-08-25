@@ -177,6 +177,12 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 
 |Visit [www.nas.gov.sg/formerfordfactory](https://www.nas.gov.sg/formerfordfactory) for more information.|
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/surviving-japanese-occupation/Fiona.png">
+	<b>Fiona Tan</b> is an Assistant Archivist with the Outreach Department, National Archives of Singapore, where she conducts research to promote a greater awareness of its collections.</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
 #### Notes
 
