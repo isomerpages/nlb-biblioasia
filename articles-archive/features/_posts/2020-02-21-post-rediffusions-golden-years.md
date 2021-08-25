@@ -55,21 +55,20 @@ Rediffusion soon became a household name in Singapore.[^13] At a monthly subscri
 “… this brown box has been a part of my family since its inception in 1949… We never switched off the set and it woke me up at six to go to Chung Cheng High School. I never missed a programme hosted by Lee [Dai Soh]. Our large family of 12 often squabbled over the channels. I used to clash with my sisters when I wanted to listen to popular songs by Pat Boone and Doris Day in Top Tunes of the Week, and they wanted to listen to Cantonese opera.”[^17]
 </div>
 	
-Initially, the station broadcast programmes from the United Kingdom, but later added programmes in Chinese dialects to meet growing local demand. Soon, the station’s programmes became more popular than those produced by the state-owned radio station.<sup>18</sup> According to Lim Leng San, who used to work as a Hokkien voice actor, Rediffusion also held more appeal than television, which did not screen as many serial dramas in the Hokkien dialect.<sup>19</sup> By the 1960s, the number of Rediffusion subscribers had increased to about 50,000. The radio station continued to experience steady growth and, by 1977, had garnered 90,428 subscribers.<sup>20</sup>
+Initially, the station broadcast programmes from the United Kingdom, but later added programmes in Chinese dialects to meet growing local demand. Soon, the station’s programmes became more popular than those produced by the state-owned radio station.[^18] According to Lim Leng San, who used to work as a Hokkien voice actor, Rediffusion also held more appeal than television, which did not screen as many serial dramas in the Hokkien dialect.[^19] By the 1960s, the number of Rediffusion subscribers had increased to about 50,000. The radio station continued to experience steady growth and, by 1977, had garnered 90,428 subscribers.[^20]
 
 
 	
-<b>Master Storyteller Lee Dai Soh</b>
+**Master Storyteller Lee Dai Soh**
 				
-Lee Dai Soh (李大傻) (1913–89) was a well-known storyteller who made his name on Rediffusion. His moniker is sometimes spelt as Lee Dai Sor, which means “Big Fool Lee”<sup>21</sup> in Cantonese. He was born Lee Fook Hai and grew up in Tanjong Pagar. Although Lee only had a primary school education, he loved reading and collecting books.<sup>22</sup>
+Lee Dai Soh (李大傻) (1913–89) was a well-known storyteller who made his name on Rediffusion. His moniker is sometimes spelt as Lee Dai Sor, which means “Big Fool Lee”[^21] in Cantonese. He was born Lee Fook Hai and grew up in Tanjong Pagar. Although Lee only had a primary school education, he loved reading and collecting books.[^22]
 
-According to his daughter, Lee started out telling stories while sitting on a box under a tree in Chinatown, with a burning joss stick as his timer.<sup>23</sup> His radio career began in 1938 when he joined the British Malaya Broadcasting Corporation. After the Japanese Occupation of Singapore, he returned to his job at the company, which by then had been renamed Radio Malaya. In 1949, Lee moved over to Rediffusion when the radio station began operations in Singapore.<sup>24</sup>
+According to his daughter, Lee started out telling stories while sitting on a box under a tree in Chinatown, with a burning joss stick as his timer.[^23] His radio career began in 1938 when he joined the British Malaya Broadcasting Corporation. After the Japanese Occupation of Singapore, he returned to his job at the company, which by then had been renamed Radio Malaya. In 1949, Lee moved over to Rediffusion when the radio station began operations in Singapore.[^24]
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Lee%20Dai%20Soh.JPG">
-<center>
-	<p style="color: grey; font-size: 15px;"> 
+	<div style="background-color: white;"> 
 Cantonese raconteur Lee Dai Soh doing what he did best, 1966. Lee Dai Soh Collection, courtesy of National Archives of Singapore.
-	</p></center>
+	</div>
 
 The master storyteller became a household name in the 1950s and 1960s. Apart from Rediffusion, he also made recordings for the Australian Broadcasting Commission station in Singapore, which were broadcast to countries such as Malaysia, Vietnam and Hong Kong.<sup>25</sup>
 
