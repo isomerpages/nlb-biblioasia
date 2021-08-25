@@ -4,8 +4,7 @@ date: 2021-08-24
 permalink: /vol-11/issue-1/apr-jun-2015/ga-malay-cinema
 layout: post
 ---
-
-#### Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. **Nor-Afidah Bte Abd Rahman** and **Michelle Heng** recount its fabled history.
+#### Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. **Nor Afidah Bte Abd Rahman** and **Michelle Heng** recount its fabled history.
 
 
 Azizah, the alluring customer-turned-love-interest of trishaw-rider Amran (played by screen legend P. Ramlee) visits his run-down hut for the first time in <i>Penarek Becha</i> (1955). When Amran bemoans his humble station in life, she delivers a sagely line in return, <i> “Tuhan tidak akan memberi sahaja kalau manusia tidak berusaha</i> (God won’t just help people unless they make an effort).”[^1] The audience watches with bated breath as this beauty-with-brains helps her humble beau make a success of his life. Azizah (played by the sweetheart of Malay movies, Sa’adiah) vows to help him attend night school. This turns out to be just the kind of push an honest-but-poor trishaw rider needs to scale the rigid social ladder of the time and seek the blessings of her parents. For cinema audiences, the film’s central theme - the rejection of inequality through the pursuit of education – was a timely reminder of the need for self-reliance:[^2] Malaya was in the midst of agitating for independence from her British colonial administrators. 
