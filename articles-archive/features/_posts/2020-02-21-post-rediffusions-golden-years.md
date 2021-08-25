@@ -6,7 +6,7 @@ layout: post
 ---
 #### Singapore’s only cable radio service was an instant hit when it was launched in 1949. **Barbara Quek** charts the history of the pioneering broadcasting station.
 
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG" style="width: 500px; height: 300px;">
+<img style="width: 500px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
 <div style="background-color: white;"> 
 (Left) A Rediffusion set from the 1950s. The radio service was transmitted via cable.<i> Courtesy of National Museum of Singapore, National Heritage Board.</i>
 (Right) An undated recording session in progress at a Rediffusion studio. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)</i>
@@ -22,7 +22,7 @@ Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.[^2] T
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.JPG">
 <div style="background-color: white;"> 
-Rediffusion became an important source of entertainment in Singapore when it was introduced here in 1949, especially for people living in kampongs that did not have access to electricity. Rediffusion sets, which were essentially loudspeakers with built-in amplifiers, did not depend on electricity because power was supplied by the same cable that delivered the radio signal.<i>Courtesy of National Archives of Singapore</i>.
+Rediffusion became an important source of entertainment in Singapore when it was introduced here in 1949, especially for people living in kampongs that did not have access to electricity. Rediffusion sets, which were essentially loudspeakers with built-in amplifiers, did not depend on electricity because power was supplied by the same cable that delivered the radio signal.<i> Courtesy of National Archives of Singapore</i>.
 </div>
 
 Apart from stories, Rediffusion also broadcast recordings of outdoor stage shows such as concerts and music programmes, which were mainly in Chinese. Recordings of Chinese wayang (street opera) performances, in particular, were well received until the 1970s when boxing match commentaries took over.[^5]
@@ -76,7 +76,7 @@ In the early 1970s, Rediffusion nurtured many local talents, such as veteran Med
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/US%20actor.JPG">
 <div style="background-color: white;"> 
-Rediffusion DJ Tan Swee Leong interviewing American actor Marlon Brando at the station’s studio in Clemenceau Avenue, 1956. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987</i>. (Call no.: RCLOS 384.540655957 RED)
+Rediffusion DJ Tan Swee Leong interviewing American actor Marlon Brando at the station’s studio in Clemenceau Avenue, 1956.<i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987</i>. (Call no.: RCLOS 384.540655957 RED)
 </div>
 
 Rediffusion stalwart Tan Swee Leong, who was a popular radio and television host from the 1960s to 1980s, became a mentor to younger DJs and local bands like The Quests. Tan had a long and illustrious career with Rediffusion as one of the two popular DJs alongside Larry Lai. They were nicknamed the “terrible twins”, often engaging in friendly banter to entertain listeners. Veteran sports commentator and radio presenter Brian Richmond said he modelled himself after Tan, having been inspired by him to enter the industry when he was just a teenager.[^36]
@@ -87,7 +87,7 @@ Frankie Sim, who was a fan of these Rediffusion DJs, recalled:
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Weekly%20Compilation.JPG">
 <div style="background-color: white;"> 
-A weekly compilation of the most popular songs based on the number of requests received by Rediffusion’s English Programme Department for the week ending 23 January 1967. <i>Image reproduced from Singapore’s “Top Tunes” (n.d.). Singapore: Rediffusion</i>. (Call no.: RCLOS 016.78242 RSLSTT)
+A weekly compilation of the most popular songs based on the number of requests received by Rediffusion’s English Programme Department for the week ending 23 January 1967.<i>Image reproduced from Singapore’s “Top Tunes” (n.d.). Singapore: Rediffusion</i>. (Call no.: RCLOS 016.78242 RSLSTT)
 </div>
 
 Rediffusion Singapore also had Roger Kool, the moniker adopted by Roger Kiew, who was blind. Roger Kool made his debut on air in 1973 at the age of 19 and would go on to amass a huge following, so much so that he became known as the “king of the airwaves”.[^38]
@@ -144,7 +144,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg">
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg" style="width: 100px; height: 100px;">
 	
 **Barbara Quek** is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
