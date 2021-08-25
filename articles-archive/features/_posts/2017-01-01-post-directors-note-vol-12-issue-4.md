@@ -29,3 +29,7 @@ The Fall of Singapore on 15 February 1942 and the horrific events that followed 
 On a much lighter note, do make time to visit the exhibition, “Script & Stage: Theatre in Singapore from the 50s to 80s”, held at levels 7 and 8 of the National Library Building until 26 March 2017. Also ongoing is an exhibition on the renowned artist Tan Swie Hian in “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” at level 10.
 
 We hope you enjoy reading this edition of *BiblioAsia*.
+
+**Mrs Wai Yin Pryke**
+Director
+National Library
