@@ -8,7 +8,6 @@ layout: post
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/radio.jpg">
 
-
 Singapore’s only cable radio service was an instant hit when it was launched in 1949. **Barbara Quek** charts the history of the pioneering broadcasting station.
 
 For a generation of Singaporeans, the name Rediffusion brings back warm memories of a little nondescript brown, rectangular box blaring music and entertainment in homes and coffeeshops across Singapore in the 1960s and 1970s. This iconic radio station – known as 丽的呼声 in Mandarin (Li Di Hu Sheng) – provided countless hours of enjoyment to its listeners with the latest American pop music, dramatic stories told in Chinese dialects like Hokkien and Cantonese, and the friendly chatter of DJs at a time when home entertainment options were in short supply.
@@ -179,7 +178,27 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 16.  [^16]:*[Singapore Rediffusion](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6138747)*, [198-], p. 4; [*Move to new home will help: Rediffusion*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890203-1.2.8.5) (1989, February 3). The New Paper, p. 6. Retrieved from NewspaperSG.
 17.  [^17]:[Stories and memories](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120421-1.2.125.7.1). (2012, April 21). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 18.  [^18]:[Oei](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12457580), 2005, pp. 48–49.
-19.  [^19]:Toh, W.L. (2017, September 21). [T](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170921-1.2.46.4)[he lives they live: Blast from the past of Rediffusion’s heyday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170921-1.2.46.4). The Straits Times, p. 12. Retrieved from NewspaperSG.
-20.  [^20]:
-21.  [^21]:
+19.  [^19]:Toh, W.L. (2017, September 21). [T](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170921-1.2.46.4)[he lives they live: Blast from the past of Rediffusion’s heyday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170921-1.2.46.4). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+20.  [^20]:McDaniel, D.O. (1994). [*Broadcasting in the Malay world: Radio, television, and video in Brunei, Indonesia, Malaysia, and Singapore*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6904277) (p. 183). Norwood, New Jersey: Ablex Publishing Corporation. (Call no.: RSING 302.2340959 MAC); *[Yearbook of statistics, Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183455)* (p. 238) (1977/78). Singapore: Dept. of Statistics. (Call no.: RCLOS 315.957 YSS). [Note: Number of subscribers was 48,040 in 1960, p. 176 (1967), peaking at 110,792 in 1981 and dropping to 55,406 in 1989, p. 238; (1989).]
+21.  [^21]:Hong, X. (2007, August 2). [Big Fool’s reign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070802-1.2.70.4.5). *The Straits Times*, p. 54. Retrieved from NewspaperSG.
+22.  [^22]:Tang, K.F. (1989, March 24). [Storyteller Lee Dai Soh dies while waiting to see doctor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1). *The Straits Times*, p. 22; [Obituary](http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324.2.49.3). (1989, March 24). *The Straits Times*, p. 38. Retrieved from NewspaperSG.
+23.  [^23]:
+24.  [^24]:
+25.  [^25]:
+26.  [^26]:
+27.  [^27]:
+28.  [^28]:
+29.  [^29]:
+30.  [^30]:
+31.  
 
+
+
+The Straits Times, 24 Mar 1989, p. 22.
+The Straits Times, 2 Aug 2007, p. 54; Liew, S.C. (1978, May 9). The storyteller. New Nation, pp. 10–11; Radio Malaya’s (1996, April 18). The Straits Times, p. 16; N. Balakrishnan (1986, October 6). Man who brought the ‘sound box’ to S’pore. The Straits Times, p. 15. Retrieved from NewspaperSG.
+New Nation, 9 May 1978, pp. 10–11.
+The Straits Times, 24 Mar 1989, p. 22; The Straits Times, 2 Aug 2007, p. 54.
+The Straits Times, 24 Mar 1989, p. 38.
+Rediffusion Pte Ltd (1979). 粤语通俗故事：西游记 (Journey to the West) (175 audiotapes). Retrieved from National Archives of Singapore website. 
+Tan, L. &amp; Yeo, G.L. (Interviewers). (1983, March 22 &amp; 1989, March 13). Oral history interview with Lee Fook Hai @ Lee Dai Soh 李福鸿@李大傻 [Transcript of recording no.: 000260/7/4]. Retrieved from National Archives of Singapore website.
+Chan, R. (2012, April 15). Rediffusion launch pad. The Straits Times, p. 2. Retrieved from NewspaperSG.
