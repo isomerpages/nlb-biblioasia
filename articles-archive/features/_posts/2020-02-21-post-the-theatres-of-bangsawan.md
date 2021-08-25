@@ -21,3 +21,7 @@ Such was the draw of bangsawan in the pre-war years that people living in Tanjon
 
 <img src="/images/Vol-15-issue-4//theatres-of-bangsawan/small%20royal.JPG">
 <div style="background-color: white;">|Theatre Royal on North Bridge Road, c. 1910. The theatre was opened by Chinese Peranakan businessman Cheong Koon Seng in 1908. The Star Opera Company that he established was based at the theatre. Courtesy of National Archives of Singapore.|</div>
+
+Theatre Royal was just one of a handful of venues in Singapore that staged *bangsawan* performances. While much research has been carried out on the art of bangsawan, less has been written about the places that played host to such shows. Although secondary source materials on these venues are scant, by piecing together occasional mentions in newspaper reports, advertisements, archival records and oral history interviews, a story of the former theatres of *bangsawan* emerges.
+
+**Of Wooden Structures, Zinc Roofs and Tents**
