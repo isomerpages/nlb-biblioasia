@@ -182,8 +182,8 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 20.  [^20]:McDaniel, D.O. (1994). [*Broadcasting in the Malay world: Radio, television, and video in Brunei, Indonesia, Malaysia, and Singapore*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6904277) (p. 183). Norwood, New Jersey: Ablex Publishing Corporation. (Call no.: RSING 302.2340959 MAC); *[Yearbook of statistics, Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183455)* (p. 238) (1977/78). Singapore: Dept. of Statistics. (Call no.: RCLOS 315.957 YSS). [Note: Number of subscribers was 48,040 in 1960, p. 176 (1967), peaking at 110,792 in 1981 and dropping to 55,406 in 1989, p. 238; (1989).]
 21.  [^21]:Hong, X. (2007, August 2). [Big Fool’s reign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070802-1.2.70.4.5). *The Straits Times*, p. 54. Retrieved from NewspaperSG.
 22.  [^22]:Tang, K.F. (1989, March 24). [Storyteller Lee Dai Soh dies while waiting to see doctor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1). *The Straits Times*, p. 22; [Obituary](http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324.2.49.3). (1989, March 24). *The Straits Times*, p. 38. Retrieved from NewspaperSG.
-23.  [^23]:
-24.  [^24]:
+23.  [^23]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890324-1.2.28.1)*, 24 Mar 1989, p. 22.
+24.  [^24]:*[The Straits Times](http://eresourcigitised/Article/straitstimes19890324-1.2.28.1)*, 2 Aug 2007, p. 54; Liew, S.C. (1978, May 9). [The storyteller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780509-1.2.64). New* Nation*, pp. 10–11; Radio Malaya’s (1996, April 18). *The Straits Times*, p. 16; N. Balakrishnan (1986, October 6). Man who brought the ‘sound box’ to S’pore.* The Straits Times*, p. 15. Retrieved from NewspaperSG.
 25.  [^25]:
 26.  [^26]:
 27.  [^27]:
@@ -193,9 +193,6 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 31.  
 
 
-
-The Straits Times, 24 Mar 1989, p. 22.
-The Straits Times, 2 Aug 2007, p. 54; Liew, S.C. (1978, May 9). The storyteller. New Nation, pp. 10–11; Radio Malaya’s (1996, April 18). The Straits Times, p. 16; N. Balakrishnan (1986, October 6). Man who brought the ‘sound box’ to S’pore. The Straits Times, p. 15. Retrieved from NewspaperSG.
 New Nation, 9 May 1978, pp. 10–11.
 The Straits Times, 24 Mar 1989, p. 22; The Straits Times, 2 Aug 2007, p. 54.
 The Straits Times, 24 Mar 1989, p. 38.
