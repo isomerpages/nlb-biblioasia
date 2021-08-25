@@ -210,7 +210,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 48. [^48]:Eddino Abdul Hadi. (2008, September 20). [All-local radio station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080920-1.2.119.2). *The Straits Times*, p. 15; Mak, M.S. (2008, June 12). [Rediffusion now has 22 channels](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080612-1.2.86.4). *The Straits Times*, p. 69. Retrieved from NewspaperSG.
 49. [^49]:Oo, G.L. (2012, April 16). [Preserve the spirit of Rediffusion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120416-1.2.7.2). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 50. [^50]:[Rediffusion back on air with free podcasts and mobile app](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20130531-1.2.49.17). (2013, May 31). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
-51. [^51]:
+51. [^51]:Chow, J. (2013, October 28). [Rediffusion reaching out via cable TV, online radio](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131028-1.2.25.10). The Straits Times, p. 4; Chow, J. (2012, October 29). [Rediffusion back on air in February](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121029-1.2.31.2). The Straits Times, p. 2. Retrieved from NewspaperSG.
 52. [^52]:
 53. [^53]:
 54. [^54]:
@@ -219,6 +219,9 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 57. [^57]:
 
 
-
-
-
+Toh, C. (2013, May 31). Rediffusion returns as digital-only service. Today, p. 30. Retrieved from NewspaperSG.
+Yip, W.Y. (2013, May 31). Rediffusion back on air with free podcasts and mobile app. The Straits Times, p. 17. Retrieved from NewspaperSG. 
+Remembering Rediffusion Singapore. (2010). Retrieved from Rediffusion Singapore 丽的呼声 website.
+The Rediffusion channel is hosted on Ximalaya FM, an online audio-visual sharing platform. Retrieved from Ximalaya FM website.
+Our story. (2019). Retrieved from Rediffusion Singapore 丽的呼声 Facebook; 杨涵净 (Yang, H.J.) (2019, October 28). 丽的呼声设透明播音站为牛车 水群众“讲故事”. 联合早报 [Lianhe Zaobao], p. 7. Retrieved from Factiva.
+Lost to history (2012, April 15). The Straits Times, p. 3; Chin, E. (2012, April 20). No Rediffusion materials destroyed: National Archives. The Straits Times, p. 26. Retrieved from NewspaperSG.
