@@ -165,19 +165,17 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 
 |**Surviving the Japanese Occupation: War and its Legacies**|
 
-|Former Ford Factory<br>
-351 Upper Bukit Timah Road,<br>
-Singapore 588192|
+|Former Ford Factory<br>|
+|351 Upper Bukit Timah Road,<br>|
+|Singapore 588192|
 
-|Mondays to Saturdays,<br>
-9am – 5.30pm|
+|Mondays to Saturdays, 9am – 5.30pm|
 
-|Sundays,<br>
-12 noon – 5.30pm|
+|Sundays, 12 noon – 5.30pm|
 
 |Daily guided tours are available.|
 
-|Visit [www.nas.gov.sg/formerfordfactory](www.nas.gov.sg/formerfordfactory) for more information.|
+|Visit [www.nas.gov.sg/formerfordfactory](https://www.nas.gov.sg/formerfordfactory) for more information.|
 
 
 #### Notes
