@@ -4,7 +4,7 @@ date: 2021-08-24
 permalink: /vol-11/issue-1/apr-jun-2015/svph
 layout: post
 ---
-#### VIRGINS, PIMPS AND HITMEN Singapore Through the Western Lens Western filmmakers have always had a fascination for Singapore. **Ben Slater** tells you why
+#### Singapore Through the Western Lens Western filmmakers have always had a fascination for Singapore. **Ben Slater** tells you why
 
 While Singapore’s own film industry has thrived and collapsed and then risen again, the history of foreign film production, particularly that of filmmakers from Europe and America making movies in and about the island is a long and fascinating one. This history is a reflection of the way Singapore has transformed over the last 50 years as well as changing perceptions of Singapore in the West.
 
