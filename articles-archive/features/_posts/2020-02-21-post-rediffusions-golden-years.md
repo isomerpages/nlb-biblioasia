@@ -16,9 +16,7 @@ Before the production of Channel 8 dramas, people were hooked on traditional tal
 
 Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.[^2]: Their efforts left a mark on people like James Seah who, on the Singapore Memory Project,[^3]: recalled how these stories affected the daily rhythms of life at home. Seah had become a Rediffusion fan in 1960 when he was still in Primary 5 and was living in a kampong in Bukit Ho Swee. He wrote: 
 
-<center>
-“My mother would stop whatever housework, and I had to complete school homework before 9 pm to sit attentively on a stool beside the wooden partition of my next door neighbour. The Rediffusion was subscribed by my neighbour and he kindly shared it with us… The radio was located nearest to our side of the wooden partition and the volume… turned on to its maximum."[^4]
-</center>
+  “My mother would stop whatever housework, and I had to complete school homework before 9 pm to sit attentively on a stool beside the wooden partition of my next door neighbour. The Rediffusion was subscribed by my neighbour and he kindly shared it with us… The radio was located nearest to our side of the wooden partition and the volume… turned on to its maximum."[^4]
 
 <img src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.JPG">
 <div style="color: grey; font-size: 15px;"> 
