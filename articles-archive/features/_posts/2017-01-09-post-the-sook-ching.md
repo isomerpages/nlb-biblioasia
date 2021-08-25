@@ -125,11 +125,16 @@ For me personally, Sook Ching was  no “purification through purge.” Yes, my 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/the-sook-ching/5-majun.png)
 <div style="background-color: white;">Illustration and handwritten note by the artist Ma Jun (马骏) describing the display of severed heads at the Cathay Building on 6 July 1942. <i>All rights reserved, Tan, S. T. L., et. al. (2009). Syonan Years 1942–1945: Living Beneath the Rising Sun. Singapore: National Archives of Singapore.</i><br></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-1/Postcards/space.png">
+</div>
+
 |“The Sook Ching” was first published in 2004 as part of Walk Like a Dragon, a collection of short stories by Goh Sin Tub and published by Angsana Books. In 2016, “The Sook Ching” was reprinted along with other short stories by well-known Singaporean writers in a new anthology called Written Country: The History of Singapore Through Literature. Compiled and edited by Gwee Li Sui and published by Landmark Books, Written Country reconstructs the history of modern Singapore through 50 stories that capture pivotal moments in Singapore’s history. The 355-page book retails for $23.37 (excluding GST) at major bookstores and is also available for reference and loan at Lee Kong Chian Reference Library and branches of all public libraries (Call no. RSING S820.8 WRI and S820.8 WRI).|
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/the-sook-ching/blank-author.png">
+<img src="/images/Vol-12-issue-4/the-sook-ching/blank-author.png" style="width: 100px; height: 100px;">
 	<b>Goh Sin Tub</b> (1927–2004) wore many hats in his lifetime – as teacher, social worker, high-ranking civil servant, banker and property developer, and also as chairman of the Board of Governors at St Joseph’s Institution. Although he had been writing since his school and university days, he only pursued it seriously after his retirement in 1986. Although Goh was a prolific writer of short stories, he also wrote poetry and two noteworthy novels. In all, he published 20 books during his two-decade-long writing career, mainly about Singapore and its struggles during its transformative years.
 </div>
 
