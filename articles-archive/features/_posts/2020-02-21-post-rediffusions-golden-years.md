@@ -6,10 +6,10 @@ layout: post
 ---
 #### Singapore’s only cable radio service was an instant hit when it was launched in 1949. **Barbara Quek** charts the history of the pioneering broadcasting station.
 
-<img style="width: 500px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG" style="width: 500px; height: 300px;">
 <div style="background-color: white;"> 
-(Left)A Rediffusion set from the 1950s. The radio service was transmitted via cable. Courtesy of National Museum of Singapore, National Heritage Board.
-An undated recording session in progress at a Rediffusion studio. Image reproduced from <i>Rediffusion Singapore, photographs, circa 1948–1987</i>. (Call no.: RCLOS 384.540655957 RED)
+(Left) A Rediffusion set from the 1950s. The radio service was transmitted via cable.<i> Courtesy of National Museum of Singapore, National Heritage Board.</i>
+(Right) An undated recording session in progress at a Rediffusion studio. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)</i>
 </div>
 
 For a generation of Singaporeans, the name Rediffusion brings back warm memories of a little nondescript brown, rectangular box blaring music and entertainment in homes and coffeeshops across Singapore in the 1960s and 1970s. This iconic radio station – known as 丽的呼声 in Mandarin (Li Di Hu Sheng) – provided countless hours of enjoyment to its listeners with the latest American pop music, dramatic stories told in Chinese dialects like Hokkien and Cantonese, and the friendly chatter of DJs at a time when home entertainment options were in short supply.
@@ -144,7 +144,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg">
 	
 **Barbara Quek** is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
