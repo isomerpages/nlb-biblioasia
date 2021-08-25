@@ -47,4 +47,87 @@ A clueless teenager who had grown up as a sheltered child, I stood wide-eyed and
 Granduncle had given me strict instructions. *Don’t hang around outside the camp once you’re out of it. Don’t wait for the  rest of our group. That could be dangerous.*
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/the-sook-ching/3-oldpaper.png)
-<div style="background-color: white;">A piece of paper bearing the Chinese character 检 (meaning “checked”). In the days following the fall of Singapore on 15 February 1942, Chinese men were made to report to mass screening centres. Those who passed the screening by Japanese soldiers were given slips of paper that were stamped with this symbol and released. When the paper slips ran out, some were stamped on their arms and shirts. Thousands of others, however, who did not receive these stamps, were herded off to various sites in Singapore where they were executed. Chu Chin Lam Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">A piece of paper bearing the Chinese character 检 (meaning “checked”). In the days following the fall of Singapore on 15 February 1942, Chinese men were made to report to mass screening centres. Those who passed the screening by Japanese soldiers were given slips of paper that were stamped with this symbol and released. When the paper slips ran out, some were stamped on their arms and shirts. Thousands of others, however, who did not receive these stamps, were herded off to various sites in Singapore where they were executed. <i>Chu Chin Lam Collection, courtesy of National Archives of Singapore.</i></div>
+
+So at once I took to my heels, heading for our Philip Street home. The trouble was that I was such a wimp and literally not streetwise at all. I did not know my way around that Chinatown neighbourhood. I got lost and wandered about the streets, getting  more and more confused and frightened. I must have been going around in circles for hours. There was nobody around I could ask  for help. Everyone was either still in the camp or locked up behind their own closed doors.  The few I saw, perhaps like me screened and  released, were in desperate hurry to get out  of the streets – no one had time for a lost kid.
+
+That was one of those times when the grace I received from school education by the Christian Brothers taught me what to  do. I prayed.
+
+And my prayer was answered.
+
+I heard someone calling out to me. It was Yeo Tian Chwee, one of Granduncle’s young workers. He too had been cleared.  He had headed for the safety of home at once. When he found out that I was missing he bravely went back into the streets to search for me.
+
+We reached home safely. Someone told us that although everyone else was back, Granduncle was still not home yet.  Tian Chwee immediately took to the streets again to find out what had happened to him. He did not return till he had to – it was getting  dark and the Japanese had imposed curfew after dark.  He came home with sad news. Someone had seen Granduncle: he was one of  those pushed into the packed trucks that took away the uncleared…
+
+Grandaunt cried but she never gave up hope.  The days of Granduncle’s not coming  home stretched into weeks, then months,  then years…
+
+And the vultures came, always bringing hope, always needing to be paid to get more news, devouring the old lady, flesh and spirit, till she became a shadow of her old happy self. Till she wept those lovely eyes of hers hollow and blind.
+
+Tian Chwee, thankfully saved from that Sook Ching purge, remained a mainstay of the family, marrying the daughter of his boss, managing the family business,  looking after the old lady and the rest of the family and workers.
+
+For myself, Sook Ching was the purge of my childhood innocence. It was my first encounter with evil…
+
+What of my father and Sin Chan?
+
+We were worried sick about them. They had disobeyed the Japanese authorities’ order: they had not reported to their designated screening camp. Both had no saving chop to safeguard them from detention  (or a worse fate) if caught without that precious proof of clearance. So we thought. Actually, both had also gone through another Sook Ching camp.
+
+My brother had been cleared.
+
+My father had not…but lived.
+
+Where were they? What to do? We could only pray – my mother with her calming joss-sticks (she was not a Christian then), I with the powerful prayers the Christian Brothers had taught me.
+
+Suddenly, they turned up at Philip Street – with a harrowing story of hide-and-seek, and running for dear life, and finally escaped from the Japanese.
+
+The day they set out they had to pass through Japanese barricades but they reached our Emerald Hill home safely. They found the house all right – or almost all right, as the house adjoining ours had been partially devastated by a bomb that totally demolished the house next to it on the other side!
+
+They had no food and had to depend on the charity of neighbours.
+
+The soldiers came frequently to search all the houses. On one occasion there was a peremptory knocking, and just as Sin Chan opened the door a bayonet was impatiently thrust in. My brother felt the coldness of  steel right next to his cheek – a chilling  experience he recalls up to this day.
+
+The people of Emerald Hill were ordered to report for screening. They were to assemble at Ord Road, not far off. Father and Sin Chan packed food and  other necessities on to a bicycle which they  pushed along. They did not get far. Their bicycle was spotted by Japanese soldiers and snatched away from them – everything  on it too!
+
+They reached Ord Road where they stayed for two days. Fortunately, there were good people around who shared food with them. From Ord Road they were made to march to Arab Street where their Sook Ching camp was situated. At Arab Street, Father was relieved to spot a friend who had a crockery shop there. He gave food and shelter to Father and Sin Chan while they waited for their  screening the next day.
+
+Sin Chan was lucky. He was quite dark-complexioned  then. That fact might have  saved his skin as he looked like a Malay –  without any fuss they cleared him stamping  him on the hand with their precious chop.
+
+Yes, he was lucky. He recalled a school cadet corps friend of his, fit-looking  like him – the young man stupidly came to that same camp wearing his military-looking cadet boots. He did not make it out of the camp.
+
+Father, tall and athletic-looking, was fingered too. He was roughly pulled aside and made to squat on the roadside with others  in a group guarded by soldiers – those not given stamps of clearance.
+
+His immediate concern was for his son. He at once yelled to him: “Don’t worry. Just go to my friend’s house. Stay there. Wait for me to come back!”
+
+How could Sin Chan not worry? But what else was there to do? He obeyed Father and went to the crockery shop to wait.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/the-sook-ching/4-drawing.png)
+<div style="background-color: white;">A drawing from <i>Chop Suey</i>, part of a four-volume book of illustrations by the artist Liu Kang that offers a rare insight into how people in Singapore were persecuted and tortured by the Japanese during the Occupation years. This scene depicts an execution scene from Operation Sook Ching (or “purge through cleansing”). Chinese males perceived to be anti-Japanese were rounded up and taken to deserted spots to be killed. <i>All rights reserved, Liu, K. (1946). Chop Suey (Vol. I). Singapore: Eastern Art Co.</i></div>
+
+Father later told Sin Chan what happened to him. He saw trucks coming along  to pick up those in the squatting group. He  knew then he had to get out of there. He  noticed a monsoon drain near where the  trucks were lined up. He delayed climbing up on to the trucks. He waited for his  chance when the guards were not looking.  That chance did not come till the very end when he was the last man in the group: he then slipped quietly into the drain. He hid  till everyone had gone. Then he climbed  out and made his way to his friend’s shop not far off.
+
+Miraculously, Father had escaped the Sook Ching!
+
+Father and Sin Chan decided to find their way to Philip Street. They had to hide and watch what was going on ahead of  them in case they came upon any barrier.  Where they found people being checked for clearance chops they had to find other  routes – as Father did not have clearance.  They came upon scenes of people being  made to kneel on the roadside for hours.  Those people were hit with the butts of rifles. Prudently, Father and Sin Chan stayed away from those roadblocks.
+
+Finally, at River Valley Road near the old Great World Amusement Park, they  found a sandbag wall that they thought  was unguarded. As it was getting dark they  thought they could take a chance and climb over the barrier.
+
+Father climbed over to the top. He  reached out with his hand to help Sin Chan over.
+
+At that moment their world nearly  came to an end. There were soldiers around!  These yelled out at them: “Kora!” and more  – words they did not understand. They were not about to stay and find out what that  was about. They continued their run from  the wall. One soldier opened fire. But they were already over – and running off as fast as their legs could carry them. Luckily, the  soldiers decided not to give chase.
+
+Our family reunited, we decided to play it safe and not test any barricade till the need  for stamped clearances was over.
+
+We stayed on at Granduncle’s place for many days after that till the dust stirred up by that first wave of savage Japanese invaders had settled down. The barricades were removed, and it was less hazardous to make our homeward journey to  Emerald Hill.
+
+The nightmare of that “purification  through purge” has passed into history –  unforgettable history.
+
+For me personally, Sook Ching was  no “purification through purge.” Yes, my  guilelessness had been purged – but Sook Ching was also impurification for me: my initiation, into the reality of a hard and cruel world.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/the-sook-ching/5-majun.png)
+<div style="background-color: white;">Illustration and handwritten note by the artist Ma Jun (马骏) describing the display of severed heads at the Cathay Building on 6 July 1942. <i>All rights reserved, Tan, S. T. L., et. al. (2009). Syonan Years 1942–1945: Living Beneath the Rising Sun. Singapore: National Archives of Singapore.</i></div>
+
+|“The Sook Ching” was first published in 2004 as part of Walk Like a Dragon, a collection of short stories by Goh Sin Tub and published by Angsana Books. In 2016, “The Sook Ching” was reprinted along with other short stories by well-known Singaporean writers in a new anthology called Written Country: The History of Singapore Through Literature. Compiled and edited by Gwee Li Sui and published by Landmark Books, Written Country reconstructs the history of modern Singapore through 50 stories that capture pivotal moments in Singapore’s history. The 355-page book retails for $23.37 (excluding GST) at major bookstores and is also available for reference and loan at Lee Kong Chian Reference Library and branches of all public libraries (Call no. RSING S820.8 WRI and S820.8 WRI).|
+
+#### Notes
+
+[^1]:According to official accounts, Singapore fell to the Japanese on 15 February 1942. The British surrender took place at the old Ford Factory in Bukit Timah, where the Japanese had set up their headquarters.
+[^2]:Following the fall of Singapore on 15 February 1942, Chinese males between 18 and 50 years of age were ordered to report to designated centres for mass screening. Many of these ethnic Chinese were then rounded up and taken to deserted spots to be summarily executed. This came to be known as Operation Sook Ching (the Chinese term means “purge through cleansing”). It is not known exactly how many people died; the official estimates given by the Japanese is 5,000 but the actual number is believed to be 8−10 times higher
