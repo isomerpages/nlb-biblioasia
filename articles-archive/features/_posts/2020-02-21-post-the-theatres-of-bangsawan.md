@@ -6,7 +6,7 @@ layout: post
 ---
 #### In the days before cinema, bangsawan performances entertained the masses. **Tan Chui Hua** looks at the rise and fall of bangsawan venues in Singapore.
 
-<img src="/images/Vol-15-issue-4//theatres-of-bangsawan/Royal.JPG">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/Royal.JPG">
 
 “With a bottle of champagne broken on the door-step, the new Theatre Royal, in North Bridge Road, was opened officially on Saturday night, the Wayang Kassim’s Trip to Fairyland being staged before a packed house, the conclusion of the formal opening ceremony.”[^1]
 
@@ -18,7 +18,7 @@ Such was the draw of bangsawan in the pre-war years that people living in Tanjon
 
 “The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.”[^3]
 
-<img height="50" width="50" src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG" width="50" height="50">
 <div style="background-color: white;">
 Theatre Royal on North Bridge Road, c. 1910. The theatre was opened by Chinese Peranakan businessman Cheong Koon Seng in 1908. The Star Opera Company that he established was based at the theatre. <i>Courtesy of National Archives of Singapore</i>.</div>
 
@@ -38,5 +38,6 @@ Besides this venue at Jalan Besar, usually referred to as the Parsi Theatre, the
 
 Along the same road, Lee Peck Hoon Theatre was mentioned in the early 1900s for its bangsawan acts. Described as “fairly cool and comfortable” and “lighted by acetylene gas”, the theatre was named after its Peranakan proprietor, who was the sub-manager of the Straits Steamship Company. In 1902, the staging of a play Indra Sabha by a Malay theatrical company was very well received, and the 3rd Madras Infantry – including several of its officers – was reported to have turned up in force.[^7]
 
-<img src="/images/Vol-15-issue-4/">
-<div style="background-color: white;"></div>
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/advertisement.JPG">
+<div style="background-color: white;">Advertisement for Wayang Kassim’s bangsawan production at the New Theatre Royal, 1908. Image reproduced from The Straits Times, 3 July 1908, p. 8. (right) The Star Opera Company advertising its bangsawan production at the Theatre Royal, 1910. Image reproduced from <i>The Straits Times</i>, 11 January 1910, p. 8.</div>
+
