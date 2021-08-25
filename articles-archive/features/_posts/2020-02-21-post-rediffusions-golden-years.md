@@ -6,7 +6,7 @@ layout: post
 ---
 #### Singapore’s only cable radio service was an instant hit when it was launched in 1949. **Barbara Quek** charts the history of the pioneering broadcasting station.
 
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG" style="width: 500px; height: 300px;">
+<img style="width: 500px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
 <div style="background-color: white;"> 
 (Left) A Rediffusion set from the 1950s. The radio service was transmitted via cable.<i> Courtesy of National Museum of Singapore, National Heritage Board.</i>
 (Right) An undated recording session in progress at a Rediffusion studio. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)</i>
@@ -14,9 +14,9 @@ layout: post
 
 For a generation of Singaporeans, the name Rediffusion brings back warm memories of a little nondescript brown, rectangular box blaring music and entertainment in homes and coffeeshops across Singapore in the 1960s and 1970s. This iconic radio station – known as 丽的呼声 in Mandarin (Li Di Hu Sheng) – provided countless hours of enjoyment to its listeners with the latest American pop music, dramatic stories told in Chinese dialects like Hokkien and Cantonese, and the friendly chatter of DJs at a time when home entertainment options were in short supply.
 
-Before the production of Channel 8 dramas, people were hooked on traditional tales narrated by the likes of Lee Dai Soh (李大傻) in Cantonese, Ng Chia Kheng (黄正经) in Teochew, Ong Toh (王道) in Hokkien and Chong Soon Fat (张顺发) in Hakka. Their work on Rediffusion was in the tradition of the storytellers of old who went around Chinatown, Telok Ayer and Boat Quay to entertain the crowds in the late 19th and early 20th centuries.[^1]:
+Before the production of Channel 8 dramas, people were hooked on traditional tales narrated by the likes of Lee Dai Soh (李大傻) in Cantonese, Ng Chia Kheng (黄正经) in Teochew, Ong Toh (王道) in Hokkien and Chong Soon Fat (张顺发) in Hakka. Their work on Rediffusion was in the tradition of the storytellers of old who went around Chinatown, Telok Ayer and Boat Quay to entertain the crowds in the late 19th and early 20th centuries.[^1]
 
-Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.[^2]: Their efforts left a mark on people like James Seah who, on the Singapore Memory Project,[^3]: recalled how these stories affected the daily rhythms of life at home. Seah had become a Rediffusion fan in 1960 when he was still in Primary 5 and was living in a kampong in Bukit Ho Swee. He wrote: 
+Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.[^2] Their efforts left a mark on people like James Seah who, on the Singapore Memory Project,[^3] recalled how these stories affected the daily rhythms of life at home. Seah had become a Rediffusion fan in 1960 when he was still in Primary 5 and was living in a kampong in Bukit Ho Swee. He wrote: 
 
  “My mother would stop whatever housework, and I had to complete school homework before 9 pm to sit attentively on a stool beside the wooden partition of my next door neighbour. The Rediffusion was subscribed by my neighbour and he kindly shared it with us… The radio was located nearest to our side of the wooden partition and the volume… turned on to its maximum."[^4]
 
@@ -144,7 +144,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg">
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg" style="width: 100px; height: 100px;">
 	
 **Barbara Quek** is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
