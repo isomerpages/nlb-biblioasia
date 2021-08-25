@@ -191,21 +191,34 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 29.  [^29]:Tan, L. &amp; Yeo, G.L. (Interviewers). (1983, March 22 &amp; 1989, March 13).[ *Oral history interview with Lee Fook Hai @ Lee Dai Soh 李福鸿@李大傻*](https://eresouhttps://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3e5c6747-115f-11e3-83d5-0050568939ad-OHC000260_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no.: 000260/7/4]. Retrieved from National Archives of Singapore website.
 30. [^30]:Chan, R. (2012, April 15). [Rediffusion launch pad](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120415-1.2.55.1.1). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 31. [^31]:Teo, P.L. (2005, December 12). [The original ah jie](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20051212-1.2.58.3.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-32. [^32]:
-33. [^33]:
-34. [^34]:
-35. [^35]:
-36. [^36]:
-37. [^37]:
-38. [^38]:
-39. [^39]:
-40. [^40]:
-Tan, J. (2006, May 24). [Time to move on](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20060524-2.2.49.1). Today, p. 38. Retrieved from NewspaperSG.
-Lam, D. (1990, November 22). Passionate pursuit. The Straits Times, p. 10. Retrieved from NewspaperSG.
-Zakir Hussain. (2009, April 17). Telling stories so that others may remember. The Straits Times, p. 28. Retrieved from NewspaperSG.
-Toh, C. (2013, May 31). Rediffusion returns as digital-only service. Today, p. 30. Retrieved from NewspaperSG.
-Ragaratman, A. (2015, December 19). Veteran radio, TV presenter Tan Swee Leong dies of cancer at age 77. The Straits Times, p. 10. Retrieved from NewspaperSG.
-The Straits Times, 21 Apr 2012, p. 8.
-The Straits Times, 15 Apr 2012, p. 2; Xu, H. (2012, May). Rediffusion and its glorious 63 years. Retrieved from Remember Singapore website.
-Xu, H. (2012). Rediffusion and its glorious 63 years. Retrieved from Remember Singapore website.
-The Straits Times, 21 Apr 2021, p. 8.
+32. [^32]:Tan, J. (2006, May 24). [Time to move on](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20060524-2.2.49.1). *Today*, p. 38. Retrieved from NewspaperSG.
+33. [^33]:Lam, D. (1990, November 22). [Passionate pursuit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901122-1.2.60.5.2). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+34. [^34]:Zakir Hussain. (2009, April 17). [Telling stories so that others may remember](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090417-2.2.34.4.4.1). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
+35. [^35]:Toh, C. (2013, May 31). [Rediffusion returns as digital-only service](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20130531-1.2.38.3). *Today*, p. 30. Retrieved from NewspaperSG.
+36. [^36]:Ragaratman, A. (2015, December 19). [Veteran radio, TV presenter Tan Swee Leong dies of cancer at age 77](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151219-1.2.58.13). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+37. [^37]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120421-1.2.125.7.1)*, 21 Apr 2012, p. 8.
+38. [^38]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120421-1.2.125.7.1)*, 15 Apr 2012, p. 2; Xu, H. (2012, May). *Rediffusion and its glorious 63 years*. Retrieved from Remember Singapore website.
+39. [^39]:Xu, H. (2012). *Rediffusion and its glorious 63 years*. Retrieved from Remember Singapore website.
+40. [^40]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120421-1.2.125.7.1)*, 21 Apr 2021, p. 8.
+41. [^41]:Tan, B.B. (1979, April 7). [Times we spent around the set](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790407-1.2.40). *New Nation*, p. 8. Retrieved from NewspaperSG.
+42. [^42]:[Sorry, Rediffusion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19900813-1.2.6.3.3). (1990, August 13). *The New Paper*, p. 4. Retrieved from NewspaperSG; Xu, 2012, Remember Singapore website. 
+43. [^43]:Ang, P.H. (2012, May 14). [Study showed dialect ban need not have caused Rediffusion’s end](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120514-1.2.24.4.5). *The Straits Times*, p. 21. Retrieved from NewspaperSG.
+44. [^44]:Tan, B.H. (1981, June 18). [Rediffusion’s Mandarin switch pulls in more listeners](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810618-1.2.38). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+45. [^45]:[Revision lessons a big hit with listeners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810731-1.2.55). (1981, July 31). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+46. [^46]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120514-1.2.24.4.5), 14 May 2012, p. 21. 
+47. [^47]:Chin, D., &amp; Sim, R. (2012, April 9). [Station was ‘part of Singapore way of life'](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120409-1.2.8.1)’. *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+48. [^48]:Eddino Abdul Hadi. (2008, September 20). [All-local radio station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080920-1.2.119.2). *The Straits Times*, p. 15; Mak, M.S. (2008, June 12). [Rediffusion now has 22 channels](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080612-1.2.86.4). *The Straits Times*, p. 69. Retrieved from NewspaperSG.
+49. [^49]:Oo, G.L. (2012, April 16). [Preserve the spirit of Rediffusion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120416-1.2.7.2). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+50. [^50]:[Rediffusion back on air with free podcasts and mobile app](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20130531-1.2.49.17). (2013, May 31). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+51. [^51]:
+52. [^52]:
+53. [^53]:
+54. [^54]:
+55. [^55]:
+56. [^56]:
+57. [^57]:
+
+
+
+
+
