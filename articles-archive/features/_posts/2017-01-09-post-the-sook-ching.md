@@ -19,7 +19,7 @@ But those concentrations of the Chinese were actually for a sinister purpose.
 
 The conquering Japanese troops had  arrived with horrendous baggage: memories of bloody encounters with the mainland Chinese in the still ongoing Sino-Japanese war. And they were sorely aware that the  Chinese in Singapore had been anti-Japanese,  staging demonstrations, organising boycotts of Japanese goods and raising  money (the China War Relief Fund) to help the Chinese on the mainland in their fight  against invasion. And there were the Singapore  Chinese who took up arms against the Japanese: volunteers with the British forces as well as those MCP (Malayan Communist  Party) diehards, who struggled against them in the jungles of the Malay Peninsula.
 
-Led by the ruthless Kempeitai (Japanese Military Police), the victorious soldiers went all out to screen the Chinese, however hasty and slapdash the operation, to seek and destroy anyone suspected of being  hostile, no matter how flimsy the evidence,  no matter how many were fingered. This operation was their infamous Sook Ching – a haphazard sudden horror that slaughtered possibly up to 50,000 Singapore people.[^2]: Indeed there were few Singapore Chinese  families who did not lose one or more relatives in that massacre, without doubt the darkest hour in our history.
+Led by the ruthless Kempeitai (Japanese Military Police), the victorious soldiers went all out to screen the Chinese, however hasty and slapdash the operation, to seek and destroy anyone suspected of being  hostile, no matter how flimsy the evidence,  no matter how many were fingered. This operation was their infamous Sook Ching – a haphazard sudden horror that slaughtered possibly up to 50,000 Singapore people.[^2] Indeed there were few Singapore Chinese  families who did not lose one or more relatives in that massacre, without doubt the darkest hour in our history.
 
 The day the Allied troops left was  the signal for instant lawlessness and chaos in the streets. My father saw how looters, our own local people, went on a rampage, breaking into vacated shops and homes everywhere. He became anxious about our own home that we had left unguarded. Not knowing how bloodthirsty  and trigger-happy the occupying soldiers were, he rashly decided to rush back home instead of reporting to the Maxwell Road  camp designated for our area. He would  not risk the whole family going back with him, but he agreed to take along Sin Chan,  my 16-year-old elder brother.
 
@@ -129,7 +129,7 @@ For me personally, Sook Ching was  no “purification through purge.” Yes, my 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/the-sook-ching/blank-author.png">
+<img src="/images/Vol-12-issue-4/the-sook-ching/blank-author.png" style="width: 100px; height: 100px;">
 	<b>Goh Sin Tub</b> (1927–2004) wore many hats in his lifetime – as teacher, social worker, high-ranking civil servant, banker and property developer, and also as chairman of the Board of Governors at St Joseph’s Institution. Although he had been writing since his school and university days, he only pursued it seriously after his retirement in 1986. Although Goh was a prolific writer of short stories, he also wrote poetry and two noteworthy novels. In all, he published 20 books during his two-decade-long writing career, mainly about Singapore and its struggles during its transformative years.
 </div>
 
