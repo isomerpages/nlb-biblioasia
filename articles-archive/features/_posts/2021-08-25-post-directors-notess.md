@@ -1,9 +1,10 @@
 ---
 title: Director's Notess
 date: 2021-08-25
-permalink: /articles-archive/features/permalink
+permalink: /vol-11/issue-1/apr-jun-2015/director-note
 layout: post
 ---
+
 
 The Asian Film Archive (AFA) was established in 2005. The National Library Board incorporated the National Archives of Singapore in March 2013, followed by the AFA in January 2014. The AFA serves as a repository for films from all over Asia. Many fine Asian films 
 make their rounds on international festival circuits, winning critical acclaim and awards, but are often not released commercially. Without the preservation work of the AFA, these films - which are part of our Asian heritage and identity  might be forgotten or lost forever.
