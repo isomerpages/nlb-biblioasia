@@ -160,7 +160,7 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-16-issue-1/Postcards/space.png">
+<img src="/images/space1.png">
 </div>
 
 |**Surviving the Japanese Occupation: War and its Legacies**|
@@ -178,7 +178,7 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/surviving-japanese-occupation/Fiona.png">
+<img src="/images/Vol-12-issue-4/surviving-japanese-occupation/Fiona.png" style="width: 100px; height: 100px;">
 	<b>Fiona Tan</b> is an Assistant Archivist with the Outreach Department, National Archives of Singapore, where she conducts research to promote a greater awareness of its collections.</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
