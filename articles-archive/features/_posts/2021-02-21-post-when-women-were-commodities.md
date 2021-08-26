@@ -73,3 +73,25 @@ Beyond the immediate satiation of their sexual urges, many of the thousands of m
 <img src="/images/Vol-15-issue-4/when-women-were-commodities/building.JPG">
 <div style="background-color: white;">The now demolished Chinese Protectorate building on Havelock Road, c. 1910. The office was first set up in 1877 at a shophouse on North Canal Road under William Pickering, the first Protector of Chinese, to look after the affairs of Singapore’s migrant Chinese community. In 1888, the Protectorate established the Po Leung Kuk in another location to help women who had been sold or tricked into prostitution. <i>Courtesy of National Museum of Singapore, National Heritage Board.
 </i></div>
+
+Prostitution naturally brought with it a host of social ills. The demand for paid sex was a lucrative source of revenue for brothel owners and especially for the secret societies that controlled the brothels, and hence any threat to this business would have serious consequences. Secret societies frequently fought one another over control of the brothels and the women.
+
+Sex workers were also a conduit for sexually transmitted diseases. This was a problem that pervaded all classes of society. Even the wealthy who patronised the more expensive brothels on Smith Street under the misconception that the women there were more discriminating, and thus safer, were not exempt. These men then – either knowingly or unknowingly – passed on sexually transmitted diseases to their wives and concubines.
+
+Despite the many social problems associated with prostitution, the colonial authorities tolerated and legalised the trade in the early years, partly due to the low female-to-male population ratio in Singapore.
+
+#### **Protecting Girls and Women**
+
+The government, however, did help young girls and women who were trafficked into prostitution. This task was initially handled by the Chinese Protectorate, which was set up in 1877 under colonial administrator William Pickering. The Protectorate managed the affairs of the migrant Chinese community.
+
+In 1888, the Protectorate set up a separate body, the Po Leung Kuk, or the Office to Protect Virtue, to help women who had been sold or tricked into prostitution. The Po Leung Kuk also functioned as a halfway house for young girls such as the *mui tsai* that it helped rescue from abuse.
+
+The *mui tsai* (literally “little sister” in Cantonese) were girls as young as eight years old who came to Singapore, accompanying a relative or a fellow villager. The girls came to seek a better future through marriage or employment as domestic workers. However, many of these girls ended up being tricked into prostitution, or sold to rich families who might abuse them.
+
+As the *mui tsai* grew into her teens, her situation could worsen: if she was pretty, she would find herself servicing the sexual needs of the male members in the household; if she were to bear children, she would not be allowed to claim or acknowledge them until her mistress passed away.19 The Po Leung Kuk rescued these girls, gave them a safe place to live and trained them in useful skills that could help them find decent men to marry or a useful job when they left the Po Leung Kuk.
+
+Another group of young girls who were rescued by the Po Leung Kuk was the *pipa tsai*. These were girls who were trained to play and sing to the accompaniment of the *pipa*, a short-necked wooden lute. In brothels and clubs where men gathered, these girls entertained their clients by reciting Chinese poetry and bantering with them. The older among the *pipa tsai* would be made to sit at tables to accompany men. These girls were paid by the hour and sometimes also provided sexual services.
+
+How did these* pipa tsai* enter such employment? Like the *mui tsai*, they had been entrusted by their parents in China to the care of distant relatives in Singapore, the so-called “third or sixth paternal aunt” – *sum gu* or* luk gu* – some of whom worked in or even owned entertainment establishments themselves. The* pipa tsai* could also have been picked out when these “aunts” visited destitute women and their young daughters living in shelters such as temples.
+
+Girls who had been forcibly controlled and detained by these aunts could escape their bondage only after they had outlived their popularity or if they were able to find married men who were willing to buy them out of their pipa-playing employment.33 The more fortunate girls were rescued by the authorities and taken in by the Po Leung Kuk. But this was a temporary arrangement: the future of these girls depended on whether they could learn new skills and find suitable jobs after leaving the Po Leung Kuk.
