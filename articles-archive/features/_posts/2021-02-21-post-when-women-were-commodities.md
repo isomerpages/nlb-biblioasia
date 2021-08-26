@@ -128,7 +128,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.24
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG" style="width: 200px; height: 300px;">
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG">
 <div style="background-color: white;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.
 </i></div>
 
@@ -150,7 +150,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 <br>
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -190,9 +190,9 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^28]:[*The Malaya Tribune*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340126-1.2.107), 26 Jan 1934, p. 10.
 [^29]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340126-1.2.85), 26 Jan 1934, p. 13.
 [^30]:[*Po Leung Kuk at home*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371017-1.2.68). (1937, October 17). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
-[^31]:
-[^32]:
-[^33]:
-[^34]:
-[^35]:
+[^31]:[Paul](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202819886), 1990, pp. 62, 73.
+[^32]:[Paul](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202819886), 1990, p. 63.
+[^33]:[Koh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 1994, pp. 136–137.
+[^34]:See Adeline Foo’s essay, [Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls](http://www.nlb.gov.sg/biblioasia/?s=lancing+girls), published in BiblioAsia, 12(4), Jan-Mar 2017.
+[^35]:Warren, 2003, p. 388.
 
