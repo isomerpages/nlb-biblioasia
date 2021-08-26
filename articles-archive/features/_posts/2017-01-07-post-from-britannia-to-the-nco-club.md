@@ -148,7 +148,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png">
 	<b>Francis Dorai</b> has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
@@ -166,9 +166,9 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 [^8]:[Beauty show for the troops.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530516-1.2.55) (1953, May 16). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^9]:Interview with Carol Traynor.
 [^10]:Interview with John Harper.
-[^11]:Forces look for a pin-up girl. (1956, February 20). The Straits Times, p. 7. Retrieved from NewspaperSG.
-[^12]:The Commons defence debate: The decision to pull out is final. (1967, July 29). The Straits Times, p. 6; All out by 1971. (1968, January 17). The Straits Times, p. 1; Campbell, W. (1971, October 30). Pull-out. The Straits Times, p. 14. Retrieved from NewspaperSG.
-[^13]:The Naval Base – big town with a civilian future. (1968, July 8). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^11]:[Forces look for a pin-up girl.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560220-1.2.100) (1956, February 20). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^12]:[The Commons defence debate: The decision to pull out is final.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670729-1.2.40) (1967, July 29). *The Straits Times*, p. 6; [All out by 1971](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680117-1.2.3). (1968, January 17). *The Straits Times*, p. 1; Campbell, W. (1971, October 30). [Pull-out. ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711030-1.2.84)*The Straits Times*, p. 14. Retrieved from NewspaperSG.
+[^13]:The Naval Base – big town with a civilian future. (1968, July 8). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 [^14]:Future of closed down Britannia Club being discussed. (1971, October 29). The Straits Times, p. 10. Retrieved from NewspaperSG.
 [^15]:Chin, U.W., &amp; Yeo, J. (Eds.). (2015). The Chevrons celebrates: Our journey, our vision. Singapore, p. 9. Retrieved from The Chevrons website.
 [^16]:HDB to give reservists preference. (1974, March 18). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
