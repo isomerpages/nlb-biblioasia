@@ -18,7 +18,7 @@ Such was the draw of bangsawan in the pre-war years that people living in Tanjon
 
 “The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.”[^3]
 
-<img height="50" width="50" src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG" width="50" height="50">
 <div style="background-color: white;">
 Theatre Royal on North Bridge Road, c. 1910. The theatre was opened by Chinese Peranakan businessman Cheong Koon Seng in 1908. The Star Opera Company that he established was based at the theatre. <i>Courtesy of National Archives of Singapore</i>.</div>
 
@@ -38,7 +38,7 @@ Besides this venue at Jalan Besar, usually referred to as the Parsi Theatre, the
 
 Along the same road, Lee Peck Hoon Theatre was mentioned in the early 1900s for its bangsawan acts. Described as “fairly cool and comfortable” and “lighted by acetylene gas”, the theatre was named after its Peranakan proprietor, who was the sub-manager of the Straits Steamship Company. In 1902, the staging of a play Indra Sabha by a Malay theatrical company was very well received, and the 3rd Madras Infantry – including several of its officers – was reported to have turned up in force.[^7]
 
-<img style="width: 300px; height: 200px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/advertisement.JPG">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/advertisement.JPG" style="width: 300px; height: 200px;">
 <div style="background-color: white;">Advertisement for Wayang Kassim’s bangsawan production at the New Theatre Royal, 1908. Image reproduced from The Straits Times, 3 July 1908, p. 8. (right) The Star Opera Company advertising its bangsawan production at the Theatre Royal, 1910. Image reproduced from <i>The Straits Times</i>, 11 January 1910, p. 8.</div>
 
 Advertisements in the early 1900s also mentioned a “North Bridge Road Theatre”,[^8] usually leased by the popular Wayang Kassim troupe, also known as Indra Zanibar Royal Theatrical Company. At 485 North Bridge Road was the “New Parsi Theatre Hall” that was frequently leased by Wayang Pusi from Penang. The latter – also known by various names such as Indra Bangsawan, The Queen Alexandra Theatrical Company and the Empress Victoria Jawi Peranakan Theatrical Company – is commonly acknowledged to be the first *bangsawan* troupe in Malaya. A few doors away at 499 North Bridge Road was Alexandra Theatre Hall, or Alexandra Hall, leased by Opera Yap Chow Tong, a *bangsawan* troupe.
@@ -75,7 +75,7 @@ By the turn of the 20th century, a number of *bangsawan* companies had been esta
 Stories in *bangsawan* theatre were usually adapted from the *Sejarah Melayu* (Malay Annals), the two great Indian epics the *Mahabharata* and the *Ramayana*, Arabic tales, Chinese classics, European stories and even Shakespearean plays. Each act was interspersed with performances consisting of orchestral music, songs, dances, comedy skits and novelty acts. It was not uncommon for *bangsawan* productions to include exotic songs from the Americas, Middle East and India. Musical instruments from different cultures, such as the piano, violin and tabla, were also featured.[^17]
 
 #### Theatre Royal
-<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-4//theatres-of-bangsawan/cks.JPG">
+<img src="/images/Vol-15-issue-4//theatres-of-bangsawan/cks.JPG" style="width: 300px; height: 300px;">
 <div style="background-color: white;">Cheong Koon Seng opened Theatre Royal in 1908.<i> Image reproduced from Geni.com</i></div>
 
 Located at the site now occupied by Raffles Hospital, Theatre Royal is believed to be the first “permanent” theatre for the so-called “native” form of entertainment.[^18] It was described as a “most substantial edifice of brick, iron and stone, with seating accommodation for about 1,300 people”.[^19]
@@ -144,7 +144,7 @@ The gradual conversion of *bangsawan* venues to movie theatres sounded the death
 Diamond Theatre and Royal Theatre continued with their new leases of life as Tamil cinemas until the late 1970s. In 1970, the government announced its land acquisition plans in the Rochor area, which included the sites of both theatres. By the end of the 1970s, the chapter on theatres specially built for *bangsawan* performances finally came to a close when these venues were demolished, making way for urban redevelopment.[^39]
 
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4//theatres-of-bangsawan/tch1.jpg">
+<img src="/images/Vol-15-issue-4//theatres-of-bangsawan/tch1.jpg" style="width: 100px; height: 100px;">
 <center>
 <b>Tan Chui Hua</b>
 Researcher and writer Tan Chui Hua has worked on various projects documenting the heritage of Singapore, including a number of heritage trails and publications.
@@ -167,16 +167,18 @@ Researcher and writer Tan Chui Hua has worked on various projects documenting th
 [^12]:[Van der Putten](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202682946), 2017, p. 141.
 [^13]:[Van der Putten](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202682946), 2017, p. 144.
 [^14]:These are Jawi Peranakans.
-[^15]:The Wayang Kassim. (1903, July 4). The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^20]:
-[^21]:
-[^22]:
+[^15]:[The Wayang Kassim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030704-1.2.50). (1903, July 4). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^16]:[Opera in Malay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320823-1.2.3). (1932, August 23). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG. 
+[^17]:Tan, S.-B. (1989, Spring-Summer). From popular to “traditional” theatre: The dynamics of change in bangsawan of Malaysia. *Ethnomusicology*, 33(2), 229–274, p. 236. Retrieved from JSTOR via NLB’s eResources website.
+[^18]:[Van der Putten](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202682946), 2017, p. 145.
+[^19]:[New theatre opened: Wayang Kassim’s first night at the Royal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080615-1.2.83). (1908, June 15). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^20]:[Death of Mr. Cheong Koon Seng](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340320-1.2.65). (1934, March 20). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^21]:[A new native theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19080409-1.2.72). (1908, April 9). *The Singapore Free Press*, p. 233. Retrieved from NewspaperSG.
+[^22]:[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19080409-1.2.72), 9 Apr 1908, p. 233.
 [^23]:
 [^24]:
 [^25]:
 [^26]:
-
+Abdul Ghani bin Hamid (Interviewer). (1991, February 13). [Oral history interview with Abu Talib bin Ally](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/115cfedf-115e-11e3-83d5-0050568939ad-OHC001216_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 001216/11/5, p. 95]. Retrieved from National Archives of Singapore website.
+Van der Putten, 2017, p. 153.
+Mohd Yussoff Ahmad. (Interviewer). (1987, October 8). Oral history interview with Hamid bin Ahmad [Transcript of recording no. 000897/10/1, pp. 9–10]. Retrieved from National Archives of Singapore website.
