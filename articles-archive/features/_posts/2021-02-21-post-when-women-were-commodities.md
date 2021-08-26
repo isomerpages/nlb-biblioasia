@@ -148,7 +148,7 @@ Winter’s appointment as Lady Assistant Protector of Chinese was significant as
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -163,11 +163,11 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^3]:Turnbull, C. M. (2009).*[ A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047)* (p. 101). Singapore: NUS Press. (Call no.: RSING 959.57 TUR-[HIS])
 [^4]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, [pp. 219–222](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062).
 [^5]:[我是一個妓女](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19401025-1.2.65). (1940, October 25). 《南洋商报》 [*Nanyang Siang Pau*], p. 22. Retrieved from NewspaperSG.
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
+[^6]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 233.
+[^7]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 216.
+[^8]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 258.
+[^9]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 268.
+[^10]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 268–270.
 [^11]:
 [^12]:
 [^13]:
@@ -178,12 +178,7 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^18]:
 [^19]:
 [^20]:
-Warren, 2003, p. 233.
-Warren, 2003, p. 216.
-Warren, 2003, p. 258.
-Warren, 2003, p. 268.
-Warren, 2003, pp. 268–270.
-Heritage Committee. Japanese Association. (1998). Prewar Japanese community in Singapore: Picture and record. Singapore: Japanese Association, Singapore. (Call no.: RSING 305.895605957 PRE)
+Heritage Committee. Japanese Association. (1998). [Prewar Japanese community in Singapore: Picture and record](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9284135). Singapore: Japanese Association, Singapore. (Call no.: RSING 305.895605957 PRE)
 Warren, 2003, pp. 320–321.
 Warren, 2003, p. 358.
 Warren, 2003, pp. 366–367.
