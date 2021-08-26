@@ -6,7 +6,7 @@ layout: post
 ---
 #### In the days before cinema, *bangsawan* performances entertained the masses. **Tan Chui Hua** looks at the rise and fall of *bangsawan* venues in Singapore.
 
-<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG" width="50" height="50">
+<img height="50" width="50" src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG">
 <div style="background-color: white;">
 Theatre Royal on North Bridge Road, c. 1910. The theatre was opened by Chinese Peranakan businessman Cheong Koon Seng in 1908. The Star Opera Company that he established was based at the theatre. <i>Courtesy of National Archives of Singapore</i>.</div>
 
@@ -36,7 +36,7 @@ Besides this venue at Jalan Besar, usually referred to as the Parsi Theatre, the
 
 Along the same road, Lee Peck Hoon Theatre was mentioned in the early 1900s for its *bangsawan* acts. Described as “fairly cool and comfortable” and “lighted by acetylene gas”, the theatre was named after its Peranakan proprietor, who was the sub-manager of the Straits Steamship Company. In 1902, the staging of a play *Indra Sabha* by a Malay theatrical company was very well received, and the 3rd Madras Infantry – including several of its officers – was reported to have turned up in force.[^7]
 
-<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/advertisement.JPG" style="width: 300px; height: 200px;">
+<img style="width: 300px; height: 200px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/advertisement.JPG">
 <div style="background-color: white;">Advertisement for Wayang Kassim’s bangsawan production at the New Theatre Royal, 1908. Image reproduced from The Straits Times, 3 July 1908, p. 8. (right) The Star Opera Company advertising its bangsawan production at the Theatre Royal, 1910. Image reproduced from <i>The Straits Times</i>, 11 January 1910, p. 8.</div>
 
 Advertisements in the early 1900s also mentioned a “North Bridge Road Theatre”,[^8] usually leased by the popular Wayang Kassim troupe, also known as Indra Zanibar Royal Theatrical Company. At 485 North Bridge Road was the “New Parsi Theatre Hall” that was frequently leased by Wayang Pusi from Penang. The latter – also known by various names such as Indra Bangsawan, The Queen Alexandra Theatrical Company and the Empress Victoria Jawi Peranakan Theatrical Company – is commonly acknowledged to be the first *bangsawan* troupe in Malaya. A few doors away at 499 North Bridge Road was Alexandra Theatre Hall, or Alexandra Hall, leased by Opera Yap Chow Tong, a *bangsawan* troupe.
@@ -55,7 +55,7 @@ Such was the state of the theatres catering to local entertainment that when The
 
 #### **Theatre Royal**
 
-<img src="/images/Vol-15-issue-4//theatres-of-bangsawan/cks.JPG" style="width: 300px; height: 300px;">
+<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-4//theatres-of-bangsawan/cks.JPG">
 <div style="background-color: white;">Cheong Koon Seng opened Theatre Royal in 1908.<i> Image reproduced from Geni.com</i></div>
 
 Located at the site now occupied by Raffles Hospital, Theatre Royal is believed to be the first “permanent” theatre for the so-called “native” form of entertainment.[^18] It was described as a “most substantial edifice of brick, iron and stone, with seating accommodation for about 1,300 people”.[^19]
@@ -123,9 +123,9 @@ The gradual conversion of *bangsawan* venues to movie theatres sounded the death
 
 Diamond Theatre and Royal Theatre continued with their new leases of life as Tamil cinemas until the late 1970s. In 1970, the government announced its land acquisition plans in the Rochor area, which included the sites of both theatres. By the end of the 1970s, the chapter on theatres specially built for *bangsawan* performances finally came to a close when these venues were demolished, making way for urban redevelopment.[^39]
 
-#### The Allure of Bangsawan
+#### **The Allure of Bangsawan**
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/production.JPG">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/production.JPG" style="width: 450px; height: 300px;">
 <div style="background-color: white;">A scene from a bangsawan production, c. 1900s.<i>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</i>.</div>
 
 |It is believed that the first *bangsawan* troupes made their appearance in Singapore in the late 19th century, inspired by the travelling Parsi theatre groups from Gujarat, India, which started touring Malaya and the Dutch East Indies in the 1870s.[^12]
@@ -143,7 +143,7 @@ Diamond Theatre and Royal Theatre continued with their new leases of life as Tam
 |Stories in *bangsawan* theatre were usually adapted from the *Sejarah Melayu* (Malay Annals), the two great Indian epics the *Mahabharata* and the *Ramayana*, Arabic tales, Chinese classics, European stories and even Shakespearean plays. Each act was interspersed with performances consisting of orchestral music, songs, dances, comedy skits and novelty acts. It was not uncommon for *bangsawan* productions to include exotic songs from the Americas, Middle East and India. Musical instruments from different cultures, such as the piano, violin and tabla, were also featured.[^17]
 
 <br>
-<img src="/images/Vol-15-issue-4//theatres-of-bangsawan/tch1.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4//theatres-of-bangsawan/tch1.jpg">
 <center>
 <b>Tan Chui Hua</b>
 Researcher and writer Tan Chui Hua has worked on various projects documenting the heritage of Singapore, including a number of heritage trails and publications.
