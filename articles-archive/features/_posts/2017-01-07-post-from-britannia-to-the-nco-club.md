@@ -12,3 +12,4 @@ Dominating the far end of Beach Road, just opposite Raffles Hotel, are the glass
 
 Most of these early Modernist structures are closely connected with the Singapore Volunteer Corps (SVC) – the precursor of the Singapore Armed Forces (SAF) – whose history dates back to 18541. All of the heritage buildings are pre-World War II, save for the NAAFI Britannia Club at the corner of Beach Road and Bras Basah Road that opened in 1952.2 Renamed the SAF NCO (Singapore Armed Forces Non-Commissioned Officers Club in 1974, this is where generations of soldiers in Singapore would unwind and enjoy their rest and recreation hours until the curtain came down on its history some 26 years later.[^3]
 
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg)
