@@ -50,13 +50,13 @@ The offspring of British servicemen recall blissful times spent at the club. Mos
 <div style="background-color: white;">(Above) Carol Traynor, who served in the Women’s Royal Army Corps (WRAC) in Singapore from June 1966 to April 1967, and her friend Jenny Nelson (Bottom), used to frequent the Britannia Club after their shifts at Tanglin Camp. They would sunbathe on the terrace above the pool with the blue sea in the distance. To them, life in Singapore was like being on a permanent holiday. <i>Courtesy of Carol Traynor.</i></div>
 <div style="background-color: white;">(Right) Nuffield Swimming Pool at the Britannia Club – named after the British philanthropist and founder of Morris Motors Company, Lord Nuffield – had been completed in 1951, a year before the clubhouse opened. It was one of Singapore’s first Olympic-sized pools. <i>Courtesy of Editions Didier Millet.</i></div>
 
-**Be My Pin-up Girl**
+#### **Be My Pin-up Girl**
 
 Suddenly for a few weeks in March 1956, Wrens, Wracs and Wrafs – acronyms for British servicewomen in the army, navy and air force – at the Britannia Club started primping and preening themselves. The reason: NAAFI in |Britain had launched a worldwide “Beauty in Uniform” competition, and the winner could find herself the pin-up girl for homesick British servicemen all over the world. Soldiers were encouraged to send photos of servicewomen in uniform to the NAAFI office in Britain.|
 
 |The Straits Times reported, rather tongue-in-cheek on 20 February 1956, that “British troops at the Britannia Club Singapore approved enthusiastically when told of the competition… Said Private James Love of the King’s Own Scottish Borderers: ‘First-class idea. I haven’t been here long, but I’ve already met a couple of lasses who could give any film star a run for her money. I am going right out to buy myself a camera!’”[^11]|
 
-**Exit Britannia**
+#### **Exit Britannia**
 
 In the late 1960s, Britain’s economy entered a difficult phase and its defence budget was scaled back. On 18 July 1967, the Labour government announced plans to withdraw its troops in Singapore by 1975 – only to revoke this six months later and bring the date forward to 1971. The news was met with much handwringing in Singapore. The sudden pullout by the British meant a severely weakened Singapore, which was still heavily dependent on Britain for propping up both its economy and its defence.[^12]
 
@@ -67,9 +67,9 @@ But the process had started and there was no turning back. As a compromise, the 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/4-britannia-nco.jpg)
 <div style="background-color: white;">The NCOs were a sporty bunch, representing the club in water polo matches, swimming competitions, soccer, badminton and hockey tournaments, and marathons. <i>Courtesy of MINDEF.</i></div>
 
-**Enter the NCO Club**
+#### **Enter the NCO Club**
 
-The Britannia Club closed on 30 April 1971; the pool was drained and the doors and windows shuttered. The poolside picnics, the rambunctious parties and the laughter vanished, and a lone jaga (watchman) was hired to guard the desolate premises. Its closure marked the end of the colour and gaiety that British military life had brought to Singapore.[^14]
+The Britannia Club closed on 30 April 1971; the pool was drained and the doors and windows shuttered. The poolside picnics, the rambunctious parties and the laughter vanished, and a lone *jaga* (watchman) was hired to guard the desolate premises. Its closure marked the end of the colour and gaiety that British military life had brought to Singapore.[^14]
 
 A year later, the government negotiated with NAAFI to buy out the Britannia Club and the 63,000 sq ft of prime real estate it sat on. The idea at the time was to convert the premises for public use, but with defence being a priority, a decision was made to turn it into a recreation centre for non-commissioned officers (NCOs) of the Singapore Armed Forces and their families.[^15]
 
@@ -77,12 +77,12 @@ The government spent $236,000 sprucing up the premises, and on 17 March 1974, th
 
 Lim Phai Som, the first president of the club from December 1973 to April 1974, had only five months to get the club ready before the big opening day. After being left derelict for nearly three years, the club was in shambles when renovations began in October 1973. But Lim and his team managed to restore the shine back to the club before it opened.
 
-Truth be told, the facilities of the NCO Club were quite spartan on opening day. Compared to what the British forces had enjoyed at the Britannia Club, the Singapore soldiers were only served by a handful of hawker stalls – selling local fare such as chicken rice, wonton noodles and rojak – a Snack Bar, the Barrel Lounge, Billiards Room, Reading Room and, of course, that magnificent swimming pool. But still, it was a place to call their own – and the downtown location was undeniably superb.
+Truth be told, the facilities of the NCO Club were quite spartan on opening day. Compared to what the British forces had enjoyed at the Britannia Club, the Singapore soldiers were only served by a handful of hawker stalls – selling local fare such as chicken rice, *wonton noodles and rojak* – a Snack Bar, the Barrel Lounge, Billiards Room, Reading Room and, of course, that magnificent swimming pool. But still, it was a place to call their own – and the downtown location was undeniably superb.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/5-britannia-nco.jpg)
 <div style="background-color: white;">In the 1980s and 90s, the NCO Club organised events such as tombola nights, barbecue nights, Christmas and New Year parties, social dance lessons, music and swimming classes as well as cultural performances for members. <i>Courtesy of MINDEF.</i></div>
 
-**Something for Every NCO**
+#### **Something for Every NCO**
 
 It cost the NCOs little to join the club: regulars paid $1 a month in membership dues and their national service counterparts paid 50 cents or $1 depending on their rank.
 
@@ -148,7 +148,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png">
+<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png" style="width: 100px; height: 100px;">
 	<b>Francis Dorai</b> has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
