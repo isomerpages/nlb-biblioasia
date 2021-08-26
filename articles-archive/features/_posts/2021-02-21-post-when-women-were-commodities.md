@@ -148,7 +148,7 @@ Winter’s appointment as Lady Assistant Protector of Chinese was significant as
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -158,7 +158,7 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
 
 #### **Notes**
-[^1]:
+[^1]:Warren, J.F. (2003). *[Ah ku and karayuki-san: Prostitution in Singapore, 1870–1940](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 212). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
 [^2]:
 [^3]:
 [^4]:
@@ -179,4 +179,7 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^19]:
 [^20]:
 
-
+[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 259
+Turnbull, C. M. (2009). A history of modern Singapore, 1819–2005 (p. 101). Singapore: NUS Press. (Call no.: RSING 959.57 TUR-[HIS])
+Warren, 2003, pp. 219–222.
+我是一個妓女. (1940, October 25). 《南洋商报》 [Nanyang Siang Pau], p. 22. Retrieved from NewspaperSG.
