@@ -52,7 +52,7 @@ The offspring of British servicemen recall blissful times spent at the club. Mos
 
 |**Be My Pin-up Girl**|
 
-|Suddenly for a few weeks in March 1956, Wrens, Wracs and Wrafs – acronyms for British servicewomen in the army, navy and air force – at the Britannia Club started primping and preening themselves. The reason: NAAFI in |Britain had launched a worldwide “Beauty in Uniform” competition, and the winner could find herself the pin-up girl for homesick British servicemen all over the world. Soldiers were encouraged to send photos of servicewomen in uniform to the NAAFI office in Britain.|
+|Suddenly for a few weeks in March 1956, Wrens, Wracs and Wrafs – acronyms for British servicewomen in the army, navy and air force – at the Britannia Club started primping and preening themselves. The reason: NAAFI in Britain had launched a worldwide “Beauty in Uniform” competition, and the winner could find herself the pin-up girl for homesick British servicemen all over the world. Soldiers were encouraged to send photos of servicewomen in uniform to the NAAFI office in Britain.|
 
 |*The Straits Times* reported, rather tongue-in-cheek on 20 February 1956, that “British troops at the Britannia Club Singapore approved enthusiastically when told of the competition… Said Private James Love of the King’s Own Scottish Borderers: ‘First-class idea. I haven’t been here long, but I’ve already met a couple of lasses who could give any film star a run for her money. I am going right out to buy myself a camera!’”[^11]|
 
@@ -152,7 +152,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png">
 	<b>Francis Dorai</b> has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
