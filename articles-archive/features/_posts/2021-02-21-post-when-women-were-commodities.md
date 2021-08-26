@@ -96,7 +96,7 @@ How did these* pipa tsai* enter such employment? Like the *mui tsai*, they had b
 
 Girls who had been forcibly controlled and detained by these aunts could escape their bondage only after they had outlived their popularity or if they were able to find married men who were willing to buy them out of their pipa-playing employment.[^33] The more fortunate girls were rescued by the authorities and taken in by the Po Leung Kuk. But this was a temporary arrangement: the future of these girls depended on whether they could learn new skills and find suitable jobs after leaving the Po Leung Kuk.
 
-<img style="width: 400px; height: 200px;" src="/images/Vol-15-issue-4/when-women-were-commodities/hostesses.JPG">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/hostesses.JPG" style="width: 400px; height: 200px;">
 <div style="background-color: white;">Five dance hostesses at a cabaret in the 1930s. The women are dressed in figure-hugging <i>cheongsams</i> with daring slide slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.
 </i></div>
 
@@ -104,7 +104,7 @@ Girls who had been forcibly controlled and detained by these aunts could escape 
 
 When the glitz and glamour of the 1920s Shanghai nightclub scene spilled over to Singapore, it brought with it the promise of a different life, at least for some of the women who struggled to make a new life for themselves after they had left or broken free from sexual slavery and bondage.
 
-The women who chose to step into Singapore’s budding cabaret scene could now take control over their lives. Dancing in a cabaret paid relatively well, and was filled with music, alcohol and laughter. They could doll up and use their feminine wiles to manipulate men, unlike the subservient*mui tsai*, *pipa tsai* or brothel worker who had to endure servitude, slavery and indignity.
+The women who chose to step into Singapore’s budding cabaret scene could now take control over their lives. Dancing in a cabaret paid relatively well, and was filled with music, alcohol and laughter. They could doll up and use their feminine wiles to manipulate men, unlike the subservient *mui tsai*, *pipa tsai* or brothel worker who had to endure servitude, slavery and indignity.
 
 As cabarets and nightclubs burgeoned in Singapore,[^34] women who lacked education or skills were able to seek out more enticing employment opportunities, beyond just prostitution. This is not to say that prostitution disappeared; not everyone had the attributes of a cabaret girl. For those who did not, the flesh trade continued to be an option.
 
@@ -128,7 +128,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.[^24]
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG" style="width: 200px; height: 300px;">
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG">
 <div style="background-color: white;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.
 </i></div><br>
 
@@ -149,7 +149,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 <br>
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
