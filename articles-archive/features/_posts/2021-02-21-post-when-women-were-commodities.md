@@ -148,7 +148,7 @@ Winter’s appointment as Lady Assistant Protector of Chinese was significant as
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -161,8 +161,8 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^1]:Warren, J.F. (2003). *[Ah ku and karayuki-san: Prostitution in Singapore, 1870–1940](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 212). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
 [^2]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 259
 [^3]:Turnbull, C. M. (2009).*[ A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047)* (p. 101). Singapore: NUS Press. (Call no.: RSING 959.57 TUR-[HIS])
-[^4]:
-[^5]:
+[^4]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, [pp. 219–222](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062).
+[^5]:[我是一個妓女](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19401025-1.2.65). (1940, October 25). 《南洋商报》 [*Nanyang Siang Pau*], p. 22. Retrieved from NewspaperSG.
 [^6]:
 [^7]:
 [^8]:
@@ -178,8 +178,17 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^18]:
 [^19]:
 [^20]:
-
-
-
-[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 219–222.
-我是一個妓女. (1940, October 25). 《南洋商报》 [Nanyang Siang Pau], p. 22. Retrieved from NewspaperSG.
+Warren, 2003, p. 233.
+Warren, 2003, p. 216.
+Warren, 2003, p. 258.
+Warren, 2003, p. 268.
+Warren, 2003, pp. 268–270.
+Heritage Committee. Japanese Association. (1998). Prewar Japanese community in Singapore: Picture and record. Singapore: Japanese Association, Singapore. (Call no.: RSING 305.895605957 PRE)
+Warren, 2003, pp. 320–321.
+Warren, 2003, p. 358.
+Warren, 2003, pp. 366–367.
+Warren, 2003, p. 258.
+Lim, H.S. (Interviewer). (1980, February 5). Oral history interview with Choong Keow Chye 钟桥才  [Transcript of recording no. 000015/2/1, p. 8]. Retrieved from National Archives of Singapore website. 
+Warren, 2003, pp. 60–61. 
+Warren, 2003, p. 279.
+Koh, C.C. (1994). Implementing government policy for the protection of women and girls in Singapore: Recollections of a social worker (p. 125). In M. Jaschok &amp; S. Miers. (Eds.). (1994). Women &amp; Chinese patriarchy: Submission, servitude, and escape. Hong Kong: Hong Kong University Press: London; Atlantic Highlands, N.J.: Zed Books. (Call no.: RSING 305.420951 WOM)
