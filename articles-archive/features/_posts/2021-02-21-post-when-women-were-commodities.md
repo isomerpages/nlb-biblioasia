@@ -53,3 +53,23 @@ Warren’s research uncovered shocking accounts of sex workers dying because of 
 One account by Chu Ah Tan, a brothel owner, recounted the desperation experienced by a prostitute struggling with pulmonary tuberculosis and venereal disease. For eight years she smoked opium and injected herself with increasing dosages of morphine. She finally died after an overdose of opium.
 
 “Wong Mau Tan was one of the prostitutes in my brothel… she was coughing a lot and said that she had a cough and headache for two months. Yesterday evening, her maidservant found her in bed, spit was coming from her mouth. I removed her to the hospital, she was conscious up to the last.”14
+
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/china%20street.JPG">
+<div style="background-color: white;">A G.R. Lambert &amp; Co. photo of coolies on China Street, 1890s. The street was infamous for its numerous gambling houses. <i>Courtesy of Editions Didier Millet.
+</i></div>
+
+#### **An Evening’s Entertainment**
+
+Why did men in Singapore visit prostitutes? For some, it was all part of business entertainment. Influential Chinese and European elites would arrange to meet in brothels to discuss business first before progressing to the evening’s entertainment.15 And it was not just the rich who thought a visit to a prostitute was normal.
+
+Entreprenuer Choong Keow Chye recalled in his oral history account:
+
+“I was a* sinkeh* earning about $10 a month. These people who won some money, $80 to $100, in gambling invited me to the brothel… Three to five dollars, or eight to ten dollars would pay for a night’s stay with a prostitute.”16
+
+The women could not keep all this money either: they were expected to pay the brothel owner between 40 and 50 percent of their earnings for rent, secret society protection, food, tailored dresses, loan of jewellery and medical fees.17
+
+Beyond the immediate satiation of their sexual urges, many of the thousands of men who sought comfort in the arms of prostitutes did not see marriage in their future. They were too poor and earned too little to even entertain the thought of finding a wife, either in Singapore or back in their hometowns.18 These men toiled as manual labourers, working as rickshaw pullers, coal shovellers, construction workers and coolies, and led a tough life with little or no means of leisure. Apart from work, these men were lonely and many led a meaningless existence without companionship.
+
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/building.JPG">
+<div style="background-color: white;">The now demolished Chinese Protectorate building on Havelock Road, c. 1910. The office was first set up in 1877 at a shophouse on North Canal Road under William Pickering, the first Protector of Chinese, to look after the affairs of Singapore’s migrant Chinese community. In 1888, the Protectorate established the Po Leung Kuk in another location to help women who had been sold or tricked into prostitution. <i>Courtesy of National Museum of Singapore, National Heritage Board.
+</i></div>
