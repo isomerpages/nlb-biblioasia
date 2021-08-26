@@ -50,7 +50,8 @@ By 1819, the Malay printing press was under the full charge of Thomsen who emplo
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/3-claudies-henry-thomsen.png)
 <div style="background-color: white;">Likely the Chinese printing press used in Malacca in the early 19th century. Brightwell, C.L. (1874). So Great Love: Sketches of Missionary Life andLabour. London: John Snow and Co. <i>Courtesy of Wikimedia Commons.</i></div>
 
-Printing in Singapore
+#### Printing in Singapore
+
 The LMS was established in Singapore in October 1819, a few months after the founding of the settlement. Samuel Milton was the first head of the Singapore mission.
 
 Thomsen left Malacca for Singapore on 11 May 1822 and arrived on 19 May, although academic Anthony Haydock Hill (A.H. Hill) suggests that Thomsen and Munshi Abdullah had visited Singapore earlier, likely after June 1819. Thomsen immediately aligned himself with Raffles who commended the former’s proficiency in Malay. Both men agreed to establish a press, with Raffles stating: “I look with great confidence to the influence of a well-conducted press in this part of the East”.[^16]
@@ -149,7 +150,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png">
+<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png" style="width: 100px; height: 100px;">
 	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
 </div>
 
