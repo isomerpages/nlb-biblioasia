@@ -128,7 +128,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.24
 
-<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG" style="width: 200px; height: 300px;">
 <div style="background-color: white;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.
 </i></div>
 
@@ -150,7 +150,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 <br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -183,17 +183,16 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^21]:Paul, G. (1990). [*The Poh Leung Kuk in Singapore: Protection of women and girls*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202819886) (p. 17) [Unpublished undergraduate thesis, National University of Singapore]. Singapore: [s.n.]. (Call no.: RCLOS 305.42095957 PAU); [Chinese affairs in Malaya](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320414-1.2.139). (1932, April 14). *The Straits Times*, p. 19; [Chinese topics in Malaya](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320922-1.2.115). (1932, September 22). *The Straits Times*, p. 16. Retrieved from NewspaperSG. 
 [^22]:[Warren](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827062), 2003, pp. 336–337.
 [^23]:[A woman’s notebook](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360123-1.2.153.12). (1936, January 23). *The Straits Times*, Women’s Supplement, p. 2. Retrieved from NewspaperSG.
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
-[^30]:
-Levine, P. (2003). [Prostitution, race, and politics: Policing venereal disease in the British Empire](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12389891) (p. 214). New York: Routledge.  (Call no.: R 306.740941 LEV)
-Death of Mrs H.B. Winter. (1934, January 26). The Straits Times, p. 13. Retrieved from NewspaperSG.
-Paul, 1990, pp. 30–32.
-Lady Assistant Protector of Chinese. (1934, January 26). The Malaya Tribune, p. 10. Retrieved from NewspaperSG. 
-The Malaya Tribune, 26 Jan 1934, p. 10.
-The Straits Times, 26 Jan 1934, p. 13.
-Po Leung Kuk at home. (1937, October 17). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^24]:Levine, P. (2003). [*Prostitution, race, and politics: Policing venereal disease in the British Empire*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12389891) (p. 214). New York: Routledge.  (Call no.: R 306.740941 LEV)
+[^25]:[Death of Mrs H.B. Winter](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340126-1.2.85). (1934, January 26). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+[^26]:[Paul](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202819886), 1990, pp. 30–32.
+[^27]:[Lady Assistant Protector of Chinese](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340126-1.2.107). (1934, January 26). *The Malaya Tribune*, p. 10. Retrieved from NewspaperSG. 
+[^28]:[*The Malaya Tribune*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340126-1.2.107), 26 Jan 1934, p. 10.
+[^29]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340126-1.2.85), 26 Jan 1934, p. 13.
+[^30]:[*Po Leung Kuk at home*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371017-1.2.68). (1937, October 17). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^31]:
+[^32]:
+[^33]:
+[^34]:
+[^35]:
+
