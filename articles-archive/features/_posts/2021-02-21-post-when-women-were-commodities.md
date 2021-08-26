@@ -128,10 +128,11 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.24
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG" style="width: 200px; height: 300px;">
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG">
 <div style="background-color: white;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.
 </i></div>
 
+<br>
 |On 1 March 1929, Mrs Mabel Winter was appointed the first Lady Assistant Protector of Chinese.25 She took over the management of Po Leung Kuk’s day-today operations and was assisted in her duties by a committee of ladies.26
 
 |Winter’s appointment as Lady Assistant Protector of Chinese was significant as it was the first time a woman had been given such an important post, signifying the serious intent of the British, or at least the Chinese Protectorate, to rescue and rehabilitate women and girls from prostitution and slavery.
@@ -149,7 +150,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 <br>
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -178,4 +179,21 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^17]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 60–61. 
 [^18]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 279.
 [^19]:Koh, C.C. (1994). Implementing government policy for the protection of women and girls in Singapore: Recollections of a social worker (p. 125). In M. Jaschok &amp; S. Miers. (Eds.). (1994). [Women &amp; Chinese patriarchy: Submission, servitude, and escape](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7193205). Hong Kong: Hong Kong University Press: London; Atlantic Highlands, N.J.: Zed Books. (Call no.: RSING 305.420951 WOM)
-[^20]:
+[^20]:[Little maid-of-all-work tells sad story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19331013-1.2.50).  (1933, October 13). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG.
+[^21]:Paul, G. (1990). [*The Poh Leung Kuk in Singapore: Protection of women and girls*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202819886) (p. 17) [Unpublished undergraduate thesis, National University of Singapore]. Singapore: [s.n.]. (Call no.: RCLOS 305.42095957 PAU); [Chinese affairs in Malaya](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320414-1.2.139). (1932, April 14). *The Straits Times*, p. 19; [Chinese topics in Malaya](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320922-1.2.115). (1932, September 22). *The Straits Times*, p. 16. Retrieved from NewspaperSG. 
+[^22]:[Warren](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827062), 2003, pp. 336–337.
+[^23]:[A woman’s notebook](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360123-1.2.153.12). (1936, January 23). *The Straits Times*, Women’s Supplement, p. 2. Retrieved from NewspaperSG.
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
+Levine, P. (2003). [Prostitution, race, and politics: Policing venereal disease in the British Empire](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12389891) (p. 214). New York: Routledge.  (Call no.: R 306.740941 LEV)
+Death of Mrs H.B. Winter. (1934, January 26). The Straits Times, p. 13. Retrieved from NewspaperSG.
+Paul, 1990, pp. 30–32.
+Lady Assistant Protector of Chinese. (1934, January 26). The Malaya Tribune, p. 10. Retrieved from NewspaperSG. 
+The Malaya Tribune, 26 Jan 1934, p. 10.
+The Straits Times, 26 Jan 1934, p. 13.
+Po Leung Kuk at home. (1937, October 17). The Straits Times, p. 8. Retrieved from NewspaperSG.
