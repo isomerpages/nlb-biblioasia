@@ -25,7 +25,7 @@ The Chinese missions in Malacca had opened that same year[^6] with the objective
 
 Upon his arrival in Malacca, Thomsen was introduced to Munshi Abdullah who helped guide him in his understanding of the Malay language. It is through Abdullah’s autobiography, Hikayat Abdullah (Stories of Abdullah), that the earliest picture of Thomsen was formed.[^8] Thomsen spent his early months in Malacca mastering the language, beginning with the translation of the Gospel of Matthew based on the Batavia-Dutch edition of 1758.
 
-#### Printing in Malacca
+#### **Printing in Malacca**
 
 In November 1816, more than a year after Thomsen first set foot in Malacca, the press and font types for English and Arabic text arrived from Serampore, West Bengal, which was then the main type foundry for the region. Six trained printers came along to operate the press, four more workers than requested, thereby inflating the monthly expenditure of the Malacca station.
 
@@ -50,7 +50,7 @@ By 1819, the Malay printing press was under the full charge of Thomsen who emplo
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/3-claudies-henry-thomsen.png)
 <div style="background-color: white;">Likely the Chinese printing press used in Malacca in the early 19th century. Brightwell, C.L. (1874). So Great Love: Sketches of Missionary Life andLabour. London: John Snow and Co. <i>Courtesy of Wikimedia Commons.</i></div>
 
-#### Printing in Singapore
+#### **Printing in Singapore**
 
 The LMS was established in Singapore in October 1819, a few months after the founding of the settlement. Samuel Milton was the first head of the Singapore mission.
 
@@ -68,7 +68,7 @@ By mid-1823, there appeared to be two groups running different presses at the sa
 
 Unfortunately, it was unsustainable to run two separate presses and when Milton left the mission in 1825, his printing press was handed over to Thomsen. Thomsen had three large buildings constructed at the junction of North Bridge Road and Bras Basah Road, on land owned by Anglican priest Revered Robert Burn, to house the printing press, its workmen and stores.[^23]
 
-#### First Publications in Singapore
+#### **First Publications in Singapore**
 
 The title and date of the first publication printed in Singapore cannot be ascertained. Milton mentioned an early attempt at printing a periodical and an exposition of the Book of Genesis in Chinese in a letter to George Burder, treasurer and secretary of the LMS, dated 23 September 1822. He also had plans to print pamphlets and later the New Testament in Siamese. However, no mention is subsequently made of these publications and so it is assumed that they were never completed.[^24] Academic Leona O’Sullivan holds the view that printing in Singapore began with the publication of Raffles’ Proclamation of 2 December 1822,[^25] while Bastin records that it is Raffles’ Proclamation of 1 January 1823.[^26]
 
@@ -83,7 +83,7 @@ Besides making initial inroads into Malay publishing, Thomsen stands as a forgot
 
 Thomsen’s “crowning achievement”, however, as academic Ibrahim bin Ismail notes, was his translation of the New Testament into Malay based on the Calcutta edition. With the help of the Anglican padre Robert Burn, Thomsen devoted much of his time translating the work between 1830 and 1831. With funding from the British and Foreign Bible Society, he printed 1,500 copies of the publication in June 1831.[^30]
 
-#### Departure from Singapore
+#### **Departure from Singapore**
 
 By the end of 1833, Thomsen was near exhaustion and could do nothing else except concentrate on printing. He had been the only missionary in town for some time and spent the past years distributing tracts on a daily basis, besides running the press and managing the school and other services. Missionary Jacob Tomlin described it thus:
 
@@ -150,7 +150,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png">
 	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
 </div>
 
