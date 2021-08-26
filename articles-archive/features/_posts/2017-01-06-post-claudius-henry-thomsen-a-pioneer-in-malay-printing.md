@@ -150,7 +150,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png">
+<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png" style="width: 100px; height: 100px;">
 	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
 </div>
 
@@ -163,11 +163,11 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 [^3]:Today, Lower Saxony is part of Germany although for some time in the 19th century, it was part of Denmark. This is why Thomsen is sometimes referred to as German and at other times, Danish.
 [^4]:According to A.H. Hill, Thomsen was in the Dutch East Indies prior to his arrival in Malacca in 1815 and had likely picked up Indonesian Malay there, which is distinct from the Malay spoken in the Peninsula. This may account for Thomsen’s claims in having prior knowledge of the Malay language and Abdullah’s frustrations in teaching him the language. See [Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 291.
 [^5]:Milner, A.C. (1981, June). [Notes on C.H. Thomsen: Missionary to the Malays](http://eresources.nlb.gov.sg/ISI/ContentPage.aspx?UUID=94ae6ca0-9c92-4f12-b0f0-9d57ea63567f). Indonesia Circle, 25, p. 45. Call no.: RCLOS 959.8 IC
-[^6]:Philip, R. (1840). The life and opinions of the Rev William Milne, D.D. missionary to China (p. 197). Philadelphia: Herman Hooker. Call no.: RRARE 266.02341051 PHI
-[^7]:Morrison, E. (1839). Memoirs of the life and labours of Robert Morrison (Vol 1, p. 355). London: Longman, Orme, Brown, Green and Longmans. Call no.: RRARE 266.02341051092 MOR
-[^8]:Hill, Jun 1955, p. 17.
-[^9]:Hill, Jun 1955, p. 112.
-[^10]:Ibrahim bin Ismail. (1980). Early Malay printing in the Straits Settlements by missionaries of the London Missionary Society (pp. 43–44, 48). MA Thesis in Library and Information Studies, School of Library, Archive and Information Studies, University College London. Call no.: RSING 686.209595 IBR; Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library Collections. Journal of the Malaysian Branch of the Royal Asiatic Society, 63 (1 (258)), 85–124, p. 95. Call no.: RCLOS 959.5 JMBRAS
+[^6]:Philip, R. (1840). [The life and opinions of the Rev William Milne, D.D. missionary to China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202651488) (p. 197). Philadelphia: Herman Hooker. Call no.: RRARE 266.02341051 PHI
+[^7]:Morrison, E. (1839). [Memoirs of the life and labours of Robert Morrison](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201924906) (Vol 1, p. 355). London: Longman, Orme, Brown, Green and Longmans. Call no.: RRARE 266.02341051092 MOR
+[^8]:[Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 17.
+[^9]:[Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 112.
+[^10]:Ibrahim bin Ismail. (1980). [Early Malay printing in the Straits Settlements by missionaries of the London Missionary Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5271424) (pp. 43–44, 48). MA Thesis in Library and Information Studies, School of Library, Archive and Information Studies, University College London. Call no.: RSING 686.209595 IBR; Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library Collections. Journal of the Malaysian Branch of the Royal Asiatic Society, 63 (1 (258)), 85–124, p. 95. Call no.: RCLOS 959.5 JMBRAS
 [^11]:Harrison, B. (1979). Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and early nineteenth-century missions (pp. 30–31). Hong Kong: Hong Kong University Press. Call no.: RSING 207.595141 HAR
 [^12]:Ibrahim, 1980, pp. 44–45; O’Sullivan, 1984, p. 71.
 [^13]:O’Sullivan, 1984, p. 73.
