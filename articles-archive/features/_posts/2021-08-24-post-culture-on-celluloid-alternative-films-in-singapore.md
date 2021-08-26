@@ -70,7 +70,7 @@ Special mention should also be made of the British Council, which staged one of 
 Today, film festivals are almost de rigueur channels of promotion for foreign embassies. A <i>Business Times</i> article in 2003 reported that 10 to 12 film festivals are organised each year with robust ticket sales of up to 95 percent.[^15] Some of the foreign festivals that regularly appear on the film festival calendar include the French, Italian, German, Japanese, European Union, Chinese and Korean film festivals. Country-themed festivals on Arab, Australian, Israeli, Latin American, New Zealand, Russian, Scandinavian and Southeast Asian cinema have also been organised by foreign cultural agencies, the SFS or the Singapore International Film Festival (SGIFF).
 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/cultureoncelluloid/German_Film_Festival.jpg)
 <div style="background-color: white;">Publicity poster of the 8th German Film Festival held in 2004. Collection of the National Library, Singapore.</div>
 
 
