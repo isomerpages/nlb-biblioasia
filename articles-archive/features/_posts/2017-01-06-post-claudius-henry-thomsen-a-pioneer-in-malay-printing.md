@@ -141,56 +141,56 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png">
+<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png" style="width: 100px; height: 100px;">
 	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
-Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. Journal of the Malaysian Branch of the Royal Asiatic Society, 54(2 (240)), 1–73, pp. 52–53. Call no.: RCLOS 959.5 JMBRAS. [Bastin notes that Regulation No. 1 – “A Regulation for the Registry of Land at Singapore” – was printed that same day on 1 January 1823 and Abdullah’s suggestion that it was the regulation on the prohibition of gambling was most likely wrong as this was printed some time later in May 1823. Some academics report the publication date as 31 December 1822 as printing began the night before as described in the Hikayat Abdullah. Leona O’Sullivan mentions a proclamation written on 2 December 1822. See O’ Sullivan, L. (1984). The London Missionary Society: A written record of missionaries and printing presses in the Straits Settlements, 1815–1847. Journal of the Malaysian Branch of the Royal Asiatic Society, 57 (2 (247)), 61–104, p. 74. Call no.: RCLOS 959.5 JMBRAS)
+[^1]:Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. Journal of the Malaysian Branch of the Royal Asiatic Society, 54(2 (240)), 1–73, pp. 52–53. Call no.: RCLOS 959.5 JMBRAS. [Bastin notes that Regulation No. 1 – “A Regulation for the Registry of Land at Singapore” – was printed that same day on 1 January 1823 and Abdullah’s suggestion that it was the regulation on the prohibition of gambling was most likely wrong as this was printed some time later in May 1823. Some academics report the publication date as 31 December 1822 as printing began the night before as described in the Hikayat Abdullah. Leona O’Sullivan mentions a proclamation written on 2 December 1822. See O’ Sullivan, L. (1984). The London Missionary Society: A written record of missionaries and printing presses in the Straits Settlements, 1815–1847. Journal of the Malaysian Branch of the Royal Asiatic Society, 57 (2 (247)), 61–104, p. 74. Call no.: RCLOS 959.5 JMBRAS)
 
-Hill, A.H. (1955, June). The Hikayat Abdullah. Journal of the Malayan Branch of the Royal Asiatic Society, 28 (3 (171)), 3–354, pp. 165–166. Call no.: RCLOS 959.5 JMBRAS
+[^2]:Hill, A.H. (1955, June). The Hikayat Abdullah. Journal of the Malayan Branch of the Royal Asiatic Society, 28 (3 (171)), 3–354, pp. 165–166. Call no.: RCLOS 959.5 JMBRAS
 
-Today, Lower Saxony is part of Germany although for some time in the 19th century, it was part of Denmark. This is why Thomsen is sometimes referred to as German and at other times, Danish.
-According to A.H. Hill, Thomsen was in the Dutch East Indies prior to his arrival in Malacca in 1815 and had likely picked up Indonesian Malay there, which is distinct from the Malay spoken in the Peninsula. This may account for Thomsen’s claims in having prior knowledge of the Malay language and Abdullah’s frustrations in teaching him the language. See Hill, Jun 1955, p. 291.
-Milner, A.C. (1981, June). Notes on C.H. Thomsen: Missionary to the Malays. Indonesia Circle, 25, p. 45. Call no.: RCLOS 959.8 IC
-Philip, R. (1840). The life and opinions of the Rev William Milne, D.D. missionary to China (p. 197). Philadelphia: Herman Hooker. Call no.: RRARE 266.02341051 PHI
-Morrison, E. (1839). Memoirs of the life and labours of Robert Morrison (Vol 1, p. 355). London: Longman, Orme, Brown, Green and Longmans. Call no.: RRARE 266.02341051092 MOR
-Hill, Jun 1955, p. 17.
-Hill, Jun 1955, p. 112.
-Ibrahim bin Ismail. (1980). Early Malay printing in the Straits Settlements by missionaries of the London Missionary Society (pp. 43–44, 48). MA Thesis in Library and Information Studies, School of Library, Archive and Information Studies, University College London. Call no.: RSING 686.209595 IBR; Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library Collections. Journal of the Malaysian Branch of the Royal Asiatic Society, 63 (1 (258)), 85–124, p. 95. Call no.: RCLOS 959.5 JMBRAS
-Harrison, B. (1979). Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and early nineteenth-century missions (pp. 30–31). Hong Kong: Hong Kong University Press. Call no.: RSING 207.595141 HAR
-Ibrahim, 1980, pp. 44–45; O’Sullivan, 1984, p. 71.
-O’Sullivan, 1984, p. 73.
-Many of Thomsen’s works were translated with much help from Munshi Abdullah.
-Ching, 1996. pp. 127–128.
-Hill, Jun 1955, p. 18; Raffles, S. (1830). Memoir of the life and public services of Sir Thomas Stamford Raffles (pp. 536–537). London: John Murray. Call no.: RRARE 959.570210924 RAF
-O’Sullivan, 1984, pp. 74–78. [Raffles wrote on 5 January 1823 that he had “a press going in English &amp; Malay”. See Bastin, 1981, p. 17.]
-Byrd, C.K. (1970). Early printing in the Straits Settlements, 1806–1858 (p. 13). Singapore: Singapore National Library. Call no.: RSING 686.2095957 BYR
-O’Sullivan, 1984, p. 86.
-O’Sullivan, 1984, pp. 86, 90; Ching, 1996, pp. 112, 126–127. [On 27 November 1832, Thomsen returned this small wooden press to Penang at the request of the LMS.]
-Bastin, 1981, pp. 52–53
-Ching, 1996, p. 158
-O’Sullivan, 1984, pp. 78–79; Ching, 1996, pp. 159–160. [Milton left the mission but not Singapore, remaining there until his death in 1849.]
-Ching, 1996, pp. 63, 154–155, 445.
-O’Sullivan, 1984, p. 74.
-Bastin, J.S. (2014). Raffles and Hastings: Private exchanges behind the founding of Singapore (pp. 216–217). Singapore: National Library Board and Marshall Cavendish Editions. Call no.: RSING 959.5703 BAS
-The only known complete work for the 1827 edition is found in the Singapore/Malaysia Collection at the National University of Singapore Library. See National University of Singapore. (2011, September 6). The Singapore/Malaysia Collection. Retrieved from National University of Singapore website.
-Noorduyn, 1957, p. 248.
-O’Sullivan, 1984, pp. 82, 102; Noorduyn, 1957, p. 248
-The National Library, Singapore, has a copy of this first edition.
-Tomlin, J. (1844). Missionary journals and letters (pp. 293–294). London: James Nisbet and Co. Call no.: RRARE 266.3 TOM
-The Evangelical Magazine and Missionary Chronicle (Vol 12, p. 165). (1834). London: Frederick Westley and A.H. Davis. Retrieved from Hathi Trust Digital Library website.
-Ching, 1996, pp. 161–162, 164.
-O’Sullivan, 1984, p. 80; Ibrahim, 1980, p. 82.
-Thomsen’s connection with the LMS ceased thereafter and little is known of his further endeavours or even death date. See Whitehouse, J.O. (1896). Register of missionaries deputations, Etc 1796–1896 (p. 30). London: London Missionary Society. Retrieved from Hathi Trust Digital Library website.
-Church Missionary Society. (1835). Missionary register (Vol. 23, p. 95). London: Seeley, Jackson &amp; Halliday. Retrieved from Hathi Trust Digital Library website.
-O’Sullivan, 1984, p. 73.
-Church Missionary Society. (1825). Missionary register (Vol. 13, p. 387). London: Seeley, Jackson &amp; Halliday. Retrieved from Hathi Trust Digital Library website.
-Bastin, J. (1983). The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir’s English and Malay vocabulary. Journal of the Malaysian Branch of the Royal Asiatic Society, 56 (1 (244)), 10–11, p. 10. Call no.: RCLOS 959.5 JMBRAS
-Noorduyn, J. (1957). C. H. Thomsen, the editor of “A Code of Bugis Maritime Laws”. Bijdragen tot de Taal-,Land- en Volkenkunde, 113 (3), 238–251, pp. 246–247. Call no.: RUR 572.9598 ITLVB
-Proudfoot, I. (1993). Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections (p. 550). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO
-Ching, S. (1996). Printing presses of the London Missionary Society among the Chinese (p. 150) [PhD dissertation]. London: University College of London. Retrieved from UCL Discovery website; Harrison, 1979, p. 125; Proudfoot,1993, p. 550.
-For more information on the publication, see Ong, E.C. (2016, January–March). A Christian sermon in Malay. BiblioAsia, 11 (4), 96–97. Call no.: RSING 027.495957 SNBBA-[LIB]; O’Sullivan, 1984, p. 72.
-Ibrahim, 1980, pp. 80–81.
-Noorduyn, 1957, pp. 241–243
+[^3]:Today, Lower Saxony is part of Germany although for some time in the 19th century, it was part of Denmark. This is why Thomsen is sometimes referred to as German and at other times, Danish.
+[^4]:According to A.H. Hill, Thomsen was in the Dutch East Indies prior to his arrival in Malacca in 1815 and had likely picked up Indonesian Malay there, which is distinct from the Malay spoken in the Peninsula. This may account for Thomsen’s claims in having prior knowledge of the Malay language and Abdullah’s frustrations in teaching him the language. See Hill, Jun 1955, p. 291.
+[^5]:Milner, A.C. (1981, June). Notes on C.H. Thomsen: Missionary to the Malays. Indonesia Circle, 25, p. 45. Call no.: RCLOS 959.8 IC
+[^6]:Philip, R. (1840). The life and opinions of the Rev William Milne, D.D. missionary to China (p. 197). Philadelphia: Herman Hooker. Call no.: RRARE 266.02341051 PHI
+[^7]:Morrison, E. (1839). Memoirs of the life and labours of Robert Morrison (Vol 1, p. 355). London: Longman, Orme, Brown, Green and Longmans. Call no.: RRARE 266.02341051092 MOR
+[^8]:Hill, Jun 1955, p. 17.
+[^9]:Hill, Jun 1955, p. 112.
+[^10]:Ibrahim bin Ismail. (1980). Early Malay printing in the Straits Settlements by missionaries of the London Missionary Society (pp. 43–44, 48). MA Thesis in Library and Information Studies, School of Library, Archive and Information Studies, University College London. Call no.: RSING 686.209595 IBR; Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library Collections. Journal of the Malaysian Branch of the Royal Asiatic Society, 63 (1 (258)), 85–124, p. 95. Call no.: RCLOS 959.5 JMBRAS
+[^11]:Harrison, B. (1979). Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and early nineteenth-century missions (pp. 30–31). Hong Kong: Hong Kong University Press. Call no.: RSING 207.595141 HAR
+[^12]:Ibrahim, 1980, pp. 44–45; O’Sullivan, 1984, p. 71.
+[^13]:O’Sullivan, 1984, p. 73.
+[^14]:Many of Thomsen’s works were translated with much help from Munshi Abdullah.
+[^15]:Ching, 1996. pp. 127–128.
+[^16]:Hill, Jun 1955, p. 18; Raffles, S. (1830). Memoir of the life and public services of Sir Thomas Stamford Raffles (pp. 536–537). London: John Murray. Call no.: RRARE 959.570210924 RAF
+[^17]:O’Sullivan, 1984, pp. 74–78. [Raffles wrote on 5 January 1823 that he had “a press going in English &amp; Malay”. See Bastin, 1981, p. 17.]
+[^18]:Byrd, C.K. (1970). Early printing in the Straits Settlements, 1806–1858 (p. 13). Singapore: Singapore National Library. Call no.: RSING 686.2095957 BYR
+[^19]:O’Sullivan, 1984, p. 86.
+[^20]:O’Sullivan, 1984, pp. 86, 90; Ching, 1996, pp. 112, 126–127. [On 27 November 1832, Thomsen returned this small wooden press to Penang at the request of the LMS.]
+[^21]:Bastin, 1981, pp. 52–53
+[^22]:Ching, 1996, p. 158
+[^23]:O’Sullivan, 1984, pp. 78–79; Ching, 1996, pp. 159–160. [Milton left the mission but not Singapore, remaining there until his death in 1849.]
+[^24]:Ching, 1996, pp. 63, 154–155, 445.
+[^25]:O’Sullivan, 1984, p. 74.
+[^26]:Bastin, J.S. (2014). Raffles and Hastings: Private exchanges behind the founding of Singapore (pp. 216–217). Singapore: National Library Board and Marshall Cavendish Editions. Call no.: RSING 959.5703 BAS
+[^27]:The only known complete work for the 1827 edition is found in the Singapore/Malaysia Collection at the National University of Singapore Library. See National University of Singapore. (2011, September 6). The Singapore/Malaysia Collection. Retrieved from National University of Singapore website.
+[^28]:Noorduyn, 1957, p. 248.
+[^29]:O’Sullivan, 1984, pp. 82, 102; Noorduyn, 1957, p. 248
+[^30]:The National Library, Singapore, has a copy of this first edition.
+[^31]:Tomlin, J. (1844). Missionary journals and letters (pp. 293–294). London: James Nisbet and Co. Call no.: RRARE 266.3 TOM
+[^32]:The Evangelical Magazine and Missionary Chronicle (Vol 12, p. 165). (1834). London: Frederick Westley and A.H. Davis. Retrieved from Hathi Trust Digital Library website.
+[^33]:Ching, 1996, pp. 161–162, 164.
+[^34]:O’Sullivan, 1984, p. 80; Ibrahim, 1980, p. 82.
+[^35]:Thomsen’s connection with the LMS ceased thereafter and little is known of his further endeavours or even death date. See Whitehouse, J.O. (1896). Register of missionaries deputations, Etc 1796–1896 (p. 30). London: London Missionary Society. Retrieved from Hathi Trust Digital Library website.
+[^36]:Church Missionary Society. (1835). Missionary register (Vol. 23, p. 95). London: Seeley, Jackson &amp; Halliday. Retrieved from Hathi Trust Digital Library website.
+[^37]:O’Sullivan, 1984, p. 73.
+[^38]:Church Missionary Society. (1825). Missionary register (Vol. 13, p. 387). London: Seeley, Jackson &amp; Halliday. Retrieved from Hathi Trust Digital Library website.
+[^39]:Bastin, J. (1983). The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir’s English and Malay vocabulary. Journal of the Malaysian Branch of the Royal Asiatic Society, 56 (1 (244)), 10–11, p. 10. Call no.: RCLOS 959.5 JMBRAS
+[^40]:Noorduyn, J. (1957). C. H. Thomsen, the editor of “A Code of Bugis Maritime Laws”. Bijdragen tot de Taal-,Land- en Volkenkunde, 113 (3), 238–251, pp. 246–247. Call no.: RUR 572.9598 ITLVB
+[^41]:Proudfoot, I. (1993). Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections (p. 550). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO
+[^42]:Ching, S. (1996). Printing presses of the London Missionary Society among the Chinese (p. 150) [PhD dissertation]. London: University College of London. Retrieved from UCL Discovery website; Harrison, 1979, p. 125; Proudfoot,1993, p. 550.
+[^43]:For more information on the publication, see Ong, E.C. (2016, January–March). A Christian sermon in Malay. BiblioAsia, 11 (4), 96–97. Call no.: RSING 027.495957 SNBBA-[LIB]; O’Sullivan, 1984, p. 72.
+[^44]:Ibrahim, 1980, pp. 80–81.
+[^45]:Noorduyn, 1957, pp. 241–243
