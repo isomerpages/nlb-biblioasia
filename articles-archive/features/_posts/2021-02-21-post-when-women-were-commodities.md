@@ -148,10 +148,10 @@ Winter’s appointment as Lady Assistant Protector of Chinese was significant as
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
 <center>
 <b>Adeline Foo</b>
-words
+is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
 </center>
 </div>
 
