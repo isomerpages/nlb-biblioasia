@@ -124,8 +124,8 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 |A non-profit business arm of the military was set up called SAF Enterprises, or in short, SAFE. The intention was for these no-frills SAFE stores to pass on the savings accrued from rentfree premises and bulk purchases to military personnel and their families.[^23]|
 
-|![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/7-britannia-nco.jpg)
-<div style="background-color: white;">The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i></div>|
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/7-britannia-nco.jpg)
+<div style="background-color: white;">The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i></div>
 
 |Within months of the announcement, two SAFE supermarkets opened, one at Dempsey Road Camp and the other at the NCO Club. Apart from air-conditioning, the supermarkets had none of the luxuries one would find in an Orchard Road store. SAFE did give the downtown stores a run for their money though – selling groceries, basic furniture like PVC sofas and dining chairs as well as small electrical items like hairdryers and fans at significantly discounted prices.[^24]|
 
@@ -148,7 +148,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png">
+<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png" style="width: 100px; height: 100px;">
 	<b>Francis Dorai</b> has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
