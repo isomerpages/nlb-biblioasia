@@ -4,8 +4,7 @@ date: 2021-08-26
 permalink: /vol-11/issue-1/apr-jun-2015/director-chair
 layout: post
 ---
-
-#### **In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival**
+#### In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Royston_Tan.jpg)
 <div style="background-color: white;"></div>
