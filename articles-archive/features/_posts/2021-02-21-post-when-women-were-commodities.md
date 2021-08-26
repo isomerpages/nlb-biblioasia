@@ -110,7 +110,7 @@ As cabarets and nightclubs burgeoned in Singapore,34 women who lacked education 
 
 Because of the lowly status of women and the stigma around sex work, the lives of prostitutes in late 19th and early 20th-century Singapore are typically given scant attention. However, they are an important part of Singapore’s social history, as historian James Warren has noted: “Much of the history of Singapore between 1870 and 1940 was in part shaped, and in large measure endured, by prostitutes and coolies.”35
 
-|#### **The Office to Protect Virtue**
+|**THE OFFICE TO PROTECT VIRTUE**
 
 |The Po Leung Kuk was set up in Singapore in 1888, about 10 years after it was first established in Hong Kong. The Po Leung Kuk, or the Office to Protect Virtue, was created to offer protection to girls who had been sold or lured into prostitution.
 
@@ -148,7 +148,7 @@ Winter’s appointment as Lady Assistant Protector of Chinese was significant as
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -176,8 +176,5 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^16]:Lim, H.S. (Interviewer). (1980, February 5). [*Oral history interview with Choong Keow Chye 钟桥才*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/dff1fea4-115d-11e3-83d5-0050568939ad-OHC000015_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)  [Transcript of recording no. 000015/2/1, p. 8]. Retrieved from National Archives of Singapore website. 
 [^17]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 60–61. 
 [^18]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 279.
-[^19]:Koh, C.C. (1994). Implementing government policy for the protection of women and girls in Singapore: Recollections of a social worker (p. 125). In M. Jaschok &amp; S. Miers. (Eds.). (1994). Women &amp; Chinese patriarchy: Submission, servitude, and escape. Hong Kong: Hong Kong University Press: London; Atlantic Highlands, N.J.: Zed Books. (Call no.: RSING 305.420951 WOM)
+[^19]:Koh, C.C. (1994). Implementing government policy for the protection of women and girls in Singapore: Recollections of a social worker (p. 125). In M. Jaschok &amp; S. Miers. (Eds.). (1994). [Women &amp; Chinese patriarchy: Submission, servitude, and escape](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7193205). Hong Kong: Hong Kong University Press: London; Atlantic Highlands, N.J.: Zed Books. (Call no.: RSING 305.420951 WOM)
 [^20]:
-
-
-
