@@ -143,3 +143,42 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 <div style="background-color: white;">Deputy Prime Minister and Minister for Defence Goh Keng Swee visits the SAF Enterprises (SAFE) supermarket at the NCO Club during its official opening on 20 December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>|
 
 |This is an abridged version of the chapter “1854–2001: History of Beach Road Camp and NCO Club” from the book South Beach: From Sea to Sky: The Evolution of Beach Road – by Francis Dorai and published by Editions Didier Millet for South Beach Consortium in 2012. The South Beach development, designed by the British architecture firm Foster + Partners, was launched in December 2015 and comprises a luxury hotel, offices, apartments and retail space.|
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png" style="width: 100px; height: 100px;">
+	<b>Francis Dorai</b> has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
+
+Notes
+
+The history of the SVC was featured in the article “Beach Road Camp and the Singapore Volunteer Corps”, which appeared in Vol 12, Issue 2 (July–October 2016) of BiblioAsia magazine.
+Yue, R. (1952, December 17). Million dollar club house to open today. The Singapore Free Press, p. 1; Yue, R. (1952, December 17). It’s one of the nicest clubs in the East. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+Britannia Club for public use. (1973, April 28). New Nation, p. 6; HDB to give reservists preference. (1974, March 18). The Straits Times, p. 17. Retrieved from NewspaperSG.
+Yue, R. (1952, December 17). Million dollar club house to open today. The Singapore Free Press, p. 1; Yue, R. (1952, December 17). It’s one of the nicest clubs in the East. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+Shackle Club opened. (1947, July 3). The Straits Times, p. 7; New centre for troops: Work starts on new Forces club. (1951, July 10). The Straits Times, p. 7. Retrieved from NewspaperSG.
+Nuffield pool may be ready in June. (1951, April 6). The Straits Times, p. 4; ‘A boon’ to the forces. (1951, December 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
+Yue, R. (1952, December 17). It’s one of the nicest clubs in the East. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+Beauty show for the troops. (1953, May 16). The Straits Times, p. 4. Retrieved from NewspaperSG.
+Interview with Carol Traynor.
+Interview with John Harper.
+Forces look for a pin-up girl. (1956, February 20). The Straits Times, p. 7. Retrieved from NewspaperSG.
+The Commons defence debate: The decision to pull out is final. (1967, July 29). The Straits Times, p. 6; All out by 1971. (1968, January 17). The Straits Times, p. 1; Campbell, W. (1971, October 30). Pull-out. The Straits Times, p. 14. Retrieved from NewspaperSG.
+The Naval Base – big town with a civilian future. (1968, July 8). The Straits Times, p. 10. Retrieved from NewspaperSG.
+Future of closed down Britannia Club being discussed. (1971, October 29). The Straits Times, p. 10. Retrieved from NewspaperSG.
+Chin, U.W., &amp; Yeo, J. (Eds.). (2015). The Chevrons celebrates: Our journey, our vision. Singapore, p. 9. Retrieved from The Chevrons website.
+HDB to give reservists preference. (1974, March 18). The Straits Times, p. 17. Retrieved from NewspaperSG.
+Interview with Aloysius Lim.
+Chin &amp; Yeo, 2015, pp. 12, 14.
+Chin &amp; Yeo, 2015, pp. 11, 13.
+Chin &amp; Yeo, 2015, p. 15; The SAF Warrant Officers and Specialists Club. (2002). The Chevrons: Forging closer ties (p. 7.). Singapore: Author, Call no.: RSING 355.346095957 CHE
+Yap, E., (1996, April 14). Not quite the Golden Mile but there’s hope. The Straits Times, p. 3. Retrieved from NewspaperSG.
+Chin &amp; Yeo, 2015, pp. 18, 20; DPM Tan stresses need to maintain harmony. (2002, February 9). The Straits Times, p. 5. Retrieved from NewspaperSG.
+Cheang, C. (1973, December 21). Joint effort food firm to curb inflation… The Straits Times, p. 11. Retrieved from NewspaperSG.
+Super-mart opens its doors to govt staff. (1974, July 29). The Straits Times, p. 13; From humble army stores to award-winner. (1996, April 27). The Straits Times, p. 2. Retrieved from NewspaperSG.
+From humble army stores to award-winner. (1996, April 27). The Straits Times, p. 2. Retrieved from NewspaperSG.
+Interview with Richard Chung.
+Civilians make full use of SAFE. (1974, July 31). New Nation, p. 2; From humble army stores to award-winner. (1996, April 27). The Straits Times, p. 2. Retrieved from NewspaperSG.
+From humble army stores to award-winner. (1996, April 27). The Straits Times, p. 2. Retrieved from NewspaperSG.
