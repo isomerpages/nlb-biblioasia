@@ -141,7 +141,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png">
 	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
 </div>
 
