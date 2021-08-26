@@ -128,13 +128,13 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.24
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG" style="width: 200px; height: 300px;">
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG">
 <div style="background-color: white;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.
 </i></div>
 
 |On 1 March 1929, Mrs Mabel Winter was appointed the first Lady Assistant Protector of Chinese.25 She took over the management of Po Leung Kuk’s day-today operations and was assisted in her duties by a committee of ladies.26
 
-Winter’s appointment as Lady Assistant Protector of Chinese was significant as it was the first time a woman had been given such an important post, signifying the serious intent of the British, or at least the Chinese Protectorate, to rescue and rehabilitate women and girls from prostitution and slavery.
+|Winter’s appointment as Lady Assistant Protector of Chinese was significant as it was the first time a woman had been given such an important post, signifying the serious intent of the British, or at least the Chinese Protectorate, to rescue and rehabilitate women and girls from prostitution and slavery.
 
 |Mabel Winter was the wife of Mr H.B. Winter, the proprietor of a well-known tailoring establishment on Battery Road. She had been born in Hong Kong where “she learned to speak Chinese so fluently that the Chinese expressed astonishment at her complete mastery of the language”.27
 
@@ -148,7 +148,7 @@ Winter’s appointment as Lady Assistant Protector of Chinese was significant as
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
