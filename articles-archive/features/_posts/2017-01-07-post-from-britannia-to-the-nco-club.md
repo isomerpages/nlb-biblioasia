@@ -148,7 +148,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png">
+<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png" style="width: 100px; height: 100px;">
 	<b>Francis Dorai</b> has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
@@ -168,19 +168,19 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 [^10]:Interview with John Harper.
 [^11]:[Forces look for a pin-up girl.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560220-1.2.100) (1956, February 20). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 [^12]:[The Commons defence debate: The decision to pull out is final.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670729-1.2.40) (1967, July 29). *The Straits Times*, p. 6; [All out by 1971](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680117-1.2.3). (1968, January 17). *The Straits Times*, p. 1; Campbell, W. (1971, October 30). [Pull-out. ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711030-1.2.84)*The Straits Times*, p. 14. Retrieved from NewspaperSG.
-[^13]:The Naval Base – big town with a civilian future. (1968, July 8). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
-[^14]:Future of closed down Britannia Club being discussed. (1971, October 29). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^13]:[The Naval Base – big town with a civilian future. ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680708-1.2.74)(1968, July 8). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^14]:[Future of closed down Britannia Club being discussed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711029-1.2.47). (1971, October 29). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 [^15]:Chin, U.W., &amp; Yeo, J. (Eds.). (2015). The Chevrons celebrates: Our journey, our vision. Singapore, p. 9. Retrieved from The Chevrons website.
-[^16]:HDB to give reservists preference. (1974, March 18). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^16]:[HDB to give reservists preference.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740318-1.2.72) (1974, March 18). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 [^17]:Interview with Aloysius Lim.
 [^18]:Chin &amp; Yeo, 2015, pp. 12, 14.
 [^19]:Chin &amp; Yeo, 2015, pp. 11, 13.
-[^20]:Chin &amp; Yeo, 2015, p. 15; The SAF Warrant Officers and Specialists Club. (2002). The Chevrons: Forging closer ties (p. 7.). Singapore: Author, Call no.: RSING 355.346095957 CHE
-[^21]:Yap, E., (1996, April 14). Not quite the Golden Mile but there’s hope. The Straits Times, p. 3. Retrieved from NewspaperSG.
-[^22]:Chin &amp; Yeo, 2015, pp. 18, 20; DPM Tan stresses need to maintain harmony. (2002, February 9). The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^23]:Cheang, C. (1973, December 21). Joint effort food firm to curb inflation… The Straits Times, p. 11. Retrieved from NewspaperSG.
-[^24]:Super-mart opens its doors to govt staff. (1974, July 29). The Straits Times, p. 13; From humble army stores to award-winner. (1996, April 27). The Straits Times, p. 2. Retrieved from NewspaperSG.
-[^25]:From humble army stores to award-winner. (1996, April 27). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^20]:Chin &amp; Yeo, 2015, p. 15; The SAF Warrant Officers and Specialists Club. (2002). [The Chevrons: Forging closer ties](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12674010) (p. 7.). Singapore: Author, Call no.: RSING 355.346095957 CHE
+[^21]:Yap, E., (1996, April 14). [Not quite the Golden Mile but there’s hope](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960414-1.2.76.3.1). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^22]:Chin &amp; Yeo, 2015, pp. 18, 20; [DPM Tan stresses need to maintain harmony](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020209-1.2.94.4.7). (2002, February 9). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^23]:Cheang, C. (1973, December 21). [Joint effort food firm to curb inflation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731221-1.2.68)… *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+[^24]:[Super-mart opens its doors to govt staff.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740729-1.2.81) (1974, July 29). *The Straits Time*s, p. 13; [From humble army stores to award-winner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960427-1.2.73.2.1). (1996, April 27). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^25]:From humble army stores to award-winner. (1996, April 27). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^26]:Interview with Richard Chung.
-[^27]:Civilians make full use of SAFE. (1974, July 31). New Nation, p. 2; From humble army stores to award-winner. (1996, April 27). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^27]:Civilians make full use of SAFE. (1974, July 31). New Nation, p. 2; From humble army stores to award-winner. (1996, April 27). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^28]:From humble army stores to award-winner. (1996, April 27). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
