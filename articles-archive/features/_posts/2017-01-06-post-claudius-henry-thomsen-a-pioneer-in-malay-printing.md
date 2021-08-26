@@ -150,7 +150,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png">
 	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
 </div>
 
@@ -167,17 +167,17 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 [^7]:Morrison, E. (1839). [Memoirs of the life and labours of Robert Morrison](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201924906) (Vol 1, p. 355). London: Longman, Orme, Brown, Green and Longmans. Call no.: RRARE 266.02341051092 MOR
 [^8]:[Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 17.
 [^9]:[Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 112.
-[^10]:Ibrahim bin Ismail. (1980). [Early Malay printing in the Straits Settlements by missionaries of the London Missionary Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5271424) (pp. 43–44, 48). MA Thesis in Library and Information Studies, School of Library, Archive and Information Studies, University College London. Call no.: RSING 686.209595 IBR; Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library Collections. Journal of the Malaysian Branch of the Royal Asiatic Society, 63 (1 (258)), 85–124, p. 95. Call no.: RCLOS 959.5 JMBRAS
-[^11]:Harrison, B. (1979). Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and early nineteenth-century missions (pp. 30–31). Hong Kong: Hong Kong University Press. Call no.: RSING 207.595141 HAR
-[^12]:Ibrahim, 1980, pp. 44–45; O’Sullivan, 1984, p. 71.
-[^13]:O’Sullivan, 1984, p. 73.
+[^10]:Ibrahim bin Ismail. (1980). *[Early Malay printing in the Straits Settlements by missionaries of the London Missionary Society]*(http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5271424) (pp. 43–44, 48). MA Thesis in Library and Information Studies, School of Library, Archive and Information Studies, University College London. Call no.: RSING 686.209595 IBR; Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library Collections. *[Journal of the Malaysian Branch of the Royal Asiatic Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)*, 63 (1 (258)), 85–124, p. 95. Call no.: RCLOS 959.5 JMBRAS
+[^11]:Harrison, B. (1979). *[Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and early nineteenth-century missions](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1710735)* (pp. 30–31). Hong Kong: Hong Kong University Press. Call no.: RSING 207.595141 HAR
+[^12]:[Ibrahim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5271424), 1980, pp. 44–45; [O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 71.
+[^13]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 73.
 [^14]:Many of Thomsen’s works were translated with much help from Munshi Abdullah.
 [^15]:Ching, 1996. pp. 127–128.
-[^16]:Hill, Jun 1955, p. 18; Raffles, S. (1830). Memoir of the life and public services of Sir Thomas Stamford Raffles (pp. 536–537). London: John Murray. Call no.: RRARE 959.570210924 RAF
-[^17]:O’Sullivan, 1984, pp. 74–78. [Raffles wrote on 5 January 1823 that he had “a press going in English &amp; Malay”. See Bastin, 1981, p. 17.]
+[^16]:[Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 18; Raffles, S. (1830). Memoir of the life and public services of Sir Thomas Stamford Raffles (pp. 536–537). London: John Murray. Call no.: RRARE 959.570210924 RAF
+[^17]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, pp. 74–78. [Raffles wrote on 5 January 1823 that he had “a press going in English &amp; Malay”. See Bastin, 1981, p. 17.]
 [^18]:Byrd, C.K. (1970). Early printing in the Straits Settlements, 1806–1858 (p. 13). Singapore: Singapore National Library. Call no.: RSING 686.2095957 BYR
-[^19]:O’Sullivan, 1984, p. 86.
-[^20]:O’Sullivan, 1984, pp. 86, 90; Ching, 1996, pp. 112, 126–127. [On 27 November 1832, Thomsen returned this small wooden press to Penang at the request of the LMS.]
+[^19]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 86.
+[^20]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, pp. 86, 90; Ching, 1996, pp. 112, 126–127. [On 27 November 1832, Thomsen returned this small wooden press to Penang at the request of the LMS.]
 [^21]:Bastin, 1981, pp. 52–53
 [^22]:Ching, 1996, p. 158
 [^23]:O’Sullivan, 1984, pp. 78–79; Ching, 1996, pp. 159–160. [Milton left the mission but not Singapore, remaining there until his death in 1849.]
@@ -186,7 +186,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 [^26]:Bastin, J.S. (2014). Raffles and Hastings: Private exchanges behind the founding of Singapore (pp. 216–217). Singapore: National Library Board and Marshall Cavendish Editions. Call no.: RSING 959.5703 BAS
 [^27]:The only known complete work for the 1827 edition is found in the Singapore/Malaysia Collection at the National University of Singapore Library. See National University of Singapore. (2011, September 6). The Singapore/Malaysia Collection. Retrieved from National University of Singapore website.
 [^28]:Noorduyn, 1957, p. 248.
-[^29]:O’Sullivan, 1984, pp. 82, 102; Noorduyn, 1957, p. 248
+[^29]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, pp. 82, 102; Noorduyn, 1957, p. 248
 [^30]:The National Library, Singapore, has a copy of this first edition.
 [^31]:Tomlin, J. (1844). Missionary journals and letters (pp. 293–294). London: James Nisbet and Co. Call no.: RRARE 266.3 TOM
 [^32]:The Evangelical Magazine and Missionary Chronicle (Vol 12, p. 165). (1834). London: Frederick Westley and A.H. Davis. Retrieved from Hathi Trust Digital Library website.
