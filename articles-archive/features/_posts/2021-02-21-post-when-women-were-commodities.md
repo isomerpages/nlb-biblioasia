@@ -40,3 +40,16 @@ The men who frequented brothels in Singapore were a mixed bag that included “s
 Japanese prostitutes, known as karayuki-san, operated within the Japanese enclave along Hylam, Malabar, Malay and Bugis streets where Japanese merchants, shopkeepers, doctors and bankers had set up shop. By 1920, the Japanese community in Singapore was large and thriving enough to host its own newspaper, the Nanyo Shimpo, a Japanese cemetery and a Japanese school.11
 
 In the Kreta Ayer/Chinatown area, Chinese brothels catered to a largely different clientele. In addition to brothels that served the average worker, there were high-class ones that were visited by rich patrons who had their favourite prostitutes.
+
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/portrait.JPG">
+<div style="background-color: white;">A portrait of a <i>karayuki-san</i> with her hair let down, 1890s. <i>Gretchen Liu Collection, courtesy of National Archives of Singapore. </i></div>
+
+Historian James Warren’s in-depth study of life in Singapore brothels pieced together the practices of women in the profession by, among other things, examining information from coroner’s records and inquests as well as interviewing people who lived close to where the brothels were. His research unveiled intimate details such as how older women in the brothel prepared virgins for their first sexual experience. Warren also learned of their beauty secrets that included washing one’s face with powder ground from raw rice instead of cheap scented soap.
+
+Some of these sex workers managed to escape the trade: a few were able to save enough money to pay their way out of brothels while others were bought by wealthy businessmen and ended up as their mistresses or concubines.12 The latter were a minority though; for most, prostitution was a lifetime prison sentence until they met with illness or death.
+
+Warren’s research uncovered shocking accounts of sex workers dying because of venereal disease, fatal fights resulting from social rivalry, alcoholism and drug abuse. Many prostitutes committed suicide – by overdosing on opium or ingesting poison, or by hanging or slitting their throats and, in one gory account, being burnt alive – because they had no chance of ever leaving the brothel. Death provided release from poverty, debt and ill health.13
+
+One account by Chu Ah Tan, a brothel owner, recounted the desperation experienced by a prostitute struggling with pulmonary tuberculosis and venereal disease. For eight years she smoked opium and injected herself with increasing dosages of morphine. She finally died after an overdose of opium.
+
+“Wong Mau Tan was one of the prostitutes in my brothel… she was coughing a lot and said that she had a cough and headache for two months. Yesterday evening, her maidservant found her in bed, spit was coming from her mouth. I removed her to the hospital, she was conscious up to the last.”14
