@@ -150,7 +150,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png">
+<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png" style="width: 100px; height: 100px;">
 	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
 </div>
 
@@ -173,16 +173,16 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 [^13]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 73.
 [^14]:Many of Thomsen’s works were translated with much help from Munshi Abdullah.
 [^15]:Ching, 1996. pp. 127–128.
-[^16]:[Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 18; Raffles, S. (1830). Memoir of the life and public services of Sir Thomas Stamford Raffles (pp. 536–537). London: John Murray. Call no.: RRARE 959.570210924 RAF
+[^16]:[Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 18; Raffles, S. (1830). [Memoir of the life and public services of Sir Thomas Stamford Raffles](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4412216) (pp. 536–537). London: John Murray. Call no.: RRARE 959.570210924 RAF
 [^17]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, pp. 74–78. [Raffles wrote on 5 January 1823 that he had “a press going in English &amp; Malay”. See Bastin, 1981, p. 17.]
-[^18]:Byrd, C.K. (1970). Early printing in the Straits Settlements, 1806–1858 (p. 13). Singapore: Singapore National Library. Call no.: RSING 686.2095957 BYR
+[^18]:Byrd, C.K. (1970). [Early printing in the Straits Settlements](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200065951), 1806–1858 (p. 13). Singapore: Singapore National Library. Call no.: RSING 686.2095957 BYR
 [^19]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 86.
 [^20]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, pp. 86, 90; Ching, 1996, pp. 112, 126–127. [On 27 November 1832, Thomsen returned this small wooden press to Penang at the request of the LMS.]
-[^21]:Bastin, 1981, pp. 52–53
+[^21]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1981, pp. 52–53
 [^22]:Ching, 1996, p. 158
 [^23]:O’Sullivan, 1984, pp. 78–79; Ching, 1996, pp. 159–160. [Milton left the mission but not Singapore, remaining there until his death in 1849.]
 [^24]:Ching, 1996, pp. 63, 154–155, 445.
-[^25]:O’Sullivan, 1984, p. 74.
+[^25]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 74.
 [^26]:Bastin, J.S. (2014). Raffles and Hastings: Private exchanges behind the founding of Singapore (pp. 216–217). Singapore: National Library Board and Marshall Cavendish Editions. Call no.: RSING 959.5703 BAS
 [^27]:The only known complete work for the 1827 edition is found in the Singapore/Malaysia Collection at the National University of Singapore Library. See National University of Singapore. (2011, September 6). The Singapore/Malaysia Collection. Retrieved from National University of Singapore website.
 [^28]:Noorduyn, 1957, p. 248.
@@ -191,10 +191,10 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 [^31]:Tomlin, J. (1844). Missionary journals and letters (pp. 293–294). London: James Nisbet and Co. Call no.: RRARE 266.3 TOM
 [^32]:The Evangelical Magazine and Missionary Chronicle (Vol 12, p. 165). (1834). London: Frederick Westley and A.H. Davis. Retrieved from Hathi Trust Digital Library website.
 [^33]:Ching, 1996, pp. 161–162, 164.
-[^34]:O’Sullivan, 1984, p. 80; Ibrahim, 1980, p. 82.
+[^34]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 80; Ibrahim, 1980, p. 82.
 [^35]:Thomsen’s connection with the LMS ceased thereafter and little is known of his further endeavours or even death date. See Whitehouse, J.O. (1896). Register of missionaries deputations, Etc 1796–1896 (p. 30). London: London Missionary Society. Retrieved from Hathi Trust Digital Library website.
 [^36]:Church Missionary Society. (1835). Missionary register (Vol. 23, p. 95). London: Seeley, Jackson &amp; Halliday. Retrieved from Hathi Trust Digital Library website.
-[^37]:O’Sullivan, 1984, p. 73.
+[^37]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 73.
 [^38]:Church Missionary Society. (1825). Missionary register (Vol. 13, p. 387). London: Seeley, Jackson &amp; Halliday. Retrieved from Hathi Trust Digital Library website.
 [^39]:Bastin, J. (1983). The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir’s English and Malay vocabulary. Journal of the Malaysian Branch of the Royal Asiatic Society, 56 (1 (244)), 10–11, p. 10. Call no.: RCLOS 959.5 JMBRAS
 [^40]:Noorduyn, J. (1957). C. H. Thomsen, the editor of “A Code of Bugis Maritime Laws”. Bijdragen tot de Taal-,Land- en Volkenkunde, 113 (3), 238–251, pp. 246–247. Call no.: RUR 572.9598 ITLVB
