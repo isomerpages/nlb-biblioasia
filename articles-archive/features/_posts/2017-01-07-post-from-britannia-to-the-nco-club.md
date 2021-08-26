@@ -148,7 +148,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png">
 	<b>Francis Dorai</b> has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
@@ -156,9 +156,9 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 #### **Notes**
 
-[^1]:The history of the SVC was featured in the article “Beach Road Camp and the Singapore Volunteer Corps”, which appeared in Vol 12, Issue 2 (July–October 2016) of BiblioAsia magazine.
-[^2]:Yue, R. (1952, December 17). Million dollar club house to open today. The Singapore Free Press, p. 1; Yue, R. (1952, December 17). It’s one of the nicest clubs in the East. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
-[^3]:Britannia Club for public use. (1973, April 28). New Nation, p. 6; HDB to give reservists preference. (1974, March 18). The Straits Times, p. 17. Retrieved from NewspaperSG.
+[^1]:The history of the SVC was featured in the article “Beach Road Camp and the Singapore Volunteer Corps”, which appeared in Vol 12, Issue 2 (July–October 2016) of *BiblioAsia* magazine.
+[^2]:Yue, R. (1952, December 17). [Million dollar club house to open today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19521217-1.2.114.2). The Singapore Free Press, p. 1; Yue, R. (1952, December 17). [It’s one of the nicest clubs in the East.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19521217-1.2.114.7) *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
+[^3]:[Britannia Club for public use](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730428-1.2.43). (1973, April 28). New Nation, p. 6; [HDB to give reservists preference.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740318-1.2.72) (1974, March 18). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 [^4]:Yue, R. (1952, December 17). Million dollar club house to open today. The Singapore Free Press, p. 1; Yue, R. (1952, December 17). It’s one of the nicest clubs in the East. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
 [^5]:Shackle Club opened. (1947, July 3). The Straits Times, p. 7; New centre for troops: Work starts on new Forces club. (1951, July 10). The Straits Times, p. 7. Retrieved from NewspaperSG.
 [^6]:Nuffield pool may be ready in June. (1951, April 6). The Straits Times, p. 4; ‘A boon’ to the forces. (1951, December 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
