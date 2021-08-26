@@ -150,7 +150,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png">
 	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
 </div>
 
@@ -197,9 +197,9 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 [^37]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 73.
 [^38]:Church Missionary Society. (1825). Missionary register (Vol. 13, p. 387). London: Seeley, Jackson &amp; Halliday. Retrieved from Hathi Trust Digital Library website.
 [^39]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), J. (1983). The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir’s English and Malay vocabulary. Journal of the Malaysian Branch of the Royal Asiatic Society, 56 (1 (244)), 10–11, p. 10. Call no.: RCLOS 959.5 JMBRAS
-[^40]:[Noorduyn](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=924851), J. (1957). C. H. Thomsen, the editor of “A Code of Bugis Maritime Laws”. Bijdragen tot de Taal-,Land- en Volkenkunde, 113 (3), 238–251, pp. 246–247. Call no.: RUR 572.9598 ITLVB
-[^41]:Proudfoot, I. (1993). Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections (p. 550). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO
-[^42]:Ching, S. (1996). Printing presses of the London Missionary Society among the Chinese (p. 150) [PhD dissertation]. London: University College of London. Retrieved from UCL Discovery website; Harrison, 1979, p. 125; Proudfoot,1993, p. 550.
-[^43]:For more information on the publication, see Ong, E.C. (2016, January–March). A Christian sermon in Malay. BiblioAsia, 11 (4), 96–97. Call no.: RSING 027.495957 SNBBA-[LIB]; O’Sullivan, 1984, p. 72.
+[^40]:[Noorduyn](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=924851), J. (1957). C. H. Thomsen, the editor of “A Code of Bugis Maritime Laws”. [Bijdragen tot de Taal-,Land- en Volkenkunde](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=924851), 113 (3), 238–251, pp. 246–247. Call no.: RUR 572.9598 ITLVB
+[^41]:Proudfoot, I. (1993). E[arly Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616) (p. 550). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO
+[^42]:Ching, S. (1996). Printing presses of the London Missionary Society among the Chinese (p. 150) [PhD dissertation]. London: University College of London. Retrieved from UCL Discovery website; [Harrison](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1710735), 1979, p. 125; [Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616),1993, p. 550.
+[^43]:For more information on the publication, see Ong, E.C. (2016, January–March). A Christian sermon in Malay. BiblioAsia, 11 (4), 96–97. Call no.: RSING 027.495957 SNBBA-[LIB]; [O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 72.
 [^44]:[Ibrahim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5271424), 1980, pp. 80–81.
 [^45]:[Noorduyn](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=924851), 1957, pp. 241–243
