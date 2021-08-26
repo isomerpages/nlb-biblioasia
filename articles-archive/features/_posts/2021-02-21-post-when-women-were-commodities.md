@@ -95,3 +95,39 @@ Another group of young girls who were rescued by the Po Leung Kuk was the *pipa 
 How did these* pipa tsai* enter such employment? Like the *mui tsai*, they had been entrusted by their parents in China to the care of distant relatives in Singapore, the so-called “third or sixth paternal aunt” – *sum gu* or* luk gu* – some of whom worked in or even owned entertainment establishments themselves. The* pipa tsai* could also have been picked out when these “aunts” visited destitute women and their young daughters living in shelters such as temples.
 
 Girls who had been forcibly controlled and detained by these aunts could escape their bondage only after they had outlived their popularity or if they were able to find married men who were willing to buy them out of their pipa-playing employment.33 The more fortunate girls were rescued by the authorities and taken in by the Po Leung Kuk. But this was a temporary arrangement: the future of these girls depended on whether they could learn new skills and find suitable jobs after leaving the Po Leung Kuk.
+
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/hostesses.JPG">
+<div style="background-color: white;">Five dance hostesses at a cabaret in the 1930s. The women are dressed in figure-hugging <i>cheongsams</i> with daring slide slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.
+</i></div>
+
+#### **The Cabaret Scene**
+
+When the glitz and glamour of the 1920s Shanghai nightclub scene spilled over to Singapore, it brought with it the promise of a different life, at least for some of the women who struggled to make a new life for themselves after they had left or broken free from sexual slavery and bondage.
+
+The women who chose to step into Singapore’s budding cabaret scene could now take control over their lives. Dancing in a cabaret paid relatively well, and was filled with music, alcohol and laughter. They could doll up and use their feminine wiles to manipulate men, unlike the subservient* mui tsai*, *pipa tsai* or brothel worker who had to endure servitude, slavery and indignity.
+
+As cabarets and nightclubs burgeoned in Singapore,34 women who lacked education or skills were able to seek out more enticing employment opportunities, beyond just prostitution. This is not to say that prostitution disappeared; not everyone had the attributes of a cabaret girl. For those who did not, the flesh trade continued to be an option.
+
+Because of the lowly status of women and the stigma around sex work, the lives of prostitutes in late 19th and early 20th-century Singapore are typically given scant attention. However, they are an important part of Singapore’s social history, as historian James Warren has noted: “Much of the history of Singapore between 1870 and 1940 was in part shaped, and in large measure endured, by prostitutes and coolies.”35
+
+|#### **The Office to Protect Virtue**
+
+The Po Leung Kuk was set up in Singapore in 1888, about 10 years after it was first established in Hong Kong. The Po Leung Kuk, or the Office to Protect Virtue, was created to offer protection to girls who had been sold or lured into prostitution.
+
+In Singapore, the Po Leung Kuk also provided protection and assistance for the repatriation of women and girls to China. Its other role was to supply marriage partners to a predominantly male population who did not have the means to find a bride from their village.
+
+In addition to housing girls rescued from prostitution, the Po Leung Kuk took in young female servants known as *mui tsai* if they had been abused.20 The Po Leung Kuk also functioned as a “halfway house”, offering shelter, food and training to rehabilitate girls. Once the residents turned 18, they were eligible for marriage. All applications made to the Po Leung Kuk by men to select brides were carefully screened and approved by the management committee.
+
+The Po Leung Kuk had its beginnings in Lock Hospital in the Kandang Kerbau area, moving subsequently to larger premises on York Hill in Chinatown which could accommodate as many as 300 residents.21
+
+Women who were rescued and rehabilitated by the Po Leung Kuk were sought after as wives as they were trained in domestic service, and acquired skills such as dressmaking and hairdressing that could help supplement their husband’s income.22
+
+Life for the residents of Po Leung Kuk seemed to be a pleasant one, if a visitor’s impression in 1936 is any guide:
+
+“The walls of the main schoolroom which is a large cheerful apartment are gaily decorated with pictures drawn and painted by the pupils themselves. The children are educated in accordance with Chinese custom, and the bigger girls are taught the arts of fine sewing and embroidery. With few exceptions, the girls are all under eighteen, and they appeared so happily carefree that I found it difficult to believe they had ever suffered unkind treatment or neglect.”23
+
+In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.24
+
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter.JPG">
+<div style="background-color: white;">Five dance hostesses at a cabaret in the 1930s. The women are dressed in figure-hugging <i>cheongsams</i> with daring slide slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.
+</i></div>
