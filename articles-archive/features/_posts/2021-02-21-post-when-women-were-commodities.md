@@ -148,7 +148,7 @@ Winter’s appointment as Lady Assistant Protector of Chinese was significant as
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -173,12 +173,11 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^13]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 358.
 [^14]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 366–367.
 [^15]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 258.
-[^16]:
-[^17]:
-[^18]:
-[^19]:
+[^16]:Lim, H.S. (Interviewer). (1980, February 5). [*Oral history interview with Choong Keow Chye 钟桥才*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/dff1fea4-115d-11e3-83d5-0050568939ad-OHC000015_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)  [Transcript of recording no. 000015/2/1, p. 8]. Retrieved from National Archives of Singapore website. 
+[^17]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 60–61. 
+[^18]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 279.
+[^19]:Koh, C.C. (1994). Implementing government policy for the protection of women and girls in Singapore: Recollections of a social worker (p. 125). In M. Jaschok &amp; S. Miers. (Eds.). (1994). Women &amp; Chinese patriarchy: Submission, servitude, and escape. Hong Kong: Hong Kong University Press: London; Atlantic Highlands, N.J.: Zed Books. (Call no.: RSING 305.420951 WOM)
 [^20]:
-Lim, H.S. (Interviewer). (1980, February 5). Oral history interview with Choong Keow Chye 钟桥才  [Transcript of recording no. 000015/2/1, p. 8]. Retrieved from National Archives of Singapore website. 
-Warren, 2003, pp. 60–61. 
-Warren, 2003, p. 279.
-Koh, C.C. (1994). Implementing government policy for the protection of women and girls in Singapore: Recollections of a social worker (p. 125). In M. Jaschok &amp; S. Miers. (Eds.). (1994). Women &amp; Chinese patriarchy: Submission, servitude, and escape. Hong Kong: Hong Kong University Press: London; Atlantic Highlands, N.J.: Zed Books. (Call no.: RSING 305.420951 WOM)
+
+
+
