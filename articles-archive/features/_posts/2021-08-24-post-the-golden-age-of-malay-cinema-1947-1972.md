@@ -79,7 +79,7 @@ Filem-filem Melayu Shaw dan Cathay terutama karya P Ramlee disambut baik oleh ma
 
 #### **AKAN DATANG: THE ART OF THE FILM POSTER**
 
- It’s been decades but I do remember some of the people my father [director Jamil Sulong] used to work with in Jalan Ampas. The one person I remember clearly was A. V. Bapat the art director for most of MFP’s movie[s]. If you manage to get a glimpse of the old Malay film posters – more than likely that it was his handiwork (like the Raja Bersiong poster…) I like the way he painted his posters…Uncle Bapat has long since passed on, … sad that sometimes his contributions to the Malay film industry is overlooked. As far as I know, he did sets, costumes and all art direction when he was at Jalan Ampas.[^46]
+"It’s been decades but I do remember some of the people my father [director Jamil Sulong] used to work with in Jalan Ampas. The one person I remember clearly was A. V. Bapat the art director for most of MFP’s movie[s]. If you manage to get a glimpse of the old Malay film posters – more than likely that it was his handiwork (like the Raja Bersiong poster…) I like the way he painted his posters…Uncle Bapat has long since passed on, … sad that sometimes his contributions to the Malay film industry is overlooked. As far as I know, he did sets, costumes and all art direction when he was at Jalan Ampas.[^46]"
 
 Shaw’s Malay Film Production (MFP) Ltd and Cathay-Keris Films sustained movie-goers’ interest in new releases through film tabloids and movie billboard posters. Movie posters used to be the only way people knew about what was playing at the cinemas[^47] if they did not buy magazines and newspapers. In the absence of digital technology, poster painters had to draw and colour movie posters from scratch. 
 
@@ -99,17 +99,7 @@ Hand-painted film posters went through a boom from the 1950s until the 1970s wit
 
 #### **TAYANGAN AKAN DATANG: POSTER LUKISAN TANGAN**
 
-	Beberapa dekad telah berlalu tapi saya masih ingat
-	dengan sekumpulan teman ayah yang dahulu bekerja di 
-	Jalan Ampas. Seorang yang masih segar di ingatan saya 
-	ialah A V Bapat, Pengarah Seni untuk kebanyakkan filem
-	MFP (Malay Film Productions). Kalau anda dapat melihat
-	poster filem Melayu lama (seperti poster Raja Bersiong…),kemungkinan besar ia adalah hasil karya beliau. Saya minat dengan cara beliau melukis poster… 
-	Pakcik Bapat telah lama pergi dan ia menyedihkan 
-	kadang kala sumbangan beliau kepada industri filem 
-	Melayu dilupakan. Setahu saya, beliau bertugas sebagai 
-	pereka set, pakaian dan semua kerja artistik semasa di 
-	Jalan Ampas. 
+"Beberapa dekad telah berlalu tapi saya masih ingat dengan sekumpulan teman ayah yang dahulu bekerja di Jalan Ampas. Seorang yang masih segar di ingatan saya ialah A V Bapat, Pengarah Seni untuk kebanyakkan filem MFP (Malay Film Productions). Kalau anda dapat melihat poster filem Melayu lama (seperti poster Raja Bersiong…),kemungkinan besar ia adalah hasil karya beliau. Saya minat dengan cara beliau melukis poster… Pakcik Bapat telah lama pergi dan ia menyedihkan kadang kala sumbangan beliau kepada industri filem Melayu dilupakan. Setahu saya, beliau bertugas sebagai pereka set, pakaian dan semua kerja artistik semasa di Jalan Ampas. "
 
 Shaw dan Cathay cuba memenuhi citarasa peminat filem Melayu terhadap perkembangan filem dengan mengeluarkan tabloid dan poster filem. Bagi yang tidak melanggan sebarang makalah, poster-poster filem yang dipamerkan di pawagam setempat adalah cara terunggul untuk mengetahui tayangan terkini dan yang dapat ditonton dalam jangkamasa terdekat. Di sebalik poster gah yang terpampang, mungkin ramai tidak dapat meneka yang banyak poster filem dihasilkan oleh pelukis-pelukis yang hanya bersinglet dan seluar pendek, dengan tangan comot berlumuran cat.
 
