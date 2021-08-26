@@ -6,7 +6,7 @@ layout: post
 ---
 #### Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. **Adeline Foo** examines the lives of the unfortunate girls and women who were sold into prostitution.
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/music.JPG" style="width: 400px; height: 420px;">
+<img style="width: 400px; height: 420px;" src="/images/Vol-15-issue-4/when-women-were-commodities/music.JPG">
 <div style="background-color: white;">A late-19th century portrait of a <i>pipa tsai</i> (Cantonese for “little pipa player”). The <i>pipa</i>, or Chinese lute, is a pear-shaped four-stringed musical instrument made of wood. These girls were trained to play the instrument and sing to entertain men in clubs and brothels in Singapore. In some cases, the <i>pipa tsai</i> were forced into prostitution. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 “I went a few times because of my youthful follies, to see those girls being sold to the brothels. The auction took place in front of the go-downs at the port. The *zegen* [pimp] took the girls out of the hold, ordered them to change their clothes and lined them up in front of a warehouse. The brothel-owners bought them on the spot in [the] auction. Good looking girls were priced between one and two thousand yen, and ordinary girls from four to five hundred yen.”[^1]
@@ -25,7 +25,7 @@ In some instances, prostitutes raised abandoned or orphaned girls as their own, 
 
 Once the girl, usually between the ages of 13 and 15, completed her apprenticeship, her virginity would be sold to the highest bidder: men would pay several hundred dollars to more than a thousand dollars for the experience of deflowering her.[^7]
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/coolies.JPG" style="width: 350px; height: 200px;">
+<img style="width: 350px; height: 200px;" src="/images/Vol-15-issue-4/when-women-were-commodities/coolies.JPG">
 <div style="background-color: white;">Chinese coolies unloading goods in a godown, 1900s. Chinese male migrants to Singapore in the 19th century, who worked mainly as coolies, were a lonely lot and sought solace in the arms of prostitutes. <i>Boden-Kloss Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The Brothels**
@@ -34,14 +34,14 @@ The men who frequented brothels in Singapore were a mixed bag that included “s
 
 “Each of the districts… had their local clients… Europeans – diplomats, officials and planters – favoured the discreet Japanese women of Malay and Malabar Streets. Foreign tourists, soldiers, and, especially Japanese sailors also sought their sexual favours by visiting the unregistered haunts of Malay and Eurasian women scattered in the side lanes and alleys of the city. Rickshawmen made regular journeys to the brothels in Chin Hin Street, Fraser Street, Sago Street, Smith Street, Tan Quee Lan Street and Upper Hokien Street.”[^10]
 
-<img style="width: 350px; height: 200px;" src="/images/Vol-15-issue-4/when-women-were-commodities/karayuki.JPG">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/karayuki.JPG" style="width: 350px; height: 200px;">
 <div style="background-color: white;">A photo of karayuki-san by G.R. Lambert &amp; Co., 1890s. <i>Courtesy of National Museum of Singapore, National Heritage Board. </i></div>
 
 Japanese prostitutes, known as *karayuki-san*, operated within the Japanese enclave along Hylam, Malabar, Malay and Bugis streets where Japanese merchants, shopkeepers, doctors and bankers had set up shop. By 1920, the Japanese community in Singapore was large and thriving enough to host its own newspaper, the Nanyo Shimpo, a Japanese cemetery and a Japanese school.[^11]
 
 In the Kreta Ayer/Chinatown area, Chinese brothels catered to a largely different clientele. In addition to brothels that served the average worker, there were high-class ones that were visited by rich patrons who had their favourite prostitutes.
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/portrait.JPG" style="width: 240px; height: 350px;">
+<img style="width: 240px; height: 350px;" src="/images/Vol-15-issue-4/when-women-were-commodities/portrait.JPG">
 <div style="background-color: white;">A portrait of a <i>karayuki-san</i> with her hair let down, 1890s. <i>Gretchen Liu Collection, courtesy of National Archives of Singapore. </i></div>
 
 Historian James Warren’s in-depth study of life in Singapore brothels pieced together the practices of women in the profession by, among other things, examining information from coroner’s records and inquests as well as interviewing people who lived close to where the brothels were. His research unveiled intimate details such as how older women in the brothel prepared virgins for their first sexual experience. Warren also learned of their beauty secrets that included washing one’s face with powder ground from raw rice instead of cheap scented soap.
@@ -64,7 +64,7 @@ Why did men in Singapore visit prostitutes? For some, it was all part of busines
 
 Entreprenuer Choong Keow Chye recalled in his oral history account:
 
-“I was a* sinkeh* earning about $10 a month. These people who won some money, $80 to $100, in gambling invited me to the brothel… Three to five dollars, or eight to ten dollars would pay for a night’s stay with a prostitute.”[^16]
+“I was a*sinkeh* earning about $10 a month. These people who won some money, $80 to $100, in gambling invited me to the brothel… Three to five dollars, or eight to ten dollars would pay for a night’s stay with a prostitute.”[^16]
 
 The women could not keep all this money either: they were expected to pay the brothel owner between 40 and 50 percent of their earnings for rent, secret society protection, food, tailored dresses, loan of jewellery and medical fees.[^17]
 
@@ -96,7 +96,7 @@ How did these* pipa tsai* enter such employment? Like the *mui tsai*, they had b
 
 Girls who had been forcibly controlled and detained by these aunts could escape their bondage only after they had outlived their popularity or if they were able to find married men who were willing to buy them out of their pipa-playing employment.[^33] The more fortunate girls were rescued by the authorities and taken in by the Po Leung Kuk. But this was a temporary arrangement: the future of these girls depended on whether they could learn new skills and find suitable jobs after leaving the Po Leung Kuk.
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/hostesses.JPG" style="width: 400px; height: 200px;">
+<img style="width: 400px; height: 200px;" src="/images/Vol-15-issue-4/when-women-were-commodities/hostesses.JPG">
 <div style="background-color: white;">Five dance hostesses at a cabaret in the 1930s. The women are dressed in figure-hugging <i>cheongsams</i> with daring slide slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.
 </i></div>
 
@@ -128,7 +128,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.[^24]
 
-<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG" style="width: 200px; height: 300px;">
 <div style="background-color: white;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.
 </i></div>
 
@@ -149,7 +149,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 <br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
