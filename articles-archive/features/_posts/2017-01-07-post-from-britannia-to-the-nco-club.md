@@ -146,7 +146,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png">
 	<b>Francis Dorai</b> has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
