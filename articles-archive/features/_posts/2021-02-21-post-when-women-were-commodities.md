@@ -94,7 +94,7 @@ Another group of young girls who were rescued by the Po Leung Kuk was the *pipa 
 
 How did these* pipa tsai* enter such employment? Like the *mui tsai*, they had been entrusted by their parents in China to the care of distant relatives in Singapore, the so-called “third or sixth paternal aunt” – *sum gu* or* luk gu* – some of whom worked in or even owned entertainment establishments themselves. The* pipa tsai* could also have been picked out when these “aunts” visited destitute women and their young daughters living in shelters such as temples.
 
-Girls who had been forcibly controlled and detained by these aunts could escape their bondage only after they had outlived their popularity or if they were able to find married men who were willing to buy them out of their pipa-playing employment.33 The more fortunate girls were rescued by the authorities and taken in by the Po Leung Kuk. But this was a temporary arrangement: the future of these girls depended on whether they could learn new skills and find suitable jobs after leaving the Po Leung Kuk.
+Girls who had been forcibly controlled and detained by these aunts could escape their bondage only after they had outlived their popularity or if they were able to find married men who were willing to buy them out of their pipa-playing employment.[^33] The more fortunate girls were rescued by the authorities and taken in by the Po Leung Kuk. But this was a temporary arrangement: the future of these girls depended on whether they could learn new skills and find suitable jobs after leaving the Po Leung Kuk.
 
 <img src="/images/Vol-15-issue-4/when-women-were-commodities/hostesses.JPG">
 <div style="background-color: white;">Five dance hostesses at a cabaret in the 1930s. The women are dressed in figure-hugging <i>cheongsams</i> with daring slide slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.
@@ -106,9 +106,9 @@ When the glitz and glamour of the 1920s Shanghai nightclub scene spilled over to
 
 The women who chose to step into Singapore’s budding cabaret scene could now take control over their lives. Dancing in a cabaret paid relatively well, and was filled with music, alcohol and laughter. They could doll up and use their feminine wiles to manipulate men, unlike the subservient* mui tsai*, *pipa tsai* or brothel worker who had to endure servitude, slavery and indignity.
 
-As cabarets and nightclubs burgeoned in Singapore,34 women who lacked education or skills were able to seek out more enticing employment opportunities, beyond just prostitution. This is not to say that prostitution disappeared; not everyone had the attributes of a cabaret girl. For those who did not, the flesh trade continued to be an option.
+As cabarets and nightclubs burgeoned in Singapore,[^34] women who lacked education or skills were able to seek out more enticing employment opportunities, beyond just prostitution. This is not to say that prostitution disappeared; not everyone had the attributes of a cabaret girl. For those who did not, the flesh trade continued to be an option.
 
-Because of the lowly status of women and the stigma around sex work, the lives of prostitutes in late 19th and early 20th-century Singapore are typically given scant attention. However, they are an important part of Singapore’s social history, as historian James Warren has noted: “Much of the history of Singapore between 1870 and 1940 was in part shaped, and in large measure endured, by prostitutes and coolies.”35
+Because of the lowly status of women and the stigma around sex work, the lives of prostitutes in late 19th and early 20th-century Singapore are typically given scant attention. However, they are an important part of Singapore’s social history, as historian James Warren has noted: “Much of the history of Singapore between 1870 and 1940 was in part shaped, and in large measure endured, by prostitutes and coolies.”[^35]
 
 |**THE OFFICE TO PROTECT VIRTUE**
 
@@ -116,41 +116,41 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |In Singapore, the Po Leung Kuk also provided protection and assistance for the repatriation of women and girls to China. Its other role was to supply marriage partners to a predominantly male population who did not have the means to find a bride from their village.
 
-|In addition to housing girls rescued from prostitution, the Po Leung Kuk took in young female servants known as *mui tsai* if they had been abused.20 The Po Leung Kuk also functioned as a “halfway house”, offering shelter, food and training to rehabilitate girls. Once the residents turned 18, they were eligible for marriage. All applications made to the Po Leung Kuk by men to select brides were carefully screened and approved by the management committee.
+|In addition to housing girls rescued from prostitution, the Po Leung Kuk took in young female servants known as *mui tsai* if they had been abused.[^20] The Po Leung Kuk also functioned as a “halfway house”, offering shelter, food and training to rehabilitate girls. Once the residents turned 18, they were eligible for marriage. All applications made to the Po Leung Kuk by men to select brides were carefully screened and approved by the management committee.
 
-|The Po Leung Kuk had its beginnings in Lock Hospital in the Kandang Kerbau area, moving subsequently to larger premises on York Hill in Chinatown which could accommodate as many as 300 residents.21
+|The Po Leung Kuk had its beginnings in Lock Hospital in the Kandang Kerbau area, moving subsequently to larger premises on York Hill in Chinatown which could accommodate as many as 300 residents.[^21]
 
-|Women who were rescued and rehabilitated by the Po Leung Kuk were sought after as wives as they were trained in domestic service, and acquired skills such as dressmaking and hairdressing that could help supplement their husband’s income.22
+|Women who were rescued and rehabilitated by the Po Leung Kuk were sought after as wives as they were trained in domestic service, and acquired skills such as dressmaking and hairdressing that could help supplement their husband’s income.[^22]
 
 |Life for the residents of Po Leung Kuk seemed to be a pleasant one, if a visitor’s impression in 1936 is any guide:
 
-|“The walls of the main schoolroom which is a large cheerful apartment are gaily decorated with pictures drawn and painted by the pupils themselves. The children are educated in accordance with Chinese custom, and the bigger girls are taught the arts of fine sewing and embroidery. With few exceptions, the girls are all under eighteen, and they appeared so happily carefree that I found it difficult to believe they had ever suffered unkind treatment or neglect.”23
+|“The walls of the main schoolroom which is a large cheerful apartment are gaily decorated with pictures drawn and painted by the pupils themselves. The children are educated in accordance with Chinese custom, and the bigger girls are taught the arts of fine sewing and embroidery. With few exceptions, the girls are all under eighteen, and they appeared so happily carefree that I found it difficult to believe they had ever suffered unkind treatment or neglect."[^23]
 
-|In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.24
+|In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.[^24]
 
-<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG" style="width: 200px; height: 300px;">
 <div style="background-color: white;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.
 </i></div>
 
 <br>
-|On 1 March 1929, Mrs Mabel Winter was appointed the first Lady Assistant Protector of Chinese.25 She took over the management of Po Leung Kuk’s day-today operations and was assisted in her duties by a committee of ladies.26
+|On 1 March 1929, Mrs Mabel Winter was appointed the first Lady Assistant Protector of Chinese.[^25] She took over the management of Po Leung Kuk’s day-today operations and was assisted in her duties by a committee of ladies.[^26]
 
 |Winter’s appointment as Lady Assistant Protector of Chinese was significant as it was the first time a woman had been given such an important post, signifying the serious intent of the British, or at least the Chinese Protectorate, to rescue and rehabilitate women and girls from prostitution and slavery.
 
-|Mabel Winter was the wife of Mr H.B. Winter, the proprietor of a well-known tailoring establishment on Battery Road. She had been born in Hong Kong where “she learned to speak Chinese so fluently that the Chinese expressed astonishment at her complete mastery of the language”.27
+|Mabel Winter was the wife of Mr H.B. Winter, the proprietor of a well-known tailoring establishment on Battery Road. She had been born in Hong Kong where “she learned to speak Chinese so fluently that the Chinese expressed astonishment at her complete mastery of the language”.[^27]
 
-|She married in Colombo in 1915, where her husband had served in the Fifth Gurkhas regiment.28 Unfortunately, Winter’s time at the Po Leung Kuk was cut short when she died from pneumonia on 25 January 1934 and was buried in Bidadari Cemetery.29 She was only 42.
+|She married in Colombo in 1915, where her husband had served in the Fifth Gurkhas regiment.[^28]Unfortunately, Winter’s time at the Po Leung Kuk was cut short when she died from pneumonia on 25 January 1934 and was buried in Bidadari Cemetery.[^29] She was only 42.
 
-|To remember her contributions, the Mabel Winter Memorial Shield was set up and given out annually to an outstanding candidate in the Po Leung Kuk who excelled in needlework and cooking and displayed exemplary conduct.30
+|To remember her contributions, the Mabel Winter Memorial Shield was set up and given out annually to an outstanding candidate in the Po Leung Kuk who excelled in needlework and cooking and displayed exemplary conduct.[^30]
 
-|From the 1930s, the number of women and girls admitted to the Po Leung Kuk in Singapore fell. One researcher suggests that this was due to the implementation of the 1930 Women and Girls’ Protection Ordinance that outlawed brothels and vice activities. Unfortunately, the legislation sent brothels underground and made it harder to track and rescue women who needed help.31 In 1932, the Mui Tsai Ordinance was introduced to prohibit the acquisition of* mui tsai*; this would, in time, also reduce the number of girls that needed to be rescued.
+|From the 1930s, the number of women and girls admitted to the Po Leung Kuk in Singapore fell. One researcher suggests that this was due to the implementation of the 1930 Women and Girls’ Protection Ordinance that outlawed brothels and vice activities. Unfortunately, the legislation sent brothels underground and made it harder to track and rescue women who needed help.[^31] In 1932, the Mui Tsai Ordinance was introduced to prohibit the acquisition of* mui tsai*; this would, in time, also reduce the number of girls that needed to be rescued.
 
-|During the Japanese Occupation, the Po Leung Kuk’s premises were abandoned and its residents dispersed to several welfare centres. When the British Military Administration took over after the war, the new Department of Social Welfare was set up, and the Po Leung Kuk was closed.32
+|During the Japanese Occupation, the Po Leung Kuk’s premises were abandoned and its residents dispersed to several welfare centres. When the British Military Administration took over after the war, the new Department of Social Welfare was set up, and the Po Leung Kuk was closed.[^32]
 
 <br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -193,6 +193,5 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^31]:[Paul](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202819886), 1990, pp. 62, 73.
 [^32]:[Paul](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202819886), 1990, p. 63.
 [^33]:[Koh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 1994, pp. 136–137.
-[^34]:See Adeline Foo’s essay, [Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls](http://www.nlb.gov.sg/biblioasia/?s=lancing+girls), published in BiblioAsia, 12(4), Jan-Mar 2017.
-[^35]:Warren, 2003, p. 388.
-
+[^34]:See Adeline Foo’s essay, [Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls](http://www.nlb.gov.sg/biblioasia/?s=lancing+girls), published in *BiblioAsia*, 12(4), Jan-Mar 2017.
+[^35]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 388.
