@@ -148,7 +148,7 @@ Winter’s appointment as Lady Assistant Protector of Chinese was significant as
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -168,21 +168,16 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^8]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 258.
 [^9]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 268.
 [^10]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 268–270.
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
+[^11]:Heritage Committee. Japanese Association. (1998). [*Prewar Japanese community in Singapore: Picture and record*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9284135). Singapore: Japanese Association, Singapore. (Call no.: RSING 305.895605957 PRE)
+[^12]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 320–321.
+[^13]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 358.
+[^14]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 366–367.
+[^15]:Warren, 2003, p. 258.
 [^16]:
 [^17]:
 [^18]:
 [^19]:
 [^20]:
-Heritage Committee. Japanese Association. (1998). [Prewar Japanese community in Singapore: Picture and record](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9284135). Singapore: Japanese Association, Singapore. (Call no.: RSING 305.895605957 PRE)
-Warren, 2003, pp. 320–321.
-Warren, 2003, p. 358.
-Warren, 2003, pp. 366–367.
-Warren, 2003, p. 258.
 Lim, H.S. (Interviewer). (1980, February 5). Oral history interview with Choong Keow Chye 钟桥才  [Transcript of recording no. 000015/2/1, p. 8]. Retrieved from National Archives of Singapore website. 
 Warren, 2003, pp. 60–61. 
 Warren, 2003, p. 279.
