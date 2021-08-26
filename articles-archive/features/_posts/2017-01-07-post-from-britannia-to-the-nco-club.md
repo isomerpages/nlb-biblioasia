@@ -141,14 +141,14 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 |In the early 1980s, SAFE closed its NCO Club store and opened a SAFE Centre in Chin Swee Road. The company would eventually be sold and renamed SAFE Superstore in 1989, expanding perhaps too quickly over the years before it went out of business in 2003.[^28]|
 
-|![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/8-britannia-nco.jpg)
-<div style="background-color: white;">Deputy Prime Minister and Minister for Defence Goh Keng Swee visits the SAF Enterprises (SAFE) supermarket at the NCO Club during its official opening on 20 December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>|
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/8-britannia-nco.jpg)
+<div style="background-color: white;">Deputy Prime Minister and Minister for Defence Goh Keng Swee visits the SAF Enterprises (SAFE) supermarket at the NCO Club during its official opening on 20 December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 |This is an abridged version of the chapter “1854–2001: History of Beach Road Camp and NCO Club” from the book South Beach: From Sea to Sky: The Evolution of Beach Road – by Francis Dorai and published by Editions Didier Millet for South Beach Consortium in 2012. The South Beach development, designed by the British architecture firm Foster + Partners, was launched in December 2015 and comprises a luxury hotel, offices, apartments and retail space.|
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/francis.png">
 	<b>Francis Dorai</b> has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
 </div>
 
