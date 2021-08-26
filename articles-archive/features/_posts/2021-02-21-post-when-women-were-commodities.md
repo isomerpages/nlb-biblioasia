@@ -46,13 +46,13 @@ In the Kreta Ayer/Chinatown area, Chinese brothels catered to a largely differen
 
 Historian James Warren’s in-depth study of life in Singapore brothels pieced together the practices of women in the profession by, among other things, examining information from coroner’s records and inquests as well as interviewing people who lived close to where the brothels were. His research unveiled intimate details such as how older women in the brothel prepared virgins for their first sexual experience. Warren also learned of their beauty secrets that included washing one’s face with powder ground from raw rice instead of cheap scented soap.
 
-Some of these sex workers managed to escape the trade: a few were able to save enough money to pay their way out of brothels while others were bought by wealthy businessmen and ended up as their mistresses or concubines.12 The latter were a minority though; for most, prostitution was a lifetime prison sentence until they met with illness or death.
+Some of these sex workers managed to escape the trade: a few were able to save enough money to pay their way out of brothels while others were bought by wealthy businessmen and ended up as their mistresses or concubines.[^12] The latter were a minority though; for most, prostitution was a lifetime prison sentence until they met with illness or death.
 
-Warren’s research uncovered shocking accounts of sex workers dying because of venereal disease, fatal fights resulting from social rivalry, alcoholism and drug abuse. Many prostitutes committed suicide – by overdosing on opium or ingesting poison, or by hanging or slitting their throats and, in one gory account, being burnt alive – because they had no chance of ever leaving the brothel. Death provided release from poverty, debt and ill health.13
+Warren’s research uncovered shocking accounts of sex workers dying because of venereal disease, fatal fights resulting from social rivalry, alcoholism and drug abuse. Many prostitutes committed suicide – by overdosing on opium or ingesting poison, or by hanging or slitting their throats and, in one gory account, being burnt alive – because they had no chance of ever leaving the brothel. Death provided release from poverty, debt and ill health.[^13]
 
 One account by Chu Ah Tan, a brothel owner, recounted the desperation experienced by a prostitute struggling with pulmonary tuberculosis and venereal disease. For eight years she smoked opium and injected herself with increasing dosages of morphine. She finally died after an overdose of opium.
 
-“Wong Mau Tan was one of the prostitutes in my brothel… she was coughing a lot and said that she had a cough and headache for two months. Yesterday evening, her maidservant found her in bed, spit was coming from her mouth. I removed her to the hospital, she was conscious up to the last.”14
+“Wong Mau Tan was one of the prostitutes in my brothel… she was coughing a lot and said that she had a cough and headache for two months. Yesterday evening, her maidservant found her in bed, spit was coming from her mouth. I removed her to the hospital, she was conscious up to the last.”[^14]
 
 <img src="/images/Vol-15-issue-4/when-women-were-commodities/china%20street.JPG">
 <div style="background-color: white;">A G.R. Lambert &amp; Co. photo of coolies on China Street, 1890s. The street was infamous for its numerous gambling houses. <i>Courtesy of Editions Didier Millet.
@@ -60,15 +60,15 @@ One account by Chu Ah Tan, a brothel owner, recounted the desperation experience
 
 #### **An Evening’s Entertainment**
 
-Why did men in Singapore visit prostitutes? For some, it was all part of business entertainment. Influential Chinese and European elites would arrange to meet in brothels to discuss business first before progressing to the evening’s entertainment.15 And it was not just the rich who thought a visit to a prostitute was normal.
+Why did men in Singapore visit prostitutes? For some, it was all part of business entertainment. Influential Chinese and European elites would arrange to meet in brothels to discuss business first before progressing to the evening’s entertainment.[^15] And it was not just the rich who thought a visit to a prostitute was normal.
 
 Entreprenuer Choong Keow Chye recalled in his oral history account:
 
-“I was a* sinkeh* earning about $10 a month. These people who won some money, $80 to $100, in gambling invited me to the brothel… Three to five dollars, or eight to ten dollars would pay for a night’s stay with a prostitute.”16
+“I was a* sinkeh* earning about $10 a month. These people who won some money, $80 to $100, in gambling invited me to the brothel… Three to five dollars, or eight to ten dollars would pay for a night’s stay with a prostitute.”[^16]
 
-The women could not keep all this money either: they were expected to pay the brothel owner between 40 and 50 percent of their earnings for rent, secret society protection, food, tailored dresses, loan of jewellery and medical fees.17
+The women could not keep all this money either: they were expected to pay the brothel owner between 40 and 50 percent of their earnings for rent, secret society protection, food, tailored dresses, loan of jewellery and medical fees.[^17]
 
-Beyond the immediate satiation of their sexual urges, many of the thousands of men who sought comfort in the arms of prostitutes did not see marriage in their future. They were too poor and earned too little to even entertain the thought of finding a wife, either in Singapore or back in their hometowns.18 These men toiled as manual labourers, working as rickshaw pullers, coal shovellers, construction workers and coolies, and led a tough life with little or no means of leisure. Apart from work, these men were lonely and many led a meaningless existence without companionship.
+Beyond the immediate satiation of their sexual urges, many of the thousands of men who sought comfort in the arms of prostitutes did not see marriage in their future. They were too poor and earned too little to even entertain the thought of finding a wife, either in Singapore or back in their hometowns.[^18] These men toiled as manual labourers, working as rickshaw pullers, coal shovellers, construction workers and coolies, and led a tough life with little or no means of leisure. Apart from work, these men were lonely and many led a meaningless existence without companionship.
 
 <img src="/images/Vol-15-issue-4/when-women-were-commodities/building.JPG">
 <div style="background-color: white;">The now demolished Chinese Protectorate building on Havelock Road, c. 1910. The office was first set up in 1877 at a shophouse on North Canal Road under William Pickering, the first Protector of Chinese, to look after the affairs of Singapore’s migrant Chinese community. In 1888, the Protectorate established the Po Leung Kuk in another location to help women who had been sold or tricked into prostitution. <i>Courtesy of National Museum of Singapore, National Heritage Board.
@@ -88,7 +88,7 @@ In 1888, the Protectorate set up a separate body, the Po Leung Kuk, or the Offic
 
 The *mui tsai* (literally “little sister” in Cantonese) were girls as young as eight years old who came to Singapore, accompanying a relative or a fellow villager. The girls came to seek a better future through marriage or employment as domestic workers. However, many of these girls ended up being tricked into prostitution, or sold to rich families who might abuse them.
 
-As the *mui tsai* grew into her teens, her situation could worsen: if she was pretty, she would find herself servicing the sexual needs of the male members in the household; if she were to bear children, she would not be allowed to claim or acknowledge them until her mistress passed away.19 The Po Leung Kuk rescued these girls, gave them a safe place to live and trained them in useful skills that could help them find decent men to marry or a useful job when they left the Po Leung Kuk.
+As the *mui tsai* grew into her teens, her situation could worsen: if she was pretty, she would find herself servicing the sexual needs of the male members in the household; if she were to bear children, she would not be allowed to claim or acknowledge them until her mistress passed away.[^19] The Po Leung Kuk rescued these girls, gave them a safe place to live and trained them in useful skills that could help them find decent men to marry or a useful job when they left the Po Leung Kuk.
 
 Another group of young girls who were rescued by the Po Leung Kuk was the *pipa tsai*. These were girls who were trained to play and sing to the accompaniment of the *pipa*, a short-necked wooden lute. In brothels and clubs where men gathered, these girls entertained their clients by reciting Chinese poetry and bantering with them. The older among the *pipa tsai* would be made to sit at tables to accompany men. These girls were paid by the hour and sometimes also provided sexual services.
 
@@ -148,7 +148,7 @@ Winter’s appointment as Lady Assistant Protector of Chinese was significant as
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
 <center>
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
@@ -156,3 +156,27 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
+
+#### **Notes**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
+
+
