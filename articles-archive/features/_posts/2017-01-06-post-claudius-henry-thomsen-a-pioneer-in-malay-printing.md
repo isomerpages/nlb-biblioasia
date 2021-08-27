@@ -126,7 +126,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/5-claudies-henry-thomsen.png)
 <div style="background-color: white;"><i>The Sermon on the Mount</i> is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore.</div>
 
-![Alt text for image on Isomer site](/images/space2.png)
+![Alt text for image on Isomer site](/images/space1.png)
 
 |**The New Testament of our Lord and Saviour Jesus Christ in Malay** *(Kitab Al-Kudus, ia-itu, Injil Isa Al- Masihi atau Segala Surat Testament Bahru)* (1831) [Call no.: RRARE 225.59928 BIB; Microfilm no.: NL 27664, NL 9717]|
 
@@ -135,7 +135,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/6-claudies-henry-thomsen.png)
 <div style="background-color: white;">The National Library’s copy of <i>The New Testament of our Lord and Saviour Jesus Christ in Malay</i>. Thomsen spent 12 to 15 months translating the New Testament into Malay, and printed 1,500 copies in June 1831.</div>
 
-![Alt text for image on Isomer site](/images/space2.png)
+![Alt text for image on Isomer site](/images/space1.png)
 
 |* **A Code of Bugis Maritime Laws** (1832) [Call no.: RRARE 343.5984096 COD; Microfilm no.: NL 6400]|
 
@@ -144,7 +144,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/7-claudies-henry-thomsen.png)
 <div style="background-color: white;">The National Library holds a copy of <i>A Code of Bugis Maritime Laws</i>, which was edited by Thomsen and published in 1832. The publication was subsequently translated into French, German and Dutch.</div>
 
-![Alt text for image on Isomer site](/images/space2.png)
+![Alt text for image on Isomer site](/images/space1.png)
 
 |The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing this article and sharing their valuable insights.|
 
