@@ -123,9 +123,9 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 [^7]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 4.
 [^8]:[The Singapore Free Press.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500301-1.2.8) (1850, March 1). *The Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 1. Retrieved from NewspaperSG.
 [^9]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; When lepers roamed the streets. (1956, May 5). The Straits Times, p. 9. Retrieved from NewspaperSG.
-[^10]:National Library Board, 2008; Dhoraisingham & Samuel, 2003, p. 23.
+[^10]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; Dhoraisingham & Samuel, 2003, p. 23.
 [^11]:Dhoraisingham & Samuel, 2003, p. 23.
-[^12]:National Library Board, 2008; Tan Tock Seng and the war on diseases. (1974, September 26). New Nation, p. 7. Retrieved from NewspaperSG. 
+[^12]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; Tan Tock Seng and the war on diseases. (1974, September 26). New Nation, p. 7. Retrieved from NewspaperSG. 
 [^13]:The Singapore Free Press and Mercantile Advertiser (1835–1869), 1 Mar 1850, p. 1.
 [^14]:New Nation, 26 Sep 1974, p. 7; Straits Times special feature: Towky forced hand of govt. to build hospital. (1961, December 7). The Straits Times, p. 9. Retrieved from NewspaperSG.
 [^15]:New Nation, 26 Sep 1974, p. 7
