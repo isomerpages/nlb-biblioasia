@@ -121,7 +121,7 @@ The cabaret of yesteryear Singapore is indeed a celebration of our unique histor
 
 When asked if there was anything in their past they wished they had done differently, all the replies were negative. If these “lancing” girls had a chance to relive their lives all over again, they wouldn’t change a thing. In spite of the underlying exploitation of women’s bodies and the seamier side of cabaret life, theirs were inspiring stories of faith, hope and, as we now know, charity.
 
-|Where Fiction Mirrors Life (By Michelle Heng)|
+|**Where Fiction Mirrors Life** (By Michelle Heng)|
 
 |Singapore’s quest towards modernity in the aftermath of World War II (1942–45) and its nation-building years was underpinned by a quick succession of steel-and-glass skyscrapers and fancy shopping malls. But scratch beneath the surface and a very different side of Singapore emerges − reflected in the lives and loves of several characters from fiction who struggled to make a living in the city’s seamier entertainment spots. A selection of significant works in the National Library’s collection tell an interesting tale of life in a bygone era.|
 
@@ -130,7 +130,7 @@ When asked if there was anything in their past they wished they had done differe
 |First staged in 1962 at the Cultural Centre (later renamed Drama Centre), *Mimi Fan*, in particular, broke new ground as it was uncommon then for non-expatriate-produced plays to be staged in Singapore [^22]  Lim wanted his play to be as realistic as possible with colloquialisms that Singaporeans could identify with.[^23]  He highlighted the significance of breaking away from the mould of “Western drawing-room drama” in a 1964 article for Tumasek journal, declaring that, “…A national theatre cannot hope to survive if it keeps on staging foreign plays.”[^24] |
 
 |The eponymous protagonist from Mimi Fan, a free-spirited and independent teenage bar girl, eventually leaves her lover, Chan Fei-Loong, an overseas English-educated Singaporean who has returned home to work, at a time when most women were expected to find value and meaning through their roles as wives and mothers.
-Another memorable character who existed on the periphery of polite society is Lucy, the Singaporean bar girl who has an affair with the protagonist Kwang Meng in the late pioneer writer Goh Poh Seng’s novel *If We Dream Too Long* (1972).[^25] |
+Another memorable character who existed on the periphery of polite society is Lucy, the Singaporean bar girl who has an affair with the protagonist Kwang Meng in the late pioneer writer Goh Poh Seng’s novel *If We Dream Too Long* (1972).[^25]|
 
 |Writer and literary critic Kirpal Singh notes that Singapore’s first post-independence English novel[^26] was written “around the time Singapore was starting to get − and assert − a sense of itself as a nation” and projected an unnerving anxiety especially as “… Merger with Malaysia had come and gone and left in its wake a stark reality which many were trying to analyse, understand and even project.”[^27] Amidst this gnawing unease, the struggling protagonist found some degree of solace, albeit shortlived, in the arms of his paramour, Lucy, who earns a living entertaining men at Paradise Bar.|
 
