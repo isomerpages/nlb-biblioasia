@@ -114,11 +114,11 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 
 #### **Notes**
 
-[^1]:Quek, F. (1989, January 28). Photo display to honour Singapore pioneers. The Straits Times, p.15. Retrieved from NewspaperSG.
-[^2]:Graves of Tan Tock Seng, Chua Seah Neo & Wuing Neo. (2013). Our Heritage: Tiong Bahru, (pp.18–19). Retrieved from National Heritage Board website.
-[^3]:Sivanathan, N. (2013, September/October). Lessons of a forefather. Lifewise, (47), p. 23. Retrieved from National Healthcare Group website. 
-[^4]:National Library Board. (2008). Tan Tock Seng written by Tien, Jenny. Retrieved from Singapore Infopedia; Sivanathan, Sep/Oct 2013, p. 23. 
-[^5]:National Library Board, 2008; Dhoraisingham, K.D., & Samuel, D.S. (2003). Tan Tock Seng: Pioneer: His life, times, contributions and legacy (p. 9). Kota Kinabalu: Natural History Publications (Borneo). Call no.: RSING 338.04092 KAM
+[^1]:Quek, F. (1989, January 28). [Photo display to honour Singapore pioneers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890128-1.2.29.17.aspx). *The Straits Times*, p.15. Retrieved from NewspaperSG.
+[^2]:*Graves of Tan Tock Seng, Chua Seah Neo & Wuing Neo*. (2013). Our Heritage: Tiong Bahru, (pp.18–19). Retrieved from National Heritage Board website.
+[^3]:Sivanathan, N. (2013, September/October). *Lessons of a forefather. Lifewise*, (47), p. 23. Retrieved from National Healthcare Group website. 
+[^4]:National Library Board. (2008). *[Tan Tock Seng](http://eresources.nlb.gov.sg/infopedia/articles/SIP1182005-01-22.html)* written by Tien, Jenny. Retrieved from Singapore Infopedia; Sivanathan, Sep/Oct 2013, p. 23. 
+[^5]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; Dhoraisingham, K.D., & Samuel, D.S. (2003). Tan Tock Seng: Pioneer: His life, times, contributions and legacy (p. 9). Kota Kinabalu: Natural History Publications (Borneo). Call no.: RSING 338.04092 KAM
 [^6]:Turnbull, C.M. (1989). A history of Singapore, 1819–1988 (2nd ed) (p. 14). Singapore: Oxford University Press. Call no.: RSING 959.57 TUR-[HIS]
 [^7]:Dhoraisingham & Samuel, 2003, p. 4.
 [^8]:The Singapore Free Press. (1850, March 1). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 1. Retrieved from NewspaperSG.
