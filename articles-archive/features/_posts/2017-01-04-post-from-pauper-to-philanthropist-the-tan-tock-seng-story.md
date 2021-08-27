@@ -126,7 +126,7 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 [^10]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; [Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 23.
 [^11]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 23.
 [^12]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; [Tan Tock Seng and the war on diseases.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1) (1974, September 26). *New Nation*, p. 7. Retrieved from NewspaperSG. 
-[^13]:*[The Singapore Free Press and Mercantile Advertiser (1835–1869)](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500301-1.2.8.aspx), 1 Mar 1850, p. 1.
+[^13]:*[The Singapore Free Press and Mercantile Advertiser (1835–1869)](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500301-1.2.8.aspx)* , 1 Mar 1850, p. 1.
 [^14]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7; [Straits Times special feature: Towkay forced hand of govt. to build hospital.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx) (1961, December 7). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 [^15]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
 [^16]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 7 Dec 1961, p. 9.
