@@ -163,13 +163,13 @@ Another memorable character who existed on the periphery of polite society is Lu
 [^7]:[快乐学校慈善舞后许千红访问记](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19470610-1.2.47). (1947, June 10).《南洋商报》*[Nanyang Siang Pau]*, p. 5. Retrieved from NewspaperSG.
 [^8]:[Singapore needs more schools](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19471123-1.2.41). (1947, November 23). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^9]:Following the fall of Singapore on 15 February 1942, Chinese males between 18 and 50 years of age were ordered to report to designated centres for mass screening. Many of these ethnic Chinese were then rounded up and taken to deserted spots to be summarily executed. This came to be known as Operation Sook Ching (the Chinese term means “purge through cleansing”). It is not known exactly how many people died; the official estimates given by the Japanese is 5,000 but the actual number is believed to be 8-10 times higher.
-[^10]:Kua, K.S. (2008). [The Chinese schools of Malaysia: A protean saga](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13224576) (pp. 31, 34). Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College. Call no.: RSEA 371.009595 KUA
+[^10]:Kua, K.S. (2008). *[The Chinese schools of Malaysia: A protean saga](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13224576)* (pp. 31, 34). Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College. Call no.: RSEA 371.009595 KUA
 [^11]:潘星华.(主编). (2014). 《[消失的华校:国家永远的资产](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200946548)》(p. 140). 新加坡: 华校校友会联合会出版. Call no.: Chinese RSING 371.82995105957 XSD
 [^12]:[王振春](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11895220), 1990, p. 149.
 [^13]:[王振春](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11895220), 1990, p. 150.
-[^14]:Kindest cut by women barbers. (1949, October 23). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
-[^15]:Women ousting men from barbers’ shops. (1937, June 6). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
-[^16]:Pay talks: Clerks not satisfied. (1952, August 23). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^14]:[Kindest cut by women barbers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491023-1.2.88). (1949, October 23). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^15]:[Women ousting men from barbers’ shops](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370606-1.2.212). (1937, June 6). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
+[^16]:[Pay talks: Clerks not satisfied](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19520823-1.2.55). (1952, August 23). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^17]:Interview with Ong Swee Neo on 24 February 2016.
 [^18]:Interview with Johnny Chia on 19 February 2016.
 [^19]:Interview with Thomas Wong on 26 September 2016.
