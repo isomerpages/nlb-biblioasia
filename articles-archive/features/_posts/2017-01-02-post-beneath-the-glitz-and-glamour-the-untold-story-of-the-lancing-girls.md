@@ -155,13 +155,13 @@ Another memorable character who existed on the periphery of polite society is Lu
 #### **Notes**
 
 [^1]:Foo, A. (2016, April 30). The ‘lancing’ girls from a glitzy world. *The Straits Times*. Retrieved from Factiva.
-[^2]:[Pleasure domes of the past. ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870708-1.2.64.2.1)(1987, July 8). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
-[^3]:Club aids cabaret girls. (1953, August 27). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
-[^4]:王振春. (1990).《根的系列之二》(p. 153). 新加坡: 胜友书 局. Call no.: Chinese RCLOS 959.57 WZC.
-[^5]:王振春, 1990, p. 153.
-[^6]:舞国的一朵青春何燕娜. (1947, January 25).《南洋商报》 [Nanyang Siang Pau], p. 12. Retrieved from NewspaperSG.
-[^7]:快乐学校慈善舞后许千红访问记. (1947, June 10).《南洋商报》[Nanyang Siang Pau], p. 5. Retrieved from NewspaperSG.
-[^8]:Singapore needs more schools. (1947, November 23). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^2]:[Pleasure domes of the past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870708-1.2.64.2.1).(1987, July 8). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^3]:[Club aids cabaret girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19530827-1.2.50). (1953, August 27). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^4]:王振春. (1990).《[根的系列之二](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11895220)》(p. 153). 新加坡: 胜友书 局. Call no.: Chinese RCLOS 959.57 WZC.
+[^5]:[王振春](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11895220), 1990, p. 153.
+[^6]:[舞国的一朵青春何燕娜.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19470125-1.2.148.1) (1947, January 25).《南洋商报》 *[Nanyang Siang Pau]*, p. 12. Retrieved from NewspaperSG.
+[^7]:[快乐学校慈善舞后许千红访问记](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19470610-1.2.47). (1947, June 10).《南洋商报》*[Nanyang Siang Pau]*, p. 5. Retrieved from NewspaperSG.
+[^8]:[Singapore needs more schools](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19471123-1.2.41). (1947, November 23). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^9]:Following the fall of Singapore on 15 February 1942, Chinese males between 18 and 50 years of age were ordered to report to designated centres for mass screening. Many of these ethnic Chinese were then rounded up and taken to deserted spots to be summarily executed. This came to be known as Operation Sook Ching (the Chinese term means “purge through cleansing”). It is not known exactly how many people died; the official estimates given by the Japanese is 5,000 but the actual number is believed to be 8-10 times higher.
 [^10]:Kua, K.S. (2008). The Chinese schools of Malaysia: A protean saga (pp. 31, 34). Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College. Call no.: RSEA 371.009595 KUA
 [^11]:潘星华.(主编). (2014). 《消失的华校:国家永远的资产》(p. 140). 新加坡: 华校校友会联合会出版. Call no.: Chinese RSING 371.82995105957 XSD
