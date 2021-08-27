@@ -114,9 +114,8 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/blank-author.png">
-	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
-</div>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/Sueann.png">
+	<b>Sue-Ann Chia </b>is a journalist with over 15 years experience covering politics and current affairs at various newspapers, including "The Straits Times" and "Today". She is currently the Associate Director at the Asia Journalism Fellowship and a Director at The Nutgraf, a boutique writing and media consultancy.</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
