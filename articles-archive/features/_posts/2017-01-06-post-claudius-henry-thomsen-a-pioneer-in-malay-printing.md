@@ -23,7 +23,7 @@ Recently married, Thomsen set sail with his wife for the East in April 1815 unde
 
 The Chinese missions in Malacca had opened that same year[^6] with the objective of becoming the LMS base for missionary work in China. At the time, China was closed to foreign trade and was antagonistic towards Christian missionary work. Robert Morrison, a pioneer missionary in China, had earlier sent his colleague William Milne to head the Malacca mission station. Before long, a few schools and a Chinese printing press had been established in Malacca. In formulating his plans for the station in the Malay Archipelago, Morrison envisioned that there be “… that powerful engine, the Press.”[^7]
 
-Upon his arrival in Malacca, Thomsen was introduced to Munshi Abdullah who helped guide him in his understanding of the Malay language. It is through Abdullah’s autobiography, Hikayat Abdullah (Stories of Abdullah), that the earliest picture of Thomsen was formed.[^8] Thomsen spent his early months in Malacca mastering the language, beginning with the translation of the Gospel of Matthew based on the Batavia-Dutch edition of 1758.
+Upon his arrival in Malacca, Thomsen was introduced to Munshi Abdullah who helped guide him in his understanding of the Malay language. It is through Abdullah’s autobiography, *Hikayat Abdullah* (Stories of Abdullah), that the earliest picture of Thomsen was formed.[^8] Thomsen spent his early months in Malacca mastering the language, beginning with the translation of the Gospel of Matthew based on the Batavia-Dutch edition of 1758.
 
 #### **Printing in Malacca**
 
@@ -39,16 +39,16 @@ Academic Ibrahim Ismail notes that the new press was used for all Malay publicat
 
 Unfortunately, Thomsen did not see the arrival of this press as his wife’s illness led to his sudden departure for England on 12 September 1816. However, he left behind two Malay manuscripts that were ready for printing. In the meantime, Munshi Abdullah was taught by the English Protestant missionary, Walter Henry Medhurst, who arrived in Malacca in June 1817,[^11] to set the types and operate the printing press.
 
-Thus, the first Malay books in the Malay Peninsula – The Ten Commandments with the Lord’s Prayer appended and Dr Watts’ First Catechism – were published in May 1817 during Thomsen’s absence. The manuscripts were sent to “an excellent Malay scholar”, Major J. McInnis of the 20th Regiment of the Bengal Native Infantry in Penang, for review before being published. Thomsen returned to Malacca on 29 December 1817, sadly bereft of his wife. While he was in England though, Thomsen pursued further training in printing, and returned with files and borers to make new font types, along with old English metal types that he recast into new fonts.[^12]
+Thus, the first Malay books in the Malay Peninsula – *The Ten Commandments with the Lord’s Prayer appended and Dr Watts’ First Catechism* – were published in May 1817 during Thomsen’s absence. The manuscripts were sent to “an excellent Malay scholar”, Major J. McInnis of the 20th Regiment of the Bengal Native Infantry in Penang, for review before being published. Thomsen returned to Malacca on 29 December 1817, sadly bereft of his wife. While he was in England though, Thomsen pursued further training in printing, and returned with files and borers to make new font types, along with old English metal types that he recast into new fonts.[^12]
 
 Thomsen quickly immersed himself in the work of the missions, reopening the Malay school, starting a new school for Malabar Indians, distributing Christian tracts and running a very active printing press. Milne noted Thomsen’s abilities in teaching youths and his natural delight in doing so. Later, Thomsen’s contemporary Samuel Milton, who was also a missionary, would comment that Thomsen had “an excellent talent for composing in the English and Malay language, hymns, short prayers, lessons and other elementary books well adapted to the capacity of children”.[^13]
 
-In fact, one of Thomsen’s earliest publications[^14] was A Spelling Book (1818), likely used in the schools and one of the earliest Malay textbooks to be printed in the Malay Peninsula. Another first in Malay printing was Bustan Arifin (1821–22), the first Malay magazine published in the Peninsula and targeted at Malay youths. Other publications include An Alphabet, Syllabrium and Praxis in the Malayan Language (1818); A Vocabulary of the English and Malayan Languages (1820) as well as various religious tracts and textbooks.
+In fact, one of Thomsen’s earliest publications[^14] was *A Spelling Book* (1818), likely used in the schools and one of the earliest Malay textbooks to be printed in the Malay Peninsula. Another first in Malay printing was Bustan Arifin (1821–22), the first Malay magazine published in the Peninsula and targeted at Malay youths. Other publications include *An Alphabet, Syllabrium and Praxis in the Malayan Language* (1818); *A Vocabulary of the English and Malayan Languages* (1820) as well as various religious tracts and textbooks.
 
 By 1819, the Malay printing press was under the full charge of Thomsen who employed 12 youths – eight boys and four girls – to work as bookbinders, printers and illustrators.[^15] The printing press was, however, a much smaller enterprise in terms of size and financial resources compared with the Chinese press. By 1820, Thomsen had married Mary Ann Browne.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/3-claudies-henry-thomsen.png)
-<div style="background-color: white;">Likely the Chinese printing press used in Malacca in the early 19th century. Brightwell, C.L. (1874). So Great Love: Sketches of Missionary Life andLabour. London: John Snow and Co. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;">Likely the Chinese printing press used in Malacca in the early 19th century. <i>Brightwell, C.L. (1874). So Great Love: Sketches of Missionary Life and Labour. London: John Snow and Co. Courtesy of Wikimedia Commons.</i></div>
 
 #### **Printing in Singapore**
 
@@ -72,14 +72,14 @@ Unfortunately, it was unsustainable to run two separate presses and when Milton 
 
 The title and date of the first publication printed in Singapore cannot be ascertained. Milton mentioned an early attempt at printing a periodical and an exposition of the Book of Genesis in Chinese in a letter to George Burder, treasurer and secretary of the LMS, dated 23 September 1822. He also had plans to print pamphlets and later the New Testament in Siamese. However, no mention is subsequently made of these publications and so it is assumed that they were never completed.[^24] Academic Leona O’Sullivan holds the view that printing in Singapore began with the publication of Raffles’ Proclamation of 2 December 1822,[^25] while Bastin records that it is Raffles’ Proclamation of 1 January 1823.[^26]
 
-The Mission Press under Thomsen published not only government resources, but also various Christian tracts and bibles as well as school textbooks. While in Malacca, Thomsen had instructed Munshi Abdullah to create a Malay word list to which he would supply the English translations. Keen to learn English, Abdullah produced 2,000 words after a month’s work. This wordlist was published as A Vocabulary of the English and Malayan Languages in Malacca in 1820, and it likely became the first published vocabulary in Singapore when reprinted by Thomsen in 1827.[^27]
+The Mission Press under Thomsen published not only government resources, but also various Christian tracts and bibles as well as school textbooks. While in Malacca, Thomsen had instructed Munshi Abdullah to create a Malay word list to which he would supply the English translations. Keen to learn English, Abdullah produced 2,000 words after a month’s work. This wordlist was published as *A Vocabulary of the English and Malayan Languages* in Malacca in 1820, and it likely became the first published vocabulary in Singapore when reprinted by Thomsen in 1827.[^27]
 
 Thomsen used the publication as a teaching tool at the Malay school in Malacca as well as to help improve his own Malay vocabulary. Additionally, Thomsen used the vocabularly as a framework to expand his knowledge of the Bugis language, with the third edition incorporating Bugis translations of the Malay words. This was one of the last publications Thomsen produced in Singapore but the Malay word-list continued to be published as late as 1860, long after his death.[^28]
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/4-claudies-henry-thomsen.jpg)
 <div style="background-color: white;">A group of Bugis men posing for a photograph below their house built on wooden stilts, c.1890s. <i>Courtesy of National Archives of Singapore.</i></div>
 
-Besides making initial inroads into Malay publishing, Thomsen stands as a forgotten pioneer of Bugis translated works. His interest in the Bugis language probably arose while he went onboard ships and boats to distribute Christian tracts during the trading season and noticed the influx of Bugis prahu, a small sailing boat used by the Bugis in the Malay Archipelago. Thomsen published his first Bugis tract in 1827 after having recruited a competent transcriber in Buginese for the publication of the material.[^29] Although the Bugis tracts were not considered good translations and he never quite achieved his dream of translating the Bible into Buginese, his English-Malay-Bugis Vocabulary (1833) and A Code of Bugis Maritime Laws (1832) are some of the earliest works in the Bugis language.
+Besides making initial inroads into Malay publishing, Thomsen stands as a forgotten pioneer of Bugis translated works. His interest in the Bugis language probably arose while he went onboard ships and boats to distribute Christian tracts during the trading season and noticed the influx of Bugis *prahu*, a small sailing boat used by the Bugis in the Malay Archipelago. Thomsen published his first Bugis tract in 1827 after having recruited a competent transcriber in Buginese for the publication of the material.[^29] Although the Bugis tracts were not considered good translations and he never quite achieved his dream of translating the Bible into Buginese, h*is English-Malay-Bugis Vocabulary* (1833) and *A Code of Bugis Maritime Laws* (1832) are some of the earliest works in the Bugis language.
 
 Thomsen’s “crowning achievement”, however, as academic Ibrahim bin Ismail notes, was his translation of the New Testament into Malay based on the Calcutta edition. With the help of the Anglican padre Robert Burn, Thomsen devoted much of his time translating the work between 1830 and 1831. With funding from the British and Foreign Bible Society, he printed 1,500 copies of the publication in June 1831.[^30]
 
@@ -101,9 +101,9 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 |**Some Key Publications by Claudius Henry Thomsen**|
 
-|**Bustan Arifin: Malay Magazine** (1821–22)|
+|***Bustan Arifin: Malay Magazine*** (1821–22)|
 
-|This is the first Malay magazine to be published in the Malay Peninsula. A quarterly edition with about 30 pages per issue, it was written for a Malay readership and covers a wide range of subjects such as history, biography, philosophy and religion. It followed the framework set by an earlier periodical – the Indo-Chinese Gleaner. Missionaries Samuel Milton and Thomas Beighton regularly wrote columns for the magazine, the former on astronomy while the latter profiled heroes of history and the Christian faith. It became popular and was even read by the royal families in the Malay Peninsula. However, only six issues were published between January 1821 and April 1822 as Thomsen left for Singapore soon after.[^37]|
+|This is the first Malay magazine to be published in the Malay Peninsula. A quarterly edition with about 30 pages per issue, it was written for a Malay readership and covers a wide range of subjects such as history, biography, philosophy and religion. It followed the framework set by an earlier periodical – *the Indo-Chinese Gleaner*. Missionaries Samuel Milton and Thomas Beighton regularly wrote columns for the magazine, the former on astronomy while the latter profiled heroes of history and the Christian faith. It became popular and was even read by the royal families in the Malay Peninsula. However, only six issues were published between January 1821 and April 1822 as Thomsen left for Singapore soon after.[^37]|
 
 |**The Psalter, or Psalms of David, with the Order for Morning and Evening Prayer, Daily Throughout the Year** *(Puji-pujian iaitu Segala Zabur Daud Terbahagi atas Jalan Seperti yang Dipakai oleh Sidang Perhimpunan dalam Gereja lagipun Beberapa Doa yang Dipakai Sehari-hari Pagi dan Petang)* (1824) [Call no.: RCLOS 221 PUJ]|
 
@@ -113,18 +113,18 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 |The word-list of 2,000 words is one of the earliest collaborative works by Munshi Abdullah and Thomsen, compiled sometime between 1815 and 1816.[^39] It was first published in Malacca in 1820 to aid visiting foreigners in communicating with the locals and used as a teaching tool by Thomsen at his Malay school. The second edition was published in Singapore in 1827, likely the first vocabulary guide printed in Singapore. It provides insights into how Malay was used in Malacca and Singapore in the early 19th century. The only known complete set is found at the National University of Singapore Library’s Singapore/Malaysia Collection.|
 
-|The third edition published in Singapore in 1833, entitled A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words, is one of the last works Thomsen would print in Singapore. The Bugis manuscript had languished for several years until a donation of 30 Spanish dollars was made by a friend of Thomsen’s to defray the printing cost.[^40] An enlarged and improved edition was printed by Evans in Malacca and Penang in 1837,[^41] with the profits used to raise 400 Spanish dollars for building a new wing for the Anglo-Chinese College in Malacca. The Vocabulary continued to be printed in Singapore as late as 1860.[^42]|
+|The third edition published in Singapore in 1833, entitled *A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words*, is one of the last works Thomsen would print in Singapore. The Bugis manuscript had languished for several years until a donation of 30 Spanish dollars was made by a friend of Thomsen’s to defray the printing cost.[^40] An enlarged and improved edition was printed by Evans in Malacca and Penang in 1837,[^41] with the profits used to raise 400 Spanish dollars for building a new wing for the Anglo-Chinese College in Malacca. The *Vocabulary* continued to be printed in Singapore as late as 1860.[^42]|
 
 |**The Substance of our Saviour’s Sermon on the Mount Contained in the 5th, 6th &amp; c. 7th Chapters of the Gospel According to St Matthew** (1829) [Call no.: RRARE 226.9059923 SER; Microfilm no.: NL 21277]|
 
-|This is a Malay translation of Jesus’s core teachings as found in his Sermon on the Mount in the Gospel of Matthew. The booklet begins with a single-page orthography of the Malay language as used in the text and concludes with a non-biblical six-stanza poem on the means to salvation.|
+|This is a Malay translation of Jesus’s core teachings as found in his *Sermon on the Mount in the Gospel of Matthew*. The booklet begins with a single-page orthography of the Malay language as used in the text and concludes with a non-biblical six-stanza poem on the means to salvation.|
 
 |Thomsen is believed to be the translator of the booklet and author of the poem, having completed a translation of the Gospel of Matthew in 1821 while in Malacca.[^43]|
 
 |This booklet is the earliest extant Malay publication printed in Singapore and is found in the National Library, Singapore.|
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/5-claudies-henry-thomsen.png)
-<div style="background-color: white;">The Sermon on the Mount is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore.</div>
+<div style="background-color: white;"><i>The Sermon on the Mount</i> is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore.</div>
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
@@ -133,7 +133,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 |Thomsen began work on translating the New Testament of the Bible into Malay when he realised that the stocks of his Calcutta edition was running low. He devoted 12 to 15 months of fulltime work to carry out the translation, and finally printed 1,500 copies in June 1831, noting that this event “will form an era in the Malay Mission”. The British and Foreign Bible Society contributed 800 sicca Rupees for its publication.[^44] The National Library, Singapore, has the first edition of this rare publication.|
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/6-claudies-henry-thomsen.png)
-<div style="background-color: white;">The National Library’s copy of The New Testament of our Lord and Saviour Jesus Christ in Malay. Thomsen spent 12 to 15 months translating the New Testament into Malay, and printed 1,500 copies in June 1831.</div>
+<div style="background-color: white;">The National Library’s copy of <i>The New Testament of our Lord and Saviour Jesus Christ in Malay</i>. Thomsen spent 12 to 15 months translating the New Testament into Malay, and printed 1,500 copies in June 1831.</div>
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
@@ -142,7 +142,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 |The National Library, Singapore, has a copy of this publication edited by Thomsen and published in 1832. It contains the Bugis maritime laws in the Bugis script with English translations as well as an appendix of vocabulary terms. Although Thomsen’s translation was criticised as not being accurate, the publication was well received as far away as Bengal and was subsequently translated and published in French in 1845, German in 1854 and Dutch in 1856.[^45]|
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/7-claudies-henry-thomsen.png)
-<div style="background-color: white;">The National Library holds a copy of A Code of Bugis Maritime Laws, which was edited by Thomsen and published in 1832. The publication was subsequently translated into French, German and Dutch.</div>
+<div style="background-color: white;">The National Library holds a copy of <i>A Code of Bugis Maritime Laws</i>, which was edited by Thomsen and published in 1832. The publication was subsequently translated into French, German and Dutch.</div>
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
