@@ -144,7 +144,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/7-claudies-henry-thomsen.png)
 <div style="background-color: white;">The National Library holds a copy of <i>A Code of Bugis Maritime Laws</i>, which was edited by Thomsen and published in 1832. The publication was subsequently translated into French, German and Dutch.</div>
 
-![Alt text for image on Isomer site](/images/space1.png)
+![Alt text for image on Isomer site](/images/space2.png)
 
 |The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing this article and sharing their valuable insights.|
 
