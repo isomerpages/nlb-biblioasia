@@ -112,6 +112,14 @@ Like many other philathropists of his time, Tan and his peers gave generously to
 
 Unfortunately, it is a heritage that is becoming increasingly brittle. Given Singapore’s penchant for acronyms – most people know Tan Tock Seng Hospital today as TTSH − one fears that future generations could become even less familiar with the forgotten pioneer and his legacy to Singapore’s history.
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/blank-author.png">
+	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
+
 #### **Notes**
 
 [^1]:Quek, F. (1989, January 28). [Photo display to honour Singapore pioneers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890128-1.2.29.17.aspx). *The Straits Times*, p.15. Retrieved from NewspaperSG.
