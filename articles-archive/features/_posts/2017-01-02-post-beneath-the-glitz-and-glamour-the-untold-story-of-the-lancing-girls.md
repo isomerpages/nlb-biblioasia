@@ -155,7 +155,7 @@ Another memorable character who existed on the periphery of polite society is Lu
 #### **Notes**
 
 [^1]:Foo, A. (2016, April 30). The ‘lancing’ girls from a glitzy world. *The Straits Times*. Retrieved from Factiva.
-[^2]:Pleasure domes of the past. (1987, July 8). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^2]:[Pleasure domes of the past. ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870708-1.2.64.2.1)(1987, July 8). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^3]:Club aids cabaret girls. (1953, August 27). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^4]:王振春. (1990).《根的系列之二》(p. 153). 新加坡: 胜友书 局. Call no.: Chinese RCLOS 959.57 WZC.
 [^5]:王振春, 1990, p. 153.
@@ -175,9 +175,9 @@ Another memorable character who existed on the periphery of polite society is Lu
 [^19]:Interview with Thomas Wong on 26 September 2016.
 [^20]:Ong, K.S. (1993). Introduction. In M. Chiang. (1994), Private parts and other play things: A collection of popular Singapore comedies (p. 8). Singapore: Landmark Books. Call no.: RSING S822 CHI
 [^21]:Lim, C.P. (2012). Mimi Fan. Singapore: Epigram. Call no.: RSING S822 LIM; Lim C.P. (2015). A white rose at midnight. Singapore: Epigram. Call no.: RSING S822 LIM
-[^22]:Tan, C. (2014, June 24). Five reasons why the play Mimi Fan is a classic. The Straits Times. Retrieved from *The Straits Times* website.
-[^23]:Yeo, R. (1982, March 28). Making us speak naturally. *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^24]:Lim, C.P. (1964, January 1). Is drama non-existent in Singapore? Tumasek, 1, 42–44. Call no.: RCLOS 805 T; Yeo, R. (1982, March 28). Making us speak naturally. *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^25]:Goh. P.S. (1972). If we dream too long. Singapore: Island Press. Call no.: RSING 828.99 GOH
-[^26]:Koh, T.A. (2010). Goh Poh Seng’s If We Dream Too Long: An appreciation. In P.S. Goh. (2010), If we dream too long (p. xii). Singapore: NUS Press. Call no.: RSING S823 GOH
-[^27]:Nur Asyiqin Mohamad Salleh. (2016, July 30). In search of the great Singapore novel. The Straits Times. Retrieved from The Straits Times website.
+[^22]:Tan, C. (2014, June 24). Five reasons why the play Mimi Fan is a classic. *The Straits Times*. Retrieved from *The Straits Times* website.
+[^23]:Yeo, R. (1982, March 28). [Making us speak naturally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820328-1.2.110.19.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^24]:Lim, C.P. (1964, January 1). Is drama non-existent in Singapore? [Tumasek](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5053647), 1, 42–44. Call no.: RCLOS 805 T; Yeo, R. (1982, March 28). [Making us speak naturally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820328-1.2.110.19.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^25]:Goh. P.S. (1972). *[If we dream too long](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13227365)*. Singapore: Island Press. Call no.: RSING 828.99 GOH
+[^26]:Koh, T.A. (2010). Goh Poh Seng’s If We Dream Too Long: An appreciation. In P.S. Goh. (2010), *[If we dream too long](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13227365)* (p. xii). Singapore: NUS Press. Call no.: RSING S823 GOH
+[^27]:Nur Asyiqin Mohamad Salleh. (2016, July 30). In search of the great Singapore novel. The Straits Times. Retrieved from *The Straits Times* website.
