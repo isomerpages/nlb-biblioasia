@@ -129,24 +129,24 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 [^13]:*[The Singapore Free Press and Mercantile Advertiser (1835–1869)](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500301-1.2.8.aspx), 1 Mar 1850, p. 1.
 [^14]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7; [Straits Times special feature: Towkay forced hand of govt. to build hospital.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx) (1961, December 7). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 [^15]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
-[^16]:The Straits Times, 7 Dec 1961, p. 9.
-[^17]:The Straits Times, 7 Dec 1961, p. 9; Buckley, C.B. (1902). An anecdotal history of old times in Singapore (Vol. II) (p. 408). Singapore: Fraser & Neave. Call no.: RRARE 959.57 BUC 
-[^18]:New Nation, 26 Sep 1974, p. 7
+[^16]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 7 Dec 1961, p. 9.
+[^17]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 7 Dec 1961, p. 9; Buckley, C.B. (1902). An anecdotal history of old times in Singapore (Vol. II) (p. 408). Singapore: Fraser & Neave. Call no.: RRARE 959.57 BUC 
+[^18]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
 [^19]:In 1830, the Straits Settlements – comprising Singapore, Malacca and Penang – was made a residency of the Presidency of Bengal under the governor-general of India based in Calcutta, India.
-[^20]:New Nation, 26 Sep 1974, p. 7
-[^21]:New Nation, 26 Sep 1974, p. 7
-[^22]:Buckley, 1902, Vol, II, p. 410.
-[^23]:The Straits Times, 5 May 1956, p. 9; Song, O, S. (1923). One hundred years’ history of the Chinese in Singapore (pp. 62–63). London: John Murray. Call no.: RCLOS 959.57 SON
-[^24]:The Singapore Free Press and Mercantile Advertiser (1835–1869), 1 Mar 1850, p. 1.
-[^25]:Untited. (1850, March 19). The Straits Times, p. 4. Retrieved from NewspaperSG.
-[^26]:Dhoraisingham & Samuel, 2003, pp. 52,79. 
-[^27]:Dhoraisingham & Samuel, 2003, pp. 55–59.
+[^20]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
+[^21]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
+[^22]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390), 1902, Vol, II, p. 410.
+[^23]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 5 May 1956, p. 9; Song, O, S. (1923). *[One hundred years’ history of the Chinese in Singapore (pp. 62–63)](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=4500922)*. London: John Murray. Call no.: RCLOS 959.57 SON
+[^24]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500301-1.2.8.aspx)* (1835–1869), 1 Mar 1850, p. 1.
+[^25]:[Untited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18500319-1.2.11.aspx). (1850, March 19). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^26]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 52,79. 
+[^27]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 55–59.
 [^28]:Singapore Hokkien Huay Kuan. (2015). History. Retrieved from Singapore Hokkien Huay Kuan website.
 [^29]:National Library Board. (2010). Thian Hock Keng written by Tan, Bonny. Retrieved from Singapore Infopedia.
-[^30]:Tiong Bahru Estate. (2007. August 28). Tan Kim Ching. Retrieved from Tiong Bahru Estate Blog.
-[^31]:Cheong, K. (2014, July 28). Tan Tock Seng’s descendants celebrate Tiong Bahru link. The Straits Times, p. B3. Retrieved from Tan Tock Seng Hospital website. 
-[^32]:Dhoraisingham & Samuel, 2003, p. 91; The Orchid Society of Southeast Asia. (2014). Our history. Retrieved from The Orchid Society of Southeast Asia website.
-[^33]:Ee, J.W.W. (2009, August 2). Tan Tock Seng clan’s grave undertaking. The Straits Times, p. 14. Retrieved from NewspaperSG. 
-[^34]:Loh, S. (1994, September 4). Following in the footsteps of a giant. *The Straits Times*. p. 9. Retrieved from NewspaperSG. 
+[^30]:Tiong Bahru Estate. (2007. August 28). [Tan Kim Ching](http://eresources.nlb.gov.sg/infopedia/articles/SIP_793_2005-01-10.html). Retrieved from Tiong Bahru Estate Blog.
+[^31]:Cheong, K. (2014, July 28). Tan Tock Seng’s descendants celebrate Tiong Bahru link. *The Straits Times*, p. B3. Retrieved from Tan Tock Seng Hospital website. 
+[^32]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 91; The Orchid Society of Southeast Asia. (2014). Our history. Retrieved from The Orchid Society of Southeast Asia website.
+[^33]:Ee, J.W.W. (2009, August 2). T[an Tock Seng clan’s grave undertaking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090802-1.2.10.12). *The Straits Times*, p. 14. Retrieved from NewspaperSG. 
+[^34]:Loh, S. (1994, September 4). [Following in the footsteps of a giant](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940904-1.2.83.5.9.aspx). *The Straits Times*. p. 9. Retrieved from NewspaperSG. 
 [^35]:Whang, R. (2016, May 24). HK tycoon buys Cuscaden bungalow for $145m. *The Straits Times*, p. 3. Retrieved from [Factiva](http://eresources.nlb.gov.sg/). 
 [^36]:Koh, J., & Whang, R. (2016, April 5). House of Tan Tock Seng’s kin could fetch $170m. *The Straits Times*, p. 4. Retrieved from [Factiva](http://eresources.nlb.gov.sg/).
