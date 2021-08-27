@@ -173,8 +173,8 @@ Another memorable character who existed on the periphery of polite society is Lu
 [^17]:Interview with Ong Swee Neo on 24 February 2016.
 [^18]:Interview with Johnny Chia on 19 February 2016.
 [^19]:Interview with Thomas Wong on 26 September 2016.
-[^20]:Ong, K.S. (1993). Introduction. In M. Chiang. (1994), Private parts and other play things: A collection of popular Singapore comedies (p. 8). Singapore: Landmark Books. Call no.: RSING S822 CHI
-[^21]:Lim, C.P. (2012). Mimi Fan. Singapore: Epigram. Call no.: RSING S822 LIM; Lim C.P. (2015). A white rose at midnight. Singapore: Epigram. Call no.: RSING S822 LIM
+[^20]:Ong, K.S. (1993). Introduction. In M. Chiang. (1994), [Private parts and other play things: A collection of popular Singapore comedies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200003851) (p. 8). Singapore: Landmark Books. Call no.: RSING S822 CHI
+[^21]:Lim, C.P. (2012). [Mimi Fan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14303467). Singapore: Epigram. Call no.: RSING S822 LIM; Lim C.P. (2015). [A white rose at midnight](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201316713). Singapore: Epigram. Call no.: RSING S822 LIM
 [^22]:Tan, C. (2014, June 24). Five reasons why the play Mimi Fan is a classic. *The Straits Times*. Retrieved from *The Straits Times* website.
 [^23]:Yeo, R. (1982, March 28). [Making us speak naturally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820328-1.2.110.19.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^24]:Lim, C.P. (1964, January 1). Is drama non-existent in Singapore? [Tumasek](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5053647), 1, 42–44. Call no.: RCLOS 805 T; Yeo, R. (1982, March 28). [Making us speak naturally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820328-1.2.110.19.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
