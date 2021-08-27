@@ -11,3 +11,6 @@ Who were the so-called “lancing” girls of yesteryear?[^1] They were the glam
 From the 1920s to 60s, the “Big Three” amusement parks grew in tandem with Singapore’s development, rising from humble wooden shacks and makeshift kiosks to sophisticated playgrounds offering restaurants, cinemas, cabarets, orchestras and carnival rides as well as entertainment such as Malay bangsawan, Chinese opera, boxing matches, circus acts and Western-style vaudeville shows. The parks were a huge part of people’s lives, and offered something for everyone in the family. In its heyday, some 50,000 people could easily throng an amusement park in a single night.[^2]
 
 By the late 1960s, however, as television and other forms of entertainment such as shopping malls, cinemas and bowling alleys became more widespread in Singapore, these amusement parks went out of business. The New World site at Jalan Besar is occupied today by City Square Mall, while the Great World site along Kim Seng Road was redeveloped into the sprawling Great World City shopping mall and residences. The Gay World site in Geylang has been zoned for residential projects and is presently unoccupied.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/glitz-and-glamour/1-beneath_glitz_glamour.png)
+<div style="background-color: white;"></div>
