@@ -114,39 +114,39 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 
 #### **Notes**
 
-Quek, F. (1989, January 28). Photo display to honour Singapore pioneers. The Straits Times, p.15. Retrieved from NewspaperSG.
-Graves of Tan Tock Seng, Chua Seah Neo & Wuing Neo. (2013). Our Heritage: Tiong Bahru, (pp.18–19). Retrieved from National Heritage Board website.
-Sivanathan, N. (2013, September/October). Lessons of a forefather. Lifewise, (47), p. 23. Retrieved from National Healthcare Group website. 
-National Library Board. (2008). Tan Tock Seng written by Tien, Jenny. Retrieved from Singapore Infopedia; Sivanathan, Sep/Oct 2013, p. 23. 
-National Library Board, 2008; Dhoraisingham, K.D., & Samuel, D.S. (2003). Tan Tock Seng: Pioneer: His life, times, contributions and legacy (p. 9). Kota Kinabalu: Natural History Publications (Borneo). Call no.: RSING 338.04092 KAM
-Turnbull, C.M. (1989). A history of Singapore, 1819–1988 (2nd ed) (p. 14). Singapore: Oxford University Press. Call no.: RSING 959.57 TUR-[HIS]
-Dhoraisingham & Samuel, 2003, p. 4.
-The Singapore Free Press. (1850, March 1). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 1. Retrieved from NewspaperSG.
-National Library Board, 2008; When lepers roamed the streets. (1956, May 5). The Straits Times, p. 9. Retrieved from NewspaperSG.
-National Library Board, 2008; Dhoraisingham & Samuel, 2003, p. 23.
-Dhoraisingham & Samuel, 2003, p. 23.
-National Library Board, 2008; Tan Tock Seng and the war on diseases. (1974, September 26). New Nation, p. 7. Retrieved from NewspaperSG. 
-The Singapore Free Press and Mercantile Advertiser (1835–1869), 1 Mar 1850, p. 1.
-New Nation, 26 Sep 1974, p. 7; Straits Times special feature: Towky forced hand of govt. to build hospital. (1961, December 7). The Straits Times, p. 9. Retrieved from NewspaperSG.
-New Nation, 26 Sep 1974, p. 7
-The Straits Times, 7 Dec 1961, p. 9.
-The Straits Times, 7 Dec 1961, p. 9; Buckley, C.B. (1902). An anecdotal history of old times in Singapore (Vol. II) (p. 408). Singapore: Fraser & Neave. Call no.: RRARE 959.57 BUC 
-New Nation, 26 Sep 1974, p. 7
-In 1830, the Straits Settlements – comprising Singapore, Malacca and Penang – was made a residency of the Presidency of Bengal under the governor-general of India based in Calcutta, India.
-New Nation, 26 Sep 1974, p. 7
-New Nation, 26 Sep 1974, p. 7
-Buckley, 1902, Vol, II, p. 410.
-The Straits Times, 5 May 1956, p. 9; Song, O, S. (1923). One hundred years’ history of the Chinese in Singapore (pp. 62–63). London: John Murray. Call no.: RCLOS 959.57 SON
-The Singapore Free Press and Mercantile Advertiser (1835–1869), 1 Mar 1850, p. 1.
-Untited. (1850, March 19). The Straits Times, p. 4. Retrieved from NewspaperSG.
-Dhoraisingham & Samuel, 2003, pp. 52,79. 
-Dhoraisingham & Samuel, 2003, pp. 55–59.
-Singapore Hokkien Huay Kuan. (2015). History. Retrieved from Singapore Hokkien Huay Kuan website.
-National Library Board. (2010). Thian Hock Keng written by Tan, Bonny. Retrieved from Singapore Infopedia.
-Tiong Bahru Estate. (2007. August 28). Tan Kim Ching. Retrieved from Tiong Bahru Estate Blog.
-Cheong, K. (2014, July 28). Tan Tock Seng’s descendants celebrate Tiong Bahru link. The Straits Times, p. B3. Retrieved from Tan Tock Seng Hospital website. 
-Dhoraisingham & Samuel, 2003, p. 91; The Orchid Society of Southeast Asia. (2014). Our history. Retrieved from The Orchid Society of Southeast Asia website.
-Ee, J.W.W. (2009, August 2). Tan Tock Seng clan’s grave undertaking. The Straits Times, p. 14. Retrieved from NewspaperSG. 
-Loh, S. (1994, September 4). Following in the footsteps of a giant. The Straits Times. p. 9. Retrieved from NewspaperSG. 
-Whang, R. (2016, May 24). HK tycoon buys Cuscaden bungalow for $145m. The Straits Times, p. 3. Retrieved from [Factiva](http://eresources.nlb.gov.sg/). 
-Koh, J., & Whang, R. (2016, April 5). House of Tan Tock Seng’s kin could fetch $170m. *The Straits Times*, p. 4. Retrieved from [Factiva](http://eresources.nlb.gov.sg/).
+[^1]:Quek, F. (1989, January 28). Photo display to honour Singapore pioneers. The Straits Times, p.15. Retrieved from NewspaperSG.
+[^2]:Graves of Tan Tock Seng, Chua Seah Neo & Wuing Neo. (2013). Our Heritage: Tiong Bahru, (pp.18–19). Retrieved from National Heritage Board website.
+[^3]:Sivanathan, N. (2013, September/October). Lessons of a forefather. Lifewise, (47), p. 23. Retrieved from National Healthcare Group website. 
+[^4]:National Library Board. (2008). Tan Tock Seng written by Tien, Jenny. Retrieved from Singapore Infopedia; Sivanathan, Sep/Oct 2013, p. 23. 
+[^5]:National Library Board, 2008; Dhoraisingham, K.D., & Samuel, D.S. (2003). Tan Tock Seng: Pioneer: His life, times, contributions and legacy (p. 9). Kota Kinabalu: Natural History Publications (Borneo). Call no.: RSING 338.04092 KAM
+[^6]:Turnbull, C.M. (1989). A history of Singapore, 1819–1988 (2nd ed) (p. 14). Singapore: Oxford University Press. Call no.: RSING 959.57 TUR-[HIS]
+[^7]:Dhoraisingham & Samuel, 2003, p. 4.
+[^8]:The Singapore Free Press. (1850, March 1). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 1. Retrieved from NewspaperSG.
+[^9]:National Library Board, 2008; When lepers roamed the streets. (1956, May 5). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^10]:National Library Board, 2008; Dhoraisingham & Samuel, 2003, p. 23.
+[^11]:Dhoraisingham & Samuel, 2003, p. 23.
+[^12]:National Library Board, 2008; Tan Tock Seng and the war on diseases. (1974, September 26). New Nation, p. 7. Retrieved from NewspaperSG. 
+[^13]:The Singapore Free Press and Mercantile Advertiser (1835–1869), 1 Mar 1850, p. 1.
+[^14]:New Nation, 26 Sep 1974, p. 7; Straits Times special feature: Towky forced hand of govt. to build hospital. (1961, December 7). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^15]:New Nation, 26 Sep 1974, p. 7
+[^16]:The Straits Times, 7 Dec 1961, p. 9.
+[^17]:The Straits Times, 7 Dec 1961, p. 9; Buckley, C.B. (1902). An anecdotal history of old times in Singapore (Vol. II) (p. 408). Singapore: Fraser & Neave. Call no.: RRARE 959.57 BUC 
+[^18]:New Nation, 26 Sep 1974, p. 7
+[^19]:In 1830, the Straits Settlements – comprising Singapore, Malacca and Penang – was made a residency of the Presidency of Bengal under the governor-general of India based in Calcutta, India.
+[^20]:New Nation, 26 Sep 1974, p. 7
+[^21]:New Nation, 26 Sep 1974, p. 7
+[^22]:Buckley, 1902, Vol, II, p. 410.
+[^23]:The Straits Times, 5 May 1956, p. 9; Song, O, S. (1923). One hundred years’ history of the Chinese in Singapore (pp. 62–63). London: John Murray. Call no.: RCLOS 959.57 SON
+[^24]:The Singapore Free Press and Mercantile Advertiser (1835–1869), 1 Mar 1850, p. 1.
+[^25]:Untited. (1850, March 19). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^26]:Dhoraisingham & Samuel, 2003, pp. 52,79. 
+[^27]:Dhoraisingham & Samuel, 2003, pp. 55–59.
+[^28]:Singapore Hokkien Huay Kuan. (2015). History. Retrieved from Singapore Hokkien Huay Kuan website.
+[^29]:National Library Board. (2010). Thian Hock Keng written by Tan, Bonny. Retrieved from Singapore Infopedia.
+[^30]:Tiong Bahru Estate. (2007. August 28). Tan Kim Ching. Retrieved from Tiong Bahru Estate Blog.
+[^31]:Cheong, K. (2014, July 28). Tan Tock Seng’s descendants celebrate Tiong Bahru link. The Straits Times, p. B3. Retrieved from Tan Tock Seng Hospital website. 
+[^32]:Dhoraisingham & Samuel, 2003, p. 91; The Orchid Society of Southeast Asia. (2014). Our history. Retrieved from The Orchid Society of Southeast Asia website.
+[^33]:Ee, J.W.W. (2009, August 2). Tan Tock Seng clan’s grave undertaking. The Straits Times, p. 14. Retrieved from NewspaperSG. 
+[^34]:Loh, S. (1994, September 4). Following in the footsteps of a giant. *The Straits Times*. p. 9. Retrieved from NewspaperSG. 
+[^35]:Whang, R. (2016, May 24). HK tycoon buys Cuscaden bungalow for $145m. *The Straits Times*, p. 3. Retrieved from [Factiva](http://eresources.nlb.gov.sg/). 
+[^36]:Koh, J., & Whang, R. (2016, April 5). House of Tan Tock Seng’s kin could fetch $170m. *The Straits Times*, p. 4. Retrieved from [Factiva](http://eresources.nlb.gov.sg/).
