@@ -15,7 +15,7 @@ Munshi Abdullah, with the assistance of a young Eurasian called Michael, printed
 
 Likely working alongside these men that same night was the Danish missionary, Reverend Claudius Henry Thomsen, who is credited with bringing Singapore’s first press with him when he arrived in the settlement on 19 May 1822. Besides printing Singapore’s earliest known English works, Thomsen would forge the path as a pioneer printer of Malay and Bugis translated works in the Malay Peninsula, long before better known missionary printers of publications in Malay, such as William G. Shellabear and Reverend Benjamin Keasberry, arrived on the scene.
 
-#### Preparations for the East
+#### **Preparations for the East**
 
 Thomsen was originally from Holstein, Lower Saxony,[^3] and trained at the Gosport Seminary in England in 1811 where he mastered the study of classical languages and subjects such as geography and astronomy. Knowing that he was going to be posted to the newly established mission station in Malacca, Thomsen began learning Malay[^4] and Dutch, with the expectation that Malacca would revert to Dutch rule in time to come.[^5]
 
