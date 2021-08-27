@@ -137,7 +137,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
-|* **A Code of Bugis Maritime Laws** (1832) [Call no.: RRARE 343.5984096 COD; Microfilm no.: NL 6400]|
+|**A Code of Bugis Maritime Laws** (1832) [Call no.: RRARE 343.5984096 COD; Microfilm no.: NL 6400]|
 
 |The National Library, Singapore, has a copy of this publication edited by Thomsen and published in 1832. It contains the Bugis maritime laws in the Bugis script with English translations as well as an appendix of vocabulary terms. Although Thomsen’s translation was criticised as not being accurate, the publication was well received as far away as Bengal and was subsequently translated and published in French in 1845, German in 1854 and Dutch in 1856.[^45]|
 
