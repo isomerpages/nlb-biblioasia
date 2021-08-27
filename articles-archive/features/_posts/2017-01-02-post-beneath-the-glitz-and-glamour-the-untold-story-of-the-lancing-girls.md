@@ -119,3 +119,31 @@ The cabaret inspiration for the musical was replete with music and lyrics remini
 The cabaret of yesteryear Singapore is indeed a celebration of our unique history and identity. The cabaret was a product of its time, and its indelible “Singaporeanness” was evident from the lives of the women whom I was able to research and interview. All of my interviewees spoke of the past with a certain whimsical longing; even the former cabaret women whose lives had been scarred by pain and struggle had shared their bittersweet stories with quiet pride.
 
 When asked if there was anything in their past they wished they had done differently, all the replies were negative. If these “lancing” girls had a chance to relive their lives all over again, they wouldn’t change a thing. In spite of the underlying exploitation of women’s bodies and the seamier side of cabaret life, theirs were inspiring stories of faith, hope and, as we now know, charity.
+
+|Where Fiction Mirrors Life (By Michelle Heng)|
+
+|Singapore’s quest towards modernity in the aftermath of World War II (1942–45) and its nation-building years was underpinned by a quick succession of steel-and-glass skyscrapers and fancy shopping malls. But scratch beneath the surface and a very different side of Singapore emerges − reflected in the lives and loves of several characters from fiction who struggled to make a living in the city’s seamier entertainment spots. A selection of significant works in the National Library’s collection tell an interesting tale of life in a bygone era.|
+
+|Penned by the late Lim Chor Pee (1936–2006), the plays Mimi Fan (1962) and A White Rose at Midnight (1964) centre on highly-educated male protagonists entangled in relationships with nightclub ladies.21 Set against the backdrop of a modernising Singapore, the plays explore an emerging Singaporean identity during the heady era of socio-political changes in the 1960s.|
+
+|First staged in 1962 at the Cultural Centre (later renamed Drama Centre), Mimi Fan, in particular, broke new ground as it was uncommon then for non-expatriate-produced plays to be staged in Singapore 22 Lim wanted his play to be as realistic as possible with colloquialisms that Singaporeans could identify with.23 He highlighted the significance of breaking away from the mould of “Western drawing-room drama” in a 1964 article for Tumasek journal, declaring that, “…A national theatre cannot hope to survive if it keeps on staging foreign plays.”24|
+
+|The eponymous protagonist from Mimi Fan, a free-spirited and independent teenage bar girl, eventually leaves her lover, Chan Fei-Loong, an overseas English-educated Singaporean who has returned home to work, at a time when most women were expected to find value and meaning through their roles as wives and mothers.
+Another memorable character who existed on the periphery of polite society is Lucy, the Singaporean bar girl who has an affair with the protagonist Kwang Meng in the late pioneer writer Goh Poh Seng’s novel If We Dream Too Long (1972).25|
+
+|Writer and literary critic Kirpal Singh notes that Singapore’s first post-independence English novel26 was written “around the time Singapore was starting to get − and assert − a sense of itself as a nation” and projected an unnerving anxiety especially as “… Merger with Malaysia had come and gone and left in its wake a stark reality which many were trying to analyse, understand and even project.”27 Amidst this gnawing unease, the struggling protagonist found some degree of solace, albeit shortlived, in the arms of his paramour, Lucy, who earns a living entertaining men at Paradise Bar.|
+
+|But like the proverbial fallen woman with a heart-of-gold, Lucy chooses to leave Kwang Meng despite a keen affection for him as she fears the judgment of a less-than-forgiving society. In a poignant scene where Lucy rebuffs Kwang Meng’s offer of marriage, she echoes the social mores of a largely conservative society when she exclaims “…I know you men. You will never forget about my past. You say you can, but I know that you can never forget. You will always blame me. Deep, deep inside.”|
+
+|These seminal works − Lim’s two plays are widely seen as the first conscious attempts to create a Singaporean theatre in English, and Goh’s debut novel was also a first in post-independence Singapore – reflect the plight of working class women who were plying their trade in shady nightspots. Were these women a collective reflection of the “quietly desperate” lives plagued by restless anxiety and uncertainty in a nation that was at the time treading a rocky path to true independence?|
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/glitz-and-glamour/8-beneath_glitz_glamour.png)
+<div style="background-color: white;">Mimi Fan, a seductive quest for love, escapism and courage, was a trail-blazer in 1960s Singapore at a time when Western “drawing room dramas” took precedence over homegrown productions. Pictured here are Chan Fei-Loong, played by Lim Teong Quee, and Mimi Fan, played by then second year law student Annie Chin. <i>All rights reserved, Lim, C.P. (2012). Mimi Fan. Singapore: Epigram.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/glitz-and-glamour/blank-author.png">
+	<b>Michelle Heng </b> is a Literary Arts Librarian at the National Library, Singapore. She is a regular contributor to BiblioAsia and has edited publications including Edwin Thumboo – Time-travelling: A Selected Annotated Bibliography (2012) and Selected Poems of Goh Poh Seng (2013).
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
