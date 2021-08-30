@@ -235,11 +235,9 @@ By the time she died, Pfeiffer had become one of the most famous women in the wo
 |John van Wyhe’s Wanderlust: <i>The Amazing Ida Pfeiffer, the First Female Tourist (2019)</i> retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 910.41 VAN and SING 910.41 VAN). The 1888 French edition of Ida Pfeiffer’s second book, Voyage autour du monde de Mme. Ida Pfeiffer (Voyage Around the World by Mme. Ida Pfeiffer), translated by E. Delauney can be viewed at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
 
 |The 1888 French edition of Ida Pfeiffer’s second book, <i>Voyage autour du monde de Mme. Ida Pfeiffer</i> (<i>Voyage Around the World by Mme. Ida Pfeiffer</i>), translated by E. Delauney can be viewed at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
-
-<div style="background-color: white;">
 <br>
+<div style="background-color: white;">
 <img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t13.jpg" style="width: 100px; height: 100px;"><br>
-
 <b>Dr John van Wyhe</b> 
 is a historian of science who has written extensively about Charles Darwin and Alfred Russel Wallace. He is the author of Wanderlust: The Amazing Ida Pfeiffer, the First Female Tourist (2019)
 </div>
