@@ -179,7 +179,7 @@ Pfeiffer’s next and last journey in 1856 was to a land almost completely unkno
 
 When Pfeiffer arrived in Madagascar, she became inadvertently involved in an attempted coup against the queen by a French businessman, and she and the conspirators were banished from the island.
 
-<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t10.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t10.JPG">
 <div style="background-color: white;">Ida Pfeiffer playing the piano at the royal court in Madagascar. <i>Image reproduced from Anon. (1880, December 5). Mme Ida Pfeiffer. Journal des voyages et des aventures de terre et de mer, no. 178.</i></div>
 
 Tragically, on her way to the coast under armed guard, Pfeiffer contracted the infamous “*Madagascar fever*”. The queen had ordered them to be taken on a long and circuitous route through swampy terrain, rather than the direct eight-day walk back to the port. Fortunately, Pfeiffer eventually made it safely to Mauritius to convalesce.
