@@ -84,7 +84,7 @@ Fortunately for us, the cartoons by the Dobbelaere studio have been preserved in
 <div style="background-color: white;">(Right) Cartoon depicting St Anthony with the Infant Jesus – one of the windows on the apse-side of St Joseph’s Church where the sanctuary is located – designed by the studio of Jules Dobbelaere. <i>Courtesy of KADOC – KU Leuven.
 	</i></div>
 	
-The five-sided apse (see text box below for an explanation of these architectural terms) of St Joseph’s Church on Victoria Street has beautiful ornamental and figurative stained glass windows, while two female saints are depicted in the transept windows. An article in the Singapore Free Press and Mercantile Advertiser in 1912 mentions that “the picture glass is by J. Dobbelaere of Bruges” but does not provide further details.[^5]
+The five-sided apse (see text box below for an explanation of these architectural terms) of St Joseph’s Church on Victoria Street has beautiful ornamental and figurative stained glass windows, while two female saints are depicted in the transept windows. An article in the *Singapore Free Press and Mercantile Advertiser* in 1912 mentions that “the picture glass is by J. Dobbelaere of Bruges” but does not provide further details.[^5]
 
 With the exception of the “Sacr. Cor. Jesus” (Sacred Heart of Jesus) window in the centre of the apse, signed “J. Dobbelaere, Bruges, Belgium 1912”, none of the other figurative apsidal windows bear the studio’s signature. The other windows depicting “S. John Berchmans” (St John Berchmans), “S. Franc. Xav.” (St Francis Xavier), “Sta Maria” (St Mary), “Ste Joseph” (St Joseph), “S. Antoni” (St Anthony) and “Sancta Agnes” (St Agnes) are all unsigned.
 
