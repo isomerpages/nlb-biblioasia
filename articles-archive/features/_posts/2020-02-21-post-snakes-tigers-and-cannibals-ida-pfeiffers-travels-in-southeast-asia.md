@@ -6,7 +6,7 @@ layout: post
 ---
 #### Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. John van Wyhe recounts the adventures of this remarkable woman.
 
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t1.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t1.JPG">
 <div style="background-color: white;">Ida Pfeiffer encounters a green snake while paddling up the Kallang River on her first visit to Singapore. <i>Image reproduced from Pfeiffer, I. (1852). Reis eener vrouw rondom de wereld (Frontispiece). Gorinchem: Noorduyn.</i></div>
 
 The name Ida Pfeiffer (1797–1858) is largely unknown today, but in the mid-19th century, she was one of the most famous women in the world. Starting in her mid-40s, this Viennese mother of two embarked on five major expeditions, two of which involved circumnavigating the globe. She accomplished all this while travelling as an unchaperoned woman, a notion that was almost unheard of in those days.
@@ -35,7 +35,7 @@ In 1846, Pfeiffer boarded a sailing ship to Brazil. During a forest excursion, s
 
 The 10-day trip was not a happy one. She wrote: “I have made many voyages on board steam ships and always paid second fare, never did I pay so high a price for such wretched and detestable treatment. In all my life I was never so cheated.”[^1]
 
-<img style="width: 200px; height: 250px;"
+<img style="width: 300px; height: 400px;"
 src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t3.JPG">
 <div style="background-color: white;">Ida Pfeiffer dressed in her travel costume with an insect net in her hand and a specimen bag across her shoulder. Lithograph by Adolf Dauthage. <i>Courtesy of John van Wyhe</i></div>
 
@@ -49,7 +49,7 @@ Apart from the incessant heat and inescapable humidity, Pfeiffer found life very
 
 “… the whole island offers the most enchanting sight… the luxuriant verdancy, the neat houses of the Europeans in the midst of beautiful gardens, the plantations of the most precious spices, the elegant areca and feathered palms, with their slim stems shooting up to a height of a hundred feet, and spreading out into the thick feather-like tuft of fresh green, by which they are distinguished from every other kind of palms, and, lastly, the jungle in the background, compose a most beautiful landscape… The whole island is intersected with excellent roads, of which those skirting the sea-shore are the most frequented, and where handsome carriages and horses from New Holland, and even from England, are to be seen.”[^4]
 
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t4.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t4.JPG">
 <div style="background-color: white;">This is a scene that Ida Pfeiffer would have come across when she visited Singapore in the mid-19th century. It shows a gharry (an enclosed carriage drawn by horses) led by four Indian syces with torches hurrying home at dusk in the countryside. Lithograph by Barthélemy Lauvergne, Jean-Louis Tirpenne and Adolphe Jean-Baptiste Bayot, 1837. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 #### **Paddling up the Kallang River**
@@ -86,7 +86,7 @@ After a month in Singapore, Pfeiffer was ready to press on. Her next destination
 
 Pfeiffer travelled to Calcutta and then made her way, again alone, across northern India, where among other things, she rode an elephant during a tiger hunt.
 
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t5.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t5.JPG">
 <div style="background-color: white;">Ida Pfeiffer on a tiger hunt in India. <i>Image reproduced from Pfeiffer, I. (1885). Voyage autour du monde de Mme Ida Pfeiffer. Translated from the English by E. Delauney. Rouen.</i></div>
 
 After India, she headed to the Persian Gulf and reached Baghdad. Then, again against all good sense and advice, Pfeiffer joined a Kurdish camel caravan and crossed the vast dessert to Mosul and then to Russia. Along the way, she was kidnapped by a Cossack and kept imprisoned overnight until her travel papers could be checked. She finally reached Vienna, via Greece and Italy, in October 1848.
@@ -123,7 +123,7 @@ Unfortunately, Pfeiffer had not brought enough alcohol to preserve the many spec
 
 She was, however, more successful in drying seaweed and preserving fish, the latter earning her a handsome £25 from the British Museum, according to the naturalist Alfred Wallace. He later wrote to Samuel Stevens, their shared London agent, from Singapore saying that he, too, procured fish in the market but wondered, “How did Madame Pfeiffer preserve hers?”[^19]
 
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t6.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t6.JPG">
 <div style="background-color: white;">The blue-tailed bee-eater is a common sight in Singapore. This painting of the bee-eater in a candlenut tree is one of 477 watercolours in the William Farquhar Collection of Natural History Drawings at the National Museum of Singapore. Gift of Mr G. K. Goh. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 #### **Pulau Ubin**
@@ -134,14 +134,14 @@ During her time in Singapore, Pfeiffer also visited Pulau Ubin, which she descri
 
 Pfeiffer also noted that “a magnificent lighthouse had been built” from the granite quarries of Ubin.[^21] This was the Horsburgh Lighthouse on Pedra Branca.
 
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t7.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t7.JPG">
 <div style="background-color: white;">Ida Pfeiffer crossing Dayak bamboo bridge in Sarawak with a butterfly net in hand. <i>Image reproduced from Pfeiffer, I. (1856). Meine zweite Weltreise (vol. II). Vienna: Gerold.</i></div>
 
 #### **Living with Head-hunters**
 
 On 2 December 1851, Pfeiffer departed for Sarawak. Her hosts, the representatives of the absent James Brooke, the “White Rajah” of Sarawak,[^22] secretly thought this middle-aged lady traveller was rather ridiculous. When Wallace later visited Sarawak in 1854, he was told that she resembled the fictitious Mrs Harris in the satirical magazine *Punch*. This was not a very flattering image as Mrs Harris was an ageing, opinionated, gossipy, bossy and clearly ridiculous busybody.
 
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t8.JPG">
+<img style="width: 250px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t8.JPG">
 <div style="background-color: white;">A Dayak head. <i>Image reproduced from Marryat, F.S. (1848). Borneo and the Indian Archipelago: With drawings of costume and scenery. London: Longman, Brown, Green, and Longmans.</i></div>
 
 While in Sarawak, Pfeiffer travelled through the territory of the Dayak head-hunters, an unprecedented journey for a European. She stayed in a succession of Dayak longhouses, sometimes with freshly decapitated human heads drying over a fire near where she slept. Of one encounter with these heads, she wrote:
@@ -160,7 +160,7 @@ Pfeiffer later made her way through Sumatra where she almost came to an untimely
 
 She pushed on into Batak territory, venturing further than any European had ever reached, each day negotiating permission to enter the territory of the next village.
 
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t9.JPG">
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t9.JPG">
 <div style="background-color: white;">Ida Pfeiffer calms the Batak in Sumatra in one encounter. <i>Image reproduced from Stökl, H. (1920). Die Weltfahrten der österreichischen Reisenden Ida Pfeiffer. Erzählt von Helene Stökl. Mit einem Bildnis der Weltreisenden und Bildern von Fritz Gareis. Vienna: Österr. Schulbücherverlag</i></div>
 
 Eventually, Pfeiffer’s presence could no longer be tolerated. One day, she was encircled by 80 armed men, shouting and gesticulating violently. Despite the fact that she could not understand a word of their language, there was no mistaking that they meant business. “They pointed with their knives to my throat, and gnashed their teeth at my arm, moving their jaws then, as if they already had them full of my flesh.”[^26]
@@ -179,7 +179,7 @@ Pfeiffer’s next and last journey in 1856 was to a land almost completely unkno
 
 When Pfeiffer arrived in Madagascar, she became inadvertently involved in an attempted coup against the queen by a French businessman, and she and the conspirators were banished from the island.
 
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t10.JPG">
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t10.JPG">
 <div style="background-color: white;">Ida Pfeiffer playing the piano at the royal court in Madagascar. <i>Image reproduced from Anon. (1880, December 5). Mme Ida Pfeiffer. Journal des voyages et des aventures de terre et de mer, no. 178.</i></div>
 
 Tragically, on her way to the coast under armed guard, Pfeiffer contracted the infamous “*Madagascar fever*”. The queen had ordered them to be taken on a long and circuitous route through swampy terrain, rather than the direct eight-day walk back to the port. Fortunately, Pfeiffer eventually made it safely to Mauritius to convalesce.
@@ -190,11 +190,11 @@ Emaciated and weak, she finally reached Vienna in mid-September 1858. A few week
 
 By the time she died, Pfeiffer had become one of the most famous women in the world. She had seen more of the world than any other woman before her. But wanderlust at last had killed her.
 
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t11.JPG">
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t11.JPG">
 <div style="background-color: white;">The Diademed sifaka (Propithecus diadema) discovered by Ida Pfeiffer in Madagascar. <i>Image reproduced from Grandidier A. (1875). Histoire physique, naturelle et politique de Madagascar (vol. 9, part 4, atlas). Paris: Nationale. Schulbücherverlag.</i></div>
 
 |**THE WRITING OF WANDERLUST**
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t12.JPG">John van Wyhe at Lake Toba, following in Ida Pfeiffer’s footsteps.
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t12.JPG">John van Wyhe at Lake Toba, following in Ida Pfeiffer’s footsteps.
 
 |<i>John van Wyhe</i> talks about the research process behind his book on Ida Pfeiffer and his assessment of her as a traveller and collector.
 
