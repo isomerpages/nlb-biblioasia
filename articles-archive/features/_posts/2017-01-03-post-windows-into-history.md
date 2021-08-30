@@ -79,5 +79,7 @@ Fortunately for us, the cartoons by the Dobbelaere studio have been preserved in
 
 #### **ST JOSEPH'S CHURCH**
 
-<div style="background-color: white;">
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/1-windows_into_history.jpg)</div>
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/1-windows_into_history.jpg)
+<div style="background-color: white;">(Left) An exterior view of St Joseph’s Church at Victoria Street, c.1912. The church was originally built by the Portuguese Mission in 1853 to serve the Portuguese and Eurasian Catholics in Singapore. Then in 1912, it  as reconstructed in the neo-Gothic style and reopened. <i>Courtesy of National Archives of Singapore.	</i></div>
+<div style="background-color: white;">(Right) Cartoon depicting St Anthony with the Infant Jesus – one of the windows on the apse-side of St Joseph’s Church where the sanctuary is located – designed by the studio of Jules Dobbelaere. <i>Courtesy of KADOC – KU Leuven.
+	</i></div>
