@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/scriptandstage/script-stages.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/01_script-stages.jpg">
 The “Script &amp; Stage: Theatre in Singapore from the 50s to 80s” exhibition held at the National Library Building in 2017.
 </div>
 
