@@ -11,7 +11,7 @@ layout: post
 
 In December 1941, just as I turned 14, World War II descended on us in Singapore. Our family was then living in a shophouse on peaceful Emerald Hill, which suddenly became no longer peaceful, indeed more like a battlezone. Our neighbourhood was close to Monk’s Hill, an anti-aircraft artillery site and therefore a target of enemy air attack. The din of that aerial bombardment so near was nerve-racking. We packed a few bags and fled off to Granduncle’s house, a relatively safe storehouse-cum-residence in Philip Street in the centre of town.
 
-Then, on 16th February 1942[^1] (Chinese  New Year’s Day of that year!), to our shock and dismay, the British capitulated and the Japanese army marched in.
+Then, on 16 February 1942[^1] (Chinese  New Year’s Day of that year!), to our shock and dismay, the British capitulated and the Japanese army marched in.
 
 On 17th February, our new masters issued their first public order in Singapore,  now called Syonanto: all male Chinese adults were to report the very next day at designated camps – under threat of “severe punishment”, a phrase quickly to become familiar. Most of us presumed then it was only for some kind of registration of people.
 
