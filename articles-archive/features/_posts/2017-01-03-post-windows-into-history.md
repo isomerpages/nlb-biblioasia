@@ -121,9 +121,9 @@ Comparing these cartoons with the chapel windows provides some insights.
 
 In the apse, all five extant lancet windows are based on themes outlined in the Dobbelaere cartoons of these windows.
 
-Three of the five apsidal windows are direct adaptations of the Dobbelaere cartoons: The Nativity of Jesus (1C) “Presented by The Pupils of the Convent”; The Presentation of Infant Jesus (1D) “Presented by Benefactors of Manila”; and Jesus’s Sermon at the Temple (1E) “Presented by A.G. Pertille”. None of these windows is signed or dated, but the cartoons confirm that Jules Dobbelaere is their creator.
+Three of the five apsidal windows are direct adaptations of the Dobbelaere cartoons: *The Nativity of Jesus* (1C) “Presented by The Pupils of the Convent”; *The Presentation of Infant Jesus* (1D) “Presented by Benefactors of Manila”; and *Jesus’s Sermon at the Temple* (1E) “Presented by A.G. Pertille”. None of these windows is signed or dated, but the cartoons confirm that Jules Dobbelaere is their creator.
 
-The other two apsidal stained glass windows located to the left of the apse when facing it – The Annunciation (1A) and The Visitation (1B) – are signed “Vitrail St Georges, 1994, Lyon, France”. Although these two windows bear the signature of another studio and a more recent date, it is obvious that the theme and composition are based on the original cartoons by Dobbelaere. The only difference is in the donor panels. These now read as “Presented by a Benefactor”, whereas the cartoons bear the inscriptions “Presented by P.S.R. Pasoual” and “Presented by the Ossorio Family” respectively.
+The other two apsidal stained glass windows located to the left of the apse when facing it – *The Annunciation* (1A) and *The Visitation* (1B) – are signed “Vitrail St Georges, 1994, Lyon, France”. Although these two windows bear the signature of another studio and a more recent date, it is obvious that the theme and composition are based on the original cartoons by Dobbelaere. The only difference is in the donor panels. These now read as “Presented by a Benefactor”, whereas the cartoons bear the inscriptions “Presented by P.S.R. Pasoual” and “Presented by the Ossorio Family” respectively.
 
 #### **GLASS IN THE TWO PRIVATE CHAPELS**
 
@@ -137,17 +137,17 @@ All three windows now read “Presented by a Benefactor”, while the cartoons c
 
 The Dobbelaere signature is absent in this stained glass triptych. Instead, both the St Cecilia and St Clothilde windows are signed “Vitrail St Georges, 1994, Lyon, France”. The St Mary window is unsigned.
 
-In the private chapel to the right of the apse, the triptych window is a faithful realisation of the Dobbelaere cartoons without revisions: “S. Ludovicus” (St Louis, 3A) “Presented by A. De Souza”; The Death of St Joseph (3B) “Presented by E. De Souza”; and “S. Carolus Bor.” (St Charles Borromeo, 3C) “Presented by O.K.”. The latter bears the signature “J. Dobbelaere, Bruges, Belgium”. The cartoons allow us to confidently attribute these windows to the Dobbelaere studio.
+In the private chapel to the right of the apse, the triptych window is a faithful realisation of the Dobbelaere cartoons without revisions: “S. Ludovicus” (St Louis, 3A) “Presented by A. De Souza”; *The Death of St Joseph* (3B) “Presented by E. De Souza”; and “S. Carolus Bor.” (St Charles Borromeo, 3C) “Presented by O.K.”. The latter bears the signature “J. Dobbelaere, Bruges, Belgium”. The cartoons allow us to confidently attribute these windows to the Dobbelaere studio.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png)
 <div style="background-color: white;">Triptych windows found in the side chapels at the Convent of the Holy Infant Jesus. From left to right: St Cecilia, St Mary and St Clothilde (left chapel); and St Louis, The Death of Saint Joseph, and St Charles Borromeo (right chapel). <i>Courtesy of Swati Chandgadkar.</i></div>
 
 #### **GLASS IN THE CLERESTORIES**
-The cartoons for the two stained glass windows situated above the chancel at clerestory level shows two lancets: one depicting The Flight into Egypt, and the other The Visit of the Magi.
+The cartoons for the two stained glass windows situated above the chancel at clerestory level shows two lancets: one depicting *The Flight into Egypt*, and the other *The Visit of the Magi*.
 
-Each window, however, comprises a pair of lancet panels crowned by a roundel and three small insets to form a tracery. The cartoon’s themes remain, but the theme of each window is now spread over two lancet panels. The Visit of the Magi  (4A) is on the left of the apse, and The Flight into Egypt (4B) on the right. This change may have been the result of revisions to the architectural design of the chapel, with the windows redesigned to adapt to the modified openings.
+Each window, however, comprises a pair of lancet panels crowned by a roundel and three small insets to form a tracery. The cartoon’s themes remain, but the theme of each window is now spread over two lancet panels. *The Visit of the Magi*  (4A) is on the left of the apse, and *The Flight into Egypt* (4B) on the right. This change may have been the result of revisions to the architectural design of the chapel, with the windows redesigned to adapt to the modified openings.
 
-While neither cartoon indicates a donor’s name, The Visit of the Magi window now reads “Presented by a Benefactor”, while The Flight into Egypt is inscribed “Presented by Cheoug Quee Tiam”.[^8]
+While neither cartoon indicates a donor’s name, *The Visit of the Magi window* now reads “Presented by a Benefactor”, while *The Flight into Egypt* is inscribed “Presented by Cheoug Quee Tiam”.[^8]
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/5-windows_into_history.jpg)
 <div style="background-color: white;">The clerestory at the chapel of the Convent of the Holy Infant Jesus: The Flight into Egypt (left) and The Visit of the Magi (right). The original cartoons by Dobbelaere depict each of these scenes in a single lancet composition. The windows on site, however, are executed as a pair of lancets, with a
@@ -155,7 +155,7 @@ small roundel and three small glass insets forming a tracery. <i>Photograph cour
 
 #### **GLASS IN THE GALLERY**
 
-Two sets of stained glass windows, each composed of a pair of lancet panels crowned by a roundel and three small insets to form a tracery, flank the circular window in the gallery. They are based on Dobbelaere’s cartoons, and have been reproduced faithfully without revisions. The window on the left is The Ascension (5B), with The Dove as Holy Spirit represented in the roundel. The lancets are inscribed “Presented by a Benefactor”. The window on the right is The Holy Family (5A), with Our Lord in Glory represented in the roundel. These lancets read “Presented by L. Scheerder”. The Ascension window is one of just two windows in the chapel that bears the signature “J. Dobbelaere, Bruges, Belgium”.
+Two sets of stained glass windows, each composed of a pair of lancet panels crowned by a roundel and three small insets to form a tracery, flank the circular window in the gallery. They are based on Dobbelaere’s cartoons, and have been reproduced faithfully without revisions. The window on the left is *The Ascension* (5B), with The Dove as Holy Spirit represented in the roundel. The lancets are inscribed “Presented by a Benefactor”. The window on the right is The Holy Family (5A), with Our Lord in Glory represented in the roundel. These lancets read “Presented by L. Scheerder”. The *Ascension* window is one of just two windows in the chapel that bears the signature “J. Dobbelaere, Bruges, Belgium”.
 
 St Anthony is the subject of the quatrefoil on the left side of the gallery. The window is a perfect rendition of the original drawing in glass, faithfully following a beautifully coloured cartoon by Dobbelaere. The panel includes the name of the donors “Presented by Mr Nash Family”. Interestingly, this quatrefoil was catalogued in the archives as a window for the Cathedral of the Good Shepherd. This is likely to be a cataloguing error, we think, as the cartoon is undoubtedly for a window at the convent chapel.
 
@@ -173,9 +173,9 @@ As noted earlier, there are a number of discrepancies between the cartoons and t
 
 #### **CATHEDRAL OF THE GOOD SHEPHERD**
 
-The Cathedral of the Good Shepherd has 14 stained glass fanlight windows or “lunettes” along the aisles and two figurative windows at the transepts. The fanlights are of two design typologies, while the figurative windows depict the Madonna and Child and St Joseph. All 16 windows are unsigned, with neither studio signature, date nor donor names inscribed on the panels.
+The Cathedral of the Good Shepherd has 14 stained glass fanlight windows or “lunettes” along the aisles and two figurative windows at the transepts. The fanlights are of two design typologies, while the figurative windows depict the *Madonna and Child and St Joseph*. All 16 windows are unsigned, with neither studio signature, date nor donor names inscribed on the panels.
 
-There are few written references to the cathedral’s stained glass windows. One mention is found in a 1904 Straits Times article: “The Committee records with gratification, the beautiful gift of a set of stained glass for the Church windows by Bishop Bourdon.”[^11] The windows are not described further, making it difficult to ascertain if the bishop’s gift comprised solely of the fanlights, or if the gift included the two figurative windows too.
+There are few written references to the cathedral’s stained glass windows. One mention is found in a 1904 *Straits Times* article: “The Committee records with gratification, the beautiful gift of a set of stained glass for the Church windows by Bishop Bourdon.”[^11] The windows are not described further, making it difficult to ascertain if the bishop’s gift comprised solely of the fanlights, or if the gift included the two figurative windows too.
 
 In the Leuven archives, we found Dobbelaere cartoons for the two different fanlight designs. One of the cartoons is a colour reference for the two designs. Comparing these cartoons with the fanlights in place today, there is little doubt that these windows were made by the Dobbelaere studio. The foliated design, composition, colour scheme and other painting elements seen in the stained glass windows are an exact reproduction of the cartoons.
 
