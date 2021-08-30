@@ -234,3 +234,37 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 ||A lancet window (above left image) is a tall, narrow window with a pointed arch at its top. Such windows are typical of Gothic and neo-Gothic architecture.|
 
 A triptych is typically a work of art that is divided into three sections. A triptych window (above right image) likewise has a set of three window panels.|
+
+|*Readers who are interested in reading more about church architecture may refer to How to Read Churches: A Crash Course in Ecclesiastical Architecture* by Denis Robert McNamara available at the library@orchard.15|
+
+The authors would like to acknowledge Wee Sheau Theng, Carolyn Lim, Soon-Tzu Speechley and Martina Yeo for their invaluable help in the course of this research.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/windows-into-history/SWATI.png">
+	<b>Swati Chandgadkar </b> is a stained glass conservator from Mumbai, India. She currently resides in Singapore.
+</div>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/windows-into-history/Yeo-Kang-Shua.png">
+	<b>Dr Yeo Kang Shua</b>  is an Assistant Professor at the Singapore University of Technology and Design, and holds the inaugural Hokkien Foundation Career Professorship in Architectural Conservation.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
+
+Buckley, C.B. (1902). An anecdotal history of old times in Singapore: (With portraits and illustrations) from the foundation of the settlement under the Honourable the East India Company, on February 6th, 1819, to the transfer of the Colonial Office as part of the colonial possessions of the Crown on April 1st, 1867 (Vol. I, pp. 82–83). Singapore: Fraser & Neave Limited. Call no.: RRARE 959.57 BUC; Microfilm no.: NL 269
+National Library Board. (2010) Former St Joseph’s Institution (Singapore Art Museum) written by Tan, Bonny. Retrieved from Singapore Infopedia.
+Vitrail Center. (n.d.). Présentation de l’atelier de Lyon et de son savoire faire. Retrieved from Vitrail Center website; l’Institut Supérieur des Métiers. (2009–2016). Vitrail Saint-Georges. Retrieved from Enterprise du Patrimoine Vivant website.
+Pilon, M., & Weiler, D. (2011). The French in  Singapore: An illustrated history (1819-Today) (pp. 195–196). Singapore: Editions Didier Millet. Call no.: RSING 305.84105957 PIL; Kong, L., Low, S.A., & Yip, J. (1994). Convent chronicles: History of a pioneer mission school for girls in Singapore (pp. 59–60). Singapore: Armour Publication. Call no.: RSING 373.5957 KON
+Untitled. (1912, June 27). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 414. Retrieved from NewspaperSG.
+Meyers, E. (2004). Convent of the Holy Infant Jesus: 150 years in Singapore (p, 52). Penang, Malaysia: The Lady Superior of the Convent of the Holy Infant Jesus. Call no.: RSING q371.07125957 MEY, Pilon & Weiler, 2011, pp. 108– 109; Kong, Low & Yip, 1994, pp. 59–60; Société MissionsÉtrangères. (1917). Missions-Étrangères: Compte-rendu des travaux de 1916 (p. 242). Paris: Séminaire des Missions-Étrangères. Not available in NLB holdings.
+New convent chapel. (1904, June 10). The Straits Times, p. 5. Retrieved from NewspaperSG.
+This is a spelling variation of “Cheong Quee Tiam”.
+Meyers, 2004, p. 60; Pilon & Weiler, 2011, p. 154; Kong,Low & Yip, 1994, pp. 103–105.
+CHIJ chapel reinforced for MRT work. (1986, July 28). The Straits Times, p. 11, CHIJ chapel’s stained glass windows are in danger. (1986, August 1). The Straits Times, p. 22; Aleshire, I. (1986, August 18). Experts warn of further damage to chapel windows. The Straits Times, p. 10; Goh, J. (1989, March 27). Urgent repairs needed on CHIJ chapel. The Straits Times, p. 19. Retrieved from NewspaperSG.
+S.C.C. lawn tennis tournament. (1904, May 14). The Straits Times, p. 5. Retrieved from NewspaperSG.
+ Brown, F. (1987). Memories of SJI: Reminiscences of old boys and past teachers of St. Joseph’s Institution, Singapore (p. 12). Singapore: St. Joseph’s Institution. Call no.: RSING 372.95957 BRO 
+St. Joseph’s Institution. (n.d.). The SJI milestones. Retrieved from St. Joseph’s Institution website.
+The tabernacle is the box-like vessel in which the Eucharist – the consecrated bread and wine that is partaken as the body and blood of Jesus Christ or as symbols of Christ’s body and blood in remembrance of his death – is kept.
+McNamara, D.R. (2011). How to read churches: A crash course in ecclesiastical architecture.New York: Rizzoli International Publishers; Lewes, East Sussex: Produced by Ivy Press. Call no.: 726.51 MAC
