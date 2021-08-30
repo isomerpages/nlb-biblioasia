@@ -14,7 +14,7 @@ Ecclesiastical stained glass, in addition to its aesthetic quality, served anoth
 
 #### **STAINED GLASS IN SINGAPORE**
 
-It is no accident that many of Singapore’s early churches and Christian institutions were clustered near the city centre. Located close to the “Ground Reserved by Government” and “European Town and Principal Mercantile Establishments” as seen in the 1823 “Plan of the Town of Singapore” by Lieutenant Philip Jackson, these structures served the religious and educational needs of the Christian communities.1
+It is no accident that many of Singapore’s early churches and Christian institutions were clustered near the city centre. Located close to the “Ground Reserved by Government” and “European Town and Principal Mercantile Establishments” as seen in the 1823 “Plan of the Town of Singapore” by Lieutenant Philip Jackson, these structures served the religious and educational needs of the Christian communities.[^1]
 
 The Armenian Church of St Gregory the Illuminator on Armenian Street, St Andrew’s Cathedral on St Andrew’s Road, the Cathedral of the Good Shepherd, the Convent of the Holy Infant Jesus (CHIJ, today a commercial complex known as CHIJMES) and St Joseph’s Institution (now Singapore Art Museum) along Bras Basah Road, St Joseph’s Church on Victoria Street and the Church of Saints Peter and Paul on Queen Street are some of Singapore’s most historically significant Christian sites. (The chapels at the former CHIJ and St Joseph’s Institution have been deconsecrated and are no longer used as places of worship today.)
 
@@ -24,7 +24,7 @@ The stained glass windows in this historic cluster provide more than just archit
 
 Upon closer examination, the names of the donors are evident in many panels. Some windows also bear the signatures of the artisans or studios that produced them, as well as the year in which they were made. Many of these windows were made in Belgium and France, and date between 1885 and 1912, although some windows of later vintage can be found in these buildings too.
 
-Three studio signatures are frequently inscribed on these window panels: “Vitrail St Georges, Lyon, France” and “J. Dobbelaere, Bruges, Belgium” in the CHIJ chapel; “J. Dobbelaere, Bruges, Belgium” in St Joseph’s Church; and “Martin Peintre, Angers, France” in the Church of Saints Peter and Paul. The windows in St Andrew’s Cathedral and the Cathedral of the Good Shepherd are unsigned, while the altar window in St Joseph’s Institution – believed to have been taken down during the Japanese Occupation (1942–45) – is now regarded as lost.2
+Three studio signatures are frequently inscribed on these window panels: “Vitrail St Georges, Lyon, France” and “J. Dobbelaere, Bruges, Belgium” in the CHIJ chapel; “J. Dobbelaere, Bruges, Belgium” in St Joseph’s Church; and “Martin Peintre, Angers, France” in the Church of Saints Peter and Paul. The windows in St Andrew’s Cathedral and the Cathedral of the Good Shepherd are unsigned, while the altar window in St Joseph’s Institution – believed to have been taken down during the Japanese Occupation (1942–45) – is now regarded as lost.[^2]
 
 Most of the windows at the CHIJ chapel and St Joseph’s Church were commissioned from the studio of Jules Dobbelaere. The Dobbelaere studio was established by Henri Dobbelaere in Walplaats, Bruges, in Belgium in 1860. Under his son, Jules Dobbelaere, the workshop reached new heights in stained glass production and found fame beyond the shores of Belgium.
 
@@ -34,7 +34,7 @@ In early 2016, a formal request was made to the university to access the archive
 
 Relatively little is known about the studio of Martin Peintre in Angers, France, at this point. More information may surface in the future as historic materials are increasingly being made available online for research, as with the case of the Dobbelaere studio.
 
-Of the three studios, Vitrail St Georges is by far the youngest. Founded by Joël Mône in 1979, the French studio claims its lineage from the studio of Jean-Baptiste Barrelon in Grigny, Lyon, which was established in 1852. Since 2010, the studio has been headed by Joël’s son, Jean.3 This was the studio that undertook the stained glass restoration when the CHIJ complex underwent extensive restoration between 1991 and 1996 and reopened as CHIJMES. The project was jointly overseen by the French architect Didier Repellin, and Ong and Ong Architects of Singapore.4
+Of the three studios, Vitrail St Georges is by far the youngest. Founded by Joël Mône in 1979, the French studio claims its lineage from the studio of Jean-Baptiste Barrelon in Grigny, Lyon, which was established in 1852. Since 2010, the studio has been headed by Joël’s son, Jean.[^3] This was the studio that undertook the stained glass restoration when the CHIJ complex underwent extensive restoration between 1991 and 1996 and reopened as CHIJMES. The project was jointly overseen by the French architect Didier Repellin, and Ong and Ong Architects of Singapore.[^4]
 
 |**Jules Dobbelaere Studio: A Timeline**|
 
@@ -84,7 +84,7 @@ Fortunately for us, the cartoons by the Dobbelaere studio have been preserved in
 <div style="background-color: white;">(Right) Cartoon depicting St Anthony with the Infant Jesus – one of the windows on the apse-side of St Joseph’s Church where the sanctuary is located – designed by the studio of Jules Dobbelaere. <i>Courtesy of KADOC – KU Leuven.
 	</i></div>
 	
-The five-sided apse (see text box below for an explanation of these architectural terms) of St Joseph’s Church on Victoria Street has beautiful ornamental and figurative stained glass windows, while two female saints are depicted in the transept windows. An article in the Singapore Free Press and Mercantile Advertiser in 1912 mentions that “the picture glass is by J. Dobbelaere of Bruges” but does not provide further details.5
+The five-sided apse (see text box below for an explanation of these architectural terms) of St Joseph’s Church on Victoria Street has beautiful ornamental and figurative stained glass windows, while two female saints are depicted in the transept windows. An article in the Singapore Free Press and Mercantile Advertiser in 1912 mentions that “the picture glass is by J. Dobbelaere of Bruges” but does not provide further details.[^5]
 
 With the exception of the “Sacr. Cor. Jesus” (Sacred Heart of Jesus) window in the centre of the apse, signed “J. Dobbelaere, Bruges, Belgium 1912”, none of the other figurative apsidal windows bear the studio’s signature. The other windows depicting “S. John Berchmans” (St John Berchmans), “S. Franc. Xav.” (St Francis Xavier), “Sta Maria” (St Mary), “Ste Joseph” (St Joseph), “S. Antoni” (St Anthony) and “Sancta Agnes” (St Agnes) are all unsigned.
 
@@ -103,7 +103,7 @@ Researchers must therefore undertake a comparative study of stained glass window
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/2-windows_into_history.jpg)
 <div style="background-color: white;">Interior view of the chapel at the Convent of the Holy Infant Jesus (CHIJ) located at the corner of Bras Basah Road and Victoria Street. Designed by Father Charles-Bénédict Nain, the chapel was completed in 1903 and consecrated on 11 June 1904. Photo taken in the early 1900s. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
 
-Many publications cite Father Charles- Bénédict Nain, a French priest of the Missions Étrangères de Paris (MEP) order, as the designer of the CHIJ chapel, with stained glass windows produced in Bruges, Belgium, by Jules Dobbelaere.6 Father Nain had been appointed as the assistant parish priest at the Cathedral of the Good Shepherd in 1898.
+Many publications cite Father Charles- Bénédict Nain, a French priest of the Missions Étrangères de Paris (MEP) order, as the designer of the CHIJ chapel, with stained glass windows produced in Bruges, Belgium, by Jules Dobbelaere.[^6] Father Nain had been appointed as the assistant parish priest at the Cathedral of the Good Shepherd in 1898.
 
 However, there is no indication which of the windows at the CHIJ chapel were produced by the Dobbelaere studio. Despite the large number of stained glass windows in the chapel, only two bear the signature “J. Dobbelaere, Bruges, Belgium”. Neither of these are dated.
 
@@ -111,7 +111,7 @@ However, there is no indication which of the windows at the CHIJ chapel were pro
 <div style="background-color: white;">(Left) Floor plan of the stained glass in the chapel of the Convent of the Holy Infant Jesus. <i>Courtesy of Yeo Kang Shua.</i></div>
 (Right) Convent of the Holy Infant Jesus (CHIJ) was a girls’ school established at the corner of Bras Basah Road and Victoria Street in 1854 by French Catholic nuns. The Neo-Gothic chapel was completed in 1903 and consecrated on 11 June 1904. The complex underwent extensive restoration works and reopened in 1996 as a commercial complex known as CHIJMES. Photo taken in the early 1900s. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
-A closer examination of the stained glass windows (see floor plan above) complicates the story further. Several windows bear the signature “Vitrail St Georges, Lyon, France”, and are dated “1994” – almost a full century after the chapel’s consecration. We know stained glass windows were already in place when the chapel was consecrated in 1904. A newspaper account dated 10 June 1904 described the windows as “most artistic”.7 How then do we explain the origins of these other windows, which bear a different signature and date?
+A closer examination of the stained glass windows (see floor plan above) complicates the story further. Several windows bear the signature “Vitrail St Georges, Lyon, France”, and are dated “1994” – almost a full century after the chapel’s consecration. We know stained glass windows were already in place when the chapel was consecrated in 1904. A newspaper account dated 10 June 1904 described the windows as “most artistic”.[^7] How then do we explain the origins of these other windows, which bear a different signature and date?
 
 A few sets of cartoons from the Leuven archives can be linked in terms of theme and composition with the existing windows on site: (1) one set of five cartoons for the apse; (2) one set of three cartoons for the private chapel to the left of the apse; (3) one set of three cartoons for the private chapel to the right of the apse; (4) one set of two cartoons for the clerestory on either side of the apse; (5) one set of two cartoons for the windows flanking a circular window in the gallery; and (6) one cartoon for the quatrefoil (four-cusped panel) in the gallery.
 
@@ -147,7 +147,7 @@ The cartoons for the two stained glass windows situated above the chancel at cle
 
 Each window, however, comprises a pair of lancet panels crowned by a roundel and three small insets to form a tracery. The cartoon’s themes remain, but the theme of each window is now spread over two lancet panels. The Visit of the Magi  (4A) is on the left of the apse, and The Flight into Egypt (4B) on the right. This change may have been the result of revisions to the architectural design of the chapel, with the windows redesigned to adapt to the modified openings.
 
-While neither cartoon indicates a donor’s name, The Visit of the Magi window now reads “Presented by a Benefactor”, while The Flight into Egypt is inscribed “Presented by Cheoug Quee Tiam”.8
+While neither cartoon indicates a donor’s name, The Visit of the Magi window now reads “Presented by a Benefactor”, while The Flight into Egypt is inscribed “Presented by Cheoug Quee Tiam”.[^8]
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/5-windows_into_history.jpg)
 <div style="background-color: white;">The clerestory at the chapel of the Convent of the Holy Infant Jesus: The Flight into Egypt (left) and The Visit of the Magi (right). The original cartoons by Dobbelaere depict each of these scenes in a single lancet composition. The windows on site, however, are executed as a pair of lancets, with a
@@ -163,9 +163,9 @@ St Anthony is the subject of the quatrefoil on the left side of the gallery. The
 <div style="background-color: white;">Quatrefoil window in the chapel of the Convent of the Holy Infant Jesus: Full-colour cartoon (left) and the window on site (right), depicting St Anthony with the Infant Jesus. This window is found on the left side of the gallery facing the entrance. <I>Cartoon courtesy of KADOC – KU Leuven; photograph
 courtesy of Swati Chandgadkar.</i></div>
 
-Events that had taken place during CHIJ’s long but illustrious history provide further clues about these stained glass windows. One such event occurred on 15 February 1942 when Japanese forces invaded Singapore. During an air raid, several bombs fell within the vicinity of the convent, one of which damaged a number of windows.9 Accounts of the bombings do not mention which windows were damaged, nor do they record the extent of the damage. It is also unknown if any repairs were carried out after the war.
+Events that had taken place during CHIJ’s long but illustrious history provide further clues about these stained glass windows. One such event occurred on 15 February 1942 when Japanese forces invaded Singapore. During an air raid, several bombs fell within the vicinity of the convent, one of which damaged a number of windows.[^9] Accounts of the bombings do not mention which windows were damaged, nor do they record the extent of the damage. It is also unknown if any repairs were carried out after the war.
 
-Tunneling works carried out for the construction of the Mass Rapid Transit system in the 1980s also had an impact on the chapel. Newspapers record mitigation works undertaken to protect the fragile windows, which were “boarded with wooden frames and covered in netting on both sides to try and protect them from damage.”10
+Tunneling works carried out for the construction of the Mass Rapid Transit system in the 1980s also had an impact on the chapel. Newspapers record mitigation works undertaken to protect the fragile windows, which were “boarded with wooden frames and covered in netting on both sides to try and protect them from damage.”[^10]
 
 CHIJ’s stained glass windows were eventually restored in the early 1990s when the convent building, including the chapel, underwent restoration. The restoration of the stained glass windows was carried out by Vitrail St Georges of France.
 
@@ -175,7 +175,7 @@ As noted earlier, there are a number of discrepancies between the cartoons and t
 
 The Cathedral of the Good Shepherd has 14 stained glass fanlight windows or “lunettes” along the aisles and two figurative windows at the transepts. The fanlights are of two design typologies, while the figurative windows depict the Madonna and Child and St Joseph. All 16 windows are unsigned, with neither studio signature, date nor donor names inscribed on the panels.
 
-There are few written references to the cathedral’s stained glass windows. One mention is found in a 1904 Straits Times article: “The Committee records with gratification, the beautiful gift of a set of stained glass for the Church windows by Bishop Bourdon.”11 The windows are not described further, making it difficult to ascertain if the bishop’s gift comprised solely of the fanlights, or if the gift included the two figurative windows too.
+There are few written references to the cathedral’s stained glass windows. One mention is found in a 1904 Straits Times article: “The Committee records with gratification, the beautiful gift of a set of stained glass for the Church windows by Bishop Bourdon.”[^11] The windows are not described further, making it difficult to ascertain if the bishop’s gift comprised solely of the fanlights, or if the gift included the two figurative windows too.
 
 In the Leuven archives, we found Dobbelaere cartoons for the two different fanlight designs. One of the cartoons is a colour reference for the two designs. Comparing these cartoons with the fanlights in place today, there is little doubt that these windows were made by the Dobbelaere studio. The foliated design, composition, colour scheme and other painting elements seen in the stained glass windows are an exact reproduction of the cartoons.
 
@@ -193,9 +193,9 @@ More importantly, one of the cartoons is dated 1904, thereby confirming that the
 
 #### **ST JOSEPH'S INSTITUTION**
 
-St Joseph’s Institution today houses the Singapore Art Museum. The chapel of this former school building was completed in September 1912. However, owing to a delay in the delivery of the stained glass window, the chapel – which now bears few traces of its ecclesiastical history – was dedicated only on 20 November that year.12
+St Joseph’s Institution today houses the Singapore Art Museum. The chapel of this former school building was completed in September 1912. However, owing to a delay in the delivery of the stained glass window, the chapel – which now bears few traces of its ecclesiastical history – was dedicated only on 20 November that year.[^12]
 
-A modern glass and steel sculpture now sits in the opening where the stained glass window would have been located. With the exception of an old photograph of the chapel, which shows a faint silhouette of the stained glass window at the end of the nave,13 very little is known about the provenance or design of this historic window. A cartoon we found in the Leuven archives helps further our understanding of this window. The cartoon depicts St Jean-Baptiste de La Salle surrounded by pupils and members of the laity, with Mary and Jesus appearing on the mantle. The cartoon also bears the inscription “Presented by Joseph Chan Teck Hee”.
+A modern glass and steel sculpture now sits in the opening where the stained glass window would have been located. With the exception of an old photograph of the chapel, which shows a faint silhouette of the stained glass window at the end of the nave,[^13] very little is known about the provenance or design of this historic window. A cartoon we found in the Leuven archives helps further our understanding of this window. The cartoon depicts St Jean-Baptiste de La Salle surrounded by pupils and members of the laity, with Mary and Jesus appearing on the mantle. The cartoon also bears the inscription “Presented by Joseph Chan Teck Hee”.
 
 The Dobbelaere cartoon fits the form and thematic outline with what we can see in the old photograph. It is therefore reasonable to infer that the cartoon is of the historic stained glass window of the school chapel, and more importantly, that it was executed by the studio of Jules Dobbelaere.
 
@@ -217,7 +217,7 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 
 |Beyond the nave typically lies the sanctuary, usually separated from the nave by a step or altar rail, within which only the priests and their attendants are allowed. In Singapore, there are no churches with chancels – the space between the nave and the sanctuary that contain choir stalls or seats for the clergy.|
 
-|In the case of St Andrew’s Cathedral, the choir stalls are positioned behind the altar. In Catholic churches, the tabernacle where the Eucharist14 is stored, is located behind the altar. In most cases, an apse is the recess behind the sanctuary.|
+|In the case of St Andrew’s Cathedral, the choir stalls are positioned behind the altar. In Catholic churches, the tabernacle where the Eucharist[^14] is stored, is located behind the altar. In most cases, an apse is the recess behind the sanctuary.|
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/11-windows_into_history.jpg)
 
@@ -235,7 +235,7 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 
 |A triptych is typically a work of art that is divided into three sections. A triptych window (above right image) likewise has a set of three window panels.|
 
-|*Readers who are interested in reading more about church architecture may refer to How to Read Churches: A Crash Course in Ecclesiastical Architecture* by Denis Robert McNamara available at the library@orchard.15|
+|*Readers who are interested in reading more about church architecture may refer to How to Read Churches: A Crash Course in Ecclesiastical Architecture* by Denis Robert McNamara available at the library@orchard.[^15]|
 
 The authors would like to acknowledge Wee Sheau Theng, Carolyn Lim, Soon-Tzu Speechley and Martina Yeo for their invaluable help in the course of this research.
 
