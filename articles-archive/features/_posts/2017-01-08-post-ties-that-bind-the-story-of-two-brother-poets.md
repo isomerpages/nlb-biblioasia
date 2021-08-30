@@ -27,7 +27,7 @@ Dr Ogihara-Schuck, a Japanese national who teaches American Studies and Japanese
 
 On perusing *F.M.S.R.* at the British Library, she was intrigued how this 10-part poetic narrative about a train journey from Singapore to Kuala Lumpur on the Federated Malay States Railways (FMSR) took inspiration from T.S. Eliot’s seminal work, *The Waste Land*,[^5] using it as a literary vehicle to call for the advancement of Malayan modernism.[^6]
 
-Her initial idea to turn to Japan for her research was shelved upon discovering that much ground on the Japanese reception of T.S. Eliot had already been covered.[^7] So she turned to the literary works of her “second home”, Singapore – where she had spent her teenage years from 1988 to 1994 when her father, a former Panasonic employee, was based here.
+Her initial idea to turn to Japan for her research was shelved upon discovering that much ground on the Japanese reception of T.S. Eliot had already been covered.[^7] So she turned to the literary works of her “second home”, Singapore – where she had spent her teenage years from 1988 to 1994 when her father, a former Panasonic employee, was based there.
 
 Her interest in republishing *F.M.S.R.* and making it available to the public grew. However, the endeavour was fraught with problems from the very start as *F.M.S.R.* was an “orphan work”, and republishing it would not be possible unless its copyright status could be verified. No biographical information about the author, Francis P. Ng, could be found and the premises of the book’s London publisher had been bombed during World War II.
 
@@ -37,7 +37,7 @@ This breakthrough discovery of the poet’s real identity enabled Ogihara-Schuck
 
 Help also came from several other sources. Tim Yap Fuan, the Associate University Librarian at the National University of Singapore, tracked down Teo Poh Leng’s essays that had appeared in the *Raffles College Union Magazine* (Teo was a student of the college between 1931 and 1933); and the University of Chicago’s archives shared with her a letter that Teo had sent to an American poetry magazine in 1931. But no further details of Teo could be traced following the publication of his last essay in the *Raffles College Union Magazine* in 1941.
 
-Undaunted, Ogihara-Schuck flew to Singapore in the summer of 2014 to do further research. The full details of her astonishing discovery are documented in the article “On the Trail of Francis P. Ng: Author of *F.M.S.R.*” in Vol. 10 Issue 4 (Jan-Mar 2015) of BiblioAsia, the quarterly journal published by the National Library, Singapore.[^10]
+Undaunted, Ogihara-Schuck flew to Singapore in the summer of 2014 to do further research. The full details of her astonishing discovery are documented in the article “On the Trail of Francis P. Ng: Author of *F.M.S.R.*” in Vol. 10 Issue 4 (Jan — Mar 2015) of BiblioAsia, the quarterly journal published by the National Library, Singapore.[^10]
 
 What happened subsequently is the stuff of detective fiction novels. Journalist Akshita Nanda picked up on the BiblioAsia article, contacted Ogihara-Schuck and followed up with a report on the Japanese academic’s search for a pioneering Singaporean poet who had disappeared during World War II. The article, published in *The Straits Times* on 22 February 2015[^11] would ultimately lead to a series of startling discoveries and, eventually, a touching family reunion.
 
@@ -84,7 +84,7 @@ For Ogihara-Schuck, the most serendipitous part of her project was the discovery
 
 For Anne Teo, the discovery of her late uncle and his published poems was proof that her father and his brother were bound by their mutual love for verse.[^17] Juxtaposing her father’s poems with that of her uncle’s, she suggests that their brotherly bonds rose above the tragedy of war and the Japanese Occupation through the redemptive power of forgiveness, as seen in the poem “I Found A Bone”.[^18]
 
-There are enough Christian motifs in the poem to suggest this idea. It starts and ends with Teo Kah Leng’s voice but switches to the persona of his younger sibling, Teo Poh Leng, in stanzas 12 and 13 as he recounts his tragic death at Punggol beach: “I am the way of life, your Hope… / Know I am hanging on a cross / And Calvary is nigh”.
+There are enough Christian motifs in the poem to suggest this idea. It starts and ends with Teo Kah Leng’s voice but switches to the persona of his younger sibling, Teo Poh Leng, in stanzas 12 and 13 as he recounts his tragic death at Punggol beach: "I am the way of life, your Hope… / Know I am hanging on a cross / And Calvary is nigh."
 
 Although Teo Kah Leng lost his two beloved siblings in the war and was suddenly thrust with the financial and moral responsibility of looking after his extended families, Anne says that her father was able to “help Uncle Poh Leng remain a poet even after his death” by literally immortalising him in “I Found A Bone”.
 
