@@ -98,7 +98,7 @@ Ironically, one of the key reasons for Rediffusion’s early success contributed
 
 The cables that enabled Rediffusion to thrive in the kampong became a noose as it required an investment in cabling infrastructure, which AM and FM radios did not need. One academic study noted that Rediffusion’s “fateful mis-step may have been when it decided not to lay its wires into new HDB estates that were springing up from the 1980s”.[^46] Not investing in this meant that Rediffusion lost subscribers who had moved into these new housing estates and failed to attract new ones for a number of years.
 
-<img style="width: 300px; height: 200px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/1989.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/1989.JPG">
 <div style="background-color: white;"> 
 The Rediffusion Building on Clemenceau Avenue, 1989. The building was later sold and in 1989, Rediffusion relocated to the new four-storey Rediffusion House on Jalan Selanting, off Upper Bukit Timah Road. <i>Courtesy of Xu Huimin</i>.
 </div>
