@@ -12,7 +12,7 @@ Theatre Royal on North Bridge Road, c. 1910. The theatre was opened by Chinese P
 
 “With a bottle of champagne broken on the door-step, the new Theatre Royal, in North Bridge Road, was opened officially on Saturday night, the Wayang Kassim’s Trip to Fairyland being staged before a packed house, the conclusion of the formal opening ceremony.”[^1]
 
-<div style="text-align: right">– The Straits Times, 15 June 1908</div>
+<div style="text-align: right">– <i>The Straits Times</i>, 15 June 1908</div>
 
 In the early decades of the 20th century, before the days of cinema, residents of Singapore eagerly flocked to *bangsawan*[^2] performances to be entertained. Performed in Malay, *bangsawan* featured acting and singing as well as music provided by a live orchestra. Back then, it was one of the few forms of mass entertainment available.
 
