@@ -36,7 +36,7 @@ The theatre scene changed with the emergence of local playwrights such as Lim Ch
 
 Their works are considered as important milestones in Singaporean English literature and planted the seeds for a local English-language theatre scene – even as playwrights struggled to find a “Singaporean voice” on stage. Lim’s breakthrough *Mimi Fan* (1962), for instance, is now considered Singapore’s first English language play.
 
-The mid-1960s is often referred to as the “*Golden Age*” of Tamil theatre in Singapore because of the proliferation of quality local scripts and the large number of troupes staging Tamil language plays.
+The mid-1960s is often referred to as the "Golden Age” of Tamil theatre in Singapore because of the proliferation of quality local scripts and the large number of troupes staging Tamil language plays.
 
 However, the Tamil theatre scene was not without its problems. A small Tamil population in Singapore meant that audiences were limited and theatre troupes struggled to stay afloat. In spite of this, Tamil theatre continued to grow and expand into other forms of media such as the radio.
 
@@ -56,7 +56,7 @@ The 1980s was something of a game-changer for local theatre, seeing several leap
 
 Practitioners and playwrights such as Kuo Pao Kun, Stella Kon, Ong Keng Seng and Michael Chiang began writing and producing works that could stand up to foreign productions in terms of quality and critical reception with Singapore audiences and critics.
 
-High-quality scripts and productions such as Kuo Pao Kun’s groundbreaking The Coffin is Too Big for the Hole (1985) and the multilingual *Mama Looking For Her Cat* (1988), and Stella Kon’s monodrama, *Emily of Emerald Hill *(1984) resulted in several amateur theatre groups turning professional – like Practice Theatre Ensemble (now known as The Theatre Practice), TheatreWorks and the Necessary Stage.
+High-quality scripts and productions such as Kuo Pao Kun’s groundbreaking *The Coffin is Too Big for the Hole* (1985) and the multilingual *Mama Looking For Her Cat* (1988), and Stella Kon’s monodrama, *Emily of Emerald Hill*(1984) resulted in several amateur theatre groups turning professional – like Practice Theatre Ensemble (now known as The Theatre Practice), TheatreWorks and the Necessary Stage.
 
 By the early 1990s, the local theatre scene had come into its own, paving the way for new amateur theatre groups to emerge and contribute to the vibrant performing arts scene we see today in Singapore.
 <div style="background-color: white;">
@@ -73,11 +73,11 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 
 
-#### |**Iconic Theatre Across the Decades**|
+|**Iconic Theatre Across the Decades**|
 
 |**The 50s**|
 
-|***家, Jia (Family).*** Adapted by **曹禺** (Cao Yu, 1910–1996) from the novel by 巴金 (Ba Jin, 1904–2005 ). Presented by the Chung Cheng High School Drama Club, 1954|
+|**家, *Jia (Family).*** Adapted by 曹禺 (Cao Yu, 1910–1996) from the novel by 巴金 (Ba Jin, 1904–2005 ). Presented by the Chung Cheng High School Drama Club, 1954|
 
 |In 1954, *Jia* was staged at the Victoria Theatre for 16 days to full houses, a milestone in Malayan theatre. Over 200 people were involved in the production, with each performance held over two nights and lasting more than six hours. Tickets were sold out within three days – a remarkable feat considering it was not a fundraising production.|
 
@@ -101,7 +101,7 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 |One of the founders of ASAS ’50 was the Singaporean Malay literary pioneer Masuri S.N. Better known as a poet, *Matahari Malam* was one of the few plays Masuri wrote in his lifetime, along with *Dari Curfew*. Regarded as a bold experimental work, *Matahari* is about an author who is confronted by five fictional characters of his own creation, who express displeasure at how their characters and storylines are being written.|
 
-|***寻找小猫的妈妈, Xunzhao xiaomao de mama (Mama Looking For Her Cat).*** Directed by Kuo Pao Kun (1939–2002). Staged by the Practice Theatre Ensemble, 1988.|
+|**寻找小猫的妈妈, *Xunzhao xiaomao de mama (Mama Looking For Her Cat).*** Directed by Kuo Pao Kun (1939–2002). Staged by the Practice Theatre Ensemble, 1988.|
 
 |Till today, Kuo’s iconic work, which he wrote in 1988, is considered as one of the most influential productions in Singapore’s theatre history. The production was performed by a multiracial ensemble who used four languages and three Chinese dialects on stage: English, Malay, Mandarin, Tamil, Hokkien, Cantonese and Teochew. The actors also employed non-verbal expressions such as body movements and gestures to explore the widening language divide in Singapore.|
 
@@ -113,9 +113,9 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 |All the scenes in Emily are performed by a single actress, who mimes and interacts with unseen characters on and off stage. Its simplicity was considered avant-garde for its time, but what was most innovative was the play’s use of language. Emily’s ability to switch seamlessly from Singlish and a mix of Malay and Hokkien to proper English with a clipped British accent held audiences in thrall. It also set the standard for an authentic Singaporean voice to be expressed on stage in the following decades.|
 
-|**About the Exhibition**
+#### **About the Exhibition**
 
-“Script &amp; Stage: Theatre in Singapore from the 50s to 80s” is held on levels 7 and 8 of the National Library Building until 26 March 2017. A series of programmes has been organised in conjunction with the exhibition, including public talks by playwrights, directors and artistes; guided tours by curators; and school tours. For more information, look up the website:[ www.nlb.gov.sg/exhibitions/]( www.nlb.gov.sg/exhibitions/)|
+|“Script &amp; Stage: Theatre in Singapore from the 50s to 80s” is held on levels 7 and 8 of the National Library Building until 26 March 2017. A series of programmes has been organised in conjunction with the exhibition, including public talks by playwrights, directors and artistes; guided tours by curators; and school tours. For more information, look up the website:[ www.nlb.gov.sg/exhibitions/]( www.nlb.gov.sg/exhibitions/)|
 
 <div style="background-color: white;">
 <br>
