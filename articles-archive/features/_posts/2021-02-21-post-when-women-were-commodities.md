@@ -109,7 +109,7 @@ The women who chose to step into Singapore’s budding cabaret scene could now t
 
 As cabarets and nightclubs burgeoned in Singapore,[^34] women who lacked education or skills were able to seek out more enticing employment opportunities, beyond just prostitution. This is not to say that prostitution disappeared; not everyone had the attributes of a cabaret girl. For those who did not, the flesh trade continued to be an option.
 
-Because of the lowly status of women and the stigma around sex work, the lives of prostitutes in late 19th and early 20th-century Singapore are typically given scant attention. However, they are an important part of Singapore’s social history, as historian James Warren has noted: “Much of the history of Singapore between 1870 and 1940 was in part shaped, and in large measure endured, by prostitutes and coolies.”[^35]
+Because of the lowly status of women and the stigma around sex work, the lives of prostitutes in late 19th- and early 20th-century Singapore are typically given scant attention. However, they are an important part of Singapore’s social history, as historian James Warren has noted: “Much of the history of Singapore between 1870 and 1940 was in part shaped, and in large measure endured, by prostitutes and coolies.”[^35]
 
 |**THE OFFICE TO PROTECT VIRTUE**
 
@@ -129,7 +129,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.[^24]
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/mabel%20winter1.JPG" style="width: 200px; height: 300px;">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/w6.JPG" style="width: 200px; height: 300px;">
 <div style="background-color: white;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.
 </i></div>
 
