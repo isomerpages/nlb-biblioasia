@@ -165,7 +165,7 @@ Researcher and writer Tan Chui Hua has worked on various projects documenting th
 [^14]:These are Jawi Peranakans.
 [^15]:[The Wayang Kassim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030704-1.2.50). (1903, July 4). *The Straits Time sand Mercantile Advertiser (Weekly)*, p. 5. Retrieved from NewspaperSG.
 [^16]:[Opera in Malay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320823-1.2.3). (1932, August 23). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG. 
-[^17]:Tan, S.-B. (1989, Spring-Summer). From popular to “traditional” theatre: The dynamics of change in bangsawan of Malaysia. *Ethnomusicology*, 33(2), 229–274, p. 236. Retrieved from JSTOR via NLB’s eResources website.
+[^17]:Tan, S.-B. (1989, Spring-Summer). From popular to “traditional” theatre: The dynamics of change in bangsawan of Malaysia. *Ethnomusicology, 33*(2), 229–274, p. 236. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^18]:[Van der Putten](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202682946), 2017, p. 145.
 [^19]:[New theatre opened: Wayang Kassim’s first night at the Royal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080615-1.2.83). (1908, June 15). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 [^20]:[Death of Mr. Cheong Koon Seng](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340320-1.2.65). (1934, March 20). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
