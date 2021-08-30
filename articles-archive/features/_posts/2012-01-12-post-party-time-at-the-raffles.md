@@ -44,7 +44,7 @@ The opening of the capacious grand ballroom in 1921 further heightened the attra
 
 The ballroom also added to the continuing popularity of the New Year’s Fancy Dress Ball, which remained a fixture until World War II. Now there was a proper place to show off the quickstep and foxtrot after the stroke of midnight, the dance floor only slightly overshadowed by the outrageous costumes revelers would turn up in.
 
-The party atmosphere at the Raffles was clearly contagious, as British traveller Beatrice Borland observed during her stay at the hotel in 1933: “The truth of the matter is, it is impossible to lead a simple life at the Raffles Hotel, so you might as well join in the all-pervading air of wicked gaiety”.[^4]
+The party atmosphere at the Raffles was clearly contagious, as British traveller Beatrice Borland observed during her stay at the hotel in 1933: “The truth of the matter is, it is impossible to lead a simple life at the Raffles Hotel, so you might as well join in the all-pervading air of wicked gaiety."[^4]
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-dancing3.jpg)
 <div style="background-color: white;">The capacious Raffles Hotel ballroom which opened in 1921 – said to be the largest in Asia at the time − was where dance evenings, concerts and musical shows took place. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
