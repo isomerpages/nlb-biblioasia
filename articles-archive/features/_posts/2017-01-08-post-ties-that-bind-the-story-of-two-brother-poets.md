@@ -88,9 +88,9 @@ There are enough Christian motifs in the poem to suggest this idea. It starts an
 
 Although Teo Kah Leng lost his two beloved siblings in the war and was suddenly thrust with the financial and moral responsibility of looking after his extended families, Anne says that her father was able to “help Uncle Poh Leng remain a poet even after his death” by literally immortalising him in “I Found A Bone”.
 
-Indeed, some of Teo Poh Leng’s poetry seemed to uncannily portend future tragic war events even before he fell victim. “Uncle Poh Leng seemed to have believed in the importance of forgiveness”, she adds.[^19] Anne highlights Poh Leng’s poem “Time Is Past” as an ode to forgiving past transgressions and moving on: “Time its neck no more holds me in case. / Time is past: / I move upon an earthless plane, / At last!”
+Indeed, some of Teo Poh Leng’s poetry seemed to uncannily portend future tragic war events even before he fell victim. “Uncle Poh Leng seemed to have believed in the importance of forgiveness,” she adds.[^19] Anne highlights Poh Leng’s poem “Time Is Past” as an ode to forgiving past transgressions and moving on: “Time its neck no more holds me in case. / Time is past: / I move upon an earthless plane, / At last!”
 
-Reflecting on the grim events that had cast a pall over her father’s youth and the remainder of his life following the Japanese surrender, Anne says that even though her father’s “yoke was heavily laden with misery, despair, and sorrow… he chose to exercise his right to be ‘free’ by forgiving the perpetrators”. She draws attention to her father’s poem “The Cicada”, in which he penned these lines: “The past is gone. Let it be dead! / Call not to life its phantoms dread / With fearful shrieks and tearful cries”.[^20]
+Reflecting on the grim events that had cast a pall over her father’s youth and the remainder of his life following the Japanese surrender, Anne says that even though her father’s “yoke was heavily laden with misery, despair, and sorrow… he chose to exercise his right to be ‘free’ by forgiving the perpetrators”. She draws attention to her father’s poem “The Cicada”, in which he penned these lines: “The past is gone. Let it be dead! / Call not to life its phantoms dread / With fearful shrieks and tearful cries.”[^20]
 
 For Ogihara-Schuck, her quest to uncover the life of Teo Poh Leng magnified the “feel” of his powerful verses. In an email, she revealed how she was emotionally affected by the untimely end of Teo Poh Leng, whose promising career as a poet, along with whatever hopes and dreams he had, was shattered by the Sook Ching. “It was really painful to read articles about Raffles College students (including Poh Leng) graduating from college and looking forward to their future while not knowing what was going to happen to them some years later.”[^21]
 
@@ -104,8 +104,8 @@ The personal lives of the two brotherpoets and the Christian concept of forgiven
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/ties-that-bind/michelle.png">
-	<b>Michelle Heng</b>  is a Literary Arts Librarian at the National Library, Singapore. She has curated a tribute showcase, "Edwin Thumboo – Time-travelling: A Poetry Exhibition" in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, "Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems" (2012) as well as the "Selected Poems of Goh Poh Seng" (2013).
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/ties-that-bind/michelle01.png">
+<b>Michelle Heng</b>  is a Literary Arts Librarian at the National Library, Singapore. She has curated a tribute showcase, "Edwin Thumboo – Time-travelling: A Poetry Exhibition" in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, "Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems" (2012) as well as the "Selected Poems of Goh Poh Seng" (2013).
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
