@@ -9,11 +9,11 @@ layout: post
 <center>“I held the arm bone in my hand,
 And let my warm tears fall;
 My brothers were slain at Ponggol Beach,
-My brothers Peter and Paul.”
-<br>
+My brothers Peter and Paul.”</center>
+
 	
-Excerpt from “I Found A Bone”
-by Teo Kah Leng </center>
+<p align="right">Excerpt from “I Found A Bone”
+by Teo Kah Leng </p>
 
 When American Studies scholar, Dr Eriko Ogihara-Schuck, embarked on the proverbial journey of a thousand miles to find out all she could about the elusive poet behind *F.M.S.R.*[^1] – widely acknowledged as one of the first notable works of English poetry by a Singaporean writer – little did she suspect that her research would unravel the mystery of not just one but two long-forgotten poets.
 
