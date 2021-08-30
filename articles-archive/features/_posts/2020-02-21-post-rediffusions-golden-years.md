@@ -127,7 +127,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 |According to his daughter, Lee started out telling stories while sitting on a box under a tree in Chinatown, with a burning joss stick as his timer.[^23] His radio career began in 1938 when he joined the British Malaya Broadcasting Corporation. After the Japanese Occupation of Singapore, he returned to his job at the company, which by then had been renamed Radio Malaya. In 1949, Lee moved over to Rediffusion when the radio station began operations in Singapore.[^24]
 
-|<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/red3.JPG">Cantonese raconteur Lee Dai Soh doing what he did best, 1966. <i>Lee Dai Soh Collection, courtesy of National Archives of Singapore</i>.|<br>
+|<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/red3.JPG">Cantonese raconteur Lee Dai Soh doing what he did best, 1966. <i>Lee Dai Soh Collection, courtesy of National Archives of Singapore</i>.| <br>
 
 |The master storyteller became a household name in the 1950s and 1960s. Apart from Rediffusion, he also made recordings for the Australian Broadcasting Commission station in Singapore, which were broadcast to countries such as Malaysia, Vietnam and Hong Kong.[^25]
 
