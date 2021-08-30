@@ -30,7 +30,7 @@ Meanwhile, Granduncle took charge of me. Together with his own son and his worke
 The camp was an unforgettable experience,  although we were only there overnight.  At the barricaded entrance of the camp,  we came face to face with the ugly face of the enemy: uncouth and aggressive Japanese  soldiers, yelling loudly and brandishing bayoneted rifles at us, clearly straining to be given cause to stab or shoot us. Indeed, we could hear screams now and then – and we could see bodies lying around, whether  dead, ill or asleep we did not know. As we stepped around the screened entrance into the open area of the camp, we were hit with a shocking scene: a panoramic sea of anxious faces. Fear, palpable as heartbeats of panic, in all eyes. Frightened faces wherever we  looked. And into that quagmire of terror-stricken humanity we were at once engulfed, with that sinking sensation of being sucked in, identity lost, now part of the world of the  helpless and the damned…
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/the-sook-ching/2-painting.png)
-<div style="background-color: white;">Painting of a scene showing Japanese soldiers herding Chinese men to be killed in the mass execution known as the Sook Ching. According to some estimates, as many as 50,000 Chinese men died during the bloodbath that took place in the days following the fall of Singapore on 15 February 1942. Chia Chew Soo Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">Painting of a scene showing Japanese soldiers herding Chinese men to be killed in the mass execution known as the Sook Ching. According to some estimates, as many as 50,000 Chinese men died during the bloodbath that took place in the days following the fall of Singapore on 15 February 1942. <i>Chia Chew Soo Collection, courtesy of National Archives of Singapore.</i></div>
 
 For hours we stayed in that hell-hole, squatting around in tight huddles, doing nothing, on the edge of hysteria from not knowing our fate. We were shoved into queues. Then hurried forward, one by one. It was followed by more waiting outside a makeshift tent.  Soon, we were standing there before our judges and executioners: a screening panel of unfriendly soldiers and interpreters. This included some strange men who had their faces hidden behind hoods and spoke only in whispers but did a lot of pointing with their fingers.
 
@@ -73,7 +73,7 @@ We were worried sick about them. They had disobeyed the Japanese authorities’ 
 
 My brother had been cleared.
 
-My father had not…but lived.
+My father had not… but lived.
 
 Where were they? What to do? We could only pray – my mother with her calming joss-sticks (she was not a Christian then), I with the powerful prayers the Christian Brothers had taught me.
 
@@ -120,7 +120,7 @@ We stayed on at Granduncle’s place for many days after that till the dust stir
 
 The nightmare of that “purification  through purge” has passed into history –  unforgettable history.
 
-For me personally, Sook Ching was  no “purification through purge.” Yes, my  guilelessness had been purged – but Sook Ching was also impurification for me: my initiation, into the reality of a hard and cruel world.
+For me personally, Sook Ching was  no “purification through purge". Yes, my  guilelessness had been purged – but Sook Ching was also impurification for me: my initiation, into the reality of a hard and cruel world.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/the-sook-ching/5-majun.png)
 <div style="background-color: white;">Illustration and handwritten note by the artist Ma Jun (马骏) describing the display of severed heads at the Cathay Building on 6 July 1942. <i>All rights reserved, Tan, S. T. L., et. al. (2009). Syonan Years 1942–1945: Living Beneath the Rising Sun. Singapore: National Archives of Singapore.</i><br></div>
