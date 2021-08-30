@@ -103,7 +103,7 @@ When the glitz and glamour of the 1920s Shanghai nightclub scene spilled over to
 
 The women who chose to step into Singapore’s budding cabaret scene could now take control over their lives. Dancing in a cabaret paid relatively well, and was filled with music, alcohol and laughter. They could doll up and use their feminine wiles to manipulate men, unlike the subservient *mui tsai*, *pipa tsai* or brothel worker who had to endure servitude, slavery and indignity.
 
-<img style="width: 400px; height: 200px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w5.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w5.JPG">
 <div style="background-color: white;">Five dance hostesses at a cabaret in the 1930s. The women are dressed in figure-hugging <i>cheongsams</i> with daring slide slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.
 </i></div>
 
