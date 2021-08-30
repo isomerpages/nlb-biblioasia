@@ -194,7 +194,7 @@ By the time she died, Pfeiffer had become one of the most famous women in the wo
 <div style="background-color: white;">The Diademed sifaka (Propithecus diadema) discovered by Ida Pfeiffer in Madagascar. <i>Image reproduced from Grandidier A. (1875). Histoire physique, naturelle et politique de Madagascar (vol. 9, part 4, atlas). Paris: Nationale. Schulbücherverlag.</i></div>
 
 |**THE WRITING OF WANDERLUST**
-<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t12.JPG">John van Wyhe at Lake Toba, following in Ida Pfeiffer’s footsteps.
+|<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t12.JPG">John van Wyhe at Lake Toba, following in Ida Pfeiffer’s footsteps.|
 
 |<i>John van Wyhe</i> talks about the research process behind his book on Ida Pfeiffer and his assessment of her as a traveller and collector.
 
