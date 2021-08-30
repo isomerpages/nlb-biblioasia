@@ -6,7 +6,7 @@ layout: post
 ---
 #### Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. **Adeline Foo** examines the lives of the unfortunate girls and women who were sold into prostitution.
 
-<img   style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w1.JPG">
+<img   style="width: 320px; height: 420px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w1.JPG">
 <div style="background-color: white;">A late-19th century portrait of a <i>pipa tsai</i> (Cantonese for “little pipa player”). The <i>pipa</i>, or Chinese lute, is a pear-shaped four-stringed musical instrument made of wood. These girls were trained to play the instrument and sing to entertain men in clubs and brothels in Singapore. In some cases, the <i>pipa tsai</i> were forced into prostitution. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 “I went a few times because of my youthful follies, to see those girls being sold to the brothels. The auction took place in front of the go-downs at the port. The *zegen* [pimp] took the girls out of the hold, ordered them to change their clothes and lined them up in front of a warehouse. The brothel-owners bought them on the spot in [the] auction. Good looking girls were priced between one and two thousand yen, and ordinary girls from four to five hundred yen.”[^1]
