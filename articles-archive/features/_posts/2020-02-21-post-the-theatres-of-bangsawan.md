@@ -36,7 +36,7 @@ Besides this venue at Jalan Besar, usually referred to as the Parsi Theatre, the
 
 Along the same road, Lee Peck Hoon Theatre was mentioned in the early 1900s for its *bangsawan* acts. Described as “fairly cool and comfortable” and “lighted by acetylene gas”, the theatre was named after its Peranakan proprietor, who was the sub-manager of the Straits Steamship Company. In 1902, the staging of a play *Indra Sabha* by a Malay theatrical company was very well received, and the 3rd Madras Infantry – including several of its officers – was reported to have turned up in force.[^7]
 
-<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/bang1.JPG" style="width: 300px; height: 200px;">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/bang1.JPG" style="width: 450px; height: 300px;">
 <div style="background-color: white;">(Left) Advertisement for Wayang Kassim’s <i>bangsawan</i> production at the New Theatre Royal, 1908. <i>Image reproduced from The Straits Times, 3 July 1908, p. 8.</i> (Right) The Star Opera Company advertising its <i>bangsawan</i> production at the Theatre Royal, 1910. <i>Image reproduced from The Straits Times, 11 January 1910, p. 8.</i></div>
 
 Advertisements in the early 1900s also mentioned a “North Bridge Road Theatre”,[^8] usually leased by the popular Wayang Kassim troupe, also known as Indra Zanibar Royal Theatrical Company. At 485 North Bridge Road was the “New Parsi Theatre Hall” that was frequently leased by Wayang Pusi from Penang. The latter – also known by various names such as Indra Bangsawan, The Queen Alexandra Theatrical Company and the Empress Victoria Jawi Peranakan Theatrical Company – is commonly acknowledged to be the first *bangsawan* troupe in Malaya. A few doors away at 499 North Bridge Road was Alexandra Theatre Hall, or Alexandra Hall, leased by Opera Yap Chow Tong, a *bangsawan* troupe.
@@ -77,7 +77,7 @@ The opening of Theatre Royal heralded the golden age of *bangsawan* in Singapore
 
 The increased demand for *bangsawan* also led to more venues for the performances. New theatres were mentioned in the papers, such as Beyrouth Theatre, which opened in 1921 opposite Geylang Police Station on Geylang Road. Beyrouth was home to Nahar Opera, a large *bangsawan* troupe comprising some 90 performers and 28 musicians.[^26]
 
-<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/bang2.JPG">
+<img style="width: 450x; height: 300px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/bang2.JPG">
 <div style="background-color: white;">Great World amusement park bounded by Kim Seng, River Valley and Zion roads, 1950s. It was the venue of regular bangsawan performances. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Amusement parks such as Great World in River Valley and Happy Valley in Tanjong Pagar also hosted regular *bangsawan* programmes. Zubir Said, composer of *Majulah Singapura*, the national anthem of Singapore, started out as a musician in the City Opera *bangsawan* troupe based in Happy Valley after arriving in Singapore in 1928. He recalled that the hall, as big as Victoria Theatre, was specially built for the performances, and that there were also living quarters on the park grounds for *bangsawan performers*.[^27]
