@@ -54,7 +54,7 @@ One account by Chu Ah Tan, a brothel owner, recounted the desperation experience
 
 “Wong Mau Tan was one of the prostitutes in my brothel… she was coughing a lot and said that she had a cough and headache for two months. Yesterday evening, her maidservant found her in bed, spit was coming from her mouth. I removed her to the hospital, she was conscious up to the last.”[^14]
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/china%20street.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/china%20street.JPG">
 <div style="background-color: white;">A G.R. Lambert &amp; Co. photo of coolies on China Street, 1890s. The street was infamous for its numerous gambling houses. <i>Courtesy of Editions Didier Millet.
 </i></div>
 
@@ -94,17 +94,18 @@ Another group of young girls who were rescued by the Po Leung Kuk was the *pipa 
 
 How did these *pipa tsai* enter such employment? Like the *mui tsai*, they had been entrusted by their parents in China to the care of distant relatives in Singapore, the so-called “third or sixth paternal aunt” – *sum gu* or*luk gu* – some of whom worked in or even owned entertainment establishments themselves. The *pipa tsai* could also have been picked out when these “aunts” visited destitute women and their young daughters living in shelters such as temples.
 
-Girls who had been forcibly controlled and detained by these aunts could escape their bondage only after they had outlived their popularity or if they were able to find married men who were willing to buy them out of their pipa-playing employment.[^33] The more fortunate girls were rescued by the authorities and taken in by the Po Leung Kuk. But this was a temporary arrangement: the future of these girls depended on whether they could learn new skills and find suitable jobs after leaving the Po Leung Kuk.
+Girls who had been forcibly controlled and detained by these aunts could escape their bondage only after they had outlived their popularity or if they were able to find married men who were willing to buy them out of their *pipa*-playing employment.[^33] The more fortunate girls were rescued by the authorities and taken in by the Po Leung Kuk. But this was a temporary arrangement: the future of these girls depended on whether they could learn new skills and find suitable jobs after leaving the Po Leung Kuk.
 
-<img style="width: 400px; height: 200px;" src="/images/Vol-15-issue-4/when-women-were-commodities/hostesses.JPG">
-<div style="background-color: white;">Five dance hostesses at a cabaret in the 1930s. The women are dressed in figure-hugging <i>cheongsams</i> with daring slide slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.
-</i></div>
 
 #### **The Cabaret Scene**
 
 When the glitz and glamour of the 1920s Shanghai nightclub scene spilled over to Singapore, it brought with it the promise of a different life, at least for some of the women who struggled to make a new life for themselves after they had left or broken free from sexual slavery and bondage.
 
 The women who chose to step into Singapore’s budding cabaret scene could now take control over their lives. Dancing in a cabaret paid relatively well, and was filled with music, alcohol and laughter. They could doll up and use their feminine wiles to manipulate men, unlike the subservient *mui tsai*, *pipa tsai* or brothel worker who had to endure servitude, slavery and indignity.
+
+<img style="width: 400px; height: 200px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w5.JPG">
+<div style="background-color: white;">Five dance hostesses at a cabaret in the 1930s. The women are dressed in figure-hugging <i>cheongsams</i> with daring slide slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.
+</i></div>
 
 As cabarets and nightclubs burgeoned in Singapore,[^34] women who lacked education or skills were able to seek out more enticing employment opportunities, beyond just prostitution. This is not to say that prostitution disappeared; not everyone had the attributes of a cabaret girl. For those who did not, the flesh trade continued to be an option.
 
