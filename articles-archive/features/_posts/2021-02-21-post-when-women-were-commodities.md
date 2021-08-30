@@ -37,7 +37,7 @@ The men who frequented brothels in Singapore were a mixed bag that included “s
 <img src="/images/Vol-15-issue-4/when-women-were-commodities/w3.JPG" style="width: 450px; height: 300px;">
 <div style="background-color: white;">A photo of karayuki-san by G.R. Lambert &amp; Co., 1890s. <i>Courtesy of National Museum of Singapore, National Heritage Board. </i></div>
 
-Japanese prostitutes, known as *karayuki-san*, operated within the Japanese enclave along Hylam, Malabar, Malay and Bugis streets where Japanese merchants, shopkeepers, doctors and bankers had set up shop. By 1920, the Japanese community in Singapore was large and thriving enough to host its own newspaper, the Nanyo Shimpo, a Japanese cemetery and a Japanese school.[^11]
+Japanese prostitutes, known as *karayuki-san*, operated within the Japanese enclave along Hylam, Malabar, Malay and Bugis streets where Japanese merchants, shopkeepers, doctors and bankers had set up shop. By 1920, the Japanese community in Singapore was large and thriving enough to host its own newspaper, the *Nanyo Shimpo*, a Japanese cemetery and a Japanese school.[^11]
 
 In the Kreta Ayer/Chinatown area, Chinese brothels catered to a largely different clientele. In addition to brothels that served the average worker, there were high-class ones that were visited by rich patrons who had their favourite prostitutes.
 
