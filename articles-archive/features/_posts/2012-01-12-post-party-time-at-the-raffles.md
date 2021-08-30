@@ -20,10 +20,10 @@ The Raffles became a gathering place for the island’s rich and influential –
 
 One of the things the Raffles Hotel excelled at was throwing a good party. The devil, as they say, is in the details, and this is where the Raffles shone: its army of well-trained staff would leave no plate empty and no glass unfilled in their bid to ensure that every guest left a party plastered, if not with drink, then at least with a wide smile on their faces.
 
+The opening of the Main Building at the turn of the 20th century properly entrenched the Raffles as the venue to host a fine party. The new marble-floored Dining Room “capable of seating 500”[^1] was where many indulgent dinners – supervised by two French chefs – would be served by white-gloved waiters.
+
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/lavishlivingroom.jpg)
 <div style="background-color: white;">Scenes of the lavish Dining Room that was “capable of seating 500”. The spacious Dining Room on the ground floor of the new Main Building, which was declared opened in November 1899, was where many extravagant dinners and parties were held. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
-
-The opening of the Main Building at the turn of the 20th century properly entrenched the Raffles as the venue to host a fine party. The new marble-floored Dining Room “capable of seating 500”[^1] was where many indulgent dinners – supervised by two French chefs – would be served by white-gloved waiters.
 
 Menu cards from this period, such as the one on 14 July 1917, featured gastronomic fare such as “Clear Turtle Soup, Baked Red Fish [in] Butter Sauce, Chicken en Aspic, Grilled Filet Steak &amp; Sugar Peas, Faisan Roti [roasted pheasant] a l’ Anglaise, Iced Asparagus [in] Mayonaise Sauce… [and] Wild Rose Ice Cream…”, among other delights. At the outdoor Palm Court, after-dinner music would be played by the Band of the K.O.R (King’s Own Regiment).
 
@@ -46,7 +46,7 @@ The ballroom also added to the continuing popularity of the New Year’s Fancy D
 
 The party atmosphere at the Raffles was clearly contagious, as British traveller Beatrice Borland observed during her stay at the hotel in 1933: “The truth of the matter is, it is impossible to lead a simple life at the Raffles Hotel, so you might as well join in the all-pervading air of wicked gaiety”.[^4]
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-dancing2.png)
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-dancing3.jpg)
 <div style="background-color: white;">The capacious Raffles Hotel ballroom which opened in 1921 – said to be the largest in Asia at the time − was where dance evenings, concerts and musical shows took place. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/hotelmenucards.jpg)
