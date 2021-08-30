@@ -83,3 +83,30 @@ Fortunately for us, the cartoons by the Dobbelaere studio have been preserved in
 <div style="background-color: white;">(Left) An exterior view of St Joseph’s Church at Victoria Street, c.1912. The church was originally built by the Portuguese Mission in 1853 to serve the Portuguese and Eurasian Catholics in Singapore. Then in 1912, it  as reconstructed in the neo-Gothic style and reopened. <i>Courtesy of National Archives of Singapore.	</i></div>
 <div style="background-color: white;">(Right) Cartoon depicting St Anthony with the Infant Jesus – one of the windows on the apse-side of St Joseph’s Church where the sanctuary is located – designed by the studio of Jules Dobbelaere. <i>Courtesy of KADOC – KU Leuven.
 	</i></div>
+	
+	The five-sided apse (see text box below for an explanation of these architectural terms) of St Joseph’s Church on Victoria Street has beautiful ornamental and figurative stained glass windows, while two female saints are depicted in the transept windows. An article in the Singapore Free Press and Mercantile Advertiser in 1912 mentions that “the picture glass is by J. Dobbelaere of Bruges” but does not provide further details.5
+
+With the exception of the “Sacr. Cor. Jesus” (Sacred Heart of Jesus) window in the centre of the apse, signed “J. Dobbelaere, Bruges, Belgium 1912”, none of the other figurative apsidal windows bear the studio’s signature. The other windows depicting “S. John Berchmans” (St John Berchmans), “S. Franc. Xav.” (St Francis Xavier), “Sta Maria” (St Mary), “Ste Joseph” (St Joseph), “S. Antoni” (St Anthony) and “Sancta Agnes” (St Agnes) are all unsigned.
+
+In the Leuven archives, we were excited to find a Dobbelaere cartoon of the triptych window dedicated to “S. Antonius”. The cartoon clearly delineates the figure of St Anthony in the middle, with ornamental windows on either side.
+
+Comparing this drawing with the extant window, it is clear that the design has been faithfully executed. The main ornamental elements, details of the drapery and the depiction of the Infant Jesus with St Anthony, are all in place. The extant window’s only departure from the cartoon is in the name plaque. It reads “S. ANTONI ORA P.N.” (“St Anthony, pray for us” in Latin), rather than “S. ANTONIUS” as in the cartoon. Although the window does not carry the studio’s signature, the cartoon is proof that the window was made in Jules Dobbelaere’s studio.
+
+The transept window depicting “Sancta Catharina” (St Catherine) is unsigned, while the “Sancta Cecilia” (St Cecilia) window carries the signature and date: “J. Dobbelaere, Bruges, Belgium 1912”. The cartoon of the St Cecilia window is also kept in the archives, and the stained glass on site is a faithful rendition of the drawing, which includes decorative elements and the dedication “EX VOTO W.F. MOSBERGEN” (“An offering from W.F. Mosbergen”), presumably the donor.
+
+It was not uncommon for studios or artists to sign just one window in a cluster of windows. Even today, most studios put their stamp on just one window even if their contribution consists of several panels. Minor elements outlined in cartoons are sometimes omitted in the final work. This happens for a number of reasons, one of which is lack of space during the execution.
+
+Researchers must therefore undertake a comparative study of stained glass windows within the same building by examining the painting style, glazing technique, types of leads used, and the composition of the windows. These details help ascertain the studio or artist behind the windows. Looking at the style of the various apsidal windows, as well as the two transept windows, and armed with further evidence from the Dobbelaere cartoons, we can safely conclude that all the windows of St Joseph’s Church were produced by the workshop of Jules Dobbelaere.
+
+#### **CHIJ CHAPEL IN CHIJMES**
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/2-windows_into_history.jpg)
+<div style="background-color: white;">Interior view of the chapel at the Convent of the Holy Infant Jesus (CHIJ) located at the corner of Bras Basah Road and Victoria Street. Designed by Father Charles-Bénédict Nain, the chapel was completed in 1903 and consecrated on 11 June 1904. Photo taken in the early 1900s. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
+
+Many publications cite Father Charles- Bénédict Nain, a French priest of the Missions Étrangères de Paris (MEP) order, as the designer of the CHIJ chapel, with stained glass windows produced in Bruges, Belgium, by Jules Dobbelaere.6 Father Nain had been appointed as the assistant parish priest at the Cathedral of the Good Shepherd in 1898.
+
+However, there is no indication which of the windows at the CHIJ chapel were produced by the Dobbelaere studio. Despite the large number of stained glass windows in the chapel, only two bear the signature “J. Dobbelaere, Bruges, Belgium”. Neither of these are dated.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/3-windows_into_history.jpg)
+<div style="background-color: white;">(Left) Floor plan of the stained glass in the chapel of the Convent of the Holy Infant Jesus. <i>Courtesy of Yeo Kang Shua.</i></div>
+(Right) Convent of the Holy Infant Jesus (CHIJ) was a girls’ school established at the corner of Bras Basah Road and Victoria Street in 1854 by French Catholic nuns. The Neo-Gothic chapel was completed in 1903 and consecrated on 11 June 1904. The complex underwent extensive restoration works and reopened in 1996 as a commercial complex known as CHIJMES. Photo taken in the early 1900s. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
