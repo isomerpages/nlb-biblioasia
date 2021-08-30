@@ -125,7 +125,7 @@ Diamond Theatre and Royal Theatre continued with their new leases of life as Tam
 
 |**THE ALLURE OF BANGSAWAN**
 
-|<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/production.JPG">A scene from a bangsawan production, c. 1900s.<i>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</i>.|
+|<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/production.JPG">A scene from a bangsawan production, c. 1900s. <i>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</i>.|
 
 |It is believed that the first *bangsawan* troupes made their appearance in Singapore in the late 19th century, inspired by the travelling Parsi theatre groups from Gujarat, India, which started touring Malaya and the Dutch East Indies in the 1870s.[^12]
 
@@ -143,10 +143,8 @@ Diamond Theatre and Royal Theatre continued with their new leases of life as Tam
 
 <br>
 <img src="/images/Vol-15-issue-4//theatres-of-bangsawan/tch1.jpg" style="width: 100px; height: 100px;">
-<center>
 <b>Tan Chui Hua</b>
 Researcher and writer Tan Chui Hua has worked on various projects documenting the heritage of Singapore, including a number of heritage trails and publications.
-</center>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
 
