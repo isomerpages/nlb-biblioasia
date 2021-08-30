@@ -85,7 +85,7 @@ Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien
 
 After peaking in the early 1980s, Rediffusion began to decline as the rising popularity of new FM radio stations and the failure of Rediffusion to obtain a free-to-air broadcasting licence in the 1990s sealed its fate. Its subscription plunged by more than 40 percent, from 110,348 subscribers in 1982 to 62,940 in 1988. By 2006, it had only 8,000 subscribers.[^42]
 
-<img style="width: 300px; height: 200px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Cantopop.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Cantopop.JPG">
 <div style="background-color: white;"> 
 Cantopop diva Frances Yip with Rediffusion DJ Larry Lai at a satellite station in Metro Golden Mile, 1971. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)</i>
 </div>
