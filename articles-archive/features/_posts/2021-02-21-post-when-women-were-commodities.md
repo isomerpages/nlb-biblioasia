@@ -129,8 +129,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.[^24]
 
-|<img src="/images/Vol-15-issue-4/when-women-were-commodities/w6.JPG" style="width: 300px; height: 420px;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.
-</i>|
+|<img src="/images/Vol-15-issue-4/when-women-were-commodities/w6.JPG" style="width: 300px; height: 420px;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.</i>|
 
 |On 1 March 1929, Mrs Mabel Winter was appointed the first Lady Assistant Protector of Chinese.[^25] She took over the management of Po Leung Kuk’s day-today operations and was assisted in her duties by a committee of ladies.[^26]
 
