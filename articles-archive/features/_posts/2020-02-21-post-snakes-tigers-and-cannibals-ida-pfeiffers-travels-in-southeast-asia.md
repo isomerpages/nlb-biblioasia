@@ -6,7 +6,7 @@ layout: post
 ---
 #### Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. John van Wyhe recounts the adventures of this remarkable woman.
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t1.JPG">
+<img style="width: 550px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t1.JPG">
 <div style="background-color: white;">Ida Pfeiffer encounters a green snake while paddling up the Kallang River on her first visit to Singapore. <i>Image reproduced from Pfeiffer, I. (1852). Reis eener vrouw rondom de wereld (Frontispiece). Gorinchem: Noorduyn.</i></div>
 
 The name Ida Pfeiffer (1797–1858) is largely unknown today, but in the mid-19th century, she was one of the most famous women in the world. Starting in her mid-40s, this Viennese mother of two embarked on five major expeditions, two of which involved circumnavigating the globe. She accomplished all this while travelling as an unchaperoned woman, a notion that was almost unheard of in those days.
