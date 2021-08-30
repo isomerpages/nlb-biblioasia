@@ -269,11 +269,9 @@ is a historian of science who has written extensively about Charles Darwin and A
 [^19]:Wallace to Samuel Stevens, 12 May 1856. See van Wyhe, J., & Rookmaaker, K. (Eds.). (2013). [*Alfred Russel Wallace: Letters from the Malay Archipelago*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200158642) (p. 80). Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL)
 [^20]:Pfeiffer, I. (1856). *A lady’s second journey round the world: From London to the Cape of Good Hope, Borneo, Java, Sumatra, Celebes, Ceram, the Moluccas, etc. California, Panama, Peru, Ecuador, and the United States* (p. 53). New York: Harper & Brothers. Retrieved from Internet Archive website.
 [^21]:Pfeiffer 1855, vol. I, p. 49.
-
-
-
-
-
-
-
-
+[^22]:The White Rajahs were a dynastic monarchy of the British Brooke family, who ruled Sarawak from 1841 to 1946. The first White Rajah was James Brooke, who ruled until his death in 1868. As a reward for helping the Sultan of Brunei suppress “insurgency” among the indigenous peoples, Brooke was made Rajah of Sarawak in 1841.
+[^23]:Pfeiffer, 1855, vol. 1, p. 84.
+[^24]:Pfeiffer, 1856, p. 60.
+[^25]:Anon. (1861, August 3). [Review of] Ida Pfeiffer’s last travels. *The London Review*, vol. 3, p. 153.
+[^26]:Anon, 1861, p. 153
+[^27]:Pfeiffer’s words are quoted by von Humboldt. See Müller, C. (Ed.). (2010). *Alexander von Humboldt und das Preußische Königshaus. Briefe aus den Jahren 1835–1857* (p. 255). Severus Verlag. (Not available in NLB holdings)
