@@ -92,11 +92,11 @@ Hamid bin Ahmad, who wrote *bangsawan* scripts, said in his oral history intervi
 
 #### **A Gradual Decline**
 
-“I am afraid the talkies and the slump together are trying to oust the* Bangsawan* from its rightful place in the Malayan scheme of things.”[^31]
+“I am afraid the talkies and the slump together are trying to oust the *Bangsawan* from its rightful place in the Malayan scheme of things.”[^31]
 
-<div style="text-align: right">– Dr Kamel Mohamed Ariff, at a lecture on Malay poetry and bangsawan, 1932</div>
+<div style="text-align: right">– Dr Kamel Mohamed Ariff, at a lecture on Malay poetry and <i>bangsawan</i>, 1932</div>
 
-As more cinemas were built and watching films became a popular pastime among Singaporeans, live entertainment such as* bangsawan* became less attractive. By the late 1930s, advertisements touting *bangsawan* performances became few and far between.
+As more cinemas were built and watching films became a popular pastime among Singaporeans, live entertainment such as *bangsawan* became less attractive. By the late 1930s, advertisements touting *bangsawan* performances became few and far between.
 
 Mohd Buang bin Marzuki, a former violinist and pianist for various *bangsawan* troupes, pointed to the advent of films in the 1930s as the start of *bangsawan*’s decline:
 
