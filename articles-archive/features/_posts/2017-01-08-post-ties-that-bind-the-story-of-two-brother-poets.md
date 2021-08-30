@@ -6,13 +6,13 @@ layout: post
 ---
 #### An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. **Michelle Heng** has the story.
 
-“I held the arm bone in my hand,
+<center>“I held the arm bone in my hand,
 And let my warm tears fall;
 My brothers were slain at Ponggol Beach,
 My brothers Peter and Paul.”
 
 Excerpt from “I Found A Bone”
-by Teo Kah Leng
+by Teo Kah Leng </center>
 
 When American Studies scholar, Dr Eriko Ogihara-Schuck, embarked on the proverbial journey of a thousand miles to find out all she could about the elusive poet behind *F.M.S.R.*[^1] – widely acknowledged as one of the first notable works of English poetry by a Singaporean writer – little did she suspect that her research would unravel the mystery of not just one but two long-forgotten poets.
 
