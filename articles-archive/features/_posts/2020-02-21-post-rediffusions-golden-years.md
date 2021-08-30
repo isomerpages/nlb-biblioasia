@@ -132,6 +132,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 Cantonese raconteur Lee Dai Soh doing what he did best, 1966. <i>Lee Dai Soh Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
+<br>
 |The master storyteller became a household name in the 1950s and 1960s. Apart from Rediffusion, he also made recordings for the Australian Broadcasting Commission station in Singapore, which were broadcast to countries such as Malaysia, Vietnam and Hong Kong.[^25]
 
 |Lee is fondly remembered for his retelling of the Chinese classic *Journey to the West* (西游记), which he narrated in Cantonese over 175 episodes, each lasting half an hour. These were recorded in 1979 on 7-inch open reel audiotapes at the Rediffusion Building on Clemenceau Avenue.
