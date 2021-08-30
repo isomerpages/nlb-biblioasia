@@ -231,9 +231,9 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 
 |The stained glass windows located at the apse are also referred to as apsidal windows.|
 
-||A lancet window (above left image) is a tall, narrow window with a pointed arch at its top. Such windows are typical of Gothic and neo-Gothic architecture.|
+|A lancet window (above left image) is a tall, narrow window with a pointed arch at its top. Such windows are typical of Gothic and neo-Gothic architecture.|
 
-A triptych is typically a work of art that is divided into three sections. A triptych window (above right image) likewise has a set of three window panels.|
+|A triptych is typically a work of art that is divided into three sections. A triptych window (above right image) likewise has a set of three window panels.|
 
 |*Readers who are interested in reading more about church architecture may refer to How to Read Churches: A Crash Course in Ecclesiastical Architecture* by Denis Robert McNamara available at the library@orchard.15|
 
