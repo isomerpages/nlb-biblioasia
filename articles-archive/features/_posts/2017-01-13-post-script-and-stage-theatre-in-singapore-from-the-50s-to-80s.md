@@ -56,7 +56,7 @@ The 1980s was something of a game-changer for local theatre, seeing several leap
 
 Practitioners and playwrights such as Kuo Pao Kun, Stella Kon, Ong Keng Seng and Michael Chiang began writing and producing works that could stand up to foreign productions in terms of quality and critical reception with Singapore audiences and critics.
 
-High-quality scripts and productions such as Kuo Pao Kun’s groundbreaking *The Coffin is Too Big for the Hole* (1985) and the multilingual *Mama Looking For Her Cat* (1988), and Stella Kon’s monodrama, *Emily of Emerald Hill*(1984) resulted in several amateur theatre groups turning professional – like Practice Theatre Ensemble (now known as The Theatre Practice), TheatreWorks and the Necessary Stage.
+High-quality scripts and productions such as Kuo Pao Kun’s groundbreaking *The Coffin is Too Big for the Hole* (1985) and the multilingual *Mama Looking For Her Cat* (1988), and Stella Kon’s monodrama, *Emily of Emerald Hill* (1984) resulted in several amateur theatre groups turning professional – like Practice Theatre Ensemble (now known as The Theatre Practice), TheatreWorks and the Necessary Stage.
 
 By the early 1990s, the local theatre scene had come into its own, paving the way for new amateur theatre groups to emerge and contribute to the vibrant performing arts scene we see today in Singapore.
 <div style="background-color: white;">
