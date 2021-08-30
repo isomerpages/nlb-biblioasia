@@ -160,7 +160,7 @@ Pfeiffer later made her way through Sumatra where she almost came to an untimely
 
 She pushed on into Batak territory, venturing further than any European had ever reached, each day negotiating permission to enter the territory of the next village.
 
-<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t9.JPG">
+<img style="width: 250px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t9.JPG">
 <div style="background-color: white;">Ida Pfeiffer calms the Batak in Sumatra in one encounter. <i>Image reproduced from Stökl, H. (1920). Die Weltfahrten der österreichischen Reisenden Ida Pfeiffer. Erzählt von Helene Stökl. Mit einem Bildnis der Weltreisenden und Bildern von Fritz Gareis. Vienna: Österr. Schulbücherverlag</i></div>
 
 Eventually, Pfeiffer’s presence could no longer be tolerated. One day, she was encircled by 80 armed men, shouting and gesticulating violently. Despite the fact that she could not understand a word of their language, there was no mistaking that they meant business. “They pointed with their knives to my throat, and gnashed their teeth at my arm, moving their jaws then, as if they already had them full of my flesh.”[^26]
