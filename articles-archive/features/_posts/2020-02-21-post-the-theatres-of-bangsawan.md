@@ -77,7 +77,7 @@ The opening of Theatre Royal heralded the golden age of *bangsawan* in Singapore
 
 The increased demand for *bangsawan* also led to more venues for the performances. New theatres were mentioned in the papers, such as Beyrouth Theatre, which opened in 1921 opposite Geylang Police Station on Geylang Road. Beyrouth was home to Nahar Opera, a large *bangsawan* troupe comprising some 90 performers and 28 musicians.[^26]
 
-<img style="width: 400x; height: 300px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/bang2.JPG">
+<img style="width: 150x; height: 100px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/bang2.JPG">
 <div style="background-color: white;">Great World amusement park bounded by Kim Seng, River Valley and Zion roads, 1950s. It was the venue of regular bangsawan performances. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Amusement parks such as Great World in River Valley and Happy Valley in Tanjong Pagar also hosted regular *bangsawan* programmes. Zubir Said, composer of *Majulah Singapura*, the national anthem of Singapore, started out as a musician in the City Opera *bangsawan* troupe based in Happy Valley after arriving in Singapore in 1928. He recalled that the hall, as big as Victoria Theatre, was specially built for the performances, and that there were also living quarters on the park grounds for *bangsawan performers*.[^27]
