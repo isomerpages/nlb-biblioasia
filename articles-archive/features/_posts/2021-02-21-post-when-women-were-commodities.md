@@ -6,7 +6,7 @@ layout: post
 ---
 #### Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. **Adeline Foo** examines the lives of the unfortunate girls and women who were sold into prostitution.
 
-<img  src="/images/Vol-15-issue-4/when-women-were-commodities/music.JPG">
+<img  src="/images/Vol-15-issue-4/when-women-were-commodities/w1.JPG">
 <div style="background-color: white;">A late-19th century portrait of a <i>pipa tsai</i> (Cantonese for “little pipa player”). The <i>pipa</i>, or Chinese lute, is a pear-shaped four-stringed musical instrument made of wood. These girls were trained to play the instrument and sing to entertain men in clubs and brothels in Singapore. In some cases, the <i>pipa tsai</i> were forced into prostitution. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 “I went a few times because of my youthful follies, to see those girls being sold to the brothels. The auction took place in front of the go-downs at the port. The *zegen* [pimp] took the girls out of the hold, ordered them to change their clothes and lined them up in front of a warehouse. The brothel-owners bought them on the spot in [the] auction. Good looking girls were priced between one and two thousand yen, and ordinary girls from four to five hundred yen.”[^1]
@@ -25,7 +25,7 @@ In some instances, prostitutes raised abandoned or orphaned girls as their own, 
 
 Once the girl, usually between the ages of 13 and 15, completed her apprenticeship, her virginity would be sold to the highest bidder: men would pay several hundred dollars to more than a thousand dollars for the experience of deflowering her.[^7]
 
-<img style="width: 350px; height: 200px;" src="/images/Vol-15-issue-4/when-women-were-commodities/coolies.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w2.JPG">
 <div style="background-color: white;">Chinese coolies unloading goods in a godown, 1900s. Chinese male migrants to Singapore in the 19th century, who worked mainly as coolies, were a lonely lot and sought solace in the arms of prostitutes. <i>Boden-Kloss Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The Brothels**
@@ -41,7 +41,7 @@ Japanese prostitutes, known as *karayuki-san*, operated within the Japanese encl
 
 In the Kreta Ayer/Chinatown area, Chinese brothels catered to a largely different clientele. In addition to brothels that served the average worker, there were high-class ones that were visited by rich patrons who had their favourite prostitutes.
 
-<img style="width: 240px; height: 350px;" src="/images/Vol-15-issue-4/when-women-were-commodities/portrait.JPG">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/w3.JPG">
 <div style="background-color: white;">A portrait of a <i>karayuki-san</i> with her hair let down, 1890s. <i>Gretchen Liu Collection, courtesy of National Archives of Singapore. </i></div>
 
 Historian James Warren’s in-depth study of life in Singapore brothels pieced together the practices of women in the profession by, among other things, examining information from coroner’s records and inquests as well as interviewing people who lived close to where the brothels were. His research unveiled intimate details such as how older women in the brothel prepared virgins for their first sexual experience. Warren also learned of their beauty secrets that included washing one’s face with powder ground from raw rice instead of cheap scented soap.
