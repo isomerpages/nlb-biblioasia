@@ -84,7 +84,7 @@ Fortunately for us, the cartoons by the Dobbelaere studio have been preserved in
 <div style="background-color: white;">(Right) Cartoon depicting St Anthony with the Infant Jesus – one of the windows on the apse-side of St Joseph’s Church where the sanctuary is located – designed by the studio of Jules Dobbelaere. <i>Courtesy of KADOC – KU Leuven.
 	</i></div>
 	
-	The five-sided apse (see text box below for an explanation of these architectural terms) of St Joseph’s Church on Victoria Street has beautiful ornamental and figurative stained glass windows, while two female saints are depicted in the transept windows. An article in the Singapore Free Press and Mercantile Advertiser in 1912 mentions that “the picture glass is by J. Dobbelaere of Bruges” but does not provide further details.5
+The five-sided apse (see text box below for an explanation of these architectural terms) of St Joseph’s Church on Victoria Street has beautiful ornamental and figurative stained glass windows, while two female saints are depicted in the transept windows. An article in the Singapore Free Press and Mercantile Advertiser in 1912 mentions that “the picture glass is by J. Dobbelaere of Bruges” but does not provide further details.5
 
 With the exception of the “Sacr. Cor. Jesus” (Sacred Heart of Jesus) window in the centre of the apse, signed “J. Dobbelaere, Bruges, Belgium 1912”, none of the other figurative apsidal windows bear the studio’s signature. The other windows depicting “S. John Berchmans” (St John Berchmans), “S. Franc. Xav.” (St Francis Xavier), “Sta Maria” (St Mary), “Ste Joseph” (St Joseph), “S. Antoni” (St Anthony) and “Sancta Agnes” (St Agnes) are all unsigned.
 
@@ -149,3 +149,58 @@ Each window, however, comprises a pair of lancet panels crowned by a roundel and
 
 While neither cartoon indicates a donor’s name, The Visit of the Magi window now reads “Presented by a Benefactor”, while The Flight into Egypt is inscribed “Presented by Cheoug Quee Tiam”.8
 
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/5-windows_into_history.jpg)
+<div style="background-color: white;">The clerestory at the chapel of the Convent of the Holy Infant Jesus: The Flight into Egypt (left) and The Visit of the Magi (right). The original cartoons by Dobbelaere depict each of these scenes in a single lancet composition. The windows on site, however, are executed as a pair of lancets, with a
+small roundel and three small glass insets forming a tracery. <i>Photograph courtesy of Carolyn Lim; cartoon courtesy of KADOC – KU Leuven.</i></div>
+
+#### **GLASS IN THE GALLERY**
+
+Two sets of stained glass windows, each composed of a pair of lancet panels crowned by a roundel and three small insets to form a tracery, flank the circular window in the gallery. They are based on Dobbelaere’s cartoons, and have been reproduced faithfully without revisions. The window on the left is The Ascension (5B), with The Dove as Holy Spirit represented in the roundel. The lancets are inscribed “Presented by a Benefactor”. The window on the right is The Holy Family (5A), with Our Lord in Glory represented in the roundel. These lancets read “Presented by L. Scheerder”. The Ascension window is one of just two windows in the chapel that bears the signature “J. Dobbelaere, Bruges, Belgium”.
+
+St Anthony is the subject of the quatrefoil on the left side of the gallery. The window is a perfect rendition of the original drawing in glass, faithfully following a beautifully coloured cartoon by Dobbelaere. The panel includes the name of the donors “Presented by Mr Nash Family”. Interestingly, this quatrefoil was catalogued in the archives as a window for the Cathedral of the Good Shepherd. This is likely to be a cataloguing error, we think, as the cartoon is undoubtedly for a window at the convent chapel.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/6-windows_into_history.jpg)
+<div style="background-color: white;">Quatrefoil window in the chapel of the Convent of the Holy Infant Jesus: Full-colour cartoon (left) and the window on site (right), depicting St Anthony with the Infant Jesus. This window is found on the left side of the gallery facing the entrance. <I>Cartoon courtesy of KADOC – KU Leuven; photograph
+courtesy of Swati Chandgadkar.</i></div>
+
+Events that had taken place during CHIJ’s long but illustrious history provide further clues about these stained glass windows. One such event occurred on 15 February 1942 when Japanese forces invaded Singapore. During an air raid, several bombs fell within the vicinity of the convent, one of which damaged a number of windows.9 Accounts of the bombings do not mention which windows were damaged, nor do they record the extent of the damage. It is also unknown if any repairs were carried out after the war.
+
+Tunneling works carried out for the construction of the Mass Rapid Transit system in the 1980s also had an impact on the chapel. Newspapers record mitigation works undertaken to protect the fragile windows, which were “boarded with wooden frames and covered in netting on both sides to try and protect them from damage.”10
+
+CHIJ’s stained glass windows were eventually restored in the early 1990s when the convent building, including the chapel, underwent restoration. The restoration of the stained glass windows was carried out by Vitrail St Georges of France.
+
+As noted earlier, there are a number of discrepancies between the cartoons and the extant windows, particularly in the side chapel to the left. Some of these windows now bear the signature of Vitrail St Georges. It is possible that these windows were badly damaged by the 1990s and required extensive reconstruction. It is unknown at this point if Vitrail St Georges had access to the Dobbelaere cartoons while undertaking the restoration, or whether its work was based on what remained of these windows.
+
+#### **CATHEDRAL OF THE GOOD SHEPHERD**
+
+The Cathedral of the Good Shepherd has 14 stained glass fanlight windows or “lunettes” along the aisles and two figurative windows at the transepts. The fanlights are of two design typologies, while the figurative windows depict the Madonna and Child and St Joseph. All 16 windows are unsigned, with neither studio signature, date nor donor names inscribed on the panels.
+
+There are few written references to the cathedral’s stained glass windows. One mention is found in a 1904 Straits Times article: “The Committee records with gratification, the beautiful gift of a set of stained glass for the Church windows by Bishop Bourdon.”11 The windows are not described further, making it difficult to ascertain if the bishop’s gift comprised solely of the fanlights, or if the gift included the two figurative windows too.
+
+In the Leuven archives, we found Dobbelaere cartoons for the two different fanlight designs. One of the cartoons is a colour reference for the two designs. Comparing these cartoons with the fanlights in place today, there is little doubt that these windows were made by the Dobbelaere studio. The foliated design, composition, colour scheme and other painting elements seen in the stained glass windows are an exact reproduction of the cartoons.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/7-windows_into_history.jpg)
+<div style="background-color: white;">Madonna and Child depicted on a glass window of the Cathedral of the Good Shepherd. The authorship of this window cannot yet be ascertained.
+This photo was taken in December 2010, when the indow was taken down for safekeeping by the authors with the assistance of Lawrence Chin and
+Wee Sheau Theng. It has since been restored by Swati Chandgadkar and was reinstated in late 2016.
+<i>Courtesy of Yeo Kang Shua.</i></div>
+
+More importantly, one of the cartoons is dated 1904, thereby confirming that the fanlights were gifts from the bishop, as mentioned in the newspaper article. As the cartoons for the two figurative windows were not found in the archives, their provenance remains indeterminate.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/8-windows_into_history.png)
+<div style="background-color: white;">(Left) Cartoons for the fanlights or “lunettes” in the Cathedral of the Good Shepherd (left) and two of the windows as executed (right). <i>Cartoons courtesy of KADOC – KU Leuven; photographs courtesy of Swati Chandgadkar.</i></div>
+<div style="background-color: white;">(Right) Cartoon from the Dobbelaere studio (left) and a historic photograph of the altar window at the chapel of St Joseph’s Institution (right). This cartoon is significant because prior to its discovery, the design of the window was unfortunately not documented in any form. The cartoon therefore provides a better understanding of what the lost window looked like. <i>Cartoon courtesy of KADOC – KU Leuven; photograph courtesy of St Joseph’s Institution.</i></div>
+
+#### **ST JOSEPH'S INSTITUTION**
+
+St Joseph’s Institution today houses the Singapore Art Museum. The chapel of this former school building was completed in September 1912. However, owing to a delay in the delivery of the stained glass window, the chapel – which now bears few traces of its ecclesiastical history – was dedicated only on 20 November that year.12
+
+A modern glass and steel sculpture now sits in the opening where the stained glass window would have been located. With the exception of an old photograph of the chapel, which shows a faint silhouette of the stained glass window at the end of the nave,13 very little is known about the provenance or design of this historic window. A cartoon we found in the Leuven archives helps further our understanding of this window. The cartoon depicts St Jean-Baptiste de La Salle surrounded by pupils and members of the laity, with Mary and Jesus appearing on the mantle. The cartoon also bears the inscription “Presented by Joseph Chan Teck Hee”.
+
+The Dobbelaere cartoon fits the form and thematic outline with what we can see in the old photograph. It is therefore reasonable to infer that the cartoon is of the historic stained glass window of the school chapel, and more importantly, that it was executed by the studio of Jules Dobbelaere.
+
+The discovery of the Dobbelaere cartoons in Leuven has provided valuable insights into the lineage of Singapore’s historic stained glass windows and sheds new light on their provenance.
+
+|**Understanding Church Architecture**|
+
+|The footprint of a church is typically laid out in a rectangle, Greek-cross – a square central mass with four projecting arms of equal length – or Latin-cross cruciform plan. From these basic forms, an apse, which is a semicircular recess, may be attached behind the altar to provide a visual focus.
