@@ -238,8 +238,8 @@ By the time she died, Pfeiffer had become one of the most famous women in the wo
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t13.jpg" style="width: 100px; height: 100px;">
-	
+<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t13.jpg" style="width: 100px; height: 100px;"><br>
+
 <b>Dr John van Wyhe</b> 
 is a historian of science who has written extensively about Charles Darwin and Alfred Russel Wallace. He is the author of Wanderlust: The Amazing Ida Pfeiffer, the First Female Tourist (2019)
 </div>
