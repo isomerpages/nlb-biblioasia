@@ -34,14 +34,14 @@ The men who frequented brothels in Singapore were a mixed bag that included “s
 
 “Each of the districts… had their local clients… Europeans – diplomats, officials and planters – favoured the discreet Japanese women of Malay and Malabar Streets. Foreign tourists, soldiers, and, especially Japanese sailors also sought their sexual favours by visiting the unregistered haunts of Malay and Eurasian women scattered in the side lanes and alleys of the city. Rickshawmen made regular journeys to the brothels in Chin Hin Street, Fraser Street, Sago Street, Smith Street, Tan Quee Lan Street and Upper Hokien Street.”[^10]
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/karayuki.JPG" style="width: 350px; height: 200px;">
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/w3.JPG" style="width: 450px; height: 300px;">
 <div style="background-color: white;">A photo of karayuki-san by G.R. Lambert &amp; Co., 1890s. <i>Courtesy of National Museum of Singapore, National Heritage Board. </i></div>
 
 Japanese prostitutes, known as *karayuki-san*, operated within the Japanese enclave along Hylam, Malabar, Malay and Bugis streets where Japanese merchants, shopkeepers, doctors and bankers had set up shop. By 1920, the Japanese community in Singapore was large and thriving enough to host its own newspaper, the Nanyo Shimpo, a Japanese cemetery and a Japanese school.[^11]
 
 In the Kreta Ayer/Chinatown area, Chinese brothels catered to a largely different clientele. In addition to brothels that served the average worker, there were high-class ones that were visited by rich patrons who had their favourite prostitutes.
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/w3.JPG">
+<img  style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w4.JPG">
 <div style="background-color: white;">A portrait of a <i>karayuki-san</i> with her hair let down, 1890s. <i>Gretchen Liu Collection, courtesy of National Archives of Singapore. </i></div>
 
 Historian James Warren’s in-depth study of life in Singapore brothels pieced together the practices of women in the profession by, among other things, examining information from coroner’s records and inquests as well as interviewing people who lived close to where the brothels were. His research unveiled intimate details such as how older women in the brothel prepared virgins for their first sexual experience. Warren also learned of their beauty secrets that included washing one’s face with powder ground from raw rice instead of cheap scented soap.
