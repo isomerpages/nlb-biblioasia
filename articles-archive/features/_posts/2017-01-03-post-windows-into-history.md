@@ -110,3 +110,31 @@ However, there is no indication which of the windows at the CHIJ chapel were pro
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/3-windows_into_history.jpg)
 <div style="background-color: white;">(Left) Floor plan of the stained glass in the chapel of the Convent of the Holy Infant Jesus. <i>Courtesy of Yeo Kang Shua.</i></div>
 (Right) Convent of the Holy Infant Jesus (CHIJ) was a girls’ school established at the corner of Bras Basah Road and Victoria Street in 1854 by French Catholic nuns. The Neo-Gothic chapel was completed in 1903 and consecrated on 11 June 1904. The complex underwent extensive restoration works and reopened in 1996 as a commercial complex known as CHIJMES. Photo taken in the early 1900s. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
+A closer examination of the stained glass windows (see floor plan above) complicates the story further. Several windows bear the signature “Vitrail St Georges, Lyon, France”, and are dated “1994” – almost a full century after the chapel’s consecration. We know stained glass windows were already in place when the chapel was consecrated in 1904. A newspaper account dated 10 June 1904 described the windows as “most artistic”.7 How then do we explain the origins of these other windows, which bear a different signature and date?
+
+A few sets of cartoons from the Leuven archives can be linked in terms of theme and composition with the existing windows on site: (1) one set of five cartoons for the apse; (2) one set of three cartoons for the private chapel to the left of the apse; (3) one set of three cartoons for the private chapel to the right of the apse; (4) one set of two cartoons for the clerestory on either side of the apse; (5) one set of two cartoons for the windows flanking a circular window in the gallery; and (6) one cartoon for the quatrefoil (four-cusped panel) in the gallery.
+
+Comparing these cartoons with the chapel windows provides some insights.
+
+#### **GLASS IN THE APSE**
+
+In the apse, all five extant lancet windows are based on themes outlined in the Dobbelaere cartoons of these windows.
+
+Three of the five apsidal windows are direct adaptations of the Dobbelaere cartoons: The Nativity of Jesus (1C) “Presented by The Pupils of the Convent”; The Presentation of Infant Jesus (1D) “Presented by Benefactors of Manila”; and Jesus’s Sermon at the Temple (1E) “Presented by A.G. Pertille”. None of these windows is signed or dated, but the cartoons confirm that Jules Dobbelaere is their creator.
+
+The other two apsidal stained glass windows located to the left of the apse when facing it – The Annunciation (1A) and The Visitation (1B) – are signed “Vitrail St Georges, 1994, Lyon, France”. Although these two windows bear the signature of another studio and a more recent date, it is obvious that the theme and composition are based on the original cartoons by Dobbelaere. The only difference is in the donor panels. These now read as “Presented by a Benefactor”, whereas the cartoons bear the inscriptions “Presented by P.S.R. Pasoual” and “Presented by the Ossorio Family” respectively.
+
+#### **GLASS IN THE TWO PRIVATE CHAPELS**
+
+In the private chapel to the left of the apse, we begin to see discrepancies in the triptych window.
+
+The Dobbelaere cartoon shows three female saints: “S. Cæcilia” (St Cecilia, left); Saint Mary (not named in the panel, centre); and “S. Agnes” (St Agnes, right). The stained glass windows on site follow the cartoons in the placement of St Cecilia (2A) and St Mary (2B). But the cartoon’s St Agnes has been replaced by “S. Clothilde” (St Clothilde, 2C) on site.
+
+The drapery of the St Cecilia and St Mary windows also differ from the cartoons, as does the position of St Mary’s hand. There are also fewer angels in the St Mary panel than in the cartoon.
+
+All three windows now read “Presented by a Benefactor”, while the cartoons clearly bear the donors’ names: “Presented by D. De Souza”, “Presented by M.C.F. De Souza”, and “Presented by G. De Souza” respectively.
+
+The Dobbelaere signature is absent in this stained glass triptych. Instead, both the St Cecilia and St Clothilde windows are signed “Vitrail St Georges, 1994, Lyon, France”. The St Mary window is unsigned.
+
+In the private chapel to the right of the apse, the triptych window is a faithful realisation of the Dobbelaere cartoons without revisions: “S. Ludovicus” (St Louis, 3A) “Presented by A. De Souza”; The Death of St Joseph (3B) “Presented by E. De Souza”; and “S. Carolus Bor.” (St Charles Borromeo, 3C) “Presented by O.K.”. The latter bears the signature “J. Dobbelaere, Bruges, Belgium”. The cartoons allow us to confidently attribute these windows to the Dobbelaere studio.
