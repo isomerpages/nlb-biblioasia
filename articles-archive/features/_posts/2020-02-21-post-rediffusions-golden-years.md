@@ -20,7 +20,7 @@ Storytellers like Lee Dai Soh and Ong Toh helped make Rediffusion popular.[^2] T
 
  “My mother would stop whatever housework, and I had to complete school homework before 9 pm to sit attentively on a stool beside the wooden partition of my next door neighbour. The Rediffusion was subscribed by my neighbour and he kindly shared it with us… The radio was located nearest to our side of the wooden partition and the volume… turned on to its maximum."[^4]
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Kampong.JPG">
+<img style="width: 300px; height: 450px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/red4.JPG">
 <div style="background-color: white;"> 
 Rediffusion became an important source of entertainment in Singapore when it was introduced here in 1949, especially for people living in kampongs that did not have access to electricity. Rediffusion sets, which were essentially loudspeakers with built-in amplifiers, did not depend on electricity because power was supplied by the same cable that delivered the radio signal.<i> Courtesy of National Archives of Singapore</i>.
 </div>
@@ -53,7 +53,7 @@ Rediffusion was an important part of the history of broadcasting in Singapore. S
 
 In the early 1970s, Rediffusion nurtured many local talents, such as veteran Mediacorp actress Xiang Yun, who started out as a child artiste with the radio station,[^31] popular radio DJ Mark van Cuylenberg (better known as The Flying Dutchman), [^32] and the late theatre doyen Kuo Pao Kun, who began his career with the station’s Mandarin Drama Group.[^33] Foong Choon Hon, former editor of the Chinese-language *Shin Min Daily News*, made his mark when he was a broadcaster with Rediffusion.[^34] Composer-singer Dick Lee has credited Rediffusion for helping him break into the entertainment industry. Lee had participated in a contest organised by Rediffusion in the early 1970s and the judge later invited him back as a guest performer, and “that’s how [his] career took off”.[^35]
 
-<img style="width: 300px; height: 200px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/US%20actor.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/red1.JPG">
 <div style="background-color: white;"> 
 Rediffusion DJ Tan Swee Leong interviewing American actor Marlon Brando at the station’s studio in Clemenceau Avenue, 1956. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)</i>
 </div>
@@ -64,7 +64,7 @@ Frankie Sim, who was a fan of these Rediffusion DJs, recalled:
 
 “I remember Top Tunes of the Week, hosted by DJ Joseph Goh, on Rediffusion… Next was the P.O. Box 608 Request programme that aired six days a week, with announcers Peggy Ross, Honey Zain, Eric Lim, Johnny Lau, Larry Lai and Tan Swee Leong. There was also From Your House, hosted by Noreen Sales; Stars on Wings, hosted by DJ Neville Powley; and Listen with Love, hosted by DJ Jeremy Ramsey Gary Love… To them and other staff, I say thank you for the music.”[^37]
 
-<img style="width: 180px; height: 250px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Weekly%20Compilation.JPG">
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/red2.JPG">
 <div style="background-color: white;"> 
 A weekly compilation of the most popular songs based on the number of requests received by Rediffusion’s English Programme Department for the week ending 23 January 1967. <i>Image reproduced from Singapore’s “Top Tunes” (n.d.). Singapore: Rediffusion. (Call no.: RCLOS 016.78242 RSLSTT)</i>
 </div>
@@ -85,7 +85,7 @@ Another equally popular storyteller was Ong Toh, who narrated stories in Hokkien
 
 After peaking in the early 1980s, Rediffusion began to decline as the rising popularity of new FM radio stations and the failure of Rediffusion to obtain a free-to-air broadcasting licence in the 1990s sealed its fate. Its subscription plunged by more than 40 percent, from 110,348 subscribers in 1982 to 62,940 in 1988. By 2006, it had only 8,000 subscribers.[^42]
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Cantopop.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/red5.JPG">
 <div style="background-color: white;"> 
 Cantopop diva Frances Yip with Rediffusion DJ Larry Lai at a satellite station in Metro Golden Mile, 1971. <i>Image reproduced from Rediffusion Singapore, photographs, circa 1948–1987. (Call no.: RCLOS 384.540655957 RED)</i>
 </div>
@@ -127,7 +127,7 @@ The National Library’s Lee Kong Chian Reference Library also has a collection 
 
 |According to his daughter, Lee started out telling stories while sitting on a box under a tree in Chinatown, with a burning joss stick as his timer.[^23] His radio career began in 1938 when he joined the British Malaya Broadcasting Corporation. After the Japanese Occupation of Singapore, he returned to his job at the company, which by then had been renamed Radio Malaya. In 1949, Lee moved over to Rediffusion when the radio station began operations in Singapore.[^24]
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Lee%20Dai%20Soh.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/red3.JPG">
 <div style="background-color: white;"> 
 Cantonese raconteur Lee Dai Soh doing what he did best, 1966. <i>Lee Dai Soh Collection, courtesy of National Archives of Singapore</i>.
 </div>
