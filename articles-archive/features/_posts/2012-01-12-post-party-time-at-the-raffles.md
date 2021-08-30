@@ -58,7 +58,7 @@ The party atmosphere at the Raffles was clearly contagious, as British traveller
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/menu-royals.jpg)
 <div style="background-color: white;">In comparison, the breakfast menu offerings some 30 years earlier on 9 August 1903 were decidedly more spartan.</div>
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-hotel-book01.jpg)
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-hotel-book02.png)
 <div style="background-color: white;">According to the book <i>Raffles Hotel</i> by Gretchen Liu, this menu was created for a dinner held in honour of Song Ong Siang, a Queen’s Scholar and author of the book <i>One Hundred Years’ History of the Chinese in Singapore.</i></div>
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/festivemenu.jpg)
