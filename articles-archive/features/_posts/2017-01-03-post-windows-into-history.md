@@ -138,3 +138,14 @@ All three windows now read “Presented by a Benefactor”, while the cartoons c
 The Dobbelaere signature is absent in this stained glass triptych. Instead, both the St Cecilia and St Clothilde windows are signed “Vitrail St Georges, 1994, Lyon, France”. The St Mary window is unsigned.
 
 In the private chapel to the right of the apse, the triptych window is a faithful realisation of the Dobbelaere cartoons without revisions: “S. Ludovicus” (St Louis, 3A) “Presented by A. De Souza”; The Death of St Joseph (3B) “Presented by E. De Souza”; and “S. Carolus Bor.” (St Charles Borromeo, 3C) “Presented by O.K.”. The latter bears the signature “J. Dobbelaere, Bruges, Belgium”. The cartoons allow us to confidently attribute these windows to the Dobbelaere studio.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png)
+<div style="background-color: white;">Triptych windows found in the side chapels at the Convent of the Holy Infant Jesus. From left to right: St Cecilia, St Mary and St Clothilde (left chapel); and St Louis, The Death of Saint Joseph, and St Charles Borromeo (right chapel). <i>Courtesy of Swati Chandgadkar.</i></div>
+
+#### **GLASS IN THE CLERESTORIES**
+The cartoons for the two stained glass windows situated above the chancel at clerestory level shows two lancets: one depicting The Flight into Egypt, and the other The Visit of the Magi.
+
+Each window, however, comprises a pair of lancet panels crowned by a roundel and three small insets to form a tracery. The cartoon’s themes remain, but the theme of each window is now spread over two lancet panels. The Visit of the Magi  (4A) is on the left of the apse, and The Flight into Egypt (4B) on the right. This change may have been the result of revisions to the architectural design of the chapel, with the windows redesigned to adapt to the modified openings.
+
+While neither cartoon indicates a donor’s name, The Visit of the Magi window now reads “Presented by a Benefactor”, while The Flight into Egypt is inscribed “Presented by Cheoug Quee Tiam”.8
+
