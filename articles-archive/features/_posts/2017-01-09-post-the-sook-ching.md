@@ -13,7 +13,7 @@ In December 1941, just as I turned 14, World War II descended on us in Singapore
 
 Then, on 16 February 1942[^1] (Chinese  New Year’s Day of that year!), to our shock and dismay, the British capitulated and the Japanese army marched in.
 
-On 17th February, our new masters issued their first public order in Singapore,  now called Syonanto: all male Chinese adults were to report the very next day at designated camps – under threat of “severe punishment”, a phrase quickly to become familiar. Most of us presumed then it was only for some kind of registration of people.
+On 17 February, our new masters issued their first public order in Singapore,  now called Syonanto: all male Chinese adults were to report the very next day at designated camps – under threat of “severe punishment”, a phrase quickly to become familiar. Most of us presumed then it was only for some kind of registration of people.
 
 But those concentrations of the Chinese were actually for a sinister purpose.
 
