@@ -18,7 +18,7 @@ In the early decades of the 20th century, before the days of cinema, residents o
 
 Such was the draw of *bangsawan* in the pre-war years that people living in Tanjong Pagar would travel by bullock cart all the way to North Bridge Road to catch a performance at the purpose-built Theatre Royal. Mohamed Sidek bin Siraj, a former civil servant and *bangsawan* patron, recalls in his oral history account:
 
-“The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except* bangsawan*. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see *bangsawan* and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.”[^3]
+“The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except *bangsawan*. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see *bangsawan* and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.”[^3]
 
 Theatre Royal was just one of a handful of venues in Singapore that staged *bangsawan* performances. While much research has been carried out on the art of *bangsawan*, less has been written about the places that played host to such shows. Although secondary source materials on these venues are scant, by piecing together occasional mentions in newspaper reports, advertisements, archival records and oral history interviews, a story of the former theatres of *bangsawan* emerges.
 
