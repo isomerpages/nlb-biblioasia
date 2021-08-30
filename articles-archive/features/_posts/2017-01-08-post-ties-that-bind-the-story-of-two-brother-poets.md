@@ -10,7 +10,7 @@ layout: post
 And let my warm tears fall;
 My brothers were slain at Ponggol Beach,
 My brothers Peter and Paul.”
-
+	
 Excerpt from “I Found A Bone”
 by Teo Kah Leng </center>
 
@@ -22,7 +22,7 @@ Ultimately, this would set in motion a chain of events that would turn the dregs
 
 Dr Ogihara-Schuck, a Japanese national who teaches American Studies and Japanese at Technische Universität Dortmund in Germany where she resides with her German husband, first chanced upon *F.M.S.R.*[^3] when she answered a call in December 2012 for academic papers by the late Professor Tatsushi Narita, a specialist on the works of the Anglo-American modernist poet T.S. Eliot.[^4]
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/ties-that-bind/1-findingfrancis.jpg)
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/ties-that-bind/1-findingfrancis01.png)
 <div style="background-color: white;"><i>Finding Francis: A Poetic Adventure and I Found A Bone and Other Poems</i> were published in 2015 and 2016 respectively by Ethos Books.</div>
 
 On perusing *F.M.S.R.* at the British Library, she was intrigued how this 10-part poetic narrative about a train journey from Singapore to Kuala Lumpur on the Federated Malay States Railways (FMSR) took inspiration from T.S. Eliot’s seminal work, *The Waste Land*,[^5] using it as a literary vehicle to call for the advancement of Malayan modernism.[^6]
