@@ -123,7 +123,7 @@ The gradual conversion of *bangsawan* venues to movie theatres sounded the death
 
 Diamond Theatre and Royal Theatre continued with their new leases of life as Tamil cinemas until the late 1970s. In 1970, the government announced its land acquisition plans in the Rochor area, which included the sites of both theatres. By the end of the 1970s, the chapter on theatres specially built for *bangsawan* performances finally came to a close when these venues were demolished, making way for urban redevelopment.[^39]
 
-| **The Allure of Bangsawan**
+|**THE ALLURE OF BANGSAWAN**
 
 |<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/production.JPG">A scene from a bangsawan production, c. 1900s.<i>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</i>.|
 
