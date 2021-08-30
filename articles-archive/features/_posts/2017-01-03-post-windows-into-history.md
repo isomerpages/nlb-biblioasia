@@ -203,4 +203,34 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 
 |**Understanding Church Architecture**|
 
-|The footprint of a church is typically laid out in a rectangle, Greek-cross – a square central mass with four projecting arms of equal length – or Latin-cross cruciform plan. From these basic forms, an apse, which is a semicircular recess, may be attached behind the altar to provide a visual focus.
+|The footprint of a church is typically laid out in a rectangle, Greek-cross – a square central mass with four projecting arms of equal length – or Latin-cross cruciform plan. From these basic forms, an apse, which is a semicircular recess, may be attached behind the altar to provide a visual focus.|
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/9-windows_into_history.png)
+
+|(From left to right) Greek cross plan of Armenian Church, rectangular plan of St George’s Church (at Minden Road) and Latin cross plan of Cathedral of the Good Shepherd.|
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/10-windows_into_history.jpg)
+
+|The main body of the church, which is known as the nave, is the area where the congregation takes part in worship (called a mass in Catholic churches or service in the Protestant tradition).|
+
+|A passageway to either side of the nave that is separated by a colonnade of columns or rows of pews is known as the aisle. A transept is the space that is perpendicular to the nave on either side of a cruciform.|
+
+|Beyond the nave typically lies the sanctuary, usually separated from the nave by a step or altar rail, within which only the priests and their attendants are allowed. In Singapore, there are no churches with chancels – the space between the nave and the sanctuary that contain choir stalls or seats for the clergy.|
+
+|In the case of St Andrew’s Cathedral, the choir stalls are positioned behind the altar. In Catholic churches, the tabernacle where the Eucharist14 is stored, is located behind the altar. In most cases, an apse is the recess behind the sanctuary.|
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/11-windows_into_history.jpg)
+
+|The clerestory denotes an upper level of the nave where the walls rise above the rooflines of the lower aisles and are punctuated with windows. Windows located in this area are also known as clerestory windows.|
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/12-windows_into_history.jpg)
+
+|A fanlight or “lunette” is a semicircular window over a door or window. It is also sometimes known as a transom window, especially when it is rectangular in shape.|
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/13-windows_into_history.jpg)
+
+|The stained glass windows located at the apse are also referred to as apsidal windows.|
+
+||A lancet window (above left image) is a tall, narrow window with a pointed arch at its top. Such windows are typical of Gothic and neo-Gothic architecture.|
+
+A triptych is typically a work of art that is divided into three sections. A triptych window (above right image) likewise has a set of three window panels.|
