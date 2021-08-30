@@ -4,7 +4,6 @@ date: 2017-01-01
 permalink: /vol-12/issue-4/jan-mar-2017/director-note
 layout: post
 ---
-
 The Italian philosopher George Santayana (1863–1952) underlined the value of memory when he wrote, “Those who cannot remember the past are condemned to repeat it”. History is littered with enough examples of follies being repeated either due to ignorance or because mankind seems incapable of learning from history. By the same token, there are some things worth remembering (and reliving) because of the pleasant memories they recall.
 
 This issue of BiblioAsia – aptly themed “Singapore Revisited” – remembers illustrious (and sometimes colourful) personalities as well as significant places and momentous events that have shaped the course of our history.
@@ -17,7 +16,7 @@ Many of the stained glass windows that adorn churches in Singapore were produced
 
 The former NCO Club and the Raffles Hotel on Beach Road are two iconic structures that were built for different purposes. The former – now conserved as part of the South Beach development – was once a favourite off-duty spot for soldiers, as Francis Dorai tells us. The fabled Raffles Hotel has hosted many lavish parties since its opening in 1887. Jessie Yak previews a selection of hotel menu cards that reside in the National Library’s Rare Materials Collection.
 
-Fashion journalists John de Souza, Cat Ong and Tom Rao describe Singapore’s style scene in the 1960s, a time when bell bottoms, hot pants, maxi dresses and chunky platform shoes reigned, in this extract from a newly published book entitled Fashion Most Wanted.
+Fashion journalists John de Souza, Cat Ong and Tom Rao describe Singapore’s style scene in the 1960s, a time when bell bottoms, hot pants, maxi dresses and chunky platform shoes reigned, in this extract from a newly published book entitled *Fashion Most Wanted*.
 
 In the 1970s, Singapore students had to learn the painstaking way of writing Chinese script in its proper form. Ho Phang Pow describes a textbook series from 1936 that has been preserved in the collections of the National Library.
 
