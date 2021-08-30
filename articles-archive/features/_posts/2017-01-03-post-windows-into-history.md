@@ -64,3 +64,20 @@ Of the three studios, Vitrail St Georges is by far the youngest. Founded by Joë
 
 |fl.=flourished|<br>
 |Above information from the University of Leuven’s Documentation and Research Center on Religion and Society.|
+
+#### **THE IMPORTANCE OF "CARTOONS"**
+
+We all know of cartoons as animated films or humorous comic strips found in print. But in the art industry, a cartoon is a preliminary design made by an artist for a painting or other types of artwork such as a fresco, tapestry or stained glass window or panel. In stained glass windows, a cartoon delineates the theme of the window, the exact drawing (sometimes in colour), lead lines and all the stylistic details of the painting. In short, it is a blueprint for the stained glass window, prepared by the glass artist for the client’s approval, and used by the glazier who creates the actual window.
+
+Cartoons are typically prepared by the stained glass artist; the glazier often advises where lead lines should be added to ensure the panel’s structural integrity. The cartoon is then copied onto tracing paper in full scale to create a working drawing or “tracing”.
+
+Studios will usually keep cartoons and tracings for a pragmatic reason as it allows them to reuse these materials to create windows for other clients, making minor alterations where needed. Some of the older and more well-managed studios meticulously catalogue their glass work. This approach was adopted by many European studios and workshops in the 19th and early 20th centuries when markets opened up and glass makers began exporting their stained glass overseas, especially to the colonies.
+
+Cartoons, therefore, address many crucial questions: where a window was made, for whom, by whom, how, in what social setting, in what style, and so on. A cartoon is literally a window into a window’s history.
+
+Fortunately for us, the cartoons by the Dobbelaere studio have been preserved in the Leuven archives. By comparing these cartoons with the stained glass windows in Singapore’s historic buildings, we are better able to understand the history of these structures in relation to the stained glass panels as well as the communities who used these buildings as places of worship.
+
+#### **ST JOSEPH'S CHURCH**
+
+<div style="background-color: white;">
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/1-windows_into_history.jpg)</div>
