@@ -219,7 +219,7 @@ By the time she died, Pfeiffer had become one of the most famous women in the wo
 
 |Pfeiffer made many journeys that were far more adventurous (or reckless) than Wallace’s. But as a self-taught collector, she was nowhere near his level of scientific knowledge. Wallace, however, only collected a very narrow spectrum of the natural world, almost nothing but insects, birds and mammals. Pfeiffer collected these as well as plants, minerals, fungi, seaweed, crustaceans, fish, and ethnographic artefacts of many kinds.
 
-|<i>You’ve obviously spent a lot of time thinking about Pfeiffer. What do you find most striking about her and what do you think were her weak points?<i/>
+|<i>You’ve obviously spent a lot of time thinking about Pfeiffer. What do you find most striking about her and what do you think were her weak points?</i>
 
 |She was a fascinating human being and her exploits were amazing. She was a woman of her time though, and as a historian, one cannot just praise things that agree with our modern values and condemn things that don’t.
 
@@ -229,8 +229,11 @@ By the time she died, Pfeiffer had become one of the most famous women in the wo
 
 |<i>Finally, you’ve written extensively about Darwin and Wallace, and now Pfeiffer. Who’s next on your list?</i>
 
-I have returned to my primary area of research on Darwin and Wallace and I’m about to submit another book on Darwin, which has been 10 years in the making.
+|I have returned to my primary area of research on Darwin and Wallace and I’m about to submit another book on Darwin, which has been 10 years in the making.
 	
-John van Wyhe’s Wanderlust: The Amazing Ida Pfeiffer, the First Female Tourist (2019) retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 910.41 VAN and SING 910.41 VAN). The 1888 French edition of Ida Pfeiffer’s second book, Voyage autour du monde de Mme. Ida Pfeiffer (Voyage Around the World by Mme. Ida Pfeiffer), translated by E. Delauney can be viewed at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
+<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t14.jpg">
 
-The 1888 French edition of Ida Pfeiffer’s second book, Voyage autour du monde de Mme. Ida Pfeiffer (Voyage Around the World by Mme. Ida Pfeiffer), translated by E. Delauney can be viewed at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
+|John van Wyhe’s Wanderlust: <i>The Amazing Ida Pfeiffer, the First Female Tourist (2019)</i> retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 910.41 VAN and SING 910.41 VAN). The 1888 French edition of Ida Pfeiffer’s second book, Voyage autour du monde de Mme. Ida Pfeiffer (Voyage Around the World by Mme. Ida Pfeiffer), translated by E. Delauney can be viewed at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
+
+The 1888 French edition of Ida Pfeiffer’s second book, <i>Voyage autour du monde de Mme. Ida Pfeiffer</i> (<i>Voyage Around the World by Mme. Ida Pfeiffer</i>), translated by E. Delauney can be viewed at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
+
