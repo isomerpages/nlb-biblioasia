@@ -85,7 +85,7 @@ To provide access to the materials, the Rare Materials Collection is being digit
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak01.png">
 	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
 </div>
 
