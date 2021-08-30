@@ -162,7 +162,7 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^1]:Warren, J.F. (2003). *[Ah ku and karayuki-san: Prostitution in Singapore, 1870–1940](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 212). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
 [^2]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 259
 [^3]:Turnbull, C. M. (2009).*[ A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047)* (p. 101). Singapore: NUS Press. (Call no.: RSING 959.57 TUR-[HIS])
-[^4]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, [pp. 219–222](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062).
+[^4]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 219–222
 [^5]:[我是一個妓女](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19401025-1.2.65). (1940, October 25). 《南洋商报》 [*Nanyang Siang Pau*], p. 22. Retrieved from NewspaperSG.
 [^6]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 233.
 [^7]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 216.
@@ -192,5 +192,5 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^31]:[Paul](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202819886), 1990, pp. 62, 73.
 [^32]:[Paul](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202819886), 1990, p. 63.
 [^33]:[Koh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 1994, pp. 136–137.
-[^34]:See Adeline Foo’s essay, [Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls](http://www.nlb.gov.sg/biblioasia/?s=lancing+girls), published in *BiblioAsia*, 12(4), Jan-Mar 2017.
+[^34]:See Adeline Foo’s essay, [Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls](http://www.nlb.gov.sg/biblioasia/?s=lancing+girls), published in *BiblioAsia, 12(4)*, Jan-Mar 2017.
 [^35]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 388.
