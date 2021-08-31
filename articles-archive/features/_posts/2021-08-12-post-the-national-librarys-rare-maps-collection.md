@@ -8,31 +8,43 @@ layout: post
 
 The National Library’s Rare Maps Collection forms part of the valuable Rare Materials Collection held in its Lee Kong Chian Reference Library. The collection contains topographic maps and navigational charts covering Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The majority of the maps were printed by European map-makers before 1945.
 
-Most of the maps were inherited from the former Raffles Museum &amp; Library, in particular a set of early Malayan maps photocopied by J.V. Mills in 1936, now known as the Mills Collection, which comprises 208 maps and charts relating to the Malay Peninsula from the period before 1600 until 1879. Other maps were donated to the library and the rest were purchased over the years. In 2012, the library acquired the valuable and historically significant David Parry Southeast Asian Map Collection, which constitutes 254 maps dating from the 15th to 19th centuries and created by prominent European cartographers.
+Most of the maps were inherited from the former Raffles Museum and Library, in particular a set of early Malayan maps photocopied by J.V. Mills in 1936, now known as the Mills Collection, which comprises 208 maps and charts relating to the Malay Peninsula from the period before 1600 until 1879. Other maps were donated to the library and the rest were purchased over the years. In 2012, the library acquired the valuable and historically significant David Parry Southeast Asian Map Collection, which constitutes 254 maps dating from the 15th to 19th centuries and created by prominent European cartographers.
 
 The Rare Maps Collection includes maps that illustrate the development of European mapping of early Southeast Asia, as well as the history of the region. These early maps and charts were produced during the “age of discovery” when Europeans were looking for a sea route to Asia and the famed Spice Islands (Moluccas, today known as Maluku) of Indonesia, in the hope of securing the lucrative trade in spices such as pepper, cloves and nutmeg.
 
 The Portuguese were the first Europeans to discover a sea route to Asia in the late 15th century when the intrepid explorer Vasco da Gama reached India in 1498. The Spanish followed suit not long after and managed to sail to Asia in the early 16th century. Having found a safe route to Asia, the Iberian powers began to explore the region, in the process mapping the surrounding lands as well as charting its waters.
 
-The first printed maps of Southeast Asia, however, were produced by Italian and German map-makers from the late 1470s onwards - even before the Portuguese and Spanish arrived in the region. These early maps were based on Claudius Ptolemy’s <i>Geography</i>, the 2nd-century Greek astronomer’s work that contained precise instructions on mapping the world. The textual instructions in <i>Geography</i> contained several fundamental errors but nevertheless continued to influence map-making for centuries despite newer discoveries.
+The first printed maps of Southeast Asia, however, were produced by Italian and German map-makers from the late 1470s onwards – even before the Portuguese and Spanish arrived in the region. These early maps were based on Claudius Ptolemy’s <i>Geography</i>, the 2nd-century Greek astronomer’s work that contained precise instructions on mapping the world. The textual instructions in <i>Geography</i> contained several fundamental errors but nevertheless continued to influence map-making for centuries despite newer discoveries.
 
-Italy and Germany played important roles in map production at the start of the Renaissance period, particularly Italy, whose coastal cities served as the midpoint between the trade routes of Europe and Asia[^1]. However, map-making in Italy languished at the start of the 1500s (unlike in central Europe), until it was revived by the leading Italian geographer Giacoma Gastaldi in the mid-1500s. Map-making subsequently declined again in the 1800s[^2].
-
-**Giacomo Gastaldi** (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula". an early, albeit, incorrect reference to Singapore as a cape.
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Gerard_Mercator.jpg)
-<div style="background-color: white;">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.</div>
-
-Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3] 
-
-Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Terza_tavola.jpg)
-<div style="background-color: white;"><i>Terza Tavola</i>, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563).</div>
-
-Note: the map is oriented with the south at the top.
+Italy and Germany played important roles in map production at the start of the Renaissance period, particularly Italy, whose coastal cities served as the midpoint between the trade routes of Europe and Asia. [^1] However, map-making in Italy languished at the start of the 1500s (unlike in central Europe), until it was revived by the leading Italian geographer Giacoma Gastaldi in the mid-1500s. Map-making subsequently declined again in the 1800s. [^2]
 
 The period from 1570 to 1670 was known as the golden age of cartography and the Dutch were the leading map-makers of this era.[^4] Notable Dutch cartographers during this period include Gerard Mercator, Abraham Ortelius, Willem Janszoon Blaeu and Jodocus Hondius. 
+
+Although Germany did not dominate map-making for an entire era, unlike the other European countries, German map-makers made important contributions to map-making from the 15th to 18th centuries. With the advances in printing technology in the 16th century, Germany (where the printing press was invented) became an important centre for map-making, far surpassing Italy. German map-makers also created better tools for map surveying. German map-making declined in the 17th century when Dutch map-makers became more prominent, but when the latter slowed down in the 18th century, German map-makers became active again. [^11]
+
+The French and English were not as active in map-making as the Italians, Germans or Dutch, although they did produce some fine maps of their own. The English started producing better quality and more accurate maps in the 18th and 19th centuries. Two of the key maps on the Singapore and Malacca Straits in the Rare Maps Collection were produced by French and English map-makers.
+
+By the start of the 17th century, Paris had become an important secondary publishing centre, rivalling those in the Netherlands, namely Antwerp and Amsterdam. Many atlases were co-published by the Dutch and French, and Dutch atlases began to be issued with French text.[^21] The development of cartography in the Netherlands had a direct impact on map-making in Germany and France, with the map-makers from the three countries often collaborating with one another.[^22]
+
+Despite being the first Europeans to go on explorations, the Portuguese and Spanish did not play a significant role in the development of printed cartography. They carefully guarded their maps and charts, as well as the information collected during their voyages of discovery, particularly the sailing routes to the key trading ports in Asia. However, their manuscript charts “remained the sole cartographical source for the New World and the East Indies” and was the basis for many of the maps created by the other European cartographers during the 16th century.[^24] The other Europeans managed to smuggle the information out from these secret archives and began printing maps of Southeast Asia based on the new discoveries.
+
+The National Library’s collection of rare maps is an important source for the study of early cartography of the region, as well as the development of European mapping of Southeast Asia, a region whose early European names included East Indies, Indiae Orientalis, East Indian Islands and Further India (India Extrema). These maps are also useful for those researching early Malayan cartography as they contain some of the earliest references to Singapore and the Malay Peninsula. 
+
+|GIACOMO GASTALDI|
+
+|Giacomo Gastaldi (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
+
+|<img  style="height:650px;" src="/images/vol-10-issue-4/raremap/Gerard_Mercator.jpg">
+<div style="background-color: white;">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.</div>|
+
+|Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3]|
+
+|Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.|
+
+|![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Terza_tavola.jpg)
+<div style="background-color: white;"><i>Terza Tavola</i>, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563).</div>Note: the map is oriented with the south at the top.|
+
+
 
 
 **Abraham Ortelius** (1527-98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5] 
@@ -71,9 +83,7 @@ Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal t
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Nova_tabula.jpg)
 <div style="background-color: white;"><i>Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> | G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>
 
-Although Germany did not dominate map-making for an entire era, unlike the other European countries, German map-makers made important contributions to map-making from the 15th to 18th centuries. With the advances in printing technology in the 16th century, Germany (where the printing press was invented) became an important centre for map-making, far surpassing Italy. German map-makers also created better tools for map surveying. German map-making declined in the 17th century when Dutch map-makers became more prominent, but when the latter slowed down in the 18th century, German map-makers became active again. [^11]
 
-The French and English were not as active in map-making as the Italians, Germans or Dutch, although they did produce some fine maps of their own. The English started producing better quality and more accurate maps in the 18th and 19th centuries. Two of the key maps on the Singapore and Malacca Straits in the Rare Maps Collection were produced by French and English map-makers.
 
 **Sebastian Münster** (1489-1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
 
@@ -124,8 +134,6 @@ Bellin's map depicts Singapore island in an unrecognisable shape and calls it "P
 <div style="background-color: white;">Part of the title cartouche depicting Asian peoples taken from the Covens &amp; Mortier's 1730 map pictured on the opposite page.</div>
 
 
-By the start of the 17th century, Paris had become an important secondary publishing centre, rivalling those in the Netherlands, namely Antwerp and Amsterdam. Many atlases were co-published by the Dutch and French, and Dutch atlases began to be issued with French text.[^21] The development of cartography in the Netherlands had a direct impact on map-making in Germany and France, with the map-makers from the three countries often collaborating with one another.[^22]
-
 
 **Covens &amp; Mortier** was a successful map printing and publishing firm in Amsterdam, based on the successful business started by Cornelis Mortier’s father, Pierre Mortier, in Paris in the late 17th century. The firm re-issued the maps of several European map-makers until its closure in 1866.[^23]
 
@@ -134,9 +142,7 @@ This wall map shows the trade route from Siam to Batavia and then to Europe thro
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Sincapour.jpg)
 <div style="background-color: white;">L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</div>
 
-Despite being the first Europeans to go on explorations, the Portuguese and Spanish did not play a significant role in the development of printed cartography. They carefully guarded their maps and charts, as well as the information collected during their voyages of discovery, particularly the sailing routes to the key trading ports in Asia. However, their manuscript charts “remained the sole cartographical source for the New World and the East Indies” and was the basis for many of the maps created by the other European cartographers during the 16th century.[^24] The other Europeans managed to smuggle the information out from these secret archives and began printing maps of Southeast Asia based on the new discoveries.
 
-The National Library’s collection of rare maps is an important source for the study of early cartography of the region, as well as the development of European mapping of Southeast Asia, a region whose early European names included East Indies, Indiae Orientalis, East Indian Islands and Further India (India Extrema). These maps are also useful for those researching early Malayan cartography as they contain some of the earliest references to Singapore and the Malay Peninsula. 
 
 
 **Makeswary Periasamy** is a Senior Librarian with the National Library of Singapore. She selects and acquires rare materials for the National Library and also overseas the map collections of the library. Makeswary has several years of experience in cataloguing, heritage collections management, reference and research, as well as in managing large-scale preservation projects.
