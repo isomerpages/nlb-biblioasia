@@ -48,3 +48,31 @@ In April 1965, Chin and his Japanese photographer colleague H. Okamura ventured 
 When the Vietnam War ended, Chin continued running PANA’s Chinese-language news service from Singapore until his retirement in 2004. He has written several books, one of which, 我所知道的李光耀 (*LKY Whom I Knew*),10 won the Singapore Literature Prize in the Chinese non-fiction category in 2016. Though now in his 80s, Chin continues to write and is currently working on his next book.
 
 #### **Terence “Terry” Khoo and Sam Kai Faye**
+
+It was Chin who spurred two fellow Singaporean journalists – Terence (better known as Terry) Khoo and Sam Kai Faye, former photographers with *The Straits Times*, to venture to Vietnam. Both Khoo and Sam covered the war for about a decade, between 1962 and 1972.
+
+Born in 1924 in Penang, Sam came to Singapore to work for *The Straits Times* from 1950 to 1955, where he was an award-winning photographer. In 1954, he became the first Asian to win the Best News Picture in the British Press Pictures of the Year Competition for his photo of a plane crash at Kallang Airport. 11 He also won the British Commonwealth Photo Contest in 1958 and 1959.
+
+After leaving the newspaper, Sam struck out on his own as a freelance photographer and shared office space with PANA, where Chin was the bureau chief. As PANA did not have its own staff photographers, it frequently used Sam for assignments.
+
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v3.JPG">
+<div style="background-color: white;">An undated photo of Viet Cong prisoners. Photo taken by Terry Khoo. <i>Image reproduced from Fass, H., & Page, T. (Eds.) (1997). Requiem: By the Photographers who Died in Vietnam and Indochina (p. 258). New York: Random House. (Call no.: RSEA q959.7043 REQ-WAR])</i></div>
+
+Khoo, who worked at *The Straits Times* from 1954 to 1956, was 12 years younger than Sam. But despite the age difference, they became best friends with Sam taking Khoo under his wing in the newsroom. Khoo would often visit Sam at the PANA office; soon, Khoo began taking on assignments for the agency.
+
+Chin, Khoo and Sam became fast friends, and Chin often took the other two on assignments in Singapore and Malaya in the mid-1950s. The three of them covered the Malayan Emergency during the latter part of the 1950s as well as the Duke of Edinburgh’s visit to Sarawak in 1959.
+
+In 1960, Chin arranged their first trip to Vietnam. A Royal Air Force (RAF) plane was scheduled to fly Singapore-based journalists to Saigon to cover a story about an RAF-led relief mission for flood victims. Chin managed to get both Sam and Khoo on the same flight as him. While there, Sam and Khoo were so enamoured of the city that they missed their flight home and a special flight had to be arranged for them the next day.12
+
+In late 1962, Khoo moved to Saigon to work, while Sam did so much later. Chin related that Khoo was able to make the move earlier because he was single, while Sam, although unmarried, was running a photography business with his elder brother, Sam Kai Yee, who was also a *Straits Times* photographer.13
+
+In Saigon, Khoo worked initially as a freelancer and counted among his mentors David Halberstam of *The New York Times* and Neil Sheehan of United Press International, both Pulitzer Prize winners, as well as Malcolm Brown of the Associated Press and the prominent historian and war correspondent, Bernard B. Fall.14 Khoo also did some work for *Asia Magazine*, a widely circulated weekly publication focusing on topics in Asia.
+
+Before long, Khoo was hired by ABC News as a cameraman where he became much sought after for not only his keen eye, but also his language skills and personable nature. Apart from speaking English, Malay and several Chinese dialects, Khoo picked up French and Vietnamese, thus making him indispensable to his American colleagues. The ability to speak the local language also endeared him to the Vietnamese with whom he worked.
+
+Among the Asian journalists, Khoo was looked upon as a leader and mentor, especially to many of the younger, inexperienced journalists in Saigon. He welcomed them at his house, which was fondly referred to as “Terry’s Villa”, and provided them with food. He even lent  money whenever someone was in need.15
+
+Khoo’s ability to remain cool and calm under pressure also earned him great respect among his peers. In Cambodia, where the situation was far more unpredictable and dangerous, Khoo and his ABC News colleagues – American correspondent Steve Bell and Japanese soundman Takayuki Senzaki – were once captured by an insurgent patrol and held for several hours in an area several kilometres outside of Phnom Penh. Khoo managed to talk his way out of the situation and even offered himself up as hostage when the insurgents wanted to hold Steve Bell. Luckily for everyone, the leader changed his mind and let them all go free.
+
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v4.JPG">
+<div style="background-color: white;">ABC crew Sam Kai Faye, Don Baker, Hoang Dinh De (soundman) and an unnamed person on board US aircraft carrier, <i>USS Coral Sea, c. 1967. Courtesy of Sam Yoke Tatt.</i></div>
