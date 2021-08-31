@@ -41,7 +41,7 @@ A highlight of the exhibition are several pre-1800 maps that contain names such 
 <img  style="height:800px;" src="/images/vol-10-issue-4/geo-geographic/UBLCKA_COLLBN_re.jpg">
 <div style="background-color: white;">On this hand-drawn and coloured 1725 Dutch map depicting the southern part of the Malay Peninsula and the Riau archipelago, Singapore is marked as Oud Straat Sincapura (Old Strait of Singapore). The Old Strait of Singapore is the name of the maritime channel between Sentosa and Telok Blangah. <i>Courtesy of Leiden University Library, 006-14-012.</i></div>
 
-</br>
+<br>
 
 <img   src="/images/vol-10-issue-4/geo-geographic/dutch.jpg">
 <div style="background-color: white;">The Dutch merchant/traveller and historian, Jan Huygen van Linschoten (1563–1611) is credited with writing a book on the navigational routes to the elusive East Indies (referring generally to India and Southeast Asia). The Portuguese, who at that time controlled the lucrative spice trade to Europe, kept such information secret. Sailing directions and accurate maps from Linschoten's book <i>Itinerario</i> (first published in 1596), later paved the way for the Dutch and British to venture to the region. This cropped detail of a larger map from the English edition of the <i>Itinerario</i>, published in 1598, shows "Sincapura" at the tip of the Malay Peninsula. Interestingly, Linschoten's map is oriented with the east at the top. with the entire region positioned on its side. <i>National Library of Singapore Collection</i>.</div>
@@ -85,7 +85,7 @@ This particular project is an extension of Lim's previous solo-exhibition, "In S
 <div style="background-color: white;">Stills from Sherman Ong's work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.</div>
 
 	
-#### *Mind The Gap: Mapping The Other* 
+#### **Mind The Gap: Mapping The Other** 
 
 Making up the art component of "GeolGraphic" is "Mind the Gap", which presents the works of three Singapore contemporary artists, who harness data collection and mapping to investigate what lies beneath the surface of contemporary life.
 	
