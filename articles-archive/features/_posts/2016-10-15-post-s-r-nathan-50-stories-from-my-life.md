@@ -86,28 +86,36 @@ The whole episode ended without bloodshed. It was good experience for me, the va
 
 |S R Nathan: 50 Stories from My Life (paperback, 184 pages) is published by Editions Didier Millet and retails at $19.90. It is available for loan and reference at the Lee Kong Chian Reference Library and branches of all public libraries (Call no.: RSING 959.5705092 NAT).|
 
-|**Other Publications by S R Nathan**|
+**Other Publications by S R Nathan**
 
-|*S R Nathan in Conversation with Timothy Auger*<br>
+*S R Nathan in Conversation with Timothy Auger*<br>
 Editions Didier Millet, 2015<br>
-Call no.: RSING 959.5705 NAT|
+Call no.: RSING 959.5705 NAT
 
-*An Unexpected Journey: Path to the Presidency*
-Editions Didier Millet, 2011
+*An Unexpected Journey: Path to the Presidency*<br>
+Editions Didier Millet, 2011<br>
 Call no.: RSING 959.5705092 NAT
 
-*Why Am I Here?: Overcoming Hardships of Local Seafarers*
-Centre for Maritime Studies, National University of Singapore, 2010
+*Why Am I Here?: Overcoming Hardships of Local Seafarers*<br>
+Centre for Maritime Studies, National University of Singapore, 2010<br>
 Call no.: RSING 331.7613875095957 NAT
 
-*The Crane and the Crab*
-Epigram Books, 2013
+*The Crane and the Crab*<br>
+Epigram Books, 2013<br>
 Call no.: JRSING 428.6 NAT
 
-*Winning Against the Odds: The Labour Research Unit in NTUC’s Founding*
-Straits Times Press, 2011
+*Winning Against the Odds: The Labour Research Unit in NTUC’s Founding*<br>
+Straits Times Press, 2011<br>
 Call no.: RSING 331.88095957 NAT
 
-*Singapore’s Foreign Policy: Beginnings and Future*
-MFA Diplomatic Academy, 2008
+*Singapore’s Foreign Policy: Beginnings and Future*<br>
+MFA Diplomatic Academy, 2008<br>
 Call no.: RSING 327.5957 NAT
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/s-r-nathan/blank-author.png">
+	<b>Biblioasia. </b>Download the PDF versions of BiblioAsia [here](http://www.nlb.gov.sg/Browse/ BiblioAsia.aspx).
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
