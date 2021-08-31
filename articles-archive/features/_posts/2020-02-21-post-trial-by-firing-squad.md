@@ -23,7 +23,7 @@ The prisoners and their escort of Sikh constables are a study in stark contrast.
 
 Recruited and drilled by their colonial masters, guards and prisoners alike belong to the so-called martial races of India. Both sets trace their origins to the widest reaches of Punjab, Rajputana and the North-west Frontier, well before its violent partitioning between Muslim and non-Muslim in 1947. Hardy specimens hand-picked to perform a lifetime of military labour. Trained to ensure that religion comes a distant second after loyalty to the British Raj. The Sikhs hail from the fertile west of Punjab, while the mutineers are mainly Muslim Rajputs known as Ranghars from small dusty towns in the more backward eastern reaches of Punjab known today as Haryana. These were towns and villages where camels roamed, and home of the sturdy black Murrah buffalo, with the nearest Sikh and Punjabi speakers further up north.
 
-<img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial2.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial2.JPG">
 <div style="background-color: white;">An illustration of the assassination attempt on Lord Charles Hardinge, Viceroy of India, on 23 December 1912 on the occasion of the transfer of the capital of British India from Calcutta to New Delhi. A bomb was thrown by Indian nationalists at the viceroy’s ceremonial procession in Delhi. Hardinge escaped with injuries but his mahout was killed. The act of terror galvanised the movement to gain independence for India. Illustration by E. Abbo for La Tribuna Illustrata, 5–12 January 1913. © <i>Look and Learn.</i></div>
 
 British orientalists and linguists understood these differences. They know that unlike the Ranghars, Sikhs did not wear a cone-shaped *kulla* hat under their tall *pagri*. The colonial social engineers of efficient power maintenance shaped and created the martial races and used the age-old caste and class system to their full advantage. Singapore’s Chinese and Malays are largely ignorant of the shades of the sub-continent. These lesser subjects of His Majesty the King deride the darker South Indians as *kling*, derived from Kalinga, an ancient Indian kingdom, but was derogatorily said to be from the sound of the chains that hobbled them as convict labour. And they label Sikhs, Rajputs and Pathans collectively as Bengalis, because they sailed from the Calcutta port in Bengal to Malaya. Some are confused, having once seen the Ranghars, now bare-headed, wearing turbans, with some even full-whiskered like their Sikh guard.
@@ -40,7 +40,7 @@ The execution will be carried out in full public view – a spectacle revived af
 
 Two of the five ragged prisoners had worn officer’s uniforms in the British Indian Army. Dunde Khan is the senior of the pair of cashiered officers. Fat and fair-skinned with a beard and moustache once neatly trimmed, the ex-Viceroy Commissioned Officer had once flashed the two-star epaulette of a*subedar* (captain) on his shoulder straps. Now ordered to march forward, his muscle memory completes a familiar drill. In step by his side is Chiste Khan, a lean, sharp-faced former *jemadar* (lieutenant) sporting a long, flowing beard. Garbed in rumpled and soiled civilian clothes, former Subedar Dunde Khan and ex-Jemadar Chiste Khan struggle to retain some soldierly bearing and dignity.
 
-<img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial3.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial3.JPG">
 <div style="background-color: white;">Acting Brigadier-General Dudley H. Ridout, General Officer Commanding the Troops in the Straits Settlements. At his farewell inspection of the 5th Light Infantry Regiment on 15 February 1915, just before its redeployment to Hong Kong, he had tried to rally the men with a rousing speech but failed. <i>Image reproduced from The Royal Engineers Journal, vol. LV, September 1941, p. 354.</i></div>
 
 A few weeks earlier, the pair of Khans had been in a very different position. Both were native officers of the 5th Light Infantry garrisoned in Singapore. Dunde commanded B Company of No 1 Double Company and Chiste led D of No 2 Double Company. They had turned out with their battalion for a Monday morning inspection parade by Acting Brigadier-General Dudley Ridout, the General Officer Commanding the Troops in the Straits Settlements. Ridout was conducting his farewell inspection of the regiment just before its redeployment to Hong Kong. The inspection coincided with the Chinese New Year holidays. The festivities had begun the day before. At the stroke of midnight, the settlement’s Chinese population exploded in riotous celebration. Official hours for firing small bombs and crackers were midnight until 1 am and from 5 to 6 am. The large Chinese community in carnival mood could hardly be expected to obey the rules.
@@ -53,7 +53,7 @@ In the rising heat and humidity of the morning, Ridout’s speech rehearsed a ti
 
 “As this war is such that no one has returned out of those who have gone to the war. All died. And those who have enlisted will not live alive. Believe this. World has died. No one has escaped who has gone to the war. All have perished. And there is recruiting open, don’t let any men enlist. As all are being taken to the war. All will be caused to be killed.”[^3]
 
-<img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial4.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial4.JPG">
 <div style="background-color: white;">Sepoys in the British Indian Army in Singapore, 1915. This photograph is from the album of Sergeant B.W. Turner of the 1st/4th Battalion, King’s Shropshire Light Infantry. Turner served in one of the battalion’s companies sent to Singapore in February 1915 to quash the mutiny. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 With a battalion and their own minds in disarray, some of the sepoys developed their own conspiracy theories, with help perhaps from passing agents of influence. Their once-disciplined heads held many confusing ideas. Some noble, others dangerous and mixed with trivial feuds and simmering frustrations. They were being sent away from Singapore to fight and kill Turks – their fellow Muslims. This contradicted the one true faith. Even worse, they speculated that their ship was to be sunk en route to their next post. Reflecting the Rajput Hindu origins of his Ranghar identity in a moment of great stress, Sepoy Shaikh Mohammed wrote to his family, reflecting Hindu ideas of resurrection:
@@ -62,7 +62,7 @@ With a battalion and their own minds in disarray, some of the sepoys developed t
 
 “God knows what kinds of trouble we will have to confront. What is this war? It is resurrection. That who goes there, there is no hope of his returning. It is God’s punishment. If God released us from this calamity we will take to have reborn. We are very much confused and shocked. All the regiment is in sorrow together.”[^4]
 
-<img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial5.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial5.JPG">
 <div style="background-color: white;">The European officer in the photograph is Captain Moira Francis Allan (7th from the right), seen here with men of the Mountain Battery of the Malay States Guides who had stoked the 5th Light Infantry Regiment to mutiny on 15 February 1915. He was one of the commanders of the battery and was killed in the mutiny. <i>Courtesy of National Archives of Singapore.</i></div>
 
 On their part, the pair of ex-officer Khans, now standing with their backs against the walls of Outram Prison, had done their own listening, thinking, and whispering. Quiet intriguing was soon followed by bold declarations and preaching. As Viceroy Commissioned Officers, men like the Khans were expected to know better than to encourage such seditious talk. They sat at the top of the pyramid of Indian military labour that was recruited to defend the British Empire. Raised from the ranks of the sepoys for good service, they were trained not to question why but to do or die.
@@ -73,7 +73,7 @@ In Singapore, Dunde also found other attractions. With Chiste, he enjoyed the co
 
 Chiste was a disciple of the enigmatic Nur Alam Sham. A mysterious Muslim preacher and Sufi Master (*pir*), the latter had a cult following among Indian and Malay Muslims in Singapore. Nur Alam Shah delivered sulphurous sermons at his mosque on Kampong Java Road, just down the road from the house where Singapore’s first Prime Minister, Lee Kuan Yew, would be born a few years later.
 
-<img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial6.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial6.JPG">
 <div style="background-color: white;">Promulgation of sentences on 21 sepoys found guilty of participating in the mutiny of the 5th Light Infantry Regiment. Sixteen mutineers received imprisonment of varying lengths, while five were executed. <i>Image reproduced from The Straits Times, 23 March 1915, p. 7.</i></div>
 
 As the First World War turned into a brutal conflict of attrition, Nur Alam Shah had raised thorny questions for the sepoys to consider. To whom was loyalty owed? To which Kaiser and to which Emperor? Charismatic Chiste also had a way with words. He persuaded some of his men that the tide was turning against British rule. Largely illiterate and unschooled, the thoughts of the sepoys did not match the precision or logic of trained minds. This thinking was dangerously open-ended and tumbled through their heads like the fake news Lance-Naik Fateh Mohammed had shared with his father on the day the mutiny broke out:
@@ -98,7 +98,7 @@ With little fanfare, the doomed men are strapped to the five-foot timber stakes 
 
 |**THE LOST TREASURE OF SINGAPORE'S HISTORY**
 
-|<img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial7.JPG">By Umej Bhatia
+|<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial7.JPG">By Umej Bhatia
 
 |It was a century-old map of Singapore discovered in a London bookshop about 10 years ago that launched my quest. The topographical map showed intriguing features of a settlement in Singapore and its infrastructure, formed between now-levelled hills and drained swamps, with a port that was already the world’s seventh busiest in 1914. I was intrigued by a prominently marked German prisoners camp, setting me off on a journey to find the “lost treasure” of Singapore’s neglected history just before, during and after the First World War.
 
@@ -129,5 +129,3 @@ With little fanfare, the doomed men are strapped to the five-foot timber stakes 
 [^4]:[Sareen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7835338), 1995, p. 729
 [^5]:[Sareen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7835338), 1995, p. 731.
 [^6]:[Sareen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7835338), 1995, p. 847.
-
-
