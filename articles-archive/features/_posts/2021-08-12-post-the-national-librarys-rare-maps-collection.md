@@ -49,7 +49,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]|
 
-|<img  style="height:600px;" src="/images/vol-10-issue-4/raremap/Abraham_Ortelius_by_Peter_Paul_Rubens.jpg">
+|<img  style="height:600px;" src="/images/vol-10-issue-4/raremap/test.jpg">
 <div style="background-color: white;">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i></div>|
 
 
