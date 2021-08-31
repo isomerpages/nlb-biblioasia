@@ -192,7 +192,8 @@ Their consummate professionalism, their selfless courage, and their unstinting g
 
 |The war in Vietnam soon spilled over into neighbouring Cambodia and Laos, resulting in the Third Indochina War (1975–91) which involved Thailand and China. In 1975, armed conflicts between Vietnam and Cambodia resulted in the Vietnamese invasion of Cambodia in 1978 that eventually led to the fall of the Khmer Rouge government in Phnom Penh. The remaining Khmer Rouge forces retreated to the Thai-Cambodian border. In the following decade, Thai and Vietnamese troops clashed on several occasions.
 
-|China had objected to the invasion of Cambodia and launched attacks on Vietnam’s northern provinces in February 1979, capturing several cities near the border. Although China withdrew from Vietnam in March 1979, both countries were engaged in border disputes and clashes until 1990.’ The 1991 Paris Peace Agreements officially marked the end of the war between Vietnam and Cambodia.<br>
+|China had objected to the invasion of Cambodia and launched attacks on Vietnam’s northern provinces in February 1979, capturing several cities near the border. Although China withdrew from Vietnam in March 1979, both countries were engaged in border disputes and clashes until 1990.’ The 1991 Paris Peace Agreements officially marked the end of the war between Vietnam and Cambodia.
+<br>
 
 <div style="background-color: white;">
 <br/>
