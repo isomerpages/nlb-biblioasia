@@ -36,7 +36,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Giacomo Gastaldi (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
 
-<img  style="height:750px;" src="/images/vol-10-issue-4/raremap/Gerard_Mercator.jpg">
+<img  src="/images/vol-10-issue-4/raremap/gerard.jpg">
 <div style="background-color: white;">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.</div>
 
 |Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3]|
@@ -54,7 +54,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 <div style="background-color: white;">
 <br/>
-<img  src="/images/vol-10-issue-4/raremap/test1.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i></div>
+<img  src="/images/vol-10-issue-4/raremap/Abraham.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i></div>
 
 
 |Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula.|
@@ -73,7 +73,7 @@ The National Library’s collection of rare maps is an important source for the 
 |Theodore de Bry (1528–98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.[^7]|
 
 
-<img  style="height:700px;" src="/images/vol-10-issue-4/raremap/Theodor_de_Bry_self_portrait_1597.jpg">
+<img  src="/images/vol-10-issue-4/raremap/theodor.jpg">
 <div style="background-color: white;">A portrait of Theodore de Bry. <i>Wikimedia Commons.</i></div>
 
 
@@ -96,7 +96,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Sebastian Münster (1489–1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
 
-<img  style="height:800px;" src="/images/vol-10-issue-4/raremap/Portrait_of_the_Cosmographer_Sebastien_Munster_WGA.jpg">
+<img  src="/images/vol-10-issue-4/raremap/sebastien.jpg">
 <div style="background-color: white;">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. <i>Wikimedia Commons.</i></div>
 
 
@@ -115,7 +115,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Samuel Thornton (fl. 1703–39) was an English hydrographer.[^17] His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as <i>Oriental Navigation</i>, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.[^18]|
 
-<img  style="height:750px;" src="/images/vol-10-issue-4/raremap/SamuelThornton_2.jpg">
+<img src="/images/vol-10-issue-4/raremap/thornton.jpg">
 <div style="background-color: white;">Portrait of Samuel Thornton by Karl Anton Hickel. <i>Collection of Bank of England</i>.</div>
 
 
