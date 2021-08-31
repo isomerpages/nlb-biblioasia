@@ -64,7 +64,7 @@ Frankie Sim, who was a fan of these Rediffusion DJs, recalled:
 
 “I remember Top Tunes of the Week, hosted by DJ Joseph Goh, on Rediffusion… Next was the P.O. Box 608 Request programme that aired six days a week, with announcers Peggy Ross, Honey Zain, Eric Lim, Johnny Lau, Larry Lai and Tan Swee Leong. There was also From Your House, hosted by Noreen Sales; Stars on Wings, hosted by DJ Neville Powley; and Listen with Love, hosted by DJ Jeremy Ramsey Gary Love… To them and other staff, I say thank you for the music.”[^37]
 
-<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/red2.JPG">
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Singapore%20Top%20Tunes.jpg">
 <div style="background-color: white;"> 
 A weekly compilation of the most popular songs based on the number of requests received by Rediffusion’s English Programme Department for the week ending 23 January 1967. <i>Image reproduced from Singapore’s “Top Tunes” (n.d.). Singapore: Rediffusion. (Call no.: RCLOS 016.78242 RSLSTT)</i>
 </div>
@@ -141,8 +141,7 @@ The audiotapes of Lee’s *Journey to the West* form part of the more than 5,000
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbara1.jpg" style="width: 100px; height: 100px;">
-	
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbarax.JPG" style="width: 100px; height: 100px;">
 <b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
 
