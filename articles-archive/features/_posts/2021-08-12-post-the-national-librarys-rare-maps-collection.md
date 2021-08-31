@@ -34,20 +34,24 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Giacomo Gastaldi (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
 
-|<img  style="height:650px;" src="/images/vol-10-issue-4/raremap/Gerard_Mercator.jpg"><div style="background-color: white;">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.</div>|
+<img  style="height:750px;" src="/images/vol-10-issue-4/raremap/Gerard_Mercator.jpg">
+<div style="background-color: white;">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.</div>
 
 |Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3]|
 
 |Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.|
 
-|![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Terza_tavola.jpg)<div style="background-color: white;"><i>Terza Tavola</i>, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</div>|
+![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Terza_tavola.jpg)
+<div style="background-color: white;"><i>Terza Tavola</i>, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</div>
 
 
 |**ABRAHAM ORTELIUS**|
 
 |Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]|
 
-<img   style="height:500px;" src="/images/vol-10-issue-4/raremap/test.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i>
+<div style="background-color: white;">
+<br/>
+<img  src="/images/vol-10-issue-4/raremap/test.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i></div>
 
 
 |Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula.|
@@ -78,8 +82,8 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]|
 
-|![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Nova_tabula.jpg)
-<div style="background-color: white;"><i>Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> | G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>|
+![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Nova_tabula.jpg)
+<div style="background-color: white;"><i>Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>
 
 
 |**SEBASTIAN MUNSTER**|
