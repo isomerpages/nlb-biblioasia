@@ -41,7 +41,7 @@ Japanese prostitutes, known as *karayuki-san*, operated within the Japanese encl
 
 In the Kreta Ayer/Chinatown area, Chinese brothels catered to a largely different clientele. In addition to brothels that served the average worker, there were high-class ones that were visited by rich patrons who had their favourite prostitutes.
 
-<img  style="width: 300px; height: 420px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w4.JPG">
+<img  style="width: 300px; height: 420px;" src="/images/Vol-15-issue-4/when-women-were-commodities/redxx.JPG">
 <div style="background-color: white;">A portrait of a <i>karayuki-san</i> with her hair let down, 1890s. <i>Gretchen Liu Collection, courtesy of National Archives of Singapore. </i></div>
 
 Historian James Warren’s in-depth study of life in Singapore brothels pieced together the practices of women in the profession by, among other things, examining information from coroner’s records and inquests as well as interviewing people who lived close to where the brothels were. His research unveiled intimate details such as how older women in the brothel prepared virgins for their first sexual experience. Warren also learned of their beauty secrets that included washing one’s face with powder ground from raw rice instead of cheap scented soap.
