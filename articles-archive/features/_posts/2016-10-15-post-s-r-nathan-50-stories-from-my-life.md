@@ -41,3 +41,44 @@ Finally, early the following year, I plucked up the courage to approach Umi’s 
 I thought he would be furious. In fact, he was not. He did not want us to get married immediately. His elder daughter had gone to university. He asked me to wait till she graduated. Umi was impatient, unwilling to carry on as we were for four more years. My own mother was adamant – Umi’s family had treated me well and I must not let them down. ‘You have already waited 12 years – you will just have to wait another four!’ So we did.
 
 Finally, in December 1958, the wedding took place – in fact, two weddings. Umi’s sister got married at the same time. And Umi and I have been together ever since.
+
+#### **Flying with Hijackers**
+
+*Sometimes even civil servants must be willing to face danger, as I discovered after terrorists hijacked a vessel in Singapore harbour. Fortunately, the incident ended without bloodshed.*
+
+In 1974, when I was director of the Security and Intelligence Division at the Ministry of Defence, hijackers seized the Laju, a small ferry owned by Shell, the oil company. By the time I reached the Marine Police headquarters, the Laju was being shadowed by a police patrol boat. Finally, it came to a halt, surrounded by police, customs and Singapore Maritime Command vessels.
+
+The hijackers put a message in a bottle. They announced they were the “Japanese Red Army and Popular Front for the Liberation of Palestine”. They threatened to kill their hostages unless they were allowed to leave Singapore for an “Arab” country. At that stage we did not know who the hostages were, or how many there were.
+
+We learned subsequently that there were four terrorists. Two of them were Japanese and two Arab. Earlier, they had set off explosive charges against four oil tanks on Pulau Bukom. They had unexpectedly been spotted, and had had to make a rapid escape. They had run to the Shell jetty, where they had hijacked the Laju, which was waiting to take passengers. These would have included children crossing from the island to Singapore to attend school. Fortunately, they had not actually boarded the vessel. Five crewmen were being held hostage.
+
+Negotiations were begun, mostly by loudhailer, by Superintendent Tee Tua Ba, head of the Marine Police, stationed on his patrol boat. The terrorists asked for the Japanese ambassador to be summoned. When we didn’t respond, they sent a radio message: “Sunset time is blowing up time.” Finally, when the ambassador appeared, and after some negotiation, they turned against him, threatening that if the Japanese police were involved, blood would flow.
+
+That night, two of the crew escaped by jumping overboard. This gave us much valuable information on the armed status of the hijackers and the number of local hostages still on board.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-3/s-r-nathan/03_sr_nathan.jpg)
+<div style="background-color: white;"><i>The hijacked ferry Laju was closely monitored.</i></div>
+
+Lengthy negotiations followed, involving the hijackers, the Singapore authorities, other Arab missions and the Japanese embassy. We were unwilling to fly the hijackers out on a Singaporean plane because that would only have encouraged other terrorists to see Singapore as an easy terrorist target. Proposals to fly them out on a Japanese plane came to nothing. Tense discussions lasted several days, with no solution in sight.
+
+The sixth day brought a new development. Supporters of the terrorists had stormed the Japanese embassy in Kuwait, taking the ambassador and 15 staff hostage. They threatened to execute their hostages, starting with the Second Secretary (one of the diplomatic staff), if the Japanese government did not send a plane to Singapore to pick up the Laju hijackers.
+
+The Japanese government finally offered to send a JAL plane. Although we did not tell the Laju hijackers about the embassy seizure in Kuwait, they finally agreed to be flown out to Kuwait. We insisted they give up their weapons. At last they agreed to give up their arms and explosives at the airport, before boarding the plane. They were to be accompanied by unarmed teams of Singaporean and Japanese officials.
+
+Dr Goh Keng Swee, Defence Minister at the time, instructed me to lead the team of Singapore officials. Our mission was to hand over the Singapore hijackers to the Kuwait authorities to help resolve the situation at the Japanese embassy in Kuwait. As I said goodbye to my family, I did not mention the risks that lay ahead. We were afraid that the terrorist organisation might not let us leave Kuwait, using us as bargaining chips for the release of people in captivity in Israel or somewhere else.
+
+As we neared our destination, I had to spell out to the authorities in Kuwait in a radio message the conditions on which we had undertaken the journey: “…13 senior officials of Singapore government must alight from the plane before the terrorists in Kuwait are taken on board. Singapore officials will leave plane and proceed straight back to Singapore. Until this is agreed and guaranteed by Kuwait government, the doors of the aircraft must necessarily remain closed. … Japanese crew and 2 senior officials will remain on board and go with the terrorists to final destination.’
+
+When we landed, the aircraft was surrounded by tanks, armoured vehicles and soldiers carrying automatic weapons. For hours, we negotiated with the Kuwaiti authorities. I was asked to disembark from the plane and take my message in person to a Kuwaiti government minister, who was driven onto the tarmac in his limousine. Long arguments followed, involving the Kuwaitis and the Japanese ambassador to Iran, who had been brought to the scene to represent the Japanese government.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-3/s-r-nathan/04_sr_nathan.jpg)
+<div style="background-color: white;"><i>I disembarked from the plane to take my message to a waiting Kuwaiti government minister.</i></div>
+
+The terrorists who had stormed the Japanese embassy in Kuwait arrived at the airport – and boarded the aircraft fully armed with revolvers and hand grenades. Talking to the Japanese diplomat in Bahasa, which he understood, I persuaded him to insist that they be disarmed before the plane proceeded to its next destination. It was settled that they would keep their side arms but without the bullets – these would be kept in the hold. The Kuwaiti minister would not allow me to speak during their negotiations.
+
+At last came the development we had all been waiting for. The Kuwaiti foreign minister arrived, and told me and my fellow Singaporeans to leave the aircraft. For several hours we were afraid that the hijackers might insist that we be returned to the aircraft as hostages, so we made ourselves scarce. However, that night we were flown safely by Kuwait Airways to Bahrain, and returned home from there on Singapore Airlines. Both groups of terrorists were flown on later to South Yemen.
+
+The whole episode ended without bloodshed. It was good experience for me, the various ministries involved, the security service, the police and the military. While the decision to give the Laju hijackers safe passage out of Singapore attracted some criticism, we believed it was right. We wanted to minimise any likelihood of a terrorist group picking a quarrel with Singapore and seeking retaliation. In government you often have to make difficult decisions about serious problems with little accurate information at your disposal, and under great time pressure.
+|
+![Alt text for image on Isomer site](/images/Vol-12-issue-3/s-r-nathan/05_sr_nathan.jpg)
+|
