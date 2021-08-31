@@ -85,95 +85,96 @@ The National Library’s collection of rare maps is an important source for the 
 <div style="background-color: white;"><i>Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> | G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>|
 
 
+|**SEBASTIAN MUNSTER**|
 
-**Sebastian Münster** (1489-1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
+|Sebastian Münster (1489–1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Portrait_of_the_Cosmographer_Sebastien_Munster_WGA.jpg)
-<div style="background-color: white;">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. <i>Wikimedia Commons</i></div>
-
-
-Münster was widely known for Cosmographia, first published in 1544, which features several woodcut maps illustrated with vignettes and fanciful creatures.[^12] He was also the first to introduce a separate map for each of the four continents - Europe, Africa, Asia and America - known then.[^13]
-
-This map was published in Münster's 1540 <i>Geographia Universalis</i>, which was based on Ptolemy's seminal work <i>Geography</i> but also incorporated new discoveries. Here, unlike earlier maps. Asia is depicted separately from Southeast Asia and the Moluccas (Maluku) is drawn correctly at the west coast of Halmahera. Sumatra is called by both its modern name and its Ptolemaic name of Taprohana. 
-
-The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part of the Peninsula as Malacca, an “exaggeration of the real extent of European influence and control”.[^15] Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula. 
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Inida_extrema.jpg)
-<div style="background-color: white;"><i>India Extrema XIX nova tabula</i> by Sebastian Münster (Basle, 1540).</div>
+|<img  style="height:600px;" src="/images/vol-10-issue-4/raremap/Portrait_of_the_Cosmographer_Sebastien_Munster_WGA.jpg">
+<div style="background-color: white;">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. <i>Wikimedia Commons.</i></div>|
 
 
-**Samuel Thornton** (fl. 1703-39) was an English hydrographer.[^17] His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as Oriental Navigation, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.[^18]
+|Münster was widely known for <i>Cosmographia</i>, first published in 1544, which features several woodcut maps illustrated with vignettes and fanciful creatures.[^12] He was also the first to introduce a separate map for each of the four continents – Europe, Africa, Asia and America – known then.[^13]|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/SamuelThornton_2.jpg)
-<div style="background-color: white;">Portrait of Samuel Thornton by Karl Anton Hickel.<i>Collection of Bank of England</i>.</div>
+|This map was published in Münster's 1540 <i>Geographia Universalis</i>, which was based on Ptolemy's seminal work <i>Geography</i> but also incorporated new discoveries. Here, unlike earlier maps, Asia is depicted separately from Southeast Asia and the Moluccas (Maluku) is drawn correctly at the west coast of Halmahera. Sumatra is called by both its modern name and its Ptolemaic name of Taprohana.|
 
+|The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part of the Peninsula as Malacca, an “exaggeration of the real extent of European influence and control”.[^15] Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula.|
 
-Samuel Thornton took over his brother’s business in 1706 and re-issued the charts under his own name. The above chart is from Samuel Thornton’s re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea passage rather than to the island or city. 
+|![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Inida_extrema.jpg)<div style="background-color: white;"><i>India Extrema XIX nova tabula</i> by Sebastian Münster (Basle, 1540).</div>|
 
-European maps and charts of the 16th and 17th centuries tended to call Singapore by various names and depicted it either as a port, or city, an island, one of the four straits, a cape or promontory, or as the entire southern portion of the Malay Peninsula. [^19]
+|**SAMUEL THORNTON**|
 
-Thornton’s chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.
+|Samuel Thornton (fl. 1703–39) was an English hydrographer.[^17] His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as <i>Oriental Navigation</i>, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.[^18]|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg)
-<div style="background-color: white;">A large chart describeing <i>ye Streights of Malacca and Sincapore</i>, Samuel Thornton (London, circa 1711).</div>
-
-**Jacques Nicolas Bellin** (1703-72) was a French royal hydrographer who created maps for several key publications in the 18th century, such as Prévost’s  <i>L’Histoire Générale des Voyages </i> (1747–61) and  <i>Petit Atlas Maritime (1764) </i>. His son (1745–85), who went by the same name, was an engraver based in Paris.[^20]
-
-The Singapore Straits that connected the Indian Ocean to the South China Sea was an important trade route. What was collectively referred to as the Singapore Straits was actually four maritime arteries (namely the Old Strait, New Strait, Governor’s Strait and the Johor Strait) that were often called by various names and mistaken for one another.  
-
-One of the maps in the collection that perpetuates this confusion is Bellin’s map, which depicts the Johor Strait as the Old Strait of Singapore (Vieux Detroit de Sincapour). The Johor Strait (Selat Tubrau in Portuguese or Selat Tebrau in Malay) refers to the narrow channel between the Malay Peninsula and Singapore. It was often marked as the “Old Strait of Singapore” in late 17th and 18th century maps. Strangely, Bellin’s map shows two islands in the Johor Strait - Salat Buro and Joor. Johor Strait was also known as Salatburo or Salat Tubro. 
-
-Bellin’s map recommends the sea passage through the Singapore Strait for vessels that could sail through the Old Strait and return via the New Strait. However, Bellin’s map erroneously identifies the Old Strait as “Nouveau Detroit de Sincapour” (New Strait of Singapore) and the New Strait as “Detroit du Gouverneu” (Governor’s Strait). 
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Carte.jpg)
-<div style="background-color: white;"><i>Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine</i>, Jacques Nicolas Bellin (Paris, 1755).</div>
+|<img  style="height:600px;" src="/images/vol-10-issue-4/raremap/SamuelThornton_2.jpg">
+<div style="background-color: white;">Portrait of Samuel Thornton by Karl Anton Hickel. <i>Collection of Bank of England</i>.</div>|
 
 
-Bellin's map depicts Singapore island in an unrecognisable shape and calls it "Pulo ou Isle Panjang", one of the early names used for the island. The map also features coastal profiles at its centre.
+|Samuel Thornton took over his brother’s business in 1706 and re-issued the charts under his own name. The chart below is from Samuel Thornton’s re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea passage rather than to the island or city.|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/depicting_asian_people.jpg)
-<div style="background-color: white;">Part of the title cartouche depicting Asian peoples taken from the Covens &amp; Mortier's 1730 map pictured on the opposite page.</div>
+|European maps and charts of the 16th and 17th centuries tended to call Singapore by various names and depicted it either as a port, or city, an island, one of the four straits, a cape or promontory, or as the entire southern portion of the Malay Peninsula. [^19]|
+
+|Thornton’s chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.|
+
+|![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg)
+<div style="background-color: white;">A large chart describeing <i>ye Streights of Malacca and Sincapore</i>, Samuel Thornton (London, circa 1711).</div>|
+
+|**JACQUES NOCOLAS BELLIN**|
+
+|Jacques Nicolas Bellin (1703–72) was a French royal hydrographer who created maps for several key publications in the 18th century, such as Prévost’s  <i>L’Histoire Générale des Voyages </i> (1747–61) and  <i>Petit Atlas Maritime (1764) </i>. His son (1745–85), who went by the same name, was an engraver based in Paris.[^20]|
+
+|The Singapore Straits that connected the Indian Ocean to the South China Sea was an important trade route. What was collectively referred to as the Singapore Straits was actually four maritime arteries (namely the Old Strait, New Strait, Governor’s Strait and the Johor Strait) that were often called by various names and mistaken for one another.|
+
+|One of the maps in the collection that perpetuates this confusion is Bellin’s map, which depicts the Johor Strait as the Old Strait of Singapore (Vieux Detroit de Sincapour). The Johor Strait (Selat Tubrau in Portuguese or Selat Tebrau in Malay) refers to the narrow channel between the Malay Peninsula and Singapore. It was often marked as the “Old Strait of Singapore” in late 17th and 18th century maps. Strangely, Bellin’s map shows two islands in the Johor Strait – Salat Buro and Joor. Johor Strait was also known as Salatburo or Salat Tubro.|
+
+|Bellin’s map recommends the sea passage through the Singapore Strait for vessels that could sail through the Old Strait and return via the New Strait. However, Bellin’s map erroneously identifies the Old Strait as “Nouveau Detroit de Sincapour” (New Strait of Singapore) and the New Strait as “Detroit du Gouverneu” (Governor’s Strait).|
+
+|![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Carte.jpg)
+<div style="background-color: white;"><i>Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine</i>, Jacques Nicolas Bellin (Paris, 1755).</div>|
 
 
+|Bellin's map depicts Singapore island in an unrecognisable shape and calls it "Pulo ou Isle Panjang", one of the early names used for the island. The map also features coastal profiles at its centre.|
 
-**Covens &amp; Mortier** was a successful map printing and publishing firm in Amsterdam, based on the successful business started by Cornelis Mortier’s father, Pierre Mortier, in Paris in the late 17th century. The firm re-issued the maps of several European map-makers until its closure in 1866.[^23]
 
-This wall map shows the trade route from Siam to Batavia and then to Europe through the Sunda Straits. By the mid-17th century, the Dutch East India Company had established a trading post in Siam. This map has illustrations of ships, animals and an elaborate title cartouche that features the various natives of Asia. Maps in the 18th century, besides being a source of geographical information, were also becoming important as collectors’ items. Hence, the use of decorative features was more prominent during this time. 
+|**COVENS &amp; MORTIER**|
+
+|Covens &amp; Mortie was a successful map printing and publishing firm in Amsterdam, based on the successful business started by Cornelis Mortier’s father, Pierre Mortier, in Paris in the late 17th century. The firm re-issued the maps of several European map-makers until its closure in 1866.[^23]|
+
+|This wall map shows the trade route from Siam to Batavia and then to Europe through the Sunda Straits. By the mid-17th century, the Dutch East India Company had established a trading post in Siam. This map has illustrations of ships, animals and an elaborate title cartouche that features the various natives of Asia. Maps in the 18th century, besides being a source of geographical information, were also becoming important as collectors’ items. Hence, the use of decorative features was more prominent during this time.|
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Sincapour.jpg)
-<div style="background-color: white;">L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</div>
+<div style="background-color: white;"><i>L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour</i>, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</div>
 
 
 
 
-**Makeswary Periasamy** is a Senior Librarian with the National Library of Singapore. She selects and acquires rare materials for the National Library and also overseas the map collections of the library. Makeswary has several years of experience in cataloguing, heritage collections management, reference and research, as well as in managing large-scale preservation projects.
+<p style="font-size:15px;"><b>Makeswary Periasamy</b> is a Senior Librarian with the National Library of Singapore. She selects and acquires rare materials for the National Library and also overseas the map collections of the library. Makeswary has several years of experience in cataloguing, heritage collections management, reference and research, as well as in managing large-scale preservation projects.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 
 #### **REFERENCES**
 
-Bagrow, l. (1964). [History of cartography.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375) London: Watts. (Call no.: R 912.09 BAG)
+Bagrow, l. (1964). *[History of cartography.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375) London: Watts. (Call no.: R 912.09 BAG)
 
-Borschberg, P. (2010).  [The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century. ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095) Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
+Borschberg, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century. ]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095) Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
 
-Burnet, I. (2011).  [Spice islands. ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13978957) Kenthurst, N.S.W.: Rosenberg Publishing. (Call no.: RSEA 380.141383 BUR)
+Burnet, I. (2011).  *[Spice islands. ]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=13978957) Kenthurst, N.S.W.: Rosenberg Publishing. (Call no.: RSEA 380.141383 BUR)
 
-Fell, R.T. (1991). [Early maps of South-East Asia. Singapore: Oxford University Press.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5966956) (Call no.: RSING 912.59 FEL)
+Fell, R.T. (1991). *[Early maps of South-East Asia. Singapore: Oxford University Press.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=5966956) (Call no.: RSING 912.59 FEL)
 
-National Library of Australia. (2013).[ Mapping our world: Terra Incognita to Australia.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200573681) Canberra: National Library of Australia. (Call no.: R 912.94074 MAP)
+National Library of Australia. (2013).*[ Mapping our world: Terra Incognita to Australia.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=200573681) Canberra: National Library of Australia. (Call no.: R 912.94074 MAP)
 
-Parry, D.E. (2005). [The cartography of the east indian Islands = Insulae Indiae Orientalis.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569) London: Country Editions. (Call no.: RSING q912.59 PAR)
+Parry, D.E. (2005). *[The cartography of the east indian Islands = Insulae Indiae Orientalis.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569) London: Country Editions. (Call no.: RSING q912.59 PAR)
 
-Shirley, R.W. (1984). The mapping of the world: Early printed world maps, 1472–1700. London: Holland Press. (Not available in NLB holdings)
+Shirley, R.W. (1984). *The mapping of the world: Early printed world maps, 1472–1700*. London: Holland Press. (Not available in NLB holdings)
 
-Speake, J. (Ed.). (2003). [Literature of travel and exploration: An encyclopedia. ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10934077)New York: Fitzroy Dearborn. (Call no.: R q910.403 LIT)
+Speake, J. (Ed.). (2003). *[Literature of travel and exploration: An encyclopedia. ]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=10934077)New York: Fitzroy Dearborn. (Call no.: R q910.403 LIT)
 
-Stefoff, R. (1995). [The British Library companion to maps and mapmaking. London: British Library.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384) (Call no.: R 912.03 STE)
+Stefoff, R. (1995). *[The British Library companion to maps and mapmaking. London: British Library.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384) (Call no.: R 912.03 STE)
 
-Suarez, T. (1999). [Early mapping of Southeast Asia. Hong Kong: Periplus Editions.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316) (Call no.: RSING q912.59 SUA)
+Suarez, T. (1999). *[Early mapping of Southeast Asia. Hong Kong: Periplus Editions.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316) (Call no.: RSING q912.59 SUA)
 
-Tooley, R.V. (1979). Tooley’s dictionary of mapmakers. Hertfordshire: Map Collector Publications. (Not available in NLB holdings)
+Tooley, R.V. (1979). *Tooley’s dictionary of mapmakers.* Hertfordshire: Map Collector Publications. (Not available in NLB holdings)
 
 #### **NOTES**
 
@@ -181,7 +182,7 @@ Tooley, R.V. (1979). Tooley’s dictionary of mapmakers. Hertfordshire: Map Coll
 [^1]:  Bagrow, l. (1964). *[History of cartography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375)* (p. 125). London: Watts. (Call no.: R 912.09 BAG)
 
 
-[^2]: Shirley, R.W. (1984). The mapping of the world: Early printed world maps, 1472–1700 (pp. xxvii–xxviii). London: Holland Press. (Not available in NLB holdings)
+[^2]: Shirley, R.W. (1984). *The mapping of the world: Early printed world maps, 1472–1700* (pp. xxvii–xxviii). London: Holland Press. (Not available in NLB holdings)
 
 [^3]:Suarez, T. (1999). *[Early mapping of Southeast Asia] (https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*(p. 130). Hong Kong: Periplus Editions. (Call no.: RSING q912.59 SUA)
 
@@ -193,27 +194,27 @@ Tooley, R.V. (1979). Tooley’s dictionary of mapmakers. Hertfordshire: Map Coll
 
 [^7]:Speake, J. (Ed.). (2003). *[Literature of travel and exploration: An encyclopedia ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10934077)*(pp. 134–136). New York: Fitzroy Dearborn. (Call no.: R q910.403 LIT)
 
-[^8]:Parry, D.E. (2005). *[The cartography of the east indian Islands = Insulae Indiae Orientalis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569)* (pp. 87–90). London: Country Editions. (Call no.: RSING q912.59 PAR); *[Speake](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10934077)*, 2003, p. 135.
+[^8]:Parry, D.E. (2005). *[The cartography of the east indian Islands = Insulae Indiae Orientalis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569)* (pp. 87–90). London: Country Editions. (Call no.: RSING q912.59 PAR); [Speake](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10934077), 2003, p. 135.
 
-[^9]: *[Suarez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*, 1999, pp. 180–181.
+[^9]: [Suarez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316), 1999, pp. 180–181.
 
-[^10]: *[Parry](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569)*, 2005, p. 90.
+[^10]: [Parry](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569), 2005, p. 90.
 
-[^11]: *[Stefoff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384)*, 1995, pp. 134–136.
+[^11]: [Stefoff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384), 1995, pp. 134–136.
 
-[^12]: *[Stefoff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384)*, 1995, p. 136.
+[^12]: [Stefoff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384), 1995, p. 136.
 
 [^13]: Shirley, 1984, pp. 86–87.
 
-[^14]:  *[Suarez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*, 1999, pp. 127–129.
+[^14]:  [Suarez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316), 1999, pp. 127–129.
 
 [^15]: Fell, R.T. (1991).*[ Early maps of South-East Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5966956)* (p. 28). Singapore: Oxford University Press. (Call no.: RSING 912.59 FEL)
 
 [^16]:  Burnet, I. (2011). *[Spice islands](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13978957)* (p. 46). Kenthurst, N.S.W.: Rosenberg Publishing. (Call no.: RSEA 380.141383 BUR)
 
-[^17]: Tooley, R.V. (1979). Tooley’s dictionary of mapmakers (p. 619). Hertfordshire: Map Collector Publications. (Not available in NLB holdings)
+[^17]: Tooley, R.V. (1979). *Tooley’s dictionary of mapmakers* (p. 619). Hertfordshire: Map Collector Publications. (Not available in NLB holdings)
 
-[^18]: *[Suarez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*, 1999, p. 209.
+[^18]: [Suarez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316), 1999, p. 209.
 
 [^19]: Borschberg, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)* (p. 49). Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
 
@@ -221,7 +222,7 @@ Tooley, R.V. (1979). Tooley’s dictionary of mapmakers. Hertfordshire: Map Coll
 
 [^21]:  Shirley, 1984, pp. xxxviii–xxxix.
 
-[^22]:  *[Bagrow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375)*, 1964, p. 132.
+[^22]:  [Bagrow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375), 1964, p. 132.
 
 [^23]: Tooley, 1979, p. 135.
 
