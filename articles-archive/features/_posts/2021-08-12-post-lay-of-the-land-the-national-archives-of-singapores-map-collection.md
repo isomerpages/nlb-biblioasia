@@ -106,7 +106,8 @@ From the 1980s onwards, computerisation and digitisation of mapping emerged as n
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1955_Electoral_Map.jpg)
 <div style="background-color: white;">An electoral division map for the 1955 Legislative Assembly general election. This was a landmark event in Singapore's political history in which the majority of members in the governing Legislative Assembly would be elected rather than appointed by British colonial authorities. It set the stage for Singapore's achievement of self-government in 1959. <i>Singapore Land Authority, courtesy of National Archives of Singapore. </i></div>
 
-</br></br>
+<br>
+
 |**The National Archives of Singapore Map Collection** can be viewed and accessed on its public database Archives Online:| 
 
 |http://wuw.nas.gov.sg/archivesonline/maps_building_plans/ |
