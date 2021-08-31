@@ -4,7 +4,6 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/geographic
 layout: post
 ---
-
 #### “GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015. **Tan Huism** explains why you should not miss this event.
 
 "You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel *The Mapmaker's Wad.*[^1]
@@ -110,7 +109,8 @@ Sherman Ong is a filmmaker, photographer and visual artist whose practice centre
 <img src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
 </div>
 
-**Tan Huism** is Head of Exhibitions and Curation at the National Library of Singapore. She started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.
+<p style="font-size:15px;"><b>Tan Huism</b> is Head of Exhibitions and Curation at the National Library of Singapore. She started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</p>
+
 
 <a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
