@@ -47,7 +47,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]|
 
-|<img  style="height:600px;" src="/images/vol-10-issue-4/raremap/test.jpg"><div style="background-color: white;">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i></div>|
+|<img   style="height:500px;" src="/images/vol-10-issue-4/raremap/test.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i>|
 
 
 |Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula.|
