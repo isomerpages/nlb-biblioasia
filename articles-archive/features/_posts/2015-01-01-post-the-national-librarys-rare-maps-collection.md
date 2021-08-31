@@ -34,20 +34,18 @@ The National Library’s collection of rare maps is an important source for the 
 
 |**GIACOMO GASTALDI**|
 
-|<img src="/images/vol-10-issue-4/raremap/gerard.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. *Wikimedia Commons.*|
+
 
 |Giacomo Gastaldi (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
 
-<img  src="/images/vol-10-issue-4/raremap/gerard.jpg">
-<div style="background-color: white;">     Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.</div>
+|<img src="/images/vol-10-issue-4/raremap/gerard.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. *Wikimedia Commons.*|
 
 |Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3]|
 
 
 |Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Terza_tavola.jpg)
-<div style="background-color: white;"><i>Terza Tavola</i>, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</div>
+|<img src="/images/vol-10-issue-4/raremap/Terza_tavola.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.|
 
 <br>
 
@@ -55,10 +53,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]|
 
-<div style="background-color: white;">
-<br/>
-<img  src="/images/vol-10-issue-4/raremap/Abraham.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i></div>
-
+|<img src="/images/vol-10-issue-4/raremap/Abraham.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. *Wikimedia Commons*|
 
 |Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula.|
 
@@ -66,8 +61,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |First produced in 1570, Ortelius' atlas was reprinted in various European languages.|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Indiae_orientalis.jpg)
-<div style="background-color: white;"><i>Indiae orientalis, insularumque adiacientium typus,</i> Abraham Ortelius (Antwerp, 1579)</div>
+|<img src="/images/vol-10-issue-4/raremap/Indiae_orientalis.jpg">*Indiae orientalis, insularumque adiacientium typus,* Abraham Ortelius (Antwerp, 1579)|
 
 <br>
 
@@ -75,10 +69,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Theodore de Bry (1528–98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.[^7]|
 
-
-<img  src="/images/vol-10-issue-4/raremap/theodor.jpg">
-<div style="background-color: white;">A portrait of Theodore de Bry. <i>Wikimedia Commons.</i></div>
-
+|<img src="/images/vol-10-issue-4/raremap/theodor.jpg">A portrait of Theodore de Bry. *Wikimedia Commons.*|
 
 |He is famous for compiling a well-illustrated collection of voyages and travels to the East and West Indies, which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.[^8]|
 
@@ -90,8 +81,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Nova_tabula.jpg)
-<div style="background-color: white;"><i>Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>
+|<img src="/images/vol-10-issue-4/raremap/Nova_tabula.jpg">*Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta* l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).|
 
 <br>
 
@@ -99,9 +89,8 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Sebastian Münster (1489–1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
 
-<img  src="/images/vol-10-issue-4/raremap/sebastien.jpg">
-<div style="background-color: white;">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. <i>Wikimedia Commons.</i></div>
 
+|<img src="/images/vol-10-issue-4/raremap/sebastien.jpg">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. *Wikimedia Commons.*|
 
 |Münster was widely known for <i>Cosmographia</i>, first published in 1544, which features several woodcut maps illustrated with vignettes and fanciful creatures.[^12] He was also the first to introduce a separate map for each of the four continents – Europe, Africa, Asia and America – known then.[^13]|
 
@@ -109,8 +98,8 @@ The National Library’s collection of rare maps is an important source for the 
 
 |The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part of the Peninsula as Malacca, an “exaggeration of the real extent of European influence and control”.[^15] Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula.|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Inida_extrema.jpg)
-<div style="background-color: white;"><i>India Extrema XIX nova tabula</i> by Sebastian Münster (Basle, 1540).</div>
+
+|<img src="/images/vol-10-issue-4/raremap/Inida_extrema.jpg">*India Extrema XIX nova tabula* by Sebastian Münster (Basle, 1540).|
 
 <br>
 
@@ -118,9 +107,8 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Samuel Thornton (fl. 1703–39) was an English hydrographer.[^17] His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as <i>Oriental Navigation</i>, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.[^18]|
 
-<img src="/images/vol-10-issue-4/raremap/thornton.jpg">
-<div style="background-color: white;">Portrait of Samuel Thornton by Karl Anton Hickel. <i>Collection of Bank of England</i>.</div>
 
+|<img src="/images/vol-10-issue-4/raremap/thornton.jpg">Portrait of Samuel Thornton by Karl Anton Hickel. *Collection of Bank of England*.|
 
 |Samuel Thornton took over his brother’s business in 1706 and re-issued the charts under his own name. The chart below is from Samuel Thornton’s re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea passage rather than to the island or city.|
 
@@ -128,8 +116,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Thornton’s chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg)
-<div style="background-color: white;">A large chart describeing <i>ye Streights of Malacca and Sincapore</i>, Samuel Thornton (London, circa 1711).</div>
+|<img src="/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg">A large chart describeing *ye Streights of Malacca and Sincapore*, Samuel Thornton (London, circa 1711).|
 
 <br>
 
@@ -143,9 +130,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Bellin’s map recommends the sea passage through the Singapore Strait for vessels that could sail through the Old Strait and return via the New Strait. However, Bellin’s map erroneously identifies the Old Strait as “Nouveau Detroit de Sincapour” (New Strait of Singapore) and the New Strait as “Detroit du Gouverneu” (Governor’s Strait).|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Carte.jpg)
-<div style="background-color: white;"><i>Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine</i>, Jacques Nicolas Bellin (Paris, 1755).</div>
-
+|<img src="/images/vol-10-issue-4/raremap/Carte.jpg">*Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine*, Jacques Nicolas Bellin (Paris, 1755).|
 
 |Bellin's map depicts Singapore island in an unrecognisable shape and calls it "Pulo ou Isle Panjang", one of the early names used for the island. The map also features coastal profiles at its centre.|
 
@@ -157,8 +142,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |This wall map shows the trade route from Siam to Batavia and then to Europe through the Sunda Straits. By the mid-17th century, the Dutch East India Company had established a trading post in Siam. This map has illustrations of ships, animals and an elaborate title cartouche that features the various natives of Asia. Maps in the 18th century, besides being a source of geographical information, were also becoming important as collectors’ items. Hence, the use of decorative features was more prominent during this time.|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Sincapour.jpg)
-<div style="background-color: white;"><i>L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour</i>, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</div>
+|<img src="/images/vol-10-issue-4/raremap/Sincapour.jpg">*L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour*, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).|
 
 <p style="font-size:15px;"><b>Makeswary Periasamy</b> is a Senior Librarian with the National Library of Singapore. She selects and acquires rare materials for the National Library and also overseas the map collections of the library. Makeswary has several years of experience in cataloguing, heritage collections management, reference and research, as well as in managing large-scale preservation projects.</p>
 
