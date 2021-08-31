@@ -21,7 +21,7 @@ Among the Asian journalists were at least four Singaporeans – Chin Kah Chong, 
 
 ##### **Chin Kah Chong**
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v1.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v1.JPG">
 <div style="background-color: white;">Chin Kah Chong at the 17th Parallel, the Vietnamese Demilitarised Zone (DMZ), 1965. Photo taken by Sam Kai Faye. <i>Courtesy of Chin Kah Chong.</i></div>
 
 Born in Singapore in 1931, Chin Kah Chong began writing for several news outlets from the early 1950s. He started out as an intern for the Chinese newspaper *Chung Shing Jit Poh* and a number of other Chinese papers, and also did a three-month stint in Kuala Lumpur.
@@ -30,7 +30,7 @@ When Chin set foot in Saigon in 1954, it was by accident rather than design. He 
 
 When Chin was covering the Bandung Conference in April 1955, he met Hawaii-born and Hong Kong-based journalist Norman Soong, who had founded the Pan Asian News Agency (PANA) as an independent international news agency “of Asians, by Asians, for Asians”.[^6] Chin was offered the job to manage and write for the agency’s Chinese-language news service based in Singapore.
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v2.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v2.JPG">
 <div style="background-color: white;">Chin Kah Chong returning from a visit to the US airbase in Pleiku, 1965. Photo was taken by the legendary French photographer Henri Huet who later died in a helicopter crash over Laos in 1971. Terry Khoo was supposed to be on the helicopter but he had given up his place to Huet whom he respected as a senior photographer. <i>Courtesy of Chin Kah Chong.</i></div>
 
 One of Chin’s first major assignments for PANA was the Baling Talks on 28 December 1955, which brought together Tunku Abdul Rahman, Chief Minister of the Federation of Malaya; David Marshall, Chief Minister of Singapore; and Chin Peng, leader of the Malayan Communist Party, to discuss amnesty. In 1956, PANA sent him to Saigon for five months to cover the unifying national elections that had been established by the Geneva Accords of 1954.[^7] Thus began his two-decade-long coverage of the Vietnam War, shuttling between Singapore and Saigon.
@@ -55,7 +55,7 @@ Born in 1924 in Penang, Sam came to Singapore to work for *The Straits Times* fr
 
 After leaving the newspaper, Sam struck out on his own as a freelance photographer and shared office space with PANA, where Chin was the bureau chief. As PANA did not have its own staff photographers, it frequently used Sam for assignments.
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v3.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v3.JPG">
 <div style="background-color: white;">An undated photo of Viet Cong prisoners. Photo taken by Terry Khoo. <i>Image reproduced from Fass, H., & Page, T. (Eds.) (1997). Requiem: By the Photographers who Died in Vietnam and Indochina (p. 258). New York: Random House. (Call no.: RSEA q959.7043 REQ-WAR])</i></div>
 
 Khoo, who worked at *The Straits Times* from 1954 to 1956, was 12 years younger than Sam. But despite the age difference, they became best friends with Sam taking Khoo under his wing in the newsroom. Khoo would often visit Sam at the PANA office; soon, Khoo began taking on assignments for the agency.
@@ -74,7 +74,7 @@ Among the Asian journalists, Khoo was looked upon as a leader and mentor, especi
 
 Khoo’s ability to remain cool and calm under pressure also earned him great respect among his peers. In Cambodia, where the situation was far more unpredictable and dangerous, Khoo and his ABC News colleagues – American correspondent Steve Bell and Japanese soundman Takayuki Senzaki – were once captured by an insurgent patrol and held for several hours in an area several kilometres outside of Phnom Penh. Khoo managed to talk his way out of the situation and even offered himself up as hostage when the insurgents wanted to hold Steve Bell. Luckily for everyone, the leader changed his mind and let them all go free.
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v4.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v4.JPG">
 <div style="background-color: white;">ABC crew Sam Kai Faye, Don Baker, Hoang Dinh De (soundman) and an unnamed person on board US aircraft carrier, <i>USS Coral Sea, c. 1967. Courtesy of Sam Yoke Tatt.</i></div>
 
 An incident in early June 1972 in the besieged town of An Loc, in southeastern Vietnam, demonstrated the kind of person Khoo was. When Khoo and ABC News correspondent Howard Tuckner arrived in An Loc, they found it littered with dead bodies as well as numerous wounded American soldiers waiting to be evacuated by helicopter.
@@ -83,7 +83,7 @@ After completing their assignment, Khoo and Tuckner were supposed to return by h
 
 Staying an unplanned night in An Loc could have cost them their lives and their exclusive report but they made the decision to stay. For his bravery, skill and generous spirit, Khoo was dubbed “The Dean of the Vietnam Cameramen”.
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v5.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v5.JPG">
 <div style="background-color: white;">Terry Khoo with Tony Hirashiki (ABC News cameraman) in Quang Tri in July 1972, 10 days before Khoo and Sam Kai Faye were killed on 20 July. According to Hirashiki, they seldom took photos together at the frontline and this was one of the few rare photos of them together in the field. On the far left is a South Vietnamese soldier. <i>Courtesy of Chin Kah Chong.</i></div>
 
 Sam Kai Faye, who had left for Saigon in the late 1960s, started as a freelance cameraman for ABC News, but soon became a permanent member of the team. Sam Yoke Tatt, Sam Kai Faye’s only nephew, remembers his uncle as a calm, mild-mannered man with an adventurous streak. It was this sense of adventure that drew him to cover the Vietnam War, despite the obvious dangers.
@@ -94,7 +94,7 @@ Among the many assignments that Sam took on for ABC News was one on a B-52 bombi
 
 Both Khoo and Sam were described by Kevin Delany, ABC News bureau chief, as “tough and courageous Singapore Chinese who had produced years of combat footage”.[^18]
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v6.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v6.JPG">
 <div style="background-color: white;">A gathering of friends at the home of ABC News cameraman Tony Hirashiki, which was located on Pasteur Street in Saigon, c. 1971. From left: Terry Khoo (seated on the floor), Sam Kai Faye, Tony Hirashiki, Mrs Hirashiki, Mrs Morita and Koichiro Morita (AP photograher). The Asian photographers and camera crew used to gather at Khoo’s or Hirashiki’s home. <i>Courtesy of Chin Kah Chong.</i></div>
 
 #### **It’s All Fate Anyway…**
@@ -109,7 +109,7 @@ Yasutsune “Tony” Hirashiki, a renowned ABC News cameraman and Khoo’s best 
 
 Some time in mid-July 1972, Khoo returned to Saigon after a vacation in Hong Kong and was supposed to remain there in preparation for his imminent departure to Bonn. Instead of remaining in Saigon, Khoo told his bureau chief Kevin Delany that he needed a few more photographs for an unfinished feature story and left for Hue on 15 July.
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v7.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v7.JPG">
 <div style="background-color: white;">Terry Khoo in a helicopter wearing army fatigues and carrying a still camera during a mission in Laos, c. 1971. <i>Courtesy of Chin Kah Chong.</i></div>
 
 On 18 July, Korean cameraman In Jip Choi was supposed to relieve Khoo in Hue. As Choi was nursing a nasty cold, Delany asked Sam to go in Choi’s place. The plan was for Choi to take over from Sam once he was feeling better. Together with newly minted news correspondent Arnie Collins, Sam arrived in Hue on 20 July to replace the crew consisting of Khoo, Korean soundman T.H. Lee and veteran American correspondent Jim Bennett.
@@ -136,7 +136,7 @@ In memory of both men, ABC News set up a two-year fellowship in the name of Tere
 
 The fourth Singaporean journalist in Vietnam was Chellapah Canagaratnam, nicknamed Charlie or Charles Chellapah by the Americans. He was born in Singapore in 1940, the fourth child in a family of 10.[^24]
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v8.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v8.JPG">
 <div style="background-color: white;">Charlie Chellapah stepping off a US military helicopter, c. 1963. <i>Courtesy of the Canagaratnam family.</i></div>
 
 Chellapah arrived in Saigon in January 1965.[^25] Although Chin, Khoo and Sam were in South Vietnam at around the same time that Chellapah was there, there is no evidence that the trio met Chellapah in Saigon or that they were even acquainted with him.
@@ -151,7 +151,7 @@ During the mission, a Viet Cong mine was set off. As Chellapah scrambled towards
 
 Chellapah was the third Associated Press photographer to die in Vietnam in less than a year, and Horst Faas had to report the circumstances of his death to the president of the company. According to Faas, Chellapah’s last roll of film showed how he was in the thick of the action.
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v9.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v9.JPG">
 <div style="background-color: white;">Charlie Chellapah in the field, 1963/64. <i>Courtesy of the Canagaratnam family.</i></div>
 
 He said, “Here are the last pictures by photographer Charlie Chellapah… This last roll of film was released by the authorities today along with his other personal effects. The pictures reveal, better than any words could, how close Chellapah was to the action up to the moment of his death.”[^30] The last photograph taken by him shows an American soldier holding a seriously wounded comrade.[^31]
