@@ -224,32 +224,17 @@ Their consummate professionalism, their selfless courage, and their unstinting g
 [^18]:Delany, K. (2006, September). The Saigon I left behind. *Williams Alumni Review*. Retrieved from Williams College website.
 [^19]:Author’s interview with Chin Kah Chong in March 2011 for the Requiem exhibition held in Singapore from 13 June to 21 August 2011.
 [^20]:[Hirashiki](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202837150), 2017, p. 289
-[^21]:
-[^22]:
-[^23]:
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
-[^30]:
-[^31]:
-[^32]:
-[^33]:
-[^34]:
-
-Hirashiki, 2017, pp. 289–290.
-Delany, Sep 2006.
-Hirashiki, 2017, p. 272.
-Author’s interview with the Chellapah family in April 2011 for the Requiem exhibition held in Singapore from 13 June to 21 August 2011.
-Nag, N. (Ed.). (2016). Inspirations of a nation: Tribute to 25 Singaporean South Asians (p. 30). Singapore: World Scientific Publishing Co Pte Ltd. (Call no.: RSING 305.8914105957)
-Author’s interview with the Chellapah family in April 2011 for the Requiem exhibition held in Singapore from 13 June to 21 August 2011; Nag, 2016, p. 32.
-Tay, K.C. (1997, December 6). ‘I’m OK.’ Moments later, he was shot. The Straits Times, p. 28. Retrieved from NewspaperSG.
-During the Vietnam War, the tunnels were used by Viet Cong soldiers as hiding spots during combat. These also served as communication and supply routes, hospitals, food and weapon caches and even living quarters for the soldiers. The tunnels were instrumental to the Viet Cong in their fight against the American forces and helped to counter the growing American military effort. The 121-kilometre-long Cu Chi Tunnels are a popular tourist attraction today.
-Oral interview with the Chellapah family in April 2011 for the Requiem exhibition held in Singapore from 13 June to 21 August 2011.
-Fass & Page, 1997, p. 174.
-Chellapah, C. (1966, February 14). Vietnam War photographer’s last photo. Retrieved from Associated Press website.
-Nag, 2016, p. 31.
-Author’s interview with the Chellapah family in April 2011 for the Requiem exhibition held in Singapore from 13 June to 21 August 2011.
-Nag, 2016, p. 32.
+[^21]:[Hirashiki](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202837150), 2017, pp. 289–290.
+[^22]:Delany, Sep 2006.
+[^23]:[Hirashiki](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202837150), 2017, p. 272.
+[^24]:Author’s interview with the Chellapah family in April 2011 for the Requiem exhibition held in Singapore from 13 June to 21 August 2011.
+[^25]:Nag, N. (Ed.). (2016). [*Inspirations of a nation: Tribute to 25 Singaporean South Asians*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202404848) (p. 30). Singapore: World Scientific Publishing Co Pte Ltd. (Call no.: RSING 305.8914105957)
+[^26]:Author’s interview with the Chellapah family in April 2011 for the Requiem exhibition held in Singapore from 13 June to 21 August 2011; [Nag](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202404848), 2016, p. 32.
+[^27]:Tay, K.C. (1997, December 6). [‘I’m OK.’ Moments later, he was shot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971206-1.2.118.28.4). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
+[^28]:During the Vietnam War, the tunnels were used by Viet Cong soldiers as hiding spots during combat. These also served as communication and supply routes, hospitals, food and weapon caches and even living quarters for the soldiers. The tunnels were instrumental to the Viet Cong in their fight against the American forces and helped to counter the growing American military effort. The 121-kilometre-long Cu Chi Tunnels are a popular tourist attraction today.
+[^29]:Oral interview with the Chellapah family in April 2011 for the Requiem exhibition held in Singapore from 13 June to 21 August 2011.
+[^30]:[Fass & Page](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14298674), 1997, p. 174.
+[^31]:Chellapah, C. (1966, February 14). *Vietnam War photographer’s last photo*. Retrieved from Associated Press website.
+[^32]:[Nag](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202404848), 2016, p. 31.
+[^33]:Author’s interview with the Chellapah family in April 2011 for the Requiem exhibition held in Singapore from 13 June to 21 August 2011.
+[^34]:[Nag](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202404848), 2016, p. 32.
