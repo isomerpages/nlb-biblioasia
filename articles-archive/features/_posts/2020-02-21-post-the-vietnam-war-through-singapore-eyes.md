@@ -76,3 +76,59 @@ Khoo’s ability to remain cool and calm under pressure also earned him great re
 
 <img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v4.JPG">
 <div style="background-color: white;">ABC crew Sam Kai Faye, Don Baker, Hoang Dinh De (soundman) and an unnamed person on board US aircraft carrier, <i>USS Coral Sea, c. 1967. Courtesy of Sam Yoke Tatt.</i></div>
+
+An incident in early June 1972 in the besieged town of An Loc, in southeastern Vietnam, demonstrated the kind of person Khoo was. When Khoo and ABC News correspondent Howard Tuckner arrived in An Loc, they found it littered with dead bodies as well as numerous wounded American soldiers waiting to be evacuated by helicopter.
+
+After completing their assignment, Khoo and Tuckner were supposed to return by helicopter to Saigon that same day. However, instead of boarding the only helicopter of the day, the two men elected to give up their seats to severely wounded soldiers in need of urgent medical attention.
+
+Staying an unplanned night in An Loc could have cost them their lives and their exclusive report but they made the decision to stay. For his bravery, skill and generous spirit, Khoo was dubbed “The Dean of the Vietnam Cameramen”.
+
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v5.JPG">
+<div style="background-color: white;">Terry Khoo with Tony Hirashiki (ABC News cameraman) in Quang Tri in July 1972, 10 days before Khoo and Sam Kai Faye were killed on 20 July. According to Hirashiki, they seldom took photos together at the frontline and this was one of the few rare photos of them together in the field. On the far left is a South Vietnamese soldier. <i>Courtesy of Chin Kah Chong.</i></div>
+
+Sam Kai Faye, who had left for Saigon in the late 1960s, started as a freelance cameraman for ABC News, but soon became a permanent member of the team. Sam Yoke Tatt, Sam Kai Faye’s only nephew, remembers his uncle as a calm, mild-mannered man with an adventurous streak. It was this sense of adventure that drew him to cover the Vietnam War, despite the obvious dangers.
+
+From 1959 until the time he left for Vietnam, Sam and his brother Kai Yee ran a photography business in Singapore called Sam Brothers Photographers, doing commercial, event and editorial photography work. According to Sam Yoke Tatt, Khoo, who had already established himself in Saigon, persuaded Sam Kai Faye to leave Singapore to join him at ABC News as a cameraman, although Sam was more of a stills photographer. Once in Vietnam, Khoo helped Sam familiarise himself with the film camera, which Sam quickly mastered.16
+
+Among the many assignments that Sam took on for ABC News was one on a B-52 bombing mission over North Vietnam. His nephew, Yoke Tatt, said that Sam had received a certificate from the American military when the mission was completed.17
+
+Both Khoo and Sam were described by Kevin Delany, ABC News bureau chief, as “tough and courageous Singapore Chinese who had produced years of combat footage”.18
+
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v6.JPG">
+<div style="background-color: white;">A gathering of friends at the home of ABC News cameraman Tony Hirashiki, which was located on Pasteur Street in Saigon, c. 1971. From left: Terry Khoo (seated on the floor), Sam Kai Faye, Tony Hirashiki, Mrs Hirashiki, Mrs Morita and Koichiro Morita (AP photograher). The Asian photographers and camera crew used to gather at Khoo’s or Hirashiki’s home. <i>Courtesy of Chin Kah Chong.</i></div>
+
+#### **It’s All Fate Anyway…**
+
+In late 1971, Chin met with Khoo and Sam in Saigon for what would be the last time all three would be together. Chin was with Sam in his hotel room, chatting about the situation in Vietnam and the future. Khoo had not arrived as he was delayed by the curfew, which took place regularly after dark in Saigon.19
+
+Chin remembered Sam saying that he was feeling more and more afraid of the situation. The Viet Cong forces were becoming better armed, and the fighting was getting more intense. Sam told Chin that he wanted to call it a day and return to Singapore.
+
+Khoo joined them after midnight and, like Sam, also felt that it was time to leave. That night, the three Singaporeans talked about their future into the wee hours of the morning.
+
+Yasutsune “Tony” Hirashiki, a renowned ABC News cameraman and Khoo’s best friend in Vietnam, wrote in his memoir, *On the Frontlines of the Television War: A Legendary War Cameraman in Vietnam*, about Khoo’s growing anxiety over their safety in Vietnam. Khoo told Hirashiki that he had accepted a transfer to ABC’s bureau in Bonn, Germany. The Singaporean had become engaged to Winnie Ng, a secretary in ABC’s Hong Kong office, and he was looking forward to getting married and starting a new life with her.
+
+Some time in mid-July 1972, Khoo returned to Saigon after a vacation in Hong Kong and was supposed to remain there in preparation for his imminent departure to Bonn. Instead of remaining in Saigon, Khoo told his bureau chief Kevin Delany that he needed a few more photographs for an unfinished feature story and left for Hue on 15 July.
+
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v7.JPG">
+<div style="background-color: white;">Terry Khoo in a helicopter wearing army fatigues and carrying a still camera during a mission in Laos, c. 1971. <i>Courtesy of Chin Kah Chong.</i></div>
+
+On 18 July, Korean cameraman In Jip Choi was supposed to relieve Khoo in Hue. As Choi was nursing a nasty cold, Delany asked Sam to go in Choi’s place. The plan was for Choi to take over from Sam once he was feeling better. Together with newly minted news correspondent Arnie Collins, Sam arrived in Hue on 20 July to replace the crew consisting of Khoo, Korean soundman T.H. Lee and veteran American correspondent Jim Bennett.
+
+In Hue, Khoo heard a rumour that a North Vietnamese tank had been spotted west of Highway One, between Hue and Quang Tri City, located south of the demilitarised zone. Quang Tri was the site of the bloody Easter Offensive of 1972 during which the North Vietnamese an effort to gain territory. The fighting began on 31 March and continued until 22 October that year.
+
+Never one to miss a story, Khoo insisted on checking out the situation although having completed his last assignment, he was supposed to be on his way back to Saigon. On 20 July, Khoo, Sam, T.H. Lee and South Vietnamese Army photographer Tran Van Nghia headed to an open field near Highway One where fighting was reported to have occurred.
+
+Moving into the deceptively quiet field with their heavy camera equipment, the men were suddenly caught by sniper fire, which hit Sam. Everyone quickly dived for cover. Lee asked Khoo, “Are you all right?” to which Khoo replied, “I’m ok but Sam has been hit.”20
+
+When a second attack happened, Lee heard Khoo moaning in pain. Tran was also injured but Lee, who was trained in martial arts, managed to roll along the ground until he reached the edge of the field near the road and escape to safety.
+
+The heavy fighting continued with Khoo, Sam and Tran caught in the crossfire. A US reconnaissance plane later saw Khoo and Sam lying motionless, side by side on the ground, but could not confirm if they were dead or alive. After three days of heavy shooting, their bodies were finally retrieved. Hirashiki and Delany had to identify the bodies.21
+
+In 2006, Delany wrote, “It was clearly the low point of my stay in Vietnam. Heavy fighting had continued in the area of ambush for three days after they went down, and by the time another cameraman and I were able to travel to the scene, we had trouble identifying their remains.”22
+
+According to Chin, the hospital in Saigon had instructed that the coffins remained closed during Khoo’s and Sam’s funeral service in Singapore.
+
+Following the deaths of his two good friends, Chin recalled that Khoo had once said, “When I die, I’ll surely go to heaven, because I’ve already been to hell,” a reference to his experiences during the war. ABC News correspondent Arnie Collins, who was with Khoo and Sam before they left on their fateful assignment, recounted Khoo’s last words after warnings for them to be careful: “It’s all fate anyway, baby, so play it cool.”23
+
+In memory of both men, ABC News set up a two-year fellowship in the name of Terence Khoo and Sam Kai Faye for Asian students studying at Columbia University’s Graduate School of Journalism. Khoo also bequeathed a third of his insurance money of $62,500 to the University of Singapore (now National University of Singapore). Yearly awards of $1,300 were given to medical students from low-income families.
+
