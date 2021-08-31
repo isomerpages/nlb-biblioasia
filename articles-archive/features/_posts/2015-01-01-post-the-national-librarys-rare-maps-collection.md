@@ -16,7 +16,7 @@ The Portuguese were the first Europeans to discover a sea route to Asia in the l
 
 The first printed maps of Southeast Asia, however, were produced by Italian and German map-makers from the late 1470s onwards – even before the Portuguese and Spanish arrived in the region. These early maps were based on Claudius Ptolemy’s <i>Geography</i>, the 2nd-century Greek astronomer’s work that contained precise instructions on mapping the world. The textual instructions in <i>Geography</i> contained several fundamental errors but nevertheless continued to influence map-making for centuries despite newer discoveries.
 
-Italy and Germany played important roles in map production at the start of the Renaissance period, particularly Italy, whose coastal cities served as the midpoint between the trade routes of Europe and Asia. [^1] However, map-making in Italy languished at the start of the 1500s (unlike in central Europe), until it was revived by the leading Italian geographer Giacoma Gastaldi in the mid-1500s. Map-making subsequently declined again in the 1800s. [^2]
+Italy and Germany played important roles in map production at the start of the Renaissance period, particularly Italy, whose coastal cities served as the midpoint between the trade routes of Europe and Asia.[^1] However, map-making in Italy languished at the start of the 1500s (unlike in central Europe), until it was revived by the leading Italian geographer Giacoma Gastaldi in the mid-1500s. Map-making subsequently declined again in the 1800s.[^2]
 
 The period from 1570 to 1670 was known as the golden age of cartography and the Dutch were the leading map-makers of this era.[^4] Notable Dutch cartographers during this period include Gerard Mercator, Abraham Ortelius, Willem Janszoon Blaeu and Jodocus Hondius. 
 
@@ -34,9 +34,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |**GIACOMO GASTALDI**|
 
-
-
-|Giacomo Gastaldi (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
+|Giacomo Gastaldi (circa 1500–65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
 
 |<img src="/images/vol-10-issue-4/raremap/gerard.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. *Wikimedia Commons.*|
 
@@ -151,25 +149,25 @@ The National Library’s collection of rare maps is an important source for the 
 
 #### **REFERENCES**
 
-Bagrow, l. (1964). *[History of cartography.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375) London: Watts. (Call no.: R 912.09 BAG)
+Bagrow, l. (1964). *[History of cartography.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178375)* London: Watts. (Call no.: R 912.09 BAG)
 
-Borschberg, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century. ]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095) Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
+Borschberg, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century. ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)* Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
 
-Burnet, I. (2011).  *[Spice islands. ]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=13978957) Kenthurst, N.S.W.: Rosenberg Publishing. (Call no.: RSEA 380.141383 BUR)
+Burnet, I. (2011).  *[Spice islands. ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13978957)* Kenthurst, N.S.W.: Rosenberg Publishing. (Call no.: RSEA 380.141383 BUR)
 
-Fell, R.T. (1991). *[Early maps of South-East Asia. Singapore: Oxford University Press.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=5966956) (Call no.: RSING 912.59 FEL)
+Fell, R.T. (1991). *[Early maps of South-East Asia. Singapore: Oxford University Press.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5966956)* (Call no.: RSING 912.59 FEL)
 
-National Library of Australia. (2013).*[ Mapping our world: Terra Incognita to Australia.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=200573681) Canberra: National Library of Australia. (Call no.: R 912.94074 MAP)
+National Library of Australia. (2013).*[ Mapping our world: Terra Incognita to Australia.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200573681)* Canberra: National Library of Australia. (Call no.: R 912.94074 MAP)
 
-Parry, D.E. (2005). *[The cartography of the east indian Islands = Insulae Indiae Orientalis.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569) London: Country Editions. (Call no.: RSING q912.59 PAR)
+Parry, D.E. (2005). *[The cartography of the east indian Islands = Insulae Indiae Orientalis.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12669569)* London: Country Editions. (Call no.: RSING q912.59 PAR)
 
 Shirley, R.W. (1984). *The mapping of the world: Early printed world maps, 1472–1700*. London: Holland Press. (Not available in NLB holdings)
 
-Speake, J. (Ed.). (2003). *[Literature of travel and exploration: An encyclopedia. ]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=10934077)New York: Fitzroy Dearborn. (Call no.: R q910.403 LIT)
+Speake, J. (Ed.). (2003). *[Literature of travel and exploration: An encyclopedia. ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10934077)*New York: Fitzroy Dearborn. (Call no.: R q910.403 LIT)
 
-Stefoff, R. (1995). *[The British Library companion to maps and mapmaking. London: British Library.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384) (Call no.: R 912.03 STE)
+Stefoff, R. (1995). *[The British Library companion to maps and mapmaking. London: British Library.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384)* (Call no.: R 912.03 STE)
 
-Suarez, T. (1999). *[Early mapping of Southeast Asia. Hong Kong: Periplus Editions.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316) (Call no.: RSING q912.59 SUA)
+Suarez, T. (1999). *[Early mapping of Southeast Asia. Hong Kong: Periplus Editions.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)* (Call no.: RSING q912.59 SUA)
 
 Tooley, R.V. (1979). *Tooley’s dictionary of mapmakers.* Hertfordshire: Map Collector Publications. (Not available in NLB holdings)
 
