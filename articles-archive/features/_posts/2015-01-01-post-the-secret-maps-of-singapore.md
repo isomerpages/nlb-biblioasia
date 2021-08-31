@@ -4,14 +4,13 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/secretmap
 layout: post
 ---
-
 #### Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. **Bonny Tan** explore the origins of these one-of-a-kind maps.
 
-The Secret Map of Singapore (1986) and its companion, <i>The Secret Food Map of Singapore</i> (1987), were created by three women whose sense of adventure led them to explore unusual corners of the island. The vividly coloured hand-drawn maps highlight little-known and often forgotten facets of Singapore's culture and flavours - long before it became fashionable for Singaporeans to reconnect with their own heritage. Unlike the staid text-based food guides produced in the 1980s, [^1] these map-centric guides provide visual impressions of places by locating them in the physical landscape, in the process giving context and lending immediacy to the everyday activities of the average Singaporean. 
+The Secret Map of Singapore (1986) and its companion, <i>The Secret Food Map of Singapore</i> (1987), were created by three women whose sense of adventure led them to explore unusual corners of the island. The vividly coloured hand-drawn maps highlight little-known and often forgotten facets of Singapore's culture and flavours – long before it became fashionable for Singaporeans to reconnect with their own heritage. Unlike the staid text-based food guides produced in the 1980s, [^1] these map-centric guides provide visual impressions of places by locating them in the physical landscape, in the process giving context and lending immediacy to the everyday activities of the average Singaporean. 
 
-#### **COLOURFUL CARTOGRAPHERS**
+#### **Colourful Cartographers**
 
-Three firm friends - Rosalind Mowe, Anne Ropion and Elyane Hunt - all saw Singapore with unconventional eyes as they had grown up and lived overseas and were widely travelled. Multilingual and of mixed ancestry, the women met while doing business at Tanglin Shopping Centre: French nationals Anne and Elyane operated Gompa, a shop selling Asian and Middle Eastern antiques, [^2] while Rosalind, the only Singaporean in the trio, had an outlet selling Thai silk. 
+Three firm friends – Rosalind Mowe, Anne Ropion and Elyane Hunt – all saw Singapore with unconventional eyes as they had grown up and lived overseas and were widely travelled. Multilingual and of mixed ancestry, the women met while doing business at Tanglin Shopping Centre: French nationals Anne and Elyane operated Gompa, a shop selling Asian and Middle Eastern antiques,[^2] while Rosalind, the only Singaporean in the trio, had an outlet selling Thai silk. 
 
 The women's interest in the unusual and offbeat in Singapore and their love for food were just some of the things that drew them together.[^3] But they were no passive observers in a rapidly developing island-city. Their passion for their adopted home and their zeal to show tourists and locals the hidden yet fascinating sights of an unchanged, older Singapore drove them to create these unusual maps.[^4]
 
@@ -25,14 +24,14 @@ But it is not so much the hand-drawn finesse of the map that catches the eye. It
 
 Eurasian Patrick Mowe, Rosalind's husband, was at the tail end of his career, heading the MPH group of companies in Singapore and Malaysia, when the maps were published.[^11] Even so, it is likely that his influence in publishing and distribution helped in promoting the maps to foreign newspapers such as <i>The New York Times</i>, which carried brief articles on these maps in 1987 and 1988. 
 
-#### **MAPPING OUT SECRET PLACES** 
+#### **Mapping Out Secret Places** 
 
 The first map. <i>The Secret Map of Singapore</i>, released around July 1986, took seven months of research, involving full days of exploration. Michel, working from early evenings and late into the night took another four months to draw and colour the map. The work required frequent on-site verification, resulting in a detailed map that traced unusual sights and untrodden areas, provided educational but sharp insights and often dispensed useful and sometimes hilarious advice. 
 
-The main map is an outline of Singapore that has 93 locations highlighted, from tourist spots to interesting temples and eateries. The map unfolds into nine subsections: Chinatown, Orchard Road, Serangoon Road, Little India, Arab Street. Geylang, Geylang Serai - which includes the Joo Chiat and Katong areas - Holland Village and Toa payoh. 
+The main map is an outline of Singapore that has 93 locations highlighted, from tourist spots to interesting temples and eateries. The map unfolds into nine subsections: Chinatown, Orchard Road, Serangoon Road, Little India, Arab Street. Geylang, Geylang Serai – which includes the Joo Chiat and Katong areas – Holland Village and Toa payoh. 
 
 
-The bright colours on the map are not merely an element of graphic design. In effect, the colours function as codes for the different interests that a traveller may have - "black for antiques, curios and handicrafts; red for restaurants and coffee shops; green for recommended sightseeing; blue for interesting shops; and purple for the spiritual and the esoteric.[^12] A bright pink highlights a route that is highly recommended. In the subsections, exact locations are indicated by the unit numbers of each outlet so that the map-reader is certain of the exact location. <i>The Secret Map of Singapore</i> retailed at S$4.90 at the time, a bargain considering how much work went into it. 
+The bright colours on the map are not merely an element of graphic design. In effect, the colours function as codes for the different interests that a traveller may have – "black for antiques, curios and handicrafts; red for restaurants and coffee shops; green for recommended sightseeing; blue for interesting shops; and purple for the spiritual and the esoteric.[^12] A bright pink highlights a route that is highly recommended. In the subsections, exact locations are indicated by the unit numbers of each outlet so that the map-reader is certain of the exact location. <i>The Secret Map of Singapore</i> retailed at S$4.90 at the time, a bargain considering how much work went into it. 
 
 Food outlets and good eats were already highlighted in <i>The Secret Map of Singapore</i> and thus the companion map. <i>The Secret Food Map of Singapore</i> naturally expanded on the research done previously. The second map was published around May 1987 and reportedly took 14 months to research and produce. The creators claimed to have visited as many as 10,000 outlets and eaten more than 1.000 meals in the course of researching <i>The Secret Food Map of Singapore</i>, from exotic Vietnamese and Thai eateries (well, exotic for the time) to humble hawker stalls selling comfort food such as goreng pisang (deep fried bananas). [^13]A similar colour coding system was adopted in this map with "red for Chinese food, green for Malay or Nonya food. black for other Asian food and blue for Western food".[^14]
 
@@ -46,7 +45,7 @@ Food outlets and good eats were already highlighted in <i>The Secret Map of Sing
 <div style="background-color: white;">A 1983 photograph of South Bridge Road, between Mosque and Pagoda streets, with Sri Mariamman Temple and Jamae Mosque on the right. <i> From the Lee Kip Lin Collection. All right reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 	
-#### **A FIRST IN MAPPING** 
+#### **A First in Mapping** 
 
 Prior to this, articles about food and places of interest in the newspapers may have had accompanying maps[^15] that oftentime seemed like an afterthought, but there was nothing that showcased local cuisine and traditional crafts in the cartographic manner that these map-guides achieved. Tourist maps of the time usually featured the usual sights and icons, whereas these maps revealed hidden places, including tips on where to sit on benches and "study exceptional style old houses" (answer: "at (the) corner of Lorong 19 and Lorong Bachok” in Geylang) or oddities like where to purchase " Chinese musical instruments, opera costumes and weapons, and Japanese martial art" (answer: on Merchant Road). Even details such as the telephone number of a master <i>gasing</i> (spinning top) maker or where to buy mosquito nets were studiously included in the map. 
 
@@ -66,9 +65,9 @@ Prior to this, articles about food and places of interest in the newspapers may 
 
 A <i>certain joie de vivre</i> comes across in the descriptions of the sights and senses encountered in Singapore. For example <i>The Secret Food Map</i> notes that "The last reported tiger was killed in Singapore in 1930. But even if the tiger’s days are over, you can still eat snakes, bear's paws, turtles, iguanas, crocodiles, ox testicles, frogs, chicken feet, sea slugs and fish maw" in this city. The maps almost transports one vicariously to places where few tourists venture. Chinatown is described as "still reeking with atmosphere of early immigrants" and Geylang Serai is “reputed to be the refuge of the 'Chinese Mafia'” With tongue-in-cheek humour, the map tries to educate the first-time traveller on the various of eating in Singapore: the Chinese, for example, "eat and run!": when partaking of Malay cuisine, "don't ask for a knife. Fork and spoon will separate meat from bone!"; at Indian "eating places don't expect a plate! The banana leaf is not a place mat"; and "when eating sushi (at Japanese places), acrobatic skills (are) required.' 
 
-The map creators were especially adept at pointing out spirit houses, temples and traditional places of worship - whether Buddhist, Taoist, Hindu or Islamic. Besides including well-known houses of prayer, <i>The Secret Map of Singapore</i> also highlights private homes with interesting altars such as those on Joo Chiat Road or more morbidly. the location of a Chinese undertaker on Jalan Pinang in the Kampong Glam neighbourhood. Simple down-to-earth places such as an Indian laundry shop and a children's bicycle shop did not go unnoticed. High-end eateries such as Shima, a distinguished Japanese restaurant. are highlighted as well as Hainanese-style pseudo-Western restaurants such as Jack's Place. Making no distinction between religion, class or culture, the maps bring together all that make Singapore unique. [^1]
+The map creators were especially adept at pointing out spirit houses, temples and traditional places of worship – whether Buddhist, Taoist, Hindu or Islamic. Besides including well-known houses of prayer, <i>The Secret Map of Singapore</i> also highlights private homes with interesting altars such as those on Joo Chiat Road or more morbidly. the location of a Chinese undertaker on Jalan Pinang in the Kampong Glam neighbourhood. Simple down-to-earth places such as an Indian laundry shop and a children's bicycle shop did not go unnoticed. High-end eateries such as Shima, a distinguished Japanese restaurant. are highlighted as well as Hainanese-style pseudo-Western restaurants such as Jack's Place. Making no distinction between religion, class or culture, the maps bring together all that make Singapore unique. [^1]
 
-For the historian, the maps pinpoint the locations of traditional but now barely existing activities and outlets in various neighbourhoods. For example "counters for remittance to China in (an) old medical hall" is located at 211 South Bridge Road in the heart of Chinatown. while ready-made <i>popiah</i> (spring roll) skins and <i>pie tee</i> (crispy dough cups) are prepared at Kway Guan Huat in the Peranakan enclave at 95 Joo Chiat Road. Incredibly, Kway Guan Huat still stands at its original site today, albeit in a more gentrified neighbourhood, and Shima restaurant re-opened in June 2014 at the Goodwood Park Hotel - where it used to be way back in the 1980s. 
+For the historian, the maps pinpoint the locations of traditional but now barely existing activities and outlets in various neighbourhoods. For example "counters for remittance to China in (an) old medical hall" is located at 211 South Bridge Road in the heart of Chinatown. while ready-made <i>popiah</i> (spring roll) skins and <i>pie tee</i> (crispy dough cups) are prepared at Kway Guan Huat in the Peranakan enclave at 95 Joo Chiat Road. Incredibly, Kway Guan Huat still stands at its original site today, albeit in a more gentrified neighbourhood, and Shima restaurant re-opened in June 2014 at the Goodwood Park Hotel – where it used to be way back in the 1980s. 
 
 <i>The Secret Food Map</i> was soon followed by <i>The Secret Map of Sydney</i>, which was released in October 1987. [^16] <i>The Secret Map of Singapore</i> was reprinted in 1990, with research updates by Andrew Blaisdell and Adeline Ropion. [^17] Even so, changes to Singapore's landscape were so swift that although only three years had lapsed. the reprinted map was revised with 88 highlights instead of the 93 shown in the original.[^18]
 
@@ -90,7 +89,7 @@ For the historian, the maps pinpoint the locations of traditional but now barely
 <div style="background-color: white;">A man making murtatuk in the Kampong Glam area in 1991. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 
-**Bonny Tan** is a Senior Reference Librarian at the National Library of Singapore. Her interest in the obscure things about Singapore led her to re-examine two little known maps and found herself surprised by their contents.
+<p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Reference Librarian at the National Library of Singapore. Her interest in the obscure things about Singapore led her to re-examine two little known maps and found herself surprised by their contents.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
@@ -123,7 +122,7 @@ Teo, T.W. (1978, June 27). [Asia-Pacific lays out a special $20m winner.](http:/
 
 Wong, S-F. (1988, July 24). [Guides to better eating.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880724-1.2.89.41) <i> The Straits Times</i>, p. 8. Retrieved from NewspaperSG
 
-##**NOTE**
+##**NOTES**
 
 [^1]: These include Bruce, A. (1971). *[Good food guide to Singapore.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081985)*[Singapore]: Published for Asia Pacific Press by D. Moore, (Call no.: RCLOS 642.56 BRU); Oon, V. (1986). *[Singapore: 101 meals.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5211155)*[Singapore]: Singapore Tourist Promotion Board. (Call no.: RSING 647.955957 SIN); *[Where to eat and drink and entertain.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4252865)* Singapore: Pacific Trade Press. (Call no.: RCLOS 647.955957 WEDE); *[Good food in Singapore.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5380295)*(1988). Singapore: Far East Trade Press. (Call no.: RSING 642.50255957 GFS)
 
