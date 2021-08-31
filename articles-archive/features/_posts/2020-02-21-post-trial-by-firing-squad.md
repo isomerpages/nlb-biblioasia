@@ -15,7 +15,7 @@ The end is always a good place to start. Even in the face of its own extinction 
 
 Under the light of Singapore’s early evening sun, 16 men are being led out of His Majesty’s Criminal Prison on Outram Road. A crowd of about 6,000 have gathered on Golf Hill, opposite Pearl’s Hill, to watch the unfolding spectacle. Men, women and children representing all the races and faiths of Singapore – Europeans, Eurasians, Malays, Indians, Chinese and Christians, Buddhists, Muslims and freethinkers – are about to participate in an ancient ritual of public justice. Gently sloping heights that had served as the sixth hole of the Sepoy Lines golf links now double up as a viewing gallery. The onlookers have an unobstructed view from a space looking out towards Outram Park, to be levelled and occupied in the near future by the Singapore General Hospital.
 
-Among the spectators is a six-year-old boy named Chan Chon Hoe.1 From his home in Pagoda Street, he had followed the military band of Volunteers that marched up New Bridge Road to Outram Road. Now Chon Hoe peeks out from between the legs and shoulders of the gathered crowd to catch a glimpse of the prisoners. The prisoners are all former sepoys, soldiers of the 5th Native Light Infantry of the British Indian army. Shipped in to defend Singapore, they have now been charged with mutiny in the middle of the First World War. The prisoners’ armed escort are an imposing squad from the Sikh Police Contingent policemen. The tall and burly Sikhs carry Lee Enfield .303 bolt-action rifles that resemble toys in their massive hands.
+Among the spectators is a six-year-old boy named Chan Chon Hoe.[^1] From his home in Pagoda Street, he had followed the military band of Volunteers that marched up New Bridge Road to Outram Road. Now Chon Hoe peeks out from between the legs and shoulders of the gathered crowd to catch a glimpse of the prisoners. The prisoners are all former sepoys, soldiers of the 5th Native Light Infantry of the British Indian army. Shipped in to defend Singapore, they have now been charged with mutiny in the middle of the First World War. The prisoners’ armed escort are an imposing squad from the Sikh Police Contingent policemen. The tall and burly Sikhs carry Lee Enfield .303 bolt-action rifles that resemble toys in their massive hands.
 
 Heads bowed, the 16 mutineers are ordered to stand to attention by British Army Major E.H. Hawkins of the 4th Shropshire Light Infantry. They obey instinctively, surrounded by two companies of the 4th Shropshires and other British soldiers from the Singapore garrison. Like surplus caddies, British non-commissioned officers and enlisted men hurriedly form three sides of a square with the prison wall. It has become a full-dress show. Colonial officials are sensitive to the spectacle of British power and its salutary effect on the natives. The difference between loyalty and treachery to King and Emperor must be made clear. Imperial officialdom uses the civilising veneer of ceremony and procedure to demonstrate that the Empire’s rule of law trumped the barbaric whims of a debauched Eastern potentate. Never mind the hasty court martial or the macabre theatre that is about to be staged. This Empire had offered the world the Magna Carta. Its ruddy-faced representatives will now serve up an object lesson on the fate of those who ate their salt and then spat it back in their faces.
 
@@ -49,9 +49,9 @@ In the fast evaporating cool of a humid tropical morning, the paraded sepoys wer
 
 Physically, the pudgy-looking Ridout with his bristly toothbrush moustache did not inspire fear or respect. But looks are deceiving. Short and stout, Ridout’s benign and inoffensive appearance was sharpened by cold, piercing blue eyes. He had tried to rally the men with a rousing speech. The Khans and their sepoys listened to his words. Or rather half-heard its translation into Hindustani by their regimental commander, Lieutenant-Colonel Edward Victor Martin. The perennially sleepy-looking Martin was an isolated figure, unpopular with his fellow British officers and judged by some as too sympathetic to the sepoys.
 
-In the rising heat and humidity of the morning, Ridout’s speech rehearsed a tired formula: “The empire is vast and the duties of guarding it are great”2 – words meant for the British Tommy, not Jack Sepoy. Describing his burden of command as General Officer Commanding the Straits Settlements was the last thing the already troubled, confused and demoralised sepoys needed to hear. Later that day, Lance-Naik (Lance-Corporal) Najaf Khan wrote a letter to his brother in India lamenting:
+In the rising heat and humidity of the morning, Ridout’s speech rehearsed a tired formula: “The empire is vast and the duties of guarding it are great”[^2] – words meant for the British Tommy, not Jack Sepoy. Describing his burden of command as General Officer Commanding the Straits Settlements was the last thing the already troubled, confused and demoralised sepoys needed to hear. Later that day, Lance-Naik (Lance-Corporal) Najaf Khan wrote a letter to his brother in India lamenting:
 
-“As this war is such that no one has returned out of those who have gone to the war. All died. And those who have enlisted will not live alive. Believe this. World has died. No one has escaped who has gone to the war. All have perished. And there is recruiting open, don’t let any men enlist. As all are being taken to the war. All will be caused to be killed.”3
+“As this war is such that no one has returned out of those who have gone to the war. All died. And those who have enlisted will not live alive. Believe this. World has died. No one has escaped who has gone to the war. All have perished. And there is recruiting open, don’t let any men enlist. As all are being taken to the war. All will be caused to be killed.”[^3]
 
 <img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial4.JPG">
 <div style="background-color: white;">Sepoys in the British Indian Army in Singapore, 1915. This photograph is from the album of Sergeant B.W. Turner of the 1st/4th Battalion, King’s Shropshire Light Infantry. Turner served in one of the battalion’s companies sent to Singapore in February 1915 to quash the mutiny. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
@@ -60,7 +60,7 @@ With a battalion and their own minds in disarray, some of the sepoys developed t
 
  “It is with sighing, crying, grief and sorrow to tell you that the transfer of the regiment on the 20th February is now a settled fact. It will go to Hong Kong. But don’t know this, whether it is going to the war.
 
-“God knows what kinds of trouble we will have to confront. What is this war? It is resurrection. That who goes there, there is no hope of his returning. It is God’s punishment. If God released us from this calamity we will take to have reborn. We are very much confused and shocked. All the regiment is in sorrow together.”4
+“God knows what kinds of trouble we will have to confront. What is this war? It is resurrection. That who goes there, there is no hope of his returning. It is God’s punishment. If God released us from this calamity we will take to have reborn. We are very much confused and shocked. All the regiment is in sorrow together.”[^4]
 
 <img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial5.JPG">
 <div style="background-color: white;">The European officer in the photograph is Captain Moira Francis Allan (7th from the right), seen here with men of the Mountain Battery of the Malay States Guides who had stoked the 5th Light Infantry Regiment to mutiny on 15 February 1915. He was one of the commanders of the battery and was killed in the mutiny. <i>Courtesy of National Archives of Singapore.</i></div>
@@ -78,7 +78,7 @@ Chiste was a disciple of the enigmatic Nur Alam Sham. A mysterious Muslim preach
 
 As the First World War turned into a brutal conflict of attrition, Nur Alam Shah had raised thorny questions for the sepoys to consider. To whom was loyalty owed? To which Kaiser and to which Emperor? Charismatic Chiste also had a way with words. He persuaded some of his men that the tide was turning against British rule. Largely illiterate and unschooled, the thoughts of the sepoys did not match the precision or logic of trained minds. This thinking was dangerously open-ended and tumbled through their heads like the fake news Lance-Naik Fateh Mohammed had shared with his father on the day the mutiny broke out:
 
-“The war increases day by day. The Germans have become Mohammedans. Haji Mahmood William Kaiser… [whose] daughter has married the heir to the Turkish throne… to succeed after the Sultan. Many of the German subjects and army have embraced Mohammedanism. Please God that the religion of the Germans (Mohammedanism) may be promoted or raised on high.”5
+“The war increases day by day. The Germans have become Mohammedans. Haji Mahmood William Kaiser… [whose] daughter has married the heir to the Turkish throne… to succeed after the Sultan. Many of the German subjects and army have embraced Mohammedanism. Please God that the religion of the Germans (Mohammedanism) may be promoted or raised on high.”[^5]
 
 All it took was a spark, which eventually ignited. An explosion of gunfire amid the noise and smoke of Chinese New Year firecrackers and bomblets. A cluster of little rebellions had erupted within the regiment. Soon the sepoys had the run of the island. Chaos. Confusion. And then the inevitable betrayal.
 
@@ -94,7 +94,7 @@ The firing squad is composed of 25 men from the Royal Garrison Artillery under t
 
 With little fanfare, the doomed men are strapped to the five-foot timber stakes that throw long, ghostly shadows on the prison’s high outer perimeter wall. Their naked brown ankles are secured firmly by cotton thongs. The final whispered murmurings of the large crowd are hushed. Major Hawkins steps forward. He reads out a statement in a firm and loud voice:
 
-“These five men, Subedar Dunde Khan, Jemadar Chiste Khan, 1890 Havildar Rahmat Ali, 2311 Sepoy Hakim Ali and 2184 Havildar Abdul Ghani have been found guilty of stirring up and joining a mutiny and are sentenced to death by being shot to death… All these men of the Indian Army have broken their oath as soldiers of His Majesty the King. Thus justice is done.”6
+“These five men, Subedar Dunde Khan, Jemadar Chiste Khan, 1890 Havildar Rahmat Ali, 2311 Sepoy Hakim Ali and 2184 Havildar Abdul Ghani have been found guilty of stirring up and joining a mutiny and are sentenced to death by being shot to death… All these men of the Indian Army have broken their oath as soldiers of His Majesty the King. Thus justice is done.”[^6]
 
 |**THE LOST TREASURE OF SINGAPORE'S HISTORY**
 
@@ -113,3 +113,21 @@ With little fanfare, the doomed men are strapped to the five-foot timber stakes 
 |The Singapore mutiny of 1915 provided the canvas to sketch out a broader story of war, migration, populism, terrorism, fake news and revolution in an earlier era of globalisation. So many echoes of the present can be found in the past. I wanted to use a little-known event in a period that most historians of Singapore and the region seem to overlook, to make this point.
 
 |With this book, I hope to show that the history of Singapore, and even its present and certainly its future, is driven by its location and its positionality as a global city. Our understanding of Singapore is enriched by interpreting events and episodes of its history by carefully tracing the contours of its global links and connections, with all the opportunities, challenges and threats that come with this globalism. And telling that story creatively while staying true to the facts with the demanding but rewarding long form of narrative non-fiction is all part of a universal story of what happens when the unstoppable force of revolt meets the immovable object of power.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial7.JPG" style="width: 100px; height: 100px;">
+<b>Umej Bhatia</b> is the author of <i>Our Name is Mutiny: The Global Revolt Against the Raj and the Hidden History of the Singapore Mutiny, 1907–1915</i> (2019). He is a career diplomat from Singapore and is currently based there. His first book is on Muslim memories of the Crusades.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
+
+#### **Notes**
+[^1]:Rajagopalan, M. (2000, April 13). [Man, 91, scarred by sepoy execution](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000413-1.2.36.11). *The Straits Times*, p. 35. Retrieved from NewspaperSG.
+[^2]:Sareen, T.R. (1995). [*Secret documents on Singapore mutiny, 1915*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7835338) (p. 717). New Delhi: Mounto. (Call no.: RSING 940.41354 SAR-[WAR])
+[^3]:[Sareen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7835338), 1995, p. 720.
+[^4]:[Sareen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7835338), 1995, p. 729
+[^5]:[Sareen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7835338), 1995, p. 731.
+[^6]:[Sareen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7835338), 1995, p. 847.
+
+
