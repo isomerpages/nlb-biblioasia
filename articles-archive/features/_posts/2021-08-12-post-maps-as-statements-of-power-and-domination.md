@@ -85,17 +85,17 @@ The inclusion of Raffles' exploratory path and the new road of 1815 in the final
 Such maps produced in the 19th century were, and remain, documents of imperial–colonial power. By the time men like Crawfurd and Raffles were writing about Southeast Asia and mapping the region, Western colonial power and colonial knowledge were both at their zenith, rendering local knowledge- systems and world-views redundant or at best quaint or exotic. Half-a-century earlier, cartographers such as Alexander Dalrymple (who mapped North Borneo, Sulu, Palawan and Mindanao in 1764) were still able to acknowledge local sources of information and data, and on his map of the East Borneo coast, Dalrymple even pays tribute to local Bajao and Sutu navigators who helped him in his work. It is quite telling that no such attribution was found in the works of Crawfurd, Raffles and those who came after them, for by then the British East India Company and the Dutch East India Company were staffed by Western cartographers schooled in Western norms of map-making, and who viewed the lands that they conquered as commercial prizes for possession and exploitation.
 
 
-#### **Collecting History, Regarding Power **
+#### **Collecting History, Regarding Power**
 
 For map collectors with an academic disposition, antiquarian map collecting is more than a hobby with ample dividends. Beautiful though such maps may be, their added worth lie in the story they tell, which happens to be the story of power and knowledge, and how the two came together during the age of late industrial colonial-capitalism. The lesson that can be derived from maps is that the world never simply <i>is</i> or <i>was</i>, but is instead <i>constructed</i> via human intellectual (and martial) effort, and put together into a coherent whole that can be seen and known.
 
 The maps of Asia I have discussed in this essay tell us something about how the idea of "Asia" came about, and how Asia was later divided into neat compartmentalised blocs comprising "Central Asia", "South Asia", "Southeast Asia" and "East Asia". From the fluid and globalised world of Münster in the 16th century to the compartmentalised one of the 20th century, maps tell us how the world was literally and figuratively made up, invented, categorised and compartmentalised. But for us to fully appreciate these developments as they have been recorded in maps, we need to go beyond simply <i>looking</i> at them, and begin to see what is <i>written</i> in them.
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/statementsofpoweranddomination/A_Map_of_Java.jpg)
-<div style="background-color: white;">A Map of Java was produced by the British cartographer J. Walker in 1817, and appeared in the book <i>The History of Java</i> by Stamford Raffles. The map is notable for its documentation of the advance of British power acr055 the island. <i>Courtesy of Farish A. Noor</i></div>
+<div style="background-color: white;">A Map of Java was produced by the British cartographer J. Walker in 1817, and appeared in the book <i>The History of Java</i> by Stamford Raffles. The map is notable for its documentation of the advance of British power across the island. <i>Courtesy of Farish A. Noor</i></div>
 
 
-**Dr Farish A. Noor** is an Associate Professor at the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU), Singapore. He has been collecting books, maps and prints of Asia since his student days in Europe and has been researching the subject of state-formation and religio-political movements across Asia.
+<p style="font-size:15px;"><b>Dr Farish A. Noor</b> is an Associate Professor at the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU), Singapore. He has been collecting books, maps and prints of Asia since his student days in Europe and has been researching the subject of state-formation and religio-political movements across Asia.</p>
 
 
 
