@@ -30,7 +30,7 @@ Despite being the first Europeans to go on explorations, the Portuguese and Span
 
 The National Library’s collection of rare maps is an important source for the study of early cartography of the region, as well as the development of European mapping of Southeast Asia, a region whose early European names included East Indies, Indiae Orientalis, East Indian Islands and Further India (India Extrema). These maps are also useful for those researching early Malayan cartography as they contain some of the earliest references to Singapore and the Malay Peninsula. 
 
-|GIACOMO GASTALDI|
+|**GIACOMO GASTALDI**|
 
 |Giacomo Gastaldi (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
 
@@ -42,46 +42,47 @@ The National Library’s collection of rare maps is an important source for the 
 |Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.|
 
 |![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Terza_tavola.jpg)
-<div style="background-color: white;"><i>Terza Tavola</i>, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563).</div>Note: the map is oriented with the south at the top.|
+<div style="background-color: white;"><i>Terza Tavola</i>, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</div>|
 
 
+|**ABRAHAM ORTELIUS**|
+
+|Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]|
+
+|<img  style="height:600px;" src="/images/vol-10-issue-4/raremap/Abraham_Ortelius_by_Peter_Paul_Rubens.jpg">
+<div style="background-color: white;">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i></div>|
 
 
-**Abraham Ortelius** (1527-98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5] 
+|Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula.|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Abraham_Ortelius_by_Peter_Paul_Rubens.jpg)
-<div style="background-color: white;">Portrait of Abraham Ortelius by Peter Paul Rubens. <i>Wikimedia Commons</i></div>
+|Below Java, at the southern end of the map, a part of Terra Australis Incognita is evident. Labelled as pars continentis Australis, its northern tip is called Beach, due to 16th-century map-makers misreading Marco Polo's description of Locach, a southern kingdom thought to be filled with gold that he wrongly located below Java. Based on early records, Beach or Locach was probably the name of a place in Cambodia. [^6]|
 
+|First produced in 1570, Ortelius' atlas was reprinted in various European languages.|
 
-Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula. 
+|![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Indiae_orientalis.jpg)
+<div style="background-color: white;"><i>Indiae orientalis, insularumque adiacientium typus,</i> Abraham Ortelius (Antwerp, 1579)</div>|
 
-Below Java, at the southern end of the map, a part of Terra Australis Incognita is evident. Labelled as pars continentis Australis. its northern tip is called Beach, due to 16th-century map-makers misreading Marco Polo's description of Locach, a southern kingdom thought to be filled with gold that he wrongly located below Java. Based on early records, Beach or Locach was probably the name of a place in Cambodia. [^6]
+|**THEODORE DE BRY**|
 
-First produced in 1570, Ortelius' atlas was reprinted in various European languages.
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Indiae_orientalis.jpg)
-<div style="background-color: white;"><i>Indiae orientalis, insularumque adiacientium typus,</i> Abraham Ortelius (Antwerp, 1579)</div>
+|Theodore de Bry (1528–98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.[^7]|
 
 
-**Theodore de Bry** (1528-98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.[^7]
+|<img  style="height:600px;" src="/images/vol-10-issue-4/raremap/Theodor_de_Bry_self_portrait_1597.jpg">
+<div style="background-color: white;">A portrait of Theodore de Bry. <i>Wikimedia Commons.</i></div>|
 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Theodor_de_Bry_self_portrait_1597.jpg)
-<div style="background-color: white;">A portrait of Theodore de Bry. <i>Wikimedia Commons</i></div>
+|He is famous for compiling a well-illustrated collection of voyages and travels to the East and West Indies, which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.[^8]|
 
+|De Bry’s map is based on Willem Lodewijcksz's 1598 map. Lodewijcksz was part of the first Dutch voyage to Southeast Asia under the command of Cornelis de Houtman from 1595 to 1597. Lodewijcksz’s map charted the Southeast Asian region in detail, including the Malacca and Sunda Straits, and was one of the first maps to focus on the areas around the Malay Peninsula.[^9]|
 
-He is famous for compiling a well-illustrated collection of voyages and travels to the East and West Indies, which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.[^8]
+|While the Malay Peninsula is called Chersonese Aurea, an old Ptolemaic name depicting it as a land of gold, Singapore is once again erroneously identified as a cape at the eastern end of the peninsula. The map also features the northern coast of Java in greater detail.| 
 
-De Bry’s map is based on Willem Lodewijcksz's 1598 map. Lodewijcksz was part of the first Dutch voyage to Southeast Asia under the command of Cornelis de Houtman from 1595 to 1597. Lodewijcksz’s map charted the Southeast Asian region in detail, including the Malacca and Sunda Straits, and was one of the first maps to focus on the areas around the Malay Peninsula.[^9]
+|Interestingly, the map depicts a trans-peninsular waterway bisecting the Malay Peninsula at its southern tip. This river channel with the Muar River at the western end and the Pahang River at the eastern end was used as an overland trade route. Several maps from the 16th century to the second decade of the 17th century also contain this unique feature. De Bry’s map clearly marks the rivers on each side as R. Farmeso and Muar R.|
 
-While the Malay Peninsula is called Chersonese Aurea, an old Ptolemaic name depicting it as a land of gold, Singapore is once again erroneously identified as a cape at the eastern end of the peninsula. The map also features the northern coast of Java in greater detail. 
+|Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]|
 
-Interestingly, the map depicts a trans-peninsular waterway bisecting the Malay Peninsula at its southern tip. This river channel with the Muar River at the western end and the Pahang River at the eastern end was used as an overland trade route. Several maps from the 16th century to the second decade of the 17th century also contain this unique feature. De Bry’s map clearly marks the rivers on each side as R. Farmeso and Muar R.
-
-Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Nova_tabula.jpg)
-<div style="background-color: white;"><i>Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> | G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>
+|![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Nova_tabula.jpg)
+<div style="background-color: white;"><i>Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta</i> | G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</div>|
 
 
 
