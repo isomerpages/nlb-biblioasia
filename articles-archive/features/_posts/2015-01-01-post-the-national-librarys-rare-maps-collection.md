@@ -4,7 +4,6 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/rare-map
 layout: post
 ---
-
 #### The National Library has a collection of rare maps dating back to the 15th century. **Makeswary Periasamy** shares the significance and history of these maps and their makers. 
 
 The National Library’s Rare Maps Collection forms part of the valuable Rare Materials Collection held in its Lee Kong Chian Reference Library. The collection contains topographic maps and navigational charts covering Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The majority of the maps were printed by European map-makers before 1945.
@@ -39,6 +38,8 @@ The National Library’s collection of rare maps is an important source for the 
 
 <img  src="/images/vol-10-issue-4/raremap/gerard.jpg">
 <div style="background-color: white;">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.</div>
+
+|<img src="/images/vol-10-issue-4/raremap/gerard.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.|
 
 |Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3]|
 
@@ -126,7 +127,8 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Thornton’s chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg)<div style="background-color: white;">A large chart describeing <i>ye Streights of Malacca and Sincapore</i>, Samuel Thornton (London, circa 1711).</div>
+![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg)
+<div style="background-color: white;">A large chart describeing <i>ye Streights of Malacca and Sincapore</i>, Samuel Thornton (London, circa 1711).</div>
 
 <br>
 
