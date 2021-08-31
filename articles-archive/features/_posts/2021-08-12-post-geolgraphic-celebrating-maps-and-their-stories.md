@@ -127,20 +127,20 @@ Yee, C. (1994). Chinese maps in political culture. In J.B. Harley &amp; D. Woodw
 	
 #### **NOTES**
 
-[^1]: *Domingue*, R. (2013).*[The mapmaker’s war: Keeper of tales trilogy, Book 1](https://nlb.overdrive.com/media/3151C9AC-BD3F-429C-9CEA-F62E8D4BA82F)* (p. 286). Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL)
+[^1]: Domingue, R. (2013).*[The mapmaker’s war: Keeper of tales trilogy, Book 1](https://nlb.overdrive.com/media/3151C9AC-BD3F-429C-9CEA-F62E8D4BA82F)* (p. 286). Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL)
 	
-[^2]: *Smith*, C. (1994). Prehistoric cartography in Asia. In J.B. Harley &amp; D. Woodward (Eds.), *[The history of cartography: Cartography in the traditional east and southeast Asian societies.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)* Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
+[^2]: Smith, C. (1994). Prehistoric cartography in Asia. In J.B. Harley &amp; D. Woodward (Eds.), *[The history of cartography: Cartography in the traditional east and southeast Asian societies.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)* Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
 	
 [^3]:This clay tablet which was found in Iraw is now in the collection of the British Museum.
 	
-[^4]:*Harely*, J.B., &amp; Woodward, D. (Eds.). (1987). Preface. In *[The history of cartography: Cartography in the traditional east and southeast Asian societies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)*. (Vol 1, p. xvi). Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
+[^4]:Harely, J.B., &amp; Woodward, D. (Eds.). (1987). Preface. In *[The history of cartography: Cartography in the traditional east and southeast Asian societies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)*. (Vol 1, p. xvi). Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
 	
-[^5]:*See Monmonier*, M.S. (1991). *[How to lie with maps](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5636453)*. Chicago: University of Chicago Press. (Call no.: R 910.0148 MON)
+[^5]:See Monmonier, M.S. (1991). *[How to lie with maps](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5636453)*. Chicago: University of Chicago Press. (Call no.: R 910.0148 MON)
 	
 [^6]:This oil painting known as “The Ditchley Portrait”, was painted around 1592. It is in the collection of the National Portrait Gallery, London.
 	
-[^7]:*Yee*, C. (1994). Chinese maps in political culture. In J.B. Harley &amp; D. Woodward (Eds.), *[The history of cartography: Cartography in the traditional east and southeast Asian societies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)*. Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
+[^7]:Yee, C. (1994). Chinese maps in political culture. In J.B. Harley &amp; D. Woodward (Eds.), *[The history of cartography: Cartography in the traditional east and southeast Asian societies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3878780)*. Chicago: The University of Chicago Press. (Call no.: RSING 526.09 HIS)
 	
 [^8]:A miniature painting of Jahangir standing on the globe shooting at his enemy, Malik Anbar, dated 1620 is in the collection of the Chester Beatty Library. Another painting of Jahangir standing on a globe shows him embracing Shah Abbas of Iran, dated 1618 is in the collection of the Freer Gallery of Art.
 	
-[^9]:*Borschberg*, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)*. Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
+[^9]:Borschberg, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13218095)*. Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
