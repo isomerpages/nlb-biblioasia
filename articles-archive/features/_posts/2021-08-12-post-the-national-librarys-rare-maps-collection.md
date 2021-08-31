@@ -141,8 +141,8 @@ The National Library’s collection of rare maps is an important source for the 
 
 |This wall map shows the trade route from Siam to Batavia and then to Europe through the Sunda Straits. By the mid-17th century, the Dutch East India Company had established a trading post in Siam. This map has illustrations of ships, animals and an elaborate title cartouche that features the various natives of Asia. Maps in the 18th century, besides being a source of geographical information, were also becoming important as collectors’ items. Hence, the use of decorative features was more prominent during this time.|
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Sincapour.jpg)
-<div style="background-color: white;"><i>L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour</i>, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</div>
+|![Alt text for image on Isomer site](/images/vol-10-issue-4/raremap/Sincapour.jpg)
+<div style="background-color: white;"><i>L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour</i>, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</div>|
 
 
 
