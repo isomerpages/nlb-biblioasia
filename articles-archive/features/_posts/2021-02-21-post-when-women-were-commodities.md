@@ -131,7 +131,7 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |<img src="/images/Vol-15-issue-4/when-women-were-commodities/w6.JPG" style="width: 300px; height: 420px;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.</i>|
 
-|On 1 March 1929, Mrs Mabel Winter was appointed the first Lady Assistant Protector of Chinese.[^25] She took over the management of Po Leung Kuk’s day-today operations and was assisted in her duties by a committee of ladies.[^26]
+|On 1 March 1929, Mrs Mabel Winter was appointed the first Lady Assistant Protector of Chinese.[^25] She took over the management of Po Leung Kuk’s day-to-day operations and was assisted in her duties by a committee of ladies.[^26]
 
 |Winter’s appointment as Lady Assistant Protector of Chinese was significant as it was the first time a woman had been given such an important post, signifying the serious intent of the British, or at least the Chinese Protectorate, to rescue and rehabilitate women and girls from prostitution and slavery.
 
@@ -145,14 +145,12 @@ Because of the lowly status of women and the stigma around sex work, the lives o
 
 |During the Japanese Occupation, the Po Leung Kuk’s premises were abandoned and its residents dispersed to several welfare centres. When the British Military Administration took over after the war, the new Department of Social Welfare was set up, and the Po Leung Kuk was closed.[^32]
 
-<br>
+
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/adeline.jpg" style="width: 100px; height: 100px;">
-<center>
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/Adeline%20Foox.jpg" style="width: 100px; height: 100px;">
 <b>Adeline Foo</b>
 is a scriptwriter and an adjunct lecturer. Her research interests include women, and societal prejudice and discrimination. She is the researcher and creator of Last Madame, a drama series about the 1930s brothel scene in Singapore. The show debuted in September 2019 on MediaCorp Toggle.
-</center>
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
