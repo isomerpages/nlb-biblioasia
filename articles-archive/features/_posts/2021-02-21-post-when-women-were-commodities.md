@@ -70,7 +70,7 @@ The women could not keep all this money either: they were expected to pay the br
 
 Beyond the immediate satiation of their sexual urges, many of the thousands of men who sought comfort in the arms of prostitutes did not see marriage in their future. They were too poor and earned too little to even entertain the thought of finding a wife, either in Singapore or back in their hometowns.[^18] These men toiled as manual labourers, working as rickshaw pullers, coal shovellers, construction workers and coolies, and led a tough life with little or no means of leisure. Apart from work, these men were lonely and many led a meaningless existence without companionship.
 
-<img src="/images/Vol-15-issue-4/when-women-were-commodities/building.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/when-women-were-commodities/building.JPG">
 <div style="background-color: white;">The now demolished Chinese Protectorate building on Havelock Road, c. 1910. The office was first set up in 1877 at a shophouse on North Canal Road under William Pickering, the first Protector of Chinese, to look after the affairs of Singapore’s migrant Chinese community. In 1888, the Protectorate established the Po Leung Kuk in another location to help women who had been sold or tricked into prostitution. <i>Courtesy of National Museum of Singapore, National Heritage Board.
 </i></div>
 
