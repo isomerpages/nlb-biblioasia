@@ -4,7 +4,6 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/map-as-statement
 layout: post
 ---
-
 #### Drawing from his personal collection of maps amassed over three decades, **Dr Farish A. Noor** invites us to truly read maps and look beyond their geographical boundaries.
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg)
@@ -47,7 +46,7 @@ Beginning with some of the oldest maps in my collection such as Sebastian Münst
 <img  style="height:580px;" src="/images/vol-10-issue-4/statementsofpoweranddomination/Portrait_-_Nicolas_de_Fer.jpg">
 <div style="background-color: white;">Portrait of French cartographer and geographer, Nicholas de Fer. <i>Wikimedia Commons</i>.</div>
 
-These maps, produced as they were in the 16th century, tell us something about the nations that produced them. Münster 's maps (1540 and 1598) were produced at a time when Western Europe was slowly emerging from the Dark Ages and when European military- economic power was unable to conquer and dominate the rest of the world. Long before the Industrial Revolution, the first maps of Asia by the Spanish and Portuguese – and later the English, Dutch, French and other Europeans – depicted an Asia that was vast, rich and overpowering – but at the same time laden with wonders and all things exotic. (Note that Münster's 1540 map of Southeast Asia comes with curious vignettes of strange and wonderful creatures that were said to roam the countryside in Asia.)
+These maps, produced as they were in the 16th century, tell us something about the nations that produced them. Münster 's maps (1540 and 1598) were produced at a time when Western Europe was slowly emerging from the Dark Ages and when European military-economic power was unable to conquer and dominate the rest of the world. Long before the Industrial Revolution, the first maps of Asia by the Spanish and Portuguese – and later the English, Dutch, French and other Europeans – depicted an Asia that was vast, rich and overpowering – but at the same time laden with wonders and all things exotic. (Note that Münster's 1540 map of Southeast Asia comes with curious vignettes of strange and wonderful creatures that were said to roam the countryside in Asia.)
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/statementsofpoweranddomination/Sebastian Munster 1540.jpg)
 <div style="background-color: white;">Münster 1540 map of Southeast Asia made no reference to Java, Borneo and the rest of the archipelago, and the region was referred to as Greater India. <i>Courtesy of Farish A. Noor.</i></div>
@@ -81,7 +80,7 @@ Two features stand out on this map: Across the middle of Java is a dotted line t
 
 These two features tell us something about the nature of British rule in Java and what the British colonial administrators – notably Raffles himself – wanted to do during their period of rule there. Raffles' exploratory mission sought to identify the important relics and heritage sites of Java's past, establishing their antiquity and subsequently relocating them to museums as part of local native history. The new road of 1815, on the other hand, was a marker of progress and a statement of intent: It demonstrated how the British, over a period of six years, had not only become masters of the land they surveyed, but were also able to alter that land by the creation of new roads that allowed for even deeper penetration into the interior, and in times of crisis would also be used to project and deliver British military power to other parts of Java with expedience.
 
-The inclusion of Raffles' exploratory path and the new road of 1815 in the final version of the Raffles-Walker map was a testament of power in every sense of the word – epistemic power (in the sense that the British had managed to know more about the past of Java than the Dutch and Javanese themselves) as well as military-economic- administrative power (in the sense that all parts of the island had been brought closer together via a network of new roads, canals and paths, and implying that no part of Java would ever be obscure again.) 
+The inclusion of Raffles' exploratory path and the new road of 1815 in the final version of the Raffles-Walker map was a testament of power in every sense of the word – epistemic power (in the sense that the British had managed to know more about the past of Java than the Dutch and Javanese themselves) as well as military-economic-administrative power (in the sense that all parts of the island had been brought closer together via a network of new roads, canals and paths, and implying that no part of Java would ever be obscure again.) 
 
 Such maps produced in the 19th century were, and remain, documents of imperial–colonial power. By the time men like Crawfurd and Raffles were writing about Southeast Asia and mapping the region, Western colonial power and colonial knowledge were both at their zenith, rendering local knowledge- systems and world-views redundant or at best quaint or exotic. Half-a-century earlier, cartographers such as Alexander Dalrymple (who mapped North Borneo, Sulu, Palawan and Mindanao in 1764) were still able to acknowledge local sources of information and data, and on his map of the East Borneo coast, Dalrymple even pays tribute to local Bajao and Sutu navigators who helped him in his work. It is quite telling that no such attribution was found in the works of Crawfurd, Raffles and those who came after them, for by then the British East India Company and the Dutch East India Company were staffed by Western cartographers schooled in Western norms of map-making, and who viewed the lands that they conquered as commercial prizes for possession and exploitation.
 
@@ -104,16 +103,16 @@ The maps of Asia I have discussed in this essay tell us something about how the 
 
 #### **REFERENCES**
 
-Anderson, B. (1983). *[Imagined communities: Reflections on the origins and spread of nationalism.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657) London: Verso Press. (Call no.: R 320.54 AND)
+Anderson, B. (1983). *[Imagined communities: Reflections on the origins and spread of nationalism.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657)* London: Verso Press. (Call no.: R 320.54 AND)
 
-Chaudhuri, K.N. (1990). *[Asia before Europe: Economy and civilisation in the Indian ocean from the rise of Islam to 1750.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657) Cambridge University Press. (Call no.: RCLOS 320.54 AND)
+Chaudhuri, K.N. (1990). *[Asia before Europe: Economy and civilisation in the Indian ocean from the rise of Islam to 1750.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657)* Cambridge University Press. (Call no.: RCLOS 320.54 AND)
 
-Crawfurd, J. (1820). *[History of the Indian archipelago: Containing an account of the manners, arts, languages, religions, institutions and commerce of its inhabitants.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=202671761) Edinburgh: A. Constable and Co. (Call no.: RRARE 915.9 CRA; Accession nos.: B29033806I [Vol. I]; &amp; B29033809A [Vol. II])
+Crawfurd, J. (1820). *[History of the Indian archipelago: Containing an account of the manners, arts, languages, religions, institutions and commerce of its inhabitants.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202671761)* Edinburgh: A. Constable and Co. (Call no.: RRARE 915.9 CRA; Accession nos.: B29033806I [Vol. I]; &amp; B29033809A [Vol. II])
 
-Raffles, T.S. (1817). *[History of the Indian archipelago: Containing an account of the manners, arts, languages, religions, institutions and commerce of its inhabitants.]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=201909379) London: Black, Parbury and Allen. (Call no.: RCLOS 959.82 RAF)
+Raffles, T.S. (1817). *[History of the Indian archipelago: Containing an account of the manners, arts, languages, religions, institutions and commerce of its inhabitants.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201909379)* London: Black, Parbury and Allen. (Call no.: RCLOS 959.82 RAF)
 
 #### **NOTES**
-[^1]:Anderson, B. (1983). *[Imagined communities: Reflections on the origins and spread of nationalism]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657).  (pp. 163–164). London: Verso Press. (Call no.: R 320.54 AND)
+[^1]:Anderson, B. (1983). *[Imagined communities: Reflections on the origins and spread of nationalism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657)*.  (pp. 163–164). London: Verso Press. (Call no.: R 320.54 AND)
 
 [^2]:*[Anderson ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657)*, 1983, pp. 171–172.  
 
