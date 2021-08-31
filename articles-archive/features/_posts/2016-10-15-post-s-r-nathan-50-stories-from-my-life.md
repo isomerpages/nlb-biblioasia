@@ -88,9 +88,9 @@ The whole episode ended without bloodshed. It was good experience for me, the va
 
 |**Other Publications by S R Nathan**|
 
-|*S R Nathan in Conversation with Timothy Auger*<br>|
-|Editions Didier Millet, 2015<br>|
-|Call no.: RSING 959.5705 NAT|
+|*S R Nathan in Conversation with Timothy Auger*<br>
+Editions Didier Millet, 2015<br>
+Call no.: RSING 959.5705 NAT|
 
 *An Unexpected Journey: Path to the Presidency*
 Editions Didier Millet, 2011
