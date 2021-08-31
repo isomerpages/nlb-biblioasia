@@ -7,7 +7,7 @@ layout: post
 #### The late S R Nathan published seven books in his lifetime, but his most accessible is probably *50 Stories from My Life*. These two selections offer contrasting glimpses of the man who was President of Singapore from 1999–2011.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-3/s-r-nathan/01_sr_nathan.jpg)
-<div style="background-color: white;"><i>Umi and I secretly kept in touch in the early days of our relationship.</i></div>
+<div style="background-color: white;"><center><i>Umi and I secretly kept in touch in the early days of our relationship.</i></center></div>
 
 #### **How I Met My Wife – and Finally Married Her**
 
@@ -30,7 +30,7 @@ Her leaving was very painful. She was set to fly from Singapore to Kuala Lumpur,
 I was deeply saddened, and cried all the way on the flight back to Singapore. My mother consoled me later, saying: “Don’t be sad. Leave it to God. If he wills, all will turn out according to both your wishes.” And it did.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-3/s-r-nathan/02_sr_nathan.jpg)
-<div style="background-color: white;"><i>I saw Umi off at the Kuala Lumpur airport, from where she took a flight to the UK for her teacher-training course.</i></div>
+<div style="background-color: white;"><center><i>I saw Umi off at the Kuala Lumpur airport, from where she took a flight to the UK for her teacher-training course.</i></center></div>
 
 While she was away in the UK, we kept up with weekly airmail letters. I was always anxious, as I was afraid she might come into contact with someone better than me. It did not happen. She was as steadfast as on the day when we parted.
 
@@ -46,11 +46,11 @@ Finally, in December 1958, the wedding took place – in fact, two weddings. Umi
 
 *Sometimes even civil servants must be willing to face danger, as I discovered after terrorists hijacked a vessel in Singapore harbour. Fortunately, the incident ended without bloodshed.*
 
-In 1974, when I was director of the Security and Intelligence Division at the Ministry of Defence, hijackers seized the Laju, a small ferry owned by Shell, the oil company. By the time I reached the Marine Police headquarters, the Laju was being shadowed by a police patrol boat. Finally, it came to a halt, surrounded by police, customs and Singapore Maritime Command vessels.
+In 1974, when I was director of the Security and Intelligence Division at the Ministry of Defence, hijackers seized the *Laju*, a small ferry owned by Shell, the oil company. By the time I reached the Marine Police headquarters, the *Laju* was being shadowed by a police patrol boat. Finally, it came to a halt, surrounded by police, customs and Singapore Maritime Command vessels.
 
 The hijackers put a message in a bottle. They announced they were the “Japanese Red Army and Popular Front for the Liberation of Palestine”. They threatened to kill their hostages unless they were allowed to leave Singapore for an “Arab” country. At that stage we did not know who the hostages were, or how many there were.
 
-We learned subsequently that there were four terrorists. Two of them were Japanese and two Arab. Earlier, they had set off explosive charges against four oil tanks on Pulau Bukom. They had unexpectedly been spotted, and had had to make a rapid escape. They had run to the Shell jetty, where they had hijacked the Laju, which was waiting to take passengers. These would have included children crossing from the island to Singapore to attend school. Fortunately, they had not actually boarded the vessel. Five crewmen were being held hostage.
+We learned subsequently that there were four terrorists. Two of them were Japanese and two Arab. Earlier, they had set off explosive charges against four oil tanks on Pulau Bukom. They had unexpectedly been spotted, and had had to make a rapid escape. They had run to the Shell jetty, where they had hijacked the *Laju*, which was waiting to take passengers. These would have included children crossing from the island to Singapore to attend school. Fortunately, they had not actually boarded the vessel. Five crewmen were being held hostage.
 
 Negotiations were begun, mostly by loudhailer, by Superintendent Tee Tua Ba, head of the Marine Police, stationed on his patrol boat. The terrorists asked for the Japanese ambassador to be summoned. When we didn’t respond, they sent a radio message: “Sunset time is blowing up time.” Finally, when the ambassador appeared, and after some negotiation, they turned against him, threatening that if the Japanese police were involved, blood would flow.
 
