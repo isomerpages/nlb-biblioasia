@@ -141,7 +141,7 @@ The audiotapes of Lee’s *Journey to the West* form part of the more than 5,000
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/barbarax.JPG" style="width: 100px; height: 100px;">
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Barbarax.jpg" style="width: 100px; height: 100px;">
 <b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
 
