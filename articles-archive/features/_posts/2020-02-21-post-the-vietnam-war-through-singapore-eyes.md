@@ -6,7 +6,7 @@ layout: post
 ---
 #### Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived. **Shirlene Noordin** has the story.
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v.JPG">
 <div style="background-color: white;">South Vietnamese soldiers paying their respects to the memory of Sam Kai Faye, Terry Khoo and South Vietnamese Army photographer Tran Van Nghia at the spot where the three men were killed in a sniper attack on 20 July 1972. The memorial was built by Tony Hirashiki (ABC News cameraman) and friends. The sign on the left (cut off in the photo) reads “Terry + Sam Hill”. <i>Courtesy of Chin Kah Chong.</i></div>
 
 Some of the most iconic and impactful images of the 20th century emerged from the Vietnam War, or Second Indochina War, which took place from 1955 to 1975.
