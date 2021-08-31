@@ -122,7 +122,7 @@ Teo, T.W. (1978, June 27). [Asia-Pacific lays out a special $20m winner.](http:/
 
 Wong, S-F. (1988, July 24). [Guides to better eating.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880724-1.2.89.41) <i> The Straits Times</i>, p. 8. Retrieved from NewspaperSG
 
-##**NOTES**
+#### **NOTES**
 
 [^1]: These include Bruce, A. (1971). *[Good food guide to Singapore.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081985)*[Singapore]: Published for Asia Pacific Press by D. Moore, (Call no.: RCLOS 642.56 BRU); Oon, V. (1986). *[Singapore: 101 meals.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5211155)*[Singapore]: Singapore Tourist Promotion Board. (Call no.: RSING 647.955957 SIN); *[Where to eat and drink and entertain.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4252865)* Singapore: Pacific Trade Press. (Call no.: RCLOS 647.955957 WEDE); *[Good food in Singapore.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5380295)*(1988). Singapore: Far East Trade Press. (Call no.: RSING 642.50255957 GFS)
 
