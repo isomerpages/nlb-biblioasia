@@ -115,7 +115,7 @@ Call no.: RSING 327.5957 NAT
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/s-r-nathan/blank-author.png">
-	<b>Biblioasia. </b>Download the PDF versions of BiblioAsia [here](http://www.nlb.gov.sg/Browse/ BiblioAsia.aspx).
+	<b>Biblioasia. </b>Download the PDF versions of BiblioAsia <a href="http://www.nlb.gov.sg/Browse/BiblioAsia.aspx">here</a>.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
