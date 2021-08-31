@@ -79,9 +79,8 @@ The terrorists who had stormed the Japanese embassy in Kuwait arrived at the air
 At last came the development we had all been waiting for. The Kuwaiti foreign minister arrived, and told me and my fellow Singaporeans to leave the aircraft. For several hours we were afraid that the hijackers might insist that we be returned to the aircraft as hostages, so we made ourselves scarce. However, that night we were flown safely by Kuwait Airways to Bahrain, and returned home from there on Singapore Airlines. Both groups of terrorists were flown on later to South Yemen.
 
 The whole episode ended without bloodshed. It was good experience for me, the various ministries involved, the security service, the police and the military. While the decision to give the Laju hijackers safe passage out of Singapore attracted some criticism, we believed it was right. We wanted to minimise any likelihood of a terrorist group picking a quarrel with Singapore and seeking retaliation. In government you often have to make difficult decisions about serious problems with little accurate information at your disposal, and under great time pressure.
-|
+
 ![Alt text for image on Isomer site](/images/Vol-12-issue-3/s-r-nathan/05_sr_nathan.jpg)
-|
 
 |S R Nathan: 50 Stories from My Life captures major milestones in the personal and official life of the late former President of Singapore (b. 3 July 1924−d. 22 August 2016). Written with a younger audience in mind, and illustrated by Morgan Chua, a former political cartoonist with the Far Eastern Economic Review, the book will appeal to anyone interested in Singapore and its history.|
 
