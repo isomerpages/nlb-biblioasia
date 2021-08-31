@@ -86,3 +86,29 @@ The whole episode ended without bloodshed. It was good experience for me, the va
 |S R Nathan: 50 Stories from My Life captures major milestones in the personal and official life of the late former President of Singapore (b. 3 July 1924−d. 22 August 2016). Written with a younger audience in mind, and illustrated by Morgan Chua, a former political cartoonist with the Far Eastern Economic Review, the book will appeal to anyone interested in Singapore and its history.|
 
 |S R Nathan: 50 Stories from My Life (paperback, 184 pages) is published by Editions Didier Millet and retails at $19.90. It is available for loan and reference at the Lee Kong Chian Reference Library and branches of all public libraries (Call no.: RSING 959.5705092 NAT).|
+
+|Other Publications by S R Nathan|
+
+|*S R Nathan in Conversation with Timothy Auger*<br>|
+|Editions Didier Millet, 2015<br>|
+|Call no.: RSING 959.5705 NAT|
+
+*An Unexpected Journey: Path to the Presidency*
+Editions Didier Millet, 2011
+Call no.: RSING 959.5705092 NAT
+
+*Why Am I Here?: Overcoming Hardships of Local Seafarers*
+Centre for Maritime Studies, National University of Singapore, 2010
+Call no.: RSING 331.7613875095957 NAT
+
+*The Crane and the Crab*
+Epigram Books, 2013
+Call no.: JRSING 428.6 NAT
+
+*Winning Against the Odds: The Labour Research Unit in NTUC’s Founding*
+Straits Times Press, 2011
+Call no.: RSING 331.88095957 NAT
+
+*Singapore’s Foreign Policy: Beginnings and Future*
+MFA Diplomatic Academy, 2008
+Call no.: RSING 327.5957 NAT
