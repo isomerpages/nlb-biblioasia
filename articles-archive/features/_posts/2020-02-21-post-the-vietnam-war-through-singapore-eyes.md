@@ -11,9 +11,9 @@ layout: post
 
 Some of the most iconic and impactful images of the 20th century emerged from the Vietnam War, or Second Indochina War, which took place from 1955 to 1975.
 
-During what the Vietnamese called the Resistance War Against America, the world’s media had unprecedented access to the combat zone as these photographers followed American troops into battle. By 1968, at the height of the war, there were about 600 accredited journalists in Vietnam.1 Photographers, camera crew and war correspondents could easily hitch a ride in a helicopter and find themselves in the thick of combat action. The media had unfettered access to the events as they unfolded, with the photographers and cameramen obtaining some of the most vivid, uncensored images and video footage of war ever captured.
+During what the Vietnamese called the Resistance War Against America, the world’s media had unprecedented access to the combat zone as these photographers followed American troops into battle. By 1968, at the height of the war, there were about 600 accredited journalists in Vietnam.[^1] Photographers, camera crew and war correspondents could easily hitch a ride in a helicopter and find themselves in the thick of combat action. The media had unfettered access to the events as they unfolded, with the photographers and cameramen obtaining some of the most vivid, uncensored images and video footage of war ever captured.
 
-As a result, for the first time, images of the war were beamed directly into the homes of Americans and people around the world through television, and also appeared in newspapers and magazines. As Vietnam is more than 13,000 km away from the US, these images helped provide new perspectives and shape the understanding of a conflict that, as a result of the draft – as conscription was known2 – directly affected a large swathe of American society.
+As a result, for the first time, images of the war were beamed directly into the homes of Americans and people around the world through television, and also appeared in newspapers and magazines. As Vietnam is more than 13,000 km away from the US, these images helped provide new perspectives and shape the understanding of a conflict that, as a result of the draft – as conscription was known[^2] – directly affected a large swathe of American society.
 
 Many of the journalists covering the conflict were American. However, because it was such a significant event, journalists from all over the world descended on Saigon to document the war, including those from Asia.
 
@@ -201,3 +201,6 @@ Their consummate professionalism, their selfless courage, and their unstinting g
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
+
+#### **Notes**
+[^1]:
