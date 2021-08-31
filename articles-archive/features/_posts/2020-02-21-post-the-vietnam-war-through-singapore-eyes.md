@@ -132,3 +132,72 @@ Following the deaths of his two good friends, Chin recalled that Khoo had once s
 
 In memory of both men, ABC News set up a two-year fellowship in the name of Terence Khoo and Sam Kai Faye for Asian students studying at Columbia University’s Graduate School of Journalism. Khoo also bequeathed a third of his insurance money of $62,500 to the University of Singapore (now National University of Singapore). Yearly awards of $1,300 were given to medical students from low-income families.
 
+#### **Chellapah “Charlie” Canagaratnam**
+
+The fourth Singaporean journalist in Vietnam was Chellapah Canagaratnam, nicknamed Charlie or Charles Chellapah by the Americans. He was born in Singapore in 1940, the fourth child in a family of 10.24
+
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v8.JPG">
+<div style="background-color: white;">Charlie Chellapah stepping off a US military helicopter, c. 1963. <i>Courtesy of the Canagaratnam family.</i></div>
+
+Chellapah arrived in Saigon in January 1965.25 Although Chin, Khoo and Sam were in South Vietnam at around the same time that Chellapah was there, there is no evidence that the trio met Chellapah in Saigon or that they were even acquainted with him.
+
+Chellapah had been a sports reporter with *The Singapore Free Press*, covering mostly soccer matches before becoming a freelance photographer. He then moved to Kuala Lumpur where he worked for *The Malayan Times* and subsequently to Sabah for the *Sabah Daily Express*.26
+
+An avid sportsman, Chellapah raced both cars and motorcycles, and participated in local Grand Prix races. Still a bachelor, his thirst for adventure, his free spirit and sense of purpose brought him to Vietnam where he worked as a freelance photographer for Associated Press. Chellapah’s close-up shots of casualties and combat were so dramatic that he was warned by Horst Faas, his Associated Press photo editor, to be careful.27
+
+On 14 February 1966, Chellapah was in Cu Chi, northwest of Saigon, where he had accompanied some American soldiers on a road-clearing mission. Cu Chi was also known as Hell’s Half Acre because of the sheer number of people killed by camouflaged Viet Cong snipers in the dense jungle, under which was a complex network of connecting tunnels used by the Viet Cong.28
+
+During the mission, a Viet Cong mine was set off. As Chellapah scrambled towards those wounded, a second mine exploded, instantly killing everyone. His family only learned of his death later from the BBC World Service.29
+
+Chellapah was the third Associated Press photographer to die in Vietnam in less than a year, and Horst Faas had to report the circumstances of his death to the president of the company. According to Faas, Chellapah’s last roll of film showed how he was in the thick of the action.
+
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v9.JPG">
+<div style="background-color: white;">Charlie Chellapah in the field, 1963/64. <i>Courtesy of the Canagaratnam family.</i></div>
+
+He said, “Here are the last pictures by photographer Charlie Chellapah… This last roll of film was released by the authorities today along with his other personal effects. The pictures reveal, better than any words could, how close Chellapah was to the action up to the moment of his death.”30 The last photograph taken by him shows an American soldier holding a seriously wounded comrade.31
+
+Associated Press made arrangements for Chellapah’s body to be flown back to Singapore. He was cremated and his ashes scattered in the sea off Bedok.32
+
+Chellapah’s elder brother and his sister recounted that one month after his funeral, they received a letter Chellapah had written before he died, informing them that he was planning to go to Hong Kong and at the same time purchase insurance cove­rage for himself. Sadly, this did not happen.33 According to Chellaph’s brother C. Tharmalingam, “Chellapah was a selfless person who always put others before himself, whether it was his school mates, colleagues or comrades. It was this commitment to work and friendship which claimed his life. Unfortunately, his courage was his misfortune.”34
+
+#### **Leaving a Legacy**
+
+These Singaporean journalists went to Vietnam with a sense of purpose and devotion to duty: to bring stories of the war and the people involved in it to the world. The photographs taken by Sam Kai Faye, Terence Khoo and Chellapah “Charlie” Canagaratnam were published in international newspapers and magazines, and the footage they shot appeared nightly on the news on American television. Whether they were aware or not, their perspectives of the war as seen through their work contributed to the international public discourse about Vietnam at the time. As the bureau chief of PANA, the stories that Chin Kah Chong wrote and the books he published offer an Asian perspective on this prolonged war in Southeast Asia.
+
+The news stories that these men chased came at a great personal cost. Three of them paid with their lives. Chellapah, in wanting to help the wounded, met his fate, cutting short the life of an exceptional young journalist who had a bright future ahead of him. Sam and Khoo died as they had lived – as best friends committed to each other and wanting to help each other out. Chin survived the war but lost two close friends.
+
+Their consummate professionalism, their selfless courage, and their unstinting generosity of spirit continue to be an inspiration to journalists all over the world.
+
+|**THE INDOCHINA WARS: A SHORT HISTORY**
+
+|The First Indochina War (1945–54), or what the Vietnamese called the Anti-French Resistance War, came on the back of World War II in Asia. The returning French colonial forces were pitted against the nationalists led by Ho Chi Minh and Vo Nguyen Giap, united under the banner of the Viet Minh fighting for Vietnamese independence.
+
+|Fearing a communist victory, the United States officially provided military assistance to the French in 1950 and laid the groundwork for the subsequent protracted American involvement in Indochina.
+
+|The Viet Minh forces were, in turn, supported by China and the Soviet Union. What started as a low-level insurgency escalated into conventional war, which raged on until the Battle of Dien Bien Phu that lasted from 13 March to 7 May 1954 and saw the defeat of France.
+
+|In July 1954, the Geneva Agreements were signed. As part of the agreement, the French agreed to withdraw their troops from North Vietnam, leaving the Viet Minh in control.
+
+|South Vietnam came under the control of Ngo Dinh Diem, who was first the prime minister and then became president in 1955.
+
+|Vietnam temporarily became a divided country at the 17th parallel, pending elections within two years to choose a president and reunite the country.
+
+|As the French withdrew, the First Indochina War segued into the Second Indochina War (1955–75), also known as the Vietnam War. Officially, it was a war waged between the communist North Vietnamese Army and its allies, the Viet Cong, and the South Vietnamese government backed by the United States.
+
+|By 1961, the American military effort had intensified and in 1965, the first combat units from the United States landed in South Vietnam, marking a turning point in the war.
+
+|American public support for the war soon declined because of the prolonged nature of the conflict and the large number of American casualties in a war that was taking place overseas. Media reports, news photographs and video footages also helped fan resistance to the war.
+
+|In 1970, America began withdrawing its troops from Vietnam with the last batch of soldiers leaving in 1973. The North Vietnamese Army continued its push into South Vietnam after the American withdrawal. With the US Congress cutting military aid to South Vietnam, the weakened South soon proved unable to hold back the North. On 30 April 1975, Saigon fell to the North Vietnamese Army. According to estimates, about three million Vietnamese civilians and combatants died during the conflict while close to 60,000 Americans were killed or missing in action.
+
+|The war in Vietnam soon spilled over into neighbouring Cambodia and Laos, resulting in the Third Indochina War (1975–91) which involved Thailand and China. In 1975, armed conflicts between Vietnam and Cambodia resulted in the Vietnamese invasion of Cambodia in 1978 that eventually led to the fall of the Khmer Rouge government in Phnom Penh. The remaining Khmer Rouge forces retreated to the Thai-Cambodian border. In the following decade, Thai and Vietnamese troops clashed on several occasions.
+
+|China had objected to the invasion of Cambodia and launched attacks on Vietnam’s northern provinces in February 1979, capturing several cities near the border. Although China withdrew from Vietnam in March 1979, both countries were engaged in border disputes and clashes until 1990.’ The 1991 Paris Peace Agreements officially marked the end of the war between Vietnam and Cambodia.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/s.JPG" style="width: 100px; height: 100px;">
+<b>Shirlene Noordin</b> is a communications consultant specialising in arts and culture. In 2011, she organised the exhibition “Requiem - By the photographers Who Died In Vietnam and Indochina” with NAFA Galleries. In March 2019, she curated the exhibition “Battlefield Lens: Photographers of Indochina Wars 1950–1975” held at the Selegie Arts Centre.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
