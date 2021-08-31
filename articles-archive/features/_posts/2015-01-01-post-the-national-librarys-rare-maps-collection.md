@@ -38,6 +38,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 <img  src="/images/vol-10-issue-4/raremap/gerard.jpg">
 <div style="background-color: white;">     Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.</div>
+asdasd
 
 |<img src="/images/vol-10-issue-4/raremap/gerard.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. <i>Wikimedia Commons</i>.|
 
