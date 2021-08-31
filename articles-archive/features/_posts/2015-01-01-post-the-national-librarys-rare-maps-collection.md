@@ -34,6 +34,8 @@ The National Library’s collection of rare maps is an important source for the 
 
 |**GIACOMO GASTALDI**|
 
+|<img src="/images/vol-17-issue-2/malayweddings/BungaTelur2.png">A *bunga telur* comprises a red hard boiled egg resting on top of a bed of *pulut kunyit* (yellow glutinous rice) in a glass decorated with flowers. *Courtesy of Asrina Tanuri.*|
+
 |Giacomo Gastaldi (circa 1500-65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
 
 <img  src="/images/vol-10-issue-4/raremap/gerard.jpg">
