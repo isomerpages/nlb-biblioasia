@@ -176,7 +176,7 @@ Tooley, R.V. (1979). *Tooley’s dictionary of mapmakers.* Hertfordshire: Map Co
 
 [^2]: Shirley, R.W. (1984). *The mapping of the world: Early printed world maps, 1472–1700* (pp. xxvii–xxviii). London: Holland Press. (Not available in NLB holdings)
 
-[^3]:Suarez, T. (1999). *[Early mapping of Southeast Asia] (https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*(p. 130). Hong Kong: Periplus Editions. (Call no.: RSING q912.59 SUA)
+[^3]:Suarez, T. (1999). *[Early mapping of Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*(p. 130). Hong Kong: Periplus Editions. (Call no.: RSING q912.59 SUA)
 
 [^4]: Stefoff, R. (1995). *[The British Library companion to maps and mapmaking ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384)*(p. 115). London: British Library. (Call no.: R 912.03 STE)
 
