@@ -48,7 +48,7 @@ Thick smoke billows out steadily from the narrow chimney of the furnace. The req
 
 “He comes here every season,” Seng Huat says,“ and stays for a long time each time he visits.” He adds, “I think you should speak to him.” 
 
-“It has been over 60 years since I first started work here.” 91-year-old Mustari Dimu, a former resident of Lazarus Island, says in Malay. And every year since then, Mustari has returned to Kusu for a full month - maintaining his long family tradition and deep friendship with Seet Hock Seng, Seng Huat’s late father, the temple's former caretaker. 
+“It has been over 60 years since I first started work here,” 91-year-old Mustari Dimu, a former resident of Lazarus Island, says in Malay. And every year since then, Mustari has returned to Kusu for a full month – maintaining his long family tradition and deep friendship with Seet Hock Seng, Seng Huat’s late father, the temple's former caretaker. 
 
 Such stories are not uncommon in “Island Nation”, a documentary project that recounts the stories of Singaporeans who once lived on the southern islands of Singapore, especially Sisters' Island, Sentosa and Kusu Island, 
 
