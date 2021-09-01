@@ -73,10 +73,49 @@ Madam Tan, a resident of Pulau Ubin born around 1938, recalled red brick steps l
 Chia also said that the shrine had become popular with gamblers by the time he was visiting it as a boy in the 1930s. Nearly a century later, this practice has not diminished as the shrine is still regularly visited by punters seeking luck in the 4D lottery (where people place a wager on a four-digit number that is matched against winning numbers).
 
 
-#### **Ants and Termites **
+#### **Ants and Termites**
 
 If the shrine had indeed been built over a grave, who could have been buried there? The following accounts offer some clues.
 
 In 1990, Chia told the *Lianhe Wanbao* newspaper that when plantation workers found the German girl’s body, she looked like a dead ant.[^17] In a subsequent 1993 magazine article, he said the body was “covered with ants” so the workers “threw soil over the remains”.[^18]  Ah Cheng the assistant caretaker related in a 2017 interview that when the girl was discovered, she was “covered by a lot of ants and mud and was in a human body shape”.[^19]
 
-In another version of the story related by Ong Siew Fong, another long-term resident on the island and caretaker of the Wei Tuo Fa Gong Temple, the girl did not fall to her death but hid in a cave or outcrop at the top of the hill. When the villagers went to look for her, they discovered that “termites had made a tomb for her” and decided not to disturb the mound, a point that Chia also made in a 2003 interview.20  (Termites are known as white ants in Chinese.)
+In another version of the story related by Ong Siew Fong, another long-term resident on the island and caretaker of the Wei Tuo Fa Gong Temple, the girl did not fall to her death but hid in a cave or outcrop at the top of the hill. When the villagers went to look for her, they discovered that “termites had made a tomb for her” and decided not to disturb the mound, a point that Chia also made in a 2003 interview.[^20] (Termites are known as white ants in Chinese.)
+
+In this region, it is not uncommon for termite mounds to become the site of *datuk keramat*, with devotees worshipping the spirit in the mound after having good luck with lottery numbers. It is believed that the mounds of red and black ants bring bad luck, while those with white ants, or termites, bring good luck. These colours also correspond to the *datuk* spirits who reside in the mounds.[^21] 
+
+This last point offers a possible origin for the German girl in the termite mound on the hill. The white *datuk* spirit of this shrine, gendered female due to the shape of the mound, became a “white” girl, her backstory embellished as a means of explaining how she came to rest in the ground on Ubin. 
+
+What can be said with certainty is that when the mound was subsequently excavated, no skeleton of a teenage girl or otherwise was found.
+
+#### **Quarries and Urns**
+
+In the 1920s, the Ong Lye Sua granite hill was bought by entrepreneur Wee Cheng Soon, who established quarrying works there. After Wee died in the late 1940s, the land was sold to the New Asia Granite Company; two decades later, it was acquired by Aik Hwa Granite.
+
+Aerial photographs show that Ong Lye Sua was almost completely levelled by 1969. Within a few years, Aik Hwa would remove the land on which the shrine was located and agree to move it to a new home. Unfortunately, there is no record of this event in Aik Hwa’s company archives. While the exact date is not known, Chia suggested 1974, which seems plausible.
+
+Aik Hwa built a clapboard hut near the sea and painted it yellow – the traditional colour of *datuk kong* shrines, reflecting their Malay roots – and hired a Taoist priest to conduct rites. Ong Siew Fong recalled that it was this priest who labelled the spirit as a “datuk maiden” (拿督姑娘) to denote its female gender. 
+
+He also named it Yatikakak. Yati, a Malay name with Sanskrit roots, is also one of the holy names of the Hindu goddess Durga, the protective mother, while *kakak*, which means “elder sister” in Malay, is an honorific for older women.
+
+Aik Hwa also hired workers to exhume the mound of the original shrine. In the 1987 新明日报 (*Xin Ming Ri Bao*) article, Chia said they found a metal cross and some coins. However, in his 2004 oral history interview, Chia said the man employed to dig up the grave “refused to say anything”, that he “talked nonsense” and did not “believe in facts”. When the mound was opened, a “shape of a person” could still be seen, but aside from a few strands of hair, nothing else was found. Her bones, he repeated three times, had “become ash”. 
+
+Chin Tiong Hock, nicknamed “Bala”, had helped with the exhumation. His wife, Ong Siew Fong, recalled that the men found some “finger bones”,[^22]  although these could possibly have been chicken bones from prior offerings. They also found a one-cent coin from British North Borneo dated 1890.[^23] 
+
+The hair, cross and other coins were placed in an urn on the altar of the new shrine  – or maybe not. In one interview, Chia claimed that the cross was taken by the men Aik Hwa Granite had hired to dig the grave. In 1990, Chia peered inside the urn “to verify that the hair and iron cross were there”, and he was shocked to find it empty. He later offered an implausible tale that the original urn had in fact been stolen and replaced with an exact replica, a story that has now become a part of the German girl lore. 
+
+Likely, though, the urn – a symbolic vessel to hold the *datuk* spirit – was probably always empty. A study of temporary shrines that have displaced older *datuk keramat* on construction sites in Malaysia points out that empty “Chinese-style urns, believed to embody the keramat spirit”, are commonly placed on the altar by Chinese companies that own the construction sites.[^24]  
+
+In the late 1980s, Pulau Ubin underwent a transformation as quarrying operations wound down and thousands of workers departed. Within a decade, only a few hundred villagers would remain; by the late 1990s, the little German girl shrine was nearly forgotten. It was not mentioned in a 1998 survey of recreational use of the island that included religious and historical sites.[^25]  A visitor in 1998 found it sorely neglected.[^26]  The old caretaker had passed away and no one was looking after 
+the shrine. 
+
+That situation was about to change dramatically. 
+
+#### **Haunted Barbie**
+
+In 2000, the story of the German girl appeared in the coffee-table book *Pulau Ubin: Ours to Treasure*, written by nature enthusiast Chua Ee Kiam.[^27] The tale prompted film student Ho Choon Hiong to shoot a 17-minute documentary about the shrine (prominently featuring Chia). The documentary was shown at the 2001 Singapore International Film Festival, inspiring dramatist Lim Jen Erh to write *Moving Gods*, a play staged by The Theatre Practice in 2003. Ho directed and produced the play as a telemovie of the same name, which was broadcast on television in 2004.
+
+The shrine was also featured in an episode of the *Site and Sound* documentary television series in 2004, hosted by anthropologist and architectural historian Julian Davison.[^28] The following year, it was discussed in Jonathan Lim’s *Between Gods and Ghosts* (2005), a book about Singaporean folklore.[^29]
+
+In his 2006 book, *Final Notes from a Great Island*, popular author Neil Humphreys wrote about a red and yellow sign in English, German and Chinese on Ubin that pointed to the direction of the “German Girl shrine”. Humphreys had taken the information of the shrine from a 2003 Straits Times article he found tacked to the wall of the shrine. (The story was written by ethnomusicologist Tan Shzr Ee, who had composed the soundtrack for the *Moving Gods* telemovie).[^30] 
+
+
