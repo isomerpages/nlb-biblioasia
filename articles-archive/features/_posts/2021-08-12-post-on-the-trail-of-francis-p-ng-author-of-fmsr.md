@@ -120,7 +120,7 @@ Old documents of the Straits Chinese British Association might have contained hi
 
 I met or contacted siblings, children and grandchildren of people who knew Teo, hoping that someone would be able to shed light on the writer in his later years. I was especially hoping to hear something positive from the family of Paul Abisheganaden: Teo was well versed in Western classical music and Abisheganaden in literature, even becoming the secretary of the Literary Department of Raffles College at one point.[^47] Moreover, Teo’s Christian name was also Paul, suggesting that the two Pauls could have shared a common bond.[^48] Regrettably, Abisheganaden passed away in 2011 and his family has neither heard of Teo nor retained any of Abisheganaden's private records that might have shed light on the elusive Teo. [^49]
 
-#### *"The reprinting of <i>F.M.S.R.</i> will fill the gap in Singapore's literary past, and in particular, that of English – language literature."* 
+#### **"The reprinting of <i>F.M.S.R.</i> will fill the gap in Singapore's literary past, and in particular, that of English – language literature."** 
 
 #### **Orphan Book Project** 
 
@@ -195,7 +195,7 @@ Teo, P.L. (1936, January). Time is past. <i>The London Mercury</i>, 33 (95), 275
 
 [^14]: *[St Joseph’s Magazine: Chronicle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6533040)*, 1930, 29.
 
-[^15]: 1931. (1993). *[Raffles College 1928–1949.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6457891)* Singapore: Alumni Affairs and Development Office. (Call no.: RSING 378.5957 RAF). According to the *[Straits Settlements blue book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)* for 1934–1939, Teo joined the civil service on February 14, 1929. His name was however not found in the establishment list for the education service for the years 1929–1933 in the *[Straits Settlements blue book.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)* See Fuan, T.Y. (2013, October 28). Teo Poh Leng. Email to the Author.
+[^15]: 1931.(1993). *[Raffles College 1928–1949.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6457891)* Singapore: Alumni Affairs and Development Office. (Call no.: RSING 378.5957 RAF). According to the *[Straits Settlements blue book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)* for 1934–1939, Teo joined the civil service on February 14, 1929. His name was however not found in the establishment list for the education service for the years 1929–1933 in the *[Straits Settlements blue book.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)* See Fuan, T.Y. (2013, October 28). Teo Poh Leng. Email to the Author.
 
 [^16]: *[Raffles College 1928–1949](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6457891)*, 1993; Fuan, 28 Oct 2013.
 
