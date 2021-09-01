@@ -69,7 +69,7 @@ The map creators were especially adept at pointing out spirit houses, temples an
 
 For the historian, the maps pinpoint the locations of traditional but now barely existing activities and outlets in various neighbourhoods. For example "counters for remittance to China in (an) old medical hall" is located at 211 South Bridge Road in the heart of Chinatown, while ready-made <i>popiah</i> (spring roll) skins and <i>pie tee</i> (crispy dough cups) are prepared at Kway Guan Huat in the Peranakan enclave at 95 Joo Chiat Road. Incredibly, Kway Guan Huat still stands at its original site today, albeit in a more gentrified neighbourhood, and Shima restaurant re-opened in June 2014 at the Goodwood Park Hotel – where it used to be way back in the 1980s. 
 
-<i>The Secret Food Map</i> was soon followed by <i>The Secret Map of Sydney</i>, which was released in October 1987. [^16] <i>The Secret Map of Singapore</i> was reprinted in 1990, with research updates by Andrew Blaisdell and Adeline Ropion. [^17] Even so, changes to Singapore's landscape were so swift that although only three years had lapsed. the reprinted map was revised with 88 highlights instead of the 93 shown in the original.[^18]
+<i>The Secret Food Map</i> was soon followed by <i>The Secret Map of Sydney</i>, which was released in October 1987.[^16] <i>The Secret Map of Singapore</i> was reprinted in 1990, with research updates by Andrew Blaisdell and Adeline Ropion. [^17] Even so, changes to Singapore's landscape were so swift that although only three years had lapsed. the reprinted map was revised with 88 highlights instead of the 93 shown in the original.[^18]
 
 <i>Only</i> The Secret Map of Singapore <i>is available in the National Library collection.</i> 
 
