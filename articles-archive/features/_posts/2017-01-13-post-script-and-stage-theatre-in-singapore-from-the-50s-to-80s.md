@@ -73,7 +73,7 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 
 
-#### **ICONIC THEATRE ACROSS THE DECADES**
+| **ICONIC THEATRE ACROSS THE DECADES**|
 
 |**The 50s**|
 
@@ -113,7 +113,7 @@ Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s
 
 |All the scenes in Emily are performed by a single actress, who mimes and interacts with unseen characters on and off stage. Its simplicity was considered avant-garde for its time, but what was most innovative was the play’s use of language. Emily’s ability to switch seamlessly from Singlish and a mix of Malay and Hokkien to proper English with a clipped British accent held audiences in thrall. It also set the standard for an authentic Singaporean voice to be expressed on stage in the following decades.|
 
-#### **ABOUT THE EXHIBITION**
+| **ABOUT THE EXHIBITION**|
 
 |“Script &amp; Stage: Theatre in Singapore from the 50s to 80s” is held on levels 7 and 8 of the National Library Building until 26 March 2017. A series of programmes has been organised in conjunction with the exhibition, including public talks by playwrights, directors and artistes; guided tours by curators; and school tours. For more information, look up the website:[ www.nlb.gov.sg/exhibitions/]( www.nlb.gov.sg/exhibitions/)|
 
