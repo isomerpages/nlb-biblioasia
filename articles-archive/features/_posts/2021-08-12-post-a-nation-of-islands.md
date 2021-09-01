@@ -84,9 +84,9 @@ Those who remembered pointed out landmarks that are now gone, such as a well, no
 
 In the course of working on this project, we realised how interconnected the lives of the former islanders’ were and how important these islands still are to them today. Documenting their lives and what they remember of the islands is one way of capturing a slice of life that no longer exists in Singapore. 
 
-<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> wvww.facebook.com/islandnationsg<i>.The website</i> www.islandnation.sg <i>will be launched in March 2015.</i>
+|<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> wvww.facebook.com/islandnationsg<i>.The website</i> www.islandnation.sg <i>will be launched in March 2015.</i>|
 
-<i>This project was supported by the Singapore Memory Project's (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:</i> http://www.iremember.sg/indexphp/fund-intro/
+|<i>This project was supported by the Singapore Memory Project's (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:</i> http://www.iremember.sg/indexphp/fund-intro/ |
 
 <div style="background-color: white;">
 <br>
