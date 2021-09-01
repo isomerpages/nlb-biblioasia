@@ -78,7 +78,7 @@ The bond that the students shared with their teacher as well as their fondness f
 
 For many, the excursion to the islands of St John's, Lazarus and Seringat on 9 November 2014 was like a taking a step back into time. The <i>gotong-royong</i> (community) spirit was truly alive that day as the former islanders prepared food that everyone could share. Funnily enough, despite the lack of coordination, no two dishes were the same! 
 
-A walking tour of the Islands became a chance for these folks to make new memories - posing for pictures with their former neighbours and taking photos with their smart phones of landmarks where they had lived or played - all the while reminiscing about old times. 
+A walking tour of the Islands became a chance for these folks to make new memories – posing for pictures with their former neighbours and taking photos with their smart phones of landmarks where they had lived or played – all the while reminiscing about old times. 
 
 Those who remembered pointed out landmarks that are now gone, such as a well, now covered up, that used to exist along the newly paved road on Lazarus Island. The football “boys” recalled their training sessions on St John's, running along the beach and up the island's solitary hill. 
 
