@@ -7,13 +7,13 @@ layout: post
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg)
 <div style="background-color: white;">1.Students from the St John's Island English School take a group photograph with their teacher Mr Choo Huay Kim at the same place where they had their flag-raising ceremony every morning in the early 1970s.</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34961.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34961_re.jpg)
 <div style="background-color: white;">2.More than 70 former islanders and their family members returned to the islands of Sekijang Bendera (St John) and Sekijang Pelepah (Lazarus) for a walk down memory lane on Sunday, 9 November 2014. This photograph was taken outside a home that is now used as a chalet for the public. </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/MdmBedah_Stjohn_CA34927.jpg)
 <div style="background-color: white;">3.Mdm Bedah bte Din, 76, swims joyfully in the waters off St John Island, once known as Pulau Sekijang Bendera during the recent reunion of former islanders of that cluster. </div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Mustari_and_son.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Mustari_and_son_re.jpg)
 <div style="background-color: white;">4.Mustari Dimu (centre), 92, with his son Sardon Mustari (left), 65, and Hazwari Abdul Wahid, 23, at the Da Bo Gong (Tua Pek Kong) Temple on Kusu Island. Photographed near the temple furnace, they help to burn joss paper during the peak season. </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_CA30014.jpg)
