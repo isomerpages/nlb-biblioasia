@@ -53,3 +53,15 @@ Despite a careful search of the archives, there is no historical evidence to sub
 Intriguingly, the first newspaper article to describe the German girl shrine makes no mention of Germans at all.
 
 In 1985, an article in the Malay newspaper *Berita Minggu* mentioned the grave of a princess from Java that was located on a hill on the island. She had “fled to Pulau Ubin over one hundred years ago”, perhaps because of a broken heart or to avoid an arranged marriage. In another version, she was “cared for” by a wealthy *tongkang* (bumboat or lighter) builder. When she died, her body “became a hard rock shaped like a woman lying down”. She was said to later haunt the hill as a *hantu puteri*, or ghost princess, seducing a quarry worker from Johor who met a terrible fate.[^9]
+
+The writer, Saadon Ismail, explained that quarrying work on the hill required the grave be removed and a shrine was then built by the seashore nearby, guarded by “a group of Chinese who feel it needs to be maintained”.[^10] The article concludes with the earliest known photograph of the shrine. The writer, however, cited no source for his information.
+
+A guidebook published in 2007 noted that there was a *datuk keramat* on Ubin where a “holy woman” had been buried. “The back of the shrine has an oracle ‘eye’,” noted the guidebook, “which legend says will blink at votaries, promising to grant their wishes”.[^11] (In Malay, *datuk* is a term of respect. Among other things, it is used as a title for a person in a high position. A *datuk keramat* refers to a shrine that is worshipped and associated with earth, tree or rock spirits, though it could also be the spirit of someone who has departed.) 
+
+Often, the sites where these *datuk* spirits reside are worshipped by Malays as a *keramat*. Chinese migrants, familiar with earth spirits, adapted such *keramat* to their own traditions, progressively Sinicising them over time. Known as *datuk kong*, such shrines still appear by roadsides across Singapore. When quarrying was a major industry in Singapore, *datuk kong* shrines were often found nearby, so workers could ask for protection in the hazardous conditions, and one remains on Ubin, close to the German girl shrine.
+
+The German girl shrine, too, once stood near a quarrying operation. According to Chia, the shrine was originally located on Ong Lye Sua, once a 190-foot-high (57.9 m) granite hill that has since been completely removed. It is now the deep pond of Ketam Quarry.[^12]
+
+In another account by Ahmad bin Kassim, who has lived on the island since the early 1940s, the grave belonged to an Indian Muslim craftsman from Johor who travelled to Ubin to work at the quarry. He died there and was buried on the granite hill – a story that lacks as much historical evidence as the German girl tale (for the record, Pak Ahmad had been told that the German girl fell off a cliff into the sea and had no grave).13
+
+
