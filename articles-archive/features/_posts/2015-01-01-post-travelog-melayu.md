@@ -25,7 +25,7 @@ Travelog atau kisah pengembaraan mempunyai peranan yang tersendiri dalam memperk
 
 Travelog Melayu telah mula dihasilkan seawal abad ke-19. Antara yang masyhur ialah kisah-kisah pelayaran Abdullah, yang merupakan catatan kembara Abdullah Munsyi di Semenanjung Tanah Melayu seperti Kelantan. Selain dari itu terdapat juga travelog-travelog Harun Aminurrashid seperti “Chatetan Menjelajah ka-Eropah”, “Melawat ka-paris”, “Menggembara ka-Andalusia”, “Meninjau ka-Negara Sham”,  “Melawat Negara Tetangga” dan “Kunjongan ka-Indonesia”. 
 
-Berdasarkan kepada teks-teks yang ada antara tempat-tempat pengembaraan yang sering dilawati dan ditulis dalam bahasa Melayu sejak abad ke-19 hingga kini banyak meliputi kembara ke negeri-negeri sekitar Nusantara seperti Indonesia, Kelantan dan Terengganu. Bagi catatan pengembaraan sebegini selain dari yang ditulis oleh penulis Melayu, terdapat juga yang ditulis Oleh pegawai-pegawai Kolonial yang mencerminkan tanggapan dan pandangan mereka terhadap masyarakat peribumi beserta keadaan alam sekeliling yang mereka lawati. 
+Berdasarkan kepada teks-teks yang ada antara tempat-tempat pengembaraan yang sering dilawati dan ditulis dalam bahasa Melayu sejak abad ke-19 hingga kini banyak meliputi kembara ke negeri-negeri sekitar Nusantara seperti Indonesia, Kelantan dan Terengganu. Bagi catatan pengembaraan sebegini selain dari yang ditulis oleh penulis Melayu, terdapat juga yang ditulis oleh pegawai-pegawai Kolonial yang mencerminkan tanggapan dan pandangan mereka terhadap masyarakat peribumi beserta keadaan alam sekeliling yang mereka lawati. 
 
 <div style="background-color: white;">
 <br>
