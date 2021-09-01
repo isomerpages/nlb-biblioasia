@@ -136,7 +136,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |**COVENS &amp; MORTIER**|
 
-|Covens &amp; Mortie was a successful map printing and publishing firm in Amsterdam, based on the successful business started by Cornelis Mortier’s father, Pierre Mortier, in Paris in the late 17th century. The firm re-issued the maps of several European map-makers until its closure in 1866.[^23]|
+|Covens &amp; Mortier was a successful map printing and publishing firm in Amsterdam, based on the successful business started by Cornelis Mortier’s father, Pierre Mortier, in Paris in the late 17th century. The firm re-issued the maps of several European map-makers until its closure in 1866.[^23]|
 
 |This wall map shows the trade route from Siam to Batavia and then to Europe through the Sunda Straits. By the mid-17th century, the Dutch East India Company had established a trading post in Siam. This map has illustrations of ships, animals and an elaborate title cartouche that features the various natives of Asia. Maps in the 18th century, besides being a source of geographical information, were also becoming important as collectors’ items. Hence, the use of decorative features was more prominent during this time.|
 
