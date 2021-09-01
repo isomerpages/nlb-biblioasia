@@ -66,7 +66,7 @@ These days Mustari waits for a call in early September from Seng Huat. He then p
 
 Mustari's story reveals a deep attachment to the islands, <i>“Dah biasa lah.”</i>  he says in Malay, meaning "used to it" referring to the islander's lifestyle. 
 
-And he is not alone. Choo Huay Kim, 68, taught at St John's Island English School from 1966 to 1976 - one of the few schools that existed on the Southern Islands. Choo was also an islander - he was born (in 1946) and raised on Pulau Sekijang Bendera, before it became known as St John's Island. 
+And he is not alone. Choo Huay Kim, 68, taught at St John's Island English School from 1966 to 1976 – one of the few schools that existed on the Southern Islands. Choo was also an islander – he was born (in 1946) and raised on Pulau Sekijang Bendera, before it became known as St John's Island. 
 
 "It was a well-known school, and some call it the Raffles Institution of the Southern Islands," he quips, adding that the primary school only had 100 to 120 students. Posted back to the island to teach, he was also the school's football coach and remembers how the team of 11 boys would squeeze into his modest Volkswagen to attend matches on the mainland. 
 
