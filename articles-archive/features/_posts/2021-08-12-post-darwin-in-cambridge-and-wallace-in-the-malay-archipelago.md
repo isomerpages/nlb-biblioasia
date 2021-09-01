@@ -56,7 +56,7 @@ Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, fr
 <div style="background-color: white;">Restoration of Darwin's room at Christ's College Was completed in 2009. He lived here from 1828–1831.</div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_re.jpg)
-<div style="background-color: white;"><i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. Published by World Scientific Publishing Co. 2013.</div>
+<div style="background-color: white;"><i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. <i>Published by World Scientific Publishing Co., 2013.</i></div>
 
 
 ##### **In Search of The Historical Wallace** 
