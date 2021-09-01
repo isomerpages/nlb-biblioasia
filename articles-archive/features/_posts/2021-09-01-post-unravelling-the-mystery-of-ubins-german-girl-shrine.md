@@ -75,3 +75,8 @@ Chia also said that the shrine had become popular with gamblers by the time he w
 
 #### **Ants and Termites **
 
+If the shrine had indeed been built over a grave, who could have been buried there? The following accounts offer some clues.
+
+In 1990, Chia told the *Lianhe Wanbao* newspaper that when plantation workers found the German girl’s body, she looked like a dead ant.[^17] In a subsequent 1993 magazine article, he said the body was “covered with ants” so the workers “threw soil over the remains”.[^18]  Ah Cheng the assistant caretaker related in a 2017 interview that when the girl was discovered, she was “covered by a lot of ants and mud and was in a human body shape”.[^19]
+
+In another version of the story related by Ong Siew Fong, another long-term resident on the island and caretaker of the Wei Tuo Fa Gong Temple, the girl did not fall to her death but hid in a cave or outcrop at the top of the hill. When the villagers went to look for her, they discovered that “termites had made a tomb for her” and decided not to disturb the mound, a point that Chia also made in a 2003 interview.20  (Termites are known as white ants in Chinese.)
