@@ -32,7 +32,7 @@ New highlights include the approximately 260 items that the late local music leg
 
 The music scores of past Cultural Medallion winners such as classical musician and conductor Leong Yoon Pin, guitar maestro Alex Ablsheganaden and violinist Kam Kee Yong can also be accessed online. In addition, written and video profiles of 13 indie Singaporean solo artistes and groups – including local pop-rock stalwarts Jack &amp; Rai and West Grand Boulevard, as well as the up-and-coming Sam Willows – are also accessible on the site. New research articles, infographics and photographs relating to personalities, organisations and performance venues have also been added to the portal for a more complete experience. Information on music genres ranging from Dikir Barat, Xinyao and Bhangra to heavy metal and rock are all covered, and showcase both famous recording artistes as well as lesser known names. 
 
-#### **MUSICSG RE-LOADED** 
+#### **MusicSG Re-load** 
 
 The new MusicSG website was officially launched on 26 September 2014. Called “MusicSG Reloaded”, the event was held at the National Library with Guest-of-Honour Minister for Culture, Community and Youth and Second Minister for Communications and Information, Lawrence Wong, and guest performer Corrinne May, who wowed the crowd with her luscious vocals. Guests included the former MusicSG Advisory Committee members, donors, local musicians, including veterans Rufino Soliano, Jacintha Ablsheganaden and Marina Xavier, as well as partner organisations. After the launch, contemporary local artistes The Analog Girl, Jack &amp; Rai, ShiGGa Shay and Nicodemus Lee from 迷路兵 <i>(mi lu bing)</i> mesmerised crowds at the National Library’s plaza for an evening of music and entertainment. 
 
