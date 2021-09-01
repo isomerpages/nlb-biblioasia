@@ -116,6 +116,20 @@ In 2000, the story of the German girl appeared in the coffee-table book *Pulau U
 
 The shrine was also featured in an episode of the *Site and Sound* documentary television series in 2004, hosted by anthropologist and architectural historian Julian Davison.[^28] The following year, it was discussed in Jonathan Lim’s *Between Gods and Ghosts* (2005), a book about Singaporean folklore.[^29]
 
-In his 2006 book, *Final Notes from a Great Island*, popular author Neil Humphreys wrote about a red and yellow sign in English, German and Chinese on Ubin that pointed to the direction of the “German Girl shrine”. Humphreys had taken the information of the shrine from a 2003 Straits Times article he found tacked to the wall of the shrine. (The story was written by ethnomusicologist Tan Shzr Ee, who had composed the soundtrack for the *Moving Gods* telemovie).[^30] 
+In his 2006 book, *Final Notes from a Great Island*, popular author Neil Humphreys wrote about a red and yellow sign in English, German and Chinese on Ubin that pointed to the direction of the “German Girl shrine”. Humphreys had taken the information of the shrine from a 2003 Straits Times article he found tacked to the wall of the shrine. (The story was written by ethnomusicologist Tan Shzr Ee, who had composed the soundtrack for the *Moving Gods* telemovie).[^30]
 
+Not long after, it was reported that an unnamed Ubin islander had a strange dream three nights in a row. A foreign girl had shown him the way to a Barbie doll in a store and asked him to bring it to the “*Datuk*’s Girl’s Temple” on Ubin. Sceptically, the man followed the instructions and was surprised to find a Barbie doll that matched the doll in his dream exactly.[^31] The doll was placed on the altar beside the urn, perfectly, if coincidentally, timed with the rise of social media.
 
+This “haunted Barbie” of Pulau Ubin proved digital catnip to journalists, bloggers and ghost chasers. Following the cut-and-paste logic of online content creation, very few bothered to do much fact checking; through sheer repetition, the story recounted by the long-dead Uncle Foon Da to Chia in the 1930s had become the official version of the German girl tale. 
+
+The Sinicisation of the original *datuk keramat* would soon be cemented in the structure itself. In 2015, a down-on-his-luck Singaporean businessman travelled to the Goh Hong Cheng Sern Temple in Batu Pahat, Johor, where monks told him to build a shrine for the deity on Ubin.[^32]  The wooden shrine was demolished and a slightly larger brick structure with granite cladding, a tiled roof and ceramic bamboo window bars was erected in its place. 
+
+A wooden sign above the entrance to the shrine has the words *Berlin Heiligtum* engraved on it, meaning “Berlin Sanctuary” in German, beneath the date 1896, a year mistaken for the commencement of World War I. A three-foot-tall (around 90 cm) statue of the German girl now sits on the altar beside the urn and the Barbie doll, a beatific smile on her face and a sprig of coffee berries grasped in her hand.
+
+Popular fascination with the German girl story shows no signs of abating. In 2018, Singaporean composer Emily Koh wrote a piece for the Chinese orchestra titled “Fräulein Datuk”.[^33] More recently, in 2021, *History Mysteries*, a television show hosted by local actor Adrian Pang, featured an episode about the shrine.[^34]
+
+Punters seeking a fortune do not care if it is the spirit of a German girl or something else: so long as it brings good luck, they will continue to descend on Ubin and worship there. 
+
+As for myself, I first chanced upon the shrine in 2006 and continue to visit it frequently to this day. On a recent trip, I noticed a termite mound outside the wall directly behind the altar. Despite all the changes over the decades, perhaps the old *datuk* spirit still lingers around the place.
+
+|The author is grateful to Hikari D. Azyure and the Urban Explorers of Singapore; Derek Chee of Aik Hwa Pte Ltd; Ho Choon Hiong; and Professor Lee Chow-Yang, Endowed Presidential Chair in Urban Entomology, University of California Riverside, for their help with the essay, and to Ow Eng Tiong, Yap Sew Heng and Doris Loh for their assistance in the interviews and translations.|
