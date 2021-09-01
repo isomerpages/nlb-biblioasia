@@ -54,7 +54,7 @@ Prior to this, articles about food and places of interest in the newspapers may 
 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/elderly.jpg)
-<div style="background-color: white;"> An elderly lady dictating her letter to a professional letter writer in Kreta Ayer, who set up his makeshift stall along a five-foot way, circa late 1970s. <i>From the Kouo Shang-Wei Collection. All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007.</i></div>
+<div style="background-color: white;"> An elderly lady dictating her letter to a professional letter writer in Kreta Ayer, who set up his makeshift stall along a five-foot way, circa late 1970s. <i>From the Kouo Shang-Wei Collection 郭尚慰收集. All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007.</i></div>
 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/pre-war_coffee_shop.jpg)
