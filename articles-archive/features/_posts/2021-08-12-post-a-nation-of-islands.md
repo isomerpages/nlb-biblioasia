@@ -38,7 +38,7 @@ layout: post
 <i>All photos by Edwin Koo.</i></div>
 
 
-The caretaker Da Bo Gong (Tua Pek Kong) Tample on Kusu Island - just a 20-minute boat ride from Singapore - stands astride the short flight of stairs leading to the temple's inner prayer sanctum, his eyes fixed on the jetty in the near distance. 
+The caretaker Da Bo Gong (Tua Pek Kong) Tample on Kusu Island – just a 20-minute boat ride from Singapore – stands astride the short flight of stairs leading to the temple's inner prayer sanctum, his eyes fixed on the jetty in the near distance. 
 
 It is the start of the ninth month of the Chinese lunar calendar, and thousands of devotees will travel to the island temple seeking blessings from Tua Pek Kong (God of Prosperity) and Guan Yin (Goddess of Mercy). 
 
