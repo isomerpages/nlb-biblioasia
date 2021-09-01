@@ -46,7 +46,7 @@ Jerome's descriptions of rolling hills and coastal villages often remind me of m
 
 More memories began to find their way into the present during my sojourns with Ria Tan and friends from the nature enthusiast group Wild Singapore to the lesser known shores of our outlying islands.[^12] I think Pierre Nora was right when he said that people acquire, recall, recognise and localise their memories in society. Working on this project has been a surprising journey into the self. 
 
-I must admit that my initial interest in memories was simply due the desire to immerse myself into the culture of Singapore - a yearning I have had from having lived an itinerant childhood. It was only after reading about conversations on nostalgia-related blogs and sites such as Jerome's <i>On a Little Street in Singapore</i>[^13] that I realised how pervasive this sense of disorientation is for many people living in our city. It became acutely noticeable to me thereafter; in the arts, films and news I came into contact with and even in conversations with taxi drivers. It is a sense that I deal with too frequently as an adult third culture kid.[^14] It's like being trapped between states of belonging and alienation as poet Boey Kim Cheng so eloquently writes in his book <i>Between Stations</i>: ”…You become engaged in a kind of research, ransacking your fading archive, probing the memories of those over fifty for clues… You start experiencing reality as imagined, memory as something that writes you, gives you a second chance, and you seek a possible dwelling place between memory and imagination, fact and fiction…”[^15] That was the point of departure for me; what began as a humble attempt at acculturation in the end became a long quest for connections. 
+I must admit that my initial interest in memories was simply due the desire to immerse myself into the culture of Singapore – a yearning I have had from having lived an itinerant childhood. It was only after reading about conversations on nostalgia-related blogs and sites such as Jerome's <i>On a Little Street in Singapore</i>[^13] that I realised how pervasive this sense of disorientation is for many people living in our city. It became acutely noticeable to me thereafter; in the arts, films and news I came into contact with and even in conversations with taxi drivers. It is a sense that I deal with too frequently as an adult third culture kid.[^14] It's like being trapped between states of belonging and alienation as poet Boey Kim Cheng so eloquently writes in his book <i>Between Stations</i>: ”…You become engaged in a kind of research, ransacking your fading archive, probing the memories of those over fifty for clues… You start experiencing reality as imagined, memory as something that writes you, gives you a second chance, and you seek a possible dwelling place between memory and imagination, fact and fiction…”[^15] That was the point of departure for me; what began as a humble attempt at acculturation in the end became a long quest for connections. 
 
 The idea of the sea being the only permanent feature in our ever-changing geographical landscape was reason enough for me to explore it as a unifying thread for memories. This is a sentiment shared by Jerome too as he often looks at the sea in attempts to discover his own connections with the past. 
 
@@ -56,20 +56,20 @@ Through this collaboration, we hope to create a meaningful connection with and b
 <div style="background-color: white;">“The Harbour” from “Temporality” (2013). The junk is constructed from a number of images from black and white archival photographs dating from the mid-1970s, which were taken at The New Harbour (present-day Keppel Harbour). It was inspired by Margaret Leong's poem “The Junk”. © <i>Juria Toramae. All rights reserved.</i> </div>
 
 
-<i>“Points of Departure” - an exhibition of photographs, stones and installation art works - brings together the forgotten and the unfamiliar in the hope of making the past less foreign. The exhibition will take place between April and June 2015 at National Library Building and is part of Singapore’s 50th National Day celebrations. Find out more at: http://www.pointsofdeparture.sg or https://www.facebook.com/PointsOfDepartureSG </i>
+|<i>“Points of Departure” - an exhibition of photographs, stones and installation art works - brings together the forgotten and the unfamiliar in the hope of making the past less foreign. The exhibition will take place between April and June 2015 at National Library Building and is part of Singapore’s 50th National Day celebrations. Find out more at: http://www.pointsofdeparture.sg or https://www.facebook.com/PointsOfDepartureSG </i>|
 
-<i>This project was supported by the Singapore Memory Project (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:https://www.iremember.sg/index.php/fund-intro/ </i>
+|<i>This project was supported by the Singapore Memory Project (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:https://www.iremember.sg/index.php/fund-intro/ </i>|
 
-**Juria Toramae** is a Singapore-based artist and Engineer. Her photographic series “Temporality” debuted at Noise Singapore's The Apprenticeship Programme exhibition in 2013. She is an irememberSG fund recipient for her collaborative project titled “Points of Departure”. 
+<p style="font-size:15px;"><b>Juria Toramae</b> is a Singapore-based artist and Engineer. Her photographic series “Temporality” debuted at Noise Singapore's The Apprenticeship Programme exhibition in 2013. She is an irememberSG fund recipient for her collaborative project titled “Points of Departure”.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
-Boey, K.C. (2009). *[Between stations: Essays](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13230282)*. Australia: Giramondo. (Call no.: RSING S821 BOE)
+Boey, K.C. (2009). *[Between stations: Essays](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13230282)*. Australia: Giramondo. (Call no.: RSING S821 BOE).
 
-Casey, E.S. (1987). Remembering: <i>A phenomenological study.</i> Bloomington: Indiana University Press. (Not available in NLB holdings)
+Casey, E.S. (1987). Remembering: <i>A phenomenological study.</i> Bloomington: Indiana University Press. (Not available in NLB holdings).
 
-Leong, M. (2011). The junk. In <i>The ice ball man and other peoms.</i> Singapore: Ethos Books. (Not available in NLB holdings)
+Leong, M. (2011). The junk. In <i>The ice ball man and other peoms.</i> Singapore: Ethos Books. (Not available in NLB holdings).
 
 Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. <i>Representations, 26</i>, 7–25. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
 
@@ -79,7 +79,7 @@ Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. <i>Re
 
 [^2]:The adjective “reservative”, which Casey notes is meant to encompass the connotations of “preservation”, “reservation”, “holding in reserve”, and “being reserved”, is a coinage by Casey.
 
-[^3]:Casey, E.S. (1987). Remembering: A phenomenological study (p. 187). Bloomington: Indiana University Press. (Not available in NLB holdings)
+[^3]:Casey, E.S. (1987). Remembering: A phenomenological study (p. 187). Bloomington: Indiana University Press. (Not available in NLB holdings).
 
 [^4]:Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. Representations, 26, 7–25. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
 
@@ -91,7 +91,7 @@ Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. <i>Re
 
 [^8]:See Points of departure. (2014). Retrieved from Julia Torame website. 
 
-[^9]:Leong, M. (2011). The Junk (p. 18). In The ice ball man and other peoms. Singapore: Ethos Books. (Not available in NLB holdings)
+[^9]:Leong, M. (2011). The Junk (p. 18). In The ice ball man and other peoms. Singapore: Ethos Books. (Not available in NLB holdings).
 
 [^10]:See Lim, J. (2010, August 16). Once Tanah Merah….. Retrieved from The Long and Winding Road website.
 
@@ -103,4 +103,4 @@ Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. <i>Re
 
 [^14]:The term “third culture kid or adult” was first coined by researchers John and Ruth Useem in the 1950s, who used it to describe children who were raised in a culture outside of their parents’ culture for a significant part of their development years. See Third culture kid. (2020, October 10). Retrieved from Wikipedia.org. 
 
-[^15]:Boey, K.C. (2009). *[Between stations: Essays](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20130321-1.2.16.1)* (p. 306). Australia: Giramondo. (Call no.: RSING S821 BOE)
+[^15]:Boey, K.C. (2009). *[Between stations: Essays](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20130321-1.2.16.1)* (p. 306). Australia: Giramondo. (Call no.: RSING S821 BOE).
