@@ -46,20 +46,21 @@ The ballroom also added to the continuing popularity of the New Year’s Fancy D
 
 The party atmosphere at the Raffles was clearly contagious, as British traveller Beatrice Borland observed during her stay at the hotel in 1933: “The truth of the matter is, it is impossible to lead a simple life at the Raffles Hotel, so you might as well join in the all-pervading air of wicked gaiety."[^4]
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-dancing3.jpg)
-<div style="background-color: white;">The capacious Raffles Hotel ballroom which opened in 1921 – said to be the largest in Asia at the time − was where dance evenings, concerts and musical shows took place. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/raffles-dancing3.jpg">The capacious Raffles Hotel ballroom which opened in 1921 – said to be the largest in Asia at the time − was where dance evenings, concerts and musical shows took place. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/hotelmenucards01.png)
 <div style="background-color: white;">A selection of Raffles Hotel menu cards from the 1930s. From left, sumptuous offerings for breakfast (10 July 1934), lunch (8 February 1936) and dinner (5 July 1934). On the back of the 17 September 1936 menu card is the entertainment programme for the evening. Cocktail dances were held on Monday, Wednesday and Friday evenings, while the Orchestral Concerts took over on Tuesday, Thursday and Saturday. On all six evenings, after dinner dances took place at the grand ballroom until midnight (Sunday was presumably a quiet day at the Raffles!) By 1931, the hotel had fallen on hard times as a series of poor business decisions by its Armenian owners, the Sarkies brothers, had left the Raffles saddled in debt. Looking at these lavish menu cards, however, it is difficult to imagine the financial difficulties the hotel was mired in.</div>
 
 <div style="background-color: white;">
 <br>
-	<img src="/images/Vol-12-issue-4/party-time-with-raffles/breakfastmenu02.png">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/breakfastmenu02.png">
 In comparison, the breakfast menu offerings some 30 years earlier on 9 August 1903 were decidedly more spartan.</div>
 
 <div style="background-color: white;">
 <br>
-	<img src="/images/Vol-12-issue-4/party-time-with-raffles/menu-royals.jpg">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/menu-royals.jpg">
 In comparison, the breakfast menu offerings some 30 years earlier on 9 August 1903 were decidedly more spartan.</div>
 
 <div style="background-color: white;">
