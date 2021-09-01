@@ -10,9 +10,9 @@ By bringing together content on Singapore music, MusicSG aims to elevate the pro
 
 MusicSG relies heavily on the public and music industry players to share and deposit their works in its archive. Having secured permission from the respective copyright holders, the National Library is now able to provide the public with access to a variety of materials in the MusicSG archives, including free music streaming and downloading of non-AV resources such as lyrics and scores. 
 
-#### **CONTENT HIGHLIGHTS** 
+#### **Content Highlights** 
 
-MusicSG showcases over 20 genres of music - national campaign songs, local musicals, 新谣(xin yao), rock and pop, and more - from more than 500 musicians across different languages and genres, such as X' Ho, Dick Lee, Iskandar Ismail, Liang Wern Fook, The Quests, Corrinne May, Boh Chit Hee and Pan Xiuqiong. Their recorded works span from the 1950s to the present day. 
+MusicSG showcases over 20 genres of music – national campaign songs, local musicals, 新谣(xin yao), rock and pop, and more – from more than 500 musicians across different languages and genres, such as X' Ho, Dick Lee, Iskandar Ismail, Liang Wern Fook, The Quests, Corrinne May, Boh Chit Hee and Pan Xiuqiong. Their recorded works span from the 1950s to the present day. 
 
 MusicSG also archives several meaningful local compositions that reflect our nation's short but remarkable history. These songs contain lyrics that relate to the Singapore experience. For example, the Malay folk song “Di Tanjong Katong” reminds us of the time when Tanjong Katong was a coastal stretch overlooking the blue waters of the east coast - until reclamation works pushed out the shoreline in the late 1960s. 
 
@@ -24,7 +24,7 @@ As of October 2014, the archive has amassed more than 13,000 music resources, in
 <div style="background-color: white;">Local singer, Nicodemus Lee, performing during MusicSG’s post-launch concert held at the National Library.</div>
 
 
-#### **WHAT'S NEW** 
+#### **What's New** 
 
 The MusicSG website was first launched in 2010 but remained relatively low-key until it was revamped in 2014. giving way to a more user-friendly and aesthetically pleasing layout that allowed for more content formats to be displayed. The portal has been redesigned to encourage the continuous discovery of content. To achieve this, social sharing and streaming capabilities as well as improved search functions were added to the new site. The website is also equipped with responsive web design technology, which enables the site to adjust itself according to the device being used, be it a smartphone, computer or tablet, without any loss in functionality. 
 
