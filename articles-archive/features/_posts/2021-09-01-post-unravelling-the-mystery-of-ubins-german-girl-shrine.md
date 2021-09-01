@@ -62,6 +62,16 @@ Often, the sites where these *datuk* spirits reside are worshipped by Malays as 
 
 The German girl shrine, too, once stood near a quarrying operation. According to Chia, the shrine was originally located on Ong Lye Sua, once a 190-foot-high (57.9 m) granite hill that has since been completely removed. It is now the deep pond of Ketam Quarry.[^12]
 
-In another account by Ahmad bin Kassim, who has lived on the island since the early 1940s, the grave belonged to an Indian Muslim craftsman from Johor who travelled to Ubin to work at the quarry. He died there and was buried on the granite hill – a story that lacks as much historical evidence as the German girl tale (for the record, Pak Ahmad had been told that the German girl fell off a cliff into the sea and had no grave).13
+In another account by Ahmad bin Kassim, who has lived on the island since the early 1940s, the grave belonged to an Indian Muslim craftsman from Johor who travelled to Ubin to work at the quarry. He died there and was buried on the granite hill – a story that lacks as much historical evidence as the German girl tale (for the record, Pak Ahmad had been told that the German girl fell off a cliff into the sea and had no grave).[^13]
 
+In an email to the author in March 2021, Pak Ahmad said that the *keramat* was a mound of dirt shaped like a *mayat*, a corpse. He was told the mound was once covered by a copper sheet and had *batu nisan*, or grave markers, but these had since been stolen. What was left was *kelambu kuning*, a yellow netting traditionally used to denote graves as *makam*, or sacred. Pak Ahmad also recalled that there were 99 steps to reach it, a significant number in Islamic architecture as there are 99 holy names for Allah.
+
+The assistant caretaker of the shrine, Ah Cheng, recalled that the shrine was accessed by a flight of steep and narrow stairs. At the top, he remembered an “unusually curved rock formation that embraced what remained of the German girl in its alcove, sheltering her from the elements with the help of a simple mosquito net, draped over her grave”.[^14]
+
+Madam Tan, a resident of Pulau Ubin born around 1938, recalled red brick steps leading to the shrine. She said that Chinese, Indians and Malays all worshipped there and so as to not offend the Muslim worshippers, no pork was offered, only chicken and fruits. She did not know who was buried there, only that her mother would take her up the hill to worship on the first and 15th day of each lunar month.[^15] Ah Teck, a longtime taxi driver on the island, was told that 108 steps led to the shrine, the number being significant in Taoist-Buddhist cosmology.[^16]
+
+Chia also said that the shrine had become popular with gamblers by the time he was visiting it as a boy in the 1930s. Nearly a century later, this practice has not diminished as the shrine is still regularly visited by punters seeking luck in the 4D lottery (where people place a wager on a four-digit number that is matched against winning numbers).
+
+
+#### **Ants and Termites **
 
