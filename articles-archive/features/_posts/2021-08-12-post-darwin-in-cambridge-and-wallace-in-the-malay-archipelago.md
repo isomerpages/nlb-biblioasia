@@ -61,7 +61,7 @@ Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, fr
 
 ##### **In Search of The Historical Wallace** 
 
-For Alfred Russel Wallace (1823–1913) the picture is quite different. He did not come from a privileged background and although he attended a good school like Darwin's. Wallace never went to university. His family had fallen on hard times. But as there was little science taught at universities anyway, most men of science at the time were largely self-taught. Both were middle-class, Darwin from the higher end of the spectrum, Wallace from the lower. 
+For Alfred Russel Wallace (1823–1913) the picture is quite different. He did not come from a privileged background and although he attended a good school like Darwin's, Wallace never went to university. His family had fallen on hard times. But as there was little science taught at universities anyway, most men of science at the time were largely self-taught. Both were middle-class, Darwin from the higher end of the spectrum, Wallace from the lower. 
 
 Darwin’s life and work have been intensively studied by historians for over a century. Wallace, on the other hand, like many other scientists of his day, has been the subject of comparatively little historical study. But unlike the thousands of other forgotten scientists of his era, Wallace has become the centre of interest of another group of people – not historians, but enthusiasts. 
 
