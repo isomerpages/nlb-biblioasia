@@ -93,7 +93,7 @@ In the course of working on this project, we realised how interconnected the liv
 <div style="background-color: white;">An aerial photograph of Pulau Satumu, home of the Raffles Lighthouse </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Island_Nation_Singapore_Bukom_G0020334.jpg)
-<div style="background-color: white;">An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.<i>All images by Captured.</i> </div><br>
+<div style="background-color: white; padding-bottom:10px;">An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.<i>All images by Captured.</i> </div>
 
 |<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> wvww.facebook.com/islandnationsg<i>.The website</i> www.islandnation.sg <i>will be launched in March 2015.</i>|
 
