@@ -141,3 +141,76 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. Gibson’s book, <i>Alfred Raquez and the French Experience of the Far East, 1898–1906</i> (2021), a biography of journalist, Alfred Raquez, is published by Routledge as part of its Studies in the Modern History of Asia series.  His articles have appeared in <i>Signal to Noise</i>, PopMatters.com, <i>The Mekong Review</i>, <i>Archipel</i>, <i>History and Anthropology</i>, the <i>Bulletin de l’École française d’Extrême-Orient</i> and <i>BiblioAsia</i>, among others.
 </div>
 
+
+#### NOTES
+[^1]: “[洋女变成‘拿督姑娘’供奉在乌敏岛小庙内当地人视为神灵](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19871229-1.2.17.1.2)” [“Foreign Girl Becomes a ‘Datuk Girl’”], 新明日报 [*Xin Ming Ri Bao*], 29 December 1987, 4; “[奇庙](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19900714-1.2.6.1.1)” [“Strangely Wondrous Temple”], 联合晚报 [*Lianhe Wanbao*], 14 July 1990, 2. (From NewspaperSG); Samuel J. Burris, “[The White Girl of Pulau Ubin](http://habitatnews.nus.edu.sg/heritage/ubin/stories/2005/12/white-girl-of-pulau-ubin.html),” *Changi Magazine*, November 1993, accessed 30 July 2021, http://habitatnews.nus.edu.sg/heritage/ubin/stories/2005/12/white-girl-of-pulau-ubin.html;  Ho Choon Hiong, German Girl Shrine (film), 2000; Tan Shzr Ee, “[Mystery Girl of Ubin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030309-1.2.60.11),” *The Straits Times*, 9 March 2003, 20; “[90年前住在乌敏岛洋姑娘变拿督神](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin20031226-1.2.17.1)” [“90 Years Ago a Foreign Girl Living on Ubin became a Datuk God”], 新明日报 [*Xin Ming Ri Bao*], 26 December 2003, 13. (From NewspaperSG); [Chia Yeng Keng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/63b161ed-1160-11e3-83d5-0050568939ad), oral history interview, 23 June 2004, transcript and MP3 audio, Reel/Disc 1 and 3 of 7. (From National Archives of Singapore, accession no. 002860)
+
+
+
+[^2]: Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. *Sekata. 1* (11), 1–8. Retrieved from National Institute of Education website.
+
+[^3]: Amran Kasimin. (2002). *[Perkahwinan Melayu](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11713807)* (pp. 84–85). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay R q392.509595 AMR-[CUS]); Hidayah Amin. (2014). *[Malay weddings don’t cost $50 and other facts about Malay culture](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931)* (p. 97). Singapore: Helang Books. (Call no.: RSING 305.8992805957 HID)
+
+[^4]: [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, pp. 95–97.
+
+[^5]: Muhammad Ariff Ahmad. (2007). *[Nilam: Nilai Melayu menurut adat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522)* (pp. 278–279). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH); [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, pp. 95–97.
+
+[^6]: Registry of Muslim Marriages. (2019, May 10). *Maskahwin & marriage expenses*. Retrieved from Registry of Muslim Marriages website.
+
+[^7]: Ruzita Zaki. (Interviewer). (1995, February 7). *[Oral history interview with Mohd Amin bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad)* [MP3 recording no. 001597/44/7]. Retrieved from National Archives of Singapore website.
+
+[^8]: Azahar Mohamed. (1999, May 23). [Wang hantaran tinggi? Itu cabaran lelaki pertingkat diri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19990523-1.2.17.3). *Berita Minggu*, p. 8; [Perihal mas kahwin dan wang hantaran](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20150811-1.2.7.4.7). (2015, August 11). *Berita Harian*, p. 7. Retrieved from NewspaperSG.
+
+[^9]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 278–279; Zaharian Osman. (2009, April 11). [Barang hantaran kian canggih](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20090411-1.2.27.7). *Berita Harian*, p. 22; Farid Hamzah. (2010, January 4). [Dariku untukmu, sayang: Hantaran](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20100104-1.2.17.1). *Berita Harian*, p. 8; Zawiyah Salleh. (2009, March 18). [Gubah hantaran pengantin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20090318-1.2.18.1). *Berita Harian*, p. 9. Retrieved from NewspaperSG. 
+
+[^10]: [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, pp. 97–98.
+
+[^11]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 274–275; Hadijah Rahmat. (2005). *[Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182)* (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
+
+[^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). *[Oral history interview with Abu Talib bin Ally](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5a6951c5-115e-11e3-83d5-0050568939ad-OHC001216_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=21)* [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
+
+[^13]: Mohd Yussoff Ahmad. (Interviewer). (1987, March 12). *[Oral history interview with Aliman bin Hassan (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fee070a7-115d-11e3-83d5-0050568939ad)* [MP3 recording no. 000797/11/2]. Retrieved from National Archives of Singapore website. 
+
+[^14]: Haron Abdul Rahman. (1986, February 12). [The big day and its rites](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860212-1.2.40.1). *The Straits Times*, p. 20; [Lebih meriah kalau adakan majlis di tempat sendiri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860330-1.2.28.4.7). (1986, March 30). *Berita Harian*, p. 11. Retrieved from NewspaperSG.
+
+[^15]: Spykerman, K. (2012, January 15). [My big fat void deck wedding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120115-1.2.54.1.1). *The Straits Times*, p. 2; Shahida Sarhid. (2012, September 30). [Kambing barbeku, susyi antara hidangan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20120930-1.2.13.1). *Berita Harian*, p. 6. Retrieved from NewspaperSG. 
+
+[^16]: Nur ‘Adilah Mahbob. (2013, May 24). [Taman jadi laman popular majlis kahwin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20130524-1.2.7.3.12). *Berita Harian*, p. 14; Salma Semono. (2007, July 28). [Sajian untuk jemputan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20070728-1.2.53.47). *Berita Harian*, p. 27. Retrieved from NewspaperSG; Norhaiza Hashim & Shahida Sarhid. (2019, October 6). Khidmat semua di ‘bawah satu bumbung’ kian jadi pilihan mempelai. *Berita Minggu*. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+
+[^17]: Azman Siraj. (1990, October 24). [Khidmat DJ kian popular dalam majlis perkahwinan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19901024-1.2.27.2.8). *Berita Harian*, p. 6; Ismail Pantek. (2010, June 14). [Semua ‘turun padang’ rewang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20100614-1.2.19.3.2). *Berita Harian*, p. 9; Kamali Hudi. (2002, August 17). [Lagu pengantin citra warisan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20020817-1.2.34.2). *Berita Harian*, p. 22. Retrieved from NewspaperSG; [Hadijah Rahmat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, p. 244.
+
+[^18]: [Hadijah Rahmat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, p. 241; Muhammad Ariff Ahmad. (1988, April 7). [The grand finale in the Malay wedding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+
+[^19]: *Silat pengantin* is a ceremonial Malay martial arts performance to honour and give strength to the groom and to welcome the newlyweds. Compared to *pencak silat* (Malay martial arts), *silat pengantin* uses gentler hand movements, which are still executed in firm and strong strokes to convey respect and honour to the newlyweds. The *silat pengantin* is performed in rhythm with accompanying music from the *kompang* troupe. The performance ends with a handshake between the groom and the *silat* performer. See Pendekar Temasek. (2019). *[Silat pengantin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203939195)* (pp. 24–40). Singapore: Pustaka Nasional Pte Ltd. (Call no.: Malay RSING 796.81509595 PEN); *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6; Koh, J., & Ho, S. (2009). *[Culture and customs of Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13221966)* (p. 119). Santa Barbara, California: Greenwood Press. (Call no.: YP R305.80095957 KOH)
+
+[^20]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6; Muhammad Ariff Ahmad. (1993). *[Bicara tentang adat dan tradisi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070)* (pp. 44–46). Singapore: Pustaka Nasional. (Call no.: Malay RSING 306.08999205957 MUH)
+
+[^21]: [Muhammad Ariff Ahmad,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522) 2007, p. 282.
+
+[^22]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 282; [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, pp. 45–46; *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6.
+
+[^23]: [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, pp. 45–46; [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, p. 107.
+
+[^24]: Mediacorp News Group. (2017, October 18). *DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu*. Retrieved from Berita Mediacorp website.
+
+[^25]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 271, 275–276.
+
+[^26]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 275.
+
+[^27]: [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, p. 40.
+
+[^28]: [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, p. 40.
+
+[^29]: [Adat perkahwinan banyak berubah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830901-1.2.172.6.3). (1983, September 1). *The Straits Times*, p. 4; [Dua ‘pencurian’ dalam berinai curi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880324-1.2.61.8.2). (1988, March 24). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+
+[^30]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 248; [Berinai di pelamin: Adat perkahwinan orang Melayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20060305-1.2.11.9). (2006, March 5). *Berita Harian*, p. 11. Retrieved from NewspaperSG.
+
+[^31]: The *pulut pahar* is a floral bouquet comprising a base of *pulut kuning* (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the *pulut kuning* is absent, the arrangement is known as *bunga telur*. The *pulut pahar*, which is distributed to those attending the *tepung tawar* ceremony, is not to be confused with the *bunga telur* given to all guests at the wedding reception. In the past, half of the *bunga pahar* or *bunga telur* would be given to the *mak andam* (makeup artist-cum-lady-in-waiting). See [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 275–276.
+
+[^32]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 276–277; Amran Kasimin. (2002). *[Perkahwinan Melayu](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11713807)* (pp. 49–52). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: R q392.509595 AMR-[CUS])
+
+[^33]: Advisory on kuda kepang performances. (2019, July 25). *Office of the Mufti*. Retrieved from Majlis Ugama Islam Singapura website; [‘Kuda kepang’ against Islam: Muis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790614-1.2.82). (1979, June 14). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+
+[^34]: Fatimah Abdullah. (2009). Dari halaman rumah ke Dewan Merak Kayangan: Upacara perkahwinan Melayu bandar. *SARI: Jurnal Alam dan Tamadun Melayu, 27*, 97–107. Retrieved from UKM Journal Article Repository website; Mohd Khairuddin Mohd Sallehuddin & Mohamad Fauzi Sukimi. (2016). Impian dan realiti majlis perkahwinan orang Melayu masakini: Kajian kes di pinggir bandar Kuala Lumpur. *Geografia: Malaysian Journal of Society and Space, 12* (7), 1–12. Retrieved from UKM Journal Article Repository website.
+
+[^35]: A. Hamid Besih. (1996, September 28). [Pengertian di sebalik ‘bunga telur’ hampir lebur](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960928-1.2.43.2.10). *Berita Harian*, p. 7. Retrieved NewspaperSG.
