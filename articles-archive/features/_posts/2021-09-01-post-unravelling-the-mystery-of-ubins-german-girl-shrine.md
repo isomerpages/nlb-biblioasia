@@ -147,7 +147,7 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 
 
-[^2]: Muhammad Ariff Ahmad. (1999). Adat Melayu Singapura. *Sekata. 1* (11), 1–8. Retrieved from National Institute of Education website.
+[^2]: [*The Singapore and Straits Directory for 1881, Containing also Directories of Sarawak, Labuan, Siam, Johore and the Protected Native States of the Malay Peninsula and an Appendix*](https://eresources.nlb.gov.sg/printheritage/detail/6e76cb75-dfe3-4203-a211-76305cafde9d.aspx) (Singapore: Mission Press, 1881), 78. (From BooksSG; Call no. RRARE 382.09595 STR; Accession no. B03013713G; Microfilm no. NL1176)
 
 [^3]: Amran Kasimin. (2002). *[Perkahwinan Melayu](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11713807)* (pp. 84–85). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay R q392.509595 AMR-[CUS]); Hidayah Amin. (2014). *[Malay weddings don’t cost $50 and other facts about Malay culture](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931)* (p. 97). Singapore: Helang Books. (Call no.: RSING 305.8992805957 HID)
 
