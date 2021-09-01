@@ -58,16 +58,22 @@ The party atmosphere at the Raffles was clearly contagious, as British traveller
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/menu-royals.jpg)
 <div style="background-color: white;">In comparison, the breakfast menu offerings some 30 years earlier on 9 August 1903 were decidedly more spartan.</div>
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-hotel-book02.png)
-<div style="background-color: white;">According to the book <i>Raffles Hotel</i> by Gretchen Liu, this menu was created for a dinner held in honour of Song Ong Siang, a Queen’s Scholar and author of the book <i>One Hundred Years’ History of the Chinese in Singapore.</i></div>
+<div style="background-color: white;">
+<br>
+	<img src="/images/Vol-12-issue-4/party-time-with-raffles/raffles-hotel-book02.png">
+According to the book <i>Raffles Hotel</i> by Gretchen Liu, this menu was created for a dinner held in honour of Song Ong Siang, a Queen’s Scholar and author of the book <i>One Hundred Years’ History of the Chinese in Singapore.</i></div>
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/festivemenu.jpg)
-<div style="background-color: white;">Festive menu covers from Christmas and New Year’s Eve dinners in 1932, and Christmas 1936. French fare was served for dinner on Christmas Day 1936.</div>
+<div style="background-color: white;">
+<br>
+	<img src="/images/Vol-12-issue-4/party-time-with-raffles/festivemenu.jpg">
+Festive menu covers from Christmas and New Year’s Eve dinners in 1932, and Christmas 1936. French fare was served for dinner on Christmas Day 1936.</div>
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/st-george.jpg)
-<div style="background-color: white;">The Royal Society of St George was founded in 1894 with the aim of promoting “Englishness” and the English way of life in countries wherever the British had settled. The Singapore branch was founded in 1925. Sir Lawrence Guillemard, then Governor of the Straits Settlements, became a patron and life member of the society. Pictured here is the celebratory menu and programme for the society’s “England Day” menu on 6 May 1937.</div>
+<div style="background-color: white;">
+<br><img src="/images/Vol-12-issue-4/party-time-with-raffles/st-george.jpg">
+The Royal Society of St George was founded in 1894 with the aim of promoting “Englishness” and the English way of life in countries wherever the British had settled. The Singapore branch was founded in 1925. Sir Lawrence Guillemard, then Governor of the Straits Settlements, became a patron and life member of the society. Pictured here is the celebratory menu and programme for the society’s “England Day” menu on 6 May 1937.</div>
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-4/party-time-with-raffles/jubileedinner01.png">The menu card of the Jubilee Dinner held on 6 May 1935 to celebrate the 25th anniversary of the coronation of King George V and Queen Mary. Whoever crafted this menu to spell out the words “Jubilee Dinner” must have really struggled to come up with the appropriate dishes. The letter “U” for “Unless you prefer turtle soup with golden sherry” is rather lame and one wonders what inventive dessert dish called “Raffles” the chef had concocted for the letter “R”!</div>
+<div style="background-color: white;">
+	<br><img src="/images/Vol-12-issue-4/party-time-with-raffles/jubileedinner01.png">The menu card of the Jubilee Dinner held on 6 May 1935 to celebrate the 25th anniversary of the coronation of King George V and Queen Mary. Whoever crafted this menu to spell out the words “Jubilee Dinner” must have really struggled to come up with the appropriate dishes. The letter “U” for “Unless you prefer turtle soup with golden sherry” is rather lame and one wonders what inventive dessert dish called “Raffles” the chef had concocted for the letter “R”!</div>
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
