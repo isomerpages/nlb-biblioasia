@@ -161,7 +161,7 @@ Travelog-Travelog sebegini merupakan catatan perjalanan ilmu dan sering menjadi 
 Akhir kata, travelog-travelog Melayu yang pernah diterbitkan ini merupakan bahan rujukan penting dalam memperkenalkan masyarakat kepada maklumat di sesuatu tempat asing. la merupakan dokumen utama yang merakam peradaban masyarakat di kala ia dikunjungi. Maka seperti genre-genre sastera yang lain, travelog Melayu juga mempunyai sumbangannya yang tersendiri. 
  
 
-Juffri Supa’at is a Senior Librarian with the National Library of Singapore. He has curated several exhibitions that feature the works of literary pioneers such as Masuri S.N., Muhammad Ariff Ahmad and Abdul Ghani Hamid. Juffri has compiled poetry selections by Muhammad Ariff Ahmad and Suratman Markasan, and has put together bibliographies on Singapore Malay literature and its pioneer writers, 
+<p style="font-size:15px;"><b>Juffri Supa’at</b> is a Senior Librarian with the National Library of Singapore. He has curated several exhibitions that feature the works of literary pioneers such as Masuri S.N., Muhammad Ariff Ahmad and Abdul Ghani Hamid. Juffri has compiled poetry selections by Muhammad Ariff Ahmad and Suratman Markasan, and has put together bibliographies on Singapore Malay literature and its pioneer writers.</p>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/Warkah_Eropah.jpg)
 <div style="background-color: white;"><i>Warkah Eropah</i> by A. Samad Said was published in 1991 by Dewan Bahasa and Pustaka. </div>
