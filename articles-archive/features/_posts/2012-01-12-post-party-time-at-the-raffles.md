@@ -58,7 +58,8 @@ The party atmosphere at the Raffles was clearly contagious, as British traveller
 <img src="/images/Vol-12-issue-4/party-time-with-raffles/raffles-dancing3.jpg">The capacious Raffles Hotel ballroom which opened in 1921 – said to be the largest in Asia at the time − was where dance evenings, concerts and musical shows took place. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
 <div style="background-color: white;"><br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/hotelmenucards01a.png">A selection of Raffles Hotel menu cards from the 1930s. From left, sumptuous offerings for breakfast (10 July 1934), lunch (8 February 1936) and dinner (5 July 1934). On the back of the 17 September 1936 menu card is the entertainment programme for the evening. Cocktail dances were held on Monday, Wednesday and Friday evenings, while the Orchestral Concerts took over on Tuesday, Thursday and Saturday. On all six evenings, after dinner dances took place at the grand ballroom until midnight (Sunday was presumably a quiet day at the Raffles!) By 1931, the hotel had fallen on hard times as a series of poor business decisions by its Armenian owners, the Sarkies brothers, had left the Raffles saddled in debt. Looking at these lavish menu cards, however, it is difficult to imagine the financial difficulties the hotel was mired in.</div>
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/hotelmenucards01.jpg">
+A selection of Raffles Hotel menu cards from the 1930s. From left, sumptuous offerings for breakfast (10 July 1934), lunch (8 February 1936) and dinner (5 July 1934). On the back of the 17 September 1936 menu card is the entertainment programme for the evening. Cocktail dances were held on Monday, Wednesday and Friday evenings, while the Orchestral Concerts took over on Tuesday, Thursday and Saturday. On all six evenings, after dinner dances took place at the grand ballroom until midnight (Sunday was presumably a quiet day at the Raffles!) By 1931, the hotel had fallen on hard times as a series of poor business decisions by its Armenian owners, the Sarkies brothers, had left the Raffles saddled in debt. Looking at these lavish menu cards, however, it is difficult to imagine the financial difficulties the hotel was mired in.</div>
 
 <div style="background-color: white;">
 <br>
@@ -72,7 +73,7 @@ In comparison, the breakfast menu offerings some 30 years earlier on 9 August 19
 
 <div style="background-color: white;">
 <br>
-	<img src="/images/Vol-12-issue-4/party-time-with-raffles/raffles-hotel-book02.png">
+	<img src="/images/Vol-12-issue-4/party-time-with-raffles/raffles-hotel-book01a.jpg">
 According to the book <i>Raffles Hotel</i> by Gretchen Liu, this menu was created for a dinner held in honour of Song Ong Siang, a Queen’s Scholar and author of the book <i>One Hundred Years’ History of the Chinese in Singapore.</i></div>
 
 <div style="background-color: white;">
