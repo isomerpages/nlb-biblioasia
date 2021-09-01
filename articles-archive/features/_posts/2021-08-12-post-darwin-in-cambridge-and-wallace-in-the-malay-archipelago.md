@@ -49,13 +49,13 @@ Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, fr
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/cambridge_graduate.jpg)
 <div style="background-color: white;">A Cambridge graduate in the 1820s sporting the latest fashion – trousers (instead of knee breeches).</div>
 	
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Christs_Ackermann.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Christs_Ackermann_re.jpg)
 <div style="background-color: white;">Christ's College, Cambridge, where Darwin spent his undergraduate years. </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Darwin_room.jpg)
 <div style="background-color: white;">Restoration of Darwin's room at Christ's College Was completed in 2009. He lived here from 1828–1831.</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_re.jpg)
 <div style="background-color: white;"><i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. Published by World Scientific Publishing Co. 2013.</div>
 
 
@@ -107,10 +107,10 @@ The following year, Darwin published a condensed version of his 20 years of work
 
 On his return to Britain in 1862, Wallace was no longer an obscure collector. He had become a well-known player in the scientific community. His reputation was forever linked with Darwin because of his own independent discovery. This no doubt helped the acceptance of Darwin’s book. Wallace was a great naturalist and a pioneer of the study of the biodiversity of Southeast Asia. He continues to inspire biologists and conservationists to this day. But he was not a dupe or a victim. Only proper historical method allows us to uncover the truth about the past and dispel the darkness of conspiracy theories or plain wishful thinking. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/wallace_assistant.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/wallace_assistant_re.jpg)
 <div style="background-color: white;"><i>Wallace's faithful Malay assistant Ali.</i> </div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Red_bird_paradise.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Red_bird_paradise_re.jpg)
 <div style="background-color: white;">The Red Bird of Paradise of New Guinea. This was what Wallace went to search for in 1858 in Ternate, Indonesia. </div>
 
 
