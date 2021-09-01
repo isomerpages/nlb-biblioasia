@@ -56,7 +56,7 @@ Although most people think of Singapore as one large Island, it actually compris
 
 Using photographic stills, videography and archival footage, “Island Nation” is a documentary project that highlights the unique stories of these former islanders and weaves them into the broader Singaporean narrative of nationhood. 
 
-#### **LIVING HISTORIES** 
+#### **Living Histories** 
 
 These islands represent an important part of Singapore's heritage. According to Marcus Ng, researcher and co-curator of the exhibition “Balik Pulau: Stories from Singapore's Islands”,[^1] these islands represent the southernmost maritime boundary of the nation both physically and politically. “It is space where you are vulnerable because you are surrounded by elements you can’t control,” he says. “You are reminded that you live on an island.” 
 
@@ -74,7 +74,7 @@ And he is not alone. Choo Huay Kim, 68, taught at St John's Island English Schoo
 
 The bond that the students shared with their teacher as well as their fondness for the old way of life on these islands was evident when some 70 former islanders recently returned to visit their old school on St John’s Island, now used as living quarters for foreign workers. 
 
-#### **ISLAND LIVING** 
+#### **Island Living** 
 
 For many, the excursion to the islands of St John's. Lazarus and Seringat on 9 November 2014 was like a taking a step back into time. The <i>gotong-royong</i> (community) spirit was truly alive that day as the former islanders prepared food that everyone could share. Funnily enough, despite the lack of coordination, no two dishes were the same! 
 
@@ -97,12 +97,9 @@ In the course of working on this project, we realised how interconnected the liv
 <div style="background-color: white;">An aerial photograph of Pulau Satumu, home of the Raffles Lighthouse </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Island_Nation_Singapore_Bukom_G0020334.jpg)
-<div style="background-color: white;">An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.</div>
+<div style="background-color: white;">An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.</div><i>All images by Captured.</i> 
 
-
-<i>All images by Captured.</i> 
-
-**Zakaria Zainal** is an associate photographer for Captured, a creative agency based in Singapore that specialises in delivering visual-centric narratives. 
+<p style="font-size:15px;>">Zakaria Zaina is an associate photographer for Captured, a creative agency based in Singapore that specialises in delivering visual-centric narratives.</p> 
 
 <a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
