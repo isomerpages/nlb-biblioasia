@@ -71,8 +71,6 @@ For the historian, the maps pinpoint the locations of traditional but now barely
 
 <i>The Secret Food Map</i> was soon followed by <i>The Secret Map of Sydney</i>, which was released in October 1987.[^16] <i>The Secret Map of Singapore</i> was reprinted in 1990, with research updates by Andrew Blaisdell and Adeline Ropion.[^17] Even so, changes to Singapore's landscape were so swift that although only three years had lapsed. the reprinted map was revised with 88 highlights instead of the 93 shown in the original.[^18]
 
-<i>Only</i> The Secret Map of Singapore <i>is available in the National Library collection.</i> 
-
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/secrete_food_map.jpg)
 <div style="background-color: white;"><i>The Secret Food Map of Singapore was produced in 1987. The Secret Food Map of Singapore. All rights reserved, Ropion, Hunt, 2014. </i> </div>
 
@@ -87,6 +85,8 @@ For the historian, the maps pinpoint the locations of traditional but now barely
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/murtabak.jpg)
 <div style="background-color: white;">A man making murtatuk in the Kampong Glam area in 1991. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
+<i>Only</i> The Secret Map of Singapore <i>is available in the National Library collection.</i> 
 
 
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Reference Librarian at the National Library of Singapore. Her interest in the obscure things about Singapore led her to re-examine two little known maps and found herself surprised by their contents.</p>
