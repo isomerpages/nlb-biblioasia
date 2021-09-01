@@ -11,7 +11,7 @@ layout: post
 
 “The census, the map, and the museum: together they profoundly shaped the way in which the colonial state imagined its dominion – the nature of the human beings it ruled, the geography of its domain, and the legitimacy of its ancestry.” – Benedict Anderson, <i>Imagined Communities</i>
 
-I write this as an academic who also happens to be a collector of antiquarian books, prints and maps of Southeast Asia, a hobby I have indulged in since my late teens, and which has left me in a state of perpetual poverty as a result. Those who belong to this small fraternity of aficionados will readily testify to the joy of collecting and the boundless pleasure of reading and appreciating books and maps that date back centuries. I am proud to say that although my passion has left me penniless, the state of destitution, thankfully, applies only to my wallet and not my sensibilities.
+I write this as an academic who also happens to be a collector of antiquarian books, prints and maps of Southeast Asia. A hobby I have indulged in since my late teens, and which has left me in a state of perpetual poverty as a result. Those who belong to this small fraternity of aficionados will readily testify to the joy of collecting and the boundless pleasure of reading and appreciating books and maps that date back centuries. I am proud to say that although my passion has left me penniless, the state of destitution, thankfully, applies only to my wallet and not my sensibilities.
 
 Antiquarian maps have long been sought after, for both their aesthetic as well as historical value. Those familiar with the workings of the antiquarian trade would know that such maps are also worthy investments in the long-run.
 
