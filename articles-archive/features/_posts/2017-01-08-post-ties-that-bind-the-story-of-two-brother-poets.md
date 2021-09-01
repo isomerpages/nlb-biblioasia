@@ -6,9 +6,9 @@ layout: post
 ---
 #### An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. **Michelle Heng** has the story.
 
-<center>“I held the arm bone in my hand,
-And let my warm tears fall;
-My brothers were slain at Ponggol Beach,
+<center>“I held the arm bone in my hand,<br>
+And let my warm tears fall;<br>
+My brothers were slain at Ponggol Beach,<br>
 My brothers Peter and Paul.”</center>
 
 	
