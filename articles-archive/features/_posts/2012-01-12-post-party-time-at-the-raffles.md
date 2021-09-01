@@ -36,8 +36,10 @@ In the heady days before World War II, tickets for the legendary New Year’s Fa
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-dressup.png)
 <div style="background-color: white;">Revellers all dressed up at a New Year’s Fancy Dress Ball at the Raffles Hotel, c. 1930s. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/postcard2.jpg)
-<div style="background-color: white;">(Left) Postcard of Raffles Hotel from the 1950s.<i> Courtesy of the Raffles Hotel and National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/postcard2.jpg">
+(Left) Postcard of Raffles Hotel from the 1950s.<i> Courtesy of the Raffles Hotel and National Museum of Singapore, National Heritage Board.</i></div>
 <div style="background-color: white;">(Right) The English writer Rudyard Kipling (1865–1936) was so taken with the dining options at the Raffles Hotel after a trip to Singapore in 1889 that he moved to write, “Feed at the Raffles Hotel and sleep at the Hotel de l’Europe” (the latter was the other notable lodgings at the time). What Kipling didn’t know was that by 1900, the Raffles would overshadow the Hotel de l’Europe on all counts, including its rooms. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
 The opening of the capacious grand ballroom in 1921 further heightened the attraction of the Raffles Hotel. Lively tea dances from 5 to 7pm, and regular dance evenings and concerts became the mainstay of the social calendar, with music provided by the Raffles Hotel Orchestra under the baton of musical director F.A. Cooke.
