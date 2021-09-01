@@ -97,7 +97,7 @@ In the course of working on this project, we realised how interconnected the liv
 <div style="background-color: white;">An aerial photograph of Pulau Satumu, home of the Raffles Lighthouse </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Island_Nation_Singapore_Bukom_G0020334.jpg)
-<div style="background-color: white;">An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.</div><i>All images by Captured.</i> 
+<div style="background-color: white;">An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.<i>All images by Captured.</i> </div>
 
 <p style="font-size:15px;>">Zakaria Zaina is an associate photographer for Captured, a creative agency based in Singapore that specialises in delivering visual-centric narratives.</p> 
 
