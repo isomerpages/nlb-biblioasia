@@ -32,14 +32,7 @@ The sea has a constant presence in these works and one may question its signific
 
 The late poet Margaret Leong, for instance, wrote a number of poems about rustic Singapore from the 1950s to early 1960s in her book <i>The Ice Ball Man and Other Poems.</i> Poems such as “Winking Island”, “Sea Gypsy”, “Malayan Christmas” and “The Junk” are just a few of many that capture scenes of early Singapore as older generations remember them. In “The Junk”[^9],  Leong recounts how back in the day. 
 
-|	A Junk must have 
-	A painted eye; 
-	And dragon masts 
-	That dip and fly; 
-	So when it sails 
-	The China Sea, 
-	Spirit and devil 
-	Both will flee. |
+|A Junk must have<br>A painted eye;<br>And dragon masts<br>That dip and fly;<br>So when it sails<br>The China Sea,<br>Spirit and devil<br>Both will flee.|
 
 Chinese junks adorned with painted eyes on their bulwarks once sailed the high seas of the region, laden with all manner of exotic goods for trade. These days the only painted eyes you will likely see on the water are those on the occasional bumboats that cruise along the Singapore River or modern-day faux junk boats filled with tourists that ply the waters of the Singapore Harbour. In “Temporality”, there is an image of a similar junk with painted eyes sailing in the waters of present-day Keppel Channel, but put together from photographs dating from the 1970s.  
 
