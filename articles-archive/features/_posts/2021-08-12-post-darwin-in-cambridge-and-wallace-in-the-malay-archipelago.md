@@ -7,7 +7,7 @@ layout: post
 #### Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things, **Dr John van Wyhe** addresses the misconception that Darwin cheated Wallace of his rightful place in history. 
 
 
-This article is based on the talk <i>“Darwin and Wallace” given by Dr John van Wyhe as part of the National Library's Prominent Speaker Series. Held on 31 July 2014 at the National Library Building, the talk was based on two of Dr van Wyhe’s recent books:</i> Charles Darwin in Cambridge: The Most Joyful Years and Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin. 
+<i>This article is based on the talk “Darwin and Wallace” given by Dr John van Wyhe as part of the National Library's Prominent Speaker Series. Held on 31 July 2014 at the National Library Building, the talk was based on two of Dr van Wyhe’s recent books:</i> Charles Darwin in Cambridge: The Most Joyful Years and Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/darwin.jpg)
 <div style="background-color: white;">Photograph of Charles Darwin, 1854.</div>
