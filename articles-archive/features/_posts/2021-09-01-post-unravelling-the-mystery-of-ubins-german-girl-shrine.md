@@ -14,11 +14,19 @@ While fascinating, a close examination of the account reveals a number of major 
 
 #### **Chia Yeng Keng’s Account** 
 
-The best-known version of the German girl story today is largely the product of a Teochew man named Chia Yeng Keng ­
+The best-known version of the German girl story today is largely the product of a Teochew man named Chia Yeng Keng 
 (谢衍庆), born in 1928 and a resident of Ubin since 1931 (he died in the mid-2000s). Chia lived near the shrine and claimed to be an authority on it: between 1987 and 2004, he gave no fewer than seven separate interviews that appeared in English and Chinese newspapers, was featured in a documentary film and even gave an oral history interview deposited with the National Archives of Singapore.[^1]  
 
 In his first print interview in 1987, Chia told the 新明日报 (*Xin Ming Ri Bao; Shin Min Daily News*) newspaper that the girl was of Dutch-German ancestry. Her parents were from Holland and the family lived on a coffee plantation on the western side of the island. However, Holland was neutral during World War I and the British did not intern Dutch citizens. In subsequent interviews, Chia dropped the Dutch ancestry and merely said that the family was German.
 
 Later, Chia freely admitted that he had no way of knowing if any part of the story was true. When pressed for details in an oral history interview in 2004, he protested: “I was born more than 10 years after the death of the German girl so I don’t know anything about her.”
 
+According to Chia, the story had been related to him by a village elder he addressed as Uncle Foon Da, a man from China who had lived on Ubin since the 1880s. Uncle Foon Da, however, was not an eyewitness to the events himself. He told young Chia that he did not personally see the body of the girl but had only been told of the story by others.  
 
+So, how much of the German girl story holds up to scrutiny? And what can it tell us about the history of Pulau Ubin?
+
+#### **Of Coffee Plantations and Mysterious Germans** 
+
+There was indeed, at one point, a coffee estate on Pulau Ubin. It was opened in 1880 by Thomas Heslop Hill, a British planter who grew both coffee and cacao on 150 acres (around 61 hectares) of land.[^2] Pulo Obin Estate, as he called it, was located on the western end of the island, exactly where Chia said the German coffee plantation had been located.
+
+D. Brandt and Co. was the trading agency that represented the estate and owned an interest in it as well. The company had been founded in 1878 by Germans Daniel Brandt and Herman Muhinghaus.[^3]  These names were uncovered in the early 2000s and subsequently presented as proof that there were Germans living on Ubin at the beginning of World War I. The records, however, tell a different story.
