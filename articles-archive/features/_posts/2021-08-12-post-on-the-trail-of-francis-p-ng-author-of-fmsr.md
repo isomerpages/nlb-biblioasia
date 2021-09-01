@@ -129,7 +129,7 @@ The death certificate and family records of Teo Poh Leng remain unknown. However
 With this news, my laborious and slightly futile one-year search suddenly took on a glimmer of hope. I am now trying to complete my research and work towards republishing this neglected literary treasure. The reprinting of <i>F.M.S.R.</i> will fill the gap in Singapore's literary past, and in particular, that of English-language literature – the genre which seems to have lagged behind Chinese-language and Malay-language works that have a more prolific history. Along with Lim Boon Keng’s <i>Tragedies of Eastern Life</i> (1927), <i>F.M.S.R.</i> will take its rightful place among pre-World War II 20th-century English literature from Singapore that Philip Holden, Rajeev S. Patke and John Clammer have analysed. <i>F.M.S.R.</i> will also serve as a bridge between post-World War II poetry pioneered by Edwin Thumboo (1933–) and the abundance of poems that poet Alvin Pang (1972–) is currently excavating from 19th-century Singapore school magazines.[^51]
 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/TeoinRegister.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/TeoinRegister_re.jpg)
 <div style="background-color: white;">Teo Poh Leng listed as missing in <i>The Register of Graduates (1968)</i> belonging to the University of Malaya’s King Edward VII College of Medicine and Raffles College.</div>
 
 
