@@ -42,9 +42,9 @@ The caretaker Da Bo Gong (Tua Pek Kong) Tample on Kusu Island – just a 20-minu
 
 It is the start of the ninth month of the Chinese lunar calendar, and thousands of devotees will travel to the island temple seeking blessings from Tua Pek Kong (God of Prosperity) and Guan Yin (Goddess of Mercy). 
 
-At the temple, caretaker Seet Seng Huat pauses and nods his head in the direction of a small group of men huddled at the furnace in the temple courtyard. The trio, in long sleeves and biker masks - with only their eyes visible - to protect themselves from the heat and smoke, offer to burn joss paper for devotees in return far a small donation. 
+At the temple, caretaker Seet Seng Huat pauses and nods his head in the direction of a small group of men huddled at the furnace in the temple courtyard. The trio, in long sleeves and biker masks – with only their eyes visible – to protect themselves from the heat and smoke, offer to burn joss paper for devotees in return far a small donation. 
 
-Thick smoke billows out steadily from the narrow chimney of the furnace. The requests come thick and fast. As the two men take turns to collect joss paper and throw them into the furnace, the third man - probably the oldest - sits down. 
+Thick smoke billows out steadily from the narrow chimney of the furnace. The requests come thick and fast. As the two men take turns to collect joss paper and throw them into the furnace, the third man – probably the oldest – sits down. 
 
 “He comes here every season,” Seng Huat says,“ and stays for a long time each time he visits.” He adds, “I think you should speak to him.” 
 
