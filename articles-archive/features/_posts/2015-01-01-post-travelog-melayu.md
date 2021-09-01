@@ -14,10 +14,10 @@ Travelogues, particularly those from yesteryear, serve as important reference do
 
 |<i>Maka dengan tolong Allah dua hari ketiga sampailah ke laut Melaka, tetapi tiada singgah. Maka berlayarlah juga dengan angin utara. Maka diberi Allah tiga hari keempatnya sampailah ke Pulau Pinang, itupun tiadalah juga singgah, lalu juga berlayar. Maka kepada hari Ahad tujuh hari bulan, pada malam pukul sembilan turunlah angin utara kencang terlalu; maka ombak dan gelombang terlalu besar. Maka kapal sebesar itu menjadi seperti kulit sabut di tengah laut, dihempaskan gelombang itu timbul tenggelam. Maka segala peti2 dan barang2 di kapal, yang di kiri datang ke kanan dan yang di kanan ke kiri, sehingga sampailah pada pagi. Maka ada pukul sebelas redahlah angin itu. Maka dilayarkanlah juga, maka sampailah kira2 pukul empat petang bertentangan Pulau Perak. Adapun pulau itu tiadalah sehelai rumput atau pohon2 melainkan batu sahaja bertimbun putih kelihatan dari jauh rupanya seperti perak. Maka sebab itulah dinamakan orang Pulau Perak.”</i>|
 
-<i>Karya lengkap Abdul Kadir Munsyi Jilid 1<br>
+|<i>Karya lengkap Abdul Kadir Munsyi Jilid 1<br>
 Amin Sweeney<br>
 Kisah pelayaran Abdullah bin Abdul Kadir 
-Munsyi dari Singapura sampai ke Mekah.</i>
+Munsyi dari Singapura sampai ke Mekah.</i>|
 
 Travelog atau kisah pengembaraan mempunyai peranan yang tersendiri dalam memperkenalkan sesuatu negeri atau tempat asing yang dilawati penulis kepada yang lain. La juga boleh menjadi dokumen penting dalam memberikan maklumat tentang budaya dan persekitaran masyarakat yang dikunjungi. Seperti genre-genre sastera yang lain, travelog Melayu juga mempunyai sumbangan yang tersendiri dalam membantu kita memahami falsafah kehidupan masyarakat Melayu. Oleh itu catatan tentang kehidupan masyarakat yang dilawati, diamati atau dilalui di dalam travelog menjadi rakaman sejarah sosial budaya masyarakat itu sebagai bahan rujukan. Melalui bukunya, <i>Chatetan Ka Tanah Suchi</i> (1960). Harun Aminurrashid mengatakan, 
 
