@@ -67,7 +67,7 @@ Programme booklet and handwritten draft of  <i>Mama Looking For Her Cat </i> by 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/scriptandstage/guest.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/03-guest.png">
 Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s to 80s” on 27 October 2016.
 </div>
 
