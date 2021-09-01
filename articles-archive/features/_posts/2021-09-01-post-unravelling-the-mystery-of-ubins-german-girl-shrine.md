@@ -149,29 +149,30 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 [^2]: [*The Singapore and Straits Directory for 1881, Containing also Directories of Sarawak, Labuan, Siam, Johore and the Protected Native States of the Malay Peninsula and an Appendix*](https://eresources.nlb.gov.sg/printheritage/detail/6e76cb75-dfe3-4203-a211-76305cafde9d.aspx) (Singapore: Mission Press, 1881), 78. (From BooksSG; Call no. RRARE 382.09595 STR; Accession no. B03013713G; Microfilm no. NL1176)
 
-[^3]: Amran Kasimin. (2002). *[Perkahwinan Melayu](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11713807)* (pp. 84–85). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay R q392.509595 AMR-[CUS]); Hidayah Amin. (2014). *[Malay weddings don’t cost $50 and other facts about Malay culture](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931)* (p. 97). Singapore: Helang Books. (Call no.: RSING 305.8992805957 HID)
+[^3]: Hans Schweizer-Iten, [*One Hundred Years of the Swiss Club in Singapore, 1871–1971*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082418) (Singapore: Swiss Club, 1981), 396. (From National Library, Singapore, Call no. RSING 367.95957 SCH)
 
-[^4]: [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, pp. 95–97.
 
-[^5]: Muhammad Ariff Ahmad. (2007). *[Nilam: Nilai Melayu menurut adat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522)* (pp. 278–279). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH); [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, pp. 95–97.
+[^4]: Crown lease 933. Singapore Land Authority (SLA) Deed Registry, volume 58 number 179 and Index to Land Book, volume 46 page 404.
 
-[^6]: Registry of Muslim Marriages. (2019, May 10). *Maskahwin & marriage expenses*. Retrieved from Registry of Muslim Marriages website.
+[^5]: “[New Companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19100324-1.2.67),” *The Singapore Free Press and Mercantile Advertiser*, 24 March 1910,  10. (From NewspaperSG)
 
-[^7]: Ruzita Zaki. (Interviewer). (1995, February 7). *[Oral history interview with Mohd Amin bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad)* [MP3 recording no. 001597/44/7]. Retrieved from National Archives of Singapore website.
+[^6]: [*The Singapore and Straits Directory*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490) (Singapore: Fraser and Neave, 1914), 787–88. (From National Library, Singapore, Call no. RRARE 382.09595 STR; Microfilm no. NL1185)
 
-[^8]: Azahar Mohamed. (1999, May 23). [Wang hantaran tinggi? Itu cabaran lelaki pertingkat diri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19990523-1.2.17.3). *Berita Minggu*, p. 8; [Perihal mas kahwin dan wang hantaran](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20150811-1.2.7.4.7). (2015, August 11). *Berita Harian*, p. 7. Retrieved from NewspaperSG.
+[^7]: 
 
-[^9]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 278–279; Zaharian Osman. (2009, April 11). [Barang hantaran kian canggih](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20090411-1.2.27.7). *Berita Harian*, p. 22; Farid Hamzah. (2010, January 4). [Dariku untukmu, sayang: Hantaran](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20100104-1.2.17.1). *Berita Harian*, p. 8; Zawiyah Salleh. (2009, March 18). [Gubah hantaran pengantin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20090318-1.2.18.1). *Berita Harian*, p. 9. Retrieved from NewspaperSG. 
+[^8]: 
 
-[^10]: [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, pp. 97–98.
+[^9]:  
 
-[^11]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 274–275; Hadijah Rahmat. (2005). *[Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182)* (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
+[^10]: 
 
-[^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). *[Oral history interview with Abu Talib bin Ally](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5a6951c5-115e-11e3-83d5-0050568939ad-OHC001216_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=21)* [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
+[^11]: 
 
-[^13]: Mohd Yussoff Ahmad. (Interviewer). (1987, March 12). *[Oral history interview with Aliman bin Hassan (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fee070a7-115d-11e3-83d5-0050568939ad)* [MP3 recording no. 000797/11/2]. Retrieved from National Archives of Singapore website. 
+[^12]:  
 
-[^14]: Haron Abdul Rahman. (1986, February 12). [The big day and its rites](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860212-1.2.40.1). *The Straits Times*, p. 20; [Lebih meriah kalau adakan majlis di tempat sendiri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860330-1.2.28.4.7). (1986, March 30). *Berita Harian*, p. 11. Retrieved from NewspaperSG.
+[^13]:  
+
+[^14]: 
 
 [^15]: Spykerman, K. (2012, January 15). [My big fat void deck wedding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120115-1.2.54.1.1). *The Straits Times*, p. 2; Shahida Sarhid. (2012, September 30). [Kambing barbeku, susyi antara hidangan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20120930-1.2.13.1). *Berita Harian*, p. 6. Retrieved from NewspaperSG. 
 
