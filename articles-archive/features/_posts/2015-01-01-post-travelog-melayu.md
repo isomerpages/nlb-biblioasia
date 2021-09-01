@@ -32,7 +32,7 @@ Berdasarkan kepada teks-teks yang ada antara tempat-tempat pengembaraan yang ser
 <img src="\images\vol-10-issue-4\travelogmelayu\background.jpg">
 	</div>
 
-Terdapat catatan kembara yang menarik ditulis dalam bentuk puisi syair, contohnya “Syair Peri Tuan Raffles Pergi ke Minangkabau” yang telah ditulis pada tahun 1818 (Raimy Che-Ross, 2003). Permulaan syair ini memberikan pembaca pengenalan tentang siapa Tuan Raffles yang pergi ke Padang dengan diiringi isterinya yakni "Madamnya yang arif buniman”. Selain itu bait-bait awal ini juga mepyentuh beberapa usahanya untuk merubah dan membuat raformasi sosial seperti membasmi perjudian dan sabung ayam di “Bangkahulu”.
+Terdapat catatan kembara yang menarik ditulis dalam bentuk puisi syair, contohnya “Syair Peri Tuan Raffles Pergi ke Minangkabau” yang telah ditulis pada tahun 1818 (Raimy Che-Ross, 2003). Permulaan syair ini memberikan pembaca pengenalan tentang siapa Tuan Raffles yang pergi ke Padang dengan diiringi isterinya yakni "Madamnya yang arif buniman”. Selain itu bait-bait awal ini juga menyentuh beberapa usahanya untuk merubah dan membuat raformasi sosial seperti membasmi perjudian dan sabung ayam di “Bangkahulu”.
 
 
 	Bismillah itu permulaan baca 
