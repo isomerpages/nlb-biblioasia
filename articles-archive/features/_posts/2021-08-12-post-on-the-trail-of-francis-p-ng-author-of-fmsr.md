@@ -100,7 +100,7 @@ Teo’s devotion to this modernist literary enterprise from the British colonial
 <div style="background-color: white;">4. Section VII of <i>F.M.S.R.</i> retitled as "The Song of the Night Express" by Teo Poh Leng, was published in the 1937 spring issue of <i>Life and Letters To-day</i>, a British literary magazine. <i>Life and To-day</i>. (Vol. 16, No. 7)</div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/rafflesCollege.jpg)
-<div style="background-color: white;">5. Oei Tiong Ham Hall at Rattles College, Bukit Timah Road, in 1938. Teo Poh Leng was a student at Raffles College from 1931 1934, where he trained to be a teacher. <i>Courtesy of National Archives of Singapore. </i></div>
+<div style="background-color: white;">5. Oei Tiong Ham Hall at Rattles College, Bukit Timah Road, in 1938. Teo Poh Leng was a student at Raffles College from 1931 to 1934, where he trained to be a teacher. <i>Courtesy of National Archives of Singapore. </i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/TeoRCPhoto1934.jpg)
 <div style="background-color: white;">6. A faded graduation photograph of the Raffles College batch of students in 1934. One of the students in this photo is Teo Poh Leng, but he remains unidentified as the author of this article has not been able track down anyone who can recognise him. Paul Abisheganaden is the eighth from the right in the middle row. <i>Raffles College Union Magazine (1934 July). (Vol. 4, No. 10), insert between pp. 42 and 42. Courtesy of NUS Central Library. </i> </div>
