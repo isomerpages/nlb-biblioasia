@@ -48,4 +48,8 @@ Finally, there is no satisfactory explanation as to why the German girl’s fami
 
 Despite a careful search of the archives, there is no historical evidence to substantiate the German girl story. This leads us to the question: whose shrine is worshipped on Pulau Ubin today?
 
-#### **The Keramat of Pulau Ubin** 
+#### **The Keramat of Pulau Ubin**
+
+Intriguingly, the first newspaper article to describe the German girl shrine makes no mention of Germans at all.
+
+In 1985, an article in the Malay newspaper *Berita Minggu* mentioned the grave of a princess from Java that was located on a hill on the island. She had “fled to Pulau Ubin over one hundred years ago”, perhaps because of a broken heart or to avoid an arranged marriage. In another version, she was “cared for” by a wealthy *tongkang* (bumboat or lighter) builder. When she died, her body “became a hard rock shaped like a woman lying down”. She was said to later haunt the hill as a *hantu puteri*, or ghost princess, seducing a quarry worker from Johor who met a terrible fate.[^9]
