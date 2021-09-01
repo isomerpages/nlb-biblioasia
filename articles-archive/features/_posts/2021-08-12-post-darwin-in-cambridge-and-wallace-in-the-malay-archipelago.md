@@ -9,7 +9,7 @@ layout: post
 
 This article is based on the talk <i>“Darwin and Wallace” given by Dr John van Wyhe as part of the National Library's Prominent Speaker Series. Held on 31 July 2014 at the National Library Building, the talk was based on two of Dr van Wyhe’s recent books:</i> Charles Darwin in Cambridge: The Most Joyful Years and Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Charles_Darwin.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/darwin.jpg)
 <div style="background-color: white;">Photograph of Charles Darwin, 1854.</div>
 
 Charles Darwin and Alfred Russel Wallace are best remembered as the co-proposers of the theory of evolution by natural selection. Now, over 150 years later, evolution is the foundation of the life sciences and more. It is no wonder that Darwin and Wallace remain some of the most important figures in the history of science. Yet, despite all that has been written about them over the years, historical research is still turning up surprising new findings about their lives, their science, and how they came to change our understanding of life on earth forever. 
@@ -19,20 +19,20 @@ Many believe that Wallace has been overlooked and denied his rightful fame for h
 Charles Darwin (1809—1882) is one of the most intensely studied scientists in history, and has been for over a century. But one area of his life that has remained comparatively unexamined is his formative years as a student at the University of Cambridge. For the rest of his life Darwin held a particular affection for Cambridge. For a time he even considered a Cambridge professorship as a career. He later sent three of his sons there to be educated. Yet, the traces of what Darwin actually did and experienced as a student in Cambridge have remained undiscovered, and the details of his day-to-day life there are either largely unknown or misunderstood. 
 
 
-#### **WILLAGE IN THE MALAY ARCHIPELAGO DARWIN IN CAMBRIDGE** 
+#### **Willage in The Malay Archipelago Darwin in Cambridge** 
 
-##### **DARWIN IN CAMBRIDGE**
+##### **Darwin in Cambridge** 
 
-Darwin entered the books as an undergraduate student at Christ's College, Cambridge, on 15 October 1827, but as he had forgotten most of his schoolboy Greek he had to be tutored at home before entering Cambridge. (Why this mattered is explained in <i>Darwin in Cambridge; The Most Joyful rears.</i>[^2]) This meant he did not arrive in Cambridge until January 1828 - and by then all the rooms in the college were filled. So he took lodgings above the tobacconist shop across the street. The owner had an arrangement with Christ's College so that its students could rent rooms there, though this sometimes led to complaints. For instance, the shop owner across the street from the tobacconist would complain to the Master of the College that students kept knocking the hats off unwary passers-by along the street by flicking a long horsewhip from their first floor windows. 
+Darwin entered the books as an undergraduate student at Christ's College, Cambridge, on 15 October 1827, but as he had forgotten most of his schoolboy Greek he had to be tutored at home before entering Cambridge. (Why this mattered is explained in <i>Darwin in Cambridge; The Most Joyful rears.</i>[^2]) This meant he did not arrive in Cambridge until January 1828 – and by then all the rooms in the college were filled. So he took lodgings above the tobacconist shop across the street. The owner had an arrangement with Christ's College so that its students could rent rooms there, though this sometimes led to complaints. For instance, the shop owner across the street from the tobacconist would complain to the Master of the College that students kept knocking the hats off unwary passers-by along the street by flicking a long horsewhip from their first floor windows. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Alfred_Russel_Wallace.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/alfred_re.jpg)
 <div style="background-color: white;">Alfred Russel Wallace in Singapore in 1862. Merchant, James ed. 1916.<i>Alfred Ruessel Wallace and Reminiscences.</i></div>
 	
 For many years it has been repeated that Darwin was a theology student at Cambridge. This is not true. There was no such undergraduate degree. Instead, Darwin was registered for an ordinary Bachelor of Arts (BA) degree. It was his intention to become a clergyman, but such training could take place only after receiving the prerequisite B.A. In the end, Darwin never undertook any divinity training. 
 
 In November 1828, Darwin moved into a set of rooms in Christ's College, as he later recalled. “in old court, middle stair-case, on right-hand on going into court, up one flight, right-hand door and capital rooms they were.” They were indeed comfortable and recently discovered college record books reveal that Darwin's rooms were the most expensive at €4 per quarter. The record books also reveal that his college bills over three years amounted to about €700. This was a princely sum of money at the time. 
 
-One of the more surprising findings about Darwin's daily life as a student was the mandatory attendance at the College Chapel. This in itself is no surprise, but what was previously unknown is that Darwin almost certainly took his turn at the medieval brass lectern and read from the Bible to the assembled members of the college. It is a striking and paradoxical image. Charles Darwin has probably been attacked more than any other scientist in history as being purportedly irreligious or worse, dangerous to religion. Although Darwin would cease to believe in Christianity shortly after his voyage on HMS <i>Beagle</i> (1831-36), he was never an atheist. 
+One of the more surprising findings about Darwin's daily life as a student was the mandatory attendance at the College Chapel. This in itself is no surprise, but what was previously unknown is that Darwin almost certainly took his turn at the medieval brass lectern and read from the Bible to the assembled members of the college. It is a striking and paradoxical image. Charles Darwin has probably been attacked more than any other scientist in history as being purportedly irreligious or worse, dangerous to religion. Although Darwin would cease to believe in Christianity shortly after his voyage on HMS <i>Beagle</i> (1831–36), he was never an atheist. 
 
 Like many young men of his social Class, Darwin passionately dedicated to the sport of shooting birds. When he could not go shooting, he would practise his aim in his comfortable college mom. He later recalled in his autobiography: 
 
@@ -46,24 +46,24 @@ Darwin’s interests in science became a lifelong passion. He read the scientifi
 
 Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, from whom Darwin learned a great deal about scientific method. The two became such good friends that college dons who had not met Darwin referred to him as “the man who walks with Henslow.”[^5] Darwin also studied other branches of natural science in his own time as the university then offered little instruction in science. He eventually learned the basics of a wide range of current fields. In 1831, he successfully completed his exam to gain his B.A. degree. Darwin later recalled, “Upon the whole, the three years I spent at Cambridge were the most joyful of my happy life.”[^6] It was Henslow who would shortly thereafter recommend Darwin for the post of naturalist on HMS <i>Beagle</i> on a voyage around the world.[^7] The Rest, as they say, is history. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/cambridge_graduate_1.jpg)
-<div style="background-color: white;">A Cambridge graduate in the 1820s sporting the latest fashion - trousers (instead of knee breeches)</div>
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/cambridge_graduate.jpg)
+<div style="background-color: white;">A Cambridge graduate in the 1820s sporting the latest fashion – trousers (instead of knee breeches).</div>
 	
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Christs_Ackermann.jpg)
 <div style="background-color: white;">Christ's College, Cambridge, where Darwin spent his undergraduate years. </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Darwin_room.jpg)
-<div style="background-color: white;">Restoration of Darwin's room at Christ's College Was completed in 2009. He lived here from 1828-1831.</div>
+<div style="background-color: white;">Restoration of Darwin's room at Christ's College Was completed in 2009. He lived here from 1828–1831.</div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large.jpg)
 <div style="background-color: white;"><i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. Published by World Scientific Publishing Co. 2013.</div>
 
 
-##### **IN SEARCH OF THE HISTORICAL WALLACE** 
+##### **In Search of The Historical Wallace** 
 
-For Alfred Russel Wallace (1823-1913) the picture is quite different. He did not come from a privileged background and although he attended a good school like Darwin's. Wallace never went to university. His family had fallen on hard times. But as there was little science taught at universities anyway, most men of science at the time were largely self-taught. Both were middle-class, Darwin from the higher end of the spectrum, Wallace from the lower. 
+For Alfred Russel Wallace (1823–1913) the picture is quite different. He did not come from a privileged background and although he attended a good school like Darwin's. Wallace never went to university. His family had fallen on hard times. But as there was little science taught at universities anyway, most men of science at the time were largely self-taught. Both were middle-class, Darwin from the higher end of the spectrum, Wallace from the lower. 
 
-Darwin’s life and work have been intensively studied by historians for over a century. Wallace, on the other hand, like many other scientists of his day, has been the subject of comparatively little historical study. But unlike the thousands of other forgotten scientists of his era, Wallace has become the centre of interest of another group of people - not historians, but enthusiasts. 
+Darwin’s life and work have been intensively studied by historians for over a century. Wallace, on the other hand, like many other scientists of his day, has been the subject of comparatively little historical study. But unlike the thousands of other forgotten scientists of his era, Wallace has become the centre of interest of another group of people – not historians, but enthusiasts. 
 
 From the 1960s onward, articles and books about Wallace by popular writers began to appear. From one publication to another, Wallace gradually came to be portrayed as ever more “forgotten”, wronged and in need of being reinstated in the annals of history. Many popular writers have even gone so far as to suggest some nefarious skulduggery in the story of Wallace. It is now commonly suggested that Darwin or his friends treated Wallace unfairly, that he was cheated or robbed of priority or credit for his main discovery. Some writers claim that Darwin lied about when he received Wallace’s essay on evolution, or worse, even plagiarised Wallace's work. The reason for their suspicion? In 1858, Wallace, who was living on the island of Ternate in Indonesia, mailed Darwin an outline theory that appeared remarkably similar to the one Darwin had been working on for the last 20 years. Darwin was at that time about two years away from finally completing and publishing in his so-called “big book” on evolution by natural selection. 
 
@@ -73,7 +73,7 @@ If Wallace's name is familiar at all to the average reader today, it is usually 
 
 A candid investigation of the original historical sources from Wallace's time differs strikingly from the modern picture of Wallace as the “hero-on-a-quest but cheated in the end.” <i>Dispelling the Darkness</i> is an attempt to reveal the historical Wallace as he lived and worked in his original time and context. Based on the most intensive research programme ever undertaken on Wallace in Southeast Asia, the real Wallace and his story turns out to be very different from the heroic version bandied about in recent years. In short, everything you have heard about Wallace is probably wrong. 
 
-##### **WHAT REALLY HAPPENED IN THE ARCHIPELAGO?** 
+##### **What Really Happened in The Archipelago?** 
 
 After a series of underpaying jobs, Wallace set out for the Amazon valley in 1848 to make a living as a commercial specimen collector. (The heroic version has him going instead on a quest to solve the problem of the origin of species.[^8]) During his time there, Wallace continued his self-education in science and began to publish a series of scientific papers. As part of his research, he also collected large numbers of insects, birds and mammals. In 1852, Wallace was returning home when disaster struck. The sailing vessel on which he was travelling caught fire and sank in the Atlantic Ocean. Wallace and the crew were rescued and returned safely to England. 
 
@@ -87,9 +87,9 @@ In fact, the paper's original sources and meanings were quite different, and far
 
 Nevertheless, it is absolutely clear that Wallace privately believed that species evolve. He was not searching for a solution to a problem or mystery. He most certainly was not searching for a “mechanism.” This is a modern idea. Wallace was interested in the topic of the gradual change of species over time. He was convinced it was a purely natural, and not a supernatural process, and he planned to write a book on the subject when he returned home. 
 
-In 1856, Wallace began to realise that in the west of the Malay Archipelago the species of animals were more Asian in type, while towards the east. the animal species were more Australian. Wallace would eventually divide the archipelago into two biological regions and the line between them, roughly between Bali and Lombok, was named after him - The Wallace line. 
+In 1856, Wallace began to realise that in the west of the Malay Archipelago the species of animals were more Asian in type, while towards the east. the animal species were more Australian. Wallace would eventually divide the archipelago into two biological regions and the line between them, roughly between Bali and Lombok, was named after him – The Wallace line. 
 
-##### **ADAPTATION** 
+##### **Adaptation** 
 
 In 1858, Wallace was living on the tiny volcanic island of Ternate, one of the fabled Spice Islands of Indonesia, just west of New Guinea. He had come to procure the rare and beautiful Birds of Paradise that live only in and around New Guinea. It was on Ternate that Wallace conceived an explanation as to how species come to be adapted to their environments.[^11] This was a radical departure from his previous thinking. He had never looked for an explanation for adaptation before. Indeed he thought that traditional ideas of species adaptation smacked of shallow and old-fashioned thinking. So what made him change his mind? 
 
@@ -114,7 +114,7 @@ On his return to Britain in 1862, Wallace was no longer an obscure collector. He
 <div style="background-color: white;">The Red Bird of Paradise of New Guinea. This was what Wallace went to search for in 1858 in Ternate, Indonesia. </div>
 
 
-**Dr John van Wyhe** is a historian of science at the National University of Singapore who specialises in Darwin and Wallace. For several years a Bye-Fellow of Christ's College, Cambridge, he is also the Director of Darwin Online and Wallace Online and the author of 10 books and numerous articles on the history of science. 
+<p style="font-size:15px;"><b>Dr John van Wyhe</b> is a historian of science at the National University of Singapore who specialises in Darwin and Wallace. For several years a Bye-Fellow of Christ's College, Cambridge, he is also the Director of Darwin Online and Wallace Online and the author of 10 books and numerous articles on the history of science.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
