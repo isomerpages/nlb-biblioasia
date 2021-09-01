@@ -7,7 +7,7 @@ layout: post
 #### **Charting Memories Through Collective Imaginations**
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/pointsofdeparture/ChangiTriptych_1_FP2.jpg)
-<div style="background-color: white;">School excursion to Changi Point from "Points of Departure" (2014). The original photograph of school boys is in ”black and white, captioned” Form 4B picnic at Changi date 2B Nov 1 957". The artist has overlaid this image onto a more recent shot of Changi Point, © <i>Juria Toramae. All rights reserved.</i></div>
+<div style="background-color: white;">School excursion to Changi Point from "Points of Departure" (2014). The original photograph of school boys is in ”black and white, captioned” Form 4B picnic at Changi date 28 Nov 1957". The artist has overlaid this image onto a more recent shot of Changi Point, © <i>Juria Toramae. All rights reserved.</i></div>
 
 
 When the National Library Board announced its plans to extend its outreach efforts for the Singapore Memory Project (SMP) in 2012,[^1] the first question that sprung to my mind was: How can one relate to the shared memories of a place if the place in question no longer exists? 
