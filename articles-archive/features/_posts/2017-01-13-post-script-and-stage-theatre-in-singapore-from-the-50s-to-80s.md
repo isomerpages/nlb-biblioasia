@@ -61,13 +61,13 @@ High-quality scripts and productions such as Kuo Pao Kun’s groundbreaking *The
 By the early 1990s, the local theatre scene had come into its own, paving the way for new amateur theatre groups to emerge and contribute to the vibrant performing arts scene we see today in Singapore.
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/scriptandstage/mamalookingforhercat.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/02-mamalookingforhercat.jpg">
 Programme booklet and handwritten draft of  <i>Mama Looking For Her Cat </i> by Kuo Pao  Kun.
 </div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/scriptandstage/03-guest.png">
+<img src="/images/Vol-12-issue-4/scriptandstage/03a-guest.jpg">
 Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s to 80s” on 27 October 2016.
 </div>
 
