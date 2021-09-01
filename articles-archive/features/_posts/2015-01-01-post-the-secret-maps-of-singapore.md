@@ -77,7 +77,7 @@ For the historian, the maps pinpoint the locations of traditional but now barely
 <div style="background-color: white;"><i>The Secret Food Map of Singapore was produced in 1987. The Secret Food Map of Singapore. All rights reserved, Ropion, Hunt, 2014. </i> </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/Sultan_Mosque.jpg)
-<div style="background-color: white;">1980s photograph Of the Sultan Mosque located at 3 Muscat Street, GP Reichelt Collection, courtesy of National Archives of Singapore. </div>
+<div style="background-color: white;">1980s photograph of the Sultan Mosque located at 3 Muscat Street, GP Reichelt Collection, courtesy of National Archives of Singapore. </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/Details_kg.jpg)
 <div style="background-color: white;">Details of Kampong Glam as seen in <i>The Secret Map of Singapore. The Secret Map of Singapore, 1986. All rights reserved, Mowe, Ropion, Hunt, 2014. </i></div>
