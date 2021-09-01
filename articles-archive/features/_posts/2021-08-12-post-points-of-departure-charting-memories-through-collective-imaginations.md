@@ -26,7 +26,7 @@ This painstaking process ultimately led to a photographic series called “Tempo
 
 With Jerome exploring text and sound as artefacts of memory, we wove together forgotten tales, personal experiences, soundscapes and oral history interviews, forming new narratives in the process. In this way, we began mapping memories on a much larger scale by creating a body of work that includes a series of photographs, stories and installations to be showcased through an exhibition and a publication. 
 
-#### **A CONSTANT OR CHANGING SEA?** 
+#### **A Constant or Changing Sea?** 
 
 The sea has a constant presence in these works and one may question its significance - does it act as a metaphor for change and loss or as a symbol for continuity? The importance of the sea may have greatly receded from our everyday lives, yet it still emerges in many of our everyday conversations. Those who have witnessed Singapore's meteoric rise from a newly independent nation to a modern city-state have many stories to tell, and they have been the source of inspiration to me for both works. 
 
