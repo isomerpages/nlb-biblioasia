@@ -52,7 +52,7 @@ Thick smoke billows out steadily from the narrow chimney of the furnace. The req
 
 Such stories are not uncommon in “Island Nation”, a documentary project that recounts the stories of Singaporeans who once lived on the southern islands of Singapore, especially Sisters' Island, Sentosa and Kusu Island, 
 
-Although most people think of Singapore as one large Island, it actually comprises a number small islands and islets - more than 60 at one point in time. As Singapore developed over the years, massive reclamation works swallowed up many of these Islands and created new ones in the process. A number of these offshore islands, which were inhabited by people, were zoned for specific purposes and their residents relocated to mainland Singapore. 
+Although most people think of Singapore as one large Island, it actually comprises a number small islands and islets – more than 60 at one point in time. As Singapore developed over the years, massive reclamation works swallowed up many of these Islands and created new ones in the process. A number of these offshore islands, which were inhabited by people, were zoned for specific purposes and their residents relocated to mainland Singapore. 
 
 Using photographic stills, videography and archival footage, “Island Nation” is a documentary project that highlights the unique stories of these former islanders and weaves them into the broader Singaporean narrative of nationhood. 
 
@@ -64,7 +64,7 @@ For Mustari, his involvement started as a young boy when his father, along with 
 
 These days Mustari waits for a call in early September from Seng Huat. He then packs his clothes, prepares food items such as tea, sugar and biscuits for the month-long stay. In fact, there is even a special locker reserved for him at the temple. 
 
-Mustari's story reveals a deep attachment to the islands, <i>“Dah biasa lah.”</i> he says in Malay, meaning " used to it" referring to the islander's lifestyle. 
+Mustari's story reveals a deep attachment to the islands, <i>“Dah biasa lah.”</i>  he says in Malay, meaning " used to it" referring to the islander's lifestyle. 
 
 And he is not alone. Choo Huay Kim, 68, taught at St John's Island English School from 1966 to 1976 - one of the few schools that existed on the Southern Islands. Choo was also an islander - he was born (in 1946) and raised on Pulau Sekijang Bendera, before it became known as St John's Island. 
 
