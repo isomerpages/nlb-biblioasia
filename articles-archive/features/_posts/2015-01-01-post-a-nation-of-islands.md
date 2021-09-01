@@ -4,7 +4,6 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/nation-of-island
 layout: post
 ---
-
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg)
 <div style="background-color: white;">1. Students from the St John's Island English School take a group photograph with their teacher Mr Choo Huay Kim at the same place where they had their flag-raising ceremony every morning in the early 1970s.</div>
 
@@ -85,10 +84,6 @@ Those who remembered pointed out landmarks that are now gone, such as a well, no
 
 In the course of working on this project, we realised how interconnected the lives of the former islanders’ were and how important these islands still are to them today. Documenting their lives and what they remember of the islands is one way of capturing a slice of life that no longer exists in Singapore. 
 
-|<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> wvww.facebook.com/islandnationsg<i>.The website</i> www.islandnation.sg <i>will be launched in March 2015.</i>|
-
-|<i>This project was supported by the Singapore Memory Project's (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:</i> http://www.iremember.sg/indexphp/fund-intro/ |
-
 <div style="background-color: white;">
 <br>
 <img src="\images\vol-10-issue-4\nationofisland\Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0010201.jpg">
@@ -99,6 +94,10 @@ In the course of working on this project, we realised how interconnected the liv
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Island_Nation_Singapore_Bukom_G0020334.jpg)
 <div style="background-color: white;">An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.<i>All images by Captured.</i> </div>
+
+|<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> wvww.facebook.com/islandnationsg<i>.The website</i> www.islandnation.sg <i>will be launched in March 2015.</i>|
+
+|<i>This project was supported by the Singapore Memory Project's (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:</i> http://www.iremember.sg/indexphp/fund-intro/ |
 
 <p style="font-size:15px;>">Zakaria Zaina is an associate photographer for Captured, a creative agency based in Singapore that specialises in delivering visual-centric narratives.</p> 
 
