@@ -36,7 +36,7 @@ The bright colours on the map are not merely an element of graphic design. In ef
 Food outlets and good eats were already highlighted in <i>The Secret Map of Singapore</i> and thus the companion map, <i>The Secret Food Map of Singapore</i> naturally expanded on the research done previously. The second map was published around May 1987 and reportedly took 14 months to research and produce. The creators claimed to have visited as many as 10,000 outlets and eaten more than 1.000 meals in the course of researching <i>The Secret Food Map of Singapore</i>, from exotic Vietnamese and Thai eateries (well, exotic for the time) to humble hawker stalls selling comfort food such as <i>goreng pisang</i> (deep fried bananas).[^13] A similar colour coding system was adopted in this map with "red for Chinese food, green for Malay or Nonya food. black for other Asian food and blue for Western food".[^14]
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/Details_SBR.jpg)
-<div style="background-color: white;">Details of South Bridge Road in Chinatown as seen in <i>The Secret Map of Singapore, The Secret Map of Singapore. All right reserved. Mowe, Ropion, Hunt, 2014. </i></div>
+<div style="background-color: white;">Details of South Bridge Road in Chinatown as seen in <i>The Secret Map of Singapore. The Secret Map of Singapore. All right reserved. Mowe, Ropion, Hunt, 2014. </i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/Smith_Street.jpg)
 <div style="background-color: white;">A 1983 photograph of Smith Street, which is part of the Chinatown Conservation Area. <i> From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
