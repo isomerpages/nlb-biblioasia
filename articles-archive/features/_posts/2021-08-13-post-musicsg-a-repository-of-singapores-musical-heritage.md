@@ -44,6 +44,6 @@ The new MusicSG website was officially launched on 26 September 2014. Called “
 <img src="\images\vol-10-issue-4\music\steps.jpg">
 	</div>
 	
-**Joy Loh** is an Associate Librarian with the National Library of Singapore and is responsible for the new-look of MusicSG.
+<p style="font-size:15px;"><b>Joy Loh</b> is an Associate Librarian with the National Library of Singapore and is responsible for the new-look of MusicSG.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
