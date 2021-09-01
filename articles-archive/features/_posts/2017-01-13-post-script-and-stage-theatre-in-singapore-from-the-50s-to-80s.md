@@ -71,7 +71,7 @@ Programme booklet and handwritten draft of  <i>Mama Looking For Her Cat </i> by 
 Guests at the launch of “Script &amp; Stage: Theatre in Singapore from the 50s to 80s” on 27 October 2016.
 </div>
 
-
+![Alt text for image on Isomer site](/images/space1.png)
 
 | **ICONIC THEATRE ACROSS THE DECADES**|
 
