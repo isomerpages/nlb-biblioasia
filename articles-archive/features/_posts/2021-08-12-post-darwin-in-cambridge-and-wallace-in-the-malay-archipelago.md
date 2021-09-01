@@ -87,7 +87,7 @@ In fact, the paper's original sources and meanings were quite different, and far
 
 Nevertheless, it is absolutely clear that Wallace privately believed that species evolve. He was not searching for a solution to a problem or mystery. He most certainly was not searching for a “mechanism.” This is a modern idea. Wallace was interested in the topic of the gradual change of species over time. He was convinced it was a purely natural, and not a supernatural process, and he planned to write a book on the subject when he returned home. 
 
-In 1856, Wallace began to realise that in the west of the Malay Archipelago the species of animals were more Asian in type, while towards the east. the animal species were more Australian. Wallace would eventually divide the archipelago into two biological regions and the line between them, roughly between Bali and Lombok, was named after him – The Wallace line. 
+In 1856, Wallace began to realise that in the west of the Malay Archipelago the species of animals were more Asian in type, while towards the east, the animal species were more Australian. Wallace would eventually divide the archipelago into two biological regions and the line between them, roughly between Bali and Lombok, was named after him – The Wallace line. 
 
 ##### **Adaptation** 
 
