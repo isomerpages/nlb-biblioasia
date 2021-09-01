@@ -40,7 +40,7 @@ Suddenly in the face of precious information I had been unable to gather for hal
 
 #### **Piecing Together a Puzzle: Teo's Biography** 
 
-Trawling through NewspaperSG, the digital newspaper database of the National Library Board (NLB), Singapore, to locate articles that contain the name Teo Poh Leng. I was able to ascertain that Francis P. Ng was a pseudonym that Teo adopted for <i>F.M.S.R.</i>. No wonder I could not find anything under Francis p. Ng! While I was still in Germany, I contacted librarian Tim Yap Fuan at the National University of Singapore (NUS), who was able to locate and make available to me pertinent materials from the NUS Central Library. 
+Trawling through NewspaperSG, the digital newspaper database of the National Library Board (NLB), Singapore, to locate articles that contain the name Teo Poh Leng, I was able to ascertain that Francis P. Ng was a pseudonym that Teo adopted for <i>F.M.S.R.</i>. No wonder I could not find anything under Francis p. Ng! While I was still in Germany, I contacted librarian Tim Yap Fuan at the National University of Singapore (NUS), who was able to locate and make available to me pertinent materials from the NUS Central Library. 
 
 Now hopeful that more sources about Teo could exist in other Singapore institutions, I decided I had to make a trip here. Shortly after arriving in the city, I met up with Michelle Heng, a librarian at the National Library, who offered to do some “sleuth work” – running around the library and checking shelf after shelf in search of old sources. 
 
