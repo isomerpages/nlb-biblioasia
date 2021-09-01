@@ -6,15 +6,18 @@ layout: post
 ---
 #### The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days. **Francis Dorai and Jessie Yak** take a peek.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg)
-<div style="background-color: white;">Postcard view of the Raffles Hotel, c. 1900.<i> Courtesy of Professor Cheah Jin Seng and the Singapore Philatelic Museum.</i></div>
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg">
+Postcard view of the Raffles Hotel, c. 1900.<i> Courtesy of Professor Cheah Jin Seng and the Singapore Philatelic Museum.</i></div>
 
 The Raffles Hotel – which opened in 1887 with only 10 rooms – experienced its golden age during the first few decades of the 1900s. Immortalised in the writings of Joseph Conrad and Rudyard Kipling, the hotel soon became the lodgings of choice among wealthy travellers, celebrities and the literati, and even members of royalty.
 
 With two extensions added in 1890, the Palm Court Wing in 1894, the now familiar grand Main Building in 1899, and the Bras Basah Wing in 1904, no other hotel in Singapore could rival the Raffles for its luxurious rooms and dining options.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/facade.jpg)
-<div style="background-color: white;">Drawing of the façade of the Main Building. This most recognisable extension of the Raffles Hotel was completed in 1899. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/facade.jpg">
+Drawing of the façade of the Main Building. This most recognisable extension of the Raffles Hotel was completed in 1899. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
 The Raffles became a gathering place for the island’s rich and influential – the place to see and to be seen at – hosting lavish gala dinners for events like birthdays, race days, weddings, anniversaries, debutante balls, and even the coronations of European royal families.
 
@@ -22,8 +25,10 @@ One of the things the Raffles Hotel excelled at was throwing a good party. The d
 
 The opening of the Main Building at the turn of the 20th century properly entrenched the Raffles as the venue to host a fine party. The new marble-floored Dining Room “capable of seating 500”[^1] was where many indulgent dinners – supervised by two French chefs – would be served by white-gloved waiters.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/lavishlivingroom.jpg)
-<div style="background-color: white;">Scenes of the lavish Dining Room that was “capable of seating 500”. The spacious Dining Room on the ground floor of the new Main Building, which was declared opened in November 1899, was where many extravagant dinners and parties were held. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/lavishlivingroom.jpg">
+	Scenes of the lavish Dining Room that was “capable of seating 500”. The spacious Dining Room on the ground floor of the new Main Building, which was declared opened in November 1899, was where many extravagant dinners and parties were held. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
 Menu cards from this period, such as the one on 14 July 1917, featured gastronomic fare such as “Clear Turtle Soup, Baked Red Fish [in] Butter Sauce, Chicken en Aspic, Grilled Filet Steak &amp; Sugar Peas, Faisan Roti [roasted pheasant] a l’ Anglaise, Iced Asparagus [in] Mayonaise Sauce… [and] Wild Rose Ice Cream…”, among other delights. At the outdoor Palm Court, after-dinner music would be played by the Band of the K.O.R (King’s Own Regiment).
 
@@ -33,8 +38,8 @@ German author Hermann Hesse was clearly not amused by the noise emanating from s
 
 In the heady days before World War II, tickets for the legendary New Year’s Fancy Dress Ball would be booked out weeks in advance. The first such party was held on 1 January 1911 and was reported to be a resounding success by the press. The guest list was invariably European with the occasional moneyed Peranakan or Chinese making an appearance.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/party-time-with-raffles/raffles-dressup.png)
-<div style="background-color: white;">Revellers all dressed up at a New Year’s Fancy Dress Ball at the Raffles Hotel, c. 1930s. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/raffles-dressup.png">Revellers all dressed up at a New Year’s Fancy Dress Ball at the Raffles Hotel, c. 1930s. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
 <div style="background-color: white;">
 <br>
