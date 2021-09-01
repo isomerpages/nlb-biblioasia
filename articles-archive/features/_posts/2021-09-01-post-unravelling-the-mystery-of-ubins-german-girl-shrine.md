@@ -133,3 +133,11 @@ Punters seeking a fortune do not care if it is the spirit of a German girl or so
 As for myself, I first chanced upon the shrine in 2006 and continue to visit it frequently to this day. On a recent trip, I noticed a termite mound outside the wall directly behind the altar. Despite all the changes over the decades, perhaps the old *datuk* spirit still lingers around the place.
 
 |The author is grateful to Hikari D. Azyure and the Urban Explorers of Singapore; Derek Chee of Aik Hwa Pte Ltd; Ho Choon Hiong; and Professor Lee Chow-Yang, Endowed Presidential Chair in Urban Entomology, University of California Riverside, for their help with the essay, and to Ow Eng Tiong, Yap Sew Heng and Doris Loh for their assistance in the interviews and translations.|
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-17-issue-2/authors/Asrina-Tanuri.png" style="width: 100px; height: 100px;" />
+	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. Gibson’s book, <i>Alfred Raquez and the French Experience of the Far East, 1898–1906</i> (2021), a biography of journalist, Alfred Raquez, is published by Routledge as part of its Studies in the Modern History of Asia series.  His articles have appeared in <i>Signal to Noise</i>, PopMatters.com, <i>The Mekong Review</i>, <i>Archipel</i>, <i>History and Anthropology</i>, the <i>Bulletin de l’École française d’Extrême-Orient</i> and <i>BiblioAsia</i>, among others.
+</div>
+
