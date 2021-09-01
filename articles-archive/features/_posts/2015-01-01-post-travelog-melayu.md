@@ -156,7 +156,7 @@ Paling popular sudah tentu perjalanan setiap Muslim yang digalakkan sekurang-kur
 |(Chatetan ka-Tanah Suchi, hlm 67)|
 
 
-Travelog-Travelog sebegini merupakan catatan perjalanan ilmu dan sering menjadi petunjuk atau panduan kepada pencinta ilmu. Catatan-catatan ini membuka pandangan pembaca kepada keadaan dan persekitaran serta gambaran sosio budaya masyarakat setempat yang dilawati. Selain itu, terdapat juga perbandingan-perbandingan yang diujarkan dan kritikan-kritikan taiam yang menuntut pembaharuan atau saranan perubahan. 
+Travelog-Travelog sebegini merupakan catatan perjalanan ilmu dan sering menjadi petunjuk atau panduan kepada pencinta ilmu. Catatan-catatan ini membuka pandangan pembaca kepada keadaan dan persekitaran serta gambaran sosio budaya masyarakat setempat yang dilawati. Selain itu, terdapat juga perbandingan-perbandingan yang diujarkan dan kritikan-kritikan tajam yang menuntut pembaharuan atau saranan perubahan. 
 
 Akhir kata, travelog-travelog Melayu yang pernah diterbitkan ini merupakan bahan rujukan penting dalam memperkenalkan masyarakat kepada maklumat di sesuatu tempat asing. la merupakan dokumen utama yang merakam peradaban masyarakat di kala ia dikunjungi. Maka seperti genre-genre sastera yang lain, travelog Melayu juga mempunyai sumbangannya yang tersendiri. 
  
