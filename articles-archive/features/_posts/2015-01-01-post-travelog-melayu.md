@@ -4,7 +4,6 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/travelog-melayu
 layout: post
 ---
-
 Travelogues, particularly those from yesteryear, serve as important reference documents that capture a slice of history and culture. These writings serve as sources of information about different places, cultures and communities as encountered by writers at different points in time. This article focuses on some of the most popular Malay-language travelogues available in the National Library collection and highlights several well-known accounts from the 19th century to more recent times. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/books.jpg)
@@ -13,10 +12,10 @@ Travelogues, particularly those from yesteryear, serve as important reference do
 
 <i>"Bahwa ini peringatan sahaya berlayar dari negeri Singapura dalam kapal Syeikh ‘Abdul Karim yang bernama Subla’s-salam, yaitu kepada tarikh sanat 1270 tahun, kepada 29 hari bulan Jamadilawal, yaitu kepada tarikh Masehi 1854, yaitu setuju kepada sehari bulan Cina tahun baharu. </i>
 
-<i>Maka dengan tolong Allah dua hari ketiga sampailah ke laut Melaka, tetapi tiada singgah. Maka berlayarlah juga dengan angin utara. Maka diberi Allah tiga hari keempatnya sampailah ke Pulau Pinang, itupun tiadalah juga singgah, Lalu juga berlayar. Maka kepada hari Ahad tujuh hari bulan, pada malam pukul sembilan turunlah angin utara kencang terlalu; maka ombak dan gelombang terlalu besar. Maka kapal sebesar itu menjadi seperti kulit sabut di tengah laut, dihempaskan gelombang itu timbul tenggelam. Maka segala peti2 dan barang2 di kapal, yang di kiri datang ke kanan dan yang di kanan ke kiri, sehingga sampailah pada pagi. Maka ada pukul sebelas redahlah angin itu. Maka dilayarkanlah juga, maka sampailah kira2 pukul empat petang bertentangan Pulau Perak. Adapun pulau itu tiadalah sehelai rumput atau pohon2 melainkan batu sahaja bertimbun putih kelihatan dari jauh rupanya seperti perak. Maka sebab itulah dinamakan orang Pulau Perak.”</i>
+<i>Maka dengan tolong Allah dua hari ketiga sampailah ke laut Melaka, tetapi tiada singgah. Maka berlayarlah juga dengan angin utara. Maka diberi Allah tiga hari keempatnya sampailah ke Pulau Pinang, itupun tiadalah juga singgah, lalu juga berlayar. Maka kepada hari Ahad tujuh hari bulan, pada malam pukul sembilan turunlah angin utara kencang terlalu; maka ombak dan gelombang terlalu besar. Maka kapal sebesar itu menjadi seperti kulit sabut di tengah laut, dihempaskan gelombang itu timbul tenggelam. Maka segala peti2 dan barang2 di kapal, yang di kiri datang ke kanan dan yang di kanan ke kiri, sehingga sampailah pada pagi. Maka ada pukul sebelas redahlah angin itu. Maka dilayarkanlah juga, maka sampailah kira2 pukul empat petang bertentangan Pulau Perak. Adapun pulau itu tiadalah sehelai rumput atau pohon2 melainkan batu sahaja bertimbun putih kelihatan dari jauh rupanya seperti perak. Maka sebab itulah dinamakan orang Pulau Perak.”</i>
 
-<i>Karya lengkap Abdul Kadir Munsyi Jilid 1 
-Amin Sweeney 
+<i>Karya lengkap Abdul Kadir Munsyi Jilid 1<br>
+Amin Sweeney<br>
 Kisah pelayaran Abdullah bin Abdul Kadir 
 Munsyi dari Singapura sampai ke Mekah.</i>
 
