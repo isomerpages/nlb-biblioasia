@@ -70,9 +70,7 @@ Terdapat catatan kembara yang menarik ditulis dalam bentuk puisi syair, contohny
 	Kelasi berdayung tidak berhenti 
 	Tiba di kapal di kasi ordi. 
 
-Selain itu, terdapat juga catatan perjalanan yang seumpamanya, “Syair Perjalanan Sultan Lingga dan Yang Dipertuan 
-
-Muda Riau Pergi ke Singapura dan Peri Keindahan Istana Sultan Johor Yang Amat Elok”, yang dikarang oleh Hamba Allah yang aat <i>[sic]</i> fakir yaitu Khalid Hitam bin Raja Hasan al-Haji Riau dan tercetak di Mathaba’at al-Riauwiyah Pulau Penyengat pada tahun 1311 Hijrah atau 1891 Masihi. 
+Selain itu, terdapat juga catatan perjalanan yang seumpamanya, “Syair Perjalanan Sultan Lingga dan Yang Dipertuan Muda Riau Pergi ke Singapura dan Peri Keindahan Istana Sultan Johor Yang Amat Elok”, yang dikarang oleh Hamba Allah yang aat <i>[sic]</i> fakir yaitu Khalid Hitam bin Raja Hasan al-Haji Riau dan tercetak di Mathaba’at al-Riauwiyah Pulau Penyengat pada tahun 1311 Hijrah atau 1891 Masihi. 
 
 Sebagaimana tajuknya, syair ini menceritakan tentang perjalanan Sultan Lingga ke Singapura seperti digambarkan dalam bait-bait berikut: 
 
