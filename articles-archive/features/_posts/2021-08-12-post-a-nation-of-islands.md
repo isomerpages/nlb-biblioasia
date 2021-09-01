@@ -68,7 +68,7 @@ Mustari's story reveals a deep attachment to the islands, <i>“Dah biasa lah.�
 
 And he is not alone. Choo Huay Kim, 68, taught at St John's Island English School from 1966 to 1976 – one of the few schools that existed on the Southern Islands. Choo was also an islander – he was born (in 1946) and raised on Pulau Sekijang Bendera, before it became known as St John's Island. 
 
-"It was a well-known school, and some call it the Raffles Institution of the Southern Islands," he quips, adding that the primary school only had 100 to 120 students. Posted back to the island to teach, he was also the school's football coach and remembers how the team of 11 boys would squeeze into his modest Volkswagen to attend matches on the mainland. 
+"It was a well-known school, and some call it the Raffles Institution of the Southern Islands." he quips, adding that the primary school only had 100 to 120 students. Posted back to the island to teach, he was also the school's football coach and remembers how the team of 11 boys would squeeze into his modest Volkswagen to attend matches on the mainland. 
 
 “I felt for the boys because I was an island boy myself.” he says. Choo adds that they never had the things that children on the mainland enjoyed, such as proper facilities for competitive sports. 
 
@@ -76,7 +76,7 @@ The bond that the students shared with their teacher as well as their fondness f
 
 #### **Island Living** 
 
-For many, the excursion to the islands of St John's. Lazarus and Seringat on 9 November 2014 was like a taking a step back into time. The <i>gotong-royong</i> (community) spirit was truly alive that day as the former islanders prepared food that everyone could share. Funnily enough, despite the lack of coordination, no two dishes were the same! 
+For many, the excursion to the islands of St John's, Lazarus and Seringat on 9 November 2014 was like a taking a step back into time. The <i>gotong-royong</i> (community) spirit was truly alive that day as the former islanders prepared food that everyone could share. Funnily enough, despite the lack of coordination, no two dishes were the same! 
 
 A walking tour of the Islands became a chance for these folks to make new memories - posing for pictures with their former neighbours and taking photos with their smart phones of landmarks where they had lived or played - all the while reminiscing about old times. 
 
