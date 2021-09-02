@@ -66,4 +66,4 @@ Merger did not significantly change the provisions relating to the legislative a
 	
 #### **Finally – a Sovereign Republic of Singapore**
 
-<p style="right-align">“WHEREAS it is the inalienable right of a people to be free and independent”<p> – Proclamation of Singapore, 1965</p>
+<center>“WHEREAS it is the inalienable right of a people to be free and independent”</center><p align="right"> – Proclamation of Singapore, 1965</p>
