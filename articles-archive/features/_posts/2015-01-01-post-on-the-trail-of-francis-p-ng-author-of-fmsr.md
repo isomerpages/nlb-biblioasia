@@ -4,7 +4,6 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/on-the-trail
 layout: post
 ---
-
 #### In her effort to republish one of our unknown literary treasures, **Dr Eriko Ogihara-Schuck** tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
 
 In August 2014, I found myself in Singapore, the country where I came of age as a teenager. Twenty years had passed since I left Singapore to enter college in Japan and then higher degree studies in the United States and Germany. Initially, it felt as if nothing had changed since I left the city. The night sky was still the same over the East Coast, twinkling here and there with the strobe lights of airplanes heading towards Changi Airport. On terra firma, the songs and sounds of the National Day festivities quickly re-absorbed me into this country, exactly the same way they did when I first arrived as a 12-year-old girl in the summer of 1988.
@@ -134,11 +133,11 @@ With this news, my laborious and slightly futile one-year search suddenly took o
 <div style="background-color: white;">Teo Poh Leng listed as missing in <i>The Register of Graduates (1968)</i> belonging to the University of Malaya’s King Edward VII College of Medicine and Raffles College.</div>
 
 
-<i>If the name Teo Poh Leng is even remotely familiar to you, please contact the author of this article at eriko.ogiharaf@udo.edu </i>
+|<i>If the name Teo Poh Leng is even remotely familiar to you, please contact the author of this article at eriko.ogiharaf@udo.edu </i>|
 
-<i>The National Library Board, Singapore holds two copies of F.M.S.R. which are kept at the Lee Kong Chian Reference Library on level 11 of the National Library. A microfilm copy shelved at NL 16347 is available for reference. Note: only four other libraries in the world hold copies of this book. </i>
+|<i>The National Library Board, Singapore holds two copies of F.M.S.R. which are kept at the Lee Kong Chian Reference Library on level 11 of the National Library. A microfilm copy shelved at NL 16347 is available for reference. Note: only four other libraries in the world hold copies of this book. </i>|
 
-<i>The writer would like to thank Ruth Chia, Joe Conceicao, Robbie Goh, Philip Holden, Koh Tai Ann, Catherine Lim, Janet Lim, Juliana Lim, Lim Su Min, Ng Ching Huei, Rajeev S. Patke, Valerie Siew, Peggy Tan, Edwin Thumboo, Medona Walter, Wang Gungwu, Richard Angus Whitehead and Ina Zhang Xing Hong – for their inputs in this project, and Harold Johnson for assisting her through the research process. </i>
+|<i>The writer would like to thank Ruth Chia, Joe Conceicao, Robbie Goh, Philip Holden, Koh Tai Ann, Catherine Lim, Janet Lim, Juliana Lim, Lim Su Min, Ng Ching Huei, Rajeev S. Patke, Valerie Siew, Peggy Tan, Edwin Thumboo, Medona Walter, Wang Gungwu, Richard Angus Whitehead and Ina Zhang Xing Hong – for their inputs in this project, and Harold Johnson for assisting her through the research process. </i>|
 
 <p style="font-size:15px;"><b>Dr Eriko Ogihara-Schuck</b>, originally from Japan, is a lecturer in American Studies at the Technische Universität Dortmund, Germany. She is the author of <i>Miyazaki s Animism Abroad: The Reception of Japanese Religious Themes by American and German Audiences</i> (2014). Motivated by her research on Francis P. Ng, she is launching a larger project on Singapore-US relations in the area of literature and popular culture.</p>
 
