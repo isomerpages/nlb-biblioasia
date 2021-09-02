@@ -194,11 +194,12 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 [^23]: Chua Ee Kiam, Choo Mui Eng and Wong Tuan Wah, [*Footprints on an Island: Rediscovering Pulau Ubin*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202560351) (Singapore: Simply Green and National Parks Board, 2016), 55. (From National Library, Singapore, Call no. RSING 333.78095957 CHU)
 
 
-[^24]: 
+[^24]: Ban Lee Goh, “Spirit Cults and Construction Sites: Trans-Ethnic Popular Religion and Keramat Symbolism in Contemporary Malaysia,” in [*Engaging the Spirit World: Popular Beliefs and Practices in Modern Southeast Asia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14288993), ed. Kirsten W. Endres and Andrea Lauser (New York: Berghahn Books, 2011), 149. (From National Library, Singapore, Call no. RSEA133.90959 ENG)
 
-[^25]: 
+[^25]: Ng Koh Yee, “Recreational Land Use on Pulau Ubin” (bachelor’s thesis, National University of Singapore, 1998), https://scholarbank.nus.edu.sg/handle/10635/173038.
 
-[^26]: 
+
+[^26]: “开发宝贵的旅游资源” [“Develop Valuable Tourism Resources”], 联合早报 [*Lianhe Zaobao*](“开发宝贵的旅游资源” [“Develop Valuable Tourism Resources”], 联合早报 [Lianhe Zaobao], 19 November 1998, 8. (From NewspaperSG))], 19 November 1998, 8. (From NewspaperSG)
 
 [^27]: 
 
