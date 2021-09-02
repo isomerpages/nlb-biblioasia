@@ -22,21 +22,24 @@ The legal ideas in this nascent set of laws were based on English law, adapted t
 
 These provisional regulations were in force at least up to 18263 – the year Singapore became part of the Straits Settlements together with Malacca and Penang – and although they provided for a basic legal system applicable to all in the Singapore settlement, in practice most disputes for non-Europeans were handled by headmen who settled cases according to their community’s customs and social mores. Europeans came under the direct jurisdiction of the British Resident’s Court.
 
-<div style="background-color: white;"><div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/02-lawofland.jpg">In 1868, Sir Peter Maxwell Benson, the Recorder of Singapore, was appointed Chief Justice of the Straits Settlements in recognition of Singapore’s importance as the centre of government and commerce within the Straits Settlements. <i>Supreme Court Collection, courtesy of National Archives of Singapore.</i></div>
-	
-	Reception of English Law
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/02-lawofland.jpg">In 1868, Sir Peter Maxwell Benson, the Recorder of Singapore, was appointed Chief Justice of the Straits Settlements in recognition of Singapore’s importance as the centre of government and commerce within the Straits Settlements. <i>Supreme Court Collection, courtesy of National Archives of Singapore.</i></div>
+
+#### **Reception of English Law**
+
 English law was legitimately received into Singapore through a royal charter dated 27 November 1826. Known as the Second Charter of Justice, this charter was a letters patent, or public royal command, that bore the sovereign authority of the British Crown. The Second Charter established a Court of Judicature for the Straits Settlements – comprising the Prince of Wales’ Island (Penang), Malacca and Singapore – and introduced a formally authorised and unified legal system based on English common law to replace the previous system that relied on community headmen.
 
 The problem with the Second Charter was that there was only one Recorder (as judges were then known) who had to travel to all three territories. This issue was resolved when a Third Charter of Justice was proclaimed on 10 August 1855. It reaffirmed the reception of English law and provided for a second Recorder to be based in Singapore, in keeping with the increase in trade and population here.4
 
-The Crown Colony Constitution
+#### **The Crown Colony Constitution**
+
 A major constitutional milestone was reached in 1867 when the Straits Settlements was declared a British Crown Colony with a new constitution that granted the colony its first legislature. The Legislative Council was constitutionally delegated with “full power and authority” to establish local laws, ordinances, taxes and institutions as well as approve government appointments.
 
 In practice, however, the British Governor wielded control over most of the colony’s affairs: he initiated legislation, had the power to veto bills and also had the deciding vote when legislature was evenly divided – his considerable powers limited only by the British Colonial Office in London. Until the 1920s, the majority of the legislature members were nominated senior civil servants from the colony’s administration.
 
 The Crown Colony constitution also paved the way for crucial judicial reforms that initiated the separation of the Straits Settlement’s executive and judicial arms, which had overlapped since Raffles’ time. The Governor ceased to be a judge and the reforms gave new autonomy to the Courts in deciding matters of the law. The office of the Chief Justice also originated from these reforms: in 1868, the Recorder of Singapore, Peter Maxwell Benson, was appointed as the Chief Justice of the Straits Settlements in recognition of Singapore’s importance as the centre of government and commerce within the Straits Settlements.5
 
-From Colony to Self-Governing State
+#### **From Colony to Self-Governing State**
+
 When the British returned to Singapore after the Japanese Occupation (1942–45) ended, they dissolved the Straits Settlements on 1 April 1946 and made Singapore a standalone Crown Colony with its own constitution. The British also decided to gradually introduce democracy into Singapore to satisfy growing demands from the people for greater say in the government. In 1948, a new constitution came into effect, which for the first time, provided for six elected seats in the legislature. This introduced democratic elections in Singapore and the first Legislative Council election was held on 20 March 1948.6
 
 In April 1949, the British also permitted an election for members of the Municipal Commission (renamed the City Council in 1951), a government body in charge of municipal services such as sanitation, health, water and roads. The Commission became the first public institution to be installed with a popularly elected majority – 18 out of its 27 members were elected, taking local political participation another step towards self-governance. (The remaining nine commissioners were nominated and appointed by the British colonial government.)
@@ -45,13 +48,14 @@ The 1950s saw the rumblings of a political awakening in Singapore as well as maj
 
 The second major development took place in 1958 when Singapore attained self-government. The Singapore Constitution Order-in-Council 1958, which replaced the 1955 Rendel Constitution, was the culmination of intense efforts by local political leaders to agitate for political autonomy for Singapore. In 1956, Marshall led the First All-Party Mission (with representatives from the Democratic Party, Labour Front, People’s Action Party, Progressive Party and the Singapore Alliance) to London to negotiate for self-government. When the talks broke down, Marshall resigned and his successor, Lim Yew Hock, who led the second and third All-Party Missions to London in 1957 and 1958 respectively, was able to successfully achieve self-government for Singapore.
 
-<div style="background-color: white;"><div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/03-lawofland.jpg">Under the Singapore Constitution Order-in-Council 1958, the British Governor was replaced with a locally appointed Head of State or Yang di-Pertuan Negara. Yusof bin Ishak was sworn in as Singapore’s first Yang di-Pertuan Negara on 5 December 1959. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/03-lawofland.jpg">Under the Singapore Constitution Order-in-Council 1958, the British Governor was replaced with a locally appointed Head of State or Yang di-Pertuan Negara. Yusof bin Ishak was sworn in as Singapore’s first Yang di-Pertuan Negara on 5 December 1959. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 	
 The Constitution of 1958 outlined three key objectives: it provided for a fully-elected 51-seat Legislative Assembly; replaced the post of British Governor with a locally appointed Head of State (the Yang di-Pertuan Negara); and created the office of Prime Minister. The British, however, retained control over Singapore’s defence and foreign affairs, and had a large say in its internal security.7
 
 By this time the People’s Action Party (PAP) had risen to the political forefront. Following the victory of the PAP in the election held in May 1959, Lee Kuan Yew was sworn in as Singapore’s first Prime Minister on 5 June. In December that same year, Yusof bin Ishak became Singapore’s first local-born Head of State.
 
-Merger and Separation
+#### **Merger and Separation**
+	
 Singapore’s size and the lack of natural resources or hinterland had long underpinned the belief that it could not survive as an independent state. Merger with Malaya had been raised as early as 1955, first by David Marshall and then by Lim Yew Hock, but the Malayan Prime Minister Tunku Abdul Rahman was not receptive to the idea. The PAP government under Lee Kuan Yew sought merger with greater urgency. Apart from the fact that the PAP had promised a merger in the 1959 election, there were other reasons why securing a hinterland was so vital towards sustaining Singapore’s economy.
 
 However, Lee was similarly rebuffed as the Tunku was concerned with the rise of pro-communist radicalism in Singapore and the question of how Singapore’s large Chinese population would impact Malaya’s racial balance. But in May 1961, the Tunku acknowledged the possibility of merger when speaking to foreign correspondents who were holding a meeting in Singapore.
