@@ -103,13 +103,13 @@ These amendments highlight how Singapore’s Constitution has evolved and is lik
 
 #### **Notes**
 
-Tan, K. Y. L. (2015). Singapore chronicles: Constitution (pp. 110–111). Singapore: Institute of Policy Studies: Straits Times Press. Call no.: RSING 342.5957 TAN
-Tan, 2015, p. 7
-Straits Settlements Records, L17: Raffles – Letters to Singapore at National Archives of Singapore; Tan, K. Y. L. (2005). A short legal and constitutional history of Singapore (pp. 29–31). In K. Y. L. Tan. (Ed.), [Essays in Singapore legal history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12355843). Singapore: Marshall Cavendish Academic and the Singapore Academy of Law. Call no.: RSING 349.9597 ESS
-Chionh, M. (2005). The development of the court system (pp. 98–104). In Y. L. Tan. (Ed.), [Essays in Singapore legal history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12355843). Singapore: Marshall Cavendish Academic and the Singapore Academy of Law). Call no.: RSING 349.9597 ESS
-Turnbull, C. M. (1989). [A history of Singapore, 1819–1988](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825)  (pp. 76–83). Singapore: Oxford University Press. Call no.: RSING 959.57 TUR-[HIS]; Chionh, 2005, pp. 104–107.
-[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825), 1989, pp.216–234.
-Lee K. Y. (1998). [The Singapore story: Memoirs of Lee Kuan Yew](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9129591) (pp. 177–267). Singapore: Times Editions: Singapore Press Holdings. Call no.: RSING 959.57 LEE-[HIS]; Hickling, R. H. (1992). Origins of constitutional government (pp, 26–35). In R. H. Hickling. (Ed.), [Essays in Singapore law](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6335083). Petaling Jaya: Pelanduk Publications. Call no.: RSING 349.5957 HIC
-Kwa, C. G., Heng, D., & Tan, T. Y. (2009).[Singapore, a 700-year history: From early emporium to world city](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984) (pp. 157–174). Singapore: National Archives of Singapore. Call no.: RSING 959.5703 KWA-[HIS]; [Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825), 1989, pp.251–285.
-[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9129591), 1998, pp. 540–663; [Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825), 1989, pp. 251–285.
-[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12355843), 2005, pp. 48–54.
+[^1]:Tan, K. Y. L. (2015). Singapore chronicles: Constitution (pp. 110–111). Singapore: Institute of Policy Studies: Straits Times Press. Call no.: RSING 342.5957 TAN
+[^2]:Tan, 2015, p. 7
+[^3]:Straits Settlements Records, L17: Raffles – Letters to Singapore at National Archives of Singapore; Tan, K. Y. L. (2005). A short legal and constitutional history of Singapore (pp. 29–31). In K. Y. L. Tan. (Ed.), [Essays in Singapore legal history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12355843). Singapore: Marshall Cavendish Academic and the Singapore Academy of Law. Call no.: RSING 349.9597 ESS
+[^4]:Chionh, M. (2005). The development of the court system (pp. 98–104). In Y. L. Tan. (Ed.), [Essays in Singapore legal history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12355843). Singapore: Marshall Cavendish Academic and the Singapore Academy of Law). Call no.: RSING 349.9597 ESS
+[^5]:Turnbull, C. M. (1989). [A history of Singapore, 1819–1988](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825)  (pp. 76–83). Singapore: Oxford University Press. Call no.: RSING 959.57 TUR-[HIS]; Chionh, 2005, pp. 104–107.
+[^6]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825), 1989, pp.216–234.
+[^7]:Lee K. Y. (1998). [The Singapore story: Memoirs of Lee Kuan Yew](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9129591) (pp. 177–267). Singapore: Times Editions: Singapore Press Holdings. Call no.: RSING 959.57 LEE-[HIS]; Hickling, R. H. (1992). Origins of constitutional government (pp, 26–35). In R. H. Hickling. (Ed.), [Essays in Singapore law](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6335083). Petaling Jaya: Pelanduk Publications. Call no.: RSING 349.5957 HIC
+[^8]:Kwa, C. G., Heng, D., & Tan, T. Y. (2009).[Singapore, a 700-year history: From early emporium to world city](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984) (pp. 157–174). Singapore: National Archives of Singapore. Call no.: RSING 959.5703 KWA-[HIS]; [Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825), 1989, pp.251–285.
+[^9]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9129591), 1998, pp. 540–663; [Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825), 1989, pp. 251–285.
+[^10]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12355843), 2005, pp. 48–54.
