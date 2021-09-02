@@ -99,6 +99,8 @@ These amendments highlight how Singapore’s Constitution has evolved and is lik
 	<b>Kevin Khoo </b> is an Archivist at the National Archives of Singapore. His current responsibilities include archival research and content development.
 </div>
 
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+
 #### **Notes**
 
 Tan, K. Y. L. (2015). Singapore chronicles: Constitution (pp. 110–111). Singapore: Institute of Policy Studies: Straits Times Press. Call no.: RSING 342.5957 TAN
