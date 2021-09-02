@@ -22,9 +22,7 @@ In curating “Life Stories” we were inspired by the perseverance, humility an
 
 <i>The Singapore Memory Project – an initiative by the National Library Board – is a nationwide movement that was started in 2011 to collect, preserve and provide public access to memories and stories relating to Singapore.</i>
 
-#### **Helena Mahesan** <br>
-**Age 70** <br>
-**Assistant Director of Nursing at KK Women and Children’s Hospital**
+#### **Helena Mahesan**<br>**Age 70** <br>**Assistant Director of Nursing at KK Women and Children’s Hospital**
 
 When I was five, I was with my father at home one day. Suddenly, he fell over saying that he needed water and he was in pain. I ran to the kitchen, took a glass of water, and tried to feed him. Of course it spilled all over because he was collapsing. So I ran out to fetch my mother. She was nine months pregnant then, but she ran home, and we took my father to the hospital. Eventually, he died. 
 
