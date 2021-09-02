@@ -63,7 +63,7 @@ A selection of Raffles Hotel menu cards from the 1930s. From left, sumptuous off
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/breakfastmenu02.png">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/breakfastmenu02.jpg">
 In comparison, the breakfast menu offerings some 30 years earlier on 9 August 1903 were decidedly more spartan.</div>
 
 <div style="background-color: white;">
