@@ -43,7 +43,7 @@ In the heady days before World War II, tickets for the legendary New Year’s Fa
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/postcard2.jpg">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/postcard01.png">
 (Left) Postcard of Raffles Hotel from the 1950s.<i> Courtesy of the Raffles Hotel and National Museum of Singapore, National Heritage Board.</i></div>
 <div style="background-color: white;">(Right) The English writer Rudyard Kipling (1865–1936) was so taken with the dining options at the Raffles Hotel after a trip to Singapore in 1889 that he moved to write, “Feed at the Raffles Hotel and sleep at the Hotel de l’Europe” (the latter was the other notable lodgings at the time). What Kipling didn’t know was that by 1900, the Raffles would overshadow the Hotel de l’Europe on all counts, including its rooms. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
