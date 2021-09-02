@@ -4,6 +4,10 @@ permalink: /oct-2021/ubinsgermangirlshrine
 ---
 #### What is the truth behind the German girl shrine on Pulau Ubin? **William L. Gibson** investigates the history of Pulau Ubin to uncover the origin of the tale.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Cover.jpg)
+<div style="background-color: white;">As part of the renovation to the German girl shrine in 2015, a new statue of the German girl now rests beside the urn on the altar. She holds a sprig of coffee berries in her hand. The Barbie doll is enclosed in a plastic case. Note the mirrors and cosmetics left as offerings. Photos taken in 2021. <i>Courtesy of William L. Gibson.</i></div>
+
+
 The German girl shrine, located on the southern coast of Pulau Ubin, has captured the popular imagination in a way that few other shrines in Singapore have. Apart from news stories, the shrine is the subject of documentaries, a play and a telemovie based on that play. It has even inspired a six-minute piece written for a Chinese orchestra. 
 
 According to local folklore, the shrine memorialises a German girl who is believed to have died on the island. At the outbreak of World War I, the girl was supposedly living with her parents on a coffee plantation on Ubin. When British soldiers came to capture her family, she bolted, only to stumble off a cliff to her death. After the war, her parents returned to look for their missing daughter, but due to communication difficulties, were unable to find any trace of her. Over time, a simple shrine was built at her gravesite and her spirit is worshipped to this day.
@@ -60,6 +64,9 @@ Often, the sites where these *datuk* spirits reside are worshipped by Malays as 
 
 The German girl shrine, too, once stood near a quarrying operation. According to Chia, the shrine was originally located on Ong Lye Sua, once a 190-foot-high (57.9 m) granite hill that has since been completely removed. It is now the deep pond of Ketam Quarry.[^12]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/KetamQuarry.jpg)
+<div style="background-color: white;">The Ketam Quarry pond on Pulau Ubin, 2021. This was formerly Ong Lye Sua, the 190-foot-high (57.9 m) granite hill that has since been completely removed. <i>Courtesy of William L. Gibson.</i></div>
+
 In another account by Ahmad bin Kassim, who has lived on the island since the early 1940s, the grave belonged to an Indian Muslim craftsman from Johor who travelled to Ubin to work at the quarry. He died there and was buried on the granite hill – a story that lacks as much historical evidence as the German girl tale (for the record, Pak Ahmad had been told that the German girl fell off a cliff into the sea and had no grave).[^13]
 
 In an email to the author in March 2021, Pak Ahmad said that the *keramat* was a mound of dirt shaped like a *mayat*, a corpse. He was told the mound was once covered by a copper sheet and had *batu nisan*, or grave markers, but these had since been stolen. What was left was *kelambu kuning*, a yellow netting traditionally used to denote graves as *makam*, or sacred. Pak Ahmad also recalled that there were 99 steps to reach it, a significant number in Islamic architecture as there are 99 holy names for Allah.
@@ -79,7 +86,16 @@ In 1990, Chia told the *Lianhe Wanbao* newspaper that when plantation workers fo
 
 In another version of the story related by Ong Siew Fong, another long-term resident on the island and caretaker of the Wei Tuo Fa Gong Temple, the girl did not fall to her death but hid in a cave or outcrop at the top of the hill. When the villagers went to look for her, they discovered that “termites had made a tomb for her” and decided not to disturb the mound, a point that Chia also made in a 2003 interview.[^20] (Termites are known as white ants in Chinese.)
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Termite.jpg)
+<div style="background-color: white;">“Termites made a tomb for her”: a termite mound that looks like a recumbent figure in East Coast Park, 2021. <i>Courtesy of William L. Gibson.</i></div>
+
+
 In this region, it is not uncommon for termite mounds to become the site of *datuk keramat*, with devotees worshipping the spirit in the mound after having good luck with lottery numbers. It is believed that the mounds of red and black ants bring bad luck, while those with white ants, or termites, bring good luck. These colours also correspond to the *datuk* spirits who reside in the mounds.[^21] 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Chow%20Yang%20Lee%202redux.jpg)
+<div style="background-color: white;">A termite mound being worshipped in Penang, 2021. In this region, it is not uncommon for termite mounds to become the site of <i>datuk keramat</i>, with devotees worshipping the spirit in the mound after having good luck with lottery numbers. <i>Courtesy of Lee Chow-Yang.</i></div>
+
+
 
 This last point offers a possible origin for the German girl in the termite mound on the hill. The white *datuk* spirit of this shrine, gendered female due to the shape of the mound, became a “white” girl, her backstory embellished as a means of explaining how she came to rest in the ground on Ubin. 
 
@@ -121,6 +137,8 @@ Not long after, it was reported that an unnamed Ubin islander had a strange drea
 This “haunted Barbie” of Pulau Ubin proved digital catnip to journalists, bloggers and ghost chasers. Following the cut-and-paste logic of online content creation, very few bothered to do much fact checking; through sheer repetition, the story recounted by the long-dead Uncle Foon Da to Chia in the 1930s had become the official version of the German girl tale. 
 
 The Sinicisation of the original *datuk keramat* would soon be cemented in the structure itself. In 2015, a down-on-his-luck Singaporean businessman travelled to the Goh Hong Cheng Sern Temple in Batu Pahat, Johor, where monks told him to build a shrine for the deity on Ubin.[^32]  The wooden shrine was demolished and a slightly larger brick structure with granite cladding, a tiled roof and ceramic bamboo window bars was erected in its place. 
+
+<div style="background-color: white;">After an extensive renovation in 2015, the 12-square-metre German girl shrine on Pulau Ubin is today a slightly larger brick structure with granite cladding, a tiled roof and ceramic bamboo window bars, 2021. <i>Courtesy of William L. Gibson.</i></div>
 
 A wooden sign above the entrance to the shrine has the words *Berlin Heiligtum* engraved on it, meaning “Berlin Sanctuary” in German, beneath the date 1896, a year mistaken for the commencement of World War I. A three-foot-tall (around 90 cm) statue of the German girl now sits on the altar beside the urn and the Barbie doll, a beatific smile on her face and a sprig of coffee berries grasped in her hand.
 
