@@ -1,4 +1,5 @@
 collections:
   oct-2021:
     output: true
-    order: []
+    order:
+      - unravelling-the-mystery-of-ubins-german-girl-shrine.md
