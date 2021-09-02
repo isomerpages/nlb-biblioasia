@@ -16,7 +16,7 @@ I had come back to Singapore to trace the footsteps of Francis P. Ng, a forgotte
 <div style="background-color: white;">An “S” Class Express engine of the Federated Malay States Railways (FMSR), which was a rail operator that serviced British Malaya in the first half of the 20th century. The poem <i>F.M.S.R.</i> (published in 1937) describes a train journey from Singapore to Kuala Lumpur. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i></div>
 
 
-#### **T.S.Eliot and The Singapore Connection** 
+#### **T.S. Eliot and The Singapore Connection** 
 
 <i>F.M.S.R. </i> first came to my attention when I was preparing for a conference presentation on the poet T.S. Eliot (1888–1965), who was born in the United States and emigrated to Britain in 1914 at age 25. Eliot is well known for his modernist masterpiece <i>The Waste Land</i> (1922). Beginning with the unconventional phrase. “April is the cruellest month”, the poem caused a sensation in the world of Western poetry by introducing new styles of writing and perception. After teaching Eliot in an undergraduate American Studies course in Germany for many years, I wanted to make a scholarly contribution to the study of this poet by exploring the extent of his literary influence in Asia. 
 
@@ -34,7 +34,7 @@ As <i>F.M.S.R.</i> is an "orphan work" – meaning the copyright holder who is a
 Then came my Eureka moment. As I started reading the peripheral information added to the poem. I noticed a footnote to Section VII of <i>F.M.S.R.</i>, which stated that the section was published as an independent poem titled "The Song of the Night Express" in the 1937 spring issue of <i>Life and Letters To-day</i>, a British literary magazine.[^7] Curious to know if Section VII and "The Song" were identical. I decided to seek out "The Song". 
 
 
-The data bore out. In <i>Life and Letters To-day</i> was Section VII of <i>F.M.S.R.</i>, re-titled as “The Song of the Night Express”, which starts with “For he chánts of the whéels/ Of the whéels revolving, revolving". But also stumbled upon an unexpected surprise. The poem was attributed not to “Francis P. Ng” but to “Teo Poh Leng”.[^8] There was also a short biographical note about Teo, introducing him as having been born in 1912, serving as a primary school master in Singapore and having written poems that won the approval of British poet Silvia Townsend Warner and Cornish poet Ronald Bottrall.[^9]
+The data bore out. In <i>Life and Letters To-day</i> was Section VII of <i>F.M.S.R.</i>, re-titled as “The Song of the Night Express”, which starts with “For he chánts of the whéels/ Of the whéels revolving, revolving". But I also stumbled upon an unexpected surprise. The poem was attributed not to “Francis P. Ng” but to “Teo Poh Leng”.[^8] There was also a short biographical note about Teo, introducing him as having been born in 1912, serving as a primary school master in Singapore and having written poems that won the approval of British poet Silvia Townsend Warner and Cornish poet Ronald Bottrall.[^9]
 
 Suddenly in the face of precious information I had been unable to gather for half a year, a shiver of excitement pulsed through me. Who exactly was Teo Poh Leng? Why did he publish under a different name? Why did he publish his poem in the United Kingdom? With these questions swirling in my head, I spent countless hours at my desk, trawling the Internet for more details as well as reaching out to various Singaporeans with many inquiries. 
 
@@ -44,7 +44,7 @@ Trawling through NewspaperSG, the digital newspaper database of the National Lib
 
 Now hopeful that more sources about Teo could exist in other Singapore institutions, I decided I had to make a trip here. Shortly after arriving in the city, I met up with Michelle Heng, a librarian at the National Library, who offered to do some “sleuth work” – running around the library and checking shelf after shelf in search of old sources. 
 
-Based on various fragmented sources I have been able to gather, thanks to these librarians and various Singapore official records, this is What I have pieced together on the life of Teo Poh Leng. 
+Based on various fragmented sources I have been able to gather, thanks to these librarians and various Singapore official records, this is what I have pieced together on the life of Teo Poh Leng. 
 
 If the biographical note in <i>Life and Letters To-day</i> correctly affirms Teo’s birth year as 1912, then he was quite possibly born outside of Singapore. The Immigration &amp; Checkpoints Authority of Singapore conducted a search for a birth certificate based on “Teo Poh Leng”, his pseudonym “Francis P. Ng” and his postal address of “700 Serangoon Road” – but no record was found. Neither could the Catholic Chancery archives of Singapore find a baptism record, although in his 20s Teo had been a member of the Catholic Young Men's Association.[^10] Perhaps he was born in today's Malaysia; after all in <i>F.M.S.R.</i> the traveller describes his journey to Kuala Lumpur, the Malaysian capital, as "coming home". [^11]
 
