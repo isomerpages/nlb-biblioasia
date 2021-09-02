@@ -43,11 +43,12 @@ Although archives are generally associated with the antiquated, the AFA’s coll
 
 With the advent of the digital age, archivists are scrambling to care for their analogue systems, digitising and migrating analogue materials while keeping up with technological advances in order to preserve new digital material. Apart from the practical concerns of know-how and time, there is the very real issue of funding to support on-going digital preservation. The estimated cost (in 2007) of preserving film archival master material per title annually was US$1,059 while the digital preservation of the same material was estimated at US$12,514.[^11] Factor in inflation and the growing numbers of digital films produced every year, and the figure becomes mind-boggling. 
 
-The exponentially burgeoning budgets required for digital preservation bring to fore several important issues – acquisition, access and advocacy. Archives can no longer make do with an ad hoc policy to “acquire everything, just in case”. The AFA has in place a carefully articulated selection policy that is tied to access issues. An archivist has to look backwards and forwards in time, acquiring filmic material and assessing if someone in the future may find the material significant and useful.[^12] The AFA will likely not acquire a film if the filmmaker stipulates that it is not meant for public access, unless the reasons for the restricted access are acceptable - for example, a film cannot be released until after its film festival premiere or a film cannot be viewed due to the deteriorating condition of the sole surviving film copy until an access copy has been made. 
+The exponentially burgeoning budgets required for digital preservation bring to fore several important issues – acquisition, access and advocacy. Archives can no longer make do with an ad hoc policy to “acquire everything, just in case”. The AFA has in place a carefully articulated selection policy that is tied to access issues. An archivist has to look backwards and forwards in time, acquiring filmic material and assessing if someone in the future may find the material significant and useful.[^12] The AFA will likely not acquire a film if the filmmaker stipulates that it is not meant for public access, unless the reasons for the restricted access are acceptable – for example, a film cannot be released until after its film festival premiere or a film cannot be viewed due to the deteriorating condition of the sole surviving film copy until an access copy has been made. 
 
 As Sam Kula, former director of the National Film, Television and Sound division of the National Archives of Canada, has stated so articulately, “In archives, the only thing that really matters is the quality of the collections; all the rest is housekeeping.”[^13]
 
-#### **ABOUT THE AFA** 
+#### **About The AFA** 
+
 The Asian Film Archive (AFA) is a charity that preserves Asia's rich film heritage in a permanent collection focusing on culturally important works by independent Asian filmmakers. It promotes a wider critical appreciation of Asia's cinematic works through organised community programmes, including screenings and talks. 
 
 AFA’s holdings include films of award-winning Filipino filmmakers such as Lino Brocka, Mike de Leon, Lav Diaz, and Malaysian filmmakers Amir Muhammad, U-Wei Haji Saari and Tan Chui Mui, among others. The Archive is also home to a collection of Cathay-Keris Malay Classics from the 1950s to 1970s that are part of the UNESCO Memory of The World Asia-Pacific Register, a list of endangered library and archive holdings. 
@@ -74,20 +75,20 @@ Shortly after, in 2007, the AFA became the first Singapore-based organisation to
 
 The AFA has come a long way from when it started 10 years ago by the visionary Tan Bee Thiam. Having built a reputation and gained traction with the regional film community, AFA’s mission statement - “To Save, Explore, and Share the Art of Asian Cinema” - will continue to guide its future work and direction. The editors of <i>Film Curatorship: Archives, Museums and the Digital Marketplace</i> succinctly define film curatorship as “the art of interpreting the aesthetics, history, and technology of cinema through the selective collection, preservation, and documentation of films and their exhibition in archival presentations.”[^18] On this occasion of the AFA’s 10th anniversary, this quote eloquently encapsulates what the words “Save, Explore and Share” in AFA’s mission statement hopes to achieve.
 
-#### **THE 19TH SEAPAVAA CONFERENCE** 
+#### **The 19th Seapavaa Conference** 
 
 Hosted by the AFA and supported by the National Library Board, Singapore, the 19th South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) Conference and General Assembly will take place from 22 to 28 April 2015. The week-long event at the National Library Building will feature a two-day symposium with concurrent sessions, institutional visits, Restoration Asia II (an event focusing on the restoration of films in Asia or about Asia), workshops, and an excursion. A total of 48 papers will be presented during the conference on topics such as archival advocacy, archival repatriation, professional development, repurposing of archives, technical, organisational and professional sustainability, and archives at risk. For more information, visit www. seapavaaconference.com. The theme for the 2015 SEAPAVAA conference is <i>Advocate. Connect. Engage.</i> This theme resonates closely with the thrust of AFA’s programmes and the three objectives contained in its mission statement - “To Save, Explore, and Share the Art of Asian Cinema”.
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/logo_w_title.jpg)
 <div style="background-color: white;"></div>
 
-#### **DIGITAL FILM RESTORATION** 
+#### **Digital Film Restoration** 
 Digital film restoration is a highly specialised and laborious process. It involves the complex use of technological software and equipment that are designed to ingest huge amounts of data. The simplified workflow diagram below gives an idea of the three main parts of digital film restoration - repair and cleaning; restoration and preservation; and access output.
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/process.jpg)
 <div style="background-color: white;"></div>
 
-#### **THE GENESIS OF THE ASIAN FILM ARCHIVE** 
+#### **The Genesis of The Asian Film Archive** 
 
 The Asian Film Archive (AFA) was the brainchild of Tan Bee Thiam, its founder and former executive director. After graduating from the National University of Singapore (NUS) in 2004, Tan embarked on a two-month backpacking trip that took him to New Delhi, India. Unbeknownst to him at the time, this visit would sow the seeds for the beginnings of the first Singapore-based film archive. Tan had always been a film enthusiast; as a student he served as the president of the NUS film society, nuSTUDIOS, and was himself an emerging filmmaker. In New Delhi, Tan attended the Osian’s-Cinefan: 6th Festival of Asian Cinema, where he was exposed to key filmmakers from around Asia.
 
@@ -122,7 +123,7 @@ The AFA has since grown from strength to strength, expanding its collection, eng
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/SKP_0517.jpg)
 <div style="background-color: white;">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i></div>
 	
-**Karen Chan** is Executive Director of the Asian Film Archive (AFA). Besides overseeing the growth, preservation and curation of the AFA’s collection, she teaches film literacy and preservation courses to educators, students and filmmakers. Karen also serves on the Executive Council of the South East Asia-Pacific Audiovisual Archive Association.
+<p style="font-size:15px;"><b>Karen Chan</b> is Executive Director of the Asian Film Archive (AFA). Besides overseeing the growth, preservation and curation of the AFA’s collection, she teaches film literacy and preservation courses to educators, students and filmmakers. Karen also serves on the Executive Council of the South East Asia-Pacific Audiovisual Archive Association.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
 
