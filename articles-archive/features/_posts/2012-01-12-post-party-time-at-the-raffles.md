@@ -63,12 +63,12 @@ A selection of Raffles Hotel menu cards from the 1930s. From left, sumptuous off
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/breakfastmenu02.png">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/breakfastmenu03.png">
 In comparison, the breakfast menu offerings some 30 years earlier on 9 August 1903 were decidedly more spartan.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/menu-royals02.png">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/menu-royals03.png">
 In comparison, the breakfast menu offerings some 30 years earlier on 9 August 1903 were decidedly more spartan.</div>
 
 <div style="background-color: white;">
@@ -86,7 +86,7 @@ Festive menu covers from Christmas and New Year’s Eve dinners in 1932, and Chr
 The Royal Society of St George was founded in 1894 with the aim of promoting “Englishness” and the English way of life in countries wherever the British had settled. The Singapore branch was founded in 1925. Sir Lawrence Guillemard, then Governor of the Straits Settlements, became a patron and life member of the society. Pictured here is the celebratory menu and programme for the society’s “England Day” menu on 6 May 1937.</div>
 
 <div style="background-color: white;">
-	<br><img src="/images/Vol-12-issue-4/party-time-with-raffles/jubileedinner01.jpg">The menu card of the Jubilee Dinner held on 6 May 1935 to celebrate the 25th anniversary of the coronation of King George V and Queen Mary. Whoever crafted this menu to spell out the words “Jubilee Dinner” must have really struggled to come up with the appropriate dishes. The letter “U” for “Unless you prefer turtle soup with golden sherry” is rather lame and one wonders what inventive dessert dish called “Raffles” the chef had concocted for the letter “R”!</div><br>
+	<br><img src="/images/Vol-12-issue-4/party-time-with-raffles/jubileedinner02.png">The menu card of the Jubilee Dinner held on 6 May 1935 to celebrate the 25th anniversary of the coronation of King George V and Queen Mary. Whoever crafted this menu to spell out the words “Jubilee Dinner” must have really struggled to come up with the appropriate dishes. The letter “U” for “Unless you prefer turtle soup with golden sherry” is rather lame and one wonders what inventive dessert dish called “Raffles” the chef had concocted for the letter “R”!</div><br>
 
 | **THE RARE MATERIALS COLLECTION**|
 
