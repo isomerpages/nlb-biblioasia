@@ -66,7 +66,7 @@ Merger did not significantly change the provisions relating to the legislative a
 	
 #### **Finally – a Sovereign Republic of Singapore**
 
-<center>“WHEREAS it is the inalienable right of a people to be free and independent”</center><p align="right"> – Proclamation of Singapore, 1965</p>
+<center>“WHEREAS it is the inalienable right of <br>a people to be free and independent”</center><p align="right"> – Proclamation of Singapore, 1965</p>
 
 On 9 August 1965, Singapore was proclaimed an independent and sovereign republic. The Proclamation of Singapore was drafted by Edmund W. Barker, the first Minister for Law, and signed by Prime Minister Lee Kuan Yew. It outlined the new country’s aspirations, declaring Singapore to be forever a “sovereign, democratic and independent nation founded on the principles of liberty and justice, and ever seeking the welfare and happiness of her people in a more just and equal society”.
 
