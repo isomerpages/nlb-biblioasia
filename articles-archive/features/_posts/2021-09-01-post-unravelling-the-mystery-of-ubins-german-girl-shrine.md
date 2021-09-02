@@ -199,7 +199,7 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 [^25]: Ng Koh Yee, “Recreational Land Use on Pulau Ubin” (bachelor’s thesis, National University of Singapore, 1998), https://scholarbank.nus.edu.sg/handle/10635/173038.
 
 
-[^26]: “开发宝贵的旅游资源” [“Develop Valuable Tourism Resources”], 联合早报 [*Lianhe Zaobao*](“开发宝贵的旅游资源” [“Develop Valuable Tourism Resources”], 联合早报 [Lianhe Zaobao], 19 November 1998, 8. (From NewspaperSG))], 19 November 1998, 8. (From NewspaperSG)
+[^26]: “开发宝贵的旅游资源” [“Develop Valuable Tourism Resources”], 联合早报 [*[Lianhe Zaobao](“开发宝贵的旅游资源” [“Develop Valuable Tourism Resources”], 联合早报 [Lianhe Zaobao], 19 November 1998, 8. (From NewspaperSG))*], 19 November 1998, 8. (From NewspaperSG)
 
 [^27]: 
 
