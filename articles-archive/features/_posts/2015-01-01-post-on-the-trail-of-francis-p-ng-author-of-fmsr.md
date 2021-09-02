@@ -130,7 +130,7 @@ With this news, my laborious and slightly futile one-year search suddenly took o
 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/TeoinRegister_re.jpg)
-<div style="background-color: white;">Teo Poh Leng listed as missing in <i>The Register of Graduates (1968)</i> belonging to the University of Malaya’s King Edward VII College of Medicine and Raffles College.</div>
+<div style="background-color: white; padding-bottom:10px;">Teo Poh Leng listed as missing in <i>The Register of Graduates (1968)</i> belonging to the University of Malaya’s King Edward VII College of Medicine and Raffles College.</div>
 
 
 |<i>If the name Teo Poh Leng is even remotely familiar to you, please contact the author of this article at eriko.ogiharaf@udo.edu </i>|
