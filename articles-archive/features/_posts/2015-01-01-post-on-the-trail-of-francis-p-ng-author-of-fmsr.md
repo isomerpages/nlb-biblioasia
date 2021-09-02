@@ -38,6 +38,9 @@ The data bore out. In <i>Life and Letters To-day</i> was Section VII of <i>F.M.S
 
 Suddenly in the face of precious information I had been unable to gather for half a year, a shiver of excitement pulsed through me. Who exactly was Teo Poh Leng? Why did he publish under a different name? Why did he publish his poem in the United Kingdom? With these questions swirling in my head, I spent countless hours at my desk, trawling the Internet for more details as well as reaching out to various Singaporeans with many inquiries. 
 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/The_Waste_Land_re.jpg)
+<div style="background-color: white;">A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i> has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace &amp; Co. All rights reserved, 1997. </i> </div>
+
 #### **Piecing Together a Puzzle: Teo's Biography** 
 
 Trawling through NewspaperSG, the digital newspaper database of the National Library Board (NLB), Singapore, to locate articles that contain the name Teo Poh Leng, I was able to ascertain that Francis P. Ng was a pseudonym that Teo adopted for <i>F.M.S.R.</i>. No wonder I could not find anything under Francis P. Ng! While I was still in Germany, I contacted librarian Tim Yap Fuan at the National University of Singapore (NUS), who was able to locate and make available to me pertinent materials from the NUS Central Library. 
@@ -62,8 +65,14 @@ During his final year at Raffles College, as the editor of <i>Raffles College Un
 
 It is highly likely that, upon graduation from Raffles College in 1934, Teo became a school teacher. No record of his school employment has been found but the <i>Blue Book</i> notes that he was a civil servant from 1934 to 1939.[^21] <i>Chorus</i>, the journal of the Singapore Teachers' Association, affirms that, in 1938, Teo served on the subcommittee of the magazine together with Percival Frank Aroozoo (1900–1969), the former headmaster of Gan Eng Seng School and father of Mrs Hedwig Anuar (1938–), the first Singaporean director of the National Library of Singapore.[^22] Although publication of the <i>Blue Book</i> ceased in 1940 and hence provides no record of Teo's status after 1939, it would be fair to speculate that he was a teacher at least until 1941. In the 1941 issue of <i>Chorus</i> I chanced upon Teo’s poem "The Spider". [^23]
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/The_Waste_Land_re.jpg)
-<div style="background-color: white;">A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i> has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace &amp; Co. All rights reserved, 1997. </i> </div>
+![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/Raffles_College_Magazine.jpg)
+<div style="background-color: white;"><i>Raffles College Magazine</i>, the publication of Raffles College, of which Teo Poh Leng was the editor in 1933. Teo also contributed articles to this magazine. <i>Raffles College Union Magazine (1993, Trinity Term). (Vol. 4, No. 8), p. 1 Courtesy of NUS Central Library. </i></div>
+
+![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/rafflesCollege_re.jpg)
+<div style="background-color: white;">Oei Tiong Ham Hall at Rattles College, Bukit Timah Road, in 1938. Teo Poh Leng was a student at Raffles College from 1931 to 1934, where he trained to be a teacher. <i>Courtesy of National Archives of Singapore. </i></div>
+
+![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/TeoRCPhoto1934.jpg)
+<div style="background-color: white;">A faded graduation photograph of the Raffles College batch of students in 1934. One of the students in this photo is Teo Poh Leng, but he remains unidentified as the author of this article has not been able track down anyone who can recognise him. Paul Abisheganaden is the eighth from the right in the middle row. <i>Raffles College Union Magazine (1934 July). (Vol. 4, No. 10), insert between pp. 42 and 42. Courtesy of NUS Central Library. </i> </div>
 
 #### **Teo's Vision For Malayan Modernism** 
 
@@ -89,18 +98,6 @@ Teo’s devotion to this modernist literary enterprise from the British colonial
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/railway_station_re.jpg)
 <div style="background-color: white;">Tanjong Pagar Railway Station on Keppel Road in 1932. This is where trains from Malaysia arrived and departed from Singapore. <i>Paul Yap Collection, courtesy of National Archives of Singapore. </i></div>
-
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/Raffles_College_Magazine.jpg)
-<div style="background-color: white;"><i>Raffles College Magazine</i>, the publication of Raffles College, of which Teo Poh Leng was the editor in 1933. Teo also contributed articles to this magazine. <i>Raffles College Union Magazine (1993, Trinity Term). (Vol. 4, No. 8), p. 1 Courtesy of NUS Central Library. </i></div>
-
-
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/rafflesCollege_re.jpg)
-<div style="background-color: white;">Oei Tiong Ham Hall at Rattles College, Bukit Timah Road, in 1938. Teo Poh Leng was a student at Raffles College from 1931 to 1934, where he trained to be a teacher. <i>Courtesy of National Archives of Singapore. </i></div>
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/TeoRCPhoto1934.jpg)
-<div style="background-color: white;">A faded graduation photograph of the Raffles College batch of students in 1934. One of the students in this photo is Teo Poh Leng, but he remains unidentified as the author of this article has not been able track down anyone who can recognise him. Paul Abisheganaden is the eighth from the right in the middle row. <i>Raffles College Union Magazine (1934 July). (Vol. 4, No. 10), insert between pp. 42 and 42. Courtesy of NUS Central Library. </i> </div>
 
 
 #### **Disappearance During The Japanese Occupation** 
