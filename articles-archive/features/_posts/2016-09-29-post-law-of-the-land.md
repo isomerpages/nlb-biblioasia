@@ -93,6 +93,12 @@ These amendments highlight how Singapore’s Constitution has evolved and is lik
 
 |<a href="/images/Vol-12-issue-3/law-of-the-land/10a-lawofland.jpg"><img src="/images/Vol-12-issue-3/law-of-the-land/10-lawofland.jpg"></a>The Proclamation of Singapore is a landmark document that publicly declared Singapore’s separation from Malaysia and its beginnings as an independent and sovereign republic. The Proclamation was first read via a Radio Singapura broadcast at 10 am on 9 August 1965 by radio anchor Steven Lee. As recalled later by Lee Kuan Yew in his memoirs, he was simply too busy with the many things that had to be done in quick succession after the separation to personally read the Proclamation on radio. <i>Courtesy of National Archives of Singapore.</i>|
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/law-of-the-land/kevin.png">
+	<b>Kevin Khoo </b> is an Archivist at the National Archives of Singapore. His current responsibilities include archival research and content development.
+</div>
+
 #### **Notes**
 
 Tan, K. Y. L. (2015). Singapore chronicles: Constitution (pp. 110–111). Singapore: Institute of Policy Studies: Straits Times Press. Call no.: RSING 342.5957 TAN
