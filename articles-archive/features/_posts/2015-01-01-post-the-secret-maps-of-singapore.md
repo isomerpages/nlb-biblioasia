@@ -49,8 +49,8 @@ Food outlets and good eats were already highlighted in <i>The Secret Map of Sing
 
 Prior to this, articles about food and places of interest in the newspapers may have had accompanying maps[^15] that oftentime seemed like an afterthought, but there was nothing that showcased local cuisine and traditional crafts in the cartographic manner that these map-guides achieved. Tourist maps of the time usually featured the usual sights and icons, whereas these maps revealed hidden places, including tips on where to sit on benches and "study exceptional style old houses" (answer: "at [the] corner of Lorong 19 and Lorong Bachok” in Geylang) or oddities like where to purchase " Chinese musical instruments, opera costumes and weapons, and Japanese martial art" (answer: on Merchant Road). Even details such as the telephone number of a master <i>gasing</i> (spinning top) maker or where to buy mosquito nets were studiously included in the map. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/secretmap_re.jpg)
-<div style="background-color: white;"><i>The Secret Map of Singapore</i> was released on 1986. <i>The Secret Map of Singapore. All right reserved. Mowe, Ropion, Hunt, 2014. </i>. </div>
+![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/combined_sm.jpg)
+<div style="background-color: white;"><i>The Secret Map of Singapore</i> (left) and <i>The Secret Food Map of Singapore</i> (right) were released in 1986 and 1987 respectively. <i>The Secret Map of Singapore. All rights reserved. Mowe, Ropion, Hunt, 2014. The Secret Food Map of Singapore. All rights reserved, Ropion, Hunt, 2014. </i>. </div>
 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/elderly.jpg)
@@ -71,8 +71,6 @@ For the historian, the maps pinpoint the locations of traditional but now barely
 
 <i>The Secret Food Map</i> was soon followed by <i>The Secret Map of Sydney</i>, which was released in October 1987.[^16] <i>The Secret Map of Singapore</i> was reprinted in 1990, with research updates by Andrew Blaisdell and Adeline Ropion.[^17] Even so, changes to Singapore's landscape were so swift that although only three years had lapsed, the reprinted map was revised with 88 highlights instead of the 93 shown in the original.[^18]
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/secrete_food_map_re.jpg)
-<div style="background-color: white;"><i>The Secret Food Map of Singapore was produced in 1987. The Secret Food Map of Singapore. All rights reserved, Ropion, Hunt, 2014. </i> </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/thesecretmap/Sultan_Mosque.jpg)
 <div style="background-color: white;">1980s photograph of the Sultan Mosque located at 3 Muscat Street. <i>GP Reichelt Collection, courtesy of National Archives of Singapore.</i></div>
