@@ -5,7 +5,6 @@ date: 2021-01-01T00:00:00.000Z
 breadcrumb: Love Is a Many-Layered Thing
 third_nav_title: Love Is a Many-Layered Thing
 ---
-
 <style>
 table { 
 	background-color: #d6dae9;
