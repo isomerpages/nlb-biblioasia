@@ -47,19 +47,6 @@ The exponentially burgeoning budgets required for digital preservation bring to 
 
 As Sam Kula, former director of the National Film, Television and Sound division of the National Archives of Canada, has stated so articulately, “In archives, the only thing that really matters is the quality of the collections; all the rest is housekeeping.”[^13]
 
-#### **About The AFA** 
-
-The Asian Film Archive (AFA) is a charity that preserves Asia's rich film heritage in a permanent collection focusing on culturally important works by independent Asian filmmakers. It promotes a wider critical appreciation of Asia's cinematic works through organised community programmes, including screenings and talks. 
-
-AFA’s holdings include films of award-winning Filipino filmmakers such as Lino Brocka, Mike de Leon, Lav Diaz, and Malaysian filmmakers Amir Muhammad, U-Wei Haji Saari and Tan Chui Mui, among others. The Archive is also home to a collection of Cathay-Keris Malay Classics from the 1950s to 1970s that are part of the UNESCO Memory of The World Asia-Pacific Register, a list of endangered library and archive holdings. 
-
-The AFA’s collection is available for public reference at the library@ esplanade and through the AFA Channel on viddsee.com, an online portal that showcases the best of short films from Southeast Asia. 
-
-The AFA became a subsidiary of the National Library Board in January 2014.
-
-
-![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/afa.jpg)
-<div style="background-color: white;">10th anniversary logo of the Asian Film Archive</div>
 
 #### **The Importance of Archiving** 
 
@@ -74,6 +61,20 @@ Part of AFA’s advocacy efforts is to create greater awareness of its work in t
 Shortly after, in 2007, the AFA became the first Singapore-based organisation to become an affiliate of the International Federation of Film Archives (FIAF). Being a member of these associations has helped AFA to develop relationships between archivists and the wider film communities, allowing for an exchange of information, experiences and networking opportunities. Annual conferences have provided further avenues for the AFA to share its work as well as learn from the many professionals who attend these conferences. 
 
 The AFA has come a long way from when it started 10 years ago by the visionary Tan Bee Thiam. Having built a reputation and gained traction with the regional film community, AFA’s mission statement - “To Save, Explore, and Share the Art of Asian Cinema” - will continue to guide its future work and direction. The editors of <i>Film Curatorship: Archives, Museums and the Digital Marketplace</i> succinctly define film curatorship as “the art of interpreting the aesthetics, history, and technology of cinema through the selective collection, preservation, and documentation of films and their exhibition in archival presentations.”[^18] On this occasion of the AFA’s 10th anniversary, this quote eloquently encapsulates what the words “Save, Explore and Share” in AFA’s mission statement hopes to achieve.
+
+|**About The AFA**|
+
+|The Asian Film Archive (AFA) is a charity that preserves Asia's rich film heritage in a permanent collection focusing on culturally important works by independent Asian filmmakers. It promotes a wider critical appreciation of Asia's cinematic works through organised community programmes, including screenings and talks.|
+
+|AFA’s holdings include films of award-winning Filipino filmmakers such as Lino Brocka, Mike de Leon, Lav Diaz, and Malaysian filmmakers Amir Muhammad, U-Wei Haji Saari and Tan Chui Mui, among others. The Archive is also home to a collection of Cathay-Keris Malay Classics from the 1950s to 1970s that are part of the UNESCO Memory of The World Asia-Pacific Register, a list of endangered library and archive holdings.|
+
+|The AFA’s collection is available for public reference at the library@ esplanade and through the AFA Channel on viddsee.com, an online portal that showcases the best of short films from Southeast Asia.|
+
+|The AFA became a subsidiary of the National Library Board in January 2014.|
+
+
+|![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/afa.jpg)
+<div style="background-color: white;">10th anniversary logo of the Asian Film Archive</div>|
 
 #### **The 19th Seapavaa Conference** 
 
