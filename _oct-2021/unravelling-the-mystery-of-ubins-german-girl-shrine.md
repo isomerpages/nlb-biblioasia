@@ -206,13 +206,14 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 [^29]: Jonathan Lim, [*Between Gods and Ghosts*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12563057) (Singapore: Cavendish International, 2005). (From National Library, Singapore, Call no. RSING 133.1095957 LIM)
 
-[^30]: 
+[^30]: Neil Humphreys, [*Final Notes from a Great Island: A Farewell Tour of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12744133) (Singapore: Marshall Cavendish, 2006), 201–202. (From National Library, Singapore, Call no. RSING 959.57 HUM)
 
-[^31]: 
+[^31]: “[乌敏岛姑娘庙竟拜芭比娃娃](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20070618-1.2.14.1)” [“Ubin Girl Temple Actually Worships Barbie Dolls”], 联合晚报 [*Lianhe Wanbao*], 18 June 2007, 8. (From NewspaperSG)
 
-[^32]: 
+[^32]: Anonymous informant, interview, Pulau Ubin, 5 April 2021.
 
-[^33]:
 
-[^34]: 
+[^33]: Emily Koh, “Fräulein Datuk 拿督姑娘 (2018)”, accessed 4 August 2021,  https://emilykoh.net/fraulein-datuk-拿督姑娘-2018/.
+
+[^34]: “The German Girl Shrine,” *History Mysteries* S1, Ep 3, 2021, MeWatch, accessed 4 August 2021, https://www.mewatch.sg/watch/History-Mysteries-E3-The-German-Girl-Shrine-207218.
 
