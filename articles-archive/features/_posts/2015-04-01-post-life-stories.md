@@ -44,9 +44,7 @@ Even up to today, if there is a patient with cancer, adult or child, because of 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/lifestories/nurse.jpg)
 <div style="background-color: white;">A video still of Helena Maheson. Hers is one of the narratives that will be featured in the form of a video clip</div>
 
-#### **Teo Khai Seng** 
-**Age 56** <br>
-**Owns a fish farm in Lim Chu Kang (His ninth farm so far)** 
+#### **Teo Khai Seng** <br>**Age 56** <br>**Owns a fish farm in Lim Chu Kang (His ninth farm so far)** 
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/lifestories/DSC06219_Zhang_Kai_She_Vinson_Phua.jpg)
 <div style="background-color: white;">Portraits of Teo Khai Seng, who now owns nine fish farms. <i>Courtesy of Vinson Phua.</i></div>
@@ -72,9 +70,7 @@ I have been through a lot of difficulties in life, especially challenges in fish
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/lifestories/DSC06219_Zhang_Kai_She_Vinson_Phua1.jpg)
 <div style="background-color: white;"></div>
 
-#### **Chew Chiang Tong** 
-**Age 80** <br>
-**Retired crane operator** 
+#### **Chew Chiang Tong**<br>**Age 80** <br>**Retired crane operator** 
 
 My mother passed away when I was seven. At the time, my father was running a coffee shop, and my third sister was helping him. 
 
