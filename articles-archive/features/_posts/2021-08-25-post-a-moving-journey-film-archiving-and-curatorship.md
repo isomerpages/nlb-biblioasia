@@ -114,8 +114,9 @@ The AFA has come a long way from when it started 10 years ago by the visionary T
 
 |Pitt and NAS’ then deputy director of the Audiovisual Archives Unit, Irene Lim, were extremely supportive of the idea of the AFA. It was a project that was aligned with NAS’ own heritage preservation mission. Things quickly fell into place: a referendum of understanding was drafted and NAS became an archiving partner. This partnership was essential because AFA finally had access to proper archival storage facilities and could function as a film archive.| 
 
-|In January 2005, the AFA decided to establish itself as an independent non-profit public company with limited guarantee. The AFA made a call for contributions and more than 200 film titles were collected within the first half of 2005. The AFA steadily garnered support from local and regional filmmakers and received positive press coverage. In March 2005, a working committee was formed to prepare for an Asian film symposium as well as to produce Singapore’s first DVD anthology of Singaporean short films – the <i>Asian Film Archive Collection: Singapore Shorts Vol. 1.</i>
-The AFA has since grown from strength to strength, expanding its collection, engaging and educating the public and preserving Asia’s film heritage for future generations.|
+|In January 2005, the AFA decided to establish itself as an independent non-profit public company with limited guarantee. The AFA made a call for contributions and more than 200 film titles were collected within the first half of 2005. The AFA steadily garnered support from local and regional filmmakers and received positive press coverage. In March 2005, a working committee was formed to prepare for an Asian film symposium as well as to produce Singapore’s first DVD anthology of Singaporean short films – the <i>Asian Film Archive Collection: Singapore Shorts Vol. 1.</i>|
+
+|The AFA has since grown from strength to strength, expanding its collection, engaging and educating the public and preserving Asia’s film heritage for future generations.|
 
 |<i>**Thong Kay Wee** is the Outreach Officer of the Asian Film Archive (AFA). One part publicist and one part curator, he is responsible for devising strategies to propagate the archive’s mission and film collection. In his free time, he considers himself an independent moving image artist.</i>|
 
