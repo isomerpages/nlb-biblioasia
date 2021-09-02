@@ -42,7 +42,7 @@ I love roasted duck! It has always been my favourite dish.
 **How did you come to make a film featuring Lion Studios?**<br>
 Lion Studios at 115B Commonwealth Drive is one of the last recording studios specialising in analogue recordings. During the 1980s and 90s, stars such as Mark Chan and Tracy Huang recorded at this studio, and in 1997 the soundtrack of Glen Goei's film <i>Forever Fever</i> was cut here too. It also happens to be the “birthplace” of national songs such as <i>We Are Singapore, Stand Up for Singapore and Count On Me Singapore …</i> and that’s what my story focuses on. I initially submitted my entry for the Singapore Memory Project film festival as a documentary but I encountered some issues with copyrights. So I decided to change my storyline to focus on my memories of home. 
 
-In a nutshell, <i>The Studio aka The Songs That Sang Her</i>, is about a woman who circles the globe only to find herself back in the same spot - home. It’s a metaphorical journey of finding one’s roots while being far from home. 
+In a nutshell, <i>The Studio aka The Songs That Sang Her</i>, is about a woman who circles the globe only to find herself back in the same spot – home. It’s a metaphorical journey of finding one’s roots while being far from home. 
 
 **Did you feel homesick when you were away?**<br>
 I was living and working in Sweden when one day I caught myself singing <i>Stand Up for Singapore</i> in the bathroom. It took me by complete surprise because I never sang it outside of National Day parades or the classroom context! I realised just how much I was missing home when I heard myself singing that song … it was quite a revelation for me.
