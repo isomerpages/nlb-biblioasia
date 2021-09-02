@@ -116,6 +116,6 @@ I don't play the violin at all. I can get by playing the guitar if the audience 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/SMP_BA2_01.jpg)
 <div style="background-color: white;"></div>
 
-**Michelle Heng** is a Librarian with the National Library of Singapore. She compiled and edited Singapore Words Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems as well as Selected Poems of Goh Poh Seng.
+<p style="font-size:15px;"><b>Michelle Heng</b> is a Librarian with the National Library of Singapore. She compiled and edited Singapore Words Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems as well as Selected Poems of Goh Poh Seng.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
