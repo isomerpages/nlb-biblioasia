@@ -39,7 +39,7 @@ German author Hermann Hesse was clearly not amused by the noise emanating from s
 In the heady days before World War II, tickets for the legendary New Year’s Fancy Dress Ball would be booked out weeks in advance. The first such party was held on 1 January 1911 and was reported to be a resounding success by the press. The guest list was invariably European with the occasional moneyed Peranakan or Chinese making an appearance.
 
 <div style="background-color: white;"><br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/raffles-dressup.png">Revellers all dressed up at a New Year’s Fancy Dress Ball at the Raffles Hotel, c. 1930s. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/raffles-dressup01.jpg">Revellers all dressed up at a New Year’s Fancy Dress Ball at the Raffles Hotel, c. 1930s. <i>All rights reserved. Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet.</i></div>
 
 <div style="background-color: white;">
 <br>
