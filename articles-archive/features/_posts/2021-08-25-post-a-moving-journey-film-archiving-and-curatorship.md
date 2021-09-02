@@ -132,19 +132,19 @@ The AFA has since grown from strength to strength, expanding its collection, eng
 
 #### **REFERENCES**
 
-Academy of Motion Picture Arts and Sciences. Science and Technology Council. (2007). <i>Digital dilemma: Strategic issues in archiving and accessing digital motion picture materials.</i> Beverly Hills, Calif.: Academy of Motion Picture Arts and Sciences. (Not available in NLB holdings)
+Academy of Motion Picture Arts and Sciences. Science and Technology Council. (2007). <i>Digital dilemma: Strategic issues in archiving and accessing digital motion picture materials.</i> Beverly Hills, Calif.: Academy of Motion Picture Arts and Sciences. (Not available in NLB holdings).
 
 Asian Film Archive &amp; National Archives of Singapore. (2005). <i>AFA signs first MOU with the National Archives of Singapore</i>. Retrieved from Asianfilm archive website.
 
-Cherchi Usai, P. (2001). *[The death of cinema: History, cultural memory and the digital dark age](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10218607)*. London: British Film Institue. (Call no.: 778.58 CHE)
+Cherchi Usai, P. (2001). *[The death of cinema: History, cultural memory and the digital dark age](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10218607)*. London: British Film Institue. (Call no.: 778.58 CHE).
 
-Cherchi Usai, P. et al. (Eds.). (2008). *[Film curatorship: Archives, museums and the marketplace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)* (p. 170). Österreichisches Filmmuseum: lSYNEMA--Gesellschaft für Film und Medien. (Call no.: 025.1773 FIL)
+Cherchi Usai, P. et al. (Eds.). (2008). *[Film curatorship: Archives, museums and the marketplace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)* (p. 170). Österreichisches Filmmuseum: lSYNEMA--Gesellschaft für Film und Medien. (Call no.: 025.1773 FIL).
 
-Edmonson, R. (2004). <i>Audiovisual archiving: Philosophy and principle</i>. Paris: Unesco. (Not available in NLB holdings)
+Edmonson, R. (2004). <i>Audiovisual archiving: Philosophy and principle</i>. Paris: Unesco. (Not available in NLB holdings).
 
-Jones, J. (2012). <i>The past is a moving picture: Preserving the twentieth century on film</i> (p. 9). Florida: University Press of Florida. (Not available in NLB holdings)
+Jones, J. (2012). <i>The past is a moving picture: Preserving the twentieth century on film</i> (p. 9). Florida: University Press of Florida. (Not available in NLB holdings).
 
-Kula, S. (2002). *[Appraising moving images: Assessing the archival and monetary value of film and video records](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11729063)*. Lanham: Scarecrow Press. (Call no.: R 025.1773 KUL)
+Kula, S. (2002). *[Appraising moving images: Assessing the archival and monetary value of film and video records](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11729063)*. Lanham: Scarecrow Press. (Call no.: R 025.1773 KUL).
 
 Kwok, Y. (2005, January 21). *[Archive alive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050121-1.2.133.13)*. <i>The Straits Times</i>, p. 15. Retrieved from NewspaperSG. 
 
@@ -168,26 +168,26 @@ Tan, J. (2005, January 25). *[Film buffs to the rescue](http://eresources.nlb.go
 
 [^6]: Nocon, C. R. (2011, October 27). Finally, a national film archive. <i>Philippine Daily Inquirer</i>. Retrieved from INQUIRER.net website. 
 
-[^7]: Del Mundo, C.A. (2009). <i>Dreaming of a national audio-visual archive</i> (p. 4). Manila: Society of Film Archivists (SOFIA). (Not available in NLB holdings)
+[^7]: Del Mundo, C.A. (2009). <i>Dreaming of a national audio-visual archive</i> (p. 4). Manila: Society of Film Archivists (SOFIA). (Not available in NLB holdings).
 
 [^8]: Santiago, D.H. (2010). Interviewed for <i>Saving face: Issues in film preservation and archiving</i> Santiago, M.
 
-[^9]: Jones, J. (2012). <i>The past is a moving picture: Preserving the twentieth century on film</i> (p. 9). Florida: University Press of Florida. (Not available in NLB holdings)
+[^9]: Jones, J. (2012). <i>The past is a moving picture: Preserving the twentieth century on film</i> (p. 9). Florida: University Press of Florida. (Not available in NLB holdings).
 
 [^10]: AFA’s collection guidelines and FAW section can be found on the AFA website.
 
 [^11]: Jones, 2012, p. 126.
 
-[^12]: Academy of Motion Picture Arts and Sciences. Science and Technology Council. (2007). <i>Digital dilemma: Strategic issues in archiving and accessing digital motion picture materials</i> (p. 2). Beverly Hills, Calif.: Academy of Motion Picture Arts and Sciences. (Not available in NLB holdings)
+[^12]: Academy of Motion Picture Arts and Sciences. Science and Technology Council. (2007). <i>Digital dilemma: Strategic issues in archiving and accessing digital motion picture materials</i> (p. 2). Beverly Hills, Calif.: Academy of Motion Picture Arts and Sciences. (Not available in NLB holdings).
 
 [^13]: Jones, 2012, p. 126.
 
-[^14]: Kula, S. (2002). *[Appraising moving images: Assessing the archival and monetary value of film and video records](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11729063)*. Lanham: Scarecrow Press. (Call no.: R 025.1773 KUL)
+[^14]: Kula, S. (2002). *[Appraising moving images: Assessing the archival and monetary value of film and video records](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11729063)*. Lanham: Scarecrow Press. (Call no.: R 025.1773 KUL).
 
 [^15]: Details on the campaign can be seen on the Asian film archive website.
 
 [^16]: Publicity coverage in <i>The Straits Times</i> on the UNESCO inscription; Information about the UNESCO Memory of the World Programme can be found at Unesco mowcap org website.
 
-[^17]: Cherchi Usai, P. et al. (Eds.). (2008). *[Film curatorship: Archives, museums and the marketplace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)* (p. 170). Österreichisches Filmmuseum: ISYNEMA--Gesellschaft für Film und Medien. (Call no.: 025.1773 FIL)
+[^17]: Cherchi Usai, P. et al. (Eds.). (2008). *[Film curatorship: Archives, museums and the marketplace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)* (p. 170). Österreichisches Filmmuseum: ISYNEMA--Gesellschaft für Film und Medien. (Call no.: 025.1773 FIL).
 
 [^18]: *[Cherchi Usai](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)*, 2008, p. 231.
