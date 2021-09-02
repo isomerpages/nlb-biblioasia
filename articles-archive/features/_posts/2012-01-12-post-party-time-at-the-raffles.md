@@ -68,7 +68,7 @@ In comparison, the breakfast menu offerings some 30 years earlier on 9 August 19
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-12-issue-4/party-time-with-raffles/menu-royals.jpg">
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/menu-royals01.png">
 In comparison, the breakfast menu offerings some 30 years earlier on 9 August 1903 were decidedly more spartan.</div>
 
 <div style="background-color: white;">
