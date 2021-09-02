@@ -135,7 +135,7 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-17-issue-2/authors/Asrina-Tanuri.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-3/authors/William%20Gibson%20.png" style="width: 100px; height: 100px;" />
 	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. Gibson’s book, <i>Alfred Raquez and the French Experience of the Far East, 1898–1906</i> (2021), a biography of journalist, Alfred Raquez, is published by Routledge as part of its Studies in the Modern History of Asia series.  His articles have appeared in <i>Signal to Noise</i>, PopMatters.com, <i>The Mekong Review</i>, <i>Archipel</i>, <i>History and Anthropology</i>, the <i>Bulletin de l’École française d’Extrême-Orient</i> and <i>BiblioAsia</i>, among others.
 </div>
 
