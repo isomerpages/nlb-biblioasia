@@ -166,45 +166,47 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 [^10]: Saadon Ismail, “[Cerita Puteri Jawa di ‘Bukit Puaka’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19851027-1.2.30.1).”
 
-[^11]: 
+[^11]: Susan Tsang, [*Discover Singapore: The City’s History & Culture Redefined*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885312) (Singapore: Marshall Cavendish, 2007), 106. (From National Library, Singapore, Call no. RSING 959.57 TSA)
 
-[^12]:  
+[^12]:  This hill is sometimes called Kopi Sua (Coffee Hill). Kopi Sua was in fact located to the north, near Batu Kekek. See Seow Soon Hee, et al., eds., [*Ubin Our Heart and Soul*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203893147) (Singapore: Our Heart and Soul Commemorative Publication Editorial Committee, 2019), 30. (From National Library, Singapore, Call no. RSING 959.57 PUL)
 
-[^13]:  
+[^13]:  Ahmad bin Kassim, email to author, 29 March 2021.
 
-[^14]: 
+[^14]: Kenny Fong, [*Spooky Tales: True Cases of Paranormal Investigation in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12949191) (Singapore: Marshall Cavendish Editions, 2008), 50. (From National Library, Singapore, Call no. RSING 133.1095957 FON)
 
-[^15]: Spykerman, K. (2012, January 15). [My big fat void deck wedding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120115-1.2.54.1.1). *The Straits Times*, p. 2; Shahida Sarhid. (2012, September 30). [Kambing barbeku, susyi antara hidangan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20120930-1.2.13.1). *Berita Harian*, p. 6. Retrieved from NewspaperSG. 
+[^15]: Madam Tan, interview, Pulau Ubin, 5 April 2021.
 
-[^16]: Nur ‘Adilah Mahbob. (2013, May 24). [Taman jadi laman popular majlis kahwin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20130524-1.2.7.3.12). *Berita Harian*, p. 14; Salma Semono. (2007, July 28). [Sajian untuk jemputan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20070728-1.2.53.47). *Berita Harian*, p. 27. Retrieved from NewspaperSG; Norhaiza Hashim & Shahida Sarhid. (2019, October 6). Khidmat semua di ‘bawah satu bumbung’ kian jadi pilihan mempelai. *Berita Minggu*. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^16]: Ah Teck, interview, Pulau Ubin, 5 April, 2021.
 
-[^17]: Azman Siraj. (1990, October 24). [Khidmat DJ kian popular dalam majlis perkahwinan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19901024-1.2.27.2.8). *Berita Harian*, p. 6; Ismail Pantek. (2010, June 14). [Semua ‘turun padang’ rewang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20100614-1.2.19.3.2). *Berita Harian*, p. 9; Kamali Hudi. (2002, August 17). [Lagu pengantin citra warisan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20020817-1.2.34.2). *Berita Harian*, p. 22. Retrieved from NewspaperSG; [Hadijah Rahmat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, p. 244.
+[^17]: “[奇庙](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19900714-1.2.6.1.1)” [“Strangely Wondrous Temple”].
 
-[^18]: [Hadijah Rahmat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, p. 241; Muhammad Ariff Ahmad. (1988, April 7). [The grand finale in the Malay wedding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^18]: Burris, “The White Girl of Pulau Ubin.”
 
-[^19]: *Silat pengantin* is a ceremonial Malay martial arts performance to honour and give strength to the groom and to welcome the newlyweds. Compared to *pencak silat* (Malay martial arts), *silat pengantin* uses gentler hand movements, which are still executed in firm and strong strokes to convey respect and honour to the newlyweds. The *silat pengantin* is performed in rhythm with accompanying music from the *kompang* troupe. The performance ends with a handshake between the groom and the *silat* performer. See Pendekar Temasek. (2019). *[Silat pengantin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203939195)* (pp. 24–40). Singapore: Pustaka Nasional Pte Ltd. (Call no.: Malay RSING 796.81509595 PEN); *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6; Koh, J., & Ho, S. (2009). *[Culture and customs of Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13221966)* (p. 119). Santa Barbara, California: Greenwood Press. (Call no.: YP R305.80095957 KOH)
+[^19]: Manisha Nayak, “A Powerful, Mysterious Singaporean Shrine Dedicated to a German Girl Who Died in WW1,” 
+23 February 2017, https://buzz.viddsee.com/how-did-german-diety-singapore-shirne.
 
-[^20]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6; Muhammad Ariff Ahmad. (1993). *[Bicara tentang adat dan tradisi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070)* (pp. 44–46). Singapore: Pustaka Nasional. (Call no.: Malay RSING 306.08999205957 MUH)
+[^20]: Ong Siew Fong, interview, Pulau Ubin, 5 April 2021; “[90年前住在乌敏岛洋姑娘变拿督神](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin20031226-1.2.17.1)” [“90 Years Ago a Foreign Girl Living on Ubin became a Datuk God”].
 
-[^21]: [Muhammad Ariff Ahmad,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522) 2007, p. 282.
+[^21]: Cheu Hock Tong, “The Sinicization of Malay Keramats in Malaysia,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 71, no. 2 (275) (1988): 45–47. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website). See also Lee Chow-Yang, “The Worship of Termite Mounds,” *Isoptera Newsletter* 9, no. 2 (1999): 3, http://www.chowyang.com/uploads/2/4/3/5/24359966/isoptera_newsletter_9_page_3_1999.pdf.
 
-[^22]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 282; [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, pp. 45–46; *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6.
+[^22]: Ong Siew Fong, interview.
 
-[^23]: [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, pp. 45–46; [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, p. 107.
+[^23]: Chua Ee Kiam, Choo Mui Eng and Wong Tuan Wah, [*Footprints on an Island: Rediscovering Pulau Ubin*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202560351) (Singapore: Simply Green and National Parks Board, 2016), 55. (From National Library, Singapore, Call no. RSING 333.78095957 CHU)
 
-[^24]: Mediacorp News Group. (2017, October 18). *DETIK Episod 13: Pasangan muda ini memilih untuk terus memartabatkan adat istiadat perkahwinan Melayu*. Retrieved from Berita Mediacorp website.
 
-[^25]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 271, 275–276.
+[^24]: 
 
-[^26]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 275.
+[^25]: 
 
-[^27]: [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, p. 40.
+[^26]: 
 
-[^28]: [Muhammad Ariff Ahmad](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070), 1993, p. 40.
+[^27]: 
 
-[^29]: [Adat perkahwinan banyak berubah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830901-1.2.172.6.3). (1983, September 1). *The Straits Times*, p. 4; [Dua ‘pencurian’ dalam berinai curi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880324-1.2.61.8.2). (1988, March 24). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^28]: 
 
-[^30]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, p. 248; [Berinai di pelamin: Adat perkahwinan orang Melayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20060305-1.2.11.9). (2006, March 5). *Berita Harian*, p. 11. Retrieved from NewspaperSG.
+[^29]: 
+
+[^30]: 
 
 [^31]: The *pulut pahar* is a floral bouquet comprising a base of *pulut kuning* (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the *pulut kuning* is absent, the arrangement is known as *bunga telur*. The *pulut pahar*, which is distributed to those attending the *tepung tawar* ceremony, is not to be confused with the *bunga telur* given to all guests at the wedding reception. In the past, half of the *bunga pahar* or *bunga telur* would be given to the *mak andam* (makeup artist-cum-lady-in-waiting). See [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 275–276.
 
