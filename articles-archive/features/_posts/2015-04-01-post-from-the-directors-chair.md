@@ -4,7 +4,6 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/director-chair
 layout: post
 ---
-
 #### In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Royston_Tan_re.jpg)
@@ -14,7 +13,7 @@ layout: post
 
 **Hailed as one of the most promising talents in the home-grown filmmaking industry, Royston Tan has won more than 40 international and local film awards. Most of his works focus on social issues and seek to challenge the boundaries of societal expectations. It comes as no surprise that some regard him as the <i>enfant terrible</i> of Singapore film. Tan set up his own film production company, 10twentyeight, in 2008.** 
 
-**Synopsis**: <i>Old Friends</i> is the final installation following the highly acclaimed documentary series <i>Old Places</i> (2010) and <i>Old Romances</i> (2012). In this latest documentary, food is the platter on which personal stories of ordinary people from all walks of life are collected, unravelled and served. By compiling these collective narratives of Singaporean food tales - in the process preserving intimate stories of joys and woes, love and loss - <i>Old Friends</i> offers future generations a taste of the past through our common passion for food. 
+**Synopsis**: <i>Old Friends</i> is the final installation following the highly acclaimed documentary series <i>Old Places</i> (2010) and <i>Old Romances</i> (2012). In this latest documentary, food is the platter on which personal stories of ordinary people from all walks of life are collected, unravelled and served. By compiling these collective narratives of Singaporean food tales – in the process preserving intimate stories of joys and woes, love and loss – <i>Old Friends</i> offers future generations a taste of the past through our common passion for food. 
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Lek_Lim_Nonya_Kueh_1.jpg)
 <div style="background-color: white;">Production shot of <i>Old Friends</i> (2015) directed by Royston Tan. <i>Courtesy of Royston Tan.</i></div>
