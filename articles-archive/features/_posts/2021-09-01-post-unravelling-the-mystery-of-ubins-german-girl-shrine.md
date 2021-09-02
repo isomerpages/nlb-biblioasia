@@ -199,22 +199,22 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 [^25]: Ng Koh Yee, “Recreational Land Use on Pulau Ubin” (bachelor’s thesis, National University of Singapore, 1998), https://scholarbank.nus.edu.sg/handle/10635/173038.
 
 
-[^26]: “开发宝贵的旅游资源” [“Develop Valuable Tourism Resources”], 联合早报 [*[Lianhe Zaobao](“开发宝贵的旅游资源” [“Develop Valuable Tourism Resources”], 联合早报 [Lianhe Zaobao], 19 November 1998, 8. (From NewspaperSG))*], 19 November 1998, 8. (From NewspaperSG)
+[^26]: “[开发宝贵的旅游资源](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19981119-1.2.43.2)” [“Develop Valuable Tourism Resources”], 联合早报 [*Lianhe Zaobao*], 19 November 1998, 8. (From NewspaperSG)
 
-[^27]: 
 
-[^28]: 
+[^27]: Chua Ee Kiam, [*Pulau Ubin: Ours to Treasure*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10089883) (Singapore: Simply Green, 2000). (From National Library, Singapore, Call no. RSING 333.78095957 CHU). Chua cites the 1993 article as his source.
+
+[^28]: “The Last Wild Place to Change its Face,” In Site and Sound with Julian Davison. The Story of Singapore. Series 2, episode 12 (Singapore: Produced by the Moving Visuals Co. for the Media Development Authority of Singapore, 2004). (From National Library, Singapore, Call no. RCLOS 959.57 SIT)
 
 [^29]: 
 
 [^30]: 
 
-[^31]: The *pulut pahar* is a floral bouquet comprising a base of *pulut kuning* (yellow glutinous rice) adorned with the stalks of handmade flowers and hard boiled eggs. When the *pulut kuning* is absent, the arrangement is known as *bunga telur*. The *pulut pahar*, which is distributed to those attending the *tepung tawar* ceremony, is not to be confused with the *bunga telur* given to all guests at the wedding reception. In the past, half of the *bunga pahar* or *bunga telur* would be given to the *mak andam* (makeup artist-cum-lady-in-waiting). See [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 275–276.
+[^31]: 
 
-[^32]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 276–277; Amran Kasimin. (2002). *[Perkahwinan Melayu](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11713807)* (pp. 49–52). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: R q392.509595 AMR-[CUS])
+[^32]: 
 
-[^33]: Advisory on kuda kepang performances. (2019, July 25). *Office of the Mufti*. Retrieved from Majlis Ugama Islam Singapura website; [‘Kuda kepang’ against Islam: Muis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790614-1.2.82). (1979, June 14). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^33]:
 
-[^34]: Fatimah Abdullah. (2009). Dari halaman rumah ke Dewan Merak Kayangan: Upacara perkahwinan Melayu bandar. *SARI: Jurnal Alam dan Tamadun Melayu, 27*, 97–107. Retrieved from UKM Journal Article Repository website; Mohd Khairuddin Mohd Sallehuddin & Mohamad Fauzi Sukimi. (2016). Impian dan realiti majlis perkahwinan orang Melayu masakini: Kajian kes di pinggir bandar Kuala Lumpur. *Geografia: Malaysian Journal of Society and Space, 12* (7), 1–12. Retrieved from UKM Journal Article Repository website.
+[^34]: 
 
-[^35]: A. Hamid Besih. (1996, September 28). [Pengertian di sebalik ‘bunga telur’ hampir lebur](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960928-1.2.43.2.10). *Berita Harian*, p. 7. Retrieved NewspaperSG.
