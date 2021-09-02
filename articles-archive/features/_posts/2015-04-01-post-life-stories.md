@@ -4,14 +4,13 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/life-stories
 layout: post
 ---
-
 #### The Singapore Memory Project launches a new exhibition to honour our pioneer generation at Woodlands Regional Library.
 
-Struggles and hardship are part of the human condition. On the other hand, triumph in the face of great adversity is much less commonplace, and is often remarkable - especially when the struggle towards success is hard won. Many films celebrate stories of people overcoming unrelenting hardship to achieve great things, often played out in the dramatisation of the protagonists’ suffering and their subsequent vindication. 
+Struggles and hardship are part of the human condition. On the other hand, triumph in the face of great adversity is much less commonplace, and is often remarkable – especially when the struggle towards success is hard won. Many films celebrate stories of people overcoming unrelenting hardship to achieve great things, often played out in the dramatisation of the protagonists’ suffering and their subsequent vindication. 
 
 Real life is much less sensational but the experiences are no less moving. Many people emerge from situations of adversity without necessarily achieving what the world would consider as spectacular or extraordinary. Real life suffering is subtler and less dramatic, and the definition of success is much more nuanced. 
 
-The Singapore Memory Project’s upcoming exhibition, “Greatest Gift of a Generation: Life Stories”, celebrates the quiet triumph of overcoming personal adversity. In conceptualising this exhibition, we sought out the generation born before Singapore’s Independence  people who have experienced and witnessed great joy but also great hardship - to share their personal stories. 
+The Singapore Memory Project’s upcoming exhibition, “Greatest Gift of a Generation: Life Stories”, celebrates the quiet triumph of overcoming personal adversity. In conceptualising this exhibition, we sought out the generation born before Singapore’s Independence  people who have experienced and witnessed great joy but also great hardship – to share their personal stories. 
 
 We did not uncover amazing feats of derring-do or film-worthy triumphs from the interviews. What is more remarkable, however, are the responses and perspectives of these 40 individuals to the hardships they had suffered.
 
@@ -21,7 +20,7 @@ In curating “Life Stories” we were inspired by the perseverance, humility an
 
 <i>“Greatest Gift of a Generation: Life Stories” is a year-long exhibition that opens at the Woodlands Regional Library in late May 2015. The evocative portraits on display are taken by a group of photography majors from the School of Art, Design and Media, Nanyang Technological University. Each portrait showcases the distinctive style of the photographer while capturing the context of the story. Also included in the exhibition are five video clips featuring first-person narratives of selected individuals.</i> 
 
-<i>The Singapore Memory Project - an initiative by the National Library Board - is a nationwide movement that was started in 2011 to collect, preserve and provide public access to memories and stories relating to Singapore.</i>
+<i>The Singapore Memory Project – an initiative by the National Library Board – is a nationwide movement that was started in 2011 to collect, preserve and provide public access to memories and stories relating to Singapore.</i>
 
 #### **Helena Mahesan** <br>
 **Age 70** <br>
@@ -31,7 +30,7 @@ When I was five, I was with my father at home one day. Suddenly, he fell over sa
 
 I was scared that day when the priest came. My mum spoke to me and my younger brother; she said she had to work, and I had to be cared for in the convent. So that was it, I accepted it and I went. It was fearful for a five-year-old girl to be separated from her mother. But somehow, you grow up very fast. 
 
-"The training that I have, and the experience, helps me to help other people. I’ve been there; I know and I understand. "
+"The training that I have, and the experience, helps me to help other people. I’ve been there; I know and I understand."
 
 Later on I became a nurse. It was while I was attached to the intensive care unit that my loved one was diagnosed with childhood cancer. 
 
@@ -56,7 +55,7 @@ Even up to today, if there is a patient with cancer, adult or child, because of 
 
 I dropped out of school when I was 11. We were poor and had problems buying uniforms and textbooks. The teachers were fierce towards me as I was dyslexic. I ended up playing truant frequently. As a result, I never learnt to read. 
 
-That same year I ran away from home and worked as a child labourer in a plastic factory. I worked from 8am to 10pm every day, with one day’s break a month so that I could bring my salary home. I earned $40 a month - twice the amount my father would have earned back then. 
+That same year I ran away from home and worked as a child labourer in a plastic factory. I worked from 8am to 10pm every day, with one day’s break a month so that I could bring my salary home. I earned $40 a month – twice the amount my father would have earned back then. 
 
 When I was 21, I decided to go into fish farming. When I started, I rented a small plot of land in Hougang. My farm’s output was small, so I had to work as a butcher and an insect catcher to continue with my passion for fish rearing. 
 
@@ -94,7 +93,7 @@ I can never forget that scene and I have hated them ever since.
 
 When I was 13, I came to Singapore to look for work. I remembered I could only afford a loaf of bread which cost 10 cents then, and I would have that with tap water every day for two months. I finally found a job serving coffee in a Hainanese coffee shop. They provided me with food and lodging, and I was paid more than $10 a month. 
 
-Later, I went to work at a worksite building - the Ulu Tiram army camp in Johor Bahru. In those days, we would have to manually load or unload the soil, sand, or wood. It was physically exhausting. I did this for a few years, travelling in and out of Singapore every day. 
+Later, I went to work at a worksite building – the Ulu Tiram army camp in Johor Bahru. In those days, we would have to manually load or unload the soil, sand, or wood. It was physically exhausting. I did this for a few years, travelling in and out of Singapore every day. 
 In 1957, I applied for Singapore citizenship;<sup>1</sup> from then on I moved from job to job to make a living. I was a motorcycle repairman, a cleaner, and when jobs were scarce in Singapore in the 1960s, I worked as a waiter, and even as a timber logger in Terengganu (Malaysia). 
 
 I learnt to operate a crane while working at a shipyard in Jurong. I was soon promoted to a foreman in 1978. We worked 44 hours a week and would even be paid overtime if we exceeded them! There were also other benefits my previous jobs did not afford me, such as annual and medical leave. 
