@@ -6,7 +6,7 @@ layout: post
 ---
 #### In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Royston_Tan.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Royston_Tan_re.jpg)
 <div style="background-color: white;"></div>
 
 #### **Royston Tan** 
@@ -30,7 +30,7 @@ We’re in the midst of production now; I think the research intrigues us the mo
 **Do you have a personal comfort food that you crave for every so often?**<br>
 I love roasted duck! It has always been my favourite dish.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/sun_koh.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/sun_koh_re.jpg)
 <div style="background-color: white;"></div>
 
 #### **Sun Koh** 
@@ -84,8 +84,9 @@ We had to tailor some of the clothes and the rest were bought off the shelves at
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/CPKidz_Day2_BTS_378.jpg)
 <div style="background-color: white;">A scene from Wee Li Lin's Centrepoint Kids. Courtesy of Wee Li Lin.</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Ervin_Han.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Ervin_Han_re.jpg)
 <div style="background-color: white;"></div>
+
 #### **Ervin Han** 
 
 **With over 14 years of experience in the telecommunication, media and animation sectors, Han co-founded Robot Playground Media in 2013 to focus his company's creative efforts in developing branded content in design and animation for commercial clients, original animated IPs and educational apps for kids.** 
@@ -113,7 +114,7 @@ I don't play the violin at all. I can get by playing the guitar if the audience 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/scene.jpg)
 <div style="background-color: white;">A scene from the animated film <i>The Violin</i> directed by Ervin Han. <i>Courtesy of Ervin Han.</i></div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/SMP_BA2_01.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/SMP_BA2_01_re.jpg)
 <div style="background-color: white;"></div>
 
 <p style="font-size:15px;"><b>Michelle Heng</b> is a Librarian with the National Library of Singapore. She compiled and edited Singapore Words Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems as well as Selected Poems of Goh Poh Seng.</p>
