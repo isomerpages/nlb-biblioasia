@@ -36,7 +36,7 @@ Developing a set of acquisition, selection and preservation policies was imperat
 
 While its name dictates Asia as its collection ambit, the AFA has focused its preservation efforts in the last nine years on the geographical region of Southeast Asia. As mentioned earlier, until recently, Southeast Asia had very few dedicated film archives with the means and the budgets to archive the numerous films produced in the region. Nevertheless, concentrating on Southeast Asia did not limit the films that the AFA acquired for its collection – it currently archives titles from wider Asia, such as China, Korea, Japan, Taiwan, India and Iran. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/Cleopatra_Wong.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/Cleopatra_Wong_re.jpg)
 <div style="background-color: white;">They Call Her... Cleopatra Wong was released in 1978, and starred Marrie Lee as an Interpol agent. This poster is part of the AFA's holdings. © Cleopatra Wong International Pte Ltd.</div>
 
 Although archives are generally associated with the antiquated, the AFA’s collection is relatively young by archival standards, with 70 percent of its films dating back to an average of 25 years. The main reason is because the AFA makes a conscious effort to acquire the works of living filmmakers. The selection criteria are determined by a list of priorities, taking into account the condition of the films’ formats and the “Asian-ness” and significance of the films on the cultural landscapes of both its country of origin and internationally. In addition, films that are independently produced and are not preserved in the home country of the filmmaker or by any other archive, receive particular attention. These guidelines are detailed on the AFA’s website and the mechanics of how films can be submitted for assessment and preservation are elaborated in the website’s Frequently Asked Questions (FAQ) section.[^10]
@@ -84,8 +84,7 @@ The AFA has come a long way from when it started 10 years ago by the visionary T
 
 |Digital film restoration is a highly specialised and laborious process. It involves the complex use of technological software and equipment that are designed to ingest huge amounts of data. The simplified workflow diagram below gives an idea of the three main parts of digital film restoration – repair and cleaning; restoration and preservation; and access output.|
 
-|![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/process.jpg)
-<div style="background-color: white;"></div>|
+|<img src="/images/vol-11-issue-1/movingjourney/process_re.jpg">|
 
 |**The Genesis of The Asian Film Archive**| 
 
@@ -120,9 +119,8 @@ The AFA has since grown from strength to strength, expanding its collection, eng
 
 |<i>**Thong Kay Wee** is the Outreach Officer of the Asian Film Archive (AFA). One part publicist and one part curator, he is responsible for devising strategies to propagate the archive’s mission and film collection. In his free time, he considers himself an independent moving image artist.</i>|
 
-|![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/SKP_0517.jpg)
-<div style="background-color: white; padding-bottom:10px;">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i></div>|
-	
+|<img  src="/images/vol-11-issue-1/movingjourney/SKP_0517.jpg">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i>|
+
 <p style="font-size:15px;"><b>Karen Chan</b> is Executive Director of the Asian Film Archive (AFA). Besides overseeing the growth, preservation and curation of the AFA’s collection, she teaches film literacy and preservation courses to educators, students and filmmakers. Karen also serves on the Executive Council of the South East Asia-Pacific Audiovisual Archive Association.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
