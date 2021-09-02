@@ -6,7 +6,7 @@ layout: post
 ---
 #### A permanent exhibition on Singapore’s constitutional history – from its founding in 1819 to Independence in 1965 – opens at the National Gallery Singapore. **Kevin Khoo** details some of its highlights.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/01-lawofland.jpg">The exhibition, “Law of the Land: Highlights of Singapore’s Constitutional Documents”, opens on 19 October 2016 at the former Chief Justice’s Chamber and Office at the National Gallery Singapore. (The Supreme Court and adjoining City Hall re-opened in November 2015 as the National Gallery.) Pictured here is the former Office of the Chief Justice. <i>All rights reserved, Darren Soh and the National Gallery Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/01a-lawofland.jpg">The exhibition, “Law of the Land: Highlights of Singapore’s Constitutional Documents”, opens on 19 October 2016 at the former Chief Justice’s Chamber and Office at the National Gallery Singapore. (The Supreme Court and adjoining City Hall re-opened in November 2015 as the National Gallery.) Pictured here is the former Office of the Chief Justice. <i>All rights reserved, Darren Soh and the National Gallery Singapore.</i></div>
 
 To raise awareness of how legal history illuminates major milestones in the story of our island-nation, a new exhibition, “Law of the Land: Highlights of Singapore’s Constitutional Documents”, opens on 19 October 2016 at the former Chief Justice’s Chamber and Office at the National Gallery Singapore.
 
@@ -22,7 +22,7 @@ The legal ideas in this nascent set of laws were based on English law, adapted t
 
 These provisional regulations were in force at least up to 1826[^3] – the year Singapore became part of the Straits Settlements together with Malacca and Penang – and although they provided for a basic legal system applicable to all in the Singapore settlement, in practice most disputes for non-Europeans were handled by headmen who settled cases according to their community’s customs and social mores. Europeans came under the direct jurisdiction of the British Resident’s Court.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/02-lawofland.jpg">In 1868, Sir Peter Maxwell Benson, the Recorder of Singapore, was appointed Chief Justice of the Straits Settlements in recognition of Singapore’s importance as the centre of government and commerce within the Straits Settlements. <i>Supreme Court Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/02a-lawofland.jpg">In 1868, Sir Peter Maxwell Benson, the Recorder of Singapore, was appointed Chief Justice of the Straits Settlements in recognition of Singapore’s importance as the centre of government and commerce within the Straits Settlements. <i>Supreme Court Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Reception of English Law**
 
@@ -48,7 +48,7 @@ The 1950s saw the rumblings of a political awakening in Singapore as well as maj
 
 The second major development took place in 1958 when Singapore attained self-government. The Singapore Constitution Order-in-Council 1958, which replaced the 1955 Rendel Constitution, was the culmination of intense efforts by local political leaders to agitate for political autonomy for Singapore. In 1956, Marshall led the First All-Party Mission (with representatives from the Democratic Party, Labour Front, People’s Action Party, Progressive Party and the Singapore Alliance) to London to negotiate for self-government. When the talks broke down, Marshall resigned and his successor, Lim Yew Hock, who led the second and third All-Party Missions to London in 1957 and 1958 respectively, was able to successfully achieve self-government for Singapore.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/03-lawofland.jpg">Under the Singapore Constitution Order-in-Council 1958, the British Governor was replaced with a locally appointed Head of State or Yang di-Pertuan Negara. Yusof bin Ishak was sworn in as Singapore’s first Yang di-Pertuan Negara on 5 December 1959. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/03a-lawofland.jpg">Under the Singapore Constitution Order-in-Council 1958, the British Governor was replaced with a locally appointed Head of State or Yang di-Pertuan Negara. Yusof bin Ishak was sworn in as Singapore’s first Yang di-Pertuan Negara on 5 December 1959. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 	
 The Constitution of 1958 outlined three key objectives: it provided for a fully-elected 51-seat Legislative Assembly; replaced the post of British Governor with a locally appointed Head of State (the Yang di-Pertuan Negara); and created the office of Prime Minister. The British, however, retained control over Singapore’s defence and foreign affairs, and had a large say in its internal security.[^7]
 
@@ -74,7 +74,7 @@ One of the first constitutional issues addressed in the immediate post-Independe
 
 As the government moved swiftly to ensure the survival of Singapore on numerous fronts, from defence to the economy, the new nation had to make do in its first decades with a composite constitution comprising the Republic of Singapore Independence Act, amendments to the 1963 State of Singapore Constitution and certain imported provisions from the Federal Constitution of Malaysia. A consolidated Constitution was issued only in 1980.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/04-lawofland.jpg">Newly appointed Minister
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/04a-lawofland.jpg">Newly appointed Minister
 for Law, Edmund W. Barker, in his office at the Ministry of Law, 1964. He drafted the Proclamation of Singapore proclaiming Singapore an independent and sovereign republic on 9 August 1965. The Proclamation was signed by Prime Minister Lee Kuan Yew. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Although the basic framework of the Constitution has remained to this day, it has evolved over time to meet challenges and changing needs. Some key changes include the entrenchment of Singapore’s state sovereignty in 1973; the restoration of a two-thirds majority for constitutional amendments in 1979; the introduction of an elected presidency in 1991; and amendments that have created a uniquely Singaporean legislature through the introduction of the non-constituency Member of Parliament (1984), the Group Representation Constituency (1988), and the Nominated Member of Parliament (1990).
