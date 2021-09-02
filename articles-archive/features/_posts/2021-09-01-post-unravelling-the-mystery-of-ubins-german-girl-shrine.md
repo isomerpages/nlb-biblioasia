@@ -158,13 +158,13 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 [^6]: [*The Singapore and Straits Directory*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490) (Singapore: Fraser and Neave, 1914), 787–88. (From National Library, Singapore, Call no. RRARE 382.09595 STR; Microfilm no. NL1185)
 
-[^7]: 
+[^7]: *Annual Reports of the Straits Settlements for 1914*, (Slough, UK: Archive Editions, 1998) 646–47. (From National Library, Singapore, Call no. RSING 959.51 STR)
 
-[^8]: 
+[^8]: “[German Prisoners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19141024-1.2.46),” *Straits Times*, 24 October 1914, 8; “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19141026-1.2.39),” *Straits Times*, 26 October 1914, 8; “[Our Prisoners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19141027-1.2.35),” *Straits Times*, 27 October 1914, 5; “[German Women and Children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19141028-1.2.46),” *Straits Times*, 28 October 1914, 8; “[Local Prisoners of War](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19141031-1.2.38),” *Straits Times*, 31 October 1914, 10. (From NewspaperSG)
 
-[^9]:  
+[^9]:  Saadon Ismail, “[Cerita Puteri Jawa di ‘Bukit Puaka’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19851027-1.2.30.1),” *Berita Minggu*, 27 October 1985, 11. (From NewspaperSG)
 
-[^10]: 
+[^10]: Saadon Ismail, “[Cerita Puteri Jawa di ‘Bukit Puaka’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19851027-1.2.30.1).”
 
 [^11]: 
 
