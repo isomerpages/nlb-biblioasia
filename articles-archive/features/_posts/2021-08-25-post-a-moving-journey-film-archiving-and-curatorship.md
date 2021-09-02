@@ -72,16 +72,13 @@ The AFA has come a long way from when it started 10 years ago by the visionary T
 
 |The AFA became a subsidiary of the National Library Board in January 2014.|
 
-
-|![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/afa.jpg)
-<div style="background-color: white;">10th anniversary logo of the Asian Film Archive</div>|
+|<img src="/images/vol-11-issue-1/movingjourney/afa_re.jpg">10th anniversary logo of the Asian Film Archive|
 
 |**The 19th Seapavaa Conference** |
 
 |Hosted by the AFA and supported by the National Library Board, Singapore, the 19th South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) Conference and General Assembly will take place from 22 to 28 April 2015. The week-long event at the National Library Building will feature a two-day symposium with concurrent sessions, institutional visits, Restoration Asia II (an event focusing on the restoration of films in Asia or about Asia), workshops, and an excursion. A total of 48 papers will be presented during the conference on topics such as archival advocacy, archival repatriation, professional development, repurposing of archives, technical, organisational and professional sustainability, and archives at risk. For more information, visit www. seapavaaconference.com. The theme for the 2015 SEAPAVAA conference is <i>Advocate. Connect. Engage.</i> This theme resonates closely with the thrust of AFA’s programmes and the three objectives contained in its mission statement – “To Save, Explore, and Share the Art of Asian Cinema”.|
 
-|![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/logo_w_title.jpg)
-<div style="background-color: white;"></div>|
+|<img src="/images/vol-11-issue-1/movingjourney/logo_w_title.jpg">|
 
 |**Digital Film Restoration**|
 
