@@ -85,13 +85,13 @@ Teo’s devotion to this modernist literary enterprise from the British colonial
 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/The_Waste_Land.jpg)
-<div style="background-color: white;">1. A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i> has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace &amp; Co. All rights reserved, 1997. </i> </div>
+<div style="background-color: white;">A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i> has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace &amp; Co. All rights reserved, 1997. </i> </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/Raffles_College_Magazine.jpg)
-<div style="background-color: white;">2. <i>Raffles College Magazine</i>, the publication of Raffles College, of which Teo Poh Leng was the editor in 1933. Teo also contributed articles to this magazine. <i>Raffles College Union Magazine (1993, Trinity Term). (Vol. 4, No. 8), p. 1 Courtesy of NUS Central Library. </i></div>
+<div style="background-color: white;"><i>Raffles College Magazine</i>, the publication of Raffles College, of which Teo Poh Leng was the editor in 1933. Teo also contributed articles to this magazine. <i>Raffles College Union Magazine (1993, Trinity Term). (Vol. 4, No. 8), p. 1 Courtesy of NUS Central Library. </i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/letter_to_submit.jpg)
-<div style="background-color: white;">3. On 14 September 1931, in a letter addressed from 700 Serangoon Road (presumably his residence), Teo Poh Leng posted four poems to American poet Harriet Monroc for publication in <i>Poety: The Magazine of Verse. </i>Unfortunately, his submissions were not accepted. <i>Courtesy of the Special Collections Research Center, University of Chicago Library. </i></div>
+<div style="background-color: white;">On 14 September 1931, in a letter addressed from 700 Serangoon Road (presumably his residence), Teo Poh Leng posted four poems to American poet Harriet Monroe for publication in <i>Poetry: The Magazine of Verse. </i>Unfortunately, his submissions were not accepted. <i>Courtesy of the Special Collections Research Center, University of Chicago Library. </i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/Life_and_Letters.jpg)
 <div style="background-color: white;">4. Section VII of <i>F.M.S.R.</i> retitled as "The Song of the Night Express" by Teo Poh Leng, was published in the 1937 spring issue of <i>Life and Letters To-day</i>, a British literary magazine. <i>Life and To-day</i>. (Vol. 16, No. 7)</div>
