@@ -66,7 +66,7 @@ A special Geographic Information System (GIS) developed with the Urban Redevelop
 <i>seabook</i> was conceived by artist Charles Lim as a site for the agglomeration of archival material, anecdotes and memories that explores Singapore's relationship with the sea. Lim, who is Singapore's 2015 representative to the Venice Biennale, has a close relationship with the sea as he is a former national sailor and represented Singapore in the 1996 Olympics. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Charles_Lim_work.jpg)
-<div style="background-color: white;">Artist Charles Lim's work, Sea Safe (2014), in progress.</div>
+<div style="background-color: white;">Artist Charles Lim’s work, Sea Safe (2014), in progress.</div>
 
 	
 This particular project is an extension of Lim's previous solo-exhibition, "In Search of Raffles' Light", held in 2013 at the National University of Singapore (NUS) Museum. Both these projects are part of Lim's body of work known as the SEA STATE series, which was first initiated in 2008 and continues with his exploration of Singapore's maritime ecology. Developed together with the librarians at NL, <i>seabook</i> highlights the vast amount of information and data gathered from maps, charts and newspaper clippings, as well as scholarly material grappling with the complex relationship between Singapore and the sea – from colonial times to the present day. The stories encompass the mundane – such as fishing as a livelihood, the everyday lives of island communities, regulations on the use of the sea for leisure and other purposes, as well as sea-related tragedies, including an attack on a girl by a swordfish in 1961. The exhibition, jointly organised by NUS Museum and NL, highlights the troubled relationship Singapore has with its seas and its continued undercurrents in our lives.
@@ -75,14 +75,14 @@ This particular project is an extension of Lim's previous solo-exhibition, "In S
 <div style="background-color: white;">Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.</div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg)
-<div style="background-color: white;">Close-up of Michael Lee's <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.</div>
+<div style="background-color: white;">Close-up of Michael Lee’s <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.</div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg)
-<div style="background-color: white;">A polystyrene block is given a textured surface in Jeremy Sharma's <i>Outliers</i> (2014–2015).</div>
+<div style="background-color: white;">A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers</i> (2014–2015).</div>
 	
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg)
-<div style="background-color: white;">Stills from Sherman Ong's work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.</div>
+<div style="background-color: white;">Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.</div>
 
 	
 #### **Mind the Gap: Mapping the Other** 
