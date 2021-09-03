@@ -81,7 +81,7 @@ In another essay,[^12] Peter Borschberg draws attention to a little-known schema
 
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/eredia.jpg)
-<div style="background-color: white;">This map shows the Old Strait (“estreito velho”) as a narrow channel running east-west of the southern coast of Singapore island. The New Strait (“estreito novo”) is found further south of the Old Strait. This detail is taken from a 19th-century facsimile of Manuel Godinho de Eredia’s 1604 map in Malaca, L’Inde Orientale et le Cathay. Collection of the National Library, Singapore.</div>
+<div style="background-color: white;">This map shows the Old Strait (“estreito velho”) as a narrow channel running east-west of the southern coast of Singapore island. The New Strait (“estreito novo”) is found further south of the Old Strait. This detail is taken from a 19th-century facsimile of Manuel Godinho de Eredia’s 1604 map in <i>Malaca, L’Inde Orientale et le Cathay</i>. Collection of the National Library, Singapore.</div>
 
 #### **A History Long Before 1819** 
 
