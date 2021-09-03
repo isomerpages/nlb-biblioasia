@@ -6,7 +6,7 @@ layout: post
 ---
 #### “GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015. **Tan Huism** explains why you should not miss this event.
 
-"You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel *The Mapmaker's Wad.*[^1]
+"You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel *The Mapmaker's War.*[^1]
 
 
 The act of graphically representing the world around us is an early human impulse – judging from the prehistoric engravings of landscapes found in caves and rock shelters.[^2] Perhaps the earliest surviving example of a world map is a 2,600-year-old clay tablet[^3] dating to around 600 BCE, representing a Babylonian's view of the world. Some might debate that the tablet cannot be considered a map as it is neither drawn to scale nor does it accurately capture the geographical landscape – for example, the river Euphrates is drawn as a set of parallel lines. From a scientific perspective, this clay tablet would certainly not qualify as a map. What, then, constitutes a map?
