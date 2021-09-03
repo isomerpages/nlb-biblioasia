@@ -83,7 +83,7 @@ Hal yang sama tentang keindahan dan ketenangan tempat yang dilawati terutama di 
 
 (Warkah Eropah, A Samad Said hlm 139).
 
-"Sempai di pinggir tasik ini saya sungguh terpegun dan terasa seperti mahu menangis melihat keindahan tempat ini. Sesungguhnya, apabila kita menjaga alam, Tuhan akan balas dengan sebaik-baiknya. Tasiknya dan kawasan bukitnya cantik tidak tergambar oleh kata-kata. Semuanya bagai tidak terusik oleh tangan manusia. Betapa besarnya wakaf yang telah ditinggalkan oleh pengarang-pengarang seperti Beatrix Potter untuk tempat ini dinikmati oleh generasi hari ini."
+"Sampai di pinggir tasik ini saya sungguh terpegun dan terasa seperti mahu menangis melihat keindahan tempat ini. Sesungguhnya, apabila kita menjaga alam, Tuhan akan balas dengan sebaik-baiknya. Tasiknya dan kawasan bukitnya cantik tidak tergambar oleh kata-kata. Semuanya bagai tidak terusik oleh tangan manusia. Betapa besarnya wakaf yang telah ditinggalkan oleh pengarang-pengarang seperti Beatrix Potter untuk tempat ini dinikmati oleh generasi hari ini."
 
 (Kembara Sastera, Nisah Haron, hlm 13)
 
