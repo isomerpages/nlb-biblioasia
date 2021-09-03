@@ -97,18 +97,20 @@ From this perspective, these early modern sea charts are more than an encapsulat
 |Curated by the National Library Board, “Geo|Graphic: Celebrating Maps and their Stories” is a combination of exhibitions and programmes that explore maps and mapping in their historical and contemporary contexts. The maps – which date back to as early as the 15th century – are drawn from the collections of the National Library, Singapore, and the National Archives of Singapore and supplemented by rare maps specially flown in from Britain and the Netherlands. This is a unique opportunity to see printed and hand-drawn maps that are on public display for the first time in Singapore|
 
 |GeolGraphic is currently taking place at the National Library Building until 19 July 2015. The exhibition takes place on different levels of the building.|
-|Singapore’s first topographical and City Map|
-|Land of Gold and Spices: Early Maps of Southeast Asia and Singapore|
 
-|**Mind the Map: Mapping the Other**|
+|**Singapore’s first topographical and City Map**|<br>
+|**Land of Gold and Spices: Early Maps of Southeast Asia and Singapore**|<br>
+|**Island of Stories: Singapore Maps SEA STATE 8 seabook** l An Art Project by Charles Lim|
 
-||
-||
-||
-||
+|**Mind the Map: Mapping the Other**|<br>
+|Presents the works of three Singapore-based contemporary artists who harness data collection and mapping strategies to investigate what lies beneath the surface of contemporary life.|
 
-||
-||
+|**Bibliotopia** l By Michael Lee|<br>
+|**Outliers** l By Jeremy Sharma|<br>
+|**the seas will sing and the wind will carry us (Fables of Nusantara)** l By Sherman Ong|
+
+|<br>Free guided tours of the exhibition are available every Sat and Sun until 19 July 2015. English tours run from 2 to 3pm and Mandarin tours from 2.30 to 3.30pm. Each tour is limited to 20 participants on a first-come-first-served basis. For inquiries, please email visitnls@nlb.gov.sg|<br>
+|A series of lectures on the theme of maps and mapping has been organised as part of GeoIGraphic as well as an interactive exhibition called MAPS!, now on at selected public libraries. For more information on all programmes, pick up a copy of GoLibrary or access it online at http://www.nlb.gov.sg/golibrary/|
 
 <p style="font-size:15px;"><b>Kwa Chong Guan</b> dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.</p>
 
