@@ -9,7 +9,7 @@ layout: post
 
 — “The Royal Cinematograph”, <i>Eastern Daily Mail and Straits Morning Advertiser</i>, 20 February 1907
 
-Singapore’s first public film screening is often mistakenly attributed to Basrai, a travelling Parsi impresario who is believed to have shown the movie in April 1902 in a tent pitched at the junction of Hill Street and River Valley Road. [^1] Archival newspaper reports, however, indicate that the April 1902 screening was organised by the American Biograph Company at the foot of Fort Canning along Hill Street.[^2] But the real story of Singapore’s film history movies predates this first public screening and is much richer than previously thought. 
+Singapore’s first public film screening is often mistakenly attributed to Basrai, a travelling Parsi impresario who is believed to have shown the movie in April 1902 in a tent pitched at the junction of Hill Street and River Valley Road.[^1] Archival newspaper reports, however, indicate that the April 1902 screening was organised by the American Biograph Company at the foot of Fort Canning along Hill Street.[^2] But the real story of Singapore’s film history movies predates this first public screening and is much richer than previously thought. 
 
 #### **The First Film Experiences**
 
