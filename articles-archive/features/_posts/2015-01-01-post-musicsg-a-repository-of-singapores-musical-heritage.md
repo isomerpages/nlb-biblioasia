@@ -36,7 +36,7 @@ The music scores of past Cultural Medallion winners such as classical musician a
 
 The new MusicSG website was officially launched on 26 September 2014. Called “MusicSG Reloaded”, the event was held at the National Library with Guest-of-Honour Minister for Culture, Community and Youth and Second Minister for Communications and Information, Lawrence Wong, and guest performer Corrinne May, who wowed the crowd with her luscious vocals. Guests included the former MusicSG Advisory Committee members, donors, local musicians, including veterans Rufino Soliano, Jacintha Abisheganaden and Marina Xavier, as well as partner organisations. After the launch, contemporary local artistes The Analog Girl, Jack &amp; Rai, ShiGGa Shay and Nicodemus Lee from 迷路兵 <i>(mi lu bing)</i> mesmerised crowds at the National Library’s plaza for an evening of music and entertainment. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/music/ukelele.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/music/ukelele_re.jpg)
 <div style="background-color: white;">Guest performer Corrinne May presented this Custom-designed ukulele to Minister Lawrence Wong at “MusicSG Reloaded”.</div>
 
 <div style="background-color: white;">
