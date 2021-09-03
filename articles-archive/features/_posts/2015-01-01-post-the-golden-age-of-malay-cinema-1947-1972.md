@@ -4,7 +4,6 @@ date: 2015-01-01
 permalink: /vol-11/issue-1/apr-jun-2015/ga-malay-cinema
 layout: post
 ---
-
 #### Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. **Nor Afidah Bte Abd Rahman** and **Michelle Heng** recount its fabled history.
 
 
@@ -92,7 +91,7 @@ In all, more than 250 Malay-language films were produced in Singapore over the 2
 
 |Permintaan untuk poster begitu rancak dari 50an ke 70an, hingga 100 keping boleh ditempah untuk setiap filem. Namun, pelukis-pelukis yang telah lama berkecimpung mula bersara sementara anak-muda tidak berminat untuk menceburi kraf ini. Kalau dahulu, seramai 10 pelukis dapat digembeling untuk menyiapkan sebuah billboard gah yang memerlukan 100 keping plywood sebagai <i>backing</i>. Dengan masa, tenaga yang sudah berkurangan menjadikan sebuah poster itu terpaksa disiapkan oleh seorang pelukis sahaja. Setelah berakhirnya tahun ‘80an, poster lukisan tangan mula akur dengan kehebatan poster digital. Bermula 1980, Shaw telah menutup studio yang membuat poster filemnya. Pada 2005, hanya seorang pelukis poster, Neo Choon Teck, yang tinggal.|
 
-|<img src="/images/vol-11-issue-1/malaycinema/Asrama.jpg">Actress Normadiah on the cover of the now defunct Malay-language entertainment monthly magazine, <i>Asmara</i>. MFP studio at Jalan Ampas stands in the background. © Asmara, <i>Issue 23. Published by S.O.A. Alsagoff for Geliga Publication Bureau (Singapore), 1956. </i>|
+|<img src="/images/vol-11-issue-1/malaycinema/Asrama_re.jpg">Actress Normadiah on the cover of the now defunct Malay-language entertainment monthly magazine, <i>Asmara</i>. MFP studio at Jalan Ampas stands in the background. © Asmara, <i>Issue 23. Published by S.O.A. Alsagoff for Geliga Publication Bureau (Singapore), 1956. </i>|
 
 |<img src="/images/vol-11-issue-1/malaycinema/Raja_Bersiong.jpg"><i>Raja Bersiong</i> is a 1968 historical film written by former Malaysian prime minister Tunku Abdul Rahman. © Raja Bersiong. <i>Directed by Jamil Sulong, produced by Malay Film Productions, 1968. </i>|
 
