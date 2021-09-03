@@ -186,4 +186,4 @@ Tan, J. (2005, January 25). [Film buffs to the rescue](http://eresources.nlb.gov
 
 [^17]: Cherchi Usai, P. et al. (Eds.). (2008). *[Film curatorship: Archives, museums and the marketplace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)* (p. 170). Österreichisches Filmmuseum: ISYNEMA--Gesellschaft für Film und Medien. (Call no.: 025.1773 FIL).
 
-[^18]: *[Cherchi Usai](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108)*, 2008, p. 231.
+[^18]: [Cherchi Usai](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205108), 2008, p. 231.
