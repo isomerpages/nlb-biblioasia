@@ -92,6 +92,24 @@ From this perspective, these early modern sea charts are more than an encapsulat
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/last.jpg)
 <div style="background-color: white;"></div>
 
+|**GeolGraphic: What Is the Exhibition About?**|
+
+|Curated by the National Library Board, “Geo|Graphic: Celebrating Maps and their Stories” is a combination of exhibitions and programmes that explore maps and mapping in their historical and contemporary contexts. The maps – which date back to as early as the 15th century – are drawn from the collections of the National Library, Singapore, and the National Archives of Singapore and supplemented by rare maps specially flown in from Britain and the Netherlands. This is a unique opportunity to see printed and hand-drawn maps that are on public display for the first time in Singapore|
+
+|GeolGraphic is currently taking place at the National Library Building until 19 July 2015. The exhibition takes place on different levels of the building.|
+|Singapore’s first topographical and City Map|
+|Land of Gold and Spices: Early Maps of Southeast Asia and Singapore|
+
+|**Mind the Map: Mapping the Other**|
+
+||
+||
+||
+||
+
+||
+||
+
 <p style="font-size:15px;"><b>Kwa Chong Guan</b> dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
