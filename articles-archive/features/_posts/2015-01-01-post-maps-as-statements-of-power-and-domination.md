@@ -117,7 +117,7 @@ Raffles, T.S. (1817). *[History of the Indian archipelago: Containing an account
 #### **NOTES**
 [^1]:Anderson, B. (1983). *[Imagined communities: Reflections on the origins and spread of nationalism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657)*.  (pp. 163–164). London: Verso Press. (Call no.: R 320.54 AND)
 
-[^2]:*[Anderson ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657)*, 1983, pp. 171–172.  
+[^2]:[Anderson ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657), 1983, pp. 171–172.  
 
 [^3]: Sebastian Munster was one of the first catographers who produced an account of the world as it was then known. His work *Cosmographia* (1544) included some of the first maps of Asia.
 
