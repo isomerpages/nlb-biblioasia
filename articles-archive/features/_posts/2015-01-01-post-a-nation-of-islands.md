@@ -20,7 +20,7 @@ Thick smoke billows out steadily from the narrow chimney of the furnace. The req
 <div style="background-color: white;">Seet Seng Huat is the current caretaker of the Da Bo Gong (Tua Pek Gong) Temple of Kusu Island. <i>Photo by Edwin Koo.</i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Mustari_and_son_re.jpg)
-<div style="background-color: white;">Mustari Dimu (centre), 92, with his son Sardon Mustari (left), 65, and Hazwari Abdul Wahid, 23, at the Da Bo Gong (Tua Pek Kong) Temple on Kusu Island. Photographed near the temple furnace, they help to burn joss paper during the peak season. <i>Photo by Edwin Koo</i></div>
+<div style="background-color: white;">Mustari Dimu (centre), 92, with his son Sardon Mustari (left), 65, and Hazwari Abdul Wahid, 23, at the Da Bo Gong (Tua Pek Kong) Temple on Kusu Island. Photographed near the temple furnace, they help to burn joss paper during the peak season. <i>Photo by Edwin Koo.</i></div>
 
 Such stories are not uncommon in “Island Nation”, a documentary project that recounts the stories of Singaporeans who once lived on the southern islands of Singapore, especially Sisters' Island, Sentosa and Kusu Island. 
 
