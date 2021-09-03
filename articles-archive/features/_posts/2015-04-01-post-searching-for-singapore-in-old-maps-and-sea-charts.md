@@ -89,7 +89,7 @@ From this perspective, these early modern sea charts are more than an encapsulat
 
 <i>Several of the maps mentioned in this article are currently on display at the exhibition “Land of Gold and Spices: Early Maps of Southeast Asia” at level 11, National Library Building (see text box for more details).</i>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/last.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/last_re.jpg)
 <div style="background-color: white;"></div>
 
 |**GeolGraphic: What Is the Exhibition About?**|
