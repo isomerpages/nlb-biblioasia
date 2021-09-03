@@ -106,18 +106,18 @@ Sebagaimana tajuknya, syair ini menceritakan tentang perjalanan Sultan Lingga ke
 
 Benua Eropah juga antara tempat menarik yang menjadi bahan catatan sebilangan travelog Melayu. Antara ciri yang menarik perhatian para penulis catatan-catatan di benua Eropah ialah tentang alam sekitarannya terutama sekali keindahan atau kelainan cuaca empat musim serta ketenangan di kawasan-kawasan pergunungan dan luar kota. Keadaan geografi yang berbeza mungkin telah memberi inspirasi kepada mereka untuk melestarikannya di dalam tulisan. Tidak keterlaluan rasanya apabila catatan-catatan ini menunjukkan sedikit kekaguman terhadap amalan menjaga alam sekitar di sana. Ini adalah antara kesan-kesan lawatan sepertl yang tertinta di dalam buku “Menggembara ka-Andalusia” (1964) oleh Harun Aminurrashid. 
 
-|Pertengahan perjalanan hendak ka-Cordoba itu kita akan menempoh kawasan yang bergunung-gunung, yang ada berbatu, tetapi hampir semua kawasan itu menjadi ladang pokok zaitun. Saya tiada melihat hutan langsung, kalau hendak dikatakan hutan ialah hutan pokok zaitun iaitu ladang zaitun yang sangat elok aturan susunan tanamannya. Mengikut keterangan orang Sepanyol sendiri, ladang zaitun itu telah beratus-ratus tahun lamanya, dan dikatakan ada yang dapat hidup lebih daripada seribu tahun. Saya lihat lading-ladang zaitun itu, mana-mana yang pokoknya telah rosak atau mati ditanam semula dengan pokok baru. Dengan sebab itu ladang zaitun itu sentiasa penuh.|
+"Pertengahan perjalanan hendak ka-Cordoba itu kita akan menempoh kawasan yang bergunung-gunung, yang ada berbatu, tetapi hampir semua kawasan itu menjadi ladang pokok zaitun. Saya tiada melihat hutan langsung, kalau hendak dikatakan hutan ialah hutan pokok zaitun iaitu ladang zaitun yang sangat elok aturan susunan tanamannya. Mengikut keterangan orang Sepanyol sendiri, ladang zaitun itu telah beratus-ratus tahun lamanya, dan dikatakan ada yang dapat hidup lebih daripada seribu tahun. Saya lihat lading-ladang zaitun itu, mana-mana yang pokoknya telah rosak atau mati ditanam semula dengan pokok baru. Dengan sebab itu ladang zaitun itu sentiasa penuh."
 
-|(Harun Aminurrashid, Mengembara ka-Andalusia, hlm 144-145)|
+(Harun Aminurrashid, Mengembara ka-Andalusia, hlm 144-145)
 
 Hal yang sama tentang keindahan dan ketenangan tempat yang dilawati terutama di kawasan luar bandar terdapat di dalam travelog “Warkah Eropah” (1991) tulisan A. Samad Said dan “Kembara Sastera” (2012) nukilan Nisah Haron. Melalui pengalaman dan pengamatan mereka, pembaca dapat turut sama merasakan sesuatu yang cantik dan damai yang dikongsi penulis seperti berikut, 
 
 
-|Pemandangan di Manchester nampaknya banyak juga yang tenang dan indah. Ada bahagian yang menyamai pemandangan rural di Perancis – barangkali sedikit kurang berwarna-warni. <i>Landscape</i> di Perancis, rasanya, lebih banyak yang direncana; <i>landscape</i> di Manchester barangkali banyak yang menjadi sendiri. Curna kambing biri-biri kelihatan lebih sering di sini – terkadang-kadang nampak seperti gumpalan kapas yang berselerak di atas hamparan permaidani hijau. Beberapa buah kampung atau pekan yang saya lalui nampaknya agak moden – tidak terasa atau tertihat iklim atau suasana medieval – kuno – seperti desa-desa di Perancis. Ini hanya mata seorang tourist.| 
+"Pemandangan di Manchester nampaknya banyak juga yang tenang dan indah. Ada bahagian yang menyamai pemandangan rural di Perancis – barangkali sedikit kurang berwarna-warni. <i>Landscape</i> di Perancis, rasanya, lebih banyak yang direncana; <i>landscape</i> di Manchester barangkali banyak yang menjadi sendiri. Curna kambing biri-biri kelihatan lebih sering di sini – terkadang-kadang nampak seperti gumpalan kapas yang berselerak di atas hamparan permaidani hijau. Beberapa buah kampung atau pekan yang saya lalui nampaknya agak moden – tidak terasa atau tertihat iklim atau suasana medieval – kuno – seperti desa-desa di Perancis. Ini hanya mata seorang tourist."
 
-|(Warkah Eropah, A Samad Said hlm 139).| 
+(Warkah Eropah, A Samad Said hlm 139).
 
-|Sempai di pinggir tasik ini saya sungguh terpegun dan terasa seperti mahu menangis melihat keindahan tempat ini. Sesungguhnya, apabila kita menjaga alam, Tuhan akan balas dengan sebaik-baiknya. Tasiknya dan kawasan bukitnya cantik tidak tergambar oleh kata-kata. Semuanya bagai tidak terusik oleh tangan manusia. Betapa besarnya wakaf yang telah ditinggalkan oleh pengarang-pengarang seperti Beatrix Potter untuk tempat ini dinikmati oleh generasi hari ini.|
+"Sempai di pinggir tasik ini saya sungguh terpegun dan terasa seperti mahu menangis melihat keindahan tempat ini. Sesungguhnya, apabila kita menjaga alam, Tuhan akan balas dengan sebaik-baiknya. Tasiknya dan kawasan bukitnya cantik tidak tergambar oleh kata-kata. Semuanya bagai tidak terusik oleh tangan manusia. Betapa besarnya wakaf yang telah ditinggalkan oleh pengarang-pengarang seperti Beatrix Potter untuk tempat ini dinikmati oleh generasi hari ini."
 
 |(Kembara Sastera, Nisah Haron, hlm 13)|
 
@@ -125,9 +125,9 @@ Timur Tengah merupakan sebuah lagi benua yang sering dilawati dan kemudiannya me
 
 Paling popular sudah tentu perjalanan setiap Muslim yang digalakkan sekurang-kurangnya sekali seumur hidup iaitu perjalanan agung mengerjakan ibadat Haji. Namun, setiap pahit maung dalam perjalanan, terutama sekali semasa belum terdapat kemudahan moden, seringkali diiringi dengan rasa syukur setiap penggembara, seperti yang diungkapkan oleh Harun Aminurrashid apabila sampai ke kota suci Mekah dan melihat Kaabah, 
 
-|Setelah selesai makan, kami pun dibawa oleh oang yang menjadi pandu itu masuk ke Masjidil Haram iaitu masuk dari Babus-salam. Tak dapat hendak saya katakan bagaimana detik jantung saya ketika saya memasukkan badan ke dalam masjid yang berseprah serta terpandang kepada bangunan Ka’abah tersergam hitam empat persegi di tengah-tengah masjid itu. Hanya ucapan Allahu-Akbar, Allahu-Akbar terus terpancar dari mulut saya.|
+"Setelah selesai makan, kami pun dibawa oleh oang yang menjadi pandu itu masuk ke Masjidil Haram iaitu masuk dari Babus-salam. Tak dapat hendak saya katakan bagaimana detik jantung saya ketika saya memasukkan badan ke dalam masjid yang berseprah serta terpandang kepada bangunan Ka’abah tersergam hitam empat persegi di tengah-tengah masjid itu. Hanya ucapan Allahu-Akbar, Allahu-Akbar terus terpancar dari mulut saya."
 
-|(Chatetan ka-Tanah Suchi, hlm 67)|
+(Chatetan ka-Tanah Suchi, hlm 67)
 
 
 Travelog-Travelog sebegini merupakan catatan perjalanan ilmu dan sering menjadi petunjuk atau panduan kepada pencinta ilmu. Catatan-catatan ini membuka pandangan pembaca kepada keadaan dan persekitaran serta gambaran sosio budaya masyarakat setempat yang dilawati. Selain itu, terdapat juga perbandingan-perbandingan yang diujarkan dan kritikan-kritikan tajam yang menuntut pembaharuan atau saranan perubahan. 
