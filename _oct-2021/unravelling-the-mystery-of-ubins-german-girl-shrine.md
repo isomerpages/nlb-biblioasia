@@ -210,8 +210,7 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 [^18]: Burris, “The White Girl of Pulau Ubin.”
 
-[^19]: Manisha Nayak, “A Powerful, Mysterious Singaporean Shrine Dedicated to a German Girl Who Died in WW1,” 
-23 February 2017, https://buzz.viddsee.com/how-did-german-diety-singapore-shirne.
+[^19]: Manisha Nayak, “A Powerful, Mysterious Singaporean Shrine Dedicated to a German Girl Who Died in WW1,” 23 February 2017, https://buzz.viddsee.com/how-did-german-diety-singapore-shirne.
 
 [^20]: Ong Siew Fong, interview, Pulau Ubin, 5 April 2021; “[90年前住在乌敏岛洋姑娘变拿督神](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin20031226-1.2.17.1)” [“90 Years Ago a Foreign Girl Living on Ubin became a Datuk God”].
 
@@ -246,4 +245,3 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 [^33]: Emily Koh, “Fräulein Datuk 拿督姑娘 (2018)”, accessed 4 August 2021,  https://emilykoh.net/fraulein-datuk-拿督姑娘-2018/.
 
 [^34]: “The German Girl Shrine,” *History Mysteries* S1, Ep 3, 2021, MeWatch, accessed 4 August 2021, https://www.mewatch.sg/watch/History-Mysteries-E3-The-German-Girl-Shrine-207218.
-
