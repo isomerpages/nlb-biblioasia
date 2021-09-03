@@ -50,57 +50,27 @@ Selain itu, terdapat juga catatan perjalanan yang seumpamanya, “Syair Perjalan
 
 Sebagaimana tajuknya, syair ini menceritakan tentang perjalanan Sultan Lingga ke Singapura seperti digambarkan dalam bait-bait berikut: 
 
-	Syahdan manakala bertemu sempurna 
-	ketiga kapal tiadalah landa 
-	beriringan di lautan sana 
-	tiada didatangi suatu bencana 
+Syahdan manakala bertemu sempurna<br>ketiga kapal tiadalah landa<br>beriringan di lautan sana<br>tiada didatangi suatu bencana<br>
 
-	Hingga sampai pukul empat 
-	Singapura telah didapat 
-	berlabuhlah kapal Sultan bersifat 
-	di laut Teluk Belanga tempat 
+Hingga sampai pukul empat<br>Singapura telah didapat<br>berlabuhlah kapal Sultan bersifat<br>di laut Teluk Belanga tempat<br>
 
-	Waf Borneo konon namanya 
-	di situ beratur kapat ketiganya 
-	kerana di situ mudah atasnya 
-	menaikkan segalanya perempuan ahlinya 
+Waf Borneo konon namanya<br>di situ beratur kapat ketiganya<br>kerana di situ mudah atasnya<br>menaikkan segalanya perempuan ahlinya<br>
 
-	Kira-kira hampir pukul lima 
-	Engku Khalid turun bersama 
-	Tungku Said muda seksama 
-	melewati kedatangan Sultan Kusuma 
+Kira-kira hampir pukul lima<br>Engku Khalid turun bersama<br>Tungku Said muda seksama<br>melewati kedatangan Sultan Kusuma<br>
 
-	Amtener beberapa pula 
-	pegawai Johor kepala 
-	mengiringkan kedua Tengku terala 
-	pakaian berhias sedikit tak cela 
+Amtener beberapa pula<br>pegawai Johor kepala<br>mengiringkan kedua Tengku terala<br>pakaian berhias sedikit tak cela<br>
 
-	Kemudian dihadirkan ketika itu 
-	lima betas kereta bukan suatu 
-	beraturlah ia menanti di situ 
-	berangkatlah Sultan usul yang tentu 
+Kemudian dihadirkan ketika itu<br>lima betas kereta bukan suatu<br>beraturlah ia menanti di situ<br>berangkatlah Sultan usul yang tentu<br>
 
-	Bersama ayahnda bunda 
-	diringkan mereka mana yang ada 
-	laki perempuan tua dan muda 
-	jalan berlomba kereta kuda 
+Bersama ayahnda bunda<br>diringkan mereka mana yang ada<br>laki perempuan tua dan muda<br>jalan berlomba kereta kuda<br>
 
-	Yang dipertuan raja yang bakti 
-	jalan berlomba kereta kuda 
-	segala pengiringnya sama menuruti 
-	beristirahat di sana bersenang hati 
+Yang dipertuan raja yang bakti<br>jalan berlomba kereta kuda<br>segala pengiringnya sama menuruti<br>beristirahat di sana bersenang hati<br>
 
-	Sultan Lingga yang maha mulia 
-	di rumah Wan Sharif tempatnya sedia 
-	beserta sekalian pengiring dia 
-	bersamalah tudia di situ saja 
+Sultan Lingga yang maha mulia<br>di rumah Wan Sharif tempatnya sedia<br>beserta sekalian pengiring dia<br>bersamalah tudia di situ saja<br>
 
-	Melainkan Raja Muhammad hakimnya 
-	tinggal di kapal kerajaannya 
-	Raja Zainal saudara sepupunya 
-	di kampung Gelam konon tempatnya 
+Melainkan Raja Muhammad hakimnya<br>tinggal di kapal kerajaannya<br>Raja Zainal saudara sepupunya<br>di kampung Gelam konon tempatnya<br>
 
-	(hlm 10-11) 
+(hlm 10-11) 
 
 Benua Eropah juga antara tempat menarik yang menjadi bahan catatan sebilangan travelog Melayu. Antara ciri yang menarik perhatian para penulis catatan-catatan di benua Eropah ialah tentang alam sekitarannya terutama sekali keindahan atau kelainan cuaca empat musim serta ketenangan di kawasan-kawasan pergunungan dan luar kota. Keadaan geografi yang berbeza mungkin telah memberi inspirasi kepada mereka untuk melestarikannya di dalam tulisan. Tidak keterlaluan rasanya apabila catatan-catatan ini menunjukkan sedikit kekaguman terhadap amalan menjaga alam sekitar di sana. Ini adalah antara kesan-kesan lawatan sepertl yang tertinta di dalam buku “Menggembara ka-Andalusia” (1964) oleh Harun Aminurrashid. 
 
