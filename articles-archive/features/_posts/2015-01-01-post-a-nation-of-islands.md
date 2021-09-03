@@ -12,7 +12,7 @@ At the temple, caretaker Seet Seng Huat pauses and nods his head in the directio
 
 Thick smoke billows out steadily from the narrow chimney of the furnace. The requests come thick and fast. As the two men take turns to collect joss paper and throw them into the furnace, the third man – probably the oldest – sits down. 
 
-“He comes here every season,” Seng Huat says,“ and stays for a long time each time he visits.” He adds, “I think you should speak to him.” 
+“He comes here every season,” Seng Huat says, “ and stays for a long time each time he visits.” He adds, “I think you should speak to him.” 
 
 “It has been over 60 years since I first started work here,” 91-year-old Mustari Dimu, a former resident of Lazarus Island, says in Malay. And every year since then, Mustari has returned to Kusu for a full month – maintaining his long family tradition and deep friendship with Seet Hock Seng, Seng Huat’s late father, the temple's former caretaker. 
 
@@ -22,9 +22,9 @@ Thick smoke billows out steadily from the narrow chimney of the furnace. The req
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Mustari_and_son_re.jpg)
 <div style="background-color: white;">Mustari Dimu (centre), 92, with his son Sardon Mustari (left), 65, and Hazwari Abdul Wahid, 23, at the Da Bo Gong (Tua Pek Kong) Temple on Kusu Island. Photographed near the temple furnace, they help to burn joss paper during the peak season. <i>Photo by Edwin Koo</i></div>
 
-Such stories are not uncommon in “Island Nation”, a documentary project that recounts the stories of Singaporeans who once lived on the southern islands of Singapore, especially Sisters' Island, Sentosa and Kusu Island, 
+Such stories are not uncommon in “Island Nation”, a documentary project that recounts the stories of Singaporeans who once lived on the southern islands of Singapore, especially Sisters' Island, Sentosa and Kusu Island. 
 
-Although most people think of Singapore as one large Island, it actually comprises a number small islands and islets – more than 60 at one point in time. As Singapore developed over the years, massive reclamation works swallowed up many of these Islands and created new ones in the process. A number of these offshore islands, which were inhabited by people, were zoned for specific purposes and their residents relocated to mainland Singapore. 
+Although most people think of Singapore as one large Island, it actually comprises a number small islands and islets – more than 60 at one point in time. As Singapore developed over the years, massive reclamation works swallowed up many of these islands and created new ones in the process. A number of these offshore islands, which were inhabited by people, were zoned for specific purposes and their residents relocated to mainland Singapore. 
 
 Using photographic stills, videography and archival footage, “Island Nation” is a documentary project that highlights the unique stories of these former islanders and weaves them into the broader Singaporean narrative of nationhood. 
 
@@ -34,15 +34,15 @@ These islands represent an important part of Singapore's heritage. According to 
 
 For Mustari, his involvement started as a young boy when his father, along with his uncles, worked sporadically for Hock Seng’s father at the temple. A young Mustari would often accompany his father on his trips to the temple. When Mustari’s uncles passed away, he decided to keep the tradition.
 
-These days Mustari waits for a call in early September from Seng Huat. He then packs his clothes, prepares food items such as tea, sugar and biscuits for the month-long stay. In fact, there is even a special locker reserved for him at the temple. 
+These days Mustari waits for a call in early September from Seng Huat. He then packs his clothes, and prepares food items such as tea, sugar and biscuits for the month-long stay. In fact, there is even a special locker reserved for him at the temple. 
 
-Mustari's story reveals a deep attachment to the islands, <i>“Dah biasa lah.”</i>  he says in Malay, meaning "used to it" referring to the islander's lifestyle. 
+Mustari's story reveals a deep attachment to the islands, <i>“Dah biasa lah,”</i>  he says in Malay, meaning "used to it" referring to the islander's lifestyle. 
 
 And he is not alone. Choo Huay Kim, 68, taught at St John's Island English School from 1966 to 1976 – one of the few schools that existed on the Southern Islands. Choo was also an islander – he was born (in 1946) and raised on Pulau Sekijang Bendera, before it became known as St John's Island. 
 
-"It was a well-known school, and some call it the Raffles Institution of the Southern Islands." he quips, adding that the primary school only had 100 to 120 students. Posted back to the island to teach, he was also the school's football coach and remembers how the team of 11 boys would squeeze into his modest Volkswagen to attend matches on the mainland. 
+"It was a well-known school, and some call it the Raffles Institution of the Southern Islands," he quips, adding that the primary school only had 100 to 120 students. Posted back to the island to teach, he was also the school's football coach and remembers how the team of 11 boys would squeeze into his modest Volkswagen to attend matches on the mainland. 
 
-“I felt for the boys because I was an island boy myself.” he says. Choo adds that they never had the things that children on the mainland enjoyed, such as proper facilities for competitive sports. 
+“I felt for the boys because I was an island boy myself,” he says. Choo adds that they never had the things that children on the mainland enjoyed, such as proper facilities for competitive sports. 
 
 The bond that the students shared with their teacher as well as their fondness for the old way of life on these islands was evident when some 70 former islanders recently returned to visit their old school on St John’s Island, now used as living quarters for foreign workers. 
 
@@ -80,18 +80,8 @@ In the course of working on this project, we realised how interconnected the liv
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_CA34740.jpg)
 <div style="background-color: white;">A man returning from his fishing trip on St John's Island.</div>
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\nationofisland\Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0010201.jpg">
-</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Island_Nation_Singapore_Satumu_Raffles_Lighthouse_G0020354.jpg)
-<div style="background-color: white;">An aerial photograph of Pulau Satumu, home of the Raffles Lighthouse </div>
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Island_Nation_Singapore_Bukom_G0020334.jpg)
-<div style="background-color: white; padding-bottom:10px;">An aerial photograph of Pulau Bukom. In the background on the left is Pulau Hantu.<i>All images by Captured.</i> </div>
-
-|<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> wvww.facebook.com/islandnationsg<i>.The website</i> www.islandnation.sg <i>will be launched in March 2015.</i>|
+|<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> www.facebook.com/islandnationsg<i>.The website</i> www.islandnation.sg <i>will be launched in March 2015.</i>|
 
 |<i>This project was supported by the Singapore Memory Project's (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:</i> http://www.iremember.sg/indexphp/fund-intro/ |
 
