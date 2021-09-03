@@ -16,7 +16,7 @@ Travelogues, particularly those from yesteryear, serve as important reference do
 
 <p style="float:right;"><i>Karya lengkap Abdul Kadir Munsyi Jilid 1</i><br><i>Amin Sweeney</i><br><i>Kisah pelayaran Abdullah bin Abdul Kadir Munsyi dari Singapura sampai ke Mekah.</i></p>
 
-<br>
+<br><br>
 
 Travelog atau kisah pengembaraan mempunyai peranan yang tersendiri dalam memperkenalkan sesuatu negeri atau tempat asing yang dilawati penulis kepada yang lain. La juga boleh menjadi dokumen penting dalam memberikan maklumat tentang budaya dan persekitaran masyarakat yang dikunjungi. Seperti genre-genre sastera yang lain, travelog Melayu juga mempunyai sumbangan yang tersendiri dalam membantu kita memahami falsafah kehidupan masyarakat Melayu. Oleh itu catatan tentang kehidupan masyarakat yang dilawati, diamati atau dilalui di dalam travelog menjadi rakaman sejarah sosial budaya masyarakat itu sebagai bahan rujukan. Melalui bukunya, <i>Chatetan Ka Tanah Suchi</i> (1960). Harun Aminurrashid mengatakan, 
 
