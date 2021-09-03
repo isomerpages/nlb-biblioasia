@@ -7,65 +7,42 @@ layout: post
 Travelogues, particularly those from yesteryear, serve as important reference documents that capture a slice of history and culture. These writings serve as sources of information about different places, cultures and communities as encountered by writers at different points in time. This article focuses on some of the most popular Malay-language travelogues available in the National Library collection and highlights several well-known accounts from the 19th century to more recent times. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/books.jpg)
-<div style="background-color: white;"><i>Melawat Negara Tetangga, Meninau Ka-Negara Sham, Melawat KB-Paris, Chatetan Ka-Tanah Suchi </i>and <i>Kunjongan Ka-Indonesia 1954</i> were all written by Harun Aminurrashid. </div>
+<div style="background-color: white;"><i>(Clockwise from top left) Melawat Negara Tetangga, Meninau Ka-Negara Sham, Melawat KB-Paris, Chatetan Ka-Tanah Suchi </i>and <i>Kunjongan Ka-Indonesia 1954</i> were all written by Harun Aminurrashid. </div>
 
 
-|<i>"Bahwa ini peringatan sahaya berlayar dari negeri Singapura dalam kapal Syeikh ‘Abdul Karim yang bernama Subla’s-salam, yaitu kepada tarikh sanat 1270 tahun, kepada 29 hari bulan Jamadilawal, yaitu kepada tarikh Masehi 1854, yaitu setuju kepada sehari bulan Cina tahun baharu. </i>|
+<i>"Bahwa ini peringatan sahaya berlayar dari negeri Singapura dalam kapal Syeikh ‘Abdul Karim yang bernama Subla’s-salam, yaitu kepada tarikh sanat 1270 tahun, kepada 29 hari bulan Jamadilawal, yaitu kepada tarikh Masehi 1854, yaitu setuju kepada sehari bulan Cina tahun baharu. </i>
 
-|<i>Maka dengan tolong Allah dua hari ketiga sampailah ke laut Melaka, tetapi tiada singgah. Maka berlayarlah juga dengan angin utara. Maka diberi Allah tiga hari keempatnya sampailah ke Pulau Pinang, itupun tiadalah juga singgah, lalu juga berlayar. Maka kepada hari Ahad tujuh hari bulan, pada malam pukul sembilan turunlah angin utara kencang terlalu; maka ombak dan gelombang terlalu besar. Maka kapal sebesar itu menjadi seperti kulit sabut di tengah laut, dihempaskan gelombang itu timbul tenggelam. Maka segala peti2 dan barang2 di kapal, yang di kiri datang ke kanan dan yang di kanan ke kiri, sehingga sampailah pada pagi. Maka ada pukul sebelas redahlah angin itu. Maka dilayarkanlah juga, maka sampailah kira2 pukul empat petang bertentangan Pulau Perak. Adapun pulau itu tiadalah sehelai rumput atau pohon2 melainkan batu sahaja bertimbun putih kelihatan dari jauh rupanya seperti perak. Maka sebab itulah dinamakan orang Pulau Perak.”</i>|
+<i>Maka dengan tolong Allah dua hari ketiga sampailah ke laut Melaka, tetapi tiada singgah. Maka berlayarlah juga dengan angin utara. Maka diberi Allah tiga hari keempatnya sampailah ke Pulau Pinang, itupun tiadalah juga singgah, lalu juga berlayar. Maka kepada hari Ahad tujuh hari bulan, pada malam pukul sembilan turunlah angin utara kencang terlalu; maka ombak dan gelombang terlalu besar. Maka kapal sebesar itu menjadi seperti kulit sabut di tengah laut, dihempaskan gelombang itu timbul tenggelam. Maka segala peti2 dan barang2 di kapal, yang di kiri datang ke kanan dan yang di kanan ke kiri, sehingga sampailah pada pagi. Maka ada pukul sebelas redahlah angin itu. Maka dilayarkanlah juga, maka sampailah kira2 pukul empat petang bertentangan Pulau Perak. Adapun pulau itu tiadalah sehelai rumput atau pohon2 melainkan batu sahaja bertimbun putih kelihatan dari jauh rupanya seperti perak. Maka sebab itulah dinamakan orang Pulau Perak.”</i>
 
-|<i>Karya lengkap Abdul Kadir Munsyi Jilid 1</i><br><i>Amin Sweeney</i><br><i>Kisah pelayaran Abdullah bin Abdul Kadir Munsyi dari Singapura sampai ke Mekah.</i>|
+<p style="float:right;"><i>Karya lengkap Abdul Kadir Munsyi Jilid 1</i><br><i>Amin Sweeney</i><br><i>Kisah pelayaran Abdullah bin Abdul Kadir Munsyi dari Singapura sampai ke Mekah.</i></p>
 
 Travelog atau kisah pengembaraan mempunyai peranan yang tersendiri dalam memperkenalkan sesuatu negeri atau tempat asing yang dilawati penulis kepada yang lain. La juga boleh menjadi dokumen penting dalam memberikan maklumat tentang budaya dan persekitaran masyarakat yang dikunjungi. Seperti genre-genre sastera yang lain, travelog Melayu juga mempunyai sumbangan yang tersendiri dalam membantu kita memahami falsafah kehidupan masyarakat Melayu. Oleh itu catatan tentang kehidupan masyarakat yang dilawati, diamati atau dilalui di dalam travelog menjadi rakaman sejarah sosial budaya masyarakat itu sebagai bahan rujukan. Melalui bukunya, <i>Chatetan Ka Tanah Suchi</i> (1960). Harun Aminurrashid mengatakan, 
 
-|Segala apa yang dilihat, didengar dan dirasai, kalau dicatit dengan jujur dan betul, ayat adalah menjadi catitan sejarah yang amat penting, untuk pengetahuan orang-orang yang akan dating. Catitan yang betul akan terus hidup untuk selama-lamanya.| 
+"Segala apa yang dilihat, didengar dan dirasai, kalau dicatit dengan jujur dan betul, ayat adalah menjadi catitan sejarah yang amat penting, untuk pengetahuan orang-orang yang akan dating. Catitan yang betul akan terus hidup untuk selama-lamanya."
 
 Travelog Melayu telah mula dihasilkan seawal abad ke-19. Antara yang masyhur ialah kisah-kisah pelayaran Abdullah, yang merupakan catatan kembara Abdullah Munsyi di Semenanjung Tanah Melayu seperti Kelantan. Selain dari itu terdapat juga travelog-travelog Harun Aminurrashid seperti “Chatetan Menjelajah ka-Eropah”, “Melawat ka-paris”, “Menggembara ka-Andalusia”, “Meninjau ka-Negara Sham”,  “Melawat Negara Tetangga” dan “Kunjongan ka-Indonesia”. 
 
 Berdasarkan kepada teks-teks yang ada antara tempat-tempat pengembaraan yang sering dilawati dan ditulis dalam bahasa Melayu sejak abad ke-19 hingga kini banyak meliputi kembara ke negeri-negeri sekitar Nusantara seperti Indonesia, Kelantan dan Terengganu. Bagi catatan pengembaraan sebegini selain dari yang ditulis oleh penulis Melayu, terdapat juga yang ditulis oleh pegawai-pegawai Kolonial yang mencerminkan tanggapan dan pandangan mereka terhadap masyarakat peribumi beserta keadaan alam sekeliling yang mereka lawati. 
 
-<div style="background-color: white;">
-<br>
-<img src="\images\vol-10-issue-4\travelogmelayu\background.jpg">
-	</div>
-
 Terdapat catatan kembara yang menarik ditulis dalam bentuk puisi syair, contohnya “Syair Peri Tuan Raffles Pergi ke Minangkabau” yang telah ditulis pada tahun 1818 (Raimy Che-Ross, 2003). Permulaan syair ini memberikan pembaca pengenalan tentang siapa Tuan Raffles yang pergi ke Padang dengan diiringi isterinya yakni "Madamnya yang arif buniman”. Selain itu bait-bait awal ini juga menyentuh beberapa usahanya untuk merubah dan membuat raformasi sosial seperti membasmi perjudian dan sabung ayam di “Bangkahulu”.
 
 
-	Bismillah itu permulaan baca 
-	Alhamdulillah puji yang nyata 
-	Berkat Muhammad Penghulu kita 
-	Hatiku terbuka di dalam dada 
+Bismillah itu permulaan baca<br>Alhamdulillah puji yang nyata<br>Berkat Muhammad Penghulu kita<br>Hatiku terbuka di dalam dada<br>
 	
-	Inilah karangan suatu kisah 
-	Mengatur nazam syair yang indah 
-	Dari kerana berhati susah 
-	Kepada Tuan besar disandarkan madah 
+Inilah karangan suatu kisah<br>
+Mengatur nazam syair yang indah<br>
+Dari kerana berhati susah<br>
+Kepada Tuan besar disandarkan madah<br>
 
-	Inilah asalnya telah tersurat 
-	Pekerjaan Tuan Besar dijadikan Hikayat 
-	Di negeri Bangkahulu dibaikinya adat 
-	Sabung dan dadu dia-nya hemat 
+Inilah asalnya telah tersurat<br>Pekerjaan Tuan Besar dijadikan Hikayat<br>Di negeri Bangkahulu dibaikinya adat<br>Sabung dan dadu dia-nya hemat<br>
 
-	Sedikit lama perantaraan 
-	Tuan Besar itu hendak berjalan 
-	Serta Madamnya yang arif budiman 
-	Ke negeri Padang dia-nya kerjaan 
+Sedikit lama perantaraan<br>Tuan Besar itu hendak berjalan<br>Serta Madamnya yang arif budiman<br>Ke negeri Padang dia-nya kerjaan<br>
 
-	Hatta dengan Takdirullah 
-	Pekerjaannya itu dikehendak Allah 
-	Akalnya baik tangannya murah 
-	Madamnya majlis rupanya indah 
+Hatta dengan Takdirullah<br>Pekerjaannya itu dikehendak Allah<br>Akalnya baik tangannya murah<br>Madamnya majlis rupanya indah<br>
 
-	Belayarlah Tuan Besar dari Bangkahulu 
-	Dengan kapal namanya perahu 
-	Serta Madamnya yang baik laku 
-	Ke negeri Padang dia-nya rindu 
+Belayarlah Tuan Besar dari Bangkahulu<br>Dengan kapal namanya perahu<br>Serta Madamnya yang baik laku<br>Ke negeri Padang dia-nya rindu<br>
 
-	Tuan Besar berjalan meriam berbunyi 
-	Di Pulau Tikus kapal menanti 
-	Kelasi berdayung tidak berhenti 
-	Tiba di kapal di kasi ordi. 
+Tuan Besar berjalan meriam berbunyi<br>Di Pulau Tikus kapal menanti<br>Kelasi berdayung tidak berhenti<br>Tiba di kapal di kasi ordi.<br>
 
 Selain itu, terdapat juga catatan perjalanan yang seumpamanya, “Syair Perjalanan Sultan Lingga dan Yang Dipertuan Muda Riau Pergi ke Singapura dan Peri Keindahan Istana Sultan Johor Yang Amat Elok”, yang dikarang oleh Hamba Allah yang aat <i>[sic]</i> fakir yaitu Khalid Hitam bin Raja Hasan al-Haji Riau dan tercetak di Mathaba’at al-Riauwiyah Pulau Penyengat pada tahun 1311 Hijrah atau 1891 Masihi. 
 
