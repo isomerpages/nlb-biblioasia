@@ -65,7 +65,7 @@ Through these maps we can see the story of Empire and colonialism unfolding – 
 Maps can, therefore, be read as documents that record the rise and fall of powers, and how the process of knowing Asia was linked to the relative decline of Asian nations and their inability to resist such attempts at charting and mapping their territories. As Indian and Southeast Asian kingdoms declined in both economic and military power, so too were their territories opened up to European cartographers who began to venture further inland, producing maps that were more accurate and reliable, but which also told the story of Western conquest of the East.
 	
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/statementsofpoweranddomination/Nicholas_de_Fer_Geographie.jpg)
-<div style="background-color: white;">Nicholas de Far's 1714 <i>Geographie. Country of Farish A. Noor.</i></div>
+<div style="background-color: white;">Nicholas de Far's 1714 <i>Geographie. Courtesy of Farish A. Noor.</i></div>
 
 	
 #### **Maps as Colonial History: Cartography in the Service of Empire**
