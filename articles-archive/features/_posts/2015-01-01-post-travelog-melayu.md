@@ -134,7 +134,7 @@ Harun Aminurrashid. (1965). *[Mengembara ka-Andalusia](https://eservice.nlb.gov.
 
 Harun Aminurrashid. (1965). *[Melawat negara tetangga](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12929667)*. Singapura: Pustaka Melayu. (Call no.: Malay RCLOS 915 HAR)
 
-Khalid Hitam bin Raja Hasan. (2002). *[Bahwa inilah Syair perjalanan Sultan Lingga dan yang Dipertuan Muda Riau pergi ke Singapura dan peri keindahan istana Sultan Johor yang amat elok](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11927551)*, Pekanbaru. Riau: Proyek Pembinaan Bahasa dan Sastra Daerah Riau, Dinas Kebudayaan, Kesenian dan Pariwisata. (Call no.: Malay R 899.281 KHA)
+Khalid Hitam bin Raja Hasan. (2002). *[Bahwa inilah Syair perjalanan Sultan Lingga dan yang Dipertuan Muda Riau pergi ke Singapura dan peri keindahan istana Sultan Johor yang amat elok](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11927551)*, Pekanbaru, Riau: Proyek Pembinaan Bahasa dan Sastra Daerah Riau, Dinas Kebudayaan, Kesenian dan Pariwisata. (Call no.: Malay R 899.281 KHA)
 
 Lucchesi, F. (1996, January). Geographic memories in travelogue literature: The Australian landscape in the writing of Italian travellers. *GeoJournal*, 38 (1), 129–136. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
