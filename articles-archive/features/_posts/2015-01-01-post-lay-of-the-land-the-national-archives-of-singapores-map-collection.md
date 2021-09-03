@@ -7,7 +7,7 @@ layout: post
 #### From Singapore's days as a colony to modern times, maps have been an integral part of the nation's development. **Kevin Khoo** highlights the National Archives of Singapore's 10,000-strong map collection. 
 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/backgrounds_re.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/backgrounds_res.jpg)
 <div style="background-color: white;">Illustration of entrance to Singapore's harbour in 1860. <i>Nineteenth Century Prints of Singapore (Plate 37. Notes p. 98), National Museum of Singapore, 1987.</i></div>
 
 
