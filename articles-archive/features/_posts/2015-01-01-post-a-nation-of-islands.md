@@ -16,7 +16,7 @@ Thick smoke billows out steadily from the narrow chimney of the furnace. The req
 
 “It has been over 60 years since I first started work here,” 91-year-old Mustari Dimu, a former resident of Lazarus Island, says in Malay. And every year since then, Mustari has returned to Kusu for a full month – maintaining his long family tradition and deep friendship with Seet Hock Seng, Seng Huat’s late father, the temple's former caretaker. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Seet_Seng_Huat.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Seet_Seng_Huat_re.jpg)
 <div style="background-color: white;">10. Seet Seng Huat is the current caretaker of the Da Bo Gong (Tua Pek Gong) Temple of Kusu Island. <i>Photo by Edwin Koo.</i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Mustari_and_son_re.jpg)
