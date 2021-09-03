@@ -38,7 +38,7 @@ This anchor exhibition for "GeolGraphic" reveals how Southeast Asia was perceive
 	
 A highlight of the exhibition are several pre-1800 maps that contain names such as Cinca pula, Cingatola and Sincapura. Could these names refer to Singapore? Also on display are early printed and hand-drawn maps that identify Singapore as Old Strieghts of Sincapura, lantana, Pulo Panjang and Sincapour. Whatever the names used, these maps clearly point to Singapore's existence before 1819 and offer a glimpse into its maritime history. Another highlight are the rare hand-drawn Dutch and English maps that have been borrowed from European libraries and displayed in Singapore for the first time.
 
-<img  style="height:800px;" src="/images/vol-10-issue-4/geo-geographic/UBLCKA_COLLBN_re.jpg">
+<img  src="/images/vol-10-issue-4/geo-geographic/UBLCKA_COLLBN_re.jpg">
 <div style="background-color: white;">On this hand-drawn and coloured 1725 Dutch map depicting the southern part of the Malay Peninsula and the Riau archipelago, Singapore is marked as Oud Straat Sincapura (Old Strait of Singapore). The Old Strait of Singapore is the name of the maritime channel between Sentosa and Telok Blangah. <i>Courtesy of Leiden University Library, 006-14-012.</i></div>
 
 <br>
