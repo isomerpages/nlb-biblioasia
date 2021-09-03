@@ -184,55 +184,55 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^20]: Hassan Abd. Muthalib. (2013). Cathay-Keris – A different kind of Malay films (pp. 72–73). In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*. Petaling Jaya: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS) 
 
-[^21]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 120; Ramani, V. (2005, August 24). *[Scream queen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050824-1.2.44.1). Today, p. 32. Retrieved from NewspaperSG.
+[^21]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 120; Ramani, V. (2005, August 24). *[Scream queen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050824-1.2.44.1)*. <i>Today</i>, p. 32. Retrieved from NewspaperSG.
 
-[^22]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, p. 167.
+[^22]: [Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181), 2008, p. 167.
 
-[^23]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, pp. 167–168.
+[^23]: [Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181), 2008, pp. 167–168.
 
-[^24]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 139; *[Film company goes into liquidation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671028-1.2.37)*. (1967, October 28). The Straits Times, p. 6; *[Studio jalan ampas di-katakan hendak di-tutup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19650508-1.2.8)*. (1965, May 8). <i>Berita Harian</i>, p. 1. Retrieved from NewspaperSG.
+[^24]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 139; [Film company goes into liquidation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671028-1.2.37). (1967, October 28). <i>The Straits Times</i>, p. 6; [Studio jalan ampas di-katakan hendak di-tutup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19650508-1.2.8). (1965, May 8). <i>Berita Harian</i>, p. 1. Retrieved from NewspaperSG.
 
-[^25]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 139; *[Film studio cutting down staff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650330-1.2.27)*. (1965, March 30). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+[^25]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 139; [Film studio cutting down staff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650330-1.2.27). (1965, March 30). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
-[^26]: Amir Hamzah Shamsuddin. (1977, December 4). *[Dapatkan filem 2 Melayu rebut kembali zaman gemilangya?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19771204-1.2.66.1)* <i>Berita Harian</i>, p. 6. Retrieved from NewspaperSG.
+[^26]: Amir Hamzah Shamsuddin. (1977, December 4). [Dapatkan filem 2 Melayu rebut kembali zaman gemilangya?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19771204-1.2.66.1) <i>Berita Harian</i>, p. 6. Retrieved from NewspaperSG.
 
-[^27]: Anuar Othman. (1987, July 31). *[Salim Bachik dramatis belum ada gantiny](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19870731-1.2.19.2)*. <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
+[^27]: Anuar Othman. (1987, July 31). [Salim Bachik dramatis belum ada gantiny](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19870731-1.2.19.2). <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
 
-[^28]: *[Chapter 8: Channel surfing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20131203-1.2.64.1.9)*. (2013, December 3). <i>Today</i>, p. 58. Retrieved from NewspaperSG.
+[^28]: [Chapter 8: Channel surfing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20131203-1.2.64.1.9). (2013, December 3). <i>Today</i>, p. 58. Retrieved from NewspaperSG.
 
 [^29]: Coltoras. (2012, March 15). <i>Nostalgia tahun 70an: Brorey Marantika</i>. Retrieved from Coltoras website.
 
-[^30]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006 pp. 71–76.
+[^30]: [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006 pp. 71–76.
 
 [^31]: Cheah, P. (2011). Beginning and starting over – Singapore film until 2002 (p. 13). In Y. Michalik (Ed.), *[Singapore independent film](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14302102)*. Marburg (Germany): Shuren. (Call no.: RSING 791.43095957 SIN)
 
-[^32]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, pp. 71–76.
+[^32]: [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, pp. 71–76.
 
-[^33]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, pp. 71–76.
+[^33]: [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, pp. 71–76.
 
 [^34]: Travelfish. (n.d.). <i>Malay Heritage Centre: A crash course in all things malay</i>. Retrieved from Travelfish website. 
 
-[^35]: *[Kurang-nya filem2 Hindustan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690905-1.2.74)*, filem China jadi ganti. (1969, September 5). <i>Berita Harian</i>, p. 6. Retrieved from NewspaperSG.
+[^35]: [Kurang-nya filem2 Hindustan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690905-1.2.74), filem China jadi ganti. (1969, September 5). <i>Berita Harian</i>, p. 6. Retrieved from NewspaperSG.
 
-[^36]: *[Tiga kesah dlm satu gambar](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19590130-1.2.70)*. (1959, January 30). <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
+[^36]: [Tiga kesah dlm satu gambar](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19590130-1.2.70). (1959, January 30). <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
 
-[^37]: Ferroa, R. (1948, June 1). *[Putting them wise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480601-1.2.27.6)*. <i>The Singapore Free Press</i>, p. 2. Retrieved from NewspaperSG.
+[^37]: Ferroa, R. (1948, June 1). [Putting them wise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480601-1.2.27.6). <i>The Singapore Free Press</i>, p. 2. Retrieved from NewspaperSG.
 
-[^38]: *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480601-1.2.27.6)*, 1 Jun 1948, p. 2; *[1,000 workers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620519-1.2.28)* benefitted. (1962, May 19). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+[^38]: *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480601-1.2.27.6)*, 1 Jun 1948, p. 2; [1,000 workers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620519-1.2.28) benefitted. (1962, May 19). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
 [^39]: *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480601-1.2.27.6)*, 1 Jun 1948, p. 2.
 
-[^40]: *[Hamlet in 3,070 ch8aracters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480825-1.2.84)*. (1948, August 25). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+[^40]: [Hamlet in 3,070 ch8aracters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480825-1.2.84). (1948, August 25). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-[^41]:  *[New sub-titling to help Chinese film fans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530419-1.2.28)*. (1953, April 19). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
+[^41]:  [New sub-titling to help Chinese film fans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530419-1.2.28). (1953, April 19). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
-[^42]:  *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530419-1.2.28)*, 19 Apr 1953, p. 3; *[Filem mini penoh dengan lagu2 yang tetap menghibor](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19610311-1.2.72)*. (1961, March 11). <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
+[^42]:  *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530419-1.2.28)*, 19 Apr 1953, p. 3; [Filem mini penoh dengan lagu2 yang tetap menghibor](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19610311-1.2.72). (1961, March 11). <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
 
-[^43]: Lim, K.C. (1989, January 14). *[Golden movies of P Ramlee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890114-1.2.14.1)*. <i>The New Paper</i>, p. 12. Retrieved from NewspaperSG.
+[^43]: Lim, K.C. (1989, January 14). [Golden movies of P Ramlee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890114-1.2.14.1). <i>The New Paper</i>, p. 12. Retrieved from NewspaperSG.
 
-[^44]:  *[Halaman 8 iklan ruangan 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640505-1.2.96.1)*. (1964, May 5). <i>Berita Harian</i>, p. 8; *[Halaman 10 iklan ruangan 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640422-1.2.99.1)*. (1964, April 22). <i>Berita Harian</i>, p. 10. Retrieved from NewspaperSG.
+[^44]:  [Halaman 8 iklan ruangan 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640505-1.2.96.1). (1964, May 5). <i>Berita Harian</i>, p. 8; [Halaman 10 iklan ruangan 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640422-1.2.99.1). (1964, April 22). <i>Berita Harian</i>, p. 10. Retrieved from NewspaperSG.
 
-[^45]:  Bahyah Mahmud. (1965, October 16). *[Suami Sarimah akan menarek diri dari dunia perfileman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19651016-1.2.70)*. <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
+[^45]:  Bahyah Mahmud. (1965, October 16). [Suami Sarimah akan menarek diri dari dunia perfileman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19651016-1.2.70). <i>Berita Harian</i>, p. 7. Retrieved from NewspaperSG.
 
 [^46]:  Anwardi Jamil. (2007, November 9). Anak wayang. <i>People I remember in MFP</i>. Retrieved from sayaanakwayang.blogspot.com website.
 
