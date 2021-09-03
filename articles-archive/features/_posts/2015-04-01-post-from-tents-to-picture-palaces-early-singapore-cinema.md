@@ -161,9 +161,9 @@ Zamberi A. Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](http
 
 #### **NOTES**
 
-[^1]: Millet, R. (2006). *[Singapore cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)* (p. 16). Singapore Editions Didier Millet. (Call no.: RSING q791.43095957 MIL); *[Thirty years of film entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.49)*. (1932, January 2). <i>The Singapore Free Press</i>, p. 20. Retrieved from NewspaperSG.
+[^1]: Millet, R. (2006). *[Singapore cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)* (p. 16). Singapore Editions Didier Millet. (Call no.: RSING q791.43095957 MIL); [Thirty years of film entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.49). (1932, January 2). <i>The Singapore Free Press</i>, p. 20. Retrieved from NewspaperSG.
 
-[^2]: Busrai is likely a reference to Messrs Busrai Co. a company dealing with unique products such as the Perpetual Pencil and the Dragon Pen. They were also owners of the Royal Bioscope which screened movies at a Beach Road tent at the end of 1902. The screening moved to the Hill Street location only on 10 January 1903. *[Page 2 Advertisements Column 3:The American Biograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19020421-1.2.8.3)*. (1902, April 21). <i>The Singapore Free Press</i>, p. 2; *[Page 4 Advertisements Column 1: The American Biograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020423-1.2.30.1)*. (1902, April 23). <i>The Straits Times</i>, p. 4; *[Page 5 Advertisements Colum 3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021017-1.2.62.3)*. (1902, October 17).  <i>The Straits Times </i>, p. 5; [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030110-1.2.29). (1903, January 10).  <i>The Straits Times </i>, p. 4. Retrieved from NewspaperSG.
+[^2]: Busrai is likely a reference to Messrs Busrai Co. a company dealing with unique products such as the Perpetual Pencil and the Dragon Pen. They were also owners of the Royal Bioscope which screened movies at a Beach Road tent at the end of 1902. The screening moved to the Hill Street location only on 10 January 1903. [Page 2 Advertisements Column 3:The American Biograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19020421-1.2.8.3). (1902, April 21). <i>The Singapore Free Press</i>, p. 2; [Page 4 Advertisements Column 1: The American Biograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020423-1.2.30.1). (1902, April 23). <i>The Straits Times</i>, p. 4; [Page 5 Advertisements Colum 3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021017-1.2.62.3). (1902, October 17).  <i>The Straits Times </i>, p. 5; [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030110-1.2.29). (1903, January 10).  <i>The Straits Times </i>, p. 4. Retrieved from NewspaperSG.
 
 [^3]: Makepeace, W., Brooke, G.E. &amp; Braddell, R.St.J. (1991). *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)* (Vol. 2; pp. 477–478). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 
@@ -173,13 +173,13 @@ Zamberi A. Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](http
 
 [^6]: [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18830205-1.2.13). (1883, February 5).  <i>The Straits Times </i>, p. 2. Retrieved from NewspaperSG.
 
-[^7]: *[Local and general](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870713-1.2.7)*. (1887, July 13).  <i>Straits Times Weekly Issue </i>, p. 2. Retrieved from NewspaperSG.
+[^7]: [Local and general](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870713-1.2.7). (1887, July 13).  <i>Straits Times Weekly Issue </i>, p. 2. Retrieved from NewspaperSG.
 
-[^8]: *[Magic Lantern entertainment](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/middayherald18950823-1.2.11)*. (1895, August 23).  <i>The Mid-Day Herald </i>, p. 3. Retrieved from NewspaperSG.
+[^8]: [Magic Lantern entertainment](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/middayherald18950823-1.2.11). (1895, August 23).  <i>The Mid-Day Herald </i>, p. 3. Retrieved from NewspaperSG.
 
-[^9]: *[Edison’s kinetoscope](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18960713-1.2.42)*. (1896, July 13).  <i>The Straits Times </i>, p. 2. Retrieved from NewspaperSG.
+[^9]: [Edison’s kinetoscope](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18960713-1.2.42). (1896, July 13).  <i>The Straits Times </i>, p. 2. Retrieved from NewspaperSG.
 
-[^10]: *[Page 2 Advertisements Column 2: The Ripograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970520-1.2.30.2)*. (1897, May 20).  <i>The Straits Times </i>, p. 2. Retrieved from NewspaperSG
+[^10]: [Page 2 Advertisements Column 2: The Ripograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970520-1.2.30.2). (1897, May 20).  <i>The Straits Times </i>, p. 2. Retrieved from NewspaperSG
 
 [^11]: Uhde, J., &amp; Udhe, Y.N. (2010). *[Latent images: Film in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916)* (p. 2). Singapore: Ridge Books. (Call no.: RSING 384.8095957 UHD)
 
