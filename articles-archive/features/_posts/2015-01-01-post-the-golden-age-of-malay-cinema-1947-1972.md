@@ -236,25 +236,25 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^46]:  Anwardi Jamil. (2007, November 9). Anak wayang. <i>People I remember in MFP</i>. Retrieved from sayaanakwayang.blogspot.com website.
 
-[^47]:  *[The odd job](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050809-1.2.123.137)*. (2005, August 9). <i>The Straits Times</i>, p. 94. Retrieved from NewspaperSG.
+[^47]:  [The odd job](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050809-1.2.123.137). (2005, August 9). <i>The Straits Times</i>, p. 94. Retrieved from NewspaperSG.
 
 [^48]:  Jamil Sulong. (1990). *[Kaca permata: Memoir seorang pengarah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934)* (pp. 24–25, 54). Kuala Lumpur: Dewan Bahasa and Pustaka. (Call no.: Malay RSING 799.4309595 JAM)
 
-[^49]:  *[Jamil](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934)*, 1990, pp. 22–25.
+[^49]:  [Jamil](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934), 1990, pp. 22–25.
 
 [^50]:  Van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and national cultures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11901462)* (p. 259). Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN)
 
-[^51]: *[Jamil](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934)*, 1990, p. 35; Salma Semono. (2003, March 6). *[Pahit manis pengelola majalah hiburan zaman 60-sanh](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030306-1.2.24.1)*. <i>Berita Harian</i>, p. 11; *[Bintang2 filem mangsa2 banjir](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19670120-1.2.12)*. (1967, January 20). <i>Berita Harian</i>, p. 2; *[Lukisan dalam pameran: Bantas keras](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19620929-1.2.16)*. (1962, September 29). <i>Berita Harian</i>, p. 2. Retrieved from NewspaperSG.
+[^51]: [Jamil](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934), 1990, p. 35; Salma Semono. (2003, March 6). [Pahit manis pengelola majalah hiburan zaman 60-sanh](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030306-1.2.24.1). <i>Berita Harian</i>, p. 11; [Bintang2 filem mangsa2 banjir](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19670120-1.2.12). (1967, January 20). <i>Berita Harian</i>, p. 2; [Lukisan dalam pameran: Bantas keras](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19620929-1.2.16). (1962, September 29). <i>Berita Harian</i>, p. 2. Retrieved from NewspaperSG.
 
-[^52]: Lim, M.S. (1982, April 14). *[Those huge cinema posters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820414-1.2.135.2.3)*. <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+[^52]: Lim, M.S. (1982, April 14). [Those huge cinema posters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820414-1.2.135.2.3). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-[^53]: *[Jamil](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934)*, 1990, p. 35; Farith Faruqi Sidek. (2013, June 21). <i>Kitab tawarikh</i>. A.V. bapat: Dari Bombay ke Kuala Lumpur, sentuhan sninya merentasi zaman. Retrieved from harithsidek blogspot
+[^53]: [Jamil](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498934), 1990, p. 35; Farith Faruqi Sidek. (2013, June 21). <i>Kitab tawarikh</i>. A.V. bapat: Dari Bombay ke Kuala Lumpur, sentuhan sninya merentasi zaman. Retrieved from harithsidek blogspot
 
-[^54]: Magiar Simen. (1967, October 27). *[Jins tidak terlibat dalam tindakan majikan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19671027-1.2.70)*. <i>Berita Harian</i>, p. 5. Retrieved from NewspaperSG.
+[^54]: Magiar Simen. (1967, October 27). [Jins tidak terlibat dalam tindakan majikan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19671027-1.2.70). <i>Berita Harian</i>, p. 5. Retrieved from NewspaperSG.
 
-[^55]: Tang, G. (1980, July 11). *[Keeping you posted on the latest movie](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800711-1.2.128.7.3)*. <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
+[^55]: Tang, G. (1980, July 11). [Keeping you posted on the latest movie](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800711-1.2.128.7.3). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
-[^56]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800711-1.2.128.7.3)*, 11 Jul 1980, p. 3; *[Billboard beem ended in 80s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19930205-1.2.49)*. (1993, February 5). <i>The New Paper</i>, p. 22. Retrieved from NewspaperSG.
+[^56]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800711-1.2.128.7.3)*, 11 Jul 1980, p. 3; [Billboard beem ended in 80s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19930205-1.2.49). (1993, February 5). <i>The New Paper</i>, p. 22. Retrieved from NewspaperSG.
 
 [^57]: *[The New Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19930205-1.2.49)*, 5 Feb 1993, p. 22.
 
