@@ -148,7 +148,7 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^2]: [Amir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13702621), 2010, pp. 120–121; Harding, J., &amp; Ahmad Sarji. (2002). *[P. Ramlee: The bright star](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11727520)* (pp. 98–99). Selangor, Malaysia: Pelanduk Publications. (Call no.: RSEA 791.43028092 HAR)
 
-[^3]: Hassan Abd. Muthalib. (2013). P. Ramlee: Birth of an enduring legend. In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)* (p. 55). Selangor, Malaysia: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS); Mafoot Simon. (1983, May 31). *[Tribute to an artiste of varied talents](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830531-1.2.168.6.1)*. <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+[^3]: Hassan Abd. Muthalib. (2013). P. Ramlee: Birth of an enduring legend. In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)* (p. 55). Selangor, Malaysia: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS); Mafoot Simon. (1983, May 31). [Tribute to an artiste of varied talents](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830531-1.2.168.6.1). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
 [^4]: *[Hassan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*, 2013, p. 55; Mafoot Simon. (1997, May 29). *[No one has come close to him](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970529-1.2.94.5.2)*. <i>The Straits Times</i>, p. 11. Retrieved from NewspaperSG.
 
