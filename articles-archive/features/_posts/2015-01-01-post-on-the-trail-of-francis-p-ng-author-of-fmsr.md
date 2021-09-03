@@ -128,7 +128,7 @@ With this news, my laborious and slightly futile one-year search suddenly took o
 
 |<i>If the name Teo Poh Leng is even remotely familiar to you, please contact the author of this article at eriko.ogiharaf@udo.edu </i>|
 
-|<i>The National Library Board, Singapore holds two copies of</i> F.M.S.R. <i>which are kept at the Lee Kong Chian Reference Library on level 11 of the National Library. A microfilm copy shelved at NL 16347 is available for reference. Note: only four other libraries in the world hold copies of this book. </i>|
+|<i>The National Library Board, Singapore holds two copies of </i> F.M.S.R.<i> which are kept at the Lee Kong Chian Reference Library on level 11 of the National Library. A microfilm copy shelved at NL 16347 is available for reference. Note: only four other libraries in the world hold copies of this book. </i>|
 
 |<i>The writer would like to thank Ruth Chia, Joe Conceicao, Robbie Goh, Philip Holden, Koh Tai Ann, Catherine Lim, Janet Lim, Juliana Lim, Lim Su Min, Ng Ching Huei, Rajeev S. Patke, Valerie Siew, Peggy Tan, Edwin Thumboo, Medona Walter, Wang Gungwu, Richard Angus Whitehead and Ina Zhang Xing Hong – for their inputs in this project, and Harold Johnson for assisting her through the research process. </i>|
 
