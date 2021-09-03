@@ -34,7 +34,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Giacomo Gastaldi (circa 1500–65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
 
-|<img src="/images/vol-10-issue-4/raremap/gerard.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. *Wikimedia Commons.*|
+|<img src="/images/vol-10-issue-4/raremap/gerard_re.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. *Wikimedia Commons.*|
 
 |Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3]|
 
@@ -49,7 +49,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]|
 
-|<img src="/images/vol-10-issue-4/raremap/Abraham.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. *Wikimedia Commons*|
+|<img src="/images/vol-10-issue-4/raremap/Abraham_re.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. *Wikimedia Commons*|
 
 |Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula.|
 
@@ -65,7 +65,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Theodore de Bry (1528–98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.[^7]|
 
-|<img src="/images/vol-10-issue-4/raremap/theodor.jpg">A portrait of Theodore de Bry. *Wikimedia Commons.*|
+|<img src="/images/vol-10-issue-4/raremap/theodor_re.jpg">A portrait of Theodore de Bry. *Wikimedia Commons.*|
 
 |He is famous for compiling a well-illustrated collection of voyages and travels to the East and West Indies, which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.[^8]|
 
@@ -81,12 +81,12 @@ The National Library’s collection of rare maps is an important source for the 
 
 <br>
 
-|**SEBASTIAN MüNSTER**|
+|**SEBASTIAN MÜNSTER**|
 
 |Sebastian Münster (1489–1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
 
 
-|<img src="/images/vol-10-issue-4/raremap/sebastien.jpg">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. *Wikimedia Commons.*|
+|<img src="/images/vol-10-issue-4/raremap/sebastien_re.jpg">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. *Wikimedia Commons.*|
 
 |Münster was widely known for <i>Cosmographia</i>, first published in 1544, which features several woodcut maps illustrated with vignettes and fanciful creatures.[^12] He was also the first to introduce a separate map for each of the four continents – Europe, Africa, Asia and America – known then.[^13]|
 
@@ -104,7 +104,7 @@ The National Library’s collection of rare maps is an important source for the 
 |Samuel Thornton (fl. 1703–39) was an English hydrographer.[^17] His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as <i>Oriental Navigation</i>, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.[^18]|
 
 
-|<img src="/images/vol-10-issue-4/raremap/thornton.jpg">Portrait of Samuel Thornton by Karl Anton Hickel. *Collection of Bank of England*.|
+|<img src="/images/vol-10-issue-4/raremap/thornton_re.jpg">Portrait of Samuel Thornton by Karl Anton Hickel. *Collection of Bank of England*.|
 
 |Samuel Thornton took over his brother’s business in 1706 and re-issued the charts under his own name. The chart below is from Samuel Thornton’s re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea passage rather than to the island or city.|
 
