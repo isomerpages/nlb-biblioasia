@@ -19,7 +19,7 @@ Maps, atlases and globes are often used metaphorically to represent power (real 
 
 
 <img  src="/images/vol-10-issue-4/geo-geographic/Jahangir_reformat.jpg">
-<div style="background-color: white;">Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. </i>The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©</i></div>
+<div style="background-color: white;">Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. <i>The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©</i></div>
 	
 Maps have a special significance in Singapore. Given the dearth of historical material on Singapore before the arrival of Stamford Raffles in 1819, pre-19th-century maps depicting the island act as important visual records of our early origins. The National Library's latest exhibition, "Land of Gold and Spices: Early Maps of Southeast Asia and Singapore", provides visitors with the unique opportunity to view these rare early maps. This exhibition is part of a larger festival of maps and mapping called "GeolGraphic: Celebrating Maps and Their Stories".
 
