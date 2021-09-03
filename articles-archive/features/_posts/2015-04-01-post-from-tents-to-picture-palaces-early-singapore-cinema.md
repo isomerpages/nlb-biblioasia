@@ -134,11 +134,11 @@ The 1933 film <i>Samarang</i> (see text box overleaf), styled as a pseudo-docume
 
 #### **REFERENCES**
 
-Chearavanont, N., Au, H., &amp; Ou, C.S. (2013). Film stories: Bangkok, Hong Kong, Singapore, Canton, San Francisco. Thailand: H. M. Ou. (Not available in NLB holdings)
+Chearavanont, N., Au, H., &amp; Ou, C.S. (2013). <i>Film stories: Bangkok, Hong Kong, Singapore, Canton, San Francisco.</i> Thailand: H. M. Ou. (Not available in NLB holdings)
 
 Chearavanont, N., Au, H., &amp; Ou, C.S. (2014). *[Movie stories](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203097465)*. Hong Kong: H. M. Ou. (Call no.: RSEA 791.43095125 CHE)
 
-Hang Tuah Arshad. (2004–2007). *[Malay movies: Select movie leaflets](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13048583)*. Kuala Lumpur: Meoral Publishing House. (Call no.: RSEA 791.4309595 MAL)
+Hang Tuah Arshad. [2004–2007]. *[Malay movies: Select movie leaflets](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13048583)*. Kuala Lumpur: Meoral Publishing House. (Call no.: RSEA 791.4309595 MAL)
 
 Makepeace, W., Brooke, G.E. &amp; Braddell, R.St.J. (1991). *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)* (Vol. 2; pp. 477–478). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 
@@ -152,7 +152,7 @@ Tofighian, N. (2013). *[Blurring the colonial binary-turn-of-the-century transna
 
 Uhde, J., &amp; Udhe, Y.N. (2010). *[Latent images: Film in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916)*. Singapore: Ridge Books. (Call no.: RSING 384.8095957 UHD)
 
-Uhde, J., &amp; Udhe, Y. N. (2013, April–June). The Immigrant: Singapore’s first feature (p. 37). Cinemateque. Singapore: National Museum of Singapore. Retrieved from Usma Ismail Academia website.
+Uhde, J., &amp; Udhe, Y. N. (2013, April–June). The Immigrant: Singapore’s first feature (p. 37). <i>Cinemateque</i>. Singapore: National Museum of Singapore. Retrieved from Usma Ismail Academia website.
 
 Van der Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and national cultures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11901462)* (p. 126). Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN)
 
@@ -227,22 +227,22 @@ Zamberi A. Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](http
 
 [^33]: [Tofighian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201359826), 2013, pp. 212–213; *[Page 1 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19031020-1.2.2.1)*. (1903, October 20). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
-[^34]: *[The Japanese cinematograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19061106-1.2.41)*. (1906, November 6). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 3. Retrieved from NewspaperSG.
+[^34]: [The Japanese cinematograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19061106-1.2.41). (1906, November 6). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 3. Retrieved from NewspaperSG.
 
-[^35]: *[Tofighian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201359826)*, 2013, pp. 136, 142–146.
+[^35]: [Tofighian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201359826), 2013, pp. 136, 142–146.
 
-[^36]: *[Latest in cinematography](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100721-1.2.49)*. (1910, July 21). <i>The Straits Times</i>, p. 6 Retrieved from NewspaperSG.
+[^36]: [Latest in cinematography](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100721-1.2.49). (1910, July 21). <i>The Straits Times</i>, p. 6 Retrieved from NewspaperSG.
 
 [^37]: Melies, D. (1913, September 4). A day at Singapore. <i>IMDB</i>. Retrieved from IMDD.com website; <i>On cinema</i>. (2009, February 16). <i>bithiam</i>. Retrieved from bthiam.wordpress.com.
 
-[^38]: *[Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)*, 2006, p. 20.
+[^38]: [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, p. 20.
 
-[^39]: *[“Out of the sea” off Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321009-1.2.64)*. (1932, October 9). <i>The Straits Times</i>, p. 9; *[The camera men are coming!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330618-1.2.47)* (1933, June 18). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+[^39]: [“Out of the sea” off Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321009-1.2.64). (1932, October 9). <i>The Straits Times</i>, p. 9; [The camera men are coming!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330618-1.2.47) (1933, June 18). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
 [^40]: Hu Ping. (2014). Of lost kampongs, fishnet bondage and remnant tombs in an equatorial Hollywood. <i>Sgfilmhunter</i>. Retrieved from sgfilmhunter.wordpress.com.
 
 [^41]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321009-1.2.64)*, 9 Oct 1932, p. 9; Samarang/Shark Woman. <i>Sgfilmhunter</i>. Retrieved from sgfilmhunter.wordpress.com.
 
-[^42]: *[Page 8 Advertisements Column 1: Samarang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19331001-1.2.43.1)*. (1933, October 1). <i>The Straits Times</i>, p. 8; *[The Alhambra](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330930-1.2.59)*. (1933, September 30). <i>The Singapore Free Press</i>, p. 9; *[Page 9 Advertisements Column 2: Alhambra](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340316-1.2.51.2)*. (1934, March 16). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+[^42]: [Page 8 Advertisements Column 1: Samarang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19331001-1.2.43.1). (1933, October 1). <i>The Straits Times</i>, p. 8; [The Alhambra](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330930-1.2.59). (1933, September 30). <i>The Singapore Free Press</i>, p. 9; [Page 9 Advertisements Column 2: Alhambra](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340316-1.2.51.2). (1934, March 16). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
 [^43]: Hall, M. (1933, June 29). Samarang. <i>The New York Times</i>. Retrieved from New York Times website.
