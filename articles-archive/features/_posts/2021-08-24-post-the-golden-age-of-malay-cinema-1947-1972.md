@@ -56,9 +56,10 @@ In all, more than 250 Malay-language films were produced in Singapore over the 2
 
 <i>The authors have jointly curated a book display “ The Golden Age of Malay Cinema”, at the Lee Kong Chian Reference Library, Level 8, National Library Building. The display ends on 30 May 2015.</i> 
 
-#### **NOT LOST IN TRANSLATION**
+#### ***Not* Lost in Translation**
 	
- Now, to increase my income, a friend of mine told me that, “Now, you can do some part-time work or subtitling for the film… In the pictures, we had to subtitle in English. He said, “You go to the studio, you write down the whole script yourself, then you write in English, you type it out, number it and then give it to the staff at the studio and they will do the work for you … But the amount of work was so much … after I’d finished my work in the evening at 5 o’clock, I go to the studio and work there until 12 o’clock…” (Bana Nazeem. 1981, November 22. Pioneers of Singapore (oral interview), reel 3, p. 3. Retrieved from the National Archives of Singapore) 
+ Now, to increase my income, a friend of mine told me that, “Now, you can do some part-time work or subtitling for the film… In the pictures, we had to subtitle in English. He said, “You go to the studio, you write down the whole script yourself, then you write in English, you type it out, number it and then give it to the staff at the studio and they will do the work for you … But the amount of work was so much … after I’d finished my work in the evening at 5 o’clock, I go to the studio and work there until 12 o’clock…” (Bana Nazeem. 1981, November 22. Pioneers of Singapore (oral interview), reel 3, p. 3. Retrieved from the National Archives of Singapore).
+ 
 After World War II, Shaw and Cathay realised that including subtitles in foreign-language films was a surefire way to attract local audiences to cinemas and ensure extended movie runs. Malay fans, enamoured of Bollywood films, soon formed snaking queues at Taj and Garrick cinemas in Geylang in the 1950s and 60s,[^35] thanks to the Malay subtitles in Hindi films.[^36] In fact, a decade before Hindustani megastar Dev Anand kept Malays gripped to their seats with his enigmatic fighting scenes, Chinese-educated masses in Singapore who did not understand English had already been drawn to American and British films because the screenings had included Chinese subtitles.[^37]
 
 Due to increasing demand, a pool of specialists and operators was employed to translate the foreign plots and lines.[^38] In 1948, it was reported that there was only a handful of such specialists in Singapore and their job was described as “one of the hardest and most exciting tasks in the cinema business”.[^39] For the 1948 blockbuster Hamlet, Cathay employed a Hong Kong graduate, Lau Shing-yuen, to translate and prepare slides for its Chinese film subtitles[^40] that were projected onto a small screen beneath the main screen. Getting the Chinese characters printed on the glass slides was a two-step process; first, painting the Chinese words in ink over the little glass slides followed by scratching the Chinese characters onto the glass surface with a metal stylus. 
@@ -71,13 +72,13 @@ Malay films of the 1950s and 60s, particularly P. Ramlee films, appealed to Mala
 <div style="background-color: white;">
 A Chinese flyer promoting <i>Anak Pontianak</i> (1958). <i>Directed by Roman Estella, produced by Malay Film Productions Ltd. Singapore/ Hong Kong, 1958</i></div>
 
-#### **TERJEMAHAN BERKESAN: SARIKATA DALAM FILEM MELAYU** 
+#### **Terjemahan Berkesan: Sarikata Dalam Filem Melayu** 
 
 Selepas perang, Shaw dan Cathay melihat kesan positif dari penggunaan sarikata (sub-titles) yang telah merancakkan lagi sambutan terhadap tayangan filem-filem bahasa asing mereka. Peminat filem dari masyarakat Melayu yang berduyun-duyun ke Taj dan Garrick di Geylang dalam 50an dan 60an terkena demam Bollywood kerana dapat memahami filem hindi menerusi sarikata yang disediakan dalam Bahasa Melayu. Bahkan sedekad sebelum Dev Anand memukau penonton Melayu dengan aksi pertarungannya yang hebat, penonton-penonton Cina di Singapura yang tidak fasih dalam bahasa Inggeris telahpun tertarik untuk menonton filem-filem dari Amerika dan Britain kerana tersedianya sarikata dalam bahasa Cina. Sekumpulan pakar dan operator penterjemah telah digajikan untuk menyiapkan sarikata filem. Pada 1948, dilaporkan hanya segelintir sahaja menjadi tenaga pakar ini dan mereka dikatakan memikul tugas yang paling sukar dan teruja dalam industri perfileman. Untuk filem blockbuster Hamlet yang ditayangkan dalam 1948, Cathay telah melantik seorang siswazah dari Hong Kong, Lau Shing-yuen, untuk menterjemah dan menyiapkan slides dalam bahasa Cina, yang kemudian dipancarkan ke skrin kecil di bawah tayangan gambar. Menyalin huruf Cina ke slides tersebut harus melalui dua tahap: melukis huruf degan Chinese ink dan memahat huruf Cina itu di atas slide kaca dengan stylus logam. Dalam 1953, cara ini telah diperbaharui kerana ianya hanya memuatkan plot filem secara ringkas dan kurang memaparkan jalan cerita dan dialog filem dengan sempurna. Untuk meningkatkan mutu terjemahan, sarikata sekarang dicetak langsung ke dalam filem dan ia dapat menghasilkan hampir 1000 sarikata bagi setiap filem. Cara baru ini dilancarkan di Hong Kong sebelum diperkenalkan di Singapura. 
 
 Filem-filem Melayu Shaw dan Cathay terutama karya P Ramlee disambut baik oleh masyarakat majmuk di Malaya kerana tema universalnya yang tidak kenal bahasa atau budaya. Filem klasik Melayu dapat dinikmati oleh peminat filem dari bangsa lain kerana disediakan sarikata dalam Bahasa Inggeris. Salah satu penterjemahnya ialah penulis Zulkifli Haji Muhammad yang mula menjalankan kerja-kerja sarikata di studio Jalan Ampas pada 1960 sebelum dilantik sebagai Penolong Pengarah. Mrs Wee, seorang lagi mantan pekerja Jalan Ampas dan teman kepada bintang legenda P Ramlee, banyak memeras tenaga untuk menyediakan sarikata untuk filem Melayu Shaw. Empat puluh tahun setelah studio Shaw ditutup pada 1967, beliau mengunjungi Jalan Ampas dan bangunan-bangunan renta di kawasan itu mengingatkan beliau kembali kepada hari-hari yang banyak beliau habiskan di salah satu Studio Shaw untuk menyunting dan mencetak sarikata ke dalam filem.
 
-#### **AKAN DATANG: THE ART OF THE FILM POSTER**
+#### **Akan Datang: The Art of the Filem Poster**
 
 "It’s been decades but I do remember some of the people my father [director Jamil Sulong] used to work with in Jalan Ampas. The one person I remember clearly was A. V. Bapat the art director for most of MFP’s movie[s]. If you manage to get a glimpse of the old Malay film posters – more than likely that it was his handiwork (like the Raja Bersiong poster…) I like the way he painted his posters…Uncle Bapat has long since passed on, … sad that sometimes his contributions to the Malay film industry is overlooked. As far as I know, he did sets, costumes and all art direction when he was at Jalan Ampas.[^46]"
 
@@ -97,7 +98,7 @@ Hand-painted film posters went through a boom from the 1950s until the 1970s wit
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/IMG_7443_2.jpg)
 <div style="background-color: white;">Hand-painted film posters were the rage from the 1950s to 70s but slowed down by the 80s. Here, Neo Choon Teck, one of Singapore’s last surviving billboard artists, reprises his work for the Singapore Short Film Awards in 2011. <i>Courtesy of SINdie</i> (www.sindie.sg).</div>
 
-#### **TAYANGAN AKAN DATANG: POSTER LUKISAN TANGAN**
+#### **Tayangan Akan Datang: Poster Lukisan Tangan**
 
 "Beberapa dekad telah berlalu tapi saya masih ingat dengan sekumpulan teman ayah yang dahulu bekerja di Jalan Ampas. Seorang yang masih segar di ingatan saya ialah A V Bapat, Pengarah Seni untuk kebanyakkan filem MFP (Malay Film Productions). Kalau anda dapat melihat poster filem Melayu lama (seperti poster Raja Bersiong…),kemungkinan besar ia adalah hasil karya beliau. Saya minat dengan cara beliau melukis poster… Pakcik Bapat telah lama pergi dan ia menyedihkan kadang kala sumbangan beliau kepada industri filem Melayu dilupakan. Setahu saya, beliau bertugas sebagai pereka set, pakaian dan semua kerja artistik semasa di Jalan Ampas. "
 
@@ -120,9 +121,9 @@ Permintaan untuk poster begitu rancak dari 50an ke 70an, hingga 100 keping boleh
 <div style="background-color: white;"><i>Raja Bersiong</i> is a 1968 historical film written by former Malaysian prime minister Tunku Abdul Rahman. © Raja Bersiong. <i>Directed by Jamil Sulong, produced by Malay Film Productions, 1968. </i></div>
 
 
-**Nor Afidah Bte Abd Rahman** is a Senior Librarian with the National Library of Singapore and a regular contributor to BiblioAsia. 
+<p style="font-size:15px;"><b>Nor Afidah Bte Abd Rahman</b> is a Senior Librarian with the National Library of Singapore and a regular contributor to BiblioAsia.</p>
 	
-**Michelle Heng** is a Librarian with the National Library of Singapore. She compiled and edited Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems (2012), and more recently, Selected Poems of Goh Poh Seng (2014).
+<p style="font-size:15px;"><b>Michelle Heng</b> is a Librarian with the National Library of Singapore. She compiled and edited Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems (2012), and more recently, Selected Poems of Goh Poh Seng (2014).</p>
 
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
