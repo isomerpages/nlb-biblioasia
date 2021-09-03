@@ -40,7 +40,7 @@ Following the strikes, Cathay-Keris released one of the most notable cult films 
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Maria_Menado_re.jpg)
 <div style="background-color: white;">
-Actress-producer Maria Menado (of the Pontianak movie fame) in 1960. K.F. Wong collection, courtesy of the National Archives of Singapore.</div>
+Actress-producer Maria Menado (of the <i>Pontianak</i> movie fame) in 1960. <i>K.F. Wong collection, courtesy of the National Archives of Singapore.</i></div>
 
 #### **A Steady Decline**
 
@@ -73,7 +73,7 @@ In all, more than 250 Malay-language films were produced in Singapore over the 2
 
 |Hand-painted film posters went through a boom from the 1950s until the 1970s with as many as 100 posters commissioned per film. In the past, as many as 10 painters would be mobilised to complete a big billboard requiring 100 pieces of plywood for mounting. As experienced painters retired and new blood could not be attracted to join the profession, dwindling manpower meant that only one painter was assigned to a poster.[^57] By 1980, Shaw had closed down its art studio that produced its posters[^58] and by the end of the 1980s, hand-painted posters had given way to their digital rivals.|
 
-|<img src="/images/vol-11-issue-1/malaycinema/IMG_7443_2.jpg">Hand-painted film posters were the rage from the 1950s to 70s but slowed down by the 80s. Here, Neo Choon Teck, one of Singapore’s last surviving billboard artists, reprises his work for the Singapore Short Film Awards in 2011. <i>Courtesy of SINdie</i> (www.sindie.sg).|
+|<img src="/images/vol-11-issue-1/malaycinema/IMG_7443_2.jpg">Hand-painted film posters were the rage from the 1950s to 70s but slowed down by the 80s. Here, Neo Choon Teck, one of Singapore’s last surviving billboard artists, reprises his work for the Singapore Short Film Awards in 2011. <i>Courtesy of SINdie (www.sindie.sg).</i>|
 
 |**Tayangan Akan Datang: Poster Lukisan Tangan**|
 
@@ -172,11 +172,11 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^14]: Lim, K.T., &amp; Yiu, T.C. (1991). *[Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)* (p. 119). Singapore: Landmark Books. (Call no.: RSING 791.43095957 LIM); *[Take one…reference book on Malay movie history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970814-1.2.73.25.3)*. (1997, August 14). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-[^15]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 119.
+[^15]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 119.
 
 [^16]: *[Zamberi &amp; Aimi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12741905)*, 2005, p. 154. Directed by B.S. Rajhans, <i>Buloh Perindu</i> gave Shaw Brothers their first taste of real competition. The big budget film was produced in Geva Colour and shot on location in Chuping, Perlis and showcased a line-up of film-stars such as Salleh Ghani, Shariff Medan, M. Amin, Raden Sudior, Bakarudin, Yusof Kelana, Raden Rafeah, Raden Sumiani, Rosni and Norsiah Yem.
 
-[^17]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 119
+[^17]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 119
 
 [^18]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, p. 163; Actors on strike today. (1957, March 16). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
@@ -184,15 +184,15 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^20]: Hassan Abd. Muthalib. (2013). Cathay-Keris – A different kind of Malay films (pp. 72–73). In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*. Petaling Jaya: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS) 
 
-[^21]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 120; Ramani, V. (2005, August 24). *[Scream queen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050824-1.2.44.1)*. Today, p. 32. Retrieved from NewspaperSG.
+[^21]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 120; Ramani, V. (2005, August 24). *[Scream queen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050824-1.2.44.1). Today, p. 32. Retrieved from NewspaperSG.
 
 [^22]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, p. 167.
 
 [^23]: *[Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)*, 2008, pp. 167–168.
 
-[^24]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 139; *[Film company goes into liquidation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671028-1.2.37)*. (1967, October 28). The Straits Times, p. 6; *[Studio jalan ampas di-katakan hendak di-tutup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19650508-1.2.8)*. (1965, May 8). <i>Berita Harian</i>, p. 1. Retrieved from NewspaperSG.
+[^24]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 139; *[Film company goes into liquidation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671028-1.2.37)*. (1967, October 28). The Straits Times, p. 6; *[Studio jalan ampas di-katakan hendak di-tutup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19650508-1.2.8)*. (1965, May 8). <i>Berita Harian</i>, p. 1. Retrieved from NewspaperSG.
 
-[^25]: *[Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*, 1991, p. 139; *[Film studio cutting down staff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650330-1.2.27)*. (1965, March 30). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+[^25]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 139; *[Film studio cutting down staff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650330-1.2.27)*. (1965, March 30). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
 [^26]: Amir Hamzah Shamsuddin. (1977, December 4). *[Dapatkan filem 2 Melayu rebut kembali zaman gemilangya?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19771204-1.2.66.1)* <i>Berita Harian</i>, p. 6. Retrieved from NewspaperSG.
 
