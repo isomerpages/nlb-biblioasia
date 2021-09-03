@@ -19,7 +19,7 @@ Maps, atlases and globes are often used metaphorically to represent power (real 
 
 
 <img  src="/images/vol-10-issue-4/geo-geographic/Jahangir_reformat.jpg">
-<div style="background-color: white;">Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©</div>
+<div style="background-color: white;">Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. </i>The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©</i></div>
 	
 Maps have a special significance in Singapore. Given the dearth of historical material on Singapore before the arrival of Stamford Raffles in 1819, pre-19th-century maps depicting the island act as important visual records of our early origins. The National Library's latest exhibition, "Land of Gold and Spices: Early Maps of Southeast Asia and Singapore", provides visitors with the unique opportunity to view these rare early maps. This exhibition is part of a larger festival of maps and mapping called "GeolGraphic: Celebrating Maps and Their Stories".
 
@@ -44,7 +44,7 @@ A highlight of the exhibition are several pre-1800 maps that contain names such 
 <br>
 
 <img   src="/images/vol-10-issue-4/geo-geographic/dutch.jpg">
-<div style="background-color: white;">The Dutch merchant/traveller and historian, Jan Huygen van Linschoten (1563–1611) is credited with writing a book on the navigational routes to the elusive East Indies (referring generally to India and Southeast Asia). The Portuguese, who at that time controlled the lucrative spice trade to Europe, kept such information secret. Sailing directions and accurate maps from Linschoten's book <i>Itinerario</i> (first published in 1596), later paved the way for the Dutch and British to venture to the region. This cropped detail of a larger map from the English edition of the <i>Itinerario</i>, published in 1598, shows "Sincapura" at the tip of the Malay Peninsula. Interestingly, Linschoten's map is oriented with the east at the top. with the entire region positioned on its side. <i>National Library of Singapore Collection</i>.</div>
+<div style="background-color: white;">The Dutch merchant/traveller and historian, Jan Huygen van Linschoten (1563–1611) is credited with writing a book on the navigational routes to the elusive East Indies (referring generally to India and Southeast Asia). The Portuguese, who at that time controlled the lucrative spice trade to Europe, kept such information secret. Sailing directions and accurate maps from Linschoten's book <i>Itinerario</i> (first published in 1596), later paved the way for the Dutch and British to venture to the region. This cropped detail of a larger map from the English edition of the <i>Itinerario</i>, published in 1598, shows "Sincapura" at the tip of the Malay Peninsula. Interestingly, Linschoten's map is oriented with the east at the top, with the entire region positioned on its side. <i>National Library of Singapore Collection</i>.</div>
 	
 #### **Island of Stories: Singapore Maps**
  
@@ -58,7 +58,7 @@ A special Geographic Information System (GIS) developed with the Urban Redevelop
 <div style="background-color: white;">This 1977 map depicts the findings of the very first comprehensive soil survey of Singapore. It is still the only known officially commissioned soil map of Singapore to date. The island's central area is made of hard granite, indicated in pink. This natural feature has influenced much of the urban development on the island, with most of the construction work taking place outside this central zone made up of softer alluvium and sedimentary rocks. <i>Survey Department, National Archives of Singapore Collection.</i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Island_of_Stories_Singapore_Maps.jpg)
-<div style="background-color: white;">This map, on display at "Island of Stories: Singapore Maps" organised by NAS, shows the positions of the British (in red) and Japanese military units (in blue) on 12 and 13 February 1942. The Battle for Singapore began on 8 February and after four days of intense fighting, Japanese forces broke through the initial British defences and captured the western half of the island, as depicted on the map. The British eventually surrendered on 15 February 1942. Courtesy of National Archives of the <i>United Kingdom; National Archives of Singapore Collection.</i></div>
+<div style="background-color: white;">This map, on display at “Island of Stories: Singapore Maps” organised by NAS, shows the positions of the British (in red) and Japanese military units (in blue) on 12 and 13 February 1942. The Battle for Singapore began on 8 February and after four days of intense fighting, Japanese forces broke through the initial British defences and captured the western half of the island, as depicted on the map. The British eventually surrendered on 15 February 1942. Courtesy of National Archives of the <i>United Kingdom; National Archives of Singapore Collection.</i></div>
 
 
 #### **Sea State 8 Seabook: An Art Project By Charles Lim**
@@ -72,7 +72,7 @@ A special Geographic Information System (GIS) developed with the Urban Redevelop
 This particular project is an extension of Lim's previous solo-exhibition, "In Search of Raffles' Light", held in 2013 at the National University of Singapore (NUS) Museum. Both these projects are part of Lim's body of work known as the SEA STATE series, which was first initiated in 2008 and continues with his exploration of Singapore's maritime ecology. Developed together with the librarians at NL, <i>seabook</i> highlights the vast amount of information and data gathered from maps, charts and newspaper clippings, as well as scholarly material grappling with the complex relationship between Singapore and the sea – from colonial times to the present day. The stories encompass the mundane – such as fishing as a livelihood, the everyday lives of island communities, regulations on the use of the sea for leisure and other purposes, as well as sea-related tragedies, including an attack on a girl by a swordfish in 1961. The exhibition, jointly organised by NUS Museum and NL, highlights the troubled relationship Singapore has with its seas and its continued undercurrents in our lives.
 	
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Charles_Lim_with_Janice_Loo.jpg)
-<div style="background-color: white;">Artist Charles Lim working on seabook with NL librarian, Janice Loo.</div>
+<div style="background-color: white;">Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.</div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg)
 <div style="background-color: white;">Close-up of Michael Lee's <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.</div>
@@ -85,7 +85,7 @@ This particular project is an extension of Lim's previous solo-exhibition, "In S
 <div style="background-color: white;">Stills from Sherman Ong's work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.</div>
 
 	
-#### **Mind The Gap: Mapping The Other** 
+#### **Mind the Gap: Mapping the Other** 
 
 Making up the art component of "GeolGraphic" is "Mind the Gap", which presents the works of three Singapore contemporary artists, who harness data collection and mapping to investigate what lies beneath the surface of contemporary life.
 	
