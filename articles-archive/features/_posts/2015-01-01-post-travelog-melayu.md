@@ -100,10 +100,6 @@ Sebagaimana tajuknya, syair ini menceritakan tentang perjalanan Sultan Lingga ke
 
 	(hlm 10-11) 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/sastera.jpg)
-<div style="background-color: white;"><i>Kembara Sastera</i>, written by Nisah Haron, was published in 2012 by Institut Terjemahan &amp; Buku Malaysia Berhad. Kepustakaan Populer Gramedia published <i>Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 3, Hikayat Abdullah by Amin Sweeney in 2008.</i>  </div>
-
-
 Benua Eropah juga antara tempat menarik yang menjadi bahan catatan sebilangan travelog Melayu. Antara ciri yang menarik perhatian para penulis catatan-catatan di benua Eropah ialah tentang alam sekitarannya terutama sekali keindahan atau kelainan cuaca empat musim serta ketenangan di kawasan-kawasan pergunungan dan luar kota. Keadaan geografi yang berbeza mungkin telah memberi inspirasi kepada mereka untuk melestarikannya di dalam tulisan. Tidak keterlaluan rasanya apabila catatan-catatan ini menunjukkan sedikit kekaguman terhadap amalan menjaga alam sekitar di sana. Ini adalah antara kesan-kesan lawatan sepertl yang tertinta di dalam buku “Menggembara ka-Andalusia” (1964) oleh Harun Aminurrashid. 
 
 "Pertengahan perjalanan hendak ka-Cordoba itu kita akan menempoh kawasan yang bergunung-gunung, yang ada berbatu, tetapi hampir semua kawasan itu menjadi ladang pokok zaitun. Saya tiada melihat hutan langsung, kalau hendak dikatakan hutan ialah hutan pokok zaitun iaitu ladang zaitun yang sangat elok aturan susunan tanamannya. Mengikut keterangan orang Sepanyol sendiri, ladang zaitun itu telah beratus-ratus tahun lamanya, dan dikatakan ada yang dapat hidup lebih daripada seribu tahun. Saya lihat lading-ladang zaitun itu, mana-mana yang pokoknya telah rosak atau mati ditanam semula dengan pokok baru. Dengan sebab itu ladang zaitun itu sentiasa penuh."
@@ -119,9 +115,15 @@ Hal yang sama tentang keindahan dan ketenangan tempat yang dilawati terutama di 
 
 "Sempai di pinggir tasik ini saya sungguh terpegun dan terasa seperti mahu menangis melihat keindahan tempat ini. Sesungguhnya, apabila kita menjaga alam, Tuhan akan balas dengan sebaik-baiknya. Tasiknya dan kawasan bukitnya cantik tidak tergambar oleh kata-kata. Semuanya bagai tidak terusik oleh tangan manusia. Betapa besarnya wakaf yang telah ditinggalkan oleh pengarang-pengarang seperti Beatrix Potter untuk tempat ini dinikmati oleh generasi hari ini."
 
-|(Kembara Sastera, Nisah Haron, hlm 13)|
+(Kembara Sastera, Nisah Haron, hlm 13)
 
 Timur Tengah merupakan sebuah lagi benua yang sering dilawati dan kemudiannya menjadi catatan kembara. Mesir, Syam (Syria), Tunisia dan Maghribi adalah antara negeri-negeri yang pernah ditulis sebagai travelog. 
+
+![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/sastera.jpg)
+<div style="background-color: white;"><i>Kembara Sastera</i>, written by Nisah Haron, was published in 2012 by Institut Terjemahan &amp; Buku Malaysia Berhad. Kepustakaan Populer Gramedia published <i>Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 3, Hikayat Abdullah by Amin Sweeney in 2008.</i>  </div>
+
+![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/Warkah_Eropah.jpg)
+<div style="background-color: white;"><i>Warkah Eropah</i> by A. Samad Said was published in 1991 by Dewan Bahasa and Pustaka. </div>
 
 Paling popular sudah tentu perjalanan setiap Muslim yang digalakkan sekurang-kurangnya sekali seumur hidup iaitu perjalanan agung mengerjakan ibadat Haji. Namun, setiap pahit maung dalam perjalanan, terutama sekali semasa belum terdapat kemudahan moden, seringkali diiringi dengan rasa syukur setiap penggembara, seperti yang diungkapkan oleh Harun Aminurrashid apabila sampai ke kota suci Mekah dan melihat Kaabah, 
 
@@ -137,10 +139,6 @@ Akhir kata, travelog-travelog Melayu yang pernah diterbitkan ini merupakan bahan
 
 <p style="font-size:15px;"><b>Juffri Supa’at</b> is a Senior Librarian with the National Library of Singapore. He has curated several exhibitions that feature the works of literary pioneers such as Masuri S.N., Muhammad Ariff Ahmad and Abdul Ghani Hamid. Juffri has compiled poetry selections by Muhammad Ariff Ahmad and Suratman Markasan, and has put together bibliographies on Singapore Malay literature and its pioneer writers.</p>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/Warkah_Eropah.jpg)
-<div style="background-color: white;"><i>Warkah Eropah</i> by A. Samad Said was published in 1991 by Dewan Bahasa and Pustaka. </div>
-
-
 <a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **Rujukan**
@@ -148,7 +146,7 @@ A Samad Said. (1991). *[Warkah Eropah](https://eservice.nlb.gov.sg/item_holding.
 
 Farid Rashid. (2011). *[Travelog debu-debu kota 1000 menara](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14114951)*. Kuala Lumpur: Must Read. (Call no.: Malay R 916.204 FAR)
 
-Han, M.L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore, 1819–1940. Sojourn: Journal of Social Issues in Southeast Asia, 18 (2), 257–278. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
+Han, M.L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore, 1819–1940. *Sojourn: Journal of Social Issues in Southeast Asia*, 18 (2), 257–278. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Harun Aminurrashid. (1953). *[Melawat ke Paris](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4520819)*. Singapura: Royal Press. (Call no. Malay RCLOS 944.36 HAR)
 
@@ -166,12 +164,12 @@ Harun Aminurrashid. (1965). *[Mengembara ka-Andalusia](https://eservice.nlb.gov.
 
 Harun Aminurrashid. (1965). *[Melawat negara tetangga](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12929667)*. Singapura: Pustaka Melayu. (Call no.: Malay RCLOS 915 HAR)
 
-Khalid Hitam bin Raja Hasan. (2002). *[Bahwa inilah Syair perjalanan Sultan Lingga dan yang Dipertuan Muda Riau pergi ke Singapura dan peri keindahan istana Sultan Johor yang amat elok](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11927551)*. Pekanbaru. Riau: Proyek Pembinaan Bahasa dan Sastra Daerah Riau, Dinas Kebudayaan, Kesenian dan Pariwisata. (Call no.: Malay R 899.281 KHA)
+Khalid Hitam bin Raja Hasan. (2002). *[Bahwa inilah Syair perjalanan Sultan Lingga dan yang Dipertuan Muda Riau pergi ke Singapura dan peri keindahan istana Sultan Johor yang amat elok](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11927551)*, Pekanbaru. Riau: Proyek Pembinaan Bahasa dan Sastra Daerah Riau, Dinas Kebudayaan, Kesenian dan Pariwisata. (Call no.: Malay R 899.281 KHA)
 
-Lucchesi, F. (1996, January). Geographic memories in travelogue literature: The Australian landscape in the writing of Italian travellers. GeoJournal, 38 (1), 129–136. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
+Lucchesi, F. (1996, January). Geographic memories in travelogue literature: The Australian landscape in the writing of Italian travellers. *GeoJournal*, 38 (1), 129–136. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Nisah Haji Haron. (2012). *[Kembara sastera Nisah Haron: United Kingdom dan Dublin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14359588)*. Kuala Lumpur: ITBM. (Call no.: Malay R 899.2809 NIS)
 
-Raimy Che-Ross. (2003). Syair Peri Tuan Raffles pergi ke Minangkabau A Malay account of Raffle’s second expedition to the Sumatran Highland in 1819: Based partially on prefatory material by the Hon. Dudley Francis Amelius Hervey CMG JP, Resident Councillor Malacca (1882–1893). Journal of the Malaysian Branch of the Royal Asiatic Society, 76 (2) (285), 25–80. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
+Raimy Che-Ross. (2003). Syair Peri Tuan Raffles pergi ke Minangkabau A Malay account of Raffle’s second expedition to the Sumatran Highland in 1819: Based partially on prefatory material by the Hon. Dudley Francis Amelius Hervey CMG JP, Resident Councillor Malacca (1882–1893). *Journal of the Malaysian Branch of the Royal Asiatic Society*, 76 (2) (285), 25–80. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Sweeney, A. (2005). *[Karya lengkap Abdullah bin Abdul Kadir Munsyi. Jilid 1, Kisah pelayaran Abdullah ke Kelantan: Kisah pelayaran Abdullah ke Mekah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12729835)*. Jakarta: Kepustakaan Populer Gramedia. (Call no.: Malay RSING 959.5 KAR)
