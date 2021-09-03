@@ -96,12 +96,11 @@ The 1933 film <i>Samarang</i> (see text box overleaf), styled as a pseudo-docume
 |<i>Samarang</i> is the first Hollywood film about Singapore where the lead actors were locals, with Capt. A.V. Cockle playing the role of Ahmang, the North Bornean Dayak hero, and Theresa Seth as Sai-Yu, the Chinese beauty. Although both actors lived in Singapore, they were not of Asian descent - Cockle, from Britain, was an Inspector of Police based here and Seth was the daughter of an Armenian businessman who had settled in Singapore.[^40] The leads were obviously chosen for their telegenic looks: Cockle had the brawny physique of a swimmer and Seth was a beauty pageant contestant. Several locals, many of whom were experienced <i>bangsawan</i> actors, undertook bit parts while much of the kampong scenes featured its own local residents.[^41]|
 
 |<i>Samarang</i> was screened in the US in 1933 to rave reviews. The film’s popularity might have been due to its novelty but also possibly because Sai-Yu is topless for most of the second half of the film. It was first screened at the Alhambra in September 1933 and later at the Marlborough in 1934, where it was hailed as Singapore’s first talkie[^42] - although reviewers noted that it was “virtually a silent film except for a synchronized music score and occasional choral singing. The action (was) explained by subtitles, and although there (were) melodramatic episodes, they (were) for the most part set forth with… little skill.”[^43]|
-
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/samarang_1933.jpg)
-<div style="background-color: white;">Poster of Samarang. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. Courtesy of Wong Han Min. </div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/leilaMajnun.jpg)
-<div style="background-color: white;">Advertisements for the opening of Leila Majnun (1934). © Singapore Press Holdings. All rights reserved. The Straits Times.</div>
+|<img src="/images/vol-11-issue-1/earlysgcinema/samarang_1933.jpg">Poster of Samarang. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. Courtesy of Wong Han Min.|
+	
+|<img src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun.jpg">Advertisements for the opening of Leila Majnun (1934). © Singapore Press Holdings. All rights reserved. The Straits Times.|
+	
 
 |**Xin Ke (新客, The New Immigrant)**|
 
