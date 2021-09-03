@@ -4,14 +4,10 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/darwin-and-wallace
 layout: post
 ---
-
 #### Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things, **Dr John van Wyhe** addresses the misconception that Darwin cheated Wallace of his rightful place in history. 
 
 
-<i>This article is based on the talk “Darwin and Wallace” given by Dr John van Wyhe as part of the National Library's Prominent Speaker Series. Held on 31 July 2014 at the National Library Building, the talk was based on two of Dr van Wyhe’s recent books:</i> Charles Darwin in Cambridge: The Most Joyful Years and Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin. 
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/darwin.jpg)
-<div style="background-color: white;">Photograph of Charles Darwin, 1854.</div>
+<i>This article is based on the talk “Darwin and Wallace” given by Dr John van Wyhe as part of the National Library's Prominent Speaker Series. Held on 31 July 2014 at the National Library Building, the talk was based on two of Dr van Wyhe’s recent books:</i> Charles Darwin in Cambridge: The Most Joyful Years <i>and</i> Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin. 
 
 Charles Darwin and Alfred Russel Wallace are best remembered as the co-proposers of the theory of evolution by natural selection. Now, over 150 years later, evolution is the foundation of the life sciences and more. It is no wonder that Darwin and Wallace remain some of the most important figures in the history of science. Yet, despite all that has been written about them over the years, historical research is still turning up surprising new findings about their lives, their science, and how they came to change our understanding of life on earth forever. 
 
@@ -19,25 +15,22 @@ Many believe that Wallace has been overlooked and denied his rightful fame for h
 
 Charles Darwin (1809—1882) is one of the most intensely studied scientists in history, and has been for over a century. But one area of his life that has remained comparatively unexamined is his formative years as a student at the University of Cambridge. For the rest of his life Darwin held a particular affection for Cambridge. For a time he even considered a Cambridge professorship as a career. He later sent three of his sons there to be educated. Yet, the traces of what Darwin actually did and experienced as a student in Cambridge have remained undiscovered, and the details of his day-to-day life there are either largely unknown or misunderstood. 
 
-
-#### **Willage in The Malay Archipelago Darwin in Cambridge** 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/darwin.jpg)
+<div style="background-color: white;">Photograph of Charles Darwin, 1854.</div>
 
 ##### **Darwin in Cambridge** 
 
-Darwin entered the books as an undergraduate student at Christ's College, Cambridge, on 15 October 1827, but as he had forgotten most of his schoolboy Greek he had to be tutored at home before entering Cambridge. (Why this mattered is explained in <i>Darwin in Cambridge; The Most Joyful rears.</i>[^2]) This meant he did not arrive in Cambridge until January 1828 – and by then all the rooms in the college were filled. So he took lodgings above the tobacconist shop across the street. The owner had an arrangement with Christ's College so that its students could rent rooms there, though this sometimes led to complaints. For instance, the shop owner across the street from the tobacconist would complain to the Master of the College that students kept knocking the hats off unwary passers-by along the street by flicking a long horsewhip from their first floor windows. 
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/alfred_re.jpg)
-<div style="background-color: white;">Alfred Russel Wallace in Singapore in 1862. Merchant, James ed. 1916. <i>Alfred Ruessel Wallace Letters and Reminiscences.</i></div>
+Darwin entered the books as an undergraduate student at Christ's College, Cambridge, on 15 October 1827, but as he had forgotten most of his schoolboy Greek he had to be tutored at home before entering Cambridge. (Why this mattered is explained in <i>Darwin in Cambridge: The Most Joyful years.</i>[^2]) This meant he did not arrive in Cambridge until January 1828 – and by then all the rooms in the college were filled. So he took lodgings above the tobacconist shop across the street. The owner had an arrangement with Christ's College so that its students could rent rooms there, though this sometimes led to complaints. For instance, the shop owner across the street from the tobacconist would complain to the Master of the College that students kept knocking the hats off unwary passers-by along the street by flicking a long horsewhip from their first floor windows. 
 	
 For many years it has been repeated that Darwin was a theology student at Cambridge. This is not true. There was no such undergraduate degree. Instead, Darwin was registered for an ordinary Bachelor of Arts (BA) degree. It was his intention to become a clergyman, but such training could take place only after receiving the prerequisite B.A. In the end, Darwin never undertook any divinity training. 
 
-In November 1828, Darwin moved into a set of rooms in Christ's College, as he later recalled. “in old court, middle stair-case, on right-hand on going into court, up one flight, right-hand door and capital rooms they were.” They were indeed comfortable and recently discovered college record books reveal that Darwin's rooms were the most expensive at €4 per quarter. The record books also reveal that his college bills over three years amounted to about €700. This was a princely sum of money at the time. 
+In November 1828, Darwin moved into a set of rooms in Christ's College, as he later recalled, “in old court, middle stair-case, on right-hand on going into court, up one flight, right-hand door and capital rooms they were.” They were indeed comfortable and recently discovered college record books reveal that Darwin's rooms were the most expensive at €4 per quarter. The record books also reveal that his college bills over three years amounted to about €700. This was a princely sum of money at the time. 
 
 One of the more surprising findings about Darwin's daily life as a student was the mandatory attendance at the College Chapel. This in itself is no surprise, but what was previously unknown is that Darwin almost certainly took his turn at the medieval brass lectern and read from the Bible to the assembled members of the college. It is a striking and paradoxical image. Charles Darwin has probably been attacked more than any other scientist in history as being purportedly irreligious or worse, dangerous to religion. Although Darwin would cease to believe in Christianity shortly after his voyage on HMS <i>Beagle</i> (1831–36), he was never an atheist. 
 
-Like many young men of his social class, Darwin passionately dedicated to the sport of shooting birds. When he could not go shooting, he would practise his aim in his comfortable college mom. He later recalled in his autobiography: 
+Like many young men of his social class, Darwin passionately dedicated to the sport of shooting birds. When he could not go shooting, he would practise his aim in his comfortable college room. He later recalled in his autobiography: 
 
-|When at Cambridge I used to practise throwing up my gun to my shoulder before a looking-glass to see that I threw it up straight. Another and better plan was to get a friend to wave about a lighted candle, and then to fire at it with a cap on the nipple, and if the aim was accurate the little puff of air would blow out the candle. The explosion of the cap caused a sharp crack, and I was told that the Tutor of the College remarked. “What an extraordinary thing it is, Mr Darwin seems to spend hours in cracking a horse-whip in his room, for I often hear the crack when I pass under his windows.”[^3]|
+"When at Cambridge I used to practise throwing up my gun to my shoulder before a looking-glass to see that I threw it up straight. Another and better plan was to get a friend to wave about a lighted candle, and then to fire at it with a cap on the nipple, and if the aim was accurate the little puff of air would blow out the candle. The explosion of the cap caused a sharp crack, and I was told that the Tutor of the College remarked, 'What an extraordinary thing it is, Mr Darwin seems to spend hours in cracking a horse-whip in his room, for I often hear the crack when I pass under his windows.'"[^3]
 
 Not very keen on his official studies, Darwin devoted himself to collecting beetles instead. He soon discovered several novel ways to procure rare and unusual specimens, and had a special cabinet made to house his collection. Darwin sent records of his captures to the well-known entomologist James Stephens who regularly published records of British entomology. These were Darwin's first words in print. So even as an undergraduate, and in a very small way, Darwin had already begun to contribute to science. 
 
@@ -45,7 +38,7 @@ In later life Darwin liked to sheepishly recall one of his beetling misadventure
 
 Darwin’s interests in science became a lifelong passion. He read the scientific travel accounts of the great German naturalist Alexander von Humboldt and dreamed of travelling on a scientific tour of his own. 
 
-Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, from whom Darwin learned a great deal about scientific method. The two became such good friends that college dons who had not met Darwin referred to him as “the man who walks with Henslow.”[^5] Darwin also studied other branches of natural science in his own time as the university then offered little instruction in science. He eventually learned the basics of a wide range of current fields. In 1831, he successfully completed his exam to gain his B.A. degree. Darwin later recalled, “Upon the whole, the three years I spent at Cambridge were the most joyful of my happy life.”[^6] It was Henslow who would shortly thereafter recommend Darwin for the post of naturalist on HMS <i>Beagle</i> on a voyage around the world.[^7] The Rest, as they say, is history. 
+Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, from whom Darwin learned a great deal about scientific method. The two became such good friends that college dons who had not met Darwin referred to him as “the man who walks with Henslow.”[^5] Darwin also studied other branches of natural science in his own time as the university then offered little instruction in science. He eventually learned the basics of a wide range of current fields. In 1831, he successfully completed his exam to gain his B.A. degree. Darwin later recalled, “Upon the whole, the three years I spent at Cambridge were the most joyful of my happy life.”[^6] It was Henslow who would shortly thereafter recommend Darwin for the post of naturalist on HMS <i>Beagle</i> on a voyage around the world.[^7] The rest, as they say, is history. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/cambridge_graduate.jpg)
 <div style="background-color: white;">A Cambridge graduate in the 1820s sporting the latest fashion – trousers (instead of knee breeches).</div>
@@ -54,13 +47,10 @@ Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, fr
 <div style="background-color: white;">Christ's College, Cambridge, where Darwin spent his undergraduate years. </div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Darwin_room.jpg)
-<div style="background-color: white;">Restoration of Darwin's room at Christ's College Was completed in 2009. He lived here from 1828–1831.</div>
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_re.jpg)
-<div style="background-color: white;"><i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. <i>Published by World Scientific Publishing Co., 2013.</i></div>
+<div style="background-color: white;">Restoration of Darwin's room at Christ's College was completed in 2009. He lived here from 1828–1831.</div>
 
 
-##### **In Search of The Historical Wallace** 
+##### **In Search of the Historical Wallace** 
 
 For Alfred Russel Wallace (1823–1913) the picture is quite different. He did not come from a privileged background and although he attended a good school like Darwin's, Wallace never went to university. His family had fallen on hard times. But as there was little science taught at universities anyway, most men of science at the time were largely self-taught. Both were middle-class, Darwin from the higher end of the spectrum, Wallace from the lower. 
 
@@ -74,7 +64,10 @@ If Wallace's name is familiar at all to the average reader today, it is usually 
 
 A candid investigation of the original historical sources from Wallace's time differs strikingly from the modern picture of Wallace as the “hero-on-a-quest but cheated in the end.” <i>Dispelling the Darkness</i> is an attempt to reveal the historical Wallace as he lived and worked in his original time and context. Based on the most intensive research programme ever undertaken on Wallace in Southeast Asia, the real Wallace and his story turns out to be very different from the heroic version bandied about in recent years. In short, everything you have heard about Wallace is probably wrong. 
 
-##### **What Really Happened in The Archipelago?** 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/alfred_re.jpg)
+<div style="background-color: white;">Alfred Russel Wallace in Singapore in 1862. Merchant, James ed. 1916. <i>Alfred Ruessel Wallace Letters and Reminiscences.</i></div>
+
+##### **What Really Happened in the Archipelago?** 
 
 After a series of underpaying jobs, Wallace set out for the Amazon valley in 1848 to make a living as a commercial specimen collector. (The heroic version has him going instead on a quest to solve the problem of the origin of species.[^8]) During his time there, Wallace continued his self-education in science and began to publish a series of scientific papers. As part of his research, he also collected large numbers of insects, birds and mammals. In 1852, Wallace was returning home when disaster struck. The sailing vessel on which he was travelling caught fire and sank in the Atlantic Ocean. Wallace and the crew were rescued and returned safely to England. 
 
@@ -96,17 +89,20 @@ In 1858, Wallace was living on the tiny volcanic island of Ternate, one of the f
 
 The heroic story of Wallace is based on his recollection of what happened many years later, and after he had read Darwin's <i>Origin of Species</i>. This is extremely problematic for two reasons. Firstly, retrospective accounts are not the same as contemporary evidence. Indeed, because historians have found recollections to be so inaccurate and untrustworthy, they are worth very little for understanding what a scientist was really doing many years before. Secondly, Wallace’s recollections are tainted by the fact that he had read Darwin and eventually his <i>Life and Letters</i> (1887). Therefore, Wallace's stories as an old man are not independent attestations. 
 
-In 1858, Wallace elaborated his new ideas in his so-called Ternate essay: “On the tendency of varieties to depart indefinitely from the original type,” For many years Wallace's essay was described as espousing exactly the same theory as Darvin's. But the more historians have analysed it, the more clearly it has been revealed to be quite a different theory, but with some basic parallels to Darwin's. Wallace certainly did originate a version of natural selection independently of Darwin. 
+In 1858, Wallace elaborated his new ideas in his so-called Ternate essay: “On the tendency of varieties to depart indefinitely from the original type.” For many years Wallace's essay was described as espousing exactly the same theory as Darvin's. But the more historians have analysed it, the more clearly it has been revealed to be quite a different theory, but with some basic parallels to Darwin's. Wallace certainly did originate a version of natural selection independently of Darwin. 
 
 What happened next has been surrounded by confusion and conspiracy theories for decades. Wallace did not send his essay to a journal. Instead he sent it to Darwin with the request that, if Darwin thought it suitable, it be forwarded to the great geologist Sir Charles Lyell. Here, the conspiracy theories mount thick and fast. Firstly, it was long claimed that Darwin lied about when he received Wallace's letter. This has now been fully refuted.[^12] Secondly, it has been claimed that Darwin might have borrowed from Wallace's essay. There is no evidence for these claims at all. 
 
 The remaining conspiracy theories are equally the sort of stories that could only have been told by recent writers quite unfamiliar with Victorian science and society: It is claimed that it was improper to publish Wallace's paper without his explicit permission (false); that his paper ought to have been, according to the rules of the day, published on its own or at least ahead of anything by Darwin (false). And so forth. 
 
-It would have been perfectly acceptable and normal to send Wallace's essay for publication. But Darwin must have felt awkward about being involved in the matter and asked his colleagues to decide what to do. In the end Lyell and the botanist Joseph Hooker had some unpublished writings by both Darwin and Wallace read together at a meeting of the Linnean Society of London in July 1858, Thus Darwin and Wallace shared the priority equally of first publicising the new idea. It was the first announcement of the modern theory of evolution by natural selection. Retrospectively it was a great event. But short papers do not a revolution make. 
+It would have been perfectly acceptable and normal to send Wallace's essay for publication. But Darwin must have felt awkward about being involved in the matter and asked his colleagues to decide what to do. In the end Lyell and the botanist Joseph Hooker had some unpublished writings by both Darwin and Wallace read together at a meeting of the Linnean Society of London in July 1858. Thus Darwin and Wallace shared the priority equally of first publicising the new idea. It was the first announcement of the modern theory of evolution by natural selection. Retrospectively it was a great event. But short papers do not a revolution make. 
 
 The following year, Darwin published a condensed version of his 20 years of work. This was <i>On the Origin of Species</i>. It was this book with its masses of new facts and converging forms of evidence which, within 15 years or so, convinced the international scientific community that evolution is a fact. It was the impact of this revolutionary book that shot Darwin to such unrivalled fame and reputation. Wallace became one of Darwin's most ardent friends and supporters. And he always insisted that the theory was mostly Darwin's work. 
 
 On his return to Britain in 1862, Wallace was no longer an obscure collector. He had become a well-known player in the scientific community. His reputation was forever linked with Darwin because of his own independent discovery. This no doubt helped the acceptance of Darwin’s book. Wallace was a great naturalist and a pioneer of the study of the biodiversity of Southeast Asia. He continues to inspire biologists and conservationists to this day. But he was not a dupe or a victim. Only proper historical method allows us to uncover the truth about the past and dispel the darkness of conspiracy theories or plain wishful thinking. 
+
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_re.jpg)
+<div style="background-color: white;"><i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. <i>Published by World Scientific Publishing Co., 2013.</i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/wallace_assistant_re.jpg)
 <div style="background-color: white;"><i>Wallace's faithful Malay assistant Ali.</i> </div>
