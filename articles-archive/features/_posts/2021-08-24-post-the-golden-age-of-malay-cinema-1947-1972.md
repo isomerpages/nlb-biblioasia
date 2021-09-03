@@ -73,9 +73,7 @@ In all, more than 250 Malay-language films were produced in Singapore over the 2
 
 |Hand-painted film posters went through a boom from the 1950s until the 1970s with as many as 100 posters commissioned per film. In the past, as many as 10 painters would be mobilised to complete a big billboard requiring 100 pieces of plywood for mounting. As experienced painters retired and new blood could not be attracted to join the profession, dwindling manpower meant that only one painter was assigned to a poster.[^57] By 1980, Shaw had closed down its art studio that produced its posters[^58] and by the end of the 1980s, hand-painted posters had given way to their digital rivals.|
 
-
-![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/IMG_7443_2.jpg)
-<div style="background-color: white;">Hand-painted film posters were the rage from the 1950s to 70s but slowed down by the 80s. Here, Neo Choon Teck, one of Singapore’s last surviving billboard artists, reprises his work for the Singapore Short Film Awards in 2011. <i>Courtesy of SINdie</i> (www.sindie.sg).</div>
+|<img src="/images/vol-11-issue-1/malaycinema/IMG_7443_2.jpg">Hand-painted film posters were the rage from the 1950s to 70s but slowed down by the 80s. Here, Neo Choon Teck, one of Singapore’s last surviving billboard artists, reprises his work for the Singapore Short Film Awards in 2011. <i>Courtesy of SINdie</i> (www.sindie.sg).|
 
 |**Tayangan Akan Datang: Poster Lukisan Tangan**|
 
@@ -93,11 +91,9 @@ In all, more than 250 Malay-language films were produced in Singapore over the 2
 
 |Permintaan untuk poster begitu rancak dari 50an ke 70an, hingga 100 keping boleh ditempah untuk setiap filem. Namun, pelukis-pelukis yang telah lama berkecimpung mula bersara sementara anak-muda tidak berminat untuk menceburi kraf ini. Kalau dahulu, seramai 10 pelukis dapat digembeling untuk menyiapkan sebuah billboard gah yang memerlukan 100 keping plywood sebagai <i>backing</i>. Dengan masa, tenaga yang sudah berkurangan menjadikan sebuah poster itu terpaksa disiapkan oleh seorang pelukis sahaja. Setelah berakhirnya tahun ‘80an, poster lukisan tangan mula akur dengan kehebatan poster digital. Bermula 1980, Shaw telah menutup studio yang membuat poster filemnya. Pada 2005, hanya seorang pelukis poster, Neo Choon Teck, yang tinggal.|
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Asrama.jpg)
-<div style="background-color: white;">Actress Normadiah on the cover of the now defunct Malay-language entertainment monthly magazine, <i>Asmara</i>. MFP studio at Jalan Ampas stands in the background. © Asmara, <i>Issue 23. Published by S.O.A. Alsagoff for Geliga Publication Bureau (Singapore), 1956. </i></div>
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Raja_Bersiong.jpg)
-<div style="background-color: white;"><i>Raja Bersiong</i> is a 1968 historical film written by former Malaysian prime minister Tunku Abdul Rahman. © Raja Bersiong. <i>Directed by Jamil Sulong, produced by Malay Film Productions, 1968. </i></div>
+|<img src="/images/vol-11-issue-1/malaycinema/Asrama.jpg">Actress Normadiah on the cover of the now defunct Malay-language entertainment monthly magazine, <i>Asmara</i>. MFP studio at Jalan Ampas stands in the background. © Asmara, <i>Issue 23. Published by S.O.A. Alsagoff for Geliga Publication Bureau (Singapore), 1956. </i>|
+
+|<img src="/images/vol-11-issue-1/malaycinema/Raja_Bersiong.jpg"><i>Raja Bersiong</i> is a 1968 historical film written by former Malaysian prime minister Tunku Abdul Rahman. © Raja Bersiong. <i>Directed by Jamil Sulong, produced by Malay Film Productions, 1968. </i>|
 
 |***Not* Lost in Translation**|
 	
@@ -111,9 +107,7 @@ In all, more than 250 Malay-language films were produced in Singapore over the 2
 
 |Malay films of the 1950s and 60s, particularly P. Ramlee films, appealed to Malaya’s cosmopolitan society because the universal themes they portrayed cut across language and cultural barriers. [^43] In order to cater to non-Malay-speaking audiences, English subtitles were provided in Malay movies.[^44] The then sole translator, writer Zulkifli Haji Muhammad joined Shaw Brothers’ Jalan Ampas studio in 1960, eventually becoming assistant director, directing Malay films for Shaw.[^45]|
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Anak_Pontianak.jpg)
-<div style="background-color: white;">
-A Chinese flyer promoting <i>Anak Pontianak</i> (1958). <i>Directed by Roman Estella, produced by Malay Film Productions Ltd. Singapore/ Hong Kong, 1958</i></div>
+|<img src="/images/vol-11-issue-1/malaycinema/Anak_Pontianak_re.jpg">A Chinese flyer promoting <i>Anak Pontianak</i> (1958). <i>Directed by Roman Estella, produced by Malay Film Productions Ltd. Singapore/ Hong Kong, 1958</i>|
 
 |**Terjemahan Berkesan: Sarikata Dalam Filem Melayu**|
 
