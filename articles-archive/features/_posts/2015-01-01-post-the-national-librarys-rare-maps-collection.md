@@ -30,8 +30,6 @@ Despite being the first Europeans to go on explorations, the Portuguese and Span
 
 The National Library’s collection of rare maps is an important source for the study of early cartography of the region, as well as the development of European mapping of Southeast Asia, a region whose early European names included East Indies, Indiae Orientalis, East Indian Islands and Further India (India Extrema). These maps are also useful for those researching early Malayan cartography as they contain some of the earliest references to Singapore and the Malay Peninsula. 
 
-<br>
-
 |**GIACOMO GASTALDI**|
 
 |Giacomo Gastaldi (circa 1500–65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
@@ -83,7 +81,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 <br>
 
-|**SEBASTIAN MUNSTER**|
+|**SEBASTIAN MüNSTER**|
 
 |Sebastian Münster (1489–1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
 
