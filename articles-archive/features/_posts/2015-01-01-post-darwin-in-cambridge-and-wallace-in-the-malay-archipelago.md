@@ -75,6 +75,9 @@ Undaunted, Wallace prepared for another collecting expedition, this time to the 
 
 Over the next eight years Wallace made dozens of expeditions. His voyage correspondence was recently published, which together with his illuminating book <i>The Malay Archipelago</i> (1869), paints a rich picture of the peoples and nature of the 1850s and 1860s.[^9] Ultimately Wallace's collection totalled 125,660 specimens of insects, birds, shells and mammals. In inflated versions of the story, Wallace painstakingly collected all of these specimens himself. But recent historical research has revealed that Wallace employed more than 30 fulltime assistants to aid him in his task, one of whom, Charles Allen and his own assistants, collected about 40,000 specimens.[^10] Altogether, Wallace's assistants, particularly a Malay lad named Ali from Sarawak, probably collected more than half of the total number. 
 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/wallace_assistant_re.jpg)
+<div style="background-color: white;"><i>Wallace's faithful Malay assistant Ali.</i> </div>
+
 In 1855, while staying in Sarawak, Wallace wrote his first theoretical paper on species: “On the law which has regulated the introduction of new species.” In heroic accounts of Wallace, the paper is represented as if it was the first to have outlined the modern theory of evolution minus only the “mechanism” of natural selection. 
 
 In fact, the paper's original sources and meanings were quite different, and far more modest. The paper did not even mention that species change. It argued that when new species were created during earth's history, they always appeared in the same place as a similar species. Wallace was only testing the waters, not yet ready to come out of the closet publicly as an advocate of unorthodox views like evolution. 
@@ -86,6 +89,9 @@ In 1856, Wallace began to realise that in the west of the Malay Archipelago the 
 ##### **Adaptation** 
 
 In 1858, Wallace was living on the tiny volcanic island of Ternate, one of the fabled Spice Islands of Indonesia, just west of New Guinea. He had come to procure the rare and beautiful Birds of Paradise that live only in and around New Guinea. It was on Ternate that Wallace conceived an explanation as to how species come to be adapted to their environments.[^11] This was a radical departure from his previous thinking. He had never looked for an explanation for adaptation before. Indeed he thought that traditional ideas of species adaptation smacked of shallow and old-fashioned thinking. So what made him change his mind? 
+
+![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Red_bird_paradise_re.jpg)
+<div style="background-color: white;">The Red Bird of Paradise of New Guinea. This was what Wallace went to search for in 1858 in Ternate, Indonesia. </div>
 
 The heroic story of Wallace is based on his recollection of what happened many years later, and after he had read Darwin's <i>Origin of Species</i>. This is extremely problematic for two reasons. Firstly, retrospective accounts are not the same as contemporary evidence. Indeed, because historians have found recollections to be so inaccurate and untrustworthy, they are worth very little for understanding what a scientist was really doing many years before. Secondly, Wallace’s recollections are tainted by the fact that he had read Darwin and eventually his <i>Life and Letters</i> (1887). Therefore, Wallace's stories as an old man are not independent attestations. 
 
@@ -103,13 +109,6 @@ On his return to Britain in 1862, Wallace was no longer an obscure collector. He
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_re.jpg)
 <div style="background-color: white;"><i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. <i>Published by World Scientific Publishing Co., 2013.</i></div>
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/wallace_assistant_re.jpg)
-<div style="background-color: white;"><i>Wallace's faithful Malay assistant Ali.</i> </div>
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Red_bird_paradise_re.jpg)
-<div style="background-color: white;">The Red Bird of Paradise of New Guinea. This was what Wallace went to search for in 1858 in Ternate, Indonesia. </div>
-
 
 <p style="font-size:15px;"><b>Dr John van Wyhe</b> is a historian of science at the National University of Singapore who specialises in Darwin and Wallace. For several years a Bye-Fellow of Christ's College, Cambridge, he is also the Director of Darwin Online and Wallace Online and the author of 10 books and numerous articles on the history of science.</p>
 
@@ -135,14 +134,14 @@ van Wyhe, J. (2014). *[Charles Darwin in cambridge: The most joyful years](https
 
 [^6]: Barlow, 1958.
 
-[^7]: For many years it was said that Darwin was not really the naturalist, but more of a social companion to the ship’s captain. This has recently been refuted, see van Whye, J. (2013, September). My appointment received the sanction of the Admiralty”: Why Charles Darwin really was the naturalist on HMS Beagle’. <i>Studies in History and Philosophy of Biological and Biomedical Sciences</i>, 44 (3), 316–326. Retrieved from DOI.Org website.
+[^7]: For many years it was said that Darwin was not really the naturalist, but more of a social companion to the ship’s captain. This has recently been refuted, see van Whye, J. (2013, September). "My appointment received the sanction of the Admiralty”: Why Charles Darwin really was the naturalist on HMS Beagle. <i>Studies in History and Philosophy of Biological and Biomedical Sciences</i>, 44 (3), 316–326. Retrieved from DOI.Org website.
 
-[^8]: See van Whye, J. (2014, Winter). A delicate adjustment: Wallace and Bates on the Amazon and “the problem of the origin of species”. <i>Journal of the History of Biology</i>, 47 (4). 627–659. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
+[^8]: See van Whye, J. (2014, Winter). A delicate adjustment: Wallace and Bates on the Amazon and “the problem of the origin of species”. <i>Journal of the History of Biology</i>, 47 (4). 627–659. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^9]: van Whye, J., &amp; Rookmaaker, L.K. (Eds.). (2013). *[Alfred Russel Wallace: Letters from the Malay Archipelago](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200158642)*. Oxford: Oxford University Press. (Call no.: RSEA 508.092 WAL); van Wyhe, J. (Ed.). (2015). *[The annotated Malay Archipelago by Alfred Russel Wallace](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200350257)*. Singapore: NUS Press. (Call no.: RSING 959.8 ANN)
 
-[^10]: See Rookmaaker, K., &amp; van Wyhe, J. (2012, December). In Wallace’s shadow: The forgotten assistant of Alfred Russel Wallace, Charles Allen. Journal of the Malayan Branch of the Royal Asiatic Society, 85 (2), 17–54. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^10]: See Rookmaaker, K., &amp; van Wyhe, J. (2012, December). In Wallace’s shadow: The forgotten assistant of Alfred Russel Wallace, Charles Allen. *Journal of the Malayan Branch of the Royal Asiatic Society*, 85 (2), 17–54. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^11]: For many years it was believed that Wallace was actually on the nearby island of Gilolo, but that mistake has now been laid to rest. See *[van Wyhe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)*, 2013, pp. 202–204.
+[^11]: For many years it was believed that Wallace was actually on the nearby island of Gilolo, but that mistake has now been laid to rest. See [van Wyhe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899), 2013, pp. 202–204.
 
-[^12]: See *[van Wyhe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899)*, 2013, pp. 225–226, 358 note 692; van Wyhe, J., &amp; Rookmaaker, K. (2012, January). A new theory to explain the receipt of Wallace’s Ternate Essay by Darwin in 1858. <i>Biological Journal of the Linnean Society</i> 105 (1), 249–252. Retrieved from DOI.Org website.
+[^12]: See [van Wyhe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148899), 2013, pp. 225–226, 358 note 692; van Wyhe, J., &amp; Rookmaaker, K. (2012, January). A new theory to explain the receipt of Wallace’s Ternate Essay by Darwin in 1858. <i>Biological Journal of the Linnean Society</i> 105 (1), 249–252. Retrieved from DOI.Org website.
