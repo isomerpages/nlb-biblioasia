@@ -112,7 +112,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Thornton’s chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.|
 
-|<img src="/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg">A large chart describeing *ye Streights of Malacca and Sincapore*, Samuel Thornton (London, circa 1711).|
+|<img src="/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg">A large chart describing *ye Streights of Malacca and Sincapore*, Samuel Thornton (London, circa 1711).|
 
 <br>
 
@@ -126,9 +126,9 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Bellin’s map recommends the sea passage through the Singapore Strait for vessels that could sail through the Old Strait and return via the New Strait. However, Bellin’s map erroneously identifies the Old Strait as “Nouveau Detroit de Sincapour” (New Strait of Singapore) and the New Strait as “Detroit du Gouverneu” (Governor’s Strait).|
 
-|<img src="/images/vol-10-issue-4/raremap/Carte.jpg">*Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine*, Jacques Nicolas Bellin (Paris, 1755).|
-
 |Bellin's map depicts Singapore island in an unrecognisable shape and calls it "Pulo ou Isle Panjang", one of the early names used for the island. The map also features coastal profiles at its centre.|
+
+|<img src="/images/vol-10-issue-4/raremap/Carte.jpg">*Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine*, Jacques Nicolas Bellin (Paris, 1755).|
 
 <br>
 
@@ -177,7 +177,7 @@ Tooley, R.V. (1979). *Tooley’s dictionary of mapmakers.* Hertfordshire: Map Co
 
 [^2]: Shirley, R.W. (1984). *The mapping of the world: Early printed world maps, 1472–1700* (pp. xxvii–xxviii). London: Holland Press. (Not available in NLB holdings)
 
-[^3]:Suarez, T. (1999). *[Early mapping of Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)*(p. 130). Hong Kong: Periplus Editions. (Call no.: RSING q912.59 SUA)
+[^3]:Suarez, T. (1999). *[Early mapping of Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)* (p. 130). Hong Kong: Periplus Editions. (Call no.: RSING q912.59 SUA)
 
 [^4]: Stefoff, R. (1995). *[The British Library companion to maps and mapmaking ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7891384)*(p. 115). London: British Library. (Call no.: R 912.03 STE)
 
