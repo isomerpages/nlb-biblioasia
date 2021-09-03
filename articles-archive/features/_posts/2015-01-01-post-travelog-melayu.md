@@ -14,7 +14,7 @@ Travelogues, particularly those from yesteryear, serve as important reference do
 
 <i>Maka dengan tolong Allah dua hari ketiga sampailah ke laut Melaka, tetapi tiada singgah. Maka berlayarlah juga dengan angin utara. Maka diberi Allah tiga hari keempatnya sampailah ke Pulau Pinang, itupun tiadalah juga singgah, lalu juga berlayar. Maka kepada hari Ahad tujuh hari bulan, pada malam pukul sembilan turunlah angin utara kencang terlalu; maka ombak dan gelombang terlalu besar. Maka kapal sebesar itu menjadi seperti kulit sabut di tengah laut, dihempaskan gelombang itu timbul tenggelam. Maka segala peti2 dan barang2 di kapal, yang di kiri datang ke kanan dan yang di kanan ke kiri, sehingga sampailah pada pagi. Maka ada pukul sebelas redahlah angin itu. Maka dilayarkanlah juga, maka sampailah kira2 pukul empat petang bertentangan Pulau Perak. Adapun pulau itu tiadalah sehelai rumput atau pohon2 melainkan batu sahaja bertimbun putih kelihatan dari jauh rupanya seperti perak. Maka sebab itulah dinamakan orang Pulau Perak.”</i>
 
-<p style="float:right;"><i>Karya lengkap Abdul Kadir Munsyi Jilid 1</i><br><i>Amin Sweeney</i><br><i>Kisah pelayaran Abdullah bin Abdul Kadir Munsyi dari Singapura sampai ke Mekah.</i></p>
+<p style="float:right;"><i>Karya lengkap Abdul Kadir Munsyi Jilid 1</i></p><br><p style="float:right;"><i>Amin Sweeney</i></p><br><p style="float:right;"><i>Kisah pelayaran Abdullah bin Abdul Kadir Munsyi dari Singapura sampai ke Mekah.</i></p>
 
 <br><br><br><br>
 
