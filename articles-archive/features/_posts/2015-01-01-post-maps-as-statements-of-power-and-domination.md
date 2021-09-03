@@ -9,15 +9,17 @@ layout: post
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg)
 <div style="background-color: white;">Close-up of a Central Javanese batik embellished with a cosmological map motif. <i>Courtesy of Farish A. Noor</i>.</div>
 
-“The census, the map, and the museum: together they profoundly shaped the way in which the colonial state imagined its dominion – the nature of the human beings it ruled, the geography of its domain, and the legitimacy of its ancestry.” – Benedict Anderson, <i>Imagined Communities</i>
+“The census, the map, and the museum: together they profoundly shaped the way in which the colonial state imagined its dominion – the nature of the human beings it ruled, the geography of its domain, and the legitimacy of its ancestry.” 
 
-I write this as an academic who also happens to be a collector of antiquarian books, prints and maps of Southeast Asia. A hobby I have indulged in since my late teens, and which has left me in a state of perpetual poverty as a result. Those who belong to this small fraternity of aficionados will readily testify to the joy of collecting and the boundless pleasure of reading and appreciating books and maps that date back centuries. I am proud to say that although my passion has left me penniless, the state of destitution, thankfully, applies only to my wallet and not my sensibilities.
+<div style="text-align: right">– Benedict Anderson, <i>Imagined Communities</i></div>
+
+I write this as an academic who also happens to be a collector of antiquarian books, prints and maps of Southeast Asia, a hobby I have indulged in since my late teens, and which has left me in a state of perpetual poverty as a result. Those who belong to this small fraternity of aficionados will readily testify to the joy of collecting and the boundless pleasure of reading and appreciating books and maps that date back centuries. I am proud to say that although my passion has left me penniless, the state of destitution, thankfully, applies only to my wallet and not my sensibilities.
 
 Antiquarian maps have long been sought after, for both their aesthetic as well as historical value. Those familiar with the workings of the antiquarian trade would know that such maps are also worthy investments in the long-run.
 
 Having said that, the academic in me would also point to the academic worth of maps as documents of power and as records of the progression of power in the most comprehensive sense: both political – military as well as epistemic. Aside from the inherent beauty of some maps – and it should be noted that some antiquarian maps are undoubtedly visually stunning objects in themselves, deserving of appreciation as paintings and sculpture are – the added value of old maps is that they are historical records that document the march of exploration and conquest as well as the spread of (geographic) knowledge of the world.
 
-#### **Mapping and Knowledge: How We Come to know The World**
+#### **Mapping and Knowledge: How We Come to Know the World**
 
 In this essay I would Like to address the topic of maps and map-making and how maps can (and should) be read rather than simply merely <i>looked</i> at. By <i>reading</i> maps I mean that the map is never simply a chart or a plan of territory, but also a statement (of intent or ambition) that can be interpreted and understood.
 
