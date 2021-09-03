@@ -92,7 +92,7 @@ From this perspective, these early modern sea charts are more than an encapsulat
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/last.jpg)
 <div style="background-color: white;"></div>
 
-<p style="font-size:15px;"><b>Kwa Chong Guan<b> dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.</p>
+<p style="font-size:15px;"><b>Kwa Chong Guan</b> dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
 
