@@ -242,7 +242,7 @@ Teo, P.L. (1936, January). Time is past. <i>The London Mercury</i>, 33 (95), 275
 
 [^41]: University of Malaya. (1963). *[The register of graduates](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413300)* (p. 49). Singapore: University of Malaya. (Call no.: RCLOS 378.595 UM)
 
-[^42]: In 1934, Seow Poh Leng was also elected to be a messenger of the Straits Chinese British Association. See *[Straits Chinese and Education Policy: New officers.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341109-1.2.66)* (1934, November 9). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+[^42]: In 1934, Seow Poh Leng was also elected to be a messenger of the Straits Chinese British Association. See [Straits Chinese and Education Policy: New officers.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341109-1.2.66) (1934, November 9). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
 [^43]: Lim, S.M. (2014, November 2). Email to the author. In 1924, Teo and Seow Poh Leng were both elected to be messengers of the Straits Chinese British Association. See *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341109-1.2.66)*, 9 Nov 1934, p. 12.
 
