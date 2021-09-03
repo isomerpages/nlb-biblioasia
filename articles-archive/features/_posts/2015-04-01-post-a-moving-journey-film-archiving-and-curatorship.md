@@ -4,7 +4,6 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/moving-journey
 layout: post
 ---
-
 #### As the Asian Film Archive celebrates its 10th anniversary, **Karen Chan** takes a look back at the genesis of the organisation, the work it does and its plans for the future.
 
 In 2005, I was introduced to a soft-spoken but tenacious young man who had singlehandedly established the Asian Film Archive (AFA) in Singapore. What drew me to Tan Bee Thiam’s project was his vision: to set up a Pan-Asian institution that aspired to provide a repository for all Asian films – many of which had yet to be archived in their own countries. Partly curious as to how this not-for-profit, independent organisation would survive, and partly enthused by the prospect of contributing towards the maintenance, preservation, restoration and curation of archival films, I set aside my practical and less than adventurous nature and took the plunge – joining the AFA as an archivist in 2006, assuming the role of acting director in 2010 and subsequently taking over the reins as executive director in 2014. As the AFA celebrates its 10th anniversary this year, I take a look back on a journey that has been both challenging and exhilarating by turns. 
@@ -139,17 +138,17 @@ Cherchi Usai, P. et al. (Eds.). (2008). *[Film curatorship: Archives, museums an
 
 Edmonson, R. (2004). <i>Audiovisual archiving: Philosophy and principle</i>. Paris: Unesco. (Not available in NLB holdings).
 
-Jones, J. (2012). <i>The past is a moving picture: Preserving the twentieth century on film</i> (p. 9). Florida: University Press of Florida. (Not available in NLB holdings).
+Jones, J. (2012). <i>The past is a moving picture: Preserving the twentieth century on film</i> (p.9). Florida: University Press of Florida. (Not available in NLB holdings).
 
 Kula, S. (2002). *[Appraising moving images: Assessing the archival and monetary value of film and video records](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11729063)*. Lanham: Scarecrow Press. (Call no.: R 025.1773 KUL).
 
-Kwok, Y. (2005, January 21). *[Archive alive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050121-1.2.133.13)*. <i>The Straits Times</i>, p. 15. Retrieved from NewspaperSG. 
+Kwok, Y. (2005, January 21). [Archive alive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050121-1.2.133.13). <i>The Straits Times</i>, p. 15. Retrieved from NewspaperSG. 
 
 Lim, B.C. (2013, Spring). Archival fragility: Philippine cinema and the challenge of sustainable preservation. <i>Newsletter</i>, 67, 18–21. 
 
 Personal communication with Tan, B.T., 23 December 2014.
 
-Tan, J. (2005, January 25). *[Film buffs to the rescue](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050121-1.2.43.1)*. <i>Today</i>, p. 32. Retrieved from NewspaperSG.
+Tan, J. (2005, January 25). [Film buffs to the rescue](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050121-1.2.43.1). <i>Today</i>, p. 32. Retrieved from NewspaperSG.
 
 #### **NOTES**
 
