@@ -4,10 +4,8 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/points-of-departure
 layout: post
 ---
-#### **Charting Memories Through Collective Imaginations**
-
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/pointsofdeparture/ChangiTriptych_1_FP2.jpg)
-<div style="background-color: white;">School excursion to Changi Point from "Points of Departure" (2014). The original photograph of school boys is in ”black and white, captioned” Form 4B picnic at Changi date 28 Nov 1957". The artist has overlaid this image onto a more recent shot of Changi Point, © <i>Juria Toramae. All rights reserved.</i></div>
+<div style="background-color: white;">School excursion to Changi Point from "Points of Departure" (2014). The original photograph of school boys is in black and white, captioned "Form 4B picnic at Changi date 28 Nov 1957". The artist has overlaid this image onto a more recent shot of Changi Point, © <i>Juria Toramae. All rights reserved.</i></div>
 
 
 When the National Library Board announced its plans to extend its outreach efforts for the Singapore Memory Project (SMP) in 2012,[^1] the first question that sprung to my mind was: How can one relate to the shared memories of a place if the place in question no longer exists? 
@@ -32,13 +30,13 @@ The sea has a constant presence in these works and one may question its signific
 
 The late poet Margaret Leong, for instance, wrote a number of poems about rustic Singapore from the 1950s to early 1960s in her book <i>The Ice Ball Man and Other Poems.</i> Poems such as “Winking Island”, “Sea Gypsy”, “Malayan Christmas” and “The Junk” are just a few of many that capture scenes of early Singapore as older generations remember them. In “The Junk”[^9],  Leong recounts how back in the day. 
 
-|A Junk must have<br>A painted eye;<br>And dragon masts<br>That dip and fly;<br>So when it sails<br>The China Sea,<br>Spirit and devil<br>Both will flee.|
+A Junk must have<br>A painted eye;<br>And dragon masts<br>That dip and fly;<br>So when it sails<br>The China Sea,<br>Spirit and devil<br>Both will flee.
 
 Chinese junks adorned with painted eyes on their bulwarks once sailed the high seas of the region, laden with all manner of exotic goods for trade. These days the only painted eyes you will likely see on the water are those on the occasional bumboats that cruise along the Singapore River or modern-day faux junk boats filled with tourists that ply the waters of the Singapore Harbour. In “Temporality”, there is an image of a similar junk with painted eyes sailing in the waters of present-day Keppel Channel, but put together from photographs dating from the 1970s.  
 
 Likewise, Jerome has diligently captured the Singapore of his younger days on his blog where memories of the sea often surface. In his online post “The Lost Idyllic Coastline of Tanah Merah”, he recalls: 
 
-|…what was once a picturesque and idyllic part of Singapore, that much as we wanted to, we would not be able to venture to any more. Marked by a landscape that would seem out of place in the Singapore of today with its terrain that undulates towards cliffs that overlook the sea, the area was decorated with gorgeous seaside villas and <i>attap</i> roofed wooden huts of coastal villages that provided a laid back feel to the surroundings… The Tanah Merah of old was very unlike the Tanah Merah that is associated with the MRT station…[^10]|
+"…what was once a picturesque and idyllic part of Singapore, that much as we wanted to, we would not be able to venture to any more. Marked by a landscape that would seem out of place in the Singapore of today with its terrain that undulates towards cliffs that overlook the sea, the area was decorated with gorgeous seaside villas and <i>attap</i> roofed wooden huts of coastal villages that provided a laid back feel to the surroundings… The Tanah Merah of old was very unlike the Tanah Merah that is associated with the MRT station…"[^10]
 
 Like many Singaporean families in the 1960s, Changi beach is fondly – and frequently – mentioned as a favourite leisure spot of Jerome's parents. “We would spend many Sundays soaking in the sun and sea in the day time, or sitting by the beach, listening to the whisper of the sea breeze in the evenings. It was, in those days, possible to drive right up close to the sand line, find a shady tree to park the car under and lay out a mat right next to the car… What I would often do was sit on the roof of my father's car and enjoy the breeze and rustling of leaves above me. Somehow, this gave me a sense of escape, of being all by myself, on top of the world.” [^11]
 
@@ -46,21 +44,21 @@ Jerome's descriptions of rolling hills and coastal villages often remind me of m
 
 More memories began to find their way into the present during my sojourns with Ria Tan and friends from the nature enthusiast group Wild Singapore to the lesser known shores of our outlying islands.[^12] I think Pierre Nora was right when he said that people acquire, recall, recognise and localise their memories in society. Working on this project has been a surprising journey into the self. 
 
-I must admit that my initial interest in memories was simply due the desire to immerse myself into the culture of Singapore – a yearning I have had from having lived an itinerant childhood. It was only after reading about conversations on nostalgia-related blogs and sites such as Jerome's <i>On a Little Street in Singapore</i>[^13] that I realised how pervasive this sense of disorientation is for many people living in our city. It became acutely noticeable to me thereafter; in the arts, films and news I came into contact with and even in conversations with taxi drivers. It is a sense that I deal with too frequently as an adult third culture kid.[^14] It's like being trapped between states of belonging and alienation as poet Boey Kim Cheng so eloquently writes in his book <i>Between Stations</i>: ”…You become engaged in a kind of research, ransacking your fading archive, probing the memories of those over fifty for clues… You start experiencing reality as imagined, memory as something that writes you, gives you a second chance, and you seek a possible dwelling place between memory and imagination, fact and fiction…”[^15] That was the point of departure for me; what began as a humble attempt at acculturation in the end became a long quest for connections. 
+I must admit that my initial interest in memories was simply due the desire to immerse myself into the culture of Singapore – a yearning I have had from having lived an itinerant childhood. It was only after reading about conversations on nostalgia-related blogs and sites such as Jerome's <i>On a Little Street in Singapore</i>[^13] that I realised how pervasive this sense of disorientation is for many people living in our city. It became acutely noticeable to me thereafter; in the arts, films and news I came into contact with and even in conversations with taxi drivers. It is a sense that I deal with too frequently as an adult third culture kid.[^14] It's like being trapped between states of belonging and alienation as poet Boey Kim Cheng so eloquently writes in his book <i>Between Stations</i>: "…You become engaged in a kind of research, ransacking your fading archive, probing the memories of those over fifty for clues… You start experiencing reality as imagined, memory as something that writes you, gives you a second chance, and you seek a possible dwelling place between memory and imagination, fact and fiction…”[^15] That was the point of departure for me; what began as a humble attempt at acculturation in the end became a long quest for connections. 
 
 The idea of the sea being the only permanent feature in our ever-changing geographical landscape was reason enough for me to explore it as a unifying thread for memories. This is a sentiment shared by Jerome too as he often looks at the sea in attempts to discover his own connections with the past. 
 
 Through this collaboration, we hope to create a meaningful connection with and between the memories that are very much part of who we are. It is a journey embarked on not by just the two of us but with all the people whose memories are part of the story. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/pointsofdeparture/The_Harbour.jpg)
-<div style="background-color: white;padding-bottom:10px;">“The Harbour” from “Temporality” (2013). The junk is constructed from a number of images from black and white archival photographs dating from the mid-1970s, which were taken at The New Harbour (present-day Keppel Harbour). It was inspired by Margaret Leong's poem “The Junk”. © <i>Juria Toramae. All rights reserved.</i> </div>
+<div style="background-color: white;padding-bottom:10px;">“The Harbour” from “Temporality” (2013). The junk is constructed from a number of images from black-and-white archival photographs dating from the mid-1970s, which were taken at The New Harbour (present-day Keppel Harbour). It was inspired by Margaret Leong's poem “The Junk”. © <i>Juria Toramae. All rights reserved.</i> </div>
 
 
-|<i>“Points of Departure” - an exhibition of photographs, stones and installation art works - brings together the forgotten and the unfamiliar in the hope of making the past less foreign. The exhibition will take place between April and June 2015 at National Library Building and is part of Singapore’s 50th National Day celebrations. Find out more at: http://www.pointsofdeparture.sg or https://www.facebook.com/PointsOfDepartureSG</i>|
+|<i>“Points of Departure” – an exhibition of photographs, stones and installation art works – brings together the forgotten and the unfamiliar in the hope of making the past less foreign. The exhibition will take place between April and June 2015 at National Library Building and is part of Singapore’s 50th National Day celebrations. Find out more at:  http://www.pointsofdeparture.sg or https://www.facebook.com/PointsOfDepartureSG</i>|
 
 |<i>This project was supported by the Singapore Memory Project (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to:https://www.iremember.sg/index.php/fund-intro/ </i>|
 
-<p style="font-size:15px;"><b>Juria Toramae</b> is a Singapore-based artist and Engineer. Her photographic series “Temporality” debuted at Noise Singapore's The Apprenticeship Programme exhibition in 2013. She is an irememberSG fund recipient for her collaborative project titled “Points of Departure”.</p>
+<p style="font-size:15px;"><b>Juria Toramae</b> is a Singapore-based artist and engineer. Her photographic series “Temporality” debuted at Noise Singapore's The Apprenticeship Programme exhibition in 2013. She is an irememberSG fund recipient for her collaborative project titled “Points of Departure”.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
@@ -71,7 +69,7 @@ Casey, E.S. (1987). Remembering: <i>A phenomenological study.</i> Bloomington: I
 
 Leong, M. (2011). The junk. In <i>The ice ball man and other peoms.</i> Singapore: Ethos Books. (Not available in NLB holdings).
 
-Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. <i>Representations, 26</i>, 7–25. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
+Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. <i>Representations, 26</i>, 7–25. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 #### **NOTES**
 
@@ -81,17 +79,17 @@ Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. <i>Re
 
 [^3]:Casey, E.S. (1987). Remembering: A phenomenological study (p. 187). Bloomington: Indiana University Press. (Not available in NLB holdings).
 
-[^4]:Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. Representations, 26, 7–25. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website.
+[^4]:Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. *Representations*, 26, 7–25. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^5]:See National Library Board. (2019, December 14). *[I remember.sg: About.](https://eresources.nlb.gov.sg/webarchives/details/www.iremember.sg.html)* Retrieved from National Library Board website.
+[^5]:See National Library Board. (2019, December 14). [I remember.sg: About.](https://eresources.nlb.gov.sg/webarchives/details/www.iremember.sg.html) Retrieved from National Library Board website.
 
-[^6]:Acting Minister for Culture, Community and Youth Lawrence Wong quoted in Liew, K.K. (2013, March 21). *[Untidy memories for a loveable Singapore.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20130321-1.2.16.1)* Today, p. 12. Retrieved from NewspaperSG.
+[^6]:Acting Minister for Culture, Community and Youth Lawrence Wong quoted in Liew, K.K. (2013, March 21). [Untidy memories for a loveable Singapore.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20130321-1.2.16.1) *Today*, p. 12. Retrieved from NewspaperSG.
 
-[^7]:“Temporality” is a photographic series created during NOISE apprenticeship programme by NAC in 2013. See Torame, J. (n,d,). Temporality. Retrieved from Julia Torame website.
+[^7]:“Temporality” is a photographic series created during the NOISE apprenticeship programme by NAC in 2013. See Torame, J. (n,d,). Temporality. Retrieved from Julia Torame website.
 
 [^8]:See Points of departure. (2014). Retrieved from Julia Torame website. 
 
-[^9]:Leong, M. (2011). The Junk (p. 18). In The ice ball man and other peoms. Singapore: Ethos Books. (Not available in NLB holdings).
+[^9]:Leong, M. (2011). The Junk (p. 18). In *The ice ball man and other poems*. Singapore: Ethos Books. (Not available in NLB holdings).
 
 [^10]:See Lim, J. (2010, August 16). Once Tanah Merah….. Retrieved from The Long and Winding Road website.
 
@@ -99,7 +97,7 @@ Nora, P. (1989, Spring). Between memory and history: Les Lieux de Memoire. <i>Re
 
 [^12]:See R. Tan. (2014, May 1). How is Kusu island doing? Retrieved from wildshores blogspot.
 
-[^13]:See Lim, J. (n.d.). On a little street in Singapore. Retrieved from facebook.
+[^13]:See Lim, J. (n.d.). On a little street in Singapore. Retrieved from Facebook.
 
 [^14]:The term “third culture kid or adult” was first coined by researchers John and Ruth Useem in the 1950s, who used it to describe children who were raised in a culture outside of their parents’ culture for a significant part of their development years. See Third culture kid. (2020, October 10). Retrieved from Wikipedia.org. 
 
