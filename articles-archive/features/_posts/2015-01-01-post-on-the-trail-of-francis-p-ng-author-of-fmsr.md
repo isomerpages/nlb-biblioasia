@@ -57,7 +57,7 @@ Evidence shows that Teo studied at St Joseph's Institution (SJI). He took the Sc
 <div style="background-color: white;">Serangoon Road, circa 1911. At the time Serangoon Road was serviced by a single tram line running from Mackenzie Road depot to Paya Lebar. Teo very likely lived at 700 Serangoon Road in the early 1930s, today an empty plot of land just in front of the Kwong Wai Shiu Hospital. <i>Arkshak C Galstaun Collection, courtesy of National Archives of Singapore. </i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/StJosephInstitution_re.jpg)
-<div style="background-color: white;">St Joseph’s Institution, circa 1912. Teo studied here and passed his School Certificate Examination in 1929. <i>Arkshak C Collection. courtesy of National Archives of Singapore. </i></div>
+<div style="background-color: white;">St Joseph’s Institution, circa 1912. Teo studied here and passed his School Certificate Examination in 1929. <i>Arkshak C Collection, courtesy of National Archives of Singapore. </i></div>
 
 In 1931, two years after a civil service appointment, Teo was admitted to Raffles College at Bukit Timah Road, the precursor of the University of Malaya and NUS.[^15] Raffles College had opened only two years before to groom local university-educated school teachers at a time when schools were dominated by British expatriates. Teo entered the college together with Paul Abisheganaden (1914–2011), the first Singaporean choral and orchestral conductor: Lee Hah Ing (1914–2009), the former principal of Anglo-Chinese School; and Lokman bin Yusof (1914?–1972), the first Lord Mayor of the city of Kuala Lumpur. [^16]
 
