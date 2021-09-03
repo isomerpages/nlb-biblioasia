@@ -4,8 +4,6 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/search-sg-old-map
 layout: post
 ---
-
-
 #### **Kwa Chong Guan** dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.
 
 The study of maps has traditionally been the purview of geographers. Maps are a documentation of the landscapes that geographers study, and as such, have not attracted the attention of historians whose primary concern is the study of events. But maps document the spatial context within which the events that historians study occur. This essay examines how early modern European maps and sea charts of Asia are significant for what they show of Singapore's historical significance and strategic location two centuries before Stamford Raffles claimed it. 
@@ -49,7 +47,7 @@ Ptolemy’s maps and system of anticipating what lay over the horizon of the oce
 
 The Ptolemaic vision of Indiae Orientalis was not corrected until around 1513 with the publication of <i>Livro de Francisco Rodrigues (The Book of Francisco Rodrigues)</i> by the self-styled “Pilot-Major of the Armada that discovered Banda and the Moluccas”. This is one of the earliest navigational guides with 26 maps and charts on sailing from Europe to East Africa and onwards to Melaka and then the Moluccas (Maluku) and north China. Other rutters and charts provided new data to revise Ptolemy’s map. 
 
-The German cartographer Martin Wald-seemüller (1470–1518) led the revision and updating of the Ptolemaic model to incorporate new information that 15th-century voyagers were bringing back. His 1507 <i>Universalis Cosmographia</i> map of the world has today attained World Heritage status as the first map to identify America as a separate land mass. In addition to the obligatory 27 Ptolemaic maps, Waldseemüller also published another 20 “modern maps” that were revised in various editions. [^4]
+The German cartographer Martin Wald-seemüller (1470–1518) led the revision and updating of the Ptolemaic model to incorporate new information that 15th-century voyagers were bringing back. His 1507 <i>Universalis Cosmographia</i> map of the world has today attained World Heritage status as the first map to identify America as a separate land mass. In addition to the obligatory 27 Ptolemaic maps, Waldseemüller also published another 20 “modern maps” that were revised in various editions. 
 
 Another German cartographer, Sebastian Münster (1488–1552) produced a new edition of Ptolemy’s <i>Geography</i> in 1540 with 12 new maps and a major text, and published <i>Cosmographia</i> four years later. The work went through some 56 editions in six languages in the following century. Münster’s world map continued to follow Ptolemy’s principle, in which all the continents were linked up and enclosed the Indian Ocean, even as accumulating knowledge showed otherwise. It was only in the 17th century that this Ptolemaic image of Asia was finally abandoned.
 
@@ -59,7 +57,7 @@ Another German cartographer, Sebastian Münster (1488–1552) produced a new edi
 
 #### **Recovering Ptolemy’s Legacy in SE Asia** 
 
-It was the Greco-Latin texts, in particular those by Ptolemy, that the pioneering generation of historians studied to make sense of the historical landscape of Southeast Asia they were reconstructing. George Coedès, who became the doyen of early Southeast Asian history, started his career by publishing an edition of the Greek and Latin texts on Southeast Asia in 1910. Louis Renou’s 1925 edition of Book VII of Ptolemy’s Geography is still today one of the better guides to a difficult text.4 The lawyer and barrister, Dato Sir Roland Braddell, pioneered the study of the Ptolemaic references to Malaya in the 1930s.[^5]
+It was the Greco-Latin texts, in particular those by Ptolemy, that the pioneering generation of historians studied to make sense of the historical landscape of Southeast Asia they were reconstructing. George Coedès, who became the doyen of early Southeast Asian history, started his career by publishing an edition of the Greek and Latin texts on Southeast Asia in 1910. Louis Renou’s 1925 edition of Book VII of Ptolemy’s Geography is still today one of the better guides to a difficult text.[^4] The lawyer and barrister, Dato Sir Roland Braddell, pioneered the study of the Ptolemaic references to Malaya in the 1930s.[^5]
 
 A new era in the study of the historical geography of Malaya started with the establishment of a Department of Geography at the University of Malaya and the recruitment of Paul Wheatley in 1952. Wheatley focused on the historical geography of Malaya and studied classical Chinese to access the Chinese texts on early Southeast Asia. His 1958 University of London doctoral thesis on <i>The Golden Khersonese: Studies in the Historical Geography of the Malay Peninsula before A.D. 1500</i>, published in 1961, remains today a benchmark reference text. In successive chapters he collated and translated the classical Chinese, Greek, Latin, Indian and Arab textual references to the historical geography of Malaya. 
 
