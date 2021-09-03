@@ -22,13 +22,13 @@ While the Shaws' pre-World War II Malay films featured <i>bangsawan</i> actors a
 At this point, Rajhans recognised the need to infuse his crew with fresh blood instead of relying solely on the local traditional <i>bangsawan</i> (Malay opera) performers who had crossed over into the world of moving pictures. Whilst on talent-scouting trips in the Malay Peninsular and Singapore, Rajhans spotted the young musician P. Ramlee and quickly hired the charismatic singer-actor. Ramlee made his screen debut in the 1948 film <i>Chinta (Love)</i>, playing the supporting role of a swarthy villain opposite screen siren Siput Sarawak.[^13]
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/bg3_re.jpg)
-<div style="background-color: white;">Maria Menado as the pontianak in B.N. Rao's 1957 Dendam Pontianak. © Dendam Pontianak. Directed by B. Narayan Rao, produced by Cathay-Keris Films. Singapore, 1957.</div>
+<div style="background-color: white;">Maria Menado as the pontianak in B.N. Rao's 1957 <i>Dendam Pontianak</i>. © Dendam Pontianak. <i>Directed by B. Narayan Rao, produced by Cathay-Keris Films. Singapore, 1957.</i></div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/P_Ramlee_re.jpg)
-<div style="background-color: white;">P. Ramlee was an actor-singer who starred in many of Shaw's MFP's films. © 120 Malay Movies, Amir Muhammad, published by Matahari Books, 2010.</div>
+<div style="background-color: white;">P. Ramlee was an actor-singer who starred in many of Shaw's MFP's films. © 120 Malay Movies, <i>Amir Muhammad, published by Matahari Books, 2010.</i></div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Singapore_Night_re.jpg)
-<div style="background-color: white;">A 1948 flyer advertising Singapura Di Waktu Malam (Singapore Night), one of MFP’s earliest Malay films and starring Siput Sarawak and Bachtiar Effendi. © Singapura Di Waktu Malam. Directed by B.S. Rajhans, produced by Malay Film Productions, 1947. Courtesy of Wong Han Min.</div>
+<div style="background-color: white;">A 1948 flyer advertising <i>Singapura Di Waktu Malam (Singapore Night)</i>, one of MFP’s earliest Malay films and starring Siput Sarawak and Bachtiar Effendi. © Singapura Di Waktu Malam. Directed by B.S. Rajhans, produced by Malay Film Productions, 1947. <i>Courtesy of Wong Han Min.</i></div>
 
 Not to be eclipsed was rival Cathay Organisation’s Cathay-Keris Films with its studios at Jalan Keris in the East Coast area. In 1953, Cathay's chairman Loke Wan Tho teamed up with Keris Film Productions' managing director Ho Ah Loke to form the Cathay-Keris Studio. Cathay-Keris was to pose a serious challenge to Shaw Brothers MFP’s dominance in the Malay film industry.[^14]
 
