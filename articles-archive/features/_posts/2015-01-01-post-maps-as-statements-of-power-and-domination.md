@@ -50,9 +50,8 @@ Beginning with some of the oldest maps in my collection such as Sebastian Münst
 
 These maps, produced as they were in the 16th century, tell us something about the nations that produced them. Münster 's maps (1540 and 1598) were produced at a time when Western Europe was slowly emerging from the Dark Ages and when European military-economic power was unable to conquer and dominate the rest of the world. Long before the Industrial Revolution, the first maps of Asia by the Spanish and Portuguese – and later the English, Dutch, French and other Europeans – depicted an Asia that was vast, rich and overpowering – but at the same time laden with wonders and all things exotic. (Note that Münster's 1540 map of Southeast Asia comes with curious vignettes of strange and wonderful creatures that were said to roam the countryside in Asia.)
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/statementsofpoweranddomination/Sebastian Munster 1540.jpg)
+<img  src="/images/vol-10-issue-4/statementsofpoweranddomination/Sebastian Munster 1540.jpg">
 <div style="background-color: white;">Münster 1540 map of Southeast Asia made no reference to Java, Borneo and the rest of the archipelago, and the region was referred to as Greater India. <i>Courtesy of Farish A. Noor.</i></div>
-
 
 Maps of Asia grew more sophisticated and detailed over the next century as European explorers intensified their efforts to venture into the region – initially for the sake of trade and finding the precise route to the Spice Islands, and later for conquest. From the maps of Petrus Bertius[^5] (1661) to Nicholas de Fer[^6] (1714), we can actually see how the development of better maritime technology gave the Western explorers and merchants an edge over their Asian rivals, and how in time they were able to navigate their way across the archipelago and produce maps that grew increasinqly more accurate with each new navigation. Bertius' (1616) early map of Java, for instance, was for all intents and purposes completely useless as a tool for precise navigation but it does show us where the first European merchant-explorers first landed and made contact with the Javanese. The map points out the major trading centres along the northern coastline of Java, but offers no information whatsoever about the southern coast of the island, for the simple reason that few European ships had ever ventured there at that point.
 
@@ -94,9 +93,6 @@ Such maps produced in the 19th century were, and remain, documents of imperial�
 For map collectors with an academic disposition, antiquarian map collecting is more than a hobby with ample dividends. Beautiful though such maps may be, their added worth lie in the story they tell, which happens to be the story of power and knowledge, and how the two came together during the age of late industrial colonial-capitalism. The lesson that can be derived from maps is that the world never simply <i>is</i> or <i>was</i>, but is instead <i>constructed</i> via human intellectual (and martial) effort, and put together into a coherent whole that can be seen and known.
 
 The maps of Asia I have discussed in this essay tell us something about how the idea of "Asia" came about, and how Asia was later divided into neat compartmentalised blocs comprising "Central Asia", "South Asia", "Southeast Asia" and "East Asia". From the fluid and globalised world of Münster in the 16th century to the compartmentalised one of the 20th century, maps tell us how the world was literally and figuratively made up, invented, categorised and compartmentalised. But for us to fully appreciate these developments as they have been recorded in maps, we need to go beyond simply <i>looking</i> at them, and begin to see what is <i>written</i> in them.
-
-
-
 
 <p style="font-size:15px;"><b>Dr Farish A. Noor</b> is an Associate Professor at the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU), Singapore. He has been collecting books, maps and prints of Asia since his student days in Europe and has been researching the subject of state-formation and religio-political movements across Asia.</p>
 
