@@ -109,3 +109,50 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
 #### **Notes**
+
+[^1]:A gopuram is the pyramidal tower erected over the entrance of South Indian Hindu temples.
+[^2]:Liu, G. (1996). In granite and chunam: The national monuments of Singapore (p. 114). Singapore: Landmark Books. Call no.: RSING 725.94095957 LIU
+[^3]:Netto, G. (1961). Indians in Malaya: Historical facts and figures (p. 17). Singapore: George Netto. Call no.: RCLOS 331.62540595 NET
+[^4]:Soundararajan, N. S. (1971). The history of the Sri Mariamman Temple. In Ciṅkappūr Srī Māriyamman̲ Kōvil Makā Kumpāpiṣēka malar = Sri Mariamman Temple Maha Kumbabishegam Souvenir (p. 65). Singapore: Sri Mariamman Devasthanam. Call no.:Tamil RCLOS 294.535095957 SIN
+[^5]:Hindu Endowments Board. (2014). Sri Mariamman Temple. Retrieved from Hindu Endowments Board website.
+[^6]:Uma Devi, G. (2009). Resonance: Songs of our forefathers (p. 49). Singapore: Preservation of Monuments Board. Call no.: RSING 725.94095957 RES
+[^7]:Sanmugam, E., et al. (Eds.). (2009). Sacred sanctuary: The Sri Mariamman Temple (p. 10). Singapore: Sri Mariamman Temple. Call no.: RSING 294.535095957 SAC
+[^8]:Sanmugam, 2009, p. 10
+[^9]:Lee, G. B. (2002). The religious monuments of Singapore: Faiths of our forefathers (p. 72). Singapore: Preservation of Monuments Board & Landmark Books. Call no.: RSING 726.095957 LEE; Ong, C. S. (1971, September 11). Discovering Singapore. The New Nation, p. 7. Retrieved from NewspaperSG.
+[^10]:Lee, 2002, p. 72; The New Nation, 11 Sep 1971.
+[^11]:The term “kling” or “keling”, first mentioned in the Sejarah Melayu or Malay Annals written between the 15th and 16th centuries, was used in colonial Malaya to describe people from the Indian subcontinent. Over time, the term has taken on derogatory connotations and is today regarded by Indians as offensive.
+[^12]:Uma Devi, 2009, p. 49.
+[^13]:Singapore was once a penal colony, and the first shipment of Indian prisoners to Singapore took place in 1825. See Tan, B. (2015, Oct–Dec). Convict labour in colonial Singapore. BiblioAsia, 11(3), 36–41.
+[^14]:Liu, 1996, p. 114; Sanmugam, 2009, p. 13.
+[^15]:Liu, G. (1984). Pastel portraits: Singapore’s architectural heritage (p. 126). Singapore: Singapore Coordinating Committee. Call no.: RSING 722.4095957 PAS 
+[^16]:Sanmugam, 2009, p. 13.
+[^17]:Liu, 1996, p. 114.
+[^18]:Lee, 2002, p. 72.
+[^19]:Uma Devi, 2009, p. 49; Sanmugam, 2009, p. 15.
+[^20]:Uma Devi, 2009, p. 49; Sanmugam, 2009, p. 15; Leong, W. K. (1998, October 8). Walking on fire for his dead parents. *The Straits Times*, p. 27. Retrieved from NewspaperSG.
+[^21]:The Dravidian architectural style originated from the southern part of the Indian subcontinent and consists primarily of temples with pyramidal-shaped towers.
+[^22]:Khoo, B. L. (1972, November 24). Singapore’s Hindu temples.*The New Nation*, p. 11. Retrieved from NewspaperSG.
+[^23]:Uma Devi, 2009, p. 49.
+[^24]:Lee, 2002, p. 76.
+[^25]:Lee, 2002, p. 76.
+[^26]:Vedic mythology is derived from the Vedas, a large body of Indian scriptures that laid down the basis of classical Hinduism.
+[^27]:Oldest place for the Hindus. (1981, December 13). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^28]:Lee, 2002, p. 76.
+[^29]:Uma Devi, 2009, p. 49.
+[^30]:Sanmugam, 2009, p. 13.
+[^31]:Liu, 1996, p. 115.
+[^32]:Lee, E. (1990). Historic buildings of Singapore (p. 65). Singapore: Preservation of Monuments Board. Call no.: RSING 720.95957 LEE; Sanmugan, 2009, p.17.
+[^33]:Lee, 2002, p. 76.
+[^34]:Liu, 1996, p. 115.
+[^35]:Lee, 2002, p. 76.
+[^36]:Lord Ganesha is the elephant-headed god who symbolises wisdom and prosperity, and is believed to be the remover of all obstacles. He is a major god in the Hindu pantheon and is worshipped at the beginning of all undertakings.
+[^37]:Goddess Saraswathi is the goddess of knowledge,music and the arts.
+[^38]:Yen, F. (2010, April 6). Sri Mariamman Temple unveils its new look. *The Straits Times*. Retrieved from Factiva.
+[^39]:Tay, S. C. (2010, April 10). Brighter and better. *The Straits Times*. Retrieved from Factiva.
+[^40]:Sanmugam, 2009, p. 14.
+[^41]:Lee, 2002, p. 76.
+[^42]:Liu, 1996, p. 115.
+[^43]:Lord Subramanya is the Hindu God of War.
+[^44]:Goddess Drowpathai Amman is one of the most important female characters in the Hindu epic Mahabharata. She is sometimes portrayed as the Mother-Goddess.
+[^45]:Goddess Durgai Amman is the mother of the universe and believed to be the power behind the creation, preservation and destruction of the world.
+[^46]:Goddess Periyachi Amman is considered as the protector of children and mothers, and is associated with childbirth and pregnancy. She is recognised by her eight arms and fearsome appearance.
