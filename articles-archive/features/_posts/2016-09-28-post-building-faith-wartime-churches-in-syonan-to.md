@@ -43,7 +43,7 @@ Here are examples of some POW churches featured in the book.
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/building-faith/06-building_faith.jpg">St Paul’s Church, which opened in June 1944, was constructed inside Changi Gaol, between the Punishment and Isolation blocks. The pulpit, altar rails, lectern, cross and memorial tablets were recycled from the dismantled churches in the Selarang area. The church was the venue for the first Confirmation5 service after the liberation of Singapore in September 1945.</div>
 
-*All images are from The Churches of the Captivity in Malaya by John Northridge Lewis Bryan and published by the Society for Promoting Christian Knowledge (1946). The author wishes to thank the society for granting permission to reproduce the images in this article.*
+*All images are from* The Churches of the Captivity in Malaya *by John Northridge Lewis Bryan and published by the Society for Promoting Christian Knowledge (1946). The author wishes to thank the society for granting permission to reproduce the images in this article.*
 
 <div style="background-color: white;">
 <br>
@@ -52,3 +52,45 @@ Here are examples of some POW churches featured in the book.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+
+#### **References**
+
+Amstutz, H. B. (1945). Prison camp ministries: The personal narrative of Hobart B. Amstutz, 17 February 1942 to 7 September 1945. Singapore: Wesley Manse. Call no.: RRARE 940.5478 AMS; Microfilm no.: NL 10071
+
+Australian Government, National Capital Authority. (2013, March 19). Changi Chapel. Retrieved from National Capital Authority website.
+
+Blackburn, K. (2015). The ghosts of Changi: Captivity and pilgrimage in Singapore. In K. Reeves, et. al. (Ed.), Battlefield events: Landscape, commemoration and heritage (pp. 144–163). Abingdon, Oxon; New York, NY: Routledge. (Not available in NLB holdings)
+
+Bryan, J. N. L. (1946). The churches of the captivity in Malaya. London: Society for Promoting Christian Knowledge. Call no.: RCLOS 940.5472595 BRY
+
+Chua, S. K., & Tan, B. L. (Interviewers). (1983, September 21). Oral history interview with Mr Stanley Warren [Transcript of MP3 Recording No. 000205/08/06, pp. 54–55]. Retrieved from National Archives of Singapore website.
+
+Chua, S. K., & Tan, B. L. (Interviewers). (1983, September 22). Oral history interview with Mr Stanley Warren [Transcript of MP3 Recording No. 000205/08/08, p. 78]. Retrieved from National Archives of Singapore website.
+
+Cooper, J. (n.d.). Report on investigation of hidden mural at No. 11 Adam Park & hidden calendar at No. 5 Adam Park. Retrieved from Adam Park Project website.
+
+Cooper, J. (2016). Tigers in the park: The wartime heritage of Adam Park. Singapore: The Literary Centre. Call no.: RSING 940.547252095957 COO
+
+Cordingly, L., & Waite, T. (2015). The Changi cross: A symbol of hope in the shadow of death. Norwich: Art Angels Publishing. Call no.: RSING 940.5472520922 COR-[WAR]
+
+FEPOW Community. (n.d.). Reverend L V. Headley. Retrieved from FEPOW Community website.
+
+Hamzah Muzaini & Yeoh, B. S. A. (2016). ‘Localising’ war representations at the Changi Chapel and Museum. In Contested memoryscapes: The politics of Second World War commemoration in Singapore (pp. 47–68). Farnham, Surrey, England: Ashgate. (Not available in NLB holdings)
+
+Hayter, J. (1991). Priest in prison: Four years of life in Japanese-occupied Singapore, 1941–1945. Thornhill: Tynron. Call no.: RSING 940.547252092 HAY
+
+Headley, G. (2009, March 10). The work of the church in the Japanese jail camps. Retrieved from From Harlech & London website.
+
+Imperial War Museums. (2016). Scenes in Changi prisoner-of-war camp, Singapore 1942. Retrieved from Imperial War Museums website.
+
+Stubbs, P. W. (2003). The Changi murals: The story of Stanley Warren’s war. Singapore: Landmark Books. Call no.: RSING 940.547252092 STU
+
+Tan, B. L. (Interviewer). (1983, June 20). Oral history interview with Carl Francis de Souza [Transcript of MP3 Recording No. 000290/07/01, pp.1–3, 7–11]. Retrieved from National Archives of Singapore website.
+
+Tan, B. L. (Interviewer). (1983, June 20). Oral history interview with Carl Francis de Souza [Transcript of MP3 Recording No. 000290/07/02, p. 14]. Retrieved from National Archives of Singapore website.
+
+The Adam Park Project. (2016, May 22). *Captain Eric Andrews – St Michael’s Chapel, Adam Park, Choral Register and Congregational Roll* p. 285. Retrieved from Adam Park Project website.
+
+Zaccheus, M. (2016, April 11). WWII tale unravels at Adam Park bungalow. *The Straits Times*. Retrieved from The Straits Times website.
+
+#### **Notes**
