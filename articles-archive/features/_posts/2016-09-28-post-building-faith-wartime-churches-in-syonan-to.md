@@ -91,11 +91,11 @@ Headley, G. (2009, March 10). *The work of the church in the Japanese jail camps
 
 Imperial War Museums. (2016). *Scenes in Changi prisoner-of-war camp, Singapore 1942*. Retrieved from Imperial War Museums website.
 
-Stubbs, P. W. (2003). The Changi murals: The story of Stanley Warren’s war. Singapore: Landmark Books. Call no.: RSING 940.547252092 STU
+Stubbs, P. W. (2003). *[The Changi murals: The story of Stanley Warren’s war](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=12162378)*. Singapore: Landmark Books. Call no.: RSING 940.547252092 STU
 
-Tan, B. L. (Interviewer). (1983, June 20). Oral history interview with Carl Francis de Souza [Transcript of MP3 Recording No. 000290/07/01, pp.1–3, 7–11]. Retrieved from National Archives of Singapore website.
+Tan, B. L. (Interviewer). (1983, June 20).*[Oral history interview with Carl Francis de Souza](http://www.nas.gov.sg/archivesonline/viewer?uuid=48d056ba-115f-11e3-83d5-0050568939ad-OHC000290001)* [Transcript of MP3 Recording No. 000290/07/01, pp.1–3, 7–11]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
-Tan, B. L. (Interviewer). (1983, June 20). Oral history interview with Carl Francis de Souza [Transcript of MP3 Recording No. 000290/07/02, p. 14]. Retrieved from National Archives of Singapore website.
+Tan, B. L. (Interviewer). (1983, June 20). *[Oral history interview with Carl Francis de Souza](http://www.nas.gov.sg/archivesonline/viewer?uuid=48d056ba-115f-11e3-83d5-0050568939ad-OHC000290001)* [Transcript of MP3 Recording No. 000290/07/02, p. 14]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
 The Adam Park Project. (2016, May 22). *Captain Eric Andrews – St Michael’s Chapel, Adam Park, Choral Register and Congregational Roll* p. 285. Retrieved from Adam Park Project website.
 
