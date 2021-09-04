@@ -47,7 +47,7 @@ Here are examples of some POW churches featured in the book.
 
 |The architecture of St George’s Church, located near the Changi Gaol, is typical of open-air POW churches of the time. Built in 1944, this was the third iteration of St George’s Church – the first was near Changi Village and the second in Kanburi (or Kanchanaburi), Thailand. In this particular construction, the church had a rudimentary “A” frame roof measuring 14 ft by 10 ft that functioned as a chancel and shelter for the altar. On the altar was a brass cross, known as the Changi Cross. It was fashioned from a 4.5 Howitzer shell in 1942 and followed the church during its various relocations. The rest of the church was exposed to the elements and enclosed only by an attap fence. The church also had permanent benches that could seat 200 people. Shrubs, creepers and tropical flowers were planted to beautify the sanctuary. In April 1945, the church moved for the fourth and last time to the officers’ area of Changi Prison. The altar cross currently resides at the Changi Museum.|
 
-|<img src="/images/Vol-12-issue-3/building-faith/06-building_faith.jpg" width="280px">|
+|<img style="width:300px;" src="/images/Vol-12-issue-3/building-faith/06-building_faith.jpg">|
 
 |St Paul’s Church, which opened in June 1944, was constructed inside Changi Gaol, between the Punishment and Isolation blocks. The pulpit, altar rails, lectern, cross and memorial tablets were recycled from the dismantled churches in the Selarang area. The church was the venue for the first Confirmation[^5] service after the liberation of Singapore in September 1945.|
 
