@@ -89,3 +89,7 @@ The temple also has shrines dedicated to the goddesses Durgai Amman45, Periyachi
 There are two smaller and separate shrines scattered in the temple grounds honouring Lord Ganesha and Sri Aravan, a character from the Indian epic the Mahabharata. The viewing gallery on the left perimeter of the temple is used by devotees to view the ongoings of temple rituals and festivals. Also within the temple grounds are a kitchen, staff quarters and a wedding hall with a separate entrance on Pagoda Street.
 
 The entire temple complex is surrounded by a high boundary wall surmounted by figures of sacred cows placed at regular intervals. The cow, which is revered in Hinduism, symbolises Mother Earth, strength, abundance, selfless giving and the sustenance of life.
+
+|**Temple Milestones**|
+|1827|Opens as a small wood-and-attap structure.|
+|1843|Brick building replaces the wood-and-attap structure.|
