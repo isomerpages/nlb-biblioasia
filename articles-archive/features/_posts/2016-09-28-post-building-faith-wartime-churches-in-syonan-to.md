@@ -34,6 +34,7 @@ Time and again, POWs were forced to abandon these makeshift churches when the Ja
 Here are examples of some POW churches featured in the book.
 
 |<img style="width:400px;" src="/images/Vol-12-issue-3/building-faith/02-building_faith.jpg">|
+
 |St David’s Church was erected to minister to the internees at the Sime Road POW camp. The wall murals on either side of the altar were created in charcoal by Stanley Warren, best known as the painter of the Changi Murals at St Luke’s Chapel at Roberts Barracks. The mural to the right of the altar depicted the scene from the “Nativity”, while the one on the left featured the scene from “The Descent from the Cross”. Today, a power substation occupies the site of the former St David’s Church.|
 
 |<img style="width:400px;" src="/images/Vol-12-issue-3/building-faith/03-building_faith.jpg">|
