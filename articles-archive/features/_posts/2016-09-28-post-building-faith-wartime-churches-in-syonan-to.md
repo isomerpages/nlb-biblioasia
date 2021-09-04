@@ -43,11 +43,12 @@ Here are examples of some POW churches featured in the book.
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/building-faith/06-building_faith.jpg">St Paul’s Church, which opened in June 1944, was constructed inside Changi Gaol, between the Punishment and Isolation blocks. The pulpit, altar rails, lectern, cross and memorial tablets were recycled from the dismantled churches in the Selarang area. The church was the venue for the first Confirmation5 service after the liberation of Singapore in September 1945.</div>
 
+*All images are from The Churches of the Captivity in Malaya by John Northridge Lewis Bryan and published by the Society for Promoting Christian Knowledge (1946). The author wishes to thank the society for granting permission to reproduce the images in this article.*
+
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/building-faith/gracie.png">
-	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+	<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the Rare Materials Collection, and her research areas are in colonial administration and Singapore’s publishing history.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
-
