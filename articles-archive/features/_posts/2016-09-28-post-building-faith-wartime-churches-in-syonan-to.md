@@ -9,5 +9,6 @@ layout: post
 <center>“Come unto Me, all ye labour and are<br> 
 heavy laden, and I will give you rest.” 
 </center>
-<p align=right>– Matthew 11</p>
+<p align=right>– Matthew 11:28</p>
 
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/law-of-the-land/01-lawofland.jpg"></i></div>
