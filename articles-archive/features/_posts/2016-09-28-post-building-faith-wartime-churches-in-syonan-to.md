@@ -33,22 +33,22 @@ Time and again, POWs were forced to abandon these makeshift churches when the Ja
 
 Here are examples of some POW churches featured in the book.
 
-|<img style="width:300px;" src="/images/Vol-12-issue-3/building-faith/02-building_faith.jpg">|
+|<img style="width:400px;" src="/images/Vol-12-issue-3/building-faith/02-building_faith.jpg">|
 |St David’s Church was erected to minister to the internees at the Sime Road POW camp. The wall murals on either side of the altar were created in charcoal by Stanley Warren, best known as the painter of the Changi Murals at St Luke’s Chapel at Roberts Barracks. The mural to the right of the altar depicted the scene from the “Nativity”, while the one on the left featured the scene from “The Descent from the Cross”. Today, a power substation occupies the site of the former St David’s Church.|
 
-|<img style="width:300px;" src="/images/Vol-12-issue-3/building-faith/03-building_faith.jpg">|
+|<img style="width:400px;" src="/images/Vol-12-issue-3/building-faith/03-building_faith.jpg">|
 
 |Adam Park Church (also known as St Michael’s Chapel) was established on the upper floor of a bombed house in Adam Park (now No. 11 Adam Park) and opened on Pentecost Sunday on 24 May 1942. The altar cross was taken from the mortuary chapel at Alexandra Hospital, and the stained glass windows above the altar were constructed from glass pieces and transparent paper. In April 2016, the press reported the discovery of the remains of the church’s wall murals with the Bible verse, “Lift up your heads, O ye Gates and the King of Glory shall Come in”. The murals were drawn by Captain Reverend Eric Andrews, the camp interpreter and padre, using yellow clay and Reckitt’s Blue[^4]. Adam Park served as a POW camp during the Japanese Occupation.|
 
-|<img  style="width:300px;" src="/images/Vol-12-issue-3/building-faith/04-building_faith.jpg">|
+|<img  style="width:400px;" src="/images/Vol-12-issue-3/building-faith/04-building_faith.jpg">|
 
 |In April 1942, many POWs were dispersed to camps around the island. One such camp was set up at the Great World Amusement Park. To meet the spiritual needs of the servicemen, the Church of the Ascension at Great World opened on Ascension Day on 14 May 1942. The church was formed by combining four shop units, including a Chinese beauty parlour. Furnishings were scoured from empty shops in the amusement park and adapted for use. This may explain the hint of chinoiserie present in the interior of the church.|
 
-|<img style="width:300px;" src="/images/Vol-12-issue-3/building-faith/05-building_faith.jpg">|
+|<img style="width:400px;" src="/images/Vol-12-issue-3/building-faith/05-building_faith.jpg">|
 
 |The architecture of St George’s Church, located near the Changi Gaol, is typical of open-air POW churches of the time. Built in 1944, this was the third iteration of St George’s Church – the first was near Changi Village and the second in Kanburi (or Kanchanaburi), Thailand. In this particular construction, the church had a rudimentary “A” frame roof measuring 14 ft by 10 ft that functioned as a chancel and shelter for the altar. On the altar was a brass cross, known as the Changi Cross. It was fashioned from a 4.5 Howitzer shell in 1942 and followed the church during its various relocations. The rest of the church was exposed to the elements and enclosed only by an attap fence. The church also had permanent benches that could seat 200 people. Shrubs, creepers and tropical flowers were planted to beautify the sanctuary. In April 1945, the church moved for the fourth and last time to the officers’ area of Changi Prison. The altar cross currently resides at the Changi Museum.|
 
-|<img style="width:300px;" src="/images/Vol-12-issue-3/building-faith/06-building_faith.jpg">|
+|<img style="width:400px;" src="/images/Vol-12-issue-3/building-faith/06-building_faith.jpg">|
 
 |St Paul’s Church, which opened in June 1944, was constructed inside Changi Gaol, between the Punishment and Isolation blocks. The pulpit, altar rails, lectern, cross and memorial tablets were recycled from the dismantled churches in the Selarang area. The church was the venue for the first Confirmation[^5] service after the liberation of Singapore in September 1945.|
 
