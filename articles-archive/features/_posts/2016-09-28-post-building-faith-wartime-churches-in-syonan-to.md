@@ -94,3 +94,9 @@ The Adam Park Project. (2016, May 22). *Captain Eric Andrews – St Michael’s 
 Zaccheus, M. (2016, April 11). WWII tale unravels at Adam Park bungalow. *The Straits Times*. Retrieved from The Straits Times website.
 
 #### **Notes**
+
+[^1]:Bryan, J. N. L. (1946). [The churches of the captivity in Malaya.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5031114) London: Society for Promoting Christian Knowledge. Call no.: RCLOS 940.5472595 BRY
+[^2]:The open-air Changi Chapel in the Changi Museum is a representative replica of the many chapels that were built by POWs during the Japanese Occupation. It is often mistaken to be an exact copy of an original war-time chapel, also named the Changi Chapel, at the Royal Military College in Canberra, Australia. The chapel in Australia was first built in 1943 at Sime Road Camp and re-assembled by Australian forces at Changi Camp in 1944. After the war, the chapel structure was dismantled and taken to Australia. In 1988, it was restored as a memorial to Australian POWs. In contrast to the chapel in Australia, Changi Chapel in Singapore is a simpler structure made from wooden planks with a high “A” frame roof covered with *attap* (palm) leaves. Its thatched hut design is an archetype of the many make-shift open-air churches built at the time.
+[^3]:Holy Communion is a Christian sacrament in which consecrated bread and wine are partaken as the body and blood of Jesus Christ or as symbols of Christ’s body and blood in remembrance of Christ’s death.
+[^4]:Reckitt’s Blue is a laundry whitener that contains traces of blue dye.
+[^5]:Confirmation is a Christian sacrament or rite where adolescents or adults, having been baptised as infants and now reached the age of reason, affirm their Christian beliefs and become a full member of the church.
