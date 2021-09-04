@@ -69,21 +69,21 @@ Australian Government, National Capital Authority. (2013, March 19). *Changi Cha
 
 Blackburn, K. (2015). *The ghosts of Changi: Captivity and pilgrimage in Singapore*. In K. Reeves, et. al. (Ed.), Battlefield events: Landscape, commemoration and heritage (pp. 144–163). Abingdon, Oxon; New York, NY: Routledge. (Not available in NLB holdings)
 
-Bryan, J. N. L. (1946). The churches of the captivity in Malaya. London: Society for Promoting Christian Knowledge. Call no.: RCLOS 940.5472595 BRY
+Bryan, J. N. L. (1946). *[The churches of the captivity in Malaya](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=5031114)*. London: Society for Promoting Christian Knowledge. Call no.: RCLOS 940.5472595 BRY
 
-Chua, S. K., & Tan, B. L. (Interviewers). (1983, September 21). Oral history interview with Mr Stanley Warren [Transcript of MP3 Recording No. 000205/08/06, pp. 54–55]. Retrieved from National Archives of Singapore website.
+Chua, S. K., & Tan, B. L. (Interviewers). (1983, September 21). *[Oral history interview with Mr Stanley Warren](http://www.nas.gov.sg/archivesonline/viewer?uuid=42d9c778-115f-11e3-83d5-0050568939ad-OHC000205006)* [Transcript of MP3 Recording No. 000205/08/06, pp. 54–55]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
-Chua, S. K., & Tan, B. L. (Interviewers). (1983, September 22). Oral history interview with Mr Stanley Warren [Transcript of MP3 Recording No. 000205/08/08, p. 78]. Retrieved from National Archives of Singapore website.
+Chua, S. K., & Tan, B. L. (Interviewers). (1983, September 22). *[Oral history interview with Mr Stanley Warren](http://www.nas.gov.sg/archivesonline/viewer?uuid=42d9c778-115f-11e3-83d5-0050568939ad-OHC000205006)* [Transcript of MP3 Recording No. 000205/08/08, p. 78]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
-Cooper, J. (n.d.). Report on investigation of hidden mural at No. 11 Adam Park & hidden calendar at No. 5 Adam Park. Retrieved from Adam Park Project website.
+Cooper, J. (n.d.). *Report on investigation of hidden mural at No. 11 Adam Park & hidden calendar at No. 5 Adam Park.* Retrieved from Adam Park Project website.
 
-Cooper, J. (2016). Tigers in the park: The wartime heritage of Adam Park. Singapore: The Literary Centre. Call no.: RSING 940.547252095957 COO
+Cooper, J. (2016). *[Tigers in the park: The wartime heritage of Adam Park](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=202343956)*. Singapore: The Literary Centre. Call no.: RSING 940.547252095957 COO
 
-Cordingly, L., & Waite, T. (2015). The Changi cross: A symbol of hope in the shadow of death. Norwich: Art Angels Publishing. Call no.: RSING 940.5472520922 COR-[WAR]
+Cordingly, L., & Waite, T. (2015). *[The Changi cross: A symbol of hope in the shadow of death](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=201302143)*. Norwich: Art Angels Publishing. Call no.: RSING 940.5472520922 COR-[WAR]
 
-FEPOW Community. (n.d.). Reverend L V. Headley. Retrieved from FEPOW Community website.
+FEPOW Community. (n.d.). *Reverend L V. Headley*. Retrieved from FEPOW Community website.
 
-Hamzah Muzaini & Yeoh, B. S. A. (2016). ‘Localising’ war representations at the Changi Chapel and Museum. In Contested memoryscapes: The politics of Second World War commemoration in Singapore (pp. 47–68). Farnham, Surrey, England: Ashgate. (Not available in NLB holdings)
+Hamzah Muzaini & Yeoh, B. S. A. (2016). ‘Localising’ war representations at the Changi Chapel and Museum. *In Contested memoryscapes: The politics of Second World War commemoration in Singapore* (pp. 47–68). Farnham, Surrey, England: Ashgate. (Not available in NLB holdings)
 
 Hayter, J. (1991). Priest in prison: Four years of life in Japanese-occupied Singapore, 1941–1945. Thornhill: Tynron. Call no.: RSING 940.547252092 HAY
 
