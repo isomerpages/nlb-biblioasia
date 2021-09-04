@@ -85,11 +85,11 @@ FEPOW Community. (n.d.). *Reverend L V. Headley*. Retrieved from FEPOW Community
 
 Hamzah Muzaini & Yeoh, B. S. A. (2016). ‘Localising’ war representations at the Changi Chapel and Museum. *In Contested memoryscapes: The politics of Second World War commemoration in Singapore* (pp. 47–68). Farnham, Surrey, England: Ashgate. (Not available in NLB holdings)
 
-Hayter, J. (1991). Priest in prison: Four years of life in Japanese-occupied Singapore, 1941–1945. Thornhill: Tynron. Call no.: RSING 940.547252092 HAY
+Hayter, J. (1991). *[Priest in prison: Four years of life in Japanese-occupied Singapore, 1941–1945](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=8678457)*. Thornhill: Tynron. Call no.: RSING 940.547252092 HAY
 
-Headley, G. (2009, March 10). The work of the church in the Japanese jail camps. Retrieved from From Harlech & London website.
+Headley, G. (2009, March 10). *The work of the church in the Japanese jail camps*. Retrieved from From Harlech & London website.
 
-Imperial War Museums. (2016). Scenes in Changi prisoner-of-war camp, Singapore 1942. Retrieved from Imperial War Museums website.
+Imperial War Museums. (2016). *Scenes in Changi prisoner-of-war camp, Singapore 1942*. Retrieved from Imperial War Museums website.
 
 Stubbs, P. W. (2003). The Changi murals: The story of Stanley Warren’s war. Singapore: Landmark Books. Call no.: RSING 940.547252092 STU
 
