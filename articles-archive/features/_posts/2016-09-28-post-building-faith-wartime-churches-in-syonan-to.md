@@ -63,11 +63,11 @@ Here are examples of some POW churches featured in the book.
 
 #### **References**
 
-Amstutz, H. B. (1945). Prison camp ministries: The personal narrative of Hobart B. Amstutz, 17 February 1942 to 7 September 1945. Singapore: Wesley Manse. Call no.: RRARE 940.5478 AMS; Microfilm no.: NL 10071
+Amstutz, H. B. (1945). *[Prison camp ministries: The personal narrative of Hobart B. Amstutz, 17 February 1942 to 7 September 1945](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=4412978)*. Singapore: Wesley Manse. Call no.: RRARE 940.5478 AMS; Microfilm no.: NL 10071
 
-Australian Government, National Capital Authority. (2013, March 19). Changi Chapel. Retrieved from National Capital Authority website.
+Australian Government, National Capital Authority. (2013, March 19). *Changi Chapel*. Retrieved from National Capital Authority website.
 
-Blackburn, K. (2015). The ghosts of Changi: Captivity and pilgrimage in Singapore. In K. Reeves, et. al. (Ed.), Battlefield events: Landscape, commemoration and heritage (pp. 144–163). Abingdon, Oxon; New York, NY: Routledge. (Not available in NLB holdings)
+Blackburn, K. (2015). *The ghosts of Changi: Captivity and pilgrimage in Singapore*. In K. Reeves, et. al. (Ed.), Battlefield events: Landscape, commemoration and heritage (pp. 144–163). Abingdon, Oxon; New York, NY: Routledge. (Not available in NLB holdings)
 
 Bryan, J. N. L. (1946). The churches of the captivity in Malaya. London: Society for Promoting Christian Knowledge. Call no.: RCLOS 940.5472595 BRY
 
