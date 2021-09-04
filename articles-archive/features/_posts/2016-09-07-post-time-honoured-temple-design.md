@@ -62,7 +62,8 @@ In 1936, the three-tiered gopuram was raised into its present five-tiers. In the
 
 Craftsmen from South India drew their inspiration not only from Indian tradition, but also from the military traditions of colonial India. Hence, they incorporated Indian sepoys(soldiers recruited by the British in India), dressed in khaki uniforms and armed with rifles, into the collection of the sculptures carved into the gopuram as well as on the walls of the temple. In 1971, however, the sepoy statues on the gopuram were removed during renovation works and replaced with figures clad in Indian traditional costumes.32
 
-The Mandapam
+#### **The Mandapam**
+
 The entrance of the temple leads to a main hall or mandapam, which is flanked by a series of square columns ornamented with statues of deities.33 Along the north and south elevations of the hall is an arcade of trefoil arched openings. The main design elements of the mandapam are its colourful ceiling and the series of columns that give definition to the vast space.34
 
 The ceiling of the hall is decorated with elaborate paintings, including that of a mandala, a circular diagram that symbolises the sublime state of Nirvana,35 and Hindu gods such as Lord Ganesha36 and Goddess Saraswathi37. On the walls along the temple columns and in the inner sanctums are hand-painted murals of various deities, always restored to their original vivid hues before each temple re- consecration.38 The highly skilled painters, who hail from Tamil Nadu, have to lie flat on their backs to paint the intricate ceiling panels of the mandapam.39
@@ -80,3 +81,5 @@ Each vimanam is an onion-shaped structure, decorated with colourful painted scul
 The main shrine directly facing the entrance of the temple is that of the principle deity Sri Mariamman. In front of her is a statue of Sinna Amman or Little Goddess. The statue is a small representation of Sri Mariamman installed in the original temple by Naraina Pillai in 1827. The shrine of Sri Drowpathai Amman, the goddess honoured in the annual fire-walking ceremony, is the second most important shrine in the temple.
 
 The temple also has shrines dedicated to the goddesses Durgai Amman45, Periyachi Amman46 and Kaliamman or Kali, the destroyer of evil forces.
+
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/05_temple_design.jpg">The shrine of Sri Mariamman, the presiding deity, takes prime position directly in front of the temple entrance, holding a trident in her left hand. At thebase of the statue in front of Sri Mariamman is a tiny statue of Sinna Amman or Little Goddess, installed in the original temple by Naraina Pillaiin 1827. <i>Photographed in 2016 by the writers.</i></div>
