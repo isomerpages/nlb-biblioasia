@@ -93,3 +93,19 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 |**Temple Milestones**|
 |1827|Opens as a small wood-and-attap structure.|
 |1843|Brick building replaces the wood-and-attap structure.|
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/time-honoured-temple-design/anasuya.png">
+	<b>Anasuya Soundararajan</b> is a researcher at the National Library, Singapore. She provides information services to government agencies on areas such as culture, communications and education. She has a special interest in the history and design of Hindu temples.
+</div>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/time-honoured-temple-design/sri_asrina.png">
+	<b>Sri Asrina Tanuri</b> is a researcher at the National Library, Singapore. She provides information services to government agencies on security, workplace safety and health as well as ageing issues.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+
+#### **Notes**
