@@ -47,41 +47,41 @@ Today, the temple has become a historical landmark even as it continues to serve
 
 #### **Temple Architecture**
 
-Most Hindu temples in Singapore resemble the temples of South India as they are modelled along the Dravidian style of architecture.21 These temples are dedicated to various Hindu gods and goddesses, some with more than one deity presiding in each building of worship.
+Most Hindu temples in Singapore resemble the temples of South India as they are modelled along the Dravidian style of architecture.[^21] These temples are dedicated to various Hindu gods and goddesses, some with more than one deity presiding in each building of worship.
 
-Statues of deities are placed in shrines within the temples. The temples typically feature sculptures and statues, and the inner walls are embellished with murals depicting scenes from Hindu mythology.22 The architecture of the temples comprises three main elements: a gopuram or entrance tower adorned with statues; a mandapam or prayer hall for worship; and vimanam or domes that indicate shrines beneath them.23
+Statues of deities are placed in shrines within the temples. The temples typically feature sculptures and statues, and the inner walls are embellished with murals depicting scenes from Hindu mythology.[^22] The architecture of the temples comprises three main elements: a gopuram or entrance tower adorned with statues; a mandapam or prayer hall for worship; and vimanam or domes that indicate shrines beneath them.[^23]
 
 #### **The Gopuram**
 
-The gopuram refers to the pyramidal-shaped tower at the temple entrance and is an important  feature in South Indian temples. Its great height serves a purpose, acting as a beacon for devotees from afar and allowing them to pray or meditate in  preparation for their entrance into the temple.24 The five-tiered gopuram of the Sri Mariamman Temple is perhaps its most striking feature and is a much-photographed icon on South Bridge Road.25
+The gopuram refers to the pyramidal-shaped tower at the temple entrance and is an important  feature in South Indian temples. Its great height serves a purpose, acting as a beacon for devotees from afar and allowing them to pray or meditate in  preparation for their entrance into the temple.[^24] The five-tiered gopuram of the Sri Mariamman Temple is perhaps its most striking feature and is a much-photographed icon on South Bridge Road.[^25]
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/04_temple_design.jpg">The five-tiered gopuram (tower) as it looks today after the temple underwent a major restoration in 2009. <i>Photographed in 2016 by the writers.</i></div>
 
-The five-metre-high gopuram, which faces east, is adorned with sculptures representing the divine trinity of Vedic mythology26 – Brahma, Vishnu and Shiva. These three gods are responsible for the creation, preservation and destruction of the world respectively.27 Three-dimensional sculptures and carvings depicting the three gods and their many reincarnations embellish the four sides of the tower, presenting a stunning visual tableaux of scenes from Hindu religion and mythology.28
+The five-metre-high gopuram, which faces east, is adorned with sculptures representing the divine trinity of Vedic mythology[^26] – Brahma, Vishnu and Shiva. These three gods are responsible for the creation, preservation and destruction of the world respectively.[^27] Three-dimensional sculptures and carvings depicting the three gods and their many reincarnations embellish the four sides of the tower, presenting a stunning visual tableaux of scenes from Hindu religion and mythology.[^28]
 
-In 1936, the three-tiered gopuram was raised into its present five-tiers. In the 1960s, the gopuram was restored and decorated with the elaborate sculptures and carvings that you see today.29 Photographs of the original three-tiered gopuram show a slimmer and more sparsely decorated structure compared to the present broader and more ornate tower. The sides of the old gopuram also appear to be steeper than the new one.30 Beneath the gopuram is a pair of heavy, double-leafed timber main doors that open into the main hall of the temple.31
+In 1936, the three-tiered gopuram was raised into its present five-tiers. In the 1960s, the gopuram was restored and decorated with the elaborate sculptures and carvings that you see today.[^29] Photographs of the original three-tiered gopuram show a slimmer and more sparsely decorated structure compared to the present broader and more ornate tower. The sides of the old gopuram also appear to be steeper than the new one.[^30] Beneath the gopuram is a pair of heavy, double-leafed timber main doors that open into the main hall of the temple.[^31]
 
-Craftsmen from South India drew their inspiration not only from Indian tradition, but also from the military traditions of colonial India. Hence, they incorporated Indian sepoys(soldiers recruited by the British in India), dressed in khaki uniforms and armed with rifles, into the collection of the sculptures carved into the gopuram as well as on the walls of the temple. In 1971, however, the sepoy statues on the gopuram were removed during renovation works and replaced with figures clad in Indian traditional costumes.32
+Craftsmen from South India drew their inspiration not only from Indian tradition, but also from the military traditions of colonial India. Hence, they incorporated Indian sepoys(soldiers recruited by the British in India), dressed in khaki uniforms and armed with rifles, into the collection of the sculptures carved into the gopuram as well as on the walls of the temple. In 1971, however, the sepoy statues on the gopuram were removed during renovation works and replaced with figures clad in Indian traditional costumes.[^32]
 
 #### **The Mandapam**
 
-The entrance of the temple leads to a main hall or mandapam, which is flanked by a series of square columns ornamented with statues of deities.33 Along the north and south elevations of the hall is an arcade of trefoil arched openings. The main design elements of the mandapam are its colourful ceiling and the series of columns that give definition to the vast space.34
+The entrance of the temple leads to a main hall or mandapam, which is flanked by a series of square columns ornamented with statues of deities.[^33] Along the north and south elevations of the hall is an arcade of trefoil arched openings. The main design elements of the mandapam are its colourful ceiling and the series of columns that give definition to the vast space.[^34]
 
-The ceiling of the hall is decorated with elaborate paintings, including that of a mandala, a circular diagram that symbolises the sublime state of Nirvana,35 and Hindu gods such as Lord Ganesha36 and Goddess Saraswathi37. On the walls along the temple columns and in the inner sanctums are hand-painted murals of various deities, always restored to their original vivid hues before each temple re- consecration.38 The highly skilled painters, who hail from Tamil Nadu, have to lie flat on their backs to paint the intricate ceiling panels of the mandapam.39
+The ceiling of the hall is decorated with elaborate paintings, including that of a mandala, a circular diagram that symbolises the sublime state of Nirvana,[^35] and Hindu gods such as Lord Ganesha[^36] and Goddess Saraswathi[^37]. On the walls along the temple columns and in the inner sanctums are hand-painted murals of various deities, always restored to their original vivid hues before each temple re- consecration.[^38] The highly skilled painters, who hail from Tamil Nadu, have to lie flat on their backs to paint the intricate ceiling panels of the mandapam.[^39]
 
-The original attap walkway that connected the main entrance to the principal shrine of Sri Mariamman was destroyed in a fire in 1910. A permanent walkway, which still stands today, was designed and completed in 1916.40
+The original attap walkway that connected the main entrance to the principal shrine of Sri Mariamman was destroyed in a fire in 1910. A permanent walkway, which still stands today, was designed and completed in 1916.[^40]
 
 #### **The  Vimanam**
 
-A decorated dome known as a vimanam signifies the presence of a shrine or altar beneath it.41 There are four such vimanam, and these are all located in the west elevation of the temple.
+A decorated dome known as a vimanam signifies the presence of a shrine or altar beneath it.[^41] There are four such vimanam, and these are all located in the west elevation of the temple.
 
-Each vimanam is an onion-shaped structure, decorated with colourful painted sculptures and capped with small pinnacles.42 Below the main vimanam is the shrine of Sri Mariamman, the presiding deity of the temple. The other three vimanam are located above the shrines for Lord Rama, Lord Subramanya43 and Goddess Drowpathai Amman44.
+Each vimanam is an onion-shaped structure, decorated with colourful painted sculptures and capped with small pinnacles.[^42] Below the main vimanam is the shrine of Sri Mariamman, the presiding deity of the temple. The other three vimanam are located above the shrines for Lord Rama, Lord Subramanya[^43] and Goddess Drowpathai Amman[^44].
 
 #### **Shrines**
 
 The main shrine directly facing the entrance of the temple is that of the principle deity Sri Mariamman. In front of her is a statue of Sinna Amman or Little Goddess. The statue is a small representation of Sri Mariamman installed in the original temple by Naraina Pillai in 1827. The shrine of Sri Drowpathai Amman, the goddess honoured in the annual fire-walking ceremony, is the second most important shrine in the temple.
 
-The temple also has shrines dedicated to the goddesses Durgai Amman45, Periyachi Amman46 and Kaliamman or Kali, the destroyer of evil forces.
+The temple also has shrines dedicated to the goddesses Durgai Amman[^45], Periyachi Amman[^46] and Kaliamman or Kali, the destroyer of evil forces.
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/05_temple_design.jpg">The shrine of Sri Mariamman, the presiding deity, takes prime position directly in front of the temple entrance, holding a trident in her left hand. At thebase of the statue in front of Sri Mariamman is a tiny statue of Sinna Amman or Little Goddess, installed in the original temple by Naraina Pillaiin 1827. <i>Photographed in 2016 by the writers.</i></div>
 
