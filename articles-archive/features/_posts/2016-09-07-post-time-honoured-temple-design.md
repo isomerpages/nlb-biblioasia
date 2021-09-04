@@ -83,3 +83,9 @@ The main shrine directly facing the entrance of the temple is that of the princi
 The temple also has shrines dedicated to the goddesses Durgai Amman45, Periyachi Amman46 and Kaliamman or Kali, the destroyer of evil forces.
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/05_temple_design.jpg">The shrine of Sri Mariamman, the presiding deity, takes prime position directly in front of the temple entrance, holding a trident in her left hand. At thebase of the statue in front of Sri Mariamman is a tiny statue of Sinna Amman or Little Goddess, installed in the original temple by Naraina Pillaiin 1827. <i>Photographed in 2016 by the writers.</i></div>
+
+#### **Temple Grounds**
+
+There are two smaller and separate shrines scattered in the temple grounds honouring Lord Ganesha and Sri Aravan, a character from the Indian epic the Mahabharata. The viewing gallery on the left perimeter of the temple is used by devotees to view the ongoings of temple rituals and festivals. Also within the temple grounds are a kitchen, staff quarters and a wedding hall with a separate entrance on Pagoda Street.
+
+The entire temple complex is surrounded by a high boundary wall surmounted by figures of sacred cows placed at regular intervals. The cow, which is revered in Hinduism, symbolises Mother Earth, strength, abundance, selfless giving and the sustenance of life.
