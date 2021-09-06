@@ -110,7 +110,7 @@ Due to restructuring, the term NCO was dropped from the SAF lexicon and changed 
 
 However, with Beach Road Camp earmarked for redevelopment in the mid- 1990s, it became clear that the occupants of the NCO Club and Beach Road Camp would eventually relocate elsewhere.[^21]
 
-In 2000, the last battalion at Beach Road Camp moved out and a year later, in October 2001, the SAF WOSE Club relocated to a new clubhouse at Boon Lay Way with a new identity. The clubhouse was officially opened on 8 February 2002 by Tony Tan, who was the Deputy Prime Minister and Minister for Defence at the time. Its new identity, THE CHEVRONS, signifies the V-shaped stripes worn by all Warrant Officers and Specialists.22
+In 2000, the last battalion at Beach Road Camp moved out and a year later, in October 2001, the SAF WOSE Club relocated to a new clubhouse at Boon Lay Way with a new identity. The clubhouse was officially opened on 8 February 2002 by Tony Tan, who was the Deputy Prime Minister and Minister for Defence at the time. Its new identity, THE CHEVRONS, signifies the V-shaped stripes worn by all Warrant Officers and Specialists.[^22]
 
 |**SAFE Supermarket for Super Savings**|
 
