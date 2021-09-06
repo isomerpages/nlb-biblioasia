@@ -130,3 +130,5 @@ Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. Photo co
 Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. Photo courtesy of Sport Singapore.
 
 <p style="font-size:15px;">A former journalist with <i>The Straits Times</i>, <b>Chua Chong Jin</b> teaches communications at Nanyang Business School. Educated at the National University of Singapore and Cambridge University, he has written and edited various books, including <i>50est: Stirring Stories For The Singapore Soul</i> for the Singapore National Olympic Council.</p>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
