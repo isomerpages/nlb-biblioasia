@@ -62,7 +62,6 @@ Others like Lim Kheng Jun enlisted in the Chinese Military Academy (中央陆军
 
 <div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/3-surviving-japanese-occupation.png">Lim Kheng Jun pictured here with his graduation yearbook at the public Call for Archives event held at the National Library Building on 12 March 2016.</div>
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/4-surviving-japanese-occupation.png)
 <div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/4-surviving-japanese-occupation.png">Lim Kheng Jun as a young soldier in 1940 (second row, on the left), p. 117. </div>
 
 ###### **Japanese intelligence map of Singapore**
