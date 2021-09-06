@@ -110,7 +110,7 @@ Art and cultural centres with screening rooms have also contributed to the devel
 
 To support the commercial and not-for-profit exhibition of alternative films, small independent film distributors such as Festive Films (2002), Lighthouse Pictures (2003) and Objectifs Film (2006) have emerged in recent years, as well as indie film websites such as Sinema and SINdie to challenge and whet the appetites of avid cinephiles in Singapore.
 
-**Gracie Lee** is a Senior Librarian with the National Library of Singapore. Her responsibilities include managing the ephemera collection, and developing and providing content and reference services relating to Singapore.
+<p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library of Singapore. Her responsibilities include managing the ephemera collection, and developing and providing content and reference services relating to Singapore.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
 
