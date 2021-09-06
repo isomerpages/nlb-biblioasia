@@ -82,7 +82,7 @@ The limited jobs for women in the 1950s included seamstresses, sales assistants,
 
 Looking good and well-groomed was part and parcel of the job of a “lancing” girl. Advertisements and pictures from newspapers published during the heyday of these cabarets provide a peek into the fashion sense of the show girls.
 
-<div style="background-color: white;"><img style="550px" src="/images/Vol-12-issue-4/glitz-and-glamour/5-beneath_glitz_glamour.jpg">A New World Cabaret advertisement in the 28 September 1940 edition of <i>The Straits Times</i> announcing the arrival of cabaret girl Poh Seow Chan from Hong Kong’s leading cabaret, Dance Palace. <i>The Straits Times, 28 September 1940, p. 2.</i></div>
+<div style="background-color: white;"><img style="500px" src="/images/Vol-12-issue-4/glitz-and-glamour/5-beneath_glitz_glamour.jpg">A New World Cabaret advertisement in the 28 September 1940 edition of <i>The Straits Times</i> announcing the arrival of cabaret girl Poh Seow Chan from Hong Kong’s leading cabaret, Dance Palace. <i>The Straits Times, 28 September 1940, p. 2.</i></div>
 
 The cabaret girls were probably influenced by fashion trends gleaned from entertainment magazines. Like most women in Singapore, they would naturally look towards Shanghai and Hong Kong for inspiration, as these cities were acknowledged as leading fashion capitals of the time.
 
