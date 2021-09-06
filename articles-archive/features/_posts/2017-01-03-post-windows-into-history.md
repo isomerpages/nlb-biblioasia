@@ -38,7 +38,7 @@ Relatively little is known about the studio of Martin Peintre in Angers, France,
 
 Of the three studios, Vitrail St Georges is by far the youngest. Founded by Joël Mône in 1979, the French studio claims its lineage from the studio of Jean-Baptiste Barrelon in Grigny, Lyon, which was established in 1852. Since 2010, the studio has been headed by Joël’s son, Jean.[^3] This was the studio that undertook the stained glass restoration when the CHIJ complex underwent extensive restoration between 1991 and 1996 and reopened as CHIJMES. The project was jointly overseen by the French architect Didier Repellin, and Ong and Ong Architects of Singapore.[^4]
 
-|**Jules Dobbelaere Studio: A Timeline**|
+|**JULES DOBBELAERE STUDIO: A TIMELINE**|
 
 |**Henri Dobbelaere (fl. 1860–85)**|
 
