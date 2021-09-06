@@ -224,7 +224,7 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 
 |A fanlight or “lunette” is a semicircular window over a door or window. It is also sometimes known as a transom window, especially when it is rectangular in shape.|
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/13-windows_into_history.jpg)
+<img style="width:300px" src="/images/Vol-12-issue-4/windows-into-history/13-windows_into_history.jpg">
 
 |The stained glass windows located at the apse are also referred to as apsidal windows.|
 
