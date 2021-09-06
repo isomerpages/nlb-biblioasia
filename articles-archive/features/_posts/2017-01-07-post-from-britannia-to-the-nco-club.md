@@ -37,9 +37,9 @@ In addition, there was an al fresco cafeteria, and a hairdresser and sports shop
 
 #### **Party on Britannia**
 
-The British Empire may have been on the decline after World War II with its colonies, including Singapore, agitating for independence, but life for the British forces at the Britannia Club was one endless social whirl. Its activity and social calendar published in The Singapore Free Press was jam-packed with events like tombola nights, variety shows, drama and cabaret performances, ballroom and quickstep dance classes, billiards and beer drinking contests.
+The British Empire may have been on the decline after World War II with its colonies, including Singapore, agitating for independence, but life for the British forces at the Britannia Club was one endless social whirl. Its activity and social calendar published in *The Singapore Free Press* was jam-packed with events like tombola nights, variety shows, drama and cabaret performances, ballroom and quickstep dance classes, billiards and beer drinking contests.
 
-One of the highlights announced soon after its opening was a “bathing beauty contest for Miss Britannia 1953” in which “servicewomen and servicemen wives … parade round the swimming pool in their smartest swimsuits”.[^8]The club’s annual Christmas and New Year’s Eve balls were naturally highlights of the calendar with tickets sold out weeks in advance.
+One of the highlights announced soon after its opening was a “bathing beauty contest for Miss Britannia 1953” in which “servicewomen and servicemen wives… parade round the swimming pool in their smartest swimsuits”.[^8] The club’s annual Christmas and New Year’s Eve balls were naturally highlights of the calendar with tickets sold out weeks in advance.
 
 Britannia Club holds a special place in the hearts of many former British servicemen and women. Carol Traynor, who served in the Women’s Royal Army Corps (WRAC) in Singapore from June 1966 to April 1967, together with her friend Jenny Nelson, recalls her time at the club: “We used to frequent the Britannia Club after our shifts at Tanglin Camp, taking along a wicker basket packed with food, suntan lotion and books together with a little battery-operated record player. How lovely those days were! We would sunbathe on the terrace above the pool with the blue sea in the distance and music blaring from our portable record player. Coming from blustery and cold England, we loved Singapore’s balmy tropical weather. It was like being on a permanent holiday.”[^9]
 
@@ -49,7 +49,7 @@ The offspring of British servicemen recall blissful times spent at the club. Mos
 <div style="background-color: white;">(Above) Carol Traynor, who served in the Women’s Royal Army Corps (WRAC) in Singapore from June 1966 to April 1967, and her friend Jenny Nelson (Bottom), used to frequent the Britannia Club after their shifts at Tanglin Camp. They would sunbathe on the terrace above the pool with the blue sea in the distance. To them, life in Singapore was like being on a permanent holiday. <i>Courtesy of Carol Traynor.</i></div>
 <div style="background-color: white;">(Right) Nuffield Swimming Pool at the Britannia Club – named after the British philanthropist and founder of Morris Motors Company, Lord Nuffield – had been completed in 1951, a year before the clubhouse opened. It was one of Singapore’s first Olympic-sized pools. <i>Courtesy of Editions Didier Millet.</i></div>
 
-|**Be My Pin-up Girl**|
+|**BE MY PIN-UP GIRL**|
 
 |Suddenly for a few weeks in March 1956, Wrens, Wracs and Wrafs – acronyms for British servicewomen in the army, navy and air force – at the Britannia Club started primping and preening themselves. The reason: NAAFI in Britain had launched a worldwide “Beauty in Uniform” competition, and the winner could find herself the pin-up girl for homesick British servicemen all over the world. Soldiers were encouraged to send photos of servicewomen in uniform to the NAAFI office in Britain.|
 
