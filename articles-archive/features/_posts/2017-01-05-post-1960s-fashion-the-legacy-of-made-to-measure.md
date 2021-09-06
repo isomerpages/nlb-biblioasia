@@ -28,7 +28,7 @@ A trip to a bookshop or an Indian-run five-foot-way (pedestrian walkway) magazin
 
 Following that, the next stop would be High Street to dig through bales of materials at Aurora, Metro, Modern Silk Store and S.A. Majeed. If you still could not find the right fabric, there was also Chotirmalls or Peking Silk Store on adjacent North Bridge Road. And People’s Park in Chinatown, as well as night markets all over Singapore, where de Souza recalls that she and her mother would always end up buying “bags and bags of fabric – more than what we went looking for”.
 
-As a 10-year-old accompanying his 29-year-old tai tai mother Elizabeth Lee on her shopping trips in 1966, Dick Lee can still vividly recall that “the old Metro (High Street) had fabric counters in front, and cosmetics counters behind them. Each fabric shop had long tables with bales of fabric”.
+As a 10-year-old accompanying his 29-year-old *tai tai* mother Elizabeth Lee on her shopping trips in 1966, Dick Lee can still vividly recall that “the old Metro (High Street) had fabric counters in front, and cosmetics counters behind them. Each fabric shop had long tables with bales of fabric”.
 
 Colour and prints galore! This must explain why the polymath creative director still exhibits a fondness for riotous prints and colours in his dapper personal style.
 
@@ -56,7 +56,7 @@ It signalled “the start of style consciousness for Singaporeans”. Everyone w
 
 Youths became what he calls “freeform and individualist in their dress, aping [the West] in a sense, but not copying exactly. We took ideas, sort of improvised something and made them our own”. But as times were still tough in the days of a newly independent Singapore, he adds that most young people like himself had to save for weeks or months to array themselves in mod looks as a “sincere form of expressing our own identity”.
 
-The Swinging Sixties was indeed a time of youthful exuberance and experimentation, thanks to a flourishing world economy and unimaginable breakthroughs – from the first man walking on the moon to the invention of the Concorde and the world’s first successful heart transplants. Television was launched in Singapore in 1963, and the first person to appear on screen was Minister for Culture S. Rajaratnam, who declared: “Tonight might well mark the start of a social and cultural revolution in our lives”. Indeed.
+The Swinging Sixties was indeed a time of youthful exuberance and experimentation, thanks to a flourishing world economy and unimaginable breakthroughs – from the first man walking on the moon to the invention of the Concorde and the world’s first successful heart transplants. Television was launched in Singapore in 1963, and the first person to appear on screen was Minister for Culture S. Rajaratnam, who declared: “Tonight might well mark the start of a social and cultural revolution in our lives.” Indeed.
 
 One of the first types of programmes televised that evening was a variety show into which fashion and lifestyle elements would eventually be incorporated. Featured would be the young nation’s first generation of homegrown fashion stars.
 
@@ -64,7 +64,7 @@ Freelance hairstylist Francis Raquiza who had trained under Roland Chow, Singapo
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/1960s-fashion/2-1960s%20fashion.jpg)
 <div style="background-color: white;">(Left) Roland Chow demonstrating his hair creation “Incroyable”, a new short hair-do to go with shorter hemlines, October 1958. <i>Courtesy of Singapore Press Holdings.</i></div>
-<div style="background-color: white;">Two outfits from Roland Chow’s summer collection, May 1966.1962. <i>Courtesy of Singapore Press Holdings.</i></div>
+<div style="background-color: white;">(Right) Two outfits from Roland Chow’s summer collection, May 1966.1962. <i>Courtesy of Singapore Press Holdings.</i></div>
 
 In 1967, it was reported that 50 percent of British women’s fashion sold was to the 15 to 19 age group. Carnaby Street, in London’s Soho district, was identified as the epicentre of the global youth-quake. So it was no wonder that the grooviest of 1960s fashion boutiques – including the “mini skirt” creator, Mary Quant’s flagship shop – were congregated there.
 
