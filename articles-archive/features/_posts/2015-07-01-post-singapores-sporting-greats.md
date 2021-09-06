@@ -14,9 +14,9 @@ In reality, just as the legendary Ang paved the way for today’s stars like Jos
 
 Neo’s  big  breakthrough  was  at  the 1951 Asian Games in New Delhi where he clinched four gold medals. The “Freestyle King” then competed in the 1952 Helsinki Olympics. By 1953, he was already widely regarded as among the world’s best. This was evident in 1954 when he took part in a 100-metre freestyle race in Singapore, narrowly losing to Australian star Jon Henricks, who later went on to clinch gold at the 1956 Melbourne Olympics.
 
-For sports fans of Neo’s generation, his  star  appeal  was  evident:  in  those media-starved days, it was affirmed by an enduring image – a picture of him shak- ing hands with the first prime minister of India, Jawaharlal Nehru, as the latter paid homage to the Singapore contingent during the Asian Games in New Delhi.
+For sports fans of Neo’s generation, his  star  appeal  was  evident:  in  those media-starved days, it was affirmed by an enduring image – a picture of him shaking hands with the first prime minister of India, Jawaharlal Nehru, as the latter paid homage to the Singapore contingent during the Asian Games in New Delhi.
 
-eo was but one of the pioneers of Singapore sports who left their indelible mark at a time when institutional  support  was practically non-existent. There were others like him. Leading the way was weightlifter Tan Howe Liang who won a much-coveted silver medal at the 1960 Rome Olympics. It would take another 48 years before Singapore’s women’s table tennis team clinched a silver medal at the 2008 Beijing Olympics – a telling detail reflecting the rarity and magnitude of Tan’s feat, which he achieved under most unfavourable circumstances.
+Neo was but one of the pioneers of Singapore sports who left their indelible mark at a time when institutional  support  was practically non-existent. There were others like him. Leading the way was weightlifter Tan Howe Liang who won a much-coveted silver medal at the 1960 Rome Olympics. It would take another 48 years before Singapore’s women’s table tennis team clinched a silver medal at the 2008 Beijing Olympics – a telling detail reflecting the rarity and magnitude of Tan’s feat, which he achieved under most unfavourable circumstances.
 
 His was a poignant story about how a boy from Swatow, China, and then Chinatown, Singapore, made good on the international stage. Competing in the lightweight category in Rome, Tan – suffering cramps and writhing in agony – defied doctors’ advice to quit. Instead, he persevered and was rewarded with a silver medal – behind Russia’s Viktor Bushuyev but ahead of Iraq's Abdul Wahid Aziz. Tan – who had made personal sacrifices without  expectations  of reward in an era when athletes pursued sports purely out of passion – was a true sports hero of his time.
 
@@ -132,9 +132,9 @@ Starting with Jin Junhong in the 1990s, table tennis – boosted by the import o
 
 #### **Paralympian Winners**
 
-On 15 September 2008, the Singapore national anthem was played inside an Olympic arena for the first time. Para- lympian Yip Pin Xiu, afflicted by muscular dystrophy since birth, had battled against the odds to win sporting success. Com- peting in the Beijing Paralympics, she won gold in the 50-metre backstroke in a time of 58.75 seconds.
+On 15 September 2008, the Singapore national anthem was played inside an Olympic arena for the first time. Paralympian Yip Pin Xiu, afflicted by muscular dystrophy since birth, had battled against the odds to win sporting success. Competing in the Beijing Paralympics, she won gold in the 50-metre backstroke in a time of 58.75 seconds.
 
-Equestrian Laurentia Tan devel- oped cerebral palsy and profound  deafness after birth. However, that  did not stop the gutsy sportswoman  from winning a silver and a bronze at the London Paralympics in 2012. For her achievements, Tan became the  first disabled athlete to win The Straits Times Athlete of the Year award in 2013.
+Equestrian Laurentia Tan developed cerebral palsy and profound  deafness after birth. However, that  did not stop the gutsy sportswoman  from winning a silver and a bronze at the London Paralympics in 2012. For her achievements, Tan became the  first disabled athlete to win The Straits Times Athlete of the Year award in 2013.
 
 Together with swimmer Theresa Goh, who suffers from spina bifida  but has been making waves with her consistent performances at swimming championships over the years, Yip and Tan have made a compelling statement for Paralympians in Singapore. Like  able-bodied athletes, their quest for  sporting success is serious business. It demands no less – or perhaps even more – in terms of hard work, devotion, commitment and sacrifice. 
 
