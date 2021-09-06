@@ -101,8 +101,7 @@ Over the years, 15 the NCO Club was renovated and upgraded several times. The Ba
 
 But the most ambitious addition to the NCO Club was the value-for-money SAFE Superstore (see text box below) where army, airforce and military personnel could buy groceries and household appliances at bargain prices.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/6-britannia-nco.jpg)
-<div style="background-color: white;"><i>The NCO magazine.</i> Left: May 1980, Vol. 5, No. 1.
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/6-britannia-nco.jpg"><i>The NCO magazine.</i> Left: May 1980, Vol. 5, No. 1.
 	Right: Nov 1981, Vol. 6, No. 2. <i>Courtesy of MINDEF.</i></div>
 	
 #### **The End of an Era**
