@@ -31,7 +31,7 @@ Initially I faced many challenges; besides having limited means to buy items, th
 
 My lifelong passion for all things connected to films originally started from a place of loss and nostalgia. To me, an artefact that is destroyed or lost translates into a larger (and permanent) loss of Singapore’s history and heritage; this is what fuels my passion to discover and preserve Singapore’s cinematic history through the items I gather. 
 
-Over the past three decades, my collection has evolved into a sizable private archive of memorabilia that celebrates Singapore’s multicultural film and cinema history, one that is closely intertwined with the personal memories of generations of Singaporeans who have grown up watching films - in much the same way I have.
+Over the past three decades, my collection has evolved into a sizable private archive of memorabilia that celebrates Singapore’s multicultural film and cinema history, one that is closely intertwined with the personal memories of generations of Singaporeans who have grown up watching films – in much the same way I have.
 
 #### **As the number of movie-goers dipped and the film industry declined, I felt compelled to document the loss of these grand movie houses with detailed photographs and ticket stubs.**
 
@@ -90,6 +90,6 @@ Over the past three decades, my collection has evolved into a sizable private ar
 <div style="background-color: white;"> A leaflet advertising the screening of Warner Bros' film, <i>School Days</i>, screening at Alhambra cinema in 1924. </div>
 <i>All images courtesy of Wong Han Min.</i>
 
-**Wong Han Min** is a philatelist and collector of ephemera relating to Singapore's social history. His collection of film-related memorabilia is particularly outstanding, and has been featured in various publications. Wong has given talks and held exhibitions of his collections both locally and overseas, and recently collaborated with the Hong Kong Film Archive on the exhibition “The Foundation of Run Run Shaw’s Cinema Empire”.
+<p style="font-size:15px;"><b>Wong Han Min</b> is a philatelist and collector of ephemera relating to Singapore's social history. His collection of film-related memorabilia is particularly outstanding, and has been featured in various publications. Wong has given talks and held exhibitions of his collections both locally and overseas, and recently collaborated with the Hong Kong Film Archive on the exhibition “The Foundation of Run Run Shaw’s Cinema Empire”.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
