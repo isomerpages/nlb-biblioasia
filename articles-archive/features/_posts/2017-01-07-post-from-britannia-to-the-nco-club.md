@@ -99,7 +99,7 @@ The NCOs were a sporty bunch – representing the club in swimming competitions,
 
 Over the years, 15 the NCO Club was renovated and upgraded several times. The Barrel Lounge was moved to a different location with a live band providing entertainment; the al fresco hawker stall area by the poolside was converted into a gym; the Cosy Corner started featuring Karaoke Nights in addition to its regular Dance Nights; an air-conditioned cafeteria serving local and Western food was added; a jackpot machine room (called “fruit machines” in a throwback to Singapore’s colonial past) and a video games arcade supplemented the Billiards Room; and a basketball court and multi-purpose hall, the latter for tombola nights and performances, were built.[^19]
 
-But the most ambitious addition to the NCO Club was the value-for-money SAFE Superstore (see text box) where army, airforce and military personnel could buy groceries and household appliances at bargain prices.
+But the most ambitious addition to the NCO Club was the value-for-money SAFE Superstore (see text box below) where army, airforce and military personnel could buy groceries and household appliances at bargain prices.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/6-britannia-nco.jpg)
 <div style="background-color: white;"><i>The NCO magazine.</i> Left: May 1980, Vol. 5, No. 1.
