@@ -103,8 +103,7 @@ Researchers must therefore undertake a comparative study of stained glass window
 
 #### **CHIJ Chapel in CHIJMES**
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/2-windows_into_history01.png)
-<div style="background-color: white;">Interior view of the chapel at the Convent of the Holy Infant Jesus (CHIJ) located at the corner of Bras Basah Road and Victoria Street. Designed by Father Charles-Bénédict Nain, the chapel was completed in 1903 and consecrated on 11 June 1904. Photo taken in the early 1900s. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:420px" src="/images/Vol-12-issue-4/windows-into-history/2-windows_into_history01.png">Interior view of the chapel at the Convent of the Holy Infant Jesus (CHIJ) located at the corner of Bras Basah Road and Victoria Street. Designed by Father Charles-Bénédict Nain, the chapel was completed in 1903 and consecrated on 11 June 1904. Photo taken in the early 1900s. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
 
 Many publications cite Father Charles- Bénédict Nain, a French priest of the Missions Étrangères de Paris (MEP) order, as the designer of the CHIJ chapel, with stained glass windows produced in Bruges, Belgium, by Jules Dobbelaere.[^6] Father Nain had been appointed as the assistant parish priest at the Cathedral of the Good Shepherd in 1898.
 
