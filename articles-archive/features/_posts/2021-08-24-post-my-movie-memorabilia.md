@@ -7,7 +7,7 @@ layout: post
 #### **Wong Han Min**’s treasure trove of film memorabilia – collected over three decades – provides a glimpse of Singapore’s rich cinematic past.
 
 
-Given the diverse range of movie-related memorabilia available, aficionados can easily amass huge collections over time. These can include cinema tickets, posters, scripts and other ephemera to film props and costumes as well as bulkier items like cinema seats, cinema projectors and studio camera sets - in short everything related to filmmaking and cinemas. 
+Given the diverse range of movie-related memorabilia available, aficionados can easily amass huge collections over time. These can include cinema tickets, posters, scripts and other ephemera to film props and costumes as well as bulkier items like cinema seats, cinema projectors and studio camera sets – in short everything related to filmmaking and cinemas. 
 
 I saw my first movie when I was five. My parents had taken me to watch a Taiwanese tear-jerker at the now defunct Kong Chian cinema in Toa Payoh. I will never forget that magical evening, enveloped in the darkness and ensconced in my own seat, my feet barely touching the floor. I have been hooked on movies ever since. Cinemas back then only had one hall, which was usually huge and grand; the screen was often equally large and had the effect of drawing and absorbing you into the movie experience. As my trips to the cinema were infrequent at best while growing up, I treasured each and every film I watched. 
 
