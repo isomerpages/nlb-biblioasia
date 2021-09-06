@@ -14,7 +14,7 @@ But large empires are not the only players entitled to dream. In an age characte
 
 The idea for a China Dream was first developed  by  the  Shanghai-based  non-governmental organisation Joint US-China Collaboration on Clean Energy (JUCCCE). This dynamic start-up managed a co-creation process called Dream-in-a-Box involving both officials and citizens. Indeed, even before Xi's speech, the term had spread in China and inspired artists and social entrepreneurs. Beginning with a neutral facilitator, it remains a democratic flowering of ideas and projects. 
 
-China's success is not guaranteed, of course. A great many challenges lie ahead as it pursues its global agenda. But that is the point. The dream is something worth striving  for.  This  is  a  good  template  for Singapore to follow.
+China's success is not guaranteed, of course. A great many challenges lie ahead as it pursues its global agenda. But that is the point. The dream is something worth striving  for. This  is  a  good  template  for Singapore to follow.
 
 #### **Political, Economic and Social Glue** 
 
@@ -32,18 +32,28 @@ To my mind, there are at least three fundamental pillars that should be pursued.
 
 #### **Importance of Diplomacy** 
 
-The first pillar is diplomatic. Singapore must be seen as the capital of Asia. Switzerland, Singapore's counterpart in Europe, has deftly used  neutrality  to  thrive  as  a  functioning democracy for more than 700 years.
+The first pillar is diplomatic. Singapore must be seen as the capital of Asia. Switzerland, Singapore's counterpart in Europe, has deftly used  neutrality to thrive as a functioning democracy for more than 700 years.
 
-There  is  no  doubt  that  Singapore  is Asean's beacon, but for 30 years it has also been China's. The coming decades will be different. Singapore no longer holds iconic status in China's eyes. China has already studied  Singapore  thoroughly  and  now has many friends, investors and mentors. This puts a premium on the diplomacy of multi-alignment in which Singapore must continue to attract and build strong relationships  in  all  directions more cleverly than far larger nations.
+There is no doubt that  Singapore is Asean's beacon, but for 30 years it has also been China's. The coming decades will be different. Singapore no longer holds iconic status in China's eyes. China has already studied  Singapore thoroughly and now has many friends, investors and mentors. This puts a premium on the diplomacy of multi-alignment in which Singapore must continue to attract and build strong relationships  in  all  directions more cleverly than far larger nations.
 
 Singapore will have ample opportunities to prove itself. These include spearheading commercial strategies across the region, helping to resolve the South China Sea dispute and hosting a potential Asian central bank to coordinate currencies. Nobody will bestow the title "Capital of Asia" on Singapore; it must seize it.
 
 #### **Demography and Global City**
 
-The second pillar is demographic. Being the  diplomatic  heart  for  half  the  world's population  is  possible  only  if  Singapore embraces  the  responsibilities  of  being  a global city as well.
+The second pillar is demographic. Being the diplomatic heart for half the world's population is possible only if Singapore embraces  the responsibilities of being a global city as well.
 
-New York and London are multinational melting  pots  in  addition  to  being  global financial centres. Singapore in fact has an even  higher  percentage  of  foreign-born residents,  ranking  only  behind  cities  like Dubai and Toronto. Dubai is already a place with far more international residents than domestic citizens, that is, people who have voluntarily moved there and planted roots.
+New York and London are multinational melting  pots  in  addition  to  being  global financial centres. Singapore in fact has an even  higher  percentage  of  foreign-born residents, ranking only behind cities  like Dubai and Toronto. Dubai is already a place with far more international residents than domestic citizens, that is, people who have voluntarily moved there and planted roots.
 
-Singapore  is  undeniably  Asia's  premier destination for a high quality of life. It  also  seems  certain  that  it  will  reach  a population  of  about  eight  million  people in a generation, at least half of whom will be  non-Singaporean.  Rather  than  struggle  against  this  trend,  Singapore  should embrace it and build for it.
+Singapore is undeniably Asia's premier destination for a high quality of life. It also seems certain that it will reach a population of about  eigh  million people in a generation, at least half of whom will be  non-Singaporean.  Rather  than  struggle  against  this  trend,  Singapore  should embrace it and build for it.
 
 Indeed, this means it could pioneer a model of stakeholdership beyond citizenship  that  confers  obligations  on  all  residents irrespective of their national origin. Then Singapore would truly be a leading global city, a microcosm of global society with a sense of unity despite diversity.
+
+#### **A Generative City**
+
+The third pillar involves Singapore becoming the world's most generative city. This means leveraging on technology to promote innovation, sustainability and inclusiveness. The  sensor  networks  being  deployed  in Singapore  will  eventually  constitute  an “Internet  of  Things”  that  manages  traffic and  buildings  to  reduce  energy  use  and emissions, potentially even allowing for an island-wide driverless car network.
+
+But there is also the "Internet of People" emerging by which we can geo-locate potential professional partners and tap the expertise of others far more efficiently. Enabling widespread people-centric networks will become even more critical as rates of telecommuting increase in the coming years. Broadband connectivity is becoming universal and Singapore's towns are becoming larger and  more  robust  full-service,  mixed-use communities. In a generative city, citizen-citizen and citizen-government relations are mediated equally by data and democracy.
+
+Singapore is widely praised for being a  “living  lab”.  It  is  using  itself  as  the  site for grand experiments still unfolding at the intersection of technology and governance. It is an open economy in a hyper-competitive market and has a delicate balance between domestic and foreign stakeholders. Let us not forget, however, that as evidence is gathered, experiments yield results and conclusions.
+
+Singapore became what it is today through big and risky initiatives but, equally importantly, through bold decisions. Decisiveness  is  the  difference  between  policy and mere politics, between professionalism and populism. Singapore cannot sacrifice the former for the latter. America has done this, and the result has been an erosion of the American Dream.
