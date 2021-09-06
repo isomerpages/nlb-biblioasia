@@ -104,7 +104,7 @@ One of the first actions by the Japanese military in Syonan was a mass screening
 
 At the reporting centres, those who received a stamp with the character “検” (or “examined”) were allowed to leave. Some people brought Overseas Chinese registration passes issued by the Chinese consulate in the pre-war period and had them stamped; while others recounted getting stamped on their T-shirts, other personal identification documents, or even on parts of their body.
 
-One survivor recounted:“When I went home, I had the rubber stamp with the word ‘cleared’ [‘検’] or something like that. I made sure that the stamp lasted as long as possible. So washing my hands, whenever I took my bath, I got to raise my arm up to make sure the stamp there was not washed away… Wherever you go, you have to show your arm to the Japanese soldiers.”[^6]
+One survivor recounted:“When I went home, I had the rubber stamp with the word “cleared” [“検”] or something like that. I made sure that the stamp lasted as long as possible. So washing my hands, whenever I took my bath, I got to raise my arm up to make sure the stamp there was not washed away… Wherever you go, you have to show your arm to the Japanese soldiers.”[^6]
 
 Apart from displays of such documents, the exhibition also allows visitors to experience first-hand accounts of Sook Ching survivors by listening to oral history excerpts.
 
