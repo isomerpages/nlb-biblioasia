@@ -23,9 +23,7 @@ Unfortunately, rapid urbanisation and development, coupled with the introduction
 <div style="background-color: white;"> Leaflet (1920s) for Charles Chaplin's <i>A Day's Pleasure</i>, which played at Surina Theatre. The theatre, owned by the Surin family and located at North Bridge Road, was open from 1922 to 1930. </div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/The_Ten_Commandments.jpg)
-<div style="background-color: white;">Advertising envelope of <i>The Ten Commandments</i>, which was screened at Cathay Cinema in 1956. </div>
-
-<i>All images courtesy of Wong Han Min.</i>
+<div style="background-color: white;">Advertising envelope of <i>The Ten Commandments</i>, which was screened at Cathay Cinema in 1956. <i>All images courtesy of Wong Han Min.</i></div>
 
 Initially I faced many challenges; besides having limited means to buy items, there were also space constraints and discouragement from my family (my mum, needless to say, grew increasingly impatient with the clutter gathering in my room). But like-minded friends and people I met in the film business encouraged me. One incident sticks in my memory: in 2006, a warehouse that belonged to the Eng Wah Organisation was destroyed by a fire. What was left of the building was earmarked for demolition but before the bulldozers could tear the building down, I managed to rummage through the rubble and save whatever I could find that was of historical value. I salvaged some paper ephemera but the fire had sadly destroyed all the extant film reels. Searching for film memorabilia is not always so dramatic but neither is it easy. From collector friends to the <i>karung guni</i> (rag-and-bone man), and flea markets, antique shops and online auction sites to overseas trips, I am always on the lookout for a piece of history that helps tell the Singapore film story. 
 
@@ -65,9 +63,9 @@ Over the past three decades, my collection has evolved into a sizable private ar
 <div style="background-color: white;">Ticket stubs showing the name of the cinema and a picture of an actress on one side and your weight on the reverse. </div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Weighing_machines_re.jpg)
-<div style="background-color: white;"> Weighing machines such as this one from Lux Cinema, the last surviving old cinema in Hong Kong, were once common in Singapore's cinemas. All images courtesy of Wong Han Min.</div>
+<div style="background-color: white;"> Weighing machines such as this one from Lux Cinema, the last surviving old cinema in Hong Kong, were once common in Singapore's cinemas. All images courtesy of Wong Han Min. <i>All images courtesy of Wong Han Min.</i></div>
 	
-<i>All images courtesy of Wong Han Min.</i>
+
 
 #### **What was left of the building was earmarked for demolition but before the bulldozers could tear it down, I managed to rummage through the rubble and save whatever I could find that was of historical value.**
 
@@ -87,8 +85,7 @@ Over the past three decades, my collection has evolved into a sizable private ar
 <div style="background-color: white;"> A bookmark promoting the 1966 MFP film, <i>Jefri Zain - Gerak Kilat (Operation Lightning)</i>, which starred Jins Samsuddin, Singapore's own James Bond. </div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/School_Days.jpg)
-<div style="background-color: white;"> A leaflet advertising the screening of Warner Bros' film, <i>School Days</i>, screening at Alhambra cinema in 1924. </div>
-<i>All images courtesy of Wong Han Min.</i>
+<div style="background-color: white;"> A leaflet advertising the screening of Warner Bros' film, <i>School Days</i>, screening at Alhambra cinema in 1924. <i>All images courtesy of Wong Han Min.</i></div>
 
 <p style="font-size:15px;"><b>Wong Han Min</b> is a philatelist and collector of ephemera relating to Singapore's social history. His collection of film-related memorabilia is particularly outstanding, and has been featured in various publications. Wong has given talks and held exhibitions of his collections both locally and overseas, and recently collaborated with the Hong Kong Film Archive on the exhibition “The Foundation of Run Run Shaw’s Cinema Empire”.</p>
 
