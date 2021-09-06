@@ -166,7 +166,7 @@ Before long, Mr Choong was retailing jersey-knit men’s shirts from the Parisia
 
 De Souza, J., Ong, C., &amp; Rao, T. (2016). *[Fashion most wanted: Singapore’s top insider secrets from the past five decades](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912)*. Singapore: Straits Times Press Pte Ltd. Call no.: RSING 746.92095957 DES
 
-Lee, V. (2015, November 16). The Life interview with Lim Chong Keat. *The Straits Times*. Retrieved from [Factiva](http://eresources.nlb.gov.sg/).
+Lee, V. (2015, November 16). The Life interview with Lim Chong Keat. *The Straits Times*. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg) website.
 
 Olson, H.S. (1967). *Olson’s orient guide*. Philadelphia, New York: J.B. Lippincott Company. Not available in NLB holdings.
 
