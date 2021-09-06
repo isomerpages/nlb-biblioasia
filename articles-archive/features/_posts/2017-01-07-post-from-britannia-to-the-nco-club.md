@@ -47,8 +47,8 @@ The offspring of British servicemen recall blissful times spent at the club. Mos
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/3-britannia-nco.jpg)
 <div style="background-color: white;">(Above) Carol Traynor, who served in the Women’s Royal Army Corps (WRAC) in Singapore from June 1966 to April 1967, and her friend Jenny Nelson (Bottom), used to frequent the Britannia Club after their shifts at Tanglin Camp. They would sunbathe on the terrace above the pool with the blue sea in the distance. To them, life in Singapore was like being on a permanent holiday. <i>Courtesy of Carol Traynor.</i></div>
-<div style="background-color: white;">(Right) Nuffield Swimming Pool at the Britannia Club – named after the British philanthropist and founder of Morris Motors Company, Lord Nuffield – had been completed in 1951, a year before the clubhouse opened. It was one of Singapore’s first Olympic-sized pools. <i>Courtesy of Editions Didier Millet.</i></div>
-<br>
+<div style="background-color: white;"><br>(Right) Nuffield Swimming Pool at the Britannia Club – named after the British philanthropist and founder of Morris Motors Company, Lord Nuffield – had been completed in 1951, a year before the clubhouse opened. It was one of Singapore’s first Olympic-sized pools. <i>Courtesy of Editions Didier Millet.</i></div>
+
 |**BE MY PIN-UP GIRL**|
 
 |Suddenly for a few weeks in March 1956, Wrens, Wracs and Wrafs – acronyms for British servicewomen in the army, navy and air force – at the Britannia Club started primping and preening themselves. The reason: NAAFI in Britain had launched a worldwide “Beauty in Uniform” competition, and the winner could find herself the pin-up girl for homesick British servicemen all over the world. Soldiers were encouraged to send photos of servicewomen in uniform to the NAAFI office in Britain.|
@@ -121,8 +121,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 |A non-profit business arm of the military was set up called SAF Enterprises, or in short, SAFE. The intention was for these no-frills SAFE stores to pass on the savings accrued from rentfree premises and bulk purchases to military personnel and their families.[^23]|
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/7-britannia-nco.jpg)
-<div style="background-color: white;">The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i></div>
-<br>
+<div style="background-color: white;"><br>The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i></div>
 
 |Within months of the announcement, two SAFE supermarkets opened, one at Dempsey Road Camp and the other at the NCO Club. Apart from air-conditioning, the supermarkets had none of the luxuries one would find in an Orchard Road store. SAFE did give the downtown stores a run for their money though – selling groceries, basic furniture like PVC sofas and dining chairs as well as small electrical items like hairdryers and fans at significantly discounted prices.[^24]|
 
