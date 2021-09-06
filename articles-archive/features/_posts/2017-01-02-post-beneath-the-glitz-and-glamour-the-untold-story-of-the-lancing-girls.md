@@ -24,6 +24,9 @@ Not many people were aware that Chan, like other “lancing” girls of that era
 
 On 27 August 1953, *The Singapore Free Press* newspaper reported that the princely sum of $13,000 had been raised by the Singapore Dance Hostesses’ Association in aid of the Nanyang University building fund.[^3]  This feat was achieved through several charity night performances that had been staged at various cabarets. Unbeknown to many, Chan was part of the efforts to help raise this money. She wasn’t just the “Queen of Striptease” who titillated men on stage; she was equally generous in donating to various charities that cared for children, old folks, tuberculosis patients and the blind.
 
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/glitz-and-glamour/3-beneath_glitz_glamour.jpg)
+<div style="background-color: white;">Eurasian and Chinese dance hostesses of the New World Cabaret posing for this photo in the 1930s. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
+
 Rose Chan wasn’t the only “charity queen” from the cabaret world. There were two other women from the Happy World cabaret who worked tirelessly to start a free school for children. These women became the founders of the Happy School in Geylang.
 
 #### **A HAPPY SCHOOL FOR CHILDREN**
@@ -32,7 +35,10 @@ In 1946, cabaret girls from Happy World answered the call by one of its “big s
 
 Madam He roped in her fellow dance hostesses to set up the school. She became the chairperson of the school’s board of governors, while another dancer, Madam Xu Qian Hong, took on the role of accounts head. Other girls from the Happy Opera Society became board members.
 
-Determined that the children should receive a free education, Madam He insisted that no school fees would be collected from the families. Whatever books and stationery the children needed were also given free. The first enrolment in 1946 attracted about 90 students. Operating out of a rented shophouse at Lorong 14, Madam He named the school Happy Charity School, in an obvious nod to the most popular landmark in Geylang then – the Happy World amusement park.[^4] 
+Determined that the children should receive a free education, Madam He insisted that no school fees would be collected from the families. Whatever books and stationery the children needed were also given free. The first enrolment in 1946 attracted about 90 students. Operating out of a rented shophouse at Lorong 14, Madam He named the school Happy Charity School, in an obvious nod to the most popular landmark in Geylang then – the Happy World amusement park.[^4]
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/glitz-and-glamour/4-beneath_glitz_glamour.jpg)
+<div style="background-color: white;">Students from The Happy School posing for this group photo taken in 1961. <i>All rights reserved, 潘星华. (主编).(2014)《. 消失的华校: 国家永远的资产》. 新加坡: 华校校友会联合会出版</i></div>
 
 The first principal of the school was Wong Guo Liang, a well-known calligrapher. When Wong first met Madam He at the interview for the position, he remembered being struck by her charisma and generosity. Despite the irony of her situation, she advised him to set a good example as the principal and live up to the responsibility of being a role model for his charges. More importantly, he should never ever step into the Happy World Cabaret.
 
@@ -50,10 +56,7 @@ During the Occupation, Chinese schoolteachers had been systematically targeted i
 
 In the face of this dire situation, Madam He and Madam Xu became actively involved in the running of Happy Charity School while juggling with their evening jobs at the cabaret. Faced with pressing challenges such as rising operational costs and the need to recruit more teachers. The school decided in January 1950 to impose a monthly school fee of between $2.50 and $3.50 per student. Following this move, the word “Charity” was dropped from the school’s name to reflect its new status, and it was renamed The Happy School.[^11] 
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/glitz-and-glamour/3-beneath_glitz_glamour.jpg)
-<div style="background-color: white;">Eurasian and Chinese dance hostesses of the New World Cabaret posing for this photo in the 1930s. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
-
-#### **The Happy School Runs its Course**
+#### **THE HAPPY SCHOOL RUNS ITS COURSE**
 
 For reasons that are not known, the two women founders subsequently left the school after 1950. The Happy School continued operating out of its Geylang location until 1979. The school relocated once in 1947, from No. 24 in Lorong 14 to Nos. 67 and 69, after it received financial help from George Lee, the owner of Happy World amusement park.
 
@@ -65,16 +68,13 @@ In 1979, Happy School announced its closure. By that time, the school had amasse
 
 The origins of the Happy Charity School may have been controversial – some parents may have frowned upon a school financed and run by cabaret girls – but the good intentions of these women cannot be denied. If not for Madam He and Madam Xu, many destitute children would not have received their primary school education in post-war Singapore.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/glitz-and-glamour/4-beneath_glitz_glamour.jpg)
-<div style="background-color: white;">Students from The Happy School posing for this group photo taken in 1961. <i>All rights reserved, 潘星华. (主编).(2014)《. 消失的华校: 国家永远的资产》. 新加坡: 华校校友会联合会出版</i></div>
-
 #### **Jobs for Women in the 1940s and 50s**
 
 In my research, I was curious about alternative employment opportunities available to women between the 1940s and 50s when cabaret work was seen as an attractive job. A quick search in the “Job Advertisements” page of local newspapers in 1948 listed several clerical positions available at the National Registration Office of the colonial government (the work entailed issuing paper identity cards to citizens).
 
-Interestingly, a large number of women were also employed as barbers. A Straits Times article on 23 October 1949 reported that an estimated one-third of some 2,000 Chinese barbers in Singapore at the time were young women. It is likely that many women entered the trade because other jobs were hard to come by. Chinese men preferred to have their hair cut by women barbers because they were known to be careful and attentive.
+Interestingly, a large number of women were also employed as barbers. A *Straits Times* article on 23 October 1949 reported that an estimated one-third of some 2,000 Chinese barbers in Singapore at the time were young women. It is likely that many women entered the trade because other jobs were hard to come by. Chinese men preferred to have their hair cut by women barbers because they were known to be careful and attentive.
 
-A one-hour job that included a haircut, shampoo, shave and ear cleaning cost $2. The average salary for women barbers at these Chinese hairdressing saloons was $100 a month. In fact, women had been working as barbers even before the war.[^14]  One lady barber was reported as saying that “men like to be attended by girls because we are more gentle with them. We talk and entertain them while doing our work, and even make them laugh sometimes.”[^15] 
+A one-hour job that included a haircut, shampoo, shave and ear cleaning cost $2. The average salary for women barbers at these Chinese hairdressing saloons was $100 a month. In fact, women had been working as barbers even before the war.[^14]  One lady barber was reported as saying that “men like to be attended by girls because we are more gentle with them. We talk and entertain them while doing our work, and even make them laugh sometimes”.[^15] 
 
 The limited jobs for women in the 1950s included seamstresses, sales assistants, tour guides, cabaret singers and restaurant waitresses. Many also took to working privately as domestic servants and washerwomen. If a girl was educated, there were more options available to her, such as an office secretary or a private tutor. But many of these jobs didn’t pay as well as that of a cabaret girl. So if a woman was good looking and money was a motivation, dancing in the cabarets provided a means to quick and easy money. A cabaret girl could earn anything between $200 and $1,000 a month. In comparison, a senior clerk working in the government back in 1952 would only earn $280 a month.[^16]  Clearly, some women chose to work in the cabaret as dancing girls because it paid well and few employment opportunities were open to them.
 
@@ -87,12 +87,11 @@ Looking good and well-groomed was part and parcel of the job of a “lancing” 
 
 The cabaret girls were probably influenced by fashion trends gleaned from entertainment magazines. Like most women in Singapore, they would naturally look towards Shanghai and Hong Kong for inspiration, as these cities were acknowledged as leading fashion capitals of the time.
 
-What did Chinese women wear in the 1920s? The *samfoo (or samfu)* was the preferred casual attire, comprising a cotton short-sleeved blouse with a Mandarin collar and frog-buttons, and a matching pair of trousers in the same material. By the 1930s, however, wealthy Chinese women in the upper social classes had turned to the *cheongsam* (which means “long dress” in Cantonese), also known as qipao in Mandarin, as their preferred dress.
+What did Chinese women wear in the 1920s? The *samfoo* (or samfu) was the preferred casual attire, comprising a cotton short-sleeved blouse with a Mandarin collar and frog-buttons, and a matching pair of trousers in the same material. By the 1930s, however, wealthy Chinese women in the upper social classes had turned to the *cheongsam* (which means “long dress” in Cantonese), also known as *qipao* in Mandarin, as their preferred dress.
 
 This adoption of the *cheongsam* soon cut across all segments of the Chinese population, with the elegant and form-fitting dress worn as a symbol of strong feminine expression. The cabaret girls were no different. In their figure-hugging *cheongsam* with daring side slits that showed off their legs, they were a sight to behold with their artfully applied makeup and coiffured hair-dos. After World War II, more women turned to wearing Western clothes, but there were those who remained faithful to the traditional *cheongsam*, and who now wore it with a tighter fit.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/glitz-and-glamour/6-beneath_glitz_glamour.jpg)
-<div style="background-color: white;">The cabarets at the amusement parks held popularity contests to attract the crowds. A book of four tickets for $1 entitled the purchaser to cast one vote. The cabaret girl who received the most number of votes was declared the winner. Lim Kim Geok (pictured here) was the winner of a popularity contest held at the Great World Cabaret in June 1937. <i>The Straits Times, 10 June 1937, p. 12.</i></div>
+<div style="background-color: white;"><img style="width:150px" src="/images/Vol-12-issue-4/glitz-and-glamour/6-beneath_glitz_glamour.jpg">The cabarets at the amusement parks held popularity contests to attract the crowds. A book of four tickets for $1 entitled the purchaser to cast one vote. The cabaret girl who received the most number of votes was declared the winner. Lim Kim Geok (pictured here) was the winner of a popularity contest held at the Great World Cabaret in June 1937. <i>The Straits Times, 10 June 1937, p. 12.</i></div>
 
 Were these attractive women working in the cabaret taken advantage of? Although there was an assumption of a seamier side to the cabaret business, most of the people I interviewed had mostly positive things to say about their experience. A former cabaret woman whom I interviewed, Madam Ong Swee Neo, shared: “I was 12 years old when my mother brought me into the cabaret. All I had to do was sit, chat and dance. I was big sized. No one could tell my real age. Customers were kind. They never forced me to drink hard liquor. I would only drink Green Spot or Red Lion orange crush.”
 
@@ -104,7 +103,7 @@ From the late 1960s to 70s, the cabaret, or “nite clubs” that they had evolv
 
 His tailoring career in the subsequent years saw him working at various upmarket shops. He recalls clients from Malaysia and Indonesia, which included businessmen as well as members of the political elite, who would come to him to have their suits tailored. For after-dinner entertainment, his customers would frequent two popular haunts, the Flamingo Nite Club at Great World amusement park and the Golden Million Nite Club at Peninsula Hotel. “It was all respectable dancing. Everyone was out to have fun and relaxation. The women were in dresses, and my customers in suit and tie.”[^19] 
 
-#### **The Cabaret is Enshrined as a Musical**
+#### **THE CABARET IS ENSHRINED AS A MUSICAL**
 
 The cabaret isn’t just something only older Singaporeans remember. Younger Singaporeans were given a peek into the scene when *Beauty World*, Singapore’s first English musical, was staged as part of the Singapore Arts Festival in 1988. Writer Michael Chiang, songwriter Dick Lee, choreographer Mohd Najip Ali and director Ong Keng Sen would continue to headline the local performing arts scene for several decades afterwards. The cast featured actors such as Claire Wong, Ivan Heng and Jacinta Abisheganaden, who would all become familiar names in Singapore’s theatre fraternity.
 
