@@ -6,13 +6,15 @@ layout: post
 ---
 #### Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. **Yeo Kang Shua** and **Swati Chandgadkar** reveal their findings.
 
+<div style="background-color: white;"><img src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png">Triptych windows found in the side chapels at the Convent of the Holy Infant Jesus. From left to right: St Cecilia, St Mary and St Clothilde (left chapel); and St Louis, The Death of Saint Joseph, and St Charles Borromeo (right chapel). <i>Courtesy of Swati Chandgadkar.</i></div>
+
 Light can be soft, quiet, or at times dramatic, depending on the time of the day and year. Since time immemorial, builders have used architecture to modulate natural light and create emotional – and even spiritual – experiences for people.
 
 The use of coloured glass in building facades is a particularly powerful architectural tool. Originating in the Gothic churches of Medieval Europe, stained glass windows continue to be used in contemporary times by architects, often with striking results.
 
 Ecclesiastical stained glass, in addition to its aesthetic quality, served another function: to narrate Christian stories. During the Middle Ages, these figurative windows were a means to teach the largely illiterate congregations about the Bible and the lives of saints. Stained glass windows tell other stories too by shedding light on social histories and patterns of patronage. The history of stained glass windows is thus rooted in Christianity as well as in architecture.
 
-#### **STAINED GLASS IN SINGAPORE**
+#### **Stained Glass in Singapore**
 
 It is no accident that many of Singapore’s early churches and Christian institutions were clustered near the city centre. Located close to the “Ground Reserved by Government” and “European Town and Principal Mercantile Establishments” as seen in the 1823 “Plan of the Town of Singapore” by Lieutenant Philip Jackson, these structures served the religious and educational needs of the Christian communities.[^1]
 
@@ -65,7 +67,7 @@ Of the three studios, Vitrail St Georges is by far the youngest. Founded by Joë
 |fl.=flourished|<br>
 |Above information from the University of Leuven’s Documentation and Research Center on Religion and Society.|
 
-#### **THE IMPORTANCE OF "CARTOONS"**
+#### **The Importance of "Cartoons"**
 
 We all know of cartoons as animated films or humorous comic strips found in print. But in the art industry, a cartoon is a preliminary design made by an artist for a painting or other types of artwork such as a fresco, tapestry or stained glass window or panel. In stained glass windows, a cartoon delineates the theme of the window, the exact drawing (sometimes in colour), lead lines and all the stylistic details of the painting. In short, it is a blueprint for the stained glass window, prepared by the glass artist for the client’s approval, and used by the glazier who creates the actual window.
 
@@ -77,7 +79,7 @@ Cartoons, therefore, address many crucial questions: where a window was made, fo
 
 Fortunately for us, the cartoons by the Dobbelaere studio have been preserved in the Leuven archives. By comparing these cartoons with the stained glass windows in Singapore’s historic buildings, we are better able to understand the history of these structures in relation to the stained glass panels as well as the communities who used these buildings as places of worship.
 
-#### **ST JOSEPH'S CHURCH**
+#### **St Joseph's Church**
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/1-windows_into_history.jpg)
 <div style="background-color: white;">(Left) An exterior view of St Joseph’s Church at Victoria Street, c.1912. The church was originally built by the Portuguese Mission in 1853 to serve the Portuguese and Eurasian Catholics in Singapore. Then in 1912, it  as reconstructed in the neo-Gothic style and reopened. <i>Courtesy of National Archives of Singapore.	</i></div>
@@ -125,7 +127,7 @@ Three of the five apsidal windows are direct adaptations of the Dobbelaere carto
 
 The other two apsidal stained glass windows located to the left of the apse when facing it – *The Annunciation* (1A) and *The Visitation* (1B) – are signed “Vitrail St Georges, 1994, Lyon, France”. Although these two windows bear the signature of another studio and a more recent date, it is obvious that the theme and composition are based on the original cartoons by Dobbelaere. The only difference is in the donor panels. These now read as “Presented by a Benefactor”, whereas the cartoons bear the inscriptions “Presented by P.S.R. Pasoual” and “Presented by the Ossorio Family” respectively.
 
-#### **GLASS IN THE TWO PRIVATE CHAPELS**
+#### **Glass in the Two Private Chapels**
 
 In the private chapel to the left of the apse, we begin to see discrepancies in the triptych window.
 
@@ -138,9 +140,6 @@ All three windows now read “Presented by a Benefactor”, while the cartoons c
 The Dobbelaere signature is absent in this stained glass triptych. Instead, both the St Cecilia and St Clothilde windows are signed “Vitrail St Georges, 1994, Lyon, France”. The St Mary window is unsigned.
 
 In the private chapel to the right of the apse, the triptych window is a faithful realisation of the Dobbelaere cartoons without revisions: “S. Ludovicus” (St Louis, 3A) “Presented by A. De Souza”; *The Death of St Joseph* (3B) “Presented by E. De Souza”; and “S. Carolus Bor.” (St Charles Borromeo, 3C) “Presented by O.K.”. The latter bears the signature “J. Dobbelaere, Bruges, Belgium”. The cartoons allow us to confidently attribute these windows to the Dobbelaere studio.
-
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png)
-<div style="background-color: white;">Triptych windows found in the side chapels at the Convent of the Holy Infant Jesus. From left to right: St Cecilia, St Mary and St Clothilde (left chapel); and St Louis, The Death of Saint Joseph, and St Charles Borromeo (right chapel). <i>Courtesy of Swati Chandgadkar.</i></div>
 
 #### **Glass in the Clerestories**
 The cartoons for the two stained glass windows situated above the chancel at clerestory level shows two lancets: one depicting *The Flight into Egypt*, and the other *The Visit of the Magi*.
