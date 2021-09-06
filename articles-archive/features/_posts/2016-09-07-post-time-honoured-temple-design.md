@@ -15,7 +15,7 @@ In 1827, four years after the land was acquired, Sri Mariamman Temple, Singapore
 
 Located in the heart of Chinatown, the temple’s elaborate *gopuram*[^1]  has been a landmark for generations of Hindu worshippers in Singapore.[^2] In deference to its architectural and historical significance, the temple was gazetted as a national monument on 28 June 1973.[^3]
 
-#### **Singapore’s First Hindu Temple**
+#### **SINGAPORE'S FIRST HINDU TEMPLE**
 
 The history of the Sri Mariamman Temple is closely intertwined with the arrival of the first Indians to Singapore, soon after Stamford Raffles established a British trading post on the island in February 1819.[^4] South Indian migrants to Singapore, feeling displaced in a new land, brought with them the cultural and religious practices of the subcontinent, including the worship of Mariamman, the goddess of rain. In Hindu spirituality, the “mother” deity is known for her power to protect people from harm and to cure epidemic illnesses and diseases.[^5]
 
@@ -35,7 +35,7 @@ With each extension, repair and restoration over the subsequent decades, Sri Mar
 
 The temple was last re-consecrated in April 2010, in accordance with the Hindu custom that requires temples to be restored to their original splendour every 12 years.[^17] As it is today as with times past, each time the temple is renovated and re-consecrated, artisans and sculptors from South India are engaged to do the work.[^18]
 
-#### **A Place for the Community**
+#### **A PLACE FOR THE COMMUNITY**
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/03_temple_design.jpg">The original three-tiered gopuram (tower) was rebuilt in 1936 into its present five tiers. This is a 1970 postcard view of the <i>gopuram</i>. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
@@ -45,13 +45,13 @@ During colonial times, Sri Mariamman Temple also served as a temporary shelter f
 
 Today, the temple has become a historical landmark even as it continues to serve generations of Hindu devotees. In deference to the temple, the two streets flanking it were named Temple Street and Pagoda Street, the latter taking the cue from the temple’s pagoda-like gopuram.  The temple is also the focal point for Theemithi, the annual fire-walking festival that has been held on its grounds since 1840.[^20]
 
-#### **Temple Architecture**
+#### **TEMPLE ARCHITECTURE**
 
 Most Hindu temples in Singapore resemble the temples of South India as they are modelled along the Dravidian style of architecture.[^21] These temples are dedicated to various Hindu gods and goddesses, some with more than one deity presiding in each building of worship.
 
 Statues of deities are placed in shrines within the temples. The temples typically feature sculptures and statues, and the inner walls are embellished with murals depicting scenes from Hindu mythology.[^22] The architecture of the temples comprises three main elements: a gopuram or entrance tower adorned with statues; a mandapam or prayer hall for worship; and vimanam or domes that indicate shrines beneath them.[^23]
 
-#### **The Gopuram**
+#### **THE GOPURAM**
 
 The gopuram refers to the pyramidal-shaped tower at the temple entrance and is an important  feature in South Indian temples. Its great height serves a purpose, acting as a beacon for devotees from afar and allowing them to pray or meditate in  preparation for their entrance into the temple.[^24] The five-tiered gopuram of the Sri Mariamman Temple is perhaps its most striking feature and is a much-photographed icon on South Bridge Road.[^25]
 
@@ -63,7 +63,7 @@ In 1936, the three-tiered gopuram was raised into its present five-tiers. In the
 
 Craftsmen from South India drew their inspiration not only from Indian tradition, but also from the military traditions of colonial India. Hence, they incorporated Indian sepoys(soldiers recruited by the British in India), dressed in khaki uniforms and armed with rifles, into the collection of the sculptures carved into the gopuram as well as on the walls of the temple. In 1971, however, the sepoy statues on the gopuram were removed during renovation works and replaced with figures clad in Indian traditional costumes.[^32]
 
-#### **The Mandapam**
+#### **THE MANDAPAM**
 
 The entrance of the temple leads to a main hall or mandapam, which is flanked by a series of square columns ornamented with statues of deities.[^33] Along the north and south elevations of the hall is an arcade of trefoil arched openings. The main design elements of the mandapam are its colourful ceiling and the series of columns that give definition to the vast space.[^34]
 
@@ -71,13 +71,13 @@ The ceiling of the hall is decorated with elaborate paintings, including that of
 
 The original attap walkway that connected the main entrance to the principal shrine of Sri Mariamman was destroyed in a fire in 1910. A permanent walkway, which still stands today, was designed and completed in 1916.[^40]
 
-#### **The  Vimanam**
+#### **THE VIMANAM**
 
 A decorated dome known as a vimanam signifies the presence of a shrine or altar beneath it.[^41] There are four such vimanam, and these are all located in the west elevation of the temple.
 
 Each vimanam is an onion-shaped structure, decorated with colourful painted sculptures and capped with small pinnacles.[^42] Below the main vimanam is the shrine of Sri Mariamman, the presiding deity of the temple. The other three vimanam are located above the shrines for Lord Rama, Lord Subramanya[^43] and Goddess Drowpathai Amman[^44].
 
-#### **Shrines**
+#### **SHRINES**
 
 The main shrine directly facing the entrance of the temple is that of the principle deity Sri Mariamman. In front of her is a statue of Sinna Amman or Little Goddess. The statue is a small representation of Sri Mariamman installed in the original temple by Naraina Pillai in 1827. The shrine of Sri Drowpathai Amman, the goddess honoured in the annual fire-walking ceremony, is the second most important shrine in the temple.
 
@@ -85,13 +85,13 @@ The temple also has shrines dedicated to the goddesses Durgai Amman[^45], Periya
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/05_temple_design.jpg">The shrine of Sri Mariamman, the presiding deity, takes prime position directly in front of the temple entrance, holding a trident in her left hand. At thebase of the statue in front of Sri Mariamman is a tiny statue of Sinna Amman or Little Goddess, installed in the original temple by Naraina Pillaiin 1827. <i>Photographed in 2016 by the writers.</i></div>
 
-#### **Temple Grounds**
+#### **TEMPLE GROUNDS**
 
 There are two smaller and separate shrines scattered in the temple grounds honouring Lord Ganesha and Sri Aravan, a character from the Indian epic the Mahabharata. The viewing gallery on the left perimeter of the temple is used by devotees to view the ongoings of temple rituals and festivals. Also within the temple grounds are a kitchen, staff quarters and a wedding hall with a separate entrance on Pagoda Street.
 
 The entire temple complex is surrounded by a high boundary wall surmounted by figures of sacred cows placed at regular intervals. The cow, which is revered in Hinduism, symbolises Mother Earth, strength, abundance, selfless giving and the sustenance of life.
 
-|**Temple Milestones**|
+|**TEMPLE MILESTONES**|
 |1827|Opens as a small wood-and-attap structure.|
 |1843|Brick building replaces the wood-and-attap structure.|
 
@@ -109,7 +109,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
-#### **Notes**
+#### **NOTES**
 
 [^1]:A gopuram is the pyramidal tower erected over the entrance of South Indian Hindu temples.
 [^2]:Liu, G. (1996). In granite and chunam: The national monuments of Singapore (p. 114). Singapore: Landmark Books. Call no.: RSING 725.94095957 LIU
