@@ -35,36 +35,36 @@ Over the past three decades, my collection has evolved into a sizable private ar
 
 #### **As the number of movie-goers dipped and the film industry declined, I felt compelled to document the loss of these grand movie houses with detailed photographs and ticket stubs.**
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/cathay.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/cathay_re.jpg)
 <div style="background-color: white;">Cathay Cinema opening souvenir (1939). Cathay Cinema opened in 1939 and has since been the flagship theatre of Cathay Organisation in Singapore. </div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Sky_Theatre.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Sky_Theatre_re.jpg)
 <div style="background-color: white;">Sky Theatre ticket of the opening show <i>Around the World in 80 Days</i> in 1958. Under Shaw Organisation, Sky Theatre opened in 1958 at Great World Amusement Park. It closed in 1978. </div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Nonya_and_Baba.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Nonya_and_Baba_re.jpg)
 <div style="background-color: white;">Hand-coloured still of <i>Nonya and Baba</i>, produced by Cathay Organisation in 1956, starring famous Chinese actress Li Lihua in Peranakan dressing. </div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Hotel_Murder_Case.jpg)
 <div style="background-color: white;"> Lobby card of <i>Hotel Murder Case</i> (1963), an Amoy-dialect (Hokkien) film starring Singapore's famous getai ("song stage") singer Zhuang Xuefang (in yellow). </div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Malay_Movie_New.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Malay_Movie_New_re.jpg)
 <div style="background-color: white;"> June 1961 issue of <i>Malay Movie News</i> with P. Ramlee on the cover. The magazine was produced by Shaw Organisation and featured Malay films made by Shaw's Malay Film Productions (MFP) Studios at Jalan Ampas. </div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Screen_Voice.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Screen_Voice_re.jpg)
 <div style="background-color: white;"> Issue No. 117 of <i>Screen Voice</i>, a Chinese film magazine produced by Shaw Brothers. This issue focused on <i>Song of Singapore</i>, a local film produced at Shaw's studios. </div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Postcards.jpg)
 <div style="background-color: white;"> Postcards produced by Cathay and Odeon cinemas, announcing upcoming movie releases in 1955. </div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Amrapali.jpg)
-![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Amrapali1.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Amrapali_re.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Amrapali1_re.jpg)
 <div style="background-color: white;"> <i>Movie flyer for Amrapali, a Hindi film</i> screened at Galaxy Cinema on Vesak Day in 1967. Galaxy Cinema screened mostly Indian films and operated from 1965 to 1981. </div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/ticket_stubs.jpg)
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/ticket_stubs1.jpg)
 <div style="background-color: white;">Ticket stubs showing the name of the cinema and a picture of an actress on one side and your weight on the reverse. </div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Weighing_machines.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Weighing_machines_re.jpg)
 <div style="background-color: white;"> Weighing machines such as this one from Lux Cinema, the last surviving old cinema in Hong Kong, were once common in Singapore's cinemas. All images courtesy of Wong Han Min.</div>
 	
 <i>All images courtesy of Wong Han Min.</i>
@@ -77,13 +77,13 @@ Over the past three decades, my collection has evolved into a sizable private ar
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Theatre_Royal.jpg)
 <div style="background-color: white;"> A 1908 postcard of Theatre Royal which opened in 1908 on North Bridge Road. It became a full-fledged cinema in 1928 and closed in 1977 to make way for Blanco Court building. Part of Raffles Hospital now stands in its location.</div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Wings.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Wings_re.jpg)
 <div style="background-color: white;"> A postcard advertising the film, <i>Wings</i>, in 1929. </div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Wedding_Bells.jpg)
 <div style="background-color: white;"> An envelope promoting <i>Wedding Bells for Hedy</i>, a Chinese film produced by Cathay Organisation in 1960.</div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Gerak_Kilat.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/Gerak_Kilat_re.jpg)
 <div style="background-color: white;"> A bookmark promoting the 1966 MFP film, <i>Jefri Zain - Gerak Kilat (Operation Lightning)</i>, which starred Jins Samsuddin, Singapore's own James Bond. </div>
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/moviememorabilia/School_Days.jpg)
