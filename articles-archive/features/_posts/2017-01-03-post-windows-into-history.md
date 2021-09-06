@@ -6,7 +6,7 @@ layout: post
 ---
 #### Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. **Yeo Kang Shua** and **Swati Chandgadkar** reveal their findings.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png">Triptych windows found in the side chapels at the Convent of the Holy Infant Jesus. From left to right: St Cecilia, St Mary and St Clothilde (left chapel); and St Louis, The Death of Saint Joseph, and St Charles Borromeo (right chapel). <i>Courtesy of Swati Chandgadkar.</i></div>
+<div style="background-color: white;"><img style="width:550px" src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png">Triptych windows found in the side chapels at the Convent of the Holy Infant Jesus. From left to right: St Cecilia, St Mary and St Clothilde (left chapel); and St Louis, The Death of Saint Joseph, and St Charles Borromeo (right chapel). <i>Courtesy of Swati Chandgadkar.</i></div>
 
 Light can be soft, quiet, or at times dramatic, depending on the time of the day and year. Since time immemorial, builders have used architecture to modulate natural light and create emotional – and even spiritual – experiences for people.
 
@@ -82,7 +82,7 @@ Fortunately for us, the cartoons by the Dobbelaere studio have been preserved in
 
 #### **St Joseph's Church**
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/1-windows_into_history.jpg)
+<img style="width:500px" src="/images/Vol-12-issue-4/windows-into-history/1-windows_into_history.jpg">
 <div style="background-color: white;">(Left) An exterior view of St Joseph’s Church at Victoria Street, c.1912. The church was originally built by the Portuguese Mission in 1853 to serve the Portuguese and Eurasian Catholics in Singapore. Then in 1912, it  as reconstructed in the neo-Gothic style and reopened. <i>Courtesy of National Archives of Singapore.	</i></div>
 <div style="background-color: white;">(Right) Cartoon depicting St Anthony with the Infant Jesus – one of the windows on the apse-side of St Joseph’s Church where the sanctuary is located – designed by the studio of Jules Dobbelaere. <i>Courtesy of KADOC – KU Leuven.
 	</i></div>
