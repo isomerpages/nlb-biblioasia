@@ -238,7 +238,7 @@ The authors would like to acknowledge Wee Sheau Theng, Carolyn Lim, Soon-Tzu Spe
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/windows-into-history/SWATI.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/windows-into-history/SWATI-1.png">
 	<b>Swati Chandgadkar </b> is a stained glass conservator from Mumbai, India. She currently resides in Singapore.
 </div>
 
