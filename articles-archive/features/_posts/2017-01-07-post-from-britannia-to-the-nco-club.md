@@ -112,7 +112,7 @@ However, with Beach Road Camp earmarked for redevelopment in the mid- 1990s, it 
 
 In 2000, the last battalion at Beach Road Camp moved out and a year later, in October 2001, the SAF WOSE Club relocated to a new clubhouse at Boon Lay Way with a new identity. The clubhouse was officially opened on 8 February 2002 by Tony Tan, who was the Deputy Prime Minister and Minister for Defence at the time. Its new identity, THE CHEVRONS, signifies the V-shaped stripes worn by all Warrant Officers and Specialists.[^22]
 
-|**SAFE Supermarket for Super Savings**|
+|**SAFE SUPERMARKET FOR SUPER SAVINGS**|
 
 |In early 1973, Minister for Defence Goh Keng Swee mooted the idea of setting up a special shop where SAF personnel and their families could purchase discounted goods such as groceries and electrical items.|
 
@@ -121,9 +121,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 |A non-profit business arm of the military was set up called SAF Enterprises, or in short, SAFE. The intention was for these no-frills SAFE stores to pass on the savings accrued from rentfree premises and bulk purchases to military personnel and their families.[^23]|
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/7-britannia-nco.jpg)
-<div style="background-color: white;">The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i></div>
-
-![Alt text for image on Isomer site](/images/space1.png)
+<div style="background-color: white;">The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i><br></div>
 
 |Within months of the announcement, two SAFE supermarkets opened, one at Dempsey Road Camp and the other at the NCO Club. Apart from air-conditioning, the supermarkets had none of the luxuries one would find in an Orchard Road store. SAFE did give the downtown stores a run for their money though – selling groceries, basic furniture like PVC sofas and dining chairs as well as small electrical items like hairdryers and fans at significantly discounted prices.[^24]|
 
@@ -139,8 +137,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 |In the early 1980s, SAFE closed its NCO Club store and opened a SAFE Centre in Chin Swee Road. The company would eventually be sold and renamed SAFE Superstore in 1989, expanding perhaps too quickly over the years before it went out of business in 2003.[^28]|
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/8-britannia-nco.jpg)
-<div style="background-color: white;">Deputy Prime Minister and Minister for Defence Goh Keng Swee visits the SAF Enterprises (SAFE) supermarket at the NCO Club during its official opening on 20 December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/8-britannia-nco.jpg">Deputy Prime Minister and Minister for Defence Goh Keng Swee visits the SAF Enterprises (SAFE) supermarket at the NCO Club during its official opening on 20 December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
