@@ -78,13 +78,13 @@ Neo’s first venture into this genre was the 1998 <i>Money No Enough</i>, which
 
 The hapless misadventures of the comic trio in Money No Enough became one of Neo’s trademarks, soon recycled in 1999 in both <i>Liang Po Po</i> – The Movie (which, again he wrote but did not direct) and <i>That One No Enough</i> (which, finally, he directed). In both films, Neo poked fun at Singaporeans’ idiosyncrasies. Once again, Singaporeans loved it, and both movies were box-office hits, even though they did not break <i>Money No Enough</i>’s record.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/MNE9.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/MNE9_re.jpg)
 <div style="background-color: white;">Mark Lee (left) and Jack Neo (right) in 1998's <i>Money No Enough</i>. <i>Directed by Tay Yeck Lock, produced by JSP Films, distributed by Shaw Organisation. Singapore, 1998. Courtesy of J Team Productions</i>.</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/i_not_stupid.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/i_not_stupid_re.jpg)
 <div style="background-color: white;">I Not Stupid starred Joshua Ang (left) and Shawn Lee (right) in 2002. <i>Directed by Jack Neo, produced by Mediacorp Raintree Productions, distributed by United International Pictures, Singapore, 2002. Courtesy of J Team Productions</i>. </div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/homerun_sht_113.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/homerun_sht_113_re.jpg)
 <div style="background-color: white;">Shawn Lee (left) and Megan Zhang (right) in Homerun, a re-make of Majid Majidi's <i>Children of Heaven. Directed by Jack Neo, produced by Chan Pui Yin and Titus Ho, distributed by Mediacorp Raintree Pictures. Singapore 2003. Courtesy of J Team Productions. </i></div>
 
 <i>With That One No Enough</i>, Neo embarked on a directing career that turned him into Singapore’s most prolific filmmaker, directing a total of 18 feature films within 16 years (from 1998 to 2014). Some critics found him a bit too prolific to be consistently good all the time, and it is true that some of his comedies were not as commercially successful – sometimes because they were just not as funny as his previous efforts. The truth is that making people laugh is far more difficult than making people cry – be it when writing a book, staging a play or directing a movie. So far, despite his highs and lows, Neo has done a pretty good job at making Singaporeans laugh at themselves, something much needed for the morale and psychological sanity of a nation not often known for its self-deprecating humour. 
