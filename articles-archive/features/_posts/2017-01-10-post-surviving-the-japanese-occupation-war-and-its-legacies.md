@@ -6,7 +6,7 @@ layout: post
 ---
 #### A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore. **Fiona Tan** details its major highlights.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/2-surviving-japanese-occupation.png">Facade of the old Ford Factory on Upper Bukit Timah Road. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:650px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/2-surviving-japanese-occupation.png">Facade of the old Ford Factory on Upper Bukit Timah Road. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Along a relatively quiet stretch of Upper Bukit Timah Road, now dwarfed by high-rise condominiums, stands the Art Deco façade of the old Ford Factory – built in 1941 and designed by the French structural engineer Emile Brizay as Ford Motor Work’s first car assembly plant in Southeast Asia.
 
@@ -142,7 +142,7 @@ There were significant shifts in terms of social policy in the immediate post-wa
 
 A Department of Social Welfare, for instance, was set up in in June 1946 to continue the BMA’s work of tackling the lingering social problems caused by the Occupation. The department set up free feeding centres for children, as well as “People’s Restaurants”, where anyone could buy a cheap and nutritious lunch for 35 cents (later, 8-cent meals were introduced to help the urban poor).[^7]
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-4/surviving-japanese-occupation/8a-surviving-japanese-occupation.jpg">Children’s feeding centre in the post-war period. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;"><img style="width:350px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/8a-surviving-japanese-occupation.jpg">Children’s feeding centre in the post-war period. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
 
 ###### **Poster to protest arrests of communists**
 
