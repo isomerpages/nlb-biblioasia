@@ -169,11 +169,11 @@ When asked if there was anything in their past they wished they had done differe
 [^17]:Interview with Ong Swee Neo on 24 February 2016.
 [^18]:Interview with Johnny Chia on 19 February 2016.
 [^19]:Interview with Thomas Wong on 26 September 2016.
-[^20]:Ong, K.S. (1993). Introduction. In M. Chiang. (1994), [Private parts and other play things: A collection of popular Singapore comedies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200003851) (p. 8). Singapore: Landmark Books. Call no.: RSING S822 CHI
-[^21]:Lim, C.P. (2012). [Mimi Fan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14303467). Singapore: Epigram. Call no.: RSING S822 LIM; Lim C.P. (2015). [A white rose at midnight](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201316713). Singapore: Epigram. Call no.: RSING S822 LIM
+[^20]:Ong, K.S. (1993). Introduction. In M. Chiang. (1994), *[Private parts and other play things: A collection of popular Singapore comedies](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=200003851)* (p. 8). Singapore: Landmark Books. Call no.: RSING S822 CHI
+[^21]:Lim, C.P. (2012). *[Mimi Fan](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=14303467)*. Singapore: Epigram. Call no.: RSING S822 LIM; Lim C.P. (2015). *[A white rose at midnight](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=201316713)*. Singapore: Epigram. Call no.: RSING S822 LIM
 [^22]:Tan, C. (2014, June 24). Five reasons why the play Mimi Fan is a classic. *The Straits Times*. Retrieved from *The Straits Times* website.
 [^23]:Yeo, R. (1982, March 28). [Making us speak naturally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820328-1.2.110.19.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^24]:Lim, C.P. (1964, January 1). Is drama non-existent in Singapore? [Tumasek](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5053647), 1, 42–44. Call no.: RCLOS 805 T; Yeo, R. (1982, March 28). [Making us speak naturally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820328-1.2.110.19.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^24]:Lim, C.P. (1964, January 1). Is drama non-existent in Singapore? *[Tumasek](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=5053647)*, 1, 42–44. Call no.: RCLOS 805 T; *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820328-1.2.110.19.3)*, p. 4.
 [^25]:Goh. P.S. (1972). *[If we dream too long](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13227365)*. Singapore: Island Press. Call no.: RSING 828.99 GOH
 [^26]:Koh, T.A. (2010). Goh Poh Seng’s If We Dream Too Long: An appreciation. In P.S. Goh. (2010), *[If we dream too long](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13227365)* (p. xii). Singapore: NUS Press. Call no.: RSING S823 GOH
 [^27]:Nur Asyiqin Mohamad Salleh. (2016, July 30). In search of the great Singapore novel. The Straits Times. Retrieved from *The Straits Times*  website.
