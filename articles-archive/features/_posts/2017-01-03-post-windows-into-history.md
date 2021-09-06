@@ -6,7 +6,7 @@ layout: post
 ---
 #### Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. **Yeo Kang Shua** and **Swati Chandgadkar** reveal their findings.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png">Triptych windows found in the side chapels at the Convent of the Holy Infant Jesus. From left to right: St Cecilia, St Mary and St Clothilde (left chapel); and St Louis, The Death of Saint Joseph, and St Charles Borromeo (right chapel). <i>Courtesy of Swati Chandgadkar.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png">Triptych windows found in the side chapels at the Convent of the Holy Infant Jesus. From left to right: St Cecilia, St Mary and St Clothilde (left chapel); and St Louis, The Death of Saint Joseph, and St Charles Borromeo (right chapel). <i>Courtesy of Swati Chandgadkar.</i></div>
 
 Light can be soft, quiet, or at times dramatic, depending on the time of the day and year. Since time immemorial, builders have used architecture to modulate natural light and create emotional – and even spiritual – experiences for people.
 
