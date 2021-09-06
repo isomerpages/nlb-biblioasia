@@ -14,7 +14,7 @@ From the 1920s to 60s, the “Big Three” amusement parks grew in tandem with S
 
 By the late 1960s, however, as television and other forms of entertainment such as shopping malls, cinemas and bowling alleys became more widespread in Singapore, these amusement parks went out of business. The New World site at Jalan Besar is occupied today by City Square Mall, while the Great World site along Kim Seng Road was redeveloped into the sprawling Great World City shopping mall and residences. The Gay World site in Geylang has been zoned for residential projects and is presently unoccupied.
 
-#### **DANCERS BY NIGHT, BENEFACTORS BY DAY**
+#### **Dancers by Night, Benefactors by Day**
 
 People whom I spoke to about the cabaret life would mention how the “lancing girls” were the main draw for the men. For as little as a dollar for a set of three dance coupons, male customers could take the girl of their choice for a spin on the dance floor. But, invariably, the discussion would turn to the most famous “lancing” girl of all time: Rose Chan, a former beauty queen and striptease dancer who joined Happy World Cabaret in 1942. When asked what was it about Chan that was so memorable, many would say it was her audacity to strip completely on stage, or to shock audiences by wrestling with a live python in her acts.
 
@@ -29,7 +29,7 @@ On 27 August 1953, *The Singapore Free Press* newspaper reported that the prince
 
 Rose Chan wasn’t the only “charity queen” from the cabaret world. There were two other women from the Happy World cabaret who worked tirelessly to start a free school for children. These women became the founders of the Happy School in Geylang.
 
-#### **A HAPPY SCHOOL FOR CHILDREN**
+#### **A Happy School for Children**
 
 In 1946, cabaret girls from Happy World answered the call by one of its “big sisters”, Madam He Yan Na, to donate money to set up a Chinese medium school in Singapore. Madam He, the chairperson of the Happy World Dance Troupe (which later became the Happy Opera Society), was deeply troubled by the large number of idle children roaming the streets of Geylang. These were the unfortunate children who had their education interrupted by World War II.
 
@@ -56,7 +56,7 @@ During the Occupation, Chinese schoolteachers had been systematically targeted i
 
 In the face of this dire situation, Madam He and Madam Xu became actively involved in the running of Happy Charity School while juggling with their evening jobs at the cabaret. Faced with pressing challenges such as rising operational costs and the need to recruit more teachers. The school decided in January 1950 to impose a monthly school fee of between $2.50 and $3.50 per student. Following this move, the word “Charity” was dropped from the school’s name to reflect its new status, and it was renamed The Happy School.[^11] 
 
-#### **THE HAPPY SCHOOL RUNS ITS COURSE**
+#### **The Happy School Runs Its Course**
 
 For reasons that are not known, the two women founders subsequently left the school after 1950. The Happy School continued operating out of its Geylang location until 1979. The school relocated once in 1947, from No. 24 in Lorong 14 to Nos. 67 and 69, after it received financial help from George Lee, the owner of Happy World amusement park.
 
@@ -78,7 +78,7 @@ A one-hour job that included a haircut, shampoo, shave and ear cleaning cost $2.
 
 The limited jobs for women in the 1950s included seamstresses, sales assistants, tour guides, cabaret singers and restaurant waitresses. Many also took to working privately as domestic servants and washerwomen. If a girl was educated, there were more options available to her, such as an office secretary or a private tutor. But many of these jobs didn’t pay as well as that of a cabaret girl. So if a woman was good looking and money was a motivation, dancing in the cabarets provided a means to quick and easy money. A cabaret girl could earn anything between $200 and $1,000 a month. In comparison, a senior clerk working in the government back in 1952 would only earn $280 a month.[^16]  Clearly, some women chose to work in the cabaret as dancing girls because it paid well and few employment opportunities were open to them.
 
-#### **THE GLITZ AND GLAMOUR OF "LANCING" GIRLS**
+#### **The Glitz and Glamour of "Lancing" Girls**
 
 Looking good and well-groomed was part and parcel of the job of a “lancing” girl. Advertisements and pictures from newspapers published during the heyday of these cabarets provide a peek into the fashion sense of the show girls.
 
@@ -103,7 +103,7 @@ From the late 1960s to 70s, the cabaret, or “nite clubs” that they had evolv
 
 His tailoring career in the subsequent years saw him working at various upmarket shops. He recalls clients from Malaysia and Indonesia, which included businessmen as well as members of the political elite, who would come to him to have their suits tailored. For after-dinner entertainment, his customers would frequent two popular haunts, the Flamingo Nite Club at Great World amusement park and the Golden Million Nite Club at Peninsula Hotel. “It was all respectable dancing. Everyone was out to have fun and relaxation. The women were in dresses, and my customers in suit and tie.”[^19] 
 
-#### **THE CABARET IS ENSHRINED AS A MUSICAL**
+#### **The Cabaret is Enshrined as a Musical**
 
 The cabaret isn’t just something only older Singaporeans remember. Younger Singaporeans were given a peek into the scene when *Beauty World*, Singapore’s first English musical, was staged as part of the Singapore Arts Festival in 1988. Writer Michael Chiang, songwriter Dick Lee, choreographer Mohd Najip Ali and director Ong Keng Sen would continue to headline the local performing arts scene for several decades afterwards. The cast featured actors such as Claire Wong, Ivan Heng and Jacinta Abisheganaden, who would all become familiar names in Singapore’s theatre fraternity.
 
@@ -118,16 +118,15 @@ The cabaret of yesteryear Singapore is indeed a celebration of our unique histor
 
 When asked if there was anything in their past they wished they had done differently, all the replies were negative. If these “lancing” girls had a chance to relive their lives all over again, they wouldn’t change a thing. In spite of the underlying exploitation of women’s bodies and the seamier side of cabaret life, theirs were inspiring stories of faith, hope and, as we now know, charity.
 
-|**Where Fiction Mirrors Life** (By Michelle Heng)|
+|**WHERE FICTION MIRRORS LIFE** (By Michelle Heng)|
 
 |Singapore’s quest towards modernity in the aftermath of World War II (1942–45) and its nation-building years was underpinned by a quick succession of steel-and-glass skyscrapers and fancy shopping malls. But scratch beneath the surface and a very different side of Singapore emerges − reflected in the lives and loves of several characters from fiction who struggled to make a living in the city’s seamier entertainment spots. A selection of significant works in the National Library’s collection tell an interesting tale of life in a bygone era.|
 
 |Penned by the late Lim Chor Pee (1936–2006), the plays *Mimi Fan* (1962) and *A White Rose at Midnight* (1964) centre on highly-educated male protagonists entangled in relationships with nightclub ladies.[^21]  Set against the backdrop of a modernising Singapore, the plays explore an emerging Singaporean identity during the heady era of socio-political changes in the 1960s.|
 
-|First staged in 1962 at the Cultural Centre (later renamed Drama Centre), *Mimi Fan*, in particular, broke new ground as it was uncommon then for non-expatriate-produced plays to be staged in Singapore [^22]  Lim wanted his play to be as realistic as possible with colloquialisms that Singaporeans could identify with.[^23]  He highlighted the significance of breaking away from the mould of “Western drawing-room drama” in a 1964 article for Tumasek journal, declaring that, “…A national theatre cannot hope to survive if it keeps on staging foreign plays.”[^24] |
+|First staged in 1962 at the Cultural Centre (later renamed Drama Centre), *Mimi Fan*, in particular, broke new ground as it was uncommon then for non-expatriate-produced plays to be staged in Singapore [^22]  Lim wanted his play to be as realistic as possible with colloquialisms that Singaporeans could identify with.[^23]  He highlighted the significance of breaking away from the mould of “Western drawing-room drama” in a 1964 article for Tumasek journal, declaring that, “… A national theatre cannot hope to survive if it keeps on staging foreign plays.”[^24] |
 
-|The eponymous protagonist from Mimi Fan, a free-spirited and independent teenage bar girl, eventually leaves her lover, Chan Fei-Loong, an overseas English-educated Singaporean who has returned home to work, at a time when most women were expected to find value and meaning through their roles as wives and mothers.
-Another memorable character who existed on the periphery of polite society is Lucy, the Singaporean bar girl who has an affair with the protagonist Kwang Meng in the late pioneer writer Goh Poh Seng’s novel *If We Dream Too Long* (1972).[^25]|
+|The eponymous protagonist from Mimi Fan, a free-spirited and independent teenage bar girl, eventually leaves her lover, Chan Fei-Loong, an overseas English-educated Singaporean who has returned home to work, at a time when most women were expected to find value and meaning through their roles as wives and mothers. Another memorable character who existed on the periphery of polite society is Lucy, the Singaporean bar girl who has an affair with the protagonist Kwang Meng in the late pioneer writer Goh Poh Seng’s novel *If We Dream Too Long* (1972).[^25]|
 
 |Writer and literary critic Kirpal Singh notes that Singapore’s first post-independence English novel[^26] was written “around the time Singapore was starting to get − and assert − a sense of itself as a nation” and projected an unnerving anxiety especially as “… Merger with Malaysia had come and gone and left in its wake a stark reality which many were trying to analyse, understand and even project.”[^27] Amidst this gnawing unease, the struggling protagonist found some degree of solace, albeit shortlived, in the arms of his paramour, Lucy, who earns a living entertaining men at Paradise Bar.|
 
