@@ -184,7 +184,7 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 
 #### **Notes**
 
-[^1]:*Foreword to* *[The Japanese Occupation: Singapore 1942–1945. ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080649)* (1985). Singapore: Archives &amp; Oral History Department. Call no.: RCLOS q779.995957 JAP
+[^1]:Foreword to *[The Japanese Occupation: Singapore 1942–1945. ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080649)* (1985). Singapore: Archives &amp; Oral History Department. Call no.: RCLOS q779.995957 JAP
 [^2]:[Public &amp; security registration](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19411227-1.2.55). (1941, December 27). *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 6. Retrieved from NewspaperSG.
 [^3]:Tsuruya, M. (2005). *Sensō sakusen Kirokuga (War campaign documentary paintings): Japan’s national imagery of the “Holy War”,* 1937–1945, pp. 1–3 (Doctoral dissertation, School of Arts and Sciences, University of Pittsburgh). Retrieved from University of Pittsburg website.
 [^4]:Yeo, C. (Interviewer). (2006, June 30). *[Oral history interview with Taka Sakurai](http://www.nas.gov.sg/archivesonline/viewer?uuid=d95211d7-1160-11e3-83d5-0050568939ad-OHC003068_003)* [Transcript of Recording no. 003068/03/03, pp. 1–64]. Retrieved from National Archives of Singapore website.
