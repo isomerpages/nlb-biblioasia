@@ -6,6 +6,9 @@ layout: post
 ---
 #### A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore. **Fiona Tan** details its major highlights.
 
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/2-surviving-japanese-occupation.png)
+<div style="background-color: white;">Facade of the old Ford Factory on Upper Bukit Timah Road. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Along a relatively quiet stretch of Upper Bukit Timah Road, now dwarfed by high-rise condominiums, stands the Art Deco façade of the old Ford Factory – built in 1941 and designed by the French structural engineer Emile Brizay as Ford Motor Work’s first car assembly plant in Southeast Asia.
 
 Part of the original building was torn down when the area was redeveloped in the mid-1990s, but the main structure, housing the very spot where the British Lieutenant-General Arthur E. Percival surrendered to Lieutenant-General Tomoyuki Yamashita, commandant of the Japanese forces, on 15 February 1942, has been preserved.
@@ -35,9 +38,6 @@ As we approach the 75th anniversary of the fall of Singapore on 15 February 2017
 
 The revamped exhibiton showcases the British surrender, the subsequent Japanese Occupation years, and the legacies of the war. Through oral history accounts and archival records from the collections of NAS, the National Library, Singapore, partner agencies and private collectors, this new exhibition aims to capture the diverse experiences of people who lived through this crucial period of our history.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/2-surviving-japanese-occupation.png)
-<div style="background-color: white;">Facade of the old Ford Factory on Upper Bukit Timah Road. <i>Courtesy of National Archives of Singapore.</i></div>
-
 The exhibition features a wide range of material, from government records and oral history interviews to maps and records from private collectors, including cherished personal documents and artefacts from individuals who have kept these items all these years because of the memories – however painful or traumatic – they represent. Overall, the displays balance bigpicture overviews of major events interspersed with deeply personal stories and asides.
 
 The first thing a visitor sees upon entry to the lobby are displays that set the scene of pre-war Singapore and highlights the history of the Former Ford Factory. The exhibition space proper is broadly divided into three zones:
@@ -52,7 +52,7 @@ In total, there are over 200 exhibits on display at the exhibition. As it is not
 
 Featuring the three intertwining narratives of Japanese military aggression, British defences and the civilians in Singapore caught up in these larger forces of empire and war, this section of the exhibition provides visitors with fresh perspectives into what Winston Churchill – the British Prime Minister during the war years – proclaimed as the “worst disaster and largest capitulation in British history”.
 
-##### **Graduation yearbook of the Chinese Military Academy**
+###### **Graduation yearbook of the Chinese Military Academy**
 
 One of the highlights of this section is a graduation yearbook of the Chinese Military Academy (1940), which belongs to 96-year-old Lim Kheng Jun.
 
@@ -66,7 +66,7 @@ Others like Lim Kheng Jun enlisted in the Chinese Military Academy (中央陆军
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/4-surviving-japanese-occupation.png)
 <div style="background-color: white;">Lim Kheng Jun pictured here with his graduation yearbook at the public Call for Archives event held at the National Library Building on 12 March 2016.</div>
 
-##### **Japanese intelligence map of Singapore**
+###### **Japanese intelligence map of Singapore**
 
 Another item of note – donated by Lim Shao Bin to the National Library − is a Japanese intelligence map of Singapore. It is accompanied by a booklet with 83 key locations marked up in red.
 
@@ -77,7 +77,7 @@ This map and its accompanying booklet contain annotated photographs of 83 key lo
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/5-surviving-japanese-occupation.png)
 <div style="background-color: white;">Japanese intelligence map of the town of Singapore with annotations marking out places of Japanese interest. <i>Donated by Lim Shao Bin. Collection of National Library, Singapore.</i></div>
 
-##### **Identity cards issued under the Defence (Security Registration) Regulations**
+###### **Identity cards issued under the Defence (Security Registration) Regulations**
 
 As the war in China waged on and hostilities in Europe broke out, the British colonial administration began to prepare the local population for the possibility of war in Malaya. Initially, the preparations were subtle, such as familiarising the public with air raid precautions and basic civil defence skills, but from 1941 onwards, the war preparations became more overt with screening of the population and recruiting locals to join the military.
 
