@@ -116,7 +116,7 @@ One particular story stands out. On 27 September 1943, six Japanese oil tankers 
 
 Joseph Francis, who worked as a driver for a Japanese inspector at the POW camp, was caught for passing information and a secret transmitter to the prisoners. In the ensuing raid that took place at Changi Prison, many POWs were rounded up for interrogations. Several civilians too were arrested, including Francis, who was tortured by the kempeitai (Japanese military police) over a six-month period.
 
-On his release, Francis required extensive medical care and he eventually died in May 1945. After the Occupation, his brother and friends wrote to the British Military Administration, describing in detail Francis’ contributions to the anti-Japanese resistance. On display at the exhibition is Francis’ driver’s license and the letter written by his friend, Kenneth Tay, describing the “horrors of inhuman punishment” that Francis endured at the hands of his captors, that had reduced him into a pitiable “living skeleton”.
+On his release, Francis required extensive medical care and he eventually died in May 1945. After the Occupation, his brother and friends wrote to the British Military Administration, describing in detail Francis’ contributions to the anti-Japanese resistance. On display at the exhibition is Francis’ driver’s licence and the letter written by his friend, Kenneth Tay, describing the “horrors of inhuman punishment” that Francis endured at the hands of his captors, that had reduced him into a pitiable “living skeleton”.
 
 ###### **Sketches by William Haxworth**
 
@@ -125,8 +125,8 @@ Also worth seeing are the selection of sketches, drawn from a collection of over
 After the war, Haxworth rejoined the police force and stayed there until his retirement in 1954. In 1986, one year after he passed away, his wife donated his entire set of sketches to the NAS.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/7-surviving-japanese-occupation.jpg)
-<div style="background-color: white;">(Left) Records from the British Military Administration files pertaining to the case of Joseph Francis. British Military Administration files, File reference 28/45. Courtesy of National Archives of Singapore. </div>
-<div style="background-color: white;">(Right) William R.M. Haxworth’s sketches depict the harsh and cramped conditions at the POW camps. W R M Haxworth Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">(Left) Records from the British Military Administration files pertaining to the case of Joseph Francis. British Military Administration files, File reference 28/45. <i>Courtesy of National Archives of Singapore.</i> </div>
+<div style="background-color: white;">(Right) William R.M. Haxworth’s sketches depict the harsh and cramped conditions at the POW camps. <i>W R M Haxworth Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Legacies of War and Occupation**
 
