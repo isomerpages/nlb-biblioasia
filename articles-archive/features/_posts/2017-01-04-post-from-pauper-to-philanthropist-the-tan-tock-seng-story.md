@@ -149,11 +149,11 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 [^26]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 52,79. 
 [^27]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 55–59.
 [^28]:Singapore Hokkien Huay Kuan. (2015). *History*. Retrieved from Singapore Hokkien Huay Kuan website.
-[^29]:National Library Board. (2010). *[Thian Hock Keng](https://eresources.nlb.gov.sg/infopedia/articles/SIP7932005-01-10.html)* written by Tan, Bonny. Retrieved from Singapore Infopedia.
+[^29]:National Library Board. (2010). *[Thian Hock Keng](https://eresources.nlb.gov.sg/infopedia/articles/SIP7932005-01-10.html)*  written by Tan, Bonny. Retrieved from Singapore Infopedia.
 [^30]:Tiong Bahru Estate. (2007. August 28). *Tan Kim Ching*. Retrieved from Tiong Bahru Estate Blog.
 [^31]:Cheong, K. (2014, July 28). Tan Tock Seng’s descendants celebrate Tiong Bahru link. *The Straits Times*, p. B3. Retrieved from Tan Tock Seng Hospital website. 
 [^32]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 91; The Orchid Society of Southeast Asia. (2014). *Our history*. Retrieved from The Orchid Society of Southeast Asia website.
 [^33]:Ee, J.W.W. (2009, August 2). [Tan Tock Seng clan’s grave undertaking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090802-1.2.10.12). *The Straits Times*, p. 14. Retrieved from NewspaperSG. 
 [^34]:Loh, S. (1994, September 4). [Following in the footsteps of a giant](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940904-1.2.83.5.9.aspx). *The Straits Times*. p. 9. Retrieved from NewspaperSG. 
 [^35]:Whang, R. (2016, May 24). HK tycoon buys Cuscaden bungalow for $145m. *The Straits Times*, p. 3. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
-[^36]:Koh, J., & Whang, R. (2016, April 5). House of Tan Tock Seng’s kin could fetch $170m. *The Straits Times*, p. 4. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
+[^36]:Koh, J., & Whang, R. (2016, April 5). House of Tan Tock Seng’s kin could fetch $170m. *The Straits Times*, p. 4. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
