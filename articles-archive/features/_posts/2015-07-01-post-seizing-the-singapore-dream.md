@@ -4,14 +4,13 @@ date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/seizing-the-sg-dream
 layout: post
 ---
-
 #### What does it take to achieve the Singapore Dream? **Parag Khanna** identifies three important pillars – diplomacy, demography and technology.
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/seizingthedream/PK-Brussels-March-2012-David-Plas1.jpg)
 
 For generations, people around the world aspired to emulate the "American Dream". This fundamental ethos connotes freedom, equal opportunity and upward mobility. As the post-Cold War world became a geopolitical marketplace, however, others have begun to articulate their own visions for the future.
 
-Soon after the launch of the euro currency, Jeremy Rifkin captured the old world's ambitions for collective resurrection in his book The European Dream. In 2013, China's new President Xi Jinping made global head-lines by using the phrase "Chinese Dream" in  his  speech  to  the  National  People's Congress. It was an attempt to capture the national drive for sustainable prosperity and national greatness.
+Soon after the launch of the euro currency, Jeremy Rifkin captured the old world's ambitions for collective resurrection in his book The <i>European Dream</i>. In 2013, China's new President Xi Jinping made global head-lines by using the phrase "Chinese Dream" in  his  speech  to  the  National  People's Congress. It was an attempt to capture the national drive for sustainable prosperity and national greatness.
 
 But large empires are not the only players entitled to dream. In an age characterised by superpowers and city-states alike, Singapore would benefit greatly from a shared vision  for  its  residents  and  its  role  in  the world. On the back of the 2012–13 National Conversation sessions, what vision will they offer for Singapore's next decades? How will the  insights  gained  translate  into  policy? Who will be its ambassadors? 
 
