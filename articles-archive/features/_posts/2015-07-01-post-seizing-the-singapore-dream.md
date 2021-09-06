@@ -57,3 +57,7 @@ But there is also the "Internet of People" emerging by which we can geo-locate p
 Singapore is widely praised for being a  “living lab”.  It is using itself  as the site for grand experiments still unfolding at the intersection of technology and governance. It is an open economy in a hyper-competitive market and has a delicate balance between domestic and foreign stakeholders. Let us not forget, however, that as evidence is gathered, experiments yield results and conclusions.
 
 Singapore became what it is today through big and risky initiatives but, equally importantly, through bold decisions. Decisiveness  is  the  difference  between  policy and mere politics, between professionalism and populism. Singapore cannot sacrifice the former for the latter. America has done this, and the result has been an erosion of the American Dream.
+
+The National Conversation in 2012 was a productive start. But it has brought Singapore only to the midpoint. Between then and Singapore’s 50th birthday in August 2015, everyone associated with Singapore should deliberate and develop their own Singapore Dream.
+
+<i>This article was first published in The Straits Times on 7 August 2013. © Parag Khanna.</i> Reprinted with permission.
