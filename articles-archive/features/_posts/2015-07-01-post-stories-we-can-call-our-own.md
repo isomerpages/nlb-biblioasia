@@ -50,7 +50,10 @@ Many Singaporeans get upset when old landmarks and places they remember fondly f
 
 If we do not find a way of recording and remembering them, it will be like those forgotten buildings, lost forever.
 
-Adam Maniam (standing, left), with wife Yap Cuixian and their daughter Amelia Ri-En, his elder brother Aaron (seated, top) and younger brother Ashraf, together with his father Sydney (right), mother Bibe Zoolaha and maternal great-grandmother Chan Bibi. Adam is a Tamil-Eurasian-Malay-Pakistani lawyer with a Catholic Tamil grandfather and a Eurasian grandmother.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/ManiamFamily.jpg)
+<div style="background-color: white;">Adam Maniam (standing, left), with wife Yap Cuixian and their daughter Amelia Ri-En, his elder brother Aaron (seated, top) and younger brother Ashraf, together with his father Sydney (right), mother Bibe Zoolaha and maternal great-grandmother Chan Bibi. Adam is a Tamil-Eurasian-Malay-Pakistani lawyer with a Catholic Tamil grandfather and a Eurasian grandmother.</div>
+
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/sg50_books.jpg)
 
 #### **From Drug Offender to Call Centre Manager**
 
@@ -72,7 +75,8 @@ I was released from my last  prison term on 11 November 2008. A week later, I be
 
 Most newly released ex-offend- ers have no money, so Connect gives them $10 a day for meals until they get their first month’s pay of about $1,000. They need to stay focused by holding a steady job because that disciplines and stabilises them.
 
-Angel Ng oversees more than 50 employees, many of them ex-offenders,  at Connect Centre. It trains former inmates at its three call centres so they have a chance at holding down steady jobs and re-integrating into society.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/AngelNg.jpg)
+<div style="background-color: white;">Angel Ng oversees more than 50 employees, many of them ex-offenders,  at Connect Centre. It trains former inmates at its three call centres so they have a chance at holding down steady jobs and re-integrating into society.</div>
 
 #### **Made in Singapore: Asia’s First Test-tube Bab**
 
@@ -90,7 +94,8 @@ The late Prof Ratnam gave me the name Samuel. I don’t know why. We did not rea
 
 You could call me an advocate of IVF. I often encourage my friends who are trying to conceive to go for it. I love kids and would definitely want my own. But first, I have to find myself a girlfriend.
 
-Samuel Lee with a projection of a newspaper article marking his birth. He says that, fanfare aside, he grew up an ordinary Singaporean, in a three-room flat in Woodlands, with parents who refused to pamper him with too many toys. 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/SamuelLee.jpg)
+<div style="background-color: white;">Samuel Lee with a projection of a newspaper article marking his birth. He says that, fanfare aside, he grew up an ordinary Singaporean, in a three-room flat in Woodlands, with parents who refused to pamper him with too many toys.</div>
 
 #### **The Day He Faced a Cop Killer**
 
@@ -106,7 +111,8 @@ Then there was the disaster in 1978, when the Greek tanker Spyros exploded at Ju
 
 I remember we were eating  nasi briyani at an operating table  with bodies on the floor. We had to  take our food there as we couldn’t  leave, as we were waiting for people to come in to identify the bodies, and every hour the body changes because of decomposition. After that, I had to throw away all the clothes I was wearing, including my undergarments, shoes, everything, because it all stank. Even a few days after we were done, when I sat in the bus, people were still holding their noses, because the smell sticks to your skin. You bathe with Dettol, you wash your hair, the stink is still there.
 
-Veteran police officer Abd Rahman Khan Gulap Khan was at the front line of several major investigations.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/RahmanKhan.jpg)
+<div style="background-color: white;">Veteran police officer Abd Rahman Khan Gulap Khan was at the front line of several major investigations.</div>
 
 #### **I Sold Cars to Presidents**
 
@@ -126,7 +132,8 @@ In 1964, we brought in Mazda, but people didn’t trust a Japanese make. They wo
 
 I still love cars and will spend more than an hour washing my daughter’s car. The only part I don’t clean is the engine – I don’t want to dirty my nails!
 
-Veteran car saleswoman Rosie Ang, 77, started out in the business when she was 20. Her working hours were long, but her hard work paid off, and she had plenty of referrals. She even delivered a car to Singapore’s first president, Yusof Ishak.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/RahmanKhan.jpg)
+<div style="background-color: white;">Veteran car saleswoman Rosie Ang, 77, started out in the business when she was 20. Her working hours were long, but her hard work paid off, and she had plenty of referrals. She even delivered a car to Singapore’s first president, Yusof Ishak.</div>
 
 #### **A Voice for the Less Advantaged**
 
