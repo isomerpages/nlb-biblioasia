@@ -4,7 +4,7 @@ date: 2015-07-01
 permalink: /articles-archive/features/permalink
 layout: post
 ---
-#### **What does it take to achieve the Singapore Dream? Parag Khanna identifies three important pillars – diplomacy, demography and technology.**
+#### What does it take to achieve the Singapore Dream? **Parag Khanna** identifies three important pillars – diplomacy, demography and technology.
 
 For generations, people around the world aspired to emulate the "American Dream". This fundamental ethos connotes freedom, equal opportunity and upward mobility. As the post-Cold War world became a geopolitical marketplace, however, others have begun to articulate their own visions for the future.
 
@@ -62,4 +62,6 @@ The National Conversation in 2012 was a productive start. But it has brought Sin
 
 <i>This article was first published in The Straits Times on 7 August 2013. © Parag Khanna.</i> Reprinted with permission.
 
-Parag Khanna is director of Hybrid Reality, a senior fellow of the Singapore Institute of International Affairs and an adjunct professor at the Lee Kuan Yew School of Public Policy. He is author of The Second World (2008) and How To Run The World (2011), and co-author of Hybrid Reality (2012).
+<p style="font-size:15px;"><b>Parag Khanna</b> is director of Hybrid Reality, a senior fellow of the Singapore Institute of International Affairs and an adjunct professor at the Lee Kuan Yew School of Public Policy. He is author of The Second World (2008) and How To Run The World (2011), and co-author of Hybrid Reality (2012).</p>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
