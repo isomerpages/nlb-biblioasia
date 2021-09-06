@@ -4,7 +4,7 @@ date: 2017-01-07
 permalink: /vol-12/issue-4/jan-mar-2017/britannia-nco-club
 layout: post
 ---
-#### The much-loved NCO Club on Beach Road was a favourite downtown R &amp; R spot for off-duty soldiers. **Francis Dorai** charts its history.
+#### The much-loved NCO Club on Beach Road was a favourite downtown <br>R &amp; R spot for off-duty soldiers. **Francis Dorai** charts its history.
 
 Beach Road is a fine example of a street that meshes the new with the old. Along this reclaimed stretch of land is a fascinating mix of low- and high-rise buildings from different eras, influenced by ethnic, Victorian, Art Deco and early Modernist and post-Modernist architectural styles.
 
