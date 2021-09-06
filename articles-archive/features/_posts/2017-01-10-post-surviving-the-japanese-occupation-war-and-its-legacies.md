@@ -161,7 +161,7 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 <img src="/images/space1.png">
 </div>
 
-|**Surviving the Japanese Occupation: War and its Legacies**|
+|**SURVIVING THE JAPANESE OCCUPATION: WAR AND ITS LEGACIES**|
 
 |Former Ford Factory|
 
