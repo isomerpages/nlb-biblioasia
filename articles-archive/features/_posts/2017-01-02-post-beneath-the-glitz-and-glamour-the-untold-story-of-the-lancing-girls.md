@@ -6,16 +6,17 @@ layout: post
 ---
 #### These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. **Adeline Foo** uncovers these women with hearts of gold.
 
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png">A photo of five dance hostesses taken inside a cabaret in the 1930s. The women are dressed in figure-hugging cheongsams with daring side slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
+
 Who were the so-called “lancing” girls of yesteryear?[^1] They were the glamorous dance hostesses from the cabarets of the “Big Three” worlds of entertainment in Singapore – New World, Great World and Happy World (later renamed Gay World) – who made a living from “lancing”, a local mispronunciation of “dancing”.
 
 From the 1920s to 60s, the “Big Three” amusement parks grew in tandem with Singapore’s development, rising from humble wooden shacks and makeshift kiosks to sophisticated playgrounds offering restaurants, cinemas, cabarets, orchestras and carnival rides as well as entertainment such as Malay bangsawan, Chinese opera, boxing matches, circus acts and Western-style vaudeville shows. The parks were a huge part of people’s lives, and offered something for everyone in the family. In its heyday, some 50,000 people could easily throng an amusement park in a single night.[^2]
 
 By the late 1960s, however, as television and other forms of entertainment such as shopping malls, cinemas and bowling alleys became more widespread in Singapore, these amusement parks went out of business. The New World site at Jalan Besar is occupied today by City Square Mall, while the Great World site along Kim Seng Road was redeveloped into the sprawling Great World City shopping mall and residences. The Gay World site in Geylang has been zoned for residential projects and is presently unoccupied.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/glitz-and-glamour/1-beneath_glitz_glamour.png)
-<div style="background-color: white;">The most famous “lancing” girl of all time was Rose Chan, a former beauty queen and striptease dancer, who joined the Happy World Cabaret in 1942. She was known for her daring moves on stage that included wrestling with a slithering python. <i>All rights reserved, Rajendra, C. (2013). No Bed of Roses: The Rose Chan Story. Singapore: Marshall Cavendish.</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-4/glitz-and-glamour/1-beneath_glitz_glamour.png">The most famous “lancing” girl of all time was Rose Chan, a former beauty queen and striptease dancer, who joined the Happy World Cabaret in 1942. She was known for her daring moves on stage that included wrestling with a slithering python. <i>All rights reserved, Rajendra, C. (2013). No Bed of Roses: The Rose Chan Story. Singapore: Marshall Cavendish.</i></div>
 
-#### **Dancers by Night, Benefactors by Day**
+#### **DANCERS BY NIGHT, BENEFACTORS BY DAY**
 
 People whom I spoke to about the cabaret life would mention how the “lancing girls” were the main draw for the men. For as little as a dollar for a set of three dance coupons, male customers could take the girl of their choice for a spin on the dance floor. But, invariably, the discussion would turn to the most famous “lancing” girl of all time: Rose Chan, a former beauty queen and striptease dancer who joined Happy World Cabaret in 1942. When asked what was it about Chan that was so memorable, many would say it was her audacity to strip completely on stage, or to shock audiences by wrestling with a live python in her acts.
 
@@ -25,7 +26,7 @@ On 27 August 1953, *The Singapore Free Press* newspaper reported that the prince
 
 Rose Chan wasn’t the only “charity queen” from the cabaret world. There were two other women from the Happy World cabaret who worked tirelessly to start a free school for children. These women became the founders of the Happy School in Geylang.
 
-#### **A Happy School for Children**
+#### **A HAPPY SCHOOL FOR CHILDREN**
 
 In 1946, cabaret girls from Happy World answered the call by one of its “big sisters”, Madam He Yan Na, to donate money to set up a Chinese medium school in Singapore. Madam He, the chairperson of the Happy World Dance Troupe (which later became the Happy Opera Society), was deeply troubled by the large number of idle children roaming the streets of Geylang. These were the unfortunate children who had their education interrupted by World War II.
 
@@ -42,9 +43,6 @@ In an interview published in the Chinese daily *Nanyang Siang Pau*, Madam He was
 The second founder of Happy Charity School, Madam Xu Qian Hong, was a classic Cantonese beauty with a heart of gold. An article in the Nanyang Siang Pau, dated 10 June 1947, described her as “enchanting” and “energetic” by turns. Madam Xu became a cabaret girl at 16, having been forced by circumstances to help her father support her younger siblings after her mother died. She only had two years of Chinese education before she joined the dancing profession. As a widely sought after cabaret girl, Madam Xu earned about $1,000 a month, and from out of her pocket she would donate about half of her salary each month to the school.[^7] 
 
 What these two women and their comrades did to keep children off the streets and give them a shot at a better life was truly admirable. The shortage of schools in the post-World War II period was even more critical compared with the situation before the war. An article in The Straits Times on 23 November 1947 declared that “Singapore Needs More Schools”.
-
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png)
-<div style="background-color: white;">A photo of five dance hostesses taken inside a cabaret in the 1930s. The women are dressed in figure-hugging cheongsams with daring side slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
 
 The Japanese Occupation of Singapore between 15 February 1942 and 12 September 1945 had displaced education and many other essential services, and by 1947, there were approximately 90,000 children of school-going age.[^8]  There was serious overcrowding at schools, insufficient facilities and a severe shortage of teachers. While the situation in English schools was bad, it was even worse in Chinese medium schools.
 
