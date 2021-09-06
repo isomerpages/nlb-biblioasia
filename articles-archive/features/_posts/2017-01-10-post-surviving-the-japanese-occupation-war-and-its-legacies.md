@@ -12,8 +12,7 @@ Along a relatively quiet stretch of Upper Bukit Timah Road, now dwarfed by high-
 
 Part of the original building was torn down when the area was redeveloped in the mid-1990s, but the main structure, housing the very spot where the British Lieutenant-General Arthur E. Percival surrendered to Lieutenant-General Tomoyuki Yamashita, commandant of the Japanese forces, on 15 February 1942, has been preserved.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/1-surviving-japanese-occupation.png)
-<div style="background-color: white;">“The Meeting of General Yamashita and General Percival” (1942), an oil painting by Saburo Miyamoto. <i>All rights reserved. Tan, S.T.L., et al. (2011). Battle for Singapore: Fall of the Impregnable Fortress (Vol. 1). Singapore: National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/1-surviving-japanese-occupation.png">“The Meeting of General Yamashita and General Percival” (1942), an oil painting by Saburo Miyamoto. <i>All rights reserved. Tan, S.T.L., et al. (2011). Battle for Singapore: Fall of the Impregnable Fortress (Vol. 1). Singapore: National Archives of Singapore.</i></div>
 
 That fateful event was preceded by a week of intense fighting, dubbed “The Battle of Singapore”, between the combined British and Allied forces and Japanese troops after the latter made landfall on the northwestern coastline near the Johor Strait. Percival made the fatal error of assuming that the Japanese would attack from the northeastern coastline and had his firepower and soldiers concentrated along that front. The rest, as they say, is history.
 
