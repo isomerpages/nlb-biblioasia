@@ -119,7 +119,7 @@ A few sets of cartoons from the Leuven archives can be linked in terms of theme 
 
 Comparing these cartoons with the chapel windows provides some insights.
 
-#### **Glass in the Apse**
+###### **Glass in the Apse**
 
 In the apse, all five extant lancet windows are based on themes outlined in the Dobbelaere cartoons of these windows.
 
@@ -127,7 +127,7 @@ Three of the five apsidal windows are direct adaptations of the Dobbelaere carto
 
 The other two apsidal stained glass windows located to the left of the apse when facing it – *The Annunciation* (1A) and *The Visitation* (1B) – are signed “Vitrail St Georges, 1994, Lyon, France”. Although these two windows bear the signature of another studio and a more recent date, it is obvious that the theme and composition are based on the original cartoons by Dobbelaere. The only difference is in the donor panels. These now read as “Presented by a Benefactor”, whereas the cartoons bear the inscriptions “Presented by P.S.R. Pasoual” and “Presented by the Ossorio Family” respectively.
 
-#### **Glass in the Two Private Chapels**
+###### **Glass in the Two Private Chapels**
 
 In the private chapel to the left of the apse, we begin to see discrepancies in the triptych window.
 
@@ -141,7 +141,7 @@ The Dobbelaere signature is absent in this stained glass triptych. Instead, both
 
 In the private chapel to the right of the apse, the triptych window is a faithful realisation of the Dobbelaere cartoons without revisions: “S. Ludovicus” (St Louis, 3A) “Presented by A. De Souza”; *The Death of St Joseph* (3B) “Presented by E. De Souza”; and “S. Carolus Bor.” (St Charles Borromeo, 3C) “Presented by O.K.”. The latter bears the signature “J. Dobbelaere, Bruges, Belgium”. The cartoons allow us to confidently attribute these windows to the Dobbelaere studio.
 
-#### **Glass in the Clerestories**
+###### **Glass in the Clerestories**
 The cartoons for the two stained glass windows situated above the chancel at clerestory level shows two lancets: one depicting *The Flight into Egypt*, and the other *The Visit of the Magi*.
 
 Each window, however, comprises a pair of lancet panels crowned by a roundel and three small insets to form a tracery. The cartoon’s themes remain, but the theme of each window is now spread over two lancet panels. *The Visit of the Magi*  (4A) is on the left of the apse, and *The Flight into Egypt* (4B) on the right. This change may have been the result of revisions to the architectural design of the chapel, with the windows redesigned to adapt to the modified openings.
@@ -152,7 +152,7 @@ While neither cartoon indicates a donor’s name, *The Visit of the Magi window*
 <div style="background-color: white;">The clerestory at the chapel of the Convent of the Holy Infant Jesus: The Flight into Egypt (left) and The Visit of the Magi (right). The original cartoons by Dobbelaere depict each of these scenes in a single lancet composition. The windows on site, however, are executed as a pair of lancets, with a
 small roundel and three small glass insets forming a tracery. <i>Photograph courtesy of Carolyn Lim; cartoon courtesy of KADOC – KU Leuven.</i></div>
 
-#### **Glass in the Gallery**
+###### **Glass in the Gallery**
 
 Two sets of stained glass windows, each composed of a pair of lancet panels crowned by a roundel and three small insets to form a tracery, flank the circular window in the gallery. They are based on Dobbelaere’s cartoons, and have been reproduced faithfully without revisions. The window on the left is *The Ascension* (5B), with The Dove as Holy Spirit represented in the roundel. The lancets are inscribed “Presented by a Benefactor”. The window on the right is The Holy Family (5A), with Our Lord in Glory represented in the roundel. These lancets read “Presented by L. Scheerder”. The *Ascension* window is one of just two windows in the chapel that bears the signature “J. Dobbelaere, Bruges, Belgium”.
 
