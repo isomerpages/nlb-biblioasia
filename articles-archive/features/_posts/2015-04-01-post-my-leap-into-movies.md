@@ -23,13 +23,13 @@ I didn't know of any production company that worked solely in film. In desperati
 
  Inexperience and a lack of resources posed critical problems to funding and budgeting. To make the film, I ended up mortgaging my apartment in London. I was stupidly naïve then, even paying huge copyright fees for the use of 10 pop songs. Fortunately, it was a risk that paid off. Harvey Weinstein from Miramax, who later picked up Forever Fever for an international release, said it was the music that allowed him to connect with the film. Fortunately, screenings in international audience markets ensured a healthy profit for <i>Forever Fever</i> – its local takings would not have come close to breaking even.
  
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_re.jpg)
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_2.jpg)
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_3.jpg)
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_5.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_5_re.jpg)
 <div style="background-color: white;">
 Film stills from <i>Forever Fever</i> (1998), starring Adrian Pang, Pierre Png, Anna Belle Francis and Medaline Tan. <i>Courtesy of Tiger Tiger Pictures</i>.</div>
 
@@ -37,7 +37,7 @@ Eleven years later, when I made my second film <i>The Blue Mansion</i>, I wasn�
 
 I took a personal hit financially with <i>The Blue Mansion</i>, mainly because it failed to secure international distribution. At a foreign film market, I was told by a film executive in all seriousness that the film would sell better if it was in Chinese (I didn’t know whether to laugh or cry). In fact, for both my films, I found there to be resistance among investors and distributors to the idea of Asians speaking English in a film. In its North American release, <i>Forever Fever</i> was dubbed over by American actors because of fears that audiences would not understand the Singaporean actors. Changing a film’s language to pander to an audience market perplexes me. Shouldn’t a film’s marketability be based on its merits and not its language? 
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/TheBlueMansionPoster1.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/TheBlueMansionPoster1_re.jpg)
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_4.jpg)
 	
@@ -50,7 +50,7 @@ As a nation of immigrants, Singaporeans have no common language except for Engli
 	
 My earliest memories of watching movies are of Malay films screened by Radio Television Singapore (RTS) in the 1960s and 70s. Pontianak is my homage to the Golden Age of filmmaking in Singapore and the highly successful string of iconic Pontianak films that were produced by Cathay-Keris and Shaw in the late 1950s. These movies were in Malay and were watched by many Singaporeans regardless of their race or the language they spoke. Society felt more diverse and embracing of other cultures back then, possibly because we were searching for an identity in post-World War II Singapore. To be true to the spirit of the original films and that period of our history, it is essential that my remake of <i>Pontianak</i> be filmed in Malay. 
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Pontianak.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Pontianak_re.jpg)
 <div style="background-color: white;">The movie poster for Glen Goei's latest film, <i>Pontianak</i>, slated for release in 2017. <i>Courtesy of Tiger Tiger Pictures</i>.</div>
 
 Our nation’s films are visual documents of our culture, traditions, languages and history. We should learn to look at film as a cultural product and not an economic commodity with a price and a return on investment. We need to develop a culture of filmmaking and film appreciation in order to address this narrow view of this art form, and by extension, the difficulties of funding, developing and maintaining an industry. It is grossly reductive to say that we are a small market or a young country when there existed a thriving film industry in 1950s Singapore. One also only needs to look at Hong Kong, a city not much larger than Singapore, for proof of the potential possibilities. 
