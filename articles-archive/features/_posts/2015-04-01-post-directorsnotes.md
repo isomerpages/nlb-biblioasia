@@ -4,9 +4,8 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/director-note
 layout: post
 ---
-
 The Asian Film Archive (AFA) was established in 2005. The National Library Board incorporated the National Archives of Singapore in March 2013, followed by the AFA in January 2014. The AFA serves as a repository for films from all over Asia. Many fine Asian films 
-make their rounds on international festival circuits, winning critical acclaim and awards, but are often not released commercially. Without the preservation work of the AFA, these films - which are part of our Asian heritage and identity  might be forgotten or lost forever.
+make their rounds on international festival circuits, winning critical acclaim and awards, but are often not released commercially. Without the preservation work of the AFA, these films – which are part of our Asian heritage and identity  might be forgotten or lost forever.
 
 The AFA celebrates its 10th anniversary this year, having come a long way from its simple beginnings but always adhering to its mission “to save, explore and share the Art of Asian Cinema”. In this issue, executive director of the AFA, [Karen Chan](/vol-11/issue-1/apr-jun-2015/moving-journey), takes a look back at the AFA’s first 10 years, sharing its vision and the challenges it faces in film archiving. 
 
@@ -14,7 +13,7 @@ This year, the 19th South East Asia-Pacific Audiovisual Archives Association (SE
 
 This issue of BiblioAsia is aptly dedicated to the subject of film.
 
-Few people are aware that cinema in Singapore has had a long history, dating as far back as 1896. [Bonny Tan](/vol-11/issue-1/apr-jun-2015/early-sg-cinema) traces its development from the arrival of the Magic Lantern - the precursor of the modern cinema - to Singapore’s earliest indigenous films: Xin Ke (1927, The Immigrant) and Leila Majnun (1934). After the lull period during the 
+Few people are aware that cinema in Singapore has had a long history, dating as far back as 1896. [Bonny Tan](/vol-11/issue-1/apr-jun-2015/early-sg-cinema) traces its development from the arrival of the Magic Lantern – the precursor of the modern cinema – to Singapore’s earliest indigenous films: Xin Ke (1927, The Immigrant) and Leila Majnun (1934). After the lull period during the 
 Japanese Occupation came the golden age of Malay cinema, from 1947 to 1972. This 25-year period gave rise to more than 250 films as well as local celebrity stars like P. Ramlee, Jins Shamsudin, Siput Sarawak and Maria Menado (of Pontianak movie fame), among others. [Michelle Heng and Nor Afidah Abd Rahman](/vol-11/issue-1/apr-jun-2015/ga-malay-cinema) examine the films and studios of this illustrious era.
 
 Singapore has been an alluring set location for Western filmmakers since the early 1930s. Our guest writer [Ben Slater](/vol-11/issue-1/apr-jun-2015/svph) looks at movies shot in Singapore over the years and examines foreign perceptions of Singapore that range from the seedy and the exotic to the mysterious and futuristic.
