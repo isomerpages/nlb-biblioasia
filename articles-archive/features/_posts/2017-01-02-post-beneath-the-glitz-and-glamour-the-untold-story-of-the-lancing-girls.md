@@ -6,7 +6,7 @@ layout: post
 ---
 #### These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. **Adeline Foo** uncovers these women with hearts of gold.
 
-<div style="background-color: white;"><img style="width:450px" src="/images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png"><br>A photo of five dance hostesses taken inside a cabaret in the 1930s. The women are dressed in figure-hugging cheongsams with daring side slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
+<div style="background-color: white;"><img style="width:550px" src="/images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png"><br>A photo of five dance hostesses taken inside a cabaret in the 1930s. The women are dressed in figure-hugging cheongsams with daring side slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
 
 Who were the so-called “lancing” girls of yesteryear?[^1] They were the glamorous dance hostesses from the cabarets of the “Big Three” worlds of entertainment in Singapore – New World, Great World and Happy World (later renamed Gay World) – who made a living from “lancing”, a local mispronunciation of “dancing”.
 
