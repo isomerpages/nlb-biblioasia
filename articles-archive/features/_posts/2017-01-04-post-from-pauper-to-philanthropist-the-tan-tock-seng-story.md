@@ -43,11 +43,11 @@ As Tan grew in stature and influence, he was asked to help settle disputes betwe
 According to *The Singapore Free Press and Mercantile Advertiser* in March 1850: “Much of his time was engrossed in acting as arbitrator in disputes between his countrymen, and many a case which would otherwise have afforded a rich harvest to the lawyers, was through his intervention and mediation nipped in the bud.”[^13]
 
 
-#### **Locking Horns with the British**
+#### **LOCKING HORNS WITH THE BRITISH**
 
-The year was 1844. Singapore “was a merchant’s delight” with “huge profits to be made in commercial ventures”, “but the streets of the island also reeked with diseased and suffering people”, according to the New Nation in September 1974.
+The year was 1844. Singapore “was a merchant’s delight” with “huge profits to be made in commercial ventures”, “but the streets of the island also reeked with diseased and suffering people”, according to the *New Nation* in September 1974.
 
-This prompted a sharply worded editorial by Wiliam Napier, editor of *The Singapore Free Press: *“A number of diseased Chinese, lepers and others frequent almost every street in town, presenting a spectacle which is rarely to be met with even in towns with a pagan government, and which is truly disgraceful in a civilised and Christian country, especially under the government of Englishmen.”[^14]
+This prompted a sharply worded editorial by Wiliam Napier, editor of *The Singapore Free Press:* “A number of diseased Chinese, lepers and others frequent almost every street in town, presenting a spectacle which is rarely to be met with even in towns with a pagan government, and which is truly disgraceful in a civilised and Christian country, especially under the government of Englishmen.”[^14]
 
 Something had to be done and soon. For several years, demands had been made on the British to devote more resources to help the sick and destitute in Singapore, but it was largely ignored.[^15] Finally, in 1834, the government relented and imposed a tax on the sale of pork, using the proceeds to build a Chinese Poor House. However, when the British later needed more space to house the rising convict population, it decided to convert the poor house into a jail.[^16]
 
@@ -73,7 +73,7 @@ On 25 May 1844, the foundation stone for the hospital, then called “The Chines
 <div style="background-color: white;">(Left) The first Tan Tock Seng Hospital, then called “The Chinese Pauper Hospital”, was built on Pearl’s Hill in 1846. This 1848 watercolour painting by John Turnbull Thomson shows its location between the Surgery and the Seamen’s Hospital on Pearl’s Hill. <i>All rights reserved. Liu, G. (1999). Singapore:A Pictorial History, 1819-2000. Singapore: Archipelago Press and National Heritage Board.</i></div>
 <div style="background-color: white;">(Right) This tablet was erected by the Committee of Management in 1854 to acknowledge the donations by Tan Tock Seng and his son, Tan Kim Ching,towards the building of the Tan Tock Seng Hospital. The tablet was installed on the hospital gate at Pearl’s Hill. <i>All rights reserved, Lee, S.H. (1994). 150 Years of Caring: The Legacy of Tan Tock Seng Hospital. Singapore: Tan Tock Seng Hospital.</i></div>
 
-#### **Lineage and Legacy**
+#### **LINEAGE AND LEGACY**
 
 A year later, on 26 February 1850, Tan died of an unknown disease. He was only 52. His fortune was rumoured to be a princely sum of 500,000 Spanish dollars, which was shared between his widow, three sons and three daughters.[^24]
 
@@ -100,7 +100,7 @@ Beyond these few famous names, little else is known about Tan Tock Seng’s line
 
 Great-great-grandson John Tan (grandson of Tan Chay Yan), who runs several family companies, told The Straits Times: “The first thing people ask when they find out that you are a descendant of Tan Tock Seng is, ‘Oh, he must have left you billions of dollars, where is it?’”[^34]
 
-“That’s not true. Over the years, the descendants mismanaged and squandered the wealth, the war took its toll, and so by the time it came to our generation, we had to make it on our own.” Beyond what has been recorded publicly, “very little by way of documentation or material belongings has passed down the family”, he added.
+“That’s not true. Over the years, the descendants mismanaged and squandered the wealth, the war took its toll, and so by the time it came to our generation, we had to make it on our own.” Beyond what has been recorded publicly, “very little by way of documentation or material belongings has passed down the family,” he added.
 
 In May 2016, news of the sale of a bungalow at 9 Cuscaden Road, home of the late Tan Hoon Siang, made the headlines – an indication perhaps that not all the wealth had been fritttered away. The house and its 25,741 sq-ft plot of land was sold for a whopping $145 million in May – one of the highest ever paid for a private property in Singapore.[^35]
 
@@ -115,7 +115,7 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/Sueann.png">
-	<b>Sue-Ann Chia </b>is a journalist with over 15 years experience covering politics and current affairs at various newspapers, including "The Straits Times" and "Today". She is currently the Associate Director at the Asia Journalism Fellowship and a Director at The Nutgraf, a boutique writing and media consultancy.</div>
+	<b>Sue-Ann Chia </b>is a journalist with over 15 years experience covering politics and current affairs at various newspapers, including <i>The Straits Times</i> and <i>Today</i>. She is currently the Associate Director at the Asia Journalism Fellowship and a Director at The Nutgraf, a boutique writing and media consultancy.</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
@@ -137,23 +137,23 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 [^14]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7; [Straits Times special feature: Towkay forced hand of govt. to build hospital.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx) (1961, December 7). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 [^15]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
 [^16]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 7 Dec 1961, p. 9.
-[^17]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 7 Dec 1961, p. 9; Buckley, C.B. (1902). An anecdotal history of old times in Singapore (Vol. II) (p. 408). Singapore: Fraser & Neave. Call no.: RRARE 959.57 BUC 
+[^17]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 7 Dec 1961, p. 9; Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://eservice.nlb.gov.sg/itemholding.aspx?bid=4470390)* (Vol. II) (p. 408). Singapore: Fraser & Neave. Call no.: RRARE 959.57 BUC 
 [^18]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
 [^19]:In 1830, the Straits Settlements – comprising Singapore, Malacca and Penang – was made a residency of the Presidency of Bengal under the governor-general of India based in Calcutta, India.
 [^20]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
 [^21]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
 [^22]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390), 1902, Vol, II, p. 410.
-[^23]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 5 May 1956, p. 9; Song, O, S. (1923). *[One hundred years’ history of the Chinese in Singapore (pp. 62–63)](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=4500922)*. London: John Murray. Call no.: RCLOS 959.57 SON
+[^23]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 5 May 1956, p. 9; Song, O, S. (1923). *[One hundred years’ history of the Chinese in Singapore](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=4500922)* (pp. 62–63). London: John Murray. Call no.: RCLOS 959.57 SON
 [^24]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500301-1.2.8.aspx)* (1835–1869), 1 Mar 1850, p. 1.
 [^25]:[Untited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18500319-1.2.11.aspx). (1850, March 19). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^26]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 52,79. 
 [^27]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 55–59.
-[^28]:Singapore Hokkien Huay Kuan. (2015). History. Retrieved from Singapore Hokkien Huay Kuan website.
-[^29]:National Library Board. (2010). Thian Hock Keng written by Tan, Bonny. Retrieved from Singapore Infopedia.
-[^30]:Tiong Bahru Estate. (2007. August 28). [Tan Kim Ching](http://eresources.nlb.gov.sg/infopedia/articles/SIP_793_2005-01-10.html). Retrieved from Tiong Bahru Estate Blog.
+[^28]:Singapore Hokkien Huay Kuan. (2015). *History*. Retrieved from Singapore Hokkien Huay Kuan website.
+[^29]:National Library Board. (2010). *[Thian Hock Keng](https://eresources.nlb.gov.sg/infopedia/articles/SIP7932005-01-10.html)* written by Tan, Bonny. Retrieved from Singapore Infopedia.
+[^30]:Tiong Bahru Estate. (2007. August 28). *Tan Kim Ching*. Retrieved from Tiong Bahru Estate Blog.
 [^31]:Cheong, K. (2014, July 28). Tan Tock Seng’s descendants celebrate Tiong Bahru link. *The Straits Times*, p. B3. Retrieved from Tan Tock Seng Hospital website. 
-[^32]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 91; The Orchid Society of Southeast Asia. (2014). Our history. Retrieved from The Orchid Society of Southeast Asia website.
+[^32]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 91; The Orchid Society of Southeast Asia. (2014). *Our history*. Retrieved from The Orchid Society of Southeast Asia website.
 [^33]:Ee, J.W.W. (2009, August 2). [Tan Tock Seng clan’s grave undertaking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090802-1.2.10.12). *The Straits Times*, p. 14. Retrieved from NewspaperSG. 
 [^34]:Loh, S. (1994, September 4). [Following in the footsteps of a giant](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940904-1.2.83.5.9.aspx). *The Straits Times*. p. 9. Retrieved from NewspaperSG. 
-[^35]:Whang, R. (2016, May 24). HK tycoon buys Cuscaden bungalow for $145m. *The Straits Times*, p. 3. Retrieved from [Factiva](http://eresources.nlb.gov.sg/). 
-[^36]:Koh, J., & Whang, R. (2016, April 5). House of Tan Tock Seng’s kin could fetch $170m. *The Straits Times*, p. 4. Retrieved from [Factiva](http://eresources.nlb.gov.sg/).
+[^35]:Whang, R. (2016, May 24). HK tycoon buys Cuscaden bungalow for $145m. *The Straits Times*, p. 3. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
+[^36]:Koh, J., & Whang, R. (2016, April 5). House of Tan Tock Seng’s kin could fetch $170m. *The Straits Times*, p. 4. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
