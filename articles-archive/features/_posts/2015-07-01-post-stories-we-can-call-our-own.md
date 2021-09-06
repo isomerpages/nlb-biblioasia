@@ -146,21 +146,21 @@ I still love cars and will spend more than an hour washing my daughter’s car. 
 
 When the papers reported in 1992 that the government was looking for a new batch of Nominated MPs, many people were excited. I was president of the Association of Women for Action and Research at that time, so I rang up a few women and said: “Please apply.” They all said no. I then decided I had no moral right to persuade them to do something I wasn’t doing myself. So I applied, even though I had no idea what a parliamentarian did.
 
-When I met civil servants, they would tell me: “Do you know, every time you ask a question, it costs the civil service money? We have to do  research to answer it.” But that meant I got a lot of statistics from the govern- ment, because it had to reply to me.
+When I met civil servants, they would tell me: “Do you know, every time you ask a question, it costs the civil service money? We have to do  research to answer it.” But that meant I got a lot of statistics from the government, because it had to reply to me.
 
 If there’s one thing Parliament taught me, it’s that if you want to  be in any area of policymaking, it’s  important to get the statistics right. 
 
 If the statistics are wrong, you get  shot down and the rest of what you’re trying to say gets lost.
 
-What I really consider my biggest achievement was moving the Family Violence Bill in 1995. Even though it was defeated then, many of its provi- sions were subsequently incorporated into the Women’s Charter.
+What I really consider my biggest achievement was moving the Family Violence Bill in 1995. Even though it was defeated then, many of its provisions were subsequently incorporated into the Women’s Charter.
 
-Two things I suggested in Parlia- ment have become a reality: I wanted an educational (Edusave) account set up for every adult Singaporean, and a medical savings account set up  for every elderly Singaporean. So 20 years down the line, both my dreams have been fulfilled by the SkillsFuture Credit scheme and the Pioneer Gen- eration Package.
+Two things I suggested in Parliament have become a reality: I wanted an educational (Edusave) account set up for every adult Singaporean, and a medical savings account set up  for every elderly Singaporean. So 20 years down the line, both my dreams have been fulfilled by the SkillsFuture Credit scheme and the Pioneer Generation Package.
 
-When you look at society in gen- eral, business, government and civil society are the three legs of the stool, but it’s only recently that policymak- ers in Singapore have realised that  it’s prudent to include civil society in decision-making. If the stakeholders are just business and government,  they sometimes don’t see the point of view of the rest of society, especially the disadvantaged.
+When you look at society in general, business, government and civil society are the three legs of the stool, but it’s only recently that policymakers in Singapore have realised that  it’s prudent to include civil society in decision-making. If the stakeholders are just business and government,  they sometimes don’t see the point of view of the rest of society, especially the disadvantaged.
 
 There are a lot of Singaporeans who haven’t done as well as the  country’s indicators seem to suggest. They still need people to advocate for them, highlight their difficulties, and try to make it such that more people get a share of the pie.
 
-I feel in particular for the elderly. They are poorer in general, and things like the Silver Support Scheme and the Pioneer Generation Package are just the beginning. We can still do better – we need to give them some autonomy and dignity. We retire way too early in Singapore. Even when I was in Parlia- ment, we were talking about moving it up to 67. Why hasn’t it changed yet? Why is there even a retirement age at all? Older people have institutional  memory, they have built networks and they are loyal to organisations.
+I feel in particular for the elderly. They are poorer in general, and things like the Silver Support Scheme and the Pioneer Generation Package are just the beginning. We can still do better – we need to give them some autonomy and dignity. We retire way too early in Singapore. Even when I was in Parliament, we were talking about moving it up to 67. Why hasn’t it changed yet? Why is there even a retirement age at all? Older people have institutional  memory, they have built networks and they are loyal to organisations.
 
 People should be allowed to work for as long as they think they can, and as long as their employer finds them producing good work.
 
@@ -171,22 +171,22 @@ People should be allowed to work for as long as they think they can, and as long
 
 <b>Ngalirdjo Mungin, 94, started hawking satay on the streets. He moved to a stall in a food centre in the early 1970s, which is now operated by one of his sons.</b>
 
-The first food I started selling in 1945 was Indonesian kuih. That was all I knew how to make. But I wanted to sell satay – the problem was, I didn’t know how to make it. I was young and too scared to ask anyone, but I stayed in the Sultan Gate area with many other Javanese who sold satay so I would just stand near these other satay-sellers and memorise the ingredients. At first, I copied them, but after a while, I made changes. Many would use hammers to beat the meat to tenderise it, but I learnt to do everything by hand. It took hours to rub the marinade in, but I felt it was better.
+The first food I started selling in 1945 was Indonesian <i>kuih</i>. That was all I knew how to make. But I wanted to sell satay – the problem was, I didn’t know how to make it. I was young and too scared to ask anyone, but I stayed in the Sultan Gate area with many other Javanese who sold satay so I would just stand near these other satay-sellers and memorise the ingredients. At first, I copied them, but after a while, I made changes. Many would use hammers to beat the meat to tenderise it, but I learnt to do everything by hand. It took hours to rub the marinade in, but I felt it was better.
 
 Almost every evening, I would walk to Jalan Besar, where there was a football stadium. There were already four or five people selling satay there, and we all had our unofficial locations. I would go to the back entrance – everyone knew that belonged to me. Eventually, I also started selling satay near the Padang.
 
-At one point, I tried to set up a stall under the Merdeka Bridge, but the Ministry of Health stopped me. I moved into this stall in Sims Place Food Centre in 1973, when the gov- ernment started asking hawkers to move off the streets. I knew the man in charge of the Sims Place market, and he asked me to set up shop there. By then, everyone in the area knew me, so he convinced me to move there, to make it easier for people to come to one location. It was actually a bless- ing, because after I moved, I made a lot more. My earnings doubled, then tripled. I could afford to perform the Haj pilgrimage the first year. 
+At one point, I tried to set up a stall under the Merdeka Bridge, but the Ministry of Health stopped me. I moved into this stall in Sims Place Food Centre in 1973, when the government started asking hawkers to move off the streets. I knew the man in charge of the Sims Place market, and he asked me to set up shop there. By then, everyone in the area knew me, so he convinced me to move there, to make it easier for people to come to one location. It was actually a blessing, because after I moved, I made a lot more. My earnings doubled, then tripled. I could afford to perform the Haj pilgrimage the first year. 
 
 I started selling less satay and more of other Malay food. My stall is named after my wife, Kamisah Dadi, who died in 2010. About 10 years ago, I passed the stall on to one of my sons. I’m willing to hand down my stall only to my own blood. This place is not about profit. I could easily have sold my dishes for a lot more, but I just looked at the price of meat and vegetables and priced my dishes according to that. 
 
-I still come in every day to my stall and eat a bowl of mee rebus or mee soto. This way I can ensure my son is doing a decent job, that the quality is still good.
+I still come in every day to my stall and eat a bowl of <i>mee rebus</i> or <i>mee soto</i>. This way I can ensure my son is doing a decent job, that the quality is still good.
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/NgalirdjoMungin.jpg)
-<div style="background-color: white;">At age 94, Ngalirdjo Mungin still goes to his stall, which his son runs now, to check if the quality of the mee rebus and mee soto is good.</div> 
+<div style="background-color: white;">At age 94, Ngalirdjo Mungin still goes to his stall, which his son runs now, to check if the quality of the <i>mee rebus</i> and <i>mee soto</i> is good.</div> 
 
 #### **Sometimes You Need More than Prayers**
 
-<b>After two heart attacks and more than 60 years as a nurse and mid- wife, Sister Thomasina Sewell, 81, still keeps patients company every day at the Assisi Hospital and Mount Alvernia Hospital.</b>
+<b>After two heart attacks and more than 60 years as a nurse and mid-wife, Sister Thomasina Sewell, 81, still keeps patients company every day at the Assisi Hospital and Mount Alvernia Hospital.</b>
 
 The Assisi Hospice used to be a con- vent housing nuns, but we vacated it and refurbished it as a hospice for the terminally ill in 1992. The idea of nursing terminally ill patients is to give them quality of life. The way we care for them changes from how we do so in an acute hospital. We try to make the hospice home for such patients and their families, to help them come to terms with one another.
 
