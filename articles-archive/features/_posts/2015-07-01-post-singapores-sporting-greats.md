@@ -31,3 +31,5 @@ High-jumper Lloyd Valberg was the first athlete to represent Singapore at the Ol
 Singapore’s “Flying Fish” Neo Chwee Kok won four gold medals at the 1951 Asian Games held in New Delhi.<i>Image courtesy of Sport Singapore.</i>
 
 Weightlifter Tan Howe Liang won Singapore’s first Olympic medal, a silver, at the 1960 Rome Olympics.<i>Image courtesy of Sport Singapore.</i>
+
+<p style="font-size:15px;">A former journalist with <i>The Straits Times</i>, <b>Chua Chong Jin</b> teaches communications at Nanyang Business School. Educated at the National University of Singapore and Cambridge University, he has written and edited various books, including <i>50est: Stirring Stories For The Singapore Soul</i> for the Singapore National Olympic Council.</p>
