@@ -154,7 +154,7 @@ Before long, Mr Choong was retailing jersey-knit men’s shirts from the Parisia
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
-|*Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades* is published by Straits Times Press. The 160-page illustrated book retails for $35 (excluding GST) and is available at major bookshops and online bookshops such as [www.stpressbooks.com.sg](https://www.stpressbooks.com.sg) and Amazon. The book is also available for reference and loan at Lee Kong Chian Reference Library and branches of all public libraries (Call no.: RSING 746.92095957 DES and 746.92095957 DES).|
+|*Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades* is published by Straits Times Press. The 160-page illustrated book retails for $35 (excluding GST) and is available at major bookshops and online bookshops such as www.stpressbooks.com.sg  and Amazon. The book is also available for reference and loan at Lee Kong Chian Reference Library and branches of all public libraries [(Call no.: RSING 746.92095957 DES and 746.92095957 DES)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202544912).|
 
 
 <div style="background-color: white;">
