@@ -200,7 +200,7 @@ The Dobbelaere cartoon fits the form and thematic outline with what we can see i
 
 The discovery of the Dobbelaere cartoons in Leuven has provided valuable insights into the lineage of Singapore’s historic stained glass windows and sheds new light on their provenance.
 
-|**Understanding Church Architecture**|
+|**UNDERSTANDING CHURCH ARCHITECTURE**|
 
 |The footprint of a church is typically laid out in a rectangle, Greek-cross – a square central mass with four projecting arms of equal length – or Latin-cross cruciform plan. From these basic forms, an apse, which is a semicircular recess, may be attached behind the altar to provide a visual focus.|
 
