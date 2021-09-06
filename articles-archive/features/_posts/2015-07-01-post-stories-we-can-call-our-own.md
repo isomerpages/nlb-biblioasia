@@ -208,10 +208,10 @@ When Glenn was younger, we would worry about his future. Now, we’re definitely
 
 Glenn Phua, see here with his father Kelvin, was found to be autistic when he was four. His artistic talent was discovered when he won an art competition.
 
-<i>Living The Singapore Story: Celebrating Our 50 Years 1965–2015</i> is on sale in bookshops at $19.65 (GST included). Commissioned by the National Library Board in celebration of Singapore’s Jubilee year, it features 58 Singaporeans describing how their lives evolved as Singapore changed over the past half-century. The stories featured on these pages are excerpts from the book.
+|<i>Living The Singapore Story: Celebrating Our 50 Years 1965–2015</i> is on sale in bookshops at $19.65 (GST included). Commissioned by the National Library Board in celebration of Singapore’s Jubilee year, it features 58 Singaporeans describing how their lives evolved as Singapore changed over the past half-century. The stories featured on these pages are excerpts from the book.|
 
-The team members behind the book, led by <i>The Straits Times</i> Editor-at-large Han Fook Kwang, are journalists Angelina Choy, Cheong Suk-Wai and Jennani Durai, former journalist Cassandra Chew and photographer Bryan van der Beek. A 15-member editorial advisory committee was chaired by Ambassador-at-large Tommy Koh and the NLB team was led by Francis Dorai, Assistant Director (Publishing).
+|The team members behind the book, led by <i>The Straits Times</i> Editor-at-large Han Fook Kwang, are journalists Angelina Choy, Cheong Suk-Wai and Jennani Durai, former journalist Cassandra Chew and photographer Bryan van der Beek. A 15-member editorial advisory committee was chaired by Ambassador-at-large Tommy Koh and the NLB team was led by Francis Dorai, Assistant Director (Publishing).|
 
-This article and selected excerpts were first published in <i>The Sunday Times</i> on 17 May 2015. © Singapore Press Holdings Limited. Reprinted with permission.
+|This article and selected excerpts were first published in <i>The Sunday Times</i> on 17 May 2015. © Singapore Press Holdings Limited. Reprinted with permission.|
 
 <p style="font-size:15px;"><b>Han Fook Kwang</b> joined The Straits Times in 1989 and became its political editor in 1995. He served as editor of the paper from 2002 to 2012. He is currently Editor-at-large at the newspaper.</p>
