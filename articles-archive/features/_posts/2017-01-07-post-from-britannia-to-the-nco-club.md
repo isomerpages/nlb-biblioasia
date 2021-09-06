@@ -141,7 +141,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
-|This is an abridged version of the chapter “1854–2001: History of Beach Road Camp and NCO Club” from the book South Beach: From Sea to Sky: The Evolution of Beach Road – by Francis Dorai and published by Editions Didier Millet for South Beach Consortium in 2012. The South Beach development, designed by the British architecture firm Foster + Partners, was launched in December 2015 and comprises a luxury hotel, offices, apartments and retail space.|
+|This is an abridged version of the chapter “1854–2001: History of Beach Road Camp and NCO Club” from the book *South Beach: From Sea to Sky: The Evolution of Beach Road* by Francis Dorai and published by Editions Didier Millet for South Beach Consortium in 2012. The South Beach development, designed by the British architecture firm Foster + Partners, was launched in December 2015 and comprises a luxury hotel, offices, apartments and retail space.|
 
 <div style="background-color: white;">
 <br>
