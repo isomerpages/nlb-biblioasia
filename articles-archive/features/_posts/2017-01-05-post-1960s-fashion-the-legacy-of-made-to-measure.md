@@ -64,7 +64,7 @@ Freelance hairstylist Francis Raquiza who had trained under Roland Chow, Singapo
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/1960s-fashion/2-1960s%20fashion.jpg)
 <div style="background-color: white;">(Left) Roland Chow demonstrating his hair creation “Incroyable”, a new short hair-do to go with shorter hemlines, October 1958. <i>Courtesy of Singapore Press Holdings.</i></div>
-<div style="background-color: white;">(Right) Two outfits from Roland Chow’s summer collection, May 1966.1962. <i>Courtesy of Singapore Press Holdings.</i></div>
+<div style="background-color: white;">(Right) Two outfits from Roland Chow’s summer collection, May 1966. 1962. <i>Courtesy of Singapore Press Holdings.</i></div>
 
 In 1967, it was reported that 50 percent of British women’s fashion sold was to the 15 to 19 age group. Carnaby Street, in London’s Soho district, was identified as the epicentre of the global youth-quake. So it was no wonder that the grooviest of 1960s fashion boutiques – including the “mini skirt” creator, Mary Quant’s flagship shop – were congregated there.
 
@@ -81,7 +81,7 @@ If Ah Geok made “magic” creating Singapore’s earliest off-the-peg kaleidos
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/1960s-fashion/3-1960s%20Fashion.png)
 <div style="background-color: white;">The Ibrahim sisters (from left) Fatimah, Rabiah, Carol and Faith preparing for a lunchtime fashion show at the Island Ballroom of Hyatt Hotel in the late 1960s. <i>Courtesy of Singapore Press Holdings.</i></div>
 
-Faith Ibrahim put Singapore’s name on the international modelling scene when she became Pierre Cardin’s house model and was known as Anak in the late 1960s. After marrying the 13th Duke of Bedford, she became the respectable London- based Lady Russell.
+Faith Ibrahim put Singapore’s name on the international modelling scene when she became Pierre Cardin’s house model and was known as Anak in the late 1960s. After marrying the 13th Duke of Bedford, she became the respectable London-based Lady Russell.
 
 According to Rabiah Ibrahim, whose father was a doctor, her siblings and herself “had travelled more than most of her peers, and never wanted to follow the crowd”. This was not confined to only their dress sense. After becoming a mother of three sons, she still found the time and energy to run her flourishing fashion empire of Trend boutiques for more than 20 years, guided by her sense of “adventure, creativity, glamour and fun”, as she put it, in the 1991 annual edition of *Her World* magazine.
 
