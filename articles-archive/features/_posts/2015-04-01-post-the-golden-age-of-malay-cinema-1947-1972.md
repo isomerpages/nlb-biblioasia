@@ -4,7 +4,6 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/ga-malay-cinema
 layout: post
 ---
-
 #### Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. **Nor Afidah Bte Abd Rahman** and **Michelle Heng** recount its fabled history.
 
 
@@ -179,7 +178,7 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^17]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 119
 
-[^18]: [Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181), 2008, p. 163; Actors on strike today. (1957, March 16). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+[^18]: [Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181), 2008, p. 163; [Actors on strike today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570316-1.2.18). (1957, March 16). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
 [^19]: [Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181), 2008, p. 163.
 
