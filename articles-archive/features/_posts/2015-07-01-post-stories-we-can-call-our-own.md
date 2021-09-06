@@ -156,7 +156,7 @@ Singapore’s first woman Nominated MP Kanwaljit Soin says moving the Family Vio
 
 #### **Do You Know the Satay Man? He’s Moved**
 
-<b>Ngalirdjo Mungin, 94, started  hawking satay on the streets. He  moved to a stall in a food centre  in the early 1970s, which is now  operated by one of his sons.</b>
+<b>Ngalirdjo Mungin, 94, started hawking satay on the streets. He moved to a stall in a food centre in the early 1970s, which is now operated by one of his sons.</b>
 
 
 <p style="font-size:15px;"><b>Han Fook Kwang</b> joined The Straits Times in 1989 and became its political editor in 1995. He served as editor of the paper from 2002 to 2012. He is currently Editor-at-large at the newspaper.</p>
