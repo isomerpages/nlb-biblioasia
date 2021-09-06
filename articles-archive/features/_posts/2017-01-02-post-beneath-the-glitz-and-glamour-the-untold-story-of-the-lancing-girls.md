@@ -137,12 +137,12 @@ When asked if there was anything in their past they wished they had done differe
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/glitz-and-glamour/blank-author.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/glitz-and-glamour/adeline.png">
 	<b>Adeline Foo</b> was awarded the National Library’s Lee Kong Chian Research Fellowship in February 2016. This article is the condensed version of her research paper submitted as part of the fellowship.</div>
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/glitz-and-glamour/blank-author.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/glitz-and-glamour/michelle01.png">
 	<b>Michelle Heng </b> is a Literary Arts Librarian at the National Library, Singapore. She is a regular contributor to BiblioAsia and has edited publications including Edwin Thumboo – Time-travelling: A Selected Annotated Bibliography (2012) and Selected Poems of Goh Poh Seng (2013).</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
