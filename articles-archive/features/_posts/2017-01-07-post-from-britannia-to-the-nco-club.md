@@ -63,8 +63,7 @@ Singapore’s first batch of national servicemen was still in training in 1967, 
 
 But the process had started and there was no turning back. As a compromise, the British agreed to extend the deadline for withdrawal from March to December 1971. Singapore had inherited Britain’s rule of law and the infrastructure it set up, but it was the sudden British withdrawal of support that forced the newly independent country to come into its own. Without Britain to fall back on, the Singapore government had to adopt a series of tough economic measures to put the country on track.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/4-britannia-nco.jpg)
-<div style="background-color: white;">The NCOs were a sporty bunch, representing the club in water polo matches, swimming competitions, soccer, badminton and hockey tournaments, and marathons. <i>Courtesy of MINDEF.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/4-britannia-nco.jpg">The NCOs were a sporty bunch, representing the club in water polo matches, swimming competitions, soccer, badminton and hockey tournaments, and marathons. <i>Courtesy of MINDEF.</i></div>
 
 #### **Enter the NCO Club**
 
