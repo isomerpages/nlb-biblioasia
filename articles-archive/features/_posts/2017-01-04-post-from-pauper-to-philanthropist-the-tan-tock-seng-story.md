@@ -20,7 +20,7 @@ The pioneer’s great-great-grandson Roney Tan dismissed claims that his forefat
 
 Tan Tock Seng, who had six children – three sons and three daughters – with wife Lee Seo Neo, has a remarkable genealogy that spans over eight generations with more than 2,500 descendents scattered across the globe.[^4]
 
-#### **From Vegetable Seller to Philanthropist**
+#### **FROM VEGETABLE SELLER TO PHILANTHROPIST**
 
 Tan Tock Seng was born in Malacca in 1798, the third son of an immigrant father from Fujian province in China and a local Peranakan (Straits-born Chinese) mother. When he was 21, Tan boarded a ship that sailed south to Singapore in search of the proverbial fame and fortune. He arrived in 1819, shortly after Stamford Raffles had established a British trading outpost on the swamp-filled island.[^5]
 
@@ -42,9 +42,6 @@ As Tan grew in stature and influence, he was asked to help settle disputes betwe
 
 According to *The Singapore Free Press and Mercantile Advertiser* in March 1850: “Much of his time was engrossed in acting as arbitrator in disputes between his countrymen, and many a case which would otherwise have afforded a rich harvest to the lawyers, was through his intervention and mediation nipped in the bud.”[^13]
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-pauper-to-philanthropist/2-from_pauper_to_philanthropist.jpg)
-<div style="background-color: white;">(Above) The first Tan Tock Seng Hospital, then called “The Chinese Pauper Hospital”, was built on Pearl’s Hill in 1846. This 1848 watercolour painting by John Turnbull Thomson shows its location between the Surgery and the Seamen’s Hospital on Pearl’s Hill. <i>All rights reserved. Liu, G. (1999). Singapore:A Pictorial History, 1819-2000. Singapore: Archipelago Press and National Heritage Board.</i></div>
-<div style="background-color: white;">(Above right) This tablet was erected by the Committee of Management in 1854 to acknowledge the donations by Tan Tock Seng and his son, Tan Kim Ching,towards the building of the Tan Tock Seng Hospital. The tablet was installed on the hospital gate at Pearl’s Hill. <i>All rights reserved, Lee, S.H. (1994). 150 Years of Caring: The Legacy of Tan Tock Seng Hospital. Singapore: Tan Tock Seng Hospital.</i></div>
 
 #### **Locking Horns with the British**
 
@@ -71,6 +68,10 @@ In his book, *An Anecdotal History of Old Times in Singapore* (1902), Charles Bu
 Tan’s tenacity in building this hospital not just for the Chinese, but for all races, was clear. Nothing was going to stop him, not even the government.
 
 On 25 May 1844, the foundation stone for the hospital, then called “The Chinese Pauper Hospital”, was laid at its original location at Pearl’s Hill. Tan was the founder and financier of the hospital, affectionately nicknamed “Tocksing’s Hospital”. Although the building was completed in 1846, it only operated as a hospital from 1849 onwards as the government used it as a temporary convict jail in the intervening years.[^23]
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-pauper-to-philanthropist/2-from_pauper_to_philanthropist.jpg)
+<div style="background-color: white;">(Left) The first Tan Tock Seng Hospital, then called “The Chinese Pauper Hospital”, was built on Pearl’s Hill in 1846. This 1848 watercolour painting by John Turnbull Thomson shows its location between the Surgery and the Seamen’s Hospital on Pearl’s Hill. <i>All rights reserved. Liu, G. (1999). Singapore:A Pictorial History, 1819-2000. Singapore: Archipelago Press and National Heritage Board.</i></div>
+<div style="background-color: white;">(Right) This tablet was erected by the Committee of Management in 1854 to acknowledge the donations by Tan Tock Seng and his son, Tan Kim Ching,towards the building of the Tan Tock Seng Hospital. The tablet was installed on the hospital gate at Pearl’s Hill. <i>All rights reserved, Lee, S.H. (1994). 150 Years of Caring: The Legacy of Tan Tock Seng Hospital. Singapore: Tan Tock Seng Hospital.</i></div>
 
 #### **Lineage and Legacy**
 
