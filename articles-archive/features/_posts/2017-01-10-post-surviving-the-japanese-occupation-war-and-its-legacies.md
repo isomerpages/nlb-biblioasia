@@ -128,7 +128,7 @@ After the war, Haxworth rejoined the police force and stayed there until his ret
 <div style="background-color: white;">(Left) Records from the British Military Administration files pertaining to the case of Joseph Francis. British Military Administration files, File reference 28/45. Courtesy of National Archives of Singapore. </div>
 <div style="background-color: white;">(Right) William R.M. Haxworth’s sketches depict the harsh and cramped conditions at the POW camps. W R M Haxworth Collection, courtesy of National Archives of Singapore.</div>
 
-**Legacies of War and Occupation**
+#### **Legacies of War and Occupation**
 
 On 5 September 1945, the British returned to Singapore to great relief and rejoicing among the people. However, the initial euphoria soon waned: the wartime experience and the subsequent problems the local population faced, coupled with the inability of the British Military Administration (BMA) to deal with the issues competently, left the people with a less rosy view of the British.
 
@@ -138,7 +138,7 @@ The legacies of war were manifested at various levels − from grand British pla
 
 Rounding off the final section of the exhibition is a reflective space where visitors are encouraged to consider how they remember the war and its legacies.
 
-##### **Post-war policies**
+###### **Post-war policies**
 
 There were significant shifts in terms of social policy in the immediate post-war years. The colonial government adopted a more involved approach to education, housing, health care and social welfare in Singapore, in line with the moderate socialist approach of post-war Britain. These moves were also part of the plan to unite Singapore’s plural society in preparation for decolonisation.
 
@@ -148,7 +148,7 @@ A Department of Social Welfare, for instance, was set up in in June 1946 to cont
 <div style="background-color: white;">(Left) Children’s feeding centre in the post-war period. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
 <div style="background-color: white;">(Right) A poster written with blood and Chinese brush ink protesting the arrest of members of the Malayan Communist Party in 1946. Courtesy of the Ministry of Home Affairs, Internal Security Department Heritage Centre.</div>
 
-##### **Poster to protest arrests of communists**
+###### **Poster to protest arrests of communists**
 
 One of the most profound changes of the war and Occupation was the realisation that the British did not have an inalienable right to rule Singapore. This political awakening coupled with the success of the Malayan People’s Anti-Japanese Army during the Occupation resulted in communism gaining traction as a political ideology in the post-war years.
 
