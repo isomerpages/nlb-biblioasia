@@ -184,7 +184,7 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^20]: Hassan Abd. Muthalib. (2013). Cathay-Keris – A different kind of Malay films (pp. 72–73). In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*. Petaling Jaya: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS) 
 
-[^21]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 120; Ramani, V. (2005, August 24). *[Scream queen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050824-1.2.44.1)*. <i>Today</i>, p. 32. Retrieved from NewspaperSG.
+[^21]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 120; Ramani, V. (2005, August 24). [Scream queen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050824-1.2.44.1). <i>Today</i>, p. 32. Retrieved from NewspaperSG.
 
 [^22]: [Barnard](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181), 2008, p. 167.
 
