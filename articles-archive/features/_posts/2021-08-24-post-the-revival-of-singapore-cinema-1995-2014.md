@@ -124,7 +124,7 @@ Finally, in late 2014, a new film director emerged in the person of Ken Kwek, wi
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/Sandcastle.jpg)
 <div style="background-color: white;">Bobbi Chen and Joshua Tan in Boo Junfeng's 2010 Sandcastle. © Sandcastle. <i>Directed by Boo Junfeng, produced by Fran Borgia &amp; Gary Goh, distributed by Golden Village Pictures. Singapore, 2010. Courtesy of Zhao Wei Films.</i></div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/llo_llo.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/llo_llo_re.jpg)
 <div style="background-color: white;">Angeli Bayani and Jieler Koh in Ilo Ilo. © Ilo Ilo. <i>Directed by Anthony Chen, produced by Ang Hwee Sim, Anthony Chen, Wahyuni A Hadi, distributed by Golden Village Pictures. Singapore,2013.</i></div>
 
 #### **What the Future Holds** 
