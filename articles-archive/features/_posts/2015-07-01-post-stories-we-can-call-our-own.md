@@ -158,5 +158,60 @@ Singapore’s first woman Nominated MP Kanwaljit Soin says moving the Family Vio
 
 <b>Ngalirdjo Mungin, 94, started hawking satay on the streets. He moved to a stall in a food centre in the early 1970s, which is now operated by one of his sons.</b>
 
+The first food I started selling in 1945 was Indonesian kuih. That was all I knew how to make. But I wanted to sell satay – the problem was, I didn’t know how to make it. I was young and too scared to ask anyone, but I stayed in the Sultan Gate area with many other Javanese who sold satay so I would just stand near these other satay-sellers and memorise the ingredients. At first, I copied them, but after a while, I made changes. Many would use hammers to beat the meat to tenderise it, but I learnt to do everything by hand. It took hours to rub the marinade in, but I felt it was better.
+
+Almost every evening, I would walk to Jalan Besar, where there was a football stadium. There were already four or five people selling satay there, and we all had our unofficial locations. I would go to the back entrance – everyone knew that belonged to me. Eventually, I also started selling satay near the Padang.
+
+At one point, I tried to set up a stall under the Merdeka Bridge, but the Ministry of Health stopped me. I moved into this stall in Sims Place Food Centre in 1973, when the gov- ernment started asking hawkers to move off the streets. I knew the man in charge of the Sims Place market, and he asked me to set up shop there. By then, everyone in the area knew me, so he convinced me to move there, to make it easier for people to come to one location. It was actually a bless- ing, because after I moved, I made a lot more. My earnings doubled, then tripled. I could afford to perform the Haj pilgrimage the first year. 
+
+I started selling less satay and more of other Malay food. My stall is named after my wife, Kamisah Dadi, who died in 2010. About 10 years ago, I passed the stall on to one of my sons. I’m willing to hand down my stall only to my own blood. This place is not about profit. I could easily have sold my dishes for a lot more, but I just looked at the price of meat and vegetables and priced my dishes according to that. 
+
+I still come in every day to my stall and eat a bowl of mee rebus or mee soto. This way I can ensure my son is doing a decent job, that the quality is still good.
+
+At age 94, Ngalirdjo Mungin still goes to his stall, which his son runs now, to check if the quality of the mee rebus and mee soto is good. 
+
+#### **Sometimes You Need More than Prayers**
+
+<b>After two heart attacks and more than 60 years as a nurse and mid- wife, Sister Thomasina Sewell, 81, still keeps patients company every day at the Assisi Hospital and Mount Alvernia Hospital.</b>
+
+The Assisi Hospice used to be a con- vent housing nuns, but we vacated it and refurbished it as a hospice for the terminally ill in 1992. The idea of nursing terminally ill patients is to give them quality of life. The way we care for them changes from how we do so in an acute hospital. We try to make the hospice home for such patients and their families, to help them come to terms with one another.
+
+You cannot allow the sadness to get to you, otherwise you are of no help to patients. But people shouldn’t think they have to be trained before they can be with them. Your presence is important because often, their fear is loneliness and that nobody understands what they are going through. That’s why every room in the hospice has a sofa, to encourage family members of patients to stay overnight.
+
+Once, while praying in the Mount Alvernia Hospital chapel, I saw this strapping man in a wheelchair who sobbed and sobbed. I put my hand on his, to let him know I felt for him. Later, I started talking to him in the hospice. He told me he was 40 years old, cycled to work daily and had never smoked or drunk alcohol. Now he had pancreatic cancer and was given three months to live. You can’t rely solely on prayer for patients like him. Life is more than prayer for them; it’s about helping them deal with the here and now. He and his wife were estranged, and they had a son and daughter aged 12 and 13. 
+
+Once, while I was talking to him, a friend of his came by and told him: “Oh, you’re going to get better and we’ll go cycling again.” I was so angry because that was not reality. But I didn’t say anything because it’s not for me to say anyone is right or wrong. After his friend left, we talked about reality. He was not bitter at all, but worried about his children as he and his wife weren’t close. I told him: “She’s still a good mother.” His wife turned up eventually and didn’t desert him. I put my arms around her to comfort her as she was very upset. I have not got used to losing a patient; how can you? Sometimes I’ll be choking back tears at the service but I try to calm myself so I’ll be helpful to the families.
+
+Sister Thomasina Sewell is a nun in the Catholic order known as the Franciscan Missionaries of the Divine Motherhood. In 1961, she and 36 other nuns set up Mount Alvernia Hospital.
+
+#### **My Son, the Award-winning Pathlight Artist**
+
+<b>Sales engineer Kelvin Phua, 55, talks about his son Glenn, 19, who has autism and has been dubbed Singapore’s Stephen Wiltshire.</b>
+
+During Glenn’s school holidays in 2010, we found a note in his schoolbag about some art homework he had to submit. It had to be related to F1, and he drew eight cars coming around a race track. We didn’t pay much attention to it, except to say “good job”. We were just happy he had finished his homework.
+
+A few months later, his school, Pathlight School, called and said: “Your son has won a big prize.” We had no idea what this was about, but took leave to attend the ceremony in Raffles Place. Only when we were there did we realise he had won first prize – a set of four F1 grandstand tickets and an opportunity for Glenn to sit in a real F1 car. 
+
+We discovered Glenn was autistic when he was four, when he had trou- ble making eye contact. He attended a mainstream primary school until halfway through Primary 2. We trans- ferred him to Pathlight, which teaches a mainstream curriculum and life skills to children with autism.
+
+After Glenn started attending Pathlight, I attended an anger manage- ment class that the school organised. I started trying some of the strategies, and also swapped notes with his teach- ers about what works for Glenn. We had a hard time with him, but children with autism are also the most loving.
+
+We didn’t actually realise Glenn had this talent. When he was about eight or nine, he drew a lot of cartoons, copying characters from Peanuts or The Simpsons, and they were very good, but we didn’t think much of this, because all children doodle. But since Glenn won the F1 competition, he has drawn more than 150 pictures. He never sketches – he just puts pen to paper and draws. 
+
+We didn’t actually realise Glenn had this talent. When he was about eight or nine, he drew a lot of cartoons, copying characters from Peanuts or The Simpsons, and they were very good, but we didn’t think much of this, because all children doodle. But since Glenn won the F1 competition, he has drawn more than 150 pictures. He never sketches – he just puts pen to paper and draws. 
+
+Glenn’s drawings are extremely detailed. He takes about 20 to 25 hours on average with each one. He doesn’t draw from memory or on the spot, but always works from a photograph. Glenn doesn’t draw from left to right, but he’ll jump around the picture. Sometimes I’ll watch him working, and I’ll see something random, and I’ll ask him – is that a mistake? But he’ll say: “Daddy, that’s my starting point.” When he’s done with the picture, you’ll have no idea where he started. 
+
+Member of Parliament Denise Phua, who helped set up Pathlight, called Glenn “the Stephen Wiltshire of Singapore”, referring to the famous British artist who has autism. 
+
+When Glenn was younger, we would worry about his future. Now, we’re definitely more confident. Path- light recently set up an art gallery for its artists, which also sells works by students who have graduated. It feels like there’s a direction for Glenn now, and he can earn a living. 
+
+Glenn Phua, see here with his father Kelvin, was found to be autistic when he was four. His artistic talent was discovered when he won an art competition.
+
+<i>Living The Singapore Story: Celebrating Our 50 Years 1965–2015</i> is on sale in bookshops at $19.65 (GST included). Commissioned by the National Library Board in celebration of Singapore’s Jubilee year, it features 58 Singaporeans describing how their lives evolved as Singapore changed over the past half-century. The stories featured on these pages are excerpts from the book.
+
+The team members behind the book, led by <i>The Straits Times</i> Editor-at-large Han Fook Kwang, are journalists Angelina Choy, Cheong Suk-Wai and Jennani Durai, former journalist Cassandra Chew and photographer Bryan van der Beek. A 15-member editorial advisory committee was chaired by Ambassador-at-large Tommy Koh and the NLB team was led by Francis Dorai, Assistant Director (Publishing).
+
+This article and selected excerpts were first published in <i>The Sunday Times</i> on 17 May 2015. © Singapore Press Holdings Limited. Reprinted with permission.
 
 <p style="font-size:15px;"><b>Han Fook Kwang</b> joined The Straits Times in 1989 and became its political editor in 1995. He served as editor of the paper from 2002 to 2012. He is currently Editor-at-large at the newspaper.</p>
