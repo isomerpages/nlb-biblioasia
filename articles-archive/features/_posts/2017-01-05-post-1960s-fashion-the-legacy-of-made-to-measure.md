@@ -158,13 +158,7 @@ Before long, Mr Choong was retailing jersey-knit men’s shirts from the Parisia
 
 
 <div style="background-color: white;">
-<br>
-<img src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png" style="width: 100px; height: 100px;">
-
-<img src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png" style="width: 100px; height: 100px;">
-
-<img src="/images/Vol-12-issue-4/1960s-fashion/blank-author.png" style="width: 100px; height: 100px;">
-“Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades” was written by <b>John de Souza, Cat Ong and Tom Rao</b>. All three authors cut their teeth on Singapore’s fashion scene in the 1980s as writers and editors for “The Strait Times” as well as leading fashion and beauty magazines such as “Her World”, “Elle” and “Marie Claire”. They continue to keep a pulse on the ever evolving fashion scene today.</div>
+	<i>Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades</i> was written by <b>John de Souza, Cat Ong and Tom Rao</b>. All three authors cut their teeth on Singapore’s fashion scene in the 1980s as writers and editors for <i>The Strait Times</i> as well as leading fashion and beauty magazines such as <i>Her World</i>, <i>Elle</i> and <i>Marie Claire</i>. They continue to keep a pulse on the ever evolving fashion scene today.</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
