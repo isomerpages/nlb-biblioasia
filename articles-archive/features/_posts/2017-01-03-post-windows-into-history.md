@@ -142,7 +142,7 @@ In the private chapel to the right of the apse, the triptych window is a faithfu
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png)
 <div style="background-color: white;">Triptych windows found in the side chapels at the Convent of the Holy Infant Jesus. From left to right: St Cecilia, St Mary and St Clothilde (left chapel); and St Louis, The Death of Saint Joseph, and St Charles Borromeo (right chapel). <i>Courtesy of Swati Chandgadkar.</i></div>
 
-#### **GLASS IN THE CLERESTORIES**
+#### **Glass in the Clerestories**
 The cartoons for the two stained glass windows situated above the chancel at clerestory level shows two lancets: one depicting *The Flight into Egypt*, and the other *The Visit of the Magi*.
 
 Each window, however, comprises a pair of lancet panels crowned by a roundel and three small insets to form a tracery. The cartoon’s themes remain, but the theme of each window is now spread over two lancet panels. *The Visit of the Magi*  (4A) is on the left of the apse, and *The Flight into Egypt* (4B) on the right. This change may have been the result of revisions to the architectural design of the chapel, with the windows redesigned to adapt to the modified openings.
@@ -153,7 +153,7 @@ While neither cartoon indicates a donor’s name, *The Visit of the Magi window*
 <div style="background-color: white;">The clerestory at the chapel of the Convent of the Holy Infant Jesus: The Flight into Egypt (left) and The Visit of the Magi (right). The original cartoons by Dobbelaere depict each of these scenes in a single lancet composition. The windows on site, however, are executed as a pair of lancets, with a
 small roundel and three small glass insets forming a tracery. <i>Photograph courtesy of Carolyn Lim; cartoon courtesy of KADOC – KU Leuven.</i></div>
 
-#### **GLASS IN THE GALLERY**
+#### **Glass in the Gallery**
 
 Two sets of stained glass windows, each composed of a pair of lancet panels crowned by a roundel and three small insets to form a tracery, flank the circular window in the gallery. They are based on Dobbelaere’s cartoons, and have been reproduced faithfully without revisions. The window on the left is *The Ascension* (5B), with The Dove as Holy Spirit represented in the roundel. The lancets are inscribed “Presented by a Benefactor”. The window on the right is The Holy Family (5A), with Our Lord in Glory represented in the roundel. These lancets read “Presented by L. Scheerder”. The *Ascension* window is one of just two windows in the chapel that bears the signature “J. Dobbelaere, Bruges, Belgium”.
 
@@ -171,7 +171,7 @@ CHIJ’s stained glass windows were eventually restored in the early 1990s when 
 
 As noted earlier, there are a number of discrepancies between the cartoons and the extant windows, particularly in the side chapel to the left. Some of these windows now bear the signature of Vitrail St Georges. It is possible that these windows were badly damaged by the 1990s and required extensive reconstruction. It is unknown at this point if Vitrail St Georges had access to the Dobbelaere cartoons while undertaking the restoration, or whether its work was based on what remained of these windows.
 
-#### **CATHEDRAL OF THE GOOD SHEPHERD**
+#### **Cathedral of the Good Shepherd**
 
 The Cathedral of the Good Shepherd has 14 stained glass fanlight windows or “lunettes” along the aisles and two figurative windows at the transepts. The fanlights are of two design typologies, while the figurative windows depict the *Madonna and Child and St Joseph*. All 16 windows are unsigned, with neither studio signature, date nor donor names inscribed on the panels.
 
@@ -180,8 +180,7 @@ There are few written references to the cathedral’s stained glass windows. One
 In the Leuven archives, we found Dobbelaere cartoons for the two different fanlight designs. One of the cartoons is a colour reference for the two designs. Comparing these cartoons with the fanlights in place today, there is little doubt that these windows were made by the Dobbelaere studio. The foliated design, composition, colour scheme and other painting elements seen in the stained glass windows are an exact reproduction of the cartoons.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/7-windows_into_history.jpg)
-<div style="background-color: white;">Madonna and Child depicted on a glass window of the Cathedral of the Good Shepherd. The authorship of this window cannot yet be ascertained.
-This photo was taken in December 2010, when the indow was taken down for safekeeping by the authors with the assistance of Lawrence Chin and
+<div style="background-color: white;">Madonna and Child depicted on a glass window of the Cathedral of the Good Shepherd. The authorship of this window cannot yet be ascertained. This photo was taken in December 2010, when the indow was taken down for safekeeping by the authors with the assistance of Lawrence Chin and
 Wee Sheau Theng. It has since been restored by Swati Chandgadkar and was reinstated in late 2016.
 <i>Courtesy of Yeo Kang Shua.</i></div>
 
@@ -191,7 +190,7 @@ More importantly, one of the cartoons is dated 1904, thereby confirming that the
 <div style="background-color: white;">(Left) Cartoons for the fanlights or “lunettes” in the Cathedral of the Good Shepherd (left) and two of the windows as executed (right). <i>Cartoons courtesy of KADOC – KU Leuven; photographs courtesy of Swati Chandgadkar.</i></div>
 <div style="background-color: white;">(Right) Cartoon from the Dobbelaere studio (left) and a historic photograph of the altar window at the chapel of St Joseph’s Institution (right). This cartoon is significant because prior to its discovery, the design of the window was unfortunately not documented in any form. The cartoon therefore provides a better understanding of what the lost window looked like. <i>Cartoon courtesy of KADOC – KU Leuven; photograph courtesy of St Joseph’s Institution.</i></div>
 
-#### **ST JOSEPH'S INSTITUTION**
+#### **St Joseph's Institution**
 
 St Joseph’s Institution today houses the Singapore Art Museum. The chapel of this former school building was completed in September 1912. However, owing to a delay in the delivery of the stained glass window, the chapel – which now bears few traces of its ecclesiastical history – was dedicated only on 20 November that year.[^12]
 
