@@ -10,7 +10,7 @@ What is the Singapore Story?
 
 The answer is not straightforward because different people will have different views of what story they most identify with this country. For some, it might be founding Prime Minister Lee Kuan Yew’s memoirs. That story though is told from his point of view even if he had the advantage of being at the centre of many of the country’s most dramatic political events. What of the many other people who might have seen the story differently or have other stories to tell? Do their accounts matter and have a place in the nation’s storytelling?
 
-When a group of us at <i>The Straits Times</i> were tasked with writing a book to com- memorate Singapore’s 50th anniversary, we spent much time debating this point.
+When a group of us at <i>The Straits Times</i> were tasked with writing a book to commemorate Singapore’s 50th anniversary, we spent much time debating this point.
 
 How do you capture the story of this nation, its achievements and disappointments, the ups and downs, the personal glories and tragedies that are part of any society’s history? How do you make sure the story is not one-dimensional but multi-colour and flavourful?
 
@@ -23,6 +23,8 @@ It turned out to be a deeply satisfying project because we found a treasure trov
 In all, we found 58 storytellers from taxi driver to bus captain, teacher, satay man, doctor, scientist, soldier, policeman, athlete, mountain climber, civil servants and many more.
 
 Here are some of my favourites in the book, <i>Living The Singapore Story</i>, which was launched on 15 May 2015.
+
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/sg50_books.jpg)
 
 Kopitiam boss Lim Bee Huat started work cleaning tables at coffee shops for $1 a night. He was so poor he used to eat the food left by people at roadside offerings during the Hungry Ghost Festival. But he worked his way up, starting his first stall at the old Esplanade ground. Today, he owns more than 80 outlets and his staff get a Rolex watch from him when they have worked for more than 10 years.
 
@@ -53,7 +55,7 @@ If we do not find a way of recording and remembering them, it will be like those
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/ManiamFamily.jpg)
 <div style="background-color: white;">Adam Maniam (standing, left), with wife Yap Cuixian and their daughter Amelia Ri-En, his elder brother Aaron (seated, top) and younger brother Ashraf, together with his father Sydney (right), mother Bibe Zoolaha and maternal great-grandmother Chan Bibi. Adam is a Tamil-Eurasian-Malay-Pakistani lawyer with a Catholic Tamil grandfather and a Eurasian grandmother.</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/sg50_books.jpg)
+
 
 #### **From Drug Offender to Call Centre Manager**
 
