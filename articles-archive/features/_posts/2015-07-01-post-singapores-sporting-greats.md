@@ -26,11 +26,11 @@ Ng made an impact at the 1951 Asian Games in New Delhi, India, winning gold in t
 
 Not to be left out, Tang Pui Wah made a compelling case for female athletes. The daughter  of  a  soya  sauce  maker  and  his wife, Tang became Singapore’s first woman Olympian when she competed in the 100-metre sprint and 80-metre hurdles at the 1952 games in Helsinki, Finland. The cold weather, huge crowds, unfamiliar track and lack of proper coaching worked against her in this international setting and she did not do as well as she had hoped. Still, competing at a time when most girls stayed away from sports, the Asian Games bronze medallist was a pioneer and role model for aspiring sportswomen,  alongside  sprinters  Mary Klass and Janet Jesudason who took part in the 1956 Melbourne Olympics.
 
-High-jumper Lloyd Valberg was the first athlete to represent Singapore at the Olympics – the 1948 London games.<i>Image courtesy of Sport Singapore.</i>
+High-jumper Lloyd Valberg was the first athlete to represent Singapore at the Olympics – the 1948 London games.<i>Courtesy of Sport Singapore.</i>
 
-Singapore’s “Flying Fish” Neo Chwee Kok won four gold medals at the 1951 Asian Games held in New Delhi.<i>Image courtesy of Sport Singapore.</i>
+Singapore’s “Flying Fish” Neo Chwee Kok won four gold medals at the 1951 Asian Games held in New Delhi.<i>Courtesy of Sport Singapore.</i>
 
-Weightlifter Tan Howe Liang won Singapore’s first Olympic medal, a silver, at the 1960 Rome Olympics.<i>Image courtesy of Sport Singapore.</i>
+Weightlifter Tan Howe Liang won Singapore’s first Olympic medal, a silver, at the 1960 Rome Olympics.<i>Courtesy of Sport Singapore.</i>
 
 #### **The 1940s and 1950s: Athletes Par Excellence**
 
@@ -60,6 +60,14 @@ Trained by coach Patrick Zehnder, Chee delivered one of the most spectacular per
 
 Jayamani achieved SEA Games success in distance running but part of the interest in her story stemmed from the unique,  heartwarming relationship she had with  her coach Maurice Nicholas and his family. Jayamani recalls, “Maurice often went beyond the duties of a conventional coach to embrace me as family. When I stayed with the family, his wife Elizabeth would treat  me as her own daughter. Although she was sometimes strict with me, she showered me with lots of care. She would cook meals like her famous herbal chicken for me to ensure I had the proper nutrition to keep up with the harsh demands of training. I also formed a close bond with their daughters, Michelle and Sharon. They were like family to me.” Indeed, this was an era when coaches often went way beyond their roles as coaches to become mentor, friend and even parent to some of their charges.
 
+K. Jayamani won gold in the 1983 Southeast Asian Games marathon held in Singapore. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.</i>
+
+C. Kunalan (1970s). He won five  Asian Games and 14 SEA Games medals in a career spanning over a few decades. <i>Courtesy of Sport Singapore.</i>
+
+ Shuttler Wong Peng Soon was the first Asian to win the All-England Championships in 1950. <i>Courtesy of Sport Singapore.</i>
+
+ “Golden Girl” Junie Sng won 38 Southeast Asian Games gold medals over the course of her swimming career. <i>Courtesy of Sport Singapore.</i>
+
 Other athletes who made their mark during this “Golden Era” included distance runner P. C. Suppiah, who famously ran without shoes at the 1972 Munich Olympics; high-jumper Noor Azhar Hamid; sprinters Glory Barnabas and Yeo Kian Chye; and hurdlers Heather Siddons and Osman Merican.
 
 For this entire generation of athletes, sports was a passionate pursuit undertaken without expectation of reward. If there were returns, they were not the monetary kind that today’s athletes enjoy. For instance, Osman Merican remembers with immense pride a signed letter he received from former Prime Minister Lee Kuan Yew when he returned from the 1965 SEAP Games in Kuala Lumpur with three medals. In the letter, Lee, praising the former police constable, wrote, “I would like you to know that your performance brought into focus the qualities of discipline, stamina and talent which will enable the people of Singapore to overcome so many of their present difficulties and secure our future as a nation.” Given the uncertainty of the times following Singapore’s separation from Malaysia just months earlier that year, this was especially significant. Even then, the role of sports as a unifying force for a disparate people taking modest steps towards true nationhood could be felt.
@@ -67,6 +75,13 @@ For this entire generation of athletes, sports was a passionate pursuit undertak
 The 1970s was also a time when other sports started to make their mark. Boxing, for instance, had a worthy ambassador in Syed Abdul Kadir. Growing up watching boxing telecasts on television, the former St Andrew’s School student was fascinated with images of American heavyweight boxer Joe Louis raising his arms in victory. A love affair with boxing started and it took Kadir – a gold medallist at the 1971 SEAP Games – all the way to the 1972 Munich Olympics. There, a sensational victory over an Italian boxer was followed by a defeat against a Cuban adversary in a match that left Kadir reeling with a gash on the side of his head. Undeterred, he put the disappointment behind him, kept going and was subsequently rewarded with a bronze medal at the 1974 Commonwealth Games in New Zealand.
 
 Bowling too started to gain popularity, with the likes of Henry Tan and Adeline Wee giving it a boost with their international  success. Tan, for instance, won silver medals at the 1970 World Cup in Copenhagen and the 1975 World FIQ Championships in London, where he also set a then-world  record high game of 298. These achievements earned him the Sportsman of the Year award twice – in 1971 and 1976.  No mean feat for someone who, due to  financial constraints, could not afford the fees at the now-defunct Jackie's Bowl at Orchard and had to improvise and make  do with the humble cement factory where he worked as his training ground. Among other things, Tan had made his own ball and drew arrows in an open area of the  factory to mimic a bowling lane. 
+
+Growing up, Syed Abdul Kadir was inspired by American heavyweight boxer Joe Louis. He won a bronze medal at the 1974 New Zealand Commonwealth Games. National Library Board. 
+
+Singapore’s most famous footballer Fandi Ahmad scored the winning goal that resulted in Singapore winning the Malaysia Cup in 1980.  Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.
+
+Ang Peng Siong clocked the world’s fastest time for the men’s 50-metre freestyle event at the United States Swimming Championships at Indianapolis in 1982. Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.
+
 
 #### **The 1980s: The “Kallang Roar”**
 
@@ -89,6 +104,16 @@ Lee Wung Yew – increasingly a force in the regional scene following his debut 
 The 1990s and beyond also witnessed the start of a more professional approach towards sports in Singapore. Swimmers  such as Mark Chay and Nicholette Teo  headed for further education and training in the US in a bid to strike a better bal- ance between sports and studies. Others followed, including Quah Ting Wen and of course 2014 Asian Games gold medallist Joseph Schooling – arguably the most  successful product among our US-based swimmers. Also giving swimming a high profile was Tao Li, who won Asian Games gold medals in 2006 and 2010 and, even  more impressively, came in fifth in the final of the women’s 100-metre butterfly at the 2008 Beijing Olympics
 
 Starting with Jin Junhong in the 1990s, table tennis – boosted by the import of  foreign talents – rose to a whole new level. With her fourth placing in the women’s  singles at the 2000 Sydney Olympics, she created a path for the likes of Li Jiawei and Feng Tianwei who eventually won Olympic medals for Singapore. Today, there is still a gap between the city state and major sport- ing powers but prospects are bright with the import of foreign athletes to complement local stars, investments in infrastructure and talent, monetary incentives for sport-ing success in major competitions, better sponsorships and a growing appreciation among people of the role of sports in soci- ety. World beaters in sports are no longer a rarity as the city-state seeks a superior standing among nations in the sporting  arena – a standing which it hopes will mir- ror its glowing reputation in other fields  that Singapore has thus far excelled in.
+
+Feng Tianwei was part of Singapore’s women’s table tennis team that won a silver medal at the 2008 Beijing Olympics. She clinched bronze in the women’s singles at the 2012 London Olympics. Courtesy of Sport Singapore.
+ 
+Former national sailor Benedict Tan successfully juggled sports and studies, and clinched gold in the 1994 Hiroshima Asian Games. Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.
+
+Retired national shooter Lee Wung Yew competed in three Olympics, six Asian Games and 11 Southeast Asian Games. Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.
+
+National sailor Colin Cheng came in 15th out of 49 boats in the men’s Laser event at the 2012 London Olympics. Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.
+
+ 2014 Asian Games gold medallist Joseph Schooling is arguably the most successful product among our US-based swimmers. Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul. 
 
 #### **Paralympian Winners**
 
