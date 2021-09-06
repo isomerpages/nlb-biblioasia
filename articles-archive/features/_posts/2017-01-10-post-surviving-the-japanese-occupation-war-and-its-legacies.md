@@ -48,7 +48,7 @@ The first thing a visitor sees upon entry to the lobby are displays that set the
 
 In total, there are over 200 exhibits on display at the exhibition. As it is not physically possible to cover all the exhibits within the confines of this article, we highlight a small selection here.
 
-##### **Fall of Singapore**
+###### **Fall of Singapore**
 
 Featuring the three intertwining narratives of Japanese military aggression, British defences and the civilians in Singapore caught up in these larger forces of empire and war, this section of the exhibition provides visitors with fresh perspectives into what Winston Churchill – the British Prime Minister during the war years – proclaimed as the “worst disaster and largest capitulation in British history”.
 
@@ -62,7 +62,7 @@ Others like Lim Kheng Jun enlisted in the Chinese Military Academy (中央陆军
 
 <div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/3-surviving-japanese-occupation.png">Lim Kheng Jun pictured here with his graduation yearbook at the public Call for Archives event held at the National Library Building on 12 March 2016.</div>
 
-<div style="background-color: white;"><img style="width:270px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/4-surviving-japanese-occupation.png">Lim Kheng Jun as a young soldier in 1940 (second row, on the left), p. 117. </div>
+<div style="background-color: white;"><br><img style="width:270px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/4-surviving-japanese-occupation.png">Lim Kheng Jun as a young soldier in 1940 (second row, on the left), p. 117. </div>
 
 ###### **Japanese intelligence map of Singapore**
 
@@ -94,11 +94,11 @@ These depictions of war, which took the form of postcards and paintings, were di
 
 There are five postcards and two watercolour paintings on display, donated to the NAS by Taka Sakurai, formerly an officer with the propaganda department of the Imperial Japanese Army. Sakurai produced these postcards based on artists’ impressions of scenes of Singapore after the fighting ceased. The postcards were then distributed to Japanese soldiers to commemorate their victory.[^4]
 
-**Becoming Syonan**
+#### **Becoming Syonan**
 
 On 18 February 1942, Singapore was officially renamed Syonan-to, meaning “Light of the South”.  The Japanese Occupation was a grim period in our history. From the acts of state-sanctioned violence to grandiose promises as part of the “Greater East Asia Co-Prosperity Sphere”, this section of the exhibition showcases the experiences of people living under a new administration as well as the acts of resistance by those who chose to fight back and make a stand.
 
-##### **“Screened” stamp**
+###### **“Screened” stamp**
 
 One of the first actions by the Japanese military in Syonan was a mass screening or *dai kenshō* (大検証; “great inspection”), which the Chinese later referred to as Sook Ching (肃清). Such screenings to identify anti-Japanese elements in the population had been carried out whenever Japan conquered new territories in China. Three days after the British surrender in Singapore, Chinese males aged between 18 and 50 were ordered to report to screening centres − and in the confusion, some women and children went as well.[^5]
 
@@ -108,7 +108,7 @@ One survivor recounted:“When I went home, I had the rubber stamp with the word
 
 Apart from displays of such documents, the exhibition also allows visitors to experience first-hand accounts of Sook Ching survivors by listening to oral history excerpts.
 
-##### **Case of Joseph Francis**
+###### **Case of Joseph Francis**
 
 Stories of deprivation, suffering and torture were part of the fabric of the Syonan-to years, experienced by both the local civilian population as well as British and Allied soldiers.
 
@@ -118,7 +118,7 @@ Joseph Francis, who worked as a driver for a Japanese inspector at the POW camp,
 
 On his release, Francis required extensive medical care and he eventually died in May 1945. After the Occupation, his brother and friends wrote to the British Military Administration, describing in detail Francis’ contributions to the anti-Japanese resistance. On display at the exhibition is Francis’ driver’s license and the letter written by his friend, Kenneth Tay, describing the “horrors of inhuman punishment” that Francis endured at the hands of his captors, that had reduced him into a pitiable “living skeleton”.
 
-##### **Sketches by William Haxworth**
+###### **Sketches by William Haxworth**
 
 Also worth seeing are the selection of sketches, drawn from a collection of over 300 that were secretly sketched by former police inspector William R.M. Haxworth during his internment at Changi Prison and Sime Road Camp. The sketches depict the crowded and unsanitary living conditions at the camps, and capture the internees’ decline in health and weight over time. Several sketches reveal Haxworth’s ability to find humorous moments and comic relief through his art in spite of the difficult circumstances.
 
