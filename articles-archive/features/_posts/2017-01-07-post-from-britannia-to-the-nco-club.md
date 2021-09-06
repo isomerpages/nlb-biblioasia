@@ -63,7 +63,7 @@ Singapore’s first batch of national servicemen was still in training in 1967, 
 
 But the process had started and there was no turning back. As a compromise, the British agreed to extend the deadline for withdrawal from March to December 1971. Singapore had inherited Britain’s rule of law and the infrastructure it set up, but it was the sudden British withdrawal of support that forced the newly independent country to come into its own. Without Britain to fall back on, the Singapore government had to adopt a series of tough economic measures to put the country on track.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/4-britannia-nco.jpg">The NCOs were a sporty bunch, representing the club in water polo matches, swimming competitions, soccer, badminton and hockey tournaments, and marathons. <i>Courtesy of MINDEF.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/4-britannia-nco.jpg">The NCOs were a sporty bunch, representing the club in water polo matches, swimming competitions, soccer, badminton and hockey tournaments, and marathons. <i>Courtesy of MINDEF.</i></div>
 
 #### **Enter the NCO Club**
 
@@ -77,7 +77,7 @@ Lim Phai Som, the first president of the club from December 1973 to April 1974, 
 
 Truth be told, the facilities of the NCO Club were quite spartan on opening day. Compared to what the British forces had enjoyed at the Britannia Club, the Singapore soldiers were only served by a handful of hawker stalls – selling local fare such as chicken rice, *wonton noodles* and *rojak* – a Snack Bar, the Barrel Lounge, Billiards Room, Reading Room and, of course, that magnificent swimming pool. But still, it was a place to call their own – and the downtown location was undeniably superb.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/5-britannia-nco.jpg">In the 1980s and 90s, the NCO Club organised events such as tombola nights, barbecue nights, Christmas and New Year parties, social dance lessons, music and swimming classes as well as cultural performances for members. <i>Courtesy of MINDEF.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/5-britannia-nco.jpg">In the 1980s and 90s, the NCO Club organised events such as tombola nights, barbecue nights, Christmas and New Year parties, social dance lessons, music and swimming classes as well as cultural performances for members. <i>Courtesy of MINDEF.</i></div>
 
 #### **Something for Every NCO**
 
