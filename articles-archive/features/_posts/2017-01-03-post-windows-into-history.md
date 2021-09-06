@@ -184,7 +184,7 @@ Wee Sheau Theng. It has since been restored by Swati Chandgadkar and was reinsta
 
 More importantly, one of the cartoons is dated 1904, thereby confirming that the fanlights were gifts from the bishop, as mentioned in the newspaper article. As the cartoons for the two figurative windows were not found in the archives, their provenance remains indeterminate.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-4/windows-into-history/8a-windows_into_history.jpg">Cartoons for the fanlights or “lunettes” in the Cathedral of the Good Shepherd (left) and two of the windows as executed (right). <i>Cartoons courtesy of KADOC – KU Leuven; photographs courtesy of Swati Chandgadkar.</i></div>
+<div style="background-color: white;"><img style="width:480px" src="/images/Vol-12-issue-4/windows-into-history/8a-windows_into_history.jpg">Cartoons for the fanlights or “lunettes” in the Cathedral of the Good Shepherd (left) and two of the windows as executed (right). <i>Cartoons courtesy of KADOC – KU Leuven; photographs courtesy of Swati Chandgadkar.</i></div>
 
 #### **St Joseph's Institution**
 
