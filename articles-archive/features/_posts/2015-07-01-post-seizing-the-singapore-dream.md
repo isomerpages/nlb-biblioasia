@@ -64,4 +64,4 @@ The National Conversation in 2012 was a productive start. But it has brought Sin
 
 <p style="font-size:15px;"><b>Parag Khanna</b> is director of Hybrid Reality, a senior fellow of the Singapore Institute of International Affairs and an adjunct professor at the Lee Kuan Yew School of Public Policy. He is author of The Second World (2008) and How To Run The World (2011), and co-author of Hybrid Reality (2012).</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/apr-jun-2015/"><center>Back to Issue</center></a>
