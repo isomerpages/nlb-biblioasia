@@ -186,15 +186,15 @@ Wee Sheau Theng. It has since been restored by Swati Chandgadkar and was reinsta
 
 More importantly, one of the cartoons is dated 1904, thereby confirming that the fanlights were gifts from the bishop, as mentioned in the newspaper article. As the cartoons for the two figurative windows were not found in the archives, their provenance remains indeterminate.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/8-windows_into_history.png)
-<div style="background-color: white;">(Left) Cartoons for the fanlights or “lunettes” in the Cathedral of the Good Shepherd (left) and two of the windows as executed (right). <i>Cartoons courtesy of KADOC – KU Leuven; photographs courtesy of Swati Chandgadkar.</i></div>
-<div style="background-color: white;">(Right) Cartoon from the Dobbelaere studio (left) and a historic photograph of the altar window at the chapel of St Joseph’s Institution (right). This cartoon is significant because prior to its discovery, the design of the window was unfortunately not documented in any form. The cartoon therefore provides a better understanding of what the lost window looked like. <i>Cartoon courtesy of KADOC – KU Leuven; photograph courtesy of St Joseph’s Institution.</i></div>
-
 #### **St Joseph's Institution**
 
 St Joseph’s Institution today houses the Singapore Art Museum. The chapel of this former school building was completed in September 1912. However, owing to a delay in the delivery of the stained glass window, the chapel – which now bears few traces of its ecclesiastical history – was dedicated only on 20 November that year.[^12]
 
 A modern glass and steel sculpture now sits in the opening where the stained glass window would have been located. With the exception of an old photograph of the chapel, which shows a faint silhouette of the stained glass window at the end of the nave,[^13] very little is known about the provenance or design of this historic window. A cartoon we found in the Leuven archives helps further our understanding of this window. The cartoon depicts St Jean-Baptiste de La Salle surrounded by pupils and members of the laity, with Mary and Jesus appearing on the mantle. The cartoon also bears the inscription “Presented by Joseph Chan Teck Hee”.
+
+![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/8-windows_into_history.png)
+<div style="background-color: white;">(Left) Cartoons for the fanlights or “lunettes” in the Cathedral of the Good Shepherd (left) and two of the windows as executed (right). <i>Cartoons courtesy of KADOC – KU Leuven; photographs courtesy of Swati Chandgadkar.</i></div>
+<div style="background-color: white;">(Right) Cartoon from the Dobbelaere studio (left) and a historic photograph of the altar window at the chapel of St Joseph’s Institution (right). This cartoon is significant because prior to its discovery, the design of the window was unfortunately not documented in any form. The cartoon therefore provides a better understanding of what the lost window looked like. <i>Cartoon courtesy of KADOC – KU Leuven; photograph courtesy of St Joseph’s Institution.</i></div>
 
 The Dobbelaere cartoon fits the form and thematic outline with what we can see in the old photograph. It is therefore reasonable to infer that the cartoon is of the historic stained glass window of the school chapel, and more importantly, that it was executed by the studio of Jules Dobbelaere.
 
