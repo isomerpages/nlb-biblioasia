@@ -44,13 +44,13 @@ The second pillar is demographic. Being the diplomatic heart for half the world'
 
 New York and London are multinational melting  pots  in  addition  to  being  global financial centres. Singapore in fact has an even  higher  percentage  of  foreign-born residents, ranking only behind cities  like Dubai and Toronto. Dubai is already a place with far more international residents than domestic citizens, that is, people who have voluntarily moved there and planted roots.
 
-Singapore is undeniably Asia's premier destination for a high quality of life. It also seems certain that it will reach a population of about  eigh  million people in a generation, at least half of whom will be  non-Singaporean.  Rather  than  struggle  against  this  trend,  Singapore  should embrace it and build for it.
+Singapore is undeniably Asia's premier destination for a high quality of life. It also seems certain that it will reach a population of about  eigh  million people in a generation, at least half of whom will be  non-Singaporean. Rather than struggle against this trend,  Singapore  should embrace it and build for it.
 
-Indeed, this means it could pioneer a model of stakeholdership beyond citizenship  that  confers  obligations  on  all  residents irrespective of their national origin. Then Singapore would truly be a leading global city, a microcosm of global society with a sense of unity despite diversity.
+Indeed, this means it could pioneer a model of stakeholdership beyond citizenship that confers obligations on all residents irrespective of their national origin. Then Singapore would truly be a leading global city, a microcosm of global society with a sense of unity despite diversity.
 
 #### **A Generative City**
 
-The third pillar involves Singapore becoming the world's most generative city. This means leveraging on technology to promote innovation, sustainability and inclusiveness. The  sensor  networks  being  deployed  in Singapore  will  eventually  constitute  an “Internet  of  Things”  that  manages  traffic and  buildings  to  reduce  energy  use  and emissions, potentially even allowing for an island-wide driverless car network.
+The third pillar involves Singapore becoming the world's most generative city. This means leveraging on technology to promote innovation, sustainability and inclusiveness. The sensor networks  being deployed in Singapore will eventually constitute an “Internet of Things” that manages traffic and buildings to reduce  energy  use  and emissions, potentially even allowing for an island-wide driverless car network.
 
 But there is also the "Internet of People" emerging by which we can geo-locate potential professional partners and tap the expertise of others far more efficiently. Enabling widespread people-centric networks will become even more critical as rates of telecommuting increase in the coming years. Broadband connectivity is becoming universal and Singapore's towns are becoming larger and more  robust full-service, mixed-use communities. In a generative city, citizen-citizen and citizen-government relations are mediated equally by data and democracy.
 
