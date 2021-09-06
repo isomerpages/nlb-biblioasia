@@ -206,7 +206,7 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 
 |(From left to right) Greek cross plan of Armenian Church, rectangular plan of St George’s Church (at Minden Road) and Latin cross plan of Cathedral of the Good Shepherd.|
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/10-windows_into_history.jpg)
+<img style="width:450px" src="/images/Vol-12-issue-4/windows-into-history/10-windows_into_history.jpg">
 
 |The main body of the church, which is known as the nave, is the area where the congregation takes part in worship (called a mass in Catholic churches or service in the Protestant tradition).|
 
