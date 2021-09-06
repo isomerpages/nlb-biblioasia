@@ -60,8 +60,7 @@ Even before the war descended on Southeast Asia, the Chinese community in Singap
 
 Others like Lim Kheng Jun enlisted in the Chinese Military Academy (中央陆军军官学校) in 1939. Lim was trained in China as an intelligence officer, and later, as a police officer deployed to Beiping and then Hainan. In March 2016, Lim responded to the open call for archive materials for the exhibition, bringing along his treasured copy of the yearbook as well as personal records of his involvement in the Sino-Japanese war.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/3-surviving-japanese-occupation.png)
-<div style="background-color: white;">Lim Kheng Jun pictured here with his graduation yearbook at the public Call for Archives event held at the National Library Building on 12 March 2016.</div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/3-surviving-japanese-occupation.png">Lim Kheng Jun pictured here with his graduation yearbook at the public Call for Archives event held at the National Library Building on 12 March 2016.</div>
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/4-surviving-japanese-occupation.png)
 <div style="background-color: white;">Lim Kheng Jun pictured here with his graduation yearbook at the public Call for Archives event held at the National Library Building on 12 March 2016.</div>
@@ -88,7 +87,7 @@ In that same year, it became compulsory for all non-military residents of Singap
 <div style="background-color: white;">(Middle) Such postcards and paintings depicting scenes of war were distributed to Japanese soldiers and exhibited in the newly conquered territories as well as in Japan to highlight the might of the Japanese military. Donated by Taka Sakurai. Courtesy of National Archives of Singapore.</div>
 <div style="background-color: white;">(Right) Overseas Chinese certificate of registration, 1942. Donated by Ow Peng Hoong. Courtesy of National Archives of Singapore.</div>
 
-##### **Japanese artistic impressions of occupied Singapore**
+###### **Japanese artistic impressions of occupied Singapore**
 
 Also found in this section of the exhibition are *sensō sakusen kirokuga* (war campaign documentary paintings). A few months before the fall of Singapore, the Japanese military administration started to send prominent Japanese artists to various parts of Southeast Asia to paint scenes of war based on photographs or after talking to soldiers on the ground.
 
