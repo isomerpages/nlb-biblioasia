@@ -220,7 +220,7 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 
 |The clerestory denotes an upper level of the nave where the walls rise above the rooflines of the lower aisles and are punctuated with windows. Windows located in this area are also known as clerestory windows.|
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/12-windows_into_history.jpg)
+<img style="width:300px" src="/images/Vol-12-issue-4/windows-into-history/12-windows_into_history.jpg">
 
 |A fanlight or “lunette” is a semicircular window over a door or window. It is also sometimes known as a transom window, especially when it is rectangular in shape.|
 
