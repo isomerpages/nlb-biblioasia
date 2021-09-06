@@ -20,11 +20,11 @@ Fashion entrepreneur Judith Chung, who was a fashion reporter for *The Sunday Ti
 
 Geddes’ shop had upped the ante for Singapore tremendously in 1957 when Elizabeth Taylor, who was visiting Singapore with her third husband, film producer Mike Todd, wore a fitted strapless dress of Geddes’ own design to a Raffles Hotel dinner. According to a report in famoushotels.org, Taylor was overhead screaming at Geddes the day after because the dress had split at the seams in the middle of dinner. Not one to lose her cool, Geddes had reportedly retorted: “You should not have insisted on this dress, it was too small for you, I told you so!”
 
-**Tailor-made**
+#### **Tailor-made**
 
 For most Singapore-born ingenues and their society matron mums, like Carol de Souza and her mother, made-to-measure was the name of the game in the local fashion stakes. Their clothes-shopping routine would entail trooping to the grande dame of department stores in Singapore – Robinsons at Raffles Place – for its McCall’s and Butterick paper patterns.
 
-A trip to a bookshop or an Indian-run five-foot-way (pedestrian walkway) magazine stand could also arm one with magazines such as *Burda, Lana Lobell*, *So-en, Vogue or Women’s Weekly*, just to name a few, with the best pictures of the new trends.
+A trip to a bookshop or an Indian-run five-foot-way (pedestrian walkway) magazine stand could also arm one with magazines such as *Burda, Lana Lobell*, *So-en, Vogue* or *Women’s Weekly*, just to name a few, with the best pictures of the new trends.
 
 Following that, the next stop would be High Street to dig through bales of materials at Aurora, Metro, Modern Silk Store and S.A. Majeed. If you still could not find the right fabric, there was also Chotirmalls or Peking Silk Store on adjacent North Bridge Road. And People’s Park in Chinatown, as well as night markets all over Singapore, where de Souza recalls that she and her mother would always end up buying “bags and bags of fabric – more than what we went looking for”.
 
@@ -48,7 +48,7 @@ A Singer or an Elna sewing machine was not only indispensable to every household
 
 Brandon Barker was a part-time model in the 1960s so his mother taught him how to cut and sew his own clothes. Thanks to this, he was able to make Oxford bags, those loosely fitted trousers with wide legs, for himself, when he found that those made by professional tailors “never quite fit right”. Barker got so good at dressmaking, he could even sew gored skirts – a popular fashion item back then – for his younger sister, Gillian, also a part-time model.
 
-**London Calling**
+#### **London Calling**
 
 Paris might have been the fashion capital that used to dictate clothing trends to an adult audience, but musician and former disc jockey Vernon Cornelius says that London became the 1960s youth capital of fashion. He remembers young people dressing up “according to what was going on and the music of the time”.
 
@@ -66,7 +66,7 @@ Freelance hairstylist Francis Raquiza who had trained under Roland Chow, Singapo
 <div style="background-color: white;">(Left) Roland Chow demonstrating his hair creation “Incroyable”, a new short hair-do to go with shorter hemlines, October 1958. <i>Courtesy of Singapore Press Holdings.</i></div>
 <div style="background-color: white;">Two outfits from Roland Chow’s summer collection, May 1966.1962. <i>Courtesy of Singapore Press Holdings.</i></div>
 
-n 1967, it was reported that 50 percent of British women’s fashion sold was to the 15 to 19 age group. Carnaby Street, in London’s Soho district, was identified as the epicentre of the global youth-quake. So it was no wonder that the grooviest of 1960s fashion boutiques – including the “mini skirt” creator, Mary Quant’s flagship shop – were congregated there.
+In 1967, it was reported that 50 percent of British women’s fashion sold was to the 15 to 19 age group. Carnaby Street, in London’s Soho district, was identified as the epicentre of the global youth-quake. So it was no wonder that the grooviest of 1960s fashion boutiques – including the “mini skirt” creator, Mary Quant’s flagship shop – were congregated there.
 
 In 1966, Carnaby Street was splashed on the cover of *Time* magazine, sealing London’s credibility as the capital of cool. Among the many Singaporeans who noted *Time’s* report and were quick to flock there was Alice Fu, who later became the first head buyer of Tangs (formerly C K Tang) from 1982 to 1996. In the late 1960s, as a secretary at a travel agency, she could get discounted air tickets to London. “So I took my mum to London. We told ourselves we had to see Carnaby Street, and we bought Mary Quant halter tops, chunky platform shoes, high boots, and maxi dresses,” she recalls.
 
@@ -74,7 +74,7 @@ Fu was inspired by her Carnaby Street experience of affordable fun fashion but w
 
 “It was meant to emulate the ready-to- wear London look and we had to ‘design’ all our own clothes – hipster pants, halter tops, mini dresses – based on what we saw in magazines. I remember we had the tailor from Trend moonlighting for us. Her name was Ah Geok,” she says.
 
-**Rabiah and Her Sisters**
+#### **Rabiah and Her Sisters**
 
 If Ah Geok made “magic” creating Singapore’s earliest off-the-peg kaleidoscopic 1960s styles from magazine pictures, no one else was better at modelling and marketing such free-wheeling looks as the decade’s most iconic pin-up girl, Rabiah Ibrahim. That is unless, of course, they were her equally fashionable and famous sisters and partners, Carol, Fatimah and Faith.
 
@@ -90,7 +90,8 @@ At its most successful, there were also Trend shops in San Francisco and Hong Ko
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/1960s-fashion/4-1960s%20fashion.jpg)
 <div style="background-color: white;">The word “modern” aptly describes these cover girls, who were ahead of their time in the 1960s. From top: Sybil Schwencke, who went from being a flight hostess to a beauty guru; Phila Mae Wong, who inherited her love for fashion from her entrepreneurial mother; and Chan See Foon, who was arguably Singapore’s first supermodel. <i>All magazine covers courtesy ofSingapore Press Holdings.</i></div>
 
-Fashion Pioneer
+#### **Fashion Pioneer**
+
 The Ibrahim sisters were not the only fashion beacons in a Singapore that was experiencing a cultural awakening with a fervency to modernise, driven as it was by a rapidly evolving socio-political climate.
 
 In a 2015 *Straits Times* report, architect Tan Cheng Siong, who designed the iconic conservation Pearl Bank Apartments in 1976, said that even as a youth in the 1960s he had the awareness that Singapore had “always wanted very badly to be modern”.
@@ -120,7 +121,8 @@ At the spot where The Centrepoint stands today was the popular Magnolia Milk Bar
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/1960s-fashion/5-1960s%20Fashion.png)
 <div style="background-color: white;">Tangs cashiers at the start of their shift in the late 1960s. <i>Photo: Courtesy of Tangs.</i></div>
 
-In the Mood for Cheongsam
+#### **In the Mood for Cheongsam**
+
 The fashion revolution of the 1960s would all but wipe out the appearance of traditional garments such as the sari and sarong kebaya at events other than weddings. But it was a completely different story with the cheongsam.
 
 Phila Mae Wong’s thrice-married aunt, the late Christina Lee – voted by *Vogue* magazine as one of the most beautiful women in the world in 1965 – had a part to play in this. She was the youngest of the four beautiful daughters from the illustrious Lee family while Phila Mae’s mother, Eunice, was her eldest sister. At the time when her looks were celebrated by Vogue, Christina Lee was married to cinema magnate Loke Wan Tho and the celebrity couple was often captured in the headlines – he in a sharply-tailored Western suit, she in a gorgeous *cheongsam*.
@@ -140,7 +142,7 @@ That was, Thomas points out, Singapore’s original fashion street before it was
 
 For young career girls and the trendy young scions of well-to-do Singapore families, the holy grail of 1960s fashion were Biba and Mary Quant of London. Quant is immortalised today as the originator of the miniskirt, while Barbara Hulanicki’s Biba fashion emporium on Kensington High Street was dubbed the sexiest shop in the world by London’s *Daily Mail* newspaper. Today, Biba’s signature style would be described as being a blend of Mary Quant’s mod look with Laura Ashley’s floral fashion and Topshop’s edgy style.
 
-**Choong and Sons**
+#### **Choong and Sons**
 
 An appetite for modern 1960s fashion not only spread among the women throughout Singapore, but to the men as well. Even *kampung* boys dressed like peacocks in colourful fashion, with collarless jackets and pants that flared over boots with high heels, just like the girls. Shirts or ties became vividly printed and lapels got more exaggerated as trouser legs widened.
 
