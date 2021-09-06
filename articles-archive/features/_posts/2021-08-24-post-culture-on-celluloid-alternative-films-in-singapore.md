@@ -25,7 +25,7 @@ In 1933, long-time Singapore resident Roland Braddell wrote that the Singaporean
 
 One Straits Times headline quipped, Malayan movie-goers “prefer Tarzan to serious films”.[^5] The article went on to elaborate that audiences enjoyed action films, cowboy, Tarzan and serial features but films with lots of dialogue or psychological stories were not popular. 
 
-Cynics would say that little has changed today as far as the maturity of Singapore film audiences is concerned - the commercial and mainstream still rule over the art house. 
+Cynics would say that little has changed today as far as the maturity of Singapore film audiences is concerned – the commercial and mainstream still rule over the art house. 
 
 #### **Calls for a Film Society**
 Despite the grim picture, the influence of film societies and film appreciation in Europe was beginning to make its mark in Singapore. In 1933, <i>The Straits Times</i> carried a public notice that “proposed to form an Amateur Film Society in Singapore”[^6] though it is not known if any readers responded to the call. In 1936, another reader advocated the setting up of a film society, adding that “it is the only thing which will save (Singapore) from complete aesthetic stagnation”.[^7] This would give Singaporeans a chance to view European and Russian films that commercial exhibitors did not import, and which did not come under the heavy-handed cuts by the Official Censor. 
