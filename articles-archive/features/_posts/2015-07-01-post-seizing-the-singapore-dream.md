@@ -1,9 +1,10 @@
 ---
 title: Seizing The Singapore Dream
 date: 2015-07-01
-permalink: /articles-archive/features/permalink
+permalink: /vol-11/issue-2/jul-sep-2015/seizing-the-sg-dream
 layout: post
 ---
+
 #### What does it take to achieve the Singapore Dream? **Parag Khanna** identifies three important pillars – diplomacy, demography and technology.
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/seizingthedream/PK-Brussels-March-2012-David-Plas1.jpg)
