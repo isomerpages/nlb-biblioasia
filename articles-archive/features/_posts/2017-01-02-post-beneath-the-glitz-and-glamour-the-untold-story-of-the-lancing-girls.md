@@ -176,4 +176,4 @@ When asked if there was anything in their past they wished they had done differe
 [^24]:Lim, C.P. (1964, January 1). Is drama non-existent in Singapore? *[Tumasek](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=5053647)*, 1, 42–44. Call no.: RCLOS 805 T; *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820328-1.2.110.19.3)*, p. 4.
 [^25]:Goh. P.S. (1972). *[If we dream too long](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13227365)*. Singapore: Island Press. Call no.: RSING 828.99 GOH
 [^26]:Koh, T.A. (2010). Goh Poh Seng’s If We Dream Too Long: An appreciation. In P.S. Goh. (2010), *[If we dream too long](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13227365)* (p. xii). Singapore: NUS Press. Call no.: RSING S823 GOH
-[^27]:Nur Asyiqin Mohamad Salleh. (2016, July 30). In search of the great Singapore novel. The Straits Times. Retrieved from *The Straits Times*  website.
+[^27]:Nur Asyiqin Mohamad Salleh. (2016, July 30). In search of the great Singapore novel. *The Straits Times*. Retrieved from *The Straits Times*  website.
