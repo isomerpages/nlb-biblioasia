@@ -64,7 +64,8 @@ Of the three studios, Vitrail St Georges is by far the youngest. Founded by Joë
  
 |Andre’s eldest son Guy Delodder took over the workshop in 1953. The sudden death of Guy Delodder’s successor (one of his four sons) in 1991 ended a tradition that had endured for five generations.|
 
-|fl.=flourished|<br>
+|fl.=flourished|
+
 |Above information from the University of Leuven’s Documentation and Research Center on Religion and Society.|
 
 #### **The Importance of "Cartoons"**
