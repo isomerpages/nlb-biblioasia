@@ -159,7 +159,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 [^4]:*[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19521217-1.2.114.2.aspx)* , 17 Dec 1952, p. 1; *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19521217-1.2.114.7.aspx)*, 17 Dec 1962, p. 2. 
 [^5]:[Shackle Club opened.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470703-1.2.66.9) (1947, July 3). *The Straits Times*, p. 7; [New centre for troops: Work starts on new Forces club.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510710-1.2.110) (1951, July 10). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 [^6]:[Nuffield pool may be ready in June.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510406-1.2.87) (1951, April 6). *The Straits Times*, p. 4; ‘A boon’ to the forces. (1951, December 20). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
-[^7]:Yue, R. (1952, December 17). [It’s one of the nicest clubs in the East.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19521217-1.2.114.7) *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
+[^7]:*[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19521217-1.2.114.7.aspx)* , 17 Dec 1962, p. 2. 
 [^8]:[Beauty show for the troops.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530516-1.2.55) (1953, May 16). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^9]:Interview with Carol Traynor.
 [^10]:Interview with John Harper.
@@ -167,7 +167,7 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 [^12]:[The Commons defence debate: The decision to pull out is final.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670729-1.2.40) (1967, July 29). *The Straits Times*, p. 6; [All out by 1971](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680117-1.2.3). (1968, January 17). *The Straits Times*, p. 1; Campbell, W. (1971, October 30). [Pull-out. ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711030-1.2.84)*The Straits Times*, p. 14. Retrieved from NewspaperSG.
 [^13]:[The Naval Base – big town with a civilian future. ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680708-1.2.74)(1968, July 8). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 [^14]:[Future of closed down Britannia Club being discussed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711029-1.2.47). (1971, October 29). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
-[^15]:Chin, U.W., &amp; Yeo, J. (Eds.). (2015). The Chevrons celebrates: Our journey, our vision. Singapore, p. 9. Retrieved from The Chevrons website.
+[^15]:Chin, U.W., &amp; Yeo, J. (Eds.). (2015). *The Chevrons celebrates: Our journey, our vision*. Singapore, p. 9. Retrieved from The Chevrons website.
 [^16]:[HDB to give reservists preference.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740318-1.2.72) (1974, March 18). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 [^17]:Interview with Aloysius Lim.
 [^18]:Chin &amp; Yeo, 2015, pp. 12, 14.
