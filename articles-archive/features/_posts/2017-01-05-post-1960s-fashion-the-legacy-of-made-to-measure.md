@@ -123,18 +123,18 @@ At the spot where The Centrepoint stands today was the popular Magnolia Milk Bar
 
 #### **In the Mood for Cheongsam**
 
-The fashion revolution of the 1960s would all but wipe out the appearance of traditional garments such as the sari and sarong kebaya at events other than weddings. But it was a completely different story with the cheongsam.
+The fashion revolution of the 1960s would all but wipe out the appearance of traditional garments such as the sari and sarong kebaya at events other than weddings. But it was a completely different story with the *cheongsam*.
 
 Phila Mae Wong’s thrice-married aunt, the late Christina Lee – voted by *Vogue* magazine as one of the most beautiful women in the world in 1965 – had a part to play in this. She was the youngest of the four beautiful daughters from the illustrious Lee family while Phila Mae’s mother, Eunice, was her eldest sister. At the time when her looks were celebrated by Vogue, Christina Lee was married to cinema magnate Loke Wan Tho and the celebrity couple was often captured in the headlines – he in a sharply-tailored Western suit, she in a gorgeous *cheongsam*.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/1960s-fashion/6-1960s%20Fashion.png)
 <div style="background-color: white;">Former Grand Prix champion driver and fashion pioneer Eunice Wong and her favourite Triumph sports car, late 1950s. <i>Courtesy of Phila Mae Wong.</i></div>
 
-The 1960 hit Hollywood movie, *The World of Suzie Wong*, starred Nancy Kwan wearing a series of cheongsams with thigh-high slits. The movie turned the actress into an international pin-up girl, who quickly became known as the “Chinese Bardot”, in reference to the 1960s French screen siren Bridgette Bardot.
+The 1960 hit Hollywood movie, *The World of Suzie Wong*, starred Nancy Kwan wearing a series of *cheongsams* with thigh-high slits. The movie turned the actress into an international pin-up girl, who quickly became known as the “Chinese Bardot”, in reference to the 1960s French screen siren Bridgette Bardot.
 
-Together, the Asian cinema mogul’s stunningly beautiful wife and the Hollywood movie star-turned-sex symbol gave a fillip to the cheongsam, which has made it much coveted by the stylish set, Western or Asian, ever since.
+Together, the Asian cinema mogul’s stunningly beautiful wife and the Hollywood movie star-turned-sex symbol gave a fillip to the *cheongsam*, which has made it much coveted by the stylish set, Western or Asian, ever since.
 
-With the advent of air-conditioning in Singapore, Christina Lee started to design her own Western-style coats, jackets and stoles to complement her cheongsams. Taking her cue from the sensational miniskirt of the 1960s, and Roland Chow, who had also designed a mini cheongsam, the hemlines of her own were fashionably cropped at thigh level.
+With the advent of air-conditioning in Singapore, Christina Lee started to design her own Western-style coats, jackets and stoles to complement her *cheongsams*. Taking her cue from the sensational miniskirt of the 1960s, and Roland Chow, who had also designed a mini *cheongsam*, the hemlines of her own were fashionably cropped at thigh level.
 
 As for designer Thomas Wee, learning how to make exquisite cheongsams from his Shanghai-trained tailor mother at the age of 14 may have been his entry into the world of dressmaking, but it was a wedding gown that Thomas had created for his then supervisor’s wedding that led to his serendipitous switch from working as a pharmacy dispenser to becoming a fashion boutique assistant. His first retail posting was at Flair Boutique along Tanglin Road (where the St Regis is now).
 
