@@ -202,11 +202,11 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 
 |The footprint of a church is typically laid out in a rectangle, Greek-cross – a square central mass with four projecting arms of equal length – or Latin-cross cruciform plan. From these basic forms, an apse, which is a semicircular recess, may be attached behind the altar to provide a visual focus.|
 
-<img style="width:500px" src="/images/Vol-12-issue-4/windows-into-history/9a-windows_into_history.jpg">
+<img style="width:700px" src="/images/Vol-12-issue-4/windows-into-history/9a-windows_into_history.jpg">
 
 |(From left to right) Greek cross plan of Armenian Church, rectangular plan of St George’s Church (at Minden Road) and Latin cross plan of Cathedral of the Good Shepherd.|
 
-<img style="width:450px" src="/images/Vol-12-issue-4/windows-into-history/10-windows_into_history.jpg">
+<img style="width:400px" src="/images/Vol-12-issue-4/windows-into-history/10-windows_into_history.jpg">
 
 |The main body of the church, which is known as the nave, is the area where the congregation takes part in worship (called a mass in Catholic churches or service in the Protestant tradition).|
 
