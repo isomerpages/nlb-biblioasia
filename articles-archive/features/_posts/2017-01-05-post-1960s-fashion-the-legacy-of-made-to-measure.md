@@ -6,8 +6,7 @@ layout: post
 ---
 #### The changing face of fashion in Singapore is the subject of a new book called *Fashion Most Wanted*. This extract recalls how the advent of TV impacted new fashion trends in the 1960s.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/1960s-fashion/01-1960s-fashion.png)
-<div style="background-color: white;">A model wearing a creation from Janilaine, one of Singapore’s most prominent made-to-measure clothing shops in the1960s. <i>Courtesy of Singapore Press Holdings.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-4/1960s-fashion/01-1960s-fashion.png">A model wearing a creation from Janilaine, one of Singapore’s most prominent made-to-measure clothing shops in the1960s. <i>Courtesy of Singapore Press Holdings.</i></div>
 
 The neighbourhood dressmaker who relied on paper patterns and her pedal-powered Singer sewing machine, the exacting Shanghainese tailor who draped the body and crafted by hand, the Indian tailor – immaculate in a crisp white shirt and spotless *dhoti* – who arrived at your doorstep to take your measurements. These were the “magicians of style” in Singapore half a century ago.
 
