@@ -47,7 +47,7 @@ The offspring of British servicemen recall blissful times spent at the club. Mos
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/from-britannia-to-nco-club/3-britannia-nco.jpg)
 <div style="background-color: white;">(Above) Carol Traynor, who served in the Women’s Royal Army Corps (WRAC) in Singapore from June 1966 to April 1967, and her friend Jenny Nelson (Bottom), used to frequent the Britannia Club after their shifts at Tanglin Camp. They would sunbathe on the terrace above the pool with the blue sea in the distance. To them, life in Singapore was like being on a permanent holiday. <i>Courtesy of Carol Traynor.</i></div>
-<div style="background-color: white;">(Right) Nuffield Swimming Pool at the Britannia Club – named after the British philanthropist and founder of Morris Motors Company, Lord Nuffield – had been completed in 1951, a year before the clubhouse opened. It was one of Singapore’s first Olympic-sized pools. <i>Courtesy of Editions Didier Millet.</i></div>
+<div style="background-color: white;">(Right) Nuffield Swimming Pool at the Britannia Club – named after the British philanthropist and founder of Morris Motors Company, Lord Nuffield – had been completed in 1951, a year before the clubhouse opened. It was one of Singapore’s first Olympic-sized pools. <i>Courtesy of Editions Didier Millet.</i><br></div>
 
 |**BE MY PIN-UP GIRL**|
 
@@ -180,4 +180,4 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 [^25]:*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960427-1.2.73.2.1)* , 27 Apr 1996, p. 2. 
 [^26]:Interview with Richard Chung.
 [^27]:[Civilians make full use of SAFE](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740731-1.2.18.1.aspx). (1974, July 31). *New Nation*, p. 2; *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960427-1.2.73.2.1)*, 27 Apr 1996, p. 2. 
-[^28]:*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960427-1.2.73.2.1)* , 27 Apr 1996, p. 2. 
+[^28]:*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960427-1.2.73.2.1)* , 27 Apr 1996, p. 2.
