@@ -149,3 +149,19 @@ The fact that Singapore has  embraced the sporting achievements of its Paralympi
 <p style="font-size:15px;">A former journalist with <i>The Straits Times</i>, <b>Chua Chong Jin</b> teaches communications at Nanyang Business School. Educated at the National University of Singapore and Cambridge University, he has written and edited various books, including <i>50est: Stirring Stories For The Singapore Soul</i> for the Singapore National Olympic Council.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Aplin, N. (2002). *[To the finishing line: Champions of Singapore Tang Pui Wah, May Klass, Janet Jesudason](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11547027)*. Singapore: SNP Editions. (Call no.: RSING 796.4209225957 APL)
+
+Aplin, N., et al. (2005). *[Singapore olympians: The complete who's who, 1936–2004](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12474475)*. Singapore: SNP Reference. (Call no.: RSING 796.4209225957 APL)
+
+Chen, M. (2013, February 27). [Another first for Laurentia Tan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130227-1.2.9.4). <i>The Straits Times, 3</i>. Retrieved from NewspaperSG.
+ 
+Chua, C.J. (2013). *[Gently yours, Maurice Nicholas: A true servant of athletics]()*. Monaco: International Association of Athletics Federation. (Not available in NLB holdings)
+
+Lim, L. (2010, May 23). [Singapore’s Mr Bowling](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100523-1.2.49.1.1). <i>The Straits Times</i>, p. 39. Retrieved from NewspaperSG.
+
+Sim, C.Y. (2008, September 16). [Touching home first](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080916-1.2.45.1). <i>The Straits Times</i>, p. 37. Retrieved from NewspaperSG.
+
+Voon, T. (2012, July 22). [An Olympic flame that burns on](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120722-2.2.55.5). <i>The Straits Times</i>, p. 47. Retrieved from NewspaperSG.
