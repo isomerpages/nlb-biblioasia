@@ -6,8 +6,7 @@ layout: post
 ---
 #### A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore. **Fiona Tan** details its major highlights.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/surviving-japanese-occupation/2-surviving-japanese-occupation.png)
-<div style="background-color: white;">Facade of the old Ford Factory on Upper Bukit Timah Road. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/2-surviving-japanese-occupation.png">Facade of the old Ford Factory on Upper Bukit Timah Road. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Along a relatively quiet stretch of Upper Bukit Timah Road, now dwarfed by high-rise condominiums, stands the Art Deco façade of the old Ford Factory – built in 1941 and designed by the French structural engineer Emile Brizay as Ford Motor Work’s first car assembly plant in Southeast Asia.
 
