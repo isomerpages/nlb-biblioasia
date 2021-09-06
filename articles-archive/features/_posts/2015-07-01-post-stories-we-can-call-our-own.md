@@ -132,8 +132,11 @@ In 1964, we brought in Mazda, but people didn’t trust a Japanese make. They wo
 
 I still love cars and will spend more than an hour washing my daughter’s car. The only part I don’t clean is the engine – I don’t want to dirty my nails!
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/RahmanKhan.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/Rosie_Ang.jpg)
+
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/Rosie_Ang_old.jpg)
 <div style="background-color: white;">Veteran car saleswoman Rosie Ang, 77, started out in the business when she was 20. Her working hours were long, but her hard work paid off, and she had plenty of referrals. She even delivered a car to Singapore’s first president, Yusof Ishak.</div>
+
 
 #### **A Voice for the Less Advantaged**
 
@@ -159,7 +162,8 @@ I feel in particular for the elderly. They are poorer in general, and things lik
 
 People should be allowed to work for as long as they think they can, and as long as their employer finds them producing good work.
 
-Singapore’s first woman Nominated MP Kanwaljit Soin says moving the Family Violence Bill in 1995 was her biggest achievement.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/DrKanwaljitSoin.jpg)
+<div style="background-color: white;">Singapore’s first woman Nominated MP Kanwaljit Soin says moving the Family Violence Bill in 1995 was her biggest achievement.</div>
 
 #### **Do You Know the Satay Man? He’s Moved**
 
@@ -175,7 +179,8 @@ I started selling less satay and more of other Malay food. My stall is named aft
 
 I still come in every day to my stall and eat a bowl of mee rebus or mee soto. This way I can ensure my son is doing a decent job, that the quality is still good.
 
-At age 94, Ngalirdjo Mungin still goes to his stall, which his son runs now, to check if the quality of the mee rebus and mee soto is good. 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/NgalirdjoMungin.jpg)
+<div style="background-color: white;">At age 94, Ngalirdjo Mungin still goes to his stall, which his son runs now, to check if the quality of the mee rebus and mee soto is good.</div> 
 
 #### **Sometimes You Need More than Prayers**
 
@@ -189,7 +194,8 @@ Once, while praying in the Mount Alvernia Hospital chapel, I saw this strapping 
 
 Once, while I was talking to him, a friend of his came by and told him: “Oh, you’re going to get better and we’ll go cycling again.” I was so angry because that was not reality. But I didn’t say anything because it’s not for me to say anyone is right or wrong. After his friend left, we talked about reality. He was not bitter at all, but worried about his children as he and his wife weren’t close. I told him: “She’s still a good mother.” His wife turned up eventually and didn’t desert him. I put my arms around her to comfort her as she was very upset. I have not got used to losing a patient; how can you? Sometimes I’ll be choking back tears at the service but I try to calm myself so I’ll be helpful to the families.
 
-Sister Thomasina Sewell is a nun in the Catholic order known as the Franciscan Missionaries of the Divine Motherhood. In 1961, she and 36 other nuns set up Mount Alvernia Hospital.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/Sr_Thomasina_Sewell.jpg)
+<div style="background-color: white;">Sister Thomasina Sewell is a nun in the Catholic order known as the Franciscan Missionaries of the Divine Motherhood. In 1961, she and 36 other nuns set up Mount Alvernia Hospital.</div>
 
 #### **My Son, the Award-winning Pathlight Artist**
 
@@ -213,7 +219,8 @@ Member of Parliament Denise Phua, who helped set up Pathlight, called Glenn “t
 
 When Glenn was younger, we would worry about his future. Now, we’re definitely more confident. Path- light recently set up an art gallery for its artists, which also sells works by students who have graduated. It feels like there’s a direction for Glenn now, and he can earn a living. 
 
-Glenn Phua, see here with his father Kelvin, was found to be autistic when he was four. His artistic talent was discovered when he won an art competition.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/GlennPuah.jpg)
+<div style="background-color: white;">Glenn Phua, see here with his father Kelvin, was found to be autistic when he was four. His artistic talent was discovered when he won an art competition.</div>
 
 |<i>Living The Singapore Story: Celebrating Our 50 Years 1965–2015</i> is on sale in bookshops at $19.65 (GST included). Commissioned by the National Library Board in celebration of Singapore’s Jubilee year, it features 58 Singaporeans describing how their lives evolved as Singapore changed over the past half-century. The stories featured on these pages are excerpts from the book.|
 
@@ -222,3 +229,5 @@ Glenn Phua, see here with his father Kelvin, was found to be autistic when he wa
 |This article and selected excerpts were first published in <i>The Sunday Times</i> on 17 May 2015. © Singapore Press Holdings Limited. Reprinted with permission.|
 
 <p style="font-size:15px;"><b>Han Fook Kwang</b> joined The Straits Times in 1989 and became its political editor in 1995. He served as editor of the paper from 2002 to 2012. He is currently Editor-at-large at the newspaper.</p>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
