@@ -4,7 +4,7 @@ date: 2015-07-01
 permalink: /articles-archive/features/permalink
 layout: post
 ---
-#### **At a time when rapid population growth, democratic politics and a slowing economy are fuelling tension, a “Singapore Dream” represents the kind of consensus that will serve as the political, economic and social glue for the future.**
+#### **What does it take to achieve the Singapore Dream? Parag Khanna identifies three important pillars – diplomacy, demography and technology.**
 
 For generations, people around the world aspired to emulate the "American Dream". This fundamental ethos connotes freedom, equal opportunity and upward mobility. As the post-Cold War world became a geopolitical marketplace, however, others have begun to articulate their own visions for the future.
 
@@ -61,3 +61,5 @@ Singapore became what it is today through big and risky initiatives but, equally
 The National Conversation in 2012 was a productive start. But it has brought Singapore only to the midpoint. Between then and Singapore’s 50th birthday in August 2015, everyone associated with Singapore should deliberate and develop their own Singapore Dream.
 
 <i>This article was first published in The Straits Times on 7 August 2013. © Parag Khanna.</i> Reprinted with permission.
+
+Parag Khanna is director of Hybrid Reality, a senior fellow of the Singapore Institute of International Affairs and an adjunct professor at the Lee Kuan Yew School of Public Policy. He is author of The Second World (2008) and How To Run The World (2011), and co-author of Hybrid Reality (2012).
