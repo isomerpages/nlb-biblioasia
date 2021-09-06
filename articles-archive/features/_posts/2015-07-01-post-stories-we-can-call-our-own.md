@@ -188,7 +188,7 @@ I still come in every day to my stall and eat a bowl of <i>mee rebus</i> or <i>m
 
 <b>After two heart attacks and more than 60 years as a nurse and mid-wife, Sister Thomasina Sewell, 81, still keeps patients company every day at the Assisi Hospital and Mount Alvernia Hospital.</b>
 
-The Assisi Hospice used to be a con- vent housing nuns, but we vacated it and refurbished it as a hospice for the terminally ill in 1992. The idea of nursing terminally ill patients is to give them quality of life. The way we care for them changes from how we do so in an acute hospital. We try to make the hospice home for such patients and their families, to help them come to terms with one another.
+The Assisi Hospice used to be a convent housing nuns, but we vacated it and refurbished it as a hospice for the terminally ill in 1992. The idea of nursing terminally ill patients is to give them quality of life. The way we care for them changes from how we do so in an acute hospital. We try to make the hospice home for such patients and their families, to help them come to terms with one another.
 
 You cannot allow the sadness to get to you, otherwise you are of no help to patients. But people shouldn’t think they have to be trained before they can be with them. Your presence is important because often, their fear is loneliness and that nobody understands what they are going through. That’s why every room in the hospice has a sofa, to encourage family members of patients to stay overnight.
 
@@ -207,11 +207,11 @@ During Glenn’s school holidays in 2010, we found a note in his schoolbag about
 
 A few months later, his school, Pathlight School, called and said: “Your son has won a big prize.” We had no idea what this was about, but took leave to attend the ceremony in Raffles Place. Only when we were there did we realise he had won first prize – a set of four F1 grandstand tickets and an opportunity for Glenn to sit in a real F1 car. 
 
-We discovered Glenn was autistic when he was four, when he had trou- ble making eye contact. He attended a mainstream primary school until halfway through Primary 2. We trans- ferred him to Pathlight, which teaches a mainstream curriculum and life skills to children with autism.
+We discovered Glenn was autistic when he was four, when he had trouble making eye contact. He attended a mainstream primary school until halfway through Primary 2. We transferred him to Pathlight, which teaches a mainstream curriculum and life skills to children with autism.
 
-After Glenn started attending Pathlight, I attended an anger manage- ment class that the school organised. I started trying some of the strategies, and also swapped notes with his teach- ers about what works for Glenn. We had a hard time with him, but children with autism are also the most loving.
+After Glenn started attending Pathlight, I attended an anger management class that the school organised. I started trying some of the strategies, and also swapped notes with his teachers about what works for Glenn. We had a hard time with him, but children with autism are also the most loving.
 
-We didn’t actually realise Glenn had this talent. When he was about eight or nine, he drew a lot of cartoons, copying characters from Peanuts or The Simpsons, and they were very good, but we didn’t think much of this, because all children doodle. But since Glenn won the F1 competition, he has drawn more than 150 pictures. He never sketches – he just puts pen to paper and draws. 
+We didn’t actually realise Glenn had this talent. When he was about eight or nine, he drew a lot of cartoons, copying characters from <i>Peanuts or The Simpsons</i>, and they were very good, but we didn’t think much of this, because all children doodle. But since Glenn won the F1 competition, he has drawn more than 150 pictures. He never sketches – he just puts pen to paper and draws. 
 
 We didn’t actually realise Glenn had this talent. When he was about eight or nine, he drew a lot of cartoons, copying characters from Peanuts or The Simpsons, and they were very good, but we didn’t think much of this, because all children doodle. But since Glenn won the F1 competition, he has drawn more than 150 pictures. He never sketches – he just puts pen to paper and draws. 
 
@@ -219,7 +219,7 @@ Glenn’s drawings are extremely detailed. He takes about 20 to 25 hours on aver
 
 Member of Parliament Denise Phua, who helped set up Pathlight, called Glenn “the Stephen Wiltshire of Singapore”, referring to the famous British artist who has autism. 
 
-When Glenn was younger, we would worry about his future. Now, we’re definitely more confident. Path- light recently set up an art gallery for its artists, which also sells works by students who have graduated. It feels like there’s a direction for Glenn now, and he can earn a living. 
+When Glenn was younger, we would worry about his future. Now, we’re definitely more confident. Path-light recently set up an art gallery for its artists, which also sells works by students who have graduated. It feels like there’s a direction for Glenn now, and he can earn a living. 
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/GlennPuah.jpg)
 <div style="background-color: white;">Glenn Phua, see here with his father Kelvin, was found to be autistic when he was four. His artistic talent was discovered when he won an art competition.</div>
