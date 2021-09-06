@@ -4,3 +4,46 @@ date: 2015-07-01
 permalink: /articles-archive/features/permalink
 layout: post
 ---
+#### **At a time when rapid population growth, democratic politics and a slowing economy are fuelling tension, a “Singapore Dream” represents the kind of consensus that will serve as the political, economic and social glue for the future.**
+
+For generations, people around the world aspired to emulate the "American Dream". This fundamental ethos connotes freedom, equal opportunity and upward mobility. As the post-Cold War world became a geopolitical marketplace, however, others have begun to articulate their own visions for the future.
+
+Soon after the launch of the euro currency, Jeremy Rifkin captured the old world's ambitions for collective resurrection in his book The European Dream. In 2013, China's new President Xi Jinping made global head-lines by using the phrase "Chinese Dream" in  his  speech  to  the  National  People's Congress. It was an attempt to capture the national drive for sustainable prosperity and national greatness.
+
+But large empires are not the only players entitled to dream. In an age characterised by superpowers and city-states alike, Singapore would benefit greatly from a shared vision  for  its  residents  and  its  role  in  the world. On the back of the 2012–13 National Conversation sessions, what vision will they offer for Singapore's next decades? How will the  insights  gained  translate  into  policy? Who will be its ambassadors? 
+
+The idea for a China Dream was first developed  by  the  Shanghai-based  non-governmental organisation Joint US-China Collaboration on Clean Energy (JUCCCE). This dynamic start-up managed a co-creation process called Dream-in-a-Box involving both officials and citizens. Indeed, even before Xi's speech, the term had spread in China and inspired artists and social entrepreneurs. Beginning with a neutral facilitator, it remains a democratic flowering of ideas and projects. 
+
+China's success is not guaranteed, of course. A great many challenges lie ahead as it pursues its global agenda. But that is the point. The dream is something worth striving  for.  This  is  a  good  template  for Singapore to follow.
+
+#### **Political, Economic and Social Glue** 
+
+At  a  time  when  rapid  population  growth, democratic politics and a slowing economy are fuelling tension, a "Singapore Dream" represents the kind of consensus that will serve as the political, economic and social glue  for  the  future.  Prime  Minister  Lee Hsien Loong has conceded that Singapore is  becoming  a  "normal"  country;  a  new consensus will help maintain the country's extraordinary trajectory.
+
+Some of the buzzwords that can bring Singapore to the next level are already widely debated. These include productivity, sustainability, innovation, liveability, diversification and  creativity.  In  terms  of  infrastructure, a  new  port  is  under  construction,  and  a high-speed  rail  will  connect  Singapore with  Kuala  Lumpur  in  time  to  come.  The MRT network is also expanding, fibre-optic coverage  is  nearly  complete,  and  Jurong Island  is  being  upgraded.  There  are  also new commercial hubs under development from Jurong to Seletar.
+
+On the softer side, health-care coverage  is  expanding,  while  new  universities and training institutes have been launched. The housing market is also being refocused on access for the majority, and a reformulated  social  contract  is  being  devised  to bridge inequalities.
+
+All of this is laudable and necessary, yet bold decisions still have to be made: What strategic sectors can generate large-scale employment in the next economic master plan? Should there be a minimum wage? What is the most appropriate immigration policy?  Which  additional  protections  and services are immediately necessary for the retired  and  elderly?  What  should  be  the obligations  of  Singapore's  many  wealthy foreign residents?
+
+Answering  these  highly  political  yet socially fundamental questions is essential to achieving the Singapore Dream.
+
+To my mind, there are at least three fundamental pillars that should be pursued.
+
+#### **Importance of Diplomacy** 
+
+The first pillar is diplomatic. Singapore must be seen as the capital of Asia. Switzerland, Singapore's counterpart in Europe, has deftly used  neutrality  to  thrive  as  a  functioning democracy for more than 700 years.
+
+There  is  no  doubt  that  Singapore  is Asean's beacon, but for 30 years it has also been China's. The coming decades will be different. Singapore no longer holds iconic status in China's eyes. China has already studied  Singapore  thoroughly  and  now has many friends, investors and mentors. This puts a premium on the diplomacy of multi-alignment in which Singapore must continue to attract and build strong relationships  in  all  directions more cleverly than far larger nations.
+
+Singapore will have ample opportunities to prove itself. These include spearheading commercial strategies across the region, helping to resolve the South China Sea dispute and hosting a potential Asian central bank to coordinate currencies. Nobody will bestow the title "Capital of Asia" on Singapore; it must seize it.
+
+#### **Demography and Global City**
+
+The second pillar is demographic. Being the  diplomatic  heart  for  half  the  world's population  is  possible  only  if  Singapore embraces  the  responsibilities  of  being  a global city as well.
+
+New York and London are multinational melting  pots  in  addition  to  being  global financial centres. Singapore in fact has an even  higher  percentage  of  foreign-born residents,  ranking  only  behind  cities  like Dubai and Toronto. Dubai is already a place with far more international residents than domestic citizens, that is, people who have voluntarily moved there and planted roots.
+
+Singapore  is  undeniably  Asia's  premier destination for a high quality of life. It  also  seems  certain  that  it  will  reach  a population  of  about  eight  million  people in a generation, at least half of whom will be  non-Singaporean.  Rather  than  struggle  against  this  trend,  Singapore  should embrace it and build for it.
+
+Indeed, this means it could pioneer a model of stakeholdership beyond citizenship  that  confers  obligations  on  all  residents irrespective of their national origin. Then Singapore would truly be a leading global city, a microcosm of global society with a sense of unity despite diversity.
