@@ -100,7 +100,7 @@ It was not uncommon for studios or artists to sign just one window in a cluster 
 
 Researchers must therefore undertake a comparative study of stained glass windows within the same building by examining the painting style, glazing technique, types of leads used, and the composition of the windows. These details help ascertain the studio or artist behind the windows. Looking at the style of the various apsidal windows, as well as the two transept windows, and armed with further evidence from the Dobbelaere cartoons, we can safely conclude that all the windows of St Joseph’s Church were produced by the workshop of Jules Dobbelaere.
 
-#### **CHIJ CHAPEL IN CHIJMES**
+#### **CHIJ Chapel in CHIJMES**
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/windows-into-history/2-windows_into_history01.png)
 <div style="background-color: white;">Interior view of the chapel at the Convent of the Holy Infant Jesus (CHIJ) located at the corner of Bras Basah Road and Victoria Street. Designed by Father Charles-Bénédict Nain, the chapel was completed in 1903 and consecrated on 11 June 1904. Photo taken in the early 1900s. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
@@ -119,7 +119,7 @@ A few sets of cartoons from the Leuven archives can be linked in terms of theme 
 
 Comparing these cartoons with the chapel windows provides some insights.
 
-#### **GLASS IN THE APSE**
+#### **Glass in the Apse**
 
 In the apse, all five extant lancet windows are based on themes outlined in the Dobbelaere cartoons of these windows.
 
