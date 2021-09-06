@@ -87,8 +87,8 @@ According to Rabiah Ibrahim, whose father was a doctor, her siblings and herself
 
 At its most successful, there were also Trend shops in San Francisco and Hong Kong. By the 1980s, when she migrated to Perth to become a Bible teacher and sold her Trend business to fellow fashion entrepreneur Chan Kheng Lin, it had become a 23-store, multi-million-dollar business.
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/1960s-fashion/4-1960s%20fashion.jpg)
-<div style="background-color: white;">The word “modern” aptly describes these cover girls, who were ahead of their time in the 1960s. From top: Sybil Schwencke, who went from being a flight hostess to a beauty guru; Phila Mae Wong, who inherited her love for fashion from her entrepreneurial mother; and Chan See Foon, who was arguably Singapore’s first supermodel. <i>All magazine covers courtesy ofSingapore Press Holdings.</i></div>
+<img src="/images/Vol-12-issue-4/1960s-fashion/4a-1960s-fashion.jpg">
+<div style="background-color: white;">The word “modern” aptly describes these cover girls, who were ahead of their time in the 1960s. From top: Sybil Schwencke, who went from being a flight hostess to a beauty guru; Phila Mae Wong, who inherited her love for fashion from her entrepreneurial mother; and Chan See Foon, who was arguably Singapore’s first supermodel. <i>All magazine covers courtesy of Singapore Press Holdings.</i></div>
 
 #### **Fashion Pioneer**
 
