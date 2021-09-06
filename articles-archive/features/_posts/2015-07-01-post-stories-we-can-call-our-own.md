@@ -63,7 +63,7 @@ If we do not find a way of recording and remembering them, it will be like those
 
 Being in and out of jail so many times since I was 17 did not scare me off  prison life. Being in prison was no  big deal; some prisoners wanted to  return to prison because they found that better than having to face society.
 
-n 1994, two weeks after I gave birth to my only child, Valerie, I was jailed yet again. I’m aggressive and  argumentative by nature and I always had the spirit of buay sai see (must not die in Hokkien).
+n 1994, two weeks after I gave birth to my only child, Valerie, I was jailed yet again. I’m aggressive and  argumentative by nature and I always had the spirit of <i>buay sai see</i> (must not die in Hokkien).
 
 But this time, I had post-natal  depression, missed my baby and was worried about how my mother, who’d just been told she had cervical cancer, would cope with bringing up Valerie. I thought: “I’ve been such a burden to my mother, and I can’t change. It’s best to end it all.” I took a metal spike from the toilet brush and cut my wrists... The wardens saved me.
 
@@ -71,11 +71,11 @@ But I was still not motivated  to change my ways. I just wanted to damage myself
 
 In 2003, when I was 38 and had started serving my longest-ever prison sentence – 8½ years, later reduced to six years – I began reading books on religion and philosophy from the prison library. Age was catching up with me.  I thought: “I can’t keep living like this.”
 
-The following year, I learnt that the prison authorities were starting Southeast Asia’s first prison call  centre, as part of the Yellow Ribbon Project that had just been set up to help ex-offenders find jobs to re-integrate into society. I wanted to  work there because it was a white- collar job for which I had to use only my voice, and not my appearance. So I’d be able to work till I was very old.
+The following year, I learnt that the prison authorities were starting Southeast Asia’s first prison call  centre, as part of the Yellow Ribbon Project that had just been set up to help ex-offenders find jobs to re-integrate into society. I wanted to  work there because it was a white-collar job for which I had to use only my voice, and not my appearance. So I’d be able to work till I was very old.
 
-I was released from my last  prison term on 11 November 2008. A week later, I began working at call cen- tre Connect Centre’s headquarters. It’s been a big learning experience and it has taken me to new places.
+I was released from my last  prison term on 11 November 2008. A week later, I began working at call centre Connect Centre’s headquarters. It’s been a big learning experience and it has taken me to new places.
 
-Most newly released ex-offend- ers have no money, so Connect gives them $10 a day for meals until they get their first month’s pay of about $1,000. They need to stay focused by holding a steady job because that disciplines and stabilises them.
+Most newly released ex-offenders have no money, so Connect gives them $10 a day for meals until they get their first month’s pay of about $1,000. They need to stay focused by holding a steady job because that disciplines and stabilises them.
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/AngelNg.jpg)
 <div style="background-color: white;">Angel Ng oversees more than 50 employees, many of them ex-offenders,  at Connect Centre. It trains former inmates at its three call centres so they have a chance at holding down steady jobs and re-integrating into society.</div>
@@ -90,7 +90,7 @@ I was the first test-tube baby  born in A sia on 19 May 1983. My  father was 21 
 
 I was born to great media  attention, which made my parents  uncomfortable. We were ordinary  Singaporeans living in a three-room flat in Woodlands. My father was a  security supervisor and my mother  a secretary. Thankfully, the in-vitro  fertilisation (IVF) was subsidised, and thus affordable to them.
 
-My birth might have been consid- ered extraordinary, but I was raised like any ordinary Singaporean. I got my first inkling that I was somehow different from other kids when I heard other people referring to me as a test-tube baby when I was four or five. I asked my parents about it, and they just gave me a simple explanation of how I came about. I used to ask my parents for a sibling. They’d laugh and tell me it was a very difficult request to fulfil. It was only when I was older – around 13 – that I understood why and realised what my birth really meant.
+My birth might have been considered extraordinary, but I was raised like any ordinary Singaporean. I got my first inkling that I was somehow different from other kids when I heard other people referring to me as a test-tube baby when I was four or five. I asked my parents about it, and they just gave me a simple explanation of how I came about. I used to ask my parents for a sibling. They’d laugh and tell me it was a very difficult request to fulfil. It was only when I was older – around 13 – that I understood why and realised what my birth really meant.
 
 The late Prof Ratnam gave me the name Samuel. I don’t know why. We did not really stay in touch after my birth. But I do e-mail and text Prof Ng occasionally. Without them, there wouldn’t have been me.
 
@@ -109,9 +109,9 @@ I was shot by this guy we called the “Cop Killer” in 1973. He shot and kille
 
 We managed to trace him to  Cavenagh Road Apartments and used a ruse to get him out. When he came running out, a colleague put him in a headlock, but Botak had already pulled out a gun. I grabbed hold of the gun, a stolen police revolver, and he fired two rounds which burned my palm. A third shot grazed my stomach. We couldn’t subdue him, so my colleague shot  him twice in the arm, but Botak still wouldn’t drop his weapon. Then other colleagues rushed in, and one fired a shot that I felt go past my ear, which hit Botak in the head.
 
-Then there was the disaster in 1978, when the Greek tanker Spyros exploded at Jurong Shipyard. We spent one solid week in the mortuary, which had only a few refrigerated compart- ments in which to keep bodies. But we had 76 bodies, and had to leave them lying around on the floor to decompose. 
+Then there was the disaster in 1978, when the Greek tanker Spyros exploded at Jurong Shipyard. We spent one solid week in the mortuary, which had only a few refrigerated compartments in which to keep bodies. But we had 76 bodies, and had to leave them lying around on the floor to decompose. 
 
-I remember we were eating  nasi briyani at an operating table  with bodies on the floor. We had to  take our food there as we couldn’t  leave, as we were waiting for people to come in to identify the bodies, and every hour the body changes because of decomposition. After that, I had to throw away all the clothes I was wearing, including my undergarments, shoes, everything, because it all stank. Even a few days after we were done, when I sat in the bus, people were still holding their noses, because the smell sticks to your skin. You bathe with Dettol, you wash your hair, the stink is still there.
+I remember we were eating  <i>nasi briyani</i> at an operating table  with bodies on the floor. We had to  take our food there as we couldn’t  leave, as we were waiting for people to come in to identify the bodies, and every hour the body changes because of decomposition. After that, I had to throw away all the clothes I was wearing, including my undergarments, shoes, everything, because it all stank. Even a few days after we were done, when I sat in the bus, people were still holding their noses, because the smell sticks to your skin. You bathe with Dettol, you wash your hair, the stink is still there.
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/RahmanKhan.jpg)
 <div style="background-color: white;">Veteran police officer Abd Rahman Khan Gulap Khan was at the front line of several major investigations.</div>
@@ -120,11 +120,11 @@ I remember we were eating  nasi briyani at an operating table  with bodies on th
 
 <b>Singapore’s first car saleswoman Rosie Ang, 77, took on a man’s job and stayed 53 years.</b>
 
-President Benjamin Sheares sum- moned me to the Istana after my boss sold him a car in the early 1970s. He said: “Rosie, you tell your boss to please rectify the problem because the car keeps stalling.” But I didn’t mind being scolded because I got to see his office at the Istana – so nice!
+President Benjamin Sheares summoned me to the Istana after my boss sold him a car in the early 1970s. He said: “Rosie, you tell your boss to please rectify the problem because the car keeps stalling.” But I didn’t mind being scolded because I got to see his office at the Istana – so nice!
 
 Mr Sheares was not the only president I met in my career. Asia Motor, which I joined in 1958, also sold a Peugeot to our first president, Yusof Ishak. I delivered the car to him at the Istana too.
 
-When I left school, I saw an adver- tisement for a sales representative at Asia Motor. I was 20 then and already into cars. I had passed my driving test the year before. The person who inter- viewed me asked if I knew about car engines. I said: “If you give me a chance, I can learn. I also love to meet people, I love to talk, I like to move around, and I drive.” I got the job.
+When I left school, I saw an advertisement for a sales representative at Asia Motor. I was 20 then and already into cars. I had passed my driving test the year before. The person who inter- viewed me asked if I knew about car engines. I said: “If you give me a chance, I can learn. I also love to meet people, I love to talk, I like to move around, and I drive.” I got the job.
 
 My colleagues, all men, were sceptical. After all, I was the first woman car sales rep in Singapore. They were polite but didn’t really teach me how to sell. Since I was new and didn’t have my own pool of customers, I couldn’t sit in the showroom and wait for people to come. So I went out to canvass for sales in the diesel Peugeot 403 that the company provided. In my high heels – never court shoes – I drove everywhere, even to muddy areas in Jurong.
 
