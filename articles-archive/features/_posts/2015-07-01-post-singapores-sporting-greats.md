@@ -84,13 +84,13 @@ The 1970s was also a time when other sports started to make their mark. Boxing, 
 Bowling too started to gain popularity, with the likes of Henry Tan and Adeline Wee giving it a boost with their international  success. Tan, for instance, won silver medals at the 1970 World Cup in Copenhagen and the 1975 World FIQ Championships in London, where he also set a then-world  record high game of 298. These achievements earned him the Sportsman of the Year award twice – in 1971 and 1976.  No mean feat for someone who, due to  financial constraints, could not afford the fees at the now-defunct Jackie's Bowl at Orchard and had to improvise and make  do with the humble cement factory where he worked as his training ground. Among other things, Tan had made his own ball and drew arrows in an open area of the  factory to mimic a bowling lane. 
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Syed_Abdul_Kadir.jpg)
-<div style="background-color: white;">Growing up, Syed Abdul Kadir was inspired by American heavyweight boxer Joe Louis. He won a bronze medal at the 1974 New Zealand Commonwealth Games. National Library Board.</div>
+<div style="background-color: white;">Growing up, Syed Abdul Kadir was inspired by American heavyweight boxer Joe Louis. He won a bronze medal at the 1974 New Zealand Commonwealth Games. <i>National Library Board.</i></div>
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Fandi.jpg)
-<div style="background-color: white;">Singapore’s most famous footballer Fandi Ahmad scored the winning goal that resulted in Singapore winning the Malaysia Cup in 1980.  Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.</div>
+<div style="background-color: white;">Singapore’s most famous footballer Fandi Ahmad scored the winning goal that resulted in Singapore winning the Malaysia Cup in 1980.  <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul.</div>
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/aps.jpg)
-<div style="background-color: white;">Ang Peng Siong clocked the world’s fastest time for the men’s 50-metre freestyle event at the United States Swimming Championships at Indianapolis in 1982. Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.</div>
+<div style="background-color: white;">Ang Peng Siong clocked the world’s fastest time for the men’s 50-metre freestyle event at the United States Swimming Championships at Indianapolis in 1982. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul.</div>
 
 
 #### **The 1980s: The “Kallang Roar”**
@@ -116,19 +116,19 @@ The 1990s and beyond also witnessed the start of a more professional approach to
 Starting with Jin Junhong in the 1990s, table tennis – boosted by the import of  foreign talents – rose to a whole new level. With her fourth placing in the women’s  singles at the 2000 Sydney Olympics, she created a path for the likes of Li Jiawei and Feng Tianwei who eventually won Olympic medals for Singapore. Today, there is still a gap between the city state and major sporting powers but prospects are bright with the import of foreign athletes to complement local stars, investments in infrastructure and talent, monetary incentives for sporting success in major competitions, better sponsorships and a growing appreciation among people of the role of sports in society. World beaters in sports are no longer a rarity as the city-state seeks a superior standing among nations in the sporting  arena – a standing which it hopes will mirror its glowing reputation in other fields  that Singapore has thus far excelled in.
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Feng_Tianwei.jpg)
-<div style="background-color: white;">Feng Tianwei was part of Singapore’s women’s table tennis team that won a silver medal at the 2008 Beijing Olympics. She clinched bronze in the women’s singles at the 2012 London Olympics. Courtesy of Sport Singapore.</div>
+<div style="background-color: white;">Feng Tianwei was part of Singapore’s women’s table tennis team that won a silver medal at the 2008 Beijing Olympics. She clinched bronze in the women’s singles at the 2012 London Olympics. <i>Courtesy of Sport Singapore.</i></div>
  
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Ben_Tan.jpg)
-<div style="background-color: white;">Former national sailor Benedict Tan successfully juggled sports and studies, and clinched gold in the 1994 Hiroshima Asian Games. Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.</div>
+<div style="background-color: white;">Former national sailor Benedict Tan successfully juggled sports and studies, and clinched gold in the 1994 Hiroshima Asian Games. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul.</div>
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Wung_Yew.jpg)
-<div style="background-color: white;">Retired national shooter Lee Wung Yew competed in three Olympics, six Asian Games and 11 Southeast Asian Games. Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.</div>
+<div style="background-color: white;">Retired national shooter Lee Wung Yew competed in three Olympics, six Asian Games and 11 Southeast Asian Games. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul.</div>
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Colin_Cheng.jpg)
-<div style="background-color: white;">National sailor Colin Cheng came in 15th out of 49 boats in the men’s Laser event at the 2012 London Olympics. Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul.</div>
+<div style="background-color: white;">National sailor Colin Cheng came in 15th out of 49 boats in the men’s Laser event at the 2012 London Olympics. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul.</div>
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Joseph_Schooling.jpg)
-<div style="background-color: white;">2014 Asian Games gold medallist Joseph Schooling is arguably the most successful product among our US-based swimmers. Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est: Stirring Stories For The Singapore Soul. </div>
+<div style="background-color: white;">2014 Asian Games gold medallist Joseph Schooling is arguably the most successful product among our US-based swimmers. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul. </div>
 
 #### **Paralympian Winners**
 
@@ -141,10 +141,10 @@ Together with swimmer Theresa Goh, who suffers from spina bifida  but has been m
 The fact that Singapore has  embraced the sporting achievements of its Paralympians with as much pride as those of its able-bodied athletes is perhaps an indication of the society it has become. Significantly, when Tan  won The Straits Times Athlete of the Year award, she edged out some big  names in Singapore sports, including table tennis star Feng Tianwei and world champion bowler Shayna Ng.
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Laurentia_Tan.jpg)
-<div style="background-color: white;">Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. Photo courtesy of Sport Singapore.</div>
+<div style="background-color: white;">Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. <i>Photo courtesy of Sport Singapore.</i></div>
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Yip_Pin_Xiu.jpg)
-<div style="background-color: white;">Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. Photo courtesy of Sport Singapore.</div>
+<div style="background-color: white;">Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. <i>Photo courtesy of Sport Singapore.</i></div>
 
 <p style="font-size:15px;">A former journalist with <i>The Straits Times</i>, <b>Chua Chong Jin</b> teaches communications at Nanyang Business School. Educated at the National University of Singapore and Cambridge University, he has written and edited various books, including <i>50est: Stirring Stories For The Singapore Soul</i> for the Singapore National Olympic Council.</p>
 
