@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Sue-Ann Chia** traces the classic rags-to-riches story of a vegetable seller turned land speculator who left a hospital named after him in Singapore.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/1-from_pauper_to_philanthropist.jpg">Portrait of Tan Tock Seng, c.1840. <i>Margaret Tan Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/1-from_pauper_to_philanthropist.jpg">Portrait of Tan Tock Seng, c.1840. <i>Margaret Tan Collection, courtesy of National Archives of Singapore.</i></div>
 
 In 1989, a large and elaborate grave on the grassy slopes of Outram Hill was “discovered” by Geraldine Lowe, a well-known Singaporean tour guide. Overgrown with a tangle of weeds and covered in dirt, the decrepit tomb appeared abandoned.
 
