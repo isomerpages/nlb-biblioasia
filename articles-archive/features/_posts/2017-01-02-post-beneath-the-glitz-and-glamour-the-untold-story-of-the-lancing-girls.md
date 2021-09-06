@@ -139,18 +139,18 @@ When asked if there was anything in their past they wished they had done differe
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/glitz-and-glamour/blank-author.png">
-	<b>Michelle Heng </b> is a Literary Arts Librarian at the National Library, Singapore. She is a regular contributor to BiblioAsia and has edited publications including Edwin Thumboo – Time-travelling: A Selected Annotated Bibliography (2012) and Selected Poems of Goh Poh Seng (2013).</div>
-	
+	<b>Adeline Foo</b> was awarded the National Library’s Lee Kong Chian Research Fellowship in February 2016. This article is the condensed version of her research paper submitted as part of the fellowship.</div>
+
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/glitz-and-glamour/blank-author.png">
-	<b>Adeline Foo</b> was awarded the National Library’s Lee Kong Chian Research Fellowship in February 2016. This article is the condensed version of her research paper submitted as part of the fellowship.</div>
+	<b>Michelle Heng </b> is a Literary Arts Librarian at the National Library, Singapore. She is a regular contributor to BiblioAsia and has edited publications including Edwin Thumboo – Time-travelling: A Selected Annotated Bibliography (2012) and Selected Poems of Goh Poh Seng (2013).</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
 #### **Notes**
 
-[^1]:Foo, A. (2016, April 30). The ‘lancing’ girls from a glitzy world. *The Straits Times*. Retrieved from Factiva.
+[^1]:Foo, A. (2016, April 30). The ‘lancing’ girls from a glitzy world. *The Straits Times*. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg) website.
 [^2]:[Pleasure domes of the past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870708-1.2.64.2.1).(1987, July 8). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^3]:[Club aids cabaret girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19530827-1.2.50). (1953, August 27). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^4]:王振春. (1990).《[根的系列之二](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11895220)》(p. 153). 新加坡: 胜友书 局. Call no.: Chinese RCLOS 959.57 WZC.
