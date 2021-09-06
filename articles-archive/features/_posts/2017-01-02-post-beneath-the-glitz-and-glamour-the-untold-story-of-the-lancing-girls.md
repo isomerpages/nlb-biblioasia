@@ -78,7 +78,7 @@ A one-hour job that included a haircut, shampoo, shave and ear cleaning cost $2.
 
 The limited jobs for women in the 1950s included seamstresses, sales assistants, tour guides, cabaret singers and restaurant waitresses. Many also took to working privately as domestic servants and washerwomen. If a girl was educated, there were more options available to her, such as an office secretary or a private tutor. But many of these jobs didn’t pay as well as that of a cabaret girl. So if a woman was good looking and money was a motivation, dancing in the cabarets provided a means to quick and easy money. A cabaret girl could earn anything between $200 and $1,000 a month. In comparison, a senior clerk working in the government back in 1952 would only earn $280 a month.[^16]  Clearly, some women chose to work in the cabaret as dancing girls because it paid well and few employment opportunities were open to them.
 
-#### **The Glitz and Glamour of “Lancing” Girls**
+#### **THE GLITZ AND GLAMOUR OF "LANCING" GIRLS**
 
 Looking good and well-groomed was part and parcel of the job of a “lancing” girl. Advertisements and pictures from newspapers published during the heyday of these cabarets provide a peek into the fashion sense of the show girls.
 
@@ -110,7 +110,7 @@ The cabaret isn’t just something only older Singaporeans remember. Younger Sin
 Set in the 1960s, *Beauty World* tells the story of a small-town Malaysian girl, Ivy Chan Poh Choo from Batu Pahat, who travels to Singapore to uncover the mystery of her parentage. Her only clue to finding her father is a jade locket inscribed with the words “Beauty World”, which leads her to join the seedy cabaret where most of the action unveils. Within the complex world of scheming cabaret girls and lascivious men, Ivy has to find her feet and still remain true to her boyfriend Frankie.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/glitz-and-glamour/7-beneath_glitz_glamour.jpg)
-<div style="background-color: white;">A TheatreWorks production of Beauty World directed by Ong Keng Sen. It was first staged by Theatre- Works in 1988 and toured Japan in 1992. <i>Courtesy of TheatreWorks (S) Ltd.</i></div>
+<div style="background-color: white;">A TheatreWorks production of <i>Beauty World</i> directed by Ong Keng Sen. It was first staged by Theatre- Works in 1988 and toured Japan in 1992. <i>Courtesy of TheatreWorks (S) Ltd.</i></div>
 
 The cabaret inspiration for the musical was replete with music and lyrics reminiscent of the *cha-cha-cha* dance era. When asked why he set the story in a cabaret, Michael Chiang explained that the cabaret was “something nostalgic that was also unique to Singapore.” Ong Keng Sen in a commentary published in *Private Parts and Other Play Things: A Collection of Popular Singapore Comedies* said, “… Michael’s plays are charged with a raw community energy and pride which reverberates in the theatre. His work crosses language and racial boundaries by celebrating our Singaporeanness rather than by dividing us.”[^20] 
 
