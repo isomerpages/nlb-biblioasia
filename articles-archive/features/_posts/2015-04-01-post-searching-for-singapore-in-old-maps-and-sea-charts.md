@@ -94,7 +94,7 @@ From this perspective, these early modern sea charts are more than an encapsulat
 
 |**GeolGraphic: What Is the Exhibition About?**|
 
-|Curated by the National Library Board, “Geo|Graphic: Celebrating Maps and their Stories” is a combination of exhibitions and programmes that explore maps and mapping in their historical and contemporary contexts. The maps – which date back to as early as the 15th century – are drawn from the collections of the National Library, Singapore, and the National Archives of Singapore and supplemented by rare maps specially flown in from Britain and the Netherlands. This is a unique opportunity to see printed and hand-drawn maps that are on public display for the first time in Singapore|
+|Curated by the National Library Board, “GeolGraphic: Celebrating Maps and their Stories” is a combination of exhibitions and programmes that explore maps and mapping in their historical and contemporary contexts. The maps – which date back to as early as the 15th century – are drawn from the collections of the National Library, Singapore, and the National Archives of Singapore and supplemented by rare maps specially flown in from Britain and the Netherlands. This is a unique opportunity to see printed and hand-drawn maps that are on public display for the first time in Singapore|
 
 |GeolGraphic is currently taking place at the National Library Building until 19 July 2015. The exhibition takes place on different levels of the building.|
 
