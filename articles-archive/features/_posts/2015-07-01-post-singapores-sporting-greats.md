@@ -32,4 +32,15 @@ Singapore’s “Flying Fish” Neo Chwee Kok won four gold medals at the 1951 A
 
 Weightlifter Tan Howe Liang won Singapore’s first Olympic medal, a silver, at the 1960 Rome Olympics.<i>Image courtesy of Sport Singapore.</i>
 
+#### **The 1940s and 1950s: Athletes Par Excellence**
+
+These prominent examples aside, the 1940s and 1950s also yielded some of Singapore’s most  colourful  sports  personalities. In football, there were goalkeeper Chu Chee Seng – who was renowned for his reflexes and agility – and Chia Boon Leong, a crafty midfielder nicknamed "Twinkle Toes" famous for his dribbling and passing. They were the driving force behind the Singapore team that won the Malaya Cup for three years in succession: in 1950, 1951 and 1952.
+
+Badminton produced the indomitable Wong Peng Soon, arguably Singapore’s greatest athlete. In 1950, the fierce competitor known for his court craft and graceful footwork became the first Asian to win the All-England Championships, and repeated the feat in 1951, 1952 and 1955. He was also a member of the victorious Malayan Thomas Cup teams of 1949, 1952 and 1955. Disciplined and meticulous, Wong was an athlete ahead of his time – a professional who did not let success get to his head. During the arduous 28-day steamship journey to the 1949 Thomas Cup tournament in Preston, England, for example, he and his teammates found ways to maintain their fitness by training on board the ship.
+
+
 <p style="font-size:15px;">A former journalist with <i>The Straits Times</i>, <b>Chua Chong Jin</b> teaches communications at Nanyang Business School. Educated at the National University of Singapore and Cambridge University, he has written and edited various books, including <i>50est: Stirring Stories For The Singapore Soul</i> for the Singapore National Olympic Council.</p>
+
+In water polo, there were the Tan brothers – Eng  Chai, Eng Bock and Eng Liang. Their story began in the 1930s with their father Tan Wee Hong, who lived near Pasir Panjang and joined the now-defunct Tiger Swimming Club where he played water polo. For Eng Bock and Eng Liang, taking part in the 1956 Melbourne Olympics together marked a high point in their sports careers. Eng Liang – who later became Singapore's first Rhodes scholar and earned a doctorate in chemistry from Oxford University – recalls, “From the sweat and tears shed in training, to the glorious moment of marching at the opening ceremony, to the deep friendships made... my memories of Melbourne are truly ones that I will always cherish.”
+
+Then  there  was  Singapore’s  only quadruple athlete Arumugam Vijiaratnam who, between 1946 and 1956, represented the country in football, hockey, cricket and rugby. Guided by a desire to “reach the pinnacle”  in whatever he pursued, the former Victoria School boy – who was an early example of someone who balanced sports and studies admirably – also represented Singapore in hockey at the 1956 Melbourne Olympics.
