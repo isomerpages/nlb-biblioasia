@@ -94,6 +94,13 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 |**TEMPLE MILESTONES**|
 |1827|Opens as a small wood-and-attap structure.|
 |1843|Brick building replaces the wood-and-attap structure.|
+|1862–63|Major reconstruction of the temple takes place.|
+|1936|Major facelift, including construction of five-tiered gopuram.|
+|1949|Minor repair works carried out, including a fresh coat of paint.|
+|1960s|Restoration and decoration of the gopuram with elaborate sculptures and carvings.|
+|1971|Addition of new statues and murals; removal of some statues, such as those of the Indian sepoys.|
+|1960s|Restoration and decoration of the gopuram with elaborate sculptures and carvings.|
+|1960s|Restoration and decoration of the gopuram with elaborate sculptures and carvings.|
 
 <div style="background-color: white;">
 <br>
