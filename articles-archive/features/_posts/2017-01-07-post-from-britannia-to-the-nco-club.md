@@ -121,8 +121,8 @@ In 2000, the last battalion at Beach Road Camp moved out and a year later, in Oc
 
 |A non-profit business arm of the military was set up called SAF Enterprises, or in short, SAFE. The intention was for these no-frills SAFE stores to pass on the savings accrued from rentfree premises and bulk purchases to military personnel and their families.[^23]|
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/7-britannia-nco.jpg">The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i></div>
-<br>
+<div style="background-color: white;"><img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/7-britannia-nco.jpg">The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i><br></div>
+
 |Within months of the announcement, two SAFE supermarkets opened, one at Dempsey Road Camp and the other at the NCO Club. Apart from air-conditioning, the supermarkets had none of the luxuries one would find in an Orchard Road store. SAFE did give the downtown stores a run for their money though – selling groceries, basic furniture like PVC sofas and dining chairs as well as small electrical items like hairdryers and fans at significantly discounted prices.[^24]|
 
 |Soldiers and their families descended on the supermarkets in droves on the weekends. Snaking queues also formed for the duty-free beer, which sold at less than half the retail price. In the 1970s and 80s, the NCO Club became synonymous with cheap beer.[^25]|
