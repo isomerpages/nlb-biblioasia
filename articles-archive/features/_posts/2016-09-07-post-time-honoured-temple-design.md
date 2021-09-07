@@ -45,7 +45,7 @@ During colonial times, Sri Mariamman Temple also served as a temporary shelter f
 
 Today, the temple has become a historical landmark even as it continues to serve generations of Hindu devotees. In deference to the temple, the two streets flanking it were named Temple Street and Pagoda Street, the latter taking the cue from the temple’s pagoda-like gopuram.  The temple is also the focal point for Theemithi, the annual fire-walking festival that has been held on its grounds since 1840.[^20]
 
-#### **TEMPLE ARCHITECTURE**
+#### **Temple Architecture**
 
 Most Hindu temples in Singapore resemble the temples of South India as they are modelled along the Dravidian style of architecture.[^21] These temples are dedicated to various Hindu gods and goddesses, some with more than one deity presiding in each building of worship.
 
