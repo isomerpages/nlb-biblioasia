@@ -98,7 +98,9 @@ The ABCFM had ambitious plans for printing in the region, and thus their acquisi
 
 Thomsen had set the foundations for a printing press in Singapore, producing works in the local languages at a time when many of his contemporaries had switched their attention to China. His grammar books, vocabulary guides, Bugis-language works and Malay scriptural translations, although not perfect, were reprinted beyond his lifetime and paved the way for similar works to be published under pioneers such as Keasberry, and later, Shellabear. More importantly, the humble printing press stirred in the locals an interest for the printed word, and opened up new vistas for them to explore.
 
-|**Some Key Publications by Claudius Henry Thomsen**|
+<img style="width:0px;" src="/images/space1.png">
+
+|**SOME KEY PUBLICATIONS BY CLAUDIUS HENRY THOMSEN**|
 
 |***Bustan Arifin: Malay Magazine*** (1821–22)|
 
