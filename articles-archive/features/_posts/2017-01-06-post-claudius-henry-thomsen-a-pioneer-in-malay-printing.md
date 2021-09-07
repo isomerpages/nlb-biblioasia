@@ -134,9 +134,9 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 <div style="background-color: white;"><img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/6-claudies-henry-thomsen.png">The National Library’s copy of <i>The New Testament of our Lord and Saviour Jesus Christ in Malay</i>. Thomsen spent 12 to 15 months translating the New Testament into Malay, and printed 1,500 copies in June 1831.</div>
 
-![Alt text for image on Isomer site](/images/space1.png)
+<img style="width:0px;" src="/images/space1.png">
 
-|**A Code of Bugis Maritime Laws** (1832) [Call no.: RRARE 343.5984096 COD; Microfilm no.: NL 6400]|
+|***A Code of Bugis Maritime Laws*** (1832) [Call no.: RRARE 343.5984096 COD; Microfilm no.: NL 6400]|
 
 |The National Library, Singapore, has a copy of this publication edited by Thomsen and published in 1832. It contains the Bugis maritime laws in the Bugis script with English translations as well as an appendix of vocabulary terms. Although Thomsen’s translation was criticised as not being accurate, the publication was well received as far away as Bengal and was subsequently translated and published in French in 1845, German in 1854 and Dutch in 1856.[^45]|
 
