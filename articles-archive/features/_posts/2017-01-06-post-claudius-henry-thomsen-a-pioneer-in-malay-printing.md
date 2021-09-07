@@ -185,7 +185,7 @@ The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing
 [^28]:Noorduyn, J. (1957). C. H. Thomsen, the editor of “A Code of Bugis Maritime Laws”. *[Bijdragen tot de Taal-,Land- en Volkenkunde, 113](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=924851)* (3), 238–251, pp. 246–247. Call no.: RUR 572.9598 ITLVB  
 [^29]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, pp. 82, 102; [Noorduyn](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=924851), 1957, p. 248
 [^30]:The National Library, Singapore, has a copy of this first edition.
-[^31]:Tomlin, J. (1844). [Missionary journals and letters](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5792634) (pp. 293–294). London: James Nisbet and Co. Call no.: RRARE 266.3 TOM
+[^31]:Tomlin, J. (1844). *[Missionary journals and letters](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=5792634)* (pp. 293–294). London: James Nisbet and Co. Call no.: RRARE 266.3 TOM
 [^32]:*The Evangelical Magazine and Missionary Chronicle* (Vol 12, p. 165). (1834). London: Frederick Westley and A.H. Davis. Retrieved from Hathi Trust Digital Library website.
 [^33]:Ching, 1996, pp. 161–162, 164.
 [^34]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 80; [Ibrahim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5271424), 1980, p. 82.
@@ -193,10 +193,10 @@ The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing
 [^36]:Church Missionary Society. (1835). *Missionary register* (Vol. 23, p. 95). London: Seeley, Jackson &amp; Halliday. Retrieved from Hathi Trust Digital Library website.
 [^37]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 73.
 [^38]:Church Missionary Society. (1825). *Missionary register* (Vol. 13, p. 387). London: Seeley, Jackson &amp; Halliday. Retrieved from Hathi Trust Digital Library website.
-[^39]:Bastin, J. (1983). The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir’s English and Malay vocabulary. *[Journal of the Malaysian Branch of the Royal Asiatic Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)*, 56 (1 (244)), 10–11, p. 10. Call no.: RCLOS 959.5 JMBRAS
-[^40]:[Noorduyn](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=924851), J. (1957). C. H. Thomsen, the editor of “A Code of Bugis Maritime Laws”. *[Bijdragen tot de Taal-,Land- en Volkenkunde](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=924851)*, 113 (3), 238–251, pp. 246–247. Call no.: RUR 572.9598 ITLVB
+[^39]:Bastin, J. (1983). The missing second edition of C.H. Thomsen and Abdullah bin Abdul Kadir’s English and Malay vocabulary. *[Journal of the Malaysian Branch of the Royal Asiatic Society, 56](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)* (1 (244)), 10–11, p. 10. Call no.: RCLOS 959.5 JMBRAS
+[^40]:[Noorduyn](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=924851), 1957, pp. 246–247. 
 [^41]:Proudfoot, I. (1993). *[Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=6712616)* (p. 550). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO
-[^42]:Ching, S. (1996). *Printing presses of the London Missionary Society among the Chinese* (p. 150) [PhD dissertation]. London: University College of London. Retrieved from UCL Discovery website; [Harrison](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1710735), 1979, p. 125; [Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616),1993, p. 550.
+[^42]:Ching, 1996, p. 150; [Harrison](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1710735), 1979, p. 125; [Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616),1993, p. 550.
 [^43]:For more information on the publication, see Ong, E.C. (2016, January–March). A Christian sermon in Malay. BiblioAsia, 11 (4), 96–97. Call no.: RSING 027.495957 SNBBA-[LIB]; [O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 72.
 [^44]:[Ibrahim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5271424), 1980, pp. 80–81.
 [^45]:[Noorduyn](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=924851), 1957, pp. 241–243
