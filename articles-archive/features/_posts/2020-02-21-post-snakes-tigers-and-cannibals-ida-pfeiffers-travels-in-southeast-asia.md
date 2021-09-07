@@ -134,15 +134,12 @@ During her time in Singapore, Pfeiffer also visited Pulau Ubin, which she descri
 
 Pfeiffer also noted that “a magnificent lighthouse had been built” from the granite quarries of Ubin.[^21] This was the Horsburgh Lighthouse on Pedra Branca.
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t7.JPG">
-<div style="background-color: white;">Ida Pfeiffer crossing Dayak bamboo bridge in Sarawak with a butterfly net in hand. <i>Image reproduced from Pfeiffer, I. (1856). Meine zweite Weltreise (vol. II). Vienna: Gerold.</i></div>
-
 #### **Living with Head-hunters**
 
 On 2 December 1851, Pfeiffer departed for Sarawak. Her hosts, the representatives of the absent James Brooke, the “White Rajah” of Sarawak,[^22] secretly thought this middle-aged lady traveller was rather ridiculous. When Wallace later visited Sarawak in 1854, he was told that she resembled the fictitious Mrs Harris in the satirical magazine *Punch*. This was not a very flattering image as Mrs Harris was an ageing, opinionated, gossipy, bossy and clearly ridiculous busybody.
 
-<img style="width: 250px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t8.JPG">
-<div style="background-color: white;">A Dayak head. <i>Image reproduced from Marryat, F.S. (1848). Borneo and the Indian Archipelago: With drawings of costume and scenery. London: Longman, Brown, Green, and Longmans.</i></div>
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t7.JPG">
+<div style="background-color: white;">Ida Pfeiffer crossing Dayak bamboo bridge in Sarawak with a butterfly net in hand. <i>Image reproduced from Pfeiffer, I. (1856). Meine zweite Weltreise (vol. II). Vienna: Gerold.</i></div>
 
 While in Sarawak, Pfeiffer travelled through the territory of the Dayak head-hunters, an unprecedented journey for a European. She stayed in a succession of Dayak longhouses, sometimes with freshly decapitated human heads drying over a fire near where she slept. Of one encounter with these heads, she wrote:
 
@@ -152,6 +149,9 @@ Pfeiffer’s response to this was interesting though. She wrote:
 
 “I shuddered, but could not help asking myself whether, after all, we Europeans are not really just as bad or worse than these despised savages? Is not every page of our history filled with horrid deeds of treachery and murder?”[^24]
 
+<img style="width: 250px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t8.JPG">
+<div style="background-color: white;">A Dayak head. <i>Image reproduced from Marryat, F.S. (1848). Borneo and the Indian Archipelago: With drawings of costume and scenery. London: Longman, Brown, Green, and Longmans.</i></div>
+
 Pfeiffer subsequently made her way through the very heart of Borneo to the Dutch port of Pontianak in the south. When she arrived, the Dutch officials were utterly dumfounded that she had crossed the mountains from Sarawak.  The *Athenaeum* magazine called it “one of the most extraordinary journeys made by a European in Borneo”.[^25]
 
 #### **Close Encounters with Cannibals**
@@ -160,10 +160,10 @@ Pfeiffer later made her way through Sumatra where she almost came to an untimely
 
 She pushed on into Batak territory, venturing further than any European had ever reached, each day negotiating permission to enter the territory of the next village.
 
+Eventually, Pfeiffer’s presence could no longer be tolerated. One day, she was encircled by 80 armed men, shouting and gesticulating violently. Despite the fact that she could not understand a word of their language, there was no mistaking that they meant business. “They pointed with their knives to my throat, and gnashed their teeth at my arm, moving their jaws then, as if they already had them full of my flesh.”[^26]
+
 <img style="width: 250px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t9.JPG">
 <div style="background-color: white;">Ida Pfeiffer calms the Batak in Sumatra in one encounter. <i>Image reproduced from Stökl, H. (1920). Die Weltfahrten der österreichischen Reisenden Ida Pfeiffer. Erzählt von Helene Stökl. Mit einem Bildnis der Weltreisenden und Bildern von Fritz Gareis. Vienna: Österr. Schulbücherverlag</i></div>
-
-Eventually, Pfeiffer’s presence could no longer be tolerated. One day, she was encircled by 80 armed men, shouting and gesticulating violently. Despite the fact that she could not understand a word of their language, there was no mistaking that they meant business. “They pointed with their knives to my throat, and gnashed their teeth at my arm, moving their jaws then, as if they already had them full of my flesh.”[^26]
 
 Pfeiffer, however, had memorised a little speech for just such an occasion. Standing up and looking straight in the eye of the chief closest to her, she clapped him familiarly on the shoulder, and said in a half-Malay and half-Batak phrase, “Don’t eat me. I am an old woman so my flesh is very tough.”[^27]
 
@@ -182,7 +182,7 @@ When Pfeiffer arrived in Madagascar, she became inadvertently involved in an att
 <img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t10.JPG">
 <div style="background-color: white;">Ida Pfeiffer playing the piano at the royal court in Madagascar. <i>Image reproduced from Anon. (1880, December 5). Mme Ida Pfeiffer. Journal des voyages et des aventures de terre et de mer, no. 178.</i></div>
 
-Tragically, on her way to the coast under armed guard, Pfeiffer contracted the infamous “*Madagascar fever*”. The queen had ordered them to be taken on a long and circuitous route through swampy terrain, rather than the direct eight-day walk back to the port. Fortunately, Pfeiffer eventually made it safely to Mauritius to convalesce.
+Tragically, on her way to the coast under armed guard, Pfeiffer contracted the infamous “Madagascar fever”. The queen had ordered them to be taken on a long and circuitous route through swampy terrain, rather than the direct eight-day walk back to the port. Fortunately, Pfeiffer eventually made it safely to Mauritius to convalesce.
 
 Disappointed that she had collected so few specimens on this trip, Pfeiffer still hoped to travel further, but it was not to be; the fever kept returning. There was only one journey left in her – to return home.
 
