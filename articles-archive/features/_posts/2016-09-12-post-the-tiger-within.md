@@ -101,3 +101,22 @@ Tigers were much feared in the villages of India. Collections of thrilling stori
 Tibet shares many tiger images with India, although most ignominiously as flayed tiger skins tied around the waists or loins of wrathful demons in paintings and sculptures. Tigers that have managed to escape such fates are used as the powerful vehicles of wrathful demons. In their subdued state, tigers in Tibetan culture represent the triumph of the mind over anger into wisdom and insight.
 
 In Southwest China along the border with Tibet and also in Tibet itself, one often encounters brightly coloured murals on monastery walls – awash in primary colours – of a Mongolian lama (identifiable by his hat) leading a tame tiger on a chain across a valley or down a mountain range. The lama is said to represent Avalokitesvara (the embodiment of perfect compassion), the chain represents Vajrapani (protector of the historical Buddha), while the vividly striped tiger is Manjusri, who symbolises wisdom.
+
+<div style="background-color: white;"><img src="/images/Vol-12-issue-3/the-tiger-within/10-tiger-within.jpg">(Left) Detail of a mural depicting a Mongolian lama leading a tamed tiger on a chain, seen on the wall of a small Buddhist monastery near Zhongdian in Yunnan, China. <i>Courtesy of Patricia Bjaaland Welch.</i></div>
+<div style="background-color: white;">(Right) Tigers are among Thailand’s most popular talismanic tattoo designs. <i>Courtesy of http://designs-tattoo.com</i></div>
+
+According to Robert Beer, “this emblem also has a sectarian symbolism, with the lama leading the tiger representing the supremacy of the “yellow-hats” of the Gelugpa School of Buddhism over their “tamed” rivals, the “red-hats” of the old schools of Tibetan Buddhism.”10
+
+#### **Thailand**
+
+There is a saying in Thailand, “The mosquito is more dangerous than the tiger”, but that doesn’t stop the Thais from invoking the spiritual and physical power of tigers in their daily lives and art. Tattoos depicting tigers, single or in pairs, are considered as powerful and protective talismans in Thailand and especially popular among muay thai boxers. These are tigers with outstretched claws, leaping or stalking, jaws open with bared fangs, who not only endow their owners with enhanced strength but also drive away evil spirits when applied properly by specially trained monks. A carved tiger’s tooth is a coveted amulet among Thais, said to protect its owner and bring good fortune.
+
+Statues of standing tigers (usually carved from wood or made from plaster) are often found on the grounds of Thailand’s Buddhist temples where they serve as symbolic spiritual protectors, but there is a darker side to Thailand’s “tiger temples”. Until very recently, some of these temples bred and raised tigers to sell their parts and skins, and accepted fees from tourists to enter their cages and be photographed with them.
+
+#### **Myanmar and Vietnam**
+
+Thailand and Myanmar (Burma) share a common belief in assigning each day of the week its own icon. In Thailand, this takes the form of different depictions of the Buddha, but in Myanmar, the differentiation is made by assigning an animal from the Burmese zodiac to each day (with two animals for Wednesday, the birthday of Buddha). A tiger represents Monday, and contrary to China, the direction east.
+
+Most tiger figurines in Myanmar are carved from wood or made from plaster moulds, and somehow manage to look both ferocious and friendly at the same time. The gaping mouths show sharp fangs and teeth, yet the lips seem to curl back to form a smile. Traditional Burmese lore recommends that tiger’s claws be placed around an infant’s neck as protection against infantile ills, and tiger’s milk as natural immunisation against infections.11
+
+Because tigers are believed to embody Monday’s personality traits, they are moody and cunning enough to serve as decorative mounts for figurines and sculptures of nat spirits in Burmese folk religion. On the other hand, the overly confident tiger is often duped by clever little rabbits, who are almost always the heroes of Burmese animal folktales.
