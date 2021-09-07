@@ -199,10 +199,12 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 [^34]:*Zhaonan Ribao*, 21 February 1942–31 May 1944.
 [^35]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84521538), 1993, pp. 60, 65, 85, 87–89.
 [^36]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84521538), 1993, p. 85.
-[^37]:
-[^38]:
+[^37]:George, C. (2012). [*Freedom from the press: Journalism and state power in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14248073) (pp. 30– 31). Singapore: NUS Press. (Call no.: RSING 079.5957 GEO); [Lim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521538), 1993, pp. 85, 88.
+[^38]:[George](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14248073), 2012, p. 127; 崔贵强 [Chui, K.C.]. (2002). [《 东南亚华文日报现状之研究》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11801059)[A study of the current Chinese dailies in Southeast Asia] (p. 15).新加坡: 华裔馆. (Call no.:  Chinese RSING 079.59 CGQ); Peng, W.B. (2005).《东南亚华文报纸研究》[A study of Chinese newspapers in Southeast Asia] (p. 36). 北京: 社会科学文献出版社. (Call no.: Chinese RSEA 079.59 PWB)
 [^39]:
 [^40]:
 [^41]:
 
-George, C. (2012). Freedom from the press: Journalism and state power in Singapore (pp. 30– 31). Singapore: NUS Press. (Call no.: RSING 079.5957 GEO); Lim, 1993, pp. 85, 88.
+Singapore Press Holdings Limited. (2019). Homepage. Retrieved from Singapore Press Holdings website; Singapore Press Holdings Limited. (2019). Lianhe Zaobao/Lianhe Zaobao Sunday. Retrieved from Singapore Press Holdings website; Chui, 2002, pp. 17, 23, 33.
+SPH to shed 130 jobs to rein in costs. (2019, October 18). The Straits Times, p. C2. Retrieved from The Straits Times website.
+The Singapore government launched a campaign against “yellow culture” on 8 June 1959 to clamp down on various aspects of Western culture that were seen as promoting a decadent lifestyle. The term “yellow culture” is a direct translation of the Chinese phrase huangse wenhua (黄色文化), which refers to undesirable behaviour such as gambling, opiumsmoking, pornography, prostitution, corruption and nepotism that plagued China in the 19th century.
