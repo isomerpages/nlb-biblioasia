@@ -51,11 +51,11 @@ Most Hindu temples in Singapore resemble the temples of South India as they are 
 
 Statues of deities are placed in shrines within the temples. The temples typically feature sculptures and statues, and the inner walls are embellished with murals depicting scenes from Hindu mythology.[^22] The architecture of the temples comprises three main elements: a gopuram or entrance tower adorned with statues; a mandapam or prayer hall for worship; and vimanam or domes that indicate shrines beneath them.[^23]
 
-#### **THE GOPURAM**
+#### **The Gopuram**
 
 The gopuram refers to the pyramidal-shaped tower at the temple entrance and is an important  feature in South Indian temples. Its great height serves a purpose, acting as a beacon for devotees from afar and allowing them to pray or meditate in  preparation for their entrance into the temple.[^24] The five-tiered gopuram of the Sri Mariamman Temple is perhaps its most striking feature and is a much-photographed icon on South Bridge Road.[^25]
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/04_temple_design.jpg">The five-tiered gopuram (tower) as it looks today after the temple underwent a major restoration in 2009. <i>Photographed in 2016 by the writers.</i></div>
+<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/time-honoured-temple-design/04_temple_design.jpg">The five-tiered gopuram (tower) as it looks today after the temple underwent a major restoration in 2009. <i>Photographed in 2016 by the writers.</i></div>
 
 The five-metre-high gopuram, which faces east, is adorned with sculptures representing the divine trinity of Vedic mythology[^26] – Brahma, Vishnu and Shiva. These three gods are responsible for the creation, preservation and destruction of the world respectively.[^27] Three-dimensional sculptures and carvings depicting the three gods and their many reincarnations embellish the four sides of the tower, presenting a stunning visual tableaux of scenes from Hindu religion and mythology.[^28]
 
