@@ -141,13 +141,26 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |**THE RISE AND FALL OF CHINESE TABLOIDS**
 
-Chinese tabloids first appeared and flourished in Singapore in the 1920s, providing readers with a different form of entertainment compared to the dailies. Known as *xiao bao* (小报), these tabloids were usually published once every two to three days and were much thinner than the dailies.
+|Chinese tabloids first appeared and flourished in Singapore in the 1920s, providing readers with a different form of entertainment compared to the dailies. Known as *xiao bao* (小报), these tabloids were usually published once every two to three days and were much thinner than the dailies.
 
 |<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News8.JPG">
 <div style="background-color: white;">Xin Li Bao (新力报) reporting on the opening of the latest nightclub in Singapore in December 1950. <i>Xin Li Bao, 29 December 1950 (issue 16).</i></div>
 
-The first Chinese tabloid, *Xiao Xian Zhong* (消闲钟), was published in Singapore in 1925. It featured mostly entertainment news, while other tabloids focused on topics such as photography, commerce, literature, education and politics.
+|The first Chinese tabloid, *Xiao Xian Zhong* (消闲钟), was published in Singapore in 1925. It featured mostly entertainment news, while other tabloids focused on topics such as photography, commerce, literature, education and politics.
 
-The late 1940s and the 1950s marked another golden age for Chinese tabloids in Singapore. *Ye Deng Bao* (夜灯报) and *Xin Li Bao* (新力报) were the two most popular tabloids during that period. Chinese tabloids were mainly known for their frivolous reporting of entertainment news on the latest movies, celebrity gossip, *getai* (live stage performances) and popular bar hostesses. They also prided themselves on their ability to get the inside scoop on these subjects and regularly covered titillating topics like sensational crime and prostitution.
+|The late 1940s and the 1950s marked another golden age for Chinese tabloids in Singapore. *Ye Deng Bao* (夜灯报) and *Xin Li Bao* (新力报) were the two most popular tabloids during that period. Chinese tabloids were mainly known for their frivolous reporting of entertainment news on the latest movies, celebrity gossip, *getai* (live stage performances) and popular bar hostesses. They also prided themselves on their ability to get the inside scoop on these subjects and regularly covered titillating topics like sensational crime and prostitution.
 
-Some tabloids resorted to pornography to increase their readership in the highly competitive market. On the basis that these tabloids were promoting “yellow culture”,41 the government banned a number of such publications or revoked the printing licences of the companies in the 1960s.
+|Some tabloids resorted to pornography to increase their readership in the highly competitive market. On the basis that these tabloids were promoting “yellow culture”,41 the government banned a number of such publications or revoked the printing licences of the companies in the 1960s.
+
+*The author wishes to thank Mr Lee Ching Seng for reviewing the essay. Past issues of Chinese newspapers can be accessed via NewspaperSG – a searchable, online archive of local newspapers – and also from the  microfilm collection at level 11 of the Lee Kong Chian Reference Library.*
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News9.JPG" style="width: 100px; height: 100px;">
+<b>Lee Meiyu</b> is a Librarian with the National Library, Singapore, and works with the Singapore & Southeast Asian Collection. Her research interests include Singapore’s Chinese community. She is co-author of <i>Money by Mail to China: Dreams and Struggles of Early Migrants</i> (2012) and <i>Roots: Tracing Family Histories – a Resource Guide</i> (2013).
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
+
+#### **Notes**
+
