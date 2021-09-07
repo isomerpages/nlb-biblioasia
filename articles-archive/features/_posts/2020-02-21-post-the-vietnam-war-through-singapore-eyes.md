@@ -156,6 +156,9 @@ Chellapah was the third Associated Press photographer to die in Vietnam in less 
 
 He said, “Here are the last pictures by photographer Charlie Chellapah… This last roll of film was released by the authorities today along with his other personal effects. The pictures reveal, better than any words could, how close Chellapah was to the action up to the moment of his death.”[^30] The last photograph taken by him shows an American soldier holding a seriously wounded comrade.[^31]
 
+<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/va.jpg">
+<div style="background-color: white;">The last photo that Charlie Chellapah shot before he was killed by a Viet Cong mine on 14 February 1966. It shows an American soldier holding a comrade who had been seriously wounded. <i>Photo from the Associated Press.</i></div>
+
 Associated Press made arrangements for Chellapah’s body to be flown back to Singapore. He was cremated and his ashes scattered in the sea off Bedok.[^32]
 
 Chellapah’s elder brother and his sister recounted that one month after his funeral, they received a letter Chellapah had written before he died, informing them that he was planning to go to Hong Kong and at the same time purchase insurance coverage for himself. Sadly, this did not happen.[^33] According to Chellaph’s brother C. Tharmalingam, “Chellapah was a selfless person who always put others before himself, whether it was his school mates, colleagues or comrades. It was this commitment to work and friendship which claimed his life. Unfortunately, his courage was his misfortune.”[^34]
@@ -215,7 +218,7 @@ Their consummate professionalism, their selfless courage, and their unstinting g
 [^8]:[陈加昌](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14241203),  2011; Author’s interview with Chin Kah Chong, 11 September 2019.
 [^9]:Author’s interview with Chin Kah Chong, 11 September 2019.
 [^10]:陈加昌 (Chen, J.C. [a.k.a. Chin Kah Chong]). (2015). [我所知道的李光耀](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202226065) (*LKY Whom I Knew*). 新加坡： 玲子传媒私人有限公司. (Call no.: Chinese RSING 959.57051092 CJC-[HIS])
-[^11]:Author’s interview with Sam Yoke Tatt, 2011 and on 23 November 2019; Fass, H., & Page, T. (Eds.)(1997). [*Requiem: By the photographers who died In Vietnam and Indochina*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14298674) (p. 318). New York: Random House. (Call no.: RSEA q959.7043 REQ-WAR])
+[^11]:Author’s interview with Sam Yoke Tatt, 2011 and on 23 November 2019; Fass, H., & Page, T. (Eds.). (1997). [*Requiem: By the photographers who died In Vietnam and Indochina*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14298674) (p. 318). New York: Random House. (Call no.: RSEA q959.7043 REQ-WAR])
 [^12]:Author’s interview with Chin Kah Chong, 11 September 2019.
 [^13]:Author’s interview with Chin Kah Chong, 21 November 2019.
 [^14]:Hirashiki, Y. (2017). [*On the frontlines of the television war: A legendary war cameraman in Vietnam*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202837150) (p. 272). Philadelphia: Casemate Publishers. (Call no.: RSEA 959.70438 HIR-[WAR])
