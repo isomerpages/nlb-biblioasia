@@ -140,8 +140,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 |The National Library, Singapore, has a copy of this publication edited by Thomsen and published in 1832. It contains the Bugis maritime laws in the Bugis script with English translations as well as an appendix of vocabulary terms. Although Thomsen’s translation was criticised as not being accurate, the publication was well received as far away as Bengal and was subsequently translated and published in French in 1845, German in 1854 and Dutch in 1856.[^45]|
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/7-claudies-henry-thomsen.png)
-<div style="background-color: white;">The National Library holds a copy of <i>A Code of Bugis Maritime Laws</i>, which was edited by Thomsen and published in 1832. The publication was subsequently translated into French, German and Dutch.</div>
+<div style="background-color: white;"><img style="width:300px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/7-claudies-henry-thomsen.png">The National Library holds a copy of <i>A Code of Bugis Maritime Laws</i>, which was edited by Thomsen and published in 1832. The publication was subsequently translated into French, German and Dutch.</div>
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
