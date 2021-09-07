@@ -235,12 +235,11 @@ By the time she died, Pfeiffer had become one of the most famous women in the wo
 
 |John van Wyhe’s <i>Wanderlust: The Amazing Ida Pfeiffer, the First Female Tourist</i> (2019) retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 910.41 VAN and SING 910.41 VAN). The 1888 French edition of Ida Pfeiffer’s second book, [*Voyage autour du monde de Mme. Ida Pfeiffer*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203864443) (<i>Voyage Around the World by Mme. Ida Pfeiffer</i>), translated by E. Delauney was on display at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
 
-|The 1888 French edition of Ida Pfeiffer’s second book, <i>Voyage autour du monde de Mme. Ida Pfeiffer</i> (<i>Voyage Around the World by Mme. Ida Pfeiffer</i>), translated by E. Delauney can be viewed at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t13.jpg" style="width: 100px; height: 100px;"><br>
 <b>Dr John van Wyhe</b> 
-is a historian of science who has written extensively about Charles Darwin and Alfred Russel Wallace. He is the author of Wanderlust: The Amazing Ida Pfeiffer, the First Female Tourist (2019)
+is a historian of science who has written extensively about Charles Darwin and Alfred Russel Wallace. He is the author of <i>Wanderlust: The Amazing Ida Pfeiffer, the First Female Tourist</i> (2019).
 </div>
 
 
@@ -261,7 +260,7 @@ is a historian of science who has written extensively about Charles Darwin and A
 [^12]:Pfeiffer, 1855, vol. I, p. 51.
 [^13]:Pfeiffer, 1855, vol. I, p. 51.
 [^14]:Pfeiffer, 1855, vol. I, p. 52.
-[^15]:Wallace, A.R. (1869). *The Malay archipelago: The land of the orang-utan, and the bird of paradise: A narrative of travel, with studies of man and nature* (vol. II, p. 37). London: Macmillan & Co. Retrieved from Internet Archive website. Also See van Wyhe, J. (Ed.). (2014). [*The annotated Malay Archipelago by Alfred Russel Wallace*](http://eservice.nlb.gov.sg/itemholding_s.aspx?bid=200350257) (p. 86). Singapore: NUS Press. (Call no.: RSING 959.8 ANN); van Wyhe, J. (2013). [*Dispelling the darkness: Voyage in the Malay Archipelago and the discovery of evolution by Wallace and Darwin*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200148899) (pp. 83–86). Singapore: World Scientific Publishing. (Call no.: R 576.82092 VAN)
+[^15]:Wallace, A.R. (1869). *The Malay archipelago: The land of the orang-utan, and the bird of paradise: A narrative of travel, with studies of man and nature* (vol. II, p. 37). London: Macmillan & Co. Retrieved from Internet Archive website. Also see van Wyhe, J. (Ed.). (2014). [*The annotated Malay Archipelago by Alfred Russel Wallace*](http://eservice.nlb.gov.sg/itemholding_s.aspx?bid=200350257) (p. 86). Singapore: NUS Press. (Call no.: RSING 959.8 ANN); van Wyhe, J. (2013). [*Dispelling the darkness: Voyage in the Malay Archipelago and the discovery of evolution by Wallace and Darwin*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200148899) (pp. 83–86). Singapore: World Scientific Publishing. (Call no.: R 576.82092 VAN)
 [^16]:Pfeiffer, 1855, vol. I, p. 51.
 [^17]:Quoted in Riedl-Dorn, C. (2001). Ida Pfeiffer (pp. 265–269). In W. Seipel (Ed.), *Die Entdeckung der Welt. Die Welt der Entdeckungen Österreichische Forscher, Sammler, Abenteurer*. Vienna: Skira. (Not available in NLB holdings)
 [^18]:NParks Flora & Fauna web. (2019). *Gryllotalpa fulvipes (Saussure, 1877)*. Retrieved from Flora & Fauna Web.
