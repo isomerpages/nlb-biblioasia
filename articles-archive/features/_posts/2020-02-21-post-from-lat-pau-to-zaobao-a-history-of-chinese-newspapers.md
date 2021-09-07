@@ -130,7 +130,7 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |Fans of Chinese sword-fighting, or *wuxia*, novels would be familiar with Linghu Chong (令狐冲), the honourable, happy-go-lucky swordsman with a weakness for alcohol. He is the protagonist in *Xiao Ao Jianghu* (笑傲江湖), a story written by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha).
 
-|<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News7.JPG"><i>Xiao Ao Jianghu</i> (笑傲江湖) by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha) was first serialised in the inaugural issue of Shin Min Daily News on 18 March 1967. <i>Image reproduced from 金庸 [Jin Yong]. (1996).《笑傲江湖》[The Wandering Swordsman]. 新加坡: 明河社出版有限公司.</i>
+|<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News7.JPG"><i>Xiao Ao Jianghu</i> (笑傲江湖) by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha) was first serialised in the inaugural issue of Shin Min Daily News on 18 March 1967. <i>Image reproduced from 金庸 [Jin Yong]. (1996).《笑傲江湖》[The Wandering Swordsman]. 新加坡: 明河社出版有限公司.</i>
 
 |Known in English under various titles such as *The Wandering Swordsman and The Smiling, Proud Wanderer*, the novel is so popular that it has been adapted for the stage, television, the big screen, comic books and even video games. To attract readers, the novel was first serialised in the inaugural issue of *Shin Min Daily News* (新民日报) on 18 March 1967, a local newspaper started by Cha and the founder of Axe Brand Universal Oil, Leong Yun Chee.
 
