@@ -59,23 +59,23 @@ The gopuram refers to the pyramidal-shaped tower at the temple entrance and is a
 
 The five-metre-high *gopuram*, which faces east, is adorned with sculptures representing the divine trinity of Vedic mythology[^26] – Brahma, Vishnu and Shiva. These three gods are responsible for the creation, preservation and destruction of the world respectively.[^27] Three-dimensional sculptures and carvings depicting the three gods and their many reincarnations embellish the four sides of the tower, presenting a stunning visual tableaux of scenes from Hindu religion and mythology.[^28]
 
-In 1936, the three-tiered *gopuram* was raised into its present five-tiers. In the 1960s, the gopuram was restored and decorated with the elaborate sculptures and carvings that you see today.[^29] Photographs of the original three-tiered gopuram show a slimmer and more sparsely decorated structure compared to the present broader and more ornate tower. The sides of the old gopuram also appear to be steeper than the new one.[^30] Beneath the gopuram is a pair of heavy, double-leafed timber main doors that open into the main hall of the temple.[^31]
+In 1936, the three-tiered *gopuram* was raised into its present five-tiers. In the 1960s, the *gopuram* was restored and decorated with the elaborate sculptures and carvings that you see today.[^29] Photographs of the original three-tiered *gopuram* show a slimmer and more sparsely decorated structure compared to the present broader and more ornate tower. The sides of the old *gopuram* also appear to be steeper than the new one.[^30] Beneath the *gopuram* is a pair of heavy, double-leafed timber main doors that open into the main hall of the temple.[^31]
 
-Craftsmen from South India drew their inspiration not only from Indian tradition, but also from the military traditions of colonial India. Hence, they incorporated Indian sepoys(soldiers recruited by the British in India), dressed in khaki uniforms and armed with rifles, into the collection of the sculptures carved into the gopuram as well as on the walls of the temple. In 1971, however, the sepoy statues on the gopuram were removed during renovation works and replaced with figures clad in Indian traditional costumes.[^32]
+Craftsmen from South India drew their inspiration not only from Indian tradition, but also from the military traditions of colonial India. Hence, they incorporated Indian sepoys(soldiers recruited by the British in India), dressed in khaki uniforms and armed with rifles, into the collection of the sculptures carved into the gopuram as well as on the walls of the temple. In 1971, however, the sepoy statues on the *gopuram* were removed during renovation works and replaced with figures clad in Indian traditional costumes.[^32]
 
 #### **The Mandapam**
 
-The entrance of the temple leads to a main hall or mandapam, which is flanked by a series of square columns ornamented with statues of deities.[^33] Along the north and south elevations of the hall is an arcade of trefoil arched openings. The main design elements of the mandapam are its colourful ceiling and the series of columns that give definition to the vast space.[^34]
+The entrance of the temple leads to a main hall or *mandapam*, which is flanked by a series of square columns ornamented with statues of deities.[^33] Along the north and south elevations of the hall is an arcade of trefoil arched openings. The main design elements of the *mandapam* are its colourful ceiling and the series of columns that give definition to the vast space.[^34]
 
-The ceiling of the hall is decorated with elaborate paintings, including that of a mandala, a circular diagram that symbolises the sublime state of Nirvana,[^35] and Hindu gods such as Lord Ganesha[^36] and Goddess Saraswathi[^37]. On the walls along the temple columns and in the inner sanctums are hand-painted murals of various deities, always restored to their original vivid hues before each temple re- consecration.[^38] The highly skilled painters, who hail from Tamil Nadu, have to lie flat on their backs to paint the intricate ceiling panels of the mandapam.[^39]
+The ceiling of the hall is decorated with elaborate paintings, including that of a *mandala*, a circular diagram that symbolises the sublime state of Nirvana,[^35] and Hindu gods such as Lord Ganesha[^36] and Goddess Saraswathi[^37]. On the walls along the temple columns and in the inner sanctums are hand-painted murals of various deities, always restored to their original vivid hues before each temple re- consecration.[^38] The highly skilled painters, who hail from Tamil Nadu, have to lie flat on their backs to paint the intricate ceiling panels of the *mandapam*.[^39]
 
 The original attap walkway that connected the main entrance to the principal shrine of Sri Mariamman was destroyed in a fire in 1910. A permanent walkway, which still stands today, was designed and completed in 1916.[^40]
 
 #### **The Vimanam**
 
-A decorated dome known as a vimanam signifies the presence of a shrine or altar beneath it.[^41] There are four such vimanam, and these are all located in the west elevation of the temple.
+A decorated dome known as a *vimanam* signifies the presence of a shrine or altar beneath it.[^41] There are four such *vimanam*, and these are all located in the west elevation of the temple.
 
-Each vimanam is an onion-shaped structure, decorated with colourful painted sculptures and capped with small pinnacles.[^42] Below the main vimanam is the shrine of Sri Mariamman, the presiding deity of the temple. The other three vimanam are located above the shrines for Lord Rama, Lord Subramanya[^43] and Goddess Drowpathai Amman[^44].
+Each *vimanam* is an onion-shaped structure, decorated with colourful painted sculptures and capped with small pinnacles.[^42] Below the main *vimanam* is the shrine of Sri Mariamman, the presiding deity of the temple. The other three *vimanam* are located above the shrines for Lord Rama, Lord Subramanya[^43] and Goddess Drowpathai Amman[^44].
 
 #### **Shrines**
 
@@ -87,19 +87,19 @@ The temple also has shrines dedicated to the goddesses Durgai Amman[^45], Periya
 
 #### **Temple Grounds**
 
-There are two smaller and separate shrines scattered in the temple grounds honouring Lord Ganesha and Sri Aravan, a character from the Indian epic the Mahabharata. The viewing gallery on the left perimeter of the temple is used by devotees to view the ongoings of temple rituals and festivals. Also within the temple grounds are a kitchen, staff quarters and a wedding hall with a separate entrance on Pagoda Street.
+There are two smaller and separate shrines scattered in the temple grounds honouring Lord Ganesha and Sri Aravan, a character from the Indian epic the *Mahabharata*. The viewing gallery on the left perimeter of the temple is used by devotees to view the ongoings of temple rituals and festivals. Also within the temple grounds are a kitchen, staff quarters and a wedding hall with a separate entrance on Pagoda Street.
 
 The entire temple complex is surrounded by a high boundary wall surmounted by figures of sacred cows placed at regular intervals. The cow, which is revered in Hinduism, symbolises Mother Earth, strength, abundance, selfless giving and the sustenance of life.
 
 |**TEMPLE MILESTONES**|
 
-|1827|Opens as a small wood-and-attap structure.|
+|1827|Opens as a small wood-and-*attap* structure.|
 
-|1843|Brick building replaces the wood-and-attap structure.|
+|1843|Brick building replaces the wood-and-*attap* structure.|
 
 |1862–63|Major reconstruction of the temple takes place.|
 
-|1936|Major facelift, including construction of five-tiered gopuram.|
+|1936|Major facelift, including construction of five-tiered *gopuram*.|
 
 |1949|Minor repair works carried out, including a fresh coat of paint.|
 
@@ -107,7 +107,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 
 |1971|Addition of new statues and murals; removal of some statues, such as those of the Indian sepoys.|
 
-|1984|Construction of two-storey wedding hall; restoration of sculptures and paintings; extension of the vimanam; building of the new Sundara Vinayagar sanctum, which houses the Lord Ganesha deity, to replace the old one.|
+|1984|Construction of two-storey wedding hall; restoration of sculptures and paintings; extension of the *vimanam*; building of the new Sundara Vinayagar sanctum, which houses the Lord Ganesha deity, to replace the old one.|
 
 |1996|Addition of elevated viewing gallery; construction of three-storey annex with a separate entrance on Pagoda Street; restoration and repainting of murals, statues and sculptures.|
 
@@ -129,7 +129,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 
 #### **NOTES**
 
-[^1]:A gopuram is the pyramidal tower erected over the entrance of South Indian Hindu temples.
+[^1]:A *gopuram* is the pyramidal tower erected over the entrance of South Indian Hindu temples.
 [^2]:Liu, G. (1996). *[In granite and chunam: The national monuments of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754)* (p. 114). Singapore: Landmark Books. Call no.: RSING 725.94095957 LIU
 [^3]:Netto, G. (1961). *[Indians in Malaya: Historical facts and figures](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4078361)* (p. 17). Singapore: George Netto. Call no.: RCLOS 331.62540595 NET
 [^4]:Soundararajan, N. S. (1971). The history of the Sri Mariamman Temple. In *[Ciṅkappūr Srī Māriyamman̲ Kōvil Makā Kumpāpiṣēka malar = Sri Mariamman Temple Maha Kumbabishegam Souvenir](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12915154)* (p. 65). Singapore: Sri Mariamman Devasthanam. Call no.:Tamil RCLOS 294.535095957 SIN
