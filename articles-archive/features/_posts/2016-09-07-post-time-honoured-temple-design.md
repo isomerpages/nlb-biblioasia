@@ -142,9 +142,9 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^11]:The term “kling” or “keling”, first mentioned in the Sejarah Melayu or Malay Annals written between the 15th and 16th centuries, was used in colonial Malaya to describe people from the Indian subcontinent. Over time, the term has taken on derogatory connotations and is today regarded by Indians as offensive.
 [^12]:Uma Devi, 2009, p. 49.
 [^13]:Singapore was once a penal colony, and the first shipment of Indian prisoners to Singapore took place in 1825. See Tan, B. (2015, Oct–Dec). Convict labour in colonial Singapore. BiblioAsia, 11(3), 36–41.
-[^14]:Liu, 1996, p. 114; Sanmugam, 2009, p. 13.
+[^14]:Liu, 1996, p. 114; [Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
 [^15]:Liu, G. (1984). Pastel portraits: Singapore’s architectural heritage (p. 126). Singapore: Singapore Coordinating Committee. Call no.: RSING 722.4095957 PAS 
-[^16]:Sanmugam, 2009, p. 13.
+[^16]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
 [^17]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 114.
 [^18]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 72.
 [^19]:[Uma Devi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488), 2009, p. 49; [Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 15.
