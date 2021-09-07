@@ -92,6 +92,7 @@ There are two smaller and separate shrines scattered in the temple grounds honou
 The entire temple complex is surrounded by a high boundary wall surmounted by figures of sacred cows placed at regular intervals. The cow, which is revered in Hinduism, symbolises Mother Earth, strength, abundance, selfless giving and the sustenance of life.
 
 |**TEMPLE MILESTONES**|
+
 |1827|Opens as a small wood-and-attap structure.|
 |1843|Brick building replaces the wood-and-attap structure.|
 |1862–63|Major reconstruction of the temple takes place.|
