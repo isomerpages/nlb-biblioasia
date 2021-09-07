@@ -110,7 +110,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 |Thomsen was recorded as the translator in this publication printed at the Institution Press in 1824. The homily and prayer book in Malay was used during Sunday services in Singapore, and is a translation of the one commonly used in Anglican church services. A sample of this published translation was given to Raffles who commended Thomsen for the quality of its translation.[^38]|
 
-|**A Vocabulary of the English and Malayan Languages**(1827) [Call no.: RCLOS 428.1 VOC (photocopy of an incomplete version)]|
+|***A Vocabulary of the English and Malayan Languages*** (1827) [Call no.: RCLOS 428.1 VOC (photocopy of an incomplete version)]|
 
 |The word-list of 2,000 words is one of the earliest collaborative works by Munshi Abdullah and Thomsen, compiled sometime between 1815 and 1816.[^39] It was first published in Malacca in 1820 to aid visiting foreigners in communicating with the locals and used as a teaching tool by Thomsen at his Malay school. The second edition was published in Singapore in 1827, likely the first vocabulary guide printed in Singapore. It provides insights into how Malay was used in Malacca and Singapore in the early 19th century. The only known complete set is found at the National University of Singapore Library’s Singapore/Malaysia Collection.|
 
