@@ -62,7 +62,7 @@ No tigers or wild boars were spotted but they did encounter a large green snake 
 
 After the snake was killed, one of their Malay assistants dragged it out of the tree with an impromptu noose made from grass and after skinning the reptile, gave it to some Chinese plantation workers nearby.
 
-Later that afternoon, returning to the same spot where they had killed the snake, Pfeiffer could not resist checking to see if the plantation workers were eating the reptile. She rushed up to one of their houses to find out, but sensed that the men wished to hide their repast: “I entered very quickly and gave them some money to be allowed to taste it. I found the flesh particularly tender and delicate, even more tender than that of a chicken”.[^6]
+Later that afternoon, returning to the same spot where they had killed the snake, Pfeiffer could not resist checking to see if the plantation workers were eating the reptile. She rushed up to one of their houses to find out, but sensed that the men wished to hide their repast: “I entered very quickly and gave them some money to be allowed to taste it. I found the flesh particularly tender and delicate, even more tender than that of a chicken.”[^6]
 
 The same day, Pfeiffer also “paid a visit to a sugar-refining establishment situated upon the banks of the [Kallang] river”. She described the operation:
 
