@@ -4,7 +4,7 @@ date: 2020-02-21
 permalink: /vol-15/issue-4/jan-mar-2020/s-t-c-sea/
 layout: post
 ---
-#### Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. John van Wyhe recounts the adventures of this remarkable woman.
+#### Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. **John van Wyhe** recounts the adventures of this remarkable woman.
 
 <img style="width: 550px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t1.JPG">
 <div style="background-color: white;">Ida Pfeiffer encounters a green snake while paddling up the Kallang River on her first visit to Singapore. <i>Image reproduced from Pfeiffer, I. (1852). Reis eener vrouw rondom de wereld (Frontispiece). Gorinchem: Noorduyn.</i></div>
