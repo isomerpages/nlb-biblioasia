@@ -150,20 +150,20 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^19]:Uma Devi, 2009, p. 49; Sanmugam, 2009, p. 15.
 [^20]:Uma Devi, 2009, p. 49; Sanmugam, 2009, p. 15; Leong, W. K. (1998, October 8). Walking on fire for his dead parents. *The Straits Times*, p. 27. Retrieved from NewspaperSG.
 [^21]:The Dravidian architectural style originated from the southern part of the Indian subcontinent and consists primarily of temples with pyramidal-shaped towers.
-[^22]:Khoo, B. L. (1972, November 24). Singapore’s Hindu temples.*The New Nation*, p. 11. Retrieved from NewspaperSG.
-[^23]:Uma Devi, 2009, p. 49.
-[^24]:Lee, 2002, p. 76.
-[^25]:Lee, 2002, p. 76.
+[^22]:Khoo, B. L. (1972, November 24). [Singapore’s Hindu temples.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19721124-1.2.60.1.aspx)*The New Nation*, p. 11. Retrieved from NewspaperSG.
+[^23]:[Uma Devi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488), 2009, p. 49.
+[^24]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
+[^25]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
 [^26]:Vedic mythology is derived from the Vedas, a large body of Indian scriptures that laid down the basis of classical Hinduism.
-[^27]:Oldest place for the Hindus. (1981, December 13). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
-[^28]:Lee, 2002, p. 76.
-[^29]:Uma Devi, 2009, p. 49.
-[^30]:Sanmugam, 2009, p. 13.
-[^31]:Liu, 1996, p. 115.
-[^32]:Lee, E. (1990). Historic buildings of Singapore (p. 65). Singapore: Preservation of Monuments Board. Call no.: RSING 720.95957 LEE; Sanmugan, 2009, p.17.
-[^33]:Lee, 2002, p. 76.
-[^34]:Liu, 1996, p. 115.
-[^35]:Lee, 2002, p. 76.
+[^27]:[Oldest place for the Hindus.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811213-1.2.112.20.1.aspx)(1981, December 13). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^28]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
+[^29]:[Uma Devi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488), 2009, p. 49.
+[^30]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 14.
+[^31]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 115.
+[^32]:Lee, E. (1990). *[Historic buildings of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5572905)* (p. 65). Singapore: Preservation of Monuments Board. Call no.: RSING 720.95957 LEE; Sanmugan, 2009, p.17.
+[^33]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
+[^34]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 115.
+[^35]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
 [^36]:Lord Ganesha is the elephant-headed god who symbolises wisdom and prosperity, and is believed to be the remover of all obstacles. He is a major god in the Hindu pantheon and is worshipped at the beginning of all undertakings.
 [^37]:Goddess Saraswathi is the goddess of knowledge,music and the arts.
 [^38]:Yen, F. (2010, April 6). Sri Mariamman Temple unveils its new look. *The Straits Times*. Retrieved from Factiva.
