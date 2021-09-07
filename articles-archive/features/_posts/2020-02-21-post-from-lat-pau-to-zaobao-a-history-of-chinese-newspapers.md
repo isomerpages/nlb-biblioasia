@@ -192,20 +192,17 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 [^27]:Lim, J.K. (ed.) (1993). [*Our 70 years: History of leading Chinese newspapers in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84521538) (pp. 82-89). Singapore: Chinese Newspapers Division, Singapore Press Holdings.(Call no.: RSING 079.5957 OUR)
 [^28]:As the two leading Chinese dailies in Singapore, *Nanyang Siang Pau* and *Sin Chew Jit Poh* aggressively competed for readers. Their rivalry continued right up to the years before their merger in 1983. See “The history of two rivals” in *The Straits Times* (22 April 1982).
 [^29]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84521538), 1993, pp. 82, 86.)
-[^30]:
-[^31]:
-[^32]:
-[^33]:
-[^34]:
-[^35]:
-[^36]:
+[^30]:[Yap](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84475707), 1996, pp. 49, 60–66, 74, 81, 83.
+[^31]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84521538), 1993, pp. 82-83, 86–87; [Yap](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84475707), 1996, p. 52.
+[^32]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84521538), 1993, pp. 83, 87.
+[^33]:Following the fall of Singapore on 15 February 1942, Chinese males between 18 and 50 years of age were ordered to report at designated centres for mass screening. Many of these ethnic Chinese were then rounded up and taken to deserted spots to be summarily executed. This came to be known as Operation Sook Ching (the Chinese term means “purge through cleansing”). It is not known exactly how many people died; the official estimates given by the Japanese is 5,000, but the actual number is believed to be 8−10 times higher.
+[^34]:*Zhaonan Ribao*, 21 February 1942–31 May 1944.
+[^35]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84521538), 1993, pp. 60, 65, 85, 87–89.
+[^36]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84521538), 1993, p. 85.
 [^37]:
 [^38]:
 [^39]:
 [^40]:
 [^41]:
 
-
-
-
-
+George, C. (2012). Freedom from the press: Journalism and state power in Singapore (pp. 30– 31). Singapore: NUS Press. (Call no.: RSING 079.5957 GEO); Lim, 1993, pp. 85, 88.
