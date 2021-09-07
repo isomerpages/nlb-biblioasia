@@ -185,14 +185,27 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 [^20]:Sources referred to in this article mention two dates: late 1905 or early 1906. Unfortunately, as the early issues of *Union Times* are lost, there is no way to ascertain the correct year.
 [^21]:[Chen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082030), 1967, pp. 86, 89, 94, 97; See J. Peng for a detailed list of articles and names of main writers (pp. 27–39).
 [^22]:See J. Peng (2011) for a detailed list of the literary articles (pp. 49–55).
-[^23]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 100–104; Yen, C.H. (1976). [The Overseas Chinese and the 1911 revolution](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=863880) (p. 188). Kuala Lumpur: Oxford University Press. (Call no.: RSING 301.451951095957 YEN); Song, O.S. (1984). One hundred years’ history of the Chinese in Singapore (p. 441). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON-[HIS])
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
+[^23]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 100–104; Yen, C.H. (1976). [*The Overseas Chinese and the 1911 revolution*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=863880) (p. 188). Kuala Lumpur: Oxford University Press. (Call no.: RSING 301.451951095957 YEN); Song, O.S. (1984). [*One hundred years’ history of the Chinese in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287) (p. 441). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON-[HIS])
+[^24]:郑文辉 [Tay, B.H.]. (1973).[《新加坡华文报业史, 1881-1972》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84469781) [*History of Chinese newspapers in Singapore, 1881-1972*] (pp. 36, 38). 新加坡: 新马出版印刷公司.(Call no.: Chinese RCLOS 079.5957 CWH); [Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, p. 105–107, 110; [Yen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=863880), 1976, p. 202.
+[^25]:Some sources state 1906, which is likely a misinterpretation of Tan Yeok Seong’s statement in *The First Newsman in Nanyang* (《南洋第一报人》). Tan provided the date as “the 3rd day of the 12th month in the 32nd year of Emperor Guangxu’s reign”. This would be 16 January 1907 in the Gregorian calendar.
+[^26]:The New Culture Movement in China, which took place between the 1910s and 1920s, criticised traditional Chinese culture, blaming it for the country’s subordinate position in the world. Intellectuals supporting the movement pushed for the adoption of Western notions of science and democracy, and these became the focus of their writings. The movement also called for vernacular literature to replace classical literature, which had become unintelligible to the masses.
+[^27]:Lim, J.K. (ed.) (1993). [*Our 70 years: History of leading Chinese newspapers in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84521538) (pp. 82-89). Singapore: Chinese Newspapers Division, Singapore Press Holdings.(Call no.: RSING 079.5957 OUR)
+[^28]:As the two leading Chinese dailies in Singapore, *Nanyang Siang Pau* and *Sin Chew Jit Poh* aggressively competed for readers. Their rivalry continued right up to the years before their merger in 1983. See “The history of two rivals” in *The Straits Times* (22 April 1982).
+[^29]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84521538), 1993, pp. 82, 86.)
 [^30]:
+[^31]:
+[^32]:
+[^33]:
+[^34]:
+[^35]:
+[^36]:
+[^37]:
+[^38]:
+[^39]:
+[^40]:
+[^41]:
 
 
-郑文辉 [Tay, B.H.]. (1973).《新加坡华文报业史, 1881-1972》 [History of Chinese newspapers in Singapore, 1881-1972] (pp. 36, 38). 新加坡: 新马出版印刷公司.(Call no.: Chinese RCLOS 079.5957 CWH); Chen, 1967, p. 105–107, 110; Yen, 1976, p. 202.
+
+
+
