@@ -15,11 +15,11 @@ In 1827, four years after the land was acquired, Sri Mariamman Temple, Singapore
 
 Located in the heart of Chinatown, the temple’s elaborate *gopuram*[^1]  has been a landmark for generations of Hindu worshippers in Singapore.[^2] In deference to its architectural and historical significance, the temple was gazetted as a national monument on 28 June 1973.[^3]
 
-#### **SINGAPORE'S FIRST HINDU TEMPLE**
+#### **Singapore's First Hindu Temple**
 
 The history of the Sri Mariamman Temple is closely intertwined with the arrival of the first Indians to Singapore, soon after Stamford Raffles established a British trading post on the island in February 1819.[^4] South Indian migrants to Singapore, feeling displaced in a new land, brought with them the cultural and religious practices of the subcontinent, including the worship of Mariamman, the goddess of rain. In Hindu spirituality, the “mother” deity is known for her power to protect people from harm and to cure epidemic illnesses and diseases.[^5]
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg">Sri Mariamman Temple, c.1900. The three-tiered gopuram was a slimmer and sparsely decorated structure  compared to the present five-tiered tower that was rebuilt in 1936. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg">Sri Mariamman Temple, c.1900. The three-tiered gopuram was a slimmer and sparsely decorated structure  compared to the present five-tiered tower that was rebuilt in 1936. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 It is not known which part of India Naraina Pillai originated from; he arrived in Singapore with Raffles on the latter’s second visit to the newly colonised island in June 1819, and is the first recorded Indian immigrant in Singapore.[^6] Prior to this, Pillai worked as a government clerk with the British East India Company in Penang. Good fortune favoured Pillai, and before long, he became a successful entrepreneur and community leader, and set up the island’s first brick kiln at Mount Erskine (present-day Tanjong Pagar). He also persuaded several Indian bricklayers, carpenters and artisans from Penang and South India to join him in Singapore. Recognising his growing influence in the Indian community, the British appointed Pillai as leader of the Indian community in December 1822.[^7]
 
