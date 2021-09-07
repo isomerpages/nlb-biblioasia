@@ -193,7 +193,8 @@ Emaciated and weak, she finally reached Vienna in mid-September 1858. A few week
 
 By the time she died, Pfeiffer had become one of the most famous women in the world. She had seen more of the world than any other woman before her. But wanderlust at last had killed her.<br>
 
-|**THE WRITING OF WANDERLUST**|
+|**THE WRITING OF WANDERLUST**
+
 |<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t12.JPG">John van Wyhe at Lake Toba, following in Ida Pfeiffer’s footsteps.
 <br>
 
