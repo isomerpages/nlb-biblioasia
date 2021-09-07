@@ -148,6 +148,6 @@ Singaporeans today are more used to tigers as brand icons than lurking threats. 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/the-tiger-within/patricia.png"><b>Patricia Bjaaland Welch</b> is a retired university lecturer in symbology and Asian art history. Originally from the US, she has been a permanent resident in Singapore since 1995, and is a frequent contributor to publications on Asia. Her most recent book is "Chinese Art: A Guide to Motifs and Imagery" (Tuttle, 2007).</div>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/the-tiger-within/patricia.png"><b>Patricia Bjaaland Welch</b> is a retired university lecturer in symbology and Asian art history. Originally from the US, she has been a permanent resident in Singapore since 1995, and is a frequent contributor to publications on Asia. Her most recent book is <i>Chinese Art: A Guide to Motifs and Imagery</i> (Tuttle, 2007).</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
