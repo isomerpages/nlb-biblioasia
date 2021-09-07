@@ -82,7 +82,7 @@ As the First World War turned into a brutal conflict of attrition, Nur Alam Shah
 
 All it took was a spark, which eventually ignited. An explosion of gunfire amid the noise and smoke of Chinese New Year firecrackers and bomblets. A cluster of little rebellions had erupted within the regiment. Soon the sepoys had the run of the island. Chaos. Confusion. And then the inevitable betrayal.
 
-Secret agents in their midst. The prisoners they had sprung who went their own way. The rounding up. Wounded and bloodied after his capture, Chiste was heard reciting the Qur’an. Its familiar *surahs* both balm and support. The trials. The cover-up. Documents sealed away for half a century or more in dusty archives, eaten by termites or firebombed or misplaced.
+Secret agents in their midst. The prisoners they had sprung who went their own way. The rounding up. Wounded and bloodied after his capture, Chiste was heard reciting the Qur’an. Its familiar*surahs* both balm and support. The trials. The cover-up. Documents sealed away for half a century or more in dusty archives, eaten by termites or firebombed or misplaced.
 
 Turn back now to the scene outside the Outram Road Criminal Prison in 1915. A moss-splotched grey wall and three lines of khaki-clad soldiers forming a square on the green turf. A red, laterite road separates the spectators from the spectacle. The little six-year-old boy staring wide-eyed. The Khans with three others. About to face their earthly fate in a few moments. They are not being sent back to the Kala Pani, the dreaded black sea they had crossed to reach Singapore, but to a blackness of another kind – *sakrat-ul-maut* – senselessness. And not before *jan-kandani* – the agonised sucking out of life.
 
@@ -98,11 +98,9 @@ With little fanfare, the doomed men are strapped to the five-foot timber stakes 
 
 |**THE LOST TREASURE OF SINGAPORE'S HISTORY**
 
-|<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial7.JPG">By Umej Bhatia
-
 |It was a century-old map of Singapore discovered in a London bookshop about 10 years ago that launched my quest. The topographical map showed intriguing features of a settlement in Singapore and its infrastructure, formed between now-levelled hills and drained swamps, with a port that was already the world’s seventh busiest in 1914. I was intrigued by a prominently marked German prisoners camp, setting me off on a journey to find the “lost treasure” of Singapore’s neglected history just before, during and after the First World War.
 
-|<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial8.JPG">Umej Bhatia’s <i>Our Name is Mutiny: The Global Revolt Against the Raj and the Hidden History of the Singapore Mutiny, 1907–1915</i> retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.5703 BHA-[HIS] and SING 959.5703 BHA).
+|<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial8.JPG">Umej Bhatia’s <i>Our Name is Mutiny: The Global Revolt Against the Raj and the Hidden History of the Singapore Mutiny, 1907–1915</i> retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.5703 BHA-[HIS] and SING 959.5703 BHA).
 
 |The result is my book, *Our Name is Mutiny: The Global Revolt against the Raj and the Hidden History of the Singapore Mutiny, 1907–1915*, which focuses on an event usually known as the Sepoy Mutiny of 1915. The sepoys were Indian soldiers who turned against their British officers and marauded through Singapore on the eve of their departure for Hong Kong. The account in my book differs from the conventional historical narrative in that I uncover and tease out the globetrotting ideas and the rolling-stone revolutionaries chased by imperial policemen who played their part in influencing, seducing and subverting the sepoys to mutiny. Crucially, the mutiny was not just a local affair but a revolt and insurgency with a global flavour, one of a number of planned uprisings under the banner of a wider Mutiny movement.
 
