@@ -168,9 +168,9 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^37]:Goddess Saraswathi is the goddess of knowledge,music and the arts.
 [^38]:Yen, F. (2010, April 6). Sri Mariamman Temple unveils its new look. *The Straits Times*. Retrieved from Factiva.
 [^39]:Tay, S. C. (2010, April 10). Brighter and better. *The Straits Times*. Retrieved from Factiva.
-[^40]:Sanmugam, 2009, p. 14.
-[^41]:Lee, 2002, p. 76.
-[^42]:Liu, 1996, p. 115.
+[^40]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 14.
+[^41]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
+[^42]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 115.
 [^43]:Lord Subramanya is the Hindu God of War.
 [^44]:Goddess Drowpathai Amman is one of the most important female characters in the Hindu epic Mahabharata. She is sometimes portrayed as the Mother-Goddess.
 [^45]:Goddess Durgai Amman is the mother of the universe and believed to be the power behind the creation, preservation and destruction of the world.
