@@ -79,7 +79,7 @@ At last came the development we had all been waiting for. The Kuwaiti foreign mi
 
 The whole episode ended without bloodshed. It was good experience for me, the various ministries involved, the security service, the police and the military. While the decision to give the *Laju* hijackers safe passage out of Singapore attracted some criticism, we believed it was right. We wanted to minimise any likelihood of a terrorist group picking a quarrel with Singapore and seeking retaliation. In government you often have to make difficult decisions about serious problems with little accurate information at your disposal, and under great time pressure.
 
-|<img src="/images/Vol-12-issue-3/s-r-nathan/05_sr_nathan.jpg">|
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/s-r-nathan/05_sr_nathan.jpg"></div>
 
 |S R Nathan: *50 Stories from My Life* captures major milestones in the personal and official life of the late former President of Singapore (b. 3 July 1924−d. 22 August 2016). Written with a younger audience in mind, and illustrated by Morgan Chua, a former political cartoonist with the *Far Eastern Economic Review*, the book will appeal to anyone interested in Singapore and its history.|
 
