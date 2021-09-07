@@ -35,9 +35,9 @@ With each extension, repair and restoration over the subsequent decades, Sri Mar
 
 The temple was last re-consecrated in April 2010, in accordance with the Hindu custom that requires temples to be restored to their original splendour every 12 years.[^17] As it is today as with times past, each time the temple is renovated and re-consecrated, artisans and sculptors from South India are engaged to do the work.[^18]
 
-#### **A PLACE FOR THE COMMUNITY**
+#### **A Place for the Community**
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/03_temple_design.jpg">The original three-tiered gopuram (tower) was rebuilt in 1936 into its present five tiers. This is a 1970 postcard view of the <i>gopuram</i>. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/time-honoured-temple-design/03_temple_design.jpg">The original three-tiered gopuram (tower) was rebuilt in 1936 into its present five tiers. This is a 1970 postcard view of the <i>gopuram</i>. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 A Hindu temple is both a sacred and secular space. It serves as a place of worship as well as a venue of congregation for social and cultural functions such as celebrations of festivals and marriages.
 
