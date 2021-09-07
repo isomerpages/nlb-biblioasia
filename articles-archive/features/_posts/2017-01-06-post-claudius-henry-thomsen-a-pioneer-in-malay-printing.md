@@ -6,10 +6,10 @@ layout: post
 ---
 #### Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula. **Bonny Tan** sheds light on this pioneer printer.
 
-In the flickering light of the candles, the men relentlessly worked the press. Their bodies slicked with perspiration, and staving off hunger and sleep, they continued tirelessly through the night. As the handpress could not cope with the demands of printing this massive work, Munshi Abdullah bin Abdul Kadir, the learned Malay teacher and translator, had worked non-stop over two days to cast additional Malay font types to complete the job. The item in press was believed to be Stamford Raffles’ Proclamation of 1 January 1823, likely the earliest publication printed in Singapore.[^1]
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/1-claudies-henry-thomsen.jpg)
-<div style="background-color: white;">Danish missionary Reverend Claudius Henry Thomsen is credited with producing some of the earliest Malay-language publications in Singapore and the Malay Peninsula. <i>All rights reserved, Milner, A.C. (1980). A Missionary Source For a Biography of Munshi Abdullah. Journal of the Malaysian Branch of the Royal Asiatic Society, 53(1 (237)), 111–119.</i></div>
+<div style="background-color: white;"><img style="width:300px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/1-claudies-henry-thomsen.jpg">Danish missionary Reverend Claudius Henry Thomsen is credited with producing some of the earliest Malay-language publications in Singapore and the Malay Peninsula. <i>All rights reserved, Milner, A.C. (1980). A Missionary Source For a Biography of Munshi Abdullah. Journal of the Malaysian Branch of the Royal Asiatic Society, 53(1 (237)), 111–119.</i></div>
+
+In the flickering light of the candles, the men relentlessly worked the press. Their bodies slicked with perspiration, and staving off hunger and sleep, they continued tirelessly through the night. As the handpress could not cope with the demands of printing this massive work, Munshi Abdullah bin Abdul Kadir, the learned Malay teacher and translator, had worked non-stop over two days to cast additional Malay font types to complete the job. The item in press was believed to be Stamford Raffles’ Proclamation of 1 January 1823, likely the earliest publication printed in Singapore.[^1]
 
 Munshi Abdullah, with the assistance of a young Eurasian called Michael, printed 50 copies of the work in English and 50 in Malay. It was three in the morning by the time the documents were ready and these were distributed around town as instructed by Raffles. The founder of Singapore had insisted that the settlement’s laws be published by that morning, the first day of the New Year.[^2]
 
@@ -33,9 +33,9 @@ Upon seeing the press from Serampore, Munshi Abdullah noted: “The Malay letter
 
 Academic Ibrahim Ismail notes that the new press was used for all Malay publications produced in Malacca “except for title pages with large Jawi letters, which were printed from woodcuts”. The Jawi calligraphy was likely the work of Munshi Abdullah, while the engraving of the title on wood was done by experienced Chinese typecutters from the Chinese printing press in Malacca.[^10]
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/2-claudies-henry-thomsen.jpg)
-<div style="background-color: white;">(Left) Munshi Abdullah bin Abdul Kadir was an accomplished Malay scholar and the “father of modern Malay literature”. He helped guide Claudius Henry Thomsen in his understanding of the Malay language. Illustration by Harun Lat. <i>All rights reserved, Hadijah Rahmat. (1999). Antara Dua Kota. Singapore: Regional Training and Publishing Centre.</i></div>
-<div style="background-color: white;">(Right) The Chinese and English printing offices in Malacca where Thomsen’s printing press was likely co-located with the English press. Missionary Sketches XXVIII, January, 1825. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;"><img src="/images/Vol-12-issue-4/claudius-henry-thomsen/2a-claudies-henry-thomsen.jpg">Munshi Abdullah bin Abdul Kadir was an accomplished Malay scholar and the “father of modern Malay literature”. He helped guide Claudius Henry Thomsen in his understanding of the Malay language. Illustration by Harun Lat. <i>All rights reserved, Hadijah Rahmat. (1999). Antara Dua Kota. Singapore: Regional Training and Publishing Centre.</i></div>
+
+<div style="background-color: white;"><img src="/images/Vol-12-issue-4/claudius-henry-thomsen/2b-claudies-henry-thomsen.jpg">The Chinese and English printing offices in Malacca where Thomsen’s printing press was likely co-located with the English press. Missionary Sketches XXVIII, January, 1825. <i>Courtesy of Wikimedia Commons.</i></div>
 
 Unfortunately, Thomsen did not see the arrival of this press as his wife’s illness led to his sudden departure for England on 12 September 1816. However, he left behind two Malay manuscripts that were ready for printing. In the meantime, Munshi Abdullah was taught by the English Protestant missionary, Walter Henry Medhurst, who arrived in Malacca in June 1817,[^11] to set the types and operate the printing press.
 
