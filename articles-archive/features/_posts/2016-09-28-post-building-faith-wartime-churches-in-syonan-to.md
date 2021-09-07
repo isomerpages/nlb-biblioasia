@@ -6,12 +6,12 @@ layout: post
 ---
 #### Christian POWs interned during the Japanese Occupation found ingenious ways to worship. **Gracie Lee** looks at a book documenting these makeshift churches in war-torn Singapore.
 
+<div style="background-color: white;"><br><img style="width:500px"  src="/images/Vol-12-issue-3/building-faith/01-building_faith.jpg">A painting of a church service by William Haxworth, 1942. Haxworth was the Chief Investigator of the War Risks Insurance Department of the Singapore Treasury when the war broke out. He was subsequently interned by the Japanese, first in Changi Prison and then at Sime Road Camp. He secretly drew over 300 small paintings and sketches that depicted the harsh and cramped living conditions in these POW camps. <i>W R M Haxworth Collection, courtesy of National Archives of Singapore.</i></div>
+
 <center>“Come unto Me, all ye labour and are<br> 
 heavy laden, and I will give you rest.” 
 </center>
 <p align=right>– Matthew 11:28</p>
-
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/building-faith/01-building_faith.jpg">A painting of a church service by William Haxworth, 1942. Haxworth was the Chief Investigator of the War Risks Insurance Department of the Singapore Treasury when the war broke out. He was subsequently interned by the Japanese, first in Changi Prison and then at Sime Road Camp. He secretly drew over 300 small paintings and sketches that depicted the harsh and cramped living conditions in these POW camps. <i>W R M Haxworth Collection, courtesy of National Archives of Singapore.</i></div>
 
 Published in Britain in 1946, *The Churches of the Captivity in Malaya* was written by the Assistant Chaplain General of the Far East, Reverend John Northridge Lewis Bryan,[^1] to show how churches provided “spiritual and moral uplift” to Christian Allied soldiers interned in prisoners-of-war (POW) camps in Singapore during the Japanese Occupation (1942–45).
 
