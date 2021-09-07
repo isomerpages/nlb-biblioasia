@@ -124,7 +124,7 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |Other important *fukan* that contributed to the development of Chinese literature in Singapore were *Huang Dao* (荒岛) (1927) and *Lu Yi*(绿漪) (1927) by *Sin Kuo Min Jit Poh*; *Ye Lin* (椰林) (1928) by *Lat Pau*; *Hong Huang* (洪荒) (1927), *Wen Yi San Ri Kan* (文艺三日刊) (1929) and *Shi Sheng* (狮声) (1933) by *Nanyang Siang Pau*; and *Ye Pa* (野葩) (1930) and *Chen Xing* (晨星) (1937) by *Sin Chew Jit Poh*.
 
-|#### **The Swordsman Makes its Debut**
+|**The Swordsman Makes its Debut**
 
 |Fans of Chinese sword-fighting, or *wuxia*, novels would be familiar with Linghu Chong (令狐冲), the honourable, happy-go-lucky swordsman with a weakness for alcohol. He is the protagonist in *Xiao Ao Jianghu* (笑傲江湖), a story written by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha).
 
@@ -181,4 +181,18 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 [^16]:The Hundred Days’ Reform was a failed 103-day reform movement undertaken by Emperor Guangxu and his supporters in 1898. Accepting suggestions made by Kang Youwei, Emperor Guangxu enacted a series of reforms aimed at making sweeping social and institutional changes. The movement failed when the opposing conservative forces initiated a coup that led to the emperor’s house arrest.
 [^17]:Academic sources list the year as 1906. However, personal recollections by the three leading revolutionaries in Singapore, Teo Eng Hock, Tan Chor Lam and Lim Nee Soon, state the year as 1905. See *Nanyang and founding of the Republic* (《南洋与创立民国》), *Wan Qing Yuan and the 1911 Revolution* (《晚晴园与中国革命史略》) and *A record of the Tong Meng Hui in Singapore* (《星洲同盟会录》). See “When was the Singapore branch of Tong Meng Hui established?” (星洲同盟会到底何时成立) in *Lianhe Zaobao* (6 October 2011) for a discussion of the discrepancies.
 [^18]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 70–71, 86, 92, 94.
-[^19]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 43, 53; 彭剑 [Peng, J.]. (2011).《清季宪政大辩论: 〈中兴日报〉与〈南洋总汇新报〉论战研究》 [Debates on constitutionalism in late Qing: The arguments between Union Times and Chong Shing Yit Pao] (pp. 19-20). 武汉: 华中师范大学出版社. (Call no.: Chinese R 951.07 PJ)
+[^19]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 43, 53; 彭剑 [Peng, J.]. (2011).[《清季宪政大辩论: 〈中兴日报〉与〈南洋总汇新报〉论战研究》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14540549) [*Debates on constitutionalism in late Qing: The arguments between Union Times and Chong Shing Yit Pao*] (pp. 19-20). 武汉: 华中师范大学出版社. (Call no.: Chinese R 951.07 PJ)
+[^20]:Sources referred to in this article mention two dates: late 1905 or early 1906. Unfortunately, as the early issues of *Union Times* are lost, there is no way to ascertain the correct year.
+[^21]:[Chen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082030), 1967, pp. 86, 89, 94, 97; See J. Peng for a detailed list of articles and names of main writers (pp. 27–39).
+[^22]:See J. Peng (2011) for a detailed list of the literary articles (pp. 49–55).
+[^23]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 100–104; Yen, C.H. (1976). [The Overseas Chinese and the 1911 revolution](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=863880) (p. 188). Kuala Lumpur: Oxford University Press. (Call no.: RSING 301.451951095957 YEN); Song, O.S. (1984). One hundred years’ history of the Chinese in Singapore (p. 441). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON-[HIS])
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
+
+
+郑文辉 [Tay, B.H.]. (1973).《新加坡华文报业史, 1881-1972》 [History of Chinese newspapers in Singapore, 1881-1972] (pp. 36, 38). 新加坡: 新马出版印刷公司.(Call no.: Chinese RCLOS 079.5957 CWH); Chen, 1967, p. 105–107, 110; Yen, 1976, p. 202.
