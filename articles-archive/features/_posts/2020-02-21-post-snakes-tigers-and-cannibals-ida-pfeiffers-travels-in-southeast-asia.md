@@ -186,7 +186,7 @@ Tragically, on her way to the coast under armed guard, Pfeiffer contracted the i
 
 Disappointed that she had collected so few specimens on this trip, Pfeiffer still hoped to travel further, but it was not to be; the fever kept returning. There was only one journey left in her – to return home.
 
-Emaciated and weak, she finally reached Vienna in mid-September 1858. A few weeks later, she succumbed to her illness in the night of [^28] October. She was only 61.
+Emaciated and weak, she finally reached Vienna in mid-September 1858. A few weeks later, she succumbed to her illness in the night of 28 October. She was only 61.
 
 By the time she died, Pfeiffer had become one of the most famous women in the world. She had seen more of the world than any other woman before her. But wanderlust at last had killed her.
 
