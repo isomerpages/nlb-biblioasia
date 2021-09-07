@@ -53,7 +53,7 @@ In the rising heat and humidity of the morning, Ridout’s speech rehearsed a ti
 
 “As this war is such that no one has returned out of those who have gone to the war. All died. And those who have enlisted will not live alive. Believe this. World has died. No one has escaped who has gone to the war. All have perished. And there is recruiting open, don’t let any men enlist. As all are being taken to the war. All will be caused to be killed.”[^3]
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial4.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/trialb.jpg">
 <div style="background-color: white;">Sepoys in the British Indian Army in Singapore, 1915. This photograph is from the album of Sergeant B.W. Turner of the 1st/4th Battalion, King’s Shropshire Light Infantry. Turner served in one of the battalion’s companies sent to Singapore in February 1915 to quash the mutiny. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 With a battalion and their own minds in disarray, some of the sepoys developed their own conspiracy theories, with help perhaps from passing agents of influence. Their once-disciplined heads held many confusing ideas. Some noble, others dangerous and mixed with trivial feuds and simmering frustrations. They were being sent away from Singapore to fight and kill Turks – their fellow Muslims. This contradicted the one true faith. Even worse, they speculated that their ship was to be sunk en route to their next post. Reflecting the Rajput Hindu origins of his Ranghar identity in a moment of great stress, Sepoy Shaikh Mohammed wrote to his family, reflecting Hindu ideas of resurrection:
