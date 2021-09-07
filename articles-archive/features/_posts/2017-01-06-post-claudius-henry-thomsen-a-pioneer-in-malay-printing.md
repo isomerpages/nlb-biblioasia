@@ -142,23 +142,20 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 <div style="background-color: white;"><img style="width:300px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/7-claudies-henry-thomsen.png">The National Library holds a copy of <i>A Code of Bugis Maritime Laws</i>, which was edited by Thomsen and published in 1832. The publication was subsequently translated into French, German and Dutch.</div>
 
-![Alt text for image on Isomer site](/images/space1.png)
-
-|The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing this article and sharing their valuable insights.|
+The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing this article and sharing their valuable insights.
 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png">
-	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
-</div>
+	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i> magazine.</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
 #### **Notes**
 
-[^1]:Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. *[Journal of the Malaysian Branch of the Royal Asiatic Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)*, 54(2 (240)), 1–73, pp. 52–53. Call no.: RCLOS 959.5 JMBRAS. Bastin notes that Regulation No. 1 – “A Regulation for the Registry of Land at Singapore” – was printed that same day on 1 January 1823 and Abdullah’s suggestion that it was the regulation on the prohibition of gambling was most likely wrong as this was printed some time later in May 1823. Some academics report the publication date as 31 December 1822 as printing began the night before as described in the Hikayat Abdullah. Leona O’Sullivan mentions a proclamation written on 2 December 1822. See O’ Sullivan, L. (1984). The London Missionary Society: A written record of missionaries and printing presses in the Straits Settlements, 1815–1847. *[Journal of the Malaysian Branch of the Royal Asiatic Society,](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)* 57 (2 (247)), 61–104, p. 74. Call no.: RCLOS 959.5 JMBRAS)
+[^1]:Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. *[Journal of the Malaysian Branch of the Royal Asiatic Society, 54](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)* (2 (240)), 1–73, pp. 52–53. Call no.: RCLOS 959.5 JMBRAS. Bastin notes that Regulation No. 1 – “A Regulation for the Registry of Land at Singapore” – was printed that same day on 1 January 1823 and Abdullah’s suggestion that it was the regulation on the prohibition of gambling was most likely wrong as this was printed some time later in May 1823. Some academics report the publication date as 31 December 1822 as printing began the night before as described in the Hikayat Abdullah. Leona O’Sullivan mentions a proclamation written on 2 December 1822. See O’ Sullivan, L. (1984). The London Missionary Society: A written record of missionaries and printing presses in the Straits Settlements, 1815–1847. *[Journal of the Malaysian Branch of the Royal Asiatic Society, 57](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)* (2 (247)), 61–104, p. 74. Call no.: RCLOS 959.5 JMBRAS)
 
-[^2]:Hill, A.H. (1955, June). The Hikayat Abdullah. *[Journal of the Malayan Branch of the Royal Asiatic Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)*, 28 (3 (171)), 3–354, pp. 165–166. Call no.: RCLOS 959.5 JMBRAS
+[^2]:Hill, A.H. (1955, June). The Hikayat Abdullah. *[Journal of the Malayan Branch of the Royal Asiatic Society, 28](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)* (3 (171)), 3–354, pp. 165–166. Call no.: RCLOS 959.5 JMBRAS
 
 [^3]:Today, Lower Saxony is part of Germany although for some time in the 19th century, it was part of Denmark. This is why Thomsen is sometimes referred to as German and at other times, Danish.
 [^4]:According to A.H. Hill, Thomsen was in the Dutch East Indies prior to his arrival in Malacca in 1815 and had likely picked up Indonesian Malay there, which is distinct from the Malay spoken in the Peninsula. This may account for Thomsen’s claims in having prior knowledge of the Malay language and Abdullah’s frustrations in teaching him the language. See [Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 291.
