@@ -82,3 +82,44 @@ In the initial issues, news coverage in both newspapers was limited and tended t
 Well-known writers and journalists in China and Singapore such as Fu Wumen, Khoo Seok Wan, Yu Dafu and Hu Yuzhi were also hired by the newspapers. Their editorials and *fukan* (副刊; literary supplements) were well written, perceptive and informative.30
 
 With substantial financial backing and the availability of experienced staff, the two newspapers soon became the leading Chinese dailies in Singapore. Both invested heavily in infrastructure and built up their distribution network. Modern printing machines were introduced into their operations in the 1920s and 1930s. They also successfully expanded into the region by establishing an extensive network of agencies and sub-distributors. Additionally, the newspapers tapped on local correspondents in various countries to submit news and stories via cable.31
+
+Following the Japanese invasion of Manchuria in 1931, *Nanyang Siang Pau* began publishing on Sundays to deliver the latest news about the war. This edition, later renamed the “Sunday Edition”, first came out on 20 December 1931. This marked the first time that a local newspaper was published on a Sunday. Other newspapers, including non-Chinese ones, soon followed with their own Sunday edition. Rival *Sin Chew Jit Poh* started its “Sunday Special Supplement” five months later.32
+
+The fall of Singapore to the Japanese in February 1942, however, put a halt to further newspaper developments. During the Japanese Occupation, many Chinese journalists, writers and editors ended up being killed during Operation Sook Ching33 or had to flee Singapore because of their anti-Japanese writings before the Occupation. All local newspapers were taken over by the Propaganda Department and later by Domei News Agency, the official news agency of the Empire of Japan.
+
+Facilities at *Nanyang Siang Pau* and *Sin Chew Jit Poh* were seized, and the office of Sin Chew Jit Poh on Robinson Road was used to publish the Chinese newspaper *Zhaonan Ribao* (昭南日报), a wartime propaganda channel for the Japanese government. First published on 21 February 1942, *Zhaonan Ribao* was the Chinese edition of *The Syonan Shimbun*, the English-language newspaper produced by the Japanese to replace *The Straits Times*.
+
+One defining feature of *Zhaonan Ribao* was its articles about the Overseas Chinese Association, an organisation set up to mediate between the Japanese government and the local Chinese community. The newspaper also carried more content relating to Japanese culture, values and history in a section called “Chao Yang” (朝阳).34
+
+<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News6.JPG">
+<div style="background-color: white;">The inaugural issue of <i>Nanyang Siang Pau</i>, originally known as <i>Chinese Daily Journal of Commerce</i>, published on 6 September 1923. <i>Image reproduced from Lim, J.K. (Ed.) (1993). Our 70 Years: History of Leading Chinese Newspapers in Singapore (p. 107). Singapore: Chinese Newspapers Division, Singapore Press Holdings. (Call no.: RSING 079.5957 OUR)</i></div>
+
+#### **Post-war Developments**
+
+Both *Nanyang Siang Pau* and *Sin Chew Jit Poh* resumed publication in September 1945, almost immediately after the Japanese surrendered. The readership and market of these two newspapers expanded in the post-war years and, in the 1950s, both papers even purchased aeroplanes to deliver copies to their subscribers in the region.
+
+This post-war period also saw the streamlining of work processes at the two newspapers: administrative duties were hived off from editorial work, and new departments such as public relations and operations were established. Both papers also moved with the times by using simplified Chinese characters and horizontal typesetting in the 1970s, and incorporating new technology in the 1980s.35
+
+It was not all smooth sailing though. In 1971, the arrest of four senior staff from *Nanyang Siang Pau* sent shockwaves through the industry. The government accused the newspaper of jeopardising the internal security and stability of Singapore. The relationship between the newspaper and the government became tense, with both sides releasing statements denying each other’s claims. The four people were detained for periods ranging between seven and 29 months.3436 In 1973, another senior executive was arrested under the Internal Security Act. He was only released five years later.
+
+In 1974, the Newspaper and Printing Presses Act came into force. Under this legislation, all newspaper publishing companies had to be converted into public companies. The company that owned *Sin Chew Jit Poh* was reorganised into a public entity under the name Sin Chew Jit Poh (Singapore) Limited, while *Nanyang Siang Pau* became owned by Nanyang Press Singapore Limited. The act also required the companies to issue both ordinary shares and management shares, which they did in 1977.37
+
+Perhaps the most important milestone in the history of the industry was the merger of the two rival dailies in 1983. Due to potential falling readership as a result of English being taught as the first language in schools and mother tongues as the second, the two Chinese dailies decided to pool resources and end their decades-long rivalry. The merger led to the formation of Singapore News and Publications Limited, which produced the morning paper *Lianhe Zaobao* (联 合早报) and the evening paper *Lianhe Wanbao* (联合晚报).
+
+In 1984, the three newspaper companies in Singapore – Singapore News and Publications Limited, The Straits Times Press Limited and Times Publishing Berhad – merged to form Singapore Press Holdings Limited (SPH). The publishing conglomerate currently owns all the major newspapers produced in Singapore.38
+
+Today, SPH publishes 17 newspapers titles in the four official languages (English, Chinese, Malay and Tamil). The main Chinese daily, *Lianhe Zaobao*, has a print and digital circulation of 212,200, with subscribers from Singapore as well as Indonesia, Brunei, Hong Kong, Vietnam, Beijing and Shanghai. In 1995, as part of its digital transformation, *Lianhe Zaobao* began publishing an online edition to enlarge its subscriber pool.39
+
+In this digital age, however, subscriptions to physical newspapers have been steadily decreasing. On 18 October 2019, SPH reported that the total circulation of all print newspapers in its stable had declined by 7.3 percent compared with the previous year. On the contrary, its digital business showed healthy growth with Chinese newspapers attracting more than 10,000 signs-up, of which three-quarters were new subscribers.
+
+Moving forward, SPH has announced that it will focus on the digital transformation of its core media business and intensify efforts to make content available across different platforms. It remains to be seen, however, if Chinese newspapers in Singapore will continue to evolve and transform with the same innovative spirit and fervour that their predecessors did.40
+
+|**FUKAN – THE CRADLE OF SINGAPORE CHINESE LITERATURE**
+
+|In 1907, Chinese daily *Lat Pau* introduced a supplement known as *fu zhang* (附张; which literally means “attached sheet”) in which folksongs and popular tales along with other miscellaneous articles were featured.25
+
+Other Chinese newspapers followed suit and produced their own supplements, now called *fukan*(副刊). One of the most important *fukan* published was *Xin Guo Min Za Zhi* (新国民杂志), the supplement to *Sin Kuo Min Jit Poh*(新国民日报), which was founded in 1919. This supplement was a milestone in the history of Singapore Chinese literature as it introduced modern Chinese literature inspired by the New Culture Movement26 in China to local readers.
+
+In 1925, *Nan Feng* (南风) was published by *Sin Kuo Min Jit Poh while Xing Guang* (星光) was published by *Lat Pau*. These supplements helped define Singapore Chinese literature and establish its future direction of growth.
+
+Other important *fukan* that contributed to the development of Chinese literature in Singapore were *Huang Dao* (荒岛) (1927) and *Lu Yi*(绿漪) (1927) by *Sin Kuo Min Jit Poh*; *Ye Lin* (椰林) (1928) by *Lat Pau*; *Hong Huang* (洪荒) (1927), *Wen Yi San Ri Kan* (文艺三日刊) (1929) and *Shi Sheng* (狮声) (1933) by *Nanyang Siang Pau*; and *Ye Pa* (野葩) (1930) and *Chen Xing* (晨星) (1937) by *Sin Chew Jit Poh*.
