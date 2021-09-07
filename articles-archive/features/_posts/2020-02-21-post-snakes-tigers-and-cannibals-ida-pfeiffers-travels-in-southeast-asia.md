@@ -103,7 +103,7 @@ Shortly before Pfeiffer’s arrival, a small cottage had been built in the fores
 
 Herr Behn sent her a boat to visit nearby islets, and five Malays to help her. The men came every morning and asked if she wanted the boat. If she didn’t, they would join in her rambles through the jungle hunting insects and protecting her from tigers.
 
-“These animals have of late increased tremendously”, she was told. And the beasts “do not hesitate to break into the plantations and carry off the labourers in broad daylight. In the year 1851, it is stated that no less than the almost incredible number of four hundred persons were destroyed by them”.[^12]But even these harrowing stories could not deter her from “finding the greatest delight in roaming from morning till evening in these most beautiful woods”.[^13]
+“These animals have of late increased tremendously”, she was told. And the beasts “do not hesitate to break into the plantations and carry off the labourers in broad daylight. In the year 1851, it is stated that no less than the almost incredible number of four hundred persons were destroyed by them”.[^12] But even these harrowing stories could not deter her from “finding the greatest delight in roaming from morning till evening in these most beautiful woods”.[^13]
 
 Pfeiffer’s Malay companions were armed with muskets and long knives. “We saw traces of tigers every day; we found the marks of their claws imprinted in the sand or soft earth; and one day at noon, one of these unwelcome guests came quite near to our cottage, and fetched himself a dog, which he devoured quite at his leisure only a few hundred steps off.”[^14]
 
