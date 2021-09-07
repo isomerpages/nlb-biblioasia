@@ -142,8 +142,8 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^11]:The term “kling” or “keling”, first mentioned in the Sejarah Melayu or Malay Annals written between the 15th and 16th centuries, was used in colonial Malaya to describe people from the Indian subcontinent. Over time, the term has taken on derogatory connotations and is today regarded by Indians as offensive.
 [^12]:Uma Devi, 2009, p. 49.
 [^13]:Singapore was once a penal colony, and the first shipment of Indian prisoners to Singapore took place in 1825. See Tan, B. (2015, Oct–Dec). Convict labour in colonial Singapore. BiblioAsia, 11(3), 36–41.
-[^14]:Liu, 1996, p. 114; [Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
-[^15]:Liu, G. (1984). Pastel portraits: Singapore’s architectural heritage (p. 126). Singapore: Singapore Coordinating Committee. Call no.: RSING 722.4095957 PAS 
+[^14]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 114; [Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
+[^15]:Liu, G. (1984). *[Pastel portraits: Singapore’s architectural heritage](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082440)* (p. 126). Singapore: Singapore Coordinating Committee. Call no.: RSING 722.4095957 PAS 
 [^16]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
 [^17]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 114.
 [^18]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 72.
@@ -158,7 +158,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^27]:[Oldest place for the Hindus.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811213-1.2.112.20.1.aspx)(1981, December 13). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 [^28]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
 [^29]:[Uma Devi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488), 2009, p. 49.
-[^30]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 14.
+[^30]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
 [^31]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 115.
 [^32]:Lee, E. (1990). *[Historic buildings of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5572905)* (p. 65). Singapore: Preservation of Monuments Board. Call no.: RSING 720.95957 LEE; Sanmugan, 2009, p.17.
 [^33]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
