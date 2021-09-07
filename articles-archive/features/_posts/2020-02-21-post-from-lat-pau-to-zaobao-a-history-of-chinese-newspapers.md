@@ -154,7 +154,7 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |Some tabloids resorted to pornography to increase their readership in the highly competitive market. On the basis that these tabloids were promoting “yellow culture”,[^41] the government banned a number of such publications or revoked the printing licences of the companies in the 1960s.
 
-*The author wishes to thank Mr Lee Ching Seng for reviewing the essay. Past issues of Chinese newspapers can be accessed via NewspaperSG – a searchable, online archive of local newspapers – and also from the  microfilm collection at level 11 of the Lee Kong Chian Reference Library.*
+*The author wishes to thank Mr Lee Ching Seng for reviewing the essay. Past issues of Chinese newspapers can be accessed via NewspaperSG – a searchable, online archive of local newspapers – and also from the  microfilm collection at level 11 of the Lee Kong Chian Reference Library.* <br>
 
 <div style="background-color: white;">
 <br/>
