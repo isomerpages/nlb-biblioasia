@@ -146,7 +146,7 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |Chinese tabloids first appeared and flourished in Singapore in the 1920s, providing readers with a different form of entertainment compared to the dailies. Known as *xiao bao* (小报), these tabloids were usually published once every two to three days and were much thinner than the dailies.
 
-|<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News8.JPG">Xin Li Bao (新力报) reporting on the opening of the latest nightclub in Singapore in December 1950. <i>Xin Li Bao, 29 December 1950 (issue 16).</i>
+|<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News8.JPG">Xin Li Bao (新力报) reporting on the opening of the latest nightclub in Singapore in December 1950. <i>Xin Li Bao, 29 December 1950 (issue 16).</i>
 
 |The first Chinese tabloid, *Xiao Xian Zhong* (消闲钟), was published in Singapore in 1925. It featured mostly entertainment news, while other tabloids focused on topics such as photography, commerce, literature, education and politics.
 
