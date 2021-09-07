@@ -132,7 +132,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 |Thomsen began work on translating the New Testament of the Bible into Malay when he realised that the stocks of his Calcutta edition was running low. He devoted 12 to 15 months of fulltime work to carry out the translation, and finally printed 1,500 copies in June 1831, noting that this event “will form an era in the Malay Mission”. The British and Foreign Bible Society contributed 800 sicca Rupees for its publication.[^44] The National Library, Singapore, has the first edition of this rare publication.|
 
-<div style="background-color: white;"><img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/6-claudies-henry-thomsen.png">The National Library’s copy of <i>The New Testament of our Lord and Saviour Jesus Christ in Malay</i>. Thomsen spent 12 to 15 months translating the New Testament into Malay, and printed 1,500 copies in June 1831.</div>
+<div style="background-color: white;"><br><img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/6-claudies-henry-thomsen.png">The National Library’s copy of <i>The New Testament of our Lord and Saviour Jesus Christ in Malay</i>. Thomsen spent 12 to 15 months translating the New Testament into Malay, and printed 1,500 copies in June 1831.</div>
 
 <img style="width:0px;" src="/images/space1.png">
 
