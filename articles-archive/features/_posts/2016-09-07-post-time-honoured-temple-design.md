@@ -138,9 +138,9 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^7]:Sanmugam, E., et al. (Eds.). (2009). Sacred sanctuary: The Sri Mariamman Temple (p. 10). Singapore: Sri Mariamman Temple. Call no.: RSING 294.535095957 SAC
 [^8]:Sanmugam, 2009, p. 10
 [^9]:Lee, G. B. (2002). The religious monuments of Singapore: Faiths of our forefathers (p. 72). Singapore: Preservation of Monuments Board & Landmark Books. Call no.: RSING 726.095957 LEE; Ong, C. S. (1971, September 11). Discovering Singapore. The New Nation, p. 7. Retrieved from NewspaperSG.
-[^10]:Lee, 2002, p. 72; The New Nation, 11 Sep 1971.
+[^10]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 72; *[The New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710911-1.2.47.1.aspx)*, 11 Sep 1971.
 [^11]:The term “kling” or “keling”, first mentioned in the Sejarah Melayu or Malay Annals written between the 15th and 16th centuries, was used in colonial Malaya to describe people from the Indian subcontinent. Over time, the term has taken on derogatory connotations and is today regarded by Indians as offensive.
-[^12]:Uma Devi, 2009, p. 49.
+[^12]:[Uma Devi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488), 2009, p. 49.
 [^13]:Singapore was once a penal colony, and the first shipment of Indian prisoners to Singapore took place in 1825. See Tan, B. (2015, Oct–Dec). Convict labour in colonial Singapore. BiblioAsia, 11(3), 36–41.
 [^14]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 114; [Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
 [^15]:Liu, G. (1984). *[Pastel portraits: Singapore’s architectural heritage](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082440)* (p. 126). Singapore: Singapore Coordinating Committee. Call no.: RSING 722.4095957 PAS 
