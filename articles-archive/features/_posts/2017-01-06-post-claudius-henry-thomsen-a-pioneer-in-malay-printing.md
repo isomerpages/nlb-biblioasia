@@ -197,6 +197,6 @@ The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing
 [^40]:[Noorduyn](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=924851), 1957, pp. 246–247. 
 [^41]:Proudfoot, I. (1993). *[Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=6712616)* (p. 550). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO
 [^42]:Ching, 1996, p. 150; [Harrison](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1710735), 1979, p. 125; [Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616),1993, p. 550.
-[^43]:For more information on the publication, see Ong, E.C. (2016, January–March). A Christian sermon in Malay. BiblioAsia, 11 (4), 96–97. Call no.: RSING 027.495957 SNBBA-[LIB]; [O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 72.
+[^43]:For more information on the publication, see Ong, E.C. (2016, January–March). A Christian sermon in Malay. *BiblioAsia, 11* (4), 96–97. Call no.: RSING 027.495957 SNBBA-[LIB]; [O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 72.
 [^44]:[Ibrahim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5271424), 1980, pp. 80–81.
 [^45]:[Noorduyn](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=924851), 1957, pp. 241–243
