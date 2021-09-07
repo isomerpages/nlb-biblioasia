@@ -134,7 +134,7 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |Known in English under various titles such as *The Wandering Swordsman and The Smiling, Proud Wanderer*, the novel is so popular that it has been adapted for the stage, television, the big screen, comic books and even video games. To attract readers, the novel was first serialised in the inaugural issue of *Shin Min Daily News* (新民日报) on 18 March 1967, a local newspaper started by Cha and the founder of Axe Brand Universal Oil, Leong Yun Chee.
 
-|This was even before the novel was published in the Hong Kong newspaper *Ming Pao* (民报), which was also founded by Cha. Serialisation of his other novels in *Shin Min* soon followed.
+|This was even before the novel was published in the Hong Kong newspaper *Ming Pao* (民报), which was also founded by Cha. Serialisation of his other novels in *Shin Min*  soon followed.
 
 |The entrance of *Shin Min Daily News* livened up the Chinese newspaper publishing scene in Singapore with its focus on the world of entertainment. The daily became an instant hit, thanks to its lottery results, sword-fighting novels, exclusive entertainment news and horse racing tips.
 
