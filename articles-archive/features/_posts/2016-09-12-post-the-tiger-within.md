@@ -6,7 +6,7 @@ layout: post
 ---
 #### These fanged beasts are by turns both captivating as they are terrifying. **Patricia Bjaaland Welch** explores the tiger motif in the art and literature of Asia.
 
-
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg">Hongli spearing a tiger. One of the many paintings of Prince Bao Hongli who ascended the throne in 1736 as the Qianlong Emperor (1735–96). Artist unknown; ink and colour on silk. Palace Museum, Beijing. <i>Courtesy of Wikimedia Commons.</i></div>
 
 <center>“Tyger, Tyger, burning bright, In the forests of the night”1</center> 
 <p align="right">– William Blake</p>
