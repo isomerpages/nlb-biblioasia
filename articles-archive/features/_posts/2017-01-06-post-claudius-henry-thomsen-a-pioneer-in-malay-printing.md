@@ -177,7 +177,7 @@ The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing
 [^20]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, pp. 86, 90; Ching, 1996, pp. 112, 126–127. [On 27 November 1832, Thomsen returned this small wooden press to Penang at the request of the LMS.]
 [^21]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1981, pp. 52–53
 [^22]:Ching, 1996, p. 158
-[^23]:O’Sullivan, 1984, pp. 78–79; Ching, 1996, pp. 159–160. [Milton left the mission but not Singapore, remaining there until his death in 1849.]
+[^23]:[O’Sullivan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4126333), 1984, pp. 78–79; Ching, 1996, pp. 159–160. [Milton left the mission but not Singapore, remaining there until his death in 1849.]
 [^24]:Ching, 1996, pp. 63, 154–155, 445.
 [^25]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 74.
 [^26]:Bastin, J.S. (2014). *[Raffles and Hastings: Private exchanges behind the founding of Singapore](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=200867141)* (pp. 216–217). Singapore: National Library Board and Marshall Cavendish Editions. Call no.: RSING 959.5703 BAS
