@@ -93,25 +93,25 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 
 |**TEMPLE MILESTONES**|
 
-|1827 - Opens as a small wood-and-*attap* structure.|
+|**1827** - Opens as a small wood-and-*attap* structure.|
 
-|1843 - Brick building replaces the wood-and-*attap* structure.|
+|**1843** - Brick building replaces the wood-and-*attap* structure.|
 
-|1862–63 - Major reconstruction of the temple takes place.|
+|**1862–63** - Major reconstruction of the temple takes place.|
 
-|1936 - Major facelift, including construction of five-tiered *gopuram*.|
+|**1936** - Major facelift, including construction of five-tiered *gopuram*.|
 
-|1949 - Minor repair works carried out, including a fresh coat of paint.|
+|**1949** - Minor repair works carried out, including a fresh coat of paint.|
 
-|1960s - Restoration and decoration of the gopuram with elaborate sculptures and carvings.|
+|**1960s** - Restoration and decoration of the gopuram with elaborate sculptures and carvings.|
 
-|1971 - Addition of new statues and murals; removal of some statues, such as those of the Indian sepoys.|
+|**1971** - Addition of new statues and murals; removal of some statues, such as those of the Indian sepoys.|
 
-|1984 - Construction of two-storey wedding hall; restoration of sculptures and paintings; extension of the *vimanam*; building of the new Sundara Vinayagar sanctum, which houses the Lord Ganesha deity, to replace the old one.|
+|**1984** - Construction of two-storey wedding hall; restoration of sculptures and paintings; extension of the *vimanam*; building of the new Sundara Vinayagar sanctum, which houses the Lord Ganesha deity, to replace the old one.|
 
-|1996 - Addition of elevated viewing gallery; construction of three-storey annex with a separate entrance on Pagoda Street; restoration and repainting of murals, statues and sculptures.|
+|**1996** - Addition of elevated viewing gallery; construction of three-storey annex with a separate entrance on Pagoda Street; restoration and repainting of murals, statues and sculptures.|
 
-|2009 - Undergoes $3-million facelift; restoration of decorative statues, repainting of wall murals, waterproofing and strengthening of the roof, and the expansion of the administrative offices..|
+|**2009** - Undergoes $3-million facelift; restoration of decorative statues, repainting of wall murals, waterproofing and strengthening of the roof, and the expansion of the administrative offices..|
 
 <div style="background-color: white;">
 <br>
