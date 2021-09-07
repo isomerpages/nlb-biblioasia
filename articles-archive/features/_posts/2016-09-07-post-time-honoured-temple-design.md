@@ -4,7 +4,7 @@ date: 2016-09-07
 permalink: /vol-12/issue-3/oct-dec-2016/time-honoured-temple
 layout: post
 ---
-#### Sri Mariamman Temple is Singapore’s oldest Hindu shrine. **Anasuya Soundararajan and Sri Asrina Tanuri** describe the architectural features of this landmark.
+#### Sri Mariamman Temple is Singapore’s oldest Hindu shrine. **Anasuya Soundararajan** and **Sri Asrina Tanuri** describe the architectural features of this landmark.
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/01_temple_design.jpg">(Left) Three of the four vimanam (domes) marking the location of the shrines that house the statues of Hindu deities sometime in the late 19th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i><br>
 (Right) The vimanam, decorated with sculptures of Hindu deities and capped with small pinnacles, have become more ornate and elaborate over the years, with the last major facelift taking place in 2009. <i>Photographed in 2016 by the writers.</i></div>
