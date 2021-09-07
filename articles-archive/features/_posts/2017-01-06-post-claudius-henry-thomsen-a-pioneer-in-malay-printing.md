@@ -124,7 +124,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 |This booklet is the earliest extant Malay publication printed in Singapore and is found in the National Library, Singapore.|
 
-<div style="background-color: white;"><img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/5-claudies-henry-thomsen.png"><i>The Sermon on the Mount</i> is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore.</div>
+<div style="background-color: white;"><br><img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/5-claudies-henry-thomsen.png"><i>The Sermon on the Mount</i> is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore.</div>
 
 <img style="width:0px;" src="/images/space1.png">
 
