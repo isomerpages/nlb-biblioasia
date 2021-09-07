@@ -171,22 +171,14 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 [^6]:Chen, M.H. (1967). [*The early Chinese newspapers of Singapore, 1881–1912*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030) (p. 24). Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE); Yap, K.S. (1996). [*The press in Malaysia & Singapore (1806–1996*)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84475707) (pp. 1–3). Kuala Lumpur: Yap Koon See. (Call no.: RSING 079.595 YKS)
 [^7]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1976, pp. 31–32; Wong Hong Teng mentioned in his article, “The confirmation of *Lat Pau*’s first date of issue”(《叻报》创刊日期正式确定), published in the *Sin Chew Jit Poh*  on 24 May 1982 that he had located two notices on 9 and 10 December 1881 in *The Singapore Daily Times* which mentioned that *Lat Pau* would be published under the editorship of T. Chong Eng. However, Wong was unable to ascertain whether T. Chong Eng, the editor of *Lat Pau*’s first issue, was Yeh Chi-yun.
 [^8]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 35–36, 50.
-[^9]:
-[^10]:
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-
-[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 33, 34, 35, 38–39, 44–45.
-Chen, 1967, p. 40.
-Chen, 1967, p. 41.
-Chen, 1967, pp. 52–53.
-The earlier issues of the newspaper are no longer available. The 19 August 1887 copy of Lat Pau has been digitised and can be read online at the NUS Libraries website: lib.nus.edu.sg/lebao/index.html.
-Chen, 1967, p. 68.
-Chen, 1967, pp. 63, 66–69, 71, 74.
+[^9]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 33, 34, 35, 38–39, 44–45.
+[^10]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, p. 40.
+[^11]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, p. 41.
+[^12]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 52–53.
+[^13]:The earlier issues of the newspaper are no longer available. The 19 August 1887 copy of *Lat Pau*  has been digitised and can be read online at the NUS Libraries website: lib.nus.edu.sg/lebao/index.html.
+[^14]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, p. 68.
+[^15]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 63, 66–69, 71, 74.
+[^16]:The Hundred Days’ Reform was a failed 103-day reform movement undertaken by Emperor Guangxu and his supporters in 1898. Accepting suggestions made by Kang Youwei, Emperor Guangxu enacted a series of reforms aimed at making sweeping social and institutional changes. The movement failed when the opposing conservative forces initiated a coup that led to the emperor’s house arrest.
+[^17]:Academic sources list the year as 1906. However, personal recollections by the three leading revolutionaries in Singapore, Teo Eng Hock, Tan Chor Lam and Lim Nee Soon, state the year as 1905. See *Nanyang and founding of the Republic* (《南洋与创立民国》), *Wan Qing Yuan and the 1911 Revolution* (《晚晴园与中国革命史略》) and *A record of the Tong Meng Hui in Singapore* (《星洲同盟会录》). See “When was the Singapore branch of Tong Meng Hui established?” (星洲同盟会到底何时成立) in *Lianhe Zaobao* (6 October 2011) for a discussion of the discrepancies.
+[^18]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 70–71, 86, 92, 94.
+[^19]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 43, 53; 彭剑 [Peng, J.]. (2011).《清季宪政大辩论: 〈中兴日报〉与〈南洋总汇新报〉论战研究》 [Debates on constitutionalism in late Qing: The arguments between Union Times and Chong Shing Yit Pao] (pp. 19-20). 武汉: 华中师范大学出版社. (Call no.: Chinese R 951.07 PJ)
