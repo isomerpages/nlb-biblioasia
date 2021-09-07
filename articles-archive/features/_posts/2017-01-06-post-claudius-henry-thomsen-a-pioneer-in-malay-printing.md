@@ -124,17 +124,15 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 |This booklet is the earliest extant Malay publication printed in Singapore and is found in the National Library, Singapore.|
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/5-claudies-henry-thomsen.png)
-<div style="background-color: white;"><i>The Sermon on the Mount</i> is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore.</div>
+<div style="background-color: white;"><img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/5-claudies-henry-thomsen.png"><i>The Sermon on the Mount</i> is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore.</div>
 
-![Alt text for image on Isomer site](/images/space1.png)
+<img style="width:0px;" src="/images/space1.png">
 
 |**The New Testament of our Lord and Saviour Jesus Christ in Malay** *(Kitab Al-Kudus, ia-itu, Injil Isa Al- Masihi atau Segala Surat Testament Bahru)* (1831) [Call no.: RRARE 225.59928 BIB; Microfilm no.: NL 27664, NL 9717]|
 
 |Thomsen began work on translating the New Testament of the Bible into Malay when he realised that the stocks of his Calcutta edition was running low. He devoted 12 to 15 months of fulltime work to carry out the translation, and finally printed 1,500 copies in June 1831, noting that this event “will form an era in the Malay Mission”. The British and Foreign Bible Society contributed 800 sicca Rupees for its publication.[^44] The National Library, Singapore, has the first edition of this rare publication.|
 
-![Alt text for image on Isomer site](/images/Vol-12-issue-4/claudius-henry-thomsen/6-claudies-henry-thomsen.png)
-<div style="background-color: white;">The National Library’s copy of <i>The New Testament of our Lord and Saviour Jesus Christ in Malay</i>. Thomsen spent 12 to 15 months translating the New Testament into Malay, and printed 1,500 copies in June 1831.</div>
+<div style="background-color: white;"><img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/6-claudies-henry-thomsen.png">The National Library’s copy of <i>The New Testament of our Lord and Saviour Jesus Christ in Malay</i>. Thomsen spent 12 to 15 months translating the New Testament into Malay, and printed 1,500 copies in June 1831.</div>
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
