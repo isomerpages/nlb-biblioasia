@@ -75,7 +75,7 @@ Among the Asian journalists, Khoo was looked upon as a leader and mentor, especi
 Khoo’s ability to remain cool and calm under pressure also earned him great respect among his peers. In Cambodia, where the situation was far more unpredictable and dangerous, Khoo and his ABC News colleagues – American correspondent Steve Bell and Japanese soundman Takayuki Senzaki – were once captured by an insurgent patrol and held for several hours in an area several kilometres outside of Phnom Penh. Khoo managed to talk his way out of the situation and even offered himself up as hostage when the insurgents wanted to hold Steve Bell. Luckily for everyone, the leader changed his mind and let them all go free.
 
 <img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v4.JPG">
-<div style="background-color: white;">ABC crew Sam Kai Faye, Don Baker, Hoang Dinh De (soundman) and an unnamed person on board US aircraft carrier, <i>USS Coral Sea, c. 1967. Courtesy of Sam Yoke Tatt.</i></div>
+<div style="background-color: white;">ABC crew Sam Kai Faye, Don Baker, Hoang Dinh De (soundman) and an unnamed person on board US aircraft carrier, <i>USS Coral Sea</i>, c. 1967. <i>Courtesy of Sam Yoke Tatt.</i></div>
 
 An incident in early June 1972 in the besieged town of An Loc, in southeastern Vietnam, demonstrated the kind of person Khoo was. When Khoo and ABC News correspondent Howard Tuckner arrived in An Loc, they found it littered with dead bodies as well as numerous wounded American soldiers waiting to be evacuated by helicopter.
 
