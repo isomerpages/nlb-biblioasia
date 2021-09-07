@@ -182,7 +182,7 @@ The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing
 [^25]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, p. 74.
 [^26]:Bastin, J.S. (2014). *[Raffles and Hastings: Private exchanges behind the founding of Singapore](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=200867141)* (pp. 216–217). Singapore: National Library Board and Marshall Cavendish Editions. Call no.: RSING 959.5703 BAS
 [^27]:The only known complete work for the 1827 edition is found in the Singapore/Malaysia Collection at the National University of Singapore Library. See National University of Singapore. (2011, September 6). T*he Singapore/Malaysia Collection*. Retrieved from National University of Singapore website.
-[^28]:[Noorduyn](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=924851), 1957, p. 248.
+[^28]:Noorduyn, J. (1957). C. H. Thomsen, the editor of “A Code of Bugis Maritime Laws”. *[Bijdragen tot de Taal-,Land- en Volkenkunde, 113](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=924851)* (3), 238–251, pp. 246–247. Call no.: RUR 572.9598 ITLVB  
 [^29]:[O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 1984, pp. 82, 102; [Noorduyn](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=924851), 1957, p. 248
 [^30]:The National Library, Singapore, has a copy of this first edition.
 [^31]:Tomlin, J. (1844). [Missionary journals and letters](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5792634) (pp. 293–294). London: James Nisbet and Co. Call no.: RRARE 266.3 TOM
