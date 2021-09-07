@@ -85,7 +85,7 @@ The whole episode ended without bloodshed. It was good experience for me, the va
 
 |S R Nathan: *50 Stories from My Life* (paperback, 184 pages) is published by Editions Didier Millet and retails at $19.90. It is available for loan and reference at the Lee Kong Chian Reference Library and branches of all public libraries (Call no.: RSING 959.5705092 NAT).|
 
-#### **Other Publications by S R Nathan**
+###### **Other Publications by S R Nathan**
 
 *S R Nathan in Conversation with Timothy Auger*<br>
 Editions Didier Millet, 2015<br>
