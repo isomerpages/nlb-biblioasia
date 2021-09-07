@@ -130,14 +130,14 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 #### **NOTES**
 
 [^1]:A gopuram is the pyramidal tower erected over the entrance of South Indian Hindu temples.
-[^2]:Liu, G. (1996). In granite and chunam: The national monuments of Singapore (p. 114). Singapore: Landmark Books. Call no.: RSING 725.94095957 LIU
-[^3]:Netto, G. (1961). Indians in Malaya: Historical facts and figures (p. 17). Singapore: George Netto. Call no.: RCLOS 331.62540595 NET
-[^4]:Soundararajan, N. S. (1971). The history of the Sri Mariamman Temple. In Ciṅkappūr Srī Māriyamman̲ Kōvil Makā Kumpāpiṣēka malar = Sri Mariamman Temple Maha Kumbabishegam Souvenir (p. 65). Singapore: Sri Mariamman Devasthanam. Call no.:Tamil RCLOS 294.535095957 SIN
+[^2]:Liu, G. (1996). *[In granite and chunam: The national monuments of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754)* (p. 114). Singapore: Landmark Books. Call no.: RSING 725.94095957 LIU
+[^3]:Netto, G. (1961). *[Indians in Malaya: Historical facts and figures](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4078361)* (p. 17). Singapore: George Netto. Call no.: RCLOS 331.62540595 NET
+[^4]:Soundararajan, N. S. (1971). The history of the Sri Mariamman Temple. In *[Ciṅkappūr Srī Māriyamman̲ Kōvil Makā Kumpāpiṣēka malar = Sri Mariamman Temple Maha Kumbabishegam Souvenir](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12915154)* (p. 65). Singapore: Sri Mariamman Devasthanam. Call no.:Tamil RCLOS 294.535095957 SIN
 [^5]:Hindu Endowments Board. (2014). Sri Mariamman Temple. Retrieved from Hindu Endowments Board website.
-[^6]:Uma Devi, G. (2009). Resonance: Songs of our forefathers (p. 49). Singapore: Preservation of Monuments Board. Call no.: RSING 725.94095957 RES
-[^7]:Sanmugam, E., et al. (Eds.). (2009). Sacred sanctuary: The Sri Mariamman Temple (p. 10). Singapore: Sri Mariamman Temple. Call no.: RSING 294.535095957 SAC
-[^8]:Sanmugam, 2009, p. 10
-[^9]:Lee, G. B. (2002). The religious monuments of Singapore: Faiths of our forefathers (p. 72). Singapore: Preservation of Monuments Board & Landmark Books. Call no.: RSING 726.095957 LEE; Ong, C. S. (1971, September 11). Discovering Singapore. The New Nation, p. 7. Retrieved from NewspaperSG.
+[^6]:Uma Devi, G. (2009). *[Resonance: Songs of our forefathers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488)* (p. 49). Singapore: Preservation of Monuments Board. Call no.: RSING 725.94095957 RES
+[^7]:Sanmugam, E., et al. (Eds.). (2009). *[Sacred sanctuary: The Sri Mariamman Temple](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233)* (p. 10). Singapore: Sri Mariamman Temple. Call no.: RSING 294.535095957 SAC
+[^8]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 10
+[^9]:Lee, G. B. (2002). *[The religious monuments of Singapore: Faiths of our forefathers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938)* (p. 72). Singapore: Preservation of Monuments Board & Landmark Books. Call no.: RSING 726.095957 LEE; Ong, C. S. (1971, September 11). [Discovering Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710911-1.2.47.1.aspx). *The New Nation*, p. 7. Retrieved from NewspaperSG.
 [^10]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 72; *[The New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710911-1.2.47.1.aspx)*, 11 Sep 1971.
 [^11]:The term “kling” or “keling”, first mentioned in the Sejarah Melayu or Malay Annals written between the 15th and 16th centuries, was used in colonial Malaya to describe people from the Indian subcontinent. Over time, the term has taken on derogatory connotations and is today regarded by Indians as offensive.
 [^12]:[Uma Devi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488), 2009, p. 49.
