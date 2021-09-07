@@ -167,10 +167,10 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 [^2]:Zhang, X.T. (2007). [*The origins of the modern Chinese press: The influence of the Protestant missionary press in late Qing China*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12884681) (p. 39). New York: Routledge. (Call no.: R 079.51 ZHA)
 [^3]:S.J. Huang and J.G. Lutz in the sources stated below indicated that the 1835 issues were printed in Singapore, while R.S. Britton and X.T. Zhang mentioned that these were printed in Canton. 爱汉者等编 [Ai, H.Z. et al.]; 黄时鉴整理 [Huang, S.J. compiled]. (1997).《[东西洋考每月统记传](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84461653)》 (*Eastern Western Monthly Magazine*) (pp. 4, 7, 10–12). 北京: 中华书局. (Call no.: Chinese R 059.951 EAS); Lutz, J.G. (2008). [*Opening China: Karl F.A. Gützlaff and Sino-Western relations, 1827–1852*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202792027) (pp. 3–4). Michigan: William B. Eerdmans Publishing Company. (Call no.: RSEA 266.0092 LUT); Britton, R.S. (1933). [*The Chinese periodical press, 1800–1912*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2241139) (pp. 22–24). Shanghai: Kelly & Walsh. (Call no.: RCLOS 079.51 BRI); [Zhang](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12884681), 2007, pp. 40–41.
 [^4]:Also known as *Di Bao* (邸报), these were official publications by the Chinese imperial court to circulate news on imperial decrees and official memoranda among the ruling class. *Di Bao* was an early form of a Chinese news-related publication before modern journalism took root in China.
-[^5]:[Zhang](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12884681), 2007, pp. 3, 40; Zhao, Y.Z. & Sun, P. (2018). [A history of journalism and communication in China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203925464) (pp. 13–14, 24). New York: Routledge. (Call no. R 079.51 ZHA). Compiling the magazine issues found in the holdings of Harvard-Yenching Library, The British Library, Yale University Library and Cornell University Library, S.J. Huang indicated that the last available issue was printed in 1838 (p. 9). However, J.G. Lutz stated that the last issue of the magazine was dated 13 February 1839 (p. 182). She did not indicate the source of her information.
-[^6]:
-[^7]:
-[^8]:
+[^5]:[Zhang](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12884681), 2007, pp. 3, 40; Zhao, Y.Z. & Sun, P. (2018). [*A history of journalism and communication in China*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203925464) (pp. 13–14, 24). New York: Routledge. (Call no. R 079.51 ZHA). Compiling the magazine issues found in the holdings of Harvard-Yenching Library, The British Library, Yale University Library and Cornell University Library, S.J. Huang indicated that the last available issue was printed in 1838 (p. 9). However, J.G. Lutz stated that the last issue of the magazine was dated 13 February 1839 (p. 182). She did not indicate the source of her information.
+[^6]:Chen, M.H. (1967). [*The early Chinese newspapers of Singapore, 1881–1912*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030) (p. 24). Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE); Yap, K.S. (1996). [*The press in Malaysia & Singapore (1806–1996*)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84475707) (pp. 1–3). Kuala Lumpur: Yap Koon See. (Call no.: RSING 079.595 YKS)
+[^7]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1976, pp. 31–32; Wong Hong Teng mentioned in his article, “The confirmation of *Lat Pau*’s first date of issue”(《叻报》创刊日期正式确定), published in the *Sin Chew Jit Poh*  on 24 May 1982 that he had located two notices on 9 and 10 December 1881 in *The Singapore Daily Times* which mentioned that *Lat Pau* would be published under the editorship of T. Chong Eng. However, Wong was unable to ascertain whether T. Chong Eng, the editor of *Lat Pau*’s first issue, was Yeh Chi-yun.
+[^8]:[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 35–36, 50.
 [^9]:
 [^10]:
 [^11]:
@@ -182,3 +182,11 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 [^17]:
 [^18]:
 [^19]:
+
+[Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082030), 1967, pp. 33, 34, 35, 38–39, 44–45.
+Chen, 1967, p. 40.
+Chen, 1967, p. 41.
+Chen, 1967, pp. 52–53.
+The earlier issues of the newspaper are no longer available. The 19 August 1887 copy of Lat Pau has been digitised and can be read online at the NUS Libraries website: lib.nus.edu.sg/lebao/index.html.
+Chen, 1967, p. 68.
+Chen, 1967, pp. 63, 66–69, 71, 74.
