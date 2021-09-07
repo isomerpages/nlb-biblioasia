@@ -140,6 +140,8 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |In 1983, *Shin Min Daily News* became a subsidiary company of The Straits Times Press Limited. One year later, in 1984, the paper became part of Singapore Press Holdings group.
 
+<br> 
+
 |**THE RISE AND FALL OF CHINESE TABLOIDS**
 
 |Chinese tabloids first appeared and flourished in Singapore in the 1920s, providing readers with a different form of entertainment compared to the dailies. Known as *xiao bao* (小报), these tabloids were usually published once every two to three days and were much thinner than the dailies.
