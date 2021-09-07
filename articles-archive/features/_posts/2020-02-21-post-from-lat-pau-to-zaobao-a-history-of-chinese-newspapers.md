@@ -6,7 +6,7 @@ layout: post
 ---
 #### Chinese newspapers have been published in Singapore since the 19th century. **Lee Meiyu** looks at how they have evolved and examines their impact on the Chinese community here.
 
-<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News1.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News1.JPG">
 <div style="background-color: white;">Elderly Chinese men reading newspapers in coffeeshops are a common sight in Singapore. Photo taken in 1963. Ministry of Information and the Arts Collection, <i>courtesy of National Archives of Singapore.</i></div>
 
 The Chinese newspaper industry in Singapore has a colourful and varied history enriched by a large, revolving cast of missionaries, reformists, revolutionaries, businessmen, writers and the government. Since the first Chinese newspaper was published in Singapore in 1837, over 160 newspapers have come and gone.[^1] Some of them played an important role in disseminating information to the people as well as shaping politics, society, culture and literature in Singapore.
@@ -23,7 +23,7 @@ Although published by missionaries, the *Eastern Western Monthly Magazine* was a
 
 #### **Singapore’s First Chinese Daily**
 
-<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News2.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News2.JPG">
 <div style="background-color: white;">(Left) See Ewe Lay (right) founded the <i>Lat Pau</i> newspaper in December 1881. He is seen here with his eldest son, See Tiouw Hong. <i>Image reproduced from Chen, M.H. (1967). The Early Chinese Newspapers of Singapore, 1881–1912 (plate 1). Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE)</i> (Right) The earliest extant copy of Lat Pau dated 19 August 1887. This front page with the masthead features an editorial and three news items. <i>Image reproduced from Chen, M.H. (1967). The Early Chinese Newspapers of Singapore, 1881–1912 (p. 30). Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE)</i></div>
 
 A little over four decades after the demise of *Eastern Western Monthly Magazine*, *Lat Pau*,[^6] the first Chinese daily in Singapore (and Southeast Asia), made its debut. *Lat Pau* was founded in December 1881 by See Ewe Lay (薛有礼), a prominent Melaka-born Straits Chinese who moved to Singapore to join the Hong Kong and Shanghai Bank as a comprador.
@@ -54,7 +54,7 @@ Singapore became a battleground as reformists and revolutionaries made use of th
 
 *Union Times*  was founded in 1906 by two supporters of the revolutionary movement, Teo Eng Hock and Tan Chor Lam,[^20] but it came under the control of reformists shortly after and became their mouthpiece in Singapore and Southeast Asia. In response, the revolutionaries set up *Chong Shing Yit Pao* in 1907 to combat the influence of *Union Times*.
 
-<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News3.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News3.JPG">
 <div style="background-color: white;">The front page of Chong Shing Yit Pao published on 20 August 1907. The newspaper was set up by revolutionaries. Besides advertisements, this page features an acknowledgement of donations to the newspaper. <i>Image reproduced from Chen, M.H. (1967). The Early Chinese Newspapers of Singapore, 1881–1912 (p. 96). Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE)</i></div>
 
 Editorials in *Chong Shing Yit Pao* ridiculed the belief held by the reformists that a constitution would work under the Qing government, while *Union Times* argued that revolution was impracticable and branded the revolutionaries as rebels and hooligans causing civil strife in China. Articles written by Kang and Sun can be found in the respective newspapers.[^21] Both newspapers also presented the news in a way that supported their editorial positions.
@@ -69,12 +69,12 @@ Due to financial difficulties, *Chong Shing Yit Pao* folded in 1910 and did not 
 
 Two important newspapers appeared in the 1920s: *Nanyang Siang Pau* (南洋商报) founded by “Rubber and Pineapple King” Tan Kah Kee in 1923 and *Sin Chew Jit Poh* (星洲日报) by Aw Boon Haw of Tiger Balm in 1929. Both newspapers played an important role in the modernisation of the industry.[^27]
 
-<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News5.JPG">
+<img style="width: 200px; height: 200px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News5.JPG">
 <div style="background-color: white;">Portrait of “Rubber and Pineapple King” Tan Kah Kee, c. 1950. He founded the <i>Nanyang Siang Pau</i> newspaper in 1923. <i>Courtesy of National Archives of Singapore.</i></div>
 
 *Nanyang Siang Pau* was set up as an advertising platform for Tan’s rubber products. It was a business newspaper that also aimed to promote education. Likewise, Aw used *Sin Chew Jit Poh* to publicise the Chinese medicinal products under his Tiger Balm brand.[^28] He also hoped to make readers better informed and to encourage them to invest in China’s economy.[^29]
 
-<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News4.JPG">
+<img style="width: 200px; height: 200px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News4.JPG">
 <div style="background-color: white;">Portrait of “Tiger Balm King” Aw Boon Haw, who founded Sin Chew Jit Poh in 1929. <i>Image reproduced from Who’s Who in China (4th edition) (1931) (p. 497). Shanghai: The China Weekly Review.</i></div>
 
 In the initial issues, news coverage in both newspapers was limited and tended to focus on events in China. Instead the papers were filled with advertisements. However, Tan and Aw spared no efforts to recruit talent, and the quality of the content soon improved. News coverage was expanded and became more organised. Layout was also improved to make for easier reading. Segments focusing on commerce, sports, culture and education were added to provide greater variety.
@@ -91,7 +91,7 @@ Facilities at *Nanyang Siang Pau* and *Sin Chew Jit Poh* were seized, and the of
 
 One defining feature of *Zhaonan Ribao* was its articles about the Overseas Chinese Association, an organisation set up to mediate between the Japanese government and the local Chinese community. The newspaper also carried more content relating to Japanese culture, values and history in a section called “Chao Yang” (朝阳).[^34]
 
-<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News6.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News6.JPG">
 <div style="background-color: white;">The inaugural issue of <i>Nanyang Siang Pau</i>, originally known as <i>Chinese Daily Journal of Commerce</i>, published on 6 September 1923. <i>Image reproduced from Lim, J.K. (Ed.) (1993). Our 70 Years: History of Leading Chinese Newspapers in Singapore (p. 107). Singapore: Chinese Newspapers Division, Singapore Press Holdings. (Call no.: RSING 079.5957 OUR)</i></div>
 
 #### **Post-war Developments**
@@ -128,7 +128,7 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |Fans of Chinese sword-fighting, or *wuxia*, novels would be familiar with Linghu Chong (令狐冲), the honourable, happy-go-lucky swordsman with a weakness for alcohol. He is the protagonist in *Xiao Ao Jianghu* (笑傲江湖), a story written by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha).
 
-|<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News7.JPG">
+|<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News7.JPG">
 <div style="background-color: white;"><i>Xiao Ao Jianghu</i> (笑傲江湖) by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha) was first serialised in the inaugural issue of Shin Min Daily News on 18 March 1967. <i>Image reproduced from 金庸 [Jin Yong]. (1996).《笑傲江湖》[The Wandering Swordsman]. 新加坡: 明河社出版有限公司.</i></div>
 
 |Known in English under various titles such as *The Wandering Swordsman and The Smiling, Proud Wanderer*, the novel is so popular that it has been adapted for the stage, television, the big screen, comic books and even video games. To attract readers, the novel was first serialised in the inaugural issue of *Shin Min Daily News* (新民日报) on 18 March 1967, a local newspaper started by Cha and the founder of Axe Brand Universal Oil, Leong Yun Chee.
