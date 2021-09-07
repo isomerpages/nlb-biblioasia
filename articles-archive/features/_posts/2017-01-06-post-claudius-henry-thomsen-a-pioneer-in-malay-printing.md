@@ -116,7 +116,7 @@ Thomsen had set the foundations for a printing press in Singapore, producing wor
 
 |The third edition published in Singapore in 1833, entitled *A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words*, is one of the last works Thomsen would print in Singapore. The Bugis manuscript had languished for several years until a donation of 30 Spanish dollars was made by a friend of Thomsen’s to defray the printing cost.[^40] An enlarged and improved edition was printed by Evans in Malacca and Penang in 1837,[^41] with the profits used to raise 400 Spanish dollars for building a new wing for the Anglo-Chinese College in Malacca. The vocabulary continued to be printed in Singapore as late as 1860.[^42]|
 
-|**The Substance of our Saviour’s Sermon on the Mount Contained in the 5th, 6th &amp; c. 7th Chapters of the Gospel According to St Matthew** (1829) [Call no.: RRARE 226.9059923 SER; Microfilm no.: NL 21277]|
+|***The Substance of our Saviour’s Sermon on the Mount Contained in the 5th, 6th &amp; c. 7th Chapters of the Gospel According to St Matthew*** (1829) [Call no.: RRARE 226.9059923 SER; Microfilm no.: NL 21277]|
 
 |This is a Malay translation of Jesus’s core teachings as found in his *Sermon on the Mount in the Gospel of Matthew*. The booklet begins with a single-page orthography of the Malay language as used in the text and concludes with a non-biblical six-stanza poem on the means to salvation.|
 
