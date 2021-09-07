@@ -184,14 +184,14 @@ When Pfeiffer arrived in Madagascar, she became inadvertently involved in an att
 
 Tragically, on her way to the coast under armed guard, Pfeiffer contracted the infamous “Madagascar fever”. The queen had ordered them to be taken on a long and circuitous route through swampy terrain, rather than the direct eight-day walk back to the port. Fortunately, Pfeiffer eventually made it safely to Mauritius to convalesce.
 
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t11.JPG">
+<div style="background-color: white;">The Diademed sifaka (<i>Propithecus diadema</i>) discovered by Ida Pfeiffer in Madagascar. <i>Image reproduced from Grandidier A. (1875). Histoire physique, naturelle et politique de Madagascar (vol. 9, part 4, atlas). Paris: Nationale. Schulbücherverlag.</i></div>
+
 Disappointed that she had collected so few specimens on this trip, Pfeiffer still hoped to travel further, but it was not to be; the fever kept returning. There was only one journey left in her – to return home.
 
 Emaciated and weak, she finally reached Vienna in mid-September 1858. A few weeks later, she succumbed to her illness in the night of 28 October. She was only 61.
 
 By the time she died, Pfeiffer had become one of the most famous women in the world. She had seen more of the world than any other woman before her. But wanderlust at last had killed her.
-
-<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t11.JPG">
-<div style="background-color: white;">The Diademed sifaka (Propithecus diadema) discovered by Ida Pfeiffer in Madagascar. <i>Image reproduced from Grandidier A. (1875). Histoire physique, naturelle et politique de Madagascar (vol. 9, part 4, atlas). Paris: Nationale. Schulbücherverlag.</i></div>
 
 |**THE WRITING OF WANDERLUST**
 |<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t12.JPG">John van Wyhe at Lake Toba, following in Ida Pfeiffer’s footsteps.|
