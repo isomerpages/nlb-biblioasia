@@ -139,11 +139,11 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^1]:Republic of Singapore. *[Government Gazette. Subsidiary Legislation Supplement](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396424)*. (1970, February 25). The 1969 (Commencement) Notification (S61/1970, p. 117). Singapore: [s.n.]. Call no.: RCLOS 348.5957 SGGSLS; Chia, P., et. al. (1970, February 28). [Golden Shoe](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700228-1.2.5.aspx). *The Straits Times*, p. 1; [The ‘decontrol’ area is a ‘golden shoe’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700228-1.2.42.aspx). (1970, February 28). *The Straits Times*, p. 6. Retrieved from NewspaperSG; Ministry of National Development (1988, October 4). *[Government announces measures to phase out rent control](http://www.nas.gov.sg/archivesonline/data/pdfdoc/1173-1988-10-04.pdf)* [Press release]. Retrieved from National Archives of Singapore website.
 
-[^2]:Chua, B. H. (1989). The Golden Shoe: Building Singapore’s financial district (pp. 31, 40). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU.
+[^2]:Chua, B. H. (1989). *[The Golden Shoe: Building Singapore’s financial district](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839)* (pp. 31, 40). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU.
 
-[^3]:Chua, 1989, pp. 37–40, 49–54; Liu, G. (1999). Singapore: A pictorial history 1819–2000 (pp. 61, 112). Singapore: Archipelago Press in association with the National Heritage Board. Call no.: RSING 959.57 LIU
+[^3]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 37–40, 49–54; Liu, G. (1999). *[Singapore: A pictorial history 1819–2000](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=9651676)* (pp. 61, 112). Singapore: Archipelago Press in association with the National Heritage Board. Call no.: RSING 959.57 LIU
 
-[^4]:Singapore. Housing Development Board. (1965). 50,000 up: Homes for the people (p. 30). Singapore: Housing Development Board. Call no.: RCLOS 363.585095957 SIN; Chua, 1989, p. 11.
+[^4]:Singapore. Housing Development Board. (1965). [50,000 up: Homes for the people](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428) (p. 30). Singapore: Housing Development Board. Call no.: RCLOS 363.585095957 SIN; Chua, 1989, p. 11.
 
 [^4]:Singapore. Legislative Assembly. Debates: Official report. (1963, December 10). Yang Di-Petuan Negara’s speech: Debate on the address (Vol. 22, col. 248). 
 [^5]:Singapore: [s.n.]. Call no.: RCLOS 328.5957 SIN; Singapore. Housing Development Board, 1965, pp. 85–86; Chua, 1989, p. 12.
