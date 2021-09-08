@@ -6,6 +6,8 @@ layout: post
 ---
 #### This expanse of green fringed by grand colonial edifices in the city centre is a statement of British might, as **Lai Chee Kien** tells us.
 
+<div style="background-color: white;"><img src="/images/Vol-12-issue-3/the-padang/01-The-Padang.jpg">A view of the Grand Hotel de l’Europe (left) being built (later demolished to build the Supreme Court), several residential houses belonging to European merchants, lawn tennis courts on the edge of the Padang and St Andrew’s Cathedral (on the right). Likely photographed in the early 1900s. <i>Courtesy of Lai Chee Kien.</i></div>
+
 One of the more enduring legacies of the colonial era in Southeast Asia is the spatial design and metropolitan planning that Western powers left behind in the cities they occupied. Spatial design principles that developed in European cities were superimposed onto the landscapes of colonised Southeast Asian cities, replacing the indigenous land and water forms that existed for centuries. In Singapore, the Padang – the expanse of green opposite the National Gallery Singapore and bookended by the Singapore Cricket Club and the Singapore Recreation Club – is one such example.
 
 #### **The Padang in Singapore**
@@ -29,3 +31,5 @@ One of the concessions the first British Resident in Singapore, William Farquhar
 These buildings went against Raffles’ instructions that the northern banks of the Singapore River should be reserved strictly for government use. Together with John Crawfurd, the second Resident of Singapore, Raffles moderated Farquhar’s generosity and began to lease land instead to the traders. On this basis, the houses of colonial merchants such as Robert Scott, James Scott Clark, Edward Boustead and William Montgomerie located around the Padang were to serve as temporary residences and hotels until the Town Hall, the Supreme Court and the Municipal Building (later City Hall) were eventually built to establish the government seat of power.4
 
 The process of creating a visually consistent neoclassical facade around the Padang’s edges was thus a gradual process that took place over a century rather than a swiftly executed plan. The construction timeline began with the Parliament House (1826–27) − originally planned as a private home for the Scottish merchant John Argyle Maxwell; St Andrew’s Cathedral – first as a church (1835–36) then a cathedral (1856–61); Victoria Theatre and Concert Hall – first as the Town Hall (1855–62) and then Victoria Memorial Hall (1902–09); the Cricket Club (1860s); City Hall5 – originally the Municipal Building (1926–29); and lastly the Supreme Court (1937–39).
+
+<div style="background-color: white;"><img src="/images/Vol-12-issue-3/the-padang/02-The-Padang.jpg">The statue of Sir Stamford Raffles, facing the sea, was unveiled at the Padang on Queen Victoria’s Golden Jubilee Day on 27 June 1887. In the background is St Andrew’s Cathedral. <i>Courtesy of Lai Chee Kien.</i></div>
