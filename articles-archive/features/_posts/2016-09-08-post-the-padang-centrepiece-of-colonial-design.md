@@ -66,13 +66,13 @@ The port cities of Penang, Malacca and Singapore (collectively known as the Stra
 
 #### **The Padang in Post-Colonial Singapore**
 
-According to Ananda Rajah , the introduction of the annual National Day Parade in Singapore after Independence in 1965 is symbolic of the country’s arrival as an imagined national and political community.13 Over the last 50 years, three locations have hosted the annual National Day Parade: the Padang, the National Stadium and Marina Bay.
+According to Ananda Rajah , the introduction of the annual National Day Parade in Singapore after Independence in 1965 is symbolic of the country’s arrival as an imagined national and political community.[^13] Over the last 50 years, three locations have hosted the annual National Day Parade: the Padang, the National Stadium and Marina Bay.
 
 The stadium and the Padang each hosted the parade 18 times until 2007 when it was moved to the Float@Marina Bay with its floating platform and open-air stage. The Padang was again the venue for the parade in 2010 and 2015, while Marina Bay hosted the parade seven times before it returned to the new National Stadium in 2016.
 
 Interestingly, there are implications for the various sites that have taken turns to host the parade. For instance, the decision to hold the newly independent nation’s first National Day Parade at the Padang in 1966 can be seen as a subversion of colonial rule, appropriating a symbolically potent site that had represented British authority in Singapore for over a century.
 
-The construction of the National Stadium in 1973 created an alternative congregation space for national spectatorship.14 The key feature of the National Stadium is a manicured flat green field, much like the Padang, but with people, instead of buildings, filling the spaces of its periphery.
+The construction of the National Stadium in 1973 created an alternative congregation space for national spectatorship.[^14] The key feature of the National Stadium is a manicured flat green field, much like the Padang, but with people, instead of buildings, filling the spaces of its periphery.
 
 The staging of the National Day Parade at Marina Bay is of interest because the site is spatially analogous to that of the Padang. The layout and the constitutive elements are similar, although visually, Marina Bay is very different from the Padang, having been reclaimed from the sea, and creating Marina Reservoir in the process.
 
