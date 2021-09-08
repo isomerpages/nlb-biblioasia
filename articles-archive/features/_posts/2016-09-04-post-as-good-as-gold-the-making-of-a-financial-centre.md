@@ -160,7 +160,7 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^11]:‘[Hanging’ shopping complex plan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700702-1.2.142.aspx). (1970, July 2). *The Straits Times*, p. 18. Retrieved from NewspaperSG; Singapore Institute of Architects. (1998). *[Contemporary Singapore architecture](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9151059)* (pp. 46–47). Singapore: Singapore Institute of Architects. Call no.: RSING 720.95957 CON; [Urban Redevelopment Authority (Singapore)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7481111), 1995, p. 158.
 
-[^12]:Singapore Institute of Architects, 1998, p. 45; Beamish, J., & Ferguson, J. (1985). A history of Singapore architecture: The making of a city (p. 167). Singapore: G. Brash. Call no.: RSING 722.4095957 BEA; Urban Redevelopment Authority (Singapore), 1995, pp. 153–155.
+[^12]:[Singapore Institute of Architects, 1998](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9151059), p. 45; Beamish, J., & Ferguson, J. (1985). *[A history of Singapore architecture: The making of a city](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082534)* (p. 167). Singapore: G. Brash. Call no.: RSING 722.4095957 BEA; [Urban Redevelopment Authority (Singapore)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7481111), 1995, pp. 153–155.
 
 [^13]:Test drilling now at new OCBC site. (1970, August 23). The Straits Times, p. 6. Retrieved from NewspaperSG; Chua, 1989, p. 57; Urban Redevelopment Authority (Singapore), 1995, p. 154.
 
