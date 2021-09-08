@@ -214,4 +214,4 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^40]:OUE Commercial Real Estate Investment Trust. (2014). Annual report 2014. Retrieved from OUE Commercial Real Estate Investment Trust website; One Raffles Place. (n.d.). Construction progresses at OUB Tower 2, designed by Kenzo Tange’s son. Retrieved from One Raffles Place website; Straits Trading Building. (n.d.). Straits Trading Building. Retrieved from Straits Trading Building website.
 
-[^41]:Koh, J. (2016, April 9). Singapore ‘third-best financial centre’. The Straits Times. Retrieved from Factiva
+[^41]:Koh, J. (2016, April 9). Singapore ‘third-best financial centre’. *The Straits Times*. Retrieved from Factiva
