@@ -89,7 +89,7 @@ The massive project included the addition of a new 66-storey skyscraper and a re
 
 The 1970s and 80s saw a frenzy of private sector building construction in the Golden Shoe area: Hong Leong Holdings redeveloped the 28 shophouses it owned into a 41-storey skyscraper in 1977; the Hong Kong and Shanghai Bank pulled down its headquarters in Raffles Place and replaced it with a 21-storey building in 1982; Island Investment and Agency demolished the Maritime Building (formerly Union Building) in Collyer Quay to make way for the 23-storey Tung Centre in 1985; and American International Assurance (AIA) redeveloped its headquarters on Robinson Road into a 25-storey tower in 1992.[^27]
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/as-good-as-gold/07-as-good-as-gold.png">This 1993 photo shows the transformation of Singapore’s skyline that began in the 1980s and continued into the 90s, giving rise to skyscrapers such as the octagonal UOB Plaza and the prismshaped OUB Centre (now One Raffles Place). <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:550px" src="/images/Vol-12-issue-3/as-good-as-gold/07-as-good-as-gold.png">This 1993 photo shows the transformation of Singapore’s skyline that began in the 1980s and continued into the 90s, giving rise to skyscrapers such as the octagonal UOB Plaza and the prismshaped OUB Centre (now One Raffles Place). <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 This trend continued into the 1990s. Singapore Airlines replaced its 26-year-old Robinson Road headquarters in 1994 with a 35-storey glass tower. Older properties in the area such as Denmark House and its neighbouring Finlayson House were jointly redeveloped into the 25-storey John Hancock Tower (previously Century Tower 21 and now 6 Raffles Quay), while Nedlloyd House by Hong Leong International Properties Investment became 1 Finlayson Green.[^28]
 
@@ -101,7 +101,7 @@ Despite the steady pace of development, there were still many dingy shophouses i
 
 Given the high chance that these fragmented properties would not be redeveloped in a sustainable way, the government had to acquire them under the Land Acquisition Act of 1966 for the explicit purpose of urban renewal.[^32] From the two land acquisition exercises in the Golden Shoe area in 1975 and 1980, a total of 220 lots, amounting to nearly 36,000 sq m, were gazetted for acquisition. These lots ranged from 186 to 372 sq m, and most were located at Cecil Street, Market Street and Raffles Place.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/as-good-as-gold/08-as-good-as-gold.jpg"><i>Reclamation works in the Marina Bay area began from the 1970s onwards, even as the Golden
+<div style="background-color: white;"><br><img style="width:550px" src="/images/Vol-12-issue-3/as-good-as-gold/08-as-good-as-gold.jpg"><i>Reclamation works in the Marina Bay area began from the 1970s onwards, even as the Golden
 Shoe area was being developed. © Urban Redevelopment Authority. All rights reserved.</i></div>
 
 Following these acquisitions, the sites were then amalgamated into bigger parcels before being released to private developers through land sales programmes. Some of the buildings that rose from these sales included Cecil House and GB Building in Cecil Road, and Tat Lee Bank Building and UOB Building in Raffles Place.[^33]
