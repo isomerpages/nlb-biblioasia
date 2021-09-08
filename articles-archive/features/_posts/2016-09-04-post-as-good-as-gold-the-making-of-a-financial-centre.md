@@ -150,15 +150,15 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^6]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 12–16; [Singapore. Housing Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428), 1965, p. 84.
 
-[^7]:[Singapore. Legislative Assembly](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4612739), 10 Dec 1963, Vol. 22, col. 248; Chua, 1989, p. 16.
+[^7]:[Singapore. Legislative Assembly](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4612739), 10 Dec 1963, Vol. 22, col. 248; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 16.
 
-[^8]:Dale, O. J. (1999). Urban planning in Singapore: The transformation of a city (pp. 126–127). Shah Alam, Malaysia: Oxford University Press. Call no.: RSING 307.1216 DAL.
+[^8]:Dale, O. J. (1999). *[Urban planning in Singapore: The transformation of a city](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945)* (pp. 126–127). Shah Alam, Malaysia: Oxford University Press. Call no.: RSING 307.1216 DAL.
 
-[^9]:Chua, 1989, pp. 66–72.
+[^9]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 66–72.
 
-[^10]:Urban Redevelopment Authority (Singapore). (1995). Changing the face of Singapore: Through the URA sale of sites (p. 149). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU; Urban Redevelopment Authority (Singapore). (1983). A pictorial chronology of the sale of sites programme for private development (p. 23). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU
+[^10]:Urban Redevelopment Authority (Singapore). (1995). *[Changing the face of Singapore: Through the URA sale of sites](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7481111)* (p. 149). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU; Urban Redevelopment Authority (Singapore). (1983). *[A pictorial chronology of the sale of sites programme for private development](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082435)* (p. 23). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU
 
-[^11]:‘Hanging’ shopping complex plan. (1970, July 2). *The Straits Times*, p. 18. Retrieved from NewspaperSG; Singapore Institute of Architects. (1998). Contemporary Singapore architecture (pp. 46–47). Singapore: Singapore Institute of Architects. Call no.: RSING 720.95957 CON; Urban Redevelopment Authority (Singapore), 1995, p. 158.
+[^11]:‘[Hanging’ shopping complex plan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700702-1.2.142.aspx). (1970, July 2). *The Straits Times*, p. 18. Retrieved from NewspaperSG; Singapore Institute of Architects. (1998). Contemporary Singapore architecture (pp. 46–47). Singapore: Singapore Institute of Architects. Call no.: RSING 720.95957 CON; Urban Redevelopment Authority (Singapore), 1995, p. 158.
 
 [^12]:Singapore Institute of Architects, 1998, p. 45; Beamish, J., & Ferguson, J. (1985). A history of Singapore architecture: The making of a city (p. 167). Singapore: G. Brash. Call no.: RSING 722.4095957 BEA; Urban Redevelopment Authority (Singapore), 1995, pp. 153–155.
 
