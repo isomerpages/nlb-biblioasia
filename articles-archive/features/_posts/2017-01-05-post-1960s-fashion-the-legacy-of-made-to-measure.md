@@ -88,7 +88,7 @@ According to Rabiah Ibrahim, whose father was a doctor, her siblings and herself
 At its most successful, there were also Trend shops in San Francisco and Hong Kong. By the 1980s, when she migrated to Perth to become a Bible teacher and sold her Trend business to fellow fashion entrepreneur Chan Kheng Lin, it had become a 23-store, multi-million-dollar business.
 
 <img src="/images/Vol-12-issue-4/1960s-fashion/4a-1960s-fashion.jpg">
-<div style="background-color: white;">The word “modern” aptly describes these cover girls, who were ahead of their time in the 1960s. From top: Sybil Schwencke, who went from being a flight hostess to a beauty guru; Phila Mae Wong, who inherited her love for fashion from her entrepreneurial mother; and Chan See Foon, who was arguably Singapore’s first supermodel. <i>All magazine covers courtesy of Singapore Press Holdings.</i></div>
+<div style="background-color: white;">The word “modern” aptly describes these cover girls, who were ahead of their time in the 1960s. From left: Sybil Schwencke, who went from being a flight hostess to a beauty guru; Phila Mae Wong, who inherited her love for fashion from her entrepreneurial mother; and Chan See Foon, who was arguably Singapore’s first supermodel. <i>All magazine covers courtesy of Singapore Press Holdings.</i></div>
 
 #### **Fashion Pioneer**
 
@@ -125,7 +125,7 @@ At the spot where The Centrepoint stands today was the popular Magnolia Milk Bar
 
 The fashion revolution of the 1960s would all but wipe out the appearance of traditional garments such as the sari and sarong kebaya at events other than weddings. But it was a completely different story with the *cheongsam*.
 
-Phila Mae Wong’s thrice-married aunt, the late Christina Lee – voted by *Vogue* magazine as one of the most beautiful women in the world in 1965 – had a part to play in this. She was the youngest of the four beautiful daughters from the illustrious Lee family while Phila Mae’s mother, Eunice, was her eldest sister. At the time when her looks were celebrated by Vogue, Christina Lee was married to cinema magnate Loke Wan Tho and the celebrity couple was often captured in the headlines – he in a sharply-tailored Western suit, she in a gorgeous *cheongsam*.
+Phila Mae Wong’s thrice-married aunt, the late Christina Lee – voted by *Vogue*  magazine as one of the most beautiful women in the world in 1965 – had a part to play in this. She was the youngest of the four beautiful daughters from the illustrious Lee family while Phila Mae’s mother, Eunice, was her eldest sister. At the time when her looks were celebrated by *Vogue*, Christina Lee was married to cinema magnate Loke Wan Tho and the celebrity couple was often captured in the headlines – he in a sharply-tailored Western suit, she in a gorgeous *cheongsam*.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-4/1960s-fashion/6-1960s%20Fashion.png)
 <div style="background-color: white;">Former Grand Prix champion driver and fashion pioneer Eunice Wong and her favourite Triumph sports car, late 1950s. <i>Courtesy of Phila Mae Wong.</i></div>
@@ -154,7 +154,7 @@ Before long, Mr Choong was retailing jersey-knit men’s shirts from the Parisia
 
 ![Alt text for image on Isomer site](/images/space1.png)
 
-|*Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades* is published by Straits Times Press. The 160-page illustrated book retails for $35 (excluding GST) and is available at major bookshops and online bookshops such as www.stpressbooks.com.sg  and Amazon. The book is also available for reference and loan at Lee Kong Chian Reference Library and branches of all public libraries [(Call no.: RSING 746.92095957 DES and 746.92095957 DES)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202544912).|
+|*Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades* is published by Straits Times Press. The 160-page illustrated book retails for $35 (excluding GST) and is available at major bookshops and online bookshops such as www.stpressbooks.com.sg  and Amazon. The book is also available for reference and loan at Lee Kong Chian Reference Library and branches of all public libraries ([Call no.: RSING 746.92095957 DES and 746.92095957 DES](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202544912)).|
 
 
 <div style="background-color: white;">
