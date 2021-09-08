@@ -162,25 +162,26 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^12]:[Singapore Institute of Architects, 1998](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9151059), p. 45; Beamish, J., & Ferguson, J. (1985). *[A history of Singapore architecture: The making of a city](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082534)* (p. 167). Singapore: G. Brash. Call no.: RSING 722.4095957 BEA; [Urban Redevelopment Authority (Singapore)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7481111), 1995, pp. 153–155.
 
-[^13]:Test drilling now at new OCBC site. (1970, August 23). The Straits Times, p. 6. Retrieved from NewspaperSG; Chua, 1989, p. 57; Urban Redevelopment Authority (Singapore), 1995, p. 154.
+[^13]:[Test drilling now at new OCBC site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700823-1.2.36.aspx). (1970, August 23). *The Straits Times*, p. 6. Retrieved from NewspaperSG; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 57; [Urban Redevelopment Authority (Singapore)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7481111), 1995, p. 154.
 
-[^14]:$100 mil OCBC Centre opens today. (1976, October 1). The Business Times, p. 12. Retrieved from NewspaperSG; Beamish & Ferguson, 1985, pp. 164–165.
-[^15]:Powell, R. (2000). Singapore: Architecture of a global city (p. 28). Singapore: Archipelago Press. Call no.: RSING 720.959570904 POW; Chua, 1989, pp. 69, 89.
+[^14]:[$100 mil OCBC Centre opens today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19761001-1.2.66.aspx). (1976, October 1). *The Business Times*, p. 12. Retrieved from NewspaperSG; [Beamish & Ferguson](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082534), 1985, pp. 164–165.
 
-[^16]:Chua, 1989, p. 72.
+[^15]:Powell, R. (2000). *[Singapore: Architecture of a global city](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10074731)* (p. 28). Singapore: Archipelago Press. Call no.: RSING 720.959570904 POW; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 69, 89.
 
-[^17]:Singapore Institute of Architects, 1998, pp. 63, 72; Fong, L. (1971, May 29). Signing of $36 m contract marks a new era. The Straits Times, p. 8; Retrieved from NewspaperSG.
+[^16]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 72.
 
-[^18]:Chua, 1989, p. 72; Capital Tower gets two anchor tenants. (2000, April 25). The Straits Times, p. 60; GIC agrees to lease 40% of Capital Tower: Sources. (1999, September 22). The Business Times, p. 2. Retrieved from NewspaperSG; CapitaLand Limited. (2010, February). Singapore’s first intelligent building turns 10. Retrieved from CapitaLand website.
+[^17]:[Singapore Institute of Architects](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9151059), 1998, pp. 63, 72; Fong, L. (1971, May 29). Signing of $36 m contract marks a new era. *The Straits Times*, p. 8; Retrieved from NewspaperSG.
+
+[^18]:Chua, 1989, p. 72; Capital Tower gets two anchor tenants. (2000, April 25). *The Straits Times*, p. 60; GIC agrees to lease 40% of Capital Tower: Sources. (1999, September 22). *The Business Times*, p. 2. Retrieved from NewspaperSG; CapitaLand Limited. (2010, February). Singapore’s first intelligent building turns 10. Retrieved from CapitaLand website.
 
 [^19]:Dale, 1999, p. 143.
 
-[^20]:Dale, 1999, pp. 143–144; Chua, 1989, pp. 23–25; Ministry of National Development, 4 Oct 1988.
+[^20]:Dale, 1999, pp. 143–144; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 23–25; Ministry of National Development, 4 Oct 1988.
 
 [^21]:The Straits Times, 28 Feb 1970, p. 1; Dale, 1999, p. 144.
 
-[^22]:Tan, L. (1971, October 23). New look for Collyer Quay. New Nation, p. 15. Retrieved from NewspaperSG; Straits Times Annual, 1972, 148; Chua, 1989, p. 57.
-[^23]:Campbell, W. (1970, March 3). All set for the big build-up. The Straits Times, p. 8; Multi-storey Straits Trading building in its final stage. (1972, April 3). The Straits Times, p. 30. Retrieved from NewspaperSG; Chua, 1989, p. 57.
+[^22]:Tan, L. (1971, October 23). New look for Collyer Quay. *New Nation*, p. 15. Retrieved from NewspaperSG; Straits Times Annual, 1972, 148; Chua, 1989, p. 57.
+[^23]:Campbell, W. (1970, March 3). All set for the big build-up. *The Straits Times*, p. 8; Multi-storey Straits Trading building in its final stage. (1972, April 3). *The Straits Times*, p. 30. Retrieved from NewspaperSG; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 57.
 
 [^24]:[Beamish & Ferguson](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082534), 1985, pp. 81–82; *T[he Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19790605-1.2.13.2.aspx)*, 5 Jun 1979, p. 2; [How new Chartered Bank will look](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800915-1.2.56.aspx). (1980, September 15). *New Nation*, p. 14; [Bank likely to pay $3ms-$4m to tenants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800708-1.2.51.aspx). (1980, July 8). *The Straits Times*, p. 9; Seah, R. (1981, December 16). [JDC wins Chartered job](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19811216-1.2.4.aspx). *The Business Times*, p. 1; Tan, A. (1979, November 22). [Exciting times at Singapore Land](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19791122-1.2.44.1.aspx). *The Business Times*, p. 11. Retrieved from NewspaperSG; P&T Group. (n.d.). History. Retrieved from P&T Group website.
 
