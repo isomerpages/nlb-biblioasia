@@ -79,3 +79,28 @@ The staging of the National Day Parade at Marina Bay is of interest because the 
 Looking at the four edges of the rectilinear reservoir, one can see that the old buildings along its historic edge near the Padang have been refitted and given new functions. Reminiscent of the maidan in Isfahan, the remaining three edges have been taken up by structures devoted to commerce (Marina Bay Financial Centre); recreation (Marina Bay Sands casino resort); and leafy gardens (Gardens by the Bay).
 
 Seen as a whole, Marina Bay is a rectangular, flat piece of water surface that has been artificially constructed, with its edges flanked by mostly new buildings that are key to Singapore’s next phase of development as a global city. Spatially, it is a “liquid padang”, serving similar functions but providing a view towards the city’s future, especially since the colonial Padang and its period buildings have been mostly emptied of their original functions – most recently the amalgamation of City Hall and the Supreme Court into the National Gallery Singapore. Collectively, the old and the new “padang” evoke the giant leaps of time and progress that Singapore has made since Raffles first envisioned his town plan in 1822.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/the-padang/lai-chee-kien.png">
+	<b>Dr Lai Chee Kien</b> is an Adjunct Associate Professor at the Singapore University of Technology and Design, and a registered architect. His research interest lies in the history of art, architecture, settlements, urban planning and landscapes in Southeast Asia.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+
+#### **Notes**
+
+[^1]:Letter from Stamford Raffles to William Farquhar dated 6 February 1819, as cited in L. T. Firbank, A History of Fort Canning (no records), p. 16.
+[^2]:Lai, C, K. (2006, July). Botanical imaginations of Southeast Asia in the 19th and 20th centuries. Singapore Architect, (233), pp. 70–79. Call no.: RSING 720.5 SA
+[^3]:A new hotel in Singapore. (1887, September 21). Straits Times Weekly Issue, p. 4; Retrieved from NewspaperSG; Liu, G. (2006). Raffles Hotel (pp. 17–18). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU
+[^4]:Lee, K. L. (1988). The Singapore House 1819–1942 (pp. 148–149). G. Liu. (Ed.). Singapore: Times Editions. Call no.: RSING 728.095957 LEE
+[^5]:The former City Hall and Supreme Court buildings, both gazetted national monuments, were renovated and opened in November 2015 as the National Gallery Singapore housing the largest public collection of modern art in Singapore and Southeast Asia.
+[^6]:The statue of Stamford Raffles was commissioned by then Governor of the Straits Settlements Frederick Weld for Singapore in 1887, and designed and sculpted by Thomas Woolner. It was later transferred to its present location at the Victoria Memorial Hall. See Woolner, A. (1917). Thomas Woolner, R.A., sculptor and poet: His life in letters (p. 326). New York: E. P. Dutton & Company. Retrieved from Internet Archive.
+[^7]:Jayapal, M. (1992). Old Singapore (p. 25). Singapore: Oxford University Press. Call no.: RSING 959.57 JAY-[HIS] 
+[^8]:Home, R. K. (1996). Of Planting and planning: The making of British colonial cities. (pp. 8–23). London: E. & F. N. Spon. Call no.: RART 711.409171241 HOM
+[^9]:Blake, S. P. (1999). Half the world: The social architecture of Safavid Isfahan, 1590–1722 (pp. xvi–xvii). Costa Mesa: California: Mazda. Call no.: RART q720.95595 BLA
+[^10]:Anuradha Mathur, A. (1999). Neither wilderness nor home: The Indian maidan. In J. Corner. (Ed.), Recovering landscape: Essays in contemporary landscape architecture (pp. 206–208). Sparks: Princeton Architectural Press. Call no.: RART 712 REC
+[^11]:Chattopadhyay, S. (2005). Representing Calcutta: Modernity, nationalism, and the colonial uncanny (p.46). New York: Routledge. Call no.: R 954.147 CHA
+[^12]:Garnier, K. (1923, April). Early days in Penang. Journal of the Malayan Branch of the Royal Asiatic Society, 1 (1 (87)), 5–12., pp. 5–6. Call no.: RCLOS 959.5 JMBRAS. The settlement grew from the cleared ground of the esplanade, a fort and a small bazaar, and within a year attracted families of different ethnicities to settle there, alongside the resident Malay populations.
+[^13]:Rajah, A. (1999). Making and managing tradition in Singapore: The National Day Parade. In K.-W. Kwok et al. (Eds.), Our place in time: Exploring heritage and memory in Singapore (pp. 101–109). Singapore: Singapore Heritage Society. Call no.: RSING 959.57 OUR-[HIS]
+[^14]:Lai, C. K., et al. (2015). Building memories: People, architecture, independence (pp. 114–116). Singapore: Achates 360 Pte Ltd.
