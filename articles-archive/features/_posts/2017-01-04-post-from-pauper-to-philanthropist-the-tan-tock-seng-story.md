@@ -47,7 +47,7 @@ According to *The Singapore Free Press and Mercantile Advertiser* in March 1850:
 
 The year was 1844. Singapore “was a merchant’s delight” with “huge profits to be made in commercial ventures”, “but the streets of the island also reeked with diseased and suffering people”, according to the *New Nation* in September 1974.
 
-This prompted a sharply worded editorial by Wiliam Napier, editor of *The Singapore Free Press:* “A number of diseased Chinese, lepers and others frequent almost every street in town, presenting a spectacle which is rarely to be met with even in towns with a pagan government, and which is truly disgraceful in a civilised and Christian country, especially under the government of Englishmen.”[^14]
+This prompted a sharply worded editorial by Wiliam Napier, editor of *The Singapore Free Press:*  “A number of diseased Chinese, lepers and others frequent almost every street in town, presenting a spectacle which is rarely to be met with even in towns with a pagan government, and which is truly disgraceful in a civilised and Christian country, especially under the government of Englishmen.”[^14]
 
 Something had to be done and soon. For several years, demands had been made on the British to devote more resources to help the sick and destitute in Singapore, but it was largely ignored.[^15] Finally, in 1834, the government relented and imposed a tax on the sale of pork, using the proceeds to build a Chinese Poor House. However, when the British later needed more space to house the rising convict population, it decided to convert the poor house into a jail.[^16]
 
