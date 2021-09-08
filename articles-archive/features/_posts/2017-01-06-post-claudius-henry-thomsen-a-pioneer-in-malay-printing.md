@@ -54,7 +54,7 @@ By 1819, the Malay printing press was under the full charge of Thomsen who emplo
 
 The LMS was established in Singapore in October 1819, a few months after the founding of the settlement. Samuel Milton was the first head of the Singapore mission.
 
-Thomsen left Malacca for Singapore on 11 May 1822 and arrived on 19 May, although academic Anthony Haydock Hill (A.H. Hill) suggests that Thomsen and Munshi Abdullah had visited Singapore earlier, likely after June 1819. Thomsen immediately aligned himself with Raffles who commended the former’s proficiency in Malay. Both men agreed to establish a press, with Raffles stating: “I look with great confidence to the influence of a well-conducted press in this part of the East”.[^16]
+Thomsen left Malacca for Singapore on 11 May 1822 and arrived on 19 May, although academic Anthony Haydock Hill (A.H. Hill) suggests that Thomsen and Munshi Abdullah had visited Singapore earlier, likely after June 1819. Thomsen immediately aligned himself with Raffles who commended the former’s proficiency in Malay. Both men agreed to establish a press, with Raffles stating: “I look with great confidence to the influence of a well-conducted press in this part of the East.”[^16]
 
 Between August and October 1822, Milton and Thomsen held discussions to obtain presses for the new settlement. On 8 December 1822, Milton travelled to Calcutta, India, to acquire printing presses and returned only in April the following year. As Raffles did not expect to remain long in Singapore, he instructed Thomsen to begin printing in Milton’s absence, likely between December 1822 and January 1823, and possibly using the handpress that Thomsen had brought with him to Singapore.[^17]
 
