@@ -154,7 +154,7 @@ Singaporeans today are more used to tigers as brand icons than lurking threats. 
 
 #### **Notes**
 
-Opening lines of the poem “The Tyger” by the English poet William Blake.
+[^1]:Opening lines of the poem “The Tyger” by the English poet William Blake.
 So, J. F. , & Bunker, E. C. (1995). Traders and raiders on China’s northern frontier (p. 116). Washington D. C.: Arthur M. Sackler Gallery. Call no.: RART 745.0931 SO
 Yang, X., & Yang, Y. (2000). Chinese folk art (pp.19–20). Beijing, China: New World Press. Call no.: RART 709.51 YAN
 Bradshaw Foundation. (2011). The rock art of Inner Mongolia & Ningxia. Retrieved from Bradshaw Foundation website. 
