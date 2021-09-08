@@ -138,43 +138,80 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 #### **Notes**
 
 [^1]:Republic of Singapore. Government Gazette. Subsidiary Legislation Supplement. (1970, February 25). The 1969 (Commencement) Notification (S61/1970, p. 117). Singapore: [s.n.]. Call no.: RCLOS 348.5957 SGGSLS; Chia, P., et. al. (1970, February 28). Golden Shoe. The Straits Times, p. 1; The ‘decontrol’ area is a ‘golden shoe’. (1970, February 28). The Straits Times, p. 6. Retrieved from NewspaperSG; Ministry of National Development (1988, October 4). Government announces measures to phase out rent control [Press release]. Retrieved from National Archives of Singapore website.
+
 [^2]:Chua, B. H. (1989). The Golden Shoe: Building Singapore’s financial district (pp. 31, 40). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU.
+
 [^3]:Chua, 1989, pp. 37–40, 49–54; Liu, G. (1999). Singapore: A pictorial history 1819–2000 (pp. 61, 112). Singapore: Archipelago Press in association with the National Heritage Board. Call no.: RSING 959.57 LIU
+
 [^4]:Singapore. Housing Development Board. (1965). 50,000 up: Homes for the people (p. 30). Singapore: Housing Development Board. Call no.: RCLOS 363.585095957 SIN; Chua, 1989, p. 11.
-[^4]:Singapore. Legislative Assembly. Debates: Official report. (1963, December 10). Yang Di-Petuan Negara’s speech: Debate on the address (Vol. 22, col. 248). [^5]:Singapore: [s.n.]. Call no.: RCLOS 328.5957 SIN; Singapore. Housing Development Board, 1965, pp. 85–86; Chua, 1989, p. 12.
+
+[^4]:Singapore. Legislative Assembly. Debates: Official report. (1963, December 10). Yang Di-Petuan Negara’s speech: Debate on the address (Vol. 22, col. 248). 
+[^5]:Singapore: [s.n.]. Call no.: RCLOS 328.5957 SIN; Singapore. Housing Development Board, 1965, pp. 85–86; Chua, 1989, p. 12.
+
 [^6]:Chua, 1989, pp. 12–16; Singapore. Housing Development Board, 1965, p. 84.
+
 [^7]:Singapore. Legislative Assembly, 10 Dec 1963, Vol. 22, col. 248; Chua, 1989, p. 16.
+
 [^8]:Dale, O. J. (1999). Urban planning in Singapore: The transformation of a city (pp. 126–127). Shah Alam, Malaysia: Oxford University Press. Call no.: RSING 307.1216 DAL.
+
 [^9]:Chua, 1989, pp. 66–72.
+
 [^10]:Urban Redevelopment Authority (Singapore). (1995). Changing the face of Singapore: Through the URA sale of sites (p. 149). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU; Urban Redevelopment Authority (Singapore). (1983). A pictorial chronology of the sale of sites programme for private development (p. 23). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU
+
 [^11]:‘Hanging’ shopping complex plan. (1970, July 2). *The Straits Times*, p. 18. Retrieved from NewspaperSG; Singapore Institute of Architects. (1998). Contemporary Singapore architecture (pp. 46–47). Singapore: Singapore Institute of Architects. Call no.: RSING 720.95957 CON; Urban Redevelopment Authority (Singapore), 1995, p. 158.
+
 [^12]:Singapore Institute of Architects, 1998, p. 45; Beamish, J., & Ferguson, J. (1985). A history of Singapore architecture: The making of a city (p. 167). Singapore: G. Brash. Call no.: RSING 722.4095957 BEA; Urban Redevelopment Authority (Singapore), 1995, pp. 153–155.
+
 [^13]:Test drilling now at new OCBC site. (1970, August 23). The Straits Times, p. 6. Retrieved from NewspaperSG; Chua, 1989, p. 57; Urban Redevelopment Authority (Singapore), 1995, p. 154.
+
 [^14]:$100 mil OCBC Centre opens today. (1976, October 1). The Business Times, p. 12. Retrieved from NewspaperSG; Beamish & Ferguson, 1985, pp. 164–165.
 [^15]:Powell, R. (2000). Singapore: Architecture of a global city (p. 28). Singapore: Archipelago Press. Call no.: RSING 720.959570904 POW; Chua, 1989, pp. 69, 89.
+
 [^16]:Chua, 1989, p. 72.
+
 [^17]:Singapore Institute of Architects, 1998, pp. 63, 72; Fong, L. (1971, May 29). Signing of $36 m contract marks a new era. The Straits Times, p. 8; Retrieved from NewspaperSG.
+
 [^18]:Chua, 1989, p. 72; Capital Tower gets two anchor tenants. (2000, April 25). The Straits Times, p. 60; GIC agrees to lease 40% of Capital Tower: Sources. (1999, September 22). The Business Times, p. 2. Retrieved from NewspaperSG; CapitaLand Limited. (2010, February). Singapore’s first intelligent building turns 10. Retrieved from CapitaLand website.
+
 [^19]:Dale, 1999, p. 143.
+
 [^20]:Dale, 1999, pp. 143–144; Chua, 1989, pp. 23–25; Ministry of National Development, 4 Oct 1988.
+
 [^21]:The Straits Times, 28 Feb 1970, p. 1; Dale, 1999, p. 144.
+
 [^22]:Tan, L. (1971, October 23). New look for Collyer Quay. New Nation, p. 15. Retrieved from NewspaperSG; Straits Times Annual, 1972, 148; Chua, 1989, p. 57.
 [^23]:Campbell, W. (1970, March 3). All set for the big build-up. The Straits Times, p. 8; Multi-storey Straits Trading building in its final stage. (1972, April 3). The Straits Times, p. 30. Retrieved from NewspaperSG; Chua, 1989, p. 57.
+
 [^24]:Beamish & Ferguson, 1985, pp. 81–82; The Business Times, 5 Jun 1979, p. 2; How new Chartered Bank will look. (1980, September 15). New Nation, p. 14; Bank likely to pay $3ms-$4m to tenants. (1980, July 8). The Straits Times, p. 9; Seah, R. (1981, December 16). JDC wins Chartered job. The Business Times, p. 1; Tan, A. (1979, November 22). Exciting times at Singapore Land. The Business Times, p. 11. Retrieved from NewspaperSG; P&T Group. (n.d.). History. Retrieved from P&T Group website.
+
 [^25]:A $20 m office complex in the heart of city. (1972, January 8). New Nation, p. 12; Mok, S. P. (1974, July 13). Business starts at UOB’s $20m home. The Straits Times, p. 14. Retrieved from NewspaperSG.
-Powell, 2000, pp. 23–25; Lee, H. S. (1988, February 1). Big building project all set to take off. The Business Times, p. 1; Tan, H. B. (1995, August 4). UOB Plaza: A mark of dynamism and refinement. The Straits Times, p. 2. Retrieved from NewspaperSG.
-Hong Leong agrees to pay $1.2 m to tenants. (1971, September 15). The Straits Times, p. 5; Finance firm celebrates first decade. (1977, February 21). The Straits Times, p. 10; Reopening of HSBC’s branch. (1982, April 13). The Business Times, p. 2; ‘All-glass’ building for waterfront. (1982, May 1). The Straits Times, p. 10; Koh, B. A. (1989, September 9). AIA Building to make way for $60m tower block. The Straits Times, p. 48. Retrieved from NewspaperSG.
-John Hancock drops plan for broking business in S’pore. (1992, November 6). The Straits Times, p. 47; Aleshire, I. (1986, October 4). Facade of Nedlloyd House to stay. The Straits Times, p. 16; Chan, C. (1989, December 6). New office block to replace Denmark House and next-door Finlayson House. The Straits Times, p. 48; Wee, A. (1995, April 4). Growing taller by the day. The Business Times, p. 10. Retrieved from NewspaperSG.
-Oon, D. (1997, September 30). Maybank to rebuild S’pore HQ for $110m. The Straits Times, p. 5; Koh, E. (2001, August 31). Back to the future. The Straits Times, p. 24. Retrieved from NewspaperSG; Bank of China. (n.d.). Bank of China Singapore branch building. Retrieved from Bank of China website.
-Powell, 2000, p. 30; Lim, E. H. (1989, March 1). CityDev bags last Republic Plaza site for $17m. The Straits Times, p. 27; Lee, H. S. (1987, December 3). Republic Plaza project takes off with land sale. The Business Times, p. 18. Retrieved from NewspaperSG.
-Urban Redevelopment Authority (Singapore), 1995, p. 18.
-Dale, 1999, pp. 144–147.
-Chua, 1989, pp. 57–59, 69.
-Chua, 1989, pp. 59–63.
-Ministry of National Development, 4 Oct 1988; Gradual phase out. (1997, April 4). The Straits Times, p. 38; Tan, H. Y. (1997, April 4). No more dirt cheap rent. The Straits Times, p. 38; Bill introduced to abolish rent control. (2001, February 24). The Business Times, p. 11. Retrieved from NewspaperSG.
-Urban Redevelopment Authority (Singapore). (1991). Living the next lap: Towards a tropical city of excellence (pp. 17, 20). Singapore: Urban Redevelopment Authority. Call no.: RSING 307.36095957 LIV; Seek, N. H., et. al. (2016). Singapore’s real estate: 50 years of transformation (pp. 84–86). Singapore: World Scientific. Call no.: RSING 333.3095957 SIN; Ching T. Y., & Ng, B. (2008, July–August). Realising the Marina Bay Vision. Skyline. Retrieved from Urban Redevelopment Authority website.
-Seek, 2016, pp. 84–86; Ee, E. (2013). At the forefront: Leading the new downtown (pp. 26–27, 45–47, 67–71). Singapore: Editions Didier Millet. Call no.: RSING 307.34216095957 EE
-Chan, F. (2007, January 6). 70% of One Shenton units snapped up on first day. The Straits Times, p. 79. Retrieved from NewspaperSG; United Industrial Corporation Limited. (2012). The grandeur of the past. Retrieved from United Industrial Corporation Limited website; Rashiwala, K. (2001, August 3). SGX to begin moving to Unity Towers later this year: Sources. The Business Times, p. 2. Retrieved from NewspaperSG.
-Ramchandani, N. (2016, March 12). New concepts at Downtown Gallery beckon. The Business Times. Retrieved from Factiva; Urban Redevelopment Authority. (2016). Clifford Pier, former Customs Harbour Branch Building and Change Alley Aerial Plaza. Retrieved from Urban Redevelopment Authority website; The Fullerton Heritage. (2014). About the Fullerton Heritage. Retrieved from The Fullerton Heritage website.
-OUE Commercial Real Estate Investment Trust. (2014). Annual report 2014. Retrieved from OUE Commercial Real Estate Investment Trust website; One Raffles Place. (n.d.). Construction progresses at OUB Tower 2, designed by Kenzo Tange’s son. Retrieved from One Raffles Place website; Straits Trading Building. (n.d.). Straits Trading Building. Retrieved from Straits Trading Building website.
-Koh, J. (2016, April 9). Singapore ‘third-best financial centre’. The Straits Times. Retrieved from Factiva
+
+[^26]:Powell, 2000, pp. 23–25; Lee, H. S. (1988, February 1). Big building project all set to take off. The Business Times, p. 1; Tan, H. B. (1995, August 4). UOB Plaza: A mark of dynamism and refinement. The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^27]:Hong Leong agrees to pay $1.2 m to tenants. (1971, September 15). The Straits Times, p. 5; Finance firm celebrates first decade. (1977, February 21). The Straits Times, p. 10; Reopening of HSBC’s branch. (1982, April 13). The Business Times, p. 2; ‘All-glass’ building for waterfront. (1982, May 1). The Straits Times, p. 10; Koh, B. A. (1989, September 9). AIA Building to make way for $60m tower block. The Straits Times, p. 48. Retrieved from NewspaperSG.
+
+[^28]:John Hancock drops plan for broking business in S’pore. (1992, November 6). The Straits Times, p. 47; Aleshire, I. (1986, October 4). Facade of Nedlloyd House to stay. The Straits Times, p. 16; Chan, C. (1989, December 6). New office block to replace Denmark House and next-door Finlayson House. The Straits Times, p. 48; Wee, A. (1995, April 4). Growing taller by the day. The Business Times, p. 10. Retrieved from NewspaperSG.
+
+[^29]:Oon, D. (1997, September 30). Maybank to rebuild S’pore HQ for $110m. The Straits Times, p. 5; Koh, E. (2001, August 31). Back to the future. The Straits Times, p. 24. Retrieved from NewspaperSG; Bank of China. (n.d.). Bank of China Singapore branch building. Retrieved from Bank of China website.
+
+[^30]:Powell, 2000, p. 30; Lim, E. H. (1989, March 1). CityDev bags last Republic Plaza site for $17m. The Straits Times, p. 27; Lee, H. S. (1987, December 3). Republic Plaza project takes off with land sale. The Business Times, p. 18. Retrieved from NewspaperSG.
+
+[^31]:Urban Redevelopment Authority (Singapore), 1995, p. 18.
+
+[^32]:Dale, 1999, pp. 144–147.
+[^33]:Chua, 1989, pp. 57–59, 69.
+[^34]:Chua, 1989, pp. 59–63.
+
+[^35]:Ministry of National Development, 4 Oct 1988; Gradual phase out. (1997, April 4). The Straits Times, p. 38; Tan, H. Y. (1997, April 4). No more dirt cheap rent. The Straits Times, p. 38; Bill introduced to abolish rent control. (2001, February 24). The Business Times, p. 11. Retrieved from NewspaperSG.
+
+[^36]:Urban Redevelopment Authority (Singapore). (1991). Living the next lap: Towards a tropical city of excellence (pp. 17, 20). Singapore: Urban Redevelopment Authority. Call no.: RSING 307.36095957 LIV; Seek, N. H., et. al. (2016). Singapore’s real estate: 50 years of transformation (pp. 84–86). Singapore: World Scientific. Call no.: RSING 333.3095957 SIN; Ching T. Y., & Ng, B. (2008, July–August). Realising the Marina Bay Vision. Skyline. Retrieved from Urban Redevelopment Authority website.
+
+[^37]:Seek, 2016, pp. 84–86; Ee, E. (2013). At the forefront: Leading the new downtown (pp. 26–27, 45–47, 67–71). Singapore: Editions Didier Millet. Call no.: RSING 307.34216095957 EE
+
+[^38]:Chan, F. (2007, January 6). 70% of One Shenton units snapped up on first day. The Straits Times, p. 79. Retrieved from NewspaperSG; United Industrial Corporation Limited. (2012). The grandeur of the past. Retrieved from United Industrial Corporation Limited website; Rashiwala, K. (2001, August 3). SGX to begin moving to Unity Towers later this year: Sources. The Business Times, p. 2. Retrieved from NewspaperSG.
+
+[^39]:Ramchandani, N. (2016, March 12). New concepts at Downtown Gallery beckon. The Business Times. Retrieved from Factiva; Urban Redevelopment Authority. (2016). Clifford Pier, former Customs Harbour Branch Building and Change Alley Aerial Plaza. Retrieved from Urban Redevelopment Authority website; The Fullerton Heritage. (2014). About the Fullerton Heritage. Retrieved from The Fullerton Heritage website.
+
+[^40]:OUE Commercial Real Estate Investment Trust. (2014). Annual report 2014. Retrieved from OUE Commercial Real Estate Investment Trust website; One Raffles Place. (n.d.). Construction progresses at OUB Tower 2, designed by Kenzo Tange’s son. Retrieved from One Raffles Place website; Straits Trading Building. (n.d.). Straits Trading Building. Retrieved from Straits Trading Building website.
+
+[^41]:Koh, J. (2016, April 9). Singapore ‘third-best financial centre’. The Straits Times. Retrieved from Factiva
