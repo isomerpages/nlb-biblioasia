@@ -16,7 +16,7 @@ Part of the original building was torn down when the area was redeveloped in the
 
 That fateful event was preceded by a week of intense fighting, dubbed “The Battle of Singapore”, between the combined British and Allied forces and Japanese troops after the latter made landfall on the northwestern coastline near the Johor Strait. Percival made the fatal error of assuming that the Japanese would attack from the northeastern coastline and had his firepower and soldiers concentrated along that front. The rest, as they say, is history.
 
-**A New Exhibition Opens**
+#### **A New Exhibition Opens**
 
 The Former Ford Factory – as the building is officially known − was gazetted as a national monument on 15 February 2006, following its conversion into a World War II exhibition space by its custodian, the National Archives of Singapore (NAS). Memories at Old Ford Factory (MOFF), as the gallery was called, operated for a decade until it closed in February 2016 for a major revamp.
 
@@ -32,7 +32,7 @@ One such programme was the Call for Archives in March 2016, which saw over 400 i
 
 As we approach the 75th anniversary of the fall of Singapore on 15 February 2017, it is timely to revisit these memories and experiences.
 
-**Highlights of the Exhibition**
+#### **Highlights of the Exhibition**
 
 The revamped exhibiton showcases the British surrender, the subsequent Japanese Occupation years, and the legacies of the war. Through oral history accounts and archival records from the collections of NAS, the National Library, Singapore, partner agencies and private collectors, this new exhibition aims to capture the diverse experiences of people who lived through this crucial period of our history.
 
@@ -46,7 +46,7 @@ The first thing a visitor sees upon entry to the lobby are displays that set the
 
 In total, there are over 200 exhibits on display at the exhibition. As it is not physically possible to cover all the exhibits within the confines of this article, we highlight a small selection here.
 
-###### **Fall of Singapore**
+#### **Fall of Singapore**
 
 Featuring the three intertwining narratives of Japanese military aggression, British defences and the civilians in Singapore caught up in these larger forces of empire and war, this section of the exhibition provides visitors with fresh perspectives into what Winston Churchill – the British Prime Minister during the war years – proclaimed as the “worst disaster and largest capitulation in British history”.
 
