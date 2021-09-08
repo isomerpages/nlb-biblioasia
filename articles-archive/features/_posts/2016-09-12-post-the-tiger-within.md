@@ -24,7 +24,7 @@ These early bronze and jade carvings of tigers were once buried with the dead as
 
 Neolithic scenes of adrenalin-charged tiger hunts are captured in the rock art at Daxifengkou in the Helan Mountains of Ningxia [^4] in China, the clear predecessors of the lean, athletic beasts of the later Han Dynasty (206 BC–AD 220) caught lunging through the air, tails akimbo, their long, extended tongues emerging from open jaws. The Chinese consider the tiger to be the “king of wild beasts” as the markings on the animal’s forehead resemble the Chinese character 王, which means “king”.
 
-<div style="background-color: white;"><br><img style="width:350px"src="/images/Vol-12-issue-3/the-tiger-within/03-tiger-within.jpg">A 10 x 10 cm block-printed Chinese paper
+<div style="background-color: white;"><br><img style="width:350px" src="/images/Vol-12-issue-3/the-tiger-within/03-tiger-within.jpg">A 10 x 10 cm block-printed Chinese paper
 charm, one of a bundle. Printer and artist unknown. The four characters read “White Tiger, Divine Lord”. <i>Courtesy of Patricia Bjaaland Welch.</i></div>
 
 The image of a head-in-the-air, prancing white tiger is one of the four directional animals (representing west and the seven constellations found there) of ancient China, together with a black tortoise entwined with a snake (north), a red bird (south) and a green dragon (east). These used to be painted on the interior walls of tombs and the sides of coffins to protect the dead from unknown evils as well as to ensure that the deceased remained properly oriented even in the afterlife.
