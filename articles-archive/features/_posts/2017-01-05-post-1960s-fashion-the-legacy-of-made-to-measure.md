@@ -157,7 +157,7 @@ Before long, Mr Choong was retailing jersey-knit men’s shirts from the Parisia
 |*Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades* is published by Straits Times Press. The 160-page illustrated book retails for $35 (excluding GST) and is available at major bookshops and online bookshops such as www.stpressbooks.com.sg  and Amazon. The book is also available for reference and loan at Lee Kong Chian Reference Library and branches of all public libraries ([Call no.: RSING 746.92095957 DES and 746.92095957 DES](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202544912)).|
 
 
-<div style="background-color: white;">
+<div style="background-color: white;"><br>
 	<i>Fashion Most Wanted: Singapore’s Top Insider Secrets from the Past Five Decades</i> was written by <b>John de Souza, Cat Ong and Tom Rao</b>. All three authors cut their teeth on Singapore’s fashion scene in the 1980s as writers and editors for <i>The Strait Times</i> as well as leading fashion and beauty magazines such as <i>Her World</i>, <i>Elle</i> and <i>Marie Claire</i>. They continue to keep a pulse on the ever evolving fashion scene today.</div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
