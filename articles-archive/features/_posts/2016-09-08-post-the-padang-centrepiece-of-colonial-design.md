@@ -4,3 +4,28 @@ date: 2016-09-08
 permalink: /vol-12/issue-3/oct-dec-2016/the-padang
 layout: post
 ---
+#### This expanse of green fringed by grand colonial edifices in the city centre is a statement of British might, as **Lai Chee Kien** tells us.
+
+One of the more enduring legacies of the colonial era in Southeast Asia is the spatial design and metropolitan planning that Western powers left behind in the cities they occupied. Spatial design principles that developed in European cities were superimposed onto the landscapes of colonised Southeast Asian cities, replacing the indigenous land and water forms that existed for centuries. In Singapore, the Padang – the expanse of green opposite the National Gallery Singapore and bookended by the Singapore Cricket Club and the Singapore Recreation Club – is one such example.
+
+#### **The Padang in Singapore**
+
+The British occupiers of Singapore, led by Stamford Raffles, altered the coastal landscapes of the island soon after their arrival in 1819. Recognising the defensive advantages of a hill overlooking the colonial settlement and anchorage areas, Raffles commissioned a hilltop fort for military surveillance over the settlement plains.1
+
+ In 1823, Lieutenant Philip Jackson, whom Raffles had appointed as Surveyor of Public Lands, drew a new urban plan for the town under his direction. The Raffles Town Plan (or Jackson Plan as it was also known) – taking heed of the precedent set by the British in colonial Calcutta − showed a contiguous strip of artificial landscape extending from the sea shore to the closest inland hill, which comprised an open, manicured square protected by a battery wall and Fort Fullerton, with a botanical and experimental gardens in between, and Bukit Larangan or “Forbidden Hill” (subsequently renamed by Raffles as Government Hill).
+
+The three man-made landscape elements designed by the British conspicuously displayed to its indigenous settlers how nature could be manipulated to form a flattened field (the Padang), a garden setting where trees and shrubs were regimented, and defensive structures arranged strategically on a hill.2 The construction of structures on this strip of artificial landscape was deliberate: a church, a court house and government offices between the square and gardens, and Raffles’ own residence on the hill.
+
+In time, the enlarged rectilinear Esplanade − from the Latin word explānāre, meaning “to make level” − became the first semblance of a landscape interface between British colonials and native residents in Singapore. When the Esplanade (which was how the British referred to the Padang back then) was not used for military assemblies, drills and ceremonies, it served as a pitch for cricket, football and rugby matches.
+
+Through military, recreational and ceremonial uses, the Esplanade instilled and socialised concepts of colonial discipline and abidance among the British settlers. The space became a platform that displayed different sides of the British colonial officers: regimental and belligerent on occasion, but at other times, given to rest and recreation.
+
+#### **Edifices of Power Around the Padang**
+
+Around the Esplanade, or Padang, the construction of buildings along its edges further stamped colonial legitimacy and emphasised the class divide between the British and the local peoples. As in Prince of Wales Island (later renamed Penang), which the British had earlier colonised in 1786, the British East India Company worked closely with European traders to promote commerce.
+
+One of the concessions the first British Resident in Singapore, William Farquhar, granted to traders was permission to occupy prime land along the fringes of the Padang − as in case of the Bousteads who built their family home there and the Sarkies brothers who leased the building that became the Raffles Hotel.3
+
+These buildings went against Raffles’ instructions that the northern banks of the Singapore River should be reserved strictly for government use. Together with John Crawfurd, the second Resident of Singapore, Raffles moderated Farquhar’s generosity and began to lease land instead to the traders. On this basis, the houses of colonial merchants such as Robert Scott, James Scott Clark, Edward Boustead and William Montgomerie located around the Padang were to serve as temporary residences and hotels until the Town Hall, the Supreme Court and the Municipal Building (later City Hall) were eventually built to establish the government seat of power.4
+
+The process of creating a visually consistent neoclassical facade around the Padang’s edges was thus a gradual process that took place over a century rather than a swiftly executed plan. The construction timeline began with the Parliament House (1826–27) − originally planned as a private home for the Scottish merchant John Argyle Maxwell; St Andrew’s Cathedral – first as a church (1835–36) then a cathedral (1856–61); Victoria Theatre and Concert Hall – first as the Town Hall (1855–62) and then Victoria Memorial Hall (1902–09); the Cricket Club (1860s); City Hall5 – originally the Municipal Building (1926–29); and lastly the Supreme Court (1937–39).
