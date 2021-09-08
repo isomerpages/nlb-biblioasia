@@ -143,12 +143,12 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^3]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 37–40, 49–54; Liu, G. (1999). *[Singapore: A pictorial history 1819–2000](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=9651676)* (pp. 61, 112). Singapore: Archipelago Press in association with the National Heritage Board. Call no.: RSING 959.57 LIU
 
-[^4]:Singapore. Housing Development Board. (1965). [50,000 up: Homes for the people](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428) (p. 30). Singapore: Housing Development Board. Call no.: RCLOS 363.585095957 SIN; Chua, 1989, p. 11.
+[^4]:Singapore. Housing Development Board. (1965). [50,000 up: Homes for the people](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428) (p. 30). Singapore: Housing Development Board. Call no.: RCLOS 363.585095957 SIN; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 11.
 
-[^4]:Singapore. Legislative Assembly. Debates: Official report. (1963, December 10). Yang Di-Petuan Negara’s speech: Debate on the address (Vol. 22, col. 248). 
-[^5]:Singapore: [s.n.]. Call no.: RCLOS 328.5957 SIN; Singapore. Housing Development Board, 1965, pp. 85–86; Chua, 1989, p. 12.
+[^4]:Singapore. Legislative Assembly. *[Debates: Official report](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4612739)*. (1963, December 10). Yang Di-Petuan Negara’s speech: Debate on the address (Vol. 22, col. 248). 
+[^5]:Singapore: [s.n.]. Call no.: RCLOS 328.5957 SIN; [Singapore. Housing Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428), 1965, pp. 85–86; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 12.
 
-[^6]:Chua, 1989, pp. 12–16; Singapore. Housing Development Board, 1965, p. 84.
+[^6]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 12–16; [Singapore. Housing Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428), 1965, p. 84.
 
 [^7]:Singapore. Legislative Assembly, 10 Dec 1963, Vol. 22, col. 248; Chua, 1989, p. 16.
 
