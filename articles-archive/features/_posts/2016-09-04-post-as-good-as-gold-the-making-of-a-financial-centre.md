@@ -44,7 +44,7 @@ Its neighbour, the Change Alley Aerial Plaza, comprised a revolving tower and a 
 
 #### **Singapore’s First Skyscrapers**
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/as-good-as-gold/04-as-good-as-gold.png">Singapore’s skyline in the early 1970s was a conglomeration of low-rise shophouses interspersed with a few tall buildings, and many more in the making. Shown in this 1974 photo are Ocean Building (far right), UOB Building (centre) and the still under-construction OCBC Centre (left). <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:550px" src="/images/Vol-12-issue-3/as-good-as-gold/04-as-good-as-gold.png">Singapore’s skyline in the early 1970s was a conglomeration of low-rise shophouses interspersed with a few tall buildings, and many more in the making. Shown in this 1974 photo are Ocean Building (far right), UOB Building (centre) and the still under-construction OCBC Centre (left). <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The 1968 land sales programme resulted in the so-called “three sisters” of Shenton Way: UIC (United Industrial Corporation) Building, Robina House and Shenton House. Completed in 1975, all shared a similar tower-and-podium building structure, thanks to a URD planning regulation which made sure that buildings sited further inland could still enjoy a sea view. There was, however, flexibility to allow some variation in design, most notably in the façade of the tower blocks. This tower-and-podium design was also used for the 22-storey Shing Kwan House across the road, also the result of the 1968 land sales programme. It was connected to the “three sisters” by a pedestrian-cum-shopping overhead bridge called Golden Bridge.[^12]
 
@@ -196,7 +196,7 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^30]:Powell, 2000, p. 30; Lim, E. H. (1989, March 1). CityDev bags last Republic Plaza site for $17m. The Straits Times, p. 27; Lee, H. S. (1987, December 3). Republic Plaza project takes off with land sale. The Business Times, p. 18. Retrieved from NewspaperSG.
 
-[^31]:Urban Redevelopment Authority (Singapore), 1995, p. 18.
+[^31]:[Urban Redevelopment Authority (Singapore)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7481111), 1995, p. 18.
 
 [^32]:[Dale](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945), 1999, pp. 144–147.
 
