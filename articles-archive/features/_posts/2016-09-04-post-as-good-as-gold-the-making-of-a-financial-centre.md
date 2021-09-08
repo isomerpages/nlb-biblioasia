@@ -170,17 +170,17 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^16]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 72.
 
-[^17]:[Singapore Institute of Architects](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9151059), 1998, pp. 63, 72; Fong, L. (1971, May 29). Signing of $36 m contract marks a new era. *The Straits Times*, p. 8; Retrieved from NewspaperSG.
+[^17]:[Singapore Institute of Architects](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9151059), 1998, pp. 63, 72; Fong, L. (1971, May 29). [Signing of $36 m contract marks a new era](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710529-1.2.133.1.1.aspx). *The Straits Times*, p. 8; Retrieved from NewspaperSG.
 
-[^18]:Chua, 1989, p. 72; Capital Tower gets two anchor tenants. (2000, April 25). *The Straits Times*, p. 60; GIC agrees to lease 40% of Capital Tower: Sources. (1999, September 22). *The Business Times*, p. 2. Retrieved from NewspaperSG; CapitaLand Limited. (2010, February). Singapore’s first intelligent building turns 10. Retrieved from CapitaLand website.
+[^18]:Chua, 1989, p. 72; Capital Tower gets two anchor tenants. (2000, April 25). *The Straits Times*, p. 60; [GIC agrees to lease 40% of Capital Tower: Sources](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19990922-1.2.8.7.aspx). (1999, September 22). *The Business Times*, p. 2. Retrieved from NewspaperSG; CapitaLand Limited. (2010, February). Singapore’s first intelligent building turns 10. Retrieved from CapitaLand website.
 
-[^19]:Dale, 1999, p. 143.
+[^19]:[Dale](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945), 1999, p. 143.
 
-[^20]:Dale, 1999, pp. 143–144; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 23–25; Ministry of National Development, 4 Oct 1988.
+[^20]:[Dale](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945), 1999, pp. 143–144; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 23–25; [Ministry of National Development](http://www.nas.gov.sg/archivesonline/data/pdfdoc/1173-1988-10-04.pdf), 4 Oct 1988.
 
-[^21]:The Straits Times, 28 Feb 1970, p. 1; Dale, 1999, p. 144.
+[^21]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700228-1.2.5.aspx)* , 28 Feb 1970, p. 1; [Dale](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945), 1999, p. 144.
 
-[^22]:Tan, L. (1971, October 23). New look for Collyer Quay. *New Nation*, p. 15. Retrieved from NewspaperSG; Straits Times Annual, 1972, 148; Chua, 1989, p. 57.
+[^22]:Tan, L. (1971, October 23). [New look for Collyer Quay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19711023-1.2.56.5.1.aspx). *New Nation*, p. 15. Retrieved from NewspaperSG; [Straits Times Annual](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4181897), 1972, 148; Chua, 1989, p. 57.
 [^23]:Campbell, W. (1970, March 3). All set for the big build-up. *The Straits Times*, p. 8; Multi-storey Straits Trading building in its final stage. (1972, April 3). *The Straits Times*, p. 30. Retrieved from NewspaperSG; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 57.
 
 [^24]:[Beamish & Ferguson](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082534), 1985, pp. 81–82; *T[he Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19790605-1.2.13.2.aspx)*, 5 Jun 1979, p. 2; [How new Chartered Bank will look](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800915-1.2.56.aspx). (1980, September 15). *New Nation*, p. 14; [Bank likely to pay $3ms-$4m to tenants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800708-1.2.51.aspx). (1980, July 8). *The Straits Times*, p. 9; Seah, R. (1981, December 16). [JDC wins Chartered job](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19811216-1.2.4.aspx). *The Business Times*, p. 1; Tan, A. (1979, November 22). [Exciting times at Singapore Land](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19791122-1.2.44.1.aspx). *The Business Times*, p. 11. Retrieved from NewspaperSG; P&T Group. (n.d.). History. Retrieved from P&T Group website.
