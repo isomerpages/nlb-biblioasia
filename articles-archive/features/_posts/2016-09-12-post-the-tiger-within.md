@@ -43,7 +43,7 @@ When the “Five Poisonous Creatures” (centipedes, lizards, scorpions, toads a
 
 The use of specific animal images on embroidered squares of cloth sewn onto the front and back of official uniforms to indicate rank within the Chinese military had existed in China for many years before becoming institutionalised during the Ming Dynasty in the late 14th century – the tiger sharing second place with panthers and behind the all-supreme lion. No longer the stalker, tigers were now seen sitting, often with one paw raised in a pose reminiscent of Central Asian felines, alert and curious but not leaping or hunting – their strength apparently dormant until summoned by the emperor. Both the Yongzheng (1723–35) and Qianlong (1735–96) Qing emperors commissioned paintings of themselves hunting tigers.
 
-<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-12-issue-3/the-tiger-within/05-tiger-within.jpg">One of a pair of tigers on the ceiling of Mogao Cave #428 in Dunhuang, China. Photo by Wu Jian, Dunhuang Academy. <i>All rights reserved, Whitfield, R. et. al. (2015). Cave Temples of Mogao at Dunhuang: Art and History on the Silk Road. Los Angeles: Getty Conservation Institute.</i></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-3/the-tiger-within/05-tiger-within.jpg">One of a pair of tigers on the ceiling of Mogao Cave #428 in Dunhuang, China. Photo by Wu Jian, Dunhuang Academy. <i>All rights reserved, Whitfield, R. et. al. (2015). Cave Temples of Mogao at Dunhuang: Art and History on the Silk Road. Los Angeles: Getty Conservation Institute.</i></div>
 
 #### **Tigers and Buddhist Monks**
 
