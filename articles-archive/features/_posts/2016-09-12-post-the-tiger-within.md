@@ -94,7 +94,7 @@ Tigers were much feared in the villages of India. Collections of thrilling stori
 
 “Brains versus brawn” is the moral behind many Asian legends and fables, usually about a tiger who is pitted against smaller and weaker animals such as a mouse deer or a jackal who inevitably wins the battle with its cleverness. Most of these stories are variations of an old Indian folk tale about a vicious tiger caught in a trap, and who is later released by a foolish but kind-hearted Brahman. The hapless Brahman is then seized upon by the tiger who threatens to devour the man unless he can find a creature who thinks he should not be eaten. Eventually, it takes a clever jackal to outwit the tiger and shut him back into his cage. Many of the illustrations accompanying such stories have become classic artworks, although their creators are often anonymous.
 
-<div style="background-color: white;"><img style="width:600px"src="/images/Vol-12-issue-3/the-tiger-within/09-tiger-within.jpg">“No, this is how I got into the cage. Let me show you”, says the exasperated tiger. Illustration accompanying the story, “The Tiger, Brahman and the Jackal” from Fairy Tales of India by Joseph Jacobs. Illustrations by John Dickson Batten, 1892. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;"><img style="width:600px"src="/images/Vol-12-issue-3/the-tiger-within/09-tiger-within.jpg">“No, this is how I got into the cage. Let me show you”, says the exasperated tiger. Illustration accompanying the story, “The Tiger, Brahman and the Jackal” from <i>Fairy Tales of India</i> by Joseph Jacobs. Illustrations by John Dickson Batten, 1892. <i>Courtesy of Wikimedia Commons.</i></div>
 
 #### **Tibet**
 
