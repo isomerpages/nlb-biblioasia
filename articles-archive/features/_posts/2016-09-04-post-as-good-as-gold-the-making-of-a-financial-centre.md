@@ -14,7 +14,7 @@ All this is testament to the success of the city-state’s urban renewal program
 
 #### **A Business and Financial Hub**
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/as-good-as-gold/01-as-good-as-gold.jpg">The Golden Shoe derived its name from its resemblance to an upturned shoe and its value as prime land. Development of the area was concentrated in four clusters: Raffles Place and Battery Road; Collyer Quay and Raffles Quay; Malacca, Market and Chulia streets; and Cecil Street, Robinson Road and Shenton Way.</div>
+<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/as-good-as-gold/01-as-good-as-gold.jpg">The Golden Shoe derived its name from its resemblance to an upturned shoe and its value as prime land. Development of the area was concentrated in four clusters: Raffles Place and Battery Road; Collyer Quay and Raffles Quay; Malacca, Market and Chulia streets; and Cecil Street, Robinson Road and Shenton Way.</div>
 
 The term “Golden Shoe” was the moniker given to the 80-acre shoe-shaped plot of prime land in the heart of Singapore’s city centre. Designated as the future financial and banking hub of the city, Golden Shoe was gazetted in 1970 under the Controlled Premises (Special Provisions) Act of 1969 as a zone deregulated from rent controls, – in other words, allowing owners to repossess their properties for development purposes.[^1]
 
