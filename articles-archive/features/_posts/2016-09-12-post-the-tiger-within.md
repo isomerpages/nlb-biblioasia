@@ -155,16 +155,16 @@ Singaporeans today are more used to tigers as brand icons than lurking threats. 
 #### **Notes**
 
 [^1]:Opening lines of the poem “The Tyger” by the English poet William Blake.
-So, J. F. , & Bunker, E. C. (1995). Traders and raiders on China’s northern frontier (p. 116). Washington D. C.: Arthur M. Sackler Gallery. Call no.: RART 745.0931 SO
-Yang, X., & Yang, Y. (2000). Chinese folk art (pp.19–20). Beijing, China: New World Press. Call no.: RART 709.51 YAN
-Bradshaw Foundation. (2011). The rock art of Inner Mongolia & Ningxia. Retrieved from Bradshaw Foundation website. 
-Feltham, H. (2012, October). Encounter with a tiger traveling west. Sino-Platonic Papers, 231, 14. Retrieved from Sino-Platonic website.
-Even the fearsome dvarapala, a door or gate guardian of temples, apparently wore tiger hats as evidenced by a figure in Grotto #3 at the Maijishan Grottoes in Gansu province.
-Feltham, Oct 2012, p. 5.
-Bothwell, J. (1961). The animal world of India (p. 177).NY: Franklin Watts. Not available in NLB holdings.
-Henry Cousens notes “in old Hindu ornament… the more rare an animal, the less true is its delineation…no doubt due to the rarer animals being less available as models, and less often seen, if seen at all…The lion, for instance, is far less true to life than the homely, domesticated elephant or bull, and often it is difficult to tell whether a certain form is intended for that animal or a tiger.” Tigers of course, are indigenous to India and would have been a much more familiar sight. See Cousens, H. (1903– 4). The makara in Hindu ornament. Archaeological Survey of India, Annual Report, pp. 227–8.
-Beer, R. (2003).The handbook of Tibetan Buddhist symbols (p. 65). Boston: Shambhala. Call no.:704.94609515 BEE-[ART] 
-Khin, M. C (1984). A wonderland of Burmese legends (p. 120). Bangkok: Tamarind Press, 1984, Call no.:R 392.09591 KHI
-A tiger in town. (1902, August 13). The Straits Times,p. 4. Retrieved from NewspaperSG.
-A tiger visits Singapore. (1930, November 8). Malayan Saturday Post, p. 38. Retrieved from NewspaperSG.
-Tiger Beer. (2006). Retrieved from Tiger Beer website.
+[^2]:So, J. F. , & Bunker, E. C. (1995). Traders and raiders on China’s northern frontier (p. 116). Washington D. C.: Arthur M. Sackler Gallery. Call no.: RART 745.0931 SO
+[^3]:Yang, X., & Yang, Y. (2000). Chinese folk art (pp.19–20). Beijing, China: New World Press. Call no.: RART 709.51 YAN
+[^4]:Bradshaw Foundation. (2011). The rock art of Inner Mongolia & Ningxia. Retrieved from Bradshaw Foundation website. 
+[^5]:Feltham, H. (2012, October). Encounter with a tiger traveling west. Sino-Platonic Papers, 231, 14. Retrieved from Sino-Platonic website.
+[^6]:Even the fearsome dvarapala, a door or gate guardian of temples, apparently wore tiger hats as evidenced by a figure in Grotto #3 at the Maijishan Grottoes in Gansu province.
+[^7]:Feltham, Oct 2012, p. 5.
+[^8]:Bothwell, J. (1961). The animal world of India (p. 177).NY: Franklin Watts. Not available in NLB holdings.
+[^9]:Henry Cousens notes “in old Hindu ornament… the more rare an animal, the less true is its delineation…no doubt due to the rarer animals being less available as models, and less often seen, if seen at all…The lion, for instance, is far less true to life than the homely, domesticated elephant or bull, and often it is difficult to tell whether a certain form is intended for that animal or a tiger.” Tigers of course, are indigenous to India and would have been a much more familiar sight. See Cousens, H. (1903– 4). The makara in Hindu ornament. Archaeological Survey of India, Annual Report, pp. 227–8.
+[^10]:Beer, R. (2003).The handbook of Tibetan Buddhist symbols (p. 65). Boston: Shambhala. Call no.:704.94609515 BEE-[ART] 
+[^11]:Khin, M. C (1984). A wonderland of Burmese legends (p. 120). Bangkok: Tamarind Press, 1984, Call no.:R 392.09591 KHI
+[^12]:A tiger in town. (1902, August 13). The Straits Times,p. 4. Retrieved from NewspaperSG.
+[^13]:A tiger visits Singapore. (1930, November 8). Malayan Saturday Post, p. 38. Retrieved from NewspaperSG.
+[^14]:Tiger Beer. (2006). Retrieved from Tiger Beer website.
