@@ -6,7 +6,7 @@ layout: post
 ---
 #### Singapore’s Central Business District didn’t happen by accident. **Lim Tin Seng** recounts how a piece of prime land dubbed as “Golden Shoe” was transformed into a glittering financial hub.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/as-good-as-gold/02-as-good-as-gold.png">Collyer Quay was another cluster that traditionally served as a commercial site. Built on reclaimed land, it was an extension of Raffles Place, providing spaces for offices and godowns. This 1960s photo shows Asia Insurance Building (left), Ocean Building (centre) and Alkaff Arcade (right). <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:550px" src="/images/Vol-12-issue-3/as-good-as-gold/02-as-good-as-gold.png">Collyer Quay was another cluster that traditionally served as a commercial site. Built on reclaimed land, it was an extension of Raffles Place, providing spaces for offices and godowns. This 1960s photo shows Asia Insurance Building (left), Ocean Building (centre) and Alkaff Arcade (right). <i>Courtesy of National Archives of Singapore.</i></div>
 
 Singapore’s waterfront has seen a remarkable transformation over the last 50 years, marked by the soaring glass-and-concrete towers of Raffles Place and Shenton Way on the one hand to the vast expanse of shimmering Marina Bay on the other, framing the new extension of the Central Business District (CBD). Older skyscrapers such as One Raffles Place (formerly OUB Centre; 1986), UOB Plaza (1992) and Republic Plaza (1995) – all scaling 280 metres, the maximum height allowed in Singapore – hold their own against the shiny new rivals of Marina Bay, led by Marina Bay Sands and the Marina Bay Financial Centre.
 
