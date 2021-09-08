@@ -194,7 +194,7 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^29]:Oon, D. (1997, September 30). Maybank to rebuild S’pore HQ for $110m. The Straits Times, p. 5; Koh, E. (2001, August 31). Back to the future. The Straits Times, p. 24. Retrieved from NewspaperSG; Bank of China. (n.d.). Bank of China Singapore branch building. Retrieved from Bank of China website.
 
-[^30]:Powell, 2000, p. 30; Lim, E. H. (1989, March 1). CityDev bags last Republic Plaza site for $17m. The Straits Times, p. 27; Lee, H. S. (1987, December 3). Republic Plaza project takes off with land sale. The Business Times, p. 18. Retrieved from NewspaperSG.
+[^30]:[Powell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10074731), 2000, p. 30; Lim, E. H. (1989, March 1). [CityDev bags last Republic Plaza site for $17m](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890301-1.2.44.4.aspx). *The Straits Times*, p. 27; Lee, H. S. (1987, December 3). [Republic Plaza project takes off with land sale.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19871203-1.2.43.aspx) *The Business Times*, p. 18. Retrieved from NewspaperSG.
 
 [^31]:[Urban Redevelopment Authority (Singapore)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7481111), 1995, p. 18.
 
