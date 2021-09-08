@@ -150,7 +150,7 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^6]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 12–16; [Singapore. Housing Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428), 1965, p. 84.
 
-[^7]:Singapore. Legislative Assembly, 10 Dec 1963, Vol. 22, col. 248; Chua, 1989, p. 16.
+[^7]:[Singapore. Legislative Assembly](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4612739), 10 Dec 1963, Vol. 22, col. 248; Chua, 1989, p. 16.
 
 [^8]:Dale, O. J. (1999). Urban planning in Singapore: The transformation of a city (pp. 126–127). Shah Alam, Malaysia: Oxford University Press. Call no.: RSING 307.1216 DAL.
 
