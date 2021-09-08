@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg">Hongli spearing a tiger. One of the many paintings of Prince Bao Hongli who ascended the throne in 1736 as the Qianlong Emperor (1735–96). Artist unknown; ink and colour on silk. Palace Museum, Beijing. <i>Courtesy of Wikimedia Commons.</i></div>
 
-[^1]<center>“Tyger, Tyger, burning bright, In the forests of the night”</center>
+“Tyger, Tyger, burning bright, In the forests of the night”[^1]
 <p align="right">– William Blake</p>
 
 One of the reasons we draw is to capture and share an experience, or express our feelings – whether scratched into a cave’s rocky wall or artfully painted with oil or watercolour. One of the reasons we look at art is because we want to be entertained, to see something captivating or exciting. It is for good reason that the tiger has become one of the most written about and depicted animals in literature and art. Enter the tiger as portrayed in Asia.
@@ -65,7 +65,7 @@ The tamed tiger is a popular motif in the Buddhist art of China and Japan, wheth
 
 #### **India**
 
-<center>“In what distant deeps or skies. Burnt the fire of thine eyes?” </center> 
+“In what distant deeps or skies. Burnt the fire of thine eyes?” 
 <p align="right">– William Blake</p>
 
 In India, on the other hand, a land where tigers once roamed freely and every village feared these dreaded stalkers, the image of the kittenish tiger is nowhere to be seen. Here, “the strongest animals, elephants, form the base of the pyramid of life. The earth is represented by jungle, full of lions and tigers.” [^8] This frieze frequently appears on many of the oldest Hindu temples in India, including the caves of Ajanta, Ellora and Elephanta in Maharashatra state.
