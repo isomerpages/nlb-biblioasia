@@ -125,7 +125,7 @@ An index ranking released by the London-based research firm Z/Yen Group in April
 Given the unrelenting pace of redevelopment and renewal in Singapore’s CBD area, the building hardware at least – cast in concrete and encased in shiny steel and shimmering glass, and often flaunting world-class architects and designers – seems ready to face the challenges of the next 50 years.
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/as-good-as-gold/09-as-good-as-gold.jpg"><i>This panoramic view shows how Singapore’s Central Business District has expanded beyond the Golden Shoe boundary to include the newly reclaimed 360-acre Marina Bay downtown precinct with its glittering
-maze of steel, concrete and glass high-rises. <i>Photo by Richard W. J. Koh.</i></div>
+maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></div>
 	
 <div style="background-color: white;">
 <br>
@@ -135,10 +135,10 @@ maze of steel, concrete and glass high-rises. <i>Photo by Richard W. J. Koh.</i>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 	
-	Notes
+#### **Notes**
 
-Republic of Singapore. Government Gazette. Subsidiary Legislation Supplement. (1970, February 25). The 1969 (Commencement) Notification (S61/1970, p. 117). Singapore: [s.n.]. Call no.: RCLOS 348.5957 SGGSLS; Chia, P., et. al. (1970, February 28). Golden Shoe. The Straits Times, p. 1; The ‘decontrol’ area is a ‘golden shoe’. (1970, February 28). The Straits Times, p. 6. Retrieved from NewspaperSG; Ministry of National Development (1988, October 4). Government announces measures to phase out rent control [Press release]. Retrieved from National Archives of Singapore website.
-Chua, B. H. (1989). The Golden Shoe: Building Singapore’s financial district (pp. 31, 40). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU.
+[^1]:Republic of Singapore. Government Gazette. Subsidiary Legislation Supplement. (1970, February 25). The 1969 (Commencement) Notification (S61/1970, p. 117). Singapore: [s.n.]. Call no.: RCLOS 348.5957 SGGSLS; Chia, P., et. al. (1970, February 28). Golden Shoe. The Straits Times, p. 1; The ‘decontrol’ area is a ‘golden shoe’. (1970, February 28). The Straits Times, p. 6. Retrieved from NewspaperSG; Ministry of National Development (1988, October 4). Government announces measures to phase out rent control [Press release]. Retrieved from National Archives of Singapore website.
+[^2]:Chua, B. H. (1989). The Golden Shoe: Building Singapore’s financial district (pp. 31, 40). Singapore: Urban Redevelopment Authority. Call no.: RSING 711.5522095957 CHU.
 Chua, 1989, pp. 37–40, 49–54; Liu, G. (1999). Singapore: A pictorial history 1819–2000 (pp. 61, 112). Singapore: Archipelago Press in association with the National Heritage Board. Call no.: RSING 959.57 LIU
 Singapore. Housing Development Board. (1965). 50,000 up: Homes for the people (p. 30). Singapore: Housing Development Board. Call no.: RCLOS 363.585095957 SIN; Chua, 1989, p. 11.
 Singapore. Legislative Assembly. Debates: Official report. (1963, December 10). Yang Di-Petuan Negara’s speech: Debate on the address (Vol. 22, col. 248). Singapore: [s.n.]. Call no.: RCLOS 328.5957 SIN; Singapore. Housing Development Board, 1965, pp. 85–86; Chua, 1989, p. 12.
