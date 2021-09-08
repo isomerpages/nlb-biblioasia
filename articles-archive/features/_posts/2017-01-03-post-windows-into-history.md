@@ -216,7 +216,7 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 
 |In the case of St Andrew’s Cathedral, the choir stalls are positioned behind the altar. In Catholic churches, the tabernacle where the Eucharist[^14] is stored, is located behind the altar. In most cases, an apse is the recess behind the sanctuary.|
 
-<img style="width:400px" src="/images/Vol-12-issue-4/windows-into-history/11-windows_into_history.jpg">
+<img style="width:500px" src="/images/Vol-12-issue-4/windows-into-history/11-windows_into_history.jpg">
 
 |The clerestory denotes an upper level of the nave where the walls rise above the rooflines of the lower aisles and are punctuated with windows. Windows located in this area are also known as clerestory windows.|
 
