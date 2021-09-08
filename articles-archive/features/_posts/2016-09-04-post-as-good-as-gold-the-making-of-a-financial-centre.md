@@ -199,8 +199,10 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 [^31]:Urban Redevelopment Authority (Singapore), 1995, p. 18.
 
 [^32]:Dale, 1999, pp. 144–147.
-[^33]:Chua, 1989, pp. 57–59, 69.
-[^34]:Chua, 1989, pp. 59–63.
+
+[^33]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 57–59, 69.
+
+[^34]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 59–63.
 
 [^35]:[Ministry of National Development](http://www.nas.gov.sg/archivesonline/data/pdfdoc/1173-1988-10-04.pdf), 4 Oct 1988; [Gradual phase out.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970404-1.2.48.6.aspx) (1997, April 4). *The Straits Times*, p. 38; Tan, H. Y. (1997, April 4). [No more dirt cheap rent.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970404-1.2.48.5.aspx) *The Straits Times*, p. 38; [Bill introduced to abolish rent control.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20010224-1.2.18.2.aspx) (2001, February 24). *The Business Times*, p. 11. Retrieved from NewspaperSG.
 
