@@ -65,13 +65,13 @@ Singapore’s first batch of national servicemen was still in training in 1967, 
 
 But the process had started and there was no turning back. As a compromise, the British agreed to extend the deadline for withdrawal from March to December 1971. Singapore had inherited Britain’s rule of law and the infrastructure it set up, but it was the sudden British withdrawal of support that forced the newly independent country to come into its own. Without Britain to fall back on, the Singapore government had to adopt a series of tough economic measures to put the country on track.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/4-britannia-nco.jpg">The NCOs were a sporty bunch, representing the club in water polo matches, swimming competitions, soccer, badminton and hockey tournaments, and marathons. <i>Courtesy of MINDEF.</i></div>
-
 #### **Enter the NCO Club**
 
 The Britannia Club closed on 30 April 1971; the pool was drained and the doors and windows shuttered. The poolside picnics, the rambunctious parties and the laughter vanished, and a lone *jaga* (watchman) was hired to guard the desolate premises. Its closure marked the end of the colour and gaiety that British military life had brought to Singapore.[^14]
 
 A year later, the government negotiated with NAAFI to buy out the Britannia Club and the 63,000 sq ft of prime real estate it sat on. The idea at the time was to convert the premises for public use, but with defence being a priority, a decision was made to turn it into a recreation centre for non-commissioned officers (NCOs) of the Singapore Armed Forces and their families.[^15]
+
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/4-britannia-nco.jpg">The NCOs were a sporty bunch, representing the club in water polo matches, swimming competitions, soccer, badminton and hockey tournaments, and marathons. <i>Courtesy of MINDEF.</i></div>
 
 The government spent $236,000 sprucing up the premises, and on 17 March 1974, the newly refurbished NCO Club was officially opened by Minister for Defence Goh Keng Swee. A fancy club in the middle of downtown with an Olympic-sized pool, food and beverage outlets, and recreational facilities was much welcomed by soldiers working in military units scattered in the rural outskirts of Singapore.[^16]
 
