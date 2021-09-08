@@ -17,14 +17,14 @@ One of the reasons we draw is to capture and share an experience, or express our
 
 We know the ancient Chinese found tigers as terrifying and captivating as we do today. Among the earliest depictions of tigers are white jade carvings dating back at least 4,000 years. By the 9th century BC, we find tiger figurines cast in bronze, usually depicted crouching, their tails either hanging limply or curled up along their backs. These are brutish animals with “large heads and incised, almond-shaped eyes, bared rows of sharp teeth, inward-spiraling ears, oversized paws and claws” [^2] and thick tails. Some figurines are etched with deep grooves on their bodies to represent the tiger’s stripes. The similarities in the depiction of these animals in western China to objects found in the Altai Mountains of south Russia suggest an early exchange of art between China and her non-Chinese neighbours.
 
-<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/the-tiger-within/02-tiger-within.jpg">Western Zhou Dynasty (c.1050–771 BC) bronze tiger with deep grooves etched on its
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-3/the-tiger-within/02-tiger-within.jpg">Western Zhou Dynasty (c.1050–771 BC) bronze tiger with deep grooves etched on its
 body to simulate stripes. Freer Gallery of Art, Smithsonian Institution, Washington, DC. <i>Courtesy of Wikimedia Commons.</i></div>
 
 These early bronze and jade carvings of tigers were once buried with the dead as they were believed to offer protection in the afterlife. According to one source, “one of the oldest pieces of evidence for the protective nature of tigers was the discovery of two large figures formed out of seashells, one a dragon and the other a tiger, on each side of a corpse in a grave at Puyang in Henan province”. [^3]
 
 Neolithic scenes of adrenalin-charged tiger hunts are captured in the rock art at Daxifengkou in the Helan Mountains of Ningxia [^4] in China, the clear predecessors of the lean, athletic beasts of the later Han Dynasty (206 BC–AD 220) caught lunging through the air, tails akimbo, their long, extended tongues emerging from open jaws. The Chinese consider the tiger to be the “king of wild beasts” as the markings on the animal’s forehead resemble the Chinese character 王, which means “king”.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/the-tiger-within/03-tiger-within.jpg">A 10 x 10 cm block-printed Chinese paper
+<div style="background-color: white;"><br><img style="width:350px"src="/images/Vol-12-issue-3/the-tiger-within/03-tiger-within.jpg">A 10 x 10 cm block-printed Chinese paper
 charm, one of a bundle. Printer and artist unknown. The four characters read “White Tiger, Divine Lord”. <i>Courtesy of Patricia Bjaaland Welch.</i></div>
 
 The image of a head-in-the-air, prancing white tiger is one of the four directional animals (representing west and the seven constellations found there) of ancient China, together with a black tortoise entwined with a snake (north), a red bird (south) and a green dragon (east). These used to be painted on the interior walls of tombs and the sides of coffins to protect the dead from unknown evils as well as to ensure that the deceased remained properly oriented even in the afterlife.
