@@ -142,7 +142,7 @@ There were significant shifts in terms of social policy in the immediate post-wa
 
 A Department of Social Welfare, for instance, was set up in in June 1946 to continue the BMA’s work of tackling the lingering social problems caused by the Occupation. The department set up free feeding centres for children, as well as “People’s Restaurants”, where anyone could buy a cheap and nutritious lunch for 35 cents (later, 8-cent meals were introduced to help the urban poor).[^7]
 
-<div style="background-color: white;"><img style="width:350px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/8a-surviving-japanese-occupation.jpg">Children’s feeding centre in the post-war period. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;"><img style="width:350px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/8a-surviving-japanese-occupation.jpg">Children’s feeding centre in the post-war period. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 ###### **Poster to protest arrests of communists**
 
@@ -150,7 +150,7 @@ One of the most profound changes of the war and Occupation was the realisation t
 
 Written with blood and Chinese brush ink, this poster (see image below) was created as a means of protest against police raids on the Malayan Communist Party and other pro-communist organisations on the eve of the 15 February demonstrations in 1946. The communists had organised the agitations as part of their plan to undermine the British. While the demonstrations were ostensibly meant to commemorate the fall of Singapore, the British authorities viewed it as an insult as it was on this day in 1942 that they had surrendered to the Japanese.
 
-<div style="background-color: white;"><img style="width:450px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/8b-surviving-japanese-occupation.jpg">A poster written with blood and Chinese brush ink protesting the arrest of members of the Malayan Communist Party in 1946. Courtesy of the Ministry of Home Affairs, Internal Security Department Heritage Centre.</div>
+<div style="background-color: white;"><img style="width:450px" src="/images/Vol-12-issue-4/surviving-japanese-occupation/8b-surviving-japanese-occupation.jpg">A poster written with blood and Chinese brush ink protesting the arrest of members of the Malayan Communist Party in 1946. <i>Courtesy of the Ministry of Home Affairs, Internal Security Department Heritage Centre.</i></div>
 
 In 1948, the Malayan Communist Party abandoned the “united front” strategy of peaceful struggle and pushed for an armed struggle, leading the British to declare a state of Emergency. The ensuing clashes between communists and the colonial government would have far-reaching consequences in shaping the post-war political landscape in Singapore and Malaya.
 
