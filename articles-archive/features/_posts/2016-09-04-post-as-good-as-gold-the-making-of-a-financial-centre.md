@@ -208,7 +208,7 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^37]:Seek, 2016, pp. 84–86; Ee, E. (2013). At the forefront: Leading the new downtown (pp. 26–27, 45–47, 67–71). Singapore: Editions Didier Millet. Call no.: RSING 307.34216095957 EE
 
-[^38]:Chan, F. (2007, January 6). 70% of One Shenton units snapped up on first day. The Straits Times, p. 79. Retrieved from NewspaperSG; United Industrial Corporation Limited. (2012). The grandeur of the past. Retrieved from United Industrial Corporation Limited website; Rashiwala, K. (2001, August 3). SGX to begin moving to Unity Towers later this year: Sources. The Business Times, p. 2. Retrieved from NewspaperSG.
+[^38]:Chan, F. (2007, January 6). 70% of One Shenton units snapped up on first day. The Straits Times, p. 79. Retrieved from NewspaperSG; United Industrial Corporation Limited. (2012). The grandeur of the past. Retrieved from United Industrial Corporation Limited website; Rashiwala, K. (2001, August 3). [SGX to begin moving to Unity Towers later this year: Sources.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20010803-1.2.9.5.aspx) The Business Times, p. 2. Retrieved from NewspaperSG.
 
 [^39]:Ramchandani, N. (2016, March 12). New concepts at Downtown Gallery beckon. The Business Times. Retrieved from Factiva; Urban Redevelopment Authority. (2016). Clifford Pier, former Customs Harbour Branch Building and Change Alley Aerial Plaza. Retrieved from Urban Redevelopment Authority website; The Fullerton Heritage. (2014). About the Fullerton Heritage. Retrieved from The Fullerton Heritage website.
 
