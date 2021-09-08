@@ -6,7 +6,7 @@ layout: post
 ---
 #### This expanse of green fringed by grand colonial edifices in the city centre is a statement of British might, as **Lai Chee Kien** tells us.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-3/the-padang/01-The-Padang.jpg">A view of the Grand Hotel de l’Europe (left) being built (later demolished to build the Supreme Court), several residential houses belonging to European merchants, lawn tennis courts on the edge of the Padang and St Andrew’s Cathedral (on the right). Likely photographed in the early 1900s. <i>Courtesy of Lai Chee Kien.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/the-padang/01-The-Padang.jpg">A view of the Grand Hotel de l’Europe (left) being built (later demolished to build the Supreme Court), several residential houses belonging to European merchants, lawn tennis courts on the edge of the Padang and St Andrew’s Cathedral (on the right). Likely photographed in the early 1900s. <i>Courtesy of Lai Chee Kien.</i></div>
 
 One of the more enduring legacies of the colonial era in Southeast Asia is the spatial design and metropolitan planning that Western powers left behind in the cities they occupied. Spatial design principles that developed in European cities were superimposed onto the landscapes of colonised Southeast Asian cities, replacing the indigenous land and water forms that existed for centuries. In Singapore, the Padang – the expanse of green opposite the National Gallery Singapore and bookended by the Singapore Cricket Club and the Singapore Recreation Club – is one such example.
 
