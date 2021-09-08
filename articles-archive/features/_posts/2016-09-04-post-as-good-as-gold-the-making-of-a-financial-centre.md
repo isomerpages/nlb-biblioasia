@@ -198,7 +198,7 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^31]:Urban Redevelopment Authority (Singapore), 1995, p. 18.
 
-[^32]:Dale, 1999, pp. 144–147.
+[^32]:[Dale](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945), 1999, pp. 144–147.
 
 [^33]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 57–59, 69.
 
