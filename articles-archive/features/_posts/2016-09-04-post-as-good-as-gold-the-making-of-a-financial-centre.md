@@ -172,7 +172,7 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^17]:[Singapore Institute of Architects](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9151059), 1998, pp. 63, 72; Fong, L. (1971, May 29). [Signing of $36 m contract marks a new era](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710529-1.2.133.1.1.aspx). *The Straits Times*, p. 8; Retrieved from NewspaperSG.
 
-[^18]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 72; [Capital Tower gets two anchor tenants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000425-1.2.68.51.aspx). (2000, April 25). *The Straits Times*, p. 60; [GIC agrees to lease 40% of Capital Tower: Sources](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19990922-1.2.8.7.aspx). (1999, September 22). *The Business Times*, p. 2. Retrieved from NewspaperSG; CapitaLand Limited. (2010, February). Singapore’s first intelligent building turns 10. Retrieved from CapitaLand website.
+[^18]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 72; [Capital Tower gets two anchor tenants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000425-1.2.68.51.aspx). (2000, April 25). *The Straits Times*, p. 60; [GIC agrees to lease 40% of Capital Tower: Sources](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19990922-1.2.8.7.aspx). (1999, September 22). *The Business Times*, p. 2. Retrieved from NewspaperSG; CapitaLand Limited. (2010, February). *Singapore’s first intelligent building turns 10*. Retrieved from CapitaLand website.
 
 [^19]:[Dale](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945), 1999, p. 143.
 
