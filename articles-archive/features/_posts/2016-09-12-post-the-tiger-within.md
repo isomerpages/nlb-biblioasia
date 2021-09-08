@@ -70,7 +70,7 @@ The tamed tiger is a popular motif in the Buddhist art of China and Japan, wheth
 
 In India, on the other hand, a land where tigers once roamed freely and every village feared these dreaded stalkers, the image of the kittenish tiger is nowhere to be seen. Here, “the strongest animals, elephants, form the base of the pyramid of life. The earth is represented by jungle, full of lions and tigers.” [^8] This frieze frequently appears on many of the oldest Hindu temples in India, including the caves of Ajanta, Ellora and Elephanta in Maharashatra state.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-3/the-tiger-within/06-tiger-within.jpg">The famous Tiger Head Cave (Bagh Gumpha), Cave #12 in the Jain cave complex of Udayagiri in Bhubaneswar, India. The opening of the cave is shaped like a tiger’s open mouth. <i>Courtesy of Ruth Gerson.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/the-tiger-within/06-tiger-within.jpg">The famous Tiger Head Cave (Bagh Gumpha), Cave #12 in the Jain cave complex of Udayagiri in Bhubaneswar, India. The opening of the cave is shaped like a tiger’s open mouth. <i>Courtesy of Ruth Gerson.</i></div>
 
 At the 13th-century site of Konarak, dedicated to the Sun god (Surya), on India’s Bay of Bengal, India’s two great religions – Hinduism and Buddhism – are respectively depicted as lions and tigers, each attempting to subdue the other.Contests featuring these mighty beasts were said to have been staged several times throughout history, beginning from the days of the Roman Colisseum, with varying outcomes.
 
