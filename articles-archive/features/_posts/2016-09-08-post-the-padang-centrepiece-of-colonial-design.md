@@ -90,12 +90,12 @@ Seen as a whole, Marina Bay is a rectangular, flat piece of water surface that h
 
 #### **Notes**
 
-[^1]:Letter from Stamford Raffles to William Farquhar dated 6 February 1819, as cited in L. T. Firbank, A History of Fort Canning (no records), p. 16.
-[^2]:Lai, C, K. (2006, July). Botanical imaginations of Southeast Asia in the 19th and 20th centuries. Singapore Architect, (233), pp. 70–79. Call no.: RSING 720.5 SA
-[^3]:A new hotel in Singapore. (1887, September 21). Straits Times Weekly Issue, p. 4; Retrieved from NewspaperSG; Liu, G. (2006). Raffles Hotel (pp. 17–18). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU
-[^4]:Lee, K. L. (1988). The Singapore House 1819–1942 (pp. 148–149). G. Liu. (Ed.). Singapore: Times Editions. Call no.: RSING 728.095957 LEE
+[^1]:Letter from Stamford Raffles to William Farquhar dated 6 February 1819, as cited in L. T. Firbank, *A History of Fort Canning* (no records), p. 16.
+[^2]:Lai, C, K. (2006, July). Botanical imaginations of Southeast Asia in the 19th and 20th centuries. S*ingapore Architect,* (233), pp. 70–79. Call no.: RSING 720.5 SA
+[^3]:[A new hotel in Singapore.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870921-1.2.14.aspx) (1887, September 21). *Straits Times Weekly Issue*, p. 4; Retrieved from NewspaperSG; Liu, G. (2006). *[Raffles Hotel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12691300)* (pp. 17–18). Singapore: Editions Didier Millet. Call no.: RSING q915.9570613 LIU
+[^4]:Lee, K. L. (1988). *[The Singapore House 1819–1942](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5087274)* (pp. 148–149). G. Liu. (Ed.). Singapore: Times Editions. Call no.: RSING 728.095957 LEE
 [^5]:The former City Hall and Supreme Court buildings, both gazetted national monuments, were renovated and opened in November 2015 as the National Gallery Singapore housing the largest public collection of modern art in Singapore and Southeast Asia.
-[^6]:The statue of Stamford Raffles was commissioned by then Governor of the Straits Settlements Frederick Weld for Singapore in 1887, and designed and sculpted by Thomas Woolner. It was later transferred to its present location at the Victoria Memorial Hall. See Woolner, A. (1917). Thomas Woolner, R.A., sculptor and poet: His life in letters (p. 326). New York: E. P. Dutton & Company. Retrieved from Internet Archive.
+[^6]:The statue of Stamford Raffles was commissioned by then Governor of the Straits Settlements Frederick Weld for Singapore in 1887, and designed and sculpted by Thomas Woolner. It was later transferred to its present location at the Victoria Memorial Hall. See Woolner, A. (1917). *Thomas Woolner, R.A., sculptor and poet: His life in letters* (p. 326). New York: E. P. Dutton & Company. Retrieved from Internet Archive.
 [^7]:Jayapal, M. (1992). Old Singapore (p. 25). Singapore: Oxford University Press. Call no.: RSING 959.57 JAY-[HIS] 
 [^8]:Home, R. K. (1996). Of Planting and planning: The making of British colonial cities. (pp. 8–23). London: E. & F. N. Spon. Call no.: RART 711.409171241 HOM
 [^9]:Blake, S. P. (1999). Half the world: The social architecture of Safavid Isfahan, 1590–1722 (pp. xvi–xvii). Costa Mesa: California: Mazda. Call no.: RART q720.95595 BLA
