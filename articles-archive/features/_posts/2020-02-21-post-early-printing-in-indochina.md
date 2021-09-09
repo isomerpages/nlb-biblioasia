@@ -111,14 +111,12 @@ French colonisation and the emergence of commercial publishers who used Western 
 [^12]:[Herbert & Milner](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487), 1989, p. 70; Jarvis, H., & Arfanis, P. (2002). *Publishing Cambodia* (p. 4–1). Retrieved from The Center for Khmer Studies website; Edwards, P. (2006). [*Cambodge: The cultivation of a nation, 1860–1945*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12830146) (p. 81). Honolulu: University of Hawai’i Press. (Call no.: RSEA 959.603 EDW); Berkeley Library. (2019, September 2). *Khmer: The languages of Berkeley: An online exhibition*. Retrieved from Berkeley Library website.
 [^13]:[Herbert & Milner](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487), 1989, pp. 53–54; [Nepote & Khing](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4590346), 1981, pp. 62, 76; [Edwards](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12367502), 2004, p. 68; [Jarvis & Arfanis](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12830146), 2002, p. 4–1; Dara, M., & Tyrton, S. (2017, February 2). Royal gazette to move online. Retrieved from Phnom Penh Post website.
 [^14]:[Nepote & Khing](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4590346), 1981, pp. 62–64; [Jarvis & Arfanis](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12830146), 2002, p. 4-1; [Herbert & Milner](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487), 1989, p. 54.
-[^15]:
-[^16]:
+[^15]:Scheuren, Z.Q. (2010). *Khmer printing types and the introduction of print in Cambodia*: 1877–1977 (p. 21). Retrieved from issuu website.
+[^16]:Scheuren, 2010, pp. 15–29; [Herbert & Milner](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487), 1989, pp. 53–54; [Suarez & Woudhuysen](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200774186), 2013, p. 634; [Edwards](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12367502), 2004, p. 68.
 [^17]:
 [^18]:
 [^19]:
 [^20]:
 [^21]:
 [^22]:
-Scheuren, Z.Q. (2010). Khmer printing types and the introduction of print in Cambodia: 1877–1977 (p. 21). Retrieved from issuu website.
-Scheuren, 2010, pp. 15–29; Herbert & Milner, 1989, pp. 53–54; Suarez & Woudhuysen, 2013, p. 634; Edwards, 2004, p. 68.
 Herbert & Milner, 1989, p. 70; Koret, P. (1999). Introduction to Lao literature. Retrieved from SEAsite Laos website; Koret, P. (2009). The short story and contemporary Lao literature (p. 81). In T.S Yamada. (Ed.). Modern short fiction of Southeast Asia: A literary history. Ann Arbor, Mich.: Association for Asian Studies. (Call no.: RSEA 808.83108895 MOD)
