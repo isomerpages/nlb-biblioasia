@@ -47,3 +47,21 @@ Singapore’s political tensions, how- ever, threw a spanner in the works. Under
 By the mid-1980s, the couple had been exonerated of any wrongdoing, and the  pro-communist allegations against them  were dropped. In 1983, Goh studied under famed contemporary dancer and chore- ographer Martha Graham in New York. In 1988, she created Nu Wa — Mender of the Heavens (1988) for the Singapore Festival of Arts, which came to be recognised as  Singapore’s first full-length modern dance production. Based on Chinese mythology, Nu Wa encapsulated Goh’s artistic tensions between her Asian roots and Western ballet training. For her significant contributions to Singapore’s dance scene, Goh was conferred the Cultural Medallion for dance in 1995.
 
 “She so successfully blended con- temporary, East Asian, and Southeast  Asian dance forms and themes such that, even if one may discern traces of ballet,  and Indian, Malay and Chinese dances,  her final form was none of those: it was, simply, a dance choreographed by Goh,”  said Venka Purushothaman in his 2002  book on Cultural Medallion recipients.[^5]
+
+#### **Three Generations of Dance**
+
+<i>Santha Bhaskar, Bhaskar’s Arts Academy</i>
+
+Arriving in Singapore in 1959 from Kerala,  India, the then 15 year-old-dancer had no  idea what to expect from her arranged mar- riage to K. P. Bhaskar, a man she had never  met. All she knew was that he ran a small  dance school in Singapore, Bhaskar’s Arts  Academy.  “As  soon  as  my  plane  touched   down the runway, I saw the smiling faces of  Mr Bhaskar, students and friends. I didn’t  feel homesick. Not even for a second,” said  Santha Bhaskar.6 As a wide-eyed ingénue  to bustling Singapore, she started learning  more about Malay and Chinese cultures. She  recalled, “When I first came, I didn’t know  how Chinese faces looked like, or Malay faces  looked like. I’d never seen people eat with  chopsticks  before!”  The  learning  evolved from food – arguably the heart and soul of  Singapore – to her passion for dance. 
+
+As artistic director of Bhaskar’s Arts  Academy, where she teaches Bharatnatyam  dance, Bhaskar began exploring her new-  found insights. Weaving Chinese, Malay and  even Thai dance influences into her dance  choreography, Bhaskar has staged key Asian  works such as the classic Chinese folktale  Butterfly Lovers (1958), as well as the Thai  mythology Manohra (1996).
+
+From the 100 students the academy  had  in  the  1950s,  the  dance  school  has   more  than  2,000  today.  Bhaskar  is  also   artistic director and resident choreographer  of NUS Indian Dance at the Centre for the  Arts at the National University of Singapore,  where she taught for over 20 years since  the late 1970s.
+
+At the Centre for the Arts, Bhaskar also  dabbled in dance forms such as hip-hop and  contemporary dance as well as literary arts ike poetry. For instance, the light-hearted  dance drama Pappadum featuring hip-hop  dance group NUS Dance Blast! was staged  in 2006, while Vibrations, an experimental  meld of Indian dance with light and video,  was performed at Esplanade – Theatres on  the Bay the following year. In 2012, Chakra,  which combined Indian dance movements  with sand art, was staged. 
+
+“My  artistic  inspirations  grew  with   Singapore. Watching Chinese dance, Malay  dance and international dance forms has  influenced my choreography,” said Bhaskar.[^7]
+
+Even  with  the  new  influences,  there   still  remains  a  strong  sense  of  tradition,   especially in this household of dance with  three generations of dancers. “What I learnt  from my mother, my teacher, I taught to my  daughter, who taught it to her daughter. In a  way, that becomes tradition,” Bhaskar said.8  She was awarded the Cultural Medallion for  her work in dance in 1990. 
+
+
