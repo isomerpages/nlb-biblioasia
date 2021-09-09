@@ -208,23 +208,19 @@ While the Istana may have started out as symbol of imperial strength and power 1
 of Singapore. (Call no.: RSING 959.57 OUR-[HIS])
 [^19]:Wong, S.M. (2019). [*50 best kept secrets of the Istana: People and places*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889792) (p. 22). Singapore: Published by Epigram for the Istana, the office of the President of the Republic of Singapore. (Call no.: RSING 959.57 WON-[HIS])
 [^20]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 27.
-[^21]:Tan, 2017, p. 115.
-[^22]:Tan, 2017, p. 119.
-[^23]:Tan, 2017, p. 117.
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
-[^30]:
+[^21]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202849953), 2017, p. 115.
+[^22]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202849953), 2017, p. 119.
+[^23]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202849953), 2017, p. 117.
+[^24]:Zulaiqah Abdul Rahim. (2019, July 15). Bangga ikut jejak arwah datuk dan ayah jadi ‘butler’ di Istana. *Berita Harian*, p. 1.
+[^25]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 43.
+[^26]:Chua, J.C.H. (2007, August 11). [*Oral history interview with Lee Ah Jee*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/8/8b16461b-115f-11e3-83d5-0050568939ad-OHC003215_001/web/html5/index.html) [Transcript of recording no. 003215/2/1, pp. 23, 29–31]. Retrieved from National Archives of Singapore website.
+[^27]:[Seet & Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, p. 96.
+[^28]:[Our Istana through the years](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 170.
+[^29]:Our Istana through the years, 2015, p. 28.
+[^30]:Leong, 2011, p. 172.
 [^31]:
 [^32]:
 [^33]:
-Zulaiqah Abdul Rahim. (2019, July 15). Bangga ikut jejak arwah datuk dan ayah jadi ‘butler’ di Istana. Berita Harian, p. 1.
-Our Istana through the years, 2015, p. 43.
-Chua, J.C.H. (2007, August 11). Oral history interview with Lee Ah Jee [Transcript of recording no. 003215/2/1, pp. 23, 29–31]. Retrieved from National Archives of Singapore website.
-Seet & Myddelton, 2000, p. 96.
-Our Istana through the years, 2015, p. 170.
-Our Istana through the years, 2015, p. 28.
-Leong, 2011, p. 172.
+
+
+
