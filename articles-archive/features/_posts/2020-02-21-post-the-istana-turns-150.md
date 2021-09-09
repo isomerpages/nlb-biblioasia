@@ -215,12 +215,17 @@ of Singapore. (Call no.: RSING 959.57 OUR-[HIS])
 [^25]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 43.
 [^26]:Chua, J.C.H. (2007, August 11). [*Oral history interview with Lee Ah Jee*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/8/8b16461b-115f-11e3-83d5-0050568939ad-OHC003215_001/web/html5/index.html) [Transcript of recording no. 003215/2/1, pp. 23, 29–31]. Retrieved from National Archives of Singapore website.
 [^27]:[Seet & Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, p. 96.
-[^28]:[Our Istana through the years](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 170.
-[^29]:Our Istana through the years, 2015, p. 28.
-[^30]:Leong, 2011, p. 172.
+[^28]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 170.
+[^29]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 28.
+[^30]:[Leong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14234555), 2011, p. 172.
 [^31]:
 [^32]:
 [^33]:
-
-
-
+[^34]:
+[^35]:
+[^36]:
+[^37]:
+[^38]:
+[^39]:
+[^40]:
+[^41]:
