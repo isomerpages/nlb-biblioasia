@@ -52,41 +52,23 @@ Nonetheless, the song “Fried Rice Paradise” received substantial airtime on 
 
 #### **Finally Making**
 
-Tracks Throughout the 1970s and 80s, Lee cham- pioned the use of Asian influences in local pop music and worked tirelessly to inject a strong Singaporean identity into his works. It was not until the mid-1980s when Singa- pore’s music scene was finally making some headway that Lee launched what has been deemed as his breakout pioneering album.
+Tracks Throughout the 1970s and 80s, Lee championed the use of Asian influences in local pop music and worked tirelessly to inject a strong Singaporean identity into his works. It was not until the mid-1980s when Singapore’s music scene was finally making some headway that Lee launched what has been deemed as his breakout pioneering album.
 
 Ever the die-hard local boy, he says, “The term ‘Singaporean’ had no meaning at the time, so who was I – Chinese, Singaporean, Asian, English-educated, Peranakan? – and what did I have to say? I wanted not to be shallow, I wanted to be taken seriously. How could I introduce a Singapore element into a form that was basically Western? I wanted to do it with honesty, tapping on the things I knew.”
 
-Wanting to write a song with commer- cial appeal that would also express how he felt about being a Singaporean, Lee penned “Life in the Lion City”, which became the title track of his album, released by WEA Records in 1984. The song described his life and its ups and downs in a light-hearted and upbeat manner.
+Wanting to write a song with commercial appeal that would also express how he felt about being a Singaporean, Lee penned “Life in the Lion City”, which became the title track of his album, released by WEA Records in 1984. The song described his life and its ups and downs in a light-hearted and upbeat manner.
 
-The scene that he faces each morning
-A tableau of buses and cars.
-Then it suddenly rains without warning.
-Then every destination becomes very far.
-On some lucky days there are taxis.
-But of course he'll be stuck in a jam
-Well, he can't complain cause the fact is
-He's got the situation firmly by hand.
-Driving past all the cinemas and shopping
-centres lining the boulevards,
-he contemplates then decides it’s
-great here in Singapore, Singapore
-So convenient tropical some more
-Singapore, Singapore
-Full of tourists and department stores.
-He works very hard for a living.
-Rewards are a holiday or two.
-But he has to be calm and forgiving
-Because his work environment is not very good.
+The scene that he faces each morning<br>A tableau of buses and cars.<br>Then it suddenly rains without warning.<br>Then every destination becomes very far.<br>On some lucky days there are taxis.<br>But of course he'll be stuck in a jam<br>Well, he can't complain cause the fact is<br>He's got the situation firmly by hand.<br>Driving past all the cinemas and shopping<br>centres lining the boulevards,<br>he contemplates then decides it’s<br>great here in Singapore, Singapore<br>So convenient tropical some more<br>Singapore, Singapore<br>Full of tourists and department stores.<br>He works very hard for a living.<br>Rewards are a holiday or two.<br>But he has to be calm and forgiving<br>Because his work environment is not very good.
 
-The track “Culture” was also another attempt to instil a sense of the Singapo- rean identity into the nation’s collective consciousness. It was partly inspired by his reaction towards the government for trying to force-feed culture to the masses in its bid to achieve developed city status. Lee believed these efforts were futile because “suddenly having lots of ‘cultural’ events would not a cultured Singaporean make”. 
+The track “Culture” was also another attempt to instil a sense of the Singaporean identity into the nation’s collective consciousness. It was partly inspired by his reaction towards the government for trying to force-feed culture to the masses in its bid to achieve developed city status. Lee believed these efforts were futile because “suddenly having lots of ‘cultural’ events would not a cultured Singaporean make”. 
 
-One of the more significant tracks on Life in the Lion City is “Flower Drum Song”. Lee used the refrain from the popular Chinese folk song of the same name and incorporated it with his original melodies. It was his first attempt at fusion, way before the word became fashionable and meant an amalgamation of East and West. The song was a breath of fresh air in an era where singing Top 40 Western covers were de rigueur in the Singapore recording scene.
+One of the more significant tracks on <i>Life in the Lion City</i> is “Flower Drum Song”. Lee used the refrain from the popular Chinese folk song of the same name and incorporated it with his original melodies. It was his first attempt at fusion, way before the word became fashionable and meant an amalgamation of East and West. The song was a breath of fresh air in an era where singing Top 40 Western covers were de rigueur in the Singapore recording scene.
 
 Even the album cover is distinctly local. It shows Lee surrounded by an eclectic mix of familiar Singapore symbols such as the Merlion, the national flower Vanda Miss Joaquim and the lower edge of what appears to be portraits of the president and first lady of Singapore of the time. 
 
-Although Life in the Lion City was released in 1984 with little fanfare, one individual who appreciated Lee’s music enough to turn it into a television show was the Singapore Broadcasting Corporation’s (SBC) producer, Lim Sek. He later became Lee’s business partner when they set up Music & Movement to manage the latter’s career when he went fulltime.
+Although <i>Life in the Lion City</i> was released in 1984 with little fanfare, one individual who appreciated Lee’s music enough to turn it into a television show was the Singapore Broadcasting Corporation’s (SBC) producer, Lim Sek. He later became Lee’s business partner when they set up Music & Movement to manage the latter’s career when he went fulltime.
 
-Album cover of The Mad Chinaman, Dick Lee's ultimate Singaporean album of ethnic pop. © Warner Music, Singapore, 1989.
+Album cover of <i>The Mad Chinaman</i>, Dick Lee's ultimate Singaporean album of ethnic pop. © <i>Warner Music, Singapore, 1989.</i>
 
 #### **Hitting the Home Run**
 
