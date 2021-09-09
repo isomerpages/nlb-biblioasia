@@ -172,3 +172,65 @@ Ever the consummate performer and entertainer, Lee will not be resting on his la
 <p style="font-size:15px;"><b>Joy Loh</b> is a Performing Arts Librarian with the National Library of Singapore. Apart from managing the National Library’s digital music archive, MusicSG, she enjoys reading as well as learning new musical instruments and languages.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Brazil, D. (1989, November 19). This is S'pore. Sharp. Hip. You'll like it, donch worry! <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
+
+Carl, K.A. (1905). With the Empress Dowager of China. New York; The Century Co. Retrieved from World ebook Library.
+
+Chow, C. (2002, July 31). Eat forbidden fruit. <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
+
+Chow, J. (2014, August 11). Dick Lee to write 'the next Home' for S'pore's 50th NDP. <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+
+Chow, J. (2015, May 8). JJ Lin will join Dick Lee to sing Our Singapore. <i>The Straits Times</i>, pp. 2–3. Retrieved from NewspaperSG.
+
+Lee, D. (2015). News updates. Retrieved from Dick Lee website.
+
+Dick Lee wows 'em. (1990, August 26). <i>The Straits Times</i>, p. 19. Retrieved from NewspaperSG. 
+
+Gwee, E. (1998, June 20). Roomful of me, here and there. <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG. 
+
+Gwee, E. (1998, June 20). Here's my Life Story. <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
+
+Ida Bachtiar. (1989 November 23). A Singapop breakthrough? <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+
+Island asylum for Mad Chinaman. (1989, September 22). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+
+Kids to star in this year's NDP finale. (2004, July 6). <i>The Straits</i> Times, p. 5. Retrieved from NewspaperSG.
+
+Lee, D. (2011). The adventures of the mad Chinaman. Singapore: Marshall Cavendish Editions. (Call no.: RSING 782.14092 LEE)
+
+Low, J. (1975, March 16). No major change in Status Quo music. <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
+
+Tan, J.H.S. (2011). Lee Kip Lin. Retrieved from Singapore Infopedia, National Library Singapore.
+
+National Library Board. (2014). Campaign against yellow culture is launched. Retrieved from HistorySG website.
+
+Ho, S. (2015, March 11). National Day songs. Retrieved from Singapore Infopedia, National Library Singapore.
+
+Oon, V. (1974, December 26). Dick tells his life story on disc. <i>New Nation</i>, p. 14. Retrieved from NewspaperSG.
+
+Ong, S.C. (1990, March 25). Japanese bowled over by 'Mad Chinaman' Dick Lee. <i>The Straits Times</i>, p. 21. Retrieved from NewspaperSG. 
+
+Perera, L.M., & Perera, A. (2010). Dick Lee (李迪文): Creating endless opportunities. Retrieved from MusicSG.
+
+Singapore Repertory Theatre (n.d.). <i>About forbidden city</i>. Retrieved from Singapore Repertory Theatre website.
+
+Tan, J. (2007, September 7). A new beauty. <i>Today</i>, p. 58. Retrieved from NewspaperSG.
+
+The origins of keroncong. (1993, November 12). <i>The Straits Times</i>, p. 10. Retrieved from NewpaperSG.
+
+What is a Singapore song? (1989, August 6). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+Wong, J. (1989, December 3). Can Singapop storm the world? <i>The Straits Times</i>, p. 20. Retrieved from NewspaperSG.
+
+Yong, S.F. (1998, March 28). Home again. <i>The New Paper</i>, p. 14. Retrieved from NewspaperSG.
+
+#### **NOTES**
+
+[^1]: Also spelled <i>keronchong and kronchong, keroncong</i> refers to a type of ukulele-like instrument as well as to the Indonesian musical style that makes use of this instrument. The music has its origins in the 16th-century music of the Portuguese colonies in Batavia and the Moluccas.
+
+[^2]: On 8 June 1959, the government led by the newly elected People’s Action Party (PAP) launched a campaign against yellow culture. The term “yellow culture” is a direct translation of the Chinese phrase <i>huangse wenhua</i>, which refers to decadent behaviour such as gambling, opium-smoking, pornography, prostitution, corruption and nepotism that plagued much of China in the 19th century.
+
+[^3]: Rediffusion was Singapore’s first cable-transmitted, commercial radio station. It started broadcasting in Singapore 1949.
