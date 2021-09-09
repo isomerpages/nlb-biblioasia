@@ -149,52 +149,52 @@ Yong, C. (2013, May 17). Hard for old-timers to say goodbye. The Straits Times. 
 
 #### **Notes**
 
-Wong, T. C., & Guillot, X. (2005). A roof over every head: Singapore’s housing policy between state monopoly and privatisation (p. 68). Calcutta: Sampark. Call no.: RSING 363.5095957 WON
+[^1]:Wong, T. C., & Guillot, X. (2005). *[A roof over every head: Singapore’s housing policy between state monopoly and privatisation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12644453)* (p. 68). Calcutta: Sampark. Call no.: RSING 363.5095957 WON
 
-Gifford, R. (2007). The consequences of living in highrise buildings. Architectural Science Review, 50, 2. Retrieved from University of Victoria website.
+[^2]:Gifford, R. (2007). The consequences of living in highrise buildings. Architectural Science Review, 50, 2. Retrieved from University of Victoria website.
 
-Fernandez, W. (2011). Our homes: 50 years of housing a nation (p. 49). Singapore: Straits Times Press. Call no.: RSING 363.585095957 FER
+[^3]:Fernandez, W. (2011). Our homes: 50 years of housing a nation (p. 49). Singapore: Straits Times Press. Call no.: RSING 363.585095957 FER
 
-Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 3]. Retrieved from National Archives of Singapore website.
+[^4]:Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 3]. Retrieved from National Archives of Singapore website.
 
-Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 3]. Retrieved from National Archives of Singapore website.
+[^5]:Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 3]. Retrieved from National Archives of Singapore website.
 
-Wong & Guillot, 2005, p. 61.
+[^6]:Wong & Guillot, 2005, p. 61.
 
-Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 11]. Retrieved from National Archives of Singapore website.
+[^7]:Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 11]. Retrieved from National Archives of Singapore website.
 
-Loh, K. S. (2013). Squatters into citizens: The 1961 Bukit Ho Swee fire and the making of modern Singapore (p. 214). Singapore: Asian Studies Association of Australia in association with NUS Press and NIAS Press. Call no.: RSING 307.76095957 LOH
+[^8]:Loh, K. S. (2013). Squatters into citizens: The 1961 Bukit Ho Swee fire and the making of modern Singapore (p. 214). Singapore: Asian Studies Association of Australia in association with NUS Press and NIAS Press. Call no.: RSING 307.76095957 LOH
 
-Wong & Guillot, 2005, p. 57 
+[^9]:Wong & Guillot, 2005, p. 57 
 
-Quah, I. (Interviewer). (1996, September 12). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/13, p. 109]. Retrieved from National Archives of Singapore website.
+[^10]:Quah, I. (Interviewer). (1996, September 12). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/13, p. 109]. Retrieved from National Archives of Singapore website.
 
-Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/16, p. 143]. Retrieved from National Archives of Singapore website.
+[^11]:Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/16, p. 143]. Retrieved from National Archives of Singapore website.
 
-Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/16, p.143]. Retrieved from National Archives of Singapore website.
+[^12]:Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/16, p.143]. Retrieved from National Archives of Singapore website.
 
-Quah, I. (Interviewer). (1996, September 12). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/13, p. 115]. Retrieved from National Archives of Singapore website.
+[^13]:Quah, I. (Interviewer). (1996, September 12). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/13, p. 115]. Retrieved from National Archives of Singapore website.
 
-Liu, T. K. (1983). A review of public housing in Singapore (p. 9). Singapore: National Trades Union Congress. Call no.: RSING 363.585095957 LIU
+[^14]:Liu, T. K. (1983). A review of public housing in Singapore (p. 9). Singapore: National Trades Union Congress. Call no.: RSING 363.585095957 LIU
 
-National Heritage Board. (2016). The first point blocks. Retrieved from Roots website.
+[^15]:National Heritage Board. (2016). The first point blocks. Retrieved from Roots website.
 
-Pruitt-Igoe, Cabrini-Green and Trellick Tower were large, high-rise public housing projects for low-income residents built from the 1950s to the early 70s. They soon became notorious for social problems such as gang activity, drug use and violence, and came to symbolise the pitfalls of mass urban housing.
+[^16]:Pruitt-Igoe, Cabrini-Green and Trellick Tower were large, high-rise public housing projects for low-income residents built from the 1950s to the early 70s. They soon became notorious for social problems such as gang activity, drug use and violence, and came to symbolise the pitfalls of mass urban housing.
 
-Vanderbilt, T. (2015, June 2). The psychology of skyscrapers. Fast Company. Retrieved from Fastcodesign website.
+[^17]:Vanderbilt, T. (2015, June 2). The psychology of skyscrapers. Fast Company. Retrieved from Fastcodesign website.
 
-Chua, B. H. (1997). Political legitimacy and housing: Stakeholding in Singapore (p. 113). London and New York: Routledge. Call no.: RSING 363.585 CHU
+[^18]:Chua, B. H. (1997). Political legitimacy and housing: Stakeholding in Singapore (p. 113). London and New York: Routledge. Call no.: RSING 363.585 CHU
 
-Wong, A., & Yeh, S. (Eds.). (1985). Housing a nation: 25 years of public housing in Singapore (pp. 58 & 71). Singapore: Housing and Development Board. Call no.: RSING 363.5095957 HOU
+[^19]:Wong, A., & Yeh, S. (Eds.). (1985). Housing a nation: 25 years of public housing in Singapore (pp. 58 & 71). Singapore: Housing and Development Board. Call no.: RSING 363.5095957 HOU
 
-Hassan, R. (1977). Families in flats: A study of low income families in public housing (p. 112). Singapore: Singapore University Press. Call no.: RSING 301.443095957 HAS
+[^20]:Hassan, R. (1977). Families in flats: A study of low income families in public housing (p. 112). Singapore: Singapore University Press. Call no.: RSING 301.443095957 HAS
 
-Liu, T. K. (1973). Reflections on problems and prospects in the second decade of Singapore’s public housing. In P. C. Chua. (Ed.), Planning in Singapore: Selected aspects & issues (p. 26). Singapore: Chopmen Enterprises. Call no.: RSING 711.2095957 CHU
+[^21]:Liu, T. K. (1973). Reflections on problems and prospects in the second decade of Singapore’s public housing. In P. C. Chua. (Ed.), Planning in Singapore: Selected aspects & issues (p. 26). Singapore: Chopmen Enterprises. Call no.: RSING 711.2095957 CHU
 
-Quah, I. (Interviewer). (1996, January 22). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/14, p. 121]; Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/17, p. 149]. Retrieved from National Archives of Singapore website.
+[^22]:Quah, I. (Interviewer). (1996, January 22). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/14, p. 121]; Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/17, p. 149]. Retrieved from National Archives of Singapore website.
 
-Hassan, 1977, p. 60; Loh, 2013, p. 228.
+[^23]:Hassan, 1977, p. 60; Loh, 2013, p. 228.
 
-Liu, 1973, p. 30.
+[^24]:Liu, 1973, p. 30.
 
 [^25]:Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/17, p. 153]. Retrieved from National Archives of Singapore.
