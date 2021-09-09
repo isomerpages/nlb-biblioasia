@@ -98,9 +98,9 @@ Sometimes, visitors were invited to stay at the Istana. The guest facilities, wh
 
 Yusof and his wife also opened up the Istana to ordinary Singaporeans. Puan Noor Aishah was the Patron of Girl Guides Singapore, and she would invite the Guides to hold their annual campfire on the Istana grounds once a year.[^28] Puan Noor Aishah’s life changed dramatically after she became First Lady:
 
-“Life used to be simple. But once we moved into the Istana, we became very busy; there were many changes in our lives and there was a lot of protocol to observe. I remember there would be courtesy calls in the morning, tea parties in the afternoon, and I had to meet many charity organisations which were coming to me for help. All the meetings and social gatherings were necessary as we were new and we  had to get  to know people  to win their  confidence.29
+“Life used to be simple. But once we moved into the Istana, we became very busy; there were many changes in our lives and there was a lot of protocol to observe. I remember there would be courtesy calls in the morning, tea parties in the afternoon, and I had to meet many charity organisations which were coming to me for help. All the meetings and social gatherings were necessary as we were new and we  had to get  to know people  to win their  confidence.[^29]
 
-It was Yusof who started the Istana’s open house tradition. The very first open house event took place on 1 January 1960, between 8 am and 6 pm, on New Year’s Day. Numerous slides, swings and seesaws were trotted out for children, while the police band entertained the public.30
+It was Yusof who started the Istana’s open house tradition. The very first open house event took place on 1 January 1960, between 8 am and 6 pm, on New Year’s Day. Numerous slides, swings and seesaws were trotted out for children, while the police band entertained the public.[^30]
 
 #### **The First Major Renovations**
 
@@ -108,16 +108,16 @@ By the time Singapore’s fifth president Ong Teng Cheong took over, the Istana 
 
 Renovation works were carried out between 1996 and 1998. This was the Istana’s first major infrastructural upgrade, and the aim was to create more room for state functions and to replace the building’s ageing mechanical and electrical services while preserving its heritage features. Ong, who served as president from 1993 to 1999, explained the need for the makeover:
 
-“[The Istana] is a stately building, very grand, very symmetrical, as it should be for an institutional building. But internally, it needs refurbishing. Where we can, we will try to renovate the place and try to bring back its old grace.”41
+“[The Istana] is a stately building, very grand, very symmetrical, as it should be for an institutional building. But internally, it needs refurbishing. Where we can, we will try to renovate the place and try to bring back its old grace.”[^41]
 
 <img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana9.JPG">
 <div style="background-color: white;">With its swagged valances, arched fanlights and draperies in a woven damask fabric, the Reception Hall of the Istana provides an elegant setting for guests. <i>Courtesy of Marshall Cavendish and the Istana.</i></div>
 
-Many new features were added, including centralised air-conditioning, mechanically activated louvres, restored timber rafters and beams, automatic sliding doors and a dedicated Ceremonial Plaza with four flagpoles for military displays. Previously, these displays were performed at the airport when foreign guests disembarked from the aeroplane.42
+Many new features were added, including centralised air-conditioning, mechanically activated louvres, restored timber rafters and beams, automatic sliding doors and a dedicated Ceremonial Plaza with four flagpoles for military displays. Previously, these displays were performed at the airport when foreign guests disembarked from the aeroplane.[^42]
 
 The Istana gardens were also overhauled and professionally landscaped, a Herculean effort that took the team two years and which involved making trips to countries such as Australia to source for unusual plants.
 
-The front lawn of the main garden was originally designed as a traditional European garden.43 To frame the Istana’s main building upon approach, the team transplanted 18 majestic meninjau trees, each soaring over 10 metres in height, from other parts of Singapore to the periphery of the circular front lawn.
+The front lawn of the main garden was originally designed as a traditional European garden.[^43] To frame the Istana’s main building upon approach, the team transplanted 18 majestic meninjau trees, each soaring over 10 metres in height, from other parts of Singapore to the periphery of the circular front lawn.
 
 <img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana10.JPG">
 <div style="background-color: white;">Sunrise from the Presidential Balcony of the Istana, 2006. Photo by Russel Wong. <i>Istana Art Collection, courtesy of National Heritage Board.</i></div>
@@ -128,7 +128,7 @@ The main building of the Istana exudes elegance, while retaining its heritage an
 
 State gifts bestowed by foreign visitors are showcased in the main building as well as at the Istana Heritage Gallery, which is located at the Istana Park opposite the Istana’s main entrance facing Orchard Road. The walls of the main building are also decorated with artworks by local artists, some commissioned by former presidents.
 
-Foreign VIPs continue to pass through the halls of the Istana, among them US President Donald Trump and North Korean leader Kim Jong Un, who were in Singapore for the historic Trump-Kim Summit on 12 June 2018. Prime Minister Lee Hsien Loong hosted Kim at the Istana on 10 June, while Trump and his delegation attended a working lunch there on 11 June.44
+Foreign VIPs continue to pass through the halls of the Istana, among them US President Donald Trump and North Korean leader Kim Jong Un, who were in Singapore for the historic Trump-Kim Summit on 12 June 2018. Prime Minister Lee Hsien Loong hosted Kim at the Istana on 10 June, while Trump and his delegation attended a working lunch there on 11 June.[^44]
 
 <img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana11.JPG">
 <div style="background-color: white;">Prime Minister Lee Hsien Loong and US President Donald Trump enjoying a working lunch with their teams at the Istana on 11 June 2018, ahead of the Trump-Kim Summit held in Singapore on 12 June. <i>Photo by Ministry of Communications and Information.</i></div>
@@ -137,46 +137,46 @@ For many Singaporeans, the Istana is a place associated with the highest honours
 
 A total of eight presidents have passed through the halls of the Istana. The current president is Madam Halimah Yacob, Singapore’s first female president.
 
-Madam Halimah declared at the beginning of her term in 2017 that she wanted to make the Istana grounds more accessible to the people, including the elderly and those with special needs. She launched the Picnic@Istana series when she took office, where four picnics would  be held each year for underprivileged children as well as those with special needs.45 Another programme that she initiated, Garden Tours@Istana, has welcomed senior citizens, hospice patients and their caregivers, and patients from the Institute of Mental Health.46
+Madam Halimah declared at the beginning of her term in 2017 that she wanted to make the Istana grounds more accessible to the people, including the elderly and those with special needs. She launched the Picnic@Istana series when she took office, where four picnics would  be held each year for underprivileged children as well as those with special needs.[^45] Another programme that she initiated, Garden Tours@Istana, has welcomed senior citizens, hospice patients and their caregivers, and patients from the Institute of Mental Health.[^46]
 
 <img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana12.JPG">
 <div style="background-color: white;">As part of her plans to open up the Istana to even more people, President Halimah Yacob started a series of picnics and garden tours. Here she is seen mingling with patients from Metta Hospice Care and Singapore General Hospital during a garden tour on 30 July 2019. <i>Photo by Ministry of Communications and Information.</i></div>
 
-On 6 October 2019, the Istana held its very first open house event at night, hosted by Madam Halimah and her husband Mohamed Abdullah Alhabshee, to mark its 150th anniversary. Highlights included a lightshow on the walls of the main building depicting the Istana’s heritage and history over the years, and performances by the Singapore Symphony Orchestra and other local talents.47
+On 6 October 2019, the Istana held its very first open house event at night, hosted by Madam Halimah and her husband Mohamed Abdullah Alhabshee, to mark its 150th anniversary. Highlights included a lightshow on the walls of the main building depicting the Istana’s heritage and history over the years, and performances by the Singapore Symphony Orchestra and other local talents.[^47]
 
-Soon after, the Istana launched an interactive multimedia website with augmented reality features titled “Inside the Istana” in collaboration with *The Straits Times*. The website allows people to “walk around” the Istana and experience the sights and sounds on their computers or smartphones.48
+Soon after, the Istana launched an interactive multimedia website with augmented reality features titled “Inside the Istana” in collaboration with *The Straits Times*. The website allows people to “walk around” the Istana and experience the sights and sounds on their computers or smartphones.[^48]
 
 While the Istana may have started out as symbol of imperial strength and power 150 years ago, today it is a national icon and occupies a special place close to the hearts of Singaporeans.
 
 |**JEWELLED GREENS OF THE ISTANA**
 
-|Landscaping has always been an essential element of the Istana’s grounds. From the beginning, a nursery was established and many varieties of fruit and flowering trees and shrubs were planted on the 41 hectares that Government House stood on.31
+|Landscaping has always been an essential element of the Istana’s grounds. From the beginning, a nursery was established and many varieties of fruit and flowering trees and shrubs were planted on the 41 hectares that Government House stood on.[^31]
 
 |In the years following Singapore’s independence, the gardens grew in tandem with founding Prime Minister Lee Kuan Yew’s efforts to turn Singapore into a garden city. Remembered by many as Singapore’s chief gardener, Lee used the Istana as a testbed for flora to be planted in the rest of Singapore. He also felt it was important for the Istana’s gardens to make an impression on visitors. He said:
 
-|“When they drove into the Istana domain, they would see right in the heart of the city a green oasis, 90 acres of immaculate rolling lawns and woodland, and nestling between them a nine-hole golf course. Without a word being said, they would know that Singaporeans were competent, disciplined and reliable, a people who would learn the skills they required soon enough.”32
+|“When they drove into the Istana domain, they would see right in the heart of the city a green oasis, 90 acres of immaculate rolling lawns and woodland, and nestling between them a nine-hole golf course. Without a word being said, they would know that Singaporeans were competent, disciplined and reliable, a people who would learn the skills they required soon enough.”[^32]
 
 |<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana7.JPG">
 <div style="background-color: white;">Spreading over 41 hectares, the Istana’s gardens are meticulously cared for and are home to some 260 plant species. The Japanese Garden shown here was completed in 1967. It features stone and wooden bridges, lanterns and pebbles and a Merkus Pine with needle-like leaves that add to the zen-like quality of the surroundings. <i>Photo by Ministry of Communications and Information.</i></div>
 
-|When Lee came across the foxtail palm – the name inspired by the bushy fronds resembling the tail of a fox – while on a visit to Australia, he asked for it to be planted on the Istana grounds. Visitors to the Istana today can still see this palm, which is found beside the iconic Swan Pond.33
+|When Lee came across the foxtail palm – the name inspired by the bushy fronds resembling the tail of a fox – while on a visit to Australia, he asked for it to be planted on the Istana grounds. Visitors to the Istana today can still see this palm, which is found beside the iconic Swan Pond.[^33]
 
-|The Swan Pond, home to a pair of white mute swans, is also a legacy of Lee’s. It was constructed in 1968 at his request and is the largest of various ponds on the Istana grounds.34
+|The Swan Pond, home to a pair of white mute swans, is also a legacy of Lee’s. It was constructed in 1968 at his request and is the largest of various ponds on the Istana grounds.[^34]
 
 |<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana8.JPG">
 <div style="background-color: white;">Although the Swan Pond is home to a pair of mute swans, other bird species can also be seen quenching their thirst from its waters on many evenings. <i>Courtesy of Marshall Cavendish and the Istana.</i></div>
 
-|As Lee often spent long days working inside the Istana building, the gardens were a welcome respite. He and Mrs Lee would visit and feed the swans during their evening walks and he would sometimes pick a cluster of white flowers, commonly known as the breadflower, for his wife. These flowers, with their sweet pandan fragrance, were a favourite of Mrs Lee’s.35
+|As Lee often spent long days working inside the Istana building, the gardens were a welcome respite. He and Mrs Lee would visit and feed the swans during their evening walks and he would sometimes pick a cluster of white flowers, commonly known as the breadflower, for his wife. These flowers, with their sweet pandan fragrance, were a favourite of Mrs Lee’s.[^35]
 
 |The fruit trees on the grounds also provided an occasional treat for the Istana staff who used to reside in the staff quarters on the grounds. Many of them, and their children, recall plucking fruit off the trees.
 
-|Today, more than 10,000 trees and palms – making up some 260 species – grow on the grounds of the Istana.  Around 100 are mature trees with girths of over 4 metres. The oldest tree is a Tembusu, which is believed to have been planted in 1867, two years before the Istana was completed. This tree is located next to Sri Temasek,36 which is the designated official residence of the prime minister of Singapore.
+|Today, more than 10,000 trees and palms – making up some 260 species – grow on the grounds of the Istana.  Around 100 are mature trees with girths of over 4 metres. The oldest tree is a Tembusu, which is believed to have been planted in 1867, two years before the Istana was completed. This tree is located next to Sri Temasek,[^36] which is the designated official residence of the prime minister of Singapore.
 
-|The gardens have naturally become home for a great variety of wildlife, including butterflies like the Lesser Grass Blue Butterfly, which is only one centimeter in size, dragonflies, fish, terrapins, squirrels, bats, flying foxes, monitor lizards, snakes and weaver ants, which are found on trees like the Tembusu.37
+|The gardens have naturally become home for a great variety of wildlife, including butterflies like the Lesser Grass Blue Butterfly, which is only one centimeter in size, dragonflies, fish, terrapins, squirrels, bats, flying foxes, monitor lizards, snakes and weaver ants, which are found on trees like the Tembusu.[^37]
 
-|As a gazetted bird sanctuary, the Istana grounds teem with avian life. A survey carried out in April 2019 registered 89 bird species.38 In fact, current Prime Minister Lee Hsien Loong has had a barn owl visit him in his Sri Temasek office in 2013 and 2015. In both cases, the Agri-Food & Veterinary Authority of Singapore and the Jurong Bird Park had to be called in to trap the bird and release it behind Sri Temasek. He saw the bird again in 2017, but this time it was perched in the overhang along the exterior of the Istana.39
+|As a gazetted bird sanctuary, the Istana grounds teem with avian life. A survey carried out in April 2019 registered 89 bird species.[^38] In fact, current Prime Minister Lee Hsien Loong has had a barn owl visit him in his Sri Temasek office in 2013 and 2015. In both cases, the Agri-Food & Veterinary Authority of Singapore and the Jurong Bird Park had to be called in to trap the bird and release it behind Sri Temasek. He saw the bird again in 2017, but this time it was perched in the overhang along the exterior of the Istana.[^39]
 
-|As for larger animals, horses used to be stabled in the Istana, though no longer today. In the 1950s, an elephant was briefly a resident of the Istana’s grounds and it aided the gardeners by supplying bounteous composting material. However, the elephant was apparently sent to Malaya in early 1960.40
+|As for larger animals, horses used to be stabled in the Istana, though no longer today. In the 1950s, an elephant was briefly a resident of the Istana’s grounds and it aided the gardeners by supplying bounteous composting material. However, the elephant was apparently sent to Malaya in early 1960.[^40]
 
  <br>
 <div style="background-color: white;">
