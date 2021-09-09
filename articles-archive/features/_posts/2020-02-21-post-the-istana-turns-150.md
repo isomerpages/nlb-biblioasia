@@ -148,7 +148,35 @@ Soon after, the Istana launched an interactive multimedia website with augmented
 
 While the Istana may have started out as symbol of imperial strength and power 150 years ago, today it is a national icon and occupies a special place close to the hearts of Singaporeans.
 
- 
+|**JEWELLED GREENS OF THE ISTANA**
+
+|Landscaping has always been an essential element of the Istana’s grounds. From the beginning, a nursery was established and many varieties of fruit and flowering trees and shrubs were planted on the 41 hectares that Government House stood on.31
+
+|In the years following Singapore’s independence, the gardens grew in tandem with founding Prime Minister Lee Kuan Yew’s efforts to turn Singapore into a garden city. Remembered by many as Singapore’s chief gardener, Lee used the Istana as a testbed for flora to be planted in the rest of Singapore. He also felt it was important for the Istana’s gardens to make an impression on visitors. He said:
+
+|“When they drove into the Istana domain, they would see right in the heart of the city a green oasis, 90 acres of immaculate rolling lawns and woodland, and nestling between them a nine-hole golf course. Without a word being said, they would know that Singaporeans were competent, disciplined and reliable, a people who would learn the skills they required soon enough.”32
+
+|<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana7.JPG">
+<div style="background-color: white;">Spreading over 41 hectares, the Istana’s gardens are meticulously cared for and are home to some 260 plant species. The Japanese Garden shown here was completed in 1967. It features stone and wooden bridges, lanterns and pebbles and a Merkus Pine with needle-like leaves that add to the zen-like quality of the surroundings. <i>Photo by Ministry of Communications and Information.</i></div>
+
+|When Lee came across the foxtail palm – the name inspired by the bushy fronds resembling the tail of a fox – while on a visit to Australia, he asked for it to be planted on the Istana grounds. Visitors to the Istana today can still see this palm, which is found beside the iconic Swan Pond.33
+
+|The Swan Pond, home to a pair of white mute swans, is also a legacy of Lee’s. It was constructed in 1968 at his request and is the largest of various ponds on the Istana grounds.34
+
+|<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana8.JPG">
+<div style="background-color: white;">Although the Swan Pond is home to a pair of mute swans, other bird species can also be seen quenching their thirst from its waters on many evenings. <i>Courtesy of Marshall Cavendish and the Istana.</i></div>
+
+|As Lee often spent long days working inside the Istana building, the gardens were a welcome respite. He and Mrs Lee would visit and feed the swans during their evening walks and he would sometimes pick a cluster of white flowers, commonly known as the breadflower, for his wife. These flowers, with their sweet pandan fragrance, were a favourite of Mrs Lee’s.35
+
+|The fruit trees on the grounds also provided an occasional treat for the Istana staff who used to reside in the staff quarters on the grounds. Many of them, and their children, recall plucking fruit off the trees.
+
+|Today, more than 10,000 trees and palms – making up some 260 species – grow on the grounds of the Istana.  Around 100 are mature trees with girths of over 4 metres. The oldest tree is a Tembusu, which is believed to have been planted in 1867, two years before the Istana was completed. This tree is located next to Sri Temasek,36 which is the designated official residence of the prime minister of Singapore.
+
+|The gardens have naturally become home for a great variety of wildlife, including butterflies like the Lesser Grass Blue Butterfly, which is only one centimeter in size, dragonflies, fish, terrapins, squirrels, bats, flying foxes, monitor lizards, snakes and weaver ants, which are found on trees like the Tembusu.37
+
+|As a gazetted bird sanctuary, the Istana grounds teem with avian life. A survey carried out in April 2019 registered 89 bird species.38 In fact, current Prime Minister Lee Hsien Loong has had a barn owl visit him in his Sri Temasek office in 2013 and 2015. In both cases, the Agri-Food & Veterinary Authority of Singapore and the Jurong Bird Park had to be called in to trap the bird and release it behind Sri Temasek. He saw the bird again in 2017, but this time it was perched in the overhang along the exterior of the Istana.39
+
+|As for larger animals, horses used to be stabled in the Istana, though no longer today. In the 1950s, an elephant was briefly a resident of the Istana’s grounds and it aided the gardeners by supplying bounteous composting material. However, the elephant was apparently sent to Malaya in early 1960.40
 
  <br>
 <div style="background-color: white;">
@@ -159,4 +187,3 @@ While the Istana may have started out as symbol of imperial strength and power 1
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
 
 #### **Notes**
-
