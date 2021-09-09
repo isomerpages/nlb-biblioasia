@@ -218,14 +218,17 @@ of Singapore. (Call no.: RSING 959.57 OUR-[HIS])
 [^28]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 170.
 [^29]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 28.
 [^30]:[Leong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14234555), 2011, p. 172.
-[^31]:
-[^32]:
-[^33]:
-[^34]:
-[^35]:
-[^36]:
-[^37]:
-[^38]:
+[^31]:Leong, C. (2011). [*The Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14234555) (p. 96). Singapore: Marshall Cavendish Editions. (Call no.: RSING 725.17095957 LEO)
+[^32]:[Leong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14234555), 2011, p. 143
+[^33]:Ng, H. (2016, March 20). [*President plants tembusu tree in Istana and pays tribute to Mr Lee*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160320-1.2.5.7). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^34]:[Cheah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889795), 2019, pp. 20, 23.
+[^35]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160320-1.2.5.7), 20 Mar 2016, p. 6.
+[^36]:Sri Temasek, designed by Colonial Engineer Major John Frederick Adolphus McNair, is a two-storey bungalow built on the grounds of the Istana in 1869. During the colonial era, it was the residence of the colonial secretary or chief secretary. When Singapore attained self-government in 1959, Sri Temasek became the official residence of the prime minister of Singapore. However, none of the prime ministers have ever lived there.
+[^37]:Tan, W.K., et al. (2003). [*Gardens of the Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991) (p. 170). Singapore: National Parks Board. (Call no.: RSING q635.095957 GAR)
+[^38]:[Cheah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889795), 2019, p. 69; [The Istana](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203978341) (p. 97). (2019). Singapore: Marshall Cavendish Editions. (Call no.: RSING 725.17095957 IST)
 [^39]:
 [^40]:
 [^41]:
+
+Tan, A. (2013, November 21). Barn owl a surprise visitor at PM Lee Hsien Loong’s office. The Straits Times; Lam, L. (2017, August 26). Barn owl visits Prime Minister Lee Hsien Loong again, for the third time in five years. The Straits Times. Retrieved from The Straits Times website.
+Tan, 2003, pp. 51 & 55
