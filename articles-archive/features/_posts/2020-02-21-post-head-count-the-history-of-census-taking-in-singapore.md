@@ -6,7 +6,7 @@ layout: post
 ---
 #### The very first census here was conducted in 1824. **Ang Seow Leng** reveals how doing a headcount has evolved over the last 200 years.
 
-<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount1.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount1.JPG">
 <div style="background-color: white;">Staff sorting records of the census conducted in 1931. <i>Image reproduced from Vileland, C.A. (1932). British Malaya (the Colony of the Straits Settlements and the Malay States under British protection, namely the Federated states of Perak, Selangor, Negri Sembilan and Pahang and the States of Johore, Kedah, Kelantan, Trengganu, Perlis and Brunei): A Report on the 1931 Census and on Certain Problems of Vital Statistics (between pp. 28 and 29). London: Crown Agents for the Colonies. (Microfilm no.: NL3005).</i></div>
 
 Singapore’s population has grown steadily over the decades to reach a total population of 5.7 million as at June 2019.1
@@ -45,7 +45,7 @@ The Chosabu noted that the last population census had taken place in Singapore i
 
 The Chinese viewed the information-gathering with suspicion as they had suffered greatly during Operation Sook Ching from February to March 1942 when Chinese males between the ages of 18 and 50 were summoned to report at mass screening centres; anyone who was suspected of being anti-Japanese was executed. Hence, the report also noted that “for nationality, most Chinese responded with their home region but a few identified themselves only as Chinese. There was no consistency. The same is true of occupation”.36
 
-<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount3.JPG">
+<img style="width: 400px; height: 300px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount3.JPG">
 <div style="background-color: white;">This is a bound volume of census slips for households on Fraser Street, c. 1945. The National Library received this donation during the 2008 Heritage Roadshow. <i>Collection of the National Library, Singapore (Accession no.: B20026490A).</i></div>
 
 #### **Post-war Censuses**
@@ -58,7 +58,7 @@ Compared with the labour-intensive manual method of processing earlier censuses,
 
 The next census was conducted on 17 June 1957, with the Singapore Department of Statistics handling the census for the first time. It also marked the first time that the census was conducted only for Singapore.41
 
-<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount4.JPG">
+<img style="width: 500px; height: 300px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount4.JPG">
 <div style="background-color: white;">Census takers hard at work during the 1957 census. This was the first time that the census was conducted by Singapore’s Department of Statistics. <i>Source: © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
 #### **Post-independence Population Censuses**
@@ -69,12 +69,12 @@ The 1970 census adopted the *de facto* concept and counted all persons present i
 
 The census in 1980 saw new data collected, for instance, income from work, address of work place or school, and usual mode of transport to work and school. Then Minister for Trade and Industry Goh Chok Tong was the Chairman of the Census Planning Committee, while the Superintendent of Census was Khoo Chian Kim. About 2,600 people were employed for this exercise.44 Between 1981 and 1986, nine statistical releases and five census monographs on demographic trends, trends in language, literacy and education, labour force, household and housing, as well as geographic analysis, were published.
 
-<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount5.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount5.JPG">
 <div style="background-color: white;">A handheld computer used by assistant census superintendents to update their work progress, c. 1990. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The Census (Amendment) Bill that was passed on 28 March 1990 allowed for the exchange of information between government bodies in order to facilitate data gathering during population census exercises, and thus avoid duplication of efforts. To preserve confidentiality and prevent the misuse of information, only the Superintendent of  Census is able to obtain and  share information.45
 
-<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount6.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount6.JPG">
 <div style="background-color: white;">Publicity poster for Census 2000. <i>Courtesy of Singapore Department of Statistics.</i></div>
 
 Then Minister for Trade and Industry Mah Bow Tan chaired the 1990 Census Planning Committee, with Lau Kak En as Superintendent. With the support of more than 2,000 people employed to conduct the census exercise during the peak period, it was the first time when details of Singaporeans and permanent residents abroad were included. This was also the first time a country used a census form that had been pre-printed with relevant particulars from various government databases.46 Six statistical releases and six census monographs were published between 1991 and 1996, covering almost the same topics as the 1980 census.
@@ -87,7 +87,7 @@ The Chairman for the Census 2000 Planning Committee was then Permanent Secretary
 
 As the fifth census since independence, the exercise in 2010 also adopted As the fifth census since independence, the exercise in 2010 also adopted a register-based approach in which the basic population count and characteristics were compiled from administrative sources. Hence, there was a reduction of field interviewers to only 140, with 20 field supervisors across 10 regional offices in the country. These interviewers also made use of mobile personal computers to carry out their enumeration on the go, thus removing the need for hardcopy survey forms. Another 400 daily-rated staff were recruited to support day-to-day operations. Ravi Menon, then Permanent Secretary of the Ministry of Trade and Industry, was the Chairman of the 2010 Census Planning Committee, with Chief Statistician Wong Wee Kim as Superintendent.51 In 2011, three statistical releases were releases were published on demographic characteristics, education, language and religion, households and housing, and geographic distribution and transport.
 
-<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount7.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount7.JPG">
 <div style="background-color: white;">Publicity poster for Census 2010. <i>Courtesy of Singapore Department of Statistics.</i></div>
 
 #### **The Future of Census**
@@ -102,7 +102,7 @@ In a digital age where linked data and sophisticated data analysis tools are rea
 
 Census data derived completely from administrative register-based sources do not require citizens to fill in census questionnaires. However, such a method is not without its drawbacks.  The administrative sources may not be appropriate for census use as the information gathered is not meant for statistical purposes. Certain information may also not be available or complete in administrative databases.
 
-<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount8.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount8.JPG">
 <div style="background-color: white;">Government Notification – No. 50 “Notice is hereby given, that in conformity with Ordinance No. XI of 1870, it is the intention of the Government to take a Census of the inhabitants of the Straits Settlements, commencing from Sunday, the 2nd of April 1871.” <i>Image reproduced from Straits Settlements. Government gazette. (1871, March 3). Government Notification No. 50 (p. 93). Singapore: Mission Press. Retrieved from BookSG.</i></div>
 
 It is common for countries, therefore, to adopt a combination of a register-based survey with enumeration or survey data, similar to what Singapore did in the 2000 and 2010 censuses; this will also be the case in the upcoming 2020 census.54 It will be interesting to see how Singapore’s future censuses keep up with evolving demographics and trends.
@@ -117,7 +117,7 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 |The 1947 census was an important one, being the first undertaken after the war. It was a massive exercise that included all towns, villages, people living in the jungles and on boats and houses built out at sea, and even passengers on trains.19
 
-|<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount2.JPG">A rural kampong in Singapore, c. 1960s. In the early days, census takers had to go to kampongs, jungles and even reach out to those living on boats and houses built out at sea. <i>Photo by K.F. Wong. Courtesy of National Archives of Singapore.</i>
+|<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount2.JPG">A rural kampong in Singapore, c. 1960s. In the early days, census takers had to go to kampongs, jungles and even reach out to those living on boats and houses built out at sea. <i>Photo by K.F. Wong. Courtesy of National Archives of Singapore.</i>
 
 |To incentivise enumerators, the Malayan Census Headquarters introduced a prize scheme under which $40,000 were given out in Singapore and the Malayan Union to the most efficient enumerators on the recommendation of the local headquarters.20
 
