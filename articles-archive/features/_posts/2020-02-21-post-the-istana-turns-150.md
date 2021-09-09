@@ -156,15 +156,13 @@ While the Istana may have started out as symbol of imperial strength and power 1
 
 |“When they drove into the Istana domain, they would see right in the heart of the city a green oasis, 90 acres of immaculate rolling lawns and woodland, and nestling between them a nine-hole golf course. Without a word being said, they would know that Singaporeans were competent, disciplined and reliable, a people who would learn the skills they required soon enough.”[^32]
 
-|<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana7.JPG">
-<div style="background-color: white;">Spreading over 41 hectares, the Istana’s gardens are meticulously cared for and are home to some 260 plant species. The Japanese Garden shown here was completed in 1967. It features stone and wooden bridges, lanterns and pebbles and a Merkus Pine with needle-like leaves that add to the zen-like quality of the surroundings. <i>Photo by Ministry of Communications and Information.</i></div>
+|<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana7.JPG">Spreading over 41 hectares, the Istana’s gardens are meticulously cared for and are home to some 260 plant species. The Japanese Garden shown here was completed in 1967. It features stone and wooden bridges, lanterns and pebbles and a Merkus Pine with needle-like leaves that add to the zen-like quality of the surroundings. <i>Photo by Ministry of Communications and Information.</i>
 
 |When Lee came across the foxtail palm – the name inspired by the bushy fronds resembling the tail of a fox – while on a visit to Australia, he asked for it to be planted on the Istana grounds. Visitors to the Istana today can still see this palm, which is found beside the iconic Swan Pond.[^33]
 
 |The Swan Pond, home to a pair of white mute swans, is also a legacy of Lee’s. It was constructed in 1968 at his request and is the largest of various ponds on the Istana grounds.[^34]
 
-|<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana8.JPG">
-<div style="background-color: white;">Although the Swan Pond is home to a pair of mute swans, other bird species can also be seen quenching their thirst from its waters on many evenings. <i>Courtesy of Marshall Cavendish and the Istana.</i></div>
+|<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana8.JPG">Although the Swan Pond is home to a pair of mute swans, other bird species can also be seen quenching their thirst from its waters on many evenings. <i>Courtesy of Marshall Cavendish and the Istana.</i>
 
 |As Lee often spent long days working inside the Istana building, the gardens were a welcome respite. He and Mrs Lee would visit and feed the swans during their evening walks and he would sometimes pick a cluster of white flowers, commonly known as the breadflower, for his wife. These flowers, with their sweet pandan fragrance, were a favourite of Mrs Lee’s.[^35]
 
