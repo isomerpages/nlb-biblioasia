@@ -4,7 +4,6 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/culture-on-celluloid
 layout: post
 ---
-
 #### Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years. **Gracie Lee** charts the challenges of alternative cinema in our city. 
 
 The beginnings of the art house cinema originated in France during the early 1920s in response to the growing commercialisation of films by Hollywood. After World War I, pioneering French film companies such as Gaumont and Pathé, which once dominated the European motion picture industry, began losing out to big budget Hollywood productions. In response, French producers began experimenting with new approaches to filmmaking, paving the way for the emergence of the French avant-garde film. 
@@ -135,7 +134,7 @@ Parkinson, C.N. (1951). *[Report of the committee on film censorship 1951](https
 
 Sinema. (n.d.). <i>SINdie</i>. Retrieved from sinema.sg website.
 
-Stevenson, R. (1974, September). Cinemas and censorship in colonial Malaya. <i>Journal of Southeast Asian Studies</i>, 5 (2), 209–224. Retrieved from JSTOR via NLB’s *[eResources](https://eresources.nlb.gov.sg/main/)* website. 
+Stevenson, R. (1974, September). Cinemas and censorship in colonial Malaya. <i>Journal of Southeast Asian Studies</i>, 5 (2), 209–224. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website. 
 
 Tan, K.C.S. (1988). *[Cinema management in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5256487)*. Singapore: Singapore Film Society. (Call no.: RSING 791.43068 TAN)
 
