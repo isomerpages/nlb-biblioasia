@@ -167,4 +167,8 @@ In 2014, Lee celebrated his 40th anni- versary in show business with a concert t
 
 As Singapore celebrates her golden jubilee this year, Singaporeans can look forward to more of the “Mad Chinaman” and his works. Lee will be performing a medley of his songs at the mega Sing50 concert at the Singapore Sports Hub on 7 August in celebration of Singapore music. He is the creative director for this year’s National Day parade, and has also composed the parade’s theme song “Our Singapore”, which he will sing at the event with Mandopop star JJ Lin. This is not Lee’s first attempt at pen- ning a National Day song. In 1998, his song “Home” composed for the Sing Singapore festival was selected as the theme song for the National Day parade that year. The heartwarming song became popular with Singaporeans and a remixed version was used as the theme song for the 2004 edition of the parade.
 
-Ever the consummate performer and entertainer, Lee will not be resting on his laurels anytime soon and likely has more ideas up his sleeves. We say bring on more of the music, madness and magic. 
+Ever the consummate performer and entertainer, Lee will not be resting on his laurels anytime soon and likely has more ideas up his sleeves. We say bring on more of the music, madness and magic.
+
+<p style="font-size:15px;"><b>Joy Loh</b> is a Performing Arts Librarian with the National Library of Singapore. Apart from managing the National Library’s digital music archive, MusicSG, she enjoys reading as well as learning new musical instruments and languages.</p>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
