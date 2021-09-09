@@ -175,23 +175,23 @@ Ever the consummate performer and entertainer, Lee will not be resting on his la
 
 #### **REFERENCES**
 
-Brazil, D. (1989, November 19). This is S'pore. Sharp. Hip. You'll like it, donch worry! <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
+Brazil, D. (1989, November 19). [This is S'pore. Sharp. Hip. You'll like it, donch worry!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891119-1.2.44.1) <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
 
 Carl, K.A. (1905). With the Empress Dowager of China. New York; The Century Co. Retrieved from World ebook Library.
 
-Chow, C. (2002, July 31). Eat forbidden fruit. <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
+Chow, C. (2002, July 31). [Eat forbidden fruit](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020731-1.2.69.4.1). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-Chow, J. (2014, August 11). Dick Lee to write 'the next Home' for S'pore's 50th NDP. <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+Chow, J. (2014, August 11). [Dick Lee to write 'the next Home' for S'pore's 50th NDP](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140811-1.2.7.8). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-Chow, J. (2015, May 8). JJ Lin will join Dick Lee to sing Our Singapore. <i>The Straits Times</i>, pp. 2–3. Retrieved from NewspaperSG.
+Chow, J. (2015, May 8). [JJ Lin will join Dick Lee to sing Our Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150508-1.2.6.2). <i>The Straits Times</i>, pp. 2–3. Retrieved from NewspaperSG.
 
 Lee, D. (2015). News updates. Retrieved from Dick Lee website.
 
-Dick Lee wows 'em. (1990, August 26). <i>The Straits Times</i>, p. 19. Retrieved from NewspaperSG. 
+[Dick Lee wows 'em](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900826-1.2.28.7.1). (1990, August 26). <i>The Straits Times</i>, p. 19. Retrieved from NewspaperSG. 
 
-Gwee, E. (1998, June 20). Roomful of me, here and there. <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG. 
+Gwee, E. (1998, June 20). [Roomful of me, here and there](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980620-1.2.102.4.7). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG. 
 
-Gwee, E. (1998, June 20). Here's my Life Story. <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
+Gwee, E. (1998, June 20). [Here's my Life Story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980620-1.2.102.4.35). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
 Ida Bachtiar. (1989 November 23). A Singapop breakthrough? <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
