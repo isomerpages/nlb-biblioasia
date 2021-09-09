@@ -128,3 +128,11 @@ Interestingly, in his oral history interview, Liu presents his view on the “un
 You know, there have been many attempts [by] people [who] have been telling me to get rid of this clothes hanging. I was never interested because I felt that it is a sign of welcoming home. It gives you a warm feeling. I was never interested to get rid of it.”25
 
 Critics may characterise – or caricature – HDB life as compartmentalised, emotionless and dystopian, and HDB flats as drab, homogenous environments with equally colourless inhabitants. Yet somewhere between the imperatives of modernist efficiency and socialist-inflected social re-organisation, several generations of Singaporeans have not only adapted to live in these admittedly utilitarian structures, but created their own meanings in the space, beyond what the original planners and designers could have envisioned.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
+	<b>Yu-Mei Balasingamchow</b> is the co-author of <i>Singapore: A Biography</i> (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is [www.toomanythoughts.org](https://www.toomanythoughts.org).
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
