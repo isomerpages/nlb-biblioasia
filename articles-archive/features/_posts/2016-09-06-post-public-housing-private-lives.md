@@ -197,4 +197,4 @@ Yong, C. (2013, May 17). Hard for old-timers to say goodbye. The Straits Times. 
 
 [^24]:Liu, 1973, p. 30.
 
-[^25]:Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/17, p. 153]. Retrieved from National Archives of Singapore.
+[^25]:Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/17, p. 153]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/).
