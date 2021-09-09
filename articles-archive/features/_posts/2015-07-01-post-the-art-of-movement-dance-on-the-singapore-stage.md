@@ -63,51 +63,51 @@ A young Goh Lay Kuan at the first ballet class she taught at the Practice Theatr
 
 <i>Santha Bhaskar, Bhaskar’s Arts Academy</i>
 
-Arriving in Singapore in 1959 from Kerala,  India, the then 15 year-old-dancer had no  idea what to expect from her arranged mar- riage to K. P. Bhaskar, a man she had never  met. All she knew was that he ran a small  dance school in Singapore, Bhaskar’s Arts  Academy.  “As  soon  as  my  plane  touched   down the runway, I saw the smiling faces of  Mr Bhaskar, students and friends. I didn’t  feel homesick. Not even for a second,” said  Santha Bhaskar.6 As a wide-eyed ingénue  to bustling Singapore, she started learning  more about Malay and Chinese cultures. She  recalled, “When I first came, I didn’t know  how Chinese faces looked like, or Malay faces  looked like. I’d never seen people eat with  chopsticks  before!”  The  learning  evolved from food – arguably the heart and soul of  Singapore – to her passion for dance. 
+Arriving in Singapore in 1959 from Kerala,  India, the then 15 year-old-dancer had no  idea what to expect from her arranged marriage to K. P. Bhaskar, a man she had never  met. All she knew was that he ran a small  dance school in Singapore, Bhaskar’s Arts  Academy.  “As  soon  as  my  plane  touched   down the runway, I saw the smiling faces of  Mr Bhaskar, students and friends. I didn’t  feel homesick. Not even for a second,” said  Santha Bhaskar.[^6] As a wide-eyed ingénue  to bustling Singapore, she started learning  more about Malay and Chinese cultures. She  recalled, “When I first came, I didn’t know  how Chinese faces looked like, or Malay faces  looked like. I’d never seen people eat with  chopsticks  before!”  The  learning  evolved from food – arguably the heart and soul of  Singapore – to her passion for dance. 
 
-As artistic director of Bhaskar’s Arts  Academy, where she teaches Bharatnatyam  dance, Bhaskar began exploring her new-  found insights. Weaving Chinese, Malay and  even Thai dance influences into her dance  choreography, Bhaskar has staged key Asian  works such as the classic Chinese folktale  Butterfly Lovers (1958), as well as the Thai  mythology Manohra (1996).
+As artistic director of Bhaskar’s Arts Academy, where she teaches Bharatnatyam dance, Bhaskar began exploring her new-found insights. Weaving Chinese, Malay and even Thai dance influences into her dance choreography, Bhaskar has staged key Asian works such as the classic Chinese folktale <i>Butterfly Lovers</i> (1958), as well as the Thai mythology <i>Manohra</i> (1996).
 
-A young Santha Bhaskar performing to a Tamil poem for a function organised by Tamil Murasu held at the Victoria Theatre in 1957. Courtesy of Santha Bhaskar. 
+A young Santha Bhaskar performing to a Tamil poem for a function organised by <i>Tamil Murasu</i> held at the Victoria Theatre in 1957. <i>Courtesy of Santha Bhaskar. </i>
 
-Santha Bhaskar with her late husband  K. P. Bhaskar. Courtesy of Santha Bhaskar. 
+Santha Bhaskar with her late husband  K. P. Bhaskar. <i>Courtesy of Santha Bhaskar. </i>
 
-From the 100 students the academy  had  in  the  1950s,  the  dance  school  has   more  than  2,000  today.  Bhaskar  is  also   artistic director and resident choreographer  of NUS Indian Dance at the Centre for the  Arts at the National University of Singapore,  where she taught for over 20 years since  the late 1970s.
+From the 100 students the academy had in the 1950s, the dance school has  more than 2,000 today. Bhaskar is also  artistic director and resident choreographer of NUS Indian Dance at the Centre for the Arts at the National University of Singapore, where she taught for over 20 years since the late 1970s.
 
-At the Centre for the Arts, Bhaskar also  dabbled in dance forms such as hip-hop and  contemporary dance as well as literary arts ike poetry. For instance, the light-hearted  dance drama Pappadum featuring hip-hop  dance group NUS Dance Blast! was staged  in 2006, while Vibrations, an experimental  meld of Indian dance with light and video,  was performed at Esplanade – Theatres on  the Bay the following year. In 2012, Chakra,  which combined Indian dance movements  with sand art, was staged. 
+At the Centre for the Arts, Bhaskar also dabbled in dance forms such as hip-hop and contemporary dance as well as literary arts ike poetry. For instance, the light-hearted dance drama Pappadum featuring hip-hop dance group NUS Dance Blast! was staged in 2006, while <i>Vibrations</i>, an experimental meld of Indian dance with light and video, was performed at Esplanade – Theatres on the Bay the following year. In 2012, <i>Chakra</i>, which combined Indian dance movements with sand art, was staged. 
 
-“My  artistic  inspirations  grew  with   Singapore. Watching Chinese dance, Malay  dance and international dance forms has  influenced my choreography,” said Bhaskar.[^7]
+“My artistic inspirations grew with  Singapore. Watching Chinese dance, Malay dance and international dance forms has influenced my choreography,” said Bhaskar.[^7]
 
-Even  with  the  new  influences,  there   still  remains  a  strong  sense  of  tradition,   especially in this household of dance with  three generations of dancers. “What I learnt  from my mother, my teacher, I taught to my  daughter, who taught it to her daughter. In a  way, that becomes tradition,” Bhaskar said.8  She was awarded the Cultural Medallion for  her work in dance in 1990.
+Even with the new influences, there  still remains a strong sense of tradition,  especially in this household of dance with three generations of dancers. “What I learnt from my mother, my teacher, I taught to my daughter, who taught it to her daughter. In a way, that becomes tradition,” Bhaskar said.[^8] She was awarded the Cultural Medallion for her work in dance in 1990.
 
 #### **A Family Affair** 
 
-Som Mohamed Said, Sri Warisan Som Said Performing Arts
+<i>Som Mohamed Said, Sri Warisan Som Said Performing Arts</i>
 
-Dancer and entrepreneur Som Mohamed Said is one of the most recognisable names in Malay dance in Singapore today. Starting her dance career at Sriwana, one of Singa- pore’s pioneer dance troupes, she spent  three decades there, eventually rising to  the position of artistic director. At the same time, she also ran a thriving Malay wedding business. In 1997, with funds saved from  her bridal company, Som Said founded  Singapore’s first fully professional Malay  dance company, Sri Warisan Som Said  Performing Arts.
+Dancer and entrepreneur Som Mohamed Said is one of the most recognisable names in Malay dance in Singapore today. Starting her dance career at Sriwana, one of Singapore’s pioneer dance troupes, she spent  three decades there, eventually rising to  the position of artistic director. At the same time, she also ran a thriving Malay wedding business. In 1997, with funds saved from  her bridal company, Som Said founded  Singapore’s first fully professional Malay  dance company, Sri Warisan Som Said  Performing Arts.
 
-A pivotal force in the Malay dance  scene, Som Said has spoken out about  the need for Singapore to develop its own approach to Malay dance and an identity it can call its own, instead of blindly following classical Indonesian traditions. With her per- forming arts troupe, she began to create and choreograph works that weave traditional Malay dance routines with contemporary  moves and multicultural elements. Some of her most frequent collaborators are Indian dancer Neila Sathyalingam and Chinese  dancer Yan Choong Lian, who co-created  pieces like The Dance Harmony and Sin- gapore City Lights.
+A pivotal force in the Malay dance  scene, Som Said has spoken out about  the need for Singapore to develop its own approach to Malay dance and an identity it can call its own, instead of blindly following classical Indonesian traditions. With her performing arts troupe, she began to create and choreograph works that weave traditional Malay dance routines with contemporary  moves and multicultural elements. Some of her most frequent collaborators are Indian dancer Neila Sathyalingam and Chinese  dancer Yan Choong Lian, who co-created  pieces like <i>The Dance Harmony<i> and </i>Singapore City Lights.</i>
 
-"I am a traditional person but my tradi- tion is not static – you can create and still hold on to tradition," said Som Said in an interview with The Straits Times.[^9]
+"I am a traditional person but my tradition is not static – you can create and still hold on to tradition," said Som Said in an interview with <i>The Straits Times</i>.[^9]
 
-Her peer Osman Abdu Hamid, artistic director at Era Dance Theatre, commented that Som Said pushed boundaries in tra- ditional Malay dance. “Not much of Malay dance used floor-level movement, such as rolling on the floor,”[^10] he pointed out. 
+Her peer Osman Abdu Hamid, artistic director at Era Dance Theatre, commented that Som Said pushed boundaries in traditional Malay dance. “Not much of Malay dance used floor-level movement, such as rolling on the floor,”[^10] he pointed out. 
 
-Som Said’s works often revolve around stories, legends and folk tales from the  Malay Peninsula, such as Tun Fatimah (1989) and Bangsawan in Dance (1998).
+Som Said’s works often revolve around stories, legends and folk tales from the  Malay Peninsula, such as <i>Tun Fatimah</i> (1989) and <i>Bangsawan in Dance</i> (1998).
 
-Today, Sri Warisan Som Said Perform- ing Arts is one of the most prolific Malay dance companies in Singapore, having  performed in over 40 international events and 30 local productions in the past 18 years. The troupe has 25 performing artistes and is currently managed by Som Said’s son,  Adel Ahmad. Som Said received the Cultural Medallion for dance in 1987.
+Today, Sri Warisan Som Said Performing Arts is one of the most prolific Malay dance companies in Singapore, having  performed in over 40 international events and 30 local productions in the past 18 years. The troupe has 25 performing artistes and is currently managed by Som Said’s son,  Adel Ahmad. Som Said received the Cultural Medallion for dance in 1987.
 
-Spot the multicultural influences in the costumes and props of Sri Warisan Som Said Performing Arts. Courtesy of Sri Warisan Som Said Performing Arts.
+Spot the multicultural influences in the costumes and props of Sri Warisan Som Said Performing Arts. <i>Courtesy of Sri Warisan Som Said Performing Arts.</i>
 
-Som Mohamed Said is a pivotal force in the Malay dance scene. Courtesy of Tribute.sg, an initiative of Esplanade – Theatres on the Bay.
+Som Mohamed Said is a pivotal force in the Malay dance scene. <i>Courtesy of Tribute.sg, an initiative of Esplanade – Theatres on the Bay.</i>
 
 #### **Chasing Dreams**
 
 <i>Kuik Swee Boon, T.H.E. Dance Company</i>
 
-One of the youngest, but most high-profile dance companies on the Singapore scene today is T.H.E Dance Company, which stands for The Human Expression Dance Company. Started by Singapore Dance Theatre’s for- mer principal dancer Kuik Swee Boon in  2008, the troupe is known for fusing Asian and local identities with ballet techniques in high-impact and contemporary dance  performances. 
+One of the youngest, but most high-profile dance companies on the Singapore scene today is T.H.E Dance Company, which stands for The Human Expression Dance Company. Started by Singapore Dance Theatre’s former principal dancer Kuik Swee Boon in  2008, the troupe is known for fusing Asian and local identities with ballet techniques in high-impact and contemporary dance  performances. 
 
 After a five-year stint as principal  dancer at the world-renowned Spanish  dance company Compania Nacional de  Danza in Madrid, Kuik returned to Singapore in 2007 and started T.H.E. Dance Company a year later. Gathering a stable of young  dancers, he began to forge a new identity in the Singapore dance scene by staging  ambitious and emotionally charged works that drew inspiration from societal issues and human emotions.
 
-Kuik’s first full-length work, Old Sounds, was commissioned by the National Heritage Board in 2008. It was a meditative piece about the slow eradication of Chinese dialects in contemporary city life. Featuring folk songs and snippets of conversations  in dialect, the dancers moved in sweeping curves and fleet-footed steps against a  multimedia backdrop of music and film.
+Kuik’s first full-length work, <i>Old Sounds</i>, was commissioned by the National Heritage Board in 2008. It was a meditative piece about the slow eradication of Chinese dialects in contemporary city life. Featuring folk songs and snippets of conversations  in dialect, the dancers moved in sweeping curves and fleet-footed steps against a  multimedia backdrop of music and film.
 
 As It Fades (2011) was another seminal work in T.H.E’s repertoire. In an ambitious move, Kuik chose to stage it at Esplanade – Theatres on the Bay, a grand venue that no other dance company apart from the  Singapore Dance Theatre, had performed at before. Paying homage to Asian traditions and culture, the piece juxtaposed contem- porary dance movements with Hainanese folk songs.
 
