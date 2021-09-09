@@ -117,4 +117,40 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 |The 1947 census was an important one, being the first undertaken after the war. It was a massive exercise that included all towns, villages, people living in the jungles and on boats and houses built out at sea, and even passengers on trains.19
 
+|<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount2.JPG">A rural kampong in Singapore, c. 1960s. In the early days, census takers had to go to kampongs, jungles and even reach out to those living on boats and houses built out at sea. <i>Photo by K.F. Wong. Courtesy of National Archives of Singapore.</i>
+
+To incentivise enumerators, the Malayan Census Headquarters introduced a prize scheme under which $40,000 were given out in Singapore and the Malayan Union to the most efficient enumerators on the recommendation of the local headquarters.20
+
+Besides using government department staff and teachers for census work, hundreds of schoolboys in Singapore were also recruited as enumerators and were each paid $40 for their efforts.21 About 80 scouts from the 10th Singapore Troop of St Andrew’s School also volunteered to assist in the taking of the census in the rural areas of Singapore.22
+
+According to one news report, enumerators in the rural areas were frequently regarded with “extreme suspicion”:
+
+“The country population, especially farmers are not always willing to open their doors. It takes a good five minutes to convince the occupants of some houses that census officers are not policemen, detectives or gangsters, but just people assigned by the Government to find out the number of people living in a house.
+
+“This information must be obtained from the principal occupier of the house and if he does not happen to be in, as is often the case, the census officer has to make the long trek back at a time when his informant is likely to be home”.23
+
+Another problem faced in the rural districts was that many houses were not marked on maps. “The census officer covers a district, then climbs up a hill for the house on top. When he reaches it and looks round the surrounding country he is almost always sure to spot a hut that he had overlooked because it was not marked. He is then obliged to go down again to fulfil his task”.24
+
+In addition to swamps, rivers, jungles and suspicious tenants, the enumerators had to deal with dogs. The same news report said that “two of the men returned with dog bites while several others have been chased by dogs found in almost every house in the country”.25
+
+Another challenge was to count those who lived off the main island of Singapore. In some cases, the government relied on the people who knew the area best – the fishermen. One man, Penghulu Awang Chik, described as a “weather-beaten, 41-years’-old fisherman who has spent more than a score [of] years on Singapore’s fishing ground”, was roped in to be an enumerator. In one week in May, he visited eight small islands and “accounted for 188 lonely island homesteads”.26
+
+Because of the weather, travelling by sea could be challenging. Census supervisor T. Cordeiro had to carry out census work on Pulau Tekong. Unfortunately, just as he was about to leave the island, he was hit by a storm and his boat capsized. Fortunately, Cordeiro and five others in the party managed to hang on to their boat and they made their way safely back to Pulau Tekong.27
+
+Counting the people living aboard vessels in the harbour required census officials to carry out their task between midnight and dawn. The enumerators – each supplied with a torchlight, a pencil, census forms, passes, and a set of instructions – were protected in the course of their duties by the police.
+
+Malaya Tribune reporter Harry Fang accompanied the enumerators as they boarded the various vessels in the harbour and on the rivers. The night did not begin well for them though. The first vessel they boarded was the steamer Giang Ann. Fang said: “[W]e were half way through when a European member of the crew, apparently awaked in his sleep by the commotion, appeared in his pyjamas and created a small argument. Finally, we learned that the steamer’s crew had [already] been censused”.28
+
+Naturally, most crew members did not react well to the appearance of Fang and company, given that they were awakened by enumerators “armed with torchlight, and escorted by policemen”.
+
+Fang added that the “first reaction was always one of fear but after our explanation, the men became assured and readily supplied us with required information”. That said, getting the truth took time. “False names and ages were often given at  first and  after much  gentle persuasion, the truth was finally told”.29
+
+Conducting a census at sea had unexpected hazards as well, namely hardworking fisherman. “An old disinterested Chinese with his son fishing in a sampan off Beach Road nearly snared the Marine Police Chief, Mr J.W. Chiltern, when he cast his prawn net at the moment Mr Chiltern passed in one of his branch’s fast new launches”.30
+
+This is not to say that census officials working in the city had an easy time. Some had to be given police escorts because as the Deputy Superintendent of the Census put it, in some parts of Singapore, “they would knock you on the head if you asked them their names”.31
+
+Sometimes the census officials would get help from unexpected sources, as one newspaper story reported. “The Singapore Rubber Workers’ Union yesterday took time off from conducting a strike and a ‘squat’ to help the Deputy Superintendent of Census, Mr R.H. Oakeley, get census particulars from 120 recalcitrant workers”.32
+
+The official report of the 1947 census – released in October 1949 – gave Singapore’s population as 940,824, which was almost double the figure for the 1931 census.33
+
 #### **Notes**
