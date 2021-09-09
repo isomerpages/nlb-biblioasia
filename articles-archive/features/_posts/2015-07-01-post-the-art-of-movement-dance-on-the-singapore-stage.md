@@ -16,7 +16,7 @@ Since the body is its very instrument of expression, dance, by nature, carries  
 
 Singapore, a young nation with lay- ers of multicultural complexity, finds the  internal debate manifested in its various art forms. Balancing a duality between Western influence and Asian roots, for instance, is a sociological struggle in post-colonial Sin- gapore, and is a common trope in much of its local art. This is perhaps more evident in a spoken art form like theatre, where even the delivery of lines on stage – whether it be Singlish or “proper English” (typically  Anglicised accents peppered with American slang) – can incite debate on nationalism and identity. A similar dialectic, perhaps  less publicly discussed, exists within the  cultural polemic of dance on the Singapore stage, where the socio-cultural discourse might be silent, but certainly, not invisible.
 
-The Language Dance in Singapore
+#### **The Language Dance in Singapore**
 
 As a country of immigrants, the roots of  dance in Singapore naturally stem from  its major ethnic groups – Malay, Chinese, Indian and Eurasian. Dance groups and  schools such as Malay folk dance troupe  Sriwana and classical Indian dance school Bhaskar Arts Academy were prominent in Singapore’s arts and education scene from the 1960s to the 1980s. Some of the most influential dance practitioners at the time included contemporary ballet dancer Goh Lay Kuan, Malay dance doyenne Som Said, classical Indian dancer Santha Bhaskar, and classical ballerina Goh Soo Khim.
 
@@ -32,3 +32,18 @@ The work, while heavy in its balletic  stylistics, was infused with flavour that
 
 How do we forge a dance identity that we can call our own? How do we balance the influences of both Eastern and Western cultures, paying homage to both but subser- vient to neither? The journeys of these five trailblazers in dance will shed some light on the evolving language of the Singapore stage, and in the process, perhaps reveal some human insight into the struggle of the Singaporean identity.
 
+#### **“The Red Ballerina”**
+
+<i>Goh Lay Kuan, The Theatre Practice Ltd</i>
+
+Spirited dance doyenne Goh Lay Kuan  pushed boundaries not just in dance, but the politics governing 1970s Singapore.  Dubbed “The Red Ballerina” by the press, Goh and her late husband, theatre play- wright and director Kuo Pao Kun, were  arrested under the Internal Security Act in 1976 and detained without trial on suspicion that they had communist affiliations due to the politically-charged nature of their work. Some of their pieces, like Gai Si De Cang Ying (Damn the Fly), raised sensitive issues about socio-political issues in Singapore.
+
+Born in Sumatra, Indonesia, in 1939, Goh left for Singapore as a child and  discovered a love for dance. Inspired by  fellow classmates Goh Soo Khim and  Goh Choo San, siblings who came from  a family of dancers, she enrolled as a  classical ballerina at the Victoria Ballet  Guild in Melbourne, Australia. In 1964,  Goh returned to Singapore to set up the  Singapore Performing Arts School in 1965 with her newly-wed husband, Kuo Pao Kun. The school was renamed Practice Theatre School in 1973 and has undergone several name changes over the years, most recently in 2010 to The Theatre Practice Ltd.
+
+We did everything ourselves, including the stage set and costumes. I didn’t get a salary for 13 years, only money for transport. We took 17 years to pay our debts,” Goh  revealed in an interview with The Straits  Times in 2014.3 With the school set up, Goh hoped to groom a new stable of dancers and artistes. In 1965, she choreographed her first piece, Flower, Youth, Sea, a contemporary ballet piece with strong Malay influences. 
+
+Singapore’s political tensions, how- ever, threw a spanner in the works. Under suspicion of communist leanings, the  couple were interrogated and detained  under the Internal Security Act. While  Goh was released a few months later, Kuo was detained for four-and-a-half years.  “We had raised issues about children and their poverty, sometimes in songs, short plays, or on stage... We did not make any direct criticism but they thought we had  a communist ideology,” said Goh in the  same interview.[^4]
+
+By the mid-1980s, the couple had been exonerated of any wrongdoing, and the  pro-communist allegations against them  were dropped. In 1983, Goh studied under famed contemporary dancer and chore- ographer Martha Graham in New York. In 1988, she created Nu Wa — Mender of the Heavens (1988) for the Singapore Festival of Arts, which came to be recognised as  Singapore’s first full-length modern dance production. Based on Chinese mythology, Nu Wa encapsulated Goh’s artistic tensions between her Asian roots and Western ballet training. For her significant contributions to Singapore’s dance scene, Goh was conferred the Cultural Medallion for dance in 1995.
+
+“She so successfully blended con- temporary, East Asian, and Southeast  Asian dance forms and themes such that, even if one may discern traces of ballet,  and Indian, Malay and Chinese dances,  her final form was none of those: it was, simply, a dance choreographed by Goh,”  said Venka Purushothaman in his 2002  book on Cultural Medallion recipients.[^5]
