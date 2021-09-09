@@ -167,13 +167,13 @@ Yong, C. (2013, May 17). Hard for old-timers to say goodbye. The Straits Times. 
 
 [^9]:Wong & Guillot, 2005, p. 57 
 
-[^10]:Quah, I. (Interviewer). (1996, September 12). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/13, p. 109]. Retrieved from National Archives of Singapore website.
+[^10]:Quah, I. (Interviewer). (1996, September 12). *[Oral history interview with Liu Thai Ker](http://www.nas.gov.sg/archivesonline/viewer?uuid=4c0c04fb-115e-11e3-83d5-0050568939ad-OHC001732_016)* [Transcript of Recording No. 001732/29/13, p. 109]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
-[^11]:Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/16, p. 143]. Retrieved from National Archives of Singapore website.
+[^11]:Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/16, p. 143]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
-[^12]:Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/16, p.143]. Retrieved from National Archives of Singapore website.
+[^12]:Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/16, p.143]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
-[^13]:Quah, I. (Interviewer). (1996, September 12). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/13, p. 115]. Retrieved from National Archives of Singapore website.
+[^13]:Quah, I. (Interviewer). (1996, September 12). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/13, p. 115]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
 [^14]:Liu, T. K. (1983). *[A review of public housing in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5919649)* (p. 9). Singapore: National Trades Union Congress. Call no.: RSING 363.585095957 LIU
 
