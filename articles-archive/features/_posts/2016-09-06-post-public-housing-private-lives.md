@@ -151,13 +151,13 @@ Yong, C. (2013, May 17). Hard for old-timers to say goodbye. The Straits Times. 
 
 [^1]:Wong, T. C., & Guillot, X. (2005). *[A roof over every head: Singapore’s housing policy between state monopoly and privatisation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12644453)* (p. 68). Calcutta: Sampark. Call no.: RSING 363.5095957 WON
 
-[^2]:Gifford, R. (2007). The consequences of living in highrise buildings. Architectural Science Review, 50, 2. Retrieved from University of Victoria website.
+[^2]:Gifford, R. (2007). The consequences of living in highrise buildings. *Architectural Science Review*, 50, 2. Retrieved from University of Victoria website.
 
-[^3]:Fernandez, W. (2011). Our homes: 50 years of housing a nation (p. 49). Singapore: Straits Times Press. Call no.: RSING 363.585095957 FER
+[^3]:Fernandez, W. (2011). *[Our homes: 50 years of housing a nation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13704501)* (p. 49). Singapore: Straits Times Press. Call no.: RSING 363.585095957 FER
 
-[^4]:Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 3]. Retrieved from National Archives of Singapore website.
+[^4]:Soh, E. K. (Interviewer). (1997, May 20). *[Oral history interview with Alan Choe Fook Cheong](http://www.nas.gov.sg/archivesonline/viewer?uuid=53e51e73-115e-11e3-83d5-0050568939ad-OHC001891_007)* [Transcript of Recording No. 001891/18/7, p. 3]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
-[^5]:Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 3]. Retrieved from National Archives of Singapore website.
+[^5]:Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 3]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
 [^6]:Wong & Guillot, 2005, p. 61.
 
