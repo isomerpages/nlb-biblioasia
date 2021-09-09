@@ -97,13 +97,13 @@ French colonisation and the emergence of commercial publishers who used Western 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
 
 #### **Notes**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
+[^1]:Letterpress printing or typographic printing is the process in which copies of an image are produced by making an impression of an inked raised surface onto paper. The ink-bearing surface is composed, character by character, by a typesetter, These characters are the movable components of type that is designed and manufactured by type foundries.
+[^2]:Lithography is a printing process that works on the principle that water and oil do not mix. The printer first writes or draws on a semi-porous flat surface of a printing stone (usually limestone) using a greasy substance such as a crayon. The surface is moistened and a layer of oil-based ink would then be applied to the surface with a roller. The ink will adhere to the greasy marks but will be repelled by the water. The ink on the stone is then transferred onto a sheet of paper.
+[^3]:Books made of paper folded in a concertina format.
+[^4]:Suarez, M.F., & Woudhuysen, H.R. (Eds.). (2013). [*The book: A global history*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200774186) (pp. 107–115, 622–634). Oxford: Oxford University Press. (Call no.: 002.09 BOO)
+[^5]:Kornicki, P.F. (2018). *Languages, scripts, and Chinese texts in East Asia* (p. 117). Oxford: Oxford University Press. (Not available in NLB holdings)
+[^6]:Herbert, P., & Milner, A. (Eds.). (1989). [*South-East Asia: Languages and literature: A select guide*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487) (p. 82). Arran, Scotland: Kiscadale Publications. (Call no.: RSING 495 SOU); Nguyen, Q., & Phan, C.T. (1991). [*Mỹ thuật ở làng = Art in the Vietnamese village*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6350605) (pp. 174–175). Hanoi: My Thuat Ha Noi. (Call no.: RSEA 700.9597 NGU); Nguyẽ̂n, T.H., & Cohen, B. (2002). [*Economic history of Hanoi in the 17th, 18th and 19th centuries*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11733475) (pp. 122–125, 179–185, 209). Hanoi: National political publishing house. (Call no.: RSEA 959.7 NGU); McHale, S. (2007). Vietnamese print culture under French colonial rule: The emergence of a public sphere (pp. 380–381). In L. Chia & W.L. Idema. (Eds.). [*Books in numbers: Seventy-fifth anniversary of the Harvard-Yenching Library: Conference papers*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12995113). Cambridge, Mass.: Harvard-Yenching Library, Harvard University. (Call no.: R 002.095 BOO)
+[^7]:Kornicki, P. (2009). Japan, Korea and Vietnam (pp. 122–124). In S. Eliot & J. Rose. (Eds.). [*A companion to the history of the book*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13714413). Oxford: Wiley-Blackwell. (Call no.: R 002.09 COM); Li, T. (2001). The imported book trade and Confucian learning in seventeenth- and eighteenth-century Vietnam (p. 169). In M. Aung-Thwin, M & K.R. Hall. (Eds.) [*New perspectives on the history and historiography of Southeast Asia: Continuing explorations*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14201732). London; New York: Routledge. (Call no.: RSEA 959.0072 NEW); [Nguyen & Phan](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6350605), 1991, pp. 174–175; Taylor, K.W. (2013). [A history of the Vietnamese](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200139877) (p. 628). Cambridge: Cambridge University Press. (Call no.: RSEA 959.7 TAY)
 [^8]:
 [^9]:
 [^10]:
