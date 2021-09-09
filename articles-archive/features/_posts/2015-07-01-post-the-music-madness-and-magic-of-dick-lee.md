@@ -11,3 +11,4 @@ layout: post
 — Dick Lee
 
 Writer, composer, singer, director, producer, clothing designer, talent agency owner and restaurateur. The multi-hyphenated Dick Lee has done it all, and there is precious little in the creative industry that he has not had a hand in. Lee bears the distinction of being one of the first entertainers to push the accepted boundaries of popular music and propel Singapore and Singapore music into the international arena. More importantly, he has helped nurture in Singaporeans a greater appreciation for locally produced music. Today, his significant body of work has become part of the cultural fabric of our history.
+
