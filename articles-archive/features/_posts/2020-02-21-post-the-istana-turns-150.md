@@ -78,8 +78,13 @@ Yusof explained at the time when he became Head of State that he felt that the I
 
 Aside from its occupants, the way of life in the Istana also changed when local staff ran the Istana after the British left. In 1960, the first Asian Comptroller of Household Jean Leembruggen, a Eurasian from Melaka, was appointed. Her husband, Geoffrey Leembruggen, was then acting permanent secretary at the Ministry of Health.
 
-
-Puan Noor Aishah (second from right), wife of Singapore’s first president, Yusof Ishak, seen here hosting a reception at the Istana for delegates of the Red Cross Society seminar, 1966. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
-Yusof’s wife, First Lady Puan Noor Aishah, personally supervised the menu and food preparation in the Istana, from English-style fare like roast beef and Yorkshire pudding to local favourites.20 The skilled home chef introduced dishes like nasi sambal, chicken rendang and chap chye which were served to foreign nitaries. She was particularly well known for her gula melaka dessert made with sago, egg white and coconut milk.21 The First Lady was also known for her shrimp and sardine sambal sandwich rolls:
+Yusof’s wife, First Lady Puan Noor Aishah, personally supervised the menu and food preparation in the Istana, from English-style fare like roast beef and Yorkshire pudding to local favourites.20 The skilled home chef introduced dishes like *nasi sambal*, chicken *rendang* and *chap chye* which were served to foreign nitaries. She was particularly well known for her *gula melaka* dessert made with sago, egg white and coconut milk.21 The First Lady was also known for her shrimp and sardine *sambal* sandwich rolls:
 
 “I wanted something different so instead of cutting the sandwiches into triangles or rectangles like usual sandwiches, I would roll them up and cut them into circular segments like a Swiss Roll. That way, the ‘sandwiches’ would be easier to eat… we usually had two fillings – sardines and shrimp sambal.”22
+
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana5.JPG">
+<div style="background-color: white;">Puan Noor Aishah (second from right), wife of Singapore’s first president, Yusof Ishak, seen here hosting a reception at the Istana for delegates of the Red Cross Society seminar, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+Puan Noor Aishah also trained the Istana’s chefs to whip up her signature dishes which included curry puffs and *kueh onde onde*.23 One of her trainees, Wong Shang Hoon, is still said to be cooking up a storm in the Istana today.
+
+After Singapore gained independence in 1965, the new nation began establishing diplomatic ties with other countries, and soon, visitors from foreign countries started streaming in. Memorable visits include those by West German Chancellor Helmut Schmidt, China’s Deng Xiaoping and Queen Elizabeth II of the United Kingdom. Queen Elizabeth visited Singapore in 1972, 1989 and 2006 and each of her visits caused much excitement among the Istana’s household staff. Senior Butler Ismail Abdul Ghani recalled meeting her in 1972 and 2006.24
