@@ -45,3 +45,19 @@ The Chosabu noted that the last population census had taken place in Singapore i
 
 The Chinese viewed the information-gathering with suspicion as they had suffered greatly during Operation Sook Ching from February to March 1942 when Chinese males between the ages of 18 and 50 were summoned to report at mass screening centres; anyone who was suspected of being anti-Japanese was executed. Hence, the report also noted that “for nationality, most Chinese responded with their home region but a few identified themselves only as Chinese. There was no consistency. The same is true of occupation”.36
 
+<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount3.JPG">
+<div style="background-color: white;">This is a bound volume of census slips for households on Fraser Street, c. 1945. The National Library received this donation during the 2008 Heritage Roadshow. <i>Collection of the National Library, Singapore (Accession no.: B20026490A).</i></div>
+
+#### **Post-war Censuses**
+
+The first post-war census was conducted in 1947, after a lapse of 16 years. M.V. Del Tufo, Superintendent of the Census, wrote in the Foreword of the *Report on the 1947 Census of Population* that the Japanese Occupation had resulted in loss or destruction of records, and the lack of manpower and frequent strikes added to the challenges of carrying out the census.
+
+To quell fear and distrust among people after the war, the British authorities explained that the “census had nothing to do with income tax or rice cards, nor would it be used as a check on individuals”.37 They also assured the people that “all the information with regard to individuals [would be] treated as confidential, and may not be used for any purpose other than preparing tables of statistics about the community as a whole”.38 At the time, there were thousands of squatters, mostly Chinese, who were living on lands that did not belong to them and they feared eviction if discovered during the census taking.39
+
+Compared with the labour-intensive manual method of processing earlier censuses, the 1947 census used a mechanical method of punched cards to speed up the tabulation of the results. Deputy Superintendents of Census were appointed in the states of the Federation of Malaya, except in Perak where the Census Headquarters undertook the Deputy’s functions, and in Singapore. The Singapore census also included the populations residing in offshore islands such as Pulau Ubin, Pulau Tekong Besar and St John’s Island as well as those on Christmas Island and Cocos (Keeling) Islands. (The Cocos Islands and Christmas Island were transferred to Australia in 1955 and 1958 respectively.40)
+
+The next census was conducted on 17 June 1957, with the Singapore Department of Statistics handling the census for the first time. It also marked the first time that the census was conducted only for Singapore.41
+
+<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount4.JPG">
+<div style="background-color: white;">Census takers hard at work during the 1957 census. This was the first time that the census was conducted by Singapore’s Department of Statistics. <i>Source: © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
+
