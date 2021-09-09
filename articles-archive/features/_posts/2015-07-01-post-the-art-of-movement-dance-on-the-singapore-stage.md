@@ -109,11 +109,11 @@ After a five-year stint as principal  dancer at the world-renowned Spanish  danc
 
 Kuik’s first full-length work, <i>Old Sounds</i>, was commissioned by the National Heritage Board in 2008. It was a meditative piece about the slow eradication of Chinese dialects in contemporary city life. Featuring folk songs and snippets of conversations  in dialect, the dancers moved in sweeping curves and fleet-footed steps against a  multimedia backdrop of music and film.
 
-As It Fades (2011) was another seminal work in T.H.E’s repertoire. In an ambitious move, Kuik chose to stage it at Esplanade – Theatres on the Bay, a grand venue that no other dance company apart from the  Singapore Dance Theatre, had performed at before. Paying homage to Asian traditions and culture, the piece juxtaposed contem- porary dance movements with Hainanese folk songs.
+<i>As It Fades</i> (2011) was another seminal work in T.H.E’s repertoire. In an ambitious move, Kuik chose to stage it at Esplanade – Theatres on the Bay, a grand venue that no other dance company apart from the  Singapore Dance Theatre, had performed at before. Paying homage to Asian traditions and culture, the piece juxtaposed contemporary dance movements with Hainanese folk songs.
 
-To groom new talents in dance, Kuik set up T.H.E. Second Company to nurture the next generation of dancers. He also  started Contact, an annual dance festival  to showcase budding Asian dancers and  choreographers. Kuik was conferred the  Young Artist Award by the National Arts  Council in 2007.
+To groom new talents in dance, Kuik set up T.H.E. Second Company to nurture the next generation of dancers. He also  started <i>Contact</i>, an annual dance festival  to showcase budding Asian dancers and  choreographers. Kuik was conferred the  Young Artist Award by the National Arts  Council in 2007.
 
-Kuik Swee Boon, who leads the contemporary dance group T.H.E. Dance Company, takes the leap in Within, Without. Courtesy of Tan Ngiap Hen.
+Kuik Swee Boon, who leads the contemporary dance group T.H.E. Dance Company, takes the leap in <i>Within, Without. Courtesy of Tan Ngiap Hen.</i>
 
 #### **The Grand Dame of Dance** 
 
@@ -121,21 +121,21 @@ Kuik Swee Boon, who leads the contemporary dance group T.H.E. Dance Company, tak
 
 The Singapore Dance Theatre (SDT) is  Singapore’s first and most established  classical ballet troupe. Founded in 1988 by Goh Soo Khim and the late Anthony Then, the illustrious dance company rose from  humble beginnings. At its first official per- formance in 1988 at the Singapore Festival of Arts, the SDT had only seven dancers  – three Singaporeans, three Filipinos and one Malaysian. Today, the dance company has more than 30 full-time dancers and  apprentices in its fold.
 
-Best known for its classical ballet  repertoire, which includes classics such  as Anna Karenina, The Nutcracker and Cinderella, the SDT has also staged works by acclaimed choreographers such as André Prokovksy, George Balanchine, Jorma Elo, Xing Liang and Edwaard Liang. The SDT is also closely affiliated with the work of the late virtuoso Singaporean choreographer  Goh Choo San. Goh, who was the brother of Goh Soo Khim, was the choreographer for the Washington Ballet in the 1980s.
+Best known for its classical ballet  repertoire, which includes classics such  as <i>Anna Karenina, The Nutcracker</i> and <i>Cinderella,</i> the SDT has also staged works by acclaimed choreographers such as André Prokovksy, George Balanchine, Jorma Elo, Xing Liang and Edwaard Liang. The SDT is also closely affiliated with the work of the late virtuoso Singaporean choreographer  Goh Choo San. Goh, who was the brother of Goh Soo Khim, was the choreographer for the Washington Ballet in the 1980s.
 
-In 2008, Janek Schergen was appointed artistic director of the SDT, taking over from Goh Soo Khim, who stepped down after 20 years at the helm. Janek, who was previ- ously the dance company’s assistant artistic director, also oversees the Choo-San Goh & H. Robert Magee Foundation, which licenses and produces Goh Choo San’s ballets as  well as administers the annual Choo-San Goh Awards for Choreography.
+In 2008, Janek Schergen was appointed artistic director of the SDT, taking over from Goh Soo Khim, who stepped down after 20 years at the helm. Janek, who was previously the dance company’s assistant artistic director, also oversees the Choo-San Goh & H. Robert Magee Foundation, which licenses and produces Goh Choo San’s ballets as  well as administers the annual Choo-San Goh Awards for Choreography.
 
-A number of notable dancers and cho- reographers in the Singapore dance scene have passed through the hallowed halls of the SDT, including choreographer Jeffrey Tan and dancer Kuik Swee Boon. 
+A number of notable dancers and choreographers in the Singapore dance scene have passed through the hallowed halls of the SDT, including choreographer Jeffrey Tan and dancer Kuik Swee Boon. 
 
-While the SDT is primarily a classical ballet company, it has taken on a few land- mark contemporary productions, such as Reminiscing the Moon (2002) by Indonesian choreographer Boi Sakti for the inauguration of Esplanade –Theatres on the Bay. One of its most popular events is Ballet Under the Stars, an annual outdoor ballet performance that takes place at Fort Canning Park and draws large crowds every year. 
+While the SDT is primarily a classical ballet company, it has taken on a few landmark contemporary productions, such as <i>Reminiscing the Moon</i> (2002) by Indonesian choreographer Boi Sakti for the inauguration of Esplanade –Theatres on the Bay. One of its most popular events is <i>Ballet Under the Stars</i>, an annual outdoor ballet performance that takes place at Fort Canning Park and draws large crowds every year. 
 
 In 2013, the SDT moved to bigger  premises at the Bugis+ shopping mall on Victoria Street, after more than 20 years at the Fort Canning Centre. 
 
 #### **Finding Voice Through Art**
 
-Balancing tradition and modernity, Eastern and Western styles, the Singaporean dancer often treads between worlds. From the  modern dance styles of Lim Fei Shen, to the experimental site-specific performances of Arts Fission Dance Company, to the contem- porary dance styles of ECNAD and Frontier Danceland, dance in Singapore takes shape in many forms – but they all come together to form an inkling of the socio-cultural tensions that exist in our multicultural island-nation.
+Balancing tradition and modernity, Eastern and Western styles, the Singaporean dancer often treads between worlds. From the  modern dance styles of Lim Fei Shen, to the experimental site-specific performances of Arts Fission Dance Company, to the contemporary dance styles of ECNAD and Frontier Danceland, dance in Singapore takes shape in many forms – but they all come together to form an inkling of the socio-cultural tensions that exist in our multicultural island-nation.
 
-As a relatively young country, with  a relatively young arts scene, the artistic  voices of our dance pioneers are surpris- ingly strong and diverse. Be it the classical ballet repertoire of the SDT or the light- footed movements of Santha Bhaskar’s  take on Bharatanatyam dance, these dance pioneers collectively paint a complex and intriguing picture of post-colonial identity in contemporary Singapore.
+As a relatively young country, with  a relatively young arts scene, the artistic  voices of our dance pioneers are surprisingly strong and diverse. Be it the classical ballet repertoire of the SDT or the light-footed movements of Santha Bhaskar’s  take on Bharatanatyam dance, these dance pioneers collectively paint a complex and intriguing picture of post-colonial identity in contemporary Singapore.
 
 For what is art but a lens through  which to examine society, and in turn, ourselves? Artists speak of the cultural  inflections that influence their works,  that weave paths through classical arts,  gestures and rituals, that stir the desire  for a truer, more unique expression of  identity that Singapore can truly call its  own. Singapore’s history, from its time as a British trading port under colonial rule to a first-world metropolis, presents us in an unusual, liminal space. Perhaps there lies the meaning of evolving tradition to reflect relevance in modern times. To understand who we are, we should perhaps turn to  the most primitive of communication – the body – to decipher and find meaning in the gestures, signs and signifiers created by the  Singaporean dancer. 
 
@@ -144,3 +144,7 @@ Artistic Director Janek Schergen of the SDT teaching a class. Courtesy of Singap
 <p style="font-size:15px;"><b>Tara Tan</b> is a writer and designer who works in the intersection between art, design and  technology. She was a former arts reporter with The Straits Times, where she wrote on dance  and culture in Singapore.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+#### **NOTES**
