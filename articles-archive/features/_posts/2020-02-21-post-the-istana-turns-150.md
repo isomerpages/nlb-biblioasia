@@ -6,7 +6,7 @@ layout: post
 ---
 ##### The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019. **Wong Sher Maine** recounts key moments in its history.
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG">
+<img style="width: 350px; height: 430px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG">
 <div style="background-color: white;">The grand facade of the Istana, with its reflection mirrored on the shimmering surface of the lawn fountain. <i>Courtesy of Marshall Cavendish and the Istana.</i></div>
 
 “The building is a handsome one – the handsomest by a long way in the Settlement and one which will be an ornament to the place long after those who fought for and against it have passed away.”[^1]
@@ -29,7 +29,7 @@ A plan for a larger building was subsequently approved, but the money set aside 
 
 Government House took shape under the hands of convict labourers from India, Ceylon and Hong Kong who were paid 20 cents a day to work as stone masons, plumbers, carpenters, painters and stone cutters. It was completed in October 1869 at a cost of $185,000.[^7]
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana2.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana2.JPG">
 <div style="background-color: white;">Built at a cost of $185,000 and completed in October 1869, the Istana was first known as Government House. It was originally built by the British colonial government to serve as the residence of the governor of the Straits Settlements and later the governor of the Colony of Singapore. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 The stately building was designed in the neo-Palladian style[^8] and reflected architectural elements of the East and West: imposing Greek-style columns, cornices and arches reminiscent of buildings in Europe, and wide verandahs, large louvred windows and dwarfed piers adapted from traditional Malay architecture.
@@ -38,7 +38,7 @@ Between 1869 and 1959, Government House was home to 18 colonial governors.[^9] G
 
 Given Singapore’s prime geographical location, the island was a popular stopover for European visitors en route to China, and some of these visitors put up at Government House on transit. These included the likes of the English botanical artist Marianne North, who visited in 1876 and waxed lyrical about the lush vegetation around Government House; Annie Brassey,[^11] inveterate traveller and wife of the first Earl of Brassey, who stayed over in 1877 when her schooner had to be replenished with coal at the Tanjong Pagar docks; and Prince Albert Victor and his brother, Prince George of Wales, who were treated to a royal party at the house by Governor Frederick Weld in 1882.[^12]
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana3.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana3.JPG">
 <div style="background-color: white;">William Goode, who became Singapore’s first Yang di-Pertuan Negara, hosting a tea party for Junior Chamber International (Jaycees) at Government House, 1956. Garden parties held on the front lawn of Government House were a regular feature in the social calendar of the British governor and his wife. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 On occasion, the large and leafy expanse of grounds hosted garden parties, while dances were held in the capacious ballrooms. Retired colonel John Morrice, who lived in the servants’ quarters of Government House between 1935 and 1947 as his father worked as a waiter there, recalled:
@@ -69,7 +69,7 @@ When Singapore achieved internal self-government in 1959, Government House was r
 
 From housing colonial governors who hailed from Britain, the Istana became the designated official residence for the presidents of Singapore. The last governor of Singapore was William Allmond Codrington Goode, who served as the Yang di-Pertuan Negara (Malay for “Head of State”) from June to December 1959, before making way for Yusof Ishak, the first local-born Head of State. When Singapore gained independence, Yusof was sworn in as the country’s first president.
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana4.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana4.JPG">
 <div style="background-color: white;">President Yusof Ishak and Puan Noor Aishah with their children at Sri Melati, c. 1960s. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
 
 While the Istana still remains the official residence of Singapore’s presidents, only two have actually lived on the Istana grounds and, even then, not in the main building: Yusof lived in an outlying bungalow named Sri Melati, which was built in 1869 to house the colonial under-secretaries.[^17] Third president Devan Nair lived in the Lodge, which was built to replace Sri Melati after it was torn down in the 1970s when termite infestation rendered it structurally unsafe.
@@ -82,14 +82,14 @@ Yusof’s wife, First Lady Puan Noor Aishah, personally supervised the menu and 
 
 “I wanted something different so instead of cutting the sandwiches into triangles or rectangles like usual sandwiches, I would roll them up and cut them into circular segments like a Swiss Roll. That way, the ‘sandwiches’ would be easier to eat… we usually had two fillings – sardines and shrimp sambal.”[^22]
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana5.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana5.JPG">
 <div style="background-color: white;">Puan Noor Aishah (second from right), wife of Singapore’s first president, Yusof Ishak, seen here hosting a reception at the Istana for delegates of the Red Cross Society seminar, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Puan Noor Aishah also trained the Istana’s chefs to whip up her signature dishes which included curry puffs and *kueh onde onde*.[^23] One of her trainees, Wong Shang Hoon, is still said to be cooking up a storm in the Istana today.
 
 After Singapore gained independence in 1965, the new nation began establishing diplomatic ties with other countries, and soon, visitors from foreign countries started streaming in. Memorable visits include those by West German Chancellor Helmut Schmidt, China’s Deng Xiaoping and Queen Elizabeth II of the United Kingdom. Queen Elizabeth visited Singapore in 1972, 1989 and 2006 and each of her visits caused much excitement among the Istana’s household staff. Senior Butler Ismail Abdul Ghani recalled meeting her in 1972 and 2006.[^24]
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana6.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana6.JPG">
 <div style="background-color: white;">Among the guests who visited the Istana were Queen Elizabeth II and the Duke of Edinburgh Prince Philip. Here they are seen chatting with Speaker of Parliament Yeoh Ghim Seng during a state banquet hosted by President Benjamin Sheares (in the background) at the Istana on 18 February 1972. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 “The first time I met Queen Elizabeth, I was one of two Istana butlers who was assigned to attend to her personal needs. I didn’t think she would remember me. But when I next saw her, at an event where all the butlers lined up in a row to greet her, she stopped when she came to me and said – ‘I remember you’. I felt so happy!”[^25]
@@ -110,7 +110,7 @@ Renovation works were carried out between 1996 and 1998. This was the Istana’s
 
 “[The Istana] is a stately building, very grand, very symmetrical, as it should be for an institutional building. But internally, it needs refurbishing. Where we can, we will try to renovate the place and try to bring back its old grace.”[^41]
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana9.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana9.JPG">
 <div style="background-color: white;">With its swagged valances, arched fanlights and draperies in a woven damask fabric, the Reception Hall of the Istana provides an elegant setting for guests. <i>Courtesy of Marshall Cavendish and the Istana.</i></div>
 
 Many new features were added, including centralised air-conditioning, mechanically activated louvres, restored timber rafters and beams, automatic sliding doors and a dedicated Ceremonial Plaza with four flagpoles for military displays. Previously, these displays were performed at the airport when foreign guests disembarked from the aeroplane.[^42]
@@ -119,7 +119,7 @@ The Istana gardens were also overhauled and professionally landscaped, a Hercule
 
 The front lawn of the main garden was originally designed as a traditional European garden.[^43] To frame the Istana’s main building upon approach, the team transplanted 18 majestic meninjau trees, each soaring over 10 metres in height, from other parts of Singapore to the periphery of the circular front lawn.
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana10.JPG">
+<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana10.JPG">
 <div style="background-color: white;">Sunrise from the Presidential Balcony of the Istana, 2006. Photo by Russel Wong. <i>Istana Art Collection, courtesy of National Heritage Board.</i></div>
 
 #### **The Istana Today**
@@ -130,7 +130,7 @@ State gifts bestowed by foreign visitors are showcased in the main building as w
 
 Foreign VIPs continue to pass through the halls of the Istana, among them US President Donald Trump and North Korean leader Kim Jong Un, who were in Singapore for the historic Trump-Kim Summit on 12 June 2018. Prime Minister Lee Hsien Loong hosted Kim at the Istana on 10 June, while Trump and his delegation attended a working lunch there on 11 June.[^44]
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana11.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana11.JPG">
 <div style="background-color: white;">Prime Minister Lee Hsien Loong and US President Donald Trump enjoying a working lunch with their teams at the Istana on 11 June 2018, ahead of the Trump-Kim Summit held in Singapore on 12 June. <i>Photo by Ministry of Communications and Information.</i></div>
 
 For many Singaporeans, the Istana is a place associated with the highest honours in the land. All manner of ceremonies honouring individuals at the top of their professions are held there, such as the President’s Award for Teachers, the President’s Award for Nurses and the Cultural Medallion.
@@ -139,7 +139,7 @@ A total of eight presidents have passed through the halls of the Istana. The cur
 
 Madam Halimah declared at the beginning of her term in 2017 that she wanted to make the Istana grounds more accessible to the people, including the elderly and those with special needs. She launched the Picnic@Istana series when she took office, where four picnics would  be held each year for underprivileged children as well as those with special needs.[^45] Another programme that she initiated, Garden Tours@Istana, has welcomed senior citizens, hospice patients and their caregivers, and patients from the Institute of Mental Health.[^46]
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana12.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana12.JPG">
 <div style="background-color: white;">As part of her plans to open up the Istana to even more people, President Halimah Yacob started a series of picnics and garden tours. Here she is seen mingling with patients from Metta Hospice Care and Singapore General Hospital during a garden tour on 30 July 2019. <i>Photo by Ministry of Communications and Information.</i></div>
 
 On 6 October 2019, the Istana held its very first open house event at night, hosted by Madam Halimah and her husband Mohamed Abdullah Alhabshee, to mark its 150th anniversary. Highlights included a lightshow on the walls of the main building depicting the Istana’s heritage and history over the years, and performances by the Singapore Symphony Orchestra and other local talents.[^47]
@@ -156,13 +156,13 @@ While the Istana may have started out as symbol of imperial strength and power 1
 
 |“When they drove into the Istana domain, they would see right in the heart of the city a green oasis, 90 acres of immaculate rolling lawns and woodland, and nestling between them a nine-hole golf course. Without a word being said, they would know that Singaporeans were competent, disciplined and reliable, a people who would learn the skills they required soon enough.”[^32]
 
-|<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana7.JPG">Spreading over 41 hectares, the Istana’s gardens are meticulously cared for and are home to some 260 plant species. The Japanese Garden shown here was completed in 1967. It features stone and wooden bridges, lanterns and pebbles and a Merkus Pine with needle-like leaves that add to the zen-like quality of the surroundings. <i>Photo by Ministry of Communications and Information.</i>
+|<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana7.JPG">Spreading over 41 hectares, the Istana’s gardens are meticulously cared for and are home to some 260 plant species. The Japanese Garden shown here was completed in 1967. It features stone and wooden bridges, lanterns and pebbles and a Merkus Pine with needle-like leaves that add to the zen-like quality of the surroundings. <i>Photo by Ministry of Communications and Information.</i>
 
 |When Lee came across the foxtail palm – the name inspired by the bushy fronds resembling the tail of a fox – while on a visit to Australia, he asked for it to be planted on the Istana grounds. Visitors to the Istana today can still see this palm, which is found beside the iconic Swan Pond.[^33]
 
 |The Swan Pond, home to a pair of white mute swans, is also a legacy of Lee’s. It was constructed in 1968 at his request and is the largest of various ponds on the Istana grounds.[^34]
 
-|<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana8.JPG">Although the Swan Pond is home to a pair of mute swans, other bird species can also be seen quenching their thirst from its waters on many evenings. <i>Courtesy of Marshall Cavendish and the Istana.</i>
+|<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana8.JPG">Although the Swan Pond is home to a pair of mute swans, other bird species can also be seen quenching their thirst from its waters on many evenings. <i>Courtesy of Marshall Cavendish and the Istana.</i>
 
 |As Lee often spent long days working inside the Istana building, the gardens were a welcome respite. He and Mrs Lee would visit and feed the swans during their evening walks and he would sometimes pick a cluster of white flowers, commonly known as the breadflower, for his wife. These flowers, with their sweet pandan fragrance, were a favourite of Mrs Lee’s.[^35]
 
