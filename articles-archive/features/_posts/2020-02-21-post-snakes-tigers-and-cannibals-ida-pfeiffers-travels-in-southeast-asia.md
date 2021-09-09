@@ -197,7 +197,7 @@ By the time she died, Pfeiffer had become one of the most famous women in the wo
 
 |<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t12.JPG">John van Wyhe at Lake Toba, following in Ida Pfeiffer’s footsteps.
 
-<br>
+
 
 |<b>John van Wyhe</b> talks about the research process behind his book on Ida Pfeiffer and his assessment of her as a traveller and collector.
 
