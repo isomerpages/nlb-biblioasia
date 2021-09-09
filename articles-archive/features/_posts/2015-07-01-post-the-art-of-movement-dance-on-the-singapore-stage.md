@@ -6,6 +6,10 @@ layout: post
 ---
 #### **Tara Tan** profiles five trailblazers of the Singapore dance scene who have pushed the envelope and created a unique Singaporean dance identity.
 
+
+Dancers from the Singapore Dance Theatre take on contemporary ballet hits such as  Finnish choreographer Jorma Elo’s Glow-Stop. Courtesy of Singapore Dance Theatre.
+
+
 “The strange thing about all these gestures, these angular, sudden, jerky postures, these syncopated inflexions formed at the back of the throat, these musical phrases cut short, the sharded flights, rustling branches, hollow drum sounds, robot creaking, dances of animated puppets, is that: through the maze of gestures, postures, airborne cries, through their  gyrations and turns, leaving not even the smallest area of stage space unused, the meaning of a new bodily language no longer based on words but on signs emerges."
 
 — Antonin Artaud (The Theatre and its Double: Essays by Antonin Artaud;  Translated by Victor Corti, London: Calder Publications, 1970)
@@ -125,3 +129,7 @@ As a relatively young country, with  a relatively young arts scene, the artistic
 For what is art but a lens through  which to examine society, and in turn, ourselves? Artists speak of the cultural  inflections that influence their works,  that weave paths through classical arts,  gestures and rituals, that stir the desire  for a truer, more unique expression of  identity that Singapore can truly call its  own. Singapore’s history, from its time as a British trading port under colonial rule to a first-world metropolis, presents us in an unusual, liminal space. Perhaps there lies the meaning of evolving tradition to reflect relevance in modern times. To understand who we are, we should perhaps turn to  the most primitive of communication – the body – to decipher and find meaning in the gestures, signs and signifiers created by the  Singaporean dancer. 
 
 Artistic Director Janek Schergen of the SDT teaching a class. Courtesy of Singapore Dance Theatre.
+
+<p style="font-size:15px;"><b>Tara Tan</b> is a writer and designer who works in the intersection between art, design and  technology. She was a former arts reporter with The Straits Times, where she wrote on dance  and culture in Singapore.</p>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
