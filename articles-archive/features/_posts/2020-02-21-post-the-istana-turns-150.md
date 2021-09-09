@@ -225,10 +225,20 @@ of Singapore. (Call no.: RSING 959.57 OUR-[HIS])
 [^35]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160320-1.2.5.7), 20 Mar 2016, p. 6.
 [^36]:Sri Temasek, designed by Colonial Engineer Major John Frederick Adolphus McNair, is a two-storey bungalow built on the grounds of the Istana in 1869. During the colonial era, it was the residence of the colonial secretary or chief secretary. When Singapore attained self-government in 1959, Sri Temasek became the official residence of the prime minister of Singapore. However, none of the prime ministers have ever lived there.
 [^37]:Tan, W.K., et al. (2003). [*Gardens of the Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991) (p. 170). Singapore: National Parks Board. (Call no.: RSING q635.095957 GAR)
-[^38]:[Cheah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889795), 2019, p. 69; [The Istana](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203978341) (p. 97). (2019). Singapore: Marshall Cavendish Editions. (Call no.: RSING 725.17095957 IST)
-[^39]:
-[^40]:
-[^41]:
+[^38]:[Cheah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889795), 2019, p. 69; [*The Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203978341) (p. 97). (2019). Singapore: Marshall Cavendish Editions. (Call no.: RSING 725.17095957 IST)
+[^39]:Tan, A. (2013, November 21). Barn owl a surprise visitor at PM Lee Hsien Loong’s office. *The Straits Times*; Lam, L. (2017, August 26). Barn owl visits Prime Minister Lee Hsien Loong again, for the third time in five years. *The Straits Times*. Retrieved from The Straits Times website.
+[^40]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991), 2003, pp. 51 & 55
+[^41]:[Wong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889792), 2019, p. 39.
+[^42]:[Wong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889792), 2019, p. 55.
+[^43]:Cheah, 2019, p. 12.
+[^44]:
+[^45]:
+[^46]:
+[^47]:
+[^48]:
+Nur Asyiqin Mohamad Salleh. (2018, June 10). North Korean leader Kim Jong Un meets Prime Minister Lee Hsien Loong ahead of Trump-Kim summit. The Straits Times; Tan, D.W. (2018, June 11). Trump thanks PM Lee for Singapore’s hospitality, thinks Trump-Kim summit will ‘work out nicely’. The Straits Times. Retrieved from The Straits Times website.
+New picnic series lets more people enjoy the Istana grounds. (2017, November 17). The Straits Times. Retrieved from The Straits Times website.
+Tour of Istana garden for patients, caregivers. (2018, September 11). The Straits Times. Retrieved from The Straits Times website.
+Ang, P. (2019, September 12). Tickets to first public Istana event at night to mark 150 years available from Sept 13. The Straits Times. Retrieved from The Straits Times website.
+Zhuo, T. (2019, October 28). Step into Istana without stepping out of your house. The Straits Times. Retrieved from The Straits Times website.
 
-Tan, A. (2013, November 21). Barn owl a surprise visitor at PM Lee Hsien Loong’s office. The Straits Times; Lam, L. (2017, August 26). Barn owl visits Prime Minister Lee Hsien Loong again, for the third time in five years. The Straits Times. Retrieved from The Straits Times website.
-Tan, 2003, pp. 51 & 55
