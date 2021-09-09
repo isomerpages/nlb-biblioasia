@@ -230,15 +230,9 @@ of Singapore. (Call no.: RSING 959.57 OUR-[HIS])
 [^40]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991), 2003, pp. 51 & 55
 [^41]:[Wong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889792), 2019, p. 39.
 [^42]:[Wong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889792), 2019, p. 55.
-[^43]:Cheah, 2019, p. 12.
-[^44]:
-[^45]:
-[^46]:
-[^47]:
-[^48]:
-Nur Asyiqin Mohamad Salleh. (2018, June 10). North Korean leader Kim Jong Un meets Prime Minister Lee Hsien Loong ahead of Trump-Kim summit. The Straits Times; Tan, D.W. (2018, June 11). Trump thanks PM Lee for Singapore’s hospitality, thinks Trump-Kim summit will ‘work out nicely’. The Straits Times. Retrieved from The Straits Times website.
-New picnic series lets more people enjoy the Istana grounds. (2017, November 17). The Straits Times. Retrieved from The Straits Times website.
-Tour of Istana garden for patients, caregivers. (2018, September 11). The Straits Times. Retrieved from The Straits Times website.
-Ang, P. (2019, September 12). Tickets to first public Istana event at night to mark 150 years available from Sept 13. The Straits Times. Retrieved from The Straits Times website.
-Zhuo, T. (2019, October 28). Step into Istana without stepping out of your house. The Straits Times. Retrieved from The Straits Times website.
-
+[^43]:[Cheah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889795), 2019, p. 12.
+[^44]:Nur Asyiqin Mohamad Salleh. (2018, June 10). North Korean leader Kim Jong Un meets Prime Minister Lee Hsien Loong ahead of Trump-Kim summit. *The Straits Times*; Tan, D.W. (2018, June 11). Trump thanks PM Lee for Singapore’s hospitality, thinks Trump-Kim summit will ‘work out nicely’. *The Straits Times*. Retrieved from The Straits Times website.
+[^45]:New picnic series lets more people enjoy the Istana grounds. (2017, November 17). *The Straits Times*. Retrieved from The Straits Times website.
+[^46]:Tour of Istana garden for patients, caregivers. (2018, September 11). *The Straits Times*. Retrieved from The Straits Times website.
+[^47]:Ang, P. (2019, September 12). Tickets to first public Istana event at night to mark 150 years available from Sept 13. *The Straits Times*. Retrieved from The Straits Times website.
+[^48]:Zhuo, T. (2019, October 28). Step into Istana without stepping out of your house. *The Straits Times*. Retrieved from The Straits Times website.
