@@ -66,3 +66,20 @@ When the Japanese surrendered in September 1945, the British returned and reoccu
 The biggest transformation to the building took place after 1959, when Singapore embarked on its road to independence and the Istana became a symbol of an increasingly independent Singapore and not of colonial Britain.
 
 When Singapore achieved internal self-government in 1959, Government House was renamed Istana Negara Singapura, or Palace of the State of Singapore. This was shortened to The Istana when Singapore separated from the Federation of Malaysia on 9 August 1965 to become an independent, sovereign nation.
+
+From housing colonial governors who hailed from Britain, the Istana became the designated official residence for the presidents of Singapore. The last governor of Singapore was William Allmond Codrington Goode, who served as the Yang di-Pertuan Negara (Malay for “Head of State”) from June to December 1959, before making way for Yusof Ishak, the first local-born Head of State. When Singapore gained independence, Yusof was sworn in as the country’s first president.
+
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana4.JPG">
+<div style="background-color: white;">President Yusof Ishak and Puan Noor Aishah with their children at Sri Melati, c. 1960s. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
+
+While the Istana still remains the official residence of Singapore’s presidents, only two have actually lived on the Istana grounds and, even then, not in the main building: Yusof lived in an outlying bungalow named Sri Melati, which was built in 1869 to house the colonial under-secretaries.17 Third president Devan Nair lived in the Lodge, which was built to replace Sri Melati after it was torn down in the 1970s when termite infestation rendered it structurally unsafe.
+
+Yusof explained at the time when he became Head of State that he felt that the Istana’s main building was too lavish for him and his three children. The family stayed in Sri Melati for 11 years, between 1959 and 1970, where Yusof indulged in his passion for gardening by growing papayas and orchids.18 Devan Nair and his family lived in the Lodge between 1981 and 1985.19 The other presidents, on the other hand, felt more comfortable living in their own homes elsewhere in Singapore.
+
+Aside from its occupants, the way of life in the Istana also changed when local staff ran the Istana after the British left. In 1960, the first Asian Comptroller of Household Jean Leembruggen, a Eurasian from Melaka, was appointed. Her husband, Geoffrey Leembruggen, was then acting permanent secretary at the Ministry of Health.
+
+
+Puan Noor Aishah (second from right), wife of Singapore’s first president, Yusof Ishak, seen here hosting a reception at the Istana for delegates of the Red Cross Society seminar, 1966. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+Yusof’s wife, First Lady Puan Noor Aishah, personally supervised the menu and food preparation in the Istana, from English-style fare like roast beef and Yorkshire pudding to local favourites.20 The skilled home chef introduced dishes like nasi sambal, chicken rendang and chap chye which were served to foreign nitaries. She was particularly well known for her gula melaka dessert made with sago, egg white and coconut milk.21 The First Lady was also known for her shrimp and sardine sambal sandwich rolls:
+
+“I wanted something different so instead of cutting the sandwiches into triangles or rectangles like usual sandwiches, I would roll them up and cut them into circular segments like a Swiss Roll. That way, the ‘sandwiches’ would be easier to eat… we usually had two fillings – sardines and shrimp sambal.”22
