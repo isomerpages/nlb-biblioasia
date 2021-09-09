@@ -88,8 +88,8 @@ The publisher of *Lao Nhay* also published other Lao works, such as the national
 
 French colonisation and the emergence of commercial publishers who used Western printing technology were key factors in the disruption of traditional methods of book production and consumption in Indochina. Their appearance saw greater diversity in the books produced, ranging from language guides and newspapers to modern novels – thereby overtaking traditional publications such as religious texts.
 
+<br>
 <div style="background-color: white;">
-<br/>
 <img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina7.jpg" style="width: 100px; height: 100px;">
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
 </div>
