@@ -139,7 +139,7 @@ As a relatively young country, with  a relatively young arts scene, the artistic
 
 For what is art but a lens through  which to examine society, and in turn, ourselves? Artists speak of the cultural  inflections that influence their works,  that weave paths through classical arts,  gestures and rituals, that stir the desire  for a truer, more unique expression of  identity that Singapore can truly call its  own. Singapore’s history, from its time as a British trading port under colonial rule to a first-world metropolis, presents us in an unusual, liminal space. Perhaps there lies the meaning of evolving tradition to reflect relevance in modern times. To understand who we are, we should perhaps turn to  the most primitive of communication – the body – to decipher and find meaning in the gestures, signs and signifiers created by the  Singaporean dancer. 
 
-Artistic Director Janek Schergen of the SDT teaching a class. Courtesy of Singapore Dance Theatre.
+Artistic Director Janek Schergen of the SDT teaching a class. <i>Courtesy of Singapore Dance Theatre.</i>
 
 <p style="font-size:15px;"><b>Tara Tan</b> is a writer and designer who works in the intersection between art, design and  technology. She was a former arts reporter with The Straits Times, where she wrote on dance  and culture in Singapore.</p>
 
