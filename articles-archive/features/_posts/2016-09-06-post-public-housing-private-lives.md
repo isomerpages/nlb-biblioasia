@@ -161,11 +161,11 @@ Yong, C. (2013, May 17). Hard for old-timers to say goodbye. The Straits Times. 
 
 [^6]:[Wong & Guillot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12644453), 2005, p. 61.
 
-[^7]:Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 11]. Retrieved from National Archives of Singapore website.
+[^7]:Soh, E. K. (Interviewer). (1997, May 20). *[Oral history interview with Alan Choe Fook Cheong](http://www.nas.gov.sg/archivesonline/viewer?uuid=53e51e73-115e-11e3-83d5-0050568939ad-OHC001891_007)* [Transcript of Recording No. 001891/18/7, p. 11]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
-[^8]:Loh, K. S. (2013). Squatters into citizens: The 1961 Bukit Ho Swee fire and the making of modern Singapore (p. 214). Singapore: Asian Studies Association of Australia in association with NUS Press and NIAS Press. Call no.: RSING 307.76095957 LOH
+[^8]:Loh, K. S. (2013). *[Squatters into citizens: The 1961 Bukit Ho Swee fire and the making of modern Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200124548)* (p. 214). Singapore: Asian Studies Association of Australia in association with NUS Press and NIAS Press. Call no.: RSING 307.76095957 LOH
 
-[^9]:Wong & Guillot, 2005, p. 57 
+[^9]:[Wong & Guillot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12644453), 2005, p. 57 
 
 [^10]:Quah, I. (Interviewer). (1996, September 12). *[Oral history interview with Liu Thai Ker](http://www.nas.gov.sg/archivesonline/viewer?uuid=4c0c04fb-115e-11e3-83d5-0050568939ad-OHC001732_016)* [Transcript of Recording No. 001732/29/13, p. 109]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/) website.
 
