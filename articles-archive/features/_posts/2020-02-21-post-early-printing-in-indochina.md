@@ -6,7 +6,7 @@ layout: post
 ---
 #### In the first of two essays on the history of printing in mainland Southeast Asia, **Gracie Lee** examines the impact of the printing press in Vietnam, Cambodia and Laos.
 
-<img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina5.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina5.JPG">
 <div style="background-color: white;">Lexique Francais-Laocien (1904) by French Catholic missionary Marie-Joseph Cuaz, regarded by some as the first dictionary of Laos. The dictionary was an extension of a French-Siamese dictionary that he had published earlier. <i>Harvard University Library. Retrieved from Internet Archive website.</i></div>
 
 Printing in Southeast Asia was largely established on the back of European colonialism and expansion in the region. Motivated by the need to disseminate official government information and Christian knowledge, colonial governments and missionary societies set up the earliest printing presses in Southeast Asia and introduced Western printing methods such as letterpress aprinting[^1] and lithography[^2].
@@ -21,14 +21,14 @@ While most countries in mainland Southeast Asia were introduced to printing tech
 
 The spread of printing in the country is commonly attributed to the 15th-century Vietnamese scholar Luong Nhu Hoc, who imparted the craft to the villages of Hong Lac and Lieu Trang in Hai Hung province. As a result, these villages later prospered as centres of printing. Some of these artisans, who specialised in woodblock engraving and paper-making, later relocated and set up publishing houses in the capital Thang Long (present-day Hanoi), which grew as an urban centre for book publishing and retail. In 1820, the Nguyen dynasty (1802–1945) – the last royal house of imperial Vietnam – sought to consolidate all printing in its new capital Hue.[^6]
 
-<img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina1.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina1.JPG">
 <div style="background-color: white;">The Chinh Hoa edition of <i>Dai Viet su ky toan thu</i> (<i>Complete Book of the History of Great Viet</i>; 1697). It is widely regarded as the oldest printed book in Vietnam. The work was compiled by the royal historian Ngo Si Lien in the 15th century, and updated by successive historians. <i>Retrieved from Wikimedia Commons.</i></div>
 
 The oldest printed book in Vietnam is widely regarded to be the Chinh Hoa edition (named after the Chinh Hoa reign era which lasted from 1680 to 1705) of *Dai Viet su ky toan thu* (*Complete Book of the History of Great Viet*; 1697). This monumental work was compiled by the royal historian Ngo Si Lien of the Le dynasty (1428–1789) in the 15th century, and updated by successive historians.[^7]
 
 Scholars generally concur that locally produced books were accessible in Vietnam by the 15th century, at least among the intellectual elite, a class created by the country’s institutionalised system of court examinations modelled on the Chinese bureaucracy. These texts existed alongside manuscripts and books imported from China. Up until the early 20th century, woodblock printing was the main technique used in Vietnam, and texts were written in either classical Chinese or *chu nom* – Chinese characters that had been adapted for the Vietnamese language.[^8]
 
-<img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina2.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina2.JPG">
 <div style="background-color: white;">The title page of <i>Dai Nam Quac Am Tu Vi</i> (The Dictionary of National Language; 1895) by scholar Paulus Cua (Vietnamese name Huynh Tinh Cua). This is the first Vietnamese-authored dictionary in <i>quoc ngu</i>. The two-volume work was published in Saigon. <i>Retrieved from Wikimedia Commons.</i></div>
 
 The period of French colonisation dramatically altered the traditional print culture of Vietnam: it introduced Western typographic processes and increased the popularity of *quoc ngu*, a Romanised writing system for Vietnamese. The government presses established by the French administration in Cochinchina (South Vietnam) in 1862 and Tonkin (North Vietnam) in 1883 were among the earliest printing presses in Vietnam.
@@ -47,7 +47,7 @@ Compared to Vietnam, printing in Cambodia developed much later. Scholars have at
 
 Printing was introduced to Cambodia during the period of the French Protectorate (1863–1953). Until the 1880s, many of the earliest publications about Cambodia were published outside the kingdom, in particular Vietnam, and were in French. Examples include the *Bulletin officiel de l’Expedition de Cochinchine* (1862) and the *Bulletin officiel du Cambodge* (1884). The latter is the first official organ and administrative bulletin of colonial Cambodia.
 
-<img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina3.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina3.JPG">
 <div style="background-color: white;">Portrait of French linguist Etienne Aymonier, 1883. He compiled the first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> (1878), with assistance from local interpreter Son Diep. <i>Bibliothèque nationale de France.</i></div>
 
 Privately published works such as French linguist Etienne Aymonier’s collection of popular Khmer folklores were also produced in Vietnam. Lithographed in Saigon in 1878, this bilingual work – in Khmer and French – is regarded as the first collection of Cambodian oral tales ever recorded on paper in the vernacular. Additionally, Aymonier compiled the first Khmer-French dictionary, *Dictionnaire Khmer-Francais* (1878), in Saigon with assistance from local interpreter Son Diep.[^12]
@@ -62,7 +62,7 @@ The need to educate also spurred the publishing of textbooks in the vernacular. 
 
 No overview on the history of printing in Cambodia would be complete without mentioning the history of printing in the Khmer script. Most sources cite the first Khmer type fonts as being cast at the Imprimerie Nationale, the official printing office of the French government, in Paris in 1877. However, type designer Zachary Scheuren has pointed out that, as early as the 1840s, Austrian printer Alois Auer’s *Sprachenhalle*, a magnum opus containing more than 600 language samples, had already included a Khmer font type called “Kambog’a”.[^15]
 
-<img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina4.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina4.JPG">
 <div style="background-color: white;">The first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> ( 1878), was published in Saigon using lithography. Cornell University Library. <i>Retrieved from HathiTrust website.</i></div>
 
 The person most associated with the pioneering development of Khmer font types is Marie-Joseph Guesdon. Guesdon was a French Jesuit priest who arrived in Cambodia in 1874, where he cultivated an abiding interest in the country and its language. On his return to Paris, Guesdon cast his own Khmer types in 1894, and collaborated with French publishing house Plon-Nourrit to release books in Khmer. More importantly, Guesdon was very likely the unnamed French missionary who participated in the design of Parisian foundry Deberny & Cie’s Khmer font types. These types were later supplied to major printers of Cambodian works, such as the Imprimerie du Protectorat, Plon-Nourrit and F.H. Schneider, and used in a wide array of publications from the turn of the 20th century.[^16]
@@ -81,7 +81,7 @@ In 1935, the first Lao grammar book was published under the auspices of the Inst
 
 The first Lao-language newspaper, *Lao Nhay*, which means “Great Laos”, was published only in 1941 as part of a Vichy French-sponsored nationalist movement. The fortnightly periodical featured political news, articles on local life as well as literary works. The newspaper also issued a French supplement, *Pathet Lao* (*Lao-land*), for the French-educated Lao elite. In 1945, during the Japanese Occupation, *Lao Nhay* was supplanted by *Lao Chaleun* (*Prosperous Lao*), a Japanese-sponsored newspaper.[^21]
 
-<img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina6.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina6.JPG">
 <div style="background-color: white;">Front page of <i>Lao Nhay (Great Laos)</i>, the first newspaper published in the Lao language. <i>Image reproduced from Ivarsson, S. (2008). Creating Laos: The Making of a Lao Space between Indochina and Siam, 1860–1945 (p. 151). Copenhagen: NIAS. (Call no.: RSEA 959.403 IVA).</i></div>
 
 The publisher of *Lao Nhay* also published other Lao works, such as the national anthem of Laos and the first modern Lao novel, *Phraphuttharup Saksit* (*The Sacred Buddha Image*; 1944). Written by Pierre Somchine Nginn under the pen name Lao Chindamani, the story follows a detective of French and Lao descent as he investigates the disappearance of a Buddha statue from the Wat Si Saket temple in Vientiane. The book has an introduction in French as well as a French title, *La Statuette Merveilleuse: Nouvelle Laotienne*.[^22]
