@@ -1,9 +1,10 @@
 ---
 title: "The Art of Movement: Dance On The Singapore Stage"
 date: 2015-07-01
-permalink: /articles-archive/features/permalink
+permalink: /vol-11/issue-2/jul-sep-2015/art-of-movement
 layout: post
 ---
+
 #### **Tara Tan** profiles five trailblazers of the Singapore dance scene who have pushed the envelope and created a unique Singaporean dance identity.
 
 
