@@ -109,4 +109,12 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 *The author wishes to thank the Singapore Department of Statistics for reviewing the essay. The National Library’s latest exhibition “On Paper: Singapore Before 1867”, held at level 10 of the National Library Building until 22 March 2020, features a scribal copy of the 1827 census of Singapore.*
 
+|BITING DOGS, CAPSIZED BOATS AND STRIKING WORKERS: STORIES FROM THE 1947 CENSUS
+
+|By Jimmy Yap
+
+|In general, carrying out a census is no easy task. However, back when Singapore was not as urbanised as it is now, counting its inhabitants was particularly challenging. Newspaper accounts of how the 1947 census was conducted give a good sense of the issues faced by census takers (or enumerators as they are more properly known).
+
+|The 1947 census was an important one, being the first undertaken after the war. It was a massive exercise that included all towns, villages, people living in the jungles and on boats and houses built out at sea, and even passengers on trains.19
+
 #### **Notes**
