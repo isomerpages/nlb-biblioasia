@@ -149,7 +149,7 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 |This is not to say that census officials working in the city had an easy time. Some had to be given police escorts because as the Deputy Superintendent of the Census put it, in some parts of Singapore, “they would knock you on the head if you asked them their names”.31
 
-|Sometimes the census officials would get help from unexpected sources, as one newspaper story reported. |“The Singapore Rubber Workers’ Union yesterday took time off from conducting a strike and a ‘squat’ to help the Deputy Superintendent of Census, Mr R.H. Oakeley, get census particulars from 120 recalcitrant workers”.32
+|Sometimes the census officials would get help from unexpected sources, as one newspaper story reported. “The Singapore Rubber Workers’ Union yesterday took time off from conducting a strike and a ‘squat’ to help the Deputy Superintendent of Census, Mr R.H. Oakeley, get census particulars from 120 recalcitrant workers”.32
 
 |The official report of the 1947 census – released in October 1949 – gave Singapore’s population as 940,824, which was almost double the figure for the 1931 census.33
 
