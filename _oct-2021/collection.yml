@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - changi-airport/.keep
+      - changi-airport/how-changi-airport-came-to-be.md
       - unravelling-the-mystery-of-ubins-german-girl-shrine.md
