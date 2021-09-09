@@ -43,3 +43,42 @@ In 1865, the first newspaper in Romanised Vietnamese, *Gia Dịnh Bao* (*News of
 
 #### **Cambodia**
 
+Compared to Vietnam, printing in Cambodia developed much later. Scholars have attributed this to factors such as the small literate class, the challenges of creating printing types in the Khmer language, and resistance from traditionalist monks who saw the copying of religious texts as a sacred performative act that was integral to the practice of merit-making.11
+
+Printing was introduced to Cambodia during the period of the French Protectorate (1863–1953). Until the 1880s, many of the earliest publications about Cambodia were published outside the kingdom, in particular Vietnam, and were in French. Examples include the *Bulletin officiel de l’Expedition de Cochinchine* (1862) and the *Bulletin officiel du Cambodge* (1884). The latter is the first official organ and administrative bulletin of colonial Cambodia.
+
+<img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina3.JPG">
+<div style="background-color: white;">Portrait of French linguist Etienne Aymonier, 1883. He compiled the first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> (1878), with assistance from local interpreter Son Diep. <i>Bibliothèque nationale de France.</i></div>
+
+Privately published works such as French linguist Etienne Aymonier’s collection of popular Khmer folklores were also produced in Vietnam. Lithographed in Saigon in 1878, this bilingual work – in Khmer and French – is regarded as the first collection of Cambodian oral tales ever recorded on paper in the vernacular. Additionally, Aymonier compiled the first Khmer-French dictionary, *Dictionnaire Khmer-Francais* (1878), in Saigon with assistance from local interpreter Son Diep.12
+
+It was not until around 1886 that the first official printing press in Cambodia, the Imprimerie du Protectorat, was established by the French in Phnom Penh. One of its earliest publications was the first printed periodical in Cambodia titled *Annuaire Illustre du Cambodge* (1890).
+
+In the early 20th century, a royal printing office was set up in the palace in Phnom Penh to publish sutras (Buddhist scriptures), laws and regulations. Its maiden publication was likely the programme sheet produced in French for the inauguration of the Preah Keo pagoda, titled *Programme des fetes donnees a l’occasion de l’inauguration de la Pagode de Prah Keo en* 1903 (1903). In 1911, the first official gazette in the Khmer script, *Reachekech* (Royal Gazette), commenced publication. It remains in circulation today, although primarily as an online publication.13
+
+The European concept of the printed book as a tool for the dissemination of information marked a paradigm shift from the traditional textual practices of Cambodia. As this view gained wider acceptance in Cambodian society from the early 20th century onwards, a number of French and Cambodian printing houses began opening in Phnom Penh, and published secular works such as newspapers and local literature.
+
+The need to educate also spurred the publishing of textbooks in the vernacular. Cambodia’s first newspaper, *Le Petit Cambodgien*, made its appearance around 1899. The biweekly newspaper was published privately and produced using lithography. The first Cambodian newspaper printed by typography was *La Gazette Khmer* (1918–1919).14
+
+No overview on the history of printing in Cambodia would be complete without mentioning the history of printing in the Khmer script. Most sources cite the first Khmer type fonts as being cast at the Imprimerie Nationale, the official printing office of the French government, in Paris in 1877. However, type designer Zachary Scheuren has pointed out that, as early as the 1840s, Austrian printer Alois Auer’s *Sprachenhalle*, a magnum opus containing more than 600 language samples, had already included a Khmer font type called “Kambog’a”.15
+
+<img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina4.JPG">
+<div style="background-color: white;">The first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> ( 1878), was published in Saigon using lithography. Cornell University Library. <i>Retrieved from HathiTrust website.</i></div>
+
+The person most associated with the pioneering development of Khmer font types is Marie-Joseph Guesdon. Guesdon was a French Jesuit priest who arrived in Cambodia in 1874, where he cultivated an abiding interest in the country and its language. On his return to Paris, Guesdon cast his own Khmer types in 1894, and collaborated with French publishing house Plon-Nourrit to release books in Khmer. More importantly, Guesdon was very likely the unnamed French missionary who participated in the design of Parisian foundry Deberny & Cie’s Khmer font types. These types were later supplied to major printers of Cambodian works, such as the Imprimerie du Protectorat, Plon-Nourrit and F.H. Schneider, and used in a wide array of publications from the turn of the 20th century.16
+
+#### **Laos**
+
+Of the three states in French Indochina, Laos was the last to adopt modern printing technology, with the first Lao publications reportedly produced only in the early 20th century. During the period of French colonisation (1893–1953), official publications on Laos were mostly published in Vietnam or France. Thailand was also a source of Lao printed works.
+
+During the 1930s, monks in the capital Vientiane were said to have procured printed traditional Lao stories from northeastern Thailand and re-copied them onto palm leaves for circulation. Due to its late introduction, the high cost of printing and the small readership base, book production remained low in Laos in the early 20th century.17
+
+Some of the earliest Lao publications were language guides. The Imprimerie de la Société des Missions-Etrangères, a Catholic press in Hong Kong, released Lexique Francais-Laocien in 1904 and Dictionnaire Laotien-Francais in 1912.
+
+In 1935, the first Lao grammar book was published under the auspices of the Institut Bouddhique (Buddhist Institute) established in Vientiane by the French in 1931. The four-volume work, based on the study of Buddhist texts in the Lao language, was compiled by Maha Sila Viravong, regarded as one of the greatest modern scholars of Laotian history and literature.18 Sila Viravong also wrote Phongsawadan Lao (A Lao History), which was used as a school textbook for many years. Published by the Lao Ministry of Education in 1957, the text remains a standard reference on Lao history today.19
+
+ The French colonial government press, the Imprimerie du Gouvernement du Laos, was established in Vientiane by the 1910s. Among its earliest publications was Essai de Cours de Langue Laotienne (1917), a Lao language textbook written for French speakers by Pierre Le Ky Huong. Le was the Vietnamese director of the Lao government printing office and translator for the Resident-Superieur (the chief colonial official who answered to the Governor-General of Indochina). An early proponent of the standardisation of written Lao, Le also initiated the publication of Chot Mai Het Lao, the Lao edition of the Bulletin Officiel Laotien, a government communique in French.20 However, its exact year of publication cannot be ascertained.
+
+
+Front page of Lao Nhay (Great Laos), the first newspaper published in the Lao language. Image reproduced from Ivarsson, S. (2008). Creating Laos: The Making of a Lao Space between Indochina and Siam, 1860–1945 (p. 151). Copenhagen: NIAS. (Call no.: RSEA 959.403 IVA).
+The first Lao-language newspaper, Lao Nhay, which means “Great Laos”, was published only in 1941 as part of a Vichy French-sponsored nationalist movement. The fortnightly periodical featured political news, articles on local life as well as literary works. The newspaper also issued a French supplement, Pathet Lao (Lao-land), for the French-educated Lao elite. In 1945, during the Japanese Occupation, Lao Nhay was supplanted by Lao Chaleun (Prosperous Lao), a Japanese-sponsored newspaper.21
