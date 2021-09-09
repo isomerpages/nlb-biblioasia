@@ -88,3 +88,75 @@ Yusof’s wife, First Lady Puan Noor Aishah, personally supervised the menu and 
 Puan Noor Aishah also trained the Istana’s chefs to whip up her signature dishes which included curry puffs and *kueh onde onde*.23 One of her trainees, Wong Shang Hoon, is still said to be cooking up a storm in the Istana today.
 
 After Singapore gained independence in 1965, the new nation began establishing diplomatic ties with other countries, and soon, visitors from foreign countries started streaming in. Memorable visits include those by West German Chancellor Helmut Schmidt, China’s Deng Xiaoping and Queen Elizabeth II of the United Kingdom. Queen Elizabeth visited Singapore in 1972, 1989 and 2006 and each of her visits caused much excitement among the Istana’s household staff. Senior Butler Ismail Abdul Ghani recalled meeting her in 1972 and 2006.24
+
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana6.JPG">
+<div style="background-color: white;">Among the guests who visited the Istana were Queen Elizabeth II and the Duke of Edinburgh Prince Philip. Here they are seen chatting with Speaker of Parliament Yeoh Ghim Seng during a state banquet hosted by President Benjamin Sheares (in the background) at the Istana on 18 February 1972. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+“The first time I met Queen Elizabeth, I was one of two Istana butlers who was assigned to attend to her personal needs. I didn’t think she would remember me. But when I next saw her, at an event where all the butlers lined up in a row to greet her, she stopped when she came to me and said – ‘I remember you’. I felt so happy!”25
+
+Sometimes, visitors were invited to stay at the Istana. The guest facilities, which no longer exist today, comprised two rows of five rooms on the second floor of the main building. Guests were supplied with Lux brand soap, one box of detergent in the form of soap flakes as well as toothbrushes and toothpaste.26 VIPs who had spent the night at the Istana include Emperor Haile Selassie of Ethiopia, who stayed with his two pet dogs in 1968,27 and Chinese leader Deng Xiaoping in 1978.
+
+Yusof and his wife also opened up the Istana to ordinary Singaporeans. Puan Noor Aishah was the Patron of Girl Guides Singapore, and she would invite the Guides to hold their annual campfire on the Istana grounds once a year.28 Puan Noor Aishah’s life changed dramatically after she became First Lady:
+
+“Life used to be simple. But once we moved into the Istana, we became very busy; there were many changes in our lives and there was a lot of protocol to observe. I remember there would be courtesy calls in the morning, tea parties in the afternoon, and I had to meet many charity organisations which were coming to me for help. All the meetings and social gatherings were necessary as we were new and we  had to get  to know people  to win their  confidence.29
+
+It was Yusof who started the Istana’s open house tradition. The very first open house event took place on 1 January 1960, between 8 am and 6 pm, on New Year’s Day. Numerous slides, swings and seesaws were trotted out for children, while the police band entertained the public.30
+
+#### **The First Major Renovations**
+
+By the time Singapore’s fifth president Ong Teng Cheong took over, the Istana had stood for over 120 years and was in need of a major overhaul.
+
+Renovation works were carried out between 1996 and 1998. This was the Istana’s first major infrastructural upgrade, and the aim was to create more room for state functions and to replace the building’s ageing mechanical and electrical services while preserving its heritage features. Ong, who served as president from 1993 to 1999, explained the need for the makeover:
+
+“[The Istana] is a stately building, very grand, very symmetrical, as it should be for an institutional building. But internally, it needs refurbishing. Where we can, we will try to renovate the place and try to bring back its old grace.”41
+
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana9.JPG">
+<div style="background-color: white;">With its swagged valances, arched fanlights and draperies in a woven damask fabric, the Reception Hall of the Istana provides an elegant setting for guests. <i>Courtesy of Marshall Cavendish and the Istana.</i></div>
+
+Many new features were added, including centralised air-conditioning, mechanically activated louvres, restored timber rafters and beams, automatic sliding doors and a dedicated Ceremonial Plaza with four flagpoles for military displays. Previously, these displays were performed at the airport when foreign guests disembarked from the aeroplane.42
+
+The Istana gardens were also overhauled and professionally landscaped, a Herculean effort that took the team two years and which involved making trips to countries such as Australia to source for unusual plants.
+
+The front lawn of the main garden was originally designed as a traditional European garden.43 To frame the Istana’s main building upon approach, the team transplanted 18 majestic meninjau trees, each soaring over 10 metres in height, from other parts of Singapore to the periphery of the circular front lawn.
+
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana10.JPG">
+<div style="background-color: white;">Sunrise from the Presidential Balcony of the Istana, 2006. Photo by Russel Wong. <i>Istana Art Collection, courtesy of National Heritage Board.</i></div>
+
+#### **The Istana Today**
+
+The main building of the Istana exudes elegance, while retaining its heritage and historical roots.
+
+State gifts bestowed by foreign visitors are showcased in the main building as well as at the Istana Heritage Gallery, which is located at the Istana Park opposite the Istana’s main entrance facing Orchard Road. The walls of the main building are also decorated with artworks by local artists, some commissioned by former presidents.
+
+Foreign VIPs continue to pass through the halls of the Istana, among them US President Donald Trump and North Korean leader Kim Jong Un, who were in Singapore for the historic Trump-Kim Summit on 12 June 2018. Prime Minister Lee Hsien Loong hosted Kim at the Istana on 10 June, while Trump and his delegation attended a working lunch there on 11 June.44
+
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana11.JPG">
+<div style="background-color: white;">Prime Minister Lee Hsien Loong and US President Donald Trump enjoying a working lunch with their teams at the Istana on 11 June 2018, ahead of the Trump-Kim Summit held in Singapore on 12 June. <i>Photo by Ministry of Communications and Information.</i></div>
+
+For many Singaporeans, the Istana is a place associated with the highest honours in the land. All manner of ceremonies honouring individuals at the top of their professions are held there, such as the President’s Award for Teachers, the President’s Award for Nurses and the Cultural Medallion.
+
+A total of eight presidents have passed through the halls of the Istana. The current president is Madam Halimah Yacob, Singapore’s first female president.
+
+Madam Halimah declared at the beginning of her term in 2017 that she wanted to make the Istana grounds more accessible to the people, including the elderly and those with special needs. She launched the Picnic@Istana series when she took office, where four picnics would  be held each year for underprivileged children as well as those with special needs.45 Another programme that she initiated, Garden Tours@Istana, has welcomed senior citizens, hospice patients and their caregivers, and patients from the Institute of Mental Health.46
+
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana12.JPG">
+<div style="background-color: white;">As part of her plans to open up the Istana to even more people, President Halimah Yacob started a series of picnics and garden tours. Here she is seen mingling with patients from Metta Hospice Care and Singapore General Hospital during a garden tour on 30 July 2019. <i>Photo by Ministry of Communications and Information.</i></div>
+
+On 6 October 2019, the Istana held its very first open house event at night, hosted by Madam Halimah and her husband Mohamed Abdullah Alhabshee, to mark its 150th anniversary. Highlights included a lightshow on the walls of the main building depicting the Istana’s heritage and history over the years, and performances by the Singapore Symphony Orchestra and other local talents.47
+
+Soon after, the Istana launched an interactive multimedia website with augmented reality features titled “Inside the Istana” in collaboration with *The Straits Times*. The website allows people to “walk around” the Istana and experience the sights and sounds on their computers or smartphones.48
+
+While the Istana may have started out as symbol of imperial strength and power 150 years ago, today it is a national icon and occupies a special place close to the hearts of Singaporeans.
+
+ 
+
+ <br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana13.jpg" style="width: 100px; height: 100px;">
+<b>Wong Sher Maine</b> is a freelance writer who has written two books about the Istana: Our Istana was published in 2015, while 50 Best Kept Secrets of the Istana: People and Places was published in 2019.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
+
+#### **Notes**
+
