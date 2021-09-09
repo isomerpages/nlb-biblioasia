@@ -131,8 +131,48 @@ Critics may characterise – or caricature – HDB life as compartmentalised, em
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/public-housing-private-lives/yu-mei.png">
 	<b>Yu-Mei Balasingamchow</b> is the co-author of <i>Singapore: A Biography</i> (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is [www.toomanythoughts.org](https://www.toomanythoughts.org).
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+
+#### **References**
+
+Centre for Liveable Cities. (2015). *[Built by Singapore: From slums to a sustainable built environment](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202358876)* (p. 17). Singapore: Centre for Liveable Cities. Retrieved from PublicationSG.
+
+[Homes for 60,000 people](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601208-1.2.34.aspx). (1960, December 8). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+
+*[Singapore: The first ten years of independence, 1965 to 1975](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=12885060)* (p. 198). (2007). Singapore: National Library Board and National Archives of Singapore. Call no.: RSING 959.5705 SIN-[HIS]
+
+Yong, C. (2013, May 17). Hard for old-timers to say goodbye. The Straits Times. Retrieved from AsiaOne website.
+
+#### **Notes**
+
+Wong, T. C., & Guillot, X. (2005). A roof over every head: Singapore’s housing policy between state monopoly and privatisation (p. 68). Calcutta: Sampark. Call no.: RSING 363.5095957 WON
+Gifford, R. (2007). The consequences of living in highrise buildings. Architectural Science Review, 50, 2. Retrieved from University of Victoria website.
+Fernandez, W. (2011). Our homes: 50 years of housing a nation (p. 49). Singapore: Straits Times Press. Call no.: RSING 363.585095957 FER
+Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 3]. Retrieved from National Archives of Singapore website.
+Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 3]. Retrieved from National Archives of Singapore website.
+Wong & Guillot, 2005, p. 61.
+Soh, E. K. (Interviewer). (1997, May 20). Oral history interview with Alan Choe Fook Cheong [Transcript of Recording No. 001891/18/7, p. 11]. Retrieved from National Archives of Singapore website.
+Loh, K. S. (2013). Squatters into citizens: The 1961 Bukit Ho Swee fire and the making of modern Singapore (p. 214). Singapore: Asian Studies Association of Australia in association with NUS Press and NIAS Press. Call no.: RSING 307.76095957 LOH
+Wong & Guillot, 2005, p. 57 
+Quah, I. (Interviewer). (1996, September 12). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/13, p. 109]. Retrieved from National Archives of Singapore website.
+Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/16, p. 143]. Retrieved from National Archives of Singapore website.
+Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/16, p.143]. Retrieved from National Archives of Singapore website.
+Quah, I. (Interviewer). (1996, September 12). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/13, p. 115]. Retrieved from National Archives of Singapore website.
+Liu, T. K. (1983). A review of public housing in Singapore (p. 9). Singapore: National Trades Union Congress. Call no.: RSING 363.585095957 LIU
+National Heritage Board. (2016). The first point blocks. Retrieved from Roots website.
+Pruitt-Igoe, Cabrini-Green and Trellick Tower were large, high-rise public housing projects for low-income residents built from the 1950s to the early 70s. They soon became notorious for social problems such as gang activity, drug use and violence, and came to symbolise the pitfalls of mass urban housing.
+Vanderbilt, T. (2015, June 2). The psychology of skyscrapers. Fast Company. Retrieved from Fastcodesign website.
+Chua, B. H. (1997). Political legitimacy and housing: Stakeholding in Singapore (p. 113). London and New York: Routledge. Call no.: RSING 363.585 CHU
+Wong, A., & Yeh, S. (Eds.). (1985). Housing a nation: 25 years of public housing in Singapore (pp. 58 & 71). Singapore: Housing and Development Board. Call no.: RSING 363.5095957 HOU
+Hassan, R. (1977). Families in flats: A study of low income families in public housing (p. 112). Singapore: Singapore University Press. Call no.: RSING 301.443095957 HAS
+Liu, T. K. (1973). Reflections on problems and prospects in the second decade of Singapore’s public housing. In P. C. Chua. (Ed.), Planning in Singapore: Selected aspects & issues (p. 26). Singapore: Chopmen Enterprises. Call no.: RSING 711.2095957 CHU
+Quah, I. (Interviewer). (1996, January 22). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/14, p. 121]; Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/17, p. 149]. Retrieved from National Archives of Singapore website.
+Hassan, 1977, p. 60; Loh, 2013, p. 228.
+
+Liu, 1973, p. 30.
+
+Quah, I. (Interviewer). (1996, February 26). Oral history interview with Liu Thai Ker [Transcript of Recording No. 001732/29/17, p. 153]. Retrieved from National Archives of Singapore.
