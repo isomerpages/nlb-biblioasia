@@ -156,7 +156,7 @@ Chellapah was the third Associated Press photographer to die in Vietnam in less 
 
 He said, “Here are the last pictures by photographer Charlie Chellapah… This last roll of film was released by the authorities today along with his other personal effects. The pictures reveal, better than any words could, how close Chellapah was to the action up to the moment of his death.”[^30] The last photograph taken by him shows an American soldier holding a seriously wounded comrade.[^31]
 
-<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/va.jpg">
+<img style="width: 400px; height: 400px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/va.jpg">
 <div style="background-color: white;">The last photo that Charlie Chellapah shot before he was killed by a Viet Cong mine on 14 February 1966. It shows an American soldier holding a comrade who had been seriously wounded. <i>Photo from the Associated Press.</i></div>
 
 Associated Press made arrangements for Chellapah’s body to be flown back to Singapore. He was cremated and his ashes scattered in the sea off Bedok.[^32]
