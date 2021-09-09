@@ -7,7 +7,8 @@ layout: post
 #### **Tara Tan** profiles five trailblazers of the Singapore dance scene who have pushed the envelope and created a unique Singaporean dance identity.
 
 
-Dancers from the Singapore Dance Theatre take on contemporary ballet hits such as  Finnish choreographer Jorma Elo’s <i>Glow-Stop. Courtesy of Singapore Dance Theatre.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-2/artofmovement/glow_stop.jpg)
+<div style="background-color: white;">Dancers from the Singapore Dance Theatre take on contemporary ballet hits such as  Finnish choreographer Jorma Elo’s <i>Glow-Stop. Courtesy of Singapore Dance Theatre.</i></div>
 
 
 <i>“The strange thing about all these gestures, these angular, sudden, jerky postures, these syncopated inflexions formed at the back of the throat, these musical phrases cut short, the sharded flights, rustling branches, hollow drum sounds, robot creaking, dances of animated puppets, is that: through the maze of gestures, postures, airborne cries, through their  gyrations and turns, leaving not even the smallest area of stage space unused, the meaning of a new bodily language no longer based on words but on signs emerges."</i>
@@ -36,13 +37,17 @@ The work, while heavy in its balletic  stylistics, was infused with flavour that
 
 How do we forge a dance identity that we can call our own? How do we balance the influences of both Eastern and Western cultures, paying homage to both but subservient to neither? The journeys of these five trailblazers in dance will shed some light on the evolving language of the Singapore stage, and in the process, perhaps reveal some human insight into the struggle of the Singaporean identity.
 
-T.H.E Dance Company's <i>Bedfellows</i> (2013) was part of T.H.E's 5th anniversary celebrations, choreographed by Kuik Swee Boon, Lee Mun Wai and Yarra Ileto. <i>Courtesy of Matthew G. Johnson.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-2/artofmovement/T_H_E_5.jpg)
+<div style="background-color: white;">T.H.E Dance Company's <i>Bedfellows</i> (2013) was part of T.H.E's 5th anniversary celebrations, choreographed by Kuik Swee Boon, Lee Mun Wai and Yarra Ileto. <i>Courtesy of Matthew G. Johnson.</i></div>
 
 #### **“The Red Ballerina”**
 
 <i>Goh Lay Kuan, The Theatre Practice Ltd</i>
 
 Spirited dance doyenne Goh Lay Kuan  pushed boundaries not just in dance, but the politics governing 1970s Singapore.  Dubbed “The Red Ballerina” by the press, Goh and her late husband, theatre play- wright and director Kuo Pao Kun, were  arrested under the Internal Security Act in 1976 and detained without trial on suspicion that they had communist affiliations due to the politically-charged nature of their work. Some of their pieces, like <i>Gai Si De Cang Ying (Damn the Fly)</i>, raised sensitive issues about socio-political issues in Singapore.
+
+![Alt text for image on Isomer site](/images/vol-11-issue-2/artofmovement/mdm_goh.jpg)
+<div style="background-color: white;">Dancer Goh Lay Kuan, dubbed “The Red Ballerina”, left her mark on both art and society. <i>Courtesy of The Theatre Practice Ltd. </i></div>
 
 Born in Sumatra, Indonesia, in 1939, Goh left for Singapore as a child and  discovered a love for dance. Inspired by  fellow classmates Goh Soo Khim and  Goh Choo San, siblings who came from  a family of dancers, she enrolled as a  classical ballerina at the Victoria Ballet  Guild in Melbourne, Australia. In 1964,  Goh returned to Singapore to set up the  Singapore Performing Arts School in 1965 with her newly-wed husband, Kuo Pao Kun. The school was renamed Practice Theatre School in 1973 and has undergone several name changes over the years, most recently in 2010 to The Theatre Practice Ltd.
 
@@ -55,9 +60,8 @@ By the mid-1980s, the couple had been exonerated of any wrongdoing, and the  pro
 “She so successfully blended contemporary, East Asian, and Southeast  Asian dance forms and themes such that, even if one may discern traces of ballet,  and Indian, Malay and Chinese dances,  her final form was none of those: it was, simply, a dance choreographed by Goh,”  said Venka Purushothaman in his 2002  book on Cultural Medallion recipients.[^5]
 
 
-Dancer Goh Lay Kuan, dubbed “The Red Ballerina”, left her mark on both art and society. <i>Courtesy of The Theatre Practice Ltd. </i>
-
-A young Goh Lay Kuan at the first ballet class she taught at the Practice Theatre School. <i>Courtesy of The Theatre Practice Ltd.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-2/artofmovement/young_mdm_goh.jpg)
+<div style="background-color: white;">A young Goh Lay Kuan at the first ballet class she taught at the Practice Theatre School. <i>Courtesy of The Theatre Practice Ltd.</i></div>
 
 #### **Three Generations of Dance**
 
@@ -65,11 +69,10 @@ A young Goh Lay Kuan at the first ballet class she taught at the Practice Theatr
 
 Arriving in Singapore in 1959 from Kerala,  India, the then 15 year-old-dancer had no  idea what to expect from her arranged marriage to K. P. Bhaskar, a man she had never  met. All she knew was that he ran a small  dance school in Singapore, Bhaskar’s Arts  Academy.  “As  soon  as  my  plane  touched   down the runway, I saw the smiling faces of  Mr Bhaskar, students and friends. I didn’t  feel homesick. Not even for a second,” said  Santha Bhaskar.[^6] As a wide-eyed ingénue  to bustling Singapore, she started learning  more about Malay and Chinese cultures. She  recalled, “When I first came, I didn’t know  how Chinese faces looked like, or Malay faces  looked like. I’d never seen people eat with  chopsticks  before!”  The  learning  evolved from food – arguably the heart and soul of  Singapore – to her passion for dance. 
 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/artofmovement/young_santhan.jpg)
+<div style="background-color: white;">A young Santha Bhaskar performing to a Tamil poem for a function organised by <i>Tamil Murasu</i> held at the Victoria Theatre in 1957. <i>Courtesy of Santha Bhaskar. </i></div>
+
 As artistic director of Bhaskar’s Arts Academy, where she teaches Bharatnatyam dance, Bhaskar began exploring her new-found insights. Weaving Chinese, Malay and even Thai dance influences into her dance choreography, Bhaskar has staged key Asian works such as the classic Chinese folktale <i>Butterfly Lovers</i> (1958), as well as the Thai mythology <i>Manohra</i> (1996).
-
-A young Santha Bhaskar performing to a Tamil poem for a function organised by <i>Tamil Murasu</i> held at the Victoria Theatre in 1957. <i>Courtesy of Santha Bhaskar. </i>
-
-Santha Bhaskar with her late husband  K. P. Bhaskar. <i>Courtesy of Santha Bhaskar. </i>
 
 From the 100 students the academy had in the 1950s, the dance school has  more than 2,000 today. Bhaskar is also  artistic director and resident choreographer of NUS Indian Dance at the Centre for the Arts at the National University of Singapore, where she taught for over 20 years since the late 1970s.
 
@@ -79,11 +82,17 @@ At the Centre for the Arts, Bhaskar also dabbled in dance forms such as hip-hop 
 
 Even with the new influences, there  still remains a strong sense of tradition,  especially in this household of dance with three generations of dancers. “What I learnt from my mother, my teacher, I taught to my daughter, who taught it to her daughter. In a way, that becomes tradition,” Bhaskar said.[^8] She was awarded the Cultural Medallion for her work in dance in 1990.
 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/artofmovement/santhan_w_husband.jpg)
+<div style="background-color: white;">Santha Bhaskar with her late husband  K. P. Bhaskar. <i>Courtesy of Santha Bhaskar. </i></div>
+
 #### **A Family Affair** 
 
 <i>Som Mohamed Said, Sri Warisan Som Said Performing Arts</i>
 
 Dancer and entrepreneur Som Mohamed Said is one of the most recognisable names in Malay dance in Singapore today. Starting her dance career at Sriwana, one of Singapore’s pioneer dance troupes, she spent  three decades there, eventually rising to  the position of artistic director. At the same time, she also ran a thriving Malay wedding business. In 1997, with funds saved from  her bridal company, Som Said founded  Singapore’s first fully professional Malay  dance company, Sri Warisan Som Said  Performing Arts.
+
+![Alt text for image on Isomer site](/images/vol-11-issue-2/artofmovement/somsaid.jpg)
+<div style="background-color: white;">Som Mohamed Said is a pivotal force in the Malay dance scene. <i>Courtesy of Tribute.sg, an initiative of Esplanade – Theatres on the Bay.</i></div>
 
 A pivotal force in the Malay dance  scene, Som Said has spoken out about  the need for Singapore to develop its own approach to Malay dance and an identity it can call its own, instead of blindly following classical Indonesian traditions. With her performing arts troupe, she began to create and choreograph works that weave traditional Malay dance routines with contemporary  moves and multicultural elements. Some of her most frequent collaborators are Indian dancer Neila Sathyalingam and Chinese  dancer Yan Choong Lian, who co-created  pieces like <i>The Dance Harmony<i> and </i>Singapore City Lights.</i>
 
@@ -95,9 +104,8 @@ Som Said’s works often revolve around stories, legends and folk tales from the
 
 Today, Sri Warisan Som Said Performing Arts is one of the most prolific Malay dance companies in Singapore, having  performed in over 40 international events and 30 local productions in the past 18 years. The troupe has 25 performing artistes and is currently managed by Som Said’s son,  Adel Ahmad. Som Said received the Cultural Medallion for dance in 1987.
 
-Spot the multicultural influences in the costumes and props of Sri Warisan Som Said Performing Arts. <i>Courtesy of Sri Warisan Som Said Performing Arts.</i>
-
-Som Mohamed Said is a pivotal force in the Malay dance scene. <i>Courtesy of Tribute.sg, an initiative of Esplanade – Theatres on the Bay.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-2/artofmovement/dancer_of_sri_warisan.jpg)
+<div style="background-color: white;">Spot the multicultural influences in the costumes and props of Sri Warisan Som Said Performing Arts. <i>Courtesy of Sri Warisan Som Said Performing Arts.</i></div>
 
 #### **Chasing Dreams**
 
@@ -113,7 +121,8 @@ Kuik’s first full-length work, <i>Old Sounds</i>, was commissioned by the Nati
 
 To groom new talents in dance, Kuik set up T.H.E. Second Company to nurture the next generation of dancers. He also  started <i>Contact</i>, an annual dance festival  to showcase budding Asian dancers and  choreographers. Kuik was conferred the  Young Artist Award by the National Arts  Council in 2007.
 
-Kuik Swee Boon, who leads the contemporary dance group T.H.E. Dance Company, takes the leap in <i>Within, Without. Courtesy of Tan Ngiap Hen.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-2/artofmovement/Kuik_Swee_Boon.jpg)
+<div style="background-color: white;">Kuik Swee Boon, who leads the contemporary dance group T.H.E. Dance Company, takes the leap in <i>Within, Without. Courtesy of Tan Ngiap Hen.</i></div>
 
 #### **The Grand Dame of Dance** 
 
@@ -131,6 +140,9 @@ While the SDT is primarily a classical ballet company, it has taken on a few lan
 
 In 2013, the SDT moved to bigger  premises at the Bugis+ shopping mall on Victoria Street, after more than 20 years at the Fort Canning Centre. 
 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/artofmovement/janek_schergen.jpg)
+<div style="background-color: white;">Artistic Director Janek Schergen of the SDT teaching a class. <i>Courtesy of Singapore Dance Theatre.</i></div>
+
 #### **Finding Voice Through Art**
 
 Balancing tradition and modernity, Eastern and Western styles, the Singaporean dancer often treads between worlds. From the  modern dance styles of Lim Fei Shen, to the experimental site-specific performances of Arts Fission Dance Company, to the contemporary dance styles of ECNAD and Frontier Danceland, dance in Singapore takes shape in many forms – but they all come together to form an inkling of the socio-cultural tensions that exist in our multicultural island-nation.
@@ -138,8 +150,6 @@ Balancing tradition and modernity, Eastern and Western styles, the Singaporean d
 As a relatively young country, with  a relatively young arts scene, the artistic  voices of our dance pioneers are surprisingly strong and diverse. Be it the classical ballet repertoire of the SDT or the light-footed movements of Santha Bhaskar’s  take on Bharatanatyam dance, these dance pioneers collectively paint a complex and intriguing picture of post-colonial identity in contemporary Singapore.
 
 For what is art but a lens through  which to examine society, and in turn, ourselves? Artists speak of the cultural  inflections that influence their works,  that weave paths through classical arts,  gestures and rituals, that stir the desire  for a truer, more unique expression of  identity that Singapore can truly call its  own. Singapore’s history, from its time as a British trading port under colonial rule to a first-world metropolis, presents us in an unusual, liminal space. Perhaps there lies the meaning of evolving tradition to reflect relevance in modern times. To understand who we are, we should perhaps turn to  the most primitive of communication – the body – to decipher and find meaning in the gestures, signs and signifiers created by the  Singaporean dancer. 
-
-Artistic Director Janek Schergen of the SDT teaching a class. <i>Courtesy of Singapore Dance Theatre.</i>
 
 <p style="font-size:15px;"><b>Tara Tan</b> is a writer and designer who works in the intersection between art, design and  technology. She was a former arts reporter with The Straits Times, where she wrote on dance  and culture in Singapore.</p>
 
