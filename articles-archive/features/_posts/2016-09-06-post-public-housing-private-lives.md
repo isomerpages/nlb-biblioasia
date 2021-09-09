@@ -145,7 +145,7 @@ Centre for Liveable Cities. (2015). *[Built by Singapore: From slums to a sustai
 
 *[Singapore: The first ten years of independence, 1965 to 1975](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=12885060)* (p. 198). (2007). Singapore: National Library Board and National Archives of Singapore. Call no.: RSING 959.5705 SIN-[HIS]
 
-Yong, C. (2013, May 17). Hard for old-timers to say goodbye. The Straits Times. Retrieved from AsiaOne website.
+Yong, C. (2013, May 17). Hard for old-timers to say goodbye. *The Straits Times*. Retrieved from AsiaOne website.
 
 #### **Notes**
 
