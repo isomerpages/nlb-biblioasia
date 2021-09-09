@@ -89,9 +89,6 @@ From this perspective, these early modern sea charts are more than an encapsulat
 
 <i>Several of the maps mentioned in this article are currently on display at the exhibition “Land of Gold and Spices: Early Maps of Southeast Asia” at level 11, National Library Building (see text box for more details).</i>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/searchingforsg/last_re.jpg)
-<div style="background-color: white;"></div>
-
 |**GeolGraphic: What Is the Exhibition About?**|
 
 |Curated by the National Library Board, “GeolGraphic: Celebrating Maps and their Stories” is a combination of exhibitions and programmes that explore maps and mapping in their historical and contemporary contexts. The maps – which date back to as early as the 15th century – are drawn from the collections of the National Library, Singapore, and the National Archives of Singapore and supplemented by rare maps specially flown in from Britain and the Netherlands. This is a unique opportunity to see printed and hand-drawn maps that are on public display for the first time in Singapore|
