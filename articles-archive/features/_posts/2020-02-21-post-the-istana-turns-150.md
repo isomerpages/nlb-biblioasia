@@ -197,10 +197,10 @@ While the Istana may have started out as symbol of imperial strength and power 1
 [^8]:Palladianism or Palladian architecture is a European style of architecture influenced by the 16th-century Venetian architect Andrea Palladio (1508–80). The style is characterised by classical forms, symmetry and strict proportions. Neo-Palladian is English Palladian architecture popular in the 18th century.
 [^9]:National Library Board. (2010). [*The Istana*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_807_2005-02-01.html) written by Vernon Cornelius. Retrieved from Singapore Infopedia.
 [^10]:Hoe, I. (2019). [*50 best kept secrets of the Istana: History and heritage*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889789) (p. 37). Singapore: Published by Epigram for the Istana, the office of the President of the Republic of Singapore. (Call no.: RSING 959.57 HOE-[HIS])
-[^11]:
-[^12]:
-[^13]:
-[^14]:
+[^11]:See Tan, B. (2018, Jul–Sep). Globetrotting mums: Then and now. *BiblioAsia*, 14 (2). Retrieved from BiblioAsia website.
+[^12]:[Seet & Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, pp. 43, 45.
+[^13]:Lee, P. (Interviewer). (2008, April 21). [*Oral history interview with Morrice, John (Colonel) (Retired)*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/1e2ef03c-1161-11e3-83d5-0050568939ad-OHC003306_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 003306/13/1, p. 4]. Retrieved from National Archives of Singapore website.
+[^14]:[Seet & Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, p. 68; Tan, W.K., et al. (2003). [Gardens of the Istana](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991) (p. 50). Singapore: National Parks Board. (Call no.: RSING q635.095957 GAR)
 [^15]:
 [^16]:
 [^17]:
@@ -209,5 +209,9 @@ While the Istana may have started out as symbol of imperial strength and power 1
 [^20]:
 [^21]:
 
-
-
+Chou, C. (Interviewer). (1994, May 30). Oral history interview with Mr Abdul Gaffor bin Abdul Hamid [Transcript of recording no. 001430/2/1, pp. 3–5. Retrieved from National Archives of Singapore website; Seet & Myddelton, 2000, p. 68.
+Oral history interview with Mr Abdul Gaffor bin Abdul Hamid, 30 May 1994, pp. 3–5.
+Leong, C. (2011). The Istana (p. 129). Singapore: Marshall Cavendish Editions. (Call no.: RSING 725.17095957 LEO); Tan, K.Y.L. (2017). Puan Noor Aishah: Singapore’s first lady (p. 68). Singapore: Straits Times Press. (Call no.: RSING 959.5705092 TAN)
+Our Istana through the years (p. 30). (2015). Singapore: Office of the President of the Republic
+of Singapore. (Call no.: RSING 959.57 OUR-[HIS])
+Wong, S.M. (2019). 50 best kept secrets of the Istana: People and places (p. 22). Singapore: Published by Epigram for the Istana, the office of the President of the Republic of Singapore. (Call no.: RSING 959.57 WON-[HIS])
