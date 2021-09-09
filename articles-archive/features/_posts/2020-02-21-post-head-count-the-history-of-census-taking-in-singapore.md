@@ -153,4 +153,12 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 |The official report of the 1947 census – released in October 1949 – gave Singapore’s population as 940,824, which was almost double the figure for the 1931 census.33
 
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount9.jpg" style="width: 100px; height: 100px;">
+<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore & Southeast Asian Collection, developing content as well as providing reference and research services related to Singapore and Southeast Asia.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
+
 #### **Notes**
