@@ -62,6 +62,4 @@ At the Centre for the Arts, Bhaskar also  dabbled in dance forms such as hip-hop
 
 “My  artistic  inspirations  grew  with   Singapore. Watching Chinese dance, Malay  dance and international dance forms has  influenced my choreography,” said Bhaskar.[^7]
 
-Even  with  the  new  influences,  there   still  remains  a  strong  sense  of  tradition,   especially in this household of dance with  three generations of dancers. “What I learnt  from my mother, my teacher, I taught to my  daughter, who taught it to her daughter. In a  way, that becomes tradition,” Bhaskar said.8  She was awarded the Cultural Medallion for  her work in dance in 1990. 
-
-
+Even  with  the  new  influences,  there   still  remains  a  strong  sense  of  tradition,   especially in this household of dance with  three generations of dancers. “What I learnt  from my mother, my teacher, I taught to my  daughter, who taught it to her daughter. In a  way, that becomes tradition,” Bhaskar said.8  She was awarded the Cultural Medallion for  her work in dance in 1990.
