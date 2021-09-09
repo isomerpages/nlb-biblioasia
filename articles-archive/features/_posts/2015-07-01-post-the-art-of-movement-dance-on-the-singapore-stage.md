@@ -36,6 +36,8 @@ The work, while heavy in its balletic  stylistics, was infused with flavour that
 
 How do we forge a dance identity that we can call our own? How do we balance the influences of both Eastern and Western cultures, paying homage to both but subser- vient to neither? The journeys of these five trailblazers in dance will shed some light on the evolving language of the Singapore stage, and in the process, perhaps reveal some human insight into the struggle of the Singaporean identity.
 
+T.H.E Dance Company's Bedfellows (2013) was part of T.H.E's 5th anniversary celebrations, choreographed by Kuik Swee Boon, Lee Mun Wai and Yarra Ileto. Courtesy of Matthew G. Johnson.
+
 #### **“The Red Ballerina”**
 
 <i>Goh Lay Kuan, The Theatre Practice Ltd</i>
@@ -52,6 +54,11 @@ By the mid-1980s, the couple had been exonerated of any wrongdoing, and the  pro
 
 “She so successfully blended con- temporary, East Asian, and Southeast  Asian dance forms and themes such that, even if one may discern traces of ballet,  and Indian, Malay and Chinese dances,  her final form was none of those: it was, simply, a dance choreographed by Goh,”  said Venka Purushothaman in his 2002  book on Cultural Medallion recipients.[^5]
 
+
+Dancer Goh Lay Kuan, dubbed “The Red Ballerina”, left her mark on both art and society. Courtesy of The Theatre Practice Ltd. 
+
+A young Goh Lay Kuan at the first ballet class she taught at the Practice Theatre School. Courtesy of The Theatre Practice Ltd.
+
 #### **Three Generations of Dance**
 
 <i>Santha Bhaskar, Bhaskar’s Arts Academy</i>
@@ -59,6 +66,10 @@ By the mid-1980s, the couple had been exonerated of any wrongdoing, and the  pro
 Arriving in Singapore in 1959 from Kerala,  India, the then 15 year-old-dancer had no  idea what to expect from her arranged mar- riage to K. P. Bhaskar, a man she had never  met. All she knew was that he ran a small  dance school in Singapore, Bhaskar’s Arts  Academy.  “As  soon  as  my  plane  touched   down the runway, I saw the smiling faces of  Mr Bhaskar, students and friends. I didn’t  feel homesick. Not even for a second,” said  Santha Bhaskar.6 As a wide-eyed ingénue  to bustling Singapore, she started learning  more about Malay and Chinese cultures. She  recalled, “When I first came, I didn’t know  how Chinese faces looked like, or Malay faces  looked like. I’d never seen people eat with  chopsticks  before!”  The  learning  evolved from food – arguably the heart and soul of  Singapore – to her passion for dance. 
 
 As artistic director of Bhaskar’s Arts  Academy, where she teaches Bharatnatyam  dance, Bhaskar began exploring her new-  found insights. Weaving Chinese, Malay and  even Thai dance influences into her dance  choreography, Bhaskar has staged key Asian  works such as the classic Chinese folktale  Butterfly Lovers (1958), as well as the Thai  mythology Manohra (1996).
+
+A young Santha Bhaskar performing to a Tamil poem for a function organised by Tamil Murasu held at the Victoria Theatre in 1957. Courtesy of Santha Bhaskar. 
+
+Santha Bhaskar with her late husband  K. P. Bhaskar. Courtesy of Santha Bhaskar. 
 
 From the 100 students the academy  had  in  the  1950s,  the  dance  school  has   more  than  2,000  today.  Bhaskar  is  also   artistic director and resident choreographer  of NUS Indian Dance at the Centre for the  Arts at the National University of Singapore,  where she taught for over 20 years since  the late 1970s.
 
