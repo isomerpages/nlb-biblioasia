@@ -69,7 +69,7 @@ When Singapore achieved internal self-government in 1959, Government House was r
 
 From housing colonial governors who hailed from Britain, the Istana became the designated official residence for the presidents of Singapore. The last governor of Singapore was William Allmond Codrington Goode, who served as the Yang di-Pertuan Negara (Malay for “Head of State”) from June to December 1959, before making way for Yusof Ishak, the first local-born Head of State. When Singapore gained independence, Yusof was sworn in as the country’s first president.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana4.JPG">
+<img style="width: 300px; height: 350px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana4.JPG">
 <div style="background-color: white;">President Yusof Ishak and Puan Noor Aishah with their children at Sri Melati, c. 1960s. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
 
 While the Istana still remains the official residence of Singapore’s presidents, only two have actually lived on the Istana grounds and, even then, not in the main building: Yusof lived in an outlying bungalow named Sri Melati, which was built in 1869 to house the colonial under-secretaries.[^17] Third president Devan Nair lived in the Lodge, which was built to replace Sri Melati after it was torn down in the 1970s when termite infestation rendered it structurally unsafe.
