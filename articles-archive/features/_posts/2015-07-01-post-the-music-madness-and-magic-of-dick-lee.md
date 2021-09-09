@@ -34,29 +34,21 @@ Album cover of music from <i>Fried Rice Paradise</i>, staged by Singapore Repert
 
 Lee’s music career took off while he was still a student at St Joseph’s Institution in the 1970s. He shot to mini stardom, thanks to his many stage appearances on talent shows and television programmes with the groups Harmony, and Dick and the Gang, the latter a musical group formed with his siblings. 
 
-In 1972, Lee auditioned for Ready Steady Folk, a talent show on television that was produced by cable radio station Rediffusion Singapore,3 and helmed by the legendary Vernon Cornelius of the band The Quests. During the audition, Lee performed “Life Story”, a song about a young man’s reflection on his life. This pivotal song helped to launch Lee’s music career, and became a familiar tune to many Singaporeans when it was used in a commercial years later.
+In 1972, Lee auditioned for <i>Ready Steady Folk</i>, a talent show on television that was produced by cable radio station Rediffusion Singapore,[^3] and helmed by the legendary Vernon Cornelius of the band The Quests. During the audition, Lee performed “Life Story”, a song about a young man’s reflection on his life. This pivotal song helped to launch Lee’s music career, and became a familiar tune to many Singaporeans when it was used in a commercial years later.
 
-“Wake up,” she said, “Look, it's a beautiful day” 
-Downstairs to the kitchen door and then away 
-Into the light 
-Morning feeling lives on 
-Come the clouds the moon, and morning is gone
+“Wake up,” she said, “Look, it's a beautiful day”<br>Downstairs to the kitchen door and then away<br>Into the light 
+Morning feeling lives on<br>Come the clouds the moon, and morning is gone
 
-Just my life story
-Minute by second a story
-That goes on forever with each breath that I take
-This is my life story
-Uneventfullest story
-That ages with each year and birthday cake
+Just my life story<br>Minute by second a story<br>That goes on forever with each breath that I take<br>This is my life story<br>Uneventfullest story<br>That ages with each year and birthday cake
 
-Lee was immediately offered a position on the show as a guest artiste instead of a contestant, giving him the chance to sing his original songs on live television every week. During the finals of Ready Steady Folk, he sang his now iconic “Fried Rice Paradise”, which so impressed one of the judges that Lee was offered a recording deal immediately. Lee’s first album, Life Story, was released in mid-1974 by the music label Philips. 
+Lee was immediately offered a position on the show as a guest artiste instead of a contestant, giving him the chance to sing his original songs on live television every week. During the finals of <i>Ready Steady Folk</i>, he sang his now iconic “Fried Rice Paradise”, which so impressed one of the judges that Lee was offered a recording deal immediately. Lee’s first album, <i>Life Story</i>, was released in mid-1974 by the music label Philips. 
 
 #### **His First Album**
-Not unexpectedly, record sales of Life Story were poor. The album only managed to sell a few hundred copies in Singapore and a much lower number in Australia, where his then manager had gone in an attempt to further Lee’s career. Poor reviews did not help the situation. One needs to keep in mind the context of the local music industry back then. The anti-yellow culture clamp-down in Singapore had left in its wake a moribund music scene. The recording industry in the 1970s was no longer as vibrant as it was in the roaring 60s, which saw local bands like The Quests and The Crescendos holding concerts and releasing records with the vociferous support of legions of fans. By 1973, what little interest that remained in local acts soon dwindled to a mere trickle.
+Not unexpectedly, record sales of <i>Life Story</i> were poor. The album only managed to sell a few hundred copies in Singapore and a much lower number in Australia, where his then manager had gone in an attempt to further Lee’s career. Poor reviews did not help the situation. One needs to keep in mind the context of the local music industry back then. The anti-yellow culture clamp-down in Singapore had left in its wake a moribund music scene. The recording industry in the 1970s was no longer as vibrant as it was in the roaring 60s, which saw local bands like The Quests and The Crescendos holding concerts and releasing records with the vociferous support of legions of fans. By 1973, what little interest that remained in local acts soon dwindled to a mere trickle.
 
-On top of the unsupportive environ- ment, a track on the album, “Fried Rice Paradise”, was banned from the airwaves by the government-controlled Radio Television Singapore (RTS) because of its flagrant use of Singlish. It is believed to be the first local pop song to be banned. To add further insult, the ban was not reported in the news as the media was not supportive of local music at the time. “I remember seeing a copy in their [RTS] library later. A couple of tracks were visibly scratched to prevent rebellious deejays from playing them,” Lee recalls.
+On top of the unsupportive environment, a track on the album, “Fried Rice Paradise”, was banned from the airwaves by the government-controlled Radio Television Singapore (RTS) because of its flagrant use of Singlish. It is believed to be the first local pop song to be banned. To add further insult, the ban was not reported in the news as the media was not supportive of local music at the time. “I remember seeing a copy in their [RTS] library later. A couple of tracks were visibly scratched to prevent rebellious deejays from playing them,” Lee recalls.
 
-Nonetheless, the song “Fried Rice Paradise” received substantial airtime on Rediffusion and became an instant hit. The endearing song is one of Lee’s most well- known, and was made into a musical in 1991.
+Nonetheless, the song “Fried Rice Paradise” received substantial airtime on Rediffusion and became an instant hit. The endearing song is one of Lee’s most well-known, and was made into a musical in 1991.
 
 #### **Finally Making**
 
