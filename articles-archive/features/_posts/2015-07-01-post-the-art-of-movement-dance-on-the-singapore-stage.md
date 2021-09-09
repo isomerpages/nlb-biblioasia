@@ -150,13 +150,13 @@ Artistic Director Janek Schergen of the SDT teaching a class. <i>Courtesy of Sin
 
 [^1]: An interview with Santha Baskar from the film “Mrs Santha Bhaskar”. (2010) by Tara Tan. 
 
-[^2]: Tan, T. (2011, May 23). Moving ode to loss. <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+[^2]: Tan, T. (2011, May 23). [Moving ode to loss](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110523-1.2.54.5). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-[^3]: Goh, C.L. (2014, May 3). The ballerina who overturned tables. <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+[^3]: Goh, C.L. (2014, May 3). [The ballerina who overturned tables](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140503-1.2.86.6.4). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
-[^4]: <i>The Straits Times</i>, 3 May 2014, p. 4. 
+[^4]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140503-1.2.86.6.4)*, 3 May 2014, p. 4. 
 
-[^5]: Purushothaman, V. (Ed.). (2002). Narratives: Notes on a cultural journey: Cultural medallion recipients 1979–2001 (p. 32). Singapore: National Arts Council. (Call no.: RSING 700.95957 NAR)
+[^5]: Purushothaman, V. (Ed.). (2002). *[Narratives: Notes on a cultural journey: Cultural medallion recipients 1979–2001](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11769181)* (p. 32). Singapore: National Arts Council. (Call no.: RSING 700.95957 NAR)
 
 [^6]: Mrs Santha Baskar, 2010. 
 
@@ -164,6 +164,6 @@ Artistic Director Janek Schergen of the SDT teaching a class. <i>Courtesy of Sin
 
 [^8]: Mrs Santha Bhaskar, 2010.
 
-[^9]: Lee, V. (2015, February 23). Traditional innovator. <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+[^9]: Lee, V. (2015, February 23). [Traditional innovator](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150223-1.2.43.1.4). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
-[^10]: <i>The Straits Times</i>, 23 Feb 2015, p. 4.
+[^10]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150223-1.2.43.1.4)*, 23 Feb 2015, p. 4.
