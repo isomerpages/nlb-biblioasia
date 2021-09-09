@@ -109,7 +109,7 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 *The author wishes to thank the Singapore Department of Statistics for reviewing the essay. The National Library’s latest exhibition “On Paper: Singapore Before 1867”, held at level 10 of the National Library Building until 22 March 2020, features a scribal copy of the 1827 census of Singapore.*
 
-|BITING DOGS, CAPSIZED BOATS AND STRIKING WORKERS: STORIES FROM THE 1947 CENSUS
+|**BITING DOGS, CAPSIZED BOATS AND STRIKING WORKERS: STORIES FROM THE 1947 CENSUS**
 
 |By Jimmy Yap
 
