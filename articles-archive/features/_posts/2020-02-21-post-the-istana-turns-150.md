@@ -187,3 +187,27 @@ While the Istana may have started out as symbol of imperial strength and power 1
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
 
 #### **Notes**
+[^1]:[New Government House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18690424-1.2.6). (1869, April 24). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^2]:The Straits Settlements, comprising Singapore, Melaka and Penang, was formed in 1826. It was initially an administrative unit of the British East India Company (1826–67) before it came under direct control of the Colonial Office in London as a crown colony (1867–1946). Following the dissolution of the Straits Settlements in 1946, Singapore was made a crown colony, while Melaka and Penang became part of the Malayan Union.
+[^3]:The First Resident and Commandant of Singapore was William Farquhar (1819–23), who was succeeded by John Crawfurd as Resident (1823–26). Between 1826 and 1867, Singapore was governed by Resident Councillors. When Singapore became part of the Straits Settlements along with Melaka and Penang in 1867, the first governor was Robert Fullerton (1826–30). Singapore’s last governor was William Goode (1957–59). See National Library Board. (2017). [*Past and present leaders of Singapore*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_139_2005-01-19.html) written by Vernon Cornelius. Retrieved from Singapore Infopedia.
+[^4]:Government Hill was initially called Bukit Larangan (“Forbidden Hill” in Malay), When Stamford Raffles built a wooden house with a thatched roof for himself on the hill in 1822, it became known as Government Hill. The house was later used as the residence of the colonial governors of Singapore. When the house was demolished to make way for Fort Canning in 1859, Government Hill was renamed Fort Canning Hill.
+[^5]:Cheah, S. (2019). [*50 best kept secrets of the Istana: Flora and fauna*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889795) (p. 9). Singapore: Published by Epigram for the Istana, the office of the President of the Republic of Singapore. (Call no.:RSING 959.57 CHE-[HIS)
+[^6]:Seet, K.K, & Myddelton, D.R. (2000). [*The Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671) (p. 30). Singapore: Times Editions (Call no.: RSING q725.17095957 IST)
+[^7]:President’s Office. (2018). *The Istana: History*. Retrieved from President of the Republic of Singapore website.
+[^8]:Palladianism or Palladian architecture is a European style of architecture influenced by the 16th-century Venetian architect Andrea Palladio (1508–80). The style is characterised by classical forms, symmetry and strict proportions. Neo-Palladian is English Palladian architecture popular in the 18th century.
+[^9]:National Library Board. (2010). [*The Istana*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_807_2005-02-01.html) written by Vernon Cornelius. Retrieved from Singapore Infopedia.
+[^10]:Hoe, I. (2019). [*50 best kept secrets of the Istana: History and heritage*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889789) (p. 37). Singapore: Published by Epigram for the Istana, the office of the President of the Republic of Singapore. (Call no.: RSING 959.57 HOE-[HIS])
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
+[^21]:
+
+
+
