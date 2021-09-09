@@ -193,39 +193,39 @@ Gwee, E. (1998, June 20). [Roomful of me, here and there](http://eresources.nlb.
 
 Gwee, E. (1998, June 20). [Here's my Life Story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980620-1.2.102.4.35). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
-Ida Bachtiar. (1989 November 23). A Singapop breakthrough? <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+Ida Bachtiar. (1989 November 23). [A Singapop breakthrough?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891123-1.2.61.12.1) <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-Island asylum for Mad Chinaman. (1989, September 22). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+[Island asylum for Mad Chinaman](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890922-1.2.101.3). (1989, September 22). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
-Kids to star in this year's NDP finale. (2004, July 6). <i>The Straits</i> Times, p. 5. Retrieved from NewspaperSG.
+[Kids to star in this year's NDP finale](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040706-1.2.25.17). (2004, July 6). <i>The Straits</i> Times, p. 5. Retrieved from NewspaperSG.
 
-Lee, D. (2011). The adventures of the mad Chinaman. Singapore: Marshall Cavendish Editions. (Call no.: RSING 782.14092 LEE)
+Lee, D. (2011). *[The adventures of the mad Chinaman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13720383)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 782.14092 LEE)
 
-Low, J. (1975, March 16). No major change in Status Quo music. <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
+Low, J. (1975, March 16). [No major change in Status Quo music](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750316-1.2.49.5). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
-Tan, J.H.S. (2011). Lee Kip Lin. Retrieved from Singapore Infopedia, National Library Singapore.
+Tan, J.H.S. (2011). *[Lee Kip Lin](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1824_2011-08-03.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-National Library Board. (2014). Campaign against yellow culture is launched. Retrieved from HistorySG website.
+National Library Board. (2014). *[Campaign against yellow culture is launched](https://eresources.nlb.gov.sg/history/events/47129576-377a-44fe-a05f-fefddf0cb765)*. Retrieved from HistorySG website.
 
-Ho, S. (2015, March 11). National Day songs. Retrieved from Singapore Infopedia, National Library Singapore.
+Ho, S. (2015, March 11). *[National Day songs](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-11_165927.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Oon, V. (1974, December 26). Dick tells his life story on disc. <i>New Nation</i>, p. 14. Retrieved from NewspaperSG.
+Oon, V. (1974, December 26). [Dick tells his life story on disc](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741226-1.2.24.1). <i>New Nation</i>, p. 14. Retrieved from NewspaperSG.
 
-Ong, S.C. (1990, March 25). Japanese bowled over by 'Mad Chinaman' Dick Lee. <i>The Straits Times</i>, p. 21. Retrieved from NewspaperSG. 
+Ong, S.C. (1990, March 25). [Japanese bowled over by 'Mad Chinaman' Dick Lee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900325-1.2.26.19). <i>The Straits Times</i>, p. 21. Retrieved from NewspaperSG. 
 
-Perera, L.M., & Perera, A. (2010). Dick Lee (李迪文): Creating endless opportunities. Retrieved from MusicSG.
+Perera, L.M., & Perera, A. (2010). *[Dick Lee (李迪文): Creating endless opportunities](https://eresources.nlb.gov.sg/music/Media/PDFs/Article/6d84beaf-fb53-48a0-9693-b3c183893021.pdf)*. Retrieved from MusicSG.
 
 Singapore Repertory Theatre (n.d.). <i>About forbidden city</i>. Retrieved from Singapore Repertory Theatre website.
 
-Tan, J. (2007, September 7). A new beauty. <i>Today</i>, p. 58. Retrieved from NewspaperSG.
+Tan, J. (2007, September 7). [A new beauty](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20070907-1.2.63.5.5). <i>Today</i>, p. 58. Retrieved from NewspaperSG.
 
-The origins of keroncong. (1993, November 12). <i>The Straits Times</i>, p. 10. Retrieved from NewpaperSG.
+[The origins of keroncong](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19931112-1.2.69.6.2). (1993, November 12). <i>The Straits Times</i>, p. 10. Retrieved from NewpaperSG.
 
-What is a Singapore song? (1989, August 6). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+[What is a Singapore song?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890806-1.2.64.3.3) (1989, August 6). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
-Wong, J. (1989, December 3). Can Singapop storm the world? <i>The Straits Times</i>, p. 20. Retrieved from NewspaperSG.
+Wong, J. (1989, December 3). [Can Singapop storm the world?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891203-1.2.60.10.1) <i>The Straits Times</i>, p. 20. Retrieved from NewspaperSG.
 
-Yong, S.F. (1998, March 28). Home again. <i>The New Paper</i>, p. 14. Retrieved from NewspaperSG.
+Yong, S.F. (1998, March 28). [Home again](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19980328-1.2.17.4). <i>The New Paper</i>, p. 14. Retrieved from NewspaperSG.
 
 #### **NOTES**
 
