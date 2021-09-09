@@ -73,7 +73,7 @@ In Singapore, Dunde also found other attractions. With Chiste, he enjoyed the co
 
 Chiste was a disciple of the enigmatic Nur Alam Sham. A mysterious Muslim preacher and Sufi Master (*pir*), the latter had a cult following among Indian and Malay Muslims in Singapore. Nur Alam Shah delivered sulphurous sermons at his mosque on Kampong Java Road, just down the road from the house where Singapore’s first Prime Minister, Lee Kuan Yew, would be born a few years later.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/trialc.JPG">
+<img style="width: 250px; height: 330px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/trialc.JPG">
 <div style="background-color: white;">Promulgation of sentences on 21 sepoys found guilty of participating in the mutiny of the 5th Light Infantry Regiment. Sixteen mutineers received imprisonment of varying lengths, while five were executed. <i>Image reproduced from The Straits Times, 23 March 1915, p. 7.</i></div>
 
 As the First World War turned into a brutal conflict of attrition, Nur Alam Shah had raised thorny questions for the sepoys to consider. To whom was loyalty owed? To which Kaiser and to which Emperor? Charismatic Chiste also had a way with words. He persuaded some of his men that the tide was turning against British rule. Largely illiterate and unschooled, the thoughts of the sepoys did not match the precision or logic of trained minds. This thinking was dangerously open-ended and tumbled through their heads like the fake news Lance-Naik Fateh Mohammed had shared with his father on the day the mutiny broke out:
