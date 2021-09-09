@@ -110,7 +110,7 @@ Renovation works were carried out between 1996 and 1998. This was the Istana’s
 
 “[The Istana] is a stately building, very grand, very symmetrical, as it should be for an institutional building. But internally, it needs refurbishing. Where we can, we will try to renovate the place and try to bring back its old grace.”[^41]
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana9.JPG">
+<img style="width: 330px; height: 350px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana9.JPG">
 <div style="background-color: white;">With its swagged valances, arched fanlights and draperies in a woven damask fabric, the Reception Hall of the Istana provides an elegant setting for guests. <i>Courtesy of Marshall Cavendish and the Istana.</i></div>
 
 Many new features were added, including centralised air-conditioning, mechanically activated louvres, restored timber rafters and beams, automatic sliding doors and a dedicated Ceremonial Plaza with four flagpoles for military displays. Previously, these displays were performed at the airport when foreign guests disembarked from the aeroplane.[^42]
