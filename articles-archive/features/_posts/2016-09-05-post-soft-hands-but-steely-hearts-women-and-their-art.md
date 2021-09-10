@@ -6,7 +6,7 @@ layout: post
 ---
 #### A coterie of women sculptors in Singapore has successfully redefined this once male-dominated art form. **Nadia Arianna Bte Ramli** tells you more.
 
-<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/03-softhands-steelyhearts.jpg">Han Sai Por’s “20 Tonnes – Physical Consequences” (2002) currently stands in front of the National Museum of Singapore. It is made up of six granite blocks and cost about $20,000 to create. <i>Courtesy of the National Museum of Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:650px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/03-softhands-steelyhearts.jpg">Han Sai Por’s “20 Tonnes – Physical Consequences” (2002) currently stands in front of the National Museum of Singapore. It is made up of six granite blocks and cost about $20,000 to create. <i>Courtesy of the National Museum of Singapore.</i></div>
 
 “If I showed up in a feminine dress like this, people don’t believe I’m a sculptor!”[^1]
 <p align="right">– Elsie Yu</p>
@@ -23,7 +23,7 @@ In spite of these obstacles, women sculptors in Singapore, from Kim Lim to Kumar
 
 Records show that a pioneer exhibition of women’s work was held in October 1931 at the Young Women’s Christian Association in Singapore. Works of artistic merit were grouped together along with “useful” crafts. A newspaper notice for the exhibition states that it included “all kinds of sewing, embroidery, art work, photography, cooking… by the young married women who are just beginning to realise the delights of making artistic and useful things”.[^3] In those early days, art by women seemed to be largely decorative in nature and merely a leisurely pursuit by women with time on their hands.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/01-softhands-steelyhearts.jpg">Dora Gordine working on the head of a child in her studio at Dorich House, London, c.1950s. National Monuments Record, English Heritage, Swindon. <i>All rights reserved, Black, J., & Martin, B. (2007). Dora Gordine: Sculptor, Artist, Designer. London: Dorich House Museum, Kingston University in association with Philip Wilson Publishers.</i></div>
+<div style="background-color: white;"><img style="width:200px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/01-softhands-steelyhearts.jpg">Dora Gordine working on the head of a child in her studio at Dorich House, London, c.1950s. National Monuments Record, English Heritage, Swindon. <i>All rights reserved, Black, J., & Martin, B. (2007). Dora Gordine: Sculptor, Artist, Designer. London: Dorich House Museum, Kingston University in association with Philip Wilson Publishers.</i></div>
 
 In the 1930s, a European sculptor by the name of Dora Gordine lived and worked in Singapore and Johor. During her time here, she was commissioned to create three sculptures for the Municipal Building (later renamed as the City Hall until its recent reincarnation as the National Gallery Singapore [NGS] together with the Supreme Court building next door).
 
@@ -39,7 +39,7 @@ Art teachers and students were encouraged to showcase their talents by taking pa
 
 Mrs Gunaratnam was one of the very few women sculptors in Singapore then, having begun exhibiting her works since 1948. Her talent did not go unnoticed – she sat on the selection committee for a 1951 art exhibition, alongside local pioneer artist Liu Kang and the last British Director of the Raffles Museum in Singapore, Dr Carl Alexander Gibson-Hill.[^9] One of her sculptured portrait busts, “Mavis – A Study” (1950), was described by the art historian T. K. Sabapathy as remarkable for the time, with her attention to both anatomical details and characterisation.[^10] Mrs Gunaratnam’s reputation grew, and her statues and sculptures were even bought by private collectors in India and England.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/02-softhands-steelyhearts.jpg">Bronze sculptures of a Malay head (left) and Chinese head (right) by Dora Gordine were commissioned for the Singapore Municipal  Building in the early 20th century. <i>All rights reserved, Black, J., & Martin, B. (2007). Dora Gordine: Sculptor, Artist, Designer. London: Dorich House Museum, Kingston University in association with Philip Wilson Publishers.</i></div>
+<div style="background-color: white;"><img style="width:250px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/02-softhands-steelyhearts.jpg">Bronze sculptures of a Malay head (left) and Chinese head (right) by Dora Gordine were commissioned for the Singapore Municipal  Building in the early 20th century. <i>All rights reserved, Black, J., & Martin, B. (2007). Dora Gordine: Sculptor, Artist, Designer. London: Dorich House Museum, Kingston University in association with Philip Wilson Publishers.</i></div>
 
 While women artists were progressively moving beyond the home and expanding their artistic horizons, some were still caught in a bind between domestic responsibilities and their artistic inclinations.
 
