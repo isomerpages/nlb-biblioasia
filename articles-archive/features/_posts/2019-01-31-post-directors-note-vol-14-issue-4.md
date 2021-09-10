@@ -28,7 +28,7 @@ On behalf of the National Library, we would like to wish everyone a fabulous sta
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-4/tan.JPG" style="width: 100px; height: 100px;">
-<b>Tan Huism</b><br>
+<b>Tan Huism</b>
 Director, National Library
 </div>
 
