@@ -177,9 +177,9 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 [^20]:Sim, A. (2002, March 15). Living stones. *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^21]:Jacob, J. (2007, January 26). CityDev unveils its first public artwork. *The Business Times*, p. 10. Retrieved from NewspaperSG
+[^21]:Jacob, J. (2007, January 26). [CityDev unveils its first public artwork](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20070126-1.2.16.2.aspx). *The Business Times*, p. 10. Retrieved from NewspaperSG
 
-[^22]:Wong, H. W. F. (2015). CapitaLand: The art of building communities. Singapore: CapitaLand Limited. Call no.: RSING 709.5957 WON
+[^22]:Wong, H. W. F. (2015). *[CapitaLand: The art of building communities](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202249356)*. Singapore: CapitaLand Limited. Call no.: RSING 709.5957 WON
 
 [^23]:Sculpture Society (Singapore). (2016). *Welcome to Sculpture Society (Singapore)*. Retrieved from Sculpture Society (Singapore) website.
 
