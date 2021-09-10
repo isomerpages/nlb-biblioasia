@@ -111,3 +111,35 @@ Over the years, Tan has generously donated more than 6,600 items from his person
 |A series of programmes has been organised in conjunction with the exhibition, including monthly guided tours by the curators and public talks. Of special highlight is a guided tour that is open to the public and a talk by the artist himself.|
 
 |Also look out for the smaller scale roving exhibition on Tan’s literary works that will take place at the Jurong Regional Library (1 November–29 December 2016) followed by the Central Public Library (30 December 2016–28 February 2017).|
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/baring-mind-and-soul/chung_sang_hong.png">
+	<b>Chung Sang Hong</b> is Assistant Director (Exhibitions & Curation) at the National Library, Singapore. He is the lead curator of the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhibition.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+
+Notes
+
+Princeton University Press (Producer). (2010, October 25). Michelangelo: A life on paper [Video file]. Retrieved from Brain Pickings website.
+
+Esplanade – Theatres on the Bay. (n.d.). Tan Swie Hian. Retrieved from Tribute.sg website.
+
+From a personal communication with Tan Swie Hian on 27 June 2016.
+
+Yap, S. Y. (2016). Anatomy of a free mind: Tan Swie Hian’s notebooks and creations. Singapore: National Library Board and Editions Dider Millet.
+
+Tan, S. H. (2005). Tan Swie Hian. Retrieved from Tan Swie Hian website.
+
+National Library Board. (2014, February 26). *[Tan Swie Hian](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-03-03_130547.html)* written by Chor, Poh Chin. Retrieved from Singapore Infopedia.
+
+Luxury Insider. (2012, December 4). Most expensive living Singapore artist: Tan Swie Hian sells for S$3.7M. Retrieved from Luxury Insider website.
+
+Shetty, D. (2014, November 30). Tan Swie Hian’s painting sold at auction for S$4.4 million, breaks own record for priciest work by Singapore artist. The Straits Times. Retrieved from *The Straits Times* website.
+
+Singapore press Holdings. (2016, May 31). Mandela-Tan Swie Hian work sold for $630k. *The Straits Times*. Retrieved from *The Straits Times* website.
+
+Singapore Chinese Orchestra. (2006). The Celestial Web [Recorded by Terence Cho]. Singapore: Singapore Chinese Orchestra Co Ltd.
+
+Akkoc, R. (2014, December 11). 2004 Boxing Day tsunami facts. The Telegraph. Retrieved from The Telegraph website.
