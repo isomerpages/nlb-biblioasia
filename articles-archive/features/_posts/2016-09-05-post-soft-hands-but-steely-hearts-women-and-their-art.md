@@ -11,7 +11,7 @@ layout: post
 “If I showed up in a feminine dress like this, people don’t believe I’m a sculptor!”[^1]
 <p align="right">– Elsie Yu</p>
 
-Whether the medium is granite, bronze, steel or clay, the art of shaping, moulding and chiselling the material into a sculptural work of art demands more than brute strength. Yet, some hold the view that the art form requires certain masculine qualities in order to bend, carve or shape even the most malleable of materials into what may be deemed a “feminine” sculpture. What does gender have to do with art? The question was raised by Susie Lingham in the Text & Subtext forum in 2000:
+Whether the medium is granite, bronze, steel or clay, the art of shaping, moulding and chiselling the material into a sculptural work of art demands more than brute strength. Yet, some hold the view that the art form requires certain masculine qualities in order to bend, carve or shape even the most malleable of materials into what may be deemed a “feminine” sculpture. What does gender have to do with art? *The question was raised by Susie Lingham in the Text & Subtext* forum in 2000:
 
 “In sports events, men and women’s events are separated on the argument that men have more physical strength. But in art, is there a necessity to set up another ring for women artists to wrestle for relevance in the art world? Is this not a way of marginalising women?”[^2]
 
