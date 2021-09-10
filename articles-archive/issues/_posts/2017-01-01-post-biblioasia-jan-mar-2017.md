@@ -42,7 +42,7 @@ A revamped exhibition space opens at the old Ford Factory in Bukit Timah, markin
 Students in pre-1970s Singapore had to learn the correct way of writing the Chinese script. *Ho Phang Phow* describes the painstaking process of mastering this craft. [(PDF)](/files/pdf/vol-12/v12-issue4_ChineseScript.pdf)
 
 **[Party Time at the Raffles](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/party-time-raffles)**<br>
-The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days. *Francis Dorai* and *Jessie Yak* take a peek. (PDF)
+The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days. *Francis Dorai* and *Jessie Yak* take a peek.[PDF](/files/v12-issue4_PartytimeatRaffles.pdf)
 
 **[Script & Stage: Theatre in Singapore from the 50s to 80s](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/script-stages-theatre)** <br>
 A new exhibition on Singapore theatre traces its growth from its nascent days in the 1950s when traditional art forms were dominant, as *Georgina Wong* explains. [(PDF)](/files/pdf/vol-12/v12-issue4_ScriptStage.pdf)
