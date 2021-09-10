@@ -175,10 +175,20 @@ It is common for countries, therefore, to adopt a combination of a register-base
 [^11]:Newbold, T.J. (1971). [*Political and statistical account of the British settlements in the Straits of Malacca*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2422180) (Vol. 1, pp. 283–285). Singapore: Oxford University Press. (Call no.: RCLOS 949.5 NEW)
 [^12]:Saw, S. (1969, March). Population trends in Singapore, 1819_1967. *Journal of Southeast Asian History*, 10 (1), p. 36. Retrieved from JSTOR via NLB’s eResources website; [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18710315-1.2.10.3). (1871, March 15). *Straits Times Overland Journal*, p. 6. Retrieved from NewspaperSG; Straits Settlements. [*Government gazette*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5289724). (1871, March 3). Government Notification No. 50. Singapore: Mission Press, p. 93. (Microfilm no.: NL1004)
 [^13]:[The legislative session](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18701025-1.2.7.2). (1870, October 25). *Straits Times Overland Journal*, p. 2. Retrieved from NewspaperSG; Straits Settlements. [*Government gazette*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5289724). (1870, October 21). Ordinance No. XI of 1870. An Ordinance for taking the Census of the Straits Settlements. Singapore: Mission Press, p. 607. (Microfilm no.: NL1004); [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes18701119-1.1.4). (1870, November 19). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^14]:[Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18700528-1.2.5). (1870, May 28). The Straits Times, p. 1. Retrieved from NewspaperSG; Straits Settlements. [Government gazette](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5289724). (1870, May 27). Speech of His Excellency Major General Sir Harry Ord, C.B., R.E., at the opening of the session of the Legislative Council of the Straits Settlements, on Monday, the 23rd May, 1870. Singapore: Mission Press, p. 148. (Microfilm no.: NL 1004)
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-
+[^14]:[Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18700528-1.2.5). (1870, May 28). *The Straits Times*, p. 1. Retrieved from NewspaperSG; Straits Settlements. [*Government gazette*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5289724). (1870, May 27). Speech of His Excellency Major General Sir Harry Ord, C.B., R.E., at the opening of the session of the Legislative Council of the Straits Settlements, on Monday, the 23rd May, 1870. Singapore: Mission Press, p. 148. (Microfilm no.: NL 1004)
+[^15]:Straits Settlements. (1871). *Blue book for the year* (p. P8). Singapore: Government of the Colony of Singapore, Raffles National Library Archives. (Microfilm no.: NL2931)
+[^16]:[Saw](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14383911), 2012, p. 339;  Department of Statistics. (2019). *Population trends 2019* (p. 37). Retrieved from Department of Statistics Singapore website.
+[^17]:Vlieland, C.A. (1932). [*British Malaya (the Colony of the Straits Settlements and the Malay States under British protection, namely the federated states of Perak, Selangor, Negri Sembilan and Pahang and the states of Johore, Kedah, Kelantan, Trengganu, Perlis and Brunei): A report on the 1931 census and on certain problems of vital statistics*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5834598) (p. 9). London: Crown Agents for the Colonies. (Microfilm no.: NL3005)
+[^18]:Del Tufo, M.V. (1949). [*Malaya, comprising the Federation of Malaya and the Colony of Singapore: A report on the 1947 census of population*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4500010) (p. 1). London: Published on behalf of the Governments of the Federation of Malaya and the Colony of Singapore by the Crown Agents for the Colonies. (Call no.: RCLOS 312.09595 MAL)
+[^19]:[Census count tomorrow](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470923-1.2.35). (1947, September 23). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^20]:
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
