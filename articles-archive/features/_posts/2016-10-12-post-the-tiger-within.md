@@ -4,7 +4,6 @@ date: 2016-10-12
 permalink: /vol-12/issue-3/oct-dec-2016/the-tiger-within
 layout: post
 ---
-
 #### These fanged beasts are by turns both captivating as they are terrifying. **Patricia Bjaaland Welch** explores the tiger motif in the art and literature of Asia.
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg">Hongli spearing a tiger. One of the many paintings of Prince Bao Hongli who ascended the throne in 1736 as the Qianlong Emperor (1735–96). Artist unknown; ink and colour on silk. Palace Museum, Beijing. <i>Courtesy of Wikimedia Commons.</i></div>
@@ -144,8 +143,6 @@ The first Tiger Balm factory in Singapore was located on Neil Road and as the bu
 The brothers have long since passed on, but Tiger Balm and Haw Par Villa remain. Taken over by the Singapore Tourism Board in 1988, the park was one of Singapore’s most iconic landmarks for many years. Today, Haw Par Villa has its own Mass Rapid Transit (MRT) stop on the Circle Line.
 
 Singaporeans today are more used to tigers as brand icons than lurking threats. Take, for example, Tiger Beer. Who doesn’t recognise the bright blue design with a circle enclosing a black-and-orange striped tiger? The brand is virtually sold around the world but it began life as Singapore’s first locally brewed beer in 1932. Originally marketed as a “tropical lager” targeting young men, today it has repositioned itself, claiming to be “an iconic embodiment of the Asian city on the verge of a breakthrough.” [^14] So what is it about the allure of tigers that so captivates us in Asia? It could be that the tiger represents those elements of our human makeup that define us all – sometimes the beast, sometimes the hunter, but at other times hunted and tamed, and occasionally even the gullible chump.
-
-*Patricia Bjaaland Welch will be giving a talk on this subject on 25 November 2016, 7pm, at the Asian Civilisations Museum. The talk is open to the public.*
 
 <div style="background-color: white;">
 <br>
