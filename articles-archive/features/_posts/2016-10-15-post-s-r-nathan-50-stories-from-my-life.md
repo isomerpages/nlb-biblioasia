@@ -83,7 +83,7 @@ The whole episode ended without bloodshed. It was good experience for me, the va
 
 |S R Nathan: *50 Stories from My Life* captures major milestones in the personal and official life of the late former President of Singapore (b. 3 July 1924−d. 22 August 2016). Written with a younger audience in mind, and illustrated by Morgan Chua, a former political cartoonist with the *Far Eastern Economic Review*, the book will appeal to anyone interested in Singapore and its history.|
 
-|S R Nathan: *50 Stories from My Life* (paperback, 184 pages) is published by Editions Didier Millet and retails at $19.90. It is available for loan and reference at the Lee Kong Chian Reference Library and branches of all public libraries (Call no.: RSING 959.5705092 NAT).|
+|S R Nathan: *50 Stories from My Life* (paperback, 184 pages) is published by Editions Didier Millet and retails at $19.90. It is available for loan and reference at the Lee Kong Chian Reference Library and branches of all public libraries ([Call no.: RSING 959.5705092 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200132009)).|
 
 ###### **Other Publications by S R Nathan**
 
