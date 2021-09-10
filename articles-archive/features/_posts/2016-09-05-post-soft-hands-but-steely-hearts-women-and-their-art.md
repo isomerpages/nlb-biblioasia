@@ -134,15 +134,21 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
-De Souza, J. (1987, October 28). Elsie Yu: Lady of steel. The Straits Times, p. 25. Retrieved from NewspaperSG.
-Nayar, P. (2000, June 24). ART the Asian woman. The Business Times, p. 19. Retrieved from NewspaperSG.
-Exhibition of women’s work. (1931, September 26). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 2. Retrieved from NewspaperSG.
-Singapore Art Museum. (1998). Imaging selves: Singapore Art Museum collection exhibition series 1998–1999 (p. 23). Singapore: Singapore Art Museum. Call no.: RSING 759.95 IMA
-Kwok, K. C. (1996). Channels and confluence: A history of Singapore art (p. 31). Singapore: Singapore Art Museum. Call no.: RSING 709.5957 KWO
-Dora Gordine’s sculpture. (1931, January 30). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^1]:De Souza, J. (1987, October 28). Elsie Yu: Lady of steel. The Straits Times, p. 25. Retrieved from NewspaperSG.
 
-42 Malayan women enter art show. (1955, August 11). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
-S’pore teachers’ art show. (1950, October 23). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+[^2]:Nayar, P. (2000, June 24). ART the Asian woman. The Business Times, p. 19. Retrieved from NewspaperSG.
+
+[^3]:Exhibition of women’s work. (1931, September 26). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 2. Retrieved from NewspaperSG.
+
+[^4]:Singapore Art Museum. (1998). Imaging selves: Singapore Art Museum collection exhibition series 1998–1999 (p. 23). Singapore: Singapore Art Museum. Call no.: RSING 759.95 IMA
+
+[^5]:Kwok, K. C. (1996). Channels and confluence: A history of Singapore art (p. 31). Singapore: Singapore Art Museum. Call no.: RSING 709.5957 KWO
+
+[^6]:Dora Gordine’s sculpture. (1931, January 30). The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+[^7]:42 Malayan women enter art show. (1955, August 11). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+
+[^8]:S’pore teachers’ art show. (1950, October 23). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
 
 [^9]:Colony art show in Oct. (1951, September 25). The Straits Times, p. 8. Retrieved from NewspaperSG.
 
