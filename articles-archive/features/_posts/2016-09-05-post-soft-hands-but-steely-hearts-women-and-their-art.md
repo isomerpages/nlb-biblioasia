@@ -147,15 +147,15 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 [^5]:Kwok, K. C. (1996). Channels and confluence: A history of Singapore art (p. 31). Singapore: Singapore Art Museum. Call no.: RSING 709.5957 KWO
 
-[^6]:Dora Gordine’s sculpture. (1931, January 30). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^6]:[Dora Gordine’s sculpture](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19310130-1.2.84.aspx). (1931, January 30). The Straits Times, p. 12. Retrieved from NewspaperSG.
 
-[^7]:42 Malayan women enter art show. (1955, August 11). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+[^7]:[42 Malayan women enter art show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19550811-1.2.25.aspx). (1955, August 11). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 
-[^8]:S’pore teachers’ art show. (1950, October 23). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+[^8]:[S’pore teachers’ art show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501023-1.2.31.aspx). (1950, October 23). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.
 
-[^9]:Colony art show in Oct. (1951, September 25). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^9]:*[Colony art show in Oct](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510925-1.2.126.aspx)*. (1951, September 25). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^10]:Sabapathy, T. K. (1990, April 12). New approach but no gems. The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^10]:Sabapathy, T. K. (1990, April 12). [New approach but no gems](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900412-1.2.64.5.4.aspx). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
 [^11]:Chew, M.-L. (1975, June 24). [Woman artists show their colours](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750624-1.2.48.2.aspx). *The Straits Times*, p.10. Retrieved from NewspaperSG.
 
