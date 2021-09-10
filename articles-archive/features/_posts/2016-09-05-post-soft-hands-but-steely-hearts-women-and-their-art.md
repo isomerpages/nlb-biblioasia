@@ -181,17 +181,17 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 [^22]:Wong, H. W. F. (2015). CapitaLand: The art of building communities. Singapore: CapitaLand Limited. Call no.: RSING 709.5957 WON
 
-[^23]:Sculpture Society (Singapore). (2016). Welcome to Sculpture Society (Singapore). Retrieved from Sculpture Society (Singapore) website.
+[^23]:Sculpture Society (Singapore). (2016). *Welcome to Sculpture Society (Singapore)*. Retrieved from Sculpture Society (Singapore) website.
 
-[^24]:Tan, J. (1987, August 30). Elsie’s joy in steel a sure eye-grabber. The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^24]:Tan, J. (1987, August 30). [Elsie’s joy in steel a sure eye-grabber](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870830-1.2.92.16.4.aspx). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^25]:Tan, B. T. (2011). Women artists in Singapore (pp. 98–99). Singapore: Select Publishing. Call no.: RSING 704.042095957 TAN
+[^25]:Tan, B. T. (2011). *[Women artists in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13768292)* (pp. 98–99). Singapore: Select Publishing. Call no.: RSING 704.042095957 TAN
 
-[^26]:Tan, 2011, pp. 64–67.
+[^26]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13768292), 2011, pp. 64–67.
 
-[^27]:Kwok, 1996, p. 126.
+[^27]:[Kwok](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7628104), 1996, p. 126.
 
-[^28]:Sabapathy, 1991, pp.40–42.
+[^28]:[Sabapathy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6307024), 1991, pp.40–42.
 
 [^29]:Barnes, R. (1981, November 24). [Of an artist and the tempo of life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811124-1.2.142.7.1.aspx). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
