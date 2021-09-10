@@ -2,15 +2,14 @@
 layout: post
 title: BiblioAsia Jan-Mar 2017
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Jan-Mar 2017"
+breadcrumb: Jan-Mar 2017
 permalink: /vol-12/issue-4/jan-mar-2017/
 ---
-
 <img src="/images/Vol-12-issue-4/vol12_iss4.JPG">  
 
 In this issue, our highlights include cabaret girls with a heart of gold, stained glass windows, and the 75th anniversary of the fall of Singapore.
 
-**Director’s Note** 
+**[Director’s Note](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/director-note)** 
 
 **Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls** <br>
 These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. *Adeline Foo* uncovers these women with hearts of gold. [(PDF)](/files/pdf/vol-12/v12-issue4_LancingGirls.pdf)
@@ -30,7 +29,7 @@ Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-lan
 **From Britannia to the NCO Club** <br>
 The much-loved NCO Club on Beach Road was a favourite downtown R & R spot for off-duty soldiers. *Francis Dorai* charts its history. [(PDF)](/files/pdf/vol-12/v12-issue4_NCOClub.pdf)
 
-**Ties that Bind: The Story of Two Brother Poets** <br>
+**[Ties that Bind: The Story of Two Brother Poets](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/ties-that-bind)** <br>
 An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. *Michelle Heng* has the story. [(PDF)](/files/pdf/vol-12/v12-issue4_TiesBind.pdf)
 
 **The Sook Ching** <br>
@@ -42,10 +41,5 @@ A revamped exhibition space opens at the old Ford Factory in Bukit Timah, markin
 **哎哟华文字真难写!** <br>
 Students in pre-1970s Singapore had to learn the correct way of writing the Chinese script. *Ho Phang Phow* describes the painstaking process of mastering this craft. [(PDF)](/files/pdf/vol-12/v12-issue4_ChineseScript.pdf)
 
-**Script & Stage: Theatre in Singapore from the 50s to 80s** <br>
+**[Script & Stage: Theatre in Singapore from the 50s to 80s](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/script-stages-theatre)** <br>
 A new exhibition on Singapore theatre traces its growth from its nascent days in the 1950s when traditional art forms were dominant, as *Georgina Wong* explains. [(PDF)](/files/pdf/vol-12/v12-issue4_ScriptStage.pdf)
-
-
-
-
-
