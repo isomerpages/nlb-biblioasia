@@ -103,9 +103,11 @@ Centre for Maritime Studies, National University of Singapore, 2010<br>
 Epigram Books, 2013<br>
 [Call nos.: JRSING 428.6 NAT and JSING 428.6 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124330)
 
-***Winning Against the Odds: The Labour Research Unit in NTUC’s Founding***<br>
-Straits Times Press, 2011<br>
-[Call nos.: RSING 331.880959957 NAT and SING 331.880959957 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13729956)
+|***Winning Against the Odds: The Labour Research Unit in NTUC’s Founding***|
+
+|Straits Times Press, 2011|
+
+|[Call nos.: RSING 331.880959957 NAT and SING 331.880959957 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13729956)|
 
 |***Singapore’s Foreign Policy: Beginnings and Future***|<br>
 |MFA Diplomatic Academy, 2008|<br>
