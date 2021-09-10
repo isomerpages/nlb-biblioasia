@@ -157,25 +157,25 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 [^10]:Sabapathy, T. K. (1990, April 12). New approach but no gems. The Straits Times, p. 5. Retrieved from NewspaperSG.
 
-[^11]:Chew, M.-L. (1975, June 24). Woman artists show their colours. The Straits Times, p.10. Retrieved from NewspaperSG.
+[^11]:Chew, M.-L. (1975, June 24). [Woman artists show their colours](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750624-1.2.48.2.aspx). *The Straits Times*, p.10. Retrieved from NewspaperSG.
 
-[^12]:Sian, E. J. (1999, April 24). Is there such a thing as women’s art? The Straits Times, p. 9; De Souza, J. (1987, October 28). Elsie Yu: Lady of steel. The Straits Times, p. 25. Retrieved from NewspaperSG.
+[^12]:Sian, E. J. (1999, April 24). [Is there such a thing as women’s art?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990424-1.2.106.18.aspx) *The Straits Times*, p. 9; De Souza, J. (1987, October 28). Elsie Yu: Lady of steel. *The Straits Times*, p. 25. Retrieved from NewspaperSG.
 
-[^13]:Fan, J. (2001). Something out of nothing? In Women beyond borders: Singapore: Sculpture, 7 March–13 May, 2001 (p. 3). Singapore: Sculpture Square. Call no.: RSING 730.95957 WOM
+[^13]:Fan, J. (2001). Something out of nothing? *[In Women beyond borders: Singapore: Sculpture, 7 March–13 May, 2001](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11200820)* (p. 3). Singapore: Sculpture Square. Call no.: RSING 730.95957 WOM
 
-[^14]:Wong, S. (2001). Rib-in man: An imaginative journey of a box. In Women beyond borders: Singapore: Sculpture, 7 March–13 May, 2001 (p. 5). Singapore: Sculpture Square. Call no.: RSING 730.95957 WOM
+[^14]:Wong, S. (2001). Rib-in man: An imaginative journey of a box. *[In Women beyond borders: Singapore: Sculpture, 7 March–13 May, 2001](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11200820)* (p. 5). Singapore: Sculpture Square. Call no.: RSING 730.95957 WOM
 
-[^15]:Wong, S. (1991, August 15). Of women by women. The Straits Times, p. 6. Retrieved from NewspaperSG
+[^15]:Wong, S. (1991, August 15). [Of women by women](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910815-1.2.57.8.3.aspx). *The Straits Times*, p. 6. Retrieved from NewspaperSG
 
-[^16]:Heng, A. (2011). Singapore contemporary artists series: Amanda Heng: Speak To Me, Walk With Me. Singapore: Singapore Art Museum. Call no.: RSING 709.2 HEN
+[^16]:Heng, A. (2011). *[Singapore contemporary artists series: Amanda Heng: Speak To Me, Walk With Me](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14302149)*. Singapore: Singapore Art Museum. Call no.: RSING 709.2 HEN
 
-[^17]:Sabapathy, T. K. (1991). Sculpture in Singapore (p. 22). Singapore: National Museum. Call no.: RSING 730.95957 SAB 
+[^17]:Sabapathy, T. K. (1991). *[Sculpture in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6307024)* (p. 22). Singapore: National Museum. Call no.: RSING 730.95957 SAB 
  
-[^18]:Dr Toh’s call to kindle interest in sculpture (1967, April 22). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^18]:[Dr Toh’s call to kindle interest in sculpture](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670422-1.2.24.aspx) (1967, April 22). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^19]:Sabapathy, T. K. (1991, November 15). Carving a niche. The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^19]:Sabapathy, T. K. (1991, November 15). [Carving a niche](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911115-1.2.69.3.2.aspx). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-[^20]:Sim, A. (2002, March 15). Living stones. *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^20]:Sim, A. (2002, March 15). [Living stones](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020315-1.2.83.3.1.aspx). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 [^21]:Jacob, J. (2007, January 26). [CityDev unveils its first public artwork](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20070126-1.2.16.2.aspx). *The Business Times*, p. 10. Retrieved from NewspaperSG
 
