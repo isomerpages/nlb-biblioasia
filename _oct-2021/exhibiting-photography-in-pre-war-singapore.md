@@ -102,3 +102,11 @@ After the war, nationalist and anti-colonial sentiments continued to rise. What 
 #### **Different and Yet the Same** 
 
 In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40 respectively – in pre-war Singapore, we see a definite shift in patronage and political affiliations that facilitated these events. To an extent, these exhibitions enabled the participating photographers and the visitors to visualise and imagine a sense of place and loyalty, whether it was directed at Britain, China or Malaya. What remained unchanged, however, was the involvement of political and cultural elites in organising and mobilising these exhibitions for their own motivations and desires. 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-3/authors/William%20Gibson%20.png" style="width: 100px; height: 100px;" />
+	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from University of Westminster (London) and is a 2017/2018 Lee Kong Chian Research Fellow. Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.
+</div>
+
+ 
