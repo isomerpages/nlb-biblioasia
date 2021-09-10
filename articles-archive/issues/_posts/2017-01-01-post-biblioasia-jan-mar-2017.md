@@ -23,19 +23,19 @@ Drawings discovered in a Belgian archive help fill gaps in the history of staine
 **[1960s Fashion: The Legacy of Made-to-Measure](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/1960s-fashion)** <br>
 The changing face of fashion in Singapore is the subject of a new book called *Fashion Most Wanted*. This extract recalls how the advent of TV impacted new fashion trends in the 1960s. [(PDF)](/files/pdf/vol-12/v12-issue4_1960sFashion.pdf)
 
-**Claudius Henry Thomsen: A Pioneer in Malay Printing** <br>
+**[Claudius Henry Thomsen: A Pioneer in Malay Printing](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen)** <br>
 Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula. *Bonny Tan* sheds light on this pioneer printer. [(PDF)](/files/pdf/vol-12/v12-issue4_Claudius.pdf)
 
-**From Britannia to the NCO Club** <br>
+**[From Britannia to the NCO Club](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/britannia-nco-club)** <br>
 The much-loved NCO Club on Beach Road was a favourite downtown R & R spot for off-duty soldiers. *Francis Dorai* charts its history. [(PDF)](/files/pdf/vol-12/v12-issue4_NCOClub.pdf)
 
 **[Ties that Bind: The Story of Two Brother Poets](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/ties-that-bind)** <br>
 An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. *Michelle Heng* has the story. [(PDF)](/files/pdf/vol-12/v12-issue4_TiesBind.pdf)
 
-**The Sook Ching** <br>
+**[The Sook Ching](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/the-sook-ching)** <br>
 February 15 marks the 75th anniversary of the fall of Singapore. *Goh Sin Tub* recounts the horrors that many Chinese suffered at the hands of the Japanese in this short story. [(PDF)](/files/pdf/vol-12/v12-issue4_SookChing.pdf)
 
-**Syonan Gallery: War and its Legacies** <br>
+**[Syonan Gallery: War and its Legacies](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/surviving-jpnese-occu)** <br>
 A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore. *Fiona Tan* details its major highlights. [(PDF)](/files/pdf/vol-12/v12-issue4_SyonanGallery.pdf)
 
 **[哎哟华文字真难写!](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/writingchinesescript)** <br>
