@@ -193,15 +193,15 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 [^28]:Sabapathy, 1991, pp.40–42.
 
-[^29]:Barnes, R. (1981, November 24). Of an artist and the tempo of life. The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^29]:Barnes, R. (1981, November 24). [Of an artist and the tempo of life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811124-1.2.142.7.1.aspx). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^30]:National Museum Art Gallery (Singapore). (1976). National Museum Art Gallery: Singapore & Malaysia art exhibitions. Singapore: National Museum Art Gallery. Call no.: RCLOS O575
+[^30]:National Museum Art Gallery (Singapore). (1976). *[National Museum Art Gallery: Singapore & Malaysia art exhibitions](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12450022)*. Singapore: National Museum Art Gallery. Call no.: RCLOS O575
 
-[^31]:Nayar, P. (1999, December 18). Remembering Kim Lim. The Business Times, p. 22. Retrieved from NewspaperSG.
+[^31]:Nayar, P. (1999, December 18). [Remembering Kim Lim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19991218-1.2.36.8.aspx). *The Business Times*, p. 22. Retrieved from NewspaperSG.
 
-[^32]:Zhuang, X. (2011). Uncommon wisdom: Works by Chng Seok Tin from 1966–2011 (p. 27). Singapore: Nanyang Academy of Fine Arts. Call no.: 709.5957 ZHU
+[^32]:Zhuang, X. (2011). *[Uncommon wisdom: Works by Chng Seok Tin from 1966–2011](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14245183)* (p. 27). Singapore: Nanyang Academy of Fine Arts. Call no.: 709.5957 ZHU
 
-[^33]:Chng, S. T. (2011). A flower, yet not a flower. In Uncommon wisdom: Works by Chng Seok Tin from 1966–2011 (pp. 18–19). Singapore: Nanyang Academy of Fine Arts. Call no.: 709.5957 ZHU 
+[^33]:Chng, S. T. (2011). A flower, yet not a flower. In *[Uncommon wisdom: Works by Chng Seok Tin from 1966–2011](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14245183)* (pp. 18–19). Singapore: Nanyang Academy of Fine Arts. Call no.: 709.5957 ZHU 
 
 [^34]:Chow, C. (2007, January 18). [Putting art out in the open](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070118-1.2.76.1.1.aspx). *The Straits Times*, p. 53. Retrieved from NewspaperSG.
 
