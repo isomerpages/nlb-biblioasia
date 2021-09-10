@@ -25,10 +25,10 @@ We also feature the National Library’s collections in articles on the early Ma
 On behalf of the National Library, we would like to wish everyone a fabulous start to 2019!
 
 <br>
-<div style="background-color: white;">
 <img src="/images/Vol-14-issue-4/tan.JPG" style="width: 100px; height: 100px;">
-<b>Tan Huism</b>
+<center>
+<b>Tan Huism</b><br>
 Director, National Library
-</div>
+</center>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
