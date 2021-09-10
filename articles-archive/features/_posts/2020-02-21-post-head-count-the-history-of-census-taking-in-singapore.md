@@ -202,10 +202,10 @@ It is common for countries, therefore, to adopt a combination of a register-base
 [^38]:[Census has nothing to do with tax](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470307-1.2.29.13). (1947, March 7). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^39]:[Del Tufo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4500010), 1949, p. 19.
 [^40]:[Saw](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14383911), 2012, p. 341; [Del Tufo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4500010), 1949, pp. 5, 158–160; [Timeline of modern Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19991231-1.2.139.11.3). (1999, December 31). *The Straits Times*, p. 37. Retrieved from NewspaperSG.
-[^41]:[Singapore census for 1957: 1,445,930](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581128-1.2.37). (1958, November 28). The Straits Times, p. 4; [People of Singapore will be counted in 1957](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19560427-1.2.23). (1956, April 27). The Singapore Free Press, p. 3; Pillay, T. (1957, February 1). Singapore census is set for June, 1957. Singapore Standard, p. 2. Retrieved from NewspaperSG.
-[^42]:
-[^43]:
-[^44]:
+[^41]:[Singapore census for 1957: 1,445,930](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581128-1.2.37). (1958, November 28). *The Straits Times*, p. 4; [People of Singapore will be counted in 1957](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19560427-1.2.23). (1956, April 27). *The Singapore Free Press*, p. 3; Pillay, T. (1957, February 1). [Singapore census is set for June, 1957](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19570201-1.2.25). *Singapore Standard*, p. 2. Retrieved from NewspaperSG.
+[^42]:United Nations. Department of Economic and Social Affairs. (1969). *Principles and recommendations for the 1970 population censuses*. Second printing with changes of a non-substantive nature. Series M, No. 4. (p. 2). New York: United Nations. Retrieved from United Nations website.
+[^43]:Arumainathan, P. (1973). [*Report on the census of population 1970, Singapore (p. 2). Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4648614): Govt. Print. Off. (Call no.: RSING 312.095957 SIN); Sam, J. (1969, April 26). [Census of S’pore next year: a $2.3 m. operation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690426-1.2.32). *The Straits Times*, p. 5. Retrieved from NewspaperSG; Saw, 2012, p. 342.
+[^44]:[Saw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911), 2012, p. 343; [Census to begin on May 20](http://eservice.nlb.gov.sg/newspapers/Digitised/Article/biztimes19800514-1.2.13.5). (1980, May 14). The Business Times, p. 2; All set for the count. (1980, May 13). New Nation, p. 1. Retrieved from NewspaperSG.
 [^45]:
 [^46]:
 [^47]:
@@ -213,7 +213,4 @@ It is common for countries, therefore, to adopt a combination of a register-base
 [^49]:
 [^50]:
 
-United Nations. Department of Economic and Social Affairs. (1969). Principles and recommendations for the 1970 population censuses. Second printing with changes of a non-substantive nature. Series M, No. 4. (p. 2). New York: United Nations. Retrieved from United Nations website.
-Arumainathan, P. (1973). Report on the census of population 1970, Singapore (p. 2). Singapore: Govt. Print. Off. (Call no.: RSING 312.095957 SIN); Sam, J. (1969, April 26). Census of S’pore next year: a $2.3 m. operation. The Straits Times, p. 5. Retrieved from NewspaperSG; Saw, 2012, p. 342.
-Saw, 2012, p. 343; Census to begin on May 20. (1980, May 14). The Business Times, p. 2; All set for the count. (1980, May 13). New Nation, p. 1. Retrieved from NewspaperSG.
 Republic of Singapore. Government gazette. Bills supplement. (1990, March 3). Census (Amendment) Bill (B 10/1990) (pp. 2–3). Singapore: [s.n.]. (Call no.: RSING 348.5957 SGGBS); Census officer can now swop information. (1990, March 29). The Straits Times, p. 18. Retrieved from NewspaperSG.
