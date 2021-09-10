@@ -107,8 +107,8 @@ Epigram Books, 2013<br>
 Straits Times Press, 2011<br>
 [Call nos.: RSING 331.880959957 NAT and SING 331.880959957 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13729956)
 
-***Singapore’s Foreign Policy: Beginnings and Future***<br>
-MFA Diplomatic Academy, 2008<br>
-Call no.: RSING 327.5957 NAT
+|***Singapore’s Foreign Policy: Beginnings and Future***|<br>
+|MFA Diplomatic Academy, 2008|<br>
+|[Call no.: RSING 327.5957 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13179096)|
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
