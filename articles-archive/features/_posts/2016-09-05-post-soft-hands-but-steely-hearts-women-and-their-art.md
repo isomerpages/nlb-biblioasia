@@ -137,17 +137,17 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 #### **Notes**
 
-[^1]:De Souza, J. (1987, October 28). Elsie Yu: Lady of steel. The Straits Times, p. 25. Retrieved from NewspaperSG.
+[^1]:De Souza, J. (1987, October 28). [Elsie Yu: Lady of steel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871028-1.2.67.30.1.aspx). *The Straits Times*, p. 25. Retrieved from NewspaperSG.
 
-[^2]:Nayar, P. (2000, June 24). ART the Asian woman. The Business Times, p. 19. Retrieved from NewspaperSG.
+[^2]:Nayar, P. (2000, June 24). [ART the Asian woman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20000624-1.2.36.1.aspx). *The Business Times*, p. 19. Retrieved from NewspaperSG.
 
-[^3]:Exhibition of women’s work. (1931, September 26). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 2. Retrieved from NewspaperSG.
+[^3]:[Exhibition of women’s work](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310926-1.2.6.aspx). (1931, September 26). *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 2. Retrieved from NewspaperSG.
 
-[^4]:Singapore Art Museum. (1998). Imaging selves: Singapore Art Museum collection exhibition series 1998–1999 (p. 23). Singapore: Singapore Art Museum. Call no.: RSING 759.95 IMA
+[^4]:Singapore Art Museum. (1998). *[Imaging selves: Singapore Art Museum collection exhibition series 1998–1999](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=9264209)* (p. 23). Singapore: Singapore Art Museum. Call no.: RSING 759.95 IMA
 
-[^5]:Kwok, K. C. (1996). Channels and confluence: A history of Singapore art (p. 31). Singapore: Singapore Art Museum. Call no.: RSING 709.5957 KWO
+[^5]:Kwok, K. C. (1996). *[Channels and confluence: A history of Singapore art](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7628104)* (p. 31). Singapore: Singapore Art Museum. Call no.: RSING 709.5957 KWO
 
-[^6]:[Dora Gordine’s sculpture](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19310130-1.2.84.aspx). (1931, January 30). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^6]:[Dora Gordine’s sculpture](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19310130-1.2.84.aspx). (1931, January 30). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
 [^7]:[42 Malayan women enter art show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19550811-1.2.25.aspx). (1955, August 11). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 
