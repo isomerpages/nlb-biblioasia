@@ -140,43 +140,72 @@ Exhibition of women’s work. (1931, September 26). The Singapore Free Press and
 Singapore Art Museum. (1998). Imaging selves: Singapore Art Museum collection exhibition series 1998–1999 (p. 23). Singapore: Singapore Art Museum. Call no.: RSING 759.95 IMA
 Kwok, K. C. (1996). Channels and confluence: A history of Singapore art (p. 31). Singapore: Singapore Art Museum. Call no.: RSING 709.5957 KWO
 Dora Gordine’s sculpture. (1931, January 30). The Straits Times, p. 12. Retrieved from NewspaperSG.
- 42 Malayan women enter art show. (1955, August 11). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+
+42 Malayan women enter art show. (1955, August 11). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
 S’pore teachers’ art show. (1950, October 23). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
-Colony art show in Oct. (1951, September 25). The Straits Times, p. 8. Retrieved from NewspaperSG.
-Sabapathy, T. K. (1990, April 12). New approach but no gems. The Straits Times, p. 5. Retrieved from NewspaperSG.
-Chew, M.-L. (1975, June 24). Woman artists show their colours. The Straits Times, p.10. Retrieved from NewspaperSG.
-Sian, E. J. (1999, April 24). Is there such a thing as women’s art? The Straits Times, p. 9; De Souza, J. (1987, October 28). Elsie Yu: Lady of steel. The Straits Times, p. 25. Retrieved from NewspaperSG.
-Fan, J. (2001). Something out of nothing? In Women beyond borders: Singapore: Sculpture, 7 March–13 May, 2001 (p. 3). Singapore: Sculpture Square. Call no.: RSING 730.95957 WOM
-Wong, S. (2001). Rib-in man: An imaginative journey of a box. In Women beyond borders: Singapore: Sculpture, 7 March–13 May, 2001 (p. 5). Singapore: Sculpture Square. Call no.: RSING 730.95957 WOM
-Wong, S. (1991, August 15). Of women by women. The Straits Times, p. 6. Retrieved from NewspaperSG
-Heng, A. (2011). Singapore contemporary artists series: Amanda Heng: Speak To Me, Walk With Me. Singapore: Singapore Art Museum. Call no.: RSING 709.2 HEN
- Sabapathy, T. K. (1991). Sculpture in Singapore (p. 22). Singapore: National Museum. Call no.: RSING 730.95957 SAB 
-Dr Toh’s call to kindle interest in sculpture (1967, April 22). The Straits Times, p. 4. Retrieved from NewspaperSG.
-Sabapathy, T. K. (1991, November 15). Carving a niche. The Straits Times, p. 3. Retrieved from NewspaperSG.
-Sim, A. (2002, March 15). Living stones. The Straits Times, p. 4. Retrieved from NewspaperSG.
-Jacob, J. (2007, January 26). CityDev unveils its first public artwork. The Business Times, p. 10. Retrieved from NewspaperSG
-Wong, H. W. F. (2015). CapitaLand: The art of building communities. Singapore: CapitaLand Limited. Call no.: RSING 709.5957 WON
-Sculpture Society (Singapore). (2016). Welcome to Sculpture Society (Singapore). Retrieved from Sculpture Society (Singapore) website.
-Tan, J. (1987, August 30). Elsie’s joy in steel a sure eye-grabber. The Straits Times, p. 11. Retrieved from NewspaperSG.
-Tan, B. T. (2011). Women artists in Singapore (pp. 98–99). Singapore: Select Publishing. Call no.: RSING 704.042095957 TAN
-Tan, 2011, pp. 64–67.
-Kwok, 1996, p. 126.
-Sabapathy, 1991, pp.40–42.
-Barnes, R. (1981, November 24). Of an artist and the tempo of life. The Straits Times, p. 5. Retrieved from NewspaperSG.
-National Museum Art Gallery (Singapore). (1976). National Museum Art Gallery: Singapore & Malaysia art exhibitions. Singapore: National Museum Art Gallery. Call no.: RCLOS O575
-Nayar, P. (1999, December 18). Remembering Kim Lim. The Business Times, p. 22. Retrieved from NewspaperSG.
-Zhuang, X. (2011). Uncommon wisdom: Works by Chng Seok Tin from 1966–2011 (p. 27). Singapore: Nanyang Academy of Fine Arts. Call no.: 709.5957 ZHU
- Chng, S. T. (2011). A flower, yet not a flower. In Uncommon wisdom: Works by Chng Seok Tin from 1966–2011 (pp. 18–19). Singapore: Nanyang Academy of Fine Arts. Call no.: 709.5957 ZHU 
-Chow, C. (2007, January 18). Putting art out in the open. The Straits Times, p. 53. Retrieved from NewspaperSG.
-Wong, S. (1993, July 6). Back to nature. The Straits Times, p. 11. Retrieved from NewspaperSG.
-The Esplanade Theatre Co. Ltd. (2016). Construction Site 2016. Retrieved from Esplanade Theatres on the Bay website.
 
-Prvacki, D. (2015). Marina South Pier Mural 2015. Retrieved from Marina South Pier Mural 2015 website. 
+[^9]:Colony art show in Oct. (1951, September 25). The Straits Times, p. 8. Retrieved from NewspaperSG.
 
-Pedas is Malay for “spicy”.
+[^10]:Sabapathy, T. K. (1990, April 12). New approach but no gems. The Straits Times, p. 5. Retrieved from NewspaperSG.
 
-Sabapathy, T. K. (2013). Fluxion: Art & thoughts: Kumari Nahappan (pp. 120–124). Singapore: Editions Didier Millet. Call no.: RSING 709.5957 SAB 
+[^11]:Chew, M.-L. (1975, June 24). Woman artists show their colours. The Straits Times, p.10. Retrieved from NewspaperSG.
 
-Sabapathy, 2013, p. 123.
+[^12]:Sian, E. J. (1999, April 24). Is there such a thing as women’s art? The Straits Times, p. 9; De Souza, J. (1987, October 28). Elsie Yu: Lady of steel. The Straits Times, p. 25. Retrieved from NewspaperSG.
 
-Shetty, D. (2015, August 18). Sculptures for SG50. The Straits Times. Retrieved from Factiva.
+[^13]:Fan, J. (2001). Something out of nothing? In Women beyond borders: Singapore: Sculpture, 7 March–13 May, 2001 (p. 3). Singapore: Sculpture Square. Call no.: RSING 730.95957 WOM
+
+[^14]:Wong, S. (2001). Rib-in man: An imaginative journey of a box. In Women beyond borders: Singapore: Sculpture, 7 March–13 May, 2001 (p. 5). Singapore: Sculpture Square. Call no.: RSING 730.95957 WOM
+
+[^15]:Wong, S. (1991, August 15). Of women by women. The Straits Times, p. 6. Retrieved from NewspaperSG
+
+[^16]:Heng, A. (2011). Singapore contemporary artists series: Amanda Heng: Speak To Me, Walk With Me. Singapore: Singapore Art Museum. Call no.: RSING 709.2 HEN
+
+[^17]:Sabapathy, T. K. (1991). Sculpture in Singapore (p. 22). Singapore: National Museum. Call no.: RSING 730.95957 SAB 
+ 
+[^18]:Dr Toh’s call to kindle interest in sculpture (1967, April 22). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^19]:Sabapathy, T. K. (1991, November 15). Carving a niche. The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^20]:Sim, A. (2002, March 15). Living stones. *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+
+[^21]:Jacob, J. (2007, January 26). CityDev unveils its first public artwork. *The Business Times*, p. 10. Retrieved from NewspaperSG
+
+[^22]:Wong, H. W. F. (2015). CapitaLand: The art of building communities. Singapore: CapitaLand Limited. Call no.: RSING 709.5957 WON
+
+[^23]:Sculpture Society (Singapore). (2016). Welcome to Sculpture Society (Singapore). Retrieved from Sculpture Society (Singapore) website.
+
+[^24]:Tan, J. (1987, August 30). Elsie’s joy in steel a sure eye-grabber. The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+[^25]:Tan, B. T. (2011). Women artists in Singapore (pp. 98–99). Singapore: Select Publishing. Call no.: RSING 704.042095957 TAN
+
+[^26]:Tan, 2011, pp. 64–67.
+
+[^27]:Kwok, 1996, p. 126.
+
+[^28]:Sabapathy, 1991, pp.40–42.
+
+[^29]:Barnes, R. (1981, November 24). Of an artist and the tempo of life. The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+[^30]:National Museum Art Gallery (Singapore). (1976). National Museum Art Gallery: Singapore & Malaysia art exhibitions. Singapore: National Museum Art Gallery. Call no.: RCLOS O575
+
+[^31]:Nayar, P. (1999, December 18). Remembering Kim Lim. The Business Times, p. 22. Retrieved from NewspaperSG.
+
+[^32]:Zhuang, X. (2011). Uncommon wisdom: Works by Chng Seok Tin from 1966–2011 (p. 27). Singapore: Nanyang Academy of Fine Arts. Call no.: 709.5957 ZHU
+
+[^33]:Chng, S. T. (2011). A flower, yet not a flower. In Uncommon wisdom: Works by Chng Seok Tin from 1966–2011 (pp. 18–19). Singapore: Nanyang Academy of Fine Arts. Call no.: 709.5957 ZHU 
+
+[^34]:Chow, C. (2007, January 18). Putting art out in the open. The Straits Times, p. 53. Retrieved from NewspaperSG.
+
+[^35]:Wong, S. (1993, July 6). Back to nature. The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+[^36]:The Esplanade Theatre Co. Ltd. (2016). Construction Site 2016. Retrieved from Esplanade Theatres on the Bay website.
+
+[^37]:Prvacki, D. (2015). Marina South Pier Mural 2015. Retrieved from Marina South Pier Mural 2015 website. 
+
+[^38]:Pedas is Malay for “spicy”.
+
+[^39]:Sabapathy, T. K. (2013). Fluxion: Art & thoughts: Kumari Nahappan (pp. 120–124). Singapore: Editions Didier Millet. Call no.: RSING 709.5957 SAB 
+
+[^40]:Sabapathy, 2013, p. 123.
+
+[^41]:Shetty, D. (2015, August 18). Sculptures for SG50. The Straits Times. Retrieved from Factiva.
