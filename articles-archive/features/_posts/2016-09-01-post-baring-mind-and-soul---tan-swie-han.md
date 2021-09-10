@@ -6,6 +6,8 @@ layout: post
 ---
 #### After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artist returns to the National Library with a new solo exhibition. **Chung Sang Hong** tells you more.
 
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg">Tan Swie Hian’s notebooks offer an inkling into the thought processes he engages in when creating his artworks. These pages show handwritten notes and a sketch of his painting “Ode to Euphrates Poplar”. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
+
 Journaling has been used by great artists since time immemorial. Michelangelo’s notebooks are not only a priceless archive of his creative inspirations but also offer a rare glimpse into his private life. From snippets of poetry, random doodles and ethereal drawings to memos and practical listings of food and expenses, the notebooks cast a light into the Italian master’s inner world; the connections and juxtapositions of words and images divulge the thinking and creative processes behind his works.[^1]
 
 That same deep introspection, an intimate baring of the mind and soul as it were, is similarly revealed in the private notebooks of Tan Swie Hian, whom Time magazine proclaimed in 2003 as “Singapore’s Renaissance man”.2 For those who are familiar with the works of Tan, this epithet is a justifiably fitting tribute.
@@ -35,3 +37,29 @@ Tan has won a string of prestigious awards both locally – including the Cultur
 Time and again, Tan’s paintings have made headline news as they set record prices in art auctions.6 In December 2012, his oil and acrylic work, “When the Moon is Orbed”, fetched an astounding RMB18.975 million (S$3.7 million) at a Beijing art auction.7 Barely two years later, his ink-on-rice-paper painting, “Portrait of Bada Shanren”, went under the gavel for a record RMB20.7 million (S$4.4 million) in Beijing.8 With this sale, Tan has clearly made his name as the most expensive living artist in Southeast Asia.
 
 More recently in May 2016, a set of six lithographed sketches done by former South African president Nelson Mandela – someone whom Tan greatly admires – and painted over by the artist was sold for HK$3.52 million (S$630,000), the highest-paid piece at an auction in Hong Kong. The images depict the hands and arms of Mandela breaking free from manacles.[^9]
+
+<div style="background-color: white;"><img src="/images/Vol-12-issue-3/baring-mind-and-soul/02-baring-mind-soul.jpg">“The Nelson Mandela Unity Series” (2004). Acrylic, ink and pencil on monochrome lithos, 131 cm x 150 cm. <i>Collection of Julien La Chon.</i></div>
+
+#### **Anatomy of a Free Mind: The Exhibition**
+
+The works presented in “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” reflect the full depth and diversity of Tan’s creative expressions. Representing a considerable part of Tan’s oeuvre, the exhibition features paintings, sculptures, public art, calligraphy, seal carvings, photographs, lithographs, multimedia creations (dance choreographies, performances and musical compositions) as well as his literary output (poetry, fables and essays). To contextualise his works, the artist transcribed the notes and writings from his notebooks – elucidating the rationale and thinking behind each art piece – to be displayed alongside the works.
+
+As an artist, much of Tan’s output is difficult to pin down and define: versatility and freedom of expression are hallmarks of his works, and much of it cannot be categorised into any particular subject, medium or genre. While the body of works presented in this exhibition has its subtle interconnectedness, a few themes stand out.
+
+#### **Tribute to Masters**
+
+Tan Swie Hian is deeply interested in people. He has painted many portraits of personalities – in art, literature, politics and other fields – whom he admires. In this exhibition, portraits and works paying tribute to some of these luminaries can be seen: these include Pablo Picasso, Leonor Fini, Bada Shanren (八大山人), Charlie Chaplin, Franz Kafka, Virginia Woolf, Steve Jobs and Nelson Mandela, to name a few.
+
+<div style="background-color: white;"><img src="/images/Vol-12-issue-3/baring-mind-and-soul/03-baring-mind-soul.jpg">(Left) “Graffitied Portrait of Charlie Chaplin” (2013). Ink and acrylic on rice paper, 226 cm x 105.4 cm. <i>Collection of Tan Swie Hian.</i></div>
+<div style="background-color: white;">(Right) “A Couple” (2014). Oil, acrylic and ink on canvas, 213.5 cm x 339 cm. <i>Collection of Tan Swie Hian.</i></div>
+
+One of the paintings, titled “A Couple”, is an unusual portrayal of Lee Kuan Yew, Singapore’s founding prime minister, and his wife as a young couple quite obviously in love. The painting, inspired by a 1946 photograph of the couple when they were law students in Cambridge University, England, depicts Lee Kuan Yew and Kwa Geok Choo in the first blush of youth, and exudes warmth and carefree pleasure – one can almost feel the sunshine that bathes the couple in vibrant colour.
+
+The portrait, which is devoid of any political undertones, is an ode to a love that spanned over six decades. Tan began painting this portrait on Valentine’s Day in 2009 and completed it only in 2014. When Kwa passed away in October 2010, he added two Vanda Miss Joaquim orchids, Singapore’s national flower, by her side as a tribute to the devoted mother and loving wife.
+
+#### **Spiritual and Philosophical Insights**
+
+Perhaps Tan’s most enigmatic and intriguing works are those inspired by his spiritual and philosophical enlightenment. While meditating one day in September 2009, Tan had a vision in which he saw the full moon hovering above the parted foliage of a tree reflected onto a still blue pond. He quickly captured the vision in a sketch in his notebook. The ethereal scene was eventually depicted in the oil and acrylic painting “When the Moon is Orbed”.
+
+<div style="background-color: white;"><img src="/images/Vol-12-issue-3/baring-mind-and-soul/04-baring-mind-soul.jpg">Detail from “When the Moon Is Orbed” (2012). Oil and acrylic on canvas, 140 cm x 206 cm.
+<i>Private collection.</i></div>
