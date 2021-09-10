@@ -203,18 +203,18 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 [^33]:Chng, S. T. (2011). A flower, yet not a flower. In Uncommon wisdom: Works by Chng Seok Tin from 1966–2011 (pp. 18–19). Singapore: Nanyang Academy of Fine Arts. Call no.: 709.5957 ZHU 
 
-[^34]:Chow, C. (2007, January 18). Putting art out in the open. The Straits Times, p. 53. Retrieved from NewspaperSG.
+[^34]:Chow, C. (2007, January 18). [Putting art out in the open](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070118-1.2.76.1.1.aspx). *The Straits Times*, p. 53. Retrieved from NewspaperSG.
 
-[^35]:Wong, S. (1993, July 6). Back to nature. The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^35]:Wong, S. (1993, July 6). [Back to nature](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930706-1.2.63.4.2.aspx). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^36]:The Esplanade Theatre Co. Ltd. (2016). Construction Site 2016. Retrieved from Esplanade Theatres on the Bay website.
+[^36]:The Esplanade Theatre Co. Ltd. (2016). *Construction Site 2016*. Retrieved from Esplanade Theatres on the Bay website.
 
-[^37]:Prvacki, D. (2015). Marina South Pier Mural 2015. Retrieved from Marina South Pier Mural 2015 website. 
+[^37]:Prvacki, D. (2015). *Marina South Pier Mural 2015*. Retrieved from Marina South Pier Mural 2015 website. 
 
 [^38]:Pedas is Malay for “spicy”.
 
-[^39]:Sabapathy, T. K. (2013). Fluxion: Art & thoughts: Kumari Nahappan (pp. 120–124). Singapore: Editions Didier Millet. Call no.: RSING 709.5957 SAB 
+[^39]:Sabapathy, T. K. (2013). *[Fluxion: Art & thoughts: Kumari Nahappan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200385015)* (pp. 120–124). Singapore: Editions Didier Millet. Call no.: RSING 709.5957 SAB 
 
 [^40]:Sabapathy, 2013, p. 123.
 
-[^41]:Shetty, D. (2015, August 18). Sculptures for SG50. The Straits Times. Retrieved from Factiva.
+[^41]:Shetty, D. (2015, August 18). Sculptures for SG50. *The Straits Times*. Retrieved from Factiva.
