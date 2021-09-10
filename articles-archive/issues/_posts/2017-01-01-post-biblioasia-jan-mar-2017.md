@@ -11,16 +11,16 @@ In this issue, our highlights include cabaret girls with a heart of gold, staine
 
 **[Director’s Note](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/director-note)** 
 
-**Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls** <br>
+**[Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour)** <br>
 These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. *Adeline Foo* uncovers these women with hearts of gold. [(PDF)](/files/pdf/vol-12/v12-issue4_LancingGirls.pdf)
 
-**Windows into History** <br>
+**[Windows into History](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/windows-into-history)** <br>
 Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. *Yeo Kang Shua* and *Swati Chandgadkar* reveal their findings. [(PDF)](/files/pdf/vol-12/v12-issue4_Windows.pdf)
 
-**From Pauper to Philanthropist: The Tan Tock Seng Story** <br>
+**[From Pauper to Philanthropist: The Tan Tock Seng Story](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/pauper-to-philanthrop)** <br>
 *Sue-Ann Chia* traces the classic rags-to-riches story of a vegetable seller turned land speculator who left a hospital named after him in Singapore. [(PDF)](/files/pdf/vol-12/v12-issue4_Pauper.pdf)
 
-**1960s Fashion: The Legacy of Made-to-Measure** <br>
+**[1960s Fashion: The Legacy of Made-to-Measure](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/1960s-fashion)** <br>
 The changing face of fashion in Singapore is the subject of a new book called *Fashion Most Wanted*. This extract recalls how the advent of TV impacted new fashion trends in the 1960s. [(PDF)](/files/pdf/vol-12/v12-issue4_1960sFashion.pdf)
 
 **Claudius Henry Thomsen: A Pioneer in Malay Printing** <br>
@@ -38,7 +38,7 @@ February 15 marks the 75th anniversary of the fall of Singapore. *Goh Sin Tub* r
 **Syonan Gallery: War and its Legacies** <br>
 A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore. *Fiona Tan* details its major highlights. [(PDF)](/files/pdf/vol-12/v12-issue4_SyonanGallery.pdf)
 
-**哎哟华文字真难写!** <br>
+**[哎哟华文字真难写!](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/writingchinesescript)** <br>
 Students in pre-1970s Singapore had to learn the correct way of writing the Chinese script. *Ho Phang Phow* describes the painstaking process of mastering this craft. [(PDF)](/files/pdf/vol-12/v12-issue4_ChineseScript.pdf)
 
 **[Script & Stage: Theatre in Singapore from the 50s to 80s](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/script-stages-theatre)** <br>
