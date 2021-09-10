@@ -192,13 +192,18 @@ It is common for countries, therefore, to adopt a combination of a register-base
 [^28]:Fang, H. (1947, September 24).[ Census men were asked: “Is this a raid?”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribue19470924-1.2.103) *The Malaya Tribune*, p. 8. Retrieved from NewspaperSG.
 [^29]:[*The Malaya Tribune*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribue19470924-1.2.103), 24 Sep 1947, p. 8.
 [^30]:[Census finds 1,000 homeless](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470925-1.2.17). (1947, September 25). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
-[^31]:
-[^32]:
-[^33]:
-[^34]:
-[^35]:
+[^31]:[Police escorts for census workers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470924-1.2.9). (1947, September 24). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^32]:[Singapore census winding up today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470926-1.2.42). (1947, September 26). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^33]:[S’pore doubles population in sixteen years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribue19491010-1.2.11). (1949, October 10). *The Malaya Tribune*, p. 1. Retrieved from NewspaperSG.
+[^34]:Huff, G., & Majima, S. (Eds.; Trans.). (2018). [*World War II Singapore: The Chōsabu reports on Syonan*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361) (p. 3). Singapore: NUS Press. (Call no.: RSING 959.5703 WOR)
+[^35]:[Huff & Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, pp. 133, 135.
 [^36]:
 [^37]:
 [^38]:
 [^39]:
 [^40]:
+National Library Board. (2013). [Operation Sook Ching](http://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html) written by Stephanie Ho. Retrieved from Singapore Infopedia; Huff & Majima, 2018, p. 133.)
+Census enumerators out tonight. (1947, August 23). The Straits Times, p. 3. Retrieved from NewspaperSG.
+Census has nothing to do with tax. (1947, March 7). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+Del Tufo, 1949, p. 19.
+Saw, 2012, p. 341; Del Tufo, 1949, pp. 5, 158–160; Timeline of modern Singapore. (1999, December 31). The Straits Times, p. 37. Retrieved from NewspaperSG.
