@@ -6,7 +6,7 @@ layout: post
 ---
 #### After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artist returns to the National Library with a new solo exhibition. **Chung Sang Hong** tells you more.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg">Tan Swie Hian’s notebooks offer an inkling into the thought processes he engages in when creating his artworks. These pages show handwritten notes and a sketch of his painting “Ode to Euphrates Poplar”. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg">Tan Swie Hian’s notebooks offer an inkling into the thought processes he engages in when creating his artworks. These pages show handwritten notes and a sketch of his painting “Ode to Euphrates Poplar”. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
 
 Journaling has been used by great artists since time immemorial. Michelangelo’s notebooks are not only a priceless archive of his creative inspirations but also offer a rare glimpse into his private life. From snippets of poetry, random doodles and ethereal drawings to memos and practical listings of food and expenses, the notebooks cast a light into the Italian master’s inner world; the connections and juxtapositions of words and images divulge the thinking and creative processes behind his works.[^1]
 
@@ -38,7 +38,7 @@ Time and again, Tan’s paintings have made headline news as they set record pri
 
 More recently in May 2016, a set of six lithographed sketches done by former South African president Nelson Mandela – someone whom Tan greatly admires – and painted over by the artist was sold for HK$3.52 million (S$630,000), the highest-paid piece at an auction in Hong Kong. The images depict the hands and arms of Mandela breaking free from manacles.[^9]
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-3/baring-mind-and-soul/02-baring-mind-soul.jpg">“The Nelson Mandela Unity Series” (2004). Acrylic, ink and pencil on monochrome lithos, 131 cm x 150 cm. <i>Collection of Julien La Chon.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/baring-mind-and-soul/02-baring-mind-soul.jpg">“The Nelson Mandela Unity Series” (2004). Acrylic, ink and pencil on monochrome lithos, 131 cm x 150 cm. <i>Collection of Julien La Chon.</i></div>
 
 #### **Anatomy of a Free Mind: The Exhibition**
 
