@@ -37,7 +37,7 @@ When Umi returned, her father invited me to go with him to Kuala Lumpur to meet 
 
 Finally, early the following year, I plucked up the courage to approach Umi’s father, and told him I wanted to marry her.
 
-I thought he would be furious. In fact, he was not. He did not want us to get married immediately. His elder daughter had gone to university. He asked me to wait till she graduated. Umi was impatient, unwilling to carry on as we were for four more years. My own mother was adamant – Umi’s family had treated me well and I must not let them down. ‘You have already waited 12 years – you will just have to wait another four!’ So we did.
+I thought he would be furious. In fact, he was not. He did not want us to get married immediately. His elder daughter had gone to university. He asked me to wait till she graduated. Umi was impatient, unwilling to carry on as we were for four more years. My own mother was adamant – Umi’s family had treated me well and I must not let them down. “You have already waited 12 years – you will just have to wait another four!” So we did.
 
 Finally, in December 1958, the wedding took place – in fact, two weddings. Umi’s sister got married at the same time. And Umi and I have been together ever since.
 
