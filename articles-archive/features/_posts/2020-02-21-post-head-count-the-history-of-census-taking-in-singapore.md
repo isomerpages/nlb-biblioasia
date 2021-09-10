@@ -162,3 +162,25 @@ It is common for countries, therefore, to adopt a combination of a register-base
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
 
 #### **Notes**
+[^1]:Department of Statistics Singapore. (2019, October 1). *Singapore Population*. Retrieved from Department of Statistics Singapore website.
+[^2]:United Nations. Department of Economic and Social Affairs, Statistics Division. (2016). *Handbook on the Management of Population and Housing Censuses*. Retrieved from United Nations website.
+[^3]:United Nations. Department of Economic and Social Affairs, Statistics Division. (2019). *Population and Vital Statistics Report* (p. 1). Retrieved from United Nations website.
+[^4]:McKeown, A. (2004, June). Global migration, 1846-–1940. *Journal of World History*, 15 (2), p. 156. Retrieved from JSTOR via NLB’s eResources website.
+[^5]:Marriott, H. (1991). The peoples of Singapore: inhabitants and population. In Brooke, G.E., Makepeace, W. & Braddell, R. St. John, Sir. (Eds.). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (p. 341). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+[^6]:Bastin, J. (2014). [*Raffles and Hastings: Private exchanges behind the founding of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141) (p. 148). Singapore: National Library Board Singapore [and] Marshall Cavendish Editions. (Call no.: RSING 959.5703 BAS). According to Saw Swee Hock, “the enthusiasm of Raffles had led him to exaggerate somewhat” the population of Singapore.,Thomas Braddell reported that the total population was 5,874 in 1821. See Saw, S. (2012). [*The population of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911) (p. 8) (3rd Ed.). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
+[^7]:Buckley, C.B. (1984). [*An anecdotal history of old times in Singapore 1819–1867*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) (p. 154). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+[^8]:Tables listing the figures for each of the early census from 1824 till 1911 are provided by Marriot from pages 355 to 362. Please note that census figures for years 1823 to 1828 can also be found in [Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18290212-1.2.7). (1829, February 12). *The Singapore Chronical and Commercial Register*, p. 1. Retrieved from NewspaperSG.
+[^9]:[Marriott](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718), 1991, pp. 346–348, 350–351.
+[^10]:Papers of Thomas John Newbold. Retrieved from Archives Hub website.
+[^11]:Newbold, T.J. (1971). [*Political and statistical account of the British settlements in the Straits of Malacca*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2422180) (Vol. 1, pp. 283–285). Singapore: Oxford University Press. (Call no.: RCLOS 949.5 NEW)
+[^12]:Saw, S. (1969, March). Population trends in Singapore, 1819_1967. *Journal of Southeast Asian History*, 10 (1), p. 36. Retrieved from JSTOR via NLB’s eResources website; [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18710315-1.2.10.3). (1871, March 15). *Straits Times Overland Journal*, p. 6. Retrieved from NewspaperSG; Straits Settlements. [*Government gazette*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5289724). (1871, March 3). Government Notification No. 50. Singapore: Mission Press, p. 93. (Microfilm no.: NL1004)
+[^13]:[The legislative session](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18701025-1.2.7.2). (1870, October 25). Straits Times Overland Journal, p. 2. Retrieved from NewspaperSG; Straits Settlements. [Government gazette](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5289724). (1870, October 21). Ordinance No. XI of 1870. An Ordinance for taking the Census of the Straits Settlements. Singapore: Mission Press, p. 607. (Microfilm no.: NL1004); Untitled. (1870, November 19). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+
+Legislative Council. (1870, May 28). The Straits Times, p. 1. Retrieved from NewspaperSG; Straits Settlements. Government gazette. (1870, May 27). Speech of His Excellency Major General Sir Harry Ord, C.B., R.E., at the opening of the session of the Legislative Council of the Straits Settlements, on Monday, the 23rd May, 1870. Singapore: Mission Press, p. 148. (Microfilm no.: NL 1004)
+
