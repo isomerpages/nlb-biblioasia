@@ -4,10 +4,9 @@ date: 2016-10-15
 permalink: /vol-12/issue-3/oct-dec-2016/sr-nathan
 layout: post
 ---
-
 #### The late S R Nathan published seven books in his lifetime, but his most accessible is probably *50 Stories from My Life*. These two selections offer contrasting glimpses of the man who was President of Singapore from 1999–2011.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/s-r-nathan/01_sr_nathan.jpg"><center><i>Umi and I secretly kept in touch in the early days of our relationship.</i></center></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/s-r-nathan/01_sr_nathan.jpg"><center>Umi and I secretly kept in touch in the early days of our relationship.</center></div>
 
 #### **How I Met My Wife – and Finally Married Her**
 
@@ -30,7 +29,7 @@ Her leaving was very painful. She was set to fly from Singapore to Kuala Lumpur,
 I was deeply saddened, and cried all the way on the flight back to Singapore. My mother consoled me later, saying: “Don’t be sad. Leave it to God. If he wills, all will turn out according to both your wishes.” And it did.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-3/s-r-nathan/02_sr_nathan.jpg)
-<div style="background-color: white;"><center><i>I saw Umi off at the Kuala Lumpur airport, from where she took a flight to the UK for her teacher-training course.</i></center></div>
+<div style="background-color: white;"><center>I saw Umi off at the Kuala Lumpur airport, from where she took a flight to the UK for her teacher-training course.</center></div>
 
 While she was away in the UK, we kept up with weekly airmail letters. I was always anxious, as I was afraid she might come into contact with someone better than me. It did not happen. She was as steadfast as on the day when we parted.
 
