@@ -71,7 +71,7 @@ As we neared our destination, I had to spell out to the authorities in Kuwait in
 When we landed, the aircraft was surrounded by tanks, armoured vehicles and soldiers carrying automatic weapons. For hours, we negotiated with the Kuwaiti authorities. I was asked to disembark from the plane and take my message in person to a Kuwaiti government minister, who was driven onto the tarmac in his limousine. Long arguments followed, involving the Kuwaitis and the Japanese ambassador to Iran, who had been brought to the scene to represent the Japanese government.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-3/s-r-nathan/04_sr_nathan.jpg)
-<div style="background-color: white;"><center><i>I disembarked from the plane to take my message to a waiting Kuwaiti government minister.</i></center></div>
+<div style="background-color: white;"><center>I disembarked from the plane to take my message to a waiting Kuwaiti government minister.</center></div>
 
 The terrorists who had stormed the Japanese embassy in Kuwait arrived at the airport – and boarded the aircraft fully armed with revolvers and hand grenades. Talking to the Japanese diplomat in Bahasa, which he understood, I persuaded him to insist that they be disarmed before the plane proceeded to its next destination. It was settled that they would keep their side arms but without the bullets – these would be kept in the hold. The Kuwaiti minister would not allow me to speak during their negotiations.
 
