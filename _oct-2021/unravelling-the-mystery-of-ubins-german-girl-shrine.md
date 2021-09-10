@@ -119,7 +119,8 @@ In the 1920s, the Ong Lye Sua granite hill was bought by entrepreneur Wee Cheng 
 
 Aerial photographs show that Ong Lye Sua was almost completely levelled by 1969. Within a few years, Aik Hwa would remove the land on which the shrine was located and agree to move it to a new home. Unfortunately, there is no record of this event in Aik Hwa’s company archives. While the exact date is not known, Chia suggested 1974, which seems plausible.
 
-Aik Hwa built a clapboard hut near the sea and painted it yellow – the traditional colour of *datuk kong* shrines, reflecting their Malay roots – and hired a Taoist priest to conduct rites. Ong Siew Fong recalled that it was this priest who labelled the spirit as a “datuk maiden” (拿督姑娘) to denote its female gender. 
+Aik Hwa built a clapboard hut near the sea and painted it yellow – the traditional colour of *datuk kong* shrines, reflecting their Malay roots – and hired a Taoist priest to conduct rites. Ong Siew Fong recalled that it was this priest who labelled the spirit as a “datuk maiden” 
+(拿督姑娘) to denote its female gender. 
 
 He also named it Yatikakak. Yati, a Malay name with Sanskrit roots, is also one of the holy names of the Hindu goddess Durga, the protective mother, while *kakak*, which means “elder sister” in Malay, is an honorific for older women.
 
@@ -142,7 +143,7 @@ In 2000, the story of the German girl appeared in the coffee-table book *Pulau U
 
 The shrine was also featured in an episode of the *Site and Sound* documentary television series in 2004, hosted by anthropologist and architectural historian Julian Davison.[^28] The following year, it was discussed in Jonathan Lim’s *Between Gods and Ghosts* (2005), a book about Singaporean folklore.[^29]
 
-In his 2006 book, *Final Notes from a Great Island*, popular author Neil Humphreys wrote about a red and yellow sign in English, German and Chinese on Ubin that pointed to the direction of the “German Girl shrine”. Humphreys had taken the information of the shrine from a 2003 Straits Times article he found tacked to the wall of the shrine. (The story was written by ethnomusicologist Tan Shzr Ee, who had composed the soundtrack for the *Moving Gods* telemovie).[^30]
+In his 2006 book, *Final Notes from a Great Island*, popular author Neil Humphreys wrote about a red and yellow sign in English, German and Chinese on Ubin that pointed to the direction of the “German Girl shrine”. Humphreys had taken the information of the shrine from a 2003 *Straits Times* article he found tacked to the wall of the shrine. (The story was written by ethnomusicologist Tan Shzr Ee, who had composed the soundtrack for the *Moving Gods* telemovie).[^30]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Shrine.jpg)
 <div style="background-color: white;">The German girl shrine as it appeared in 1999, prior to its renovation in 2015 and becoming a well-known attraction on Pulau Ubin. <i>Image reproduced from Chua Ee Kiam, Pulau Ubin: Ours to Treasure (Singapore: Simply Green, 2000), 47. (From National Library, Singapore, call no. RSING 333.78095957 CHU).</i></div>
@@ -178,7 +179,7 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 
 #### NOTES
-[^1]: “[洋女变成‘拿督姑娘’供奉在乌敏岛小庙内当地人视为神灵](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19871229-1.2.17.1.2)” [“Foreign Girl Becomes a ‘Datuk Girl’”], 新明日报 [*Xin Ming Ri Bao*], 29 December 1987, 4; “[奇庙](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19900714-1.2.6.1.1)” [“Strangely Wondrous Temple”], 联合晚报 [*Lianhe Wanbao*], 14 July 1990, 2. (From NewspaperSG); Samuel J. Burris, “[The White Girl of Pulau Ubin](http://habitatnews.nus.edu.sg/heritage/ubin/stories/2005/12/white-girl-of-pulau-ubin.html),” *Changi Magazine*, November 1993, accessed 30 July 2021, http://habitatnews.nus.edu.sg/heritage/ubin/stories/2005/12/white-girl-of-pulau-ubin.html;  Ho Choon Hiong, German Girl Shrine (film), 2000; Tan Shzr Ee, “[Mystery Girl of Ubin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030309-1.2.60.11),” *The Straits Times*, 9 March 2003, 20; “[90年前住在乌敏岛洋姑娘变拿督神](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin20031226-1.2.17.1)” [“90 Years Ago a Foreign Girl Living on Ubin became a Datuk God”], 新明日报 [*Xin Ming Ri Bao*], 26 December 2003, 13. (From NewspaperSG); [Chia Yeng Keng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/63b161ed-1160-11e3-83d5-0050568939ad), oral history interview, 23 June 2004, transcript and MP3 audio, Reel/Disc 1 and 3 of 7. (From National Archives of Singapore, accession no. 002860)
+[^1]: “[洋女变成‘拿督姑娘’供奉在乌敏岛小庙内当地人视为神灵](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19871229-1.2.17.1.2)” [“Foreign Girl Becomes a ‘Datuk Girl’”], *新明日报* [*Xin Ming Ri Bao*], 29 December 1987, 4; “[奇庙](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19900714-1.2.6.1.1)” [“Strangely Wondrous Temple”], *联合晚报* [*Lianhe Wanbao*], 14 July 1990, 2. (From NewspaperSG); Samuel J. Burris, “The White Girl of Pulau Ubin,” *Changi Magazine*, November 1993, accessed 30 July 2021, http://habitatnews.nus.edu.sg/heritage/ubin/stories/2005/12/white-girl-of-pulau-ubin.html;  Ho Choon Hiong, German Girl Shrine (film), 2000; Tan Shzr Ee, “[Mystery Girl of Ubin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030309-1.2.60.11),” *Straits Times*, 9 March 2003, 20; “[90年前住在乌敏岛洋姑娘变拿督神](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin20031226-1.2.17.1)” [“90 Years Ago a Foreign Girl Living on Ubin became a Datuk God”], *新明日报* [*Xin Ming Ri Bao*], 26 December 2003, 13. (From NewspaperSG); [Chia Yeng Keng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/63b161ed-1160-11e3-83d5-0050568939ad), oral history interview, 23 June 2004, transcript and MP3 audio, Reel/Disc 1 and 3 of 7. (From National Archives of Singapore, accession no. 002860)
 
 
 
@@ -189,7 +190,7 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 [^4]: Crown lease 933. Singapore Land Authority (SLA) Deed Registry, volume 58 number 179 and Index to Land Book, volume 46 page 404.
 
-[^5]: “[New Companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19100324-1.2.67),” *The Singapore Free Press and Mercantile Advertiser*, 24 March 1910,  10. (From NewspaperSG)
+[^5]: “[New Companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19100324-1.2.67),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1910,  10. (From NewspaperSG)
 
 [^6]: [*The Singapore and Straits Directory*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490) (Singapore: Fraser and Neave, 1914), 787–88. (From National Library, Singapore, Call no. RRARE 382.09595 STR; Microfilm no. NL1185)
 
@@ -233,7 +234,7 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 [^25]: Ng Koh Yee, “Recreational Land Use on Pulau Ubin” (bachelor’s thesis, National University of Singapore, 1998), https://scholarbank.nus.edu.sg/handle/10635/173038.
 
 
-[^26]: “[开发宝贵的旅游资源](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19981119-1.2.43.2)” [“Develop Valuable Tourism Resources”], 联合早报 [*Lianhe Zaobao*], 19 November 1998, 8. (From NewspaperSG)
+[^26]: “[开发宝贵的旅游资源](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19981119-1.2.43.2)” [“Develop Valuable Tourism Resources”], *联合早报* [*Lianhe Zaobao*], 19 November 1998, 8. (From NewspaperSG)
 
 
 [^27]: Chua Ee Kiam, [*Pulau Ubin: Ours to Treasure*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10089883) (Singapore: Simply Green, 2000). (From National Library, Singapore, Call no. RSING 333.78095957 CHU). Chua cites the 1993 article as his source.
@@ -244,7 +245,7 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 [^30]: Neil Humphreys, [*Final Notes from a Great Island: A Farewell Tour of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12744133) (Singapore: Marshall Cavendish, 2006), 201–202. (From National Library, Singapore, Call no. RSING 959.57 HUM)
 
-[^31]: “[乌敏岛姑娘庙竟拜芭比娃娃](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20070618-1.2.14.1)” [“Ubin Girl Temple Actually Worships Barbie Dolls”], 联合晚报 [*Lianhe Wanbao*], 18 June 2007, 8. (From NewspaperSG)
+[^31]: “[乌敏岛姑娘庙竟拜芭比娃娃](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20070618-1.2.14.1)” [“Ubin Girl Temple Actually Worships Barbie Dolls”], *联合晚报* [*Lianhe Wanbao*], 18 June 2007, 8. (From NewspaperSG)
 
 [^32]: Anonymous informant, interview, Pulau Ubin, 5 April 2021.
 
