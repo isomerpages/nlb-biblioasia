@@ -181,14 +181,24 @@ It is common for countries, therefore, to adopt a combination of a register-base
 [^17]:Vlieland, C.A. (1932). [*British Malaya (the Colony of the Straits Settlements and the Malay States under British protection, namely the federated states of Perak, Selangor, Negri Sembilan and Pahang and the states of Johore, Kedah, Kelantan, Trengganu, Perlis and Brunei): A report on the 1931 census and on certain problems of vital statistics*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5834598) (p. 9). London: Crown Agents for the Colonies. (Microfilm no.: NL3005)
 [^18]:Del Tufo, M.V. (1949). [*Malaya, comprising the Federation of Malaya and the Colony of Singapore: A report on the 1947 census of population*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4500010) (p. 1). London: Published on behalf of the Governments of the Federation of Malaya and the Colony of Singapore by the Crown Agents for the Colonies. (Call no.: RCLOS 312.09595 MAL)
 [^19]:[Census count tomorrow](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470923-1.2.35). (1947, September 23). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^20]:
-[^21]:
-[^22]:
-[^23]:
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
-[^30]:
+[^20]:[Prizes for census enumerators](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470724-1.2.29). (1947, July 24). *The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
+[^21]:[Schoolboys to do S’pore census work](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470605-1.2.4). (1947, June 5). *The Malaya Tribune*, p. 1. Retrieved from NewspaperSG.
+[^22]:[Scouts to help census](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470816-1.2.70). (1947, August 16). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^23]:[Four-fifths of rural Singapore already counted](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19470525-1.2.40). (1947, May 25). *The Sunday Tribune*, p. 3. Retrieved from NewspaperSG.
+[^24]:[*The Sunday Tribune*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19470525-1.2.40), 25 May 1947, p. 3.
+[^25]:[*The Sunday Tribune*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19470525-1.2.40), 25 May 1947, p. 3.
+[^26]:[Fisherman checks isles for census](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470511-1.2.66). (1947, May 11). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^27]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470511-1.2.66), 11 May 1947, p. 7.
+[^28]:Fang, H. (1947, September 24).[ Census men were asked: “Is this a raid?”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribue19470924-1.2.103) *The Malaya Tribune*, p. 8. Retrieved from NewspaperSG.
+[^29]:[*The Malaya Tribune*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribue19470924-1.2.103), 24 Sep 1947, p. 8.
+[^30]:[Census finds 1,000 homeless](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470925-1.2.17). (1947, September 25). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^31]:
+[^32]:
+[^33]:
+[^34]:
+[^35]:
+[^36]:
+[^37]:
+[^38]:
+[^39]:
+[^40]:
