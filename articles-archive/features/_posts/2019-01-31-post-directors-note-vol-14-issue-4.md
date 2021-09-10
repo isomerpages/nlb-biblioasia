@@ -5,7 +5,6 @@ permalink: /vol-14/issue-4/jan-mar-2019/directors-note/
 layout: post
 ---
 <img src="/images/Vol-14-issue-4/vol14_iss4.JPG">
-<div style="background-color: white;"></div>
 
 Welcome to the first issue of *BiblioAsia* for 2019. This year we mark a major turning point in Singapore’s history, the 200th anniversary of the founding of a British trading post on the island – a date generally accepted as the beginnings of modern Singapore.
 
