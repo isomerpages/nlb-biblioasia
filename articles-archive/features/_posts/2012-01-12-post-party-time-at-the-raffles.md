@@ -4,7 +4,7 @@ date: 2012-01-12
 permalink: /vol-12/issue-4/jan-mar-2017/party-time-raffles
 layout: post
 ---
-#### The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days. **Francis Dorai and Jessie Yak** take a peek.
+#### The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days. **Francis Dorai** and **Jessie Yak** take a peek.
 
 <div style="background-color: white;"><br>
 <img src="/images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg">
