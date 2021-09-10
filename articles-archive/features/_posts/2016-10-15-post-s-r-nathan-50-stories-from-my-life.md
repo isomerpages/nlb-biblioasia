@@ -93,11 +93,15 @@ The whole episode ended without bloodshed. It was good experience for me, the va
 
 |[Call nos.: RSING 959.5705 NAT and SING 959.5705 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201165320)|
 
+<br>
+
 |***An Unexpected Journey: Path to the Presidency***|
 
 |Editions Didier Millet, 2011|
 
 |[Call nos.: RSING 959.5705092 NAT and SING 959.5705092 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14182432)|
+
+<br>
 
 |***Why Am I Here?: Overcoming Hardships of Local Seafarers***|
 
@@ -105,11 +109,15 @@ The whole episode ended without bloodshed. It was good experience for me, the va
 
 |[Call nos.: RSING 331.7613875095957 NAT and SING 331.7613875095957 NAT ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13369901)|
 
+<br>
+
 |***The Crane and the Crab***|
 
 |Epigram Books, 2013|
 
 |[Call nos.: JRSING 428.6 NAT and JSING 428.6 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124330)|
+
+<br>
 
 |***Winning Against the Odds: The Labour Research Unit in NTUC’s Founding***|
 
