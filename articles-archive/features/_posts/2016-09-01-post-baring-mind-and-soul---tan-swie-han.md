@@ -50,7 +50,7 @@ As an artist, much of Tan’s output is difficult to pin down and define: versat
 
 Tan Swie Hian is deeply interested in people. He has painted many portraits of personalities – in art, literature, politics and other fields – whom he admires. In this exhibition, portraits and works paying tribute to some of these luminaries can be seen: these include Pablo Picasso, Leonor Fini, Bada Shanren (八大山人), Charlie Chaplin, Franz Kafka, Virginia Woolf, Steve Jobs and Nelson Mandela, to name a few.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-3/baring-mind-and-soul/03-baring-mind-soul.jpg">(Left) “Graffitied Portrait of Charlie Chaplin” (2013). Ink and acrylic on rice paper, 226 cm x 105.4 cm. <i>Collection of Tan Swie Hian.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/baring-mind-and-soul/03-baring-mind-soul.jpg">(Left) “Graffitied Portrait of Charlie Chaplin” (2013). Ink and acrylic on rice paper, 226 cm x 105.4 cm. <i>Collection of Tan Swie Hian.</i></div>
 <div style="background-color: white;">(Right) “A Couple” (2014). Oil, acrylic and ink on canvas, 213.5 cm x 339 cm. <i>Collection of Tan Swie Hian.</i></div>
 
 One of the paintings, titled “A Couple”, is an unusual portrayal of Lee Kuan Yew, Singapore’s founding prime minister, and his wife as a young couple quite obviously in love. The painting, inspired by a 1946 photograph of the couple when they were law students in Cambridge University, England, depicts Lee Kuan Yew and Kwa Geok Choo in the first blush of youth, and exudes warmth and carefree pleasure – one can almost feel the sunshine that bathes the couple in vibrant colour.
@@ -61,18 +61,18 @@ The portrait, which is devoid of any political undertones, is an ode to a love t
 
 Perhaps Tan’s most enigmatic and intriguing works are those inspired by his spiritual and philosophical enlightenment. While meditating one day in September 2009, Tan had a vision in which he saw the full moon hovering above the parted foliage of a tree reflected onto a still blue pond. He quickly captured the vision in a sketch in his notebook. The ethereal scene was eventually depicted in the oil and acrylic painting “When the Moon is Orbed”.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-3/baring-mind-and-soul/04-baring-mind-soul.jpg">Detail from “When the Moon Is Orbed” (2012). Oil and acrylic on canvas, 140 cm x 206 cm.
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/baring-mind-and-soul/04-baring-mind-soul.jpg">Detail from “When the Moon Is Orbed” (2012). Oil and acrylic on canvas, 140 cm x 206 cm.
 <i>Private collection.</i></div>
 
 The symbolism of the full moon is manifold: traditionally it represents togetherness of people; but in Buddhism, it symbolises the clarity of the mind and the enlightenment of a truth seeker. A smaller-scale reproduction of this work is displayed at the exhibition.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-3/baring-mind-and-soul/05-baring-mind-soul.jpg">Sketches and notes of the meditative vision which led to the painting, “When the Moon is Orbed”. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/baring-mind-and-soul/05-baring-mind-soul.jpg">Sketches and notes of the meditative vision which led to the painting, “When the Moon is Orbed”. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
 
 The centrepiece of the exhibition is a unique mixed media sculpture entitled “The Celestial Web”, a sizable dome-shaped structure made of coiled metal wires adorned with “creatures” moulded from clay. The sculpture, inspired by Tan’s Buddhist faith, is the embodiment of his perspective that all beings, sentient and non-sentient, are interconnected by an immense web of everlasting universal love.
 
 Interestingly, “The Celestial Web” began life as a poem with 117 verses that Tan specially composed for the Singapore Arts Festival in 2003. The poem was inspired by the philosophical teachings in the Buddhist scripture Avatamsaka Sutra, which espouses the notion that all beings in the universe are interconnected and, are in fact, one. The poem was performed at the festival’s opening act, “Instant is a Millennium – A Musical Conversation with Tan Swie Hian”, by the Singapore Chinese Orchestra. The performance took the form of a symphonic orchestration of recitation, chorus and music with the artist simultaneously writing the poem in Chinese calligraphy on stage.[^10]
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-3/baring-mind-and-soul/06-baring-mind-soul.jpg">(Top) “The Celestial Web” (2010). Mixed media sculpture, 308 cm x 210 cm x 125 cm. <i>Collection of Tan Swie Hian Museum.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/baring-mind-and-soul/06-baring-mind-soul.jpg">(Top) “The Celestial Web” (2010). Mixed media sculpture, 308 cm x 210 cm x 125 cm. <i>Collection of Tan Swie Hian Museum.</i></div>
 <div style="background-color: white;">(Above left) Pages from Tan Swie Hian’s notebook showing the sketch of “The Celestial Web”. <i>Donated by Tan Swie Hian. Collection of National Library, Singapore.</i></div>
 <div style="background-color: white;">(Above right) “The Straw Dog” (2004). Bronze sculpture, 153 cm x 40 cm x 90 cm. <i>Collection of Tan Swie Hian Museum.</i></div>
 
@@ -84,9 +84,9 @@ At the same time, one would be wrong to assume that Tan Swie Hian’s art belong
 
 Tan loves animals, especially cats, and a Chinese ink on paper scroll titled “Cat’s Cradle” is testament to this. In 1984, the artist’s daughter kept a pair of kittens as pets. From observing the kittens’ lively movements when they were playing or fighting, Tan executed the painting as a study of the rhythm of moving lines. The painting, with seven pairs of cats in various poses of action, is so vividly captured that it even incurred the jealousy of another pet cat of his daughter’s – she kept glaring and mewing at the painting!
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-3/baring-mind-and-soul/07-baring-mind-soul.jpg"> “Cat’s Cradle”. (1984). Chinese ink on rice paper, 184 cm x 87 cm. <i>Collection of Tan Chiao Joan.</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-3/baring-mind-and-soul/07-baring-mind-soul.jpg"> “Cat’s Cradle”. (1984). Chinese ink on rice paper, 184 cm x 87 cm. <i>Collection of Tan Chiao Joan.</i></div>
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/baring-mind-and-soul/08-baring-mind-soul.jpg">Tan Swie Hian’s sketches and notes on the painting. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/baring-mind-and-soul/08-baring-mind-soul.jpg">Tan Swie Hian’s sketches and notes on the painting. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
 
 On 26 December 2004, in a cataclysmic event that would be remembered in years to come, an earthquake in Indonesia triggered a tsunami in the Indian Ocean that struck 14 countries, claiming the lives of more than 230,000 people.[^11] In memory of the lives lost to this tragedy, Tan created the sculpture, “The Straw Dog”.
 
