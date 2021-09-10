@@ -56,7 +56,7 @@ Negotiations were begun, mostly by loudhailer, by Superintendent Tee Tua Ba, hea
 That night, two of the crew escaped by jumping overboard. This gave us much valuable information on the armed status of the hijackers and the number of local hostages still on board.
 
 ![Alt text for image on Isomer site](/images/Vol-12-issue-3/s-r-nathan/03_sr_nathan.jpg)
-<div style="background-color: white;"><center><i>The hijacked ferry Laju was closely monitored.</i></center></div>
+<div style="background-color: white;"><center>The hijacked ferry <i>Laju</i> was closely monitored.</center></div>
 
 Lengthy negotiations followed, involving the hijackers, the Singapore authorities, other Arab missions and the Japanese embassy. We were unwilling to fly the hijackers out on a Singaporean plane because that would only have encouraged other terrorists to see Singapore as an easy terrorist target. Proposals to fly them out on a Japanese plane came to nothing. Tense discussions lasted several days, with no solution in sight.
 
