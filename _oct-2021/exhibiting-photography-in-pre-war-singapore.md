@@ -104,10 +104,100 @@ After the war, nationalist and anti-colonial sentiments continued to rise. What 
 
 In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40 respectively – in pre-war Singapore, we see a definite shift in patronage and political affiliations that facilitated these events. To an extent, these exhibitions enabled participating photographers and visitors to visualise and imagine a sense of place and loyalty, whether it was directed at Britain, China or Malaya. What remained unchanged, however, was the involvement of political and cultural elites in organising and mobilising these exhibitions for their own motivations and desires.
 
-
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-3/authors/William%20Gibson%20.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-3/authors/Profile%20-%20Zhuang%20Wubin.png" style="width: 100px; height: 100px;" />
 	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
 
-Zhuang Wubin is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.
+#### NOTES
+
+[^1]:[*Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980631) (Singapore: Malaya Borneo Exhibition, 1922), 5. (From National Library, Singapore, Call no. RRARE 607.34595 MAL; Microfilm nos. NL9852, NL27451)
+
+[^2]:Constance Mary Turnbull, [*A History of Modern Singapore 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204080111) (Singapore: NUS Press, 2020), 221. (From National Library, Singapore, Call no. RSING 959.57 TUR-[HIS])
+
+[^3]:
+
+[^4]:
+
+[^5]:
+
+[^6]:
+
+[^7]:
+
+[^8]:
+
+[^9]:
+
+[^10]:
+
+[^11]:
+
+[^12]:
+
+[^13]:
+
+[^14]:
+
+[^15]:
+
+[^16]:
+
+[^17]:
+
+[^18]:
+
+[^19]:
+
+[^20]:
+
+
+[^21]:
+
+[^22]:
+
+[^23]:
+
+[^24]:
+
+[^25]:
+
+[^26]:
+
+[^27]:
+
+[^28]:
+
+[^29]:
+
+[^30]:
+
+[^31]:
+
+[^32]:
+
+[^33]:
+
+[^34]:
+
+[^35]:
+
+[^36]:
+
+[^37]:
+
+[^38]:
+
+[^39]:
+
+[^40]:
+
+[^41]:
+
+[^42]:
+
+[^43]:
+
+[^44]:
+
+[^45]:
