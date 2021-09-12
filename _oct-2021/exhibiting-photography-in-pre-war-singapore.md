@@ -64,9 +64,9 @@ When describing the exhibits, the English newspapers of the day tended to mentio
 
 The exhibition was hailed as a “thorough success”, with some 2,000 people visiting the show before it ended on 31 March. As a result of the exhibition, the Oversea Chinese Photographic Society was formed in March 1936. It was exempted from registration by the colonial state, suggesting a certain degree of closeness that some of its members enjoyed with the British authorities. Members included prominent figures associated with Chinese banks in Singapore, such as Chew Hock Leong, Kwa Siew Tee and Teo Teow Peng, who was director of Sze Hai Tong Bank.[^31] Police photographer Liew Choe Hoon (or Liew Chor Hoon), an early initiator and participant of the exhibition, also became a member.[^32]
 
-#### **Overseas Chinese Photographic Exhibition, 1935** 
+#### **Yunnan-Burma Highway Photo Exhibition, 1939–40** 
 
-seas Chinese Photographic Exhibition was held, the Second Sino-Japanese War broke out between China and Japan. As a result, Chinese communities in Southeast Asia became even more connected to the fate of the motherland.
+On 7 July 1937, two years after the Overseas Chinese Photographic Exhibition was held, the Second Sino-Japanese War broke out between China and Japan. As a result, Chinese communities in Southeast Asia became even more connected to the fate of the motherland.
 
 In Singapore, the Singapore China Relief Fund Committee (SCRFC) was set up in August 1937 with prominent businessman and philanthropist Tan Kah Kee as president. A year later, in October, Tan helped to establish the Southseas China Relief Fund Union (SCRFU) and became its chairman. By January 1939, the SCRFC had formed over 20 sub-committees with more than 200 branches across the island, extending its collection of funds beyond the city centre of Singapore. This caused much concern to the colonial authorities as the SCRFC was increasingly functioning “like a political party machinery” at the grassroots level.[^33]
 
@@ -74,7 +74,7 @@ In 1938, Japan gained control of Xiamen and Guangdong, two major hometowns of th
 
 Traversing treacherous terrain, the highway became serviceable for heavy transportation vehicles at the start of 1939. However, China still lacked skilled drivers and mechanics to work along the route. In early 1939, the Kuomintang (Chinese Nationalist Party) government of the Republic of China appealed to the SCRFU for help. Around 3,200 people across Nanyang, not all of whom were ethnic Chinese, answered the call. Some gave up well-paying jobs while a few women disguised themselves as men to serve in China’s war relief efforts.[^34]
 
-Knowing that there would be interest among readers in Malaya, the Chinese dailies Nanyang Siang Pau (南洋商报) and Sin Kuo Min Jit Poh (新国民日报) sent two journalists – Chang Ch’u-k’un (Zhang Chukun; 张楚琨) and Chen Geding (陈戈丁) – to report on the Yunnan-Burma Highway. Setting sail for Rangoon (Yangon) in August 1939, they spent the next two months filing dispatches along the route. The two men also took more than 1,000 photographs which Chen brought back on his return trip via Vietnam.
+Knowing that there would be interest among readers in Malaya, the Chinese dailies *Nanyang Siang Pau* (南洋商报) and *Sin Kuo Min Jit Poh* (新国民日报) sent two journalists – Chang Ch’u-k’un (Zhang Chukun; 张楚琨) and Chen Geding (陈戈丁) – to report on the Yunnan-Burma Highway. Setting sail for Rangoon (Yangon) in August 1939, they spent the next two months filing dispatches along the route. The two men also took more than 1,000 photographs which Chen brought back on his return trip via Vietnam.
 
 With Tan Kah Kee’s support, the SCRFC decided to mount a photo exhibition to help raise funds for China and at the same time provide visitors with  a comprehensive experience of the highway.[^35] An exhibition committee was quickly assembled, with Lee Kong Chian, Tan’s son-in-law, as president.
 
@@ -86,9 +86,9 @@ It is unclear if the Oversea Chinese Photographic Society was involved in the ex
 The exhibition featured some 300 photographs, systematically organised into categories such as the lives and training of the drivers and mechanics, their transportation work, conditions of the highway, sights in Burma, peoples and customs of the borderlands, Chinese historical sites, tourist attractions and educational facilities relocated to Kunming due to the war, 
 among others.[^41]
 
-To reach the masses, the organisers promoted the exhibition by connecting some of the sights captured in the photographs with scenes from the ever-popular Chinese classic, Romance of the Three Kingdoms (三国演义).[^42]
+To reach the masses, the organisers promoted the exhibition by connecting some of the sights captured in the photographs with scenes from the ever-popular Chinese classic, *Romance of the Three Kingdoms* (三国演义).[^42]
 
-Originally slated to close on 27 November, the exhibition was extended to 29 November. The Malaya Tribune reported that some 13,000 people had visited the exhibition at the SCCC.[^43]
+Originally slated to close on 27 November, the exhibition was extended to 29 November. The *Malaya Tribune* reported that some 13,000 people had visited the exhibition at the SCCC.[^43]
 
 The exhibition was then moved to the Happy World amusement park to coincide with the SCRFC fundraising fair held there from 1 to 3 December; each ticket was priced at 10 cents. To attract non-Chinese visitors, the text and captions accompanying the photographs were translated into English.[^44] On 3 December, in just three hours from 7 to 10 pm, over 500 exhibition tickets were sold. Due to popular demand, the exhibition was extended another week and ended on 10 December.[^45] In early 1940, the exhibition toured Melaka, Muar and Batu Pahat, again to a rousing reception.
 
@@ -103,3 +103,11 @@ After the war, nationalist and anti-colonial sentiments continued to rise. What 
 #### **Different and Yet the Same** 
 
 In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40 respectively – in pre-war Singapore, we see a definite shift in patronage and political affiliations that facilitated these events. To an extent, these exhibitions enabled participating photographers and visitors to visualise and imagine a sense of place and loyalty, whether it was directed at Britain, China or Malaya. What remained unchanged, however, was the involvement of political and cultural elites in organising and mobilising these exhibitions for their own motivations and desires.
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-3/authors/William%20Gibson%20.png" style="width: 100px; height: 100px;" />
+	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
+
+Zhuang Wubin is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.
