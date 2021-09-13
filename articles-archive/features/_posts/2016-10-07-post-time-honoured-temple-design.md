@@ -4,12 +4,9 @@ date: 2016-10-07
 permalink: /vol-12/issue-3/oct-dec-2016/time-honoured-temple
 layout: post
 ---
-
-
 #### Sri Mariamman Temple is Singapore’s oldest Hindu shrine. **Anasuya Soundararajan** and **Sri Asrina Tanuri** describe the architectural features of this landmark.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/01_temple_design.jpg">(Left) Three of the four vimanam (domes) marking the location of the shrines that house the statues of Hindu deities sometime in the late 19th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i><br>
-(Right) The vimanam, decorated with sculptures of Hindu deities and capped with small pinnacles, have become more ornate and elaborate over the years, with the last major facelift taking place in 2009. <i>Photographed in 2016 by the writers.</i></div>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg">Sri Mariamman Temple, c.1900. The three-tiered <i>gopuram</i> was a slimmer and sparsely decorated structure  compared to the present five-tiered tower that was rebuilt in 1936. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Do not live in a place where there are no temples” cautions an age-old Indian aphorism. In keeping with the sagely advice of his forefathers, one of the first things that Naraina Pillai did after his arrival in Singapore in 1819 was to establish a Hindu temple for his fellow countrymen.
 
@@ -20,8 +17,6 @@ Located in the heart of Chinatown, the temple’s elaborate *gopuram*[^1]  has b
 #### **Singapore's First Hindu Temple**
 
 The history of the Sri Mariamman Temple is closely intertwined with the arrival of the first Indians to Singapore, soon after Stamford Raffles established a British trading post on the island in February 1819.[^4] South Indian migrants to Singapore, feeling displaced in a new land, brought with them the cultural and religious practices of the subcontinent, including the worship of Mariamman, the goddess of rain. In Hindu spirituality, the “mother” deity is known for her power to protect people from harm and to cure epidemic illnesses and diseases.[^5]
-
-<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg">Sri Mariamman Temple, c.1900. The three-tiered gopuram was a slimmer and sparsely decorated structure  compared to the present five-tiered tower that was rebuilt in 1936. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 It is not known which part of India Naraina Pillai originated from; he arrived in Singapore with Raffles on the latter’s second visit to the newly colonised island in June 1819, and is the first recorded Indian immigrant in Singapore.[^6] Prior to this, Pillai worked as a government clerk with the British East India Company in Penang. Good fortune favoured Pillai, and before long, he became a successful entrepreneur and community leader, and set up the island’s first brick kiln at Mount Erskine (present-day Tanjong Pagar). He also persuaded several Indian bricklayers, carpenters and artisans from Penang and South India to join him in Singapore. Recognising his growing influence in the Indian community, the British appointed Pillai as leader of the Indian community in December 1822.[^7]
 
@@ -78,6 +73,9 @@ The original attap walkway that connected the main entrance to the principal shr
 A decorated dome known as a *vimanam* signifies the presence of a shrine or altar beneath it.[^41] There are four such *vimanam*, and these are all located in the west elevation of the temple.
 
 Each *vimanam* is an onion-shaped structure, decorated with colourful painted sculptures and capped with small pinnacles.[^42] Below the main *vimanam* is the shrine of Sri Mariamman, the presiding deity of the temple. The other three *vimanam* are located above the shrines for Lord Rama, Lord Subramanya[^43] and Goddess Drowpathai Amman[^44].
+
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/01_temple_design.jpg">(Left) Three of the four <i>vimanam</i> (domes) marking the location of the shrines that house the statues of Hindu deities sometime in the late 19th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i><br>
+(Right) The <i>vimanam</i>, decorated with sculptures of Hindu deities and capped with small pinnacles, have become more ornate and elaborate over the years, with the last major facelift taking place in 2009. <i>Photographed in 2016 by the writers.</i></div>
 
 #### **Shrines**
 
