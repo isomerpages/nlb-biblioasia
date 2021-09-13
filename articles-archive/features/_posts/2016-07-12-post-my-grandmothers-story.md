@@ -115,10 +115,18 @@ But we should also pay attention to the silences – to the people who aren’t 
 
 *A longer version of this essay was previously published on Junoesq.com (vol. 1, August 2014). Junoesq is a quarterly online literary journal featuring poetry, fiction and non-fiction by women.*
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
+	<b>Yu-Mei Balasingamchow</b> is the co-author of “Singapore: A Biography” (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is www.toomanythoughts.org.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+
 #### **Notes**
 
 [^1]:Pieris, A. (2009). *Hidden hands and divided landscapes: A penal history of Singapore’s plural society*. Honolulu: University of Hawaii Press. Call no.: RSING 365.95957 PIE 
 
 [^2]:Kastner, J., & Najafi, S. (Summer 2011). Historical amnesias: An interview with Paul Connerton. *Cabinet*, (42), 8. Retrieved from Cabinet magazine website. 
 
-[^3]:Lee, G. B. (2005). *The Syonan years: Singapore under Japanese rule 1942–1945*. Singapore: National Archives of Singapore and Epigram. Call no.: RSING q940.53957 LEE-[WAR] 
+[^3]:Lee, G. B. (2005). *The Syonan years: Singapore under Japanese rule 1942–1945*. Singapore: National Archives of Singapore and Epigram. Call no.: RSING q940.53957 LEE-[WAR]
