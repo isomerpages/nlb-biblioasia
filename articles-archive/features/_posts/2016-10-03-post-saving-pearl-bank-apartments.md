@@ -89,3 +89,44 @@ The voluntary conservation plan for Pearl Bank provides a platform to facilitate
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
+#### **Notes**
+
+[^1]:Third sale of urban renewal sites for private development. (1970, January/February). Journal of the Singapore Institute of Architects, 38, pp. 2–23. Call no.: R 720.5 SIAJ 
+
+[^2]:Wu, D. (2008, March). Pearl gem. Wallpaper*, pp. 158–160. Call no.: RART 747W; Going up in S’pore S-E Asia’s tallest flats. (1970, July 13). The Straits Times, p. 24. Retrieved from NewspaperSG.
+
+[^3]:Wu, Mar 2008, pp. 158–160.
+
+[^4]:Cylindrical tower provides high density accommodation in split-level apartments. (1976, April). Building Materials & Equipment Southeast Asia, pp. 34–57. Call no.: R 690.05 BME
+
+[^5]:Quek, G., Neo, K. J., & Lim, T. (2015). Conservation conversations: Pearl Bank apartments (p. 20). Singapore: Singapore University of Technology and Design. Available in PublicationSG.
+
+[^6]:Building Materials & Equipment Southeast Asia, Apr 1976, pp. 34–57.
+
+[^7]:Apartment block ready at last. (1975, 10 October). New Nation, p. 2. Retrieved from NewspaperSG.
+
+[^8]:Tan, A. (1971, April 17). Building at a faster tempo for graceful living. New Nation, p. 13. Retrieved from NewspaperSG.
+
+[^9]:Tan, C. S. (1972, February 1). Neck-to-neck race skywards… New Nation, p. 8. Retrieved from NewspaperSG.
+
+[^10]:URA offers sites for sale to developers. (1974, April 2). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+[^11]:Goh, E. K., & Ong, L. K. (1976, November 5). Property companies facing an uncertain future. The Business Times, p. 4. Retrieved from NewspaperSG.
+
+[^12]:Teo, L. H. (1978, December 13). HUDC to buy 60 Pearlbank flats. New Nation, p. 1; Developers hail HUDC move. (1977, December 7). The Straits Times, p. 25. Retrieved from NewspaperSG.
+
+[^13]:Fatti, M. (2016, March 29). En bloc sales – how does it work? Retrieved from 99.co. website.
+
+[^14]:Whang, R. (2015, May 30). URA sees merit in conservation plan for Pearl Bank. The Straits Times; Lim, C. (2011, March 15). 3rd collective sale bid by Pearl Bank. The Straits Times. Retrieved from Factiva.
+
+ [^15]:Lee, P. (2014, May 2). Pearl Bank still special after all these years. The Straits Times. Retrieved from Factiva; Poole, E. (2010, March 15). Interview with Ed Poole. Retrieved from Facebook.
+ 
+[^16]:Pearl Bank Apartments. Retrieved from Pearl Bank Apartments website.
+
+[^17]:Chua, S. (2011, April 12). Fighting for Arcadia. Retrived from iProperty.com website.
+
+[^18]:Urban Redevelopment Authority. (2016, July 12). Conservation principles. Retrieved from Urban Redevelopment Authority website.
+
+[^19]:Tay, S. C. (2007, August 5). Goodbye Famous 5? The Straits Times, p. 40. Retrieved from NewspaperSG
+
+[^20]:Chow, C. (2016, March 3). *Bold bid for conservation*. Retrieved from The Edge Property website.
