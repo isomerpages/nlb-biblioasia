@@ -28,9 +28,6 @@ The oldest printed book in Vietnam is widely regarded to be the Chinh Hoa editio
 
 Scholars generally concur that locally produced books were accessible in Vietnam by the 15th century, at least among the intellectual elite, a class created by the country’s institutionalised system of court examinations modelled on the Chinese bureaucracy. These texts existed alongside manuscripts and books imported from China. Up until the early 20th century, woodblock printing was the main technique used in Vietnam, and texts were written in either classical Chinese or *chu nom* – Chinese characters that had been adapted for the Vietnamese language.[^8]
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina2.JPG">
-<div style="background-color: white;">The title page of <i>Dai Nam Quac Am Tu Vi</i> (The Dictionary of National Language; 1895) by scholar Paulus Cua (Vietnamese name Huynh Tinh Cua). This is the first Vietnamese-authored dictionary in <i>quoc ngu</i>. The two-volume work was published in Saigon. <i>Retrieved from Wikimedia Commons.</i></div>
-
 The period of French colonisation dramatically altered the traditional print culture of Vietnam: it introduced Western typographic processes and increased the popularity of *quoc ngu*, a Romanised writing system for Vietnamese. The government presses established by the French administration in Cochinchina (South Vietnam) in 1862 and Tonkin (North Vietnam) in 1883 were among the earliest printing presses in Vietnam.
 
 By the late 19th century, several commercial French publishing establishments had taken root in French Indochina. In the 1870s, the Catholic mission set up a publishing house known as the Imprimerie de la Mission on the premises of Tan Dinh Church in Saigon. The printing press produced early publications such as *Huan mong khuc ca* (1884), an Annamese primer, and French-Vietnamese dictionary *Petit dictionnaire Francais-Annamite* (1884).
@@ -40,6 +37,9 @@ In the 1880s, Francois-Henri Schneider, a former foreman with the Imprimerie du 
 Local book publishing flourished with the widespread use of *quoc ngu*, or Romanised Vietnamese, which had been devised by Portuguese missionaries in the 17th century and designated the official writing system by the French administration in 1910. The ease of learning *quoc ngu* aided the proliferation of printing and education in Vietnam.[^10]
 
 In 1865, the first newspaper in Romanised Vietnamese, *Gia Dịnh Bao* (*News of Gia Dinh*), was published and, in 1895, the first Vietnamese-authored dictionary by scholar Paulus Cua (Vietnamese name Huynh Tinh Cua), *Dai Nam Quac Am Tu Vi* (*The Dictionary of National Language*), was produced. By 1920, modern print technology had replaced woodblock printing as the main printing technique in Vietnam.
+
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Image2.JPG">
+<div style="background-color: white;">The title page of <i>Dai Nam Quac Am Tu Vi</i> (The Dictionary of National Language; 1895) by scholar Paulus Cua (Vietnamese name Huynh Tinh Cua). This is the first Vietnamese-authored dictionary in <i>quoc ngu</i>. The two-volume work was published in Saigon. <i>Retrieved from Wikimedia Commons.</i></div>
 
 #### **Cambodia**
 
