@@ -109,15 +109,15 @@ The voluntary conservation plan for Pearl Bank provides a platform to facilitate
 
 [^9]:Tan, C. S. (1972, February 1). Neck-to-neck race skywards… New Nation, p. 8. Retrieved from NewspaperSG.
 
-[^10]:URA offers sites for sale to developers. (1974, April 2). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^10]:URA offers sites for sale to developers. (1974, April 2). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^11]:Goh, E. K., & Ong, L. K. (1976, November 5). Property companies facing an uncertain future. The Business Times, p. 4. Retrieved from NewspaperSG.
+[^11]:Goh, E. K., & Ong, L. K. (1976, November 5). Property companies facing an uncertain future. *The Business Times*, p. 4. Retrieved from NewspaperSG.
 
-[^12]:Teo, L. H. (1978, December 13). HUDC to buy 60 Pearlbank flats. New Nation, p. 1; Developers hail HUDC move. (1977, December 7). The Straits Times, p. 25. Retrieved from NewspaperSG.
+[^12]:Teo, L. H. (1978, December 13). [HUDC to buy 60 Pearlbank flats](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19781213-1.2.2.aspx). New Nation, p. 1; [Developers hail HUDC move](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771207-1.2.110.aspx). (1977, December 7). *The Straits Times*, p. 25. Retrieved from NewspaperSG.
 
-[^13]:Fatti, M. (2016, March 29). En bloc sales – how does it work? Retrieved from 99.co. website.
+[^13]:Fatti, M. (2016, March 29). *En bloc sales – how does it work?* Retrieved from 99.co. website.
 
-[^14]:Whang, R. (2015, May 30). URA sees merit in conservation plan for Pearl Bank. The Straits Times; Lim, C. (2011, March 15). 3rd collective sale bid by Pearl Bank. The Straits Times. Retrieved from Factiva.
+[^14]:Whang, R. (2015, May 30). URA sees merit in conservation plan for Pearl Bank. *The Straits Times*; Lim, C. (2011, March 15). 3rd collective sale bid by Pearl Bank. *The Straits Times*. Retrieved from Factiva.
 
  [^15]:Lee, P. (2014, May 2). Pearl Bank still special after all these years. *The Straits Times*. Retrieved from Factiva; Poole, E. (2010, March 15). *Interview with Ed Poole.* Retrieved from Facebook.
  
