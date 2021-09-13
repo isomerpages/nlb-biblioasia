@@ -147,7 +147,7 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 |Fang added that the “first reaction was always one of fear but after our explanation, the men became assured and readily supplied us with required information”. That said, getting the truth took time. “False names and ages were often given at  first and  after much  gentle persuasion, the truth was finally told."[^29]
 
-|Conducting a census at sea had unexpected hazards as well, namely hardworking fisherman. “An old disinterested Chinese with his son fishing in a sampan off Beach Road nearly snared the Marine Police Chief, Mr J.W. Chiltern, when he cast his prawn net at the moment Mr Chiltern passed in one of his branch’s fast new launches”.[^30]
+|Conducting a census at sea had unexpected hazards as well, namely hardworking fisherman. “An old disinterested Chinese with his son fishing in a sampan off Beach Road nearly snared the Marine Police Chief, Mr J.W. Chiltern, when he cast his prawn net at the moment Mr Chiltern passed in one of his branch’s fast new launches."[^30]
 
 |This is not to say that census officials working in the city had an easy time. Some had to be given police escorts because as the Deputy Superintendent of the Census put it, in some parts of Singapore, “they would knock you on the head if you asked them their names”.[^31]
 
