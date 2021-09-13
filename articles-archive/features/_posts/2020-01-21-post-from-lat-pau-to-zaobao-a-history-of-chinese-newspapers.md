@@ -54,7 +54,7 @@ Singapore became a battleground as reformists and revolutionaries made use of th
 
 *Union Times*  was founded in 1906 by two supporters of the revolutionary movement, Teo Eng Hock and Tan Chor Lam,[^20] but it came under the control of reformists shortly after and became their mouthpiece in Singapore and Southeast Asia. In response, the revolutionaries set up *Chong Shing Yit Pao* in 1907 to combat the influence of *Union Times*.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News3.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/CSP.jpg">
 <div style="background-color: white;">The front page of <i>Chong Shing Yit Pao</i> published on 20 August 1907. The newspaper was set up by revolutionaries. Besides advertisements, this page features an acknowledgement of donations to the newspaper. <i>Image reproduced from Chen, M.H. (1967). The Early Chinese Newspapers of Singapore, 1881–1912 (p. 96). Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE).</i></div>
 
 Editorials in *Chong Shing Yit Pao* ridiculed the belief held by the reformists that a constitution would work under the Qing government, while *Union Times* argued that revolution was impracticable and branded the revolutionaries as rebels and hooligans causing civil strife in China. Articles written by Kang and Sun can be found in the respective newspapers.[^21] Both newspapers also presented the news in a way that supported their editorial positions.
@@ -139,7 +139,7 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |Chinese tabloids first appeared and flourished in Singapore in the 1920s, providing readers with a different form of entertainment compared to the dailies. Known as *xiao bao* (小报), these tabloids were usually published once every two to three days and were much thinner than the dailies.
 
-|<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News8.JPG"><i>Xin Li Bao</i> (新力报) reporting on the opening of the latest nightclub in Singapore in December 1950. <i>Xin Li Bao, 29 December 1950 (issue 16).</i>
+|<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/XLB.jpg"><i>Xin Li Bao</i> (新力报) reporting on the opening of the latest nightclub in Singapore in December 1950. <i>Xin Li Bao, 29 December 1950 (issue 16).</i>
 
 |The first Chinese tabloid, *Xiao Xian Zhong* (消闲钟), was published in Singapore in 1925. It featured mostly entertainment news, while other tabloids focused on topics such as photography, commerce, literature, education and politics.
 
