@@ -93,15 +93,15 @@ The voluntary conservation plan for Pearl Bank provides a platform to facilitate
 
 [^1]:Third sale of urban renewal sites for private development. (1970, January/February). Journal of the Singapore Institute of Architects, 38, pp. 2–23. Call no.: R 720.5 SIAJ 
 
-[^2]:Wu, D. (2008, March). Pearl gem. Wallpaper*, pp. 158–160. Call no.: RART 747W; Going up in S’pore S-E Asia’s tallest flats. (1970, July 13). The Straits Times, p. 24. Retrieved from NewspaperSG.
+[^2]:Wu, D. (2008, March). Pearl gem. Wallpaper*, pp. 158–160. Call no.: RART 747W; [Going up in S’pore S-E Asia’s tallest flats](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700713-1.2.121.aspx). (1970, July 13). *The Straits Times*, p. 24. Retrieved from NewspaperSG.
 
 [^3]:Wu, Mar 2008, pp. 158–160.
 
-[^4]:Cylindrical tower provides high density accommodation in split-level apartments. (1976, April). Building Materials & Equipment Southeast Asia, pp. 34–57. Call no.: R 690.05 BME
+[^4]:Cylindrical tower provides high density accommodation in split-level apartments. (1976, April). *Building Materials & Equipment Southeast Asia*, pp. 34–57. Call no.: R 690.05 BME
 
-[^5]:Quek, G., Neo, K. J., & Lim, T. (2015). Conservation conversations: Pearl Bank apartments (p. 20). Singapore: Singapore University of Technology and Design. Available in PublicationSG.
+[^5]:Quek, G., Neo, K. J., & Lim, T. (2015). *[Conservation conversations: Pearl Bank apartments](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19751010-1.2.5.8.aspx)* (p. 20). Singapore: Singapore University of Technology and Design. Available in PublicationSG.
 
-[^6]:Building Materials & Equipment Southeast Asia, Apr 1976, pp. 34–57.
+[^6]:*Building Materials & Equipment Southeast Asia*, Apr 1976, pp. 34–57.
 
 [^7]:[Apartment block ready at last](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19751010-1.2.5.8.aspx). (1975, 10 October). *New Nation*, p. 2. Retrieved from NewspaperSG.
 
