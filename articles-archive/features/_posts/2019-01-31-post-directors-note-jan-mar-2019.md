@@ -4,7 +4,6 @@ date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/directors-note/
 layout: post
 ---
-
 <img src="/images/Vol-14-issue-4/vol14_iss4.JPG">
 
 Welcome to the first issue of *BiblioAsia* for 2019. This year we mark a major turning point in Singapore’s history, the 200th anniversary of the founding of a British trading post on the island – a date generally accepted as the beginnings of modern Singapore.
@@ -26,10 +25,8 @@ We also feature the National Library’s collections in articles on the early Ma
 On behalf of the National Library, we would like to wish everyone a fabulous start to 2019!
 
 <br>
+
 <img src="/images/Vol-14-issue-4/tan.JPG" style="width: 100px; height: 100px;">
-<center>
-<b>Tan Huism</b><br>
-Director, National Library
-</center>
+<b>Ms Tan Huism</b><br>Director<br>National Library
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
