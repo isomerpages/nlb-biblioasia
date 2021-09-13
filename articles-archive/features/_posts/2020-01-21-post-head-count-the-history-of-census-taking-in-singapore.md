@@ -119,6 +119,8 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 |<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount2.JPG">A rural kampong in Singapore, c. 1960s. In the early days, census takers had to go to kampongs, jungles and even reach out to those living on boats and houses built out at sea. <i>Photo by K.F. Wong. Courtesy of National Archives of Singapore.</i>
 
+<br>
+
 |To incentivise enumerators, the Malayan Census Headquarters introduced a prize scheme under which $40,000 were given out in Singapore and the Malayan Union to the most efficient enumerators on the recommendation of the local headquarters.[^20]
 
 |Besides using government department staff and teachers for census work, hundreds of schoolboys in Singapore were also recruited as enumerators and were each paid $40 for their efforts.[^21] About 80 scouts from the 10th Singapore Troop of St Andrew’s School also volunteered to assist in the taking of the census in the rural areas of Singapore.[^22]
