@@ -98,9 +98,9 @@ Over the years, Tan has generously donated more than 6,600 items from his person
 
 |**ABOUT THE EXHIBITION**<br>|
 
-<div style="background-color: white;" align="center"><img style="width:270px" src="/images/Vol-12-issue-3/baring-mind-and-soul/09-baring-mind-soul.jpg">Portrait of Tan Swie Hian. <i>Collection of Tan Swie Hian.</i></div><br>
+<div style="background-color: white;" align="center"><img style="width:270px" src="/images/Vol-12-issue-3/baring-mind-and-soul/09-baring-mind-soul.jpg">Portrait of Tan Swie Hian. <i>Collection of Tan Swie Hian.</i></div>
 
-|“Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” opens on 22 November 2016 at the gallery on Level 10 of the National Library Building on Victoria Street.|
+|<br>“Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” opens on 22 November 2016 at the gallery on Level 10 of the National Library Building on Victoria Street.|
 
 |The exhibition will feature over 100 works of artistic and literary creations by Tan Swie Hian comprising paintings, sculptures, calligraphy, seal carvings, photographs, lithographs, and multimedia and literary works.|
 
