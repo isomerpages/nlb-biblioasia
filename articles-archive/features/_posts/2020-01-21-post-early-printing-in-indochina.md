@@ -52,6 +52,9 @@ Privately published works such as French linguist Etienne Aymonier’s collectio
 <img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Image3.JPG">
 <div style="background-color: white;">Portrait of French linguist Etienne Aymonier, 1883. He compiled the first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> (1878), with assistance from local interpreter Son Diep. <i>Bibliothèque nationale de France.</i></div>
 
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Image5.JPG">
+<div style="background-color: white;">The first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> ( 1878), was published in Saigon using lithography. Cornell University Library. <i>Retrieved from HathiTrust website.</i></div>
+
 It was not until around 1886 that the first official printing press in Cambodia, the Imprimerie du Protectorat, was established by the French in Phnom Penh. One of its earliest publications was the first printed periodical in Cambodia titled *Annuaire Illustre du Cambodge* (1890).
 
 In the early 20th century, a royal printing office was set up in the palace in Phnom Penh to publish sutras (Buddhist scriptures), laws and regulations. Its maiden publication was likely the programme sheet produced in French for the inauguration of the Preah Keo pagoda, titled *Programme des fetes donnees a l’occasion de l’inauguration de la Pagode de Prah Keo en* 1903 (1903). In 1911, the first official gazette in the Khmer script, *Reachekech* (Royal Gazette), commenced publication. It remains in circulation today, although primarily as an online publication.[^13]
@@ -61,9 +64,6 @@ The European concept of the printed book as a tool for the dissemination of info
 The need to educate also spurred the publishing of textbooks in the vernacular. Cambodia’s first newspaper, *Le Petit Cambodgien*, made its appearance around 1899. The biweekly newspaper was published privately and produced using lithography. The first Cambodian newspaper printed by typography was *La Gazette Khmer* (1918–1919).[^14]
 
 No overview on the history of printing in Cambodia would be complete without mentioning the history of printing in the Khmer script. Most sources cite the first Khmer type fonts as being cast at the Imprimerie Nationale, the official printing office of the French government, in Paris in 1877. However, type designer Zachary Scheuren has pointed out that, as early as the 1840s, Austrian printer Alois Auer’s *Sprachenhalle*, a magnum opus containing more than 600 language samples, had already included a Khmer font type called “Kambog’a”.[^15]
-
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Image4.jpg">
-<div style="background-color: white;">The first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> ( 1878), was published in Saigon using lithography. Cornell University Library. <i>Retrieved from HathiTrust website.</i></div>
 
 The person most associated with the pioneering development of Khmer font types is Marie-Joseph Guesdon. Guesdon was a French Jesuit priest who arrived in Cambodia in 1874, where he cultivated an abiding interest in the country and its language. On his return to Paris, Guesdon cast his own Khmer types in 1894, and collaborated with French publishing house Plon-Nourrit to release books in Khmer. More importantly, Guesdon was very likely the unnamed French missionary who participated in the design of Parisian foundry Deberny & Cie’s Khmer font types. These types were later supplied to major printers of Cambodian works, such as the Imprimerie du Protectorat, Plon-Nourrit and F.H. Schneider, and used in a wide array of publications from the turn of the 20th century.[^16]
 
