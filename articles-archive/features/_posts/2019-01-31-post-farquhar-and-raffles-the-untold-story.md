@@ -177,4 +177,18 @@ On 1 May 1823, Raffles dismissed Farquhar as Resident and took over control of S
 
 Farquhar left Singapore on 28 December 1823, embittered by his unjustified fall from grace. He received heartfelt farewell addresses from the Bugis, Chinese and Indian communities who showed their deep affection and respect for him, and their sense of loss at his departure. The European merchants were more circumspect in their written address, but still collected $3,000 for a farewell gift. The Chinese raised $700 for their own gift. This money paid for silverware which Farquhar later received in London: an elegant epergne from the Chinese, and a magnificently engraved cup from the European and Armenian merchants.
 
+<img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold7.JPG">
+<div style="background-color: white;">(Left) The silver cup that Farquhar received from European and Armenian merchants as a gift when he left Singapore on 28 December 1823. <i>© Private collection</i>.
+(Right) The epitaph on William Farquhar’s tombstone inside his mausoleum at Greyfriars Burial Ground in Perth, Scotland, bears testament to his contributions as “Resident in Malacca and afterwards at Singapore which later settlement he founded”. <i>© Philip Game, photographersdirect.com.</i></div>
 
+In London, Farquhar composed a Memorial to the Court of Directors complaining of his illegal and unjustified dismissal, and petitioned to be reinstated.52 It was a war of words with Raffles battling for his pension, and Farquhar for his reputation. In the end, Farquhar lost.53
+
+EIC protocol, the changing political scene and, above all, Raffles’ misrepresentations and untruths prevailed. Farquhar’s friend John Palmer had foreshadowed the final outcome, warning Farquhar that even if he were acquitted of the charges laid against him, he would not obtain redress. Palmer knew that the EIC would have to “condemn itself” in order to do justice to Farquhar, and that would not happen.54
+
+Farquhar deserves as much credit as Raffles in the founding of modern Singapore. His vital role in the events leading to the establishment of a foothold on the island cannot be brushed aside. Although Raffles raised the British flag, it was Farquhar who kept it flying despite intense pressure to abandon the post. Above all, he developed the settlement into such a commercial success that in 1824, Britain decided to retain it.
+
+For various reasons, Farquhar lost his rightful place in the history of Singapore. The time to set the record straight is all the more important as the city-state marks the 200th year of its founding in 2019.
+
+|This essay is based on the author’s PhD thesis, “Image is All: Farquhar, Raffles and the Founding and Early Development of Singapore”, as well as her book, *William Farquhar and Singapore: Stepping Out from Raffles’ Shadow*. The book is on sale and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 959.5703 WRI-[HIS] and SING 959.5703 WRI]
+
+#### **Notes**
