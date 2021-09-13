@@ -134,3 +134,47 @@ Farquhar undertook the first survey of the island, later compiling a map that wa
 <img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold5.JPG">
 <div style="background-color: white;">“The Esplanade, Singapore” (c.1845), watercolour on paper, by Scotsman Charles Andrew Dyce who lived in Singapore in the 1840s. Concerned that Stamford Raffles was selling large plots of land to the residents, William Farquhar reserved valuable ground near the shoreline for military use and this eventually became the Esplanade (the Padang today). <i>National University of Singapore Museum Collection, courtesy of NUS Museum.</i></div>
 
+Farquhar also established a spice plantation and the first botanical garden, experimenting with the cultivation of pepper, coffee, spices and cotton. Although Farquhar was following Raffles’ orders, the success of these gardens owed much to Farquhar’s keen interest in natural history. Later, concerned that Raffles was selling large plots of land to the residents, Farquhar reserved valuable ground near the shoreline for military use, land that eventually became the Esplanade (and known as the Padang today).32
+
+Farquhar established a prototype post office, which Raffles refined into an official Post Office in 1823, after receiving practical advice from Farquhar.33 Just as he had done in Malacca, Farquhar encouraged the work of missionaries, and helped them to set up Singapore’s first school.34 Having laid the foundation stone of the Anglo-Chinese College in Malacca in November 1818, Farquhar was similarly involved in the establishment of the Singapore Institution (precursor of today’s Raffles Institution). He was its President and also a trustee and patron, as well as a generous contributor to its subscription fund.
+
+On his own initiative and risking censure from Raffles and Hastings, Farquhar granted asylum to Prince Belawa and 500 of his Bugis followers who had fled from the Dutch in Rhio. Despite angry protests by the Dutch, Farquhar stood his ground, and Raffles and Hastings supported this decision.35 The Bugis established themselves along Rochor River as traders and boat builders, and the community proved a great asset to Singapore. The Bugis remained grateful for Farquhar’s resolve as seen in their farewell address to him.36
+
+While Farquhar was expediently developing Singapore, Raffles remained in Bencoolen and took only periodic interest in the settlement. He was most tardy in replying to Farquhar’s letters, even urgent ones, and seemed to hinder rather than support the work Farquhar was doing. Returning in October 1822 after three-and-a-half years’ absence, Raffles was elated with the rapid progress of Singapore, telling the Duchess of Somerset that:
+
+“Here is all life and activity; and it would be difficult to name a place on the face of the globe, with brighter prospects or more present satisfaction. In little more than three years it has risen from an insignificant fishing village, to a large and prosperous town”.37
+
+All this Raffles attributed to the “simple, but almost magic result” of freedom of trade – with no mention of Farquhar’s instrumental role.38
+
+Even so, Raffles decided to demolish much of the town and remodel it according to his new plans. By this stage, he was in poor health and intended to return to England by mid-1824. Believing that Britain would retain Singapore, Raffles saw that his last chance to retire in glory was to reclaim Singapore as his own.
+
+Raffles had earlier set aside land at East Beach (Kampong Glam) for the European merchants, but they were most unhappy as the site was unsuitable for loading and unloading goods. Instead, the merchants wanted to build their godowns along the north bank of Singapore River − land that Raffles had reserved for the government. Aware that trade was vital for Singapore’s future, Farquhar had allowed the merchants to provisionally build warehouses there. As he later explained, had he not done so, Singapore would have “completely withered in the bud”.39
+
+Upset by Farquhar’s actions, Raffles complained to Hastings that his subordinate had deviated from instructions by allowing construction along the north bank, claiming that he would have to demolish these buildings and several others at great cost to the government.40
+
+Realising that his original orders to build on East Beach were impractical, Raffles then sought another location. He chose the swampy south bank of the river, where he had ordered the Chinese to establish their kampong in 1819. Disregarding the distressed pleas of the scores of Chinese whom he had settled there, as well as the need for financial prudence, which he had so impressed upon Farquhar, Raffles ordered the swamp to be filled in to form a new commercial precinct.41
+
+<img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold6.JPG">
+<div style="background-color: white;">Map of the Town and Harbour of Singapore” drawn by William Farquhar between 1821 and 1822, and presented to the East India Company in 1825. <i>The British Library Board (IOR/X/3346).</i></div>
+
+The relationship between the two men grew more acrimonious. Raffles continued to undermine Farquhar’s reputation by sending letters to Hastings making accusations against Farquhar. He repeated his earlier complaints that Farquhar had overspent government funds, but later withdrew that criticism.42 Raffles later asked his friend Dr Nathaniel Wallich to hint to Hastings that Farquhar had illegally acquired large areas of land, but later retracted that allegation. In fact, after admitting that he had been misled over the extent of Farquhar’s land acquisitions, Raffles went on to authorise him a grant of some 150 acres.43
+
+Raffles further claimed that Farquhar had not provided a detailed account of the land grants he had allotted, and favoured certain individuals when granting land. In contrast, Raffles selected the best allotments for his family and friends, and allowed his brother-in-law William Flint to build on reserved land.44 Although Farquhar sent detailed despatches and documents to Hastings that clearly refuted those charges, the seeds of doubt had been sown.45
+
+Raffles began to sideline Farquhar. He excluded Farquhar from his new Town Committee that he had set up in October 1822, and instead relied on the inexperienced Philip Jackson for engineering advice. In February 1823, Raffles took Farquhar’s place at the weekly Resident’s court.46 Despite these and other rebuffs, Farquhar assured Raffles of his full cooperation, gave advice when asked, and allowed the committee to use his maps.
+
+Farquhar’s and Raffles’ differing attitudes on the status of Singapore further strained relations between them. Raffles saw Singapore as a British port, while Farquhar regarded it as a Malay port that belonged to the Malay rulers. Farquhar insisted on abiding by the terms of the treaty signed by Sultan Hussein and the Temenggong on 6 February 1819, without which Singapore could not have been founded, as well as the arrangements Raffles and he had signed with the Malay rulers on 26 June 1819.
+
+Farquhar expressed concern when Raffles began to sell land, pointing out that Raffles had no authority to do so as the land rightfully belonged to the Malays. Raffles interpreted this as another instance of Farquhar’s opposition to his plans.
+
+Raffles wrote to Hastings on 11 January 1823, stating that he did not consider Farquhar capable of running Singapore after his own resignation, when Singapore would fall directly under the Bengal government’s supervision. Hence, he wanted Farquhar quickly replaced by “a more competent” local authority.47 Yet the very next day Raffles wrote to his cousin, ecstatic at the progress Singapore had made under Farquhar:
+
+“The progress of my new settlement is in every way most satisfactory, and it would gladden your heart to witness the activity and cheerfulness which prevails throughout. Every day brings us new settlers, and Singapore has already become a great emporium. Houses and warehouses are springing up in every direction”.48
+
+Despite that praise, Raffles wrote two further despatches to Bengal, accusing Farquhar of mismanagement, incompetence and other irregularities.
+
+On 1 May 1823, Raffles dismissed Farquhar as Resident and took over control of Singapore.49 He had no authority to do so as Hastings was the one who had appointed Farquhar.50 Feeling humiliated, Farquhar protested to the Bengal government. However, swayed by Raffles’ despatches, but at the same time concerned at the lack of evidence sustaining his accusations, the government appointed John Crawfurd to take charge. Upon Crawfurd’s arrival, Raffles dismissed Farquhar as Commandant.51 This second dismissal was also without authority and without due cause.
+
+Farquhar left Singapore on 28 December 1823, embittered by his unjustified fall from grace. He received heartfelt farewell addresses from the Bugis, Chinese and Indian communities who showed their deep affection and respect for him, and their sense of loss at his departure. The European merchants were more circumspect in their written address, but still collected $3,000 for a farewell gift. The Chinese raised $700 for their own gift. This money paid for silverware which Farquhar later received in London: an elegant epergne from the Chinese, and a magnificently engraved cup from the European and Armenian merchants.
+
+
