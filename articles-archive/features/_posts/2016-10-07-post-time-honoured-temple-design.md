@@ -141,7 +141,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^10]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 72; *[The New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710911-1.2.47.1.aspx)*, 11 Sep 1971.
 [^11]:The term “kling” or “keling”, first mentioned in the *Sejarah Melayu or Malay Annals* written between the 15th and 16th centuries, was used in colonial Malaya to describe people from the Indian subcontinent. Over time, the term has taken on derogatory connotations and is today regarded by Indians as offensive.
 [^12]:[Uma Devi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488), 2009, p. 49.
-[^13]:Singapore was once a penal colony, and the first shipment of Indian prisoners to Singapore took place in 1825. See Tan, B. (2015, Oct–Dec). Convict labour in colonial Singapore. *BiblioAsia*, 11(3), 36–41.
+[^13]:Singapore was once a penal colony, and the first shipment of Indian prisoners to Singapore took place in 1825. See Tan, B. (2015, Oct–Dec). [Convict labour in colonial Singapore.](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/convict) *BiblioAsia, 11*(3), 36–41.
 [^14]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 114; [Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
 [^15]:Liu, G. (1984). *[Pastel portraits: Singapore’s architectural heritage](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082440)* (p. 126). Singapore: Singapore Coordinating Committee. Call no.: RSING 722.4095957 PAS 
 [^16]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
@@ -166,8 +166,8 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^35]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
 [^36]:Lord Ganesha is the elephant-headed god who symbolises wisdom and prosperity, and is believed to be the remover of all obstacles. He is a major god in the Hindu pantheon and is worshipped at the beginning of all undertakings.
 [^37]:Goddess Saraswathi is the goddess of knowledge,music and the arts.
-[^38]:Yen, F. (2010, April 6). Sri Mariamman Temple unveils its new look. *The Straits Times*. Retrieved from Factiva.
-[^39]:Tay, S. C. (2010, April 10). Brighter and better. *The Straits Times*. Retrieved from Factiva.
+[^38]:Yen, F. (2010, April 6). Sri Mariamman Temple unveils its new look. *The Straits Times*. Retrieved from Factiva via NLB’e [eResources](https://eresources.nlb.gov.sg/main) website.
+[^39]:Tay, S. C. (2010, April 10). Brighter and better. *The Straits Times*. Retrieved from Factiva via NLB’e [eResources](https://eresources.nlb.gov.sg/main) website.
 [^40]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 14.
 [^41]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
 [^42]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 115.
