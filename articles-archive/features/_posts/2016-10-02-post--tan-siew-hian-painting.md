@@ -4,7 +4,6 @@ date: 2016-10-02
 permalink: /vol-12/issue-3/oct-dec-2016/tansiewhian-painting
 layout: post
 ---
-
 #### Tan Swie Hian, whose paintings have fetched record prices, was in fact better known for his literary prowess when he first emerged in the arts scene. **Jessie Yak** highlights some of his poems, short stories and fables.
 
 提起享负盛名的新加坡多媒体艺术家陈瑞献，跃入大家脑海的应该大多为他一幅幅色彩丰富瑰丽的画作、构思奇巧或趣致的雕塑、苍劲豪迈的书法或刻字；他的艺术作品也享誉海外，画作在国际拍卖会上屡次刷新成交价；耀眼的艺术成就使他荣获多项本地及国际的奖项与殊荣。但事实上，他刚开始涉足艺术领域时，是以文艺创作崭露头角的。
@@ -73,3 +72,13 @@ layout: post
 这在极喜中面临极悲的尖锐对比，正是人世间悲欢无常的写照。作者以敏锐的眼光捕捉到了这鲜明的对比，再以朴实无华的文字将之呈现在读者眼前，这其中包含了他对无常人生的悲悯情怀。
 
 除了以上三种文类外，陈瑞献也写过散文、戏剧、评论，及翻译外国文学等。这些年来，他的文艺作品陆续结集出版，新加坡国家图书馆也收藏了不少。若您想进一步了解陈瑞献在文学上的艺术成果，请于2016年11月初至2017年2月底到以下的图书馆参观《悲悯人生：陈瑞献的文艺创作》巡回展：2016年11月1日至12月29日于裕廊区域图书馆; 2016年12月30日至2017年2月28日于中央公共图书馆
+
+|《解析自由心：陈瑞献稿本与创作》特展将于2016年11月22日在国家图书馆大厦10楼展厅拉开序幕。展览将呈现100多件陈瑞献的艺术创作如绘画，雕塑，书法，篆刻，摄影，版画，多媒体表演艺术及写作，展品包括从未公开的稿本及相关文物。一部与展览同名的图录，也将同时出版发行。届时为配合展览，国家图书馆也将推出一系列活动，例如陈瑞献的特别导览和公开座谈会、每月一次的策展人导览等，欢迎公众踊跃参加。|
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak01.png">
+	<b>Jessie Yak </b> is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
