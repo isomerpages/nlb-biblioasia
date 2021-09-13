@@ -67,7 +67,7 @@ During Farquhar’s 15-year stint in Malacca, he was answerable to two lieutenan
 
 Following the Congress of Vienna in 1815, the British were obliged to return Malacca to the Dutch. Merchants in Penang, whose trade had flourished during the British occupation of Malacca and Java, were worried that their inroads into new markets might be curtailed after the Dutch reclaimed their possessions. Along with Farquhar, the merchants pressed Colonel John Bannerman, the Governor of Penang, to protect British commercial interests in the Eastern Archipelago (present-day Indonesia).8
 
-The Search for a New Site
+#### The Search for a New Site
 
 Bannerman thus sent Farquhar to negotiate with rulers in the region, and in August 1818, he managed to secure a trade treaty with Sultan Abdul Rahman of the Johor Empire. Although the treaty gave Britain most favoured nation status, Farquhar knew that something more substantial was needed to protect British interests once the Dutch returned.
 
@@ -76,3 +76,19 @@ In 1816, Farquhar had advocated founding a new base south of the Straits of Mala
 Bannerman was unconvinced, citing the costs involved, but he did forward Farquhar’s suggestions to the Marquess of Hastings, the EIC’s new Governor-General who administered British interests in the Far East.
 
 Hastings faced further pressure to act from the merchants in Calcutta and then from Raffles, who had arrived in the Indian city. Hastings decided to build upon the strong footing obtained by Farquhar’s commercial treaty and sent Raffles on a two-fold mission: first, to settle a dynastic dispute in Aceh, and then, to establish a new post at Rhio (Riau). Because of Farquhar’s experience and expertise, Hastings appointed him to take charge of any new post, but made him subordinate to Raffles, who was based in Bencoolen, Sumatra, at the time.10
+
+<img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold3.JPG">
+<div style="background-color: white;">A painting of Francis Edward Rawdon-Hastings, first Marquess of Hastings, Governor-General of India (1813–23), by Joshua Reynolds. <i>Image source: Wikimedia Commons.</i></div>
+
+Raffles and Farquhar met in Penang and on 19 January 1819, Raffles’ small fleet sailed for the Carimon Islands.11 As the islands proved unsuitable, Farquhar suggested Singapore as an alternative base.12 After Raffles and Farquhar stepped ashore on 28 January, Raffles, who had only recently contemplated Singapore as an option, realised that the island was an ideal spot to stake British claim.
+
+But there was a problem. The island was part of the Johor Empire and its ruler, Sultan Abdul Rahman, had sworn allegiance to the Dutch. Raffles got around this by exploiting a dynastic dispute: he made a deal with the sultan’s older brother and rightful heir, Tengku Long, offering him the throne in return for permission to establish a post in Singapore. Tengku Long agreed and Raffles installed him as Sultan Hussein Mohamed Shah of Johor.
+
+Raffles then signed a treaty with Sultan Hussein and Temenggong Abdul Rahman, the local chief of Singapore, on 6 February 1819. This treaty allowed the EIC to lease land for a trading post. It was tiny – extending only from Tanjong Katong to Tanjong Malang, and inland for about one mile. The rest of the island belonged to Malay nobles and even within the British post, British regulations did not apply inside their compounds.
+
+Raffles did not purchase the island of Singapore, nor acquire it for Britain as often claimed. Indeed, the acquisition was far from guaranteed. After appointing Farquhar Resident and Commandant as ordered by Hastings, Raffles gave Farquhar a list of instructions and departed for Penang on 7 February 1819.
+
+The Dutch were furious at Raffles’ actions. So was the British government which was engaged in negotiations with the Dutch over their respective spheres of influence in the East. The Dutch protested, and reports were received that they would retake Singapore by force. Although Bannerman tried to persuade Farquhar to leave at once, he refused to abandon Singapore: Farquhar knew this was Britain’s last chance to obtain a new base in the region.
+
+In the meantime, Sultan Hussein and the Temenggong regretted having signed the treaty. They wrote to Sultan Abdul Rahman and to his viceroy asking for forgiveness and accused Raffles of having coerced them into signing it. Farquhar persuaded the nobles to retract their statements, and due to his early actions, the post remained in British hands – at least for the time being. However, Baron Godert van der Capellen, the Governor-General of the Dutch East Indies, continued to insist that Sultan Hussein had no right to allow the British to establish a post, and demanded that the British withdraw from Singapore.
+
