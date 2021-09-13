@@ -4,11 +4,10 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/
 layout: post
 ---
-
 #### Chinese newspapers have been published in Singapore since the 19th century. **Lee Meiyu** looks at how they have evolved and examines their impact on the Chinese community here.
 
 <img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News1.JPG">
-<div style="background-color: white;">Elderly Chinese men reading newspapers in coffeeshops are a common sight in Singapore. Photo taken in 1963. Ministry of Information and the Arts Collection, <i>courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Elderly Chinese men reading newspapers in coffeeshops are a common sight in Singapore. Photo taken in 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The Chinese newspaper industry in Singapore has a colourful and varied history enriched by a large, revolving cast of missionaries, reformists, revolutionaries, businessmen, writers and the government. Since the first Chinese newspaper was published in Singapore in 1837, over 160 newspapers have come and gone.[^1] Some of them played an important role in disseminating information to the people as well as shaping politics, society, culture and literature in Singapore.
 
