@@ -119,14 +119,14 @@ The voluntary conservation plan for Pearl Bank provides a platform to facilitate
 
 [^14]:Whang, R. (2015, May 30). URA sees merit in conservation plan for Pearl Bank. The Straits Times; Lim, C. (2011, March 15). 3rd collective sale bid by Pearl Bank. The Straits Times. Retrieved from Factiva.
 
- [^15]:Lee, P. (2014, May 2). Pearl Bank still special after all these years. The Straits Times. Retrieved from Factiva; Poole, E. (2010, March 15). Interview with Ed Poole. Retrieved from Facebook.
+ [^15]:Lee, P. (2014, May 2). Pearl Bank still special after all these years. *The Straits Times*. Retrieved from Factiva; Poole, E. (2010, March 15). *Interview with Ed Poole.* Retrieved from Facebook.
  
-[^16]:Pearl Bank Apartments. Retrieved from Pearl Bank Apartments website.
+[^16]:*Pearl Bank Apartments.* Retrieved from Pearl Bank Apartments website.
 
-[^17]:Chua, S. (2011, April 12). Fighting for Arcadia. Retrived from iProperty.com website.
+[^17]:Chua, S. (2011, April 12). *Fighting for Arcadia.* Retrived from iProperty.com website.
 
-[^18]:Urban Redevelopment Authority. (2016, July 12). Conservation principles. Retrieved from Urban Redevelopment Authority website.
+[^18]:Urban Redevelopment Authority. (2016, July 12). *Conservation principles*. Retrieved from Urban Redevelopment Authority website.
 
-[^19]:Tay, S. C. (2007, August 5). Goodbye Famous 5? The Straits Times, p. 40. Retrieved from NewspaperSG
+[^19]:Tay, S. C. (2007, August 5). [Goodbye Famous 5?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070805-1.2.49.1.1.aspx)*The Straits Times*, p. 40. Retrieved from NewspaperSG
 
 [^20]:Chow, C. (2016, March 3). *Bold bid for conservation*. Retrieved from The Edge Property website.
