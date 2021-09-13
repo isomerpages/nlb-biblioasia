@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg">Sri Mariamman Temple, c.1900. The three-tiered <i>gopuram</i> was a slimmer and sparsely decorated structure  compared to the present five-tiered tower that was rebuilt in 1936. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
-Do not live in a place where there are no temples” cautions an age-old Indian aphorism. In keeping with the sagely advice of his forefathers, one of the first things that Naraina Pillai did after his arrival in Singapore in 1819 was to establish a Hindu temple for his fellow countrymen.
+“Do not live in a place where there are no temples” cautions an age-old Indian aphorism. In keeping with the sagely advice of his forefathers, one of the first things that Naraina Pillai did after his arrival in Singapore in 1819 was to establish a Hindu temple for his fellow countrymen.
 
 In 1827, four years after the land was acquired, Sri Mariamman Temple, Singapore’s oldest Hindu place of worship, finally stood proud along South Bridge Road. The nondescript wood-and-*attap* construction erected then was a simple affair compared to the splendidly intricate and colourful structure that attracts Hindu worshippers as well as busloads of tourists today.
 
@@ -34,7 +34,7 @@ The temple was last re-consecrated in April 2010, in accordance with the Hindu c
 
 #### **A Place for the Community**
 
-<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/time-honoured-temple-design/03_temple_design.jpg">The original three-tiered gopuram (tower) was rebuilt in 1936 into its present five tiers. This is a 1970 postcard view of the <i>gopuram</i>. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/time-honoured-temple-design/03_temple_design.jpg">The original three-tiered <i>gopuram</i> (tower) was rebuilt in 1936 into its present five tiers. This is a 1970 postcard view of the <i>gopuram</i>. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 A Hindu temple is both a sacred and secular space. It serves as a place of worship as well as a venue of congregation for social and cultural functions such as celebrations of festivals and marriages.
 
