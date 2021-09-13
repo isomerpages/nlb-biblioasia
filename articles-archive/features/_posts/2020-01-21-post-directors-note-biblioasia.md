@@ -4,7 +4,6 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/directors-note/
 layout: post
 ---
-
 <img src="/images/Vol-15-issue-4/vol15_iss4.jpg">
 
 
@@ -29,8 +28,5 @@ In contrast, we feature the intrepid Austrian writer Ida Pfeiffer, who travelled
 We round off this issue with Ang Seow Leng’s piece on census-taking in Singapore, Gracie Lee’s article on the history of printing in Indochina and Wong Sher Maine’s retrospective on 150 years of the Istana.
 
 
-<center>
-<br><h6 style="color:purple;font-size:15px;">AUTHOR</h6>
-Tan Huism<br>
-<br>Director, National Library
-</center>
+<b>Tan Huism</b>
+<br>Director<br>National Library
