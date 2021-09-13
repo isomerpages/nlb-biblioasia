@@ -119,7 +119,7 @@ The Istana gardens were also overhauled and professionally landscaped, a Hercule
 
 The front lawn of the main garden was originally designed as a traditional European garden.[^43] To frame the Istana’s main building upon approach, the team transplanted 18 majestic meninjau trees, each soaring over 10 metres in height, from other parts of Singapore to the periphery of the circular front lawn.
 
-<img style="width: 400px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana10.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana10.JPG">
 <div style="background-color: white;">Sunrise from the Presidential Balcony of the Istana, 2006. Photo by Russel Wong. <i>Istana Art Collection, courtesy of National Heritage Board.</i></div>
 
 #### **The Istana Today**
