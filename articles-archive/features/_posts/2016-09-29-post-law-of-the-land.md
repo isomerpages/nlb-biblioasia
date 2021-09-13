@@ -1,9 +1,10 @@
 ---
-title: Law of The Land
+title: Law of the Land
 date: 2016-09-29
 permalink: /vol-12/issue-3/oct-dec-2016/law-of-the-land
 layout: post
 ---
+
 #### A permanent exhibition on Singapore’s constitutional history – from its founding in 1819 to Independence in 1965 – opens at the National Gallery Singapore. **Kevin Khoo** details some of its highlights.
 
 <div style="background-color: white;"><br><img style="width:550px" src="/images/Vol-12-issue-3/law-of-the-land/01a-lawofland.png">The exhibition, “Law of the Land: Highlights of Singapore’s Constitutional Documents”, opens on 19 October 2016 at the former Chief Justice’s Chamber and Office at the National Gallery Singapore. (The Supreme Court and adjoining City Hall re-opened in November 2015 as the National Gallery.) Pictured here is the former Office of the Chief Justice. <i>All rights reserved, Darren Soh and the National Gallery Singapore.</i></div>
