@@ -4,11 +4,10 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/printing-in-indochi/
 layout: post
 ---
-
 #### In the first of two essays on the history of printing in mainland Southeast Asia, **Gracie Lee** examines the impact of the printing press in Vietnam, Cambodia and Laos.
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina5.JPG">
-<div style="background-color: white;">Lexique Francais-Laocien (1904) by French Catholic missionary Marie-Joseph Cuaz, regarded by some as the first dictionary of Laos. The dictionary was an extension of a French-Siamese dictionary that he had published earlier. <i>Harvard University Library. Retrieved from Internet Archive website.</i></div>
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Image6.JPG">
+<div style="background-color: white;"><i>Lexique Francais-Laocien</i> (1904) by French Catholic missionary Marie-Joseph Cuaz, regarded by some as the first dictionary of Laos. The dictionary was an extension of a French-Siamese dictionary that he had published earlier. <i>Harvard University Library. Retrieved from Internet Archive website.</i></div>
 
 Printing in Southeast Asia was largely established on the back of European colonialism and expansion in the region. Motivated by the need to disseminate official government information and Christian knowledge, colonial governments and missionary societies set up the earliest printing presses in Southeast Asia and introduced Western printing methods such as letterpress aprinting[^1] and lithography[^2].
 
