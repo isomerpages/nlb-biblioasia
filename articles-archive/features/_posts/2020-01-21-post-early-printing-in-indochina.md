@@ -39,7 +39,7 @@ Local book publishing flourished with the widespread use of *quoc ngu*, or Roman
 In 1865, the first newspaper in Romanised Vietnamese, *Gia Dịnh Bao* (*News of Gia Dinh*), was published and, in 1895, the first Vietnamese-authored dictionary by scholar Paulus Cua (Vietnamese name Huynh Tinh Cua), *Dai Nam Quac Am Tu Vi* (*The Dictionary of National Language*), was produced. By 1920, modern print technology had replaced woodblock printing as the main printing technique in Vietnam.
 
 <img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Image2.JPG">
-<div style="background-color: white;">The title page of <i>Dai Nam Quac Am Tu Vi</i> (The Dictionary of National Language; 1895) by scholar Paulus Cua (Vietnamese name Huynh Tinh Cua). This is the first Vietnamese-authored dictionary in <i>quoc ngu</i>. The two-volume work was published in Saigon. <i>Retrieved from Wikimedia Commons.</i></div>
+<div style="background-color: white;">The title page of <i>Dai Nam Quac Am Tu Vi</i> (<i>The Dictionary of National Language</i>; 1895) by scholar Paulus Cua (Vietnamese name Huynh Tinh Cua). This is the first Vietnamese-authored dictionary in <i>quoc ngu</i>. The two-volume work was published in Saigon. <i>Retrieved from Wikimedia Commons.</i></div>
 
 #### **Cambodia**
 
