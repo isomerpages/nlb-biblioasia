@@ -18,15 +18,15 @@ The former NCO Club and the Raffles Hotel on Beach Road are two iconic structure
 
 Fashion journalists [John de Souza, Cat Ong and Tom Rao](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/1960s-fashion) describe Singapore’s style scene in the 1960s, a time when bell bottoms, hot pants, maxi dresses and chunky platform shoes reigned, in this extract from a newly published book entitled *Fashion Most Wanted*.
 
-In the 1970s, Singapore students had to learn the painstaking way of writing Chinese script in its proper form. Ho Phang Pow describes a textbook series from 1936 that has been preserved in the collections of the National Library.
+In the 1970s, Singapore students had to learn the painstaking way of writing Chinese script in its proper form. [Ho Phang Pow](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/writingchinesescript) describes a textbook series from 1936 that has been preserved in the collections of the National Library.
 
-Finally, as we mark the 75th anniversary of the Fall of Singapore on 15 February 2017, we remember those who perished during the dark days of the Japanese Occupation. Goh Sin Tub’s short story “The Sook Ching” is a visceral first-hand account of how he escaped the mass executions that took place in the days following the British surrender.
+Finally, as we mark the 75th anniversary of the Fall of Singapore on 15 February 2017, we remember those who perished during the dark days of the Japanese Occupation. [Goh Sin Tub](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/the-sook-ching)’s short story “The Sook Ching” is a visceral first-hand account of how he escaped the mass executions that took place in the days following the British surrender.
 
-Still on the subject of war, Michelle Heng reveals the touching story of two brother poets, Teo Kah Leng and Teo Poh Leng, whose literary works were only recently discovered. Poh Leng was killed in the Sook Ching massacres, while Kah Leng survived to pen a poignant poem in remembrance of his younger brother.
+Still on the subject of war, [Michelle Heng](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/ties-that-bind) reveals the touching story of two brother poets, Teo Kah Leng and Teo Poh Leng, whose literary works were only recently discovered. Poh Leng was killed in the Sook Ching massacres, while Kah Leng survived to pen a poignant poem in remembrance of his younger brother.
 
-The Fall of Singapore on 15 February 1942 and the horrific events that followed in its wake are documented in the revamped “Syonan Gallery: War and its Legacies”, which opens at the Former Ford Factory on 15 February 2017. The atrocities unleashed by the war is a painful reminder why such an event must never happen again.
+The Fall of Singapore on 15 February 1942 and the horrific events that followed in its wake are documented in the revamped “[Surviving the Japanese Occupation: War and its Legacies](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/surviving-jpnese-occu)”, which opens at the Former Ford Factory on 15 February 2017. The atrocities unleashed by the war is a painful reminder why such an event must never happen again.
 
-On a much lighter note, do make time to visit the exhibition, “Script &amp; Stage: Theatre in Singapore from the 50s to 80s”, held at levels 7 and 8 of the National Library Building until 26 March 2017. Also ongoing is an exhibition on the renowned artist Tan Swie Hian in “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” at level 10.
+On a much lighter note, do make time to visit the exhibition, “[Script &amp; Stage: Theatre in Singapore from the 50s to 80s](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/script-stages-theatre)”, held at levels 7 and 8 of the National Library Building until 26 March 2017. Also ongoing is an exhibition on the renowned artist Tan Swie Hian in “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” at level 10.
 
 We hope you enjoy reading this edition of *BiblioAsia*.
 
