@@ -4,10 +4,9 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/istana-turns-150/
 layout: post
 ---
-
 ##### The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019. **Wong Sher Maine** recounts key moments in its history.
 
-<img style="width: 350px; height: 430px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG">
+<img style="width: 450px; height: 400px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG">
 <div style="background-color: white;">The grand facade of the Istana, with its reflection mirrored on the shimmering surface of the lawn fountain. <i>Courtesy of Marshall Cavendish and the Istana.</i></div>
 
 “The building is a handsome one – the handsomest by a long way in the Settlement and one which will be an ornament to the place long after those who fought for and against it have passed away.”[^1]
