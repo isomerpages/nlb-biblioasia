@@ -45,7 +45,7 @@ The Chosabu noted that the last population census had taken place in Singapore i
 
 The Chinese viewed the information-gathering with suspicion as they had suffered greatly during Operation Sook Ching from February to March 1942 when Chinese males between the ages of 18 and 50 were summoned to report at mass screening centres; anyone who was suspected of being anti-Japanese was executed. Hence, the report also noted that “for nationality, most Chinese responded with their home region but a few identified themselves only as Chinese. There was no consistency. The same is true of occupation”.[^36]
 
-<img style="width: 400px; height: 300px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount3.JPG">
+<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount3.JPG">
 <div style="background-color: white;">This is a bound volume of census slips for households on Fraser Street, c. 1945. The National Library received this donation during the 2008 Heritage Roadshow. <i>Collection of the National Library, Singapore (Accession no.: B20026490A).</i></div>
 
 #### **Post-war Censuses**
