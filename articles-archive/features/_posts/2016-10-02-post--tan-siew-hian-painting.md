@@ -103,16 +103,16 @@ layout: post
 
 [^9]:同2，页228。
 
-[^10]:牧羚奴著《巨人》，新加坡：五月出版社，1968年，页11-12。Call no.: RCLOS C811.5 MLN
+[^10]:牧羚奴著[《巨人》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84470001)，新加坡：五月出版社，1968年，页11-12。Call no.: RCLOS C811.5 MLN
 
-[^11]:方桂香主编《陈瑞献谈话录》，新加坡：创意圈出版社，2004年，页57。Call no.: RSING 700.92 CRX
+[^11]:方桂香主编[《陈瑞献谈话录》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12437554)，新加坡：创意圈出版社，2004年，页57。Call no.: RSING 700.92 CRX
 
 [^12]:同2，页294。
 
 [^13]:同2，页229。
 
-[^14]:牧羚奴著《牧羚奴小说集1964 – 1969》，新加坡：五月出版社，1969年，页8。Call no.: RCLOS C813.4 MLN
+[^14]:牧羚奴著[《牧羚奴小说集1964 – 1969》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84455085)，新加坡：五月出版社，1969年，页8。Call no.: RCLOS C813.4 MLN
 
 [^15]:同6，页216。
 
-[^16]:陈瑞献著《陈瑞献寓言》，台北：联经出版公司，1996年，页82。Call no.: RSING C818 TSH
+[^16]:陈瑞献著[《陈瑞献寓言》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84465123)，台北：联经出版公司，1996年，页82。Call no.: RSING C818 TSH
