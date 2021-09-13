@@ -111,50 +111,51 @@ In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40
 
 #### NOTES
 
-[^1]:[*Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980631) (Singapore: Malaya Borneo Exhibition, 1922), 5. (From National Library, Singapore, Call no. RRARE 607.34595 MAL; Microfilm nos. NL9852, NL27451)
+[^1]: [*Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980631) (Singapore: Malaya Borneo Exhibition, 1922), 5. (From National Library, Singapore, Call no. RRARE 607.34595 MAL; Microfilm nos. NL9852, NL27451)
 
-[^2]:Constance Mary Turnbull, [*A History of Modern Singapore 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204080111) (Singapore: NUS Press, 2020), 221. (From National Library, Singapore, Call no. RSING 959.57 TUR-[HIS])
+[^2]: Constance Mary Turnbull, [*A History of Modern Singapore 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204080111) (Singapore: NUS Press, 2020), 221. (From National Library, Singapore, Call no. RSING 959.57 TUR-[HIS])
 
-[^3]:
+[^3]: [*Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980631), 5.
 
-[^4]:
+[^4]: [*Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980631), 61.
 
-[^5]:
+[^5]: “[Malaya Borneo Exhibition: Progress Reported](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19220323-1.2.64),” *Singapore Free Press*, 23 March 1922, 183. (From NewspaperSG)
 
-[^6]:
+[^6]: “[M.B. Exhibition: Borneo’s Native Crafts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19220413-1.2.45),” *Singapore Free Press*, 13 April 1922, 232. (From NewspaperSG)
 
-[^7]:
+[^7]: “[Malaya Borneo Exhibition: Progress Reported](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19220323-1.2.64).”; “[M.B. Exhibition: Borneo’s Native Crafts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19220413-1.2.45).”;  “[Exhibition Closed](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220418-1.2.49),” *Malaya Tribune*, 18 April 1922, 7. (From NewspaperSG); *[Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980631)*, 67.
 
-[^8]:
+[^8]: “[Malaya-Borneo: Arts and Crafts Section of Exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220405-1.2.65),” *Straits Times*, 5 April 1922, 9–10. (From NewspaperSG)
 
-[^9]:
+[^9]: “[Malaya-Borneo: Arts and Crafts Section of Exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220405-1.2.65).”
 
-[^10]:
+[^10]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19210813-1.2.50),” *Singapore Free Press*, 13 August 1921, 12; “[Government Appointments](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200524-1.2.61),” *Straits Times*, 24 May 1920, 10. (From NewspaperSG) 
 
-[^11]:
+[^11]: “[Malaya-Borneo Exhibition: Amateur Photographic Section](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220120-1.2.3),” *Malaya Tribune*, 20 January 1922, 2. (From NewspaperSG)
 
-[^12]:
+[^12]: “[Malaya-Borneo Exhibition: Amateur Photographic Section](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220120-1.2.3).” 
 
-[^13]:
+[^13]: “[The Exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220407-1.2.24),” *Malaya Tribune*, 7 April 1922, 5.
+(From NewspaperSG)
 
-[^14]:
+[^14]: *[Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980631)*, 19.
 
-[^15]:
+[^15]: “[Western Arts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220408-1.2.36.2),” Singapore Free Press, 8 April 1922, 12. (From NewspaperSG)
 
-[^16]:
+[^16]: Zhuang Wubin, *[Shifting Currents: Glimpses of a Changing Nation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203056880)* (Singapore: National Library Board, 2018), 12–16. (From National Library, Singapore, Call no. RSING 915.957 KOU-[TRA]); Zhuang Wubin, *Documenting as Method: Photography in Southeast Asia* [doctoral dissertation, University of Westminster, 2021], 67–73, https://westminsterresearch.westminster.ac.uk/item/v3392/documenting-as-method-photography-in-southeast-asia.
 
-[^17]:
+[^17]: “[First of its Kind in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19350325-1.2.76),” *Malaya Tribune*, 25 March 1935, 12; “[Photographic Exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350227-1.2.65),” *Straits Times*, 27 February 1935, 12; “[Photographic Exhibition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19350207-1.2.115),” *Malaya Tribune*, 7 February 1935, 13. (From NewspaperSG)
 
-[^18]:
+[^18]: 林孝胜 [Lin Xiaosheng], “四海同心 义薄云天—抗日救亡运动” [“Anti-Japanese Movement”], in *[新加坡华人通史 = A General History of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202251084)*, ed. 柯木林 [Kua Bak Lim] (Singapore: Singapore Federation of Chinese Clan Associations, 2015), 559. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HIS]) 
 
-[^19]:
+[^19]: 南洋青年励志学社 [Nanyang Chinese Students Society], “南洋青年励志学社组织缘起” [“The Origins of Organising the Nanyang Chinese Students Society”] (vol. 8), in *[马华新文学大系](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9851028) [Anthology of Malayan Chinese New Literature]*, ed. 方修 [Fang Xiu] (Hong Kong: World Publishing Co., 2000), 534–35. (From National Library, Singapore, Call no. Chinese RSING C810.08 MHX)
 
-[^20]:
+[^20]: “[Photo Exhibition: Artistic Work by Overseas Chinese](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350325-1.2.12),” *Singapore Free Press*, 25 March 1935, 2. (From NewspaperSG)
 
 
-[^21]:
+[^21]: “[*本坡将有华侨摄影展览会](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19350206-1.2.43.3)*” [“Singapore to Host Overseas Chinese Photographic Exhibition”], *南洋商报* [*Nanyang Siang Pau*], 6 February 1935, 6. (From NewspaperSG)
 
-[^22]:
+[^22]: “[Photographic Exhibition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19350207-1.2.115).”
 
 [^23]:
 
