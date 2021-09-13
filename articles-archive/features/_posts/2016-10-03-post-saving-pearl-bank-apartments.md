@@ -91,9 +91,9 @@ The voluntary conservation plan for Pearl Bank provides a platform to facilitate
 
 #### **Notes**
 
-[^1]:Third sale of urban renewal sites for private development. (1970, January/February). Journal of the Singapore Institute of Architects, 38, pp. 2–23. Call no.: R 720.5 SIAJ 
+[^1]:Third sale of urban renewal sites for private development. (1970, January/February). *Journal of the Singapore Institute of Architects*, 38, pp. 2–23. Call no.: R 720.5 SIAJ 
 
-[^2]:Wu, D. (2008, March). Pearl gem. Wallpaper*, pp. 158–160. Call no.: RART 747W; [Going up in S’pore S-E Asia’s tallest flats](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700713-1.2.121.aspx). (1970, July 13). *The Straits Times*, p. 24. Retrieved from NewspaperSG.
+[^2]:Wu, D. (2008, March). Pearl gem. *Wallpaper*, pp. 158–160. Call no.: RART 747W; [Going up in S’pore S-E Asia’s tallest flats](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700713-1.2.121.aspx). (1970, July 13). *The Straits Times*, p. 24. Retrieved from NewspaperSG.
 
 [^3]:Wu, Mar 2008, pp. 158–160.
 
