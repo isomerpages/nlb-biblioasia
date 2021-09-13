@@ -93,15 +93,7 @@ The whole episode ended without bloodshed. It was good experience for me, the va
 
 |<br>***Why Am I Here?: Overcoming Hardships of Local Seafarers***<br>Centre for Maritime Studies, National University of Singapore, 2010<br>[Call nos.: RSING 331.7613875095957 NAT and SING 331.7613875095957 NAT ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13369901)|
 
-<br>
-
-|***The Crane and the Crab***|
-
-|Epigram Books, 2013|
-
-|[Call nos.: JRSING 428.6 NAT and JSING 428.6 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124330)|
-
-<br>
+|<br>***The Crane and the Crab***<br>Epigram Books, 2013<br>[Call nos.: JRSING 428.6 NAT and JSING 428.6 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124330)|
 
 |***Winning Against the Odds: The Labour Research Unit in NTUC’s Founding***|
 
