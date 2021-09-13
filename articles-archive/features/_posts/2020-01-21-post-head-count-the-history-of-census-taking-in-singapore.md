@@ -75,7 +75,7 @@ The census in 1980 saw new data collected, for instance, income from work, addre
 The Census (Amendment) Bill that was passed on 28 March 1990 allowed for the exchange of information between government bodies in order to facilitate data gathering during population census exercises, and thus avoid duplication of efforts. To preserve confidentiality and prevent the misuse of information, only the Superintendent of  Census is able to obtain and  share information.[^45]
 
 <img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount6.JPG">
-<div style="background-color: white;">Publicity poster for Census 2000. <i>Courtesy of Singapore Department of Statistics.</i></div>
+<div style="background-color: white;" style="text-align: center">Publicity poster for Census 2000. <i>Courtesy of Singapore Department of Statistics.</i></div>
 
 Then Minister for Trade and Industry Mah Bow Tan chaired the 1990 Census Planning Committee, with Lau Kak En as Superintendent. With the support of more than 2,000 people employed to conduct the census exercise during the peak period, it was the first time when details of Singaporeans and permanent residents abroad were included. This was also the first time a country used a census form that had been pre-printed with relevant particulars from various government databases.[^46] Six statistical releases and six census monographs were published between 1991 and 1996, covering almost the same topics as the 1980 census.
 
