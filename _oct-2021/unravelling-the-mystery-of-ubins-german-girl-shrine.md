@@ -19,7 +19,8 @@ While fascinating, a close examination of the account reveals a number of major 
 The best-known version of the German girl story today is largely the product of a Teochew man named Chia Yeng Keng 
 (谢衍庆), born in 1928 and a resident of Ubin since 1931 (he died in the mid-2000s). Chia lived near the shrine and claimed to be an authority on it: between 1987 and 2004, he gave no fewer than seven separate interviews that appeared in English and Chinese newspapers, was featured in a documentary film and even gave an oral history interview deposited with the National Archives of Singapore.[^1]  
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Blank%20-%20Lianhe%20Wanbao.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/LHWB.jpg)
+
 <div style="background-color: white;">Chia Yeng Keng (谢衍庆), shown in the newspaper clipping, is the primary informant of the German girl story, giving seven interviews over 17 years. Accompanying this interview is the earliest known photograph of the altar at the German girl shrine. <i>Image reproduced from 联合晚报 [Lianhe Wanbao], 14 July 1990, 2. (From NewspaperSG).</i></div>
 
 
@@ -54,7 +55,8 @@ Finally, there is no satisfactory explanation as to why the German girl’s fami
 
 Despite a careful search of the archives, there is no historical evidence to substantiate the German girl story. This leads us to the question: whose shrine is worshipped on Pulau Ubin today?
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Pulau%20Ubin2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Pulau%20Ubin3.jpg)
+
 <div style="background-color: white;">Detail from <i>Map of the Island of Singapore and its Dependencies 1898</i>. The map  of Pulau Ubin shows the names “Tanjong Puaka” and “Sungei Puaka” across from Ketam Island near where the shrine is located today. <i>Survey Department Collection, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -65,7 +67,7 @@ Intriguingly, the first newspaper article to describe the German girl shrine mak
 
 In 1985, an article in the Malay newspaper *Berita Minggu* mentioned the grave of a princess from Java that was located on a hill on the island. She had “fled to Pulau Ubin over one hundred years ago”, perhaps because of a broken heart or to avoid an arranged marriage. In another version, she was “cared for” by a wealthy *tongkang* (bumboat or lighter) builder. When she died, her body “became a hard rock shaped like a woman lying down”. She was said to later haunt the hill as a *hantu puteri*, or ghost princess, seducing a quarry worker from Johor who met a terrible fate.[^9]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Blank%20-%20Berita%20Minggu.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Berita%20Minggu.jpg)
 <div style="background-color: white;">In 1985, an article in the <i>Berita Minggu</i> carried a report about the grave of a princess from Java that was located on a hill on Pulau Ubin. Accompanying the piece is the earliest known image of the building now called the German girl shrine. <i>Image reproduced from Berita Minggu, 27 October 1985, 11. (From NewspaperSG).</i></div>
 
 The writer, Saadon Ismail, explained that quarrying work on the hill required the grave be removed and a shrine was then built by the seashore nearby, guarded by “a group of Chinese who feel it needs to be maintained”.[^10] The article concludes with the earliest known photograph of the shrine. The writer, however, cited no source for his information.
@@ -119,8 +121,7 @@ In the 1920s, the Ong Lye Sua granite hill was bought by entrepreneur Wee Cheng 
 
 Aerial photographs show that Ong Lye Sua was almost completely levelled by 1969. Within a few years, Aik Hwa would remove the land on which the shrine was located and agree to move it to a new home. Unfortunately, there is no record of this event in Aik Hwa’s company archives. While the exact date is not known, Chia suggested 1974, which seems plausible.
 
-Aik Hwa built a clapboard hut near the sea and painted it yellow – the traditional colour of *datuk kong* shrines, reflecting their Malay roots – and hired a Taoist priest to conduct rites. Ong Siew Fong recalled that it was this priest who labelled the spirit as a “datuk maiden” 
-(拿督姑娘) to denote its female gender. 
+Aik Hwa built a clapboard hut near the sea and painted it yellow – the traditional colour of *datuk kong* shrines, reflecting their Malay roots – and hired a Taoist priest to conduct rites. Ong Siew Fong recalled that it was this priest who labelled the spirit as a “datuk maiden” (拿督姑娘) to denote its female gender. 
 
 He also named it Yatikakak. Yati, a Malay name with Sanskrit roots, is also one of the holy names of the Hindu goddess Durga, the protective mother, while *kakak*, which means “elder sister” in Malay, is an honorific for older women.
 
