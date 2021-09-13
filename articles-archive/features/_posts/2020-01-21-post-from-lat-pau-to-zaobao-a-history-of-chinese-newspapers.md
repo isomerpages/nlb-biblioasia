@@ -25,7 +25,7 @@ Although published by missionaries, the *Eastern Western Monthly Magazine* was a
 
 A little over four decades after the demise of *Eastern Western Monthly Magazine*, *Lat Pau*,[^6] the first Chinese daily in Singapore (and Southeast Asia), made its debut. *Lat Pau* was founded in December 1881 by See Ewe Lay (薛有礼), a prominent Melaka-born Straits Chinese who moved to Singapore to join the Hong Kong and Shanghai Bank as a comprador.
 
-<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News2.JPG">
+<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Imagez.JPG">
 <div style="background-color: white;"> See Ewe Lay  founded the <i>Lat Pau</i> newspaper in December 1881. He is seen here with his eldest son, See Tiouw Hong. <i>Image reproduced from Chen, M.H. (1967). The Early Chinese Newspapers of Singapore, 1881–1912 (plate 1). Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE).</i>  The earliest extant copy of Lat Pau dated 19 August 1887. This front page with the masthead features an editorial and three news items. <i>Image reproduced from Chen, M.H. (1967). The Early Chinese Newspapers of Singapore, 1881–1912 (p. 30). Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE).</i></div>
 
 *Lat Pau*, or *Le Bao* (叻报), derived its name from *Se-lat-po* or *Shi Le Po* (石 叻 坡), the Hokkien and Cantonese names for Singapore. The names, in turn, came from the Malay word *selat*, which means “straits”. One of the paper’s earliest editors was Yeh Chi-yun (叶季允) from Hong Kong.[^7] Yeh worked for *Lat Pau* for 40 years, penning numerous editorials under his pen name Xing E Sheng (惺噩生).
@@ -125,7 +125,7 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |Fans of Chinese sword-fighting, or *wuxia*, novels would be familiar with Linghu Chong (令狐冲), the honourable, happy-go-lucky swordsman with a weakness for alcohol. He is the protagonist in *Xiao Ao Jianghu* (笑傲江湖), a story written by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha).
 
-|<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News7.JPG"><i>Xiao Ao Jianghu</i> (笑傲江湖) by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha) was first serialised in the inaugural issue of Shin Min Daily News on 18 March 1967. <i>Image reproduced from 金庸 [Jin Yong]. (1996).《笑傲江湖》[The Wandering Swordsman]. 新加坡: 明河社出版有限公司.</i>
+|<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image9.JPG"><i>Xiao Ao Jianghu</i> (笑傲江湖) by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha) was first serialised in the inaugural issue of Shin Min Daily News on 18 March 1967. <i>Image reproduced from 金庸 [Jin Yong]. (1996).《笑傲江湖》[The Wandering Swordsman]. 新加坡: 明河社出版有限公司.</i>
 
 |Known in English under various titles such as *The Wandering Swordsman and The Smiling, Proud Wanderer*, the novel is so popular that it has been adapted for the stage, television, the big screen, comic books and even video games. To attract readers, the novel was first serialised in the inaugural issue of *Shin Min Daily News* (新民日报) on 18 March 1967, a local newspaper started by Cha and the founder of Axe Brand Universal Oil, Leong Yun Chee.
 
