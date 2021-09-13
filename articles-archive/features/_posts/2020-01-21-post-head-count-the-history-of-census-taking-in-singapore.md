@@ -215,6 +215,6 @@ It is common for countries, therefore, to adopt a combination of a register-base
 [^49]:Chuah, A. (2001, January 30). [Minister pays tribute to chief statistician Paul Cheung](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20010130-1.2.15.6). *The Business Times*, p. 6. Retrieved from NewspaperSG.
 [^50]:Leow, B.G.; Singapore. Department of Statistics. (2002). [*Census of population 2000: Administrative report*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11503990) (pp. 6–7). Singapore: Dept. of Statistics, Ministry of Trade and Industry. (Call no.: RSING q304.6021095957 CEN)
 [^51]:Singapore. Department of Statistics. (2011). [*Census of population 2010: Administrative report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11503990) (pp. i, 6, 35, 50). Singapore: Dept. of Statistics, Ministry of Trade & Industry. (Call no.: RSING 304.6021095957 CEN)
-[^52]:Coleman, D. (2012). Twilight of the census. *Population and Development Review*, 38, 334–351, pp. 334–335. Retrieved from JSTOR via NLB’s eResources website.
-[^53]:Leviathan’s spyglass. (2010, July 17). *The Economist*. Retrieved from Factiva via NLB’s eResources website.
+[^52]:Coleman, D. (2012). Twilight of the census. *Population and Development Review*, 38, 334–351, pp. 334–335. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^53]:Leviathan’s spyglass. (2010, July 17). *The Economist*. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^54]:Department of Statistics Singapore. (2019, October 4). *Statistics Singapore Newsletter* (Issue 2, 2019,p. 14). Retrieved from Department of Statistics Singapore website.
