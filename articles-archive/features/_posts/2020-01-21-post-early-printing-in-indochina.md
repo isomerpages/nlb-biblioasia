@@ -78,7 +78,7 @@ In 1935, the first Lao grammar book was published under the auspices of the Inst
 
 The first Lao-language newspaper, *Lao Nhay*, which means “Great Laos”, was published only in 1941 as part of a Vichy French-sponsored nationalist movement. The fortnightly periodical featured political news, articles on local life as well as literary works. The newspaper also issued a French supplement, *Pathet Lao* (*Lao-land*), for the French-educated Lao elite. In 1945, during the Japanese Occupation, *Lao Nhay* was supplanted by *Lao Chaleun* (*Prosperous Lao*), a Japanese-sponsored newspaper.[^21]
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina6.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Image6.jpg">
 <div style="background-color: white;">Front page of <i>Lao Nhay (Great Laos)</i>, the first newspaper published in the Lao language. <i>Image reproduced from Ivarsson, S. (2008). Creating Laos: The Making of a Lao Space between Indochina and Siam, 1860–1945 (p. 151). Copenhagen: NIAS. (Call no.: RSEA 959.403 IVA).</i></div>
 
 The publisher of *Lao Nhay* also published other Lao works, such as the national anthem of Laos and the first modern Lao novel, *Phraphuttharup Saksit* (*The Sacred Buddha Image*; 1944). Written by Pierre Somchine Nginn under the pen name Lao Chindamani, the story follows a detective of French and Lao descent as he investigates the disappearance of a Buddha statue from the Wat Si Saket temple in Vientiane. The book has an introduction in French as well as a French title, *La Statuette Merveilleuse: Nouvelle Laotienne*.[^22]
@@ -87,7 +87,7 @@ French colonisation and the emergence of commercial publishers who used Western 
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina7.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-15-issue-4/early-printing-in-indochina/Image7.jpg" style="width: 100px; height: 100px;">
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
 </div>
 
