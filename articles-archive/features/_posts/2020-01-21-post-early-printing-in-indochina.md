@@ -21,10 +21,10 @@ While most countries in mainland Southeast Asia were introduced to printing tech
 
 The spread of printing in the country is commonly attributed to the 15th-century Vietnamese scholar Luong Nhu Hoc, who imparted the craft to the villages of Hong Lac and Lieu Trang in Hai Hung province. As a result, these villages later prospered as centres of printing. Some of these artisans, who specialised in woodblock engraving and paper-making, later relocated and set up publishing houses in the capital Thang Long (present-day Hanoi), which grew as an urban centre for book publishing and retail. In 1820, the Nguyen dynasty (1802–1945) – the last royal house of imperial Vietnam – sought to consolidate all printing in its new capital Hue.[^6]
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina1.JPG">
-<div style="background-color: white;">The Chinh Hoa edition of <i>Dai Viet su ky toan thu</i> (<i>Complete Book of the History of Great Viet</i>; 1697). It is widely regarded as the oldest printed book in Vietnam. The work was compiled by the royal historian Ngo Si Lien in the 15th century, and updated by successive historians. <i>Retrieved from Wikimedia Commons.</i></div>
-
 The oldest printed book in Vietnam is widely regarded to be the Chinh Hoa edition (named after the Chinh Hoa reign era which lasted from 1680 to 1705) of *Dai Viet su ky toan thu* (*Complete Book of the History of Great Viet*; 1697). This monumental work was compiled by the royal historian Ngo Si Lien of the Le dynasty (1428–1789) in the 15th century, and updated by successive historians.[^7]
+
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Image1.jpg">
+<div style="background-color: white;">The Chinh Hoa edition of <i>Dai Viet su ky toan thu</i> (<i>Complete Book of the History of Great Viet</i>; 1697). It is widely regarded as the oldest printed book in Vietnam. The work was compiled by the royal historian Ngo Si Lien in the 15th century, and updated by successive historians. <i>Retrieved from Wikimedia Commons.</i></div>
 
 Scholars generally concur that locally produced books were accessible in Vietnam by the 15th century, at least among the intellectual elite, a class created by the country’s institutionalised system of court examinations modelled on the Chinese bureaucracy. These texts existed alongside manuscripts and books imported from China. Up until the early 20th century, woodblock printing was the main technique used in Vietnam, and texts were written in either classical Chinese or *chu nom* – Chinese characters that had been adapted for the Vietnamese language.[^8]
 
