@@ -4,12 +4,11 @@ date: 2017-01-01
 permalink: /vol-12/issue-4/jan-mar-2017/director-note
 layout: post
 ---
-
 The Italian philosopher George Santayana (1863–1952) underlined the value of memory when he wrote, “Those who cannot remember the past are condemned to repeat it”. History is littered with enough examples of follies being repeated either due to ignorance or because mankind seems incapable of learning from history. By the same token, there are some things worth remembering (and reliving) because of the pleasant memories they recall.
 
 This issue of BiblioAsia – aptly themed “Singapore Revisited” – remembers illustrious (and sometimes colourful) personalities as well as significant places and momentous events that have shaped the course of our history.
 
-Many Singaporeans are familiar with Tan Tock Seng, whose legacy lives on in a hospital named after him, but few would know of the Danish missionary Claudius Henry Thomsen, who produced some of the earliest Malay-language publications in Singapore and Malaya. Sue-Ann Chia recounts the rags-to-riches story of her distinguished ancestor (she traces her lineage to Tan Tock Seng), while Bonny Tan documents the life of the Danish printer.
+Many Singaporeans are familiar with Tan Tock Seng, whose legacy lives on in a hospital named after him, but few would know of the Danish missionary Claudius Henry Thomsen, who produced some of the earliest Malay-language publications in Singapore and Malaya. [Sue-Ann Chia](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/pauper-to-philanthrop) recounts the rags-to-riches story of her distinguished ancestor (she traces her lineage to Tan Tock Seng), while [Bonny Tan](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen) documents the life of the Danish printer.
 
 The dance hostesses from the cabarets of New World, Great World and Happy World amusement parks were more famous for their risqué stage shows than their works of charity. Adeline Foo tells us about the “lancing girls” who set up a free school for impoverished children in post-war Geylang.
 
