@@ -65,7 +65,7 @@ The tamed tiger is a popular motif in the Buddhist art of China and Japan, wheth
 
 #### **India**
 
-<center>“In what distant deeps or skies. Burnt the fire of thine eyes?”<center> 
+<center>“In what distant deeps or skies. Burnt the fire of thine eyes?”</center> 
 <p align="right">– William Blake</p>
 
 In India, on the other hand, a land where tigers once roamed freely and every village feared these dreaded stalkers, the image of the kittenish tiger is nowhere to be seen. Here, “the strongest animals, elephants, form the base of the pyramid of life. The earth is represented by jungle, full of lions and tigers.” [^8] This frieze frequently appears on many of the oldest Hindu temples in India, including the caves of Ajanta, Ellora and Elephanta in Maharashatra state.
