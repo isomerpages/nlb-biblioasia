@@ -5,7 +5,6 @@ permalink: /vol-14/issue-4/jan-mar-2019/fnr-untold-story/
 layout: post
 ---
 #### The founding of Singapore in 1819 and its early development have traditionally been attributed to Sir Stamford Raffles. **Nadia Wright** claims that his role has been exaggerated at the expense of another.
-#### 
 
 <img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold1.JPG">
 
@@ -25,7 +24,7 @@ Raffles owed much to the financial support and patronage of his wealthy uncle, C
 
 Farquhar’s role in Singapore has been defended in the past by eminent historians such as John Bastin, Mary Turnbull and Ernest Chew. Bastin wrote that Singapore’s early success “must be attributed generally to [Farquhar’s] fostering care and benevolent administration”. Mary Turnbull noted that Farquhar had nurtured the settlement through its precarious early years, while Ernest Chew argued that Farquhar had been neglected in the founding narratives of Singapore, contending that Farquhar had been “left behind” by Raffles to run the settlement and subsequently also “left behind” in history.[^4]
 
-<img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold2.JPG">
+<img style="width: 500px; height: 320px;" src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold2.JPG">
 <div style="background-color: white;">(Left) Colonel William Farquhar, c. 1830. <i>Image source: Wikimedia Commons.</i>
 (Right) A portrait of Sir Stamford Raffles presented by his nephew, W.C. Raffles Flint, to London’s National Gallery Portrait Gallery in 1859. <i>Image source: Wikimedia Commons.</i></div>
 
@@ -233,4 +232,4 @@ For various reasons, Farquhar lost his rightful place in the history of Singapor
 [^51]:Hull to Farquhar, 22 May 1823, L. 19, SSR. 
 [^52]:The Memorial of William Farquhar, and Appendix to the Memorial, Home Miscellaneous Series no. 541 India Office Records, British Library. 
 [^53]:Raffles too suffered as the EIC refused to grant him his anticipated pension. 
-[^54]:Palmer to Farquhar, February 1824, Palmer to Coombs, 11 February 1824. See [Wurtzburg](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4150106), 1954, p. 688. 
+[^54]:Palmer to Farquhar, February 1824, Palmer to Coombs, 11 February 1824. See [Wurtzburg](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4150106), 1954, p. 688.
