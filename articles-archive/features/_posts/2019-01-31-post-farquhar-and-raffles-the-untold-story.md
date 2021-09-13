@@ -200,3 +200,23 @@ For various reasons, Farquhar lost his rightful place in the history of Singapor
 [^18]:Farquhar to Raffles, 18 June 1819, NAB 1668; Farquhar to Raffles, 17 April 1821, L. 4, SSR Buckley, C.B. (1965). [*An anecdotal history of old times in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4223465&) (pp. 68–69). Kuala Lumpur: University of Malaya Press. (Call no.: RCLOS 959.57 BUC)
 [^19]:Farquhar to Raffles, 17 April 1821, L. 4, SSR.
 [^20]:Badriyah Haji Salleh. (1999). [*Warkah al-Ikhlas 1818–182*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84691565)  (pp. 28–29, 155–156). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay RSING 091 WAR)
+[^21]:Dr Annabel Teh Gallop, a scholar on Malay works, attributes Farquhar’s success in attracting regional commerce to Singapore to his careful diplomatic correspondence. See Gallop, A. (1994). [*The legacy of the Malay letter = Warisan warkah Melayu*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7122413&) (p. 167). London: British Library for the National Archives of Malaysia. (Call no.: RSING q899.286 GAL) 
+[^22]:Farquhar to Raffles, 2 November 1819, L. 10, SSR. 
+[^23]:Public Advertisement No. 8, 1 May 1820; Appendix to Memorial of Lt Col. Farquhar, 2 April 1825, IOR MS No. 542, p. 155, SSR; Notice, 23 August 1823, L. 19, SSR. 
+[^24]:Raffles to Mackenzie, 20 December 1819, enclosed in Raffles to Dart, 28 December 1819, vol. 50, Sumatra Factory Records, East India Company, National University of Singapore; India Office Library and Records. London: Recordak Microfilm Service. 1960. Monash University. 
+[^25]:Raffles to Travers, 20 March 1820, vol. 50, Sumatra Factory Records.
+[^26]:Jennings to Farquhar, 15 August 1820, L. 4, SSR; Accountant General’s office, 8 March 1826, vol. 71, Java Factory Records, East India Company, London, Recordak Microfilm Services, 1956. Microfilm, Monash University. Hereafter referred to as JFR.
+[^27]:Trocki, C. (2006). [*Singapore: Wealth, power and the culture of control*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12640336&) (p. 20). London; New York: Routledge. (Call no.: RSING 959.5705 TRO-[HIS] 
+[^28]:made no response to the news of this harbour leading Farquhar to again inform him of its value; Farquhar to Raffles, 21 July 1820, L. 4 SSR. 
+[^29]:[His honour’s folly](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000419-1.2.22). (1900, April 19). *The Straits Times*, p. 2. Retrieved from NewspaperSG. 
+[^30]:Farquhar to Raffles, 17 April 1821, L. 4; Farquhar to Hull, 6 November 1822, L. 9, SSR; Farquhar to Raffles, 2 June 1823, L. 15, SSR; Court Minutes, 25 May 1825, IOR B/178: 92. 
+[^31]:
+[^32]:
+[^33]:
+[^34]:
+[^35]:
+[^36]:
+[^37]:
+[^38]:
+[^39]:
+[^40]:
