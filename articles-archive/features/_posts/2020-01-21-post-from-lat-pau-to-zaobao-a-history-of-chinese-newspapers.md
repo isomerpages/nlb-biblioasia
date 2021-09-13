@@ -70,7 +70,7 @@ Due to financial difficulties, *Chong Shing Yit Pao* folded in 1910 and did not 
 Two important newspapers appeared in the 1920s: *Nanyang Siang Pau* (南洋商报) founded by “Rubber and Pineapple King” Tan Kah Kee in 1923 and *Sin Chew Jit Poh* (星洲日报) by Aw Boon Haw of Tiger Balm in 1929. Both newspapers played an important role in the modernisation of the industry.[^27]
 
 <img style="width: 200px; height: 200px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image7.JPG">
-<div style="background-color: white;">(Left) Portrait of “Rubber and Pineapple King” Tan Kah Kee, c. 1950. He founded the <i>Nanyang Siang Pau</i> newspaper in 1923. <i>Courtesy of National Archives of Singapore.</i>(Right) Portrait of “Tiger Balm King” Aw Boon Haw, who founded Sin Chew Jit Poh in 1929. <i>Image reproduced from Who’s Who in China (4th edition) (1931) (p. 497). Shanghai: The China Weekly Review.</i></div>
+<div style="background-color: white;">(Left) Portrait of “Rubber and Pineapple King” Tan Kah Kee, c. 1950. He founded the <i>Nanyang Siang Pau</i> newspaper in 1923. <i>Courtesy of National Archives of Singapore.</i> (Right) Portrait of “Tiger Balm King” Aw Boon Haw, who founded Sin Chew Jit Poh in 1929. <i>Image reproduced from Who’s Who in China (4th edition) (1931) (p. 497). Shanghai: The China Weekly Review.</i></div>
 
 *Nanyang Siang Pau* was set up as an advertising platform for Tan’s rubber products. It was a business newspaper that also aimed to promote education. Likewise, Aw used *Sin Chew Jit Poh* to publicise the Chinese medicinal products under his Tiger Balm brand.[^28] He also hoped to make readers better informed and to encourage them to invest in China’s economy.[^29]
 
