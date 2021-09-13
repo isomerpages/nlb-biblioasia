@@ -24,7 +24,7 @@ Raffles owed much to the financial support and patronage of his wealthy uncle, C
 
 Farquhar’s role in Singapore has been defended in the past by eminent historians such as John Bastin, Mary Turnbull and Ernest Chew. Bastin wrote that Singapore’s early success “must be attributed generally to [Farquhar’s] fostering care and benevolent administration”. Mary Turnbull noted that Farquhar had nurtured the settlement through its precarious early years, while Ernest Chew argued that Farquhar had been neglected in the founding narratives of Singapore, contending that Farquhar had been “left behind” by Raffles to run the settlement and subsequently also “left behind” in history.[^4]
 
-<img style="width: 500px; height: 320px;" src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold2.JPG">
+<img style="width: 450px; height: 320px;" src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold2.JPG">
 <div style="background-color: white;">(Left) Colonel William Farquhar, c. 1830. <i>Image source: Wikimedia Commons.</i>
 (Right) A portrait of Sir Stamford Raffles presented by his nephew, W.C. Raffles Flint, to London’s National Gallery Portrait Gallery in 1859. <i>Image source: Wikimedia Commons.</i></div>
 
