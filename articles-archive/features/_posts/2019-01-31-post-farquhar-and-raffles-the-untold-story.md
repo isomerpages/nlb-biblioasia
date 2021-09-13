@@ -133,7 +133,7 @@ Upset by Farquhar’s actions, Raffles complained to Hastings that his subordina
 
 Realising that his original orders to build on East Beach were impractical, Raffles then sought another location. He chose the swampy south bank of the river, where he had ordered the Chinese to establish their kampong in 1819. Disregarding the distressed pleas of the scores of Chinese whom he had settled there, as well as the need for financial prudence, which he had so impressed upon Farquhar, Raffles ordered the swamp to be filled in to form a new commercial precinct.[^41]
 
-<img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold6.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold6.JPG">
 <div style="background-color: white;">Map of the Town and Harbour of Singapore” drawn by William Farquhar between 1821 and 1822, and presented to the East India Company in 1825. <i>The British Library Board (IOR/X/3346).</i></div>
 
 The relationship between the two men grew more acrimonious. Raffles continued to undermine Farquhar’s reputation by sending letters to Hastings making accusations against Farquhar. He repeated his earlier complaints that Farquhar had overspent government funds, but later withdrew that criticism.[^42] Raffles later asked his friend Dr Nathaniel Wallich to hint to Hastings that Farquhar had illegally acquired large areas of land, but later retracted that allegation. In fact, after admitting that he had been misled over the extent of Farquhar’s land acquisitions, Raffles went on to authorise him a grant of some 150 acres.[^43]
@@ -156,7 +156,7 @@ On 1 May 1823, Raffles dismissed Farquhar as Resident and took over control of S
 
 Farquhar left Singapore on 28 December 1823, embittered by his unjustified fall from grace. He received heartfelt farewell addresses from the Bugis, Chinese and Indian communities who showed their deep affection and respect for him, and their sense of loss at his departure. The European merchants were more circumspect in their written address, but still collected $3,000 for a farewell gift. The Chinese raised $700 for their own gift. This money paid for silverware which Farquhar later received in London: an elegant epergne from the Chinese, and a magnificently engraved cup from the European and Armenian merchants.
 
-<img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold7.JPG">
+<img style="width: 500px; height: 350px;" src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold7.JPG">
 <div style="background-color: white;">(Left) The silver cup that Farquhar received from European and Armenian merchants as a gift when he left Singapore on 28 December 1823. <i>© Private collection</i>.
 (Right) The epitaph on William Farquhar’s tombstone inside his mausoleum at Greyfriars Burial Ground in Perth, Scotland, bears testament to his contributions as “Resident in Malacca and afterwards at Singapore which later settlement he founded”. <i>© Philip Game, photographersdirect.com.</i></div>
 
