@@ -117,7 +117,7 @@ But we should also pay attention to the silences – to the people who aren’t 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/my-grandmother-story/yu-mei.png">
 	<b>Yu-Mei Balasingamchow</b> is the co-author of “Singapore: A Biography” (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is www.toomanythoughts.org.
 </div>
 
