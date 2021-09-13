@@ -36,7 +36,7 @@ An American Studies scholar unravels a decades-old mystery surrounding a bone fr
 February 15 marks the 75th anniversary of the fall of Singapore. *Goh Sin Tub* recounts the horrors that many Chinese suffered at the hands of the Japanese in this short story. [(PDF)](/files/pdf/vol-12/v12-issue4_SookChing.pdf)
 
 **[Surviving the Japanese Occupation: War and Its Legacies](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/surviving-jpnese-occu)** <br>
-A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore. *Fiona Tan* details its major highlights. [(PDF)](/files/pdf/vol-12/v12-issue4_SyonanGallery.pdf)
+A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore. *Fiona Tan* details its major highlights. 
 
 **[哎哟华文字真难写!](https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/writingchinesescript)** <br>
 Students in pre-1970s Singapore had to learn the correct way of writing the Chinese script. *Ho Phang Phow* describes the painstaking process of mastering this craft. [(PDF)](/files/pdf/vol-12/v12-issue4_ChineseScript.pdf)
