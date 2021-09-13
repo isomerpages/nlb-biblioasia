@@ -69,13 +69,13 @@ Due to financial difficulties, *Chong Shing Yit Pao* folded in 1910 and did not 
 
 Two important newspapers appeared in the 1920s: *Nanyang Siang Pau* (南洋商报) founded by “Rubber and Pineapple King” Tan Kah Kee in 1923 and *Sin Chew Jit Poh* (星洲日报) by Aw Boon Haw of Tiger Balm in 1929. Both newspapers played an important role in the modernisation of the industry.[^27]
 
-<img style="width: 200px; height: 200px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News5.JPG" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News4.JPG">
+<img style="width: 200px; height: 200px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image7.JPG">
 <div style="background-color: white;">(Left) Portrait of “Rubber and Pineapple King” Tan Kah Kee, c. 1950. He founded the <i>Nanyang Siang Pau</i> newspaper in 1923. <i>Courtesy of National Archives of Singapore.</i>(Right) Portrait of “Tiger Balm King” Aw Boon Haw, who founded Sin Chew Jit Poh in 1929. <i>Image reproduced from Who’s Who in China (4th edition) (1931) (p. 497). Shanghai: The China Weekly Review.</i></div>
 
-<img style="width: 200px; height: 200px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News4.JPG">
-<div style="background-color: white;"></div>
-
 *Nanyang Siang Pau* was set up as an advertising platform for Tan’s rubber products. It was a business newspaper that also aimed to promote education. Likewise, Aw used *Sin Chew Jit Poh* to publicise the Chinese medicinal products under his Tiger Balm brand.[^28] He also hoped to make readers better informed and to encourage them to invest in China’s economy.[^29]
+
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News6.JPG">
+<div style="background-color: white;">The inaugural issue of <i>Nanyang Siang Pau</i>, originally known as <i>Chinese Daily Journal of Commerce</i>, published on 6 September 1923. <i>Image reproduced from Lim, J.K. (Ed.) (1993). Our 70 Years: History of Leading Chinese Newspapers in Singapore (p. 107). Singapore: Chinese Newspapers Division, Singapore Press Holdings. (Call no.: RSING 079.5957 OUR)</i></div>
 
 In the initial issues, news coverage in both newspapers was limited and tended to focus on events in China. Instead the papers were filled with advertisements. However, Tan and Aw spared no efforts to recruit talent, and the quality of the content soon improved. News coverage was expanded and became more organised. Layout was also improved to make for easier reading. Segments focusing on commerce, sports, culture and education were added to provide greater variety.
 
@@ -91,16 +91,13 @@ Facilities at *Nanyang Siang Pau* and *Sin Chew Jit Poh* were seized, and the of
 
 One defining feature of *Zhaonan Ribao* was its articles about the Overseas Chinese Association, an organisation set up to mediate between the Japanese government and the local Chinese community. The newspaper also carried more content relating to Japanese culture, values and history in a section called “Chao Yang” (朝阳).[^34]
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News6.JPG">
-<div style="background-color: white;">The inaugural issue of <i>Nanyang Siang Pau</i>, originally known as <i>Chinese Daily Journal of Commerce</i>, published on 6 September 1923. <i>Image reproduced from Lim, J.K. (Ed.) (1993). Our 70 Years: History of Leading Chinese Newspapers in Singapore (p. 107). Singapore: Chinese Newspapers Division, Singapore Press Holdings. (Call no.: RSING 079.5957 OUR)</i></div>
-
 #### **Post-war Developments**
 
 Both *Nanyang Siang Pau* and *Sin Chew Jit Poh* resumed publication in September 1945, almost immediately after the Japanese surrendered. The readership and market of these two newspapers expanded in the post-war years and, in the 1950s, both papers even purchased aeroplanes to deliver copies to their subscribers in the region.
 
 This post-war period also saw the streamlining of work processes at the two newspapers: administrative duties were hived off from editorial work, and new departments such as public relations and operations were established. Both papers also moved with the times by using simplified Chinese characters and horizontal typesetting in the 1970s, and incorporating new technology in the 1980s.[^35]
 
-It was not all smooth sailing though. In 1971, the arrest of four senior staff from *Nanyang Siang Pau* sent shockwaves through the industry. The government accused the newspaper of jeopardising the internal security and stability of Singapore. The relationship between the newspaper and the government became tense, with both sides releasing statements denying each other’s claims. The four people were detained for periods ranging between seven and 29 months.34[^36] In 1973, another senior executive was arrested under the Internal Security Act. He was only released five years later.
+It was not all smooth sailing though. In 1971, the arrest of four senior staff from *Nanyang Siang Pau* sent shockwaves through the industry. The government accused the newspaper of jeopardising the internal security and stability of Singapore. The relationship between the newspaper and the government became tense, with both sides releasing statements denying each other’s claims. The four people were detained for periods ranging between seven and 29 months.[^36] In 1973, another senior executive was arrested under the Internal Security Act. He was only released five years later.
 
 In 1974, the Newspaper and Printing Presses Act came into force. Under this legislation, all newspaper publishing companies had to be converted into public companies. The company that owned *Sin Chew Jit Poh* was reorganised into a public entity under the name Sin Chew Jit Poh (Singapore) Limited, while *Nanyang Siang Pau* became owned by Nanyang Press Singapore Limited. The act also required the companies to issue both ordinary shares and management shares, which they did in 1977.[^37]
 
@@ -118,13 +115,11 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |In 1907, Chinese daily *Lat Pau* introduced a supplement known as *fu zhang* (附张; which literally means “attached sheet”) in which folksongs and popular tales along with other miscellaneous articles were featured.[^25]
 
-|Other Chinese newspapers followed suit and produced their own supplements, now called *fukan*(副刊). One of the most important *fukan* published was *Xin Guo Min Za Zhi* (新国民杂志), the supplement to *Sin Kuo Min Jit Poh*(新国民日报), which was founded in 1919. This supplement was a milestone in the history of Singapore Chinese literature as it introduced modern Chinese literature inspired by the New Culture Movement[^26] in China to local readers.
+|Other Chinese newspapers followed suit and produced their own supplements, now called *fukan* (副刊). One of the most important *fukan* published was *Xin Guo Min Za Zhi* (新国民杂志), the supplement to *Sin Kuo Min Jit Poh* (新国民日报), which was founded in 1919. This supplement was a milestone in the history of Singapore Chinese literature as it introduced modern Chinese literature inspired by the New Culture Movement[^26] in China to local readers.
 
 |In 1925, *Nan Feng* (南风) was published by *Sin Kuo Min Jit Poh while Xing Guang* (星光) was published by *Lat Pau*. These supplements helped define Singapore Chinese literature and establish its future direction of growth.
 
-|Other important *fukan* that contributed to the development of Chinese literature in Singapore were *Huang Dao* (荒岛) (1927) and *Lu Yi*(绿漪) (1927) by *Sin Kuo Min Jit Poh*; *Ye Lin* (椰林) (1928) by *Lat Pau*; *Hong Huang* (洪荒) (1927), *Wen Yi San Ri Kan* (文艺三日刊) (1929) and *Shi Sheng* (狮声) (1933) by *Nanyang Siang Pau*; and *Ye Pa* (野葩) (1930) and *Chen Xing* (晨星) (1937) by *Sin Chew Jit Poh*.
-
-<br>
+|Other important *fukan* that contributed to the development of Chinese literature in Singapore were *Huang Dao* (荒岛) (1927) and *Lu Yi* (绿漪) (1927) by *Sin Kuo Min Jit Poh*; *Ye Lin* (椰林) (1928) by *Lat Pau*; *Hong Huang* (洪荒) (1927), *Wen Yi San Ri Kan* (文艺三日刊) (1929) and *Shi Sheng* (狮声) (1933) by *Nanyang Siang Pau*; and *Ye Pa* (野葩) (1930) and *Chen Xing* (晨星) (1937) by *Sin Chew Jit Poh*.
 
 |**The Swordsman Makes its Debut**
 
