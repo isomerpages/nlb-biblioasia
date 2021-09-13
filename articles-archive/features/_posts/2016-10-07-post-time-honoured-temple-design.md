@@ -50,7 +50,7 @@ Statues of deities are placed in shrines within the temples. The temples typical
 
 #### **The Gopuram**
 
-The gopuram refers to the pyramidal-shaped tower at the temple entrance and is an important feature in South Indian temples. Its great height serves a purpose, acting as a beacon for devotees from afar and allowing them to pray or meditate in  preparation for their entrance into the temple.[^24] The five-tiered *gopuram* of the Sri Mariamman Temple is perhaps its most striking feature and is a much-photographed icon on South Bridge Road.[^25]
+The *gopuram* refers to the pyramidal-shaped tower at the temple entrance and is an important feature in South Indian temples. Its great height serves a purpose, acting as a beacon for devotees from afar and allowing them to pray or meditate in  preparation for their entrance into the temple.[^24] The five-tiered *gopuram* of the Sri Mariamman Temple is perhaps its most striking feature and is a much-photographed icon on South Bridge Road.[^25]
 
 <div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/time-honoured-temple-design/04_temple_design.jpg">The five-tiered <i>gopuram</i> (tower) as it looks today after the temple underwent a major restoration in 2009. <i>Photographed in 2016 by the writers.</i></div>
 
@@ -58,7 +58,7 @@ The five-metre-high *gopuram*, which faces east, is adorned with sculptures repr
 
 In 1936, the three-tiered *gopuram* was raised into its present five-tiers. In the 1960s, the *gopuram* was restored and decorated with the elaborate sculptures and carvings that you see today.[^29] Photographs of the original three-tiered *gopuram* show a slimmer and more sparsely decorated structure compared to the present broader and more ornate tower. The sides of the old *gopuram* also appear to be steeper than the new one.[^30] Beneath the *gopuram* is a pair of heavy, double-leafed timber main doors that open into the main hall of the temple.[^31]
 
-Craftsmen from South India drew their inspiration not only from Indian tradition, but also from the military traditions of colonial India. Hence, they incorporated Indian sepoys(soldiers recruited by the British in India), dressed in khaki uniforms and armed with rifles, into the collection of the sculptures carved into the gopuram as well as on the walls of the temple. In 1971, however, the sepoy statues on the *gopuram* were removed during renovation works and replaced with figures clad in Indian traditional costumes.[^32]
+Craftsmen from South India drew their inspiration not only from Indian tradition, but also from the military traditions of colonial India. Hence, they incorporated Indian sepoys (soldiers recruited by the British in India), dressed in khaki uniforms and armed with rifles, into the collection of the sculptures carved into the gopuram as well as on the walls of the temple. In 1971, however, the sepoy statues on the *gopuram* were removed during renovation works and replaced with figures clad in Indian traditional costumes.[^32]
 
 #### **The Mandapam**
 
@@ -132,7 +132,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^1]:A *gopuram* is the pyramidal tower erected over the entrance of South Indian Hindu temples.
 [^2]:Liu, G. (1996). *[In granite and chunam: The national monuments of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754)* (p. 114). Singapore: Landmark Books. Call no.: RSING 725.94095957 LIU
 [^3]:Netto, G. (1961). *[Indians in Malaya: Historical facts and figures](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4078361)* (p. 17). Singapore: George Netto. Call no.: RCLOS 331.62540595 NET
-[^4]:Soundararajan, N. S. (1971). The history of the Sri Mariamman Temple. In *[Ciṅkappūr Srī Māriyamman̲ Kōvil Makā Kumpāpiṣēka malar = Sri Mariamman Temple Maha Kumbabishegam Souvenir](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12915154)* (p. 65). Singapore: Sri Mariamman Devasthanam. Call no.:Tamil RCLOS 294.535095957 SIN
+[^4]:Soundararajan, N. S. (1971). The history of the Sri Mariamman Temple. In *[Ciṅkappūr Srī Māriyamman̲ Kōvil Makā Kumpāpiṣēka malar = Sri Mariamman Temple Maha Kumbabishegam Souvenir](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12915154)* (p. 65). Singapore: Sri Mariamman Devasthanam. Call no.: Tamil RCLOS 294.535095957 SIN
 [^5]:Hindu Endowments Board. (2014). *Sri Mariamman Temple*. Retrieved from Hindu Endowments Board website.
 [^6]:Uma Devi, G. (2009). *[Resonance: Songs of our forefathers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488)* (p. 49). Singapore: Preservation of Monuments Board. Call no.: RSING 725.94095957 RES
 [^7]:Sanmugam, E., et al. (Eds.). (2009). *[Sacred sanctuary: The Sri Mariamman Temple](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233)* (p. 10). Singapore: Sri Mariamman Temple. Call no.: RSING 294.535095957 SAC
