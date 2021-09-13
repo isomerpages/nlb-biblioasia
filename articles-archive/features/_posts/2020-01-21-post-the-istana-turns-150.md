@@ -182,7 +182,7 @@ While the Istana may have started out as symbol of imperial strength and power 1
 
  <br>
 <div style="background-color: white;">
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana13.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/WSM.jpg" style="width: 100px; height: 100px;">
 <b>Wong Sher Maine</b> is a freelance writer who has written two books about the Istana: <i>Our Istana</i> was published in 2015, while <i>50 Best Kept Secrets of the Istana: People and Places</i> was published in 2019.
 </div>
 
