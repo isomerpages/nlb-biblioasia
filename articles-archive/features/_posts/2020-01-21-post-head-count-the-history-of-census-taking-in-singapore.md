@@ -129,9 +129,9 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 |“The country population, especially farmers are not always willing to open their doors. It takes a good five minutes to convince the occupants of some houses that census officers are not policemen, detectives or gangsters, but just people assigned by the Government to find out the number of people living in a house.
 
-|“This information must be obtained from the principal occupier of the house and if he does not happen to be in, as is often the case, the census officer has to make the long trek back at a time when his informant is likely to be home”.[^23]
+|“This information must be obtained from the principal occupier of the house and if he does not happen to be in, as is often the case, the census officer has to make the long trek back at a time when his informant is likely to be home."[^23]
 
-|Another problem faced in the rural districts was that many houses were not marked on maps. “The census officer covers a district, then climbs up a hill for the house on top. When he reaches it and looks round the surrounding country he is almost always sure to spot a hut that he had overlooked because it was not marked. He is then obliged to go down again to fulfil his task”.[^24]
+|Another problem faced in the rural districts was that many houses were not marked on maps. “The census officer covers a district, then climbs up a hill for the house on top. When he reaches it and looks round the surrounding country he is almost always sure to spot a hut that he had overlooked because it was not marked. He is then obliged to go down again to fulfil his task."[^24]
 
 |In addition to swamps, rivers, jungles and suspicious tenants, the enumerators had to deal with dogs. The same news report said that “two of the men returned with dog bites while several others have been chased by dogs found in almost every house in the country”.[^25]
 
@@ -141,11 +141,11 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 |Counting the people living aboard vessels in the harbour required census officials to carry out their task between midnight and dawn. The enumerators – each supplied with a torchlight, a pencil, census forms, passes, and a set of instructions – were protected in the course of their duties by the police.
 
-|<i>Malaya Tribune</i> reporter Harry Fang accompanied the enumerators as they boarded the various vessels in the harbour and on the rivers. The night did not begin well for them though. The first vessel they boarded was the steamer <i>Giang Ann</i>. Fang said: “[W]e were half way through when a European member of the crew, apparently awaked in his sleep by the commotion, appeared in his pyjamas and created a small argument. Finally, we learned that the steamer’s crew had [already] been censused”.[^28]
+|<i>Malaya Tribune</i> reporter Harry Fang accompanied the enumerators as they boarded the various vessels in the harbour and on the rivers. The night did not begin well for them though. The first vessel they boarded was the steamer <i>Giang Ann</i>. Fang said: “[W]e were half way through when a European member of the crew, apparently awaked in his sleep by the commotion, appeared in his pyjamas and created a small argument. Finally, we learned that the steamer’s crew had [already] been censused."[^28]
 
 |Naturally, most crew members did not react well to the appearance of Fang and company, given that they were awakened by enumerators “armed with torchlight, and escorted by policemen”.
 
-|Fang added that the “first reaction was always one of fear but after our explanation, the men became assured and readily supplied us with required information”. That said, getting the truth took time. “False names and ages were often given at  first and  after much  gentle persuasion, the truth was finally told”.[^29]
+|Fang added that the “first reaction was always one of fear but after our explanation, the men became assured and readily supplied us with required information”. That said, getting the truth took time. “False names and ages were often given at  first and  after much  gentle persuasion, the truth was finally told."[^29]
 
 |Conducting a census at sea had unexpected hazards as well, namely hardworking fisherman. “An old disinterested Chinese with his son fishing in a sampan off Beach Road nearly snared the Marine Police Chief, Mr J.W. Chiltern, when he cast his prawn net at the moment Mr Chiltern passed in one of his branch’s fast new launches”.[^30]
 
