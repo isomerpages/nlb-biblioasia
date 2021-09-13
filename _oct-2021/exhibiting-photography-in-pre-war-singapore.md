@@ -14,6 +14,10 @@ Between the 1920s and the onset of the Japanese Occupation in 1942, there had be
 
 On 31 March 1922, the Malaya Borneo Exhibition opened to much fanfare on reclaimed land adjacent to the Telok Ayer basin. Occupying 65 acres (around 263,046 sq m), the colonial spectacle was put together in less than six months. After several extensions, the fair ended on 17 April.
 
+<div style="background-color: white;">The carnival at the Malaya Borneo Exhibition held in Singapore from 31 March to 17 April 1922. <i>Arshak C Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+
 Governor of the Straits Settlements Laurence Guillemard conceived the idea for the exhibition. As he noted in the souvenir guide, its objective was to “bring together, for the first time in history, representatives of all classes from the two important Malayan countries under British influence”, namely British Malaya and Borneo, so that “by interchange of ideas and discussion of matters of interest to each, considerable mutual benefit might be derived by all, and a revival of local trade possibly stimulated”.[^1]
 
 However, in truth, the revival of colonial trade was probably the key reason for organising the exhibition. In Singapore, the post-World War I euphoria quickly gave way to a recession in 1920, which only started easing in 1922.[^2] There was also the minor matter of coinciding with the visit by the Prince of Wales who officiated the opening. The souvenir guide also highlighted that the exhibition would show the prince the “natural resources and possibilities of Malayan countries under British influence, and to illustrate as far as possible some of the characteristic features of these countries and their people”.[^3]
