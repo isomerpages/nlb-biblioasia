@@ -29,16 +29,17 @@ Any discussion of global economics and the cost of living was well beyond the ab
 
 My ears perked up.
 
-Scratching Beneath the Surface
+#### **Scratching Beneath the Surface**
+
 I’ve been working as an independent researcher and writer in Singapore’s history and heritage fields for a decade now, and in that time I’ve witnessed a surge in interest in local history, as well as activism around heritage issues. A decade ago, I would not have anticipated the passionate defence and caretaking of Bukit Brown Cemetery by the volunteer group All Things Bukit Brown, or the number of local history- or identity-oriented artworks that emerged from Singaporean artists at the last Singapore Biennale, or that the government would budget $42 million for a Singapore Memory Project to collect memories of Singapore.
 
-My personal interest comes from wanting to find out more about Singapore, past and present, which possesses far richer, more complex and unsettling stories than the airbrushed, whitewashed Majulah Singapura version found in school textbooks or mainstream discourse.
+My personal interest comes from wanting to find out more about Singapore, past and present, which possesses far richer, more complex and unsettling stories than the airbrushed, whitewashed *Majulah Singapura* version found in school textbooks or mainstream discourse.
 
 |I’m interested in stories that no one used to care about, stories that complicate or overturn the orthodox way of thinking about the present – stories that begin with questions that no one has thought of asking before.|
 
 For all the documentation projects, government grants, websites, Facebook pages and knick-knacks that have sprung up around “Singapore heritage”, I’m often reminded that the stories that have not yet been told, the layers that have not yet been peeled back, are often staring us in the face.
 
-Some years ago, I came across the book Hidden Hands and Divided Landscapes: A Penal History of Singapore’s Plural Society by Anoma Pieris.[^1] It examines Indian convict labour in colonial Singapore and how racial politics have been inscribed in our multiethnic society and urban history since its founding. Pieris highlights several colonial landmarks in the civic district that have been canonised as national monuments because of their architecture, an homage to the benevolence of colonial rule. Yet the convicts who built them have gone largely unacknowledged. At Bras Basah Road for instance, where the Singapore Management University now stands, there is no trace or memorial of the prison where the convict labourers were housed.
+Some years ago, I came across the book *Hidden Hands and Divided Landscapes: A Penal History of Singapore’s Plural Society* by Anoma Pieris.[^1] It examines Indian convict labour in colonial Singapore and how racial politics have been inscribed in our multiethnic society and urban history since its founding. Pieris highlights several colonial landmarks in the civic district that have been canonised as national monuments because of their architecture, an homage to the benevolence of colonial rule. Yet the convicts who built them have gone largely unacknowledged. At Bras Basah Road for instance, where the Singapore Management University now stands, there is no trace or memorial of the prison where the convict labourers were housed.
 
 <div style="background-color: white;"><img src="/images/Vol-12-issue-2/my-grandmother-story/02-mygrandmotherstory.jpg">(Left) A postcard of Indian convicts repairing a road in Singapore. Few people are aware that Indian convict labour was used for the construction of many colonial-era buildings in Singapore. <i>Courtesy of Farish Noor.</i></div>
  <div style="background-color: white;">(Right) Main entrance of the convict jail at Bras Basah, 1860–1899. <i>All rights reserved, McNair, J. F. A. (1899). Prisoners Their Own Warders: A Record of the Convict Prison at Singapore in the Straits Settlements, Established 1825, Discontinued 1873, Together with a Cursory History of the Convict Establishments at Bencoolen, Penang and Malacca from the Year 1797. Westminster: A. Constable.</i></div>
@@ -105,7 +106,7 @@ I think about the woman my grandmother heard had been raped. Whoever she was, wh
 
 When we think about the gaps and silences in Singapore history, we typically think of the big political erasures – the experiences of political exiles and detainees, the circumstances of Operation Coldstore or Operation Spectrum. We think of minority groups whose experiences, stories and viewpoints get downplayed or erased.
 
-But there are other kinds of absences. In 2005, the National Archives of Singapore published the scrupulously researched The Syonan Years: Singapore Under Japanese Rule 1942–1945 by Lee Geok Boi, which draws on the archives’ oral history records and other collections to provide “a Singaporean and ultimately an Asian view of the Occupation”.[^3] The index to this book contains three entries for “rape”, consisting of four pages in all, and 30 entries for “Sook Ching”, comprising 45 pages in all.
+But there are other kinds of absences. In 2005, the National Archives of Singapore published the scrupulously researched *The Syonan Years: Singapore Under Japanese Rule 1942–1945* by Lee Geok Boi, which draws on the archives’ oral history records and other collections to provide “a Singaporean and ultimately an Asian view of the Occupation”.[^3] The index to this book contains three entries for “rape”, consisting of four pages in all, and 30 entries for “Sook Ching”, comprising 45 pages in all.
 
 The dead cannot speak, nor can the mutilated or the traumatised. Their pain still exists, the violence one human did to another resides in their bodies and their minds. I suppose my grandmother, hearing about faraway wars on the news, was thinking about the things that happen to men, and particularly women, in times of war.
 
