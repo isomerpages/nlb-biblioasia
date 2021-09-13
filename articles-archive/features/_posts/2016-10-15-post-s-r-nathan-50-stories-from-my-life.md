@@ -87,16 +87,16 @@ The whole episode ended without bloodshed. It was good experience for me, the va
 
 |<br>**OTHER PUBLICATIONS BY S R NATHAN**|
 
-|<br>***S R Nathan in Conversation with Timothy Auger***<br>Editions Didier Millet, 2015<br>[Call nos.: RSING 959.5705 NAT and SING 959.5705 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201165320)|
+|<br>***[S R Nathan in Conversation with Timothy Auger](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201165320)***<br>Editions Didier Millet, 2015<br>Call nos.: RSING 959.5705 NAT and SING 959.5705 NAT|
 
-|<br>***An Unexpected Journey: Path to the Presidency***<br>Editions Didier Millet, 2011<br>[Call nos.: RSING 959.5705092 NAT and SING 959.5705092 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14182432)|
+|<br>***[An Unexpected Journey: Path to the Presidency](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14182432)***<br>Editions Didier Millet, 2011<br>Call nos.: RSING 959.5705092 NAT and SING 959.5705092 NAT|
 
-|<br>***Why Am I Here?: Overcoming Hardships of Local Seafarers***<br>Centre for Maritime Studies, National University of Singapore, 2010<br>[Call nos.: RSING 331.7613875095957 NAT and SING 331.7613875095957 NAT ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13369901)|
+|<br>***[Why Am I Here?: Overcoming Hardships of Local Seafarers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13369901)***<br>Centre for Maritime Studies, National University of Singapore, 2010<br>Call nos.: RSING 331.7613875095957 NAT and SING 331.7613875095957 NAT|
 
-|<br>***The Crane and the Crab***<br>Epigram Books, 2013<br>[Call nos.: JRSING 428.6 NAT and JSING 428.6 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124330)|
+|<br>***[The Crane and the Crab](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124330)***<br>Epigram Books, 2013<br>Call nos.: JRSING 428.6 NAT and JSING 428.6 NAT|
 
-|<br>***Winning Against the Odds: The Labour Research Unit in NTUC’s Founding***<br>Straits Times Press, 2011<br>[Call nos.: RSING 331.880959957 NAT and SING 331.880959957 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13729956)|
+|<br>***[Winning Against the Odds: The Labour Research Unit in NTUC’s Founding](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13729956)***<br>Straits Times Press, 2011<br>Call nos.: RSING 331.880959957 NAT and SING 331.880959957 NAT|
 
-|<br>***Singapore’s Foreign Policy: Beginnings and Future***<br>MFA Diplomatic Academy, 2008<br>[Call no.: RSING 327.5957 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13179096)|
+|<br>***[Singapore’s Foreign Policy: Beginnings and Future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13179096)***<br>MFA Diplomatic Academy, 2008<br>Call no.: RSING 327.5957 NAT|
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
