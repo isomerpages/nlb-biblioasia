@@ -6,7 +6,7 @@ layout: post
 ---
 #### Sri Mariamman Temple is Singapore’s oldest Hindu shrine. **Anasuya Soundararajan** and **Sri Asrina Tanuri** describe the architectural features of this landmark.
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg">Sri Mariamman Temple, c.1900. The three-tiered <i>gopuram</i> was a slimmer and sparsely decorated structure  compared to the present five-tiered tower that was rebuilt in 1936. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><br><img style="width:620px" src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg">Sri Mariamman Temple, c.1900. The three-tiered <i>gopuram</i> was a slimmer and sparsely decorated structure  compared to the present five-tiered tower that was rebuilt in 1936. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 “Do not live in a place where there are no temples” cautions an age-old Indian aphorism. In keeping with the sagely advice of his forefathers, one of the first things that Naraina Pillai did after his arrival in Singapore in 1819 was to establish a Hindu temple for his fellow countrymen.
 
