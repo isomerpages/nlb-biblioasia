@@ -47,10 +47,10 @@ Compared to Vietnam, printing in Cambodia developed much later. Scholars have at
 
 Printing was introduced to Cambodia during the period of the French Protectorate (1863–1953). Until the 1880s, many of the earliest publications about Cambodia were published outside the kingdom, in particular Vietnam, and were in French. Examples include the *Bulletin officiel de l’Expedition de Cochinchine* (1862) and the *Bulletin officiel du Cambodge* (1884). The latter is the first official organ and administrative bulletin of colonial Cambodia.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina3.JPG">
-<div style="background-color: white;">Portrait of French linguist Etienne Aymonier, 1883. He compiled the first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> (1878), with assistance from local interpreter Son Diep. <i>Bibliothèque nationale de France.</i></div>
-
 Privately published works such as French linguist Etienne Aymonier’s collection of popular Khmer folklores were also produced in Vietnam. Lithographed in Saigon in 1878, this bilingual work – in Khmer and French – is regarded as the first collection of Cambodian oral tales ever recorded on paper in the vernacular. Additionally, Aymonier compiled the first Khmer-French dictionary, *Dictionnaire Khmer-Francais* (1878), in Saigon with assistance from local interpreter Son Diep.[^12]
+
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Image3.JPG">
+<div style="background-color: white;">Portrait of French linguist Etienne Aymonier, 1883. He compiled the first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> (1878), with assistance from local interpreter Son Diep. <i>Bibliothèque nationale de France.</i></div>
 
 It was not until around 1886 that the first official printing press in Cambodia, the Imprimerie du Protectorat, was established by the French in Phnom Penh. One of its earliest publications was the first printed periodical in Cambodia titled *Annuaire Illustre du Cambodge* (1890).
 
