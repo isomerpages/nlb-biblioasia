@@ -103,17 +103,17 @@ The voluntary conservation plan for Pearl Bank provides a platform to facilitate
 
 [^6]:Building Materials & Equipment Southeast Asia, Apr 1976, pp. 34–57.
 
-[^7]:Apartment block ready at last. (1975, 10 October). New Nation, p. 2. Retrieved from NewspaperSG.
+[^7]:[Apartment block ready at last](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19751010-1.2.5.8.aspx). (1975, 10 October). *New Nation*, p. 2. Retrieved from NewspaperSG.
 
-[^8]:Tan, A. (1971, April 17). Building at a faster tempo for graceful living. New Nation, p. 13. Retrieved from NewspaperSG.
+[^8]:Tan, A. (1971, April 17). [Building at a faster tempo for graceful living](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710417-1.2.51.aspx). *New Nation*, p. 13. Retrieved from NewspaperSG.
 
-[^9]:Tan, C. S. (1972, February 1). Neck-to-neck race skywards… New Nation, p. 8. Retrieved from NewspaperSG.
+[^9]:Tan, C. S. (1972, February 1). [Neck-to-neck race skywards…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720201-1.2.60.1.aspx) *New Nation*, p. 8. Retrieved from NewspaperSG.
 
 [^10]:URA offers sites for sale to developers. (1974, April 2). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^11]:Goh, E. K., & Ong, L. K. (1976, November 5). Property companies facing an uncertain future. *The Business Times*, p. 4. Retrieved from NewspaperSG.
+[^11]:Goh, E. K., & Ong, L. K. (1976, November 5). [Property companies facing an uncertain future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19761105-1.2.21.3.aspx). *The Business Times*, p. 4. Retrieved from NewspaperSG.
 
-[^12]:Teo, L. H. (1978, December 13). [HUDC to buy 60 Pearlbank flats](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19781213-1.2.2.aspx). New Nation, p. 1; [Developers hail HUDC move](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771207-1.2.110.aspx). (1977, December 7). *The Straits Times*, p. 25. Retrieved from NewspaperSG.
+[^12]:Teo, L. H. (1978, December 13). [HUDC to buy 60 Pearlbank flats](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19781213-1.2.2.aspx). *New Nation*, p. 1; [Developers hail HUDC move](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771207-1.2.110.aspx). (1977, December 7). *The Straits Times*, p. 25. Retrieved from NewspaperSG.
 
 [^13]:Fatti, M. (2016, March 29). *En bloc sales – how does it work?* Retrieved from 99.co. website.
 
