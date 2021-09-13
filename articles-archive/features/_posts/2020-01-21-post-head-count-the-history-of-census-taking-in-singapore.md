@@ -157,7 +157,7 @@ It is common for countries, therefore, to adopt a combination of a register-base
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount9.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/ASL.jpg" style="width: 100px; height: 100px;">
 <b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore & Southeast Asian Collection, developing content as well as providing reference and research services related to Singapore and Southeast Asia.
 </div>
 
