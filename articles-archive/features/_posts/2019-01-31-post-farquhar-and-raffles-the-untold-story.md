@@ -56,7 +56,7 @@ Bannerman was unconvinced, citing the costs involved, but he did forward Farquha
 
 Hastings faced further pressure to act from the merchants in Calcutta and then from Raffles, who had arrived in the Indian city. Hastings decided to build upon the strong footing obtained by Farquhar’s commercial treaty and sent Raffles on a two-fold mission: first, to settle a dynastic dispute in Aceh, and then, to establish a new post at Rhio (Riau). Because of Farquhar’s experience and expertise, Hastings appointed him to take charge of any new post, but made him subordinate to Raffles, who was based in Bencoolen, Sumatra, at the time.[^10]
 
-<img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold3.JPG">
+<img style="width: 300px; height: 300px;" src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold3.JPG">
 <div style="background-color: white;">A painting of Francis Edward Rawdon-Hastings, first Marquess of Hastings, Governor-General of India (1813–23), by Joshua Reynolds. <i>Image source: Wikimedia Commons.</i></div>
 
 Raffles and Farquhar met in Penang and on 19 January 1819, Raffles’ small fleet sailed for the Carimon Islands.[^11] As the islands proved unsuitable, Farquhar suggested Singapore as an alternative base.[^12] After Raffles and Farquhar stepped ashore on 28 January, Raffles, who had only recently contemplated Singapore as an option, realised that the island was an ideal spot to stake British claim.
