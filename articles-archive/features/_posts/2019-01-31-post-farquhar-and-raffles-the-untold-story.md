@@ -71,7 +71,7 @@ The Dutch were furious at Raffles’ actions. So was the British government whic
 
 In the meantime, Sultan Hussein and the Temenggong regretted having signed the treaty. They wrote to Sultan Abdul Rahman and to his viceroy asking for forgiveness and accused Raffles of having coerced them into signing it. Farquhar persuaded the nobles to retract their statements, and due to his early actions, the post remained in British hands – at least for the time being. However, Baron Godert van der Capellen, the Governor-General of the Dutch East Indies, continued to insist that Sultan Hussein had no right to allow the British to establish a post, and demanded that the British withdraw from Singapore.
 
-<img style="width: 700px; height: 150px;" src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold4.JPG">
+<img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold4.JPG">
 <div style="background-color: white;">“View of the Town and Roads of Singapore from Government Hill”, 1822–1824, as drawn by Captain Robert James Elliot. This panorama looks seawards from Government Hill and shows the Plain used to garrison troops on the left, with the Singapore River Basin in the centre, and Chinatown to the right. The painting was drawn during William Farquhar’s term as Resident and Commandant between 1819 and 1823. <i>All rights reserved, Crawfurd, J. (1828). Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China. London: Henry Colburn. Collection of the National Library, Singapore. (Accession no.: B20116740J)</i></div>
 
 #### **Farquhar’s Work in Singapore**
