@@ -191,4 +191,12 @@ For various reasons, Farquhar lost his rightful place in the history of Singapor
 
 |This essay is based on the author’s PhD thesis, “Image is All: Farquhar, Raffles and the Founding and Early Development of Singapore”, as well as her book, *William Farquhar and Singapore: Stepping Out from Raffles’ Shadow*. The book is on sale and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 959.5703 WRI-[HIS] and SING 959.5703 WRI]
 
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold8.JPG" style="width: 100px; height: 100px;">
+<b>Dr Nadia Wright</b>, a retired teacher and now active historian, lives in Melbourne. She specialises in the colonial history of Singapore and Armenians in Southeast Asia. Her book, '<i>William Farquhar and Singapore: Stepping Out from Raffles</i>’ Shadow, was published in May 2017.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
+
 #### **Notes**
