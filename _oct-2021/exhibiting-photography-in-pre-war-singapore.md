@@ -50,6 +50,11 @@ More crucially, the public display of photographs in the exhibition marked a sig
 
 On 24 March 1935, the Chinese Consul-General to Singapore, Philip K.C. Tyau, presided over the opening of the Overseas Chinese Photographic Exhibition. Newspaper reports hailed the exhibition as the “very first of its kind in Singapore” and the “first one promoted by the Chinese in Malaya”, presumably because it showcased the works of Chinese photographers residing in Malaya even though entries by photographers from Hong Kong were also included.[^17]
 
+
+<div style="background-color: white;"><i>The Straits Times</i> featured a selection of photographs from the Overseas Chinese Photographic Exhibition, held at the premises of the Nanyang Chinese Students Society from 24 to 31 March 1935. <i>The Straits Times, 28 March 1935, 20. (From NewspaperSG).</i></div>
+
+
+
 By this time, the SCC and MCC had become inactive. And unlike the public display of photographs at the Malaya Borneo Exhibition in the previous decade, where works by the Japanese were featured, it had become less acceptable during the 1930s for Chinese photographers – who considered themselves cultural elites – to be seen on the same public platform as their Japanese counterparts. This was because Japan’s blatant aggression in China from the late 1920s had given rise to anti-Japanese sentiments among the Chinese communities in Singapore and a surge in nationalist feelings for the Chinese motherland.[^18]
 
 The exhibition was held at the premises of the Nanyang Chinese Students Society on Prince Edward Road. Founded in Singapore in 1919, the society was a self-help organisation targeted at overseas Chinese youths, with the aim of helping them eradicate bad habits, strengthen their physiques and propagate the national language.[^1]9 The exhibition organisers also invited Tyau to serve as its patron. These initiatives revealed the unmistakeable imprint of Chinese nationalism on cultural and artistic matters in Singapore.
@@ -82,9 +87,14 @@ Knowing that there would be interest among readers in Malaya, the Chinese dailie
 
 With Tan Kah Kee’s support, the SCRFC decided to mount a photo exhibition to help raise funds for China and at the same time provide visitors with  a comprehensive experience of the highway.[^35] An exhibition committee was quickly assembled, with Lee Kong Chian, Tan’s son-in-law, as president.
 
+<div style="background-color: white;">These two photos accompany the Chinese article in <i>Nanyang Siang Pau</i>. Top photo: Journalists Chang Ch’u-k’un (second from left) and Chen Geding (extreme right) spent two months reporting on the Yunnan-Burma Highway and took more than 1,000 photographs. Second from the right is Lau Boh-tan (刘牡丹), a representative from the Southseas China Relief Fund Union and Tan Kah Kee’s trusted assistant. Photo on the right: Lau Boh-tan with his family and friends. <i>南洋商报 [Nanyang Siang Pau], 10 August 1939, 7. (From NewspaperSG).</i></div>
+
 A three-tier ticketing structure was established: the honorary ticket costing five Straits dollars and came with a complimentary print, while the special ticket was a dollar each and the normal ticket cost 20 cents. The Singapore Chinese Chamber of Commerce (SCCC) served as the exhibition venue where tickets were sold for the duration of the exhibition.[^36] Prints were available for purchase, and all proceeds from the tickets and prints were channelled into the relief fund.
 
 Tapping into SCRFC’s vast network, activists combed the island, cajoling all segments of Chinese society to purchase tickets. By the time the exhibition opened at the SCCC on 24 November 1939, over 6,000 Straits dollars had been raised from ticket sales.[^37]
+
+<div style="background-color: white;">The Chinese Consul-General for Singapore Kao Ling-pai opening the Yunnan-Burma Highway Photo Exhibition at the premises of the Singapore Chinese Chamber of Commerce on 24 November 1939. Top right photo: Lee Kong Chian, president of the exhibition committee. Bottom photo: Visitors at the exhibition. <i>南洋商报 [Nanyang Siang Pau], 25 November 1939, 7. (From NewspaperSG).</i></div>
+
 It is unclear if the Oversea Chinese Photographic Society was involved in the exhibition, but members of the Society of Chinese Artists (SOCA) certainly were. The SOCA was formally established in January 1936, with permission granted by the colonial authorities. In 1938, it helped to establish the Nanyang Academy of Fine Arts (NAFA) with member Lim Hak Tai appointed as the founding principal.[^38] Lim also headed the exhibition’s installation committee, while SOCA president Tchang Ju-ch’i (张汝器) and fellow member Zhuang Youzhao (庄有钊) became his deputies.[^39] The three men were responsible for the exhibition’s clean and modern design. They utilised specially made free-standing panels to display the prints. Red, silk-fabric ropes were used to direct the viewers through the exhibition venue.[^40]
 
 The exhibition featured some 300 photographs, systematically organised into categories such as the lives and training of the drivers and mechanics, their transportation work, conditions of the highway, sights in Burma, peoples and customs of the borderlands, Chinese historical sites, tourist attractions and educational facilities relocated to Kunming due to the war, 
