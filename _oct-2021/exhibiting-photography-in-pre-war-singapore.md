@@ -183,22 +183,26 @@ In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40
 
 [^35]: “[滇缅公路写真展览](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391012-1.2.52.1)” [“Yunnan-Burma Highway Photo Exhibition”], *南洋商报*  [*Nanyang Siang Pau*], 12 October 1939, 7. (From NewspaperSG)
 
-[^36]:
+[^36]: “[滇缅公路影展助赈 委员会昨成立](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391111-1.2.59.1)” [“Yunnan-Burma Highway Photo Exhibition to Aid Relief Fund; Committee Formed Yesterday], *Nanyang Siang Pau*, 11 November 1939, 7. (From NewspaperSG)
 
-[^37]:
+[^37]: “[滇缅公路摄影展览会 举行隆重开幕](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391125-1.2.46.1)” [“Grand Opening of the Yunnan-Burma Highway Photo Exhibition”], *南洋商报*  [*Nanyang Siang Pau*], 25 November 1939, 7. (From NewspaperSG)
 
-[^38]:
+[^38]: Yeo Mang Thong, [*Migration, Transmission, Localisation: Visual Art in Singapore (1866–1945)*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203803809) (Singapore: National Gallery Singapore, 2019), 80, 102–103. (From National Library, Singapore, Call no. RSING 709.5957 YAO)
 
-[^39]:
+[^39]: Tchang Ju-ch’i and Zhuang Youzhao (also known as U-Chow, Chong Yew Chao or Chuang Yew Chao) had set up The United Painters (朋特画社) in 1934, offering services such as advertisement graphic design and painting, oil painting, sculpture and badge design.
 
-[^40]:
 
-[^41]:
+[^40]: “[滇缅公路摄影展览会 举行隆重开幕](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391125-1.2.46.1)” [“Grand Opening of the Yunnan-Burma Highway Photo Exhibition”].
 
-[^42]:
+[^41]: “[星华筹赈会主办滇缅公路摄影展览 今日举行开幕及预展](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391124-1.2.52)” [“Singapore China Relief Fund Committee Organises Yunnan-Burma Highway Photo Exhibition; Opening and Preview Would Be Held Today”], 
+*南洋商报*  [*Nanyang Siang Pau*], 24 November 1939, 7.
+(From NewspaperSG) 
 
-[^43]:
+[^42]: “[第7页 广告 专栏 2](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391115-1.2.67.2)” [“Page 7 Advertisements Column 2”], *南洋商报*  [*Nanyang Siang Pau*], 15 November 1939, 7. (From NewspaperSG)
 
-[^44]:
 
-[^45]:
+[^43]: “[Yunnan-Burma Road Pictures Exhibition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19391201-1.2.28),” *Malaya Tribune*, 1 December 1939, 2. (From NewspaperSG)
+
+[^44]: “[滇缅公路摄影展览会 明日移快乐世界举行](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391130-1.2.52.1)” [“Yunnan-Burma Highway Photo Exhibition Would Be Moved Tomorrow and Shown at Happy World Amusement Park”], *南洋商报*  [*Nanyang Siang Pau*], 30 November 1939, 7. (From NewspaperSG)
+
+[^45]: “[滇缅公路摄影筹赈展览 再度展期一周](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391204-1.2.63.1)” [“Yunnan-Burma Highway Photo Exhibition for the Relief Fund Extended Again for Another Week”], *南洋商报* [*Nanyang Siang Pau*], 4 December 1939, 7. (From NewspaperSG)
