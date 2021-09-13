@@ -151,7 +151,7 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News9.JPG" style="width: 100px; height: 100px;">
+<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Lee%20Meiyu.jpg" style="width: 100px; height: 100px;">
 <b>Lee Meiyu</b> is a Librarian with the National Library, Singapore, and works with the Singapore & Southeast Asian Collection. Her research interests include Singapore’s Chinese community. She is co-author of <i>Money by Mail to China: Dreams and Struggles of Early Migrants</i> (2012) and <i>Roots: Tracing Family Histories – a Resource Guide</i> (2013).
 </div>
 
