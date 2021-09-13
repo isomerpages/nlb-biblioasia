@@ -31,7 +31,7 @@ If Tan’s plan goes through, it will not be the first time he has offered a rad
 
 “Luckily, I didn’t look at it!” exclaims Tan when shown these plans during this interview – which he says he was seeing for the first time. “Otherwise, I may have followed it thinking this may be the winning design. You know how sometimes people get influenced for commercial reasons…the developer may say, ‘Eh, copy this, it’s a good thing. That’s what they want.’.”
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/03-savingpearlbank.jpg">Artist’s impression of a show flat when Pearl Bank was first marketed in the early 1970s. <i>Courtesy of pearlbankapartments.com.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/03-savingpearlbank.jpg">Artist’s impression of a show flat when Pearl Bank was first marketed in the early 1970s. <i>Courtesy of pearlbankapartments.com.</i></div>
 
 Fortunately for the architect and his firm Archynamics Architects (which later closed and led him to start Archurban Architects Planners in 1974), the developer Hock Seng Enterprises had no such intentions when they approached his two-year-old firm to bid with them. Instead Tan found inspiration in the 85,500-sq-ft site resembling an airplane tail, drawing up a single tower that soared 561 ft above sea level – rivalling the city’s highest peak, Bukit Timah Hill – to take advantage of the panoramic views of the south of Singapore and create what would become Southeast Asia’s tallest apartment block.[^2]
 
