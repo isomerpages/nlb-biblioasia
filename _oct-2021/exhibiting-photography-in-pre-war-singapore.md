@@ -157,31 +157,31 @@ In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40
 
 [^22]: “[Photographic Exhibition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19350207-1.2.115).”
 
-[^23]:
+[^23]: “[Chinese Photographic Exhibition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350323-1.2.82),” *Straits Times*, 23 March 1935, 12; “[华侨摄影展览会](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19350317-1.2.21)” [“Overseas Chinese Photographic Exhibition”], *南洋商报*  [*Nanyang Siang Pau*], 17 March 1935, 5. (From NewspaperSG)
 
-[^24]:
+[^24]: “[Singapore Camera Club](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19260706-1.2.50),” *Singapore Free Press*, 6 July 1926, 9. (From NewspaperSG)
 
-[^25]:
+[^25]: “List of Members of the Royal Photographic Society of Great Britain,” *Photographic Journal* 56 (1916): 36; Robert Chalmers, “Report of the Council for the Year 1935,” *Photographic Journal* 76 (1936): 284, The Royal Photographic Society, https://archive.rps.org/archive.
 
-[^26]:
+[^26]: “[Certificates of Honour for Penang Malay and Chinese](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400705-1.2.100),” *Straits Times*, 5 July 1940, 12. (From NewspaperSG)
 
-[^27]:
+[^27]: “[Photographic Exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350227-1.2.65).” [Note: The catalogue exhibition includes the full listing of exhibits and the photographers, essays by writers experienced in the art of photography and halftone reproductions of some of the best works submitted. Thus far, no extant copy of this catalogue has surfaced.]
 
-[^28]:
+[^28]: “第一届华侨摄影展览会” [“First Edition of the Overseas Chinese Photographic Exhibition”], *Union Times*, 25 March 1935, 2, National University of Singapore Library, http://lib.nus.edu.sg/sea_chinese/documents/union%20times/1935/1935_03_25.pdf.
 
-[^29]:
+[^29]: “[Photo Exhibition: Artistic Work by Overseas Chinese](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350325-1.2.12)”; Anak Singapura, “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350326-1.2.37),” *Straits Times*, 26 March 1935, 10. (From NewspaperSG)
 
-[^30]:
+[^30]: “第一届华侨摄影展览会” [“First Edition of the Overseas Chinese Photographic Exhibition”].
 
-[^31]:
+[^31]: “[Photography: Singapore Chinese Form Society](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360314-1.2.41),” *Singapore Free Press*, 14 March 1936, 6; “[For Photographers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19360313-1.2.59),” *Malaya Tribune*, 13 March 1936, 12. (From NewspaperSG)
 
-[^32]:
+[^32]: “[华侨摄影展览](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19350227-1.2.47.3)” [“Overseas Chinese Photographic Exhibition”], *南洋商报* [*Nanyang Siang Pau*], 27 February 1935, 5. (From NewspaperSG)
 
-[^33]:
+[^33]: Yong Ching-Fatt, [*Tan Kah-Kee: The Making of an Overseas Chinese Legend*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200146592) (Singapore: World Scientific Publishing, 2014), 204–21. (From National Library, Singapore, Call no. RSING 338.04092 YON)
 
-[^34]:
+[^34]: 林孝胜 [Lin Xiaosheng], “[四海同心 义薄云天—抗日救亡运动](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202251084),” 567–70.
 
-[^35]:
+[^35]: “[滇缅公路写真展览](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391012-1.2.52.1)” [“Yunnan-Burma Highway Photo Exhibition”], *南洋商报*  [*Nanyang Siang Pau*], 12 October 1939, 7. (From NewspaperSG)
 
 [^36]:
 
