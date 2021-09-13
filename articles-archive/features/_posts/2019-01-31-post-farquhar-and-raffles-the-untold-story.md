@@ -56,3 +56,23 @@ Indeed, landmarks in Singapore such as Farquhar Street, Mount Farquhar and Farqu
 #### Farquhar’s Accomplishments in Malacca
 
 From as early as the 17th century, European trading companies competed for trade in the region. By the early 1800s, the British had secured trading posts at Penang and Bencoolen (Bengkulu) while the Dutch ruled Malacca, the Maluku islands and Java.
+
+The British, however, came to occupy Malacca serendipitously as a result of the Anglo-Dutch treaty of 1788, which stipulated that if a war should break out, either party could occupy the colonies of the other to protect them against enemy invasion. This occurred in 1793 when France, already at war with Britain, attacked the Dutch Republic. William V, the Dutch ruler was overthrown and fled to England in 1795. There, he ordered Dutch officials to hand their bases over to the British for safekeeping and to stop them from falling into French hands. The understanding was that the British would return these Dutch territories when peace was eventually restored.
+
+Into this fractious scene entered Farquhar and Raffles. Farquhar and Raffles were employees of the powerful East India Company (EIC), formed at the turn of the 17th century ostensibly to trade with India and Southeast Asia, but which eventually became a powerful agent of British imperialism.
+
+Farquhar first arrived in Malacca as an officer of the EIC in 1795 when the British occupied the Dutch port. He was appointed its Commandant in 1803, and in 1812, in recognition of his wide responsibilities, his title was changed to Commandant and Resident. It was in Malacca that Farquhar honed his skills as an administrator, the experience laying a strong foundation for his subsequent management of Singapore.
+
+During Farquhar’s 15-year stint in Malacca, he was answerable to two lieutenant-governors and nine governors in Penang, all of whom were more than satisfied with his administration. Farquhar dramatically turned Malacca’s economy around, implemented British laws declaring the slave trade a felony, and fought for the town’s survival. It is implausible that Farquhar would have changed from being a competent ruler in Malacca to an incompetent one in Singapore.
+
+Following the Congress of Vienna in 1815, the British were obliged to return Malacca to the Dutch. Merchants in Penang, whose trade had flourished during the British occupation of Malacca and Java, were worried that their inroads into new markets might be curtailed after the Dutch reclaimed their possessions. Along with Farquhar, the merchants pressed Colonel John Bannerman, the Governor of Penang, to protect British commercial interests in the Eastern Archipelago (present-day Indonesia).8
+
+The Search for a New Site
+
+Bannerman thus sent Farquhar to negotiate with rulers in the region, and in August 1818, he managed to secure a trade treaty with Sultan Abdul Rahman of the Johor Empire. Although the treaty gave Britain most favoured nation status, Farquhar knew that something more substantial was needed to protect British interests once the Dutch returned.
+
+In 1816, Farquhar had advocated founding a new base south of the Straits of Malacca and now he urgently pushed to secure the Carimon Islands (Pulau Karimun), situated some 20 miles southwest of Singapore and commanding the entrance to the strait.9
+
+Bannerman was unconvinced, citing the costs involved, but he did forward Farquhar’s suggestions to the Marquess of Hastings, the EIC’s new Governor-General who administered British interests in the Far East.
+
+Hastings faced further pressure to act from the merchants in Calcutta and then from Raffles, who had arrived in the Indian city. Hastings decided to build upon the strong footing obtained by Farquhar’s commercial treaty and sent Raffles on a two-fold mission: first, to settle a dynastic dispute in Aceh, and then, to establish a new post at Rhio (Riau). Because of Farquhar’s experience and expertise, Hastings appointed him to take charge of any new post, but made him subordinate to Raffles, who was based in Bencoolen, Sumatra, at the time.10
