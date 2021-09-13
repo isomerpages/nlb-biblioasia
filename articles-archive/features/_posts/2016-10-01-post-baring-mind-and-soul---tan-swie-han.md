@@ -96,9 +96,9 @@ Tan held his first ever solo art exhibition in 1973 when “Paintings of Infused
 
 Over the years, Tan has generously donated more than 6,600 items from his personal collection to the National Library, including artworks and artefacts as well as manuscripts, notebooks and monographs. These are displayed at the Lee Kong Chian Reference Library at the National Library Building. His most recent donation includes the collection of notebooks displayed in the exhibition.
 
-|**ABOUT THE EXHIBITION**|
+|**ABOUT THE EXHIBITION**<br>|
 
-<div style="background-color: white;" align="center"><img style="width:270px" src="/images/Vol-12-issue-3/baring-mind-and-soul/09-baring-mind-soul.jpg">Portrait of Tan Swie Hian. <i>Collection of Tan Swie Hian.</i></div>
+<div style="background-color: white;" align="center"><img style="width:270px" src="/images/Vol-12-issue-3/baring-mind-and-soul/09-baring-mind-soul.jpg">Portrait of Tan Swie Hian. <i>Collection of Tan Swie Hian.</i></div><br>
 
 |“Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” opens on 22 November 2016 at the gallery on Level 10 of the National Library Building on Victoria Street.|
 
