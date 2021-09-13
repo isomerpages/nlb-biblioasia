@@ -98,7 +98,7 @@ Sometimes, visitors were invited to stay at the Istana. The guest facilities, wh
 
 Yusof and his wife also opened up the Istana to ordinary Singaporeans. Puan Noor Aishah was the Patron of Girl Guides Singapore, and she would invite the Guides to hold their annual campfire on the Istana grounds once a year.[^28] Puan Noor Aishah’s life changed dramatically after she became First Lady:
 
-“Life used to be simple. But once we moved into the Istana, we became very busy; there were many changes in our lives and there was a lot of protocol to observe. I remember there would be courtesy calls in the morning, tea parties in the afternoon, and I had to meet many charity organisations which were coming to me for help. All the meetings and social gatherings were necessary as we were new and we  had to get  to know people  to win their  confidence.[^29]
+“Life used to be simple. But once we moved into the Istana, we became very busy; there were many changes in our lives and there was a lot of protocol to observe. I remember there would be courtesy calls in the morning, tea parties in the afternoon, and I had to meet many charity organisations which were coming to me for help. All the meetings and social gatherings were necessary as we were new and we  had to get  to know people  to win their  confidence."[^29]
 
 It was Yusof who started the Istana’s open house tradition. The very first open house event took place on 1 January 1960, between 8 am and 6 pm, on New Year’s Day. Numerous slides, swings and seesaws were trotted out for children, while the police band entertained the public.[^30]
 
@@ -119,7 +119,7 @@ The Istana gardens were also overhauled and professionally landscaped, a Hercule
 
 The front lawn of the main garden was originally designed as a traditional European garden.[^43] To frame the Istana’s main building upon approach, the team transplanted 18 majestic meninjau trees, each soaring over 10 metres in height, from other parts of Singapore to the periphery of the circular front lawn.
 
-<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana10.JPG">
+<img style="width: 400px; height: 300px;" src="/images/Vol-15-issue-4/the-istana-turns-150/Istana10.JPG">
 <div style="background-color: white;">Sunrise from the Presidential Balcony of the Istana, 2006. Photo by Russel Wong. <i>Istana Art Collection, courtesy of National Heritage Board.</i></div>
 
 #### **The Istana Today**
