@@ -49,7 +49,7 @@ Printing was introduced to Cambodia during the period of the French Protectorate
 
 Privately published works such as French linguist Etienne Aymonier’s collection of popular Khmer folklores were also produced in Vietnam. Lithographed in Saigon in 1878, this bilingual work – in Khmer and French – is regarded as the first collection of Cambodian oral tales ever recorded on paper in the vernacular. Additionally, Aymonier compiled the first Khmer-French dictionary, *Dictionnaire Khmer-Francais* (1878), in Saigon with assistance from local interpreter Son Diep.[^12]
 
-<img style="width: 400px; height: 250px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Imagex.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-4/early-printing-in-indochina/Imagex.JPG">
 <div style="background-color: white;">(Left) Portrait of French linguist Etienne Aymonier, 1883. He compiled the first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> (1878), with assistance from local interpreter Son Diep. <i>Bibliothèque nationale de France.</i> (Right) The first Khmer-French dictionary, <i>Dictionnaire Khmer-Francais</i> ( 1878), was published in Saigon using lithography. Cornell University Library. <i>Retrieved from HathiTrust website.</i></div>
 
 It was not until around 1886 that the first official printing press in Cambodia, the Imprimerie du Protectorat, was established by the French in Phnom Penh. One of its earliest publications was the first printed periodical in Cambodia titled *Annuaire Illustre du Cambodge* (1890).
