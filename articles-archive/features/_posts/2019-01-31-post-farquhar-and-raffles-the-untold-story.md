@@ -15,7 +15,7 @@ In contrast, Farquhar’s pivotal role in the events leading up to the founding 
 
 To understand the origins of this aberration in Singapore’s history, we must turn to the biographies of Raffles. The first, *The Life of Sir Stamford Raffles*, written by Demetrius Boulger in 1897, during the heyday of the British Empire, would establish the trend of glorifying Raffles and disparaging Farquhar.2
 
-#### The First Biography on Raffles
+#### **The First Biography on Raffles**
 
 Boulger portrayed Raffles as a hero who had risen from poverty, who was forced to leave school prematurely to support his mother and sisters, and who rose to fame solely by his own efforts. None of this is true.
 
@@ -41,7 +41,7 @@ During Farquhar’s 15-year stint in Malacca, he was answerable to two lieutenan
 
 Following the Congress of Vienna in 1815, the British were obliged to return Malacca to the Dutch. Merchants in Penang, whose trade had flourished during the British occupation of Malacca and Java, were worried that their inroads into new markets might be curtailed after the Dutch reclaimed their possessions. Along with Farquhar, the merchants pressed Colonel John Bannerman, the Governor of Penang, to protect British commercial interests in the Eastern Archipelago (present-day Indonesia).8
 
-#### The Search for a New Site
+#### **The Search for a New Site**
 
 Bannerman thus sent Farquhar to negotiate with rulers in the region, and in August 1818, he managed to secure a trade treaty with Sultan Abdul Rahman of the Johor Empire. Although the treaty gave Britain most favoured nation status, Farquhar knew that something more substantial was needed to protect British interests once the Dutch returned.
 
@@ -53,7 +53,7 @@ Hastings faced further pressure to act from the merchants in Calcutta and then f
 
 Indeed, landmarks in Singapore such as Farquhar Street, Mount Farquhar and Farquhar’s Strait have all disappeared.6 Singapore’s first and only Commandant and Resident suffered the converse of memorialisation: the “phenomenon of forgetting”,7 a phrase coined by the 20th-century French philosopher Paul Ricoeur.
 
-#### Farquhar’s Accomplishments in Malacca
+#### **Farquhar’s Accomplishments in Malacca**
 
 From as early as the 17th century, European trading companies competed for trade in the region. By the early 1800s, the British had secured trading posts at Penang and Bencoolen (Bengkulu) while the Dutch ruled Malacca, the Maluku islands and Java.
 
@@ -95,7 +95,7 @@ In the meantime, Sultan Hussein and the Temenggong regretted having signed the t
 <img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold4.JPG">
 <div style="background-color: white;">“View of the Town and Roads of Singapore from Government Hill”, 1822–1824, as drawn by Captain Robert James Elliot. This panorama looks seawards from Government Hill and shows the Plain used to garrison troops on the left, with the Singapore River Basin in the centre, and Chinatown to the right. The painting was drawn during William Farquhar’s term as Resident and Commandant between 1819 and 1823. <i>All rights reserved, Crawfurd, J. (1828). Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China. London: Henry Colburn. Collection of the National Library, Singapore. (Accession no.: B20116740J)</i></div>
 
-#### Farquhar’s Work in Singapore
+#### **Farquhar’s Work in Singapore**
 
 While the politicians argued, Farquhar got down to work. Few of Raffles’ supporters have given Farquhar credit for building the settlement from scratch with precious little money, and limited manpower and resources. Yet Farquhar achieved the near impossible: he cleared over 650,000 square yards of jungle and swamp, built a reservoir and aquaduct, defence works, accommodation and facilities for the troops, and roads and small bridges. The population grew significantly as men from Malacca who knew and respected Farquhar flocked to Singapore to find work or to trade, bringing with them the money and muscle that were vital to the growth of the settlement.
 
