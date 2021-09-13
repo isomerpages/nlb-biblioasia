@@ -6,7 +6,7 @@ layout: post
 ---
 #### An unexpected recollection by her grandmother about her experience of the Japanese Occupation sets **Yu-Mei Balasingamchow** thinking about unspoken memories and the stories that haven’t been told.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/my-grandmother-story/01-mygrandmotherstory.jpg">Yu-Mei and her grandmother at the former’s one-year-old birthday celebration.
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-2/my-grandmother-story/01-mygrandmotherstory.jpg">Yu-Mei and her grandmother at the former’s one-year-old birthday celebration.
 <i>Courtesy of Yu-Mei Balasingamchow.</i></div>
 
 My paternal grandmother and I have never really talked. This isn’t due to any personal acrimony; it’s just the usual generation gap, made all the more difficult as neither of us properly speak the language that the other person is most comfortable with. I live in the world of the English language; my grandmother’s native tongue is Teochew, though like many Singaporeans of her generation (she’s in her late 90s), she also speaks a muddle of other local languages: fluent enough Cantonese and Malay to carry on extended conversations, a decent command of Mandarin (thanks to several decades of watching TV shows on Channel 8, I suspect) and a smattering of English.
