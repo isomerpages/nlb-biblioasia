@@ -190,25 +190,13 @@ For various reasons, Farquhar lost his rightful place in the history of Singapor
 [^8]:The Eastern Archipelago refers to the islands that form much of today’s Indonesia – Sumatra, Java, Bali, Lombok, Bangka, Belitun, Maluku Islands and Borneo.
 [^9]:Memorandums, vol. 10, SSFR; Farquhar to Bannerman, 6 September 1818, vol. 67, SSFR. 
 [^10]:Hastings to Bannerman, 28 November 1818, vol. 182A, SSFR; Adam to Farquhar, 28 November 1818, L. 10, East India Company, Straits Settlements Records, Government of the Colony of Singapore, Raffles National Library Archives, 1961. Microfilm, Monash University. Hereafter these records are cited as SSR.
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^20]:
-Raffles had disobeyed the sequence of Hastings’ instructions which caused an irrevocable rift with Bannerman. 
-Elout to Capellen, 25 August 1818, in Wurtzburg, C. (1954). Raffles of the eastern isles (p. 451). London, Hodder and Stoughton. (Call no.: RCLOS 959.570210924 WUR); Crawfurd, J. (1828). Journal of an embassy to the courts of Siam and Cochin China (p. 565). London: Henry Colburn. (Call no.: RRARE 915.9044 CRA). It is noteworthy that Raffles never claimed that he had specifically suggested Singapore. His first choices were Rhio and Banca as he wanted to control the Sunda Straits. 
-Raffles to the Duchess of Somerset, 11 June 1819. See Raffles, S. (1991). Memoir of the life and public services of Sir Thomas Stamford Raffles (p. 383). Singapore: Oxford University Press. (Call no.: RSING 959.57021092 RAF-[HIS]) 
-Singapore. (1820, January–June). The Asiatic Journal and Monthly Register for British India and its Dependencies, 9, p. 402. Retrieved from Internet Archive website.
-Singapore. (1820, July–December). The Asiatic Journal and Monthly Register for British India and its Dependencies, 10, pp. 292–293. Retrieved from Internet Archive website. 
-Jack to Wallich, 8 June 1819, in Burkill, I.H. (1916, July). William Jack’s letters to Nathaniel Wallich, 1819–1821. Journal of the Straits Branch of the Royal Asiatic Society, 73 , p. 178. (Call no.: RRARE 582.09595 JAC-[JSB]) 
-Historical sketch of the settlement of Singapore. (1823, July–December). The Asiatic Journal and Monthly Register for British India and its Dependencies, 16, pp. 28–29. Retrieved from Internet Archive website. 
-Farquhar to Raffles, 18 June 1819, NAB 1668; Farquhar to Raffles, 17 April 1821, L. 4, SSR Buckley, C.B. (1965). An anecdotal history of old times in Singapore (pp. 68–69). Kuala Lumpur: University of Malaya Press. (Call no.: RCLOS 959.57 BUC)
-Farquhar to Raffles, 17 April 1821, L. 4, SSR.
-Badriyah Haji Salleh. (1999). Warkah al-Ikhlas 1818–182  (pp. 28–29, 155–156). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay RSING 091 WAR) 
-
- 
+[^11]:Raffles had disobeyed the sequence of Hastings’ instructions which caused an irrevocable rift with Bannerman. 
+[^12]:Elout to Capellen, 25 August 1818, in Wurtzburg, C. (1954). [*Raffles of the eastern isles*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4150106&) (p. 451). London, Hodder and Stoughton. (Call no.: RCLOS 959.570210924 WUR); Crawfurd, J. (1828). *Journal of an embassy to the courts of Siam and Cochin China* (p. 565). London: Henry Colburn. (Call no.: RRARE 915.9044 CRA). It is noteworthy that Raffles never claimed that he had specifically suggested Singapore. His first choices were Rhio and Banca as he wanted to control the Sunda Straits. 
+[^13]:Raffles to the Duchess of Somerset, 11 June 1819. See Raffles, S. (1991). [*Memoir of the life and public services of Sir Thomas Stamford Raffles*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277) (p. 383). Singapore: Oxford University Press. (Call no.: RSING 959.57021092 RAF-[HIS]) 
+[^14]:Singapore. (1820, January–June). *The Asiatic Journal and Monthly Register for British India and its Dependencies*, 9, p. 402. Retrieved from Internet Archive website.
+[^15]:Singapore. (1820, July–December). *The Asiatic Journal and Monthly Register for British India and its Dependencies*, 10, pp. 292–293. Retrieved from Internet Archive website. 
+[^16]:Jack to Wallich, 8 June 1819, in Burkill, I.H. (1916, July). *William Jack’s letters to Nathaniel Wallich, 1819–1821. Journal of the Straits Branch of the Royal Asiatic Society, 73* , p. 178. (Call no.: RRARE 582.09595 JAC-[JSB]) 
+[^17]:Historical sketch of the settlement of Singapore. (1823, July–December). *The Asiatic Journal and Monthly Register for British India and its Dependencies*, 16, pp. 28–29. Retrieved from Internet Archive website. 
+[^18]:Farquhar to Raffles, 18 June 1819, NAB 1668; Farquhar to Raffles, 17 April 1821, L. 4, SSR Buckley, C.B. (1965). [*An anecdotal history of old times in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4223465&) (pp. 68–69). Kuala Lumpur: University of Malaya Press. (Call no.: RCLOS 959.57 BUC)
+[^19]:Farquhar to Raffles, 17 April 1821, L. 4, SSR.
+[^20]:Badriyah Haji Salleh. (1999). [*Warkah al-Ikhlas 1818–182*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84691565)  (pp. 28–29, 155–156). Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay RSING 091 WAR)
