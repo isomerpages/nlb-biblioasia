@@ -6,7 +6,7 @@ layout: post
 ---
 #### The very first census here was conducted in 1824. **Ang Seow Leng** reveals how doing a headcount has evolved over the last 200 years.
 
-<img style="width: 500px; height: 300px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount1.JPG">
+<img style="width: 520px; height: 350px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount1.JPG">
 <div style="background-color: white;">Staff sorting records of the census conducted in 1931. <i>Image reproduced from Vileland, C.A. (1932). British Malaya (the Colony of the Straits Settlements and the Malay States under British protection, namely the Federated states of Perak, Selangor, Negri Sembilan and Pahang and the States of Johore, Kedah, Kelantan, Trengganu, Perlis and Brunei): A Report on the 1931 Census and on Certain Problems of Vital Statistics (between pp. 28 and 29). London: Crown Agents for the Colonies. (Microfilm no.: NL3005).</i></div>
 
 Singapore’s population has grown steadily over the decades to reach a total population of 5.7 million as at June 2019.[^1]
