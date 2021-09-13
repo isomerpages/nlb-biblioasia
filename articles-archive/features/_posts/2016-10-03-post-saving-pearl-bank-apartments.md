@@ -6,7 +6,7 @@ layout: post
 ---
 #### Architectural conservation or real estate investment? **Justin Zhuang** ponders over the fate of a 1970s style icon that has seen better times.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/01-savingpearlbank.jpg">(Left) Tan Cheng Siong, the original architect of Pearl Bank, has come up with a conservation plan that entails demolishing part of the existing five-storey carpark and building a new block of 150 apartments. <i>Courtesy of Archurban Architects Planners.</i></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/01-savingpearlbank.jpg">(Left) Tan Cheng Siong, the original architect of Pearl Bank, has come up with a conservation plan that entails demolishing part of the existing five-storey carpark and building a new block of 150 apartments. <i>Courtesy of Archurban Architects Planners.</i></div>
 <div style="background-color: white;">(Right) Pearl Bank was advertised as the “tallest apartment block in Southeast Asia” in the April 1976 issue of <i>Building Materials & Equipment Southeast Asia</i> magazine. On sale were penthouses as well as 2-, 3- and 4-bedroom apartments.</div>
 
 A 27-storey “green tower” of residences may one day rise up at the edge of Singapore’s historic Chinatown. It will boast the Outram Park MRT station at its doorstep and Pearl’s Hill City Park as its backyard. There will even be an infinity pool and a rooftop garden. But none of these will rival the most attractive aspect of this new development if it ever comes to pass: securing the future of the Pearl Bank apartments and giving it a fresh lease of life.
