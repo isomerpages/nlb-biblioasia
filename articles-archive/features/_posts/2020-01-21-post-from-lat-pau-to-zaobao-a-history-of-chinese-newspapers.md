@@ -6,7 +6,7 @@ layout: post
 ---
 #### Chinese newspapers have been published in Singapore since the 19th century. **Lee Meiyu** looks at how they have evolved and examines their impact on the Chinese community here.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/News1.JPG">
+<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image8.JPG">
 <div style="background-color: white;">Elderly Chinese men reading newspapers in coffeeshops are a common sight in Singapore. Photo taken in 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The Chinese newspaper industry in Singapore has a colourful and varied history enriched by a large, revolving cast of missionaries, reformists, revolutionaries, businessmen, writers and the government. Since the first Chinese newspaper was published in Singapore in 1837, over 160 newspapers have come and gone.[^1] Some of them played an important role in disseminating information to the people as well as shaping politics, society, culture and literature in Singapore.
@@ -69,7 +69,7 @@ Due to financial difficulties, *Chong Shing Yit Pao* folded in 1910 and did not 
 
 Two important newspapers appeared in the 1920s: *Nanyang Siang Pau* (南洋商报) founded by “Rubber and Pineapple King” Tan Kah Kee in 1923 and *Sin Chew Jit Poh* (星洲日报) by Aw Boon Haw of Tiger Balm in 1929. Both newspapers played an important role in the modernisation of the industry.[^27]
 
-<img style="width: 200px; height: 200px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image7.JPG">
+<img style="width: 400px; height: 200px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image7.JPG">
 <div style="background-color: white;">(Left) Portrait of “Rubber and Pineapple King” Tan Kah Kee, c. 1950. He founded the <i>Nanyang Siang Pau</i> newspaper in 1923. <i>Courtesy of National Archives of Singapore.</i> (Right) Portrait of “Tiger Balm King” Aw Boon Haw, who founded Sin Chew Jit Poh in 1929. <i>Image reproduced from Who’s Who in China (4th edition) (1931) (p. 497). Shanghai: The China Weekly Review.</i></div>
 
 *Nanyang Siang Pau* was set up as an advertising platform for Tan’s rubber products. It was a business newspaper that also aimed to promote education. Likewise, Aw used *Sin Chew Jit Poh* to publicise the Chinese medicinal products under his Tiger Balm brand.[^28] He also hoped to make readers better informed and to encourage them to invest in China’s economy.[^29]
