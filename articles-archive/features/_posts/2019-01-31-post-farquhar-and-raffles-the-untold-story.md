@@ -210,13 +210,27 @@ For various reasons, Farquhar lost his rightful place in the history of Singapor
 [^28]:made no response to the news of this harbour leading Farquhar to again inform him of its value; Farquhar to Raffles, 21 July 1820, L. 4 SSR. 
 [^29]:[His honour’s folly](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000419-1.2.22). (1900, April 19). *The Straits Times*, p. 2. Retrieved from NewspaperSG. 
 [^30]:Farquhar to Raffles, 17 April 1821, L. 4; Farquhar to Hull, 6 November 1822, L. 9, SSR; Farquhar to Raffles, 2 June 1823, L. 15, SSR; Court Minutes, 25 May 1825, IOR B/178: 92. 
-[^31]:
-[^32]:
-[^33]:
-[^34]:
-[^35]:
-[^36]:
-[^37]:
-[^38]:
-[^39]:
-[^40]:
+[^31]:Farquhar to Raffles, 11 January 1821, L. 4, SSR; Farquhar to Mackenzie, 9 March 1822, L. 7, SSR; Farquhar, W. (1827). Thermometrical and barometrical tables. *Transactions of the Royal Asiatic Society of Great Britain and Ireland*, 1(2), pp. 585–586. (Call no.: RRARE 551.609595 FAR-[JSB]) 
+[^32]:Farquhar to Hull, 6 December 1822, L. 6, SSR. 
+[^33]:Farquhar to Hull, 24 January 1823, L. 13, SSR; Peterson, (1952, July 19). [Post office was set up in nine days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19520719-1.2.62.2). *The Singapore Free Press*, p. 1. Retrieved from NewspaperSG.
+[^34]:Farquhar to Milton, 19 May 1820; Farquhar to Raffles, 23 June 1820, L. 10, SSR. 
+[^35]:Farquhar to Raffles, 23 February 1820, L. 10, SSR; Raffles to Farquhar, 2 May 1820, L. 4, SSR. 
+[^36]:Translation of an address from His Highness Arong Belawa, the Soolawatan (or Captain of the Bugis) and the Bugis inhabitants of Singapore, to Lieut. Col. Farquhar. Thursday 25th day of Dec. 1823. Prince of Wales Island Gazette, 24 January 1824. 
+[^37]:Raffles to the Duchess of Somerset, 30 November 1822. See [Raffles](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6164277&), 1991, p. 525. 
+[^38]:[Raffles](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6164277&), 1991, p. 525. 
+[^39]:Farquhar to Hull, 13 November 1822, L. 9, SSR. 
+[^40]:Raffles to Bengal, 9 August 1821, vol. 71, JFR, East India Company, London, Recordak Microfilm Services, 1956. Microfilm, Monash University; Swinton to Raffles, 29 March 1823, L. 18, SSR 
+[^41]:Farquhar to Hull, 4 December 1822, L. 6, SSR; Hull to Farquhar, 4 December 1822, L. 11, SSR; Farquhar to Hull, 5 November 1822, L. 9, SSR; Farquhar to Sherer, 28 December 1822, L. 11, SSR; Farquhar to Hull, 5 April 1823, L. 15, SSR.
+[^42]:Raffles to Bengal, 1 January 1823, vol. 71, JFR.
+[^43]:Hull to Farquhar, 4 February 1823, L. 17, SSR.
+[^44]:Raffles to Farquhar, 26 June 1819, L 10, SSR
+[^45]:Farquhar to de la Motte, 30 April 1822, L. 7, SSR; Farquhar to Raffles, 17 April 1821, L. 4, SSR; Farquhar to Raffles, 5 November 1822, L. 9, SSR. 
+[^46]:Jackson to Hull, 29 October 1822, L. 9, SSR; Hull to Farquhar, 7 February 1823, L. 17.
+[^47]:Raffles to Swinton, 11 January 1823, vol. 71, JFR. 
+[^48]:Raffles to Rev. Dr Raffles, 12 January 1823. See [Boulger](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9566022&), 1999, pp. 331–332. 
+[^49]:Hull to Farquhar, 28 April 1823, L. 17, SSR. 
+[^50]:Adam to Farquhar, 28 November 1818, L. 10, SSR. 
+[^51]:Hull to Farquhar, 22 May 1823, L. 19, SSR. 
+[^52]:The Memorial of William Farquhar, and Appendix to the Memorial, Home Miscellaneous Series no. 541 India Office Records, British Library. 
+[^53]:Raffles too suffered as the EIC refused to grant him his anticipated pension. 
+[^54]:Palmer to Farquhar, February 1824, Palmer to Coombs, 11 February 1824. See [Wurtzburg](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4150106), 1954, p. 688. 
