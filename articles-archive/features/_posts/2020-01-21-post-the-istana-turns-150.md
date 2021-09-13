@@ -183,7 +183,7 @@ While the Istana may have started out as symbol of imperial strength and power 1
  <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana13.jpg" style="width: 100px; height: 100px;">
-<b>Wong Sher Maine</b> is a freelance writer who has written two books about the Istana: Our Istana was published in 2015, while 50 Best Kept Secrets of the Istana: People and Places was published in 2019.
+<b>Wong Sher Maine</b> is a freelance writer who has written two books about the Istana: <i>Our Istana</i> was published in 2015, while <i>50 Best Kept Secrets of the Istana: People and Places</i> was published in 2019.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
@@ -199,7 +199,7 @@ While the Istana may have started out as symbol of imperial strength and power 1
 [^8]:Palladianism or Palladian architecture is a European style of architecture influenced by the 16th-century Venetian architect Andrea Palladio (1508–80). The style is characterised by classical forms, symmetry and strict proportions. Neo-Palladian is English Palladian architecture popular in the 18th century.
 [^9]:National Library Board. (2010). [*The Istana*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_807_2005-02-01.html) written by Vernon Cornelius. Retrieved from Singapore Infopedia.
 [^10]:Hoe, I. (2019). [*50 best kept secrets of the Istana: History and heritage*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889789) (p. 37). Singapore: Published by Epigram for the Istana, the office of the President of the Republic of Singapore. (Call no.: RSING 959.57 HOE-[HIS])
-[^11]:See Tan, B. (2018, Jul–Sep). Globetrotting mums: Then and now. *BiblioAsia*, 14 (2). Retrieved from BiblioAsia website.
+[^11]:See Tan, B. (2018, Jul–Sep). [Globetrotting mums: Then and now](https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/). *BiblioAsia*, 14 (2). Retrieved from BiblioAsia website.
 [^12]:[Seet & Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, pp. 43, 45.
 [^13]:Lee, P. (Interviewer). (2008, April 21). [*Oral history interview with Morrice, John (Colonel) (Retired)*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/1e2ef03c-1161-11e3-83d5-0050568939ad-OHC003306_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 003306/13/1, p. 4]. Retrieved from National Archives of Singapore website.
 [^14]:[Seet & Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, p. 68; Tan, W.K., et al. (2003). [*Gardens of the Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991) (p. 50). Singapore: National Parks Board. (Call no.: RSING q635.095957 GAR)
