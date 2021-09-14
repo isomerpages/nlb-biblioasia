@@ -202,9 +202,9 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^24]:Lim, B. T. (1966, April 28). [First Singapore electronics factory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.98.1.aspx). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^25]:The Straits Times, 28 Apr 1966, p. 15.
+[^25]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.98.1.aspx)* , 28 Apr 1966, p. 15.
 
-[^26]:Television assembly factory plans further extension. (1965, December 4). The Straits Times, p. 29. Retrieved from NewspaperSG; The Straits Times, 28 Apr 1966, p. 15.
+[^26]:[Television assembly factory plans further extension](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651204-1.2.144.55.aspx). (1965, December 4). *The Straits Times*, p. 29. Retrieved from NewspaperSG; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.98.1.aspx)*, 28 Apr 1966, p. 15.
 
 [^27]:Company farsighted. (1966, April 28). The Straits Times, p.15. Retrieved from NewspaperSG
 
