@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Sue-Ann Chia** traces the birth and death of five companies, reliving the forgotten stories of some of Singapore’s biggest brand names.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/bygone-brands/01-bygonebrands.jpg">In 1915, Whiteaways moved to its final location on Battery Road, right next to the General Post Office building that is today the Fullerton Hotel. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-2/bygone-brands/01-bygonebrands.jpg">In 1915, Whiteaways moved to its final location on Battery Road, right next to the General Post Office building that is today the Fullerton Hotel. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Do you remember Chung Khiaw Bank, Setron TVs and Three Rifles shirts? They were household brand names during their heydays and were very much part of the Singapore landscape. At their peak, many residents would have owned these products, used their services or at the very least, heard of these brands. Popularity, however, does not guarantee longevity. Over the years, the following five brands disappeared due to a variety of reasons, some more dramatic than others.
 
@@ -14,7 +14,7 @@ Do you remember Chung Khiaw Bank, Setron TVs and Three Rifles shirts? They were 
 
 It was called the “Selfridges of the East”, the poshest chain of department stores this side of the Suez.[^1] Shoppers looking for high-end European products during the early 20th century would make a beeline for this iconic store – Whiteaway, Laidlaw & Co.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/02-bygonebrands.jpg">A Whiteaways advertisement in the 1937-38 issue of The Singapore Cinema Review introducing the “… exciting new perfume” called Mischief – all for the princely price of $1.75 or $2.75 a bottle. <i>© The Singapore Cinema Review.</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/bygone-brands/02-bygonebrands.jpg">A Whiteaways advertisement in the 1937-38 issue of The Singapore Cinema Review introducing the “… exciting new perfume” called Mischief – all for the princely price of $1.75 or $2.75 a bottle. <i>© The Singapore Cinema Review.</i></div>
 
 Founded by two Scotsmen, E. Whiteaway and Robert Laidlaw, the first store was set up in Calcutta in 1882, where both men were based. Their business boomed, with branches sprouting in over 20 cities in India and the Straits Settlements (Singapore, Penang and Malacca), and in places such as Kuala Lumpur, Ipoh, Taiping, Seremban and Klang.[^2]
 
@@ -40,7 +40,7 @@ The Whiteaways building was bought by Malayan Banking Limited (Maybank) for $1.4
 
 Set up by tycoon and philanthropist Aw Boon Haw – one half of the famous Haw Par brothers – Chung Khiaw Bank took pride in being the “Small Man’s Bank”, a bank for the ordinary man.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/03-bygonebrands.jpg">Opening of the New Bridge Road branch of Chung Khiaw Bank in 1957. Source: <i>The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/bygone-brands/03-bygonebrands.png">Opening of the New Bridge Road branch of Chung Khiaw Bank in 1957. Source: <i>The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.</i></div>
 
 Chung Khiaw Bank was incorporated in 1947 and started operations on 4 February 1950 on Robinson Road. Aw, dubbed the “Tiger Balm King” for building his family’s business empire from selling the trademark cure-all ointment, was the founder and first chairman of the bank’s board of directors, which included other prominent Chinese businessmen in Singapore.
 
@@ -64,7 +64,7 @@ On 4 June 1971, news emerged that Aw had sold a substantial stake in the company
 
  In August that year, the managing director Lee Chee Shan retired from his position, saying that he wanted to give way “to a young and dynamic leadership”.[^21] A year later, UOB completed its takeover of Chung Khiaw Bank. In 1999, UOB merged its Chung Khiaw bank subsidiary to rationalise operations. In one fell swoop, the name Chung Khiaw Bank was erased forever.
  
- <div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/04-bygonebrands.jpg">Managing Director Lee Chee San (centre) with friends at the opening of the Tiong Bahru branch of Chung Khiaw Bank in 1958. <i>All rights reserved, Yeap, J. K. (1994). Far from Rangoon: Lee Chee San 1906–1986. Singapore: Lee Teng Lay.</i></div>
+ <div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bygone-brands/04-bygonebrands.jpg">Managing Director Lee Chee San (centre) with friends at the opening of the Tiong Bahru branch of Chung Khiaw Bank in 1958. <i>All rights reserved, Yeap, J. K. (1994). Far from Rangoon: Lee Chee San 1906–1986. Singapore: Lee Teng Lay.</i></div>
 
 As for the Haw Par family fortune that was reportedly worth hundreds of millions, it did not last beyond the second generation. Aw Cheng Chye died in August 1971, a few months after selling Haw Par to Slater Walker Securities. After a series of bad investments by other family members, the money was whittled away. Matriarch Aw Cheng Hu, the niece of founder Aw Boon Haw – and the widow of Lee – was said to be living in a rented four-room HDB flat in Sengkang a few years before her death in 2010.[^22]
 
@@ -74,7 +74,7 @@ Today, banking giant UOB not only owns Chung Khiaw Bank, but also Haw Par Corpor
 
 The first ever Singapore-assembled black-and-white TV set rolled off the production line at local enterprise, Setron Limited, in September 1965. Television in Singapore had just been introduced in February 1963,[^23] and given the small number of households that owned a TV set at the time – most people watched TV at their local community centres – this was a business that showed plenty of promise.
 
- <div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/05-bygonebrands.jpg">Newspaper advertisements by Setron such as this one in the 28 April 1966 issue of <i>The Straits Times</i> touted the latest in techonology, like the “Vista-Scope Screen”, and claimed that its TV screens provided the “sharpest, clearest pictures”. <i>© The Straits Times.</i></div>
+ <div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/bygone-brands/05-bygonebrands.jpg">Newspaper advertisements by Setron such as this one in the 28 April 1966 issue of <i>The Straits Times</i> touted the latest in techonology, like the “Vista-Scope Screen”, and claimed that its TV screens provided the “sharpest, clearest pictures”. <i>© The Straits Times.</i></div>
  
  The idea of a made-in-Singapore TV set seemed preposterous at the time, but Setron managed to pull it off. With component parts imported from Belgium, Setron TV – encased in classic teak cabinets with shutters enclosing the screen – became a fairly commonplace item in many households by the 1970s. It was not unusual for proud owners to drape their TV sets with decorative cloths and use the top as a display shelf for framed photographs and other home knick-knacks.
 
@@ -100,7 +100,7 @@ Setron continued to manufacture TV sets until the 1980s. In 1986, it became a su
 
 Many Singaporeans grew up with the trademark Three Rifles shirt, worn by their husbands, fathers or even grandfathers. It was set up by Chong Chong Choong, who left his Kuala Lumpur hometown at age 14 to strike out on his own in Singapore as an apprentice selling shirts and textiles.[^35]
 
- <div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/06-bygonebrands.jpg">Three Rifles Shirts billed its shirts as “the distinctive shirt for the distinguished man about town” in this advertisement dated 19 April 1980 in the <i>New Nation. © New Nation.</i></div>
+ <div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/bygone-brands/06-bygonebrands.jpg">Three Rifles Shirts billed its shirts as “the distinctive shirt for the distinguished man about town” in this advertisement dated 19 April 1980 in the <i>New Nation. © New Nation.</i></div>
  
 Five years later, in 1955, at age 19, Chong opened his first shop in Bukit Panjang selling shirts from different brands. It was just half a shop space, bought at a princely sum of $7,000 – his hard-earned savings. Business was brisk; in just four years, his half shop had expanded into one full shop space. He stayed in that location for another 10 years, until 1969 when he opened a store at The President, one of Singapore’s first shopping centres (today renamed Serangoon Plaza).[^36]
 
@@ -122,7 +122,7 @@ The signature bronze lion and flame-lit torch on top of Thye Hong Biscuit and Co
 
 As business grew, the younger Lee built a bigger factory on Alexandra Road at a cost of $250,000. The plant could produce 10–12 tonnes of biscuits daily under hygienic conditions – with the biscuits untouched by human hands. Thye Hong biscuits continued to gain in popularity. In 1952, the company stepped up production with a massive 18-month expansion programme that would increase biscuit production to 1,500 tonnes and confectionary production to 100 tonnes every month.[^45]
 
- <div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/07-bygonebrands.jpg">Then Minister for Social Affairs Othman Wok (extreme left) visits the factory of Thye Hong Biscuit in 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+ <div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bygone-brands/07-bygonebrands.jpg">Then Minister for Social Affairs Othman Wok (extreme left) visits the factory of Thye Hong Biscuit in 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
  
  However, tragedy struck on 20 April 1960. Lee, who had become famous as the “Biscuit King”, was ambushed near his Garlick Avenue home while being driven home by his driver. After Lee’s car was forced into an embankment by another car, three men pulled him out of the vehicle and abducted him. His injured driver was left alone. Five days later, Lee’s body was found wrapped in a blanket and left in a graveyard off Yio Chu Kang Road.[^46]
 
@@ -136,7 +136,7 @@ Singaporeans growing up in the 1960s and 70s will remember eating popular Thye H
 
 In 1971, one of Britain’s largest biscuit manufacturers, Huntley and Palmer, entered into an agreement with Thye Hong to produce part of its range of sweet and semi-sweet biscuits in Singapore and Malaysia – under the British firm’s subsidiary Associated Biscuits.[^51]
 
- <div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/08-bygonebrands.jpg">Biscuit tin and paper bag of Thye Hong Biscuit & Confectionery Company from the 1950s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+ <div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bygone-brands/08-bygonebrands.jpg">Biscuit tin and paper bag of Thye Hong Biscuit & Confectionery Company from the 1950s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
  
  A decade later, in late 1981, Associated Biscuits (Huntley and Palmer) bought Kuan Enterprises, which owned Thye Hong Singapore and Malaysia, for $12 million. With this, the familiar torch and lion trademark on the roof of the factory disappeared when the factory closed down. The site was redeveloped into an office building – Thye Hong Centre – by Thye Hong Properties and Thye Hong Development, set up in 1981 by Lee Boon Leong and his mother, Madam Tay Geok Yap. New chairman and chief executive of Kuan Enterprises Julian Scott said the company would expand the range of products under Thye Hong. Its trademark would be retained and the old emblem would be part of the new factory complex in the western part of Singapore.[^52]
 
