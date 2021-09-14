@@ -9,7 +9,7 @@ Newspaper reports of that time were replete with figures of the costs of constru
 
 #### Prime Minister Lee Kuan Yew's Role 
 ![Alt text for image on Isomer site]
-<div style="background-color: white;">Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress on 4 November 1979. *	Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore*</div>
+<div style="background-color: white;">Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress on 4 November 1979. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
 Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against consultants’ initial recommendation. The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]    
 	
@@ -18,7 +18,7 @@ Lee was also involved in the building of Changi Airport. To see where the extens
 	
 #### Communications Equipment
 ![Alt text for image on Isomer site]
-<div style="background-color: white;">At the signing ceremony on 17 February 1977, Mr Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from Mr B. M. Lap, chairman of Philips Singapore. *Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore*</div>
+<div style="background-color: white;">At the signing ceremony on 17 February 1977, Mr Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from Mr B. M. Lap, chairman of Philips Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 	
 On 17 February 1977, the Singapore government signed a S$19 million contract with Philips, for the supply of long-range radar and display system (LORADS). 
 
@@ -36,10 +36,10 @@ Before construction of this passenger terminal building was even completed, in 1
 	
 #### A Matter of National Pride  
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerialview.png)
-<div style="background-color: white;">An aerial view of the completed Changi Airport, 1981. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div> 
+<div style="background-color: white;">An aerial view of the completed Changi Airport, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div> 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/notereverse.png)
-<div style="background-color: white;">Reverse side of the new $20 note. *Courtesy of the Monetary Authority of Singapore*.</div> </div>  
+<div style="background-color: white;">Reverse side of the new $20 note. <i>Courtesy of the Monetary Authority of Singapore</i>.</div> </div>  
 
 
 Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 note was introduced on 6 August 1979 as part of the bird series.[^6]  
@@ -47,8 +47,9 @@ Changi Airport was to become a symbol of national pride. Two years before the ai
 
 
 ####Aerobridges
+
 ![Alt text for image on Isomer site]
-<div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November 1980. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>
+<div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November 1980. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
 The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges are more accessible, allowing passengers to board planes from the terminal building in all weather conditions, rather than taking a bus and climbing a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
 
@@ -57,7 +58,7 @@ The aerobridge is commonplace now. But in 1981, a journalist reporting on her to
 
 ####The Second Runway
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/runway2.png)
-<div style="background-color: white;">Runway II at Changi Airport, 1985. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore. </div> 
+<div style="background-color: white;">Runway II at Changi Airport, 1985. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div> 
 
 The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. The second runway was built on almost entirely reclaimed land and became operational in February 1984.[^9]
 
@@ -65,7 +66,7 @@ The site of Changi was superior to Paya Lebar for the construction of a second r
 
 ####The Iconic Control Tower
 ![Alt text for image on Isomer site]
-<div style="background-color: white;">An aerial view of East Coast Parkway and the iconic control tower of Changi Airport, 1996. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">An aerial view of East Coast Parkway and the iconic control tower of Changi Airport, 1996. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 
 The design of the iconic 78-metre tall octagonal control tower came from a design competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^11]
 
