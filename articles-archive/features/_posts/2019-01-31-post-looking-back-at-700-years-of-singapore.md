@@ -167,12 +167,6 @@ Professor <b>Tan Tai Yong</b>  is the second President and Professor of Humaniti
 [^27]: Lee, P., & Wang, N. (2017, January). Port cities: Multi-cultural emporiums of Asia. *Muse SG, 9*, p. 5. Singapore: National Heritage Board. Available via PublicationSG. 
 [^28]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 200–202.
 [^29]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 414, 417.
-[^30]: 
-[^31]: 
-[^32]:
-
-
-
-Chong, T. (2011, July). Manufacturing authenticity: The cultural production of national identities in Singapore. Modern Asian Studies, 45(4), p. 887. London: Cambridge University Press. (Call no.: R 950 MAS) 
-The exception was that Special Assistance Plan schools offered both English and Chinese at the first language level. See Alfred, H., & Tan, J. (1983, December 22). It’s English for all by 1987. The Straits Times, p. 1. Retrieved from NewspaperSG.
-Wee, A. (1989, February 17). Racial limits set for HDB estates. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^30]: Chong, T. (2011, July). Manufacturing authenticity: The cultural production of national identities in Singapore. [*Modern Asian Studies*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=914729), 45(4), p. 887. London: Cambridge University Press. (Call no.: R 950 MAS) 
+[^31]: The exception was that Special Assistance Plan schools offered both English and Chinese at the first language level. See Alfred, H., & Tan, J. (1983, December 22). [It’s English for all by 1987](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831222-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^32]:Wee, A. (1989, February 17). [Racial limits set for HDB estates](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890217-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
