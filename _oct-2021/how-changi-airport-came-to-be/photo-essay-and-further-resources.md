@@ -13,7 +13,7 @@ Before the airport became operational on 1 July that year, it was opened to an e
 
 Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against the recommendations of consultants. The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]    
 	
-Lee took a great interest in the building of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to get a birds-eye view of the entire construction site.[^3]  
+Lee took a great interest in the building of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to get a bird's-eye view of the entire construction site.[^3]  
 	
 	
 #### **A S$100 million navigational system**
