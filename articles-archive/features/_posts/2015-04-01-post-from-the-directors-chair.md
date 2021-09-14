@@ -24,7 +24,7 @@ After making <i>Old Places</i> and <i>Old Romances</i>, we’ve compiled a stron
 **What made you choose food as a theme for the last of your heritage-themed documentaries?**<br>
 We see food as a very important form of heritage in Singapore. While filming <i>Old Romances</i> we realised that the old, authentic taste of local food is changing, if not in danger of disappearing altogether as hawkers are replaced by food courts and coffee shops taken over by cafes. We see an urgent need to archive and celebrate these hawkers who dedicate their lives to perfecting their iconic dishes. 
 
-**Which segment in Old Friends resonated most with you and your team, and why?**<br>
+**Which segment in <i>Old Friends</i> resonated most with you and your team, and why?**<br>
 We’re in the midst of production now; I think the research intrigues us the most. Every day, we make a new discovery on our tiny island.
 
 **Do you have a personal comfort food that you crave for every so often?**<br>
