@@ -61,3 +61,37 @@ There are also several bungalows on the Larut Hills belonging to the government 
 From “The Box” at 4,200 ft, the views are immense. Below, Taiping looks like a tiny map and the roads (being of white limestone and marble) show out distinctly, as was the very straight line of railway to the coast of Port Weld. To the right, in the distance, is the island of Penang and to the left the group of islands called the Dindings; on a clear day, the opposite high mountains of Sumatra are faintly visible.
 
 Inland, one looks into the heart of the Malay Peninsula. Range upon range of mountains from 4,000 to 9,000 feet, nearly all untouched and unscaled by man – primeval jungle – the happy hunting ground of tigers, elephants, deer, wild pig, bears, monkeys and what not!
+
+<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare5.JPG">
+<div style="background-color: white;">(Left) In Taiping, Mrs Dare and Miss Hardman travelled on elephants like these to the cool shady riverside for a delicious tiffin of Malay curries. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 70). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350)</i>
+(Right) Menggelunchor involves sitting on thick pieces of plantain fibre called upih and tobogganing down the smooth rock in the river into the pool below. Mrs Dare was treated to such a scene in Taiping.</div>
+
+We returned to Taiping and motored out to the 18th milestone on the Kuala Kangsar road where, at the Penghulu’s, we were provided with an elephant, on which we rode for two miles. On arrival at the cool shady riverside, we found a shed erected and a delicious tiffin of Malay curries for our benefit. It was great fun watching the Malays and the men of our party seated on thick pieces of plantain fibre called upih and tobogganing down some 60 feet of smooth rock in the river into the cool inviting pool below – an activity called menggelunchor.
+
+Bound for Ipoh
+
+We left Taiping for Ipoh via Kuala Kangsar, a distance of 56 miles, at 8.30 am on 20 April, and had a delightful run over the Bukit Larut Pass. The morning was exceptionally clear and the mountains a magnificent sight. Right in front of us was Gunong Pondok, a huge perpendicular pinnacle of limestone rock.
+
+Kuala Kangsar is the former capital of Perak, and the sultan lives in a fine palace on the banks of the broad river. We proceeded along the upper road, which leads through the official portion of the town past the hospital, barracks and various government offices to the Malay College, where we breakfasted with friends. Then, taking riskshas, we visited the School of Art and the new Residency situated on a wooded knoll. After tiffin, we left Kuala Kangsar immediately so as to arrive in Ipoh in time for tea and to escape the usual afternoon rain squall.
+
+Crossing Perak River
+
+At Enggor we drove across Perak River on a rickety bridge of boats, and proceeded without mishap along the smooth undulating road through well-wooded country until we reached the tin-mining town of Sungei Siput.
+
+There, we were alarmed by a fearful clattering in the car, and were relieved to find that it was caused by nothing worse than the top section of the chain-guard having somehow caught in the number plate! It was of no real consequence but it meant a vexatious delay as the whole cover had come off and a piece cut out. A Chinese tinsmith’s shop was close by, but no offers of money would induce him to lend us his metal-cutting scissors, or to come and work himself unless the car was taken to his shop, which was obviously impossible, as there was no road! So we set to work and cut away the metal with two pairs of wire-cutters, a long and tedious job, made doubly difficult by the large crowd of rude Chinese coolies who had surrounded us by then but offered no assistance. After three quarters of an hour’s delay, we continued our journey.
+
+More Obstacles on the Road
+
+A few miles further on it began to pour in torrents, necessitating another half an hour’s stoppage under the trees with the apron up, till the rain moderated a bit and we proceeded another few miles; then to be once more held up by a couple of huge tree trunks that had fallen right across the road. The second of these had been sawn in pieces, and could be pushed out of the way, but the first one was immovable!
+
+As we were only nine miles from our destination, it seemed ridiculous to go back all the way to Kuala Kangsar, so we were determined to bridge the obstacle. We and our Malay attendant pulled up some planks from the wayside benches, laid them in position so as to form an inclined gangway from the road to the top of the prostrate trunk, and covered the uneven ends of the planks with bits of bark. Some natives helped to push the car over and after an hour and a half’s delay, Ichiban was again on the move. Half a mile on, another and yet larger tree blocked the way but here the government coolies were already at work sawing it up, so half an hour more saw us again spinning along, and enjoying the now fine evening and beautiful sunset.
+
+We had, however, only covered another mile when a fourth large tree obstructed us. It was getting dark and the road was lonely. A bullock cart laden with split logs was parked behind it, with the Sikh driver fast asleep beneath. We were now so accustomed to climbing trees that we soon had the contents of the cart piled on each side of the tree in a sort of sloping bridge and while two of us looked on, the third drove the car over triumphantly!
+
+Ichiban took it like a bird, but the toolbox under the step caught on the logs and was wrenched off, the contents spilling out; thankfully the step itself was uninjured. We picked up the tools and the debris, and packed everything away as neatly as possible and were off again, ultimately reaching the Residency at Ipoh without more misfortunes. We felt that quite enough for one day had fallen to our lot, and congratulated ourselves on having surmounted all with so little damage to Ichiban.
+
+Ipoh and Beyond
+
+Ipoh is a large and flourishing town in the centre of the tin mining district. There are also interesting marble works, the whole country being full of huge limestone and marble rocks. Even the milestones are made of white marble! We stayed two days for repairs, thoroughly appreciating the rest in this most comfortable and prettily situated Residency, the garden extending to the edge of the Kinta River.
+
+We left Ipoh on 22 April at 8 am for our longest run of 98 miles to Tanjong Malim. The road to Gopeng is more hilly but it has an excellent surface and the scenery is very pretty. We stopped en route at Sungei Raya to look at a curious five-storeyed Chinese temple built inside some limestone caves. At Gopeng, the road diverges along a high ridge on which are situated the District Officer’s house and a nice resthouse with an upper storey and broad verandah. The resthouse commands a fine view over the town and adjoining mining country, backed by ranges of limestone cliff.
