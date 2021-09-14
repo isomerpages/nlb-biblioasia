@@ -50,12 +50,12 @@ Changi Airport was to become a symbol of national pride. Two years before the ai
 	
 The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges allow passengers to board planes from the terminal building rather than having to take a bus and climb a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
 
-The aerobridge is commonplace now. But in 1981, a journalist reporting on her tour of the Changi Airport remarked that the highlight of the tour was “troop[ing] down an aerobridge”.[^8]
+The aerobridge is commonplace now. But in 1981, a journalist reporting on her tour of the Changi Airport remarked that the highlight was “troop[ing] down an aerobridge”.[^8]
 
 
 #### **The Second Runway**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/runway2.png)
-<div style="background-color: white;">Runway II at Changi Airport, 1985. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div> 
+<div style="background-color: white;">Runway two at Changi Airport, 1985. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div> 
 
 The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. The second runway was built on almost entirely reclaimed land and became operational in February 1984.[^9]
 
