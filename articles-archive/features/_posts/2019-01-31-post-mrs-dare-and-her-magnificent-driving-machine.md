@@ -124,7 +124,7 @@ We left on 28 April at 11 am for Kuala Lumpur – a run of 38 miles – but it t
 
 The capital has a large European population, with well-built bungalows, churches, hospitals, government offices, a town club, a country club and the Public Gardens with a fine large lake.
 
-<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare8.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare8.JPG">
 <div style="background-color: white;">Government offices in Kuala Lumpur. <i>Image reproduced from Swettenham, F.A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya (p. 276). London, New York: John Lane the Bodley Head. (Accession nos.: B29031891K, B29267224A; Microfilm nos.: NL19101, NL3279)</i></div>
 
 The Resident General, W. Taylor, with whom we stayed, has a beautiful house up on the hill overlooking the lake and gardens. In fact, the place is very hilly, each house standing on its own separate eminence. There are many motorcars here, and the big engineering works belongs to the Federated Engineering Company, so we had Ichiban thoroughly overhauled during our four-day visit.
