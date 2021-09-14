@@ -35,57 +35,56 @@ Before construction of this passenger terminal building was even completed, in 1
 
 	
 #### A Matter of National Pride  
-| ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerialview.png) | ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/note.png) |
-| -------- | -------- | 
-|An aerial view of the completed Changi Airport, 1981. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*. | <div style="background-color: white;">Reverse side of the new S$20 note. *Courtesy of Monetary Authority of Singapore*.</div> |
 
 
-Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 note was introduced on 6 August 1979 as part of the bird series.[^6]
+
+
+
+
+Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 note was introduced on 6 August 1979 as part of the bird series.[^6]  
+
+
+
+####Aerobridges
+<div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November 1980. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>
 	
-#### Aerobridges
-![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerobridges.png)
-<div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November  1980. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>
-
 The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges are more accessible, allowing passengers to board planes from the terminal building in all weather conditions, rather than taking a bus and climbing a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
 
-The aerobridge is commonplace now. But in 1981, a journalist reporting on her tour of the Changi Airport remarked that the highlight of the tour was “troop[ing] down an aerobridge”.[^8] 
+The aerobridge is commonplace now. But in 1981, a journalist reporting on her tour of the Changi Airport remarked that the highlight of the tour was “troop[ing] down an aerobridge”.[^8]
 
-	
-#### The Second Runway 	
-![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/runway2.png)
-<div style="background-color: white;">Runway II at Changi Airport, 1985. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>  	
-	
-The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. The second runway was built on almost entirely reclaimed land and became operational in February 1984.[^9]  
+
+####The Second Runway
+
+Runway II at Changi Airport, 1985. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.
+The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. The second runway was built on almost entirely reclaimed land and became operational in February 1984.[^9]
 
 The site of Changi was superior to Paya Lebar for the construction of a second runway. The swampy lands around Paya Lebar might cause a runway built there to sink.[^10]
 
+####The Iconic Control Tower
+<div style="background-color: white;">An aerial view of East Coast Parkway and the iconic control tower of Changi Airport, 1996. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>
 
-#### The Iconic Control Tower
-![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/controltower.png)
-<div style="background-color: white;">An aerial view of East Coast Parkway and the iconic control tower of Changi Airport, 1996. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>	
-	
 The design of the iconic 78-metre tall octagonal control tower came from a design competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^11]
-	
-	
-#### NOTES
-[^1]: “[Crowds Flock to Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.28),” *New Nation*, 3 June 1981, 6; “[250,000 Have Visited Airport So Far](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810616-1.2.50.4),” *Straits Times*, 16 June 1981, 10 (From NewspaperSG); Department of Statistics Singapore, *Population Trends 2020* (Department of Statistics, Ministry of Trade & Industry, 2020), 37.	
-[^2]: Lee Kuan Yew, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991)
-[^3]: Changi Airport Group, “[50 Years of Air Travel in Singapore](https://www.changiairport.com/content/dam/cacorp/publications/Changi%20Connections/2015/290515_CC_sg50_low.pdf),” *Changi Connection*, 2015, 5.
 
-[^4]: “[Govt Plans $100 Mil System at Changi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19770218-1.2.43),” <i>Business Times</i>, 18 February 1977, 10. (From NewspaperSG) 
 
-[^5]: Janie Khoo, “[Plan for $200m Second Changi Terminal under Study](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800304-1.2.44),” *Straits Times*, 4 March 1980, 8; “[This Is the Pride of Changi Airport](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770707-1.2.19),” *New Nation*, 7 July 1977, 4. (From NewspaperSG) 
-   
-[^6]: “[Birds to Drive Out Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19790804-1.2.52),” *Business Times*, 4 August 1979, 12. (From NewspaperSG)
-	
-[^7]: Changi Airport Group, “[50 Years of Air Travel in Singapore](http://www.changiairport.com/content/dam/cacorp/publications/Changi%20Connections/2015/290515_CC_sg50_low.pdf),” 3. 
 
-[^8]: Agatha Koh, “[Changi Experience for Only 50 Cents](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.27),” New Nation, 3 June 1981, 6. (From NewspaperSG)
+####NOTES
+[^1]: “Crowds Flock to Airport,” New Nation, 3 June 1981, 6; “250,000 Have Visited Airport So Far,” Straits Times, 16 June 1981, 10 (From NewspaperSG); Department of Statistics Singapore, Population Trends 2020 (Department of Statistics, Ministry of Trade & Industry, 2020), 37. ↩
 
-[^9]: “[Cost for Second Runway Soars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820906-1.2.63),” *Straits Times*, 6 September 1982, 13; Khoo, “[Plan for $200m Second Changi Terminal under Study](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800304-1.2.44). (From NewspaperSG)
+[^2]: Lee Kuan Yew, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991) ↩
 
-[^10]: “[Changi Site Better Choice for Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810618-1.2.24),” *New Nation*, 18 June 1981, 5. (From NewspaperSG)
+Changi Airport Group, “50 Years of Air Travel in Singapore,” Changi Connection, 2015, 5. ↩
 
-[^11] Arthur Seah Peng Chua, “[Control Tower Design Was the Effort of PWD Architects](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850202-1.2.21.4),” *Singapore Monitor*, 2 February 1985, 15; “[Changi Airport Wins Awards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19850828-1.2.13.3),” *Business Times*, 28 August 1985, 2. (From NewspaperSG)
+“Govt Plans $100 Mil System at Changi,” Business Times, 18 February 1977, 10. (From NewspaperSG) ↩
 
-	
+Janie Khoo, “Plan for $200m Second Changi Terminal under Study,” Straits Times, 4 March 1980, 8; “This Is the Pride of Changi Airport,” New Nation, 7 July 1977, 4. (From NewspaperSG) ↩
+
+“Birds to Drive Out Orchids,” Business Times, 4 August 1979, 12. (From NewspaperSG) 
+[^7]: Changi Airport Group, “50 Years of Air Travel in Singapore,” 3. 
+
+[^8]: Agatha Koh, “Changi Experience for Only 50 Cents,” New Nation, 3 June 1981, 6. (From NewspaperSG) 
+
+[^9]: “Cost for Second Runway Soars,” Straits Times, 6 September 1982, 13; Khoo, “Plan for $200m Second Changi Terminal under Study. (From NewspaperSG) 
+
+[^10]: “Changi Site Better Choice for Airport,” New Nation, 18 June 1981, 5. (From NewspaperSG) 
+
+[^11]: Arthur Seah Peng Chua, “Control Tower Design Was the Effort of PWD Architects,” Singapore Monitor, 2 February 1985, 15; “Changi Airport Wins Awards,” Business Times, 28 August 1985, 2. (From NewspaperSG)
