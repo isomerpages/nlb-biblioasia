@@ -28,7 +28,7 @@ So what led me in 2008 to find out more about this forgotten settlement in Malay
 
 I was born in Japan in 1966 to a British father and Eurasian[^5] mother (originally from Malacca in Malaysia), and brought up as an expatriate child in Japan, Europe, Singapore and Malaysia – places where my father’s work took him. It was only when my mother, Mary Alethea de Souza, died in England in 2004 that I sought to find out about my heritage, both for my own sake and that of my children, as I did not want them to grow up not knowing the background of their maternal grandmother. When I returned to Singapore in 2008, I wanted to revisit old memories from when I had lived here as a child in the 1970s and 80s, to satisfy my thirst for the past and, more importantly, to find out more about my family history.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/bahau/02-bahau.jpg">The author, Fiona Hodgkins, was born in Japan in 1966. Her father is British and mother is Eurasian. This is a photo of Fiona and her mother taken in Japan, circa 1970. <i>Courtesy of Fiona Hodgkins.</i></div>
+<div style="background-color: white;"><img style="width:200px" src="/images/Vol-12-issue-2/bahau/02-bahau.jpg">The author, Fiona Hodgkins, was born in Japan in 1966. Her father is British and mother is Eurasian. This is a photo of Fiona and her mother taken in Japan, circa 1970. <i>Courtesy of Fiona Hodgkins.</i></div>
 
 Having visited all the usual historical sights in Singapore, I finally made the trek to the Eurasian Association at Ceylon Road. This was where I learnt more about Bahau. Until then, my only knowledge of Bahau was through the childhood stories my mum told of the time when she and her family lived in the jungle and when wooden huts used to collapse whenever elephants needed to scratch their backs against the bristly walls of these makeshift dwellings. I thought it was a quaint fairy tale: never did I imagine that it was a real story.
 
@@ -42,7 +42,7 @@ So, the story of Bahau is also the story of the Eurasian community in Singapore;
 
 The hardships and deprivation caused by the Japanese Occupation of Singapore (1942–45) has already been widely documented. What I wish to focus on specifically are its effects on the Catholic community in Singapore.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/bahau/03-bahau.jpg">An announcement in the 15 January 1944 edition of <i>The Syonan Shimbun</i> exhorting the Eurasian community to apply for the Bahau settlement scheme, which “all Eurasians who are fit and strong enough to go on the land should avail themselves of enthusiastically”. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/bahau/03-bahau.jpg">An announcement in the 15 January 1944 edition of <i>The Syonan Shimbun</i> exhorting the Eurasian community to apply for the Bahau settlement scheme, which “all Eurasians who are fit and strong enough to go on the land should avail themselves of enthusiastically”. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Before the war, there were a number of Catholic religious orders here, including the De La Salle (or Christian) brothers and the Holy Infant Jesus nuns, whose primary task was to set up schools. After Singapore fell to the Japanese in 1942, these missionary teachers were forced to teach within the confines of the rules and regulations set by the Japanese curriculum. The fact that many of the brothers and nuns were Europeans – usually Irish brothers and French sisters – made them figures of suspicion among the Japanese authorities.
 
@@ -58,13 +58,13 @@ In addition to these Catholics, a small group of Protestant European families an
 
 It was in late December 1943 that the first settlers from Singapore – including Bishop Devals – left for Bahau with whatever belongings they could carry: meeting first at the Cathedral of the Good Shepherd on Queen Street, then travelling by overnight train to Gemas; followed by a local train to Bahau town and finally walking the last five miles to the site chosen as the settlement.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/bahau/04-bahau.jpg">The morning roll call was a daily ritual at Bahau camp [Japanese propaganda photo]. <i>Courtesy of Father René Nicolas.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bahau/04-bahau.jpg">The morning roll call was a daily ritual at Bahau camp [Japanese propaganda photo]. <i>Courtesy of Father René Nicolas.</i></div>
 
 Stretching over an area of some 40 square miles, the land chosen for the settlement had previously been cleared and rejected by the Japanese for use as an airfield and then by the Chinese who chose to settle in Endau instead. Both groups had allegedly rejected the site because of fears of contracting malaria. The fact that the Catholics accepted the offer to resettle in Bahau reflected the sheer desperation of their situation at the time.
 
 Given its inauspicious start, it’s not surprising that the site did not turn out to be the bucolic paradise that the Catholics had been promised. This was made worse by the fact that what had originally started out as an “optional” resettlement programme seemed more like forced internment once the people arrived there. The Japanese name for the camp, Fuji-Go, which means “beautiful village”, was ironic given the fact that an estimated 500 settlers died over an 18-month period between 1944 and 1945.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/bahau/05-bahau.jpg">The first settlers to Bahau – mainly young, single men – had to clear the land, build a  rudimentary road from the train station to the camp and set up basic infrastructure before the families started to arrive (Japanese propaganda photo). <i>Courtesy of Father René Nicolas.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-2/bahau/05-bahau.jpg">The first settlers to Bahau – mainly young, single men – had to clear the land, build a  rudimentary road from the train station to the camp and set up basic infrastructure before the families started to arrive (Japanese propaganda photo). <i>Courtesy of Father René Nicolas.</i></div>
 
 The first settlers, mainly young, single men, lived communally in four sheds constructed by the authorities. They were first assigned to clear the land still overgrown with primary jungle, build a rudimentary road from the train station to the camp and set up basic infrastructure before the families started to arrive. Each family was allocated 3 acres of land to grow crops and build their own home using whatever they could find from the jungle – basically split timber and palm fronds – although some of the more fortunate families could afford to pay local contractors to build sturdier structures.
 
@@ -78,7 +78,7 @@ While the true conditions of the settlement were hidden to the outside world by 
 
 But it was not all gloom and doom in Bahau. Budding romances that had begun in Singapore blossomed in the settlement and resulted in marriages. There were also some who were fortunate to meet their future spouses at the settlement.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/bahau/06-bahau.jpg">Wedding photo of Luke de Souza and Flo Chopard. [From the left]: Gwen Perry, Flo Chopard, Luke de Souza, Bill Hutchinson and an unknown person. In spite of the difficult circumstances in Bahau, several weddings were celebrated there. <i>Courtesy of the family of Luke and Flo de Souza.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bahau/06-bahau.jpg">Wedding photo of Luke de Souza and Flo Chopard. [From the left]: Gwen Perry, Flo Chopard, Luke de Souza, Bill Hutchinson and an unknown person. In spite of the difficult circumstances in Bahau, several weddings were celebrated there. <i>Courtesy of the family of Luke and Flo de Souza.</i></div>
 
 #### **The Legacy of Bahau**
 
