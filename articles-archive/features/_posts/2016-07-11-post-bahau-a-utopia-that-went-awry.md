@@ -28,7 +28,7 @@ So what led me in 2008 to find out more about this forgotten settlement in Malay
 
 I was born in Japan in 1966 to a British father and Eurasian[^5] mother (originally from Malacca in Malaysia), and brought up as an expatriate child in Japan, Europe, Singapore and Malaysia – places where my father’s work took him. It was only when my mother, Mary Alethea de Souza, died in England in 2004 that I sought to find out about my heritage, both for my own sake and that of my children, as I did not want them to grow up not knowing the background of their maternal grandmother. When I returned to Singapore in 2008, I wanted to revisit old memories from when I had lived here as a child in the 1970s and 80s, to satisfy my thirst for the past and, more importantly, to find out more about my family history.
 
-<div style="background-color: white;"><img style="width:200px" src="/images/Vol-12-issue-2/bahau/02-bahau.jpg">The author, Fiona Hodgkins, was born in Japan in 1966. Her father is British and mother is Eurasian. This is a photo of Fiona and her mother taken in Japan, circa 1970. <i>Courtesy of Fiona Hodgkins.</i></div>
+<div style="background-color: white;"><img style="width:250px" src="/images/Vol-12-issue-2/bahau/02-bahau.jpg">The author, Fiona Hodgkins, was born in Japan in 1966. Her father is British and mother is Eurasian. This is a photo of Fiona and her mother taken in Japan, circa 1970. <i>Courtesy of Fiona Hodgkins.</i></div>
 
 Having visited all the usual historical sights in Singapore, I finally made the trek to the Eurasian Association at Ceylon Road. This was where I learnt more about Bahau. Until then, my only knowledge of Bahau was through the childhood stories my mum told of the time when she and her family lived in the jungle and when wooden huts used to collapse whenever elephants needed to scratch their backs against the bristly walls of these makeshift dwellings. I thought it was a quaint fairy tale: never did I imagine that it was a real story.
 
@@ -78,7 +78,7 @@ While the true conditions of the settlement were hidden to the outside world by 
 
 But it was not all gloom and doom in Bahau. Budding romances that had begun in Singapore blossomed in the settlement and resulted in marriages. There were also some who were fortunate to meet their future spouses at the settlement.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bahau/06-bahau.jpg">Wedding photo of Luke de Souza and Flo Chopard. [From the left]: Gwen Perry, Flo Chopard, Luke de Souza, Bill Hutchinson and an unknown person. In spite of the difficult circumstances in Bahau, several weddings were celebrated there. <i>Courtesy of the family of Luke and Flo de Souza.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/bahau/06-bahau.jpg">Wedding photo of Luke de Souza and Flo Chopard. [From the left]: Gwen Perry, Flo Chopard, Luke de Souza, Bill Hutchinson and an unknown person. In spite of the difficult circumstances in Bahau, several weddings were celebrated there. <i>Courtesy of the family of Luke and Flo de Souza.</i></div>
 
 #### **The Legacy of Bahau**
 
