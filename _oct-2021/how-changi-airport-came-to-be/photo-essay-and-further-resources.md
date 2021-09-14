@@ -3,7 +3,7 @@ title: Photo Essay and Further Resources
 permalink: /vol-17/issue-3/oct-dec-2021/changi-airport-rsrc
 third_nav_title: How Changi Airport Came To Be
 ---
-#### Built at a cost of $1.5 billion, Changi Airport was the largest public project in Singapore when it was completed in 1981. Learn more about Changi Airport through these photos.
+#### Built at a cost of $1.5 billion, Changi Airport was the largest public project in Singapore when it was completed in 1981. Learn more about Changi Airport through these photos from the National Archives of Singapore.
 
 Before the airport became operational on 1 July that year, it was opened to an eager public. Tours were sold out, and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population. Clearly Changi Airport had captured public imagination.[^1]  
 
@@ -68,8 +68,21 @@ The design of the iconic 78-metre tall octagonal control tower came from a desig
 
 The video below shows the radome (the dome-like structure on top of the control tower) and the radar equipment inside it being replaced in 2015.
 
-<iframe width="800" src="https://www.youtube.com/embed/Bjng3mcRUYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Bjng3mcRUYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" src="https://www.youtube.com/embed/Bjng3mcRUYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div style="background-color: white;"><i>Courtesy of Civil Aviation Authority of Singapore</i></div>
+
+
+#### **Further Resources from the National Library and National Archives of Singapore**
+#### Speeches
+
+#### Oral History Interviews
+
+#### Videos
+
+#### Books
+
+
+
 
 
 
