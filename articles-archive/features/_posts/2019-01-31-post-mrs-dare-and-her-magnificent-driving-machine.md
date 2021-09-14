@@ -134,3 +134,29 @@ We left on 2 May for Dusun Tua – 17 miles of charming road through very pretty
 <img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare9.JPG">
 <div style="background-color: white;">The Public Gardens in Kuala Lumpur that Mrs Dare visited. The lake can be seen on the right. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 218). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350))</i></div>
 
+The resthouse is beautifully clean and the attendants most obliging, especially a cook who made delicious cakes for tea. The hot sulphur baths are delightful; the water is led into big bath tanks direct from the natural spring, which bubbles up at a temperature of 162 degrees Fahrenheit.
+
+After tea, we had a stroll up the road for a couple of miles, and saw a few huts or shelters, much like fowl houses, and caught sight of some figures inside, but really did not see any *Sakeis* (aborigines) properly. The following day at 10.30 am, we left for Seremban, a distance of 44 miles, and had a delightful run to Kajang, Semenyih and Beranang – the roads were very good but as soon as we passed the frontier into Negri Sembilan, they became stony and full of ruts. Moreover, many of the bridges were being re-made, so we had to cross rough little structures at the side of the road.
+
+All went well until after we had passed Mantin and were well up the pass to Setul. There we were stopped by two fallen trees right across the road. As these trees must have been about 150 feet long and thick in proportion, it would have taken days before they are removed. So we were thankful when the government coolies arrived and cut away the bank on the hillside and widened the road sufficiently for our car to crawl underneath, with her hood taken off completely and the driver’s head well bent down. It really was great fun, in spite of the hour-and-a-half’s delay! Several carts, with their *kadjang* (screw pine) roofs removed, and two dog-carts also got safely through. After this, we met with no more adventures, and the rest of the road was in good order right into Seremban, which we reached at 2.40 pm.
+
+#### **Seremban and on to Singapore**
+
+<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare10.JPG">
+<div style="background-color: white;">The Public Gardens in Kuala Lumpur that Mrs Dare visited. The lake can be seen on the right. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 218). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350))</i></div>
+
+Seremban, the capital of Negri Sembilan, is a good-sized town prettily situated on hilly ground and backed by ranges of fine mountains. A great deal of tin is brought in here for export by rail to Port Dickson on the coast, and thence by steamer to Singapore. There are boxes, vases, trays, frames, and all sorts of quaint Chinese things manufactured in solid tin and fancifully engraved. It is as bright as silver and only requires polishing with a hard brush to keep bright.
+
+Kind friends again hospitably entertained us for a couple of days and then we continued our journey to Malacca by the Remban road, a distance of 60 miles. An excellent surface and shady road greeted us, and we passed through well-grown rubber plantations and finely wooded hills. We drove leisurely as it was so cool and pleasant, and reached Tampin (33 miles) by 12.30 pm.
+
+After a pleasant little tiffin with the District Officer Mr Flemming, we continued at 3 pm and crossed the boundary into Malacca territory. The road became execrable as far as Alor Gajah and turned into a series of mud holes. On nearing Malacca, there was a distinct improvement and we were able to quicken the pace a bit. We drove all the way to Tanjong Kling by the excellent coast road, before staying a week with the Resident Councillor and his wife. Meanwhile, Ichiban was sent by train to Port Swettenham and shipped from there in the steamer Selangor.
+
+We boarded the Selangor in Malacca and reached Singapore on 13 May, after a most enjoyable trip of 686 miles.
+
+|A few months after Mrs Dare returned to Singapore, her first husband George Mildmay Dare passed away. Some years later, she married G.P. Owen and became known as Mrs G.P. Owen. She was an accomplished singer and musician, and an active figure in the social and cultural life of the colony, frequently taking part in musical and theatrical performances. She was also one of the founders of the Ladies’ Lawn Tennis Club.
+
+|She passed away from an illness on 28 January 1927 and her remains were laid to rest at Bidadari Cemetery.
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
+
+#### **References**
