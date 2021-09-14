@@ -107,41 +107,45 @@ Fuelled by expanding geographical knowledge, the writers of these fantastical st
 	
 #### NOTES
 
-[^1]: 
+[^1]: Mary B. Campbell, *The Witness and the Other World: Exotic European Travel Writing, 400–1600* (Ithaca: Cornell University Press, 1998), 146. (Not available in NLB holdings)
 
-[^2]: 
+[^2]: 1 Kings 9:26–28. The Holy Bible (King James Version).
 
-[^3]: 
+[^3]: Other mentions of Ophir in the Bible can be found in 1 Kings 10:12, 14; 1 Kings 10:21–23; 2 Chronicles 8:16.
 
-[^4]: 
+[^4]: Giovanni Lorenzo d’Anania, [*L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*](https://archive.org/details/ARes37419) (Venezia: Presso il Muschio, 1582), 265, Internet Archive, https://archive.org/details/ARes37419.
 
-[^5]: 
 
-[^6]: 
+[^5]: D’Anania, [*L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*](https://archive.org/details/ARes37419), 265.
 
-[^7]: 
 
-[^8]: 
+[^6]: D’Anania, [*L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*](https://archive.org/details/ARes37419), 268.
 
-[^9]: 
+[^7]: D’Anania, [*L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*](https://archive.org/details/ARes37419), 268–9.
 
-[^10]: 
+[^8]: See Mark Poster, *The Utopian Thought of Restif De La Bretonne* (New York: New York University Press, 1971). (Not available in NLB holdings)
 
-[^11]: 
+[^9]: Nicolas Edme Restif de La Bretonne, *La Découverte Australe par un Homme-volant, ou le Dedale Francais*, vol. 3 (Paris: Leipzig, 1781), 14, 20, Bibliothèque Nationale de France, https://gallica.bnf.fr/ark:/12148/bpt6k1019190.texteImage.
 
-[^12]: 
+[^10]: Restif de la Bretonne, *La Découverte Australe par un Homme-volant, ou le Dedale Francais*, 31–32, 34, 55, 81.
 
-[^13]: 
 
-[^14]: 
+[^11]: Restif de la Bretonne, *La Découverte Australe par un Homme-volant, ou le Dedale Francais*, 82; See also Londa Schiebinger, *Nature’s Body: Gender in the Making of Modern Science* (New Jersey: Rutgers University Press, 2004), 109. (Not available in NLB holdings)
 
-[^15]: 
+[^12]: François Blanchet, *Apologues et Contes Orientaux, etc. par l’auteur des Variétés Morales et Amusantes* (Paris: Chez Debure, 1784), 72, Google Books, https://books.google.com.sg/books?id=CpWoSyxBoQAC&pg=PR55&lpg=PR55&dq=IV. 
 
-[^16]: 
 
-[^17]: 
+[^13]: Dralsé de Grandpierre, [*Relation de Divers Voyages Faits dans l’Afrique, dans l’Amerique, et aux Indes Occidentales*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12976138) (Paris: Chez Jombert, 1718). (From National Library, Singapore, Call no. RRARE 910.41 DRA; Accession no. B20025321D; Microfilm no. NL29328)
 
-[^18]: 
+[^14]: De Grandpierre, [*Relation de Divers Voyages Faits dans l’Afrique, dans l’Amerique, et aux Indes Occidentales*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12976138), 1–3.
 
-[^19]: 
+[^15]: De Grandpierre, [*Relation de Divers Voyages Faits dans l’Afrique, dans l’Amerique, et aux Indes Occidentales*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12976138), 297.
+
+[^16]: De Grandpierre, [*Relation de Divers Voyages Faits dans l’Afrique, dans l’Amerique, et aux Indes Occidentales*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12976138), 325.
+
+[^17]: De Grandpierre, [*Relation de Divers Voyages Faits dans l’Afrique, dans l’Amerique, et aux Indes Occidentales*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12976138), 348.
+
+[^18]: Not to be confused with the earlier Pedra Branca mentioned in the essay. 
+
+[^19]: Paul Longley Arthur, *Virtual Voyages: Travel Writing and the Antipodes, 1605–1837*  (London: Anthem Press, 2011), 3. (Not available in NLB holdings)
 
