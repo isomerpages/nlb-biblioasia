@@ -50,7 +50,7 @@ More crucially, the public display of photographs in the exhibition marked a sig
 
 On 24 March 1935, the Chinese Consul-General to Singapore, Philip K.C. Tyau, presided over the opening of the Overseas Chinese Photographic Exhibition. Newspaper reports hailed the exhibition as the “very first of its kind in Singapore” and the “first one promoted by the Chinese in Malaya”, presumably because it showcased the works of Chinese photographers residing in Malaya even though entries by photographers from Hong Kong were also included.[^17]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/StraitTimes1.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/StraitTimes2.jpg)
 <div style="background-color: white;"><i>The Straits Times</i> featured a selection of photographs from the Overseas Chinese Photographic Exhibition, held at the premises of the Nanyang Chinese Students Society from 24 to 31 March 1935. <i>The Straits Times, 28 March 1935, 20. (From NewspaperSG).</i></div>
 
 
