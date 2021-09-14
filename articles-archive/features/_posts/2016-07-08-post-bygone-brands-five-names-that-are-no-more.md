@@ -258,6 +258,6 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^52]:[British firm buys up Thye Hong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820112-1.2.24.aspx). (1982, January 12). *The Straits Times*, p. 8, Lee, Y. M. (1981, September 23). [Thye Hong ventures into property](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810923-1.2.87.6.aspx). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^53]:Tripathi, S. (1993, March 12). A year of nightmares for biscuit king. The Business Times, p. 10; Lee, H. S. (1990, March 9). French dough creates new biscuit giant. The Business Times, p. 1. Retrieved from NewspaperSG.
+[^53]:Tripathi, S. (1993, March 12). [A year of nightmares for biscuit king](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19930312-1.2.22.8.5.aspx). *The Business Times*, p. 10; Lee, H. S. (1990, March 9). [French dough creates new biscuit giant](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19900309-1.2.5.aspx). *The Business Times*, p. 1. Retrieved from NewspaperSG.
 
-[^54]:The Business Times, 9 Mar 1990, p. 1.
+[^54]:*[The Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19900309-1.2.5.aspx)* , 9 Mar 1990, p. 1.
