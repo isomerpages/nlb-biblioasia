@@ -145,13 +145,13 @@ La Brooy, M. (1987). Where is thy victory? [S.l. : s.n.,]. Call no.: RSING 940.5
 
 O’Donovan, P. (2008). Jungles are never neutral: Wartime in Bahau: An extraordinary story of exile and survival: The diaries of Brother O’Donovan fsc. Ipoh, Malaysia: Media Masters Publishing. Call no.: RSING 940.5308827178 ODO-[WAR] [previously published as: Under the Hinomaru, Ipoh: The La Salle Brothers, 1978]
 
-Oehlers, J. (2011). That’s how it goes: The way of the 90-year life journey of a Singapore Eurasian. Singapore: Select Pub. Call no.: RSING 617.6092 OEH
+Oehlers, J. (2011). [That’s how it goes: The way of the 90-year life journey of a Singapore Eurasian](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14056121). Singapore: Select Pub. Call no.: RSING 617.6092 OEH
 
-Shinozaki, M. (1975). Syonan, my story: The Japanese Occupation of Singapore. Singapore: Asia Pacific Press. Call no.: RCLOS 940.548252 SHI
+Shinozaki, M. (1975). *[Syonan, my story: The Japanese Occupation of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=166564)*. Singapore: Asia Pacific Press. Call no.: RCLOS 940.548252 SHI
 
-Van Cuylenburg, J. B. (1982). Singapore: Through sunshine and shadow. Singapore: Heinemann Asia. Call no.: RSING 959.57 VAN-[HIS]
+Van Cuylenburg, J. B. (1982). *[Singapore: Through sunshine and shadow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080104)*. Singapore: Heinemann Asia. Call no.: RSING 959.57 VAN-[HIS]
 
-Wijeysingha. E., & Nicolas, R. (2006). Going forth…: The Catholic Church in Singapore 1819–2004. Singapore: Nicholas Chia. Call no.: RSING 282.5957 WIJ-[SRN]
+Wijeysingha. E., & Nicolas, R. (2006). *[Going forth…: The Catholic Church in Singapore 1819–2004](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747544)*. Singapore: Nicholas Chia. Call no.: RSING 282.5957 WIJ-[SRN]
 
 <u><b>Newspapers</u></b>
 
@@ -163,9 +163,9 @@ Wijeysingha. E., & Nicolas, R. (2006). Going forth…: The Catholic Church in Si
 
 <u><b>Unpublished sources</u></b>
 
-Heine, Major K.R.R. Royal Engineers. (1945). “Operation Galvanic Slate”. From the private papers of G. Tack. Imperial War Museum, London.
+Heine, Major K.R.R. Royal Engineers. (1945). “*Operation Galvanic Slate*”. From the private papers of G. Tack. Imperial War Museum, London.
 
-Meissonnier, P, (1947). Memories of Bahau: December 1943– October 1945. [Translated by René Nicholas. Originally published as Un évêque missionnaire, chef du STO en Malaise” Missionnaires d’Asie, no 29-30-31].
+Meissonnier, P, (1947). *Memories of Bahau: December 1943– October 1945*. [Translated by René Nicholas. Originally published as *Un évêque missionnaire, chef du STO en Malaise Missionnaires d’Asie*, no 29-30-31].
 
 Oral history interviews (available at the National Archives of Singapore)
 Bogaars, George Edwin (1983) (Accession nos.: 000032, 000379)
@@ -186,7 +186,7 @@ For a full list of references behind the research, see Hodgkins, F. (2014). *[Fr
 
 [^3]:Bahau is the principal town of the Jempol district. The name Bahau is believed to have derived from a Chinese phrase, 馬口, literally translated as “Horse’s mouth”.
 
-[^4]:Hodgkins, F. (2014). From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
+[^4]:Hodgkins, F. (2014). *[From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200929389)*. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
 
 [^5]:The term Eurasian refers to a person of mixed European-Asian ancestry. Historically, it refers to anyone who descended from the first European-Asian unions in the region between the 16th and 18th centuries. Most Eurasians in Singapore trace the European part of their ancestry to the Portuguese, Dutch or British.
 
@@ -200,14 +200,14 @@ For a full list of references behind the research, see Hodgkins, F. (2014). *[Fr
 
 [^10]:Force 136 operated in Japanese-occupied Southeast Asia during World War II and was the general cover name for a branch of the British World War II organisation, the Special Operations Executive (SOE).
 
-[^11]:Wijeysingha E., & Nicolas, R. (2006). Going forth…: The Catholic Church in Singapore (p. 140). Singapore. Nicholas Chia. Call no.: RSING 282.5957 WIJ
+[^11]:Wijeysingha E., & Nicolas, R. (2006). *[Going forth…: The Catholic Church in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747544)* (p. 140). Singapore. Nicholas Chia. Call no.: RSING 282.5957 WIJ
 
-[^12]:Shinozaki, M. (2011). Syonan, my story: The Japanese Occupation of Singapore (p. 136). Singapore: Marshall Cavendish Editions. Call no.: RSING 959.57023 SHI-[HIS]
+[^12]:Shinozaki, M. (2011). *[Syonan, my story: The Japanese Occupation of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13699400)* (p. 136). Singapore: Marshall Cavendish Editions. Call no.: RSING 959.57023 SHI-[HIS]
 
-[^13]:Shinozaki, 2011, p. 23.
+[^13]:[Shinozaki](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13699400), 2011, p. 23.
 
-[^14]:Shinozaki, 2011, p. 159.
+[^14]:[Shinozaki](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13699400), 2011, p. 159.
 
-[^15]:Tan, B. L. (Interviewer). (1985, August 17). Oral history interview with Herman Marie de Souza. [Transcript of MP3 Recording No. 000592/06/03, p. 28]. Retrieved from National Archives of Singapore.
+[^15]:Tan, B. L. (Interviewer). (1985, August 17). [Oral history interview with Herman Marie de Souza](http://www.nas.gov.sg/archivesonline/viewer?uuid=f320c5a2-115d-11e3-83d5-0050568939ad-OHC000592_003). [Transcript of MP3 Recording No. 000592/06/03, p. 28]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/).
 
-[^16]:De Souza, P. F. (1946, August 19). Spy and humanitarian. The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^16]:De Souza, P. F. (1946, August 19). [Spy and humanitarian](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460819-1.2.42.4.aspx). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
