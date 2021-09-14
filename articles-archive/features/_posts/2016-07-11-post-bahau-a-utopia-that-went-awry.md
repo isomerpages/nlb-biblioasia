@@ -96,7 +96,7 @@ I feel very privileged to have met so many survivors and have had access to so m
 
 |**THE BISHOP WHO LED BY EXAMPLE**|
 
-|<img src="/images/Vol-12-issue-2/bahau/07-bahau.jpg">Bishop Adrien Devals was a French priest who became the leader of the Catholics in Singapore from the late 1930s. He led the first group of settlers to Bahau and tragically died there. <i>All rights reserved, Pilon, M., & Weiler, D. (2011). The French in Singapore: An Illustrated History (1819–Today). Singapore: Editions Didier Millet.</i>|
+|<img style="width:200px" src="/images/Vol-12-issue-2/bahau/07-bahau.jpg">Bishop Adrien Devals was a French priest who became the leader of the Catholics in Singapore from the late 1930s. He led the first group of settlers to Bahau and tragically died there. <i>All rights reserved, Pilon, M., & Weiler, D. (2011). The French in Singapore: An Illustrated History (1819–Today). Singapore: Editions Didier Millet.</i>|
 
 |Bishop Adrien Devals, who led the first group of settlers in Bahau and tragically died there, should be more widely credited for his leadership there under adverse circumstances. Although Bahau failed as an experiment, it does not detract from Devals’ altruistic reasons for approving the resettlement plan.|
 
@@ -114,7 +114,7 @@ I feel very privileged to have met so many survivors and have had access to so m
 
 #### **Mamoru Shinozaki: The Japanese Schindler**
 
-|<img src="/images/Vol-12-issue-2/bahau/08-bahau.jpg">Mamoru Shinozaki was instrumental in saving many lives in Singapore immediately after the surrender of the British on 15 February 1942. <i>All rights reserved, Shinozaki, M. (2011). Syonan, My Story: The Japanese Occupation of Singapore. Singapore: Marshall Cavendish Editions.</i>|
+|<img style="width:200px" src="/images/Vol-12-issue-2/bahau/08-bahau.jpg">Mamoru Shinozaki was instrumental in saving many lives in Singapore immediately after the surrender of the British on 15 February 1942. <i>All rights reserved, Shinozaki, M. (2011). Syonan, My Story: The Japanese Occupation of Singapore. Singapore: Marshall Cavendish Editions.</i>|
 
 |Mamoru Shinozaki, often described as the “Japanese Schindler”, was instrumental in saving many lives in Singapore immediately after the surrender of the British on 15 February 1942.|
 
