@@ -35,12 +35,14 @@ Before construction of this passenger terminal building was even completed, in 1
 
 	
 #### A Matter of National Pride  
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerialview.png)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/notereverse.png)
 Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 note was introduced on 6 August 1979 as part of the bird series.[^6]  
 
 
 
 ####Aerobridges
+![Alt text for image on Isomer site]
 <div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November 1980. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>
 	
 The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges are more accessible, allowing passengers to board planes from the terminal building in all weather conditions, rather than taking a bus and climbing a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
@@ -49,8 +51,7 @@ The aerobridge is commonplace now. But in 1981, a journalist reporting on her to
 
 
 ####The Second Runway
-(/images/vol-17-issue-3/changi-airport-photo-essay/runway2.png)
-Runway II at Changi Airport, 1985. 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/runway2.png)
 <div style="background-color: white;">Runway II at Changi Airport, 1985. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore. </div> 
 
 The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. The second runway was built on almost entirely reclaimed land and became operational in February 1984.[^9]
@@ -58,6 +59,7 @@ The construction of the 3,355-metre second runway was part of Changi Airport’s
 The site of Changi was superior to Paya Lebar for the construction of a second runway. The swampy lands around Paya Lebar might cause a runway built there to sink.[^10]
 
 ####The Iconic Control Tower
+![Alt text for image on Isomer site]
 <div style="background-color: white;">An aerial view of East Coast Parkway and the iconic control tower of Changi Airport, 1996. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>
 
 The design of the iconic 78-metre tall octagonal control tower came from a design competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^11]
