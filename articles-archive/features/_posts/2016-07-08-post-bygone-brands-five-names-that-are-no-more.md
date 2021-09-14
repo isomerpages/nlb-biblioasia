@@ -146,8 +146,84 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/bygone-brands/sueann.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/bygone-brands/Sueann.png">
 	<b>Sue-Ann Chia</b> is a journalist with over 15 years experience covering politics and current affairs at various newspapers, including "The Straits Times" and "Today". She is currently the Associate Director at the Asia Journalism Fellowship and a Director at The Nutgraf, a boutique writing and media consultancy.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+
+#### **Notes**
+
+Das, S. (2008, July 1). A brief history of shopping. The Telegraph. Retrieved from The Telegraph India website.
+
+Vedamani, G. G. (2003). Retail management. Mumbai: Jaico Publishing House. Retrieved from Google Books; National Library Board. (2006). Whiteaway Laidlaw written by Chia, Joshua Yeong Jia. Retrieved from Singapore Infopedia.
+
+Wright, A., & Cartwright, H. A. (Eds.). (1908). Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources (p. 689) London: Lloyd’s Greater Britain Pub. Call no.: RCLOS 959.51033 TWE
+
+National Library Board, 2006.
+
+National Library Board, 2006; Singapore. Urban Redevelopment Authority. (n.d.). Capitol Theatre, Capitol Buildng and Stamford House. Retreived from Urban Redevelopment Authority website.
+
+Maybank. (1998, November 27). Background information on site of Maybank headquarters in Singapore. Retrieved from Maybank website.
+Whiteaway, Laidlaw. (1915, May 31). The Straits Times, p.10. Retrieved from NewspaperSG.
+The late Mr Robert Laidlaw. (1915, November 5). The Straits Times, p. 8. Retrieved from NewspaperSG; Vedamni, 2003.
+National Library Board, 2006; Warm work for mannequins. (1948, November 4). The Straits Times, p. 7. Retrieved from NewspaperSG.
+‘Gussies’ chief here, plans expansion. (1957, December 14). The Straits Times, p. 9; Whiteaway Laidlaw to close in Singapore. (1961, December 28). The Straits Times, p. 6. Retrieved from NewspaperSG.
+Whiteaway building sold for $1.4million. (1961, December 30). The Straits Times, p. 9. Retrieved from NewspaperSG; Maybank. (1998, November 27). Ground breaking ceremony for Maybank headquarters in Singapore. Retrieved from Maybank website.
+New bank will aid the small man. (1949, December 30). The Straits Times, p. 7. Retrieved from NewspaperSG.
+The Straits Times, 30 Dec 1949, p. 7; Steady progress all through the years. (1971, February 4). The Straits Times, p. 6. Retrieved from NewspaperSG.
+The Straits Times, 4 Feb 1971, p. 6.
+Leo, S. (2012). (Ed.). Southeast Asian personalities of Chinese descent: A biographical dictionary (Vol. 1, p.497). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.004951 SOU
+The $3.5 million success story of Singapore’s ‘piggy’ bank. (1960, February 7). The Straits Times, p. 5. Retrieved from NewspaperSG.
+Another venture from a family of pioneers. (1963, March 2). The Straits Times, p. 9. Retrieved from NewspaperSG.
+Another first’ in banking world: An all-woman staff. (1963, August 24). The Straits Times, p. 15; All ladies bank a success. (1966, May 16). The Straits Times, p. 16. Retrieved from NewspaperSG.
+The Straits Times, 4 Feb 1971, p. 6.
+Johnson, B. (1971, June 5). Haw Par: UK firm acquires big stake. The Straits Times, p. 1; Johnson, B. (1971, June 18). It’s a deal: $22m cash! The Straits Times, p. 1. Retrieved from NewspaperSG. 
+Retired head of Chung Khiaw to run insurance companies. (1971, August 3). The Straits Times, p. 11. Retrieved from NewspaperSG.
+Dato Aw dies during visit to Chile. (1971, August 24). New Nation, p. 1; Raymond, J. (2002, December 5). Tiger Balm’s poor old lady. Today, p. 1. Retrieved from NewspaperSG.
+Raja to launch Singapore TV. (1963, February 13). The Straits Times, p. 1. Retrieved from NewspaperSG.
+Lim, B. T. (1966, April 28). First Singapore electronics factory. The Straits Times, p. 15. Retrieved from NewspaperSG.
+The Straits Times, 28 Apr 1966, p. 15.
+Television assembly factory plans further extension. (1965, December 4). The Straits Times, p. 29. Retrieved from NewspaperSG; The Straits Times, 28 Apr 1966, p. 15.
+Company farsighted. (1966, April 28). The Straits Times, p.15. Retrieved from NewspaperSG
+One home in six has TV. (1966, April 26). The Straits Times, p. 15. Retrieved from NewspaperSG.
+Page 15 Advertisements Column 1: Setron. (1966, April 26). The Straits Times, p. 15. Retrieved from NewspaperSG.
+Ho, A. L. (2015, May 24). Setron, a bright spark in troubled times. The Sunday Times, p. 42. Microfilm no.: NL 33501
+Setron: Five years of steady growth. (1971, April 28). The Straits Times, p. 20. Retrieved from NewspaperSG.
+The Straits Times, 28 April 1971, p. 20; Bankers, businessmen among board members. (1971, April 28). The Straits Times, p. 20. Retrieved from NewspaperSG.
+The Sunday Times, 24 May 2015, p. 42. 
+The Sunday Times, 24 May 2015, p. 42.
+Seah, R. (1981, February 3). A good shot in the right direction. The Business Times, p. 6. Retrieved from NewspaperSG.
+The Business Times, 3 Feb 1981, p. 6.
+The Business Times, 3 Feb 1981, p. 6.
+The Business Times, 3 Feb 1981, p. 6.
+National Library Board. (2016). Three Rifles Holdings is established. Retrieved from HistorySG.
+Tan, C. (1997, September 29). Three Rifles sets its sights on property development. The Straits Times, p. 48. Retrieved from NewspaperSG.
+
+Yap, S. (2003, April 3). TR Networks expanding market into Singapore. The Business Times. p. 8. Retrieved from NewspaperSG.
+
+Goh, E. Y. (2005, January 11). TR Networks buys Three Rifles. The Straits Times, p. H17. Retrieved from NewspaperSG.
+
+Khin, N. (2006, November 23). Three Rifles looks to open Balmain store in Singapore. The Business Times, p. 7. Retrieved from NewspaperSG.
+
+National Heritage Board. (2015, July 2). Thye Hong Centre. Retrieved from National Heritage Board website; $250,000 biscuit plant in Singapore. (1935, March 27). The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+The Straits Times, 27 Mar 1935, p. 13; 1,500 tons of biscuits every month. (1952, November 11). The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+Ee, B. L. (1960, April 25). Kidnap: Body found. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Cheong, Y. S. (1965, July 23). Biscuit king’s son shot. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Soh, T. K. (1965, December 12). Pride and prejudice. The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+Lee, G. (1964, October 28). Local biscuits and sweets measure up to world standard. The Straits Times, p. 52. Retrieved from NewspaperSG.
+
+The Straits Times, 28 Oct 1964, p. 52.
+
+English biscuits to be made locally. (1971, June 23). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+British firm buys up Thye Hong. (1982, January 12). The Straits Times, p. 8, Lee, Y. M. (1981, September 23). Thye Hong ventures into property. The Straits Times, p. 15. Retrieved from NewspaperSG.
+
+Tripathi, S. (1993, March 12). A year of nightmares for biscuit king. The Business Times, p. 10; Lee, H. S. (1990, March 9). French dough creates new biscuit giant. The Business Times, p. 1. Retrieved from NewspaperSG.
+
+The Business Times, 9 Mar 1990, p. 1.
