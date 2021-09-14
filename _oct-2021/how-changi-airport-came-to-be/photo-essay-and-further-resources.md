@@ -73,15 +73,15 @@ The design of the iconic 78-metre tall octagonal control tower came from a desig
 
 
 ####NOTES
-[^1]: “Crowds Flock to Airport,” New Nation, 3 June 1981, 6; “250,000 Have Visited Airport So Far,” Straits Times, 16 June 1981, 10 (From NewspaperSG); Department of Statistics Singapore, Population Trends 2020 (Department of Statistics, Ministry of Trade & Industry, 2020), 37. ↩
+[^1]: “Crowds Flock to Airport,” <i>New Nation</i>, 3 June 1981, 6; “250,000 Have Visited Airport So Far,” <i>Straits Times</i>, 16 June 1981, 10 (From NewspaperSG); Department of Statistics Singapore, <i>Population Trends 2020</i> (Department of Statistics, Ministry of Trade & Industry, 2020), 37. 
 
-[^2]: Lee Kuan Yew, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991) ↩
+[^2]: Lee Kuan Yew, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991) 
 
-[^3]: Changi Airport Group, “50 Years of Air Travel in Singapore,” Changi Connection, 2015, 5. ↩
+[^3]: Changi Airport Group, “50 Years of Air Travel in Singapore,” <i>Changi Connection</i> (Singapore: Changi Airport Group, 2015,) 5. 
 
-[^4]: “Govt Plans $100 Mil System at Changi,” Business Times, 18 February 1977, 10. (From NewspaperSG) ↩
+[^4]: “Govt Plans $100 Mil System at Changi,” Business Times, 18 February 1977, 10. (From NewspaperSG) 
 
-[^5]: Janie Khoo, “Plan for $200m Second Changi Terminal under Study,” Straits Times, 4 March 1980, 8; “This Is the Pride of Changi Airport,” New Nation, 7 July 1977, 4. (From NewspaperSG) ↩
+[^5]: Janie Khoo, “Plan for $200m Second Changi Terminal under Study,” Straits Times, 4 March 1980, 8; “This Is the Pride of Changi Airport,” New Nation, 7 July 1977, 4. (From NewspaperSG) 
 
 [^6]: “Birds to Drive Out Orchids,” Business Times, 4 August 1979, 12. (From NewspaperSG) 
 
