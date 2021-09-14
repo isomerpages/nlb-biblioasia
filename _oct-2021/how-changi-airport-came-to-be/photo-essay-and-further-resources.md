@@ -68,7 +68,10 @@ The construction of the 3,355-metre second runway was part of Changi Airport’s
 
 The design of the iconic 78-metre tall octagonal control tower came from a design competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^10]
 
+The video below shows the radome (the dome-like structure on top of the control tower) and the radar equipment inside it being replaced in 2015.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bjng3mcRUYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="background-color: white;"><i>Courtesy of Civil Aviation Authority of Singapore</i></div>
 
 ####NOTES
 [^1]: “[Crowds Flock to Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.28),” <i>New Nation</i>, 3 June 1981, 6; “[250,000 Have Visited Airport So Far](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810616-1.2.50.4),” <i>Straits Times</i>, 16 June 1981, 10 (From NewspaperSG); Department of Statistics Singapore, <i>Population Trends 2020</i> (Department of Statistics, Ministry of Trade & Industry, 2020), 37. 
