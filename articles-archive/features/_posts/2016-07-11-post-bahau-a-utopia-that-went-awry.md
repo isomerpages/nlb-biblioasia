@@ -180,19 +180,34 @@ For a full list of references behind the research, see Hodgkins, F. (2014). *[Fr
 
 #### **Notes**
 
-Museum commemorating the site of the British surrender of Singapore to the Japanese on 15 February 1942. Located at Upper Bukit Timah Road, it is currently closed for renovations and will open in the first quarter of 2017.
-Established in Singapore in 1919, the Eurasian Association is one of the earliest community associations set up to look after the interests of Eurasians.
-Bahau is the principal town of the Jempol district. The name Bahau is believed to have derived from a Chinese phrase, 馬口, literally translated as “Horse’s mouth”.
-Hodgkins, F. (2014). From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
-The term Eurasian refers to a person of mixed European-Asian ancestry. Historically, it refers to anyone who descended from the first European-Asian unions in the region between the 16th and 18th centuries. Most Eurasians in Singapore trace the European part of their ancestry to the Portuguese, Dutch or British.
-Mamoru Shinozaki had been in Singapore before the war as a press attaché at the Japanese Consulate. Interned by the British for espionage, he was subsequently released by the Japanese when Singapore fell on 15 February 1942. He was then appointed as a senior Japanese official initially with a remit for education and later welfare (see text box above).
-A small town in Malaysia located on the northern tip of east Johor and the southern tip of Pahang, whose name became synonymous with the Chinese settlement set up in September 1943.
-Bishop Adrien Devals was a French priest who became the leader of the Catholics in Singapore from the late 1930s (see text box above).
-Following the fall of Singapore on 15 February 1942, Chinese males between 18 and 50 years of age were ordered to report to designated centres for mass screening. Many of these ethnic Chinese were then rounded up and taken to deserted spots to be summarily executed. This came to be known as Operation Sook Ching (the Chinese term means “purge through cleansing”). It is not known exactly how many people died; the official estimates given by the Japanese is 5,000 but the actual number is believed to be much higher.
-Force 136 operated in Japanese-occupied Southeast Asia during World War II and was the general cover name for a branch of the British World War II organisation, the Special Operations Executive (SOE).
-Wijeysingha E., & Nicolas, R. (2006). Going forth…: The Catholic Church in Singapore (p. 140). Singapore. Nicholas Chia. Call no.: RSING 282.5957 WIJ
-Shinozaki, M. (2011). Syonan, my story: The Japanese Occupation of Singapore (p. 136). Singapore: Marshall Cavendish Editions. Call no.: RSING 959.57023 SHI-[HIS]
-Shinozaki, 2011, p. 23.
-Shinozaki, 2011, p. 159.
-Tan, B. L. (Interviewer). (1985, August 17). Oral history interview with Herman Marie de Souza. [Transcript of MP3 Recording No. 000592/06/03, p. 28]. Retrieved from National Archives of Singapore.
-De Souza, P. F. (1946, August 19). Spy and humanitarian. The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^1]:Museum commemorating the site of the British surrender of Singapore to the Japanese on 15 February 1942. Located at Upper Bukit Timah Road, it is currently closed for renovations and will open in the first quarter of 2017.
+
+[^2]:Established in Singapore in 1919, the Eurasian Association is one of the earliest community associations set up to look after the interests of Eurasians.
+
+[^3]:Bahau is the principal town of the Jempol district. The name Bahau is believed to have derived from a Chinese phrase, 馬口, literally translated as “Horse’s mouth”.
+
+[^4]:Hodgkins, F. (2014). From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
+
+[^5]:The term Eurasian refers to a person of mixed European-Asian ancestry. Historically, it refers to anyone who descended from the first European-Asian unions in the region between the 16th and 18th centuries. Most Eurasians in Singapore trace the European part of their ancestry to the Portuguese, Dutch or British.
+
+[^6]:Mamoru Shinozaki had been in Singapore before the war as a press attaché at the Japanese Consulate. Interned by the British for espionage, he was subsequently released by the Japanese when Singapore fell on 15 February 1942. He was then appointed as a senior Japanese official initially with a remit for education and later welfare (see text box above).
+
+[^7]:A small town in Malaysia located on the northern tip of east Johor and the southern tip of Pahang, whose name became synonymous with the Chinese settlement set up in September 1943.
+
+[^8]:Bishop Adrien Devals was a French priest who became the leader of the Catholics in Singapore from the late 1930s (see text box above).
+
+[^9]:Following the fall of Singapore on 15 February 1942, Chinese males between 18 and 50 years of age were ordered to report to designated centres for mass screening. Many of these ethnic Chinese were then rounded up and taken to deserted spots to be summarily executed. This came to be known as Operation Sook Ching (the Chinese term means “purge through cleansing”). It is not known exactly how many people died; the official estimates given by the Japanese is 5,000 but the actual number is believed to be much higher.
+
+[^10]:Force 136 operated in Japanese-occupied Southeast Asia during World War II and was the general cover name for a branch of the British World War II organisation, the Special Operations Executive (SOE).
+
+[^11]:Wijeysingha E., & Nicolas, R. (2006). Going forth…: The Catholic Church in Singapore (p. 140). Singapore. Nicholas Chia. Call no.: RSING 282.5957 WIJ
+
+[^12]:Shinozaki, M. (2011). Syonan, my story: The Japanese Occupation of Singapore (p. 136). Singapore: Marshall Cavendish Editions. Call no.: RSING 959.57023 SHI-[HIS]
+
+[^13]:Shinozaki, 2011, p. 23.
+
+[^14]:Shinozaki, 2011, p. 159.
+
+[^15]:Tan, B. L. (Interviewer). (1985, August 17). Oral history interview with Herman Marie de Souza. [Transcript of MP3 Recording No. 000592/06/03, p. 28]. Retrieved from National Archives of Singapore.
+
+[^16]:De Souza, P. F. (1946, August 19). Spy and humanitarian. The Straits Times, p. 4. Retrieved from NewspaperSG.
