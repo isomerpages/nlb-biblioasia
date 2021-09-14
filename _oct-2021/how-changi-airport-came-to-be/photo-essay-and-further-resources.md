@@ -79,11 +79,11 @@ The design of the iconic 78-metre tall octagonal control tower came from a desig
 
 [^3]: Changi Airport Group, “50 Years of Air Travel in Singapore,” <i>Changi Connection</i> (Singapore: Changi Airport Group, 2015,) 5. 
 
-[^4]: “Govt Plans $100 Mil System at Changi,” Business Times, 18 February 1977, 10. (From NewspaperSG) 
+[^4]: “Govt Plans $100 Mil System at Changi,” <i>Business Times</i>, 18 February 1977, 10. (From NewspaperSG) 
 
-[^5]: Janie Khoo, “Plan for $200m Second Changi Terminal under Study,” Straits Times, 4 March 1980, 8; “This Is the Pride of Changi Airport,” New Nation, 7 July 1977, 4. (From NewspaperSG) 
+[^5]: Janie Khoo, “Plan for $200m Second Changi Terminal under Study,” <i>Straits Times</i>, 4 March 1980, 8; “This Is the Pride of Changi Airport,” <i>New Nation</i>, 7 July 1977, 4. (From NewspaperSG) 
 
-[^6]: “Birds to Drive Out Orchids,” Business Times, 4 August 1979, 12. (From NewspaperSG) 
+[^6]: “Birds to Drive Out Orchids,” <i>Business Times</i>, 4 August 1979, 12. (From NewspaperSG) 
 
 [^7]: Changi Airport Group, “50 Years of Air Travel in Singapore,” 3. 
 
