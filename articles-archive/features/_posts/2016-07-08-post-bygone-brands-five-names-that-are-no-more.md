@@ -100,4 +100,54 @@ Setron continued to manufacture TV sets until the 1980s. In 1986, it became a su
 
 Many Singaporeans grew up with the trademark Three Rifles shirt, worn by their husbands, fathers or even grandfathers. It was set up by Chong Chong Choong, who left his Kuala Lumpur hometown at age 14 to strike out on his own in Singapore as an apprentice selling shirts and textiles.35
 
- <div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/06-bygonebrands.jpg">Three Rifles Shirts billed its shirts as “the distinctive shirt for the distinguished man about town” in this advertisement dated 19 April 1980 in the <i>New Nation. © New Nation..</i></div>
+ <div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/06-bygonebrands.jpg">Three Rifles Shirts billed its shirts as “the distinctive shirt for the distinguished man about town” in this advertisement dated 19 April 1980 in the <i>New Nation. © New Nation.</i></div>
+ 
+Five years later, in 1955, at age 19, Chong opened his first shop in Bukit Panjang selling shirts from different brands. It was just half a shop space, bought at a princely sum of $7,000 – his hard-earned savings. Business was brisk; in just four years, his half shop had expanded into one full shop space. He stayed in that location for another 10 years, until 1969 when he opened a store at The President, one of Singapore’s first shopping centres (today renamed Serangoon Plaza).36
+
+With the move to a swanky new location, Chong decided to stop selling shirts made by others and produce his own label instead. He employed a part-time designer and 10 workers, and started the Three Rifles Shirt Manufacturing Company. Although the company produced around 1,200 shirts a month, demand soon outstripped supply. Chong needed to expand – fast.
+
+Before opening his first factory in Geylang in 1971, Chong visited shirt factories in Hong Kong, Japan and Europe to get new ideas and contacts of textile manufacturers. Four years later, in 1975, he acquired his second factory at MacPherson. In the meanwhile, he had opened the first Three Rifles shop at People’s Park Complex in 1972. Two other shops within the same premises followed, then another at People’s Park Centre next door, at Peninsula Plaza, at Katong Shopping Centre and at Thomson Plaza.37
+
+By 1981, Three Rifles was worth $4.5 million. Chong had seven retail shops in Singapore, agencies in Indonesia selling his shirts and was looking to break into the European market to compete with established brand names such as Lanvin and Pierre Cardin. His foray into Indonesia selling high-quality shirts was so successful that 40 percent of the shirts produced were sold there in the 1970s and 80s. Again, with rising demand, Chong needed to expand his production. And again, he looked overseas for inspiration.38
+
+This time, Chong bought machines that would automate the entire shirt manufacturing process – allowing his factory to produce more, and faster. There was even a machine just to embroider the Three Rifles logo on every shirt. Besides manufacturing its own brand of clothing, Three Rifles also imported clothing brands such as Lonner, Portfolio and Rhomberg. The company became the regional manufacturer for Emporio Armani, and from 1980, the regional representative for Italian fashion label Caserini.39
+
+In the mid-1990s, Chong began to diversify his business. He branched into commercial and residential property development in Singapore and Malaysia with the formation of Three Rifles Land.40 In 1998, sister company TR Networks, which sold beauty and lifestyle products, was established with Chong as chairman and his son-in-law Ting Yen Hock as chief executive.41 In 2005, Three Rifles was bought over by TR Network,42 and in the following year, Three Rifles International – now a subsidiary of TR Networks – signed a licence agreement with French designer brand Pierre Balmain to manufacture menswear under the brand and sell them in Singapore and Brunei. Within just three months, Three Rifles opened three counters to sell Pierre Balmain clothes at Robinsons and Isetan Scotts in Singapore.43
+
+As far as we can ascertain, the Three Rifles brand does not exist anymore, and all its stores in Singapore have since closed down.
+
+#### **Thye Hong Biscuit & Confectionary Company (1929–90)**
+
+The signature bronze lion and flame-lit torch on top of Thye Hong Biscuit and Confectionary factory at the junction of Alexandra Road and Tiong Bahru Road was a defining landmark in the area at one time. Although the factory began operations in 1935, Thye Hong had been set up earlier in 1929 at 124 Neil Road.44 It was owned by Lee Gee Chong, son of leading banker Lee Choon Seng and the former chairman of the Oversea-Chinese Banking Corporation.
+
+As business grew, the younger Lee built a bigger factory on Alexandra Road at a cost of $250,000. The plant could produce 10–12 tonnes of biscuits daily under hygienic conditions – with the biscuits untouched by human hands. Thye Hong biscuits continued to gain in popularity. In 1952, the company stepped up production with a massive 18-month expansion programme that would increase biscuit production to 1,500 tonnes and confectionary production to 100 tonnes every month.45
+
+ <div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/07-bygonebrands.jpg">Then Minister for Social Affairs Othman Wok (extreme left) visits the factory of Thye Hong Biscuit in 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+ 
+ However, tragedy struck on 20 April 1960. Lee, who had become famous as the “Biscuit King”, was ambushed near his Garlick Avenue home while being driven home by his driver. After Lee’s car was forced into an embankment by another car, three men pulled him out of the vehicle and abducted him. His injured driver was left alone. Five days later, Lee’s body was found wrapped in a blanket and left in a graveyard off Yio Chu Kang Road.46
+
+Further tragedy awaited the family: five years later, in 1965, his son Lee Boon Leong who had taken over the reins at Thye Hong, was shot by armed gangsters in a kidnap bid while he was driving alone along dimly-lit Geylang Lorong 20.47 Fortunately, he underwent an emergency surgery and survived.
+
+Meanwhile, Singapore-made biscuits were “crumbling against the wall of local prejudice”, according to a media report in 1965. Its production declined while that of foreign biscuits imports rose, even though the latter was more expensive. Biscuit bosses blamed several factors, from the on-going Konfrontasi (or Confrontation, 1963–66) with Indonesia closing off a lucrative market to new duties imposed by Malaysia. Foreign packaging was also nicer, they acknowledged.48
+
+Yet, Thye Hong appeared to be going strong. In 1964, it was reported that Thye Hong’s biscuits were served on board Malaysian Airways flights, an indication of its upmarket image. Its factory in Singapore had modern machines, with a staff of over 200 – many of whom were trained by foreign biscuit experts.49 Thye Hong also had another factory in Johor.
+
+Singaporeans growing up in the 1960s and 70s will remember eating popular Thye Hong goodies such as Marie, Cream Crackers and Horlicks biscuits. One of its specialities was the Jam De Luxe biscuit, a rich shortcake biscuit sandwich with sticky pineapple jam in between.50
+
+In 1971, one of Britain’s largest biscuit manufacturers, Huntley and Palmer, entered into an agreement with Thye Hong to produce part of its range of sweet and semi-sweet biscuits in Singapore and Malaysia – under the British firm’s subsidiary Associated Biscuits.51
+
+ <div style="background-color: white;"><img src="/images/Vol-12-issue-2/bygone-brands/08-bygonebrands.jpg">Biscuit tin and paper bag of Thye Hong Biscuit & Confectionery Company from the 1950s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+ 
+ A decade later, in late 1981, Associated Biscuits (Huntley and Palmer) bought Kuan Enterprises, which owned Thye Hong Singapore and Malaysia, for $12 million. With this, the familiar torch and lion trademark on the roof of the factory disappeared when the factory closed down. The site was redeveloped into an office building – Thye Hong Centre – by Thye Hong Properties and Thye Hong Development, set up in 1981 by Lee Boon Leong and his mother, Madam Tay Geok Yap. New chairman and chief executive of Kuan Enterprises Julian Scott said the company would expand the range of products under Thye Hong. Its trademark would be retained and the old emblem would be part of the new factory complex in the western part of Singapore.52
+
+Thye Hong biscuits continued to be sold, although the brand ownership changed hands over the years. Associated Biscuits was acquired by American company Nabisco in 1982 and was eventually bought by Britannia Brands – set up by former Nabisco executive Rajan Pillai – which also owned other Nabisco brands such as Jacob, Ole and Planters.53
+
+In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to purchase Nabisco operations in Singapore, Malaysia, Hongkong and New Zealand for US$180 million.54
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/bygone-brands/sueann.png">
+	<b>Sue-Ann Chia</b> is a journalist with over 15 years experience covering politics and current affairs at various newspapers, including "The Straits Times" and "Today". She is currently the Associate Director at the Asia Journalism Fellowship and a Director at The Nutgraf, a boutique writing and media consultancy.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
