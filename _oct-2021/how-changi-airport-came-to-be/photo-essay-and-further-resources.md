@@ -42,7 +42,7 @@ Before construction of this passenger terminal building was even completed, in 1
 Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 note was introduced on 6 August 1979 as part of the bird series.[^6]
 	
 	
-[PHOTO]
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerobridges.png)
 <div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November  1980. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>
 
 The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges are more accessible, allowing passengers to board planes from the terminal building in all weather conditions, rather than taking a bus and climbing a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
@@ -51,7 +51,7 @@ The aerobridge is commonplace now. But in 1981, a journalist reporting on her to
 
 	
 	
-[PHOTO]
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/runway2.png)
 <div style="background-color: white;">Runway II at Changi Airport, 1985. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>  	
 	
 The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. The second runway was built on almost entirely reclaimed land and became operational in February 1984.[^9]  
