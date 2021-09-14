@@ -184,11 +184,11 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^15]:Leo, S. (2012). (Ed.). *[Southeast Asian personalities of Chinese descent: A biographical dictionary](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14641662)* (Vol. 1, p.497). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.004951 SOU
 
-[^16]:[The $3.5 million success story of Singapore’s ‘piggy’ bank](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600207-1.2.44.aspx). (1960, February 7). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^16]:[The $3.5 million success story of Singapore’s ‘piggy’ bank](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600207-1.2.44.aspx). (1960, February 7). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^17]:Another venture from a family of pioneers. (1963, March 2). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^17]:[Another venture from a family of pioneers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630302-1.2.88.1.aspx). (1963, March 2). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^18]:Another first’ in banking world: An all-woman staff. (1963, August 24). The Straits Times, p. 15; All ladies bank a success. (1966, May 16). The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^18]:[Another first’ in banking world: An all-woman staff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630824-1.2.108.aspx). (1963, August 24). *The Straits Times*, p. 15; All ladies bank a success. (1966, May 16). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
 [^19]:The Straits Times, 4 Feb 1971, p. 6.
 
