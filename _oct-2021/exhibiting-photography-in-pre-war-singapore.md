@@ -2,7 +2,6 @@
 title: Exhibiting Photography In Pre-war Singapore
 permalink: /vol-17/issue-3/oct-dec-2021/prewarphotography
 ---
-
 #### The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. **Zhuang Wubin** revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/Blank%20-%20Facing%20Page.jpg)
 <div style="background-color: white;">A souvenir guide produced for the Malaya Borneo Exhibition held in Singapore from 31 March to 17 April 1922. <i>Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya (Singapore: Malaya Borneo Exhibition, 1922). (From National Library, Singapore, call no. RRARE 607.34595 MAL; accession no. B02935804I).</i></div>
@@ -37,7 +36,7 @@ When plans were drawn up for the Malaya Borneo Exhibition in Singapore, the orga
 
 In January 1922, an open call was held for submissions from “amateur photographers of all races” for the photographic display. At the time, amateur photography connoted an artistic pursuit as opposed to  professional photography where practitioners engaged in photography for profit. One of the conditions stipulated was that the photographs had to be taken in either the Malay Peninsula or Borneo.[^11]
 
-Exhibitors could submit photographs in any of the seven classes (or categories): (i) pictorial photography; (ii) portrait studies; (iii) outdoor or fancy-dress portraits; (iv) nature studies; (v) native life studies; (vi) places of interest, and (vii) miscellaneous. The first three classes were “intended solely for work of a pictorial and artistic nature”, while “photographs exhibited merely for their interest or technique” should be submitted to the remaining classes.[^12] Not surprisingly, the winning submissions were dominated by Japanese practitioners of the SCC and British members of the MCC. Norris and his wife also won multiple awards.[^13 ]
+Exhibitors could submit photographs in any of the seven classes (or categories): (i) pictorial photography; (ii) portrait studies; (iii) outdoor or fancy-dress portraits; (iv) nature studies; (v) native life studies; (vi) places of interest, and (vii) miscellaneous. The first three classes were “intended solely for work of a pictorial and artistic nature”, while “photographs exhibited merely for their interest or technique” should be submitted to the remaining classes.[^12] Not surprisingly, the winning submissions were dominated by Japanese practitioners of the SCC and British members of the MCC. Norris and his wife also won multiple awards.[^13]
 
 Professional photographers were not left out. A Photography (Professional) Committee was also set up to organise submissions from professional photographers. In that committee of five, two Asian names stood out: Lee Keng Yan (most likely Lee King Yan; 李镜仁) and S.K. Yamahata.[^14] Their inclusion suggests that by the early 1920s, Japanese and Chinese studio photographers had gained a foothold in Singapore’s photographic trade, and could no longer be sidelined by the colonial government or European studio owners.
 
