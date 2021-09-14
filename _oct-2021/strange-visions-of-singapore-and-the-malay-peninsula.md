@@ -1,4 +1,5 @@
 ---
 title: Strange Visions of Singapore and the Malay Peninsula
-permalink: /oct-2021/permalink
+permalink: /vol-17/issue-3/oct-dec-2021/strangevision
 ---
+
