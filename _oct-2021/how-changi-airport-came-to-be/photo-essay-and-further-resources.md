@@ -37,7 +37,7 @@ A year before construction of this passenger terminal building was  completed, t
 <div style="background-color: white;">An aerial view of the completed Changi Airport, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div> 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/notereverse.png)
-<div style="background-color: white;">Reverse side of the new $20 note. <i>Courtesy of the Monetary Authority of Singapore</i>.</div> 
+<div style="background-color: white;">Reverse side of the new $20 note featuring the airport. <i>Courtesy of the Monetary Authority of Singapore</i>.</div> 
 
 Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 bill was introduced on 6 August 1979 as part of the bird series currency notes.[^6]  
 
@@ -50,7 +50,7 @@ Changi Airport was to become a symbol of national pride. Two years before the ai
 	
 The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges allow passengers to board planes from the terminal building rather than having to take a bus and climb a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
 
-The aerobridge is commonplace now. But in 1981, a journalist reporting on her tour of the Changi Airport remarked that the highlight was “troop[ing] down an aerobridge”.[^8]
+The aerobridge is commonplace now. But in 1981, a journalist reporting on her tour of the Changi Airport remarked that the tour highlight was “troop[ing] down an aerobridge”.[^8]
 
 
 #### **The Second Runway**
