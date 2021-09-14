@@ -26,7 +26,7 @@ LORADS was designed to guide 250 aircrafts simultaneously—whether they are lan
 	
 	
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/passenger%20building.png)
-<div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>
+<div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
 The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year and was the largest in the entire airport complex. Underneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
 
