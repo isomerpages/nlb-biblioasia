@@ -36,7 +36,12 @@ Before construction of this passenger terminal building was even completed, in 1
 	
 #### A Matter of National Pride  
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerialview.png)
+<div style="background-color: white;">An aerial view of the completed Changi Airport, 1981. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div> 
+
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/notereverse.png)
+<div style="background-color: white;">Reverse side of the new $20 note. *Courtesy of the Monetary Authority of Singapore*.</div> </div>  
+
+
 Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 note was introduced on 6 August 1979 as part of the bird series.[^6]  
 
 
