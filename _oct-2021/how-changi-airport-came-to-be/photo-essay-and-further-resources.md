@@ -62,7 +62,7 @@ The site of Changi was superior to Paya Lebar for the construction of a second r
 
 
 [photo]	
-<div style="background-color: white;">An aerial view of East Coast Parkway and the iconic control tower of Changi Airport, 1996. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.	
+<div style="background-color: white;">An aerial view of East Coast Parkway and the iconic control tower of Changi Airport, 1996. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>	
 	
 The design of the iconic 78-metre tall octagonal control tower came from a design competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^11]	
 	
