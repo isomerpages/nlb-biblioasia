@@ -139,6 +139,7 @@ I feel very privileged to have met so many survivors and have had access to so m
 #### **References**
 
 <u><b>Books</b></u>
+
 Hodgkins, F. (2014). *[From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200929389)*. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
 
 La Brooy, M. (1987). *[Where is thy victory?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5071148)* [S.l. : s.n.,]. Call no.: RSING 940.5481 LAB-[WAR]
