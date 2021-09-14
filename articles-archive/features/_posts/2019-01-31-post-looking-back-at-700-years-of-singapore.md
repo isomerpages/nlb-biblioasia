@@ -94,9 +94,9 @@ Having been left to fend for themselves and endure the atrocities of war, the pe
 
 Yet with the abrupt arrival of independence in 1965, a massive burden was thrust upon the new government led by the People’s Action Party. How the first generation of leaders laid the foundations of what Singapore has become today is a whole other story of its own, complete with its fair share of moral courage, enterprise and resilience against a backdrop of struggle and turbulence.
 
-Diversity and Differences
+#### **Diversity and Differences**
 
-Whether in colonial, independent or early Singapore, a diverse, migrant population has always characterised the island-city. In Daoyi Zhilue, Wang Dayuan notes that Chinese people lived alongside orang laut natives at Longyamen (“Dragon’s Tooth Strait”; most likely referring to the waterway between Sentosa and Labrador Point), where ships called for trade. Later, the Malaccan immigrants who came with Farquhar largely comprised Indians and Straits Chinese.24
+Whether in colonial, independent or early Singapore, a diverse, migrant population has always characterised the island-city. In *Daoyi Zhilue*, Wang Dayuan notes that Chinese people lived alongside *orang laut* natives at Longyamen (“Dragon’s Tooth Strait”; most likely referring to the waterway between Sentosa and Labrador Point), where ships called for trade. Later, the Malaccan immigrants who came with Farquhar largely comprised Indians and Straits Chinese.24
 
 In 1822, Raffles, dissatisfied with the way Farquhar had developed the settlement, instructed assistant engineer Philip Jackson to draw up a plan for the town of Singapore. Titled “Plan of the Town of Singapore” (more commonly known as Raffles Town Plan or Jackson Plan), the blueprint demarcated living spaces and organised the island’s layout according to ethnic communities. Hence, the diverse population was segregated rather than united, with different neighbourhoods laid out for the Chinese, Malays, Bugis and Indians, as well as a dedicated European Town by the Singapore River.25
 
@@ -104,11 +104,11 @@ Each ethnic group retained its distinct culture and livelihood, and continued sp
 
 By 1833, “Chinese, Malays, Bugis, Javanese, Balinese, natives of Bengal and Madras, Parsees, Arabs, and Caffrees [Africans]” could all be found in Singapore, as a great variety of ships sailed into its protected harbour.26 The story of Singapore as a thriving port city in Asia is “the story of multi-racial communities and networks”.27
 
-In the earlier decades of the 20th century, The Malaya Tribune received much support as the newspaper that expressed the voices of the local communities. Readers and contributors often discussed ideas of nationhood and belonging, and of their role in Singapore.
+In the earlier decades of the 20th century, *The Malaya Tribune* received much support as the newspaper that expressed the voices of the local communities. Readers and contributors often discussed ideas of nationhood and belonging, and of their role in Singapore.
 
-As Chinese and Indian workers continued to stream into Malaya in search of work, questions of who were the rightful sons and heirs of the Malayan land (was it open to all races who claimed Malaya as their home, or were only the Malays eligible?), and whether it was appropriate to maintain ties with one’s country of origin, were debated in the Tribune. One lawyer wrote in the newspaper: “No matter what their nationality is, they [the local-born] should be proud to be called Sons of Malaya as much as Sons of other Countries”.28
+As Chinese and Indian workers continued to stream into Malaya in search of work, questions of who were the rightful sons and heirs of the Malayan land (was it open to all races who claimed Malaya as their home, or were only the Malays eligible?), and whether it was appropriate to maintain ties with one’s country of origin, were debated in the *Tribune*. One lawyer wrote in the newspaper: “No matter what their nationality is, they [the local-born] should be proud to be called Sons of Malaya as much as Sons of other Countries”.28
 
-Identity and Unity
+#### **Identity and Unity**
 
 In light of the increasing dissatisfaction with the colonial administration, a sense of collectiveness among the locals began simmering: what was the significance of their living together, and how were these dwellers to distinguish themselves through their sense of belonging to this island? If these migrants of diverse backgrounds considered this land as their home, how should they be united in order to be set apart?
 
