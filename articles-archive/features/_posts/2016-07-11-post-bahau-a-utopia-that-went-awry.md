@@ -139,11 +139,11 @@ I feel very privileged to have met so many survivors and have had access to so m
 #### **References**
 
 <u><b>Books</b></u>
-Hodgkins, F. (2014). From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
+Hodgkins, F. (2014). *[From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200929389)*. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
 
-La Brooy, M. (1987). Where is thy victory? [S.l. : s.n.,]. Call no.: RSING 940.5481 LAB-[WAR]
+La Brooy, M. (1987). *[Where is thy victory?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5071148)* [S.l. : s.n.,]. Call no.: RSING 940.5481 LAB-[WAR]
 
-O’Donovan, P. (2008). Jungles are never neutral: Wartime in Bahau: An extraordinary story of exile and survival: The diaries of Brother O’Donovan fsc. Ipoh, Malaysia: Media Masters Publishing. Call no.: RSING 940.5308827178 ODO-[WAR] [previously published as: Under the Hinomaru, Ipoh: The La Salle Brothers, 1978]
+O’Donovan, P. (2008). *[Jungles are never neutral: Wartime in Bahau: An extraordinary story of exile and survival: The diaries of Brother O’Donovan fsc](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13112699)*. Ipoh, Malaysia: Media Masters Publishing. Call no.: RSING 940.5308827178 ODO-[WAR] [previously published as: Under the Hinomaru, Ipoh: The La Salle Brothers, 1978]
 
 Oehlers, J. (2011). [That’s how it goes: The way of the 90-year life journey of a Singapore Eurasian](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14056121). Singapore: Select Pub. Call no.: RSING 617.6092 OEH
 
