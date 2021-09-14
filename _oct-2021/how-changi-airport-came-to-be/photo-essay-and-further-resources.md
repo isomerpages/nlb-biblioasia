@@ -29,7 +29,7 @@ On 17 February 1977, the Singapore government signed a S$19 million contract wit
 	
 The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year and was the largest in the entire airport complex. Underneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
 
-About a year before construction of this passenger terminal building was even completed, the government was already looking into building a second one to expand the capacity of Changi Airport, as 17 million passengers were estimated to pass through the airport by 1989.[^5]  
+A year before construction of this passenger terminal building was  completed, the government was already looking into building a second one to expand the capacity of the airport, as 17 million passengers were estimated to pass through the airport by 1989.[^5]  
 
 	
 #### **A Matter of National Pride**  
