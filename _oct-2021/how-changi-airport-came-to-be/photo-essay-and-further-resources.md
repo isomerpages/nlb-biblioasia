@@ -88,8 +88,8 @@ The design of the iconic 78-metre tall octagonal control tower came from a desig
 
 [^8]: Agatha Koh, “[Changi Experience for Only 50 Cents](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.27),” <i>New Nation</i>, 3 June 1981, 6. (From NewspaperSG) 
 
-[^9]: “[Cost for Second Runway Soars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820906-1.2.63),” <i>Straits Times</i>, 6 September 1982, 13; Khoo, “Plan for $200m Second Changi Terminal under Study. (From NewspaperSG) 
+[^9]: “[Cost for Second Runway Soars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820906-1.2.63),” <i>Straits Times</i>, 6 September 1982, 13; Khoo, “[Plan for $200m Second Changi Terminal under Study](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800304-1.2.44).” (From NewspaperSG) 
 
-[^10]: “Changi Site Better Choice for Airport,” <i>New Nation</i>, 18 June 1981, 5. (From NewspaperSG) 
+[^10]: “[Changi Site Better Choice for Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810618-1.2.24),” <i>New Nation</i>, 18 June 1981, 5. (From NewspaperSG) 
 
-[^11]: Arthur Seah Peng Chua, “Control Tower Design Was the Effort of PWD Architects,” <i>Singapore Monitor</i>, 2 February 1985, 15; “Changi Airport Wins Awards,” <i>Business Times</i>, 28 August 1985, 2. (From NewspaperSG)
+[^11]: Arthur Seah Peng Chua, “[Control Tower Design Was the Effort of PWD Architects](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850202-1.2.21.4),” <i>Singapore Monitor</i>, 2 February 1985, 15; “[Changi Airport Wins Awards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19850828-1.2.13.3),” <i>Business Times</i>, 28 August 1985, 2. (From NewspaperSG)
