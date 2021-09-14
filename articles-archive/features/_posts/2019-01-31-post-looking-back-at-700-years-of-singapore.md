@@ -129,4 +129,12 @@ Contemporary Singapore is no different: as the city continues to search for new 
 
 Singapore continues to welcome the influx of new immmigrants, while also seeking ways to integrate these newcomers. As the city’s population continues to grow more diverse, its identity also becomes increasingly more fluid. One thing is certain: as the canvas grows more colourful, the difficult task lies in blending the colours seamlessly while ultimately creating a harmonious whole.
 
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack6.jpg" style="width: 100px; height: 100px;">
+Professor <b>Tan Tai Yong</b>  is the second President and Professor of Humanities (History) at Yale-NUS College. He is also Honorary Chairman of the National Museum of Singapore and a member of the Board of Trustees of ISEAS-Yusof Ishak Institute, among other appointments.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
+
 #### **Notes**
