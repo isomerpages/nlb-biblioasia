@@ -65,3 +65,53 @@ Today, as one of the world’s most trade-dependent nations, Singapore continues
 #### **Resilience and Enterprise**
 
 As mentioned earlier, when Farquhar announced he was moving to Singapore to set up a new British settlement, thousands of Malaccan men left their homes to start a new life here, despite Dutch attempts to stop the mass migration. Among the motley group of traders, peddlers, carpenters, labourers and other workers were a number who quickly rose to become prominent businessmen: in the words of Raffles’ Malay scribe Abdullah bin Abdul Kadir – better known as Munshi Abdullah who published his autobiography, *Hikayat Abdullah* (*Stories of Abdullah*), in 1849 – Malacca fell into a “drought” while Singapore experienced “the rain of plenty”.13 In his book, Munshi Abdullah describes the rapid transformations that took place in the first few years of the settlement:
+
+“I am astonished to see how markedly our world is changing. A new world is being created, the old world destroyed. The very jungle becomes a settled district while elsewhere a settlement reverts to jungle. These things show us how the world and its pleasures are but transitory experiences, like something borrowed which has to be returned whenever the owner comes to demand it”.14
+
+The men who came with Farquhar were determined to carve out a better life for themselves, seizing the opportunity to start afresh under the British. In the decades that followed, the colony continued to witness the arrival of tens of thousands of Chinese migrants in search of better opportunities: by 1897, there were 200,000 inhabitants in Singapore. Among them was the great-grandfather of the man who was to become the first prime minister of independent Singapore, Lee Kuan Yew.15
+
+Many of these migrants worked as coolies, trishaw riders and shop owners, and toiled away to send whatever money they could back to their families in China. Since these workers were often men, Singapore soon faced a gender imbalance, which was mitigated in the 1900s by a surge in Chinese female migrants. Among these women were hardy *samsui* labourers, who worked in tin mines and construction sites, and *amahs* (domestic servants).16 These women were just as determined as the men to eke out a living.
+
+Singapore became a place of opportunity and new beginnings: while these migrants laboured to send most of their hard-earned wages to their families back home, they also seized the fresh start that the island offered to build a new life.
+
+While still tied by birth to the lands they came from, the new arrivals were also invested in building new lives in Singapore, and – when they started families of their own here – to building a better life for their children. The latter decades of the 1800s to early 1990s saw a reform in education, with more government-operated English schools, as well as ethnic communities taking greater ownership in providing vernacular education.17
+
+New Chinese, Tamil and Muslim-Malay schools were established, teaching a more updated curriculum in their respective ethnic languages. However, the better jobs still went to English-educated locals. Still, Asians of any calibre invariably faced a ceiling when it came to their career advancement: in 1912, the British Empire officially barred non-Europeans from assuming senior roles in public administration.18
+
+As these issues of discrimination brewed, locals began to ponder over the idea of nationalism, and what it meant for Singapore, whose population comprised mainly migrants who hailed from different countries. Eunos Abdullah, the first Malay Legislative Councillor, spoke up against a colonial administrative system that favoured foreigners over locals, and argued for greater education and career opportunities for “sons of the soil”, a term he gave to the Malays. He saw Malays as collectively belonging to the nation, and rejected the idea of any allegiance to the local sultan.19
+
+Likewise, the Straits Chinese community also faced the dilemma of remaining loyal to a distant and increasingly politically unstable China, or declaring allegiance to Singapore and a British administration in which their career opportunities were curtailed.20
+
+The early 1900s saw people in Singapore becoming more disillusioned by their lowly status under the British. With this disgruntlement began a dialogue about what nationalism meant in a colony of diverse peoples. The dialogue was to continue for decades afterwards.
+
+With the devastation of World War II in Singapore – and the failure of the British Empire in protecting Singapore – came further questions about nationalism and independence.21 Britain surrendered and the locals were left to face the brutality of the Japanese. Literature that hinted of the suffering of war, anti-Japanese sentiments and expressions about nationalism appeared in newspapers, such as the poems of the local Malay poet Masuri S. N.
+
+Anti-Japanese resistance movements also took root, the chief example being the Malayan People’s Anti-Japanese Army (MPAJA) created by the Malayan Communist Party.22 In the wake of the failure of the colonial government to protect Singapore, people had no choice but to hold their ground alone.
+
+The Japanese surrendered in 1945 and the British returned. They were in for a rude shock; instead of the warm reception they were expecting, what they saw resounding in the streets of Singapore was a cry for freedom or “merdeka” among English-educated locals. Their calls for independence were met with strong support from the other communities.23
+
+Having been left to fend for themselves and endure the atrocities of war, the people of Singapore now knew that they could not count on a foreign government for their security and prosperity. They began to have a newfound confidence, driven by the disappointment of being abandoned during the war. They now desired to be freed from the masters who had proven themselves unworthy.
+
+Yet with the abrupt arrival of independence in 1965, a massive burden was thrust upon the new government led by the People’s Action Party. How the first generation of leaders laid the foundations of what Singapore has become today is a whole other story of its own, complete with its fair share of moral courage, enterprise and resilience against a backdrop of struggle and turbulence.
+
+Diversity and Differences
+
+Whether in colonial, independent or early Singapore, a diverse, migrant population has always characterised the island-city. In Daoyi Zhilue, Wang Dayuan notes that Chinese people lived alongside orang laut natives at Longyamen (“Dragon’s Tooth Strait”; most likely referring to the waterway between Sentosa and Labrador Point), where ships called for trade. Later, the Malaccan immigrants who came with Farquhar largely comprised Indians and Straits Chinese.24
+
+In 1822, Raffles, dissatisfied with the way Farquhar had developed the settlement, instructed assistant engineer Philip Jackson to draw up a plan for the town of Singapore. Titled “Plan of the Town of Singapore” (more commonly known as Raffles Town Plan or Jackson Plan), the blueprint demarcated living spaces and organised the island’s layout according to ethnic communities. Hence, the diverse population was segregated rather than united, with different neighbourhoods laid out for the Chinese, Malays, Bugis and Indians, as well as a dedicated European Town by the Singapore River.25
+
+Each ethnic group retained its distinct culture and livelihood, and continued speaking its native language or dialect. Because the groups were kept separate, there was minimal interaction and little need to negotiate differences in the pursuit of unity. As already mentioned, the idea of a distinct Singaporean nationhood and the question of national identity only began to take shape around the 1900s, as Asian locals became better educated and increasingly dissatisfied with their lot.
+
+By 1833, “Chinese, Malays, Bugis, Javanese, Balinese, natives of Bengal and Madras, Parsees, Arabs, and Caffrees [Africans]” could all be found in Singapore, as a great variety of ships sailed into its protected harbour.26 The story of Singapore as a thriving port city in Asia is “the story of multi-racial communities and networks”.27
+
+In the earlier decades of the 20th century, The Malaya Tribune received much support as the newspaper that expressed the voices of the local communities. Readers and contributors often discussed ideas of nationhood and belonging, and of their role in Singapore.
+
+As Chinese and Indian workers continued to stream into Malaya in search of work, questions of who were the rightful sons and heirs of the Malayan land (was it open to all races who claimed Malaya as their home, or were only the Malays eligible?), and whether it was appropriate to maintain ties with one’s country of origin, were debated in the Tribune. One lawyer wrote in the newspaper: “No matter what their nationality is, they [the local-born] should be proud to be called Sons of Malaya as much as Sons of other Countries”.28
+
+Identity and Unity
+
+In light of the increasing dissatisfaction with the colonial administration, a sense of collectiveness among the locals began simmering: what was the significance of their living together, and how were these dwellers to distinguish themselves through their sense of belonging to this island? If these migrants of diverse backgrounds considered this land as their home, how should they be united in order to be set apart?
+
+As much as these issues lingered in people’s minds, they only remained abstract concepts until the British left and a united Malaya – and later, a united Singapore – was born. When Malayans were left to govern themselves, free of their colonial masters, the questions of identity and unity became more pertinent than ever. These questions now needed answers, and the answers would come to impact the everyday lives of the people.
+
+Questions of racial identities and citizenship featured prominently in the negotiations leading to Singapore’s merger with the Federation of Malaya in September 1963. While part of the Federation, tensions ran high as Singapore’s Chinese-dominant People’s Action Party (PAP) directly contested the ruling United Malays National Organisation (UMNO), which sought to protect Malay interests. As a result, riots broke out in Singapore between Chinese and Malay factions in 1964.29 Even after Singapore and Malaysia went their separate ways and Singapore gained independence in 1965, the racial divide within the island’s boundaries presented the PAP government with the daunting task of managing these racial tensions and forging a common Singaporean identity.
