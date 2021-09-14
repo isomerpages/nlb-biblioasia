@@ -154,7 +154,7 @@ Teo, P.L. (1936, Trinity Term). Prolegomena to the modern poets. *[Raffles Colle
 
 Teo, P.L. (1937, Spring). The song of the night express. <i>Life and Letters To-Day</i>, 16 (7), 44.
 
-Teo, P.L. (1941, November). [The spider. *Chorus: The Journal of the Singapore Teacher’s Association](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)*, 7, 53.
+Teo, P.L. (1941, November). [The spider. *Chorus: The Journal of the Singapore Teacher’s Association*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045), , 7, 53.
 
 Teo, P.L. (1936, January). Time is past. <i>The London Mercury</i>, 33 (95), 275.
 
