@@ -162,21 +162,21 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^4]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1122_2006-06-15.html), 2006.
 
-[^5]:National Library Board, 2006; Singapore. Urban Redevelopment Authority. (n.d.). Capitol Theatre, Capitol Buildng and Stamford House. Retreived from Urban Redevelopment Authority website.
+[^5]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1122_2006-06-15.html), 2006; Singapore. Urban Redevelopment Authority. (n.d.). *Capitol Theatre, Capitol Buildng and Stamford House*. Retreived from Urban Redevelopment Authority website.
 
-[^6]:Maybank. (1998, November 27). Background information on site of Maybank headquarters in Singapore. Retrieved from Maybank website.
+[^6]:Maybank. (1998, November 27). *Background information on site of Maybank headquarters in Singapore*. Retrieved from Maybank website.
 
-[^7]:Whiteaway, Laidlaw. (1915, May 31). The Straits Times, p.10. Retrieved from NewspaperSG.
+[^7]:*[Whiteaway Laidlaw.](http://eresources.nlb.gov.sg/infopedia/articles/SIP11222006-06-15.html)* (1915, May 31). *The Straits Times*, p.10. Retrieved from NewspaperSG.
 
-[^8]:The late Mr Robert Laidlaw. (1915, November 5). The Straits Times, p. 8. Retrieved from NewspaperSG; Vedamni, 2003.
+[^8]:[The late Mr Robert Laidlaw](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19151105-1.2.70.aspx). (1915, November 5). *The Straits Times*, p. 8. Retrieved from NewspaperSG; Vedamni, 2003.
 
-[^9]:National Library Board, 2006; Warm work for mannequins. (1948, November 4). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^9]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1122_2006-06-15.html), 2006; [Warm work for mannequins](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481104-1.2.73.aspx). (1948, November 4). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^10]:‘Gussies’ chief here, plans expansion. (1957, December 14). The Straits Times, p. 9; Whiteaway Laidlaw to close in Singapore. (1961, December 28). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^10]:[‘Gussies’ chief here, plans expansion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19571214-1.2.98.aspx). (1957, December 14). The Straits Times, p. 9; [Whiteaway Laidlaw to close in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611228-1.2.47.aspx). (1961, December 28). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^11]:Whiteaway building sold for $1.4million. (1961, December 30). The Straits Times, p. 9. Retrieved from NewspaperSG; Maybank. (1998, November 27). Ground breaking ceremony for Maybank headquarters in Singapore. Retrieved from Maybank website.
+[^11]:[Whiteaway building sold for $1.4million](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611230-1.2.97.aspx). (1961, December 30). *The Straits Times*, p. 9. Retrieved from NewspaperSG; Maybank. (1998, November 27). *Ground breaking ceremony for Maybank headquarters in Singapore*. Retrieved from Maybank website.
 
-[^12]:New bank will aid the small man. (1949, December 30). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^12]:[New bank will aid the small man](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491230-1.2.120.aspx). (1949, December 30). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
 [^13]:The Straits Times, 30 Dec 1949, p. 7; Steady progress all through the years. (1971, February 4). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
