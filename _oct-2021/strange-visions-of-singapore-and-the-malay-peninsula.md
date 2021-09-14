@@ -97,3 +97,51 @@ It is also easy to see how these stories closely reflect European intellectual c
 Finally, we also have to be aware that these imaginative visions impinge upon the realities of the world they drew inspiration from. These stories work to assemble and reduce the complex realities of these very real places to the level of stereotypes. This can be gleaned from the last two narratives, where the region was used as a canvas for a utopia or a place where a dog can be king, an image of nonsensical despotism allowed free rein. 
 
 Fuelled by expanding geographical knowledge, the writers of these fantastical stories tried to make sense of change in the world, all the while changing how people made sense of the world. 
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-3/authors/Profile%20-%20Zhuang%20Wubin.png" style="width: 100px; height: 100px;" />
+	<b>Benjamin J.Q. Khoo</b> is a research officer at ISEAS-Yusof Ishak Institute and a 2020/21 Lee Kong Chian Research Fellow. Studying the histories of the early modern world, his research is currently focused on networks of knowledge and diplomatic encounters in Asia.</div>
+	
+	
+#### NOTES
+
+[^1]: 
+
+[^2]: 
+
+[^3]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
+
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]: 
+
+[^15]: 
+
+[^16]: 
+
+[^17]: 
+
+[^18]: 
+
+[^19]: 
+
