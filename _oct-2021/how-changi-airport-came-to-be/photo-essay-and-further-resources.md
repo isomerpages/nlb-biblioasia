@@ -27,13 +27,20 @@ LORADS was designed to guide 250 aircrafts simultaneously—whether they are lan
  
 	
 	
+[PHOTO]
+<div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.
+	
+The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year and was the largest in the entire airport complex. Underneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
+
+Before construction of this passenger terminal building was even completed, in 1980, the government was considering building a second one to expand the capacity of Changi airport, as 17 million passengers were estimated to pass through the airport by 1989.[^5]  
+
 	
 #### NOTES
 [^1]: “[Crowds Flock to Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.28),” *New Nation*, 3 June 1981, 6; “[250,000 Have Visited Airport So Far](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810616-1.2.50.4),” *Straits Times*, 16 June 1981, 10 (From NewspaperSG); Department of Statistics Singapore, *Population Trends 2020* (Department of Statistics, Ministry of Trade & Industry, 2020), 37.	
 [^2]: Lee Kuan Yew, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991)
 [^3]: Changi Airport Group, “[50 Years of Air Travel in Singapore](https://www.changiairport.com/content/dam/cacorp/publications/Changi%20Connections/2015/290515_CC_sg50_low.pdf),” *Changi Connection*, 2015, 5.
-[^4] : “Govt Plans $100 Mil System at Changi,” <i>Business Times</i>, 18 February 1977, 10.
-https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19770218-1.2.43
 
-	
+[^4]: “[Govt Plans $100 Mil System at Changi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19770218-1.2.43),” <i>Business Times</i>, 18 February 1977, 10. (From NewspaperSG) 
+
+[^5]: Janie Khoo, “Plan for $200m Second Changi Terminal under Study,” Straits Times, 4 March 1980, 8; “This Is the Pride of Changi Airport,” New Nation, 7 July 1977, 4. (From NewspaperSG) 
    
