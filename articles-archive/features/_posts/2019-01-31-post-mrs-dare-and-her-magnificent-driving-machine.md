@@ -169,12 +169,12 @@ We boarded the Selangor in Malacca and reached Singapore on 13 May, after a most
 
 Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). [One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 2, p. 364). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
 
-[Monday, April 8, 1907](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19070411-1.2.61). (1907, April 11). The Singapore Free Press, p. 232. Retrieved from NewspaperSG.
+[Monday, April 8, 1907](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19070411-1.2.61). (1907, April 11). *The Singapore Free Press*, p. 232. Retrieved from NewspaperSG.
 
-Motoring in Malaya: Adventurous trip of two ladies in F.M.S. (1907, June 18). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[Motoring in Malaya: Adventurous trip of two ladies in F.M.S.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070618-1.2.119) (1907, June 18). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-Motoring in Malaya: Adventurous trip of two ladies in F.M.S. (1907, June 19). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[Motoring in Malaya: Adventurous trip of two ladies in F.M.S.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070619-1.2.93) (1907, June 19). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-Motoring in Malaya: Adventurous trip of two ladies in F.M.S. (1907, June 2). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[Motoring in Malaya: Adventurous trip of two ladies in F.M.S. ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070602-1.2.136)(1907, June 2). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-The late Mr. George Mildmay Dare. (1907, December 16). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[The late Mr. George Mildmay Dare](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19071216-1.2.28). (1907, December 16). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
