@@ -72,13 +72,14 @@ The design of the iconic 78-metre tall octagonal control tower came from a desig
 
 [^2]: Lee Kuan Yew, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991) ↩
 
-Changi Airport Group, “50 Years of Air Travel in Singapore,” Changi Connection, 2015, 5. ↩
+[^3]: Changi Airport Group, “50 Years of Air Travel in Singapore,” Changi Connection, 2015, 5. ↩
 
-“Govt Plans $100 Mil System at Changi,” Business Times, 18 February 1977, 10. (From NewspaperSG) ↩
+[^4]: “Govt Plans $100 Mil System at Changi,” Business Times, 18 February 1977, 10. (From NewspaperSG) ↩
 
-Janie Khoo, “Plan for $200m Second Changi Terminal under Study,” Straits Times, 4 March 1980, 8; “This Is the Pride of Changi Airport,” New Nation, 7 July 1977, 4. (From NewspaperSG) ↩
+[^5]: Janie Khoo, “Plan for $200m Second Changi Terminal under Study,” Straits Times, 4 March 1980, 8; “This Is the Pride of Changi Airport,” New Nation, 7 July 1977, 4. (From NewspaperSG) ↩
 
-“Birds to Drive Out Orchids,” Business Times, 4 August 1979, 12. (From NewspaperSG) 
+[^6]: “Birds to Drive Out Orchids,” Business Times, 4 August 1979, 12. (From NewspaperSG) 
+
 [^7]: Changi Airport Group, “50 Years of Air Travel in Singapore,” 3. 
 
 [^8]: Agatha Koh, “Changi Experience for Only 50 Cents,” New Nation, 3 June 1981, 6. (From NewspaperSG) 
