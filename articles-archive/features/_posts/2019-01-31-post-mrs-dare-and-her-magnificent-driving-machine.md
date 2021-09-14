@@ -6,7 +6,7 @@ layout: post
 ---
 #### **The intrepid Mrs G.M. Dare – true to her name – was Singapore’s first woman driver. In April 1907, she embarked on a 686-mile road trip across the Malay Peninsula.**
 
-<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare1.JPG">
+<img style="width: 550px; height: 380px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare1.JPG">
 <div style="background-color: white;">Mrs G.M. Dare, Singapore’s first lady motorist, and her husband George Mildmay Dare on their Adams-Hewitt with the licence plate number S-1. The car was named “Ichiban”, Japanese for “Number One”. <i>Image reproduced from Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). One Hundred Years of Singapore (Vol. 2, p. 364). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS]).</i></div>
 
 |Mrs G.M Dare, originally from Yorkshire, England, is said to be Singapore’s first lady motorist. Her first car was a two-cylinder Star before she switched to a two-seater single-cylinder Adams-Hewitt in 1906 when car registration in the colony became mandatory. Mrs Dare in fact holds the distinction of driving Singapore’s first registered car – licence plate number S-1 – which was nicknamed “Ichiban” (Japanese for “Number One”).
@@ -17,7 +17,7 @@ layout: post
 
 |Mrs Dare’s driving adventure created quite a stir in the press and she took to writing about it. Her articles were published as “Motoring in Malaya: Adventurous Trip of Two Ladies in F.M.S” in *The Straits Times* over three days on 18 June, 19 June and 20 June 1907. The following is an abridged account of her 686-mile road trip across the Malay Peninsula.
 
-<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare2.JPG">
 <div style="background-color: white;">Mrs Dare’s driving adventure was published as “Motoring in Malaya: Adventurous Trip of Two Ladies in F.M.S.” <i>The Straits Times</i> on 18, 19 and 20 June 1907. <i>Image reproduced from The Straits Times, 18 June 1907, p. 11.</i></div>
 
 When we two ladies contemplated making a motor tour through the Malay Peninsula, accompanied only by a native gardener (who knew nothing of mechanics), people thought it rather a wild scheme. But as we both felt capable of looking after the machinery ourselves, and only wanted our man to clean and oil the car, we were determined to take the risk. We started off on our travels in April 1907.
@@ -46,14 +46,14 @@ Bagan Serai Resthouse is not at all a bad place with an upper storey, but if it 
 
 In the morning, we drove back for the milometer – which was quite uninjured but the journey delayed us somewhat – and headed for Taiping 26 miles away. Six miles beyond Bagan Serai, the Kuran river is crossed by a small pontoon boat, which is hauled across the stream by a wire rope. Two planks were laid each side to bridge the intervening space of water from the pontoon to the boat, and we drove over these on board, the planks being carried with us to be utilised in the same manner on the other side.
 
-<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare4.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare4.JPG">
 <div style="background-color: white;">A map of the Malay Peninsula created in 1906. It includes the places that Mrs Dare and Miss Hardman visited during their road trip in 1907. <i>Image reproduced from Swettenham, F.A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya. London, New York: John Lane the Bodley Head. (Accession nos.: B29031891K, B29267224A; Microfilm nos.: NL19101, NL3279)</i></div>
 
 From this point, the road began to ascend, and we crossed the Semangol Pass, which at 1,279 ft affords a glorious vista of the wooded Larut Hills and the grand mountain ranges of Perak. The road surface was excellent, and a pleasant spin through flat, open country past many deserted tin mines took us into Taiping by 9.30 am, quite ready for the excellent breakfast provided for us by the kind friends with whom we stayed.
 
 Taiping is prettily situated on a flat plain, backed by the Larut Hills (3,600 to 7,000 ft). There is a picturesque lake in the Public Gardens, a good racecourse, rifle range and cricket ground, and two excellent clubs. The well-stocked museum contains the best collection of old Malay krisses and knives in the Federated Malay States.
 
-<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare3.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare3.JPG">
 <div style="background-color: white;">The Larut plain and estuary as seen from the Larut Hills. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 55). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350)</i></div>
 
 There are also several bungalows on the Larut Hills belonging to the government as well as private individuals. English flowers and vegetables thrive up there and the temperature is cool enough to make a nice fire at night. The Resident of Perak E.W. Birch kindly placed the bungalow named “The Box” at our disposal and we spent a day and night up there, revelling in a perfect wilderness of lovely roses, heliotrope, lilies, geraniums, azaleas and all sorts of English flowers, in addition to varieties of tropical blooms.
@@ -96,7 +96,7 @@ Ipoh is a large and flourishing town in the centre of the tin mining district. T
 
 We left Ipoh on 22 April at 8 am for our longest run of 98 miles to Tanjong Malim. The road to Gopeng is more hilly but it has an excellent surface and the scenery is very pretty. We stopped en route at Sungei Raya to look at a curious five-storeyed Chinese temple built inside some limestone caves. At Gopeng, the road diverges along a high ridge on which are situated the District Officer’s house and a nice resthouse with an upper storey and broad verandah. The resthouse commands a fine view over the town and adjoining mining country, backed by ranges of limestone cliff.
 
-<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare6.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare6.JPG">
 <div style="background-color: white;">The Malayan kingfishers that Mrs Dare and Miss Hardman saw when they were driving through the jungle were likely the white collared kingfisher (top) and the white-breasted kingfisher (bottom). <i>Image reproduced from Robinson, H.C. (1927). The Birds of the Malay Peninsula: Volume 1: The Commoner Birds (p. 100). London: H.F. & G. Witherby. (Call no.: RSING 598.29595 ROB)</i></div>
 
 The rest of the road to Tapah was equally smooth, and we ran up a very steep hill to the resthouse where we tiffined. At 2 pm, we started on our remaining 58 miles to Tanjong Malim, and arrived at 7 pm. The road is very winding and too overgrown to travel at any great speed, although the surface is smooth and made of red laterite. From Bidor, the road goes through the thickest jungle, and here we spotted jungle cocks, blue pheasants, brilliant blue flycatchers and kingfishers as well as colourful butterflies. We ran over two snakes and saw a huge black scorpion about nine inches long! Two strong-smelling musangs (civet cats) ran across the road at different times, and in one place a very distinct scent of tiger was apparent – it is not a place one would care to spend the night in, should one’s car break down!
@@ -107,7 +107,7 @@ We left the next morning at nine, and covered the 17 miles of charming road to K
 
 About one-third of the way up, a horrible grating noise proceeding from the interior of the car greatly alarmed us, but we could not locate it and thought the noise was due to an insufficiency of oil in the gear box. In addition to this awful din, our new water tank began to leak badly so we went up very slowly, stopping at every stream or waterfall to fill up the tank and cool down the overheated engine. On arriving at the Gap (the boundary between Selangor and Pahang) at 2.40 pm, we decided to stay there for the night.
 
-<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare7.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare7.JPG">
 <div style="background-color: white;">The Motor Service along Kuala Kubu-Kuala Lipis Road. The road connects Kuala Kubu Bahru in Selangor to Kuala Lipis in Pahang. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 218). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350)B30160627C; Microfilm no.: NL16350)</i></div>
 
 The next morning, after giving the gear box a good dose of oil, we started on our 15-mile-run downhill to Tras, and thence for eight miles on to Raub, the water tank having to be filled at every available opportunity. Whilst tiffining at Raub Resthouse, the car was left at the local garage to have the tank resoldered. The manager there informed us that special riveted tanks should be used in this climate. We had only travelled eight miles out of Raub when the tank began to leak worse than ever! This time, the solder at the junction of the waterpipe and radiator had given way. We bound it up as well as we could with rubber tubing and wire, and by dint of constantly refilling we eventually arrived in Kuala Lipis at 7 pm, making a total of 62 miles for the day.
