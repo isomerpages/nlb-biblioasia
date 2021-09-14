@@ -76,15 +76,15 @@ The design of the iconic 78-metre tall octagonal control tower came from a desig
 
 [^2]: Lee Kuan Yew, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991) 
 
-[^3]: Changi Airport Group, “50 Years of Air Travel in Singapore,” <i>Changi Connection</i> (Singapore: Changi Airport Group, 2015,) 5. 
+[^3]: Changi Airport Group, “[50 Years of Air Travel in Singapore](http://www.changiairport.com/content/dam/cacorp/publications/Changi%20Connections/2015/290515_CC_sg50_low.pdf),” <i>Changi Connection</i> (Singapore: Changi Airport Group, 2015,) 5. 
 
-[^4]: “Govt Plans $100 Mil System at Changi,” <i>Business Times</i>, 18 February 1977, 10. (From NewspaperSG) 
+[^4]: “[Govt Plans $100 Mil System at Changi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19770218-1.2.43),” <i>Business Times</i>, 18 February 1977, 10. (From NewspaperSG) 
 
-[^5]: Janie Khoo, “Plan for $200m Second Changi Terminal under Study,” <i>Straits Times</i>, 4 March 1980, 8; “This Is the Pride of Changi Airport,” <i>New Nation</i>, 7 July 1977, 4. (From NewspaperSG) 
+[^5]: Janie Khoo, “[Plan for $200m Second Changi Terminal under Study](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800304-1.2.44),” <i>Straits Times</i>, 4 March 1980, 8; “[This Is the Pride of Changi Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770707-1.2.19),” <i>New Nation</i>, 7 July 1977, 4. (From NewspaperSG) 
 
 [^6]: “Birds to Drive Out Orchids,” <i>Business Times</i>, 4 August 1979, 12. (From NewspaperSG) 
 
-[^7]: Changi Airport Group, “50 Years of Air Travel in Singapore,” 3. 
+[^7]: Changi Airport Group, “[50 Years of Air Travel in Singapore](http://www.changiairport.com/content/dam/cacorp/publications/Changi%20Connections/2015/290515_CC_sg50_low.pdf),” 3. 
 
 [^8]: Agatha Koh, “Changi Experience for Only 50 Cents,” <i>New Nation</i>, 3 June 1981, 6. (From NewspaperSG) 
 
