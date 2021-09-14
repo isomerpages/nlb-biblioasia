@@ -138,7 +138,7 @@ I feel very privileged to have met so many survivors and have had access to so m
 
 #### **References**
 
-<u><b>Books</b></u>
+<b>Books</b>
 
 Hodgkins, F. (2014). *[From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200929389)*. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
 
@@ -154,7 +154,7 @@ Van Cuylenburg, J. B. (1982). *[Singapore: Through sunshine and shadow](http://e
 
 Wijeysingha. E., & Nicolas, R. (2006). *[Going forth…: The Catholic Church in Singapore 1819–2004](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12747544)*. Singapore: Nicholas Chia. Call no.: RSING 282.5957 WIJ-[SRN]
 
-<u><b>Newspapers</u></b>
+<u><b>Newspapers</b></u>
 
 *The Straits Times*
 
@@ -162,7 +162,7 @@ Wijeysingha. E., & Nicolas, R. (2006). *[Going forth…: The Catholic Church in 
 
 *The Syonan Times*
 
-<u><b>Unpublished sources</u></b>
+<u><b>Unpublished sources</b></u>
 
 Heine, Major K.R.R. Royal Engineers. (1945). “*Operation Galvanic Slate*”. From the private papers of G. Tack. Imperial War Museum, London.
 
