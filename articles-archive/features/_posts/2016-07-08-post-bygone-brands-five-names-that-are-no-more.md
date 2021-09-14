@@ -252,11 +252,11 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^49]:Lee, G. (1964, October 28). [Local biscuits and sweets measure up to world standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641028-1.2.125.107.aspx). *The Straits Times*, p. 52. Retrieved from NewspaperSG.
 
-[^50]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641028-1.2.125.107.aspx)*, 28 Oct 1964, p. 52.
+[^50]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641028-1.2.125.107.aspx)* , 28 Oct 1964, p. 52.
 
-[^51]:English biscuits to be made locally. (1971, June 23). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^51]:[English biscuits to be made locally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710623-1.2.77.1.aspx). (1971, June 23). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^52]:British firm buys up Thye Hong. (1982, January 12). The Straits Times, p. 8, Lee, Y. M. (1981, September 23). Thye Hong ventures into property. The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^52]:[British firm buys up Thye Hong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820112-1.2.24.aspx). (1982, January 12). *The Straits Times*, p. 8, Lee, Y. M. (1981, September 23). [Thye Hong ventures into property](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810923-1.2.87.6.aspx). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
 [^53]:Tripathi, S. (1993, March 12). A year of nightmares for biscuit king. The Business Times, p. 10; Lee, H. S. (1990, March 9). French dough creates new biscuit giant. The Business Times, p. 1. Retrieved from NewspaperSG.
 
