@@ -13,7 +13,7 @@ PHOTO
 <div style="background-color: white;">Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress on 4 November 1979. *	Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore*
 
 
-Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against consultants’ initial recommendation. The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]   
+Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against consultants’ initial recommendation. The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]    
 	
 Lee was also involved in the building of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to look at the entire construction site.[^3]  
 	
@@ -50,6 +50,11 @@ Changi Airport was to become a symbol of national pride. Two years before the ai
 	
 [PHOTO]
 <div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November  1980. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.
+
+The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges are more accessible, allowing passengers to board planes from the terminal building in all weather conditions, rather than taking a bus and climbing a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
+
+The aerobridge is commonplace now. But in 1981, a journalist reporting on her tour of the Changi Airport remarked that the highlight of the tour was “troop[ing] down an aerobridge”.[^8] 
+
 	
 	
 [PHOTO]
