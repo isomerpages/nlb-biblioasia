@@ -3,17 +3,17 @@ title: Photo Essay and Further Resources
 permalink: /vol-17/issue-3/oct-dec-2021/changi-airport-rsrc
 third_nav_title: How Changi Airport Came To Be
 ---
-#### The Changi Airport was the largest public project in Singapore when it was completed in 1981, costing S$1.5 billion. Learn more about Changi Airport through photos.
+#### Built at a cost of $1.5 billion, Changi Airport was the largest public project in Singapore when it was completed in 1981. Learn more about Changi Airport through photos.
 
-Newspaper reports of that time were replete with figures of the costs of construction and communications equipment, dimensions of the complex and airspace, and lengths of the runways and the underground bus terminal.  Before the airport became operational on 1 July 1981, it was opened to the public to great reception. Tours were sold out, and by mid-June the airport had received more than 250,000 visitors, about a tenth of Singapore’s population. Clearly Changi Airport has captured public imagination.[^1]  
+Before the airport became operational on 1 July that year, it was opened to an eager public. Tours were sold out, and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population. Clearly Changi Airport had captured public imagination.[^1]  
 
 #### **Prime Minister Lee Kuan Yew's Role**
 ![Alt text for image on Isomer site]
 <div style="background-color: white;">Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress on 4 November 1979. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
-Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against consultants’ initial recommendation. The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]    
+Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against the recommendations of consultants. The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]    
 	
-Lee was also involved in the building of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to look at the entire construction site.[^3]  
+Lee took a great interest in the building of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to get a birds-eye view of the entire construction site.[^3]  
 	
 	
 #### **Communications Equipment**
@@ -31,7 +31,7 @@ LORADS was designed to guide 250 aircrafts simultaneously—whether they are lan
 	
 The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year and was the largest in the entire airport complex. Underneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
 
-Before construction of this passenger terminal building was even completed, in 1980, the government was considering building a second one to expand the capacity of Changi airport, as 17 million passengers were estimated to pass through the airport by 1989.[^5]  
+Before construction of this passenger terminal building was even completed, in 1980 the government was already looking into building a second one to expand the capacity of Changi airport as 17 million passengers were estimated to pass through the airport by 1989.[^5]  
 
 	
 #### **A Matter of National Pride**  
@@ -50,7 +50,7 @@ Changi Airport was to become a symbol of national pride. Two years before the ai
 ![Alt text for image on Isomer site]
 <div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November 1980. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
-The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges are more accessible, allowing passengers to board planes from the terminal building in all weather conditions, rather than taking a bus and climbing a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
+The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges allow passengers to board planes from the terminal building rather than having to take a bus and climb a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
 
 The aerobridge is commonplace now. But in 1981, a journalist reporting on her tour of the Changi Airport remarked that the highlight of the tour was “troop[ing] down an aerobridge”.[^8]
 
@@ -61,13 +61,12 @@ The aerobridge is commonplace now. But in 1981, a journalist reporting on her to
 
 The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. The second runway was built on almost entirely reclaimed land and became operational in February 1984.[^9]
 
-The site of Changi was superior to Paya Lebar for the construction of a second runway. The swampy lands around Paya Lebar might cause a runway built there to sink.[^10]
 
 #### **The Iconic Control Tower**
 ![Alt text for image on Isomer site]
 <div style="background-color: white;">An aerial view of East Coast Parkway and the iconic control tower of Changi Airport, 1996. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 
-The design of the iconic 78-metre tall octagonal control tower came from a design competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^11]
+The design of the iconic 78-metre tall octagonal control tower came from a design competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^10]
 
 
 
@@ -90,6 +89,4 @@ The design of the iconic 78-metre tall octagonal control tower came from a desig
 
 [^9]: “[Cost for Second Runway Soars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820906-1.2.63),” <i>Straits Times</i>, 6 September 1982, 13; Khoo, “[Plan for $200m Second Changi Terminal under Study](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800304-1.2.44).” (From NewspaperSG) 
 
-[^10]: “[Changi Site Better Choice for Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810618-1.2.24),” <i>New Nation</i>, 18 June 1981, 5. (From NewspaperSG) 
-
-[^11]: Arthur Seah Peng Chua, “[Control Tower Design Was the Effort of PWD Architects](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850202-1.2.21.4),” <i>Singapore Monitor</i>, 2 February 1985, 15; “[Changi Airport Wins Awards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19850828-1.2.13.3),” <i>Business Times</i>, 28 August 1985, 2. (From NewspaperSG)
+[^10]: Arthur Seah Peng Chua, “[Control Tower Design Was the Effort of PWD Architects](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850202-1.2.21.4),” <i>Singapore Monitor</i>, 2 February 1985, 15; “[Changi Airport Wins Awards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19850828-1.2.13.3),” <i>Business Times</i>, 28 August 1985, 2. (From NewspaperSG)
