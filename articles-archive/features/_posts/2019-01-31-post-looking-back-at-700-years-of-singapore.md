@@ -13,7 +13,7 @@ On 28 January 1819, Stamford Raffles and his entourage landed on an island that 
 
 Along with a formal ceremony and banquet, a treaty was signed on 6 February 1819 allowing the British East India Company (EIC) to set up a trading post on the island.[^1] Conventional narrative looks back to this day as the beginning of modern Singapore.
 
-<img src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack2.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack2.JPG">
 <div style="background-color: white;">A facsimile of the last page of the treaty signed on 6 February 1819 between Stamford Raffles and the Malay chiefs. The page shows the signatures of Raffles, Sultan Hussein Shah and Temenggong Abdul Rahman. <i>Courtesy of National Museum of Singapore,
 National Heritage Board.</i></div>
 
@@ -25,7 +25,7 @@ But the story of Singapore goes back much further. The island as it was 700 year
 
 Archaeological finds provide evidence that early Singapore imported ceramic wares from China, along with other products from around the region. Singapore also traces a royal lineage that has its roots in the 13th century, beginning with a prince from Palembang, Sri Tri Buana (also known as Sang Nila Utama), and ending when the last king, Iskandar Shah, fled to Malacca, following a scandal involving the daughter of a royal minister and an invasion by Majapahit forces from Java.[^3]
 
-<img src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack3.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack3.JPG">
 <div style="background-color: white;">(Top) This gold armlet and rings are part of a larger cache of gold ornaments recovered in 1926 at Fort Canning. Reminiscent of East Javanese craftsmanship during the time of the Majapahit empire (c.1293–c.1500), these ornaments are proof that Singapore’s history predates Stamford Raffles’ arrival by more than 500 years. <i>Courtesy of National Museum of Singapore, National Heritage Board</i>.
 (Above) Earthernware shards from circa 14–15th century recovered from Empress Place indicate that Singapore had social, economic and cultural links with other population centres in maritime Southeast Asia, including Sumatra, Java and Borneo. <i>Image reproduced from Kwa, C.G., Heng, D.T.S., & Tan, T.Y. (2009). Singapore, a 700-Year History: From Early Emporium to World City (p. 44). Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA-[HIS])</i></div>
 
@@ -53,7 +53,7 @@ Singapore was a rich prize because of its location. Soon after the British arriv
 
 As Singapore’s soil was unable to support large-scale agriculture, and sustained only a small population at the point of Raffles’ arrival, the young settlement became reliant on its hinterland for essential resources. People were also needed to enable the port to thrive. By 1821, the population in Singapore had grown to 5,000, many of whom were Malaccans who had followed William Farquhar when he moved here to become Resident of Singapore (he was previously Resident of Malacca).[^11] In addition, the EIC brought prisoners from India to build local infrastructure. Therefore, diverse peoples from around the region and beyond came together in a collective effort to bring life to modern Singapore.
 
-<img src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack4.JPG">
+<img style="width: 520px; height: 320px;" src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack4.JPG">
 <div style="background-color: white;">The British East India Company brought prisoners from India to Singapore to build the settlement’s early infrastructure. One of the prisoners’ early tasks included transporting soil from Pearl’s Hill and Bras Basah as landfill for the marshy area that would become the commercial hub of Singapore. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 The heavy reliance on trade, however, meant that the fortunes of Singapore were inevitably susceptible to larger economic developments beyond its shores. At the turn of the 20th century, the adverse impact on the local economy caused by volatile commodity prices, notably rubber, illustrated the danger of being heavily dependent on the world market.
