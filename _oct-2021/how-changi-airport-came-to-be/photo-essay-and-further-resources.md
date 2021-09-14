@@ -7,16 +7,16 @@ third_nav_title: How Changi Airport Came To Be
 
 Newspaper reports of that time were replete with figures of the costs of construction and communications equipment, dimensions of the complex and airspace, and lengths of the runways and the underground bus terminal.  Before the airport became operational on 1 July 1981, it was opened to the public to great reception. Tours were sold out, and by mid-June the airport had received more than 250,000 visitors, about a tenth of Singapore’s population. Clearly Changi Airport has captured public imagination.[^1]  
 
-PHOTO
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/lky.png)
 <div style="background-color: white;">Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress on 4 November 1979. *	Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore*</div>
-
 
 Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against consultants’ initial recommendation. The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]    
 	
 Lee was also involved in the building of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to look at the entire construction site.[^3]  
 	
 	
-[PHOTO]
+	
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/ongtengcheong.png)
 <div style="background-color: white;">At the signing ceremony on 17 February 1977, Mr Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from Mr B. M. Lap, chairman of Philips Singapore. *Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore*</div>
 	
 On 17 February 1977, the Singapore government signed a S$19 million contract with Philips, for the supply of long-range radar and display system (LORADS). 
