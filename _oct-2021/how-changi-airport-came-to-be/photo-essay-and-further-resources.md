@@ -54,10 +54,17 @@ The aerobridge is commonplace now. But in 1981, a journalist reporting on her to
 	
 	
 [PHOTO]
-<div style="background-color: white;">	
+<div style="background-color: white;">Runway II at Changi Airport, 1985. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.  	
 	
+The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. The second runway was built on almost entirely reclaimed land and became operational in February 1984.[^9]  
+
+The site of Changi was superior to Paya Lebar for the construction of a second runway. The swampy lands around Paya Lebar might cause a runway built there to sink.[^10]
+
+
+[photo]	
+<div style="background-color: white;">An aerial view of East Coast Parkway and the iconic control tower of Changi Airport, 1996. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.	
 	
-	
+The design of the iconic 78-metre tall octagonal control tower came from a design competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^11]	
 	
 	
 #### NOTES
@@ -75,4 +82,10 @@ The aerobridge is commonplace now. But in 1981, a journalist reporting on her to
 
 [^8]: Agatha Koh, “[Changi Experience for Only 50 Cents](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.27),” New Nation, 3 June 1981, 6. (From NewspaperSG)
 
+[^9]: “[Cost for Second Runway Soars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820906-1.2.63),” *Straits Times*, 6 September 1982, 13; Khoo, “[Plan for $200m Second Changi Terminal under Study](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800304-1.2.44). (From NewspaperSG)
 
+[^10]: “[Changi Site Better Choice for Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810618-1.2.24),” *New Nation*, 18 June 1981, 5. (From NewspaperSG)
+
+[^11] Arthur Seah Peng Chua, “[Control Tower Design Was the Effort of PWD Architects](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850202-1.2.21.4),” *Singapore Monitor*, 2 February 1985, 15; “[Changi Airport Wins Awards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19850828-1.2.13.3),” *Business Times*, 28 August 1985, 2. (From NewspaperSG)
+
+	
