@@ -210,19 +210,19 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^28]:[One home in six has TV](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.98.2.aspx). (1966, April 26). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^29]:[Page 15 Advertisements Column 1: Setron](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.99.1.aspx). (1966, April 26). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^29]:[Page 15 Advertisements Column 1: Setron](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.99.1.aspx). (1966, April 26). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
 [^30]:Ho, A. L. (2015, May 24). Setron, a bright spark in troubled times. The Sunday Times, p. 42. Microfilm no.: NL 33501
 
-[^31]:Setron: Five years of steady growth. (1971, April 28). The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^31]:[Setron: Five years of steady growth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.99.1.aspx). (1971, April 28). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
-[^32]:The Straits Times, 28 April 1971, p. 20; Bankers, businessmen among board members. (1971, April 28). The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^32]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710428-1.2.154.1.1.aspx)* , 28 April 1971, p. 20; [Bankers, businessmen among board members](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710428-1.2.154.1.3.aspx). (1971, April 28). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
-[^33]:The Sunday Times, 24 May 2015, p. 42. 
+[^33]:*The Sunday Times*, 24 May 2015, p. 42. 
 
-[^34]:The Sunday Times, 24 May 2015, p. 42.
+[^34]:*The Sunday Times*, 24 May 2015, p. 42.
 
-[^35]:Seah, R. (1981, February 3). A good shot in the right direction. The Business Times, p. 6. Retrieved from NewspaperSG.
+[^35]:Seah, R. (1981, February 3). [A good shot in the right direction](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810203-1.2.22.aspx). *The Business Times*, p. 6. Retrieved from NewspaperSG.
 
 [^36]:The Business Times, 3 Feb 1981, p. 6.
 
