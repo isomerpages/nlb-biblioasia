@@ -148,11 +148,11 @@ Professor <b>Tan Tai Yong</b>  is the second President and Professor of Humaniti
 [^8]: Tan, T. Y. (2005). Early entrepot portal: Trade and founding of Singapore (p. 1). In A. Lau & L. Lau (Eds.), [*Maritime heritage of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12589371). Singapore: Suntree Media. (Call no.: RSING q387.5095957 MAR)
 [^9]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 47.
 [^10]: [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12589371), 2005, p. 4
-[^11]: 
-[^12]: 
-[^13]: 
-[^14]: 
-[^15]: 
+[^11]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 18, 63, 65; [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12589371), 2005, p. 3.
+[^12]: Rajaratnam, S. (1972, February 6). [*Singapore: Global city*](https://www.nas.gov.sg/archivesonline/private_records/record-details/e6daf456-115b-11e3-83d5-0050568939ad); National Archives of Singapore. (2016, June 24). [*Connecting Singapore to the world – from submarine cables to satellite earth stations*](https://www.nas.gov.sg/archivesonline/policy_history/card?id=2). Retrieved from National Archives of Singapore website.
+[^13]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 63; Abdullah Abdul Kadir (1849). [*Hikayat Abdullah*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079095). Singapore: Mission Press. (Microfilm nos.: NL7912, NL9717, NL7810) 
+[^14]: Abdullah Abdul Kadir. (1985). [*The Hikayat Abdullah: The autobiography*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4437767) (A.H. Hill, Trans.) (p. 162). Singapore: Oxford University Press. (Call no.: RSING 959.51032 ABD) (Original work published 1969).
+[^15]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 132, 150; [Singapore: Island, city, state](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5514194). (1990). (p. 83). Singapore: Times Editions. (Call no.: RSING 959.5705 SIN-[ISK]) 
 [^16]: 
 [^17]: 
 [^18]:
@@ -169,6 +169,16 @@ Professor <b>Tan Tai Yong</b>  is the second President and Professor of Humaniti
 [^29]: 
 [^30]: 
 [^31]: 
-[^32]: 
+[^32]:
 
-
+Singapore: Island, city, state, 1990, pp. 84–85; Frost & Balasingamchow, 2009, pp. 152, 204–205.
+Frost & Balasingamchow, 2009, p. 182.
+Frost & Balasingamchow, 2009, pp. 182–183.
+Frost & Balasingamchow, 2009, pp. 189, 197.
+Frost & Balasingamchow, 2009, pp. 194–195.
+Frost & Balasingamchow, 2009, pp. 275, 314.
+Frost & Balasingamchow, 2009, pp. 306, 315.
+Frost & Balasingamchow, 2009, pp. 322, 323.
+Frost & Balasingamchow, 2009, pp. 23, 63.
+Frost & Balasingamchow, 2009, p. 66.
+Frost & Balasingamchow, 2009, p. 84.
