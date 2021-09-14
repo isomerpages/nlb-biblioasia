@@ -41,3 +41,23 @@ On reaching the mainland, we screwed on the milometer and embarked on our 34-mil
 However, we got on the right track at last, and after crossing the Krian river on a pontoon bridge, and passing through Parit Buntar, we eventually reached Bagan Serai Resthouse at 7 pm. Our first thought was to see how many miles we had done, but alas the milometer was gone! We informed the police of our loss, hoping that someone might have picked it up. We had very little hope of recovering it, not having a notion where it had been lost, but to our great joy, a constable came round to the resthouse at 9.30 pm to say that the milometer had been found at Sempang Lima – five miles back.
 
 #### **Taiping and the Larut Hills**
+
+Bagan Serai Resthouse is not at all a bad place with an upper storey, but if it were only kept clean! The rooms were thick with dust and the furniture broken. The beds, however, were clean, and the dinner quite good.
+
+In the morning, we drove back for the milometer – which was quite uninjured but the journey delayed us somewhat – and headed for Taiping 26 miles away. Six miles beyond Bagan Serai, the Kuran river is crossed by a small pontoon boat, which is hauled across the stream by a wire rope. Two planks were laid each side to bridge the intervening space of water from the pontoon to the boat, and we drove over these on board, the planks being carried with us to be utilised in the same manner on the other side.
+
+<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare4.JPG">
+<div style="background-color: white;">A map of the Malay Peninsula created in 1906. It includes the places that Mrs Dare and Miss Hardman visited during their road trip in 1907. <i>Image reproduced from Swettenham, F.A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya. London, New York: John Lane the Bodley Head. (Accession nos.: B29031891K, B29267224A; Microfilm nos.: NL19101, NL3279)</i></div>
+
+From this point, the road began to ascend, and we crossed the Semangol Pass, which at 1,279 ft affords a glorious vista of the wooded Larut Hills and the grand mountain ranges of Perak. The road surface was excellent, and a pleasant spin through flat, open country past many deserted tin mines took us into Taiping by 9.30 am, quite ready for the excellent breakfast provided for us by the kind friends with whom we stayed.
+
+Taiping is prettily situated on a flat plain, backed by the Larut Hills (3,600 to 7,000 ft). There is a picturesque lake in the Public Gardens, a good racecourse, rifle range and cricket ground, and two excellent clubs. The well-stocked museum contains the best collection of old Malay krisses and knives in the Federated Malay States.
+
+<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare3.JPG">
+<div style="background-color: white;">The Larut plain and estuary as seen from the Larut Hills. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 55). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350)</i></div>
+
+There are also several bungalows on the Larut Hills belonging to the government as well as private individuals. English flowers and vegetables thrive up there and the temperature is cool enough to make a nice fire at night. The Resident of Perak E.W. Birch kindly placed the bungalow named “The Box” at our disposal and we spent a day and night up there, revelling in a perfect wilderness of lovely roses, heliotrope, lilies, geraniums, azaleas and all sorts of English flowers, in addition to varieties of tropical blooms.
+
+From “The Box” at 4,200 ft, the views are immense. Below, Taiping looks like a tiny map and the roads (being of white limestone and marble) show out distinctly, as was the very straight line of railway to the coast of Port Weld. To the right, in the distance, is the island of Penang and to the left the group of islands called the Dindings; on a clear day, the opposite high mountains of Sumatra are faintly visible.
+
+Inland, one looks into the heart of the Malay Peninsula. Range upon range of mountains from 4,000 to 9,000 feet, nearly all untouched and unscaled by man – primeval jungle – the happy hunting ground of tigers, elephants, deer, wild pig, bears, monkeys and what not!
