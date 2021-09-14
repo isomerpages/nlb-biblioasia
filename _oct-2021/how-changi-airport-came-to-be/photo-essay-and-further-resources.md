@@ -10,7 +10,7 @@ The Changi Airport was the largest public project in Singapore when it was compl
 Before the airport became operational on 1 July 1981, it was opened to the public to great reception. Tours were sold out, and by mid-June the airport had received more than 250,000 visitors, about a tenth of Singapore’s population. Clearly Changi Airport has captured public imagination.[^1]  
 
 PHOTO
-<div style="background-color: white;">Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress on 4 November 1979. *	Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore*
+<div style="background-color: white;">Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress on 4 November 1979. *	Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore*</div>
 
 
 Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against consultants’ initial recommendation. The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]    
@@ -19,7 +19,7 @@ Lee was also involved in the building of Changi Airport. To see where the extens
 	
 	
 [PHOTO]
-<div style="background-color: white;">At the signing ceremony on 17 February 1977, Mr Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from Mr B. M. Lap, chairman of Philips Singapore. *Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore*
+<div style="background-color: white;">At the signing ceremony on 17 February 1977, Mr Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from Mr B. M. Lap, chairman of Philips Singapore. *Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore*</div>
 	
 On 17 February 1977, the Singapore government signed a S$19 million contract with Philips, for the supply of long-range radar and display system (LORADS). 
 
@@ -28,7 +28,7 @@ LORADS was designed to guide 250 aircrafts simultaneously—whether they are lan
 	
 	
 [PHOTO]
-<div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.
+<div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>
 	
 The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year and was the largest in the entire airport complex. Underneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
 
@@ -38,14 +38,14 @@ Before construction of this passenger terminal building was even completed, in 1
 
 | Column 1 | money note |
 | -------- | -------- | 
-| <div style="background-color: white;">An aerial view of the completed Changi Airport, 1981. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.      | <div style="background-color: white;">Reverse side of the new S$20 note. *Courtesy of Monetary Authority of Singapore*. |
+| <div style="background-color: white;">An aerial view of the completed Changi Airport, 1981. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div> | <div style="background-color: white;">Reverse side of the new S$20 note. *Courtesy of Monetary Authority of Singapore*.</div> |
 
 
 Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 note was introduced on 6 August 1979 as part of the bird series.[^6]
 	
 	
 [PHOTO]
-<div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November  1980. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.
+<div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November  1980. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>
 
 The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges are more accessible, allowing passengers to board planes from the terminal building in all weather conditions, rather than taking a bus and climbing a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
 
@@ -54,7 +54,7 @@ The aerobridge is commonplace now. But in 1981, a journalist reporting on her to
 	
 	
 [PHOTO]
-<div style="background-color: white;">Runway II at Changi Airport, 1985. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.  	
+<div style="background-color: white;">Runway II at Changi Airport, 1985. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.</div>  	
 	
 The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. The second runway was built on almost entirely reclaimed land and became operational in February 1984.[^9]  
 
