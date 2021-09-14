@@ -52,3 +52,36 @@ One of the most exciting introductions to households in the mid-20th century was
 
 <img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan5.JPG">
 <div style="background-color: white;">This 1940 General Electric advertisement emphasises the suitability of its radios for the tropics through its depiction of a “Malayan” scene. People initially feared that radios made in the West could not withstand Singapore’s hot and humid weather. The illustration was executed by Warin Advertising Studios in its signature painterly style. <i>Image reproduced from The Straits Times Annual, 1940, p. 98.</i></div>
+
+#### **On The Radio**
+
+Radio broadcasting in Singapore began as a niche interest in 1924, with the Amateur Wireless Society of Malaysia (AWSM) effectively the preserve of the wealthy wireless enthusiast.8 This was soon followed by the establishment of Radio Service Company of Malaya in 1933, which set up Radio ZHI and British Malaya Broadcasting Corporation in 1935.9 By the 1930s, radios in Singapore could receive shortwave broadcasts from around the world, such as the Empire Service of the British Broadcasting Corporation (now the BBC World Service).10
+
+However, local demand for radios was slow on the uptake: in 1929, the Federated Malay States government received applications for only 119 radio licences, compared with the 1,000 issued in Hong Kong the same year. This was largely due to misguided public opinion on the reliability of radio reception and the longevity of radio mechanisms in the tropics. It was commonly thought that radio parts would easily rust and warp in the humid Malayan weather, and that the lack of radio engineers or technicians in the region meant that there might be no real hope of repair.11 As a result, advertisers throughout the early 20th century went out of their way to assure customers that their radio models had been specially made to withstand the tropical climate.
+
+Unsurprisingly, the growth of the industry was driven mainly by the providers of radio services and products, who stoked demand via advertising. The founders of the early broadcasting groups, such as AWSM, were representatives of companies with a vested interest in developing a radio audience, such as General Electric and Marconi’s Wireless Telegraph Company.12
+
+As demand for radio sets increased and prices became more affordable, dealers began importing the latest models from various brands. To distinguish themselves from the competition, advertisers would boast of the reliability and reception quality of their products, and assure buyers that they were purchasing the best and latest technology available in the market.
+
+<img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan6.JPG">
+<div style="background-color: white;">(Left) Transistor radios, such as the one featured in this Philips ad in 1966, made their debut in Singapore in the mid-1950s and became highly popular in the following decades after portable battery-powered versions were introduced. <i>Image reproduced from The Straits Times Annual, 1966, p. 12.</i> (Right) A 1966 Mitsubishi ad for a “micro TV”. <i>Image reproduced from Her World, January 1966, p. 9.</i></div>
+
+#### **Turn on the telly**
+
+The first television station in Singapore, Television Singapura, aired the first broadcast on 15 February 1963, which ran for five hours. It featured the national anthem, an address by then Minister for Culture S. Rajaratnam, followed by a documentary programme on Singapore, cartoon clips, a newsreel, a comedy programme and a variety show.
+
+Singapore households readily embraced television – the first broadcast was watched at home by 2,400 families as well as by members of the public gathered at Victoria Memorial Hall and 52 community viewing centres spread across the island.13
+
+Some of the earliest programmes aired in Singapore were *Huckleberry Hound*, Adventures of Charlie Chan and local variety shows like *Rampaian Malaysia*, which featured music from various local ethnic groups.14
+
+Advertisements for television sets not only emphasised their high-quality picture and sound reception, but also promoted the idea that with their “luxury styling” and “cabinet construction”, these new entertainment devices would double up as attractive furnishings for one’s living room.
+
+|WHO RUNS THE HOUSEHOLD?
+
+|<img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan7.JPG">In the 1950s and 60s, Singaporean women began entering the workforce, but were still expected to undertake housekeeping and child-rearing duties. Women did shift work or less demanding jobs in factories so that they would be able to take care of the family after work hours. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
+
+From the early 20th century onwards, many advertisers of household- and domestic-related goods in Malaya began to target women as their main audience.15 An overwhelming number of advertisements featured women – and very rarely men – as the main consumers and users of home technology.
+
+The prevalence of such advertisements – unprecedented before the advent of pictorial advertising.16 – reflected as well as influenced public perception of women’s roles in society: the fairer sex was often depicted as belonging in the domestic sphere, and responsible for caregiving and house-hold management.17
+
+Advertisements published in Singapore during this time mostly portrayed women – of various ethnicities and economic backgrounds – posing with household goods while looking glamorous alongside high-end appliances, or else engaged in domestic chores such as cooking, sewing or doing laundry. A rare household ad targeted at men in 1969 promoted Singer sewing machines as good gifts for their wives.18
