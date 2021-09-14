@@ -224,27 +224,27 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^35]:Seah, R. (1981, February 3). [A good shot in the right direction](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810203-1.2.22.aspx). *The Business Times*, p. 6. Retrieved from NewspaperSG.
 
-[^36]:The Business Times, 3 Feb 1981, p. 6.
+[^36]:*[The Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810203-1.2.22.aspx)* , 3 Feb 1981, p. 6.
 
-[^37]:The Business Times, 3 Feb 1981, p. 6.
+[^37]:*[The Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810203-1.2.22.aspx)* , 3 Feb 1981, p. 6.
 
-[^38]:The Business Times, 3 Feb 1981, p. 6.
+[^38]:*[The Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810203-1.2.22.aspx)* , 3 Feb 1981, p. 6.
 
-[^39]:National Library Board. (2016). Three Rifles Holdings is established. Retrieved from HistorySG.
+[^39]:National Library Board. (2016). *[Three Rifles Holdings is established](http://eresources.nlb.gov.sg/history/events/22b5e23e-1daa-42ed-8582-cc3d21b2a7f9)*. Retrieved from HistorySG.
 
-[^40]:Tan, C. (1997, September 29). Three Rifles sets its sights on property development. The Straits Times, p. 48. Retrieved from NewspaperSG.
+[^40]:Tan, C. (1997, September 29). *[Three Rifles sets its sights on property development](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970929-1.2.69.1.aspx)*. *The Straits Times*, p. 48. Retrieved from NewspaperSG.
 
-[^41]:Yap, S. (2003, April 3). TR Networks expanding market into Singapore. The Business Times. p. 8. Retrieved from NewspaperSG.
+[^41]:Yap, S. (2003, April 3). [TR Networks expanding market into Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20030403-1.2.17.7.aspx). *The Business Times*. p. 8. Retrieved from NewspaperSG.
 
-[^42]:Goh, E. Y. (2005, January 11). TR Networks buys Three Rifles. The Straits Times, p. H17. Retrieved from NewspaperSG.
+[^42]:Goh, E. Y. (2005, January 11). [TR Networks buys Three Rifles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050111-1.2.36.30.26.aspx). *The Straits Times*, p. H17. Retrieved from NewspaperSG.
 
-[^43]:Khin, N. (2006, November 23). Three Rifles looks to open Balmain store in Singapore. The Business Times, p. 7. Retrieved from NewspaperSG.
+[^43]:Khin, N. (2006, November 23). [Three Rifles looks to open Balmain store in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20061123-1.2.9.7.aspx). *The Business Times*, p. 7. Retrieved from NewspaperSG.
 
-[^44]:National Heritage Board. (2015, July 2). Thye Hong Centre. Retrieved from National Heritage Board website; $250,000 biscuit plant in Singapore. (1935, March 27). The Straits Times, p. 13. Retrieved from NewspaperSG.
+[^44]:National Heritage Board. (2015, July 2). *Thye Hong Centre*. Retrieved from National Heritage Board website; [$250,000 biscuit plant in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350327-1.2.74.aspx). (1935, March 27). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
-[^45]:The Straits Times, 27 Mar 1935, p. 13; 1,500 tons of biscuits every month. (1952, November 11). The Straits Times, p. 14. Retrieved from NewspaperSG.
+[^45]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350327-1.2.74.aspx)* , 27 Mar 1935, p. 13; [1,500 tons of biscuits every month](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19521111-1.2.197.aspx). (1952, November 11). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
 
-[^46]:Ee, B. L. (1960, April 25). Kidnap: Body found. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^46]:Ee, B. L. (1960, April 25). [Kidnap: Body found](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600425-1.2.2.aspx). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
 [^47]:Cheong, Y. S. (1965, July 23). Biscuit king’s son shot. The Straits Times, p. 1. Retrieved from NewspaperSG.
 
