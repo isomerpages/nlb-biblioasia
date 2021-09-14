@@ -188,15 +188,15 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^17]:[Another venture from a family of pioneers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630302-1.2.88.1.aspx). (1963, March 2). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^18]:[Another first’ in banking world: An all-woman staff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630824-1.2.108.aspx). (1963, August 24). *The Straits Times*, p. 15; All ladies bank a success. (1966, May 16). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+[^18]:[Another first’ in banking world: An all-woman staff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630824-1.2.108.aspx). (1963, August 24). *The Straits Times*, p. 15; [All ladies bank a success](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660521-1.2.115.13.aspx). (1966, May 16). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
-[^19]:The Straits Times, 4 Feb 1971, p. 6.
+[^19]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710204-1.2.47.aspx)*, 4 Feb 1971, p. 6.
 
-[^20]:Johnson, B. (1971, June 5). Haw Par: UK firm acquires big stake. The Straits Times, p. 1; Johnson, B. (1971, June 18). It’s a deal: $22m cash! The Straits Times, p. 1. Retrieved from NewspaperSG. 
+[^20]:Johnson, B. (1971, June 5). [Haw Par: UK firm acquires big stake](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710605-1.2.7.aspx). *The Straits Times*, p. 1; Johnson, B. (1971, June 18). [It’s a deal: $22m cash! ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710618-1.2.2.aspx)*The Straits Times*, p. 1. Retrieved from NewspaperSG. 
 
-[^21]:Retired head of Chung Khiaw to run insurance companies. (1971, August 3). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^21]:[Retired head of Chung Khiaw to run insurance companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710803-1.2.62.aspx). (1971, August 3). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^22]:Dato Aw dies during visit to Chile. (1971, August 24). New Nation, p. 1; Raymond, J. (2002, December 5). Tiger Balm’s poor old lady. Today, p. 1. Retrieved from NewspaperSG.
+[^22]:[Dato Aw dies during visit to Chile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710824-1.2.7.aspx). (1971, August 24). *New Nation*, p. 1; Raymond, J. (2002, December 5). [Tiger Balm’s poor old lady](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20021205-1.2.2.aspx). Today, p. 1. Retrieved from NewspaperSG.
 
 [^23]:Raja to launch Singapore TV. (1963, February 13). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
