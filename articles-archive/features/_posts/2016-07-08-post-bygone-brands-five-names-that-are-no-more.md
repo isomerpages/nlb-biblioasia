@@ -252,7 +252,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^49]:Lee, G. (1964, October 28). [Local biscuits and sweets measure up to world standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641028-1.2.125.107.aspx). *The Straits Times*, p. 52. Retrieved from NewspaperSG.
 
-[^50]:The Straits Times, 28 Oct 1964, p. 52.
+[^50]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641028-1.2.125.107.aspx)*, 28 Oct 1964, p. 52.
 
 [^51]:English biscuits to be made locally. (1971, June 23). The Straits Times, p. 11. Retrieved from NewspaperSG.
 
