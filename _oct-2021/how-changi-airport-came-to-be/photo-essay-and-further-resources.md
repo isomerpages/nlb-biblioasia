@@ -35,12 +35,8 @@ The S$268 million five-storey passenger terminal building was built to handle 10
 Before construction of this passenger terminal building was even completed, in 1980, the government was considering building a second one to expand the capacity of Changi airport, as 17 million passengers were estimated to pass through the airport by 1989.[^5]  
 
 	
-[PHOTO]
 
-	
-	
-
-| Column 1 | Column 2 |
+| Column 1 | money note |
 | -------- | -------- | 
 | <div style="background-color: white;">An aerial view of the completed Changi Airport, 1981. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.      | <div style="background-color: white;">Reverse side of the new S$20 note. *Courtesy of Monetary Authority of Singapore*. |
 
