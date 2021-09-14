@@ -176,4 +176,4 @@ Ptak, J. (1995). Images of Maritime Asia in two Yuan texts: “Daoyi zhilue” a
 Kwa, Heng & Tan, 2009, p. 64.
 Tan, T. Y. (2005). Early entrepot portal: Trade and founding of Singapore (p. 1). In A. Lau & L. Lau (Eds.), Maritime heritage of Singapore. Singapore: Suntree Media. (Call no.: RSING q387.5095957 MAR)
 Frost & Balasingamchow, 2009, p. 47.
-Tan, 2005, p. 4 
+Tan, 2005, p. 4
