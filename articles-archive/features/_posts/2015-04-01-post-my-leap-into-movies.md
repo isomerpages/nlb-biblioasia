@@ -44,7 +44,7 @@ I took a personal hit financially with <i>The Blue Mansion</i>, mainly because i
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_5.jpg)
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion.jpg)
-<div style="background-color: white;">The Blue Mansion is a murder mystery starring Lim Kay Siu (top left and middle, extreme left), Claire Wong, Louisa Chong, Adrian Pang, Tan Kheng Hua and Karen Tan (middle from left to right), and the late Emma Yong (bottom). <i>Courtesy of Tiger Tiger Pictures</i></div>
+<div style="background-color: white;">The Blue Mansion is a murder mystery starring Lim Kay Siu (top left and middle, extreme left), Claire Wong, Louisa Chong, Adrian Pang, Tan Kheng Hua and Karen Tan (middle from left to right), and the late Emma Yong (bottom). <i>Courtesy of Tiger Tiger Pictures.</i></div>
 	
 As a nation of immigrants, Singaporeans have no common language except for English; it has become our official lingua franca and our situation is unique for an Asian country. As a director, I make films about the Singapore I know – a Singapore where English or rather Singlish is primarily used as a means of communication. A significant majority of our population, however, converse in Chinese dialects in their homes. This is why Chinese films tend to do better at the domestic box office. I’ve recently started to source for funding for my next film <i>Pontianak</i>, and already, I’ve faced rejection for its language. A local production company (that will remain unnamed) has chosen not to invest in the film because it will be in Malay and does not feature any Chinese actors. The perceived financial risks are just too high. 
 	
