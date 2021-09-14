@@ -75,7 +75,7 @@ The video below shows the radome (the dome-like structure on top of the control 
 
 
 
-#### NOTES
+#### **NOTES**
 [^1]: “[Crowds Flock to Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.28),” <i>New Nation</i>, 3 June 1981, 6; “[250,000 Have Visited Airport So Far](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810616-1.2.50.4),” <i>Straits Times</i>, 16 June 1981, 10 (From NewspaperSG); Department of Statistics Singapore, <i>Population Trends 2020</i> (Department of Statistics, Ministry of Trade & Industry, 2020), 37. 
 
 [^2]: Lee Kuan Yew, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad),” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991) 
