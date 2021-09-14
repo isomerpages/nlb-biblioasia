@@ -140,9 +140,9 @@ Professor <b>Tan Tai Yong</b>  is the second President and Professor of Humaniti
 #### **Notes**
 [^1]: Frost, M.R., & Balasingamchow, Y.-M. (2009). [*Singapore: A biography*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116) (pp. 40–46, 48). Singapore: Editions Didier Millet and National Museum of Singapore. (Call no.: RSING 959.57 FRO-[HIS]) 
 [^2]: Haughton, H.T. (1882, June). Landing of Raffles in Singapore by an eye-witness. *Journal of the Straits Branch of the Royal Asiatic Society*, 10, p. 286. Retrieved from Internet Archive. 
-[^3]: Heng, D. (2011). Situating Temasik within the larger regional context: Maritime Asia and Malay State formation in the pre-modern era (pp. 46–47). In D. Heng & Syed Muhd Khairudin Aljunied (Eds.), [Singapore in global history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14033899&). Amsterdam: Amsterdam University Press. (Call no.: RSING 959.57-[HIS]); Frost & Balasingamchow, 2009, pp. 24–26.
-[^4]: 
-[^5]: 
+[^3]: Heng, D. (2011). Situating Temasik within the larger regional context: Maritime Asia and Malay State formation in the pre-modern era (pp. 46–47). In D. Heng & Syed Muhd Khairudin Aljunied (Eds.), [*Singapore in global history*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14033899&). Amsterdam: Amsterdam University Press. (Call no.: RSING 959.57-[HIS]); [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116&), 2009, pp. 24–26.
+[^4]: Kwa, C.G, Heng, D., & Tan, T.Y. (2009). [*Singapore, a 700-year history: From early emporium to world city*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984) (p. 23). Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA-[HIS]); Heng, 2011, p. 44. 
+[^5]: [Kwa, Heng & Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984), 2009, p. 24; Brown, C.C. (1952). The Malay Annals. [Journal of the Malayan Branch of the Royal Asiatic Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709), 25(2), 29–31. Singapore: Malayan Branch, Royal Asiatic Society. (Call no.: RCLOS 959.5 JMBRAS-[GBH] 
 [^6]: 
 [^7]: 
 [^8]: 
@@ -170,8 +170,6 @@ Professor <b>Tan Tai Yong</b>  is the second President and Professor of Humaniti
 [^30]: 
 [^31]: 
 [^32]: 
-Kwa, C.G, Heng, D., & Tan, T.Y. (2009). Singapore, a 700-year history: From early emporium to world city (p. 23). Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA-[HIS]); Heng, 2011, p. 44. 
-Kwa, Heng & Tan, 2009, p. 24; Brown, C.C. (1952). The Malay Annals. Journal of the Malayan Branch of the Royal Asiatic Society, 25(2), 29–31. Singapore: Malayan Branch, Royal Asiatic Society. (Call no.: RCLOS 959.5 JMBRAS-[GBH] 
 Ptak, J. (1995). Images of Maritime Asia in two Yuan texts: “Daoyi zhilue” and “Yiyu zhi”. Journal of Song-Yuan Studies, 25, 47–75. Retrieved from JSTOR via NLB’s eResources website.
 Kwa, Heng & Tan, 2009, p. 64.
 Tan, T. Y. (2005). Early entrepot portal: Trade and founding of Singapore (p. 1). In A. Lau & L. Lau (Eds.), Maritime heritage of Singapore. Singapore: Suntree Media. (Call no.: RSING q387.5095957 MAR)
