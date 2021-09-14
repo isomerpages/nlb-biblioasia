@@ -206,11 +206,11 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^26]:[Television assembly factory plans further extension](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651204-1.2.144.55.aspx). (1965, December 4). *The Straits Times*, p. 29. Retrieved from NewspaperSG; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.98.1.aspx)*, 28 Apr 1966, p. 15.
 
-[^27]:Company farsighted. (1966, April 28). The Straits Times, p.15. Retrieved from NewspaperSG
+[^27]:[Company farsighted](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.98.3.aspx). (1966, April 28). *The Straits Times*, p.15. Retrieved from NewspaperSG
 
-[^28]:One home in six has TV. (1966, April 26). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^28]:[One home in six has TV](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.98.2.aspx). (1966, April 26). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^29]:Page 15 Advertisements Column 1: Setron. (1966, April 26). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^29]:[Page 15 Advertisements Column 1: Setron](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.99.1.aspx). (1966, April 26). The Straits Times, p. 15. Retrieved from NewspaperSG.
 
 [^30]:Ho, A. L. (2015, May 24). Setron, a bright spark in troubled times. The Sunday Times, p. 42. Microfilm no.: NL 33501
 
