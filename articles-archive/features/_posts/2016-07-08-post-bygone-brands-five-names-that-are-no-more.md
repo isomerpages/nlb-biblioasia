@@ -14,7 +14,7 @@ Do you remember Chung Khiaw Bank, Setron TVs and Three Rifles shirts? They were 
 
 It was called the “Selfridges of the East”, the poshest chain of department stores this side of the Suez.[^1] Shoppers looking for high-end European products during the early 20th century would make a beeline for this iconic store – Whiteaway, Laidlaw & Co.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/bygone-brands/02-bygonebrands.jpg">A Whiteaways advertisement in the 1937-38 issue of The Singapore Cinema Review introducing the “… exciting new perfume” called Mischief – all for the princely price of $1.75 or $2.75 a bottle. <i>© The Singapore Cinema Review.</i></div>
+<div style="background-color: white;"><img style="width:250px" src="/images/Vol-12-issue-2/bygone-brands/02-bygonebrands.jpg">A Whiteaways advertisement in the 1937-38 issue of The Singapore Cinema Review introducing the “… exciting new perfume” called Mischief – all for the princely price of $1.75 or $2.75 a bottle. <i>© The Singapore Cinema Review.</i></div>
 
 Founded by two Scotsmen, E. Whiteaway and Robert Laidlaw, the first store was set up in Calcutta in 1882, where both men were based. Their business boomed, with branches sprouting in over 20 cities in India and the Straits Settlements (Singapore, Penang and Malacca), and in places such as Kuala Lumpur, Ipoh, Taiping, Seremban and Klang.[^2]
 
@@ -64,7 +64,7 @@ On 4 June 1971, news emerged that Aw had sold a substantial stake in the company
 
  In August that year, the managing director Lee Chee Shan retired from his position, saying that he wanted to give way “to a young and dynamic leadership”.[^21] A year later, UOB completed its takeover of Chung Khiaw Bank. In 1999, UOB merged its Chung Khiaw bank subsidiary to rationalise operations. In one fell swoop, the name Chung Khiaw Bank was erased forever.
  
- <div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bygone-brands/04-bygonebrands.jpg">Managing Director Lee Chee San (centre) with friends at the opening of the Tiong Bahru branch of Chung Khiaw Bank in 1958. <i>All rights reserved, Yeap, J. K. (1994). Far from Rangoon: Lee Chee San 1906–1986. Singapore: Lee Teng Lay.</i></div>
+ <div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/bygone-brands/04-bygonebrands.jpg">Managing Director Lee Chee San (centre) with friends at the opening of the Tiong Bahru branch of Chung Khiaw Bank in 1958. <i>All rights reserved, Yeap, J. K. (1994). Far from Rangoon: Lee Chee San 1906–1986. Singapore: Lee Teng Lay.</i></div>
 
 As for the Haw Par family fortune that was reportedly worth hundreds of millions, it did not last beyond the second generation. Aw Cheng Chye died in August 1971, a few months after selling Haw Par to Slater Walker Securities. After a series of bad investments by other family members, the money was whittled away. Matriarch Aw Cheng Hu, the niece of founder Aw Boon Haw – and the widow of Lee – was said to be living in a rented four-room HDB flat in Sengkang a few years before her death in 2010.[^22]
 
@@ -100,7 +100,7 @@ Setron continued to manufacture TV sets until the 1980s. In 1986, it became a su
 
 Many Singaporeans grew up with the trademark Three Rifles shirt, worn by their husbands, fathers or even grandfathers. It was set up by Chong Chong Choong, who left his Kuala Lumpur hometown at age 14 to strike out on his own in Singapore as an apprentice selling shirts and textiles.[^35]
 
- <div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/bygone-brands/06-bygonebrands.jpg">Three Rifles Shirts billed its shirts as “the distinctive shirt for the distinguished man about town” in this advertisement dated 19 April 1980 in the <i>New Nation. © New Nation.</i></div>
+ <div style="background-color: white;"><img style="width:250px" src="/images/Vol-12-issue-2/bygone-brands/06-bygonebrands.jpg">Three Rifles Shirts billed its shirts as “the distinctive shirt for the distinguished man about town” in this advertisement dated 19 April 1980 in the <i>New Nation. © New Nation.</i></div>
  
 Five years later, in 1955, at age 19, Chong opened his first shop in Bukit Panjang selling shirts from different brands. It was just half a shop space, bought at a princely sum of $7,000 – his hard-earned savings. Business was brisk; in just four years, his half shop had expanded into one full shop space. He stayed in that location for another 10 years, until 1969 when he opened a store at The President, one of Singapore’s first shopping centres (today renamed Serangoon Plaza).[^36]
 
