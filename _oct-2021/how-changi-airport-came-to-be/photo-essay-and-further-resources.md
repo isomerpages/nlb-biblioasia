@@ -71,5 +71,8 @@ The aerobridge is commonplace now. But in 1981, a journalist reporting on her to
    
 [^6]: “[Birds to Drive Out Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19790804-1.2.52),” *Business Times*, 4 August 1979, 12. (From NewspaperSG)
 	
-	
+[^7]: Changi Airport Group, “[50 Years of Air Travel in Singapore](http://www.changiairport.com/content/dam/cacorp/publications/Changi%20Connections/2015/290515_CC_sg50_low.pdf),” 3. 
+
+[^8]: Agatha Koh, “[Changi Experience for Only 50 Cents](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.27),” New Nation, 3 June 1981, 6. (From NewspaperSG)
+
 
