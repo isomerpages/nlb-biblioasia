@@ -161,15 +161,15 @@ We boarded the Selangor in Malacca and reached Singapore on 13 May, after a most
 
 #### **References**
 
-Death of Mrs. G.P. Owen. (1927, January 29). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[Death of Mrs. G.P. Owe](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19270129-1.2.61)n. (1927, January 29). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-Ladies motoring in the Malay Peninsula. (1907, May 9) The Singapore Free Press, p. 6. Retrieved from NewspaperSG.
+[Ladies motoring in the Malay Peninsula](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19070509-1.2.39). (1907, May 9) *The Singapore Free Press*, p. 6. Retrieved from NewspaperSG.
 
-Ladies motoring in the Malay Peninsula. (1907, May 11). The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
+[Ladies motoring in the Malay Peninsula](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070511-1.2.76). (1907, May 11). *The Singapore Free Press*, p. 12. Retrieved from NewspaperSG.
 
-Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). One hundred years of Singapore (Vol. 2, p. 364). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
+Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). [One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 2, p. 364). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
 
-Monday, April 8, 1907. (1907, April 11). The Singapore Free Press, p. 232. Retrieved from NewspaperSG.
+[Monday, April 8, 1907](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19070411-1.2.61). (1907, April 11). The Singapore Free Press, p. 232. Retrieved from NewspaperSG.
 
 Motoring in Malaya: Adventurous trip of two ladies in F.M.S. (1907, June 18). The Straits Times, p. 11. Retrieved from NewspaperSG.
 
