@@ -138,3 +138,21 @@ Professor <b>Tan Tai Yong</b>  is the second President and Professor of Humaniti
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
 
 #### **Notes**
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
+[^1]: 
