@@ -156,9 +156,9 @@ Professor <b>Tan Tai Yong</b>  is the second President and Professor of Humaniti
 [^16]: [*Singapore: Island, city, state*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 1990, pp. 84–85; [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 152, 204–205.
 [^17]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 182.
 [^18]:[Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 182–183.
-[^19]: Frost & Balasingamchow, 2009, pp. 189, 197.
-[^20]: Frost & Balasingamchow, 2009, pp. 194–195.
-[^21]: Frost & Balasingamchow, 2009, pp. 275, 314.
+[^19]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 189, 197.
+[^20]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 194–195.
+[^21]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 275, 314.
 [^22]: Frost & Balasingamchow, 2009, pp. 306, 315.
 [^23]: Frost & Balasingamchow, 2009, pp. 322, 323.
 [^24]: Frost & Balasingamchow, 2009, pp. 23, 63.
@@ -170,12 +170,3 @@ Professor <b>Tan Tai Yong</b>  is the second President and Professor of Humaniti
 [^30]: 
 [^31]: 
 [^32]:
-
-
-
-
-
-
-
-
-
