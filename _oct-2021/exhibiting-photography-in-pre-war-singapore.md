@@ -2,6 +2,7 @@
 title: Exhibiting Photography In Pre-war Singapore
 permalink: /vol-17/issue-3/oct-dec-2021/prewarphotography
 ---
+
 #### The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. **Zhuang Wubin** revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/Blank%20-%20Facing%20Page.jpg)
 <div style="background-color: white;">A souvenir guide produced for the Malaya Borneo Exhibition held in Singapore from 31 March to 17 April 1922. <i>Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya (Singapore: Malaya Borneo Exhibition, 1922). (From National Library, Singapore, call no. RRARE 607.34595 MAL; accession no. B02935804I).</i></div>
