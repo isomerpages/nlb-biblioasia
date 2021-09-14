@@ -23,7 +23,7 @@ Lee took a great interest in the building of Changi Airport. To see where the ex
 On 17 February 1977, the Singapore government signed a S$19 million contract with Philips, for the supply of long-range radar and display system. This system was designed to guide 250 aircrafts simultaneously—whether they are landing, taking off or flying—within the controlled airspace about 20 km in height and spanning more than 320 km. It was part of the S$100 million navigational system planned for the new airport, which was positioned to be the region’s air communications hub.[^4]  
  
 	
-#### **Passenger Terminal Building** 	
+#### **The S$268 million Passenger Terminal Building** 	
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/passenger%20building.png)
 <div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
