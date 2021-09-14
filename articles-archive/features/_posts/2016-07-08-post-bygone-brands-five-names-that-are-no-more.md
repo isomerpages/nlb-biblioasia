@@ -244,13 +244,13 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^45]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350327-1.2.74.aspx)* , 27 Mar 1935, p. 13; [1,500 tons of biscuits every month](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19521111-1.2.197.aspx). (1952, November 11). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
 
-[^46]:Ee, B. L. (1960, April 25). [Kidnap: Body found](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600425-1.2.2.aspx). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^46]:Ee, B. L. (1960, April 25). [Kidnap: Body found](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600425-1.2.2.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^47]:Cheong, Y. S. (1965, July 23). Biscuit king’s son shot. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^47]:Cheong, Y. S. (1965, July 23). [Biscuit king’s son shot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650723-1.2.5.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^48]:Soh, T. K. (1965, December 12). Pride and prejudice. The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^48]:Soh, T. K. (1965, December 12). [Pride and prejudice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651212-1.2.14.31.aspx). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^49]:Lee, G. (1964, October 28). Local biscuits and sweets measure up to world standard. The Straits Times, p. 52. Retrieved from NewspaperSG.
+[^49]:Lee, G. (1964, October 28). [Local biscuits and sweets measure up to world standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641028-1.2.125.107.aspx). *The Straits Times*, p. 52. Retrieved from NewspaperSG.
 
 [^50]:The Straits Times, 28 Oct 1964, p. 52.
 
