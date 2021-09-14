@@ -99,3 +99,11 @@ Advertisements for television sets not only emphasised their high-quality pictur
 <br> 
 
 |This essay is reproduced from the book, Between the Lines: Early Print Advertising in Singapore 1830s–1960s. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET).
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan9.jpg" style="width: 100px; height: 100px;">
+<b>Georgina Wong</b> is an Assistant Curator with the National Library, Singapore, and co-curator of the exhibition, “On Paper: Singapore Before 1867”.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
