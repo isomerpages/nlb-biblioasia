@@ -138,7 +138,7 @@ I feel very privileged to have met so many survivors and have had access to so m
 
 #### **References**
 
-Books
+<u><b>Books</b></u>
 Hodgkins, F. (2014). From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
 
 La Brooy, M. (1987). Where is thy victory? [S.l. : s.n.,]. Call no.: RSING 940.5481 LAB-[WAR]
@@ -153,14 +153,16 @@ Van Cuylenburg, J. B. (1982). Singapore: Through sunshine and shadow. Singapore:
 
 Wijeysingha. E., & Nicolas, R. (2006). Going forth…: The Catholic Church in Singapore 1819–2004. Singapore: Nicholas Chia. Call no.: RSING 282.5957 WIJ-[SRN]
 
-Newspapers
-The Straits Times
+<u><b>Newspapers</u></b>
 
-The Syonan Shimbun
+*The Straits Times*
 
-The Syonan Times
+*The Syonan Shimbun*
 
-Unpublished sources
+*The Syonan Times*
+
+<u><b>Unpublished sources</u></b>
+
 Heine, Major K.R.R. Royal Engineers. (1945). “Operation Galvanic Slate”. From the private papers of G. Tack. Imperial War Museum, London.
 
 Meissonnier, P, (1947). Memories of Bahau: December 1943– October 1945. [Translated by René Nicholas. Originally published as Un évêque missionnaire, chef du STO en Malaise” Missionnaires d’Asie, no 29-30-31].
@@ -174,7 +176,7 @@ Marcus, Philip Carlyle (1982) (Accession no.: 000183)
 
 Woodford, Esme (2007) (Accession no.: 003267)
 
-For a full list of references behind the research, see Hodgkins, F. (2014). From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
+For a full list of references behind the research, see Hodgkins, F. (2014). *[From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200929389)*. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
 
 #### **Notes**
 
