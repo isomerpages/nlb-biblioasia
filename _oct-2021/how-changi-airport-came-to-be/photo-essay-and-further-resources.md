@@ -35,7 +35,7 @@ Before construction of this passenger terminal building was even completed, in 1
 
 	
 #### A Matter of National Pride  
-| Column 1 | money note |
+| ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerialview.png) | ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/note.png) |
 | -------- | -------- | 
 |An aerial view of the completed Changi Airport, 1981. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*. | <div style="background-color: white;">Reverse side of the new S$20 note. *Courtesy of Monetary Authority of Singapore*.</div> |
 
