@@ -196,11 +196,11 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^21]:[Retired head of Chung Khiaw to run insurance companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710803-1.2.62.aspx). (1971, August 3). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^22]:[Dato Aw dies during visit to Chile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710824-1.2.7.aspx). (1971, August 24). *New Nation*, p. 1; Raymond, J. (2002, December 5). [Tiger Balm’s poor old lady](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20021205-1.2.2.aspx). Today, p. 1. Retrieved from NewspaperSG.
+[^22]:[Dato Aw dies during visit to Chile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710824-1.2.7.aspx). (1971, August 24). *New Nation*, p. 1; Raymond, J. (2002, December 5). [Tiger Balm’s poor old lady](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20021205-1.2.2.aspx). *Today*, p. 1. Retrieved from NewspaperSG.
 
-[^23]:Raja to launch Singapore TV. (1963, February 13). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^23]:[Raja to launch Singapore TV](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630213-1.2.17.aspx). (1963, February 13). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^24]:Lim, B. T. (1966, April 28). First Singapore electronics factory. The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^24]:Lim, B. T. (1966, April 28). [First Singapore electronics factory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.98.1.aspx). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
 [^25]:The Straits Times, 28 Apr 1966, p. 15.
 
