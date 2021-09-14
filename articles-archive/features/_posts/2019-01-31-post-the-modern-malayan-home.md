@@ -45,3 +45,10 @@ Home goods were often touted as essential to the “modern home”. The “ideal
 
 <img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan4.JPG">
 <div style="background-color: white;">(Left) A 1952 ad by Osram depicting the warm and cosy home atmosphere that its lamps promised to create. <i>Image reproduced from The Straits Times Annual, 1952, p. 8.</i> (Right) Ads such as this one for Morphy-Richards appliances in 1953 were mostly found in newspapers and magazines read by the more well-to-do. The “modern” way of life was cast as an aspirational ideal. <i>Image reproduced from The Straits Times Annual, 1953, p. 14.</i></div>
+
+#### **Home Entertainment**
+
+One of the most exciting introductions to households in the mid-20th century was home entertainment in the form of radio, television and the gramophone. These innovations grew to become household staples in Singapore, creating an entirely new way for families to spend their leisure time. One could enjoy vinyl recordings of popular and classical music, radio and television shows and dramas, daily news from around the world as well as sports and racing commentaries and broadcasts – all from the comfort of one’s home. Radio and television would eventually grow to dominate media and communication around the world, with advertisers quickly adopting these new media to sell their goods and services.
+
+<img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan5.JPG">
+<div style="background-color: white;">This 1940 General Electric advertisement emphasises the suitability of its radios for the tropics through its depiction of a “Malayan” scene. People initially feared that radios made in the West could not withstand Singapore’s hot and humid weather. The illustration was executed by Warin Advertising Studios in its signature painterly style. <i>Image reproduced from The Straits Times Annual, 1940, p. 98.</i></div>
