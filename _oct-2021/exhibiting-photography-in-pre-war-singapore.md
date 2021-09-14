@@ -2,9 +2,8 @@
 title: Exhibiting Photography In Pre-war Singapore
 permalink: /vol-17/issue-3/oct-dec-2021/prewarphotography
 ---
-
 #### The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. **Zhuang Wubin** revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/Blank%20-%20Facing%20Page.jpg)
 <div style="background-color: white;">A souvenir guide produced for the Malaya Borneo Exhibition held in Singapore from 31 March to 17 April 1922. <i>Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya (Singapore: Malaya Borneo Exhibition, 1922). (From National Library, Singapore, call no. RRARE 607.34595 MAL; accession no. B02935804I).</i></div>
 
 Between the 1920s and the onset of the Japanese Occupation in 1942, there had been various efforts to organise photography exhibitions in Singapore that featured the works of European and Asian photographers. The organisers of each exhibition had their own agendas and reasons for staging the event. Their political affiliations and sources of patronage were also different. By revisiting these initiatives, we can piece together a narrative of pre-World War II Singapore through the conditions that made the staging of these exhibitions necessary and possible.
@@ -14,6 +13,7 @@ Between the 1920s and the onset of the Japanese Occupation in 1942, there had be
 
 On 31 March 1922, the Malaya Borneo Exhibition opened to much fanfare on reclaimed land adjacent to the Telok Ayer basin. Occupying 65 acres (around 263,046 sq m), the colonial spectacle was put together in less than six months. After several extensions, the fair ended on 17 April.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/Blank%20-%20Malaya%20Borneo%20Exhibition.jpg)
 <div style="background-color: white;">The carnival at the Malaya Borneo Exhibition held in Singapore from 31 March to 17 April 1922. <i>Arshak C Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -50,7 +50,7 @@ More crucially, the public display of photographs in the exhibition marked a sig
 
 On 24 March 1935, the Chinese Consul-General to Singapore, Philip K.C. Tyau, presided over the opening of the Overseas Chinese Photographic Exhibition. Newspaper reports hailed the exhibition as the “very first of its kind in Singapore” and the “first one promoted by the Chinese in Malaya”, presumably because it showcased the works of Chinese photographers residing in Malaya even though entries by photographers from Hong Kong were also included.[^17]
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/StraitTimes1.jpg)
 <div style="background-color: white;"><i>The Straits Times</i> featured a selection of photographs from the Overseas Chinese Photographic Exhibition, held at the premises of the Nanyang Chinese Students Society from 24 to 31 March 1935. <i>The Straits Times, 28 March 1935, 20. (From NewspaperSG).</i></div>
 
 
@@ -93,6 +93,7 @@ A three-tier ticketing structure was established: the honorary ticket costing fi
 
 Tapping into SCRFC’s vast network, activists combed the island, cajoling all segments of Chinese society to purchase tickets. By the time the exhibition opened at the SCCC on 24 November 1939, over 6,000 Straits dollars had been raised from ticket sales.[^37]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/Nanyang%20Siang%20Pau2.jpg)
 <div style="background-color: white;">The Chinese Consul-General for Singapore Kao Ling-pai opening the Yunnan-Burma Highway Photo Exhibition at the premises of the Singapore Chinese Chamber of Commerce on 24 November 1939. Top right photo: Lee Kong Chian, president of the exhibition committee. Bottom photo: Visitors at the exhibition. <i>南洋商报 [Nanyang Siang Pau], 25 November 1939, 7. (From NewspaperSG).</i></div>
 
 It is unclear if the Oversea Chinese Photographic Society was involved in the exhibition, but members of the Society of Chinese Artists (SOCA) certainly were. The SOCA was formally established in January 1936, with permission granted by the colonial authorities. In 1938, it helped to establish the Nanyang Academy of Fine Arts (NAFA) with member Lim Hak Tai appointed as the founding principal.[^38] Lim also headed the exhibition’s installation committee, while SOCA president Tchang Ju-ch’i (张汝器) and fellow member Zhuang Youzhao (庄有钊) became his deputies.[^39] The three men were responsible for the exhibition’s clean and modern design. They utilised specially made free-standing panels to display the prints. Red, silk-fabric ropes were used to direct the viewers through the exhibition venue.[^40]
