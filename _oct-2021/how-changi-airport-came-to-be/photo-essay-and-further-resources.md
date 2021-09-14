@@ -28,12 +28,36 @@ LORADS was designed to guide 250 aircrafts simultaneously—whether they are lan
 	
 	
 [PHOTO]
-<div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.
+<div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.
 	
 The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year and was the largest in the entire airport complex. Underneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
 
 Before construction of this passenger terminal building was even completed, in 1980, the government was considering building a second one to expand the capacity of Changi airport, as 17 million passengers were estimated to pass through the airport by 1989.[^5]  
 
+	
+[PHOTO]
+
+	
+	
+
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| <div style="background-color: white;">An aerial view of the completed Changi Airport, 1981. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.      | <div style="background-color: white;">Reverse side of the new S$20 note. *Courtesy of Monetary Authority of Singapore*. |
+
+
+Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 note was introduced on 6 August 1979 as part of the bird series.[^6]
+	
+	
+[PHOTO]
+<div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November  1980. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore*.
+	
+	
+[PHOTO]
+<div style="background-color: white;">	
+	
+	
+	
+	
 	
 #### NOTES
 [^1]: “[Crowds Flock to Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.28),” *New Nation*, 3 June 1981, 6; “[250,000 Have Visited Airport So Far](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810616-1.2.50.4),” *Straits Times*, 16 June 1981, 10 (From NewspaperSG); Department of Statistics Singapore, *Population Trends 2020* (Department of Statistics, Ministry of Trade & Industry, 2020), 37.	
@@ -42,5 +66,9 @@ Before construction of this passenger terminal building was even completed, in 1
 
 [^4]: “[Govt Plans $100 Mil System at Changi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19770218-1.2.43),” <i>Business Times</i>, 18 February 1977, 10. (From NewspaperSG) 
 
-[^5]: Janie Khoo, “Plan for $200m Second Changi Terminal under Study,” Straits Times, 4 March 1980, 8; “This Is the Pride of Changi Airport,” New Nation, 7 July 1977, 4. (From NewspaperSG) 
+[^5]: Janie Khoo, “[Plan for $200m Second Changi Terminal under Study](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800304-1.2.44),” *Straits Times*, 4 March 1980, 8; “[This Is the Pride of Changi Airport](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770707-1.2.19),” *New Nation*, 7 July 1977, 4. (From NewspaperSG) 
    
+[^6]: “[Birds to Drive Out Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19790804-1.2.52),” *Business Times*, 4 August 1979, 12. (From NewspaperSG)
+	
+	
+
