@@ -5,7 +5,7 @@ third_nav_title: How Changi Airport Came To Be
 ---
 #### Built at a cost of $1.5 billion, Changi Airport was the largest public project in Singapore when it was completed in 1981. Learn more about Changi Airport through these photos from the National Archives of Singapore.
 
-Before the airport became operational on 1 July that year, it was opened to an eager public. Tours were sold out, and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population. Clearly Changi Airport had captured public imagination.[^1]  
+Before the airport became operational on 1 July that year, it was opened to an eager public. Tours were sold out, and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population.[^1] Clearly Changi Airport had captured public imagination.  
 
 #### **Prime Minister Lee Kuan Yew's Role**
 ![Alt text for image on Isomer site]
