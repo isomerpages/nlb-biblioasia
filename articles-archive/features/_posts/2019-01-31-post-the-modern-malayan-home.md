@@ -76,7 +76,7 @@ Some of the earliest programmes aired in Singapore were *Huckleberry Hound*, Adv
 
 Advertisements for television sets not only emphasised their high-quality picture and sound reception, but also promoted the idea that with their “luxury styling” and “cabinet construction”, these new entertainment devices would double up as attractive furnishings for one’s living room.
 
-|WHO RUNS THE HOUSEHOLD?
+|**WHO RUNS THE HOUSEHOLD?**
 
 |<img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan7.JPG">In the 1950s and 60s, Singaporean women began entering the workforce, but were still expected to undertake housekeeping and child-rearing duties. Women did shift work or less demanding jobs in factories so that they would be able to take care of the family after work hours. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
 
