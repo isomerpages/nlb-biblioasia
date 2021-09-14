@@ -160,3 +160,21 @@ We boarded the Selangor in Malacca and reached Singapore on 13 May, after a most
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
 
 #### **References**
+
+Death of Mrs. G.P. Owen. (1927, January 29). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+Ladies motoring in the Malay Peninsula. (1907, May 9) The Singapore Free Press, p. 6. Retrieved from NewspaperSG.
+
+Ladies motoring in the Malay Peninsula. (1907, May 11). The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
+
+Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). One hundred years of Singapore (Vol. 2, p. 364). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
+
+Monday, April 8, 1907. (1907, April 11). The Singapore Free Press, p. 232. Retrieved from NewspaperSG.
+
+Motoring in Malaya: Adventurous trip of two ladies in F.M.S. (1907, June 18). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+Motoring in Malaya: Adventurous trip of two ladies in F.M.S. (1907, June 19). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+Motoring in Malaya: Adventurous trip of two ladies in F.M.S. (1907, June 2). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+The late Mr. George Mildmay Dare. (1907, December 16). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
