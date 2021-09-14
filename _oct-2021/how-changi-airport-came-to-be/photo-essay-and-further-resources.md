@@ -29,7 +29,7 @@ On 17 February 1977, the Singapore government signed a S$19 million contract wit
 	
 The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year and was the largest in the entire airport complex. Underneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
 
-Before construction of this passenger terminal building was even completed, in 1980 the government was already looking into building a second one to expand the capacity of Changi airport as 17 million passengers were estimated to pass through the airport by 1989.[^5]  
+About a year before construction of this passenger terminal building was even completed, the government was already looking into building a second one to expand the capacity of Changi Airport, as 17 million passengers were estimated to pass through the airport by 1989.[^5]  
 
 	
 #### **A Matter of National Pride**  
@@ -39,7 +39,7 @@ Before construction of this passenger terminal building was even completed, in 1
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/notereverse.png)
 <div style="background-color: white;">Reverse side of the new $20 note. <i>Courtesy of the Monetary Authority of Singapore</i>.</div> 
 
-Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 note was introduced on 6 August 1979 as part of the bird series.[^6]  
+Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 bill was introduced on 6 August 1979 as part of the bird series currency notes.[^6]  
 
 
 
