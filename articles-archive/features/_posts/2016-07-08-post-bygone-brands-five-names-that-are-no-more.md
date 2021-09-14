@@ -178,13 +178,13 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^12]:[New bank will aid the small man](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491230-1.2.120.aspx). (1949, December 30). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^13]:The Straits Times, 30 Dec 1949, p. 7; Steady progress all through the years. (1971, February 4). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^13]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491230-1.2.120.aspx)*, 30 Dec 1949, p. 7; *[Steady progress all through the years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710204-1.2.47.aspx)*. (1971, February 4). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^14]:The Straits Times, 4 Feb 1971, p. 6.
+[^14]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491230-1.2.120.aspx)* ,4 Feb 1971, p. 6.
 
-[^15]:Leo, S. (2012). (Ed.). Southeast Asian personalities of Chinese descent: A biographical dictionary (Vol. 1, p.497). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.004951 SOU
+[^15]:Leo, S. (2012). (Ed.). *[Southeast Asian personalities of Chinese descent: A biographical dictionary](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14641662)* (Vol. 1, p.497). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.004951 SOU
 
-[^16]:The $3.5 million success story of Singapore’s ‘piggy’ bank. (1960, February 7). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^16]:[The $3.5 million success story of Singapore’s ‘piggy’ bank](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600207-1.2.44.aspx). (1960, February 7). The Straits Times, p. 5. Retrieved from NewspaperSG.
 
 [^17]:Another venture from a family of pioneers. (1963, March 2). The Straits Times, p. 9. Retrieved from NewspaperSG.
 
