@@ -1,9 +1,10 @@
 ---
 title: "From Lat Pau to Zaobao: A History of Chinese Newspapers"
 date: 2020-01-21
-permalink: /vol-15/issue-4/jan-mar-2020/
+permalink: /vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao
 layout: post
 ---
+
 #### Chinese newspapers have been published in Singapore since the 19th century. **Lee Meiyu** looks at how they have evolved and examines their impact on the Chinese community here.
 
 <img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image8.JPG">
