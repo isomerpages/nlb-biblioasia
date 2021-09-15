@@ -25,7 +25,7 @@ Although published by missionaries, the *Eastern Western Monthly Magazine* was a
 
 A little over four decades after the demise of *Eastern Western Monthly Magazine*, *Lat Pau*,[^6] the first Chinese daily in Singapore (and Southeast Asia), made its debut. *Lat Pau* was founded in December 1881 by See Ewe Lay (薛有礼), a prominent Melaka-born Straits Chinese who moved to Singapore to join the Hong Kong and Shanghai Bank as a comprador.
 
-<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/combine.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/combine.JPG">
 <div style="background-color: white;"> (Left) See Ewe Lay  founded the <i>Lat Pau</i> newspaper in December 1881. He is seen here with his eldest son, See Tiouw Hong. <i>Image reproduced from Chen, M.H. (1967). The Early Chinese Newspapers of Singapore, 1881–1912 (plate 1). Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE).</i>   
 <br> (Right) The earliest extant copy of Lat Pau dated 19 August 1887. This front page with the masthead features an editorial and three news items. <i>Image reproduced from Chen, M.H. (1967). The Early Chinese Newspapers of Singapore, 1881–1912 (p. 30). Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE).</i></div>
 
