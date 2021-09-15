@@ -122,3 +122,19 @@ All these dishes, practices and tastes of bygone years are just distant memories
 
 <div style="background-color: white;"><img src="/images/Vol-12-issue-2/forgotten-food/08-forgottenfood-mealtimememories.jpg">(Left) The writer used to pick pak kia, or guava, from wayside trees on her way home from school. This variety with sweet, pink flesh is rarely found these days. This is one of the paintings that William Farquhar commissioned Chinese artists to do between 1803 and 1818 when he was Resident and Commandant of Malacca. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 <div style="background-color: white;">(Right) Durian flowers can be fried with chilli paste or cooked with spices and coconut milk to make a <i>lemak</i> (spicy coconut gravy). <i>Courtesy of Sylvia Tan.</i></div>
+
+Unfortunately, it was a lifestyle that could not withstand the push towards economic development. Limited land space meant that we stopped growing our own food while universal education saw the rise of the working woman which, unfortunately, led to a narrowing of palates as families stopped cooking altogether. Perhaps it’s time we started preserving our food history by creating an archive of recipes, and by teaching our students in school how to cook these heritage dishes rather than turning out rock buns – the standard primer in domestic science classes three decades ago, and perhaps still today.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/jessie-yak.png">
+	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+</div>
+
+<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+
+#### **Notes**
+
+[^1]:Wee, E. H. (2011). *[Cooking for the president. Reflections & recipes of Mrs Wee Kim Wee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14422131)*. Singapore: Wee Eng Hwa. Call no.: RSING 641,595957 WEE
+
+[^2]:Tan, C. (2015). Nerd baker: Extraordinary recipes, stories & baking adventures from a true oven geek. Singapore: Epigram Books. Call no.: RSING 641.815 TAN
