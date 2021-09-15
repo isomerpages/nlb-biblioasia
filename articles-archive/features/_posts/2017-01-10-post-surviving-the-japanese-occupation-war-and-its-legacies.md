@@ -18,9 +18,9 @@ That fateful event was preceded by a week of intense fighting, dubbed “The Bat
 
 #### **A New Exhibition Opens**
 
-The Former Ford Factory – as the building is officially known − was gazetted as a national monument on 15 February 2006, following its conversion into a World War II exhibition space by its custodian, the National Archives of Singapore (NAS). Memories at Old Ford Factory (MOFF), as the gallery was called, operated for a decade until it closed in February 2016 for a major revamp.
+The Former Ford Factory – as the building is officially known − was gazetted as a national monument on 15 February 2006, following its conversion into a World War II exhibition space by its custodian, the National Archives of Singapore (NAS). Memories at Old Ford Factory (MOFF) operated for a decade until it closed in February 2016 for a major revamp.
 
-Now, after a year-long refurbishment, the exhibition reopens as “Surviving the Japanese Occupation: War and its Legacies”, featuring refreshed content and a new focus.  The subtitle highlights a new area of focus for the exhibition by looking at the impact of the war and the Occupation years, including the immediate and longer-term legacies of this period on Singapore and the region.
+Now, after a year-long refurbishment, the MOFF reopens as the Former Ford Factory, featuring refreshed content and a new focus.  The exhibition highlights a new area of focus by looking at the impact of the war and the Occupation years, including the immediate and longer-term legacies of this period on Singapore and the region.
 
 Back in 1981, seeing the dearth of written records left behind by the Japanese administration during the three-and-a-half years it occupied Singapore, the NAS, under its then Director Lily Tan, “embarked on a project to collect oral recordings and to look for documents, photographs and all kinds of paraphernalia related to the war and the Occupation”.[^1]
 
@@ -159,9 +159,7 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 <img src="/images/space1.png">
 </div>
 
-|**SURVIVING THE JAPANESE OCCUPATION: WAR AND ITS LEGACIES**|
-
-|Former Ford Factory|
+|**FORMER FORD FACTORY**|
 
 |351 Upper Bukit Timah Road, Singapore 588192|
 
@@ -171,7 +169,7 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 
 |Daily guided tours are available.|
 
-|Visit [www.nas.gov.sg/formerfordfactory](https://www.nas.gov.sg/formerfordfactory) for more information.|
+|Visit [https://corporate.nas.gov.sg/former-ford-factory/overview/ ](https://corporate.nas.gov.sg/former-ford-factory/overview/) for more information.|
 
 <div style="background-color: white;">
 <br>
