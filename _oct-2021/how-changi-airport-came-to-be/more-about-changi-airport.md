@@ -46,8 +46,7 @@ Changi Airport was to become a symbol of national pride. Two years before the ai
 
 
 #### **Aerobridges**
-
-![Alt text for image on Isomer site]
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerobridge.png)
 <div style="background-color: white;">Newly installed aerobridges at the Finger Pier, November 1980. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
 The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges allow passengers to board planes from the terminal building rather than having to take a bus and climb a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
