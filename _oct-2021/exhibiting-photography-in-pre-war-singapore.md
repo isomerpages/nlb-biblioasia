@@ -168,7 +168,7 @@ In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40
 [^20]: “[Photo Exhibition: Artistic Work by Overseas Chinese](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350325-1.2.12),” *Singapore Free Press*, 25 March 1935, 2. (From NewspaperSG)
 
 
-[^21]: “[*本坡将有华侨摄影展览会](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19350206-1.2.43.3)*” [“Singapore to Host Overseas Chinese Photographic Exhibition”], *南洋商报* [*Nanyang Siang Pau*], 6 February 1935, 6. (From NewspaperSG)
+[^21]: “[*本坡将有华侨摄影展览会*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19350206-1.2.43.3)” [“Singapore to Host Overseas Chinese Photographic Exhibition”], *南洋商报* [*Nanyang Siang Pau*], 6 February 1935, 6. (From NewspaperSG)
 
 [^22]: “[Photographic Exhibition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19350207-1.2.115).”
 
