@@ -16,7 +16,7 @@ Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In
 Lee took a great interest in the building of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to get a bird's-eye view of the entire construction site.[^3]  
 	
 	
-#### **A S$100 Million Navigational System**
+#### **A S$100-Million Navigational System**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/radar1500.png)
 <div style="background-color: white;">At the signing ceremony on 17 February 1977, Mr Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from Mr B. M. Lap, chairman of Philips Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 	
