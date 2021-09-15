@@ -79,9 +79,9 @@ Oral history interviews are another important source of information. In a 1987 i
 
 On the shelves of the National Library, you can find books such as the 1981 book [<i>Wings Over Singapore: The Story of Singapore Changi Airport</i>](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4080278), which was published for the Department of Civil Aviation at the Ministry of Communications, and [<i>T2ansformation: The New Changi Airport Terminal 2</i>](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12830267), which was published by the Civil Aviation Authority of Singapore in 2006. The latter focuses on the redevelopment of Changi’s Terminal 2.
 
-The National Library also has unpublished documents such as “[Portfolio T2 Singapore Changi Airport](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203825870)”, a folder put together in 1991 by the Public Works Department consisting of a material related to the development of the airport up to that time.
+The National Library also has unpublished documents such as “[Portfolio T2 Singapore Changi Airport](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203825870)”, a folder put together in 1991 by the Public Works Department consisting of material related to the development of the airport up to that time.
 
-The National Archives has video footage taken during the period. The most interesting item is “[The Changi Take-off](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48460700-1164-11e3-83d5-0050568939ad)” an hour-long programme from August 1981 that shows the construction process of Changi Airport and the reclamation project at Changi beach necessary for the new airport. 
+The National Archives has video footage taken during the period. The most interesting item is “[The Changi Take-off](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48460700-1164-11e3-83d5-0050568939ad)”, an hour-long programme from August 1981 that shows the construction process of Changi Airport and the reclamation project at Changi beach necessary for the new airport. 
 
 
 
