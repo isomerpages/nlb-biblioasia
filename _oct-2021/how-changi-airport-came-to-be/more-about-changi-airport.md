@@ -49,7 +49,10 @@ Changi Airport was to become a symbol of national pride. Two years before the ai
 	
 The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges allow passengers to board planes from the terminal building rather than having to take a bus and climb a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
 
-The aerobridge is commonplace now. But in 1981, a journalist reporting on her tour of the Changi Airport remarked that the tour highlight was “troop[ing] down an aerobridge”.[^8]
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/steps.jpg)
+<div style="background-color: white;">Passengers boarding a Singapore Airlines flight at  Changi Airport using the mobile steps, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
+
+The aerobridge was not always in use back then, though it is commonplace now.  In 1981, a journalist reporting on her tour of the Changi Airport remarked that the tour highlight was “troop[ing] down an aerobridge”.[^8]
 
 
 #### **The Second Runway**
