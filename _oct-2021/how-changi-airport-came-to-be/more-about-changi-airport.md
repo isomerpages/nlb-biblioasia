@@ -5,20 +5,20 @@ third_nav_title: How Changi Airport Came To Be
 ---
 #### Built at a cost of S$1.5 billion, Changi Airport was the largest public project in Singapore when it was completed in 1981. Learn more about Changi Airport through these photos from the National Archives of Singapore.
 
-Before the airport became operational on 1 July that year, it was opened to an eager public. Tours were fully booked, and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population.[^1] Clearly Changi Airport had captured public imagination.  
+Before the airport became operational on 1 July  1981, it was opened to an eager public. Tours were fully booked, and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population.[^1] Clearly Changi Airport had captured public imagination.  
 
 #### **Prime Minister Lee Kuan Yew's Role**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/lky.jpg)
 <div style="background-color: white;">On 4 November 1979, Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress . <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
-Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than Paya Lebar Airport, going against the consultants’ recommendations . The cost of relocation to Changi excluded the sunk cost of S$800 million invested in Paya Lebar Airport.[^2]    
+Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than Paya Lebar Airport, going against the recommendations of consultants . The cost of relocation to Changi excluded the sunk cost of S$800 million invested in Paya Lebar Airport.[^2]    
 	
 Lee took a great interest in the building of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to get a bird's-eye view of the entire construction site.[^3]  
 	
 	
 #### **A S$100 Million Navigational System**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/radar1500.png)
-<div style="background-color: white;">At the signing ceremony on 17 February 1977, Mr Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from Mr B. M. Lap, chairman of Philips Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
+<div style="background-color: white;">At the signing ceremony on 17 February 1977,  Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from  B. M. Lap, chairman of Philips Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 	
 On 17 February 1977, the Singapore government signed a S$19 million contract with Philips, for the supply of long-range radar and display system. This system was designed to guide 250 aircrafts simultaneously—whether they are landing, taking off or flying—within the controlled airspace about 20 km in height and spanning more than 320 km. It was part of the S$100 million navigational system planned for the new airport, which was positioned to be the region’s air communications hub.[^4]  
  
@@ -27,9 +27,9 @@ On 17 February 1977, the Singapore government signed a S$19 million contract wit
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/terminal.jpg)
 <div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
-The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year and was the largest in the airport complex. Underneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
+The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year. Underneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
 
-A year before construction of this passenger terminal building was  completed, the government was already looking into building a second one to expand the capacity of the airport, as 17 million passengers were estimated to pass through the airport by 1989.[^5]  
+A year before construction of the passenger terminal building was  completed, the government was already looking into building a second one to expand the capacity of the airport.[^5]  
 
 	
 #### **A Matter of National Pride**  
@@ -39,7 +39,7 @@ A year before construction of this passenger terminal building was  completed, t
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/20note.png)
 <div style="background-color: white;">Reverse side of Singapore's first S$20 note, featuring the airport. <i>Courtesy of the Monetary Authority of Singapore</i>.</div> 
 
-Changi Airport was to become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new S$20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The S$20 bill was introduced on 6 August 1979 as part of the bird series currency notes.[^6]  
+Changi Airport would become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new S$20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The S$20 bill was introduced on 6 August 1979 as part of the bird series currency notes.[^6]  
 
 
 
@@ -47,19 +47,19 @@ Changi Airport was to become a symbol of national pride. Two years before the ai
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerobridge.jpg)
 <div style="background-color: white;">Planes parked at aerobridges at the airport, 1996. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
-The aerobridge is one of the features of Changi Airport not available at Paya Lebar. Aerobridges allow passengers to board planes from the terminal building rather than having to take a bus and climb a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge.[^7]
+Aerobridges allow passengers to board planes directly from the terminal building rather than having to take a bus and climb a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge though it was not used for every flight initially.[^7]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/steps.jpg)
 <div style="background-color: white;">Passengers boarding a Singapore Airlines flight at  Changi Airport using the mobile steps, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 
-The aerobridge was not used for every flight back then. In 1981, a journalist reporting on her tour of the Changi Airport remarked that the tour highlight was “troop[ing] down an aerobridge”.[^8]
+ In 1981, a journalist reporting on her tour of the Changi Airport remarked that the highlight of the tour  was “troop[ing] down an aerobridge”.[^8]
 
 
 #### **The Second Runway**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/runway2.png)
 <div style="background-color: white;">The airport's second runway, 1985. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div> 
 
-The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. It was built almost entirely on reclaimed land and became operational in February 1984.[^9]
+The construction of the 3,355-metre long second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built because of inflation. It was built almost entirely on reclaimed land and became operational in February 1984.[^9]
 
 
 #### **The Iconic Control Tower**
@@ -74,17 +74,17 @@ The video below shows the radome (the dome-like structure on top of the control 
 <i>Courtesy of Civil Aviation Authority of Singapore</i>
 
 #### **Further Resources from the National Library and National Archives of Singapore**
-The National Archives and the National Library have a wealth of other resources related to Changi Airport’s early years such as the transcripts of speeches, oral history interviews, books and unpublished documents.
+Beyond photos, the National Archives and the National Library have a wealth of other resources related to Changi Airport’s early years. These include transcripts of speeches, oral history interviews, books and unpublished documents.
 
 The transcripts of speeches by key players provide a valuable glimpse into the decision-making process behind the setting up of Changi Airport. In a speech at the airport’s official opening in December 1981, Defence Minister Howe Yoon Chong [explained](https://www.nas.gov.sg/archivesonline/speeches/record-details/70f84311-115d-11e3-83d5-0050568939ad) why the government decided to build the  airport in Changi rather than expand Paya Lebar. A quarter of a century later, at a dinner to celebrate the 25th anniversary of the airport in 2006, Minister Mentor Lee Kuan Yew [recalled](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad) the process from his perspective.
 
-Oral history interviews are another important source of information. In a 1987 interview, former president Ong Teng Cheong [explained](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/06155340-115e-11e3-83d5-0050568939ad) how they were able to switch over from Paya Lebar to Changi overnight. (Ong had been the Communications Minister between 1978 and 1983.) And in an interview in 2001, Bernard Chen Tien Lap, a retired politician (and former civil servant in the Finance Ministry) [revealed](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/08b14275-115f-11e3-83d5-0050568939ad-OHC002530_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5) that the Finance Ministry had argued for Paya Lebar, while the Communications Ministry pushed for Changi.
+Oral history interviews are another important source of information. In a 1987 interview, former president Ong Teng Cheong [explained](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/06155340-115e-11e3-83d5-0050568939ad) how they were able to switch over from Paya Lebar to Changi overnight. (Ong had been the Communications Minister between 1978 and 1983.) And in an interview in 2001, Bernard Chen Tien Lap, a retired politician who had been a former civil servant in the  Ministry of Finance, [revealed](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/08b14275-115f-11e3-83d5-0050568939ad-OHC002530_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5) that the Finance Ministry had argued for Paya Lebar while the Communications Ministry pushed for Changi.
 
 On the shelves of the National Library, you can find books such as [<i>Wings Over Singapore: The Story of Singapore Changi Airport</i>](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4080278), which was published for the Department of Civil Aviation at the Ministry of Communications in 1981, and [<i>T2ansformation: The New Changi Airport Terminal 2</i>](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12830267), which was published by the Civil Aviation Authority of Singapore in 2006. The latter focuses on the redevelopment of Changi’s Terminal 2.
 
-The National Library also has unpublished documents such as “[Portfolio T2 Singapore Changi Airport](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203825870)”, a folder put together in 1991 by the Public Works Department consisting of material related to the development of the airport up to that time.
+The National Library also has unpublished documents such as “[Portfolio T2 Singapore Changi Airport](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203825870)”, a folder put together by the Public Works Department in 1991 consisting of material related to the development of the airport up to that time.
 
-The National Archives has video footage taken during the period. The most interesting item is “[The Changi Take-off](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48460700-1164-11e3-83d5-0050568939ad)”, an hour-long programme from August 1981 that shows the construction process of Changi Airport and the reclamation project at Changi beach necessary for the new airport. 
+The National Archives also has interesting video footage such as “[The Changi Take-off](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48460700-1164-11e3-83d5-0050568939ad)”. An hour-long programme from August 1981, it shows the construction process of Changi Airport and the reclamation project at Changi beach necessary for the new airport. 
 
 
 
