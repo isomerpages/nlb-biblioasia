@@ -94,7 +94,7 @@ The National Archives has interesting video footage taken during the period. The
 
 [^2]: Lee Kuan Yew, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad),” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991) 
 
-[^3]: Changi Airport Group, “[50 Years of Air Travel in Singapore](http://www.changiairport.com/content/dam/cacorp/publications/Changi%20Connections/2015/290515_CC_sg50_low.pdf),” <i>Changi Connection</i> (Singapore: Changi Airport Group, 2015,) 5. 
+[^3]: Changi Airport Group, “[50 Years of Air Travel in Singapore](http://www.changiairport.com/content/dam/cacorp/publications/Changi%20Connections/2015/290515_CC_sg50_low.pdf),” <i>Changi Connection</i> (2015), 5. 
 
 [^4]: “[Govt Plans $100 Mil System at Changi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19770218-1.2.43),” <i>Business Times</i>, 18 February 1977, 10. (From NewspaperSG) 
 
