@@ -5,25 +5,25 @@ third_nav_title: How Changi Airport Came To Be
 ---
 #### Built at a cost of $1.5 billion, Changi Airport was the largest public project in Singapore when it was completed in 1981. Learn more about Changi Airport through these photos from the National Archives of Singapore.
 
-Before the airport became operational on 1 July that year, it was opened to an eager public. Tours were sold out, and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population.[^1] Clearly Changi Airport had captured public imagination.  
+Before the airport became operational on 1 July that year, it was opened to an eager public. Tours were fully booked, and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population.[^1] Clearly Changi Airport had captured public imagination.  
 
 #### **Prime Minister Lee Kuan Yew's Role**
 ![Alt text for image on Isomer site]
 <div style="background-color: white;">Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress on 4 November 1979. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
-Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against the recommendations of consultants. The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]    
+Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against the consultants’ recommendations . The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]    
 	
 Lee took a great interest in the building of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to get a bird's-eye view of the entire construction site.[^3]  
 	
 	
-#### **A S$100 million navigational system**
+#### **A S$100 Million Navigational System**
 ![Alt text for image on Isomer site]
 <div style="background-color: white;">At the signing ceremony on 17 February 1977, Mr Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from Mr B. M. Lap, chairman of Philips Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 	
 On 17 February 1977, the Singapore government signed a S$19 million contract with Philips, for the supply of long-range radar and display system. This system was designed to guide 250 aircrafts simultaneously—whether they are landing, taking off or flying—within the controlled airspace about 20 km in height and spanning more than 320 km. It was part of the S$100 million navigational system planned for the new airport, which was positioned to be the region’s air communications hub.[^4]  
  
 	
-#### **The S$268 million Passenger Terminal Building** 	
+#### **The H-shaped Passenger Terminal Building** 	
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/passenger%20building.png)
 <div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
