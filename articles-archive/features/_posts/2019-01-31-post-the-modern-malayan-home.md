@@ -68,7 +68,8 @@ Unsurprisingly, the growth of the industry was driven mainly by the providers of
 
 As demand for radio sets increased and prices became more affordable, dealers began importing the latest models from various brands. To distinguish themselves from the competition, advertisers would boast of the reliability and reception quality of their products, and assure buyers that they were purchasing the best and latest technology available in the market.
 
-<img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan6.JPG">
+<img style="width: 550px; height: 320px;"
+src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan6.JPG">
 <div style="background-color: white;">(Left) Transistor radios, such as the one featured in this Philips ad in 1966, made their debut in Singapore in the mid-1950s and became highly popular in the following decades after portable battery-powered versions were introduced. <i>Image reproduced from The Straits Times Annual, 1966, p. 12.</i> (Right) A 1966 Mitsubishi ad for a “micro TV”. <i>Image reproduced from Her World, January 1966, p. 9.</i></div>
 
 #### **Turn on the telly**
@@ -83,7 +84,8 @@ Advertisements for television sets not only emphasised their high-quality pictur
 
 |**WHO RUNS THE HOUSEHOLD?**
 
-|<img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan7.JPG">In the 1950s and 60s, Singaporean women began entering the workforce, but were still expected to undertake housekeeping and child-rearing duties. Women did shift work or less demanding jobs in factories so that they would be able to take care of the family after work hours. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
+|<img style="width: 450px; height: 300px;"
+src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan7.JPG">In the 1950s and 60s, Singaporean women began entering the workforce, but were still expected to undertake housekeeping and child-rearing duties. Women did shift work or less demanding jobs in factories so that they would be able to take care of the family after work hours. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
 
 |From the early 20th century onwards, many advertisers of household- and domestic-related goods in Malaya began to target women as their main audience.[^15] An overwhelming number of advertisements featured women – and very rarely men – as the main consumers and users of home technology.
 
@@ -91,7 +93,8 @@ Advertisements for television sets not only emphasised their high-quality pictur
 
 |Advertisements published in Singapore during this time mostly portrayed women – of various ethnicities and economic backgrounds – posing with household goods while looking glamorous alongside high-end appliances, or else engaged in domestic chores such as cooking, sewing or doing laundry. A rare household ad targeted at men in 1969 promoted Singer sewing machines as good gifts for their wives.[^18]
 
-|<img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan1.JPG">Singer put out many creative and visually interesting ad campaigns targetted at women, as evident in this 1961 ad. <i>Image reproduced from The Straits Times Annual, 1961, p. xi.</i>
+|<img style="width: 300px; height: 400px;"
+src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan1.JPG">Singer put out many creative and visually interesting ad campaigns targetted at women, as evident in this 1961 ad. <i>Image reproduced from The Straits Times Annual, 1961, p. xi.</i>
 
 |By the 1950s and 60s, women in Singapore began entering the workforce in fairly large numbers, but were generally still expected to undertake housekeeping and child-rearing as their primary tasks. This doubling up of duties, among other reasons, relegated many women to shift work and other relatively less demanding lower-paying jobs, such as factory or secretarial work, so that they would have the time to take care of the home after work hours.[^19]
 
@@ -99,7 +102,8 @@ Advertisements for television sets not only emphasised their high-quality pictur
 
 |More importantly, advertisers tried to mould public attitudes to suit household consumerism, for instance, by imbuing housework with notions of idealism and romanticism. Advertisements sometimes implied that the work performed by a woman around the house was not done out of necessity but more as a labour of love, and that the care she put into it was an indication of her love for her husband and children. Purchasing household appliances that allowed housework to be done better and faster was therefore an investment of care in the family, a symbol of a woman’s dedication to her primary role as wife and mother.[^20]
 
-|<img src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan8.JPG">This 1956 ad by The East Asiatic Co. depicts a “glamorous housewife” alongside a Kelvinator refrigerator. Many ads at the time featured impeccably dressed women with nary a hair out of place, even while in the midst of doing household chores. <i>Image reproduced from The Straits Times Annual, 1956, p. xx.</i>
+|<img style="width: 300px; height: 400px;"
+src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan8.JPG">This 1956 ad by The East Asiatic Co. depicts a “glamorous housewife” alongside a Kelvinator refrigerator. Many ads at the time featured impeccably dressed women with nary a hair out of place, even while in the midst of doing household chores. <i>Image reproduced from The Straits Times Annual, 1956, p. xx.</i>
 
 <br> 
 
