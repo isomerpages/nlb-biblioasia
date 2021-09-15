@@ -36,8 +36,6 @@ A year before construction of this passenger terminal building was  completed, t
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerialviewcropped.png)
 <div style="background-color: white;">An aerial view of the completed Changi Airport, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div> 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/notereverse.png)
-
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/20note.png)
 <div style="background-color: white;">Reverse side of the new $20 note featuring the airport. <i>Courtesy of the Monetary Authority of Singapore</i>.</div> 
 
