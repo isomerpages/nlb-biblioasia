@@ -199,7 +199,7 @@ It is common for countries, therefore, to adopt a combination of a register-base
 [^33]:[S’pore doubles population in sixteen years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribue19491010-1.2.11). (1949, October 10). *The Malaya Tribune*, p. 1. Retrieved from NewspaperSG.
 [^34]:Huff, G., & Majima, S. (Eds.; Trans.). (2018). [*World War II Singapore: The Chōsabu reports on Syonan*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361) (p. 3). Singapore: NUS Press. (Call no.: RSING 959.5703 WOR)
 [^35]:[Huff & Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, pp. 133, 135.
-[^36]:National Library Board. (2013). [*Operation Sook Ching*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html) written by Stephanie Ho. Retrieved from Singapore Infopedia; [Huff & Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, p. 133.)
+[^36]:National Library Board. (2013). [*Operation Sook Ching*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html) written by Stephanie Ho. Retrieved from Singapore Infopedia; [Huff & Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, p. 133.
 [^37]:[Census enumerators out tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470823-1.2.19). (1947, August 23). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^38]:[Census has nothing to do with tax](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470307-1.2.29.13). (1947, March 7). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^39]:[Del Tufo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4500010), 1949, p. 19.
