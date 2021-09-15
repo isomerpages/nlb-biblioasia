@@ -57,7 +57,7 @@ The aerobridge was not used for every flight back then. In 1981, a journalist re
 
 #### **The Second Runway**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/runway2.png)
-<div style="background-color: white;">Runway two at Changi Airport, 1985. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div> 
+<div style="background-color: white;">The airport's second runway, 1985. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div> 
 
 The construction of the 3,355-metre second runway was part of Changi Airport’s phase two development, which would include the construction of a second passenger terminal building. Despite being shorter than the first runway, the second runway cost 30 percent more to be built, because of inflation. It was built almost entirely on reclaimed land and became operational in February 1984.[^9]
 
