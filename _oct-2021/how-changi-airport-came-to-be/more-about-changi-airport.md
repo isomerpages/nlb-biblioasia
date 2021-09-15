@@ -52,7 +52,7 @@ The aerobridge is one of the features of Changi Airport not available at Paya Le
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/steps.jpg)
 <div style="background-color: white;">Passengers boarding a Singapore Airlines flight at  Changi Airport using the mobile steps, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 
-The aerobridge was not always in use back then, though it is commonplace now.  In 1981, a journalist reporting on her tour of the Changi Airport remarked that the tour highlight was “troop[ing] down an aerobridge”.[^8]
+The aerobridge is commonplace now, though it was not available for every flight back then.  In 1981, a journalist reporting on her tour of the Changi Airport remarked that the tour highlight was “troop[ing] down an aerobridge”.[^8]
 
 
 #### **The Second Runway**
