@@ -107,3 +107,25 @@ Advertisements for television sets not only emphasised their high-quality pictur
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
+
+#### **Notes**
+[^1]: 
+[^2]: 
+[^3]: 
+[^4]: 
+[^5]:
+[^6]: 
+[^7]: 
+[^8]: 
+[^9]: 
+[^10]: 
+[^11]: 
+[^12]: 
+[^13]: 
+[^14]:
+[^15]: 
+[^16]: 
+[^17]: 
+[^18]: 
+[^19]: 
+[^20]: 
