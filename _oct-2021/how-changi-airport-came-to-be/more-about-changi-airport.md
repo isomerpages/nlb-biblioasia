@@ -24,8 +24,6 @@ On 17 February 1977, the Singapore government signed a S$19 million contract wit
  
 	
 #### **The H-shaped Passenger Terminal Building** 	
-![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/passenger%20building.png)
-
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/terminal.jpg)
 <div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
