@@ -6,7 +6,7 @@ layout: post
 ---
 #### Food writer **Sylvia Tan** remembers the foods and flavours she grew up with and the less than sanitary practices made for stomachs cast in iron.
 
-<div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-2/forgotten-food/01-forgottenfood-mealtimememories.jpg">Roadside satay stalls opposite the Tay Koh Yat bus depot along Beach Road, 1955. <i>Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-12-issue-2/forgotten-food/01-forgottenfood-mealtimememories.jpg">Roadside satay stalls opposite the Tay Koh Yat bus depot along Beach Road, 1955. <i>Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.</i></div>
 
 What could be more off-putting than dipping sticks of charcoal-grilled satay into a communal pot of peanut gravy at a roadside stall literally metres away from belching buses?
 
@@ -14,7 +14,7 @@ Yet I recall that time with sweet nostalgia, quite forgetting the lung-clogging 
 
 Just as no one bothered if the ice ball man, now long gone, had washed his hands before manhandling and shaping shaven ice into balls for us to lick and suck into. All that concerned us was how generous he was with the multi-coloured syrups he drizzled over these ice balls, finished off with swirls of creamy evaporated milk. What could be more refreshing than icy sweetness crowned by milky creaminess? You could even share the ice ball if you didn’t have enough money, for he’d cut it into half, enough for two.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/forgotten-food/02-forgottenfood-mealtimememories.jpg">An Indian ice seller drizzling multi-coloured syrups and swirls of creamy evaporated milk over an ice ball, 1978. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:250px" src="/images/Vol-12-issue-2/forgotten-food/02-forgottenfood-mealtimememories.jpg">An Indian ice seller drizzling multi-coloured syrups and swirls of creamy evaporated milk over an ice ball, 1978. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Today, you cannot buy ice balls for love or money, although satay is widely available, albeit no longer served the old-fashioned way. Today, most hawker dishes, no matter their origins, are served in the same cookie-cutter style using disposable crockery and cutlery.
 
