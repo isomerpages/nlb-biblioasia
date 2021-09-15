@@ -107,7 +107,7 @@ Census data derived completely from administrative register-based sources do not
 
 It is common for countries, therefore, to adopt a combination of a register-based survey with enumeration or survey data, similar to what Singapore did in the 2000 and 2010 censuses; this will also be the case in the upcoming 2020 census.[^54] It will be interesting to see how Singapore’s future censuses keep up with evolving demographics and trends.
 
-*The author wishes to thank the Singapore Department of Statistics for reviewing the essay. 
+*The author wishes to thank the Singapore Department of Statistics for reviewing the essay.*
 
 |**BITING DOGS, CAPSIZED BOATS AND STRIKING WORKERS: STORIES FROM THE 1947 CENSUS**
 
