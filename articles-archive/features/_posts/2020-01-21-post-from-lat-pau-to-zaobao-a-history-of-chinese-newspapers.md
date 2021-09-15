@@ -80,7 +80,7 @@ Two important newspapers appeared in the 1920s: *Nanyang Siang Pau* (南洋商�
 
 In the initial issues, news coverage in both newspapers was limited and tended to focus on events in China. Instead the papers were filled with advertisements. However, Tan and Aw spared no efforts to recruit talent, and the quality of the content soon improved. News coverage was expanded and became more organised. Layout was also improved to make for easier reading. Segments focusing on commerce, sports, culture and education were added to provide greater variety.
 
-Well-known writers and journalists in China and Singapore such as Fu Wumen, Khoo Seok Wan, Yu Dafu and Hu Yuzhi were also hired by the newspapers. Their editorials and *fukan* ( 副刊; literary supplements) were well written, perceptive and informative.[^30]
+Well-known writers and journalists in China and Singapore such as Fu Wumen, Khoo Seok Wan, Yu Dafu and Hu Yuzhi were also hired by the newspapers. Their editorials and *fukan* (副刊; literary supplements) were well written, perceptive and informative.[^30]
 
 With substantial financial backing and the availability of experienced staff, the two newspapers soon became the leading Chinese dailies in Singapore. Both invested heavily in infrastructure and built up their distribution network. Modern printing machines were introduced into their operations in the 1920s and 1930s. They also successfully expanded into the region by establishing an extensive network of agencies and sub-distributors. Additionally, the newspapers tapped on local correspondents in various countries to submit news and stories via cable.[^31]
 
