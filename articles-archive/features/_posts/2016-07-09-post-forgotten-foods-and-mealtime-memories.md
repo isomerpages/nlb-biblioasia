@@ -83,7 +83,7 @@ Both dishes used to make a regular showing, especially on Eurasian tables, as di
 
 Breuder cake is a bread-like cake that follows the tradition of the Italian panettone and other yeast cakes, except that in the case of Breuder, toddy or fermented coconut water is used as a raising agent instead of yeast. Food writer Christopher Tan in his book Nerd Baker[^2]  provides a recipe for it except that his version is made using both coconut water and yeast. He further states that Kue Bluder (its Indonesian variation) was traditionally leavened not just with toddy, but also other yeast sources such as tape singkong or fermented steamed cassava.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/forgotten-food/06-forgottenfood-mealtimememories.jpg">Breuder cake, of Dutch-Sri Lankan and Eurasian origins, is a bread-like cake that follows the tradition of the Italian panettone and other yeast cakes, except that in the case of Breuder, toddy or fermented coconut water is used as a raising agent. Food writer Christopher Tan’s version uses both coconut water and yeast. <i>All rights reserved, Tan, C. (2015). Nerd Baker: Extraordinary Recipes, Stories & Baking Adventures from a True Oven Geek. Singapore: Epigram Books.</i></div>
+<div style="background-color: white;"><img style="width:200px" src="/images/Vol-12-issue-2/forgotten-food/06-forgottenfood-mealtimememories.jpg">Breuder cake, of Dutch-Sri Lankan and Eurasian origins, is a bread-like cake that follows the tradition of the Italian panettone and other yeast cakes, except that in the case of Breuder, toddy or fermented coconut water is used as a raising agent. Food writer Christopher Tan’s version uses both coconut water and yeast. <i>All rights reserved, Tan, C. (2015). Nerd Baker: Extraordinary Recipes, Stories & Baking Adventures from a True Oven Geek. Singapore: Epigram Books.</i></div>
 
 Like other yeast cakes, Breuder is baked in a ring pan; indeed the name comes from the Dutch word *broodtulband*, referring to the fluted turban-shaped mould used to make it. Traditionally baked during Christmas, Breuder cake is usually eaten with butter and a slice of Edam cheese, confirming further the Dutch influence.
 
@@ -127,7 +127,7 @@ Unfortunately, it was a lifestyle that could not withstand the push towards econ
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/forgotten-food/sylvia.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/forgotten-food/sylvia1.png">
 Former journalist <b>Sylvia Tan</b> has chalked up nine cookbooks to her name, including Mad About Food, a compilation of her much-loved newspaper columns, Singapore Heritage Food and Modern Nonya. She also writes a regular column, Eat to Live in The Straits Times’ Mind Your Body section. You can follow her on @SylviaTanMadAboutFood
 </div>
 
