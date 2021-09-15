@@ -210,8 +210,7 @@ In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40
 
 [^40]: “[滇缅公路摄影展览会 举行隆重开幕](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391125-1.2.46.1)” [“Grand Opening of the Yunnan-Burma Highway Photo Exhibition”].
 
-[^41]: “[星华筹赈会主办滇缅公路摄影展览 今日举行开幕及预展](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391124-1.2.52)” [“Singapore China Relief Fund Committee Organises Yunnan-Burma Highway Photo Exhibition; Opening and Preview Would Be Held Today”], 
-*南洋商报*  [*Nanyang Siang Pau*], 24 November 1939, 7.
+[^41]: “[星华筹赈会主办滇缅公路摄影展览 今日举行开幕及预展](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391124-1.2.52)” [“Singapore China Relief Fund Committee Organises Yunnan-Burma Highway Photo Exhibition; Opening and Preview Would Be Held Today”], *南洋商报*  [*Nanyang Siang Pau*], 24 November 1939, 7.
 (From NewspaperSG) 
 
 [^42]: “[第7页 广告 专栏 2](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391115-1.2.67.2)” [“Page 7 Advertisements Column 2”], *南洋商报*  [*Nanyang Siang Pau*], 15 November 1939, 7. (From NewspaperSG)
