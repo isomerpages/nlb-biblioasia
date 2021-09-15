@@ -121,17 +121,11 @@ Advertisements for television sets not only emphasised their high-quality pictur
 [^10]: [Chua](http://www.nlb.gov.sg/biblioasia/2016/04/05/the-story-of-singapore-radio-1924-41/#sthash.mD4l2zp6.dpbs), Apr–June 2016, p. 25.
 [^11]: [McDanieI](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277), 1994, pp. 27–28.
 [^12]: [Chua](http://www.nlb.gov.sg/biblioasia/2016/04/05/the-story-of-singapore-radio-1924-41/#sthash.mD4l2zp6.dpbs), Apr–June 2016, p. 22.
-[^13]: McDaniel , 1994, p. 71.
-[^14]:McDaniel , 1994, p. 72.
-[^15]: 
-[^16]: 
-[^17]: 
-[^18]: 
-[^19]: 
-[^20]:
-Fox, B.J. (1990, March). Selling the mechanised household: 70 years of ads in Ladies Home Journal. Gender and Society, 4(1), 25–40, pp. 27–28. Retrieved from JSTOR via NLB’s eResources website. 
-Cowan, R.S. (1976, January). The ‘Industrial Revolution’ in the home: Household technology and social change in the 20th century. Technology and Culture, 17(1), 1–23, pp. 9–10. Retrieved from JSTOR via NLB’s eResources website.
-Fox, (1990, March), pp. 25–40; Quah, S.R. (1980, July–December). Sex-role socialization in a transitional society. International Journal of Sociology of the Family, 10(2), 213–231, pp. 214–215. Retrieved from JSTOR via NLB’s eResources website.
-Singer: Take home a jade lady. (1969). FDAWU Magazine of 1969 (p. 62). Singapore: Food, Drinks and Allied Workers Union. Retrieved from PublicationSG.
-Wong, A.K., & Ko, Y.-C. (1984). Women’s work and family life: The case of electronics workers in Singapore. East Lansing: Michigan State University. (Call no.: RSING 331.4821381095957 WON); Deyo, F.C., & Chen, P.S.J. (1976). ). Female labour force participation and earnings in Singapore. Bangkok: Clearing House for Social Development in Asia. (Call no.: RSING 331.4095957 DEY); Quah, Jul–Dec 1980, p. 221.
-Interestingly, according to studies on advertising and gender beyond the 1960s, the representation of women in household roles did not necessarily decrease. Instead, brands attempted to diversify the images of families using household items, with men occasionally shown participating in the upkeep of the household, at least from the late 60s onwards. 
+[^13]: [McDaniel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) , 1994, p. 71.
+[^14]:[McDaniel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) , 1994, p. 72.
+[^15]: Fox, B.J. (1990, March). Selling the mechanised household: 70 years of ads in Ladies Home Journal. *Gender and Society*, 4(1), 25–40, pp. 27–28. Retrieved from JSTOR via NLB’s eResources website. 
+[^16]: Cowan, R.S. (1976, January). The ‘Industrial Revolution’ in the home: Household technology and social change in the 20th century. *Technology and Culture*, 17(1), 1–23, pp. 9–10. Retrieved from JSTOR via NLB’s eResources website.
+[^17]: Fox, (1990, March), pp. 25–40; Quah, S.R. (1980, July–December). Sex-role socialization in a transitional society. *International Journal of Sociology of the Family*, 10(2), 213–231, pp. 214–215. Retrieved from JSTOR via NLB’s eResources website.
+[^18]: Singer: Take home a jade lady. (1969). [*FDAWU Magazine of 1969*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200119712) (p. 62). Singapore: Food, Drinks and Allied Workers Union. Retrieved from PublicationSG.
+[^19]: Wong, A.K., & Ko, Y.-C. (1984). [*Women’s work and family life: The case of electronics workers in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3563819). East Lansing: Michigan State University. (Call no.: RSING 331.4821381095957 WON); Deyo, F.C., & Chen, P.S.J. (1976). ). [*Female labour force participation and earnings in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184055). Bangkok: Clearing House for Social Development in Asia. (Call no.: RSING 331.4095957 DEY); Quah, Jul–Dec 1980, p. 221.
+[^20]:Interestingly, according to studies on advertising and gender beyond the 1960s, the representation of women in household roles did not necessarily decrease. Instead, brands attempted to diversify the images of families using household items, with men occasionally shown participating in the upkeep of the household, at least from the late 60s onwards.
