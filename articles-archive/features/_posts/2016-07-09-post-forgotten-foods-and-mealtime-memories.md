@@ -137,4 +137,4 @@ Unfortunately, it was a lifestyle that could not withstand the push towards econ
 
 [^1]:Wee, E. H. (2011). *[Cooking for the president. Reflections & recipes of Mrs Wee Kim Wee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14422131)*. Singapore: Wee Eng Hwa. Call no.: RSING 641,595957 WEE
 
-[^2]:Tan, C. (2015). Nerd baker: Extraordinary recipes, stories & baking adventures from a true oven geek. Singapore: Epigram Books. Call no.: RSING 641.815 TAN
+[^2]:Tan, C. (2015). *[Nerd baker: Extraordinary recipes, stories & baking adventures from a true oven geek](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201179326)*. Singapore: Epigram Books. Call no.: RSING 641.815 TAN
