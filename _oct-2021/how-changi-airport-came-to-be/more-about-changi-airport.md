@@ -8,7 +8,7 @@ third_nav_title: How Changi Airport Came To Be
 Before the airport became operational on 1 July that year, it was opened to an eager public. Tours were fully booked, and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population.[^1] Clearly Changi Airport had captured public imagination.  
 
 #### **Prime Minister Lee Kuan Yew's Role**
-![Alt text for image on Isomer site]
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/lky.png)
 <div style="background-color: white;">Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress on 4 November 1979. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
 Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than the Paya Lebar Airport, going against the consultants’ recommendations . The cost of relocation to Changi excluded the sunk cost of $800 million invested in the Paya Lebar airport.[^2]    
