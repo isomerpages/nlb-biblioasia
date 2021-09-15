@@ -61,7 +61,7 @@ The construction of the 3,355-metre second runway was part of Changi Airport’s
 
 #### **The Iconic Control Tower**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/tower1.jpg)
-<div style="background-color: white;">An aerial view of East Coast Parkway and the iconic control tower of Changi Airport, 1996. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
+<div style="background-color: white;">The iconic control tower of Changi Airport, 1996. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 
 The design of the iconic 78-metre tall octagonal control tower came from a design competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^10]
 
