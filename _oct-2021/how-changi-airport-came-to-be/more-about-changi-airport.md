@@ -18,6 +18,8 @@ Lee took a great interest in the building of Changi Airport. To see where the ex
 	
 #### **A S$100 Million Navigational System**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/radar.png)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/radar1500.png)
+
 <div style="background-color: white;">At the signing ceremony on 17 February 1977, Mr Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from Mr B. M. Lap, chairman of Philips Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 	
 On 17 February 1977, the Singapore government signed a S$19 million contract with Philips, for the supply of long-range radar and display system. This system was designed to guide 250 aircrafts simultaneously—whether they are landing, taking off or flying—within the controlled airspace about 20 km in height and spanning more than 320 km. It was part of the S$100 million navigational system planned for the new airport, which was positioned to be the region’s air communications hub.[^4]  
