@@ -120,9 +120,10 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |In 1925, *Nan Feng* (南风) was published by *Sin Kuo Min Jit Poh while Xing Guang* (星光) was published by *Lat Pau*. These supplements helped define Singapore Chinese literature and establish its future direction of growth.
 
-|Other important *fukan* that contributed to the development of Chinese literature in Singapore were *Huang Dao* (荒岛) (1927) and *Lu Yi* (绿漪) (1927) by *Sin Kuo Min Jit Poh*; *Ye Lin* (椰林) (1928) by *Lat Pau*; *Hong Huang* (洪荒) (1927), *Wen Yi San Ri Kan* (文艺三日刊) (1929) and *Shi Sheng* (狮声) (1933) by *Nanyang Siang Pau*; and *Ye Pa* (野葩) (1930) and *Chen Xing* (晨星) (1937) by *Sin Chew Jit Poh*.
+|Other important *fukan* that contributed to the development of Chinese literature in Singapore were *Huang Dao* (荒岛) (1927) and *Lu Yi* (绿漪) (1927) by *Sin Kuo Min Jit Poh*; *Ye Lin* (椰林) (1928) by *Lat Pau*; *Hong Huang* (洪荒) (1927), *Wen Yi San Ri Kan* (文艺三日刊) (1929) and *Shi Sheng* (狮声) (1933) by *Nanyang Siang Pau*; and *Ye Pa* (野葩) (1930) and *Chen Xing* (晨星) (1937) by *Sin Chew Jit Poh*. 
 
-|**THE SWORDSMAN MAKES ITS DEBUT**
+
+<br>|**THE SWORDSMAN MAKES ITS DEBUT**
 
 |Fans of Chinese sword-fighting, or *wuxia*, novels would be familiar with Linghu Chong (令狐冲), the honourable, happy-go-lucky swordsman with a weakness for alcohol. He is the protagonist in *Xiao Ao Jianghu* (笑傲江湖), a story written by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha).
 
@@ -136,7 +137,7 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |In 1983, *Shin Min Daily News* became a subsidiary company of The Straits Times Press Limited. One year later, in 1984, the paper became part of Singapore Press Holdings group.
 
-|**THE RISE AND FALL OF CHINESE TABLOIDS**
+<br>|**THE RISE AND FALL OF CHINESE TABLOIDS**
 
 |Chinese tabloids first appeared and flourished in Singapore in the 1920s, providing readers with a different form of entertainment compared to the dailies. Known as *xiao bao* (小报), these tabloids were usually published once every two to three days and were much thinner than the dailies.
 
