@@ -47,7 +47,7 @@ Changi Airport would become a symbol of national pride. Two years before the air
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerobridge.jpg)
 <div style="background-color: white;">Planes parked at aerobridges at the airport, 1996. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
-Aerobridges allow passengers to board planes directly from the terminal building rather than having to take a bus and climb a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge though it was not used for every flight initially.[^7]
+Aerobridges allow passengers to board planes directly from the terminal building rather than having to take a bus and climb a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge though at the start, it was not used for every flight.[^7]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/steps.jpg)
 <div style="background-color: white;">Passengers boarding a Singapore Airlines flight at  Changi Airport using the mobile steps, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
