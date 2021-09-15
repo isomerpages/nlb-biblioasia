@@ -169,7 +169,7 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 
 |Daily guided tours are available.|
 
-|Visit [https://corporate.nas.gov.sg/former-ford-factory/overview/ ](https://corporate.nas.gov.sg/former-ford-factory/overview/) for more information.|
+|Visit [https://corporate.nas.gov.sg/former-ford-factory/overview/](https://corporate.nas.gov.sg/former-ford-factory/overview/) for more information.|
 
 <div style="background-color: white;">
 <br>
