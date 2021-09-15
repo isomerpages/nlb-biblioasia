@@ -88,7 +88,7 @@ The Chairman for the Census 2000 Planning Committee was then Permanent Secretary
 As the fifth census since independence, the exercise in 2010 also adopted a register-based approach in which the basic population count and characteristics were compiled from administrative sources. Hence, there was a reduction of field interviewers to only 140, with 20 field supervisors across 10 regional offices in the country. These interviewers also made use of mobile personal computers to carry out their enumeration on the go, thus removing the need for hardcopy survey forms. Another 400 daily-rated staff were recruited to support day-to-day operations. Ravi Menon, then Permanent Secretary of the Ministry of Trade and Industry, was the Chairman of the 2010 Census Planning Committee, with Chief Statistician Wong Wee Kim as Superintendent.[^51] In 2011, three statistical releases were releases were published on demographic characteristics, education, language and religion, households and housing, and geographic distribution and transport.
 
 <img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/Census.JPG">
-<div style="background-color: white;">Publicity poster for Census 2010. <i>Courtesy of Singapore Department of Statistics.</i></div>
+<div style="background-color: white;" style="text-align: center">Publicity poster for Census 2010. <i>Courtesy of Singapore Department of Statistics.</i></div>
 
 #### **The Future of Census**
 
