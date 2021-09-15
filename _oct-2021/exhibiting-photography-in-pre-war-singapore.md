@@ -157,7 +157,7 @@ In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40
 
 [^15]: “[Western Arts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220408-1.2.36.2),” Singapore Free Press, 8 April 1922, 12. (From NewspaperSG)
 
-[^16]: Zhuang Wubin, *[Shifting Currents: Glimpses of a Changing Nation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203056880)* (Singapore: National Library Board, 2018), 12–16. (From National Library, Singapore, Call no. RSING 915.957 KOU-[TRA]); Zhuang Wubin, *Documenting as Method: Photography in Southeast Asia* [doctoral dissertation, University of Westminster, 2021], 67–73, https://westminsterresearch.westminster.ac.uk/item/v3392/documenting-as-method-photography-in-southeast-asia.
+[^16]: Zhuang Wubin, *[Shifting Currents: Glimpses of a Changing Nation]*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=203056880) (Singapore: National Library Board, 2018), 12–16. (From National Library, Singapore, Call no. RSING 915.957 KOU-[TRA]); Zhuang Wubin, *Documenting as Method: Photography in Southeast Asia* [doctoral dissertation, University of Westminster, 2021], 67–73, https://westminsterresearch.westminster.ac.uk/item/v3392/documenting-as-method-photography-in-southeast-asia.
 
 [^17]: “[First of its Kind in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19350325-1.2.76),” *Malaya Tribune*, 25 March 1935, 12; “[Photographic Exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350227-1.2.65),” *Straits Times*, 27 February 1935, 12; “[Photographic Exhibition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19350207-1.2.115),” *Malaya Tribune*, 7 February 1935, 13. (From NewspaperSG)
 
