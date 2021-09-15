@@ -81,7 +81,7 @@ On the shelves of the National Library, you can find books such as the 1981 book
 
 The National Library also has unpublished documents such as “[Portfolio T2 Singapore Changi Airport](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203825870)”, a folder put together in 1991 by the Public Works Department consisting of a material related to the development of the airport up to that time.
 
-The National Archives has interesting video footage taken during the period. The most interesting item is “[The Changi Take-off](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48460700-1164-11e3-83d5-0050568939ad)” an hour-long programme from August 1981 that shows the construction process of Changi Airport and the reclamation project at Changi beach to make way for the new airport. 
+The National Archives has video footage taken during the period. The most interesting item is “[The Changi Take-off](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48460700-1164-11e3-83d5-0050568939ad)” an hour-long programme from August 1981 that shows the construction process of Changi Airport and the reclamation project at Changi beach necessary for the new airport. 
 
 
 
