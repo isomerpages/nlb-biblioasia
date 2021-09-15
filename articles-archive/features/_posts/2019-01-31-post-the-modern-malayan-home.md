@@ -109,23 +109,29 @@ Advertisements for television sets not only emphasised their high-quality pictur
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
 
 #### **Notes**
-[^1]: 
-[^2]: 
-[^3]: 
-[^4]: 
-[^5]:
-[^6]: 
-[^7]: 
-[^8]: 
-[^9]: 
-[^10]: 
-[^11]: 
-[^12]: 
-[^13]: 
-[^14]:
+[^1]: [The disposal of night soil at Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18940119-1.2.30). (1894, January 19). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^2]: Staines, V. (1949, May 21). [Water is their main problem](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490521-1.2.42). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG. 
+[^3]: [Municipal Council](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18620614-1.2.8). (1862, June 14) *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^4]: Energy Market Authority. (2016, December 20). *Singapore energy story*. Retrieved from Energy Market Authority Singapore website.
+[^5]:Energy Market Authority, 20 Dec 2016.
+[^6]: [”Utility” iron](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470223-1.2.22.1). (1947, February 23). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^7]: Huff, W.G. (2001, May). Entitlements, destitution, and emigration in the 1930s Singapore Great Depression. *The Economic History Review*, 54(2), 290–323, p. 305. Retrieved from JSTOR via NLB’s eResources website.
+[^8]: Chua, A.L. (2016, April–June). [The story of Singapore radio: 1924–41](http://www.nlb.gov.sg/biblioasia/2016/04/05/the-story-of-singapore-radio-1924-41/). *BiblioAsia*, 12(1), 22–27, p. 22. Retrieved from BiblioAsia website.
+[^9]: [Chua](http://www.nlb.gov.sg/biblioasia/2016/04/05/the-story-of-singapore-radio-1924-41/), April–June 2016; McDaniel, D.O. (1994). [*Broadcasting in the Malay world: Radio, television and video in Brunei, Indonesia, Malaysia, and Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) (pp. 34–37). Norwood, NJ: Ablex Pub. (Call no.: RSING 302.2340959 MAC) 
+[^10]: [Chua](http://www.nlb.gov.sg/biblioasia/2016/04/05/the-story-of-singapore-radio-1924-41/#sthash.mD4l2zp6.dpbs), Apr–June 2016, p. 25.
+[^11]: [McDanieI](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277), 1994, pp. 27–28.
+[^12]: [Chua](http://www.nlb.gov.sg/biblioasia/2016/04/05/the-story-of-singapore-radio-1924-41/#sthash.mD4l2zp6.dpbs), Apr–June 2016, p. 22.
+[^13]: McDaniel , 1994, p. 71.
+[^14]:McDaniel , 1994, p. 72.
 [^15]: 
 [^16]: 
 [^17]: 
 [^18]: 
 [^19]: 
-[^20]: 
+[^20]:
+Fox, B.J. (1990, March). Selling the mechanised household: 70 years of ads in Ladies Home Journal. Gender and Society, 4(1), 25–40, pp. 27–28. Retrieved from JSTOR via NLB’s eResources website. 
+Cowan, R.S. (1976, January). The ‘Industrial Revolution’ in the home: Household technology and social change in the 20th century. Technology and Culture, 17(1), 1–23, pp. 9–10. Retrieved from JSTOR via NLB’s eResources website.
+Fox, (1990, March), pp. 25–40; Quah, S.R. (1980, July–December). Sex-role socialization in a transitional society. International Journal of Sociology of the Family, 10(2), 213–231, pp. 214–215. Retrieved from JSTOR via NLB’s eResources website.
+Singer: Take home a jade lady. (1969). FDAWU Magazine of 1969 (p. 62). Singapore: Food, Drinks and Allied Workers Union. Retrieved from PublicationSG.
+Wong, A.K., & Ko, Y.-C. (1984). Women’s work and family life: The case of electronics workers in Singapore. East Lansing: Michigan State University. (Call no.: RSING 331.4821381095957 WON); Deyo, F.C., & Chen, P.S.J. (1976). ). Female labour force participation and earnings in Singapore. Bangkok: Clearing House for Social Development in Asia. (Call no.: RSING 331.4095957 DEY); Quah, Jul–Dec 1980, p. 221.
+Interestingly, according to studies on advertising and gender beyond the 1960s, the representation of women in household roles did not necessarily decrease. Instead, brands attempted to diversify the images of families using household items, with men occasionally shown participating in the upkeep of the household, at least from the late 60s onwards. 
