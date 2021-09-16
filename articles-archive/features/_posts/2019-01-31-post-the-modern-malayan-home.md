@@ -7,8 +7,8 @@ layout: post
 #### Along with the introduction of running water and electricity at the turn of the 20th century were advertisements featuring modern home appliances. **Georgina Wong** has the story.
 
 <img style="width: 550px; height: 350px;"
-src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan10.JPG">
-<div style="background-color: white;">(Left) This 1956 ad by The East Asiatic Co. depicts a “glamorous housewife” alongside a Kelvinator refrigerator. Many ads at the time featured impeccably dressed women with nary a hair out of place, even while in the midst of doing household chores. <i>Image reproduced from The Straits Times Annual, 1956, p. xx.</i> (Right) Singer put out many creative and visually interesting ad campaigns targetted at women, as evident in this 1961 ad. <i>Image reproduced from The Straits Times Annual, 1961, p. xi.</i></div>
+src="/images/Vol-14-issue-4/the-modern-malayan-home/malayan.JPG">
+<div style="background-color: white;">(Left) This 1956 ad by The East Asiatic Co. depicts a “glamorous housewife” alongside a Kelvinator refrigerator. Many ads at the time featured impeccably dressed women with nary a hair out of place, even while in the midst of doing household chores. <i>Image reproduced from The Straits Times Annual, 1956, p. xx.</i><br> (Right) Singer put out many creative and visually interesting ad campaigns targetted at women, as evident in this 1961 ad. <i>Image reproduced from The Straits Times Annual, 1961, p. xi.</i></div>
 
 Modern utilities and amenities revolutionised home life across the world in the early 20th century, and Singapore was no exception. What it really boiled down to was the introduction of gas, electricity and running water to households. In their wake, a vast array of appliances that made use of these modern utilities soon appeared on the market, radically changing the way people cooked, cleaned and entertained themselves at home.
 
