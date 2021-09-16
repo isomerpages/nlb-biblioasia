@@ -19,7 +19,7 @@ National Heritage Board.</i></div>
 
 Wa Hakim, then 15 years old, was one of the *orang laut* who was present on the day the British arrived. Already an old man in his 80s, he shared his recollection of what transpired on that day:
 
-“I remembered the boat landing in the morning. There were two white men and a Sepoy on it. When they landed, they went straight to the Temenggong’s house. Tuan Raffles was there, he was a short man… Tuan Farquhar was there; he was taller than Tuan Raffles and he wore a helmet. The Sepoy carried a musket. They were entertained by the Temenggong and he gave them rambutans and all kinds of fruit… Tuan Raffles went into the centre of the house. About 4 o’clock in the afternoon, they came out and went on board again”.[^2]
+“I remembered the boat landing in the morning. There were two white men and a Sepoy on it. When they landed, they went straight to the Temenggong’s house. Tuan Raffles was there, he was a short man… Tuan Farquhar was there; he was taller than Tuan Raffles and he wore a helmet. The Sepoy carried a musket. They were entertained by the Temenggong and he gave them rambutans and all kinds of fruit… Tuan Raffles went into the centre of the house. About 4 o’clock in the afternoon, they came out and went on board again."[^2]
 
 But the story of Singapore goes back much further. The island as it was 700 years ago in fact shares a number of similarities with today’s cosmopolitan city-state. In the 14th century, Singapore was already a centre for a vast trading network and actively engaged in commerce with neighbouring ports and regions. Commodities such as hornbill casques and lakawood (a type of aromatic wood used as incense) were exported from Singapore, or Temasek, as it was known then.
 
