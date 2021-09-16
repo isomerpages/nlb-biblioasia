@@ -2,6 +2,7 @@ collections:
   oct-2021:
     output: true
     order:
+      - comics-past-and-present/.keep
       - how-changi-airport-came-to-be/.keep
       - how-changi-airport-came-to-be/how-changi-airport-came-to-be.md
       - how-changi-airport-came-to-be/more-about-changi-airport.md
