@@ -2,10 +2,10 @@
 title: Exhibiting Photography In Pre-war Singapore
 permalink: /vol-17/issue-3/oct-dec-2021/prewarphotography
 ---
-#### The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. **Zhuang Wubin** revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
+#### **Andrea Kee** explores how the enigmatic Modern Girl asserted her new-found identity, femininity and independence in interwar Singapore.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/MalayBorneo%20Guide.jpg)
-<div style="background-color: white;">A souvenir guide produced for the Malaya Borneo Exhibition held in Singapore from 31 March to 17 April 1922. <i>Image reproduced from Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya (Singapore: Malaya Borneo Exhibition, 1922). (From National Library, Singapore, call no. RRARE 607.34595 MAL; accession no. B02935804I).</i></div>
+![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/Malayborneo%20exhibition.jpg)
+<div style="background-color: white;">Portrait of a woman with a permed bob and floral <i>cheongsam</div>, 1930s. Also known as the Shanghai dress, the <i>cheongsam</div> was popularised by Shanghai’s film stars and favoured by local Modern Girls. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
 
 Between the 1920s and the onset of the Japanese Occupation in 1942, there had been various efforts to organise photography exhibitions in Singapore that featured the works of European and Asian photographers. The organisers of each exhibition had their own agendas and reasons for staging the event. Their political affiliations and sources of patronage were also different. By revisiting these initiatives, we can piece together a narrative of pre-World War II Singapore through the conditions that made the staging of these exhibitions necessary and possible.
 
