@@ -149,11 +149,11 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^7]: Weinbaum et al., eds., “[The Modern Girl as Heuristic Device](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188),” 5. 
 
-[^8]: Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 9. 
+[^8]: Weinbaum et al., eds., “[The Modern Girl as Heuristic Device](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188),” 9. 
 
-[^9]: Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 9. 
+[^9]: Weinbaum et al., eds., “[The Modern Girl as Heuristic Device](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188),” 9. 
 
-[^10]: Weinbaum et al., eds., “The Modern Girl Around the World,” 28, 30.
+[^10]: Weinbaum et al., eds., “[The Modern Girl Around the World](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188),” 28, 30.
 
 [^11]: Sarah E. Stevens, “Figuring Modernity: The New Woman and the Modern Girl in Republican China,” NWSA Journal 15, no. 3 (Autumn 2003): 84. (From JSTOR via NLB’s eResources website)
 
