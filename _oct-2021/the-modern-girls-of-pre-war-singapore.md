@@ -127,3 +127,12 @@ Despite modernity’s promise of a more liberated lifestyle for women, not all y
 Whatever the case, the Modern Girls of the period played a key role in initiating discourse and debates about the expectations of modern womanhood, and in defining young women’s identities in a world vastly different from that of their mothers’. 
 
 Despite the criticisms and limits placed on Modern Girls, they actively, vocally and bravely challenged their detractors to prevent themselves from being seen solely as wives and mothers, and confined only to domestic chores. Their attempts at disrupting social conventions were important and significant steps toward establishing and normalising greater gender equality in all aspects of life.
+
+<div style="background-color: white;">
+<br/>
+<img src="" style="width: 100px; height: 100px;" />
+	<b>Andrea Kee</b> is an Associate Librarian with the National Library, Singapore, who works with the Singapore and Southeast Asia collections. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
+
+#### NOTES
+
+[^1]: [*Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980631) (Singapore: Malaya Borneo Exhibition, 1922), 5. (From National Library, Singapore, Call no. RRARE 607.34595 MAL; Microfilm nos. NL9852, NL27451)
