@@ -3,7 +3,7 @@ title: A List of Singapore Comics
 permalink: /vol-17/issue-3/oct-dec-2021/singapore-comics-list
 third_nav_title: Comics Past And Present
 ---
-This list features almost all the comic books mentioned in "Singapore Comics - Past and Present".
+**This list features almost all the comic books mentioned in "Singapore Comics - Past and Present".**
 
 Captain V Productions. *The Amazing Adventures of Captain V*. Singapore: Captain V Productions, 1988. 
 
