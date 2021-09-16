@@ -99,8 +99,6 @@ src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan7.JPG">In the 1
 
 |More importantly, advertisers tried to mould public attitudes to suit household consumerism, for instance, by imbuing housework with notions of idealism and romanticism. Advertisements sometimes implied that the work performed by a woman around the house was not done out of necessity but more as a labour of love, and that the care she put into it was an indication of her love for her husband and children. Purchasing household appliances that allowed housework to be done better and faster was therefore an investment of care in the family, a symbol of a woman’s dedication to her primary role as wife and mother.[^20]
 
-<br> 
-
 |This essay is reproduced from the book, *Between the Lines: Early Print Advertising in Singapore 1830s–1960s*. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries ([Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203150558)).
 
 <br>
