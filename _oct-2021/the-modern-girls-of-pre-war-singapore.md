@@ -205,21 +205,21 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^35]: “[Spore’s First Girl Lift Attendant](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19360501-1.2.65),” *Morning Tribune*, 1 May 1936, 11. (From NewspaperSG)
 
-[^36]: “Around Malaya,” Morning Tribune, 6 May 1936, 10. (From NewspaperSG)
+[^36]: “[Around Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19360506-1.2.58),” *Morning Tribune*, 6 May 1936, 10. (From NewspaperSG)
 
-[^37]: Zola, “What Readers Are Saying: Girls & Unemployed Youths,” Malaya Tribune, 13 April 1938, 18. (From NewspaperSG)
+[^37]: Zola, “[What Readers Are Saying: Girls & Unemployed Youths](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380413-1.2.173),” *Malaya Tribune*, 13 April 1938, 18. (From NewspaperSG)
 
-[^38]: G.S. Teo, “The Weaker Sex,” Malaya Tribune, 27 April 1938, 20. (From NewspaperSG)
+[^38]: G.S. Teo, “[The Weaker Sex](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380427-1.2.162),” *Malaya Tribune*, 27 April 1938, 20. (From NewspaperSG)
 
-[^39]: C.T.C., “Girls in Offices,” Malaya Tribune, 4 May 1938, 20. (From NewspaperSG)
+[^39]: C.T.C., “[Girls in Offices](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380504-1.2.143),” *Malaya Tribune*, 4 May 1938, 20. (From NewspaperSG)
 
-[^40]: Educated Female, ‘“Zola” Did Start Something,” Malaya Tribune, 20 April 1938, 20. (From NewspaperSG)
+[^40]: Educated Female, ‘“[Zola” Did Start Something](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380420-1.2.178),” *Malaya Tribune*, 20 April 1938, 20. (From NewspaperSG)
 
-[^41]: Sunny Girl, “Another Girl’s Views,” Malaya Tribune, 20 April 1938, 20. (From NewspaperSG)
+[^41]: Sunny Girl, “[Another Girl’s Views](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380420-1.2.181),” *Malaya Tribune*, 20 April 1938, 20. (From NewspaperSG)
 
-[^42]: “She Shocked Father by Bobbing Her Hair,” Sunday Tribune (Singapore), 3 April 1949, 4. (From NewspaperSG)
+[^42]: “[She Shocked Father by Bobbing Her Hair](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19490403-1.2.27),” *Sunday Tribune* (Singapore), 3 April 1949, 4. (From NewspaperSG)
 
-[^43]: Lim, Rose on my Pillow, 20–24.
+[^43]: Lim, [*Rose on my Pillow*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6652582), 20–24.
 
 [^44]: Lewis, “Cosmopolitanism and the Modern Girl”, 1387. 
 
