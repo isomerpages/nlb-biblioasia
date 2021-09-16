@@ -78,3 +78,17 @@ Achi Atha passed on two years after that great repast, followed by my mother six
 The lessons in the kitchen taught us to be prudent, resourceful, hardworking and frugal, and yet to always seek a richness in our lives through well-prepared dishes made from the freshest, and not necessarily, the most expensive of ingredients.
 
 |This article was first published in <i>The Sunday Times</i> on 5 August 2018. © Singapore Press Holdings Limited. Reprinted with permission.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty5.JPG" style="width: 100px; height: 100px;">
+<b>Chantal Sajan</b> is a sub-editor with Singapore Press Holdings. She currently works in the newsroom of The Business Times.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
+
+#### **Notes**
+
+[^1]: Also spelled as Chetti Melaka or Chitty Melaka. The Chetty Melaka are descendants of South Tamil Indian traders who settled in Malacca during the Malaccan Sultanate (1400–1511) and married local women who included Malays, Javanese, Bataks and Chinese. Chetty Melaka are mostly Hindu, and speak a patois of Malay, Tamil and Chinese. The community of some 500,000 in Singapore traces its roots to Kampung Chetti at Jalan Gajah Berang, Malacca.
+[^2]: This is extended only to those we are accustomed with, and not to rank strangers. The rule was that when in doubt about a guest, never allow them to enter but apologise a few days later after you have established their relationship to the family. 
+[^3]: *Buah keluak* is a poisonous seed from the *kepayang* tree, native to Malaysia and Indonesia, which is “cured” of its cyanide content by a careful process of boiling, immersion in ash and followed by burial in the earth for a certain period of time.
