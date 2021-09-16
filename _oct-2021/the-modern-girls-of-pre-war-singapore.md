@@ -169,7 +169,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^17]: Betty Lim, *[A Rose on my Pillow: Recollections of a Nyonya](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6652582)* (Singapore: Armour Publishing, 1994), 17–18. (From National Library, Singapore, Call no. RSING 920.72 LIM)
 
-[^18]: Peter Lee, Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950 (Singapore: Asian Civilisations Museum, 2014), 253, 260. (From National Library, Singapore, Call no. RSING 391.20899510595 LEE-[CUS]) 
+[^18]: Peter Lee, *[Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200480968)* (Singapore: Asian Civilisations Museum, 2014), 253, 260. (From National Library, Singapore, Call no. RSING 391.20899510595 LEE-[CUS]) 
 
 [^19]: Su Lin Lewis, Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940 (Cambridge, UK: Cambridge University Press, 2016), 247. (From National Library, Singapore, Call no.: R 307.7609590904 LEW) 
 
