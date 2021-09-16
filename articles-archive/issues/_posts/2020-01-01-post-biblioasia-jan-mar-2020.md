@@ -2,19 +2,18 @@
 layout: post
 title: BiblioAsia Jan-Mar 2020
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Jan-Mar 2020"
+breadcrumb: Jan-Mar 2020
 permalink: /vol-15/issue-4/jan-mar-2020/
 ---
-
 <img src="/images/Vol-15-issue-4/vol15_iss4.jpg ">
 
 In this issue, we look back at the glory days of Rediffusion, explore *bangsawan* venues of old, and find out how Singapore's Chinese newspaper scene has evolved. We also remember four Singaporean journalists who covered the Vietnam War.
 
 [Director’s Note](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:48:36.000/wp/details/http://www.nlb.gov.sg/biblioasia/2020/02/21/directors-note-16/){:target="_blank"} 
 
-**Rediffusion’s Golden Years** <br>Singapore’s only cable radio service was an instant hit when it was launched in 1949. *Barbara Quek* charts the history of the pioneering broadcasting station. [(PDF)](/files/pdf/vol-15/v15-issue4_Rediffusion.pdf)
+**[Rediffusion’s Golden Years](https://nlb-ba-staging.netlify.app/vol-15/issue-4/jan-mar-2020/rdifs-gden-yrs/)** <br>Singapore’s only cable radio service was an instant hit when it was launched in 1949. *Barbara Quek* charts the history of the pioneering broadcasting station. [(PDF)](/files/pdf/vol-15/v15-issue4_Rediffusion.pdf)
 
-**The Theatres of Bangsawan**<br>In the days before cinema, *bangsawan* performances entertained the masses. *Tan Chui Hua* looks at the rise and fall of *bangsawan* venues in Singapore.[(PDF)](/files/pdf/vol-15/v15-issue4_Theatres_Bangsawan.pdf)
+**[The Theatres of Bangsawan](https://nlb-ba-staging.netlify.app/vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/)**<br>In the days before cinema, *bangsawan* performances entertained the masses. *Tan Chui Hua* looks at the rise and fall of *bangsawan* venues in Singapore.[(PDF)](/files/pdf/vol-15/v15-issue4_Theatres_Bangsawan.pdf)
 
 **When Women Were Commodities** <br>Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. *Adeline Foo* examines the lives of the unfortunate girls and women who were sold into prostitution.[(PDF)](/files/pdf/vol-15/v15-issue4_When_Women.pdf)
 
@@ -31,4 +30,3 @@ In this issue, we look back at the glory days of Rediffusion, explore *bangsawan
 **The Istana Turns 150** <br>The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019. *Wong Sher Maine* recounts key moments in its history. [(PDF)](/files/pdf/vol-15/v15-issue4_Istana.pdf)
 
 **Head Count: The History of Census-taking in Singapore** <br>The very first census here was conducted in 1824. *Ang Seow Leng* reveals how doing a headcount has evolved over the last 200 years. [(PDF)](/files/pdf/vol-15/v15-issue4_HeadCount.pdf)
-
