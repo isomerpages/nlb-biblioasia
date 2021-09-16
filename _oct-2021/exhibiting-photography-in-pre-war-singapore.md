@@ -3,7 +3,8 @@ title: Exhibiting Photography In Pre-war Singapore
 permalink: /vol-17/issue-3/oct-dec-2021/prewarphotography
 ---
 #### The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. **Zhuang Wubin** revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
-![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/Blank%20-%20Facing%20Page.jpg)
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/MalayBorneo%20Guide.jpg)
 <div style="background-color: white;">A souvenir guide produced for the Malaya Borneo Exhibition held in Singapore from 31 March to 17 April 1922. <i>Image reproduced from Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya (Singapore: Malaya Borneo Exhibition, 1922). (From National Library, Singapore, call no. RRARE 607.34595 MAL; accession no. B02935804I).</i></div>
 
 Between the 1920s and the onset of the Japanese Occupation in 1942, there had been various efforts to organise photography exhibitions in Singapore that featured the works of European and Asian photographers. The organisers of each exhibition had their own agendas and reasons for staging the event. Their political affiliations and sources of patronage were also different. By revisiting these initiatives, we can piece together a narrative of pre-World War II Singapore through the conditions that made the staging of these exhibitions necessary and possible.
@@ -13,7 +14,8 @@ Between the 1920s and the onset of the Japanese Occupation in 1942, there had be
 
 On 31 March 1922, the Malaya Borneo Exhibition opened to much fanfare on reclaimed land adjacent to the Telok Ayer basin. Occupying 65 acres (around 263,046 sq m), the colonial spectacle was put together in less than six months. After several extensions, the fair ended on 17 April.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/Blank%20-%20Malaya%20Borneo%20Exhibition.jpg)
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/Malayborneo%20exhibition.jpg)
 <div style="background-color: white;">The carnival at the Malaya Borneo Exhibition held in Singapore from 31 March to 17 April 1922. <i>Arshak C Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
 
 
