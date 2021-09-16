@@ -139,7 +139,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^2]: Alys Eve Weinbaum, et al., eds., “The Modern Girl Around the World: Cosmetics Advertising and the Politics of Race and Style” in [*The Modern Girl Around the World: Consumption, Modernity, and Globalization*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188) (Durham: Duke University Press, 2008), 25. (From National Library, Singapore, Call no. R 305.24220904)
 
-[^3]: Robert Hamilton Bruce Lockhart, Return to Malaya (London: Putnam, 1936), 116. (From National Library, Singapore, Call no. RCLOS 959.5 LOC-[ET])
+[^3]: Robert Hamilton Bruce Lockhart, [*Return to Malaya*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13021985) (London: Putnam, 1936), 116. (From National Library, Singapore, Call no. RCLOS 959.5 LOC-[ET])
 
 [^4]: Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 1. 
 
