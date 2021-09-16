@@ -65,16 +65,16 @@ Coriander seeds were dried in the sun on flat baskets, which also acted as sieve
 
 The homemade curry powder, if done according to matriarchal dictates, never stuck to the pan when it hit the oil, as no flour or fillers were allowed. And that meant that one needed to use less of these spice mixes, as they were potent dish enhancers.
 
-This is also where the pegang tangan approach comes in handy during the cooking process – the touch of hand that allows the cook to use the spices judiciously with no wastage; just by the touch of the hand, one can intuitively gauge how much chilli powder to add for heat, and how much curry mix to put in the ayam buah keluak so that it does not overpower the distinctive taste of the buah keluak.
+This is also where the *pegang tangan* approach comes in handy during the cooking process – the touch of hand that allows the cook to use the spices judiciously with no wastage; just by the touch of the hand, one can intuitively gauge how much chilli powder to add for heat, and how much curry mix to put in the *ayam buah keluak* so that it does not overpower the distinctive taste of the *buah keluak*.
 
 It is an alchemical moment when cook, spice and ingredients are almost immersed in some sort of inexplicable kitchen Zen, on a level beyond the abilities of lesser neophytes, who can only pore over recipe books, trying to cook by rote.
 
-For the interview with Violet Oon, in just one morning, my mother had whipped up a chicken curry, a dry-fry mutton Mysore dish, a fish stew, ikan panggang (grilled fish), stir-fried vegetables, Indian Peranakan chap chye (braised mixed vegetables), fragrant basmati rice, a range of yogurt accompaniments made with mint and pomegranates, and desserts – rich, chocolate cake and Malay-style coconut candy. My grandaunt’s disciple had truly come into her own.
+For the interview with Violet Oon, in just one morning, my mother had whipped up a chicken curry, a dry-fry mutton Mysore dish, a fish stew, *ikan panggang* (grilled fish), stir-fried vegetables, Indian Peranakan *chap chye* (braised mixed vegetables), fragrant *basmati* rice, a range of yogurt accompaniments made with mint and pomegranates, and desserts – rich, chocolate cake and Malay-style coconut candy. My grandaunt’s disciple had truly come into her own.
 
-Nothing goes to waste, true to the teachings of my grandaunt – as after the photo shoot, there were takeaway boxes on hand for everyone as well as another round of guests in the evening that my mother had scheduled earlier that day – to finish up every last grain of pandan-infused and cardamom- and cinnamon-enhanced basmati rice and curries.
+Nothing goes to waste, true to the teachings of my grandaunt – as after the photo shoot, there were takeaway boxes on hand for everyone as well as another round of guests in the evening that my mother had scheduled earlier that day – to finish up every last grain of *pandan*-infused and cardamom- and cinnamon-enhanced *basmati* rice and curries.
 
 Achi Atha passed on two years after that great repast, followed by my mother six years later. But their teachings and their culinary values have gone on to inspire every other aspect of their children’s, grandchildren’s and great-grandchildren’s lives.
 
 The lessons in the kitchen taught us to be prudent, resourceful, hardworking and frugal, and yet to always seek a richness in our lives through well-prepared dishes made from the freshest, and not necessarily, the most expensive of ingredients.
 
-This article was first published in The Sunday Times on 5 August 2018. © Singapore Press Holdings Limited. Reprinted with permission.
+|This article was first published in <i>The Sunday Times</i> on 5 August 2018. © Singapore Press Holdings Limited. Reprinted with permission.
