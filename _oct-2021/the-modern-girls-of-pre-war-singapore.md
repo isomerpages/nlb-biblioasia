@@ -32,7 +32,7 @@ As international companies began customising their advertisements to appeal to d
 
 #### **The Modern Girl in Singapore**
 
-The print media – such as pictorial magazines, journals and newspapers – also began selling a modern lifestyle and culture. In cities like Shanghai, pictorial magazines such as《良友》(Liangyou; The Young Companion), featured the latest in fashion, makeup and celebrities.[^11] Available in Singapore, Liangyou would have presented a different way for women to see themselves and shape their lives.[^12]
+The print media – such as pictorial magazines, journals and newspapers – also began selling a modern lifestyle and culture. In cities like Shanghai, pictorial magazines such as《良友》(<i>Liangyou; The Young Companion</i>), featured the latest in fashion, makeup and celebrities.[^11] Available in Singapore, Liangyou would have presented a different way for women to see themselves and shape their lives.[^12]
 
 According to historian Chua Ai Lin, Hollywood played a key role in influencing social change among Singapore’s youth and the city’s modern identity. Singapore’s young women looked to Hollywood not only for fashion and beauty tips and trends, but also for contemporary views on love, sex and romance. Chua suggests, however, that cultural products such as film appeared to effect greater change in women due to the parallel evolution of women’s social roles.[^13]
 
