@@ -86,8 +86,6 @@ Advertisements for television sets not only emphasised their high-quality pictur
 
 |<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan7.JPG">In the 1950s and 60s, Singaporean women began entering the workforce, but were still expected to undertake housekeeping and child-rearing duties. Women did shift work or less demanding jobs in factories so that they would be able to take care of the family after work hours. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
 
-|<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan7.JPG">In the 1950s and 60s, Singaporean women began entering the workforce, but were still expected to undertake housekeeping and child-rearing duties. Women did shift work or less demanding jobs in factories so that they would be able to take care of the family after work hours. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
-
 |From the early 20th century onwards, many advertisers of household- and domestic-related goods in Malaya began to target women as their main audience.[^15] An overwhelming number of advertisements featured women – and very rarely men – as the main consumers and users of home technology.
 
 |The prevalence of such advertisements – unprecedented before the advent of pictorial advertising.[^16] – reflected as well as influenced public perception of women’s roles in society: the fairer sex was often depicted as belonging in the domestic sphere, and responsible for caregiving and house-hold management.[^17]
