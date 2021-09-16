@@ -171,7 +171,7 @@ We boarded the Selangor in Malacca and reached Singapore on 13 May, after a most
 
 [Ladies motoring in the Malay Peninsula](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070511-1.2.76). (1907, May 11). *The Singapore Free Press*, p. 12. Retrieved from NewspaperSG.
 
-Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). [One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 2, p. 364). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
+Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 2, p. 364). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
 
 [Monday, April 8, 1907](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19070411-1.2.61). (1907, April 11). *The Singapore Free Press*, p. 232. Retrieved from NewspaperSG.
 
