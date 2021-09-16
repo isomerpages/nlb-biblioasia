@@ -185,7 +185,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^25]: Jay Bee, “[Dancing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19321014-1.2.86),” *Malaya Tribune*, 14 October 1931, 11. (From NewspaperSG)
 
-[^26]: Helen Chan, “The Modern Girl,” *Malaya Tribune*, 20 October 1931, 14; “A Modern Chinese Girl”, “The Modern Girl,” Malaya Tribune, 2 November 1932, 2. (From NewspaperSG)
+[^26]: Helen Chan, “[The Modern Girl,”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19321020-1.2.58) *Malaya Tribune*, 20 October 1931, 14; “A Modern Chinese Girl”, “[The Modern Girl](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19321102-1.2.7),” *Malaya Tribune*, 2 November 1932, 2. (From NewspaperSG)
 
 [^27]: Chia Ah Keow, “The Modern Girl,” Malaya Tribune, 22 September 1938, 7. (From NewspaperSG)
 
