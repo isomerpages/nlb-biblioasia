@@ -106,7 +106,7 @@ By 1833, “Chinese, Malays, Bugis, Javanese, Balinese, natives of Bengal and Ma
 
 In the earlier decades of the 20th century, *The Malaya Tribune* received much support as the newspaper that expressed the voices of the local communities. Readers and contributors often discussed ideas of nationhood and belonging, and of their role in Singapore.
 
-As Chinese and Indian workers continued to stream into Malaya in search of work, questions of who were the rightful sons and heirs of the Malayan land (was it open to all races who claimed Malaya as their home, or were only the Malays eligible?), and whether it was appropriate to maintain ties with one’s country of origin, were debated in the *Tribune*. One lawyer wrote in the newspaper: “No matter what their nationality is, they [the local-born] should be proud to be called Sons of Malaya as much as Sons of other Countries”.[^28]
+As Chinese and Indian workers continued to stream into Malaya in search of work, questions of who were the rightful sons and heirs of the Malayan land (was it open to all races who claimed Malaya as their home, or were only the Malays eligible?), and whether it was appropriate to maintain ties with one’s country of origin, were debated in the *Tribune*. One lawyer wrote in the newspaper: “No matter what their nationality is, they [the local-born] should be proud to be called Sons of Malaya as much as Sons of other Countries."[^28]
 
 #### **Identity and Unity**
 
