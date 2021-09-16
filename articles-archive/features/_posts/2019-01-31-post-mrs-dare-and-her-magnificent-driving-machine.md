@@ -111,9 +111,6 @@ We left the next morning at nine, and covered the 17 miles of charming road to K
 
 About one-third of the way up, a horrible grating noise proceeding from the interior of the car greatly alarmed us, but we could not locate it and thought the noise was due to an insufficiency of oil in the gear box. In addition to this awful din, our new water tank began to leak badly so we went up very slowly, stopping at every stream or waterfall to fill up the tank and cool down the overheated engine. On arriving at the Gap (the boundary between Selangor and Pahang) at 2.40 pm, we decided to stay there for the night.
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare7.JPG">
-<div style="background-color: white;">The Motor Service along Kuala Kubu-Kuala Lipis Road. The road connects Kuala Kubu Bahru in Selangor to Kuala Lipis in Pahang. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 218). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350)B30160627C; Microfilm no.: NL16350)</i></div>
-
 The next morning, after giving the gear box a good dose of oil, we started on our 15-mile-run downhill to Tras, and thence for eight miles on to Raub, the water tank having to be filled at every available opportunity. Whilst tiffining at Raub Resthouse, the car was left at the local garage to have the tank resoldered. The manager there informed us that special riveted tanks should be used in this climate. We had only travelled eight miles out of Raub when the tank began to leak worse than ever! This time, the solder at the junction of the waterpipe and radiator had given way. We bound it up as well as we could with rubber tubing and wire, and by dint of constantly refilling we eventually arrived in Kuala Lipis at 7 pm, making a total of 62 miles for the day.
 
 After crossing the Lipis River, the road skirted its bank for a good part of the way. Kuala Lipis is pleasingly situated at the junction of the Lipis and Jellei rivers, after which they join and become the main Pahang river, the sole route to the east coast from the interior – a trip of over 200 miles. We stayed two days at the Residency, the walls of which are made entirely of plaited palm leaves, in white and brown.
@@ -122,6 +119,9 @@ After crossing the Lipis River, the road skirted its bank for a good part of the
 
 The manager of the Motor Service kindly took our radiator in to Raub to have the pipe properly fixed and brought it back the next morning. The same afternoon we left on our return journey, only doing the 39 miles into Raub, where we spent a most comfortable night in the resthouse. We left Raub the next day at 10.30 am, the car going up the Semangko Pass quite nicely this time. After a rest and cool down at the Gap, we started off again at 2.45 pm, and ran down the hill to Kuala Kubu in two hours – 50 miles in all during the day – a countryfied spot on the banks of a river.
 
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare7.JPG">
+<div style="background-color: white;">The Motor Service along Kuala Kubu-Kuala Lipis Road. The road connects Kuala Kubu Bahru in Selangor to Kuala Lipis in Pahang. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 218). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350)B30160627C; Microfilm no.: NL16350).</i></div>
+
 We left on 28 April at 11 am for Kuala Lumpur – a run of 38 miles – but it took us the best part of the day as the wretched tank again leaked like a sieve and we had to stop every two or three miles to replenish the water. The road was somewhat more stony and hilly in places. We passed a great many alluvial tin mines with their armies of Chinese coolies. Seven miles from Kuala Lumpur we passed the famous caves at Batu, and from there a fine broad road goes into the capital of Selangor.
 
 #### **Kuala Lumpur**
@@ -129,7 +129,7 @@ We left on 28 April at 11 am for Kuala Lumpur – a run of 38 miles – but it t
 The capital has a large European population, with well-built bungalows, churches, hospitals, government offices, a town club, a country club and the Public Gardens with a fine large lake.
 
 <img style="width: 550px; height: 350px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare8.JPG">
-<div style="background-color: white;">Government offices in Kuala Lumpur. <i>Image reproduced from Swettenham, F.A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya (p. 276). London, New York: John Lane the Bodley Head. (Accession nos.: B29031891K, B29267224A; Microfilm nos.: NL19101, NL3279)</i></div>
+<div style="background-color: white;">Government offices in Kuala Lumpur. <i>Image reproduced from Swettenham, F.A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya (p. 276). London, New York: John Lane the Bodley Head. (Accession nos.: B29031891K, B29267224A; Microfilm nos.: NL19101, NL3279).</i></div>
 
 The Resident General, W. Taylor, with whom we stayed, has a beautiful house up on the hill overlooking the lake and gardens. In fact, the place is very hilly, each house standing on its own separate eminence. There are many motorcars here, and the big engineering works belongs to the Federated Engineering Company, so we had Ichiban thoroughly overhauled during our four-day visit.
 
