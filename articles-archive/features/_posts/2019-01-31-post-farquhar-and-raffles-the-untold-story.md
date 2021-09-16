@@ -168,7 +168,7 @@ Farquhar deserves as much credit as Raffles in the founding of modern Singapore.
 
 For various reasons, Farquhar lost his rightful place in the history of Singapore. The time to set the record straight is all the more important as the city-state marks the 200th year of its founding in 2019.
 
-|This essay is based on the author’s PhD thesis, “Image is All: Farquhar, Raffles and the Founding and Early Development of Singapore”, as well as her book, *William Farquhar and Singapore: Stepping Out from Raffles’ Shadow*. The book is on sale and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 959.5703 WRI-[HIS] and SING 959.5703 WRI]
+|This essay is based on the author’s PhD thesis, “Image is All: Farquhar, Raffles and the Founding and Early Development of Singapore”, as well as her book, *William Farquhar and Singapore: Stepping Out from Raffles’ Shadow*. The book is on sale and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries ([Call nos.: RSING 959.5703 WRI-[HIS] and SING 959.5703 WRI](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202893848)]
 
 <br>
 <div style="background-color: white;">
