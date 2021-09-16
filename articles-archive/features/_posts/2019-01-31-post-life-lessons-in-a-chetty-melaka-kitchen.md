@@ -82,7 +82,7 @@ The lessons in the kitchen taught us to be prudent, resourceful, hardworking and
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty5.JPG" style="width: 100px; height: 100px;">
-<b>Chantal Sajan</b> is a sub-editor with Singapore Press Holdings. She currently works in the newsroom of The Business Times.
+<b>Chantal Sajan</b> is a sub-editor with Singapore Press Holdings. She currently works in the newsroom of <i>The Business Times</i>.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
