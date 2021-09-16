@@ -160,26 +160,39 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 [^12]: 《良友》was also distributed in Singapore. See Paul G. Pickowicz, Kuiyi Shen and Yingjin Zhang, eds., Liangyou: Kaleidoscopic Modernity and the Shanghai Global Metropolis, 1926–1945 (Leiden: Brill, 2013), 250, 258. (From National Library, Singapore, Call no. R 302.2320951132 LIA)
 
 [^13]: Chua Ai Lin, “Singapore’s ‘Cinema-Age’ of the 1930s: Hollywood and the Shaping of Singapore Modernity,” Inter-Asia Cultural Studies 13, no. 4 (December 2012): 595, 597. (From EBSCOhost via NLB’s eResources website). 
-Chua, “Singapore’s ‘Cinema-Age’ of the 1930s,” 595. 
-Saw  Swee-Hock, “Population Trends in Singapore, 
-1819–1967,” Journal of Southeast Asian History 10, no. 1, 
-Singapore Commemorative Issue 1819–1969 (March 1969): 43–44. (From JSTOR via NLB’s eResources website).
-Kung Yuseng, “Woman’s Corner. Revolt of the Modern Girl,” Malaya Tribune, 22 August 1931, 4. (From NewspaperSG)
-Betty Lim, A Rose on my Pillow: Recollections of a Nyonya (Singapore: Armour Publishing, 1994), 17–18. (From National Library, Singapore, Call no. RSING 920.72 LIM)
-Peter Lee, Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950 (Singapore: Asian Civilisations Museum, 2014), 253, 260. (From National Library, Singapore, Call no. RSING 391.20899510595 LEE-[CUS]) 
-Su Lin Lewis, Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940 (Cambridge, UK: Cambridge University Press, 2016), 
-247. (From National Library, Singapore, Call no.: 
+
+[^14]: Chua, “Singapore’s ‘Cinema-Age’ of the 1930s,” 595. 
+
+[^15]: Saw  Swee-Hock, “Population Trends in Singapore, 1819–1967,” Journal of Southeast Asian History 10, no. 1, Singapore Commemorative Issue 1819–1969 (March 1969): 43–44. (From JSTOR via NLB’s eResources website).
+
+[^16]: Kung Yuseng, “Woman’s Corner. Revolt of the Modern Girl,” Malaya Tribune, 22 August 1931, 4. (From NewspaperSG)
+
+[^17]: Betty Lim, A Rose on my Pillow: Recollections of a Nyonya (Singapore: Armour Publishing, 1994), 17–18. (From National Library, Singapore, Call no. RSING 920.72 LIM)
+
+[^18]: Peter Lee, Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950 (Singapore: Asian Civilisations Museum, 2014), 253, 260. (From National Library, Singapore, Call no. RSING 391.20899510595 LEE-[CUS]) 
+
+[^19]: Su Lin Lewis, Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940 (Cambridge, UK: Cambridge University Press, 2016), 247. (From National Library, Singapore, Call no.:
 R 307.7609590904 LEW) 
-Lee Chor Lin, In the Mood for Cheongsam (Singapore: Editions Didier Millet; National Museum of Singapore, 2012), 20. (From National Library, Singapore, Call no. RSING 391.00951 LEE-[CUS])
-Francis T. Seow, The Media Enthralled: Singapore Revisited (Boulder, Colo.: Lynne Rienner Publishers, 1998), 8. (From National Library, Singapore, Call no. RSING 323.445095957 SEO)
-“Miss Tow Foo Wah”, “Skirts Too Short,” Malaya Tribune, 7 March 1931, 2. (From NewspaperSG)
-“Evelyn”, “The Modern Girl,” Malaya Tribune, 21 March 1931, 3. (From NewspaperSG)
-“Miss Anxious”, “The Modern Girl and Her Fashions,” Malaya Tribune, 4 April 1931, 2. (From NewspaperSG)
-Jay Bee, “Dancing,” Malaya Tribune, 14 October 1931, 11. (From NewspaperSG)
-Helen Chan, “The Modern Girl,” Malaya Tribune, 20 October 1931, 14; “A Modern Chinese Girl”, “The Modern Girl,” Malaya Tribune, 2 November 1932, 2. (From NewspaperSG)
-Chia Ah Keow, “The Modern Girl,” Malaya Tribune, 22 September 1938, 7. (From NewspaperSG)
-Juliet Loh, “The Modern Girl,” Malaya Tribune, 24 September 1938, 16. (From NewspaperSG)
-Karen M. Teoh, Schooling Diaspora: Women, Education, and the Overseas Chinese in British Malaya and Singapore, 1850s–1960s, (New York: Oxford University Press, 2020), 7–8. (From National Library, Singapore, Call no. RSING 370.8209595 TEO)
+
+[^20]: Lee Chor Lin, In the Mood for Cheongsam (Singapore: Editions Didier Millet; National Museum of Singapore, 2012), 20. (From National Library, Singapore, Call no. RSING 391.00951 LEE-[CUS])
+
+[^21]: Francis T. Seow, The Media Enthralled: Singapore Revisited (Boulder, Colo.: Lynne Rienner Publishers, 1998), 8. (From National Library, Singapore, Call no. RSING 323.445095957 SEO)
+
+[^22]: “Miss Tow Foo Wah”, “Skirts Too Short,” Malaya Tribune, 7 March 1931, 2. (From NewspaperSG)
+
+[^23]: “Evelyn”, “The Modern Girl,” Malaya Tribune, 21 March 1931, 3. (From NewspaperSG)
+
+[^24]: “Miss Anxious”, “The Modern Girl and Her Fashions,” Malaya Tribune, 4 April 1931, 2. (From NewspaperSG)
+
+[^25]: Jay Bee, “Dancing,” Malaya Tribune, 14 October 1931, 11. (From NewspaperSG)
+
+[^26]: Helen Chan, “The Modern Girl,” Malaya Tribune, 20 October 1931, 14; “A Modern Chinese Girl”, “The Modern Girl,” Malaya Tribune, 2 November 1932, 2. (From NewspaperSG)
+
+[^27]: Chia Ah Keow, “The Modern Girl,” Malaya Tribune, 22 September 1938, 7. (From NewspaperSG)
+
+[^28]: Juliet Loh, “The Modern Girl,” Malaya Tribune, 24 September 1938, 16. (From NewspaperSG)
+
+[^29]: Karen M. Teoh, Schooling Diaspora: Women, Education, and the Overseas Chinese in British Malaya and Singapore, 1850s–1960s, (New York: Oxford University Press, 2020), 7–8. (From National Library, Singapore, Call no. RSING 370.8209595 TEO)
 “Evelyn”, “The Modern Girl.”
 Lewis, Cities in Motion, 229. 
 “Conservatism Must Give Way to Modern Ideals and Ideas,” Straits Times, 9 October 1938, 12. (From NewspaperSG)
