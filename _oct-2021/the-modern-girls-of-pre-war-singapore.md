@@ -141,13 +141,13 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^3]: Robert Hamilton Bruce Lockhart, [*Return to Malaya*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13021985) (London: Putnam, 1936), 116. (From National Library, Singapore, Call no. RCLOS 959.5 LOC-[ET])
 
-[^4]: Weinbaum et al., eds., [“The Modern Girl as Heuristic Device,”](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188) 1. 
+[^4]: Weinbaum et al., eds., “[The Modern Girl as Heuristic Device](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188),” 1. 
 
-[^5]: Su Lin Lewis, “Cosmopolitanism and the Modern Girl: A Cross-Cultural Discourse in 1930s Penang”, *Modern Asian Studies* 43, no. 6 (November 2009): 1385–86. (From JSTOR via NLB’s eResources website)
+[^5]: Su Lin Lewis, “Cosmopolitanism and the Modern Girl: A Cross-Cultural Discourse in 1930s Penang”, *Modern Asian Studies* 43, no. 6 (November 2009): 1385–86. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^6]: Rachel Leow, “Age as a Category of Gender Analysis: Servant Girls, Modern Girls, and Gender in Southeast Asia,” The Journal of Asian Studies 71, no. 4 (2012): 980. (From JSTOR via NLB’s eResources website)
+[^6]: Rachel Leow, “Age as a Category of Gender Analysis: Servant Girls, Modern Girls, and Gender in Southeast Asia,” *The Journal of Asian Studies* 71, no. 4 (2012): 980. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^7]: Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 5. 
+[^7]: Weinbaum et al., eds., “[The Modern Girl as Heuristic Device](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188),” 5. 
 
 [^8]: Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 9. 
 
