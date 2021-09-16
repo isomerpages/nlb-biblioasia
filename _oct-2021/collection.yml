@@ -4,6 +4,7 @@ collections:
     order:
       - comics-past-and-present/.keep
       - comics-past-and-present/singapore-comics-past-and-present.md
+      - comics-past-and-present/a-list-of-singapore-comics.md
       - how-changi-airport-came-to-be/.keep
       - how-changi-airport-came-to-be/how-changi-airport-came-to-be.md
       - how-changi-airport-came-to-be/more-about-changi-airport.md
