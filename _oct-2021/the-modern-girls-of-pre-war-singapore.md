@@ -143,7 +143,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^4]: Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 1. 
 
-[^5]: Su Lin Lewis, “Cosmopolitanism and the Modern Girl: A Cross-Cultural Discourse in 1930s Penang”, Modern Asian Studies 43, no. 6 (November 2009): 1385–86. (From JSTOR via NLB’s eResources website)
+[^5]: Su Lin Lewis, “Cosmopolitanism and the Modern Girl: A Cross-Cultural Discourse in 1930s Penang”, *Modern Asian Studies* 43, no. 6 (November 2009): 1385–86. (From JSTOR via NLB’s eResources website)
 
 [^6]: Rachel Leow, “Age as a Category of Gender Analysis: Servant Girls, Modern Girls, and Gender in Southeast Asia,” The Journal of Asian Studies 71, no. 4 (2012): 980. (From JSTOR via NLB’s eResources website)
 
