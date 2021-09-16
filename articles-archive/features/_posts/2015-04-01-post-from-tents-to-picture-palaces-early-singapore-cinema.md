@@ -118,7 +118,7 @@ The 1933 film <i>Samarang</i> (see text box overleaf), styled as a pseudo-docume
 
 |**Leila Majnun**| 
 
-|<i>Leila Majnun</i> (1934) is the first Malaylanguage feature film produced in Singapore. The film is a tragedy in the vein of Shakespeare’s <i>Romeo and Juliet</i> with elements of the Arabian <i>One Thousand and One Nights</i>. The plot centres on two lovers, Leila and Majnun, whose love is forbidden due to social conventions. Majnun is driven to despair and madness, thus living up to his name Majnun, which means “madness” in Arabic.| 
+|<i>Leila Majnun</i> (1934) is the first Malay language feature film produced in Singapore. The film is a tragedy in the vein of Shakespeare’s <i>Romeo and Juliet</i> with elements of the Arabian <i>One Thousand and One Nights</i>. The plot centres on two lovers, Leila and Majnun, whose love is forbidden due to social conventions. Majnun is driven to despair and madness, thus living up to his name Majnun, which means “madness” in Arabic.| 
 
 |In the 1930s, Rai Bahadur Seth Hurdutroy Motilal Chamria of Calcutta began distributing made-in-India films in Singapore. In 1932, his Urdu version of <i>Leila Majnun</i> met with such success in Bombay that he was inspired to produce a Singapore version. Bardar Singh Rajhans, who had already produced two films in India, moved from Calcutta to Singapore to direct the film, which cost $5,000 to produce. After the war, Rajhans continued to shape the local Malay film industry by directing several other significant films.| 
 
@@ -126,7 +126,7 @@ The 1933 film <i>Samarang</i> (see text box overleaf), styled as a pseudo-docume
 
 |The film’s gala opening was held on March 1934 at the Marlborough. The dialogue was in classical Malay and the film was much praised although there were criticisms over the technical quality of the pictures. In 1962, B. N. Rao, by then an established director, remade this movie as Laila Majnun.|
 
-|<i>The full citations for</i> Xin Ke <i>and</i> Leila Majnun <i>can be found on HistorySG</i> (http://eresources.nlb.gov.sg/history)</i>|
+|<i>The full citations for</i> Xin Ke <i>and</i> Leila Majnun <i>can be found on</i> *[HistorySG](http://eresources.nlb.gov.sg/history)*|
 
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. Her interest in the history of films was sparked after she uncovered little known facets of colonial life in early newspapers of Singapore. She would like to thank Nadi Tofighian for his help in reviewing this article.</p>
 

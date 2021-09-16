@@ -33,7 +33,7 @@ Topographic maps are a type of small-scale general reference map that includes a
 
 Cadastral maps are drawn up by state land-use authorities to document and demarcate parcels of physical property claimed by different property owners. These maps are used to establish property boundaries and legal claim over property as well as to estimate land values and assess property tax.[^2] As cadastral maps were traditionally used by the government to aid the tax collection process. they were sometimes referred to as "revenue maps". There are currently about 3,300 cadastral maps in the NAS collection. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/Maharaja_of_Johore_Cairn_Estate.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/Maharaja_of_Johore_Cairn_Estate_re.jpg)
 <div style="background-color: white;">Cadastral Map: An 1887 map showing the boundaries of the Cairn Hill Estate owned by the Maharaja of Johor. <i>Survey Department, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -59,7 +59,7 @@ These are special purpose maps typically overlaid with details specific to the c
 The vast majority of maps in the NAS collection (numbering over 8,000) are geographic maps of Singapore. These include maps of the island of Singapore and its surrounding waters, and of particular areas and districts of the island, notably the heavily populated town centre as well as outlying precincts like Katong, Jurong and Changi. In addition, the collection contains about 900 maps of Malaya dating to pre-1963. These maps illustrate the Malayan Peninsula, the seas around it and specific places such as the capital Kuala Lumpur and major towns such as Penang, Malacca and Johor. A small number of maps of Southeast Asia and wider Asia are also part of this collection.
 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1953_Malaya_Land_Allocation_Maps.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1953_Malaya_Land_Allocation_Maps_re.jpg)
 <div style="background-color: white;">Geographical Map: A 1953 map showing land utilisation on the Malayan Peninsula and Singapore. <i>Survey Department, courtesy of National Archives of Singapore. </i></div>
 
 
@@ -73,7 +73,7 @@ NAS has about 530 maps spanning the next 50 years of Singapore's history, starti
 
 The years 1919 to 1938, between the end of World War I and the outbreak of World War II, was an important period for cartography in Singapore as concerted efforts were made to improve the quality of local maps. NAS has a rich collection of about 1,700 maps covering this period. In 1920, a decision was made to initiate a modern trigonometrical survey of the Straits Settlements that would later enhance the accuracy of subsequent maps. One of the results of this effort was a comprehensive 16-part coloured topographic map of Singapore published in 1924. This was the first proper topographical map of Singapore ever made and represented a considerable improvement in accuracy over previous mapping. [^5]
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/Thomson_Straits_of_SG_Map.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/Thomson_Straits_of_SG_Map_re.jpg)
 <div style="background-color: white;">J.T. Thomson’s 1846 Survey Map of the Straits of Singapore showing the western entrance into the straits. <i>Urban Redevelopment Authority, courtesy of National Archives of Singapore. </i></div>
 
 NAS has about 700 maps from the World War II period (1939–1945), covering the tense years following the outbreak of war in Europe, the battles for Malaya and Singapore, and the Japanese Occupation. Highlights of the collection include British topographical maps of Malaya and Singapore from 1939 that were drafted as part of war preparations. Also of interest are reproduction copies of British and Japanese military maps capturing troop movements during the course of the Malayan and Singapore campaigns, as well as British military planning maps drawn up as part of the Allied effort to recapture Malaya and Singapore. Most of these British military maps were obtained from NAUK and the British Library, while the Japanese maps were either reproduced or acquired from private collections.
@@ -97,7 +97,7 @@ From the 1980s onwards, computerisation and digitisation of mapping emerged as n
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1943_Syonan_Map_of_SG.jpg)
 <div style="background-color: white;">A segment of the Singapore Town Plan series map printed by the Japanese in 1943 during the Occupation. The map is labelled "Syonan” on the top left corner and Japanese inscriptions can be seen on the bottom left corner of the map. <i>Survey Department, courtesy of National Archives of Singapore. </i></div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/Aerial_Map_of_SG_Town.jpg)
+![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/Aerial_Map_of_SG_Town_re.jpg)
 <div style="background-color: white;">An aerial map of Singapore town, 1950. These maps were made by stitching together aerial photographs taken by the British airforce's 81 squadron, an air reconnaissance unit based at the Seletar and Tengah airbases between 1947 and 1970. <i> Survey Department, courtesy of National Archives of Singapore. </i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/layoftheland/1971_Map_of_SG_Island.jpg)

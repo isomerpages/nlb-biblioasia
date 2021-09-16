@@ -2,8 +2,13 @@ collections:
   oct-2021:
     output: true
     order:
+      - comics-past-and-present/.keep
+      - comics-past-and-present/singapore-comics-past-and-present.md
+      - comics-past-and-present/a-list-of-singapore-comics.md
       - how-changi-airport-came-to-be/.keep
       - how-changi-airport-came-to-be/how-changi-airport-came-to-be.md
-      - how-changi-airport-came-to-be/resources.md
+      - how-changi-airport-came-to-be/more-about-changi-airport.md
       - unravelling-the-mystery-of-ubins-german-girl-shrine.md
       - exhibiting-photography-in-pre-war-singapore.md
+      - strange-visions-of-singapore-and-the-malay-peninsula.md
+      - making-the-invisible-visible.md

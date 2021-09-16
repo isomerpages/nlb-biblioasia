@@ -89,7 +89,7 @@ When I was 13, I came to Singapore to look for work. I remembered I could only a
 
 Later, I went to work at a worksite building – the Ulu Tiram army camp in Johor Bahru. In those days, we would have to manually load or unload the soil, sand, or wood. It was physically exhausting. I did this for a few years, travelling in and out of Singapore every day. 
 
-In 1957, I applied for Singapore citizenship;[^1] from then on I moved from job to job to make a living. I was a motorcycle repairman, a cleaner, and when jobs were scarce in Singapore in the 1960s, I worked as a waiter, and even as a timber logger in Terengganu (Malaysia). 
+In 1957, I applied for Singapore citizenship; from then on I moved from job to job to make a living. I was a motorcycle repairman, a cleaner, and when jobs were scarce in Singapore in the 1960s, I worked as a waiter, and even as a timber logger in Terengganu (Malaysia). 
 
 I learnt to operate a crane while working at a shipyard in Jurong. I was soon promoted to a foreman in 1978. We worked 44 hours a week and would even be paid overtime if we exceeded them! There were also other benefits my previous jobs did not afford me, such as annual and medical leave. 
 

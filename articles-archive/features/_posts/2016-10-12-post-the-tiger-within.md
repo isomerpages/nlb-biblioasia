@@ -65,7 +65,7 @@ The tamed tiger is a popular motif in the Buddhist art of China and Japan, wheth
 
 #### **India**
 
-“In what distant deeps or skies. Burnt the fire of thine eyes?” 
+<center>“In what distant deeps or skies. Burnt the fire of thine eyes?”</center> 
 <p align="right">– William Blake</p>
 
 In India, on the other hand, a land where tigers once roamed freely and every village feared these dreaded stalkers, the image of the kittenish tiger is nowhere to be seen. Here, “the strongest animals, elephants, form the base of the pyramid of life. The earth is represented by jungle, full of lions and tigers.” [^8] This frieze frequently appears on many of the oldest Hindu temples in India, including the caves of Ajanta, Ellora and Elephanta in Maharashatra state.
@@ -102,7 +102,7 @@ Tibet shares many tiger images with India, although most ignominiously as flayed
 
 In Southwest China along the border with Tibet and also in Tibet itself, one often encounters brightly coloured murals on monastery walls – awash in primary colours – of a Mongolian lama (identifiable by his hat) leading a tame tiger on a chain across a valley or down a mountain range. The lama is said to represent Avalokitesvara (the embodiment of perfect compassion), the chain represents Vajrapani (protector of the historical Buddha), while the vividly striped tiger is Manjusri, who symbolises wisdom.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/the-tiger-within/10a-tiger-within.jpg">(Left) Detail of a mural depicting a Mongolian lama leading a tamed tiger on a chain, seen on the wall of a small Buddhist monastery near Zhongdian in Yunnan, China. <i>Courtesy of Patricia Bjaaland Welch.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/the-tiger-within/10a-tiger-within.jpg">Detail of a mural depicting a Mongolian lama leading a tamed tiger on a chain, seen on the wall of a small Buddhist monastery near Zhongdian in Yunnan, China. <i>Courtesy of Patricia Bjaaland Welch.</i></div>
 
 According to Robert Beer, “this emblem also has a sectarian symbolism, with the lama leading the tiger representing the supremacy of the 'yellow-hats' of the Gelugpa School of Buddhism over their 'tamed' rivals, the 'red-hats' of the old schools of Tibetan Buddhism”. [^10]
 

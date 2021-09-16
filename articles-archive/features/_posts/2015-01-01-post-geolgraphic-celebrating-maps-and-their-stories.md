@@ -6,6 +6,9 @@ layout: post
 ---
 #### “GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015. **Tan Huism** explains why you should not miss this event.
 
+![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg)
+<div style="background-color: white;">This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves. <i>National Library of Singapore Collection.</i></div>
+
 "You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel *The Mapmaker's War.*[^1]
 
 
@@ -24,9 +27,6 @@ Maps, atlases and globes are often used metaphorically to represent power (real 
 Maps have a special significance in Singapore. Given the dearth of historical material on Singapore before the arrival of Stamford Raffles in 1819, pre-19th-century maps depicting the island act as important visual records of our early origins. The National Library's latest exhibition, "Land of Gold and Spices: Early Maps of Southeast Asia and Singapore", provides visitors with the unique opportunity to view these rare early maps. This exhibition is part of a larger festival of maps and mapping called "GeolGraphic: Celebrating Maps and Their Stories".
 
 "GeolGraphic", which is a curated combination of exhibitions and programmes, explores the diverse world of maps and showcases the collections of the National Library (NL) and the National Archives of Singapore (NAS), as well as mapping-related artworks by four Singapore artists. [^9]
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg)
-<div style="background-color: white;">This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves. <i>National Library of Singapore Collection.</i></div>
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/19th_century_chart.jpg)
 <div style="background-color: white;">This 19th-century chart with place names written in Bugis script is a rare example of an extant map of the region drawn by an unnamed Southeast Asian cartographer. Some early maps of the region drawn by Europeans are believed to have been based on indigenous maps and sources. In turn, indigenous cartographic traditions were also influenced by European maps of the time. This nautical chart, believed to a pirate's map, shows heavy borrowings from Dutch maps. <i>Courtesy of Univeristy of Utrecht Library.</i></div>
@@ -66,7 +66,7 @@ A special Geographic Information System (GIS) developed with the Urban Redevelop
 <i>seabook</i> was conceived by artist Charles Lim as a site for the agglomeration of archival material, anecdotes and memories that explores Singapore's relationship with the sea. Lim, who is Singapore's 2015 representative to the Venice Biennale, has a close relationship with the sea as he is a former national sailor and represented Singapore in the 1996 Olympics. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Charles_Lim_work.jpg)
-<div style="background-color: white;">Artist Charles Lim’s work, Sea Safe (2014), in progress.</div>
+<div style="background-color: white;">Artist Charles Lim’s work, <i>Sea Safe</i> (2014), in progress.</div>
 
 	
 This particular project is an extension of Lim's previous solo-exhibition, "In Search of Raffles' Light", held in 2013 at the National University of Singapore (NUS) Museum. Both these projects are part of Lim's body of work known as the SEA STATE series, which was first initiated in 2008 and continues with his exploration of Singapore's maritime ecology. Developed together with the librarians at NL, <i>seabook</i> highlights the vast amount of information and data gathered from maps, charts and newspaper clippings, as well as scholarly material grappling with the complex relationship between Singapore and the sea – from colonial times to the present day. The stories encompass the mundane – such as fishing as a livelihood, the everyday lives of island communities, regulations on the use of the sea for leisure and other purposes, as well as sea-related tragedies, including an attack on a girl by a swordfish in 1961. The exhibition, jointly organised by NUS Museum and NL, highlights the troubled relationship Singapore has with its seas and its continued undercurrents in our lives.
@@ -97,7 +97,7 @@ Michael Lee's research interest focuses on urban memory and fiction, emphasising
 #### *Outliers by Jeremy Sharma*
 In the installation work <i>Outliers</i>, by multidisciplinary artist Jeremy Sharma, are four white polystyrene blocks with undulating surfaces that capture in material form the signals of dying stars. When dying stars explode, their remnants (also known as pulsars) emit electromagnetic pulses that can be detected by a radio telescope on earth. These pulses are emitted until the star finally burns out, which could take anything between 10 and 100 million years. 
 	
-With the help of a pulsar scientist, Sharma has been collecting and categorising radiographic data of selected pulsars according to size, distance from earth and age at the time of discovery. This two- dimensional data was then converted into 3-D landscapes of valleys and peaks created by 3-D printing technology. 
+With the help of a pulsar scientist, Sharma has been collecting and categorising radiographic data of selected pulsars according to size, distance from earth and age at the time of discovery. This two-dimensional data was then converted into 3-D landscapes of valleys and peaks created by 3-D printing technology. 
 
 <i>Outliers</i> contemplates the profound space-time distance the signals of dying stars travel in order to communicate their death throes.
 	
@@ -111,6 +111,7 @@ Sherman Ong is a filmmaker, photographer and visual artist whose practice centre
 <img src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
 </div>
 
+<img src="/images/vol-10-issue-4/geo-geographic/tan.jpg" style="width: 200px; height: 120px; margin-bottom:-30px; padding-top:20px;" />
 <p style="font-size:15px;"><b>Tan Huism</b> is Head of Exhibitions and Curation at the National Library of Singapore. She started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</p>
 
 

@@ -4,14 +4,11 @@ date: 2016-10-07
 permalink: /vol-12/issue-3/oct-dec-2016/time-honoured-temple
 layout: post
 ---
-
-
 #### Sri Mariamman Temple is Singapore’s oldest Hindu shrine. **Anasuya Soundararajan** and **Sri Asrina Tanuri** describe the architectural features of this landmark.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/01_temple_design.jpg">(Left) Three of the four vimanam (domes) marking the location of the shrines that house the statues of Hindu deities sometime in the late 19th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i><br>
-(Right) The vimanam, decorated with sculptures of Hindu deities and capped with small pinnacles, have become more ornate and elaborate over the years, with the last major facelift taking place in 2009. <i>Photographed in 2016 by the writers.</i></div>
+<div style="background-color: white;"><br><img style="width:620px" src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg">Sri Mariamman Temple, c.1900. The three-tiered <i>gopuram</i> was a slimmer and sparsely decorated structure  compared to the present five-tiered tower that was rebuilt in 1936. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
-Do not live in a place where there are no temples” cautions an age-old Indian aphorism. In keeping with the sagely advice of his forefathers, one of the first things that Naraina Pillai did after his arrival in Singapore in 1819 was to establish a Hindu temple for his fellow countrymen.
+“Do not live in a place where there are no temples” cautions an age-old Indian aphorism. In keeping with the sagely advice of his forefathers, one of the first things that Naraina Pillai did after his arrival in Singapore in 1819 was to establish a Hindu temple for his fellow countrymen.
 
 In 1827, four years after the land was acquired, Sri Mariamman Temple, Singapore’s oldest Hindu place of worship, finally stood proud along South Bridge Road. The nondescript wood-and-*attap* construction erected then was a simple affair compared to the splendidly intricate and colourful structure that attracts Hindu worshippers as well as busloads of tourists today.
 
@@ -20,8 +17,6 @@ Located in the heart of Chinatown, the temple’s elaborate *gopuram*[^1]  has b
 #### **Singapore's First Hindu Temple**
 
 The history of the Sri Mariamman Temple is closely intertwined with the arrival of the first Indians to Singapore, soon after Stamford Raffles established a British trading post on the island in February 1819.[^4] South Indian migrants to Singapore, feeling displaced in a new land, brought with them the cultural and religious practices of the subcontinent, including the worship of Mariamman, the goddess of rain. In Hindu spirituality, the “mother” deity is known for her power to protect people from harm and to cure epidemic illnesses and diseases.[^5]
-
-<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg">Sri Mariamman Temple, c.1900. The three-tiered gopuram was a slimmer and sparsely decorated structure  compared to the present five-tiered tower that was rebuilt in 1936. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 It is not known which part of India Naraina Pillai originated from; he arrived in Singapore with Raffles on the latter’s second visit to the newly colonised island in June 1819, and is the first recorded Indian immigrant in Singapore.[^6] Prior to this, Pillai worked as a government clerk with the British East India Company in Penang. Good fortune favoured Pillai, and before long, he became a successful entrepreneur and community leader, and set up the island’s first brick kiln at Mount Erskine (present-day Tanjong Pagar). He also persuaded several Indian bricklayers, carpenters and artisans from Penang and South India to join him in Singapore. Recognising his growing influence in the Indian community, the British appointed Pillai as leader of the Indian community in December 1822.[^7]
 
@@ -39,7 +34,7 @@ The temple was last re-consecrated in April 2010, in accordance with the Hindu c
 
 #### **A Place for the Community**
 
-<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/time-honoured-temple-design/03_temple_design.jpg">The original three-tiered gopuram (tower) was rebuilt in 1936 into its present five tiers. This is a 1970 postcard view of the <i>gopuram</i>. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/time-honoured-temple-design/03_temple_design.jpg">The original three-tiered <i>gopuram</i> (tower) was rebuilt in 1936 into its present five tiers. This is a 1970 postcard view of the <i>gopuram</i>. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 A Hindu temple is both a sacred and secular space. It serves as a place of worship as well as a venue of congregation for social and cultural functions such as celebrations of festivals and marriages.
 
@@ -55,7 +50,7 @@ Statues of deities are placed in shrines within the temples. The temples typical
 
 #### **The Gopuram**
 
-The gopuram refers to the pyramidal-shaped tower at the temple entrance and is an important feature in South Indian temples. Its great height serves a purpose, acting as a beacon for devotees from afar and allowing them to pray or meditate in  preparation for their entrance into the temple.[^24] The five-tiered *gopuram* of the Sri Mariamman Temple is perhaps its most striking feature and is a much-photographed icon on South Bridge Road.[^25]
+The *gopuram* refers to the pyramidal-shaped tower at the temple entrance and is an important feature in South Indian temples. Its great height serves a purpose, acting as a beacon for devotees from afar and allowing them to pray or meditate in  preparation for their entrance into the temple.[^24] The five-tiered *gopuram* of the Sri Mariamman Temple is perhaps its most striking feature and is a much-photographed icon on South Bridge Road.[^25]
 
 <div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/time-honoured-temple-design/04_temple_design.jpg">The five-tiered <i>gopuram</i> (tower) as it looks today after the temple underwent a major restoration in 2009. <i>Photographed in 2016 by the writers.</i></div>
 
@@ -63,7 +58,7 @@ The five-metre-high *gopuram*, which faces east, is adorned with sculptures repr
 
 In 1936, the three-tiered *gopuram* was raised into its present five-tiers. In the 1960s, the *gopuram* was restored and decorated with the elaborate sculptures and carvings that you see today.[^29] Photographs of the original three-tiered *gopuram* show a slimmer and more sparsely decorated structure compared to the present broader and more ornate tower. The sides of the old *gopuram* also appear to be steeper than the new one.[^30] Beneath the *gopuram* is a pair of heavy, double-leafed timber main doors that open into the main hall of the temple.[^31]
 
-Craftsmen from South India drew their inspiration not only from Indian tradition, but also from the military traditions of colonial India. Hence, they incorporated Indian sepoys(soldiers recruited by the British in India), dressed in khaki uniforms and armed with rifles, into the collection of the sculptures carved into the gopuram as well as on the walls of the temple. In 1971, however, the sepoy statues on the *gopuram* were removed during renovation works and replaced with figures clad in Indian traditional costumes.[^32]
+Craftsmen from South India drew their inspiration not only from Indian tradition, but also from the military traditions of colonial India. Hence, they incorporated Indian sepoys (soldiers recruited by the British in India), dressed in khaki uniforms and armed with rifles, into the collection of the sculptures carved into the gopuram as well as on the walls of the temple. In 1971, however, the sepoy statues on the *gopuram* were removed during renovation works and replaced with figures clad in Indian traditional costumes.[^32]
 
 #### **The Mandapam**
 
@@ -78,6 +73,9 @@ The original attap walkway that connected the main entrance to the principal shr
 A decorated dome known as a *vimanam* signifies the presence of a shrine or altar beneath it.[^41] There are four such *vimanam*, and these are all located in the west elevation of the temple.
 
 Each *vimanam* is an onion-shaped structure, decorated with colourful painted sculptures and capped with small pinnacles.[^42] Below the main *vimanam* is the shrine of Sri Mariamman, the presiding deity of the temple. The other three *vimanam* are located above the shrines for Lord Rama, Lord Subramanya[^43] and Goddess Drowpathai Amman[^44].
+
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/time-honoured-temple-design/01_temple_design.jpg">(Left) Three of the four <i>vimanam</i> (domes) marking the location of the shrines that house the statues of Hindu deities sometime in the late 19th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i><br>
+(Right) The <i>vimanam</i>, decorated with sculptures of Hindu deities and capped with small pinnacles, have become more ornate and elaborate over the years, with the last major facelift taking place in 2009. <i>Photographed in 2016 by the writers.</i></div>
 
 #### **Shrines**
 
@@ -134,7 +132,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^1]:A *gopuram* is the pyramidal tower erected over the entrance of South Indian Hindu temples.
 [^2]:Liu, G. (1996). *[In granite and chunam: The national monuments of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754)* (p. 114). Singapore: Landmark Books. Call no.: RSING 725.94095957 LIU
 [^3]:Netto, G. (1961). *[Indians in Malaya: Historical facts and figures](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4078361)* (p. 17). Singapore: George Netto. Call no.: RCLOS 331.62540595 NET
-[^4]:Soundararajan, N. S. (1971). The history of the Sri Mariamman Temple. In *[Ciṅkappūr Srī Māriyamman̲ Kōvil Makā Kumpāpiṣēka malar = Sri Mariamman Temple Maha Kumbabishegam Souvenir](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12915154)* (p. 65). Singapore: Sri Mariamman Devasthanam. Call no.:Tamil RCLOS 294.535095957 SIN
+[^4]:Soundararajan, N. S. (1971). The history of the Sri Mariamman Temple. In *[Ciṅkappūr Srī Māriyamman̲ Kōvil Makā Kumpāpiṣēka malar = Sri Mariamman Temple Maha Kumbabishegam Souvenir](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12915154)* (p. 65). Singapore: Sri Mariamman Devasthanam. Call no.: Tamil RCLOS 294.535095957 SIN
 [^5]:Hindu Endowments Board. (2014). *Sri Mariamman Temple*. Retrieved from Hindu Endowments Board website.
 [^6]:Uma Devi, G. (2009). *[Resonance: Songs of our forefathers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488)* (p. 49). Singapore: Preservation of Monuments Board. Call no.: RSING 725.94095957 RES
 [^7]:Sanmugam, E., et al. (Eds.). (2009). *[Sacred sanctuary: The Sri Mariamman Temple](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233)* (p. 10). Singapore: Sri Mariamman Temple. Call no.: RSING 294.535095957 SAC
@@ -143,7 +141,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^10]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 72; *[The New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710911-1.2.47.1.aspx)*, 11 Sep 1971.
 [^11]:The term “kling” or “keling”, first mentioned in the *Sejarah Melayu or Malay Annals* written between the 15th and 16th centuries, was used in colonial Malaya to describe people from the Indian subcontinent. Over time, the term has taken on derogatory connotations and is today regarded by Indians as offensive.
 [^12]:[Uma Devi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488), 2009, p. 49.
-[^13]:Singapore was once a penal colony, and the first shipment of Indian prisoners to Singapore took place in 1825. See Tan, B. (2015, Oct–Dec). Convict labour in colonial Singapore. *BiblioAsia*, 11(3), 36–41.
+[^13]:Singapore was once a penal colony, and the first shipment of Indian prisoners to Singapore took place in 1825. See Tan, B. (2015, Oct–Dec). [Convict labour in colonial Singapore](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/convict). *BiblioAsia, 11*(3), 36–41.
 [^14]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 114; [Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
 [^15]:Liu, G. (1984). *[Pastel portraits: Singapore’s architectural heritage](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082440)* (p. 126). Singapore: Singapore Coordinating Committee. Call no.: RSING 722.4095957 PAS 
 [^16]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 13.
@@ -168,8 +166,8 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^35]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
 [^36]:Lord Ganesha is the elephant-headed god who symbolises wisdom and prosperity, and is believed to be the remover of all obstacles. He is a major god in the Hindu pantheon and is worshipped at the beginning of all undertakings.
 [^37]:Goddess Saraswathi is the goddess of knowledge,music and the arts.
-[^38]:Yen, F. (2010, April 6). Sri Mariamman Temple unveils its new look. *The Straits Times*. Retrieved from Factiva.
-[^39]:Tay, S. C. (2010, April 10). Brighter and better. *The Straits Times*. Retrieved from Factiva.
+[^38]:Yen, F. (2010, April 6). Sri Mariamman Temple unveils its new look. *The Straits Times*. Retrieved from Factiva via NLB’e [eResources](https://eresources.nlb.gov.sg/main) website.
+[^39]:Tay, S. C. (2010, April 10). Brighter and better. *The Straits Times*. Retrieved from Factiva via NLB’e [eResources](https://eresources.nlb.gov.sg/main) website.
 [^40]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 14.
 [^41]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 76.
 [^42]:[Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754), 1996, p. 115.
