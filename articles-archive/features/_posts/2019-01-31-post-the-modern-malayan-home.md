@@ -72,7 +72,7 @@ As demand for radio sets increased and prices became more affordable, dealers be
 src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan6.JPG">
 <div style="background-color: white;">(Left) Transistor radios, such as the one featured in this Philips ad in 1966, made their debut in Singapore in the mid-1950s and became highly popular in the following decades after portable battery-powered versions were introduced. <i>Image reproduced from The Straits Times Annual, 1966, p. 12.</i><br> (Right) A 1966 Mitsubishi ad for a “micro TV”. <i>Image reproduced from Her World, January 1966, p. 9.</i></div>
 
-#### **Turn on the telly**
+|**Turn on the Telly**
 
 The first television station in Singapore, Television Singapura, aired the first broadcast on 15 February 1963, which ran for five hours. It featured the national anthem, an address by then Minister for Culture S. Rajaratnam, followed by a documentary programme on Singapore, cartoon clips, a newsreel, a comedy programme and a variety show.
 
