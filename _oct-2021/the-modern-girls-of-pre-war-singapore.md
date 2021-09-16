@@ -193,9 +193,9 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^29]: Karen M. Teoh, [*Schooling Diaspora: Women, Education, and the Overseas Chinese in British Malaya and Singapore, 1850s–1960s*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204470682), (New York: Oxford University Press, 2020), 7–8. (From National Library, Singapore, Call no. RSING 370.8209595 TEO)
 
-[^30]: “Evelyn”, “The Modern Girl.”
+[^30]: “Evelyn”, “[The Modern Girl.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310321-1.2.14)”
 
-[^31]: Lewis, Cities in Motion, 229. 
+[^31]: Lewis, [*Cities in Motion*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202759108), 229. 
 
 [^32]: “Conservatism Must Give Way to Modern Ideals and Ideas,” Straits Times, 9 October 1938, 12. (From NewspaperSG)
 
