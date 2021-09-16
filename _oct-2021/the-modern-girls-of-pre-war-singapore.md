@@ -223,14 +223,14 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^44]: Lewis, “Cosmopolitanism and the Modern Girl”, 1387. 
 
-[^45]: “Audi Alterem Partem”, “Unmarriageable” Chinese Girls,” Malaya Tribune, 20 November 1931, 5. (From NewspaperSG)
+[^45]: “Audi Alterem Partem”, “[Unmarriageable” Chinese Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19311120-1.2.13),” *Malaya Tribune*, 20 November 1931, 5. (From NewspaperSG)
 
-[^46]: Goh Tong Liang, “Unmarriageable Girls,” Malaya Tribune, 20 December 1931, 3. (From NewspaperSG)
+[^46]: Goh Tong Liang, “[Unmarriageable Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19311230-1.2.16),” *Malaya Tribune*, 20 December 1931, 3. (From NewspaperSG)
 
-[^47]: “Srikrishnan”, “Unmarriageable Girls,” Malaya Tribune, 7 December 1931, 3. (From NewspaperSG)
+[^47]: “Srikrishnan”, “[Unmarriageable Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19311207-1.2.15),” *Malaya Tribune*, 7 December 1931, 3. (From NewspaperSG)
 
-[^48]: June Lee, “Chinese Girls Now Choose Their Husbands,” Straits Times, 20 July 1939, 1. (From NewspaperSG)
+[^48]: June Lee, “[Chinese Girls Now Choose Their Husbands](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390720-1.2.165.2),” *Straits Times*, 20 July 1939, 1. (From NewspaperSG)
 
-[^49]: “Fascination of Careers for Malayan Chinese Girls.”
+[^49]: “[Fascination of Careers for Malayan Chinese Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390202-1.2.164.2).”
 
-[^50]: Lee, In the Mood for Cheongsam, 123–24.
+[^50]: Lee, [*In the Mood for Cheongsam*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14331327), 123–24.
