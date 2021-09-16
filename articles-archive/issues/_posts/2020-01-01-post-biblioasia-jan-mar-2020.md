@@ -15,11 +15,11 @@ In this issue, we look back at the glory days of Rediffusion, explore *bangsawan
 
 **[The Theatres of Bangsawan](https://nlb-ba-staging.netlify.app/vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/)**<br>In the days before cinema, *bangsawan* performances entertained the masses. *Tan Chui Hua* looks at the rise and fall of *bangsawan* venues in Singapore.[(PDF)](/files/pdf/vol-15/v15-issue4_Theatres_Bangsawan.pdf)
 
-**When Women Were Commodities** <br>Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. *Adeline Foo* examines the lives of the unfortunate girls and women who were sold into prostitution.[(PDF)](/files/pdf/vol-15/v15-issue4_When_Women.pdf)
+**[When Women Were Commodities](https://nlb-ba-staging.netlify.app/vol-15/issue-4/jan-mar-2020/women-w-commodities/)** <br>Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. *Adeline Foo* examines the lives of the unfortunate girls and women who were sold into prostitution.[(PDF)](/files/pdf/vol-15/v15-issue4_When_Women.pdf)
 
-**Snakes, Tigers and Cannibals: Ida Pfeiffer’s Travels in Southeast Asia** <br>Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. *John van Wyhe* recounts the adventures of this remarkable woman. [(PDF)](/files/pdf/vol-15/v15-issue4_Snakes_Tigers_Cannibals.pdf)
+**[Snakes, Tigers and Cannibals: Ida Pfeiffer’s Travels in Southeast Asia](https://nlb-ba-staging.netlify.app/vol-15/issue-4/jan-mar-2020/s-t-c-sea/)** <br>Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. *John van Wyhe* recounts the adventures of this remarkable woman. [(PDF)](/files/pdf/vol-15/v15-issue4_Snakes_Tigers_Cannibals.pdf)
 
-**The Vietnam War Through Singaporean Eyes** <br>Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived. *Shirlene Noordin* has the story. [(PDF)](/files/pdf/vol-15/v15-issue4_Vietnam_War.pdf)
+**[The Vietnam War Through Singaporean Eyes](https://nlb-ba-staging.netlify.app/vol-15/issue-4/jan-mar-2020/viet-war-through-sg/)** <br>Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived. *Shirlene Noordin* has the story. [(PDF)](/files/pdf/vol-15/v15-issue4_Vietnam_War.pdf)
 
 **Trial by Firing Squad** <br>In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion. *Umej Bhatia* recreates the final moments of the mutineers as they pay the ultimate price for their actions. [(PDF)](/files/pdf/vol-15/v15-issue4_Firing_Squad.pdf)
 
