@@ -147,7 +147,7 @@ All went well until after we had passed Mantin and were well up the pass to Setu
 #### **Seremban and on to Singapore**
 
 <img style="width: 550px; height: 350px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare10.JPG">
-<div style="background-color: white;">The Public Gardens in Kuala Lumpur that Mrs Dare visited. The lake can be seen on the right. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 218). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350))</i></div>
+<div style="background-color: white;">A resthouse in Seremban, one of Mrs Dare’s final stops. <i>Image reproduced from Harrison, C.W. (Ed.). (1985). An Illustrated Guide to the Federated Malay States: 1923 (facing p. 121). Singapore: Oxford University Press. (Call no.: RSING 959.5 ILL).</i></div>
 
 Seremban, the capital of Negri Sembilan, is a good-sized town prettily situated on hilly ground and backed by ranges of fine mountains. A great deal of tin is brought in here for export by rail to Port Dickson on the coast, and thence by steamer to Singapore. There are boxes, vases, trays, frames, and all sorts of quaint Chinese things manufactured in solid tin and fancifully engraved. It is as bright as silver and only requires polishing with a hard brush to keep bright.
 
