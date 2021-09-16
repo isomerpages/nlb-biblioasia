@@ -48,7 +48,7 @@ Home goods were often touted as essential to the “modern home”. The “ideal
 
 <img style="width: 550px; height: 320px;"
 src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan4.JPG">
-<div style="background-color: white;">(Left) A 1952 ad by Osram depicting the warm and cosy home atmosphere that its lamps promised to create. <i>Image reproduced from The Straits Times Annual, 1952, p. 8.</i> (Right) Ads such as this one for Morphy-Richards appliances in 1953 were mostly found in newspapers and magazines read by the more well-to-do. The “modern” way of life was cast as an aspirational ideal. <i>Image reproduced from The Straits Times Annual, 1953, p. 14.</i></div>
+<div style="background-color: white;">(Left) A 1952 ad by Osram depicting the warm and cosy home atmosphere that its lamps promised to create. <i>Image reproduced from The Straits Times Annual, 1952, p. 8.</i><br> (Right) Ads such as this one for Morphy-Richards appliances in 1953 were mostly found in newspapers and magazines read by the more well-to-do. The “modern” way of life was cast as an aspirational ideal. <i>Image reproduced from The Straits Times Annual, 1953, p. 14.</i></div>
 
 #### **Home Entertainment**
 
