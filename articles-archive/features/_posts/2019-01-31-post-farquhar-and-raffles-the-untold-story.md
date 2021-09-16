@@ -80,7 +80,7 @@ While the politicians argued, Farquhar got down to work. Few of Raffles’ suppo
 
 The wealthy businessman Tan Che Sang, who had formed a close rapport with Farquhar in Malacca, followed him to Singapore, bringing capital for investment and trade as well as leadership expertise. Entrepreneurs such as Tan Tock Seng and Tan Kim Seng who similarly moved from Malacca, played vital roles in cementing Singapore’s position as a commercial centre.
 
-Raffles made a short visit to Singapore in late May 1819. Delighted at its metamorphosis, he commented on the numerous ships in the harbour and the large *kampongs* (villages). Proudly he claimed to the Duchess of Somerset:
+Raffles made a short visit to Singapore in late May 1819. Delighted at its metamorphosis, he commented on the numerous ships in the harbour and the large kampongs (villages). Proudly he claimed to the Duchess of Somerset:
 
 “[Singapore] is a child of my own, and I have made it what it is. You may easily conceive with what zeal I apply myself to the clearing of forests, cutting of roads, building of towns, framing of laws, &c &c”.[^13]
 
