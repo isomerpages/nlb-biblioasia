@@ -121,7 +121,7 @@ On his own initiative and risking censure from Raffles and Hastings, Farquhar gr
 
 While Farquhar was expediently developing Singapore, Raffles remained in Bencoolen and took only periodic interest in the settlement. He was most tardy in replying to Farquhar’s letters, even urgent ones, and seemed to hinder rather than support the work Farquhar was doing. Returning in October 1822 after three-and-a-half years’ absence, Raffles was elated with the rapid progress of Singapore, telling the Duchess of Somerset that:
 
-“Here is all life and activity; and it would be difficult to name a place on the face of the globe, with brighter prospects or more present satisfaction. In little more than three years it has risen from an insignificant fishing village, to a large and prosperous town”.[^37]
+“Here is all life and activity; and it would be difficult to name a place on the face of the globe, with brighter prospects or more present satisfaction. In little more than three years it has risen from an insignificant fishing village, to a large and prosperous town."[^37]
 
 All this Raffles attributed to the “simple, but almost magic result” of freedom of trade – with no mention of Farquhar’s instrumental role.[^38]
 
