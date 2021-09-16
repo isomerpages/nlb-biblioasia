@@ -193,25 +193,46 @@ R 307.7609590904 LEW)
 [^28]: Juliet Loh, “The Modern Girl,” Malaya Tribune, 24 September 1938, 16. (From NewspaperSG)
 
 [^29]: Karen M. Teoh, Schooling Diaspora: Women, Education, and the Overseas Chinese in British Malaya and Singapore, 1850s–1960s, (New York: Oxford University Press, 2020), 7–8. (From National Library, Singapore, Call no. RSING 370.8209595 TEO)
-“Evelyn”, “The Modern Girl.”
-Lewis, Cities in Motion, 229. 
-“Conservatism Must Give Way to Modern Ideals and Ideas,” Straits Times, 9 October 1938, 12. (From NewspaperSG)
-“Adelina”, “The Ways of Girls,” Malaya Tribune, 28 March 1931, 3. (From NewspaperSG)
-“Fascination of Careers for Malayan Chinese Girls,” Straits Times, 2 February 1939, 1. (From NewspaperSG)
-“Spore’s First Girl Lift Attendant,” Morning Tribune, 1 May 1936, 11. (From NewspaperSG)
-“Around Malaya,” Morning Tribune, 6 May 1936, 10. (From NewspaperSG)
-Zola, “What Readers Are Saying: Girls & Unemployed Youths,” Malaya Tribune, 13 April 1938, 18. (From NewspaperSG)
-G.S. Teo, “The Weaker Sex,” Malaya Tribune, 27 April 1938, 20. (From NewspaperSG)
-C.T.C., “Girls in Offices,” Malaya Tribune, 4 May 1938, 20. (From NewspaperSG)
-Educated Female, ‘“Zola” Did Start Something,” Malaya Tribune, 20 April 1938, 20. (From NewspaperSG)
-Sunny Girl, “Another Girl’s Views,” Malaya Tribune, 20 April 1938, 20. (From NewspaperSG)
-“She Shocked Father by Bobbing Her Hair,” Sunday Tribune (Singapore), 3 April 1949, 4. (From NewspaperSG)
-Lim, Rose on my Pillow, 20–24.
-Lewis, “Cosmopolitanism and the Modern Girl”, 1387. 
-“Audi Alterem Partem”, “Unmarriageable” Chinese Girls,” Malaya Tribune, 20 November 1931, 5. (From NewspaperSG)
-Goh Tong Liang, “Unmarriageable Girls,” Malaya Tribune, 20 December 1931, 3. (From NewspaperSG)
-“Srikrishnan”, “Unmarriageable Girls,” Malaya Tribune, 
+
+[^30]: “Evelyn”, “The Modern Girl.”
+
+[^31]: Lewis, Cities in Motion, 229. 
+
+[^32]: “Conservatism Must Give Way to Modern Ideals and Ideas,” Straits Times, 9 October 1938, 12. (From NewspaperSG)
+
+[^33]: “Adelina”, “The Ways of Girls,” Malaya Tribune, 28 March 1931, 3. (From NewspaperSG)
+
+[^34]: “Fascination of Careers for Malayan Chinese Girls,” Straits Times, 2 February 1939, 1. (From NewspaperSG)
+
+[^35]: “Spore’s First Girl Lift Attendant,” Morning Tribune, 1 May 1936, 11. (From NewspaperSG)
+
+[^36]: “Around Malaya,” Morning Tribune, 6 May 1936, 10. (From NewspaperSG)
+
+[^37]: Zola, “What Readers Are Saying: Girls & Unemployed Youths,” Malaya Tribune, 13 April 1938, 18. (From NewspaperSG)
+
+[^38]: G.S. Teo, “The Weaker Sex,” Malaya Tribune, 27 April 1938, 20. (From NewspaperSG)
+
+[^39]: C.T.C., “Girls in Offices,” Malaya Tribune, 4 May 1938, 20. (From NewspaperSG)
+
+[^40]: Educated Female, ‘“Zola” Did Start Something,” Malaya Tribune, 20 April 1938, 20. (From NewspaperSG)
+
+[^41]: Sunny Girl, “Another Girl’s Views,” Malaya Tribune, 20 April 1938, 20. (From NewspaperSG)
+
+[^42]: “She Shocked Father by Bobbing Her Hair,” Sunday Tribune (Singapore), 3 April 1949, 4. (From NewspaperSG)
+
+[^43]: Lim, Rose on my Pillow, 20–24.
+
+[^44]: Lewis, “Cosmopolitanism and the Modern Girl”, 1387. 
+
+[^45]: “Audi Alterem Partem”, “Unmarriageable” Chinese Girls,” Malaya Tribune, 20 November 1931, 5. (From NewspaperSG)
+
+[^46]: Goh Tong Liang, “Unmarriageable Girls,” Malaya Tribune, 20 December 1931, 3. (From NewspaperSG)
+
+[^47]: “Srikrishnan”, “Unmarriageable Girls,” Malaya Tribune, 
 7 December 1931, 3. (From NewspaperSG)
-June Lee, “Chinese Girls Now Choose Their Husbands,” Straits Times, 20 July 1939, 1. (From NewspaperSG)
-“Fascination of Careers for Malayan Chinese Girls.”
-Lee, In the Mood for Cheongsam, 123–24.
+
+[^48]: June Lee, “Chinese Girls Now Choose Their Husbands,” Straits Times, 20 July 1939, 1. (From NewspaperSG)
+
+[^49]: “Fascination of Careers for Malayan Chinese Girls.”
+
+[^50]: Lee, In the Mood for Cheongsam, 123–24.
