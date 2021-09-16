@@ -66,9 +66,9 @@ From “The Box” at 4,200 ft, the views are immense. Below, Taiping looks like
 
 Inland, one looks into the heart of the Malay Peninsula. Range upon range of mountains from 4,000 to 9,000 feet, nearly all untouched and unscaled by man – primeval jungle – the happy hunting ground of tigers, elephants, deer, wild pig, bears, monkeys and what not!
 
-<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare5.JPG">
-<div style="background-color: white;">(Left) In Taiping, Mrs Dare and Miss Hardman travelled on elephants like these to the cool shady riverside for a delicious tiffin of Malay curries. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 70). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350)</i>
-(Right) Menggelunchor involves sitting on thick pieces of plantain fibre called upih and tobogganing down the smooth rock in the river into the pool below. Mrs Dare was treated to such a scene in Taiping.</div>
+<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/image.JPG">
+<div style="background-color: white;">(Left) In Taiping, Mrs Dare and Miss Hardman travelled on elephants like these to the cool shady riverside for a delicious tiffin of Malay curries. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 70). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350)</i><br>
+	(Right) <i>Menggelunchor</i> involves sitting on thick pieces of plantain fibre called <i>upih</i> and tobogganing down the smooth rock in the river into the pool below. Mrs Dare was treated to such a scene in Taiping.</div>
 
 We returned to Taiping and motored out to the 18th milestone on the Kuala Kangsar road where, at the Penghulu’s, we were provided with an elephant, on which we rode for two miles. On arrival at the cool shady riverside, we found a shed erected and a delicious tiffin of Malay curries for our benefit. It was great fun watching the Malays and the men of our party seated on thick pieces of plantain fibre called *upih* and tobogganing down some 60 feet of smooth rock in the river into the cool inviting pool below – an activity called *menggelunchor*.
 
