@@ -77,7 +77,7 @@ Achi Atha passed on two years after that great repast, followed by my mother six
 
 The lessons in the kitchen taught us to be prudent, resourceful, hardworking and frugal, and yet to always seek a richness in our lives through well-prepared dishes made from the freshest, and not necessarily, the most expensive of ingredients.
 
-|This article was first published in <i>The Sunday Times</i> on 5 August 2018. © Singapore Press Holdings Limited. Reprinted with permission.
+*This article was first published in <i>The Sunday Times</i> on 5 August 2018. © Singapore Press Holdings Limited. Reprinted with permission.*
 
 <br>
 <div style="background-color: white;">
