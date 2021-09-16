@@ -163,11 +163,11 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^14]: Chua, “Singapore’s ‘Cinema-Age’ of the 1930s,” 595. 
 
-[^15]: Saw  Swee-Hock, “Population Trends in Singapore, 1819–1967,” Journal of Southeast Asian History 10, no. 1, Singapore Commemorative Issue 1819–1969 (March 1969): 43–44. (From JSTOR via NLB’s eResources website).
+[^15]: Saw  Swee-Hock, “Population Trends in Singapore, 1819–1967,” *Journal of Southeast Asian History* 10, no. 1, Singapore Commemorative Issue 1819–1969 (March 1969): 43–44. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website).
 
-[^16]: Kung Yuseng, “Woman’s Corner. Revolt of the Modern Girl,” Malaya Tribune, 22 August 1931, 4. (From NewspaperSG)
+[^16]: Kung Yuseng, “[Woman’s Corner. Revolt of the Modern Girl,](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310822-1.2.14)” *Malaya Tribune*, 22 August 1931, 4. (From NewspaperSG)
 
-[^17]: Betty Lim, A Rose on my Pillow: Recollections of a Nyonya (Singapore: Armour Publishing, 1994), 17–18. (From National Library, Singapore, Call no. RSING 920.72 LIM)
+[^17]: Betty Lim, *[A Rose on my Pillow: Recollections of a Nyonya](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6652582)* (Singapore: Armour Publishing, 1994), 17–18. (From National Library, Singapore, Call no. RSING 920.72 LIM)
 
 [^18]: Peter Lee, Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950 (Singapore: Asian Civilisations Museum, 2014), 253, 260. (From National Library, Singapore, Call no. RSING 391.20899510595 LEE-[CUS]) 
 
