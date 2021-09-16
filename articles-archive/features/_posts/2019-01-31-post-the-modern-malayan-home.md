@@ -58,7 +58,7 @@ One of the most exciting introductions to households in the mid-20th century was
 src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan5.JPG">
 <div style="background-color: white;">This 1940 General Electric advertisement emphasises the suitability of its radios for the tropics through its depiction of a “Malayan” scene. People initially feared that radios made in the West could not withstand Singapore’s hot and humid weather. The illustration was executed by Warin Advertising Studios in its signature painterly style. <i>Image reproduced from The Straits Times Annual, 1940, p. 98.</i></div>
 
-#### **On The Radio**
+|**On The Radio**
 
 Radio broadcasting in Singapore began as a niche interest in 1924, with the Amateur Wireless Society of Malaysia (AWSM) effectively the preserve of the wealthy wireless enthusiast.[^8] This was soon followed by the establishment of Radio Service Company of Malaya in 1933, which set up Radio ZHI and British Malaya Broadcasting Corporation in 1935.[^9] By the 1930s, radios in Singapore could receive shortwave broadcasts from around the world, such as the Empire Service of the British Broadcasting Corporation (now the BBC World Service).[^10]
 
