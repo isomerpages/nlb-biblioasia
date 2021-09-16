@@ -29,7 +29,7 @@ When we two ladies contemplated making a motor tour through the Malay Peninsula,
 Our car was a quite new Adams-Hewitt, constructed with especially large 34-inch wheels to ensure a good ground clearance. The wheels were fitted with Moseley “Perfect” tyres and detachable rims. We carried our baggage with us, and were provided with all necessary spares as well as one outer cover and two inner tubes in a waterproof case. These were never used; although we crossed many patches of unrolled granite and sharp marble road metal, we never suffered from a single puncture and rarely had to pump up the tyres. Our car was named “Ichiban” (Japanese for “Number One”), as it bears the registered number S-1.
 
 <img style="width: 400px; height: 500px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/Map.JPG">
-<div style="background-color: white;">A map of the Malay Peninsula created in 1906. It includes the places that Mrs Dare and Miss Hardman visited during their road trip in 1907. <i>Image reproduced from Swettenham, F.A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya. London, New York: John Lane the Bodley Head. (Accession nos.: B29031891K, B29267224A; Microfilm nos.: NL19101, NL3279)</i></div>
+<div style="background-color: white;">A map of the Malay Peninsula created in 1906. It includes the places that Mrs Dare and Miss Hardman visited during their road trip in 1907. <i>Image reproduced from Swettenham, F.A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya. London, New York: John Lane the Bodley Head. (Accession nos.: B29031891K, B29267224A; Microfilm nos.: NL19101, NL3279).</i></div>
 
 #### **Starting from Penang**
 
@@ -58,7 +58,7 @@ From this point, the road began to ascend, and we crossed the Semangol Pass, whi
 Taiping is prettily situated on a flat plain, backed by the Larut Hills (3,600 to 7,000 ft). There is a picturesque lake in the Public Gardens, a good racecourse, rifle range and cricket ground, and two excellent clubs. The well-stocked museum contains the best collection of old Malay krisses and knives in the Federated Malay States.
 
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare3.JPG">
-<div style="background-color: white;">The Larut plain and estuary as seen from the Larut Hills. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 55). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350)</i></div>
+<div style="background-color: white;">The Larut plain and estuary as seen from the Larut Hills. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 55). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350).</i></div>
 
 There are also several bungalows on the Larut Hills belonging to the government as well as private individuals. English flowers and vegetables thrive up there and the temperature is cool enough to make a nice fire at night. The Resident of Perak E.W. Birch kindly placed the bungalow named “The Box” at our disposal and we spent a day and night up there, revelling in a perfect wilderness of lovely roses, heliotrope, lilies, geraniums, azaleas and all sorts of English flowers, in addition to varieties of tropical blooms.
 
