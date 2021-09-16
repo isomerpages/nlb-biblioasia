@@ -34,7 +34,7 @@ As a result, home gas and electricity became commonly advertised in newspapers, 
 
 <img style="width: 300px; height: 400px;"
 src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan3.JPG">
-<div style="background-color: white;">By the 1920s, some households in Singapore had begun to use gas as a primary fuel source for cooking and for heating water. Ads for gas, such as this one by the City Gas Department in 1953, were placed in cookbooks, among other publications, specifically targetting homemakers. <i>Image reproduced from Allix, P. (1953). Menus for Malaya (p. 80). Singapore, Malaya Publishing House. (Call no.: RCLOS 642.1 ALL)</i></div>
+<div style="background-color: white;">By the 1920s, some households in Singapore had begun to use gas as a primary fuel source for cooking and for heating water. Ads for gas, such as this one by the City Gas Department in 1953, were placed in cookbooks, among other publications, specifically targetting homemakers. <i>Image reproduced from Allix, P. (1953). Menus for Malaya (p. 80). Singapore, Malaya Publishing House. (Call no.: RCLOS 642.1 ALL).</i></div>
 
 #### **Modern Home Gadgets and Appliances**
 
