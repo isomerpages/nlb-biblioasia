@@ -32,7 +32,7 @@ As international companies began customising their advertisements to appeal to d
 
 #### **The Modern Girl in Singapore**
 
-The print media – such as pictorial magazines, journals and newspapers – also began selling a modern lifestyle and culture. In cities like Shanghai, pictorial magazines such as《良友》(<i>Liangyou; The Young Companion</i>), featured the latest in fashion, makeup and celebrities.[^11] Available in Singapore, Liangyou would have presented a different way for women to see themselves and shape their lives.[^12]
+The print media – such as pictorial magazines, journals and newspapers – also began selling a modern lifestyle and culture. In cities like Shanghai, pictorial magazines such as《良友》(<i>Liangyou; The Young Companion</i>), featured the latest in fashion, makeup and celebrities.[^11] Available in Singapore, <i>Liangyou</i> would have presented a different way for women to see themselves and shape their lives.[^12]
 
 According to historian Chua Ai Lin, Hollywood played a key role in influencing social change among Singapore’s youth and the city’s modern identity. Singapore’s young women looked to Hollywood not only for fashion and beauty tips and trends, but also for contemporary views on love, sex and romance. Chua suggests, however, that cultural products such as film appeared to effect greater change in women due to the parallel evolution of women’s social roles.[^13]
 
@@ -49,7 +49,7 @@ Women’s roles in society were also evolving due to changing attitudes towards 
 Fashioning Singapore’s Modern Girl
 Singapore’s Modern Girl challenged existing gender norms through her expressions of femininity, most visibly through fashion and style. From the 1920s, she adopted Western-style clothing (with short hemlines and high heels), wore makeup and sported a bob haircut.[^16]
 
-One such young woman was Betty Lim, who later wrote A Rose on My Pillow: Recollections of a Nyonya. Before the popularity of the Modern Girl look, her long hair was usually styled in a traditional Straits Chinese sanggul (plaited hair that was coiled up) for formal events. In the late 1920s, Lim cut her hair in the style of American actress Colleen Moore – a straight bob with a fringe – and showed off her new “radical” look at a party she attended with her sibling.[^17]
+One such young woman was Betty Lim, who later wrote <i>A Rose on My Pillow: Recollections of a Nyonya</i>. Before the popularity of the Modern Girl look, her long hair was usually styled in a traditional Straits Chinese sanggul (plaited hair that was coiled up) for formal events. In the late 1920s, Lim cut her hair in the style of American actress Colleen Moore – a straight bob with a fringe – and showed off her new “radical” look at a party she attended with her sibling.[^17]
 
 ![Alt text for image on Isomer site]()
 <div style="background-color: white;">Colleen Moore, a popular American actress who starred in multiple films in the 1920s and 30s, popularised the Modern Girl’s quintessential short bob. <i>Image reproduced from Malayan Saturday Post, 5 May 1928, 36. (From NewspaperSG).</i></div>
