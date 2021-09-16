@@ -100,10 +100,10 @@ Ipoh is a large and flourishing town in the centre of the tin mining district. T
 
 We left Ipoh on 22 April at 8 am for our longest run of 98 miles to Tanjong Malim. The road to Gopeng is more hilly but it has an excellent surface and the scenery is very pretty. We stopped en route at Sungei Raya to look at a curious five-storeyed Chinese temple built inside some limestone caves. At Gopeng, the road diverges along a high ridge on which are situated the District Officer’s house and a nice resthouse with an upper storey and broad verandah. The resthouse commands a fine view over the town and adjoining mining country, backed by ranges of limestone cliff.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare6.JPG">
-<div style="background-color: white;">The Malayan kingfishers that Mrs Dare and Miss Hardman saw when they were driving through the jungle were likely the white collared kingfisher (top) and the white-breasted kingfisher (bottom). <i>Image reproduced from Robinson, H.C. (1927). The Birds of the Malay Peninsula: Volume 1: The Commoner Birds (p. 100). London: H.F. & G. Witherby. (Call no.: RSING 598.29595 ROB)</i></div>
-
 The rest of the road to Tapah was equally smooth, and we ran up a very steep hill to the resthouse where we tiffined. At 2 pm, we started on our remaining 58 miles to Tanjong Malim, and arrived at 7 pm. The road is very winding and too overgrown to travel at any great speed, although the surface is smooth and made of red laterite. From Bidor, the road goes through the thickest jungle, and here we spotted jungle cocks, blue pheasants, brilliant blue flycatchers and kingfishers as well as colourful butterflies. We ran over two snakes and saw a huge black scorpion about nine inches long! Two strong-smelling musangs (civet cats) ran across the road at different times, and in one place a very distinct scent of tiger was apparent – it is not a place one would care to spend the night in, should one’s car break down!
+
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare6.JPG">
+<div style="background-color: white;">The Malayan kingfishers that Mrs Dare and Miss Hardman saw when they were driving through the jungle were likely the white collared kingfisher (top) and the white-breasted kingfisher (bottom). <i>Image reproduced from Robinson, H.C. (1927). The Birds of the Malay Peninsula: Volume 1: The Commoner Birds (p. 100). London: H.F. & G. Witherby. (Call no.: RSING 598.29595 ROB).</i></div>
 
 The resthouse at Tanjong Malim is very comfortable and the food good. We found our supply of petrol waiting for us here, sent from Kuala Lumpur by the Federated Engineering Company.
 
