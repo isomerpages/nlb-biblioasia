@@ -203,7 +203,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^34]: “[Fascination of Careers for Malayan Chinese Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390202-1.2.164.2),” *Straits Times*, 2 February 1939, 1. (From NewspaperSG)
 
-[^35]: “Spore’s First Girl Lift Attendant,” Morning Tribune, 1 May 1936, 11. (From NewspaperSG)
+[^35]: “[Spore’s First Girl Lift Attendant](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19360501-1.2.65),” *Morning Tribune*, 1 May 1936, 11. (From NewspaperSG)
 
 [^36]: “Around Malaya,” Morning Tribune, 6 May 1936, 10. (From NewspaperSG)
 
