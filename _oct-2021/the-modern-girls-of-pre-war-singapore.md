@@ -187,11 +187,11 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^26]: Helen Chan, “[The Modern Girl,”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19321020-1.2.58) *Malaya Tribune*, 20 October 1931, 14; “A Modern Chinese Girl”, “[The Modern Girl](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19321102-1.2.7),” *Malaya Tribune*, 2 November 1932, 2. (From NewspaperSG)
 
-[^27]: Chia Ah Keow, “The Modern Girl,” Malaya Tribune, 22 September 1938, 7. (From NewspaperSG)
+[^27]: Chia Ah Keow, “[The Modern Girl](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380922-1.2.55),” *Malaya Tribune*, 22 September 1938, 7. (From NewspaperSG)
 
-[^28]: Juliet Loh, “The Modern Girl,” Malaya Tribune, 24 September 1938, 16. (From NewspaperSG)
+[^28]: Juliet Loh, “[The Modern Girl,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380924-1.2.103)” *Malaya Tribune*, 24 September 1938, 16. (From NewspaperSG)
 
-[^29]: Karen M. Teoh, Schooling Diaspora: Women, Education, and the Overseas Chinese in British Malaya and Singapore, 1850s–1960s, (New York: Oxford University Press, 2020), 7–8. (From National Library, Singapore, Call no. RSING 370.8209595 TEO)
+[^29]: Karen M. Teoh, [*Schooling Diaspora: Women, Education, and the Overseas Chinese in British Malaya and Singapore, 1850s–1960s*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204470682), (New York: Oxford University Press, 2020), 7–8. (From National Library, Singapore, Call no. RSING 370.8209595 TEO)
 
 [^30]: “Evelyn”, “The Modern Girl.”
 
