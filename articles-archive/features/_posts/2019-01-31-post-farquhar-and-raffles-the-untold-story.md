@@ -194,7 +194,7 @@ For various reasons, Farquhar lost his rightful place in the history of Singapor
 [^13]:Raffles to the Duchess of Somerset, 11 June 1819. See Raffles, S. (1991). [*Memoir of the life and public services of Sir Thomas Stamford Raffles*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277) (p. 383). Singapore: Oxford University Press. (Call no.: RSING 959.57021092 RAF-[HIS]) 
 [^14]:Singapore. (1820, January–June). *The Asiatic Journal and Monthly Register for British India and its Dependencies*, 9, p. 402. Retrieved from Internet Archive website.
 [^15]:Singapore. (1820, July–December). *The Asiatic Journal and Monthly Register for British India and its Dependencies*, 10, pp. 292–293. Retrieved from Internet Archive website. 
-[^16]:Jack to Wallich, 8 June 1819, in Burkill, I.H. (1916, July). *William Jack’s letters to Nathaniel Wallich, 1819–1821. Journal of the Straits Branch of the Royal Asiatic Society, 73* , p. 178. (Call no.: RRARE 582.09595 JAC-[JSB]) 
+[^16]:Jack to Wallich, 8 June 1819, in Burkill, I.H. (1916, July). William Jack’s letters to Nathaniel Wallich, 1819–1821. *Journal of the Straits Branch of the Royal Asiatic Society*, 73 , p. 178. (Call no.: RRARE 582.09595 JAC-[JSB]) 
 [^17]:Historical sketch of the settlement of Singapore. (1823, July–December). *The Asiatic Journal and Monthly Register for British India and its Dependencies*, 16, pp. 28–29. Retrieved from Internet Archive website. 
 [^18]:Farquhar to Raffles, 18 June 1819, NAB 1668; Farquhar to Raffles, 17 April 1821, L. 4, SSR Buckley, C.B. (1965). [*An anecdotal history of old times in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4223465&) (pp. 68–69). Kuala Lumpur: University of Malaya Press. (Call no.: RCLOS 959.57 BUC)
 [^19]:Farquhar to Raffles, 17 April 1821, L. 4, SSR.
@@ -206,7 +206,7 @@ For various reasons, Farquhar lost his rightful place in the history of Singapor
 [^25]:Raffles to Travers, 20 March 1820, vol. 50, Sumatra Factory Records.
 [^26]:Jennings to Farquhar, 15 August 1820, L. 4, SSR; Accountant General’s office, 8 March 1826, vol. 71, Java Factory Records, East India Company, London, Recordak Microfilm Services, 1956. Microfilm, Monash University. Hereafter referred to as JFR.
 [^27]:Trocki, C. (2006). [*Singapore: Wealth, power and the culture of control*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12640336&) (p. 20). London; New York: Routledge. (Call no.: RSING 959.5705 TRO-[HIS] 
-[^28]:made no response to the news of this harbour leading Farquhar to again inform him of its value; Farquhar to Raffles, 21 July 1820, L. 4 SSR. 
+[^28]:Farquhar to Raffles, 2 September 1819, L. 10, SSR. Raffles made no response to the news of this harbour leading Farquhar to again inform him of its value; Farquhar to Raffles, 21 July 1820, L. 4 SSR. 
 [^29]:[His honour’s folly](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000419-1.2.22). (1900, April 19). *The Straits Times*, p. 2. Retrieved from NewspaperSG. 
 [^30]:Farquhar to Raffles, 17 April 1821, L. 4; Farquhar to Hull, 6 November 1822, L. 9, SSR; Farquhar to Raffles, 2 June 1823, L. 15, SSR; Court Minutes, 25 May 1825, IOR B/178: 92. 
 [^31]:Farquhar to Raffles, 11 January 1821, L. 4, SSR; Farquhar to Mackenzie, 9 March 1822, L. 7, SSR; Farquhar, W. (1827). Thermometrical and barometrical tables. *Transactions of the Royal Asiatic Society of Great Britain and Ireland*, 1(2), pp. 585–586. (Call no.: RRARE 551.609595 FAR-[JSB]) 
