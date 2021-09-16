@@ -117,7 +117,7 @@ src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan7.JPG">In the 1
 [^3]: [Municipal Council](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18620614-1.2.8). (1862, June 14) *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 [^4]: Energy Market Authority. (2016, December 20). *Singapore energy story*. Retrieved from Energy Market Authority Singapore website.
 [^5]:Energy Market Authority, 20 Dec 2016.
-[^6]: [”Utility” iron](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470223-1.2.22.1). (1947, February 23). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^6]: [“Utility” iron](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470223-1.2.22.1). (1947, February 23). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 [^7]: Huff, W.G. (2001, May). Entitlements, destitution, and emigration in the 1930s Singapore Great Depression. *The Economic History Review*, 54(2), 290–323, p. 305. Retrieved from JSTOR via NLB’s eResources website.
 [^8]: Chua, A.L. (2016, April–June). [The story of Singapore radio: 1924–41](http://www.nlb.gov.sg/biblioasia/2016/04/05/the-story-of-singapore-radio-1924-41/). *BiblioAsia*, 12(1), 22–27, p. 22. Retrieved from BiblioAsia website.
 [^9]: [Chua](http://www.nlb.gov.sg/biblioasia/2016/04/05/the-story-of-singapore-radio-1924-41/), April–June 2016; McDaniel, D.O. (1994). [*Broadcasting in the Malay world: Radio, television and video in Brunei, Indonesia, Malaysia, and Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) (pp. 34–37). Norwood, NJ: Ablex Pub. (Call no.: RSING 302.2340959 MAC) 
