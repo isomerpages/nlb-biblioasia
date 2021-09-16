@@ -197,7 +197,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^31]: Lewis, [*Cities in Motion*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202759108), 229. 
 
-[^32]: “Conservatism Must Give Way to Modern Ideals and Ideas,” Straits Times, 9 October 1938, 12. (From NewspaperSG)
+[^32]: “[Conservatism Must Give Way to Modern Ideals and Ideas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19381009-1.2.102),” *Straits Times*, 9 October 1938, 12. (From NewspaperSG)
 
 [^33]: “Adelina”, “The Ways of Girls,” Malaya Tribune, 28 March 1931, 3. (From NewspaperSG)
 
