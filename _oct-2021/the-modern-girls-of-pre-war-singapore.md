@@ -159,7 +159,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^12]: 《良友》was also distributed in Singapore. See Paul G. Pickowicz, Kuiyi Shen and Yingjin Zhang, eds., *[Liangyou: Kaleidoscopic Modernity and the Shanghai Global Metropolis, 1926–1945](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203215623)* (Leiden: Brill, 2013), 250, 258. (From National Library, Singapore, Call no. R 302.2320951132 LIA)
 
-[^13]: Chua Ai Lin, “Singapore’s ‘Cinema-Age’ of the 1930s: Hollywood and the Shaping of Singapore Modernity,” Inter-Asia Cultural Studies 13, no. 4 (December 2012): 595, 597. (From EBSCOhost via NLB’s eResources website). 
+[^13]: Chua Ai Lin, “Singapore’s ‘Cinema-Age’ of the 1930s: Hollywood and the Shaping of Singapore Modernity,” *Inter-Asia Cultural Studies* 13, no. 4 (December 2012): 595, 597. (From EBSCOhost via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website). 
 
 [^14]: Chua, “Singapore’s ‘Cinema-Age’ of the 1930s,” 595. 
 
