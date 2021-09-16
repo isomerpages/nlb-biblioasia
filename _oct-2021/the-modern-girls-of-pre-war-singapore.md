@@ -49,7 +49,7 @@ Women’s roles in society were also evolving due to changing attitudes towards 
 Fashioning Singapore’s Modern Girl
 Singapore’s Modern Girl challenged existing gender norms through her expressions of femininity, most visibly through fashion and style. From the 1920s, she adopted Western-style clothing (with short hemlines and high heels), wore makeup and sported a bob haircut.[^16]
 
-One such young woman was Betty Lim, who later wrote <i>A Rose on My Pillow: Recollections of a Nyonya</i>. Before the popularity of the Modern Girl look, her long hair was usually styled in a traditional Straits Chinese sanggul (plaited hair that was coiled up) for formal events. In the late 1920s, Lim cut her hair in the style of American actress Colleen Moore – a straight bob with a fringe – and showed off her new “radical” look at a party she attended with her sibling.[^17]
+One such young woman was Betty Lim, who later wrote <i>A Rose on My Pillow: Recollections of a Nyonya</i>. Before the popularity of the Modern Girl look, her long hair was usually styled in a traditional Straits Chinese <i>sanggul</i> (plaited hair that was coiled up) for formal events. In the late 1920s, Lim cut her hair in the style of American actress Colleen Moore – a straight bob with a fringe – and showed off her new “radical” look at a party she attended with her sibling.[^17]
 
 ![Alt text for image on Isomer site]()
 <div style="background-color: white;">Colleen Moore, a popular American actress who starred in multiple films in the 1920s and 30s, popularised the Modern Girl’s quintessential short bob. <i>Image reproduced from Malayan Saturday Post, 5 May 1928, 36. (From NewspaperSG).</i></div>
