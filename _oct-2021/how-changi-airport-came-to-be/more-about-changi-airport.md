@@ -3,7 +3,7 @@ title: More about Changi Airport
 permalink: /vol-17/issue-3/oct-dec-2021/changi-airport-rsrc
 third_nav_title: How Changi Airport Came To Be
 ---
-#### Built at a cost of S$1.5 billion, Changi Airport was the largest public project in Singapore when it was completed in 1981. Learn more about Changi Airport through these photos from the National Archives of Singapore.
+#### Built at a cost of $1.5 billion, Changi Airport was the largest public project in Singapore when it was completed in 1981. Learn more about Changi Airport through these photos from the National Archives of Singapore.
 
 Changi Airport became operational on 1 July  1981 but about six weeks before that,  it was opened to an eager public who flocked to see what the new airport looked like inside. Tours were fully booked and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population.[^1] Clearly Changi Airport had captured the imagination of the public.  
 
@@ -11,23 +11,23 @@ Changi Airport became operational on 1 July  1981 but about six weeks before tha
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/lky.jpg)
 <div style="background-color: white;">On 4 November 1979, Prime Minister Lee Kuan Yew visited the uncompleted Changi Airport and was briefed on its progress . <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
-Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than Paya Lebar Airport, going against the recommendations of consultants . The cost of relocation to Changi excluded the sunk cost of S$800 million invested in Paya Lebar Airport.[^2]    
+Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than Paya Lebar Airport, going against the recommendations of consultants . The cost of relocation to Changi excluded the sunk cost of $800 million invested in Paya Lebar Airport.[^2]    
 	
 Lee took a great interest in the design of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to obtain a bird's-eye view of the entire construction site.[^3]  
 	
 	
-#### **A S$100-Million Navigational System**
+#### **A $100-Million Navigational System**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/radar1500.png)
 <div style="background-color: white;">At the signing ceremony on 17 February 1977,  Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from  B. M. Lap, chairman of Philips Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 	
-On 17 February 1977, the Singapore government signed a S$19-million contract with Philips, for the supply of long-range radar and display system. This system was designed to guide 250 aircrafts simultaneously—whether they are landing, taking off or flying—within the controlled airspace about 20 km in height and spanning more than 320 km. It was part of the S$100-million navigational system planned for the new airport, which was positioned to be the region’s air communications hub.[^4]  
+On 17 February 1977, the Singapore government signed a $19-million contract with Philips, for the supply of long-range radar and display system. This system was designed to guide 250 aircrafts simultaneously—whether they are landing, taking off or flying—within the controlled airspace about 20 km in height and spanning more than 320 km. It was part of the $100-million navigational system planned for the new airport, which was positioned to be the region’s air communications hub.[^4]  
  
 	
 #### **The H-shaped Passenger Terminal Building** 	
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/terminal.jpg)
 <div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
-The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year. Beneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
+The $268 million five-storey passenger terminal building was built to handle 10 million passengers a year. Beneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
 
 A year before the passenger terminal building was  completed, the government was already looking into building a second one to expand the capacity of the airport.[^5]  
 
@@ -37,9 +37,9 @@ A year before the passenger terminal building was  completed, the government was
 <div style="background-color: white;">An aerial view of the completed Changi Airport, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div> 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/20note.png)
-<div style="background-color: white;">Reverse side of Singapore's first S$20 note, featuring the airport. <i>Courtesy of the Monetary Authority of Singapore</i>.</div> 
+<div style="background-color: white;">Reverse side of Singapore's first $20 note, featuring the airport. <i>Courtesy of the Monetary Authority of Singapore</i>.</div> 
 
-Changi Airport would become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new S$20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The S$20 bill was introduced on 6 August 1979 as part of the bird series currency notes.[^6]  
+Changi Airport would become a symbol of national pride. Two years before the airport became operational, it was featured on the reverse side of the new $20 note, with Concorde, the first supersonic passenger aircraft, in the foreground. The $20 bill was introduced on 6 August 1979 as part of the bird series currency notes.[^6]  
 
 
 
@@ -66,7 +66,7 @@ The construction of the 3,355-metre long second runway was part of Changi Airpor
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/tower1.jpg)
 <div style="background-color: white;">The control tower of Changi Airport, 1996. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 
-The design of the iconic 78-metre tall control tower came from a competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^10]
+The design of the iconic 78-metre tall control tower came from a competition held among architects of the Public Works Department. It was built at a cost of $8.4 million, while the building of the taxiway cost $15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^10]
 
 The video below shows the radome (the dome-like structure on top of the control tower) and the radar equipment inside it being replaced in 2015.
 
