@@ -135,4 +135,63 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 #### NOTES
 
-[^1]: Alys Eve Weinbaum, et al., eds., “The Modern Girl as Heuristic Device: Collaboration, Connective Comparison, Multidirectional Citation” in [*The Modern Girl Around the World: Consumption, Modernity, and Globalization*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188) (Durham: Duke University Press, 2008), 1. (From National Library, Singapore, Call no. R 305.24220904) 
+[^1]: Alys Eve Weinbaum, et al., eds., “The Modern Girl as Heuristic Device: Collaboration, Connective Comparison, Multidirectional Citation” in [*The Modern Girl Around the World: Consumption, Modernity, and Globalization*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188) (Durham: Duke University Press, 2008), 1. (From National Library, Singapore, Call no. R 305.24220904)
+
+[^2]: Alys Eve Weinbaum, et al., eds., “The Modern Girl Around the World: Cosmetics Advertising and the Politics of Race and Style” in The Modern Girl Around the World: Consumption, Modernity, and Globalization (Durham: Duke University Press, 2008), 25. (From National Library, Singapore, Call no. R 305.24220904)
+
+[^3]: Robert Hamilton Bruce Lockhart, Return to Malaya (London: Putnam, 1936), 116. (From National Library, Singapore, Call no. RCLOS 959.5 LOC-[ET])
+
+[^4]: Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 1. 
+
+[^5]: Su Lin Lewis, “Cosmopolitanism and the Modern Girl: A Cross-Cultural Discourse in 1930s Penang”, Modern Asian Studies 43, no. 6 (November 2009): 1385–86. (From JSTOR via NLB’s eResources website)
+
+[^6]: Rachel Leow, “Age as a Category of Gender Analysis: Servant Girls, Modern Girls, and Gender in Southeast Asia,” The Journal of Asian Studies 71, no. 4 (2012): 980. (From JSTOR via NLB’s eResources website)
+Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 5. 
+Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 9. 
+Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 9. 
+Weinbaum et al., eds., “The Modern Girl Around the World,” 28, 30.
+Sarah E. Stevens, “Figuring Modernity: The New Woman and the Modern Girl in Republican China,” NWSA Journal 15, no. 3 (Autumn 2003): 84. (From JSTOR via NLB’s eResources website)
+ 《良友》was also distributed in Singapore. See Paul G. Pickowicz, Kuiyi Shen and Yingjin Zhang, eds., Liangyou: Kaleidoscopic Modernity and the Shanghai Global Metropolis, 1926–1945 (Leiden: Brill, 2013), 250, 258. (From National Library, Singapore, Call no. R 302.2320951132 LIA)
+Chua Ai Lin, “Singapore’s ‘Cinema-Age’ of the 1930s: Hollywood and the Shaping of Singapore Modernity,” Inter-Asia Cultural Studies 13, no. 4 (December 2012): 595, 597. (From EBSCOhost via NLB’s eResources website). 
+Chua, “Singapore’s ‘Cinema-Age’ of the 1930s,” 595. 
+Saw  Swee-Hock, “Population Trends in Singapore, 
+1819–1967,” Journal of Southeast Asian History 10, no. 1, 
+Singapore Commemorative Issue 1819–1969 (March 1969): 43–44. (From JSTOR via NLB’s eResources website).
+Kung Yuseng, “Woman’s Corner. Revolt of the Modern Girl,” Malaya Tribune, 22 August 1931, 4. (From NewspaperSG)
+Betty Lim, A Rose on my Pillow: Recollections of a Nyonya (Singapore: Armour Publishing, 1994), 17–18. (From National Library, Singapore, Call no. RSING 920.72 LIM)
+Peter Lee, Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950 (Singapore: Asian Civilisations Museum, 2014), 253, 260. (From National Library, Singapore, Call no. RSING 391.20899510595 LEE-[CUS]) 
+Su Lin Lewis, Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940 (Cambridge, UK: Cambridge University Press, 2016), 
+247. (From National Library, Singapore, Call no.: 
+R 307.7609590904 LEW) 
+Lee Chor Lin, In the Mood for Cheongsam (Singapore: Editions Didier Millet; National Museum of Singapore, 2012), 20. (From National Library, Singapore, Call no. RSING 391.00951 LEE-[CUS])
+Francis T. Seow, The Media Enthralled: Singapore Revisited (Boulder, Colo.: Lynne Rienner Publishers, 1998), 8. (From National Library, Singapore, Call no. RSING 323.445095957 SEO)
+“Miss Tow Foo Wah”, “Skirts Too Short,” Malaya Tribune, 7 March 1931, 2. (From NewspaperSG)
+“Evelyn”, “The Modern Girl,” Malaya Tribune, 21 March 1931, 3. (From NewspaperSG)
+“Miss Anxious”, “The Modern Girl and Her Fashions,” Malaya Tribune, 4 April 1931, 2. (From NewspaperSG)
+Jay Bee, “Dancing,” Malaya Tribune, 14 October 1931, 11. (From NewspaperSG)
+Helen Chan, “The Modern Girl,” Malaya Tribune, 20 October 1931, 14; “A Modern Chinese Girl”, “The Modern Girl,” Malaya Tribune, 2 November 1932, 2. (From NewspaperSG)
+Chia Ah Keow, “The Modern Girl,” Malaya Tribune, 22 September 1938, 7. (From NewspaperSG)
+Juliet Loh, “The Modern Girl,” Malaya Tribune, 24 September 1938, 16. (From NewspaperSG)
+Karen M. Teoh, Schooling Diaspora: Women, Education, and the Overseas Chinese in British Malaya and Singapore, 1850s–1960s, (New York: Oxford University Press, 2020), 7–8. (From National Library, Singapore, Call no. RSING 370.8209595 TEO)
+“Evelyn”, “The Modern Girl.”
+Lewis, Cities in Motion, 229. 
+“Conservatism Must Give Way to Modern Ideals and Ideas,” Straits Times, 9 October 1938, 12. (From NewspaperSG)
+“Adelina”, “The Ways of Girls,” Malaya Tribune, 28 March 1931, 3. (From NewspaperSG)
+“Fascination of Careers for Malayan Chinese Girls,” Straits Times, 2 February 1939, 1. (From NewspaperSG)
+“Spore’s First Girl Lift Attendant,” Morning Tribune, 1 May 1936, 11. (From NewspaperSG)
+“Around Malaya,” Morning Tribune, 6 May 1936, 10. (From NewspaperSG)
+Zola, “What Readers Are Saying: Girls & Unemployed Youths,” Malaya Tribune, 13 April 1938, 18. (From NewspaperSG)
+G.S. Teo, “The Weaker Sex,” Malaya Tribune, 27 April 1938, 20. (From NewspaperSG)
+C.T.C., “Girls in Offices,” Malaya Tribune, 4 May 1938, 20. (From NewspaperSG)
+Educated Female, ‘“Zola” Did Start Something,” Malaya Tribune, 20 April 1938, 20. (From NewspaperSG)
+Sunny Girl, “Another Girl’s Views,” Malaya Tribune, 20 April 1938, 20. (From NewspaperSG)
+“She Shocked Father by Bobbing Her Hair,” Sunday Tribune (Singapore), 3 April 1949, 4. (From NewspaperSG)
+Lim, Rose on my Pillow, 20–24.
+Lewis, “Cosmopolitanism and the Modern Girl”, 1387. 
+“Audi Alterem Partem”, “Unmarriageable” Chinese Girls,” Malaya Tribune, 20 November 1931, 5. (From NewspaperSG)
+Goh Tong Liang, “Unmarriageable Girls,” Malaya Tribune, 20 December 1931, 3. (From NewspaperSG)
+“Srikrishnan”, “Unmarriageable Girls,” Malaya Tribune, 
+7 December 1931, 3. (From NewspaperSG)
+June Lee, “Chinese Girls Now Choose Their Husbands,” Straits Times, 20 July 1939, 1. (From NewspaperSG)
+“Fascination of Careers for Malayan Chinese Girls.”
+Lee, In the Mood for Cheongsam, 123–24.
