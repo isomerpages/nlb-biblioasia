@@ -177,11 +177,11 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^21]: Francis T. Seow, [*The Media Enthralled: Singapore Revisited*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7860911) (Boulder, Colo.: Lynne Rienner Publishers, 1998), 8. (From National Library, Singapore, Call no. RSING 323.445095957 SEO)
 
-[^22]: “Miss Tow Foo Wah”, “Skirts Too Short,” Malaya Tribune, 7 March 1931, 2. (From NewspaperSG)
+[^22]: “Miss Tow Foo Wah”, “[Skirts Too Short,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310307-1.2.6)” Malaya Tribune, 7 March 1931, 2. (From NewspaperSG)
 
-[^23]: “Evelyn”, “The Modern Girl,” Malaya Tribune, 21 March 1931, 3. (From NewspaperSG)
+[^23]: “Evelyn”, “[The Modern Girl](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310321-1.2.14),” *Malaya Tribune*, 21 March 1931, 3. (From NewspaperSG)
 
-[^24]: “Miss Anxious”, “The Modern Girl and Her Fashions,” Malaya Tribune, 4 April 1931, 2. (From NewspaperSG)
+[^24]: “Miss Anxious”, “[The Modern Girl and Her Fashions](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310404-1.2.7),” *Malaya Tribune*, 4 April 1931, 2. (From NewspaperSG)
 
 [^25]: Jay Bee, “Dancing,” Malaya Tribune, 14 October 1931, 11. (From NewspaperSG)
 
