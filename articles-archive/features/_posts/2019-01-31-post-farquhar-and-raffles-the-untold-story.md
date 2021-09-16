@@ -148,7 +148,7 @@ Farquhar expressed concern when Raffles began to sell land, pointing out that Ra
 
 Raffles wrote to Hastings on 11 January 1823, stating that he did not consider Farquhar capable of running Singapore after his own resignation, when Singapore would fall directly under the Bengal government’s supervision. Hence, he wanted Farquhar quickly replaced by “a more competent” local authority.[^47] Yet the very next day Raffles wrote to his cousin, ecstatic at the progress Singapore had made under Farquhar:
 
-“The progress of my new settlement is in every way most satisfactory, and it would gladden your heart to witness the activity and cheerfulness which prevails throughout. Every day brings us new settlers, and Singapore has already become a great emporium. Houses and warehouses are springing up in every direction”.[^48]
+“The progress of my new settlement is in every way most satisfactory, and it would gladden your heart to witness the activity and cheerfulness which prevails throughout. Every day brings us new settlers, and Singapore has already become a great emporium. Houses and warehouses are springing up in every direction."[^48]
 
 Despite that praise, Raffles wrote two further despatches to Bengal, accusing Farquhar of mismanagement, incompetence and other irregularities.
 
