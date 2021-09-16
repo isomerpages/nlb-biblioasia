@@ -171,7 +171,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^18]: Peter Lee, Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950 (Singapore: Asian Civilisations Museum, 2014), 253, 260. (From National Library, Singapore, Call no. RSING 391.20899510595 LEE-[CUS]) 
 
-[^19]: Su Lin Lewis, Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940 (Cambridge, UK: Cambridge University Press, 2016), 247. (From National Library, Singapore, Call no.:R 307.7609590904 LEW) 
+[^19]: Su Lin Lewis, Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940 (Cambridge, UK: Cambridge University Press, 2016), 247. (From National Library, Singapore, Call no.: R 307.7609590904 LEW) 
 
 [^20]: Lee Chor Lin, In the Mood for Cheongsam (Singapore: Editions Didier Millet; National Museum of Singapore, 2012), 20. (From National Library, Singapore, Call no. RSING 391.00951 LEE-[CUS])
 
