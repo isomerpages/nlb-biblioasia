@@ -121,12 +121,12 @@ src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan7.JPG">In the 1
 [^7]: Huff, W.G. (2001, May). Entitlements, destitution, and emigration in the 1930s Singapore Great Depression. *The Economic History Review*, 54(2), 290–323, p. 305. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^8]: Chua, A.L. (2016, April–June). [The story of Singapore radio: 1924–41](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/). *BiblioAsia, 12*(1), 22–27, p. 22. Retrieved from BiblioAsia website.
 [^9]: [Chua](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/), April–June 2016; McDaniel, D.O. (1994). [*Broadcasting in the Malay world: Radio, television and video in Brunei, Indonesia, Malaysia, and Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) (pp. 34–37). Norwood, NJ: Ablex Pub. (Call no.: RSING 302.2340959 MAC) 
-[^10]: [Chua](http://www.nlb.gov.sg/biblioasia/2016/04/05/the-story-of-singapore-radio-1924-41/#sthash.mD4l2zp6.dpbs), Apr–June 2016, p. 25.
+[^10]: [Chua](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/), Apr–June 2016, p. 25.
 [^11]: [McDanieI](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277), 1994, pp. 27–28.
-[^12]: [Chua](http://www.nlb.gov.sg/biblioasia/2016/04/05/the-story-of-singapore-radio-1924-41/#sthash.mD4l2zp6.dpbs), Apr–June 2016, p. 22.
+[^12]:[Chua](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/), Apr–June 2016, p. 22.
 [^13]: [McDaniel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) , 1994, p. 71.
 [^14]:[McDaniel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) , 1994, p. 72.
-[^15]: Fox, B.J. (1990, March). Selling the mechanised household: 70 years of ads in Ladies Home Journal. *Gender and Society*, 4(1), 25–40, pp. 27–28. Retrieved from JSTOR via NLB’s eResources website. 
+[^15]: Fox, B.J. (1990, March). Selling the mechanised household: 70 years of ads in Ladies Home Journal. *Gender and Society*, 4(1), 25–40, pp. 27–28. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website. 
 [^16]: Cowan, R.S. (1976, January). The ‘Industrial Revolution’ in the home: Household technology and social change in the 20th century. *Technology and Culture*, 17(1), 1–23, pp. 9–10. Retrieved from JSTOR via NLB’s eResources website.
 [^17]: Fox, (1990, March), pp. 25–40; Quah, S.R. (1980, July–December). Sex-role socialization in a transitional society. *International Journal of Sociology of the Family*, 10(2), 213–231, pp. 214–215. Retrieved from JSTOR via NLB’s eResources website.
 [^18]: Singer: Take home a jade lady. (1969). [*FDAWU Magazine of 1969*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200119712) (p. 62). Singapore: Food, Drinks and Allied Workers Union. Retrieved from PublicationSG.
