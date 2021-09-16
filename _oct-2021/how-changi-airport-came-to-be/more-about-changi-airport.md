@@ -13,23 +13,23 @@ Changi Airport became operational on 1 July  1981 but about six weeks before tha
 
 Prime Minister Lee Kuan Yew was instrumental in the making of Changi Airport. In 1975, he decided to build a new airport at Changi on a site five times larger than Paya Lebar Airport, going against the recommendations of consultants . The cost of relocation to Changi excluded the sunk cost of S$800 million invested in Paya Lebar Airport.[^2]    
 	
-Lee took a great interest in the building of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to get a bird's-eye view of the entire construction site.[^3]  
+Lee took a great interest in the design of Changi Airport. To see where the extension of the first runway would be, he got on a military passenger transport plane to obtain a bird's-eye view of the entire construction site.[^3]  
 	
 	
-#### **A S$100 Million Navigational System**
+#### **A S$100-Million Navigational System**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/radar1500.png)
 <div style="background-color: white;">At the signing ceremony on 17 February 1977,  Ong Teng Cheong, then Senior Minister of State for Communications, received a replica of radar antenna from  B. M. Lap, chairman of Philips Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 	
-On 17 February 1977, the Singapore government signed a S$19 million contract with Philips, for the supply of long-range radar and display system. This system was designed to guide 250 aircrafts simultaneously—whether they are landing, taking off or flying—within the controlled airspace about 20 km in height and spanning more than 320 km. It was part of the S$100 million navigational system planned for the new airport, which was positioned to be the region’s air communications hub.[^4]  
+On 17 February 1977, the Singapore government signed a S$19-million contract with Philips, for the supply of long-range radar and display system. This system was designed to guide 250 aircrafts simultaneously—whether they are landing, taking off or flying—within the controlled airspace about 20 km in height and spanning more than 320 km. It was part of the S$100-million navigational system planned for the new airport, which was positioned to be the region’s air communications hub.[^4]  
  
 	
 #### **The H-shaped Passenger Terminal Building** 	
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/terminal.jpg)
 <div style="background-color: white;">The passenger terminal building at Changi Airport under construction, 1977–81. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
-The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year. Underneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
+The S$268 million five-storey passenger terminal building was built to handle 10 million passengers a year. Beneath the H-shaped passenger terminal building is Singapore’s first underground bus terminal.
 
-A year before construction of the passenger terminal building was  completed, the government was already looking into building a second one to expand the capacity of the airport.[^5]  
+A year before the passenger terminal building was  completed, the government was already looking into building a second one to expand the capacity of the airport.[^5]  
 
 	
 #### **A Matter of National Pride**  
@@ -45,14 +45,14 @@ Changi Airport would become a symbol of national pride. Two years before the air
 
 #### **Aerobridges**
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/aerobridge.jpg)
-<div style="background-color: white;">Planes parked at aerobridges at the airport, 1996. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
+<div style="background-color: white;">Planes parked at aerobridges at Changi Airport, 1996. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 	
 Aerobridges allow passengers to board planes directly from the terminal building rather than having to take a bus and climb a flight of mobile steps. Changi Airport was one of the first few airports in the world to use the aerobridge, though at the start, it was not used for every flight.[^7]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/steps.jpg)
 <div style="background-color: white;">Passengers boarding a Singapore Airlines flight at  Changi Airport using the mobile steps, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 
- In 1981, a journalist reporting on her tour of the Changi Airport remarked that the highlight of the tour  was “troop[ing] down an aerobridge”.[^8]
+ In 1981, a journalist reporting on her tour of the Changi Airport remarked that the highlight of the visit  was “troop[ing] down an aerobridge”.[^8]
 
 
 #### **The Second Runway**
@@ -66,7 +66,7 @@ The construction of the 3,355-metre long second runway was part of Changi Airpor
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/changi-airport-photo-essay/tower1.jpg)
 <div style="background-color: white;">The control tower of Changi Airport, 1996. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore</i>.</div>
 
-The design of the iconic 78-metre tall control tower came from a design competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^10]
+The design of the iconic 78-metre tall control tower came from a competition held among architects of the Public Works Department. It was built at a cost of S$8.4 million, while the building of the taxiway cost S$15 million. In 1985, these two structures won awards from the American Concrete Institute for the creative use of concrete in design.[^10]
 
 The video below shows the radome (the dome-like structure on top of the control tower) and the radar equipment inside it being replaced in 2015.
 
@@ -76,7 +76,7 @@ The video below shows the radome (the dome-like structure on top of the control 
 #### **Further Resources from the National Library and National Archives of Singapore**
 Beyond photos, the National Archives and the National Library have a wealth of other resources related to Changi Airport’s early years. These include transcripts of speeches, oral history interviews, books and unpublished documents.
 
-The transcripts of speeches by key players provide a valuable glimpse into the decision-making process behind the setting up of Changi Airport. In a speech at the airport’s official opening in December 1981, Defence Minister Howe Yoon Chong [explained](https://www.nas.gov.sg/archivesonline/speeches/record-details/70f84311-115d-11e3-83d5-0050568939ad) why the government decided to build the  airport in Changi rather than expand Paya Lebar. A quarter of a century later, at a dinner to celebrate the 25th anniversary of the airport in 2006, Minister Mentor Lee Kuan Yew [recalled](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad) the process from his perspective.
+The transcripts of speeches by key players provide a valuable glimpse into the decision-making process behind the setting up of Changi Airport. In a speech at the airport’s official opening in December 1981, Defence Minister Howe Yoon Chong [explained](https://www.nas.gov.sg/archivesonline/speeches/record-details/70f84311-115d-11e3-83d5-0050568939ad) why the government decided to build the  airport in Changi rather than expand Paya Lebar. At a dinner to celebrate the 25th anniversary of the airport in 2006, Minister Mentor Lee Kuan Yew [recalled](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad) the process from his perspective.
 
 Oral history interviews are another important source of information. In a 1987 interview, former president Ong Teng Cheong [explained](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/06155340-115e-11e3-83d5-0050568939ad) how they were able to switch over from Paya Lebar to Changi overnight. (Ong had been the Communications Minister between 1978 and 1983.) And in an interview in 2001, Bernard Chen Tien Lap, a retired politician who had been a former civil servant in the  Ministry of Finance, [revealed](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/08b14275-115f-11e3-83d5-0050568939ad-OHC002530_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5) that the Finance Ministry had argued for Paya Lebar while the Communications Ministry pushed for Changi.
 
