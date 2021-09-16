@@ -135,4 +135,4 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 #### NOTES
 
-[^1]: [*Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980631) (Singapore: Malaya Borneo Exhibition, 1922), 5. (From National Library, Singapore, Call no. RRARE 607.34595 MAL; Microfilm nos. NL9852, NL27451)
+[^1]: Alys Eve Weinbaum, et al., eds., “The Modern Girl as Heuristic Device: Collaboration, Connective Comparison, Multidirectional Citation” in [*The Modern Girl Around the World: Consumption, Modernity, and Globalization*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188) (Durham: Duke University Press, 2008), 1. (From National Library, Singapore, Call no. R 305.24220904) 
