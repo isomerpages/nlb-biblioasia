@@ -62,7 +62,7 @@ Singapore’s Modern Girls also adopted a hybrid East-meets-West style, combinin
 
 The press became a space where Singapore’s Modern Girls could push back and make their case, their letters affording a glimpse of how these young, educated and assertive women articulated their own identities and expressions of modernity through their appearance and individuality. One of these platforms was the <i>Malaya Tribune</i>, the most popular English-language newspaper among middle-class anglophone Asians in Singapore and Malaya in the 1930s.[^21]
 
-Those who wrote to the Malaya Tribune were mainly English-educated Straits Chinese men and women, hence when the topic was discussed, it tended to centre on the Chinese Modern Girl. (It is important to note, however, that many letter-writers used pseudonyms, making it a challenge to ascertain their identities and verify the content. Nonetheless, these letters offer valuable insight into the voices of educated Asians in colonial Singapore.)
+Those who wrote to the <i>Malaya Tribune</i> were mainly English-educated Straits Chinese men and women, hence when the topic was discussed, it tended to centre on the Chinese Modern Girl. (It is important to note, however, that many letter-writers used pseudonyms, making it a challenge to ascertain their identities and verify the content. Nonetheless, these letters offer valuable insight into the voices of educated Asians in colonial Singapore.)
 
 ![Alt text for image on Isomer site]()
 <div style="background-color: white;"> This watch advertisement features a Modern Girl, characterised by her distinctive wavy bob hairstyle and trendy shoulder-baring dress. <i>Image reproduced from The Malaya Tribune, 2 December 1927, 5. (From NewspaperSG).</i></div>
