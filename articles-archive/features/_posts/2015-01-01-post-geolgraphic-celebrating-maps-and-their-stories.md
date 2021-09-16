@@ -111,6 +111,7 @@ Sherman Ong is a filmmaker, photographer and visual artist whose practice centre
 <img src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
 </div>
 
+<img src="/images/vol-10-issue-4/geo-geographic/tan.jpg" style="width: 200px; height: 120px; margin-bottom:-30px; padding-top:20px;" />
 <p style="font-size:15px;"><b>Tan Huism</b> is Head of Exhibitions and Curation at the National Library of Singapore. She started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</p>
 
 
