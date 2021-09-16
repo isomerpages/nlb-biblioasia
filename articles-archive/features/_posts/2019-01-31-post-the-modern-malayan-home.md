@@ -78,7 +78,7 @@ The first television station in Singapore, Television Singapura, aired the first
 
 Singapore households readily embraced television – the first broadcast was watched at home by 2,400 families as well as by members of the public gathered at Victoria Memorial Hall and 52 community viewing centres spread across the island.[^13]
 
-Some of the earliest programmes aired in Singapore were *Huckleberry Hound*, Adventures of Charlie Chan and local variety shows like *Rampaian Malaysia*, which featured music from various local ethnic groups.[^14]
+Some of the earliest programmes aired in Singapore were *Huckleberry Hound*, *Adventures of Charlie Chan* and local variety shows like *Rampaian Malaysia*, which featured music from various local ethnic groups.[^14]
 
 Advertisements for television sets not only emphasised their high-quality picture and sound reception, but also promoted the idea that with their “luxury styling” and “cabinet construction”, these new entertainment devices would double up as attractive furnishings for one’s living room.
 
@@ -93,17 +93,11 @@ src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan7.JPG">In the 1
 
 |Advertisements published in Singapore during this time mostly portrayed women – of various ethnicities and economic backgrounds – posing with household goods while looking glamorous alongside high-end appliances, or else engaged in domestic chores such as cooking, sewing or doing laundry. A rare household ad targeted at men in 1969 promoted Singer sewing machines as good gifts for their wives.[^18]
 
-|<img style="width: 300px; height: 400px;"
-src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan1.JPG">Singer put out many creative and visually interesting ad campaigns targetted at women, as evident in this 1961 ad. <i>Image reproduced from The Straits Times Annual, 1961, p. xi.</i>
-
 |By the 1950s and 60s, women in Singapore began entering the workforce in fairly large numbers, but were generally still expected to undertake housekeeping and child-rearing as their primary tasks. This doubling up of duties, among other reasons, relegated many women to shift work and other relatively less demanding lower-paying jobs, such as factory or secretarial work, so that they would have the time to take care of the home after work hours.[^19]
 
 |With this in mind, most household appliance advertising focused on making women’s lives easier. Advertisements stressed how the cost of purchasing modern household products would be more than amply justified by the reduced time and effort spent doing housework and, in the process, reward the busy woman with a more stress-free and simple life.
 
 |More importantly, advertisers tried to mould public attitudes to suit household consumerism, for instance, by imbuing housework with notions of idealism and romanticism. Advertisements sometimes implied that the work performed by a woman around the house was not done out of necessity but more as a labour of love, and that the care she put into it was an indication of her love for her husband and children. Purchasing household appliances that allowed housework to be done better and faster was therefore an investment of care in the family, a symbol of a woman’s dedication to her primary role as wife and mother.[^20]
-
-|<img style="width: 300px; height: 400px;"
-src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan8.JPG">This 1956 ad by The East Asiatic Co. depicts a “glamorous housewife” alongside a Kelvinator refrigerator. Many ads at the time featured impeccably dressed women with nary a hair out of place, even while in the midst of doing household chores. <i>Image reproduced from The Straits Times Annual, 1956, p. xx.</i>
 
 <br> 
 
