@@ -50,7 +50,7 @@ Bagan Serai Resthouse is not at all a bad place with an upper storey, but if it 
 
 In the morning, we drove back for the milometer – which was quite uninjured but the journey delayed us somewhat – and headed for Taiping 26 miles away. Six miles beyond Bagan Serai, the Kuran river is crossed by a small pontoon boat, which is hauled across the stream by a wire rope. Two planks were laid each side to bridge the intervening space of water from the pontoon to the boat, and we drove over these on board, the planks being carried with us to be utilised in the same manner on the other side.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare4.JPG">
+<img style="width: 400px; height: 500px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/Map.JPG">
 <div style="background-color: white;">A map of the Malay Peninsula created in 1906. It includes the places that Mrs Dare and Miss Hardman visited during their road trip in 1907. <i>Image reproduced from Swettenham, F.A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya. London, New York: John Lane the Bodley Head. (Accession nos.: B29031891K, B29267224A; Microfilm nos.: NL19101, NL3279)</i></div>
 
 From this point, the road began to ascend, and we crossed the Semangol Pass, which at 1,279 ft affords a glorious vista of the wooded Larut Hills and the grand mountain ranges of Perak. The road surface was excellent, and a pleasant spin through flat, open country past many deserted tin mines took us into Taiping by 9.30 am, quite ready for the excellent breakfast provided for us by the kind friends with whom we stayed.
