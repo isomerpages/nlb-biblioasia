@@ -66,7 +66,7 @@ A special Geographic Information System (GIS) developed with the Urban Redevelop
 <i>seabook</i> was conceived by artist Charles Lim as a site for the agglomeration of archival material, anecdotes and memories that explores Singapore's relationship with the sea. Lim, who is Singapore's 2015 representative to the Venice Biennale, has a close relationship with the sea as he is a former national sailor and represented Singapore in the 1996 Olympics. 
 
 ![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Charles_Lim_work.jpg)
-<div style="background-color: white;">Artist Charles Lim’s work, Sea Safe (2014), in progress.</div>
+<div style="background-color: white;">Artist Charles Lim’s work, <i>Sea Safe</i> (2014), in progress.</div>
 
 	
 This particular project is an extension of Lim's previous solo-exhibition, "In Search of Raffles' Light", held in 2013 at the National University of Singapore (NUS) Museum. Both these projects are part of Lim's body of work known as the SEA STATE series, which was first initiated in 2008 and continues with his exploration of Singapore's maritime ecology. Developed together with the librarians at NL, <i>seabook</i> highlights the vast amount of information and data gathered from maps, charts and newspaper clippings, as well as scholarly material grappling with the complex relationship between Singapore and the sea – from colonial times to the present day. The stories encompass the mundane – such as fishing as a livelihood, the everyday lives of island communities, regulations on the use of the sea for leisure and other purposes, as well as sea-related tragedies, including an attack on a girl by a swordfish in 1961. The exhibition, jointly organised by NUS Museum and NL, highlights the troubled relationship Singapore has with its seas and its continued undercurrents in our lives.
@@ -97,7 +97,7 @@ Michael Lee's research interest focuses on urban memory and fiction, emphasising
 #### *Outliers by Jeremy Sharma*
 In the installation work <i>Outliers</i>, by multidisciplinary artist Jeremy Sharma, are four white polystyrene blocks with undulating surfaces that capture in material form the signals of dying stars. When dying stars explode, their remnants (also known as pulsars) emit electromagnetic pulses that can be detected by a radio telescope on earth. These pulses are emitted until the star finally burns out, which could take anything between 10 and 100 million years. 
 	
-With the help of a pulsar scientist, Sharma has been collecting and categorising radiographic data of selected pulsars according to size, distance from earth and age at the time of discovery. This two- dimensional data was then converted into 3-D landscapes of valleys and peaks created by 3-D printing technology. 
+With the help of a pulsar scientist, Sharma has been collecting and categorising radiographic data of selected pulsars according to size, distance from earth and age at the time of discovery. This two-dimensional data was then converted into 3-D landscapes of valleys and peaks created by 3-D printing technology. 
 
 <i>Outliers</i> contemplates the profound space-time distance the signals of dying stars travel in order to communicate their death throes.
 	
