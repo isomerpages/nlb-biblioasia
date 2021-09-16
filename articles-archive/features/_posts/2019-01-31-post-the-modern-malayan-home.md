@@ -24,7 +24,7 @@ Running water was another issue that took many decades to resolve. While wealthi
 
 Naturally, in those early days, modern home appliances like electric washing machines were targeted at those who had access to running water and electricity. Until the 1950s and 60s, when more residents had been relocated to public housing that could support a full range of utilities, only a handful of dealerships importing home appliances existed.
 
-#### **Gas and Electricity **
+#### **Gas and Electricity**
 
 Before the advent of gas and electricity in Singapore, the energy source for municipal and household uses, such as street lighting and cooking, came from the burning of oil, coal and wood. In 1862, Singapore Gas Company opened Kallang Gasworks, the first plant dedicated to manufacturing gas for street lighting.[^3] In 1901, gas production was taken over by the Municipal Commission and expanded for home use.[^4]
 
@@ -36,7 +36,7 @@ As a result, home gas and electricity became commonly advertised in newspapers, 
 src="/images/Vol-14-issue-4/the-modern-malayan-home/ModernMalayan3.JPG">
 <div style="background-color: white;">By the 1920s, some households in Singapore had begun to use gas as a primary fuel source for cooking and for heating water. Ads for gas, such as this one by the City Gas Department in 1953, were placed in cookbooks, among other publications, specifically targetting homemakers. <i>Image reproduced from Allix, P. (1953). Menus for Malaya (p. 80). Singapore, Malaya Publishing House. (Call no.: RCLOS 642.1 ALL)</i></div>
 
-#### **Modern Home Gadgets and Appliances **
+#### **Modern Home Gadgets and Appliances**
 
 The introduction of electricity in the home fuelled demand and created a consumer market for household goods and entertainment, resulting in a flood of new inventions from the United States, Europe and, later, Japan. Besides home staples such as electric lights, appliances such as refrigerators, blenders, electric irons, ceiling fans and vacuum cleaners were also heavily advertised in the early 20th century.
 
