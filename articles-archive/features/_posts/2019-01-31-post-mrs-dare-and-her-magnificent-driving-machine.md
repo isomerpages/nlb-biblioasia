@@ -28,6 +28,9 @@ When we two ladies contemplated making a motor tour through the Malay Peninsula,
 
 Our car was a quite new Adams-Hewitt, constructed with especially large 34-inch wheels to ensure a good ground clearance. The wheels were fitted with Moseley “Perfect” tyres and detachable rims. We carried our baggage with us, and were provided with all necessary spares as well as one outer cover and two inner tubes in a waterproof case. These were never used; although we crossed many patches of unrolled granite and sharp marble road metal, we never suffered from a single puncture and rarely had to pump up the tyres. Our car was named “Ichiban” (Japanese for “Number One”), as it bears the registered number S-1.
 
+<img style="width: 400px; height: 500px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/Map.JPG">
+<div style="background-color: white;">A map of the Malay Peninsula created in 1906. It includes the places that Mrs Dare and Miss Hardman visited during their road trip in 1907. <i>Image reproduced from Swettenham, F.A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya. London, New York: John Lane the Bodley Head. (Accession nos.: B29031891K, B29267224A; Microfilm nos.: NL19101, NL3279)</i></div>
+
 #### **Starting from Penang**
 
 Having decided to start our trip from Penang, we planned to ship ourselves and Ichiban by the steamer *Perak* for the settlement. As the *Perak* could not dock at the wharf in Singapore, poor Ichiban had a bad start being transported to the steamer. It happened to be low tide in the Singapore River, so she had to be pushed down three flights of steep stone steps onto a series of uneven planks of different lengths and full of nails, and into a *tongkong* [sic], a Chinese cargo boat, at an angle of 45 degrees. The strain on the brakes and frame was very severe, and how the tyres stood the pinches and drops between the planks was a marvel. Fortunately, Ichiban escaped with only a bent mudguard and a broken oilcap.
@@ -49,9 +52,6 @@ However, we got on the right track at last, and after crossing the Krian river o
 Bagan Serai Resthouse is not at all a bad place with an upper storey, but if it were only kept clean! The rooms were thick with dust and the furniture broken. The beds, however, were clean, and the dinner quite good.
 
 In the morning, we drove back for the milometer – which was quite uninjured but the journey delayed us somewhat – and headed for Taiping 26 miles away. Six miles beyond Bagan Serai, the Kuran river is crossed by a small pontoon boat, which is hauled across the stream by a wire rope. Two planks were laid each side to bridge the intervening space of water from the pontoon to the boat, and we drove over these on board, the planks being carried with us to be utilised in the same manner on the other side.
-
-<img style="width: 400px; height: 500px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/Map.JPG">
-<div style="background-color: white;">A map of the Malay Peninsula created in 1906. It includes the places that Mrs Dare and Miss Hardman visited during their road trip in 1907. <i>Image reproduced from Swettenham, F.A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya. London, New York: John Lane the Bodley Head. (Accession nos.: B29031891K, B29267224A; Microfilm nos.: NL19101, NL3279)</i></div>
 
 From this point, the road began to ascend, and we crossed the Semangol Pass, which at 1,279 ft affords a glorious vista of the wooded Larut Hills and the grand mountain ranges of Perak. The road surface was excellent, and a pleasant spin through flat, open country past many deserted tin mines took us into Taiping by 9.30 am, quite ready for the excellent breakfast provided for us by the kind friends with whom we stayed.
 
