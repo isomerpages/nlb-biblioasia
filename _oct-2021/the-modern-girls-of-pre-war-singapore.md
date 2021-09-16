@@ -146,13 +146,20 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 [^5]: Su Lin Lewis, “Cosmopolitanism and the Modern Girl: A Cross-Cultural Discourse in 1930s Penang”, Modern Asian Studies 43, no. 6 (November 2009): 1385–86. (From JSTOR via NLB’s eResources website)
 
 [^6]: Rachel Leow, “Age as a Category of Gender Analysis: Servant Girls, Modern Girls, and Gender in Southeast Asia,” The Journal of Asian Studies 71, no. 4 (2012): 980. (From JSTOR via NLB’s eResources website)
-Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 5. 
-Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 9. 
-Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 9. 
-Weinbaum et al., eds., “The Modern Girl Around the World,” 28, 30.
-Sarah E. Stevens, “Figuring Modernity: The New Woman and the Modern Girl in Republican China,” NWSA Journal 15, no. 3 (Autumn 2003): 84. (From JSTOR via NLB’s eResources website)
- 《良友》was also distributed in Singapore. See Paul G. Pickowicz, Kuiyi Shen and Yingjin Zhang, eds., Liangyou: Kaleidoscopic Modernity and the Shanghai Global Metropolis, 1926–1945 (Leiden: Brill, 2013), 250, 258. (From National Library, Singapore, Call no. R 302.2320951132 LIA)
-Chua Ai Lin, “Singapore’s ‘Cinema-Age’ of the 1930s: Hollywood and the Shaping of Singapore Modernity,” Inter-Asia Cultural Studies 13, no. 4 (December 2012): 595, 597. (From EBSCOhost via NLB’s eResources website). 
+
+[^7]: Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 5. 
+
+[^8]: Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 9. 
+
+[^9]: Weinbaum et al., eds., “The Modern Girl as Heuristic Device,” 9. 
+
+[^10]: Weinbaum et al., eds., “The Modern Girl Around the World,” 28, 30.
+
+[^11]: Sarah E. Stevens, “Figuring Modernity: The New Woman and the Modern Girl in Republican China,” NWSA Journal 15, no. 3 (Autumn 2003): 84. (From JSTOR via NLB’s eResources website)
+
+[^12]: 《良友》was also distributed in Singapore. See Paul G. Pickowicz, Kuiyi Shen and Yingjin Zhang, eds., Liangyou: Kaleidoscopic Modernity and the Shanghai Global Metropolis, 1926–1945 (Leiden: Brill, 2013), 250, 258. (From National Library, Singapore, Call no. R 302.2320951132 LIA)
+
+[^13]: Chua Ai Lin, “Singapore’s ‘Cinema-Age’ of the 1930s: Hollywood and the Shaping of Singapore Modernity,” Inter-Asia Cultural Studies 13, no. 4 (December 2012): 595, 597. (From EBSCOhost via NLB’s eResources website). 
 Chua, “Singapore’s ‘Cinema-Age’ of the 1930s,” 595. 
 Saw  Swee-Hock, “Population Trends in Singapore, 
 1819–1967,” Journal of Southeast Asian History 10, no. 1, 
