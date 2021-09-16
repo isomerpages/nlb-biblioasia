@@ -45,7 +45,7 @@ Gwee Li Sui. *Myth of the Stone.* Singapore: Epigram Books, 2013. (Call no. RSIN
 
 Huang Zhan Ming *黄展鸣. 漫画同盟* [Manga Doomei]. Singapore: Asia Pacific Books,1997. (From PublicationSG)
 
-Huang Zhan Ming and Huang Shu Qing 黄展鸣 and 黄书庆.* 漫画同盟 98* [Manga Doomei 98]. Singapore: Asia Pacific Books, 1998. (From PublicationSG)
+Huang Zhan Ming and Huang Shu Qing 黄展鸣 and 黄书庆. *漫画同盟 98* [Manga Doomei 98]. Singapore: Asia Pacific Books, 1998. (From PublicationSG)
 
 Lau, Johnny. *Mr Kiasu in Singapore History.* Singapore: Shogakukan Asia, 2019. (Call no. RSING 959.57 LAU)
 
@@ -81,7 +81,7 @@ Tan, James. *Final Resting Place*. Lim Cheng Tju, ed. Singapore: COSH Studio, 20
 
 Wee Tian Beng, Liu Jia Hui and Yeo Hui San, eds. *Our Months Together: A Comics Anthology by 12 Artists*. Singapore: TCZ Studio, 2015. (Call no. RSING 741.595957 OUR)
 
-Wild, Ronald. *蟒蛇党 Python Gang Kumpulan Ular* Sawa. Singapore: n.p., n.d. (From PublicationSG)
+Wild, Ronald. *蟒蛇党* [The Python Gang]. Singapore: n.p., n.d. (From PublicationSG)
 
 Wong, Roger. *The Valiant Pluto-man of Singapore*. Singapore: Fantasy Comics, 1983. (From PublicationSG)
 
