@@ -7,7 +7,7 @@ third_nav_title: Comics Past And Present
 
 Captain V Productions. *The Amazing Adventures of Captain V*. Singapore: Captain V Productions, 1988. 
 
-Chiang, Joseph. *Chronicles of a Circuit Breaker. *Singapore: Epigram Books, 2021. (Call no. RSING 741.595957 CHI)
+Chiang, Joseph. *Chronicles of a Circuit Breaker.* Singapore: Epigram Books, 2021. (Call no. RSING 741.595957 CHI)
 
 Chua, Dave and Koh Hong Teng. *Gone Case Book 1: A Graphic Novel.* Joyce Sim, ed. Singapore: n.p., 2010. (Call no. RSING 741.59597 CHU)
 
@@ -27,7 +27,8 @@ Drewscape. *Moving Forward*. Singapore: National Library Board Singapore, 2014. 
 
 Fong, Otto and Lim Cheng Tju. *Sir Fong's Adventures in Science. Book 5, Quantum Bunny.* Singapore: Ottonium Comics, 2015. (Call no. J SING 539 FON)
 
-Fong, Otto and Tan Peng Kian. *Sir Fong's Adventures in Science. Book 6, Synthetic Biology.* Singapore: Ottonium Comics, 2017. (Call no. JR SING 572.8 FON)  
+Fong, Otto and Tan Peng Kian. *Sir Fong's Adventures in Science. Book 6, Synthetic Biology.* Singapore: Ottonium Comics, 2017. (Call no. JR SING 572.8 FON)
+
 Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *Dim Sum Warriors Volume 1, Enter the Dumpling.* New York: Yumcha Studios, 2012. (Call no. JR SING 741.595957 GOH)
 
 Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *Dim Sum Warriors  Volume 2, Feast of Fury*. New York: Yumcha Studios, 2014. (Call no. JR SING 741.5 GOH)
