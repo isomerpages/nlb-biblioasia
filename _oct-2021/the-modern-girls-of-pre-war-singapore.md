@@ -201,7 +201,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^33]: “Adelina”, “[The Ways of Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310328-1.2.14),” *Malaya Tribune*, 28 March 1931, 3. (From NewspaperSG)
 
-[^34]: “Fascination of Careers for Malayan Chinese Girls,” Straits Times, 2 February 1939, 1. (From NewspaperSG)
+[^34]: “[Fascination of Careers for Malayan Chinese Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390202-1.2.164.2),” *Straits Times*, 2 February 1939, 1. (From NewspaperSG)
 
 [^35]: “Spore’s First Girl Lift Attendant,” Morning Tribune, 1 May 1936, 11. (From NewspaperSG)
 
