@@ -47,7 +47,7 @@ Similarly, the establishment of modern Singapore in the early 19th century had v
 
 As the Dutch held sway over much of Southeast Asia at the time and controlled the seaways through which EIC ships had to pass, Raffles saw the need for the company to secure a port for itself along the India-China trade route.[^8] In 1818, Raffles described the problem in a letter to his superiors in the EIC:
 
-“The Dutch possess the only passes through which ships must sail into the Archipelago, the straits of Sunda and Malacca; and the British have now not an inch of ground to stand upon between the Cape of Good Hope and China, nor a single friendly port at which they can water and obtain refreshment”.[^9]
+“The Dutch possess the only passes through which ships must sail into the Archipelago, the straits of Sunda and Malacca; and the British have now not an inch of ground to stand upon between the Cape of Good Hope and China, nor a single friendly port at which they can water and obtain refreshment."[^9]
 
 Singapore was a rich prize because of its location. Soon after the British arrived, the value of the island’s entrepôt trade rose to almost 40 percent of its total commerce.[^10] Colonial Singapore became inextricably linked by trade – through the free flow of goods, people and ideas – to the larger world.
 
@@ -66,7 +66,7 @@ Today, as one of the world’s most trade-dependent nations, Singapore continues
 
 As mentioned earlier, when Farquhar announced he was moving to Singapore to set up a new British settlement, thousands of Malaccan men left their homes to start a new life here, despite Dutch attempts to stop the mass migration. Among the motley group of traders, peddlers, carpenters, labourers and other workers were a number who quickly rose to become prominent businessmen: in the words of Raffles’ Malay scribe Abdullah bin Abdul Kadir – better known as Munshi Abdullah who published his autobiography, *Hikayat Abdullah* (*Stories of Abdullah*), in 1849 – Malacca fell into a “drought” while Singapore experienced “the rain of plenty”.[^13] In his book, Munshi Abdullah describes the rapid transformations that took place in the first few years of the settlement:
 
-“I am astonished to see how markedly our world is changing. A new world is being created, the old world destroyed. The very jungle becomes a settled district while elsewhere a settlement reverts to jungle. These things show us how the world and its pleasures are but transitory experiences, like something borrowed which has to be returned whenever the owner comes to demand it”.[^14]
+“I am astonished to see how markedly our world is changing. A new world is being created, the old world destroyed. The very jungle becomes a settled district while elsewhere a settlement reverts to jungle. These things show us how the world and its pleasures are but transitory experiences, like something borrowed which has to be returned whenever the owner comes to demand it."[^14]
 
 The men who came with Farquhar were determined to carve out a better life for themselves, seizing the opportunity to start afresh under the British. In the decades that followed, the colony continued to witness the arrival of tens of thousands of Chinese migrants in search of better opportunities: by 1897, there were 200,000 inhabitants in Singapore. Among them was the great-grandfather of the man who was to become the first prime minister of independent Singapore, Lee Kuan Yew.[^15]
 
