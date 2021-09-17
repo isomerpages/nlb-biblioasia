@@ -12,6 +12,9 @@ Have you ever wondered about the origin of the name Eunos while travelling in th
 
 Heritage buffs may be interested to know that Jalan Eunos, Eunos Avenue, Eunos Crescent, Eunos Link, Eunos Road and Eunos Terrace are all named after the prominent Malay pioneer, Mohamed Eunos bin Abdullah.[^1]
 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg)
+<div style="background-color: white;">Possibly the only extant image of Mohamed Eunos Abdullah. Courtesy of National Archives of Singapore.</div>
+
 Regarded as the “Father of Malay journalism” by the community, Eunos Abdullah was the first Malay representative on the Legislative Council of the Straits Settlements, and was also the co-founder and first president of Kesatuan Melayu Singapura (Singapore Malay Union), the first Malay political party in Singapore. 
 
 Not much is known about Eunos Abdullah’s early life. The popular narrative suggests that he was born to a well-to-do family in 1876. It cannot be ascertained if he was born in Singapore or Sumatra in Indonesia.[^2] In any case, his father was a wealthy Minangkabau merchant from Sumatra who could afford to send him to school in Singapore. Eunos Abdullah grew up in Kampong Glam and received his early education at a Malay school there. He then attended the elite Raffles Institution along Bras Basah Road, which had opened in 1837, where the medium of instruction was English. Schooled in both languages and effectively bilingual, this later served him well in his journalistic and political careers.
@@ -68,17 +71,17 @@ Eunos Abdullah and his peers believed that an authentic Malay life was best expe
 
 Following his retirement in 1931 Eunos Abdullah suffered from poor health and passed away at the age of 57 on 12 December 1933 at his home on Desker Road. His body was laid to rest at the Bidadari Cemetery.[^21]
 
-(Top) Bungalow-type dwellings made of wood and zinc in Kampong Melayu. All rights reserved, Singapore Ministry of Culture. (1963). Democratic socialism in action, June 1959 to April 1963 (p. 21). Singapore: Ministry of Culture. 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/malayjournalism/Bungalow_type.jpg)
+<div style="background-color: white;">Bungalow-type dwellings made of wood and zinc in Kampong Melayu. All rights reserved, Singapore Ministry of Culture. (1963). Democratic socialism in action, June 1959 to April 1963 (p. 21). Singapore: Ministry of Culture.</div>
 
-(Above) 1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. All rights reserved, Singapore Survey Department. (1950–75). Singapore street directory and sectional maps (Map no. 60). Singapore: Survey Department.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/malayjournalism/street_direction.jpg)
+<div style="background-color: white;">1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. All rights reserved, Singapore Survey Department. (1950–75). Singapore street directory and sectional maps (Map no. 60). Singapore: Survey Department.</div>
 
 |**Rise and Fall of Utusan Melayu**|
 
 |The Utusan Melayu which Eunos Abdullah edited was initially published three times a week on Tuesday, Thursday and Saturday, but was converted into a daily in 1915 to meet the demand for news of World War I. In 1921, the newspaper was sued by Raja Shariman and Che Tak, assistant commissioners of police of the Federated Malay States, for damages over an alleged libel. At the time of the libel, the newspaper’s circulation had dipped below 280 copies.8 The heavy damages awarded against Utusan Melayu turned out to be financially crippling and it ceased operations as a result. |
 
 |Perhaps as a tribute to Eunos Abdullah, his successor, Ambo Sooloh, along with other Kesatuan Melayu Singapura (KMS) leaders and members such as Yusof Ishak (later the first president of Singapore) and Abdul Rahim Kajai, started another newspaper in 1939. They called it Utusan Melayu but unlike the first ver- sion of Utusan Melayu, this reincarnation was fully owned, financed and managed by Malays.[^9] In 1958, the newspaper relocated its operations to Kuala Lumpur. |
-
-|Possibly the only extant image of Mohamed Eunos Abdullah. Courtesy of National Archives of Singapore.|
 
 |**KMS and the UMNO Connection**|
 
