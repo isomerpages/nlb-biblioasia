@@ -81,7 +81,78 @@ In 1954, the Denis Frères Company, run by the sons of a French mariner who sett
 <p style="font-size:15px;"><b>Timothy Pwee</b> is a Senior Reference Librarian who handles the National Library’s Singapore collection. In a previous incarnation, he worked in a small business education outfit that gave him passing familiarity with the business world and the travails of small start-ups.</p>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
-	
-#### **REFERENCES**
 
 #### **NOTES**
+[^1]: Shephard, S. (2006). Pickled, potted and canned: The story of food preserving (pp. 221–227). London: Headline. (Call no.: 664.02809 SHE)
+
+[^2]: Shephard, 2006, p. 229.
+
+[^3]: Cowell, N.D. (2007, May). More light on the dawn of canning. Food Technology, 61 (5), 40–46.
+
+[^4]: Shephard, 2006, p. 230; Busch, J. (1981). An introduction to the tin can. Historical Archaeology, 15 (1), 95–104. Retrieved from JSTOR via NLB’s eResources website.
+
+[^5]: Collins, J.L. (1949, October–December). History, taxonomy and culture of the pineapple. Economic Botany, 3 (4), 335–359. Retrieved from JSTOR via NLB’s eResources website.
+
+[^6]: Burkill, I.H. (1935). A dictionary of the economic products of the Malay Peninsula (Vol. 1; p. 149). London: Governments of the Straits Settlements and Federated Malay States. (Call no.: RCLOS 634.909595 BUR)
+
+[^7]: A vocabulary of the English, Bugis, and Malay languages: Containing about 2000 words. (1833). Singapore: Mission Press. Retrieved from BookSG. (Call no.: RRARE 499.288.B8 VOC; Microfilm no.: NL5730); Burkill, 1935, vol. 1, p. 149.
+
+[^8]: An Observer. (1844, December 5). Correspondence. The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+
+[^9]: Purvis, J. (1848, May 13). Presentment. to the Hon'ble Her Majesty's Court of Judicature of Prince of Wales Island, Singapore and Malacca. The Straits Times and Singapore Journal of Commerce, 2.
+
+[^10]: Local. (1850, April 12). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+
+[^11]: Untitled: Singapore by day and night, No. II. (1861, January 19). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^12]: Little, R. (1848, September). An essay on coral reefs as the cause of Blákán Mátí fever, and of the fevers in various parts of the East: Part II. The Journal of the Indian Archipelago and Eastern Asia, 2 (9), 571–602. Retrieved from BookSG.
+
+[^13]: Keaughran, T.J. (1879). The Singapore directory for the Straits Settlements 1879 (p. 3). Singapore: Printed by Straits Times Off. Retrieved from BookSG. (Microfilm no.: NL1175)
+
+[^14]: Valtriny, V.C. (1877, February 8). Commercial securities. Straits Times Overland Journal, p. 8. Retrieved from NewspaperSG.
+
+[^15]: Page 3 Advertisements Column 3: Notice. (1874, March 28). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^16]: Death of Mr. J. Bastiani. (1925, January 5). The Straits Times, p. 9. Retrieved from NewspaperSG; Pilon, M., & Weiler, D. (2011). The French in Singapore: An illustrated
+history (1819–today) (p. 86). Singapore: Editions Didier Millet. (Call no.: RSING 305.84105957 PIL)
+
+[^17]: Keaughran, 1879, p. 3.
+
+[^18]: From the Daily Times, 1st July: Melbourne International Exhibition 1880. (1880, July 3). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^19]: The Singapore and Straits Directory for 1881 (p. 6). (1881). Singapore: Printed by Mission Press. Retrieved from BookSG. (Call no.: RRARE 382.09595 STR; Microfilm no.: NL1176)
+
+[^20]: Page 5 Advertisements Column 3: Notice. (1883, January 9). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+[^21]: Page 2 Advertisements Column 3: Notice. (1900, June 9). The Straits Times, p. 2; Page 3 Advertisements Column 4: To be let. (1902, April 3). The Straits Times, p. 3; Page 3 Advertisements Column 3: Powell & Co. (1902, April 9). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^22]: Refers to a quick-growing crop grown between successive plantings of a main crop.
+
+[^23]: Shriver, J.A. (1915). Pineapple-canning industry of the world (pp. 29–30). Washington:
+Department of Commerce. Retrieved from Archive Organisation website.
+
+[^24]: J.de la C. M., & García, H.S. (2005, November 13). Pineapple: Post-harvest operations (p. 15). Retrieved from the Food and Agriculture Organisation of the United Nations website.
+
+[^25]: Page 3 Advertisements Column 4: A. Clouet. (1893, May 25). The Daily Advertiser, p. 3. Retrieved from NewspaperSG.
+
+[^26]: Pilon & Weiler, 2011, p. 88.
+
+[^27]: Singapore trademark action. (1904, February 20). The Straits Times, p. 5; Page 8 Advertisements Column 3: Trade mark. (1904, October 10). The Straits Times, p. 8; Page 8 Advertisements Column 2: A. Clouet. (1910, April 15). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[^28]: Scent for the Crown. (1909, December 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+[^29]: Page 6 Advertisements Column 2: “Triomphe" Sardines. (1917, March 23). The Straits Times, p. 6. Retrievd from NewspaperSG.
+
+[^30]: Page 6 Advertisements Column 2: 100 Xmas hampers. (1916, December 6). The Straits Times, p. 6; Page 6 Advertisements Column 2: For those who want the best. (1934, January 24). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[^31]: Malaya-Borneo: Arts and crafts section of exhibition. (1922, April 5). The Straits Times, p. 9. Retrieved from NewspaprSG.
+
+[^32]: Fisheries Department. (1925, May 7). The Singapore Free Press, p. 7; Untitled. (1936, October 10) The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+[^33]: Burdon, T.W. (1955). The fishing industry of Singapore (p. 23). Singapore: D. Moore. (RCLOS 639.2095957 BUR)
+
+[^34]: Pilon & Weiler, 2011, p. 163.
+
+[^35]: Euromonitor International Ltd. (2015, April 1). Euromonitor sector capsule: Canned/preserved food in Singapore. Retrieved from Factiva via NLB’s eResources website.
+
+[^36]: GlobeNewswire Inc. (2013, October 21). Canned food – A global market overview. Retrieved from Factiva via NLB’s eResources website.
