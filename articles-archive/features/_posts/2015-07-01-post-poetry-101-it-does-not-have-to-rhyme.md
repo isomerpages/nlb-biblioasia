@@ -6,6 +6,8 @@ layout: post
 ---
 #### One of this year’s Read! Fest initiatives is a celebration of Singapore poetry. **Sharon Lim** tells you what to expect. 
 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/poetry/background.jpg)
+
 Launched in 2014, Read! Fest is part of the National Library Board’s (NLB) nationwide reading campaign called Read! Singapore. The festival aims to encourage Singaporeans to re-discover books and the simple pleasures of reading.
 
 To mark Singapore’s golden jubilee, the second edition of Read! Fest celebrates Singapore’s literary arts through a series of events such as Read! Fest Inspiration, Read! Fest Crime, Read! Fest Poetry and Read! Fest Kids.
@@ -26,7 +28,7 @@ In addition, the National Library Building on Victoria Street will also dress th
 
 The poems were curated by NLB’s librarians and given the nod of approval by a selection committee chaired by Professor Edwin Thumboo, director of The Centre for the Arts, National University of Singapore. Included in the selection of poems are humorous, moving, poignant and thought-provoking ones on life, people and places in Singapore. 
 
-Poems such as “இரும�ொழிக் கல்வி” (“Bilingual Education”) by Mu Thangarasan and “Stop at Two” by Megadona shed light on the policies that Singapore adopted during its nation-building years, while “ஜூர�ொங்” (“Jurong”) by Patheral Ilamaran and “துறைமுக நொடு” (“Harbour”) by I. Ulaganathan celebrate Singapore’s economic achievements.
+Poems such as “இருமொழிக் கல்வி” (“Bilingual Education”) by Mu Thangarasan and “Stop at Two” by Megadona shed light on the policies that Singapore adopted during its nation-building years, while “ஜூர�ொங்” (“Jurong”) by Patheral Ilamaran and “துறைமுக நொடு” (“Harbour”) by I. Ulaganathan celebrate Singapore’s economic achievements.
 
 High economic growth and rapid urbanisation in Singapore over the years have resulted in myriad challenges for the city state, including the loss of its natural environment and cultural heritage. Many places and landmarks that older Singaporeans are familiar with are no longer around. Instead, taking over their places are gleaming glass-and-steel skyscrapers that tower over the city.
 
@@ -42,7 +44,7 @@ All is utterly changed, the map useless <br>For navigation in the lost city. ...
 
 <i>An excerpt from “Change Alley” <br>by Boey Kim Cheng</i>
 
-Naturally, Singaporeans’ passion for food and eating also figure prominently in the selection of poems, such as Tse Hao Guang’s “A Big Pile of Bak Chor Mee” (modelled after W. B. Yeats’ “The Lake Isle of Innisfree”) in which he waxes lyrical about Singapore dishes such as chilli crab, chwee kueh, naan, otak and laksa; Snack by Paul Tan; and《榴槤》(“Civet Durian”) by Fang Ran (方然), which describes the great lengths that people go to just for a taste of durian – even to the extent of pawning their used sarongs:
+Naturally, Singaporeans’ passion for food and eating also figure prominently in the selection of poems, such as Tse Hao Guang’s “A Big Pile of Bak Chor Mee” (modelled after W. B. Yeats’ “The Lake Isle of Innisfree”) in which he waxes lyrical about Singapore dishes such as chilli crab, <i>chwee kueh, naan, otak and laksa</i>; Snack by Paul Tan; and《榴槤》(“Civet Durian”) by Fang Ran (方然), which describes the great lengths that people go to just for a taste of durian – even to the extent of pawning their used sarongs:
 
 就算把沙笼典当<br>也要亲亲<br>那黄鲜白嫩的<br>芳泽<br>也想瞻瞻<br>你王者风采的<br>昂扬
 
@@ -72,4 +74,10 @@ A “Poetry on Platforms” talk will be held on 25 July 2015 from 4 to 5 pm at 
 
 |For more information on Read! Singapore, Read! Fest and “Poetry on Platforms”, please visit www.nlb.gov.sg/readsingapore|
 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/poetry/last_re.jpg)
+
 <p style="font-size:15px;"><b>Sharon Lim</b> is a Project Manager with the Exhibitions and Curation department at the National Library of Singapore.</p>
+
+#### **NOTES**
+
+[^1]: Land Transport Authority of Singapore. (n.d.). <i>Land transport statistics in brief 2014</i>. Retrieved from Land Transport Authority website.
