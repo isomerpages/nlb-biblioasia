@@ -18,6 +18,7 @@ Unbeknownst to many, Singapore and the Malay Peninsula, situated as they were at
 #### **Whence Solomon’s Ships Return**
 
 For would-be explorers and adventurers of the sea, the Bible contains lines of tempting mystery. In the Book of Kings, it is written: “And King Solomon made a navy of ships in Eziongeber, which is beside Eloth, on the shore of the Red Sea, in the land of Edom. And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon. And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to King Solomon.”[^2] But gold was not all that Ophir produced; the ships of Solomon also brought back other commodities: silver, ivory, apes and peacocks, algum-wood and precious stones.[^3]  
+
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Solomon%20Receiving.jpg)
 <div style="background-color: white;">“Solomon Receiving the Queen of Sheba” by Peter Paul Rubens, 1620. Solomon is seen receiving gold, spices and precious stones, similar to the ships from Ophir. </i> by Nicolas Sanson, 1652. <i>Image from Courtauld Institute.</i></div>
 
