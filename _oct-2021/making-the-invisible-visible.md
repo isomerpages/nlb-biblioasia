@@ -93,3 +93,18 @@ It was an effort that fully stretched Machado’s professional and technical ski
 In the end though, all that effort paid off. Machado said she was “very moved by the [facial] expression of the statue” and she was pleased to be able to “bring it back to its original condition”. [^10]
 
 Looking back, Machado said she was extremely proud of the work she had been able to accomplish on this project, “to have done such a big number of artworks by myself in such a short amount of time”.[^11]
+
+#### St Agnes and St Roch 
+
+Of all the statues Machado restored, her favourite is that of St Agnes of Rome, a patron saint of virgins, girls and chastity. St Agnes was merely a young girl of 12 or 13 when she was martyred during a wave of persecutions in 303 CE unleashed by the Roman emperor Diocletian. The statue depicts a young woman with long, flowing tresses, wearing a Roman tunic with a palla (long shawl) draped over it. In her left arm, she is cradling a lamb. 
+
+Unfortunately, the old paint job had given the statue a flat and lifeless appearance. After Machado removed the old paint and restored the statue to its original appearance, the lavishly patterned ivory white tunic and emerald green palla decorated with an intricate gold motif became visible. The headband was festooned with dusty-vermillion roses, which complemented the soft tones of rose pink on her cheeks. 
+
+Machado’s other favourite statue is St Roch, a male saint canonised in the 16th century. Among other things, St Roch is a patron saint of dogs, invalids, the falsely accused and bachelors. Machado “love[d] all the decorative elements of its clothing” and being an animal lover, the inclusion of a dog as part of the statue delighted her. She felt that it was “one of the most beautiful of the male [statues]” she had restored.[^12]
+
+
+#### The Way of Truth, Beauty and Goodness 
+
+As the restoration of St Joseph’s Church approaches completion in late 2021, after almost three years, its full architectural splendour will be made visible with its original flooring reinstated, new lighting and paintwork. The statues will once again take up their places in niches that line the nave and transept, their finery revealed by soft illumination. 
+
+Reverend Father Joe Lopez Carpio, the current rector, is pleased with the outcome of Machado’s hard work: “The statue restoration has been executed professionally alongside the building restoration. The statues no longer have any cracks or other physical damage. Their original colours have been restored, together with their facial expressions, which make them come alive. We are now working to perfect the illumination for the statues so that their restored beauty can be seen by every visitor to the church.”[^13] In short, to encounter the invisible that has been made visible.[^14]
