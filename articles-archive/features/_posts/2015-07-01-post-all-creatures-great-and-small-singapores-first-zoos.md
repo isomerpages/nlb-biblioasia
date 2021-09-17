@@ -194,9 +194,9 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^37]: Lee, T.S. (1953, April 27). [You can buy or a mongo a mouse— se FROM MR. de SOUZA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19530427-1.2.62). <i>The Singapore Free Press</i>, p. 8. Retrieved from NewspaperSG.
 
-[^38]: The Straits Times, 3 Jun 2014.
+[^38]: <i>The Straits Times</i>, 3 Jun 2014.
 
-[^39]: [The men behind the project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730129-1.2.60). (1973, January 29). The Straits Times, p. 14. Retrieved from NewspaperSG; Singapore Zoological Gardens. (1973). *[Official opening by Dr. Goh Keng Swee, Deputy Prime Minister and Minister of Defence Wednesday 27th June 1973: Souvenir programme](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981574)* (pp. 6, 8). Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SIN)
+[^39]: [The men behind the project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730129-1.2.60). (1973, January 29). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG; Singapore Zoological Gardens. (1973). *[Official opening by Dr. Goh Keng Swee, Deputy Prime Minister and Minister of Defence Wednesday 27th June 1973: Souvenir programme](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981574)* (pp. 6, 8). Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SIN)
 
 [^40]: [Singapore Zoological Gardens](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981574), 1973, p. 8.
 
@@ -206,26 +206,26 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^43]: [Singapore Zoological Gardens](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981574),1973, pp. 7–8; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730129-1.2.60)*, 29 Jan 1973, p. 14; [Govt's $5 mil firm to set up a zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710424-1.2.68). (1971, April 24). The Straits Times, p. 11. Retrieved from NewspaperSG.
 
-[^44]: [De Alwis – man who planned the Mandai zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730708-1.2.16.2). (1973, July 8). The Straits Times, p. 4; Fong, L. (1971, April 28). [Animals at zoological gardens will not be caged](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710428-1.2.115). The Straits Times, p. 17. Retrieved from NewspaperSG.
+[^44]: [De Alwis – man who planned the Mandai zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730708-1.2.16.2). (1973, July 8). <i>The Straits Times</i>, p. 4; Fong, L. (1971, April 28). [Animals at zoological gardens will not be caged](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710428-1.2.115). <i>The Straits Times</i>, p. 17. Retrieved from NewspaperSG.
 
-[^45]: Sharp, I. (1994). *[The first 21 years: The Singapore Zoological Gardens story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7059289)* (pp. 12, 20–21). Singapore: Singapore Zoological Gardens. (Call no.: RSING q590.7445957 SHA); Campbell, W. (1973, January 29). [Singapore Zoological Gardens take shape](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730129-1.2.61). The Straits Times, p. 14. Retrieved from NewspaperSG.
+[^45]: Sharp, I. (1994). *[The first 21 years: The Singapore Zoological Gardens story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7059289)* (pp. 12, 20–21). Singapore: Singapore Zoological Gardens. (Call no.: RSING q590.7445957 SHA); Campbell, W. (1973, January 29). [Singapore Zoological Gardens take shape](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730129-1.2.61). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
 [^46]: [Sharp](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7059289), 1994, p. 21. 
 
-[^47]: [Meet the keepers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730201-1.2.102). (1973, February 1). The Straits Times, p. 14. Retrieved from NewspaperSG.
+[^47]: [Meet the keepers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730201-1.2.102). (1973, February 1). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
 [^48]: [Sharp](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7059289), 1994, p. 29.
 
 [^49]: [Sharp](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7059289), 1994, p. 29; Singapore Zoological Gardens. (1975). “Mr. Million’s lucky day”. *[Zoo-m](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042648)*, 3, 3. 
 
-[^50]: [Zoo's millionth visitor walks in to a jumbo surprise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871207-1.2.9). (1987, December 7). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^50]: [Zoo's millionth visitor walks in to a jumbo surprise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871207-1.2.9). (1987, December 7). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
 [^51]: [Sharp](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7059289), 1994, pp. 90–101.
 
-[^52]: Lee, J. (1998, November 8). [Zoo unveils the Fragile Forest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19981108-1.2.36.11). The Straits Times, p. 32. Retrieved from NewspaperSG.
+[^52]: Lee, J. (1998, November 8). [Zoo unveils the Fragile Forest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19981108-1.2.36.11). <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
 
-[^53]: [Wild Africa opens at Singapore Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910430-1.2.34.15.2). (1991, April 30). The Straits Times, p. 24; [Zoo's Primate Kingdom features eight new species of monkeys and lemurs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910623-1.2.24.12). (1991, June 23). The Straits Times, p. 16; Chia, E. (2001, December 1). [Ethiopia in the zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20011201-1.2.40.1). Today, p. 27. Retrieved from NewspaperSG.
+[^53]: [Wild Africa opens at Singapore Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910430-1.2.34.15.2). (1991, April 30). <i>The Straits Times</i>, p. 24; [Zoo's Primate Kingdom features eight new species of monkeys and lemurs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910623-1.2.24.12). (1991, June 23). <i>The Straits Times</i>, p. 16; Chia, E. (2001, December 1). [Ethiopia in the zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20011201-1.2.40.1). <i>Today</i>, p. 27. Retrieved from NewspaperSG.
 
 [^54]: [Sharp](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7059289), 1994, p. 85. 
 
-[^55]: Mok, F.F. (2015, January 15). STB, Temasek to lead Mandai zoo revamp. My Paper. Retrieved from AsiaOne website.
+[^55]: Mok, F.F. (2015, January 15). STB, Temasek to lead Mandai zoo revamp. <i>My Paper</i>. Retrieved from AsiaOne website.
