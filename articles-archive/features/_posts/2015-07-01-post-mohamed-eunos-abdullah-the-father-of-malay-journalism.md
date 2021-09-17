@@ -92,7 +92,7 @@ Following his retirement in 1931 Eunos Abdullah suffered from poor health and pa
 
 Adlina Maulod. (2010). *[Mohamed Eunos bin Abdullah](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1201_2010-05-03.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Chia, Y.J., & Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1088_2007-06-12.html). Retrieved from Singapore Infopedia, National Library Singapore.
+Chia, Y.J., & Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1088_2007-06-12.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 Cornelius-Takaham, V. (2016). *[Jalan Eunos](https://eresources.nlb.gov.sg/infopedia/articles/SIP_738_2005-01-24.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
@@ -110,7 +110,7 @@ Kesatuan Melayu Singapura. (1999). *[Ensiklopedia sejarah dan kebudayaan Melayu]
 
 Milner, A.C. (2002). *[The invention of politics in colonial Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10408470)*. New York: Cambridge University Press. (Call no.: RSEA 959.5 MIL)
 
-National Archives (Singapore). (1986). *[Geylang Serai: Down memory lane: Kenangan abadi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4680212). Singapore: Heinemann Asia. (Call no.: RSING 779.995957 GEY)
+National Archives (Singapore). (1986). *[Geylang Serai: Down memory lane: Kenangan abadi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4680212)*. Singapore: Heinemann Asia. (Call no.: RSING 779.995957 GEY)
 
 National Library Board. (2014). *[Singapore Malay Union is formed](https://eresources.nlb.gov.sg/history/events/66c886d1-943a-4219-98df-1ae7f081afb1)*. Retrieved from HistorySG website.
 
@@ -120,7 +120,7 @@ National Library Board. (2015, March). *[Mohd Eunos bin Abdullah is appointed Mu
 
 Roff, W.R. (1994). *[The origins of Malay nationalism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266)*. Kuala Lumpur: Oxford University Press. (Call no.: RSING 320.54 ROF)
 
-Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
+Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
 
 [Settlement a failure](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330516-1.2.45). (1933, May 16). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
 
