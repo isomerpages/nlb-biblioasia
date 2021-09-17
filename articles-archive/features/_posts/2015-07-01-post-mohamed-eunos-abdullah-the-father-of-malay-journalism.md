@@ -131,45 +131,45 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 [Utosan Malayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19071109-1.2.22). (1907, November 9). Eastern Daily Mail and Straits Morning Advertiser, p. 7. Retrieved from NewspaperSG.
 
 #### **NOTES**
-[^1]: Savage, V.R., & Yeoh, B.S.A. (2013). Singapore street names: A study of toponymics (p. 120). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
+[^1]: Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)*(p. 120). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
 
-[^2]: Adlina Maulod. (2010). Mohamed Eunos bin Abdullah. Retrieved from Singapore Infopedia, National Library Singapore.
+[^2]: Adlina Maulod. (2010). *[Mohamed Eunos bin Abdullah](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1201_2010-05-03.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-[^3]: Death of Inche Eunos bin Abdullah. (1933, December 13). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
+[^3]: [Death of Inche Eunos bin Abdullah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19331213-1.2.49). (1933, December 13). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
 
-[^4]: Roff, W.R. (1994). The origins of Malay nationalism (pp. 159, 161). Kuala Lumpur: Oxford University Press. (Call no.: RSING 320.54 ROF)
+[^4]: Roff, W.R. (1994). *[The origins of Malay nationalism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266)* (pp. 159, 161). Kuala Lumpur: Oxford University Press. (Call no.: RSING 320.54 ROF)
 
-[^5]: Utosan Malayu. (1907, November 9). Eastern Daily Mail and Straits Morning Advertiser, p. 7. Retrieved from NewspaperSG.
+[^5]: [Utosan Malayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19071109-1.2.22). (1907, November 9). *Eastern Daily Mail and Straits Morning Advertiser*, p. 7. Retrieved from NewspaperSG.
 
-[^6]: Milner, A.C. (2002). The invention of politics in colonial Malaya (pp. 98–107). New York: Cambridge University Press. (Call no.: RSEA 959.5 MIL); Frost, M.R., & Balasingamchow, Y. (2009). Singapore: A biography (pp. 195–198). Singapore: Editions Didier Millet: National
+[^6]: Milner, A.C. (2002). *[The invention of politics in colonial Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10408470)* (pp. 98–107). New York: Cambridge University Press. (Call no.: RSEA 959.5 MIL); Frost, M.R., & Balasingamchow, Y. (2009). *[Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)* (pp. 195–198). Singapore: Editions Didier Millet: National
 Museum of Singapore. (Call no.: RSING 959.57 FRO)
 
-[^7]: Roff, 1994, p. 159.
+[^7]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 159.
 
-[^8]: National Library Board. (2014). First issue of Utusan Malayu (1907–1921) is published. Retrieved from HistorySG website.
+[^8]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921) is published](https://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)*. Retrieved from HistorySG website.
 
-[^9]: Chia, Y.J., & Nor-Afidah Abd Rahman. (2016). Utusan Melayu. Retrieved from Singapore Infopedia, National Library Singapore.
+[^9]: Chia, Y.J., & Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1088_2007-06-12.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-[^10]: National Library Board. (2015, March). Mohd Eunos bin Abdullah is appointed Municipal Commissioner. Retrieved from HistorySG website.
+[^10]: National Library Board. (2015, March). *[Mohd Eunos bin Abdullah is appointed Municipal Commissioner](https://eresources.nlb.gov.sg/history/events/4eaa79dd-74ae-43b3-9ffa-d8953e842b3d)*. Retrieved from HistorySG website.
 
-[^11]: Roff, 1994, p. 189.
+[^11]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 189.
 
-[^12]: National Library Board. (2014). Singapore Malay Union is formed. Retrieved from HistorySG website.
+[^12]: National Library Board. (2014). *[Singapore Malay Union is formed](https://eresources.nlb.gov.sg/history/events/66c886d1-943a-4219-98df-1ae7f081afb1)*. Retrieved from HistorySG website.
 
-[^13]: Roff, 1994, pp. 190–191.
+[^13]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, pp. 190–191.
 
-[^14]: Roff, 1994, p. 195.
+[^14]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 195.
 
-[^15]: Kesatuan Melayu Singapura. (1999). Ensiklopedia sejarah dan kebudayaan Melayu (p. 1186). Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia. (Call no.: Malay R 959.003 ENS)
+[^15]: Kesatuan Melayu Singapura. (1999). *[Ensiklopedia sejarah dan kebudayaan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9532832)* (p. 1186). Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia. (Call no.: Malay R 959.003 ENS)
 
-[^16]: Roff, 1994, p. 193.
+[^16]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 193.
 
-[^17]: Matters of Muslim interest. (1931, September 22). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
+[^17]: [Matters of Muslim interest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310922-1.2.43). (1931, September 22). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
 
-[^18]: Settlement a failure. (1933, May 16). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
+[^18]: [Settlement a failure](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330516-1.2.45). (1933, May 16). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
 
-[^19]: Cornelius-Takaham, V. (2016). Jalan Eunos. Retrieved from Singapore Infopedia, National Library Singapore.
+[^19]: Cornelius-Takaham, V. (2016). *[Jalan Eunos](https://eresources.nlb.gov.sg/infopedia/articles/SIP_738_2005-01-24.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-[^20]: Kahn, J.S. (2006). Other Malays: Nationalism and cosmopolitanism in the modern Malay world (pp. 10–14). Singapore: Asian Studies Association of Australia in association with Singapore University Press and NIAS Press. (Call no.: RSING 307.76209595 KAH)
+[^20]: Kahn, J.S. (2006). *[Other Malays: Nationalism and cosmopolitanism in the modern Malay world](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12728340)* (pp. 10–14). Singapore: Asian Studies Association of Australia in association with Singapore University Press and NIAS Press. (Call no.: RSING 307.76209595 KAH)
 
-[^21]: Inche Eunos. (1933, December 14). The Singapore Free Press, p. 9. Retrieved from NewspaperSG.
+[^21]: [Inche Eunos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19331214-1.2.87). (1933, December 14). The Singapore Free Press, p. 9. Retrieved from NewspaperSG.
