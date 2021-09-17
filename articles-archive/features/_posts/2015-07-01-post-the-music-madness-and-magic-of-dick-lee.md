@@ -4,7 +4,7 @@ date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/dick-lee
 layout: post
 ---
-#### The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. **Joy loh** profiles the enfant terrible of entertainment.
+#### The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. **Joy Loh** profiles the enfant terrible of entertainment.
 
 <i>What drove me to do what I did – it was to find myself and to make my statement as a Peranakan Chinese Singapore citizen of Asia and of the world”.</i>
 
