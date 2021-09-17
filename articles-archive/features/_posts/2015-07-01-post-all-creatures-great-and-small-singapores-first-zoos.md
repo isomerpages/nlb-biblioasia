@@ -4,7 +4,6 @@ date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/sg-first-zoo
 layout: post
 ---
-
 #### Few people are aware that the island’s first public zoo was set up in 1875. **Lim Tin Seng** traces the history of wildlife parks in Singapore.
 
 The Singapore Zoo, located on a 26-hectare promontory in Upper Seletar Reservoir, is considered as one of the finest of its kind in the world. Home to over 2,800 animals from more than 300 species, the zoo has received a string of awards and accolades over the years. The zoo is part of a cluster of wildlife attractions in the vicinity, including the Night Safari and the River Safari, and serves as a centre for research in the areas of wildlife conservation, wildlife rescue and rehabilitation.[^1] The Singapore Zoo was set up in 1973, but unbeknownst to many, smaller animal enclosures have existed on the island since colonial times.
@@ -88,5 +87,35 @@ The most recent jewel in the wildlife crown is the 12-hectare River Safari, Asia
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
+
+Abdullah bin Abdul Kadir. (2009). *[The hikayat Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908)*. Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.9 ABD)
+
+Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 54 (2) (240), 1–73. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Bastin J. (1990). Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 63 (2) (259), 1–25. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Bastin, J., et. al. (2010). *[Natural history drawings: The complete William Farquhar collection, Malay Peninsula, 1803–1818](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600)*. Singapore: Editions Didier Millet. (Call no.: RSING 759.959 NAT)
+
+Burkill, I.H. (1918, August 12). The establishment of the Botanic Gardens, Singapore. *[Gardens’ bulletin, Straits Settlements](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181)*, 2 (2), 55–72.
+
+Burkill, I.H. (1918, November 11). The second phase in the history of the Botanic Gardens, Singapore. *[Gardens’ bulletin, Straits Settlements](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181)*, 2 (3), 93–108.
+
+Raffles, S. (1991). *[Memoir of the life and public services of Sir Thomas Stamford Raffles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277)*. Singapore: Oxford University Press. (Call no.: RSING 959.57021092 RAF)
+
+Ridley, H.N. (1906, December). The menagerie of the Botanic Gardens. <i>Journal of the Straits Branch of the Royal Asiatic Society</i>, 46, 133–194. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Sharp, I. (1994). *[The first 21 years: The Singapore Zoological Gardens story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7059289)*. Singapore: Singapore Zoological Gardens. (Call no.: RSING q590.7445957 SHA)
+
+Singapore Zoological Gardens. (1973). *[Official opening by Dr. Goh Keng Swee, Deputy Prime Minister and Minister of Defence Wednesday 27th June 1973: Souvenir programme](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981574)*. Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SIN)
+
+Singapore Zoological Gardens. (1973). *[Official guidebook](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181590)*. Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SIN)
+
+Singapore Zoological Gardens. (1986). *[The Singapore Zoological Gardens: A tropical garden for animals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4599956)*. Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SIN)
+
+Singh, K. (2014). *[Naked ape, naked boss: Bernard Harrison: The man behind the Singapore Zoo & the world's first Night Safari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200180093)*. Singapore: Marshall Cavendish. (Call no.: RSING 590.735957092 SIN)
+
+Song, O.S. (1984). *[One hundred years' history of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
+
+Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/printheritage/detail/f605bb37-0e57-471e-bc20-0a8dc05cb3c9.aspx)*. Singapore: Alfred Charles Willis. Retrieved from BookSG. (Call no.: RRARE 959.57 WIL; Microfilm no.: NL9039)
 
 #### **NOTES**
