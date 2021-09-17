@@ -130,21 +130,19 @@ Starting with Jin Junhong in the 1990s, table tennis – boosted by the import o
 ![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Joseph_Schooling.jpg)
 <div style="background-color: white;">2014 Asian Games gold medallist Joseph Schooling is arguably the most successful product among our US-based swimmers. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul. </div>
 
-#### **Paralympian Winners**
+|**Paralympian Winners**|
 
-On 15 September 2008, the Singapore national anthem was played inside an Olympic arena for the first time. Paralympian Yip Pin Xiu, afflicted by muscular dystrophy since birth, had battled against the odds to win sporting success. Competing in the Beijing Paralympics, she won gold in the 50-metre backstroke in a time of 58.75 seconds.
+|On 15 September 2008, the Singapore national anthem was played inside an Olympic arena for the first time. Paralympian Yip Pin Xiu, afflicted by muscular dystrophy since birth, had battled against the odds to win sporting success. Competing in the Beijing Paralympics, she won gold in the 50-metre backstroke in a time of 58.75 seconds.|
 
-Equestrian Laurentia Tan developed cerebral palsy and profound  deafness after birth. However, that  did not stop the gutsy sportswoman  from winning a silver and a bronze at the London Paralympics in 2012. For her achievements, Tan became the  first disabled athlete to win The Straits Times Athlete of the Year award in 2013.
+|Equestrian Laurentia Tan developed cerebral palsy and profound  deafness after birth. However, that  did not stop the gutsy sportswoman  from winning a silver and a bronze at the London Paralympics in 2012. For her achievements, Tan became the  first disabled athlete to win The Straits Times Athlete of the Year award in 2013.|
 
-Together with swimmer Theresa Goh, who suffers from spina bifida  but has been making waves with her consistent performances at swimming championships over the years, Yip and Tan have made a compelling statement for Paralympians in Singapore. Like  able-bodied athletes, their quest for  sporting success is serious business. It demands no less – or perhaps even more – in terms of hard work, devotion, commitment and sacrifice. 
+|Together with swimmer Theresa Goh, who suffers from spina bifida  but has been making waves with her consistent performances at swimming championships over the years, Yip and Tan have made a compelling statement for Paralympians in Singapore. Like  able-bodied athletes, their quest for  sporting success is serious business. It demands no less – or perhaps even more – in terms of hard work, devotion, commitment and sacrifice.| 
 
-The fact that Singapore has  embraced the sporting achievements of its Paralympians with as much pride as those of its able-bodied athletes is perhaps an indication of the society it has become. Significantly, when Tan  won The Straits Times Athlete of the Year award, she edged out some big  names in Singapore sports, including table tennis star Feng Tianwei and world champion bowler Shayna Ng.
+|The fact that Singapore has  embraced the sporting achievements of its Paralympians with as much pride as those of its able-bodied athletes is perhaps an indication of the society it has become. Significantly, when Tan  won The Straits Times Athlete of the Year award, she edged out some big  names in Singapore sports, including table tennis star Feng Tianwei and world champion bowler Shayna Ng.|
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Laurentia_Tan.jpg)
-<div style="background-color: white;">Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. <i>Photo courtesy of Sport Singapore.</i></div>
+|<img src="/images/vol-11-issue-2/sgsportgreat/Laurentia_Tan.jpg">Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. <i>Photo courtesy of Sport Singapore.</i></div>|
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/sgsportgreat/Yip_Pin_Xiu.jpg)
-<div style="background-color: white;">Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. <i>Photo courtesy of Sport Singapore.</i></div>
+|<img src="/images/vol-11-issue-2/sgsportgreat/Yip_Pin_Xiu.jpg">Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. <i>Photo courtesy of Sport Singapore.</i></div>|
 
 <p style="font-size:15px;">A former journalist with <i>The Straits Times</i>, <b>Chua Chong Jin</b> teaches communications at Nanyang Business School. Educated at the National University of Singapore and Cambridge University, he has written and edited various books, including <i>50est: Stirring Stories For The Singapore Soul</i> for the Singapore National Olympic Council.</p>
 
