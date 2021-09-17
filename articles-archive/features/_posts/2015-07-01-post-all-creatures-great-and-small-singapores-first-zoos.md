@@ -154,45 +154,45 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^17]: Burkill, Nov 1918, p. 97.
 
-[^18]: Ridley, H.N. (1906, December). The menagerie of the Botanic Gardens. Journal of the Straits Branch of the Royal Asiatic Society, 46, 133–194. p. 133. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^18]: Ridley, H.N. (1906, December). The menagerie of the Botanic Gardens. <i>Journal of the Straits Branch of the Royal Asiatic Society</i>, 46, 133–194. p. 133. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^19]: Ridley, Dec 1906, pp. 134–136.
 
-[^20]: Yuen, S. (2012, July 15). [Our forgotten zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20120715-1.2.16.1). The New Paper, pp. 18–19. Retrieved from NewspaperSG.
+[^20]: Yuen, S. (2012, July 15). [Our forgotten zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20120715-1.2.16.1). <i>The New Paper</i>, pp. 18–19. Retrieved from NewspaperSG.
 
-[^21]: Wong, L.Q. (2013, October 29). Singapore’s first zoo. Mnemozine, 5, 33. Retrieved from National University of Singapore, Department of History website.
+[^21]: Wong, L.Q. (2013, October 29). Singapore’s first zoo. <i>Mnemozine</i>, 5, 33. Retrieved from National University of Singapore, Department of History website.
 
-[^22]: Zaccheus, M. (2013, April 6). [First zoo in Singapore rated 'wonderful' by Einstein](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130406-1.2.54.15). The Straits Times, p. 18. Retrieved from NewspaperSG.
+[^22]: Zaccheus, M. (2013, April 6). [First zoo in Singapore rated 'wonderful' by Einstein](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130406-1.2.54.15). <i>The Straits Times</i>, p. 18. Retrieved from NewspaperSG.
 
 [^23]: Wong, 29 Oct 2013, p. 33.
 
-[^24]: [Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300317-1.2.76). (1930, March 17). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^24]: [Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300317-1.2.76). (1930, March 17). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-[^25]: [Animals arriving few by few](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361109-1.2.78). (1936, November 9). The Straits Times, p. 12; [These "Moos" make zoo news](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370704-1.2.26). (1937, July 4). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^25]: [Animals arriving few by few](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361109-1.2.78). (1936, November 9). <i>The Straits Times</i>, p. 12; [These "Moos" make zoo news](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370704-1.2.26). (1937, July 4). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
 [^26]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300317-1.2.76)*, 17 March 1930, p. 12.
 
-[^27]: [“Noah's Ark” arrives in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350805-1.2.55). (1935, August 5). The Singapore Free Press, p. 9. Retrieved from NewspaperSG.
+[^27]: [“Noah's Ark” arrives in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350805-1.2.55). (1935, August 5). <i>The Singapore Free Press</i>, p. 9. Retrieved from NewspaperSG.
 
-[^28]: [Chimp for Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370524-1.2.85). (1937, May 24). The Straits Times, p. 13; [Polar bears in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370313-1.2.31). (1937, March 13). The Singapore Free Press, p. 3; [Monkey-eating eagle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371209-1.2.82). (1937, December 9). The Straits Times, p. 13. Retrieved from NewspaperSG.
+[^28]: [Chimp for Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370524-1.2.85). (1937, May 24). <i>The Straits Times</i>, p. 13; [Polar bears in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370313-1.2.31). (1937, March 13). <i>The Singapore Free Press</i>, p. 3; [Monkey-eating eagle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371209-1.2.82). (1937, December 9). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
-[^29]: [More animals for Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370226-1.2.109). (1937, February 26). The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^29]: [More animals for Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370226-1.2.109). (1937, February 26). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
 
 [^30]: Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/printheritage/detail/f605bb37-0e57-471e-bc20-0a8dc05cb3c9.aspx)* (pp. 118–119). Singapore: Alfred Charles Willis. Retrieved from BookSG. (Call no.: RRARE 959.57 WIL; Microfilm no.: NL9039)
 
-[^31]: [Scenes at Singapore's Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380925-1.2.245). (1938, September 25). The Straits Times, p. 32. Retrieved from NewspaperSG.
+[^31]: [Scenes at Singapore's Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380925-1.2.245). (1938, September 25). <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
 
 [^32]: Pitt, K.W. (1985, September 16). *[Oral history interview with Mohinder Singh](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f431d9a8-115d-11e3-83d5-0050568939ad-OHC000546_058/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=7)* [Transcript of MP3 recording no. 000546/65/58, p. 583]. Retrieved from National Archives of Singapore website.
 
 [^33]: Braddell, R. (1934). *[The lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)* (pp. 124–125). London: Methuen & Co. (Call no.: RRARE 959.57 BRA; Microfilm: NL25437; Accession no.: B29033830F)
 
-[^34]: [S’pore zoo starts from scratch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461020-1.2.61). (1946, October 20). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^34]: [S’pore zoo starts from scratch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461020-1.2.61). (1946, October 20). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
 [^35]: Wong, 29 Oct 2013, p. 33.
 
-[^36]: Zaccheus, M. (2014, June 3). We brought a zoo: Singapore's small havens for wild animals. The Straits Times. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^36]: Zaccheus, M. (2014, June 3). We brought a zoo: Singapore's small havens for wild animals. <i>The Straits Times</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^37]: Lee, T.S. (1953, April 27). [You can buy or a mongo a mouse— se FROM MR. de SOUZA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19530427-1.2.62). The Singapore Free Press, p. 8. Retrieved from NewspaperSG.
+[^37]: Lee, T.S. (1953, April 27). [You can buy or a mongo a mouse— se FROM MR. de SOUZA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19530427-1.2.62). <i>The Singapore Free Press</i>, p. 8. Retrieved from NewspaperSG.
 
 [^38]: The Straits Times, 3 Jun 2014.
 
