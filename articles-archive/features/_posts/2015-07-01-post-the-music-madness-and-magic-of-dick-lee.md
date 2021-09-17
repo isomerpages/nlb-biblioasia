@@ -74,9 +74,9 @@ Album cover of <i>The Mad Chinaman</i>, Dick Lee's ultimate Singaporean album of
 
 Lee’s tenacity in pushing for a Singaporean identity finally paid off in 1989 with the release of The Mad Chinaman album by Warner Music. One of the reasons for the success of this album was that it dovetailed with the national songs campaign that had been launched by the government in the 1980s. Community singing was advocated as a means for Singaporeans to develop a sense of belonging to the nation and foster solidarity among citizens. 
 
-Many of the catchy songs commis- sioned for the campaign and timed to be released for National Day – including “Stand Up for Singapore” (1984), “Count on Me, Singapore”(1986) and “We are Singapore” (1987) – struck a chord with people. The ground was receptive when The Mad Chi- naman was released and Lee found a new audience that happily embraced his work. The Mad Chinaman featured songs that were inspired by Lee’s environment and his musical roots, and critics regard this as the ultimate Singaporean album of ethnic pop. 
+Many of the catchy songs commissioned for the campaign and timed to be released for National Day – including “Stand Up for Singapore” (1984), “Count on Me, Singapore”(1986) and “We are Singapore” (1987) – struck a chord with people. The ground was receptive when The Mad Chi- naman was released and Lee found a new audience that happily embraced his work. The Mad Chinaman featured songs that were inspired by Lee’s environment and his musical roots, and critics regard this as the ultimate Singaporean album of ethnic pop. 
 
-While the title track, “The Mad China- man”, was inspired by the Tiananmen Square massacre of 1989, Lee was moved to explore his Singaporean roots, acknowledging his confused identity in the lyrics of the song.
+While the title track, “The Mad Chinaman”, was inspired by the Tiananmen Square massacre of 1989, Lee was moved to explore his Singaporean roots, acknowledging his confused identity in the lyrics of the song.
 
 The Mad Chinaman relies
 On the east and west sides of his life
