@@ -25,3 +25,5 @@ Our guest columnist in this issue is the best-selling author and noted thinker P
 While we celebrate Team Singapore’s outstanding performance at the SEA Games and the nation’s Golden Jubilee, let us not forget the victims of the tragic Sabah earthquake. The National Library Board extends our sincere condolences to the affected families.
 
 <b>Ms Tay Ai Cheng</b><br>Deputy Chief Executive <br>National Library Board
+
+<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
