@@ -47,7 +47,7 @@ Note: When accessing older issues, you may be directed to an archived version.
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 12-1 cover](/images/covers/ba12-1.jpg) [Apr–Jun 2016](/vol-12/issue-1/apr-jun-2016/)<br>[Apr–Jun 2016 (PDF)](/files/pdf/Biblioasia APR-JUN 2016.pdf) | ![BiblioAsia 12-2 cover](/images/covers/ba12-2.jpg) [Jul–Sep 2016](/vol-12/issue-2/jul-sep-2016/)<br>[Jul–Sep 2016 (PDF)](/files/pdf/Biblioasia JUL-SEP 2016.pdf) |
-| ![BiblioAsia 12-3 cover](/images/covers/ba12-3.jpg) [Oct–Dec 2016](/vol-12/issue-3/oct-dec-2016/)<br>[Oct–Dec 2016 (PDF)](/files/pdf/Biblioasia Oct-Dec 2016.pdf) | ![BiblioAsia 12-4 cover](/images/covers/ba12-4.jpg) [Jan–Mar 2017](/vol-12/issue-4/jan-mar-2017/) |
+| ![BiblioAsia 12-3 cover](/images/covers/ba12-3.jpg) [Oct–Dec 2016](/vol-12/issue-3/oct-dec-2016/)<br>[Oct–Dec 2016 (PDF)](/files/pdf/Biblioasia Oct-Dec 2016.pdf) | ![BiblioAsia 12-4 cover](/images/covers/ba12-4.jpg) [Jan–Mar 2017](/vol-12/issue-4/jan-mar-2017/)<br>[Jan–Mar 2017 (PDF)](/files/pdf/BiblioAsia Jan 2017.pdf) |
 
 ####  Volume 11
 
