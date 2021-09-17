@@ -97,62 +97,62 @@ In 1954, the Denis Frères Company, run by the sons of a French mariner who sett
 
 [^7]: *[A vocabulary of the English, Bugis, and Malay languages: Containing about 2000 words](https://eresources.nlb.gov.sg/printheritage/detail/b3f825d4-091a-4546-9bec-e1bb88da4268.aspx)*. (1833). Singapore: Mission Press. Retrieved from BookSG. (Call no.: RRARE 499.288.B8 VOC; Microfilm no.: NL5730); [Burkill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4121248), 1935, vol. 1, p. 149.
 
-[^8]: An Observer. (1844, December 5). *[Correspondence](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18441205-1.2.3)*. <i>The Singapore Free Press</i>, p. 2. Retrieved from NewspaperSG.
+[^8]: An Observer. (1844, December 5). [Correspondence](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18441205-1.2.3). <i>The Singapore Free Press</i>, p. 2. Retrieved from NewspaperSG.
 
 [^9]: Purvis, J. (1848, May 13). Presentment. to the Hon'ble Her Majesty's Court of Judicature of Prince of Wales Island, Singapore and Malacca. *[The Straits Times and Singapore Journal of Commerce](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6060614)*, 2.
 
 [^10]: [Local](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500412-1.2.6). (1850, April 12). <i>The Singapore Free Press</i>, p. 3. Retrieved from NewspaperSG.
 
-[^11]: [Untitled: Singapore by day and night, No. II](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18610119-1.2.30). (1861, January 19). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^11]: [Untitled: Singapore by day and night, No. II](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18610119-1.2.30). (1861, January 19). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
 [^12]: Little, R. (1848, September). An essay on coral reefs as the cause of Blákán Mátí fever, and of the fevers in various parts of the East: Part II. *[The Journal of the Indian Archipelago and Eastern Asia](https://eresources.nlb.gov.sg/printheritage/detail/7ac284a7-ac54-4fff-ad21-789cbb55df54.aspx)*, 2 (9), 571–602. Retrieved from BookSG.
 
 [^13]: Keaughran, T.J. (1879). *[The Singapore directory for the Straits Settlements 1879](https://eresources.nlb.gov.sg/printheritage/detail/9879b97a-f840-4443-9452-3cbd165b388b.aspx)* (p. 3). Singapore: Printed by Straits Times Off. Retrieved from BookSG. (Microfilm no.: NL1175)
 
-[^14]: Valtriny, V.C. (1877, February 8). [Commercial securities](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18770208-1.2.24.8). Straits Times Overland Journal, p. 8. Retrieved from NewspaperSG.
+[^14]: Valtriny, V.C. (1877, February 8). [Commercial securities](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18770208-1.2.24.8). <i>Straits Times Overland Journal</i>, p. 8. Retrieved from NewspaperSG.
 
-[^15]: [Page 3 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740328-1.2.21.3). (1874, March 28). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^15]: [Page 3 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740328-1.2.21.3). (1874, March 28). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
-[^16]: [Death of Mr. J. Bastiani](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250105-1.2.63). (1925, January 5). The Straits Times, p. 9. Retrieved from NewspaperSG; Pilon, M., & Weiler, D. (2011). *[The French in Singapore: An illustrated
+[^16]: [Death of Mr. J. Bastiani](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250105-1.2.63). (1925, January 5). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG; Pilon, M., & Weiler, D. (2011). *[The French in Singapore: An illustrated
 history (1819–today)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610)* (p. 86). Singapore: Editions Didier Millet. (Call no.: RSING 305.84105957 PIL)
 
 [^17]: [Keaughran](https://eresources.nlb.gov.sg/printheritage/detail/9879b97a-f840-4443-9452-3cbd165b388b.aspx), 1879, p. 3.
 
-[^18]: [From the Daily Times, 1st July: Melbourne International Exhibition 1880](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18800703-1.2.12). (1880, July 3). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^18]: [From the Daily Times, 1st July: Melbourne International Exhibition 1880](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18800703-1.2.12). (1880, July 3). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
 [^19]: *[The Singapore and Straits Directory for 1881](https://eresources.nlb.gov.sg/printheritage/detail/6e76cb75-dfe3-4203-a211-76305cafde9d.aspx)* (p. 6). (1881). Singapore: Printed by Mission Press. Retrieved from BookSG. (Call no.: RRARE 382.09595 STR; Microfilm no.: NL1176)
 
-[^20]: [Page 5 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18830109-1.2.18.3). (1883, January 9). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^20]: [Page 5 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18830109-1.2.18.3). (1883, January 9). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-[^21]: [Page 2 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000609-1.2.41.3). (1900, June 9). The Straits Times, p. 2; [Page 3 Advertisements Column 4: To be let](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020403-1.2.7.4). (1902, April 3). The Straits Times, p. 3; Page 3 [Advertisements Column 3: Powell & Co](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020409-1.2.13.3). (1902, April 9). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^21]: [Page 2 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000609-1.2.41.3). (1900, June 9). <i>The Straits Times</i>, p. 2; [Page 3 Advertisements Column 4: To be let](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020403-1.2.7.4). (1902, April 3). <i>The Straits Times</i>, p. 3; Page 3 [Advertisements Column 3: Powell & Co](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020409-1.2.13.3). (1902, April 9). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
 [^22]: Refers to a quick-growing crop grown between successive plantings of a main crop.
 
-[^23]: Shriver, J.A. (1915). Pineapple-canning industry of the world (pp. 29–30). Washington:
+[^23]: Shriver, J.A. (1915). <i>Pineapple-canning industry of the world</i> (pp. 29–30). Washington:
 Department of Commerce. Retrieved from Archive Organisation website.
 
 [^24]: J.de la C. M., & García, H.S. (2005, November 13). Pineapple: Post-harvest operations (p. 15). Retrieved from the Food and Agriculture Organisation of the United Nations website.
 
-[^25]: [Page 3 Advertisements Column 4: A. Clouet](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18930525-1.2.10.4). (1893, May 25). The Daily Advertiser, p. 3. Retrieved from NewspaperSG.
+[^25]: [Page 3 Advertisements Column 4: A. Clouet](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18930525-1.2.10.4). (1893, May 25). <i>The Daily Advertiser</i>, p. 3. Retrieved from NewspaperSG.
 
 [^26]: [Pilon & Weiler](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610), 2011, p. 88.
 
-[^27]: [Singapore trademark action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19040220-1.2.42). (1904, February 20). The Straits Times, p. 5; [Page 8 Advertisements Column 3: Trade mark](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19041010-1.2.68.3). (1904, October 10). The Straits Times, p. 8; [Page 8 Advertisements Column 2: A. Clouet](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100415-1.2.102.2). (1910, April 15). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^27]: [Singapore trademark action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19040220-1.2.42). (1904, February 20). <i>The Straits Times</i>, p. 5; [Page 8 Advertisements Column 3: Trade mark](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19041010-1.2.68.3). (1904, October 10). <i>The Straits Times</i>, p. 8; [Page 8 Advertisements Column 2: A. Clouet](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100415-1.2.102.2). (1910, April 15). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-[^28]: [Scent for the Crown](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19091223-1.2.67). (1909, December 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^28]: [Scent for the Crown](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19091223-1.2.67). (1909, December 23). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
-[^29]: [Page 6 Advertisements Column 2: “Triomphe" Sardines](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19170323-1.2.11.2). (1917, March 23). The Straits Times, p. 6. Retrievd from NewspaperSG.
+[^29]: [Page 6 Advertisements Column 2: “Triomphe" Sardines](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19170323-1.2.11.2). (1917, March 23). <i>The Straits Times</i>, p. 6. Retrievd from NewspaperSG.
 
-[^30]: [Page 6 Advertisements Column 2: 100 Xmas hampers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19161206-1.2.10.2). (1916, December 6). The Straits Times, p. 6; Page 6 Advertisements Column 2: [For those who want the best](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340124-1.2.26.2). (1934, January 24). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^30]: [Page 6 Advertisements Column 2: 100 Xmas hampers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19161206-1.2.10.2). (1916, December 6). <i>The Straits Times</i>, p. 6; Page 6 Advertisements Column 2: [For those who want the best](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340124-1.2.26.2). (1934, January 24). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-[^31]: [Malaya-Borneo: Arts and crafts section of exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220405-1.2.65). (1922, April 5). The Straits Times, p. 9. Retrieved from NewspaprSG.
+[^31]: [Malaya-Borneo: Arts and crafts section of exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220405-1.2.65). (1922, April 5). <i>The Straits Times</i>, p. 9. Retrieved from NewspaprSG.
 
-[^32]: [Fisheries Department](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250507-1.2.58). (1925, May 7). The Singapore Free Press, p. 7; [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361010-1.2.70). (1936, October 10) The Straits Times, p. 13. Retrieved from NewspaperSG.
+[^32]: [Fisheries Department](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250507-1.2.58). (1925, May 7). <i>The Singapore Free</i> Press, p. 7; [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361010-1.2.70). (1936, October 10) <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
-[^33]: Burdon, T.W. (1955). [The fishing industry of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077993) (p. 23). Singapore: D. Moore. (RCLOS 639.2095957 BUR)
+[^33]: Burdon, T.W. (1955). *[The fishing industry of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077993)* (p. 23). Singapore: D. Moore. (RCLOS 639.2095957 BUR)
 
 [^34]: [Pilon & Weiler](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610), 2011, p. 163.
 
-[^35]: Euromonitor International Ltd. (2015, April 1). Euromonitor sector capsule: Canned/preserved food in Singapore. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^35]: Euromonitor International Ltd. (2015, April 1). <i>Euromonitor sector capsule: Canned/preserved food in Singapore</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^36]: GlobeNewswire Inc. (2013, October 21). Canned food – A global market overview. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^36]: GlobeNewswire Inc. (2013, October 21). <i>Canned food – A global market overview</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
