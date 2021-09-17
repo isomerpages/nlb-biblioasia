@@ -4,7 +4,7 @@ date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/malay-journalism
 layout: post
 ---
-The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah. Mazelan Anuar traces his legacy. 
+#### The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah. **Mazelan Anuar** traces his legacy. 
 
 There is a popular Malay proverb that says: When a tiger dies, it leaves behind its stripes. When a man dies, he leaves behind his name.
 
