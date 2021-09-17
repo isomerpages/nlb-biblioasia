@@ -120,33 +120,33 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 #### **NOTES**
 
-[^1]: Singapore Zoo. (2014). Park experience. Retrieved from Singapore Zoo website; Wildlife Reserves Singapore Group. (2014). Fast facts: Singapore Zoo. Retrieved from Wildlife Reserves Singapore website.
+[^1]: Singapore Zoo. (2014). <i>Park experience</i>. Retrieved from Singapore Zoo website; Wildlife Reserves Singapore Group. (2014). <i>Fast facts: Singapore Zoo</i>. Retrieved from Wildlife Reserves Singapore website.
 
-[^2]: Bastin J. (1990). Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia. Journal of the Malaysian Branch of the Royal Asiatic Society, 63 (2) (259), 1–25, pp. 1–2. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Raffles, S. (1991). *[Memoir of the life and public services of Sir Thomas Stamford Raffles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277)* (pp. 633–697). Singapore: Oxford University Press. (Call no.: RSING 959.57021092 RAF)
+[^2]: Bastin J. (1990). Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 63 (2) (259), 1–25, pp. 1–2. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Raffles, S. (1991). *[Memoir of the life and public services of Sir Thomas Stamford Raffles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277)* (pp. 633–697). Singapore: Oxford University Press. (Call no.: RSING 959.57021092 RAF)
 
 [^3]: Bastin, 1990, pp. 3–4.
 
 [^4]: Bastin, 1990, p. 3; Abdullah  bin Abdul Kadir. (2009). *[The hikayat Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908)* (p. 77). Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.9 ABD)
 
-[^5]: Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. Journal of the Malaysian Branch of the Royal Asiatic Society, 54 (2) (240), 1–73, pp. 16–17. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^5]: Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 54 (2) (240), 1–73, pp. 16–17. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^6]: Bastin, J., et. al. (2010). *[Natural history drawings: The complete William Farquhar collection, Malay Peninsula, 1803–1818](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600)* (pp. 7, 9–10, 26, 29). Singapore: Editions Didier Millet. (Call no.: RSING 759.959 NAT)
 
 [^7]: Song, O.S. (1984). *[One hundred years' history of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287)* (p. 53). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
 
-[^8]: [Chinese enterprise in Singapore: Unicorn’s horns](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.60.6). (1935, October 8). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+[^8]: [Chinese enterprise in Singapore: Unicorn’s horns](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.60.6). (1935, October 8). <i>The Singapore Free Press</i>, p. 4. Retrieved from NewspaperSG.
 
-[^9]: ['Whampoa' was the first of Singapore's towkays](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540313-1.2.162). (1954, March 13). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^9]: ['Whampoa' was the first of Singapore's towkays](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540313-1.2.162). (1954, March 13). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-[^10]: [News of the Week](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18780706-1.2.13). (1878, July 6). Straits Times Overland Journal, p. 6. Retrieved from NewspaperSG.
+[^10]: [News of the Week](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18780706-1.2.13). (1878, July 6). <i>Straits Times Overland Journal</i>, p. 6. Retrieved from NewspaperSG.
 
 [^11]: Burkill, I.H. (1918, August 12). The establishment of the Botanic Gardens, Singapore. *[Gardens’ bulletin, Straits Settlements](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181)*, 2 (2), 55–72, p. 61.
 
-[^12]: [The Botanical Garden](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18700301-1.2.6.6). (1870, March 1). Straits Times Overland Journal, p. 3. Retrieved from NewspaperSG.
+[^12]: [The Botanical Garden](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18700301-1.2.6.6). (1870, March 1). <i>Straits Times Overland Journal</i>, p. 3. Retrieved from NewspaperSG.
 
 [^13]: Burkill, I.H. (1918, November 11). The second phase in the history of the Botanic Gardens, Singapore. *[Gardens’ bulletin, Straits Settlements](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181)*, 2 (3), 93–108, pp. 93–94.
 
-[^14]: [Legislative Council: Supply Bill 1875](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsobserver18741228-1.2.5). (1874, December 28). Straits Observer (Singapore), p. 2. Retrieved from NewspaperSG.
+[^14]: [Legislative Council: Supply Bill 1875](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsobserver18741228-1.2.5). (1874, December 28). <i>Straits Observer (Singapore)</i>, p. 2. Retrieved from NewspaperSG.
 
 [^15]: Burkill, Nov 1918, pp. 95–96.
 
