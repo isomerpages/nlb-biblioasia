@@ -6,6 +6,8 @@ layout: post
 ---
 #### The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët. **Timothy Pwee** reveals its history and that of the pineapple canning industry in Singapore.
 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/title.jpg)
+	
 The French are linked to Singapore in many curious ways. Few people are aware that the French Revolution (1787–99) and the subsequent Napoleonic Wars (1803–15) were responsible for setting off the chain of events that not only led to Stamford Raffles founding an East India Company outpost in Singapore, but also the establishment of the canning industry on the island.
 
 The introduction of tinned foods in Singapore is a French legacy that dates back to 1875, starting first with pineapples and then sardines. The pineapple industry has since shifted base to other Southeast Asian countries but one trademark, the Ayam brand of canned sardines, has endured over the years.
@@ -16,17 +18,20 @@ The history of the Ayam brand is intriguing because it was founded in Singapore 
 
 The plant species <i>Ananas comosus</i>, commonly known as the pineapple, is a fruit of the New World. It was discovered in Guadeloupe by Christopher Columbus on 4 November 1493[^1] and brought back to Europe. The fruit proved popular and was transplanted by the Portuguese and the Spanish in their explorations around the globe. Isaac Henry Burkill[^2] noted that the Portuguese learnt to call the pineapple “nana” from the Tupí natives of Brazil, and the word eventually evolved into “nanas” in the lands where the plant was introduced by the Portuguese. The Spanish, however, called it “piña” due to its resemblance to the pine cone, and the communities whom they introduced it to also used the Spanish name. The English name “pineapple” is in fact derived from the Spanish word “piña”. The Malays also call the pineapple “nanas”, while the Bugis refer to it as “pandang” because it resembles the fruit of the pandan plant (<i>Pandanus amaryllifolius</i> and related species).[^3]
 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/Alfred.jpg)
+<div style="background-color: white;">Alfred Clouët, the Frenchman who introduced the Ayam brand of canned sardines to Singapore in 1892. <i>Courtesy of Denis Frères Company</i>.</div>
+
 By the mid-1800s, the pineapple fruit was commonly available in Singapore. A pineapple market located by the Singapore River (likely in the Boat Quay area) had become a problem as early as 1844 when a letter in <i>The Singapore Free Press and Mercantile Advertiser</i> complained about the failure to remove “the Pine Apple Mart from the Riverside”.[^4] In 1848, a jury reporting to the court on Singapore’s affairs gave a very eloquent description of the market’s condition: “Indeed so great is the pineapple portion of the nuisance that the Jurors found one of the landing places so obstructed that to have descended the stairs would have been attended with the risk of a fractured Limb”.[^5] A letter written two years later called it a place where “obnoxious miasms are in constant process of manufacture”.[^6]
 
 Where did the pineapples come from? An 1861 article in <i>The Straits Times</i> describes pineapples that were sold for one cent each in Raffles Place: "Originally purchased from the Bugis planter at the rate of 16 for a cent, it was sold by the Chinese who bought it from the Bugis at the rate of 12 for a cent, sold again to the fruiter in the bazaar at the rate of six for a cent; it is now sold by the street hawker at 16 times more than its cost price".[^7]
 
 In the mid-19th century, before the discoveries of Frenchman Louis Pasteur, diseases like malaria were thought to be caused by miasmatic vapours, or bad air, giving a more sinister tone to the 1850 letter of complaint about “obnoxious miasms”. This theory of miasmas had existed since the time of the ancient Greeks. In order to identify which miasmas were poisonous, a British doctor in Singapore, Robert Little Esquire, observed the population, their state of health and the surroundings. In 1848, Little reported his findings in Singapore’s first scholarly journal, <i>The Journal of the Indian Archipelago and Eastern Asia</i>, often referred to as Logan’s Journal after its editor James Richardson Logan.[^8] As Blákán Mátí (now known as Sentosa) was notorious for malarial fevers, Little and Logan surveyed Blákán Mátí and the surrounding islands. He described the hills on these islands as covered in pineapples, with Blákán Mátí having at least 200 acres of the fruit, mainly cultivated by the Bugis community.
 
-Alfred Clouët, the Frenchman who introduced the Ayam brand of canned sardines to Singapore in 1892. <i>Courtesy of Denis Frères Company</i>.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/pineapples.jpg)
+<div style="background-color: white;">Drawing of two pineapples from the 1598 book, <i>John Hvighen van Linschoten, His Discours of Voyages into ye Easte & West Indies: Devided into foure books. All Rights Reserved, National Library Board Singapore, 2008.</i></div>
 
-Drawing of two pineapples from the 1598 book, <i>John Hvighen van Linschoten, His Discours of Voyages into ye Easte & West Indies: Devided into foure books. All Rights Reserved, National Library Board Singapore, 2008.</i>
-
-Pineapples ready for the market in Singapore, early 1900s. Courtesy of National Archives of Singapore.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/Pineapples_ready.jpg)
+<div style="background-color: white;">Pineapples ready for the market in Singapore, early 1900s. Courtesy of National Archives of Singapore.</div>
 
 #### **The First Attempts at Cannin**
 
@@ -40,9 +45,11 @@ In the 1881 edition of the Straits Settlements directory, Bastiani advertised hi
 
 Bastiani did not depend on just preserving fruit. In 1883, he started advertising his imported French products – cheeses, pâté, sardines, tomatoes, etc – in <i>The Straits Times</i>.[^16] By 1900, he had thought of returning home to Nice and apparently did so in 1902 when his residence and pineapple machinery at High Street were advertised for rent and sale respectively.[^17] At the time of his retirement, Singapore’s pineapple canning industry looked rosy, with demand outstripping supply. Bastiani’s cannery was then one of five major factories in Singapore – the others being Landau, Ghin Giap, Tan Twa Hee and Tan Lian Swee.
 
-The logo of A. Clouët & Co Ltd bears the trademark cockerel, an unofficial symbol of France, 1892. <i>Courtesy of Denis Frères Company</i>.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/logo_res.jpg)
+<div style="background-color: white;">The logo of A. Clouët & Co Ltd bears the trademark cockerel, an unofficial symbol of France, 1892. <i>Courtesy of Denis Frères Company</i>.</div>
 
-The combined Ayam- Triomphe brand of sardines was first advertised in <i>The Straits Times</i> on 23 March 1917 (p. 6). © <i>The Straits Times</i>.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/Ayam_Triomphe_brand.jpg)
+<div style="background-color: white;">The combined Ayam- Triomphe brand of sardines was first advertised in <i>The Straits Times</i> on 23 March 1917 (p. 6). © <i>The Straits Times</i>.</div>
 
 A 1915 US Department of Commerce report found that although pineapple production was concentrated in Singapore, it was planted as a catch crop[^22] by rubber plantations while waiting for rubber trees to mature. This meant that Singapore’s pineapple canneries did not have an assured supply of pineapple. Even so, Singapore was then still the leading exporter of canned pineapple in the world with 580,065 cases shipped in 1912. The bulk went to the United Kingdom (345,771 cases) and its colonies (105,141 cases). Included in the statistics is the output from Siam’s few pineapple factories; these were largely Singapore offshoots that sent their goods to Singapore for re-export.[^23]
 
@@ -68,15 +75,15 @@ In 1954, the Denis Frères Company, run by the sons of a French mariner who sett
 
 |The canning industry can be traced to the French Revolution of 1789–99 when France conscripted hundreds of thousands of men as soldiers. As it was impossible to feed that many men in the field – imagine the amount of fresh meat and vegetables to be sourced and transported daily – in 1795, a prize was put up by the Société d’Encouragement pour l’Industrie Nationale (Society for the Encouragement of National Industry) in Paris for anyone who could find a new and economical way to preserve food that was more nutritious than traditional salting, smoking and pickling.|
 
+|<img src="/images/vol-11-issue-2/frenchcan/Nicolas_Appert.jpg">Portrait of Nicolas Appert, inventor of food canning in 1795, tiré de Les Artisans illustres de Foucaud, anonymous woodcut, circa 1841. Les Artisans illustres 1841, collection Jean-Paul Barbier, Musée des Beaux Arts Châlons en Champagne. <i>Courtesy of Wikimedia Commons</i>. |
+
 |The man who claimed that prize 15 years later in January 1810 was Nicolas Appert, a chef who had set up a confectionery in Paris.[^18] Appert’s rudimentary method involved glass bottles sealed with cork and wire but the basic process he designed to seal food in containers and then heating the containers to kill bacteria and spores is still used today.|
 
 |It was another patent registered in London by the British inventor Peter Durand that introduced the idea of using handmade wrought iron canisters, the precursor to the can as we know it. Intriguingly, Durand, who was of French origin, filed his patent in August 1810, just three months after Appert published the details of his process in Paris.[^19] This has led some to suggest that Durand stole Appert’s idea. However, retired Reading University food science lecturer Norman Cowell’s research has found evidence in a diary that names a Frenchman, Philippe de Girard, as having communicated the idea to Durand.[^20] That Girard’s name does not appear in the patent and only exists in an eyewitness account is not surprising given that Britain had been fighting with France since 1793, and hostilities would continue until Napoleon’s final defeat at Waterloo in 1815. Canning was an important advance in military logistics and it would have been ill-advised for a Frenchman like de Girard to openly advertise this transfer of technology to the British. Indeed, Durand later sold the patent to the British food company Donkin, Hall and Gamble who set up a canning factory and by 1812, the firm had begun to supply tinned food to the British army.[^21]|
 
-|Portrait of Nicolas Appert, inventor of food canning in 1795, tiré de Les Artisans illustres de Foucaud, anonymous woodcut, circa 1841. Les Artisans illustres 1841, collection Jean-Paul Barbier, Musée des Beaux Arts Châlons en Champagne. <i>Courtesy of Wikimedia Commons</i>. |
+|<img src="/images/vol-11-issue-2/frenchcan/tin_can.jpg">Tin can used at the first canning factory in England, Bryan Donkin and Co., London, England, 1812. <i>Bryan Donkin Archive Trust</i>.|
 
-|Tin can used at the first canning factory in England, Bryan Donkin and Co., London, England, 1812. <i>Bryan Donkin Archive Trust</i>.|
-
-|Appert’s rudimentary method of preserving food using glass bottles sealed with cork and wire, collection Jean-Paul Barbier, Musée Châlons en Champagne salle Appert. <i>Courtesy of Wikimedia Commons</i>.|
+|<img src="/images/vol-11-issue-2/frenchcan/rudimentary_method.jpg">Appert’s rudimentary method of preserving food using glass bottles sealed with cork and wire, collection Jean-Paul Barbier, Musée Châlons en Champagne salle Appert. <i>Courtesy of Wikimedia Commons</i>.|
 
 <p style="font-size:15px;"><b>Timothy Pwee</b> is a Senior Reference Librarian who handles the National Library’s Singapore collection. In a previous incarnation, he worked in a small business education outfit that gave him passing familiarity with the business world and the travails of small start-ups.</p>
 
