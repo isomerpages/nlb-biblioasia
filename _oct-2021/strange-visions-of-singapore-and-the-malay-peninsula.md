@@ -6,7 +6,7 @@ permalink: /vol-17/issue-3/oct-dec-2021/strangevision
 
 
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Opening%20Map.jpg)
 <div style="background-color: white;">Detail showing Singapore and the Malay Peninsula from the map titled <i>Les Isles de la Sonde entre lesquelles sont Sumatra, Java, Borneo, &c. (The Sunda islands among which are Sumatra, Java, Borneo, etc.)</i> by Nicolas Sanson, 1652. <i>Collection of the National Library, Singapore (Accession no. B16132429F).</i></div>
 
 From the 16th to 18th centuries, European ships returned from their sojourns to distant lands carrying not only shipments of fine spices and finer haberdasheries but also descriptions of these faraway places. Some of these were published based on first-hand observations and are unparalleled in historical detail, while others are highly embellished accounts, infused with heightened sentiments of atypicality and danger. Mixed in with this basket are fictional accounts that occasionally mirror closely the narratives of real ones. 
@@ -18,7 +18,7 @@ Unbeknownst to many, Singapore and the Malay Peninsula, situated as they were at
 #### **Whence Solomon’s Ships Return**
 
 For would-be explorers and adventurers of the sea, the Bible contains lines of tempting mystery. In the Book of Kings, it is written: “And King Solomon made a navy of ships in Eziongeber, which is beside Eloth, on the shore of the Red Sea, in the land of Edom. And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon. And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to King Solomon.”[^2] But gold was not all that Ophir produced; the ships of Solomon also brought back other commodities: silver, ivory, apes and peacocks, algum-wood and precious stones.[^3]  
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Solomon%20Receiving.jpg)
 <div style="background-color: white;">“Solomon Receiving the Queen of Sheba” by Peter Paul Rubens, 1620. Solomon is seen receiving gold, spices and precious stones, similar to the ships from Ophir. </i> by Nicolas Sanson, 1652. <i>Image from Courtauld Institute.</i></div>
 
 
@@ -41,17 +41,18 @@ Singapore’s tenuous connection to Solomon’s Ophir likely rests on the famed 
 If Ophir seems familiar, much less well-known are the fantasies of the French writer Nicolas-Edme Rétif. Rétif, who used the pen name Restif de la Bretonne, was the author of several salacious titles such as *Le Paysan Perverti* (*The Perverted Peasant*; 1775), *Le Pornographe* (*The Pornographer*; 1769) and *L’Anti-Justine; ou, Les Delices de l'amour* (*The Anti-Justine; or, The Delights of Love*; 1798). In all, Rétif produced over 200-odd works ranging from biographies to science fiction and short stories, covering topics that vary from politics to incest. 
 
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Nicholas-Edme.jpg)
 <div style="background-color: white;">Portrait of French writer Nicolas-Edme Rétif, who used the pen name Restif de la Bretonne. Among his more successful works is <i>La Découverte Australe par un Homme-volant, ou Le Dédale Francais</i>, published in 1781. </i> by Nicolas Sanson, 1652. <i>Retrieved from Wikimedia Commons.</i></div>
 
 Among his moderately successful publications is one often acclaimed as a proto-work of science fiction, *La Découverte Australe par un Homme-volant, ou le Dédale Francais* (*The Southern Discovery by a Flying Man, or the French Daedalus*).[^8]  Published in 1781 in four volumes, it is a novel of great eccentricity and social critique although its shock value has been very much blunted by the passage of time. 
 
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/La%20Decouverte.jpg)
 <div style="background-color: white;">Title page of <i>La Découverte Australe par un Homme-volant, ou Le Dédale Francais</i> (1781) by Nicolas-Edme Rétif. <i>Retrieved from Gallica, Bibliothèque Nationale de France.</i></div>
 
 In the third volume is a transcript of a letter written by a fantastical half-monkey to his species. Titled *Lettre d’un Singe* (*Letter by a Monkey*), the epistle relates the extraordinary circumstances of his plight and plea. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Cesar%20of%20Melaka.jpg)
 <div style="background-color: white;">César of Melaka, the human-monkey, writing a letter to his own species. <i>Image reproduced from Nicolas Edme Restif de La Bretonne, La Découverte Australe par un Homme-volant, ou Le Dedale Francais, vol. 3 (Paris: Leipzig, 1781). Retrieved from Gallica, Bibliothèque Nationale de France.</i></div>
 
 
@@ -67,6 +68,7 @@ Rétif’s monkey from the Peninsula or Strait of Singapore mixes natural and co
 
 In 1860, the Parisian elites were witness to the ill-starred debut of *Barkouf* by Jacques Offenbach, a German-born French composer, cellist and impresario of the Romantic period. Over three acts, the audience was treated to courtly intrigues, forced marriages and foreign invasions within an entirely fictitious Mughal Empire, the comic genius of the piece being sustained by a dog, the titular character of the opera, who is appointed to the reins of governorship. Offenbach had exercised much creative licence; in fact, he had lifted much of his opera from a fable set in the Malay Peninsula. The original 1784 work, titled *Mani et Barkouf*, came from the pen of the Abbé François Blanchet, a French priest.
 	
+![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Barkouf%20carricature.jpg)
 <div style="background-color: white;">A caricature of Jacques Offenbach by French caricaturist André Gill, with Barkouf the dog in the lower right, 1866. Jacques Offenbach composed the music for <i>Barkouf</i>, his opera bouffe in three acts, which premiered at the Opéra-Comique in 1860. <i>Retrieved from Gallica, Bibliothèque Nationale de France.</i></div>
 
 	
@@ -113,6 +115,7 @@ Their mother’s tale, how she ended up on the island and how they strove to bui
 
 Such was the tale the princes related to Grandpierre and they made him promise to tell no one lest the island should fall under the domination of the Dutch, who were the dominant foreign power in the region at the time. This island was named Isle de la Pierre Blanche (“pierre blanche” being French for “white stone”, which is also what “Pedra Branca”[^18] means in Portuguese), a Malabarese Arcadia, whose location was kept secret among the innumerable islands in the straits between Johor and Sumatra.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Pedra%20Banca.jpg)
 <div style="background-color: white;">An aquatint print of Pedra Branca with dark storm clouds in the background by Thomas Daniell and his nephew William Daniell, 1810. The two princes of Golconda were said to be shipwrecked off this island, which is located about 24 nautical miles (44 km) to the east of Singapore. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 
@@ -126,10 +129,9 @@ Finally, we also have to be aware that these imaginative visions impinge upon th
 
 Fuelled by expanding geographical knowledge, the writers of these fantastical stories tried to make sense of change in the world, all the while changing how people made sense of the world. 
 
-
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-3/authors/Profile%20-%20Zhuang%20Wubin.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-3/authors/Benjamin%20Khoo.png" style="width: 100px; height: 100px;" />
 	<b>Benjamin J.Q. Khoo</b> is a research officer at ISEAS-Yusof Ishak Institute and a 2020/21 Lee Kong Chian Research Fellow. Studying the histories of the early modern world, his research is currently focused on networks of knowledge and diplomatic encounters in Asia.</div>
 	
 	
@@ -176,4 +178,3 @@ Fuelled by expanding geographical knowledge, the writers of these fantastical st
 [^18]: Not to be confused with the earlier Pedra Branca mentioned in the essay. 
 
 [^19]: Paul Longley Arthur, *Virtual Voyages: Travel Writing and the Antipodes, 1605–1837*  (London: Anthem Press, 2011), 3. (Not available in NLB holdings)
-
