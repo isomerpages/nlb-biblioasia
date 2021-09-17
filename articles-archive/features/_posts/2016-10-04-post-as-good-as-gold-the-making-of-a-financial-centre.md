@@ -101,8 +101,7 @@ Despite the steady pace of development, there were still many dingy shophouses i
 
 Given the high chance that these fragmented properties would not be redeveloped in a sustainable way, the government had to acquire them under the Land Acquisition Act of 1966 for the explicit purpose of urban renewal.[^32] From the two land acquisition exercises in the Golden Shoe area in 1975 and 1980, a total of 220 lots, amounting to nearly 36,000 sq m, were gazetted for acquisition. These lots ranged from 186 to 372 sq m, and most were located at Cecil Street, Market Street and Raffles Place.
 
-<div style="background-color: white;"><br><img style="width:550px" src="/images/Vol-12-issue-3/as-good-as-gold/08-as-good-as-gold.jpg"><i>Reclamation works in the Marina Bay area began from the 1970s onwards, even as the Golden
-Shoe area was being developed. © Urban Redevelopment Authority. All rights reserved.</i></div>
+<div style="background-color: white;"><br><img style="width:550px" src="/images/Vol-12-issue-3/as-good-as-gold/08-as-good-as-gold.jpg">Reclamation works in the Marina Bay area began from the 1970s onwards, even as the Golden Shoe area was being developed. <i>© Urban Redevelopment Authority. All rights reserved.</i></div>
 
 Following these acquisitions, the sites were then amalgamated into bigger parcels before being released to private developers through land sales programmes. Some of the buildings that rose from these sales included Cecil House and GB Building in Cecil Road, and Tat Lee Bank Building and UOB Building in Raffles Place.[^33]
 
@@ -124,8 +123,8 @@ An index ranking released by the London-based research firm Z/Yen Group in April
 
 Given the unrelenting pace of redevelopment and renewal in Singapore’s CBD area, the building hardware at least – cast in concrete and encased in shiny steel and shimmering glass, and often flaunting world-class architects and designers – seems ready to face the challenges of the next 50 years.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/as-good-as-gold/09-as-good-as-gold.jpg"><i>This panoramic view shows how Singapore’s Central Business District has expanded beyond the Golden Shoe boundary to include the newly reclaimed 360-acre Marina Bay downtown precinct with its glittering
-maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></div>
+<div style="background-color: white;"><img src="/images/Vol-12-issue-3/as-good-as-gold/09-as-good-as-gold.jpg">This panoramic view shows how Singapore’s Central Business District has expanded beyond the Golden Shoe boundary to include the newly reclaimed 360-acre Marina Bay downtown precinct with its glittering
+maze of steel, concrete and glass high-rises. <i>Photo by Richard W. J. Koh.</i></div>
 	
 <div style="background-color: white;">
 <br>
@@ -145,8 +144,7 @@ maze of steel, concrete and glass high-rises. Photo by Richard W. J. Koh.</i></d
 
 [^4]:Singapore. Housing Development Board. (1965). [50,000 up: Homes for the people](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428) (p. 30). Singapore: Housing Development Board. Call no.: RCLOS 363.585095957 SIN; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 11.
 
-[^4]:Singapore. Legislative Assembly. *[Debates: Official report](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4612739)*. (1963, December 10). Yang Di-Petuan Negara’s speech: Debate on the address (Vol. 22, col. 248). 
-[^5]:Singapore: [s.n.]. Call no.: RCLOS 328.5957 SIN; [Singapore. Housing Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428), 1965, pp. 85–86; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 12.
+[^5]:Singapore. Legislative Assembly. *[Debates: Official report](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4612739)*. (1963, December 10). Yang Di-Petuan Negara’s speech: Debate on the address (Vol. 22, col. 248). Singapore: [s.n.]. Call no.: RCLOS 328.5957 SIN; [Singapore. Housing Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428), 1965, pp. 85–86; [Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, p. 12.
 
 [^6]:[Chua](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839), 1989, pp. 12–16; [Singapore. Housing Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585428), 1965, p. 84.
 
