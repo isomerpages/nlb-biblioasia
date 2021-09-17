@@ -6,6 +6,8 @@ layout: post
 ---
 #### The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. **Joy Loh** profiles the enfant terrible of entertainment.
 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/dicklee/dicklee.jpg)
+
 <i>What drove me to do what I did – it was to find myself and to make my statement as a Peranakan Chinese Singapore citizen of Asia and of the world”.</i>
 
 <div style="text-align: right"><i>— Dick Lee</i></div>
@@ -24,11 +26,14 @@ In his own way, Lee was a rebel. Being the only pianist in his secondary school 
 
 Against the backdrop of this campaign, Lee once had a close shave with the police. One evening while loitering in town, Lee and his friends spotted a police patrol car and decided to make a run for it because they thought they would be picked up for sporting long hair. While making his getaway in his red and black four-inch platform shoes, Lee lost his balance and tumbled into a ditch, fortuitously removing himself from view as his friends were caught by the police and sent to “haircut hell”.
 
-Dick Lee performing at Rediffusion's singing contest <i>Ready, Steady, Folk</i> in 1973. <i>Courtesy of Dick Lee. </i>
+![Alt text for image on Isomer site](/images/vol-11-issue-2/dicklee/young_dicklee.jpg)
+<div style="background-color: white;">Dick Lee performing at Rediffusion's singing contest <i>Ready, Steady, Folk</i> in 1973. <i>Courtesy of Dick Lee. </i></div>
 
-Dick Lee modelling his designs for his mother's boutique Midteen located in Tanglin Shopping Centre, with Tina Tan (left) and Sabrina Fernando, 1974. <i>Courtesy of Dick Lee.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-2/dicklee/dicklee_modelling.jpg)
+<div style="background-color: white;">Dick Lee modelling his designs for his mother's boutique Midteen located in Tanglin Shopping Centre, with Tina Tan (left) and Sabrina Fernando, 1974. <i>Courtesy of Dick Lee.</i></div>
 
-Album cover of music from <i>Fried Rice Paradise</i>, staged by Singapore Repertory Theatre in 2010. © <i>Singapore Repertory Theatre, Singapore, 2010.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-2/dicklee/FRP.jpg)
+<div style="background-color: white;">Album cover of music from <i>Fried Rice Paradise</i>, staged by Singapore Repertory Theatre in 2010. © <i>Singapore Repertory Theatre, Singapore, 2010.</i></div>
 
 #### **The Beginning**
 
@@ -68,7 +73,8 @@ Even the album cover is distinctly local. It shows Lee surrounded by an eclectic
 
 Although <i>Life in the Lion City</i> was released in 1984 with little fanfare, one individual who appreciated Lee’s music enough to turn it into a television show was the Singapore Broadcasting Corporation’s (SBC) producer, Lim Sek. He later became Lee’s business partner when they set up Music & Movement to manage the latter’s career when he went fulltime.
 
-Album cover of <i>The Mad Chinaman</i>, Dick Lee's ultimate Singaporean album of ethnic pop. © <i>Warner Music, Singapore, 1989.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-2/dicklee/mad_chinaman.jpg)
+<div style="background-color: white;">Album cover of <i>The Mad Chinaman</i>, Dick Lee's ultimate Singaporean album of ethnic pop. © <i>Warner Music, Singapore, 1989.</i></div>
 
 #### **Hitting the Home Run**
 
@@ -98,7 +104,8 @@ Lee’s work in the Land of the Rising Sun proved instrumental in opening Japane
 
 Lee’s passion for musicals led him along a different yet complementary path. He has written several groundbreaking musicals, including <i>Fried Rice Paradise</i> (1991) <i>Kampong Amber</i> (1994), <i>Sing to the Dawn</i> (1996) and <i>Hotpants</i> (1997). The epic <i>Nagraland</i> toured Japan, Singapore and Hong Kong in a 2002 sold-out tour, and <i>Snow.Wolf. Lake</i>, which starred Hong Kong pop star Jacky Cheung, toured several Asian cities in 2005. Among his famed musicals, the most well-known was the first one he produced in 1988, the all-time favourite <i>Beauty World</i>.
 
-A TheatreWorks production of <i>Beauty World</i> directed by Ong Keng Sen. It was first staged by TheatreWorks in 1988 and toured Japan in 1992, followed by a re-staging for the President's Star Charity in 1998. <i>Courtesy of TheatreWorks (S) Ltd</i>.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/dicklee/beuty_world.jpg)
+<div style="background-color: white;">A TheatreWorks production of <i>Beauty World</i> directed by Ong Keng Sen. It was first staged by TheatreWorks in 1988 and toured Japan in 1992, followed by a re-staging for the President's Star Charity in 1998. <i>Courtesy of TheatreWorks (S) Ltd</i>.</div>
 
 An iconic musical well-loved by many Singaporeans, <i>Beauty World</i> was named after a covered market at the junction of Upper Bukit Timah Road and Jalan Jurong Kechil. Among the hodgepodge cluster of textile and household shops were a couple of music shops selling cassettes and records. This was where Lee had his first taste of music heaven and discovered that local musicians also cut records. Before long Rita Chao, Sakura Teng, and Naomi and the Boys had all become part of Lee’s collection of singles at the tender age of 11. Little did he know at the time that this discovery would eventually come full circle and give birth to the psychedelic musical called <i>Beauty World</i>. 
 
@@ -116,7 +123,8 @@ Lee was intrigued by the story of Cixi and rabidly researched into her life and 
 
 In 2002, Lee travelled to London with lyricist Stephen Clark and director Steven Dexter to work on an outline for a musical on Cixi’s life. The trio visited the British Library to study out-of-print books on Cixi and stumbled upon an important work on the empress dowager by American artist Katherine Carl, who painted Cixi in her first Western-style portrait. 
 
-A scene from the musical <i>Forbidden City: Portrait of an Empress</i>, with Kit Chan (centre, in red costume) playing the lead role. Dick Lee wrote the music for this Singapore Repertory Theatre (SRT) production that was first staged in 2002. <i>Courtesy of Singapore Repertory Theatre</i>.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/dicklee/forbidden_city.jpg)
+<div style="background-color: white;">A scene from the musical <i>Forbidden City: Portrait of an Empress</i>, with Kit Chan (centre, in red costume) playing the lead role. Dick Lee wrote the music for this Singapore Repertory Theatre (SRT) production that was first staged in 2002. <i>Courtesy of Singapore Repertory Theatre</i>.</div>
 
 Carl had been sent to the Forbidden City in 1903 to paint the empress dowager in just three days, but was so well-liked by the empress that she stayed for more than six months. Her account, <i>With the Empress Dowager</i>, published in 1905, had been written partly in defence of the scandalous books that were being published on the empress at the time, some of these attributing ficti- tious quotes to Carl herself. 
 
