@@ -119,3 +119,113 @@ Song, O.S. (1984). *[One hundred years' history of the Chinese in Singapore](htt
 Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/printheritage/detail/f605bb37-0e57-471e-bc20-0a8dc05cb3c9.aspx)*. Singapore: Alfred Charles Willis. Retrieved from BookSG. (Call no.: RRARE 959.57 WIL; Microfilm no.: NL9039)
 
 #### **NOTES**
+
+[^1]: Singapore Zoo. (2014). Park experience. Retrieved from Singapore Zoo website; Wildlife Reserves Singapore Group. (2014). Fast facts: Singapore Zoo. Retrieved from Wildlife Reserves Singapore website.
+
+[^2]: Bastin J. (1990). Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia. Journal of the Malaysian Branch of the Royal Asiatic Society, 63 (2) (259), 1–25, pp. 1–2. Retrieved from JSTOR via NLB’s eResources website; Raffles, S. (1991). Memoir of the life and public services of Sir Thomas Stamford Raffles (pp. 633–697). Singapore: Oxford University Press. (Call no.: RSING 959.57021092 RAF)
+
+[^3]: Bastin, 1990, pp. 3–4.
+
+[^4]: Bastin, 1990, p. 3; Abdullah  bin Abdul Kadir. (2009). The hikayat Abdullah (p. 77). Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.9 ABD)
+
+[^5]: Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. Journal of the Malaysian Branch of the Royal Asiatic Society, 54 (2) (240), 1–73, pp. 16–17. Retrieved from JSTOR via NLB’s eResources website.
+
+[^6]: Bastin, J., et. al. (2010). Natural history drawings: The complete William Farquhar collection, Malay Peninsula, 1803–1818 (pp. 7, 9–10, 26, 29). Singapore: Editions Didier Millet. (Call no.: RSING 759.959 NAT)
+
+[^7]: Song, O.S. (1984). One hundred years' history of the Chinese in Singapore (p. 53). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
+
+[^8]: Chinese enterprise in Singapore: Unicorn’s horns. (1935, October 8). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+
+[^9]: 'Whampoa' was the first of Singapore's towkays. (1954, March 13). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+[^10]: News of the Week. (1878, July 6). Straits Times Overland Journal, p. 6. Retrieved from NewspaperSG.
+
+[^11]: Burkill, I.H. (1918, August 12). The establishment of the Botanic Gardens, Singapore. Gardens’ bulletin, Straits Settlements, 2 (2), 55–72, p. 61.
+
+[^12]: The Botanical Garden. (1870, March 1). Straits Times Overland Journal, p. 3. Retrieved from NewspaperSG.
+
+[^13]: Burkill, I.H. (1918, November 11). The second phase in the history of the Botanic Gardens, Singapore. Gardens’ bulletin, Straits Settlements, 2 (3), 93–108, pp. 93–94.
+
+[^14]: Legislative Council: Supply Bill 1875. (1874, December 28). Straits Observer (Singapore), p. 2. Retrieved from NewspaperSG.
+
+[^15]: Burkill, Nov 1918, pp. 95–96.
+
+[^16]: Burkill, Nov 1918, pp. 96–97.
+
+[^17]: Burkill, Nov 1918, p. 97.
+
+[^18]: Ridley, H.N. (1906, December). The menagerie of the Botanic Gardens. Journal of the Straits Branch of the Royal Asiatic Society, 46, 133–194. p. 133. Retrieved from JSTOR via NLB’s eResources website.
+
+[^19]: Ridley, Dec 1906, pp. 134–136.
+
+[^20]: Yuen, S. (2012, July 15). Our forgotten zoo. The New Paper, pp. 18–19. Retrieved from NewspaperSG.
+
+[^21]: Wong, L.Q. (2013, October 29). Singapore’s first zoo. Mnemozine, 5, 33. Retrieved from National University of Singapore, Department of History website.
+
+[^22]: Zaccheus, M. (2013, April 6). First zoo in Singapore rated 'wonderful' by Einstein. The Straits Times, p. 18. Retrieved from NewspaperSG.
+
+[^23]: Wong, 29 Oct 2013, p. 33.
+
+[^24]: Ponggol Zoo. (1930, March 17). The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+[^25]: Animals arriving few by few. (1936, November 9). The Straits Times, p. 12; These "Moos" make zoo news. (1937, July 4). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^26]: The Straits Times, 17 March 1930, p. 12.
+
+[^27]: “Noah's Ark” arrives in Singapore. (1935, August 5). The Singapore Free Press, p. 9. Retrieved from NewspaperSG.
+
+[^28]: Chimp for Ponggol Zoo. (1937, May 24). The Straits Times, p. 13; Polar bears in Singapore. (1937, March 13). The Singapore Free Press, p. 3; Monkey-eating eagle. (1937, December 9). The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+[^29]: More animals for Ponggol Zoo. (1937, February 26). The Straits Times, p. 16. Retrieved from NewspaperSG.
+
+[^30]: Willis, A.C. (1936). Willis’ Singapore guide (pp. 118–119). Singapore: Alfred Charles Willis. Retrieved from BookSG. (Call no.: RRARE 959.57 WIL; Microfilm no.: NL9039)
+
+[^31]: Scenes at Singapore's Zoo. (1938, September 25). The Straits Times, p. 32. Retrieved from NewspaperSG.
+
+[^32]: Pitt, K.W. (1985, September 16). Oral history interview with Mohinder Singh [Transcript of MP3 recording no. 000546/65/58, p. 583]. Retrieved from National Archives of Singapore website.
+
+[^33]: Braddell, R. (1934). The lights of Singapore (pp. 124–125). London: Methuen & Co. (Call no.: RRARE 959.57 BRA; Microfilm: NL25437; Accession no.: B29033830F)
+
+[^34]: S’pore zoo starts from scratch. (1946, October 20). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+[^35]: Wong, 29 Oct 2013, p. 33.
+
+[^36]: Zaccheus, M. (2014, June 3). We brought a zoo: Singapore's small havens for wild animals. The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+
+[^37]: Lee, T.S. (1953, April 27). You can buy or a mongo a mouse— se FROM MR. de SOUZA. The Singapore Free Press, p. 8. Retrieved from NewspaperSG.
+
+[^38]: The Straits Times, 3 Jun 2014.
+
+[^39]: The men behind the project. (1973, January 29). The Straits Times, p. 14. Retrieved from NewspaperSG; Singapore Zoological Gardens. (1973). Official opening by Dr. Goh Keng Swee, Deputy Prime Minister and Minister of Defence Wednesday 27th June 1973: Souvenir programme (pp. 6, 8). Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SIN)
+
+[^40]: Singapore Zoological Gardens, 1973, p. 8.
+
+[^41]: Singapore Zoological Gardens, 1973, pp. 4–5, 11–12.
+
+[^42]: Singapore Zoological Gardens, 1973, pp. 11–12.
+
+[^43]: Singapore Zoological Gardens,1973, pp. 7–8; The Straits Times, 29 Jan 1973, p. 14; Govt's $5 mil firm to set up a zoo. (1971, April 24). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+[^44]: De Alwis – man who planned the Mandai zoo. (1973, July 8). The Straits Times, p. 4; Fong, L. (1971, April 28). Animals at zoological gardens will not be caged. The Straits Times, p. 17. Retrieved from NewspaperSG.
+
+[^45]: Sharp, I. (1994). The first 21 years: The Singapore Zoological Gardens story (pp. 12, 20–21). Singapore: Singapore Zoological Gardens. (Call no.: RSING q590.7445957 SHA); Campbell, W. (1973, January 29). Singapore Zoological Gardens take shape. The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+[^46]: Sharp, 1994, p. 21. 
+
+[^47]: Meet the keepers. (1973, February 1). The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+[^48]: Sharp, 1994, p. 29.
+
+[^49]: Sharp, 1994, p. 29; Singapore Zoological Gardens. (1975). “Mr. Million’s lucky day”. Zoo-m, 3, 3. 
+
+[^50]: Zoo's millionth visitor walks in to a jumbo surprise. (1987, December 7). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^51]: Sharp, 1994, pp. 90–101.
+
+[^52]: Lee, J. (1998, November 8). Zoo unveils the Fragile Forest. The Straits Times, p. 32. Retrieved from NewspaperSG.
+
+[^53]: Wild Africa opens at Singapore Zoo. (1991, April 30). The Straits Times, p. 24; Zoo's Primate Kingdom features eight new species of monkeys and lemurs. (1991, June 23). The Straits Times, p. 16; Chia, E. (2001, December 1). Ethiopia in the zoo. Today, p. 27. Retrieved from NewspaperSG.
+
+[^54]: Sharp, 1994, p. 85. 
+
+[^55]: Mok, F.F. (2015, January 15). STB, Temasek to lead Mandai zoo revamp. My Paper. Retrieved from AsiaOne website.
