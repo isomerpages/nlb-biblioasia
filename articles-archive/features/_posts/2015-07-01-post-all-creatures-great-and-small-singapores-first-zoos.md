@@ -6,6 +6,9 @@ layout: post
 ---
 #### Few people are aware that the island’s first public zoo was set up in 1875. **Lim Tin Seng** traces the history of wildlife parks in Singapore.
 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/zoo/Entrance_of_zoo.jpg)
+<div style="background-color: white;">Entrance of the Singapore Miniature Zoo in Pasir Panjang that was started by Tong Seng Mun in 1957. <i>Tong Seng Mun Collection, courtesy of National Archives of Singapore</i>.</div>
+
 The Singapore Zoo, located on a 26-hectare promontory in Upper Seletar Reservoir, is considered as one of the finest of its kind in the world. Home to over 2,800 animals from more than 300 species, the zoo has received a string of awards and accolades over the years. The zoo is part of a cluster of wildlife attractions in the vicinity, including the Night Safari and the River Safari, and serves as a centre for research in the areas of wildlife conservation, wildlife rescue and rehabilitation.[^1] The Singapore Zoo was set up in 1973, but unbeknownst to many, smaller animal enclosures have existed on the island since colonial times.
 
 #### **An Early Fascination for Wildlife**
@@ -24,9 +27,9 @@ In 1867, Harry St George Ord, governor of the Straits Settlements (1867–73), s
 
 Murton hired William Krohn, a zoology expert, as the superintendent of the Zoological Garden.[^14] By 1877, the developed parts of the gardens were dotted with enclosures housing an impressive collection of about 150 animals. Many were gifts from administrators and dignitaries from Singapore and Malaya: the governor of the Straits Settlements, Andrew Clarke (1873–75), presented the zoo with a female two-horned rhinoceros, while the British resident of Perak, Ernest Birch, gave a sloth-bear, and the sultan of Terengganu gifted a tiger. The public also donated a pair of orangutans, a leopard, a number of deer and other small animals. The King of Siam gave the zoo a leopard and the Acclimatisation Society in Melbourne an emu, a great kangaroo, three bed kangaroos and a brush-tailed rock wallaby.[^15]
 
-This dark-handed gibbon hanging off a mangosteen tree is one of the paintings that William Farquhar commissioned Chinese artists to do between 1803 and 1818 when he was resident and commandant of Malacca. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>. 
+![Alt text for image on Isomer site](/images/vol-11-issue-2/zoo/darkhand_gibbon.jpg)
+<div style="background-color: white;">This dark-handed gibbon hanging off a mangosteen tree is one of the paintings that William Farquhar commissioned Chinese artists to do between 1803 and 1818 when he was resident and commandant of Malacca. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.</div>
 
-Entrance of the Singapore Miniature Zoo in Pasir Panjang that was started by Tong Seng Mun in 1957. <i>Tong Seng Mun Collection, courtesy of National Archives of Singapore</i>.
 
 However, the cost of upkeeping the animals soon exceeded the budget allocated to the zoo, and it faced problems in caring for the animals. By 1878, several enclosures had fallen into disrepair. Coupled with the loss of its only keeper, H. Capel, due to a dispute in pay, many of the bigger animals, including the rhinoceros, leopard and two kangaroos died due to poor living conditions. In a bid to stem further losses and reduce its overheads, Murton, Krohn and the Gardens Committee decided to limit the collection to only birds and small animals in 1878. The larger animals were sent to the Calcutta Zoological Gardens in exchange for several Indian bird species.[^16]
 
@@ -34,9 +37,11 @@ The scaled-down Botanic Gardens zoo was now able to operate within budget. In fa
 
 Ridley held high regard for the Botanic Gardens zoo, describing it as an attraction that “was known all over the world, and the first thing asked for by visitors”. He saw the zoo as a means for researchers and the public to learn about animal behaviour objectively. He wrote, “The only way of knowing what an animal thinks is to keep it comfortable and snug and observe its ways. It will soon let you know what it likes, which probably does not at all fall in with your ideas of what it ought to like”.[^19] The public began urging the government to allocate more funds for the zoo to improve its infrastructure but as the cost of its upkeep was too high, the government decided in 1903 to sell all the animals and birds and shut down the zoo.
 
-William Lawrence Soma Basapa. Courtesy of the Basapa Family. <i>Courtesy of the Basapa Family.</i>
+![Alt text for image on Isomer site](/images/vol-11-issue-2/zoo/basapa.jpg)
+<div style="background-color: white;">William Lawrence Soma Basapa. Courtesy of the Basapa Family. <i>Courtesy of the Basapa Family.</i></div>
 
-William Lawrence Soma Basapa with his favourite pet Bengal tiger Apay. <i>Courtesy of the Basapa Family</i>.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/zoo/tiger.jpg)
+<div style="background-color: white;">William Lawrence Soma Basapa with his favourite pet Bengal tiger Apay. <i>Courtesy of the Basapa Family</i>.</div>
 
 #### **Basapa’s Private Zoo**
 
@@ -70,9 +75,11 @@ All this while, the zoo held steadfast to its open concept and exhibited the ani
 
 Many of these attractions were conceived during Bernard Harrison’s term as executive director from 1981 to 2002. After graduating from the University of Manchester with double honours in zoology and psychology, Harrison joined the zoo as an assistant administrative officer in 1973 and rose through the ranks. With his shaggy hair and preference for T-shirts and cargo shorts over designer suits, Harrison was affectionately regarded by employees as a bohemian Tarzan of sorts. However, beneath his laid-back appearance was a deep and abiding interest in animals. With his creativity and willingness to think big and take risks in executing bold ideas, Harrison was able to transform the Singapore Zoo into what it is today.[^54]
 
-A couple riding an elephant at the Singapore Zoological Gardens in the mid-1980s. Singapore Tourist Promotion Board Collection. <i>Courtesy of Singapore Tourist Promotion Board (STPB) Collection, National Archives of Singapore</i>.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/zoo/elephant.jpg)
+<div style="background-color: white;">A couple riding an elephant at the Singapore Zoological Gardens in the mid-1980s. Singapore Tourist Promotion Board Collection. <i>Courtesy of Singapore Tourist Promotion Board (STPB) Collection, National Archives of Singapore</i>.</div>
 
-Deers inside a fenced enclosure at the Singapore Zoological Gardens in 1973. <i>Courtesy of Ho Seng Huat</i>.
+![Alt text for image on Isomer site](/images/vol-11-issue-2/zoo/deer.jpg)
+<div style="background-color: white;">Deers inside a fenced enclosure at the Singapore Zoological Gardens in 1973. <i>Courtesy of Ho Seng Huat</i>.</div>
 
 #### **What’s Next?**
 
