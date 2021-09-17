@@ -124,7 +124,7 @@ history (1819–today)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=142706
 
 [^20]: [Page 5 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18830109-1.2.18.3). (1883, January 9). The Straits Times, p. 5. Retrieved from NewspaperSG.
 
-[^21]: Page 2 Advertisements Column 3: Notice. (1900, June 9). The Straits Times, p. 2; Page 3 Advertisements Column 4: To be let. (1902, April 3). The Straits Times, p. 3; Page 3 Advertisements Column 3: Powell & Co. (1902, April 9). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^21]: [Page 2 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000609-1.2.41.3). (1900, June 9). The Straits Times, p. 2; [Page 3 Advertisements Column 4: To be let](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020403-1.2.7.4). (1902, April 3). The Straits Times, p. 3; Page 3 [Advertisements Column 3: Powell & Co](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020409-1.2.13.3). (1902, April 9). The Straits Times, p. 3. Retrieved from NewspaperSG.
 
 [^22]: Refers to a quick-growing crop grown between successive plantings of a main crop.
 
@@ -133,26 +133,26 @@ Department of Commerce. Retrieved from Archive Organisation website.
 
 [^24]: J.de la C. M., & García, H.S. (2005, November 13). Pineapple: Post-harvest operations (p. 15). Retrieved from the Food and Agriculture Organisation of the United Nations website.
 
-[^25]: Page 3 Advertisements Column 4: A. Clouet. (1893, May 25). The Daily Advertiser, p. 3. Retrieved from NewspaperSG.
+[^25]: [Page 3 Advertisements Column 4: A. Clouet](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18930525-1.2.10.4). (1893, May 25). The Daily Advertiser, p. 3. Retrieved from NewspaperSG.
 
-[^26]: Pilon & Weiler, 2011, p. 88.
+[^26]: [Pilon & Weiler](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610), 2011, p. 88.
 
-[^27]: Singapore trademark action. (1904, February 20). The Straits Times, p. 5; Page 8 Advertisements Column 3: Trade mark. (1904, October 10). The Straits Times, p. 8; Page 8 Advertisements Column 2: A. Clouet. (1910, April 15). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^27]: [Singapore trademark action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19040220-1.2.42). (1904, February 20). The Straits Times, p. 5; [Page 8 Advertisements Column 3: Trade mark](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19041010-1.2.68.3). (1904, October 10). The Straits Times, p. 8; [Page 8 Advertisements Column 2: A. Clouet](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100415-1.2.102.2). (1910, April 15). The Straits Times, p. 8. Retrieved from NewspaperSG.
 
-[^28]: Scent for the Crown. (1909, December 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^28]: [Scent for the Crown](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19091223-1.2.67). (1909, December 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
-[^29]: Page 6 Advertisements Column 2: “Triomphe" Sardines. (1917, March 23). The Straits Times, p. 6. Retrievd from NewspaperSG.
+[^29]: [Page 6 Advertisements Column 2: “Triomphe" Sardines](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19170323-1.2.11.2). (1917, March 23). The Straits Times, p. 6. Retrievd from NewspaperSG.
 
-[^30]: Page 6 Advertisements Column 2: 100 Xmas hampers. (1916, December 6). The Straits Times, p. 6; Page 6 Advertisements Column 2: For those who want the best. (1934, January 24). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^30]: [Page 6 Advertisements Column 2: 100 Xmas hampers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19161206-1.2.10.2). (1916, December 6). The Straits Times, p. 6; Page 6 Advertisements Column 2: [For those who want the best](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340124-1.2.26.2). (1934, January 24). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
-[^31]: Malaya-Borneo: Arts and crafts section of exhibition. (1922, April 5). The Straits Times, p. 9. Retrieved from NewspaprSG.
+[^31]: [Malaya-Borneo: Arts and crafts section of exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220405-1.2.65). (1922, April 5). The Straits Times, p. 9. Retrieved from NewspaprSG.
 
-[^32]: Fisheries Department. (1925, May 7). The Singapore Free Press, p. 7; Untitled. (1936, October 10) The Straits Times, p. 13. Retrieved from NewspaperSG.
+[^32]: [Fisheries Department](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250507-1.2.58). (1925, May 7). The Singapore Free Press, p. 7; [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361010-1.2.70). (1936, October 10) The Straits Times, p. 13. Retrieved from NewspaperSG.
 
-[^33]: Burdon, T.W. (1955). The fishing industry of Singapore (p. 23). Singapore: D. Moore. (RCLOS 639.2095957 BUR)
+[^33]: Burdon, T.W. (1955). [The fishing industry of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077993) (p. 23). Singapore: D. Moore. (RCLOS 639.2095957 BUR)
 
-[^34]: Pilon & Weiler, 2011, p. 163.
+[^34]: [Pilon & Weiler](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610), 2011, p. 163.
 
-[^35]: Euromonitor International Ltd. (2015, April 1). Euromonitor sector capsule: Canned/preserved food in Singapore. Retrieved from Factiva via NLB’s eResources website.
+[^35]: Euromonitor International Ltd. (2015, April 1). Euromonitor sector capsule: Canned/preserved food in Singapore. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^36]: GlobeNewswire Inc. (2013, October 21). Canned food – A global market overview. Retrieved from Factiva via NLB’s eResources website.
+[^36]: GlobeNewswire Inc. (2013, October 21). Canned food – A global market overview. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
