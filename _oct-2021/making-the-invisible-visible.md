@@ -108,3 +108,39 @@ Machado’s other favourite statue is St Roch, a male saint canonised in the 16t
 As the restoration of St Joseph’s Church approaches completion in late 2021, after almost three years, its full architectural splendour will be made visible with its original flooring reinstated, new lighting and paintwork. The statues will once again take up their places in niches that line the nave and transept, their finery revealed by soft illumination. 
 
 Reverend Father Joe Lopez Carpio, the current rector, is pleased with the outcome of Machado’s hard work: “The statue restoration has been executed professionally alongside the building restoration. The statues no longer have any cracks or other physical damage. Their original colours have been restored, together with their facial expressions, which make them come alive. We are now working to perfect the illumination for the statues so that their restored beauty can be seen by every visitor to the church.”[^13] In short, to encounter the invisible that has been made visible.[^14]
+
+
+<div style="background-color: white;">
+<br/>
+<b>Alvin Tan</b>  is an independent researcher and writer with a strong focus on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow</i> and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i>.</div>
+
+#### NOTES
+
+[^1]: Melody Zaccheus and Adrian Lim, “[Treasures Hidden Under Layers of Paint](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170730-1.2.12.7),” *Straits Times*, 30 July 2017, 14. (From NewspaperSG)
+
+[^2]: Saint Joseph’s Church, *Restoring Saint Joseph’s Church: Bringing Life and Colour to a National Treasure* (Singapore: Saint Joseph’s Church, undated), 44. (Not available in NLB’s holdings)
+
+[^3]: Members of the Society of Jesus – a religious order of the Catholic church headquartered in France – use the letters SJ after their personal names. This is an abbreviation of their Congregation’s name. The members of this order are called Jesuits.
+
+
+[^4]: Monsignor Philip Heng, SJ, interview, 17 July 2021. 
+
+[^5]: Zaccheus and Lim, “[Treasures Hidden Under Layers of Paint](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170730-1.2.12.7).”
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
+
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]: 
