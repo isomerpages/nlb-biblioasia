@@ -15,7 +15,7 @@ There were the *lesung* (granite mortar, usually sold with a matching granite pe
 
 Through skillful time management, the freshest produce and a system of cooking that entailed *pegang tangan* (touch of hand), the matriarchs of Chetty Melaka kitchens prepared food that hardly needed refrigeration, with their uncanny sense of *pegang tangan* greatly reducing wastage – from the food preparation stage right through to the quantity served.
 
-<img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty2.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty2.JPG">
 <div style="background-color: white;">The writer’s mother Madam Devaki Nair (left) and grandaunt Madam Salachi Retnam in 1991, with some of the Indian Peranakan dishes they had prepared using recipes that were passed down through oral tradition. <i>Pegang tangan</i>, or touch of hand, ensured that the right quantities of ingredients were used and nothing was wasted. <i>Image source: The Straits Times © Singapore Press Holdings Limited. Reprinted
 with permission.</i></div>
 
