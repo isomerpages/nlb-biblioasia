@@ -1,9 +1,10 @@
 ---
-title: Mrs Dare and her Magnificent Driving Machine
+title: Mrs Dare and Her Magnificent Driving Machine
 date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/mrs-dare-driv-mchn/
 layout: post
 ---
+
 #### The intrepid Mrs G.M. Dare – true to her name – was Singapore’s first woman driver. In April 1907, she embarked on a 686-mile road trip across the Malay Peninsula.
 
 <img style="width: 550px; height: 380px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare1.JPG">
