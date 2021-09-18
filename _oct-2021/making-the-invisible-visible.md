@@ -127,7 +127,7 @@ Reverend Father Joe Lopez Carpio, the current rector, is pleased with the outcom
 
 [^5]: Zaccheus and Lim, “[Treasures Hidden Under Layers of Paint](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170730-1.2.12.7).”
 
-[^6]: 
+[^6]: Luis Dourdil (1914–89) was a 20th-century Portuguese artist. A self-taught man, he created several notable wall paintings and murals. See “Luis Dourdil,” Prabook, accessed 16 July 2021, https://prabook.com/web/luis.dourdil/3742719. 
 
 [^7]: 
 
