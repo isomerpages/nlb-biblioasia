@@ -115,7 +115,7 @@ Advertisements for television sets not only emphasised their high-quality pictur
 [^4]: Energy Market Authority. (2016, December 20). *Singapore energy story*. Retrieved from Energy Market Authority Singapore website.
 [^5]:Energy Market Authority, 20 Dec 2016.
 [^6]: [“Utility” iron](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470223-1.2.22.1). (1947, February 23). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
-[^7]: Huff, W.G. (2001, May). Entitlements, destitution, and emigration in the 1930s Singapore Great Depression. *The Economic History Review*, 54(2), 290–323, p. 305. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^7]: Huff, W.G. (2001, May). Entitlements, destitution, and emigration in the 1930s Singapore Great Depression. *The Economic History Review, 54*(2), 290–323, p. 305. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^8]: Chua, A.L. (2016, April–June). [The story of Singapore radio: 1924–41](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/). *BiblioAsia, 12*(1), 22–27, p. 22. Retrieved from BiblioAsia website.
 [^9]: [Chua](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/), April–June 2016; McDaniel, D.O. (1994). [*Broadcasting in the Malay world: Radio, television and video in Brunei, Indonesia, Malaysia, and Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) (pp. 34–37). Norwood, NJ: Ablex Pub. (Call no.: RSING 302.2340959 MAC) 
 [^10]: [Chua](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/), Apr–June 2016, p. 25.
