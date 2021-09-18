@@ -4,7 +4,6 @@ date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/mrs-dare-driv-mchn/
 layout: post
 ---
-
 #### The intrepid Mrs G.M. Dare – true to her name – was Singapore’s first woman driver. In April 1907, she embarked on a 686-mile road trip across the Malay Peninsula.
 
 <img style="width: 550px; height: 380px;" src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare1.JPG">
@@ -67,12 +66,12 @@ From “The Box” at 4,200 ft, the views are immense. Below, Taiping looks like
 
 Inland, one looks into the heart of the Malay Peninsula. Range upon range of mountains from 4,000 to 9,000 feet, nearly all untouched and unscaled by man – primeval jungle – the happy hunting ground of tigers, elephants, deer, wild pig, bears, monkeys and what not!
 
-<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/image.JPG">
-<div style="background-color: white;">(Left) In Taiping, Mrs Dare and Miss Hardman travelled on elephants like these to the cool shady riverside for a delicious tiffin of Malay curries. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 70). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350)</i><br>
-	(Right) <i>Menggelunchor</i> involves sitting on thick pieces of plantain fibre called <i>upih</i> and tobogganing down the smooth rock in the river into the pool below. Mrs Dare was treated to such a scene in Taiping.</div>
-
 We returned to Taiping and motored out to the 18th milestone on the Kuala Kangsar road where, at the Penghulu’s, we were provided with an elephant, on which we rode for two miles. On arrival at the cool shady riverside, we found a shed erected and a delicious tiffin of Malay curries for our benefit. It was great fun watching the Malays and the men of our party seated on thick pieces of plantain fibre called *upih* and tobogganing down some 60 feet of smooth rock in the river into the cool inviting pool below – an activity called *menggelunchor*.
 
+<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/image.JPG">
+<div style="background-color: white;">(Left) In Taiping, Mrs Dare and Miss Hardman travelled on elephants like these to the cool shady riverside for a delicious tiffin of Malay curries. <i>Image reproduced from Harrison, C.W. (Ed.). (1910). An Illustrated Guide to the Federated Malay States (facing p. 70). London: The Malay States Information Agency. (Accession no.: B30160627C; Microfilm no.: NL16350).</i><br>
+	(Right) <i>Menggelunchor</i> involves sitting on thick pieces of plantain fibre called <i>upih</i> and tobogganing down the smooth rock in the river into the pool below. Mrs Dare was treated to such a scene in Taiping.</div>
+	
 #### **Bound for Ipoh**
 
 We left Taiping for Ipoh via Kuala Kangsar, a distance of 56 miles, at 8.30 am on 20 April, and had a delightful run over the Bukit Larut Pass. The morning was exceptionally clear and the mountains a magnificent sight. Right in front of us was Gunong Pondok, a huge perpendicular pinnacle of limestone rock.
