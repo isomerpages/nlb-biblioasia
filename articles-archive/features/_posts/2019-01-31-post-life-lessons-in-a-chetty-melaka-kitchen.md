@@ -23,7 +23,7 @@ It was anathema in our family to write down recipes. Everything was passed down 
 
 Food wastage is such a cardinal sin in Chetty Melaka kitchens that – even to this day – the matriarchs would consume the leftover food themselves rather than invoke the wrath of Annapurni, the resident kitchen deity of Chetty Melaka families, who although dress and speak like Malays, are staunch Hindus. The goddess, we were all taught even before we grew our front teeth, presides over the making of food, so every precious morsel wasted is an insult to her.
 
-<img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty3.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty3.JPG">
 <div style="background-color: white;">A typical Indian Peranakan house in Kampung Chetti, or Chetty Village, at Jalan Gajah Berang in Malacca. The front porch of the house is called <i>thinnai</i>, where strangers are allowed to rest or spend the night. This tradition is not practised by other South Indians in Singapore and Malaysia. <i>Image reproduced from Dhoraisingam, S.S. (2006). Peranakan Indians of Singapore and Melaka: Indian Babas and Nonyas – Chitty Melaka (p. 23). Singapore. (Call no.: RSING 305.8950595 SAM).</i></div>
 
 Because of this, we grew up valuing money even more – that by cleaning our plates, we were building up our store of merit by honouring the work of those who had slaved in the kitchen all day to put food on the table and also to those who worked all day to make it possible to buy the produce and the ingredients in the first place.
