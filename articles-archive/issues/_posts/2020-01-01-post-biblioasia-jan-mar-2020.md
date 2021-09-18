@@ -9,7 +9,7 @@ permalink: /vol-15/issue-4/jan-mar-2020/
 
 In this issue, we look back at the glory days of Rediffusion, explore *bangsawan* venues of old, and find out how Singapore's Chinese newspaper scene has evolved. We also remember four Singaporean journalists who covered the Vietnam War.
 
-[Director’s Note](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2016:48:36.000/wp/details/http://www.nlb.gov.sg/biblioasia/2020/02/21/directors-note-16/){:target="_blank"} 
+[Director’s Note](https://nlb-ba-staging.netlify.app/vol-15/issue-4/jan-mar-2020/directors-note/) {:target="_blank"} 
 
 **[Rediffusion’s Golden Years](https://nlb-ba-staging.netlify.app/vol-15/issue-4/jan-mar-2020/rdifs-gden-yrs/)** <br>Singapore’s only cable radio service was an instant hit when it was launched in 1949. *Barbara Quek* charts the history of the pioneering broadcasting station. [(PDF)](/files/pdf/vol-15/v15-issue4_Rediffusion.pdf)
 
