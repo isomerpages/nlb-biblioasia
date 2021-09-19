@@ -80,14 +80,13 @@ This sensitivity to seasonal constraints was also a crucial characteristic of fo
 
 Industrialised food production has overcome constraints like these. One can now enjoy durian at any time of the year, despite it being a seasonal fruit. This has allowed the human consumer to transcend their position within the food chain, no longer subject to its natural processes or the constraints of seasonality. There is a danger, perhaps, in this growing distance between us and the natural processes that give rise to our food. The more removed we are from the natural domains where our ingredients were once traditionally harnessed, the less control and discernment we have in determining what food we should be consuming.
 
-
-
-|**A DURIAN BY ANY OTHER NAME**|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+**A DURIAN BY ANY OTHER NAME**
 Unlike the coconut and the pineapple, the durian does not seem to have been cultivated as a commercial crop by the Malays in the past. Durian trees were either encountered in the wild, or one might have the trees in one’s dusun (orchard or private fruit grove). The Malay expression durian runtuh (like a fallen durian) – used to convey unexpected bounty or good fortune – best illustrates the serendipity with which the durian fruit is found on the ground. 
 There were once dozens of durian varieties that are now mostly lost, eradicated by modern monoculture. Due to aggressive commercial cultivation, durian consumption is now woefully limited to the same set of popular cultivars, such as Mao Shan Wang (Musang King) and the blandly named D24. Gone are the heirloom varieties known to Malays of old. 
 The evocative names of these heirloom durians lyrically describe their shape and form, such as Kuching Tidur (Sleeping Cat). Kachapuri referred to durians whose only edible pulp was found right in the centre (hence kachapuri, the central chamber of a palace). Varieties whose names were inspired by the shape of their pulp include Durian Kepala Gajah (Elephant’s Head), Kepala Rusa (Deer’s Head), Telor (Egg), Daun (Leaf), Kembar Dua (Pair of Twins), Gempa Bumi (Earthquake), Raja Asmara (King of Passion), Juring Panjang (Long Slice), Jantong (Heart), Gelok (Water Vessel), Mata Ketam (Crab’s Eye) and Sultan Bersandar (Reclining Sultan). Durian Bantal (Durian Pillow) probably had a “pillowy” texture. Some names referred to the colour of the fruit, such as Durian Nasi Kunyit (Turmeric Rice), Mentega (Butter), Emas (Gold), Batil Suasa (Rose Gold Bowl), Tembaga (Brass), Gading (Ivory), Susu (Milk) and Otak Udang (Prawns’ Brains). 
 There is also a vocabulary associated with the anatomy of the durian: a single whole durian fruit is sebutir or sebiji durian; a single segment of its interior is sepangsa durian, while a single seed with its edible flesh adjoining is seulas durian, meaning one unit. 
-The following are terms related to the stages in a durian’s growth: |
+The following are terms related to the stages in a durian’s growth:</div>
 
 
 	
