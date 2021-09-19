@@ -111,6 +111,12 @@ Cultural knowledge on consumption – providing a system of ethics, taboos, and 
 This book is scheduled to be published in October 2021. Thereafter, it will be available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries. It will also retail at major bookshops in Singapore.
 </div>
 
+<div style="background-color: white;">
+<br/>
+<img src="pending photo" style="width: 100px; height: 100px;" />
+	<b>Khir Johari</b> is a researcher of Malay history and culture, and former vice-president of the Singapore Heritage Society. He has a Bachelor of Science degree in mathematics from Santa Clara University and a Masters in education from Stanford University. The Food of Singapore Malays (2021) is his first book.
+</div>
+
 #### **NOTES**
 
 [^1]: Sulalat al-Salatin (Genealogy of Kings) is one of the most important works in Malay literature. The current form was compiled in the 17th century based on older prototypes by Bendahara Tun Seri Lanang, the most senior minister of the Johor Sultanate.
