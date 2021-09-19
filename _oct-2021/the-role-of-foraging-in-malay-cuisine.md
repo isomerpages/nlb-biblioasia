@@ -5,7 +5,7 @@ permalink: /vol-17/issue-3/oct-dec-2021/theroleofforaging
 #### Foraging for food in the hills, the forests and the coastline has been carried out by the Malays for centuries, as **Khir Johari** tells us.
 
 ![Alt text for image on Isomer site]()
-<div style="background-color: white;">Foraging at low tide. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i>.</div>
+<div style="background-color: white;">Foraging at low tide. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 
 The Sulalat al-Salatin1 (Genealogy of Kings), better known as Sejarah Melayu or Malay Annals, tells us that when Sang Nila Utama – the Sumatran prince of Palembang who sired the Malay kings of old Singapura – landed on the island of Temasek around 1299,2 the shores were at a dry low tide (ayer tohor). We know this because the tale reports that the first thing his men did after landing was to forage along the beach. Here Sang Nila Utama is referred to by his title Sri Tri Buana, which means “Lord of Three Worlds” (the upper realm of the gods, the world of humans and the underworld):
 
@@ -19,6 +19,9 @@ Foraging, requiring little to no specialised tools and demanding less physical e
 
 The Malays foraged in multiple ecological domains and habitats. This emerged from their well-oriented understanding of local geography, which was made legible by the use of specific nomenclature. They identified different types of terrestrial features: there were padang (plains), cangkat (knolls), bukit (hills), lembah (valleys) and gunung (mountains). But even flat land itself was differentiated based on elevation, with darat (upland) distinguished from baruh (lowland). Forests, or hutan, were classified as either rimba (virgin forest) or belukar (secondary forest). Rivers were divided into hulu (upstream) and hilir (downstream). Freshwater swamps, or paya, were different from mangrove swamps, or bakau. Formations on the coast were also differentiated into telok (bays and coves) and tanjong (capes). At sea, the Malays identified terumbu or beting (patch reefs), karang (coral reefs) and busung (mudflats).
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">(Left) Foraged leaves and herbs to make botok-botok. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i> (Right) To prepare botok-botok, fish slices are marinated with spices and infused with flavourful foliage and herbs, before being wrapped in banana leaves and steamed. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+
 On land, the Malays foraged in the spacious yards around their rural homes, in the belukar near their villages as well as along trails that connected them. Much could be made of the leaves, shoots, stems and roots found therein. In the dish known as botok-botok, fish steak is marinated with spices and infused with flavourful foliage and herbs before being wrapped in banana leaves and steamed. Flowers could also be gathered for consumption. The flowers of the durian tree – prior to their fruiting – were often collected and enjoyed as ulam (a dish of raw vegetables eaten with rice).
 
 Besides foliage, flowers, shoots, roots, stems and tubers, the forests also occasionally turned up rare extravagances, like wild honey. A person skilled in the dangerous task of extracting honey (manisan lebah, literally “bee’s sweets”; also known as ayer madu or simply madu) from a hive was the pawang lebah (beekeeper). 
@@ -31,13 +34,15 @@ Of course the sea was no stranger. Gathering shellfish, seaweed and other intert
 
 Cockles were once abundant along the entire west coast of the Malay Peninsula and on the sandy shores of Singapore. Collected in bucketfuls and carefully rinsed, these shellfish are “a favourite article of diet” of the Malays,4 who cooked them into sambal, or simply boiled them, stir-fried with vegetables, or skewered into sate kerang.
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">(Left) Foraged leaves and herbs to make botok-botok. <i> Sea urchin consumption was once common among coastal Malays. In many parts of the world today, sea urchin is considered a delicacy. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+
 In the days before Singapore’s southern islands were reclaimed and their inhabitants relocated to the mainland, the islands were home to various Malay communities who had an intimate relationship with the marine ecology around them. Juria Toramae, an independent researcher, artist and marine conservationist, has written about how the residents of outlying islands like Pulau Sudong lived off collecting corals and seaweed, in a place where land was too scarce to put under the plough. She notes how “corals and seaweeds were popular amongst Singapore’s mainlanders for home decoration and jelly-making”.5
 
 In a paper published in 1982, Chew Soo Beng gives a rich account of the lives of the Pulau Sudong islanders before they were resettled into high-rise public housing on the mainland in the late 1970s:
 “Groups of women row their kolek [small wooden boat] to different parts of the exposed portions of the reef to gather sea produce. This activity was performed with considerable gaiety, seeming to be an enjoyable activity. Everyone carried a basket and unmarried girls wore bunga raya (hibiscus) in their hair. In teams of threes or fours, usually to form a line, they combed the reef for agar-agar (an edible seaweed), gulong, the trepang and a variety of beche-de-mer. When both the tide and sun were low, the gathered chatter of the women at work could drift into the village where the men, excluded from the offshore merriment, conversed beneath their favourite pondok.”6
 
 Remnants of this lost way of life can be seen today only in those parts of the Riau Islands in Indonesia where such time-tested rhythms have not been swept away by the modern economy’s relentless forces. The fishing and gathering expeditions of Singapore’s southern islanders often brought them to Riau. The islands on both sides of the Singapore-Indonesia border together formed a contiguous maritime neighbourhood. 
-
 
 Bound by ties of kinship, these island communities transcended the artificial international borders that divide the waters between Singapore and Indonesia, first drawn up by the British and Dutch colonial powers in the Anglo-Dutch Treaty of 1824.7 Prior to the 1997 Asian Financial Crisis, the Singapore dollar was a widely accepted currency in Riau. Even when Riau islanders got married, dowry exchange was made in the Singapore dollar as well. This affinity with Singapore was made possible by geographical proximity. 
 
@@ -47,6 +52,10 @@ Of course, mainland Singapore itself is an island, and Malays residing in its co
 
 In 2009, the Berita Harian newspaper reported that two women – Che’ Kamsiah and Che’ Saemah – were seen picking cockles and shellfish from Sungai Ketapang, a tributary of the Bedok River (Sungai Bedok).8 That an activity once so commonplace is now considered newsworthy attests to the radical transformation in the way of life of Malays in Singapore. Sungai Ketapang has since been canalised in concrete and courses by the Laguna National Golf and Country Club before flowing into the Bedok River.
 
+	![Alt text for image on Isomer site]()
+<div style="background-color: white;">Male <i>gonggong</i> (sea snails) collected from mudflats. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.
+</i></div>
+	
 #### **Conscious Consumption**
 
 Prior to reclamation and more recent development, one can imagine how Sungai Ketapang was perhaps one among many natural cornucopias for Malay settlements in old Tanah Merah. More importantly, this episode suggests the profoundly intimate knowledge that indigenous communities have of their natural world, one that has even withstood – in its own little way – the displacement brought about by urbanisation.
