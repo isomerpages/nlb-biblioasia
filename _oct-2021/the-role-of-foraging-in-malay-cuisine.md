@@ -52,9 +52,8 @@ Of course, mainland Singapore itself is an island, and Malays residing in its co
 
 In 2009, the Berita Harian newspaper reported that two women – Che’ Kamsiah and Che’ Saemah – were seen picking cockles and shellfish from Sungai Ketapang, a tributary of the Bedok River (Sungai Bedok).8 That an activity once so commonplace is now considered newsworthy attests to the radical transformation in the way of life of Malays in Singapore. Sungai Ketapang has since been canalised in concrete and courses by the Laguna National Golf and Country Club before flowing into the Bedok River.
 
-	![Alt text for image on Isomer site]()
-<div style="background-color: white;">Male <i>gonggong</i> (sea snails) collected from mudflats. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.
-</i></div>
+![Alt text for image on Isomer site]()
+<div style="background-color: white;"><i>Janur</i> (tender young coconut fronds), destined for transformation into <i>ketupat</i> casing. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 	
 #### **Conscious Consumption**
 
@@ -64,7 +63,7 @@ This knowledge extends to understanding what can be acquired at which times of t
 
 For instance, it was never in the long-term interest of a kampong community to harvest all the fish in a water body at once, even if one had the means. Some foraging practices could even help in the propagation of certain plants, such as turi (Sesbania grandiflora) and ubi kayu (cassava; Manihot esculenta), where a broken-off stem regenerates into two or more new ones. Even when flowers were picked, it was important not to strip the entire plant bare, but to leave some flowers behind to ensure that there was no decline in the fruit crop.
 
-		![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site]()
 <div style="background-color: white;">Picking the seasonal <i>agar-agar</i>, which is boiled down and its gelatinous by-product made into dessert throughout the Malay world. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 	
 If an entire tree had to be killed, no part went to waste. This was the case when the umbut – the prized heart of a palm – was acquired. Once the umbut was removed, the palm ceased to live. For coconut palms, the leaves were gathered for weaving into ketupat (rice cakes) cases or for wrapping otak-otak (fish mousse mixed with spices, wrapped in banana or coconut leaves and then grilled). The spines of the fronds, lidi, had multiple uses too: they were mainly used as skewers for sate (satay), and could also be bundled together to form an egg-beater or even a broom if longer fronds were used. The trunk was often used as a beam in construction, while dried coconut husks were used as cooking fuel. 
