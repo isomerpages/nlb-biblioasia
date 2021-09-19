@@ -4,6 +4,9 @@ permalink: /vol-17/issue-3/oct-dec-2021/theroleofforaging
 ---
 #### Foraging for food in the hills, the forests and the coastline has been carried out by the Malays for centuries, as **Khir Johari** tells us.
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">Foraging at low tide. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i>.</div>
+
 The Sulalat al-Salatin1 (Genealogy of Kings), better known as Sejarah Melayu or Malay Annals, tells us that when Sang Nila Utama – the Sumatran prince of Palembang who sired the Malay kings of old Singapura – landed on the island of Temasek around 1299,2 the shores were at a dry low tide (ayer tohor). We know this because the tale reports that the first thing his men did after landing was to forage along the beach. Here Sang Nila Utama is referred to by his title Sri Tri Buana, which means “Lord of Three Worlds” (the upper realm of the gods, the world of humans and the underworld):
 
 “And when [the men] reached the shore, the ship was brought close in and Sri Tri Buana went ashore with all the ship’s company and they amused themselves with collecting all manner of shellfish and seaweeds.”3
