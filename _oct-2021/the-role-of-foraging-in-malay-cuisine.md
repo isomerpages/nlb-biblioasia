@@ -7,7 +7,7 @@ permalink: /vol-17/issue-3/oct-dec-2021/theroleofforaging
 ![Alt text for image on Isomer site]()
 <div style="background-color: white;">Foraging at low tide. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 
-The Sulalat al-Salatin1 (Genealogy of Kings), better known as Sejarah Melayu or Malay Annals, tells us that when Sang Nila Utama – the Sumatran prince of Palembang who sired the Malay kings of old Singapura – landed on the island of Temasek around 1299,2 the shores were at a dry low tide (ayer tohor). We know this because the tale reports that the first thing his men did after landing was to forage along the beach. Here Sang Nila Utama is referred to by his title Sri Tri Buana, which means “Lord of Three Worlds” (the upper realm of the gods, the world of humans and the underworld):
+The *Sulalat al-Salatin*[^1] (Genealogy of Kings), better known as Sejarah Melayu or Malay Annals, tells us that when Sang Nila Utama – the Sumatran prince of Palembang who sired the Malay kings of old Singapura – landed on the island of Temasek around 1299,2 the shores were at a dry low tide (ayer tohor). We know this because the tale reports that the first thing his men did after landing was to forage along the beach. Here Sang Nila Utama is referred to by his title Sri Tri Buana, which means “Lord of Three Worlds” (the upper realm of the gods, the world of humans and the underworld):
 
 “And when [the men] reached the shore, the ship was brought close in and Sri Tri Buana went ashore with all the ship’s company and they amused themselves with collecting all manner of shellfish and seaweeds.”3
 
@@ -114,7 +114,7 @@ This book is scheduled to be published in October 2021. Thereafter, it will be a
 <div style="background-color: white;">
 <br/>
 <img src="pending photo" style="width: 100px; height: 100px;" />
-	<b>Khir Johari</b> is a researcher of Malay history and culture, and former vice-president of the Singapore Heritage Society. He has a Bachelor of Science degree in mathematics from Santa Clara University and a Masters in education from Stanford University. The Food of Singapore Malays (2021) is his first book.
+	<b>Khir Johari</b> is a researcher of Malay history and culture, and former vice-president of the Singapore Heritage Society. He has a Bachelor of Science degree in mathematics from Santa Clara University and a Masters in education from Stanford University. <i>The Food of Singapore Malays</i> (2021) is his first book.
 </div>
 
 #### **NOTES**
