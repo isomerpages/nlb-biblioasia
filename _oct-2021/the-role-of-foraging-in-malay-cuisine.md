@@ -69,15 +69,15 @@ This knowledge extends to understanding what can be acquired at which times of t
 ![Alt text for image on Isomer site]()
 <div style="background-color: white;"><i>Janur</i> (tender young coconut fronds), destined for transformation into <i>ketupat</i> casing. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 	
-For instance, it was never in the long-term interest of a kampong community to harvest all the fish in a water body at once, even if one had the means. Some foraging practices could even help in the propagation of certain plants, such as turi (Sesbania grandiflora) and ubi kayu (cassava; Manihot esculenta), where a broken-off stem regenerates into two or more new ones. Even when flowers were picked, it was important not to strip the entire plant bare, but to leave some flowers behind to ensure that there was no decline in the fruit crop.
+For instance, it was never in the long-term interest of a kampong community to harvest all the fish in a water body at once, even if one had the means. Some foraging practices could even help in the propagation of certain plants, such as <i>turi</i> (<i>Sesbania grandiflora</i>) and <i>ubi kayu</i> (cassava; <i>Manihot esculenta</i>), where a broken-off stem regenerates into two or more new ones. Even when flowers were picked, it was important not to strip the entire plant bare, but to leave some flowers behind to ensure that there was no decline in the fruit crop.
 
-If an entire tree had to be killed, no part went to waste. This was the case when the umbut – the prized heart of a palm – was acquired. Once the umbut was removed, the palm ceased to live. For coconut palms, the leaves were gathered for weaving into ketupat (rice cakes) cases or for wrapping otak-otak (fish mousse mixed with spices, wrapped in banana or coconut leaves and then grilled). The spines of the fronds, lidi, had multiple uses too: they were mainly used as skewers for sate (satay), and could also be bundled together to form an egg-beater or even a broom if longer fronds were used. The trunk was often used as a beam in construction, while dried coconut husks were used as cooking fuel. 
+If an entire tree had to be killed, no part went to waste. This was the case when the <i>umbut</i> – the prized heart of a palm – was acquired. Once the <i>umbut</i> was removed, the palm ceased to live. For coconut palms, the leaves were gathered for weaving into <i>ketupat</i> (rice cakes) cases or for wrapping <i>otak-otak</i> (fish mousse mixed with spices, wrapped in banana or coconut leaves and then grilled). The spines of the fronds, <i>lidi</i>, had multiple uses too: they were mainly used as skewers for <i>sate</i> (<i>satay</i>), and could also be bundled together to form an egg-beater or even a broom if longer fronds were used. The trunk was often used as a beam in construction, while dried coconut husks were used as cooking fuel. 
 
 Modern-day exploitation of natural resources and industrial capitalism, however, challenged the viability of foraging as a way of life. Just as the last of the Malay villages in Singapore were being torn down in the 1970s and 80s, growing awareness was afoot in the West about this fast-disappearing mode of consumption. 
 
 In 1971, Alice Waters, one of the key pioneers of the organic food movement in the United States, opened her restaurant Chez Panisse (which is still in operation today) in Berkeley, California. The restaurant emphasises using only locally grown ingredients from sustainable sources, and the menu changes according to the seasons, serving only what is available at that time of the year. 
 
-This sensitivity to seasonal constraints was also a crucial characteristic of foraging by the Malays. They only plucked the leaves of the puchok pakis (fiddlehead fern; Diplazium esculentum) while these were tightly furled. While binjai (Mangifera caesia) can be consumed even before it ripens, as some find it appealing in its sour stages, one rarely plucked the tree bare before the fruits reached their prime. As for the keranji (Dialium indum), the fruits emerge only once every five years, making it a waste to chop the tree down in its “unproductive” years in between.
+This sensitivity to seasonal constraints was also a crucial characteristic of foraging by the Malays. They only plucked the leaves of the <i>puchok pakis</i> (fiddlehead fern; <i>Diplazium esculentum</i>) while these were tightly furled. While <i>binjai</i> (<i>Mangifera caesia</i>) can be consumed even before it ripens, as some find it appealing in its sour stages, one rarely plucked the tree bare before the fruits reached their prime. As for the <i>keranji</i> (<i>Dialium indum</i>), the fruits emerge only once every five years, making it a waste to chop the tree down in its “unproductive” years in between.
 
 Industrialised food production has overcome constraints like these. One can now enjoy durian at any time of the year, despite it being a seasonal fruit. This has allowed the human consumer to transcend their position within the food chain, no longer subject to its natural processes or the constraints of seasonality. There is a danger, perhaps, in this growing distance between us and the natural processes that give rise to our food. The more removed we are from the natural domains where our ingredients were once traditionally harnessed, the less control and discernment we have in determining what food we should be consuming.
 
@@ -85,19 +85,19 @@ Industrialised food production has overcome constraints like these. One can now 
 Unlike the coconut and the pineapple, the durian does not seem to have been cultivated as a commercial crop by the Malays in the past. Durian trees were either encountered in the wild, or one might have the trees in one’s <i>dusun</i> (orchard or private fruit grove). The Malay expression <i>durian runtuh</i> (like a fallen durian) – used to convey unexpected bounty or good fortune – best illustrates the serendipity with which the durian fruit is found on the ground.<br><br>
 There were once dozens of durian varieties that are now mostly lost, eradicated by modern monoculture. Due to aggressive commercial cultivation, durian consumption is now woefully limited to the same set of popular cultivars, such as Mao Shan Wang (Musang King) and the blandly named D24. Gone are the heirloom varieties known to Malays of old. <br><br>
 The evocative names of these heirloom durians lyrically describe their shape and form, such as Kuching Tidur (Sleeping Cat). Kachapuri referred to durians whose only edible pulp was found right in the centre (hence kachapuri, the central chamber of a palace). Varieties whose names were inspired by the shape of their pulp include Durian Kepala Gajah (Elephant’s Head), Kepala Rusa (Deer’s Head), Telor (Egg), Daun (Leaf), Kembar Dua (Pair of Twins), Gempa Bumi (Earthquake), Raja Asmara (King of Passion), Juring Panjang (Long Slice), Jantong (Heart), Gelok (Water Vessel), Mata Ketam (Crab’s Eye) and Sultan Bersandar (Reclining Sultan). Durian Bantal (Durian Pillow) probably had a “pillowy” texture. Some names referred to the colour of the fruit, such as Durian Nasi Kunyit (Turmeric Rice), Mentega (Butter), Emas (Gold), Batil Suasa (Rose Gold Bowl), Tembaga (Brass), Gading (Ivory), Susu (Milk) and Otak Udang (Prawns’ Brains). <br><br>
-There is also a vocabulary associated with the anatomy of the durian: a single whole durian fruit is sebutir or sebiji durian; a single segment of its interior is sepangsa durian, while a single seed with its edible flesh adjoining is seulas durian, meaning one unit. <br><br>
+There is also a vocabulary associated with the anatomy of the durian: a single whole durian fruit is <i>sebutir</i> or <i>sebiji</i> durian; a single segment of its interior is <i>sepangsa</i> durian, while a single seed with its edible flesh adjoining is <i>seulas</i> durian, meaning one unit. <br><br>
 The following are terms related to the stages in a durian’s growth:<br><br>
 
-| *Mata ketam* | Very small | 
+| <i>Mata ketam</i> | Very small | 
 | -------- | -------- |
-| *Mendamak* | When thorns first appear |
-| Kepala kera | Larger but dry |
-| Mentimun ayer | Beginning to be juicy |
-| Meliat | Getting consistency |
-| Mendaging ayam | Sweet and rich |
-| Menchempur | Fruit first falling |	
-| Membuang burok | Fruit first falling |
-| Gugur rahat | Falling plentifully |
+| <i>Mendamak</i> | When thorns first appear |
+| <i>Kepala kera</i> | Larger but dry |
+| <i>Mentimun ayer</i> | Beginning to be juicy |
+| <i>Meliat</i> | Getting consistency |
+| <i>Mendaging ayam</i> | Sweet and rich |
+| <i>Menchempur</i> | Fruit first falling |	
+| <i>Membuang burok</i> | Fruit first falling |
+| <i>Gugur rahat</i> | Falling plentifully |
 </div>
 
 
@@ -108,7 +108,7 @@ Journalist and food writer Michael Pollan argues that the modern food industry h
 
 Cultural knowledge on consumption – providing a system of ethics, taboos, and other do’s-and-don’ts with regard to nutrition – has also become increasingly less relevant as advancements in nutrition science offer more systematic guidelines. While the latter ought to be celebrated, we cannot help but mourn, however little, the loss of inherited wisdom from earlier generations that understood food within an ecological context, and one in which the human consumer was embedded. As global food security becomes an increasing concern, it is perhaps timely to remind ourselves that not so long ago, it was still in fact possible for people in Singapore and the region to – at least in part – feed themselves by directly harnessing nature’s gifts.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="Photo here" style="width: 100px; height: 100px;" />This is an edited chapter from The Food of Singapore Malays: Gastronomic Travels Through the Archipelago  by Khir Johari, published by Marshall Cavendish Editions (2021). The book explores in detail the history and culture of Malay food in Singapore and raises questions such as: How did Malay cuisine evolve to its modern-day form? How has geography influenced the way Malays eat? What cultural beliefs shape the rituals of Malay gastronomy? What does food tell us about the Malay worldview?<br><br>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="Photo here" style="width: 100px; height: 100px;" />This is an edited chapter from <i>The Food of Singapore Malays: Gastronomic Travels Through the Archipelago</i>  by Khir Johari, published by Marshall Cavendish Editions (2021). The book explores in detail the history and culture of Malay food in Singapore and raises questions such as: How did Malay cuisine evolve to its modern-day form? How has geography influenced the way Malays eat? What cultural beliefs shape the rituals of Malay gastronomy? What does food tell us about the Malay worldview?<br><br>
 This book is scheduled to be published in October 2021. Thereafter, it will be available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries. It will also retail at major bookshops in Singapore.
 </div>
 
