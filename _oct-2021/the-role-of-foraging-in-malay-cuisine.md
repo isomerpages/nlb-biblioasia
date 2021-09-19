@@ -35,7 +35,7 @@ Of course the sea was no stranger. Gathering shellfish, seaweed and other intert
 Cockles were once abundant along the entire west coast of the Malay Peninsula and on the sandy shores of Singapore. Collected in bucketfuls and carefully rinsed, these shellfish are “a favourite article of diet” of the Malays,4 who cooked them into sambal, or simply boiled them, stir-fried with vegetables, or skewered into sate kerang.
 
 ![Alt text for image on Isomer site]()
-<div style="background-color: white;">(Left) Foraged leaves and herbs to make botok-botok. <i> Sea urchin consumption was once common among coastal Malays. In many parts of the world today, sea urchin is considered a delicacy. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+<div style="background-color: white;">(Left) Foraged leaves and herbs to make botok-botok. <i>Sea urchin consumption was once common among coastal Malays. In many parts of the world today, sea urchin is considered a delicacy. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 
 In the days before Singapore’s southern islands were reclaimed and their inhabitants relocated to the mainland, the islands were home to various Malay communities who had an intimate relationship with the marine ecology around them. Juria Toramae, an independent researcher, artist and marine conservationist, has written about how the residents of outlying islands like Pulau Sudong lived off collecting corals and seaweed, in a place where land was too scarce to put under the plough. She notes how “corals and seaweeds were popular amongst Singapore’s mainlanders for home decoration and jelly-making”.5
 
