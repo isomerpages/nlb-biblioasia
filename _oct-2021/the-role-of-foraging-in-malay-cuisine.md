@@ -46,6 +46,10 @@ Remnants of this lost way of life can be seen today only in those parts of the R
 
 Bound by ties of kinship, these island communities transcended the artificial international borders that divide the waters between Singapore and Indonesia, first drawn up by the British and Dutch colonial powers in the Anglo-Dutch Treaty of 1824.7 Prior to the 1997 Asian Financial Crisis, the Singapore dollar was a widely accepted currency in Riau. Even when Riau islanders got married, dowry exchange was made in the Singapore dollar as well. This affinity with Singapore was made possible by geographical proximity. 
 
+	![Alt text for image on Isomer site]()
+<div style="background-color: white;">Male <i>gonggong</i> (sea snails) collected from mudflats. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.
+</i></div>
+	
 Islanders on Pulau Pemping (on the Riau side of the border), for example, can see the Singapore skyline from their homes overlooking the sea. They adhered to the Singapore Standard Time for their daily prayers and watched Singaporean television. Movement across the border used to be more porous. Mak Imah, who lived on Pulau Semakau (on the Singapore side of the border), simply dismantled her home, crossed over to Pulau Pemping and reassembled it. This took place when she and her neighbours were ordered to resettle on the mainland. Singapore’s authorities then amalgamated Pulau Semakau with Pulau Seking to form Semakau Landfill, which began operations on 1 April 1999.
 
 Of course, mainland Singapore itself is an island, and Malays residing in its coastal settlements lived much the same way. Those living in seaside villages such as Tanjong Irau, Telok Mata Ikan, Padang Terbakar, Kampong Wak Hassan and Pasir Panjang, for example, also engaged in foraging for seafood on beaches, intertidal zones, estuaries and rivers. This spontaneous relationship with one’s ecological surroundings is at odds with post-independence Singapore’s micromanagement of nature. In the manicured city-state, fishing is allowed only at designated waterways, and picking of any fallen fruit, vegetable or mineral from the wild is either banned or subject to approval by a state-issued permit. 
@@ -53,7 +57,7 @@ Of course, mainland Singapore itself is an island, and Malays residing in its co
 In 2009, the Berita Harian newspaper reported that two women – Che’ Kamsiah and Che’ Saemah – were seen picking cockles and shellfish from Sungai Ketapang, a tributary of the Bedok River (Sungai Bedok).8 That an activity once so commonplace is now considered newsworthy attests to the radical transformation in the way of life of Malays in Singapore. Sungai Ketapang has since been canalised in concrete and courses by the Laguna National Golf and Country Club before flowing into the Bedok River.
 
 ![Alt text for image on Isomer site]()
-<div style="background-color: white;"><i>Janur</i> (tender young coconut fronds), destined for transformation into <i>ketupat</i> casing. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+<div style="background-color: white;">Picking the seasonal <i>agar-agar</i>, which is boiled down and its gelatinous by-product made into dessert throughout the Malay world. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 	
 #### **Conscious Consumption**
 
@@ -61,11 +65,11 @@ Prior to reclamation and more recent development, one can imagine how Sungai Ket
 
 This knowledge extends to understanding what can be acquired at which times of the day and year, as well as the natural processes of an ecological system that make such foraging practices sustainable. For Malays living in pre-industrial times, where natural resources were readily shared with the community, the principle of conscious consumption was largely upheld. 
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;"><i>Janur</i> (tender young coconut fronds), destined for transformation into <i>ketupat</i> casing. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+	
 For instance, it was never in the long-term interest of a kampong community to harvest all the fish in a water body at once, even if one had the means. Some foraging practices could even help in the propagation of certain plants, such as turi (Sesbania grandiflora) and ubi kayu (cassava; Manihot esculenta), where a broken-off stem regenerates into two or more new ones. Even when flowers were picked, it was important not to strip the entire plant bare, but to leave some flowers behind to ensure that there was no decline in the fruit crop.
 
-![Alt text for image on Isomer site]()
-<div style="background-color: white;">Picking the seasonal <i>agar-agar</i>, which is boiled down and its gelatinous by-product made into dessert throughout the Malay world. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
-	
 If an entire tree had to be killed, no part went to waste. This was the case when the umbut – the prized heart of a palm – was acquired. Once the umbut was removed, the palm ceased to live. For coconut palms, the leaves were gathered for weaving into ketupat (rice cakes) cases or for wrapping otak-otak (fish mousse mixed with spices, wrapped in banana or coconut leaves and then grilled). The spines of the fronds, lidi, had multiple uses too: they were mainly used as skewers for sate (satay), and could also be bundled together to form an egg-beater or even a broom if longer fronds were used. The trunk was often used as a beam in construction, while dried coconut husks were used as cooking fuel. 
 
 Modern-day exploitation of natural resources and industrial capitalism, however, challenged the viability of foraging as a way of life. Just as the last of the Malay villages in Singapore were being torn down in the 1970s and 80s, growing awareness was afoot in the West about this fast-disappearing mode of consumption. 
