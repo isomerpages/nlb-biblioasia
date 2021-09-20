@@ -4,9 +4,10 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/leap-into-movie
 layout: post
 ---
+#### Theatre thespian and film director **Glen Goei** reflects on his transition from the stage to cinema screen.
+
 <img src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile.jpg">
 <div style="background-color: white;">
-Theatre thespian and film director Glen Goei reflects on his transition from the stage to cinema screen.
 </div>	
 	
 My first film, <i>Forever Fever</i>, was born out of a situation of sheer desperation. It was 1995, and I’d been living in the UK for nearly 15 years. I was a 32-year-old West End actor, had won a couple of awards as theatre director on the London stage, and had been running an Asian theatre company called Mu-Lan Arts for close to five years. It was after our fourth production – the staging of <i>Three Japanese Women</i> at London’s Soho Theatre – that reality sunk in: the audience numbers were not increasing and the company’s finances were dwindling. I grew despondent. Despite receiving awards and great reviews from the British media, there just wasn’t sufficient demand for theatre with actors of Asian descent (or Orientals, as less informed Brits are wont to say). 
