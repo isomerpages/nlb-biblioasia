@@ -157,11 +157,11 @@ In China, Wong married another woman. Although the union resulted in the birth o
 [^13]:Kong Lee is the alias of Kuan Kay Tee who, like Yang Ah Lee, later defected and joined the police force as a detective corporal attached to the Special Branch of the Criminal Investigation Department. Kuan also testified against Wong at his trial for Siu Moh’s murder. 
 [^14]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 52. 
 [^15]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 37. 
-[^16]:Clague, 1980, pp. 49. 
-[^17]:Clague, 1980, pp. 52. 
-[^18]:
-[^19]:
-[^20]:
+[^16]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 49. 
+[^17]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 52. 
+[^18]:Throughout his time under police custody, Wong pretended to cooperate with the police but Special Branch officers knew that he was lying. The only crime he admitted to was his unsuccessful attempt to burn down a bus. Wong was eventually charged with the possession of communist publications. 
+[^19]:This is the same John Fairbairn who conducted a joint operation with his Malayan counterparts to arrest Ah Shu, a communist courier, in Singapore in 1952, and uncovered a trail that eventually resulted in the arrest of Lee Meng, the head courier of the MCP. For more information, see Tan, R. (2018, April–June). [Hunting down the Malayan Mata Hari](http://www.nlb.gov.sg/biblioasia/2018/04/09/hunting-down-the-malayan-mata-hari/#sthash.5XI5Iux2.dpbs). *BiblioAsia*, 14(1), 24–29. Retrieved from BiblioAsia website. 
+[^20]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 52.
 
 
 
@@ -169,6 +169,5 @@ In China, Wong married another woman. Although the union resulted in the birth o
 
 
 
-Throughout his time under police custody, Wong pretended to cooperate with the police but Special Branch officers knew that he was lying. The only crime he admitted to was his unsuccessful attempt to burn down a bus. Wong was eventually charged with the possession of communist publications. 
-This is the same John Fairbairn who conducted a joint operation with his Malayan counterparts to arrest Ah Shu, a communist courier, in Singapore in 1952, and uncovered a trail that eventually resulted in the arrest of Lee Meng, the head courier of the MCP. For more information, see Tan, R. (2018, April–June). Hunting down the Malayan Mata Hari. BiblioAsia, 14(1), 24–29. Retrieved from BiblioAsia website. 
-Clague, 1980, pp. 52. 
+
+
