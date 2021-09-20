@@ -35,7 +35,7 @@ As an MPAJA member, Wong’s role was to “eradicate evils and kill traitors”
 
 The appointment obviously suited Wong to a T, for he was described as “a formidable character: ambitious, dedicated and ruthless”. He not only had a tight grip on the unit’s finances, his word too was law, for in meetings he was “always in the chair, directing and giving orders”.11 It was at one of those meetings that businessman Lim Teck Kin’s fate was sealed as well as that other victims – including the failed attempt on the life of a 14-year-old student.
 
-#### **How to Murder a Teen **
+#### **How to Murder a Teen**
 
 Upon receiving instructions from the MCP’s South Malayan Bureau’s headquarters to take out an unnamed 14-year-old male student – who was suspected to have provided leads to the police about an acid attack on a teacher – Wong took a personal interest in planning the murder. The heinous attack on the teacher was believed to have been carried out by his own pupils.12 Just as he had planned the earlier murder of Lim Teck Kin, Wong monitored the student’s movements and ambushed the teen while he was cycling home after a game.
 
