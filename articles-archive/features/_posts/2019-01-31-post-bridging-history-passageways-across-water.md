@@ -17,7 +17,7 @@ Stronger materials such as iron, steel and reinforced concrete, as well as more 
 
 From the final decades of the 19th century until the 1950s, Singapore would witness the construction of modern iron bridges, such as the first Elgin Bridge, Ord Bridge, Read Bridge, Cavenagh Bridge and the third Coleman Bridge, as well as stronger steel or reinforced concrete bridges like Anderson Bridge, the second Elgin Bridge and the second Read Bridge.
 
-#### **1. Anderson Bridge **
+#### **1. Anderson Bridge**
 
 Anderson Bridge, which connects Empress Place to Collyer Quay, is named after John Anderson, Governor of the Straits Settlements and High Commissioner for the Federated Malay States (1904–11). In 1901, a proposal was made to replace Cavenagh Bridge – which had been used since 1869 – with Anderson Bridge.
 
