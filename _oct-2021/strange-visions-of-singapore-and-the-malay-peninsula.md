@@ -42,8 +42,8 @@ Singapore’s tenuous connection to Solomon’s Ophir likely rests on the famed 
 If Ophir seems familiar, much less well-known are the fantasies of the French writer Nicolas-Edme Rétif. Rétif, who used the pen name Restif de la Bretonne, was the author of several salacious titles such as *Le Paysan Perverti* (*The Perverted Peasant*; 1775), *Le Pornographe* (*The Pornographer*; 1769) and *L’Anti-Justine; ou, Les Delices de l'amour* (*The Anti-Justine; or, The Delights of Love*; 1798). In all, Rétif produced over 200-odd works ranging from biographies to science fiction and short stories, covering topics that vary from politics to incest. 
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Nicholas-Edme.jpg)
-<div style="background-color: white;">Portrait of French writer Nicolas-Edme Rétif, who used the pen name Restif de la Bretonne. Among his more successful works is <i>La Découverte Australe par un Homme-volant, ou Le Dédale Francais</i>, published in 1781. </i> by Nicolas Sanson, 1652. <i>Retrieved from Wikimedia Commons.</i></div>
+![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Nicholas-Edme2.jpg)
+<div style="background-color: white;">Portrait of French writer Nicolas-Edme Rétif, who used the pen name Restif de la Bretonne. Among his more successful works is <i>La Découverte Australe par un Homme-volant, ou Le Dédale Francais</i>, published in 1781. <i>Retrieved from Wikimedia Commons.</i></div>
 
 Among his moderately successful publications is one often acclaimed as a proto-work of science fiction, *La Découverte Australe par un Homme-volant, ou le Dédale Francais* (*The Southern Discovery by a Flying Man, or the French Daedalus*).[^8]  Published in 1781 in four volumes, it is a novel of great eccentricity and social critique although its shock value has been very much blunted by the passage of time. 
 
@@ -75,6 +75,7 @@ In 1860, the Parisian elites were witness to the ill-starred debut of *Barkouf* 
 	
 	
 	
+![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Barkouf%20Cover.jpg)
 <div style="background-color: white;">The cover of the musical score (1861) for Jacques Offenbach’s <i>Barkouf</i>. <i>Retrieved from Gallica, Bibliothèque Nationale de France.</i></div>
 	
 	
@@ -144,15 +145,15 @@ Fuelled by expanding geographical knowledge, the writers of these fantastical st
 
 [^3]: Other mentions of Ophir in the Bible can be found in 1 Kings 10:12, 14; 1 Kings 10:21–23; 2 Chronicles 8:16.
 
-[^4]: Giovanni Lorenzo d’Anania, [*L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*](https://archive.org/details/ARes37419) (Venezia: Presso il Muschio, 1582), 265, Internet Archive, https://archive.org/details/ARes37419.
+[^4]: Giovanni Lorenzo d’Anania, *L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati* (Venezia: Presso il Muschio, 1582), 265, Internet Archive, https://archive.org/details/ARes37419.
 
 
-[^5]: D’Anania, [*L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*](https://archive.org/details/ARes37419), 265.
+[^5]: D’Anania, *L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*, 265.
 
 
-[^6]: D’Anania, [*L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*](https://archive.org/details/ARes37419), 268.
+[^6]: D’Anania, *L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*, 268.
 
-[^7]: D’Anania, [*L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*](https://archive.org/details/ARes37419), 268–9.
+[^7]: D’Anania, *L’universale Fabrica Del Mondo, overo Cosmografia Divisa in Quattro Trattati*, 268–9.
 
 [^8]: See Mark Poster, *The Utopian Thought of Restif De La Bretonne* (New York: New York University Press, 1971). (Not available in NLB holdings)
 
