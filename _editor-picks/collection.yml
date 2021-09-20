@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - art.md
+      - people.md
