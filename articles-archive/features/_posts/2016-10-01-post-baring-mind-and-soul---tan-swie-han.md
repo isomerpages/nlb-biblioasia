@@ -135,9 +135,9 @@ Over the years, Tan has generously donated more than 6,600 items from his person
 
 [^7]:Luxury Insider. (2012, December 4). *Most expensive living Singapore artist: Tan Swie Hian sells for S$3.7M*. Retrieved from Luxury Insider website.
 
-[^8]:Shetty, D. (2014, November 30). Tan Swie Hian’s painting sold at auction for S$4.4 million, breaks own record for priciest work by Singapore artist. *The Straits Times*. Retrieved from *The Straits Times* website.
+[^8]:Shetty, D. (2014, December 1). [Tan Swie Hian’s work fetches record S$4.4 million at auction](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20141201-1.2.6.12). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^9]:Singapore press Holdings. (2016, May 31). Mandela-Tan Swie Hian work sold for $630k. *The Straits Times*. Retrieved from *The Straits Times* website.
+[^9]:[Mandela-Tan Swie Hian work sold for $630k](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160531-1.2.14.3.8). (2016, May 31). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
 
 [^10]:Singapore Chinese Orchestra. (2006). *The Celestial Web* [Recorded by Terence Cho]. Singapore: Singapore Chinese Orchestra Co Ltd.
 
