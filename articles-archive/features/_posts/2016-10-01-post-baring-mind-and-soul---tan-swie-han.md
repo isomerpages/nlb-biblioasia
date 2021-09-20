@@ -56,7 +56,7 @@ One of the paintings, titled “A Couple”, is an unusual portrayal of Lee Kuan
 
 The portrait, which is devoid of any political undertones, is an ode to a love that spanned over six decades. Tan began painting this portrait on Valentine’s Day in 2009 and completed it only in 2014. When Kwa passed away in October 2010, he added two Vanda Miss Joaquim orchids, Singapore’s national flower, by her side as a tribute to the devoted mother and loving wife.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-3/baring-mind-and-soul/03-baring-mind-soul.jpg">“A Couple” (2014). Oil, acrylic and ink on canvas, 213.5 cm x 339 cm. <i>Collection of Tan Swie Hian.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-3/baring-mind-and-soul/03b-baring-mind-soul.jpg">“A Couple” (2014). Oil, acrylic and ink on canvas, 213.5 cm x 339 cm. <i>Collection of Tan Swie Hian.</i></div>
 
 #### **Spiritual and Philosophical Insights**
 
