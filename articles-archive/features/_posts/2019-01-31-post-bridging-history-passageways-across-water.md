@@ -32,7 +32,7 @@ The bridge was constructed by Howarth Erskine Ltd and the abutments by the Westm
 
 In 1987, the bridge was refurbished as part of the Singapore River masterplan and subsequently earmarked for conservation by the Urban Redevelopment Authority (URA) in 2008. Today, the bridge is used by both vehicles and pedestrians. Every year since 2008, the bridge is bathed by the glare of floodlights after darkness falls as one of the landmarks in the serpentine Formula One Singapore Grand Prix.
 
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging3.JPG">
+<img style="width: 550px; height: 320px;" src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging3.JPG">
 <div style="background-color: white;">A striking night scene of Anderson Bridge, 2009. The bridge is named after John Anderson, Governor of the Straits Settlements and High Commissioner for the Federated Malay States (1904 –11). <i>Courtesy of Carrie Kellenberger via flickr.</i></div>
 
 #### **2. Cavenagh Bridge**
