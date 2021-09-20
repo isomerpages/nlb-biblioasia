@@ -191,18 +191,18 @@ Ng, M.F.C. (2016). [*Singapore River walk*](http://eservice.nlb.gov.sg/item_hold
 
 Samuel, D.S. (1991). [*Singapore’s heritage: Through places of historical interest*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6252232) (p. 86). Singapore: Elixir Consultancy Service. (Call no.: RSING 959.57 SAM-[HIS])
 
-Savage, V.R., & Yeoh, B.S.A. (2013). Singapore street names: A study of toponymics (pp. 88–89, 317, 322–324). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV-[TRA])
+Savage, V.R., & Yeoh, B.S.A. (2013). [*Singapore street names: A study of toponymics*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850) (pp. 88–89, 317, 322–324). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV-[TRA])
 
-Singapore. Municipality. (1930). Administration report of the Singapore municipality for the year 1929 (p. F–2). Singapore: Fraser & Neave, Limited. (Microfilm no.: NL3414)
+Singapore. Municipality. (1930). *Administration report of the Singapore municipality for the year 1929* (p. F–2). Singapore: Fraser & Neave, Limited. (Microfilm no.: NL3414)
 
-De Silva, Leo & Chandradas. (1985, September 30). Singapore River preserved. The Straits Times, p. 12. Retrieved from NewspaperSG.
+De Silva, Leo & Chandradas. (1985, September 30). [Singapore River preserved](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850930-1.2.23.1). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
 Survey Department, Federated Malay States and Straits Settlements. (1893).
 
-Tan, I. (2012). Bridges to our heritage: The significance of five historic bridges over Singapore River (pp. 50–52, 67–70). Retrieved from University of Edinburgh website.
+Tan, I. (2012). *Bridges to our heritage: The significance of five historic bridges over Singapore River* (pp. 50–52, 67–70). Retrieved from University of Edinburgh website.
 
-Hon, S,S. (1893). Plan of Singapore Town Showing Topographical Detail and Municipal Numbers [Survey map]. Retrieved from National Archives of Singapore website.
+Hon, S,S. (1893). [*Plan of Singapore Town Showing Topographical Detail and Municipal Numbers*](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/5549d1ab-66ca-11e3-bb37-0050568939ad) [Survey map]. Retrieved from National Archives of Singapore website.
 
-Tyers, R.K. (1993). Ray Tyers’ Singapore: Then & now (pp. 7, 11–12, 26–27, 95). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE-[HIS])
+Tyers, R.K. (1993). [*Ray Tyers’ Singapore: Then & now*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442235) (pp. 7, 11–12, 26–27, 95). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE-[HIS])
 
-Wan, M.H., & Lau, J. (2009). Heritage places of Singapore (pp. 9–15). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 WAN-[HIS])
+Wan, M.H., & Lau, J. (2009). [*Heritage places of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13220774) (pp. 9–15). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 WAN-[HIS])
