@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Ronnie Tan** and **Goh Yu Mei** recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
 
-<img style="width: 600px; height: 300px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG">
+<img style="width: 550px; height: 320px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG">
 <div style="background-color: white;">The gun that was used to kill Lim Teck Kin as well as in the attempted murder of a 14-year-old schoolboy. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 6). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
 
 Wong Fook Kwang, who went by several aliases, including Tit Fung (literally “Iron Spearhead” in Cantonese)[^1] was the dreaded Commander of ‘E’ Branch, the assassination wing of the Malayan Communist Party (MCP). The MCP was most active during the Japanese Occupation years when it formed the Malayan People’s Anti-Japanese Army (MPAJA) to fight the enemy, and again in the aftermath of World War II, in the thick of the Malayan Emergency (1948–60), when it waged a guerilla war against the British in a bid to topple the colonial government and set up a communist regime.
@@ -41,7 +41,7 @@ Upon receiving instructions from the MCP’s South Malayan Bureau’s headquarte
 
 On 2 October 1951, the plan was put into action. With Wong watching expectantly from behind an inconspicuous doorway, two of his assailants, one of whom acted as a look-out, waited for the student to cycle past River Valley Road. However, unlike other days, this time the boy was not alone. He had met a friend earlier and decided to dismount his bicycle and walk with his friend along the pavement while pushing his bicycle.
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron3.JPG">
+<img style="width: 500px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron3.JPG">
 <div style="background-color: white;">The car in which pineapple tycoon Lim Teck Kin was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 23). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
 
 At the junction of Teck Guan Road and River Valley Road, one of Wong’s accomplices suddenly emerged from his hiding place and took the boys by surprise. Pulling out his gun, he fired six shots at the intended victim at point blank. Miraculously, the bullets missed their target and the boy managed to make a run for it. Incredibly, there were no passers-by nor motorists to witness the attempted murder along the busy road, so even the police were not notified immediately. By the time the boy managed to compose himself and make a police report, a few hours had lapsed, by which time Wong and his accomplices had long made their getaway in a trishaw.
@@ -63,7 +63,7 @@ On 1 September 1951, Siu was lured to a desolate hut rented from a shrimp catche
 
 On 11 June 1952, four policemen, including a Chinese lieutenant, were in a police car patrolling the area around Bugis and Rochor roads. At 1.10 pm, they turned onto Albert Street, which was “renowned for good, inexpensive, Chinese food”,[^16] with the intention of conducting surprise checks at coffee shops in the area. The police officers approached a table with three Chinese men, who were so engrossed in eating and drinking that they did not notice them.
 
-<img style="width: 650px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron5.JPG">
+<img style="width: 650px; height: 360px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron5.JPG">
 <div style="background-color: white;">View of Albert Street. On 11 June 1952, Wong Fook Kwang and two of his cronies were at one of the coffee shops on Albert Street when they were approached by police officers. Wong bolted from the scene but was eventually caught and taken to Beach Road Police Station for interrogation. <i>All rights reserved. Lee Kip Lin Collection, Lee Kip Lin and National Library Board, Singapore.</i></div>
 
 When asked to produce their identity cards, all three men refused to do so. The police lieutenant then raised his voice, to which the men reluctantly complied. Unbeknownst to the police officers, one of the men in the group was the villainous Wong Fook Kwang. An unsuspecting police corporal turned to Wong and did a body search for weapons, finding on his person instead a paper packet containing what appeared to be dried plums. Still suspicious, the corporal separated the fruit from the paper. In that instant, Wong bolted from the coffee shop and into a side street leading to Rochor Road, with the police officers hot on his heels.
@@ -82,7 +82,7 @@ During Wong’s second stay in hospital, the elderly woman who had earlier claim
 
 On 4 March 1953, between 2 and 4 pm, the elderly woman again visited Wong at the prison ward. She also brought him a parcel of food. The parcel was thoroughly examined by a senior guard on duty before she was allowed entry. After being let through, Wong’s “mother” spoke to him in hushed tones – likely informing him of the impending attempt to help him escape.
 
-<img style="width: 650px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron6.JPG">
+<img style="width: 600px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron6.JPG">
 <div style="background-color: white;">Wong Fook Kwang escaped from the prison ward of the Singapore General Hospital on 4 March 1953. He was on the run for more than a year before he was captured. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **The Brazen Escape**
