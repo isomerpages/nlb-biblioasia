@@ -134,7 +134,7 @@ Pulau Saigon Bridge is named after a small island that once sat in the middle of
 
 In post-1890s maps of Singapore, Pulau Saigon Bridge is shown to be made up of two bridges, Bridge No. 1 and Bridge No. 2. Both bridges were built during the 1890s: the first linked Pulau Saigon to the northern bank of the Singapore River, leading to roads such as River Valley Road and Merbau Road, while the second bridge, on the other side of Pulau Saigon, linked the island to roads at the southern bank, such as Havelock Road and Magazine Road.
 
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging11.JPG">
+<img style="width: 550px; height: 320px;" src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging11.JPG">
 <div style="background-color: white;">Pulau Saigon Bridge was originally made up of two bridges, known as Bridge No. 1 and Bridge No. 2. Built during the 1890s, the first bridge was replaced by Clemenceau Bridge in 1940, while the second was dismantled in the late 1980s to make way for the Central Expressway. This 1985 photograph shows Bridge No. 2. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
 When the first Clemenceau Bridge was constructed in 1940, Bridge No. 1 was demolished. Bridge No. 2, which had a single arch similar to that of Anderson Bridge and Elgin Bridge, would remain standing until Pulau Saigon was reclaimed to join the mainland in the 1980s. The 141-ft-long (43 m) Pulau Saigon Bridge we see today was built in 1997. The five-lane bridge, which links Saiboo Street and Havelock Road, has a granite-finished pedestrian pavement on each side as well as a 197-ft-long (60 m) pedestrian underpass.
