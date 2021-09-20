@@ -67,7 +67,7 @@ At the opening of the first exhibition dedicated to sculptural works in 1967, th
 
 Women sculptors were thus venturing into what was a relatively small space in the arts scene. The hefty cost of creating sculptural exhibitions may be (and still is) a strain for some. 1995 Cultural Medallion recipient Han Sai Por’s “20 Tonnes – Physical Consequences” (2002) cost about $20,000 to create, while construction costs alone for Elsie Yu’s “Towards Excellence” (1987) was a whopping $80,000.[^20]
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/04a-softhands-steelyhearts.jpg">Han Sai Por at work on one of her sculptures. She was awarded the Cultural Medallion in 1995. <i>All rights reserved, Han, S. P. (2013). Moving Forest. Singapore: Singapore Tyler Print Institute.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/04a-softhands-steelyhearts.jpg">Han Sai Por at work on one of her sculptures. She was awarded the Cultural Medallion in 1995. <i>All rights reserved, Han, S. P. (2013). Moving Forest. Singapore: Singapore Tyler Print Institute.</i></div>
 
 While government initiatives such as the Public Sculpture Masterplan 2000 (and the more recent Public Art Trust) have sought to ease these costs and allow artists to concentrate on their work, private organisations are also important stakeholders in promoting the appreciation of sculpture as an art form. City Developments Limited and its biennial Singapore Sculpture Award is one such example of a private corporation shaping the visibility and appreciation of sculpture in Singapore.[^21]
 
@@ -75,7 +75,7 @@ CapitaLand, one of the largest real estate companies in Singapore, has commissio
 
 Creating dedicated spaces to showcase three-dimensional art was the next step in engendering public interest and encouraging the art form. Sculpture Square, which opened in 1999, served this very purpose. Its inaugural exhibition, “Provocative Things”, highlighted conventional sculptural works and more abstract sculptural installations. Chng Seok Tin’s “Kuantan Boat Song” (1999), with coconut husks cast in bronze, and Kumari Nahappan’s “precisely…..360” (1999), an installation of found objects, made of both natural and man-made material, fell into the latter category.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/04b-softhands-steelyhearts.jpg">
+<div style="background-color: white;"><img style="width:450px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/04b-softhands-steelyhearts.jpg">
 Chng Seok Tin with sculptures from her “Life Like Chess” exhibition in 2001. Photo was taken in Marina Bay against the Central Business District. <i>Courtesy of Chng Seok Tin.</i></div>
 
 In 2001, the formation of the Sculpture Society, led by Han, further advanced the development and appreciation of sculpture through a tight-knit community of passionate sculptors.[^23]
