@@ -46,7 +46,7 @@ of work.[^15]
 
 Women’s roles in society were also evolving due to changing attitudes towards female education. And as more women received an education, they could now participate in the public sphere, look for paid work, have more opportunities for self-expression and leisure, and engage in various cultural and political movements. They would have also been exposed to more possibilities of modern life through education and various cultural products and, with these, new identities.
 
-#### Fashioning Singapore’s Modern Girl
+#### **Fashioning Singapore’s Modern Girl**
 
 Singapore’s Modern Girl challenged existing gender norms through her expressions of femininity, most visibly through fashion and style. From the 1920s, she adopted Western-style clothing (with short hemlines and high heels), wore makeup and sported a bob haircut.[^16]
 
