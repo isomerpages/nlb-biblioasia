@@ -129,7 +129,7 @@ In China, Wong married another woman. Although the union resulted in the birth o
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron10.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron12.jpg" style="width: 100px; height: 100px;">
 <b>Ronnie Tan</b> is a Senior Manager (Research) with the National Library, Singapore, where he conducts a research on public policy as well as historical, regional and library-related issues. His other research interests include Malayan history, especially the Malayan Emergency (1948-60), and military history.
 </div>
 
