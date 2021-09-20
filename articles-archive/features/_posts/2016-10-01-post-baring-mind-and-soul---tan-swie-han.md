@@ -50,13 +50,13 @@ As an artist, much of Tan’s output is difficult to pin down and define: versat
 
 Tan Swie Hian is deeply interested in people. He has painted many portraits of personalities – in art, literature, politics and other fields – whom he admires. In this exhibition, portraits and works paying tribute to some of these luminaries can be seen: these include Pablo Picasso, Leonor Fini, Bada Shanren (八大山人), Charlie Chaplin, Franz Kafka, Virginia Woolf, Steve Jobs and Nelson Mandela, to name a few.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/baring-mind-and-soul/03a-baring-mind-soul.jpg">“Graffitied Portrait of Charlie Chaplin” (2013). Ink and acrylic on rice paper, 226 cm x 105.4 cm. <i>Collection of Tan Swie Hian.</i></div>
+<div style="background-color: white;"><img style="width:200px" src="/images/Vol-12-issue-3/baring-mind-and-soul/03a-baring-mind-soul.jpg">“Graffitied Portrait of Charlie Chaplin” (2013). Ink and acrylic on rice paper, 226 cm x 105.4 cm. <i>Collection of Tan Swie Hian.</i></div>
 
 One of the paintings, titled “A Couple”, is an unusual portrayal of Lee Kuan Yew, Singapore’s founding prime minister, and his wife as a young couple quite obviously in love. The painting, inspired by a 1946 photograph of the couple when they were law students in Cambridge University, England, depicts Lee Kuan Yew and Kwa Geok Choo in the first blush of youth, and exudes warmth and carefree pleasure – one can almost feel the sunshine that bathes the couple in vibrant colour.
 
 The portrait, which is devoid of any political undertones, is an ode to a love that spanned over six decades. Tan began painting this portrait on Valentine’s Day in 2009 and completed it only in 2014. When Kwa passed away in October 2010, he added two Vanda Miss Joaquim orchids, Singapore’s national flower, by her side as a tribute to the devoted mother and loving wife.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-3/baring-mind-and-soul/03b-baring-mind-soul.jpg">“A Couple” (2014). Oil, acrylic and ink on canvas, 213.5 cm x 339 cm. <i>Collection of Tan Swie Hian.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/baring-mind-and-soul/03b-baring-mind-soul.jpg">“A Couple” (2014). Oil, acrylic and ink on canvas, 213.5 cm x 339 cm. <i>Collection of Tan Swie Hian.</i></div>
 
 #### **Spiritual and Philosophical Insights**
 
