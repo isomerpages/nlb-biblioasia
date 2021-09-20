@@ -61,12 +61,11 @@ The portrait, which is devoid of any political undertones, is an ode to a love t
 
 Perhaps Tan’s most enigmatic and intriguing works are those inspired by his spiritual and philosophical enlightenment. While meditating one day in September 2009, Tan had a vision in which he saw the full moon hovering above the parted foliage of a tree reflected onto a still blue pond. He quickly captured the vision in a sketch in his notebook. The ethereal scene was eventually depicted in the oil and acrylic painting “When the Moon is Orbed”.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/baring-mind-and-soul/04-baring-mind-soul.jpg">Detail from “When the Moon Is Orbed” (2012). Oil and acrylic on canvas, 140 cm x 206 cm.
-<i>Private collection.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/baring-mind-and-soul/05-baring-mind-soul.jpg">Sketches and notes of the meditative vision which led to the painting, “When the Moon is Orbed”. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
 
 The symbolism of the full moon is manifold: traditionally it represents togetherness of people; but in Buddhism, it symbolises the clarity of the mind and the enlightenment of a truth seeker. A smaller-scale reproduction of this work is displayed at the exhibition.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/baring-mind-and-soul/05-baring-mind-soul.jpg">Sketches and notes of the meditative vision which led to the painting, “When the Moon is Orbed”. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-3/baring-mind-and-soul/04-baring-mind-soul.jpg">Detail from “When the Moon Is Orbed” (2012). Oil and acrylic on canvas, 140 cm x 206 cm. <i>Private collection.</i></div>
 
 The centrepiece of the exhibition is a unique mixed media sculpture entitled “The Celestial Web”, a sizable dome-shaped structure made of coiled metal wires adorned with “creatures” moulded from clay. The sculpture, inspired by Tan’s Buddhist faith, is the embodiment of his perspective that all beings, sentient and non-sentient, are interconnected by an immense web of everlasting universal love.
 
@@ -84,9 +83,9 @@ At the same time, one would be wrong to assume that Tan Swie Hian’s art belong
 
 Tan loves animals, especially cats, and a Chinese ink on paper scroll titled “Cat’s Cradle” is testament to this. In 1984, the artist’s daughter kept a pair of kittens as pets. From observing the kittens’ lively movements when they were playing or fighting, Tan executed the painting as a study of the rhythm of moving lines. The painting, with seven pairs of cats in various poses of action, is so vividly captured that it even incurred the jealousy of another pet cat of his daughter’s – she kept glaring and mewing at the painting!
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-3/baring-mind-and-soul/07-baring-mind-soul.jpg"> “Cat’s Cradle”. (1984). Chinese ink on rice paper, 184 cm x 87 cm. <i>Collection of Tan Chiao Joan.</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-3/baring-mind-and-soul/07-baring-mind-soul.jpg">Tan Swie Hian’s sketches and notes on the painting. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore. </i></div>
 
-<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/baring-mind-and-soul/08-baring-mind-soul.jpg">Tan Swie Hian’s sketches and notes on the painting. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/baring-mind-and-soul/08-baring-mind-soul.jpg">“Cat’s Cradle”. (1984). Chinese ink on rice paper, 184 cm x 87 cm. <i>Collection of Tan Chiao Joan.</i></div>
 
 On 26 December 2004, in a cataclysmic event that would be remembered in years to come, an earthquake in Indonesia triggered a tsunami in the Indian Ocean that struck 14 countries, claiming the lives of more than 230,000 people.[^11] In memory of the lives lost to this tragedy, Tan created the sculpture, “The Straw Dog”.
 
@@ -128,7 +127,7 @@ Over the years, Tan has generously donated more than 6,600 items from his person
 
 [^3]:From a personal communication with Tan Swie Hian on 27 June 2016.
 
-[^4]:Yap, S. Y. (2016). *Anatomy of a free mind: Tan Swie Hian’s notebooks and creations*. Singapore: National Library Board and Editions Dider Millet.
+[^4]:Yap, S. Y. (2016). *[Anatomy of a free mind: Tan Swie Hian’s notebooks and creations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202545959)*. Singapore: National Library Board and Editions Dider Millet. Call no.: RSING 700.92 CHE
 
 [^5]:Tan, S. H. (2005). *Tan Swie Hian*. Retrieved from Tan Swie Hian website.
 
