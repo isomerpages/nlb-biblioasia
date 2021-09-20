@@ -156,3 +156,33 @@ The new bridge was completed in 1955 and, at 85 ft (26 m) long and 66 ft (20 m) 
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
+
+#### **Notes**
+[^1]: Cheong, C. (1992). [*Framework and foundation: A history of the Public Works Department*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6434293) (p. 50). Singapore:Times Editions. (Call no.: RSING 354.5957008609 CHE) 
+[^2]: Tan, I. (2012). *Bridges to our heritage: The significance of five historic bridges over Singapore River* (pp. 50–52). Retrieved from University of Edinburgh website. 
+[^3]: [Cheong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6434293), 1992, p. 55. 
+[^4]: Curl, J.S. (2016). [The Oxford dictionary of architecture](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202927295) (p. 539). United Kingdom: Oxford University Press.(Call no.: R 720.3 CUR) 
+[^5]: 
+[^6]: 
+[^7]: 
+[^8]: 
+[^9]: 
+[^10]: 
+[^11]: 
+[^12]: 
+[^13]: 
+[^14]: 
+
+
+
+
+Lee, K.L. (n.d.). EIC Letters, 1, pp. 11, 17, 20, 41.(Call no.: RDLKL 959.5703 EIC) 
+Lee, n.d.,1, pp. 116, 123; Lee, K. L. (n.d.). EIC Letters, 2, pp. 183, 214, 230, 246, 291. (Call no.: RDLKL 959.5703 EIC) 
+Coleman St. Bridge. (1864, February 13). The Straits Times, p. 28. Retrieved from NewspaperSG. 
+The Singapore Free Press: Coleman Bridge. (1865, March 23). The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG. 
+Municipal Council: Coleman Bridge. (1865, February 25). The Straits Times, p. 1. Retrieved from NewspaperSG.
+Town bridges: Merchant Bridge. (1886, July 1). Straits Times Weekly Issue, p. 7. Retrieved from NewspaperSG. 
+Cheong, p. 55; Tan, 2012, pp. 67–70. 
+Singapore River smell corrodes bridge. (1939, April 17).The Straits Times, p. 13. Retrieved from NewspaperSG. 
+Ord Bridge. (1886, September 2). Straits Times Weekly Issue, p. 14. Retrieved from NewspaperSG. 
+De Silva, L., & Chandradas. (1985, September 30). Singapore River preserved. The Straits Times, p. 12. Retrieved from NewspaperSG. 
