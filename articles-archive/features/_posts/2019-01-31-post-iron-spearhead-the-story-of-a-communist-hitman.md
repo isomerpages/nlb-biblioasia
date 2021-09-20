@@ -63,7 +63,7 @@ On 1 September 1951, Siu was lured to a desolate hut rented from a shrimp catche
 
 On 11 June 1952, four policemen, including a Chinese lieutenant, were in a police car patrolling the area around Bugis and Rochor roads. At 1.10 pm, they turned onto Albert Street, which was “renowned for good, inexpensive, Chinese food”,[^16] with the intention of conducting surprise checks at coffee shops in the area. The police officers approached a table with three Chinese men, who were so engrossed in eating and drinking that they did not notice them.
 
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron5.JPG">
+<img style="width: 650px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron5.JPG">
 <div style="background-color: white;">View of Albert Street. On 11 June 1952, Wong Fook Kwang and two of his cronies were at one of the coffee shops on Albert Street when they were approached by police officers. Wong bolted from the scene but was eventually caught and taken to Beach Road Police Station for interrogation. <i>All rights reserved. Lee Kip Lin Collection, Lee Kip Lin and National Library Board, Singapore.</i></div>
 
 When asked to produce their identity cards, all three men refused to do so. The police lieutenant then raised his voice, to which the men reluctantly complied. Unbeknownst to the police officers, one of the men in the group was the villainous Wong Fook Kwang. An unsuspecting police corporal turned to Wong and did a body search for weapons, finding on his person instead a paper packet containing what appeared to be dried plums. Still suspicious, the corporal separated the fruit from the paper. In that instant, Wong bolted from the coffee shop and into a side street leading to Rochor Road, with the police officers hot on his heels.
@@ -82,7 +82,7 @@ During Wong’s second stay in hospital, the elderly woman who had earlier claim
 
 On 4 March 1953, between 2 and 4 pm, the elderly woman again visited Wong at the prison ward. She also brought him a parcel of food. The parcel was thoroughly examined by a senior guard on duty before she was allowed entry. After being let through, Wong’s “mother” spoke to him in hushed tones – likely informing him of the impending attempt to help him escape.
 
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron6.JPG">
+<img style="width: 650px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron6.JPG">
 <div style="background-color: white;">Wong Fook Kwang escaped from the prison ward of the Singapore General Hospital on 4 March 1953. He was on the run for more than a year before he was captured. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **The Brazen Escape**
@@ -93,7 +93,7 @@ Unbeknownst to him, Wong had made a run for it earlier, barefooted and in his ho
 
 The alarm was raised at 9.40 pm when a sentry doing his rounds discovered the sawn iron bar. Special Branch was immediately alerted and road blocks set up islandwide to recapture Wong. A bounty of $2,000 was offered for information leading to his recapture. Sometime close to midnight, the hacksaw used to commit the mischief was discovered nearby. The four guards were suspended for being negligent in their duty and subsequently sacked.
 
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron7.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron7.JPG">
 <div style="background-color: white;">Following Wong Fook Kwang’s escape from the Singapore General Hospital prison ward, a bounty of $2,000 was offered for his recapture. <i>Courtesy of ISD Heritage Centre.</i></div>
 
 Wong had escaped without his identity card as it was kept in a safe by Fairbairn. Since it was not possible for Wong to move around Singapore freely without one, especially with police road blocks set up in densely populated areas, Fairbairn knew that Wong would most likely seek refuge in rural suburbs where it would be easier to hide. The search for Wong, however, turned out to be a protracted affair that took more than a year.
