@@ -86,13 +86,13 @@ In 2014, two high-profile films were shot partially in Singapore and are due for
 The soon-to-be released Hitman: Agent 47 was partly filmed on location in Singapore. © Hitman: Agent 47. Directed by Alek Sander Bach, produced by Adrian Askarieh, Alex Young and Charles Gordon, distributed by 20th Century Fox. United States and Germany, 2015.
 </div>
 
+<br/>
 
 |**Saint Jack: A New Take on Singapore**|
 
 |Adapted from the novel by Paul Theroux (who taught English Literature at the University of Singapore from 1968 to 1971), <i>Saint Jack</i> featured another white man cutting loose in the Lion City. But Jack Flowers, a ships chandler and pimp, portrayed by Ben Gazzara in the film, represented a more nuanced protagonist. Flowers is an “old hand” who slips with ease between the expatriate circle and the local world, with Singaporeans who become his friends, colleagues and lovers (and who have substantial roles in the film – another first). The film – shot entirely in Singapore between May and June 1978 – was banned because of its “negative portrayal” of the island, but in fact has a deeper interest and understanding of Singapore than any previous foreign production. Flowers may bitterly complain about Singapore in the film, and memorably tells a drunken, ironic version of the legend of how Sang Nila Utama named the island Singapore, but he is also clearly very fond of his adopted home. Bogdanovich counts <i>Saint Jack</i> as one of his favourites among the many great films he made, and over the years has repeatedly regretted that the film is not better known. His experience in Singapore was “life-changing”, and his most recent film, <i>She’s Funny That Way</i> (2015), about a man who falls in love with a prostitute, is a clear reworking of ideas he developed for <i>Saint Jack</i>.|
 
 |<img src="/images/vol-11-issue-1/spiesvirginspimps/saint_jack_re.jpg">Ben Gazzara (Jack Flowers) getting a tattoo while co-star Denholm Eliot looks on in the film Saint Jack. © Saint Jack. <i>Directed by Peter Bogdanovich, produced by Hugh M. Hefner and Edward L. Rissien, distributed by New World Pictures. United States, 1978</i>.|
-
 
 <p style="font-size:15px;"><b>Ben Slater</b> is the author of Kinda Hot: <i>The Making of Saint Jack in Singapore</i> (Marshall Cavendish: 2006), a contributing writer to World Film Locations: Singapore (Intellect: 2014) and the editor of <i>25: Histories &amp; Memories of the Singapore International Film Festival</i> (SGIFF: 2014). He is also the co-screenwriter of the feature film <i>Camera</i> (2014) and a lecturer at the School of Art, Media and Design at the Nanyang Technology University (NTU). His 10-film season of foreign films made in Singapore, “Beyond Saint Jack”, is currently underway at the NUS Museum. See http://malayablackandwhite.wordpress.com for details.</p>
 
