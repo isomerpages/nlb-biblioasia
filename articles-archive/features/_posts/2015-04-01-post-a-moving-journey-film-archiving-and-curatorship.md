@@ -6,6 +6,11 @@ layout: post
 ---
 #### As the Asian Film Archive celebrates its 10th anniversary, **Karen Chan** takes a look back at the genesis of the organisation, the work it does and its plans for the future.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/movingjourney/_OXY9173_1.jpg">
+</div>
+
 In 2005, I was introduced to a soft-spoken but tenacious young man who had singlehandedly established the Asian Film Archive (AFA) in Singapore. What drew me to Tan Bee Thiam’s project was his vision: to set up a Pan-Asian institution that aspired to provide a repository for all Asian films – many of which had yet to be archived in their own countries. Partly curious as to how this not-for-profit, independent organisation would survive, and partly enthused by the prospect of contributing towards the maintenance, preservation, restoration and curation of archival films, I set aside my practical and less than adventurous nature and took the plunge – joining the AFA as an archivist in 2006, assuming the role of acting director in 2010 and subsequently taking over the reins as executive director in 2014. As the AFA celebrates its 10th anniversary this year, I take a look back on a journey that has been both challenging and exhilarating by turns. 
 
 From a professional viewpoint, getting the fledgling AFA organised and functioning took a staggering amount of work. Today, Southeast Asian countries have their own national archives while a few host an audiovisual archive department as a unit within the larger entity, such as in the case of the National Archives of Singapore (NAS) and Arkib Negara Malaysia (National Archives of Malaysia). However, organisational film archiving in Southeast Asia was in its infancy as recently as 10 years ago when only Indonesia, Laos, Vietnam and Thailand had their own dedicated film archives. This was the state of the film archiving landscape in the region when the AFA first began. Over the years, Cambodia and the Philippines have established their own film archives. 
@@ -36,8 +41,11 @@ Developing a set of acquisition, selection and preservation policies was imperat
 
 While its name dictates Asia as its collection ambit, the AFA has focused its preservation efforts in the last nine years on the geographical region of Southeast Asia. As mentioned earlier, until recently, Southeast Asia had very few dedicated film archives with the means and the budgets to archive the numerous films produced in the region. Nevertheless, concentrating on Southeast Asia did not limit the films that the AFA acquired for its collection – it currently archives titles from wider Asia, such as China, Korea, Japan, Taiwan, India and Iran. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/movingjourney/Cleopatra_Wong_re.jpg)
-<div style="background-color: white;">They Call Her... Cleopatra Wong was released in 1978, and starred Marrie Lee as an Interpol agent. This poster is part of the AFA's holdings. © Cleopatra Wong International Pte Ltd.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/movingjourney/Cleopatra_Wong_re.jpg">
+They Call Her... Cleopatra Wong was released in 1978, and starred Marrie Lee as an Interpol agent. This poster is part of the AFA's holdings. © Cleopatra Wong International Pte Ltd.
+</div>
 
 Although archives are generally associated with the antiquated, the AFA’s collection is relatively young by archival standards, with 70 percent of its films dating back to an average of 25 years. The main reason is because the AFA makes a conscious effort to acquire the works of living filmmakers. The selection criteria are determined by a list of priorities, taking into account the condition of the films’ formats and the “Asian-ness” and significance of the films on the cultural landscapes of both its country of origin and internationally. In addition, films that are independently produced and are not preserved in the home country of the filmmaker or by any other archive, receive particular attention. These guidelines are detailed on the AFA’s website and the mechanics of how films can be submitted for assessment and preservation are elaborated in the website’s Frequently Asked Questions (FAQ) section.[^10]
 
