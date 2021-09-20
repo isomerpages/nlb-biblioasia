@@ -44,7 +44,7 @@ According to her granddaughter (and my cousin) Madam Susheela, Achi Atha would w
 
 Even in such frugal times as between the two world wars, Achi Atha always had something homemade and sweet on hand for guests. “No one was allowed to leave without a drink or a dessert,” said Madam Susheela. “That was the custom in our ancestors’ homes, which has continued in our lives until this present day.”
 
-For Hindus, the mantra “the guest is God” – from the *Sanskrit Atithi devo Bhavah* – has manifested in the age-old Chetty Melaka practice of honouring any guest with warm hospitality and food and drink, even if they visit our homes unannounced.2 Chetty Melaka women are known not only for their Malay-Indian dishes but also for their Straits-influenced grooming and attire. Like the Chinese Peranakan (Straits Chinese), they were resourceful in every aspect of their culture.
+For Hindus, the mantra “the guest is God” – from the *Sanskrit Atithi devo Bhavah* – has manifested in the age-old Chetty Melaka practice of honouring any guest with warm hospitality and food and drink, even if they visit our homes unannounced.[^2] Chetty Melaka women are known not only for their Malay-Indian dishes but also for their Straits-influenced grooming and attire. Like the Chinese Peranakan (Straits Chinese), they were resourceful in every aspect of their culture.
 
 My grandaunts and grandmother would frequent Geylang Serai or Arab Street to buy *kain lepas* (*sarong kebaya*, which were sold in 4–5-metre lengths), and they would tie these wraps in such a way that would allow them free movement to do their housework – from squatting over a charcoal stove to climbing the jackfruit tree to slice off ripe backyard produce to even bedtime, with a change of their very diaphanous blouses that showed a plain chemise underneath. No nighties needed – why allow that extra expense?
 
@@ -52,7 +52,7 @@ Even their hair had to be neatly combed with scented oil to make sure not a stra
 
 Hairdressers and hair salons hardly did any brisk business with these tight-wadded, chignon-sporting women looking their best, even on a windy, bad-hair-day afternoon. Their shoes, which matched their *kebaya* outfits, were embellished with indigenous beaded designs in a recurring leitmotif.
 
-Even when she was well into her mid-90s, when she turned up early in the morning to advise my mother on the finer points of cooking *ayam buah keluak*,3 my grandaunt parlayed raw produce, fowl and grains into scented rice, rich, curries and melt-in-the-mouth desserts without breaking a sweat.
+Even when she was well into her mid-90s, when she turned up early in the morning to advise my mother on the finer points of cooking *ayam buah keluak*,[^3] my grandaunt parlayed raw produce, fowl and grains into scented rice, rich, curries and melt-in-the-mouth desserts without breaking a sweat.
 
 The perfume du jour since the early 1900s among Chetty Melaka women was none other than that must-have curio of scents, the 4711 Eau de Cologne – and my grandaunt literally bathed in it. She also swore that it fended off almost every malady known to man– from cooling the body down to curing insomnia and even the common cold. Now, how many of us can boast that our French perfume can multitask like that in the sweltering Asian heat? That tiny bottle of Eau de Cologne, conceived in 1792 in Germany, certainly punched way above its weight.
 
