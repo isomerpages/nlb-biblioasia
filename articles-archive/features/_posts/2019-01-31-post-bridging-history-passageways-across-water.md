@@ -54,7 +54,7 @@ Around 30 years ago, Cavenagh Bridge underwent a five-month refurbishment at a c
 
 As mentioned earlier, Presentment Bridge was one of the first bridges erected by the colonial government over the Singapore River. Built in 1823 by Philip Jackson, the Assistant Engineer and Surveyor of Public Lands, to link the northern and southern banks of the river, the wooden bridge sat on timber piles. It was 240 ft (73 m) long and 18 ft (5.5 m) wide, and had an arch in the middle that could be drawn to allow vessels to pass beneath.[^5]
 
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging5.JPG">
+<img style="width: 550px; height: 320px;" src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging5.JPG">
 <div style="background-color: white;">A view of Presentment Bridge in the 1830s. Built in 1823, this was one of the earliest bridges that spanned the Singapore River. It was replaced in 1844 with Thomson Bridge. In the background is Government Hill (present-day Fort Canning Hill). <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 After numerous repairs undertaken between 1827 and 1842, Presentment Bridge was demolished and replaced by another wooden bridge in 1844 called Thomson Bridge. It was named after its architect John Turnbull Thomson, who was then Government Surveyor of the Straits Settlements. Like its predecessor, the bridge also underwent several rounds of repairs before it was dismantled and replaced with Elgin Bridge in 1862.
@@ -75,7 +75,7 @@ In 1989, Elgin Bridge was repaired and strengthened as part of the masterplan to
 
 Coleman Bridge, which links Hill Street and New Bridge Road, was named after its brainchild, George D. Coleman, Singapore’s first Government Superintendent of Public Works (1833–44). History, however, records four Coleman bridges in all.
 
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging7.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging7.JPG">
 <div style="background-color: white;">View of Coleman Bridge leading to New Bridge Road, c. 1950. This is the third Coleman Bridge – named after the city’s first Superintendent of Public Works George D. Coleman – before it was replaced by the fourth
 (and current) bridge in 1990. <i>Courtesy of
 National Archives of Singapore.</i></div>
@@ -110,7 +110,7 @@ In the early days, Read Bridge was variously known as Malacca Bridge as it was l
 
 Ord Bridge – which links Clarke Quay and River Valley Road – was constructed in 1886 and named after Harry St George Ord, the first Governor of the Straits Settlements (1867–73). It replaced a footbridge known as Ordnance Bridge, which was built in 1865. The latter was so named because an arsenal and commissariat store was located nearby. Ordnance Bridge was also called ABC Bridge, after ABC Road, which later became Ord Road (now expunged).
 
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging9.JPG">
+<img style="width: 550px; height: 320px;" src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging9.JPG">
 <div style="background-color: white;">Ord Bridge near Riverside Point at Clarke Quay, 2010. The bridge is named after Harry St George Ord, the first Governor of the Straits Settlements (1867–73). It replaced a footbridge known as Ordnance Bridge, which was built in 1865. <i>Courtesy of William Cho via flickr.</i></div>
 
 Structurally, Ord Bridge is an iron bridge with distinctive X-shape girders. The 135-ft-long (41 m) and 24-ft-wide (7 m) bridge has a structure that resembles standard-gauge railway bridges as it was modelled after similar bridges in India. However, about a month after the bridge was opened, it suffered a mishap, with the weight of the structure causing the northern abutment to slip. This problem was later traced to the way in which the piers had been laid during construction; they were found standing on “tiptoe” on a slopping bedrock rather than embedded firmly into solid foundation.[^13]
@@ -121,7 +121,7 @@ Ord Bridge was also known as Toddy Bridge because of the many toddy (palm liquor
 
 This bridge that spans the Singapore River today is the second Clemenceau Bridge at this site. It is named after Georges Benjamin Clemenceau, the French Prime Minister (1906–09 and 1917–20) who visited Singapore in 1920.
 
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging10.jpg">
+<img style="width: 550px; height: 320px;" src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging10.jpg">
 <div style="background-color: white;">A view of the second Clemenceau Bridge, 2015. It was completed in 1991 and connects the Central Expressway’s Chin Swee Tunnel with Clemenceau Avenue. <i>Courtesy of Remember Singapore blog.</i></div>
 
 The first Clemenceau Bridge was built in 1940 by Fogden, Brisbane and Company Ltd. The original structure was 330 ft (100 m) long and 60 ft (18 m) wide, with a height clearance of 7 ft (2 m) for vessels to pass beneath during high tide. This bridge was designed by Municipal Bridge Engineer T.C. Hood. Although it was a simple looking structure, it is remembered as the first bridge in Singapore that used web guilders. The entire bridge was constructed using reinforced concrete to improve its resistance against corrosion, a problem that had plagued most of the bridges along the Singapore River at the time. The bridge was built as part of a road scheme that stretched from Clemenceau Avenue to Keppel Road, and replaced the Havelock stretch of Pulau Saigon Bridge. The latter was referred to in the early maps of Singapore town as Bridge No. 1.
