@@ -162,12 +162,25 @@ In China, Wong married another woman. Although the union resulted in the birth o
 [^18]:Throughout his time under police custody, Wong pretended to cooperate with the police but Special Branch officers knew that he was lying. The only crime he admitted to was his unsuccessful attempt to burn down a bus. Wong was eventually charged with the possession of communist publications. 
 [^19]:This is the same John Fairbairn who conducted a joint operation with his Malayan counterparts to arrest Ah Shu, a communist courier, in Singapore in 1952, and uncovered a trail that eventually resulted in the arrest of Lee Meng, the head courier of the MCP. For more information, see Tan, R. (2018, April–June). [Hunting down the Malayan Mata Hari](http://www.nlb.gov.sg/biblioasia/2018/04/09/hunting-down-the-malayan-mata-hari/#sthash.5XI5Iux2.dpbs). *BiblioAsia*, 14(1), 24–29. Retrieved from BiblioAsia website. 
 [^20]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 52.
+[^21]:For more information on the Emergency Regulations, see Renick, R. (1965, September). The Emergency regulations of Malaya causes and effect. *Journal of Southeast Asian History, 6*(2), 1–39. Retrieved from JSTOR via NLB’s eResources website. 
+[^22]:After the elderly lady was arrested shortly after Wong’s escape, it was revealed that she was a communist agent. However, in an article published in 2005, Wong confirmed that the elderly woman was indeed his mother. See 彭国强, 2005, pp. 115–116. 
+[^23]:彭国强, 2005, p. 115.
+[^24]:[Police arrest mother after red thug leader escapes](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530306-1.2.9). (1953, March 6). The Straits Times, p. 1; [Daring escape of red arson expert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19530306-1.2.2). (1953, March 8). Singapore Standard, p. 1. Retrieved from NewspaperSG. 
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
+[^31]:
 
 
+ 
 
-
-
-
-
-
-
+On 14 February 1966, the area around Pasir Laba became a military training ground with the establishment of the Singapore Armed Forces Training Institute (SAFTI). 
+Peries, B. (1954, July 11). ‘Iron Spearhead’ posed as a farmer. Singapore Standard, p. 1. Retrieved from NewspaperSG. 
+Clague, 1980, pp. 127. 
+Lin Hui Ying adopted another name, Lin Fei Yan (林飞燕), after she was banished to China. See 张惠宁和潘正悦. [Zhang, H.N. & Pan, Z.Y.]. (2004, January 20). 八旬老人欲寻当年 “红色恋人”[80-year-old elderly hopes to find his “red lover”]. 海南日报. Retrieved from Sina website.
+According to Leon Comber, however, Ah Soo (the alias of Lim Wai Yin), who was arrested in early 1952 for communist activities, was Wong’s wife. See Comber, L. (2008). Malaya’s secret police 1945–60: The role of the Special Branch in the Malayan Emergency (p. 229). Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute. (Call no:. RSING 363.283095951 COM)
+张惠宁和潘正悦, 20 Jan 2004. 
+张惠宁和潘正悦. [Zhang, H.N. & Pan, Z.Y.]. (2004, February 3). 伊人已逝：此情只可成追忆 [She has passed on and the love has turned to a memory]. 海南日报. Retrieved from Sina website.
