@@ -6,8 +6,11 @@ layout: post
 ---
 #### Few people are aware that Singapore’s cinema history dates back to as early as 1896. **Bonny Tan** traces its development, from the days of the Magic Lantern projector to the first locally made films.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/bg2_re.jpg)
-<div style="background-color: white;">Plan of a cinematograph tent located at Jalan Sungei at Serangoon Road in 1908. <i>Building Control Authority Collection, courtesy of the National Archives of Singapore</i>. </div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/earlysgcinema/bg2_re.jpg">
+Plan of a cinematograph tent located at Jalan Sungei at Serangoon Road in 1908. <i>Building Control Authority Collection, courtesy of the National Archives of Singapore</i>.
+</div>
 
 “All we can say to Singapore’s pleasure-seekers is that if they do not like a couple of hours to hang heavily on their hands they could not do better than wend their steps to the Company’s tent after dinner and feast their eyes on this unique and novel exhibition.”
 
@@ -27,16 +30,23 @@ Just a year later, in May 1897, the Ripograph, better known as the Giant Cinemat
 
 Meanwhile, new cinematographic inventions came fast and furious from the laboratories of Thomas Edison in America and the creative minds of the French, such as the Lumiere Brothers and Leon Bouly. The Cinematograph, the Bioscope, the Biograph, the Vitascope and the Projectoscope were introduced in quick succession – each touted to be better than the former. 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/earlysgcinema/Kinetophonebis.jpg">
+A man watching a scene using the Kinetoscope. <i>Via Wikimedia Commons</i>.
+</div>
 
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/Kinetophonebis.jpg)
-<div style="background-color: white;">A man watching a scene using the Kinetoscope. <i>Via Wikimedia Commons</i>. </div>
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/serpentineDance.jpg)
-<div style="background-color: white;"><i>The Serpentine Dance</i>, a form of burlesque, was one of the first vignettes screened at the Aldephi Hall in 1897. © The Serpentine Dance. <i>Directed by Louis Lumiere, produced by Lumiere. France, 1897</i>. </div>
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/the-lumiere-brothers-louis-jean-lumiere-auguste-lumiere.jpg)
-<div style="background-color: white;">Frenchmen August and Louis Lumiere were one of the first filmmakers in history. Via <i>pixgood.com</i>. </div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/earlysgcinema/serpentineDance.jpg">
+<i>The Serpentine Dance</i>, a form of burlesque, was one of the first vignettes screened at the Aldephi Hall in 1897. © The Serpentine Dance. <i>Directed by Louis Lumiere, produced by Lumiere. France, 1897</i>.
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/earlysgcinema/the-lumiere-brothers-louis-jean-lumiere-auguste-lumiere.jpg">
+Frenchmen August and Louis Lumiere were one of the first filmmakers in history. Via <i>pixgood.com</i>. 
+</div>
 
 These earliest screenings were attractive only because of their novelty factor. In retrospect, the long wait between each vignette, “the incessant flickering, and the large and frequent blotches of white that traversed the screen when …nearing what promised to be the most interesting part of the subject” detracted from the pleasure of the experience. [^13] The developing technology was the cause of these discomforts in part, but the tropical weather was also a factor: “(f)licker and vibration visible on the screen were due to the effect of the moisture of the atmosphere causing the films to stick and run at times unevenly…”.[^14] Short live performances to keep the audience entertained served as fillers during technical glitches, a change in film or other delays. Eventually, as the technology improved, the films began to run more smoothly and were marked by fewer interruptions. 
 
@@ -59,12 +69,19 @@ Tan engaged artist W.J. Watson to add colour and grandeur to the proscenium of t
 In 1916, the Alhambra was rebuilt and renamed the New Alhambra. Designed by Eurasian architect Johannes Bartholomew (Birch) Westerhout, the New Alhambra accommodated an audience of 1,500 with a variety of seats, including special box seats, each holding comfortable armchairs, and a specially designated box for members of the Malay royalty. Other lavish details included “costly curtains” that draped down the stage doors, a “beautifully tiled floor”, electric lights, large mirrors and a private telephone booth. [^27]
 
 Tan paid $25,000 for the Palladium (also designed by J.B. Westerhout) a mere four years after it was built.[^28] This was a steal considering it had cost $60,000 to construct. Tan continued to push the envelope with the development of local cinemas, fitting them in 1930 with equipment for sound so that the first “talkies” could be screened.[^29]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/earlysgcinema/Adelphi_re.jpg">
+Adelphi Hotel on Coleman Street, as seen in a 1906 postcard. Adelphi Hall, where Singapore’s earliest film screenings were held in 1897, was part of the hotel. <i>Arshak C Galstaun Collection, courtesy of the National Archives of Singapore</i>.
+</div>
+
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/Adelphi_re.jpg)
-<div style="background-color: white;">Adelphi Hotel on Coleman Street, as seen in a 1906 postcard. Adelphi Hall, where Singapore’s earliest film screenings were held in 1897, was part of the hotel. <i>Arshak C Galstaun Collection, courtesy of the National Archives of Singapore</i>. </div>
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/Alhambra.jpg)
-<div style="background-color: white;">A 1930 postcard of the Alhambra cinema along Beach Road. Taken from the book Singapore: <i>500 Early Postcards</i>, published by Editions Didier Millet (2007). <i>Courtesy of Prof Cheah Jin Seng</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/earlysgcinema/Alhambra.jpg">
+A 1930 postcard of the Alhambra cinema along Beach Road. Taken from the book Singapore: <i>500 Early Postcards</i>, published by Editions Didier Millet (2007). <i>Courtesy of Prof Cheah Jin Seng</i>.
+</div>
 
 #### **Malaya in Early Films** 
 
@@ -75,14 +92,23 @@ By this time, local cinemas were regularly screening films showing snippets of l
 
 By 1907, film distribution had moved from the hands of itinerant businessmen importing American and European films. Singapore had become a distribution centre of films in the region, with French company Pathé Freres as a key anchor.[^35] This transformed the ease with which films could be obtained, the scale in which they were shown and the variety of films that could be screened. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/Road_To_Singapore_1931_re.jpg)
-<div style="background-color: white;">The Road to Singapore (1931) is a romantic drama starring William Powell and Doris Kenyou. © The Road to Singapore. <i>Directed by Alfred E. Green, produced and distributed by Warner Bros. United States, 1931. Courtesy of Wong Han Min</i>. </div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/earlysgcinema/Road_To_Singapore_1931_re.jpg">
+The Road to Singapore (1931) is a romantic drama starring William Powell and Doris Kenyou. © The Road to Singapore. <i>Directed by Alfred E. Green, produced and distributed by Warner Bros. United States, 1931. Courtesy of Wong Han Min</i>.
+</div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/A_Day_At_Singapore_re.jpg)
-<div style="background-color: white;">A Day at Singapore, featured short snippets of life in Singapore. © A Day at Singapore. Directed by George Méliès, 1913.</div>
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/George_Melies_re.jpg)
-<div style="background-color: white;">George Méliès (1861–1938) was a French illusionist and filmmaker. <i>Via Wikimedia Commons</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/earlysgcinema/A_Day_At_Singapore_re.jpg">
+A Day at Singapore, featured short snippets of life in Singapore. © A Day at Singapore. Directed by George Méliès, 1913.
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/earlysgcinema/George_Melies_re.jpg">
+George Méliès (1861–1938) was a French illusionist and filmmaker. <i>Via Wikimedia Commons</i>.
+</div>
 
 News documentaries became a regular feature in the cinemas when <i>The Animated Gazette</i>, produced by Pathé Freres, was broadcast weekly at the Alhambra in 1910.[^36] Singapore’s port and seascapes were often filmed, sometimes as standalone featurettes, like the 1910 Pathé film, Singapore, or as short vignettes, such as <i>A Day at Singapore</i> by Georges Méliès, which showcased “a most interesting little trip...to see one of the largest seaports in the world”.[^37] Méliès was world renowned for his fantastical movies using special effects such as <i>A Trip to the Moon</i> (1902) and <i>The Impossible Voyage</i> (1904). His film on Singapore was made during his travels through the South Pacific and Asia between 1912 and 1913. It is uncertain if these short films were ever screened in Singapore, though they were certainly shown in other countries. 
 
@@ -101,7 +127,13 @@ The 1933 film <i>Samarang</i> (see text box overleaf), styled as a pseudo-docume
 |<i>Samarang</i> was screened in the US in 1933 to rave reviews. The film’s popularity might have been due to its novelty but also possibly because Sai-Yu is topless for most of the second half of the film. It was first screened at the Alhambra in September 1933 and later at the Marlborough in 1934, where it was hailed as Singapore’s first talkie[^42] – although reviewers noted that it was “virtually a silent film except for a synchronized music score and occasional choral singing. The action (was) explained by subtitles, and although there (were) melodramatic episodes, they (were) for the most part set forth with… little skill.”[^43]|
 	
 |<img src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_re.jpg">Poster of Samarang. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. Courtesy of Wong Han Min.|
-	
+
+|<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_re.jpg">
+Poster of Samarang. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. Courtesy of Wong Han Min.
+</div>|
+
 |<img src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of Leila Majnun (1934). © Singapore Press Holdings. All rights reserved. The Straits Times.|
 	
 
