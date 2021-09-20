@@ -5,7 +5,7 @@ permalink: /vol-11/issue-1/apr-jun-2015/early-sg-cinema
 layout: post
 ---
 #### Few people are aware that Singapore’s cinema history dates back to as early as 1896. **Bonny Tan** traces its development, from the days of the Magic Lantern projector to the first locally made films.
-
+asdasd
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/earlysgcinema/bg2_re.jpg">
