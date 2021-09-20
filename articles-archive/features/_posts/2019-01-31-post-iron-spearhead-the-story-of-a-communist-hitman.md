@@ -119,7 +119,7 @@ A thorough search was made of the surroundings to flush out the fugitive. This t
 <img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron9.JPG">
 <div style="background-color: white;">Wong Fook Kwang was recaptured at his hideout in Pasir Laba on 9 July 1954, after being on the run for more than a year. <i>Image reproduced from Singapore Standard, 11 July 1954, p. 1.</i></div>
 
-Postscript
+#### **Postscript**
 
 At Wong’s trial in November 1954, his one-time comrades, Kuan Kay Tee and Yang Ah Lee, both of whom had defected, spilled the beans on him. They revealed details of the events leading up to Siu Moh’s murder, the whereabouts of Siu’s remains as well as Wong’s role in Lim Teck Kin’s murder. Despite their testimonies against him in court, Wong was not convicted of murder due to insufficient evidence. He was sentenced to a three-month jail term for escaping from prison, in addition to another five years for possessing banned communist literature. Even so, the punishment meted out to Wong seems light given the severity of his crime. During his trial, Wong asked to be banished to China with his mother instead of a prison sentence. It would take two years before his wish was granted on 20 June 1956.
 
@@ -127,4 +127,4 @@ Sometime in 1953, Wong had become engaged to Lin Hui Ying (林惠英), a fellow 
 
 In China, Wong married another woman. Although the union resulted in the birth of a son and daughter, it did not last and the couple were divorced in 1980. Wong then began searching for Lin.30 Unfortunately, by the time Wong received news of her in early 2004, she had already passed away the year before on 14 February 2003 at the age of 89. Wong died three years later in a hospital in Fuqing, in the city of Fuzhou.31
 
-Notes
+#### **Notes**
