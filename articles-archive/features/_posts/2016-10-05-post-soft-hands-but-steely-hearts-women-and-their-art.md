@@ -19,6 +19,8 @@ Women sculptors around the world,including those in Singapore, have wrestled cou
 
 In spite of these obstacles, women sculptors in Singapore, from Kim Lim to Kumari Nahappan, have carved out certain success from whatever materials they could lay their hands on. The fruits of their labour stand in public, private and commercial spaces – a testament to the grit and gumption as well as the creative talents of a small but influential group of women sculptors in Singapore.
 
+<div style="background-color: white;"><img style="width:350px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/08-softhands-steelyhearts.jpg">Kumari Nahappan working on the patina for a sculpture in Ayutthaya, Thailand, 2006. <i>All rights reserved, Sabapathy, T. K. (2013). Fluxion: Art & Thoughts: Kurmari Nahappan. Singapore: Editions Didier Millet.</i></div>
+
 #### **From Decoration to Art**
 
 Records show that a pioneer exhibition of women’s work was held in October 1931 at the Young Women’s Christian Association in Singapore. Works of artistic merit were grouped together along with “useful” crafts. A newspaper notice for the exhibition states that it included “all kinds of sewing, embroidery, art work, photography, cooking… by the young married women who are just beginning to realise the delights of making artistic and useful things”.[^3] In those early days, art by women seemed to be largely decorative in nature and merely a leisurely pursuit by women with time on their hands.
@@ -86,9 +88,9 @@ The exploration of the feminine and masculine binary cuts through a number of sc
 
 “Some people tell me, ‘your work was neither feminine nor masculine – you don’t know who made it.’ I like that. I like that they can stand on their own.”[^25]
 
-Hard and heavy materials, such as granite and marble, are challenging for both male and female sculptors to manipulate into their desired shape and form. However, granite is a favourite medium of Han Sai Por’s and constitutes a considerable part of her oeuvre. Her works are often inspired by nature, but “… not a slavish representation of visual form”, rather being able “to make the subtle and small large and true to the stature of life’s enormous possibilities”.[^26]
-
 <div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/06-softhands-steelyhearts.jpg">Jessie Lim’s ceramic sculpture, “Infinity” (2012), is a departure from her spiral sculptural ceramics. <i>Courtesy of National Gallery Singapore.</i></div>
+
+Hard and heavy materials, such as granite and marble, are challenging for both male and female sculptors to manipulate into their desired shape and form. However, granite is a favourite medium of Han Sai Por’s and constitutes a considerable part of her oeuvre. Her works are often inspired by nature, but “… not a slavish representation of visual form”, rather being able “to make the subtle and small large and true to the stature of life’s enormous possibilities”.[^26]
 
 Han’s marble work, “Growth” (1985), shows sensitivity in controlling and manipulating the material, “effect[ing] these stone surfaces with subtle, tactile nuances”.[^27] Her working relationship with materials has been described as loving and sympathetic, as she seeks to understand the characteristics of the materials. Instead of controlling and “fighting” hard materials like stone – as male sculptors are wont to do – she works with the natural curves and edges of the stone, allowing the natural formations to inspire the shape and order of each art piece.[^28] Han’s recent works have included paper-pulp media and printmaking, while still exploring and examining nature, such as products of the forest, including seeds and pods.
 
@@ -111,8 +113,6 @@ Some of the early artworks by Romanian-born Singaporean sculptor Delia Prvacki, 
 For Prvacki, art is more than just an expression of the natural environment. Her public sculpture project, “Plein Air” (2006), was interactive and integrative with its surroundings. The sculptures were meant to look like they were “deposited by the ebb and flow of the ocean” and “had to appear natural in the landscape, like they were born there”.[^34] Her earlier stonework, “Grass Movement” (1993), articulated the more untamed nature of beauty with the horn-shaped pieces growing wildly out of the ground.[^35]
 
 Her more recent installation “Mine and Rare Earths” (2010) dealt with the environment differently, exploring the relationship between raw materials and ores drawn from the earth and their impact on new technologies and the global economy. [^36] “Under the broad themes of nature, the environment of the city and nation-building”, the massive mural, “Singapore Tapestry” (2015), was a community-based artwork guided by Prvacki. Commissioned by the Land Transport Authority for Marina South Pier MRT Station, Prvacki pulled together the “divergent inspirations” of nearly 2,000 participants in this ambitious work of public art.[^37]
-
-<div style="background-color: white;"><img style="width:350px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/08-softhands-steelyhearts.jpg">Kumari Nahappan working on the patina for a sculpture in Ayutthaya, Thailand, 2006. <i>All rights reserved, Sabapathy, T. K. (2013). Fluxion: Art & Thoughts: Kurmari Nahappan. Singapore: Editions Didier Millet.</i></div>
 
 Representations and abstractions of nature figure strongly in Kumari Nahappan’s sculptures too. While she engages in painting, mixed media and installation art, it is Nahappan’s larger than life bronze sculptures of vibrant red capsicums “Pedas-Pedas”[^38] (2006) behind the National Museum of Singapore, the supersized saga seed “Saga” (2007) at Singapore Changi Airport Terminal 3 and “Nutmeg & Mace” (2009) at ION Orchard that the public are most familiar with.
 
@@ -159,7 +159,7 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 [^11]:Chew, M.-L. (1975, June 24). [Woman artists show their colours](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750624-1.2.48.2.aspx). *The Straits Times*, p.10. Retrieved from NewspaperSG.
 
-[^12]:Sian, E. J. (1999, April 24). [Is there such a thing as women’s art?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990424-1.2.106.18.aspx) *The Straits Times*, p. 9; De Souza, J. (1987, October 28). Elsie Yu: Lady of steel. *The Straits Times*, p. 25. Retrieved from NewspaperSG.
+[^12]:Sian, E. J. (1999, April 24). [Is there such a thing as women’s art?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990424-1.2.106.18.aspx) *The Straits Times*, p. 9; De Souza, J. (1987, October 28). [Elsie Yu: Lady of steel](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871028-1.2.67.30.1). *The Straits Times*, p. 25. Retrieved from NewspaperSG.
 
 [^13]:Fan, J. (2001). Something out of nothing? *[In Women beyond borders: Singapore: Sculpture, 7 March–13 May, 2001](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11200820)* (p. 3). Singapore: Sculpture Square. Call no.: RSING 730.95957 WOM
 
@@ -215,6 +215,6 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 [^39]:Sabapathy, T. K. (2013). *[Fluxion: Art & thoughts: Kumari Nahappan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200385015)* (pp. 120–124). Singapore: Editions Didier Millet. Call no.: RSING 709.5957 SAB 
 
-[^40]:Sabapathy, 2013, p. 123.
+[^40]:[Sabapathy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200385015), 2013, p. 123.
 
-[^41]:Shetty, D. (2015, August 18). Sculptures for SG50. *The Straits Times*. Retrieved from Factiva.
+[^41]:Shetty, D. (2015, August 18). [Sculptures for SG50](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150818-1.2.60.1.6). *The Straits Times*, pp. 4–5. Retrieved from NewspaperSG. 
