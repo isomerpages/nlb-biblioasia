@@ -5,7 +5,7 @@ permalink: /vol-11/issue-1/apr-jun-2015/early-sg-cinema
 layout: post
 ---
 #### Few people are aware that Singapore’s cinema history dates back to as early as 1896. **Bonny Tan** traces its development, from the days of the Magic Lantern projector to the first locally made films.
-asdasd
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/earlysgcinema/bg2_re.jpg">
@@ -128,13 +128,11 @@ The 1933 film <i>Samarang</i> (see text box overleaf), styled as a pseudo-docume
 	
 |<img src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_re.jpg">Poster of Samarang. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. Courtesy of Wong Han Min.|
 
-|<div style="background-color: white;">
-<br/>
-<img src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_re.jpg">
-Poster of Samarang. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. Courtesy of Wong Han Min.
-</div>|
+|<img src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_re.jpg">Poster of Samarang. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. *Courtesy of Wong Han Min.*|
 
 |<img src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of Leila Majnun (1934). © Singapore Press Holdings. All rights reserved. The Straits Times.|
+
+|<img src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of Leila Majnun (1934). © Singapore Press Holdings. All rights reserved. *The Straits Times.*|
 	
 
 |**Xin Ke (新客, The New Immigrant)**|
