@@ -15,7 +15,7 @@ There were the *lesung* (granite mortar, usually sold with a matching granite pe
 
 Through skillful time management, the freshest produce and a system of cooking that entailed *pegang tangan* (touch of hand), the matriarchs of Chetty Melaka kitchens prepared food that hardly needed refrigeration, with their uncanny sense of *pegang tangan* greatly reducing wastage – from the food preparation stage right through to the quantity served.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty2.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chettya.JPG">
 <div style="background-color: white;">The writer’s mother Madam Devaki Nair (left) and grandaunt Madam Salachi Retnam in 1991, with some of the Indian Peranakan dishes they had prepared using recipes that were passed down through oral tradition. <i>Pegang tangan</i>, or touch of hand, ensured that the right quantities of ingredients were used and nothing was wasted. <i>Image source: The Straits Times © Singapore Press Holdings Limited. Reprinted
 with permission.</i></div>
 
@@ -56,7 +56,7 @@ Even when she was well into her mid-90s, when she turned up early in the morning
 
 The perfume du jour since the early 1900s among Chetty Melaka women was none other than that must-have curio of scents, the 4711 Eau de Cologne – and my grandaunt literally bathed in it. She also swore that it fended off almost every malady known to man– from cooling the body down to curing insomnia and even the common cold. Now, how many of us can boast that our French perfume can multitask like that in the sweltering Asian heat? That tiny bottle of Eau de Cologne, conceived in 1792 in Germany, certainly punched way above its weight.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty4.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chettyb.JPG">
 <div style="background-color: white;">An advertisement for the 4711 Eau de Cologne. Chetty Melaka women swore by this cologne which they used to treat almost every malady. <i>Image reproduced from The Straits Times Annual, 1936, p. 11.</i></div>
 
 By the early 1980s, my mother had already become quite the exponent of this Indian sub-culture’s cuisine. She had learnt how to prepare curry powder – not from store-bought packets – by manually drying the raw ingredients under the sun and then getting them milled in Little India in big batches that could last for up to three months when kept in the fridge.
