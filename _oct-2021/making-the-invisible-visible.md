@@ -129,18 +129,18 @@ Reverend Father Joe Lopez Carpio, the current rector, is pleased with the outcom
 
 [^6]: Luis Dourdil (1914–89) was a 20th-century Portuguese artist. A self-taught man, he created several notable wall paintings and murals. See “Luis Dourdil,” Prabook, accessed 16 July 2021, https://prabook.com/web/luis.dourdil/3742719. 
 
-[^7]: 
+[^7]: Filipa Machado, interview, 26 February 2021; Filipa Machado, email , 22 July 2021.
 
-[^8]: 
+[^8]: “Saint Francis Xavier,” Jesuits, accessed 15 June 2021, https://www.jesuits.global/saint-blessed/saint-francis-xavier/.
 
-[^9]: 
+[^9]: Filipa Machado, email, 22 July 2021.
 
-[^10]: 
+[^10]: Filipa Machado, interview, 26 February 2021.
 
-[^11]: 
+[^11]: Filipa Machado, interview, 26 February 2021.
 
-[^12]: 
+[^12]: Filipa Machado, interview, 26 February 2021; Filipa Machado, email, 22 July 2021.
 
-[^13]: 
+[^13]: Reverend Father Joe Lopez Carpio, email, 30 July 2021.
 
-[^14]: 
+[^14]: St John of Damascus wrote: “For the invisible things of God since the creation of the world are made visible through images.” See “Medieval Sourcebook: John of Damascus, in Defense of Icons c. 730,” Fordham University, accessed 18 August 2021, https://sourcebooks.fordham.edu/source/johndam-icons.asp. 
