@@ -6,14 +6,14 @@ layout: post
 ---
 #### **Ronnie Tan** and **Goh Yu Mei** recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
 
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG">
+<img style="width: 600px; height: 300px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG">
 <div style="background-color: white;">The gun that was used to kill Lim Teck Kin as well as in the attempted murder of a 14-year-old schoolboy. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 6). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
 
 Wong Fook Kwang, who went by several aliases, including Tit Fung (literally “Iron Spearhead” in Cantonese)[^1] was the dreaded Commander of ‘E’ Branch, the assassination wing of the Malayan Communist Party (MCP). The MCP was most active during the Japanese Occupation years when it formed the Malayan People’s Anti-Japanese Army (MPAJA) to fight the enemy, and again in the aftermath of World War II, in the thick of the Malayan Emergency (1948–60), when it waged a guerilla war against the British in a bid to topple the colonial government and set up a communist regime.
 
 Sometime in April 1951, Wong received a terse message from the MCP’s South Malayan Bureau’s jungle headquarters in Johor, Malaya.[^2] The order was clear: Lim Teck Kin, a 62-year-old “rich but kind and highly respected towkay” and pineapple magnate, must die.[^3] Lim was marked for assassination because he was, in the eyes of the communists, a “reactionary capitalist” employing hundreds of workers. He was therefore deemed as “an oppressor of the masses”.[^4]
 
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron2.JPG">
+<img style="width: 330px; height: 440px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron2.JPG">
 <div style="background-color: white;">A mug shot profile of Wong Fook Kwang at the time of his first arrest on 11 June 1952. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (n.p.). Singapore: Heinemann Educational Books (Asia) Ltd.
 (Call no.: RSING 335.43095957 CLA)</i></div>
 
@@ -41,7 +41,7 @@ Upon receiving instructions from the MCP’s South Malayan Bureau’s headquarte
 
 On 2 October 1951, the plan was put into action. With Wong watching expectantly from behind an inconspicuous doorway, two of his assailants, one of whom acted as a look-out, waited for the student to cycle past River Valley Road. However, unlike other days, this time the boy was not alone. He had met a friend earlier and decided to dismount his bicycle and walk with his friend along the pavement while pushing his bicycle.
 
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron3.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron3.JPG">
 <div style="background-color: white;">The car in which pineapple tycoon Lim Teck Kin was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 23). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
 
 At the junction of Teck Guan Road and River Valley Road, one of Wong’s accomplices suddenly emerged from his hiding place and took the boys by surprise. Pulling out his gun, he fired six shots at the intended victim at point blank. Miraculously, the bullets missed their target and the boy managed to make a run for it. Incredibly, there were no passers-by nor motorists to witness the attempted murder along the busy road, so even the police were not notified immediately. By the time the boy managed to compose himself and make a police report, a few hours had lapsed, by which time Wong and his accomplices had long made their getaway in a trishaw.
@@ -54,7 +54,7 @@ Even before the attempted murder of the student, Wong had ordered and planned th
 
 Kong Lee,[^13] a member of the ‘E’ Branch Committee, however, disagreed with the plan to kill Siu and made his view known to Wong. The latter paid no heed to this and was prepared to contravene party rules, which made it clear that no one was to kill a fellow communist without the express approval of the MCP headquarters in Johor. So Wong decided to carry out his task quietly, seeing to it that Siu “would simply disappear forever”.[^14] To this end, both he and Ah Poh hatched a meticulous plan to kill Siu and dispose of his remains secretly. They decided that after the murder, Siu’s remains would be buried in a prawn pond in a tidal swamp at the end of Upper Serangoon Road.
 
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron4.JPG">
+<img style="width: 330px; height: 440px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron4.JPG">
 <div style="background-color: white;">The skeletal remains of Siu Moh were discovered by the police in the swamplands of Serangoon in November 1954, three years after he was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 149). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
 
 On 1 September 1951, Siu was lured to a desolate hut rented from a shrimp catcher. Here, he faced a kangaroo court, with Wong acting as both accuser and judge. During the mock trial, Wong accused Siu of embezzlement, despite the latter’s denials. Wong’s co-accusers at the clandestine gathering included Ah Poh, a lady named Lim Wai Yin (alias Ah Soo) and two other unnamed accomplices. Siu’s protestations were ignored. His accusers bound him hand and foot, gagged him with a cloth, bundled him into a boat and rowed out to a site nearby where he was mercilessly hacked to death. After the deed was done, Wong “swore his followers to secrecy – on pain of death”.[^15]
@@ -173,7 +173,3 @@ In China, Wong married another woman. Although the union resulted in the birth o
 [^29]:According to Leon Comber, however, Ah Soo (the alias of Lim Wai Yin), who was arrested in early 1952 for communist activities, was Wong’s wife. See Comber, L. (2008). [*Malaya’s secret police 1945–60: The role of the Special Branch in the Malayan Emergency*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676) (p. 229). Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute. (Call no:. RSING 363.283095951 COM)
 [^30]:张惠宁和潘正悦, 20 Jan 2004. 
 [^31]:张惠宁和潘正悦. [Zhang, H.N. & Pan, Z.Y.]. (2004, February 3). 伊人已逝：此情只可成追忆 [She has passed on and the love has turned to a memory]. *海南日报*. Retrieved from Sina website.
-
-
-
-
