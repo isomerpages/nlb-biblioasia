@@ -39,7 +39,7 @@ In 1987, the bridge was refurbished as part of the Singapore River masterplan an
 
 Cavenagh Bridge is named after William Orfeur Cavenagh, the last Governor of the Straits Settlements under British India control (1859–67). Completed in 1869, it is the oldest bridge in Singapore that still exists in its original form.[^3] The bridge was designed by George Chancellor Collyer, Chief Engineer of the Straits Settlements, and Rowland Mason Ordish, a civil engineer based in London.
 
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging4.JPG">
+<img style="width: 650px; height: 340px;" src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging4.JPG">
 <div style="background-color: white;">A 1900s postcard of Cavenagh Bridge, with a view of the government quarter. Completed in 1869, it is the oldest bridge in Singapore that still exists in its original form today. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Ordish was responsible for the design of several notable projects in London, including Joseph Paxton’s Crystal Palace (1851) and the dome-shaped roof of Albert Hall (1871). He was also a prolific bridge builder, having designed the Franz-Josef Bridge in Prague (1868) and the Albert Bridge in London (1873). In 1858, Ordish patented a bridge construction method called Ordish’s straight-chain suspension bridge, which comprised a rigid girder suspended by inclined straight chains instead of hanging chains. This cutting-edge technology was adopted for Cavenagh Bridge, giving the bridge the design we see today.[^4]
