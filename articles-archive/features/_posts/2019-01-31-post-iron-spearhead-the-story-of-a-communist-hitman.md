@@ -142,16 +142,16 @@ In China, Wong married another woman. Although the union resulted in the birth o
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
 
 #### **Notes**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
+[^1]:Wong’s last name is spelled “Kwang” in Peter Claque’s book and The Straits Times, while it is spelled “Kwong” in the Singapore Standard. Wong was also known by aliases such as Tit Fung (also spelled as “Thit Fong”) and Ng Hock Kwan. Although Tit Fung is Cantonese, which was Wong’s spoken dialect, his actual dialect group is Foochow. It is not known when Iron Spearhead was added to his string of aliases.
+[^2]:Singh, B. (2015). [*Quest for political power: Communist subversion and militancy in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018823) (p. xxv). Singapore: Marshall Cavendish International. (Call no.: RSING 335.4095957 SIN) 
+[^3]:Toh, W.C., & Clague, P. (1980, August 2). [*Story that’s woven around a pistol and a Red*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800802-1.2.129.15.2). *The Straits Times*, p. 6. Retrieved from NewspaperSG. 
+[^4]:Clague, P. (1980). [*Iron Spearhead: The true story of a communist killer squad in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295) (p. 3). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA) 
+[^5]:Yang Ah Lee would later defect to the British and work for the Criminal Investigation Department. He also testified against Wong during the latter’s trial for Siu Moh’s murder. 
+[^6]:[Masked youth  shoots millionare](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510522-1.2.26). (1951, May 22). *Singapore Standard*. p. 2. Retrieved from NewspaperSG.
+[^7]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, p. 25. 
+[^8]:Hsiaoshuang. (1980, July 12). [First class thriller material](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800712-1.2.65). *New Nation*, p. 15. Retrieved from NewspaperSG. 
+[^9]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 1–2. 
+[^10]:彭国强. (主编). [Peng, G. Q. (Ed.).] (2005). 激情岁月 [*Fervid Times*] (p. 107). 香港: 香港见证出版社. (Not in NLB holdings)
 [^11]:
 [^12]:
 [^13]:
@@ -162,3 +162,6 @@ In China, Wong married another woman. Although the union resulted in the birth o
 [^18]:
 [^19]:
 [^20]:
+
+
+
