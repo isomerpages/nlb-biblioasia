@@ -152,16 +152,23 @@ In China, Wong married another woman. Although the union resulted in the birth o
 [^8]:Hsiaoshuang. (1980, July 12). [First class thriller material](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800712-1.2.65). *New Nation*, p. 15. Retrieved from NewspaperSG. 
 [^9]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 1–2. 
 [^10]:彭国强. (主编). [Peng, G. Q. (Ed.).] (2005). 激情岁月 [*Fervid Times*] (p. 107). 香港: 香港见证出版社. (Not in NLB holdings)
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
+[^11]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 17–18. 
+[^12]:In those days, the communists infiltrated and subverted Chinese schools to rally the students to their cause. 
+[^13]:Kong Lee is the alias of Kuan Kay Tee who, like Yang Ah Lee, later defected and joined the police force as a detective corporal attached to the Special Branch of the Criminal Investigation Department. Kuan also testified against Wong at his trial for Siu Moh’s murder. 
+[^14]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 52. 
+[^15]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 37. 
+[^16]:Clague, 1980, pp. 49. 
+[^17]:Clague, 1980, pp. 52. 
 [^18]:
 [^19]:
 [^20]:
 
 
 
+
+
+
+
+Throughout his time under police custody, Wong pretended to cooperate with the police but Special Branch officers knew that he was lying. The only crime he admitted to was his unsuccessful attempt to burn down a bus. Wong was eventually charged with the possession of communist publications. 
+This is the same John Fairbairn who conducted a joint operation with his Malayan counterparts to arrest Ah Shu, a communist courier, in Singapore in 1952, and uncovered a trail that eventually resulted in the arrest of Lee Meng, the head courier of the MCP. For more information, see Tan, R. (2018, April–June). Hunting down the Malayan Mata Hari. BiblioAsia, 14(1), 24–29. Retrieved from BiblioAsia website. 
+Clague, 1980, pp. 52. 
