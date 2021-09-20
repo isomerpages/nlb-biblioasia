@@ -119,7 +119,7 @@ Perhaps the best image that captures how the design, actual use and symbolism of
 
 This practice of hanging clothes on bamboo poles originated with shophouse dwellers in Singapore’s city centre, long before the rise of public flats (just look at any archival photo of Chinatown or Singapore River neighbourhoods).
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/public-housing-private-lives/01a-publichousing-privatelives.jpg">Before people moved to high-rise HDB flats, some lived in decrepit shophouses like these on Hock Lam Street (c.1940s). When the occupants moved to HDB flats, they brought with them the habit of hanging laundry on bamboo poles suspended outside their windows. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><img style="width:550px" src="/images/Vol-12-issue-3/public-housing-private-lives/01a-publichousing-privatelives.jpg">Before people moved to high-rise HDB flats, some lived in decrepit shophouses like these on Hock Lam Street (c.1940s). When the occupants moved to HDB flats, they brought with them the habit of hanging laundry on bamboo poles suspended outside their windows. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Interestingly, in his oral history interview, Liu presents his view on the “unsightliness” of laundry hung from HDB windows:
 
