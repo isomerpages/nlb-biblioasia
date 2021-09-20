@@ -21,7 +21,7 @@ From the final decades of the 19th century until the 1950s, Singapore would witn
 
 Anderson Bridge, which connects Empress Place to Collyer Quay, is named after John Anderson, Governor of the Straits Settlements and High Commissioner for the Federated Malay States (1904–11). In 1901, a proposal was made to replace Cavenagh Bridge – which had been used since 1869 – with Anderson Bridge.
 
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging1.JPG">
+<img style="width: 650px; height: 360px;" src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging1.JPG">
 <div style="background-color: white;">A c.1910 photograph showing Anderson Bridge and the clock tower of Victoria Memorial Hall on the left. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Cavenagh Bridge could no longer support the growing vehicular and pedestrian traffic that came with the rapid development of Singapore because its low height allowance prevented vessels from passing unencumbered beneath at high tide. After Anderson Bridge was built in 1910, Cavenagh Bridge was, fortunately, spared the wrecking ball and turned into a pedestrian bridge.
