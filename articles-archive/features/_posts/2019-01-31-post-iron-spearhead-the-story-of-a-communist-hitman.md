@@ -110,7 +110,7 @@ Fairbairn also requested for Royal Air Force reconnaissance planes to fly over t
 
 Shortly after midnight on 9 July 1954, a police convoy travelled along Jurong Road towards Pasir Laba. Soon, the entire area was completely surrounded by police officers. At 8.40 am, they barged into Wong’s shack but found that it had already been evacuated. Wong had managed to escape again!
 
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron8.JPG">
+<img style="width: 650px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron8.JPG">
 <div style="background-color: white;">The attap-roofed shack in Pasir Laba, Jurong, where Wong Fook Kwang was hiding out while on the run until his recapture on 9 July 1954. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 135). Singapore: Heinemann Educational Books (Asia) Ltd.
 (Call no.: RSING 335.43095957 CLA)</i></div>
 
