@@ -5,6 +5,10 @@ permalink: /vol-11/issue-1/apr-jun-2015/early-sg-cinema
 layout: post
 ---
 #### Few people are aware that Singapore’s cinema history dates back to as early as 1896. **Bonny Tan** traces its development, from the days of the Magic Lantern projector to the first locally made films.
+
+![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/bg2_re.jpg)
+<div style="background-color: white;">Plan of a cinematograph tent located at Jalan Sungei at Serangoon Road in 1908. <i>Building Control Authority Collection, courtesy of the National Archives of Singapore</i>. </div>
+
 “All we can say to Singapore’s pleasure-seekers is that if they do not like a couple of hours to hang heavily on their hands they could not do better than wend their steps to the Company’s tent after dinner and feast their eyes on this unique and novel exhibition.”
 
 — “The Royal Cinematograph”, <i>Eastern Daily Mail and Straits Morning Advertiser</i>, 20 February 1907
@@ -23,8 +27,7 @@ Just a year later, in May 1897, the Ripograph, better known as the Giant Cinemat
 
 Meanwhile, new cinematographic inventions came fast and furious from the laboratories of Thomas Edison in America and the creative minds of the French, such as the Lumiere Brothers and Leon Bouly. The Cinematograph, the Bioscope, the Biograph, the Vitascope and the Projectoscope were introduced in quick succession – each touted to be better than the former. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/bg2_re.jpg)
-<div style="background-color: white;">Plan of a cinematograph tent located at Jalan Sungei at Serangoon Road in 1908. <i>Building Control Authority Collection, courtesy of the National Archives of Singapore</i>. </div>
+
 	
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/earlysgcinema/Kinetophonebis.jpg)
 <div style="background-color: white;">A man watching a scene using the Kinetoscope. <i>Via Wikimedia Commons</i>. </div>
