@@ -42,7 +42,7 @@ According to her granddaughter (and my cousin) Madam Susheela, Achi Atha would w
 
 “Atha would gather *bunga telang* (butterfly pea flowers) to extract its blue dye for popular desserts like *pulut inti* and *kueh dadah*, and then she would prepare *inti* (grated coconut cooked with *gula melaka* and *pandan* leaves) to be used as fillings for these desserts, all of which were usually made “a la minute” when an unexpected guest dropped by”, she said.
 
-Even in such frugal times as between the two world wars, Achi Atha always had something homemade and sweet on hand for guests. “No one was allowed to leave without a drink or a dessert”, said Madam Susheela. “That was the custom in our ancestors’ homes, which has continued in our lives until this present day”.
+Even in such frugal times as between the two world wars, Achi Atha always had something homemade and sweet on hand for guests. “No one was allowed to leave without a drink or a dessert,” said Madam Susheela. “That was the custom in our ancestors’ homes, which has continued in our lives until this present day.”
 
 For Hindus, the mantra “the guest is God” – from the *Sanskrit Atithi devo Bhavah* – has manifested in the age-old Chetty Melaka practice of honouring any guest with warm hospitality and food and drink, even if they visit our homes unannounced.2 Chetty Melaka women are known not only for their Malay-Indian dishes but also for their Straits-influenced grooming and attire. Like the Chinese Peranakan (Straits Chinese), they were resourceful in every aspect of their culture.
 
