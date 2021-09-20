@@ -181,15 +181,15 @@ Barry, J. (2000). [*Pulau Saigon: A post-eighteenth century archaeological assem
 
 Buckley, C.B. (1984). [*An anecdotal history of old times in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) (Vol. 2, pp. 690, 783). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC-[HIS])
 
-Goh, C.B. (2013). Technology and entrepôt colonialism in Singapore, 1819–1940 (p. 112). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 338.064095957 GOH)
+Goh, C.B. (2013). [*Technology and entrepôt colonialism in Singapore, 1819–1940*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200130222) (p. 112). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 338.064095957 GOH)
 
-Hancock, T.H.H. (1986). Coleman’s Singapore (pp. 1–2, 66, 87). Kuala Lumpur, Malaysia: Pelanduk Publications. (Call no.: RSING 720.924 COL.H)
+Hancock, T.H.H. (1986). [*Coleman’s Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4190516) (pp. 1–2, 66, 87). Kuala Lumpur, Malaysia: Pelanduk Publications. (Call no.: RSING 720.924 COL.H)
 
-National Archives of Singapore. (1913). Map of Singapore showing the principal residences and places of interests [Survey map]. Retrieved from National Archives of Singapore website.
+National Archives of Singapore. (1913). [*Map of Singapore showing the principal residences and places of interests*](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad) [Survey map]. Retrieved from National Archives of Singapore website.
 
-Ng, M.F.C. (2016). Singapore River walk (pp. 47–56). Singapore: National Heritage Board. (Call no.: RSING 915.95704 NG-[TRA])
+Ng, M.F.C. (2016). [*Singapore River walk*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202919344) (pp. 47–56). Singapore: National Heritage Board. (Call no.: RSING 915.95704 NG-[TRA])
 
-Samuel, D.S. (1991). Singapore’s heritage: Through places of historical interest (p. 86). Singapore: Elixir Consultancy Service. (Call no.: RSING 959.57 SAM-[HIS])
+Samuel, D.S. (1991). [*Singapore’s heritage: Through places of historical interest*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6252232) (p. 86). Singapore: Elixir Consultancy Service. (Call no.: RSING 959.57 SAM-[HIS])
 
 Savage, V.R., & Yeoh, B.S.A. (2013). Singapore street names: A study of toponymics (pp. 88–89, 317, 322–324). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV-[TRA])
 
