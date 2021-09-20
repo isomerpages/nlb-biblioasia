@@ -157,22 +157,6 @@ The new bridge was completed in 1955 and, at 85 ft (26 m) long and 66 ft (20 m) 
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
 
-#### **Notes**
-[^1]: Cheong, C. (1992). [*Framework and foundation: A history of the Public Works Department*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6434293) (p. 50). Singapore:Times Editions. (Call no.: RSING 354.5957008609 CHE) 
-[^2]: Tan, I. (2012). *Bridges to our heritage: The significance of five historic bridges over Singapore River* (pp. 50–52). Retrieved from University of Edinburgh website. 
-[^3]: [Cheong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6434293), 1992, p. 55. 
-[^4]: Curl, J.S. (2016). [*The Oxford dictionary of architecture*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202927295) (p. 539). United Kingdom: Oxford University Press.(Call no.: R 720.3 CUR) 
-[^5]: Lee, K.L. (n.d.). [*EIC Letters*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13223846), 1, pp. 11, 17, 20, 41.(Call no.: RDLKL 959.5703 EIC) 
-[^6]: [Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13223846), n.d.,1, pp. 116, 123; Lee, K. L. (n.d.). [EIC Letters](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13223846), 2, pp. 183, 214, 230, 246, 291. (Call no.: RDLKL 959.5703 EIC) 
-[^7]: [Coleman St. Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18640213-1.2.3). (1864, February 13). *The Straits Times*, p. 28. Retrieved from NewspaperSG. 
-[^8]: [The Singapore Free Press: Coleman Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18650323-1.2.4). (1865, March 23). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
-[^9]: [Municipal Council: Coleman Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18650225-1.2.6). (1865, February 25). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
-[^10]: [Town bridges: Merchant Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18860701-1.2.22). (1886, July 1). *Straits Times Weekly Issue*, p. 7. Retrieved from NewspaperSG. 
-[^11]: [Cheong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6434293), p. 55; Tan, 2012, pp. 67–70. 
-[^12]: [Singapore River smell corrodes bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390417-1.2.94). (1939, April 17). *The Straits Times*, p. 13. Retrieved from NewspaperSG. 
-[^13]: [Ord Bridg](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18860902-1.2.45.2)e. (1886, September 2). *Straits Times Weekly Issue*, p. 14. Retrieved from NewspaperSG. 
-[^14]: De Silva, L., & Chandradas. (1985, September 30). [Singapore River preserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850930-1.2.23.1). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
-
 #### **References**
 
 Barry, J. (2000). [*Pulau Saigon: A post-eighteenth century archaeological assemblage recovered from a former island in the Singapore River*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12922802) (pp. 11–13). Stamford: Rheidol Press. (Call no.: RSING 959.57 BAR-[HIS])
@@ -206,3 +190,19 @@ Hon, S,S. (1893). [*Plan of Singapore Town Showing Topographical Detail and Muni
 Tyers, R.K. (1993). [*Ray Tyers’ Singapore: Then & now*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442235) (pp. 7, 11–12, 26–27, 95). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE-[HIS])
 
 Wan, M.H., & Lau, J. (2009). [*Heritage places of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13220774) (pp. 9–15). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 WAN-[HIS])
+
+#### **Notes**
+[^1]: Cheong, C. (1992). [*Framework and foundation: A history of the Public Works Department*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6434293) (p. 50). Singapore:Times Editions. (Call no.: RSING 354.5957008609 CHE) 
+[^2]: Tan, I. (2012). *Bridges to our heritage: The significance of five historic bridges over Singapore River* (pp. 50–52). Retrieved from University of Edinburgh website. 
+[^3]: [Cheong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6434293), 1992, p. 55. 
+[^4]: Curl, J.S. (2016). [*The Oxford dictionary of architecture*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202927295) (p. 539). United Kingdom: Oxford University Press.(Call no.: R 720.3 CUR) 
+[^5]: Lee, K.L. (n.d.). [*EIC Letters*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13223846), 1, pp. 11, 17, 20, 41.(Call no.: RDLKL 959.5703 EIC) 
+[^6]: [Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13223846), n.d.,1, pp. 116, 123; Lee, K. L. (n.d.). [EIC Letters](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13223846), 2, pp. 183, 214, 230, 246, 291. (Call no.: RDLKL 959.5703 EIC) 
+[^7]: [Coleman St. Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18640213-1.2.3). (1864, February 13). *The Straits Times*, p. 28. Retrieved from NewspaperSG. 
+[^8]: [The Singapore Free Press: Coleman Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18650323-1.2.4). (1865, March 23). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
+[^9]: [Municipal Council: Coleman Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18650225-1.2.6). (1865, February 25). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^10]: [Town bridges: Merchant Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18860701-1.2.22). (1886, July 1). *Straits Times Weekly Issue*, p. 7. Retrieved from NewspaperSG. 
+[^11]: [Cheong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6434293), p. 55; Tan, 2012, pp. 67–70. 
+[^12]: [Singapore River smell corrodes bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390417-1.2.94). (1939, April 17). *The Straits Times*, p. 13. Retrieved from NewspaperSG. 
+[^13]: [Ord Bridg](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18860902-1.2.45.2)e. (1886, September 2). *Straits Times Weekly Issue*, p. 14. Retrieved from NewspaperSG. 
+[^14]: De Silva, L., & Chandradas. (1985, September 30). [Singapore River preserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850930-1.2.23.1). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
