@@ -6,6 +6,12 @@ layout: post
 ---
 #### The Singapore Memory Project launches a new exhibition to honour our pioneer generation at Woodlands Regional Library.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/lifestories/nurse.jpg">
+A video still of Helena Maheson. Hers is one of the narratives that will be featured in the form of a video cli
+</div>
+
 Struggles and hardship are part of the human condition. On the other hand, triumph in the face of great adversity is much less commonplace, and is often remarkable – especially when the struggle towards success is hard won. Many films celebrate stories of people overcoming unrelenting hardship to achieve great things, often played out in the dramatisation of the protagonists’ suffering and their subsequent vindication. 
 
 Real life is much less sensational but the experiences are no less moving. Many people emerge from situations of adversity without necessarily achieving what the world would consider as spectacular or extraordinary. Real life suffering is subtler and less dramatic, and the definition of success is much more nuanced. 
@@ -40,14 +46,13 @@ Eventually in 2000 I was made to run the paediatric ward, which included the onc
 
 Even up to today, if there is a patient with cancer, adult or child, because of my experience, it is easy to say to them “I understand”.
 
-
-![Alt text for image on Isomer site](/images/vol-11-issue-1/lifestories/nurse.jpg)
-<div style="background-color: white;">A video still of Helena Maheson. Hers is one of the narratives that will be featured in the form of a video clip</div>
-
 #### **Teo Khai Seng** <br>**Age 56** <br>**Owns a fish farm in Lim Chu Kang (His ninth farm so far)** 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/lifestories/DSC06219_Zhang_Kai_She_Vinson_Phua.jpg)
-<div style="background-color: white;">Portraits of Teo Khai Seng, who now owns nine fish farms. <i>Courtesy of Vinson Phua.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/lifestories/DSC06219_Zhang_Kai_She_Vinson_Phua.jpg">
+Portraits of Teo Khai Seng, who now owns nine fish farms. <i>Courtesy of Vinson Phua.</i>
+</div>
 
 I dropped out of school when I was 11. We were poor and had problems buying uniforms and textbooks. The teachers were fierce towards me as I was dyslexic. I ended up playing truant frequently. As a result, I never learnt to read. 
 
@@ -95,8 +100,11 @@ I learnt to operate a crane while working at a shipyard in Jurong. I was soon pr
 
 I retired in 2000 and nowadays I volunteer twice a week at the Resident Committee's karaoke as a karaoke jockey; I love to sing. I also help the folks at the elderly centre nearby with their outings. I even jog for 30 minutes with my wife every morning to keep fit! Although you may think I’ve had a hard life, I’ve never dwelled on the past. It’s best just to live life to the fullest. You only live once right?
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/lifestories/DSC05937_Zhou_Jiang_Vinson_Phua.jpg)
-<div style="background-color: white;">Portrait of Chew Chiang Tong. Courtesy of Vinson Phua.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/lifestories/DSC05937_Zhou_Jiang_Vinson_Phua.jpg">
+	Portrait of Chew Chiang Tong. <i>Courtesy of Vinson Phua</i>.
+</div>
 
 <p style="font-size:15px;"><b>Georgina Wong</b> is an Associate with the Exhibitions and Curation department at the National Library of Singapore. She is the curator of the exhibition “Greatest Gift of a Generation: Life Stories” – to be launched at the Woodlands Regional Library in late May 2015.</p>
 
