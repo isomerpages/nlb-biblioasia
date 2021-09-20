@@ -4,7 +4,7 @@ permalink: /vol-17/issue-3/oct-dec-2021/stjosephchurch
 ---
 #### **Alvin Tan** documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/FACING%20PAGE.jpg)
 <div style="background-color: white;">Restoration of the statue of a guardian angel and child revealed their soft and gentle facial expressions and the detailed finery of their garments. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
@@ -38,9 +38,9 @@ To Monsignor Philip Heng, SJ,[^3] then the church rector, the statues had “a s
 
 After the *Straits Times* ran an article in July 2017 about the church’s discovery of treasures hidden under paint,[^5] Filipa Machado, a Portuguese art restorer residing in Singapore, approached the church at the urging of friends to offer her services.
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/Filipa.jpg)
 <div style="background-color: white;">Filipa Machado in her workshop, Singapore, 2021. She restored all the statues at St Joseph’s Church between 2018 and 2021. <i>Courtesy of Filipa Machado.</i></div>
-
-
 
 Trained in Lisbon and graduating top of her class in 1999, Machado had garnered about 17 years of experience working on restoration projects in Portugal. From 2009 to 2014, she was part of an award-winning restoration team that won the Prémio Vilalva award recognising excellence in the conservation of Portuguese cultural heritage at the Sacramento Church in Lisbon. In 2015, she clinched an award from the Portuguese Association of Museology for her work in restoring a 48-square-metre heritage mural painted in 1955 by the Portuguese artist Luis Dourdil.[^6]
 
@@ -68,7 +68,9 @@ In addition to the technical aspects, Machado also had to ensure that the restor
 
 Machado’s first restoration piece was the statue of St Francis Xavier (1506–52), a task that took two weeks to complete. One of the seven original members of the Society of Jesus (also known as Jesuits), St Francis Xavier is remembered for his missionary work in establishing Christianity in Asia, the Malay Archipelago and Japan. Based in Melaka for several months in 1545, St Francis Xavier was informed that he had been appointed provincial of the “Indies and the countries beyond” while he was in Singapore at the end of 1551.[^8]
 
-<div style="background-color: white;">Restoring the statue of Francis Xavier took two weeks. The original statue (top) was dirty, jaundiced, with a flat facial expression, and full of cracks and abrasions. After restoration (below), the original porcelain white surplice (or tunic) with clear detailing and patterning can be clearly seen, while the dark-purple stole was restored to its original hue of lustrous, rich gold. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/St%20Joseph.jpg)
+<div style="background-color: white;">Restoring the statue of Francis Xavier took two weeks. The original statue (left) was dirty, jaundiced, with a flat facial expression, and full of cracks and abrasions. After restoration (right), the original porcelain white surplice (or tunic) with clear detailing and patterning can be clearly seen, while the dark-purple stole was restored to its original hue of lustrous, rich gold. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
 The 150-centimetre-tall plaster statue of the saint was in poor material condition. It was dirty and its surface was marred by cracks, abrasions, holes and other lacunae. Missing fingers had been replaced with crudely shaped plaster substitutes. Although coats of paint had been applied over the decades, mostly based on the painters’ imagination and preference, these had little regard for the original colour, hue, tone and shade. 
@@ -95,6 +97,8 @@ In St Joseph’s, the statue of a guardian angel sits in a niche situated after 
 
 Unfortunately, years of overpainting had hardened the facial expressions of the angel and child. The angel wore a nonchalant fixed stare while the child responded with a look of doubt. The friendly relationship of trust and protection, so pronounced in the original statue, had been lost. Further work uncovered details on the angel’s wings and mantle. With the dirt and overpaint stripped away, the soft and gentle aspects of the facial expressions of the statue were revealed. Using the same process as she did in the restoration of the statue of St Francis Xavier, Machado reinstated the detailed finery that clothed both the angel and child.
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/Guardian%20Angel.jpg)
 <div style="background-color: white;">Before restoration, the guardian angel had a nonchalant fixed stare while the child had a look of doubt. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
@@ -106,7 +110,7 @@ When evaluating the statue, Machado “was surprised by the pristine condition o
 
 To preserve the original paintwork, she chose therefore to remove the overpaint by hand rather than risk damaging it by using a chemical solvent. Because she had to “remove all the overpaint with a scalpel very slowly and carefully”, Machado said that she came to “appreciate every detail of the statue”.[^9] Over a fortnight, she spent consecutive 12-hour days to complete the removal process. 
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/St%20Sebastian.jpg)
 <div style="background-color: white;">To preserve the original paintwork on the plaster statue of St Sebastian, the layers of paint were carefully removed by hand using a scalpel rather than a chemical solvent. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
@@ -122,11 +126,15 @@ Of all the statues Machado restored, her favourite is that of St Agnes of Rome, 
 
 Unfortunately, the old paint job had given the statue a flat and lifeless appearance. After Machado removed the old paint and restored the statue to its original appearance, the lavishly patterned ivory white tunic and emerald green palla decorated with an intricate gold motif became visible. The headband was festooned with dusty-vermillion roses, which complemented the soft tones of rose pink on her cheeks. 
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/St%20Agnes.jpg)
 <div style="background-color: white;">Before restoration, the statue of St Agnes of Rome (below) had a flat and lifeless appearance. After the restoration (right), the patterned ivory white tunic and emerald green <i>palla</i> with an intricate gold motif can be seen. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
 Machado’s other favourite statue is St Roch, a male saint canonised in the 16th century. Among other things, St Roch is a patron saint of dogs, invalids, the falsely accused and bachelors. Machado “love[d] all the decorative elements of its clothing” and being an animal lover, the inclusion of a dog as part of the statue delighted her. She felt that it was “one of the most beautiful of the male [statues]” she had restored.[^12]
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/St%20Roch.jpg)
 <div style="background-color: white;">The statue of St Roch, the Catholic patron saint of dogs, is always depicted with a canine at his feet. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
