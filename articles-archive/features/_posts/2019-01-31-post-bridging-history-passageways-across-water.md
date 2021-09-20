@@ -95,3 +95,26 @@ The bridge was built to last, and so it did for a full 100 years before it was r
 Read Bridge was built to link Clarke Quay and Hong Lim Quay, and the one standing today is not the original but the second Read Bridge. Before the first Read Bridge was constructed in 1889, Merchant Bridge occupied the same location – named after the merchant warehouses that once lined both ends of the bridge. The wooden structure, which was completed in 1869, was also referred to as Tan Tock Seng Bridge, after the prominent Chinese merchant and philanthropist, Tan Tock Seng, who owned several shophouses nearby. In 1886, the municipality decided to replace Merchant Bridge with the first Read Bridge after the former was found to be “in a shaky condition”.10
 
 The first Read Bridge was an iron girder bridge, with two 77-ft (23 m) spans and a concrete pier in the middle to support the structure. Construction of the bridge began in 1887, and its first cylinder was laid by William Henry Macleod Read, the Scottish merchant and public figure after whom the bridge was named. Although the bridge served the mercantile community well, it turned out to be too low for heavily laden twakow (lighter boats) to pass under during high tide, and had to be replaced eventually.
+
+<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging8.JPG">
+<div style="background-color: white;">(Left) The first Read Bridge was completed in 1889. It had two spans supported by a concrete pier in the middle, as seen in this 1904 photograph. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i><br>
+(Right) The second and current Read Bridge, 2016. It replaced the first Read Bridge in 1931, which in turn had replaced Merchant Bridge, or Tan Tock Seng Bridge, in 1889. Read Bridge is named after the Scottish merchant and public figure, William Henry Macleod Read. <i>Courtesy of National Heritage Board.</i></div>
+
+Completed in 1931, the second Read Bridge was a steel box girder bridge designed by Municipal Engineer K.G.M. Fraser. It was a utilitarian structure simply adorned with only four ornamental street lamps.11 The initial design, however, by Municipal Bridge Engineer T.C. Hood, was envisaged as a tied-arch structure with a towering 120-ft-high (36.5 m) arch similar to that of the current Elgin Bridge. But due to insufficient funds, this design was abandoned.
+
+The steelwork of the second Read Bridge was manufactured by the British firm Motherwell Bridge and Engineering, but as the material became exposed to the harsh tropical climate, it began to corrode not long after its completion. By the end of the decade, the bridge was reported to have suffered “exceptionally heavy corrosion, despite being designed with particular care”.12 In 1991, the bridge underwent major repairs as part of the Singapore River clean-up and was converted into a pedestrian bridge.
+
+In the early days, Read Bridge was variously known as Malacca Bridge as it was located close to Kampong Melaka, and also Green Bridge due to the colour of its original paintwork. At the time, the area around the bridge was also a hub for the Teochew community, with Teochew labourers gathering on the bridge after work in the evenings to listen to traditional storytellers. In 2008, the bridge was conserved by the URA.
+
+#### **6. Ord Bridge**
+
+Ord Bridge – which links Clarke Quay and River Valley Road – was constructed in 1886 and named after Harry St George Ord, the first Governor of the Straits Settlements (1867–73). It replaced a footbridge known as Ordnance Bridge, which was built in 1865. The latter was so named because an arsenal and commissariat store was located nearby. Ordnance Bridge was also called ABC Bridge, after ABC Road, which later became Ord Road (now expunged).
+
+<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging9.JPG">
+<div style="background-color: white;">Ord Bridge near Riverside Point at Clarke Quay, 2010. The bridge is named after Harry St George Ord, the first Governor of the Straits Settlements (1867–73). It replaced a footbridge known as Ordnance Bridge, which was built in 1865. <i>Courtesy of William Cho via flickr.</i></div>
+
+Structurally, Ord Bridge is an iron bridge with distinctive X-shape girders. The 135-ft-long (41 m) and 24-ft-wide (7 m) bridge has a structure that resembles standard-gauge railway bridges as it was modelled after similar bridges in India. However, about a month after the bridge was opened, it suffered a mishap, with the weight of the structure causing the northern abutment to slip. This problem was later traced to the way in which the piers had been laid during construction; they were found standing on “tiptoe” on a slopping bedrock rather than embedded firmly into solid foundation.13
+
+Ord Bridge was also known as Toddy Bridge because of the many toddy (palm liquor) shops operating in the area. The bridge has since come under URA’s conservation programme.
+
+#### **7. Clemenceau Bridge**
