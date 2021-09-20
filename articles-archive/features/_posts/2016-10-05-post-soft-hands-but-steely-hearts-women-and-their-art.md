@@ -4,7 +4,6 @@ date: 2016-10-05
 permalink: /vol-12/issue-3/oct-dec-2016/softhands-steelyheart
 layout: post
 ---
-
 #### A coterie of women sculptors in Singapore has successfully redefined this once male-dominated art form. **Nadia Arianna Bte Ramli** tells you more.
 
 <div style="background-color: white;"><br><img style="width:650px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/03-softhands-steelyhearts.jpg">Han Sai Por’s “20 Tonnes – Physical Consequences” (2002) currently stands in front of the National Museum of Singapore. It is made up of six granite blocks and cost about $20,000 to create. <i>Courtesy of the National Museum of Singapore.</i></div>
@@ -12,7 +11,7 @@ layout: post
 “If I showed up in a feminine dress like this, people don’t believe I’m a sculptor!”[^1]
 <p align="right">– Elsie Yu</p>
 
-Whether the medium is granite, bronze, steel or clay, the art of shaping, moulding and chiselling the material into a sculptural work of art demands more than brute strength. Yet, some hold the view that the art form requires certain masculine qualities in order to bend, carve or shape even the most malleable of materials into what may be deemed a “feminine” sculpture. What does gender have to do with art? *The question was raised by Susie Lingham in the Text & Subtext* forum in 2000:
+Whether the medium is granite, bronze, steel or clay, the art of shaping, moulding and chiselling the material into a sculptural work of art demands more than brute strength. Yet, some hold the view that the art form requires certain masculine qualities in order to bend, carve or shape even the most malleable of materials into what may be deemed a “feminine” sculpture. What does gender have to do with art? The question was raised by Susie Lingham in the *Text & Subtext* forum in 2000:
 
 “In sports events, men and women’s events are separated on the argument that men have more physical strength. But in art, is there a necessity to set up another ring for women artists to wrestle for relevance in the art world? Is this not a way of marginalising women?”[^2]
 
@@ -24,9 +23,9 @@ In spite of these obstacles, women sculptors in Singapore, from Kim Lim to Kumar
 
 Records show that a pioneer exhibition of women’s work was held in October 1931 at the Young Women’s Christian Association in Singapore. Works of artistic merit were grouped together along with “useful” crafts. A newspaper notice for the exhibition states that it included “all kinds of sewing, embroidery, art work, photography, cooking… by the young married women who are just beginning to realise the delights of making artistic and useful things”.[^3] In those early days, art by women seemed to be largely decorative in nature and merely a leisurely pursuit by women with time on their hands.
 
-<div style="background-color: white;"><img style="width:200px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/01-softhands-steelyhearts.jpg">Dora Gordine working on the head of a child in her studio at Dorich House, London, c.1950s. National Monuments Record, English Heritage, Swindon. <i>All rights reserved, Black, J., & Martin, B. (2007). Dora Gordine: Sculptor, Artist, Designer. London: Dorich House Museum, Kingston University in association with Philip Wilson Publishers.</i></div>
-
 In the 1930s, a European sculptor by the name of Dora Gordine lived and worked in Singapore and Johor. During her time here, she was commissioned to create three sculptures for the Municipal Building (later renamed as the City Hall until its recent reincarnation as the National Gallery Singapore [NGS] together with the Supreme Court building next door).
+
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/01-softhands-steelyhearts.jpg">Dora Gordine working on the head of a child in her studio at Dorich House, London, c.1950s. National Monuments Record, English Heritage, Swindon. <i>All rights reserved, Black, J., & Martin, B. (2007). Dora Gordine: Sculptor, Artist, Designer. London: Dorich House Museum, Kingston University in association with Philip Wilson Publishers.</i></div>
 
 The sculptures were of three heads depicting an Indian, a Chinese and a Malay.[^4] These bronze busts were crafted in the classical tradition of “universal and idealised human forms” in three-dimensional style.[^5] The purchase of these art works for the Municipal Building was described as a watershed event: “the first time in the history of this Colony that the acquisition of a subject of pure art has been realised”.[^6]
 
