@@ -43,3 +43,62 @@ On 2 October 1951, the plan was put into action. With Wong watching expectantly 
 
 <img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron3.JPG">
 <div style="background-color: white;">The car in which pineapple tycoon Lim Teck Kin was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 23). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
+
+At the junction of Teck Guan Road and River Valley Road, one of Wong’s accomplices suddenly emerged from his hiding place and took the boys by surprise. Pulling out his gun, he fired six shots at the intended victim at point blank. Miraculously, the bullets missed their target and the boy managed to make a run for it. Incredibly, there were no passers-by nor motorists to witness the attempted murder along the busy road, so even the police were not notified immediately. By the time the boy managed to compose himself and make a police report, a few hours had lapsed, by which time Wong and his accomplices had long made their getaway in a trishaw.
+
+While fleeing from the scene, Wong and the gunman had a close call: the trishaw they were travelling in was stopped by a police car on routine patrol. Fortunately for the two men, the police officers had no inkling of the botched attempt to kill the boy and only did an identity card check. Had they carried out a full body search, the outcome for Wong and his accomplice would have been very different as the weapon used in the attempted murder was still in the gunman’s possession.
+
+#### **How to Murder a Comrade**
+
+Even before the attempted murder of the student, Wong had ordered and planned the murder of one of his own comrades, a 30-year-old man named Siu Moh. Siu was suspected by his superior Ah Poh of embezzling $300 – money that had been extorted from various businessmen and shopkeepers. Wong concurred with Ah Poh that Siu must pay for his alleged misdeeds with his life.
+
+Kong Lee,13 a member of the ‘E’ Branch Committee, however, disagreed with the plan to kill Siu and made his view known to Wong. The latter paid no heed to this and was prepared to contravene party rules, which made it clear that no one was to kill a fellow communist without the express approval of the MCP headquarters in Johor. So Wong decided to carry out his task quietly, seeing to it that Siu “would simply disappear forever”.14 To this end, both he and Ah Poh hatched a meticulous plan to kill Siu and dispose of his remains secretly. They decided that after the murder, Siu’s remains would be buried in a prawn pond in a tidal swamp at the end of Upper Serangoon Road.
+
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron4.JPG">
+<div style="background-color: white;">The skeletal remains of Siu Moh were discovered by the police in the swamplands of Serangoon in November 1954, three years after he was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 149). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
+
+On 1 September 1951, Siu was lured to a desolate hut rented from a shrimp catcher. Here, he faced a kangaroo court, with Wong acting as both accuser and judge. During the mock trial, Wong accused Siu of embezzlement, despite the latter’s denials. Wong’s co-accusers at the clandestine gathering included Ah Poh, a lady named Lim Wai Yin (alias Ah Soo) and two other unnamed accomplices. Siu’s protestations were ignored. His accusers bound him hand and foot, gagged him with a cloth, bundled him into a boat and rowed out to a site nearby where he was mercilessly hacked to death. After the deed was done, Wong “swore his followers to secrecy – on pain of death”.15
+
+#### **Capture and Detention**
+
+On 11 June 1952, four policemen, including a Chinese lieutenant, were in a police car patrolling the area around Bugis and Rochor roads. At 1.10 pm, they turned onto Albert Street, which was “renowned for good, inexpensive, Chinese food”,16 with the intention of conducting surprise checks at coffee shops in the area. The police officers approached a table with three Chinese men, who were so engrossed in eating and drinking that they did not notice them.
+
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron5.JPG">
+<div style="background-color: white;">View of Albert Street. On 11 June 1952, Wong Fook Kwang and two of his cronies were at one of the coffee shops on Albert Street when they were approached by police officers. Wong bolted from the scene but was eventually caught and taken to Beach Road Police Station for interrogation. <i>All rights reserved. Lee Kip Lin Collection, Lee Kip Lin and National Library Board, Singapore.</i></div>
+
+When asked to produce their identity cards, all three men refused to do so. The police lieutenant then raised his voice, to which the men reluctantly complied. Unbeknownst to the police officers, one of the men in the group was the villainous Wong Fook Kwang. An unsuspecting police corporal turned to Wong and did a body search for weapons, finding on his person instead a paper packet containing what appeared to be dried plums. Still suspicious, the corporal separated the fruit from the paper. In that instant, Wong bolted from the coffee shop and into a side street leading to Rochor Road, with the police officers hot on his heels.
+
+At the height of the chase, a young Englishman happened to be driving along Rochor Road. On seeing a Chinese man being pursued by the police, he decided to join the chase, stepping on the accelerator to catch up with the fleeing suspect. The Englishman managed to knock Wong down with the fender of his car and got out to apprehend him until the pursuing policemen arrived. A search of the suspect’s pockets unearthed several Chinese newspaper cuttings relating to communist activities. An examination of his identity card revealed that he was Wong Fook Kwang – a name that did not mean anything to the police officers at the time.
+
+Wong’s name did not show up on the wanted list because the police were blissfully unaware of his identity as the commander of the MCP’s assassination wing in Singapore. As author Peter Claque put it, “The police lieutenant was like a man who shoots at a noise in the jungle hoping to kill a pigeon and discovers that he has shot a tiger”.17 In the meantime, the other two men who had been with Wong had already made their escape by the time the policemen returned to the coffee shop.
+
+Wong was taken to Beach Road Police Station where Special Branch officers were waiting to question him and examine the newspaper cuttings. True to his nature, Wong remained silent18 when he was interrogated by Special Branch officer, Superintendent John Fairbairn.19 A police search of the house located at the address listed in Wong’s identity card unearthed a cache of communist literature and documents, evidence which proved that Wong “had important communist connections and was a leader of some kind”.20
+
+On 27 June 1952, Wong was ordered to be detained under the Emergency Regulations21 for two years. Shortly after his arrest, Wong was visited by an elderly Chinese lady who claimed to be his mother.22 She said that Wong was her only son, and appealed to the authorities for his release but to no avail. The Special Branch came down hard on anyone deemed to have communist connections.
+
+The day after his arrest, Wong appeared ill and a doctor confirmed that he was suffering from advanced tuberculosis and had to be moved to the prison ward at the Singapore General Hospital (SGH) for observation and treatment. When doctors assessed that Wong had recovered sufficiently, he was transferred back to Changi Prison on 16 October 1952 and placed in solitary confinement. Twelve weeks later, on 15 January 1953, Wong suffered a relapse and was sent back to the prison ward for treatment. His condition had deteriorated to the point that it was presumed his end was near. But somehow he survived.
+
+During Wong’s second stay in hospital, the elderly woman who had earlier claimed to be his mother visited him several times. On one of her visits, she was accompanied by a man (later found to be a member of the MCP who had taken the opportunity to survey the surroundings). The information was likely used to plan Wong’s escape after MCP leaders had sanctioned it.23
+
+On 4 March 1953, between 2 and 4 pm, the elderly woman again visited Wong at the prison ward. She also brought him a parcel of food. The parcel was thoroughly examined by a senior guard on duty before she was allowed entry. After being let through, Wong’s “mother” spoke to him in hushed tones – likely informing him of the impending attempt to help him escape.
+
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron6.JPG">
+<div style="background-color: white;">Wong Fook Kwang escaped from the prison ward of the Singapore General Hospital on 4 March 1953. He was on the run for more than a year before he was captured. <i>Courtesy of National Archives of Singapore.</i></div>
+
+#### **The Brazen Escape**
+
+A severe thunderstorm raged that night. At 9.30 pm, the nurse on duty visited the 12 patients in the prison ward and noticed that Wong was in bed but awake. Shortly after, the duty police corporal switched off the lights and the nurse’s assistant went round the ward to place the last dose of medication for the day on the patients’ bedside tables. When the assistant reached Wong’s empty bed, he assumed that Wong had gone to the bathroom, so he put the medicine on the table and moved on.
+
+Unbeknownst to him, Wong had made a run for it earlier, barefooted and in his hospital pyjamas. How he had pulled off this brazen prison break “without being seen by the three constables who guarded the ward” is a mystery to this day. The 1.7-metre-tall fugitive managed to escape with the help of a man named Ah Hong, who had sawn through the wire netting that covered most of the window of his cell as well as the inch-thick iron bars, bending it outwards in the process. “While the sawing was going on, Wong hid quietly in the verandah. He had managed to slip out of his bed unnoticed”.24
+
+The alarm was raised at 9.40 pm when a sentry doing his rounds discovered the sawn iron bar. Special Branch was immediately alerted and road blocks set up islandwide to recapture Wong. A bounty of $2,000 was offered for information leading to his recapture. Sometime close to midnight, the hacksaw used to commit the mischief was discovered nearby. The four guards were suspended for being negligent in their duty and subsequently sacked.
+
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron7.JPG">
+<div style="background-color: white;">Following Wong Fook Kwang’s escape from the Singapore General Hospital prison ward, a bounty of $2,000 was offered for his recapture. <i>Courtesy of ISD Heritage Centre.</i></div>
+
+Wong had escaped without his identity card as it was kept in a safe by Fairbairn. Since it was not possible for Wong to move around Singapore freely without one, especially with police road blocks set up in densely populated areas, Fairbairn knew that Wong would most likely seek refuge in rural suburbs where it would be easier to hide. The search for Wong, however, turned out to be a protracted affair that took more than a year.
+
+Fairbairn’s hunch was right; after Wong had successfully evaded the police dragnet, he found his way to Pasir Laba25 in Jurong, in the western part of the island. There, for more than a year, he posed as a farmer and lived in an “attap-roofed shack, surrounded by lallang and bushes” in a low-lying, swampy area.26 During his time on the run, Wong had recovered fully from tuberculosis, dosing himself on controlled drugs smuggled into Singapore by fellow communists in Johor.
+
+#### **Wong’s Recapture**
+
