@@ -6,7 +6,7 @@ layout: post
 ---
 #### European families in colonial Singapore had a retinue of servants – cook, chauffeur, nanny, gardener and houseboy – but this did not guarantee a life of ease, as **Janice Loo** tells us.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/law-of-the-land/01-lawofland.jpg"></i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/dont-mess-with-the-cook/01-dontmesswiththecook.jpg"></i></div>
 
 Malay Police Constable no. 623 was on duty at Anson Road on the afternoon of 21 February 1907 when a European lady with a bloodied nose appeared, dragging a Chinaman firmly by his queue. Mrs Muddit had been attacked by her Hainanese cook, Lim Ah Kwi, and she was not about to let him get away.
 
