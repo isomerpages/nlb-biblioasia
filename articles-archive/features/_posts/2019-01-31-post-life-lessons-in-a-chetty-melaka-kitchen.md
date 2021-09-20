@@ -9,7 +9,7 @@ layout: post
 <img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty1.JPG">
 <div style="background-color: white;">Group photo of Indian Peranakan girls, some wearing the <i>baju panjang</i>, 1910–1925. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
 
-There was a time – before the invention of modern kitchen miracles such as electric blenders and KitchenAid – when Chetty Melaka1 families in Singapore plated up a veritable cornucopia of Indian Peranakan dishes on a very tight budget, using the simplest of kitchen utensils.
+There was a time – before the invention of modern kitchen miracles such as electric blenders and KitchenAid – when Chetty Melaka[^1] families in Singapore plated up a veritable cornucopia of Indian Peranakan dishes on a very tight budget, using the simplest of kitchen utensils.
 
 There were the *lesung* (granite mortar, usually sold with a matching granite pestle) – the “eclectic blenders” of the era – which could pulverise, mash up and liquefy almost any ingredient known to man. With such simple but sturdy early-day “appliances”, one hardly needed the KitchenAid either. And there was no need to go to the gym too: the arduous pounding made sure one had quite a workout – to say nothing of toned arms.
 
@@ -89,6 +89,7 @@ The lessons in the kitchen taught us to be prudent, resourceful, hardworking and
 
 #### **Notes**
 
-[^1]: Also spelled as Chetti Melaka or Chitty Melaka. The Chetty Melaka are descendants of South Tamil Indian traders who settled in Malacca during the Malaccan Sultanate (1400–1511) and married local women who included Malays, Javanese, Bataks and Chinese. Chetty Melaka are mostly Hindu, and speak a patois of Malay, Tamil and Chinese. The community of some 500,000 in Singapore traces its roots to Kampung Chetti at Jalan Gajah Berang, Malacca.
+[^1]: Also spelled as Chetti Melaka or Chitty Melaka. The Chetty Melaka are descendants of South Tamil Indian traders who settled in Malacca during the Malaccan Sultanate (1400–1511) and married local women who included Malays, Javanese, Bataks and Chinese. Chetty Melaka are mostly Hindu, and speak a patois of Malay,
+Tamil and Chinese. The community of some 500,000 in Singapore traces its roots to Kampung Chetti at Jalan Gajah Berang, Malacca.
 [^2]: This is extended only to those we are accustomed with, and not to rank strangers. The rule was that when in doubt about a guest, never allow them to enter but apologise a few days later after you have established their relationship to the family. 
 [^3]: *Buah keluak* is a poisonous seed from the *kepayang* tree, native to Malaysia and Indonesia, which is “cured” of its cyanide content by a careful process of boiling, immersion in ash and followed by burial in the earth for a certain period of time.
