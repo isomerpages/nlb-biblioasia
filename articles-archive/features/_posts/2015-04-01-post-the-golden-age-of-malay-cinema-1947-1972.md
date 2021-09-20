@@ -87,14 +87,7 @@ In all, more than 250 Malay-language films were produced in Singapore over the 2
 
 |Hand-painted film posters went through a boom from the 1950s until the 1970s with as many as 100 posters commissioned per film. In the past, as many as 10 painters would be mobilised to complete a big billboard requiring 100 pieces of plywood for mounting. As experienced painters retired and new blood could not be attracted to join the profession, dwindling manpower meant that only one painter was assigned to a poster.[^57] By 1980, Shaw had closed down its art studio that produced its posters[^58] and by the end of the 1980s, hand-painted posters had given way to their digital rivals.|
 
-|
-
-<img src="/images/vol-11-issue-1/malaycinema/IMG_7443_2.jpg">
-Hand-painted film posters were the rage from the 1950s to 70s but slowed down by the 80s. Here, Neo Choon Teck, one of Singapore’s last surviving billboard artists, reprises his work for the Singapore Short Film Awards in 2011. <i>Courtesy of SINdie (www.sindie.sg).</i></div>|
-
-|
-<img src="/images/vol-11-issue-1/malaycinema/IMG_7443_2.jpg">
-Hand-painted film posters were the rage from the 1950s to 70s but slowed down by the 80s. Here, Neo Choon Teck, one of Singapore’s last surviving billboard artists, reprises his work for the Singapore Short Film Awards in 2011. <i>Courtesy of SINdie (www.sindie.sg).</i></div>|
+|<img src="/images/vol-11-issue-1/malaycinema/IMG_7443_2.jpg">Hand-painted film posters were the rage from the 1950s to 70s but slowed down by the 80s. Here, Neo Choon Teck, one of Singapore’s last surviving billboard artists, reprises his work for the Singapore Short Film Awards in 2011. <i>Courtesy of SINdie (www.sindie.sg).</i>|
 
 |**Tayangan Akan Datang: Poster Lukisan Tangan**|
 
