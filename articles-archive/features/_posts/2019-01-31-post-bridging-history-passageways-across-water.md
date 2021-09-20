@@ -118,3 +118,41 @@ Structurally, Ord Bridge is an iron bridge with distinctive X-shape girders. The
 Ord Bridge was also known as Toddy Bridge because of the many toddy (palm liquor) shops operating in the area. The bridge has since come under URA’s conservation programme.
 
 #### **7. Clemenceau Bridge**
+
+This bridge that spans the Singapore River today is the second Clemenceau Bridge at this site. It is named after Georges Benjamin Clemenceau, the French Prime Minister (1906–09 and 1917–20) who visited Singapore in 1920.
+
+<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging10.jpg">
+<div style="background-color: white;">A view of the second Clemenceau Bridge, 2015. It was completed in 1991 and connects the Central Expressway’s Chin Swee Tunnel with Clemenceau Avenue. <i>Courtesy of Remember Singapore blog.</i></div>
+
+The first Clemenceau Bridge was built in 1940 by Fogden, Brisbane and Company Ltd. The original structure was 330 ft (100 m) long and 60 ft (18 m) wide, with a height clearance of 7 ft (2 m) for vessels to pass beneath during high tide. This bridge was designed by Municipal Bridge Engineer T.C. Hood. Although it was a simple looking structure, it is remembered as the first bridge in Singapore that used web guilders. The entire bridge was constructed using reinforced concrete to improve its resistance against corrosion, a problem that had plagued most of the bridges along the Singapore River at the time. The bridge was built as part of a road scheme that stretched from Clemenceau Avenue to Keppel Road, and replaced the Havelock stretch of Pulau Saigon Bridge. The latter was referred to in the early maps of Singapore town as Bridge No. 1.
+
+The first Clemenceau Bridge stood for nearly 50 years before it was demolished in 1989 to make way for the Central Expressway (CTE). A new replacement bridge with the same name was then built in 1991. Today, the bridge, which has eight lanes instead of the previous four, connects the CTE’s Chin Swee Tunnel with Clemenceau Avenue.
+
+#### **8. Pulau Saigon Bridge**
+
+Pulau Saigon Bridge is named after a small island that once sat in the middle of the Singapore River between Clarke Quay and Roberston Quay, facing Magazine Road. Initially a mangrove marsh, the island was later home to a village called Kampong Saigon. After the island was enlarged in 1884, merchants began to use the island to store goods from Indochina. By the early 1900s, the island had become a rather busy place filled with warehouses and sago mills. There was reportedly even a municipal waste incinerator as well as a railway depot on the island.
+
+In post-1890s maps of Singapore, Pulau Saigon Bridge is shown to be made up of two bridges, Bridge No. 1 and Bridge No. 2. Both bridges were built during the 1890s: the first linked Pulau Saigon to the northern bank of the Singapore River, leading to roads such as River Valley Road and Merbau Road, while the second bridge, on the other side of Pulau Saigon, linked the island to roads at the southern bank, such as Havelock Road and Magazine Road.
+
+<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging11.JPG">
+<div style="background-color: white;">Pulau Saigon Bridge was originally made up of two bridges, known as Bridge No. 1 and Bridge No. 2. Built during the 1890s, the first bridge was replaced by Clemenceau Bridge in 1940, while the second was dismantled in the late 1980s to make way for the Central Expressway. This 1985 photograph shows Bridge No. 2. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
+
+When the first Clemenceau Bridge was constructed in 1940, Bridge No. 1 was demolished. Bridge No. 2, which had a single arch similar to that of Anderson Bridge and Elgin Bridge, would remain standing until Pulau Saigon was reclaimed to join the mainland in the 1980s. The 141-ft-long (43 m) Pulau Saigon Bridge we see today was built in 1997. The five-lane bridge, which links Saiboo Street and Havelock Road, has a granite-finished pedestrian pavement on each side as well as a 197-ft-long (60 m) pedestrian underpass.
+
+#### **9. Kim Seng Bridge**
+
+Kim Seng Bridge is located at the stretch of the Singapore River just before it emerges from a small canal.14 It is named after Tan Kim Seng, a prominent merchant and philanthropist who donated 13,000 Straits dollars to the colonial government in 1857 for the construction of Singapore’s first reservoir and waterworks.
+
+Predating the present bridge are two earlier constructions. The first was reportedly built in 1862 before it was replaced by the second bridge in 1890. The second bridge was depicted in early maps of Singapore as being part of Kim Seng Road, which runs from River Valley Road at the northern side of the Singapore River to Havelock Road in the south.
+
+In 1953, the City Council decided to replace the second Kim Seng Bridge with the present bridge. A new bridge was needed to relieve traffic congestion as well as eliminate a dangerous horseshoe bend at the southern end of the bridge that had been the scene of many fatal accidents.
+
+The new bridge was completed in 1955 and, at 85 ft (26 m) long and 66 ft (20 m) wide, it is twice the size of its predecessor. The bridge was built by Ewart and Company, which used pre-stressed concrete, a new building material, as well as special high tensile steel from Britain, thus allowing the bridge to hold a load of up to 2,700 pounds per sq ft (13,183 kg per sq m).
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging12.jpg" style="width: 100px; height: 100px;">
+<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to BiblioAsia.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
