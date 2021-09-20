@@ -1,4 +1,5 @@
 collections:
   editor-picks:
     output: true
-    order: []
+    order:
+      - art.md
