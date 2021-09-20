@@ -173,3 +173,36 @@ The new bridge was completed in 1955 and, at 85 ft (26 m) long and 66 ft (20 m) 
 [^13]: [Ord Bridg](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18860902-1.2.45.2)e. (1886, September 2). *Straits Times Weekly Issue*, p. 14. Retrieved from NewspaperSG. 
 [^14]: De Silva, L., & Chandradas. (1985, September 30). [Singapore River preserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850930-1.2.23.1). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
+#### **References**
+
+Barry, J. (2000). [*Pulau Saigon: A post-eighteenth century archaeological assemblage recovered from a former island in the Singapore River*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12922802) (pp. 11–13). Stamford: Rheidol Press. (Call no.: RSING 959.57 BAR-[HIS])
+
+[Bridges to the past along the Singapore River](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861005-1.2.3.aspx). (1986, October 5). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+
+Buckley, C.B. (1984). [*An anecdotal history of old times in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) (Vol. 2, pp. 690, 783). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC-[HIS])
+
+Goh, C.B. (2013). Technology and entrepôt colonialism in Singapore, 1819–1940 (p. 112). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 338.064095957 GOH)
+
+Hancock, T.H.H. (1986). Coleman’s Singapore (pp. 1–2, 66, 87). Kuala Lumpur, Malaysia: Pelanduk Publications. (Call no.: RSING 720.924 COL.H)
+
+National Archives of Singapore. (1913). Map of Singapore showing the principal residences and places of interests [Survey map]. Retrieved from National Archives of Singapore website.
+
+Ng, M.F.C. (2016). Singapore River walk (pp. 47–56). Singapore: National Heritage Board. (Call no.: RSING 915.95704 NG-[TRA])
+
+Samuel, D.S. (1991). Singapore’s heritage: Through places of historical interest (p. 86). Singapore: Elixir Consultancy Service. (Call no.: RSING 959.57 SAM-[HIS])
+
+Savage, V.R., & Yeoh, B.S.A. (2013). Singapore street names: A study of toponymics (pp. 88–89, 317, 322–324). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV-[TRA])
+
+Singapore. Municipality. (1930). Administration report of the Singapore municipality for the year 1929 (p. F–2). Singapore: Fraser & Neave, Limited. (Microfilm no.: NL3414)
+
+De Silva, Leo & Chandradas. (1985, September 30). Singapore River preserved. The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+Survey Department, Federated Malay States and Straits Settlements. (1893).
+
+Tan, I. (2012). Bridges to our heritage: The significance of five historic bridges over Singapore River (pp. 50–52, 67–70). Retrieved from University of Edinburgh website.
+
+Hon, S,S. (1893). Plan of Singapore Town Showing Topographical Detail and Municipal Numbers [Survey map]. Retrieved from National Archives of Singapore website.
+
+Tyers, R.K. (1993). Ray Tyers’ Singapore: Then & now (pp. 7, 11–12, 26–27, 95). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE-[HIS])
+
+Wan, M.H., & Lau, J. (2009). Heritage places of Singapore (pp. 9–15). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 WAN-[HIS])
