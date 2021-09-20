@@ -42,7 +42,7 @@ Singapore’s tenuous connection to Solomon’s Ophir likely rests on the famed 
 If Ophir seems familiar, much less well-known are the fantasies of the French writer Nicolas-Edme Rétif. Rétif, who used the pen name Restif de la Bretonne, was the author of several salacious titles such as *Le Paysan Perverti* (*The Perverted Peasant*; 1775), *Le Pornographe* (*The Pornographer*; 1769) and *L’Anti-Justine; ou, Les Delices de l'amour* (*The Anti-Justine; or, The Delights of Love*; 1798). In all, Rétif produced over 200-odd works ranging from biographies to science fiction and short stories, covering topics that vary from politics to incest. 
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Nicholas-Edme2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/Nicholas-Edme3.jpg)
 <div style="background-color: white;">Portrait of French writer Nicolas-Edme Rétif, who used the pen name Restif de la Bretonne. Among his more successful works is <i>La Découverte Australe par un Homme-volant, ou Le Dédale Francais</i>, published in 1781. <i>Retrieved from Wikimedia Commons.</i></div>
 
 Among his moderately successful publications is one often acclaimed as a proto-work of science fiction, *La Découverte Australe par un Homme-volant, ou le Dédale Francais* (*The Southern Discovery by a Flying Man, or the French Daedalus*).[^8]  Published in 1781 in four volumes, it is a novel of great eccentricity and social critique although its shock value has been very much blunted by the passage of time. 
