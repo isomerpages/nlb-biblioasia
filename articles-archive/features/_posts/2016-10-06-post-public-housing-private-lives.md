@@ -4,10 +4,9 @@ date: 2016-10-06
 permalink: /vol-12/issue-3/oct-dec-2016/publichouse-pvtlives
 layout: post
 ---
-
 #### Incredibly, people living in some of the first one-room flats had to share their toilets and kitchens with strangers. **Yu-Mei Balasingamchow** tells you how far public housing has come since 1960.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/public-housing-private-lives/01-publichousing-privatelives.jpg">Before people moved to high-rise HDB flats, some lived in decrepit shophouses like these on Hock Lam Street (c.1940s). When the occupants moved to HDB flats, they brought with them the habit of hanging laundry on bamboo poles suspended outside their windows. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/public-housing-private-lives/01a-publichousing-privatelives.jpg">Before people moved to high-rise HDB flats, some lived in decrepit shophouses like these on Hock Lam Street (c.1940s). When the occupants moved to HDB flats, they brought with them the habit of hanging laundry on bamboo poles suspended outside their windows. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 I moved into a Housing and Development Board (HDB) flat for the first time in the late 1990s. It was a 10-year-old flat in a cosy estate in the east – nice and windy, receiving hardly any afternoon sun and within walking distance of an MRT station. Perhaps, most remarkably, from the common corridor outside my front door on the 11th floor, I had a partially unblocked view of the surroundings, which consisted mostly of low-rise buildings all the way to the sea, a glimmering slate-blue strip on the far horizon.
 
