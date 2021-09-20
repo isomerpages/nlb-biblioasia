@@ -67,14 +67,16 @@ At the opening of the first exhibition dedicated to sculptural works in 1967, th
 
 Women sculptors were thus venturing into what was a relatively small space in the arts scene. The hefty cost of creating sculptural exhibitions may be (and still is) a strain for some. 1995 Cultural Medallion recipient Han Sai Por’s “20 Tonnes – Physical Consequences” (2002) cost about $20,000 to create, while construction costs alone for Elsie Yu’s “Towards Excellence” (1987) was a whopping $80,000.[^20]
 
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/04b-softhands-steelyhearts.jpg">Han Sai Por at work on one of her sculptures. She was awarded the Cultural Medallion in 1995. <i>All rights reserved, Han, S. P. (2013). Moving Forest. Singapore: Singapore Tyler Print Institute.</i></div>
+
 While government initiatives such as the Public Sculpture Masterplan 2000 (and the more recent Public Art Trust) have sought to ease these costs and allow artists to concentrate on their work, private organisations are also important stakeholders in promoting the appreciation of sculpture as an art form. City Developments Limited and its biennial Singapore Sculpture Award is one such example of a private corporation shaping the visibility and appreciation of sculpture in Singapore.[^21]
 
 CapitaLand, one of the largest real estate companies in Singapore, has commissioned public art for display at its commercial and residential premises. Its first work of art was Han’s large-scale sculptural installation, “Shimmering Pearls” (2000) at Capital Tower in the heart of the financial district.[^22] With corporate commissions, sculptors are able to work more freely on a more ambitious scale. However, because such commissioned works tend to be awarded to well-known sculptors, new and emerging talents run the risk of being ignored, irrespective of gender.
 
 Creating dedicated spaces to showcase three-dimensional art was the next step in engendering public interest and encouraging the art form. Sculpture Square, which opened in 1999, served this very purpose. Its inaugural exhibition, “Provocative Things”, highlighted conventional sculptural works and more abstract sculptural installations. Chng Seok Tin’s “Kuantan Boat Song” (1999), with coconut husks cast in bronze, and Kumari Nahappan’s “precisely…..360” (1999), an installation of found objects, made of both natural and man-made material, fell into the latter category.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/04-softhands-steelyhearts.jpg">(Top) Han Sai Por at work on one of her sculptures. She was awarded the Cultural Medallion in 1995. <i>All rights reserved, Han, S. P. (2013). Moving Forest. Singapore: Singapore Tyler Print Institute.</i></div>
-<div style="background-color: white;">(Bottom) Chng Seok Tin with sculptures from her “Life Like Chess” exhibition in 2001. Photo was taken in Marina Bay against the Central Business District. <i>Courtesy of Chng Seok Tin.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/04b-softhands-steelyhearts.jpg">
+Chng Seok Tin with sculptures from her “Life Like Chess” exhibition in 2001. Photo was taken in Marina Bay against the Central Business District. <i>Courtesy of Chng Seok Tin.</i></div>
 
 In 2001, the formation of the Sculpture Society, led by Han, further advanced the development and appreciation of sculpture through a tight-knit community of passionate sculptors.[^23]
 
@@ -217,4 +219,4 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 
 [^40]:[Sabapathy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200385015), 2013, p. 123.
 
-[^41]:Shetty, D. (2015, August 18). [Sculptures for SG50](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150818-1.2.60.1.6). *The Straits Times*, pp. 4–5. Retrieved from NewspaperSG. 
+[^41]:Shetty, D. (2015, August 18). [Sculptures for SG50](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150818-1.2.60.1.6). *The Straits Times*, pp. 4–5. Retrieved from NewspaperSG.
