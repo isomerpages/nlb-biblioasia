@@ -102,3 +102,29 @@ Fairbairn’s hunch was right; after Wong had successfully evaded the police dra
 
 #### **Wong’s Recapture**
 
+It was in October 1953, seven months after the brazen escape in March, that Special Branch received a tip-off from underworld sources that Wong was hiding out “in a small hut in a patch of jungle on Singapore Island, about 200 yards from an unnamed village north-west of the city”.27 They were also informed that Wong was protected by two armed men at all times.
+
+It would take another nine months before Wong would be nabbed. Special Branch officers devised a meticulous plan. It initially involved gathering intelligence on the terrain and inhabitants in the area. Later, the officers discovered that there were many stray dogs in the area that were likely to bark at approaching strangers and alert Wong. It was clear that the best way to recapture Wong was to have policemen encircle the entire area surrounding the hideout.
+
+Fairbairn also requested for Royal Air Force reconnaissance planes to fly over the area at irregular intervals to obtain aerial photographs. After carefully studying the images, Fairbairn concluded that he would need some 300 men for the job. Fortunately, he had the support of Alan Blades, Head of Special Branch, for the massive operation.
+
+Shortly after midnight on 9 July 1954, a police convoy travelled along Jurong Road towards Pasir Laba. Soon, the entire area was completely surrounded by police officers. At 8.40 am, they barged into Wong’s shack but found that it had already been evacuated. Wong had managed to escape again!
+
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron8.JPG">
+<div style="background-color: white;">The attap-roofed shack in Pasir Laba, Jurong, where Wong Fook Kwang was hiding out while on the run until his recapture on 9 July 1954. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 135). Singapore: Heinemann Educational Books (Asia) Ltd.
+(Call no.: RSING 335.43095957 CLA)</i></div>
+
+A thorough search was made of the surroundings to flush out the fugitive. This time Wong did not get very far: he was found lying face down in the *lallang*, hoping that the tall grass would shield him, when a policeman nearly stepped on him. Wong did not put up a struggle, and was handcuffed and brought before Fairbairn. In Wong’s makeshift dwelling, the police found the drugs he had been using to treat his tuberculosis as well as banned communist publications. He had apparently made a full recovery by the time he was caught.
+
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron9.JPG">
+<div style="background-color: white;">Wong Fook Kwang was recaptured at his hideout in Pasir Laba on 9 July 1954, after being on the run for more than a year. <i>Image reproduced from Singapore Standard, 11 July 1954, p. 1.</i></div>
+
+Postscript
+
+At Wong’s trial in November 1954, his one-time comrades, Kuan Kay Tee and Yang Ah Lee, both of whom had defected, spilled the beans on him. They revealed details of the events leading up to Siu Moh’s murder, the whereabouts of Siu’s remains as well as Wong’s role in Lim Teck Kin’s murder. Despite their testimonies against him in court, Wong was not convicted of murder due to insufficient evidence. He was sentenced to a three-month jail term for escaping from prison, in addition to another five years for possessing banned communist literature. Even so, the punishment meted out to Wong seems light given the severity of his crime. During his trial, Wong asked to be banished to China with his mother instead of a prison sentence. It would take two years before his wish was granted on 20 June 1956.
+
+Sometime in 1953, Wong had become engaged to Lin Hui Ying (林惠英), a fellow MCP member.28 Shortly after their marriage was approved by the MCP, she was arrested for her communist work.29 In 1954, Lin gave birth to their daughter in prison, and upon her release in 1955, she was deported to China. She settled in Hainan island and Wong subsequently lost contact with her.
+
+In China, Wong married another woman. Although the union resulted in the birth of a son and daughter, it did not last and the couple were divorced in 1980. Wong then began searching for Lin.30 Unfortunately, by the time Wong received news of her in early 2004, she had already passed away the year before on 14 February 2003 at the age of 89. Wong died three years later in a hospital in Fuqing, in the city of Fuzhou.31
+
+Notes
