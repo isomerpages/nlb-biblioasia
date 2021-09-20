@@ -11,9 +11,9 @@ layout: post
 
 The bridges erected over the Singapore River during the colonial period are more than mere structures providing safe passageway across this historic body of water. They were hailed as marvels of engineering – given the technology and building materials available at the time. More importantly, by promising conveyance to an endless stream of human life and cargo, these bridges also came to symbolise the lifeblood of transportation, commerce and social interaction in pre-independent Singapore.
 
-Despite such lofty associations, many of these colonial bridges started out as humble wooden structures. One of the earliest that spanned the Singapore River dates back to 1823. This rickety bridge made of wood was known as Presentment Bridge, and stood at the site where Elgin Bridge is found today.1
+Despite such lofty associations, many of these colonial bridges started out as humble wooden structures. One of the earliest that spanned the Singapore River dates back to 1823. This rickety bridge made of wood was known as Presentment Bridge, and stood at the site where Elgin Bridge is found today.[^1]
 
-Stronger materials such as iron, steel and reinforced concrete, as well as more sophisticated structural bridge designs like the steel truss arch, the tied-arch and the truss girder, were not adopted until after the second half of the 19th century.2 The introduction of new materials, designs and technology to Singapore was the legacy of the colonial government, who called upon foreign architects, civil engineers and builders to lend their expertise to bridge building projects on the island.
+Stronger materials such as iron, steel and reinforced concrete, as well as more sophisticated structural bridge designs like the steel truss arch, the tied-arch and the truss girder, were not adopted until after the second half of the 19th century.[^2] The introduction of new materials, designs and technology to Singapore was the legacy of the colonial government, who called upon foreign architects, civil engineers and builders to lend their expertise to bridge building projects on the island.
 
 From the final decades of the 19th century until the 1950s, Singapore would witness the construction of modern iron bridges, such as the first Elgin Bridge, Ord Bridge, Read Bridge, Cavenagh Bridge and the third Coleman Bridge, as well as stronger steel or reinforced concrete bridges like Anderson Bridge, the second Elgin Bridge and the second Read Bridge.
 
@@ -37,12 +37,12 @@ In 1987, the bridge was refurbished as part of the Singapore River masterplan an
 
 #### **2. Cavenagh Bridge**
 
-Cavenagh Bridge is named after William Orfeur Cavenagh, the last Governor of the Straits Settlements under British India control (1859–67). Completed in 1869, it is the oldest bridge in Singapore that still exists in its original form.3 The bridge was designed by George Chancellor Collyer, Chief Engineer of the Straits Settlements, and Rowland Mason Ordish, a civil engineer based in London.
+Cavenagh Bridge is named after William Orfeur Cavenagh, the last Governor of the Straits Settlements under British India control (1859–67). Completed in 1869, it is the oldest bridge in Singapore that still exists in its original form.[^3] The bridge was designed by George Chancellor Collyer, Chief Engineer of the Straits Settlements, and Rowland Mason Ordish, a civil engineer based in London.
 
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging4.JPG">
 <div style="background-color: white;">A 1900s postcard of Cavenagh Bridge, with a view of the government quarter. Completed in 1869, it is the oldest bridge in Singapore that still exists in its original form today. <i>Courtesy of National Archives of Singapore.</i></div>
 
-Ordish was responsible for the design of several notable projects in London, including Joseph Paxton’s Crystal Palace (1851) and the dome-shaped roof of Albert Hall (1871). He was also a prolific bridge builder, having designed the Franz-Josef Bridge in Prague (1868) and the Albert Bridge in London (1873). In 1858, Ordish patented a bridge construction method called Ordish’s straight-chain suspension bridge, which comprised a rigid girder suspended by inclined straight chains instead of hanging chains. This cutting-edge technology was adopted for Cavenagh Bridge, giving the bridge the design we see today.4
+Ordish was responsible for the design of several notable projects in London, including Joseph Paxton’s Crystal Palace (1851) and the dome-shaped roof of Albert Hall (1871). He was also a prolific bridge builder, having designed the Franz-Josef Bridge in Prague (1868) and the Albert Bridge in London (1873). In 1858, Ordish patented a bridge construction method called Ordish’s straight-chain suspension bridge, which comprised a rigid girder suspended by inclined straight chains instead of hanging chains. This cutting-edge technology was adopted for Cavenagh Bridge, giving the bridge the design we see today.[^4]
 
 The bridge was constructed using iron to ensure that it could withstand the high tensile forces of the cables. The iron components were fabricated in Glasgow, Scotland, by P & W MacLellan, the same firm that made the cast iron for Telok Ayer Market. The components were later shipped to Singapore and assembled by Indian convict labour.
 
@@ -52,7 +52,7 @@ Around 30 years ago, Cavenagh Bridge underwent a five-month refurbishment at a c
 
 #### **3. Elgin Bridge**
 
-As mentioned earlier, Presentment Bridge was one of the first bridges erected by the colonial government over the Singapore River. Built in 1823 by Philip Jackson, the Assistant Engineer and Surveyor of Public Lands, to link the northern and southern banks of the river, the wooden bridge sat on timber piles. It was 240 ft (73 m) long and 18 ft (5.5 m) wide, and had an arch in the middle that could be drawn to allow vessels to pass beneath.5
+As mentioned earlier, Presentment Bridge was one of the first bridges erected by the colonial government over the Singapore River. Built in 1823 by Philip Jackson, the Assistant Engineer and Surveyor of Public Lands, to link the northern and southern banks of the river, the wooden bridge sat on timber piles. It was 240 ft (73 m) long and 18 ft (5.5 m) wide, and had an arch in the middle that could be drawn to allow vessels to pass beneath.[^5]
 
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging5.JPG">
 <div style="background-color: white;">A view of Presentment Bridge in the 1830s. Built in 1823, this was one of the earliest bridges that spanned the Singapore River. It was replaced in 1844 with Thomson Bridge. In the background is Government Hill (present-day Fort Canning Hill). <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
@@ -80,11 +80,11 @@ Coleman Bridge, which links Hill Street and New Bridge Road, was named after its
 (and current) bridge in 1990. <i>Courtesy of
 National Archives of Singapore.</i></div>
 
-The first was conceived as early as 1833 as an iron suspension bridge to provide a second passageway – in addition to Presentment Bridge – across the Singapore River. But when the bridge was erected in 1840, the builders again used wood instead of iron. The 20-ft-wide (6 m) bridge was made of wood harvested from the *damar laut* tree, a material considered to be “of the very best description of timber”.6
+The first was conceived as early as 1833 as an iron suspension bridge to provide a second passageway – in addition to Presentment Bridge – across the Singapore River. But when the bridge was erected in 1840, the builders again used wood instead of iron. The 20-ft-wide (6 m) bridge was made of wood harvested from the *damar laut* tree, a material considered to be “of the very best description of timber”.[^6]
 
-Although this first Coleman Bridge was deemed a “perfect [work] of a permanent and substantial order”, it soon succumbed to wear and tear.7 In 1864, it was torn down and replaced with the second Coleman Bridge. Completed in 1865, the second bridge was designed to be “stronger and more serviceable” than the first.
+Although this first Coleman Bridge was deemed a “perfect [work] of a permanent and substantial order”, it soon succumbed to wear and tear.[^7] In 1864, it was torn down and replaced with the second Coleman Bridge. Completed in 1865, the second bridge was designed to be “stronger and more serviceable” than the first.
 
-However, once again, due to budget constraints, a wooden rather than steel structure was erected, much to the chagrin of the public.8 The bridge was also poorly constructed, and on the eve of its opening, it was reported that several parts of the bridge were already “improperly fastened” and its piles “eaten by sea worms”.9 The bridge was closed in 1883 and replaced three years later in 1886 by the third Coleman Bridge.
+However, once again, due to budget constraints, a wooden rather than steel structure was erected, much to the chagrin of the public.[^8] The bridge was also poorly constructed, and on the eve of its opening, it was reported that several parts of the bridge were already “improperly fastened” and its piles “eaten by sea worms”.[^9] The bridge was closed in 1883 and replaced three years later in 1886 by the third Coleman Bridge.
 
 To rectify the shortcomings of its predecessors, the third reincarnation of the bridge was constructed using iron. The entire length of the deck was held up by a continuous girder with a curved lower flange that spanned 76 ft (23 m) at the centre and 38 ft (11.5 m) at both ends. It featured a pedestrian walkway on each side as well as three lanes to accommodate the ever increasing traffic between the northern and southern parts of town. The bridge was adorned with ornamental cast-iron lamp posts and intricate iron balustrades bearing Victorian motifs.
 
@@ -92,7 +92,7 @@ The bridge was built to last, and so it did for a full 100 years before it was r
 
 #### **5. Read Bridge**
 
-Read Bridge was built to link Clarke Quay and Hong Lim Quay, and the one standing today is not the original but the second Read Bridge. Before the first Read Bridge was constructed in 1889, Merchant Bridge occupied the same location – named after the merchant warehouses that once lined both ends of the bridge. The wooden structure, which was completed in 1869, was also referred to as Tan Tock Seng Bridge, after the prominent Chinese merchant and philanthropist, Tan Tock Seng, who owned several shophouses nearby. In 1886, the municipality decided to replace Merchant Bridge with the first Read Bridge after the former was found to be “in a shaky condition”.10
+Read Bridge was built to link Clarke Quay and Hong Lim Quay, and the one standing today is not the original but the second Read Bridge. Before the first Read Bridge was constructed in 1889, Merchant Bridge occupied the same location – named after the merchant warehouses that once lined both ends of the bridge. The wooden structure, which was completed in 1869, was also referred to as Tan Tock Seng Bridge, after the prominent Chinese merchant and philanthropist, Tan Tock Seng, who owned several shophouses nearby. In 1886, the municipality decided to replace Merchant Bridge with the first Read Bridge after the former was found to be “in a shaky condition”.[^10]
 
 The first Read Bridge was an iron girder bridge, with two 77-ft (23 m) spans and a concrete pier in the middle to support the structure. Construction of the bridge began in 1887, and its first cylinder was laid by William Henry Macleod Read, the Scottish merchant and public figure after whom the bridge was named. Although the bridge served the mercantile community well, it turned out to be too low for heavily laden twakow (lighter boats) to pass under during high tide, and had to be replaced eventually.
 
@@ -100,9 +100,9 @@ The first Read Bridge was an iron girder bridge, with two 77-ft (23 m) spans and
 <div style="background-color: white;">(Left) The first Read Bridge was completed in 1889. It had two spans supported by a concrete pier in the middle, as seen in this 1904 photograph. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i><br>
 (Right) The second and current Read Bridge, 2016. It replaced the first Read Bridge in 1931, which in turn had replaced Merchant Bridge, or Tan Tock Seng Bridge, in 1889. Read Bridge is named after the Scottish merchant and public figure, William Henry Macleod Read. <i>Courtesy of National Heritage Board.</i></div>
 
-Completed in 1931, the second Read Bridge was a steel box girder bridge designed by Municipal Engineer K.G.M. Fraser. It was a utilitarian structure simply adorned with only four ornamental street lamps.11 The initial design, however, by Municipal Bridge Engineer T.C. Hood, was envisaged as a tied-arch structure with a towering 120-ft-high (36.5 m) arch similar to that of the current Elgin Bridge. But due to insufficient funds, this design was abandoned.
+Completed in 1931, the second Read Bridge was a steel box girder bridge designed by Municipal Engineer K.G.M. Fraser. It was a utilitarian structure simply adorned with only four ornamental street lamps.[^11] The initial design, however, by Municipal Bridge Engineer T.C. Hood, was envisaged as a tied-arch structure with a towering 120-ft-high (36.5 m) arch similar to that of the current Elgin Bridge. But due to insufficient funds, this design was abandoned.
 
-The steelwork of the second Read Bridge was manufactured by the British firm Motherwell Bridge and Engineering, but as the material became exposed to the harsh tropical climate, it began to corrode not long after its completion. By the end of the decade, the bridge was reported to have suffered “exceptionally heavy corrosion, despite being designed with particular care”.12 In 1991, the bridge underwent major repairs as part of the Singapore River clean-up and was converted into a pedestrian bridge.
+The steelwork of the second Read Bridge was manufactured by the British firm Motherwell Bridge and Engineering, but as the material became exposed to the harsh tropical climate, it began to corrode not long after its completion. By the end of the decade, the bridge was reported to have suffered “exceptionally heavy corrosion, despite being designed with particular care”.[^12] In 1991, the bridge underwent major repairs as part of the Singapore River clean-up and was converted into a pedestrian bridge.
 
 In the early days, Read Bridge was variously known as Malacca Bridge as it was located close to Kampong Melaka, and also Green Bridge due to the colour of its original paintwork. At the time, the area around the bridge was also a hub for the Teochew community, with Teochew labourers gathering on the bridge after work in the evenings to listen to traditional storytellers. In 2008, the bridge was conserved by the URA.
 
@@ -113,7 +113,7 @@ Ord Bridge – which links Clarke Quay and River Valley Road – was constructed
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging9.JPG">
 <div style="background-color: white;">Ord Bridge near Riverside Point at Clarke Quay, 2010. The bridge is named after Harry St George Ord, the first Governor of the Straits Settlements (1867–73). It replaced a footbridge known as Ordnance Bridge, which was built in 1865. <i>Courtesy of William Cho via flickr.</i></div>
 
-Structurally, Ord Bridge is an iron bridge with distinctive X-shape girders. The 135-ft-long (41 m) and 24-ft-wide (7 m) bridge has a structure that resembles standard-gauge railway bridges as it was modelled after similar bridges in India. However, about a month after the bridge was opened, it suffered a mishap, with the weight of the structure causing the northern abutment to slip. This problem was later traced to the way in which the piers had been laid during construction; they were found standing on “tiptoe” on a slopping bedrock rather than embedded firmly into solid foundation.13
+Structurally, Ord Bridge is an iron bridge with distinctive X-shape girders. The 135-ft-long (41 m) and 24-ft-wide (7 m) bridge has a structure that resembles standard-gauge railway bridges as it was modelled after similar bridges in India. However, about a month after the bridge was opened, it suffered a mishap, with the weight of the structure causing the northern abutment to slip. This problem was later traced to the way in which the piers had been laid during construction; they were found standing on “tiptoe” on a slopping bedrock rather than embedded firmly into solid foundation.[^13]
 
 Ord Bridge was also known as Toddy Bridge because of the many toddy (palm liquor) shops operating in the area. The bridge has since come under URA’s conservation programme.
 
@@ -141,7 +141,7 @@ When the first Clemenceau Bridge was constructed in 1940, Bridge No. 1 was demol
 
 #### **9. Kim Seng Bridge**
 
-Kim Seng Bridge is located at the stretch of the Singapore River just before it emerges from a small canal.14 It is named after Tan Kim Seng, a prominent merchant and philanthropist who donated 13,000 Straits dollars to the colonial government in 1857 for the construction of Singapore’s first reservoir and waterworks.
+Kim Seng Bridge is located at the stretch of the Singapore River just before it emerges from a small canal.[^14] It is named after Tan Kim Seng, a prominent merchant and philanthropist who donated 13,000 Straits dollars to the colonial government in 1857 for the construction of Singapore’s first reservoir and waterworks.
 
 Predating the present bridge are two earlier constructions. The first was reportedly built in 1862 before it was replaced by the second bridge in 1890. The second bridge was depicted in early maps of Singapore as being part of Kim Seng Road, which runs from River Valley Road at the northern side of the Singapore River to Havelock Road in the south.
 
