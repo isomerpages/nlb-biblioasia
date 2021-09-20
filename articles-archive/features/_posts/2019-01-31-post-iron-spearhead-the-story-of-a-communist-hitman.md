@@ -127,4 +127,18 @@ Sometime in 1953, Wong had become engaged to Lin Hui Ying (林惠英), a fellow 
 
 In China, Wong married another woman. Although the union resulted in the birth of a son and daughter, it did not last and the couple were divorced in 1980. Wong then began searching for Lin.30 Unfortunately, by the time Wong received news of her in early 2004, she had already passed away the year before on 14 February 2003 at the age of 89. Wong died three years later in a hospital in Fuqing, in the city of Fuzhou.31
 
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron10.jpg" style="width: 100px; height: 100px;">
+<b>Ronnie Tan</b> is a Senior Manager (Research) with the National Library, Singapore, where he conducts a research on public policy as well as historical, regional and library-related issues. His other research interests include Malayan history, especially the Malayan Emergency (1948-60), and military history.
+</div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron11.jpg" style="width: 100px; height: 100px;">
+<b>Goh Yu Mei</b> is a Librarian with the National Library, Singapore, where she manages the Chinese arts and literature collection. She is interested in the relationship between society and literature.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
+
 #### **Notes**
