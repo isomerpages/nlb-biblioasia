@@ -87,3 +87,37 @@ The troupe also staged cabaret shows at the Adelphi Hotel10 – which used to st
 <div style="background-color: white;">An advertisement for The Midnight Frolics starring Joe and Nellie Farren. The troupe performed at the Adelphi Hotel in Singapore in January and February 1928. <i>Image reproduced from The Singapore Free Press and Mercantile Advertiser, 2 February 1928, p. 1.</i></div>
 
 Old newspaper advertisements also provide clues to the evolving nature of entertainment troupes visiting Singapore. Members came and went, some of the troupes took on new names and at various points were joined by other European artistes as well as Russian émigrés and American musicians. To attract new audiences, the troupes frequently added other popular forms of entertainment to their repertoire, such as cabaret shows and tea dances.
+
+In 1929, Joe and Nellie Farren moved to Shanghai, first as exhibition dancers at some of the best hotels in the International Settlement, and then, as part of their own revue. That revue was named Farren’s Follies, with both husband and wife headlining the show. In 1933, Joe returned to Singapore and the Asian entertainment circuit as an impresario with his own troupe comprising mostly Russian émigré dancers recruited in Shanghai.
+
+<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover7.JPG">
+<div style="background-color: white;">Nellie Farren on stage in Shanghai, c.1933. <i>Courtesy of Peter Hibbard.</i></div>
+
+The National Library’s newspaper archives also reveal other, less salubrious, stories that shed light on the lives of these entertainers. In July 1928, at the end of the Midnight Frolics’ tour of Singapore, *The Singapore Free Press* and *Mercantile Advertiser* reported a case brought before the Civil District Court by one Mrs Alexandra Coublistsky (trading as a milliner under the name Madame Galardi) against Mr Syed Mohamed Alsagoff for $238, being the cost of a white georgette frock, a mauve nightdress and a marocain coat.12
+
+The garments had been supplied to a Miss Nellie Farren, “dancer”, on Mr Alsagoff’s account. Alsagoff, however, claimed that he had not given Miss Farren permission to charge her expenses to his account. The hearing was eventually adjourned with no decision taken. Nellie Farren, as we know, was the Russian dancer with the Midnight Frolics; Mrs Coublistsky, one can assume from her name, was possibly an émigré Russian settled in Singapore and running her own business; while Alsagoff was a member of a wealthy and politically influential Arab trading and property-owning family of Hadhrami ancestry.
+
+The milliner’s claim, although incomplete and possibly alluding to liaisons of an indelicate nature, offers some insights into the interactions between visiting foreign entertainers and local residents. Whatever the reasons were, Joe and Nellie Farren decided to leave Singapore in 1928 for Shanghai to forge a new start.
+
+#### **Friday Night Fights**
+
+Throughout the 1930s, boxers from all over the world competed for championship belts and prize money at matches held at Asia’s grandest sporting arenas. Dubbed the “Oriental Circuit”, the fighters were frequently on tour and often fought several times a month. Purses were small but regular, although accusations of match rigging dogged many bouts. As with everywhere else, organised crime was never far from the boxing rings in Asia.
+
+Some of the biggest names in the sport passed through the Oriental Circuit in the 1930s – Young Alde, The Marine Ace, The Japanese Wonder, Clever Henry, the Bronze Bull, Kid Terry, the Siberian Bear, Joe Diamond, Daring Jessy, Kid Andre, Knocker Nokano, Lewko and Young Frisco, among others. But only one boxer ultimately had the guts, gumption and talent needed to make it to the top of the heap. This was Andre Shelaeff, also known as “The Russian Hammer”, a young Russian émigré boy from the Chinese city of Harbin, then known as the “Moscow of the East”.
+
+<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover8.JPG">
+<div style="background-color: white;">In the 1930s, boxers from all over the world competed for championship belts and prize money in the “Oriental Circuit” – with Singapore as one of the hubs. One of the boxers was Andre Shelaeff (right), dubbed “The Russian Hammer”, a young Russian emigre from the Chinese city of Harbin. <i>Courtesy of Paul French.</i></div>
+
+Shelaeff was born in Harbin in 1919, his parents part of the Russian émigré community that had settled in the Chinese city following the Russian Revolution in 1917. Blessed with both good looks and talent, Shelaeff managed to carve out a successful boxing career in Shanghai, becoming the reigning welterweight champion of both China and the Orient in June 1937.
+
+Having won that title, Shelaeff embarked on a tour of Asia to defend it – first to Manila, and then to Singapore, the regional boxing centre. Singapore was then known as the mecca of boxing in Asia, with most of the bouts taking place at Happy World in Geylang, an amusement park featuring everything from dancehalls, jazz cabarets, circus acts, Chinese opera and Malay bangsawan to roller skating rinks, fairground rides and restaurants. On weekends and on public holidays, upwards of 50,000 people would throng Happy World until the wee hours of the morning.
+
+Shelaeff fought several times in Singapore. The archives of *The Straits Times* and *The Singapore Free Press* and *Mercantile Advertiser* carry advertisements for all the major fights and include important details such as the weight, height and match records of the boxers.13 Both newspapers employed boxing correspondents to report on the fights, with predictions of who might win before the matches took place. Needless to say, these reports were much sought after by the legions of gamblers placing wagers on the winners and losers.
+
+These newspaper accounts reported that Happy World was regularly packed to full capacity with an audience comprising local residents and foreigners along with personnel from the Royal Navy and British Army stationed in the city.14 The biggest local boxing promoter in the 1930s was Arthur Beavis, a former British featherweight champion in the 1920s who had settled in Singapore.
+
+Poring through the reports written by Singapore’s boxing correspondents between the 1920s and 40s, we see names of Asian boxers from all over the region, including Japan, Thailand and the Philippines, flocking to the island. Singapore was also a major stop for boxers moving between the East and West to seek their fame and fortune. In 1936, Mohamed Fahmy, an Egyptian champion, fought in Singapore as part of a Far East tour. The Cairo-born fighter subsequently left Singapore for England in search of bigger purses.
+
+Mohamed Noor bin Bahiek, also known as Joe Diamond, was born in Mecca and periodically visited Singapore in the 1930s to fight, gaining a large following among the local Malay community.15 South London’s “round-headed and red-haired” Johnny Curly fought in Singapore in 1928 before leaving for a tour of Australia and New Zealand, and returning to Singapore in 1936.
+
+Heading in the opposite direction in 1938 was the Melbourne-based Australian middleweight champion Al Basten, who visited Singapore en route to England for a tour. The boxing scene in Singapore was so vibrant at one time that fans regularly got to see the best fighters from Asia, the Middle East, Europe and Australia battling it out at Happy World on Friday nights.
