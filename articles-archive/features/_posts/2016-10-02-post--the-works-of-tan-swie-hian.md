@@ -6,7 +6,7 @@ layout: post
 ---
 #### Tan Swie Hian, whose paintings have fetched record prices, was in fact better known for his literary prowess when he first emerged in the arts scene. **Jessie Yak** highlights some of his poems, short stories and fables.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/tan-swie-han/The-Squirrel-Dance.jpg">陈瑞献的寓言《护舞》描写一只松鼠为爱护落叶，仔细地在落叶之间跳跃以避免踩到它们，借此强调对万物的关怀与慈悲; 他也以此题材，绘就了上方的胶彩画《松鼠舞》。</div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-3/tan-swie-han/The-Squirrel-Dance.jpg">陈瑞献的寓言《护舞》描写一只松鼠为爱护落叶，仔细地在落叶之间跳跃以避免踩到它们，借此强调对万物的关怀与慈悲; 他也以此题材，绘就了上方的胶彩画《松鼠舞》。</div>
 
 提起享负盛名的新加坡多媒体艺术家陈瑞献，跃入大家脑海的应该大多为他一幅幅色彩丰富瑰丽的画作、构思奇巧或趣致的雕塑、苍劲豪迈的书法或刻字；他的艺术作品也享誉海外，画作在国际拍卖会上屡次刷新成交价；耀眼的艺术成就使他荣获多项本地及国际的奖项与殊荣。但事实上，他刚开始涉足艺术领域时，是以文艺创作崭露头角的。
 
