@@ -225,11 +225,11 @@ Despite the presence of servants, the setting up and running of a home in the co
 
 [^37]:Savage-Bailey, K. (1935, August 1). An old resident on Malayan cookery. The Straits Times, p. 22. Retrieved from NewspaperSG. 
 
-[^38]:The Straits Times, 19 Sep 1935, p. 18.
+[^38]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350919-1.2.163.aspx)*, 19 Sep 1935, p. 18.
 
-[^39]:The Straits Times, 26 Oct 1929, p. 15.
+[^39]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291026-1.2.115.3.aspx)*, 26 Oct 1929, p. 15.
 
-[^40]:The Straits Times, 19 Sep 1935, p. 18. 
+[^40]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350919-1.2.163.aspx)*, 19 Sep 1935, p. 18. 
 
 [^41]:[The little things of life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060713-1.2.63.aspx). (1906, July 13). *The Straits Times*, p. 8. Retrieved from NewspaperSG. 
 
