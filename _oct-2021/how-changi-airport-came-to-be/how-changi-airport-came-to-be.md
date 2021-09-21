@@ -5,6 +5,9 @@ third_nav_title: How Changi Airport Came To Be
 ---
 #### As Singapore’s Changi Airport marks its 40th anniversary in 2021, **Rebecca Tan** uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">Singapore Airlines and Scoot planes at Changi Airport. In the background is the iconic control tower. Photo by Shawn Ang, 16 March 2020. <i>Retrieved from Unsplash.</i></div>
+
 On 1 July 1981 at 7.10 am, SQ 101 made history when it became the first commercial flight to land at the newly opened Changi Airport. The plane arrived from Kuala Lumpur’s Subang Airport and carried 140 passengers, some of whom had especially travelled to the Malaysian capital just so that they could be on this flight. 
 
 To mark the occasion, all passengers received certificates and were treated to a lion dance and a pipe band performance upon arrival. Less than an hour later, 
