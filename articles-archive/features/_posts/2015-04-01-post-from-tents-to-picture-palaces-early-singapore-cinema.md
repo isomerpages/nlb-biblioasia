@@ -126,9 +126,9 @@ The 1933 film <i>Samarang</i> (see text box overleaf), styled as a pseudo-docume
 
 |<i>Samarang</i> was screened in the US in 1933 to rave reviews. The film’s popularity might have been due to its novelty but also possibly because Sai-Yu is topless for most of the second half of the film. It was first screened at the Alhambra in September 1933 and later at the Marlborough in 1934, where it was hailed as Singapore’s first talkie[^42] – although reviewers noted that it was “virtually a silent film except for a synchronized music score and occasional choral singing. The action (was) explained by subtitles, and although there (were) melodramatic episodes, they (were) for the most part set forth with… little skill.”[^43]|
 
-|<img src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_re.jpg">Poster of Samarang. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. *Courtesy of Wong Han Min.*|
+|<img  src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_re.jpg">Poster of Samarang. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. <i>Courtesy of Wong Han Min.</i>|
 
-|<img src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of Leila Majnun (1934). © Singapore Press Holdings. All rights reserved. *The Straits Times.*|
+|<img  src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of Leila Majnun (1934). © Singapore Press Holdings. All rights reserved. <i>The Straits Times.</i>|
 	
 
 |**Xin Ke (新客, The New Immigrant)**|
