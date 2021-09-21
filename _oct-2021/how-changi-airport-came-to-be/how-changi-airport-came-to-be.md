@@ -15,6 +15,9 @@ SQ 192 headed for Penang, becoming the first flight to depart from Changi.[^1]
 
 In the four decades since, Changi Airport has grown from strength to strength; it is regularly voted one of the top airports in the world and has helped turn Singapore into a major aviation hub and international gateway. Today, it is hard to imagine Singapore without Changi Airport and its iconic control tower. However, what many people do not know is the particular set of circumstances that led to its existence.
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">Paya Lebar Airport, 1960s. The airport only had a single runway. Seen on the tarmac is a plane belonging to the Malaysia-Singapore Airlines which existed from 1966 to 1972. The predecessor of Singapore Airlines. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
+
 #### **Changi Versus Paya Lebar**
 
 Before Changi Airport opened in 1981, commercial flights landed in Paya Lebar Airport, which had begun operations in 1955. However, within two decades, Paya Lebar’s shortcomings became obvious.
