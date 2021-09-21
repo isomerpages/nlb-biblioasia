@@ -6,8 +6,11 @@ layout: post
 ---
 #### “GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015. **Tan Huism** explains why you should not miss this event.
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg)
-<div style="background-color: white;">This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves. <i>National Library of Singapore Collection.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg">
+This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves. <i>National Library of Singapore Collection.</i>
+</div>
 
 "You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel *The Mapmaker's War.*[^1]
 
