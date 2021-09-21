@@ -27,3 +27,13 @@ It was clear that such security flareups were beyond the scope of a regular poli
 <div style="background-color: white;"><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/02-volunteercorps.jpg">William J. Butterworth, Governor of the Straits Settlements (1843–55), was the Colonel-in-charge of the Singapore Volunteer Rifle Corps in when it was formed 1854. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 <div style="background-color: white;"><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/02a-volunteercorps.jpg">Wealthy British merchant and Beach Road resident William H. Read was one of the first volunteers of the Singapore Volunteer Rifle Corps. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+
+Butterworth assumed leadership as the Colonel-in-charge and Captain Ronald MacPherson of the Madras Artillery was appointed as the Commandant. The SVRC was meant to bolster the resident police force in dealing with large-scale violence and disorder, not replace it. The SVRC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over 100 years.
+
+In 1857 and 1871, the SVRC was again placed on high alert as full-scale riots by the Chinese community erupted. All this time, SVRC members had kept themselves in top form by engaging in weapon training, drill practices and field camps. In addition, the SVRC assumed fire-fighting and ceremonial duties such as taking part in parades to mark important occasions and escorting dignitaries during their visits to Singapore.
+
+#### **The SVC: 1887 to 1949**
+
+By 1887, however, the SVRC had dwindled to about half its original size, and in 1888, it was disbanded and re-organised as the Singapore Voluntary Artillery (SVA). All this while, the voluntary corps was largely European in composition. However, by 1894, there were enough Eurasians, bolstered by volunteers like J. B. Westerhout, Edgar Galistan and R. D. de Silva, to form the Singapore Voluntary Infantry No. 1 Company (Eurasian). The Straits Chinese, or Peranakans, felt there was a need to stake a claim too in the SVC, and in answer to their petitions, the Singapore Voluntary Infantry No. 2 Company (Chinese) was founded in 1901.
+
+In 1901, these three sub-units, along with the Singapore Voluntary Rifles and Singapore Voluntary Engineers, were amalgamated under the Singapore Volunteer Corps (SVC) banner. One of the SVC’s biggest roles in the following decade was the suppression of a revolt in 1915 – later known as the Singapore Mutiny, or the Sepoy Mutiny (see text box below) – by some 800 soldiers of the Indian Army against their British masters in Singapore.
