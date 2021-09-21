@@ -36,7 +36,7 @@ Art education also came by way of books. Two landmark publications – one publi
 
 The second publication is Abdul Ghani Abdul Hamid’s *Sa-kilas Pandang Seni Lukis dan Perkembangannya* (*A Glimpse of the Arts and its Development*). Chapters in the book include discussions on Eastern versus Western art as well as the development of the arts among the Malay community in Singapore and the region. Advertisements that appeared in *Berita Harian* in 1961 and 1966 marketed it as the first Malay-language book to cover an in-depth study of the art scene in Singapore.[^16]
 
-Here is a glimpse of exhibition catalogues and collaterals – published between the 1960s and 90s – from the collection of the National Library.
+Here is a glimpse of exhibition catalogues and collaterals – published between the 1960s and 90s – from the collection of the National Library.<br>
 
 |<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections2.JPG"><b>Lukisan Anjuran Seksi Seni Lukis Lembaga Tetap Kongres (1961)</b><br> The souvenir publication of reportedly the largest-scale exhibition featuring Malay artists in Singapore held in April 1961. The event was organised by Lembaga Tetap Kongres Bahasa dan Kebudayaan Melayu (LTK; Permanent Board of Congress of Malay Language and Culture). The back cover features a poem by Abdul Ghani Abdul Hamid titled “Suara!” (Voice!).
 
