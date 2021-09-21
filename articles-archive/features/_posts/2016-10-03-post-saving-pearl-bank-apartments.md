@@ -110,7 +110,7 @@ The voluntary conservation plan for Pearl Bank provides a platform to facilitate
 
 [^9]:Tan, C. S. (1972, February 1). [Neck-to-neck race skywards…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720201-1.2.60.1.aspx) *New Nation*, p. 8. Retrieved from NewspaperSG.
 
-[^10]:URA offers sites for sale to developers. (1974, April 2). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^10]:[URA offers sites for sale to developers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740402-1.2.47). (1974, April 2). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
 [^11]:Goh, E. K., & Ong, L. K. (1976, November 5). [Property companies facing an uncertain future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19761105-1.2.21.3.aspx). *The Business Times*, p. 4. Retrieved from NewspaperSG.
 
@@ -118,7 +118,7 @@ The voluntary conservation plan for Pearl Bank provides a platform to facilitate
 
 [^13]:Fatti, M. (2016, March 29). *En bloc sales – how does it work?* Retrieved from 99.co. website.
 
-[^14]:Whang, R. (2015, May 30). URA sees merit in conservation plan for Pearl Bank. *The Straits Times*; Lim, C. (2011, March 15). 3rd collective sale bid by Pearl Bank. *The Straits Times*. Retrieved from Factiva.
+[^14]:Wang, R. (2015, August 15). [URA sees merit in conservation plan for Pearl Bank](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150815-1.2.160). *The Straits Times*, p. 24; Lim, C. (2011, March 15). [3rd collective sale bid by Pearl Bank](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110315-1.2.5.7). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 
  [^15]:Lee, P. (2014, May 2). Pearl Bank still special after all these years. *The Straits Times*. Retrieved from Factiva; Poole, E. (2010, March 15). *Interview with Ed Poole.* Retrieved from Facebook.
  
