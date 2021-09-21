@@ -83,7 +83,7 @@ At the same time, one would be wrong to assume that Tan Swie Hian’s art belong
 
 Tan loves animals, especially cats, and a Chinese ink on paper scroll titled “Cat’s Cradle” is testament to this. In 1984, the artist’s daughter kept a pair of kittens as pets. From observing the kittens’ lively movements when they were playing or fighting, Tan executed the painting as a study of the rhythm of moving lines. The painting, with seven pairs of cats in various poses of action, is so vividly captured that it even incurred the jealousy of another pet cat of his daughter’s – she kept glaring and mewing at the painting!
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-3/baring-mind-and-soul/07-baring-mind-soul.jpg">Tan Swie Hian’s sketches and notes on the painting. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore. </i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-3/baring-mind-and-soul/07a-baring-mind-soul.jpg">Tan Swie Hian’s sketches and notes on the painting. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore. </i></div>
 
 <div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-3/baring-mind-and-soul/08-baring-mind-soul.jpg">“Cat’s Cradle”. (1984). Chinese ink on rice paper, 184 cm x 87 cm. <i>Collection of Tan Chiao Joan.</i></div>
 
