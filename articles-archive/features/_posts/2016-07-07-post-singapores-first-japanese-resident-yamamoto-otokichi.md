@@ -86,33 +86,33 @@ The author would like to thank Mr Leong Foke Meng and Mr Akira Doi for reviewing
 
 #### **References**
 
-Akira, D. (2007). Pioneers of Japanese bible translation: The application of the dynamic equivalent method in Japan [Masters of Arts in Japanese thesis, Massey University, New Zealand]. Retrieved from Massey Research website.
+Akira, D. (2007). *Pioneers of Japanese bible translation: The application of the dynamic equivalent method in Japan* [Masters of Arts in Japanese thesis, Massey University, New Zealand]. Retrieved from Massey Research website.
 
-Beasley, W.G. (1995). Japan encounters the barbarian. New Haven: Yale University Press. (Call no.: RUR 327.52 BEA)
+Beasley, W.G. (1995). *[Japan encounters the barbarian](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7537501)*. New Haven: Yale University Press. (Call no.: RUR 327.52 BEA)
 
-Cobbing, A. (1998). The Japanese discovery of Victorian Britain: Early travel encounters in the Far West. Richmond, Surrey: Japan Library. (Call no.: RUR 914.204 COB)
+Cobbing, A. (1998). *[The Japanese discovery of Victorian Britain: Early travel encounters in the Far West](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10293595)*. Richmond, Surrey: Japan Library. (Call no.: RUR 914.204 COB)
 
-Kohl, S.W. (1982, January). Strangers in a strange land: Japanese castaways and the opening of Japan. The Pacific Northwest Quarterly, 73 (1), 20–28. Retrieved from JSTOR via NLB’s eResources website.
+Kohl, S.W. (1982, January). Strangers in a strange land: Japanese castaways and the opening of Japan. *The Pacific Northwest Quarterly, 73* (1), 20–28. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Kwan, W.K. (2005, February 17). Japanese sailor going home after 173 years. The Straits Times, p. 1. Retrieved from NewspaperSG.
+Kwan, W.K. (2005, February 17). [Japanese sailor going home after 173 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050217-1.2.5.1.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Leong, F.M. (2005). The career of Otokichi. Singapore: Heritage Committee, Japanese Association Singapore. (Call no. : RSING 959.5703092 LEO)
+Leong, F.M. (2005). *[The career of Otokichi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14608894)*. Singapore: Heritage Committee, Japanese Association Singapore. (Call no. : RSING 959.5703092 LEO)
 
-Leong, F.M. (2012). Later career of Otokichi. Singapore: Heritage Committee, Japanese Association Singapore. (Call no. : RSING 959.5703092 LEO)
+Leong, F.M. (2012). *[Later career of Otokichi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14608894)*. Singapore: Heritage Committee, Japanese Association Singapore. (Call no. : RSING 959.5703092 LEO)
 
-Lim, S.B. (Ed.). (2004). Images of Singapore: From the Japanese perspective (1868–1941). Singapore: The Japanese Cultural Society. (Call no. : RSING 959.57 IMA)
+Lim, S.B. (Ed.). (2004). *[Images of Singapore: From the Japanese perspective (1868–1941)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12410034)*. Singapore: The Japanese Cultural Society. (Call no. : RSING 959.57 IMA)
 
 Mockford, J. (1991). The open gate of Fort Vancouver: Japan-America relations in early Pacific Northwest History. Clark County History, 32.
 
-National Library Board. (2016). Yamamoto Otokichi written by Tan, Bonny. Retrieved from Singapore Infopedia website.
+National Library Board. (2016). *[Yamamoto Otokichi](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1340_2008-03-05.html)* written by Tan, Bonny. Retrieved from Singapore Infopedia website.
 
-Notes of the day. (1937, May 17). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[Notes of the day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370517-1.2.55.aspx). (1937, May 17). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-Plummer, K. (1991). The shogun’s reluctant ambassadors: Japanese sea drifters in the North Pacific. Oregon: The Oregon Historical Society. (Not available in NLB holdings)
+Plummer, K. (1991). *The shogun’s reluctant ambassadors: Japanese sea drifters in the North Pacific*. Oregon: The Oregon Historical Society. (Not available in NLB holdings)
 
-Prewar Japanese community in Singapore: Picture and record [Senzen Shingapōru no Nihonjin shakai: Shashin to kiroku]. (2004). Singapore: Japanese Association. (Call no. : RSING 305.895605957 PRE)
+*[Prewar Japanese community in Singapore: Picture and record](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13048775) [Senzen Shingapōru no Nihonjin shakai: Shashin to kiroku]*. (2004). Singapore: Japanese Association. (Call no. : RSING 305.895605957 PRE)
 
-Tei, A.G., & Igarashi, Y. (2010). True life adventures of Otokichi (1817–1867). Retrieved from JM Ottoson website.
+Tei, A.G., & Igarashi, Y. (2010). *True life adventures of Otokichi(1817–1867)* . Retrieved from JM Ottoson website.
 
 #### **Notes**
 
