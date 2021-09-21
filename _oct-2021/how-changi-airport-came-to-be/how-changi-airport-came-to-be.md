@@ -91,7 +91,7 @@ In 2008, Changi Airport Group was formed as a result of the corporatisation of C
 
 #### **Awards, Accolades and the Future**
 
-Over the years, Changi has developed an international reputation. In 1988, just seven years after it opened, Business Traveller UK magazine rated Changi Airport as the world’s best airport; it had been number two in the previous four years.[^27] The following year, airport officials from 16 countries visited Changi Airport to attend a seven-week airport management course, learning from Changi’s experiences.[^28]
+Over the years, Changi has developed an international reputation. In 1988, just seven years after it opened, *Business Traveller UK* magazine rated Changi Airport as the world’s best airport; it had been number two in the previous four years.[^27] The following year, airport officials from 16 countries visited Changi Airport to attend a seven-week airport management course, learning from Changi’s experiences.[^28]
 
 Changi has since gone on to win many other such awards: it clinched the “Best Airport in the World” award from Business Traveller US a total of 27 times between 1991 and 2020.[^29]
 
