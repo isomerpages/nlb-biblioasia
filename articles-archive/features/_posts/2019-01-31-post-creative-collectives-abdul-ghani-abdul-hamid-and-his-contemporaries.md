@@ -71,3 +71,21 @@ Catalogued by subject matter and time period, the collection provides rich insig
 National Library Board. (2014). Abdul Ghani Abdul Hamid written by Nureza Ahmad & Shah Alam bin Mohd Zaini. Retrieved from Singapore Infopedia.
 
 Syed Muhd Hafiz. (2012). Semangat APAD: The pioneering generation. In. Our pioneer artists: Malay visual art practices from post-war period (p. 7). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RSING 759.95957 OUR)
+
+#### **Notes**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
