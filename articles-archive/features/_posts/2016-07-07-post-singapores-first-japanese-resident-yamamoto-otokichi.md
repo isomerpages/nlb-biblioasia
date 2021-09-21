@@ -63,7 +63,7 @@ Although most biographies of Yamamoto Otokichi note that he was a resident in Si
 
 By the late 1850s, Otokichi had decided to leave Shanghai, then in the throes of the Taiping Rebellion, for Singapore. Leong carefully traces paperwork which shows that Otokichi had resided initially on Queen Street before moving into one of the largest houses in Orchard Road, nestled in the midst of a vast nutmeg and clove plantation. In 1862, Otokichi’s four-year-old daughter, Emily Louisa Ottosan, by his first wife,[^9] died prematurely and was buried in Fort Canning Cemetery.
 
-Otokichi eventually died of tuberculosis at Arthur’s Seat, a sanitarium in the Siglap area on 18 January 1867,10 at age 50, and his remains were buried at the Bukit Timah Christian Cemetery. His wife Louisa, who bore him two daughters and a son, subsequently remarried and took on the name Belder.
+Otokichi eventually died of tuberculosis at Arthur’s Seat, a sanitarium in the Siglap area on 18 January 1867,[^10] at age 50, and his remains were buried at the Bukit Timah Christian Cemetery. His wife Louisa, who bore him two daughters and a son, subsequently remarried and took on the name Belder.
 
 <div style="background-color: white;"><img src="/images/Vol-12-issue-2/yamamoto-otokichi/06-yamamoto-otokichi.jpg">The memorial to Yamamoto Otokichi, containing some of his cremated remains, at the Japanese Cemetery Park in Singapore. <i>Photo by Aldwin Teo. Courtesy of Wikimedia Commons.</i></div>
 
