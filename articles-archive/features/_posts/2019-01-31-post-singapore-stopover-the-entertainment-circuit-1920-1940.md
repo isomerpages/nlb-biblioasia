@@ -6,7 +6,7 @@ layout: post
 ---
 #### The city was a major pit stop for visiting entertainers and sportsmen in the early 20th century, according to the writer **Paul French**.
 
-<img style="width: 650px; height: 360px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover1.JPG">
+<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover1.JPG">
 <div style="background-color: white;">Farren’s Follies performing in Shanghai, 1934. The revue was formed by husband and wife, Joe and Nellie Farren. <i>Courtesy of Vera Loewer.</i></div>
 
 Most people are familiar with the idea of Singapore as a major transportation and shipping hub. There is no lack of historical documents that point to its role as an entrepôt that facilitated trade between the East and West for centuries past.
@@ -34,7 +34,7 @@ Here are three examples I came across during the course of my research at the Na
 
 On 5 February 1923, Singapore’s Victoria Theatre played host to the glamorous Globe Trotters, a performance troupe comprising English and Australian artistes. The Globe Trotters was described in *The Straits Times* as “The Most Up-to-Date Musical Company Touring the East”.[^4] The troupe was in Singapore for a week, performing nightly at 9.30 pm and received rave reviews from the local press. Among the cast was a young Australian woman named Florence Broadhurst, who performed under the stage name “Miss Bobby”.
 
-<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover3.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover3.JPG">
 <div style="background-color: white;">Florence Broadhurst, who performed under the stage name “Miss Bobby”, was among the cast of The Globe Trotters troupe that staged shows in Singapore in February 1923. She established The Florence Broadhurst Academy and Incorporated School of Arts in Shanghai in 1926, offering classes in violin, pianoforte, voice production, banjolele, dance and even journalism. <i>Courtesy of The Powerhouse, Sydney.</i></div>
 
 After her Singapore engagement, Broadhurst continued to tour Asia with The Globe Trotters for several years, with appearances across Malaya, India and the Dutch East Indies (Indonesia) as well as Hong Kong, Manila and various Chinese and Japanese cities, among other places.
@@ -53,7 +53,7 @@ Broadhurst subsequently appeared at wartime fundraisers across Australia with an
 
 The first Australian entertainment troupes actually started touring Asia before World War I. Norton had successfully toured the vaudeville circuit in the Far East with the Bandmann Opera Company (more a theatrical company than strictly opera), which was made up of Australian acts but based at the Empire Theatre in Calcutta, India. Norton had returned home to lend his skills to the war effort but after the war, he realised that there was money to be made in taking variety and entertainment shows to the European colonies in Asia. And thus, The Globe Trotters and others of its kind were born.
 
-<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover4.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover4.JPG">
 <div style="background-color: white;">The Globe Trotters was advertised as “The Most Up-to-Date Musical Company Touring the East”. The troupe performed at the Victoria Theatre in Singapore in February 1923. <i>Image reproduced from The Straits Times, 3 February 1923, p. 7.</i></div>
 
 The Globe Trotters left Brisbane in December 1922, sailing for Batavia (Jakarta) in the Dutch East Indies first and then on to Singapore in February 1923, where the Victoria Theatre was chosen as the venue for its performances. Advertisements taken out in *The Straits Times* provide us with the names of other members of The Globe Trotters – namely Leilla Forbes, J. Wallingford Tate, Charles Holt, Betty Norton and Ralph Sawyer.[^6]
@@ -70,7 +70,7 @@ These foreign troupes were competing with shows put on by newly formed touring c
 
 In the 1930s and early 40s, Joe Farren would become the king of Shanghai’s nightlife scene. This was a time when the city was at the height of its fame, earning the sobriquet “Paris of the East”. Dubbed “Dapper Joe” by the local newspapers, Farren had choreographed chorus lines at several of the city’s largest and most famous cabaret venues – the Canidrome for instance in Shanghai’s French Concession and The Paramount Ballroom in the International Settlement, among others.
 
-<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover5.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover5.JPG">
 <div style="background-color: white;">Shanghai’s iconic Bund area before World War II. In its heyday between the 1930s and 40s, Shanghai was a cosmopolitan city, thanks to the presence of many foreign settlements. The city earned itself the sobriquet “Paris of the East” and attracted entertainers from all over the Western world. <i>Kennie Ting Collection.</i></div>
 
 With his wife and dance partner Nellie, Joe had started out in the late 1920s as an exhibition dancer demonstrating waltzes and foxtrots in a city that was in the throes of a “dance madness”.[^8] But exactly how did Joe and Nellie Farren end up in Shanghai?
@@ -83,14 +83,14 @@ In January 1928, Joe Farren began organising his own revues in Singapore with a 
 
 The troupe also staged cabaret shows at the Adelphi Hotel[^10] – which used to stand on the corner of Coleman Street and North Bridge Road – in January and February 1928, this time calling themselves The Midnight Frolics. At the Adelphi they offered a nightly “Cabaret Dinner and Dance” for $3.50.[^11]
 
-<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover6.JPG">
+<img style="width: 600px; height: 360px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover6.JPG">
 <div style="background-color: white;">An advertisement for The Midnight Frolics starring Joe and Nellie Farren. The troupe performed at the Adelphi Hotel in Singapore in January and February 1928. <i>Image reproduced from The Singapore Free Press and Mercantile Advertiser, 2 February 1928, p. 1.</i></div>
 
 Old newspaper advertisements also provide clues to the evolving nature of entertainment troupes visiting Singapore. Members came and went, some of the troupes took on new names and at various points were joined by other European artistes as well as Russian émigrés and American musicians. To attract new audiences, the troupes frequently added other popular forms of entertainment to their repertoire, such as cabaret shows and tea dances.
 
 In 1929, Joe and Nellie Farren moved to Shanghai, first as exhibition dancers at some of the best hotels in the International Settlement, and then, as part of their own revue. That revue was named Farren’s Follies, with both husband and wife headlining the show. In 1933, Joe returned to Singapore and the Asian entertainment circuit as an impresario with his own troupe comprising mostly Russian émigré dancers recruited in Shanghai.
 
-<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover7.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover7.JPG">
 <div style="background-color: white;">Nellie Farren on stage in Shanghai, c.1933. <i>Courtesy of Peter Hibbard.</i></div>
 
 The National Library’s newspaper archives also reveal other, less salubrious, stories that shed light on the lives of these entertainers. In July 1928, at the end of the Midnight Frolics’ tour of Singapore, *The Singapore Free Press* and *Mercantile Advertiser* reported a case brought before the Civil District Court by one Mrs Alexandra Coublistsky (trading as a milliner under the name Madame Galardi) against Mr Syed Mohamed Alsagoff for $238, being the cost of a white georgette frock, a mauve nightdress and a marocain coat.[^12]
@@ -105,14 +105,14 @@ Throughout the 1930s, boxers from all over the world competed for championship b
 
 Some of the biggest names in the sport passed through the Oriental Circuit in the 1930s – Young Alde, The Marine Ace, The Japanese Wonder, Clever Henry, the Bronze Bull, Kid Terry, the Siberian Bear, Joe Diamond, Daring Jessy, Kid Andre, Knocker Nokano, Lewko and Young Frisco, among others. But only one boxer ultimately had the guts, gumption and talent needed to make it to the top of the heap. This was Andre Shelaeff, also known as “The Russian Hammer”, a young Russian émigré boy from the Chinese city of Harbin, then known as the “Moscow of the East”.
 
-<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover8.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover8.JPG">
 <div style="background-color: white;">In the 1930s, boxers from all over the world competed for championship belts and prize money in the “Oriental Circuit” – with Singapore as one of the hubs. One of the boxers was Andre Shelaeff (right), dubbed “The Russian Hammer”, a young Russian emigre from the Chinese city of Harbin. <i>Courtesy of Paul French.</i></div>
 
 Shelaeff was born in Harbin in 1919, his parents part of the Russian émigré community that had settled in the Chinese city following the Russian Revolution in 1917. Blessed with both good looks and talent, Shelaeff managed to carve out a successful boxing career in Shanghai, becoming the reigning welterweight champion of both China and the Orient in June 1937.
 
 Having won that title, Shelaeff embarked on a tour of Asia to defend it – first to Manila, and then to Singapore, the regional boxing centre. Singapore was then known as the mecca of boxing in Asia, with most of the bouts taking place at Happy World in Geylang, an amusement park featuring everything from dancehalls, jazz cabarets, circus acts, Chinese opera and Malay bangsawan to roller skating rinks, fairground rides and restaurants. On weekends and on public holidays, upwards of 50,000 people would throng Happy World until the wee hours of the morning.
 
-<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover9.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover9.JPG">
 <div style="background-color: white;">An advertising flyer publicising a series of boxing matches held at the Canidrome Gardens in Shanghai’s French Concession on 25 June 1937. The main match was between Andre Shelaeff and Billy Addis. <i>Image reproduced from North China Daily News, 21 June 1937, p.32.</i></div>
 
 Shelaeff fought several times in Singapore. The archives of *The Straits Times* and *The Singapore Free Press* and *Mercantile Advertiser* carry advertisements for all the major fights and include important details such as the weight, height and match records of the boxers.[^13] Both newspapers employed boxing correspondents to report on the fights, with predictions of who might win before the matches took place. Needless to say, these reports were much sought after by the legions of gamblers placing wagers on the winners and losers.
