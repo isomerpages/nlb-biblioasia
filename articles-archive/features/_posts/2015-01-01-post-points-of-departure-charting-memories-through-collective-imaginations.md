@@ -56,9 +56,7 @@ Through this collaboration, we hope to create a meaningful connection with and b
 <br/>
 <img src="/images/vol-10-issue-4/pointsofdeparture/The_Harbour.jpg">
 “The Harbour” from “Temporality” (2013). The junk is constructed from a number of images from black-and-white archival photographs dating from the mid-1970s, which were taken at The New Harbour (present-day Keppel Harbour). It was inspired by Margaret Leong's poem “The Junk”. © <i>Juria Toramae. All rights reserved.</i> 
-</div>
-
-<br/>
+</div></br>
 
 |<i>“Points of Departure” – an exhibition of photographs, stones and installation art works – brings together the forgotten and the unfamiliar in the hope of making the past less foreign. The exhibition will take place between April and June 2015 at National Library Building and is part of Singapore’s 50th National Day celebrations. Find out more at:  http://www.pointsofdeparture.sg or https://www.facebook.com/PointsOfDepartureSG</i>|
 
