@@ -12,7 +12,7 @@ Malay Police Constable no. 623 was on duty at Anson Road on the afternoon of 21 
 
 The next morning, Ah Kwi was brought before the magistrate and charged with using criminal force on his employer. The furious Mrs Muddit alleged that the cook had defied her orders and wanted to do as he pleased with the dinner menu (how dare he!). Indignant at being rebuked, Ah Kwi brandished a knife at his mistress before striking her on the face with a piece of wood.[^1]
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/dont-mess-with-the-cook/02-dontmesswiththecook.jpg">It was not unusual for European households to have more than a dozen servants: a houseboy (“Boy”), a syce or chauffeur, a gardener (kebun), a washerman (dhoby) and a nanny (amah). Most of these positions  were held by men, except the amah. <i>Photo by G. R. Lambert & Co. Fotoalbum Singapur (1890). All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-2/dont-mess-with-the-cook/02-dontmesswiththecook.jpg">It was not unusual for European households to have more than a dozen servants: a houseboy (“Boy”), a syce or chauffeur, a gardener (kebun), a washerman (dhoby) and a nanny (amah). Most of these positions  were held by men, except the amah. <i>Photo by G. R. Lambert & Co. Fotoalbum Singapur (1890). All rights reserved, National Library Board, Singapore.</i></div>
 
 Mrs Muddit was far from alone in her troubles for the management of domestic servants was an everyday ordeal for the European wife, or memsahib[^2] (often truncated as mem), in Singapore and Malaya.
 
@@ -83,7 +83,7 @@ Another dreaded aspect was the prevalence of venereal diseases among Chinese mal
 
 |More than a means of self-instruction, the cookbook was used as a manual to train the servants and was instrumental to the mem’s efficient management of the household. This was why The “Mems” Own Cookery Book by Mrs W. E. Kinsey was regarded as a godsend when it was published in 1920. It consisted of “420 tried and economical recipes” with additional information on the market prices of ingredients, the total cost of each dish and the number of servings, thereby helping the mistress to “combat the pernicious policy of the native cooks who not only overcharge for local commodities, but generally will not produce them, or attempt to raise non-existent difficulties”.[^35]|
 
-|<img src="/images/Vol-12-issue-2/dont-mess-with-the-cook/05-dontmesswiththecook.jpg">Title page and extracts from <i>The “Mems“ Own Cookery Book. All rights reserved, National Library Board, Singapore.</i>|
+|<img style="width:400px" src="/images/Vol-12-issue-2/dont-mess-with-the-cook/05-dontmesswiththecook.jpg">Title page and extracts from <i>The “Mems“ Own Cookery Book. All rights reserved, National Library Board, Singapore.</i><br>|
 
 |A review of the book in The Straits Times declared: “With this guide at her elbow… [the new mem] can either prepare herself or instruct “cookie” in a host of dishes which should do a great deal to remove the charge of monotony which is sometimes levelled at food in Malaya”.[^36]|
 
