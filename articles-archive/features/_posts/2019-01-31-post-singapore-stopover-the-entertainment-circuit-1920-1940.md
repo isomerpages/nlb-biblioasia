@@ -55,3 +55,35 @@ The first Australian entertainment troupes actually started touring Asia before 
 
 <img src="/images/Vol-14-issue-4/singapore-stopover/Stopover4.JPG">
 <div style="background-color: white;">The Globe Trotters was advertised as “The Most Up-to-Date Musical Company Touring the East”. The troupe performed at the Victoria Theatre in Singapore in February 1923. <i>Image reproduced from The Straits Times, 3 February 1923, p. 7.</i></div>
+
+The Globe Trotters left Brisbane in December 1922, sailing for Batavia (Jakarta) in the Dutch East Indies first and then on to Singapore in February 1923, where the Victoria Theatre was chosen as the venue for its performances. Advertisements taken out in *The Straits Times* provide us with the names of other members of The Globe Trotters – namely Leilla Forbes, J. Wallingford Tate, Charles Holt, Betty Norton and Ralph Sawyer.6
+
+As troupes often gained and lost various members during their travels, it is possible to track their movement through the venues they played at and the names of the artistes mentioned in advertisements, flyers and programme booklets. We know that The Globe Trotters featured a couple of comedians, a duo of female impersonators, a pianist and Florence Broadhurst as the troupe’s main singing act. The members of the troupe were involved in a bit of everything: sketches, singing, comedy routines, Pierrot dances (based on a character in pantomime) – in short “putting over a bit of patter”, to borrow a term from showbiz, keeping audiences sufficiently entertained throughout the show.
+
+Singapore was a major stop for visiting theatrical and entertainment troupes from Australia during the period between the two world wars. After Singapore, The Globe Trotters went on to perform in several towns across the border in Malaya, including Kuala Lumpur and Georgetown in Penang, Siam (Thailand) and India (specifically Calcutta and Bombay). The Globe Trotters continued their tour into 1924 with appearances in Hong Kong, Japan and various Chinese cities, including Tientsin (Tianjin), Peking (Beijing) and Shanghai.
+
+Interestingly, while the reviews of The Globe Trotters in Singapore were generally favourable – with *The Straits Times* proclaiming Broadhurst’s singing as “delightful”, fellow cast member Leilla Forbes’ return to vaudeville as “heralded with success” and praising the troupe as giving yet “another very excellent show” – their performances did not sell out every night.7 The simple reason was that the post-World War I entertainment scene in Singapore and in other major cities in Asia was already saturated with touring companies from Europe, America and Australia.
+
+These foreign troupes were competing with shows put on by newly formed touring companies based in Asian cities such as Shanghai; such troupes comprised largely of émigré Russians who had settled in China after the Bolshevik Revolution of 1917. As these troupes crossed paths in cities like Singapore, entertainers often met in between shows, with many leaving one troupe to join another. This appears to have been the case with our next case study – Joe and Nellie Farren.
+
+#### **From Midnight Frolics to Farren’s Follies**
+
+In the 1930s and early 40s, Joe Farren would become the king of Shanghai’s nightlife scene. This was a time when the city was at the height of its fame, earning the sobriquet “Paris of the East”. Dubbed “Dapper Joe” by the local newspapers, Farren had choreographed chorus lines at several of the city’s largest and most famous cabaret venues – the Canidrome for instance in Shanghai’s French Concession and The Paramount Ballroom in the International Settlement, among others.
+
+<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover5.JPG">
+<div style="background-color: white;">Shanghai’s iconic Bund area before World War II. In its heyday between the 1930s and 40s, Shanghai was a cosmopolitan city, thanks to the presence of many foreign settlements. The city earned itself the sobriquet “Paris of the East” and attracted entertainers from all over the Western world. <i>Kennie Ting Collection.</i></div>
+
+With his wife and dance partner Nellie, Joe had started out in the late 1920s as an exhibition dancer demonstrating waltzes and foxtrots in a city that was in the throes of a “dance madness”.8 But exactly how did Joe and Nellie Farren end up in Shanghai?
+
+My search for the story of Joe Farren led to Vienna around the time of World War I, where a young Jewish man named Josef Pollak worked as an exhibition dancer in the city’s dancehalls. In 1924, Pollak was recruited to join a troupe of European entertainers called The Midnight Frolics, which was about to leave for a tour of several Asian port cities, including Batavia as well as Kobe and Yokohama in Japan, Manila, and Chinese cities such as Tientsin, Canton (Guangzhou), Peking, Wuhan, Nanking (Nanjing) and Amoy (Xiamen).
+
+The Midnight Frolics were, like The Globe Trotters, a motley crew of entertainers comprising tap dancers, Russian ballerinas, a mouth organist, a singing violinist, a magician and an Italian tenor. Among the recruited Frolics were two émigré Russian sisters Nellie and Eva – both trained in ballet and equally adept at performing mild comic numbers. Pollak was paired with the older sister Nellie, and they became dance partners, and later, husband and wife, anglicising their names to Joe and Nellie Farren.
+
+In January 1928, Joe Farren began organising his own revues in Singapore with a touring American bandleader named Ralph Stone, who later, back in the United States, would include the song “A Little Street in Singapore” in his repertoire. The venue was once again the Victoria Theatre, where their names appeared in a newspaper advertisement as a “Company of Well-known Continental Revue Artists”, billing each of their two-night shows as “Nights of Gladness” and “Dancing Mad” respectively.9
+
+The troupe also staged cabaret shows at the Adelphi Hotel10 – which used to stand on the corner of Coleman Street and North Bridge Road – in January and February 1928, this time calling themselves The Midnight Frolics. At the Adelphi they offered a nightly “Cabaret Dinner and Dance” for $3.50.11
+
+<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover6.JPG">
+<div style="background-color: white;">An advertisement for The Midnight Frolics starring Joe and Nellie Farren. The troupe performed at the Adelphi Hotel in Singapore in January and February 1928. <i>Image reproduced from The Singapore Free Press and Mercantile Advertiser, 2 February 1928, p. 1.</i></div>
+
+Old newspaper advertisements also provide clues to the evolving nature of entertainment troupes visiting Singapore. Members came and went, some of the troupes took on new names and at various points were joined by other European artistes as well as Russian émigrés and American musicians. To attract new audiences, the troupes frequently added other popular forms of entertainment to their repertoire, such as cabaret shows and tea dances.
