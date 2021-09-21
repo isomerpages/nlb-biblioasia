@@ -120,7 +120,7 @@ The voluntary conservation plan for Pearl Bank provides a platform to facilitate
 
 [^14]:Wang, R. (2015, August 15). [URA sees merit in conservation plan for Pearl Bank](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150815-1.2.160). *The Straits Times*, p. 24; Lim, C. (2011, March 15). [3rd collective sale bid by Pearl Bank](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110315-1.2.5.7). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 
- [^15]:Lee, P. (2014, May 2). Pearl Bank still special after all these years. *The Straits Times*. Retrieved from Factiva; Poole, E. (2010, March 15). *Interview with Ed Poole.* Retrieved from Facebook.
+ [^15]:Lee, P. (2014, May 2). [Pearl Bank still special after all these years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140502-1.2.30.12). *The Straits Times*, p. 8. Retrieved from NewspaperSG; Poole, E. (2010, March 15). *Interview with Ed Poole.* Retrieved from Facebook.
  
 [^16]:*Pearl Bank Apartments.* Retrieved from Pearl Bank Apartments website.
 
