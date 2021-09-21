@@ -2,11 +2,6 @@
 title: Making the Invisible Visible
 permalink: /vol-17/issue-3/oct-dec-2021/stjosephchurch
 ---
-
-
-
-
-
 #### **Alvin Tan** documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/FACING%20PAGE.jpg)
@@ -51,7 +46,7 @@ Trained in Lisbon and graduating top of her class in 1999, Machado had garnered 
 
 After reviewing Machado’s portfolio, the church building committee got her to undertake a small restoration work in order to assess her technical competence and skill. In the meantime, the committee also ran her credentials by the National Heritage Board. She passed the restoration test with flying colours and was given the task of restoring all the statues.
 
-For Machado, the project was particularly meaningful and a source of pride as she would be “involved in the [restoration]project of a Portuguese Church [established in 1853] so far away from Portugal.”[^7]
+For Machado, the project was particularly meaningful and a source of pride as she would be “involved in the [restoration]project of a Portuguese Church [established in 1853] so far away from Portugal”.[^7]
 
 She was under no illusion that it would be an easy task. For a project of this size, a team is usually involved in the restoration, according to Machado. However, in this case, she was going solo. 
 
@@ -183,4 +178,4 @@ Reverend Father Joe Lopez Carpio, the current rector, is pleased with the outcom
 
 [^13]: Reverend Father Joe Lopez Carpio, email, 30 July 2021.
 
-[^14]: St John of Damascus wrote: “For the invisible things of God since the creation of the world are made visible through images.” See “Medieval Sourcebook: John of Damascus, in Defense of Icons c. 730,” Fordham University, accessed 18 August 2021, https://sourcebooks.fordham.edu/source/johndam-icons.asp. 
+[^14]: St John of Damascus wrote: “For the invisible things of God since the creation of the world are made visible through images.” See “Medieval Sourcebook: John of Damascus, in Defense of Icons c. 730,” Fordham University, accessed 18 August 2021, https://sourcebooks.fordham.edu/source/johndam-icons.asp.
