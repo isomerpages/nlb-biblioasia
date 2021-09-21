@@ -209,13 +209,13 @@ Despite the presence of servants, the setting up and running of a home in the co
 
 [^29]:The world of women. (1935, September 19). The Straits Times, p. 18. Retrieved from NewspaperSG. 
 
- [^30]:Wood, M. (1929). Malay for mems (pp. 5, 7, 10, 12, 14, 21). Singapore: Kelly and Walsh. (Call no.: RRARE 499.18 WOO; Microfilm no.: NL9824)
+ [^30]:Wood, M. (1929). *[Malay for mems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981818)* (pp. 5, 7, 10, 12, 14, 21). Singapore: Kelly and Walsh. (Call no.: RRARE 499.18 WOO; Microfilm no.: NL9824)
  
-[^31]:Registration of servants. (1911, July 25). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 5.Retrieved from NewspaperSG.
+[^31]:[Registration of servants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19110725-1.2.31.1.aspx). (1911, July 25). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 5.Retrieved from NewspaperSG.
 
-[^32]:Straits Times Weekly Issue, 1 Sep 1891, p. 9. 
+[^32]:*[Straits Times Weekly Issue](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18910901-1.2.62.aspx)*, 1 Sep 1891, p. 9. 
 
-[^33]:Housekeeping in Malaya. (1926, July 2). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 4. Retrieved from NewspaperSG. 
+[^33]:[Housekeeping in Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19260702-1.2.12.1.aspx). (1926, July 2). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 4. Retrieved from NewspaperSG. 
 
 [^34]:[Our domestic servants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18910804-1.2.59.aspx). (1891, August 4). *Straits Times Weekly Issue*, p. 10. Retrieved from NewspaperSG. 
 
