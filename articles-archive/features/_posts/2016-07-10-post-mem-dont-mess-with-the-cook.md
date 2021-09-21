@@ -143,7 +143,115 @@ Despite the presence of servants, the setting up and running of a home in the co
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/dont-mess-with-the-cook/janice.png">
-	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+	<b>Janice Loo</b> is a Librarian at the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+
+#### **Notes**
+
+[^1]:Pudding without eggs. (1907, February 22). The Straits Times, p. 7. Retrieved from NewspaperSG. 
+
+[^2]:Literally translated as “Madame Boss”, the term  is of Anglo-Indian origin and was commonly used by servants and non-whites to address married or upper-class European women during colonial times. “Mem” is likely a corruption of “Madam” while “Sahib” was the term of respect used to address European men in colonial India.
+
+[^3]:Butcher, J.G. (1979). The British in Malaya 1880–1941: The social history of a European community in colonial South-East Asia (pp. 23–24, 134–135, 142). (Call no.: RSING 301.4512105951033 BUT)
+
+[^4]:The housewives of Malaya. (1933, April 25). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 1. Retrieved from NewspaperSG. 
+
+[^5]:Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 189–190). In H. Callan & S. Ardener, S. (Eds.). The incorporated wife. London: Croon Helm. (Not available in NLB holdings)
+
+[^6]:Brownfoot, 1984, p. 196; George, R.M. (1994, Winter). Homes in the empire, empires in the home. Cultural Critique, 26, 95-127, p. 108. Retrieved from JSTOR via NLB’s eResources website.
+
+[^7]:Butcher, 1979, p. 142; Malayan Information Agency. (1932). British Malaya: General description of the country and life therein (pp. 28–29). London: The Agency. (Call no.: RCLOS 959.9 MAL). According to Ashley Gibson, all except the gardener were named as “essential units of the staff required by a European family”, costing some 170 Straits dollars a month. See Gibson, A. (1928). The Malay Peninsula and Archipelago (p. 120). London: J. M. Dent. (Call no.: RCLOS 959.9 GIB)
+
+[^8]:According to comments by the Superintendents of the censuses of the Straits Settlements, Federated Malay States and Other Malay States for the years 1921 and 1931. See Nathan, J.E. (1922). The census of British Malaya (p. 83). London: Waterlow. (Call no.: RRARE 312.09595 MAL; Microfilm no.: NL7366); Vlieland, C.A. (1932). A report on the 1931 census and on certain problems of vital statistics (p. 81). London: Crown Agents for the Colonies. (Call no.: RRARE 304.6095951 FED; Microfilm no.: NL3005)
+
+[^9]:MacCallum Scott, J.H. (1939). Eastern journey (p. 15). London: Travel Book Club. (Call no.: RCLOS 959 MAC)
+
+[^10]:“European women, the cookie and the kitchen.” (1940, May 9). The Straits Times, p. 1. Retrieved from NewspaperSG. 
+
+[^11]:Lockhart, R. (1936). Return to Malaya (p. 110). New York: G. P. Putnam’s Sons. (Call no.: RCLOS 959.5 LOC)
+
+[^12]:MacCallum Scott, 1939, p. 14. 
+
+[^13]:Vaughan, J.D. (1879). The manners and customs of the Chinese in the Straits Settlements (p. 20.). Singapore: Printed at the Mission Press. Retrieved from BookSG.
+
+[^14]:Hylam v. European. (1891, September 1). Straits Times Weekly Issue, p. 3. Retrieved from NewspaperSG.
+
+[^15]:Untitled. (1901, May 3). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 3. Retrieved from NewspaperSG. 
+
+[^16]:The servant problem. (1926, April 24). The Malayan Saturday Post, p. 12. Retrieved from NewspaperSG.
+
+[^17]:“Cookie.” (1929, October 26). The Straits Times, p. 15. Retrieved from NewspaperSG. 
+
+[^18]:Roper, H.B. (1891, September 1). Our Hylam servants. Straits Times Weekly Issue, p. 9. Retrieved from NewspaperSG. 
+
+[^19]:Wednesday, May 1, 1901. (1901, May 1). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 2. Retrieved from NewspaperSG. 
+
+[^20]:Straits Settlements. Legislative Council. Proceedings of the Legislative Council of the Straits Settlements for 1886 (1886, November 23). Papers laid before the Legislative Council by Command of His Excellency the Governor. Registration of Domestic Servants. (No. 44, p. C655). Singapore: Government Printing Office. (Microfilm nos.: NL1107, NL1112)
+
+[^21]:Straits Settlements. Straits Settlements Government Gazette. (1887, January 7). The Domestic Servants Ordinance 1886 (Ord. XXIII of 1886, pp. 11–14). Singapore: Government Printing Office. (Call no.: RRARE 959.51 SGSS; Microfilm no.: NL1016)
+
+[^22]: Straits Settlements Government Gazette, 7 Jan 1887, Ord. XXIII of 1886, pp. 11–14.
+ 
+[^23]:Song, O.S. (1923). One hundred years’ history of the Chinese in Singapore (pp. 238–239, 482). London: John Murray. Retrieved from BookSG.
+
+[^24]:Registration of domestic servants. (1912, July 25). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 31. Retrieved from NewspaperSG. 
+
+[^25]:Tuesday, July 23, 1912. (1912, July 23). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 6. Retrieved from NewspaperSG. 
+
+[^26]:The servant problem. (1905, April 19). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 3. Retrieved from NewspaperSG. 
+
+[^27]:Song, 1923, p. 482; Servants’ registration. (1914, March 19). The Straits Times, p. 8. Retrieved from NewspaperSG 
+
+[^28]:The Singapore Free Press and Mercantile Advertiser, 25 Apr 1933, p. 1. 
+
+[^29]:The world of women. (1935, September 19). The Straits Times, p. 18. Retrieved from NewspaperSG. 
+
+ [^30]:Wood, M. (1929). Malay for mems (pp. 5, 7, 10, 12, 14, 21). Singapore: Kelly and Walsh. (Call no.: RRARE 499.18 WOO; Microfilm no.: NL9824)
+ 
+[^31]:Registration of servants. (1911, July 25). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 5.Retrieved from NewspaperSG.
+
+[^32]:Straits Times Weekly Issue, 1 Sep 1891, p. 9. 
+
+[^33]:Housekeeping in Malaya. (1926, July 2). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 4. Retrieved from NewspaperSG. 
+
+[^34]:Our domestic servants. (1891, August 4). Straits Times Weekly Issue, p. 10. Retrieved from NewspaperSG. 
+
+[^35]:Kinsey, W.E. (1929). The “mems” own cookery book (p. 3). Singapore: Kelly and Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.:  NL9852)
+
+[^36]:The literary page – New books reviewed. (1930, January 31). The Straits Times, p. 17. Retrieved from NewspaperSG. 
+
+[^37]:Savage-Bailey, K. (1935, August 1). An old resident on Malayan cookery. The Straits Times, p. 22. Retrieved from NewspaperSG. 
+
+[^38]:The Straits Times, 19 Sep 1935, p. 18.
+
+[^39]:The Straits Times, 26 Oct 1929, p. 15.
+
+[^40]:The Straits Times, 19 Sep 1935, p. 18. 
+
+[^41]:The little things of life. (1906, July 13). The Straits Times, p. 8. Retrieved from NewspaperSG. 
+
+[^42]:Lowrie, C. (2015). White mistresses and Chinese ‘houseboys’: Domestic politics in Singapore and Darwin from the 1910s to the 1930s (p. 222.). In V. K. Haskins & C. Lowrie. (Eds.). Colonization and domestic service: Historical and contemporary perspectives. New York: Routledge, Taylor & Francis Group. (Call no.: RSEA 331.76164091712 COL)
+
+[^43]:The value of the ‘boy’ depends upon the master. (1934, April 29). The Straits Times, p. 5. Retrieved from NewspaperSG. 
+
+[^44]:The Hylam servant. (1926, January 26). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 5. Retrieved from NewspaperSG. 
+
+[^45]:The Straits Times, 22 Feb 1907, p. 7.
+
+[^46]:Brownfoot, 1984, pp. 196–197. 
+
+[^47]:Wilson, M.C. (1930). Malaya: Land of enchantment (pp. 78–79.). Amersham: Mascot Press. (Call no.: RRARE 915.95 WILL; Microfiche no.: NL0007/027–028)
+
+[^48]:Servants have only one pair of hands. (1940, August 8). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^49]:Clinton, S. (1939, October 5). Is your household organized? Suggestions for who does what and when. The Straits Times, p. 1. Retrieved from NewspaperSG. 
+
+[^50]:The Straits Times, 8 Aug 1940, p. 1. 
+
+[^51]:Wilson, 1930, pp. 79–80.
+
+[^52]:The Straits Times, p. 1.
+
+[^53]:The Straits Times, 13 Jul 1906, p. 8.
