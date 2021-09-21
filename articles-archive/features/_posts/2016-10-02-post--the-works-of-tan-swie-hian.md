@@ -4,8 +4,9 @@ date: 2016-10-02
 permalink: /vol-12/issue-3/oct-dec-2016/tansiewhian-painting
 layout: post
 ---
-
 #### Tan Swie Hian, whose paintings have fetched record prices, was in fact better known for his literary prowess when he first emerged in the arts scene. **Jessie Yak** highlights some of his poems, short stories and fables.
+
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/tan-swie-han/The-Squirrel-Dance.jpg">陈瑞献的寓言《护舞》描写一只松鼠为爱护落叶，仔细地在落叶之间跳跃以避免踩到它们，借此强调对万物的关怀与慈悲; 他也以此题材，绘就了上方的胶彩画《松鼠舞》。</div>
 
 提起享负盛名的新加坡多媒体艺术家陈瑞献，跃入大家脑海的应该大多为他一幅幅色彩丰富瑰丽的画作、构思奇巧或趣致的雕塑、苍劲豪迈的书法或刻字；他的艺术作品也享誉海外，画作在国际拍卖会上屡次刷新成交价；耀眼的艺术成就使他荣获多项本地及国际的奖项与殊荣。但事实上，他刚开始涉足艺术领域时，是以文艺创作崭露头角的。
 
@@ -14,6 +15,8 @@ layout: post
 1960年代，陈瑞献以笔名“牧羚奴”在新加坡和马来亚的多种报刊发表作品；当时文艺创作最重要的根据地便是《南洋商报》的文艺副刊《青年文艺》，其主编是已故名作家杏影；1964年到1966年之间，杏影选刊了陈瑞献的二十多首诗作，引起了文坛的注意。杏影过世后，继任的完颜籍也同样赏识陈的才华，大量刊登了他的文艺创作，令陈声名鹊起。[^3] 
 
 关于自己的写作，陈瑞献曾经表示“我的文学作品……多反映现实的阴暗面，以及人类悲苦的命运”。[^4]  有评论说他“以悲天悯人的胸襟体验人生，因此，一朵花、一片叶、一滴水在他的心灵中都能扬起无限的神思与悲悯”。[^5]    他的中文文学创作种类丰富，各种体裁都乐意尝试，本文列举了其中三种：
+
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/tan-swie-han/Chinese-books.jpg">陈瑞献的寓言《护舞》描写一只松鼠为爱护落叶，仔细地在落叶之间跳跃以避免踩到它们，借此强调对万物的关怀与慈悲; 他也以此题材，绘就了上方的胶彩画《松鼠舞》。</div>
 
 #### **诗歌**
 
