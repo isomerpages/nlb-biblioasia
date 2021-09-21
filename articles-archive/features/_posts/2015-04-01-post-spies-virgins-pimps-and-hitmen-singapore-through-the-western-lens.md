@@ -80,13 +80,11 @@ More recently, London-based Irish directors Joe Lawlor and Christine Molloy made
 #### **Hollywood’s Return** 
 In 2014, two high-profile films were shot partially in Singapore and are due for release in 2015: <i>Hitman: Agent 47</i>, a second attempt to adapt the action videogame franchise to film, features Singapore as a backdrop to some kinetic mayhem, while <i>Equals</i>, a sci-fi thriller starring Nicholas Hoult and Kristen Stewart, was shot on location in both Singapore and Japan. As the <i>Agent 47</i> trailer and poster make abundantly clear, Singapore is now sought after for its ultra-futuristic cityscapes. Interestingly, the famously prolific producer Roger Corman, who visited the <i>Saint Jack</i> set in 1978, had casually mentioned to one of the local crew that Singapore would be a perfect place to make a science fiction film. It seems, over 30 years later, that he was right. 
 
-<div style="background-color: white;">
+<div style="background-color: white; padding-bottom:20px;">
 <br/>
 <img src="/images/vol-11-issue-1/spiesvirginspimps/HA47_1Sheet_re.jpg">
 The soon-to-be released Hitman: Agent 47 was partly filmed on location in Singapore. © Hitman: Agent 47. Directed by Alek Sander Bach, produced by Adrian Askarieh, Alex Young and Charles Gordon, distributed by 20th Century Fox. United States and Germany, 2015.
 </div>
-
-<br/>
 
 |**Saint Jack: A New Take on Singapore**|
 
