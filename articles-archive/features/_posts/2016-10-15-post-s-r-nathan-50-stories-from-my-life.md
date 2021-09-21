@@ -99,4 +99,4 @@ The whole episode ended without bloodshed. It was good experience for me, the va
 
 |<br>***[Singapore’s Foreign Policy: Beginnings and Future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13179096)***<br>MFA Diplomatic Academy, 2008<br>Call no.: RSING 327.5957 NAT|
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
