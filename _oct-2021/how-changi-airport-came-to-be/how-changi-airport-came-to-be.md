@@ -101,6 +101,9 @@ Speaking in Parliament in October 2020, then Transport Minister Ong Ye Kung said
 
 As vaccination rates rise in Singapore and the country moves towards dealing with Covid-19 as an endemic disease, air traffic through Singapore will hopefully  increase and the fortunes of Changi will soar once again.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="Photo here" style="width: 100px; height: 100px;" />For more resources on Changi Airport’s early years, scan this QR code.
+</div>
+
 #### **NOTES**
 
 [^1]: “SQ 101 Makes First Changi Landing with 140,” Straits Times, 2 July 1981, 8; “All Poised for the Big Take-off,” Straits Times, 1 June 1981, 12; “Changi Arrives,” Straits Times, 1 July 1981, 1. (From NewspaperSG)
