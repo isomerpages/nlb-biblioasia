@@ -10,7 +10,7 @@ layout: post
 
 During the Edo period (1603–1868) under the rule of the Tokugawa Shogunate,[^1] Japan was a very insular society and kept its doors closed to foreign influence. Japanese nationals leaving the country could not return home on pain of death, and foreigners were barred from entering the country. Only Nagasaki on southernmost Kyushu island remained open as a primary trading port for the Dutch East India Company. This period of national isolation called *sakoku* (meaning literally “closed country”) was in force for over 250 years until Commodore Matthew Perry of the US arrived with his fleet in 1853 to wrest open Japan to foreign trade.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/yamamoto-otokichi/02-yamamoto-otokichi.jpg">(Left) An 1849 illustration of Yamamoto Otokichi. Artist unknown. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-2/yamamoto-otokichi/02-yamamoto-otokichi.jpg">(Left) An 1849 illustration of Yamamoto Otokichi. Artist unknown. <i>Courtesy of Wikimedia Commons.</i></div>
 <div style="background-color: white;">(Right) Japanese drawing of the Morrison, anchored at Uraga, Kanagawa Prefecture, in 1837. This was the ship that brought Otokichi and his two comrades back to Japan but was received with cannon fire instead. Artist unknown. <i>Courtesy of Wikimedia Commons.</i></div>
 
 #### **An Interlocutor Between East and West**
