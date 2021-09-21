@@ -34,6 +34,9 @@ Lee revealed that the consultants initially had not recommended Changi because o
 
 Before the plan could be implemented, however, the world was gripped by the oil crisis that began in 1973. The price of oil quadrupled and air traffic slowed down. Also, with the larger-capacity Boeing 747s taking to the skies, fewer planes were using Paya Lebar. All this meant that the pressure on the airport was reduced and the need for a second runway became less pressing.
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">Aerial photograph of the Royal Air Force base in Changi, 1950s. In 1975, parts of the air base were acquired to build Changi Airport. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
+
 “I appointed Howe Yoon Choong, then chairman of the Port of Singapore Authority, to head a team to study if we could move to Changi in time before a second runway was necessary,” Lee recalled. “The team concluded that Changi was possible and could be ready by 1981.”[^6]
 
 In the early days, when Changi was still being considered, Pek Hock Thiam, director of the Ministry of Communications, organised helicopter and Skyvan trips for airport development committee members and ministers, including Lee, to view the Changi site. He recalled their excitement mixed with the fear of the unknown. As Pek noted: “There was nothing there. Worse, we knew that half the land for the airport would have to come from the sea. Who would believe we could create so much land in 2½ years?”[^7]
