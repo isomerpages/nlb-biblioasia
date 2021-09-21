@@ -85,7 +85,7 @@ Another dreaded aspect was the prevalence of venereal diseases among Chinese mal
 
 |<img style="width:300px" src="/images/Vol-12-issue-2/dont-mess-with-the-cook/05-dontmesswiththecook.jpg">Title page and extracts from <i>The “Mems“ Own Cookery Book. All rights reserved, National Library Board, Singapore.</i><br>|
 
-|<br>A review of the book in *The Straits Times* declared: “With this guide at her elbow… [the new mem] can either prepare herself or instruct “cookie” in a host of dishes which should do a great deal to remove the charge of monotony which is sometimes levelled at food in Malaya”.[^36]|
+|<br>A review of the book in *The Straits Times* declared: “With this guide at her elbow… [the new *mem*] can either prepare herself or instruct “cookie” in a host of dishes which should do a great deal to remove the charge of monotony which is sometimes levelled at food in Malaya”.[^36]|
 
 |Another popular resource was *The Y.W.C.A. International cookery Book of Malaya*, which was updated and republished nine times over three decades since it made its debut in 1932. Aside from recipes, the book provides guidance on meal planning, tips on buying local ingredients and other preparatory steps before the actual cooking. Assessing the second edition from the standpoint of an older mem who has long grappled with the question of diet in Malaya, Mrs K. Savage Bailey writes in *The Straits Times* on 1 August 1935 on the book’s usefulness. She praises, in particular, the section on local market produce with the names for each item given in both Malay and English:|
 
