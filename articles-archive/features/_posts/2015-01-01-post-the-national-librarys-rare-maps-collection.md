@@ -6,6 +6,12 @@ layout: post
 ---
 #### The National Library has a collection of rare maps dating back to the 15th century. **Makeswary Periasamy** shares the significance and history of these maps and their makers. 
 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/raremap/background.jpg">
+</div>
+
 The National Library’s Rare Maps Collection forms part of the valuable Rare Materials Collection held in its Lee Kong Chian Reference Library. The collection contains topographic maps and navigational charts covering Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The majority of the maps were printed by European map-makers before 1945.
 
 Most of the maps were inherited from the former Raffles Museum and Library, in particular a set of early Malayan maps photocopied by J.V. Mills in 1936, now known as the Mills Collection, which comprises 208 maps and charts relating to the Malay Peninsula from the period before 1600 until 1879. Other maps were donated to the library and the rest were purchased over the years. In 2012, the library acquired the valuable and historically significant David Parry Southeast Asian Map Collection, which constitutes 254 maps dating from the 15th to 19th centuries and created by prominent European cartographers.
