@@ -104,6 +104,11 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="QR code Photo here" style="width: 100px; height: 100px;" />For more resources on Changi Airport’s early years, scan this QR code.
 </div>
 
+<div style="background-color: white;">
+<br/>
+<img src="pending photo" style="width: 100px; height: 100px;" />
+	<b>Rebecca Tan</b> is an Associate Librarian with the National Library, Singapore. She is part of the digital heritage team and works on curating and promoting access to the library’s digital collections.</div>
+
 #### **NOTES**
 
 [^1]: “SQ 101 Makes First Changi Landing with 140,” Straits Times, 2 July 1981, 8; “All Poised for the Big Take-off,” Straits Times, 1 June 1981, 12; “Changi Arrives,” Straits Times, 1 July 1981, 1. (From NewspaperSG)
