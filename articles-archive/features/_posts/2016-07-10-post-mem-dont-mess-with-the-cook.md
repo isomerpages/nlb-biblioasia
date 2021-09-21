@@ -147,7 +147,7 @@ Despite the presence of servants, the setting up and running of a home in the co
 	<b>Janice Loo</b> is a Librarian at the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
 #### **Notes**
 
