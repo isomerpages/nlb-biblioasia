@@ -183,11 +183,11 @@ Despite the presence of servants, the setting up and running of a home in the co
 
 [^16]:The servant problem. (1926, April 24). The Malayan Saturday Post, p. 12. Retrieved from NewspaperSG.
 
-[^17]:“Cookie.” (1929, October 26). The Straits Times, p. 15. Retrieved from NewspaperSG. 
+[^17]:“[Cookie.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291026-1.2.115.3.aspx)” (1929, October 26). *The Straits Times*, p. 15. Retrieved from NewspaperSG. 
 
-[^18]:Roper, H.B. (1891, September 1). Our Hylam servants. Straits Times Weekly Issue, p. 9. Retrieved from NewspaperSG. 
+[^18]:Roper, H.B. (1891, September 1). [Our Hylam servants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18910901-1.2.62.aspx). *Straits Times Weekly Issue*, p. 9. Retrieved from NewspaperSG. 
 
-[^19]:Wednesday, May 1, 1901. (1901, May 1). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 2. Retrieved from NewspaperSG. 
+[^19]:[Wednesday, May 1, 1901](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19010501-1.2.5.aspx). (1901, May 1). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 2. Retrieved from NewspaperSG. 
 
 [^20]:Straits Settlements. Legislative Council. *[Proceedings of the Legislative Council of the Straits Settlements for 1886](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201042621)* (1886, November 23). Papers laid before the Legislative Council by Command of His Excellency the Governor. Registration of Domestic Servants. (No. 44, p. C655). Singapore: Government Printing Office. (Microfilm nos.: NL1107, NL1112)
 
