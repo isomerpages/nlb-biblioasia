@@ -100,3 +100,55 @@ Changi Airport turned 40 in 2021 in what is a very challenging time for the air 
 Speaking in Parliament in October 2020, then Transport Minister Ong Ye Kung said that the government would support Changi Airport Group and other companies in the aviation sector, “[b]ut the most meaningful support we can give to our aviation companies is to restore passenger traffic and revive our air hub, in a safe, in a controlled manner”.31
 
 As vaccination rates rise in Singapore and the country moves towards dealing with Covid-19 as an endemic disease, air traffic through Singapore will hopefully  increase and the fortunes of Changi will soar once again.
+
+#### **NOTES**
+
+[^1]: “SQ 101 Makes First Changi Landing with 140,” Straits Times, 2 July 1981, 8; “All Poised for the Big Take-off,” Straits Times, 1 June 1981, 12; “Changi Arrives,” Straits Times, 1 July 1981, 1. (From NewspaperSG)
+
+[^2]: Lee Kuan Yew, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 
+1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991)
+
+[^3]: Lee, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.”  
+
+[^4]: Lee, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.”  
+
+[^5]: Lee, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.”
+
+[^6]: Lee, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.”  
+
+[^7]: Judith Hale, “Billion Dollar Dream Comes True,” New Nation, 27 June 1981, 25. (From NewspaperSG)
+
+[^8]: Lee, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.”
+
+[^9]: Peter Hutton, Wings Over Singapore: The Story of Singapore Changi Airport (Singapore: MPH Magazines, 1981), 41. (From National Library, Singapore, Call no. RSING 387.736095957 HUT)
+
+[^10]: “Dredges Get to Work to Reclaim Land for Changi Airport,” Straits Times, 11 July 1976, 7. (From NewspaperSG)
+
+[^11]: Judith Hale, “Getting There On Time,” New Nation, 27 June 1981, 26–27. (From NewspaperSG)
+
+[^12]: Hale, “Getting There On Time.”
+
+[^13]: Hale, “Billion Dollar Dream Comes True.”
+
+[^14]: Hale, “Billion Dollar Dream Comes True.”
+
+[^15]: Hale, “Getting There On Time.”
+
+[^16]: Tan Wee Him, “A Landing that Made History,” Straits Times, 13 May 1981, 10. (From NewspaperSG)
+
+[^17]: Wendy Yang, “246 in Historic Landing at Changi Airport,” Straits Times, 1 June 1981, 8. (From NewspaperSG)
+
+[^18]: Yang, “246 in Historic Landing at Changi Airport.”
+Wu Wei Neng, Integrating the Planning of Airports and the City: The Singapore Story, ed. Cheong Kay Teck (Singapore: Centre for Liveable Cities, 2019), 18. (From National Library, Singapore, Call no.: RSING 387.7362095957 CHE)
+Ong Teng Cheong, oral history interview by Lee Ee Boon, 19 June 1987, transcript and MP3 audio, Reel/Disc 3 of 5. (From National Archives of Singapore, Accession no. 000794) 
+“Goodbye Paya Lebar, Here We Come Changi,” Straits Times, 1 June1981, 12. (From NewspaperSG).
+“Major Milestones,” Changi Airport Group, accessed 20 June 2021, https://www.changiairport.com/content/dam/cacorp/documents/changiairportgroup/CAG%20Major%20Milestones%20Jul%202014.pdf.
+“MRT Line Won’t Go to Changi Airport,” Straits Times, 14 March 1987, 14. (From NewspaperSG)
+“Land Transport Master Plan 2040,” Land Transport Authority, accessed 30 June 2021, https://www.lta.gov.sg/content/dam/ltagov/who_we_are/our_work/land_transport_master_plan_2040/pdf/LTA%20LTMP%202040%20eReport.pdf. 
+Ministry of Information, Communications and the Arts, “Corporatisation of Changi Airport and Restructuring of Civil Aviation Authority of Singapore (CAAS),” 7 October 2008, transcript. (From National Archives of Singapore, Document no. 20081007996) 
+Feng Zengkun, Jewel Changi Airport: Through the Eye of the Builder (Singapore: Woh Hup-Obayashi Joint Venture [Project Jewel]: Straits Times Press, 2019), 22. (From National Library, Singapore, Call no. RSING 725.39095957 FEN)
+Lois Ng, “Changi the Champ,” New Paper, 30 July 1988, 5. (From NewspaperSG)
+“Airport Officials from 16 Countries Here to Learn from Changi,” Straits Times, 20 October 1989, 26. (From NewspaperSG)
+“Awards and Accolades,” Changi Airport Group, accessed 20 June 2021, https://www.changiairport.com/corporate/about-us/awards-and-accolades.html. 
+Ng Wei Kai, “Passenger Traffic at Changi Airport Fell 82.8% Last Year,” Straits Times, 1 June 2021, https://www.straitstimes.com/singapore/passenger-traffic-in-changi-airport-fell-828-per-cent-last-year-from-683m-in-2019-to-118m.  
+Ong Ye Kung, “Parliamentary Ministerial Statement by Minister for Transport, Mr Ong Ye Kung, on Recovery of Aviation Sector,” 6 October 2020,  Ministry of Transport, https://www.mot.gov.sg/news-centre/news/detail/parliamentary-ministerial-statement-by-minister-for-transport-mr-ong-ye-kung-on-recovery-of-aviation-sector.
