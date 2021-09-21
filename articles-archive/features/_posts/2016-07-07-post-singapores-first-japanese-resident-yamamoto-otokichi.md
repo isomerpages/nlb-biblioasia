@@ -33,7 +33,7 @@ In December 1832, the teenaged Otokichi was an apprentice sailor travelling onbo
 
 Only three crew members survived the ordeal – Otokichi, then aged 14, and his fellow mates Kyukichi and Iwakichi, aged 15 and 28 respectively. When the trio finally made landfall at Cape Alava in the north-western coast of North America, instead of finding food and shelter, their vessel was plundered by marauding Native Americans and they ended up as prisoners.
 
-Traders from the Hudson Bay Company – at the time a major fur trading company ­headed by John McLoughlin, the Superintendant of the Columbia District of the company – received word of these castaways and sought to save them. Privately, McLoughlin saw in these Japanese sailors the opportunity to open up Edo Japan to mercantile trade.
+Traders from the Hudson Bay Company – at the time a major fur trading company headed by John McLoughlin, the Superintendant of the Columbia District of the company – received word of these castaways and sought to save them. Privately, McLoughlin saw in these Japanese sailors the opportunity to open up Edo Japan to mercantile trade.
 
 When the three Japanese arrived at Fort Vancouver[^7] in May 1834 after being rescued, they were welcomed with open arms by McLoughlin. After several months of exposure to the Christian faith and some rudimentary English lessons, the Japanese were dispatched to England in the fall of 1834. McLoughlin hoped that the British would bring the men home to Japan and, in the process, establish trade relations with this isolated country.
 
