@@ -74,21 +74,33 @@ The Changi project had a very tight deadline because Paya Lebar was approaching 
 
 “So very early on, we impressed on all the officers that the contractors problems were their problems, and in the end, my problems, because I’m in charge.”[^15]
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">Passengers on board Singapore Airlines flight SQ 101 from Kuala Lumpur to Singapore on 1 July 1981. It carried 140 passengers, some of whom had especially travelled to the Malaysian capital to board the flight. <i>Image reproduced from The Straits Times, 2 July 1981, 8. (From NewspaperSG).</i></div>
+
 #### **Preparing for the Big Day**
 
 As with any big event, there were a number of dry runs before actual operations commenced on 1 July 1981. The first test flight, a Boeing 747, touched down at 7.25 pm on 13 May – two weeks before the big day.[^16]
 
 The first flight with paying passengers, SQ 100, landed on 31 May at 9.50 am. It was a chartered flight with 246 passengers, comprising mainly families with children. Organised by a travel agent, the flight had taken off from Paya Lebar Airport and flown up the east coast of peninsular Malaysia to Mersing before turning back and touching down at Changi.[^17]
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">Passengers boarding a Singapore Airlines flight at Changi Airport, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</i></div>
+
 Lee Kee Foon, a housewife who flew first class with her family, said: “We wanted to see Changi Airport before it is open to the public.” After the flight, passengers were each presented with a souvenir medallion and flight certificate.[^18]
 
 Switching over from one airport to another was no easy task. As Bernard Chen, assistant secretary at the Ministry of Finance, noted: “Very few people appreciate this – we moved from Paya Lebar to Changi in one night without any disruption in [air transport] service… Everything was ready. We didn’t have to bus anybody back.”[^19]
+
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">Air traffic controllers at work in the control tower of Changi Airport, 1985. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore. </i></div>
 
 In addition to careful planning and dry runs, the authorities also went abroad to learn from the experience of other airports. 
 
 “The Civil Aviation Authority sent officers to observe moving operations in Taiwan when they switched operation from the old airport to Chiang Kai-shek Airport at Taoyuan,” said Ong Teng Cheong, who was minister for communications between 1978 and 1983. “They also went to Tokyo to see the [move] from Haneda to Narita… So it’s a question of observing the experience of others and planning carefully for our own switching-over operation.”[^20]
 
 The last plane to land at Paya Lebar – SQ 11 from Los Angeles and Tokyo – did so at 10.50 pm on 30 June 1981, while the last commercial flight, SQ 28 to Abu Dhabi and Frankfurt, left shortly after at 11 pm. That same night, personnel from the Republic of Singapore Air Force arrived with all the equipment necessary to facilitate Paya Lebar Airport’s conversion into a military air base.[^21]
+
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">The finger pier at Changi Airport Terminal 2, 1996.  </i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore. </i></div>
 
 #### **Expanding Changi**
 
@@ -106,6 +118,9 @@ In 2008, Changi Airport Group was formed as a result of the corporatisation of C
 Over the years, Changi has developed an international reputation. In 1988, just seven years after it opened, *Business Traveller UK* magazine rated Changi Airport as the world’s best airport; it had been number two in the previous four years.[^27] The following year, airport officials from 16 countries visited Changi Airport to attend a seven-week airport management course, learning from Changi’s experiences.[^28]
 
 Changi has since gone on to win many other such awards: it clinched the “Best Airport in the World” award from Business Traveller US a total of 27 times between 1991 and 2020.[^29]
+
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">The Rain Vortex at Jewel Changi Airport. With water cascading down 40 metres, it is the world’s tallest indoor waterfall. Photo by Jansen Yang, 8 October 2019. <i>Retrieved from Unsplash.</i></div>
 
 Changi Airport turned 40 in 2021 in what is a very challenging time for the air travel industry. The Covid-19 pandemic has upended business and leisure travel globally, leading to a reduction in passenger air traffic everywhere. As a result of the pandemic, Changi’s own passenger traffic levels dropped by over 80 percent between 2019 and 2020.[^30] Changi Airport Group lost a significant revenue stream, while shops and restaurants in the terminals continued to suffer. 
 
