@@ -52,7 +52,7 @@ The idea of the sea being the only permanent feature in our ever-changing geogra
 
 Through this collaboration, we hope to create a meaningful connection with and between the memories that are very much part of who we are. It is a journey embarked on not by just the two of us but with all the people whose memories are part of the story. 
 
-<div style="background-color: white;">
+<div style="background-color: white;padding-bottom:10px;">
 <br/>
 <img src="/images/vol-10-issue-4/pointsofdeparture/The_Harbour.jpg">
 “The Harbour” from “Temporality” (2013). The junk is constructed from a number of images from black-and-white archival photographs dating from the mid-1970s, which were taken at The New Harbour (present-day Keppel Harbour). It was inspired by Margaret Leong's poem “The Junk”. © <i>Juria Toramae. All rights reserved.</i> 
