@@ -86,7 +86,7 @@ The voluntary conservation plan for Pearl Bank provides a platform to facilitate
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/justin.png">
-	<b>Justin Zhuang</b> is a writer and researcher with an interest in design, cities, culture, history and media. The co-founder of writing studio In Plain Words contributes to various architecture and design magazines, including <i>Design Observer</i> and American Institute of Graphic Art’s <i>Eye on Design</i>. He is the author of <i>Independence: The History of Graphic Design in Singapore Since the 1960s</i> (2012), <i>Mosaic Memories: Remembering the Playgrounds Singapore Grew Up In</i> (2014) and the catalogue for the exhibition <i>Fifty Years of Singapore Design</i> (2016). For more information, see http://justinzhuang.com</div>
+	<b>Justin Zhuang</b> is a writer and researcher with an interest in design, cities, culture, history and media. The co-founder of writing studio In Plain Words contributes to various architecture and design magazines, including <i>Design Observer</i> and American Institute of Graphic Art’s <i>Eye on Design</i>. He is the author of <i>Independence: The History of Graphic Design in Singapore Since the 1960s</i> (2012), <i>Mosaic Memories: Remembering the Playgrounds Singapore Grew Up In</i> (2014) and the catalogue for the exhibition <i>Fifty Years of Singapore Design</i> (2016). For more information, see http://justinzhuang.com.</div>
 
 <a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
