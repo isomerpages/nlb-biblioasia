@@ -52,7 +52,6 @@ N. Parameswaran, the organiser and curator of this exhibition held at Galeri Pet
 
 <br>
 
-
 |**ABDUL GHANI ABDUL HAMID: THE MAN AND HIS ART**
 
 |Abdul Ghani Abdul Hamid (1933–2014) was a prolific and award-winning writer, poet and artist. Writing primarily in Malay, he penned hundreds of poems, short stories, essays, newspaper articles and plays in his lifetime. His series of abstract paintings, “Lalang”, were the most famous in his oeuvre.
