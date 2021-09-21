@@ -81,7 +81,7 @@ layout: post
 	<b>Jessie Yak </b> is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
 #### **注释**
 
