@@ -70,7 +70,7 @@ These foreign troupes were competing with shows put on by newly formed touring c
 
 In the 1930s and early 40s, Joe Farren would become the king of Shanghai’s nightlife scene. This was a time when the city was at the height of its fame, earning the sobriquet “Paris of the East”. Dubbed “Dapper Joe” by the local newspapers, Farren had choreographed chorus lines at several of the city’s largest and most famous cabaret venues – the Canidrome for instance in Shanghai’s French Concession and The Paramount Ballroom in the International Settlement, among others.
 
-<img style="width: 550px; height: 350px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover5.JPG">
+<img style="width: 550px; height: 380px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover5.JPG">
 <div style="background-color: white;">Shanghai’s iconic Bund area before World War II. In its heyday between the 1930s and 40s, Shanghai was a cosmopolitan city, thanks to the presence of many foreign settlements. The city earned itself the sobriquet “Paris of the East” and attracted entertainers from all over the Western world. <i>Kennie Ting Collection.</i></div>
 
 With his wife and dance partner Nellie, Joe had started out in the late 1920s as an exhibition dancer demonstrating waltzes and foxtrots in a city that was in the throes of a “dance madness”.[^8] But exactly how did Joe and Nellie Farren end up in Shanghai?
