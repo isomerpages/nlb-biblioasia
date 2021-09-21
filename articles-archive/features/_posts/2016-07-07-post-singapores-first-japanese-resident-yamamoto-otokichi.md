@@ -84,7 +84,7 @@ The author would like to thank Mr Leong Foke Meng and Mr Akira Doi for reviewing
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-References
+#### **References**
 
 Akira, D. (2007). Pioneers of Japanese bible translation: The application of the dynamic equivalent method in Japan [Masters of Arts in Japanese thesis, Massey University, New Zealand]. Retrieved from Massey Research website.
 
@@ -114,15 +114,24 @@ Prewar Japanese community in Singapore: Picture and record [Senzen Shingapōru 
 
 Tei, A.G., & Igarashi, Y. (2010). True life adventures of Otokichi (1817–1867). Retrieved from JM Ottoson website.
 
-Notes
+#### **Notes**
 
-The shogunate was officially established in Edo on 24 March 1603 by Tokugawa Ieyasu. The Edo period came to an end with the Meiji Restoration on 3 May 1868.
-The first overseas Japanese mission visited America in 1860 and proved successful in building international ties. The second overseas mission was sent to Europe in 1862 with about 35 to 40 members in the entourage. En route, they stopped at British ports such as Hong Kong and Singapore.
-Leong, F.M. (2012). Later career of Otokichi (pp. 7–9). Singapore: Heritage Committee, Japanese Association Singapore. (Call no. : RSING 959.5703092 LEO)
-Leong, 2012, p. 14.
-Fuchibe, T. (1972). Oko nikki [Journal of a trip to Europe] in Kengai shisetsu nikki sanshu [An anthology of diaries of a mission sent abroad]. Ed. Nihon Shiseki Kyokai (Vol. 98, pp. 18–19). In Kohl, S.W. (1982, January). Strangers in a strange land: Japanese castaways and the opening of Japan. The Pacific Northwest Quarterly, 73 (1), 20–28, p. 27. Retrieved from JSTOR via NLB’s eResources website.
-The village men raised a tombstone at the family temple in memory of the 14 they presumed had passed away that fateful day. See Plummer, K. (1991). The shogun’s reluctant ambassadors: Japanese sea drifters in the North Pacific (p. 248). Oregon: The Oregon Historical Society. (Not available in NLB holdings)
-In the 19th century, Fort Vancouver was a fur trading outpost along the Columbia River. It served as the headquarters of the Hudson’s Bay Company’s Columbia Department.
-Akira, D. (2007). Pioneers of Japanese bible translation: The application of the dynamic equivalent method in Japan (pp. 61–63). [Masters of Arts in Japanese thesis, Massey University, New Zealand]. Retrieved from Massey Research website. 
-There is no record of the name of his first wife although she is believed to be English.
-Death date of 18 January 1867 is derived from Leong, 2012, p. 11, which references Singapore Daily Times, 21 January 1867.
+[^1]:The shogunate was officially established in Edo on 24 March 1603 by Tokugawa Ieyasu. The Edo period came to an end with the Meiji Restoration on 3 May 1868.
+
+[^2]:The first overseas Japanese mission visited America in 1860 and proved successful in building international ties. The second overseas mission was sent to Europe in 1862 with about 35 to 40 members in the entourage. En route, they stopped at British ports such as Hong Kong and Singapore.
+
+[^3]:Leong, F.M. (2012). *[Later career of Otokichi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14608894)* (pp. 7–9). Singapore: Heritage Committee, Japanese Association Singapore. (Call no. : RSING 959.5703092 LEO)
+
+[^4]:[Leong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14608894), 2012, p. 14.
+
+[^5]:Fuchibe, T. (1972). Oko nikki *[Journal of a trip to Europe]* in Kengai shisetsu nikki sanshu *[An anthology of diaries of a mission sent abroad]*. Ed. Nihon Shiseki Kyokai (Vol. 98, pp. 18–19). In Kohl, S.W. (1982, January). Strangers in a strange land: Japanese castaways and the opening of Japan. *The Pacific Northwest Quarterly, 73* (1), 20–28, p. 27. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[^6]:The village men raised a tombstone at the family temple in memory of the 14 they presumed had passed away that fateful day. See Plummer, K. (1991). The shogun’s reluctant ambassadors: Japanese sea drifters in the North Pacific (p. 248). *Oregon: The Oregon Historical Society*. (Not available in NLB holdings)
+
+[^7]:In the 19th century, Fort Vancouver was a fur trading outpost along the Columbia River. It served as the headquarters of the Hudson’s Bay Company’s Columbia Department.
+
+[^8]:Akira, D. (2007). *Pioneers of Japanese bible translation: The application of the dynamic equivalent method in Japan* (pp. 61–63). [Masters of Arts in Japanese thesis, Massey University, New Zealand]. Retrieved from Massey Research website. 
+
+[^9]:There is no record of the name of his first wife although she is believed to be English.
+
+[^10]:Death date of 18 January 1867 is derived from [Leong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14608894), 2012, p. 11, which references *Singapore Daily Times*, 21 January 1867.
