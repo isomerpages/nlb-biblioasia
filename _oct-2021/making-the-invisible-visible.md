@@ -127,7 +127,7 @@ Of all the statues Machado restored, her favourite is that of St Agnes of Rome, 
 Unfortunately, the old paint job had given the statue a flat and lifeless appearance. After Machado removed the old paint and restored the statue to its original appearance, the lavishly patterned ivory white tunic and emerald green palla decorated with an intricate gold motif became visible. The headband was festooned with dusty-vermillion roses, which complemented the soft tones of rose pink on her cheeks. 
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/St%20Agnes.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/St%20Agnes2.jpg)
 <div style="background-color: white;">Before restoration, the statue of St Agnes of Rome (left) had a flat and lifeless appearance. After the restoration (right), the patterned ivory white tunic and emerald green <i>palla</i> with an intricate gold motif can be seen. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
