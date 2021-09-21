@@ -86,7 +86,7 @@ Seen as a whole, Marina Bay is a rectangular, flat piece of water surface that h
 	<b>Dr Lai Chee Kien</b> is an Adjunct Associate Professor at the Singapore University of Technology and Design, and a registered architect. His research interest lies in the history of art, architecture, settlements, urban planning and landscapes in Southeast Asia.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
 #### **Notes**
 
