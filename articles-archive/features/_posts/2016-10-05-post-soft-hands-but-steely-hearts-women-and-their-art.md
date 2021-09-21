@@ -4,7 +4,6 @@ date: 2016-10-05
 permalink: /vol-12/issue-3/oct-dec-2016/softhands-steelyheart
 layout: post
 ---
-
 #### A coterie of women sculptors in Singapore has successfully redefined this once male-dominated art form. **Nadia Arianna Bte Ramli** tells you more.
 
 <div style="background-color: white;"><br><img style="width:650px" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/03-softhands-steelyhearts.jpg">Han Sai Por’s “20 Tonnes – Physical Consequences” (2002) currently stands in front of the National Museum of Singapore. It is made up of six granite blocks and cost about $20,000 to create. <i>Courtesy of the National Museum of Singapore.</i></div>
@@ -136,7 +135,7 @@ Sculptures, particularly public sculptures, are meaningful only when they are co
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/nadia.png">
 	<b>Nadia Arianna Bte Ramli</b> is an Associate Librarian with the National Library, Singapore. She works with the arts collections, focusing on literary and visual arts.</div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
 #### **Notes**
 
