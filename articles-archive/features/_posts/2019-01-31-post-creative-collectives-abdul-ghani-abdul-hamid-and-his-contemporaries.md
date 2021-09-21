@@ -40,15 +40,15 @@ Here is a glimpse of exhibition catalogues and collaterals – published between
 
 |<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections2.JPG"><b>Lukisan Anjuran Seksi Seni Lukis Lembaga Tetap Kongres (1961)</b><br> The souvenir publication of reportedly the largest-scale exhibition featuring Malay artists in Singapore held in April 1961. The event was organised by Lembaga Tetap Kongres Bahasa dan Kebudayaan Melayu (LTK; Permanent Board of Congress of Malay Language and Culture). The back cover features a poem by Abdul Ghani Abdul Hamid titled “Suara!” (Voice!).
 
-|<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections3.JPG"><b>Contemporary ’81 (1981)</b><br> This is one of the many contemporary arts exhibitions organised by Angkatan Pelukis Aneka Daya (APAD; Association of Artists of Various Resources). The cover features a work by pioneering artist Ismail Muda (Ibrahim Bin Muda). The late artist also conducted art classes, including graphic art courses, introduced by APAD in the 1980s.
+|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections3.JPG"><b>Contemporary ’81 (1981)</b><br> This is one of the many contemporary arts exhibitions organised by Angkatan Pelukis Aneka Daya (APAD; Association of Artists of Various Resources). The cover features a work by pioneering artist Ismail Muda (Ibrahim Bin Muda). The late artist also conducted art classes, including graphic art courses, introduced by APAD in the 1980s.
 
-|<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections4.JPG"><b>Karya Seni 25 (1988)</b><br> 
+|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections4.JPG"><b>Karya Seni 25 (1988)</b><br> 
 In celebration of the 25th anniversary of APAD, this souvenir catalogue showcases a selection of exhibited artworks and their creators. The front cover features the artwork “Searching for Peace” by Sujak Rahman. He is regarded as one of the finest batik painters in Singapore and is known for his “Mother & Child” series of artworks. Also known in Japan, Sujak won the first prize at the Hokkaido International Cultural Exchange Award (1986) and had his works exhibited in Japan from 1984 to 1988. Apart from batik, Sujak also works with other medium such as acrylic and oil.
 
 |<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections5.JPG"><b>Introspection (1991)</b><br> 
 This is a catalogue of Sarkasi Said’s (Tzee) solo exhibition “Introspection”, held at the National Museum Art Gallery, Singapore, in 1991. As a batik painter, Tzee is well known for his works on silk that use mixed-media, acrylic and dye. The catalogue includes an introduction by art historian, T. K. Sabapathy.
 
-|<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections6.JPG"><b>Malay Artists Singapore (1995)</b><br> 
+|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections6.JPG"><b>Malay Artists Singapore (1995)</b><br> 
 N. Parameswaran, the organiser and curator of this exhibition held at Galeri Petronas in Kuala Lumpur, Malaysia, in 1995 wrote in the introduction of the publication that it was a “reunion exhibition” of sorts for Singaporean Malay artists and provided an opportunity for them to exhibit their works outside of their usual circles.
 
 <br>
@@ -64,7 +64,7 @@ The Abdul Ghani Abdul Hamid Collection at the National Library comprises letters
 
 Catalogued by subject matter and time period, the collection provides rich insights into the development of the Malay visual arts scene in Singapore.
 
-|<img src="/images/Vol-14-issue-4/creative-collectives/image.JPG">Portrait of Abdul Ghani Abdul Hamid. All rights reserved, Eric Foo Chee Meng 1979–2001. <i>Courtesy of National Arts Council.</i>
+|<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/creative-collectives/image.JPG">Portrait of Abdul Ghani Abdul Hamid. All rights reserved, Eric Foo Chee Meng 1979–2001. <i>Courtesy of National Arts Council.</i>
 
 #### **References**
 
