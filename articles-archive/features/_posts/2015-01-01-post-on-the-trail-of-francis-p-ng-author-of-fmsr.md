@@ -6,14 +6,17 @@ layout: post
 ---
 #### In her effort to republish one of our unknown literary treasures, **Dr Eriko Ogihara-Schuck** tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/francispng/FMSR_train.jpg">
+An “S” Class Express engine of the Federated Malay States Railways (FMSR), which was a rail operator that serviced British Malaya in the first half of the 20th century. The poem <i>F.M.S.R.</i> (published in 1937) describes a train journey from Singapore to Kuala Lumpur. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i>
+</div>
+
 In August 2014, I found myself in Singapore, the country where I came of age as a teenager. Twenty years had passed since I left Singapore to enter college in Japan and then higher degree studies in the United States and Germany. Initially, it felt as if nothing had changed since I left the city. The night sky was still the same over the East Coast, twinkling here and there with the strobe lights of airplanes heading towards Changi Airport. On terra firma, the songs and sounds of the National Day festivities quickly re-absorbed me into this country, exactly the same way they did when I first arrived as a 12-year-old girl in the summer of 1988.
 
 Yet, many things had changed. Unfamiliar apartments and buildings had sprung up everywhere, and new shopping malls and changes inside once familiar buildings generated some anxiety. And there was a definite buzz to the city, with a lot more people than I remembered. I tried to recall and imprint in my memory scenes I was familiar with. But much as I was disturbed about losing my own memory of Singapore, I was equally concerned about the loss of one of Singapore's literary treasures.
 
 I had come back to Singapore to trace the footsteps of Francis P. Ng, a forgotten Singapore poet who disappeared at the outset of the Japanese invasion in 1942. Before arriving in Singapore, I had discovered that Francis P. Ng was a pseudonym for Teo Poh Leng, a local Chinese and the author of <i>F.M.S.R.</i> (1937),[^1] a poem that describes a train journey from Singapore to Kuala Lumpur on the Federated Malay States Railways (FMSR). <i>F.M.S.R.</i> has been claimed to be the first published book-length English poem by a Singapore author. 
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/FMSR_train.jpg)
-<div style="background-color: white;">An “S” Class Express engine of the Federated Malay States Railways (FMSR), which was a rail operator that serviced British Malaya in the first half of the 20th century. The poem <i>F.M.S.R.</i> (published in 1937) describes a train journey from Singapore to Kuala Lumpur. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i></div>
 
 
 #### **T.S. Eliot and The Singapore Connection** 
@@ -38,8 +41,11 @@ The data bore out. In <i>Life and Letters To-day</i> was Section VII of <i>F.M.S
 
 Suddenly in the face of precious information I had been unable to gather for half a year, a shiver of excitement pulsed through me. Who exactly was Teo Poh Leng? Why did he publish under a different name? Why did he publish his poem in the United Kingdom? With these questions swirling in my head, I spent countless hours at my desk, trawling the Internet for more details as well as reaching out to various Singaporeans with many inquiries. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/francispng/The_Waste_Land_re.jpg)
-<div style="background-color: white;">A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i> has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace &amp; Co. All rights reserved, 1997. </i> </div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/francispng/The_Waste_Land_re.jpg">
+A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i> has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace &amp; Co. All rights reserved, 1997. </i>
+</div>
 
 #### **Piecing Together a Puzzle: Teo's Biography** 
 
