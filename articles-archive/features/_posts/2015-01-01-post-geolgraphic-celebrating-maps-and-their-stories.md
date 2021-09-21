@@ -68,35 +68,55 @@ On display are maps that depict Singapore's farmland and soil composition; stori
 	
 A special Geographic Information System (GIS) developed with the Urban Redevelopment Authority enables visitors to overlay maps from the mid-19th century over a contemporary map of Singapore to see how our landscape has radically changed over the years. Another highlight are three maps drafted by the British army during the Malayan campaign and the Battle for Singapore, which detail the movement and disposition of British and Japanese troops in Northern Malaya. This display, comprising rare maps on loan from the National Archives of the United Kingdom, commemorates the 70th anniversary of the end of World War II in 2015.
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/1977_map.jpg)
-<div style="background-color: white;">This 1977 map depicts the findings of the very first comprehensive soil survey of Singapore. It is still the only known officially commissioned soil map of Singapore to date. The island's central area is made of hard granite, indicated in pink. This natural feature has influenced much of the urban development on the island, with most of the construction work taking place outside this central zone made up of softer alluvium and sedimentary rocks. <i>Survey Department, National Archives of Singapore Collection.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/1977_map.jpg">
+This 1977 map depicts the findings of the very first comprehensive soil survey of Singapore. It is still the only known officially commissioned soil map of Singapore to date. The island's central area is made of hard granite, indicated in pink. This natural feature has influenced much of the urban development on the island, with most of the construction work taking place outside this central zone made up of softer alluvium and sedimentary rocks. <i>Survey Department, National Archives of Singapore Collection.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Island_of_Stories_Singapore_Maps.jpg)
-<div style="background-color: white;">This map, on display at “Island of Stories: Singapore Maps” organised by NAS, shows the positions of the British (in red) and Japanese military units (in blue) on 12 and 13 February 1942. The Battle for Singapore began on 8 February and after four days of intense fighting, Japanese forces broke through the initial British defences and captured the western half of the island, as depicted on the map. The British eventually surrendered on 15 February 1942. Courtesy of National Archives of the <i>United Kingdom; National Archives of Singapore Collection.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Island_of_Stories_Singapore_Maps.jpg">
+This map, on display at “Island of Stories: Singapore Maps” organised by NAS, shows the positions of the British (in red) and Japanese military units (in blue) on 12 and 13 February 1942. The Battle for Singapore began on 8 February and after four days of intense fighting, Japanese forces broke through the initial British defences and captured the western half of the island, as depicted on the map. The British eventually surrendered on 15 February 1942. Courtesy of National Archives of the <i>United Kingdom; National Archives of Singapore Collection.</i>
+</div>
+
 
 
 #### **Sea State 8 Seabook: An Art Project By Charles Lim**
 	
 <i>seabook</i> was conceived by artist Charles Lim as a site for the agglomeration of archival material, anecdotes and memories that explores Singapore's relationship with the sea. Lim, who is Singapore's 2015 representative to the Venice Biennale, has a close relationship with the sea as he is a former national sailor and represented Singapore in the 1996 Olympics. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Charles_Lim_work.jpg)
-<div style="background-color: white;">Artist Charles Lim’s work, <i>Sea Safe</i> (2014), in progress.</div>
-
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Charles_Lim_work.jpg">
+Artist Charles Lim’s work, <i>Sea Safe</i> (2014), in progress.
+</div>
 	
 This particular project is an extension of Lim's previous solo-exhibition, "In Search of Raffles' Light", held in 2013 at the National University of Singapore (NUS) Museum. Both these projects are part of Lim's body of work known as the SEA STATE series, which was first initiated in 2008 and continues with his exploration of Singapore's maritime ecology. Developed together with the librarians at NL, <i>seabook</i> highlights the vast amount of information and data gathered from maps, charts and newspaper clippings, as well as scholarly material grappling with the complex relationship between Singapore and the sea – from colonial times to the present day. The stories encompass the mundane – such as fishing as a livelihood, the everyday lives of island communities, regulations on the use of the sea for leisure and other purposes, as well as sea-related tragedies, including an attack on a girl by a swordfish in 1961. The exhibition, jointly organised by NUS Museum and NL, highlights the troubled relationship Singapore has with its seas and its continued undercurrents in our lives.
 	
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Charles_Lim_with_Janice_Loo.jpg)
-<div style="background-color: white;">Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.</div>
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg)
-<div style="background-color: white;">Close-up of Michael Lee’s <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.</div>
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg)
-<div style="background-color: white;">A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers</i> (2014–2015).</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Charles_Lim_with_Janice_Loo.jpg">
+Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.
+</div>
 	
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">
+Close-up of Michael Lee’s <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg)
-<div style="background-color: white;">Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg">
+A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers</i> (2014–2015).
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg">
+Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.
+</div>
 
 	
 #### **Mind the Gap: Mapping the Other** 
@@ -125,7 +145,7 @@ Sherman Ong is a filmmaker, photographer and visual artist whose practice centre
 <img src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
 </div>
 
-<img src="/images/vol-10-issue-4/geo-geographic/tan.jpg" style="width: 200px; height: 120px; margin-bottom:-30px; padding-top:20px;" />
+<img src="/images/vol-10-issue-4/geo-geographic/tan_re.jpg" style="width: 150px; height:110px; margin-bottom:-30px; padding-top:20px;" />
 <p style="font-size:15px;"><b>Tan Huism</b> is Head of Exhibitions and Curation at the National Library of Singapore. She started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</p>
 
 
