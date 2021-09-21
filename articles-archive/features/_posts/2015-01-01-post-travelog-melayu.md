@@ -6,9 +6,11 @@ layout: post
 ---
 Travelogues, particularly those from yesteryear, serve as important reference documents that capture a slice of history and culture. These writings serve as sources of information about different places, cultures and communities as encountered by writers at different points in time. This article focuses on some of the most popular Malay-language travelogues available in the National Library collection and highlights several well-known accounts from the 19th century to more recent times. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/books.jpg)
-<div style="background-color: white;"><i>(Clockwise from top left) Melawat Negara Tetangga, Meninau Ka-Negara Sham, Melawat KB-Paris, Chatetan Ka-Tanah Suchi </i>and <i>Kunjongan Ka-Indonesia 1954</i> were all written by Harun Aminurrashid. </div>
-
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/travelogmelayu/books.jpg">
+(Clockwise from top left) Melawat Negara Tetangga, Meninau Ka-Negara Sham, Melawat KB-Paris, Chatetan Ka-Tanah Suchi </i>and <i>Kunjongan Ka-Indonesia 1954</i> were all written by Harun Aminurrashid. 
+</div>
 
 <i>"Bahwa ini peringatan sahaya berlayar dari negeri Singapura dalam kapal Syeikh ‘Abdul Karim yang bernama Subla’s-salam, yaitu kepada tarikh sanat 1270 tahun, kepada 29 hari bulan Jamadilawal, yaitu kepada tarikh Masehi 1854, yaitu setuju kepada sehari bulan Cina tahun baharu. </i>
 
@@ -89,11 +91,17 @@ Hal yang sama tentang keindahan dan ketenangan tempat yang dilawati terutama di 
 
 Timur Tengah merupakan sebuah lagi benua yang sering dilawati dan kemudiannya menjadi catatan kembara. Mesir, Syam (Syria), Tunisia dan Maghribi adalah antara negeri-negeri yang pernah ditulis sebagai travelog. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/sastera.jpg)
-<div style="background-color: white;"><i>Kembara Sastera</i>, written by Nisah Haron, was published in 2012 by Institut Terjemahan &amp; Buku Malaysia Berhad. Kepustakaan Populer Gramedia published <i>Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 3, Hikayat Abdullah by Amin Sweeney in 2008.</i>  </div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/travelogmelayu/sastera.jpg">
+<i>Kembara Sastera</i>, written by Nisah Haron, was published in 2012 by Institut Terjemahan &amp; Buku Malaysia Berhad. Kepustakaan Populer Gramedia published <i>Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 3, Hikayat Abdullah by Amin Sweeney in 2008.</i> 
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/travelogmelayu/Warkah_Eropah.jpg)
-<div style="background-color: white;"><i>Warkah Eropah</i> by A. Samad Said was published in 1991 by Dewan Bahasa and Pustaka. </div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/travelogmelayu/Warkah_Eropah.jpg">
+<i>Warkah Eropah</i> by A. Samad Said was published in 1991 by Dewan Bahasa and Pustaka. 
+</div>
 
 Paling popular sudah tentu perjalanan setiap Muslim yang digalakkan sekurang-kurangnya sekali seumur hidup iaitu perjalanan agung mengerjakan ibadat Haji. Namun, setiap pahit maung dalam perjalanan, terutama sekali semasa belum terdapat kemudahan moden, seringkali diiringi dengan rasa syukur setiap penggembara, seperti yang diungkapkan oleh Harun Aminurrashid apabila sampai ke kota suci Mekah dan melihat Kaabah, 
 
