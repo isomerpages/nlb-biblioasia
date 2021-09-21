@@ -152,14 +152,13 @@ Singapore has traditionally been thought of in terms of hard trade, an entrepôt
 [^10]:The three-storey Adelphi Hotel was owned by the famous Armenian Sarkies brothers who were associated with many of Asia’s grand hotels, including Raffles Hotel and the Sea View Hotel in Singapore, the Eastern and Oriental in Penang and The Strand in Rangoon (Yangon). The Adelphi was the oldest hotel in Singapore before its closure in 1973; the building was eventually demolished in 1980. 
 [^11]:[Page 3 advertisements column 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19280121-1.2.12.1). (1928, January 21). *The Singapore Free Press and Mercantile Advertiser*, p. 3; [Page 1 advertisements column 2](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19280202-1.2.4.2). (1928, February 2). *The Singapore Free Press and Mercantile Advertiser*, p. 1; Retrieved from NewspaperSG. 
 [^12]:[A dancer’s frocks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280725-1.2.51). (1928, July 25). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
-[^13]:Page 16 advertisements column 1. (1938, May 19). The Singapore Free Press and Mercantile Advertiser, p. 16; Shelaeff wins in first minute of first round. (1938, May 21). The Singapore Free Press and Mercantile Advertiser. p. 16; Boxing notes. (1938, June 26). The Straits Times, p. 31; In this corner boxing notes by “spectator”. (1938, August 21). The Sunday Tribune, p. 20. Retrieved from NewspaperSG.
-[^14]:
-[^15]: 
+[^13]:[Page 16 advertisements column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380519-1.2.116.1). (1938, May 19). *The Singapore Free Press and Mercantile Advertiser*, p. 16; [Shelaeff wins in first minute of first round](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380521-1.2.109). (1938, May 21). *The Singapore Free Press and Mercantile Advertiser*. p. 16; [Boxing notes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380626-1.2.252). (1938, June 26). *The Straits Times*, p. 31; [In this corner boxing notes by “spectator”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19380821-1.2.113). (1938, August 21). *The Sunday Tribune*, p. 20. Retrieved from NewspaperSG.
+[^14]:[Boxing attraction at Happy World](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380510-1.2.114). (1938, May 10). *The Malaya Tribune*, p. 14. Retrieved from NewspaperSG. 
+[^15]: [Rocky Montanes, who meets Joe Diamond at the New World next Friday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19351204-1.2.125). (1935, December 4). *The Malaya Tribune*, p. 17; [Boxing day boxing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361215-1.2.135). (1936, December 15). *The Straits Times*, p. 7; [Around the boxing camps](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19370425-1.2.107). (1937, April 25). *The Sunday Tribune*, p. 20. Retrieved from NewspaperSG.
 
 
 
 
 
  
-Boxing attraction at Happy World. (1938, May 10). The Malaya Tribune, p. 14. Retrieved from NewspaperSG. 
-Rocky Montanes, who meets Joe Diamond at the New World next Friday. (1935, December 4). The Malaya Tribune, p. 17; Boxing day boxing. (1936, December 15). The Straits Times, p. 7; Around the boxing camps. (1937, April 25). The Sunday Tribune, p. 20. Retrieved from NewspaperSG.
+
