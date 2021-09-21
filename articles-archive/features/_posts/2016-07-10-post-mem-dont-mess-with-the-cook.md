@@ -231,28 +231,28 @@ Despite the presence of servants, the setting up and running of a home in the co
 
 [^40]:The Straits Times, 19 Sep 1935, p. 18. 
 
-[^41]:The little things of life. (1906, July 13). The Straits Times, p. 8. Retrieved from NewspaperSG. 
+[^41]:[The little things of life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060713-1.2.63.aspx). (1906, July 13). *The Straits Times*, p. 8. Retrieved from NewspaperSG. 
 
-[^42]:Lowrie, C. (2015). White mistresses and Chinese ‘houseboys’: Domestic politics in Singapore and Darwin from the 1910s to the 1930s (p. 222.). In V. K. Haskins & C. Lowrie. (Eds.). Colonization and domestic service: Historical and contemporary perspectives. New York: Routledge, Taylor & Francis Group. (Call no.: RSEA 331.76164091712 COL)
+[^42]:Lowrie, C. (2015). White mistresses and Chinese ‘houseboys’: Domestic politics in Singapore and Darwin from the 1910s to the 1930s (p. 222.). In V. K. Haskins & C. Lowrie. (Eds.). *[Colonization and domestic service: Historical and contemporary perspectives](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201580440)*. New York: Routledge, Taylor & Francis Group. (Call no.: RSEA 331.76164091712 COL)
 
-[^43]:The value of the ‘boy’ depends upon the master. (1934, April 29). The Straits Times, p. 5. Retrieved from NewspaperSG. 
+[^43]:[The value of the ‘boy’ depends upon the master](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340429-1.2.47.aspx). (1934, April 29). *The Straits Times*, p. 5. Retrieved from NewspaperSG. 
 
-[^44]:The Hylam servant. (1926, January 26). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 5. Retrieved from NewspaperSG. 
+[^44]:[The Hylam servant](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19260126-1.2.19.aspx). (1926, January 26). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 5. Retrieved from NewspaperSG. 
 
-[^45]:The Straits Times, 22 Feb 1907, p. 7.
+[^45]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070222-1.2.45.aspx)*, 22 Feb 1907, p. 7.
 
 [^46]:Brownfoot, 1984, pp. 196–197. 
 
-[^47]:Wilson, M.C. (1930). Malaya: Land of enchantment (pp. 78–79.). Amersham: Mascot Press. (Call no.: RRARE 915.95 WILL; Microfiche no.: NL0007/027–028)
+[^47]:Wilson, M.C. (1930). *[Malaya: Land of enchantment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5621363)* (pp. 78–79.). Amersham: Mascot Press. (Call no.: RRARE 915.95 WILL; Microfiche no.: NL0007/027–028)
 
-[^48]:Servants have only one pair of hands. (1940, August 8). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^48]:[Servants have only one pair of hands](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400808-1.2.147.3.aspx). (1940, August 8). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^49]:Clinton, S. (1939, October 5). Is your household organized? Suggestions for who does what and when. The Straits Times, p. 1. Retrieved from NewspaperSG. 
+[^49]:Clinton, S. (1939, October 5). [Is your household organized? Suggestions for who does what and when](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19391005-1.2.140.3.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG. 
 
-[^50]:The Straits Times, 8 Aug 1940, p. 1. 
+[^50]:*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400808-1.2.147.3)*, 8 Aug 1940, p. 1. 
 
-[^51]:Wilson, 1930, pp. 79–80.
+[^51]:[Wilson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5621363), 1930, pp. 79–80.
 
-[^52]:The Straits Times, p. 1.
+[^52]:*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400808-1.2.147.3)*, p. 1.
 
-[^53]:The Straits Times, 13 Jul 1906, p. 8.
+[^53]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060713-1.2.63.aspx)*, 13 Jul 1906, p. 8.
