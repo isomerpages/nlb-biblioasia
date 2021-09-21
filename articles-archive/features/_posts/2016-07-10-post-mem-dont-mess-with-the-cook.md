@@ -189,25 +189,25 @@ Despite the presence of servants, the setting up and running of a home in the co
 
 [^19]:Wednesday, May 1, 1901. (1901, May 1). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 2. Retrieved from NewspaperSG. 
 
-[^20]:Straits Settlements. Legislative Council. Proceedings of the Legislative Council of the Straits Settlements for 1886 (1886, November 23). Papers laid before the Legislative Council by Command of His Excellency the Governor. Registration of Domestic Servants. (No. 44, p. C655). Singapore: Government Printing Office. (Microfilm nos.: NL1107, NL1112)
+[^20]:Straits Settlements. Legislative Council. *[Proceedings of the Legislative Council of the Straits Settlements for 1886](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201042621)* (1886, November 23). Papers laid before the Legislative Council by Command of His Excellency the Governor. Registration of Domestic Servants. (No. 44, p. C655). Singapore: Government Printing Office. (Microfilm nos.: NL1107, NL1112)
 
-[^21]:Straits Settlements. Straits Settlements Government Gazette. (1887, January 7). The Domestic Servants Ordinance 1886 (Ord. XXIII of 1886, pp. 11–14). Singapore: Government Printing Office. (Call no.: RRARE 959.51 SGSS; Microfilm no.: NL1016)
+[^21]:Straits Settlements. *[Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)*. (1887, January 7). The Domestic Servants Ordinance 1886 (Ord. XXIII of 1886, pp. 11–14). Singapore: Government Printing Office. (Call no.: RRARE 959.51 SGSS; Microfilm no.: NL1016)
 
-[^22]: Straits Settlements Government Gazette, 7 Jan 1887, Ord. XXIII of 1886, pp. 11–14.
+[^22]:*[Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)*, 7 Jan 1887, Ord. XXIII of 1886, pp. 11–14.
  
-[^23]:Song, O.S. (1923). One hundred years’ history of the Chinese in Singapore (pp. 238–239, 482). London: John Murray. Retrieved from BookSG.
+[^23]:Song, O.S. (1923). *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx?s=One%20hundred%20years%20history%20of%20the%20Chinese%20in%20Singapore)* (pp. 238–239, 482). London: John Murray. Retrieved from BookSG.
 
-[^24]:Registration of domestic servants. (1912, July 25). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 31. Retrieved from NewspaperSG. 
+[^24]:[Registration of domestic servants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120725-1.2.13.aspx). (1912, July 25). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 31. Retrieved from NewspaperSG. 
 
-[^25]:Tuesday, July 23, 1912. (1912, July 23). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 6. Retrieved from NewspaperSG. 
+[^25]:[Tuesday, July 23, 1912](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120723-1.2.27.aspx). (1912, July 23). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 6. Retrieved from NewspaperSG. 
 
-[^26]:The servant problem. (1905, April 19). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 3. Retrieved from NewspaperSG. 
+[^26]:[The servant problem](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19050419-1.2.8.aspx). (1905, April 19). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 3. Retrieved from NewspaperSG. 
 
-[^27]:Song, 1923, p. 482; Servants’ registration. (1914, March 19). The Straits Times, p. 8. Retrieved from NewspaperSG 
+[^27]:[Song](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx?s=One%20hundred%20years%20history%20of%20the%20Chinese%20in%20Singapore), 1923, p. 482; [Servants’ registration](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19140319-1.2.22.aspx). (1914, March 19). *The Straits Times*, p. 8. Retrieved from NewspaperSG 
 
-[^28]:The Singapore Free Press and Mercantile Advertiser, 25 Apr 1933, p. 1. 
+[^28]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330425-1.2.4.aspx)*, 25 Apr 1933, p. 1. 
 
-[^29]:The world of women. (1935, September 19). The Straits Times, p. 18. Retrieved from NewspaperSG. 
+[^29]:[The world of women](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350919-1.2.163.aspx). (1935, September 19). *The Straits Times*, p. 18. Retrieved from NewspaperSG. 
 
  [^30]:Wood, M. (1929). *[Malay for mems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981818)* (pp. 5, 7, 10, 12, 14, 21). Singapore: Kelly and Walsh. (Call no.: RRARE 499.18 WOO; Microfilm no.: NL9824)
  
