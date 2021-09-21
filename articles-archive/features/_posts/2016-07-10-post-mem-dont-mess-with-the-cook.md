@@ -221,9 +221,9 @@ Despite the presence of servants, the setting up and running of a home in the co
 
 [^35]:Kinsey, W.E. (1929). The “mems” own cookery book (p. 3). Singapore: Kelly and Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.:  NL9852)
 
-[^36]:The literary page – New books reviewed. (1930, January 31). The Straits Times, p. 17. Retrieved from NewspaperSG. 
+[^36]:[The literary page – New books reviewed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300131-1.2.105.aspx). (1930, January 31). *The Straits Times*, p. 17. Retrieved from NewspaperSG. 
 
-[^37]:Savage-Bailey, K. (1935, August 1). An old resident on Malayan cookery. The Straits Times, p. 22. Retrieved from NewspaperSG. 
+[^37]:Savage-Bailey, K. (1935, August 1). [An old resident on Malayan cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350801-1.2.171.aspx). *The Straits Times*, p. 22. Retrieved from NewspaperSG. 
 
 [^38]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350919-1.2.163.aspx)*, 19 Sep 1935, p. 18.
 
