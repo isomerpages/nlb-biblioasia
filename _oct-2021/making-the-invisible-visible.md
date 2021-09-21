@@ -69,7 +69,7 @@ In addition to the technical aspects, Machado also had to ensure that the restor
 Machado’s first restoration piece was the statue of St Francis Xavier (1506–52), a task that took two weeks to complete. One of the seven original members of the Society of Jesus (also known as Jesuits), St Francis Xavier is remembered for his missionary work in establishing Christianity in Asia, the Malay Archipelago and Japan. Based in Melaka for several months in 1545, St Francis Xavier was informed that he had been appointed provincial of the “Indies and the countries beyond” while he was in Singapore at the end of 1551.[^8]
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/St%20Joseph.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/St%20Joseph2.jpg)
 <div style="background-color: white;">Restoring the statue of Francis Xavier took two weeks. The original statue (left) was dirty, jaundiced, with a flat facial expression, and full of cracks and abrasions. After restoration (right), the original porcelain white surplice (or tunic) with clear detailing and patterning can be clearly seen, while the dark-purple stole was restored to its original hue of lustrous, rich gold. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
@@ -128,7 +128,7 @@ Unfortunately, the old paint job had given the statue a flat and lifeless appear
 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/St%20Agnes.jpg)
-<div style="background-color: white;">Before restoration, the statue of St Agnes of Rome (below) had a flat and lifeless appearance. After the restoration (right), the patterned ivory white tunic and emerald green <i>palla</i> with an intricate gold motif can be seen. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
+<div style="background-color: white;">Before restoration, the statue of St Agnes of Rome (left) had a flat and lifeless appearance. After the restoration (right), the patterned ivory white tunic and emerald green <i>palla</i> with an intricate gold motif can be seen. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
 Machado’s other favourite statue is St Roch, a male saint canonised in the 16th century. Among other things, St Roch is a patron saint of dogs, invalids, the falsely accused and bachelors. Machado “love[d] all the decorative elements of its clothing” and being an animal lover, the inclusion of a dog as part of the statue delighted her. She felt that it was “one of the most beautiful of the male [statues]” she had restored.[^12]
