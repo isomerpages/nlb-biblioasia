@@ -45,7 +45,7 @@ Here is a glimpse of exhibition catalogues and collaterals – published between
 |<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections4.JPG"><b>Karya Seni 25 (1988)</b><br> 
 In celebration of the 25th anniversary of APAD, this souvenir catalogue showcases a selection of exhibited artworks and their creators. The front cover features the artwork “Searching for Peace” by Sujak Rahman. He is regarded as one of the finest batik painters in Singapore and is known for his “Mother & Child” series of artworks. Also known in Japan, Sujak won the first prize at the Hokkaido International Cultural Exchange Award (1986) and had his works exhibited in Japan from 1984 to 1988. Apart from batik, Sujak also works with other medium such as acrylic and oil.
 
-|<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections5.JPG"><b>Introspection (1991)</b><br> 
+|<img style="width: 700px; height: 350px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections5.JPG"><b>Introspection (1991)</b><br> 
 This is a catalogue of Sarkasi Said’s (Tzee) solo exhibition “Introspection”, held at the National Museum Art Gallery, Singapore, in 1991. As a batik painter, Tzee is well known for his works on silk that use mixed-media, acrylic and dye. The catalogue includes an introduction by art historian, T. K. Sabapathy.
 
 |<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections6.JPG"><b>Malay Artists Singapore (1995)</b><br> 
