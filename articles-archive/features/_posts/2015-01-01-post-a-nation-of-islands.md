@@ -60,7 +60,7 @@ Students from the St John's Island English School take a group photograph with t
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/SoccerBoys_re.jpg">
+<img src="/images/vol-10-issue-4/nationofisland/SoccerBoys_res.jpg">
 The St John's Island English School football team stand in front of the building where they once studied. This team went on to win the 1972 National Schools football tournament, led by their coach and teacher Choo Huay Kim (standing, far right). <i>Photo by Edwin Koo.</i>
 </div>
 
