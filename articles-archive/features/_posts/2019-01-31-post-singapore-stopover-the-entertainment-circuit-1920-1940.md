@@ -13,7 +13,7 @@ Most people are familiar with the idea of Singapore as a major transportation an
 
 Less familiar, perhaps, is the notion of Singapore as a key nexus in the regional and global entertainment circuit, not only for the performing arts – dance, theatre and variety shows – but also for popular commercial sports such as boxing.
 
-<img style="width: 600px; height: 350px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover2.JPG">
+<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover2.JPG">
 <div style="background-color: white;">In the 1930s, Singapore was known as the mecca of boxing in Asia, with most of the bouts taking place at the Happy World amusement park in Geylang. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 The island-city’s role as the one-time regional centre of the thriving entertainment industry can be attributed to two factors: first, its position as a multicultural centre with a sizeable European population homesick for Western-style entertainment and sport (and which also enjoyed patronage by some local residents); and second, its geographic location which made it the ideal stopover for entertainers and sportsmen travelling from Europe and heading to China, Australia, Japan and other points east of Singapore, and, in the case of boxers, Australians especially who stopped here en route to bigger and more profitable matches in Europe.
