@@ -81,7 +81,7 @@ The Midnight Frolics were, like The Globe Trotters, a motley crew of entertainer
 
 In January 1928, Joe Farren began organising his own revues in Singapore with a touring American bandleader named Ralph Stone, who later, back in the United States, would include the song “A Little Street in Singapore” in his repertoire. The venue was once again the Victoria Theatre, where their names appeared in a newspaper advertisement as a “Company of Well-known Continental Revue Artists”, billing each of their two-night shows as “Nights of Gladness” and “Dancing Mad” respectively.[^9]
 
-The troupe also staged cabaret shows at the Adelphi Hotel10 – which used to stand on the corner of Coleman Street and North Bridge Road – in January and February 1928, this time calling themselves The Midnight Frolics. At the Adelphi they offered a nightly “Cabaret Dinner and Dance” for $3.50.[^11]
+The troupe also staged cabaret shows at the Adelphi Hotel[^10] – which used to stand on the corner of Coleman Street and North Bridge Road – in January and February 1928, this time calling themselves The Midnight Frolics. At the Adelphi they offered a nightly “Cabaret Dinner and Dance” for $3.50.[^11]
 
 <img src="/images/Vol-14-issue-4/singapore-stopover/Stopover6.JPG">
 <div style="background-color: white;">An advertisement for The Midnight Frolics starring Joe and Nellie Farren. The troupe performed at the Adelphi Hotel in Singapore in January and February 1928. <i>Image reproduced from The Singapore Free Press and Mercantile Advertiser, 2 February 1928, p. 1.</i></div>
@@ -155,10 +155,3 @@ Singapore has traditionally been thought of in terms of hard trade, an entrepôt
 [^13]:[Page 16 advertisements column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380519-1.2.116.1). (1938, May 19). *The Singapore Free Press and Mercantile Advertiser*, p. 16; [Shelaeff wins in first minute of first round](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380521-1.2.109). (1938, May 21). *The Singapore Free Press and Mercantile Advertiser*. p. 16; [Boxing notes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380626-1.2.252). (1938, June 26). *The Straits Times*, p. 31; [In this corner boxing notes by “spectator”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19380821-1.2.113). (1938, August 21). *The Sunday Tribune*, p. 20. Retrieved from NewspaperSG.
 [^14]:[Boxing attraction at Happy World](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380510-1.2.114). (1938, May 10). *The Malaya Tribune*, p. 14. Retrieved from NewspaperSG. 
 [^15]: [Rocky Montanes, who meets Joe Diamond at the New World next Friday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19351204-1.2.125). (1935, December 4). *The Malaya Tribune*, p. 17; [Boxing day boxing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361215-1.2.135). (1936, December 15). *The Straits Times*, p. 7; [Around the boxing camps](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19370425-1.2.107). (1937, April 25). *The Sunday Tribune*, p. 20. Retrieved from NewspaperSG.
-
-
-
-
-
- 
-
