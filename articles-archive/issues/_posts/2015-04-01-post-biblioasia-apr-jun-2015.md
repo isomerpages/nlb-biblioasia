@@ -4,12 +4,11 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/
 layout: post
 ---
-
 <img src="/images/vol-11-issue-1/background/cover.jpg">
 
 [<b>Director's Note</b>](/vol-11/issue-1/apr-jun-2015/director-note)
 
-[<b>My Leap into Movies</b>](/vol-11/issue-1/apr-jun-2015/leap-into-movie)<br>
+[<b>My Leap into Movies</b>](/vol-11/issue-1/apr-jun-2015/leap-into-movie)<br>Theatre thespian and film director **Glen Goei** reflects on his transition from the stage to cinema screen.
 
 
 [<b>From Tents to Picture Palaces: Early Singapore Cinema</b>](/vol-11/issue-1/apr-jun-2015/early-sg-cinema)<br>Few people are aware that Singapore’s cinema history dates back to as early as 1896. **Bonny Tan** traces its development, from the days of the Magic Lantern projector to the first locally made films.
@@ -37,4 +36,3 @@ layout: post
 [<b>From The Director's Chair</b>](/vol-11/issue-1/apr-jun-2015/director-chair)<br>In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival.
 
 [<b>Life Stories</b>](/vol-11/issue-1/apr-jun-2015/life-stories)<br>The Singapore Memory Project launches a new exhibition to honour our pioneer generation at Woodlands Regional Library.
-
