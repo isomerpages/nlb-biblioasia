@@ -45,7 +45,7 @@ Here is a glimpse of exhibition catalogues and collaterals – published between
 |<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections4.JPG"><b>Karya Seni 25 (1988)</b><br> 
 In celebration of the 25th anniversary of APAD, this souvenir catalogue showcases a selection of exhibited artworks and their creators. The front cover features the artwork “Searching for Peace” by Sujak Rahman. He is regarded as one of the finest batik painters in Singapore and is known for his “Mother & Child” series of artworks. Also known in Japan, Sujak won the first prize at the Hokkaido International Cultural Exchange Award (1986) and had his works exhibited in Japan from 1984 to 1988. Apart from batik, Sujak also works with other medium such as acrylic and oil.
 
-|<img style="width: 700px; height: 350px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections5.JPG"><b>Introspection (1991)</b><br> 
+|<img style="width: 700px; height: 320px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections5.JPG"><b>Introspection (1991)</b><br> 
 This is a catalogue of Sarkasi Said’s (Tzee) solo exhibition “Introspection”, held at the National Museum Art Gallery, Singapore, in 1991. As a batik painter, Tzee is well known for his works on silk that use mixed-media, acrylic and dye. The catalogue includes an introduction by art historian, T. K. Sabapathy.
 
 |<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections6.JPG"><b>Malay Artists Singapore (1995)</b><br> 
@@ -56,15 +56,24 @@ N. Parameswaran, the organiser and curator of this exhibition held at Galeri Pet
 
 |**ABDUL GHANI ABDUL HAMID: THE MAN AND HIS ART**
 
-Abdul Ghani Abdul Hamid (1933–2014) was a prolific and award-winning writer, poet and artist. Writing primarily in Malay, he penned hundreds of poems, short stories, essays, newspaper articles and plays in his lifetime. His series of abstract paintings, “Lalang”, were the most famous in his oeuvre.
+|Abdul Ghani Abdul Hamid (1933–2014) was a prolific and award-winning writer, poet and artist. Writing primarily in Malay, he penned hundreds of poems, short stories, essays, newspaper articles and plays in his lifetime. His series of abstract paintings, “Lalang”, were the most famous in his oeuvre.
 
-Abdul Ghani was an active member of the literary and visual arts scenes in Singapore. He was a founding member of Angkatan Pelukis Aneka Daya (APAD; Association of Artists of Various Resources) and served as its president between 1962 and 1983. He was also a member of the National Arts Council from 2000 to 2002 and the recipient of three prestigious literary awards: Anugerah Tan Seri Lanang (1998), Southeast Write Award for Malay Poetry (1998) and the Cultural Medallion (1999).
+|Abdul Ghani was an active member of the literary and visual arts scenes in Singapore. He was a founding member of Angkatan Pelukis Aneka Daya (APAD; Association of Artists of Various Resources) and served as its president between 1962 and 1983. He was also a member of the National Arts Council from 2000 to 2002 and the recipient of three prestigious literary awards: Anugerah Tan Seri Lanang (1998), Southeast Write Award for Malay Poetry (1998) and the Cultural Medallion (1999).
 
-The Abdul Ghani Abdul Hamid Collection at the National Library comprises letters and literary manuscripts as well as publications and ephemera related to the visual and literary arts. Included in the collection are letters and notes that document Abdul Ghani’s involvement with art associations, exhibitions and various events in Singapore.
+|The Abdul Ghani Abdul Hamid Collection at the National Library comprises letters and literary manuscripts as well as publications and ephemera related to the visual and literary arts. Included in the collection are letters and notes that document Abdul Ghani’s involvement with art associations, exhibitions and various events in Singapore.
 
-Catalogued by subject matter and time period, the collection provides rich insights into the development of the Malay visual arts scene in Singapore.
+|Catalogued by subject matter and time period, the collection provides rich insights into the development of the Malay visual arts scene in Singapore.
 
 |<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/creative-collectives/image.JPG">Portrait of Abdul Ghani Abdul Hamid. All rights reserved, Eric Foo Chee Meng 1979–2001. <i>Courtesy of National Arts Council.</i>
+
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollectives7.JPG" style="width: 100px; height: 100px;">
+<b></b>
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
 
 #### **References**
 
