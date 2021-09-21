@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/movingjourney/_OXY9173_1.jpg">
+<img src="/images/vol-11-issue-1/movingjourney/OXY9173.jpg">
 </div>
 
 In 2005, I was introduced to a soft-spoken but tenacious young man who had singlehandedly established the Asian Film Archive (AFA) in Singapore. What drew me to Tan Bee Thiam’s project was his vision: to set up a Pan-Asian institution that aspired to provide a repository for all Asian films – many of which had yet to be archived in their own countries. Partly curious as to how this not-for-profit, independent organisation would survive, and partly enthused by the prospect of contributing towards the maintenance, preservation, restoration and curation of archival films, I set aside my practical and less than adventurous nature and took the plunge – joining the AFA as an archivist in 2006, assuming the role of acting director in 2010 and subsequently taking over the reins as executive director in 2014. As the AFA celebrates its 10th anniversary this year, I take a look back on a journey that has been both challenging and exhilarating by turns. 
