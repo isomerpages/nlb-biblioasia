@@ -135,7 +135,7 @@ Critics may characterise – or caricature – HDB life as compartmentalised, em
 	<b>Yu-Mei Balasingamchow</b> is the co-author of <i>Singapore: A Biography</i> (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is [www.toomanythoughts.org](https://www.toomanythoughts.org).
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
 #### **References**
 
