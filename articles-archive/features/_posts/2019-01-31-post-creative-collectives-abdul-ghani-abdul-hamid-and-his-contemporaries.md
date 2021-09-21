@@ -78,26 +78,21 @@ Syed Muhd Hafiz. (2012). Semangat APAD: The pioneering generation. In. [*Our pio
 [^3]:Ahmad Mashadi. (1995). The study of Singapore Malay art. Some issues and problems. In [*Malay artists Singapore: An exhibition*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7474792) (n.p.). Kuala Lumpur: N. Parameswaran. (Call no.: RCLOS 759.95957 MAL)
 [^4]:Abdul Ghani Hamid. (1990). [*Kegiatan kolektif pelukis-pelukis Melayu*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5676203) (p. 2). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: Malay RSING 759.95957 ABD); Abdul Ghani Hamid. (1991). [*An artist’s note*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6250409) (pp. 7–8). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RSING 759.9597 ABD); [Paintings of Nadra on show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510212-1.2.82). (1951, February 12). *The Straits Times*, p. 5; [Malay art society plans show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510202-1.2.136). (1951, February 2). *The Straits Times*, p. 8. Retrieved from NewspaperSG. 
 [^5]:The Maria Hertogh riots took place in Singapore in December 1950 when the court ruled that 13-year-old Dutch teenager Maria, who had been raised by her adoptive Muslim parents, should be returned to her Catholic biological parents.
-[^6]:
-[^7]
-[^8]:
-[^9]:
-[^10]:
-[^11]:
-[^12]:
+[^6]:Mohd Raman Daud. (2013). Artist’s sketches: The Malay fine art movement in postwar Singapore (Syed Muhd Hafiz, Trans). In [*Moving on: An art exhibition of small works by member of APAD, 3–10 October 2013*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201188012) (p. 11) Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RSING 709.5957 MOV) 
+[^7]:Abdul Ghani Hamid. (1960). [*Sa-kilas pandang seni lukis dan perkembangannya*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079209) (p. 65). Singapore: Pustaka Melayu. (Call no.: Malay RSING 750 ABD) 
+[^8]:S. Magiar Simen. (1961, November 5). [Pelukis muda (modern arts ta’ sa-suai) akan ka Tokyo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19611105-1.2.35). *Berita Harian*, p. 6; Iryani Jayadi. (1960, June 2). [Tunas selukis ’60](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19600602-1.2.41). *Berita Harian*, p. 4; Panorama. (1961, May 1). [Mengapa pergolakan tanah ayer tidak di-abadikan?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19610501-1.2.41) *Berita Harian*, p. 4. Retrieved from NewspaperSG.
+[^9]:Abdul Ghani Hamid. (2002, January 10). [Renungan masa silam bantu kita lebih memahami diri kita hari ini](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20020110-1.2.23.2). *Berita Harian*, p. 11. Retrieved from NewspaperSG. 
+[^10]:Angkatan Pelukis Aneka Daya. (1997). [*Karya seni 35: Art 35*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200892108) (n.p.). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RART 759.95957 KAR) 
+[^11]:Lembaga Tetap Kongres (Singapura). (1968). [*LTK menganjorkan pesta budaya LTK ’68 = LTK cultural festival ’68 dan pameran lukisan*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12606615) (n.p.). Singapore: Lembaga Tetap Kongres. (Call no.: Malay RCLOS 394.26959 LTK-[CUS])
+[^12]:[Syed Muhd Hafiz](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201188012), 2013, p. 12; [Abdul Ghani Hamid](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7474792), 1995, n.p.
 [^13]:
 [^14]:
 [^15]:
 [^16]:
 
- 
-Mohd Raman Daud. (2013). Artist’s sketches: The Malay fine art movement in postwar Singapore (Syed Muhd Hafiz, Trans). In Moving on: An art exhibition of small works by member of APAD, 3–10 October 2013 (p. 11) Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RSING 709.5957 MOV) 
-Abdul Ghani Hamid. (1960). Sa-kilas pandang seni lukis dan perkembangannya (p. 65). Singapore: Pustaka Melayu. (Call no.: Malay RSING 750 ABD) 
-S. Magiar Simen. (1961, November 5). Pelukis muda (modern arts ta’ sa-suai) akan ka Tokyo. Berita Harian, p. 6; Iryani Jayadi. (1960, June 2). Tunas selukis ’60. Berita Harian, p. 4; Panorama. (1961, May 1). Mengapa pergolakan tanah ayer tidak di-abadikan? Berita Harian, p. 4. Retrieved from NewspaperSG.
-Abdul Ghani Hamid. (2002, January 10). Renungan masa silam bantu kita lebih memahami diri kita hari ini. Berita Harian, p. 11. Retrieved from NewspaperSG. 
-Angkatan Pelukis Aneka Daya. (1997). Karya seni 35: Art 35 (n.p.). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RART 759.95957 KAR) 
-Lembaga Tetap Kongres (Singapura). (1968). LTK menganjorkan pesta budaya LTK ’68 = LTK cultural festival ’68 dan pameran lukisan (n.p.). Singapore: Lembaga Tetap Kongres. (Call no.: Malay RCLOS 394.26959 LTK-[CUS])
-Syed Muhd Hafiz, 2013, p. 12; Abdul Ghani Hamid, 1995, n.p.
+
+
+
 Angkatan Pelukis Aneka Daya. (1981). Activities in brief. In Contemporary ’81 (n.p.). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RCLOS 759.95957 CON); Angkatan Pelukis Aneka Daya, 1997 (n.p.); Syed Muhd Hafiz bin Syed Nasir. (2016). Visual arts development within the Malay community (p. 502). In Majulah!: 50 years of Malay/Muslim community in Singapore, (pp. 499–515). Singapore: World Scientific. (Call no.: RSING 305.697095957 MAJ)
 Angkatan Pelukis Aneka Daya. (1964.). Kelas lukis [booklet]. Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RCLOS EPHE 028 V1.5) 
 C. Mahat. (1949). Buku petua melukis: Penggal pertama (pp. 9, 12, 36, 39–40). Singapore: Suluh Pengetahuan. (Call no.: Malay RCLOS 741.2 MAH); Syed Muhd Hafiz, 2012, pp. 5–6. 
