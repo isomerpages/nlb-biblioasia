@@ -6,6 +6,11 @@ layout: post
 ---
 #### Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things, **Dr John van Wyhe** addresses the misconception that Darwin cheated Wallace of his rightful place in history. 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/darwinandwallace/darwin.jpg">
+Photograph of Charles Darwin, 1854.
+</div>
 
 <i>This article is based on the talk “Darwin and Wallace” given by Dr John van Wyhe as part of the National Library's Prominent Speaker Series. Held on 31 July 2014 at the National Library Building, the talk was based on two of Dr van Wyhe’s recent books:</i> Charles Darwin in Cambridge: The Most Joyful Years <i>and</i> Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin. 
 
@@ -15,11 +20,7 @@ Many believe that Wallace has been overlooked and denied his rightful fame for h
 
 Charles Darwin (1809—1882) is one of the most intensely studied scientists in history, and has been for over a century. But one area of his life that has remained comparatively unexamined is his formative years as a student at the University of Cambridge. For the rest of his life Darwin held a particular affection for Cambridge. For a time he even considered a Cambridge professorship as a career. He later sent three of his sons there to be educated. Yet, the traces of what Darwin actually did and experienced as a student in Cambridge have remained undiscovered, and the details of his day-to-day life there are either largely unknown or misunderstood. 
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-4/darwinandwallace/darwin.jpg">
-Photograph of Charles Darwin, 1854.
-</div>
+
 
 ##### **Darwin in Cambridge** 
 
