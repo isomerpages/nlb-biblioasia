@@ -217,9 +217,9 @@ Despite the presence of servants, the setting up and running of a home in the co
 
 [^33]:Housekeeping in Malaya. (1926, July 2). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 4. Retrieved from NewspaperSG. 
 
-[^34]:Our domestic servants. (1891, August 4). Straits Times Weekly Issue, p. 10. Retrieved from NewspaperSG. 
+[^34]:[Our domestic servants](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18910804-1.2.59.aspx). (1891, August 4). *Straits Times Weekly Issue*, p. 10. Retrieved from NewspaperSG. 
 
-[^35]:Kinsey, W.E. (1929). The “mems” own cookery book (p. 3). Singapore: Kelly and Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.:  NL9852)
+[^35]:Kinsey, W.E. (1929). *[The “mems” own cookery book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525)* (p. 3). Singapore: Kelly and Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.:  NL9852)
 
 [^36]:[The literary page – New books reviewed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300131-1.2.105.aspx). (1930, January 31). *The Straits Times*, p. 17. Retrieved from NewspaperSG. 
 
