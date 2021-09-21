@@ -6,7 +6,7 @@ layout: post
 ---
 #### The city was a major pit stop for visiting entertainers and sportsmen in the early 20th century, according to the writer **Paul French**.
 
-<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover1.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover1.JPG">
 <div style="background-color: white;">Farren’s Follies performing in Shanghai, 1934. The revue was formed by husband and wife, Joe and Nellie Farren. <i>Courtesy of Vera Loewer.</i></div>
 
 Most people are familiar with the idea of Singapore as a major transportation and shipping hub. There is no lack of historical documents that point to its role as an entrepôt that facilitated trade between the East and West for centuries past.
