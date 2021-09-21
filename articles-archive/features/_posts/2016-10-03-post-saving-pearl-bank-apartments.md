@@ -6,8 +6,7 @@ layout: post
 ---
 #### Architectural conservation or real estate investment? **Justin Zhuang** ponders over the fate of a 1970s style icon that has seen better times.
 
-<div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/01-savingpearlbank.jpg">(Left) Tan Cheng Siong, the original architect of Pearl Bank, has come up with a conservation plan that entails demolishing part of the existing five-storey carpark and building a new block of 150 apartments. <i>Courtesy of Archurban Architects Planners.</i></div>
-<div style="background-color: white;">(Right) Pearl Bank was advertised as the “tallest apartment block in Southeast Asia” in the April 1976 issue of <i>Building Materials & Equipment Southeast Asia</i> magazine. On sale were penthouses as well as 2-, 3- and 4-bedroom apartments.</div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/02-savingpearlbank.jpg">A dramatic view from a penthouse on the 38th floor of Pearl Bank apartments. This iconic block, completed in 1976, was the tallest apartment building in Singapore at the time. <i>Photo by Justin Zhuang.</i></div>
 
 A 27-storey “green tower” of residences may one day rise up at the edge of Singapore’s historic Chinatown. It will boast the Outram Park MRT station at its doorstep and Pearl’s Hill City Park as its backyard. There will even be an infinity pool and a rooftop garden. But none of these will rival the most attractive aspect of this new development if it ever comes to pass: securing the future of the Pearl Bank apartments and giving it a fresh lease of life.
 
@@ -23,7 +22,7 @@ Given its failed en-bloc sales attempts, Tan came up with a radical idea to secu
 
 The result would be a modern appendage to his modernist marvel – a concrete materialisation of how architecture, property and conservation intersect in Singapore. “We thought this conservation [proposal] would be a binding force because it would bring them an extension of lease, [and] … a new building,” says Tan.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/02-savingpearlbank.jpg">A dramatic view from a penthouse on the 38th floor of Pearl Bank apartments. This iconic block, completed in 1976, was the tallest apartment building in Singapore at the time. <i>Photo by Justin Zhuang.</i></div>
+<div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/01-savingpearlbank.jpg">Tan Cheng Siong, the original architect of Pearl Bank, has come up with a conservation plan that entails demolishing part of the existing five-storey carpark and building a new block of 150 apartments. <i>Courtesy of Archurban Architects Planners.</i></div>
 
 #### **Rise of an Architectural Icon**
 
@@ -44,6 +43,8 @@ The building’s cost of $14 million dollars led the developer to reduce its lan
 #### **When Architecture Becomes Property**
 
 To realise Pearl Bank in the shortest time possible, builders Sin Hup Huat employed the relatively new slip-form construction method on a residential development for the first time in Singapore. Instead of building one level at a time with a wooden formwork and waiting over a week for the concrete to dry before proceeding – a method known as “cast in-situ” – Pearl Bank’s vertical walls were constructed by pouring concrete into a mould that was raised inch by inch as the bottom was partially set. As a result, “the vertical elements went up so fast that the horizontal elements, notably the in-situ split floors and staircases, experienced a hard time trying to catch up,” explained *Building Materials & Equipment* magazine in 1976.[^6]
+
+<div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/01-savingpearlbank.jpg">Pearl Bank was advertised as the “tallest apartment block in Southeast Asia” in the April 1976 issue of <i>Building Materials & Equipment Southeast Asia</i> magazine. On sale were penthouses as well as 2-, 3- and 4-bedroom apartments.</div>
 
 Despite this, Pearl Bank was completed one-and-a-half years behind schedule. After piling started in mid-1970, progress was slowed by material and labour shortages due to a property boom in Singapore.[^7] “[S]ince June 1970, every 10 days has brought an announcement of a new property development project,” reported the *New Nation* in April 1971.[^8] Shenton Way came into the scene with the 50-storey DBS Building leading the way, mega mixed-used buildings like Woh Hup Centre (now Golden Mile Complex) introduced the idea of work, live and play in a single development (today the template for property development) and Singaporeans upgraded to the high life as condominiums like the luxury Beverly Mai, the cutting-edge Futura as well as Pearl Bank redefined apartment towers as the new type of middle- and upper-class housing.[^9]
 
