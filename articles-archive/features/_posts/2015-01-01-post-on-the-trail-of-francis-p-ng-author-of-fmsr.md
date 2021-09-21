@@ -157,8 +157,6 @@ With this news, my laborious and slightly futile one-year search suddenly took o
 Teo Poh Leng listed as missing in <i>The Register of Graduates</i> (1968) belonging to the University of Malaya’s King Edward VII College of Medicine and Raffles College.
 </div>
 
-<br/>
-
 |<i>If the name Teo Poh Leng is even remotely familiar to you, please contact the author of this article at eriko.ogiharaf@udo.edu </i>|
 
 |<i>The National Library Board, Singapore holds two copies of </i> F.M.S.R.<i> which are kept at the Lee Kong Chian Reference Library on level 11 of the National Library. A microfilm copy shelved at NL 16347 is available for reference. Note: only four other libraries in the world hold copies of this book. </i>|
