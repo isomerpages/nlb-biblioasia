@@ -15,8 +15,11 @@ Many believe that Wallace has been overlooked and denied his rightful fame for h
 
 Charles Darwin (1809—1882) is one of the most intensely studied scientists in history, and has been for over a century. But one area of his life that has remained comparatively unexamined is his formative years as a student at the University of Cambridge. For the rest of his life Darwin held a particular affection for Cambridge. For a time he even considered a Cambridge professorship as a career. He later sent three of his sons there to be educated. Yet, the traces of what Darwin actually did and experienced as a student in Cambridge have remained undiscovered, and the details of his day-to-day life there are either largely unknown or misunderstood. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/darwin.jpg)
-<div style="background-color: white;">Photograph of Charles Darwin, 1854.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/darwinandwallace/darwin.jpg">
+Photograph of Charles Darwin, 1854.
+</div>
 
 ##### **Darwin in Cambridge** 
 
@@ -40,14 +43,23 @@ Darwin’s interests in science became a lifelong passion. He read the scientifi
 
 Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, from whom Darwin learned a great deal about scientific method. The two became such good friends that college dons who had not met Darwin referred to him as “the man who walks with Henslow.”[^5] Darwin also studied other branches of natural science in his own time as the university then offered little instruction in science. He eventually learned the basics of a wide range of current fields. In 1831, he successfully completed his exam to gain his B.A. degree. Darwin later recalled, “Upon the whole, the three years I spent at Cambridge were the most joyful of my happy life.”[^6] It was Henslow who would shortly thereafter recommend Darwin for the post of naturalist on HMS <i>Beagle</i> on a voyage around the world.[^7] The rest, as they say, is history. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/cambridge_graduate.jpg)
-<div style="background-color: white;">A Cambridge graduate in the 1820s sporting the latest fashion – trousers (instead of knee breeches).</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/darwinandwallace/cambridge_graduate.jpg">
+A Cambridge graduate in the 1820s sporting the latest fashion – trousers (instead of knee breeches).
+</div>
 	
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Christs_Ackermann_re.jpg)
-<div style="background-color: white;">Christ's College, Cambridge, where Darwin spent his undergraduate years. </div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/darwinandwallace/Christs_Ackermann_re.jpg">
+Christ's College, Cambridge, where Darwin spent his undergraduate years.
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Darwin_room.jpg)
-<div style="background-color: white;">Restoration of Darwin's room at Christ's College was completed in 2009. He lived here from 1828–1831.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/darwinandwallace/Darwin_room.jpg">
+Restoration of Darwin's room at Christ's College was completed in 2009. He lived here from 1828–1831.
+</div>
 
 
 ##### **In Search of the Historical Wallace** 
@@ -64,8 +76,11 @@ If Wallace's name is familiar at all to the average reader today, it is usually 
 
 A candid investigation of the original historical sources from Wallace's time differs strikingly from the modern picture of Wallace as the “hero-on-a-quest but cheated in the end.” <i>Dispelling the Darkness</i> is an attempt to reveal the historical Wallace as he lived and worked in his original time and context. Based on the most intensive research programme ever undertaken on Wallace in Southeast Asia, the real Wallace and his story turns out to be very different from the heroic version bandied about in recent years. In short, everything you have heard about Wallace is probably wrong. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/alfred_re.jpg)
-<div style="background-color: white;">Alfred Russel Wallace in Singapore in 1862. Merchant, James ed. 1916. <i>Alfred Ruessel Wallace Letters and Reminiscences.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/darwinandwallace/alfred_re.jpg">
+Alfred Russel Wallace in Singapore in 1862. Merchant, James ed. 1916. <i>Alfred Ruessel Wallace Letters and Reminiscences.</i>
+</div>
 
 ##### **What Really Happened in the Archipelago?** 
 
@@ -75,8 +90,11 @@ Undaunted, Wallace prepared for another collecting expedition, this time to the 
 
 Over the next eight years Wallace made dozens of expeditions. His voyage correspondence was recently published, which together with his illuminating book <i>The Malay Archipelago</i> (1869), paints a rich picture of the peoples and nature of the 1850s and 1860s.[^9] Ultimately Wallace's collection totalled 125,660 specimens of insects, birds, shells and mammals. In inflated versions of the story, Wallace painstakingly collected all of these specimens himself. But recent historical research has revealed that Wallace employed more than 30 fulltime assistants to aid him in his task, one of whom, Charles Allen and his own assistants, collected about 40,000 specimens.[^10] Altogether, Wallace's assistants, particularly a Malay lad named Ali from Sarawak, probably collected more than half of the total number. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/wallace_assistant_re.jpg)
-<div style="background-color: white;"><i>Wallace's faithful Malay assistant Ali.</i> </div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/darwinandwallace/wallace_assistant_re.jpg">
+<i>Wallace's faithful Malay assistant Ali.</i> 
+</div>
 
 In 1855, while staying in Sarawak, Wallace wrote his first theoretical paper on species: “On the law which has regulated the introduction of new species.” In heroic accounts of Wallace, the paper is represented as if it was the first to have outlined the modern theory of evolution minus only the “mechanism” of natural selection. 
 
@@ -90,8 +108,11 @@ In 1856, Wallace began to realise that in the west of the Malay Archipelago the 
 
 In 1858, Wallace was living on the tiny volcanic island of Ternate, one of the fabled Spice Islands of Indonesia, just west of New Guinea. He had come to procure the rare and beautiful Birds of Paradise that live only in and around New Guinea. It was on Ternate that Wallace conceived an explanation as to how species come to be adapted to their environments.[^11] This was a radical departure from his previous thinking. He had never looked for an explanation for adaptation before. Indeed he thought that traditional ideas of species adaptation smacked of shallow and old-fashioned thinking. So what made him change his mind? 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Red_bird_paradise_re.jpg)
-<div style="background-color: white;">The Red Bird of Paradise of New Guinea. This was what Wallace went to search for in 1858 in Ternate, Indonesia. </div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/darwinandwallace/Red_bird_paradise_re.jpg">
+The Red Bird of Paradise of New Guinea. This was what Wallace went to search for in 1858 in Ternate, Indonesia. 
+</div>
 
 The heroic story of Wallace is based on his recollection of what happened many years later, and after he had read Darwin's <i>Origin of Species</i>. This is extremely problematic for two reasons. Firstly, retrospective accounts are not the same as contemporary evidence. Indeed, because historians have found recollections to be so inaccurate and untrustworthy, they are worth very little for understanding what a scientist was really doing many years before. Secondly, Wallace’s recollections are tainted by the fact that he had read Darwin and eventually his <i>Life and Letters</i> (1887). Therefore, Wallace's stories as an old man are not independent attestations. 
 
@@ -107,8 +128,11 @@ The following year, Darwin published a condensed version of his 20 years of work
 
 On his return to Britain in 1862, Wallace was no longer an obscure collector. He had become a well-known player in the scientific community. His reputation was forever linked with Darwin because of his own independent discovery. This no doubt helped the acceptance of Darwin’s book. Wallace was a great naturalist and a pioneer of the study of the biodiversity of Southeast Asia. He continues to inspire biologists and conservationists to this day. But he was not a dupe or a victim. Only proper historical method allows us to uncover the truth about the past and dispel the darkness of conspiracy theories or plain wishful thinking. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_re.jpg)
-<div style="background-color: white;"><i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. <i>Published by World Scientific Publishing Co., 2013.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_re.jpg">
+<i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. <i>Published by World Scientific Publishing Co., 2013.</i>
+</div>
 
 <p style="font-size:15px;"><b>Dr John van Wyhe</b> is a historian of science at the National University of Singapore who specialises in Darwin and Wallace. For several years a Bye-Fellow of Christ's College, Cambridge, he is also the Director of Darwin Online and Wallace Online and the author of 10 books and numerous articles on the history of science.</p>
 
