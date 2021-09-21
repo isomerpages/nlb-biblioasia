@@ -134,7 +134,7 @@ I feel very privileged to have met so many survivors and have had access to so m
 	<b>Fiona Hodgkins</b> (right), a history graduate whose professional life has revolved around history and education, spent 14 years in Singapore. Her research into Bahau arose from a personal quest and a passion for social history. From Syonan to Fuji-Go (2014), which chronicles her research, is her first book. Fiona is pictured here with Gwen Perry, a survivor of the Bahau settlement.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
 #### **References**
 
