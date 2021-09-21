@@ -134,7 +134,7 @@ maze of steel, concrete and glass high-rises. <i>Photo by Richard W. J. Koh.</i>
 	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide (2013)</i>; <i>Harmony and Development: ASEAN-China Relations (2009)</i> and <i>China’s New Social Policy: Initiatives for a Harmonious Society (2010)</i>. He is also a regular contributor to BiblioAsia.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 	
 #### **Notes**
 
