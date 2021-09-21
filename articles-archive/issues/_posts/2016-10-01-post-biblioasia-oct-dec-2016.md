@@ -14,7 +14,7 @@ The genius of Tan Swie Hian, the building of Pearl Bank Apartments, and the desi
 **[Baring Mind and Soul: Tan Swie Hian](/vol-12/issue-3/oct-dec-2016/baring-mind-soul)** <br>
 After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artist returns to the National Library with a new solo exhibition. *Chung Sang Hong* tells you more. [(PDF)](/files/pdf/vol-12/v12-issue3_BaringMind.pdf)
 
-**[悲悯人生 陈瑞献的文艺创作](/vol-12/issue-3/oct-dec-2016/tansiewhian-painting)** <br>
+**[悲悯人生: 陈瑞献的文艺创作](/vol-12/issue-3/oct-dec-2016/tansiewhian-painting)** <br>
 Tan Swie Hian, whose paintings have fetched record prices, was in fact better known for his literary prowess when he first emerged in the arts scene. *Jessie Yak* highlights some of his poems, short stories and fables. [(PDF)](/files/pdf/vol-12/v12-issue3_SwieHian.pdf)
 
 
@@ -24,7 +24,7 @@ Architectural conservation or real estate investment? *Justin Zhuang* ponders ov
 **[As Good As Gold: The Making of a Financial Centre](/vol-12/issue-3/oct-dec-2016/as-good-as-gold)** <br>
 Singapore’s Central Business District didn’t happen by accident. *Lim Tin Seng* recounts how a piece of prime land dubbed as “Golden Shoe” was transformed into a glittering financial hub. [(PDF)](/files/pdf/vol-12/v12-issue3_GoodGold.pdf)
 
-**[Soft Hands Nut Steely Hearts: Women and Their Art](/vol-12/issue-3/oct-dec-2016/softhands-steelyheart)** <br>
+**[Soft Hands But Steely Hearts: Women and Their Art](/vol-12/issue-3/oct-dec-2016/softhands-steelyheart)** <br>
 A coterie of women sculptors in Singapore has successfully redefined this once male-dominated art form. *Nadia Arianna Bte Ramli* tells us more. [(PDF)](/files/pdf/vol-12/v12-issue3_SoftHands.pdf)
 
 **[Public Housing, Private Lives](/vol-12/issue-3/oct-dec-2016/publichouse-pvtlives)** <br>
