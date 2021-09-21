@@ -248,7 +248,7 @@ The authors would like to acknowledge Wee Sheau Theng, Carolyn Lim, Soon-Tzu Spe
 	<b>Dr Yeo Kang Shua</b>  is an Assistant Professor at the Singapore University of Technology and Design, and holds the inaugural Hokkien Foundation Career Professorship in Architectural Conservation.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
 [^1]:Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore: (With portraits and illustrations) from the foundation of the settlement under the Honourable the East India Company, on February 6th, 1819, to the transfer of the Colonial Office as part of the colonial possessions of the Crown on April 1st, 1867](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=4470390)* (Vol. I, pp. 82–83). Singapore: Fraser & Neave Limited. Call no.: RRARE 959.57 BUC; Microfilm no.: NL 269
 [^2]:National Library Board. (2010) *[Former St Joseph’s Institution (Singapore Art Museum)](http://eresources.nlb.gov.sg/infopedia/articles/SIP16252009-12-31.html)* written by Tan, Bonny. Retrieved from Singapore Infopedia.
