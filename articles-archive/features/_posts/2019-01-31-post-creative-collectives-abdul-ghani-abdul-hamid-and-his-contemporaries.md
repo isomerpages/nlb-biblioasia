@@ -39,4 +39,8 @@ The second publication is Abdul Ghani Abdul Hamid’s *Sa-kilas Pandang Seni Luk
 Here is a glimpse of exhibition catalogues and collaterals – published between the 1960s and 90s – from the collection of the National Library.
 
 |<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections2.JPG"><b>Lukisan Anjuran Seksi Seni Lukis Lembaga Tetap Kongres (1961)</b><br>
-The souvenir publication of reportedly the largest-scale exhibition featuring Malay artists in Singapore held in April 1961. The event was organised by Lembaga Tetap Kongres Bahasa dan Kebudayaan Melayu (LTK; Permanent Board of Congress of Malay Language and Culture). The back cover features a poem by Abdul Ghani Abdul Hamid titled “Suara!” (Voice!).</i></div>
+The souvenir publication of reportedly the largest-scale exhibition featuring Malay artists in Singapore held in April 1961. The event was organised by Lembaga Tetap Kongres Bahasa dan Kebudayaan Melayu (LTK; Permanent Board of Congress of Malay Language and Culture). The back cover features a poem by Abdul Ghani Abdul Hamid titled “Suara!” (Voice!).
+
+|<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections3.JPG"><b>Contemporary ’81 (1981)</b><br>
+This is one of the many contemporary arts exhibitions organised by Angkatan Pelukis Aneka Daya (APAD; Association of Artists of Various Resources). The cover features a work by pioneering artist Ismail Muda (Ibrahim Bin Muda). The late artist also conducted art classes, including graphic art courses, introduced by APAD in the 1980s.
+
