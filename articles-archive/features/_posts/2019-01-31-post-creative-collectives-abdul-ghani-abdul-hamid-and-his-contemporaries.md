@@ -66,12 +66,10 @@ N. Parameswaran, the organiser and curator of this exhibition held at Galeri Pet
 
 |<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/creative-collectives/image.JPG">Portrait of Abdul Ghani Abdul Hamid. All rights reserved, Eric Foo Chee Meng 1979–2001. <i>Courtesy of National Arts Council.</i>
 
-
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollectives7.JPG" style="width: 100px; height: 100px;">
-<b></b>
-</div>
+<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections7.jpg" style="width: 100px; height: 100px;">
+<b>Nadia Arianna Ramli</b> is an Associate Librarian with the National Library, Singapore. She works with the library’s arts collections, with a special focus on literary and visual arts. Her research interests include Singapore literature and theatre studies.</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
 
