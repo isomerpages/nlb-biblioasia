@@ -16,7 +16,7 @@ layout: post
 
 关于自己的写作，陈瑞献曾经表示“我的文学作品……多反映现实的阴暗面，以及人类悲苦的命运”。[^4]  有评论说他“以悲天悯人的胸襟体验人生，因此，一朵花、一片叶、一滴水在他的心灵中都能扬起无限的神思与悲悯”。[^5]    他的中文文学创作种类丰富，各种体裁都乐意尝试，本文列举了其中三种：
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/tan-swie-han/Chinese-books.jpg">陈瑞献的寓言《护舞》描写一只松鼠为爱护落叶，仔细地在落叶之间跳跃以避免踩到它们，借此强调对万物的关怀与慈悲; 他也以此题材，绘就了上方的胶彩画《松鼠舞》。</div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/tan-swie-han/Chinese-books.jpg">(从左至右）陈的三部著作 《陈瑞献文集》、瑞献寓言》以及他的第一本诗集《巨人》。</div>
 
 #### **诗歌**
 
