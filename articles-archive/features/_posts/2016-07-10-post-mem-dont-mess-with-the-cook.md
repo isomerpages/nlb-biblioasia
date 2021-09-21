@@ -151,37 +151,37 @@ Despite the presence of servants, the setting up and running of a home in the co
 
 #### **Notes**
 
-[^1]:Pudding without eggs. (1907, February 22). The Straits Times, p. 7. Retrieved from NewspaperSG. 
+[^1]:[Pudding without eggs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070222-1.2.45). (1907, February 22). *The Straits Times*, p. 7. Retrieved from NewspaperSG. 
 
 [^2]:Literally translated as “Madame Boss”, the term  is of Anglo-Indian origin and was commonly used by servants and non-whites to address married or upper-class European women during colonial times. “Mem” is likely a corruption of “Madam” while “Sahib” was the term of respect used to address European men in colonial India.
 
-[^3]:Butcher, J.G. (1979). The British in Malaya 1880–1941: The social history of a European community in colonial South-East Asia (pp. 23–24, 134–135, 142). (Call no.: RSING 301.4512105951033 BUT)
+[^3]:Butcher, J.G. (1979). *[The British in Malaya 1880–1941: The social history of a European community in colonial South-East Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1901870)* (pp. 23–24, 134–135, 142). (Call no.: RSING 301.4512105951033 BUT)
 
-[^4]:The housewives of Malaya. (1933, April 25). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 1. Retrieved from NewspaperSG. 
+[^4]:[The housewives of Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330425-1.2.4.aspx). (1933, April 25). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 1. Retrieved from NewspaperSG. 
 
 [^5]:Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 189–190). In H. Callan & S. Ardener, S. (Eds.). The incorporated wife. London: Croon Helm. (Not available in NLB holdings)
 
-[^6]:Brownfoot, 1984, p. 196; George, R.M. (1994, Winter). Homes in the empire, empires in the home. Cultural Critique, 26, 95-127, p. 108. Retrieved from JSTOR via NLB’s eResources website.
+[^6]:Brownfoot, 1984, p. 196; George, R.M. (1994, Winter). Homes in the empire, empires in the home. *Cultural Critique*, 26, 95-127, p. 108. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^7]:Butcher, 1979, p. 142; Malayan Information Agency. (1932). British Malaya: General description of the country and life therein (pp. 28–29). London: The Agency. (Call no.: RCLOS 959.9 MAL). According to Ashley Gibson, all except the gardener were named as “essential units of the staff required by a European family”, costing some 170 Straits dollars a month. See Gibson, A. (1928). The Malay Peninsula and Archipelago (p. 120). London: J. M. Dent. (Call no.: RCLOS 959.9 GIB)
+[^7]:[Butcher](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870), 1979, p. 142; Malayan Information Agency. (1932). *[British Malaya: General description of the country and life therein](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4315721)* (pp. 28–29). London: The Agency. (Call no.: RCLOS 959.9 MAL). According to Ashley Gibson, all except the gardener were named as “essential units of the staff required by a European family”, costing some 170 Straits dollars a month. See Gibson, A. (1928). *[The Malay Peninsula and Archipelago](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4193642)* (p. 120). London: J. M. Dent. (Call no.: RCLOS 959.9 GIB)
 
-[^8]:According to comments by the Superintendents of the censuses of the Straits Settlements, Federated Malay States and Other Malay States for the years 1921 and 1931. See Nathan, J.E. (1922). The census of British Malaya (p. 83). London: Waterlow. (Call no.: RRARE 312.09595 MAL; Microfilm no.: NL7366); Vlieland, C.A. (1932). A report on the 1931 census and on certain problems of vital statistics (p. 81). London: Crown Agents for the Colonies. (Call no.: RRARE 304.6095951 FED; Microfilm no.: NL3005)
+[^8]:According to comments by the Superintendents of the censuses of the Straits Settlements, Federated Malay States and Other Malay States for the years 1921 and 1931. See Nathan, J.E. (1922). *[The census of British Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3299691)* (p. 83). London: Waterlow. (Call no.: RRARE 312.09595 MAL; Microfilm no.: NL7366); Vlieland, C.A. (1932). *[A report on the 1931 census and on certain problems of vital statistics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5834598)* (p. 81). London: Crown Agents for the Colonies. (Call no.: RRARE 304.6095951 FED; Microfilm no.: NL3005)
 
-[^9]:MacCallum Scott, J.H. (1939). Eastern journey (p. 15). London: Travel Book Club. (Call no.: RCLOS 959 MAC)
+[^9]:MacCallum Scott, J.H. (1939). *[Eastern journey](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4316240)* (p. 15). London: Travel Book Club. (Call no.: RCLOS 959 MAC)
 
-[^10]:“European women, the cookie and the kitchen.” (1940, May 9). The Straits Times, p. 1. Retrieved from NewspaperSG. 
+[^10]:“[European women, the cookie and the kitchen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400509-1.2.107.5.aspx).” (1940, May 9). *The Straits Times*, p. 1. Retrieved from NewspaperSG. 
 
-[^11]:Lockhart, R. (1936). Return to Malaya (p. 110). New York: G. P. Putnam’s Sons. (Call no.: RCLOS 959.5 LOC)
+[^11]:Lockhart, R. (1936). *[Return to Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1881681)* (p. 110). New York: G. P. Putnam’s Sons. (Call no.: RCLOS 959.5 LOC)
 
-[^12]:MacCallum Scott, 1939, p. 14. 
+[^12]:[MacCallum Scott](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4316240), 1939, p. 14. 
 
-[^13]:Vaughan, J.D. (1879). The manners and customs of the Chinese in the Straits Settlements (p. 20.). Singapore: Printed at the Mission Press. Retrieved from BookSG.
+[^13]:Vaughan, J.D. (1879). *[The manners and customs of the Chinese in the Straits Settlements](https://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx?s=The%20manners%20and%20customs%20of%20the%20Chinese%20in%20the%20Straits%20Settlements)* (p. 20.). Singapore: Printed at the Mission Press. Retrieved from BookSG.
 
-[^14]:Hylam v. European. (1891, September 1). Straits Times Weekly Issue, p. 3. Retrieved from NewspaperSG.
+[^14]:[Hylam v. European](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18910901-1.2.21.aspx). (1891, September 1). *Straits Times Weekly Issue*, p. 3. Retrieved from NewspaperSG.
 
-[^15]:Untitled. (1901, May 3). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 3. Retrieved from NewspaperSG. 
+[^15]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19010503-1.2.10.2.aspx). (1901, May 3). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 3. Retrieved from NewspaperSG. 
 
-[^16]:The servant problem. (1926, April 24). The Malayan Saturday Post, p. 12. Retrieved from NewspaperSG.
+[^16]:[The servant problem](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19260424-1.2.20.aspx). (1926, April 24). *The Malayan Saturday Post*, p. 12. Retrieved from NewspaperSG.
 
 [^17]:“[Cookie.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291026-1.2.115.3.aspx)” (1929, October 26). *The Straits Times*, p. 15. Retrieved from NewspaperSG. 
 
