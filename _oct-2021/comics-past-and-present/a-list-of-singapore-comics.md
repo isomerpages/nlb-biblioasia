@@ -17,7 +17,7 @@ Chua, Dave and Max Loh. *We’ll Eat When We’re Done.* Lim Cheng Tju and Dave 
 
 Chua, Morgan. *L.K.Y. Political Cartoons.* Singapore: Epigram Books, 2014. (Call no.  RSING 959.5704092 CHU)
 
-Deng, Eldred, ed. *漫画同盟* [2001] [Comics Alliance 2001]. Singapore: Asia Pacific Books, 2001. (Call no. Chinese RSING 741.595957 COM)  
+Deng, Eldred, ed. *漫画同盟* [2001] [Comics Alliance 2001]. Singapore: Asiapac Books, 2001. (Call no. Chinese RSING 741.595957 COM)  
 
 Djoeharie, Adyeel and Alan Bay. *Sacred Guardians.* Viency Lee, ed. Singapore: Asiapac Books, 2020. (Call no. RSING 741.595957 DJO)
 
@@ -39,13 +39,15 @@ Goh, Colin. *Orchard Road III: Tongues for the Memories*. Singapore: Times Books
 
 Goh, Colin. *Orchard Road: The Restricted Zone*. Singapore: Times International Singapore, 1989. (Call no. RSING 741.595957 GOH)
 
+Gotham 高谭. *女侠红头巾: 大战油鬼仔* [The Samsui Sword]. Singapore: Rojak City, 2021. (Call no. Chinese RSING 741.595957 GT)
+
 Gwee Li Sui, ed. *Places: A Graphic Anthology on the East of Singapore.* Singapore: National Library Board, Singapore, 2016. (Call no. RSING 741.59597 PLA) 
 
 Gwee Li Sui. *Myth of the Stone.* Singapore: Epigram Books, 2013. (Call no. RSING 741.59597 GWE)
 
-Huang Zhan Ming *黄展鸣. 漫画同盟* [Manga Doomei]. Singapore: Asia Pacific Books,1997. (From PublicationSG)
+Huang Zhan Ming *黄展鸣. 漫画同盟* [Manga Doomei]. Singapore: Asiapac Books,1997. (From PublicationSG)
 
-Huang Zhan Ming and Huang Shu Qing 黄展鸣 and 黄书庆. *漫画同盟 98* [Manga Doomei 98]. Singapore: Asia Pacific Books, 1998. (From PublicationSG)
+Huang Zhan Ming and Huang Shu Qing 黄展鸣 and 黄书庆. *漫画同盟 98* [Manga Doomei 98]. Singapore: Asiapac Books, 1998. (From PublicationSG)
 
 Lau, Johnny. *Mr Kiasu in Singapore History.* Singapore: Shogakukan Asia, 2019. (Call no. RSING 959.57 LAU)
 
@@ -70,8 +72,6 @@ Nora Abdullah. *Bawang Puteh Bawang Merah*. Singapore: Geliga, 1957. (From Publi
 Singapore Anti-narcotics Association. *What If They Call Me Chicken?* Singapore: Singapore Anti-narcotics Association, 1979. (From PublicationSG)
 
 Tan, Budjette and Charis Loke. *Sound: A Comics Anthology*. Singapore: Difference Engine, 2020. (Call no. RSING 741.5959 SOU-[CMX])
-
-Tan, Gao 高谭. *女侠红头巾: 大战油鬼仔* [The Samsui Sword]. Singapore: Rojak City, 2021. (Call no. Chinese RSING 741.595957 GT)
 
 Tan, James. *All Death Matters*. Singapore: Lien Foundation, 2020. (Call no. RSING 741.59597 TAN)
 
