@@ -85,15 +85,15 @@ Syed Muhd Hafiz. (2012). Semangat APAD: The pioneering generation. In. [*Our pio
 [^10]:Angkatan Pelukis Aneka Daya. (1997). [*Karya seni 35: Art 35*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200892108) (n.p.). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RART 759.95957 KAR) 
 [^11]:Lembaga Tetap Kongres (Singapura). (1968). [*LTK menganjorkan pesta budaya LTK ’68 = LTK cultural festival ’68 dan pameran lukisan*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12606615) (n.p.). Singapore: Lembaga Tetap Kongres. (Call no.: Malay RCLOS 394.26959 LTK-[CUS])
 [^12]:[Syed Muhd Hafiz](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201188012), 2013, p. 12; [Abdul Ghani Hamid](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7474792), 1995, n.p.
-[^13]:
-[^14]:
-[^15]:
+[^13]:Angkatan Pelukis Aneka Daya. (1981). Activities in brief. In [*Contemporary ’81*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13165494) (n.p.). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RCLOS 759.95957 CON); [*Angkatan Pelukis Aneka Daya, 1997*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200892108) (n.p.); Syed Muhd Hafiz bin Syed Nasir. (2016). Visual arts development within the Malay community (p. 502). In [Majulah!: 50 years of Malay/Muslim community in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202511186), (pp. 499–515). Singapore: World Scientific. (Call no.: RSING 305.697095957 MAJ)
+[^14]:Angkatan Pelukis Aneka Daya. (1964.). [*Kelas lukis*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12419902) [booklet]. Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RCLOS EPHE 028 V1.5) 
+[^15]:C. Mahat. (1949). [Buku petua melukis: Penggal pertama](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12605114) (pp. 9, 12, 36, 39–40). Singapore: Suluh Pengetahuan. (Call no.: Malay RCLOS 741.2 MAH); [Syed Muhd Hafiz](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200933365), 2012, pp. 5–6. 
 [^16]:
 
 
 
 
-Angkatan Pelukis Aneka Daya. (1981). Activities in brief. In Contemporary ’81 (n.p.). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RCLOS 759.95957 CON); Angkatan Pelukis Aneka Daya, 1997 (n.p.); Syed Muhd Hafiz bin Syed Nasir. (2016). Visual arts development within the Malay community (p. 502). In Majulah!: 50 years of Malay/Muslim community in Singapore, (pp. 499–515). Singapore: World Scientific. (Call no.: RSING 305.697095957 MAJ)
-Angkatan Pelukis Aneka Daya. (1964.). Kelas lukis [booklet]. Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RCLOS EPHE 028 V1.5) 
-C. Mahat. (1949). Buku petua melukis: Penggal pertama (pp. 9, 12, 36, 39–40). Singapore: Suluh Pengetahuan. (Call no.: Malay RCLOS 741.2 MAH); Syed Muhd Hafiz, 2012, pp. 5–6. 
+
+
+
 Advertisement: Sa-kilas Pandang Seni Lukis dan Perkembangannga (1961, August 22). Berita Harian, p. 4; Advertisement. (1966, June 16). Berita Harian, p. 4. Retrieved from NewspaperSG.
