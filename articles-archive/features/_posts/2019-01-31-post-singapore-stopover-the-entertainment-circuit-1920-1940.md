@@ -112,6 +112,9 @@ Shelaeff was born in Harbin in 1919, his parents part of the Russian émigré co
 
 Having won that title, Shelaeff embarked on a tour of Asia to defend it – first to Manila, and then to Singapore, the regional boxing centre. Singapore was then known as the mecca of boxing in Asia, with most of the bouts taking place at Happy World in Geylang, an amusement park featuring everything from dancehalls, jazz cabarets, circus acts, Chinese opera and Malay bangsawan to roller skating rinks, fairground rides and restaurants. On weekends and on public holidays, upwards of 50,000 people would throng Happy World until the wee hours of the morning.
 
+<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover9.JPG">
+<div style="background-color: white;">An advertising flyer publicising a series of boxing matches held at the Canidrome Gardens in Shanghai’s French Concession on 25 June 1937. The main match was between Andre Shelaeff and Billy Addis. <i>Image reproduced from North China Daily News, 21 June 1937, p.32.</i></div>
+
 Shelaeff fought several times in Singapore. The archives of *The Straits Times* and *The Singapore Free Press* and *Mercantile Advertiser* carry advertisements for all the major fights and include important details such as the weight, height and match records of the boxers.13 Both newspapers employed boxing correspondents to report on the fights, with predictions of who might win before the matches took place. Needless to say, these reports were much sought after by the legions of gamblers placing wagers on the winners and losers.
 
 These newspaper accounts reported that Happy World was regularly packed to full capacity with an audience comprising local residents and foreigners along with personnel from the Royal Navy and British Army stationed in the city.14 The biggest local boxing promoter in the 1930s was Arthur Beavis, a former British featherweight champion in the 1920s who had settled in Singapore.
@@ -121,3 +124,19 @@ Poring through the reports written by Singapore’s boxing correspondents betwee
 Mohamed Noor bin Bahiek, also known as Joe Diamond, was born in Mecca and periodically visited Singapore in the 1930s to fight, gaining a large following among the local Malay community.15 South London’s “round-headed and red-haired” Johnny Curly fought in Singapore in 1928 before leaving for a tour of Australia and New Zealand, and returning to Singapore in 1936.
 
 Heading in the opposite direction in 1938 was the Melbourne-based Australian middleweight champion Al Basten, who visited Singapore en route to England for a tour. The boxing scene in Singapore was so vibrant at one time that fans regularly got to see the best fighters from Asia, the Middle East, Europe and Australia battling it out at Happy World on Friday nights.
+
+#### **A Hub for Trade and Entertainment**
+
+Singapore’s position as a major touring venue for both entertainment troupes and boxers between the two world wars was largely a spin-off from its role as a key nexus in the regional and global shipping routes. Just about every ship journeying between Europe and Asia, and onwards to Australia and New Zealand, passed through Singapore. This explains perhaps the preponderance of European and Australian entertainers and boxers in Singapore. Occasionally, Americans based in the region visited Singapore on regional tours, but their numbers were few and far between.
+
+Singapore has traditionally been thought of in terms of hard trade, an entrepôt for goods passing through from East to West and vice versa. However, port cities are invariably entry points for ideas, trends and new innovations. In the inter-war period, this exchange of culture included the latest entertainment acts, dances, jazz and big band music as well as sports such as boxing.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover10.jpg" style="width: 100px; height: 100px;">
+<b>Paul French</b> was born in London, educated there and in Glasgow, and lived and worked in Shanghai for many years. His book <i>Midnight in Peking</i> was a <i>New York Times</i> bestseller. His most recent book <i>City of Devils: A Shanghai Noir</i> has received much praise from <i>The Economist</i>. Both books are currently being developed for television.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
+
+#### **Notes**
