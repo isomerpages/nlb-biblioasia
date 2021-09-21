@@ -6,8 +6,12 @@ layout: post
 ---
 #### Drawing from his personal collection of maps amassed over three decades, **Dr Farish A. Noor** invites us to truly read maps and look beyond their geographical boundaries.
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg)
-<div style="background-color: white;">Close-up of a Central Javanese batik embellished with a cosmological map motif. <i>Courtesy of Farish A. Noor</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg">
+Close-up of a Central Javanese batik embellished with a cosmological map motif. <i>Courtesy of Farish A. Noor</i>.
+</div>
+
 
 “The census, the map, and the museum: together they profoundly shaped the way in which the colonial state imagined its dominion – the nature of the human beings it ruled, the geography of its domain, and the legitimacy of its ancestry.” 
 
@@ -44,14 +48,19 @@ The maps that I have been collecting for more than three decades are almost enti
 
 Beginning with some of the oldest maps in my collection such as Sebastian Münster's[^3] maps of Southeast Asia (1540) and Asia (1598), we can see how the world was perceived then. Münster's 1540 map of Southeast Asia was Ptolemaic[^4] in its inspiration, drawing from classical sources that suggested the world ended at the East and that there was no such thing as the Pacific Ocean. Among the quirks of the map are the obvious absence of Java, Borneo. Sulawesi and the rest of the archipelago,and the fact that Southeast Asia was then referred to as Greater India or India Extra Gangem. In his later map of the Asian continent (1598), Münster gives us a glimpse of Asia – rendered more accurately this time – that is entirely bereft of borders, suggesting a fluidity of movement and contact that has been alluded to by scholars like K. N. Chaudhuri whose "Asia before the age of Europe" was indeed a seamless landmass where peoples, ideas and commodities moved with ease, and which long pre-dates our much-vaulted claims of globalisation and cosmopolitanism today.
 
-
-<img  src="/images/vol-10-issue-4/statementsofpoweranddomination/Nicolas_de_Fer.jpg">
-<div style="background-color: white;">Portrait of French cartographer and geographer, Nicholas de Fer. <i>Wikimedia Commons</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/statementsofpoweranddomination/Nicolas_de_Fer.jpg">
+Portrait of French cartographer and geographer, Nicholas de Fer. <i>Wikimedia Commons</i>.
+</div>
 
 These maps, produced as they were in the 16th century, tell us something about the nations that produced them. Münster's maps (1540 and 1598) were produced at a time when Western Europe was slowly emerging from the Dark Ages and when European military-economic power was unable to conquer and dominate the rest of the world. Long before the Industrial Revolution, the first maps of Asia by the Spanish and Portuguese – and later the English, Dutch, French and other Europeans – depicted an Asia that was vast, rich and overpowering – but at the same time laden with wonders and all things exotic. (Note that Münster's 1540 map of Southeast Asia comes with curious vignettes of strange and wonderful creatures that were said to roam the countryside in Asia.)
 
-<img  src="/images/vol-10-issue-4/statementsofpoweranddomination/Sebastian Munster 1540.jpg">
-<div style="background-color: white;">Münster 1540 map of Southeast Asia made no reference to Java, Borneo and the rest of the archipelago, and the region was referred to as Greater India. <i>Courtesy of Farish A. Noor.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/statementsofpoweranddomination/Sebastian Munster 1540.jpg">
+Münster 1540 map of Southeast Asia made no reference to Java, Borneo and the rest of the archipelago, and the region was referred to as Greater India. <i>Courtesy of Farish A. Noor.</i>
+</div>
 
 Maps of Asia grew more sophisticated and detailed over the next century as European explorers intensified their efforts to venture into the region – initially for the sake of trade and finding the precise route to the Spice Islands, and later for conquest. From the maps of Petrus Bertius[^5] (1661) to Nicholas de Fer[^6] (1714), we can actually see how the development of better maritime technology gave the Western explorers and merchants an edge over their Asian rivals, and how in time they were able to navigate their way across the archipelago and produce maps that grew increasinqly more accurate with each new navigation. Bertius' (1616) early map of Java, for instance, was for all intents and purposes completely useless as a tool for precise navigation but it does show us where the first European merchant-explorers first landed and made contact with the Javanese. The map points out the major trading centres along the northern coastline of Java, but offers no information whatsoever about the southern coast of the island, for the simple reason that few European ships had ever ventured there at that point.
 
@@ -62,10 +71,12 @@ By the late 18th century, much of the Indian subcontinent and Southeast Asia had
 Through these maps we can see the story of Empire and colonialism unfolding – as the trading nations of Western Europe developed their military and transport capabilities, they were increasingly able to travel further and to project their power abroad. Zatta e Figli's map of Asia shows an Asia of the 18th century where Western power and knowledge were spreading in tandem from West to East, and also tells us something about how some of the Asian kingdoms then (notably China and Japan) had attempted to resist the combined might of Western economic and epistemic power. South and Southeast Asia had been "unveiled" thanks to the technological advantage enjoyed by the militarised trading companies of England, Holland, France and Spain, which conducted their business dealings in the form of armed companies that could also conquer territories in the name of their respective nations.
 
 Maps can, therefore, be read as documents that record the rise and fall of powers, and how the process of knowing Asia was linked to the relative decline of Asian nations and their inability to resist such attempts at charting and mapping their territories. As Indian and Southeast Asian kingdoms declined in both economic and military power, so too were their territories opened up to European cartographers who began to venture further inland, producing maps that were more accurate and reliable, but which also told the story of Western conquest of the East.
-	
-![Alt text for image on Isomer site](/images/vol-10-issue-4/statementsofpoweranddomination/Nicholas_de_Fer_Geographie.jpg)
-<div style="background-color: white;">Nicholas de Far's 1714 <i>Geographie. Courtesy of Farish A. Noor.</i></div>
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/statementsofpoweranddomination/Nicholas_de_Fer_Geographie.jpg">
+Nicholas de Far's 1714 <i>Geographie. Courtesy of Farish A. Noor.</i>
+</div>
 	
 #### **Maps as Colonial History: Cartography in the Service of Empire**
 
@@ -85,8 +96,12 @@ The inclusion of Raffles' exploratory path and the new road of 1815 in the final
 
 Such maps produced in the 19th century were, and remain, documents of imperial-colonial power. By the time men like Crawfurd and Raffles were writing about Southeast Asia and mapping the region, Western colonial power and colonial knowledge were both at their zenith, rendering local knowledge- systems and world-views redundant or at best quaint or exotic. Half-a-century earlier, cartographers such as Alexander Dalrymple (who mapped North Borneo, Sulu, Palawan and Mindanao in 1764) were still able to acknowledge local sources of information and data, and on his map of the East Borneo coast, Dalrymple even pays tribute to local Bajao and Sutu navigators who helped him in his work. It is quite telling that no such attribution was found in the works of Crawfurd, Raffles and those who came after them, for by then the British East India Company and the Dutch East India Company were staffed by Western cartographers schooled in Western norms of map-making, and who viewed the lands that they conquered as commercial prizes for possession and exploitation.
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/statementsofpoweranddomination/A_Map_of_Java.jpg)
-<div style="background-color: white;">A Map of Java was produced by the British cartographer J. Walker in 1817, and appeared in the book <i>The History of Java</i> by Stamford Raffles. The map is notable for its documentation of the advance of British power across the island. <i>Courtesy of Farish A. Noor</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/statementsofpoweranddomination/A_Map_of_Java.jpg">
+A Map of Java was produced by the British cartographer J. Walker in 1817, and appeared in the book <i>The History of Java</i> by Stamford Raffles. The map is notable for its documentation of the advance of British power across the island. <i>Courtesy of Farish A. Noor</i>.
+</div>
+
 
 #### **Collecting History, Regarding Power**
 
