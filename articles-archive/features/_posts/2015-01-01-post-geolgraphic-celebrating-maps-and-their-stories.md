@@ -9,7 +9,6 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-4/geo-geographic/bg1.jpg">
-"You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel *The Mapmaker's War.*[^1]
 </div>
 
 "You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel *The Mapmaker's War.*[^1]
