@@ -87,13 +87,5 @@ Syed Muhd Hafiz. (2012). Semangat APAD: The pioneering generation. In. [*Our pio
 [^12]:[Syed Muhd Hafiz](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201188012), 2013, p. 12; [Abdul Ghani Hamid](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7474792), 1995, n.p.
 [^13]:Angkatan Pelukis Aneka Daya. (1981). Activities in brief. In [*Contemporary ’81*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13165494) (n.p.). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RCLOS 759.95957 CON); [*Angkatan Pelukis Aneka Daya, 1997*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200892108) (n.p.); Syed Muhd Hafiz bin Syed Nasir. (2016). Visual arts development within the Malay community (p. 502). In [Majulah!: 50 years of Malay/Muslim community in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202511186), (pp. 499–515). Singapore: World Scientific. (Call no.: RSING 305.697095957 MAJ)
 [^14]:Angkatan Pelukis Aneka Daya. (1964.). [*Kelas lukis*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12419902) [booklet]. Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RCLOS EPHE 028 V1.5) 
-[^15]:C. Mahat. (1949). [Buku petua melukis: Penggal pertama](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12605114) (pp. 9, 12, 36, 39–40). Singapore: Suluh Pengetahuan. (Call no.: Malay RCLOS 741.2 MAH); [Syed Muhd Hafiz](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200933365), 2012, pp. 5–6. 
-[^16]:
-
-
-
-
-
-
-
-Advertisement: Sa-kilas Pandang Seni Lukis dan Perkembangannga (1961, August 22). Berita Harian, p. 4; Advertisement. (1966, June 16). Berita Harian, p. 4. Retrieved from NewspaperSG.
+[^15]:C. Mahat. (1949). [*Buku petua melukis: Penggal pertama*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12605114) (pp. 9, 12, 36, 39–40). Singapore: Suluh Pengetahuan. (Call no.: Malay RCLOS 741.2 MAH); [Syed Muhd Hafiz](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200933365), 2012, pp. 5–6. 
+[^16]:[Advertisement: Sa-kilas Pandang Seni Lukis dan Perkembangannga](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19610822-1.2.47.2) (1961, August 22). *Berita Harian*, p. 4; [Advertisement](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19660616-1.2.41.1). (1966, June 16). *Berita Harian*, p. 4. Retrieved from NewspaperSG.
