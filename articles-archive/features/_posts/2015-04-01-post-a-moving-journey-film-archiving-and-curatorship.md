@@ -80,7 +80,7 @@ The AFA has come a long way from when it started 10 years ago by the visionary T
 
 |The AFA became a subsidiary of the National Library Board in January 2014.|
 
-|<img src="/images/vol-11-issue-1/movingjourney/afa_re.jpg">10th anniversary logo of the Asian Film Archive|
+|<img  src="/images/vol-11-issue-1/movingjourney/afa_re.jpg">10th anniversary logo of the Asian Film Archive.|
 
 |**The 19th Seapavaa Conference** |
 
