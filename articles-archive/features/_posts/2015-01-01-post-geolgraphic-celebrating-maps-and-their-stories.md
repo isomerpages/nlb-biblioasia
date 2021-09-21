@@ -8,8 +8,8 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg">
-This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves. <i>National Library of Singapore Collection.</i>
+<img src="/images/vol-10-issue-4/geo-geographic/bg1.jpg">
+"You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel *The Mapmaker's War.*[^1]
 </div>
 
 "You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel *The Mapmaker's War.*[^1]
@@ -23,16 +23,27 @@ All maps are, in a sense, mental maps as they reflect not only the cultural and 
 
 Maps, atlases and globes are often used metaphorically to represent power (real or imagined) and domination over territories. For instance, Queen Elizabeth I has been depicted in a portrait standing on the map of the British Isles,[^6] and in other paintings with her hand poised over a globe. In ancient China,the handing over of maps by the defeated state was a sign of submission to the victor,[^7] and 17th-century Mughal emperor, Jahangir, was depicted in portraits as standing atop a terrestrial globe.[^8] 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Jahangir_reformat.jpg">
+Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. <i>The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©</i>
+</div>
 
-<img  src="/images/vol-10-issue-4/geo-geographic/Jahangir_reformat.jpg">
-<div style="background-color: white;">Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. <i>The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg">
+This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves. <i>National Library of Singapore Collection.</i>
+</div>
 	
 Maps have a special significance in Singapore. Given the dearth of historical material on Singapore before the arrival of Stamford Raffles in 1819, pre-19th-century maps depicting the island act as important visual records of our early origins. The National Library's latest exhibition, "Land of Gold and Spices: Early Maps of Southeast Asia and Singapore", provides visitors with the unique opportunity to view these rare early maps. This exhibition is part of a larger festival of maps and mapping called "GeolGraphic: Celebrating Maps and Their Stories".
 
 "GeolGraphic", which is a curated combination of exhibitions and programmes, explores the diverse world of maps and showcases the collections of the National Library (NL) and the National Archives of Singapore (NAS), as well as mapping-related artworks by four Singapore artists. [^9]
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/19th_century_chart.jpg)
-<div style="background-color: white;">This 19th-century chart with place names written in Bugis script is a rare example of an extant map of the region drawn by an unnamed Southeast Asian cartographer. Some early maps of the region drawn by Europeans are believed to have been based on indigenous maps and sources. In turn, indigenous cartographic traditions were also influenced by European maps of the time. This nautical chart, believed to a pirate's map, shows heavy borrowings from Dutch maps. <i>Courtesy of Univeristy of Utrecht Library.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/19th_century_chart.jpg">
+This 19th-century chart with place names written in Bugis script is a rare example of an extant map of the region drawn by an unnamed Southeast Asian cartographer. Some early maps of the region drawn by Europeans are believed to have been based on indigenous maps and sources. In turn, indigenous cartographic traditions were also influenced by European maps of the time. This nautical chart, believed to a pirate's map, shows heavy borrowings from Dutch maps. <i>Courtesy of Univeristy of Utrecht Library.</i>
+</div>
 
 
 #### **Land of Gold and Spices: Early Maps of Southeast Asia and Singapore**
