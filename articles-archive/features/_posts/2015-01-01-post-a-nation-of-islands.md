@@ -16,11 +16,17 @@ Thick smoke billows out steadily from the narrow chimney of the furnace. The req
 
 “It has been over 60 years since I first started work here,” 91-year-old Mustari Dimu, a former resident of Lazarus Island, says in Malay. And every year since then, Mustari has returned to Kusu for a full month – maintaining his long family tradition and deep friendship with Seet Hock Seng, Seng Huat’s late father, the temple's former caretaker. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Seet_Seng_Huat_re.jpg)
-<div style="background-color: white;">Seet Seng Huat is the current caretaker of the Da Bo Gong (Tua Pek Gong) Temple of Kusu Island. <i>Photo by Edwin Koo.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/Seet_Seng_Huat_re.jpg">
+Seet Seng Huat is the current caretaker of the Da Bo Gong (Tua Pek Gong) Temple of Kusu Island. <i>Photo by Edwin Koo.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/Mustari_and_son_re.jpg)
-<div style="background-color: white;">Mustari Dimu (centre), 92, with his son Sardon Mustari (left), 65, and Hazwari Abdul Wahid, 23, at the Da Bo Gong (Tua Pek Kong) Temple on Kusu Island. Photographed near the temple furnace, they help to burn joss paper during the peak season. <i>Photo by Edwin Koo.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/Mustari_and_son_re.jpg">
+Mustari Dimu (centre), 92, with his son Sardon Mustari (left), 65, and Hazwari Abdul Wahid, 23, at the Da Bo Gong (Tua Pek Kong) Temple on Kusu Island. Photographed near the temple furnace, they help to burn joss paper during the peak season. <i>Photo by Edwin Koo.</i>
+</div>
 
 Such stories are not uncommon in “Island Nation”, a documentary project that recounts the stories of Singaporeans who once lived on the southern islands of Singapore, especially Sisters' Island, Sentosa and Kusu Island. 
 
@@ -46,11 +52,18 @@ And he is not alone. Choo Huay Kim, 68, taught at St John's Island English Schoo
 
 The bond that the students shared with their teacher as well as their fondness for the old way of life on these islands was evident when some 70 former islanders recently returned to visit their old school on St John’s Island, now used as living quarters for foreign workers. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg)
-<div style="background-color: white;">Students from the St John's Island English School take a group photograph with their teacher Mr Choo Huay Kim at the same place where they had their flag-raising ceremony every morning in the early 1970s. <i>Photo by Edwin Koo.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg">
+Students from the St John's Island English School take a group photograph with their teacher Mr Choo Huay Kim at the same place where they had their flag-raising ceremony every morning in the early 1970s. <i>Photo by Edwin Koo.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/SoccerBoys.jpg)
-<div style="background-color: white;">The St John's Island English School football team stand in front of the building where they once studied. This team went on to win the 1972 National Schools football tournament, led by their coach and teacher Choo Huay Kim (standing, far right). <i>Photo by Edwin Koo.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/SoccerBoys.jpg">
+The St John's Island English School football team stand in front of the building where they once studied. This team went on to win the 1972 National Schools football tournament, led by their coach and teacher Choo Huay Kim (standing, far right). <i>Photo by Edwin Koo.</i>
+</div>
+
 
 #### **Island Living** 
 
@@ -62,23 +75,42 @@ Those who remembered pointed out landmarks that are now gone, such as a well, no
 
 In the course of working on this project, we realised how interconnected the lives of the former islanders’ were and how important these islands still are to them today. Documenting their lives and what they remember of the islands is one way of capturing a slice of life that no longer exists in Singapore. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34685.jpg)
-<div style="background-color: white;">Hashim Daswan, 53, briefs his fellow former islanders during their visit to the southern islands on 9 November 2014. <i>Photo by Edwin Koo.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34685.jpg">
+Hashim Daswan, 53, briefs his fellow former islanders during their visit to the southern islands on 9 November 2014. <i>Photo by Edwin Koo.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34961_re.jpg)
-<div style="background-color: white;">More than 70 former islanders and their family members returned to the islands of Sekijang Bendera (St John) and Sekijang Pelepah (Lazarus) for a walk down memory lane on Sunday, 9 November 2014. This photograph was taken outside a home that is now used as a chalet for the public. <i>Photo by Edwin Koo.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34961_re.jpg">
+More than 70 former islanders and their family members returned to the islands of Sekijang Bendera (St John) and Sekijang Pelepah (Lazarus) for a walk down memory lane on Sunday, 9 November 2014. This photograph was taken outside a home that is now used as a chalet for the public. <i>Photo by Edwin Koo.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/MdmBedah_Stjohn_CA34927.jpg)
-<div style="background-color: white;">Mdm Bedah bte Din, 76, swims joyfully in the waters off St John Island, once known as Pulau Sekijang Bendera during the recent reunion of former islanders of that cluster. <i>Photo by Edwin Koo.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/MdmBedah_Stjohn_CA34927.jpg">
+Mdm Bedah bte Din, 76, swims joyfully in the waters off St John Island, once known as Pulau Sekijang Bendera during the recent reunion of former islanders of that cluster. <i>Photo by Edwin Koo.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_CA30014.jpg)
-<div style="background-color: white;">On St John's Island, Mohamed Sulih Bin Supian – born and bred on the island – and his wife Fuziyah use the space in front of their home to cook rice dumplings known as <i>ketupat</i> in preparation for Hari Raya Aidilfitri. He has special permission to live on the island. <i>Photo by Edwin Koo.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/StJohn_CA30014.jpg">
+On St John's Island, Mohamed Sulih Bin Supian – born and bred on the island – and his wife Fuziyah use the space in front of their home to cook rice dumplings known as <i>ketupat</i> in preparation for Hari Raya Aidilfitri. He has special permission to live on the island. <i>Photo by Edwin Koo.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_CA30074.jpg)
-<div style="background-color: white;">Mohamed Sulih Bin Supian uses an electric bike to get around the island. Here he and his wife make their way to the St John's Island jetty to visit their children in time for Hari Raya Aidilfitri celebrations. <i>Photo by Edwin Koo.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/StJohn_CA30074.jpg">
+Mohamed Sulih Bin Supian uses an electric bike to get around the island. Here he and his wife make their way to the St John's Island jetty to visit their children in time for Hari Raya Aidilfitri celebrations. <i>Photo by Edwin Koo.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/nationofisland/StJohn_CA34740.jpg)
-<div style="background-color: white;">A man returning from his fishing trip on St John's Island. <i>Photo by Edwin Koo.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/StJohn_CA34740.jpg">
+A man returning from his fishing trip on St John's Island. <i>Photo by Edwin Koo.</i>
+</div>
+
 
 
 |<i>“Island Nation” is a documentary project by Captured, comprising Edwin Koo, Juliana Tan and Zakaria Zainal, that captures the stories of Singaporeans who once lived on the southern islands of Singapore. The exhibition will take place between April and June 2015 at the National Library Building and is part of Singapore's 50th National Day celebrations. Find out more at: </i> www.facebook.com/islandnationsg<i>.The website</i> www.islandnation.sg <i>will be launched in March 2015.</i>|
