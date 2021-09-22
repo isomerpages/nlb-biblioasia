@@ -6,7 +6,7 @@ layout: post
 ---
 #### One of this year’s Read! Fest initiatives is a celebration of Singapore poetry. **Sharon Lim** tells you what to expect. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/poetry/background.jpg)
+<img src="/images/vol-11-issue-2/poetry/background.jpg">
 
 Launched in 2014, Read! Fest is part of the National Library Board’s (NLB) nationwide reading campaign called Read! Singapore. The festival aims to encourage Singaporeans to re-discover books and the simple pleasures of reading.
 
