@@ -4,6 +4,12 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/nation-of-island
 layout: post
 ---
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg">
+Students from the St John's Island English School take a group photograph with their teacher Mr Choo Huay Kim at the same place where they had their flag-raising ceremony every morning in the early 1970s. <i>Photo by Edwin Koo.</i>
+</div>
+
 The caretaker of Da Bo Gong (Tua Pek Kong) Temple on Kusu Island – just a 20-minute boat ride from Singapore – stands astride the short flight of stairs leading to the temple's inner prayer sanctum, his eyes fixed on the jetty in the near distance. 
 
 It is the start of the ninth month of the Chinese lunar calendar, and thousands of devotees will travel to the island temple seeking blessings from Tua Pek Kong (God of Prosperity) and Guan Yin (Goddess of Mercy). 
@@ -52,11 +58,7 @@ And he is not alone. Choo Huay Kim, 68, taught at St John's Island English Schoo
 
 The bond that the students shared with their teacher as well as their fondness for the old way of life on these islands was evident when some 70 former islanders recently returned to visit their old school on St John’s Island, now used as living quarters for foreign workers. 
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg">
-Students from the St John's Island English School take a group photograph with their teacher Mr Choo Huay Kim at the same place where they had their flag-raising ceremony every morning in the early 1970s. <i>Photo by Edwin Koo.</i>
-</div>
+
 
 <div style="background-color: white;">
 <br/>
