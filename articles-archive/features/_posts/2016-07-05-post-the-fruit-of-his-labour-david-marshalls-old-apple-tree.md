@@ -156,9 +156,9 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 [^18]:Doubts will not be removed by nailing slogans on trees. (1956, March 14). *The Straits Times*, p. 6; Mr. M’s posters stolen. (1956, March 14). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^19]:Lim told: Take the helm. (1956, June 8). *The Straits Times*, p. 1; The talks fail. (1956, May 16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^19]:[Lim told: Take the helm](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560608-1.2.2.aspx). (1956, June 8). *The Straits Times*, p. 1; [The talks fail](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560516-1.2.2.aspx). (1956, May 16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^20]:National Library Board. (2016). Lim Yew Hock written by Mukunthan, Michael. Retrieved from Singapore Infopedia website.
+[^20]:National Library Board. (2016). *[Lim Yew Hock](http://eresources.nlb.gov.sg/infopedia/articles/SIP_822_2004-12-28.html)* written by Mukunthan, Michael. Retrieved from Singapore Infopedia website.
 
 [^21]:Abisheganaden, F. (1957, May 1). [Marshall: Final act](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570501-1.2.6.aspx). *The Straits Times*, p. 1; [Majid has to run from rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570528-1.2.100.aspx). (1957, May 28). *The Straits Times*, p. 7; [Police bar Majid from that tree](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570529-1.2.109.aspx). (1957, May 29). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
