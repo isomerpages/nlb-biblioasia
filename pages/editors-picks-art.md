@@ -6,7 +6,7 @@ permalink: /editors-picks/art
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Mural_Main2.jpg)](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals) | <p align="left">Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be.</p>
+|[![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Mural_Main2.jpg)](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals) | <p align="left">Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be.</p>
 
 
 #### Chinese Graphic Artists in Pre-war Singapore
