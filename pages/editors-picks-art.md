@@ -46,3 +46,9 @@ permalink: /editors-picks/art
 |  <img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg"> | Malay seals of the 19th century hold important information says Annabel Teh Gallop |  |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| <img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg">     |  Malay seals of the 19th century hold important information says Annabel Teh Gallop     |      |
+
