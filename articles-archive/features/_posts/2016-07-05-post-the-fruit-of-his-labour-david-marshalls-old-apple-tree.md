@@ -164,33 +164,33 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 [^22]:PAP told: No ‘apple tree’ rally. (1959, April 15). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^23]:There is no putting the clock back in Singapore. (1959, May 11). *The Straits Times*, p. 6; The united front. (1957, February 26). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^23]:There is no putting the clock back in Singapore. (1959, May 11). *The Straits Times*, p. 6; [The united front](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570226-1.2.87.aspx). (1957, February 26). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^24]:Wild Singapore. (2008, November 10). Jambu bol. Retrieved from Wild Singapore website; Keng, H. (1990). The concise flora of Singapore: Gymnosperms and dicotyledons (p. 78). Singapore: Singapore University Press, National University of Singapore. (Call no.: RSING 581.95957 KEN)
+[^24]:Wild Singapore. (2008, November 10). Jambu bol. Retrieved from Wild Singapore website; Keng, H. (1990). T*[he concise flora of Singapore: Gymnosperms and dicotyledons](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5678012)* (p. 78). Singapore: Singapore University Press, National University of Singapore. (Call no.: RSING 581.95957 KEN)
 
-[^25]:National Parks Board. (2014, December 30). Sea apple. Retrieved from National Parks Board website.
+[^25]:National Parks Board. (2014, December 30). *Sea apple*. Retrieved from National Parks Board website.
 
-[^26]:Wee, Y.C. (2012, October). Plant-bird relationship: Myrtaceae. Retrieved from Bird Ecology Study Group website.
+[^26]:Wee, Y.C. (2012, October). *Plant-bird relationship: Myrtaceae*. Retrieved from Bird Ecology Study Group website.
 
-[^27]:Cynicus. (1955, April 9). As I was saying… . The Straits Times, p. 6; Lim, C. P. (1956, July 15). Those tourists! Is this how the future lies? *The Straits Times*, p. 15. Retrieved from NewspaperSG.
+[^27]:Cynicus. (1955, April 9). [As I was saying…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550409-1.2.121.aspx) . *The Straits Times*, p. 6; Lim, C. P. (1956, July 15). [Those tourists! Is this how the future lies?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560715-1.2.106.aspx) *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^28]:Wee, S. (1971, December 20). Sales gimmick leaves much to be desire. New Nation, p. 16; Immigration office. (1960, July 11). *The Singapore Free Press*, p. 4; Wong, J. (1987, December 8). Finds at Empress Place point to colourful past. *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+[^28]:Wee, S. (1971, December 20). [Sales gimmick leaves much to be desire](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19711220-1.2.66.3.aspx). *New Nation*, p. 16; [Immigration office](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600711-1.2.58.aspx). (1960, July 11). *The Singapore Free Press*, p. 4; Wong, J. (1987, December 8). [Finds at Empress Place point to colourful past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871208-1.2.28.9.aspx). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
-[^29]:T. F. Hwang takes you down memory lane. (1980, May 24). The Straits Times, p. 14. Retrieved from NewspaperSG; The song Hwang thought of may have been from Swing Your Lady, a musical comedy released in 1938. A recording of “The Old Apple Tree” from the film can be viewed on YouTube.
+[^29]:[T. F. Hwang takes you down memory lane](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800524-1.2.79.aspx). (1980, May 24). *The Straits Times*, p. 14. Retrieved from NewspaperSG; The song Hwang thought of may have been from *Swing Your Lady*, a musical comedy released in 1938. A recording of “The Old Apple Tree” from the film can be viewed on YouTube.
 
-[^30]:Ommanney, F.D. (1962). Eastern windows (p. 238). London: Longmans. (Call no.: RDLKL 915.957 OMM)
+[^30]:Ommanney, F.D. (1962). *[Eastern windows](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4799284)* (p. 238). London: Longmans. (Call no.: RDLKL 915.957 OMM)
 
-[^31]:Drysdale, J.G.S. (1984). Singapore, struggle for success (p. 37). Singapore: Times Books International. (Call no.: RSING 959.57 DRY)
+[^31]:Drysdale, J.G.S. (1984). *[Singapore, struggle for success](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3534582)* (p. 37). Singapore: Times Books International. (Call no.: RSING 959.57 DRY)
 
-[^32]:Singapore Press Holdings (SPH). (1956, March 23). Chief Minister David Marshall speaking to crowd of supporters at Empress Place [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
+[^32]:Singapore Press Holdings (SPH). (1956, March 23). *[Chief Minister David Marshall speaking to crowd of supporters at Empress Place](http://www.nas.gov.sg/archivesonline/photographs/record-details/64429ab3-1162-11e3-83d5-0050568939ad)* [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
 
-[^33]:Ministry of Information and the Arts (MITA). (1965, November 2). Singapore River – Boat Quay and Marine Police Station on the right [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
+[^33]:Ministry of Information and the Arts (MITA). (1965, November 2). *[Singapore River – Boat Quay and Marine Police Station on the right](http://www.nas.gov.sg/archivesonline/photographs/record-details/2ddc426a-1162-11e3-83d5-0050568939ad)* [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
 
-[^34]:Chiang, K.C. (1960). Aerial view of Empress Place and Padang, with the clock tower of Victoria Memorial Hall and part of Cavenagh Bridge (bottom) visible [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
+[^34]:Chiang, K.C. (1960). *[Aerial view of Empress Place and Padang, with the clock tower of Victoria Memorial Hall and part of Cavenagh Bridge (bottom) visible](http://www.nas.gov.sg/archivesonline/photographs/record-details/b86ed82a-1161-11e3-83d5-0050568939ad)* [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
 
 [^35]:Teo Siyang, personal communication. 
 
-[^36]:Arsenic and old lace – Marshall has another go at Tan. (1955, March 11). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^36]:[Arsenic and old lace – Marshall has another go at Tan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550311-1.2.132.aspx). (1955, March 11). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
 [^37]:[Food centre to be opened soon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730823-1.2.14.2.aspx). (1973, August 23). *New Nation*, p. 2. Retrieved from NewspaperSG.
 
