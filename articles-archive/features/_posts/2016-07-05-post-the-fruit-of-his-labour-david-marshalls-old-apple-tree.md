@@ -152,9 +152,9 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 [^16]:Tan, 2008, p. 287.
 
-[^17]:Abisheganaden, F. (1956, March 10). 7-day Merdeka Drive. *The Straits Times*, p. 1. Retrieved from NewspaperSG; Mr. David Marshall nailing a poster on a tree at Empress Place, before 1957 [Image of Photograph], [Online]. In D. Marshall. (1971), Singapore’s struggle for nationhood, 1945–59 (p. 45). Singapore: University Education Press. (Call no.: RCLOS 959.57024 MAR)
+[^17]:Abisheganaden, F. (1956, March 10). [7-day Merdeka Drive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560310-1.2.2.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG; *[Mr. David Marshall nailing a poster on a tree at Empress Place, before 1957](http://eresources.nlb.gov.sg/printheritage/image.aspx?id=bd43eea8-e5e6-415b-86e2-b95ef8d03156)* [Image of Photograph], [Online]. In D. Marshall. (1971), *[Singapore’s struggle for nationhood, 1945–59](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082561)* (p. 45). Singapore: University Education Press. (Call no.: RCLOS 959.57024 MAR)
 
-[^18]:Doubts will not be removed by nailing slogans on trees. (1956, March 14). *The Straits Times*, p. 6; Mr. M’s posters stolen. (1956, March 14). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^18]:[Doubts will not be removed by nailing slogans on trees](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560314-1.2.99.aspx). (1956, March 14). *The Straits Times*, p. 6; [Mr. M’s posters stolen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560314-1.2.20.aspx). (1956, March 14). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 [^19]:[Lim told: Take the helm](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560608-1.2.2.aspx). (1956, June 8). *The Straits Times*, p. 1; [The talks fail](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560516-1.2.2.aspx). (1956, May 16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
