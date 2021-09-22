@@ -97,7 +97,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^3]: Ethnographic accounts are the descriptive study and analysis of a particular human culture and studies focusing on industries, and craftsmen’s workshops can be used to construct useful frames of reference. See Lewis W. Binford. *Constructing Frames of Reference; An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets.* (Berkeley: University of California Press, 2001). (Not available in NLB holdings) 
 
-[^4]: Jose Eleazar R. Bersales, “Looking for Yamashita’s Gold,” *Philippine Quarterly of Culture and Society* 44, nos. 3 and 4 (2016): 183–210. (From JSTOR via NLB’s eResources website) 
+[^4]: Jose Eleazar R. Bersales, “Looking for Yamashita’s Gold,” *Philippine Quarterly of Culture and Society* 44, nos. 3 and 4 (2016): 183–210. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
 [^5]: Andreas Reinecke, Vin Laychour and Sonetra Seng, *The First Golden Age of Cambodia: Excavation at Prohear *(Bonn: Andreas Reinecke, 2009), 19–21, ResearchGate, https://www.researchgate.net/publication/274251428_2009_The_First_Golden_Age_of_Cambodia_Excavation_at_Prohear_with_Khmer_abstract_Bonn.
 
