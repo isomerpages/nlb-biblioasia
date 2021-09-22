@@ -138,3 +138,79 @@ Unlike most other countries, which celebrate Nurses Day on 12 May, the birthday 
 </div>
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+
+#### **References**
+
+Edwards, N., & Keys, P. (1988). Singapore: A guide to buildings, streets & places (pp. 340–341). Singapore: Times Books International. (Call no.: RSING 959.57 EDW)
+
+Fildes, V., Marks, L., & Marland, H. (Eds.). (1992). Women and children first: International maternal and infant welfare, 1870–1945. London: Routledge. (Not available in NLB holdings)
+
+Government of Singapore. (2016, May 26). Latest data. Retrieved from Singapore Department of Statistics website.
+
+Gwee, M.B., & Ang, R. (1991). Trends in nursing education in Singapore. The professional nurse: A Quarterly Publication of the Singapore Trained Nurses’ Association, 18 (3), p. 17.
+
+Lee, C.E., & Satku, K. (Eds.). (2016). Singapore’s health care system: What 50 years have achieved (p. 169). Singapore: World Scientific. (Call no.: RSING 362.1095957 SIN)
+
+Lee, Y.K. (1985 February). The origins of nursing in Singapore. Singapore Medical Journal, 26 (1), 53–60. Retrieved from Singapore Medical Association website.
+
+Lee, Y.K. (2005, November). Nursing and the beginnings of specialised nursing in early Singapore. Singapore Medical Journal, 46 (11), 600–609. Retrieved from Singapore Medical Association website.
+
+Legislative Council. (1884, December 6). Straits Times Weekly, p. 1. Retrieved from NewspaperSG.
+
+Lim, M. (1966). The maternal and child health services in Singapore. Journal of the Singapore Paediatric Society, 8 (1), 29–41.
+
+Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). One hundred years of Singapore. Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+
+Medical report for 1883. (1884, April 12). Straits Times Weekly, p. 5. Retrieved from NewspaperSG.
+
+Midwives and nurses in jog to raise $40,000. (1985, May 1). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+Mudeliar, V., Nair, C.R.S., & Norris, R.P. (Eds). (1979). Development of hospital care and nursing in Singapore. Singapore: Ministry of Health. (Call no.: RSING 610.73095957 MUD)
+
+Municipal commission. (1910, August 6). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+Municipal nurses. (1896, August 19). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+Municipal Singapore. (1909, November 17). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+National Library Board. (2016). Singapore General Hospital written by Naidu, Ratnala Thulaja. Retrieved from Singapore Infopedia website.
+
+Page 7 Advertisements Column 1. (1887, August 12). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+Singapore. Ministry of Health. (1997). More than a calling: Nursing in Singapore since 1885. Singapore: Ministry of Health. (Call no.: RSING 610.73069 MOR)
+
+Singapore Nurses Association. (2015). Our history. Retrieved from Singapore Nurses Association website.
+
+Singapore Nursing Board. (2016). Retrieved from Singapore Nursing Board website.
+
+Tan, K.H., & Chern, S. M. (2002). Progress in obstetrics from 19th to 21st centuries: Perspectives from KK Hospital, Singapore – the former world’s largest maternity hospital. The Internet Journal of Gynecology and Obstetrics. 2 (2). Retrieved from Internet Scientific Publications website.
+
+Tan, K.H., & Tay, E.H. (Eds.). (2003). The history of obstetrics and gynaecology in Singapore. Singapore: Obstetrical & Gynaecological Society of Singapore: National Heritage Board. (Call no.: RSING q618.095957 HIS)
+
+The local nurse. (1951, April 4). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+Tong, Y.T., & Narayanan, S. (2015). Caring for our people: 50 years of healthcare in Singapore. Singapore: MOH Holdings Pte Ltd for the Ministry of Health. (Call no.: RSING 362.1095957 TON)
+
+Yeoh, B.S.A., Phua, K.H., & Fu, K. (2008). From colony to global city: Public health strategies and the control of disease in Singapore. In M.J. Lewis & K.L. Macpherson (Eds.), Public health in Asia and the Pacific: Historical and comparative perspectives. Abingdon, Oxon; New York: Routledge. (Call no.: R 362.1095 PUB)
+
+#### **Notes**
+
+[^1]:Sepoys were Indian soldiers recruited by the European colonial powers, including the British. Sepoy Lines refers to the area around the junction of Outram Road and New Bridge Road where the barracks for the sepoys were once located. The General Hospital moved to this area in 1882.
+
+[^2]:The General Hospital relocated several times and was known by different names until its final move to Sepoy Lines in the Outram area in 1882. New buildings were subsequently added to the existing ones at Sepoy Lines and the new hospital opened in 1929 as the Singapore General Hospital.
+
+[^3]:Singapore was once a penal colony for convicts from India, Hong Kong and Burma. The first shipment of Indian prisoners arrived in Singapore in 1825 via Bencoolen in Sumatra.
+
+[^4]:The “Ward” referred to the planned female ward of Tan Tock Seng Hospital. The term nurse at this point still referred to any female attendant providing care to the sick, and not a professionally trained nurse.
+
+[^5]:Medical report for 1883. (1884, April 12). Straits Times Weekly Issue, p. 5. Retrieved from NewspaperSG.
+
+[^6]:As the nuns did not have proper training, their duties were limited to cooking, cleaning and following medical instructions.
+
+[^7]:The Strait Times Committee of Subscribers, formed in 1900, was responsible for funding the British nurses’ employment.
+
+[^8]:Miss J. E. Blundell was previously employed in the Native States. Her monthly salary in Singapore was 100 Straits dollars and came with a travelling allowance not exceeding 25 Straits dollars.
+
+[^9]:The Head Nurse was in charge of the nursing staff. The term was later changed to Matron.
+
+[^10]:During that time, Standard IX was the equivalent of today’s GCE ’O’ Levels. Standard VII was equivalent to present-day Secondary 2.
