@@ -24,4 +24,4 @@ permalink: /editors-picks/art
 
 #### [Malay Seals from Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-020/malay-seals)
  
-<img height="80" src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg">
+<img width="80" src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg">
