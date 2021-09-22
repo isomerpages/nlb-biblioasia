@@ -160,11 +160,11 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 [^20]:National Library Board. (2016). Lim Yew Hock written by Mukunthan, Michael. Retrieved from Singapore Infopedia website.
 
-[^21]:Abisheganaden, F. (1957, May 1). Marshall: Final act. *The Straits Times*, p. 1; Majid has to run from rain. (1957, May 28). *The Straits Times*, p. 7; Police bar Majid from that tree. (1957, May 29). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^21]:Abisheganaden, F. (1957, May 1). [Marshall: Final act](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570501-1.2.6.aspx). *The Straits Times*, p. 1; [Majid has to run from rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570528-1.2.100.aspx). (1957, May 28). *The Straits Times*, p. 7; [Police bar Majid from that tree](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570529-1.2.109.aspx). (1957, May 29). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^22]:PAP told: No ‘apple tree’ rally. (1959, April 15). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^22]:[PAP told: No ‘apple tree’ rally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590415-1.2.109.aspx). (1959, April 15). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^23]:There is no putting the clock back in Singapore. (1959, May 11). *The Straits Times*, p. 6; [The united front](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570226-1.2.87.aspx). (1957, February 26). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^23]:[There is no putting the clock back in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590511-1.2.65.aspx). (1959, May 11). *The Straits Times*, p. 6; [The united front](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570226-1.2.87.aspx). (1957, February 26). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^24]:Wild Singapore. (2008, November 10). Jambu bol. Retrieved from Wild Singapore website; Keng, H. (1990). T*[he concise flora of Singapore: Gymnosperms and dicotyledons](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5678012)* (p. 78). Singapore: Singapore University Press, National University of Singapore. (Call no.: RSING 581.95957 KEN)
 
