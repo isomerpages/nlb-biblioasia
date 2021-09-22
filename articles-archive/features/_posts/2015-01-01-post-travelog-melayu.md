@@ -4,7 +4,7 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/travelog-melayu
 layout: post
 ---
-<img src="/images/vol-10-issue-4/travelogmelayu/background.jpg">
+<img src="/images/vol-10-issue-4/travelogmelayu/background_re.jpg">
 
 Travelogues, particularly those from yesteryear, serve as important reference documents that capture a slice of history and culture. These writings serve as sources of information about different places, cultures and communities as encountered by writers at different points in time. This article focuses on some of the most popular Malay-language travelogues available in the National Library collection and highlights several well-known accounts from the 19th century to more recent times. 
 
