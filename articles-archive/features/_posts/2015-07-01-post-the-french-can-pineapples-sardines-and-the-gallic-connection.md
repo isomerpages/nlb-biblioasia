@@ -6,7 +6,7 @@ layout: post
 ---
 #### The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët. **Timothy Pwee** reveals its history and that of the pineapple canning industry in Singapore.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/title.jpg)
+<img src="/images/vol-11-issue-2/frenchcan/title.jpg">
 	
 The French are linked to Singapore in many curious ways. Few people are aware that the French Revolution (1787–99) and the subsequent Napoleonic Wars (1803–15) were responsible for setting off the chain of events that not only led to Stamford Raffles founding an East India Company outpost in Singapore, but also the establishment of the canning industry on the island.
 
@@ -18,8 +18,11 @@ The history of the Ayam brand is intriguing because it was founded in Singapore 
 
 The plant species <i>Ananas comosus</i>, commonly known as the pineapple, is a fruit of the New World. It was discovered in Guadeloupe by Christopher Columbus on 4 November 1493[^1] and brought back to Europe. The fruit proved popular and was transplanted by the Portuguese and the Spanish in their explorations around the globe. Isaac Henry Burkill[^2] noted that the Portuguese learnt to call the pineapple “nana” from the Tupí natives of Brazil, and the word eventually evolved into “nanas” in the lands where the plant was introduced by the Portuguese. The Spanish, however, called it “piña” due to its resemblance to the pine cone, and the communities whom they introduced it to also used the Spanish name. The English name “pineapple” is in fact derived from the Spanish word “piña”. The Malays also call the pineapple “nanas”, while the Bugis refer to it as “pandang” because it resembles the fruit of the pandan plant (<i>Pandanus amaryllifolius</i> and related species).[^3]
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/Alfred.jpg)
-<div style="background-color: white;">Alfred Clouët, the Frenchman who introduced the Ayam brand of canned sardines to Singapore in 1892. <i>Courtesy of Denis Frères Company</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/frenchcan/Alfred.jpg">
+Alfred Clouët, the Frenchman who introduced the Ayam brand of canned sardines to Singapore in 1892. <i>Courtesy of Denis Frères Company</i>.
+</div>
 
 By the mid-1800s, the pineapple fruit was commonly available in Singapore. A pineapple market located by the Singapore River (likely in the Boat Quay area) had become a problem as early as 1844 when a letter in <i>The Singapore Free Press and Mercantile Advertiser</i> complained about the failure to remove “the Pine Apple Mart from the Riverside”.[^4] In 1848, a jury reporting to the court on Singapore’s affairs gave a very eloquent description of the market’s condition: “Indeed so great is the pineapple portion of the nuisance that the Jurors found one of the landing places so obstructed that to have descended the stairs would have been attended with the risk of a fractured Limb”.[^5] A letter written two years later called it a place where “obnoxious miasms are in constant process of manufacture”.[^6]
 
@@ -27,11 +30,17 @@ Where did the pineapples come from? An 1861 article in <i>The Straits Times</i> 
 
 In the mid-19th century, before the discoveries of Frenchman Louis Pasteur, diseases like malaria were thought to be caused by miasmatic vapours, or bad air, giving a more sinister tone to the 1850 letter of complaint about “obnoxious miasms”. This theory of miasmas had existed since the time of the ancient Greeks. In order to identify which miasmas were poisonous, a British doctor in Singapore, Robert Little Esquire, observed the population, their state of health and the surroundings. In 1848, Little reported his findings in Singapore’s first scholarly journal, <i>The Journal of the Indian Archipelago and Eastern Asia</i>, often referred to as Logan’s Journal after its editor James Richardson Logan.[^8] As Blákán Mátí (now known as Sentosa) was notorious for malarial fevers, Little and Logan surveyed Blákán Mátí and the surrounding islands. He described the hills on these islands as covered in pineapples, with Blákán Mátí having at least 200 acres of the fruit, mainly cultivated by the Bugis community.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/pineapples.jpg)
-<div style="background-color: white;">Drawing of two pineapples from the 1598 book, <i>John Hvighen van Linschoten, His Discours of Voyages into ye Easte & West Indies: Devided into foure books. All Rights Reserved, National Library Board Singapore, 2008.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/frenchcan/pineapples.jpg">
+Drawing of two pineapples from the 1598 book, <i>John Hvighen van Linschoten, His Discours of Voyages into ye Easte & West Indies: Devided into foure books. All Rights Reserved, National Library Board Singapore, 2008.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/Pineapples_ready.jpg)
-<div style="background-color: white;">Pineapples ready for the market in Singapore, early 1900s. Courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/frenchcan/Pineapples_ready.jpg">
+Pineapples ready for the market in Singapore, early 1900s. Courtesy of National Archives of Singapore.
+</div>
 
 #### **The First Attempts at Cannin**
 
@@ -45,11 +54,17 @@ In the 1881 edition of the Straits Settlements directory, Bastiani advertised hi
 
 Bastiani did not depend on just preserving fruit. In 1883, he started advertising his imported French products – cheeses, pâté, sardines, tomatoes, etc – in <i>The Straits Times</i>.[^16] By 1900, he had thought of returning home to Nice and apparently did so in 1902 when his residence and pineapple machinery at High Street were advertised for rent and sale respectively.[^17] At the time of his retirement, Singapore’s pineapple canning industry looked rosy, with demand outstripping supply. Bastiani’s cannery was then one of five major factories in Singapore – the others being Landau, Ghin Giap, Tan Twa Hee and Tan Lian Swee.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/logo_res.jpg)
-<div style="background-color: white;">The logo of A. Clouët & Co Ltd bears the trademark cockerel, an unofficial symbol of France, 1892. <i>Courtesy of Denis Frères Company</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/frenchcan/logo_res.jpg">
+The logo of A. Clouët & Co Ltd bears the trademark cockerel, an unofficial symbol of France, 1892. <i>Courtesy of Denis Frères Company</i>.
+</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/frenchcan/Ayam_Triomphe_brand.jpg)
-<div style="background-color: white;">The combined Ayam- Triomphe brand of sardines was first advertised in <i>The Straits Times</i> on 23 March 1917 (p. 6). © <i>The Straits Times</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/frenchcan/Ayam_Triomphe_brand.jpg">
+The combined Ayam- Triomphe brand of sardines was first advertised in <i>The Straits Times</i> on 23 March 1917 (p. 6). © <i>The Straits Times</i>.
+</div>
 
 A 1915 US Department of Commerce report found that although pineapple production was concentrated in Singapore, it was planted as a catch crop[^22] by rubber plantations while waiting for rubber trees to mature. This meant that Singapore’s pineapple canneries did not have an assured supply of pineapple. Even so, Singapore was then still the leading exporter of canned pineapple in the world with 580,065 cases shipped in 1912. The bulk went to the United Kingdom (345,771 cases) and its colonies (105,141 cases). Included in the statistics is the output from Siam’s few pineapple factories; these were largely Singapore offshoots that sent their goods to Singapore for re-export.[^23]
 
