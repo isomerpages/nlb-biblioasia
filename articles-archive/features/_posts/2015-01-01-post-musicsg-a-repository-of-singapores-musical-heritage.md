@@ -4,6 +4,12 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/musical
 layout: post
 ---
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/music/local_singer_re.jpg">
+Local singer, Nicodemus Lee, performing during MusicSG’s post-launch concert held at the National Library.
+</div>
+
 MusicSG is a digital archive set up by the National Library Board (NLB) to digitise, archive and provide access to all forms of published music works in Singapore. The scope of MusicSG is broad, comprising music composed or published by Singaporeans, music produced or published in Singapore, as well as any music related to Singapore. 
 
 By bringing together content on Singapore music, MusicSG aims to elevate the profile of local music and musicians and provide resources for research and discovery, while contributing to NLB's overarching objective in preserving local history and heritage. 
@@ -19,12 +25,6 @@ MusicSG also archives several meaningful local compositions that reflect our nat
 Other special highlights include the 1967 recording of Singapore's national anthem, recorded just two years after Singapore’s Independence, as well as “胶林我们的母亲”(“Rubber Jungle, Our Mother”), the earliest work recorded in MusicSG. This was composed by Boh Chit Hee in 1956, a luminary of the Chinese instrumental music scene in the 1950s and 60s. 
 
 As of October 2014, the archive has amassed more than 13,000 music resources, including tracks, scores, lyrics, biographies and videos. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-4/music/local_singer.jpg">
-Local singer, Nicodemus Lee, performing during MusicSG’s post-launch concert held at the National Library.
-</div>
 
 
 #### **What's New** 
