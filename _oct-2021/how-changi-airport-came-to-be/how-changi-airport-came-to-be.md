@@ -138,30 +138,30 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 #### **NOTES**
 
-[^1]: “[*SQ 101 Makes First Changi Landing with 140,*](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)” *Straits Times*, 2 July 1981, 8; “[*All Poised for the Big Take-off*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810701-1.2.5.aspx),” *Straits Times*, 1 June 1981, 12; “[*Changi Arrives*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810701-1.2.2),” *Straits Times*, 1 July 1981, 1. (From NewspaperSG)
+[^1]: “[SQ 101 Makes First Changi Landing with 140,](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)” *Straits Times*, 2 July 1981, 8; “[*All Poised for the Big Take-off*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810701-1.2.5.aspx),” *Straits Times*, 1 June 1981, 12; “[*Changi Arrives*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810701-1.2.2),” *Straits Times*, 1 July 1981, 1. (From NewspaperSG)
 
-[^2]: Lee Kuan Yew, “[*Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 
-1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford*](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad), 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991)
+[^2]: Lee Kuan Yew, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 
+1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad), 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991)
 
-[^3]: Lee, “[*Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.*](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)”  
+[^3]: Lee, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)”  
 
-[^4]: Lee, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.”  
+[^4]: Lee, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)”  
 
-[^5]: Lee, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.”
+[^5]: Lee, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)”
 
-[^6]: Lee, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.”  
+[^6]: Lee, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)”  
 
-[^7]: Judith Hale, “Billion Dollar Dream Comes True,” *New Nation*, 27 June 1981, 25. (From NewspaperSG)
+[^7]: Judith Hale, “[Billion Dollar Dream Comes True,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810627-1.2.83.1)” *New Nation*, 27 June 1981, 25. (From NewspaperSG)
 
-[^8]: Lee, “Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.”
+[^8]: Lee, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)”
 
-[^9]: Peter Hutton, *Wings Over Singapore: The Story of Singapore Changi Airport* (Singapore: MPH Magazines, 1981), 41. (From National Library, Singapore, Call no. RSING 387.736095957 HUT)
+[^9]: Peter Hutton, [*Wings Over Singapore: The Story of Singapore Changi Airport*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4080278) (Singapore: MPH Magazines, 1981), 41. (From National Library, Singapore, Call no. RSING 387.736095957 HUT)
 
-[^10]: “Dredges Get to Work to Reclaim Land for Changi Airport,” *Straits Times*, 11 July 1976, 7. (From NewspaperSG)
+[^10]: “[Dredges Get to Work to Reclaim Land for Changi Airport,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760711-1.2.82)” *Straits Times*, 11 July 1976, 7. (From NewspaperSG)
 
-[^11]: Judith Hale, “Getting There On Time,” *New Nation*, 27 June 1981, 26–27. (From NewspaperSG)
+[^11]: Judith Hale, “[Getting There On Time,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810627-1.2.83.2)” *New Nation*, 27 June 1981, 26–27. (From NewspaperSG)
 
-[^12]: Hale, “Getting There On Time.”
+[^12]: Hale, “[Getting There On Time.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810627-1.2.83.2)”
 
 [^13]: Hale, “Billion Dollar Dream Comes True.”
 
