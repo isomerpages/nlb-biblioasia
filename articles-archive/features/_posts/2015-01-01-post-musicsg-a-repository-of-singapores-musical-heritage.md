@@ -41,7 +41,7 @@ The new MusicSG website was officially launched on 26 September 2014. Called “
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/music/ukelele_res.jpg">
+<img src="/images/vol-10-issue-4/music/ukelele_ress.jpg">
 Guest performer Corrinne May presented this Custom-designed ukulele to Minister Lawrence Wong at “MusicSG Reloaded”.
 </div>
 
