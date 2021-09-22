@@ -124,7 +124,7 @@ This book is scheduled to be published in October 2021. Thereafter, it will be a
 
 [^3]: [*Sejarah Melayu = The Malay Annals.*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9337906) Compiled by Cheah Boon Keng and transcribed by Abdul Rahman Haji Ismail. (Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society, 1998), 91. (From National Library, Singapore, call no. Malay R 959.5 SEJ)
 
-[^4]: John Frederick Adolphus McNair, *Perak and the Malays: “Sarong and Kris”* (London: Tinsley Brothers, 1878), 90 (From BookSG, call no. RRARE 959.5131 MAC; accession no. B03013449B)
+[^4]: John Frederick Adolphus McNair, [*Perak and the Malays: “Sarong and Kris”*](https://eresources.nlb.gov.sg/printheritage/detail/f9eb3208-a15b-4e46-9d8a-ef27051de954.aspx) (London: Tinsley Brothers, 1878), 90 (From BookSG, call no. RRARE 959.5131 MAC; accession no. B03013449B)
 
 [^5 ]: Juria Toramae, “Notes on Some Outlying Reefs and Islands in Singapore,” *Mynah*, no. 1 (October 2016): 130, Academia, https://www.academia.edu/35691230/Notes_On_Some_Outlying_Reefs_and_Islands_of_Singapore.
 
