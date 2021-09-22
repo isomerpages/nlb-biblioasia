@@ -192,11 +192,11 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 [^36]:Arsenic and old lace – Marshall has another go at Tan. (1955, March 11). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
-[^37]:Food centre to be opened soon. (1973, August 23). New Nation, p. 2. Retrieved from NewspaperSG.
+[^37]:[Food centre to be opened soon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730823-1.2.14.2.aspx). (1973, August 23). *New Nation*, p. 2. Retrieved from NewspaperSG.
 
-[^38]:Television Corporation of Singapore (TCS). (1956, March 21). Chief Minister David Marshall under the apple tree [Sound Recording]. Retrieved from National Archives of Singapore website.
+[^38]:Television Corporation of Singapore (TCS). (1956, March 21). *[Chief Minister David Marshall under the apple tree](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/51348881-1164-11e3-83d5-0050568939ad)* [Sound Recording]. Retrieved from National Archives of Singapore website.
 
-[^39]:Boh, S., & Look, W.W. (2015, May 7). Mature rain trees moved to Victoria Theatre and Concert Hall. The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+[^39]:Boh, S., & Look, W.W. (2015, May 7). Mature rain trees moved to Victoria Theatre and Concert Hall. *The Straits Times*. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^40]:Thum, P. (2011, July). Living Buddha: Chinese perspectives on David Marshall and his government, 1955–1956. *[Indonesia and the Malay World](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=8347428), 39* (114), 256. (Call no.: RSEA 959.8 IMW)
 
