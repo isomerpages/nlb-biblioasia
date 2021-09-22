@@ -128,29 +128,29 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 [^4]:Yeo, Jan 1972, p. 64.
 
-[^5]:National Library Board. (2010). Sir John Fearns Nicoll written by Chua, Alvin. Retrieved from Singapore Infopedia website.
+[^5]:National Library Board. (2010). *[Sir John Fearns Nicoll](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1543_2010-02-26.html)* written by Chua, Alvin. Retrieved from Singapore Infopedia website.
 
-[^6]:Tan, K.Y.L. (2008). Marshall of Singapore: A biography (p. 250). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.5705092 TAN)
+[^6]:Tan, K.Y.L. (2008). *[Marshall of Singapore: A biography](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13150329)* (p. 250). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.5705092 TAN)
 
-[^7]:Marshall will come from the under stairs to his big new office soon. (1955, May 4). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^7]:[Marshall will come from the under stairs to his big new office soon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550504-1.2.115.aspx). (1955, May 4). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^8]:Singapore. Legislative Assembly. (1955, August 5). Special report of the House Committee – Accommodation in Assembly House. Singapore Legislative Assembly. Sessional Paper No. L.A. 7 of 1955. Retrieved from Parliament of Singapore website.
+[^8]:Singapore. Legislative Assembly. (1955, August 5). *Special report of the House Committee – Accommodation in Assembly House*. Singapore Legislative Assembly. Sessional Paper No. L.A. 7 of 1955. Retrieved from Parliament of Singapore website.
 
-[^9]:Tan, 2008, p. 238.
+[^9]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13150329), 2008, p. 238.
 
-[^10]:Choy, S. (1971, July 20). The last governor. The New Nation, p. 9. Retrieved from NewspaperSG.
+[^10]:Choy, S. (1971, July 20). [The last governor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710720-1.2.57.aspx). *The New Nation*, p. 9. Retrieved from NewspaperSG.
 
-[^11]:Labour wins – Marshall will be chief minister. (1955, April 3). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^11]:[Labour wins – Marshall will be chief minister](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550403-1.2.2.aspx). (1955, April 3). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^12]:Tan, 2008, p. 245.
+[^12]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13150329), 2008, p. 245.
 
-[^13]:Marshall likes sarongs too. (1955, April 23). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^13]:[Marshall likes sarongs too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550423-1.2.53.aspx). (1955, April 23). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^14]:A little snack: Whole sheep. (1955, July 22). The Straits Times, p. 7; Gora and the sheep – another attempt. (1955, October 6). The Straits Times, p. 11; ‘How can I eat when you kick me around like a football?’ (1955, July 26). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^14]:[A little snack: Whole sheep](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550722-1.2.132.aspx). (1955, July 22). T*he Straits Times*, p. 7; [Gora and the sheep – another attempt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551006-1.2.168.aspx). (1955, October 6). *The Straits Times*, p. 11; ‘[How can I eat when you kick me around like a football?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550726-1.2.4.aspx)’ (1955, July 26). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^15]:Tan, 2008, pp. 281–287.
+[^15]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13150329), 2008, pp. 281–287.
 
-[^16]:Tan, 2008, p. 287.
+[^16]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13150329), 2008, p. 287.
 
 [^17]:Abisheganaden, F. (1956, March 10). [7-day Merdeka Drive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560310-1.2.2.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG; *[Mr. David Marshall nailing a poster on a tree at Empress Place, before 1957](http://eresources.nlb.gov.sg/printheritage/image.aspx?id=bd43eea8-e5e6-415b-86e2-b95ef8d03156)* [Image of Photograph], [Online]. In D. Marshall. (1971), *[Singapore’s struggle for nationhood, 1945–59](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082561)* (p. 45). Singapore: University Education Press. (Call no.: RCLOS 959.57024 MAR)
 
