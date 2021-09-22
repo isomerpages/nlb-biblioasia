@@ -23,7 +23,7 @@ According to the Modern Girl Around the World Research Group based in the Univer
 
 #### **A Modern Girl By Any Other Name**
 
-While the term “Modern Girl” first appeared during the 1920s and 30s, the use of the term “girl” was popularised in England in the late 19th century and referred to “working-class and middle-class unmarried women who occupied an ephemeral free space between childhood and adulthood.” By the 1920s and 30s, however, “girl” had come to refer to young women who aspired to subvert conventional female roles and expectations.[^8]
+While the term “Modern Girl” first appeared during the 1920s and 30s, the use of the term “girl” was popularised in England in the late 19th century and referred to “working-class and middle-class unmarried women who occupied an ephemeral free space between childhood and adulthood”. By the 1920s and 30s, however, “girl” had come to refer to young women who aspired to subvert conventional female roles and expectations.[^8]
 
 The Modern Girl went by different names in different places. In the US, she was sometimes known as a “flapper”, in China as 摩登小姐 (<i>modeng xiaojie</i>; modern young lady) and in India as <i>kallege ladki</i> (college girl). In Singapore, the English-language press commonly referred to her as the Modern Girl or Modern Woman. Regardless of what she was called, Modern Girls were identified as young women with an “up-to-date and youthful femininity”, provocative in behaviour and fashion that drew influence from other countries.[^9]
 
@@ -37,11 +37,10 @@ As international companies began customising their advertisements to appeal to d
 
 The print media – such as pictorial magazines, journals and newspapers – also began selling a modern lifestyle and culture. In cities like Shanghai, pictorial magazines such as《良友》(<i>Liangyou; The Young Companion</i>), featured the latest in fashion, makeup and celebrities.[^11] Available in Singapore, <i>Liangyou</i> would have presented a different way for women to see themselves and shape their lives.[^12]
 
-According to historian Chua Ai Lin, Hollywood played a key role in influencing social change among Singapore’s youth and the city’s modern identity. Singapore’s young women looked to Hollywood not only for fashion and beauty tips and trends, but also for contemporary views on love, sex and romance. Chua suggests, however, that cultural products such as film appeared to effect greater change in women due to the parallel evolution of women’s social roles.[^13]
-
-
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/The%20Young%20Companion.jpg)
-<div style="background-color: white;">《良友》 (<i>Liangyou; The Young Companion</i>) was a pictorial magazine produced in Shanghai. It featured the latest in fashion and celebrity lifestyles. <i>Image reproduced from良友 = The Young Companion, no. 90 (Shanghai: Shanghai Liangyou Book Printing Co., Ltd, 1934). (From National Library, Singapore, Call no. Chinese R059.951 YC).</i></div>
+<div style="background-color: white;">《良友》 (<i>Liangyou; The Young Companion</i>) was a pictorial magazine produced in Shanghai. It featured the latest in fashion and celebrity lifestyles. <i>Image reproduced from 良友 = The Young Companion, no. 90 (Shanghai: Shanghai Liangyou Book Printing Co., Ltd, 1934). (From National Library, Singapore, Call no. Chinese R059.951 YC).</i></div>
+
+According to historian Chua Ai Lin, Hollywood played a key role in influencing social change among Singapore’s youth and the city’s modern identity. Singapore’s young women looked to Hollywood not only for fashion and beauty tips and trends, but also for contemporary views on love, sex and romance. Chua suggests, however, that cultural products such as film appeared to effect greater change in women due to the parallel evolution of women’s social roles.[^13]
 
 The interwar years  in Singapore saw drastic changes in women’s societal roles. For the first time, a significant number of females had become part of the workforce, consumers of public amusements and, more importantly, students.[^14]
 
@@ -71,7 +70,7 @@ The press became a space where Singapore’s Modern Girls could push back and ma
 Those who wrote to the <i>Malaya Tribune</i> were mainly English-educated Straits Chinese men and women, hence when the topic was discussed, it tended to centre on the Chinese Modern Girl. (It is important to note, however, that many letter-writers used pseudonyms, making it a challenge to ascertain their identities and verify the content. Nonetheless, these letters offer valuable insight into the voices of educated Asians in colonial Singapore.)
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/maltribune_19271202_0005.jpg)
-<div style="background-color: white;"> This watch advertisement features a Modern Girl, characterised by her distinctive wavy bob hairstyle and trendy shoulder-baring dress. <i>Image reproduced from The Malaya Tribune, 2 December 1927, 5. (From NewspaperSG).</i></div>
+<div style="background-color: white;"> This watch advertisement features a Modern Girl, characterised by her distinctive wavy bob hairstyle and trendy shoulder-baring dress. <i>Image reproduced from the Malaya Tribune, 2 December 1927, 5. (From NewspaperSG).</i></div>
 
 In March 1931, a “Miss Tow Foo Wah” voiced her concern that her fellow female schoolmates were wearing Western-style dresses that were “much too short above the knees”, describing them as “disgraceful”.[^22] Similarly, another writer who used the name “Evelyn” expressed that “a skirt that is six inches above the knees or a flear[sic]-skirt with the upper part exposed is a disgrace to put on. […] It is better for us to put on skirts exactly up to the knees or an inch above or lower”.[^23]
 
@@ -98,7 +97,7 @@ Thanks to education, Modern Girls were able to break with conservative norms and
 Women also started to break into traditionally male dominated jobs. In May 1936, the Singapore branch of the Whiteaway departmental store opened its newly modernised store. While it boasted new features such as an electric lift, the true marker of its modernity was the introduction of Singapore’s first-ever female lift operator. Whiteaway was praised for following the lead of “other civilised parts of the world” such as Britain, Europe and America and the young lift operator was described as having “courageously given the lead” on the modernisation of the store.[^35] In another article, the <i>Morning Tribune</i> wrote that in employing a woman to be a lift attendant, Malaya had shown that it accepted the modern principle that “girls are as good as men at some jobs”.[^36]
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/morningtribune_19360501_0011.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/morningtribune_19360501_00112.jpg)
 <div style="background-color: white;">Whiteawy department store introduced Singapore’s first-ever female lift operator when it opened its new store in May 1936. <i>Image reproduced from Morning Tribune, 1 May 1936, 11. (From NewspaperSG).</i></div>
 
 The Modern Girl’s new outlook on life and work sparked debate among Asian anglophones in the press. In a 1938 opinion piece, Zola, a <i>Malaya Tribune</i> correspondent, mused whether young women should be allowed the right to compete with men for commerce jobs.[^37]
@@ -223,7 +222,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^39]: C.T.C., “[Girls in Offices](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380504-1.2.143),” *Malaya Tribune*, 4 May 1938, 20. (From NewspaperSG)
 
-[^40]: Educated Female, ‘“[Zola” Did Start Something](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380420-1.2.178),” *Malaya Tribune*, 20 April 1938, 20. (From NewspaperSG)
+[^40]: Educated Female, “['Zola' Did Start Something](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380420-1.2.178),” *Malaya Tribune*, 20 April 1938, 20. (From NewspaperSG)
 
 [^41]: Sunny Girl, “[Another Girl’s Views](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380420-1.2.181),” *Malaya Tribune*, 20 April 1938, 20. (From NewspaperSG)
 
@@ -233,7 +232,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 
 [^44]: Lewis, “Cosmopolitanism and the Modern Girl”, 1387. 
 
-[^45]: “Audi Alterem Partem”, “[Unmarriageable” Chinese Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19311120-1.2.13),” *Malaya Tribune*, 20 November 1931, 5. (From NewspaperSG)
+[^45]: “Audi Alterem Partem”, “['Unmarriageable' Chinese Girls](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19311120-1.2.13),” *Malaya Tribune*, 20 November 1931, 5. (From NewspaperSG)
 
 [^46]: Goh Tong Liang, “[Unmarriageable Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19311230-1.2.16),” *Malaya Tribune*, 20 December 1931, 3. (From NewspaperSG)
 
