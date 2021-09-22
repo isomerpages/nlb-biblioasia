@@ -4,7 +4,8 @@ permalink: /vol-17/issue-3/oct-dec-2021/theroleofforaging
 ---
 #### Foraging for food in the hills, the forests and the coastline has been carried out by the Malays for centuries, as **Khir Johari** tells us.
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/Facing%20Page.jpg)
 <div style="background-color: white;">Foraging at low tide. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 
 The <i>Sulalat al-Salatin</i>[^1] (<i>Genealogy of Kings</i>), better known as <i>Sejarah Melayu</i> or <i>Malay Annals</i>, tells us that when Sang Nila Utama – the Sumatran prince of Palembang who sired the Malay kings of old Singapura – landed on the island of Temasek around 1299,[^2] the shores were at a dry low tide (<i>ayer tohor</i>). We know this because the tale reports that the first thing his men did after landing was to forage along the beach. Here Sang Nila Utama is referred to by his title Sri Tri Buana, which means “Lord of Three Worlds” (the upper realm of the gods, the world of humans and the underworld):
@@ -19,7 +20,8 @@ Foraging, requiring little to no specialised tools and demanding less physical e
 
 The Malays foraged in multiple ecological domains and habitats. This emerged from their well-oriented understanding of local geography, which was made legible by the use of specific nomenclature. They identified different types of terrestrial features: there were <i>padang</i> (plains), <i>cangkat</i> (knolls), <i>bukit</i> (hills), <i>lembah</i> (valleys) and <i>gunung</i> (mountains). But even flat land itself was differentiated based on elevation, with <i>darat</i> (upland) distinguished from <i>baruh</i> (lowland). Forests, or <i>hutan</i>, were classified as either <i>rimba</i> (virgin forest) or <i>belukar</i> (secondary forest). Rivers were divided into <i>hulu</i> (upstream) and <i>hilir</i> (downstream). Freshwater swamps, or <i>paya</i>, were different from mangrove swamps, or <i>bakau</i>. Formations on the coast were also differentiated into <i>telok</i> (bays and coves) and <i>tanjong</i> (capes). At sea, the Malays identified <i>terumbu</i> or <i>beting</i> (patch reefs), <i>karang</i> (coral reefs) and <i>busung</i> (mudflats).
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/Botok.jpg)
 <div style="background-color: white;">(Left) Foraged leaves and herbs to make botok-botok. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i> (Right) To prepare botok-botok, fish slices are marinated with spices and infused with flavourful foliage and herbs, before being wrapped in banana leaves and steamed. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 
 On land, the Malays foraged in the spacious yards around their rural homes, in the <i>belukar</i> near their villages as well as along trails that connected them. Much could be made of the leaves, shoots, stems and roots found therein. In the dish known as <i>botok-botok</i>, fish steak is marinated with spices and infused with flavourful foliage and herbs before being wrapped in banana leaves and steamed. Flowers could also be gathered for consumption. The flowers of the durian tree – prior to their fruiting – were often collected and enjoyed as <i>ulam</i> (a dish of raw vegetables eaten with rice).
@@ -34,7 +36,7 @@ Of course the sea was no stranger. Gathering shellfish, seaweed and other intert
 
 Cockles were once abundant along the entire west coast of the Malay Peninsula and on the sandy shores of Singapore. Collected in bucketfuls and carefully rinsed, these shellfish are “a favourite article of diet” of the Malays,[^4] who cooked them into <i>sambal</i>, or simply boiled them, stir-fried with vegetables, or skewered into <i>sate kerang</i>.
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_0050_cmyk.jpg)
 <div style="background-color: white;">Sea urchin consumption was once common among coastal Malays. In many parts of the world today, sea urchin is considered a delicacy. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 
 In the days before Singapore’s southern islands were reclaimed and their inhabitants relocated to the mainland, the islands were home to various Malay communities who had an intimate relationship with the marine ecology around them. Juria Toramae, an independent researcher, artist and marine conservationist, has written about how the residents of outlying islands like Pulau Sudong lived off collecting corals and seaweed, in a place where land was too scarce to put under the plough. She notes how “corals and seaweeds were popular amongst Singapore’s mainlanders for home decoration and jelly-making”.[^5]
@@ -47,7 +49,8 @@ Remnants of this lost way of life can be seen today only in those parts of the R
 
 Bound by ties of kinship, these island communities transcended the artificial international borders that divide the waters between Singapore and Indonesia, first drawn up by the British and Dutch colonial powers in the Anglo-Dutch Treaty of 1824.[^7] Prior to the 1997 Asian Financial Crisis, the Singapore dollar was a widely accepted currency in Riau. Even when Riau islanders got married, dowry exchange was made in the Singapore dollar as well. This affinity with Singapore was made possible by geographical proximity. 
 
-	![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_0903_cmyk.jpg)
 <div style="background-color: white;">Male <i>gonggong</i> (sea snails) collected from mudflats. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.
 </i></div>
 	
@@ -57,7 +60,8 @@ Of course, mainland Singapore itself is an island, and Malays residing in its co
 
 In 2009, the <i>Berita Harian</i> newspaper reported that two women – Che’ Kamsiah and Che’ Saemah – were seen picking cockles and shellfish from Sungai Ketapang, a tributary of the Bedok River (Sungai Bedok).[^8] That an activity once so commonplace is now considered newsworthy attests to the radical transformation in the way of life of Malays in Singapore. Sungai Ketapang has since been canalised in concrete and courses by the Laguna National Golf and Country Club before flowing into the Bedok River.
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_0933_cmyk.jpg)
 <div style="background-color: white;">Picking the seasonal <i>agar-agar</i>, which is boiled down and its gelatinous by-product made into dessert throughout the Malay world. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 	
 #### **Conscious Consumption**
@@ -66,7 +70,8 @@ Prior to reclamation and more recent development, one can imagine how Sungai Ket
 
 This knowledge extends to understanding what can be acquired at which times of the day and year, as well as the natural processes of an ecological system that make such foraging practices sustainable. For Malays living in pre-industrial times, where natural resources were readily shared with the community, the principle of conscious consumption was largely upheld. 
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_1065_cmyk.jpg)
 <div style="background-color: white;"><i>Janur</i> (tender young coconut fronds), destined for transformation into <i>ketupat</i> casing. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 	
 For instance, it was never in the long-term interest of a kampong community to harvest all the fish in a water body at once, even if one had the means. Some foraging practices could even help in the propagation of certain plants, such as <i>turi</i> (<i>Sesbania grandiflora</i>) and <i>ubi kayu</i> (cassava; <i>Manihot esculenta</i>), where a broken-off stem regenerates into two or more new ones. Even when flowers were picked, it was important not to strip the entire plant bare, but to leave some flowers behind to ensure that there was no decline in the fruit crop.
@@ -106,7 +111,8 @@ Journalist and food writer Michael Pollan argues that the modern food industry h
 
 Cultural knowledge on consumption – providing a system of ethics, taboos, and other do’s-and-don’ts with regard to nutrition – has also become increasingly less relevant as advancements in nutrition science offer more systematic guidelines. While the latter ought to be celebrated, we cannot help but mourn, however little, the loss of inherited wisdom from earlier generations that understood food within an ecological context, and one in which the human consumer was embedded. As global food security becomes an increasing concern, it is perhaps timely to remind ourselves that not so long ago, it was still in fact possible for people in Singapore and the region to – at least in part – feed themselves by directly harnessing nature’s gifts.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="Photo here" style="width: 100px; height: 100px;" />This is an edited chapter from <i>The Food of Singapore Malays: Gastronomic Travels Through the Archipelago</i>  by Khir Johari, published by Marshall Cavendish Editions (2021). The book explores in detail the history and culture of Malay food in Singapore and raises questions such as: How did Malay cuisine evolve to its modern-day form? How has geography influenced the way Malays eat? What cultural beliefs shape the rituals of Malay gastronomy? What does food tell us about the Malay worldview?<br><br>
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="/images/vol-17-issue-3/malay-cuisine/The%20Food%20of%20Singapore%20Malays%20-%20Cover%20-%20Box.png" style="width: 100px; height: 100px;" />This is an edited chapter from <i>The Food of Singapore Malays: Gastronomic Travels Through the Archipelago</i>  by Khir Johari, published by Marshall Cavendish Editions (2021). The book explores in detail the history and culture of Malay food in Singapore and raises questions such as: How did Malay cuisine evolve to its modern-day form? How has geography influenced the way Malays eat? What cultural beliefs shape the rituals of Malay gastronomy? What does food tell us about the Malay worldview?<br><br>
 This book is scheduled to be published in October 2021. Thereafter, it will be available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries. It will also retail at major bookshops in Singapore.
 </div>
 
