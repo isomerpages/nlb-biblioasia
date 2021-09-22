@@ -187,7 +187,7 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 [^24]: “Land Transport Master Plan 2040,” Land Transport Authority, accessed 30 June 2021, https://www.lta.gov.sg/content/dam/ltagov/who_we_are/our_work/land_transport_master_plan_2040/pdf/LTA%20LTMP%202040%20eReport.pdf. 
 
-[^25]: Ministry of Information, Communications and the Arts, “Corporatisation of Changi Airport and Restructuring of Civil Aviation Authority of Singapore (CAAS),” 7 October 2008, transcript. (From National Archives of Singapore, Document no. 20081007996) 
+[^25]: Ministry of Information, Communications and the Arts, “[Corporatisation of Changi Airport and Restructuring of Civil Aviation Authority of Singapore (CAAS)](https://www.nas.gov.sg/archivesonline/speeches/record-details/7f42e25b-115d-11e3-83d5-0050568939ad),” 7 October 2008, transcript. (From National Archives of Singapore, Document no. 20081007996) 
 
 [^26]: Feng Zengkun, *Jewel Changi Airport: Through the Eye of the Builder* (Singapore: Woh Hup-Obayashi Joint Venture [Project Jewel]: Straits Times Press, 2019), 22. (From National Library, Singapore, Call no. RSING 725.39095957 FEN)
 
