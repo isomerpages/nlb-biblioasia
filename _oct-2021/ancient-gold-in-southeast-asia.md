@@ -161,7 +161,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^35]: Ambra Calo, et al., “[Trans-Asiatic Exchange of Glass, Gold and Bronze: Analysis of Finds from the Late Prehistoric Pangkung Paruk Site](https://www-proquest-com.proxy.lib.sg/central/docview/2356393944/8C897468AD7E4D05PQ/1?accountid=12691),” *Antiquity*94, no. 373 (February 2020), 119. (From ProQuest Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^36]: The Majapahit empire, founded in 1294 CE, was based in East Java. Singapore was said to be a vassal state of Majapahit. See Miksic, *Singapore & the Silk Road of the Sea: 1300–1800*, 185.
+[^36]: The Majapahit empire, founded in 1294 CE, was based in East Java. Singapore was said to be a vassal state of Majapahit. See Miksic, [*Singapore & the Silk Road of the Sea: 1300–1800*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 185.
 
 [^37]: Wang Dayuan (汪大渊) mentions an attack by Siam around 1330 CE, when the Siamese were trying to establish influence in the area. According to a text called the *Pararaton*, Majapahit military leader Gajah Mada is said to have made an oath to conquer a list of places in the Nusantara region (maritime Southeast Asia). Temasek is mentioned in the list. According to the *Nagarakrtagama* text dated approximately 1365 CE, Gajah Mada was successful in achieving his oath. See Miksic, *Singapore & the Silk Road of the Sea: 1300-1800*, 163, 185.
 
