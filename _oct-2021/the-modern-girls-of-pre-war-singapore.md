@@ -4,7 +4,8 @@ permalink: /vol-17/issue-3/oct-dec-2021/moderngirl
 ---
 #### **Andrea Kee** explores how the enigmatic Modern Girl asserted her new-found identity, femininity and independence in interwar Singapore.
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/Facing%20Page.jpg)
 <div style="background-color: white;">Portrait of a woman with a permed bob and floral <i>cheongsam</i>, 1930s. Also known as the Shanghai dress, the <i>cheongsam</i> was popularised by Shanghai’s film stars and favoured by local Modern Girls. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore. </i></div>
 
 In the first half of the 20th century, major cities around the world began to witness a new phenomenon: the emergence of the Modern Girl.[^1] She was almost instantly recognisable with her distinctive wavy bobbed hair, painted lips, slim body (often with her arms and back exposed), and always impeccably dressed in the latest fashion.[^2] A historically specific expression of modernity and femininity, she appeared almost simultaneously in cities like Beijing, Bombay, Tokyo and New York during the interwar years. 
@@ -13,7 +14,8 @@ The Modern Girl was also a phenomenon in Singapore of course. As diplomat-turned
 
 Departing from the traditional female roles of “dutiful daughter, wife and mother”,[^4] women were becoming increasingly involved in activities such as working, sports, and smoking and drinking, which were previously considered the domains of men.[^5] These social changes were in part motivated by the rise of feminism, the development of women’s suffrage movements in places like Britain, America and India, and more women participating in nationalist movements.[^6]
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/tmurasu_19360505_0005.jpg)
 <div style="background-color: white;">This advertisement for Mysore Sandal Soap features a woman with shaped brows, painted lips and bobbed hair. However, the inclusion of a <i>bindi</i> and head covering – elements of her Indian heritage – give her a distinctively hybrid Modern Girl look. <i>Image reproduced from தமிழ் முரசு (Tamil Murasu), 
 5 May 1936, 5. (From NewspaperSG).</i></div>
 
@@ -27,7 +29,8 @@ The Modern Girl went by different names in different places. In the US, she was 
 
 As international companies began customising their advertisements to appeal to domestic markets, local companies started adopting the advertising strategies of international companies.[^10] By the 1930s, local businesses had begun constructing a Modern Girl relatable to the masses in Singapore. Advertisements in Singapore’s vernacular and other English press targeted at local Asians often featured a female with features drawn from elsewhere, yet sporting elements distinctive to the cultures of the region (such as the muslim headscarves and the coloured dot known as <i>bindi</i> that Indian women wear on their foreheads).
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/Sarong%20Kebaya.jpg)
 <div style="background-color: white;">Two women, one with a scarf wrapped around her head (left) and the other with a wavy bob (right), dressed in <i>sarong kebayas</i> in Penang, 1930s. Local Modern Girls often drew inspiration from both Western and regional fashion and beauty trends. <i>Image reproduced from Peter Lee, Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950 (Singapore: Asian Civilisations Museum, 2014), 271. (From National Library, Singapore, Call no.: RSING 391.20899510595 LEE-[CUS]).</i></div>
 
 #### **The Modern Girl in Singapore**
@@ -36,7 +39,8 @@ The print media – such as pictorial magazines, journals and newspapers – als
 
 According to historian Chua Ai Lin, Hollywood played a key role in influencing social change among Singapore’s youth and the city’s modern identity. Singapore’s young women looked to Hollywood not only for fashion and beauty tips and trends, but also for contemporary views on love, sex and romance. Chua suggests, however, that cultural products such as film appeared to effect greater change in women due to the parallel evolution of women’s social roles.[^13]
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/The%20Young%20Companion.jpg)
 <div style="background-color: white;">《良友》 (<i>Liangyou; The Young Companion</i>) was a pictorial magazine produced in Shanghai. It featured the latest in fashion and celebrity lifestyles. <i>Image reproduced from良友 = The Young Companion, no. 90 (Shanghai: Shanghai Liangyou Book Printing Co., Ltd, 1934). (From National Library, Singapore, Call no. Chinese R059.951 YC).</i></div>
 
 The interwar years  in Singapore saw drastic changes in women’s societal roles. For the first time, a significant number of females had become part of the workforce, consumers of public amusements and, more importantly, students.[^14]
@@ -52,7 +56,8 @@ Singapore’s Modern Girl challenged existing gender norms through her expressio
 
 One such young woman was Betty Lim, who later wrote <i>A Rose on My Pillow: Recollections of a Nyonya</i>. Before the popularity of the Modern Girl look, her long hair was usually styled in a traditional Straits Chinese <i>sanggul</i> (plaited hair that was coiled up) for formal events. In the late 1920s, Lim cut her hair in the style of American actress Colleen Moore – a straight bob with a fringe – and showed off her new “radical” look at a party she attended with her sibling.[^17]
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/malayansatpost_19280505_0036.jpg)
 <div style="background-color: white;">Colleen Moore, a popular American actress who starred in multiple films in the 1920s and 30s, popularised the Modern Girl’s quintessential short bob. <i>Image reproduced from Malayan Saturday Post, 5 May 1928, 36. (From NewspaperSG).</i></div>
 
 Singapore’s Modern Girls were also influenced by fashion styles from the region, such as the sarong <i>kebaya</i> (a tight-fitting sheer embroidered lace blouse paired with a batik sarong skirt), which was first worn in Java in the Dutch East Indies. In the 18th and late 19th centuries, Peranakan women typically wore the <i>baju panjang</i> or <i>baju kurung</i> (a knee-length tunic worn over a batik sarong), but by the 1920s the sarong <i>kebaya</i> had become the attire of choice for Peranakan women in the Dutch East Indies and younger Peranakan women in the Straits Settlements.[^18]
@@ -65,7 +70,7 @@ The press became a space where Singapore’s Modern Girls could push back and ma
 
 Those who wrote to the <i>Malaya Tribune</i> were mainly English-educated Straits Chinese men and women, hence when the topic was discussed, it tended to centre on the Chinese Modern Girl. (It is important to note, however, that many letter-writers used pseudonyms, making it a challenge to ascertain their identities and verify the content. Nonetheless, these letters offer valuable insight into the voices of educated Asians in colonial Singapore.)
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/maltribune_19271202_0005.jpg)
 <div style="background-color: white;"> This watch advertisement features a Modern Girl, characterised by her distinctive wavy bob hairstyle and trendy shoulder-baring dress. <i>Image reproduced from The Malaya Tribune, 2 December 1927, 5. (From NewspaperSG).</i></div>
 
 In March 1931, a “Miss Tow Foo Wah” voiced her concern that her fellow female schoolmates were wearing Western-style dresses that were “much too short above the knees”, describing them as “disgraceful”.[^22] Similarly, another writer who used the name “Evelyn” expressed that “a skirt that is six inches above the knees or a flear[sic]-skirt with the upper part exposed is a disgrace to put on. […] It is better for us to put on skirts exactly up to the knees or an inch above or lower”.[^23]
@@ -92,7 +97,8 @@ Thanks to education, Modern Girls were able to break with conservative norms and
 
 Women also started to break into traditionally male dominated jobs. In May 1936, the Singapore branch of the Whiteaway departmental store opened its newly modernised store. While it boasted new features such as an electric lift, the true marker of its modernity was the introduction of Singapore’s first-ever female lift operator. Whiteaway was praised for following the lead of “other civilised parts of the world” such as Britain, Europe and America and the young lift operator was described as having “courageously given the lead” on the modernisation of the store.[^35] In another article, the <i>Morning Tribune</i> wrote that in employing a woman to be a lift attendant, Malaya had shown that it accepted the modern principle that “girls are as good as men at some jobs”.[^36]
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/morningtribune_19360501_0011.jpg)
 <div style="background-color: white;">Whiteawy department store introduced Singapore’s first-ever female lift operator when it opened its new store in May 1936. <i>Image reproduced from Morning Tribune, 1 May 1936, 11. (From NewspaperSG).</i></div>
 
 The Modern Girl’s new outlook on life and work sparked debate among Asian anglophones in the press. In a 1938 opinion piece, Zola, a <i>Malaya Tribune</i> correspondent, mused whether young women should be allowed the right to compete with men for commerce jobs.[^37]
@@ -109,7 +115,8 @@ Some Modern Girls were able to go well beyond the role that society had prescrib
 
 However, conservative ideas were still pervasive even among Modern Girls. For instance, Betty Lim might have looked like a Modern Girl, but she did not share all the ideals of personal agency that they embodied. She led a sheltered life and did not have close contact with men and was, in fact, not allowed to go out with her fiancé unchaperoned.[^43]
 
-![Alt text for image on Isomer site]()
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/Couple%20Studio%20Portrait.jpg)
 <div style="background-color: white;">A 1930s studio portrait of a couple dressed in Western-style clothing. The woman is wearing a straw cloche hat, a popular hat style for women in the 1920s to early 30s. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
 
 Modern Girls had to constantly contend with prevailing patriarchal expectations of becoming wives and mothers, as well as those who were anxious about how such young women challenged “traditional structures of authority”.[^44]
@@ -120,7 +127,7 @@ While some agreed that Modern Girls lacked the ability to manage domestic affair
 
 In her <i>Straits Times</i> article, June Lee said that despite the new freedoms enjoyed by the Modern Girl, it was unquestionable that they would eventually have to marry: “[The Modern Girl] may take up a career – an escape from domestic boredom for a while – but her ultimate aim is marriage.”[^48] Other articles touted the Modern Girl’s increased education as a path that opened up greater career opportunities, but in the same breath also noted it made her an “asset to her husband” by being a better companion. After marriage, many husbands preferred their working wives to stay home to “learn the career of being a ‘helpful wife and wise mother’”.[^49]
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/modern-girl/Blank%20-%20Nanyang%20Girls.jpg)
 <div style="background-color: white;">Nanyang Girls’ School athletes at a sports meet, 1930s. Previously relegated to the sidelines, changing gender norms in the early 20th century saw more young women taking part in sports. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
 
 Despite modernity’s promise of a more liberated lifestyle for women, not all young women could aspire to be Modern Girls though. Many young women, especially those from poorer families in interwar Singapore, still had limited freedoms and found it difficult to break with conventional gender roles. It was only after the war that more women across different social classes began venturing out of the domestic sphere to work, and attire favoured by the Modern Girl, such as the <i>cheongsam</i>, became more affordable.[^50]
@@ -129,10 +136,12 @@ Whatever the case, the Modern Girls of the period played a key role in initiatin
 
 Despite the criticisms and limits placed on Modern Girls, they actively, vocally and bravely challenged their detractors to prevent themselves from being seen solely as wives and mothers, and confined only to domestic chores. Their attempts at disrupting social conventions were important and significant steps toward establishing and normalising greater gender equality in all aspects of life.
 
+
+
 <div style="background-color: white;">
 <br/>
-<img src="" style="width: 100px; height: 100px;" />
-	<b>Andrea Kee</b> is an Associate Librarian with the National Library, Singapore, who works with the Singapore and Southeast Asia collections. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
+<img src="/images/vol-17-issue-3/authors/Profile%20-%20Andrea%20Kee.png" style="width: 100px; height: 100px;"/>
+<b>Andrea Kee</b> is an Associate Librarian with the National Library, Singapore, who works with the Singapore and Southeast Asia collections. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
 
 #### NOTES
 
