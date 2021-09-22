@@ -185,7 +185,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^47]: Lien Dwiari Ratnawati, “Kelompok Pembuat Perhiasan pada masa Jawa Kuna: Data Prasasti Masa Kayuwangi-Balitung,” in *Metalurgi dalam Arkeologi: Proceedings - Analisis Hasil Penelitian Arkeologi IV, Kuningan, 10–16 September 1991* (Jakarta: Pusat Penelitian Arkeologi Nasional, Departemen Pendidikan dan Kebudayaan, 1993), 225–34, Repositori Institusi Kementrian Pendidikan dan Kebudayaan, http://repositori.kemdikbud.go.id/3935/.
 
-[^48]: Jan Wisseman Christie, “Money and its Uses in the Javanese States of the Ninth to Fifteenth Centuries A.D.,” *Journal of the Economic and Social History of the Orient* 39, no. 3 (1996): 243–86. (From JSTOR via NLB’s eResources website)
+[^48]: Jan Wisseman Christie, “Money and its Uses in the Javanese States of the Ninth to Fifteenth Centuries A.D.,” *Journal of the Economic and Social History of the Orient* 39, no. 3 (1996): 243–86. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^49]: The Chinese sources that mention this are Wang Dayuan’s (汪大渊) *A Brief Account of Island Barbarians* (島夷志略; *Dao Yi Zhi Lue*, dated 1349 CE) and Feixin’s (费信) *The Overall Survey of the Star Raft* (星槎勝覽; *Xing Cha Sheng Lan*, dated 1436 CE). See Rockhill, “Notes on the Relations and Trade of China,” 129–32; see also John N. Miksic and Geok Yian Goh, *Ancient Southeast Asia* (London: Routledge, 2017), 177–78, 502. (From National Library, Singapore, Call no. RSEA 959.01 MIK) 
 
