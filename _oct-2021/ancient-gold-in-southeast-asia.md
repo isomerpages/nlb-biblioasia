@@ -119,7 +119,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^14]: Dorian Q. Fuller, et al., “[Across the Indian Ocean: The Prehistoric Movement of Plants and Animals](https://www-proquest-com.proxy.lib.sg/central/docview/880070714/936EE1013D854D1FPQ/1?accountid=12691),”* Antiquity* 85, no. 328 (June 2011): 544–58. (From ProQuest Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Ray, “[Culture, the Written Word, and the Sea, 3rd Century BCE to 4th Century CE](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205218314),” 21–53.
 
-[^15]: Abū Zayd al-Sīrāfī, *Accounts of China and India: Lively Depictions of the Natural Life, Peoples, and Kingdoms Around the Indian Ocean*, trans. Tim Mackintosh-Smith (New York: New York University Press, 2017), 43–44. (From National Library, Singapore, Call no. R 915.104 SIR-[TRA]) (Abū Zayd al-Sīrāfī was a seafarer who moved from the Persian port-city of Siraf to Basra.)
+[^15]: Abū Zayd al-Sīrāfī, [*Accounts of China and India: Lively Depictions of the Natural Life, Peoples, and Kingdoms Around the Indian Ocean*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), trans. Tim Mackintosh-Smith (New York: New York University Press, 2017), 43–44. (From National Library, Singapore, Call no. R 915.104 SIR-[TRA]) (Abū Zayd al-Sīrāfī was a seafarer who moved from the Persian port-city of Siraf to Basra.)
 
 [^16]: Abū Zayd al-Sīrāfī, *Accounts of China and India*, 43–44.
 
