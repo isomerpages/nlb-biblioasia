@@ -173,9 +173,9 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 [^17]: Wendy Yang, “[246 in Historic Landing at Changi Airport,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810601-1.2.44)” *Straits Times*, 1 June 1981, 8. (From NewspaperSG)
 
-[^18]: Yang, “246 in Historic Landing at Changi Airport.”
+[^18]: Yang, “[246 in Historic Landing at Changi Airport.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810601-1.2.44)”
 
-[^19]: Wu Wei Neng, *Integrating the Planning of Airports and the City: The Singapore Story*, ed. Cheong Kay Teck (Singapore: Centre for Liveable Cities, 2019), 18. (From National Library, Singapore, Call no.: RSING 387.7362095957 CHE)
+[^19]: Wu Wei Neng, [*Integrating the Planning of Airports and the City: The Singapore Story*, ed.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204008491) Cheong Kay Teck (Singapore: Centre for Liveable Cities, 2019), 18. (From National Library, Singapore, Call no.: RSING 387.7362095957 CHE)
 
 [^20]: Ong Teng Cheong, oral history interview by Lee Ee Boon, 19 June 1987, transcript and MP3 audio, Reel/Disc 3 of 5. (From National Archives of Singapore, Accession no. 000794) 
 
