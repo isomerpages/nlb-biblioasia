@@ -56,7 +56,7 @@ Post-war Singapore was a dismal scene: inflation was high, many people were jobl
 
 The SVC was reorganised and its composition became more multi-racial in character – the European, Eurasian, Malay and Chinese companies were all dropped. And for the first time, locals were given key appointments within the SVC, attracting new volunteers to join the corps. This was history in the making, as over time, the SVC would evolve into the modern Singapore Armed Forces.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/singapore-volunteer-corps/04-volunteercorps.png">Identity card of Captain John Evelyn Gabain, a Eurasian volunteer with the SVC in 1951. <i>J. E. Gabain Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/singapore-volunteer-corps/04-volunteercorps.png">Identity card of Captain John Evelyn Gabain, a Eurasian volunteer with the SVC in 1951. <i>J. E. Gabain Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The SVC: Post-War Period**
 
