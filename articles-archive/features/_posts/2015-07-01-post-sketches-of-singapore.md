@@ -48,7 +48,7 @@ Bukit Timah Nature Reserve Visitor Centre by Chua Hee Lai, R&D Manager.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/gardens.jpg">
+<img src="/images/vol-11-issue-2/sketches/gardens_re.jpg">
 Gardens by the Bay by Lisa Huang, interior designer.
 </div>
 
