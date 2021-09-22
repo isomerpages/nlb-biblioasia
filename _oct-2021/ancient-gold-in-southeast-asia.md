@@ -125,7 +125,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^17]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
 
-[^18]: Wang Dayuan was a Yuan dynasty traveller known for his two ship voyages. For a study of his writings relating to Singapore, see Miksic, *Singapore & the Silk Road of the Sea*, 169–79.
+[^18]: Wang Dayuan was a Yuan dynasty traveller known for his two ship voyages. For a study of his writings relating to Singapore, see Miksic, [*Singapore & the Silk Road of the Sea*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 169–79.
 
 [^19]: Fei Xin was a soldier who served under Ming dynasty Admiral Zheng He.
 
