@@ -122,7 +122,7 @@ This book is scheduled to be published in October 2021. Thereafter, it will be a
 
 [^2]: Sang Nila Utama subsequently founded the city of Singapura on Temasek. His descendants ruled the city until the fifth and last ruler, Parameswara, fled to Melaka after an attack by the Javanese, establishing the Melaka Sultanate in around 1400.
 
-[^3]: *[Sejarah Melayu = The Malay Annals.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9337906)* Compiled by Cheah Boon Keng and transcribed by Abdul Rahman Haji Ismail. (Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society, 1998), 91. (From National Library, Singapore, call no. Malay R 959.5 SEJ)
+[^3]: [*Sejarah Melayu = The Malay Annals.*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9337906) Compiled by Cheah Boon Keng and transcribed by Abdul Rahman Haji Ismail. (Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society, 1998), 91. (From National Library, Singapore, call no. Malay R 959.5 SEJ)
 
 [^4]: John Frederick Adolphus McNair, *Perak and the Malays: “Sarong and Kris”* (London: Tinsley Brothers, 1878), 90 (From BookSG, call no. RRARE 959.5131 MAC; accession no. B03013449B)
 
