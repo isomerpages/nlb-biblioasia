@@ -169,7 +169,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^39]: “[Japs Took Ancient Ornaments](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480306-1.2.38),” *Straits Times*, 6 March 1948, 4. (From NewspaperSG)
 
-[^40]: A decorative pattern with the face of kāla. Kāla is a Hindu deity often synonymous with death, but kāla is also associated with the passing of time. See W.J. Johnson, “Kāla,” in *A Dictionary of Hinduism* (Oxford: Oxford University Press, 2010), 163. (From National Library, Singapore, Call no. R 294.503 JOH)
+[^40]: A decorative pattern with the face of kāla. Kāla is a Hindu deity often synonymous with death, but kāla is also associated with the passing of time. See W.J. Johnson, “Kāla,” in [*A Dictionary of Hinduism*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14224296) (Oxford: Oxford University Press, 2010), 163. (From National Library, Singapore, Call no. R 294.503 JOH)
 
 [^41]: A Hindu-Buddhist deity more popularly found in Indian and Tibetan traditions, the Mahākāla is a “frequent epithet of Śiva, either in his role as the destroyer of the universe at the end of a cosmological cycle, and therefore lord of death […] or in his soteorological role as the conqueror of both time and death”. See Johnson, “Kāla,” 163. For more, see Kurt Behrendt. “Tibet and India: Buddhist Traditions and Transformations,” *Metropolitan Museum of Art Bulletin* 71, no. 3 (Winter, 2014): 37–39. The Metropolitan Museum of Art,  https://www.metmuseum.org/art/metpublications/Tibet_and_India_Buddhist_Traditions_and_Transformations. 
 
