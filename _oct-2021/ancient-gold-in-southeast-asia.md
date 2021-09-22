@@ -72,17 +72,26 @@ One theory explaining why gold became so popular in Southeast Asia is that gold 
 
 Gold ornaments were part of early long-distance trade networks and the gold artefacts found at the stone sarcophagus burial site of Pangkung Paruk on Bali (2nd to 4th century CE) seems to support this. The site yielded gold-glass beads typically found at Western Indian Ocean sites as well as gold ornaments which were tested and found to be similar to those discovered at Giong Ca Vo in Vietnam and Khlong Thom in Thailand.[^35]
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">Replica of the Padang Roco Mahākāla statue with a Kāla belt at Museum Siginjei Jambi, 2013. <i>Courtesy of Foo Shu Tieng.</i></div>
+
 #### **Gold in Singapore**
 
 In Singapore, 10 ancient gold ornaments said to be related to the Majapahit empire[^36] were accidentally discovered in 1928 during excavation works for the construction of a reservoir at Fort Canning. These items may have been deliberately hidden, possibly during a Siamese attack[^37] at the end of the 14th century.[^38] Only four ornaments remained after the Japanese Occupation; the whereabouts of the other six are unknown.[^39] The kāla motif[^40] on one of the ornaments is said to be similar to a belt from a Mahākāla statue[^41] from Padang Roco in Sumatra. Other ornaments with kāla heads have also been discovered in Java.[^42]
 
 Were the gold ornaments found in Singapore part of royal regalia, made by Majapahit artisans? Geologically, Singapore does not have native gold, so the gold would have to be imported.[^43] Further trace element analysis on the artefacts, such as those done for other assemblages from Southeast Asia, may provide clues that point to a more precise point of origin but as gold is often recycled, the results may not be conclusive.[^44]
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">A temple relief thought to depict smithing activities in Candi Sukuh, Central Java. Gold was sometimes used in Hindu-Buddhist temple consecrations. <i>Courtesy of Foo Shu Tieng.</i></div>
+
 Archaeological excavations in Singapore carried out between 1984 and 2017 have uncovered additional pieces of gold at Fort Canning and other sites in the civic district, consisting of small ornament fragments or gold foil, interpreted as part of secondary deposits.[^45] The 1994–95 excavation of the Parliament House site, for example, yielded a few pieces of gold artefacts: part of a jewellery strap; a sheet fragment with incised decoration; part of a ring; as well as a piece of “irregularly” shaped foil, possibly for rework by a goldsmith.[^46]
 
 According to ancient Javanese inscriptions from the 9th to 10th century CE, there were two types of jewellery artisans. The first category lived within the palace compound and made ornaments solely for the royal family. The second category fulfilled village commissions, with the ring makers (<i>pasisim</i> in Old Javanese) considered a special class of jeweller.[^47] This is because gold rings with auspicious inscriptions (<i>simsim prasada mas</i> in Old Javanese) may also have been used as “special purpose” currency for temple donations and ritual offerings.[^48] This may have been the case for ancient Temasek.
 
 Gold was likely to be a medium of exchange on Temasek in the 14th century. Chinese traders used something called “red gold” (紫金) as a form of currency in places such as Longyamen (龍牙門) and Banzu (班卒) on the island, thought to be located at or near the Singapore Straits.[^49]
+
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">Javanese-style gold jewellery dating back to the Majapahit period was discovered at Fort Canning in Singapore during excavation works in 1928. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 If lead or mercury vessels were found, this could be evidence of local gold working as these vessels were used to help separate gold from the ore. There is a theory that a type of stoneware jar found in large numbers in soil layers dating to the 14th century in several sites in Singapore, as well as other sites in Southeast Asia such as Kota Cina in Sumatra and Kedah and Pahang on the Malay Peninsula, were used for that very purpose. However, a recent study has cast doubt on this theory as the shape of the vessel is unlikely to be suited for carrying mercury.[^50]
 
