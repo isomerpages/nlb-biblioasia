@@ -179,11 +179,11 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 [^20]: [Ong Teng Cheong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9315cc93-115f-11e3-83d5-0050568939ad), oral history interview by Lee Ee Boon, 19 June 1987, transcript and MP3 audio, Reel/Disc 3 of 5. (From National Archives of Singapore, Accession no. 000794) 
 
-[^21]: “Goodbye Paya Lebar, Here We Come Changi,” *Straits Times*, 1 June1981, 12. (From NewspaperSG).
+[^21]: “[Goodbye Paya Lebar, Here We Come Changi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810701-1.2.45),” *Straits Times*, 1 June1981, 12. (From NewspaperSG).
 
 [^22]: “Major Milestones,” Changi Airport Group, accessed 20 June 2021, https://www.changiairport.com/content/dam/cacorp/documents/changiairportgroup/CAG%20Major%20Milestones%20Jul%202014.pdf.
 
-[^23]: “MRT Line Won’t Go to Changi Airport,” *Straits Times*, 14 March 1987, 14. (From NewspaperSG)
+[^23]: “[MRT Line Won’t Go to Changi Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870314-1.2.24.13),” *Straits Times*, 14 March 1987, 14. (From NewspaperSG)
 
 [^24]: “Land Transport Master Plan 2040,” Land Transport Authority, accessed 30 June 2021, https://www.lta.gov.sg/content/dam/ltagov/who_we_are/our_work/land_transport_master_plan_2040/pdf/LTA%20LTMP%202040%20eReport.pdf. 
 
