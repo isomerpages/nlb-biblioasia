@@ -4,6 +4,9 @@ permalink: /vol-17/issue-3/oct-dec-2021/ancientgold
 ---
 #### Where did ancient gold come from? What was it used for and what gold discoveries have been made in Singapore? **Foo Shu Tieng** has the answers.
 
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">A 1694 print showing a gold mine (<i>tambang</i> in Indonesian) in Sumatra by Caspar Luyken and published by Willem van de Water. <i>Retrieved from Rijksmuseum, Amsterdam (RP-P-1896-A-19368-994).</i></div>
+
 Gold is a precious commodity admired for its beauty, rarity and monetary value. To understand how it became such a valued metal in Southeast Asia specifically, we need to look at the historical,[^1] archaeological[^2] and ethnographic[^3] evidence.
 
 Why write about it now? With the price of gold at an all-time high, many ancient historical sites in Asia, especially those believed to contain gold jewellery and artefacts, are being looted.[^4] If the trafficking of antiquities is left unchecked, the potential loss of knowledge and heritage would be devastating. For example, the ancient burial site of Bit Meas in Prey Veng province, Cambodia (estimated 150 BCE to 100 CE), was almost completely looted in early 2006 by treasure hunters.[^5] While local authorities have since put in place mitigation policies and experts have issued recommendations to deal with illegal antiquities trafficking, these may not be sufficient and greater community awareness is needed.[^6]
@@ -23,6 +26,9 @@ Another theory is that an increased demand in prestige goods encouraged South As
 The ancient maritime trade between Southeast Asia and South Asia prior to the 1st century BCE shows that there was a two-way transmission of material goods between the two regions. The nut of the areca palm, fruits such as citron, mango and banana, and sandalwood were known to have been transported westward into parts of South Asia and Africa during the prehistoric period.
 
 Meanwhile, Indian rouletted ware (a kind of pottery with rouletted designs at the base)[^13] has been found in various parts of Southeast Asia such as the Malay Peninsula, Thailand, Vietnam, Java and Bali by the 1st century BCE.[^14] The gold trade in Southeast Asia would have initially relied on existing trade networks. 
+
+![Alt text for image on Isomer site]()
+<div style="background-color: white;">A section of an armband with a kāla motif thought to be from East Java, 9th to 14th century CE. The Samuel Eilenberg-Jonathan P. Rosen Collection of Indonesian Gold, Bequest of Samuel Eilenberg and Gift of Jonathan P. Rosen, 1998. <i>Retrieved from The Metropolitan Museum of Art, New York (1998.544.58).</i></div>
 
 #### **Ancient Literary Sources**
 
