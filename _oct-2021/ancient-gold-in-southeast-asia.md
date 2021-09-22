@@ -109,7 +109,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^9]: Ahmad Hasan Dani and P. Bernard, “Alexander and His Successors in Central Asia,” in  [*History of Civilizations of Central Asia: The Development of Sedentary and Nomadic Civilizations, 700 B. C. to A. D. 250*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6539779), ed. János Harmatta, B. N. Puri, and G. F. Etemadi (Paris: UNESCO Publishing, 1992), 2: 89. (From National Library, Singapore, call no. RU 958 HIS)
 
-[^10]: Cœdès, *The Indianized States of Southeast Asia*, 20; William Woodthorpe Tarn, *The Greeks in Bactria & India* (London: The Syndics of the Cambridge University Press, 1922), 104–9, Internet Archive,  https://archive.org/details/in.ernet.dli.2015.125997/page/n125/mode/2up; Kenneth R. Hall, *Maritime Trade and State Development in Early Southeast Asia* (Honolulu: University of Hawaii Press, 1985), 36–37, 39. (From National Library, Singapore, Call no. RSING 382.0959 HAL)
+[^10]: Cœdès, [*The Indianized States of Southeast Asia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=678446), 20; William Woodthorpe Tarn, *The Greeks in Bactria & India* (London: The Syndics of the Cambridge University Press, 1922), 104–9, Internet Archive,  https://archive.org/details/in.ernet.dli.2015.125997/page/n125/mode/2up; Kenneth R. Hall, *Maritime Trade and State Development in Early Southeast Asia* (Honolulu: University of Hawaii Press, 1985), 36–37, 39. (From National Library, Singapore, Call no. RSING 382.0959 HAL)
 
 [^11]: Alastair Lamb, “Indian Influence in Ancient Southeast Asia,” in *A Cultural History of India*, ed. A.L. Basham (Delhi: Oxford University Press, 1985), 445. (From National Library, Singapore, Call no. R 954 CUL)
 
