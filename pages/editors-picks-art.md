@@ -30,3 +30,9 @@ permalink: /editors-picks/art
 <table>
 <tr>
 <th>#### Malay Seals from Singapore</th>
+<th> </th>
+</tr>
+<tr>
+<td>[![Alt text for image on Isomer site>(/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg)](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals)
+</td>
+<td>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</td>
