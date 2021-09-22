@@ -136,6 +136,6 @@ This book is scheduled to be published in October 2021. Thereafter, it will be a
 
 [^9]: “[Foraging in Singapore: Field to Table](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150228-1.2.106.5),” *Straits Times*, 28 February 2015, 6–7. (From NewspaperSG)
 
-[^10]: Michael Pollan, *The Omnivore’s Dilemma: A Natural History of Four Meals* (New York: Penguin Press, 2006), 7. (From National Library, Singapore, call no. 394.12 POL)
+[^10]: Michael Pollan, [*The Omnivore’s Dilemma: A Natural History of Four Meals*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12754239) (New York: Penguin Press, 2006), 7. (From National Library, Singapore, call no. 394.12 POL)
 
-[^11]: Pollan, *The Omnivore’s Dilemma*, 4.
+[^11]: Pollan, [*The Omnivore’s Dilemma*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12754239), 4.
