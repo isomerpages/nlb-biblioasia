@@ -2,7 +2,7 @@
 title: "Editor's Picks: Art"
 permalink: /editors-picks/art
 ---
-#### The Forgotten Murals of Paya Lebar Airport
+#### [The Forgotten Murals of Paya Lebar Airport]((https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals)
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
