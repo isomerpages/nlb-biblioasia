@@ -134,7 +134,7 @@ This book is scheduled to be published in October 2021. Thereafter, it will be a
 
 [^8]: “[*Nak lala? Pergi ke Sungei Ketapang*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20090406-1.2.10.5),” *Berita Harian*, 6 April 2009, 3. (From NewspaperSG)
 
-[^9]: “Foraging in Singapore: Field to Table,” *Straits Times*, 28 February 2015, 6–7. (From NewspaperSG)
+[^9]: “[Foraging in Singapore: Field to Table](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150228-1.2.106.5),” *Straits Times*, 28 February 2015, 6–7. (From NewspaperSG)
 
 [^10]: Michael Pollan, *The Omnivore’s Dilemma: A Natural History of Four Meals* (New York: Penguin Press, 2006), 7. (From National Library, Singapore, call no. 394.12 POL)
 
