@@ -171,7 +171,7 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 [^16]: Tan Wee Him, “[A Landing that Made History,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810513-1.2.23)” *Straits Times*, 13 May 1981, 10. (From NewspaperSG)
 
-[^17]: Wendy Yang, “246 in Historic Landing at Changi Airport,” *Straits Times*, 1 June 1981, 8. (From NewspaperSG)
+[^17]: Wendy Yang, “[246 in Historic Landing at Changi Airport,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810601-1.2.44)” *Straits Times*, 1 June 1981, 8. (From NewspaperSG)
 
 [^18]: Yang, “246 in Historic Landing at Changi Airport.”
 
