@@ -118,4 +118,44 @@ On 18 February 2000, in a moving ceremony that echoed its august colonial-era op
 
 |One of the most famous SVC volunteers in the late 1950s was the war heroine Elizabeth Choy. Born in Sabah in 1910 and schooled in Singapore, Choy had a heightened sense of conscience since young. She gave up a college scholarship to work as a teacher to support her six younger siblings. During the Japanese Occupation, Choy and her husband worked tirelessly to smuggle medicine, money, letters and even radio parts to British civilians and prisoners-of-war interned at Changi Prison. Unfortunately, her husband was arrested in October 1943 and Choy herself a few weeks later. She was imprisoned and severely beaten by the Japanese over a 200-day period for being a British sympathiser. After the war, Choy was made Officer of the Order of the British Empire (OBE) and became involved in politics and education, but it was her selfless work during the war that she is most remembered for.|
 
-|<img src="/images/Vol-12-issue-2/singapore-volunteer-corps/10-volunteercorps.png">Group photo of the Singapore Volunteer Corps taken at Beach Road Camp, circa 1959. <i>David Ng Collection, courtesy of National Archives of Singapore.</i>|
+|<img style="width:300px"  src="/images/Vol-12-issue-2/singapore-volunteer-corps/10-volunteercorps.jpg">Elizabeth Choy in a photo taken in 1955. Suspected of being an informant to the British during the Japanese Occupation, Choy was imprisoned and severely tortured over a 200-day period. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>|
+
+This is an abridged version of the chapter “1854–2001: History of Beach Road Camp and NCO Club” from the book South Beach: From Sea to Sky: The Evolution of Beach Road – written by Francis Dorai and published by Editions Didier Millet for South Beach Consortium in 2012. The S$3-billion South Beach development, designed by the British architecture firm Foster + Partners, was launched in December 2015 and comprises a luxury hotel, offices, apartments and retail space. The four conserved buildings of Beach Road Camp have been restored and blend with the modern structures: Block 1 houses bars and restaurants; Block 9 is the hotel ballroom; Block 14 is used as meeting rooms; and the NCO Club building has been turned into a private club for hotel guests.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/singapore-volunteer-corps/francis.png">
+	<b>Francis Dorai</b> has worked for over two decades in publishing, both as writer and editor in a broad range of media, including The Straits Times, Insight Guides, Berlitz Publishing, Pearson Professional, Financial Times Business and Editions Didier Millet. He is the author of several books, including "South Beach: From Sea to Sky: The Evolution of Beach Road".
+</div>
+
+<a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+
+#### **References**
+
+All set for the Singapore regiment. (1957, February 15). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+
+Buckley, C.B. (1902). An anecdotal history of old times in Singapore. (2 Vols.). Singapore: Printed by Fraser & Neave. (RCLOS 959.57 BUC)
+
+Gill, M.S. (1990, September). History of the Singapore Infantry Regiment, 1957–1967. The Pointer. (Call no.: RSING 355.005 P)
+
+Koh, J.L., & Lo, M.H. (1993). Distinction: A profile of pioneers. Singapore: Second Singapore Infantry Brigade. (Call no.: RSING q356.189095957 KOH)
+
+Makepeace W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1921). One hundred years of Singapore (Vol. I). London: J. Murray. (Call no.: RCLOS 959.51 MAK)
+
+Savage, V.R., & Yeoh, B.S.A. (2013). Singapore street names: A study of toponymics. Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
+
+Singapore. Ministry of Defence. (2000). Lions in defence: The 2 PDF story. Singapore: Public Affairs Dept.: 2 PDF Command Officers’ Mess. Retrieved in BookSG.
+
+Winsley, T.M. (1938). A history of the Singapore Volunteer Corps, 1854–1937: Being also an historical outline of volunteering in Malaya. Singapore: G. P. O. (Call no.: RCLOS 355.23 WIN)
+
+#### **Notes**
+
+[^1]:Makepeace W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1921). *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)* (Vol. 1, p. 377). London: J. Murray. (Call no.: RCLOS 959.51 MAK)
+
+[^2]:[Makepeace, Brooke & Braddell](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), 1921, Vol. 1, p. 247.
+
+[^3]:Interview with Paul Cheah Thye Hong on 28 March 2012.
+
+[^4]:[All set for the Singapore regiment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570215-1.2.26.aspx). (1957, February 15). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+
+[^5]:Beach Road Camp was handed over to the Urban Redevelopment Authority in late 2000.
