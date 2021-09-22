@@ -163,13 +163,13 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 [^12]: Hale, “[Getting There On Time.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810627-1.2.83.2)”
 
-[^13]: Hale, “Billion Dollar Dream Comes True.”
+[^13]: Hale, “[Billion Dollar Dream Comes True.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810627-1.2.83.1)”
 
-[^14]: Hale, “Billion Dollar Dream Comes True.”
+[^14]: Hale, “[Billion Dollar Dream Comes True.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810627-1.2.83.1)”
 
-[^15]: Hale, “Getting There On Time.”
+[^15]: Hale, “[Getting There On Time.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810627-1.2.83.2)”
 
-[^16]: Tan Wee Him, “A Landing that Made History,” *Straits Times*, 13 May 1981, 10. (From NewspaperSG)
+[^16]: Tan Wee Him, “[A Landing that Made History,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810513-1.2.23)” *Straits Times*, 13 May 1981, 10. (From NewspaperSG)
 
 [^17]: Wendy Yang, “246 in Historic Landing at Changi Airport,” *Straits Times*, 1 June 1981, 8. (From NewspaperSG)
 
