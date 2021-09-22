@@ -120,63 +120,84 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 #### **Notes**
 
-Tan, L. (Interviewer). (1984, September 24). Oral history interview with David Saul Marshall [Transcript of MP3 recording no. 000156/28/02, p. 12]. Retrieved from National Archives of Singapore website.
+[^1]:Tan, L. (Interviewer). (1984, September 24). Oral history interview with David Saul Marshall [Transcript of MP3 recording no. 000156/28/02, p. 12]. Retrieved from National Archives of Singapore website.
 
-Yeo, K.W. (1972, January). A study of two early elections in Singapore. Journal of the Malaysian Branch of the Royal Asiatic Society, 45 (1) (221), 57-80, p. 61. Retrieved from JSTOR via NLB’s eResources website.
+[^2]:Yeo, K.W. (1972, January). A study of two early elections in Singapore. Journal of the Malaysian Branch of the Royal Asiatic Society, 45 (1) (221), 57-80, p. 61. Retrieved from JSTOR via NLB’s eResources website.
 
-National Library Board. (2009). Rendel Commission written by Ng, Tze Lin Tania. Retrieved from Singapore Infopedia website.
+[^3]:National Library Board. (2009). Rendel Commission written by Ng, Tze Lin Tania. Retrieved from Singapore Infopedia website.
 
-Yeo, Jan 1972, p. 64.
+[^4]:Yeo, Jan 1972, p. 64.
 
-National Library Board. (2010). Sir John Fearns Nicoll written by Chua, Alvin. Retrieved from Singapore Infopedia website.
+[^5]:National Library Board. (2010). Sir John Fearns Nicoll written by Chua, Alvin. Retrieved from Singapore Infopedia website.
 
-Tan, K.Y.L. (2008). Marshall of Singapore: A biography (p. 250). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.5705092 TAN)
+[^6]:Tan, K.Y.L. (2008). Marshall of Singapore: A biography (p. 250). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.5705092 TAN)
 
-Marshall will come from the under stairs to his big new office soon. (1955, May 4). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^7]:Marshall will come from the under stairs to his big new office soon. (1955, May 4). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
-Singapore. Legislative Assembly. (1955, August 5). Special report of the House Committee – Accommodation in Assembly House. Singapore Legislative Assembly. Sessional Paper No. L.A. 7 of 1955. Retrieved from Parliament of Singapore website.
+[^8]:Singapore. Legislative Assembly. (1955, August 5). Special report of the House Committee – Accommodation in Assembly House. Singapore Legislative Assembly. Sessional Paper No. L.A. 7 of 1955. Retrieved from Parliament of Singapore website.
 
-Tan, 2008, p. 238.
+[^9]:Tan, 2008, p. 238.
 
-Choy, S. (1971, July 20). The last governor. The New Nation, p. 9. Retrieved from NewspaperSG.
+[^10]:Choy, S. (1971, July 20). The last governor. The New Nation, p. 9. Retrieved from NewspaperSG.
 
-Labour wins – Marshall will be chief minister. (1955, April 3). The Straits Times, p. 1. Retrieved from NewspaperSG.
-Tan, 2008, p. 245.
+[^11]:Labour wins – Marshall will be chief minister. (1955, April 3). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
-Marshall likes sarongs too. (1955, April 23). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^12]:Tan, 2008, p. 245.
 
-A little snack: Whole sheep. (1955, July 22). The Straits Times, p. 7; Gora and the sheep – another attempt. (1955, October 6). The Straits Times, p. 11; ‘How can I eat when you kick me around like a football?’ (1955, July 26). The Straits Times, p. 1. Retrieved from NewspaperSG.
-Tan, 2008, pp. 281–287.
-Tan, 2008, p. 287.
-Abisheganaden, F. (1956, March 10). 7-day Merdeka Drive. The Straits Times, p. 1. Retrieved from NewspaperSG; Mr. David Marshall nailing a poster on a tree at Empress Place, before 1957 [Image of Photograph], [Online]. In D. Marshall. (1971), Singapore’s struggle for nationhood, 1945–59 (p. 45). Singapore: University Education Press. (Call no.: RCLOS 959.57024 MAR)
-Doubts will not be removed by nailing slogans on trees. (1956, March 14). The Straits Times, p. 6; Mr. M’s posters stolen. (1956, March 14). The Straits Times, p. 1. Retrieved from NewspaperSG.
-Lim told: Take the helm. (1956, June 8). The Straits Times, p. 1; The talks fail. (1956, May 16). The Straits Times, p. 1. Retrieved from NewspaperSG.
-National Library Board. (2016). Lim Yew Hock written by Mukunthan, Michael. Retrieved from Singapore Infopedia website.
-Abisheganaden, F. (1957, May 1). Marshall: Final act. The Straits Times, p. 1; Majid has to run from rain. (1957, May 28). The Straits Times, p. 7; Police bar Majid from that tree. (1957, May 29). The Straits Times, p. 9. Retrieved from NewspaperSG.
-PAP told: No ‘apple tree’ rally. (1959, April 15). The Straits Times, p. 9. Retrieved from NewspaperSG..
-There is no putting the clock back in Singapore. (1959, May 11). The Straits Times, p. 6; The united front. (1957, February 26). The Straits Times, p. 6. Retrieved from NewspaperSG.
-Wild Singapore. (2008, November 10). Jambu bol. Retrieved from Wild Singapore website; Keng, H. (1990). The concise flora of Singapore: Gymnosperms and dicotyledons (p. 78). Singapore: Singapore University Press, National University of Singapore. (Call no.: RSING 581.95957 KEN)
-National Parks Board. (2014, December 30). Sea apple. Retrieved from National Parks Board website.
-Wee, Y.C. (2012, October). Plant-bird relationship: Myrtaceae. Retrieved from Bird Ecology Study Group website.
-Cynicus. (1955, April 9). As I was saying… . The Straits Times, p. 6; Lim, C. P. (1956, July 15). Those tourists! Is this how the future lies? The Straits Times, p. 15. Retrieved from NewspaperSG.
-Wee, S. (1971, December 20). Sales gimmick leaves much to be desire. New Nation, p. 16; Immigration office. (1960, July 11). The Singapore Free Press, p. 4; Wong, J. (1987, December 8). Finds at Empress Place point to colourful past. The Straits Times, p. 16. Retrieved from NewspaperSG.
-T. F. Hwang takes you down memory lane. (1980, May 24). The Straits Times, p. 14. Retrieved from NewspaperSG; The song Hwang thought of may have been from Swing Your Lady, a musical comedy released in 1938. A recording of “The Old Apple Tree” from the film can be viewed on YouTube.
-Ommanney, F.D. (1962). Eastern windows (p. 238). London: Longmans. (Call no.: RDLKL 915.957 OMM)
-Drysdale, J.G.S. (1984). Singapore, struggle for success (p. 37). Singapore: Times Books International. (Call no.: RSING 959.57 DRY)
-Singapore Press Holdings (SPH). (1956, March 23). Chief Minister David Marshall speaking to crowd of supporters at Empress Place [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
-Ministry of Information and the Arts (MITA). (1965, November 2). Singapore River – Boat Quay and Marine Police Station on the right [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
-Chiang, K.C. (1960). Aerial view of Empress Place and Padang, with the clock tower of Victoria Memorial Hall and part of Cavenagh Bridge (bottom) visible [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
+[^13]:Marshall likes sarongs too. (1955, April 23). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
-Teo Siyang, personal communication. 
+[^14]:A little snack: Whole sheep. (1955, July 22). The Straits Times, p. 7; Gora and the sheep – another attempt. (1955, October 6). The Straits Times, p. 11; ‘How can I eat when you kick me around like a football?’ (1955, July 26). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
-Arsenic and old lace – Marshall has another go at Tan. (1955, March 11). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^15]:Tan, 2008, pp. 281–287.
 
-Food centre to be opened soon. (1973, August 23). New Nation, p. 2. Retrieved from NewspaperSG.
+[^16]:Tan, 2008, p. 287.
 
-Television Corporation of Singapore (TCS). (1956, March 21). Chief Minister David Marshall under the apple tree [Sound Recording]. Retrieved from National Archives of Singapore website.
+[^17]:Abisheganaden, F. (1956, March 10). 7-day Merdeka Drive. *The Straits Times*, p. 1. Retrieved from NewspaperSG; Mr. David Marshall nailing a poster on a tree at Empress Place, before 1957 [Image of Photograph], [Online]. In D. Marshall. (1971), Singapore’s struggle for nationhood, 1945–59 (p. 45). Singapore: University Education Press. (Call no.: RCLOS 959.57024 MAR)
 
-Boh, S., & Look, W.W. (2015, May 7). Mature rain trees moved to Victoria Theatre and Concert Hall. The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+[^18]:Doubts will not be removed by nailing slogans on trees. (1956, March 14). *The Straits Times*, p. 6; Mr. M’s posters stolen. (1956, March 14). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Thum, P. (2011, July). Living Buddha: Chinese perspectives on David Marshall and his government, 1955–1956. Indonesia and the Malay World, 39 (114), 256. (Call no.: RSEA 959.8 IMW)
+[^19]:Lim told: Take the helm. (1956, June 8). *The Straits Times*, p. 1; The talks fail. (1956, May 16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Grumble grumble – All day. (1955, April 19). *The Straits Times*, p. 1. Retrieved from NewspaperSG; Thum, Jul 2011, p. 264.
+[^20]:National Library Board. (2016). Lim Yew Hock written by Mukunthan, Michael. Retrieved from Singapore Infopedia website.
+
+[^21]:Abisheganaden, F. (1957, May 1). Marshall: Final act. *The Straits Times*, p. 1; Majid has to run from rain. (1957, May 28). *The Straits Times*, p. 7; Police bar Majid from that tree. (1957, May 29). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+
+[^22]:PAP told: No ‘apple tree’ rally. (1959, April 15). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+
+[^23]:There is no putting the clock back in Singapore. (1959, May 11). *The Straits Times*, p. 6; The united front. (1957, February 26). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+
+[^24]:Wild Singapore. (2008, November 10). Jambu bol. Retrieved from Wild Singapore website; Keng, H. (1990). The concise flora of Singapore: Gymnosperms and dicotyledons (p. 78). Singapore: Singapore University Press, National University of Singapore. (Call no.: RSING 581.95957 KEN)
+
+[^25]:National Parks Board. (2014, December 30). Sea apple. Retrieved from National Parks Board website.
+
+[^26]:Wee, Y.C. (2012, October). Plant-bird relationship: Myrtaceae. Retrieved from Bird Ecology Study Group website.
+
+[^27]:Cynicus. (1955, April 9). As I was saying… . The Straits Times, p. 6; Lim, C. P. (1956, July 15). Those tourists! Is this how the future lies? *The Straits Times*, p. 15. Retrieved from NewspaperSG.
+
+[^28]:Wee, S. (1971, December 20). Sales gimmick leaves much to be desire. New Nation, p. 16; Immigration office. (1960, July 11). *The Singapore Free Press*, p. 4; Wong, J. (1987, December 8). Finds at Empress Place point to colourful past. *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+
+[^29]:T. F. Hwang takes you down memory lane. (1980, May 24). The Straits Times, p. 14. Retrieved from NewspaperSG; The song Hwang thought of may have been from Swing Your Lady, a musical comedy released in 1938. A recording of “The Old Apple Tree” from the film can be viewed on YouTube.
+
+[^30]:Ommanney, F.D. (1962). Eastern windows (p. 238). London: Longmans. (Call no.: RDLKL 915.957 OMM)
+
+[^31]:Drysdale, J.G.S. (1984). Singapore, struggle for success (p. 37). Singapore: Times Books International. (Call no.: RSING 959.57 DRY)
+
+[^32]:Singapore Press Holdings (SPH). (1956, March 23). Chief Minister David Marshall speaking to crowd of supporters at Empress Place [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
+
+[^33]:Ministry of Information and the Arts (MITA). (1965, November 2). Singapore River – Boat Quay and Marine Police Station on the right [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
+
+[^34]:Chiang, K.C. (1960). Aerial view of Empress Place and Padang, with the clock tower of Victoria Memorial Hall and part of Cavenagh Bridge (bottom) visible [Image of Photograph], [Online]. Retrieved from National Archives of Singapore website.
+
+[^35]:Teo Siyang, personal communication. 
+
+[^36]:Arsenic and old lace – Marshall has another go at Tan. (1955, March 11). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+[^37]:Food centre to be opened soon. (1973, August 23). New Nation, p. 2. Retrieved from NewspaperSG.
+
+[^38]:Television Corporation of Singapore (TCS). (1956, March 21). Chief Minister David Marshall under the apple tree [Sound Recording]. Retrieved from National Archives of Singapore website.
+
+[^39]:Boh, S., & Look, W.W. (2015, May 7). Mature rain trees moved to Victoria Theatre and Concert Hall. The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+
+[^40]:Thum, P. (2011, July). Living Buddha: Chinese perspectives on David Marshall and his government, 1955–1956. Indonesia and the Malay World, 39 (114), 256. (Call no.: RSEA 959.8 IMW)
+
+[^41]:[Grumble grumble – All day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550419-1.2.6.aspx). (1955, April 19). *The Straits Times*, p. 1. Retrieved from NewspaperSG; Thum, Jul 2011, p. 264.
