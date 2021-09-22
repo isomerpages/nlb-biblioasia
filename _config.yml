@@ -44,7 +44,7 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: "A.\tProduced by the National Library of Singapore, BiblioAsia is a
+description: "Produced by the National Library of Singapore, BiblioAsia is a
   quarterly publication that features the history, culture and heritage of
   Singapore within the larger Asian context. "
 staging: https://nlb-ba-staging.netlify.app
