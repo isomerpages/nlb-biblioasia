@@ -6,14 +6,17 @@ layout: post
 ---
 #### The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah. **Mazelan Anuar** traces his legacy. 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg">
+Possibly the only extant image of Mohamed Eunos Abdullah. <i>Courtesy of National Archives of Singapore</i>.
+</div>
+
 There is a popular Malay proverb that says: When a tiger dies, it leaves behind its stripes. When a man dies, he leaves behind his name.
 
 Have you ever wondered about the origin of the name Eunos while travelling in the Mass Rapid Transit (MRT) train between Kembangan and Paya Lebar stations along the East West line?
 
 Heritage buffs may be interested to know that Jalan Eunos, Eunos Avenue, Eunos Crescent, Eunos Link, Eunos Road and Eunos Terrace are all named after the prominent Malay pioneer, Mohamed Eunos bin Abdullah.[^1]
-
-![Alt text for image on Isomer site](/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg)
-<div style="background-color: white;">Possibly the only extant image of Mohamed Eunos Abdullah. <i>Courtesy of National Archives of Singapore</i>.</div>
 
 Regarded as the “Father of Malay journalism” by the community, Eunos Abdullah was the first Malay representative on the Legislative Council of the Straits Settlements, and was also the co-founder and first president of Kesatuan Melayu Singapura (Singapore Malay Union), the first Malay political party in Singapore. 
 
@@ -71,11 +74,17 @@ Eunos Abdullah and his peers believed that an authentic Malay life was best expe
 
 Following his retirement in 1931 Eunos Abdullah suffered from poor health and passed away at the age of 57 on 12 December 1933 at his home on Desker Road. His body was laid to rest at the Bidadari Cemetery.[^21]
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/malayjournalism/Bungalow_type.jpg)
-<div style="background-color: white;">Bungalow-type dwellings made of wood and zinc in Kampong Melayu. <i>All rights reserved, Singapore Ministry of Culture</i>. (1963). Democratic socialism in action, June 1959 to April 1963 (p. 21). <i>Singapore: Ministry of Culture</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/malayjournalism/Bungalow_type.jpg">
+Bungalow-type dwellings made of wood and zinc in Kampong Melayu. <i>All rights reserved, Singapore Ministry of Culture</i>. (1963). Democratic socialism in action, June 1959 to April 1963 (p. 21). <i>Singapore: Ministry of Culture</i>.
+</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/malayjournalism/street_direction.jpg)
-<div style="background-color: white;">1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. <i>All rights reserved, Singapore Survey Department</i>. (1950–75). Singapore street directory and sectional maps <i>(Map no. 60). Singapore: Survey Department</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/malayjournalism/street_direction.jpg">
+1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. <i>All rights reserved, Singapore Survey Department</i>. (1950–75). Singapore street directory and sectional maps <i>(Map no. 60). Singapore: Survey Department</i>.
+</div>
 
 |**Rise and Fall of Utusan Melayu**|
 
