@@ -1,8 +1,9 @@
 ---
 layout: homepage
 title: NLB BiblioAsia
-description: BiblioAsia is a quarterly magazine produced by the National Library
-  of Singapore
+description: "A.\tProduced by the National Library of Singapore, BiblioAsia is a
+  quarterly publication that features the history, culture and heritage of
+  Singapore within the larger Asian context. "
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
