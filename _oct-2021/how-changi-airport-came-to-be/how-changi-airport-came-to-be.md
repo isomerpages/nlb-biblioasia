@@ -177,7 +177,7 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 [^19]: Wu Wei Neng, [*Integrating the Planning of Airports and the City: The Singapore Story*, ed.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204008491) Cheong Kay Teck (Singapore: Centre for Liveable Cities, 2019), 18. (From National Library, Singapore, Call no.: RSING 387.7362095957 CHE)
 
-[^20]: Ong Teng Cheong, oral history interview by Lee Ee Boon, 19 June 1987, transcript and MP3 audio, Reel/Disc 3 of 5. (From National Archives of Singapore, Accession no. 000794) 
+[^20]: [Ong Teng Cheong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9315cc93-115f-11e3-83d5-0050568939ad), oral history interview by Lee Ee Boon, 19 June 1987, transcript and MP3 audio, Reel/Disc 3 of 5. (From National Archives of Singapore, Accession no. 000794) 
 
 [^21]: “Goodbye Paya Lebar, Here We Come Changi,” *Straits Times*, 1 June1981, 12. (From NewspaperSG).
 
