@@ -129,13 +129,13 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^19]: Fei Xin was a soldier who served under Ming dynasty Admiral Zheng He.
 
-[^20]: W.W. Rockhill, “Notes on the Relations and Trade of China with the Eastern Archipelago and the Coast of the Indian Ocean during the Fourteenth Century. Part II,” *T’oung Pao* 16, no. 1 (March 1915): 61–159. (From JSTOR via NLB’s eResources website)
+[^20]: W.W. Rockhill, “Notes on the Relations and Trade of China with the Eastern Archipelago and the Coast of the Indian Ocean during the Fourteenth Century. Part II,” *T’oung Pao* 16, no. 1 (March 1915): 61–159. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^21]: Rockhill, “Notes on the Relations and Trade of China,” 105–107. 
 
-[^22]: David Killick and Thomas Fenn, “Archaeometallurgy: The Study of Pre-industrial Mining and Metallurgy,” *Annual Review of Anthropology* 41 (2012): 562–63. (From JSTOR via NLB’s eResources website)
+[^22]: David Killick and Thomas Fenn, “Archaeometallurgy: The Study of Pre-industrial Mining and Metallurgy,” *Annual Review of Anthropology* 41 (2012): 562–63. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^23]: Praveena Gullapalli, “Early Metal in South India: Copper and Iron in Megalithic Contexts,” *Journal of World Prehistory* 22, no. 4 (December 2009): 439–59; Upendra Thakur, “Source of Gold for Early Coins of India,” *East and West*, 30, no. 1/4 (December 1980): 99–115. (From JSTOR via NLB’s eResources website)
+[^23]: Praveena Gullapalli, “Early Metal in South India: Copper and Iron in Megalithic Contexts,” *Journal of World Prehistory* 22, no. 4 (December 2009): 439–59; Upendra Thakur, “Source of Gold for Early Coins of India,” *East and West*, 30, no. 1/4 (December 1980): 99–115. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^24]: Jianjun Mei, et al., “Archaeometallurgical Studies in China: Some Recent Developments and Challenging Issues,” *Journal of Archaeological Science* 56 (February 2015): 227–28, ResearchGate, https://www.researchgate.net/publication/272846438_Archaeometallurgical_Studies_in_China_Some_Recent_Developments_and_Challenging_Issues. 
 
