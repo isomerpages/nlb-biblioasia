@@ -1,7 +1,0 @@
-collections:
-  editor-picks:
-    output: true
-    order:
-      - art.md
-      - people.md
-      - organisations.md
