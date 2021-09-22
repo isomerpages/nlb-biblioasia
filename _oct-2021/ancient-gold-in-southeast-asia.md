@@ -121,9 +121,9 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^15]: Abū Zayd al-Sīrāfī, [*Accounts of China and India: Lively Depictions of the Natural Life, Peoples, and Kingdoms Around the Indian Ocean*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), trans. Tim Mackintosh-Smith (New York: New York University Press, 2017), 43–44. (From National Library, Singapore, Call no. R 915.104 SIR-[TRA]) (Abū Zayd al-Sīrāfī was a seafarer who moved from the Persian port-city of Siraf to Basra.)
 
-[^16]: Abū Zayd al-Sīrāfī, *Accounts of China and India*, 43–44.
+[^16]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
 
-[^17]: Abū Zayd al-Sīrāfī, *Accounts of China and India*, 43–44.
+[^17]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
 
 [^18]: Wang Dayuan was a Yuan dynasty traveller known for his two ship voyages. For a study of his writings relating to Singapore, see Miksic, *Singapore & the Silk Road of the Sea*, 169–79.
 
