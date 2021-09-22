@@ -145,7 +145,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^27]: Moh. Ali Fadillah, “Industri Emas di Kotawaringin: Kasus Strategi Ekonomi,” in *Metalurgi Dalam Arkeologi: Proceedings - Analisis Hasil Penelitian Arkeologi IV, Kuningan, 10–16 September 1991* (Jakarta: Pusat Penelitian Arkeologi Nasional, Departemen Pendidikan dan Kebudayaan, 1993), 251–55, Repositori Institusi Kementrian Pendidikan dan Kebudayaan, http://repositori.kemdikbud.go.id/3935/. 
 
-[^28]: Anna T.N. Bennett, “Gold in Early Southeast Asia,” *ArchaeoSciences* 33 (2009): 99–107,OpenEditions Journal, https://journals.openedition.org/archeosciences/2072; Nicholas N. Dodge, “Mineral Production on the East Coast of Malaya in the Nineteenth Century,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 50, no. 2 (232) (1977): 92. (From JSTOR via NLB’s eResources website)
+[^28]: Anna T.N. Bennett, “Gold in Early Southeast Asia,” *ArchaeoSciences* 33 (2009): 99–107,OpenEditions Journal, https://journals.openedition.org/archeosciences/2072; Nicholas N. Dodge, “Mineral Production on the East Coast of Malaya in the Nineteenth Century,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 50, no. 2 (232) (1977): 92. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^29]: The ethnic Karo traditionally live in the North Sumatra and Aceh provinces of Sumatra.
 
