@@ -8,7 +8,6 @@ permalink: /editors-picks/art
 | -------- | -------- | -------- |
 |          |          |         |
 
-
 #### [Chinese Graphic Artists in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists)
 
 |  [![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg)](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists) |  Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works. |  |
@@ -28,4 +27,4 @@ permalink: /editors-picks/art
 
 |  <img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg"> | Malay seals of the 19th century hold important information says Annabel Teh Gallop |  |
 | -------- | -------- | -------- |
-|      |        |     | 
+|      |        |     |
