@@ -159,7 +159,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^34]: Demandt, “Early Gold Ornaments of Southeast Asia,” 306, 319.
 
-[^35]: Ambra Calo, et al., “[Trans-Asiatic Exchange of Glass, Gold and Bronze: Analysis of Finds from the Late Prehistoric Pangkung Paruk Site](https://www-proquest-com.proxy.lib.sg/central/docview/2356393944/8C897468AD7E4D05PQ/1?accountid=12691),” *Antiquity *94, no. 373 (February 2020), 119. (From ProQuest Central via NLB’s eResources website)
+[^35]: Ambra Calo, et al., “[Trans-Asiatic Exchange of Glass, Gold and Bronze: Analysis of Finds from the Late Prehistoric Pangkung Paruk Site](https://www-proquest-com.proxy.lib.sg/central/docview/2356393944/8C897468AD7E4D05PQ/1?accountid=12691),” *Antiquity*94, no. 373 (February 2020), 119. (From ProQuest Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^36]: The Majapahit empire, founded in 1294 CE, was based in East Java. Singapore was said to be a vassal state of Majapahit. See Miksic, *Singapore & the Silk Road of the Sea: 1300–1800*, 185.
 
