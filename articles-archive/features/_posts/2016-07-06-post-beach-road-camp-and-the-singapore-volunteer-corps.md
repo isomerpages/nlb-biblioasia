@@ -38,7 +38,7 @@ By 1887, however, the SVRC had dwindled to about half its original size, and in 
 
 In 1901, these three sub-units, along with the Singapore Voluntary Rifles and Singapore Voluntary Engineers, were amalgamated under the Singapore Volunteer Corps (SVC) banner. One of the SVC’s biggest roles in the following decade was the suppression of a revolt in 1915 – later known as the Singapore Mutiny, or the Sepoy Mutiny (see text box below) – by some 800 soldiers of the Indian Army against their British masters in Singapore.
 
-|**The Singapore Mutiny**|
+|**THE SINGAPORE MUTINY**|
 
 |In October 1914, the British sent the Indian Army’s 5th Light Infantry Regiment to Singapore to bolster the island’s defences. But within four months, the company of 800 Indian soldiers, comprising mainly Muslims of Rajput origins, broke out into a bloody revolt. When the dust settled a week later, a total of 47 British officers, British residents and local civilians had been slain. The causes of the mutiny were complex, ranging from unhappiness with the British commanding officers to fears among the Muslim soldiers of being shipped out and forced to fight their brethren in Turkey. Two roads were later named in memory of the British soldiers who died in the mutiny: Harper Road and Holt Road, after Corporal J. Harper and Private A. J. G. Holt respectively.|
 
