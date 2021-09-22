@@ -191,12 +191,12 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 [^26]: Feng Zengkun, [*Jewel Changi Airport: Through the Eye of the Builder* ](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203977843)(Singapore: Woh Hup-Obayashi Joint Venture [Project Jewel]: Straits Times Press, 2019), 22. (From National Library, Singapore, Call no. RSING 725.39095957 FEN)
 
-[^27]: Lois Ng, “Changi the Champ,” *New Paper*, 30 July 1988, 5. (From NewspaperSG)
+[^27]: Lois Ng, “[Changi the Champ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19880730-1.2.5.8),” *New Paper*, 30 July 1988, 5. (From NewspaperSG)
 
-[^28]: “Airport Officials from 16 Countries Here to Learn from Changi,” *Straits Times*, 20 October 1989, 26. (From NewspaperSG)
+[^28]: “[Airport Officials from 16 Countries Here to Learn from Changi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891020-1.2.35.9),” *Straits Times*, 20 October 1989, 26. (From NewspaperSG)
 
 [^29]: “Awards and Accolades,” Changi Airport Group, accessed 20 June 2021, https://www.changiairport.com/corporate/about-us/awards-and-accolades.html. 
 
-[^30]: Ng Wei Kai, “Passenger Traffic at Changi Airport Fell 82.8% Last Year,” *Straits Times*, 1 June 2021, https://www.straitstimes.com/singapore/passenger-traffic-in-changi-airport-fell-828-per-cent-last-year-from-683m-in-2019-to-118m.  
+[^30]: Ng Wei Kai, “[Passenger Traffic at Changi Airport Fell 82.8% Last Year](https://www.straitstimes.com/singapore/passenger-traffic-at-changi-airport-fell-828-last-year),” *Straits Times*, 1 June 2021, https://www.straitstimes.com/singapore/passenger-traffic-in-changi-airport-fell-828-per-cent-last-year-from-683m-in-2019-to-118m.  
 
 [^31]: Ong Ye Kung, “Parliamentary Ministerial Statement by Minister for Transport, Mr Ong Ye Kung, on Recovery of Aviation Sector,” 6 October 2020,  Ministry of Transport, https://www.mot.gov.sg/news-centre/news/detail/parliamentary-ministerial-statement-by-minister-for-transport-mr-ong-ye-kung-on-recovery-of-aviation-sector.
