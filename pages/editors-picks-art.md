@@ -22,16 +22,20 @@ permalink: /editors-picks/art
 |        |       |         |
 
 
-
-#### [Malay Seals from Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals)
-
-|  <img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg"> | Malay seals of the 19th century hold important information, says Annabel Teh Gallop. |  |
-| -------- | -------- | -------- |
-|      |        |     |
-
-
 #### [Malay Seals from Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals)
 
 |  <img src="/images/Vol-16-issue-1/malay-seals/sultan-ali.png"> | Malay seals of the 19th century hold important information, says Annabel Teh Gallop. |  |
 | -------- | -------- | -------- |
 |      |        |     |
+
+
+#### [Stamford Raffles and the Two French Naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles)
+
+
+
+| <img src= "/images/Vol-16-issue-2/raffles/storkk.jpg"> | Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820. |  |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
