@@ -88,6 +88,7 @@ While some strides have been made in the study of gold in Southeast Asia, there 
 Although modern scholarship continues to advance our knowledge of ancient gold in the region, the ability to uncover such information is becoming more difficult due to illicit trafficking of antiquities. Therefore, we have to ensure that such tangible heritage be safeguarded and documented where possible for the benefit of future generations.
 
 <div style="background-color: white;">
+
 <img src="pending photo" style="width: 100px; height: 100px;" />
 	<b>Foo Shu Tieng</b> is an Associate Librarian with the National Library, Singapore, who works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services. Her publications on ancient money, shell middens and salt can be found on ResearchGate.</div>
 
