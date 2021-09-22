@@ -132,21 +132,21 @@ This is an abridged version of the chapter “1854–2001: History of Beach Road
 
 #### **References**
 
-All set for the Singapore regiment. (1957, February 15). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[All set for the Singapore regiment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570215-1.2.26.aspx). (1957, February 15). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 
-Buckley, C.B. (1902). An anecdotal history of old times in Singapore. (2 Vols.). Singapore: Printed by Fraser & Neave. (RCLOS 959.57 BUC)
+Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4470390)*. (2 Vols.). Singapore: Printed by Fraser & Neave. (RCLOS 959.57 BUC)
 
-Gill, M.S. (1990, September). History of the Singapore Infantry Regiment, 1957–1967. The Pointer. (Call no.: RSING 355.005 P)
+Gill, M.S. (1990, September). History of the Singapore Infantry Regiment, 1957–1967. *[The Pointer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4192196)*. (Call no.: RSING 355.005 P)
 
-Koh, J.L., & Lo, M.H. (1993). Distinction: A profile of pioneers. Singapore: Second Singapore Infantry Brigade. (Call no.: RSING q356.189095957 KOH)
+Koh, J.L., & Lo, M.H. (1993). *[Distinction: A profile of pioneers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6583214)*. Singapore: Second Singapore Infantry Brigade. (Call no.: RSING q356.189095957 KOH)
 
-Makepeace W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1921). One hundred years of Singapore (Vol. I). London: J. Murray. (Call no.: RCLOS 959.51 MAK)
+Makepeace W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1921). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)* (Vol. I). London: J. Murray. (Call no.: RCLOS 959.51 MAK)
 
-Savage, V.R., & Yeoh, B.S.A. (2013). Singapore street names: A study of toponymics. Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
+Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
 
-Singapore. Ministry of Defence. (2000). Lions in defence: The 2 PDF story. Singapore: Public Affairs Dept.: 2 PDF Command Officers’ Mess. Retrieved in BookSG.
+Singapore. Ministry of Defence. (2000). *[Lions in defence: The 2 PDF story](https://eresources.nlb.gov.sg/printheritage/detail/a60a7958-d1a2-45d8-bc63-8c56b4f29a84.aspx)*. Singapore: Public Affairs Dept.: 2 PDF Command Officers’ Mess. Retrieved in BookSG.
 
-Winsley, T.M. (1938). A history of the Singapore Volunteer Corps, 1854–1937: Being also an historical outline of volunteering in Malaya. Singapore: G. P. O. (Call no.: RCLOS 355.23 WIN)
+Winsley, T.M. (1938).*[ A history of the Singapore Volunteer Corps, 1854–1937: Being also an historical outline of volunteering in Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182615)*. Singapore: G. P. O. (Call no.: RCLOS 355.23 WIN)
 
 #### **Notes**
 
