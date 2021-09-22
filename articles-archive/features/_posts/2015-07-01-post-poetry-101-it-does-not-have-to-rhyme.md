@@ -74,7 +74,7 @@ A “Poetry on Platforms” talk will be held on 25 July 2015 from 4 to 5 pm at 
 
 |For more information on Read! Singapore, Read! Fest and “Poetry on Platforms”, please visit www.nlb.gov.sg/readsingapore|
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/poetry/last_re.jpg)
+<img src="/images/vol-11-issue-2/poetry/last_re.jpg">
 
 <p style="font-size:15px;"><b>Sharon Lim</b> is a Project Manager with the Exhibitions and Curation department at the National Library of Singapore.</p>
 
