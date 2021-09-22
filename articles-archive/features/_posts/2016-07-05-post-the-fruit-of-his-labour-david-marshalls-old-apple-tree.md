@@ -120,11 +120,11 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 #### **Notes**
 
-[^1]:Tan, L. (Interviewer). (1984, September 24). Oral history interview with David Saul Marshall [Transcript of MP3 recording no. 000156/28/02, p. 12]. Retrieved from National Archives of Singapore website.
+[^1]:Tan, L. (Interviewer). (1984, September 24). *[Oral history interview with David Saul Marshall](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f73bcc34-115d-11e3-83d5-0050568939ad-OHC000156_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3)* [Transcript of MP3 recording no. 000156/28/02, p. 12]. Retrieved from National Archives of Singapore website.
 
-[^2]:Yeo, K.W. (1972, January). A study of two early elections in Singapore. Journal of the Malaysian Branch of the Royal Asiatic Society, 45 (1) (221), 57-80, p. 61. Retrieved from JSTOR via NLB’s eResources website.
+[^2]:Yeo, K.W. (1972, January). A study of two early elections in Singapore. *Journal of the Malaysian Branch of the Royal Asiatic Society, 45* (1) (221), 57-80, p. 61. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^3]:National Library Board. (2009). Rendel Commission written by Ng, Tze Lin Tania. Retrieved from Singapore Infopedia website.
+[^3]:National Library Board. (2009). *[Rendel Commission](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1563_2009-09-30.html)* written by Ng, Tze Lin Tania. Retrieved from Singapore Infopedia website.
 
 [^4]:Yeo, Jan 1972, p. 64.
 
