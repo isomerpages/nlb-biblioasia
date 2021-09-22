@@ -72,11 +72,17 @@ Were the gold ornaments found in Singapore part of royal regalia, made by Majapa
 Archaeological excavations in Singapore carried out between 1984 and 2017 have uncovered additional pieces of gold at Fort Canning and other sites in the civic district, consisting of small ornament fragments or gold foil, interpreted as part of secondary deposits.45 The 1994–95 excavation of the Parliament House site, for example, yielded a few pieces of gold artefacts: part of a jewellery strap; a sheet fragment with incised decoration; part of a ring; as well as a piece of “irregularly” shaped foil, possibly for rework by a goldsmith.46
 
 According to ancient Javanese inscriptions from the 9th to 10th century CE, there were two types of jewellery artisans. The first category lived within the palace compound and made ornaments solely for the royal family. The second category fulfilled village commissions, with the ring makers (pasisim in Old Javanese) considered a special class of jeweller.47 This is because gold rings with auspicious inscriptions (simsim prasada mas in Old Javanese) may also have been used as “special purpose” currency for temple donations and ritual offerings.48 This may have been the case for ancient Temasek.
+
 Gold was likely to be a medium of exchange on Temasek in the 14th century. Chinese traders used something called “red gold” (紫金) as a form of currency in places such as Longyamen 
 (龍牙門) and Banzu (班卒) on the island, thought to be located at or near the 
 Singapore Straits.49
+
 If lead or mercury vessels were found, this could be evidence of local gold working as these vessels were used to help separate gold from the ore. There is a theory that a type of stoneware jar found in large numbers in soil layers dating to the 14th century in several sites in Singapore, as well as other sites in Southeast Asia such as Kota Cina in Sumatra and Kedah and Pahang on the Malay Peninsula, were used for that very purpose. However, a recent study has cast doubt on this theory as the shape of the vessel is unlikely to be suited for carrying mercury.50
+
 Another opportunity for the study of gold artefacts in Singapore is the octagonal gold cup from the Tang dynasty shipwreck discovered by fishermen near the island of Belitung, Indonesia, in 1998. (This was the wreck of an Arabian dhow that might have sunk around 830 CE on its return journey from China to Arabia.) The gold cup may have been made by Tang artisans in the style of Sogdian51 silverware from Central Asia from the mid-700s CE. Why the cup was in a ship in Southeast Asian waters is a mystery yet to be fully solved.52
-Further Research
+
+#### **Further Research
+
 While some strides have been made in the study of gold in Southeast Asia, there are still some research gaps that need to be filled. Exploring the history of mining in the region can help with gold sourcing studies, for example. In addition, scholars have begun to collate historical, ethnographic and archaeological data on gold and present these as part of a geographic information system to analyse gold trade networks.53
+
 Although modern scholarship continues to advance our knowledge of ancient gold in the region, the ability to uncover such information is becoming more difficult due to illicit trafficking of antiquities. Therefore, we have to ensure that such tangible heritage be safeguarded and documented where possible for the benefit of future generations.
