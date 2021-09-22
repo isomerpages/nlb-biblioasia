@@ -189,7 +189,7 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 [^25]: Ministry of Information, Communications and the Arts, “[Corporatisation of Changi Airport and Restructuring of Civil Aviation Authority of Singapore (CAAS)](https://www.nas.gov.sg/archivesonline/speeches/record-details/7f42e25b-115d-11e3-83d5-0050568939ad),” 7 October 2008, transcript. (From National Archives of Singapore, Document no. 20081007996) 
 
-[^26]: Feng Zengkun, *Jewel Changi Airport: Through the Eye of the Builder* (Singapore: Woh Hup-Obayashi Joint Venture [Project Jewel]: Straits Times Press, 2019), 22. (From National Library, Singapore, Call no. RSING 725.39095957 FEN)
+[^26]: Feng Zengkun, [*Jewel Changi Airport: Through the Eye of the Builder* ](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203977843)(Singapore: Woh Hup-Obayashi Joint Venture [Project Jewel]: Straits Times Press, 2019), 22. (From National Library, Singapore, Call no. RSING 725.39095957 FEN)
 
 [^27]: Lois Ng, “Changi the Champ,” *New Paper*, 30 July 1988, 5. (From NewspaperSG)
 
