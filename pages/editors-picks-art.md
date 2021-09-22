@@ -36,6 +36,3 @@ permalink: /editors-picks/art
 | <img src= "/images/Vol-16-issue-2/raffles/storkk.jpg"> | Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820. |  |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
-
-
