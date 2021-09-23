@@ -116,10 +116,11 @@ Cultural knowledge on consumption – providing a system of ethics, taboos, and 
 This book is scheduled to be published in October 2021. Thereafter, it will be available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries. It will also retail at major bookshops in Singapore.
 </div>
 
+
 <div style="background-color: white;">
 <br/>
-<img src="pending photo" style="width: 100px; height: 100px;" />
-	<b>Khir Johari</b> is a researcher of Malay history and culture, and former vice-president of the Singapore Heritage Society. He has a Bachelor of Science degree in mathematics from Santa Clara University and a Masters in education from Stanford University. <i>The Food of Singapore Malays</i> (2021) is his first book.
+<img src="/images/vol-17-issue-3/authors/Khir%20Johari.png" style="width: 100px; height: 100px;" />
+<b>Khir Johari</b> is a researcher of Malay history and culture, and former vice-president of the Singapore Heritage Society. He has a Bachelor of Science degree in mathematics from Santa Clara University and a Masters in education from Stanford University. <i>The Food of Singapore Malays</i> (2021) is his first book.
 </div>
 
 #### **NOTES**
