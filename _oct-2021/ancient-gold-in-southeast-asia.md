@@ -17,7 +17,7 @@ Singapore has not been spared from the ravages of treasure hunters either. In 19
 
 It was in 4th century BCE that Southeast Asia began to be associated with names such as “Land of Gold” (<i>Suvaṇṇabhūmi</i>), “Wall of Gold” (<i>Suvarṇakudya</i>), “Islands of Gold” (<i>Suvarṇadvīpa</i>) and “Golden Peninsula” (<i>Khersonese</i>).[^8]
 
-One theory why the region was associated with gold is that sometime around 300 BCE, trade caravans supplying South Asia with Siberian gold via the Silk Road were disrupted by the movement of people in Central Asia. Nomadic invaders destroyed several cities in the Margiana and Aria regions (present-day eastern Turkmenistan and western Afghanistan respectively) just before 290 BCE, for example.[^9] This trade route was not restored until Roman Emperor Nero’s reign (r. 54–68 CE). However, when he tried to debase the gold content in Roman coinage to counter inflation, this led to Roman gold coins becoming less accepted for commercial transactions in South Asia where they were used as bullion. 
+One theory why the region was associated with gold is that sometime around 300 BCE, there was a disruption in the trade caravans supplying Siberian gold via the Silk Road to South Asia (specifically the Mauryan empire, which at its height, included north and central India, and what is now part of Iran, Pakistan and Afghanistan). Nomadic invaders destroyed several cities in the Margiana and Aria regions (present-day eastern Turkmenistan and western Afghanistan respectively) just before 290 BCE, for example.[^9] This trade route was not restored until Roman Emperor Nero’s reign (r. 54–68 CE). However, when he tried to debase the gold content in Roman coinage to counter inflation, this led to Roman gold coins becoming less accepted for commercial transactions in South Asia where they were used as bullion. 
 
 The supply of gold to South Asia was further hampered by Roman monetary and precious metal controls in 2nd century CE.[^10] Roman Emperor Vespasian (r. 69–79 CE), for example, issued regulations that prohibited the exports of precious metals from the Roman Empire. The scarcity of precious metals such as gold thus might have encouraged South Asians to seek out new sources of gold in Southeast Asia. 
 
@@ -32,7 +32,7 @@ Meanwhile, Indian rouletted ware (a kind of pottery with rouletted designs at th
 
 #### **Ancient Literary Sources**
 
-Abū Zayd al-Sīrāfī’s 9th–10th century <i>Arabic Accounts of China and India</i> (<i>Akhbār al Ṣīnwa-l-Hind</i>) carries an early traveller’s tale of how gold collected during a Javanese king’s reign was redistributed among his subjects after his death and became a measure of the king’s glory.[^15] 
+Abū Zayd al-Sīrāfī’s 9th–10th century <i>Arabic Accounts of China and India</i> (<i>Akhbār al Ṣīnwa-l-Hind</i>) carries an early traveller’s tale of how gold collected during a Javanese king’s reign was redistributed among his subjects after his death and became a measure of the king’s glory.[^15] 
 
 According to the account, every morning, “the king’s steward would bring an ingot of gold [and] place the ingot in [a tidal] pool [that adjoined the royal palace]. When the tide came in, the water covered this and the other ingots collected together with it, and submerged them; when the tide went out, the water seeped away and revealed the ingots; they would gleam there in the sunlight, and the king could watch over them when he took his seat in the hall overlooking them”.[^16]
 
@@ -68,7 +68,7 @@ Smithing sites are generally identified through excavations, surveys and intervi
 
 #### **Using Gold**
 
-One theory explaining why gold became so popular in Southeast Asia is that gold ornaments and other gold trade objects were likely carried or worn by visiting traders, and “visually communicated special status”. These material goods would have assisted regional elites in forging alliances such as via marriages and ritual gifting when the items were exchanged.[^34]
+One theory explaining why gold became so popular in Southeast Asia is that gold ornaments and other gold trade objects were likely carried or worn by visiting traders, and “visually communicated special status”. These material goods would have assisted regional elites in forging alliances by exchanging the items during marriages and ritual gifting, for example.[^34]
 
 Gold ornaments were part of early long-distance trade networks and the gold artefacts found at the stone sarcophagus burial site of Pangkung Paruk on Bali (2nd to 4th century CE) seems to support this. The site yielded gold-glass beads typically found at Western Indian Ocean sites as well as gold ornaments which were tested and found to be similar to those discovered at Giong Ca Vo in Vietnam and Khlong Thom in Thailand.[^35]
 
@@ -88,7 +88,7 @@ Archaeological excavations in Singapore carried out between 1984 and 2017 have u
 
 According to ancient Javanese inscriptions from the 9th to 10th century CE, there were two types of jewellery artisans. The first category lived within the palace compound and made ornaments solely for the royal family. The second category fulfilled village commissions, with the ring makers (<i>pasisim</i> in Old Javanese) considered a special class of jeweller.[^47] This is because gold rings with auspicious inscriptions (<i>simsim prasada mas</i> in Old Javanese) may also have been used as “special purpose” currency for temple donations and ritual offerings.[^48] This may have been the case for ancient Temasek.
 
-Gold was likely to be a medium of exchange on Temasek in the 14th century. Chinese traders used something called “red gold” (紫金) as a form of currency in places such as Longyamen (龍牙門) and Banzu (班卒) on the island, thought to be located at or near the Singapore Straits.[^49]
+Gold was a medium of exchange on the island in the 14th century. Chinese traders used something called “red gold” (紫金) as a form of currency in places such as Longyamen (龍牙門) and Banzu (班卒) on the island, thought to be located at or near the Singapore Straits.[^49]
 
 ![Alt text for image on Isomer site]()
 <div style="background-color: white;">Javanese-style gold jewellery dating back to the Majapahit period was discovered at Fort Canning in Singapore during excavation works in 1928. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
@@ -125,7 +125,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^8]: Paul Wheatley, [*The Golden Khersonese: Historical Geography of the Malay Peninsula Before A. D. 1500*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203057442) (Kuala Lumpur: University of Malaya Press, 1966), 123–62, 177–84. (From National Library, Singapore, Call no. RCLOS 959.5 WHE); George Cœdès, [*The Indianized States of Southeast Asia* ] (https://eservice.nlb.gov.sg/item_holding.aspx?bid=678446) (Honolulu: East-West Center Press, 1968), 40. (From National Library, Singapore, Call no. RSING 959 COE); Himansha Prabha Ray, “In Search of Suvarnabhumi: Early Sailing Networks in the Bay of Bengal,” in [*Indo-Pacific Prehistory Association Bulletin 1990: Proceedings of the 14th Congress of the Indo-Pacific Prehistory Association, Yogyakarta, Indonesia, 26 August to 2 September 1990*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6542726), ed. Peter Bellwood (Canberra: Indo-Pacific Prehistory Association, 1990), 357. (From National Library, Singapore, Call no. R 930 IND)
 
-[^9]: Ahmad Hasan Dani and P. Bernard, “Alexander and His Successors in Central Asia,” in  [*History of Civilizations of Central Asia: The Development of Sedentary and Nomadic Civilizations, 700 B. C. to A. D. 250*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6539779), ed. János Harmatta, B. N. Puri, and G. F. Etemadi (Paris: UNESCO Publishing, 1992), 2: 89. (From National Library, Singapore, call no. RU 958 HIS)
+[^9]: Ahmad Hasan Dani and P. Bernard, “Alexander and His Successors in Central Asia,” in  [*History of Civilizations of Central Asia: The Development of Sedentary and Nomadic Civilizations, 700 B. C. to A. D. 250*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6539779), ed. János Harmatta, B. N. Puri, and G. F. Etemadi (Paris: UNESCO Publishing, 1992), 2: 89. (From National Library, Singapore, call no. RU 958 HIS); Ray, “In Search of Suvarnabhumi,” 357; Irfan Habib and Faiz Habib, “Mapping the Mauryan Empire,” *Proceedings of the Indian History Congress* 50, Golden Jubilee Session (1989), 57–79. Retrieved from JSTOR via NLB’s eResources website.
 
 [^10]: Cœdès, [*The Indianized States of Southeast Asia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=678446), 20; William Woodthorpe Tarn, *The Greeks in Bactria & India* (London: The Syndics of the Cambridge University Press, 1922), 104–9, Internet Archive,  https://archive.org/details/in.ernet.dli.2015.125997/page/n125/mode/2up; Kenneth R. Hall, [*Maritime Trade and State Development in Early Southeast Asia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446987) (Honolulu: University of Hawaii Press, 1985), 36–37, 39. (From National Library, Singapore, Call no. RSING 382.0959 HAL)
 
@@ -137,11 +137,11 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^14]: Dorian Q. Fuller, et al., “[Across the Indian Ocean: The Prehistoric Movement of Plants and Animals](https://www-proquest-com.proxy.lib.sg/central/docview/880070714/936EE1013D854D1FPQ/1?accountid=12691),”* Antiquity* 85, no. 328 (June 2011): 544–58. (From ProQuest Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Ray, “[Culture, the Written Word, and the Sea, 3rd Century BCE to 4th Century CE](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205218314),” 21–53.
 
-[^15]: Abū Zayd al-Sīrāfī, [*Accounts of China and India: Lively Depictions of the Natural Life, Peoples, and Kingdoms Around the Indian Ocean*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), trans. Tim Mackintosh-Smith (New York: New York University Press, 2017), 43–44. (From National Library, Singapore, Call no. R 915.104 SIR-[TRA]) (Abū Zayd al-Sīrāfī was a seafarer who moved from the Persian port-city of Siraf to Basra.)
+[^15]: Abū Zayd al-Sīrāfī, [*Accounts of China and India: Lively Depictions of the Natural Life, Peoples, and Kingdoms Around the Indian Ocean*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), trans. Tim Mackintosh-Smith (New York: New York University Press, 2017), 43–44. (From National Library, Singapore, Call no. R 915.104 SIR-[TRA]) (Abū Zayd al-Sīrāfī was a seafarer who moved from the Persian port-city of Siraf to Basra.)
 
-[^16]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
+[^16]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
 
-[^17]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
+[^17]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
 
 [^18]: Wang Dayuan was a Yuan dynasty traveller known for his two ship voyages. For a study of his writings relating to Singapore, see Miksic, [*Singapore & the Silk Road of the Sea*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 169–79.
 
