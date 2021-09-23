@@ -2,7 +2,6 @@
 title: "Editor's Picks: Art"
 permalink: /editors-picks/art
 ---
-
 #### [The Forgotten Murals of Paya Lebar Airport](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals)
 
 | [![Alt text for image on Isomer site](/images/vol-17-issue-2/murals/Mural_Main2.jpg)](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals)   |   | Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be. |
@@ -12,14 +11,19 @@ permalink: /editors-picks/art
 
 #### [Chinese Graphic Artists in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists)
 
-|  [![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg)](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists) |  <p>Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works.</p> |  |
+|  [![Alt text for image on Isomer site](/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg)](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists) |  |  Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works. |
 | -------- | -------- | -------- |
-|         |         |       |
+|       |       |       |
+
 
 #### [A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/malayan-fruits)
 
 |  [![Alt text for image on Isomer site](/images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg)](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/malayan-fruits)  | <p>Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery.</p> |  |
 | -------- | -------- | -------- |
+
+
+
+
 
 #### [Malay Seals from Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals)
 
