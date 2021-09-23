@@ -108,4 +108,4 @@ I retired in 2000 and nowadays I volunteer twice a week at the Resident Committe
 
 <p style="font-size:15px;"><b>Georgina Wong</b> is an Associate with the Exhibitions and Curation department at the National Library of Singapore. She is the curator of the exhibition “Greatest Gift of a Generation: Life Stories” – to be launched at the Woodlands Regional Library in late May 2015.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
