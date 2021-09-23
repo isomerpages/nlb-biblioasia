@@ -61,3 +61,13 @@ Here are some highlights of the collection.
 |3. This letter from the Electrical Engineer’s Office of the Municipal Commissioners of Singapore informed Eu Tong Sen on 15 January 1923 that the power supply to a theatre at 26 Eu Tong Sen Street had been disconnected and would be reinstated only after maintenance works had been carried out. [Note: the name of the theatre cannot be ascertained but it was possibly the Heng Wai Sun or the Heng Seng Peng, see text box below.]|
 
 |此信函是市镇局于1923年1月15日通知余东旋位于余东旋街26号的戏院因事故电源已被割断，有待维修工作完成后才能重新启动。[注：戏院名称无法被确定，但有可能是庆维新或庆升平。]|
+
+|<img src="/images/Vol-12-issue-2/eu-tong-sen/06-eutongsen.png">|
+
+|4. A bill from United Engineers Limited dated 31 October 1933 for the maintenance fee of $25 for an electric lift in Eu Villa. Among the many properties owned by Eu Tong Sen in Singapore, the most well-known was perhaps Eu Villa at Adis Road on Mount Sophia. It was designed by Swan & Maclaren in 1914. The lift was specially installed for Eu’s mother to take her to the top floor to enjoy the scenery. Eu Villa was demolished in the 1980s to make way for a condominium.[^10]|
+
+|这是United Engineers Limited于1933年10月31日在余园维修电梯的账单，费用为25元。在不计其数的产业中，位于苏菲雅山亚迪斯路，由双麦嘉仁建筑公司于1914年设计的余园也许是最广为人知。电梯是余东旋为能让母亲到顶楼看风景而设。余园在80年代已因公寓发展而被拆除。|
+
+|5. An account memo with two payment instructions, one of which was to the Penang Turf Club, issued by Eu Keng Chee (or K. C. Eu), Eu Tong Sen’s eldest son, on 25 January 1932 in his capacity as Managing Director of Lee Wah Bank. Founded in 1920 by a group of businessmen led by Eu Tong Sen, who became its first Chairman, the bank specifically served the Cantonese community (all staff members were required to converse in Cantonese). The bank managed to weather the Great Depression years and World War II, but a series of setbacks in the late 1960s resulted in its acquisition by United Overseas Bank in 1973.[^11]|
+
+|这是一张余东旋长子余经铸在出任利华银行董事经理时，有关两项支付账目的指示便笺。日期是1932年1月25日，其中一项是槟城赛马会的款项。由粤商集资，余东旋带领，创立于1920年的利华银行，专门接待粤籍顾客（员工必须能够说粤语）。银行虽然在世界大萧条和二战的艰难时期仍然能度过，但60年代末的几次严重挫折最终使得银行于1973年被大华银行收购。|
