@@ -149,7 +149,7 @@ Despite the presence of servants, the setting up and running of a home in the co
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **Notes**
+#### **NOTES**
 
 [^1]:[Pudding without eggs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070222-1.2.45). (1907, February 22). *The Straits Times*, p. 7. Retrieved from NewspaperSG. 
 
