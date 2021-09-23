@@ -130,4 +130,4 @@ A scene from the animated film <i>The Violin</i> directed by Ervin Han. <i>Court
 
 <p style="font-size:15px;"><b>Michelle Heng</b> is a Librarian with the National Library of Singapore. She compiled and edited Singapore Words Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems as well as Selected Poems of Goh Poh Seng.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
