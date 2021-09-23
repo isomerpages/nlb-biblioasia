@@ -44,4 +44,20 @@ Here are some highlights of the collection.
 
 这批文献将帮助人们从中了解早期华商的创业史。同时，这批珍贵的文献资料对研究东南亚与新加坡华侨社会史、19至20世纪初的侨批业以及中国与东南亚的经济关系史方面有着重要的参考价值。
 
-<img src="/images/Vol-12-issue-2/eu-tong-sen/03-eutongsen.jpg">
+|<img src="/images/Vol-12-issue-2/eu-tong-sen/03-eutongsen.jpg">|
+
+|1. A postal receipt dated 24 August 1934 for Chinese red dates delivered to the Eu Yan Sang shop in Negeri Sembilan in Malaysia. The first Eu Yan Sang shop was set up in 1879 in Gopeng, Perak, selling Chinese medicine to tin mine workers addicted to opium. Over the years, Eu Yan Sang was able to make a name for itself in traditional Chinese medicine by sourcing for the best raw ingredients and producing only high quality products.|
+
+|这是一张1934年8月24日年寄往马来西亚芙蓉县（森美兰州）余仁生分行的邮递品收据，物品是猴 子枣。第一间余仁生中药铺在1879年务边霹雳州创立，售卖中药给深受鸦片毒害的华侨矿工。多年 来，余仁生能够在中药业打响招牌，凭着的就是对中草药采购的严谨，以制作出上等品质的货品。|
+
+|<img src="/images/Vol-12-issue-2/eu-tong-sen/04-eutongsen.png">|
+
+|2. Issued on 25 December 1936, this invoice from the Eu Yan Sang branch in Singapore was for a salary payment of five Straits dollars and has the words “Swee Lam estate” stamped on it. Eu Tong Sen owned some 15,000 acres of rubber plantations across Malaya. Seven rubber plantations, including Swee Lam estate in Johor, were managed by the Eu Yan Sang branch in Singapore. Interestingly, Eu named the plantations after his wives, daughters and other female relatives and friends.[^9]|
+
+|这张凭单发于1936年12月25日，作为支付给范九工银叻币五元的凭据。凭单印有胶园“瑞林园”书柬。余东旋拥有一万五英亩树胶园，遍布马来亚。新加坡余仁生负责管理7个树胶园，包括柔佛瑞林园。有趣的是，余东旋的树胶园都是以妻子、女儿及其他女性亲朋戚友命名的。|
+
+|<img src="/images/Vol-12-issue-2/eu-tong-sen/05-eutongsen.png">|
+
+|3. This letter from the Electrical Engineer’s Office of the Municipal Commissioners of Singapore informed Eu Tong Sen on 15 January 1923 that the power supply to a theatre at 26 Eu Tong Sen Street had been disconnected and would be reinstated only after maintenance works had been carried out. [Note: the name of the theatre cannot be ascertained but it was possibly the Heng Wai Sun or the Heng Seng Peng, see text box below.]|
+
+|此信函是市镇局于1923年1月15日通知余东旋位于余东旋街26号的戏院因事故电源已被割断，有待维修工作完成后才能重新启动。[注：戏院名称无法被确定，但有可能是庆维新或庆升平。]|
