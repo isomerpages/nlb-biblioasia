@@ -13,9 +13,6 @@ Most people are familiar with the idea of Singapore as a major transportation an
 
 Less familiar, perhaps, is the notion of Singapore as a key nexus in the regional and global entertainment circuit, not only for the performing arts – dance, theatre and variety shows – but also for popular commercial sports such as boxing.
 
-<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover2.JPG">
-<div style="background-color: white;">In the 1930s, Singapore was known as the mecca of boxing in Asia, with most of the bouts taking place at the Happy World amusement park in Geylang. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
-
 The island-city’s role as the one-time regional centre of the thriving entertainment industry can be attributed to two factors: first, its position as a multicultural centre with a sizeable European population homesick for Western-style entertainment and sport (and which also enjoyed patronage by some local residents); and second, its geographic location which made it the ideal stopover for entertainers and sportsmen travelling from Europe and heading to China, Australia, Japan and other points east of Singapore, and, in the case of boxers, Australians especially who stopped here en route to bigger and more profitable matches in Europe.
 
 Until now, the role of Singapore as a hub for regional entertainment and sports has not been formally documented by the academic community. Rather, these threads have begun to emerge from the work of academics who write for popular audiences. Many of these writers uncovered this phenomenon in the course of their research.
@@ -124,6 +121,9 @@ Poring through the reports written by Singapore’s boxing correspondents betwee
 Mohamed Noor bin Bahiek, also known as Joe Diamond, was born in Mecca and periodically visited Singapore in the 1930s to fight, gaining a large following among the local Malay community.[^15] South London’s “round-headed and red-haired” Johnny Curly fought in Singapore in 1928 before leaving for a tour of Australia and New Zealand, and returning to Singapore in 1936.
 
 Heading in the opposite direction in 1938 was the Melbourne-based Australian middleweight champion Al Basten, who visited Singapore en route to England for a tour. The boxing scene in Singapore was so vibrant at one time that fans regularly got to see the best fighters from Asia, the Middle East, Europe and Australia battling it out at Happy World on Friday nights.
+
+<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover2.JPG">
+<div style="background-color: white;">In the 1930s, Singapore was known as the mecca of boxing in Asia, with most of the bouts taking place at the Happy World amusement park in Geylang. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **A Hub for Trade and Entertainment**
 
