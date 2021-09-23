@@ -32,7 +32,7 @@ ISI has its roots in an indexing service called the Singapore Periodicals Index 
 
 Moving forward, there are plans in the pipeline to enhance ISI as a Singapore resource database by including the index records of book chapters about Singapore. One of the biggest limitations in growing ISI as a service is that it does not provide full-text access to the articles. Indexing may seem archaic in the Google era, but there are distinct advantages: ISI uses English keywords and subject terms to index non-English articles, thereby extending their reach to a wider global audience. NLB is confident that ISI can continue to serve as a conduit between Singapore content and information seekers, and remain relevant in the years ahead.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/index-to-singapore-information/02-indextosingapore.jpg"></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-2/index-to-singapore-information/02-indextosingapore.jpg"></div>
 
 <div style="background-color: white;">
 <br>
