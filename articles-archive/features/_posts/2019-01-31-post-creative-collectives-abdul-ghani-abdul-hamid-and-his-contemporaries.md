@@ -10,7 +10,7 @@ layout: post
 <div style="background-color: white;">(Left) “The Face in Meditation” (undated) by Abdul Ghani Abdul Hamid, which depicts a mask-like face and contorted limbs, is reminiscent of batik with its bold colours and strong outlines. <i>Courtesy of National Gallery Singapore.</i><br>
 (Right) S. Mohdir’s “Dalam” (1975), which means “deep” in Malay, depicts the unexplored depths of the world beneath the sea. This work has often been cited as an example of an early experimentation in surrealism by a Singaporean artist. <i>Courtesy of National Gallery Singapore.</i></div>
 
-In April 1948, an art exhibition held at the Y.M.C.A. Singapore was reported in *The Morning Tribune* as “the first occasion of the Malay Artists of Singapore holding an Exhibition of Art”.[^1] The event, helmed by the Singapore Malay Art Class, was organised by C. Mahat (Mahat bin Chadang)[^2], a pioneering Malay artist who had been nurturing budding talent through his art classes since 1947.
+In April 1948, an art exhibition held at the Y.M.C.A. Singapore was reported in *The Morning Tribune* as “the first occasion of the Malay Artists of Singapore holding an Exhibition of Art”.[^1] The event, helmed by the Singapore Malay Art Class, was organised by C. Mahat (Mahat bin Chadang),[^2] a pioneering Malay artist who had been nurturing budding talent through his art classes since 1947.
 
 #### **Early Malay Art Groups**
 
