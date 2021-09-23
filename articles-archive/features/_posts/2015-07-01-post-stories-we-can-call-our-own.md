@@ -261,4 +261,4 @@ Glenn Phua, see here with his father Kelvin, was found to be autistic when he wa
 
 <p style="font-size:15px;"><b>Han Fook Kwang</b> joined The Straits Times in 1989 and became its political editor in 1995. He served as editor of the paper from 2002 to 2012. He is currently Editor-at-large at the newspaper.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
