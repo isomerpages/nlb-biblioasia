@@ -4,7 +4,9 @@ date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/dick-lee
 layout: post
 ---
-#### The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. **Joy loh** profiles the enfant terrible of entertainment.
+#### The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. **Joy Loh** profiles the enfant terrible of entertainment.
+
+<img src="/images/vol-11-issue-2/dicklee/dicklee.jpg">
 
 <i>What drove me to do what I did – it was to find myself and to make my statement as a Peranakan Chinese Singapore citizen of Asia and of the world”.</i>
 
@@ -24,11 +26,23 @@ In his own way, Lee was a rebel. Being the only pianist in his secondary school 
 
 Against the backdrop of this campaign, Lee once had a close shave with the police. One evening while loitering in town, Lee and his friends spotted a police patrol car and decided to make a run for it because they thought they would be picked up for sporting long hair. While making his getaway in his red and black four-inch platform shoes, Lee lost his balance and tumbled into a ditch, fortuitously removing himself from view as his friends were caught by the police and sent to “haircut hell”.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/dicklee/young_dicklee.jpg">
 Dick Lee performing at Rediffusion's singing contest <i>Ready, Steady, Folk</i> in 1973. <i>Courtesy of Dick Lee. </i>
+</div>
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/dicklee/dicklee_modelling.jpg">
 Dick Lee modelling his designs for his mother's boutique Midteen located in Tanglin Shopping Centre, with Tina Tan (left) and Sabrina Fernando, 1974. <i>Courtesy of Dick Lee.</i>
+</div>
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/dicklee/FRP.jpg">
 Album cover of music from <i>Fried Rice Paradise</i>, staged by Singapore Repertory Theatre in 2010. © <i>Singapore Repertory Theatre, Singapore, 2010.</i>
+</div>
 
 #### **The Beginning**
 
@@ -68,80 +82,83 @@ Even the album cover is distinctly local. It shows Lee surrounded by an eclectic
 
 Although <i>Life in the Lion City</i> was released in 1984 with little fanfare, one individual who appreciated Lee’s music enough to turn it into a television show was the Singapore Broadcasting Corporation’s (SBC) producer, Lim Sek. He later became Lee’s business partner when they set up Music & Movement to manage the latter’s career when he went fulltime.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/dicklee/mad_chinaman.jpg">
 Album cover of <i>The Mad Chinaman</i>, Dick Lee's ultimate Singaporean album of ethnic pop. © <i>Warner Music, Singapore, 1989.</i>
+</div>
 
 #### **Hitting the Home Run**
 
-Lee’s tenacity in pushing for a Singaporean identity finally paid off in 1989 with the release of The Mad Chinaman album by Warner Music. One of the reasons for the success of this album was that it dovetailed with the national songs campaign that had been launched by the government in the 1980s. Community singing was advocated as a means for Singaporeans to develop a sense of belonging to the nation and foster solidarity among citizens. 
+Lee’s tenacity in pushing for a Singaporean identity finally paid off in 1989 with the release of <i>The Mad Chinaman</i> album by Warner Music. One of the reasons for the success of this album was that it dovetailed with the national songs campaign that had been launched by the government in the 1980s. Community singing was advocated as a means for Singaporeans to develop a sense of belonging to the nation and foster solidarity among citizens. 
 
-Many of the catchy songs commis- sioned for the campaign and timed to be released for National Day – including “Stand Up for Singapore” (1984), “Count on Me, Singapore”(1986) and “We are Singapore” (1987) – struck a chord with people. The ground was receptive when The Mad Chi- naman was released and Lee found a new audience that happily embraced his work. The Mad Chinaman featured songs that were inspired by Lee’s environment and his musical roots, and critics regard this as the ultimate Singaporean album of ethnic pop. 
+Many of the catchy songs commissioned for the campaign and timed to be released for National Day – including “Stand Up for Singapore” (1984), “Count on Me, Singapore”(1986) and “We are Singapore” (1987) – struck a chord with people. The ground was receptive when <i>The Mad Chinaman</i> was released and Lee found a new audience that happily embraced his work. <i>The Mad Chinaman</i> featured songs that were inspired by Lee’s environment and his musical roots, and critics regard this as the ultimate Singaporean album of ethnic pop. 
 
-While the title track, “The Mad China- man”, was inspired by the Tiananmen Square massacre of 1989, Lee was moved to explore his Singaporean roots, acknowledging his confused identity in the lyrics of the song.
+While the title track, “The Mad Chinaman”, was inspired by the Tiananmen Square massacre of 1989, Lee was moved to explore his Singaporean roots, acknowledging his confused identity in the lyrics of the song.
 
-The Mad Chinaman relies
-On the east and west sides of his life
-The Mad Chinaman will try
-To find out which is right
-I know you can get confused
-I get that way a little too
-When the legacy of old surfaces as new Traditional, International
-Western feelings from my oriental heart
-How am I to know, how should I react?
-Defend with Asian pride? Or attack!
+The Mad Chinaman relies<br>On the east and west sides of his life<br>The Mad Chinaman will try<br>To find out which is right<br>I know you can get confused<br>I get that way a little too<br>When the legacy of old surfaces as new Traditional, International<br>Western feelings from my oriental heart<br>How am I to know, how should I react?<br>Defend with Asian pride? Or attack!
 
 Lee also put humour to good use in his music. He chose the most popular Malay folk song he knew, “Rasa Sayang”, and added contemporary rap lyrics that told the story of Singapore in tongue-in-cheek fashion. 
 
 Not one to fear controversy, Lee included another satirical song in the album, bravely taking an open dig at the ongoing Speak Mandarin Campaign. The song described a Chinese “lesson” which had Lee repeating some Mandarin phrases after the teacher as well as children reciting Mandarin verses in the background. 
 
-The Mad Chinaman record became such a hit that it went platinum within four months of its release, and won awards in Singapore, Hong Kong and Japan. Lee achieved regional prominence following the album’s phenomenal success, and he toured Japan, Hong Kong, Seoul and Taipei to ador- ing crowds. The “Mad Chinaman” moniker has been synonymous with Lee ever since.
+<i>The Mad Chinaman</i> record became such a hit that it went platinum within four months of its release, and won awards in Singapore, Hong Kong and Japan. Lee achieved regional prominence following the album’s phenomenal success, and he toured Japan, Hong Kong, Seoul and Taipei to adoring crowds. The “Mad Chinaman” moniker has been synonymous with Lee ever since.
 
 However, it was not all smooth sailing. In Singapore, “Rasa Sayang” was initially banned from the radio as the government had deemed the use of Singlish in the rap as undesirable. The controversy made the headlines. After several public debates on the differences between bad English and Singlish, the authorities finally softened their stand and accepted the value of the average Singaporean’s “natural way of speaking English” as Lee describes in his biography. After a few weeks, the SBC relented and the song received massive airtime over the radio. 
 
 Lee was proud of who he was: “Singlish was part of who we were. It made us unique. Singaporeans who spoke perfect English all spoke Singlish to each other. Even foreigners living in Singapore said ‘lah’.”
 
-In 1990, Lee relocated to Japan to further his music career. He continued to develop the Asian identity through his works, and through collaborations with famous Asian artistes such as Sandy Lam, Anita Mui, Andy Lau, Aaron Kwok and Miyazawa Kazufumi. For his efforts, Lee was rewarded with two Hong Kong Film Academy Awards – a feat no other Singaporean has ever achieved. The first, awarded in 1995, was for Best Original Movie Theme Song for She’s a Man, He’s a Woman. Four years later in 1999, he bagged the same award for the film City of Glass.
+In 1990, Lee relocated to Japan to further his music career. He continued to develop the Asian identity through his works, and through collaborations with famous Asian artistes such as Sandy Lam, Anita Mui, Andy Lau, Aaron Kwok and Miyazawa Kazufumi. For his efforts, Lee was rewarded with two Hong Kong Film Academy Awards – a feat no other Singaporean has ever achieved. The first, awarded in 1995, was for Best Original Movie Theme Song for <i>She’s a Man, He’s a Woman</i>. Four years later in 1999, he bagged the same award for the film <i>City of Glass</i>.
 
-Lee’s work in the Land of the Rising Sun proved instrumental in opening Japa- nese eyes to Southeast Asia. Soon, maga- zines were featuring stories on Singapore, and Lee’s name was always mentioned alongside. The publicity and attention lavished on Lee indirectly brought fame to his homeland, and Singapore became more than just a little red dot famous for its sarong kebaya-clad “Singapore Girl”. Singapore suddenly became an exciting new travel destination for the Japanese – one that had produced the enigmatic “Mad Chinaman”.
+Lee’s work in the Land of the Rising Sun proved instrumental in opening Japanese eyes to Southeast Asia. Soon, magazines were featuring stories on Singapore, and Lee’s name was always mentioned alongside. The publicity and attention lavished on Lee indirectly brought fame to his homeland, and Singapore became more than just a little red dot famous for its <i>sarong kebaya</i>-clad “Singapore Girl”. Singapore suddenly became an exciting new travel destination for the Japanese – one that had produced the enigmatic “Mad Chinaman”.
 
 #### **Beauty World Cha-Cha-Cha**
 
-Lee’s passion for musicals led him along a different yet complementary path. He has written several groundbreaking musicals, including Fried Rice Paradise (1991) Kam- pong Amber (1994), Sing to the Dawn (1996) and Hotpants (1997). The epic Nagraland toured Japan, Singapore and Hong Kong in a 2002 sold-out tour, and Snow.Wolf. Lake, which starred Hong Kong pop star Jacky Cheung, toured several Asian cities in 2005. Among his famed musicals, the most well-known was the first one he produced in 1988, the all-time favourite Beauty World.
+Lee’s passion for musicals led him along a different yet complementary path. He has written several groundbreaking musicals, including <i>Fried Rice Paradise</i> (1991) <i>Kampong Amber</i> (1994), <i>Sing to the Dawn</i> (1996) and <i>Hotpants</i> (1997). The epic <i>Nagraland</i> toured Japan, Singapore and Hong Kong in a 2002 sold-out tour, and <i>Snow.Wolf. Lake</i>, which starred Hong Kong pop star Jacky Cheung, toured several Asian cities in 2005. Among his famed musicals, the most well-known was the first one he produced in 1988, the all-time favourite <i>Beauty World</i>.
 
-A TheatreWorks production of Beauty World directed by Ong Keng Sen. It was first staged by TheatreWorks in 1988 and toured Japan in 1992, followed by a re-staging for the President's Star Charity in 1998. Courtesy of TheatreWorks (S) Ltd.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/dicklee/beuty_world.jpg">
+A TheatreWorks production of <i>Beauty World</i> directed by Ong Keng Sen. It was first staged by TheatreWorks in 1988 and toured Japan in 1992, followed by a re-staging for the President's Star Charity in 1998. <i>Courtesy of TheatreWorks (S) Ltd</i>.
+</div>
 
-An iconic musical well-loved by many Singaporeans, Beauty World was named after a covered market at the junction of Upper Bukit Timah Road and Jalan Jurong Kechil. Among the hodgepodge cluster of textile and household shops were a cou- ple of music shops selling cassettes and records. This was where Lee had his first taste of music heaven and discovered that local musicians also cut records. Before long Rita Chao, Sakura Teng, and Naomi and the Boys had all become part of Lee’s collection of singles at the tender age of 11. Little did he know at the time that this discovery would eventually come full circle and give birth to the psychedelic musical called Beauty World. 
+An iconic musical well-loved by many Singaporeans, <i>Beauty World</i> was named after a covered market at the junction of Upper Bukit Timah Road and Jalan Jurong Kechil. Among the hodgepodge cluster of textile and household shops were a couple of music shops selling cassettes and records. This was where Lee had his first taste of music heaven and discovered that local musicians also cut records. Before long Rita Chao, Sakura Teng, and Naomi and the Boys had all become part of Lee’s collection of singles at the tender age of 11. Little did he know at the time that this discovery would eventually come full circle and give birth to the psychedelic musical called <i>Beauty World</i>. 
 
 Several years later, as Lee grew increasingly successful in his career in the fashion industry, he met and collaborated with Linda Teo, who eventually became his business partner at Runway Productions, a fashion show production company. Linda’s humble beginnings as a factory worker and her success story as the owner of top modelling agency Carrie Models, bore similarities to Lee’s own mother’s life. Lee was inspired to write a musical based on both women. The prodigious talent that he is, Lee playfully tinkled on the piano one evening in 1986 and wrote “Beauty World (Cha-Cha-Cha)” in just five minutes. “I certainly achieved my goal in creating a happy song, as I could not stop singing it,” he remembers.
 
-Thus began the journey of Singapore’s very first homegrown musical, Beauty World. The musical tells the story of Ivy Chan Poh Choo, a young and guileless small-town girl from Batu Pahat who enters the seedy cabaret world in search of her long-lost father. It was first staged by TheatreWorks in 1988 to critical acclaim. Beauty World’s week-long opening run was sold out and prompted the production team to bring it back two months later, where it enjoyed another sold-out run. This was unprecedented in Singapore theatre history. The musical has since been performed several times: in 1992 when it toured Japan; in 1998 when it was produced by MediaCorp for the President’s Star Charity show; and in 2008 when it was staged by theatre company W!ld Rice, which added new scenes and songs to the musical.
+Thus began the journey of Singapore’s very first homegrown musical, <i>Beauty World</i>. The musical tells the story of Ivy Chan Poh Choo, a young and guileless small-town girl from Batu Pahat who enters the seedy cabaret world in search of her long-lost father. It was first staged by TheatreWorks in 1988 to critical acclaim. <i>Beauty World’s</i> week-long opening run was sold out and prompted the production team to bring it back two months later, where it enjoyed another sold-out run. This was unprecedented in Singapore theatre history. The musical has since been performed several times: in 1992 when it toured Japan; in 1998 when it was produced by MediaCorp for the President’s Star Charity show; and in 2008 when it was staged by theatre company W!ld Rice, which added new scenes and songs to the musical.
 
-Lee says of the musical: “These days, I feel a flush of pride when young actors come up to me and say that Beauty World inspired them to do theatre, or that it was the first musical they had ever seen.”
+Lee says of the musical: “These days, I feel a flush of pride when young actors come up to me and say that <i>Beauty World</i> inspired them to do theatre, or that it was the first musical they had ever seen.”
 
 #### **Forbidden City: Portrait of an Empress**
 
-Not one to sit idle, in the new millennium, Lee again pushed the boundaries, this time taking a leaf out of Chinese history by chal- lenging commonly held notions of Cixi, the last empress dowager of China. 
+Not one to sit idle, in the new millennium, Lee again pushed the boundaries, this time taking a leaf out of Chinese history by challenging commonly held notions of Cixi, the last empress dowager of China. 
 
-Lee was intrigued by the story of Cixi and rabidly researched into her life and his- tory, especially the challenges she must have faced as the ruler of China in the final years of the Qing Dynasty in the early 1900s. Not content to believe the popular accounts of Cixi as the infamous power-crazed despot, Lee wanted to explore a different side of her – as a woman, mother, wife and lover. 
+Lee was intrigued by the story of Cixi and rabidly researched into her life and history, especially the challenges she must have faced as the ruler of China in the final years of the Qing Dynasty in the early 1900s. Not content to believe the popular accounts of Cixi as the infamous power-crazed despot, Lee wanted to explore a different side of her – as a woman, mother, wife and lover. 
 
 In 2002, Lee travelled to London with lyricist Stephen Clark and director Steven Dexter to work on an outline for a musical on Cixi’s life. The trio visited the British Library to study out-of-print books on Cixi and stumbled upon an important work on the empress dowager by American artist Katherine Carl, who painted Cixi in her first Western-style portrait. 
 
-A scene from the musical Forbidden City: Portrait of an Empress, with Kit Chan (centre, in red costume) playing the lead role. Dick Lee wrote the music for this Singapore Repertory Theatre (SRT) production that was first staged in 2002. Courtesy of Singapore Repertory Theatre.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/dicklee/forbidden_city.jpg">
+A scene from the musical <i>Forbidden City: Portrait of an Empress</i>, with Kit Chan (centre, in red costume) playing the lead role. Dick Lee wrote the music for this Singapore Repertory Theatre (SRT) production that was first staged in 2002. <i>Courtesy of Singapore Repertory Theatre</i>.
+</div>
 
-Carl had been sent to the Forbidden City in 1903 to paint the empress dowager in just three days, but was so well-liked by the empress that she stayed for more than six months. Her account, With the Empress Dowager, published in 1905, had been writ- ten partly in defence of the scandalous books that were being published on the empress at the time, some of these attributing ficti- tious quotes to Carl herself. 
+Carl had been sent to the Forbidden City in 1903 to paint the empress dowager in just three days, but was so well-liked by the empress that she stayed for more than six months. Her account, <i>With the Empress Dowager</i>, published in 1905, had been written partly in defence of the scandalous books that were being published on the empress at the time, some of these attributing ficti- tious quotes to Carl herself. 
 
-Thus, the musical Forbidden City: Portrait of an Empress was born, starring Singapore singer Kit Chan in the titular role. Forbidden City was one of the highlights of the opening festival of Esplanade – Theatres on the Bay in October 2002. Owing to its immense popularity, the production returned for two re-runs in 2003 and 2006. Lee’s compositions for the musical subsequently went on to win the Life! Theatre Awards for Best Music in 2004. 
+Thus, the musical <i>Forbidden City: Portrait of an Empress</i> was born, starring Singapore singer Kit Chan in the titular role. Forbidden City was one of the highlights of the opening festival of Esplanade – Theatres on the Bay in October 2002. Owing to its immense popularity, the production returned for two re-runs in 2003 and 2006. Lee’s compositions for the musical subsequently went on to win the Life! Theatre Awards for Best Music in 2004. 
 
 #### **The Consummate Performer**
 
 “Dick Lee’s talents defy categorisation. If you think that his life is as colourful as the characters in his musicals and songs, then you are wrong! It is ten times more exciting and dramatic.” 
 
-— Lim Sek, Dick Lee’s business partner at Music & Movement
+<div style="text-align: right"><i>— Lim Sek, Dick Lee’s business partner at Music & Movement</i></div>
 
 A stalwart in the popular cultural history of Singapore, Lee continues to be a mover and shaker as he continues his “mad” adventures in music and theatre, embracing life as few people do.
 
-In 2014, Lee celebrated his 40th anni- versary in show business with a concert titled DL40; it was a sold-out ride down memory lane. Lee performed many of his earlier hits, including "Internationaland", "Follow Your Heart", “Thanksgiving”, “Singapore Nights” and more recent ones like “Treasure Every Moment”. At the end of the show, Lee paid a special tribute to Vernon Cornelius, the man who gave him his first break back in 1972.
+In 2014, Lee celebrated his 40th anniversary in show business with a concert titled DL40; it was a sold-out ride down memory lane. Lee performed many of his earlier hits, including "Internationaland", "Follow Your Heart", “Thanksgiving”, “Singapore Nights” and more recent ones like “Treasure Every Moment”. At the end of the show, Lee paid a special tribute to Vernon Cornelius, the man who gave him his first break back in 1972.
 
-As Singapore celebrates her golden jubilee this year, Singaporeans can look forward to more of the “Mad Chinaman” and his works. Lee will be performing a medley of his songs at the mega Sing50 concert at the Singapore Sports Hub on 7 August in celebration of Singapore music. He is the creative director for this year’s National Day parade, and has also composed the parade’s theme song “Our Singapore”, which he will sing at the event with Mandopop star JJ Lin. This is not Lee’s first attempt at pen- ning a National Day song. In 1998, his song “Home” composed for the Sing Singapore festival was selected as the theme song for the National Day parade that year. The heartwarming song became popular with Singaporeans and a remixed version was used as the theme song for the 2004 edition of the parade.
+As Singapore celebrates her golden jubilee this year, Singaporeans can look forward to more of the “Mad Chinaman” and his works. Lee will be performing a medley of his songs at the mega Sing50 concert at the Singapore Sports Hub on 7 August in celebration of Singapore music. He is the creative director for this year’s National Day parade, and has also composed the parade’s theme song “Our Singapore”, which he will sing at the event with Mandopop star JJ Lin. This is not Lee’s first attempt at penning a National Day song. In 1998, his song “Home” composed for the Sing Singapore festival was selected as the theme song for the National Day parade that year. The heartwarming song became popular with Singaporeans and a remixed version was used as the theme song for the 2004 edition of the parade.
 
 Ever the consummate performer and entertainer, Lee will not be resting on his laurels anytime soon and likely has more ideas up his sleeves. We say bring on more of the music, madness and magic.
 

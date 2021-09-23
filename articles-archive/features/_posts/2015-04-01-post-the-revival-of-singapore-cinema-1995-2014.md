@@ -4,9 +4,13 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/revival-sg-cinema
 layout: post
 ---
-
 #### Singapore’s film industry gets a reboot as it enters a new phase of its development. **Raphaël Millet** explains how this resurgence came about.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/bg4.jpg">
+Film still from Eric Khoo's <i>Mee Pok Man</i>, which starred Michelle Goh and Joe Ng. © Mee Pok Man. <i>Directed by Eric Khoo, produced by Jacqueline Khoo, distributed by Zhao Wei Films. Singapore 1995. Courtesy of Zhao Wei Films</i>. 
+</div>
 
 Is 2015 going to be a watershed year for Singaporean cinema? Two highly symbolic events have paved the way for it, and, when taken together, encapsulate the larger picture of Singaporean film history, from its origins at the turn of the 20th century until today. 
 
@@ -28,11 +32,11 @@ It was only in 1995 that another major step was made, led again by Khoo, then 30
 
 Two years later, Khoo directed his second feature film, 12 Storeys, a social drama in the vein of Mee Pok Man but with a more intricate structure, unveiling the lives of four different families living in the same 12-storey block of flats (hence the title). Cleverly cross-cutting between the intertwined lives of the occupants, the film sheds a bleak light into the dark corners of a depressive and eventually destructive Singaporean society – not inured from unresolved anxieties despite having been carefully socially engineered by the authorities.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/bg4.jpg)
-<div style="background-color: white;">Film still from Eric Khoo's <i>Mee Pok Man</i>, which starred Michelle Goh and Joe Ng. © Mee Pok Man. <i>Directed by Eric Khoo, produced by Jacqueline Khoo, distributed by Zhao Wei Films. Singapore 1995. Courtesy of Zhao Wei Films</i>. </div>
-
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/12_storeys.jpg)
-<div style="background-color: white;">Lum May Yee (left) and Koh Boon Pin (right) in 12 Storeys. © 12 Storeys. <i>Directed by Eric Khoo, produced by Brian Hong, distributed by Golden Village Pictures. Singapore 1997. Courtesy of Zhao Wei Films</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/12_storeys.jpg">
+Lum May Yee (left) and Koh Boon Pin (right) in 12 Storeys. © 12 Storeys. <i>Directed by Eric Khoo, produced by Brian Hong, distributed by Golden Village Pictures. Singapore 1997. Courtesy of Zhao Wei Films.</i>
+</div>
 
 Always on the lookout for new talent, Eric Khoo offered Jack Neo his debut as a full-fledged cinema actor in <i>12 Storeys</i>, something that was to have long term consequences on the development of Singaporean cinema (although in a different direction from what Khoo had undertaken). While Neo had already become famous on local TV for his comedic skills, <i>12 Storeys</i> not only revealed his ability to be a big screen actor, but also showcased his ease for social drama. The film also showed Neo’s ability to underplay a role (something quite rare for him, and quite the opposite of what he would generally do afterwards). Neo’s exceptionally nuanced and intimate portrayal of Ah Gu’s character in the movie certainly remains his best cinematic performance yet. With <i>12 Storeys</i>, Khoo asserted even further the role to be played by auteur cinema in representing, both locally and internationally, the identity of modern Singapore. Indeed, <i>12 Storeys</i> was not only the second Singapore-made movie to be entered for the SIFF’s Silver Screen Awards, but also the first Singapore film to be screened at the Cannes Film Festival as part of its Un Certain Regard programme. 
 
@@ -46,11 +50,18 @@ In 2011, Khoo released what might be seen as a far more daring and refreshing fi
 
 <i>Tatsumi</i> deservedly gained international recognition when it premiered in the Un Certain Regard section at the 2011 Cannes Film Festival. Yet, as with Khoo’s previous Cannes’ nominations, it did not win, and this once again tempered his achievements. A further setback was in store: although the film was selected as the Singaporean entry for the Best Foreign Language Film at the 84th Academy Awards, it did not make it to the final shortlist of nominated movies.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/Be_With_Me.jpg)
-<div style="background-color: white;">Eric Khoo (centre) during the production of <i>Be With Me</i>. Courtesy of Zhao Wei Films.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/Be_With_Me.jpg">
+Eric Khoo (centre) during the production of <i>Be With Me</i>. Courtesy of Zhao Wei Films.
+</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/Tatsumi.jpg)
-<div style="background-color: white;">Film still of Eric Khoo's Tatsumi, a film inspired by the works of manga artist, Yoshihiro Tatsumi. © Tatsumi. <i>Directed by Eric Khoo, produced by Tan Fong Cheng, Gary Goh, Phil Mitchell, Freddie Yeo, Eric Khoo and Brian Gothong Tan, distributed by Golden Village Pictures and Happiness. Singapore, 2011. Courtesy of Zhao Wei Films</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/Tatsumi.jpg">
+Film still of Eric Khoo's Tatsumi, a film inspired by the works of manga artist, Yoshihiro Tatsumi. © Tatsumi. <i>Directed by Eric Khoo, produced by Tan Fong Cheng, Gary Goh, Phil Mitchell, Freddie Yeo, Eric Khoo and Brian Gothong Tan, distributed by Golden Village Pictures and Happiness. Singapore, 2011. Courtesy of Zhao Wei Films</i>.
+</div>
+
 
 In spite of these minor setbacks, Khoo’s contribution to the revival of Singaporean cinema is not diminished. He set the direction and the standards for an auteur cinema where an independent director's personal creative vision is paramount, free from the stresses of commercial goals or worries. 
 
@@ -64,11 +75,17 @@ Royston Tan, for instance, has moved from the controversial <i>15</i> (2003) to 
 
 ##### With his “film for the sake of film” attitude, Khoo inspired numerous directors who emerged at the turn of the 1990s and 2000s, such as Glen Goei, Djinn Ong, Kelvin Tong and Royston Tan, among others. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/Lim_Kay_Tong_in_Perth_by_Djinn.jpg)
-<div style="background-color: white;">Lim Kay Tong in <i>Perth</i>: The Geylang Massacre. © Perth: The Geylang Massacre. <i>Directed by Djinn Ong, distributed by Tartan Films. Singapore, 2004</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/Lim_Kay_Tong_in_Perth_by_Djinn.jpg">
+Lim Kay Tong in <i>Perth</i>: The Geylang Massacre. © Perth: The Geylang Massacre. <i>Directed by Djinn Ong, distributed by Tartan Films. Singapore, 2004</i>.
+</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/881_19.jpg)
-<div style="background-color: white;">Royston Tan's <i>881</i> explores the colourful world of getai. © 881. <i>Directed by Royston Tan, produced by Gary Goh, James Toh, Chan Pui Yin, Freddie Yeo, Tan Fong Cheng and Ang Hwee Sim, distributed by Golden Village Pictures. Singapore, 2007</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/881_19.jpg">
+Royston Tan's <i>881</i> explores the colourful world of getai. © 881. <i>Directed by Royston Tan, produced by Gary Goh, James Toh, Chan Pui Yin, Freddie Yeo, Tan Fong Cheng and Ang Hwee Sim, distributed by Golden Village Pictures. Singapore, 2007</i>.
+</div>
 
 #### **The Rise of Commercial Cinema** 
 At the exact opposite end of Eric Khoo on the spectrum of Singaporean film genres stands Jack Neo. He is the other notable film director in the last two decades with a body of work even superior in quantity – but perhaps not in quality, although a comparison might not be really valid here – to the work of Khoo. 
@@ -79,14 +96,24 @@ Neo’s first venture into this genre was the 1998 <i>Money No Enough</i>, which
 
 The hapless misadventures of the comic trio in Money No Enough became one of Neo’s trademarks, soon recycled in 1999 in both <i>Liang Po Po</i> – The Movie (which, again he wrote but did not direct) and <i>That One No Enough</i> (which, finally, he directed). In both films, Neo poked fun at Singaporeans’ idiosyncrasies. Once again, Singaporeans loved it, and both movies were box-office hits, even though they did not break <i>Money No Enough</i>’s record.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/MNE9_re.jpg)
-<div style="background-color: white;">Mark Lee (left) and Jack Neo (right) in 1998's <i>Money No Enough</i>. <i>Directed by Tay Yeck Lock, produced by JSP Films, distributed by Shaw Organisation. Singapore, 1998. Courtesy of J Team Productions</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/MNE9_re.jpg">
+Mark Lee (left) and Jack Neo (right) in 1998's <i>Money No Enough</i>. <i>Directed by Tay Yeck Lock, produced by JSP Films, distributed by Shaw Organisation. Singapore, 1998. Courtesy of J Team Productions</i>.
+</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/i_not_stupid_re.jpg)
-<div style="background-color: white;">I Not Stupid starred Joshua Ang (left) and Shawn Lee (right) in 2002. <i>Directed by Jack Neo, produced by Mediacorp Raintree Productions, distributed by United International Pictures, Singapore, 2002. Courtesy of J Team Productions</i>. </div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/i_not_stupid_re.jpg">
+I Not Stupid starred Joshua Ang (left) and Shawn Lee (right) in 2002. <i>Directed by Jack Neo, produced by Mediacorp Raintree Productions, distributed by United International Pictures, Singapore, 2002. Courtesy of J Team Productions</i>.
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/homerun_sht_113_re.jpg">
+Shawn Lee (left) and Megan Zhang (right) in Homerun, a re-make of Majid Majidi's <i>Children of Heaven. Directed by Jack Neo, produced by Chan Pui Yin and Titus Ho, distributed by Mediacorp Raintree Pictures. Singapore 2003. Courtesy of J Team Productions. </i>
+</div>
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/homerun_sht_113_re.jpg)
-<div style="background-color: white;">Shawn Lee (left) and Megan Zhang (right) in Homerun, a re-make of Majid Majidi's <i>Children of Heaven. Directed by Jack Neo, produced by Chan Pui Yin and Titus Ho, distributed by Mediacorp Raintree Pictures. Singapore 2003. Courtesy of J Team Productions. </i></div>
 
 <i>With That One No Enough</i>, Neo embarked on a directing career that turned him into Singapore’s most prolific filmmaker, directing a total of 18 feature films within 16 years (from 1998 to 2014). Some critics found him a bit too prolific to be consistently good all the time, and it is true that some of his comedies were not as commercially successful – sometimes because they were just not as funny as his previous efforts. The truth is that making people laugh is far more difficult than making people cry – be it when writing a book, staging a play or directing a movie. So far, despite his highs and lows, Neo has done a pretty good job at making Singaporeans laugh at themselves, something much needed for the morale and psychological sanity of a nation not often known for its self-deprecating humour. 
 
@@ -104,9 +131,12 @@ In 2012, Neo finally surpassed himself with <i>Ah Boys to Men</i>, earning more 
 
 Looking back at Jack Neo’s accomplishments over the last 15 years or so, it would appear that he has almost singlehandedly created locally made commercial films that can make a windfall. But the truth is that Neo, alone, has almost entirely occupied that space. Many have tried to copy Neo in the hope of replicating his success, but this has generally been in vain. Jack Neo’s recipe for box-office success is a closely guarded secret.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/ahboytoman.jpg)
 <div style="background-color: white;">
-A film still from Ah Boys to Men. © Ah Boys to Men. <i>Directed by Jack Neo, produced by Jack Neo, Lim Teck and Leonard Lao, distributed by Golden Village Pictures &amp; Clover Films. Singapore, 2012. Courtesy of J Team Productions. </i></div>
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/ahboytoman.jpg">
+A film still from Ah Boys to Men. © Ah Boys to Men. <i>Directed by Jack Neo, produced by Jack Neo, Lim Teck and Leonard Lao, distributed by Golden Village Pictures &amp; Clover Films. Singapore, 2012. Courtesy of J Team Productions. </i>
+</div>
+
 
 #### **A New Generation with Potential** 
 
@@ -122,11 +152,17 @@ Interestingly, although <i>Ilo Ilo</i> is the first and so far the only Singapor
 
 Finally, in late 2014, a new film director emerged in the person of Ken Kwek, with his debut feature <i>Unlucky Plaza</i> (2014) – the title a provocative metaphor of modern Singapore. Kwek had already been on the radar for his more controversial <i>Sex. Violence. Family Values</i> (2012) that was banned in Singapore. Fortunately, <i>Unlucky Plaza</i> did not suffer the same fate and was chosen to open the reborn SGIFF. The film’s strength lies in the fact that it managed to bring together all the things that make for a good independent arthouse film as well as the characteristics of what are usually perceived to be the hallmarks of a successful commercial movie. Intertwining destinies – the naive entrepreneur, the ubiquitous property agent, the loan shark, etc. – in a manner reminiscent of both Eric Khoo’s and Jack Neo’s styles, Unlucky Plaza portrays Singapore as a city-state devoured by greed in more ways than one. The film cleverly pulls it off by permanently oscillating between an irresistibly funny comedy and a riveting drama on society.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/Sandcastle.jpg)
-<div style="background-color: white;">Bobbi Chen and Joshua Tan in Boo Junfeng's 2010 Sandcastle. © Sandcastle. <i>Directed by Boo Junfeng, produced by Fran Borgia &amp; Gary Goh, distributed by Golden Village Pictures. Singapore, 2010. Courtesy of Zhao Wei Films.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/Sandcastle.jpg">
+Bobbi Chen and Joshua Tan in Boo Junfeng's 2010 Sandcastle. © Sandcastle. <i>Directed by Boo Junfeng, produced by Fran Borgia &amp; Gary Goh, distributed by Golden Village Pictures. Singapore, 2010. Courtesy of Zhao Wei Films.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/llo_llo_re.jpg)
-<div style="background-color: white;">Angeli Bayani and Jieler Koh in Ilo Ilo. © Ilo Ilo. <i>Directed by Anthony Chen, produced by Ang Hwee Sim, Anthony Chen, Wahyuni A Hadi, distributed by Golden Village Pictures. Singapore,2013.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/llo_llo_re.jpg">
+Angeli Bayani and Jieler Koh in Ilo Ilo. © Ilo Ilo. <i>Directed by Anthony Chen, produced by Ang Hwee Sim, Anthony Chen, Wahyuni A Hadi, distributed by Golden Village Pictures. Singapore,2013.</i>
+</div>
 
 #### **What the Future Holds** 
 As Singapore prepares to celebrate the 50th anniversary of its Independence in 2015, so too is Eric Khoo; he was born in 1965 and will celebrate his own 50th birthday this year. This conjunction of dates is highly symbolic as Khoo is the person who has almost singlehandedly sparked the revival of Singaporean cinema. Although Khoo remains one of the leading lights of local film, he is not as isolated as he was when he first started his career because several other filmmakers of note have emerged over the years. 
@@ -139,12 +175,17 @@ Yet, the Singaporean film industry, after lying dormant for so many years, has h
 
 Furthermore, with the exception of some of Neo’s blockbusters, the domestic film market is still not financially sustainable. After years of selections and nominations, Singapore films have only recently started winning international accolades, as in the case of Anthony Chen’s <i>Ilo Ilo</i>. Many challenges still await the local film industry, which, after surviving a near comatose period in the 1980s, is slowly coming back to life. If the stars are all aligned, Singapore cinema might finally be on its way to a true renaissance.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/5_HERE_feature_film_HD_86_min_2009_production_still_by_Shannon_Castleman_5.jpg">
+The late Chuen Boone Ong in his role as Monsters Man in Ho Tzu Nyen’s 2009 HERE. <i>Directed by Ho Tzu Nyen, produced by Fran Borgia, Michel Cayla and Jason Lai, distributed by Cathay-Keris Films (Singapore). Singapore, 2009. Courtesy of Ho Tzu Nyen.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/5_HERE_feature_film_HD_86_min_2009_production_still_by_Shannon_Castleman_5.jpg)
-<div style="background-color: white;">The late Chuen Boone Ong in his role as Monsters Man in Ho Tzu Nyen’s 2009 HERE. <i>Directed by Ho Tzu Nyen, produced by Fran Borgia, Michel Cayla and Jason Lai, distributed by Cathay-Keris Films (Singapore). Singapore, 2009. Courtesy of Ho Tzu Nyen.</i></div>
-
-![Alt text for image on Isomer site](/images/vol-11-issue-1/revivalofsgcinema/Adrian_Pang_in_Unlucky_Plaza_by_Ken_Kwek.jpg)
-<div style="background-color: white;">Adrian Pang in Unlucky Plaza. <i>Directed by Ken Kwek, produced by Ken Kwek, Kat Goh and Leon Tong. Singapore. 2014. © Kaya Toast Pictures.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/revivalofsgcinema/Adrian_Pang_in_Unlucky_Plaza_by_Ken_Kwek.jpg">
+Adrian Pang in Unlucky Plaza. <i>Directed by Ken Kwek, produced by Ken Kwek, Kat Goh and Leon Tong. Singapore. 2014. © Kaya Toast Pictures.</i>
+</div>
 
 <p style="font-size:15px;"><b>Raphaël Millet</b> is a film director, producer and critic with a passion for cinema the world over. He divides his time between France and Singapore, and has published two books about Singaporean cinema, one in French in 2004, the other in English, simply titled Singapore Cinema, in 2006.</p>
 

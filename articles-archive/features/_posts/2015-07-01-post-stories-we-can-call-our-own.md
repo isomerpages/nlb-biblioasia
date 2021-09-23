@@ -6,6 +6,8 @@ layout: post
 ---
 #### **Han Fook Kwang** shares some of his favourite stories from Singaporeans as told in Living The Singapore Story, a book commemorating the nation’s golden jubilee.
 
+<img src="/images/vol-11-issue-2/stories/sg50_books.jpg">
+
 What is the Singapore Story?
 
 The answer is not straightforward because different people will have different views of what story they most identify with this country. For some, it might be founding Prime Minister Lee Kuan Yew’s memoirs. That story though is told from his point of view even if he had the advantage of being at the centre of many of the country’s most dramatic political events. What of the many other people who might have seen the story differently or have other stories to tell? Do their accounts matter and have a place in the nation’s storytelling?
@@ -23,8 +25,6 @@ It turned out to be a deeply satisfying project because we found a treasure trov
 In all, we found 58 storytellers from taxi driver to bus captain, teacher, satay man, doctor, scientist, soldier, policeman, athlete, mountain climber, civil servants and many more.
 
 Here are some of my favourites in the book, <i>Living The Singapore Story</i>, which was launched on 15 May 2015.
-
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/sg50_books.jpg)
 
 Kopitiam boss Lim Bee Huat started work cleaning tables at coffee shops for $1 a night. He was so poor he used to eat the food left by people at roadside offerings during the Hungry Ghost Festival. But he worked his way up, starting his first stall at the old Esplanade ground. Today, he owns more than 80 outlets and his staff get a Rolex watch from him when they have worked for more than 10 years.
 
@@ -52,10 +52,11 @@ Many Singaporeans get upset when old landmarks and places they remember fondly f
 
 If we do not find a way of recording and remembering them, it will be like those forgotten buildings, lost forever.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/ManiamFamily.jpg)
-<div style="background-color: white;">Adam Maniam (standing, left), with wife Yap Cuixian and their daughter Amelia Ri-En, his elder brother Aaron (seated, top) and younger brother Ashraf, together with his father Sydney (right), mother Bibe Zoolaha and maternal great-grandmother Chan Bibi. Adam is a Tamil-Eurasian-Malay-Pakistani lawyer with a Catholic Tamil grandfather and a Eurasian grandmother.</div>
-
-
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/stories/ManiamFamily.jpg">
+Adam Maniam (standing, left), with wife Yap Cuixian and their daughter Amelia Ri-En, his elder brother Aaron (seated, top) and younger brother Ashraf, together with his father Sydney (right), mother Bibe Zoolaha and maternal great-grandmother Chan Bibi. Adam is a Tamil-Eurasian-Malay-Pakistani lawyer with a Catholic Tamil grandfather and a Eurasian grandmother.
+</div>
 
 #### **From Drug Offender to Call Centre Manager**
 
@@ -77,8 +78,12 @@ I was released from my last  prison term on 11 November 2008. A week later, I be
 
 Most newly released ex-offenders have no money, so Connect gives them $10 a day for meals until they get their first month’s pay of about $1,000. They need to stay focused by holding a steady job because that disciplines and stabilises them.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/AngelNg.jpg)
-<div style="background-color: white;">Angel Ng oversees more than 50 employees, many of them ex-offenders,  at Connect Centre. It trains former inmates at its three call centres so they have a chance at holding down steady jobs and re-integrating into society.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/stories/AngelNg.jpg">
+Angel Ng oversees more than 50 employees, many of them ex-offenders,  at Connect Centre. It trains former inmates at its three call centres so they have a chance at holding down steady jobs and re-integrating into society.
+</div>
+
 
 #### **Made in Singapore: Asia’s First Test-tube Bab**
 
@@ -96,8 +101,12 @@ The late Prof Ratnam gave me the name Samuel. I don’t know why. We did not rea
 
 You could call me an advocate of IVF. I often encourage my friends who are trying to conceive to go for it. I love kids and would definitely want my own. But first, I have to find myself a girlfriend.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/SamuelLee.jpg)
-<div style="background-color: white;">Samuel Lee with a projection of a newspaper article marking his birth. He says that, fanfare aside, he grew up an ordinary Singaporean, in a three-room flat in Woodlands, with parents who refused to pamper him with too many toys.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/stories/SamuelLee.jpg">
+Samuel Lee with a projection of a newspaper article marking his birth. He says that, fanfare aside, he grew up an ordinary Singaporean, in a three-room flat in Woodlands, with parents who refused to pamper him with too many toys.
+</div>
+
 
 #### **The Day He Faced a Cop Killer**
 
@@ -113,8 +122,12 @@ Then there was the disaster in 1978, when the Greek tanker Spyros exploded at Ju
 
 I remember we were eating  <i>nasi briyani</i> at an operating table  with bodies on the floor. We had to  take our food there as we couldn’t  leave, as we were waiting for people to come in to identify the bodies, and every hour the body changes because of decomposition. After that, I had to throw away all the clothes I was wearing, including my undergarments, shoes, everything, because it all stank. Even a few days after we were done, when I sat in the bus, people were still holding their noses, because the smell sticks to your skin. You bathe with Dettol, you wash your hair, the stink is still there.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/RahmanKhan.jpg)
-<div style="background-color: white;">Veteran police officer Abd Rahman Khan Gulap Khan was at the front line of several major investigations.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/stories/RahmanKhan.jpg">
+Veteran police officer Abd Rahman Khan Gulap Khan was at the front line of several major investigations.
+</div>
+
 
 #### **I Sold Cars to Presidents**
 
@@ -134,10 +147,13 @@ In 1964, we brought in Mazda, but people didn’t trust a Japanese make. They wo
 
 I still love cars and will spend more than an hour washing my daughter’s car. The only part I don’t clean is the engine – I don’t want to dirty my nails!
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/Rosie_Ang.jpg)
+<img src="/images/vol-11-issue-2/stories/Rosie_Ang.jpg">
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/Rosie_Ang_old.jpg)
-<div style="background-color: white;">Veteran car saleswoman Rosie Ang, 77, started out in the business when she was 20. Her working hours were long, but her hard work paid off, and she had plenty of referrals. She even delivered a car to Singapore’s first president, Yusof Ishak.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/stories/Rosie_Ang_old.jpg">
+Veteran car saleswoman Rosie Ang, 77, started out in the business when she was 20. Her working hours were long, but her hard work paid off, and she had plenty of referrals. She even delivered a car to Singapore’s first president, Yusof Ishak.
+</div>
 
 
 #### **A Voice for the Less Advantaged**
@@ -164,8 +180,11 @@ I feel in particular for the elderly. They are poorer in general, and things lik
 
 People should be allowed to work for as long as they think they can, and as long as their employer finds them producing good work.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/DrKanwaljitSoin.jpg)
-<div style="background-color: white;">Singapore’s first woman Nominated MP Kanwaljit Soin says moving the Family Violence Bill in 1995 was her biggest achievement.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/stories/DrKanwaljitSoin.jpg">
+Singapore’s first woman Nominated MP Kanwaljit Soin says moving the Family Violence Bill in 1995 was her biggest achievement.
+</div>
 
 #### **Do You Know the Satay Man? He’s Moved**
 
@@ -181,8 +200,12 @@ I started selling less satay and more of other Malay food. My stall is named aft
 
 I still come in every day to my stall and eat a bowl of <i>mee rebus</i> or <i>mee soto</i>. This way I can ensure my son is doing a decent job, that the quality is still good.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/NgalirdjoMungin.jpg)
-<div style="background-color: white;">At age 94, Ngalirdjo Mungin still goes to his stall, which his son runs now, to check if the quality of the <i>mee rebus</i> and <i>mee soto</i> is good.</div> 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/stories/NgalirdjoMungin.jpg">
+At age 94, Ngalirdjo Mungin still goes to his stall, which his son runs now, to check if the quality of the <i>mee rebus</i> and <i>mee soto</i> is good.
+</div>
+ 
 
 #### **Sometimes You Need More than Prayers**
 
@@ -196,8 +219,11 @@ Once, while praying in the Mount Alvernia Hospital chapel, I saw this strapping 
 
 Once, while I was talking to him, a friend of his came by and told him: “Oh, you’re going to get better and we’ll go cycling again.” I was so angry because that was not reality. But I didn’t say anything because it’s not for me to say anyone is right or wrong. After his friend left, we talked about reality. He was not bitter at all, but worried about his children as he and his wife weren’t close. I told him: “She’s still a good mother.” His wife turned up eventually and didn’t desert him. I put my arms around her to comfort her as she was very upset. I have not got used to losing a patient; how can you? Sometimes I’ll be choking back tears at the service but I try to calm myself so I’ll be helpful to the families.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/Sr_Thomasina_Sewell.jpg)
-<div style="background-color: white;">Sister Thomasina Sewell is a nun in the Catholic order known as the Franciscan Missionaries of the Divine Motherhood. In 1961, she and 36 other nuns set up Mount Alvernia Hospital.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-2/stories/Sr_Thomasina_Sewell.jpg">
+Sister Thomasina Sewell is a nun in the Catholic order known as the Franciscan Missionaries of the Divine Motherhood. In 1961, she and 36 other nuns set up Mount Alvernia Hospital.
+</div>
 
 #### **My Son, the Award-winning Pathlight Artist**
 
@@ -221,8 +247,11 @@ Member of Parliament Denise Phua, who helped set up Pathlight, called Glenn “t
 
 When Glenn was younger, we would worry about his future. Now, we’re definitely more confident. Path-light recently set up an art gallery for its artists, which also sells works by students who have graduated. It feels like there’s a direction for Glenn now, and he can earn a living. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-2/stories/GlennPuah.jpg)
-<div style="background-color: white;">Glenn Phua, see here with his father Kelvin, was found to be autistic when he was four. His artistic talent was discovered when he won an art competition.</div>
+<div style="background-color: white; padding-bottom:20px;">
+<br/>
+<img src="/images/vol-11-issue-2/stories/GlennPuah.jpg">
+Glenn Phua, see here with his father Kelvin, was found to be autistic when he was four. His artistic talent was discovered when he won an art competition.
+</div>
 
 |<i>Living The Singapore Story: Celebrating Our 50 Years 1965–2015</i> is on sale in bookshops at $19.65 (GST included). Commissioned by the National Library Board in celebration of Singapore’s Jubilee year, it features 58 Singaporeans describing how their lives evolved as Singapore changed over the past half-century. The stories featured on these pages are excerpts from the book.|
 

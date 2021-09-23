@@ -6,6 +6,12 @@ layout: post
 ---
 #### Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. **Nor Afidah Bte Abd Rahman** and **Michelle Heng** recount its fabled history.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg">
+Maria Menado as the pontianak in B.N. Rao's 1957 <i>Dendam Pontianak</i>. © Dendam Pontianak. <i>Directed by B. Narayan Rao, produced by Cathay-Keris Films. Singapore, 1957.</i>
+</div>
+
 
 Azizah, the alluring customer-turned-love-interest of trishaw-rider Amran (played by screen legend P. Ramlee) visits his run-down hut for the first time in <i>Penarek Becha</i> (1955). When Amran bemoans his humble station in life, she delivers a sagely line in return, <i> “Tuhan tidak akan memberi sahaja kalau manusia tidak berusaha</i> (God won’t just help people unless they make an effort).”[^1] The audience watches with bated breath as this beauty-with-brains helps her humble beau make a success of his life. Azizah (played by the sweetheart of Malay movies, Sa’adiah) vows to help him attend night school. This turns out to be just the kind of push an honest-but-poor trishaw rider needs to scale the rigid social ladder of the time and seek the blessings of her parents. For cinema audiences, the film’s central theme – the rejection of inequality through the pursuit of education – was a timely reminder of the need for self-reliance:[^2] Malaya was in the midst of agitating for independence from her British colonial administrators. 
 
@@ -21,14 +27,19 @@ While the Shaws' pre-World War II Malay films featured <i>bangsawan</i> actors a
 
 At this point, Rajhans recognised the need to infuse his crew with fresh blood instead of relying solely on the local traditional <i>bangsawan</i> (Malay opera) performers who had crossed over into the world of moving pictures. Whilst on talent-scouting trips in the Malay Peninsular and Singapore, Rajhans spotted the young musician P. Ramlee and quickly hired the charismatic singer-actor. Ramlee made his screen debut in the 1948 film <i>Chinta (Love)</i>, playing the supporting role of a swarthy villain opposite screen siren Siput Sarawak.[^13]
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/bg3_re.jpg)
-<div style="background-color: white;">Maria Menado as the pontianak in B.N. Rao's 1957 <i>Dendam Pontianak</i>. © Dendam Pontianak. <i>Directed by B. Narayan Rao, produced by Cathay-Keris Films. Singapore, 1957.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/malaycinema/P_Ramlee_re.jpg">
+P. Ramlee was an actor-singer who starred in many of Shaw's MFP's films. © 120 Malay Movies, <i>Amir Muhammad, published by Matahari Books, 2010.</i>
+</div>
+
 	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/P_Ramlee_re.jpg)
-<div style="background-color: white;">P. Ramlee was an actor-singer who starred in many of Shaw's MFP's films. © 120 Malay Movies, <i>Amir Muhammad, published by Matahari Books, 2010.</i></div>
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Singapore_Night_re.jpg)
-<div style="background-color: white;">A 1948 flyer advertising <i>Singapura Di Waktu Malam (Singapore Night)</i>, one of MFP’s earliest Malay films and starring Siput Sarawak and Bachtiar Effendi. © Singapura Di Waktu Malam. Directed by B.S. Rajhans, produced by Malay Film Productions, 1947. <i>Courtesy of Wong Han Min.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/malaycinema/Singapore_Night_re.jpg">
+A 1948 flyer advertising <i>Singapura Di Waktu Malam (Singapore Night)</i>, one of MFP’s earliest Malay films and starring Siput Sarawak and Bachtiar Effendi. © Singapura Di Waktu Malam. Directed by B.S. Rajhans, produced by Malay Film Productions, 1947. <i>Courtesy of Wong Han Min.</i>
+</div>
 
 Not to be eclipsed was rival Cathay Organisation’s Cathay-Keris Films with its studios at Jalan Keris in the East Coast area. In 1953, Cathay's chairman Loke Wan Tho teamed up with Keris Film Productions' managing director Ho Ah Loke to form the Cathay-Keris Studio. Cathay-Keris was to pose a serious challenge to Shaw Brothers MFP’s dominance in the Malay film industry.[^14]
 
@@ -38,9 +49,12 @@ A turning point in the Malay film industry occurred in 1957 when a dispute broke
 
 Following the strikes, Cathay-Keris released one of the most notable cult films in the Malay movie industry, <i>Pontianak</i> (1957), starring the radiant <i>kebaya-queen</i> from Indonesia, Maria Menado. The ghoulish tale of a beauty-turned vampire who could only be killed with a nail driven into her skull was directed by B.N. Rao. The phenomenal success of <i>Pontianak</i> – which spawned the sequel <i>Dendam Pontianak (Pontianak’s Revenge) </i> in the same year and consequently the horror film genre – heralded the arrival of Cathay-Keris as a formidable opponent in the industry.[^20] Menado, too, rode the crest of her success in the <i>Pontianak</i> films to become Malaya’s first film-star producer with her own company, Maria Menado Productions, rivalling P. Ramlee’s status in the filmmaking sphere.[^21]
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/malaycinema/Maria_Menado_re.jpg)
 <div style="background-color: white;">
-Actress-producer Maria Menado (of the <i>Pontianak</i> movie fame) in 1960. <i>K.F. Wong collection, courtesy of the National Archives of Singapore.</i></div>
+<br/>
+<img src="/images/vol-11-issue-1/malaycinema/Maria_Menado_re.jpg">
+Actress-producer Maria Menado (of the <i>Pontianak</i> movie fame) in 1960. <i>K.F. Wong collection, courtesy of the National Archives of Singapore.</i>
+</div>
+
 
 #### **A Steady Decline**
 

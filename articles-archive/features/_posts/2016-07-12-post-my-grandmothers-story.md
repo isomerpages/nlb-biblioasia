@@ -122,7 +122,7 @@ But we should also pay attention to the silences – to the people who aren’t 
 	<b>Yu-Mei Balasingamchow</b> is the co-author of “Singapore: A Biography” (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is www.toomanythoughts.org.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
 #### **Notes**
 

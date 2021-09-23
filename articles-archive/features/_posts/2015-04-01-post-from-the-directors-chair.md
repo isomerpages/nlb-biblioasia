@@ -15,8 +15,11 @@ layout: post
 
 **Synopsis**: <i>Old Friends</i> is the final installation following the highly acclaimed documentary series <i>Old Places</i> (2010) and <i>Old Romances</i> (2012). In this latest documentary, food is the platter on which personal stories of ordinary people from all walks of life are collected, unravelled and served. By compiling these collective narratives of Singaporean food tales – in the process preserving intimate stories of joys and woes, love and loss – <i>Old Friends</i> offers future generations a taste of the past through our common passion for food. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Lek_Lim_Nonya_Kueh_1.jpg)
-<div style="background-color: white;">Production shot of <i>Old Friends</i> (2015) directed by Royston Tan. <i>Courtesy of Royston Tan.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/directorchair/Lek_Lim_Nonya_Kueh_1.jpg">
+Production shot of <i>Old Friends</i> (2015) directed by Royston Tan. <i>Courtesy of Royston Tan.</i>
+</div>
 
 **How did your team go about collecting and unravelling the food stories featured in <i>Old Friends</i>?**<br>
 After making <i>Old Places</i> and <i>Old Romances</i>, we’ve compiled a strong database of people who regularly contribute stories to us. The directors involved in this production happen to be equally passionate about collecting personal stories from all sources. 
@@ -53,9 +56,11 @@ The genre is inspired by Guy Maddin’s 2007 film, <i>My Winnipeg</i>, which is 
 **So these songs become metaphors for homesickness?**<br>
 Yes, and I wanted to highlight the fact that we are a very “musical” country – we like to compose songs for every occasion. You never know when you'll catch yourself singing these songs, like I did when I was very homesick... and of all places, in a bathroom in Sweden!
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/The_Studio2326_V2.jpg)
-<div style="background-color: white;">Film still of <i>The Studio aka The Songs that Sang Her</i> (2015), directed by Sun Koh. <i>Courtesy of Sun Koh</i>. </div>
-
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/directorchair/The_Studio2326_V2.jpg">
+Film still of <i>The Studio aka The Songs that Sang Her</i> (2015), directed by Sun Koh. <i>Courtesy of Sun Koh</i>.
+</div>
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Headshot_lilin.jpg)
 <div style="background-color: white;"></div>
@@ -81,8 +86,12 @@ I reconnected with some girls in my school through Facebook whom I knew to be CP
 **One last question. Where did your crew find the neon-coloured outfits? Do you still own any 1980s-style relics in your own wardrobe?** <br>
 We had to tailor some of the clothes and the rest were bought off the shelves at Bugis Village. It was good timing; baggy jackets and shirts came back into fashion last year so we bought those as well. As for relics of the 80s, I still keep some cassette tapes, vintage furniture and one or two toys. I wish I had kept my Walkman and some other T-shirts and clothes that are now probably floating in some Salvation Army universe!
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/CPKidz_Day2_BTS_378.jpg)
-<div style="background-color: white;">A scene from Wee Li Lin's Centrepoint Kids. Courtesy of Wee Li Lin.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/directorchair/CPKidz_Day2_BTS_378.jpg">
+A scene from Wee Li Lin's Centrepoint Kids. Courtesy of Wee Li Lin.
+</div>
+
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Ervin_Han_re.jpg)
 <div style="background-color: white;"></div>
@@ -110,9 +119,11 @@ I don't play the violin at all. I can get by playing the guitar if the audience 
 
 <i>Catch “Rewind/Remind: A Singapore Memory Project Film Festival”, featuring specially curated films by eight local directors, from 23 May 2015 to 20 June 2015 at the National Library Building, library@ esplanade, library@ orchard, Tampines Regional Library, Woodlands Regional Library as well as Bukit Merah Public Library. Find out more at bit.ly/smpfilmfest</i>
 
-
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/scene.jpg)
-<div style="background-color: white;">A scene from the animated film <i>The Violin</i> directed by Ervin Han. <i>Courtesy of Ervin Han.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/directorchair/scene.jpg">
+A scene from the animated film <i>The Violin</i> directed by Ervin Han. <i>Courtesy of Ervin Han.</i>
+</div>
 
 ![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/SMP_BA2_01_re.jpg)
 <div style="background-color: white;"></div>

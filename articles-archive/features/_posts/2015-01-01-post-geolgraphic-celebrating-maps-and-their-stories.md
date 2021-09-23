@@ -6,8 +6,10 @@ layout: post
 ---
 #### “GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015. **Tan Huism** explains why you should not miss this event.
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg)
-<div style="background-color: white;">This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves. <i>National Library of Singapore Collection.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/bg1.jpg">
+</div>
 
 "You can render space and suspend time." So writes American author Ronlyn Domingue of the powers of the map-maker, or cartographer, in her fantasy novel *The Mapmaker's War.*[^1]
 
@@ -20,16 +22,27 @@ All maps are, in a sense, mental maps as they reflect not only the cultural and 
 
 Maps, atlases and globes are often used metaphorically to represent power (real or imagined) and domination over territories. For instance, Queen Elizabeth I has been depicted in a portrait standing on the map of the British Isles,[^6] and in other paintings with her hand poised over a globe. In ancient China,the handing over of maps by the defeated state was a sign of submission to the victor,[^7] and 17th-century Mughal emperor, Jahangir, was depicted in portraits as standing atop a terrestrial globe.[^8] 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Jahangir_reformat.jpg">
+Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. <i>The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©</i>
+</div>
 
-<img  src="/images/vol-10-issue-4/geo-geographic/Jahangir_reformat.jpg">
-<div style="background-color: white;">Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. <i>The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg">
+This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves. <i>National Library of Singapore Collection.</i>
+</div>
 	
 Maps have a special significance in Singapore. Given the dearth of historical material on Singapore before the arrival of Stamford Raffles in 1819, pre-19th-century maps depicting the island act as important visual records of our early origins. The National Library's latest exhibition, "Land of Gold and Spices: Early Maps of Southeast Asia and Singapore", provides visitors with the unique opportunity to view these rare early maps. This exhibition is part of a larger festival of maps and mapping called "GeolGraphic: Celebrating Maps and Their Stories".
 
 "GeolGraphic", which is a curated combination of exhibitions and programmes, explores the diverse world of maps and showcases the collections of the National Library (NL) and the National Archives of Singapore (NAS), as well as mapping-related artworks by four Singapore artists. [^9]
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/19th_century_chart.jpg)
-<div style="background-color: white;">This 19th-century chart with place names written in Bugis script is a rare example of an extant map of the region drawn by an unnamed Southeast Asian cartographer. Some early maps of the region drawn by Europeans are believed to have been based on indigenous maps and sources. In turn, indigenous cartographic traditions were also influenced by European maps of the time. This nautical chart, believed to a pirate's map, shows heavy borrowings from Dutch maps. <i>Courtesy of Univeristy of Utrecht Library.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/19th_century_chart.jpg">
+This 19th-century chart with place names written in Bugis script is a rare example of an extant map of the region drawn by an unnamed Southeast Asian cartographer. Some early maps of the region drawn by Europeans are believed to have been based on indigenous maps and sources. In turn, indigenous cartographic traditions were also influenced by European maps of the time. This nautical chart, believed to a pirate's map, shows heavy borrowings from Dutch maps. <i>Courtesy of Univeristy of Utrecht Library.</i>
+</div>
 
 
 #### **Land of Gold and Spices: Early Maps of Southeast Asia and Singapore**
@@ -40,8 +53,6 @@ A highlight of the exhibition are several pre-1800 maps that contain names such 
 
 <img  src="/images/vol-10-issue-4/geo-geographic/UBLCKA_COLLBN_res.jpg">
 <div style="background-color: white;">On this hand-drawn and coloured 1725 Dutch map depicting the southern part of the Malay Peninsula and the Riau archipelago, Singapore is marked as Oud Straat Sincapura (Old Strait of Singapore). The Old Strait of Singapore is the name of the maritime channel between Sentosa and Telok Blangah. <i>Courtesy of Leiden University Library, 006-14-012.</i></div>
-
-<br>
 
 <img   src="/images/vol-10-issue-4/geo-geographic/dutch.jpg">
 <div style="background-color: white;">The Dutch merchant/traveller and historian, Jan Huygen van Linschoten (1563–1611) is credited with writing a book on the navigational routes to the elusive East Indies (referring generally to India and Southeast Asia). The Portuguese, who at that time controlled the lucrative spice trade to Europe, kept such information secret. Sailing directions and accurate maps from Linschoten's book <i>Itinerario</i> (first published in 1596), later paved the way for the Dutch and British to venture to the region. This cropped detail of a larger map from the English edition of the <i>Itinerario</i>, published in 1598, shows "Sincapura" at the tip of the Malay Peninsula. Interestingly, Linschoten's map is oriented with the east at the top, with the entire region positioned on its side. <i>National Library of Singapore Collection</i>.</div>
@@ -54,35 +65,55 @@ On display are maps that depict Singapore's farmland and soil composition; stori
 	
 A special Geographic Information System (GIS) developed with the Urban Redevelopment Authority enables visitors to overlay maps from the mid-19th century over a contemporary map of Singapore to see how our landscape has radically changed over the years. Another highlight are three maps drafted by the British army during the Malayan campaign and the Battle for Singapore, which detail the movement and disposition of British and Japanese troops in Northern Malaya. This display, comprising rare maps on loan from the National Archives of the United Kingdom, commemorates the 70th anniversary of the end of World War II in 2015.
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/1977_map.jpg)
-<div style="background-color: white;">This 1977 map depicts the findings of the very first comprehensive soil survey of Singapore. It is still the only known officially commissioned soil map of Singapore to date. The island's central area is made of hard granite, indicated in pink. This natural feature has influenced much of the urban development on the island, with most of the construction work taking place outside this central zone made up of softer alluvium and sedimentary rocks. <i>Survey Department, National Archives of Singapore Collection.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/1977_map.jpg">
+This 1977 map depicts the findings of the very first comprehensive soil survey of Singapore. It is still the only known officially commissioned soil map of Singapore to date. The island's central area is made of hard granite, indicated in pink. This natural feature has influenced much of the urban development on the island, with most of the construction work taking place outside this central zone made up of softer alluvium and sedimentary rocks. <i>Survey Department, National Archives of Singapore Collection.</i>
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Island_of_Stories_Singapore_Maps.jpg)
-<div style="background-color: white;">This map, on display at “Island of Stories: Singapore Maps” organised by NAS, shows the positions of the British (in red) and Japanese military units (in blue) on 12 and 13 February 1942. The Battle for Singapore began on 8 February and after four days of intense fighting, Japanese forces broke through the initial British defences and captured the western half of the island, as depicted on the map. The British eventually surrendered on 15 February 1942. Courtesy of National Archives of the <i>United Kingdom; National Archives of Singapore Collection.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Island_of_Stories_Singapore_Maps.jpg">
+This map, on display at “Island of Stories: Singapore Maps” organised by NAS, shows the positions of the British (in red) and Japanese military units (in blue) on 12 and 13 February 1942. The Battle for Singapore began on 8 February and after four days of intense fighting, Japanese forces broke through the initial British defences and captured the western half of the island, as depicted on the map. The British eventually surrendered on 15 February 1942. Courtesy of National Archives of the <i>United Kingdom; National Archives of Singapore Collection.</i>
+</div>
+
 
 
 #### **Sea State 8 Seabook: An Art Project By Charles Lim**
 	
 <i>seabook</i> was conceived by artist Charles Lim as a site for the agglomeration of archival material, anecdotes and memories that explores Singapore's relationship with the sea. Lim, who is Singapore's 2015 representative to the Venice Biennale, has a close relationship with the sea as he is a former national sailor and represented Singapore in the 1996 Olympics. 
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Charles_Lim_work.jpg)
-<div style="background-color: white;">Artist Charles Lim’s work, <i>Sea Safe</i> (2014), in progress.</div>
-
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Charles_Lim_work.jpg">
+Artist Charles Lim’s work, <i>Sea Safe</i> (2014), in progress.
+</div>
 	
 This particular project is an extension of Lim's previous solo-exhibition, "In Search of Raffles' Light", held in 2013 at the National University of Singapore (NUS) Museum. Both these projects are part of Lim's body of work known as the SEA STATE series, which was first initiated in 2008 and continues with his exploration of Singapore's maritime ecology. Developed together with the librarians at NL, <i>seabook</i> highlights the vast amount of information and data gathered from maps, charts and newspaper clippings, as well as scholarly material grappling with the complex relationship between Singapore and the sea – from colonial times to the present day. The stories encompass the mundane – such as fishing as a livelihood, the everyday lives of island communities, regulations on the use of the sea for leisure and other purposes, as well as sea-related tragedies, including an attack on a girl by a swordfish in 1961. The exhibition, jointly organised by NUS Museum and NL, highlights the troubled relationship Singapore has with its seas and its continued undercurrents in our lives.
 	
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Charles_Lim_with_Janice_Loo.jpg)
-<div style="background-color: white;">Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.</div>
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg)
-<div style="background-color: white;">Close-up of Michael Lee’s <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.</div>
-
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg)
-<div style="background-color: white;">A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers</i> (2014–2015).</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Charles_Lim_with_Janice_Loo.jpg">
+Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.
+</div>
 	
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">
+Close-up of Michael Lee’s <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.
+</div>
 
-![Alt text for image on Isomer site](/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg)
-<div style="background-color: white;">Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.</div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg">
+A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers</i> (2014–2015).
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg">
+Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.
+</div>
 
 	
 #### **Mind the Gap: Mapping the Other** 
@@ -111,7 +142,7 @@ Sherman Ong is a filmmaker, photographer and visual artist whose practice centre
 <img src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
 </div>
 
-<img src="/images/vol-10-issue-4/geo-geographic/tan.jpg" style="width: 200px; height: 120px; margin-bottom:-30px; padding-top:20px;" />
+<img src="/images/vol-10-issue-4/geo-geographic/tan_re.jpg" style="width: 150px; height:110px; margin-bottom:-30px; padding-top:20px;" />
 <p style="font-size:15px;"><b>Tan Huism</b> is Head of Exhibitions and Curation at the National Library of Singapore. She started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</p>
 
 

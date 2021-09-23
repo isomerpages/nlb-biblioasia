@@ -125,7 +125,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 	<b>Sri Asrina Tanuri</b> is a researcher at the National Library, Singapore. She provides information services to government agencies on security, workplace safety and health as well as ageing issues.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

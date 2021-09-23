@@ -61,7 +61,7 @@ St Paul’s Church, which opened in June 1944, was constructed inside Changi Gao
 	<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the Rare Materials Collection, and her research areas are in colonial administration and Singapore’s publishing history.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
 
 #### **References**
 

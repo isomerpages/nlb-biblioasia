@@ -6,6 +6,12 @@ layout: post
 ---
 #### Singapore Through the Western Lens Western filmmakers have always had a fascination for Singapore. **Ben Slater** tells you why.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg">
+<i>Singapore</i> (1947) is a romance set in Singapore but shot in a Hollywood studio. © Singapore. <i>Directed by John Brahm, produced by Jeremy Bresler, distributed by Universal Studios. United States, 1947.</i>
+</div>
+
 While Singapore’s own film industry has thrived and collapsed and then risen again, the history of foreign film production, particularly that of filmmakers from Europe and America making movies in and about the island is a long and fascinating one. This history is a reflection of the way Singapore has transformed over the last 50 years as well as changing perceptions of Singapore in the West.
 
 #### **The First Films** 
@@ -30,14 +36,18 @@ This was followed by another Italian spy-flick, <i>Goldsnake: Anonima Killers</i
 
 In late 1969, a Hong Kong-based American photographer and newsreel cameraman, Marvin Farkas, raised just enough money to make a spy thriller in Singapore. The premise for the film came from two Singapore-based war correspondents, Keith Lorenz and Ian Ward, who had aspirations to write a movie that captured an explosive moment in Southeast Asia (Vietnam and Indonesia were blowing up – literally; President Suharto had just come into power in Indonesia, and Vietnam was in the thick of a bloody war between the north and south). After some false starts, the inexperienced Farkas hired New Yorker Joel Reed to rewrite and helm his picture. Due to desperation, a fast-depleting budget and sheer expediency, the film, entitled <i>Wit’s End</i>, became a laughable excuse for brawls, car chases, terrible acting, gratuitous nudity and overblown homophobia. After more or less disappearing upon completion, it was (nonsensically) retitled <i>G.I. Executioner</i> in the 1980s. Incredibly, the film had the support of Singapore’s Cathay-Keris Films and the Ministry of Culture, an indicator of how keen Singapore was to court foreign films.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg)
-<div style="background-color: white;"><i>Singapore</i> (1947) is a romance set in Singapore but shot in a Hollywood studio. © Singapore. <i>Directed by John Brahm, produced by Jeremy Bresler, distributed by Universal Studios. United States, 1947.</i></div>
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/spiesvirginspimps/the_blonde_from_singapore_movie_poster_re.jpg)
-<div style="background-color: white;"><i>The Blonde from Singapore</i> (1941) is an adventure romance filmed in Hollywood. © The Blonde from Singapore. <i>Directed by Eward Dmytryk, produced by Jack Fier, distributed by Columbia Pictures. United States, 1941.</i></div>
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/spiesvirginspimps/so_darling_so_dead_re.jpg)
-<div style="background-color: white;"><i>So Darling So Deadly</i> (1966) is an American spy movie that was filmed on location in Singapore. © So Darling So Deadly. <i>Directed by Gianfranco Parolini, produced by Hans Pflügler. United States, 1966.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/spiesvirginspimps/the_blonde_from_singapore_movie_poster_re.jpg">
+<i>The Blonde from Singapore</i> (1941) is an adventure romance filmed in Hollywood. © The Blonde from Singapore. <i>Directed by Eward Dmytryk, produced by Jack Fier, distributed by Columbia Pictures. United States, 1941.</i>
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/spiesvirginspimps/so_darling_so_dead_re.jpg">
+<i>So Darling So Deadly</i> (1966) is an American spy movie that was filmed on location in Singapore. © So Darling So Deadly. <i>Directed by Gianfranco Parolini, produced by Hans Pflügler. United States, 1966.</i>
+</div>
 
 #### **The “Hollywood” Years** 
 	
@@ -51,8 +61,12 @@ The next American film due to be shot in Singapore was meant to be the biggest y
 
 In 1978 it looked as if things would change. Singapore was all abuzz over the arrival of the stars and production crew of <i>Hawaii 5-0</i>, one of the biggest TV shows in the world, to shoot two episodes in town. Simultaneously, journalists reported that Hollywood <i>wunderkind</i> director Peter Bogdanovich was also in town scouting locations for a film called <i>Jack of Hearts</i>. In actual fact Bogdanovich was already in the process of surreptitiously shooting what would turn out to be the infamous <i>Saint Jack</i>. The subsequent story of how, according to the press, Bogdanovich had “cheated” Singapore in order to make his less-than-flattering portrayal of the republic, overshadowed the merits of the film (see text box). <i>Saint Jack</i> (1978) would be banned in Singapore for nearly 30 years, and almost certainly made the powers-that-be cautious about granting permission to foreign films crews.
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/spiesvirginspimps/SaintJack1sh_re.jpg)
-<div style="background-color: white;"><i>Saint Jack</i> was a controversial movie filmed on location in Singapore and banned for nearly 30 years. © Saint Jack. <i>Directed by Peter Bogdanovich, produced by Hugh M. Hefner and Edward L. Rissien, distributed by New World Pictures. United States, 1978.</i></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/spiesvirginspimps/SaintJack1sh_re.jpg">
+<i>Saint Jack</i> was a controversial movie filmed on location in Singapore and banned for nearly 30 years. © Saint Jack. <i>Directed by Peter Bogdanovich, produced by Hugh M. Hefner and Edward L. Rissien, distributed by New World Pictures. United States, 1978.</i>
+</div>
+
 
 #### **Transformative Times** 
 During the 1980s, Singapore's popularity as a film location declined. The old cinematic city, with steamy jungles, crumbling mansions, derelict shophouses and bustling streetlife, was now dominated by brand new skyscrapers, high-rise housing blocks and cleaned-up streets. In achieving Westernstyle modernity, Singapore had lost some of the charms and exotica that originally drew Western film companies to its shores. 
@@ -66,8 +80,11 @@ More recently, London-based Irish directors Joe Lawlor and Christine Molloy made
 #### **Hollywood’s Return** 
 In 2014, two high-profile films were shot partially in Singapore and are due for release in 2015: <i>Hitman: Agent 47</i>, a second attempt to adapt the action videogame franchise to film, features Singapore as a backdrop to some kinetic mayhem, while <i>Equals</i>, a sci-fi thriller starring Nicholas Hoult and Kristen Stewart, was shot on location in both Singapore and Japan. As the <i>Agent 47</i> trailer and poster make abundantly clear, Singapore is now sought after for its ultra-futuristic cityscapes. Interestingly, the famously prolific producer Roger Corman, who visited the <i>Saint Jack</i> set in 1978, had casually mentioned to one of the local crew that Singapore would be a perfect place to make a science fiction film. It seems, over 30 years later, that he was right. 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/spiesvirginspimps/HA47_1Sheet_re.jpg)
-<div style="background-color: white; padding-bottom:10px;">The soon-to-be released Hitman: Agent 47 was partly filmed on location in Singapore. © Hitman: Agent 47. Directed by Alek Sander Bach, produced by Adrian Askarieh, Alex Young and Charles Gordon, distributed by 20th Century Fox. United States and Germany, 2015.</div>
+<div style="background-color: white; padding-bottom:20px;">
+<br/>
+<img src="/images/vol-11-issue-1/spiesvirginspimps/HA47_1Sheet_re.jpg">
+The soon-to-be released Hitman: Agent 47 was partly filmed on location in Singapore. © Hitman: Agent 47. Directed by Alek Sander Bach, produced by Adrian Askarieh, Alex Young and Charles Gordon, distributed by 20th Century Fox. United States and Germany, 2015.
+</div>
 
 |**Saint Jack: A New Take on Singapore**|
 

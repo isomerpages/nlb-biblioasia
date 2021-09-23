@@ -117,7 +117,7 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/Sueann.png">
 	<b>Sue-Ann Chia </b>is a journalist with over 15 years experience covering politics and current affairs at various newspapers, including <i>The Straits Times</i> and <i>Today</i>. She is currently the Associate Director at the Asia Journalism Fellowship and a Director at The Nutgraf, a boutique writing and media consultancy.</div>
 
-<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
 #### **Notes**
 

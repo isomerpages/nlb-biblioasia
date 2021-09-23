@@ -145,7 +145,7 @@ The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/Bonny.png">
 	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i> magazine.</div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
 #### **Notes**
 

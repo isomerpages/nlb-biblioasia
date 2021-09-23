@@ -108,7 +108,7 @@ The Royal Society of St George was founded in 1894 with the aim of promoting “
 	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
 </div>
 
-<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-4/jan-mar-2017/"><center>Back to Issue</center></a>
 
 #### **Notes**
 
