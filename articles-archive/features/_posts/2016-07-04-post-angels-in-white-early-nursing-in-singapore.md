@@ -16,7 +16,7 @@ Since 1 August 2000, exemplary nurses have received the President’s Award for 
 
 When Stamford Raffles arrived in Singapore in January 1819, a skeletal medical team accompanied his troops. This all-male detachment consisted of military doctors, apothecaries (equivalent to modern-day pharmacists), orderlies as well as dressers (who specialised in wound dressing and bandaging).
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/angels-in-white/01-angelsinwhite.jpg">A male attendant in a ward of the old Tan Tock Seng Hospital. As the first professionally trained nurses did not arrive in Singapore till 1900, male attendants took care of patients. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-2/angels-in-white/01-angelsinwhite.jpg">A male attendant in a ward of the old Tan Tock Seng Hospital. As the first professionally trained nurses did not arrive in Singapore till 1900, male attendants took care of patients. <i>Courtesy of National Archives of Singapore.</i></div>
 
 In the same year, a wooden shed was erected near the junction of Bras Basah Road and Stamford Road to treat as well as house sick soldiers. This rudimentary shed, which was rebuilt in 1821, served as a general hospital staffed by army surgeons and is regarded today as the predecessor of the Singapore General Hospital.[^2]
 
