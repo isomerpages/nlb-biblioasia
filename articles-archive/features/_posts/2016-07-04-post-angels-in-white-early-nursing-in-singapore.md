@@ -60,7 +60,7 @@ Maternal and child health was not a major concern of the colonial government in 
 
 In 1908, the infant mortality rate was 347.8 per one thousand live births, with almost 60 percent of deaths occurring during the first three months of birth. To give a sense of how far we have come, Singapore’s infant mortality rate in 2015 was 1.7 per one thousand live births.
 
-With rising concerns over the high infant mortality rate, Miss J. E. Blundell from England was appointed as Municipal Nurse8 early life conditions of infants. The findings confirmed that poor infant feeding was the main contributor to infant mortality. Miss Blundell was subsequently asked to instruct local mothers on the proper care of their infants and young children. Her findings led to the start of a regular midwifery course for local women in 1910, with proper instruction and licensing of midwives. That year marked the beginning of the Maternal and Child Health Service in Singapore.
+With rising concerns over the high infant mortality rate, Miss J. E. Blundell from England was appointed as Municipal Nurse[^8] early life conditions of infants. The findings confirmed that poor infant feeding was the main contributor to infant mortality. Miss Blundell was subsequently asked to instruct local mothers on the proper care of their infants and young children. Her findings led to the start of a regular midwifery course for local women in 1910, with proper instruction and licensing of midwives. That year marked the beginning of the Maternal and Child Health Service in Singapore.
 
 |**SINGLETON NURSES OF THE 1920S**|
 
@@ -76,7 +76,7 @@ With rising concerns over the high infant mortality rate, Miss J. E. Blundell fr
 
 One of the earliest records of a healthcare outreach programme in Singapore was in 1911 when infant welfare nurses made house visits to inspect the living conditions of infants and to advise young mothers. The results were significant: Singapore’s infant mortality rate fell to 267 per one thousand live births in 1912. In 1915, the Midwives Ordinance was passed to recognise certified midwives and require their compulsory registration in the Straits Settlements by the Central Midwives Board.
 
-When World War I broke out in July 1914, many British nurses volunteered for service in the Armed Forces in England, including Miss M. J. McNair, then the Head Nurse9 of the General Hospital at Sepoy Lines. While all this was perfectly laudable of course, it put a severe strain on the existing nursing staff in Singapore, and it became extremely difficult to find replacements for nurses who left the country.
+When World War I broke out in July 1914, many British nurses volunteered for service in the Armed Forces in England, including Miss M. J. McNair, then the Head Nurse[^9] of the General Hospital at Sepoy Lines. While all this was perfectly laudable of course, it put a severe strain on the existing nursing staff in Singapore, and it became extremely difficult to find replacements for nurses who left the country.
 
 The shortage of qualified nurses had been a perennial problem since the concept of healthcare first emerged in Singapore. Although there had been attempts at providing some form of training for local nurses in hospitals since the 1880s, it was rather haphazard; the training was mostly unstructured and whatever nurses learnt was very much on-the-job. It was only in 1916, when St Andrew’s Mission Hospital started a General Nurse Training course for local girls – adopting the established British curriculum for training and education – did coaching in Singapore take on a more formal and organised approach.
 
@@ -105,7 +105,7 @@ The early 1950s saw recruitment efforts being ramped up, with better prospects, 
 <div style="background-color: white;"><img src="/images/Vol-12-issue-2/angels-in-white/06-angelsinwhite.jpg">(Left) Children receiving medical treatment from a mobile dispensary in 1951. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 <div style="background-color: white;">(Right) Nurses visiting a village in 1957 to carry out an inoculation exercise. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-On 1 March 1951, the Assistant Nurse Training course was started at Tan Tock Seng Hospital to provide a bigger pool of trained nursing professionals. The course offered a path towards a career in nursing for girls without the required level of education and admitted students with Standard VII10 qualifications.
+On 1 March 1951, the Assistant Nurse Training course was started at Tan Tock Seng Hospital to provide a bigger pool of trained nursing professionals. The course offered a path towards a career in nursing for girls without the required level of education and admitted students with Standard VII[^10] qualifications.
 
 The new School of Nursing, managed by the Singapore General Hospital, opened at Sepoy Lines in 1956. With an increase in the number of nurses, it became necessary to both document and implement proper nursing procedures. Towards this end, a Nursing Education Committee was set up in 1958 to oversee and regulate the various nursing training programmes. In 1959, the first Handbook on Nursing Procedures was published.
 
@@ -139,27 +139,27 @@ Unlike most other countries, which celebrate Nurses Day on 12 May, the birthday 
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **References**
+#### **REFERENCES**
 
-Edwards, N., & Keys, P. (1988). Singapore: A guide to buildings, streets & places (pp. 340–341). Singapore: Times Books International. (Call no.: RSING 959.57 EDW)
+Edwards, N., & Keys, P. (1988). *[Singapore: A guide to buildings, streets & places](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4712298)* (pp. 340–341). Singapore: Times Books International. (Call no.: RSING 959.57 EDW)
 
-Fildes, V., Marks, L., & Marland, H. (Eds.). (1992). Women and children first: International maternal and infant welfare, 1870–1945. London: Routledge. (Not available in NLB holdings)
+Fildes, V., Marks, L., & Marland, H. (Eds.). (1992). *Women and children first: International maternal and infant welfare, 1870–1945*. London: Routledge. (Not available in NLB holdings)
 
-Government of Singapore. (2016, May 26). Latest data. Retrieved from Singapore Department of Statistics website.
+Government of Singapore. (2016, May 26). *Latest data*. Retrieved from Singapore Department of Statistics website.
 
-Gwee, M.B., & Ang, R. (1991). Trends in nursing education in Singapore. The professional nurse: A Quarterly Publication of the Singapore Trained Nurses’ Association, 18 (3), p. 17.
+Gwee, M.B., & Ang, R. (1991). Trends in nursing education in Singapore. *T[he professional nurse: A Quarterly Publication of the Singapore Trained Nurses’ Association](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396380), 18* (3), p. 17.
 
-Lee, C.E., & Satku, K. (Eds.). (2016). Singapore’s health care system: What 50 years have achieved (p. 169). Singapore: World Scientific. (Call no.: RSING 362.1095957 SIN)
+Lee, C.E., & Satku, K. (Eds.). (2016). *[Singapore’s health care system: What 50 years have achieved](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202254181)* (p. 169). Singapore: World Scientific. (Call no.: RSING 362.1095957 SIN)
 
-Lee, Y.K. (1985 February). The origins of nursing in Singapore. Singapore Medical Journal, 26 (1), 53–60. Retrieved from Singapore Medical Association website.
+Lee, Y.K. (1985 February). The origins of nursing in Singapore. *Singapore Medical Journal, 26* (1), 53–60. Retrieved from Singapore Medical Association website.
 
-Lee, Y.K. (2005, November). Nursing and the beginnings of specialised nursing in early Singapore. Singapore Medical Journal, 46 (11), 600–609. Retrieved from Singapore Medical Association website.
+Lee, Y.K. (2005, November). Nursing and the beginnings of specialised nursing in early Singapore. *Singapore Medical Journal, 46* (11), 600–609. Retrieved from Singapore Medical Association website.
 
-Legislative Council. (1884, December 6). Straits Times Weekly, p. 1. Retrieved from NewspaperSG.
+[Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18841206-1.2.59.2.aspx). (1884, December 6). *Straits Times Weekly*, p. 1. Retrieved from NewspaperSG.
 
-Lim, M. (1966). The maternal and child health services in Singapore. Journal of the Singapore Paediatric Society, 8 (1), 29–41.
+Lim, M. (1966). The maternal and child health services in Singapore. *[Journal of the Singapore Paediatric Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982708), 8* (1), 29–41.
 
-Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). One hundred years of Singapore. Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 
 [Medical report for 1883](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18840412-1.2.5.17.aspx). (1884, April 12). *Straits Times Weekly*, p. 5. Retrieved from NewspaperSG.
 
