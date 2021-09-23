@@ -13,10 +13,6 @@ Wong Fook Kwang, who went by several aliases, including Tit Fung (literally “I
 
 Sometime in April 1951, Wong received a terse message from the MCP’s South Malayan Bureau’s jungle headquarters in Johor, Malaya.[^2] The order was clear: Lim Teck Kin, a 62-year-old “rich but kind and highly respected towkay” and pineapple magnate, must die.[^3] Lim was marked for assassination because he was, in the eyes of the communists, a “reactionary capitalist” employing hundreds of workers. He was therefore deemed as “an oppressor of the masses”.[^4]
 
-<img style="width: 330px; height: 440px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron2.JPG">
-<div style="background-color: white;">A mug shot profile of Wong Fook Kwang at the time of his first arrest on 11 June 1952. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (n.p.). Singapore: Heinemann Educational Books (Asia) Ltd.
-(Call no.: RSING 335.43095957 CLA)</i></div>
-
 To carry out the killing, Wong ordered his henchman Yang Ah Lee[^5] to keep Lim under close surveillance for a week. Once the two men had established Lim’s daily routine, they put their plan into action.
 
 Shortly after 8 am on 21 May 1951, two masked assailants intercepted Lim’s chauffeur-driven car just as it was about to leave the driveway of his house and turn onto East Coast Road. The Malay chauffeur Sairi was held at gun-point by one of the assailants, while the other fired two shots at his employer in quick succession. The deed done, the assailants walked away calmly to a waiting taxi driven by a fellow communist.
@@ -73,6 +69,10 @@ At the height of the chase, a young Englishman happened to be driving along Roch
 Wong’s name did not show up on the wanted list because the police were blissfully unaware of his identity as the commander of the MCP’s assassination wing in Singapore. As author Peter Claque put it, “The police lieutenant was like a man who shoots at a noise in the jungle hoping to kill a pigeon and discovers that he has shot a tiger”.[^17] In the meantime, the other two men who had been with Wong had already made their escape by the time the policemen returned to the coffee shop.
 
 Wong was taken to Beach Road Police Station where Special Branch officers were waiting to question him and examine the newspaper cuttings. True to his nature, Wong remained silent[^18] when he was interrogated by Special Branch officer, Superintendent John Fairbairn.[^19] A police search of the house located at the address listed in Wong’s identity card unearthed a cache of communist literature and documents, evidence which proved that Wong “had important communist connections and was a leader of some kind”.[^20]
+
+<img style="width: 330px; height: 440px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron2.JPG">
+<div style="background-color: white;">A mug shot profile of Wong Fook Kwang at the time of his first arrest on 11 June 1952. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (n.p.). Singapore: Heinemann Educational Books (Asia) Ltd.
+(Call no.: RSING 335.43095957 CLA).</i></div>
 
 On 27 June 1952, Wong was ordered to be detained under the Emergency Regulations[^21] for two years. Shortly after his arrest, Wong was visited by an elderly Chinese lady who claimed to be his mother.[^22] She said that Wong was her only son, and appealed to the authorities for his release but to no avail. The Special Branch came down hard on anyone deemed to have communist connections.
 
