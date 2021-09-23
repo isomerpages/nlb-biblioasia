@@ -8,14 +8,22 @@ permalink: /editors-picks/art
 -------------------------
 
 #### [Chinese Graphic Artists in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists)
-<img src="/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg"  style="float:left; width:500px; border:10px solid #FFFFFF">   Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works.
+<img src="/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg"  style="float:left; width:500px; border:10px solid #FFFFFF">  Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works.
 
 
+
+-------------------------------- 
 
 
 #### [A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/malayan-fruits)
-<img src="/images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg style="float:left; width:500px; border:10px solid #FFFFFF">
-Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery.
 
+<img src="/images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg" style="float:left; width:500px; border:10px solid #FFFFFF">Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery.
 
+-----------------------------------------
 
+#### [Malay Seals from Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals)
+<img src="/images/Vol-16-issue-1/malay-seals/temenggung.png” style="float:left; width:500px; border:10px solid #FFFFFF">Malay seals of the 19th century hold important information, says Annabel Teh Gallop.
+
+#### [Stamford Raffles and the Two French Naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles)
+																																																											 
+<img src= "/images/Vol-16-issue-2/raffles/storkk.jpg” style="float:left; width:500px; border:10px solid #FFFFFF"> Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
