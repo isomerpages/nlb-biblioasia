@@ -6,7 +6,7 @@ layout: post
 ---
 #### This useful index serves as the gateway to Singapore-related articles published in periodicals. **Leong Hui Chuan** and **Chris Tang** explain its value.
 
-
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/index-to-singapore-information/01-indextosingapore.jpg"></div>
 
 Have you ever had difficulty trying to recall an article you read in a magazine or journal but simply cannot remember the title of the article, or worse the name of publication? Fret not because with the National Library Board’s (NLB) new Index to Singapore Information (ISI), you can now search for articles about Singapore using selected keywords.
 
@@ -32,15 +32,17 @@ ISI has its roots in an indexing service called the Singapore Periodicals Index 
 
 Moving forward, there are plans in the pipeline to enhance ISI as a Singapore resource database by including the index records of book chapters about Singapore. One of the biggest limitations in growing ISI as a service is that it does not provide full-text access to the articles. Indexing may seem archaic in the Google era, but there are distinct advantages: ISI uses English keywords and subject terms to index non-English articles, thereby extending their reach to a wider global audience. NLB is confident that ISI can continue to serve as a conduit between Singapore content and information seekers, and remain relevant in the years ahead.
 
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/index-to-singapore-information/02-indextosingapore.jpg"></div>
+
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/huichuan.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/index-to-singapore-information/huichuan.png">
 	<b>Leong Hui Chuan</b> is an Associate Librarian at the National Library, Singapore. Her responsibilities include the digitisation of library materials, digital content management as well as oversight of the Index to Singapore Information service.
 </div>
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-4/party-time-with-raffles/chris.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/index-to-singapore-information/chris.png">
 	<b>Chris Tang</b> is a Manager at the National Library, Singapore, where he oversees digitisation and digital content management. Chris was previously involved in business reference service as well as the management of the policies and operations of the National Library’s donor collections.
 </div>
 
