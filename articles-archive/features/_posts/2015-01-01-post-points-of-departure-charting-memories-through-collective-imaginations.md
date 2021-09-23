@@ -66,7 +66,7 @@ Through this collaboration, we hope to create a meaningful connection with and b
 
 <p style="font-size:15px;"><b>Juria Toramae</b> is a Singapore-based artist and engineer. Her photographic series “Temporality” debuted at Noise Singapore's The Apprenticeship Programme exhibition in 2013. She is an irememberSG fund recipient for her collaborative project titled “Points of Departure”.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 Boey, K.C. (2009). *[Between stations: Essays](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13230282)*. Australia: Giramondo. (Call no.: RSING S821 BOE).
