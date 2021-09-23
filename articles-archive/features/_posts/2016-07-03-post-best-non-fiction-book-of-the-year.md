@@ -24,7 +24,7 @@ Prominent architect Tay Kheng Soon describes *Through the Lens of Lee Kip Lin* a
 
 |Lee Kip Lin (1925–2011) was an architectural historian, educator and professional architect. After graduating from University College of London’s Bartlett School of Architecture in 1955, he returned to Singapore to practise, and later, teach architecture at the Singapore Polytechnic from 1961, and at the University of Singapore from 1969. As a member of the Preservation of Monuments Board, he advocated many efforts to conserve buildings and historic districts in Singapore. Lee also wrote several books on architectural and urban heritage in his lifetime, among them the seminal work *The Singapore House* (1988, reprinted 2015).|
 
-|<img style="width:400px" src="/images/Vol-12-issue-2/best-non-fiction-book/05-nonfictionbook.jpg">Mr Lee Kip Lin, circa 1970s. From the Lee Kip Lin Collection. <i>All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>|
+|<img style="width:400px" src="/images/Vol-12-issue-2/best-non-fiction-book/05-nonfictionbook.jpg">Mr Lee Kip Lin, circa 1970s. From the Lee Kip Lin Collection. <i>All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>|
 
 Through the *Lens of Lee Kip Lin: Photographs of Singapore 1965-1995* (hardcover, 208 pp) is published by National Library Board and Editions Didier Millet and retails at $42. Lee’s other seminal book *The Singapore House: 1819-1942* (hardcover, 232 pp), reprinted in 2015 by National Library Board and Marshall Cavendish Editions, is priced at $46.70. Both books are on sale at major bookshops and online retailers such as Amazon and Book Depository. All prices quoted exclude GST.
 
