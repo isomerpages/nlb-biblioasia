@@ -84,7 +84,7 @@ The author would like to thank Mr Leong Foke Meng and Mr Akira Doi for reviewing
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **References**
+#### **REFERENCES**
 
 Akira, D. (2007). *Pioneers of Japanese bible translation: The application of the dynamic equivalent method in Japan* [Masters of Arts in Japanese thesis, Massey University, New Zealand]. Retrieved from Massey Research website.
 
@@ -114,7 +114,7 @@ Plummer, K. (1991). *The shogun’s reluctant ambassadors: Japanese sea drifters
 
 Tei, A.G., & Igarashi, Y. (2010). *True life adventures of Otokichi(1817–1867)* . Retrieved from JM Ottoson website.
 
-#### **Notes**
+#### **NOTES**
 
 [^1]:The shogunate was officially established in Edo on 24 March 1603 by Tokugawa Ieyasu. The Edo period came to an end with the Meiji Restoration on 3 May 1868.
 
