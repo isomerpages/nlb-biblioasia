@@ -97,7 +97,7 @@ If lead or mercury vessels were found, this could be evidence of local gold work
 
 Another opportunity for the study of gold artefacts in Singapore is the octagonal gold cup from the Tang dynasty shipwreck discovered by fishermen near the island of Belitung, Indonesia, in 1998. (This was the wreck of an Arabian dhow that might have sunk around 830 CE on its return journey from China to Arabia.) The gold cup may have been made by Tang artisans in the style of Sogdian[^51] silverware from Central Asia from the mid-700s CE. Why the cup was in a ship in Southeast Asian waters is a mystery yet to be fully solved.[^52]
 
-#### **Further Research
+#### **Further Research**
 
 While some strides have been made in the study of gold in Southeast Asia, there are still some research gaps that need to be filled. Exploring the history of mining in the region can help with gold sourcing studies, for example. In addition, scholars have begun to collate historical, ethnographic and archaeological data on gold and present these as part of a geographic information system to analyse gold trade networks.[^53]
 
