@@ -7,7 +7,7 @@ layout: post
 #### **Ronnie Tan** and **Goh Yu Mei** recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
 
 <img style="width: 550px; height: 320px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG">
-<div style="background-color: white;">The gun that was used to kill Lim Teck Kin as well as in the attempted murder of a 14-year-old schoolboy. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 6). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
+<div style="background-color: white;">The gun that was used to kill Lim Teck Kin as well as in the attempted murder of a 14-year-old schoolboy. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 6). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA).</i></div>
 
 Wong Fook Kwang, who went by several aliases, including Tit Fung (literally “Iron Spearhead” in Cantonese)[^1] was the dreaded Commander of ‘E’ Branch, the assassination wing of the Malayan Communist Party (MCP). The MCP was most active during the Japanese Occupation years when it formed the Malayan People’s Anti-Japanese Army (MPAJA) to fight the enemy, and again in the aftermath of World War II, in the thick of the Malayan Emergency (1948–60), when it waged a guerilla war against the British in a bid to topple the colonial government and set up a communist regime.
 
