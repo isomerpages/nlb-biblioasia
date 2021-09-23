@@ -8,7 +8,7 @@ layout: post
 
 #### 国家图书馆许少全特藏包括了著 名商业巨甲余东旋文献。萧碧莹介绍了当中的一些亮点。 
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/eu-tong-sen/01-eutongsen.jpg">The Eu Yan Sang building along South Bridge Road houses the company’s headquarters. The first shop in Singapore on the ground floor of the building was opened by Eu Tong Sen in 1910. (位于桥南路的余仁生总部。设在一楼的新加坡首家店铺由余东旋于1910年开幕。) <i>All rights reserved, Sharp, I. (2009). Path of the Righteous Crane: The Life and Legacy of Eu Tong Sen. Singapore: Landmark Books Pte Ltd.</i></div>
+<div style="background-color: white;"><br><img style="width:450px" src="/images/Vol-12-issue-2/eu-tong-sen/01-eutongsen.jpg">The Eu Yan Sang building along South Bridge Road houses the company’s headquarters. The first shop in Singapore on the ground floor of the building was opened by Eu Tong Sen in 1910. (位于桥南路的余仁生总部。设在一楼的新加坡首家店铺由余东旋于1910年开幕。) <i>All rights reserved, Sharp, I. (2009). Path of the Righteous Crane: The Life and Legacy of Eu Tong Sen. Singapore: Landmark Books Pte Ltd.</i></div>
 
 Eu Yang Sang is a well-respected company that specialises in the manufacture and retail of traditional Chinese herbs and medicine. The company has an extensive network of outlets in Australia, China, Hong Kong, Macau, Malaysia and Singapore.[^1]
 
@@ -18,7 +18,7 @@ The first milestone was laid when Eu Kong opened the Yan Sang Medicine Shop (whi
 
 In 1898, a new chapter began when Eu Tong Sen inherited his father’s business, which by then included tin mining as well as remittance and postal services. Under his leadership, the Chinese medicine business was expanded and renamed Eu Yan Sang to capitalise on the family name.[^4]
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/eu-tong-sen/02-eutongsen.jpg">Eu Tong Sen in a portrait taken when he was in his 50s. (50余岁的余东旋肖像。) <i>All rights reserved, Sharp, I. (2009). Path of the Righteous Crane: The Life and Legacy of Eu Tong Sen. Singapore: Landmark Books Pte Ltd.</i></div>
+<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/02-eutongsen.jpg">Eu Tong Sen in a portrait taken when he was in his 50s. (50余岁的余东旋肖像。) <i>All rights reserved, Sharp, I. (2009). Path of the Righteous Crane: The Life and Legacy of Eu Tong Sen. Singapore: Landmark Books Pte Ltd.</i></div>
 
 Eu, who by then was known as the “King of Tin”, employed thousands of Chinese migrants in his tin mines, rubber estates, traditional medicine shops and property holdings.[^5] Many of his properties still stand in Singapore today and some have become landmarks, such as The Majestic[^6] (formerly Tien Yien Moi Toi, a venue for Cantonese opera) and the Yue Hwa Chinese Products building[^7] (formerly Nam Tin or Great Southern Hotel), both along Eu Tong Sen Street (see text box below). Eu’s remittance business – which also came under the Eu Yan Sang company – served the overseas Chinese communities in Singapore and Malaya. The company flourished, and by the end of 1920s, was recognised as one of the biggest remittance agencies in Southeast Asia.[^8]
 
