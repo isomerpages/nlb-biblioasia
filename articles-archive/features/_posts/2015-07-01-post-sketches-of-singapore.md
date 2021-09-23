@@ -30,7 +30,7 @@ The International Urban Sketchers Symposium that will take place in Singapore fr
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/National_Museum.jpg">
+<img src="/images/vol-11-issue-2/sketches/National_Museum_re.jpg">
 National Museum of Singapore, Stamford Road by Marvin Chew, artist.
 </div>
 
