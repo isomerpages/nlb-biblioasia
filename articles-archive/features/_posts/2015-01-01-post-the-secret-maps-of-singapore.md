@@ -125,7 +125,7 @@ A man making murtatuk in the Kampong Glam area in 1991. <i>Ministry of Informati
 
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Reference Librarian at the National Library of Singapore. Her interest in the obscure things about Singapore led her to re-examine two little known maps and found herself surprised by their contents.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 Blaisdell, A. (1990). <i>The secret map of Singapore.</i> Retrieved from Google site.
