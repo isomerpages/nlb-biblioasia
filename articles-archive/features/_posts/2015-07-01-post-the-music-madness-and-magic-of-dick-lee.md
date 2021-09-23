@@ -164,7 +164,7 @@ Ever the consummate performer and entertainer, Lee will not be resting on his la
 
 <p style="font-size:15px;"><b>Joy Loh</b> is a Performing Arts Librarian with the National Library of Singapore. Apart from managing the National Library’s digital music archive, MusicSG, she enjoys reading as well as learning new musical instruments and languages.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 
