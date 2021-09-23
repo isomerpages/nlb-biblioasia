@@ -88,7 +88,7 @@ Many of these attractions were conceived during Bernard Harrison’s term as exe
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/zoo/elephant.jpg">
+<img src="/images/vol-11-issue-2/zoo/elephant_re.jpg">
 A couple riding an elephant at the Singapore Zoological Gardens in the mid-1980s. Singapore Tourist Promotion Board Collection. <i>Courtesy of Singapore Tourist Promotion Board (STPB) Collection, National Archives of Singapore</i>.
 </div>
 
