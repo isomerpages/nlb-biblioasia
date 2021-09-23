@@ -9,7 +9,7 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/lifestories/nurse.jpg">
-A video still of Helena Maheson. Hers is one of the narratives that will be featured in the form of a video cli
+A video still of Helena Maheson. Hers is one of the narratives that will be featured in the form of a video clip.
 </div>
 
 Struggles and hardship are part of the human condition. On the other hand, triumph in the face of great adversity is much less commonplace, and is often remarkable – especially when the struggle towards success is hard won. Many films celebrate stories of people overcoming unrelenting hardship to achieve great things, often played out in the dramatisation of the protagonists’ suffering and their subsequent vindication. 
