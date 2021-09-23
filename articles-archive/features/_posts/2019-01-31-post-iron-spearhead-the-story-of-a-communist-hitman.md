@@ -112,7 +112,7 @@ Shortly after midnight on 9 July 1954, a police convoy travelled along Jurong Ro
 
 <img style="width: 580px; height: 350px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron8.JPG">
 <div style="background-color: white;">The attap-roofed shack in Pasir Laba, Jurong, where Wong Fook Kwang was hiding out while on the run until his recapture on 9 July 1954. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 135). Singapore: Heinemann Educational Books (Asia) Ltd.
-(Call no.: RSING 335.43095957 CLA)</i></div>
+(Call no.: RSING 335.43095957 CLA).</i></div>
 
 A thorough search was made of the surroundings to flush out the fugitive. This time Wong did not get very far: he was found lying face down in the *lallang*, hoping that the tall grass would shield him, when a policeman nearly stepped on him. Wong did not put up a struggle, and was handcuffed and brought before Fairbairn. In Wong’s makeshift dwelling, the police found the drugs he had been using to treat his tuberculosis as well as banned communist publications. He had apparently made a full recovery by the time he was caught.
 
