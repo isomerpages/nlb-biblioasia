@@ -6,6 +6,8 @@ layout: post
 ---
 #### This useful index serves as the gateway to Singapore-related articles published in periodicals. **Leong Hui Chuan** and **Chris Tang** explain its value.
 
+
+
 Have you ever had difficulty trying to recall an article you read in a magazine or journal but simply cannot remember the title of the article, or worse the name of publication? Fret not because with the National Library Board’s (NLB) new Index to Singapore Information (ISI), you can now search for articles about Singapore using selected keywords.
 
 ISI is a collection of index records describing articles on or related to Singapore – or written by Singaporeans – in periodicals published in Singapore and overseas. (Note: ISI does not provide full-text access to the articles.)
