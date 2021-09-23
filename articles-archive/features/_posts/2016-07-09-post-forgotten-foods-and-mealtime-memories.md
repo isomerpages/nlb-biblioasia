@@ -133,7 +133,7 @@ Former journalist <b>Sylvia Tan</b> has chalked up nine cookbooks to her name, i
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **Notes**
+#### **NOTES**
 
 [^1]:Wee, E. H. (2011). *[Cooking for the president. Reflections & recipes of Mrs Wee Kim Wee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14422131)*. Singapore: Wee Eng Hwa. Call no.: RSING 641,595957 WEE
 
