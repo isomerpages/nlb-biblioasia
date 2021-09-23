@@ -134,8 +134,10 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 <div style="background-color: white;">
 <br/>
-<img src="images/vol-17-issue-3/authors/Rebecca%20Tan--.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-3/authors/Rebecca%20Tan--.png" style="width: 100px; height: 100px;" />
 <b>Rebecca Tan</b> is an Associate Librarian with the National Library, Singapore. She is part of the digital heritage team and works on curating and promoting access to the library’s digital collections.</div>
+
+
 
 #### **NOTES**
 
