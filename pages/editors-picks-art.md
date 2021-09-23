@@ -22,7 +22,9 @@ permalink: /editors-picks/art
 -----------------------------------------
 
 #### [Malay Seals from Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals)
-<img src="/images/Vol-16-issue-1/malay-seals/temenggung.png” style="float:left; width:500px; border:10px solid #FFFFFF">Malay seals of the 19th century hold important information, says Annabel Teh Gallop.
+<img src="/images/Vol-16-issue-1/malay-seals/temenggung.png”  style="float:left; width:500px; border:10px solid #FFFFFF"> Malay seals of the 19th century hold important information, says Annabel Teh Gallop.
+																																																																																																																-------------------------
+				
 
 #### [Stamford Raffles and the Two French Naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles)
 																																																											 
