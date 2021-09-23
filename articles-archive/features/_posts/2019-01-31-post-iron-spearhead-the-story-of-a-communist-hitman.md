@@ -19,6 +19,9 @@ Shortly after 8 am on 21 May 1951, two masked assailants intercepted Lim’s cha
 
 After the assailants had fled, Sairi immediately reversed the car into the driveway and raised the alarm. While one of Lim’s daughters frantically called the police, another instructed Sairi to drive her wounded father to the hospital. Lim, however, succumbed to his injuries along the way. Before losing consciousness, Lim’s last words to his chauffeur were “Apa macam?”[^6] or “What’s happening?” in Malay.[^7]
 
+<img style="width: 500px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron3.JPG">
+<div style="background-color: white;">The car in which pineapple tycoon Lim Teck Kin was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 23). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA).</i></div>
+
 Apart from masterminding Lim’s killing, Wong also instigated the murder and attempted murder of several others, including a student and even one of his comrades. Unlike in Malaya where MCP fighters could conduct open warfare from their jungle hideouts, the communists here, given that “every approach to Singapore was well-guarded”, sought to overthrow British rule “by means of subversion and terror” in order “to bring about social and industrial disruption”.[^8]
 
 The methods employed to achieve this included intimidation, arson attacks and murder. Wong, as the Commander of ‘E’ Branch, was tasked to carry out the killings. It was clear that he was nicknamed “Iron Spearhead” because of his cold-hearted and steely nature.
@@ -36,9 +39,6 @@ The appointment obviously suited Wong to a T, for he was described as “a formi
 Upon receiving instructions from the MCP’s South Malayan Bureau’s headquarters to take out an unnamed 14-year-old male student – who was suspected to have provided leads to the police about an acid attack on a teacher – Wong took a personal interest in planning the murder. The heinous attack on the teacher was believed to have been carried out by his own pupils.[^12] Just as he had planned the earlier murder of Lim Teck Kin, Wong monitored the student’s movements and ambushed the teen while he was cycling home after a game.
 
 On 2 October 1951, the plan was put into action. With Wong watching expectantly from behind an inconspicuous doorway, two of his assailants, one of whom acted as a look-out, waited for the student to cycle past River Valley Road. However, unlike other days, this time the boy was not alone. He had met a friend earlier and decided to dismount his bicycle and walk with his friend along the pavement while pushing his bicycle.
-
-<img style="width: 500px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron3.JPG">
-<div style="background-color: white;">The car in which pineapple tycoon Lim Teck Kin was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 23). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
 
 At the junction of Teck Guan Road and River Valley Road, one of Wong’s accomplices suddenly emerged from his hiding place and took the boys by surprise. Pulling out his gun, he fired six shots at the intended victim at point blank. Miraculously, the bullets missed their target and the boy managed to make a run for it. Incredibly, there were no passers-by nor motorists to witness the attempted murder along the busy road, so even the police were not notified immediately. By the time the boy managed to compose himself and make a police report, a few hours had lapsed, by which time Wong and his accomplices had long made their getaway in a trishaw.
 
