@@ -159,7 +159,7 @@ The 1933 film <i>Samarang</i> (see text box overleaf), styled as a pseudo-docume
 
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. Her interest in the history of films was sparked after she uncovered little known facets of colonial life in early newspapers of Singapore. She would like to thank Nadi Tofighian for his help in reviewing this article.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 
