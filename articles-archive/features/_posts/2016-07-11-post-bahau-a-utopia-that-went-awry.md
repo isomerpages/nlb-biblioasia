@@ -136,7 +136,7 @@ I feel very privileged to have met so many survivors and have had access to so m
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **References**
+#### **REFERENCES**
 
 <u><b>Books</b></u>
 
