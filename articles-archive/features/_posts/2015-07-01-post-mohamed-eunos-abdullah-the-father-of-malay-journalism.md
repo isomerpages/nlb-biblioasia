@@ -80,7 +80,7 @@ Following his retirement in 1931 Eunos Abdullah suffered from poor health and pa
 Bungalow-type dwellings made of wood and zinc in Kampong Melayu. <i>All rights reserved, Singapore Ministry of Culture</i>. (1963). Democratic socialism in action, June 1959 to April 1963 (p. 21). <i>Singapore: Ministry of Culture</i>.
 </div>
 
-<div style="background-color: white;">
+<div style="background-color: white; padding-bottom:20px;">
 <br/>
 <img src="/images/vol-11-issue-2/malayjournalism/street_direction.jpg">
 1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. <i>All rights reserved, Singapore Survey Department</i>. (1950–75). Singapore street directory and sectional maps <i>(Map no. 60). Singapore: Survey Department</i>.
