@@ -127,7 +127,7 @@ In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40
 <img src="/images/vol-17-issue-3/authors/Profile%20-%20Zhuang%20Wubin.png" style="width: 100px; height: 100px;" />
 	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
 
-#### NOTES
+#### **NOTES**
 
 [^1]: [*Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980631) (Singapore: Malaya Borneo Exhibition, 1922), 5. (From National Library, Singapore, Call no. RRARE 607.34595 MAL; Microfilm nos. NL9852, NL27451)
 
