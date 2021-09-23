@@ -88,4 +88,4 @@ The Bedok Marketplace, Bedok Road by Tan Peng Koon, entrepreneur.
 KTM Railway Bridge, Upper Bukit Timah Road by Tan Chit Seng, freelance engineer.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
