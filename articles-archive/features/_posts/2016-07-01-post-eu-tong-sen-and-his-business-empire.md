@@ -111,3 +111,13 @@ Here are some highlights of the collection.
 |**以余东旋为名的街道**|
 
 |有关余东旋街得名有二说。最普遍的说法即是为纪念余东旋对社会所付出的贡献。根据另一种较引人入胜的说法则是位于已不存在的哇央街的戏院班主得罪了其八夫人，慎怒之下把整条街的地产买下并以自己姓名为街道改名。其中被收购的地产包括新加坡最早期的地方戏戏院庆维新和庆升平。两座戏院都上演粤剧，但庆升平除了广东戏曲外，同时也上演福建与京剧。1928年，余东旋委托英殖民地建筑公司双麦嘉仁在同一条街上兴建另一所戏院，即“天演大舞台”。庆维新和庆升平随着时代的变迁而被拆除，但“天演大舞台”则依然岂立至今。战后1945年改名为“大华戏院”并在2003年被发展成购物商场，改名 “The Majestic”。大厦如今由新加坡赛马公会租用，主要作为投注中心用途。|
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/eu-tong-sen/seow-peck-ngiam.png">
+<b>Seow Peck Ngiam</b> is a Senior Librarian at the National Library, Singapore. Her responsibilities include the selection of Chinese materials and donor collections for the library as well as the provision of reference and information services. The Chinese translation was edited by Vicky Gao, a Senior Librarian who specialises in China Studies at the National Library, Singapore.
+<br>
+萧碧莹是新加坡国家图书馆的高级图书馆员。负责范围包括华文馆藏采选、捐赠馆藏及为读者提供咨询服务。华文翻译由高小行编辑。她是国家图书馆高级参考馆员，中文学科馆员。
+</div>
+
+<a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
