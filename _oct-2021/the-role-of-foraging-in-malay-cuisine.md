@@ -71,7 +71,7 @@ Prior to reclamation and more recent development, one can imagine how Sungai Ket
 This knowledge extends to understanding what can be acquired at which times of the day and year, as well as the natural processes of an ecological system that make such foraging practices sustainable. For Malays living in pre-industrial times, where natural resources were readily shared with the community, the principle of conscious consumption was largely upheld. 
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_1065_cmyk.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_1065_cmyk2.jpg)
 <div style="background-color: white;"><i>Janur</i> (tender young coconut fronds), destined for transformation into <i>ketupat</i> casing. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 	
 For instance, it was never in the long-term interest of a kampong community to harvest all the fish in a water body at once, even if one had the means. Some foraging practices could even help in the propagation of certain plants, such as <i>turi</i> (<i>Sesbania grandiflora</i>) and <i>ubi kayu</i> (cassava; <i>Manihot esculenta</i>), where a broken-off stem regenerates into two or more new ones. Even when flowers were picked, it was important not to strip the entire plant bare, but to leave some flowers behind to ensure that there was no decline in the fruit crop.
