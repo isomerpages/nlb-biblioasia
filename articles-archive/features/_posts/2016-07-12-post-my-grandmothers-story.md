@@ -124,7 +124,7 @@ But we should also pay attention to the silences – to the people who aren’t 
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **Notes**
+#### **NOTES**
 
 [^1]:Pieris, A. (2009). *Hidden hands and divided landscapes: A penal history of Singapore’s plural society*. Honolulu: University of Hawaii Press. Call no.: RSING 365.95957 PIE 
 
