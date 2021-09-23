@@ -68,7 +68,7 @@ With rising concerns over the high infant mortality rate, Miss J. E. Blundell fr
 
 |**EARLY MIDWIFERY AND THE BIDAN**|
 
-|Prior to the arrival of the British, women in Singapore had their own birth rituals and customs. As the population was mainly Malay, home births were handled by the bidan, usually a well-respected female member of the community. These traditional Malay midwives acquired their skills and knowledge from older, more experienced bidan, and in turn, imparted their knowledge to other women. It was expected of a practising bidan to have gone through pregnancy and childbirth herself.|
+|Prior to the arrival of the British, women in Singapore had their own birth rituals and customs. As the population was mainly Malay, home births were handled by the* bidan*, usually a well-respected female member of the community. These traditional Malay midwives acquired their skills and knowledge from older, more experienced *bidan*, and in turn, imparted their knowledge to other women. It was expected of a practising *bidan* to have gone through pregnancy and childbirth herself.|
 
 |<img src="/images/Vol-12-issue-2/angels-in-white/04-angelsinwhite.jpg">This 1950 photo shows a midwife weighing a newborn baby at home. As hospital beds in maternity hospitals were in short supply in the 1950s, women were discharged 24 hours after their babies were born. Midwives would visit these new mothers at their homes to provide postnatal care. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i>|
 
