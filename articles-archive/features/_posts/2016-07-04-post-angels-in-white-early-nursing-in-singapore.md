@@ -161,39 +161,39 @@ Lim, M. (1966). The maternal and child health services in Singapore. Journal of 
 
 Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). One hundred years of Singapore. Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 
-Medical report for 1883. (1884, April 12). Straits Times Weekly, p. 5. Retrieved from NewspaperSG.
+[Medical report for 1883](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18840412-1.2.5.17.aspx). (1884, April 12). *Straits Times Weekly*, p. 5. Retrieved from NewspaperSG.
 
-Midwives and nurses in jog to raise $40,000. (1985, May 1). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[Midwives and nurses in jog to raise $40,000](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850501-1.2.26.13.aspx). (1985, May 1). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-Mudeliar, V., Nair, C.R.S., & Norris, R.P. (Eds). (1979). Development of hospital care and nursing in Singapore. Singapore: Ministry of Health. (Call no.: RSING 610.73095957 MUD)
+Mudeliar, V., Nair, C.R.S., & Norris, R.P. (Eds). (1979). *[Development of hospital care and nursing in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182524)*. Singapore: Ministry of Health. (Call no.: RSING 610.73095957 MUD)
 
-Municipal commission. (1910, August 6). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[Municipal commission](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100806-1.2.62.aspx). (1910, August 6). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-Municipal nurses. (1896, August 19). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[Municipal nurses](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18960819-1.2.24.aspx). (1896, August 19). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-Municipal Singapore. (1909, November 17). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[Municipal Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19091117-1.2.21.aspx). (1909, November 17). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-National Library Board. (2016). Singapore General Hospital written by Naidu, Ratnala Thulaja. Retrieved from Singapore Infopedia website.
+National Library Board. (2016). *[Singapore General Hospital](http://eresources.nlb.gov.sg/infopedia/articles/SIP_383_2005-01-03.html)* written by Naidu, Ratnala Thulaja. Retrieved from Singapore Infopedia website.
 
-Page 7 Advertisements Column 1. (1887, August 12). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[Page 7 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18870812-1.2.34.1.aspx). (1887, August 12). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-Singapore. Ministry of Health. (1997). More than a calling: Nursing in Singapore since 1885. Singapore: Ministry of Health. (Call no.: RSING 610.73069 MOR)
+Singapore. Ministry of Health. (1997). *[More than a calling: Nursing in Singapore since 1885](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8679278)*. Singapore: Ministry of Health. (Call no.: RSING 610.73069 MOR)
 
-Singapore Nurses Association. (2015). Our history. Retrieved from Singapore Nurses Association website.
+Singapore Nurses Association. (2015). *Our history*. Retrieved from Singapore Nurses Association website.
 
 Singapore Nursing Board. (2016). Retrieved from Singapore Nursing Board website.
 
-Tan, K.H., & Chern, S. M. (2002). Progress in obstetrics from 19th to 21st centuries: Perspectives from KK Hospital, Singapore – the former world’s largest maternity hospital. The Internet Journal of Gynecology and Obstetrics. 2 (2). Retrieved from Internet Scientific Publications website.
+Tan, K.H., & Chern, S. M. (2002). Progress in obstetrics from 19th to 21st centuries: Perspectives from KK Hospital, Singapore – the former world’s largest maternity hospital. *The Internet Journal of Gynecology and Obstetrics*. 2 (2). Retrieved from Internet Scientific Publications website.
 
-Tan, K.H., & Tay, E.H. (Eds.). (2003). The history of obstetrics and gynaecology in Singapore. Singapore: Obstetrical & Gynaecological Society of Singapore: National Heritage Board. (Call no.: RSING q618.095957 HIS)
+Tan, K.H., & Tay, E.H. (Eds.). (2003). *[The history of obstetrics and gynaecology in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11905621)*. Singapore: Obstetrical & Gynaecological Society of Singapore: National Heritage Board. (Call no.: RSING q618.095957 HIS)
 
-The local nurse. (1951, April 4). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[The local nurse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510404-1.2.100.aspx). (1951, April 4). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-Tong, Y.T., & Narayanan, S. (2015). Caring for our people: 50 years of healthcare in Singapore. Singapore: MOH Holdings Pte Ltd for the Ministry of Health. (Call no.: RSING 362.1095957 TON)
+Tong, Y.T., & Narayanan, S. (2015). *[Caring for our people: 50 years of healthcare in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202357972)*. Singapore: MOH Holdings Pte Ltd for the Ministry of Health. (Call no.: RSING 362.1095957 TON)
 
-Yeoh, B.S.A., Phua, K.H., & Fu, K. (2008). From colony to global city: Public health strategies and the control of disease in Singapore. In M.J. Lewis & K.L. Macpherson (Eds.), Public health in Asia and the Pacific: Historical and comparative perspectives. Abingdon, Oxon; New York: Routledge. (Call no.: R 362.1095 PUB)
+Yeoh, B.S.A., Phua, K.H., & Fu, K. (2008). From colony to global city: Public health strategies and the control of disease in Singapore. In M.J. Lewis & K.L. Macpherson (Eds.), *[Public health in Asia and the Pacific: Historical and comparative perspectives](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12884456)*. Abingdon, Oxon; New York: Routledge. (Call no.: R 362.1095 PUB)
 
-#### **Notes**
+#### **NOTES**
 
 [^1]:Sepoys were Indian soldiers recruited by the European colonial powers, including the British. Sepoy Lines refers to the area around the junction of Outram Road and New Bridge Road where the barracks for the sepoys were once located. The General Hospital moved to this area in 1882.
 
@@ -203,7 +203,7 @@ Yeoh, B.S.A., Phua, K.H., & Fu, K. (2008). From colony to global city: Public he
 
 [^4]:The “Ward” referred to the planned female ward of Tan Tock Seng Hospital. The term nurse at this point still referred to any female attendant providing care to the sick, and not a professionally trained nurse.
 
-[^5]:Medical report for 1883. (1884, April 12). Straits Times Weekly Issue, p. 5. Retrieved from NewspaperSG.
+[^5]:[Medical report for 1883](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18840412-1.2.5.17.aspx). (1884, April 12). *Straits Times Weekly Issue*, p. 5. Retrieved from NewspaperSG.
 
 [^6]:As the nuns did not have proper training, their duties were limited to cooking, cleaning and following medical instructions.
 
