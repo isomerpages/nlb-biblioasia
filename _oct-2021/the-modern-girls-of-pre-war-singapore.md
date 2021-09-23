@@ -142,7 +142,7 @@ Despite the criticisms and limits placed on Modern Girls, they actively, vocally
 <img src="/images/vol-17-issue-3/authors/Profile%20-%20Andrea%20Kee.png" style="width: 100px; height: 100px;"/>
 <b>Andrea Kee</b> is an Associate Librarian with the National Library, Singapore, who works with the Singapore and Southeast Asia collections. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
 
-#### NOTES
+#### **NOTES**
 
 [^1]: Alys Eve Weinbaum, et al., eds., “The Modern Girl as Heuristic Device: Collaboration, Connective Comparison, Multidirectional Citation” in [*The Modern Girl Around the World: Consumption, Modernity, and Globalization*](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13239188) (Durham: Duke University Press, 2008), 1. (From National Library, Singapore, Call no. R 305.24220904)
 
