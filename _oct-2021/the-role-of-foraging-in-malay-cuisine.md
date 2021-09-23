@@ -61,7 +61,7 @@ Of course, mainland Singapore itself is an island, and Malays residing in its co
 In 2009, the <i>Berita Harian</i> newspaper reported that two women – Che’ Kamsiah and Che’ Saemah – were seen picking cockles and shellfish from Sungai Ketapang, a tributary of the Bedok River (Sungai Bedok).[^8] That an activity once so commonplace is now considered newsworthy attests to the radical transformation in the way of life of Malays in Singapore. Sungai Ketapang has since been canalised in concrete and courses by the Laguna National Golf and Country Club before flowing into the Bedok River.
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_0933_cmyk2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_0933_cmyk.jpg)
 <div style="background-color: white;">Picking the seasonal <i>agar-agar</i>, which is boiled down and its gelatinous by-product made into dessert throughout the Malay world. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 	
 #### **Conscious Consumption**
