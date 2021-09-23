@@ -126,33 +126,33 @@ Here are some highlights of the collection.
 
 [^1]:Eu Yang San. (2015). Our business. Retrieved from Eu Yang Sang website.
 
-[^2]:Sharp, I. (2009). Path of the righteous crane: The life and legacy of Eu Tong Sen (pp.3, 9–10). Singapore: Landmark Books Pte Ltd. (Call no.: RSING 338.7616151092 SHA)
+[^2]:Sharp, I. (2009). *[Path of the righteous crane: The life and legacy of Eu Tong Sen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212358)* (pp.3, 9–10). Singapore: Landmark Books Pte Ltd. (Call no.: RSING 338.7616151092 SHA)
 
-[^3]:Sharp, 2009, p. 11; Eu Yan Sang. (2015). Our history. Retrieved from Eu Yan Sang website.
+[^3]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212358), 2009, p. 11; Eu Yan Sang. (2015). *Our history*. Retrieved from Eu Yan Sang website.
 
-[^4]:Sharp, 2009, pp. 14, 23, 52. 
+[^4]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212358), 2009, pp. 14, 23, 52. 
 
-[^5]:Sharp, 2009, pp. 28, 53–57, 76. 
+[^5]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212358), 2009, pp. 28, 53–57, 76. 
 
-[^6]:吴彦鸿 [Wu Y.H.]. (1997). 新加坡风土志 [Xinjiapo feng tu zhi] (p. 18). 新加坡 : 新加坡潮州八邑会馆文教委员会出版组. (Call no.: Chinese RSING 959.57 WYH)
+[^6]:吴彦鸿 [Wu Y.H.]. (1997). [新加坡风土志](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14369709) [*Xinjiapo feng tu zhi*] (p. 18). 新加坡 : 新加坡潮州八邑会馆文教委员会出版组. (Call no.: Chinese RSING 959.57 WYH)
 
-[^7]:区如柏 [Qu, R.B.]. (1994, July 3). 战前最堂皇的建筑物 南天大 厦67年史 [Zhan qian zui tang huang de jian zhu wu nan tian da sha nian shi] 联合早报 [Lianhe Zaobao], p. 46. Retrieved from NewspaperSG.
+[^7]:区如柏 [Qu, R.B.]. (1994, July 3). [战前最堂皇的建筑物 南天大 厦67年史](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19940703-1.2.68.2.aspx) [*Zhan qian zui tang huang de jian zhu wu nan tian da sha nian shi*] *联合早报* [*Lianhe Zaobao*], p. 46. Retrieved from NewspaperSG.
 
-[^8]:Chung, S.P.-Y. (2002, July). Surviving economic crises in Southeast Asia and Southern China: The history of the Eu Yan Sang business conglomerates in Penang, Singapore and Hong Kong. Modern Asian Studies, 36 (3), 579-617, p. 604. Retrieved from JSTOR via NLB’s eResources website; Sharp, 2009, p. 180. 
+[^8]:Chung, S.P.-Y. (2002, July). Surviving economic crises in Southeast Asia and Southern China: The history of the Eu Yan Sang business conglomerates in Penang, Singapore and Hong Kong. M*odern Asian Studies, 36* (3), 579-617, p. 604. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; [Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212358), 2009, p. 180. 
 
-[^9]:Sharp, 2009, p. 98.
+[^9]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212358), 2009, p. 98.
 
-[^10]:Sharp, 2009, pp. 160–161; Mr. Eu Tong Sen’s million dollar villa. (1934, September 9). The Straits Times, p. 4; Lee, Y. M. (1981, June 20). Eu Villa gives way….The New Nation, p. 12; Koh. B. (2008, February 24). Postcards from the past. The Straits Times, p. 58. Retrieved from NewspaperSG.
+[^10]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212358), 2009, pp. 160–161; [Mr. Eu Tong Sen’s million dollar villa](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340909-1.2.23.aspx). (1934, September 9). *The Straits Times*, p. 4; Lee, Y. M. (1981, June 20). [Eu Villa gives way…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810620-1.2.60.aspx).*The New Nation*, p. 12; Koh. B. (2008, February 24). [Postcards from the past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080224-1.2.61.1.7). *The Straits Times*, p. 58. Retrieved from NewspaperSG.
 
-[^11]:大业华年 [Da ye hua nian] (pp. 69–77). (1985). 新加坡: 大华银行集团. (Call no.: Chinese RSING 332.12095957 GRO)
+[^11]:[大业华年](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84470401) [*Da ye hua nian*] (pp. 69–77). (1985). 新加坡: 大华银行集团. (Call no.: Chinese RSING 332.12095957 GRO)
 
-[^12]:区如柏 [Qu R. B.]. (1990, September 9). 昔日的香格里拉南天走过63年 [Xi ri de xianggelila nantian zou guo 63 nian]. 联合早报[Lianhe Zaobao], p. 42. Retrieved from NewspaperSG.
+[^12]:区如柏 [Qu R. B.]. (1990, September 9). [昔日的香格里拉南天走过63年](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19900909-1.2.66.1.1.aspx) [*Xi ri de xianggelila nantian zou guo 63 nian*]. *联合早报*[*Lianhe Zaobao*], p. 42. Retrieved from NewspaperSG.
 
-[^13]:吴彦鸿 [Wu Y.H.], 1997, p. 17
+[^13]:[吴彦鸿](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14369709) [Wu Y.H.], 1997, p. 17
 
-[^14]:莫美颜 [Mo, M.Y.]. (1990, September 9). 南天的夜总会 [Nan tian de ye zong hui]. 联合早报 [Lianhe Zaobao], p. 42. Retrieved from NewspaperSG.
+[^14]:莫美颜 [Mo, M.Y.]. (1990, September 9). [南天的夜总会](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19900909-1.2.66.2.1.aspx) [*Nan tian de ye zong hui*]. *联合早报* [*Lianhe Zaobao*], p. 42. Retrieved from NewspaperSG.
 
-[^15]:区如柏 [Qu, R.B.]. (2013). 新加坡的广帮汇兑业 [Xinjiapo de guang bang hui dui ye]. 源 [Yuan], 5 (105), p. 10. 新加坡: 新加坡宗乡会馆联合总会 [Singapore Federation of Chinese Clan Associations]. Retrieved from Singapore Federation of Chinese Clan Associations website.
+[^15]:区如柏 [Qu, R.B.]. (2013). 新加坡的广帮汇兑业 [*Xinjiapo de guang bang hui dui ye*]. 源 [*Yuan*], 5 (105), p. 10. 新加坡: 新加坡宗乡会馆联合总会 [Singapore Federation of Chinese Clan Associations]. Retrieved from Singapore Federation of Chinese Clan Associations website.
 
 [^16]:Khoo, S.N., & Lubis, A.-R. (2005). [Kinta Valley: Pioneering Malaysia’s modern development](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12523968) (p. 107). Ipoh: Perak Academy. (Call no. RSING q959.51 KHO)
 
