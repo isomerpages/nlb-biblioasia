@@ -179,7 +179,7 @@ Woodford, Esme (2007) (Accession no.: 003267)
 
 For a full list of references behind the research, see Hodgkins, F. (2014). *[From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200929389)*. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
 
-#### **Notes**
+#### **NOTES**
 
 [^1]:Museum commemorating the site of the British surrender of Singapore to the Japanese on 15 February 1942. Located at Upper Bukit Timah Road, it is currently closed for renovations and will open in the first quarter of 2017.
 
