@@ -78,7 +78,7 @@ A “Poetry on Platforms” talk will be held on 25 July 2015 from 4 to 5 pm at 
 
 <p style="font-size:15px;"><b>Sharon Lim</b> is a Project Manager with the Exhibitions and Curation department at the National Library of Singapore.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
