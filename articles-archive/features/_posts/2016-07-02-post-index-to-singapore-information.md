@@ -34,6 +34,7 @@ Moving forward, there are plans in the pipeline to enhance ISI as a Singapore re
 
 <div style="background-color: white;"><br><a href="/images/Vol-12-issue-2/index-to-singapore-information/02-indextosingapore.jpg"><img style="width:600px" src="/images/Vol-12-issue-2/index-to-singapore-information/02-indextosingapore.jpg"></a></div>
 
+<br>
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/index-to-singapore-information/huichuan.png">
