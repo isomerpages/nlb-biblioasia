@@ -137,7 +137,7 @@ On his return to Britain in 1862, Wallace was no longer an obscure collector. He
 
 <p style="font-size:15px;"><b>Dr John van Wyhe</b> is a historian of science at the National University of Singapore who specialises in Darwin and Wallace. For several years a Bye-Fellow of Christ's College, Cambridge, he is also the Director of Darwin Online and Wallace Online and the author of 10 books and numerous articles on the history of science.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 
