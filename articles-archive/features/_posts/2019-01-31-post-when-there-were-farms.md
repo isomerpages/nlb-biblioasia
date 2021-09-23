@@ -51,6 +51,8 @@ The life of a trainee at the Farm School is depicted through photos in this book
 <b>(Right) Menternak Kambing | Rearing of Goats (1965)</b><br>
 Goat farms in 1960s Singapore reared goats ranging from local species to breeds imported from Switzerland and India. Booklets published by the Primary Production Department provided farmers with tips on taking care of different types of goats, including breeding methods, feeding and the proper ways of housing the goats.</div>
 
+<br>
+
 |**WHAT IS LEGAL DEPOSIT?**
 
 |Legal Deposit is one of the statutory functions of the National Library and is supported through the provisions of the National Library Board Act. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every physical work and one copy of every electronic work published in Singapore, for sale or public distribution, with the National Library within four weeks of its publication. The Legal Deposit function ensures that a repository of Singapore’s published heritage is preserved for future generations. For more information, please visit www.nlb.gov.sg/Deposit.
