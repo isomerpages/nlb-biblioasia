@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Nadia Ramli** traces the history of the Malay art scene in early Singapore through a collection of art-related ephemera, catalogues and publications at the National Library.
 
-<img style="width: 650px; height: 360px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections1.JPG">
+<img style="width: 650px; height: 360px;" src="/images/Vol-14-issue-4/creative-collectives/xz.JPG">
 <div style="background-color: white;">(Left) “The Face in Meditation” (undated) by Abdul Ghani Abdul Hamid, which depicts a mask-like face and contorted limbs, is reminiscent of batik with its bold colours and strong outlines. <i>Courtesy of National Gallery Singapore.</i><br>
 (Right) S. Mohdir’s “Dalam” (1975), which means “deep” in Malay, depicts the unexplored depths of the world beneath the sea. This work has often been cited as an example of an early experimentation in surrealism by a Singaporean artist. <i>Courtesy of National Gallery Singapore.</i></div>
 
@@ -50,11 +50,11 @@ Here is a glimpse of exhibition catalogues and collaterals – published between
 
 <br>
 
-|<img style="width: 700px; height: 320px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections5.JPG"><b>Introspection (1991)</b><br> This is a catalogue of Sarkasi Said’s (Tzee) solo exhibition “Introspection”, held at the National Museum Art Gallery, Singapore, in 1991. As a batik painter, Tzee is well known for his works on silk that use mixed-media, acrylic and dye. The catalogue includes an introduction by art historian, T. K. Sabapathy.
+|<img style="width: 700px; height: 320px;" src="/images/Vol-14-issue-4/creative-collectives/ln.JPG"><b>Introspection (1991)</b><br> This is a catalogue of Sarkasi Said’s (Tzee) solo exhibition “Introspection”, held at the National Museum Art Gallery, Singapore, in 1991. As a batik painter, Tzee is well known for his works on silk that use mixed-media, acrylic and dye. The catalogue includes an introduction by art historian, T. K. Sabapathy.
 
 <br>
 
-|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections6.JPG"><b>Malay Artists Singapore (1995)</b><br> N. Parameswaran, the organiser and curator of this exhibition held at Galeri Petronas in Kuala Lumpur, Malaysia, in 1995 wrote in the introduction of the publication that it was a “reunion exhibition” of sorts for Singaporean Malay artists and provided an opportunity for them to exhibit their works outside of their usual circles.
+|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/MA.JPG"><b>Malay Artists Singapore (1995)</b><br> N. Parameswaran, the organiser and curator of this exhibition held at Galeri Petronas in Kuala Lumpur, Malaysia, in 1995 wrote in the introduction of the publication that it was a “reunion exhibition” of sorts for Singaporean Malay artists and provided an opportunity for them to exhibit their works outside of their usual circles.
 
 <br>
 
