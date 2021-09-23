@@ -66,7 +66,7 @@ With rising concerns over the high infant mortality rate, Miss J. E. Blundell fr
 
 |The nursing profession, as most people will readily admit, is one of the toughest in the world; it is a calling that requires dedication and a certain steadfastness of spirit. While nurses today face many challenges on a daily basis, it was much worse back in the 1920s. Nurses were expected to perform six weeks of continuous morning and afternoon shifts, followed by two weeks of night duty. Rest days were scant: student nurses were given one off day per month, while staff nurses had two days. Nurses were also required to live in hospital quarters and have their meals there. Each staff nurse was entitled to her own bedroom, whereas student nurses had to share a room with two other fellow students. Perhaps the most draconian ruling was that nurses working in government hospitals in the 1920s were not allowed to get married. We do not know how long this rule was enforced, but it is little wonder that the profession had difficulties attracting women.|
 
-|**EARLY MIDWIFERY AND THE BIDAN**|
+|<br>**EARLY MIDWIFERY AND THE BIDAN**|
 
 |Prior to the arrival of the British, women in Singapore had their own birth rituals and customs. As the population was mainly Malay, home births were handled by the* bidan*, usually a well-respected female member of the community. These traditional Malay midwives acquired their skills and knowledge from older, more experienced *bidan*, and in turn, imparted their knowledge to other women. It was expected of a practising *bidan* to have gone through pregnancy and childbirth herself.|
 
