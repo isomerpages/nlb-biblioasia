@@ -109,15 +109,15 @@ There were once dozens of durian varieties that are now mostly lost, eradicated 
 The evocative names of these heirloom durians lyrically describe their shape and form, such as Kuching Tidur (Sleeping Cat). Kachapuri referred to durians whose only edible pulp was found right in the centre (hence kachapuri, the central chamber of a palace). Varieties whose names were inspired by the shape of their pulp include Durian Kepala Gajah (Elephant’s Head), Kepala Rusa (Deer’s Head), Telor (Egg), Daun (Leaf), Kembar Dua (Pair of Twins), Gempa Bumi (Earthquake), Raja Asmara (King of Passion), Juring Panjang (Long Slice), Jantong (Heart), Gelok (Water Vessel), Mata Ketam (Crab’s Eye) and Sultan Bersandar (Reclining Sultan). Durian Bantal (Durian Pillow) probably had a “pillowy” texture. Some names referred to the colour of the fruit, such as Durian Nasi Kunyit (Turmeric Rice), Mentega (Butter), Emas (Gold), Batil Suasa (Rose Gold Bowl), Tembaga (Brass), Gading (Ivory), Susu (Milk) and Otak Udang (Prawns’ Brains). <br><br>
 There is also a vocabulary associated with the anatomy of the durian: a single whole durian fruit is <i>sebutir</i> or <i>sebiji</i> durian; a single segment of its interior is <i>sepangsa</i> durian, while a single seed with its edible flesh adjoining is <i>seulas</i> durian, meaning one unit. <br><br>
 The following are terms related to the stages in a durian’s growth:<br>
- <i>Mata ketam</i><br>Very small<br><br>
-<i>Mendamak</i><br>When thorns first appear<br><br>
-	<i>Kepala kera</i><br>Larger but dry<br><br>
-	<i>Mentimun ayer</i><br>Beginning to be juicy<br><br>
-	<i>Meliat</i><br>Getting consistency<br><br>
-	<i>Mendaging ayam</i><br>Sweet and rich<br><br>
-<i>Menchempur</i><br>Fruit first falling<br><br>
-<i>Membuang burok</i><br>Fruit first falling<br><br>
-<i>Gugur rahat</i><br>Falling plentifully
+ <u><i>Mata ketam</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Very small&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></u>
+<u><i>Mendamak</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When thorns first appear&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></u>
+	<i>Kepala kera</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Larger but dry<br><br>
+	<i>Mentimun ayer</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beginning to be juicy<br><br>
+<i>Meliat</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Getting consistency<br><br>
+	<i>Mendaging ayam</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweet and rich<br><br>
+<i>Menchempur</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fruit first falling<br><br>
+<i>Membuang burok</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fruit first falling<br><br>
+<i>Gugur rahat</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Falling plentifully
 </div>
 
 
