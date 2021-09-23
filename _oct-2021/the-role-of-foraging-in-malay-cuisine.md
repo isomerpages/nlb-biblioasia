@@ -42,6 +42,11 @@ Cockles were once abundant along the entire west coast of the Malay Peninsula an
 
 In the days before Singapore’s southern islands were reclaimed and their inhabitants relocated to the mainland, the islands were home to various Malay communities who had an intimate relationship with the marine ecology around them. Juria Toramae, an independent researcher, artist and marine conservationist, has written about how the residents of outlying islands like Pulau Sudong lived off collecting corals and seaweed, in a place where land was too scarce to put under the plough. She notes how “corals and seaweeds were popular amongst Singapore’s mainlanders for home decoration and jelly-making”.[^5]
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/Boys%20Collecting%20Seaweed.jpg)
+<div style="background-color: white;">Raking seaweeds on Singapore’s shores. <i>Photograph by and courtesy of Lim Kwong Ling.
+</i></div>
+
 In a paper published in 1982, Chew Soo Beng gives a rich account of the lives of the Pulau Sudong islanders before they were resettled into high-rise public housing on the mainland in the late 1970s:
 
 “Groups of women row their <i>kolek</i> [small wooden boat] to different parts of the exposed portions of the reef to gather sea produce. This activity was performed with considerable gaiety, seeming to be an enjoyable activity. Everyone carried a basket and unmarried girls wore <i>bunga raya</i> (hibiscus) in their hair. In teams of threes or fours, usually to form a line, they combed the reef for <i>agar-agar</i> (an edible seaweed), <i>gulong</i>, the <i>trepang</i> and a variety of <i>beche-de-mer</i>. When both the tide and sun were low, the gathered chatter of the women at work could drift into the village where the men, excluded from the offshore merriment, conversed beneath their favourite <i>pondok</i>.”[^6]
