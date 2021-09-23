@@ -31,3 +31,5 @@ Through the *Lens of Lee Kip Lin: Photographs of Singapore 1965-1995* (hardcover
 Both books are available for loan and reference at the Lee Kong Chian Reference Library and branches of all public libraries.
 
 Download the PDF versions of BiblioAsia here: http://www.nlb.gov.sg/Browse/BiblioAsia.aspx
+
+<a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
