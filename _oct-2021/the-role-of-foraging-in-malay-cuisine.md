@@ -82,6 +82,10 @@ This knowledge extends to understanding what can be acquired at which times of t
 
 For instance, it was never in the long-term interest of a kampong community to harvest all the fish in a water body at once, even if one had the means. Some foraging practices could even help in the propagation of certain plants, such as <i>turi</i> (<i>Sesbania grandiflora</i>) and <i>ubi kayu</i> (cassava; <i>Manihot esculenta</i>), where a broken-off stem regenerates into two or more new ones. Even when flowers were picked, it was important not to strip the entire plant bare, but to leave some flowers behind to ensure that there was no decline in the fruit crop.
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_0305_cmyk.jpg)
+<div style="background-color: white;">The <i>ubi kayu</i> (cassava), whose root and young leaves are commonly foraged. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+
 If an entire tree had to be killed, no part went to waste. This was the case when the <i>umbut</i> – the prized heart of a palm – was acquired. Once the <i>umbut</i> was removed, the palm ceased to live. For coconut palms, the leaves were gathered for weaving into <i>ketupat</i> (rice cakes) cases or for wrapping <i>otak-otak</i> (fish mousse mixed with spices, wrapped in banana or coconut leaves and then grilled). The spines of the fronds, <i>lidi</i>, had multiple uses too: they were mainly used as skewers for <i>sate</i> (<i>satay</i>), and could also be bundled together to form an egg-beater or even a broom if longer fronds were used. The trunk was often used as a beam in construction, while dried coconut husks were used as cooking fuel. 
 
 
