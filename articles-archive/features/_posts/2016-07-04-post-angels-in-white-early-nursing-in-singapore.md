@@ -46,7 +46,7 @@ Despite vehement protests, the government went ahead and appealed to the convent
 
 In 1896, the Colonial Nursing Association was formed in England to see to the nursing needs of the British colonies. In August the same year, it was reported that the Shanghai Municipality had employed trained nurses from England. The hospital in Kuala Lumpur also had British-trained nurses since December 1895 in its workforce. This news and similar reports piqued public interest, including that of Lady Mitchell, wife of Governor Charles Bullen Hugh Mitchell, who was most concerned over the care of patients in government institutions.
 
-The following years saw many public letters, newspaper editorials and meetings that emphasised the need for professionally trained nurses. In 1899, The Straits Times accepted subscriptions and donations to fund the recruitment of nurses from England.[^7] The public donated generously. By May 1900, the French nuns had withdrawn from their nursing duties at the General Hospital, and in the same month, four qualified nurses arrived from England and took over the care of the patients.
+The following years saw many public letters, newspaper editorials and meetings that emphasised the need for professionally trained nurses. In 1899, *The Straits Times* accepted subscriptions and donations to fund the recruitment of nurses from England.[^7] The public donated generously. By May 1900, the French nuns had withdrawn from their nursing duties at the General Hospital, and in the same month, four qualified nurses arrived from England and took over the care of the patients.
 
 #### **Later Developments: 1900–40**
 
