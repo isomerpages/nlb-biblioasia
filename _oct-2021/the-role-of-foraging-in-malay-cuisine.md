@@ -21,11 +21,13 @@ Foraging, requiring little to no specialised tools and demanding less physical e
 The Malays foraged in multiple ecological domains and habitats. This emerged from their well-oriented understanding of local geography, which was made legible by the use of specific nomenclature. They identified different types of terrestrial features: there were <i>padang</i> (plains), <i>cangkat</i> (knolls), <i>bukit</i> (hills), <i>lembah</i> (valleys) and <i>gunung</i> (mountains). But even flat land itself was differentiated based on elevation, with <i>darat</i> (upland) distinguished from <i>baruh</i> (lowland). Forests, or <i>hutan</i>, were classified as either <i>rimba</i> (virgin forest) or <i>belukar</i> (secondary forest). Rivers were divided into <i>hulu</i> (upstream) and <i>hilir</i> (downstream). Freshwater swamps, or <i>paya</i>, were different from mangrove swamps, or <i>bakau</i>. Formations on the coast were also differentiated into <i>telok</i> (bays and coves) and <i>tanjong</i> (capes). At sea, the Malays identified <i>terumbu</i> or <i>beting</i> (patch reefs), <i>karang</i> (coral reefs) and <i>busung</i> (mudflats).
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/Botok.jpg)
-<div style="background-color: white;">(Left) Foraged leaves and herbs to make <i>botok-botok</i>. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i> 
-(Right) To prepare <i>botok-botok</i>, fish slices are marinated with spices and infused with flavourful foliage and herbs, before being wrapped in banana leaves and steamed. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
-
 On land, the Malays foraged in the spacious yards around their rural homes, in the <i>belukar</i> near their villages as well as along trails that connected them. Much could be made of the leaves, shoots, stems and roots found therein. In the dish known as <i>botok-botok</i>, fish steak is marinated with spices and infused with flavourful foliage and herbs before being wrapped in banana leaves and steamed. Flowers could also be gathered for consumption. The flowers of the durian tree – prior to their fruiting – were often collected and enjoyed as <i>ulam</i> (a dish of raw vegetables eaten with rice).
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/Botok.jpg)
+<div style="background-color: white;">(Left) Foraged leaves and herbs to make <i>botok-botok</i>. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+
+<div style="background-color: white;">(Right) To prepare <i>botok-botok</i>, fish slices are marinated with spices and infused with flavourful foliage and herbs, before being wrapped in banana leaves and steamed. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+
 
 Besides foliage, flowers, shoots, roots, stems and tubers, the forests also occasionally turned up rare extravagances, like wild honey. A person skilled in the dangerous task of extracting honey (<i>manisan lebah</i>, literally “bee’s sweets”; also known as <i>ayer madu</i> or simply <i>madu</i>) from a hive was the <i>pawang lebah</i> (beekeeper). 
 
@@ -51,14 +53,14 @@ In a paper published in 1982, Chew Soo Beng gives a rich account of the lives of
 
 “Groups of women row their <i>kolek</i> [small wooden boat] to different parts of the exposed portions of the reef to gather sea produce. This activity was performed with considerable gaiety, seeming to be an enjoyable activity. Everyone carried a basket and unmarried girls wore <i>bunga raya</i> (hibiscus) in their hair. In teams of threes or fours, usually to form a line, they combed the reef for <i>agar-agar</i> (an edible seaweed), <i>gulong</i>, the <i>trepang</i> and a variety of <i>beche-de-mer</i>. When both the tide and sun were low, the gathered chatter of the women at work could drift into the village where the men, excluded from the offshore merriment, conversed beneath their favourite <i>pondok</i>.”[^6]
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_0933_cmyk.jpg)
+<div style="background-color: white;">Picking the seasonal <i>agar-agar</i>, which is boiled down and its gelatinous by-product made into dessert throughout the Malay world. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+	
 Remnants of this lost way of life can be seen today only in those parts of the Riau Islands in Indonesia where such time-tested rhythms have not been swept away by the modern economy’s relentless forces. The fishing and gathering expeditions of Singapore’s southern islanders often brought them to Riau. The islands on both sides of the Singapore-Indonesia border together formed a contiguous maritime neighbourhood. 
 
 Bound by ties of kinship, these island communities transcended the artificial international borders that divide the waters between Singapore and Indonesia, first drawn up by the British and Dutch colonial powers in the Anglo-Dutch Treaty of 1824.[^7] Prior to the 1997 Asian Financial Crisis, the Singapore dollar was a widely accepted currency in Riau. Even when Riau islanders got married, dowry exchange was made in the Singapore dollar as well. This affinity with Singapore was made possible by geographical proximity. 
 
-
-![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_0903_cmyk.jpg)
-<div style="background-color: white;">Male <i>gonggong</i> (sea snails) collected from mudflats. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.
-</i></div>
 	
 Islanders on Pulau Pemping (on the Riau side of the border), for example, can see the Singapore skyline from their homes overlooking the sea. They adhered to the Singapore Standard Time for their daily prayers and watched Singaporean television. Movement across the border used to be more porous. Mak Imah, who lived on Pulau Semakau (on the Singapore side of the border), simply dismantled her home, crossed over to Pulau Pemping and reassembled it. This took place when she and her neighbours were ordered to resettle on the mainland. Singapore’s authorities then amalgamated Pulau Semakau with Pulau Seking to form Semakau Landfill, which began operations on 1 April 1999.
 
@@ -67,9 +69,10 @@ Of course, mainland Singapore itself is an island, and Malays residing in its co
 In 2009, the <i>Berita Harian</i> newspaper reported that two women – Che’ Kamsiah and Che’ Saemah – were seen picking cockles and shellfish from Sungai Ketapang, a tributary of the Bedok River (Sungai Bedok).[^8] That an activity once so commonplace is now considered newsworthy attests to the radical transformation in the way of life of Malays in Singapore. Sungai Ketapang has since been canalised in concrete and courses by the Laguna National Golf and Country Club before flowing into the Bedok River.
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_0933_cmyk.jpg)
-<div style="background-color: white;">Picking the seasonal <i>agar-agar</i>, which is boiled down and its gelatinous by-product made into dessert throughout the Malay world. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
-	
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_0903_cmyk.jpg)
+<div style="background-color: white;">Male <i>gonggong</i> (sea snails) collected from mudflats. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.
+</i></div>
+
 #### **Conscious Consumption**
 
 Prior to reclamation and more recent development, one can imagine how Sungai Ketapang was perhaps one among many natural cornucopias for Malay settlements in old Tanah Merah. More importantly, this episode suggests the profoundly intimate knowledge that indigenous communities have of their natural world, one that has even withstood – in its own little way – the displacement brought about by urbanisation.
@@ -77,13 +80,14 @@ Prior to reclamation and more recent development, one can imagine how Sungai Ket
 This knowledge extends to understanding what can be acquired at which times of the day and year, as well as the natural processes of an ecological system that make such foraging practices sustainable. For Malays living in pre-industrial times, where natural resources were readily shared with the community, the principle of conscious consumption was largely upheld. 
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_1065_cmyk2.jpg)
-<div style="background-color: white;"><i>Janur</i> (tender young coconut fronds), destined for transformation into <i>ketupat</i> casing. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
-	
 For instance, it was never in the long-term interest of a kampong community to harvest all the fish in a water body at once, even if one had the means. Some foraging practices could even help in the propagation of certain plants, such as <i>turi</i> (<i>Sesbania grandiflora</i>) and <i>ubi kayu</i> (cassava; <i>Manihot esculenta</i>), where a broken-off stem regenerates into two or more new ones. Even when flowers were picked, it was important not to strip the entire plant bare, but to leave some flowers behind to ensure that there was no decline in the fruit crop.
 
 If an entire tree had to be killed, no part went to waste. This was the case when the <i>umbut</i> – the prized heart of a palm – was acquired. Once the <i>umbut</i> was removed, the palm ceased to live. For coconut palms, the leaves were gathered for weaving into <i>ketupat</i> (rice cakes) cases or for wrapping <i>otak-otak</i> (fish mousse mixed with spices, wrapped in banana or coconut leaves and then grilled). The spines of the fronds, <i>lidi</i>, had multiple uses too: they were mainly used as skewers for <i>sate</i> (<i>satay</i>), and could also be bundled together to form an egg-beater or even a broom if longer fronds were used. The trunk was often used as a beam in construction, while dried coconut husks were used as cooking fuel. 
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_1065_cmyk2.jpg)
+<div style="background-color: white;"><i>Janur</i> (tender young coconut fronds), destined for transformation into <i>ketupat</i> casing. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+	
 Modern-day exploitation of natural resources and industrial capitalism, however, challenged the viability of foraging as a way of life. Just as the last of the Malay villages in Singapore were being torn down in the 1970s and 80s, growing awareness was afoot in the West about this fast-disappearing mode of consumption. 
 
 In 1971, Alice Waters, one of the key pioneers of the organic food movement in the United States, opened her restaurant Chez Panisse (which is still in operation today) in Berkeley, California. The restaurant emphasises using only locally grown ingredients from sustainable sources, and the menu changes according to the seasons, serving only what is available at that time of the year. 
@@ -95,7 +99,7 @@ This sensitivity to seasonal constraints was also a crucial characteristic of fo
 
 Industrialised food production has overcome constraints like these. One can now enjoy durian at any time of the year, despite it being a seasonal fruit. This has allowed the human consumer to transcend their position within the food chain, no longer subject to its natural processes or the constraints of seasonality. There is a danger, perhaps, in this growing distance between us and the natural processes that give rise to our food. The more removed we are from the natural domains where our ingredients were once traditionally harnessed, the less control and discernment we have in determining what food we should be consuming.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>A DURIAN BY ANY OTHER NAME</b><br>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>A DURIAN BY ANY OTHER NAME</b><br><br>
 Unlike the coconut and the pineapple, the durian does not seem to have been cultivated as a commercial crop by the Malays in the past. Durian trees were either encountered in the wild, or one might have the trees in one’s <i>dusun</i> (orchard or private fruit grove). The Malay expression <i>durian runtuh</i> (like a fallen durian) – used to convey unexpected bounty or good fortune – best illustrates the serendipity with which the durian fruit is found on the ground.<br><br>
 There were once dozens of durian varieties that are now mostly lost, eradicated by modern monoculture. Due to aggressive commercial cultivation, durian consumption is now woefully limited to the same set of popular cultivars, such as Mao Shan Wang (Musang King) and the blandly named D24. Gone are the heirloom varieties known to Malays of old. <br><br>
 The evocative names of these heirloom durians lyrically describe their shape and form, such as Kuching Tidur (Sleeping Cat). Kachapuri referred to durians whose only edible pulp was found right in the centre (hence kachapuri, the central chamber of a palace). Varieties whose names were inspired by the shape of their pulp include Durian Kepala Gajah (Elephant’s Head), Kepala Rusa (Deer’s Head), Telor (Egg), Daun (Leaf), Kembar Dua (Pair of Twins), Gempa Bumi (Earthquake), Raja Asmara (King of Passion), Juring Panjang (Long Slice), Jantong (Heart), Gelok (Water Vessel), Mata Ketam (Crab’s Eye) and Sultan Bersandar (Reclining Sultan). Durian Bantal (Durian Pillow) probably had a “pillowy” texture. Some names referred to the colour of the fruit, such as Durian Nasi Kunyit (Turmeric Rice), Mentega (Butter), Emas (Gold), Batil Suasa (Rose Gold Bowl), Tembaga (Brass), Gading (Ivory), Susu (Milk) and Otak Udang (Prawns’ Brains). <br><br>
