@@ -50,10 +50,10 @@ Even before the attempted murder of the student, Wong had ordered and planned th
 
 Kong Lee,[^13] a member of the ‘E’ Branch Committee, however, disagreed with the plan to kill Siu and made his view known to Wong. The latter paid no heed to this and was prepared to contravene party rules, which made it clear that no one was to kill a fellow communist without the express approval of the MCP headquarters in Johor. So Wong decided to carry out his task quietly, seeing to it that Siu “would simply disappear forever”.[^14] To this end, both he and Ah Poh hatched a meticulous plan to kill Siu and dispose of his remains secretly. They decided that after the murder, Siu’s remains would be buried in a prawn pond in a tidal swamp at the end of Upper Serangoon Road.
 
-<img style="width: 330px; height: 440px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron4.JPG">
-<div style="background-color: white;">The skeletal remains of Siu Moh were discovered by the police in the swamplands of Serangoon in November 1954, three years after he was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 149). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
-
 On 1 September 1951, Siu was lured to a desolate hut rented from a shrimp catcher. Here, he faced a kangaroo court, with Wong acting as both accuser and judge. During the mock trial, Wong accused Siu of embezzlement, despite the latter’s denials. Wong’s co-accusers at the clandestine gathering included Ah Poh, a lady named Lim Wai Yin (alias Ah Soo) and two other unnamed accomplices. Siu’s protestations were ignored. His accusers bound him hand and foot, gagged him with a cloth, bundled him into a boat and rowed out to a site nearby where he was mercilessly hacked to death. After the deed was done, Wong “swore his followers to secrecy – on pain of death”.[^15]
+
+<img style="width: 330px; height: 440px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron4.JPG">
+<div style="background-color: white;">The skeletal remains of Siu Moh were discovered by the police in the swamplands of Serangoon in November 1954, three years after he was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 149). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA).</i></div>
 
 #### **Capture and Detention**
 
