@@ -4,9 +4,9 @@ date: 2016-07-01
 permalink: /vol-12/issue-2/jul-sep-2016/eu-tong-sen
 layout: post
 ---
-#### The Koh Seow Chuan Collection at the National Library includes documents from the illustrious businessman Eu Tong Sen. **Seow Peck Ngiam** describes some of its highlights.#### 
+#### The Koh Seow Chuan Collection at the National Library includes documents from the illustrious businessman Eu Tong Sen. **Seow Peck Ngiam** describes some of its highlights. 
 
-#### 国家图书馆许少全特藏包括了著 名商业巨甲余东旋文献。萧碧莹介绍了当中的一些亮点。#### 
+#### 国家图书馆许少全特藏包括了著 名商业巨甲余东旋文献。萧碧莹介绍了当中的一些亮点。 
 
 Eu Yang Sang is a well-respected company that specialises in the manufacture and retail of traditional Chinese herbs and medicine. The company has an extensive network of outlets in Australia, China, Hong Kong, Macau, Malaysia and Singapore.[^1]
 
