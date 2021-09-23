@@ -142,20 +142,20 @@ This book is scheduled to be published in October 2021. Thereafter, it will be a
 
 [^2]: Sang Nila Utama subsequently founded the city of Singapura on Temasek. His descendants ruled the city until the fifth and last ruler, Parameswara, fled to Melaka after an attack by the Javanese, establishing the Melaka Sultanate in around 1400.
 
-[^3]: [*Sejarah Melayu = The Malay Annals.*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9337906) Compiled by Cheah Boon Keng and transcribed by Abdul Rahman Haji Ismail. (Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society, 1998), 91. (From National Library, Singapore, call no. Malay R 959.5 SEJ)
+[^3]: [*Sejarah Melayu = The Malay Annals.*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9337906) Compiled by Cheah Boon Keng and transcribed by Abdul Rahman Haji Ismail. (Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society, 1998), 91. (From National Library, Singapore, Call no. Malay R 959.5 SEJ)
 
-[^4]: John Frederick Adolphus McNair, [*Perak and the Malays: “Sarong and Kris”*](https://eresources.nlb.gov.sg/printheritage/detail/f9eb3208-a15b-4e46-9d8a-ef27051de954.aspx) (London: Tinsley Brothers, 1878), 90 (From BookSG, call no. RRARE 959.5131 MAC; accession no. B03013449B)
+[^4]: John Frederick Adolphus McNair, [*Perak and the Malays: “Sarong and Kris”*](https://eresources.nlb.gov.sg/printheritage/detail/f9eb3208-a15b-4e46-9d8a-ef27051de954.aspx) (London: Tinsley Brothers, 1878), 90 (From BookSG, Call no. RRARE 959.5131 MAC; Accession no. B03013449B)
 
 [^5]: Juria Toramae, “Notes on Some Outlying Reefs and Islands in Singapore,” *Mynah*, no. 1 (October 2016): 130, Academia, https://www.academia.edu/35691230/Notes_On_Some_Outlying_Reefs_and_Islands_of_Singapore.
 
-[^6]: Chew Soo Beng,“ [*Fishermen in Flats*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4137660),” Monash Papers on Southeast Asia*, no. 9 ([Clayton, Vic.]: Centre of Southeast Asian Studies, Monash University, 1982). (From National Library, Singapore, call no. RSING 301.4443095957 CHE)
+[^6]: Chew Soo Beng,“ [*Fishermen in Flats*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4137660),” Monash Papers on Southeast Asia*, no. 9 ([Clayton, Vic.]: Centre of Southeast Asian Studies, Monash University, 1982). (From National Library, Singapore, Call no. RSING 301.4443095957 CHE)
 
 [^7]: The signing of the Anglo-Dutch Treaty by Great Britain and the Netherlands in London on 17 March 1824 resolved outstanding bilateral issues. This redefined the spheres of influence of these two colonial powers in the region, leading to the formation of British Malaya and the Dutch East Indies.
 
-[^8]: “[*Nak lala? Pergi ke Sungei Ketapang*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20090406-1.2.10.5),” *Berita Harian*, 6 April 2009, 3. (From NewspaperSG)
+[^8]: “[Nak lala? Pergi ke Sungei Ketapang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20090406-1.2.10.5),” *Berita Harian*, 6 April 2009, 3. (From NewspaperSG)
 
 [^9]: “[Foraging in Singapore: Field to Table](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150228-1.2.106.5),” *Straits Times*, 28 February 2015, 6–7. (From NewspaperSG)
 
-[^10]: Michael Pollan, [*The Omnivore’s Dilemma: A Natural History of Four Meals*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12754239) (New York: Penguin Press, 2006), 7. (From National Library, Singapore, call no. 394.12 POL)
+[^10]: Michael Pollan, [*The Omnivore’s Dilemma: A Natural History of Four Meals*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12754239) (New York: Penguin Press, 2006), 7. (From National Library, Singapore, Call no. 394.12 POL)
 
 [^11]: Pollan, [*The Omnivore’s Dilemma*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12754239), 4.
