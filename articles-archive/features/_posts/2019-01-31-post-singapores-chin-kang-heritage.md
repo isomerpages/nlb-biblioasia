@@ -26,3 +26,12 @@ The Chin Kang Huay Kuan Collection is in the process of being indexed and catalo
 
 <img src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage3.JPG">
 <div style="background-color: white;">Before passports were widely used for overseas travel, a member could ask the association to issue a “Personal Reference” document that acknowledged his membership, verified his identity as well as requested protection from government officials and clansmen when overseas. <i>All rights reserved, Chin Kang Huay Kuan Collection, National Library Board Singapore, 2018.</i></div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage4.jpg" style="width: 100px; height: 100px;">
+<b>Jessie Yak</b> is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
+
