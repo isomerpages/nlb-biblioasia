@@ -180,7 +180,7 @@ For what is art but a lens through  which to examine society, and in turn, ourse
 
 <p style="font-size:15px;"><b>Tara Tan</b> is a writer and designer who works in the intersection between art, design and  technology. She was a former arts reporter with The Straits Times, where she wrote on dance  and culture in Singapore.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
 
 
 #### **NOTES**
