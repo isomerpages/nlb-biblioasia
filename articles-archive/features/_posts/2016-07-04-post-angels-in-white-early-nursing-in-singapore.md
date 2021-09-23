@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/angels-in-white/02-angelsinwhite.jpg">Nuns from the Convent of the Holy Infant Jesus at Victoria Street taking care of babies abandoned at the convent, early 1900s. Many of these French nuns took up nursing duties at the General Hospital on 1 August 1885 due to the shortage of trained professionals. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
-Singapore celebrates Nurses’ Day on 1 August each year to mark the beginnings of nursing here – when French nuns from the Convent of the Holy Infant Jesus first began nursing duties in the General Hospital at Sepoy Lines1 in 1885. Today, there are more than 37,000 nurses and midwives in Singapore, making up more than half of its professional healthcare workforce.
+Singapore celebrates Nurses’ Day on 1 August each year to mark the beginnings of nursing here – when French nuns from the Convent of the Holy Infant Jesus first began nursing duties in the General Hospital at Sepoy Lines[^1] in 1885. Today, there are more than 37,000 nurses and midwives in Singapore, making up more than half of its professional healthcare workforce.
 
 Since 1 August 2000, exemplary nurses have received the President’s Award for Nurses – the highest accolade given to nurses in recognition of their tireless contributions to society. Nursing in Singapore has certainly come a long way from the early days when “nurses” were chained convicts.
 
@@ -129,7 +129,7 @@ Unlike most other countries, which celebrate Nurses Day on 12 May, the birthday 
 
 |Simmons retired to England in 1948, after having overseen a drop in the infant mortality rate from 263 deaths per 1,000 babies in 1927 to an exceptional record of 57 deaths per 1,000 babies that year. This was a feat especially when viewed against the backdrop of a rising birth rate. She later moved to Scotland, where she died in 1958.|
 
-|Extracted from Singapore Infopedia: National Library Board. (2013, March 25). Ida Simmons  written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.|
+|Extracted from Singapore Infopedia: National Library Board. (2013, March 25). [Ida Simmons](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-14_135054.html)  written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.|
 
 <div style="background-color: white;">
 <br>
