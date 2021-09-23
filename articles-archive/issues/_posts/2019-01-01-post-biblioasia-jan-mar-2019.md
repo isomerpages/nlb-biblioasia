@@ -2,10 +2,9 @@
 layout: post
 title: BiblioAsia Jan-Mar 2019
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Jan-Mar 2019"
+breadcrumb: Jan-Mar 2019
 permalink: /vol-14/issue-4/jan-mar-2019/
 ---
-
 <img src="/images/Vol-14-issue-4/vol14_iss4.JPG">  
 
 Farquhar fights back. The daring Mrs Dare. Lessons from the Chetty Melaka kitchen. These and other great reads in this issue of BiblioAsia.
@@ -16,10 +15,10 @@ Farquhar fights back. The daring Mrs Dare. Lessons from the Chetty Melaka kitche
 The founding of Singapore in 1819 and its early development have traditionally been attributed to Sir Stamford Raffles. *Nadia Wright* claims that his role has been exaggerated at the expense of another. 
 [(PDF)](/files/pdf/vol-14/v14-issue4_Farquhar.pdf)
 
-**Looking back at 700 years of Singapore** <br>
+**Looking Back at 700 years of Singapore** <br>
 Singapore’s history didn’t begin in 1819 when Stamford Raffles made footfall on the island. *Tan Tai Yong* makes sense of our 700-year history in this wide-ranging essay. [(PDF)](/files/pdf/vol-14/v14-issue4_LookingBack.pdf)
 
-**Mrs Dare and her Magnificent Driving Machine** <br>
+**Mrs Dare and Her Magnificent Driving Machine** <br>
 The intrepid Mrs G.M. Dare was – true to her name – Singapore’s first woman driver. In April 1907, she embarked on a 686-mile road trip across the Malay Peninsula. [(PDF)](/files/pdf/vol-14/v14-issue4_MrsDare.pdf)
 
 **The Modern Malayan Home** <br>
@@ -37,12 +36,11 @@ Thrift, hard work and resilience are qualities that can be nurtured through food
 **Singapore Stopover: The Entertainment Circuit 1920–1940** <br>
 The city was a major pit stop for visiting entertainers and sportsmen in the early 20th century, according to the writer *Paul French*. [(PDF)](/files/pdf/vol-14/v14-issue4_Stopover.pdf)
 
-**Creative Collectives: Abdul Ghani Hamid and his Contemporaries** <br>
+**Creative Collectives: Abdul Ghani Hamid and His Contemporaries** <br>
 *Nadia Ramli* traces the history of the Malay art scene in early Singapore through a collection of art-related ephemera, catalogues and publications at the National Library. [(PDF)](/files/pdf/vol-14/v14-issue4_AbdulGhani.pdf)
 
 **Singapore’s Chin Kang Heritage** <br>
 To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library. *Jessie Yak* shares highlights from the collection. [(PDF)](/files/pdf/vol-14/v14-issue4_ChinKang.pdf)
 
-**When there were Farms** <br>
+**When There Were Farms** <br>
 *Zoe Yeo* highlights a selection of publications on farming in Singapore from the National Library’s Legal Deposit Collection. [(PDF)](/files/pdf/vol-14/v14-issue4_Farms.pdf)
-
