@@ -32,7 +32,7 @@ The alternative was to build a new airport in Changi, taking over the former Roy
 
 Lee revealed that the consultants initially had not recommended Changi because of “the cost of relocating to Changi plus the loss of $800 million in investments already made on Paya Lebar”. He recalled that the Cabinet had reluctantly agreed to the decision to build the airport at Changi.[^5]
 
-Before the plan could be implemented, however, the world was gripped by the oil crisis that began in 1973. The price of oil quadrupled and air traffic slowed down. Also, with the larger-capacity Boeing 747s taking to the skies, fewer planes were using Paya Lebar. All this meant that the pressure on the airport was reduced and the need for a second runway became less pressing.
+Before the plan could be implemented, however, the world was gripped by the oil crisis that began in 1973. The price of oil had quadrupled leading to a reduction in air traffic. Also, with the larger-capacity Boeing 747s taking to the skies and carrying more passengers, there were fewer smaller planes landing at Paya Lebar. All these meant that the pressure on the airport was reduced and the need for a second runway became less pressing.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/20170000052%20img0271.jpg)
 <div style="background-color: white;">Aerial photograph of the Royal Air Force base in Changi, 1950s. In 1975, parts of the air base were acquired to build Changi Airport. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
@@ -126,7 +126,7 @@ Changi Airport turned 40 in 2021 in what is a very challenging time for the air 
 
 Speaking in Parliament in October 2020, then Transport Minister Ong Ye Kung said that the government would support Changi Airport Group and other companies in the aviation sector, “[b]ut the most meaningful support we can give to our aviation companies is to restore passenger traffic and revive our air hub, in a safe, in a controlled manner”.[^31]
 
-As vaccination rates rise in Singapore and the country moves towards dealing with Covid-19 as an endemic disease, air traffic through Singapore will hopefully  increase and the fortunes of Changi will soar once again.
+As vaccination rates rise in Singapore and the country moves towards dealing with Covid-19 as an endemic disease, air traffic through Changi Airport will hopefully increase. With the same foresight, fortitude and perseverance that led to its genesis, the fortunes of Changi will undoubtedly rise again.
 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="/images/vol-17-issue-3/how-changi-airport-came-to-be/QR%20Code2.png">For more resources on Changi Airport’s early years, scan this QR code.
