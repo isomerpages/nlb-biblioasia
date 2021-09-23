@@ -78,7 +78,7 @@ Qi Tian Gong Temple, Tiong Bahru by Vu Hoa Giang, architect.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/Bedok_Marketplace.jpg">
+<img src="/images/vol-11-issue-2/sketches/Bedok_Marketplace_re.jpg">
 The Bedok Marketplace, Bedok Road by Tan Peng Koon, entrepreneur.
 </div>
 
