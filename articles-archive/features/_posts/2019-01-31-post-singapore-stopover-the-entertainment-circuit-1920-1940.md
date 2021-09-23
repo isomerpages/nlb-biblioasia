@@ -133,7 +133,7 @@ Singapore has traditionally been thought of in terms of hard trade, an entrepôt
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover10.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-4/singapore-stopover/PF.JPG" style="width: 100px; height: 100px;">
 <b>Paul French</b> was born in London, educated there and in Glasgow, and lived and worked in Shanghai for many years. His book <i>Midnight in Peking</i> was a <i>New York Times</i> bestseller. His most recent book <i>City of Devils: A Shanghai Noir</i> has received much praise from <i>The Economist</i>. Both books are currently being developed for television.
 </div>
 
