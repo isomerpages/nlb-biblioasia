@@ -129,7 +129,7 @@ To support the commercial and not-for-profit exhibition of alternative films, sm
 
 <p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library of Singapore. Her responsibilities include managing the ephemera collection, and developing and providing content and reference services relating to Singapore.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 
