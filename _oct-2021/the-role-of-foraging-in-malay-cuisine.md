@@ -133,7 +133,7 @@ This book is scheduled to be published in October 2021. Thereafter, it will be a
 
 [^4]: John Frederick Adolphus McNair, [*Perak and the Malays: “Sarong and Kris”*](https://eresources.nlb.gov.sg/printheritage/detail/f9eb3208-a15b-4e46-9d8a-ef27051de954.aspx) (London: Tinsley Brothers, 1878), 90 (From BookSG, call no. RRARE 959.5131 MAC; accession no. B03013449B)
 
-[^5 ]: Juria Toramae, “Notes on Some Outlying Reefs and Islands in Singapore,” *Mynah*, no. 1 (October 2016): 130, Academia, https://www.academia.edu/35691230/Notes_On_Some_Outlying_Reefs_and_Islands_of_Singapore.
+[^5]: Juria Toramae, “Notes on Some Outlying Reefs and Islands in Singapore,” *Mynah*, no. 1 (October 2016): 130, Academia, https://www.academia.edu/35691230/Notes_On_Some_Outlying_Reefs_and_Islands_of_Singapore.
 
 [^6]: Chew Soo Beng,“ [*Fishermen in Flats*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4137660),” Monash Papers on Southeast Asia*, no. 9 ([Clayton, Vic.]: Centre of Southeast Asian Studies, Monash University, 1982). (From National Library, Singapore, call no. RSING 301.4443095957 CHE)
 
