@@ -152,7 +152,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **Notes**
+#### **NOTES**
 
 [^1]:Das, S. (2008, July 1). A brief history of shopping. *The Telegraph*. Retrieved from The Telegraph India website.
 
