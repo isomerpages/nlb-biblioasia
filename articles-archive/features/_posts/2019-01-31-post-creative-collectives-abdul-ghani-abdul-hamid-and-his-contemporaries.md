@@ -72,7 +72,7 @@ Here is a glimpse of exhibition catalogues and collaterals – published between
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections7.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-4/creative-collectives/Nadia.jpg" style="width: 100px; height: 100px;">
 <b>Nadia Arianna Ramli</b> is an Associate Librarian with the National Library, Singapore. She works with the library’s arts collections, with a special focus on literary and visual arts. Her research interests include Singapore literature and theatre studies.</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
