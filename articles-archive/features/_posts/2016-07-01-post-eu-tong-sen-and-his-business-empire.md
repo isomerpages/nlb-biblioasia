@@ -154,14 +154,14 @@ Here are some highlights of the collection.
 
 [^15]:区如柏 [Qu, R.B.]. (2013). 新加坡的广帮汇兑业 [Xinjiapo de guang bang hui dui ye]. 源 [Yuan], 5 (105), p. 10. 新加坡: 新加坡宗乡会馆联合总会 [Singapore Federation of Chinese Clan Associations]. Retrieved from Singapore Federation of Chinese Clan Associations website.
 
-[^16]:Khoo, S.N., & Lubis, A.-R. (2005). Kinta Valley: Pioneering Malaysia’s modern development (p. 107). Ipoh: Perak Academy. (Call no. RSING q959.51 KHO)
+[^16]:Khoo, S.N., & Lubis, A.-R. (2005). [Kinta Valley: Pioneering Malaysia’s modern development](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12523968) (p. 107). Ipoh: Perak Academy. (Call no. RSING q959.51 KHO)
 
-[^17]:Sharp, 2009, pp. 77, 102.
+[^17]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212358), 2009, pp. 77, 102.
 
-[^18]:筹办星洲岭南分校缘起及其他 [Chou ban xing zhou lingnan fen xiao yuan qi ji qi ta]. (1931, June 2). 南洋商报 [Nanyang Siang Pau], p. 8. Retrieved from NewspaperSG.
+[^18]:[筹办星洲岭南分校缘起及其他](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19310602-1.2.32.aspx) [*Chou ban xing zhou lingnan fen xiao yuan qi ji qi t*a]. (1931, June 2). *南洋商报* [*Nanyang Siang Pau*], p. 8. Retrieved from NewspaperSG.
 
-[^19]:Sharp, 2009, p. 180. 
+[^19]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13212358), 2009, p. 180. 
 
-[^20]:吴宏砚 [Wu, H.Y.]. (1987, February 8). 庆维新、庆升平、怡园、哲园… 早期地方戏戏院今何在? [Qingweixin, qingshengping, yiyuan, zhe yuan… zao qi di fang xi xi yuan jin he zai]. 联合早报 [Lianhe Zaobao], p. 26. Retrieved from NewspaperSG.
+[^20]:吴宏砚 [Wu, H.Y.]. (1987, February 8). [庆维新、庆升平、怡园、哲园… 早期地方戏戏院今何在?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19870208-1.2.46.3.1.aspx) [*Qingweixin, qingshengping, yiyuan, zhe yuan… zao qi di fang xi xi yuan jin he zai*]. *联合早报* [*Lianhe Zaobao*], p. 26. Retrieved from NewspaperSG.
 
-[^21]:Yen, F. (2011, November 6). Majestic theatre back in the spotlight. The Straits Times, p. 13. Retrieved from NewspaperSG.
+[^21]:Yen, F. (2011, November 6). [Majestic theatre back in the spotlight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111106-1.2.16.1). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
