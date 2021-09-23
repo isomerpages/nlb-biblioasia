@@ -130,7 +130,7 @@ This is an abridged version of the chapter “1854–2001: History of Beach Road
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **References**
+#### **REFERENCES**
 
 [All set for the Singapore regiment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570215-1.2.26.aspx). (1957, February 15). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 
@@ -148,7 +148,7 @@ Singapore. Ministry of Defence. (2000). *[Lions in defence: The 2 PDF story](htt
 
 Winsley, T.M. (1938).*[ A history of the Singapore Volunteer Corps, 1854–1937: Being also an historical outline of volunteering in Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182615)*. Singapore: G. P. O. (Call no.: RCLOS 355.23 WIN)
 
-#### **Notes**
+#### **NOTES**
 
 [^1]:Makepeace W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1921). *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)* (Vol. 1, p. 377). London: J. Murray. (Call no.: RCLOS 959.51 MAK)
 
