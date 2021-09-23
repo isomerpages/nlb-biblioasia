@@ -4,7 +4,7 @@ date: 2016-07-03
 permalink: /vol-12/issue-2/jul-sep-2016/best-nonfiction-book
 layout: post
 ---
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/best-non-fiction-book/01a-nonfictionbook.jpg"></div>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-12-issue-2/best-non-fiction-book/01a-nonfictionbook.jpg"></div>
 
 *Through the Lens of Lee Kip Lin: Photographs of Singapore 1965-1995* – a pictorial book published by the National Library Board in partnership with Editions Didier Millet – clinched top honours recently in the non-fiction category at the Singapore Book Awards. A total of eight awards, which recognises the best in Singapore’s publishing scene, were given out on 11 May 2016.
 
