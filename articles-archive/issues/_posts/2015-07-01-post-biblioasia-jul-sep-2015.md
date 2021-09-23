@@ -6,7 +6,7 @@ layout: post
 ---
 <img src="/images/vol-11-issue-2/background/cover_c3.jpg">
 
-[<b>Director's Note</b>](/vol-10/issue-4/jan-march-2015/director-note)
+[<b>Director's Note</b>](/vol-11/issue-2/jul-sep-2015/director-note)
 
 [<b>Seizing the Singapore Dream</b>](/vol-11/issue-2/jul-sep-2015/seizing-the-sg-dream)<br>What does it take to achieve the Singapore Dream? <i>Parag Khanna</i> identifies three important pillars – diplomacy, demography and technology.
 
