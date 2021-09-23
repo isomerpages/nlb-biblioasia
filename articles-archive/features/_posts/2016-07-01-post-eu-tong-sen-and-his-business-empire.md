@@ -18,6 +18,8 @@ The first milestone was laid when Eu Kong opened the Yan Sang Medicine Shop (whi
 
 In 1898, a new chapter began when Eu Tong Sen inherited his father’s business, which by then included tin mining as well as remittance and postal services. Under his leadership, the Chinese medicine business was expanded and renamed Eu Yan Sang to capitalise on the family name.[^4]
 
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/eu-tong-sen/02-eutongsen.jpg">Eu Tong Sen in a portrait taken when he was in his 50s. (50余岁的余东旋肖像。) <i>All rights reserved, Sharp, I. (2009). Path of the Righteous Crane: The Life and Legacy of Eu Tong Sen. Singapore: Landmark Books Pte Ltd.</i></div>
+
 Eu, who by then was known as the “King of Tin”, employed thousands of Chinese migrants in his tin mines, rubber estates, traditional medicine shops and property holdings.[^5] Many of his properties still stand in Singapore today and some have become landmarks, such as The Majestic[^6] (formerly Tien Yien Moi Toi, a venue for Cantonese opera) and the Yue Hwa Chinese Products building[^7] (formerly Nam Tin or Great Southern Hotel), both along Eu Tong Sen Street (see text box below). Eu’s remittance business – which also came under the Eu Yan Sang company – served the overseas Chinese communities in Singapore and Malaya. The company flourished, and by the end of 1920s, was recognised as one of the biggest remittance agencies in Southeast Asia.[^8]
 
 余仁生是新加坡一家经营传统中医药的公司, 其业务遍布新马、中港澳及澳洲地区。
@@ -41,3 +43,5 @@ Here are some highlights of the collection.
 新加坡国家图书馆有一批有关余东旋及余仁生公司的文献，它们是由本地建筑师与慈善家许少全所捐赠，主要包括二十世纪初，由余仁生新加坡及马来西亚分行所签发的凭信单、收据、货单、汇款单、通知函和商业来往文书。除此之外，文件中还有一些有关余东旋及家庭的帐单及信函。
 
 这批文献将帮助人们从中了解早期华商的创业史。同时，这批珍贵的文献资料对研究东南亚与新加坡华侨社会史、19至20世纪初的侨批业以及中国与东南亚的经济关系史方面有着重要的参考价值。
+
+<img src="/images/Vol-12-issue-2/eu-tong-sen/03-eutongsen.jpg">
