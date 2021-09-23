@@ -135,7 +135,7 @@ In China, Wong married another woman. Although the union resulted in the birth o
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron11.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/GYM.JPG" style="width: 100px; height: 100px;">
 <b>Goh Yu Mei</b> is a Librarian with the National Library, Singapore, where she manages the Chinese arts and literature collection. She is interested in the relationship between society and literature.
 </div><br>
 
