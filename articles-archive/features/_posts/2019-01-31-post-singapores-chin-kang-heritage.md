@@ -6,7 +6,7 @@ layout: post
 ---
 #### To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library. **Jessie Yak** shares highlights from the collection.
 
-<img src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage1.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage1.JPG">
 <div style="background-color: white;">Facade of Chin Kang School which opened in 1947 within the premises of Singapore Chin Kang Huay Kuan on Bukit Pasoh Road. The school closed in 1975. <i>Courtesy of Singapore Chin Kang Huay Kuan, 2018.</i></div>
 
 To commemorate its 100th anniversary, the Singapore Chin Kang Huay Kuan (新加坡晋江会馆) signed an agreement with the National Library Board on 14 November 2018 to donate its collection of more than 600 heritage materials – the oldest of which dates back to the 1930s – for preservation and research.
@@ -21,10 +21,10 @@ Over the decades, the clan association has steadfastly archived various material
 
 The Chin Kang Huay Kuan Collection is in the process of being indexed and catalogued, and will be housed at the National Library building on Victoria Street.
 
-<img src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage2.JPG">
+<img style="width: 340px; height: 460px;" src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage2.JPG">
 <div style="background-color: white;">Chin Kang School had been selffunded since its founding in 1947, and received government aid only from 1956 onwards. As it was a struggle to operate the school with just its allotted funds, the association sold vouchers, such as the one featured here, to raise funds at various functions. The donor’s name and amount donated would be written on the voucher and displayed prominently at the event. Imprinted on the voucher is a phrase that reads “practise frugality so that you can help educate a child”. <i>All rights reserved, Chin Kang Huay Kuan Collection, National Library Board Singapore, 2018.</i></div>
 
-<img src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage3.JPG">
+<img style="width: 650px; height: 360px;" src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage3.JPG">
 <div style="background-color: white;">Before passports were widely used for overseas travel, a member could ask the association to issue a “Personal Reference” document that acknowledged his membership, verified his identity as well as requested protection from government officials and clansmen when overseas. <i>All rights reserved, Chin Kang Huay Kuan Collection, National Library Board Singapore, 2018.</i></div>
 
 <br>
@@ -34,4 +34,3 @@ The Chin Kang Huay Kuan Collection is in the process of being indexed and catalo
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
-
