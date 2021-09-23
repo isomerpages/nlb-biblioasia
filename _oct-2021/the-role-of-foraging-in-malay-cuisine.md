@@ -22,7 +22,7 @@ The Malays foraged in multiple ecological domains and habitats. This emerged fro
 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/Botok.jpg)
-<div style="background-color: white;">(Left) Foraged leaves and herbs to make botok-botok. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i> (Right) To prepare botok-botok, fish slices are marinated with spices and infused with flavourful foliage and herbs, before being wrapped in banana leaves and steamed. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+<div style="background-color: white;">(Left) Foraged leaves and herbs to make <i>botok-botok</i>. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i> (Right) To prepare <i>botok-botok</i>, fish slices are marinated with spices and infused with flavourful foliage and herbs, before being wrapped in banana leaves and steamed. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 
 On land, the Malays foraged in the spacious yards around their rural homes, in the <i>belukar</i> near their villages as well as along trails that connected them. Much could be made of the leaves, shoots, stems and roots found therein. In the dish known as <i>botok-botok</i>, fish steak is marinated with spices and infused with flavourful foliage and herbs before being wrapped in banana leaves and steamed. Flowers could also be gathered for consumption. The flowers of the durian tree – prior to their fruiting – were often collected and enjoyed as <i>ulam</i> (a dish of raw vegetables eaten with rice).
 
