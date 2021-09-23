@@ -98,7 +98,7 @@ Bungalow-type dwellings made of wood and zinc in Kampong Melayu. <i>All rights r
 
 <p style="font-size:15px;"><b>Mazelan Anuar</b> is a Senior Librarian with the National Library of Singapore. He has been involved in exhibition projects such as “Aksara: The Passage of Malay Scripts” and “Rihlah: Arabs in Southeast Asia”, and is part of the library’s NewspaperSG team, an online archive of Singapore newspapers dating back to 1831.</p>
 	
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
 	
 #### **REFERENCES**
 
