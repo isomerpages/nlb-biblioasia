@@ -19,7 +19,7 @@ Another change in 1946 was the establishment of a Relief Section to provide memb
 
 Over the decades, the clan association has steadfastly archived various materials documenting its major milestones in history, including the original membership re-registration notice, minutes of meetings and various drafts of the amended constitution. These items donated to the National Library Board will serve as useful primary documents on the history of the Chinese diaspora in Singapore and Southeast Asia. Materials from Chin Kang School will also enhance understanding of the early education scene in Singapore when vernacular schools operated before education became regulated by the government.
 
-The Chin Kang Huay Kuan Collection is in the process of being indexed and catalogued, and will be housed at the National Library building on Victoria Street.
+The Chin Kang Huay Kuan Collection is in the process of being indexed and catalogued, and will be housed at the National Library Building on Victoria Street.
 
 <img style="width: 340px; height: 460px;" src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage2.JPG">
 <div style="background-color: white;">Chin Kang School had been selffunded since its founding in 1947, and received government aid only from 1956 onwards. As it was a struggle to operate the school with just its allotted funds, the association sold vouchers, such as the one featured here, to raise funds at various functions. The donor’s name and amount donated would be written on the voucher and displayed prominently at the event. Imprinted on the voucher is a phrase that reads “practise frugality so that you can help educate a child”. <i>All rights reserved, Chin Kang Huay Kuan Collection, National Library Board Singapore, 2018.</i></div>
