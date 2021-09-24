@@ -4,7 +4,7 @@ permalink: /vol-17/issue-3/oct-dec-2021/ancientgold
 ---
 #### Where did ancient gold come from? What was it used for and what gold discoveries have been made in Singapore? **Foo Shu Tieng** has the answers.
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Opening%20image.jpg)
 <div style="background-color: white;">A 1694 print showing a gold mine (<i>tambang</i> in Indonesian) in Sumatra by Caspar Luyken and published by Willem van de Water. <i>Retrieved from Rijksmuseum, Amsterdam (RP-P-1896-A-19368-994).</i></div>
 
 Gold is a precious commodity admired for its beauty, rarity and monetary value. To understand how it became such a valued metal in Southeast Asia specifically, we need to look at the historical,[^1] archaeological[^2] and ethnographic[^3] evidence.
@@ -27,7 +27,7 @@ The ancient maritime trade between Southeast Asia and South Asia prior to the 1s
 
 Meanwhile, Indian rouletted ware (a kind of pottery with rouletted designs at the base)[^13] has been found in various parts of Southeast Asia such as the Malay Peninsula, Thailand, Vietnam, Java and Bali by the 1st century BCE.[^14] The gold trade in Southeast Asia would have initially relied on existing trade networks. 
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Armband%20with%20Kala%20motif%20.jpg)
 <div style="background-color: white;">A section of an armband with a kāla motif thought to be from East Java, 9th to 14th century CE. The Samuel Eilenberg-Jonathan P. Rosen Collection of Indonesian Gold, Bequest of Samuel Eilenberg and Gift of Jonathan P. Rosen, 1998. <i>Retrieved from The Metropolitan Museum of Art, New York (1998.544.58).</i></div>
 
 #### **Ancient Literary Sources**
@@ -55,7 +55,7 @@ Generally, there are two ways of obtaining gold from nature: panning and mining.
 
 Historically, gold was produced in Perak, Kelantan, Pahang, Negeri Sembilan, Melaka and Patani on the Malay Peninsula; the Barisan mountain range in West Sumatra; western Borneo; Luzon and Mindanao in the Philippines; Timor; northern Burma; northern and central Vietnam; Laos; as well as the Oddar Meanchey, Preah Vihear and Rattanakiri provinces in Cambodia.[^28]
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Copper%20Map.jpg)
 <div style="background-color: white;">The oldest item in the National Library’s Rare Materials Collection is this 1478 copper-engraved map titled <i>Vndecima Asiae Tabvla (Ptolemaic Map of India and Southeast Asia)</i> by Claudius Ptolemy and published by Arnold Buckinck in Rome. Ptolemy’s Geographia (2nd century) refers to Southeast Asia as the “Golden Peninsula” (Khersonese). <i>Collection of the National Library, Singapore (Accession no. B26055962B).</i></div>
 
 #### **Making Gold**
@@ -72,7 +72,7 @@ One theory explaining why gold became so popular in Southeast Asia is that gold 
 
 Gold ornaments were part of early long-distance trade networks and the gold artefacts found at the stone sarcophagus burial site of Pangkung Paruk on Bali (2nd to 4th century CE) seems to support this. The site yielded gold-glass beads typically found at Western Indian Ocean sites as well as gold ornaments which were tested and found to be similar to those discovered at Giong Ca Vo in Vietnam and Khlong Thom in Thailand.[^35]
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Mahakala%20statue.jpg)
 <div style="background-color: white;">Replica of the Padang Roco Mahākāla statue with a Kāla belt at Museum Siginjei Jambi, 2013. <i>Courtesy of Foo Shu Tieng.</i></div>
 
 #### **Gold in Singapore**
@@ -81,7 +81,7 @@ In Singapore, 10 ancient gold ornaments said to be related to the Majapahit empi
 
 Were the gold ornaments found in Singapore part of royal regalia, made by Majapahit artisans? Geologically, Singapore does not have native gold, so the gold would have to be imported.[^43] Further trace element analysis on the artefacts, such as those done for other assemblages from Southeast Asia, may provide clues that point to a more precise point of origin but as gold is often recycled, the results may not be conclusive.[^44]
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Candi%20Sukuh.jpg)
 <div style="background-color: white;">A temple relief thought to depict smithing activities in Candi Sukuh, Central Java. Gold was sometimes used in Hindu-Buddhist temple consecrations. <i>Courtesy of Foo Shu Tieng.</i></div>
 
 Archaeological excavations in Singapore carried out between 1984 and 2017 have uncovered additional pieces of gold at Fort Canning and other sites in the civic district, consisting of small ornament fragments or gold foil, interpreted as part of secondary deposits.[^45] The 1994–95 excavation of the Parliament House site, for example, yielded a few pieces of gold artefacts: part of a jewellery strap; a sheet fragment with incised decoration; part of a ring; as well as a piece of “irregularly” shaped foil, possibly for rework by a goldsmith.[^46]
@@ -90,7 +90,7 @@ According to ancient Javanese inscriptions from the 9th to 10th century CE, ther
 
 Gold was a medium of exchange on the island in the 14th century. Chinese traders used something called “red gold” (紫金) as a form of currency in places such as Longyamen (龍牙門) and Banzu (班卒) on the island, thought to be located at or near the Singapore Straits.[^49]
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Majapahit.jpg)
 <div style="background-color: white;">Javanese-style gold jewellery dating back to the Majapahit period was discovered at Fort Canning in Singapore during excavation works in 1928. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 If lead or mercury vessels were found, this could be evidence of local gold working as these vessels were used to help separate gold from the ore. There is a theory that a type of stoneware jar found in large numbers in soil layers dating to the 14th century in several sites in Singapore, as well as other sites in Southeast Asia such as Kota Cina in Sumatra and Kedah and Pahang on the Malay Peninsula, were used for that very purpose. However, a recent study has cast doubt on this theory as the shape of the vessel is unlikely to be suited for carrying mercury.[^50]
