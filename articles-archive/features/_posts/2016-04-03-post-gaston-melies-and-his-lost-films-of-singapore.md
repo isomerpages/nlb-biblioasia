@@ -106,7 +106,7 @@ Méliès’ own approach to film raises many questions of identity, otherness an
 
 #### **NOTES**
 
-[^1]:In Vol. 2 Issue 01 (April 2015) of BiblioAsia, in the article Tan, B. (2015, April-June). *[From Tents to Picture Palaces: Early Singapore Cinema](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 11* (2). *BiblioAsia*. Retrieved from BiblioaAsia website, *A Day at Singapore* was incorrectly attributed to Georges Méliès when it should be Gaston Méliès. The article cites the online film source IMDb, which mentions Georges Méliès in the film credits. Promotional posters of the film that contain the words G. Méliès is a likely reason why this confusion may have arisen. Georges Méliès rarely filmed outside the confines of his studio in the Parisian suburbs and there is no record of him ever travelling to Singapore.
+[^1]:In Vol. 2 Issue 01 (April 2015) of *BiblioAsia*, in the article Tan, B. (2015, April-June). *[From Tents to Picture Palaces: Early Singapore Cinema](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 11* (2). *BiblioAsia*. Retrieved from BiblioaAsia website, *A Day at Singapore* was incorrectly attributed to Georges Méliès when it should be Gaston Méliès. The article cites the online film source IMDb, which mentions Georges Méliès in the film credits. Promotional posters of the film that contain the words G. Méliès is a likely reason why this confusion may have arisen. Georges Méliès rarely filmed outside the confines of his studio in the Parisian suburbs and there is no record of him ever travelling to Singapore.
 
 [^2]:The Film Foundation. (2016). *Preservation*. Retrieved from The Film Foundation website.
 
