@@ -123,7 +123,7 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 
 <img style="width: 630px; height: 380px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels15.JPG">
 <div style="background-color: white;">(Left) An advertisement touting the various features of the Mercedes Benz 250S, such as its powerful 6-cylinder engine, the ergonomically built seats, the reliable breaking system, and the light and quick steering. <i>Image reproduced from The Straits Times Annual, 1968, p. 136.</i><br>
-(Right) This advertisement portrays car ownership as a happy family ideal, with a picture perfect modern family admiring their brand new Morris motorcar. <i>Image reproduced from Her World, November 1960.</i></div>
+(Right) This advertisement portrays car ownership as a happy family ideal, with a picture perfect modern family admiring their brand new Morris motorcar. <i>Image reproduced from Her World, November 1960.</i></div><br>
 
 |**TAXI! TAXI!**
 
