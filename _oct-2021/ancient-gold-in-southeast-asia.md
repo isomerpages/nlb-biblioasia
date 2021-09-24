@@ -118,7 +118,7 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^4]: Jose Eleazar R. Bersales, “Looking for Yamashita’s Gold,” *Philippine Quarterly of Culture and Society* 44, nos. 3 and 4 (2016): 183–210. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
-[^5]: Andreas Reinecke, Vin Laychour and Sonetra Seng, *The First Golden Age of Cambodia: Excavation at Prohear *(Bonn: Andreas Reinecke, 2009), 19–21, ResearchGate, https://www.researchgate.net/publication/274251428_2009_The_First_Golden_Age_of_Cambodia_Excavation_at_Prohear_with_Khmer_abstract_Bonn.
+[^5]: Andreas Reinecke, Vin Laychour and Sonetra Seng, *The First Golden Age of Cambodia: Excavation at Prohear*(Bonn: Andreas Reinecke, 2009), 19–21, ResearchGate, https://www.researchgate.net/publication/274251428_2009_The_First_Golden_Age_of_Cambodia_Excavation_at_Prohear_with_Khmer_abstract_Bonn.
 
 [^6]: Denis Byrne, “The Problem with Looting: An Alternative Perspective on Antiquities Trafficking in Southeast Asia.” *Journal of Field Archaeology* 41, no. 3 (20 June 2016): 344–54, Taylor & Francis Online, https://www.tandfonline.com/doi/abs/10.1080/00934690.2016.1179539.
 
