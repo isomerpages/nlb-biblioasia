@@ -55,9 +55,10 @@ Varieties of Japanese fish were first introduced to Singapore during the Japanes
 <div style="background-color: white;"><b>农业学校 | Farm School (1967)</b><br>
 The life of a trainee at the Farm School is depicted through photos in this booklet produced by the Primary Production Department. Trainees started their day with practical farming work in the morning and attended lectures in the afternoon. The school also organised film shows and tours to feedmills, private farms, factories and places of interest. Additionally, well-known personalities in the farming industry were invited to give talks on farming and other related topics.</div>
 
-<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-4/when-there-were-farms/Farm3.JPG">
-<div style="background-color: white;"><b>(Left) 
-<b>(Right) Menternak Kambing | Rearing of Goats (1965)</b><br>
+<br>
+
+<img src="/images/Vol-14-issue-4/when-there-were-farms/Farms6.JPG">
+<div style="background-color: white;"><b>Menternak Kambing | Rearing of Goats (1965)</b><br>
 Goat farms in 1960s Singapore reared goats ranging from local species to breeds imported from Switzerland and India. Booklets published by the Primary Production Department provided farmers with tips on taking care of different types of goats, including breeding methods, feeding and the proper ways of housing the goats.</div>
 
 <br>
