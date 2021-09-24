@@ -37,9 +37,6 @@ On the subject of Legal Deposit, I should take this opportunity to highlight the
 We hope you enjoy reading this edition of BiblioAsia.
 
 <br>
-<div style="background-color: white;">
-<img src="/images/Vol-14-issue-3/WY.JPG" style="width: 100px; height: 100px;">
 <b>Wai Yin Pryke</b>
-</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
