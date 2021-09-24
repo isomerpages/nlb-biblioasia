@@ -80,7 +80,7 @@ Méliès’ own approach to film raises many questions of identity, otherness an
 
 |**MÉLIÉS’ FICTION MELODRAMAS**|
 
-|**The Poisoned Darts**[^32]|
+|**The Poisoned Darts** [^32]|
 
 |A shipwrecked crew, comprising an officer and several men, find themselves on a remote island in the East Indies. After consuming the scant stores saved from the ship, they venture inland into the forest. One of the crew, having seized a native girl one evening, is upset when the officer releases the girl and sends her on her way. Unhappy by this turn of events, the men lay hold of the officer the next morning and bind him to a tree. They resolve to kill him, and lots are drawn to determine who shall commit the heinous deed. One man is chosen, and is in the act of raising the officer’s pistol to shoot him when a poisoned dart from the  direction of the jungle ends the would-be perpetrator’s life. The officer’s bonds are at the same time severed by a knife, and a dusky silhouette quickly disappears into the bushes behind the tree, unseen by the captive officer.|
 
@@ -88,7 +88,7 @@ Méliès’ own approach to film raises many questions of identity, otherness an
 
 |<img style="width:500px" src="/images/Vol-12-issue-1/gaston-melies/09-gastonmelies.jpg">This still from Gaston Méliès’ fiction film The Poisoned Darts, published in the 19 July 1913 edition of The Moving Picture World – one of the earliest periodicals on the motion film industry – is the only known scene taken from the film that was shot on location in Singapore. Filmed at “Passir Riz” (Pasir Ris), the non-Caucasian actors in the scene are likely Malay “natives” living in the kampongs in the area. <i>Courtesy of “Gaston Méliès and his Wandering Star Film Company” © Nocturnes Productions, 2015.</i>|
 	
-|**His Chinese Friend**[^33]|
+|<br><br>**His Chinese Friend** [^33]|
 
 |Playing on the streets of Singapore with Wing, his little Chinese friend, three-year- old Charlie Foster, an American lad, is suddenly kidnapped. It does not take long for Wing to grasp the severity of the situation; he promptly informs the police and saves his playmate’s life.|
 
