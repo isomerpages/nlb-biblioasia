@@ -6,7 +6,7 @@ layout: post
 ---
 #### *Emily of Emerald Hill* is one of Singapore’s most iconic single-person plays. **Corrie Tan** tells you more about the history of the monodrama on the Singapore stage.
 
-An unnamed man stepped onto a bare stage in 1985. He was dressed in a plain white shirt and black pants, the colours of mourning – but also the Singaporean workingman’s uniform. Anonymous, blending in, like everyone else. His attire echoed the type of clothing that itinerant Chinese storytellers wore during the colonial period and into the 1960s as they regaled audiences with tales of martial arts and straying deities.1
+An unnamed man stepped onto a bare stage in 1985. He was dressed in a plain white shirt and black pants, the colours of mourning – but also the Singaporean workingman’s uniform. Anonymous, blending in, like everyone else. His attire echoed the type of clothing that itinerant Chinese storytellers wore during the colonial period and into the 1960s as they regaled audiences with tales of martial arts and straying deities.[^1]
 
 But this man was not a storyteller, even though he did tell a story that would go on to captivate Singaporean theatre audiences and leave such a mark on local theatre history that the play has become, perhaps, one of the country’s most cited productions today. It was Kuo Pao Kun’s cutting allegory The Coffin is Too Big for the Hole, where a frustrated, man-in-the-street narrator grapples with a bizarre bureaucracy and society’s traps of conformity at his grandfather’s funeral because the deceased’s coffin is, as the title puts it, just too big for the hole.
 
