@@ -152,3 +152,13 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 |This essay is reproduced from the book, <i>Between the Lines: Early Print Advertising in Singapore 1830s-1960s</i>. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET]
 
 |The exhibition “Selling Dreams: Early Advertising in Singapore” takes place at  level 10 of the National Library Building on Victoria Street. A variety of print advertisements from the 1830s on subjects such as food, fashion, entertainment, travel and more are on display until 24 February 2019.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels16.JPG" style="width: 100px; height: 100px;">
+<b>Mazelan Anuar</b> is a Senior Librarian with the National Library, Singapore. His research interests are in early Singapore Malay publications and digital librarianship. He manages the National Library’s Malay language collection as well as the NewspaperSG portal. (He is a safe driver, and owns the reliable and down-to-earth Toyota Wish.)
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
