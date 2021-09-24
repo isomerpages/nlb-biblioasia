@@ -4,7 +4,6 @@ date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/when-there-wre-farms/
 layout: post
 ---
-
 #### **Zoe Ye**o presents a selection of publications on farming in Singapore from the National Library’s Legal Deposit Collection.
 
 <img src="/images/Vol-14-issue-4/when-there-were-farms/Farm1.JPG">
@@ -40,15 +39,24 @@ Additionally, these farms have transformed their traditional business models by 
 
 Here is a sampling of publications on farms and farming from the National Library’s Legal Deposit Collection.
 
-<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-4/when-there-were-farms/Farm2.JPG">
-<div style="background-color: white;"><b>(Left) 农牧月报 | Farming Monthly (1962)</b><br>
-This publication was started by pioneering poultry farmer Ho Seng Choon, with the aim of keeping farmers in Singapore and Malaya updated on the latest information and technology on poultry farming. Ho’s farm, Lian Wah Hang Quail and Poultry Farm, is one of the oldest surviving farms in Singapore today. This inaugural issue, published in August 1962, covers subjects such as best practices in poultry farming and the challenges encountered in the rearing of domesticated birds.
-<b>(Right) 日本鱼及其饲养 | Rearing of Japanese Fishes (1963)</b><br>
+<img src="/images/Vol-14-issue-4/when-there-were-farms/Farms3.JPG">
+<div style="background-color: white;"><b>农牧月报 | Farming Monthly (1962)</b><br>
+This publication was started by pioneering poultry farmer Ho Seng Choon, with the aim of keeping farmers in Singapore and Malaya updated on the latest information and technology on poultry farming. Ho’s farm, Lian Wah Hang Quail and Poultry Farm, is one of the oldest surviving farms in Singapore today. This inaugural issue, published in August 1962, covers subjects such as best practices in poultry farming and the challenges encountered in the rearing of domesticated birds.</div>
+
+<br>
+
+<img src="/images/Vol-14-issue-4/when-there-were-farms/Farms4.JPG">
+<div style="background-color: white;"><b>日本鱼及其饲养 | Rearing of Japanese Fishes (1963)</b><br>
 Varieties of Japanese fish were first introduced to Singapore during the Japanese Occupation as a substitute for the falling number of local saltwater fish and carps, whose import from China was restricted during the war. Known for their tenacity and ability to adapt to both fresh and salt water, Japanese breeds grew to become one of the most commonly reared fish in Singapore in the 1960s.</div>
 
+<br>
+
+<img src="/images/Vol-14-issue-4/when-there-were-farms/Farms5.JPG">
+<div style="background-color: white;"><b>农业学校 | Farm School (1967)</b><br>
+The life of a trainee at the Farm School is depicted through photos in this booklet produced by the Primary Production Department. Trainees started their day with practical farming work in the morning and attended lectures in the afternoon. The school also organised film shows and tours to feedmills, private farms, factories and places of interest. Additionally, well-known personalities in the farming industry were invited to give talks on farming and other related topics.</div>
+
 <img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-4/when-there-were-farms/Farm3.JPG">
-<div style="background-color: white;"><b>(Left) 农业学校 | Farm School (1967)</b><br>
-The life of a trainee at the Farm School is depicted through photos in this booklet produced by the Primary Production Department. Trainees started their day with practical farming work in the morning and attended lectures in the afternoon. The school also organised film shows and tours to feedmills, private farms, factories and places of interest. Additionally, well-known personalities in the farming industry were invited to give talks on farming and other related topics.
+<div style="background-color: white;"><b>(Left) 
 <b>(Right) Menternak Kambing | Rearing of Goats (1965)</b><br>
 Goat farms in 1960s Singapore reared goats ranging from local species to breeds imported from Switzerland and India. Booklets published by the Primary Production Department provided farmers with tips on taking care of different types of goats, including breeding methods, feeding and the proper ways of housing the goats.</div>
 
