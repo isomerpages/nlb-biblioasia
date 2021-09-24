@@ -44,3 +44,21 @@ In June 1907, *The Straits Times* announced that it was devoting a special colum
 <img src="/images/Vol-14-issue-3/wheels-of-change/Wheels4.JPG">
 <div style="background-color: white;">(Left)The first automobile in Singapore was advertised as a horseless carriage. Its claim as “being quite silent” was most likely an exaggeration. <i>Image reproduced from The Straits Times, 29 August 1896, p. 1.</i><br>
 (Right) Instead of purchasing an expensive motorcycle or an even more costly automobile, the motorised bicycle was a viable alternative for those with a smaller budget. This advertisement shows a motorised wheel attached to the rear wheel of a bicycle to make it go faster. As there were no proper traffic rules in the early 20th century, people came up with ingenious ways to travel. <i>Image reproduced from The Straits Times, 10 March 1921, p. 2.</i></div>
+
+The monthly *Motor Car and Athletic Journal* was launched in March 1908, but it proved short-lived and ceased publication after 12 issues.17 It was only in the 1930s that the Automobile Association of Malaya (AAM), which SAC became a branch of in 1932, began to venture into publishing, with *Malayan Motorist* (first issue 1933), *Motoring in Malaya* (1935), *Handbook of the Automobile Association of Malaya* (1939) and, much later, *AAM News Bulletin* (1949).18 Car advertisements were regularly featured in AAM’s magazines as well as in the newspapers.
+
+#### **Reliability and Affordability**
+
+Up until the 1920s, car advertisements in the United States and Europe tended to highlight the vehicles’ technical features in order to familiarise potential owners with the exciting yet intimidating new world of automobile technology.19 Manufacturers recognised that scepticism about dependability and reliability were major obstacles to widespread public acceptance of motor vehicles as a means of private transportation.20
+
+It was a similar scenario in Singapore. Distributors and agents highlighted both the reliability and affordability of their vehicles by touting the technology behind the cars and their attractive prices. There were also attempts at associating prestige with the advertised cars, but this was meant to build brand reputation and reflected the manufacturers’ ambitions rather than consumers’ desire for high-end luxury vehicles.
+
+#### **Ford in Singapore**
+
+In 1909, just a year after Henry Ford’s iconic Model T was introduced in America and took the world by storm, Ford cars entered the Singapore market.21 Initially imported by Gadelius & Company, Ford’s presence grew in Singapore when the Ford Motor Company of Malaya was established in 1926 to supervise the supply and distribution of its products in Malaya, the Dutch East Indies, Siam and Borneo.22 It initially carried out car assembly work in a garage on Enggor Street before expanding to larger premises on nearby Prince Edward Road in 1930. In 1941, the company moved to a newly built factory in Bukit Timah.23
+
+Throughout this time, as well as in the decade following the end of World War II, Ford’s advertisements in Singapore rarely departed from its marketing tactic of playing up the efficiency of its cars and competitive pricing.
+
+<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels5.JPG">
+<div style="background-color: white;">Ford’s Consul Cortina was marketed as a woman’s “dream car”. The target customer as depicted in the advertisement here is a young, modern woman, suggesting the rising status of Singapore women in the 1960s. <i>Image reproduced from The Straits Times Annual, 1964, p. xxvii.</i></div>
+
