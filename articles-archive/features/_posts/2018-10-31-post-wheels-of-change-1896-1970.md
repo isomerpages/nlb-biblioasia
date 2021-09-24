@@ -97,9 +97,9 @@ Japanese cars were much cheaper than their American and European counterparts, a
 
 <center><b>
 1830s
-	</b></center>
-
-Horse- and pony-drawn carriages were a common form of transportation throughout the 19th and early 20th centuries, along with rickshaws, before they were phased out by motor vehicles. Horses and carriages were auctioned in the municipal square and advertised in local newspapers such as the Singapore Chronicle. *Images reproduced from Singapore Chronicle and Commercial Register, 30 April 1836, p. 2, and 9 July 1836, p.1.*
+</b></center>
 
 <img src="/images/Vol-14-issue-3/wheels-of-change/Wheels9.JPG">
+<div style="background-color: white;">
+Horse- and pony-drawn carriages were a common form of transportation throughout the 19th and early 20th centuries, along with rickshaws, before they were phased out by motor vehicles. Horses and carriages were auctioned in the municipal square and advertised in local newspapers such as the Singapore Chronicle. <i>Images reproduced from Singapore Chronicle and Commercial Register, 30 April 1836, p. 2, and 9 July 1836, p.1.</i></div>
 
