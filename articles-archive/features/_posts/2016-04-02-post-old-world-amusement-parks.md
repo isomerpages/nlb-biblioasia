@@ -155,7 +155,7 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 [^9]:Getting ready for trade fair. (1933, May 12). The Straits Times, p. 12; Great World’s fifth anniversary. (1936, July 29). The Straits Times, p. 12. Retrieved from NewspaperSG.
 
-[^10]:National Archives of Singapore, 1950; Yong, C.F. (1992). Chinese leadership and power in colonial Singapore (p. 309). Singapore: Times Academic Press. (Call no.: RSING 959.5702 YON); Opening of Happy World. (1937, May 7). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 9. Retrieved from NewspaperSG.
+[^10]:[National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b05950b9-1161-11e3-83d5-0050568939ad), 1950; Yong, C.F. (1992). *[Chinese leadership and power in colonial Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6421722)* (p. 309). Singapore: Times Academic Press. (Call no.: RSING 959.5702 YON); [Opening of Happy World](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370507-1.2.65). (1937, May 7). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 9. Retrieved from NewspaperSG.
 
 [^11]:[When three parks ruled Singapore’s night life](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900325-1.2.49.3.1). (1990, March 25). *The Straits Times*, p. 2; [Singapore’s new playground](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370427-1.2.111.2). (1937, April 27). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 1. Retrieved from NewspaperSG.
 
