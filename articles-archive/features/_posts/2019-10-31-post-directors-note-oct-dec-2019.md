@@ -4,3 +4,4 @@ date: 2019-10-31
 permalink: /vol-14/issue-3/oct-dec-2019/directors-note/
 layout: post
 ---
+https://raw.githubusercontent.com/isomerpages/nlb-ba/staging/images/Vol-14-issue-3/WY.JPG
