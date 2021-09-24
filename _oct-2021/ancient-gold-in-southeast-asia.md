@@ -56,7 +56,7 @@ Generally, there are two ways of obtaining gold from nature: panning and mining.
 Historically, gold was produced in Perak, Kelantan, Pahang, Negeri Sembilan, Melaka and Patani on the Malay Peninsula; the Barisan mountain range in West Sumatra; western Borneo; Luzon and Mindanao in the Philippines; Timor; northern Burma; northern and central Vietnam; Laos; as well as the Oddar Meanchey, Preah Vihear and Rattanakiri provinces in Cambodia.[^28]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Copper%20Map.jpg)
-<div style="background-color: white;">The oldest item in the National Library’s Rare Materials Collection is this 1478 copper-engraved map titled <i>Vndecima Asiae Tabvla (Ptolemaic Map of India and Southeast Asia)</i> by Claudius Ptolemy and published by Arnold Buckinck in Rome. Ptolemy’s Geographia (2nd century) refers to Southeast Asia as the “Golden Peninsula” (Khersonese). <i>Collection of the National Library, Singapore (Accession no. B26055962B).</i></div>
+<div style="background-color: white;">The oldest item in the National Library’s Rare Materials Collection is this 1478 copper-engraved map titled <i>Vndecima Asiae Tabvla (Ptolemaic Map of India and Southeast Asia)</i> by Claudius Ptolemy and published by Arnold Buckinck in Rome. Ptolemy’s <i>Geographia</i> (2nd century) refers to Southeast Asia as the “Golden Peninsula” (<i>Khersonese</i>). <i>Collection of the National Library, Singapore (Accession no. B26055962B).</i></div>
 
 #### **Making Gold**
 
