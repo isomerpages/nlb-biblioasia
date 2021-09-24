@@ -137,7 +137,7 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 #### **NOTES**
 
-[^1]:Chandy, G. (1980, April 28). Worlds of days gone by. New Nation, p. 9. Retrieved from NewspaperSG. 
+[^1]:Chandy, G. (1980, April 28). [Worlds of days gone by](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800428-1.2.41). *New Nation*, p. 9. Retrieved from [NewspaperSG](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800428-1.2.41.aspx?q=Worlds+of+days+gone+by&mode=advanced&df=19800428&dt=19800428&ct=article%2cadvertisement%2cillustration%2cletter%2cobituary%2cmiscellaneous&t=beritaharian%2cdailyadvertiser%2ceasterndaily%2ckabarslalu%2cmaltribune%2cmalayansatpost%2cmiddayherald%2cnewnation%2csingchronicle%2csingdailynews%2csingmonitor%2csingweekherald%2cstraitsadvocate%2cstraitschinherald%2cstraitseurasian%2cstraitsmail%2cstraitsobserver%2cstraitstelegraph%2cstoverland%2cstweekly%2cbiztimes%2cnewpaper%2cfreepress%2csingfreepressa%2csingfreepressb%2cstraitstimes%2ctoday%2cweeklysun%2cnysp%2cscjp%2clhzb%2clhwb&page=1&sort=relevance&token=by%2cgone%2cdays%2cof%2cworlds&sessionid=33be0ab2431a4b2dbc0adb9d51d69042). 
 
 [^2]:Chicago Historical Society. (1999). The World’s Columbian Exposition. Retrieved from Chicago Historical Society website; Maranzani, B. (2013, May 1). 7 things you may not know about the 1893 Chicago World’s Fair. Retrieved from History.com website.
 
