@@ -26,7 +26,9 @@ permalink: /editors-picks/art
 
 #### [Malay Seals from Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals)
 
-<img src="/images/Vol-16-issue-1/malay-seals/sultan-ali.png" style="float:left; width:350px">	Malay seals of the 19th century hold important information, says Annabel Teh Gallop.																																														<br>										
+<img src="/images/Vol-16-issue-1/malay-seals/sultan-ali.png" style="float:left; width:70%; height:auto;">	Malay seals of the 19th century hold important information, says Annabel Teh Gallop.<br>
+<br>										
+	<br>
 	<br>
 	<br>
 <br>
