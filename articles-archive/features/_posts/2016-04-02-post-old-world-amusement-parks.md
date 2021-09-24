@@ -147,11 +147,11 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 [^5]:Malaya-Borneo: Closing scene at the great exhibition. (1922, April 18). The Straits Times, p. 9. Retrieved from NewspaperSG; Holden, P. (2004). At home in the worlds. In R. Bishop, et. al. (Eds.), Beyond description: Singapore space historicity (p. 87). London: Routledge. (Call no.: RSING 307.1216095957 BEY)
 
-[^6]:New entertainment centre. (1923, August 2). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^6]:[New entertainment centre](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230802-1.2.79). (1923, August 2). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^7]:The Straits Times, 2 Aug 1923, p. 10; Development of the New World. (1935, October 8). The  Singapore Free Press and Mercantile Advertiser (1884–1942), p. 23. Retrieved from NewspaperSG.
+[^7]:*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230802-1.2.79)*, 2 Aug 1923, p. 10; [Development of the New World](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.18.25). (1935, October 8). *The  Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 23. Retrieved from NewspaperSG.
 
-[^8]:Page 7 advertisements column 1: The Great World Show. (1931, June 1). The Straits Times, p. 7. Retrieved from NewspaperSG; National Archives of Singapore. (c1950). *[View of entrance to Great World Amusement Park,1950s](https://www.nas.gov.sg/archivesonline/photographs/record-details/b05950b9-1161-11e3-83d5-0050568939ad)* [Image of Photograph]. Retrieved from National Archives of Singapore website; Tong, K. (1997, October 11). [Great World](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971011-1.2.105.6.1). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^8]:[Page 7 advertisements column 1: The Great World Show](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19310601-1.2.17.1). (1931, June 1). *The Straits Times*, p. 7. Retrieved from NewspaperSG; National Archives of Singapore. (c1950). *[View of entrance to Great World Amusement Park,1950s](https://www.nas.gov.sg/archivesonline/photographs/record-details/b05950b9-1161-11e3-83d5-0050568939ad)* [Image of Photograph]. Retrieved from National Archives of Singapore website; Tong, K. (1997, October 11). [Great World](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971011-1.2.105.6.1). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 [^9]:[Getting ready for trade fair](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330512-1.2.84). (1933, May 12). *The Straits Times*, p. 12; [Great World’s fifth anniversary](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360729-1.2.76). (1936, July 29). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
