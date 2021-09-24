@@ -179,13 +179,13 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 [^21]:Ho, H.L. (2014). The 1950s striptease debates in Singapore: Getai and the politics of culture (pp. 15– 18). [Unpublished master’s thesis, National University of Singapore]. Retrieved from National University of Singapore ScholarBank@NUS website.
 
-[^22]:金人 [Jin Ren]. (1993, November 28). 五十年代歌台点 滴. 联合早报 [Lianhe Zaobao], p. 50; 别忘了另一段歌台 历史. (2007, October 20). 联合早报 [Lianhe Zaobao], p. 25. Retrieved from NewspaperSG.
+[^22]:金人 [Jin Ren]. (1993, November 28). [五十年代歌台点 滴](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19931128-1.2.70.1.1). *联合早报* [*Lianhe Zaobao*], p. 50; [别忘了另一段歌台 历史](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20071020-1.2.41.4.1). (2007, October 20). *联合早报* [*Lianhe Zaobao*], p. 25. Retrieved from NewspaperSG.
 
-[^23]:Fu, H. (1953, February 26). Pretty girls, songs, dance and comedy. The Singapore Free Press, p. 8. Retrieved from NewspaperSG; Ho, 2014, p. 20.
+[^23]:Fu, H. (1953, February 26). [Pretty girls, songs, dance and comedy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19530226-1.2.86). *The Singapore Free Press*, p. 8. Retrieved from NewspaperSG; Ho, 2014, p. 20.
 
-[^24]:Ho, 2014, pp. 17–18, 35–37, 120; The Straits Times, 25 Mar 1990, p. 2.
+[^24]:Ho, 2014, pp. 17–18, 35–37, 120; *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900325-1.2.49.3.1)*, 25 Mar 1990, p. 2.
 
-[^25]:The Straits Times, 12 Jun 2000, p. 7; De Souza, A. (1998, July 16). Of fights and sweaty diners. The Straits Times, p. 29. Retrieved from NewspaperSG; Shaw Organisation, 2007; National Heritage Board. (2006). Jalan Besar: A heritage trail (p. 12). Singapore: National Heritage Board. (Call no.: RSING 959.57 JAL)
+[^25]:*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000612-1.2.82.5)*, 12 Jun 2000, p. 7; De Souza, A. (1998, July 16). [Of fights and sweaty diners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980716-1.2.42.1). *The Straits Times*, p. 29. Retrieved from NewspaperSG; Shaw Organisation, 2007; National Heritage Board. (2006). *[Jalan Besar: A heritage trail](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12976758)* (p. 12). Singapore: National Heritage Board. (Call no.: RSING 959.57 JAL)
 
 [^26]:Leong, W.K. (2000, May 20). [The last days of Gay World](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000520-1.2.67.18). *The Straits Times*, p. 69. Retrieved from NewspaperSG; *[The Singapore Free Press and Mercantile Advertiser (1884–1942)](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370427-1.2.111.2)*, 27 Apr 1937, p. 1; [Happy World is chosen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19520208-1.2.101). (1952, February 8). *The Straits Times*, p. 7; [Gay World Stadium gets $22,000 face-lift for Seap basketball matches](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730729-1.2.35). (1973, July 29). *The Straits Times*, p. 6. Retrieved from NewspaperSG 
 
