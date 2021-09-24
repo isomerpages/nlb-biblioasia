@@ -177,18 +177,21 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 [^13]:Eckermann, E. (2001). [*World history of the automobile*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907795) (p. 25). Warrendale, PA: Society of Automative Engineers. (Call no.: R 629.22209 ECK)
 [^14]:[Yap](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12982445), 2007, p. 3.
 [^15]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070606-1.2.57). (1907, June 6). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
-[^16]:[Motors & motoring](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100514-1.2.85). (1910, May 14). The Straits Times, p. 11; [The motoring world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19110106-1.2.89). (1911, January 6). The Straits Times, p. 11; The motoring world. (1928, December 15). The Straits Times, p. 18. Retrieved from NewspaperSG.
-[^17]:
-[^18]:
-[^19]:
-[^20]:
+[^16]:[Motors & motoring](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100514-1.2.85). (1910, May 14). *The Straits Times*, p. 11; [The motoring world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19110106-1.2.89). (1911, January 6). *The Straits Times*, p. 11; [The motoring world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19281215-1.2.130). (1928, December 15). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
+[^17]:[Makepeace, Brooke, & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 362.
+[^18]:[Yap](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12982445), 2007, pp. 53, 58, 73.
+[^19]:Laird, P.W. (1996, October). “The car without a single weakness”: Early automobile advertising. *Technology and Culture, 37* (4), 796–812, p. 797. Retrieved from JSTOR via NLB’s [eResources](http://www.eresources.nlb.gov.sg/) website. 
+[^20]:Scharchburg, R.P. (1993). [*Carriages without horses: J. Frank Duryea and the birth of the American automobile industry*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6632455) (p. 119). Warrendale, PA: Society of Automative Engineers. (Call no.: RBUS 338.7629222 SCH)
+[^21]:[Why buy a motor car](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19091224-1.2.89.1). (1909, December 24). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^22]:[Ford Company opens here](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261123-1.2.32). (1926, November 23). *The Singapore Free Press*, p. 8. Retrieved from NewspaperSG.
+[^23]:[Ford company in Malaya is 30 years old](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561109-1.2.141.1). (1956, November 9). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
+[^24]:Soh, T.K. (1971, October 11). [Japanese cars to cost more](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711011-1.2.4). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 
 
 
 
 
-Makepeace, Brooke, & Braddell, 1991, p. 362.
-Yap, 2007, pp. 53, 58, 73.
-Laird, P.W. (1996, October). “The car without a single weakness”: Early automobile advertising. Technology and Culture, 37 (4), 796–812, p. 797. Retrieved from JSTOR via NLB’s eResources website. 
-Scharchburg, R.P. (1993). Carriages without horses: J. Frank Duryea and the birth of the American automobile industry (p. 119). Warrendale, PA: Society of Automative Engineers. (Call no.: RBUS 338.7629222 SCH)
+
+
+
