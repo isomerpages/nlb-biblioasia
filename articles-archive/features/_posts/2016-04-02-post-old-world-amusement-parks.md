@@ -111,4 +111,9 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 |**AMUSEMENT PARKS: A TIMELINE**|
 
 |**New World**|
-|1923: Opens on 1 August. <br>1929: Establishes Singapore’s first cabaret.<br>1938: Shaw Brothers acquires New World.<br>1942: Remains open during the Japanese Occupation.<br>1987: City Developments buys over New World.<br>2009: Site is redeveloped into the first eco-friendly mall called City Square Mall.|
+
+|1923: Opens on 1 August.<br>1929: Establishes Singapore’s first cabaret.<br>1938: Shaw Brothers acquires New World.<br>1942: Remains open during the Japanese Occupation.<br>1987: City Developments buys over New World.<br>2009: Site is redeveloped into the first eco-friendly mall called City Square Mall.|
+
+|**Great World**|
+
+|1931: Opens on 1 June.<br>1940: Shaw Brothers acquires Great World.<br>1942: Remains open during the Japanese Occupation.<br>1964: Ceases operations but its cinemas and restaurants remain open.<br>1979: Malaysia’s Sugar King Robert Kuok buys over Great World.<br>1997: Site is redeveloped into a residential-commercial project called Great World City|
