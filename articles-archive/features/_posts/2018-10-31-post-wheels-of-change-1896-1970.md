@@ -172,22 +172,23 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 [^8]:Davies, D. (1955, March 13). [Mr. Buckley and his coffee machine](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550313-1.2.93). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 [^9]:Groom, P. (1957, November 4). [Famous ‘firsts’ of days gone by in S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19571104-1.2.52). *The Singapore Free Press*, p. 10. Retrieved from NewspaperSG.
 [^10]:[Makepeace, Brooke, & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 364.
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
+[^11]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550313-1.2.93), 13 Mar 1955, p. 12.
+[^12]:Yap, J. (2007). [*Motoring beyond 100: Celebrating 100 years of the Automobile Association of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12982445) (p. 15). Singapore: Automobile Association of Singapore. (Call no.: RSING 629.2830605957 YAP)
+[^13]:Eckermann, E. (2001). [*World history of the automobile*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907795) (p. 25). Warrendale, PA: Society of Automative Engineers. (Call no.: R 629.22209 ECK)
+[^14]:[Yap](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12982445), 2007, p. 3.
+[^15]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070606-1.2.57). (1907, June 6). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^16]:[Motors & motoring](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100514-1.2.85). (1910, May 14). The Straits Times, p. 11; [The motoring world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19110106-1.2.89). (1911, January 6). The Straits Times, p. 11; The motoring world. (1928, December 15). The Straits Times, p. 18. Retrieved from NewspaperSG.
 [^17]:
 [^18]:
 [^19]:
 [^20]:
 
 
- 
 
 
 
 
-
-
+Makepeace, Brooke, & Braddell, 1991, p. 362.
+Yap, 2007, pp. 53, 58, 73.
+Laird, P.W. (1996, October). “The car without a single weakness”: Early automobile advertising. Technology and Culture, 37 (4), 796–812, p. 797. Retrieved from JSTOR via NLB’s eResources website. 
+Scharchburg, R.P. (1993). Carriages without horses: J. Frank Duryea and the birth of the American automobile industry (p. 119). Warrendale, PA: Society of Automative Engineers. (Call no.: RBUS 338.7629222 SCH)
