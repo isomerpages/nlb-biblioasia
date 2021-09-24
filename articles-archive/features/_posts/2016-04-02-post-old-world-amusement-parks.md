@@ -139,7 +139,7 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 [^1]:Chandy, G. (1980, April 28). [Worlds of days gone by](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800428-1.2.41). *New Nation*, p. 9. Retrieved from [NewspaperSG](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800428-1.2.41.aspx?q=Worlds+of+days+gone+by&mode=advanced&df=19800428&dt=19800428&ct=article%2cadvertisement%2cillustration%2cletter%2cobituary%2cmiscellaneous&t=beritaharian%2cdailyadvertiser%2ceasterndaily%2ckabarslalu%2cmaltribune%2cmalayansatpost%2cmiddayherald%2cnewnation%2csingchronicle%2csingdailynews%2csingmonitor%2csingweekherald%2cstraitsadvocate%2cstraitschinherald%2cstraitseurasian%2cstraitsmail%2cstraitsobserver%2cstraitstelegraph%2cstoverland%2cstweekly%2cbiztimes%2cnewpaper%2cfreepress%2csingfreepressa%2csingfreepressb%2cstraitstimes%2ctoday%2cweeklysun%2cnysp%2cscjp%2clhzb%2clhwb&page=1&sort=relevance&token=by%2cgone%2cdays%2cof%2cworlds&sessionid=33be0ab2431a4b2dbc0adb9d51d69042). 
 
-[^2]:Chicago Historical Society. (1999). The World’s Columbian Exposition. Retrieved from Chicago Historical Society website; Maranzani, B. (2013, May 1). 7 things you may not know about the 1893 Chicago World’s Fair. Retrieved from History.com website.
+[^2]:Chicago Historical Society. (1999). *The World’s Columbian Exposition*. Retrieved from Chicago Historical Society website; Maranzani, B. (2013, May 1). *7 things you may not know about the 1893 Chicago World’s Fair*. Retrieved from History.com website.
 
 [^3]:Milman, A. (2008). Theme park tourism and management strategy. In A.G. Woodside & D. Martin. (Eds.), Tourism management: Analysis, behaviour and strategy (pp. 219–220). Wallingford, UK; Cambridge, MA: CABI. (Call no.: RBUS 338.4791 TOU); Mohun, A.P. (2013). Amusement parks for the world: The export of American technology and know-how, 1900–1939. Icon, 19, 100–112, p. 102. Retrieved from JSTOR via NLB’s eResources website; Dong, M.Y., & Bender, T. (2003). Republican Beijing: The city and its histories (pp. 199–205). Berkeley: University of California Press. (Call no.: R 951.15604 DON)
 
@@ -163,21 +163,21 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 [^13]:Oral history interview with Richard Woon Kai Yin, 26 Jan 2005; Rudolph, J. (1996). Amusement in the three “worlds”. In S. Krishnan, et. al. (Eds.), Looking at culture (p. 22). Singapore: Artres Design & Communications. (Call no.: RSING 306.095957 LOO)
 
-[^14]:Oral history interview with Richard Woon Kai Yin, 26 Jan 2005; Rudolph, 1996, p. 22.
+[^14]:*[Oral history interview with Richard Woon Kai Yin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/12fd3357-115f-11e3-83d5-0050568939ad?keywords=richard+woon+kai+yin&keywords-type=all)*, 26 Jan 2005; [Rudolph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674714), 1996, p. 22.
 
-[^15]:Rudolph, 1996, p. 22.
+[^15]:[Rudolph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674714), 1996, p. 22.
 
-[^16]:Lee, T.S. (2009). Chinese street opera in Singapore (pp. 32–35, 183–192). Urbana: University of Illinois Press. (Call no.: R 782.1095957 LEE)
+[^16]:Lee, T.S. (2009). *[Chinese street opera in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12998114)* (pp. 32–35, 183–192). Urbana: University of Illinois Press. (Call no.: R 782.1095957 LEE)
 
-[^17]:Shaw Organisation. (2007). Amusement parks: Great World and New World. Retrieved from Shaw Theatres website; Yong, C.F. (2013). Tan Kah-Kee: The making of an overseas Chinese legend (p. 211). Singapore: World Scientific. (Call no.: RSING 338.04092 YON); Lee, 2009, p. 34; Yung, S.S. (2008). The Shaw Brothers in Southeast Asia. In P. Fu (Ed.), China forever: The Shaw Brothers and diasporic cinema (p. 143). Urbana: University of Illinois Press. (Call no.: R 791.43095125 CHI)
+[^17]:Shaw Organisation. (2007). *Amusement parks: Great World and New World*. Retrieved from Shaw Theatres website; Yong, C.F. (2013). *[Tan Kah-Kee: The making of an overseas Chinese legend](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200146592)* (p. 211). Singapore: World Scientific. (Call no.: RSING 338.04092 YON); [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12998114), 2009, p. 34; Yung, S.S. (2008). The Shaw Brothers in Southeast Asia. In P. Fu (Ed.), *[China forever: The Shaw Brothers and diasporic cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181)* (p. 143). Urbana: University of Illinois Press. (Call no.: R 791.43095125 CHI)
 
-[^18]:Rudolph, 1996, pp. 23–24.
+[^18]:[Rudolph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674714), 1996, pp. 23–24.
 
-[^19]:Tan, S.B. (1993). Bangsawan: A social and stylistic history of popular Malay opera (p. 30). Singapore: Oxford University Press. (Call no.: R 782.109595 TAN)
+[^19]:Tan, S.B. (1993). *[Bangsawan: A social and stylistic history of popular Malay opera](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6381290)* (p. 30). Singapore: Oxford University Press. (Call no.: R 782.109595 TAN)
 
-[^20]:Shaw Organisation, 2007; Yung, 2008, pp. 142–143.
+[^20]:Shaw Organisation, 2007; [Yung](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054181), 2008, pp. 142–143.
 
-[^21]:Ho, H.L. (2014). The 1950s striptease debates in Singapore: Getai and the politics of culture (pp. 15– 18). [Unpublished master’s thesis, National University of Singapore]. Retrieved from National University of Singapore ScholarBank@NUS website.
+[^21]:Ho, H.L. (2014). *The 1950s striptease debates in Singapore: Getai and the politics of culture* (pp. 15– 18). [Unpublished master’s thesis, National University of Singapore]. Retrieved from National University of Singapore ScholarBank@NUS website.
 
 [^22]:金人 [Jin Ren]. (1993, November 28). [五十年代歌台点 滴](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19931128-1.2.70.1.1). *联合早报* [*Lianhe Zaobao*], p. 50; [别忘了另一段歌台 历史](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20071020-1.2.41.4.1). (2007, October 20). *联合早报* [*Lianhe Zaobao*], p. 25. Retrieved from NewspaperSG.
 
