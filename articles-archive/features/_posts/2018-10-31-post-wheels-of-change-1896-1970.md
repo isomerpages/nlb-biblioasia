@@ -6,7 +6,7 @@ layout: post
 ---
 #### Advertisements targeting aspiring car owners have come a long way since the first automobile was launched in Singapore in 1896, as **Mazelan Anuar** tells us.
 
-<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels1.JPG">
+<img style="width: 600px; height: 390px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels1.JPG">
 <div style="background-color: white;">Before the advent of the automobile in Singapore in 1896, the common modes of transportation back then were the horse-drawn carriage, bullock cart and <i>jinrickshaw</i>, 1880s. <i>Courtesy of Editions Didier Millet.</i></div>
 
 The word “automobilism”, meaning the use of automobiles,[^1] entered the English lexicon in the late 19th century when motor vehicles emerged as a new mode of private transportation. Karl Benz’s “Patent-Motorwagen”, first built in 1885, sparked a vehicular revolution that saw animal power replaced by the internal combustion engine. Thus was born the automobile, which literally means “self-moving” car. Although the term “automobilism” has fallen into disuse, the world’s love affair with automobiles has never waned, with succeeding generations embracing it with as much enthusiasm as the early adopters.
