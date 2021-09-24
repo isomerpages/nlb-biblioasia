@@ -4,13 +4,13 @@ permalink: /editors-picks/art
 ---
 #### [The Forgotten Murals of Paya Lebar Airport](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals)
 <img src=" /images/vol-17-issue-2/murals/Mural_Main2.jpg"  style="float:left; width:70%; height:auto;  border:10px solid #FFFFFF"> <style>
-.responsive {width: 100%;  height: auto;} </style> Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.
+.responsive {max-width: 100%  height: auto;} </style> Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.
 <br>
 <br>
  <hr>
 
 #### [Chinese Graphic Artists in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists)<br>
-<img src="/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg"  style="float:left; width:60%;height:auto;; border:10px solid #FFFFFF"> Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works.
+<img src="/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg"  style="float:left; width:60%;height:auto; border:10px solid #FFFFFF"> Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works.
 <br>
 <br>
 <br>
