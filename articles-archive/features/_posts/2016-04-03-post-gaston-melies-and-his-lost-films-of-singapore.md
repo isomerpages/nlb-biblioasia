@@ -106,64 +106,68 @@ Méliès’ own approach to film raises many questions of identity, otherness an
 
 #### **NOTES**
 
-In Vol. 2 Issue 01 (April 2015) of BiblioAsia, in the article Tan, B. (2015, April-June). *[From Tents to Picture Palaces: Early Singapore Cinema](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 11* (2). BiblioAsia. Retrieved from BiblioaAsia website, A Day at Singapore was incorrectly attributed to Georges Méliès when it should be Gaston Méliès. The article cites the online film source IMDb, which mentions Georges Méliès in the film credits. Promotional posters of the film that contain the words G. Méliès is a likely reason why this confusion may have arisen. Georges Méliès rarely filmed outside the confines of his studio in the Parisian suburbs and there is no record of him ever travelling to Singapore.
+[^1]:In Vol. 2 Issue 01 (April 2015) of BiblioAsia, in the article Tan, B. (2015, April-June). *[From Tents to Picture Palaces: Early Singapore Cinema](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 11* (2). *BiblioAsia*. Retrieved from BiblioaAsia website, *A Day at Singapore* was incorrectly attributed to Georges Méliès when it should be Gaston Méliès. The article cites the online film source IMDb, which mentions Georges Méliès in the film credits. Promotional posters of the film that contain the words G. Méliès is a likely reason why this confusion may have arisen. Georges Méliès rarely filmed outside the confines of his studio in the Parisian suburbs and there is no record of him ever travelling to Singapore.
 
-The Film Foundation. (2016). Preservation. Retrieved from The Film Foundation website.
+[^2]:The Film Foundation. (2016). *Preservation*. Retrieved from The Film Foundation website.
 
-Méliès, G. (1988). Le Voyage autour du monde de la G. Méliès Manufacturing Company (juillet 1912 – mai 1913) (143pp). Paris: Association les Amis de Georges Méliès. (Not available in NLB holdings)
+[^3]:Méliès, G. (1988). *Le Voyage autour du monde de la G. Méliès Manufacturing Company* (juillet 1912 – mai 1913) (143pp). Paris: Association les Amis de Georges Méliès. (Not available in NLB holdings)
 
-Private collections of Jacques Malthête, great-nephew of Gaston Méliès, and David Pfluger, collector of all things related to Georges and Gaston Méliès.
+[^4]:Private collections of Jacques Malthête, great-nephew of Gaston Méliès, and David Pfluger, collector of all things related to Georges and Gaston Méliès.
 
-Unpublished letters and photo diary. Private collection of David Pfluger.
+[^5]:Unpublished letters and photo diary. *Private collection of David Pfluger*.
 
-Méliès, 1988, pp. 83–87.
+[^6]:Méliès, 1988, pp. 83–87.
 
-Unpublished. Private collection of David Pfluger.
+[^7]:*Unpublished*. Private collection of David Pfluger.
 
-Méliès, 1988, pp. 83–87.
+[^8]:Méliès, 1988, pp. 83–87.
 
-Tired of cowboys. (1912, August 20). Marlborough Express, XLVI (197), 2. Retrieved from Papers Past, National Library of New Zealand website.
+[^9]:Tired of cowboys. (1912, August 20). *Marlborough Express, XLVI* (197), 2. Retrieved from Papers Past, National Library of New Zealand website.
 
-Elgin Lessley’s portrait as part of “Who’s Who in Long Pants”. (1927, January 22). Moving Picture World, p. 265. 
-Marlborough Express, 20 Aug 1912, p. 2.
+[^10]:Elgin Lessley’s portrait as part of “*Who’s Who in Long Pants*”. (1927, January 22). *Moving Picture World*, p. 265. 
 
-Personal pars. (1913, January 14). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 6. Retrieved from NewspaperSG.
+[^11]:*Marlborough Express*, 20 Aug 1912, p. 2.
 
-Judson, H.C. (1912, August 24). Méliès Globe Trotters reach Tahiti islands. Moving Picture World, 13 (8), 774. Retrieved from Internet Archive.
+[^12]:[Personal pars](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19071210-1.2.47). (1913, January 14). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 6. Retrieved from NewspaperSG.
 
-Marlborough Express, 20 Aug 1912, p. 2.
-Méliès, 1988, pp. 83–87.
+[^13]:Judson, H.C. (1912, August 24). Méliès Globe Trotters reach Tahiti islands. *Moving Picture World, 13* (8), 774. Retrieved from Internet Archive.
 
-Marlborough Express, 20 Aug 1912, p. 2.
+[^14]:*Marlborough Express*, 20 Aug 1912, p. 2.
 
-His Chinese Friend. (1913, July 26). Moving Picture World, 17 (4), 428. Retrieved from Internet Archive.
+[^15]:Méliès, 1988, pp. 83–87.
 
-Circular Panorama of Singapore and Landing Stage,Coolie Boys Diving for Coins and Panorama of Singapore Sea Front (pp. 311, 317). (1997). In Barnes J, The beginnings of the cinema in England, 1894–1901 (Vol.5, 1900). Indiana: University of Exeter Press.
+[^16]:*Marlborough Express*, 20 Aug 1912, p. 2.
 
-These include A Coco-nut Tree Plantation in Singapore (Reference #1910PDOC 00149) and Singapore (Reference #1910-2), available in the Gaumont Pathé Archives.
+[^17]:His Chinese Friend. (1913, July 26).* Moving Picture World, 17* (4), 428. Retrieved from Internet Archive.
 
-Quaint Singapore. (1913, August 23). Moving Picture World, 17 (8), 868. Retrieved from Internet Archive.
+[^18]:Circular Panorama of Singapore and Landing Stage,Coolie Boys Diving for Coins and Panorama of Singapore Sea Front (pp. 311, 317). (1997). In Barnes J, *The beginnings of the cinema in England, 1894–1901* (Vol.5, 1900). Indiana: University of Exeter Press.
 
-The Méliès trip around the world. (1912, November 23). Motography, 8 (11), 398. Retrieved from Internet Archive.
-Advertisement: A Day at Singapore. (1913, September 6). Moving Picture World, 17 (10), 1127. Retrieved from Internet Archive.
+[^19]:These include *A Coco-nut Tree Plantation in Singapore* (Reference #1910PDOC 00149) and *Singapore* (Reference #1910-2), available in the Gaumont Pathé Archives.
 
-A Day at Singapore. (1913, September 4). Moving Picture World, 17( 12), 1283. Retrieved from Internet Archive.
+[^20]:Quaint Singapore. (1913, August 23). *Moving Picture World, 17* (8), 868. Retrieved from Internet Archive.
 
-Méliès: A Chinese Funeral. (1913, July 12). Moving Picture World, 17 (2), 234. Retrieved from Internet Archive.
+[^21]:The Méliès trip around the world. (1912, November 23). *Motography, 8* (11), 398. Retrieved from Internet Archive.
 
-Comments on the films: A Chinese Funeral. (1913, August 2). Moving Picture World, 17 (5), 535. Retrieved from Internet Archive.
+[^22]:Advertisement: A Day at Singapore. (1913, September 6). *Moving Picture World, 17* (10), 1127. Retrieved from Internet Archive.
 
-Marlborough Express, 20 Aug 1912, p. 2.
-Méliès, 1988, pp. 21–80.
+[^23]:A Day at Singapore. (1913, September 4). *Moving Picture World, 17*( 12), 1283. Retrieved from Internet Archive.
 
-Advertisement: Méliès “Round the World” films. (1913, July 19). Moving Picture World, 17 (3), 379. Retrieved from Internet Archive.
+[^24]:Méliès: A Chinese Funeral. (1913, July 12). *Moving Picture World, 17* (2), 234. Retrieved from Internet Archive.
 
-Comments on the films: The Poisoned Darts. (1913, July 17). Moving Picture World, 17 (5), 535.
+[^25]:*Comments on the films: A Chinese Funeral*. (1913, August 2). *Moving Picture World, 17* (5), 535. Retrieved from Internet Archive.
 
-Advertisement: Méliès “Round the World” films. (1913, July 12). Moving Picture World, 17 (2), 271. Retrieved from Internet Archive.
+[^26]:*Marlborough Express*, 20 Aug 1912, p. 2.
 
-Comments on the films: His Chinese Friend. (1913, July 26). Moving Picture World, 17 (4), 428. Retrieved from Internet Archive.
+[^27]:Méliès, 1988, pp. 21–80.
 
-Méliès: The Poisoned Darts. (1913, July 12). Moving Picture World, 17 (2), 234. Retrieved from Internet Archive.
+[^28]:Advertisement: Méliès “Round the World” films. (1913, July 19). *Moving Picture World, 17* (3), 379. Retrieved from Internet Archive.
 
-Méliès: His Chinese Friend. (1913, July 5). Moving Picture World, 17 (1), 78. Retrieved from Internet Archive.
+[^29]:Comments on the films: The Poisoned Darts. (1913, July 17). *Moving Picture World*, 17 (5), 535.
+
+[^30]:Advertisement: Méliès “Round the World” films. (1913, July 12). *Moving Picture World*, 17 (2), 271. Retrieved from Internet Archive.
+
+[^31]:Comments on the films: His Chinese Friend. (1913, July 26). *Moving Picture World*, 17 (4), 428. Retrieved from Internet Archive.
+
+[^32]:Méliès: The Poisoned Darts. (1913, July 12). *Moving Picture World*, 17 (2), 234. Retrieved from Internet Archive.
+
+[^33]:Méliès: His Chinese Friend. (1913, July 5). *Moving Picture World*, 17 (1), 78. Retrieved from Internet Archive.
