@@ -101,3 +101,10 @@ Japanese cars were much cheaper than their American and European counterparts, a
 <img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels9.JPG">
 <div style="background-color: white;">
 Horse- and pony-drawn carriages were a common form of transportation throughout the 19th and early 20th centuries, along with rickshaws, before they were phased out by motor vehicles. Horses and carriages were auctioned in the municipal square and advertised in local newspapers such as the Singapore Chronicle. <i>Images reproduced from Singapore Chronicle and Commercial Register, 30 April 1836, p. 2, and 9 July 1836, p.1.</i></div>
+
+<center><b>
+1900s
+</b></center>
+
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels10.JPG">
+<div style="background-color: white;">Companies that imported automobiles as their core business did not emerge until the mid-20th century. Prior to that, cars were brought into Singapore by general importers such as Guthrie & Co. Ltd. Swift Cars was a manufacturer from Coventry, England. The company began as a sewing machine manufacturer, eventually expanding to bicycle and motorised cycles before finally taking on automobiles. <i>Image reproduced from The Straits Times Annual, 1907.</i></div>
