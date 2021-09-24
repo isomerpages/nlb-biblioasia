@@ -20,7 +20,7 @@ Iron and steel bridges were similarly hailed as marvels of technology when they 
 
 Singapore’s diminutive size belies its rich history. Between 1920 and 1940, the city was a favoured pit stop for foreign entertainers and boxers who appeared at the Victoria Theatre and Happy World, as [Paul French](https://nlb-ba-staging.netlify.app/vol-14/issue-4/jan-mar-2019/sg-stopover-circuit/) discovered. [Ronnie Tan and Goh Yu Mei](https://nlb-ba-staging.netlify.app/vol-14/issue-4/jan-mar-2019/iron-spearhead-hitmn/) reveal an unsavoury side to Singapore history in their account of a communist cadre who was responsible for a string of grisly murders here in the 1950s.
 
-We also feature the National Library’s collections in articles on the early [Malay art scene](https://nlb-ba-staging.netlify.app/vol-14/issue-4/jan-mar-2019/creative-collectives/), the Legal Deposit Collection and a recent donation of rare materials by the Singapore Chin Kang Huay Kuan.
+We also feature the National Library’s collections in articles on the early [Malay art scene](https://nlb-ba-staging.netlify.app/vol-14/issue-4/jan-mar-2019/creative-collectives/), the [Legal Deposit Collection](https://nlb-ba-staging.netlify.app/vol-14/issue-4/jan-mar-2019/when-there-wre-farms/) and a recent donation of rare materials by the [Singapore Chin Kang Huay Kuan](https://nlb-ba-staging.netlify.app/vol-14/issue-4/jan-mar-2019/sg-chin-kang-hertge/).
 
 On behalf of the National Library, we would like to wish everyone a fabulous start to 2019!
 
