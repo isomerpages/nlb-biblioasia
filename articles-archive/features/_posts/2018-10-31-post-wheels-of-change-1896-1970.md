@@ -116,3 +116,33 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 <img style="width: 550px; height: 380px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels11.JPG">
 <div style="background-color: white;">(Left) New Chevrolet car models touted as being “a class apart” from other cars with features such as beautiful colours that were long-wearing and weather resistant, and had “racy low-hung bodies”, “full-crowned mud-guards and a distinctive radiator”. <i>Image reproduced from The Straits Times, 23 July 1927, p. 13.</i><br>
 (Right) The REO Flying Cloud was advertised as appealing to the sensibilities of both men and women. <i>Image reproduced from British Malayan Annual, 1929, p. 32.</i></div>
+
+<center><b>
+1930s
+</b></center>
+
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels12.JPG">
+<div style="background-color: white;">Car advertisements appeared regularly in magazines published by the Automobile Association of Malaya. This is an advertisement for Jaguar sports cars, which were available in 1.5-, 2.5- and 3.5-litre models. <i>Image reproduced from Handbook of the Automobile Association of Malaya, 1939.</i></div>
+
+<center><b>
+1940s
+</b></center>
+
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels13.JPG">
+<div style="background-color: white;">An advertisement for the newly launched Morris Six. <i>Image reproduced from AAM News Bulletin, November 1949.</i></div>
+
+<center><b>
+1950s
+</b></center>
+
+<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels14.JPG">
+<div style="background-color: white;">(Left) Affordable Japanese-made cars were imported into Singapore in the late 1950s. <i>Image reproduced from The Straits Times, 25 February 1958, p. 4.</i><br>
+(Right) The Renault Dauphine had every detail worked out to “anticipate the desires of lady drivers or their male consorts”. <i>Image reproduced from The Straits Times, 15 February 1959, p. 9.</i></div>
+
+<center><b>
+1960s
+</b></center>
+
+<img style="width: 630px; height: 380px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels15.JPG">
+<div style="background-color: white;">(Left) An advertisement touting the various features of the Mercedes Benz 250S, such as its powerful 6-cylinder engine, the ergonomically built seats, the reliable breaking system, and the light and quick steering. <i>Image reproduced from The Straits Times Annual, 1968, p. 136.</i><br>
+(Right) This advertisement portrays car ownership as a happy family ideal, with a picture perfect modern family admiring their brand new Morris motorcar. <i>Image reproduced from Her World, November 1960.</i></div>
