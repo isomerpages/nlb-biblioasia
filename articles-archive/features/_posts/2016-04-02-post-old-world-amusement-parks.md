@@ -187,11 +187,11 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 [^25]:The Straits Times, 12 Jun 2000, p. 7; De Souza, A. (1998, July 16). Of fights and sweaty diners. The Straits Times, p. 29. Retrieved from NewspaperSG; Shaw Organisation, 2007; National Heritage Board. (2006). Jalan Besar: A heritage trail (p. 12). Singapore: National Heritage Board. (Call no.: RSING 959.57 JAL)
 
-[^26]:Leong, W.K. (2000, May 20). The last days of Gay World. The Straits Times, p. 69. Retrieved from NewspaperSG; The Singapore Free Press and Mercantile Advertiser (1884–1942), 27 Apr 1937, p. 1; Happy World is chosen. (1952, February 8). The Straits Times, p. 7; Gay World Stadium gets $22,000 face-lift for Seap basketball matches. (1973, July 29). The Straits Times, p. 6. Retrieved from NewspaperSG 
+[^26]:Leong, W.K. (2000, May 20). [The last days of Gay World](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000520-1.2.67.18). *The Straits Times*, p. 69. Retrieved from NewspaperSG; *[The Singapore Free Press and Mercantile Advertiser (1884–1942)](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370427-1.2.111.2)*, 27 Apr 1937, p. 1; [Happy World is chosen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19520208-1.2.101). (1952, February 8). *The Straits Times*, p. 7; [Gay World Stadium gets $22,000 face-lift for Seap basketball matches](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730729-1.2.35). (1973, July 29). *The Straits Times*, p. 6. Retrieved from NewspaperSG 
 
-[^27]:Shaw Organisation, 2007; Return of Mat Tarzan. (1993, January 12). The Straits Times, p. 12. Retrieved from NewspaperSG. 
+[^27]:Shaw Organisation, 2007; [Return of Mat Tarzan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930112-1.2.69.5.5). (1993, January 12). *The Straits Times*, p. 12. Retrieved from NewspaperSG. 
 
-[^28]:Lockhart, R.H.B. (1936). Return to Malaya (p. 143). London: Putnam. (Call no.: RCLOS 959.5 LOC)
+[^28]:Lockhart, R.H.B. (1936). *[Return to Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1881681)* (p. 143). London: Putnam. (Call no.: RCLOS 959.5 LOC)
 
 [^29]:Shaw Organisation, 2007.
 
