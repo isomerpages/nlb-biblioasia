@@ -108,3 +108,11 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 
 <img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels10.JPG">
 <div style="background-color: white;">Companies that imported automobiles as their core business did not emerge until the mid-20th century. Prior to that, cars were brought into Singapore by general importers such as Guthrie & Co. Ltd. Swift Cars was a manufacturer from Coventry, England. The company began as a sewing machine manufacturer, eventually expanding to bicycle and motorised cycles before finally taking on automobiles. <i>Image reproduced from The Straits Times Annual, 1907.</i></div>
+
+<center><b>
+1920s
+</b></center>
+
+<img style="width: 550px; height: 380px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels11.JPG">
+<div style="background-color: white;">(Left) New Chevrolet car models touted as being “a class apart” from other cars with features such as beautiful colours that were long-wearing and weather resistant, and had “racy low-hung bodies”, “full-crowned mud-guards and a distinctive radiator”. <i>Image reproduced from The Straits Times, 23 July 1927, p. 13.</i><br>
+(Right) The REO Flying Cloud was advertised as appealing to the sensibilities of both men and women. <i>Image reproduced from British Malayan Annual, 1929, p. 32.</i></div>
