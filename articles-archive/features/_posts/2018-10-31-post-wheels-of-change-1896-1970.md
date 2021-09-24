@@ -20,7 +20,7 @@ The Katz Brothers ushered in the age of automobilism in Singapore when they impo
 
 The Katz Brothers were the sole agents for Benz and Co.’s “Motor Velociped”, which was advertised as a “horseless carriage”. A favourable review in *The Singapore Free Press* and *Mercantile Advertiser* described it as a “neat-looking four-wheeled carriage” that did not require an “expert driver”, but commented that its $1,600 price tag was “somewhat high”.[^3]
 
-<img style="width: 360px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels3.JPG">
+<img style="width: 390px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels3.JPG">
 <div style="background-color: white;">Charles B. Buckley in his Benz “Motor-Velociped”, which was advertised as a “horseless carriage”. He and B. Frost of the Eastern Extension Telegraph were the first to own and drive the Benz in Singapore. <i>Image reproduced from Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. II). London: John Murray. (Call no.: RCLOS 959.51 MAK-[RFL]).</i></div>
 
 Automobile ads continued to make reference to “horseless carriages” for decades afterwards, and well into the mid-1950s. This was usually to draw attention to the fact that the product or company had existed since the dawn of the automobile industry and had grown in tandem with it. Examples of such advertisements included those for Dunlop Tyres, Shell (formerly the Asiatic Petroleum Company) and Chloride Batteries Limited.
