@@ -83,14 +83,23 @@ Japanese cars were much cheaper than their American and European counterparts, a
 |<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels8.JPG">(Left) The four-seater Trojan was promoted as a “private car, taxi or bus” that could halve the usual running expenses for a car. <i>Image reproduced from The Singapore Free Press, 9 September 1925, p. 5.</i><br>
 (Right) Yellow Top Cabs first appeared in Singapore in 1933 and soon became a familiar sight on the streets. <i>Image reproduced from The Straits Times, 6 November 1933, p. 16.</i>
 
-By the end of 1920, the Singapore Taxicab Co. was advertising a “Call a Taxi” service in *The Straits Times*. Its black-and-yellow taxis were stationed at Raffles Place, General Post Office, Grand Hotel de l’Europe, Adelphi Hotel, Raffles Hotel and the company’s garage at 1 Orchard Road, ready to pick up passengers. The fare was 40 cents per mile – the same as when taxi services were introduced a decade earlier.
+|By the end of 1920, the Singapore Taxicab Co. was advertising a “Call a Taxi” service in *The Straits Times*. Its black-and-yellow taxis were stationed at Raffles Place, General Post Office, Grand Hotel de l’Europe, Adelphi Hotel, Raffles Hotel and the company’s garage at 1 Orchard Road, ready to pick up passengers. The fare was 40 cents per mile – the same as when taxi services were introduced a decade earlier.
 
-Abrams’ Motor Transport Company started a vehicle-for-hire scheme in the mid-1920s. Customers could hire a car or lorry at $3 per hour, which was touted as being cheaper than a taxi. Among the car models available for hire was the five-seater Gardner.
+|Abrams’ Motor Transport Company started a vehicle-for-hire scheme in the mid-1920s. Customers could hire a car or lorry at $3 per hour, which was touted as being cheaper than a taxi. Among the car models available for hire was the five-seater Gardner.
 
-In 1930, Borneo Motors Limited imported a new type of taximeter that could calculate fares automatically. Apparently there had been disputes between drivers and passengers over the correct fare to be paid (taximeters became compulsory only in 1953). The new taximeter had been used in other Asian cities such as Rangoon and Calcutta.
+|In 1930, Borneo Motors Limited imported a new type of taximeter that could calculate fares automatically. Apparently there had been disputes between drivers and passengers over the correct fare to be paid (taximeters became compulsory only in 1953). The new taximeter had been used in other Asian cities such as Rangoon and Calcutta.
 
-Yellow Top Cabs – launched by Universal Cars Limited which claimed to have the lowest metered rates for closed cabs – made its debut in Singapore in 1933. Advertisements for Yellow Top Cabs between 1933 and 1934 sang praises of their cleanliness, efficiency and reliability. The cabs were available at taxi stands – at Raffles Place, Collyer Quay, Battery Road, Raffles Hotel, Stamford Road and Orchard Road – and could also be booked by telephone.
+|Yellow Top Cabs – launched by Universal Cars Limited which claimed to have the lowest metered rates for closed cabs – made its debut in Singapore in 1933. Advertisements for Yellow Top Cabs between 1933 and 1934 sang praises of their cleanliness, efficiency and reliability. The cabs were available at taxi stands – at Raffles Place, Collyer Quay, Battery Road, Raffles Hotel, Stamford Road and Orchard Road – and could also be booked by telephone.
 
-After World War II, many private cars were used by unlicensed taxi drivers to ply the streets for hire. These illegal “pirate taxis” caused problems for both licensed taxi drivers as well as the authorities, although it was argued that they provided a much-needed public service.
+|After World War II, many private cars were used by unlicensed taxi drivers to ply the streets for hire. These illegal “pirate taxis” caused problems for both licensed taxi drivers as well as the authorities, although it was argued that they provided a much-needed public service.
 
-In 1970, the National Trades Union Congress started its Comfort taxi service and offered pirate taxi drivers the opportunity to join its operations. A total ban on pirate taxis came into force in July the following year.
+|In 1970, the National Trades Union Congress started its Comfort taxi service and offered pirate taxi drivers the opportunity to join its operations. A total ban on pirate taxis came into force in July the following year.
+
+<center><b>
+1830s
+	</b></center>
+
+Horse- and pony-drawn carriages were a common form of transportation throughout the 19th and early 20th centuries, along with rickshaws, before they were phased out by motor vehicles. Horses and carriages were auctioned in the municipal square and advertised in local newspapers such as the Singapore Chronicle. *Images reproduced from Singapore Chronicle and Commercial Register, 30 April 1836, p. 2, and 9 July 1836, p.1.*
+
+<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels9.JPG">
+
