@@ -15,7 +15,7 @@ Farquhar fights back. The daring Mrs Dare. Lessons from the Chetty Melaka kitche
 The founding of Singapore in 1819 and its early development have traditionally been attributed to Sir Stamford Raffles. *Nadia Wright* claims that his role has been exaggerated at the expense of another. 
 [(PDF)](/files/pdf/vol-14/v14-issue4_Farquhar.pdf)
 
-**[Looking Back at 700 years of Singapore](/vol-14/issue-4/jan-mar-2019/looking-back-at-sg/)** <br>
+**[Looking Back at 700 Years of Singapore](/vol-14/issue-4/jan-mar-2019/looking-back-at-sg/)** <br>
 Singapore’s history didn’t begin in 1819 when Stamford Raffles made footfall on the island. *Tan Tai Yong* makes sense of our 700-year history in this wide-ranging essay. [(PDF)](/files/pdf/vol-14/v14-issue4_LookingBack.pdf)
 
 **[Mrs Dare and Her Magnificent Driving Machine](/vol-14/issue-4/jan-mar-2019/mrs-dare-driv-mchn/)** <br>
