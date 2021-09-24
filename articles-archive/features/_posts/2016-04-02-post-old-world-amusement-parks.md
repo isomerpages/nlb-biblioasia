@@ -122,9 +122,9 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 |1937: Opens as Happy World on 6 May.<br>1942: Remains open during the Japanese Occupation.<br>1952: Its indoor stadium is used as a venue for the Thomas Cup.<br>1964: Renamed Gay World and transferred to the British and Malayan Trustees Ltd.<br>1973: Used as a venue for the 7th Southeast Asian Peninsular Games.<br>2000: Tenants are given notice by the Land Office to move from the park in March; main tenant Eng Wah Organisation terminates its lease.<br>2001: Demolished and the unoccupied site is zoned for residential projects.|
 
-|<img src="/images/Vol-12-issue-1/old-world-amusement-parks/11_amusementpark.jpg">City Square Mall, Singapore’s first eco-friendly mall, was launched in 2009. The mall stands on the site of the former New World amusement park along Jalan Besar. New World was the first of the three amusement parks to open. <i>Courtesy of City Developments Limited.</i>|
+|<img style="width:600px" src="/images/Vol-12-issue-1/old-world-amusement-parks/11_amusementpark.jpg">City Square Mall, Singapore’s first eco-friendly mall, was launched in 2009. The mall stands on the site of the former New World amusement park along Jalan Besar. New World was the first of the three amusement parks to open. <i>Courtesy of City Developments Limited.</i>|
 
-|<img src="/images/Vol-12-issue-1/old-world-amusement-parks/12_amusementpark.jpg">A photo of the exterior of Great World City taken during its official opening in 1997. This mixed-use development comprising retail, office and residential units occupies the site of the former Great World amusement park. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>|
+|<img style="width:600px" src="/images/Vol-12-issue-1/old-world-amusement-parks/12_amusementpark.jpg">A photo of the exterior of Great World City taken during its official opening in 1997. This mixed-use development comprising retail, office and residential units occupies the site of the former Great World amusement park. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>|
 
 
 <div style="background-color: white;">
