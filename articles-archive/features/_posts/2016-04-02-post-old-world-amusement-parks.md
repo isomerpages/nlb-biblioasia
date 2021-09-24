@@ -195,11 +195,11 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 [^29]:Shaw Organisation, 2007.
 
-[^30]:The Singapore Free Press and Mercantile Advertiser, (1884–1942), 8 Oct 1935, p. 23; New Nation, 28 Apr 1980, p. 9; Shaw Organisation, 2007. 
+[^30]:*[The Singapore Free Press and Mercantile Advertiser,(1884–1942)](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.18.25)*, 8 Oct 1935, p. 23; *[New Nation](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800428-1.2.41)*, 28 Apr 1980, p. 9; Shaw Organisation, 2007. 
 
-[^31]:Shaw Organisation, 2007; Rudolph, 1996, pp. 25–26; Memories of another day. (1984, March 8). Singapore Monitor, p. 2. Retrieved from NewspaperSG.
+[^31]:Shaw Organisation, 2007; [Rudolph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674714), 1996, pp. 25–26; [Memories of another day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840308-2.2.5.1). (1984, March 8). *Singapore Monitor*, p. 2. Retrieved from NewspaperSG.
 
-[^32]:Rajendra, C. (2013). No bed of roses: The Rose Chan story (pp. 240–241). Singapore: Marshall  Cavendish Editions. (Call no.: RCLOS 792.7028092 RAJ); Ho, 2014, p. 38 
+[^32]:Rajendra, C. (2013). *[No bed of roses: The Rose Chan story](https://eservice.nlb.gov.sg/itemholding.aspx?bid=14715876)* (pp. 240–241). Singapore: Marshall  Cavendish Editions. (Call no.: RCLOS 792.7028092 RAJ); Ho, 2014, p. 38 
 
 [^33]:[Rudolph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674714), 1996, pp. 26–27; Phang, M.Y. (1995, June 9). [Three worlds and a time when life was a cabaret](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950609-1.2.74.3.5). *The Straits Times*, p. 8. Retrieved from  NewspaperSG.
 
