@@ -4,11 +4,6 @@ date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/directors-note/
 layout: post
 ---
-
-https://raw.githubusercontent.com/isomerpages/nlb-ba/staging/images/Vol-14-issue-3/WY.JPG
-
-https://raw.githubusercontent.com/isomerpages/nlb-ba/staging/images/Vol-14-issue-3/
-
 <img src="/images/Vol-14-issue-3/vol14_iss3.JPG">
 
 How quickly the last quarter of the year is upon us! Welcome to the final issue of BiblioAsia for 2018.
