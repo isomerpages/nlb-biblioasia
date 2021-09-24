@@ -93,3 +93,22 @@ At the end of each night, the hostesses would cash in the dance coupons they had
 One of the most well-known personalities in the cabaret scene was Rose Chan, who joined Happy World cabaret as a dance hostess in 1942. An accomplished dancer and a former beauty queen, Chan quickly rose to fame. By 1951, the brassy Chan had her own dance company – the Rose Chan Revue – which saw her touring Malaya and Singapore, bending iron bars with her neck, inviting a motorcycle to run over planks placed across her body, and wrestling with a slithering python. Her most notable shows, however, were her striptease acts that were often performed to sold-out houses.32
 
 <div style="background-color: white;"><img src="/images/Vol-12-issue-1/old-world-amusement-parks/08_amusementpark.jpg">The riveting story of the stripper Rose Chan, who found fame at the Happy World cabaret in the 1940s and 50s is documented in the book <i>No Bed of Roses: The Rose Chan Story</i>. Pictured here is the frontispiece of the book. <i>All rights reserved, Rajendra, C. (2013). No Bed of Roses: The Rose Chan Story. Singapore: Marshall Cavendish.</i></div>
+
+However, most of the cabaret girls did not share the same luck (and gumption) as Chan. Many came from impoverished and broken families, and were forced to join the cabaret to earn a living. To make matters worse, the girls were frequently subjected to harassment by inebriated customers on the dance floor, and had to fend off men who tried to touch them inappropriately or kiss them while dancing.33
+
+While the cabaret girls were a key attraction at the dance halls, there were those who came solely for the purpose of dancing. The dance halls were impressive and considered huge at the time. For instance, Gay World’s oval-shaped hall – skirted by marbled columns and bordered by a three-tiered dining area – had a dance floor that could accommodate up to 300 couples. New World’s dance hall was airconditioned and its octagonal dance floor could take more than 1,200 people; its star attraction was a stage that could rise and revolve.34
+
+The dance halls also featured their own resident bands, with fancy names like American Dance Band and D’Souza’s Famous Band playing tunes from “peppy, snappy and real hot” to “sweet, swingy and rhythmic” to accompany dancers doing the waltz, foxtrot, quickstep, tango and the rhumba. Special events were also regularly held at the cabarets, including song and band championships, dance competitions and the Annual Malaya Kebaya Queen Competition.35
+
+#### **Decline of the “Worlds”**
+
+The popularity of amusement parks began to wane towards the end of the 1960s. The death blow came from the advent of television but there were other contributing factors like the proliferation of shopping malls, bowling alleys, roller skating rinks, public swimming pools, and attractions such as the zoo and bird park. Amusement parks were forced to shutter many of their attractions, leaving only the cinemas and restaurants open. Although Gay World tried to reinvent itself by setting up a shopping emporium within its grounds, it came a little too late. The New Nation reported in 1976:
+
+“Today, the Worlds are not what they used to be… By night, it is ghostly and deserted, pitch-black except for oases of activity like the cinemas and the penny arcade. By day, office workers traverse its grounds to reach lunchtime places in buildings nearby. The amusement machines… stand as monument to better times. Some are coated with rust and are slowly falling apart. Grass sprouts from the tracks of the miniature train”.36
+
+Without the heaving crowds, the amusement parks were unable to survive and eventually closed. Gay World was the last park to cease operations in 2000.37 Over the years, the land occupied by the parks has been taken over by commercial or residential buildings. Only the faded memories of older Singaporeans linger, recalling the once glorious past of these “Worlds” and the joy and laughter they brought to their lives.
+
+|**AMUSEMENT PARKS: A TIMELINE**|
+
+|**New World**|
+|1923: Opens on 1 August. <br>1929: Establishes Singapore’s first cabaret.<br>1938: Shaw Brothers acquires New World.<br>1942: Remains open during the Japanese Occupation.<br>1987: City Developments buys over New World.<br>2009: Site is redeveloped into the first eco-friendly mall called City Square Mall.|
