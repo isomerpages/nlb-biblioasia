@@ -130,8 +130,74 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-1/old-world-amusement-parks/jessie-yak.png">
-	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-1/old-world-amusement-parks/lim-tin-seng.png">
+	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to BiblioAsia.
 </div>
 
-<a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-1/apr-jun-2016/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+
+[^1]:Chandy, G. (1980, April 28). Worlds of days gone by. New Nation, p. 9. Retrieved from NewspaperSG. 
+
+Chicago Historical Society. (1999). The World’s Columbian Exposition. Retrieved from Chicago Historical Society website; Maranzani, B. (2013, May 1). 7 things you may not know about the 1893 Chicago World’s Fair. Retrieved from History.com website.
+
+Milman, A. (2008). Theme park tourism and management strategy. In A.G. Woodside & D. Martin. (Eds.), Tourism management: Analysis, behaviour and strategy (pp. 219–220). Wallingford, UK; Cambridge, MA: CABI. (Call no.: RBUS 338.4791 TOU); Mohun, A.P. (2013). Amusement parks for the world: The export of American technology and know-how, 1900–1939. Icon, 19, 100–112, p. 102. Retrieved from JSTOR via NLB’s eResources website; Dong, M.Y., & Bender, T. (2003). Republican Beijing: The city and its histories (pp. 199–205). Berkeley: University of California Press. (Call no.: R 951.15604 DON)
+
+Anak Singapura. (1935, September 19). Notes of the day: Malaya-Borneo. The Straits Times, p. 10; Malaya-Borneo exhibition. (1922, January 5). The Straits Times, p. 9; Prince views Malaya’s wealth. (1922, April 1). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 14. Retrieved from NewspaperSG.
+Malaya-Borneo: Closing scene at the great exhibition. (1922, April 18). The Straits Times, p. 9. Retrieved from NewspaperSG; Holden, P. (2004). At home in the worlds. In R. Bishop, et. al. (Eds.), Beyond description: Singapore space historicity (p. 87). London: Routledge. (Call no.: RSING 307.1216095957 BEY)
+New entertainment centre. (1923, August 2). The Straits Times, p. 10. Retrieved from NewspaperSG.
+The Straits Times, 2 Aug 1923, p. 10; Development of the New World. (1935, October 8). The  Singapore Free Press and Mercantile Advertiser (1884–1942), p. 23. Retrieved from NewspaperSG.
+Page 7 advertisements column 1: The Great World Show. (1931, June 1). The Straits Times, p. 7. Retrieved from NewspaperSG; National Archives of Singapore. (c1950). View of entrance to Great World Amusement Park,1950s [Image of Photograph]. Retrieved from National Archives of Singapore website; Tong, K. (1997, October 11). Great World. The Straits Times, p. 4. Retrieved from NewspaperSG.
+Getting ready for trade fair. (1933, May 12). The Straits Times, p. 12; Great World’s fifth anniversary. (1936, July 29). The Straits Times, p. 12. Retrieved from NewspaperSG.
+National Archives of Singapore, 1950; Yong, C.F. (1992). Chinese leadership and power in colonial Singapore (p. 309). Singapore: Times Academic Press. (Call no.: RSING 959.5702 YON); Opening of Happy World. (1937, May 7). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 9. Retrieved from NewspaperSG.
+When three parks ruled Singapore’s night life. (1990, March 25). The Straits Times, p. 2; Singapore’s new playground. (1937, April 27). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 1. Retrieved from NewspaperSG.
+Chan, K.S. (2000, June 12). Worlds of fun and games. The Straits Times, p. 7. Retrieved from NewspaperSG; Sng, S. (Interviewer)(2005, January 26). Oral history interview with Richard Woon Kai Yin [MP3 recording no. 002908/71/03]. Retrieved from National Archives of Singapore website; The Straits Times, 25 Mar 1990, p. 2. 
+Oral history interview with Richard Woon Kai Yin, 26 Jan 2005; Rudolph, J. (1996). Amusement in the three “worlds”. In S. Krishnan, et. al. (Eds.), Looking at culture (p. 22). Singapore: Artres Design & Communications. (Call no.: RSING 306.095957 LOO)
+
+Oral history interview with Richard Woon Kai Yin, 26 Jan 2005; Rudolph, 1996, p. 22.
+
+Rudolph, 1996, p. 22.
+
+Lee, T.S. (2009). Chinese street opera in Singapore (pp. 32–35, 183–192). Urbana: University of Illinois Press. (Call no.: R 782.1095957 LEE)
+
+Shaw Organisation. (2007). Amusement parks: Great World and New World. Retrieved from Shaw Theatres website; Yong, C.F. (2013). Tan Kah-Kee: The making of an overseas Chinese legend (p. 211). Singapore: World Scientific. (Call no.: RSING 338.04092 YON); Lee, 2009, p. 34; Yung, S.S. (2008). The Shaw Brothers in Southeast Asia. In P. Fu (Ed.), China forever: The Shaw Brothers and diasporic cinema (p. 143). Urbana: University of Illinois Press. (Call no.: R 791.43095125 CHI)
+
+Rudolph, 1996, pp. 23–24.
+
+Tan, S.B. (1993). Bangsawan: A social and stylistic history of popular Malay opera (p. 30). Singapore: Oxford University Press. (Call no.: R 782.109595 TAN)
+
+Shaw Organisation, 2007; Yung, 2008, pp. 142–143.
+Ho, H.L. (2014). The 1950s striptease debates in Singapore: Getai and the politics of culture (pp. 15– 18). [Unpublished master’s thesis, National University of Singapore]. Retrieved from National University of Singapore ScholarBank@NUS website.
+
+金人 [Jin Ren]. (1993, November 28). 五十年代歌台点 滴. 联合早报 [Lianhe Zaobao], p. 50; 别忘了另一段歌台 历史. (2007, October 20). 联合早报 [Lianhe Zaobao], p. 25. Retrieved from NewspaperSG.
+
+Fu, H. (1953, February 26). Pretty girls, songs, dance and comedy. The Singapore Free Press, p. 8. Retrieved from NewspaperSG; Ho, 2014, p. 20.
+
+Ho, 2014, pp. 17–18, 35–37, 120; The Straits Times, 25 Mar 1990, p. 2.
+
+The Straits Times, 12 Jun 2000, p. 7; De Souza, A. (1998, July 16). Of fights and sweaty diners. The Straits Times, p. 29. Retrieved from NewspaperSG; Shaw Organisation, 2007; National Heritage Board. (2006). Jalan Besar: A heritage trail (p. 12). Singapore: National Heritage Board. (Call no.: RSING 959.57 JAL)
+
+Leong, W.K. (2000, May 20). The last days of Gay World. The Straits Times, p. 69. Retrieved from NewspaperSG; The Singapore Free Press and Mercantile Advertiser (1884–1942), 27 Apr 1937, p. 1; Happy World is chosen. (1952, February 8). The Straits Times, p. 7; Gay World Stadium gets $22,000 face-lift for Seap basketball matches. (1973, July 29). The Straits Times, p. 6. Retrieved from NewspaperSG 
+
+Shaw Organisation, 2007; Return of Mat Tarzan. (1993, January 12). The Straits Times, p. 12. Retrieved from NewspaperSG. 
+
+Lockhart, R.H.B. (1936). Return to Malaya (p. 143). London: Putnam. (Call no.: RCLOS 959.5 LOC)
+
+Shaw Organisation, 2007.
+
+The Singapore Free Press and Mercantile Advertiser, (1884–1942), 8 Oct 1935, p. 23; New Nation, 28 Apr 1980, p. 9; Shaw Organisation, 2007. 
+
+Shaw Organisation, 2007; Rudolph, 1996, pp. 25–26; Memories of another day. (1984, March 8). Singapore Monitor, p. 2. Retrieved from NewspaperSG.
+
+Rajendra, C. (2013). No bed of roses: The Rose Chan story (pp. 240–241). Singapore: Marshall  Cavendish Editions. (Call no.: RCLOS 792.7028092 RAJ); Ho, 2014, p. 38 
+
+Rudolph, 1996, pp. 26–27; Phang, M.Y. (1995, June 9). Three worlds and a time when life was a cabaret. The Straits Times, p. 8. Retrieved from  NewspaperSG.
+
+The Singapore Free Press and Mercantile Advertiser (1884–1942), 7 May 1937, p. 9; Singapore’s latest cabaret. (1938, May 15). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Shaw Organisation, 2007; Rudolph, 1996, p. 25.
+
+Great to be back in a whole new world. (1996, April 18). The Straits Times, p. 2; Heng, G. (1976, July 13). Oh, so many worlds apart!. New Nation, pp. 10–11. Retrieved from NewspaperSG.
+
+The Straits Times, 20 May 2000, p. 69. 
