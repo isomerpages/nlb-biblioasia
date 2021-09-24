@@ -62,3 +62,20 @@ Throughout this time, as well as in the decade following the end of World War II
 <img src="/images/Vol-14-issue-3/wheels-of-change/Wheels5.JPG">
 <div style="background-color: white;">Ford’s Consul Cortina was marketed as a woman’s “dream car”. The target customer as depicted in the advertisement here is a young, modern woman, suggesting the rising status of Singapore women in the 1960s. <i>Image reproduced from The Straits Times Annual, 1964, p. xxvii.</i></div>
 
+#### **Japanese Marques**
+
+From the late 1950s, Japanese-made cars became available in Singapore. By 1970, one in two cars purchased in Singapore was a Japanese model.24 The main reason for their popularity? Value for money.
+
+Japanese cars were much cheaper than their American and European counterparts, and were winning races in both local and international motor competitions in the late 1960s. The advertisements cleverly highlighted these achievements and, at the same time, banked on the tried-and-tested formula of good value, efficiency as well as reliability to attract buyers.
+
+<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels6.JPG">
+<div style="background-color: white;">(Left) The Ford Factory building along Bukit Timah Road, which was designed in the Art Deco style, opened in 1941. According to this advertisement, the factory was producing an impressive seven models of cars and trucks, and capable of churning out 20 chassis and eight passenger car bodies per day. <i>Image reproduced from AAM News Bulletin, November 1949.</i><br>
+(Right) Japanese marques like Datsun and Nissan scored successes at local and international races and rallies, and these achievements were regularly trumpeted in their advertisements. <i>Image reproduced from The Straits Times, 29 March 1967, p. 15.</i></div>
+
+|**TAXI! TAXI!**
+
+|First introduced in 1910, the taxi-cab service in Singapore was the brainchild of C.F.F. Wearne and Company. Singapore became the second city in Asia after Calcutta, India, to have such a service and it was lauded as being modern and affordable. Two Rover cars were fitted with “taximeters” and were initially used to provide a reservations-only private taxi service before obtaining the licence to ply the streets for public hire. At a charge of 40 cents per mile and with a seating capacity of five passengers, taxi-cab services worked out to be no more expensive than hiring a first-class rickshaw.
+
+|<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels7.JPG">A fleet of taxis along North Bridge Road, 1968. Meters were made compulsory for all licensed taxis by 1953. However, many private cars were used by unlicensed taxi drivers to ply the streets for hire. People negotiated fares with the driver and strangers could be picked up along the way to share the fare. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
+
+|In 1919, the Singapore Motor Taxi Cab and Transport Company Limited was incorporated in the Straits Settlements (comprising Singapore, Penang and Malacca) and published its prospectus in the local newspapers to raise $350,000 as capital. The company proposed starting a taxi service comprising a fleet of 40 Ford Landaulettes as taxi-cabs. The 20-horsepower six-seater Landaulette was distributed by C.F.F. Wearne and Company.
