@@ -201,12 +201,12 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 [^32]:Rajendra, C. (2013). No bed of roses: The Rose Chan story (pp. 240–241). Singapore: Marshall  Cavendish Editions. (Call no.: RCLOS 792.7028092 RAJ); Ho, 2014, p. 38 
 
-[^33]:Rudolph, 1996, pp. 26–27; Phang, M.Y. (1995, June 9). Three worlds and a time when life was a cabaret. The Straits Times, p. 8. Retrieved from  NewspaperSG.
+[^33]:[Rudolph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674714), 1996, pp. 26–27; Phang, M.Y. (1995, June 9). [Three worlds and a time when life was a cabaret](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950609-1.2.74.3.5). *The Straits Times*, p. 8. Retrieved from  NewspaperSG.
 
-[^34]:The Singapore Free Press and Mercantile Advertiser (1884–1942), 7 May 1937, p. 9; Singapore’s latest cabaret. (1938, May 15). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^34]:*[The Singapore Free Press and Mercantile Advertiser (1884–1942)](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370507-1.2.65)*, 7 May 1937, p. 9; [Singapore’s latest cabaret](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380515-1.2.22). (1938, May 15). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-[^35]:Shaw Organisation, 2007; Rudolph, 1996, p. 25.
+[^35]:Shaw Organisation, 2007; [Rudolph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674714), 1996, p. 25.
 
-[^36]:Great to be back in a whole new world. (1996, April 18). The Straits Times, p. 2; Heng, G. (1976, July 13). Oh, so many worlds apart!. New Nation, pp. 10–11. Retrieved from NewspaperSG.
+[^36]:[Great to be back in a whole new world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960418-1.2.73.2.1). (1996, April 18). *The Straits Time*s, p. 2; Heng, G. (1976, July 13). [Oh, so many worlds apart!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760713-1.2.75). *New Nation*, pp. 10–11. Retrieved from NewspaperSG.
 
-[^37]:The Straits Times, 20 May 2000, p. 69.
+[^37]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760713-1.2.75)*, 20 May 2000, p. 69.
