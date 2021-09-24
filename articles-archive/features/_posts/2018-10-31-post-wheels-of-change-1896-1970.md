@@ -186,12 +186,3 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 [^22]:[Ford Company opens here](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261123-1.2.32). (1926, November 23). *The Singapore Free Press*, p. 8. Retrieved from NewspaperSG.
 [^23]:[Ford company in Malaya is 30 years old](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561109-1.2.141.1). (1956, November 9). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
 [^24]:Soh, T.K. (1971, October 11). [Japanese cars to cost more](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711011-1.2.4). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
-
-
-
-
-
-
-
-
-
