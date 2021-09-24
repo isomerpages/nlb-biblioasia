@@ -162,3 +162,33 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
+[^1]:Definition of automobilism in English. (n.d.). *English Oxford Living Dictionaries*. Retrieved from Oxford University Press website.
+[^2]:Singapore. Archives and Oral History Department. (1984). [*The land transport of Singapore: From early times to the present*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079981) (p. 4). Singapore: Archives and Oral History Department; Educational Publications Bureau Pte Ltd. (Call no.: RSING 779.9388095957 LAN)
+[^3]:[Singapore’s first autocar](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18960813-1.2.6). (1896, August 13). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
+[^4]:Hope, T. (1935, October 8). [How Singapore has been revolutionised by the modern motor car](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.4.16). The Singapore Free Press, p. 20; [An autocar anniversary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19270813-1.2.27). (1927, August 13). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
+
+
+ 
+
+Sutton, R.T. (1958, July 5). Singapore’s first motor car was a problem. The Straits Times, p. 9. Retrieved from NewspaperSG.
+The Singapore Free Press, 13 Aug 1927, p. 5.
+Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). One hundred years of Singapore (Vol. 2, p. 364). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
+Davies, D. (1955, March 13). Mr. Buckley and his coffee machine. The Straits Times, p. 12. Retrieved from NewspaperSG.
+Groom, P. (1957, November 4). Famous ‘firsts’ of days gone by in S’pore. The Singapore Free Press, p. 10. Retrieved from NewspaperSG.
+Makepeace, Brooke, & Braddell, 1991, p. 364.
