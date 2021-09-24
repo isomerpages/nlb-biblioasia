@@ -161,9 +161,9 @@ Without the heaving crowds, the amusement parks were unable to survive and event
 
 [^12]:Chan, K.S. (2000, June 12). Worlds of fun and games. *The Straits Times*, p. 7. Retrieved from NewspaperSG; Sng, S. (Interviewer)(2005, January 26). Oral history interview with Richard Woon Kai Yin [MP3 recording no. 002908/71/03]. Retrieved from National Archives of Singapore website; *The Straits Times*, 25 Mar 1990, p. 2. 
 
-[^13]:Oral history interview with Richard Woon Kai Yin, 26 Jan 2005; Rudolph, J. (1996). Amusement in the three “worlds”. In S. Krishnan, et. al. (Eds.), Looking at culture (p. 22). Singapore: Artres Design & Communications. (Call no.: RSING 306.095957 LOO)
+[^13]:*[Oral history interview with Richard Woon Kai Yin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/12fd3357-115f-11e3-83d5-0050568939ad?keywords=richard+woon+kai+yin&keywords-type=all)* , 26 Jan 2005; Rudolph, J. (1996). Amusement in the three “worlds”. In S. Krishnan, et. al. (Eds.), Looking at culture (p. 22). Singapore: Artres Design & Communications. (Call no.: RSING 306.095957 LOO)
 
-[^14]:*[Oral history interview with Richard Woon Kai Yin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/12fd3357-115f-11e3-83d5-0050568939ad?keywords=richard+woon+kai+yin&keywords-type=all)*, 26 Jan 2005; [Rudolph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674714), 1996, p. 22.
+[^14]:*[Oral history interview with Richard Woon Kai Yin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/12fd3357-115f-11e3-83d5-0050568939ad?keywords=richard+woon+kai+yin&keywords-type=all)* , 26 Jan 2005; [Rudolph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674714), 1996, p. 22.
 
 [^15]:[Rudolph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674714), 1996, p. 22.
 
