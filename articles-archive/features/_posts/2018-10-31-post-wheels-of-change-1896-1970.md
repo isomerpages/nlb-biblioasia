@@ -80,8 +80,7 @@ Japanese cars were much cheaper than their American and European counterparts, a
 
 |In 1919, the Singapore Motor Taxi Cab and Transport Company Limited was incorporated in the Straits Settlements (comprising Singapore, Penang and Malacca) and published its prospectus in the local newspapers to raise $350,000 as capital. The company proposed starting a taxi service comprising a fleet of 40 Ford Landaulettes as taxi-cabs. The 20-horsepower six-seater Landaulette was distributed by C.F.F. Wearne and Company.
 
-|<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels8.JPG">(Left) The four-seater Trojan was promoted as a “private car, taxi or bus” that could halve the usual running expenses for a car. <i>Image reproduced from The Singapore Free Press, 9 September 1925, p. 5.</i><br>
-(Right) Yellow Top Cabs first appeared in Singapore in 1933 and soon became a familiar sight on the streets. <i>Image reproduced from The Straits Times, 6 November 1933, p. 16.</i>
+|<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels8.JPG">(Left) The four-seater Trojan was promoted as a “private car, taxi or bus” that could halve the usual running expenses for a car. <i>Image reproduced from The Singapore Free Press, 9 September 1925, p. 5.</i><br> (Right) Yellow Top Cabs first appeared in Singapore in 1933 and soon became a familiar sight on the streets. <i>Image reproduced from The Straits Times, 6 November 1933, p. 16.</i>
 
 |By the end of 1920, the Singapore Taxicab Co. was advertising a “Call a Taxi” service in *The Straits Times*. Its black-and-yellow taxis were stationed at Raffles Place, General Post Office, Grand Hotel de l’Europe, Adelphi Hotel, Raffles Hotel and the company’s garage at 1 Orchard Road, ready to pick up passengers. The fare was 40 cents per mile – the same as when taxi services were introduced a decade earlier.
 
