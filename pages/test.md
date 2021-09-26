@@ -15,10 +15,27 @@ permalink: /test
 
 ----------------------------------------------
 
-.container {
-  margin: 0 auto;
-  max-width: 48rem;
-  width: 90%;}
 <div class="container">
-2315646546
+  <div class="row clearfix">
+    <div class="column half">
+     one
+    </div>
+    <div class="column half">
+      two
+    </div>
+  </div>
 </div>
+@media (min-width: 40rem) {
+  .column {
+    float: left;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .column.full { width: 100%; }
+  .column.two-thirds { width: 66.7%; }
+  .column.half { width: 50%; }
+  .column.third { width: 33.3%; }
+  .column.fourth { width: 25%; }
+  .column.flow-opposite { float: right; }  
+}
