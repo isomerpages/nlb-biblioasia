@@ -15,15 +15,10 @@ permalink: /test
 
 ----------------------------------------------
 
-/* Small screens (default) */
-html { font-size: 100%; }
-
-/* Medium screens (640px) */
-@media (min-width: 40rem) { 
-  html { font-size: 112%; }
-}
-
-/* Large screens (1024px) */
-@media (min-width: 64rem) { 
-  html { font-size: 120%; }
-}
+.container {
+  margin: 0 auto;
+  max-width: 48rem;
+  width: 90%;}
+<div class="container">
+2315646546
+</div>
