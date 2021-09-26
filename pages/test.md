@@ -15,18 +15,15 @@ permalink: /test
 
 ----------------------------------------------
 
-<div class="container">
-    <div class="column">
-      <h2>I am the heading</h2>
-      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus aliquam dolor, eu lacinia lorem placerat.            </p>
-    </div>
+/* Small screens (default) */
+html { font-size: 100%; }
 
- <div class="column">
-      <h2>I am the heading</h2>
-      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus aliquam dolor, eu lacinia lorem placerat.            </p>
-    </div>
+/* Medium screens (640px) */
+@media (min-width: 40rem) { 
+  html { font-size: 112%; }
+}
 
-
-
-
-</div>
+/* Large screens (1024px) */
+@media (min-width: 64rem) { 
+  html { font-size: 120%; }
+}
