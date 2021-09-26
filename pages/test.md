@@ -15,4 +15,8 @@ permalink: /test
 
 ----------------------------------------------
 
-<div style="background-color: white;">A souvenir guide produced for the Malaya Borneo Exhibition held in Singapore from 31 March to 17 April 1922. </div>
+<div class="container">
+  <h1>Simple multicol example</h1>
+
+  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus aliquam dolor, eu lacinia lorem placerat vulputate.  dis parturient montes, nascetur ridiculus mus.</p>
+</div>
