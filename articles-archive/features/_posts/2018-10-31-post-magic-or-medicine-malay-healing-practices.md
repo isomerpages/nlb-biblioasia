@@ -6,7 +6,7 @@ layout: post
 ---
 #### Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? **Nadirah Norruddin** uncovers the varying perceptions of Malay medicine in colonial Malaya.
 
-<img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG">
 <div style="background-color: white;">The <i>bomoh akar kayu</i> (<i>akar kayu</i> means “roots” in Malay) believes that nature is the source of life and is imbued with restorative qualities. The <i>bomoh akar kayu</i> is well versed in the healing properties of plants and herbs, and forages hilly areas and dense forests like the one illustrated here in search of plants to make <i>ubat</i> (medicine). This 1869 print titled “Bathing Place Near Selita” in Singapore is by Austrian naturalist Eugen von Ransonnet. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 Malay *ubat-ubatan* (medicine) and healing – which spans many centuries and has been passed down through generations either orally or in written form – is a complex and holistic practice.
@@ -17,7 +17,7 @@ Colonial scholars and administrators in 20th-century Malaya were invariably conf
 
 As a result, the practice and form of traditional Malay medicine underwent dramatic changes under colonial rule. Legislations, for instance – shaped by altruism or bigotry, but more likely a combination of the two – were introduced by the British to stamp out traditional Malay healing practices and regulate village healers.
 
-<img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed2.JPG">
+<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed2.JPG">
 <div style="background-color: white;">A portrait of a Malay traditional healer, c. 1900. These medicine men usually carried their bottles of medicine and herbs wrapped in a <i>kain sarong</i> (“sarong cloth”) slung over their shoulders. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The Spread of Islam and Malay Medicine**
