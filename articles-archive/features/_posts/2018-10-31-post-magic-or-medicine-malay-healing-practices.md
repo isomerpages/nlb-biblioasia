@@ -28,7 +28,7 @@ Western scholars of the time held the view that the Malay community adopted a hy
 
 Medicine in Islam is characterised by a history of enquiry, innovation and adaptation. This is reflected in the ease in which indigenous healers adopted and adapted Islamic symbolism in their practices. In the Malay Peninsula, ceremonies overseen by the *pawang* (or shaman) include Quranic incantations and prayers addressed solely to God, even though most other aspects of the rituals are Hindu-Buddhist or pre-Indic in character.
 
-<img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed3.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed3.JPG">
 <div style="background-color: white;">(Left) A typical <i>Kitab Tibb</i> (The Book of Medicine) manuscript from 14th-century Iran listing the cures, properties and methods of preparation for healing purposes. Such manuscripts were later translated and used in the Malay Archipelago. <i>Collection of the Asian Civilisations Museum.</i><br>
 (Right) An anchak or sacrificial tray used by the Malay medicine man (or bomoh). The tray has a fringe around it called “centipedes’ feet”. The <i>ketupat</i> and <i>lepat</i> (rice receptacles made of plaited palm fronds) are hung from the “suspenders” attached to the tray. <i>Image reproduced from Skeat, W.W. (1900). Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula (p. 414). London: Macmillan and Co.</i></div>
 
@@ -42,7 +42,7 @@ The earliest edition of the *Kitab Tibb* was written on 12 wooden sheets, and pr
 
 Traditional Malay healing offers a holistic, multifaceted and ecological solution to a multitude of illnesses and ailments. It comprises aspects of the spiritual, such as magic, shamanism and the supernatural, and the empirical, such as dietetics and herbalism, which can be scientifically explained.
 
-<img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed4.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed4.JPG">
 <div style="background-color: white;">The betel vine, prayer bowl engraved with Quranic verses and invocations, and the mortar and pestle – among other items – are used in the practice of traditional Malay medicine. <i>Bowl, collection of the Asian Civilisations Museum; betel vine, mortar and pestle, courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 Although Islam may have encouraged the use and incorporation of nature in traditional Malay medicine, natural remedies were already widely used in local healing practices and rituals prior to the arrival of Islam in the Malay world. For example, common plants, herbs and spices like *bonglai* (*Zinggibar cassumunar*) had been used to treat migraine, cough and gastrointestinal problems for centuries.
