@@ -19,7 +19,7 @@ The “super spy” craze peaked between 1966 and 1968 and included a few shot-i
 
 Two versions of the film were produced simultaneously: one in English and the other in French, which is why the producers took pains to cast as many actors as possible who were bilingual so that they could play their parts in both languages. Only the few main actors who were not conversant in French had to be dubbed along with all the Singaporean extras.
 
-<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore2.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore2.JPG">
 <div style="background-color: white;"><i>Five Ashore in Singapore</i> is the film adaptation of the 1959 French novel, <i>Cinq gars pour Singapour</i>, by the prolific French writer Jean Bruce. Literally translated as “Five Guys for Singapore”, the title is a clever pun on the name of the city because <i>cinq-gars-pour</i>, when said quickly, sounds exactly like “Singapour”. Pictured here is the cover of the first edition of the book published by Presses de la Cité in 1959. <i>Courtesy of Raphaël Millet.</i></div>
 
 Based on the 1959 novel *Cinq gars pour* Singapour by the prolific French writer Jean Bruce (1921–63), the film was initially titled *OSS 117 Goes to Singapore* after the spy novel series, *OSS 117*, which Bruce created in 1949. The story centres around the secret agent Hubert Bonnisseur de la Bath, who worked for the Office of Strategic Services, or OSS, during World War II. Like his spy novelist counterpart Ian Fleming, Bruce set his adventures in cities such as Tokyo, Bangkok, Caracas and Istanbul for the “exoticism” these places evoked in the minds of Western audiences. Naturally, Singapore was selected as the setting for *Five Ashore in Singapore*.
@@ -36,7 +36,7 @@ It is within the context of the successful Eurospy craze that French producer Pi
 
 Hence in the movie, the hero is renamed Art Smith. A clear playful allusion is nevertheless made at the beginning of the movie when a car waiting for him at Singapore’s old Paya Lebar Airport is numbered 117.
 
-<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore3.JPG">
+<img style="width: 330px; height: 450px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore3.JPG">
 <div style="background-color: white;">The lead character, Captain Art Smith of the Central Intelligence Agency, is played by Sean Flynn, son of legendary Hollywood actor Errol Flynn and French actress Lili Damita. The younger Flynn was then taking a break from his photojournalism stint in Vietnam during the war. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 *Five Ashore in Singapore*, like so many similar B-flicks, has a very simple plot that closely follows that of the original novel. Captain Art Smith of the Central Intelligence Agency is sent to Singapore to investigate the whereabouts of several US Marines who mysteriously disappear while on shore leave. Upon his arrival, Smith meets four Marines who volunteer to assist him. Together, the five men pretend to be a group of Marines looking for a good time, but in fact hoping to be caught in the same trap as their missing colleagues.
@@ -53,7 +53,7 @@ By the time director Bernard Toublanc-Michel adapted Bruce’s novel into a movi
 
 Soldiers nicknamed these breaks “I&I”, or “Intoxication and Intercourse”, as these outings were invariably fuelled by plenty of alcohol, drugs and sex. Singapore, true to its form then, was depicted as a rather seedy and dangerous city in publicity materials that were issued when *Cinq gars pour Singapour* was released in France in March 1967. The press release took pains to highlight the fact that American Marines are routinely warned to behave with discretion when they are in Singapore for R&R, including dressing as civilians when travelling in the city, because there has been cases where local boys had tried to pick a fight.[^7]
 
-<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore4.JPG">
+<img style="width: 650px; height: 380px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore4.JPG">
 <div style="background-color: white;">Accident scene in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 In an interview given at his apartment near Paris on 1 June 2018, Toublanc-Michel said that the geopolitical context of Singapore against the backdrop of the Vietnam War was what made the adaptation of Bruce’s OSS 117 novel *Cinq gars pour Singapour* so interesting to him: it gave him the opportunity to explore and expose what he calls “les à-côtés de la guerre” (“extra income and activities”) that was generated on the sidelines of the war.[^8]
