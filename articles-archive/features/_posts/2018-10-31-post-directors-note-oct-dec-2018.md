@@ -24,7 +24,7 @@ Does traditional Malay medicine have more in common with science or magic and fo
 
 With gender-related issues so much in the news today, Phyllis Chew takes a look at the history of the Singapore Council of Women (SWC). Spearheaded in 1952 by activist Shirin Fodzar to break down barriers in society, the SWC was an instrumental force in the enactment of the Women’s Charter in 1961.
 
-In another, and mellower, look at women, Robert Yeo pays tribute to his daughter Sha Min and the acclaimed writer Catherine Lim, in an extract from a forthcoming sequel to his memoir Routes: A Singaporean Memoir 1940–1975.
+In another, and mellower, look at women, Robert Yeo pays tribute to his daughter Sha Min and the acclaimed writer Catherine Lim, in an extract from a forthcoming sequel to his memoir, *Routes: A Singaporean Memoir 1940–1975*.
 
 Finally, we showcase two collections from the National Library: Ong Eng Chuan previews significant items from the Lee Kip Lee and Lee Kip Lin Family Archives of personal and business papers belonging to a prominent Peranakan family in British Malaya; while Barbara Quek highlights publications featuring some of Singapore’s best hawker stalls from our Legal Deposit Collection.
 
