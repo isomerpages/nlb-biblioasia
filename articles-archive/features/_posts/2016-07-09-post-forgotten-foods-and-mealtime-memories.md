@@ -34,8 +34,6 @@ But unlike today’s hawkers, this noodle seller would cry out his wares, in bet
 
 The *ting-ting* man who used to peddle his tray of rock candy too is no more: he’d use a small hammer and chisel to break into the hard white candy, the resulting high-pitched clatter of metal against metal giving the name *ting-ting*. Also long gone is the Indian *tikam-tikam* man tooting the horn of his small van, a treasure trove of bits and bobs as well as fairground goodies such as candy floss and a shocking pink sweet wafer disc sold from large tins, for which you gambled or played *tikam-tikam* (Malay for “game of chance”) with the vendor.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/forgotten-food/03-forgottenfood-mealtimememories.jpg"><i>Loh kai yik</i>, or braised chicken wings, is a Cantonese dish made of chicken wings, pork belly, pig’s liver and intestines, <i>ju her</i> (cured cuttlefish), <i>kangkong</i> (water convolvulus) and soya bean puffs. <i>All rights reserved, Tan, S. (2011). Modern Nonya. Singapore: Marshall Cavendish Cuisine.</i></div>
-
 Meanwhile the *lor ap* or braised duck man would cry out “lor ap” in a long nasal cry, carrying his soy-braised ducks, a Teochew speciality, as well as his wooden chopping block, in baskets balanced on a pole across his shoulders. He would chop up the duck as you liked it. You could even ask for just one drumstick, as my grandmother would do, sinking her teeth into its unctuous flesh without waiting for it to be cut up first. Or you could ask for braised innards and duck webs, which modern *lor ap* sellers of today are unlikely to purvey.
 
 Hawkers today would not dream of pounding the streets in search of customers, lugging their wares on their shoulders as the *lor ap* man of old did daily. Government restrictions on food handling have put paid to such unsanitary practices. Using just one pail of water to wash dirty crockery throughout the day would not have been tolerated today.
@@ -43,6 +41,8 @@ Hawkers today would not dream of pounding the streets in search of customers, lu
 #### **Food on the Go – Literally**
 
 I remember these hawkers with fondness for they offered an amazing variety of foods. You could count among this foot army of food sellers the Indian *kacang puteh* man, who sold a variety of roasted and boiled nuts on a tray balanced precariously on his head, and the *putu mayam* man who also carried his lacy white rice flour pancakes, eaten with bright orange sugar and shredded coconut, in a basket balanced on his head.
+
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/forgotten-food/03-forgottenfood-mealtimememories.jpg"><i>Loh kai yik</i>, or braised chicken wings, is a Cantonese dish made of chicken wings, pork belly, pig’s liver and intestines, <i>ju her</i> (cured cuttlefish), <i>kangkong</i> (water convolvulus) and soya bean puffs. <i>All rights reserved, Tan, S. (2011). Modern Nonya. Singapore: Marshall Cavendish Cuisine.</i></div>
 
 When public housing came into the picture, the *nasi lemak* boy (they were always boys) would carry packets of banana leaf-wrapped rice with spicy *sambal*, fried fish or omelette in a basket almost as big as himself along the common corridors of the flats. People hearing the sing-song call of “naaa-si lemaaak” of these boys would scurry out of their flats to buy these savoury coconut-rice parcels for breakfast or a mid-morning snack.
 
