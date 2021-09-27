@@ -112,3 +112,14 @@ The female role of Tsi Houa was played by Chan See Foon (credited as “See Foon
 <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore8.JPG">
 <div style="background-color: white;">Chan See Foon, one of Singapore’s early supermodels, plays Tsi Houa. She has a full scene, first with Sean Flynn who plays Captain Art Smith and then with Swiss actor Marc Michel who plays one of the Marines. In this scene on Pulau Brani, Tsi Houa’s baby is forcibly taken away from her before she dies in an explosion. <i>Courtesy of Raphaël Millet.</i></div>
 
+The Singapore production manager G.S. Heng was a producer employed by Cathay-Keris for many years under the command of general manager Tom Hodge. Cathay had excellent shooting facilities at its Katong studio on East Coast Road, which was used by many overseas productions, including *Five Ashore in Singapore* for its nightclub and opium den scenes. Next to the studio was Ocean Park Hotel (also owned by Cathay Organisation), where the cast and crew were conveniently accommodated during the entire duration of the shoot, and where a party scene was filmed.
+
+Today, *Five Ashore in Singapore* remains as a little-known but precious piece in the history of film in Singapore. Bringing together an international cast along with a few local actors, it captured the Lion City at a time of historic change. With its editing completed in January 1967, *Five Ashore* was commercially released in March 1967 in France – where it enjoyed a particularly long run at the Balzac Theatre in Paris – with a PG-13 rating. The film was subsequently released in Europe and North America where it was shown in cinemas right into the beginning of 1968.
+
+<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore9.JPG">
+<div style="background-color: white;">Five Ashore in Singapore was retitled and released on 17 February 1968 in Singapore as <i>Our Five Men in Singapore. Image reproduced from The Straits Times, 22 February 1968, p. 4.</i></div>
+
+As for Singapore, the film was retitled as *Our Five Men in Singapore* and opened on 17 February 1968 at the Odeon cinema on North Bridge Road. Advertisements enticed would-be patrons to catch the “exciting street fight in Katong” and “exotic back alleys of Chinatown”, and touted it as “filmed entirely on location in Singapore”. Perhaps this is the main reason why we should watch the film – regardless of the half-dozen titles it is known by – and recapture a slice of 1960s Singapore.
+
+<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">
+<div style="background-color: white;">Action scenes filmed in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
