@@ -27,7 +27,6 @@ The introduction of automobiles was enthusiastically embraced by the who’s who
 <img style="width: 390px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels3.JPG">
 <div style="background-color: white;">Charles B. Buckley in his Benz “Motor-Velociped”, which was advertised as a “horseless carriage”. He and B. Frost of the Eastern Extension Telegraph were the first to own and drive the Benz in Singapore. <i>Image reproduced from Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. II). London: John Murray. (Call no.: RCLOS 959.51 MAK-[RFL]).</i></div>
 
-
 All three models shared a reputation for being very noisy and hence did not require horns to make themselves heard. Buckley dubbed his car “The Coffee Machine” because of the awful grinding noises it made.[^6]
 
 #### **Who Dares Wins**
@@ -38,7 +37,7 @@ Even more amazing was the fact that Mrs Dare clocked more than 69,000 miles (111
 
 #### **The Rise of the Automobile**
 
-In 1907, the Singapore Automobile Club (SAC) was formed, with Governor John Anderson as its president. Notable members included the Sultan of Johor; Walter John Napier, a lawyer-academic who was the first editor of the Straits Settlements Law Reports; and E.G. Broadrick, president of the Singapore Municipality between 1904 and 1910 and later the British Resident of Selangor.[^12] Remarkably, by 1908 – when the world automobile industry was still in its infancy[^13] – there were already 214 individuals in Singapore licensed to drive “motor-cars, motor-bicycles and steam-rollers”.[^14]
+In 1907, the Singapore Automobile Club (SAC) was formed, with Governor John Anderson as its president. Notable members included the Sultan of Johor; Walter John Napier, a lawyer-academic who was the first editor of the *Straits Settlements Law Reports*; and E.G. Broadrick, president of the Singapore Municipality between 1904 and 1910 and later the British Resident of Selangor.[^12] Remarkably, by 1908 – when the world automobile industry was still in its infancy[^13] – there were already 214 individuals in Singapore licensed to drive “motor-cars, motor-bicycles and steam-rollers”.[^14]
 
 In June 1907, *The Straits Times* announced that it was devoting a special column to automobilism.[^15] The column started off as “Motors & Motoring” in 1910, was renamed “The Motoring World” in 1911 and ran until 1928.[^16] Its longevity was testimony to the fascination with cars among the paper’s readers, if not the general population.
 
