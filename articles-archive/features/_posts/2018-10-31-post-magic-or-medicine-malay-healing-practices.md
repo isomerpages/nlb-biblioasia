@@ -85,7 +85,7 @@ Although Western medical services were gradually introduced to the local populat
 
 |**HEALING PRACTICES**
 
-|One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
+|One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.<br>
 
 | &nbsp; &nbsp; | For Violent Headaches and Loss of Energy | For Dizziness and Vertigo	| For Night Chills |
 | -------- | -------- | -------- |
