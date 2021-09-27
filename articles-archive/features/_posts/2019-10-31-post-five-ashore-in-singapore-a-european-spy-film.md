@@ -130,7 +130,7 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 
 |Its original title *Cinq gars pour Singapour* is French, as this is the title of the French novel it is adapted from. *Cinq gars pour Singapour*, when literally translated, means “Five guys for Singapore” – *cinq* is “five”, *gars* is “guys” and *pour* is “for” – and is a clever phonetic pun on the name of the city, since *cinq-gars-pour* (when said quickly) sounds exactly like “Singapour”.
 
-|<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">(Top) A Yugoslavian lobby card with the film title translated into Serbian – <i>Pet Momaka za Singapour. Courtesy of Raphaël Millet.</i><br>
+|<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore11.JPG">(Top) A Yugoslavian lobby card with the film title translated into Serbian – <i>Pet Momaka za Singapour. Courtesy of Raphaël Millet.</i><br>
 (Left) The French press kit of Five Ashore in Singapore. The film was commercially released in March 1967 in France, where it enjoyed a long run at the Balzac Theatre in Paris. <i>Courtesy of Raphaël Millet.</i><br>
 (Right) The Italian film poster for Five Ashore in Singapore, 1967. <i>Courtesy of Raphaël Millet.</i>
 
@@ -140,4 +140,18 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 
 |**SPY MUSIC**
 
-|The music for Five Ashore in Singapore was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of Five Ashore’s director Bernard Toublanc-Michel, he composed Somewhere in Singapore (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
+|The music for *Five Ashore in Singapore* was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of *Five Ashore*’s director Bernard Toublanc-Michel, he composed *Somewhere in Singapore* (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
+
+|<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore12.JPG">Cover of the French record album of Five Ashore in Singapore, 1967. The music for the film was composed by renowned French composer Antoine Duhamel. © Barclay Editions. <i>Courtesy of Raphaël Millet.</i>
+
+Quite brazenly, the song was directly based on the melody of the now iconic *Yellow Submarine*, the Beatles’ number one hit in 1966. Indeed, Toublanc-Michel had asked his actors who played the five Marines to stride out of Clifford Pier with the Beatles’ song playing in their heads, so as to lend a certain rhythm to their swagger.
+
+Other melodies with no lyrics composed by Duhamel include *Paradise Limited* for the club scene and *Thème de la drogue* (the drug theme) for the opium den scene.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore13.jpg" style="width: 100px; height: 100px;">
+<b>Raphaël Millet</b> is a film director, producer and critic with a passion for early cinema. He has published two books, "Le Cinéma de Singapour" (2004) and "Singapore Cinema" (2006), as well as directed documentaries such as "Gaston Méliès and His Wandering Star Film Company" (2015), screened as part of the 2015 Singapore International Film Festival, and "Chaplin in Bali" (2017), which opened the Bali International Film Festival in 2017.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
