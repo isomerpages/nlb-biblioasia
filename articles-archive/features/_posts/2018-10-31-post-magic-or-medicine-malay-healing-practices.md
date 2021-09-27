@@ -86,3 +86,18 @@ Although Western medical services were gradually introduced to the local populat
 |**HEALING PRACTICES**
 
 |One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
+
+
+
+| For Violent Headaches and Loss of Energy | For Dizziness and Vertigo	| For Night Chills |
+| -------- | -------- | -------- |
+| Cumin seeds (5 cents)| 5 young shoots of betel vine     | Daun medan (root of an unidentified plant)     | Ingredients    |
+Garlic (10 cents)
+Indian hemp
+Ginger
+Smilax china
+Mace (35 cents)
+Nutmeg (5 cents)
+Henbane
+Javanese ginger    | Text     | Text     |
+
