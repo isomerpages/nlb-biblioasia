@@ -35,7 +35,7 @@ I’ve been working as an independent researcher and writer in Singapore’s his
 
 My personal interest comes from wanting to find out more about Singapore, past and present, which possesses far richer, more complex and unsettling stories than the airbrushed, whitewashed *Majulah Singapura* version found in school textbooks or mainstream discourse.
 
-|I’m interested in stories that no one used to care about, stories that complicate or overturn the orthodox way of thinking about the present – stories that begin with questions that no one has thought of asking before.|
+I’m interested in stories that no one used to care about, stories that complicate or overturn the orthodox way of thinking about the present – stories that begin with questions that no one has thought of asking before.
 
 For all the documentation projects, government grants, websites, Facebook pages and knick-knacks that have sprung up around “Singapore heritage”, I’m often reminded that the stories that have not yet been told, the layers that have not yet been peeled back, are often staring us in the face.
 
