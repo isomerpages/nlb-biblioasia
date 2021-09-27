@@ -142,9 +142,9 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 
 |<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore12.JPG">Cover of the French record album of Five Ashore in Singapore, 1967. The music for the film was composed by renowned French composer Antoine Duhamel. © Barclay Editions. <i>Courtesy of Raphaël Millet.</i>
 
-Quite brazenly, the song was directly based on the melody of the now iconic *Yellow Submarine*, the Beatles’ number one hit in 1966. Indeed, Toublanc-Michel had asked his actors who played the five Marines to stride out of Clifford Pier with the Beatles’ song playing in their heads, so as to lend a certain rhythm to their swagger.
+|Quite brazenly, the song was directly based on the melody of the now iconic *Yellow Submarine*, the Beatles’ number one hit in 1966. Indeed, Toublanc-Michel had asked his actors who played the five Marines to stride out of Clifford Pier with the Beatles’ song playing in their heads, so as to lend a certain rhythm to their swagger.
 
-Other melodies with no lyrics composed by Duhamel include *Paradise Limited* for the club scene and *Thème de la drogue* (the drug theme) for the opium den scene.
+|Other melodies with no lyrics composed by Duhamel include *Paradise Limited* for the club scene and *Thème de la drogue* (the drug theme) for the opium den scene.
 
 <br>
 <div style="background-color: white;">
