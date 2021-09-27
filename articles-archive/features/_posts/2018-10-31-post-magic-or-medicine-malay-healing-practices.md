@@ -89,7 +89,6 @@ Although Western medical services were gradually introduced to the local populat
 
 | &nbsp; &nbsp; | For Violent Headaches and Loss of Energy | For Dizziness and Vertigo	| For Night Chills |
 | -------- | -------- | -------- |
-| Ingredients | Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br>*Smilax china*
-<br>Mace (35 cents) <br> Nutmeg (5 cents) <br>Henbane <br>Javanese ginger| 5 young shoots of betel vine <br>Red onion <br>Fennel seeds     | *Daun medan* (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut |
+| Ingredients | Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br>*Smilax china*<br>Mace (35 cents) <br> Nutmeg (5 cents) <br> Henbane <br>Javanese ginger| 5 young shoots of betel vine <br>Red onion <br>Fennel seeds | *Daun medan* (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut |
 | -------- | -------- | -------- |
 | Method | Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete. | Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days. | Reduce both ingredients to fine pulp. Apply to patient’s head. |
