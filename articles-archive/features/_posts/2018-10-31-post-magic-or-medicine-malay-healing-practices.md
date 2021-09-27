@@ -82,3 +82,7 @@ It is clear that colonial observers of 20th-century Malaya have largely contexua
 #### **Legislating Malay Medicine**
 
 Although Western medical services were gradually introduced to the local population, most Malays continued to consult their community healers as they allegedly had “complete faith in their own particular charms and cures” and “dread[ed] hospitals, doctors and western medicines”.16 As traditional healers were also involved in non-medical matters such as state, social and cultural affairs, they occupied an esteemed position in the indigenous communities they served.17
+
+|**HEALING PRACTICES**
+
+|One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
