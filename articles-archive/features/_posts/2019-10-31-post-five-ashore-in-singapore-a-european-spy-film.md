@@ -155,23 +155,40 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-[^11]:
-[^12]:
-[^13]:
-[^14]:
+[^1]:*So Darling So Deadly* (1966; original title *Kommissar X – In den Klauen des goldenen Drachen*) is a co-production between Austria, Italy, West Germany, Yugoslavia and Singapore, and directed by Italian filmmaker Gianfranco Parolini under his American pseudonym Frank Kramer. It was set – but not entirely filmed – in Singapore; some images of Hong Kong were inserted.
+[^2]:*Suicide Mission to Singapore* (1966; original title *Goldsnake: Anonima Killers*, but also known in German as *Goldsnake*, *Das Geheimnis der goldenen Schlange*) is a co-production between France, Spain and Italy. Also set and shot in Singapore, the film, directed by the Italian filmmaker Ferdinando Baldi, tells of a secret agent who travels to the island-city to solve a mystery.
+[^3]:Slater, B. (2012, September). *Cinq gars pour Singapour*. *Cinematheque Quarterly, 1*(1), 48–56; Slater, B. (2015, Apr–Jun). Spies, virgins, pimps and hitmen: Singapore through the Western lens. [*BiblioAsia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12585942), 11(1), 20–23, p. 21. (Call no.: RSING 027.495957 SNBBA-[LIB]); Millet, R. (2006). [*Singapore Cinema*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716044) (p. 147). Singapore: Editions Didier Millet. (Call no.: RSING q791.43095957 MIL). Codelli, L. (2014). Five Ashore in Singapore aka Cinq gars pour Singapour aka Cinque Marines per Singapore (1966). In L. Codelli (Ed.), [*World film locations: Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201060966) (p. 42). Bristol: Intellect Books. (Call no.: RSING 791.43025095957 WOR)
+[^4]:Bond spin-offs, spoofs and parodies often used three-digit prefixes, such as 008, 077, X77, S3S, and because of that it has often been easy to mistake OSS 117 for another pale copy of the original. However, it is far from the truth. By the time the first James Bond book was published in 1953, Jean Bruce had already published several OSS 117 novels. He was such a prolific writer that he wrote about 90 books altogether (including the OSS 117 series) before his untimely death in a car accident in 1963 at age 43.
+[^5]:In the mid-2000s, the character of OSS 117 was revived on screen by filmmaker Michel Hazanavicius as a French spy working for the French secret service and turned into a comic character, portrayed by French actor Jean Dujardin as an arrogant and blatantly politically incorrect imbecile (far from the original OSS 117 character and his previous screen incarnations).
+[^6]:This would lead to the Second Indochina War, better known as the Vietnam War (1955–1975), fought between North Vietnam (supported by communist China and the Soviet Union) and South Vietnam (supported by anti-communist allies, including the United States, Australia, South Korea and Thailand).
+[^7]:Bernard Toublanc-Michel’s interview with the author, 1 June 2018
+[^8]:French press kit of *Cinq gars pour Singapour*, 1967, p. 13.
+[^9]:*Saint Jack*, shot entirely in Singapore between May and June 1978, was banned in January 1980 as local authorities felt that it portrayed the city negatively. The ban was lifted only in March 2006, with the film given an M18 rating. The film had its first official public screening in Singapore in 2006.  More on *Saint Jack*, see Slater, B. (2006). [*Kinda hot: The making of Saint Jack in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200039671) (p. 240). Singapore: Singapore: Marshall Cavendish Editions. (Call no.: RSING 791.430232 SLA)
+[^10]:Bernard Toublanc-Michel’s interview with the author, 1 June 2018.
+[^11]:Bernard Toublanc-Michel also thought of offering the role of Art Smith to Joe Dassin, son of Hollywood director Jules Dassin and a French woman. Like Sean Flynn, Joe Dassin was Franco-American and fluent in both English and French. In the end, Toublanc-Michel decided to cast Sean Flynn as he had experience working and living in Southeast Asia, and a better understanding of the geopolitical context of the plot. Interview with the author, 1 June 2018.
+[^12]:Bernard Toublanc-Michel’s interview with the author, 1 June 2018.
+[^13]:French press kit of *Cinq gars pour Singapour*, 1967, p. 14.
+[^14]:Slater, Srp 2012, p. 55
 [^15]:
 [^16]:
 [^17]:
 [^18]:
 [^19]:
 [^20]:
+Bernard Toublanc-Michel recalls having thought of Raoul Coutard, the most famous of all New Wave cinematographers, whom he had previously worked with, to shoot Five Ashore in Singapore, but this did not happen as Coutard was already hired for another film. Interview with the author, 1 June 2018.
+Interview with the author, 1 June 2018.
+Lombard, P. (2011). Sean Flynn: L’instinct de l’aventure (pp. 86–87). Paris: Editions du Rocher. (Not available in NLB holdings)
+Lombard, 2011, pp. 86–87
+French press kit of Cinq gars pour Singapour, 1967, p. 3.
+French press kit of Cinq gars pour Singapour, 1967, p.4.
+
+
+
+
+
+
+
+
+
+
+
