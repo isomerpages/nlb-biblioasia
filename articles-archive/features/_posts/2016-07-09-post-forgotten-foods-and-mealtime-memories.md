@@ -113,7 +113,7 @@ Elsewhere on the island, you could find forgotten fruit growing wild, like *buah
 
 Today, few would know what to do with this fruit. Older people would tell you that it can be cooked in a spicy tamarind gravy but is more often served as a dip, mixed with *sambal belacan*, dark soya sauce and sugar. The same fate could befall other local fruit I used to enjoy during my childhood. They include the sour *belimbing* (carambola) that my mother used to pickle when in season to add to curries and soups or mashed into a chutney. I still have a tree in my garden and I regularly pickle the fruit, but no one wants it because they don’t know what to do with these *belimbing*!
 
-<div style="background-color: white;"><img style="width:350px" src="/images/Vol-12-issue-2/forgotten-food/07a-forgottenfood-mealtimememories.jpg"><i>Belimbing</i> (carambola) is another fruit that is seldom seen today. It is cooked in a sambal with prawns here. <i>All rights reserved, Tan, S. (2011). Modern Nonya. Singapore: Marshall Cavendish Cuisine.</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/forgotten-food/07a-forgottenfood-mealtimememories.jpg"><i>Belimbing</i> (carambola) is another fruit that is seldom seen today. It is cooked in a sambal with prawns here. <i>All rights reserved, Tan, S. (2011). Modern Nonya. Singapore: Marshall Cavendish Cuisine.</i></div>
 
 Fewer still would have eaten durian flowers from the durian tree. You fry them with chilli paste or cook it with spices and coconut milk to make a *lemak* (spicy coconut gravy). The pretty white flowers, which have a short lifespan, fade quickly upon falling. But these days, how many people would have access to a durian tree to pick the fresh flowers anyway?
 
