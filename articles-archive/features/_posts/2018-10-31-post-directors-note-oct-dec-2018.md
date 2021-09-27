@@ -30,9 +30,9 @@ Finally, we showcase two collections from the National Library: Ong Eng Chuan pr
 
 On the subject of Legal Deposit, I should take this opportunity to highlight the recent amendment to the National Library Board Act which now allows us to archive Singapore websites without having to seek the express permission of website owners. Shereen Tay stresses the importance of systematically archiving the often ephemeral nature of web content for our future generations.
 
-We hope you enjoy reading this edition of BiblioAsia.
+We hope you enjoy reading this edition of *BiblioAsia*.
 
 <br>
-<b>Wai Yin Pryke</b>
+<b>Mrs Wai Yin</b><br>Pryke<br>Director<br>National Library
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
