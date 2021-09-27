@@ -129,3 +129,15 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 |Like similar B-movies of the era, the film went by several different titles. The English version in the United Kingdom was called *Five Ashore in Singapore*, and in the United States as the double-barrelled *Singapore, Singapore*.26 Inexplicably, in Singapore it was first announced as *Singapore Mission for Five*,27 before being eventually retitled and released as *Our Five Men in Singapore* in February 1968.
 
 |Its original title *Cinq gars pour Singapour* is French, as this is the title of the French novel it is adapted from. *Cinq gars pour Singapour*, when literally translated, means “Five guys for Singapore” – *cinq* is “five”, *gars* is “guys” and *pour* is “for” – and is a clever phonetic pun on the name of the city, since *cinq-gars-pour* (when said quickly) sounds exactly like “Singapour”.
+
+|<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">(Top) A Yugoslavian lobby card with the film title translated into Serbian – <i>Pet Momaka za Singapour. Courtesy of Raphaël Millet.</i><br>
+(Left) The French press kit of Five Ashore in Singapore. The film was commercially released in March 1967 in France, where it enjoyed a long run at the Balzac Theatre in Paris. <i>Courtesy of Raphaël Millet.</i><br>
+(Right) The Italian film poster for Five Ashore in Singapore, 1967. <i>Courtesy of Raphaël Millet.</i>
+
+|The pun is lost in translation of course, but details such as the number of male protagonists and location were kept intact in most of the titles of the foreign-language versions that were either dubbed or subtitled, for example *Cinco Marinos en Singapur* in Spanish (also *Cinco Muchachos en Singapur* in Argentina), *Cinque Marines per Singapore* in Italian, *Vijf Kerels Voor Singapore* in Dutch, and *Pet Momaka za Singapour* in Serbian for the Yugoslavian version of the film.
+
+<br>
+
+|**SPY MUSIC**
+
+|The music for Five Ashore in Singapore was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of Five Ashore’s director Bernard Toublanc-Michel, he composed Somewhere in Singapore (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
