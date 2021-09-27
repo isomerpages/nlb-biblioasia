@@ -140,29 +140,29 @@ This direct address, a hallmark of most monodramas, draws out the magnetic vulne
 
 #### **NOTES**
 
-[^1]:National Library Board. (2014, July 29). Chinese street storytellers written by Tan, Fiona. Retrieved from Singapore Infopedia website.
+[^1]:National Library Board. (2014, July 29). *[Chinese street storytellers](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html)* written by Tan, Fiona. Retrieved from Singapore Infopedia website.
 
-[^2]:Tan, C. (2014, September 30). Veiled digs at society and red tape. The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^2]:Tan, C. (2014, September 30). [Veiled digs at society and red tape](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140930-1.2.50.1.1). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^3]:Brook, P. (2008). The empty space (p. 11). London: Penguin Books. (Not available in NLB holdings)
+[^3]:Brook, P. (2008). *The empty space* (p. 11). London: Penguin Books. (Not available in NLB holdings)
 
 [^4]:The monologue is a long speech by a single actor in a play or film, or as part of a theatrical or broadcast programme; the monodrama is an entire dramatic piece acted by a single performer.
 
-[^5]:Lord, R. (2002, July) Konfrontation and konversion: Stella Kon gets her groove back. Quarterly Literary Review Singapore, 1(4). Retrieved from Quarterly Literary Review Singapore website.
+[^5]:Lord, R. (2002, July) Konfrontation and konversion: Stella Kon gets her groove back. *Quarterly Literary Review Singapore*, 1(4). Retrieved from *Quarterly Literary Review Singapore* website.
 
-[^6]:Tan, C. (2014, August 26). Turning the tide with Emily. The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^6]:Tan, C. (2014, August 26). [Turning the tide with Emily](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140826-1.2.51.1.8). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^7]:Singaporean plays sought by ministry. (1985, September 19). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^7]:[Singaporean plays sought by ministry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850919-1.2.24.4.aspx?q=Singaporean+plays+sought+by+ministry.&page=1&sort=relevance&token=ministry%2cby%2csought%2cplays%2csingaporean&sessionid=02c19ad0b76842a7bd0105dce62329ab). (1985, September 19). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^8]:柯思仁 [Quah, S.R]. (2013). 戏聚百年: 新加坡华 文戏剧 1913–2013 [Scenes: A hundred years of Singapore Chinese language theatre 1913–2013] (p. 13). Singapore: Drama Box & National Museum of Singapore. (Call no.: Chinese RSING 792.095957 QSR)
+[^8]:柯思仁 [Quah, S.R]. (2013).[ 戏聚百年: 新加坡华 文戏剧 1913–2013](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140) [*Scenes: A hundred years of Singapore Chinese language theatre 1913–2013*] (p. 13). Singapore: Drama Box & National Museum of Singapore. (Call no.: Chinese RSING 792.095957 QSR)
 
-[^9]:Untitled. (1892, December 5). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^9]:[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18921205-1.2.15). (1892, December 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^10]:Freear’s Frivolity. (1892, December 14). Straits Times Weekly Issue, p, 10. Retrieved from NewspaperSG.
+[^10]:[Freear’s Frivolity](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18921214-1.2.59). (1892, December 14). *Straits Times Weekly Issue*, p, 10. Retrieved from NewspaperSG.
 
-[^11]:Untitled. (1911, December 12). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^11]:[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19111212-1.2.41). (1911, December 12). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^11]:The Humphrey Bishop Co. (1916, April 26). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^11]:[The Humphrey Bishop Co](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19160426-1.2.53.aspx?q=The+Humphrey+Bishop+Co.&mode=advanced&f_df=19160101&f_dt=19161231&page=1&sort=relevance&token=co%2cbishop%2chumphrey%2cthe&sessionid=093e993cab6343b7aff342098d5c701b). (1916, April 26). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
 [^13]:[Leyland Hodgson Company](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19200625-1.2.22.aspx?q=Leyland+Hodgson+Company.&mode=advanced&f_df=19200101&f_dt=19201231&page=1&sort=relevance&token=company%2chodgson%2cleyland&sessionid=56c41158b0ce45e1bbe7faaa7f19ce86). (1920, June 26). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 12. Retrieved from NewspaperSG. 
 
@@ -170,7 +170,7 @@ This direct address, a hallmark of most monodramas, draws out the magnetic vulne
 
 [^15]:[柯思仁](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140), 2013, p. 93.
 
-[^16]:an, C.K. (2004). *Aesthetic strategies in the plays of The Necessary Stage*. In C.K. Tan & T. Ng. (Eds), *[Ask not: The Necessary Stage in Singapore theatre](https://eservice.nlb.gov.sg/itemholding.aspx?bid=12282535)* (p. 72). Singapore: Times Editions. (Call no.: RSING 792.095957 ASK)
+[^16]:Tan, C.K. (2004). *Aesthetic strategies in the plays of The Necessary Stage*. In C.K. Tan & T. Ng. (Eds), *[Ask not: The Necessary Stage in Singapore theatre](https://eservice.nlb.gov.sg/itemholding.aspx?bid=12282535)* (p. 72). Singapore: Times Editions. (Call no.: RSING 792.095957 ASK)
 
 [^17]:Tan, A. (2014). Foreword to *Best of by Haresh Sharma*. Singapore: The Necessary Stage.
 
