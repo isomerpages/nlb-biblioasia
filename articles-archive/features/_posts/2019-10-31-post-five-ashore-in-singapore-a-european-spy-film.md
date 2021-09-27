@@ -155,3 +155,5 @@ Other melodies with no lyrics composed by Duhamel include *Paradise Limited* for
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
