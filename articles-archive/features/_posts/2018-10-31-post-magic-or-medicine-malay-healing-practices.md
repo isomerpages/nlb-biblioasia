@@ -92,12 +92,3 @@ Although Western medical services were gradually introduced to the local populat
 | For Violent Headaches and Loss of Energy | For Dizziness and Vertigo	| For Night Chills |
 | -------- | -------- | -------- |
 | Cumin seeds (5 cents)| 5 young shoots of betel vine     | Daun medan (root of an unidentified plant)     | Ingredients    |
-Garlic (10 cents)
-Indian hemp
-Ginger
-Smilax china
-Mace (35 cents)
-Nutmeg (5 cents)
-Henbane
-Javanese ginger    | Text     | Text     |
-
