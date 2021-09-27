@@ -122,7 +122,7 @@ Today, *Five Ashore in Singapore* remains as a little-known but precious piece i
 As for Singapore, the film was retitled as *Our Five Men in Singapore* and opened on 17 February 1968 at the Odeon cinema on North Bridge Road. Advertisements enticed would-be patrons to catch the “exciting street fight in Katong” and “exotic back alleys of Chinatown”, and touted it as “filmed entirely on location in Singapore”. Perhaps this is the main reason why we should watch the film – regardless of the half-dozen titles it is known by – and recapture a slice of 1960s Singapore.
 
 <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">
-<div style="background-color: white;">Action scenes filmed in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
+<div style="background-color: white;">Action scenes filmed in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div><br>
 
 |**A MOVIE BY ANY OTHER NAME**
 
