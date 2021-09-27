@@ -169,26 +169,16 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 [^12]:Bernard Toublanc-Michel’s interview with the author, 1 June 2018.
 [^13]:French press kit of *Cinq gars pour Singapour*, 1967, p. 14.
 [^14]:Slater, Srp 2012, p. 55
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^20]:
-Bernard Toublanc-Michel recalls having thought of Raoul Coutard, the most famous of all New Wave cinematographers, whom he had previously worked with, to shoot Five Ashore in Singapore, but this did not happen as Coutard was already hired for another film. Interview with the author, 1 June 2018.
-Interview with the author, 1 June 2018.
-Lombard, P. (2011). Sean Flynn: L’instinct de l’aventure (pp. 86–87). Paris: Editions du Rocher. (Not available in NLB holdings)
-Lombard, 2011, pp. 86–87
-French press kit of Cinq gars pour Singapour, 1967, p. 3.
-French press kit of Cinq gars pour Singapour, 1967, p.4.
-
-
-
-
-
-
-
-
-
-
-
+[^15]:Bernard Toublanc-Michel recalls having thought of Raoul Coutard, the most famous of all New Wave cinematographers, whom he had previously worked with, to shoot *Five Ashore in Singapore*, but this did not happen as Coutard was already hired for another film. Interview with the author, 1 June 2018.
+[^16]:Interview with the author, 1 June 2018.
+[^17]:Lombard, P. (2011). *Sean Flynn: L’instinct de l’aventure* (pp. 86–87). Paris: Editions du Rocher. (Not available in NLB holdings)
+[^18]:Lombard, 2011, pp. 86–87
+[^19]:French press kit of *Cinq gars pour Singapour*, 1967, p. 3.
+[^20]:French press kit of *Cinq gars pour Singapour*, 1967, p.4.
+[^21]:Bernard Toublanc-Michel’s interview with the author, 1 June 2018.
+[^22]:Dennis Berry was the son of the famous Hollywood director John Berry. The latter had escaped the United States in the early 1950s due to accusations of being a communist.
+[^23]:Marika Green would subsequently appear in infamously famous French softcore porn movie *Emmanuelle* in 1974, in another Asian setting: Bangkok.
+[^24]:It is not known whether “Boss” is the actor’s real surname.
+[^25]:At the time of writing of this article, the role of Tsi Houa is wrongly credited on both Wikipedia and IMDb to “Foun-Sen”. Foun-Sen was a French actress of Vietnamese origin, and she was definitely not part of the cast of *Five Ashore in Singapore*.
+[^26]:Listed in IMDb by this title
+[^27]:Sam, J. (1966, October 1). [Solved-that Men from U.N.C.L.E riddle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661001-1.2.93). The Straits Times, p. 12; [When the kissing couldn’t even get started](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661002-1.2.32). (1966, October 2). The Straits Times, p. 3. Retrieved from NewspaperSG. 
