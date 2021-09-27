@@ -123,3 +123,9 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 
 <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">
 <div style="background-color: white;">Action scenes filmed in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
+
+|**A MOVIE BY ANY OTHER NAME**
+
+|Like similar B-movies of the era, the film went by several different titles. The English version in the United Kingdom was called *Five Ashore in Singapore*, and in the United States as the double-barrelled *Singapore, Singapore*.26 Inexplicably, in Singapore it was first announced as *Singapore Mission for Five*,27 before being eventually retitled and released as *Our Five Men in Singapore* in February 1968.
+
+|Its original title *Cinq gars pour Singapour* is French, as this is the title of the French novel it is adapted from. *Cinq gars pour Singapour*, when literally translated, means “Five guys for Singapore” – *cinq* is “five”, *gars* is “guys” and *pour* is “for” – and is a clever phonetic pun on the name of the city, since *cinq-gars-pour* (when said quickly) sounds exactly like “Singapour”.
