@@ -140,7 +140,7 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 
 |The music for *Five Ashore in Singapore* was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of *Five Ashore*’s director Bernard Toublanc-Michel, he composed *Somewhere in Singapore* (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
 
-|<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore12.JPG">Cover of the French record album of Five Ashore in Singapore, 1967. The music for the film was composed by renowned French composer Antoine Duhamel. © Barclay Editions. <i>Courtesy of Raphaël Millet.</i>
+|<img style="width: 500px; height: 370px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore12.JPG">Cover of the French record album of Five Ashore in Singapore, 1967. The music for the film was composed by renowned French composer Antoine Duhamel. © Barclay Editions. <i>Courtesy of Raphaël Millet.</i>
 
 |Quite brazenly, the song was directly based on the melody of the now iconic *Yellow Submarine*, the Beatles’ number one hit in 1966. Indeed, Toublanc-Michel had asked his actors who played the five Marines to stride out of Clifford Pier with the Beatles’ song playing in their heads, so as to lend a certain rhythm to their swagger.
 
