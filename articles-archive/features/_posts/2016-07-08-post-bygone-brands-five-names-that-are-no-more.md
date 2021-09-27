@@ -14,7 +14,7 @@ Do you remember Chung Khiaw Bank, Setron TVs and Three Rifles shirts? They were 
 
 It was called the “Selfridges of the East”, the poshest chain of department stores this side of the Suez.[^1] Shoppers looking for high-end European products during the early 20th century would make a beeline for this iconic store – Whiteaway, Laidlaw & Co.
 
-<div style="background-color: white;"><img style="width:250px" src="/images/Vol-12-issue-2/bygone-brands/02-bygonebrands.jpg">A Whiteaways advertisement in the 1937-38 issue of The Singapore Cinema Review introducing the “… exciting new perfume” called Mischief – all for the princely price of $1.75 or $2.75 a bottle. <i>© The Singapore Cinema Review.</i></div>
+<div style="background-color: white;"><img style="width:250px" src="/images/Vol-12-issue-2/bygone-brands/02-bygonebrands.jpg">A Whiteaways advertisement in the 1937-38 issue of <i>The Singapore Cinema Review</i> introducing the “… exciting new perfume” called Mischief – all for the princely price of $1.75 or $2.75 a bottle. <i>© The Singapore Cinema Review.</i></div>
 
 Founded by two Scotsmen, E. Whiteaway and Robert Laidlaw, the first store was set up in Calcutta in 1882, where both men were based. Their business boomed, with branches sprouting in over 20 cities in India and the Straits Settlements (Singapore, Penang and Malacca), and in places such as Kuala Lumpur, Ipoh, Taiping, Seremban and Klang.[^2]
 
@@ -44,7 +44,7 @@ Set up by tycoon and philanthropist Aw Boon Haw – one half of the famous Haw P
 
 Chung Khiaw Bank was incorporated in 1947 and started operations on 4 February 1950 on Robinson Road. Aw, dubbed the “Tiger Balm King” for building his family’s business empire from selling the trademark cure-all ointment, was the founder and first chairman of the bank’s board of directors, which included other prominent Chinese businessmen in Singapore.
 
-Aw, who had moved from Burma to Singapore in the 1920s, had envisioned the bank as not only serving businessmen but all segments of society. “It is our intention to help the middle and lower classes – to give them a break… we will finance the small man, thus helping him, the community and the country,” he said in an interview with The Straits Times before the bank opened in February 1950.[^12]
+Aw, who had moved from Burma to Singapore in the 1920s, had envisioned the bank as not only serving businessmen but all segments of society. “It is our intention to help the middle and lower classes – to give them a break… we will finance the small man, thus helping him, the community and the country,” he said in an interview with *The Straits Times* before the bank opened in February 1950.[^12]
 
 When Aw died in 1954 at age 71, Chung Khiaw Bank was placed in the good hands of his nephew-in-law Lee Chee Shan, who was credited with making the bank a household name in Singapore.
 
@@ -147,7 +147,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/bygone-brands/Sueann.png">
-	<b>Sue-Ann Chia</b> is a journalist with over 15 years experience covering politics and current affairs at various newspapers, including "The Straits Times" and "Today". She is currently the Associate Director at the Asia Journalism Fellowship and a Director at The Nutgraf, a boutique writing and media consultancy.
+	<b>Sue-Ann Chia</b> is a journalist with over 15 years experience covering politics and current affairs at various newspapers, including <i>The Straits Times</i> and <i>Today</i>. She is currently the Associate Director at the Asia Journalism Fellowship and a Director at The Nutgraf, a boutique writing and media consultancy.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
@@ -172,7 +172,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^9]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1122_2006-06-15.html), 2006; [Warm work for mannequins](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481104-1.2.73.aspx). (1948, November 4). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^10]:[‘Gussies’ chief here, plans expansion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19571214-1.2.98.aspx). (1957, December 14). The Straits Times, p. 9; [Whiteaway Laidlaw to close in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611228-1.2.47.aspx). (1961, December 28). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^10]:[‘Gussies’ chief here, plans expansion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19571214-1.2.98.aspx). (1957, December 14). *The Straits Times*, p. 9; [Whiteaway Laidlaw to close in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611228-1.2.47.aspx). (1961, December 28). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^11]:[Whiteaway building sold for $1.4million](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611230-1.2.97.aspx). (1961, December 30). *The Straits Times*, p. 9. Retrieved from NewspaperSG; Maybank. (1998, November 27). *Ground breaking ceremony for Maybank headquarters in Singapore*. Retrieved from Maybank website.
 
@@ -180,7 +180,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^13]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491230-1.2.120.aspx)*, 30 Dec 1949, p. 7; *[Steady progress all through the years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710204-1.2.47.aspx)*. (1971, February 4). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^14]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491230-1.2.120.aspx)* ,4 Feb 1971, p. 6.
+[^14]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491230-1.2.120.aspx)* , 4 Feb 1971, p. 6.
 
 [^15]:Leo, S. (2012). (Ed.). *[Southeast Asian personalities of Chinese descent: A biographical dictionary](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14641662)* (Vol. 1, p.497). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.004951 SOU
 
@@ -212,7 +212,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^29]:[Page 15 Advertisements Column 1: Setron](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.99.1.aspx). (1966, April 26). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^30]:Ho, A. L. (2015, May 24). Setron, a bright spark in troubled times. The Sunday Times, p. 42. Microfilm no.: NL 33501
+[^30]:Ho, A. L. (2015, May 24). Setron, a bright spark in troubled times. *The Sunday Times*, p. 42. Microfilm no.: NL 33501
 
 [^31]:[Setron: Five years of steady growth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.99.1.aspx). (1971, April 28). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
