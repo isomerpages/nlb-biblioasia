@@ -53,7 +53,7 @@ By the time director Bernard Toublanc-Michel adapted Bruce’s novel into a movi
 
 Soldiers nicknamed these breaks “I&I”, or “Intoxication and Intercourse”, as these outings were invariably fuelled by plenty of alcohol, drugs and sex. Singapore, true to its form then, was depicted as a rather seedy and dangerous city in publicity materials that were issued when *Cinq gars pour Singapour* was released in France in March 1967. The press release took pains to highlight the fact that American Marines are routinely warned to behave with discretion when they are in Singapore for R&R, including dressing as civilians when travelling in the city, because there has been cases where local boys had tried to pick a fight.[^7]
 
-<img style="width: 650px; height: 380px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore4.JPG">
+<img style="width: 650px; height: 400px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore4.JPG">
 <div style="background-color: white;">Accident scene in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 In an interview given at his apartment near Paris on 1 June 2018, Toublanc-Michel said that the geopolitical context of Singapore against the backdrop of the Vietnam War was what made the adaptation of Bruce’s OSS 117 novel *Cinq gars pour Singapour* so interesting to him: it gave him the opportunity to explore and expose what he calls “les à-côtés de la guerre” (“extra income and activities”) that was generated on the sidelines of the war.[^8]
