@@ -21,3 +21,17 @@ Two versions of the film were produced simultaneously: one in English and the ot
 
 <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore2.JPG">
 <div style="background-color: white;"><i>Five Ashore in Singapore</i> is the film adaptation of the 1959 French novel, <i>Cinq gars pour Singapour</i>, by the prolific French writer Jean Bruce. Literally translated as “Five Guys for Singapore”, the title is a clever pun on the name of the city because <i>cinq-gars-pour</i>, when said quickly, sounds exactly like “Singapour”. Pictured here is the cover of the first edition of the book published by Presses de la Cité in 1959. <i>Courtesy of Raphaël Millet.</i></div>
+
+Based on the 1959 novel *Cinq gars pour* Singapour by the prolific French writer Jean Bruce (1921–63), the film was initially titled *OSS 117 Goes to Singapore* after the spy novel series, *OSS 117*, which Bruce created in 1949. The story centres around the secret agent Hubert Bonnisseur de la Bath, who worked for the Office of Strategic Services, or OSS, during World War II. Like his spy novelist counterpart Ian Fleming, Bruce set his adventures in cities such as Tokyo, Bangkok, Caracas and Istanbul for the “exoticism” these places evoked in the minds of Western audiences. Naturally, Singapore was selected as the setting for *Five Ashore in Singapore*.
+
+In real-life, the code number 117 was assigned to William L. Langer, chief of the OSS Research and Analysis Branch whom Bruce had reportedly met during World War II when the latter was involved with the French Resistance. Interestingly, while OSS 117 has been called the “French Bond” after the famous British Secret Service agent, Bruce’s French agent actually pre-dates James Bond by four years (Ian Fleming’s first Bond novel *Casino Royale* was published only in 1953). Furthermore, the archetypal three-digit code name 117 existed long before Fleming decided to call  his character  Agent 007.4
+
+Even the silver screen adaptation of *OSS 117* precedes James Bond: the French language *OSS 117 n’est pas mort* (*OSS 117 Is Not Dead*) was produced in 1956 and commercially released in 1957.
+
+On the other hand, *Dr No*, the first James Bond film, was produced in 1962. In the 1960s, the OSS 117 character was again featured in a successful Eurospy film series directed by French filmmakers André Hunebelle (in 1963, 1964, 1965 and 1968) and by Michel Boisrond (in 1966). On these occasions, the lead role was played initially by American Kerwin Mathews, and subsequently by Frederick Stafford.5
+
+#### **OSS 117 Becomes Art Smith in Singapore**
+
+It is within the context of the successful Eurospy craze that French producer Pierre Kalfon offered director Bernard Toublanc-Michel the chance to adapt another OSS 117 story, *Cinq gars pour Singapour*. Due to copyright issues, unresolvable because Jean Bruce had died a few years earlier, neither the character Hubert Bonnisseur de la Bath nor his codename OSS 117 could be used in the film.
+
+Hence in the movie, the hero is renamed Art Smith. A clear playful allusion is nevertheless made at the beginning of the movie when a car waiting for him at Singapore’s old Paya Lebar Airport is numbered 117.
