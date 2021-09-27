@@ -57,6 +57,9 @@ It was a similar scenario in Singapore. Distributors and agents highlighted both
 
 In 1909, just a year after Henry Ford’s iconic Model T was introduced in America and took the world by storm, Ford cars entered the Singapore market.[^21] Initially imported by Gadelius & Company, Ford’s presence grew in Singapore when the Ford Motor Company of Malaya was established in 1926 to supervise the supply and distribution of its products in Malaya, the Dutch East Indies, Siam and Borneo.[^22] It initially carried out car assembly work in a garage on Enggor Street before expanding to larger premises on nearby Prince Edward Road in 1930. In 1941, the company moved to a newly built factory in Bukit Timah.[^23]
 
+<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheelsy.JPG">
+<div style="background-color: white;">The Ford Factory building along Bukit Timah Road, which was designed in the Art Deco style, opened in 1941. According to this advertisement, the factory was producing an impressive seven models of cars and trucks, and capable of churning out 20 chassis and eight passenger car bodies per day. <i>Image reproduced from AAM News Bulletin, November 1949.</i></div>
+
 Throughout this time, as well as in the decade following the end of World War II, Ford’s advertisements in Singapore rarely departed from its marketing tactic of playing up the efficiency of its cars and competitive pricing.
 
 <img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheelsx.JPG">
@@ -68,9 +71,8 @@ From the late 1950s, Japanese-made cars became available in Singapore. By 1970, 
 
 Japanese cars were much cheaper than their American and European counterparts, and were winning races in both local and international motor competitions in the late 1960s. The advertisements cleverly highlighted these achievements and, at the same time, banked on the tried-and-tested formula of good value, efficiency as well as reliability to attract buyers.
 
-<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels6.JPG">
-<div style="background-color: white;">(Left) The Ford Factory building along Bukit Timah Road, which was designed in the Art Deco style, opened in 1941. According to this advertisement, the factory was producing an impressive seven models of cars and trucks, and capable of churning out 20 chassis and eight passenger car bodies per day. <i>Image reproduced from AAM News Bulletin, November 1949.</i><br>
-(Right) Japanese marques like Datsun and Nissan scored successes at local and international races and rallies, and these achievements were regularly trumpeted in their advertisements. <i>Image reproduced from The Straits Times, 29 March 1967, p. 15.</i></div>
+<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheelsz.JPG">
+<div style="background-color: white;">Japanese marques like Datsun and Nissan scored successes at local and international races and rallies, and these achievements were regularly trumpeted in their advertisements. <i>Image reproduced from The Straits Times, 29 March 1967, p. 15.</i></div>
 
 <center><b>
 1830s
