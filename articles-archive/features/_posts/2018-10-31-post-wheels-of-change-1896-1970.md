@@ -59,7 +59,7 @@ In 1909, just a year after Henry Ford’s iconic Model T was introduced in Ameri
 
 Throughout this time, as well as in the decade following the end of World War II, Ford’s advertisements in Singapore rarely departed from its marketing tactic of playing up the efficiency of its cars and competitive pricing.
 
-<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels5.JPG">
+<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheelsx.JPG">
 <div style="background-color: white;">Ford’s Consul Cortina was marketed as a woman’s “dream car”. The target customer as depicted in the advertisement here is a young, modern woman, suggesting the rising status of Singapore women in the 1960s. <i>Image reproduced from The Straits Times Annual, 1964, p. xxvii.</i></div>
 
 ###### Japanese Marques
