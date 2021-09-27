@@ -83,7 +83,7 @@ Another dreaded aspect was the prevalence of venereal diseases among Chinese mal
 
 |More than a means of self-instruction, the cookbook was used as a manual to train the servants and was instrumental to the *mem*’s efficient management of the household. This was why *The “Mems” Own Cookery Book* by Mrs W. E. Kinsey was regarded as a godsend when it was published in 1920. It consisted of “420 tried and economical recipes” with additional information on the market prices of ingredients, the total cost of each dish and the number of servings, thereby helping the mistress to “combat the pernicious policy of the native cooks who not only overcharge for local commodities, but generally will not produce them, or attempt to raise non-existent difficulties”.[^35]|
 
-|<img style="width:600px" src="/images/Vol-12-issue-2/dont-mess-with-the-cook/05a-dontmesswiththecook.jpg">Title page and extracts from <i>The “Mems“ Own Cookery Book. All rights reserved, National Library Board, Singapore.</i><br>|
+|<img style="width:750px" src="/images/Vol-12-issue-2/dont-mess-with-the-cook/05a-dontmesswiththecook.jpg">Title page and extracts from <i>The “Mems“ Own Cookery Book. All rights reserved, National Library Board, Singapore.</i><br>|
 
 |<br>A review of the book in *The Straits Times* declared: “With this guide at her elbow… [the new *mem*] can either prepare herself or instruct ‘cookie' in a host of dishes which should do a great deal to remove the charge of monotony which is sometimes levelled at food in Malaya”.[^36]|
 
