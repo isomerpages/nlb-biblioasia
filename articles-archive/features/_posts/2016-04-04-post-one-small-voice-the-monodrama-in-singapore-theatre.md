@@ -164,32 +164,32 @@ This direct address, a hallmark of most monodramas, draws out the magnetic vulne
 
 [^11]:The Humphrey Bishop Co. (1916, April 26). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^13]:Leyland Hodgson Company. (1920, June 26). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 12. Retrieved from NewspaperSG. 
+[^13]:[Leyland Hodgson Company](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19200625-1.2.22.aspx?q=Leyland+Hodgson+Company.&mode=advanced&f_df=19200101&f_dt=19201231&page=1&sort=relevance&token=company%2chodgson%2cleyland&sessionid=56c41158b0ce45e1bbe7faaa7f19ce86). (1920, June 26). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 12. Retrieved from NewspaperSG. 
 
-[^14]:Oon, V. (1972, September 29). Audience gets into the act as well. New Nation, p. 3. Retrieved from NewspaperSG.
+[^14]:Oon, V. (1972, September 29). [Audience gets into the act as well](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720929-1.2.25). *New Nation*, p. 3. Retrieved from NewspaperSG.
 
-[^15]:柯思仁, 2013, p. 93.
+[^15]:[柯思仁](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140), 2013, p. 93.
 
-[^16]:an, C.K. (2004). Aesthetic strategies in the plays of The Necessary Stage. In C.K. Tan & T. Ng. (Eds), Ask not: The Necessary Stage in Singapore theatre (p. 72). Singapore: Times Editions. (Call no.: RSING 792.095957 ASK)
+[^16]:an, C.K. (2004). *Aesthetic strategies in the plays of The Necessary Stage*. In C.K. Tan & T. Ng. (Eds), *[Ask not: The Necessary Stage in Singapore theatre](https://eservice.nlb.gov.sg/itemholding.aspx?bid=12282535)* (p. 72). Singapore: Times Editions. (Call no.: RSING 792.095957 ASK)
 
-[^17]:Tan, A. (2014). Foreword to Best of by Haresh Sharma. Singapore: The Necessary Stage.
+[^17]:Tan, A. (2014). Foreword to *Best of by Haresh Sharma*. Singapore: The Necessary Stage.
 
-[^18]:Hamilton, A. (2000). The rights of marriage. Asiaweek. Retrieved from Asiaweek website.
+[^18]:Hamilton, A. (2000). The rights of marriage. *Asiaweek*. Retrieved from Asiaweek website.
 
-[^19]:Teo, P.L. (2000, October 18). NAC ‘threatened’ to withhold play licence: Group. The Straits Times, p. 45. Retrieved from NewspaperSG.
+[^19]:Teo, P.L. (2000, October 18). [NAC ‘threatened’ to withhold play licence: Group](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001018-1.2.53.3.aspx?q=NAC+%E2%80%98threatened%E2%80%99+to+withhold+play+licence&page=1&sort=relevance&token=licence%2cplay%2cwithhold%2cto%2cthreatened%2cnac&sessionid=7910d7c5981b4694aa4cfd3ac16a8399). *The Straits Times*, p. 45. Retrieved from NewspaperSG.
 
 [^20]:Hamilton, 2000.
 
-[^21]:Oon, C. (2000, April 7). Sinister path to the power of the self. The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^21]:Oon, C. (2000, April 7). [Sinister path to the power of the self](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000407-1.2.89.29.aspx?q=Sinister+path+to+the+power+of+the+self.&page=1&sort=relevance&token=self%2cthe%2cof%2cpower%2cthe%2cto%2cpath%2csinister&sessionid=78feb73d22aa469e8a4cfc67fcba5e6e). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^22]:Chong, O. (2014). Roots: Reviews, script, essay, stills (p. 23). Singapore: The Finger Players. (Call no.: RSING 791.53095957 CHO)
+[^22]:Chong, O. (2014). *[Roots: Reviews, script, essay, stills](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201068251)* (p. 23). Singapore: The Finger Players. (Call no.: RSING 791.53095957 CHO)
 
-[^23]:Tan, C. (2014, October 18). Heartfelt search for origins. The Straits Times, p. 24. Retrieved from Newspaper. 
+[^23]:Tan, C. (2014, October 18). [Heartfelt search for origins](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20141018-1.2.78.14). *The Straits Times*, p. 24. Retrieved from Newspaper. 
 
-[^24]:Rowland, K. (Ed.). (2013). Huzir Sulaiman: Collected plays, 1998–2012 (p. 31). Singapore: Checkpoint Theatre. (Call no.: RSEA 822 SUL)
+[^24]:Rowland, K. (Ed.). (2013). *[Huzir Sulaiman: Collected plays, 1998–2012](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124538)* (p. 31). Singapore: Checkpoint Theatre. (Call no.: RSEA 822 SUL)
 
-[^25]:Huzir Sulaiman. (2013). Occupation. In K. Rowland. (Ed.), Huzir Sulaiman: Collected plays, 1998–2012 (p. 272). Singapore: Checkpoint Theatre. (Call no.: RSEA 822 SUL)
+[^25]:Huzir Sulaiman. (2013). Occupation. In K. Rowland. (Ed.), *[Huzir Sulaiman: Collected plays, 1998–2012](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124538)* (p. 272). Singapore: Checkpoint Theatre. (Call no.: RSEA 822 SUL)
 
-[^26]:Tan, A. (2014). Best of Haresh Sharma. Singapore: The Necessary Stage. (Call no.: RSING S822 SHA)
+[^26]:Tan, A. (2014). [Best of Haresh Sharma](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200688987). Singapore: The Necessary Stage. (Call no.: RSING S822 SHA)
 
-[^27]:Tan, C. (2012, November 21). [Winding road to find roots](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121121-1.2.66.4). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
+[^27]:Tan, C. (2012, November 21). [Winding road to find roots](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121121-1.2.66.4). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
