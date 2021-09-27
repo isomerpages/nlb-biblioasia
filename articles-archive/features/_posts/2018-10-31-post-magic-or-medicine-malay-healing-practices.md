@@ -7,7 +7,7 @@ layout: post
 #### Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? **Nadirah Norruddin** uncovers the varying perceptions of Malay medicine in colonial Malaya.
 
 <img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">The <i>bomoh akar kayu</i> (<i>akar kayu</i> means “roots” in Malay) believes that nature is the source of life and is imbued with restorative qualities. The <i>bomoh akar kayu</i> is well versed in the healing properties of plants and herbs, and forages hilly areas and dense forests like the one illustrated here in search of plants to make <i>ubat</i> (medicine). This 1869 print titled “Bathing Place Near Selita” in Singapore is by Austrian naturalist Eugen von Ransonnet. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 Malay *ubat-ubatan* (medicine) and healing – which spans many centuries and has been passed down through generations either orally or in written form – is a complex and holistic practice.
 
