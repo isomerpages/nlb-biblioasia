@@ -128,7 +128,7 @@ Unfortunately, it was a lifestyle that could not withstand the push towards econ
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/forgotten-food/sylvia1.png">
-Former journalist <b>Sylvia Tan</b> has chalked up nine cookbooks to her name, including Mad About Food, a compilation of her much-loved newspaper columns, Singapore Heritage Food and Modern Nonya. She also writes a regular column, Eat to Live in The Straits Times’ Mind Your Body section. You can follow her on @SylviaTanMadAboutFood
+Former journalist <b>Sylvia Tan</b> has chalked up nine cookbooks to her name, including <i>Mad About Food</i>, a compilation of her much-loved newspaper columns, <i>Singapore Heritage Food</i> and <i>Modern Nonya. </i>She also writes a regular column, Eat to Live in <i>The Straits Times</i>’ Mind Your Body section. You can follow her on @SylviaTanMadAboutFood
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
