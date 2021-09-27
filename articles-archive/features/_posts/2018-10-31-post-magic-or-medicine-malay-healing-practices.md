@@ -89,4 +89,4 @@ Although Western medical services were gradually introduced to the local populat
 
 | For Violent Headaches and Loss of Energy | For Dizziness and Vertigo	| For Night Chills |
 | -------- | -------- | -------- |
-| Cumin seeds (5 cents)| 5 young shoots of betel vine     | Daun medan (root of an unidentified plant)     | Ingredients    |
+ | Ingredients | Cumin seeds (5 cents)| 5 young shoots of betel vine     | Daun medan (root of an unidentified plant)        |
