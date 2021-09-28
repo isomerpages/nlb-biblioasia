@@ -153,8 +153,8 @@ Radio broadcasting in Singapore has come a long way – from its shaky start in 
 
 [^21]:McDaniel, 1994, pp. 35–38.
 
-[^22]:McDaniel, 1994, pp. 44–45; Broadcasting station in Singapore. (1935, April 12). *The Straits Times*, p. 11; B.M.B.C. finances cause “grave concern’. (1937, August 31). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 9. Retrieved from NewspaperSG.
+[^22]:McDaniel, 1994, pp. 44–45; Broadcasting station in Singapore. (1935, April 12). *The Straits Times*, p. 11; [B.M.B.C. finances cause “grave concern”](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370831-1.2.75). (1937, August 31). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 9. Retrieved from NewspaperSG.
 
-[^23]:McDaniel, 1994, p. 45.
+[^23]:[McDaniel](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6904277), 1994, p. 45.
 
 [^24]:Playfair, G. (1943). *[Singapore goes off the air](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2502179)* (p. 143). New York, Books: E.P. Dutton & company, inc. (Call no.: RCLOS 940.548142 PLA)
