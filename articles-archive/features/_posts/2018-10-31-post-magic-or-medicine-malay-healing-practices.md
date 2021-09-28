@@ -159,6 +159,12 @@ State controls and the exposure to Western education further put paid to the ser
 |Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Microfilm no.: NL263).
 
 <br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed7.jpg" style="width: 100px; height: 100px;">
+<b>Nadirah Norruddin</b> is an Associate Librarian with the National Library, Singapore. Her main responsibility lies in managing and developing the Singapore and Southeast Asian collections.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
 
 **REFERENCES**
 
@@ -188,15 +194,7 @@ Tuminah Sapawi. (1997, January 8). [Bidan kampung now offers massage and other r
 
 Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. [Microfilm no.: NL 263].
 
-<br>
-<div style="background-color: white;">
-<img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed7.jpg" style="width: 100px; height: 100px;">
-<b>Nadirah Norruddin</b> is an Associate Librarian with the National Library, Singapore. Her main responsibility lies in managing and developing the Singapore and Southeast Asian collections.
-</div>
-
-<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
-
-**NOTES**
+#### **NOTES**
 [^1]:
 [^2]:
 [^3]:
