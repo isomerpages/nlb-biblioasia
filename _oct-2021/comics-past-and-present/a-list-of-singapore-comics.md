@@ -5,7 +5,7 @@ third_nav_title: Comics Past And Present
 ---
 **If you've read "Singapore Comics - Panels Past and Present" and you want to look up the titles referenced, this page lists the comic books mentioned.**
 
-![Alt text for image on Isomer site](/images/captainv.jpg)
+![Alt text for image on Isomer site](/images/captainvsmall.jpg)
 
 Captain V Productions. *[The Amazing Adventures of Captain V](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200099391)*. Singapore: Captain V Productions, 1988. 
 
