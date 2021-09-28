@@ -157,3 +157,33 @@ Gerrard, P.N. (1905). *A vocabulary of Malay medical terms* (p. 24). Singapore: 
 Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3966641) (pp. 424–425). London: Macmillan and Co., Limited. (Call no.: RCLOS 398.4 SKE-[GH])
 
 Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Microfilm no.: NL263).
+
+<br>
+
+|**REFERENCES**
+
+Bala, A. (Ed.) (2013). [*Asia, Europe, and the emergence of modern science: Knowledge crossing boundaries*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200137599). Singapore: Institute of Southeast Asian Studies. (Call no.: RSEA 509.5 ASI)
+
+Haliza Mohd Riji. (2000). [*Prinsip dan amalan dalam perubatan Melayu*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=10293694). Kuala Lumpur: Penerbit Universiti Malaya. (Call no.: Malay RSEA 615.88209595 HAL)
+
+Harun Mat Piah. (2006). [*Kitab tib: Ilmu perubatan Melayu*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12919356). Kuala Lumpur: Perpustakaan Negara Malaysia: Kementerian Kebudayaan, Kesenian, dan Warisan Malaysia. (Call no.: Malay R 615.880899928 HAR)
+
+Manderson, L. (1996). [*Sickness and the state: Health and illness in colonial Malaya, 1870–1940*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543). New York: Cambridge University Press. (Call no.: RSEA 362.1095951 MAN)
+
+Matheson, V., & Hooker, M. (1988). Jawi literature in Patani: The maintenance of an Islamic tradition. *Journal of the Malaysian Branch of the Royal Asiatic Society, 61*(1)(254), 1–86. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+
+McHugh, J.N. (1955). [Hantu hantu: An account of ghost belief in modern Malaya](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4500047). Singapore: Donald Moore. (Call no.: RCLOS 398.47 MAC-[RFL])
+
+Mohd. Affendi Mohd.Shafri & Intan Azura Shahdan. (Eds.). (2017). Malay medical manuscripts: Heritage from the garden of healing. Kajang, Selangor, Malaysia: Akademi Jawi Malaysia. (Call no.: RSEA 610.95 INT)
+
+Muhamad Zakaria & Mustafa Ali Mohd. (1992). Tumbuhan dan perubatan tradisional. Kuala Lumpur: Fajar Bakti. (Call no.: Malay RSING 615.88209595 MUH)
+
+Ong, H.T. (Ed.). (2011). To heal the sick: The story of healthcare and doctors in Penang. Georgetown: Penang Medical Practitioners’ Society. (Call no.: RSEA 362.1095951 TO)
+
+Owen, N. G. (Eds.). (1987). Death and disease in Southeast Asia : explorations in social, medical and demographic history. Singapore: Oxford University Press. (Call no.: 301.3220959 DEA)
+
+Mohd. Taib Osman. (1989). Malay folk beliefs: An integration of disparate elements. Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan Malaysia. (Call no.: RSEA 398.4109595 MOH)
+
+Tuminah Sapawi. (1997, January 8). Bidan kampung now offers massage and other rituals. The Straits Times, p. 17. Retrieved from NewspaperSG.
+
+Wilkinson, R.J. (1908–10). Papers on Malay subjects. [First series, 4], Life and customs (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. [Microfilm no.: NL 263].
