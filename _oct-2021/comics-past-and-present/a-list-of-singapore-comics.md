@@ -33,7 +33,7 @@ Fong, Otto and Tan Peng Kian. *Sir Fong's Adventures in Science. Book 6, Synthet
 
 Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *Dim Sum Warriors Volume 1, Enter the Dumpling.* New York: Yumcha Studios, 2012. (Call no. JR SING 741.595957 GOH)
 
-![Alt text for image on Isomer site](/images/dimsum.jpg)
+![Alt text for image on Isomer site](/images/dim-sum-new.jpg)
 Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *Dim Sum Warriors  Volume 2, Feast of Fury*. New York: Yumcha Studios, 2014. (Call no. JR SING 741.5 GOH)
 
 Goh, Colin. *I was a Teenage Sex Slave: Yet Another Smutty Orchard Road Collection*. Singapore: Times Books International, 1990. (Call no. RSING 741.595957 GOH)
@@ -54,7 +54,7 @@ Huang Zhan Ming and Huang Shu Qing 黄展鸣 and 黄书庆. *漫画同盟 98* [M
 
 Lau, Johnny. *Mr Kiasu in Singapore History.* Singapore: Shogakukan Asia, 2019. (Call no. RSING 959.57 LAU)
 
-![Alt text for image on Isomer site](/images/antibiotictales.jpg)
+![Alt text for image on Isomer site](/images/antibiotic-tales-new.jpg)
 Liew, Sonny and Hsu Li Yang. *The Antibiotic Tales*. Singapore: Epigram, 2019. (Call no. RSING 615.329 LIE)	
 
 Liew, Sonny and Joyce Sim, eds.*Liquid City Volume Three*. Berkeley, California: Image Comics, 2014. (Call no. RSING 741.59 LIQ)
@@ -67,7 +67,7 @@ Liew, Sonny. *The Art of Charlie Chan Hock Chye*. Singapore: Epigram Books, 2020
 
 Low, Travis and Li Shaoyang. *The Secret of Redhill.* Singapore: Funics, 2015. (Call no. JRSING 741.595957 LOW)
 
-![Alt text for image on Isomer site](/images/lky.jpg)
+![Alt text for image on Isomer site](/images/the-lky-story.jpg)
 Nabeta, Yoshio and Yoshihide Fujiwara. *The LKY Story: Lee Kuan Yew, the Man Who Shaped a Nation.* Singapore: Shogakukan Asia, 2016. (Call no. RSING 959.5705092 NAB)
 
 Nabeta, Yoshio, Toshiki Takii and Hanna Francis. *The Story of LKY: Lee Kuan Yew: Growing Up*. Jakarta: Elex Media Komputindo, 2018. (Call no. Malay 959.57092 NAB)
@@ -84,7 +84,6 @@ Tan, James. *All That Remains*. Singapore: Lien Foundation; Alzheimer's Disease 
 
 Tan, James. *Final Resting Place*. Lim Cheng Tju, ed. Singapore: COSH Studio, 2017. (Call no. RSING 741.59597 TAN)
 
-![Alt text for image on Isomer site](/images/ourmonthstogether.png)
 Wee Tian Beng, Liu Jia Hui and Yeo Hui San, eds. *Our Months Together: A Comics Anthology by 12 Artists*. Singapore: TCZ Studio, 2015. (Call no. RSING 741.595957 OUR)
 
 Wild, Ronald. *蟒蛇党* [The Python Gang]. Singapore: n.p., n.d. (From PublicationSG)
