@@ -57,11 +57,11 @@ Lau, Johnny. *[Mr Kiasu in Singapore History.](http://eservice.nlb.gov.sg/item_h
 ![Alt text for image on Isomer site](/images/antibiotic-tales-new.jpg)
 Liew, Sonny and Hsu Li Yang. *[The Antibiotic Tales](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203939109)*. Singapore: Epigram, 2019. (Call no. RSING 615.329 LIE)	
 
-Liew, Sonny and Joyce Sim, eds.*Liquid City Volume Three*. Berkeley, California: Image Comics, 2014. (Call no. RSING 741.59 LIQ)
+Liew, Sonny and Joyce Sim, eds.*[Liquid City Volume Three](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201026140)*. Berkeley, California: Image Comics, 2014. (Call no. RSING 741.59 LIQ)
 
-Liew, Sonny and Lim Cheng Tju, eds. *Liquid City Volume Two*. Berkeley, California: Image Comics, 2010. (Call no. RSING 741.59 LIQ)
+Liew, Sonny and Lim Cheng Tju, eds. *[Liquid City Volume Two](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13804090)*. Berkeley, California: Image Comics, 2010. (Call no. RSING 741.59 LIQ)
 
-Liew, Sonny, ed. *Liquid City Volume One.* Berkeley, California: Image Comics, 2008. (Call no. RSING 741.59 LIQ)
+Liew, Sonny, ed. *[Liquid City Volume One](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13233324).* Berkeley, California: Image Comics, 2008. (Call no. RSING 741.59 LIQ)
 
 Liew, Sonny. *The Art of Charlie Chan Hock Chye*. Singapore: Epigram Books, 2020. (Call no. RSING 741.595957 LIE)
 
