@@ -195,17 +195,40 @@ Tuminah Sapawi. (1997, January 8). [Bidan kampung now offers massage and other r
 Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. [Microfilm no.: NL 263].
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
+[^1]:The World Health Organization defines traditional medicine (also known as folk, indigenous or alternative medicine) as “the sum total of the knowledge, skill, and practices based on the theories, beliefs, and experiences indigenous to different cultures, whether explicable or not, used in the maintenance of health as well as in the prevention, diagnosis, improvement or treatment of physical and mental illness”. Herbal medicines include “herbs, herbal materials, herbal preparations and finished herbal products that contain as active ingredients parts of plant, or other plant materials or combinations”. See World Health Organization. (2018). *Traditional, complementary and integrative medicine*. Retrieved from World Health Organization website. 
+[^2]:The *Kitab Permata* from 19th-century Patani (southern Thailand) discusses the characteristics and medicinal properties of gemstones, minerals and metals. The text is commonly used by traditional healers in the north coast of the Malay Peninsula. 
+[^3]:Blagden, C.O. (1896, July). Notes on the folk-lore and popular religion of the Malays. Journal of the Straits Branch of the Royal Asiatic Society, 29, 1. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+[^4]:Malay healers used Quranic verses to supplement the efficacy of herbs and medicinal plants. Supplications remain at the heart of Malay healing. A healer may choose to use only plants and herbs with supplications but without *wafaq*, while another may use fewer plants and herbs and more *wafaq* in his practice.
+[^5]:A prominent Patani scholar, Sheikh Ahmad al-Fathani, laboured his discourse in Islamic knowledge with the science of medicine. His manuscript, *Tayyib al-Ihsan fi Tibb al-Insan*, which was produced in 1895, was widely consulted by traditional healers in 20th-century Malaya.
+[^6]:John D. Gimlette was a physician who resided in the Malay state of Kelantan for many years and was extremely interested in the subject of Malay poisons, sorcery and cures. See Gimlette, J.D. (1915). [Malay poisons and charm cures](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202517206). London: J. & A. Churchill. (Call no.: RRARE 398.4 GIM-[JSB])
+[^7]:[Gimlette](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202517206), 1915, p. 106.
+[^8]:Winzeler, R.L. (1983). The study of Malay magic. *Bijdragen Tot De Taal-, Land- En Volkenkunde, 139*(4), 435–458, p. 436. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+[^9]:[Malay “doctors”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18960922-1.2.23). (1896, September 22). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
+[^10]:Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3966641) (pp. 424–425). London: Macmillan and Co., Limited. (Call no.: RCLOS 398.4 SKE-[GH])
 [^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
 [^20]:
 [^21]:
 [^22]:
+Winzeler, 1983, p. 447.
+Thomas N. Annandale was a Scottish zoologist, entomologist, anthropologist and herpetologist, who became interested in Malay animism, related magical lore and curers. 
+From pineapples (Ananassa sativa) and keladi (Alocasia denudata) to cheraka (Plumbaginasea), the poisons Gimlette examined have been described to contain active ingredients useful in the study of modern medicine.
+Gerrard, P.N. (1905). A vocabulary of Malay medical terms. Singapore: Kelly & Walsh. (Microfilm no.: NL27512)
+Anthropologist Thomas Fraser notes that in village processions led by the pawang who is healing a physically ill or possessed patient, the imam (Islamic worship leader) is also involved to officiate the ritual from a religious perspective. This prevents any possible conflict with Islamic beliefs that may border on shirk (idolatory or Polytheism).
+Why fewer babies are now dying in Singapore. (1935, July 21). The Straits Times, p. 13. Retrieved from NewspaperSG.
+In the Malay villages, traditional healers were involved in sanctifying the village via ceremonies and rituals, and were also involved in the affairs of the state. Known as the Maharaja Lela in Selangor or Sultan Muda in Perak, a bomoh enjoyed unfettered entry into the palace compounds.
+Owen, N.G. (Ed.). (1987). Death and disease in Southeast Asia: Explorations in social, medical and demographic history (p. 258). Singapore: Oxford University Press. (Call no.: RSING 301.3220959 DEA)
+Singapore. The Statutes of the Republic of Singapore. (1987, March 30). Sale of Drugs Act (Cap 282, 1985 Rev. ed.). Retrieved from Singapore Statutes Online website.
+
+
+
+
+
+
