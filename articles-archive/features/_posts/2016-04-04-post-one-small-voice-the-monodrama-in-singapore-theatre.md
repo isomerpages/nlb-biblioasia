@@ -6,7 +6,7 @@ layout: post
 ---
 #### *Emily of Emerald Hill* is one of Singapore’s most iconic single-person plays. **Corrie Tan** tells you more about the history of the monodrama on the Singapore stage.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/one-small-voice/04_onesmallvoice.jpg">A Chinese street storyteller (circa 1950) regales his enraptured audience with stories from Chinese classics, legends and folktales. From the Kouo Shang-Wei Collection (郭尚慰收集). <i>All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007.</i></div>
+<div style="background-color: white;"><br><img style="width:800px" src="/images/Vol-12-issue-1/one-small-voice/04_onesmallvoice.jpg">A Chinese street storyteller (circa 1950) regales his enraptured audience with stories from Chinese classics, legends and folktales. From the Kouo Shang-Wei Collection (郭尚慰收集). <i>All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007.</i></div>
 
 An unnamed man stepped onto a bare stage in 1985. He was dressed in a plain white shirt and black pants, the colours of mourning – but also the Singaporean workingman’s uniform. Anonymous, blending in, like everyone else. His attire echoed the type of clothing that itinerant Chinese storytellers wore during the colonial period and into the 1960s as they regaled audiences with tales of martial arts and straying deities.[^1]
 
@@ -16,7 +16,7 @@ Actors Lim Kay Tong and Zou Wenxue were the original leads, with Lim performing 
 
 “For me, that was panic stations. I had never done a long monologue. In drama school, we had to prepare monologues based on a Shakespearean character. Nothing like this, which was 30 to 35 minutes long. And he [Kuo] spent at least a couple of weeks just talking to me. I was worried. Because I thought, when is he going to get down to it?”
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-1/one-small-voice/01_onesmallvoice.bmp">Lim Kay Tong performs in the 1985 English Production of Kuo Pao Kun’s <i>The Coffin is Too Big for the Hole</i>, where a frustrated, man-in the-street narrator grapples with a bizarre bureaucracy and society’s traps of conformity at his grandfather’s funeral. <i>Courtesy of The Theatre Practice Ltd.</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-1/one-small-voice/01_onesmallvoice.bmp">Lim Kay Tong performs in the 1985 English Production of Kuo Pao Kun’s <i>The Coffin is Too Big for the Hole</i>, where a frustrated, man-in the-street narrator grapples with a bizarre bureaucracy and society’s traps of conformity at his grandfather’s funeral. <i>Courtesy of The Theatre Practice Ltd.</i></div>
 
 One of the few directions Lim recalls Kuo giving him was to stand up at certain points in the play:
 
