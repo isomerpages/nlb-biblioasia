@@ -40,9 +40,9 @@ Goh, Colin. *[I was a Teenage Sex Slave: Yet Another Smutty Orchard Road Collect
 
 Goh, Colin. *[Orchard Road III: Tongues for the Memories](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6374727)*. Singapore: Times Books International, 1993. (Call no. RSING 741.595957 GOH)
 
-Goh, Colin. *Orchard Road: The Restricted Zone*. Singapore: Times International Singapore, 1989. (Call no. RSING 741.595957 GOH)
+Goh, Colin. *[Orchard Road: The Restricted Zone](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5297588)*. Singapore: Times International Singapore, 1989. (Call no. RSING 741.595957 GOH)
 
-Gotham 高谭. *女侠红头巾: 大战油鬼仔* [The Samsui Sword]. Singapore: Rojak City, 2021. (Call no. Chinese RSING 741.595957 GT)
+Gotham 高谭. *[女侠红头巾: 大战油鬼仔](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205437750)* [The Samsui Sword]. Singapore: Rojak City, 2021. (Call no. Chinese RSING 741.595957 GT)
 
 Gwee Li Sui, ed. *Places: A Graphic Anthology on the East of Singapore.* Singapore: National Library Board, Singapore, 2016. (Call no. RSING 741.59597 PLA) 
 
