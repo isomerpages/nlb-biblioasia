@@ -8,11 +8,11 @@ third_nav_title: Comics Past And Present
 ![Alt text for image on Isomer site](/images/captainv.jpg)
 Captain V Productions. *[The Amazing Adventures of Captain V](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200099391)*. Singapore: Captain V Productions, 1988. 
 
-Chiang, Joseph. *[Chronicles of a Circuit Breaker.* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205369096)Singapore: Epigram Books, 2021. (Call no. RSING 741.595957 CHI)
+Chiang, Joseph. *[Chronicles of a Circuit Breaker.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205369096)* Singapore: Epigram Books, 2021. (Call no. RSING 741.595957 CHI)
 
-Chua, Dave and Koh Hong Teng. [*Gone Case Book 1: A Graphic Novel.* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13763246)Joyce Sim, ed. Singapore: n.p., 2010. (Call no. RSING 741.59597 CHU)
+Chua, Dave and Koh Hong Teng. [*Gone Case Book 1: A Graphic Novel.* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13763246) Joyce Sim, ed. Singapore: n.p., 2010. (Call no. RSING 741.59597 CHU)
 
-Chua, Dave and Koh Hong Teng. *[Gone Case Book 2: A Graphic Novel.*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14247318) Joyce Sim, ed.  (Singapore: n.p., 2010). (Call no. RSING 741.59597 CHU)
+Chua, Dave and Koh Hong Teng. [*Gone Case Book 2: A Graphic Novel.*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14247318) Joyce Sim, ed.  (Singapore: n.p., 2010). (Call no. RSING 741.59597 CHU)
 
 Chua, Dave and Max Loh. *[We’ll Eat When We’re Done.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203108636)* Lim Cheng Tju and Dave Chua, ed. Singapore: COSH Studio, 2018. (Call no. RSING 741.59597 CHU)
 
