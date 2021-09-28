@@ -187,3 +187,13 @@ Mohd. Taib Osman. (1989). [Malay folk beliefs: An integration of disparate eleme
 Tuminah Sapawi. (1997, January 8). [Bidan kampung now offers massage and other rituals](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970108-1.2.112.7.4). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
 Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. [Microfilm no.: NL 263].
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed7.jpg" style="width: 100px; height: 100px;">
+<b>Nadirah Norruddin</b> is an Associate Librarian with the National Library, Singapore. Her main responsibility lies in managing and developing the Singapore and Southeast Asian collections.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
+
+**NOTES**
