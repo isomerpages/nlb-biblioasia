@@ -79,6 +79,8 @@ Singapore Anti-narcotics Association. *[What If They Call Me Chicken?](http://es
 
 Tan, Budjette and Charis Loke. *[Sound: A Comics Anthology](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204511414)*. Singapore: Difference Engine, 2020. (Call no. RSING 741.5959 SOU-[CMX])
 
+![Alt text for image on Isomer site](/images/all-death-matters-small.jpg)
+
 Tan, James. *[All Death Matters](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204087129)*. Singapore: Lien Foundation, 2020. (Call no. RSING 741.59597 TAN)
 
 Tan, James. *[All That Remains](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203150724)*. Singapore: Lien Foundation; Alzheimer's Disease Association, Singapore, 2018. (Call no. RSING 616.83 TAN)
