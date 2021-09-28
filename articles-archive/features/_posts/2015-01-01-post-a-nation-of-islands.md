@@ -121,7 +121,7 @@ A man returning from his fishing trip on St John's Island. <i>Photo by Edwin Koo
 
 <p style="font-size:15px;>"><b>Zakaria Zaina</b> is an associate photographer for Captured, a creative agency based in Singapore that specialises in delivering visual-centric narratives.</p> 
 
-<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

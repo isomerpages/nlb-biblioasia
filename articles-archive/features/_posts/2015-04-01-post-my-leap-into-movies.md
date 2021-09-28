@@ -68,4 +68,4 @@ To develop a culture of filmmaking, risks need to be taken by investors from bot
 
 <i>Pontianak</i> is my homage to the Golden Age of filmmaking in Singapore and the highly successful string of iconic Pontianak films that were produced by Cathay-Keris and Shaw in the late 1950s.
 	
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>

@@ -5,7 +5,7 @@ third_nav_title: How Changi Airport Came To Be
 ---
 #### As Singapore’s Changi Airport marks its 40th anniversary in 2021, **Rebecca Tan** uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page2.jpg)
 <div style="background-color: white;">Singapore Airlines and Scoot planes at Changi Airport. In the background is the iconic control tower. Photo by Shawn Ang, 16 March 2020. <i>Retrieved from Unsplash.</i></div>
 
 On 1 July 1981 at 7.10 am, SQ 101 made history when it became the first commercial flight to land at the newly opened Changi Airport. The plane arrived from Kuala Lumpur’s Subang Airport and carried 140 passengers, some of whom had especially travelled to the Malaysian capital just so that they could be on this flight. 
@@ -13,14 +13,19 @@ On 1 July 1981 at 7.10 am, SQ 101 made history when it became the first commerci
 To mark the occasion, all passengers received certificates and were treated to a lion dance and a pipe band performance upon arrival. Less than an hour later, 
 SQ 192 headed for Penang, becoming the first flight to depart from Changi.[^1]
 
-In the four decades since, Changi Airport has grown from strength to strength; it is regularly voted one of the top airports in the world and has helped turn Singapore into a major aviation hub and international gateway. Today, it is hard to imagine Singapore without Changi Airport and its iconic control tower. However, what many people do not know is the particular set of circumstances that led to its existence.
+![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/straitstimes_19810702_0008.jpg)
+<div style="background-color: white;">Passengers on board Singapore Airlines flight SQ 101 from Kuala Lumpur to Singapore on 1 July 1981. It carried 140 passengers, some of whom had especially travelled to the Malaysian capital to board the flight. <i>Image reproduced from The Straits Times, 2 July 1981, 8. (From NewspaperSG).</i></div>
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/2008-01132.jpg)
-<div style="background-color: white;">Paya Lebar Airport, 1960s. The airport only had a single runway. Seen on the tarmac is a plane belonging to the Malaysia-Singapore Airlines which existed from 1966 to 1972. The predecessor of Singapore Airlines. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
+
+In the four decades since, Changi Airport has grown from strength to strength; it is regularly voted one of the top airports in the world and has helped turn Singapore into a major aviation hub and international gateway. Today, it is hard to imagine Singapore without Changi Airport and its iconic control tower. However, what many people do not know is the particular set of circumstances that led to its existence.
 
 #### **Changi Versus Paya Lebar**
 
 Before Changi Airport opened in 1981, commercial flights landed in Paya Lebar Airport, which had begun operations in 1955. However, within two decades, Paya Lebar’s shortcomings became obvious.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/2008-01132.jpg)
+<div style="background-color: white;">Paya Lebar Airport, 1960s. The airport only had a single runway. Seen on the tarmac is a plane belonging to the Malaysia-Singapore Airlines which existed from 1966 to 1972. The predecessor of Singapore Airlines. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
+
 
 “By mid 1970s, it was clear that Paya Lebar Airport would not be able to cope with the growing traffic for much longer,” said Minister Mentor Lee Kuan Yew in 2006 at Changi Airport’s 25th anniversary dinner. “We needed a bigger airport, with at least two runways. The proposal put to me was to expand Paya Lebar and construct a second runway.”[^2]
 
@@ -32,7 +37,7 @@ The alternative was to build a new airport in Changi, taking over the former Roy
 
 Lee revealed that the consultants initially had not recommended Changi because of “the cost of relocating to Changi plus the loss of $800 million in investments already made on Paya Lebar”. He recalled that the Cabinet had reluctantly agreed to the decision to build the airport at Changi.[^5]
 
-Before the plan could be implemented, however, the world was gripped by the oil crisis that began in 1973. The price of oil quadrupled and air traffic slowed down. Also, with the larger-capacity Boeing 747s taking to the skies, fewer planes were using Paya Lebar. All this meant that the pressure on the airport was reduced and the need for a second runway became less pressing.
+Before the plan could be implemented, however, the world was gripped by the oil crisis that began in 1973. The price of oil had quadrupled leading to a reduction in air traffic. Also, with the larger-capacity Boeing 747s taking to the skies and carrying more passengers, there were fewer smaller planes landing at Paya Lebar. All these meant that the pressure on the airport was reduced and the need for a second runway became less pressing.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/20170000052%20img0271.jpg)
 <div style="background-color: white;">Aerial photograph of the Royal Air Force base in Changi, 1950s. In 1975, parts of the air base were acquired to build Changi Airport. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
@@ -57,10 +62,16 @@ Other infrastructural projects included reconstructing and extending the existin
 
 Although the passenger terminal building was based on an initial plan submitted for the expansion of Paya Lebar, the final design for Changi deviated significantly from this. Sim noted that the original design gave “very little consideration to aesthetics”. “We finally decided that the airport should be an extension of our garden city,” he said. “This is because the first point of contact for the tourist visiting Singapore, apart from your Singapore Airlines girl in the plane, is the airport. So we took great care to combine the aesthetics with the functional aspects.”[^11]
 
+One key change that occurred was the location of the now-iconic control tower. Built at a cost of $8.5 million, it was originally meant to be situated on top of an administration building. However, that would leave the airport without a focal point. “Finally, we decided to have the control tower as the focal point and to put the administration block over the finger piers,” said Sim.[^12] In all, the air traffic control tower’s design underwent more than 20 changes before the final design was approved.
+
+
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/19980005125%20-%20IMG0101.jpg)
 <div style="background-color: white;">The iconic control tower of Changi Airport under construction, 1980. The three-storey bowl-like structure was built on the ground then pulled upwards with four jacks and eight cables at the rate of six metres a day. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</i></div>
 
-One key change that occurred was the location of the now-iconic control tower. Built at a cost of $8.5 million, it was originally meant to be situated on top of an administration building. However, that would leave the airport without a focal point. “Finally, we decided to have the control tower as the focal point and to put the administration block over the finger piers,” said Sim.[^12] In all, the air traffic control tower’s design underwent more than 20 changes before the final design was approved.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/19980005125%20-%20IMG0074.jpg)
+<div style="background-color: white;">Air traffic controllers at work in the control tower of Changi Airport, 1985. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore. </i></div>
+
 
 Given the scale of the Changi Airport project, the construction process inevitably encountered numerous challenges. Takao Kitamura, the director in charge of international operations at Takenaka Komuten, the main contractor for the airport’s passenger terminal building, recalled that after the company began work on the project, the price of sand rose by about 300 percent, and labour costs rose by 50 percent. 
 
@@ -74,24 +85,15 @@ The Changi project had a very tight deadline because Paya Lebar was approaching 
 
 “So very early on, we impressed on all the officers that the contractors problems were their problems, and in the end, my problems, because I’m in charge.”[^15]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/straitstimes_19810702_0008.jpg)
-<div style="background-color: white;">Passengers on board Singapore Airlines flight SQ 101 from Kuala Lumpur to Singapore on 1 July 1981. It carried 140 passengers, some of whom had especially travelled to the Malaysian capital to board the flight. <i>Image reproduced from The Straits Times, 2 July 1981, 8. (From NewspaperSG).</i></div>
-
 #### **Preparing for the Big Day**
 
 As with any big event, there were a number of dry runs before actual operations commenced on 1 July 1981. The first test flight, a Boeing 747, touched down at 7.25 pm on 13 May – two weeks before the big day.[^16]
 
 The first flight with paying passengers, SQ 100, landed on 31 May at 9.50 am. It was a chartered flight with 246 passengers, comprising mainly families with children. Organised by a travel agent, the flight had taken off from Paya Lebar Airport and flown up the east coast of peninsular Malaysia to Mersing before turning back and touching down at Changi.[^17]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/img0095.jpg)
-<div style="background-color: white;">Passengers boarding a Singapore Airlines flight at Changi Airport, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</i></div>
-
 Lee Kee Foon, a housewife who flew first class with her family, said: “We wanted to see Changi Airport before it is open to the public.” After the flight, passengers were each presented with a souvenir medallion and flight certificate.[^18]
 
 Switching over from one airport to another was no easy task. As Bernard Chen, assistant secretary at the Ministry of Finance, noted: “Very few people appreciate this – we moved from Paya Lebar to Changi in one night without any disruption in [air transport] service… Everything was ready. We didn’t have to bus anybody back.”[^19]
-
-![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/19980005125%20-%20IMG0074.jpg)
-<div style="background-color: white;">Air traffic controllers at work in the control tower of Changi Airport, 1985. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore. </i></div>
 
 In addition to careful planning and dry runs, the authorities also went abroad to learn from the experience of other airports. 
 
@@ -99,13 +101,19 @@ In addition to careful planning and dry runs, the authorities also went abroad t
 
 The last plane to land at Paya Lebar – SQ 11 from Los Angeles and Tokyo – did so at 10.50 pm on 30 June 1981, while the last commercial flight, SQ 28 to Abu Dhabi and Frankfurt, left shortly after at 11 pm. That same night, personnel from the Republic of Singapore Air Force arrived with all the equipment necessary to facilitate Paya Lebar Airport’s conversion into a military air base.[^21]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/19980006619%20-%20IMG0008%20copy.jpg)
-<div style="background-color: white;">The finger pier at Changi Airport Terminal 2, 1996.  <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore. </i></div>
+![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/img0095.jpg)
+<div style="background-color: white;">Passengers boarding a Singapore Airlines flight at Changi Airport, 1981. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 #### **Expanding Changi**
 
 Changi Airport began operations on 
 1 July 1981 with just one terminal and one runway. Work on the second runway was completed in 1983 and commissioned the following year. To cope with increased passenger traffic, Terminal 2 was opened in November 1990, while Terminal 3 began operations on 1 January 2007. 
+
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/19980006619%20-%20IMG0008%20copy.jpg)
+<div style="background-color: white;">The finger pier at Changi Airport Terminal 2, 1996.  <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore. </i></div>
+
 
 In 2006, the Budget Terminal commenced operations. This was built in response to the increasing trend of low-cost travel in the region, but it closed in 2012 to make way for the construction of Terminal 4, which opened in 2017.[^22]
 
@@ -113,36 +121,38 @@ Over the years, Changi also improved on its connectivity with the city centre. I
 
 In 2008, Changi Airport Group was formed as a result of the corporatisation of Changi Airport.[^25] One of the key projects it subsequently embarked on was building Jewel Changi Airport, a large shopping and entertainment complex that opened on 17 April 2019. A joint venture between Changi Airport Group and CapitaMalls Asia, the project took three years to gain the approval of Singapore’s Cabinet.[^26]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/jansen-yang-z72SvGyp9Cc-unsplash.jpg)
+<div style="background-color: white;">The Rain Vortex at Jewel Changi Airport. With water cascading down 40 metres, it is the world’s tallest indoor waterfall. Photo by Jansen Yang, 8 October 2019. <i>Retrieved from Unsplash.</i></div>
+
 #### **Awards, Accolades and the Future**
 
 Over the years, Changi has developed an international reputation. In 1988, just seven years after it opened, *Business Traveller UK* magazine rated Changi Airport as the world’s best airport; it had been number two in the previous four years.[^27] The following year, airport officials from 16 countries visited Changi Airport to attend a seven-week airport management course, learning from Changi’s experiences.[^28]
 
-Changi has since gone on to win many other such awards: it clinched the “Best Airport in the World” award from Business Traveller US a total of 27 times between 1991 and 2020.[^29]
-
-![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/jansen-yang-z72SvGyp9Cc-unsplash.jpg)
-<div style="background-color: white;">The Rain Vortex at Jewel Changi Airport. With water cascading down 40 metres, it is the world’s tallest indoor waterfall. Photo by Jansen Yang, 8 October 2019. <i>Retrieved from Unsplash.</i></div>
+Changi has since gone on to win many other such awards: it clinched the “Best Airport in the World” award from *Business Traveller US* a total of 27 times between 1991 and 2020.[^29]
 
 Changi Airport turned 40 in 2021 in what is a very challenging time for the air travel industry. The Covid-19 pandemic has upended business and leisure travel globally, leading to a reduction in passenger air traffic everywhere. As a result of the pandemic, Changi’s own passenger traffic levels dropped by over 80 percent between 2019 and 2020.[^30] Changi Airport Group lost a significant revenue stream, while shops and restaurants in the terminals continued to suffer. 
 
 Speaking in Parliament in October 2020, then Transport Minister Ong Ye Kung said that the government would support Changi Airport Group and other companies in the aviation sector, “[b]ut the most meaningful support we can give to our aviation companies is to restore passenger traffic and revive our air hub, in a safe, in a controlled manner”.[^31]
 
-As vaccination rates rise in Singapore and the country moves towards dealing with Covid-19 as an endemic disease, air traffic through Singapore will hopefully  increase and the fortunes of Changi will soar once again.
+As vaccination rates rise in Singapore and the country moves towards dealing with Covid-19 as an endemic disease, air traffic through Changi Airport will hopefully increase. With the same foresight, fortitude and perseverance that led to its genesis, the fortunes of Changi will undoubtedly rise again.
 
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="/images/vol-17-issue-3/how-changi-airport-came-to-be/QR%20Code.png">For more resources on Changi Airport’s early years, scan this QR code.
-</div>
+![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/QR%20Code2.png)
+<div style="background-color: white;">For more resources on Changi Airport’s early years, scan this QR code.</div>
+
 
 <div style="background-color: white;">
 <br/>
-<img src="pending photo" style="width: 100px; height: 100px;" />
-	<b>Rebecca Tan</b> is an Associate Librarian with the National Library, Singapore. She is part of the digital heritage team and works on curating and promoting access to the library’s digital collections.</div>
+<img src="/images/vol-17-issue-3/authors/Rebecca%20Tan--.png" style="width: 100px; height: 100px;" />
+<b>Rebecca Tan</b> is an Associate Librarian with the National Library, Singapore. She is part of the digital heritage team and works on curating and promoting access to the library’s digital collections.</div>
+
+
 
 #### **NOTES**
 
-[^1]: “[SQ 101 Makes First Changi Landing with 140,](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)” *Straits Times*, 2 July 1981, 8; “[*All Poised for the Big Take-off*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810701-1.2.5.aspx),” *Straits Times*, 1 June 1981, 12; “[*Changi Arrives*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810701-1.2.2),” *Straits Times*, 1 July 1981, 1. (From NewspaperSG)
+[^1]: “[SQ 101 Makes First Changi Landing with 140,](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)” *Straits Times*, 2 July 1981, 8; “[All Poised for the Big Take-off](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810701-1.2.5.aspx),” *Straits Times*, 1 June 1981, 12; “[Changi Arrives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810701-1.2.2),” *Straits Times*, 1 July 1981, 1. (From NewspaperSG)
 
-[^2]: Lee Kuan Yew, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 
-1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad), 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991)
+[^2]: Lee Kuan Yew, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad), 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991)
 
 [^3]: Lee, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner.](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)”  
 
@@ -176,7 +186,7 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 
 [^18]: Yang, “[246 in Historic Landing at Changi Airport.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810601-1.2.44)”
 
-[^19]: Wu Wei Neng, [*Integrating the Planning of Airports and the City: The Singapore Story*, ed.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204008491) Cheong Kay Teck (Singapore: Centre for Liveable Cities, 2019), 18. (From National Library, Singapore, Call no.: RSING 387.7362095957 CHE)
+[^19]: Wu Wei Neng, [*Integrating the Planning of Airports and the City: The Singapore Story*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204008491), ed. Cheong Kay Teck (Singapore: Centre for Liveable Cities, 2019), 18. (From National Library, Singapore, Call no.: RSING 387.7362095957 CHE)
 
 [^20]: [Ong Teng Cheong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9315cc93-115f-11e3-83d5-0050568939ad), oral history interview by Lee Ee Boon, 19 June 1987, transcript and MP3 audio, Reel/Disc 3 of 5. (From National Archives of Singapore, Accession no. 000794) 
 

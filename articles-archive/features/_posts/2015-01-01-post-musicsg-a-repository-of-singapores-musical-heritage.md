@@ -52,4 +52,4 @@ Guest performer Corrinne May presented this Custom-designed ukulele to Minister 
 	
 <p style="font-size:15px;"><b>Joy Loh</b> is an Associate Librarian with the National Library of Singapore and is responsible for the new-look of MusicSG.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>

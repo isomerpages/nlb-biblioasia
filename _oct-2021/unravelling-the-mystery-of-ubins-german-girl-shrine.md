@@ -179,7 +179,7 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 </div>
 
 
-#### NOTES
+#### **NOTES**
 [^1]: “[洋女变成‘拿督姑娘’供奉在乌敏岛小庙内当地人视为神灵](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19871229-1.2.17.1.2)” [“Foreign Girl Becomes a ‘Datuk Girl’”], *新明日报* [*Xin Ming Ri Bao*], 29 December 1987, 4; “[奇庙](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19900714-1.2.6.1.1)” [“Strangely Wondrous Temple”], *联合晚报* [*Lianhe Wanbao*], 14 July 1990, 2. (From NewspaperSG); Samuel J. Burris, “The White Girl of Pulau Ubin,” *Changi Magazine*, November 1993, accessed 30 July 2021, http://habitatnews.nus.edu.sg/heritage/ubin/stories/2005/12/white-girl-of-pulau-ubin.html;  Ho Choon Hiong, German Girl Shrine (film), 2000; Tan Shzr Ee, “[Mystery Girl of Ubin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030309-1.2.60.11),” *Straits Times*, 9 March 2003, 20; “[90年前住在乌敏岛洋姑娘变拿督神](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin20031226-1.2.17.1)” [“90 Years Ago a Foreign Girl Living on Ubin became a Datuk God”], *新明日报* [*Xin Ming Ri Bao*], 26 December 2003, 13. (From NewspaperSG); [Chia Yeng Keng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/63b161ed-1160-11e3-83d5-0050568939ad), oral history interview, 23 June 2004, transcript and MP3 audio, Reel/Disc 1 and 3 of 7. (From National Archives of Singapore, accession no. 002860)
 
 

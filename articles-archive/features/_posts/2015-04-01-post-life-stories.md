@@ -9,7 +9,7 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/lifestories/nurse.jpg">
-A video still of Helena Maheson. Hers is one of the narratives that will be featured in the form of a video cli
+A video still of Helena Maheson. Hers is one of the narratives that will be featured in the form of a video clip.
 </div>
 
 Struggles and hardship are part of the human condition. On the other hand, triumph in the face of great adversity is much less commonplace, and is often remarkable – especially when the struggle towards success is hard won. Many films celebrate stories of people overcoming unrelenting hardship to achieve great things, often played out in the dramatisation of the protagonists’ suffering and their subsequent vindication. 
@@ -108,4 +108,4 @@ I retired in 2000 and nowadays I volunteer twice a week at the Resident Committe
 
 <p style="font-size:15px;"><b>Georgina Wong</b> is an Associate with the Exhibitions and Curation department at the National Library of Singapore. She is the curator of the exhibition “Greatest Gift of a Generation: Life Stories” – to be launched at the Woodlands Regional Library in late May 2015.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>

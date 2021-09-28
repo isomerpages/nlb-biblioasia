@@ -134,7 +134,7 @@ In all, more than 250 Malay-language films were produced in Singapore over the 2
 <p style="font-size:15px;"><b>Michelle Heng</b> is a Librarian with the National Library of Singapore. She compiled and edited Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems (2012), and more recently, Selected Poems of Goh Poh Seng (2014).</p>
 
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 

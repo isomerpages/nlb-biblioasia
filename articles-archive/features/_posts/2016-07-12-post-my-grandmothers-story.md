@@ -35,7 +35,7 @@ I’ve been working as an independent researcher and writer in Singapore’s his
 
 My personal interest comes from wanting to find out more about Singapore, past and present, which possesses far richer, more complex and unsettling stories than the airbrushed, whitewashed *Majulah Singapura* version found in school textbooks or mainstream discourse.
 
-|I’m interested in stories that no one used to care about, stories that complicate or overturn the orthodox way of thinking about the present – stories that begin with questions that no one has thought of asking before.|
+I’m interested in stories that no one used to care about, stories that complicate or overturn the orthodox way of thinking about the present – stories that begin with questions that no one has thought of asking before.
 
 For all the documentation projects, government grants, websites, Facebook pages and knick-knacks that have sprung up around “Singapore heritage”, I’m often reminded that the stories that have not yet been told, the layers that have not yet been peeled back, are often staring us in the face.
 
@@ -78,7 +78,7 @@ The sociologist Paul Connerton, who studies memory and modernity, has said:
 
 “I think that coerced forgetting was one of the most maligned features of the 20th century. For example, think of Germany after Hitler, or Spain after Franco, or Greece after the colonels, or Argentina after the generals, or Chile after Pinochet: in all these cases, there had been a process of coerced forgetting during the dictatorships.
 
-And if, on the other hand, you think of some of the distinguished writers [of] the second half of the 20th century – Primo Levi or Alexander Solzhenitsyn or Nadezhda Mandelstam – the interesting thing about them is that they took up their pens in order to combat this process of coerced forgetting. As a result of this, I think that you could say that at the end of the 20th century there was such a thing as an ethics of memory. Memory and remembrance had acquired the quality of an ethical value.” [^2]
+“And if, on the other hand, you think of some of the distinguished writers [of] the second half of the 20th century – Primo Levi or Alexander Solzhenitsyn or Nadezhda Mandelstam – the interesting thing about them is that they took up their pens in order to combat this process of coerced forgetting. As a result of this, I think that you could say that at the end of the 20th century there was such a thing as an ethics of memory. Memory and remembrance had acquired the quality of an ethical value.” [^2]
 
 The ethics of memory is not something that we often talk about in Singapore. In the ongoing frenzy to remember, record and archive, we don’t usually pause to ask why we should be doing this – if there is something ethically at risk of being forgotten, denied or erased from existence.
 
@@ -86,7 +86,7 @@ As my grandmother talked about the Japanese showing up in the middle of the nigh
 
 <div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/my-grandmother-story/05-mygrandmotherstory.jpg">This is a 10-dollar bill used during the Japanese Occupation of Singapore. Known as “banana money” because of the motifs of banana trees on the bank notes, the currency became worthless due to runaway inflation coupled with black market practices. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
-|<br>At 11pm that night, she said, there was a loud banging on the door. It was totally dark both outside and inside the house. Three soldiers entered, two Japanese, one Taiwanese, with a torchlight. They were looking for women. My grandmother was holding my uncle, her only child, who was not yet two years old. The soldiers looked over the women in the house, including my grandmother, but the women were all dirty – <i>ang zhang</i> (肮脏), my grandmother said in Mandarin. I don’t know if she meant they were literally covered in dirt or if the term is a euphemism for menstruation or some other taboo. My grandmother said the soldiers glanced at her aunt’s daughter too, but dismissed her as a boy. They left the house after a while, and later she heard that they had raped another woman nearby.|
+At 11pm that night, she said, there was a loud banging on the door. It was totally dark both outside and inside the house. Three soldiers entered, two Japanese, one Taiwanese, with a torchlight. They were looking for women. My grandmother was holding my uncle, her only child, who was not yet two years old. The soldiers looked over the women in the house, including my grandmother, but the women were all dirty – <i>ang zhang</i> (肮脏), my grandmother said in Mandarin. I don’t know if she meant they were literally covered in dirt or if the term is a euphemism for menstruation or some other taboo. My grandmother said the soldiers glanced at her aunt’s daughter too, but dismissed her as a boy. They left the house after a while, and later she heard that they had raped another woman nearby.
 
 Reading about war atrocities in a textbook often seems distant and unreal, until you realise that those horrible things might have happened to your small, frail grandmother. My grandmother talked and I listened, gingerly, until she reached the end and I could breathe again.
 
@@ -119,15 +119,15 @@ But we should also pay attention to the silences – to the people who aren’t 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/my-grandmother-story/yu-mei.png">
-	<b>Yu-Mei Balasingamchow</b> is the co-author of “Singapore: A Biography” (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is www.toomanythoughts.org.
+	<b>Yu-Mei Balasingamchow</b> is the co-author of <i>Singapore: A Biography</i> (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is www.toomanythoughts.org.
 </div>
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **Notes**
+#### **NOTES**
 
-[^1]:Pieris, A. (2009). *Hidden hands and divided landscapes: A penal history of Singapore’s plural society*. Honolulu: University of Hawaii Press. Call no.: RSING 365.95957 PIE 
+[^1]:Pieris, A. (2009). *[Hidden hands and divided landscapes: A penal history of Singapore’s plural society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167960)*. Honolulu: University of Hawaii Press. Call no.: RSING 365.95957 PIE 
 
 [^2]:Kastner, J., & Najafi, S. (Summer 2011). Historical amnesias: An interview with Paul Connerton. *Cabinet*, (42), 8. Retrieved from Cabinet magazine website. 
 
-[^3]:Lee, G. B. (2005). *The Syonan years: Singapore under Japanese rule 1942–1945*. Singapore: National Archives of Singapore and Epigram. Call no.: RSING q940.53957 LEE-[WAR]
+[^3]:Lee, G. B. (2005). *[The Syonan years: Singapore under Japanese rule 1942–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12661517)*. Singapore: National Archives of Singapore and Epigram. Call no.: RSING q940.53957 LEE-[WAR]

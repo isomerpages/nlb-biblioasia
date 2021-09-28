@@ -137,7 +137,7 @@ Fuelled by expanding geographical knowledge, the writers of these fantastical st
 	<b>Benjamin J.Q. Khoo</b> is a research officer at ISEAS-Yusof Ishak Institute and a 2020/21 Lee Kong Chian Research Fellow. Studying the histories of the early modern world, his research is currently focused on networks of knowledge and diplomatic encounters in Asia.</div>
 	
 	
-#### NOTES
+#### **NOTES**
 
 [^1]: Mary B. Campbell, *The Witness and the Other World: Exotic European Travel Writing, 400–1600* (Ithaca: Cornell University Press, 1998), 146. (Not available in NLB holdings)
 

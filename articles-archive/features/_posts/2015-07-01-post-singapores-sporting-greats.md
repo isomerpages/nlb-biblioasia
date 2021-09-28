@@ -185,13 +185,13 @@ National sailor Colin Cheng came in 15th out of 49 boats in the men’s Laser ev
 
 |The fact that Singapore has  embraced the sporting achievements of its Paralympians with as much pride as those of its able-bodied athletes is perhaps an indication of the society it has become. Significantly, when Tan  won The Straits Times Athlete of the Year award, she edged out some big  names in Singapore sports, including table tennis star Feng Tianwei and world champion bowler Shayna Ng.|
 
-|<img src="/images/vol-11-issue-2/sgsportgreat/Laurentia_Tan.jpg">Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. <i>Photo courtesy of Sport Singapore.</i></div>|
+|<img src="/images/vol-11-issue-2/sgsportgreat/Laurentia_Tan.jpg">Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. <i>Photo courtesy of Sport Singapore.</i>|
 
-|<img src="/images/vol-11-issue-2/sgsportgreat/Yip_Pin_Xiu.jpg">Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. <i>Photo courtesy of Sport Singapore.</i></div>|
+|<img src="/images/vol-11-issue-2/sgsportgreat/Yip_Pin_Xiu.jpg">Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. <i>Photo courtesy of Sport Singapore.</i>|
 
 <p style="font-size:15px;">A former journalist with <i>The Straits Times</i>, <b>Chua Chong Jin</b> teaches communications at Nanyang Business School. Educated at the National University of Singapore and Cambridge University, he has written and edited various books, including <i>50est: Stirring Stories For The Singapore Soul</i> for the Singapore National Olympic Council.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 

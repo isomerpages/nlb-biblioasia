@@ -30,7 +30,7 @@ The International Urban Sketchers Symposium that will take place in Singapore fr
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/National_Museum.jpg">
+<img src="/images/vol-11-issue-2/sketches/National_Museum_re.jpg">
 National Museum of Singapore, Stamford Road by Marvin Chew, artist.
 </div>
 
@@ -78,7 +78,7 @@ Qi Tian Gong Temple, Tiong Bahru by Vu Hoa Giang, architect.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/Bedok_Marketplace.jpg">
+<img src="/images/vol-11-issue-2/sketches/Bedok_Marketplace_re.jpg">
 The Bedok Marketplace, Bedok Road by Tan Peng Koon, entrepreneur.
 </div>
 
@@ -88,4 +88,4 @@ The Bedok Marketplace, Bedok Road by Tan Peng Koon, entrepreneur.
 KTM Railway Bridge, Upper Bukit Timah Road by Tan Chit Seng, freelance engineer.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>

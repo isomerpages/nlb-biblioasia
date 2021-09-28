@@ -150,7 +150,7 @@ Reverend Father Joe Lopez Carpio, the current rector, is pleased with the outcom
 <br/>
 <b>Alvin Tan</b>  is an independent researcher and writer with a strong focus on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow</i> and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i>.</div>
 
-#### NOTES
+#### **NOTES**
 
 [^1]: Melody Zaccheus and Adrian Lim, “[Treasures Hidden Under Layers of Paint](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170730-1.2.12.7),” *Straits Times*, 30 July 2017, 14. (From NewspaperSG)
 

@@ -62,7 +62,7 @@ The new 11-hectare site for his animals was situated on Punggol Road. Although i
 
 The first animals that arrived from overseas in 1930 included three seals from the US, a pair of lions from Africa and some rare birds from South America.[^26] In 1935, the zoo witnessed one of the biggest shipments of animals when the Norddeutscher Lloyd cargo steamer <i>Neckar</i> arrived from Germany with “her top and main decks crammed with boxes and crates containing a remarkably varied collection of animals and birds”. Described as a veritable “Noah’s Ark” by the press, some of the wildlife the steamer was carrying included two African lions, 15 African grey parrots, four Brazilian blue-necked turakos, two pairs of white swans, two Angola cats, a pair of Brazilian trumpet birds and a pair of silver marmozets.[^27] The zoo had previously received a chimpanzee from France, a pair of polar bears from Germany and the monkey-eating eagle from the Philippines.[^28] Through regular animal exchanges with Sydney’s Taronga Zoo, Basapa was able to introduce Australian wildlife such as the Wagga Wagga pigeon, golden shoulder parakeet, Tasmanian devil and kangaroo.[^29]
 
-By 1936, Basapa had amassed a collection of about 200 animals and some 2,000 birds, turning his zoo into a major attraction in pre-war Singapore. In the 1936 edition of the <i>Willis’ Singapore Guide</i>, the definitive travel guide of the time, the zoo was described as a place where visitors could indulge in a unique experience viewing animals in their primitive state, enjoying refreshment at an affordable price, and mingling with two friendly free-roaming chimpanzees that were most willing to pose for photographs.[^30] As the zoo cost about $35 daily to maintain, Basapa charged an admission fee of 40 cents for adults and 20 cents for children, which was considered pricey back then.[^31] Nonetheless, many locals visited the zoo as it was a novelty. Local resident Mohinder Singh said, “People used to visit it because they couldn’t see any other. There was no other. Even Johore Zoo which Tengku started was also very small, [and] was started later”.[^32] The zoo was also commended by prominent individuals, including Roland Braddell, barrister and joint editor of One Hundred Years of Singapore. He wrote in The Lights of Singapore :[^33]
+By 1936, Basapa had amassed a collection of about 200 animals and some 2,000 birds, turning his zoo into a major attraction in pre-war Singapore. In the 1936 edition of the <i>Willis’ Singapore Guide</i>, the definitive travel guide of the time, the zoo was described as a place where visitors could indulge in a unique experience viewing animals in their primitive state, enjoying refreshment at an affordable price, and mingling with two friendly free-roaming chimpanzees that were most willing to pose for photographs.[^30] As the zoo cost about $35 daily to maintain, Basapa charged an admission fee of 40 cents for adults and 20 cents for children, which was considered pricey back then.[^31] Nonetheless, many locals visited the zoo as it was a novelty. Local resident Mohinder Singh said, “People used to visit it because they couldn’t see any other. There was no other. Even Johore Zoo which Tengku started was also very small, [and] was started later”.[^32] The zoo was also commended by prominent individuals, including Roland Braddell, barrister and joint editor of One Hundred Years of Singapore. He wrote in The Lights of Singapore.[^33]
 
 The Singapore Zoo at Ponggol [is] a truly delightful place that has the full approval of the local authorities. Here you will see a magnificent collection of birds, amongst which the crown pigeons are said to be the best in the world. The orangutans are really happy here and in a climate natural to them...As it is, I think the town owes much to Mr Basapa’s very courageous lone effort in providing with us what is a very great attraction... A trip to the zoo is one of the things that no visitor should omit, it has a personality entirely its own, and is pitched in beautiful surroundings on the Straits of Johore.
 
@@ -88,7 +88,7 @@ Many of these attractions were conceived during Bernard Harrison’s term as exe
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/zoo/elephant.jpg">
+<img src="/images/vol-11-issue-2/zoo/elephant_re.jpg">
 A couple riding an elephant at the Singapore Zoological Gardens in the mid-1980s. Singapore Tourist Promotion Board Collection. <i>Courtesy of Singapore Tourist Promotion Board (STPB) Collection, National Archives of Singapore</i>.
 </div>
 
@@ -109,7 +109,7 @@ The most recent jewel in the wildlife crown is the 12-hectare River Safari, Asia
 
 <p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010). </p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 

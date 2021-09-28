@@ -13,16 +13,13 @@ Most people are familiar with the idea of Singapore as a major transportation an
 
 Less familiar, perhaps, is the notion of Singapore as a key nexus in the regional and global entertainment circuit, not only for the performing arts – dance, theatre and variety shows – but also for popular commercial sports such as boxing.
 
-<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover2.JPG">
-<div style="background-color: white;">In the 1930s, Singapore was known as the mecca of boxing in Asia, with most of the bouts taking place at the Happy World amusement park in Geylang. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
-
 The island-city’s role as the one-time regional centre of the thriving entertainment industry can be attributed to two factors: first, its position as a multicultural centre with a sizeable European population homesick for Western-style entertainment and sport (and which also enjoyed patronage by some local residents); and second, its geographic location which made it the ideal stopover for entertainers and sportsmen travelling from Europe and heading to China, Australia, Japan and other points east of Singapore, and, in the case of boxers, Australians especially who stopped here en route to bigger and more profitable matches in Europe.
 
 Until now, the role of Singapore as a hub for regional entertainment and sports has not been formally documented by the academic community. Rather, these threads have begun to emerge from the work of academics who write for popular audiences. Many of these writers uncovered this phenomenon in the course of their research.
 
 One such example is Andrew David Field’s *Shanghai’s Dancing World: Cabaret Culture and Urban Politics 1919–1954* (2010), which traces the rise and fall of the dance industry in Shanghai as well as the movement of artistes between this city and Singapore. Another interesting subject is that of fashion trends in Lee Chor Lin and Chung May Kheun’s *In the Mood for Cheongsam: A Social History, 1920s to the Present*, which documents the movement and adaptation of the elegant form-fitting Chinese dress throughout Asia, including Singapore.[^1]
 
-Ferreting through the collections of Singapore’s National Library on the subject of early 20th-century Chinese treaty port history whilst researching my books *Midnight in Peking* and *City of Devils: A Shanghai Noir*[^2], I was alerted to a series of intriguing leads relating to European and Australian entertainment troupes who toured the region during this period. Along with these accounts were stories of boxers from China, Thailand, the Philippines and Australia, and also further afield from London and Cairo, who made a stop in Singapore to entertain the public and earn some income at the same time.
+Ferreting through the collections of Singapore’s National Library on the subject of early 20th-century Chinese treaty port history whilst researching my books *Midnight in Peking* and *City of Devils: A Shanghai Noir*,[^2] I was alerted to a series of intriguing leads relating to European and Australian entertainment troupes who toured the region during this period. Along with these accounts were stories of boxers from China, Thailand, the Philippines and Australia, and also further afield from London and Cairo, who made a stop in Singapore to entertain the public and earn some income at the same time.
 
 Recent work by Singaporean writers and historians, notably Adeline Foo, on the dancehalls of Singapore’s famous (and now defunct) trio of “World” amusement parks – Happy World in Geylang, Great World along Kim Seng Road and the New World at Jalan Besar – has uncovered additional details on the links between several Chinese cities, Shanghai particularly, and the nightlife and cabaret scene in Singapore in the 1930s and 40s.[^3]
 
@@ -125,6 +122,9 @@ Mohamed Noor bin Bahiek, also known as Joe Diamond, was born in Mecca and period
 
 Heading in the opposite direction in 1938 was the Melbourne-based Australian middleweight champion Al Basten, who visited Singapore en route to England for a tour. The boxing scene in Singapore was so vibrant at one time that fans regularly got to see the best fighters from Asia, the Middle East, Europe and Australia battling it out at Happy World on Friday nights.
 
+<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-4/singapore-stopover/Stopover2.JPG">
+<div style="background-color: white;">In the 1930s, Singapore was known as the mecca of boxing in Asia, with most of the bouts taking place at the Happy World amusement park in Geylang. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **A Hub for Trade and Entertainment**
 
 Singapore’s position as a major touring venue for both entertainment troupes and boxers between the two world wars was largely a spin-off from its role as a key nexus in the regional and global shipping routes. Just about every ship journeying between Europe and Asia, and onwards to Australia and New Zealand, passed through Singapore. This explains perhaps the preponderance of European and Australian entertainers and boxers in Singapore. Occasionally, Americans based in the region visited Singapore on regional tours, but their numbers were few and far between.
@@ -133,7 +133,7 @@ Singapore has traditionally been thought of in terms of hard trade, an entrepôt
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover10.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-4/singapore-stopover/PF.JPG" style="width: 100px; height: 100px;">
 <b>Paul French</b> was born in London, educated there and in Glasgow, and lived and worked in Shanghai for many years. His book <i>Midnight in Peking</i> was a <i>New York Times</i> bestseller. His most recent book <i>City of Devils: A Shanghai Noir</i> has received much praise from <i>The Economist</i>. Both books are currently being developed for television.
 </div>
 

@@ -6,11 +6,11 @@ layout: post
 ---
 #### **Nadia Ramli** traces the history of the Malay art scene in early Singapore through a collection of art-related ephemera, catalogues and publications at the National Library.
 
-<img style="width: 650px; height: 360px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections1.JPG">
+<img style="width: 650px; height: 360px;" src="/images/Vol-14-issue-4/creative-collectives/xz.JPG">
 <div style="background-color: white;">(Left) “The Face in Meditation” (undated) by Abdul Ghani Abdul Hamid, which depicts a mask-like face and contorted limbs, is reminiscent of batik with its bold colours and strong outlines. <i>Courtesy of National Gallery Singapore.</i><br>
 (Right) S. Mohdir’s “Dalam” (1975), which means “deep” in Malay, depicts the unexplored depths of the world beneath the sea. This work has often been cited as an example of an early experimentation in surrealism by a Singaporean artist. <i>Courtesy of National Gallery Singapore.</i></div>
 
-In April 1948, an art exhibition held at the Y.M.C.A. Singapore was reported in *The Morning Tribune* as “the first occasion of the Malay Artists of Singapore holding an Exhibition of Art”.[^1] The event, helmed by the Singapore Malay Art Class, was organised by C. Mahat (Mahat bin Chadang)[^2], a pioneering Malay artist who had been nurturing budding talent through his art classes since 1947.
+In April 1948, an art exhibition held at the Y.M.C.A. Singapore was reported in *The Morning Tribune* as “the first occasion of the Malay Artists of Singapore holding an Exhibition of Art”.[^1] The event, helmed by the Singapore Malay Art Class, was organised by C. Mahat (Mahat bin Chadang),[^2] a pioneering Malay artist who had been nurturing budding talent through his art classes since 1947.
 
 #### **Early Malay Art Groups**
 
@@ -18,7 +18,7 @@ In 1949, C. Mahat and another artist, M. Salehuddin, set up the Persekutuan Pelu
 
 The society held its first show at the British Council Hall in February 1951, showcasing a total of 197 artworks on themes such as Malayan scenery, occupations and events. A *Straits Times* article, titled “Paintings of Nadra on Show”[^4], highlighted two oil paintings that depicted Maria Hertogh, the Dutch teenager who sparked a series of racial riots[^5] in December the previous year. (Hertogh was given the name Nadra upon her conversion to Islam.)
 
-In the 1950s, other art collectives and groups emerged, albeit mostly short-lived. In 1956, the Angkatan Pelukis Muda (Young Artists’ Movement) came into the scene, founded by a group of aspiring young artists, but it was unable to garner sufficient support and dissolved soon after.[^6] Subsequently, in January 1960, a few artists and art enthusiasts came together to form Tunas Pelukis ’60 (Budding Artists ’60), with S. Mahdar as mentor.[^7] The latter was known back then for the naturalism and realism in his art.[^8]
+In the 1950s, other art collectives and groups emerged, albeit mostly short-lived. In 1956, the Angkatan Pelukis Muda (Young Artists’ Movement) emerged on the scene, founded by a group of aspiring young artists, but it was unable to garner sufficient support and dissolved soon after.[^6] Subsequently, in January 1960, a few artists and art enthusiasts came together to form Tunas Pelukis ’60 (Budding Artists ’60), with S. Mahdar as mentor.[^7] The latter was known back then for the naturalism and realism in his art.[^8]
 
 In April 1961, the art section of Lembaga Tetap Kongres Bahasa dan Kebudayaan Melayu (LTK; Permanent Board of Congress of Malay Language and Culture) staged a major exhibition at the Victoria Memorial Hall. The exhibition featured the works of 34 Malay artists, both experienced as well as amateur artists. The souvenir publication for the event included photographs of selected works, including that of established artists such as C. Mahat, Sulaiman Haji Suhaimi, M. Salehuddin, M. Sawoot, Aman Ahmad, and younger artists like Abdul Ghani Abdul Hamid, S. Mohdir, S. Mahdar and Rohani Ismail.[^9]
 
@@ -50,11 +50,11 @@ Here is a glimpse of exhibition catalogues and collaterals – published between
 
 <br>
 
-|<img style="width: 700px; height: 320px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections5.JPG"><b>Introspection (1991)</b><br> This is a catalogue of Sarkasi Said’s (Tzee) solo exhibition “Introspection”, held at the National Museum Art Gallery, Singapore, in 1991. As a batik painter, Tzee is well known for his works on silk that use mixed-media, acrylic and dye. The catalogue includes an introduction by art historian, T. K. Sabapathy.
+|<img style="width: 700px; height: 320px;" src="/images/Vol-14-issue-4/creative-collectives/In.JPG"><b>Introspection (1991)</b><br> This is a catalogue of Sarkasi Said’s (Tzee) solo exhibition “Introspection”, held at the National Museum Art Gallery, Singapore, in 1991. As a batik painter, Tzee is well known for his works on silk that use mixed-media, acrylic and dye. The catalogue includes an introduction by art historian, T. K. Sabapathy.
 
 <br>
 
-|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections6.JPG"><b>Malay Artists Singapore (1995)</b><br> N. Parameswaran, the organiser and curator of this exhibition held at Galeri Petronas in Kuala Lumpur, Malaysia, in 1995 wrote in the introduction of the publication that it was a “reunion exhibition” of sorts for Singaporean Malay artists and provided an opportunity for them to exhibit their works outside of their usual circles.
+|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/MA.JPG"><b>Malay Artists Singapore (1995)</b><br> N. Parameswaran, the organiser and curator of this exhibition held at Galeri Petronas in Kuala Lumpur, Malaysia, in 1995 wrote in the introduction of the publication that it was a “reunion exhibition” of sorts for Singaporean Malay artists and provided an opportunity for them to exhibit their works outside of their usual circles.
 
 <br>
 
@@ -72,7 +72,7 @@ Here is a glimpse of exhibition catalogues and collaterals – published between
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections7.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-4/creative-collectives/Nadia.JPG" style="width: 100px; height: 100px;">
 <b>Nadia Arianna Ramli</b> is an Associate Librarian with the National Library, Singapore. She works with the library’s arts collections, with a special focus on literary and visual arts. Her research interests include Singapore literature and theatre studies.</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>

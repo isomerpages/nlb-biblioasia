@@ -189,7 +189,7 @@ Adrian Pang in Unlucky Plaza. <i>Directed by Ken Kwek, produced by Ken Kwek, Kat
 
 <p style="font-size:15px;"><b>Raphaël Millet</b> is a film director, producer and critic with a passion for cinema the world over. He divides his time between France and Singapore, and has published two books about Singaporean cinema, one in French in 2004, the other in English, simply titled Singapore Cinema, in 2006.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCE**
 

@@ -28,7 +28,7 @@ So what led me in 2008 to find out more about this forgotten settlement in Malay
 
 I was born in Japan in 1966 to a British father and Eurasian[^5] mother (originally from Malacca in Malaysia), and brought up as an expatriate child in Japan, Europe, Singapore and Malaysia – places where my father’s work took him. It was only when my mother, Mary Alethea de Souza, died in England in 2004 that I sought to find out about my heritage, both for my own sake and that of my children, as I did not want them to grow up not knowing the background of their maternal grandmother. When I returned to Singapore in 2008, I wanted to revisit old memories from when I had lived here as a child in the 1970s and 80s, to satisfy my thirst for the past and, more importantly, to find out more about my family history.
 
-<div style="background-color: white;"><img style="width:250px" src="/images/Vol-12-issue-2/bahau/02-bahau.jpg">The author, Fiona Hodgkins, was born in Japan in 1966. Her father is British and mother is Eurasian. This is a photo of Fiona and her mother taken in Japan, circa 1970. <i>Courtesy of Fiona Hodgkins.</i></div>
+<div style="background-color: white;"><img style="width:250px" src="/images/Vol-12-issue-2/bahau/02-bahau.jpg">The author, Fiona Hodgkins, was born in Japan in 1966. Her father is British and mother Eurasian. This is a photo of Fiona and her mother taken in Japan, circa 1970. <i>Courtesy of Fiona Hodgkins.</i></div>
 
 Having visited all the usual historical sights in Singapore, I finally made the trek to the Eurasian Association at Ceylon Road. This was where I learnt more about Bahau. Until then, my only knowledge of Bahau was through the childhood stories my mum told of the time when she and her family lived in the jungle and when wooden huts used to collapse whenever elephants needed to scratch their backs against the bristly walls of these makeshift dwellings. I thought it was a quaint fairy tale: never did I imagine that it was a real story.
 
@@ -42,15 +42,15 @@ So, the story of Bahau is also the story of the Eurasian community in Singapore;
 
 The hardships and deprivation caused by the Japanese Occupation of Singapore (1942–45) has already been widely documented. What I wish to focus on specifically are its effects on the Catholic community in Singapore.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/bahau/03-bahau.jpg">An announcement in the 15 January 1944 edition of <i>The Syonan Shimbun</i> exhorting the Eurasian community to apply for the Bahau settlement scheme, which “all Eurasians who are fit and strong enough to go on the land should avail themselves of enthusiastically”. <i>Courtesy of National Archives of Singapore.</i></div>
-
 Before the war, there were a number of Catholic religious orders here, including the De La Salle (or Christian) brothers and the Holy Infant Jesus nuns, whose primary task was to set up schools. After Singapore fell to the Japanese in 1942, these missionary teachers were forced to teach within the confines of the rules and regulations set by the Japanese curriculum. The fact that many of the brothers and nuns were Europeans – usually Irish brothers and French sisters – made them figures of suspicion among the Japanese authorities.
 
-This, coupled with the general hardships of the Occupation years – including chronic food shortages, lack of healthcare and indiscriminate rounding up of people for questioning – made the idea of an alternative life outside of Singapore appealing to the Catholic community here. Their saviour was a Japanese official by the name of Mamoru Shinozaki[^6], who sought to protect various communities in Singapore who were most at risk from the Kempeitai (Japanese secret police). He had earlier helped the Chinese by setting up a settlement in Endau,[^7] in nearby Johor, and now turned his attention to the Eurasian community.
+This, coupled with the general hardships of the Occupation years – including chronic food shortages, lack of healthcare and indiscriminate rounding up of people for questioning – made the idea of an alternative life outside of Singapore appealing to the Catholic community here. Their saviour was a Japanese official by the name of Mamoru Shinozaki,[^6] who sought to protect various communities in Singapore who were most at risk from the Kempeitai (Japanese secret police). He had earlier helped the Chinese by setting up a settlement in Endau,[^7] in nearby Johor, and now turned his attention to the Eurasian community.
 
-Shinozaki gained an ally in the Catholic Bishop of Singapore, Adrien Devals[^8], who championed the idea of a self-sufficient settlement outside of Singapore to protect Catholics, both lay and religious, from suppression by the Japanese. Bishop Devals and Shinozaki managed to convince the Japanese authorities that if large numbers of people were moved out of Singapore, there would be fewer mouths to feed and much less pressure on the local infrastructure. Additionally, whatever surplus crops the people in this overseas settlement produced, could be sent back to Singapore.
+Shinozaki gained an ally in the Catholic Bishop of Singapore, Adrien Devals,[^8] who championed the idea of a self-sufficient settlement outside of Singapore to protect Catholics, both lay and religious, from suppression by the Japanese. Bishop Devals and Shinozaki managed to convince the Japanese authorities that if large numbers of people were moved out of Singapore, there would be fewer mouths to feed and much less pressure on the local infrastructure. Additionally, whatever surplus crops the people in this overseas settlement produced, could be sent back to Singapore.
 
-Now, while the majority of Eurasians in Singapore were Catholic, there were small numbers of Chinese Catholics too, especially among the Peranakan community – which is likely why their role in Bahau has been largely overlooked by many. In fact, over 1,000 Chinese Catholics, nearly as many as Eurasians, settled in Bahau. The Chinese Catholics came mainly from the parish of Holy Innocents in the Serangoon area, Church of Saints Peter and Paul at Queen Street, and St Theresa’s Church at Kampong Bahru Road. Many Catholic Chinese were eager to move to Bahau as the memories of the horrific Sook Ching massacres were still fresh in their minds.[^9]
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/bahau/03-bahau.jpg">An announcement in the 15 January 1944 edition of <i>The Syonan Shimbun</i> exhorting the Eurasian community to apply for the Bahau settlement scheme, which “all Eurasians who are fit and strong enough to go on the land should avail themselves of enthusiastically”. <i>Courtesy of National Archives of Singapore.</i></div>
+
+Now, while the majority of Eurasians in Singapore were Catholic, there were small numbers of Chinese Catholics too, especially among the Peranakan community – which is likely why their role in Bahau has been largely overlooked by many. In fact, over 1,000 Chinese Catholics, nearly as many as Eurasians, settled in Bahau. The Chinese Catholics came mainly from the parish of Holy Innocents in the Serangoon area, Church of Saints Peter and Paul on Queen Street, and St Theresa’s Church on Kampong Bahru Road. Many Catholic Chinese were eager to move to Bahau as the memories of the horrific Sook Ching massacres were still fresh in their minds.[^9]
 
 In addition to these Catholics, a small group of Protestant European families and neutrals from countries like Switzerland, Denmark, Romania and Russia chose to go to Bahau too, thinking that they would be safer there under the care of the Catholic Church than left to the mercy of the Japanese authorities in Singapore.
 
@@ -58,17 +58,17 @@ In addition to these Catholics, a small group of Protestant European families an
 
 It was in late December 1943 that the first settlers from Singapore – including Bishop Devals – left for Bahau with whatever belongings they could carry: meeting first at the Cathedral of the Good Shepherd on Queen Street, then travelling by overnight train to Gemas; followed by a local train to Bahau town and finally walking the last five miles to the site chosen as the settlement.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bahau/04-bahau.jpg">The morning roll call was a daily ritual at Bahau camp [Japanese propaganda photo]. <i>Courtesy of Father René Nicolas.</i></div>
-
 Stretching over an area of some 40 square miles, the land chosen for the settlement had previously been cleared and rejected by the Japanese for use as an airfield and then by the Chinese who chose to settle in Endau instead. Both groups had allegedly rejected the site because of fears of contracting malaria. The fact that the Catholics accepted the offer to resettle in Bahau reflected the sheer desperation of their situation at the time.
 
 Given its inauspicious start, it’s not surprising that the site did not turn out to be the bucolic paradise that the Catholics had been promised. This was made worse by the fact that what had originally started out as an “optional” resettlement programme seemed more like forced internment once the people arrived there. The Japanese name for the camp, Fuji-Go, which means “beautiful village”, was ironic given the fact that an estimated 500 settlers died over an 18-month period between 1944 and 1945.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-2/bahau/05-bahau.jpg">The first settlers to Bahau – mainly young, single men – had to clear the land, build a  rudimentary road from the train station to the camp and set up basic infrastructure before the families started to arrive (Japanese propaganda photo). <i>Courtesy of Father René Nicolas.</i></div>
-
 The first settlers, mainly young, single men, lived communally in four sheds constructed by the authorities. They were first assigned to clear the land still overgrown with primary jungle, build a rudimentary road from the train station to the camp and set up basic infrastructure before the families started to arrive. Each family was allocated 3 acres of land to grow crops and build their own home using whatever they could find from the jungle – basically split timber and palm fronds – although some of the more fortunate families could afford to pay local contractors to build sturdier structures.
 
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-2/bahau/05-bahau.jpg">The first settlers to Bahau – mainly young, single men – had to clear the land, build a  rudimentary road from the train station to the camp and set up basic infrastructure before the families started to arrive (Japanese propaganda photo). <i>Courtesy of Father René Nicolas.</i></div>
+
 Then began the difficult task of survival. Those who toiled hard in their allocated land parcels never went hungry with bountiful harvests of vegetables such as tapioca, *kangkong* (water convolvulus) and *bangkwang* (Chinese turnip). But although they might not have gone hungry, their diets certainly lacked essential nutrients; some resorted to eating jungle animals (such as snails and iguanas) or killing goats, which had been kept as family pets, for protein. The harsh living conditions and poor diets made the settlers vulnerable to malaria and a host of tropical ailments and diseases. Not surprisingly, the death toll was high.
+
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bahau/04-bahau.jpg">The morning roll call was a daily ritual at Bahau camp [Japanese propaganda photo]. <i>Courtesy of Father René Nicolas.</i></div>
 
 Still, some settlers remember happy days, a testimony of the human ability to see the positive in the face of adversity. Gwen Lange née Perry, who was then a teenager, recalls enjoying greater freedom than she would have been permitted in Singapore, including being allowed to attend monthly parties held in a neighbour’s house in the settlement. People would walk 45 minutes in pitch dark to get to the house, where some would bring musical instruments to play and homemade rice whisky would be shared in an atmosphere of conviviality.
 
@@ -112,7 +112,7 @@ I feel very privileged to have met so many survivors and have had access to so m
 
 |Devals’ body was taken to Singapore where “a requiem mass was held at the Cathedral of the Good Shepherd, attended by all the top ranking Japanese officers… almost a state funeral” performed with dignity and respect from Singaporeans and Japanese.[^11] Shinozaki described him as a “noble and fearless man” and said that at the funeral he “kissed the corner of the coffin” because he had “always held him in respect as a God-fearing man”.[^12]|
 
-#### **Mamoru Shinozaki: The Japanese Schindler**
+|**MAMORU SHINOZAKI: THE JAPANESE SCHINDLER**|
 
 |<img style="width:200px" src="/images/Vol-12-issue-2/bahau/08-bahau.jpg">Mamoru Shinozaki was instrumental in saving many lives in Singapore immediately after the surrender of the British on 15 February 1942. <i>All rights reserved, Shinozaki, M. (2011). Syonan, My Story: The Japanese Occupation of Singapore. Singapore: Marshall Cavendish Editions.</i>|
 
@@ -126,17 +126,17 @@ I feel very privileged to have met so many survivors and have had access to so m
 
 |My grandfather, Herman de Souza (Jnr), who worked with Shinozaki in the Education Department during the Occupation and later in Bahau, recalled what Shinozaki said to him in 1942: “I was in the diplomatic service of the Japanese, I was trained in Germany, and I had great ambitions. I was going to rise in the consulate world. But when the British interned me in this place, I had time to think, and I have now only one ambition. … My ambition now is to do good to people. Doesn’t matter who they are.”[^15]|
 
-|After the war, a letter published in The Straits Times on 19 August 1946 made the case for allowing Shinozaki to stay in Singapore. The writer of the letter was my great-uncle, P. F. (Pat) de Souza, a lawyer who personally knew Shinozaki through his practice in Singapore before the war, and later during his internment in Bahau. He closed his letter by saying: “I do feel that Shinozaki’s public spiritedness and achievements – at a time when we who were there were subjected to all kinds of degradations – characterise him as a great humanitarian and a great gentleman.”[^16]|
+|After the war, a letter published in *The Straits Times* on 19 August 1946 made the case for allowing Shinozaki to stay in Singapore. The writer of the letter was my great-uncle, P. F. (Pat) de Souza, a lawyer who personally knew Shinozaki through his practice in Singapore before the war, and later during his internment in Bahau. He closed his letter by saying: “I do feel that Shinozaki’s public spiritedness and achievements – at a time when we who were there were subjected to all kinds of degradations – characterise him as a great humanitarian and a great gentleman.”[^16]|
 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/bahau/fiona1.png">
-	<b>Fiona Hodgkins</b> (right), a history graduate whose professional life has revolved around history and education, spent 14 years in Singapore. Her research into Bahau arose from a personal quest and a passion for social history. From Syonan to Fuji-Go (2014), which chronicles her research, is her first book. Fiona is pictured here with Gwen Perry, a survivor of the Bahau settlement.
+	<b>Fiona Hodgkins</b> (right), a history graduate whose professional life has revolved around history and education, spent 14 years in Singapore. Her research into Bahau arose from a personal quest and a passion for social history. <i>From Syonan to Fuji-Go</i> (2014), which chronicles her research, is her first book. Fiona is pictured here with Gwen Perry, a survivor of the Bahau settlement.
 </div>
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **References**
+#### **REFERENCES**
 
 <u><b>Books</b></u>
 
@@ -146,7 +146,7 @@ La Brooy, M. (1987). *[Where is thy victory?](http://eservice.nlb.gov.sg/item_ho
 
 O’Donovan, P. (2008). *[Jungles are never neutral: Wartime in Bahau: An extraordinary story of exile and survival: The diaries of Brother O’Donovan fsc](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13112699)*. Ipoh, Malaysia: Media Masters Publishing. Call no.: RSING 940.5308827178 ODO-[WAR] [previously published as: Under the Hinomaru, Ipoh: The La Salle Brothers, 1978]
 
-Oehlers, J. (2011). [That’s how it goes: The way of the 90-year life journey of a Singapore Eurasian](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14056121). Singapore: Select Pub. Call no.: RSING 617.6092 OEH
+Oehlers, J. (2011). *[That’s how it goes: The way of the 90-year life journey of a Singapore Eurasian](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=14056121)*. Singapore: Select Pub. Call no.: RSING 617.6092 OEH
 
 Shinozaki, M. (1975). *[Syonan, my story: The Japanese Occupation of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=166564)*. Singapore: Asia Pacific Press. Call no.: RCLOS 940.548252 SHI
 
@@ -179,9 +179,9 @@ Woodford, Esme (2007) (Accession no.: 003267)
 
 For a full list of references behind the research, see Hodgkins, F. (2014). *[From Syonan to Fuji-Go: The story of the Catholic settlement in Bahau in WWII Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200929389)*. Singapore: Select Publishing. Call no.: RSING 307.212095957 HOD
 
-#### **Notes**
+#### **NOTES**
 
-[^1]:Museum commemorating the site of the British surrender of Singapore to the Japanese on 15 February 1942. Located at Upper Bukit Timah Road, it is currently closed for renovations and will open in the first quarter of 2017.
+[^1]:Museum commemorating the site of the British surrender of Singapore to the Japanese on 15 February 1942. Located on Upper Bukit Timah Road, it is currently closed for renovations and will open in the first quarter of 2017.
 
 [^2]:Established in Singapore in 1919, the Eurasian Association is one of the earliest community associations set up to look after the interests of Eurasians.
 
@@ -209,6 +209,6 @@ For a full list of references behind the research, see Hodgkins, F. (2014). *[Fr
 
 [^14]:[Shinozaki](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13699400), 2011, p. 159.
 
-[^15]:Tan, B. L. (Interviewer). (1985, August 17). [Oral history interview with Herman Marie de Souza](http://www.nas.gov.sg/archivesonline/viewer?uuid=f320c5a2-115d-11e3-83d5-0050568939ad-OHC000592_003). [Transcript of MP3 Recording No. 000592/06/03, p. 28]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/).
+[^15]:Tan, B. L. (Interviewer). (1985, August 17). *[Oral history interview with Herman Marie de Souza](http://www.nas.gov.sg/archivesonline/viewer?uuid=f320c5a2-115d-11e3-83d5-0050568939ad-OHC000592003)*. [Transcript of MP3 Recording No. 000592/06/03, p. 28]. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline/).
 
 [^16]:De Souza, P. F. (1946, August 19). [Spy and humanitarian](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460819-1.2.42.4.aspx). *The Straits Times*, p. 4. Retrieved from NewspaperSG.

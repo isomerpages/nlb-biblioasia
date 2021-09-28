@@ -4,7 +4,7 @@ permalink: /vol-17/issue-3/oct-dec-2021/ancientgold
 ---
 #### Where did ancient gold come from? What was it used for and what gold discoveries have been made in Singapore? **Foo Shu Tieng** has the answers.
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Opening%20image.jpg)
 <div style="background-color: white;">A 1694 print showing a gold mine (<i>tambang</i> in Indonesian) in Sumatra by Caspar Luyken and published by Willem van de Water. <i>Retrieved from Rijksmuseum, Amsterdam (RP-P-1896-A-19368-994).</i></div>
 
 Gold is a precious commodity admired for its beauty, rarity and monetary value. To understand how it became such a valued metal in Southeast Asia specifically, we need to look at the historical,[^1] archaeological[^2] and ethnographic[^3] evidence.
@@ -17,7 +17,7 @@ Singapore has not been spared from the ravages of treasure hunters either. In 19
 
 It was in 4th century BCE that Southeast Asia began to be associated with names such as “Land of Gold” (<i>Suvaṇṇabhūmi</i>), “Wall of Gold” (<i>Suvarṇakudya</i>), “Islands of Gold” (<i>Suvarṇadvīpa</i>) and “Golden Peninsula” (<i>Khersonese</i>).[^8]
 
-One theory why the region was associated with gold is that sometime around 300 BCE, trade caravans supplying South Asia with Siberian gold via the Silk Road were disrupted by the movement of people in Central Asia. Nomadic invaders destroyed several cities in the Margiana and Aria regions (present-day eastern Turkmenistan and western Afghanistan respectively) just before 290 BCE, for example.[^9] This trade route was not restored until Roman Emperor Nero’s reign (r. 54–68 CE). However, when he tried to debase the gold content in Roman coinage to counter inflation, this led to Roman gold coins becoming less accepted for commercial transactions in South Asia where they were used as bullion. 
+One theory why the region was associated with gold is that sometime around 300 BCE, there was a disruption in the trade caravans supplying Siberian gold via the Silk Road to South Asia (specifically the Mauryan empire, which at its height, included north and central India, and what is now part of Iran, Pakistan and Afghanistan). Nomadic invaders destroyed several cities in the Margiana and Aria regions (present-day eastern Turkmenistan and western Afghanistan respectively) just before 290 BCE, for example.[^9] This trade route was not restored until Roman Emperor Nero’s reign (r. 54–68 CE). However, when he tried to debase the gold content in Roman coinage to counter inflation, this led to Roman gold coins becoming less accepted for commercial transactions in South Asia where they were used as bullion. 
 
 The supply of gold to South Asia was further hampered by Roman monetary and precious metal controls in 2nd century CE.[^10] Roman Emperor Vespasian (r. 69–79 CE), for example, issued regulations that prohibited the exports of precious metals from the Roman Empire. The scarcity of precious metals such as gold thus might have encouraged South Asians to seek out new sources of gold in Southeast Asia. 
 
@@ -27,12 +27,12 @@ The ancient maritime trade between Southeast Asia and South Asia prior to the 1s
 
 Meanwhile, Indian rouletted ware (a kind of pottery with rouletted designs at the base)[^13] has been found in various parts of Southeast Asia such as the Malay Peninsula, Thailand, Vietnam, Java and Bali by the 1st century BCE.[^14] The gold trade in Southeast Asia would have initially relied on existing trade networks. 
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Armband%20with%20Kala%20motif%20.jpg)
 <div style="background-color: white;">A section of an armband with a kāla motif thought to be from East Java, 9th to 14th century CE. The Samuel Eilenberg-Jonathan P. Rosen Collection of Indonesian Gold, Bequest of Samuel Eilenberg and Gift of Jonathan P. Rosen, 1998. <i>Retrieved from The Metropolitan Museum of Art, New York (1998.544.58).</i></div>
 
 #### **Ancient Literary Sources**
 
-Abū Zayd al-Sīrāfī’s 9th–10th century <i>Arabic Accounts of China and India</i> (<i>Akhbār al Ṣīnwa-l-Hind</i>) carries an early traveller’s tale of how gold collected during a Javanese king’s reign was redistributed among his subjects after his death and became a measure of the king’s glory.[^15] 
+Abū Zayd al-Sīrāfī’s 9th–10th century <i>Arabic Accounts of China and India</i> (<i>Akhbār al Ṣīnwa-l-Hind</i>) carries an early traveller’s tale of how gold collected during a Javanese king’s reign was redistributed among his subjects after his death and became a measure of the king’s glory.[^15] 
 
 According to the account, every morning, “the king’s steward would bring an ingot of gold [and] place the ingot in [a tidal] pool [that adjoined the royal palace]. When the tide came in, the water covered this and the other ingots collected together with it, and submerged them; when the tide went out, the water seeped away and revealed the ingots; they would gleam there in the sunlight, and the king could watch over them when he took his seat in the hall overlooking them”.[^16]
 
@@ -55,8 +55,8 @@ Generally, there are two ways of obtaining gold from nature: panning and mining.
 
 Historically, gold was produced in Perak, Kelantan, Pahang, Negeri Sembilan, Melaka and Patani on the Malay Peninsula; the Barisan mountain range in West Sumatra; western Borneo; Luzon and Mindanao in the Philippines; Timor; northern Burma; northern and central Vietnam; Laos; as well as the Oddar Meanchey, Preah Vihear and Rattanakiri provinces in Cambodia.[^28]
 
-![Alt text for image on Isomer site]()
-<div style="background-color: white;">The oldest item in the National Library’s Rare Materials Collection is this 1478 copper-engraved map titled <i>Vndecima Asiae Tabvla (Ptolemaic Map of India and Southeast Asia)</i> by Claudius Ptolemy and published by Arnold Buckinck in Rome. Ptolemy’s Geographia (2nd century) refers to Southeast Asia as the “Golden Peninsula” (Khersonese). <i>Collection of the National Library, Singapore (Accession no. B26055962B).</i></div>
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Copper%20Map.jpg)
+<div style="background-color: white;">The oldest item in the National Library’s Rare Materials Collection is this 1478 copper-engraved map titled <i>Vndecima Asiae Tabvla (Ptolemaic Map of India and Southeast Asia)</i> by Claudius Ptolemy and published by Arnold Buckinck in Rome. Ptolemy’s <i>Geographia</i> (2nd century) refers to Southeast Asia as the “Golden Peninsula” (<i>Khersonese</i>). <i>Collection of the National Library, Singapore (Accession no. B26055962B).</i></div>
 
 #### **Making Gold**
 
@@ -68,11 +68,11 @@ Smithing sites are generally identified through excavations, surveys and intervi
 
 #### **Using Gold**
 
-One theory explaining why gold became so popular in Southeast Asia is that gold ornaments and other gold trade objects were likely carried or worn by visiting traders, and “visually communicated special status”. These material goods would have assisted regional elites in forging alliances such as via marriages and ritual gifting when the items were exchanged.[^34]
+One theory explaining why gold became so popular in Southeast Asia is that gold ornaments and other gold trade objects were likely carried or worn by visiting traders, and “visually communicated special status”. These material goods would have assisted regional elites in forging alliances by exchanging the items during marriages and ritual gifting, for example.[^34]
 
 Gold ornaments were part of early long-distance trade networks and the gold artefacts found at the stone sarcophagus burial site of Pangkung Paruk on Bali (2nd to 4th century CE) seems to support this. The site yielded gold-glass beads typically found at Western Indian Ocean sites as well as gold ornaments which were tested and found to be similar to those discovered at Giong Ca Vo in Vietnam and Khlong Thom in Thailand.[^35]
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Mahakala%20statue.jpg)
 <div style="background-color: white;">Replica of the Padang Roco Mahākāla statue with a Kāla belt at Museum Siginjei Jambi, 2013. <i>Courtesy of Foo Shu Tieng.</i></div>
 
 #### **Gold in Singapore**
@@ -81,31 +81,32 @@ In Singapore, 10 ancient gold ornaments said to be related to the Majapahit empi
 
 Were the gold ornaments found in Singapore part of royal regalia, made by Majapahit artisans? Geologically, Singapore does not have native gold, so the gold would have to be imported.[^43] Further trace element analysis on the artefacts, such as those done for other assemblages from Southeast Asia, may provide clues that point to a more precise point of origin but as gold is often recycled, the results may not be conclusive.[^44]
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Candi%20Sukuh.jpg)
 <div style="background-color: white;">A temple relief thought to depict smithing activities in Candi Sukuh, Central Java. Gold was sometimes used in Hindu-Buddhist temple consecrations. <i>Courtesy of Foo Shu Tieng.</i></div>
 
 Archaeological excavations in Singapore carried out between 1984 and 2017 have uncovered additional pieces of gold at Fort Canning and other sites in the civic district, consisting of small ornament fragments or gold foil, interpreted as part of secondary deposits.[^45] The 1994–95 excavation of the Parliament House site, for example, yielded a few pieces of gold artefacts: part of a jewellery strap; a sheet fragment with incised decoration; part of a ring; as well as a piece of “irregularly” shaped foil, possibly for rework by a goldsmith.[^46]
 
 According to ancient Javanese inscriptions from the 9th to 10th century CE, there were two types of jewellery artisans. The first category lived within the palace compound and made ornaments solely for the royal family. The second category fulfilled village commissions, with the ring makers (<i>pasisim</i> in Old Javanese) considered a special class of jeweller.[^47] This is because gold rings with auspicious inscriptions (<i>simsim prasada mas</i> in Old Javanese) may also have been used as “special purpose” currency for temple donations and ritual offerings.[^48] This may have been the case for ancient Temasek.
 
-Gold was likely to be a medium of exchange on Temasek in the 14th century. Chinese traders used something called “red gold” (紫金) as a form of currency in places such as Longyamen (龍牙門) and Banzu (班卒) on the island, thought to be located at or near the Singapore Straits.[^49]
+Gold was a medium of exchange on the island in the 14th century. Chinese traders used something called “red gold” (紫金) as a form of currency in places such as Longyamen (龍牙門) and Banzu (班卒) on the island, thought to be located at or near the Singapore Straits.[^49]
 
-![Alt text for image on Isomer site]()
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Majapahit.jpg)
 <div style="background-color: white;">Javanese-style gold jewellery dating back to the Majapahit period was discovered at Fort Canning in Singapore during excavation works in 1928. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 If lead or mercury vessels were found, this could be evidence of local gold working as these vessels were used to help separate gold from the ore. There is a theory that a type of stoneware jar found in large numbers in soil layers dating to the 14th century in several sites in Singapore, as well as other sites in Southeast Asia such as Kota Cina in Sumatra and Kedah and Pahang on the Malay Peninsula, were used for that very purpose. However, a recent study has cast doubt on this theory as the shape of the vessel is unlikely to be suited for carrying mercury.[^50]
 
 Another opportunity for the study of gold artefacts in Singapore is the octagonal gold cup from the Tang dynasty shipwreck discovered by fishermen near the island of Belitung, Indonesia, in 1998. (This was the wreck of an Arabian dhow that might have sunk around 830 CE on its return journey from China to Arabia.) The gold cup may have been made by Tang artisans in the style of Sogdian[^51] silverware from Central Asia from the mid-700s CE. Why the cup was in a ship in Southeast Asian waters is a mystery yet to be fully solved.[^52]
 
-#### **Further Research
+#### **Further Research**
 
 While some strides have been made in the study of gold in Southeast Asia, there are still some research gaps that need to be filled. Exploring the history of mining in the region can help with gold sourcing studies, for example. In addition, scholars have begun to collate historical, ethnographic and archaeological data on gold and present these as part of a geographic information system to analyse gold trade networks.[^53]
 
 Although modern scholarship continues to advance our knowledge of ancient gold in the region, the ability to uncover such information is becoming more difficult due to illicit trafficking of antiquities. Therefore, we have to ensure that such tangible heritage be safeguarded and documented where possible for the benefit of future generations.
 
 <div style="background-color: white;">
-<img src="pending photo" style="width: 100px; height: 100px;" />
-	<b>Foo Shu Tieng</b> is an Associate Librarian with the National Library, Singapore, who works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services. Her publications on ancient money, shell middens and salt can be found on ResearchGate.</div>
+<br/>
+<img src="/images/vol-17-issue-3/authors/Foo%20Shu%20Tieng.png" style="width: 100px; height: 100px;" />
+<b>Foo Shu Tieng</b> is an Associate Librarian with the National Library, Singapore, who works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services. Her publications on ancient money, shell middens and salt can be found on ResearchGate.</div>
 
 #### **NOTES**
 
@@ -117,15 +118,15 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^4]: Jose Eleazar R. Bersales, “Looking for Yamashita’s Gold,” *Philippine Quarterly of Culture and Society* 44, nos. 3 and 4 (2016): 183–210. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
-[^5]: Andreas Reinecke, Vin Laychour and Sonetra Seng, *The First Golden Age of Cambodia: Excavation at Prohear *(Bonn: Andreas Reinecke, 2009), 19–21, ResearchGate, https://www.researchgate.net/publication/274251428_2009_The_First_Golden_Age_of_Cambodia_Excavation_at_Prohear_with_Khmer_abstract_Bonn.
+[^5]: Andreas Reinecke, Vin Laychour and Sonetra Seng, *The First Golden Age of Cambodia: Excavation at Prohear* (Bonn: Andreas Reinecke, 2009), 19–21, ResearchGate, https://www.researchgate.net/publication/274251428_2009_The_First_Golden_Age_of_Cambodia_Excavation_at_Prohear_with_Khmer_abstract_Bonn.
 
 [^6]: Denis Byrne, “The Problem with Looting: An Alternative Perspective on Antiquities Trafficking in Southeast Asia.” *Journal of Field Archaeology* 41, no. 3 (20 June 2016): 344–54, Taylor & Francis Online, https://www.tandfonline.com/doi/abs/10.1080/00934690.2016.1179539.
 
 [^7]: “[Stamford Road Treasure Mystery Solved: Aussies Buried Heavy Box](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19490211-1.2.24),” *Morning Tribune*, 11 February 1949, 3; “[Stamford Rd Treasure Hunt Banned](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490503-1.2.83),” *Singapore Free Press*, 3 May 1949, 5; “[Singapore Stands to Lose What Treasure Hunters Find,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850315-1.2.25.11)” (1985, March 15). *Straits Times*, 15 March 1985, 13. (From NewspaperSG). For more information about 14th-century Temasek, see John N. Miksic, [*Singapore & the Silk Road of the Sea, 1300–1800*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868) (Singapore: NUS Press, 2013). (From National Library, Singapore, Call no. RSING 959.57 MIK-[HIS])
 
-[^8]: Paul Wheatley, [*The Golden Khersonese: Historical Geography of the Malay Peninsula Before A. D. 1500*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203057442) (Kuala Lumpur: University of Malaya Press, 1966), 123–62, 177–84. (From National Library, Singapore, Call no. RCLOS 959.5 WHE); George Cœdès, [*The Indianized States of Southeast Asia* ] (https://eservice.nlb.gov.sg/item_holding.aspx?bid=678446) (Honolulu: East-West Center Press, 1968), 40. (From National Library, Singapore, Call no. RSING 959 COE); Himansha Prabha Ray, “In Search of Suvarnabhumi: Early Sailing Networks in the Bay of Bengal,” in [*Indo-Pacific Prehistory Association Bulletin 1990: Proceedings of the 14th Congress of the Indo-Pacific Prehistory Association, Yogyakarta, Indonesia, 26 August to 2 September 1990*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6542726), ed. Peter Bellwood (Canberra: Indo-Pacific Prehistory Association, 1990), 357. (From National Library, Singapore, Call no. R 930 IND)
+[^8]: Paul Wheatley, [*The Golden Khersonese: Historical Geography of the Malay Peninsula Before A. D. 1500*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203057442) (Kuala Lumpur: University of Malaya Press, 1966), 123–62, 177–84. (From National Library, Singapore, Call no. RCLOS 959.5 WHE); George Cœdès, [*The Indianized States of Southeast Asia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=678446) (Honolulu: East-West Center Press, 1968), 40. (From National Library, Singapore, Call no. RSING 959 COE); Himansha Prabha Ray, “In Search of Suvarnabhumi: Early Sailing Networks in the Bay of Bengal,” in [*Indo-Pacific Prehistory Association Bulletin 1990: Proceedings of the 14th Congress of the Indo-Pacific Prehistory Association, Yogyakarta, Indonesia, 26 August to 2 September 1990*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6542726), ed. Peter Bellwood (Canberra: Indo-Pacific Prehistory Association, 1990), 357. (From National Library, Singapore, Call no. R 930 IND)
 
-[^9]: Ahmad Hasan Dani and P. Bernard, “Alexander and His Successors in Central Asia,” in  [*History of Civilizations of Central Asia: The Development of Sedentary and Nomadic Civilizations, 700 B. C. to A. D. 250*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6539779), ed. János Harmatta, B. N. Puri, and G. F. Etemadi (Paris: UNESCO Publishing, 1992), 2: 89. (From National Library, Singapore, call no. RU 958 HIS)
+[^9]: Ahmad Hasan Dani and P. Bernard, “Alexander and His Successors in Central Asia,” in  [*History of Civilizations of Central Asia: The Development of Sedentary and Nomadic Civilizations, 700 B. C. to A. D. 250*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6539779), ed. János Harmatta, B. N. Puri, and G. F. Etemadi (Paris: UNESCO Publishing, 1992), 2: 89. (From National Library, Singapore, call no. RU 958 HIS); Ray, “In Search of Suvarnabhumi,” 357; Irfan Habib and Faiz Habib, “Mapping the Mauryan Empire,” *Proceedings of the Indian History Congress* 50, Golden Jubilee Session (1989), 57–79. Retrieved from JSTOR via NLB’s eResources website.
 
 [^10]: Cœdès, [*The Indianized States of Southeast Asia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=678446), 20; William Woodthorpe Tarn, *The Greeks in Bactria & India* (London: The Syndics of the Cambridge University Press, 1922), 104–9, Internet Archive,  https://archive.org/details/in.ernet.dli.2015.125997/page/n125/mode/2up; Kenneth R. Hall, [*Maritime Trade and State Development in Early Southeast Asia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446987) (Honolulu: University of Hawaii Press, 1985), 36–37, 39. (From National Library, Singapore, Call no. RSING 382.0959 HAL)
 
@@ -135,13 +136,13 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^13]: Rouletted ware usually refers to a “flat-based shallow dish about 6 centimetres (cm) deep and up to 32 cm in diameter, with an incurved bevelled rim. Decoration comprises one or three interior bands of impressed rouletted designs on the base of the dish or pot [and based on ceramics analysis at the archaeological excavation site of Tissamaharama]. Rouletted Ware first emerged in the 3rd and 2nd centuries BCE and belongs to a group of pottery that has been found at archaeological sites along the east coast of India to the Tamil coast and farther south to Sri Lanka.” See Himanshu Prabha Ray, “Culture, the Written Word, and the Sea, 3rd Century BCE to 4th Century CE,” in [*Coastal Shrines and Transnational Maritime Networks Across India and Southeast Asia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205218314) (London: Routledge, 2021), 25–27. (From National Library, Singapore, call no. RSEA 294.3435095409146 RAY)
 
-[^14]: Dorian Q. Fuller, et al., “[Across the Indian Ocean: The Prehistoric Movement of Plants and Animals](https://www-proquest-com.proxy.lib.sg/central/docview/880070714/936EE1013D854D1FPQ/1?accountid=12691),”* Antiquity* 85, no. 328 (June 2011): 544–58. (From ProQuest Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Ray, “[Culture, the Written Word, and the Sea, 3rd Century BCE to 4th Century CE](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205218314),” 21–53.
+[^14]: Dorian Q. Fuller, et al., “[Across the Indian Ocean: The Prehistoric Movement of Plants and Animals](https://www-proquest-com.proxy.lib.sg/central/docview/880070714/936EE1013D854D1FPQ/1?accountid=12691),”*Antiquity* 85, no. 328 (June 2011): 544–58. (From ProQuest Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Ray, “[Culture, the Written Word, and the Sea, 3rd Century BCE to 4th Century CE](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205218314),” 21–53.
 
-[^15]: Abū Zayd al-Sīrāfī, [*Accounts of China and India: Lively Depictions of the Natural Life, Peoples, and Kingdoms Around the Indian Ocean*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), trans. Tim Mackintosh-Smith (New York: New York University Press, 2017), 43–44. (From National Library, Singapore, Call no. R 915.104 SIR-[TRA]) (Abū Zayd al-Sīrāfī was a seafarer who moved from the Persian port-city of Siraf to Basra.)
+[^15]: Abū Zayd al-Sīrāfī, [*Accounts of China and India: Lively Depictions of the Natural Life, Peoples, and Kingdoms Around the Indian Ocean*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), trans. Tim Mackintosh-Smith (New York: New York University Press, 2017), 43–44. (From National Library, Singapore, Call no. R 915.104 SIR-[TRA]) (Abū Zayd al-Sīrāfī was a seafarer who moved from the Persian port-city of Siraf to Basra.)
 
-[^16]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
+[^16]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
 
-[^17]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
+[^17]: Abū Zayd al-Sīrāfī, [*Accounts of China and India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202850313), 43–44.
 
 [^18]: Wang Dayuan was a Yuan dynasty traveller known for his two ship voyages. For a study of his writings relating to Singapore, see Miksic, [*Singapore & the Silk Road of the Sea*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 169–79.
 
@@ -177,13 +178,13 @@ Although modern scholarship continues to advance our knowledge of ancient gold i
 
 [^34]: Demandt, “Early Gold Ornaments of Southeast Asia,” 306, 319.
 
-[^35]: Ambra Calo, et al., “[Trans-Asiatic Exchange of Glass, Gold and Bronze: Analysis of Finds from the Late Prehistoric Pangkung Paruk Site](https://www-proquest-com.proxy.lib.sg/central/docview/2356393944/8C897468AD7E4D05PQ/1?accountid=12691),” *Antiquity*94, no. 373 (February 2020), 119. (From ProQuest Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+[^35]: Ambra Calo, et al., “[Trans-Asiatic Exchange of Glass, Gold and Bronze: Analysis of Finds from the Late Prehistoric Pangkung Paruk Site](https://www-proquest-com.proxy.lib.sg/central/docview/2356393944/8C897468AD7E4D05PQ/1?accountid=12691),” *Antiquity* 94, no. 373 (February 2020), 119. (From ProQuest Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^36]: The Majapahit empire, founded in 1294 CE, was based in East Java. Singapore was said to be a vassal state of Majapahit. See Miksic, [*Singapore & the Silk Road of the Sea: 1300–1800*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 185.
 
 [^37]: Wang Dayuan (汪大渊) mentions an attack by Siam around 1330 CE, when the Siamese were trying to establish influence in the area. According to a text called the *Pararaton*, Majapahit military leader Gajah Mada is said to have made an oath to conquer a list of places in the Nusantara region (maritime Southeast Asia). Temasek is mentioned in the list. According to the *Nagarakrtagama* text dated approximately 1365 CE, Gajah Mada was successful in achieving his oath. See Miksic, [*Singapore & the Silk Road of the Sea: 1300-1800*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 163, 185.
 
-[^38]: “[Treasure Trove: Discovery at Fort Canning](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19280719-1.2.49),” *Singapore Free Press*, 19 July 1928, 9. (From NewspaperSG); Richard O. Winstedt, “Gold Ornaments Dug Up at Fort Canning, Singapore,”* Journal of the Malayan Branch of the Royal Asiatic Society* 6, no. 4 (105) (November 1928): 1–4. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); John N. Miksic, [*Archaeological Research on the “Forbidden Hill” of Singapore: Excavations at Fort Canning, 1984*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080784) (Singapore: National Museum Singapore, 1985), 42–47. (From National Library, Singapore, Call no. RSING 959.57 MIK-[HIS]); Shah Alam Zaini, “Metal Finds and Metal-Working at the Parliament House Complex, Singapore,” (master’s thesis, Michigan University, 1997), 7, http://hdl.handle.net/2027.42/149090.
+[^38]: “[Treasure Trove: Discovery at Fort Canning](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19280719-1.2.49),” *Singapore Free Press*, 19 July 1928, 9. (From NewspaperSG); Richard O. Winstedt, “Gold Ornaments Dug Up at Fort Canning, Singapore,” *Journal of the Malayan Branch of the Royal Asiatic Society* 6, no. 4 (105) (November 1928): 1–4. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); John N. Miksic, [*Archaeological Research on the “Forbidden Hill” of Singapore: Excavations at Fort Canning, 1984*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080784) (Singapore: National Museum Singapore, 1985), 42–47. (From National Library, Singapore, Call no. RSING 959.57 MIK-[HIS]); Shah Alam Zaini, “Metal Finds and Metal-Working at the Parliament House Complex, Singapore,” (master’s thesis, Michigan University, 1997), 7, [http://hdl.handle.net/2027.42/149090](http://hdl.handle.net/2027.42/149090).
 
 [^39]: “[Japs Took Ancient Ornaments](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480306-1.2.38),” *Straits Times*, 6 March 1948, 4. (From NewspaperSG)
 

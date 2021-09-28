@@ -30,7 +30,7 @@ The 1990s saw the arrival of an increasingly affluent and cosmopolitan Singapore
 
 Interest in dance grew, and with it the question: What is the Singaporean dance identity? It likely straddles the canonical  halls of Western ballet and centuries-old Asian dance traditions. As an artist living in a diverse and multi-ethnic country such as Singapore, it is only natural to be influenced by the many cultures of its inhabitants. By some sort of osmosis, their culture, inevitably becomes part of yours.
 
-“Watching Chinese dance, Malay  dance, has completely influenced my cho- reography,” said classical Indian dancer  Santha Bhaskar in an interview in 2010.[^1] Drawing inspiration from these traditions, she has woven part of these cultures into her own choreography, while still staying  true to Bharatanatyam, the classical South Indian dance form she practises. 
+“Watching Chinese dance, Malay  dance, has completely influenced my choreography,” said classical Indian dancer  Santha Bhaskar in an interview in 2010.[^1] Drawing inspiration from these traditions, she has woven part of these cultures into her own choreography, while still staying  true to Bharatanatyam, the classical South Indian dance form she practises. 
 
 Similarly, Kuik Swee Boon, the Singapore Dance Theatre alumni who founded  T.H.E. Dance Company, used his ballet background to establish a foundation for  a new type of lingua franca. In <i>As It Fades</i> (2011), he paid tribute to the fading heritage of Chinese dialects such as Teochew, Hainanese and Cantonese with expressive choreography using “complex floorwork and powerful lunges”. In a 2011 review for <i>The Straits Times</i>, I described the movements as being “symbiotic and tightly woven, the ebb and flow between steps reminiscent of <i>taiji</i>”.
 
@@ -48,7 +48,7 @@ T.H.E Dance Company's <i>Bedfellows</i> (2013) was part of T.H.E's 5th anniversa
 
 <i>Goh Lay Kuan, The Theatre Practice Ltd</i>
 
-Spirited dance doyenne Goh Lay Kuan  pushed boundaries not just in dance, but the politics governing 1970s Singapore.  Dubbed “The Red Ballerina” by the press, Goh and her late husband, theatre play- wright and director Kuo Pao Kun, were  arrested under the Internal Security Act in 1976 and detained without trial on suspicion that they had communist affiliations due to the politically-charged nature of their work. Some of their pieces, like <i>Gai Si De Cang Ying (Damn the Fly)</i>, raised sensitive issues about socio-political issues in Singapore.
+Spirited dance doyenne Goh Lay Kuan  pushed boundaries not just in dance, but the politics governing 1970s Singapore.  Dubbed “The Red Ballerina” by the press, Goh and her late husband, theatre playwright and director Kuo Pao Kun, were  arrested under the Internal Security Act in 1976 and detained without trial on suspicion that they had communist affiliations due to the politically-charged nature of their work. Some of their pieces, like <i>Gai Si De Cang Ying (Damn the Fly)</i>, raised sensitive issues about socio-political issues in Singapore.
 
 <div style="background-color: white;">
 <br/>
@@ -84,11 +84,11 @@ Arriving in Singapore in 1959 from Kerala,  India, the then 15 year-old-dancer h
 A young Santha Bhaskar performing to a Tamil poem for a function organised by <i>Tamil Murasu</i> held at the Victoria Theatre in 1957. <i>Courtesy of Santha Bhaskar. </i>
 </div>
 
-As artistic director of Bhaskar’s Arts Academy, where she teaches Bharatnatyam dance, Bhaskar began exploring her new-found insights. Weaving Chinese, Malay and even Thai dance influences into her dance choreography, Bhaskar has staged key Asian works such as the classic Chinese folktale <i>Butterfly Lovers</i> (1958), as well as the Thai mythology <i>Manohra</i> (1996).
+As artistic director of Bhaskar’s Arts Academy, where she teaches Bharatnatyam dance, Bhaskar began exploring her newfound insights. Weaving Chinese, Malay and even Thai dance influences into her dance choreography, Bhaskar has staged key Asian works such as the classic Chinese folktale <i>Butterfly Lovers</i> (1958), as well as the Thai mythology <i>Manohra</i> (1996).
 
 From the 100 students the academy had in the 1950s, the dance school has  more than 2,000 today. Bhaskar is also  artistic director and resident choreographer of NUS Indian Dance at the Centre for the Arts at the National University of Singapore, where she taught for over 20 years since the late 1970s.
 
-At the Centre for the Arts, Bhaskar also dabbled in dance forms such as hip-hop and contemporary dance as well as literary arts ike poetry. For instance, the light-hearted dance drama Pappadum featuring hip-hop dance group NUS Dance Blast! was staged in 2006, while <i>Vibrations</i>, an experimental meld of Indian dance with light and video, was performed at Esplanade – Theatres on the Bay the following year. In 2012, <i>Chakra</i>, which combined Indian dance movements with sand art, was staged. 
+At the Centre for the Arts, Bhaskar also dabbled in dance forms such as hip-hop and contemporary dance as well as literary arts like poetry. For instance, the light-hearted dance drama Pappadum featuring hip-hop dance group NUS Dance Blast! was staged in 2006, while <i>Vibrations</i>, an experimental meld of Indian dance with light and video, was performed at Esplanade – Theatres on the Bay the following year. In 2012, <i>Chakra</i>, which combined Indian dance movements with sand art, was staged. 
 
 “My artistic inspirations grew with  Singapore. Watching Chinese dance, Malay dance and international dance forms has influenced my choreography,” said Bhaskar.[^7]
 
@@ -152,7 +152,7 @@ Kuik Swee Boon, who leads the contemporary dance group T.H.E. Dance Company, tak
 
 <i>Singapore Dance Theatre</i>
 
-The Singapore Dance Theatre (SDT) is  Singapore’s first and most established  classical ballet troupe. Founded in 1988 by Goh Soo Khim and the late Anthony Then, the illustrious dance company rose from  humble beginnings. At its first official per- formance in 1988 at the Singapore Festival of Arts, the SDT had only seven dancers  – three Singaporeans, three Filipinos and one Malaysian. Today, the dance company has more than 30 full-time dancers and  apprentices in its fold.
+The Singapore Dance Theatre (SDT) is  Singapore’s first and most established  classical ballet troupe. Founded in 1988 by Goh Soo Khim and the late Anthony Then, the illustrious dance company rose from  humble beginnings. At its first official performance in 1988 at the Singapore Festival of Arts, the SDT had only seven dancers  – three Singaporeans, three Filipinos and one Malaysian. Today, the dance company has more than 30 full-time dancers and  apprentices in its fold.
 
 Best known for its classical ballet  repertoire, which includes classics such  as <i>Anna Karenina, The Nutcracker</i> and <i>Cinderella,</i> the SDT has also staged works by acclaimed choreographers such as André Prokovksy, George Balanchine, Jorma Elo, Xing Liang and Edwaard Liang. The SDT is also closely affiliated with the work of the late virtuoso Singaporean choreographer  Goh Choo San. Goh, who was the brother of Goh Soo Khim, was the choreographer for the Washington Ballet in the 1980s.
 
@@ -180,7 +180,7 @@ For what is art but a lens through  which to examine society, and in turn, ourse
 
 <p style="font-size:15px;"><b>Tara Tan</b> is a writer and designer who works in the intersection between art, design and  technology. She was a former arts reporter with The Straits Times, where she wrote on dance  and culture in Singapore.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
 
 
 #### **NOTES**

@@ -94,7 +94,7 @@ The soon-to-be released Hitman: Agent 47 was partly filmed on location in Singap
 
 <p style="font-size:15px;"><b>Ben Slater</b> is the author of Kinda Hot: <i>The Making of Saint Jack in Singapore</i> (Marshall Cavendish: 2006), a contributing writer to World Film Locations: Singapore (Intellect: 2014) and the editor of <i>25: Histories &amp; Memories of the Singapore International Film Festival</i> (SGIFF: 2014). He is also the co-screenwriter of the feature film <i>Camera</i> (2014) and a lecturer at the School of Art, Media and Design at the Nanyang Technology University (NTU). His 10-film season of foreign films made in Singapore, “Beyond Saint Jack”, is currently underway at the NUS Museum. See http://malayablackandwhite.wordpress.com for details.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 

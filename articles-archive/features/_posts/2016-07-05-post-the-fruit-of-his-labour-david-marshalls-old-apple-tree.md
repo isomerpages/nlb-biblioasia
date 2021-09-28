@@ -118,7 +118,7 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
-#### **Notes**
+#### **NOTES**
 
 [^1]:Tan, L. (Interviewer). (1984, September 24). *[Oral history interview with David Saul Marshall](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f73bcc34-115d-11e3-83d5-0050568939ad-OHC000156_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3)* [Transcript of MP3 recording no. 000156/28/02, p. 12]. Retrieved from National Archives of Singapore website.
 

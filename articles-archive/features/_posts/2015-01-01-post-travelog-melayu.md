@@ -119,7 +119,7 @@ Akhir kata, travelog-travelog Melayu yang pernah diterbitkan ini merupakan bahan
 
 <p style="font-size:15px;"><b>Juffri Supa’at</b> is a Senior Librarian with the National Library of Singapore. He has curated several exhibitions that feature the works of literary pioneers such as Masuri S.N., Muhammad Ariff Ahmad and Abdul Ghani Hamid. Juffri has compiled poetry selections by Muhammad Ariff Ahmad and Suratman Markasan, and has put together bibliographies on Singapore Malay literature and its pioneer writers.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **Rujukan**
 A Samad Said. (1991). *[Warkah Eropah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6137066)*. Kuala Lumpur: Dewan Bahasa dan Putaska. (Call no.: Malay R 899.2305 ABD)

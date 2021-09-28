@@ -7,21 +7,20 @@ layout: post
 #### **Ronnie Tan** and **Goh Yu Mei** recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
 
 <img style="width: 550px; height: 320px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG">
-<div style="background-color: white;">The gun that was used to kill Lim Teck Kin as well as in the attempted murder of a 14-year-old schoolboy. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 6). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
+<div style="background-color: white;">The gun that was used to kill Lim Teck Kin as well as in the attempted murder of a 14-year-old schoolboy. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 6). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA).</i></div>
 
 Wong Fook Kwang, who went by several aliases, including Tit Fung (literally “Iron Spearhead” in Cantonese)[^1] was the dreaded Commander of ‘E’ Branch, the assassination wing of the Malayan Communist Party (MCP). The MCP was most active during the Japanese Occupation years when it formed the Malayan People’s Anti-Japanese Army (MPAJA) to fight the enemy, and again in the aftermath of World War II, in the thick of the Malayan Emergency (1948–60), when it waged a guerilla war against the British in a bid to topple the colonial government and set up a communist regime.
 
 Sometime in April 1951, Wong received a terse message from the MCP’s South Malayan Bureau’s jungle headquarters in Johor, Malaya.[^2] The order was clear: Lim Teck Kin, a 62-year-old “rich but kind and highly respected towkay” and pineapple magnate, must die.[^3] Lim was marked for assassination because he was, in the eyes of the communists, a “reactionary capitalist” employing hundreds of workers. He was therefore deemed as “an oppressor of the masses”.[^4]
 
-<img style="width: 330px; height: 440px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron2.JPG">
-<div style="background-color: white;">A mug shot profile of Wong Fook Kwang at the time of his first arrest on 11 June 1952. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (n.p.). Singapore: Heinemann Educational Books (Asia) Ltd.
-(Call no.: RSING 335.43095957 CLA)</i></div>
-
 To carry out the killing, Wong ordered his henchman Yang Ah Lee[^5] to keep Lim under close surveillance for a week. Once the two men had established Lim’s daily routine, they put their plan into action.
 
 Shortly after 8 am on 21 May 1951, two masked assailants intercepted Lim’s chauffeur-driven car just as it was about to leave the driveway of his house and turn onto East Coast Road. The Malay chauffeur Sairi was held at gun-point by one of the assailants, while the other fired two shots at his employer in quick succession. The deed done, the assailants walked away calmly to a waiting taxi driven by a fellow communist.
 
-After the assailants had fled, Sairi immediately reversed the car into the driveway and raised the alarm. While one of Lim’s daughters frantically called the police, another instructed Sairi to drive her wounded father to the hospital. Lim, however, succumbed to his injuries along the way. Before losing consciousness, Lim’s last words to his chauffeur were “*Apa macam*?”[^6] or “What’s happening?” in Malay.[^7]
+After the assailants had fled, Sairi immediately reversed the car into the driveway and raised the alarm. While one of Lim’s daughters frantically called the police, another instructed Sairi to drive her wounded father to the hospital. Lim, however, succumbed to his injuries along the way. Before losing consciousness, Lim’s last words to his chauffeur were “Apa macam?”[^6] or “What’s happening?” in Malay.[^7]
+
+<img style="width: 500px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron3.JPG">
+<div style="background-color: white;">The car in which pineapple tycoon Lim Teck Kin was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 23). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA).</i></div>
 
 Apart from masterminding Lim’s killing, Wong also instigated the murder and attempted murder of several others, including a student and even one of his comrades. Unlike in Malaya where MCP fighters could conduct open warfare from their jungle hideouts, the communists here, given that “every approach to Singapore was well-guarded”, sought to overthrow British rule “by means of subversion and terror” in order “to bring about social and industrial disruption”.[^8]
 
@@ -41,9 +40,6 @@ Upon receiving instructions from the MCP’s South Malayan Bureau’s headquarte
 
 On 2 October 1951, the plan was put into action. With Wong watching expectantly from behind an inconspicuous doorway, two of his assailants, one of whom acted as a look-out, waited for the student to cycle past River Valley Road. However, unlike other days, this time the boy was not alone. He had met a friend earlier and decided to dismount his bicycle and walk with his friend along the pavement while pushing his bicycle.
 
-<img style="width: 500px; height: 330px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron3.JPG">
-<div style="background-color: white;">The car in which pineapple tycoon Lim Teck Kin was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 23). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
-
 At the junction of Teck Guan Road and River Valley Road, one of Wong’s accomplices suddenly emerged from his hiding place and took the boys by surprise. Pulling out his gun, he fired six shots at the intended victim at point blank. Miraculously, the bullets missed their target and the boy managed to make a run for it. Incredibly, there were no passers-by nor motorists to witness the attempted murder along the busy road, so even the police were not notified immediately. By the time the boy managed to compose himself and make a police report, a few hours had lapsed, by which time Wong and his accomplices had long made their getaway in a trishaw.
 
 While fleeing from the scene, Wong and the gunman had a close call: the trishaw they were travelling in was stopped by a police car on routine patrol. Fortunately for the two men, the police officers had no inkling of the botched attempt to kill the boy and only did an identity card check. Had they carried out a full body search, the outcome for Wong and his accomplice would have been very different as the weapon used in the attempted murder was still in the gunman’s possession.
@@ -54,10 +50,10 @@ Even before the attempted murder of the student, Wong had ordered and planned th
 
 Kong Lee,[^13] a member of the ‘E’ Branch Committee, however, disagreed with the plan to kill Siu and made his view known to Wong. The latter paid no heed to this and was prepared to contravene party rules, which made it clear that no one was to kill a fellow communist without the express approval of the MCP headquarters in Johor. So Wong decided to carry out his task quietly, seeing to it that Siu “would simply disappear forever”.[^14] To this end, both he and Ah Poh hatched a meticulous plan to kill Siu and dispose of his remains secretly. They decided that after the murder, Siu’s remains would be buried in a prawn pond in a tidal swamp at the end of Upper Serangoon Road.
 
-<img style="width: 330px; height: 440px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron4.JPG">
-<div style="background-color: white;">The skeletal remains of Siu Moh were discovered by the police in the swamplands of Serangoon in November 1954, three years after he was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 149). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA)</i></div>
-
 On 1 September 1951, Siu was lured to a desolate hut rented from a shrimp catcher. Here, he faced a kangaroo court, with Wong acting as both accuser and judge. During the mock trial, Wong accused Siu of embezzlement, despite the latter’s denials. Wong’s co-accusers at the clandestine gathering included Ah Poh, a lady named Lim Wai Yin (alias Ah Soo) and two other unnamed accomplices. Siu’s protestations were ignored. His accusers bound him hand and foot, gagged him with a cloth, bundled him into a boat and rowed out to a site nearby where he was mercilessly hacked to death. After the deed was done, Wong “swore his followers to secrecy – on pain of death”.[^15]
+
+<img style="width: 330px; height: 440px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron4.JPG">
+<div style="background-color: white;">The skeletal remains of Siu Moh were discovered by the police in the swamplands of Serangoon in November 1954, three years after he was killed. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 149). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA).</i></div>
 
 #### **Capture and Detention**
 
@@ -74,6 +70,10 @@ Wong’s name did not show up on the wanted list because the police were blissfu
 
 Wong was taken to Beach Road Police Station where Special Branch officers were waiting to question him and examine the newspaper cuttings. True to his nature, Wong remained silent[^18] when he was interrogated by Special Branch officer, Superintendent John Fairbairn.[^19] A police search of the house located at the address listed in Wong’s identity card unearthed a cache of communist literature and documents, evidence which proved that Wong “had important communist connections and was a leader of some kind”.[^20]
 
+<img style="width: 330px; height: 440px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron2.JPG">
+<div style="background-color: white;">A mug shot profile of Wong Fook Kwang at the time of his first arrest on 11 June 1952. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (n.p.). Singapore: Heinemann Educational Books (Asia) Ltd.
+(Call no.: RSING 335.43095957 CLA).</i></div>
+
 On 27 June 1952, Wong was ordered to be detained under the Emergency Regulations[^21] for two years. Shortly after his arrest, Wong was visited by an elderly Chinese lady who claimed to be his mother.[^22] She said that Wong was her only son, and appealed to the authorities for his release but to no avail. The Special Branch came down hard on anyone deemed to have communist connections.
 
 The day after his arrest, Wong appeared ill and a doctor confirmed that he was suffering from advanced tuberculosis and had to be moved to the prison ward at the Singapore General Hospital (SGH) for observation and treatment. When doctors assessed that Wong had recovered sufficiently, he was transferred back to Changi Prison on 16 October 1952 and placed in solitary confinement. Twelve weeks later, on 15 January 1953, Wong suffered a relapse and was sent back to the prison ward for treatment. His condition had deteriorated to the point that it was presumed his end was near. But somehow he survived.
@@ -89,7 +89,7 @@ On 4 March 1953, between 2 and 4 pm, the elderly woman again visited Wong at the
 
 A severe thunderstorm raged that night. At 9.30 pm, the nurse on duty visited the 12 patients in the prison ward and noticed that Wong was in bed but awake. Shortly after, the duty police corporal switched off the lights and the nurse’s assistant went round the ward to place the last dose of medication for the day on the patients’ bedside tables. When the assistant reached Wong’s empty bed, he assumed that Wong had gone to the bathroom, so he put the medicine on the table and moved on.
 
-Unbeknownst to him, Wong had made a run for it earlier, barefooted and in his hospital pyjamas. How he had pulled off this brazen prison break “without being seen by the three constables who guarded the ward” is a mystery to this day. The 1.7-metre-tall fugitive managed to escape with the help of a man named Ah Hong, who had sawn through the wire netting that covered most of the window of his cell as well as the inch-thick iron bars, bending it outwards in the process. “While the sawing was going on, Wong hid quietly in the verandah. He had managed to slip out of his bed unnoticed”.[^24]
+Unbeknownst to him, Wong had made a run for it earlier, barefooted and in his hospital pyjamas. How he had pulled off this brazen prison break “without being seen by the three constables who guarded the ward” is a mystery to this day. The 1.7-metre-tall fugitive managed to escape with the help of a man named Ah Hong, who had sawn through the wire netting that covered most of the window of his cell as well as the inch-thick iron bars, bending it outwards in the process. “While the sawing was going on, Wong hid quietly in the verandah. He had managed to slip out of his bed unnoticed.”[^24]
 
 The alarm was raised at 9.40 pm when a sentry doing his rounds discovered the sawn iron bar. Special Branch was immediately alerted and road blocks set up islandwide to recapture Wong. A bounty of $2,000 was offered for information leading to his recapture. Sometime close to midnight, the hacksaw used to commit the mischief was discovered nearby. The four guards were suspended for being negligent in their duty and subsequently sacked.
 
@@ -112,7 +112,7 @@ Shortly after midnight on 9 July 1954, a police convoy travelled along Jurong Ro
 
 <img style="width: 580px; height: 350px;" src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron8.JPG">
 <div style="background-color: white;">The attap-roofed shack in Pasir Laba, Jurong, where Wong Fook Kwang was hiding out while on the run until his recapture on 9 July 1954. <i>Image reproduced from Clague, P. (1980). Iron Spearhead: The True Story of a Communist Killer Squad in Singapore (p. 135). Singapore: Heinemann Educational Books (Asia) Ltd.
-(Call no.: RSING 335.43095957 CLA)</i></div>
+(Call no.: RSING 335.43095957 CLA).</i></div>
 
 A thorough search was made of the surroundings to flush out the fugitive. This time Wong did not get very far: he was found lying face down in the *lallang*, hoping that the tall grass would shield him, when a policeman nearly stepped on him. Wong did not put up a struggle, and was handcuffed and brought before Fairbairn. In Wong’s makeshift dwelling, the police found the drugs he had been using to treat his tuberculosis as well as banned communist publications. He had apparently made a full recovery by the time he was caught.
 
@@ -129,20 +129,20 @@ In China, Wong married another woman. Although the union resulted in the birth o
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron12.jpg" style="width: 100px; height: 100px;">
-<b>Ronnie Tan</b> is a Senior Manager (Research) with the National Library, Singapore, where he conducts a research on public policy as well as historical, regional and library-related issues. His other research interests include Malayan history, especially the Malayan Emergency (1948-60), and military history.
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/ron.jpg" style="width: 100px; height: 100px;">
+<b>Ronnie Tan</b> is a Senior Manager (Research) with the National Library, Singapore, where he conducts research on public policy as well as historical, regional and library-related issues. His other research interests include Malayan history, especially the Malayan Emergency (1948-60), and military history.
 </div>
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron11.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/GYM.JPG" style="width: 100px; height: 100px;">
 <b>Goh Yu Mei</b> is a Librarian with the National Library, Singapore, where she manages the Chinese arts and literature collection. She is interested in the relationship between society and literature.
 </div><br>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
 
 #### **Notes**
-[^1]:Wong’s last name is spelled “Kwang” in Peter Claque’s book and The Straits Times, while it is spelled “Kwong” in the Singapore Standard. Wong was also known by aliases such as Tit Fung (also spelled as “Thit Fong”) and Ng Hock Kwan. Although Tit Fung is Cantonese, which was Wong’s spoken dialect, his actual dialect group is Foochow. It is not known when Iron Spearhead was added to his string of aliases.
+[^1]:Wong’s last name is spelled “Kwang” in Peter Claque’s book and *The Straits Times*, while it is spelled “Kwong” in the *Singapore Standard*. Wong was also known by aliases such as Tit Fung (also spelled as “Thit Fong”) and Ng Hock Kwan. Although Tit Fung is Cantonese, which was Wong’s spoken dialect, his actual dialect group is Foochow. It is not known when Iron Spearhead was added to his string of aliases.
 [^2]:Singh, B. (2015). [*Quest for political power: Communist subversion and militancy in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018823) (p. xxv). Singapore: Marshall Cavendish International. (Call no.: RSING 335.4095957 SIN) 
 [^3]:Toh, W.C., & Clague, P. (1980, August 2). [*Story that’s woven around a pistol and a Red*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800802-1.2.129.15.2). *The Straits Times*, p. 6. Retrieved from NewspaperSG. 
 [^4]:Clague, P. (1980). [*Iron Spearhead: The true story of a communist killer squad in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295) (p. 3). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA) 
@@ -160,9 +160,9 @@ In China, Wong married another woman. Although the union resulted in the birth o
 [^16]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 49. 
 [^17]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 52. 
 [^18]:Throughout his time under police custody, Wong pretended to cooperate with the police but Special Branch officers knew that he was lying. The only crime he admitted to was his unsuccessful attempt to burn down a bus. Wong was eventually charged with the possession of communist publications. 
-[^19]:This is the same John Fairbairn who conducted a joint operation with his Malayan counterparts to arrest Ah Shu, a communist courier, in Singapore in 1952, and uncovered a trail that eventually resulted in the arrest of Lee Meng, the head courier of the MCP. For more information, see Tan, R. (2018, April–June). [Hunting down the Malayan Mata Hari](http://www.nlb.gov.sg/biblioasia/2018/04/09/hunting-down-the-malayan-mata-hari/#sthash.5XI5Iux2.dpbs). *BiblioAsia*, 14(1), 24–29. Retrieved from BiblioAsia website. 
+[^19]:This is the same John Fairbairn who conducted a joint operation with his Malayan counterparts to arrest Ah Shu, a communist courier, in Singapore in 1952, and uncovered a trail that eventually resulted in the arrest of Lee Meng, the head courier of the MCP. For more information, see Tan, R. (2018, April–June). [Hunting down the Malayan Mata Hari](https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/). *BiblioAsia, 14*(1), 24–29. Retrieved from BiblioAsia website. 
 [^20]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, pp. 52.
-[^21]:For more information on the Emergency Regulations, see Renick, R. (1965, September). The Emergency regulations of Malaya causes and effect. *Journal of Southeast Asian History, 6*(2), 1–39. Retrieved from JSTOR via NLB’s eResources website. 
+[^21]:For more information on the Emergency Regulations, see Renick, R. (1965, September). The Emergency regulations of Malaya causes and effect. *Journal of Southeast Asian History, 6*(2), 1–39. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website. 
 [^22]:After the elderly lady was arrested shortly after Wong’s escape, it was revealed that she was a communist agent. However, in an article published in 2005, Wong confirmed that the elderly woman was indeed his mother. See 彭国强, 2005, pp. 115–116. 
 [^23]:彭国强, 2005, p. 115.
 [^24]:[Police arrest mother after red thug leader escapes](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530306-1.2.9). (1953, March 6). *The Straits Times*, p. 1; [Daring escape of red arson expert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19530306-1.2.2). (1953, March 8). *Singapore Standard*, p. 1. Retrieved from NewspaperSG. 

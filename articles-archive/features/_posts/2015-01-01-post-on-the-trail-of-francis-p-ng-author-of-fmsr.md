@@ -165,7 +165,7 @@ Teo Poh Leng listed as missing in <i>The Register of Graduates</i> (1968) belong
 
 <p style="font-size:15px;"><b>Dr Eriko Ogihara-Schuck</b>, originally from Japan, is a lecturer in American Studies at the Technische Universität Dortmund, Germany. She is the author of <i>Miyazaki s Animism Abroad: The Reception of Japanese Religious Themes by American and German Audiences</i> (2014). Motivated by her research on Francis P. Ng, she is launching a larger project on Singapore-US relations in the area of literature and popular culture.</p>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 

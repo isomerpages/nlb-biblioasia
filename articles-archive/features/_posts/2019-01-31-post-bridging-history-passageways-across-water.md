@@ -96,13 +96,15 @@ Read Bridge was built to link Clarke Quay and Hong Lim Quay, and the one standin
 
 The first Read Bridge was an iron girder bridge, with two 77-ft (23 m) spans and a concrete pier in the middle to support the structure. Construction of the bridge began in 1887, and its first cylinder was laid by William Henry Macleod Read, the Scottish merchant and public figure after whom the bridge was named. Although the bridge served the mercantile community well, it turned out to be too low for heavily laden twakow (lighter boats) to pass under during high tide, and had to be replaced eventually.
 
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging8.JPG">
-<div style="background-color: white;">(Left) The first Read Bridge was completed in 1889. It had two spans supported by a concrete pier in the middle, as seen in this 1904 photograph. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i><br>
-(Right) The second and current Read Bridge, 2016. It replaced the first Read Bridge in 1931, which in turn had replaced Merchant Bridge, or Tan Tock Seng Bridge, in 1889. Read Bridge is named after the Scottish merchant and public figure, William Henry Macleod Read. <i>Courtesy of National Heritage Board.</i></div>
+<img style="width: 550px; height: 320px;" src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/a.JPG">
+<div style="background-color: white;">The first Read Bridge was completed in 1889. It had two spans supported by a concrete pier in the middle, as seen in this 1904 photograph. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Completed in 1931, the second Read Bridge was a steel box girder bridge designed by Municipal Engineer K.G.M. Fraser. It was a utilitarian structure simply adorned with only four ornamental street lamps.[^11] The initial design, however, by Municipal Bridge Engineer T.C. Hood, was envisaged as a tied-arch structure with a towering 120-ft-high (36.5 m) arch similar to that of the current Elgin Bridge. But due to insufficient funds, this design was abandoned.
 
 The steelwork of the second Read Bridge was manufactured by the British firm Motherwell Bridge and Engineering, but as the material became exposed to the harsh tropical climate, it began to corrode not long after its completion. By the end of the decade, the bridge was reported to have suffered “exceptionally heavy corrosion, despite being designed with particular care”.[^12] In 1991, the bridge underwent major repairs as part of the Singapore River clean-up and was converted into a pedestrian bridge.
+
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/b.JPG">
+<div style="background-color: white;">The second and current Read Bridge, 2016. It replaced the first Read Bridge in 1931, which in turn had replaced Merchant Bridge, or Tan Tock Seng Bridge, in 1889. Read Bridge is named after the Scottish merchant and public figure, William Henry Macleod Read. <i>Courtesy of National Heritage Board.</i></div>
 
 In the early days, Read Bridge was variously known as Malacca Bridge as it was located close to Kampong Melaka, and also Green Bridge due to the colour of its original paintwork. At the time, the area around the bridge was also a hub for the Teochew community, with Teochew labourers gathering on the bridge after work in the evenings to listen to traditional storytellers. In 2008, the bridge was conserved by the URA.
 
@@ -151,8 +153,8 @@ The new bridge was completed in 1955 and, at 85 ft (26 m) long and 66 ft (20 m) 
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging12.jpg" style="width: 100px; height: 100px;">
-<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to BiblioAsia.
+<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/LTS.JPG" style="width: 100px; height: 100px;">
+<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to <i>BiblioAsia</i>.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
