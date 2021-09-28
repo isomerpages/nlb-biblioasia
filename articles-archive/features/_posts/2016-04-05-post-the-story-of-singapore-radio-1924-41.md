@@ -111,13 +111,13 @@ Radio broadcasting in Singapore has come a long way – from its shaky start in 
 
 #### **NOTES**
 
-[^1]:Keller, F. (1931, September). Work of the pioneers in Malaya. Omba Pende, p. 2.
+[^1]:Keller, F. (1931, September). Work of the pioneers in Malaya. *Omba Pende*, p. 2.
 
-[^2]:‘Bancam. (1931, August). Work of the pioneers in Malaya. I – History of the A.W.S.M. Omba Pende, pp. 16–17; McDaniel, D.O. (1994). Broadcasting in the Malay world: Radio, television, and video in Brunei, Indonesia, Malaysia, and Singapore (p. 24). Norwood, N.J: Ablex Publishing. (Call no.: RSING 302.2340959 MAC)
+[^2]:‘Bancam. (1931, August). Work of the pioneers in Malaya. I – History of the A.W.S.M. Omba Pende, pp. 16–17; McDaniel, D.O. (1994). B[roadcasting in the Malay world: Radio, television, and video in Brunei, Indonesia, Malaysia, and Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) (p. 24). Norwood, N.J: Ablex Publishing. (Call no.: RSING 302.2340959 MAC)
 
-[^3]:Omba Pende, Aug 1931, pp. 16–17.
+[^3]:*Omba Pende*, Aug 1931, pp. 16–17.
 
-[^4]:Radiofan. (1930, October 24). Radio in Malaya; Join the Singapore Society. The Malaya Tribune, p. 10; Radiofan. (1930, November 7). Radio in Malaya: First meeting of Society. The Malaya Tribune, p. 10; Radiofan. (1930, November 10). [Radio society revived](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301110-1.2.45). The Malaya Tribune, p. 9. Retrieved from NewspaperSG.
+[^4]:Radiofan. (1930, October 24). [Radio in Malaya; Join the Singapore Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301024-1.2.84). *The Malaya Tribune*, p. 10; Radiofan. (1930, November 7). [Radio in Malaya: First meeting of Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301107-1.2.96). *The Malaya Tribune*, p. 10; Radiofan. (1930, November 10). [Radio society revived](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301110-1.2.45). *The Malaya Tribune*, p. 9. Retrieved from NewspaperSG.
 
 [^5]:Five dollars for nothing. (1931, July). *Omba Pende*, p. 1.
 
