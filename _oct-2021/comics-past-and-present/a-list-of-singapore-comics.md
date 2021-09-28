@@ -6,11 +6,12 @@ third_nav_title: Comics Past And Present
 **If you've read "Singapore Comics - Panels Past and Present" and you want to look up the titles referenced, this page lists the comic books mentioned.**
 
 ![Alt text for image on Isomer site](/images/captainv.jpg)
+
 Captain V Productions. *[The Amazing Adventures of Captain V](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200099391)*. Singapore: Captain V Productions, 1988. 
 
 Chiang, Joseph. *[Chronicles of a Circuit Breaker.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205369096)* Singapore: Epigram Books, 2021. (Call no. RSING 741.595957 CHI)
 
-Chua, Dave and Koh Hong Teng. [*Gone Case Book 1: A Graphic Novel.* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13763246) Joyce Sim, ed. Singapore: n.p., 2010. (Call no. RSING 741.59597 CHU)
+Chua, Dave and Koh Hong Teng. [*Gone Case Book 1: A Graphic Novel.*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13763246) Joyce Sim, ed. Singapore: n.p., 2010. (Call no. RSING 741.59597 CHU)
 
 Chua, Dave and Koh Hong Teng. [*Gone Case Book 2: A Graphic Novel.*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14247318) Joyce Sim, ed.  (Singapore: n.p., 2010). (Call no. RSING 741.59597 CHU)
 
@@ -18,7 +19,7 @@ Chua, Dave and Max Loh. *[We’ll Eat When We’re Done.](http://eservice.nlb.go
 
 Chua, Morgan. *[L.K.Y. Political Cartoons.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200569051)* Singapore: Epigram Books, 2014. (Call no.  RSING 959.5704092 CHU)
 
-Deng, Eldred, ed. [*漫画同盟*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10333975) [2001] [Comics Alliance 2001]. Singapore: Asiapac Books, 2001. (Call no. Chinese RSING 741.595957 COM)  
+Deng, Eldred, ed. *[漫画同盟](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10333975) [2001]* [Comics Alliance 2001]. Singapore: Asiapac Books, 2001. (Call no. Chinese RSING 741.595957 COM)  
 
 ![Alt text for image on Isomer site](/images/sacred-guardians.jpg)
 Djoeharie, Adyeel and Alan Bay. *[Sacred Guardians](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204402565).* Viency Lee, ed. Singapore: Asiapac Books, 2020. (Call no. RSING 741.595957 DJO)
