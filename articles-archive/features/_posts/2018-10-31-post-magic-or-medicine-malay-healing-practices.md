@@ -205,30 +205,17 @@ Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life 
 [^8]:Winzeler, R.L. (1983). The study of Malay magic. *Bijdragen Tot De Taal-, Land- En Volkenkunde, 139*(4), 435–458, p. 436. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 [^9]:[Malay “doctors”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18960922-1.2.23). (1896, September 22). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
 [^10]:Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3966641) (pp. 424–425). London: Macmillan and Co., Limited. (Call no.: RCLOS 398.4 SKE-[GH])
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^20]:
-[^21]:
-[^22]:
-Winzeler, 1983, p. 447.
-Thomas N. Annandale was a Scottish zoologist, entomologist, anthropologist and herpetologist, who became interested in Malay animism, related magical lore and curers. 
-From pineapples (Ananassa sativa) and keladi (Alocasia denudata) to cheraka (Plumbaginasea), the poisons Gimlette examined have been described to contain active ingredients useful in the study of modern medicine.
-Gerrard, P.N. (1905). A vocabulary of Malay medical terms. Singapore: Kelly & Walsh. (Microfilm no.: NL27512)
-Anthropologist Thomas Fraser notes that in village processions led by the pawang who is healing a physically ill or possessed patient, the imam (Islamic worship leader) is also involved to officiate the ritual from a religious perspective. This prevents any possible conflict with Islamic beliefs that may border on shirk (idolatory or Polytheism).
-Why fewer babies are now dying in Singapore. (1935, July 21). The Straits Times, p. 13. Retrieved from NewspaperSG.
-In the Malay villages, traditional healers were involved in sanctifying the village via ceremonies and rituals, and were also involved in the affairs of the state. Known as the Maharaja Lela in Selangor or Sultan Muda in Perak, a bomoh enjoyed unfettered entry into the palace compounds.
-Owen, N.G. (Ed.). (1987). Death and disease in Southeast Asia: Explorations in social, medical and demographic history (p. 258). Singapore: Oxford University Press. (Call no.: RSING 301.3220959 DEA)
-Singapore. The Statutes of the Republic of Singapore. (1987, March 30). Sale of Drugs Act (Cap 282, 1985 Rev. ed.). Retrieved from Singapore Statutes Online website.
-
-
-
-
+[^11]:Winzeler, 1983, p. 447.
+[^12]:Thomas N. Annandale was a Scottish zoologist, entomologist, anthropologist and herpetologist, who became interested in Malay animism, related magical lore and curers. 
+[^13]:From pineapples (*Ananassa sativa*) and *keladi* (*Alocasia denudata*) to cheraka (Plumbaginasea), the poisons Gimlette examined have been described to contain active ingredients useful in the study of modern medicine.
+[^14]:Gerrard, P.N. (1905). *A vocabulary of Malay medical terms*. Singapore: Kelly & Walsh. (Microfilm no.: NL27512)
+[^15]:Anthropologist Thomas Fraser notes that in village processions led by the *pawang* who is healing a physically ill or possessed patient, the *imam* (Islamic worship leader) is also involved to officiate the ritual from a religious perspective. This prevents any possible conflict with Islamic beliefs that may border on *shirk* (idolatory or Polytheism).
+[^16]:[Why fewer babies are now dying in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350721-1.2.68). (1935, July 21). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+[^17]:In the Malay villages, traditional healers were involved in sanctifying the village via ceremonies and rituals, and were also involved in the affairs of the state. Known as the *Maharaja Lela* in Selangor or *Sultan Muda* in Perak, a *bomoh* enjoyed unfettered entry into the palace compounds.
+[^18]:Owen, N.G. (Ed.). (1987). [*Death and disease in Southeast Asia: Explorations in social, medical and demographic history*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4523171) (p. 258). Singapore: Oxford University Press. (Call no.: RSING 301.3220959 DEA)
+[^19]:Singapore. The Statutes of the Republic of Singapore. (1987, March 30). *Sale of Drugs Act* (Cap 282, 1985 Rev. ed.). Retrieved from Singapore Statutes Online website.
+[^20]:Singapore. The Statutes of the Republic of Singapore. (1999, December 30). *Poisons Act* (Cap 234, 1999 Rev. ed.). Retrieved from Singapore Statutes Online website.
+[^21]:Newbold, T.J. (2015). [*Political and statistical account of the British settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore, with a history of the Malayan states on the peninsula of Malacca vol, 2 of 2*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202784871) (p. 242). London: Forgotten Books. (Call no.: RSING 959.5 NEW)
+[^22]: Squeamishness, heartburn and fevers arise when the “fire” element is too strong. The “water” element causes damp chills and vomiting.
 
 
