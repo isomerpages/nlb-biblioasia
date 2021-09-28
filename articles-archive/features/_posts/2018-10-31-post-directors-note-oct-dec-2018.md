@@ -33,6 +33,6 @@ On the subject of Legal Deposit, I should take this opportunity to highlight the
 We hope you enjoy reading this edition of *BiblioAsia*.
 
 <br>
-<b>Mrs Wai Yin</b><br>Pryke<br>Director<br>National Library
+<b>Mrs Wai Yin Pryke </b><br>Director<br>National Library
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
