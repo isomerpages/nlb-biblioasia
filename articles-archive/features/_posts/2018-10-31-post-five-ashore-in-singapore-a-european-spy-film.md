@@ -168,7 +168,7 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 [^11]:Bernard Toublanc-Michel also thought of offering the role of Art Smith to Joe Dassin, son of Hollywood director Jules Dassin and a French woman. Like Sean Flynn, Joe Dassin was Franco-American and fluent in both English and French. In the end, Toublanc-Michel decided to cast Sean Flynn as he had experience working and living in Southeast Asia, and a better understanding of the geopolitical context of the plot. Interview with the author, 1 June 2018.
 [^12]:Bernard Toublanc-Michel’s interview with the author, 1 June 2018.
 [^13]:French press kit of *Cinq gars pour Singapour*, 1967, p. 14.
-[^14]:Slater, Srp 2012, p. 55
+[^14]:Slater, Sep 2012, p. 55
 [^15]:Bernard Toublanc-Michel recalls having thought of Raoul Coutard, the most famous of all New Wave cinematographers, whom he had previously worked with, to shoot *Five Ashore in Singapore*, but this did not happen as Coutard was already hired for another film. Interview with the author, 1 June 2018.
 [^16]:Interview with the author, 1 June 2018.
 [^17]:Lombard, P. (2011). *Sean Flynn: L’instinct de l’aventure* (pp. 86–87). Paris: Editions du Rocher. (Not available in NLB holdings)
