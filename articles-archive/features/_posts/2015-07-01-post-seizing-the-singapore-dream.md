@@ -46,7 +46,7 @@ The second pillar is demographic. Being the diplomatic heart for half the world'
 
 New York and London are multinational melting  pots  in  addition  to  being  global financial centres. Singapore in fact has an even  higher  percentage  of  foreign-born residents, ranking only behind cities  like Dubai and Toronto. Dubai is already a place with far more international residents than domestic citizens, that is, people who have voluntarily moved there and planted roots.
 
-Singapore is undeniably Asia's premier destination for a high quality of life. It also seems certain that it will reach a population of about  eigh  million people in a generation, at least half of whom will be  non-Singaporean. Rather than struggle against this trend,  Singapore  should embrace it and build for it.
+Singapore is undeniably Asia's premier destination for a high quality of life. It also seems certain that it will reach a population of about  eight  million people in a generation, at least half of whom will be  non-Singaporean. Rather than struggle against this trend,  Singapore  should embrace it and build for it.
 
 Indeed, this means it could pioneer a model of stakeholdership beyond citizenship that confers obligations on all residents irrespective of their national origin. Then Singapore would truly be a leading global city, a microcosm of global society with a sense of unity despite diversity.
 
@@ -64,6 +64,6 @@ The National Conversation in 2012 was a productive start. But it has brought Sin
 
 <i>This article was first published in The Straits Times on 7 August 2013. © Parag Khanna.</i> Reprinted with permission.
 
-<p style="font-size:15px;"><b>Parag Khanna</b> is director of Hybrid Reality, a senior fellow of the Singapore Institute of International Affairs and an adjunct professor at the Lee Kuan Yew School of Public Policy. He is author of The Second World (2008) and How To Run The World (2011), and co-author of Hybrid Reality (2012).</p>
+<p style="font-size:15px;"><b>Parag Khanna</b> is director of Hybrid Reality, a senior fellow of the Singapore Institute of International Affairs and an adjunct professor at the Lee Kuan Yew School of Public Policy. He is the author of The Second World (2008) and How To Run The World (2011), and co-author of Hybrid Reality (2012).</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
