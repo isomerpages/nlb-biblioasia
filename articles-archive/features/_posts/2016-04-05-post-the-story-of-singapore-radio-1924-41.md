@@ -78,7 +78,7 @@ In 1934, the colonial government finally decided to issue an exclusive broadcast
 
 In addition, as a result of recommendations made by the Telegraphs and Telephone Communications Committee in 1931, the Posts and Telegraphs Department of the Straits Settlements and Federated Malay States, as well as that of the Unfederated Malay States, came under a new Malaya-wide board that was better equipped to deal with the new challenges.[^19]
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-1/story-of-singapore-radio/07_singaporeradio.jpg">(Right) An advertisement publicising the second issue of The Radio Magazine of Malaya in the 19 February 1936 copy of The Straits Times. The magazine was published by the Radio Service Company of Malaya, which operated its retail and service outlet and radio station on Orchard Road. <i>©The Straits Times.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-1/story-of-singapore-radio/07_singaporeradio.jpg">(Right) An advertisement publicising the second issue of The Radio Magazine of Malaya in the 19 February 1936 copy of The Straits Times. The magazine was published by the Radio Service Company of Malaya, which operated its retail and service outlet and radio station on Orchard Road. <i>©The Straits Times.</i></div>
 <div style="background-color: white;">(Left) An advertisement for Philips radio receivers sold by William Jacks & Co. (Malaya) Ltd. This appeared on the front cover of the Malayan Radio Times magazine dated 24 May 1936. The wavy lines and star spangles depicted in the logo of the Philips company, which was founded in Eindhoven (Netherlands) in 1891, are said to represent radio waves.</div>
 
 Whatever the case, on 21 July 1935, the broadcasting licence was awarded to the British Malaya Broadcasting Corporation (BMBC), a Singapore-based company  established by a “small band of wireless enthusiasts”. The cost of running the station came from receiver-set licence fees, which were increased from $5 to $12 each per annum, of which 90 percent was channelled to the BMBC. The government reserved the right to censor all broadcasts.
@@ -91,7 +91,7 @@ However, the BMBC was not a sustainable set-up, and internal and external reason
 
 The outbreak of World War II in Europe and the looming threat of Japanese aggression in Asia introduced a new set of circumstances. The British Ministry of Information set up the Far Eastern Bureau in Singapore to counter enemy propaganda in Asia. Seeing the urgent need to disseminate propaganda information the government’s initial tepid interest in broadcasting took an about-turn, and for the first time, substantial resources and planning were devoted to enhancing the broadcasting service in Malaya.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-1/story-of-singapore-radio/08_singaporeradio.bmp">A cartoon lampooning His Master’s Voice (HMV) gramaphone label to express the Malayan public’s frustration at having to wait for the government to start its local and Empire-wide broadcasting. <i>All rights reserved, Omba Pende, September 1931, p. 17.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-1/story-of-singapore-radio/08_singaporeradio.bmp">A cartoon lampooning His Master’s Voice (HMV) gramaphone label to express the Malayan public’s frustration at having to wait for the government to start its local and Empire-wide broadcasting. <i>All rights reserved, Omba Pende, September 1931, p. 17.</i></div>
 
 In March 1940, the Straits government acquired the BMBC and reorganised it as the Malayan Broadcasting Corporation (MBC). The government appointed Eric Davis, a British educational broadcaster, as Director-General of Broadcasting, Straits Settlements, and Chairman of the MBC, with plans for the MBC to be the most impressive station outside of Europe.[^23] However, these grand plans were forestalled by the Japanese invasion of Singapore in February 1942. Nonetheless, by this time, the MBC had achieved considerable progress: broadcasting was taking place on four simultaneous shortwave and mediumwave transmissions in 13 languages, including Malay, Hindustani, French, Arabic and Dutch; new equipment had been acquired; and 290 staff, mostly Asians, had been recruited and trained locally.[^24] The last move was a strategic one as these staff went on to form the backbone of broadcasting in the post-war years.
 
@@ -113,7 +113,7 @@ Radio broadcasting in Singapore has come a long way – from its shaky start in 
 
 [^1]:Keller, F. (1931, September). Work of the pioneers in Malaya. *Omba Pende*, p. 2.
 
-[^2]:‘Bancam. (1931, August). Work of the pioneers in Malaya. I – History of the A.W.S.M. Omba Pende, pp. 16–17; McDaniel, D.O. (1994). B[roadcasting in the Malay world: Radio, television, and video in Brunei, Indonesia, Malaysia, and Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) (p. 24). Norwood, N.J: Ablex Publishing. (Call no.: RSING 302.2340959 MAC)
+[^2]:‘Bancam. (1931, August). Work of the pioneers in Malaya. I – History of the A.W.S.M. *Omba Pende*, pp. 16–17; McDaniel, D.O. (1994). B[roadcasting in the Malay world: Radio, television, and video in Brunei, Indonesia, Malaysia, and Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) (p. 24). Norwood, N.J: Ablex Publishing. (Call no.: RSING 302.2340959 MAC)
 
 [^3]:*Omba Pende*, Aug 1931, pp. 16–17.
 
@@ -129,7 +129,7 @@ Radio broadcasting in Singapore has come a long way – from its shaky start in 
 
 [^9]:Ng, P.T.P. (1996). *[History of radio broadcasting in Singapore: Its formative years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202693115)*. Singapore: National University of Singapore. (Call no.: RSING 791.44013095957 NG)
 
-[^10]:What’s on the ether? (1931, July). Omba Pende, p. 16; Singapore’s experimental station. (1932, June 20). *Malayan Radio Review*, pp. 3–4; Z.H.I. Singapore calling. (1936, February 1). *[The radio magazine of Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6325216)*, pp. 9–11.
+[^10]:What’s on the ether? (1931, July). *Omba Pende*, p. 16; Singapore’s experimental station. (1932, June 20). *Malayan Radio Review*, pp. 3–4; Z.H.I. Singapore calling. (1936, February 1). *[The radio magazine of Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6325216)*, pp. 9–11.
 
 [^11]:[McDaniel](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6904277), 1994, pp. 28–30.
 
