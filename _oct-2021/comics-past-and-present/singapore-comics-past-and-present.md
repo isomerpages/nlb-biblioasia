@@ -77,7 +77,7 @@ In the same year, Central Public Library played host to Speech Bubble, a month-l
 
 NLB is also a venue sponsor of the Singapore Original Comics Festival, a month-long annual comic-based event that focuses on creating original content by Singaporeans. Organised by the Comics Society (Singapore) since 2015, the festival hopes to uncover new local talents and present new comic works. In 2019, a comics exhibition, a book launch and a panel discussion were held at Jurong Regional Library.[^31]
 
-Gwee Li Sui’s “How to Fall in Love with Classics”, a popular series of lectures on literary classics organised by NLB, focused on graphic novels in the 6th instalment in April 2020. One of the graphic novels discussed was The Art of Charlie Chan Hock Chye (the recorded lecture is available online).[^32]
+Gwee Li Sui’s “How to Fall in Love with Classics”, a popular series of lectures on literary classics organised by NLB, focused on graphic novels in the 6th instalment in April 2020. One of the graphic novels discussed was *The Art of Charlie Chan Hock Chye* (the recorded lecture is available online).[^32]
 
 With all these ongoing efforts and initiatives by comic groups and societies in Singapore as well as various government grants, the comics scene is set to take off, or as Superman might say, to go “up, up and away”.
 
