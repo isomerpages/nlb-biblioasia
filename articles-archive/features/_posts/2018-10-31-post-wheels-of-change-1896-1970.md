@@ -53,7 +53,7 @@ Up until the 1920s, car advertisements in the United States and Europe tended to
 
 It was a similar scenario in Singapore. Distributors and agents highlighted both the reliability and affordability of their vehicles by touting the technology behind the cars and their attractive prices. There were also attempts at associating prestige with the advertised cars, but this was meant to build brand reputation and reflected the manufacturers’ ambitions rather than consumers’ desire for high-end luxury vehicles.
 
-###### Ford in Singapore
+##### **Ford in Singapore**
 
 In 1909, just a year after Henry Ford’s iconic Model T was introduced in America and took the world by storm, Ford cars entered the Singapore market.[^21] Initially imported by Gadelius & Company, Ford’s presence grew in Singapore when the Ford Motor Company of Malaya was established in 1926 to supervise the supply and distribution of its products in Malaya, the Dutch East Indies, Siam and Borneo.[^22] It initially carried out car assembly work in a garage on Enggor Street before expanding to larger premises on nearby Prince Edward Road in 1930. In 1941, the company moved to a newly built factory in Bukit Timah.[^23]
 
@@ -65,7 +65,7 @@ Throughout this time, as well as in the decade following the end of World War II
 <img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheelsx.JPG">
 <div style="background-color: white;">Ford’s Consul Cortina was marketed as a woman’s “dream car”. The target customer as depicted in the advertisement here is a young, modern woman, suggesting the rising status of Singapore women in the 1960s. <i>Image reproduced from The Straits Times Annual, 1964, p. xxvii.</i></div>
 
-###### Japanese Marques
+##### **Japanese Marques**
 
 From the late 1950s, Japanese-made cars became available in Singapore. By 1970, one in two cars purchased in Singapore was a Japanese model.[^24] The main reason for their popularity? Value for money.
 
