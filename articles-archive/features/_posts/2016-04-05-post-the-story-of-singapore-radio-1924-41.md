@@ -147,13 +147,13 @@ Radio broadcasting in Singapore has come a long way – from its shaky start in 
 
 [^18]:Ng, 1996, p. 9.
 
-[^19]:Problems of communications. (1931, September 1). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^19]:[Problems of communications](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19310901-1.2.97). (1931, September 1). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-[^20]:Abisheganaden, 2005, p. 79.
+[^20]:[Abisheganaden](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654614), 2005, p. 79.
 
-[^21]:McDaniel, 1994, pp. 35–38.
+[^21]:[McDaniel](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6904277), 1994, pp. 35–38.
 
-[^22]:McDaniel, 1994, pp. 44–45; Broadcasting station in Singapore. (1935, April 12). *The Straits Times*, p. 11; [B.M.B.C. finances cause “grave concern”](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370831-1.2.75). (1937, August 31). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 9. Retrieved from NewspaperSG.
+[^22]:[McDaniel](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6904277), 1994, pp. 44–45; [Broadcasting station in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350412-1.2.57). (1935, April 12). *The Straits Times*, p. 11; [B.M.B.C. finances cause “grave concern”](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370831-1.2.75). (1937, August 31). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 9. Retrieved from NewspaperSG.
 
 [^23]:[McDaniel](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6904277), 1994, p. 45.
 
