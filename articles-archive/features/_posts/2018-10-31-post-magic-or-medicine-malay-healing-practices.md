@@ -112,7 +112,7 @@ State controls and the exposure to Western education further put paid to the ser
 |One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.<br>
 
 | &nbsp; &nbsp; | For Violent Headaches and Loss of Energy | For Dizziness and Vertigo	| For Night Chills |
-| -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- |
 | Ingredients | Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br>*Smilax china*<br>Mace (35 cents) <br> Nutmeg (5 cents) <br> Henbane <br>Javanese ginger| 5 young shoots of betel vine <br>Red onion <br>Fennel seeds | *Daun medan* (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut |
 | -------- | -------- | -------- | -------- |
 | Method | Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete. | Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days. | Reduce both ingredients to fine pulp. Apply to patient’s head. |
