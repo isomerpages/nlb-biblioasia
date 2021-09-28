@@ -88,7 +88,7 @@ Tan, James. *[Final Resting Place](http://eservice.nlb.gov.sg/item_holding_s.asp
 ![Alt text for image on Isomer site](/images/our-months-together-new.jpg)
 Wee Tian Beng, Liu Jia Hui and Yeo Hui San, eds. *[Our Months Together: A Comics Anthology by 12 Artists](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201344693)*. Singapore: TCZ Studio, 2015. (Call no. RSING 741.595957 OUR)
 
-Wild, Ronald. *[蟒蛇党. The Python Gang. Kumpulan Ular Sawa](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200077221)* . Singapore: n.p., n.d. (From PublicationSG)
+Wild, Ronald. *[蟒蛇党. The Python Gang. Kumpulan Ular Sawa.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200077221)*  Singapore: n.p., n.d. (From PublicationSG)
 
 Wong, Roger. *[The Valiant Pluto-man of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085679)*. Singapore: Fantasy Comics, 1983. (From PublicationSG)
 
