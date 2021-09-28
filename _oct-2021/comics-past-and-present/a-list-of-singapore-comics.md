@@ -63,18 +63,18 @@ Liew, Sonny and Lim Cheng Tju, eds. *[Liquid City Volume Two](http://eservice.nl
 
 Liew, Sonny, ed. *[Liquid City Volume One](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13233324).* Berkeley, California: Image Comics, 2008. (Call no. RSING 741.59 LIQ)
 
-Liew, Sonny. *The Art of Charlie Chan Hock Chye*. Singapore: Epigram Books, 2020. (Call no. RSING 741.595957 LIE)
+Liew, Sonny. *[The Art of Charlie Chan Hock Chye](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204463637)*. Singapore: Epigram Books, 2020. (Call no. RSING 741.595957 LIE)
 
-Low, Travis and Li Shaoyang. *The Secret of Redhill.* Singapore: Funics, 2015. (Call no. JRSING 741.595957 LOW)
+Low, Travis and Li Shaoyang. *[The Secret of Redhill.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202249669)* Singapore: Funics, 2015. (Call no. JRSING 741.595957 LOW)
 
 ![Alt text for image on Isomer site](/images/the-lky-story.jpg)
 Nabeta, Yoshio and Yoshihide Fujiwara. *The LKY Story: Lee Kuan Yew, the Man Who Shaped a Nation.* Singapore: Shogakukan Asia, 2016. (Call no. RSING 959.5705092 NAB)
 
-Nabeta, Yoshio, Toshiki Takii and Hanna Francis. *The Story of LKY: Lee Kuan Yew: Growing Up*. Jakarta: Elex Media Komputindo, 2018. (Call no. Malay 959.57092 NAB)
+Nabeta, Yoshio, Toshiki Takii and Hanna Francis. *[The Story of LKY: Lee Kuan Yew: Growing Up](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200569051)*. Jakarta: Elex Media Komputindo, 2018. (Call no. Malay 959.57092 NAB)
 
-Nora Abdullah. *Bawang Puteh Bawang Merah*. Singapore: Geliga, 1957. (From PublicationSG)
+Nora Abdullah. *[Bawang Puteh Bawang Merah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200082631)*. Singapore: Geliga, 1957. (From PublicationSG)
 
-Singapore Anti-narcotics Association. *What If They Call Me Chicken?* Singapore: Singapore Anti-narcotics Association, 1979. (From PublicationSG)
+Singapore Anti-narcotics Association. *[What If They Call Me Chicken?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=900094913)* Singapore: Singapore Anti-narcotics Association, 1979. (From PublicationSG)
 
 Tan, Budjette and Charis Loke. *Sound: A Comics Anthology*. Singapore: Difference Engine, 2020. (Call no. RSING 741.5959 SOU-[CMX])
 
