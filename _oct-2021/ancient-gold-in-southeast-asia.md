@@ -17,6 +17,10 @@ Singapore has not been spared from the ravages of treasure hunters either. In 19
 
 It was in 4th century BCE that Southeast Asia began to be associated with names such as “Land of Gold” (<i>Suvaṇṇabhūmi</i>), “Wall of Gold” (<i>Suvarṇakudya</i>), “Islands of Gold” (<i>Suvarṇadvīpa</i>) and “Golden Peninsula” (<i>Khersonese</i>).[^8]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Copper%20Map.jpg)
+<div style="background-color: white;">The oldest item in the National Library’s Rare Materials Collection is this 1478 copper-engraved map titled <i>Vndecima Asiae Tabvla (Ptolemaic Map of India and Southeast Asia)</i> by Claudius Ptolemy and published by Arnold Buckinck in Rome. Ptolemy’s <i>Geographia</i> (2nd century) refers to Southeast Asia as the “Golden Peninsula” (<i>Khersonese</i>). <i>Collection of the National Library, Singapore (Accession no. B26055962B).</i></div>
+
+
 One theory why the region was associated with gold is that sometime around 300 BCE, there was a disruption in the trade caravans supplying Siberian gold via the Silk Road to South Asia (specifically the Mauryan empire, which at its height, included north and central India, and what is now part of Iran, Pakistan and Afghanistan). Nomadic invaders destroyed several cities in the Margiana and Aria regions (present-day eastern Turkmenistan and western Afghanistan respectively) just before 290 BCE, for example.[^9] This trade route was not restored until Roman Emperor Nero’s reign (r. 54–68 CE). However, when he tried to debase the gold content in Roman coinage to counter inflation, this led to Roman gold coins becoming less accepted for commercial transactions in South Asia where they were used as bullion. 
 
 The supply of gold to South Asia was further hampered by Roman monetary and precious metal controls in 2nd century CE.[^10] Roman Emperor Vespasian (r. 69–79 CE), for example, issued regulations that prohibited the exports of precious metals from the Roman Empire. The scarcity of precious metals such as gold thus might have encouraged South Asians to seek out new sources of gold in Southeast Asia. 
@@ -55,14 +59,16 @@ Generally, there are two ways of obtaining gold from nature: panning and mining.
 
 Historically, gold was produced in Perak, Kelantan, Pahang, Negeri Sembilan, Melaka and Patani on the Malay Peninsula; the Barisan mountain range in West Sumatra; western Borneo; Luzon and Mindanao in the Philippines; Timor; northern Burma; northern and central Vietnam; Laos; as well as the Oddar Meanchey, Preah Vihear and Rattanakiri provinces in Cambodia.[^28]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Copper%20Map.jpg)
-<div style="background-color: white;">The oldest item in the National Library’s Rare Materials Collection is this 1478 copper-engraved map titled <i>Vndecima Asiae Tabvla (Ptolemaic Map of India and Southeast Asia)</i> by Claudius Ptolemy and published by Arnold Buckinck in Rome. Ptolemy’s <i>Geographia</i> (2nd century) refers to Southeast Asia as the “Golden Peninsula” (<i>Khersonese</i>). <i>Collection of the National Library, Singapore (Accession no. B26055962B).</i></div>
-
 #### **Making Gold**
 
 Smithing in Southeast Asia was considered specialist knowledge and associated with mantras, rituals and offerings. A Karo[^29] goldsmith in Sumatra, for example, would mutter certain prayers and present “the blood, heart, liver and lungs of a scaly, red chicken and also some lombok [chili]” as an offering to “wake up” his tools and appease them before beginning his work.[^30]
 
 Temple reliefs depicting smithing activities, such as those of Candi Sukuh in central Java, signified their importance in society, where the metal was sometimes used for Hindu-Buddhist temple consecration deposits.[^31] Smiths were mentioned in Javanese and Balinese inscriptions in the 9th to 10th century CE, and taxed according to the number of bellows they had.[^32]
+
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Candi%20Sukuh.jpg)
+<div style="background-color: white;">A temple relief thought to depict smithing activities in Candi Sukuh, Central Java. Gold was sometimes used in Hindu-Buddhist temple consecrations. <i>Courtesy of Foo Shu Tieng.</i></div>
+
 
 Smithing sites are generally identified through excavations, surveys and interviews with local informants, and by finding tools (furnaces, blowpipes or bellows and tuyères [ceramic or stone tubes] as well as ceramic crucibles) and by-products (slag).[^33]
 
@@ -72,17 +78,16 @@ One theory explaining why gold became so popular in Southeast Asia is that gold 
 
 Gold ornaments were part of early long-distance trade networks and the gold artefacts found at the stone sarcophagus burial site of Pangkung Paruk on Bali (2nd to 4th century CE) seems to support this. The site yielded gold-glass beads typically found at Western Indian Ocean sites as well as gold ornaments which were tested and found to be similar to those discovered at Giong Ca Vo in Vietnam and Khlong Thom in Thailand.[^35]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Mahakala%20statue.jpg)
-<div style="background-color: white;">Replica of the Padang Roco Mahākāla statue with a Kāla belt at Museum Siginjei Jambi, 2013. <i>Courtesy of Foo Shu Tieng.</i></div>
-
 #### **Gold in Singapore**
 
 In Singapore, 10 ancient gold ornaments said to be related to the Majapahit empire[^36] were accidentally discovered in 1928 during excavation works for the construction of a reservoir at Fort Canning. These items may have been deliberately hidden, possibly during a Siamese attack[^37] at the end of the 14th century.[^38] Only four ornaments remained after the Japanese Occupation; the whereabouts of the other six are unknown.[^39] The kāla motif[^40] on one of the ornaments is said to be similar to a belt from a Mahākāla statue[^41] from Padang Roco in Sumatra. Other ornaments with kāla heads have also been discovered in Java.[^42]
 
-Were the gold ornaments found in Singapore part of royal regalia, made by Majapahit artisans? Geologically, Singapore does not have native gold, so the gold would have to be imported.[^43] Further trace element analysis on the artefacts, such as those done for other assemblages from Southeast Asia, may provide clues that point to a more precise point of origin but as gold is often recycled, the results may not be conclusive.[^44]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Candi%20Sukuh.jpg)
-<div style="background-color: white;">A temple relief thought to depict smithing activities in Candi Sukuh, Central Java. Gold was sometimes used in Hindu-Buddhist temple consecrations. <i>Courtesy of Foo Shu Tieng.</i></div>
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ancient-gold/Mahakala%20statue.jpg)
+<div style="background-color: white;">Replica of the Padang Roco Mahākāla statue with a Kāla belt at Museum Siginjei Jambi, 2013. <i>Courtesy of Foo Shu Tieng.</i></div>
+
+
+Were the gold ornaments found in Singapore part of royal regalia, made by Majapahit artisans? Geologically, Singapore does not have native gold, so the gold would have to be imported.[^43] Further trace element analysis on the artefacts, such as those done for other assemblages from Southeast Asia, may provide clues that point to a more precise point of origin but as gold is often recycled, the results may not be conclusive.[^44]
 
 Archaeological excavations in Singapore carried out between 1984 and 2017 have uncovered additional pieces of gold at Fort Canning and other sites in the civic district, consisting of small ornament fragments or gold foil, interpreted as part of secondary deposits.[^45] The 1994–95 excavation of the Parliament House site, for example, yielded a few pieces of gold artefacts: part of a jewellery strap; a sheet fragment with incised decoration; part of a ring; as well as a piece of “irregularly” shaped foil, possibly for rework by a goldsmith.[^46]
 
