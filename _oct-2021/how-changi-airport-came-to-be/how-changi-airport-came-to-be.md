@@ -136,6 +136,7 @@ Speaking in Parliament in October 2020, then Transport Minister Ong Ye Kung said
 
 As vaccination rates rise in Singapore and the country moves towards dealing with Covid-19 as an endemic disease, air traffic through Changi Airport will hopefully increase. With the same foresight, fortitude and perseverance that led to its genesis, the fortunes of Changi will undoubtedly rise again.
 
+More resources on Changi Airport’s early years are available [<u>here</u>](biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/changi-airport-rsrc).
 
 <div style="background-color: white;">
 <br/>
@@ -209,7 +210,3 @@ As vaccination rates rise in Singapore and the country moves towards dealing wit
 [^31]: Ong Ye Kung, “[Parliamentary Ministerial Statement by Minister for Transport, Mr Ong Ye Kung, on Recovery of Aviation Sector](https://www.mot.gov.sg/news-centre/news/detail/parliamentary-ministerial-statement-by-minister-for-transport-mr-ong-ye-kung-on-recovery-of-aviation-sector),” 6 October 2020,  Ministry of Transport, https://www.mot.gov.sg/news-centre/news/detail/parliamentary-ministerial-statement-by-minister-for-transport-mr-ong-ye-kung-on-recovery-of-aviation-sector.
 
 
-
-
-
-More resources on Changi Airport’s early years are available [<u>here</u>](biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/changi-airport-rsrc).
