@@ -77,7 +77,7 @@ Aside from their alleged criminal tendencies, another bugbear was the “filthy,
 
 Another dreaded aspect was the prevalence of venereal diseases among Chinese male servants, giving rise to fears of contagion from consuming food prepared by them. The fear found voice in the following letter from “A Householder” to *The Straits Times* on 4 August 1891:
 
-“It is no exaggeration to estimate the number of diseased cooks and boys at one in every three, suffering from the effects of their own conduct…and by no means scrupulous and careful, when engaged in cooking and handling the food of delicate ladies and European gentlemen…Let Europeans stop to realise the dangerously unprotected manner in which they are living, and there is little doubt that a strongly indignant appeal will rouse public attention and end in safeguarding the interests of the few white men, who are compelled to live in a tropical climate exposed to many many dangers, not the least of which centres in the servants on whom they must depend for food.”[^34]
+“It is no exaggeration to estimate the number of diseased cooks and boys at one in every three, suffering from the effects of their own conduct… and by no means scrupulous and careful, when engaged in cooking and handling the food of delicate ladies and European gentlemen… Let Europeans stop to realise the dangerously unprotected manner in which they are living, and there is little doubt that a strongly indignant appeal will rouse public attention and end in safeguarding the interests of the few white men, who are compelled to live in a tropical climate exposed to many many dangers, not the least of which centres in the servants on whom they must depend for food.”[^34]
 
 |**MRS KINSEY TO THE RESCUE**|
 
