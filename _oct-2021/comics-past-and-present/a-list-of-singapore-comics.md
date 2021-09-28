@@ -5,7 +5,7 @@ third_nav_title: Comics Past And Present
 ---
 **If you've read "Singapore Comics - Panels Past and Present" and you want to look up the titles referenced, this page lists the comic books mentioned.**
 
-![Alt text for image on Isomer site](/images/CaptainV.jpg)
+![Alt text for image on Isomer site](/images/captainv.jpg)
 Captain V Productions. *The Amazing Adventures of Captain V*. Singapore: Captain V Productions, 1988. 
 
 Chiang, Joseph. *Chronicles of a Circuit Breaker.* Singapore: Epigram Books, 2021. (Call no. RSING 741.595957 CHI)
