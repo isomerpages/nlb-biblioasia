@@ -85,8 +85,9 @@ Tan, James. *[All That Remains](http://eservice.nlb.gov.sg/item_holding_s.aspx?b
 
 Tan, James. *[Final Resting Place](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202955687)*. Lim Cheng Tju, ed. Singapore: COSH Studio, 2017. (Call no. RSING 741.59597 TAN)
 
-![Alt text for image on Isomer site](/images/our-months-together-new.jpg)
 Wee Tian Beng, Liu Jia Hui and Yeo Hui San, eds. *[Our Months Together: A Comics Anthology by 12 Artists](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201344693)*. Singapore: TCZ Studio, 2015. (Call no. RSING 741.595957 OUR)
+
+![Alt text for image on Isomer site](/images/python-gang-small.jpg)
 
 Wild, Ronald. *[蟒蛇党. The Python Gang. Kumpulan Ular Sawa.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200077221)*  Singapore: n.p., n.d. (From PublicationSG)
 
