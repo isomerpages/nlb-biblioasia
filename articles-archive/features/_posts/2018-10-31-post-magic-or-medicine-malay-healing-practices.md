@@ -172,18 +172,18 @@ Manderson, L. (1996). [*Sickness and the state: Health and illness in colonial M
 
 Matheson, V., & Hooker, M. (1988). Jawi literature in Patani: The maintenance of an Islamic tradition. *Journal of the Malaysian Branch of the Royal Asiatic Society, 61*(1)(254), 1–86. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-McHugh, J.N. (1955). [Hantu hantu: An account of ghost belief in modern Malaya](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4500047). Singapore: Donald Moore. (Call no.: RCLOS 398.47 MAC-[RFL])
+McHugh, J.N. (1955). [*Hantu hantu: An account of ghost belief in modern Malaya*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4500047). Singapore: Donald Moore. (Call no.: RCLOS 398.47 MAC-[RFL])
 
-Mohd. Affendi Mohd.Shafri & Intan Azura Shahdan. (Eds.). (2017). Malay medical manuscripts: Heritage from the garden of healing. Kajang, Selangor, Malaysia: Akademi Jawi Malaysia. (Call no.: RSEA 610.95 INT)
+Mohd. Affendi Mohd.Shafri & Intan Azura Shahdan. (Eds.). (2017). [*Malay medical manuscripts: Heritage from the garden of healing*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203011255). Kajang, Selangor, Malaysia: Akademi Jawi Malaysia. (Call no.: RSEA 610.95 INT)
 
-Muhamad Zakaria & Mustafa Ali Mohd. (1992). Tumbuhan dan perubatan tradisional. Kuala Lumpur: Fajar Bakti. (Call no.: Malay RSING 615.88209595 MUH)
+Muhamad Zakaria & Mustafa Ali Mohd. (1992). [*Tumbuhan dan perubatan tradisional*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6307820). Kuala Lumpur: Fajar Bakti. (Call no.: Malay RSING 615.88209595 MUH)
 
-Ong, H.T. (Ed.). (2011). To heal the sick: The story of healthcare and doctors in Penang. Georgetown: Penang Medical Practitioners’ Society. (Call no.: RSEA 362.1095951 TO)
+Ong, H.T. (Ed.). (2011). [*To heal the sick: The story of healthcare and doctors in Penang*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202468002). Georgetown: Penang Medical Practitioners’ Society. (Call no.: RSEA 362.1095951 TO)
 
-Owen, N. G. (Eds.). (1987). Death and disease in Southeast Asia : explorations in social, medical and demographic history. Singapore: Oxford University Press. (Call no.: 301.3220959 DEA)
+Owen, N. G. (Eds.). (1987). [*Death and disease in Southeast Asia : explorations in social, medical and demographic history*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4523171). Singapore: Oxford University Press. (Call no.: 301.3220959 DEA)
 
-Mohd. Taib Osman. (1989). Malay folk beliefs: An integration of disparate elements. Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan Malaysia. (Call no.: RSEA 398.4109595 MOH)
+Mohd. Taib Osman. (1989). [Malay folk beliefs: An integration of disparate elements](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5391123). Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan Malaysia. (Call no.: RSEA 398.4109595 MOH)
 
-Tuminah Sapawi. (1997, January 8). Bidan kampung now offers massage and other rituals. The Straits Times, p. 17. Retrieved from NewspaperSG.
+Tuminah Sapawi. (1997, January 8). [Bidan kampung now offers massage and other rituals](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970108-1.2.112.7.4). The Straits Times, p. 17. Retrieved from NewspaperSG.
 
 Wilkinson, R.J. (1908–10). Papers on Malay subjects. [First series, 4], Life and customs (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. [Microfilm no.: NL 263].
