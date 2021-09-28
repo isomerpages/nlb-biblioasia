@@ -6,7 +6,7 @@ layout: post
 ---
 #### The advent of wireless broadcasting created the same ripples that the Internet unleashed in more recent times. **Chua Ai Lin** traces its development in colonial Singapore.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/story-of-singapore-radio/01_singaporeradio.jpg">The studio of the Amateur Wireless Society of Malaya (AWSM) began operations in the Union Building at Collyer Quay at the end of 1924, using an aeroplane transmitter. <i>Roland Craske Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-1/story-of-singapore-radio/01_singaporeradio.jpg">The studio of the Amateur Wireless Society of Malaya (AWSM) began operations in the Union Building at Collyer Quay at the end of 1924, using an aeroplane transmitter. <i>Roland Craske Collection, courtesy of National Archives of Singapore.</i></div>
 
 Although 1935 marks the year the first official broadcasting company in Singapore – the British Malaya Broadcasting Corporation (BMBC) – was granted a monopoly licence, the origins of radio broadcasting can be traced to more than a decade earlier in 1924, when the Amateur Wireless Society of Malaya was established. But even before the BMBC was launched, people in Singapore were already listening to hortwave broadcasts from around the world, including the Empire Service of the British Broadcasting Corporation (now known as BBC World Service).
 
