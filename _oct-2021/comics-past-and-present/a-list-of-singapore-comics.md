@@ -34,7 +34,7 @@ Fong, Otto and Tan Peng Kian. *[Sir Fong's Adventures in Science. Book 6, Synthe
 
 Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *[Dim Sum Warriors Volume 1, Enter the Dumpling.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14636577)* New York: Yumcha Studios, 2012. (Call no. JR SING 741.595957 GOH)
 
-![Alt text for image on Isomer site](/images/dim-sum-warriors-small.jpg)
+![Alt text for image on Isomer site](/images/dim-sum-warriors-2.jpg)
 Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *[Dim Sum Warriors  Volume 2, Feast of Fury](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200158332)*. New York: Yumcha Studios, 2014. (Call no. JR SING 741.5 GOH)
 
 Goh, Colin. *[I was a Teenage Sex Slave: Yet Another Smutty Orchard Road Collection](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5777122)*. Singapore: Times Books International, 1990. (Call no. RSING 741.595957 GOH)
