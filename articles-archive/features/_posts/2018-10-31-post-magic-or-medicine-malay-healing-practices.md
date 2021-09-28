@@ -184,6 +184,6 @@ Owen, N. G. (Eds.). (1987). [*Death and disease in Southeast Asia : explorations
 
 Mohd. Taib Osman. (1989). [Malay folk beliefs: An integration of disparate elements](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5391123). Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan Malaysia. (Call no.: RSEA 398.4109595 MOH)
 
-Tuminah Sapawi. (1997, January 8). [Bidan kampung now offers massage and other rituals](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970108-1.2.112.7.4). The Straits Times, p. 17. Retrieved from NewspaperSG.
+Tuminah Sapawi. (1997, January 8). [Bidan kampung now offers massage and other rituals](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970108-1.2.112.7.4). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-Wilkinson, R.J. (1908–10). Papers on Malay subjects. [First series, 4], Life and customs (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. [Microfilm no.: NL 263].
+Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. [Microfilm no.: NL 263].
