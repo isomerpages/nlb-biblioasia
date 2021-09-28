@@ -36,9 +36,6 @@ It is within the context of the successful Eurospy craze that French producer Pi
 
 Hence in the movie, the hero is renamed Art Smith. A clear playful allusion is nevertheless made at the beginning of the movie when a car waiting for him at Singapore’s old Paya Lebar Airport is numbered 117.
 
-<img style="width: 330px; height: 450px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore3.JPG">
-<div style="background-color: white;">The lead character, Captain Art Smith of the Central Intelligence Agency, is played by Sean Flynn, son of legendary Hollywood actor Errol Flynn and French actress Lili Damita. The younger Flynn was then taking a break from his photojournalism stint in Vietnam during the war. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
-
 *Five Ashore in Singapore*, like so many similar B-flicks, has a very simple plot that closely follows that of the original novel. Captain Art Smith of the Central Intelligence Agency is sent to Singapore to investigate the whereabouts of several US Marines who mysteriously disappear while on shore leave. Upon his arrival, Smith meets four Marines who volunteer to assist him. Together, the five men pretend to be a group of Marines looking for a good time, but in fact hoping to be caught in the same trap as their missing colleagues.
 
 Their search takes them all around Singapore, and eventually leads them to a mad scientist who has apparently kidnapped the marines for a diabolical experiment. This lame twist in the film’s finale is typical of super spy stories: however credible as a narrative, they generally end on a weak and often implausible note. Nevertheless, what makes *Five Ashore in Singapore* particularly noteworthy is its value as a documentary that captures realistic scenes of 1960s Singapore.
@@ -53,9 +50,6 @@ By the time director Bernard Toublanc-Michel adapted Bruce’s novel into a movi
 
 Soldiers nicknamed these breaks “I&I”, or “Intoxication and Intercourse”, as these outings were invariably fuelled by plenty of alcohol, drugs and sex. Singapore, true to its form then, was depicted as a rather seedy and dangerous city in publicity materials that were issued when *Cinq gars pour Singapour* was released in France in March 1967. The press release took pains to highlight the fact that American Marines are routinely warned to behave with discretion when they are in Singapore for R&R, including dressing as civilians when travelling in the city, because there has been cases where local boys had tried to pick a fight.[^7]
 
-<img style="width: 650px; height: 400px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore4.JPG">
-<div style="background-color: white;">Accident scene in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
-
 In an interview given at his apartment near Paris on 1 June 2018, Toublanc-Michel said that the geopolitical context of Singapore against the backdrop of the Vietnam War was what made the adaptation of Bruce’s OSS 117 novel *Cinq gars pour Singapour* so interesting to him: it gave him the opportunity to explore and expose what he calls “les à-côtés de la guerre” (“extra income and activities”) that was generated on the sidelines of the war.[^8]
 
 In this sense, Bruce’s novel and its film adaptation by Toublanc-Michel also pre-date Paul Theroux’s 1973 novel *Saint Jack* and its subsequent 1979 film adaptation by Peter Bogdanovich depicting American soldiers in Singapore on R&R during the Vietnam War and the pimps who provide them with the necessary “entertainment”.[^9]
@@ -63,6 +57,9 @@ In this sense, Bruce’s novel and its film adaptation by Toublanc-Michel also p
 Direct mention of the Vietnam War is made in *Five Ashore in Singapore* when the Marines led by Captain Art Smith take refuge in a movie theatre, where a newsreel in Malay addressing the Vietnam conflict and showing images of North Vietnamese troops is screened. Real American vessels are also seen anchored in the Singapore Strait – Pierre Kalfon had managed to obtain from the US military a permit to film these scenes, much to Toublanc-Michel’s delight[^10] – a rare visual testament of US naval power in Singapore waters at the time.
 
 The background setting of the Vietnam War is made even more significant by the fact that the lead character Art Smith is played by Sean Flynn, son of legendary Hollywood actor Errol Flynn (and Hollywood-based French actress Lili Damita). The younger Flynn was taking a break from his photojournalism stint in Vietnam, where he had arrived in January 1966 as a freelance photo-reporter, working occasionally for magazines like *Paris Match*, *Time*, *Life* and the *Daily Telegraph*. Flynn quickly made a name for himself and earned the reputation of being a high-octane risk-taking photojournalist along the likes of British photographer Tim Page and American photojournalist Dana Stone, both of whom Flynn had befriended in Vietnam.
+
+<img style="width: 330px; height: 450px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore3.JPG">
+<div style="background-color: white;">The lead character, Captain Art Smith of the Central Intelligence Agency, is played by Sean Flynn, son of legendary Hollywood actor Errol Flynn and French actress Lili Damita. The younger Flynn was then taking a break from his photojournalism stint in Vietnam during the war. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 <img style="width: 340px; height: 450px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore5.JPG">
 <div style="background-color: white;">Sean Flynn (standing), who plays Captain Art Smith of the Central Intelligence Agency, in action with an unnamed Singaporean actor. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
@@ -74,6 +71,9 @@ As freelance photojournalism did not pay well, Flynn went back to acting – som
 *Five Ashore in Singapore* was filmed on Eastmancolor, a colour film technology introduced in 1950, and shot entirely on location in Singapore between August and October 1966. When Bernard Toublanc-Michel was first approached by producer Pierre Kalfon to direct the screen adaptation of Bruce’s book, he had insisted that the entire film be shot on location in Singapore.[^12]
 
 The rest is history: a total of 52 locations were used in the film,[^13] such as the Cathay Hotel (where Captain Art Smith stays), Change Alley, Clifford Pier, the Majestic Theatre at Eu Tong Sen Street, the old Paya Lebar Airport, Boat Quay, Telok Blangah, Keppel Golf Club and some very rare footage of the long-gone Kampong Telok Saga on Pulau Brani. This tour of the Lion City allows viewers today to travel back in time to 1966 “… wishing … [they] were in the company of less brutal, more appreciative tourists“[^14] than this wild bunch of hard-drinking and brawling Marines.
+
+<img style="width: 650px; height: 400px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore4.JPG">
+<div style="background-color: white;">Accident scene in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 The story begins on 5 August 1966, as indicated in the visa stamped on Art Smith’s passport on his arrival in Singapore. It was just a few days before the fledgling republic celebrated its first National Day on 9 August, a week-long calendar of festivities that included a parade, fireworks displays and cultural shows. In the film, numerous glimpses of the national flag can be seen on the streets and on buildings, as well as billboards and banners with the words “Majulah Singapura”, which had been officially adopted as Singapore’s national anthem in 1965.
 
