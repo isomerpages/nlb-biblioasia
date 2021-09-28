@@ -25,20 +25,20 @@ Djoeharie, Adyeel and Alan Bay. *[Sacred Guardians](http://eservice.nlb.gov.sg/i
 
 Drewscape. *[Monsters, Miracles and Mayonnaise.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14491581)* Singapore: Epigram Books, 2012. (Call no: RSING 741.595957 DRE)
 
-Drewscape. *Moving Forward*. Singapore: National Library Board Singapore, 2014. (Call no: RSING 629.283 DRE)
+Drewscape. *[Moving Forward](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200172332)*. Singapore: National Library Board Singapore, 2014. (Call no: RSING 629.283 DRE)
 
-Fong, Otto and Lim Cheng Tju. *Sir Fong's Adventures in Science. Book 5, Quantum Bunny.* Singapore: Ottonium Comics, 2015. (Call no. J SING 539 FON)
+Fong, Otto and Lim Cheng Tju. *[Sir Fong's Adventures in Science. Book 5, Quantum Bunny.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202746510)* Singapore: Ottonium Comics, 2015. (Call no. J SING 539 FON)
 
-Fong, Otto and Tan Peng Kian. *Sir Fong's Adventures in Science. Book 6, Synthetic Biology.* Singapore: Ottonium Comics, 2017. (Call no. JR SING 572.8 FON)
+Fong, Otto and Tan Peng Kian. *[Sir Fong's Adventures in Science. Book 6, Synthetic Biology.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202947304)* Singapore: Ottonium Comics, 2017. (Call no. JR SING 572.8 FON)
 
-Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *Dim Sum Warriors Volume 1, Enter the Dumpling.* New York: Yumcha Studios, 2012. (Call no. JR SING 741.595957 GOH)
+Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *[Dim Sum Warriors Volume 1, Enter the Dumpling.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14636577)* New York: Yumcha Studios, 2012. (Call no. JR SING 741.595957 GOH)
 
 ![Alt text for image on Isomer site](/images/dim-sum-new.jpg)
-Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *Dim Sum Warriors  Volume 2, Feast of Fury*. New York: Yumcha Studios, 2014. (Call no. JR SING 741.5 GOH)
+Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *[Dim Sum Warriors  Volume 2, Feast of Fury](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200158332)*. New York: Yumcha Studios, 2014. (Call no. JR SING 741.5 GOH)
 
-Goh, Colin. *I was a Teenage Sex Slave: Yet Another Smutty Orchard Road Collection*. Singapore: Times Books International, 1990. (Call no. RSING 741.595957 GOH)
+Goh, Colin. *[I was a Teenage Sex Slave: Yet Another Smutty Orchard Road Collection](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5777122)*. Singapore: Times Books International, 1990. (Call no. RSING 741.595957 GOH)
 
-Goh, Colin. *Orchard Road III: Tongues for the Memories*. Singapore: Times Books International, 1993. (Call no. RSING 741.595957 GOH)
+Goh, Colin. *[Orchard Road III: Tongues for the Memories](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6374727)*. Singapore: Times Books International, 1993. (Call no. RSING 741.595957 GOH)
 
 Goh, Colin. *Orchard Road: The Restricted Zone*. Singapore: Times International Singapore, 1989. (Call no. RSING 741.595957 GOH)
 
