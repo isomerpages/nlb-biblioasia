@@ -83,6 +83,16 @@ With all these ongoing efforts and initiatives by comic groups and societies in 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="">The writers would like to thank Lim Cheng Tju for reviewing this essay. His essays on comics have been published in <i>BiblioAsia</i> Vol. 7, issue 4 (March 2012) and Vol. 9, issue 3 (Oct–Dec 2013). For a list of the comics featured in this article, please scan this QR code.</div>
 
+<div style="background-color: white;">
+<br/>
+<img src="" style="width: 100px; height: 100px;" />
+<b>Jacqueline Lee</b> is an Associate Librarian with the National Library, Singapore, who works with the Singapore and Southeast Asia collections. Her responsibilities include developing and promoting the Legal Deposit and Web Archive Singapore collections.</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="" style="width: 100px; height: 100px;" />
+<b>Chiang Yu Xiang</b> is an Associate Librarian with the Public Libraries, Singapore. He has had the opportunity to meet and work with many creative Singaporean comic artists.</div>
+
 #### **NOTES**
 
 [^1]: “Have I Got Old News for You: Glasgow is Home to World’s Oldest Comic,” The Herald, 24 June 2013, https://www.heraldscotland.com/life_style/arts_ents/13110858.got-old-news-glasgow-home-worlds-oldest-comic/.
