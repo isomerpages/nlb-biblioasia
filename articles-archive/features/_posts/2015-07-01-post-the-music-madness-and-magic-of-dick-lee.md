@@ -144,7 +144,7 @@ In 2002, Lee travelled to London with lyricist Stephen Clark and director Steven
 A scene from the musical <i>Forbidden City: Portrait of an Empress</i>, with Kit Chan (centre, in red costume) playing the lead role. Dick Lee wrote the music for this Singapore Repertory Theatre (SRT) production that was first staged in 2002. <i>Courtesy of Singapore Repertory Theatre</i>.
 </div>
 
-Carl had been sent to the Forbidden City in 1903 to paint the empress dowager in just three days, but was so well-liked by the empress that she stayed for more than six months. Her account, <i>With the Empress Dowager</i>, published in 1905, had been written partly in defence of the scandalous books that were being published on the empress at the time, some of these attributing ficti- tious quotes to Carl herself. 
+Carl had been sent to the Forbidden City in 1903 to paint the empress dowager in just three days, but was so well-liked by the empress that she stayed for more than six months. Her account, <i>With the Empress Dowager</i>, published in 1905, had been written partly in defence of the scandalous books that were being published on the empress at the time, some of these attributing fictitious quotes to Carl herself. 
 
 Thus, the musical <i>Forbidden City: Portrait of an Empress</i> was born, starring Singapore singer Kit Chan in the titular role. Forbidden City was one of the highlights of the opening festival of Esplanade – Theatres on the Bay in October 2002. Owing to its immense popularity, the production returned for two re-runs in 2003 and 2006. Lee’s compositions for the musical subsequently went on to win the Life! Theatre Awards for Best Music in 2004. 
 
