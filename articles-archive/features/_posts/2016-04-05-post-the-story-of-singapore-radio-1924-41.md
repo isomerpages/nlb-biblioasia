@@ -141,11 +141,11 @@ Radio broadcasting in Singapore has come a long way – from its shaky start in 
 
 [^15]:The dawn. (1933, June). Malayan Radio Review and Gramophone Gazette, p. 1.
 
-[^16]:Radio Service Co. of Malaya (advertisement). (1931, August). Omba Pende, p. 17; The Singapore and Malayan Directory. (1936). Singapore: Fraser & Neave. (Call no. RCLOS 382.09595 STR); Abisheganaden, P. (2005). Notes across the years: Anecdotes from a musical life (p. 77). Singapore: Unipress. (Call no.: RSING 784.2092 ABI); The radio magazine of Malaya, 1 Feb 1936, p. 2. 
+[^16]:Radio Service Co. of Malaya (advertisement). (1931, August). Omba Pende, p. 17; The Singapore and Malayan Directory. (1936). Singapore: Fraser & Neave. (Call no. RCLOS 382.09595 STR); Abisheganaden, P. (2005). Notes across the years: Anecdotes from a musical life (p. 77). Singapore: Unipress. (Call no.: RSING 784.2092 ABI); *[The radio magazine of Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325216)*, 1 Feb 1936, p. 2. 
 
-[^17]:The radio magazine of Malaya, 1 Feb 1936, pp. 2, 9–11; Broadcast Station Z.H.I. Singapore. (1935, November 24). Malayan Radio Times, pp. 8–9; McDaniel, 1994, pp. 34–35.
+[^17]:*[The radio magazine of Malaya,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325216)* 1 Feb 1936, pp. 2, 9–11; Broadcast Station Z.H.I. Singapore. (1935, November 24). *Malayan Radio Times*, pp. 8–9; [McDaniel](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6904277), 1994, pp. 34–35.
 
-[^18]:Ng, 1996, p. 9.
+[^18]:[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202693115), 1996, p. 9.
 
 [^19]:[Problems of communications](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19310901-1.2.97). (1931, September 1). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
