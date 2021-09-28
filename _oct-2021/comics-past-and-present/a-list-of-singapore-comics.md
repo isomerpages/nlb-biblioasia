@@ -44,18 +44,18 @@ Goh, Colin. *[Orchard Road: The Restricted Zone](http://eservice.nlb.gov.sg/item
 
 Gotham 高谭. *[女侠红头巾: 大战油鬼仔](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205437750)* [The Samsui Sword]. Singapore: Rojak City, 2021. (Call no. Chinese RSING 741.595957 GT)
 
-Gwee Li Sui, ed. *Places: A Graphic Anthology on the East of Singapore.* Singapore: National Library Board, Singapore, 2016. (Call no. RSING 741.59597 PLA) 
+Gwee Li Sui, ed. *[Places: A Graphic Anthology on the East of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202575979).* Singapore: National Library Board, Singapore, 2016. (Call no. RSING 741.59597 PLA) 
 
-Gwee Li Sui. *Myth of the Stone.* Singapore: Epigram Books, 2013. (Call no. RSING 741.59597 GWE)
+Gwee Li Sui. *[Myth of the Stone](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200146617).* Singapore: Epigram Books, 2013. (Call no. RSING 741.59597 GWE)
 
-Huang Zhan Ming *黄展鸣. 漫画同盟* [Manga Doomei]. Singapore: Asiapac Books,1997. (From PublicationSG)
+Huang Zhan Ming 黄展鸣. *[漫画同盟](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200051555)* [Manga Doomei]. Singapore: Asiapac Books,1997. (From PublicationSG)
 
-Huang Zhan Ming and Huang Shu Qing 黄展鸣 and 黄书庆. *漫画同盟 98* [Manga Doomei 98]. Singapore: Asiapac Books, 1998. (From PublicationSG)
+Huang Zhan Ming and Huang Shu Qing 黄展鸣 and 黄书庆. *[漫画同盟 98](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200041980)* [Manga Doomei 98]. Singapore: Asiapac Books, 1998. (From PublicationSG)
 
-Lau, Johnny. *Mr Kiasu in Singapore History.* Singapore: Shogakukan Asia, 2019. (Call no. RSING 959.57 LAU)
+Lau, Johnny. *[Mr Kiasu in Singapore History.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203961451)* Singapore: Shogakukan Asia, 2019. (Call no. RSING 959.57 LAU)
 
 ![Alt text for image on Isomer site](/images/antibiotic-tales-new.jpg)
-Liew, Sonny and Hsu Li Yang. *The Antibiotic Tales*. Singapore: Epigram, 2019. (Call no. RSING 615.329 LIE)	
+Liew, Sonny and Hsu Li Yang. *[The Antibiotic Tales](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203939109)*. Singapore: Epigram, 2019. (Call no. RSING 615.329 LIE)	
 
 Liew, Sonny and Joyce Sim, eds.*Liquid City Volume Three*. Berkeley, California: Image Comics, 2014. (Call no. RSING 741.59 LIQ)
 
