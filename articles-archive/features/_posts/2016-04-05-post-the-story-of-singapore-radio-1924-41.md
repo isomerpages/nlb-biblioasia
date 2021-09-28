@@ -119,29 +119,29 @@ Radio broadcasting in Singapore has come a long way – from its shaky start in 
 
 [^4]:Radiofan. (1930, October 24). Radio in Malaya; Join the Singapore Society. The Malaya Tribune, p. 10; Radiofan. (1930, November 7). Radio in Malaya: First meeting of Society. The Malaya Tribune, p. 10; Radiofan. (1930, November 10). Radio society revived. The Malaya Tribune, p. 9. Retrieved from NewspaperSG.
 
-[^5]:Five dollars for nothing. (1931, July). Omba Pende, p. 1.
+[^5]:Five dollars for nothing. (1931, July). *Omba Pende*, p. 1.
 
-[^6]:Omba Pende, Jul 1931, p. 3.
+[^6]:*Omba Pende*, Jul 1931, p. 3.
 
-[^7]:Omba Pende, Jul 1931, p. 1, back cover and November 1931, p. 1.
+[^7]:*Omba Pende*, Jul 1931, p. 1, back cover and November 1931, p. 1.
 
-[^8]:The Malaya Tribune, 7 Nov 1930, p. 10; Pro Bono Publico, The Press and Wireless. (1932, November 20). Malayan Radio Review, p. 9.
+[^8]:*[The Malaya Tribune,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301107-1.2.96)* 7 Nov 1930, p. 10; Pro Bono Publico, The Press and Wireless. (1932, November 20). *Malayan Radio Review*, p. 9.
 
-[^9]:Ng, P.T.P. (1996). History of radio broadcasting in Singapore: Its formative years. Singapore: National University of Singapore. (Call no.: RSING 791.44013095957 NG)
+[^9]:Ng, P.T.P. (1996). *[History of radio broadcasting in Singapore: Its formative years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202693115)*. Singapore: National University of Singapore. (Call no.: RSING 791.44013095957 NG)
 
-[^10]:What’s on the ether? (1931, July). Omba Pende, p. 16; Singapore’s experimental station. (1932, June 20). Malayan Radio Review, pp. 3–4; Z.H.I. Singapore calling. (1936, February 1). The radio magazine of Malaya, pp. 9–11.
+[^10]:What’s on the ether? (1931, July). Omba Pende, p. 16; Singapore’s experimental station. (1932, June 20). *Malayan Radio Review*, pp. 3–4; Z.H.I. Singapore calling. (1936, February 1). *[The radio magazine of Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6325216)*, pp. 9–11.
 
-[^11]:McDaniel, 1994, pp. 28–30.
+[^11]:[McDaniel](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6904277), 1994, pp. 28–30.
 
-[^12]:Omba Pende, Jul 1931, p. 3.
+[^12]:*Omba Pende*, Jul 1931, p. 3.
 
-[^13]:Omba Pende, Jul 1931, p. 3; Malayan Radio Review, 20 Nov 1932, p. 9.
+[^13]:*Omba Pende*, Jul 1931, p. 3; *Malayan Radio Review*, 20 Nov 1932, p. 9.
 
-[^14]:Further extension of Empire radio programmes. (1933, June 10). The Malaya Tribune, p. 15. Retrieved from NewspaperSG.
+[^14]:[Further extension of Empire radio programmes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330610-1.2.56). (1933, June 10). *The Malaya Tribune*, p. 15. Retrieved from NewspaperSG.
 
-[^15]:The dawn. (1933, June). Malayan Radio Review and Gramophone Gazette, p. 1.
+[^15]:The dawn. (1933, June). *Malayan Radio Review and Gramophone Gazette*, p. 1.
 
-[^16]:Radio Service Co. of Malaya (advertisement). (1931, August). Omba Pende, p. 17; The Singapore and Malayan Directory. (1936). Singapore: Fraser & Neave. (Call no. RCLOS 382.09595 STR); Abisheganaden, P. (2005). Notes across the years: Anecdotes from a musical life (p. 77). Singapore: Unipress. (Call no.: RSING 784.2092 ABI); *[The radio magazine of Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325216)*, 1 Feb 1936, p. 2. 
+[^16]:Radio Service Co. of Malaya (advertisement). (1931, August). *Omba Pende*, p. 17; *[The Singapore and Malayan Directory](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12654614)*. (1936). Singapore: Fraser & Neave. (Call no. RCLOS 382.09595 STR); Abisheganaden, P. (2005). *[Notes across the years: Anecdotes from a musical life](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12654614)* (p. 77). Singapore: Unipress. (Call no.: RSING 784.2092 ABI); *[The radio magazine of Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325216)*, 1 Feb 1936, p. 2. 
 
 [^17]:*[The radio magazine of Malaya,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325216)* 1 Feb 1936, pp. 2, 9–11; Broadcast Station Z.H.I. Singapore. (1935, November 24). *Malayan Radio Times*, pp. 8–9; [McDaniel](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6904277), 1994, pp. 34–35.
 
