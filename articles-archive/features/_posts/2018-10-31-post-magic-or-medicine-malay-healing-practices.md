@@ -83,6 +83,30 @@ It is clear that colonial observers of 20th-century Malaya have largely contexua
 
 Although Western medical services were gradually introduced to the local population, most Malays continued to consult their community healers as they allegedly had “complete faith in their own particular charms and cures” and “dread[ed] hospitals, doctors and western medicines”.16 As traditional healers were also involved in non-medical matters such as state, social and cultural affairs, they occupied an esteemed position in the indigenous communities they served.17
 
+By the turn of the 20th century, the British had become more receptive to Malay healing practices. Although dismissive of the efficacy of traditional Malay medicine, the British were aware that traditional healers formed the backbone of a long-established support system that locals could turn to in times of physical, emotional and spiritual distress.
+
+A significant example would be the role of the *bidan*, or midwife, in the community. Before the colonial government set up a maternity hospital in 1888, the demands of pregnancy – ranging from prenatal care to actual delivery and postpartum care – were handled by *bidans*.
+
+<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed5.JPG">
+<div style="background-color: white;">The Malay midwife, or <i>bidan</i>, holds a <i>pelepas</i> (made from double slipknot palm fronds or string) before the mother and child as she recites an incantation to release them from the postpartum period. <i>Image reproduced from Laderman, C. (1983). Wives and Midwives: Childbirth and Nutrition in Rural Malaysia. Berkeley: University of California Press. (Call no.: RSEA 301.209595112 LAD)</i></div>
+
+Although colonial medical officers acknowledged the importance of *bidans*, they were concerned that these midwives were operating under unsanitary conditions. In the early 20th century, a surge in the infant mortality rate was mainly attributed to traditional midwifery practices: many babies died from Tetanus neonatorum (umbilical infection).18  The authorities thought it imperative that *bidans* be trained and supervised to reduce maternal and infant mortality rates, and to develop trust and spread awareness of Western medical services among Malay mothers.
+
+Under the Midwives Ordinance enacted in the Straits Settlements in 1915, all *bidans* had to be registered with the Central Midwives Board and undergo in-service training. Local women were also trained in biomedicine, midwifery and nursing in order to replace the traditional role of the *bidan*. The intention was not to encourage women to deliver in hospitals (due to a lack of beds and facilities), but rather to establish a pool of trained and licensed midwives who could recognise complications during pregnancy and refer the women to the hospitals if necessary. By the 1920s, mobile dispensaries as well as home and school visits were available to communities living in rural areas, and public campaigns were mounted to ensure that people had access to medicine and healthcare.
+
+By 1936, there were 720 trained midwives in Singapore, 574 in Penang and 224 in Malacca. Despite these efforts, traditional *bidans* were still sought after by Malayan women in the subsequent decades due to the personal nature of the antenatal and postnatal services they provided, including up to six weeks after delivery.
+
+Two other legislations introduced by the colonial government further threatened the existence of traditional healers and the provision of traditional medicine. Under the Sale of Food and Drugs Ordinance that came into force in 1914, the sale of adulterated drugs was deemed an offence “if the purchaser [was] not fully informed of the nature of adulteration at time of purchase”.19 The second legislation, the Poisons Ordinance of 1938 “regulate[d] the possession and sales of potent medicinal substances, to prevent misuse or illicit diversion of poisons”.20
+
+<img style="width: 600px; height: 390px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed6.JPG">
+<div style="background-color: white;">Group photograph of Malay midwives in Singapore, 1950. Known as <i>bidan</i>, these midwives specialised in women’s health matters, including fecundity, midwifery and contraception, along with beauty-related disorders. <i>Haji Mawardi Collection, courtesy of National Archives of Singapore.</i></div>
+
+These laws compromised the role of traditional Malay healers in the community, especially given the latent suspicions surrounding Malay medicine. However, due to the high costs involved in establishing an islandwide public healthcare system, the British authorities were rather lax at enforcing these legislations, and allowed itinerant and home-based traditional healers to continue practising their craft.
+
+With the introduction of Western-style healthcare, including clinics and hospitals, and the increasing availability of over-the-counter medications from the turn of the 20th century onwards, traditional Malay healing played a smaller role in the lives and rhythms of the community.
+
+State controls and the exposure to Western education further put paid to the services of traditional Malay healers. Although their numbers have drastically dwindled over the years, traditional Malay medicine continues to play an ancillary – and occasionally complementary – role to Western medicine today for those who recognise its efficacy in providing ritual care and treating spiritual ailments and conditions not yet acknowledged in Western medical science.
+
 |**HEALING PRACTICES**
 
 |One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.<br>
@@ -98,9 +122,11 @@ Although Western medical services were gradually introduced to the local populat
 
 |Burkill, I.H., & Ismail Munshi. (1930). [*The medical book of Malayan medicine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
 
-By the turn of the 20th century, the British had become more receptive to Malay healing practices. Although dismissive of the efficacy of traditional Malay medicine, the British were aware that traditional healers formed the backbone of a long-established support system that locals could turn to in times of physical, emotional and spiritual distress.
+<br>
 
-A significant example would be the role of the *bidan*, or midwife, in the community. Before the colonial government set up a maternity hospital in 1888, the demands of pregnancy – ranging from prenatal care to actual delivery and postpartum care – were handled by *bidans*.
+|**HUMOURAL THEORY AND MALAY MEDICINE**
 
-<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed5.JPG">
-<div style="background-color: white;">The Malay midwife, or <i>bidan</i>, holds a <i>pelepas</i> (made from double slipknot palm fronds or string) before the mother and child as she recites an incantation to release them from the postpartum period. <i>Image reproduced from Laderman, C. (1983). Wives and Midwives: Childbirth and Nutrition in Rural Malaysia. Berkeley: University of California Press. (Call no.: RSEA 301.209595112 LAD)</i></div>
+|Humoural theory, which is one of the oldest theories of medicine, is organised around the four humours – blood, phlegm, yellow bile and black bile – and is associated with the four elements of earth (flesh), water (phlegm), air/wind (temperament), and fire (blood). The four elements are in turn paired up with the four qualities of cold, hot, moist and dry. Each individual has a particular humoural makeup, or “constitution”. As optimal health is attained when the humours are in harmonious balance, any imbalance of the humours may result in disease and sickness.
+
+|In one of the earliest Malayan accounts of humoural theory, English scholar Thomas J. Newbold describes Malay medicine as being based on the fundamental “principle of ’preserving the balance of power’ within the four elements, specifically, air, fire, water and earth”.21 This ranges from the consumption of certain hot or cold foods (such as meat and fruit respectively), hot and cold temperatures, wind, micro-organisms and supernatural forces. Dry chills and dizzy spells arise when the “earth” element is too strong and from ailments such as cholera and dysentery, which are caused by excessive heat and moisture from the “air”.22 Consuming large amounts of food that contain “air” may cause feebleness in some. The plants and herbs prescribed by Malay healers help to revitalise and restore these imbalances in the human body.
+
