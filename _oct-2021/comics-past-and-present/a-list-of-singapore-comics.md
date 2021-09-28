@@ -84,6 +84,7 @@ Tan, James. *All That Remains*. Singapore: Lien Foundation; Alzheimer's Disease 
 
 Tan, James. *Final Resting Place*. Lim Cheng Tju, ed. Singapore: COSH Studio, 2017. (Call no. RSING 741.59597 TAN)
 
+![Alt text for image on Isomer site](/images/our-months-together-new.jpg)
 Wee Tian Beng, Liu Jia Hui and Yeo Hui San, eds. *Our Months Together: A Comics Anthology by 12 Artists*. Singapore: TCZ Studio, 2015. (Call no. RSING 741.595957 OUR)
 
 Wild, Ronald. *蟒蛇党* [The Python Gang]. Singapore: n.p., n.d. (From PublicationSG)
