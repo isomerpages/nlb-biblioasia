@@ -98,4 +98,9 @@ Although Western medical services were gradually introduced to the local populat
 
 |Burkill, I.H., & Ismail Munshi. (1930). [*The medical book of Malayan medicine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
 
+By the turn of the 20th century, the British had become more receptive to Malay healing practices. Although dismissive of the efficacy of traditional Malay medicine, the British were aware that traditional healers formed the backbone of a long-established support system that locals could turn to in times of physical, emotional and spiritual distress.
 
+A significant example would be the role of the *bidan*, or midwife, in the community. Before the colonial government set up a maternity hospital in 1888, the demands of pregnancy – ranging from prenatal care to actual delivery and postpartum care – were handled by *bidans*.
+
+<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed5.JPG">
+<div style="background-color: white;">The Malay midwife, or <i>bidan</i>, holds a <i>pelepas</i> (made from double slipknot palm fronds or string) before the mother and child as she recites an incantation to release them from the postpartum period. <i>Image reproduced from Laderman, C. (1983). Wives and Midwives: Childbirth and Nutrition in Rural Malaysia. Berkeley: University of California Press. (Call no.: RSEA 301.209595112 LAD)</i></div>
