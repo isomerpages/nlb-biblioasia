@@ -20,7 +20,7 @@ Chua, Morgan. *L.K.Y. Political Cartoons.* Singapore: Epigram Books, 2014. (Call
 
 Deng, Eldred, ed. *漫画同盟* [2001] [Comics Alliance 2001]. Singapore: Asiapac Books, 2001. (Call no. Chinese RSING 741.595957 COM)  
 
-![Alt text for image on Isomer site](/images/sacredguardians.jpg)
+![Alt text for image on Isomer site](/images/sacred-guardians.jpg)
 Djoeharie, Adyeel and Alan Bay. *Sacred Guardians.* Viency Lee, ed. Singapore: Asiapac Books, 2020. (Call no. RSING 741.595957 DJO)
 
 Drewscape. *Monsters, Miracles and Mayonnaise.* Singapore: Epigram Books, 2012. (Call no: RSING 741.595957 DRE)
