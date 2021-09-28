@@ -166,7 +166,7 @@ State controls and the exposure to Western education further put paid to the ser
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
 
-**REFERENCES**
+#### **REFERENCES**
 
 Bala, A. (Ed.) (2013). [*Asia, Europe, and the emergence of modern science: Knowledge crossing boundaries*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200137599). Singapore: Institute of Southeast Asian Studies. (Call no.: RSEA 509.5 ASI)
 
@@ -217,5 +217,3 @@ Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life 
 [^20]:Singapore. The Statutes of the Republic of Singapore. (1999, December 30). *Poisons Act* (Cap 234, 1999 Rev. ed.). Retrieved from Singapore Statutes Online website.
 [^21]:Newbold, T.J. (2015). [*Political and statistical account of the British settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore, with a history of the Malayan states on the peninsula of Malacca vol, 2 of 2*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202784871) (p. 242). London: Forgotten Books. (Call no.: RSING 959.5 NEW)
 [^22]: Squeamishness, heartburn and fevers arise when the “fire” element is too strong. The “water” element causes damp chills and vomiting.
-
-
