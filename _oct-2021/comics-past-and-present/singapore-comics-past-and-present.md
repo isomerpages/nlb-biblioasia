@@ -5,6 +5,9 @@ third_nav_title: Comics Past And Present
 ---
 #### With great power comes great responsibility. **Jacqueline Lee** and **Chiang Yu Xiang** use their power to give us an overview of the history of comics in Singapore.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_1065_cmyk2.jpg)
+<div style="background-color: white;">From left: Comic strips from <i>Bawang Puteh Bawang Merah, Tani of the Tigers, What If They Call Me Chicken? and The Antibiotic Tales. Images reproduced from Nora Abdullah, Bawang Puteh Bawang Merah (Singapura: Geliga, 1957). (From PublicationSG); Willie and Bio, Tani of the Tigers (Singapore: Keng Yan Leng, [19--]). (From PublicationSG); Singapore Anti-Narcotics Association, What If They Call Me Chicken? (Singapore: Singapore Anti-Narcotics Association, [1979]). (From PublicationSG); and Sonny Liew and Hsu Li Yang, The Antibiotic Tales (Singapore: Epigram, 2019). (From National Library, Singapore, Call no. RSING 615.329 LIE).</i></div>
+
 Since the first comic book, The Glasgow Looking Glass – which poked fun at the fashion and politics of 19th-century Scottish society – was published in Glasgow in 1825,1 comics have become more and more mainstream and popular. Comics these days are used to educate, entertain, lampoon, satirise and provoke. 
 
 Today, Singapore has a thriving local scene with homegrown comic book artists and writers. Life in the city-state is a fertile backdrop for many budding comic artists. As Sonny Liew, who wrote the award-winning graphic novel The Art of Charlie Chan Hock Chye (2015), notes: “Artists often write about what they know, so stories set in Singapore or with a local flavour are a natural step.”2
