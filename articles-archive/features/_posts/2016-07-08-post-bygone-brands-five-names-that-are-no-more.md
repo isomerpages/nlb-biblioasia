@@ -180,7 +180,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^13]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491230-1.2.120.aspx)*, 30 Dec 1949, p. 7; *[Steady progress all through the years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710204-1.2.47.aspx)*. (1971, February 4). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^14]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491230-1.2.120.aspx)* , 4 Feb 1971, p. 6.
+[^14]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491230-1.2.120.aspx),* 4 Feb 1971, p. 6.
 
 [^15]:Leo, S. (2012). (Ed.). *[Southeast Asian personalities of Chinese descent: A biographical dictionary](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14641662)* (Vol. 1, p.497). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.004951 SOU
 
