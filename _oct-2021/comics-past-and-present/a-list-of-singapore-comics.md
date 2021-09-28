@@ -55,7 +55,7 @@ Huang Zhan Ming and Huang Shu Qing 黄展鸣 and 黄书庆. *[漫画同盟 98](h
 
 Lau, Johnny. *[Mr Kiasu in Singapore History.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203961451)* Singapore: Shogakukan Asia, 2019. (Call no. RSING 959.57 LAU)
 
-![Alt text for image on Isomer site](/images/antibiotic-tales-new.jpg)
+![Alt text for image on Isomer site](/images/antibiotic-tales-small.jpg)
 Liew, Sonny and Hsu Li Yang. *[The Antibiotic Tales](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203939109)*. Singapore: Epigram, 2019. (Call no. RSING 615.329 LIE)	
 
 Liew, Sonny and Joyce Sim, eds.*[Liquid City Volume Three](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201026140)*. Berkeley, California: Image Comics, 2014. (Call no. RSING 741.59 LIQ)
