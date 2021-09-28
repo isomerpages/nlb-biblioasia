@@ -137,10 +137,6 @@ Speaking in Parliament in October 2020, then Transport Minister Ong Ye Kung said
 As vaccination rates rise in Singapore and the country moves towards dealing with Covid-19 as an endemic disease, air traffic through Changi Airport will hopefully increase. With the same foresight, fortitude and perseverance that led to its genesis, the fortunes of Changi will undoubtedly rise again.
 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/QR%20Code2.png)
-<div style="background-color: white;">For more resources on Changi Airport’s early years, scan this QR code.</div>
-
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-17-issue-3/authors/Rebecca%20Tan--.png" style="width: 100px; height: 100px;" />
