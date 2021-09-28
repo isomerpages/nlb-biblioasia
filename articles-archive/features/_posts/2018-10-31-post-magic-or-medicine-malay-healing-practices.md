@@ -134,33 +134,33 @@ State controls and the exposure to Western education further put paid to the ser
 
 |**PAWANG, BOMOH AND BIDAN**
 
-Traditional Malay healers are the main providers of Malay medicine. To achieve the necessary credentials, some have resorted to living in solitude, spending their time meditating, fasting or putting themselves through strict dietary regimens – all in the name of spiritual cleansing. Healers are also expected to have an extensive knowledge of botany and nature so that they can classify and identify the right plants and herbs as well as their healing properties, and prescribe the correct remedies.
+|Traditional Malay healers are the main providers of Malay medicine. To achieve the necessary credentials, some have resorted to living in solitude, spending their time meditating, fasting or putting themselves through strict dietary regimens – all in the name of spiritual cleansing. Healers are also expected to have an extensive knowledge of botany and nature so that they can classify and identify the right plants and herbs as well as their healing properties, and prescribe the correct remedies.
 
 |**PAWANG**
 
-A *pawang* is commonly defined as a shaman or general practitioner of magic who incorporates incantations into his craft. He is usually involved in conducting agricultural rituals and divination ceremonies to sanctify the village. *Pawangs* have also been referred to as “wizards” by scholars such as Richard J. Wilkinson for their ability to manipulate the course of nature through the use of incantations and divination practices.
+|A *pawang* is commonly defined as a shaman or general practitioner of magic who incorporates incantations into his craft. He is usually involved in conducting agricultural rituals and divination ceremonies to sanctify the village. *Pawangs* have also been referred to as “wizards” by scholars such as Richard J. Wilkinson for their ability to manipulate the course of nature through the use of incantations and divination practices.
 
 |**DUKUN/BOMOH**
 
-A *dukun* or *bomoh* is a general practitioner who treats fevers, headaches, broken bones, spirit possession and various ailments. The skills and reputation of a *dukun/bomoh* stem from the person’s knowledge of humoural medicine, the healing properties of local flora and fauna as well as syncretic ritual incantations. Some were well known for their treatment of victims of sorcery. The *bomoh akar kayu* (the latter words meaning “roots” in Malay) is known for his expertise in gathering and preparing ubat-ubatan from plants and herbs In his book, *A Descriptive Dictionary of British Malaya* (1894), Nicholas B. Dennys compares the *dukun* to “being on par with witch doctors of history”. Although the *dukun* has been generally described in disparaging terms by Western scholars, a small minority saw the merits of these traditional healers. Percy N. Gerrard defines the “doctor” as a *bomoh*, *dukun* or *pawang* in his dictionary, *A Vocabulary of Malay Medical Terms* (1905).
+|A *dukun* or *bomoh* is a general practitioner who treats fevers, headaches, broken bones, spirit possession and various ailments. The skills and reputation of a *dukun/bomoh* stem from the person’s knowledge of humoural medicine, the healing properties of local flora and fauna as well as syncretic ritual incantations. Some were well known for their treatment of victims of sorcery. The *bomoh akar kayu* (the latter words meaning “roots” in Malay) is known for his expertise in gathering and preparing ubat-ubatan from plants and herbs In his book, *A Descriptive Dictionary of British Malaya* (1894), Nicholas B. Dennys compares the *dukun* to “being on par with witch doctors of history”. Although the *dukun* has been generally described in disparaging terms by Western scholars, a small minority saw the merits of these traditional healers. Percy N. Gerrard defines the “doctor” as a *bomoh*, *dukun* or *pawang* in his dictionary, *A Vocabulary of Malay Medical Terms* (1905).
 
 |**BIDAN**
 
-Also known as “Mak Bidan” or “dukun beranak”, these midwives specialise in women’s health matters, including fecundity, midwifery and contraception, along with a variety of beauty-related disorders. Up till the 1950s, it was common for mothers in Singapore to deliver their babies at home with the help of village midwives. Today, the role of these women is limited to providing antenatal and postnatal care, such as confinement services for new mothers or general massage therapies.
+|Also known as “Mak Bidan” or “dukun beranak”, these midwives specialise in women’s health matters, including fecundity, midwifery and contraception, along with a variety of beauty-related disorders. Up till the 1950s, it was common for mothers in Singapore to deliver their babies at home with the help of village midwives. Today, the role of these women is limited to providing antenatal and postnatal care, such as confinement services for new mothers or general massage therapies.
 
 |**REFERENCES**
 
-Dennys, N.B. (1894). *A descriptive dictionary of British Malaya* (p. 104). London: London and China Telegraph. [Microfilm nos.: NL7464, NL25454].
+|Dennys, N.B. (1894). *A descriptive dictionary of British Malaya* (p. 104). London: London and China Telegraph. [Microfilm nos.: NL7464, NL25454].
 
-Gerrard, P.N. (1905). *A vocabulary of Malay medical terms* (p. 24). Singapore: Kelly & Walsh. (Microfilm no.: NL27512)
+|Gerrard, P.N. (1905). *A vocabulary of Malay medical terms* (p. 24). Singapore: Kelly & Walsh. (Microfilm no.: NL27512)
 
-Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3966641) (pp. 424–425). London: Macmillan and Co., Limited. (Call no.: RCLOS 398.4 SKE-[GH])
+|Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3966641) (pp. 424–425). London: Macmillan and Co., Limited. (Call no.: RCLOS 398.4 SKE-[GH])
 
-Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Microfilm no.: NL263).
+|Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Microfilm no.: NL263).
 
 <br>
 
-|**REFERENCES**
+**REFERENCES**
 
 Bala, A. (Ed.) (2013). [*Asia, Europe, and the emergence of modern science: Knowledge crossing boundaries*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200137599). Singapore: Institute of Southeast Asian Studies. (Call no.: RSEA 509.5 ASI)
 
