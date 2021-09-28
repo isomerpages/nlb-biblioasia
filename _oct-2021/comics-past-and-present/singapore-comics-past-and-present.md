@@ -68,7 +68,7 @@ NLB has also hosted longer comics workshops where participants underwent a compr
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_1065_cmyk2.jpg)
 <div style="background-color: white;">The 24-hour Comics Day Challenge held at Bukit Merah Public Library in 2012.</div>
 
-In 2016, Tampines Regional Library was the venue for Places, a 13-week art co-creation workshop organised as part of the Community Arts & Culture Nodes initiative of the National Arts Council. Under the guidance of Gwee Li Swee – poet, graphic artist and author of several books, including the graphic novel Myth of the Stone – participants created comics with a select few compiled into an anthology.
+In 2016, Tampines Regional Library was the venue for Places, a 13-week art co-creation workshop organised as part of the Community Arts & Culture Nodes initiative of the National Arts Council. Under the guidance of Gwee Li Swee – poet, graphic artist and author of several books, including the graphic novel *Myth of the Stone* – participants created comics with a select few compiled into an anthology.
 
 In the same year, Central Public Library played host to Speech Bubble, a month-long event comprising talks, workshops and an exhibition showcasing artefacts, books and original artworks from comic artists. Conceptualised by Sonny Liew and Lim Cheng Tju, the objective of the event was to celebrate Singapore comics and their rich and colourful history.[^30] 
 
