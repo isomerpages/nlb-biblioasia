@@ -117,7 +117,7 @@ Radio broadcasting in Singapore has come a long way – from its shaky start in 
 
 [^3]:Omba Pende, Aug 1931, pp. 16–17.
 
-[^4]:Radiofan. (1930, October 24). Radio in Malaya; Join the Singapore Society. The Malaya Tribune, p. 10; Radiofan. (1930, November 7). Radio in Malaya: First meeting of Society. The Malaya Tribune, p. 10; Radiofan. (1930, November 10). Radio society revived. The Malaya Tribune, p. 9. Retrieved from NewspaperSG.
+[^4]:Radiofan. (1930, October 24). Radio in Malaya; Join the Singapore Society. The Malaya Tribune, p. 10; Radiofan. (1930, November 7). Radio in Malaya: First meeting of Society. The Malaya Tribune, p. 10; Radiofan. (1930, November 10). [Radio society revived](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301110-1.2.45). The Malaya Tribune, p. 9. Retrieved from NewspaperSG.
 
 [^5]:Five dollars for nothing. (1931, July). *Omba Pende*, p. 1.
 
