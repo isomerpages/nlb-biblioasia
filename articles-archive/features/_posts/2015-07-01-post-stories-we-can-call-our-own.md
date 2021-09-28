@@ -44,7 +44,7 @@ When Lee asked for a bodyguard, he was told bluntly by then Foreign Minister S. 
 
 When J.Y. Pillay started Singapore Airlines, he was told by the Government: “Make it work and don’t come back to us for more money. You either survive on your own or fold up.” We know which option he chose.
 
-These stories, whether of ordinary people or well known ones, help us better understand the Singapore we call home. Every nation must have these shared memories which the people can identify with and call their own.They strengthen the sense of belonging and identity, often more powerfully than physical landmarks or buildings.
+These stories, whether of ordinary people or well known ones, help us better understand the Singapore we call home. Every nation must have these shared memories which the people can identify with and call their own. They strengthen the sense of belonging and identity, often more powerfully than physical landmarks or buildings.
 
 Sometimes, these stories of the past provide comfort and satisfaction: See how far we’ve come! At other times, they give us greater confidence in the future: That’s how it was done before! Whatever they do to you, they are a precious part of who we are. This is especially important in Singapore which is changing so rapidly, making one generation so different from the next.
 
