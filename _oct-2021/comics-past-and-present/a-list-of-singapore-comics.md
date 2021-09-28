@@ -18,7 +18,7 @@ Chua, Dave and Max Loh. *[We’ll Eat When We’re Done.](http://eservice.nlb.go
 
 Chua, Morgan. *[L.K.Y. Political Cartoons.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200569051)* Singapore: Epigram Books, 2014. (Call no.  RSING 959.5704092 CHU)
 
-Deng, Eldred, ed. *[漫画同盟*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10333975) [2001] [Comics Alliance 2001]. Singapore: Asiapac Books, 2001. (Call no. Chinese RSING 741.595957 COM)  
+Deng, Eldred, ed. [*漫画同盟*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10333975) [2001] [Comics Alliance 2001]. Singapore: Asiapac Books, 2001. (Call no. Chinese RSING 741.595957 COM)  
 
 ![Alt text for image on Isomer site](/images/sacred-guardians.jpg)
 Djoeharie, Adyeel and Alan Bay. *[Sacred Guardians](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204402565).* Viency Lee, ed. Singapore: Asiapac Books, 2020. (Call no. RSING 741.595957 DJO)
