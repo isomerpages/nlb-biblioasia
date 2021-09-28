@@ -68,7 +68,6 @@ Liew, Sonny. *[The Art of Charlie Chan Hock Chye](http://eservice.nlb.gov.sg/ite
 
 Low, Travis and Li Shaoyang. *[The Secret of Redhill.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202249669)* Singapore: Funics, 2015. (Call no. JRSING 741.595957 LOW)
 
-![Alt text for image on Isomer site](/images/the-lky-story.jpg)
 Nabeta, Yoshio and Yoshihide Fujiwara. *[The LKY Story: Lee Kuan Yew, the Man Who Shaped a Nation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200569051).* Singapore: Shogakukan Asia, 2016. (Call no. RSING 959.5705092 NAB)
 
 Nabeta, Yoshio, Toshiki Takii and Hanna Francis. *[The Story of LKY: Lee Kuan Yew: Growing Up](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203198974)*. Jakarta: Elex Media Komputindo, 2018. (Call no. Malay 959.57092 NAB)
