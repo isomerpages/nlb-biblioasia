@@ -66,10 +66,19 @@ In 1987, Captain V was given his own comic book series when the first issue of T
 #### **Promoting Comics at the National Library Board**
 
 Besides building a collection of comics, the National Library Board (NLB) has hosted various comics events to increase the profile of local comic creators and spark interest in creating comics. 
+
 In 2005, NLB hosted the first Comix Jam at the National Library Building, followed by the 24-hour Comics Day Challenge at Bukit Merah Public Library in 2012 and a 12-hour variation at library@harbourfront in 2019.28 These were held in the “draw-a-thon” format that allowed participants an uninterrupted period of time to create comics (for the 24-hour Comics Day Challenge, participants had to create 24 pages of comics within 24 hours).
+
 NLB has also hosted longer comics workshops where participants underwent a comprehensive editorial and mentorship process of comic creation, with peer review of comic drafts. An extension of the 24-hour Comics Day Challenge, the first Panelgraph (the authoring of stories using comic-book panels) sessions were held at Toa Payoh Public Library from 2015 to 2016. The comics created during the sessions were compiled as digital issues and made available on the Panelgraph website.29
+
 In 2016, Tampines Regional Library was the venue for Places, a 13-week art co-creation workshop organised as part of the Community Arts & Culture Nodes initiative of the National Arts Council. Under the guidance of Gwee Li Swee – poet, graphic artist and author of several books, including the graphic novel Myth of the Stone – participants created comics with a select few compiled into an anthology.
+
 In the same year, Central Public Library played host to Speech Bubble, a month-long event comprising talks, workshops and an exhibition showcasing artefacts, books and original artworks from comic artists. Conceptualised by Sonny Liew and Lim Cheng Tju, the objective of the event was to celebrate Singapore comics and their rich and colourful history.30 
+
 NLB is also a venue sponsor of the Singapore Original Comics Festival, a month-long annual comic-based event that focuses on creating original content by Singaporeans. Organised by the Comics Society (Singapore) since 2015, the festival hopes to uncover new local talents and present new comic works. In 2019, a comics exhibition, a book launch and a panel discussion were held at Jurong Regional Library.31
+
 Gwee Li Sui’s “How to Fall in Love with Classics”, a popular series of lectures on literary classics organised by NLB, focused on graphic novels in the 6th instalment in April 2020. One of the graphic novels discussed was The Art of Charlie Chan Hock Chye (the recorded lecture is available online).32
-With all these ongoing efforts and initiatives by comic groups and societies in Singapore as well as various government grants, the comics scene is set to take off, or as Superman might say, to go “up, up and away”. 
+
+With all these ongoing efforts and initiatives by comic groups and societies in Singapore as well as various government grants, the comics scene is set to take off, or as Superman might say, to go “up, up and away”.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="">The writers would like to thank Lim Cheng Tju for reviewing this essay. His essays on comics have been published in <i>BiblioAsia</i> Vol. 7, issue 4 (March 2012) and Vol. 9, issue 3 (Oct–Dec 2013). For a list of the comics featured in this article, please scan this QR code.</div>
