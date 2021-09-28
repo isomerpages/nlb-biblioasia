@@ -61,10 +61,10 @@ The background setting of the Vietnam War is made even more significant by the f
 <img style="width: 330px; height: 450px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore3.JPG">
 <div style="background-color: white;">The lead character, Captain Art Smith of the Central Intelligence Agency, is played by Sean Flynn, son of legendary Hollywood actor Errol Flynn and French actress Lili Damita. The younger Flynn was then taking a break from his photojournalism stint in Vietnam during the war. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
+As freelance photojournalism did not pay well, Flynn went back to acting – something he had done from time to time since his teen years – to earn a fast buck. As Flynn had been in Vietnam and witnessed real action there, his sheer presence lent the film an added layer of authenticity.[^11] As it turned out, *Five Ashore* was to be Flynn’s last screen appearance before he returned to Vietnam to cover the war. He mysteriously disappeared in the spring of 1970 near the frontier between Cambodia and Vietnam, never to be found again. Flynn’s mother would reluctantly declare him dead in absentia in 1984.
+
 <img style="width: 340px; height: 450px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore5.JPG">
 <div style="background-color: white;">Sean Flynn (standing), who plays Captain Art Smith of the Central Intelligence Agency, in action with an unnamed Singaporean actor. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
-
-As freelance photojournalism did not pay well, Flynn went back to acting – something he had done from time to time since his teen years – to earn a fast buck. As Flynn had been in Vietnam and witnessed real action there, his sheer presence lent the film an added layer of authenticity.[^11] As it turned out, *Five Ashore* was to be Flynn’s last screen appearance before he returned to Vietnam to cover the war. He mysteriously disappeared in the spring of 1970 near the frontier between Cambodia and Vietnam, never to be found again. Flynn’s mother would reluctantly declare him dead in absentia in 1984.
 
 #### **Singapore in the Summer of 1966**
 
@@ -101,7 +101,7 @@ Sean Flynn – in what would be his final and, in this writer’s opinion, his b
 The main female lead went to Swedish-French model and actress Marika Green, who had recently gained fame for her role in Robert Bresson’s 1959 film, *Pickpocket*.[^23] With her shapely figure and requisite long legs, the actress was the perfect “Bond Girl”. All these performers were bilingual with the exception of Briton Terry Downes, whose lines had to be dubbed in French.
 
 <img style="width: 550px; height: 340px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore7.JPG">
-<div style="background-color: white;">The main female lead was played by Swedish-French model and actress Marika Green. With her blonde hair and shapely long legs, the actress was the perfect “Bond Girl”. French lobby card, 1967. Courtesy of Raphaël Millet.</i></div>
+<div style="background-color: white;">The main female lead was played by Swedish-French model and actress Marika Green. With her blonde hair and shapely long legs, the actress was the perfect “Bond Girl”. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 Several of the film’s key Asian supporting roles unfortunately followed in the tradition of “yellowface”, an early practice in the West (mostly on Broadway and in Hollywood) that saw Asian roles played by white actors. Hence, the mad scientist Ta Chouen was played by the Italian Andrea Aureli (credited by his Americanised stage name Andrew Ray); mama-san Tchin Saw by Trudy Connor; treacherous middleman Ten Sin, an improbable “Chinese” wearing a cap that resembles more a Muslim *songkok*, and played by Italian actor Jessy Greek (whose real name was Enzo Musumeci Greco); and odd-job man Kafir played by William Brix. All either wore terrible make-up, or appeared sans make-up, which only exaggerates the stereotyping to the point where one wonders if the yellowfacing was deliberate.
 
