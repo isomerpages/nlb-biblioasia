@@ -19,9 +19,9 @@ Chua, Dave and Max Loh. *[We’ll Eat When We’re Done.](http://eservice.nlb.go
 
 Chua, Morgan. *[L.K.Y. Political Cartoons.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200569051)* Singapore: Epigram Books, 2014. (Call no.  RSING 959.5704092 CHU)
 
+![Alt text for image on Isomer site](/images/comics-alliance.jpg)
 Deng, Eldred, ed. *[漫画同盟 [2001]](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10333975)*  [Comics Alliance 2001]. Singapore: Asiapac Books, 2001. (Call no. Chinese RSING 741.595957 COM)  
 
-![Alt text for image on Isomer site](/images/sacred-guardians.jpg)
 Djoeharie, Adyeel and Alan Bay. *[Sacred Guardians](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204402565).* Viency Lee, ed. Singapore: Asiapac Books, 2020. (Call no. RSING 741.595957 DJO)
 
 Drewscape. *[Monsters, Miracles and Mayonnaise.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14491581)* Singapore: Epigram Books, 2012. (Call no: RSING 741.595957 DRE)
@@ -34,7 +34,7 @@ Fong, Otto and Tan Peng Kian. *[Sir Fong's Adventures in Science. Book 6, Synthe
 
 Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *[Dim Sum Warriors Volume 1, Enter the Dumpling.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14636577)* New York: Yumcha Studios, 2012. (Call no. JR SING 741.595957 GOH)
 
-![Alt text for image on Isomer site](/images/dim-sum-new.jpg)
+![Alt text for image on Isomer site](/images/dim-sum-warriors-small.jpg)
 Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *[Dim Sum Warriors  Volume 2, Feast of Fury](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200158332)*. New York: Yumcha Studios, 2014. (Call no. JR SING 741.5 GOH)
 
 Goh, Colin. *[I was a Teenage Sex Slave: Yet Another Smutty Orchard Road Collection](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5777122)*. Singapore: Times Books International, 1990. (Call no. RSING 741.595957 GOH)
