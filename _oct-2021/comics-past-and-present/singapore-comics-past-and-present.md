@@ -82,3 +82,69 @@ Gwee Li Sui’s “How to Fall in Love with Classics”, a popular series of lec
 With all these ongoing efforts and initiatives by comic groups and societies in Singapore as well as various government grants, the comics scene is set to take off, or as Superman might say, to go “up, up and away”.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="">The writers would like to thank Lim Cheng Tju for reviewing this essay. His essays on comics have been published in <i>BiblioAsia</i> Vol. 7, issue 4 (March 2012) and Vol. 9, issue 3 (Oct–Dec 2013). For a list of the comics featured in this article, please scan this QR code.</div>
+
+#### **NOTES**
+
+[^1]: “Have I Got Old News for You: Glasgow is Home to World’s Oldest Comic,” The Herald, 24 June 2013, https://www.heraldscotland.com/life_style/arts_ents/13110858.got-old-news-glasgow-home-worlds-oldest-comic/.
+
+[^2]: Benson Ang, “Local Comics Nothing to Laugh At,” New Paper, 13 October 2013. (From NewspaperSG)
+
+[^3]: Drewscape, or Andrew Tan, compiled Moving Forward, along with 15 other comics, into an anthology titled Monsters, Miracles and Mayonnaise.
+
+[^4]: Lim Cheng Tju, “Current Trends in Singapore Comics: When Autobiography is Mainstream,” Kyoto Review of Southeast Asia, no. 16 (2014, September), https://kyotoreview.org/issue-16/current-trends-in-singapore-comics-when-autobiography-is-mainstream/.
+
+[^5]: The Resident Tourist series of books is available at the Lee Kong Chian Reference Library and at selected branch libraries. Check the catalogue for details. Read The Resident Tourist in web comic form, Webtoon, accessed 19 August 2021, https://www.webtoons.com/en/challenge/the-resident-tourist/list?title_no=248877.
+
+[^6]: Ang Thiam Poh has another comic series, 跳班 (Tiao Ban; Jump Class), also set in the classroom and written with Johnny Lau. Both series are available at the Lee Kong Chian Reference Library and at selected branch libraries. Check the catalogue for details. 
+
+[^7]: The books are available at the Lee Kong Chian Reference Library and at selected branch libraries. Check the catalogue for details.  
+
+[^8]: All these comic series are available at the Lee Kong Chian Reference and at selected branch libraries. Check the catalogue for details.  
+
+[^9]: Rebecca Lynne Tan, “Feeling Lucky to be with Lat,” Straits Times, 12 April 2009, 57. (From NewspaperSG)
+
+[^10]: Susan Sim, Making Singapore Safe: Thirty Years of the National Crime Prevention Council (Singapore: Marshall Cavendish Editions, 2011), 22. (From National Library, Singapore, Call no. RSING 364.4095957 SIM)
+
+[^11]: “Captain V Reports for Duty Against Crime,” Straits Times, 11 September 1985, 8. (From NewspaperSG) 
+
+[^12]: Goh and Woo directed the critically acclaimed movie Singapore Dreaming (2006). Goh previously worked on a long-standing comic strip, Orchard Road, published in The New Paper. The comics have been compiled into three volumes.
+
+[^13]: Olivia Ho, “Kungfu Dim Sum Musical Written by Singaporean Couple Takes off in Shanghai,” Straits Times, 19 August 2017, https://www.straitstimes.com/lifestyle/arts/kungfu-dim-sum-musical-written-by-singaporean-couple-takes-off-in-shanghai.
+
+[^14]: Tan Dawn Wei, “Colin Goh: From Talking Cock to Speaking Mandarin,” Straits Times, 20 July 2019, https://www.straitstimes.com/lifestyle/arts/from-talking-cock-to-speaking-mandarin.
+
+[^15]: “Sacred Guardian Singa,” tokuAsia Pte Ltd, accessed 22 August 2021, https://sacredguardians.tv/. 
+
+[^16]: “Posters,” National Environment Agency, last updated 2 July 2020, https://www.nea.gov.sg/corporate-functions/resources/educational-materials/posters.
+
+[^17]: The term “graphic medicine” was coined in 2007 by Dr Ian Williams, a comic artist and physician. The international movement to promote graphic medicine works can be found at Graphic Medicine, a site that explores the interaction between the medium of comics and the discourse of healthcare. See “Graphic Medicine,” Graphic Medicine International Collection, accessed 22 August 2021, https://graphicmedicine.org.
+
+[^18]: Willie and Bio, Tani of the Tigers (Singapore: Keng Yan Leng, [19--]). (From PublicationSG). 
+
+[^19]: “Page 7 Advertisements Column 1,” Malaya Tribune, 6 September 1949, 7. (From NewspaperSG).
+
+[^20]: Special thanks to the Malay Heritage Centre for providing more information on Nora Abdullah as they had done a write-up on Nora Abdullah for their “Women in Action” exhibition in 2018. Lim Cheng Tju has interviewed Nora Abdullah. See Lim Cheng Tju, “‘Art is My Blood’: A Short Interview with Nora Abdullah, Pioneer Female Malay Comic Artist,” International Journal of Comic Art 19, no. 1 (Spring/Summer 2017). (From National Library, Singapore, Call no. R 741.505 IJCA)
+
+[^21]: NLB has the reprint. See Nora Abdullah, Cik Siti Wan Kembang (London: The British Library, [2010–2013]). (From National Library, Singapore, Call no. Malay RCLOS 899.28 NOR) 
+
+[^22]: Lim Cheng Tju, Cartoons of Our Lives, Mirrors of Our Times: History of Political Cartoons in Singapore, 1959–1995 (Singapore: National University of Singapore, 1995), 3. (From National Library, Singapore, Call no. RSING q741.595957 LIM). The article can also be accessed at https://www.academia.edu/14994791/Singapore_Political_Cartooning.
+
+[^23]: “Straits Produce,” The Singapore Free Press and Mercantile Advertiser (Weekly), 2 January 1894, 443. (From NewspaperSG)
+
+[^24]: Straits Produce, Dream Awhile: Cartoons from Straits Produce Showing in Pictorial Form the Main Events in Local History (Singapore: Printers, 1932). (From National Library, Singapore, Call no. RCLOS 959.5 STR-[RFL])
+
+[^25]: Liu Kang, Chop Suey, 4 vols (Singapore: Eastern Art Co., 1946). (From National Library, Singapore, Call no. RRARE 959.5106 CHO); Timothy Pwee, “Cartoons of Terror,” in The Rare Materials Collection: Selections from the National Library (Singapore: National Library Board, [2020]), 102–105. (From National Library, Singapore, Call no. RSING 016.95957 SIN-[LIB])
+
+[^26]: For a further reading on Chop Suey, see Lim Cheng Tju, “Chop Suey – Cartoons About the Japanese Occupation and National Education in Singapore,” International Journal of Comic Art 6, no. 2 (Fall 2004): 415–30. (From National Library, Singapore, Call no. R 741.505 IJCA)
+
+[^27]: The launch of Charlie Chan in May 2015 was not without controversy. The National Arts Council publicly withdrew its S$8,000 grant on the eve of its official book launch due to “sensitive content”, particularly in the retelling of Singapore’s history, which “potentially undermines the authority or legitimacy of the government and its public institutions, and thus breaches our funding guidelines”. Likely as a result of the ensuing publicity, half of its first print run of 1,000 copies was sold out within a few days.
+
+[^28]: For the history of the 24-hour Comics Day in Singapore, see http://singaporecomix.blogspot.com/2013/03/24-hour-comics-day-exhibition.html.
+
+[^29]: The Panelgraph sessions were moved to *Scape from 2017 to 2018, and Panelgraph is today a community on Facebook. Their website (https://www.panelgraph.com) features five issues of comics created from 2015 to 2016.
+
+[^30]: Nur Asyiqin Mohamad Salleh, “Singapore Comics Celebrated at Month-long Event Speech Bubble,” Straits Times, 2 September 2016, https://www.straitstimes.com/lifestyle/arts/comics-in-singapore-pack-a-pow.
+
+[^31]: Find out more about the Singapore Original Comics Festival at https://www.sgocf.com.
+
+[^32]: The links to all “How to Fall in Love with Classics” lecture videos and notes up to the 6th instalment (comics) can be found at https://www.facebook.com/notes/335051027599649/.
