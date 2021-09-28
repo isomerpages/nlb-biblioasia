@@ -118,7 +118,7 @@ State controls and the exposure to Western education further put paid to the ser
 | Method | Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete. | Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days. | Reduce both ingredients to fine pulp. Apply to patient’s head. |
 | -------- | -------- | -------- | -------- |
 
-|Reference
+|**REFERENCE**
 
 |Burkill, I.H., & Ismail Munshi. (1930). [*The medical book of Malayan medicine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
 
