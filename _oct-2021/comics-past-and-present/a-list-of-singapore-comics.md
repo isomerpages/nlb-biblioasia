@@ -68,27 +68,27 @@ Liew, Sonny. *[The Art of Charlie Chan Hock Chye](http://eservice.nlb.gov.sg/ite
 Low, Travis and Li Shaoyang. *[The Secret of Redhill.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202249669)* Singapore: Funics, 2015. (Call no. JRSING 741.595957 LOW)
 
 ![Alt text for image on Isomer site](/images/the-lky-story.jpg)
-Nabeta, Yoshio and Yoshihide Fujiwara. *The LKY Story: Lee Kuan Yew, the Man Who Shaped a Nation.* Singapore: Shogakukan Asia, 2016. (Call no. RSING 959.5705092 NAB)
+Nabeta, Yoshio and Yoshihide Fujiwara. *[The LKY Story: Lee Kuan Yew, the Man Who Shaped a Nation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200569051).* Singapore: Shogakukan Asia, 2016. (Call no. RSING 959.5705092 NAB)
 
-Nabeta, Yoshio, Toshiki Takii and Hanna Francis. *[The Story of LKY: Lee Kuan Yew: Growing Up](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200569051)*. Jakarta: Elex Media Komputindo, 2018. (Call no. Malay 959.57092 NAB)
+Nabeta, Yoshio, Toshiki Takii and Hanna Francis. *[The Story of LKY: Lee Kuan Yew: Growing Up](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203198974)*. Jakarta: Elex Media Komputindo, 2018. (Call no. Malay 959.57092 NAB)
 
 Nora Abdullah. *[Bawang Puteh Bawang Merah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200082631)*. Singapore: Geliga, 1957. (From PublicationSG)
 
 Singapore Anti-narcotics Association. *[What If They Call Me Chicken?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=900094913)* Singapore: Singapore Anti-narcotics Association, 1979. (From PublicationSG)
 
-Tan, Budjette and Charis Loke. *Sound: A Comics Anthology*. Singapore: Difference Engine, 2020. (Call no. RSING 741.5959 SOU-[CMX])
+Tan, Budjette and Charis Loke. *[Sound: A Comics Anthology](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204511414)*. Singapore: Difference Engine, 2020. (Call no. RSING 741.5959 SOU-[CMX])
 
-Tan, James. *All Death Matters*. Singapore: Lien Foundation, 2020. (Call no. RSING 741.59597 TAN)
+Tan, James. *[All Death Matters](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204087129)*. Singapore: Lien Foundation, 2020. (Call no. RSING 741.59597 TAN)
 
-Tan, James. *All That Remains*. Singapore: Lien Foundation; Alzheimer's Disease Association, Singapore, 2018. (Call no. RSING 616.83 TAN)
+Tan, James. *[All That Remains](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203150724)*. Singapore: Lien Foundation; Alzheimer's Disease Association, Singapore, 2018. (Call no. RSING 616.83 TAN)
 
-Tan, James. *Final Resting Place*. Lim Cheng Tju, ed. Singapore: COSH Studio, 2017. (Call no. RSING 741.59597 TAN)
+Tan, James. *[Final Resting Place](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202955687)*. Lim Cheng Tju, ed. Singapore: COSH Studio, 2017. (Call no. RSING 741.59597 TAN)
 
 ![Alt text for image on Isomer site](/images/our-months-together-new.jpg)
-Wee Tian Beng, Liu Jia Hui and Yeo Hui San, eds. *Our Months Together: A Comics Anthology by 12 Artists*. Singapore: TCZ Studio, 2015. (Call no. RSING 741.595957 OUR)
+Wee Tian Beng, Liu Jia Hui and Yeo Hui San, eds. *[Our Months Together: A Comics Anthology by 12 Artists](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201344693)*. Singapore: TCZ Studio, 2015. (Call no. RSING 741.595957 OUR)
 
-Wild, Ronald. *蟒蛇党* [The Python Gang]. Singapore: n.p., n.d. (From PublicationSG)
+Wild, Ronald. *[蟒蛇党](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200077221)* [The Python Gang]. Singapore: n.p., n.d. (From PublicationSG)
 
-Wong, Roger. *The Valiant Pluto-man of Singapore*. Singapore: Fantasy Comics, 1983. (From PublicationSG)
+Wong, Roger. *[The Valiant Pluto-man of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085679)*. Singapore: Fantasy Comics, 1983. (From PublicationSG)
 
-Wu Jiahe 吴嘉禾. *新加坡啦.* [Singapore la]. Singapore: Lianhe Zaobao, 2006. (Call no. Chinese RSING 741.595957 WJH)
+Wu Jiahe 吴嘉禾. *[新加坡啦.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12829741)* [Singapore la]. Singapore: Lianhe Zaobao, 2006. (Call no. Chinese RSING 741.595957 WJH)
