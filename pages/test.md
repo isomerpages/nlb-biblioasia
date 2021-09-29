@@ -41,7 +41,7 @@ permalink: /test
 <div class="flex-container">
   <div class="flex-item-left"><img src=" /images/vol-17-issue-2/murals/Mural_Main2.jpg"  style="float:left; width:70%; height:auto;  border:10px solid #FFFFFF; class=responsive">
 </div>
-  <div class="flex-item-right">Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.
+  <div class="flex-item-right"><p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p>
 
 </div>
 </div>
