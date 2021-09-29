@@ -72,7 +72,7 @@ In 2016, Tampines Regional Library was the venue for Places, a 13-week art co-cr
 
 In the same year, Central Public Library played host to Speech Bubble, a month-long event comprising talks, workshops and an exhibition showcasing artefacts, books and original artworks from comic artists. Conceptualised by Sonny Liew and Lim Cheng Tju, the objective of the event was to celebrate Singapore comics and their rich and colourful history.[^30] 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/Places.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/Places2.jpg)
 <div style="background-color: white;">A compilation of comics created for Places, a 13-week art co-creation workshop, in 2016. <i>Image reproduced from Gwee Li Sui, ed., Places: A Graphic Anthology on the East of Singapore (Singapore: National Library Board, Singapore, [2016]). (From National Library, Singapore, call no. RSING 741.59597 PLA).</i></div>
 
 NLB is also a venue sponsor of the Singapore Original Comics Festival, a month-long annual comic-based event that focuses on creating original content by Singaporeans. Organised by the Comics Society (Singapore) since 2015, the festival hopes to uncover new local talents and present new comic works. In 2019, a comics exhibition, a book launch and a panel discussion were held at Jurong Regional Library.[^31]
@@ -81,7 +81,7 @@ Gwee Li Sui’s “How to Fall in Love with Classics”, a popular series of lec
 
 With all these ongoing efforts and initiatives by comic groups and societies in Singapore as well as various government grants, the comics scene is set to take off, or as Superman might say, to go “up, up and away”.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="/images/vol-17-issue-3/singapore-comics/QR%20Code.png">The writers would like to thank Lim Cheng Tju for reviewing this essay. His essays on comics have been published in <i>BiblioAsia</i> Vol. 7, issue 4 (March 2012) and Vol. 9, issue 3 (Oct–Dec 2013). For a list of the comics featured in this article, please scan this QR code.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="/images/vol-17-issue-3/singapore-comics/QR%20Code2.png">The writers would like to thank Lim Cheng Tju for reviewing this essay. His essays on comics have been published in <i>BiblioAsia</i> Vol. 7, issue 4 (March 2012) and Vol. 9, issue 3 (Oct–Dec 2013). For a list of the comics featured in this article, please scan this QR code.</div>
 
 <div style="background-color: white;">
 <br/>
