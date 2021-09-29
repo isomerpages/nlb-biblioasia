@@ -92,31 +92,31 @@ Namun, setiap perubahan ruang di mana bangsawan ini dipentaskan juga sering meni
 
 #### **RUJUKAN**
 
-Azlan Mohamed Said. (2013). Musika: Malaya’s early music scene 1900–1965. Singapore. (Call no.: RSEA 780.899928 AZL)
+Azlan Mohamed Said. (2013). *[Musika: Malaya’s early music scene 1900–1965](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14698347)*. Singapore. (Call no.: RSEA 780.899928 AZL)
 
-Chairul Fahmy Hussaini. (1995, Oktober 12). Bangsawan masih bernafas di kota Singa. Berita Harian, hlm 7. Diambil daripada NewspaperSG.
+Chairul Fahmy Hussaini. (1995, Oktober 12). [Bangsawan masih bernafas di kota Singa](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19951012-1.2.18.2.aspx). *Berita Harian*, hlm 7. Diambil daripada NewspaperSG.
 
-Mardiana Abu Bakar. (1988, September 8). Days of gold and glory. The Straits Times, hlm 5. Diambil daripada NewspaperSG.
+Mardiana Abu Bakar. (1988, September 8). [Days of gold and glory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880908-1.2.73.10.aspx). *The Straits Times*, hlm 5. Diambil daripada NewspaperSG.
 
-Maziaton Es. (1985, Mei 2). Kenangan manis bangsawan masih diingat ramai. The Straits Times, hlm 42. Diambil daripada NewspaperSG.
+Maziaton Es. (1985, Mei 2). [Kenangan manis bangsawan masih diingat ramai](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850502-1.2.75.10.3.aspx). *The Straits Times*, hlm 42. Diambil daripada NewspaperSG.
 
-Nazrul Amri. (1988, Mei 26). To be or not to be in bangsawan. The Straits Times, hlm 5. Diambil daripada NewspaperSG.
+Nazrul Amri. (1988, Mei 26). [To be or not to be in bangsawan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880526-1.2.67.8.1.aspx). *The Straits Times*, hlm 5. Diambil daripada NewspaperSG.
 
-Rahmah Bujang. (1975). Sejarah perkembangan drama bangsawan di tanah Melayu dan Singapura. Kuala Lumpur: Dewan Bahasa dan Pustaka. (No panggilan: Malay RSING 899.23009202 RAH)
+Rahmah Bujang. (1975). *[Sejarah perkembangan drama bangsawan di tanah Melayu dan Singapura](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1177043)*. Kuala Lumpur: Dewan Bahasa dan Pustaka. (No panggilan: Malay RSING 899.23009202 RAH)
 
-Rahmah Bujang. (1989). Seni persembahan bangsawan. Kuala Lumpur: Dewan Bahasa dan Pustaka. (No panggilan: Malay RART 792.09595 RAH)
+Rahmah Bujang. (1989). *[Seni persembahan bangsawan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5498150)*. Kuala Lumpur: Dewan Bahasa dan Pustaka. (No panggilan: Malay RART 792.09595 RAH)
 
-Sabri Buang. (1988, Januari 3). Di mana letaknya ketulenan bangsawan di Singapura hari ini? Berita Harian, hlm 6. Diambil daripada NewspaperSG.
+Sabri Buang. (1988, Januari 3). [Di mana letaknya ketulenan bangsawan di Singapura hari ini?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19880103-1.2.17.2.aspx) *Berita Harian*, hlm 6. Diambil daripada NewspaperSG.
 
-Sabri Buang. (1990, Jun 28). Taking root. The Straits Times, hlm 5. Diambil daripada NewspaperSG.
+Sabri Buang. (1990, Jun 28). [Taking root](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900628-1.2.64.12.5.aspx). *The Straits Times*, hlm 5. Diambil daripada NewspaperSG.
 
-Sri Mamanda Bangsawan Raden Mas 2016. Retrieved from allevents. in Singapore website.
+*Sri Mamanda Bangsawan Raden Mas 2016*. Retrieved from allevents. in Singapore website.
 
-Syed Mohd Zakir. (2016). Bangsawan Raden Mas Nadiputra (hlm 1). (Not available in NLB holdings)
+Syed Mohd Zakir. (2016). *Bangsawan Raden Mas Nadiputra* (hlm 1). (Not available in NLB holdings)
 
-Tan, S.B. (1997). Bangsawan. A social and stylistic history of popular Malay opera. The Asian Centre. (No panggilan: RSEA 782.1095951 TAN)
+Tan, S.B. (1997). *[Bangsawan. A social and stylistic history of popular Malay opera](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9454231)*. The Asian Centre. (No panggilan: RSEA 782.1095951 TAN)
 
-Wayang Kassim. (1904, Mei 18). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), hlm 2. Diambil daripada NewspaperSG.
+[Wayang Kassim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19040518-1.2.8.aspx). (1904, Mei 18). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), hlm 2. Diambil daripada NewspaperSG.
 
 #### **NOTA**
 
