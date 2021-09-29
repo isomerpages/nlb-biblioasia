@@ -112,9 +112,9 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^2]:National Library Board. (2014, December 23). *[Singapore’s first television station](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1064_2006-04-03.html)*. Retrieved from Singapore Infopedia website.
 
-[^3]:Programme for TV pilot service. (1963, February 14). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^3]:[Programme for TV pilot service](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630214-1.2.34.11). (1963, February 14). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^4]:Koh, T., et al. (Eds). (2006). Singapore: The encyclopedia (p. 554). Singapore: Editions Didier Millet in association with the National Heritage Board. (Call no.: RSING 959.57003 SIN)
+[^4]:Koh, T., et al. (Eds). (2006). *[Singapore: The encyclopedia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833)* (p. 554). Singapore: Editions Didier Millet in association with the National Heritage Board. (Call no.: RSING 959.57003 SIN)
 
 [^5]:Lent, J.A. (Ed.). (1978). Broadcasting in Asia and the Pacific: A continental survey of radio and television (p. 161). Philadelphia: Temple University Press. (Call no.: RSEA 384.5095 BRO)
 
@@ -158,14 +158,14 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^25]:Chua, L.H. (2000, March 11). Media restructuring: The million-$ question. The Straits Times, p. 79; Chua, M.H. (2000, June 6). SPH offered broadcast licences, Mediacorp a print licence. The Straits Times, p. 1. Retrieved from NewspaperSG. 
 
-[^26]:Chia, S.-A. (2004, October 20). No going back on opening up media market. The Straits Times, p. 7; Chua, M.H. (2004, September 19). Media marriage: Happily ever after? The Straits Times, p. 25. Retrieved from NewspaperSG; Singapore Press Holdings. (2004, September 17). Mediacorp and Singapore Press Holdings merge their TV and free newspaper operations [Press release]. Retrieved from SPH website.
+[^26]:Chia, S.-A. (2004, October 20). [No going back on opening up media market](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20041020-1.2.37.18.10). *The Straits Times*, p. 7; Chua, M.H. (2004, September 19). [Media marriage: Happily ever after?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040919-1.2.31.1) *The Straits Times*, p. 25. Retrieved from NewspaperSG; Singapore Press Holdings. (2004, September 17). *Mediacorp and Singapore Press Holdings merge their TV and free newspaper operations* [Press release]. Retrieved from SPH website.
 
-[^27]:Osborne, M. (2001, May 21–27). Mediacorp fights for dominance in TV arena. Variety, Special Report, p. 41. Retrieved from ProQuest via NLB’s eResources website.
+[^27]:Osborne, M. (2001, May 21–27). Mediacorp fights for dominance in TV arena. *Variety, Special Report*, p. 41. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^28]:Lim, T. (2004). Let the contests begin! ‘Singapore slings’ into action: Singapore in the global television format business (p. 114). In A. Moran & M. Keane. (Eds.), Television across Asia. London and New York: Routledge Curzon. (Not available in NLB holdings)
+[^28]:Lim, T. (2004). Let the contests begin!* ‘Singapore slings’ into action: Singapore in the global television format business* (p. 114). In A. Moran & M. Keane. (Eds.), Television across Asia. London and New York: Routledge Curzon. (Not available in NLB holdings)
 
-[^29]:Mediacorp Pte Ltd. (2013, March 20). Mediacorp sold The Arena programme format to Thai PBS; Mediacorp Pte Ltd. (2013, July 15). Mediacorp’s content sales in Vietnam hit an all-time high; Mediacorp Pte Ltd. (2013, May 15). Vettai acquired by Malaysian channel ntv7; Mediacorp Pte Ltd. (2009, September 10). A Mediacorp time-belt on the Philippines’ TV5 – A total of 520 hours of content to be scheduled in the first year!; Mediacorp Pte Ltd. (2012, October 18). Mediacorp sold more than 100 hours of content to TVB & 8TV; Mediacorp Pte Ltd. (2012, November 22). Mediacorp’s international channel 8i turns one on Indovision!; Mediacorp Pte Ltd. (2013, January 3). Mediacorp sold 61 hours of variety programmes to Asia Travel TV in Taiwan! All press releases retrieved from Mediacorp website. 
+[^29]:Mediacorp Pte Ltd. (2013, March 20). *Mediacorp sold The Arena programme format to Thai PBS*; Mediacorp Pte Ltd. (2013, July 15). *Mediacorp’s content sales in Vietnam hit an all-time high*; Mediacorp Pte Ltd. (2013, May 15). Vettai acquired by Malaysian channel ntv7; Mediacorp Pte Ltd. (2009, September 10). *A Mediacorp time-belt on the Philippines’ TV5 – A total of 520 hours of content to be scheduled in the first year!*; Mediacorp Pte Ltd. (2012, October 18). *Mediacorp sold more than 100 hours of content to TVB & 8TV*; Mediacorp Pte Ltd. (2012, November 22). *Mediacorp’s international channel 8i turns one on Indovision!*; Mediacorp Pte Ltd. (2013, January 3). *Mediacorp sold 61 hours of variety programmes to Asia Travel TV in Taiwan!* All press releases retrieved from Mediacorp website. 
 
-[^30]:Media Development Authority. (2014). Broadcast & public service broadcast. Retrieved from MDA website.
+[^30]:Media Development Authority. (2014). *Broadcast & public service broadcast*. Retrieved from MDA website.
 
-[^31]:Media Development Authority. (2015, December 2). HBO Asia works with the Media Development Authority of Singapore to develop local drama production capabilities [Press release]; Media Development Authority. (2014, October 9). Fact Sheet – Singapore makes strong showing at MIPCOM with line-up of over 530 hours of Asian and original TV and animation content [Press release]; Media Development Authority. (2014). Grants & schemes. Retrieved from MDA website.
+[^31]:Media Development Authority. (2015, December 2). *HBO Asia works with the Media Development Authority of Singapore to develop local drama production capabilities* [Press release]; Media Development Authority. (2014, October 9). *Fact Sheet – Singapore makes strong showing at MIPCOM with line-up of over 530 hours of Asian and original TV and animation content* [Press release]; Media Development Authority. (2014). Grants & schemes. Retrieved from MDA website.
