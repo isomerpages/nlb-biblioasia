@@ -22,7 +22,7 @@ Asal mula bangsawan sebenarnya bukanlah dari rantau ini, sebaliknya bangsawan la
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/02-seni.bmp">Gambar awal pementasan bangsawan, 1900. Koleksi Mohd Amin Bin Kadarisman. <i>Ihsan Arkib Negara Singapura.</i></div>
 
-Wayang Parsi ini kemudian diambil alih oleh tuan dari kalangan Jawi Pekan tempatan bernama Mohamed Pusi pada tahun 1884 dan diberikan nama Wayang Bangsawan. Mohamed Pusi merupakan seorang  artawan di Pulau Pinang dan bertanggungjawab menubuhkan sebuah “kumpulan bangsawan secara professional yang pertama setelah beliau membeli perkakas-perkakas serta kelengkapan pementasan dari  rombongan Wayang Parsi”.[^4] Nama kumpulan bangsawan pertama ialah Pusi Indera Bangsawan of Penang yang bergiat pada tahun 1885 yang menggunakan Bahasa Melayu dan menjadi titik tolak penerapan pengaruh-pengaruh “Melayu” dalam aspek-aspek pementasan.
+Wayang Parsi ini kemudian diambil alih oleh tuan dari kalangan Jawi Pekan tempatan bernama Mohamed Pusi pada tahun 1884 dan diberikan nama Wayang Bangsawan. Mohamed Pusi merupakan seorang artawan di Pulau Pinang dan bertanggungjawab menubuhkan sebuah “kumpulan bangsawan secara professional yang pertama setelah beliau membeli perkakas-perkakas serta kelengkapan pementasan dari  rombongan Wayang Parsi”.[^4] Nama kumpulan bangsawan pertama ialah Pusi Indera Bangsawan of Penang yang bergiat pada tahun 1885 yang menggunakan Bahasa Melayu dan menjadi titik tolak penerapan pengaruh-pengaruh “Melayu” dalam aspek-aspek pementasan.
 
 #### **Perkembangan Bangsawan**
 
@@ -56,7 +56,7 @@ Dalam kajian Rahmah Bujang,[^12] terdapat beberapa kumpulan bangsawan yang perna
 
 <div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/04-seni.bmp">Gambar awal pementasan bangsawan, 1900. Koleksi Mohd Amin Bin Kadarisman. <i>Ihsan Arkib Negara Singapura.</i></div>
 
-Star Opera merupakan sebuah kumpulan lagi yang terdapat di Singapura. Kumpulan ini telah ada sejak tahun 1919. Pelakon lelakinya ialah Khairuddin Tairo. Nahar Bangsawan merupakan sebuah lagi kumpulan yang ditubuhkan di Singapura.Pada tahun 1920, ia telah membuat sebuah pementasan di Geylang. Tuan  punya kumpulan bangsawan ini ialah Syed Ahmad Alsagoff dan pelakon utamanya Cik Sartinah.
+Star Opera merupakan sebuah kumpulan lagi yang terdapat di Singapura. Kumpulan ini telah ada sejak tahun 1919. Pelakon lelakinya ialah Khairuddin Tairo. Nahar Bangsawan merupakan sebuah lagi kumpulan yang ditubuhkan di Singapura. Pada tahun 1920, ia telah membuat sebuah pementasan di Geylang. Tuan  punya kumpulan bangsawan ini ialah Syed Ahmad Alsagoff dan pelakon utamanya Cik Sartinah.
 
 #### **Tradisi Improvisasi**
 
