@@ -10,11 +10,12 @@ permalink: /test
   width: 90%;
 		}
 		<div class="container">
+			<div class="row">
 			<div class="column half">
 <h2>The Forgotten Murals of Paya Lebar Airport</h2> 
 	</div>
 	<div class="column half">
-		<h2> box 2</h2>
+		<img src=" /images/vol-17-issue-2/murals/Mural_Main2.jpg"  style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF; class=responsive"> 
 			</div>				
 </body>
 </html>
