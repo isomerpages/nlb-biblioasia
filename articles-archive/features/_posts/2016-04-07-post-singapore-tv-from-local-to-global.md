@@ -110,7 +110,7 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^1]:All six seasons of *Growing Up* are available for viewing on Mediacorp’s online Toggle platform.
 
-[^2]:National Library Board. (2014, December 23). Singapore’s first television station. Retrieved from Singapore Infopedia website.
+[^2]:National Library Board. (2014, December 23). *[Singapore’s first television station](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1064_2006-04-03.html)*. Retrieved from Singapore Infopedia website.
 
 [^3]:Programme for TV pilot service. (1963, February 14). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
