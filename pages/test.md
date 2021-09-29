@@ -18,6 +18,12 @@ permalink: /test
 			display: grid;
 			grid-template-columns: repeat(auto-fit,mixmax(250px, 1fr));
 			grid-gap: 20px;
+		}
+			.box{
+			height: 200px;
+			colour: white;
+			border: 2px solid white;
+			postition: relative;
 			
 			}
 			</style>
