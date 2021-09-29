@@ -108,7 +108,7 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 #### **NOTES**
 
-[^1]:All six seasons of Growing Up are available for viewing on Mediacorp’s online Toggle platform.
+[^1]:All six seasons of *Growing Up* are available for viewing on Mediacorp’s online Toggle platform.
 
 [^2]:National Library Board. (2014, December 23). Singapore’s first television station. Retrieved from Singapore Infopedia website.
 
