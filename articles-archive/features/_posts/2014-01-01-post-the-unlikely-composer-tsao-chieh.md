@@ -4,7 +4,7 @@ date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/tsao-chieh
 layout: post
 ---
-#### Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. **Jun Zubillaga-Pow** traces the life of this underrated artist.s
+#### Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. **Jun Zubillaga-Pow** traces the life of this underrated artist.
 
 Tsao Chieh working on a composition in 1986. <i>Courtesy of Vivien Chen.</i>
 
