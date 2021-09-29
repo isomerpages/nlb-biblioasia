@@ -60,11 +60,11 @@ English-language dramas in Singapore had a rockier start. The English Drama Divi
 
 Eventually, producers struck the right chord with viewers with Under One Roof (1994), about “Singapore’s funniest family” living in a public housing estate in the middle-class suburb of Bishan. Under One Roof ran for nine years and remains one of TCS’ greatest commercial successes, garnering multiple wins at the Asian Television Awards over its seasons.19
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-1/singapore-tv/04-singaporetv.bmp">Under One Roof, about “Singapore’s funniest family” living in a public housing estate in the middle-class suburb of Bishan, ran for nine years and remains one of TCS’ greatest commercial successes, garnering multiple wins at the Asian Television Awards over its seasons. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-1/singapore-tv/04-singaporetv.bmp">Under One Roof, about “Singapore’s funniest family” living in a public housing estate in the middle-class suburb of Bishan, ran for nine years and remains one of TCS’ greatest commercial successes, garnering multiple wins at the Asian Television Awards over its seasons. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
 
 In 1996, TCS struck gold again with *Growing Up*, which “was praised for its convincing performances, high-quality scriptwriting and credible depiction of Singapore in the formative post-separation years”.[^20] Buoyed by its success, the English Drama Division went on to tackle modern-day themes, churning out a series of shows around corporate and “dot.com” lifestyles such as *Three Rooms* (1997), *VR Man* (1998) and *Spin* (1999). These, however, gave way to local sitcoms as audiences sought relief from the Asian financial crisis in the late 1990s. *Phua Chu Kang* (1997) rode on this wave, cheering up audiences with its delightfully subversive storylines that appeared to go against the grain of governmental exhortations, e.g. to speak good English, have (more) children, and work hard.[^21] Audiences embraced the loveable Singlish-speaking contractor, Phua Chu Kang – “the best in Singapore, JB and some say Batam” – and his dysfunctional family members for 10 years, making the show Singapore’s longest-running English-language sitcom.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-1/singapore-tv/06-singaporetv.bmp">Audiences embraced the loveable Singlish-speaking contractor, Phua Chu Kang – “the best in Singapore, JB and some say Batam” – and his dysfunctional family members for 10 years, making the show Singapore’s longest-running English-language sitcom. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-1/singapore-tv/06-singaporetv.bmp">Audiences embraced the loveable Singlish-speaking contractor, Phua Chu Kang – “the best in Singapore, JB and some say Batam” – and his dysfunctional family members for 10 years, making the show Singapore’s longest-running English-language sitcom. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
 
 #### **Making News**
 
@@ -96,7 +96,7 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 #### **Timeline of Television**
 
-<img style="width:800px"  src="/images/Vol-12-issue-1/singapore-tv/08-singaporetv.jpg"><br>
+<img style="width:800px" src="/images/Vol-12-issue-1/singapore-tv/08-singaporetv.jpg"><br>
 
 <div style="background-color: white;">
 <br>
@@ -107,3 +107,65 @@ Several times a year, MDA leads delegations of local media companies to major in
 <a href="/vol-12/issue-1/apr-jun-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
+
+[^1]:All six seasons of Growing Up are available for viewing on Mediacorp’s online Toggle platform.
+
+[^2]:National Library Board. (2014, December 23). Singapore’s first television station. Retrieved from Singapore Infopedia website.
+
+[^3]:Programme for TV pilot service. (1963, February 14). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[^4]:Koh, T., et al. (Eds). (2006). Singapore: The encyclopedia (p. 554). Singapore: Editions Didier Millet in association with the National Heritage Board. (Call no.: RSING 959.57003 SIN)
+
+[^5]:Lent, J.A. (Ed.). (1978). Broadcasting in Asia and the Pacific: A continental survey of radio and television (p. 161). Philadelphia: Temple University Press. (Call no.: RSEA 384.5095 BRO)
+
+[^6]:National Library Board. (2015, March). Singapore Broadcasting Corporation is established. Retrieved from HistorySG.
+
+[^7]:Mahbubani, G. (1980, March 26). High hopes and old problems for the new station. The Straits Times, p. 8. Retrieved from NewspaperSG; Singapore. Parliament. Parliamentary debates: Official report. (1979, December 11). Third Reading of the Singapore Broadcasting  Corporation Bill (Vol. 39, col. 535). Singapore: [s.n]. (Call no.: RSING 328.5957 SIN)
+
+[^8]:Ramesh, S. (2012, March 2). Public Service Broadcast Review panel’s ideas to improve programmes. Retrieved from Channel NewsAsia website.
+
+[^9]:Channel NewsAsia. (2012, July 9). MDA gave S$470m in support of public service broadcasting over past 5 years. Retrieved from Channel NewsAsia website; Ministry of Communications and Information. (2014, November 20). Public Service Broadcast (PSB) programmes. Retrieved from Ministry of Communications and Information website. Government funding for PSB programmes rose 35 percent from S$470 million (FY2007–11) to S$630 million (FY2012–16). This supports over 4,000 hours of programmes each year, about half of which are produced locally and the rest (e.g. educational, arts and cultural programmes) acquired from abroad.] 
+
+[^10]:Generally, only foreign embassies, financial institutions, hotels and selected educational institutions are allowed to install satellite dishes or subscribe to satellite TV operators. See Satellite dishes OK for hotels, some schools. (2003, June 21). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+
+[^11]:National Library Board. (1992). First subscription television channel written by Nureza Ahmad. Retrieved from Singapore Infopedia website.
+
+[^12]:Ang, P.H. (2007). Singapore media (p. 17). [Unpublished manuscript]. Retrieved from Nanyang Technological University wesbite.
+
+[^13]:Keshishoglou, J., & Aquilia, P. (2005). Electronic broadcast media in Singapore and the region (p. 82). Singapore: Asian Media Information and Communication Centre: Nanyang Technological University; Australia: Thomson Learning. (Call no.: RSING q384.0959 KES)
+
+[^14]:Ang, 2007, p. 17.
+
+[^15]:Chan, B. (2013, May 30). 50 years of TV. *The Straits Times*, pp. 6–7. Retrieved from NewspaperSG.
+
+[^16]:Koh, 2006, p. 556.
+
+[^17]:Mediacorp Pte Ltd. (2015). Activities/News. Retrieved from Mediacorp website.
+
+[^18]:Koh, 2006, p. 556.
+
+[^19]:Tan, K.P. (2008). Cinema and television in Singapore: Resistance in one dimension (p. 126). Leiden; Boston: Brill. (Call no.: RSING 791.43095957 TAN)
+
+[^20]:Koh, 2006, p. 556.
+
+[^21]:Tan, 2008, p. 137.
+
+[^22]:Ministry of Information and the Arts. (1999. March 1). Speech by George Yeo, Minister for Information and the Arts and 2nd Minister For Trade & Industry, at the launch of Channel NewsAsia on 1st March, 1999 at 9.00am [Speech]. Retrieved from National Archives of Singapore website.
+
+[^23]:*Channel NewsAsia*. (n.d.). About us: Our coverage. Retrieved from Channel NewsAsia website. 
+
+[^24]:Mediacorp Pte Ltd. (2011). Mediacorp interactive history. Retrieved from Mediacorp website. 
+
+[^25]:Chua, L.H. (2000, March 11). Media restructuring: The million-$ question. The Straits Times, p. 79; Chua, M.H. (2000, June 6). SPH offered broadcast licences, Mediacorp a print licence. The Straits Times, p. 1. Retrieved from NewspaperSG. 
+
+[^26]:Chia, S.-A. (2004, October 20). No going back on opening up media market. The Straits Times, p. 7; Chua, M.H. (2004, September 19). Media marriage: Happily ever after? The Straits Times, p. 25. Retrieved from NewspaperSG; Singapore Press Holdings. (2004, September 17). Mediacorp and Singapore Press Holdings merge their TV and free newspaper operations [Press release]. Retrieved from SPH website.
+
+[^27]:Osborne, M. (2001, May 21–27). Mediacorp fights for dominance in TV arena. Variety, Special Report, p. 41. Retrieved from ProQuest via NLB’s eResources website.
+
+[^28]:Lim, T. (2004). Let the contests begin! ‘Singapore slings’ into action: Singapore in the global television format business (p. 114). In A. Moran & M. Keane. (Eds.), Television across Asia. London and New York: Routledge Curzon. (Not available in NLB holdings)
+
+[^29]:Mediacorp Pte Ltd. (2013, March 20). Mediacorp sold The Arena programme format to Thai PBS; Mediacorp Pte Ltd. (2013, July 15). Mediacorp’s content sales in Vietnam hit an all-time high; Mediacorp Pte Ltd. (2013, May 15). Vettai acquired by Malaysian channel ntv7; Mediacorp Pte Ltd. (2009, September 10). A Mediacorp time-belt on the Philippines’ TV5 – A total of 520 hours of content to be scheduled in the first year!; Mediacorp Pte Ltd. (2012, October 18). Mediacorp sold more than 100 hours of content to TVB & 8TV; Mediacorp Pte Ltd. (2012, November 22). Mediacorp’s international channel 8i turns one on Indovision!; Mediacorp Pte Ltd. (2013, January 3). Mediacorp sold 61 hours of variety programmes to Asia Travel TV in Taiwan! All press releases retrieved from Mediacorp website. 
+
+[^30]:Media Development Authority. (2014). Broadcast & public service broadcast. Retrieved from MDA website.
+
+[^31]:Media Development Authority. (2015, December 2). HBO Asia works with the Media Development Authority of Singapore to develop local drama production capabilities [Press release]; Media Development Authority. (2014, October 9). Fact Sheet – Singapore makes strong showing at MIPCOM with line-up of over 530 hours of Asian and original TV and animation content [Press release]; Media Development Authority. (2014). Grants & schemes. Retrieved from MDA website.
