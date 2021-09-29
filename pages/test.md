@@ -24,8 +24,15 @@ permalink: /test
 			colour: white;
 			border: 2px solid white;
 			postition: relative;
-			
+						}
+			h2{
+			margin: 0;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
 			}
+			
 			</style>
 	</head>
 	<body>
