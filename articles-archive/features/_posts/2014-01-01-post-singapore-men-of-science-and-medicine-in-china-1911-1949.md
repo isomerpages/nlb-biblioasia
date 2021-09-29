@@ -84,4 +84,4 @@ Wu, together with the Lims and the other Overseas Chinese, represent an unsung g
 <p style="font-size:15px;"><b>Wayne Soon</b> was a Lee Kong Chian Research Fellow at the National Library and is currently a PhD candidate in the History Department at Princeton University. His dissertation examines the history of Western medicine In China, with a focus on the new medical institutions created by Overseas Chinese doctors in China during the first half of the 20th century.</p>
 
 
-<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
