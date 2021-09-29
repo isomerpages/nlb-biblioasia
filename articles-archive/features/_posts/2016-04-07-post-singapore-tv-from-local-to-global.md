@@ -122,41 +122,41 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^7]:Mahbubani, G. (1980, March 26). High hopes and old problems for the new station. The Straits Times, p. 8. Retrieved from NewspaperSG; Singapore. Parliament. Parliamentary debates: Official report. (1979, December 11). Third Reading of the Singapore Broadcasting  Corporation Bill (Vol. 39, col. 535). Singapore: [s.n]. (Call no.: RSING 328.5957 SIN)
 
-[^8]:Ramesh, S. (2012, March 2). Public Service Broadcast Review panel’s ideas to improve programmes. Retrieved from Channel NewsAsia website.
+[^8]:Ramesh, S. (2012, March 2). Public Service Broadcast Review panel’s ideas to improve programmes. Retrieved from *Channel NewsAsia* website.
 
-[^9]:Channel NewsAsia. (2012, July 9). MDA gave S$470m in support of public service broadcasting over past 5 years. Retrieved from Channel NewsAsia website; Ministry of Communications and Information. (2014, November 20). Public Service Broadcast (PSB) programmes. Retrieved from Ministry of Communications and Information website. Government funding for PSB programmes rose 35 percent from S$470 million (FY2007–11) to S$630 million (FY2012–16). This supports over 4,000 hours of programmes each year, about half of which are produced locally and the rest (e.g. educational, arts and cultural programmes) acquired from abroad.] 
+[^9]:Channel NewsAsia. (2012, July 9). MDA gave S$470m in support of public service broadcasting over past 5 years. Retrieved from Channel NewsAsia website; Ministry of Communications and Information. (2014, November 20). *Public Service Broadcast (PSB) programmes*. Retrieved from Ministry of Communications and Information website. Government funding for PSB programmes rose 35 percent from S$470 million (FY2007–11) to S$630 million (FY2012–16). This supports over 4,000 hours of programmes each year, about half of which are produced locally and the rest (e.g. educational, arts and cultural programmes) acquired from abroad.] 
 
-[^10]:Generally, only foreign embassies, financial institutions, hotels and selected educational institutions are allowed to install satellite dishes or subscribe to satellite TV operators. See Satellite dishes OK for hotels, some schools. (2003, June 21). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+[^10]:Generally, only foreign embassies, financial institutions, hotels and selected educational institutions are allowed to install satellite dishes or subscribe to satellite TV operators. See [Satellite dishes OK for hotels, some schools](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030621-1.2.46.14). (2003, June 21). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^11]:National Library Board. (1992). First subscription television channel written by Nureza Ahmad. Retrieved from Singapore Infopedia website.
+[^11]:National Library Board. (1992). *[First subscription television channel](https://eresources.nlb.gov.sg/infopedia/articles/SIP_438_2004-12-28.html)* written by Nureza Ahmad. Retrieved from Singapore Infopedia website.
 
-[^12]:Ang, P.H. (2007). Singapore media (p. 17). [Unpublished manuscript]. Retrieved from Nanyang Technological University wesbite.
+[^12]:Ang, P.H. (2007). *Singapore media* (p. 17). [Unpublished manuscript]. Retrieved from Nanyang Technological University wesbite.
 
-[^13]:Keshishoglou, J., & Aquilia, P. (2005). Electronic broadcast media in Singapore and the region (p. 82). Singapore: Asian Media Information and Communication Centre: Nanyang Technological University; Australia: Thomson Learning. (Call no.: RSING q384.0959 KES)
+[^13]:Keshishoglou, J., & Aquilia, P. (2005). *[Electronic broadcast media in Singapore and the region](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12332388)* (p. 82). Singapore: Asian Media Information and Communication Centre: Nanyang Technological University; Australia: Thomson Learning. (Call no.: RSING q384.0959 KES)
 
 [^14]:Ang, 2007, p. 17.
 
-[^15]:Chan, B. (2013, May 30). 50 years of TV. *The Straits Times*, pp. 6–7. Retrieved from NewspaperSG.
+[^15]:Chan, B. (2013, May 30). [50 years of TV](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130530-1.2.62.5.1). *The Straits Times*, pp. 6–7. Retrieved from NewspaperSG.
 
-[^16]:Koh, 2006, p. 556.
+[^16]:[Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 556.
 
-[^17]:Mediacorp Pte Ltd. (2015). Activities/News. Retrieved from Mediacorp website.
+[^17]:Mediacorp Pte Ltd. (2015). *Activities/News*. Retrieved from Mediacorp website.
 
-[^18]:Koh, 2006, p. 556.
+[^18]:[Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 556.
 
-[^19]:Tan, K.P. (2008). Cinema and television in Singapore: Resistance in one dimension (p. 126). Leiden; Boston: Brill. (Call no.: RSING 791.43095957 TAN)
+[^19]:Tan, K.P. (2008). *[Cinema and television in Singapore: Resistance in one dimension](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13003198)* (p. 126). Leiden; Boston: Brill. (Call no.: RSING 791.43095957 TAN)
 
-[^20]:Koh, 2006, p. 556.
+[^20]:[Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 556.
 
-[^21]:Tan, 2008, p. 137.
+[^21]:[Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13003198), 2008, p. 137.
 
-[^22]:Ministry of Information and the Arts. (1999. March 1). Speech by George Yeo, Minister for Information and the Arts and 2nd Minister For Trade & Industry, at the launch of Channel NewsAsia on 1st March, 1999 at 9.00am [Speech]. Retrieved from National Archives of Singapore website.
+[^22]:Ministry of Information and the Arts. (1999. March 1). *[Speech by George Yeo, Minister for Information and the Arts and 2nd Minister For Trade & Industry, at the launch of Channel NewsAsia on 1st March, 1999 at 9.00am](https://www.nas.gov.sg/archivesonline/speeches/record-details/7579362a-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
 [^23]:*Channel NewsAsia*. (n.d.). About us: Our coverage. Retrieved from Channel NewsAsia website. 
 
-[^24]:Mediacorp Pte Ltd. (2011). Mediacorp interactive history. Retrieved from Mediacorp website. 
+[^24]:Mediacorp Pte Ltd. (2011). *Mediacorp interactive history*. Retrieved from Mediacorp website. 
 
-[^25]:Chua, L.H. (2000, March 11). Media restructuring: The million-$ question. The Straits Times, p. 79; Chua, M.H. (2000, June 6). SPH offered broadcast licences, Mediacorp a print licence. The Straits Times, p. 1. Retrieved from NewspaperSG. 
+[^25]:Chua, L.H. (2000, March 11). [Media restructuring: The million-$ question](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000311-1.2.98.3). *The Straits Times*, p. 79; Chua, M.H. (2000, June 6). [SPH offered broadcast licences, Mediacorp a print licence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000606-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG. 
 
 [^26]:Chia, S.-A. (2004, October 20). [No going back on opening up media market](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20041020-1.2.37.18.10). *The Straits Times*, p. 7; Chua, M.H. (2004, September 19). [Media marriage: Happily ever after?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040919-1.2.31.1) *The Straits Times*, p. 25. Retrieved from NewspaperSG; Singapore Press Holdings. (2004, September 17). *Mediacorp and Singapore Press Holdings merge their TV and free newspaper operations* [Press release]. Retrieved from SPH website.
 
