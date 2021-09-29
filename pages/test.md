@@ -10,7 +10,6 @@ permalink: /test
 		<style>
 			body{
 			margin:0;
-			height:100vh;
 			display: flex;
 						}
 			.container{
