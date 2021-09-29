@@ -36,15 +36,19 @@ permalink: /test
 </head>
 <body>
 
-<h1>Responsive Flexbox</h1>
+<h4>The Forgotten Murals of Paya Lebar Airport
+</h4>
 
 <p>In this example, we change the percentage of flex to create different layouts for different screen sizes.</p>
 <p><b>Resize the browser window to see that the direction changes when the 
 screen size is 800px wide or smaller.</b></p>
 
 <div class="flex-container">
-  <div class="flex-item-left">1</div>
-  <div class="flex-item-right">2</div>
+  <div class="flex-item-left"><img src=" /images/vol-17-issue-2/murals/Mural_Main2.jpg"  style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF; class=responsive">
+</div>
+  <div class="flex-item-right">Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.
+
+</div>
 </div>
 
 </body>
