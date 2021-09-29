@@ -29,8 +29,6 @@ permalink: /test
 			</div>
 						<div class="box">
 				<h2> box 2</h2>
-			</div>
-				
- 		
+			</div>				
 </body>
 </html>
