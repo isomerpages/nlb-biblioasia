@@ -2,23 +2,45 @@
 title: test
 permalink: /test
 ---
+<!DOCTYPE html>
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-		.container{
-		  margin: 0 auto;
-  max-width: 48rem;
-  width: 90%;
-		}
-		<div class="container">
-			  <div class="row clearfix">
-			<div class="column half">
-<h2>The Forgotten Murals of Paya Lebar Airport</h2> 
-	</div>
-	 <div class="row clearfix">
-	<div class="column half">
-		<img src=" /images/vol-17-issue-2/murals/Mural_Main2.jpg"  style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF; class=responsive"> 
-			</div>				
-			</div>		
-						</div>		
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+</body>
 </html>
