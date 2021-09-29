@@ -39,7 +39,7 @@ permalink: /test
 <h4>The Forgotten Murals of Paya Lebar Airport
 </h4>
 <div class="flex-container">
-  <div class="flex-item-left"><img src=" /images/vol-17-issue-2/murals/Mural_Main2.jpg"  style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF; class=responsive">
+  <div class="flex-item-left"><img src=" /images/vol-17-issue-2/murals/Mural_Main2.jpg"  style="float:left; width:70%; height:auto;  border:10px solid #FFFFFF; class=responsive">
 </div>
   <div class="flex-item-right">Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.
 
