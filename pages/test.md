@@ -2,11 +2,10 @@
 title: test
 permalink: /test
 ---
-<section class="bp-section ">
-    <div class="bp-container"><div class="row is-hidden-desktop is-hidden-tablet-only">
-            <div class="col is-half padding--bottom"><p class="padding--bottom eyebrow is-uppercase">art</p><h1 class="has-text-secondary padding--bottom">
-                    <b>The Forgotten Murals of Paya Lebar Airport</b>
-                </h1><p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p><a href="/vol-17/issue-2/jul-sep-2021/murals" class="bp-sec-button margin--top padding--bottom">
+<div class="bp-container"><div class="row is-hidden-desktop is-hidden-tablet-only">
+            <div class="col is-half padding--bottom"><p class="padding--bottom eyebrow is-uppercase">highlights</p><h1 class="has-text-secondary padding--bottom">
+                    <b>The Forgotten Murals of Paya Lebar Airport</b><a href="/vol-17/issue-2/jul-sep-2021/murals" class="bp-sec-button margin--top padding--bottom">
+                </h1><p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p>
                         <div>
                             <span>Read more</span>
                             <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
@@ -35,4 +34,3 @@ permalink: /test
             <div class="col is-half is-half padding--top--xl padding--bottom--xl"><img src="/images/vol-17-issue-2/murals/mural%20highlight%20homepage%20520x320.jpg" alt="Sample of murals"></div>
         </div>
     </div>
-</section>
