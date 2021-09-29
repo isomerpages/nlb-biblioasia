@@ -126,26 +126,26 @@ Wayang Kassim. (1904, Mei 18). *The Singapore Free Press and Mercantile Advertis
 
 [^3]:Rahmah Bujang, 1989, hlm 2.
 
-[^4]:Sabri Buang. (1990, June 28). Taking root. *The Straits Times*, hlm 5. Diambil daripada NewspaperSG.
+[^4]:Sabri Buang. (1990, June 28). [Taking root](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498150). *The Straits Times*, hlm 5. Diambil daripada NewspaperSG.
 
-[^5]:Rahmah Bujang. (1975). Sejarah perkembangan drama bangsawan ditanah Melayu dan Singapura (hlm 18). Kuala Lumpur: Dewan Bahasa dan Pustaka. (No panggilan: Malay RSING 899.23009202 RAH)
+[^5]:Rahmah Bujang. (1975). [Sejarah perkembangan drama bangsawan ditanah Melayu dan Singapura](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498150) (hlm 18). *Kuala Lumpur: Dewan Bahasa dan Pustaka*. (No panggilan: Malay RSING 899.23009202 RAH)
 
-[^6]:Rahmah Bujang, 1975, hlm 19.
+[^6]:[Rahmah Bujang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498150), 1975, hlm 19.
 
-[^7]:Mardiana Abu Bakar. (1988, September 12). Days of gold and glory. *The Straits Times*, hlm 5. Diambil daripada NewspaperSG.
+[^7]:Mardiana Abu Bakar. (1988, September 12). [Days of gold and glory](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880908-1.2.73.10). *The Straits Times*, hlm 5. Diambil daripada NewspaperSG.
 
-[^8]:The Straits Times, 28 Jun 1990, hlm 5.
+[^8]:*[The Straits Times,](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900628-1.2.64.12.5)* 28 Jun 1990, hlm 5.
 
-[^9]:The Straits Times, 28 Jun 1990, hlm 5.
+[^9]:*[The Straits Times,](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900628-1.2.64.12.5)* 28 Jun 1990, hlm 5.
 
-[^10]:Rahmah Bujang, 1975, hlm 24.
+[^10]:[Rahmah Bujang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498150), 1975, hlm 24.
 
-[^11]:The Straits Times, 28 Jun 1990, hlm 5.
+[^11]:*[The Straits Times,](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900628-1.2.64.12.5)* 28 Jun 1990, hlm 5.
 
-[^12]:Rahmah Bujang, 1975, hlm 26.
+[^12]:[Rahmah Bujang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498150), 1975, hlm 26.
 
-[^13]:Syed Mohd Zakir. (2016). Bangsawan Raden Mas Nadiputra (hlm 1). (Not available in NLB holdings)
+[^13]:Syed Mohd Zakir. (2016). *Bangsawan Raden Mas Nadiputra* (hlm 1). (Not available in NLB holdings)
 
-[^14]:Rahmah Bujang, 1989, hlm 164.
+[^14]:[Rahmah Bujang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498150), 1989, hlm 164.
 
-[^15]:Nazrul Amri. (1988, May 26). To be or not to be in bangsawan. *The Straits Times*, hlm 5. Diambil daripada NewspaperSG.
+[^15]:Nazrul Amri. (1988, May 26). [To be or not to be in bangsawan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498150). *The Straits Times*, hlm 5. Diambil daripada NewspaperSG.
