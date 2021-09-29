@@ -81,7 +81,7 @@ Gwee Li Sui’s “How to Fall in Love with Classics”, a popular series of lec
 
 With all these ongoing efforts and initiatives by comic groups and societies in Singapore as well as various government grants, the comics scene is set to take off, or as Superman might say, to go “up, up and away”.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="">The writers would like to thank Lim Cheng Tju for reviewing this essay. His essays on comics have been published in <i>BiblioAsia</i> Vol. 7, issue 4 (March 2012) and Vol. 9, issue 3 (Oct–Dec 2013). For a list of the comics featured in this article, please scan this QR code.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="/images/vol-17-issue-3/singapore-comics/QR%20Code.png">The writers would like to thank Lim Cheng Tju for reviewing this essay. His essays on comics have been published in <i>BiblioAsia</i> Vol. 7, issue 4 (March 2012) and Vol. 9, issue 3 (Oct–Dec 2013). For a list of the comics featured in this article, please scan this QR code.</div>
 
 <div style="background-color: white;">
 <br/>
