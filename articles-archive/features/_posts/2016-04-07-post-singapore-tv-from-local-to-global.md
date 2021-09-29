@@ -120,7 +120,7 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^6]:National Library Board. (2015, March). Singapore Broadcasting Corporation is established. Retrieved from HistorySG.
 
-[^7]:Mahbubani, G. (1980, March 26). High hopes and old problems for the new station. The Straits Times, p. 8. Retrieved from NewspaperSG; Singapore. Parliament. Parliamentary debates: Official report. (1979, December 11). Third Reading of the Singapore Broadcasting  Corporation Bill (Vol. 39, col. 535). Singapore: [s.n]. (Call no.: RSING 328.5957 SIN)
+[^7]:Mahbubani, G. (1980, March 26). High hopes and old problems for the new station. The Straits Times, p. 8. Retrieved from NewspaperSG; Singapore. Parliament. *[Parliamentary debates: Official report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1979, December 11). Third Reading of the Singapore Broadcasting  Corporation Bill (Vol. 39, col. 535). Singapore: [s.n]. (Call no.: RSING 328.5957 SIN)
 
 [^8]:Ramesh, S. (2012, March 2). Public Service Broadcast Review panel’s ideas to improve programmes. Retrieved from *Channel NewsAsia* website.
 
