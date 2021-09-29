@@ -22,13 +22,13 @@ Asal mula bangsawan sebenarnya bukanlah dari rantau ini, sebaliknya bangsawan la
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/02-seni.bmp">Gambar awal pementasan bangsawan, 1900. Koleksi Mohd Amin Bin Kadarisman. <i>Ihsan Arkib Negara Singapura.</i></div>
 
-Wayang Parsi ini kemudian diambil alih oleh tuan dari kalangan Jawi Pekan tempatan bernama Mohamed Pusi pada tahun 1884 dan diberikan nama Wayang Bangsawan. Mohamed Pusi merupakan seorang  artawan di Pulau Pinang dan bertanggungjawab menubuhkan sebuah “kumpulan bangsawan secara professional yang pertama setelah beliau membeli perkakas-perkakas serta kelengkapan pementasan dari  rombongan Wayang Parsi”.4 Nama kumpulan bangsawan pertama ialah Pusi Indera Bangsawan of Penang yang bergiat pada tahun 1885 yang menggunakan Bahasa Melayu dan menjadi titik tolak penerapan pengaruh-pengaruh “Melayu” dalam aspek-aspek pementasan.
+Wayang Parsi ini kemudian diambil alih oleh tuan dari kalangan Jawi Pekan tempatan bernama Mohamed Pusi pada tahun 1884 dan diberikan nama Wayang Bangsawan. Mohamed Pusi merupakan seorang  artawan di Pulau Pinang dan bertanggungjawab menubuhkan sebuah “kumpulan bangsawan secara professional yang pertama setelah beliau membeli perkakas-perkakas serta kelengkapan pementasan dari  rombongan Wayang Parsi”.[^4] Nama kumpulan bangsawan pertama ialah Pusi Indera Bangsawan of Penang yang bergiat pada tahun 1885 yang menggunakan Bahasa Melayu dan menjadi titik tolak penerapan pengaruh-pengaruh “Melayu” dalam aspek-aspek pementasan.
 
 #### **Perkembangan Bangsawan**
 
-Setiap persembahan kumpulan bangsawan mendapat sambutan yang hebat daripada para penduduk di Pulau Pinang kerana corak permainan mereka belum pernah dilihat sebelumnya. Tambahan pula, cerita-cerita yang dipaparkan seringkali mengajak para penonton menggembara ke alam khayal. Ini dikuatkan lagi dengan pandangan bahawa di pulau itu wujud ramai penduduk dari India terutama selepas pembukaannya oleh Sir Francis Light pada tahun 1868.5
+Setiap persembahan kumpulan bangsawan mendapat sambutan yang hebat daripada para penduduk di Pulau Pinang kerana corak permainan mereka belum pernah dilihat sebelumnya. Tambahan pula, cerita-cerita yang dipaparkan seringkali mengajak para penonton menggembara ke alam khayal. Ini dikuatkan lagi dengan pandangan bahawa di pulau itu wujud ramai penduduk dari India terutama selepas pembukaannya oleh Sir Francis Light pada tahun 1868.[^5]
 
-Oleh itu, pengaruh kebudayaannya juga mula berkembang sejajar dengan perkembangan penduduk India itu yang juga menimbulkan masyarakat kacukan Melayu/India. Antara nama-nama mereka yang masih lagi menunjukkan keturunannya ialah “Marican, Babjan, Pak Wan Teh, Haron Bee, Patma Bee dan sebagainya”.6
+Oleh itu, pengaruh kebudayaannya juga mula berkembang sejajar dengan perkembangan penduduk India itu yang juga menimbulkan masyarakat kacukan Melayu/India. Antara nama-nama mereka yang masih lagi menunjukkan keturunannya ialah “Marican, Babjan, Pak Wan Teh, Haron Bee, Patma Bee dan sebagainya”.[^6]
 
 Kumpulan-kumpulan bangsawan ini yang mendapat sambutan yang baik terutama di kawasan negeri-negeri Selat (Straits Settlements) seperti Pulau Pinang, Singapura dan Melaka ini bergerak ke seluruh tanah Melayu hingga ke Sumatera. Di Kuala Lumpur, tapak Sungei Wang Plaza dahulunya merupakan tempat bangsawan dipentaskan dan dikenali sebagai Happy World. Kumpulan-kumpulan yang telah bergiat cerga sejak kumpulan pertama terlalu banyak jumlahnya.
 
@@ -40,7 +40,7 @@ Bangsawan dipercayai telah dibawa masuk ke Singapura pada tahun 1880an.[^7] Keti
 
 <div style="background-color: white;"><br><img style="width:350px" src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/03-seni.bmp">Poster bangsawan <i>Daeng Perkasa</i> yang dipentaskan pada 18 dan 19 Oktober 1980. <i>Gambar kepunyaan Kementerian Kebudayaan. Ihsan Arkib Negara Singapura.</i></div>
 
-Beliau telah membawa rombongan wayangnya ke Alor Setar, Kedah dan menuju ke Singapura. Di Singapura, kumpulan Pushi Indera Bangsawan menetap di kawasan North Bridge Road berdekatan dengan Bras Basah Road.8
+Beliau telah membawa rombongan wayangnya ke Alor Setar, Kedah dan menuju ke Singapura. Di Singapura, kumpulan Pushi Indera Bangsawan menetap di kawasan North Bridge Road berdekatan dengan Bras Basah Road.[^8]
 
 Semenjak itu muncul pula kumpulan-kumpulan bangsawan yang lain seperti Wayang Setambul, Wayang Kassim, Indera Zanibar dan banyak lagi. Kumpulan-kumpulan ini telah dapat dapat menarik ramai penonton di setiap persembahan mereka di Singapura. Di antara sebab-sebab yang ditanggap oleh Sabri9 yang menjadikan bangsawan digemari ramai ketika itu ialah:
 
