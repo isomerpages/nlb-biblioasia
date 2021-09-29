@@ -12,9 +12,9 @@ permalink: /test
                             <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
                         </div>
                     </a></div>
-            <div class="col is-half"><img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" alt="sample of vaccination"></div>
+            <div class="col is-half"><img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" alt=""></div>
         </div><div class="row is-hidden-mobile is-hidden-desktop">
-            <div class="col is-half is-half padding--top--xl padding--bottom--xl"><img src="/images/vol-17-issue-2/vaccination/vacc%20highlight%20homepage%20520x320.jpg" alt="sample of vaccination"></div>
+            <div class="col is-half is-half padding--top--xl padding--bottom--xl"><img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></div>
             <div class="col is-half"><p class="padding--bottom eyebrow is-uppercase">highlights</p><h1 class="has-text-secondary padding--bottom">
                     <b>Vaccinating a Nation</b>
                 </h1><p>Ong Eng Chuan looks at how the authorities have been trying to vaccinate the residents of Singapore since 1819.</p><a href="/vol-17/issue-2/jul-sep-2021/vaccinating-nation" class="bp-sec-button margin--top padding--bottom">
