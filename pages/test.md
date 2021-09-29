@@ -11,8 +11,8 @@ permalink: /test
 		}
 		<div class="container">
 			<div class="column half">
-				<h2> The Forgotten Murals of Paya Lebar Airport</h2>
-			</div>
+<h2>The Forgotten Murals of Paya Lebar Airport</h2> 
+	</div>
 	<div class="column half">
 		<h2> box 2</h2>
 			</div>				
