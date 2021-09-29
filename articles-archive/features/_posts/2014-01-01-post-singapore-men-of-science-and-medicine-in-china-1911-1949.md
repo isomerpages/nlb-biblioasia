@@ -81,4 +81,7 @@ Of particular importance was Penang-born Wu Lien-teh, who was a Queen’s schola
 
 Wu, together with the Lims and the other Overseas Chinese, represent an unsung group of medical diaspora who returned to work in China. These medical professionals facilitated the growth of medical and scientific research in China, and popularised new notions of Western science among the Chinese public. In addition, they instituted military medicine, introduced new forms of public health and sought to save lives during the Second World War. As medical professionals, they were not simply motivated by patriotism or altruism, but rather saw China as a place where they could fully utilise their expertise not only to improve the lives of their fellow Chinese, but also to advance their own careers as medical leaders of the new republic. 
 
-Wayne soon was a Lee Kong Chian Research Fellow at the National Library and is currently a PhD candidate in the History Department at Princeton University. His dissertation examines the history of Western medicine In China, with a focus on the new medical institutions created by Overseas Chinese doctors in China during the first half of the 20th century.
+<p style="font-size:15px;"><b>Wayne Soon</b> was a Lee Kong Chian Research Fellow at the National Library and is currently a PhD candidate in the History Department at Princeton University. His dissertation examines the history of Western medicine In China, with a focus on the new medical institutions created by Overseas Chinese doctors in China during the first half of the 20th century.</p>
+
+
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
