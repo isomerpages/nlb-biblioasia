@@ -4,7 +4,7 @@ permalink: /test
 ---
 <section class="bp-section ">
     <div class="bp-container"><div class="row is-hidden-desktop is-hidden-tablet-only">
-            <div class="col is-half padding--bottom"><p class="padding--bottom eyebrow is-uppercase">highlights</p><h1 class="has-text-secondary padding--bottom">
+            <div class="col is-half padding--bottom"><p class="padding--bottom eyebrow is-uppercase">art</p><h1 class="has-text-secondary padding--bottom">
                     <b>The Forgotten Murals of Paya Lebar Airport</b>
                 </h1><p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p><a href="/vol-17/issue-2/jul-sep-2021/murals" class="bp-sec-button margin--top padding--bottom">
                         <div>
