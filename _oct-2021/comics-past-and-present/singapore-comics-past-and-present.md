@@ -65,14 +65,14 @@ In 2005, NLB hosted the first Comix Jam at the National Library Building, follow
 
 NLB has also hosted longer comics workshops where participants underwent a comprehensive editorial and mentorship process of comic creation, with peer review of comic drafts. An extension of the 24-hour Comics Day Challenge, the first Panelgraph (the authoring of stories using comic-book panels) sessions were held at Toa Payoh Public Library from 2015 to 2016. The comics created during the sessions were compiled as digital issues and made available on the Panelgraph website.[^29]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_1065_cmyk2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/24%20Hour%20Challenge.jpg)
 <div style="background-color: white;">The 24-hour Comics Day Challenge held at Bukit Merah Public Library in 2012.</div>
 
 In 2016, Tampines Regional Library was the venue for Places, a 13-week art co-creation workshop organised as part of the Community Arts & Culture Nodes initiative of the National Arts Council. Under the guidance of Gwee Li Swee – poet, graphic artist and author of several books, including the graphic novel *Myth of the Stone* – participants created comics with a select few compiled into an anthology.
 
 In the same year, Central Public Library played host to Speech Bubble, a month-long event comprising talks, workshops and an exhibition showcasing artefacts, books and original artworks from comic artists. Conceptualised by Sonny Liew and Lim Cheng Tju, the objective of the event was to celebrate Singapore comics and their rich and colourful history.[^30] 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/IMG_1065_cmyk2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/Places.jpg)
 <div style="background-color: white;">A compilation of comics created for Places, a 13-week art co-creation workshop, in 2016. <i>Image reproduced from Gwee Li Sui, ed., Places: A Graphic Anthology on the East of Singapore (Singapore: National Library Board, Singapore, [2016]). (From National Library, Singapore, call no. RSING 741.59597 PLA).</i></div>
 
 NLB is also a venue sponsor of the Singapore Original Comics Festival, a month-long annual comic-based event that focuses on creating original content by Singaporeans. Organised by the Comics Society (Singapore) since 2015, the festival hopes to uncover new local talents and present new comic works. In 2019, a comics exhibition, a book launch and a panel discussion were held at Jurong Regional Library.[^31]
