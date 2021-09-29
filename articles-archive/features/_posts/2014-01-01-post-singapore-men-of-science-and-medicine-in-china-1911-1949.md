@@ -62,7 +62,7 @@ The delousing programme began in 1938 and expanded significantly in 1939. Traine
 
 #### **Leaving A Legacy**
 
-Lim Boon Keng and robert Lim’s time in China were not without opposition. Lu Xun and other intellectuals from the May Fourth Movement (1917–1921) opposed Lim Boon Keng’s promotion of sciences and Confucianism at Xiamen University. Unable to resolve their differences with him, these intellectuals left the universi- ty after teaching for only a few months.28 
+Lim Boon Keng and Robert Lim’s time in China were not without opposition. Lu Xun and other intellectuals from the May Fourth Movement (1917–1921) opposed Lim Boon Keng’s promotion of sciences and Confucianism at Xiamen University. Unable to resolve their differences with him, these intellectuals left the university after teaching for only a few months.[^28] 
 
 American officials from the United China relief (UCr) organisation alleged- ly sought to remove robert Lim from his medical leadership posts because of their opposition to the supposedly obstruc- tionist and monopolistic behaviours of the American Bureau for Medical Aid to China (a new york-based organisation also known as the ABMAC), which Lim represented in China.29 other accounts suggest that some Chinese leaders op- posed Lim’s plan to extend medical aid to communist-held areas. These critics also thought his six-year medical programme for doctors was too lengthy under war- time circumstances.30
 
