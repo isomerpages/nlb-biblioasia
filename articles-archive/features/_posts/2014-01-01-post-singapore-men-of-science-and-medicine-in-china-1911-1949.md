@@ -40,6 +40,8 @@ Lim's expertise in western medicine as well as his longstanding commitment in pr
 
 Lim’s sense of purpose was founded on his medical education at the University of Edinburgh, his commitment to leverage on transnational resources from Britain, China and the Straits Settlements, and his deep commitment to using his wealth and influence to turn ideas into medical action.
 
+Coolies, commonly found transporting goods along the Singapore River, formed part of the Overseas Chinese community (1948). <i>Courtesy of National Archives of Singapore.</i>
+
 #### **Robert Lim: Like Father, Like Son**
 
 Lim Boon Keng’s eldest son, Robert Lim, was also actively involved in the medical development of China. Robert Lim was born in Singapore in 1897 and left with his father at the age of eight to Edinburgh where he completed his secondary education. Lim kept in contact with his father in Xiamen, as well as his other family members in Singapore. He also visited Singapore twice in 1937 and 1949.[^19] At the age of 17, Lim enrolled in the University of Edinburgh. He obtained his PhD from the university at the age of 23 and subsequently became a lecturer in histology in the physiology department.
@@ -59,6 +61,11 @@ In September the same year, local ballroom dancers conducted a ballroom dancing 
 At the CRCMRC, Robert Lim greatly expanded medical care for the wounded Chinese in the form of preventive medicine for unoccupied China. One key aspect of preventive medicine was delousing, which killed parasitic mites and lice on soldiers. The mites spread scabies, the number one affliction of Chinese soldiers then.[^25] Scabies was a serious condition as soldiers would scratch their wounds into a secondary and more serious skin infection known as impetigo, a highly contagious bacterial infection. Typhus fever and relapsing fever were spread by lice, with the former being more serious, often leading to premature death if not treated expeditiously. These conditions were often exacerbated by the lack of access to bathing water and soap, which meant mites and lice would remain with their hosts for long periods of time.
 
 The delousing programme began in 1938 and expanded significantly in 1939. Trained sanitary engineers and doctors in mobile units were sent across unoccupied China to delouse soldiers and their clothes. By mid-1939, mobile units had reached as far east as Jinhua (金華) in Zhejiang, as far west as Chongqing (重慶), as far north as Ganguyi (甘谷驛) in Shanxi, and as far south as Liuzhou (柳洲) in Guangxi.[^26] By the mid-1940s, mobile units had reached further south to Nanning (南寧) in Guangxi and further west to Xiaguan (下關) in Yunnan.[^27] The reach of the delousing units spread far and wide as it attempted to extend treatment to all soldiers in unoccupied China. In total, the sanitary units deloused a total of around 380,000 people as well as 800,000 articles by the end of December 1940, an exponential increase from January to June 1939 where around 17,000 persons and 145,000 thousand articles were deloused. in total, Lim’s CRCMRC treated more than five million people.
+
+
+Entrance of New World Amusement Park at Jalan Besar, circa 1960. This was where Chinese swimmer Yang Shau King helped to raise funds for the Chinese Red Cross. <i>Chinese Clan Association collection, courtesy of National Archives of Singapore.</i>
+
+Group photograph of Singapore Overseas Chinese raising relief funds for China, headed by Tan Kah Kee. <i>Singapore Chinese Clan Associations Collection, Courtesy of National Archives of Singapore.</i>
 
 #### **Leaving A Legacy**
 
