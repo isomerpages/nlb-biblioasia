@@ -2,30 +2,10 @@
 title: test
 permalink: /test
 ---
-<html>
-	<head>
- <style>
-.fancy {
-  /* Within a circle, centered text looks prettier. */
-  text-align : center;
-
-  /* Let's avoid our text touching the border. As
-     our text will still flow in a square, it looks
-     nicer that way, giving the feeling that it's a "real"
-     circle. */
-  padding : 1em;
-
-  /* The border will make the circle visible.
-     You could also use a background, as
-     backgrounds are clipped by border radius */
-  border : 0.5em solid black;
-
-  /* Let's make sure we have a square.
-     If it's not a square, we'll get an
-     ellipsis rather than a circle */
-  width  : 4em;
-  height : 4em;
-
-  /* and let's turn the square into a circle */
-  border-radius: 100%;
-}
+#### [**The Forgotten Murals of Paya Lebar Airport**](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals)
+<img src=" /images/vol-17-issue-2/murals/Mural_Main2.jpg"  style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF"> <style>
+responsive {max-width: 100%  height: auto;} </style>
+Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.
+<br>
+<br>
+<hr>
