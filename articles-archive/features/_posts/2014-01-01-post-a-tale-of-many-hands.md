@@ -32,8 +32,8 @@ His hands worked at the first watch plant in Singapore in 1973. Kok Kham Seng st
 
 Her hands worked for 67 years tailoring custom-made shirts. <i>Photography by Sean Lee.</i>
 
-<p style="font-size:15px;"><b>Tan Huism</b> is the Head of exhibitions and Curation with the National Library. She started her curatorial career at the National museum of Singapore before moving to the asian Civilisations museum, where she became Deputy Director of Curation and Collections.</p>
+<p style="font-size:15px;"><b>Tan Huism</b> is the Head of Exhibitions and Curation with the National Library. She started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</p>
 
-<p style="font-size:15px;"><b>Sean Lee</b> is a teller of short stories through his photographs. He was a winner of the 2011 ICON de martell Cordon Bleu and a member of the Reflexions masterclass (2011 -2013). His work has been exhibited at the Prix Decouverte, Les Rencontres d'arles (2009), galeria tagomago, Barcelona (2011), New york Photo Festival, New york (2011), empire Project, Istanbul (2011) and tantotempo gallery, Kobe (2012), among others.</p>
+<p style="font-size:15px;"><b>Sean Lee</b> is a teller of short stories through his photographs. He was a winner of the 2011 ICON de Martell Cordon Bleu and a member of the Reflexions masterclass (2011-2013). His work has been exhibited at the Prix Decouverte, Les Rencontres d'arles (2009), Galeria Tagomago, Barcelona (2011), New York Photo Festival, New York (2011), Empire Project, Istanbul (2011) and Tantotempo Gallery, Kobe (2012), among others.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
