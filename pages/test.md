@@ -6,7 +6,7 @@ permalink: /test
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, intial-scale=1.0">
-		<title>The Forgotten Murals of Paya Lebar Airport</title>
+		<title>Document</title>
 	</head>
 	<body>
 		<div class="container">
@@ -19,6 +19,4 @@ permalink: /test
 				
  		
 </body>
-</html>	
-		
-
+</html>
