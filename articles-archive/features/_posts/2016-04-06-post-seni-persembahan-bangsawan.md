@@ -120,7 +120,7 @@ Wayang Kassim. (1904, Mei 18). *The Singapore Free Press and Mercantile Advertis
 
 #### **NOTA**
 
-[^1]:Rahmah Bujang. (1989). Seni persembahan bangsawan (hlm 163). Kuala Lumpur: Dewan Bahasa dan Pustaka. (No panggilan: Malay RART 792.09595 RAH)
+[^1]:Rahmah Bujang. (1989). *[Seni persembahan bangsawan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5498150)* (hlm 163). *Kuala Lumpur: Dewan Bahasa dan Pustaka*. (No panggilan: Malay RART 792.09595 RAH)
 
 [^2]:Chairul Fahmy Hussani. (1995, October 12). [Bangsawan masih bernafas di kota Singa](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19951012-1.2.18.2). *Berita Harian*, hlm 7. Diambil daripada NewspaperSG.
 
