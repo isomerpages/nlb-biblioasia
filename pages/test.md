@@ -38,8 +38,6 @@ permalink: /test
 
 <h4>The Forgotten Murals of Paya Lebar Airport
 </h4>
-
-
 <div class="flex-container">
   <div class="flex-item-left"><img src=" /images/vol-17-issue-2/murals/Mural_Main2.jpg"  style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF; class=responsive">
 </div>
