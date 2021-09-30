@@ -52,7 +52,7 @@ Often, a common tongue bridged many cultural gaps. in those days, it was common 
 
 #### **Five-Stones**
 
-This was a tossing game, geared towards girls with delicate fingers and usually played sitting cross-legged on the floor. The “stones” — handmade by the girls themselves — were actually small pyramidshaped sachets simply sewn from scraps of cloth and filled with green beans, sand or rice grains. instead of five, some used seven stones. The game is played by “throwing [the stones] up into the air and catching them back in some form of patterned movements.”23 each stage has a particular pattern and increases in complexity as the player progresses in the game.
+This was a tossing game, geared towards girls with delicate fingers and usually played sitting cross-legged on the floor. The “stones” — handmade by the girls themselves — were actually small pyramidshaped sachets simply sewn from scraps of cloth and filled with green beans, sand or rice grains. Instead of five, some used seven stones. The game is played by “throwing [the stones] up into the air and catching them back in some form of patterned movements.”[^23] Each stage has a particular pattern and increases in complexity as the player progresses in the game.
 
 Five Stones is played with five small triangular cloth bags filled with seeds, rice grains or sand (1960s). Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.
 
