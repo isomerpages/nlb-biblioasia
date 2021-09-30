@@ -46,7 +46,7 @@ In the following sections, we look at some major comic genres and introduce inte
 
 Anthologies are a popular format for comics. A number of collections have been published over the years and these have helped to bring many artists to prominence.
 
-##### PAST...
+#### PAST...
 漫画同盟 (<i>Comics Alliance</i>) – a four-volume anthology series published in 1997, 1998 and 2001 – is a compilation of Chinese comics by various Singaporean comic artists. The books are edited by comic veterans Wee Tian Beng and Wee See Heng.
 	
 The <i>Liquid City</i> anthology, the brainchild of Sonny Liew, brought together a star-studded cast of artists who contributed short comics that have been compiled in three volumes. The series has received much attention, with volume two being nominated for Best Anthology Series at the 2011 Eisner Awards. Many of the participating artists went on to produce their own comic books. Otto Fong, a contributor to the anthology, said: “The experience of being in an anthology and working alongside other comics artists spurred my competitiveness.”[^9]
