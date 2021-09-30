@@ -73,7 +73,7 @@ During the 1959 general election for a fully elected Legislative Assembly, the P
 
 Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and was once again contesting Cairnhill, was reported to have “deserted his old apple tree, and… canvassing quietly from house to house”. Indeed, as *The Straits Times* had declared earlier on 26 February 1957, following Marshall’s ouster from leadership in the Labour Front, “The season of the old apple tree is over”.[^23]
 
-<div style="background-color: white;"><img style="width:400px"  src="/images/Vol-12-issue-2/david-marshall/08-davidmarshall.jpg">David Marshall in a photo taken in the 1950s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:400px"  src="/images/Vol-12-issue-2/david-marshall/08-davidmarshall.jpg">David Marshall meeting Malay villagers in a kampong. <i>David Marshall Collection, courtesy of ISEAS Library, ISEAS-Yusof Ishak Institute, Singapore.</i></div>
 
 |<br>**A TREE BY ANY OTHER NAME**|
 
