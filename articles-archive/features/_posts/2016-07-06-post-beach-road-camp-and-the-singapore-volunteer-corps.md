@@ -72,8 +72,6 @@ At the same time, Beach Road Camp became the new headquarters of the Singapore M
 
 Throughout its complex history and various name changes, the SVC maintained a physical presence. Its first centre – a rather modest Drill Hall of wood and corrugated iron – was built in 1891, along the shores of Fort Fullerton (today the site of Fullerton Hotel). In 1907, that structure was dismantled and moved to a strip of coastal land on Beach Road, where the Chinese Volunteer Club – headquarters of the SVC’s Chinese Company – had been standing since 1904. The transplanted Drill Hall was used as the new headquarters of the SVC. This makeshift structure existed for over two decades, a reflection perhaps of the transient nature of the SVC at the time.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/05-volunteercorps.png">The original Drill Hall was a makeshift wood-and-corrugated iron structure erected at Fort Fullerton near the entrance of the Singapore River in 1891. This would be the temporary home of the Singapore Volunteer Corps for the next 15 years. <i>Courtesy of Prof Cheah Jin Seng.</i></div>
-
 But all this was to change in 1930. The SVC became more entrenched, and proper space was required for both training and recreation. Construction work on the new Drill Hall – based on a design by the colonial architect Frank Dorrington Ward – began in 1931. Its location on what was prime beach-facing land at the time must have surely incensed the owners of Raffles Hotel just opposite as some of the sea views it enjoyed slowly became obscured.
 
 The foundation stone for the new Drill Hall (Block 9) was laid on 8 March 1932 by Governor of the Straits Settlements Cecil Clementi. A year later, on 4 March 1933, the old Drill Hall was demolished and the new building, the headquarters of the SVC – or SSVF as it was known then – was declared open by Clementi and the symbolic Golden Key presented.
@@ -95,6 +93,8 @@ It was only in 1957 that the go-ahead was given to start the first independent S
 Although 1 SIR was to have its base at Ulu Pandan Camp in the west of Singapore, Beach Road Camp, the headquarters of the Singapore Military Forces, was chosen as the site of the recruitment interviews and attestation parades. On 12 March 1957, the first 22 recruits (11 Chinese, 7 Malays, 3 Eurasians and 1 Sikh) were sworn into 1 SIR by Magistrate T. S. Sinnathuray – himself a member of the SVC. Over the following months, more young men joined the army, and by October 1958, a total of 842 recruits had been sworn in at Beach Road Camp.
 
 <div style="background-color: white;"><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/06-volunteercorps.png">In 1907, the wood-and-corrugated-iron Drill Hall at Fort Fullerton was physically moved to its new location along Beach Road and re-assembled. <i>Courtesy of Prof Cheah Jin Seng.</i></div>
+
+<div style="background-color: white;"><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/05-volunteercorps.png">The original Drill Hall was a makeshift wood-and-corrugated iron structure erected at Fort Fullerton near the entrance of the Singapore River in 1891. This would be the temporary home of the Singapore Volunteer Corps for the next 15 years. <i>Courtesy of Prof Cheah Jin Seng.</i></div>
 
 #### **End of SVC and Start of PDF**
 
