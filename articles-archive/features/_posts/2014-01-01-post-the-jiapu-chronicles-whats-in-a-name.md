@@ -34,7 +34,7 @@ Apart from updating the <i>jiapu</i> with the latest clan members’ information
 
 Since <i>jiapu</i> served to document lineage, tracing the origin of a clan’s surname became an important chapter in the evolution of the <i>jiapu</i>. This was especially so if the surname could be traced to an ancient king or noble line that glorified the clan and affirmed their social status.
 
-An ancestral hall of the Hakka community at Lorong Makam (1986). <i>Courtesy of National Archives of Singapore.<m/i>
+An ancestral hall of the Hakka community at Lorong Makam (1986). <i>Courtesy of National Archives of Singapore.</i>
 
 #### **Origins of Surname (Xing Shi Yuan Liu 姓氏源流)**
 
