@@ -176,6 +176,6 @@ However, many unfortunate villagers became victims of fires as a result of accid
 
 The <i>tajam batu</i> man was usually a Punjabi (Sikh) who made his bicycle rounds in the kampong with his sharp tools. He would call out <i>“tajam batu!”</i>, which literally means “stone sharp(ening)” in Malay. The women would take out their stone slabs that had become too smooth to crush the spices for him to service. He would chisel the surface of the slabs with a giant nail and hammer, etching small holes to make the surface rough for better grinding.[^36] For some reason, adults would scare children with stories of the <i>tajam batu</i> man kidnapping children, decapitating them and offering their heads for new constructions, bridges in particular. Scenes of scampering children would often precede the arrival of this “devilish” man.[^37]
 
-<p style="font-size:15px;">This article was researched by <b>Nor Afidah Abd Rahman<b>, a senior librarian with the National Library Board (NLB).</p>
+<p style="font-size:15px;">This article was researched by <b>Nor Afidah Abd Rahman</b>, a senior librarian with the National Library Board (NLB).</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
