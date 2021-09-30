@@ -109,7 +109,7 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 |Marshall’s political legacy also included weekly meet-the-people sessions – the first was held on 18 April 1955 – during which he sat with sundry members of the public in a conference room at the Assembly House to hear their woes and help them as best as he could.[^41] Such tête-à-têtes have since become a mainstay of grassroots politics in Singapore. To be compared with the Buddha, who gained enlightenment under the shade of a bo tree, is truly a befitting testimony to a leader who valued honour over power and sacrifice above self.|
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/david-marshall/04a-davidmarshall.jpg">(Left) David Marshall at one of his weekly meet-the-people sessions at the Assembly House, the first of which was held on 18 April 1955. <i>David Marshall Collection, courtesy of ISEAS Library, ISEAS-Yusof Ishak Institute, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:750px" src="/images/Vol-12-issue-2/david-marshall/04a-davidmarshall.jpg">(Left) David Marshall at one of his weekly meet-the-people sessions at the Assembly House, the first of which was held on 18 April 1955. <i>David Marshall Collection, courtesy of ISEAS Library, ISEAS-Yusof Ishak Institute, Singapore.</i></div>
 <div style="background-color: white;">(Right) David Marshall meeting Malay villagers in a kampong. <i>David Marshall Collection, courtesy of ISEAS Library, ISEAS-Yusof Ishak Institute, Singapore.</i></div>
 
 <div style="background-color: white;">
