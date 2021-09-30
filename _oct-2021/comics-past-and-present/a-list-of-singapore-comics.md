@@ -3,11 +3,11 @@ title: A List of Singapore Comics
 permalink: /vol-17/issue-3/oct-dec-2021/singapore-comics-list
 third_nav_title: Comics Past And Present
 ---
-**If you've read "Singapore Comics - Panels Past and Present" and you want to look up the titles referenced, this page lists the comic books mentioned.**
+**If you've read "Singapore Comics - Panels Past and Present" and  want to look up the titles referenced, this page lists the comic books mentioned.**
 
 ![Alt text for image on Isomer site](/images/captainvsmall.jpg)
 
-Captain V Productions. *[The Amazing Adventures of Captain V](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200099391)*. Singapore: Captain V Productions, 1988. 
+Captain V Productions. *[The Amazing Adventures of Captain V](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200099391)*. Singapore: Captain V Productions, 1988. (From PublicationSG)
 
 Chiang, Joseph. *[Chronicles of a Circuit Breaker.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205369096)* Singapore: Epigram Books, 2021. (Call no. RSING 741.595957 CHI)
 
@@ -37,11 +37,11 @@ Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *[Dim Sum Warriors Volume 1, 
 ![Alt text for image on Isomer site](/images/dim-sum-warriors-2.jpg)
 Goh, Colin, Woo Yen Yen, Soo Lee and Lauren Baker. *[Dim Sum Warriors  Volume 2, Feast of Fury](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200158332)*. New York: Yumcha Studios, 2014. (Call no. JR SING 741.5 GOH)
 
+Goh, Colin. *[Orchard Road: The Restricted Zone](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5297588)*. Singapore: Times International Singapore, 1989. (Call no. RSING 741.595957 GOH)
+
 Goh, Colin. *[I was a Teenage Sex Slave: Yet Another Smutty Orchard Road Collection](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5777122)*. Singapore: Times Books International, 1990. (Call no. RSING 741.595957 GOH)
 
 Goh, Colin. *[Orchard Road III: Tongues for the Memories](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6374727)*. Singapore: Times Books International, 1993. (Call no. RSING 741.595957 GOH)
-
-Goh, Colin. *[Orchard Road: The Restricted Zone](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5297588)*. Singapore: Times International Singapore, 1989. (Call no. RSING 741.595957 GOH)
 
 Gotham 高谭. *[女侠红头巾: 大战油鬼仔](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205437750)* [The Samsui Sword]. Singapore: Rojak City, 2021. (Call no. Chinese RSING 741.595957 GT)
 
@@ -58,11 +58,11 @@ Lau, Johnny. *[Mr Kiasu in Singapore History.](http://eservice.nlb.gov.sg/item_h
 ![Alt text for image on Isomer site](/images/antibiotics-tales-small3.jpg)
 Liew, Sonny and Hsu Li Yang. *[The Antibiotic Tales](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203939109)*. Singapore: Epigram, 2019. (Call no. RSING 615.329 LIE)	
 
-Liew, Sonny and Joyce Sim, eds.*[Liquid City Volume Three](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201026140)*. Berkeley, California: Image Comics, 2014. (Call no. RSING 741.59 LIQ)
+Liew, Sonny, ed. *[Liquid City Volume One](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13233324).* Berkeley, California: Image Comics, 2008. (Call no. RSING 741.59 LIQ)
 
 Liew, Sonny and Lim Cheng Tju, eds. *[Liquid City Volume Two](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13804090)*. Berkeley, California: Image Comics, 2010. (Call no. RSING 741.59 LIQ)
 
-Liew, Sonny, ed. *[Liquid City Volume One](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13233324).* Berkeley, California: Image Comics, 2008. (Call no. RSING 741.59 LIQ)
+Liew, Sonny and Joyce Sim, eds. *[Liquid City Volume Three](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201026140)*. Berkeley, California: Image Comics, 2014. (Call no. RSING 741.59 LIQ)
 
 Liew, Sonny. *[The Art of Charlie Chan Hock Chye](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204463637)*. Singapore: Epigram Books, 2020. (Call no. RSING 741.595957 LIE)
 
@@ -92,8 +92,8 @@ Wee Tian Beng, Liu Jia Hui and Yeo Hui San, eds. *[Our Months Together: A Comics
 
 ![Alt text for image on Isomer site](/images/python-gang-small.jpg)
 
-Wild, Ronald. *[蟒蛇党. The Python Gang. Kumpulan Ular Sawa.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200077221)*  Singapore: n.p., n.d. (From PublicationSG)
+Wild, Ronald. *[The Python Gang. Kumpulan Ular Sawa. 蟒蛇党.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200077221)*  Singapore: n.p., n.d. (From PublicationSG)
 
 Wong, Roger. *[The Valiant Pluto-man of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085679)*. Singapore: Fantasy Comics, 1983. (From PublicationSG)
 
-Wu Jiahe 吴嘉禾. *[新加坡啦.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12829741)* [Singapore la]. Singapore: Lianhe Zaobao, 2006. (Call no. Chinese RSING 741.595957 WJH)
+Wu Jiahe 吴嘉禾. *[新加坡啦.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12829741)* [Singapore La]. Singapore: Lianhe Zaobao, 2006. (Call no. Chinese RSING 741.595957 WJH)
