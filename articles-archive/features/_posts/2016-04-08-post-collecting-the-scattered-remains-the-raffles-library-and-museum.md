@@ -43,3 +43,17 @@ The library also benefited from prominent residents such as William Henry Macleo
 #### **Establishment of the Raffles Library and Museum**
 
 Although mention of a museum as part of the library had surfaced as early as 1823 by the missionary Robert Morrison, co-founder of the Singapore Institution, this only took root in 1849 when the Temenggong of Johor presented the library with two gold coins of probable Achehnese origins. With this donation, the library committee resolved that the coins would form the “nucleus of a museum, tending to the elucidation of Malayan history” and that the public museum named “The Singapore Museum” would “illustrate the general history and archaeology of Singapore and the Eastern Archipelago”.4 Thus began the link between the library and museum that would last 106 years until their separation in 1955.
+
+<div style="background-color: white;"><img src="/images/Vol-12-issue-1/raffles-library-and-museum/04_raffleslibrary.bmp">A postcard reproduction of the Raffles Library and Museum on Stamford Road with its neoclassical architecture and 90-foot-high dome, 1900s. Today, the building is home to the National Museum of Singapore. <i>Courtesy of National Archives of Singapore.</i></div>
+
+In May 1873, public interest in the colonial products displayed at London’s Exhibition Building prompted the Legislative Council of the Straits Settlements to lobby for a similar permanent exhibition in Singapore that would showcase commercial products from the Straits Settlements as well as artefacts on the ethnology, antiquities, natural history and geology of the region. Some seven months later, the matter was revisited, but this time the call was for a museum showcasing objects of interest on natural history.
+
+The proposal was welcomed by the new governor of the Straits Settlements, Andrew Clarke, who suggested that a public library be combined with the museum. The committee of the new library and museum concluded that it would be expedient for the government to take over the operations of the new entity. So, on 1 July 1874, the Singapore Library and its collection of 3,000 books were transferred to the newly formed Raffles Library and Museum, which officially took on the name on 16 July that year.
+
+#### **Origins of the Malayan “Q” Collection**
+
+The new Raffles Library and Museum, now located on the top floors of the Town Hall (today’s Victoria Theatre), opened its doors on 14 September 1874. It comprised a Reference Library and a Reading Room that provided free access to the public, and a Lending Library for subscribers. The creation of a Reference Library marked the formal beginnings of a Malayan collection.
+
+The objective of the Reference Library was “to collect valuable works relating to the Straits Settlements and surrounding countries”[^5] as well as general works on the sciences and the arts. With its fast expanding collection, the library ran out of space in just two years and had to be relocated to temporary premises at the Raffles Institution (the Singapore Institution had been renamed in honour of Raffles around 1868) while a new and bigger building was constructed.
+
+The move back to the Raffles Institution building in 1876 presented the library with an opportunity to re-catalogue its books. Departing from the six-genre arrangement, the books were now organised into 24 subjects, each represented by a letter of the English alphabet. The letter “Q”, inexplicably, was the shelf mark for “Works on Singapore, the Straits Settlements and the Eastern Archipelago”.
