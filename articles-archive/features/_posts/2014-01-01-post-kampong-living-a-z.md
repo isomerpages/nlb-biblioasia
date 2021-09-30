@@ -56,7 +56,7 @@ This was a tossing game, geared towards girls with delicate fingers and usually 
 
 Five Stones is played with five small triangular cloth bags filled with seeds, rice grains or sand (1960s). <i>Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i>
 
-#### **Goli(marbles)
+#### **Goli(marbles)**
 
 It was easy to identify the marble king of a district as he usually strutted around with pockets bulging with his spherical conquests. The earliest marbles were made of clay before they were replaced by glass ones. There were multiple ways to win each other’s marbles and regardless of their luck that day, all would return to the same patch the next day to have another go at the goli galore. it was a game with “lots of arguments and quarrels and fights ... But by and large, the next day everybody would turn up again as if nothing happened and start the game [again].”[^24]
 
