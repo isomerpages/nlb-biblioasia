@@ -147,7 +147,7 @@ Fildes, V., Marks, L., & Marland, H. (Eds.). (1992). *Women and children first: 
 
 Government of Singapore. (2016, May 26). *Latest data*. Retrieved from Singapore Department of Statistics website.
 
-Gwee, M.B., & Ang, R. (1991). Trends in nursing education in Singapore. *T[he professional nurse: A Quarterly Publication of the Singapore Trained Nurses’ Association](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396380), 18* (3), p. 17.
+Gwee, M.B., & Ang, R. (1991). Trends in nursing education in Singapore. *[The Professional Nurse: A Quarterly Publication of the Singapore Trained Nurses’ Association](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396380), 18* (3), p. 17.
 
 Lee, C.E., & Satku, K. (Eds.). (2016). *[Singapore’s health care system: What 50 years have achieved](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202254181)* (p. 169). Singapore: World Scientific. (Call no.: RSING 362.1095957 SIN)
 
@@ -183,7 +183,7 @@ Singapore Nurses Association. (2015). *Our history*. Retrieved from Singapore Nu
 
 Singapore Nursing Board. (2016). Retrieved from Singapore Nursing Board website.
 
-Tan, K.H., & Chern, S. M. (2002). Progress in obstetrics from 19th to 21st centuries: Perspectives from KK Hospital, Singapore – the former world’s largest maternity hospital. *The Internet Journal of Gynecology and Obstetrics*. 2 (2). Retrieved from Internet Scientific Publications website.
+Tan, K.H., & Chern, S. M. (2002). Progress in obstetrics from 19th to 21st centuries: Perspectives from KK Hospital, Singapore – the former world’s largest maternity hospital. *The Internet Journal of Gynecology and Obstetrics, 2* (2). Retrieved from Internet Scientific Publications website.
 
 Tan, K.H., & Tay, E.H. (Eds.). (2003). *[The history of obstetrics and gynaecology in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11905621)*. Singapore: Obstetrical & Gynaecological Society of Singapore: National Heritage Board. (Call no.: RSING q618.095957 HIS)
 
