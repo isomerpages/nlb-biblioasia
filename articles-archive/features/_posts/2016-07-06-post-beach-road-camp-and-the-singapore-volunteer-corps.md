@@ -68,6 +68,8 @@ Despite an outbreak of riots on 13 May 1954 by Chinese middle school students wh
 
 At the same time, Beach Road Camp became the new headquarters of the Singapore Military Forces (SMF), which was put in charge of the training and administration of both the SVC and national servicemen for the next few years.
 
+<div style="background-color: white;"><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/09-volunteercorps.png">Group photo of the Singapore Volunteer Corps taken at Beach Road Camp, circa 1959. <i>David Ng Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Beach Road Camp: Headquarters of the SVC**
 
 Throughout its complex history and various name changes, the SVC maintained a physical presence. Its first centre – a rather modest Drill Hall of wood and corrugated iron – was built in 1891, along the shores of Fort Fullerton (today the site of Fullerton Hotel). In 1907, that structure was dismantled and moved to a strip of coastal land on Beach Road, where the Chinese Volunteer Club – headquarters of the SVC’s Chinese Company – had been standing since 1904. The transplanted Drill Hall was used as the new headquarters of the SVC. This makeshift structure existed for over two decades, a reflection perhaps of the transient nature of the SVC at the time.
@@ -111,8 +113,6 @@ In 1967, the government introduced compulsory full-time national service. It rea
 Between 1965 and 2000,[^5] various units of the PDF and later, the Singapore Infantry Brigade (SIB), maintained a presence on Beach Road. From 1965–68 the camp hosted the 1st Training Depot PDF and HQ SIB; from 1968–74 HQ 1st SIB; from 1974–85, HQ PDF; and from 1985–2000 HQ PDF Command – and always training an assortment of army regulars, volunteers and national servicemen. Block 14 was used as the SAF Court Martial Centre for nearly 33 years, from 1967 to 2000. It housed the Subordinate Military Court as well as the higher Military Court of Appeal, and contained within its premises a courtroom, a deliberation room, witness rooms, a holding cell and various offices for the court staff and military prosecutors.
 
 On 18 February 2000, in a moving ceremony that echoed its august colonial-era opening on 4 March 1933, the same Golden Key that British Governor Cecil Clementi was presented with 67 years ago at the very same Drill Hall was handed over to the SAF for final safekeeping. In the background, a solitary trumpet played the Last Post, signalling the end of the day – and indeed the end of an era for a distinguished Singapore institution.
-
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/09-volunteercorps.png">Group photo of the Singapore Volunteer Corps taken at Beach Road Camp, circa 1959. <i>David Ng Collection, courtesy of National Archives of Singapore.</i></div>
 
 |<br><br>**ELIZABETH CHOY: SVC VOLUNTEER AND WAR HEROINE**|
 
