@@ -91,31 +91,31 @@ A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection,
 
 #### **Letter Writers**
 
-<i>History</i><br>The thousands of illiterate and semi-literate Chinese immgrants in Singapore — coolies (manual workers), amahs (domestic helpers) and Samsui women (female construction labourers from Guangdong province) — who yearned to communicate with their families in China resulted in the demand for letter writers. The 1950s and 1960s were boom times for such letter writers, with long queues of people patiently waiting to send word back home after world war ii, along with food, clothing and money. Letter writers were usually Chinese males in their 50s and 60s.
+<i>History</i><br>The thousands of illiterate and semi-literate Chinese immgrants in Singapore — <i>coolies</i> (manual workers), <i>amahs</i> (domestic helpers) and <i>Samsui</i> women (female construction labourers from Guangdong Province) — who yearned to communicate with their families in China resulted in the demand for letter writers. The 1950s and 1960s were boom times for such letter writers, with long queues of people patiently waiting to send word back home after World War II, along with food, clothing and money. Letter writers were usually Chinese males in their 50s and 60s.
 
-<i>Job Scope</i><br>A letter writer would pen the feelings and thoughts of his customers and also read letters aloud for the illiterate, bridging the physical and emotional distance between relatives who resided thousands of miles away and their families in Singapore. The letters were written in a mixture of classical and vernacular Chinese. The writer would sometimes write “spring couplets, invitation cards, leases [and] marriage certificates”13 and, sadly, even suicide notes. Letter writers also wrote ancestral tablets for religious worship and to display at home for immigrants who moved into new residences. due to the usually penurious circumstances of his clientele, the letter writer in the 1960s charged nominal sums for his services, such as a dollar per letter and earned about $250 a month.
+<i>Job Scope</i><br>A letter writer would pen the feelings and thoughts of his customers and also read letters aloud for the illiterate, bridging the physical and emotional distance between relatives who resided thousands of miles away and their families in Singapore. The letters were written in a mixture of classical and vernacular Chinese. The writer would sometimes write “spring couplets, invitation cards, leases [and] marriage certificates”[^13] and, sadly, even suicide notes. Letter writers also wrote ancestral tablets for religious worship and to display at home for immigrants who moved into new residences. Due to the usually penurious circumstances of his clientele, the letter writer in the 1960s charged nominal sums for his services, such as a dollar per letter and earned about $250 a month.
 
 <i>Tools of the Trade</i><br>The letter writer’s stall was spartan, furnished with only a small table, one or two chairs and his writing instruments, comprising paper, Chinese brushes, ink and an abacus. 
 
-<i>Then and Now</i><br>Letter writers were once a common sight in Chinatown but the trade lost its popularity after the 1980s with the passing of many old-time patrons. The increase in literacy and communication technology such as the telephone also contributed to the trade’s decline. Letter writers today focus primarily on writing ancestral tablets for the younger Chinese generation and entertain occasional requests from tourists to compose spring couplets and auspicious words or to have Chinese translations of their english names written.[^14]
+<i>Then and Now</i><br>Letter writers were once a common sight in Chinatown but the trade lost its popularity after the 1980s with the passing of many old-time patrons. The increase in literacy and communication technology such as the telephone also contributed to the trade’s decline. Letter writers today focus primarily on writing ancestral tablets for the younger Chinese generation and entertain occasional requests from tourists to compose spring couplets and auspicious words or to have Chinese translations of their English names written.[^14]
 
-A letter writer with a customer along a five foot way in Kreta Ayer. From the Kouo Shang-Wei collection 郭尚慰收集. All rights reserved, family of Kouo Shang-Wei and National Library Board, Singapore, 2007.
+A letter writer with a customer along a five foot way in Kreta Ayer. From the Kouo Shang-Wei collection 郭尚慰收集. <i>All rights reserved, family of Kouo Shang-Wei and National Library Board, Singapore, 2007.</i>
 
 #### **Street Barbers**
 
-<i>History</i><br>Street barbers gained popularity after the 1911 Chinese revolution, when Chinese immigrants who arrived in Singapore lopped off their braided “pigtails” (which had been a symbol of repression during the Qing dynasty). Many barbers were self-taught, while some apprenticed at barber shops. The profession was equally represented by the Chinese, Malay and indian races.
+<i>History</i><br>Street barbers gained popularity after the 1911 Chinese Revolution, when Chinese immigrants who arrived in Singapore lopped off their braided “pigtails” (which had been a symbol of repression during the Qing Dynasty). Many barbers were self-taught, while some apprenticed at barber shops. The profession was equally represented by the Chinese, Malay and Indian races.
 
-<i>Job Scope</i><br>operating along five-foot-ways or in roadside makeshift tents, street barbers offered haircuts, shaving, ear wax removal, nose-hair trimming, and scalp, face and shoulder massages.
+<i>Job Scope</i><br>Operating along five-foot-ways or in roadside makeshift tents, street barbers offered haircuts, shaving, ear wax removal, nose-hair trimming, and scalp, face and shoulder massages.
 
 Barbers worked from around eight in the morning to dusk, charging about 50 cents for a haircut in the 1960s, and raising their prices during the Chinese New year season to cater to increased demand. Some made house calls to shave the heads of babies or to provide haircuts for the elderly and infirmed.
 
 <i>Tools of the Trade</i><br>A street barber’s equipment usually included one to three barber chairs, several pairs of scissors, manual clippers, combs, brushes, razor blades, powder puffs and a mirror.
 
-<i>Then and Now</i><br>Street barbers once operated along the aptly named Barber Street, between Jalan Sultan and Aliwal Street and at the cobbled lane between Jalan Sultan and north Bridge road. They were also found in Chinatown, Serangoon road and Tanjong pagar. 
+<i>Then and Now</i><br>Street barbers once operated along the aptly named Barber Street, between Jalan Sultan and Aliwal Street and at the cobbled lane between Jalan Sultan and North Bridge Road. They were also found in Chinatown, Serangoon Road and Tanjong Pagar. 
 
-With the erection of high-rise flats in the 1960s, barbers plied their trade along the corridors of housing estates. Today, however, they operate out of air-conditioned shops found in virtually every neighbourhood, with modern equipment such as electric clippers and shavers. what has survived is the unique icon denoting these neighbourhood barbers — the barber’s pole, with its spinning helix of tri-coloured red, white and blue stripes.[^15]
+With the erection of high-rise flats in the 1960s, barbers plied their trade along the corridors of housing estates. Today, however, they operate out of air-conditioned shops found in virtually every neighbourhood, with modern equipment such as electric clippers and shavers. What has survived is the unique icon denoting these neighbourhood barbers — the barber’s pole, with its spinning helix of tri-coloured red, white and blue stripes.[^15]
 
-Barber at Tras Street in 1988. Courtesy of National Archives of Singapore.
+Barber at Tras Street in 1988. <i>Courtesy of National Archives of Singapore.</i>
 
 #### **Immortalising the Trades of Yesteryear**
 
