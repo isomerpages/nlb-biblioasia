@@ -16,8 +16,6 @@ Since 1 August 2000, exemplary nurses have received the President’s Award for 
 
 When Stamford Raffles arrived in Singapore in January 1819, a skeletal medical team accompanied his troops. This all-male detachment consisted of military doctors, apothecaries (equivalent to modern-day pharmacists), orderlies as well as dressers (who specialised in wound dressing and bandaging).
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-2/angels-in-white/01-angelsinwhite.jpg">A male attendant in a ward of the old Tan Tock Seng Hospital. As the first professionally trained nurses did not arrive in Singapore till 1900, male attendants took care of patients. <i>Courtesy of National Archives of Singapore.</i></div>
-
 In the same year, a wooden shed was erected near the junction of Bras Basah Road and Stamford Road to treat as well as house sick soldiers. This rudimentary shed, which was rebuilt in 1821, served as a general hospital staffed by army surgeons and is regarded today as the predecessor of the Singapore General Hospital.[^2]
 
 Unfortunately, access to early healthcare back then was mostly a privilege that only colonial administrators and the military enjoyed; the indigenous people and immigrants were largely left to fend for themselves.
@@ -52,7 +50,7 @@ The following years saw many public letters, newspaper editorials and meetings t
 
 The minimum entry requirement for nursing school in the early 1900s was the completion of the Junior Cambridge Examination. The very fact that trained nurses had to be recruited from overseas highlighted the dismal state of education among local women in Singapore. Most women in those days were confined to traditional domestic roles – as daughters, wives and mothers – and generally did not receive much education.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-2/angels-in-white/03-angelsinwhite.jpg">A nun from the Franciscan Missionaries of the Divine Motherhood conducting an anatomy class for nurses at the Mandalay Road Hospital in 1950. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-2/angels-in-white/01-angelsinwhite.jpg">A male attendant in a ward of the old Tan Tock Seng Hospital. As the first professionally trained nurses did not arrive in Singapore till 1900, male attendants took care of patients. <i>Courtesy of National Archives of Singapore.</i></div>
 
 However, by the end of 1903, all the four qualified nurses from England had left their posts for various reasons: a transfer out of Singapore, marriage, ill health or completion of their three-year contracts. Although they were replaced by other expatriates, the pool of trained nurses remained largely stagnant. Subsequent arrivals succumbed to illnesses such as tuberculosis and malaria as they were unused to working in a tropical country. In 1911, for instance, seven out of 10 Sisters and six out of 13 Nurse Probationers were admitted to hospital.
 
@@ -68,7 +66,7 @@ With rising concerns over the high infant mortality rate, Miss J. E. Blundell fr
 
 |<br>**EARLY MIDWIFERY AND THE BIDAN**|
 
-|Prior to the arrival of the British, women in Singapore had their own birth rituals and customs. As the population was mainly Malay, home births were handled by the* bidan*, usually a well-respected female member of the community. These traditional Malay midwives acquired their skills and knowledge from older, more experienced *bidan*, and in turn, imparted their knowledge to other women. It was expected of a practising *bidan* to have gone through pregnancy and childbirth herself.|
+|Prior to the arrival of the British, women in Singapore had their own birth rituals and customs. As the population was mainly Malay, home births were handled by the *bidan*, usually a well-respected female member of the community. These traditional Malay midwives acquired their skills and knowledge from older, more experienced *bidan*, and in turn, imparted their knowledge to other women. It was expected of a practising *bidan* to have gone through pregnancy and childbirth herself.|
 
 |<br><img style="width:650px"  src="/images/Vol-12-issue-2/angels-in-white/04-angelsinwhite.jpg">This 1950 photo shows a midwife weighing a newborn baby at home. As hospital beds in maternity hospitals were in short supply in the 1950s, women were discharged 24 hours after their babies were born. Midwives would visit these new mothers at their homes to provide postnatal care. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i>|
 
@@ -99,6 +97,8 @@ The outbreak of World War II and the fall of Singapore on 15 February 1942 broug
 World War II helped to change public perception of local nurses. In January 1947, the government promoted locally trained nurses to the rank of Sister, creating opportunities for them to rise to supervisory and administrative posts. The nurses, many of whom made positive contributions during the Occupation years and survived the war, were more confident of their abilities now and lobbied for their certification to be recognised in the UK and the Commonwealth as well as internationally. In February 1949, the Nursing Registration Ordinance was passed, requiring all nurses to be registered or admitted by examination.
 
 While the post-war demands for nurses soared, the recruitment of student nurses was still abysmal mainly due to the lack of local women with the required level of education. To ease the shortage, nurse training for males was introduced in 1948. Existing male students from the Hospital Assistants training programme were transferred to this new course. In addition, the Catholic religious community came forward once again: nuns from the Franciscan Missionaries of the Divine Motherhood – many of whom were trained nurses and midwives – volunteered their services at the Tan Tock Seng Hospital between 1949 and 1962.
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-2/angels-in-white/03-angelsinwhite.jpg">A nun from the Franciscan Missionaries of the Divine Motherhood conducting an anatomy class for nurses at the Mandalay Road Hospital in 1950. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i></div>
 
 The early 1950s saw recruitment efforts being ramped up, with better prospects, training and promotion opportunities for nurses. Nursing was also portrayed in the media as a respectable career. The marketing efforts paid off and the number of student nurses grew considerably. But demand always seemed to outstrip supply and the nursing shortage persisted.
 
