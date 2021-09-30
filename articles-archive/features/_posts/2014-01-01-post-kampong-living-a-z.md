@@ -88,21 +88,21 @@ The <i>pasang</i> would have to run to the tin and bring it back and shout “I 
 
 #### **Mosquito Buses: Uncontrolled Breeding**
 
-The mosquito bus (1920s–1950s) was a form of public transport that appeared about every half hour. The unregulated growth of these buses invited many complaints, particularly about their horn-happy drivers: “[they made] day and night hideous with their incessant horn-blowing (i could, for instance, recognise from my bed no. 425 by his “signature tune” as he went up or down Bukit Timah road.) in those days, it was common for buses to tootle away, while standing at the end of lorongs in Geylang road, in order to inform potential travellers that they were waiting.”[^30]
+The mosquito bus (1920s-1950s) was a form of public transport that appeared about every half hour. The unregulated growth of these buses invited many complaints, particularly about their horn-happy drivers: “[they made] day and night hideous with their incessant horn-blowing (I could, for instance, recognise from my bed no. 425 by his “signature tune” as he went up or down Bukit Timah road.) In those days, it was common for buses to tootle away, while standing at the end of <i>lorongs</i> in Geylang road, in order to inform potential travellers that they were waiting.”[^30]
 
 For all that ruckus, the mosquito buses could only take six seating passengers and one standing. Little wonder that when bigger motorcars appeared, these buses lost their buzz. By the 1950s, they were allowed to ply only in rural areas and the outer fringes of the city.[^31]
 
-Tay Koh Yat bus service’s “Mosquito Buses” at Sembawang (1955). F. W. York collection, courtesy of National Archives of Singapore
+Tay Koh Yat bus service’s “Mosquito Buses” at Sembawang (1955). <i>F. W. York collection, courtesy of National Archives of Singapore.</i>
 
 #### **Next-Door Neighbours: "No Salt? No Problem!"**
 
-Today, when a housewife in the midst of cooking realises she has no salt in her larder, she turns off her gas-powered stove and heads to the nearest grocery store. decades ago, she would have probably left her arang stove on while she dropped in on her neighbour to borrow some salt. privacy in kampongs was less guarded as doors or gates were left ajar, inviting interactions and exchanging of small favours. A mother could tumpang (drop) her kids with the next-door neighbour while she ran an errand, or ask her neighbour to pick up some vegetables and fish on her behalf at the market. The gotong-royong (community help) spirit was much alive with neighbours looking out for one another.
+Today, when a housewife in the midst of cooking realises she has no salt in her larder, she turns off her gas-powered stove and heads to the nearest grocery store. Decades ago, she would have probably left her <i>arang</i> stove on while she dropped in on her neighbour to borrow some salt. Privacy in <i>kampongs</i> was less guarded as doors or gates were left ajar, inviting interactions and exchanging of small favours. A mother could <i>tumpang</i> (drop) her kids with the next-door neighbour while she ran an errand, or ask her neighbour to pick up some vegetables and fish on her behalf at the market. The <i>gotong-royong</i> (community help) spirit was much alive with neighbours looking out for one another.
 
 Unlicensed hawkers outside the Jalan Eunos Wet Market in 1958. MITA collection, courtesy of National Archives of Singapore
 
 #### **Open-Air Cinemas = Open Skies Treatment**
 
-Children who lived in rural areas were able to enjoy the movies thanks to openair cinemas. it cost 50 cents to secure a (wooden) seat. Many children caught reruns after school and when it rained, people would huddle to the side for shelter. one movie-goer remembered “patronising the cheap open air cinema called peking Theatre located opposite the present Macpherson market... [movies were only] 5 cents but [one had] to endure the mosquitoes and there were no refunds if the show was cancelled due to heavy rain or power failure.”[^32]
+Children who lived in rural areas were able to enjoy the movies thanks to openair cinemas. It cost 50 cents to secure a (wooden) seat. Many children caught reruns after school and when it rained, people would huddle to the side for shelter. One movie-goer remembered “patronising the cheap open air cinema called Peking Theatre located opposite the present Macpherson market... [movies were only] 5 cents but [one had] to endure the mosquitoes and there were no refunds if the show was cancelled due to heavy rain or power failure.”[^32]
 
 #### **Police and Thief**
 
