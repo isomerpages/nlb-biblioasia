@@ -105,3 +105,5 @@ In general, there were two main types of memorial arches: the Meritorious Deeds 
 In traditional Chinese society, women were usually not mentioned in <i>jiapu</i>, unless they had given birth to sons, in which case, their surnames would be recorded. However, if a widow did not re-marry after the death of her husband, her virtue would earn her a chastity memorial arch. These women were also granted a chapter in the biographical section of the <i>jiapu</i>, which was considered to be a great honour.[^14]
 
 <p style="font-size:15px;"><b>Lee Meiyu</b> is a librarian at the Lee Kong Chian Reference Library at the National Library Board. The subject of genealogy is close to her heart and she has worked on resource publications that complement NLB’s exhibitions such as <i>Money by Mail to China: Dreams and Struggles of Early Migrants (2012)</i> and <i>ROOTS: Tracing Family Histories — A Resource Guide (2013).</i></p>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
