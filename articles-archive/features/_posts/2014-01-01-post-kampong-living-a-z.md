@@ -62,29 +62,29 @@ It was easy to identify the marble king of a district as he usually strutted aro
 
 #### **Hantam Bola**
 
-One of most exhilarating <i>kampong</i> games, <i>hantam</i> (or <i>hentam</i>) bola or <i>rembat bola</i> (whack ball) is a fiercely competitive and physical game. Speed and power reign supreme; players from one team will chase and hit their opponents with a tennis ball as one player described, “i was very good at hantam bola in my younger days, catch tennis ball with left hand and whack anyone in front with the right hand.” 
+One of most exhilarating <i>kampong</i> games, <i>hantam</i> (or <i>hentam</i>) bola or <i>rembat bola</i> (whack ball) is a fiercely competitive and physical game. Speed and power reign supreme; players from one team will chase and hit their opponents with a tennis ball as one player described, “I was very good at <i>hantam bola</i> in my younger days, catch tennis ball with left hand and whack anyone in front with the right hand.” 
 
-If unlucky, the ball would kena (hit) your face or head (followed by “tao pio ah” or “hit lottery”, a euphemism for being doused on the head with bird poop). playing hantam bola in the rain would send one rolling into muddy puddles but the fun would end immediately when your mother saw your dirty state; she would hantam (whack) you instead! 
+If unlucky, the ball would <i>kena</i> (hit) your face or head (followed by “<i>tao pio ah</i>” or “hit lottery”, a euphemism for being doused on the head with bird poop). Playing <i>hantam bola</i> in the rain would send one rolling into muddy puddles but the fun would end immediately when your mother saw your dirty state; she would <i>hantam</i> (whack) you instead! 
 
 #### **Itinerant Hawkers: Unlicensed Taste**
 
-Street food vendors used to travel from kampong to kampong peddling their signature delicacies. An expectant crowd would gather in anticipation of the tantalising food, such as ice balls, char kway teow (noodles) and satay.27 Unfortunately, the “dirt-cheap” hawker food was often dirt-riddled too.28 in the 1960s, in a move to improve food hygiene, food peddlers were relocated to centralised hawker centres.[^29]
+Street food vendors used to travel from <i>kampong</i> to <i>kampong</i> peddling their signature delicacies. An expectant crowd would gather in anticipation of the tantalising food, such as ice balls, <i>char kway teow</i> (noodles) and satay.[^27] Unfortunately, the “dirt-cheap” hawker food was often dirt-riddled too.[^28] In the 1960s, in a move to improve food hygiene, food peddlers were relocated to centralised hawker centres.[^29]
 
 #### **Jelon**
 
-Unlike hantam bola, jelon is played within a set boundary. This game is called galah panjang or hadang-hadang (blocking) in Malaysia but it is known as jelon (a corruption of “balloon”) or belon acah (literally meaning “tease balloon”) in Singapore. when Singaporeans moved to flats, many children played jelon at the void decks or badminton courts. within those spaces, mini-courts parallel to one another were marked and one team would defend the entrances to these courts. The aim of each team was to penetrate the entrances without getting tapped by their opponents. if one player managed to break through, his team would win, but if one of them got tapped the whole team was out.
+Unlike <i>hantam bola</i>, <i>jelon</i> is played within a set boundary. This game is called <i>galah panjang</i> or <i>hadang-hadang</i> (blocking) in Malaysia but it is known as <i>jelon</i> (a corruption of “balloon”) or <i>belon acah</i> (literally meaning “tease balloon”) in Singapore. When Singaporeans moved to flats, many children played <i>jelon</i> at the void decks or badminton courts. Within those spaces, mini-courts parallel to one another were marked and one team would defend the entrances to these courts. The aim of each team was to penetrate the entrances without getting tapped by their opponents. If one player managed to break through, his team would win, but if one of them got tapped the whole team was out.
 
 #### **Kleret: He Ain't Heavey, He's My Brother**
 
 The aim of this game is to get a free piggyback ride from your opponent (pictured below).
 
-Keleret must be played in pairs or teams. Flat stones or tiles (batu keleret) are thrown to get close to the target line or circle (1950S). Courtesy of Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.
+<i>Keleret</i> must be played in pairs or teams. Flat stones or tiles (<i>batu keleret</i>) are thrown to get close to the target line or circle (1950s). <i>Courtesy of Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i>
 
 #### **Lambong Tin (or "Hide-And-Seek", "I Spy" or Nyorok-Nyorok)
 
 Prior to the start of the game, a pasang (Malay for catcher) or spy would be selected via oh somm or oh beh som or wah peh ya som (see text box). next, everyone would gather around and one player would shake a tin that had been filled with stones and then fling it. The moment the tin was flung, everyone would disperse. 
 
-The pasang would have to run to the tin and bring it back and shout “i spy!” which signalled that the game had started proper. if players needed a time-out they would signal for a break by making the “peace” sign with their fingers and shout “chope”, “chope night”, or “chope twist”! it would be honoured and everyone could take a break.
+The <i>pasang</i> would have to run to the tin and bring it back and shout “I spy!” which signalled that the game had started proper. If players needed a time-out they would signal for a break by making the “peace” sign with their fingers and shout <i>“chope”</i>, <i>“chope night”</i>, or <i>“chope twist”</i>! it would be honoured and everyone could take a break.
 
 #### **Mosquito Buses: Uncontrolled Breeding**
 
