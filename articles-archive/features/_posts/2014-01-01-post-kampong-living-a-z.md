@@ -58,11 +58,11 @@ Five Stones is played with five small triangular cloth bags filled with seeds, r
 
 #### **Goli(marbles)**
 
-It was easy to identify the marble king of a district as he usually strutted around with pockets bulging with his spherical conquests. The earliest marbles were made of clay before they were replaced by glass ones. There were multiple ways to win each other’s marbles and regardless of their luck that day, all would return to the same patch the next day to have another go at the goli galore. it was a game with “lots of arguments and quarrels and fights ... But by and large, the next day everybody would turn up again as if nothing happened and start the game [again].”[^24]
+It was easy to identify the marble king of a district as he usually strutted around with pockets bulging with his spherical conquests. The earliest marbles were made of clay before they were replaced by glass ones. There were multiple ways to win each other’s marbles and regardless of their luck that day, all would return to the same patch the next day to have another go at the <i>goli galore</i>. It was a game with “lots of arguments and quarrels and fights ... But by and large, the next day everybody would turn up again as if nothing happened and start the game [again].”[^24]
 
 #### **Hantam Bola**
 
-One of most exhilarating kampong games, hantam (or hentam) bola or rembat bola (whack ball) is a fiercely competitive and physical game. Speed and power reign supreme; players from one team will chase and hit their opponents with a tennis ball as one player described, “i was very good at hantam bola in my younger days, catch tennis ball with left hand and whack anyone in front with the right hand.” 
+One of most exhilarating <i>kampong</i> games, <i>hantam</i> (or <i>hentam</i>) bola or <i>rembat bola</i> (whack ball) is a fiercely competitive and physical game. Speed and power reign supreme; players from one team will chase and hit their opponents with a tennis ball as one player described, “i was very good at hantam bola in my younger days, catch tennis ball with left hand and whack anyone in front with the right hand.” 
 
 If unlucky, the ball would kena (hit) your face or head (followed by “tao pio ah” or “hit lottery”, a euphemism for being doused on the head with bird poop). playing hantam bola in the rain would send one rolling into muddy puddles but the fun would end immediately when your mother saw your dirty state; she would hantam (whack) you instead! 
 
