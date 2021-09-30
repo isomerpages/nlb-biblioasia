@@ -10,7 +10,7 @@ A barber shop along a five-foot way at Wayang Street in 1986. Ronni Pinsler coll
 
 #### **The Streets of Chinatown, Little India and**
 
-the arterial roads encircling the Central Business district were once crammed cheek by jowl with shophouses, street vendors and roadside stallholders peddling a mind-boggling variety of goods and services. These traditional peddlers are now virtually extinct — economic progress and urbanisation having dealt a death blow to these small-time trading activities. 
+The arterial roads encircling the Central Business district were once crammed cheek by jowl with shophouses, street vendors and roadside stallholders peddling a mind-boggling variety of goods and services. These traditional peddlers are now virtually extinct — economic progress and urbanisation having dealt a death blow to these small-time trading activities. 
 
 From the late 19th to the early 20th centuries, there was a continuous influx of unskilled immigrants from China, india and Southeast Asia who came to seek their fortunes in Singapore. Many had minimal or no education, meagre possessions and limited funds. Some were already skilled tinsmiths, goldsmiths, locksmiths, seal carvers, image carvers, boat makers, and mask and dragon makers while others with more artistic inclinations had been trained as portrait and photo artists, opera actors and actresses, glove puppeteers and calligraphers. others picked up various trades after they arrived in Singapore by serving as apprentices to local barbers, cobblers, furniture restorers and clog makers.
 
@@ -172,4 +172,6 @@ Samsui women, with their iconic red headgear and black trousers, have also been 
 
 While the demise of these trades is inevitable due to economic progress and advancements in technology, continual efforts are being made at the individual, community and national levels to capture, document and preserve the memory of our early trades and the people who toiled at their crafts. we can take comfort that Singapore’s pioneer tradesmen and craftsmen will not likely disappear from society’s consciousness but continue to live on in our communal memories and national chronicles. 
 
-Sharon Teng is a Librarian with the National Library Board. She has contributed articles to BiblioAsia as well as Infopedia, NLB's online encyclopedia of Singapore. Her interest areas include the use of technology and social media in libraries.
+<p style="font-size:15px;"><b>Sharon Teng</b> is a Librarian with the National Library Board. She has contributed articles to BiblioAsia as well as Infopedia, NLB's online encyclopedia of Singapore. Her interest areas include the use of technology and social media in libraries.</p>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
