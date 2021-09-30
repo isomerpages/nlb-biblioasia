@@ -168,10 +168,10 @@ Videos on vanishing trades can also be found on YouTube, posted by teachers and 
 
 Vanishing trades have been featured in commemorative memorabilia such as the 1978 <i>Straits Times</i> calendars[^27] and a set of collectible econ minimart phonecards sold in 1996.[^28] Street traders of the early 1900s were also featured on a series of thematic MRT cards released in 1997.[^29]
 
-Samsui women, with their iconic red headgear and black trousers, have also been immortalised as dolls and t-shirt emblems sold at the Chinatown Heritage Centre. photographs of samsui women were also displayed at bus stops during the M1 Singapore Fringe Art Festival in 2011.[^30]
+<i>Samsui</i> women, with their iconic red headgear and black trousers, have also been immortalised as dolls and t-shirt emblems sold at the Chinatown Heritage Centre. Photographs of <i>samsui women</i> were also displayed at bus stops during the M1 Singapore Fringe Art Festival in 2011.[^30]
 
-While the demise of these trades is inevitable due to economic progress and advancements in technology, continual efforts are being made at the individual, community and national levels to capture, document and preserve the memory of our early trades and the people who toiled at their crafts. we can take comfort that Singapore’s pioneer tradesmen and craftsmen will not likely disappear from society’s consciousness but continue to live on in our communal memories and national chronicles. 
+While the demise of these trades is inevitable due to economic progress and advancements in technology, continual efforts are being made at the individual, community and national levels to capture, document and preserve the memory of our early trades and the people who toiled at their crafts. We can take comfort that Singapore’s pioneer tradesmen and craftsmen will not likely disappear from society’s consciousness but continue to live on in our communal memories and national chronicles. 
 
-<p style="font-size:15px;"><b>Sharon Teng</b> is a Librarian with the National Library Board. She has contributed articles to BiblioAsia as well as Infopedia, NLB's online encyclopedia of Singapore. Her interest areas include the use of technology and social media in libraries.</p>
+<p style="font-size:15px;"><b>Sharon Teng</b> is a Librarian with the National Library Board. She has contributed articles to <i>BiblioAsia</i> as well as Infopedia, NLB's online encyclopedia of Singapore. Her interest areas include the use of technology and social media in libraries.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
