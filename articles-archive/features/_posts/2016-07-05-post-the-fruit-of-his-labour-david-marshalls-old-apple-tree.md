@@ -65,15 +65,13 @@ As the Chief Minister’s manoeuvres, which marshalled a united front against Br
 
 Marshall resigned as Chief Minister on 7 June 1956 after the constitutional talks in London broke down over the issue of a joint defence and internal security council. “Christmas pudding with arsenic sauce”, was his acerbic verdict of the British’s final offer of a council with a British veto.[^19] Marshall’s successor Lim Yew Hock, who broke this impasse by offering the council’s casting vote to a Malayan delegate (with the blessing of Malaya’s premier Tunku Abdul Rahman), would win self-rule for Singapore but ultimately had to step down in 1959, having lost the popular vote for his overt suppression of leftist students and unionists.[^20]
 
-<div style="background-color: white;"><img style="width:500px"  src="/images/Vol-12-issue-2/david-marshall/05-davidmarshall.jpg">David Marshall and his British-born wife Jean with two of their three daughters, Joanna and Ruth, in their arms respectively in a photo taken in January 1964. <i>Courtesy of Mrs Jean Marshall.</i></div>
-
 Marshall regarded Lim’s constitutional achievement as a “fraud” and resigned from the Legislative Assembly on 30 April 1957, triggering a by-election for Cairnhill. At least one candidate saw the “apple tree” as a mantle of sorts during the contest for Marshall’s former ward. M. A Majid, an independent, held a lunchtime meeting under it on 27 May 1957 but fled, along with his audience of 20, to shelter when rain wrecked his act. A second attempt to rally his troops a day later was foiled when the police informed Majid that his rally site was not part of Cairnhill ward.[^21]
 
 During the 1959 general election for a fully elected Legislative Assembly, the PAP sought to tap on the still-resonant symbolism of the tree. But they were denied permission to hold a rally under it – public gatherings on the left bank of the Singapore River had been prohibited whenever the Legislative Assembly or Supreme Court was in session.[^22] The PAP shrugged off this hiccup and instead held its rally across the river at Fullerton Square, a tradition that continued in the decades to come.
 
 Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and was once again contesting Cairnhill, was reported to have “deserted his old apple tree, and… canvassing quietly from house to house”. Indeed, as *The Straits Times* had declared earlier on 26 February 1957, following Marshall’s ouster from leadership in the Labour Front, “The season of the old apple tree is over”.[^23]
 
-<div style="background-color: white;"><img style="width:400px"  src="/images/Vol-12-issue-2/david-marshall/08-davidmarshall.jpg">David Marshall meeting Malay villagers in a kampong. <i>David Marshall Collection, courtesy of ISEAS Library, ISEAS-Yusof Ishak Institute, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px"  src="/images/Vol-12-issue-2/david-marshall/05-davidmarshall.jpg">David Marshall and his British-born wife Jean with two of their three daughters, Joanna and Ruth, in their arms respectively in a photo taken in January 1964. <i>Courtesy of Mrs Jean Marshall.</i></div>
 
 |<br>**A TREE BY ANY OTHER NAME**|
 
@@ -111,7 +109,8 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 |Marshall’s political legacy also included weekly meet-the-people sessions – the first was held on 18 April 1955 – during which he sat with sundry members of the public in a conference room at the Assembly House to hear their woes and help them as best as he could.[^41] Such tête-à-têtes have since become a mainstay of grassroots politics in Singapore. To be compared with the Buddha, who gained enlightenment under the shade of a bo tree, is truly a befitting testimony to a leader who valued honour over power and sacrifice above self.|
 
-|<br><br><img style="width:500px" src="/images/Vol-12-issue-2/david-marshall/04-davidmarshall.jpg">David Marshall at one of his weekly meet-the-people sessions at the Assembly House, the first of which was held on 18 April 1955. <i>David Marshall Collection, courtesy of ISEAS Library, ISEAS-Yusof Ishak Institute, Singapore.</i>|
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/david-marshall/04a-davidmarshall.jpg">(Left) David Marshall at one of his weekly meet-the-people sessions at the Assembly House, the first of which was held on 18 April 1955. <i>David Marshall Collection, courtesy of ISEAS Library, ISEAS-Yusof Ishak Institute, Singapore.</i></div>
+<div style="background-color: white;">(Right) David Marshall meeting Malay villagers in a kampong. <i>David Marshall Collection, courtesy of ISEAS Library, ISEAS-Yusof Ishak Institute, Singapore.</i></div>
 
 <div style="background-color: white;">
 <br>
