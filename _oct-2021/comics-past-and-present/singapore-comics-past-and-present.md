@@ -46,7 +46,6 @@ In the following sections, we look at some major comic genres and introduce inte
 
 Anthologies are a popular format for comics. A number of collections have been published over the years and these have helped to bring many artists to prominence.
 
-
 ##### PAST...
 漫画同盟 (<i>Comics Alliance</i>) – a four-volume anthology series published in 1997, 1998 and 2001 – is a compilation of Chinese comics by various Singaporean comic artists. The books are edited by comic veterans Wee Tian Beng and Wee See Heng.
 	
