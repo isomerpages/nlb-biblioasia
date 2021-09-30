@@ -48,21 +48,21 @@ Cobbler operating from pavement (1980). <i>Courtesy of National Archives of Sing
 
 <i>History</i><br>Chinese fortune-telling as a trade began in the 1800s when there was a huge influx of Chinese immigrants to Singapore. Having little or no education, people who needed help with selecting a felicitous date for a wedding or the opening of a shop for example, would seek the advice of a fortune teller. 
 
-Parrot astrology was the domain of indian fortune tellers who originated mainly from Tamil nadu and Kerala in South india.
+Parrot astrology was the domain of Indian fortune tellers who originated mainly from Tamil Nadu and Kerala in South India.
 
-<i>Job Scope</i><br>There were several popular methods that Chinese fortune tellers used, such as palmistry, face reading, bazi (using one’s birth date to predict one’s destiny or to gauge the compatibility of a match-made couple), kau cim (using a set of 78 sticks for short-term predictions) and tung chu (using the almanac to select auspicious dates for important events such as weddings and shifting house).
+<i>Job Scope</i><br>There were several popular methods that Chinese fortune tellers used, such as palmistry, face reading, <i>bazi</i> (using one’s birth date to predict one’s destiny or to gauge the compatibility of a match-made couple), <i>kau cim</i> (using a set of 78 sticks for short-term predictions) and <i>tung chu</i> (using the almanac to select auspicious dates for important events such as weddings and shifting house).
 
 Indian fortune tellers relied on their specially trained green parakeets to foretell the future. The bird would pick a fortune card based on the customer’s name and birth date. The astrologer would then interpret the image on the card (which depicted deities of different faiths, accompanied by lucky messages) that would address the customer’s concerns, which ranged from chances at the lottery and matrimonial compatibility to the recovery of a sick loved one.
 
 <i>Tools of the Trade</i><br>Chinese fortune tellers operated from a simple consultation booth, furnished with a small table and a few stools for customers. on display would be religious iconography such as the statue of Buddha or other Chinese deities, lighted incense or joss sticks, pictures of palms, cards, bamboo sticks and books among others.
 
-An indian fortune teller, dressed in a white dhoti and shirt, would have had an even more basic set-up: a small table or even just the pavement itself, where a deck of 27 fortune cards would be displayed along with some charts, a notebook and caged parakeets. To supplement their paltry daily incomes of $10 to $15, they would also participate in cultural shows and trade exhibitions, earning up to $100 to $200 per job. 
+An Indian fortune teller, dressed in a white <i>dhoti</i> and shirt, would have had an even more basic set-up: a small table or even just the pavement itself, where a deck of 27 fortune cards would be displayed along with some charts, a notebook and caged parakeets. To supplement their paltry daily incomes of $10 to $15, they would also participate in cultural shows and trade exhibitions, earning up to $100 to $200 per job. 
 
-<i>Then and Now</i><br>in the past, fortune tellers were usually found along five-foot-ways and in temple grounds. Today, Chinese fortune tellers are still commonly seen around Chinatown, at Kwan im Thong Hood Cho Temple in waterloo Street, and at older HdB estates such as Bedok, Toa payoh and Ang Mo Kio.
+<i>Then and Now</i><br>In the past, fortune tellers were usually found along five-foot-ways and in temple grounds. Today, Chinese fortune tellers are still commonly seen around Chinatown, at Kwan Im Thong Hood Cho Temple in Waterloo Street, and at older HDB estates such as Bedok, Toa Payoh and Ang Mo Kio.
 
-Parrot astrologers were based in Serangoon road but they also made house calls, especially during festive occasions. Today, there are fewer than five still in business in Little india, as many indians have ceased to believe in this method of divination.[^8]
+Parrot astrologers were based in Serangoon Road but they also made house calls, especially during festive occasions. Today, there are fewer than five still in business in Little India, as many Indians have ceased to believe in this method of divination.[^8]
 
-Parrot fortune teller at Serangoon Road in 1980. Courtesy of National Archives of Singapore.
+Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archives of Singapore.</i>
 
 
 #### **Ice-ball Sellers**
