@@ -67,27 +67,27 @@ Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archive
 
 #### **Ice-ball Sellers**
 
-<i>History</i><br>ice-balls were hugely popular during the 1950s and 1960s, particularly among school children and teens. iceball sellers were mostly indian males, who sold drinks in addition to these cool delicious treats.
+<i>History</i><br>ice-balls were hugely popular during the 1950s and 1960s, particularly among school children and teens. Iceball sellers were mostly Indian males, who sold drinks in addition to these cool delicious treats.
 
-<i>Job Scope</i><br>To make an ice-ball, the iceball seller would use a towel to press a block of ice against an ice shaver. one hand would hold a bowl beneath to catch the shavings. He would then shape the ice shavings into a semicircle, enclosing within ingredients such as cubes of agaragar, or jelly, sweetened red beans and attap-chee (mangrove palm seeds). Using yet more ice shavings, he would deftly compact it into a spherical snowball. Then lashings of red and green and palm sugar syrup are drizzled over the ice-ball, followed by a trickle of evaporated milk for added sweetness.
+<i>Job Scope</i><br>To make an ice-ball, the iceball seller would use a towel to press a block of ice against an ice shaver. One hand would hold a bowl beneath to catch the shavings. He would then shape the ice shavings into a semicircle, enclosing within ingredients such as cubes of <i>agar-agar</i>, or jelly, sweetened red beans and <i>attap-chee</i> (mangrove palm seeds). Using yet more ice shavings, he would deftly compact it into a spherical snowball. Then lashings of red and green and palm sugar syrup are drizzled over the ice-ball, followed by a trickle of evaporated milk for added sweetness.
 
 <i>Tools of the Trade</i><br>The ice-ball vendor’s stall or pushcart would be packed with glass bottles of soft drinks and drinking glasses, plastic containers filled with various sugar syrup concoctions, ingredients for the ice-ball fillings and the all-important wooden ice shaver.
 
-<i>Then and Now</i><br>ice-ball vendors were usually found near schools or along shophouses but sometimes moved to different locations with their mobile carts. ice-balls are the predecessors of the more elaborate plated dessert called ice kachang sold in hawker centres and food courts. in 2011, ice-balls were brought back as part of the dessert menu at the Singapore Food Trail (a dining attraction featuring popular local dishes), located next to the Singapore Flyer.[^9]
+<i>Then and Now</i><br>Ice-ball vendors were usually found near schools or along shophouses but sometimes moved to different locations with their mobile carts. Ice-balls are the predecessors of the more elaborate plated dessert called ice <i>kachang</i> sold in hawker centres and food courts. In 2011, ice-balls were brought back as part of the dessert menu at the Singapore Food Trail (a dining attraction featuring popular local dishes), located next to the Singapore Flyer.[^9]
 
-An Indian ice-water seller making a syrup coated ice-ball in 1978. Courtesy of Ministry of Information and The Arts (MITA).
+An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy of Ministry of Information and The Arts (MITA).</i>
 
 #### **Kachang Puteh Sellers**
 
-<i>History</i><br>A Malay phrase, “kachang” (nuts, beans or peas) and “puteh” (meaning white) was a popular snack up until the 1990s. The peanuts coated with melted white sugar is one of the most popular varieties and probably accounts for the name “white nuts”. Kachang puteh originated from an indian snack called chevdo.10 nuts of various colours and prepared in a variety of ways (steamed, fried, roasted or coated with sugar) were sold by the vendors, who were mostly Indians.
+<i>History</i><br>A Malay phrase, <i>“kachang”</i> (nuts, beans or peas) and <i>“puteh”</i> (meaning white) was a popular snack up until the 1990s. The peanuts coated with melted white sugar is one of the most popular varieties and probably accounts for the name “white nuts”. <i>Kachang puteh</i> originated from an Indian snack called <i>chevdo</i>.[^10] Nuts of various colours and prepared in a variety of ways (steamed, fried, roasted or coated with sugar) were sold by the vendors, who were mostly Indians.
 
-<i>Job Scope</i><br>The early itinerant kachang puteh seller hawked his wares stored in bottles or paper bags from a tray balanced on his head, moving from one location to the next. Some used push carts or bicycles, while others stationed themselves at fixed locales. Typically between five and 20 varieties of kachang puteh would be sold and each serving (either a single or mixed flavour of nuts) would be packed into rolled-up paper cones, using pages torn from old newspapers, yellow pages directories and school exercise books.
+<i>Job Scope</i><br>The early itinerant <i>kachang puteh</i> seller hawked his wares stored in bottles or paper bags from a tray balanced on his head, moving from one location to the next. Some used push carts or bicycles, while others stationed themselves at fixed locales. Typically between five and 20 varieties of <i>kachang puteh</i> would be sold and each serving (either a single or mixed flavour of nuts) would be packed into rolled-up paper cones, using pages torn from old newspapers, yellow pages directories and school exercise books.
 
-<i>Tools of the Trade</i><br>Kachang puteh vendors either roasted and flavoured their own kachang at home (a lengthy and painstaking process) or bought ready-made kachang directly from suppliers.
+<i>Tools of the Trade</i><br><i>Kachang puteh</i> vendors either roasted and flavoured their own <i>kachang</i> at home (a lengthy and painstaking process) or bought ready-made <i>kachang</i> directly from suppliers.
 
-<i>Then and Now</i><br>Kachang puteh sellers used to frequent schools, cinemas, swimming pools and shopping centres. Such independent vendors have all but vanished today, except for perhaps the sole survivng kachang puteh seller in Singapore, Mr nagappan Arumugam, who has manned a pushcart at peace Centre on Selegie road for over 20 years.11 Kachang puteh is now available in commercially pre-packed versions at supermarkets and 24-hour convenience stores all over Singapore. A push cart stall can also be found at the Singapore Food Trail.[^12]
+<i>Then and Now</i><br><i>Kachang puteh</i> sellers used to frequent schools, cinemas, swimming pools and shopping centres. Such independent vendors have all but vanished today, except for perhaps the sole survivng <i>kachang puteh</i> seller in Singapore, Mr Nagappan Arumugam, who has manned a pushcart at peace Centre on Selegie Road for over 20 years.[^11] <i>Kachang puteh</i> is now available in commercially pre-packed versions at supermarkets and 24-hour convenience stores all over Singapore. A push cart stall can also be found at the Singapore Food Trail.[^12]
 
-A roadside ‘kachang puteh’ seller (1985). Chu Sui Mang collection, courtesy of National Archives of Singapore.
+A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection, courtesy of National Archives of Singapore.</i>
 
 #### **Letter Writers**
 
