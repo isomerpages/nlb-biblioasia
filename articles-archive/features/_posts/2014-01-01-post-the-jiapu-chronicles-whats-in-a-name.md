@@ -62,6 +62,8 @@ The concept of the Main Branch stipulated that eldest sons of eldest sons formed
 
 Generation names were used to differentiate the generation that clan members belonged to within a large clan, which would in turn determine the appropriate greeting and conduct of members. Those born in the same generation would have the same Chinese character as the first character of their names. In most cases, clans would use Chinese characters from a poem that recorded meritorious clan deeds or virtues valued by the clan as the sequence of characters to be used. Hence, clan members would be able to infer the seniority of another based on the sequence of their generation names as indicated in the poem.[^11]
 
+
+
 #### **Ancestral Hall (Ci Tang 祠堂)**
 
 Ancestor worship is an important activity in Chinese culture, based on the belief that the spirits of the dead can influence the activities of the living. In order to gain the blessings of the spirits, rites are performed to appease them. Apart from obtaining blessings, ancestral rites also serve as important familial focal points and reminders of their blood ties. Ancestral tablets of a clan are housed in an ancestral hall and this is also where the <i>jiapu</i> is kept. The ancestral hall is a physical manifestation of the connection between the generations, bestowing a sense of identity on the clan as a whole as well as individually. 
@@ -75,6 +77,26 @@ A 1949 drawing plan shows the Liugui Hall built in Quanzhou, China — where the
 #### **Lands Belonging to the Ancestral Hall (Ji Tian 祭田)**
 
 Funds were needed to upkeep the ancestral hall as well as pay for the expansion of the building, the performance of ancestral rites, clan events, distribution of money to needy members, and even updating of the <i>jiapu</i>. Different households would contribute funds to the ancestral hall, but it was common for richer clan members to donate land to the ancestral hall. These were rented out as sources of revenue that went to the management of the ancestral hall. information on these lands was often recorded in the <i>jiapu</i> as well.[^13]
+
+#### **Biographies (Zhuan Ji 传记)**
+
+Biographical writings in <i>jiapu</i> appeared as early as the Han dynasty. An example would be the “records of the Grand Historian” (Shi ji《史记》) by Sima Qian in which a compilation of 12 royal genealogies appeared in the “imperial Biographies”. Biographical writings continued to appear in <i>jiapu</i>, eventually forming its own chapter. As biographies detailed the lives of individuals, they were used to highlight illustrious ancestors, glorifying the clan indirectly.[^15]
+
+Similar to biographies were chapters of “Ancestor portraits and praises” (zu xian xiang zan 祖先像赞) and “records of Meritorious deeds” (en rong lu 恩荣录). important individuals such as first migrant ancestors, ancestors within the nine generations, ancestors who had illustrious careers, and ancestors who had performed virtuous or meritorious acts are included in these chapters.
+
+Biographies typically only contain text, while “Ancestor portraits and praises” include pictures and poems that praise the importance of an individual. The biographies in the genealogy of the Xu (许) clan from the Shigui and yaolin areas in Jinjiang, Fujian (福建晋江石龟瑶林) combine both the “Ancestor portraits and praises” and biographical writings into one chapter. it highlights the first migrant ancestor of the Shigui and Yaolin branch, Ai (Ai Gong, 爱公). The poem recounts that Ai, on orders from the imperial court, was assigned to develop the Quanzhou area during the Tang dynasty. The biography states the year of his assignment (678 Ce) and that he moved from yaolin to Shigui in 710 Ce after deciding that yaolin was too small for the clan if its numbers grew. Ai was a general with an illustrious military career and had three sons. The ancestral temple honouring him and his sons was destroyed and rebuilt several times over the course of time. 
+
+#### **Clan Rules (Jia Fa 家法)
+
+Besides documenting familial ties, <i>jiapu</i> were also instrumental in guiding members’ conduct towards one another to promote harmony and cohesion within the clan. This appeared in a chapter called “Clan rules”. Clan rules was a set of moral teachings stating how clan members should behave in order to avoid conflict.[^16]
+
+The genealogy of the Huang (黄) clan from pengzhou and Xialu village (蓬洲霞露) had 15 rules to abide by: to be filial, maintain harmony within the clan, maintain peace with neighbours; be humble and courteous; committed to work; to strive for knowledge; obey teachers; maintain ancestors’ graves; avoid having same names as elders; avoid court cases; avoid bad habits; obey superiors; avoid deviating from sagely teachings; avoid committing crimes; and to revise <i>jiapu</i> regularly. This was followed by a chapter on implementing the rules in daily activities.
+
+Such chapters were heavily influenced by Confucian teachings on respecting authority and elders, and emphasised that rituals were important activities that reinforced hierarchy and united clan members. These chapters also proved that <i>jiapu</i> were used as basic documents that recorded the “laws” of a clan.
+
+#### **Conclusion**
+
+The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of information found in traditional Chinese genealogical records. There are no fixed rules on how to write a genealogy, and many Chinese families have adapted aspects of <i>jiapu</i> that best suit the needs of their families. As a result, the <i>jiapu</i> is an ever-evolving document that captures the characteristics of society at a particular point in time, and also offers a glimpse into the historical continuity of Chinese family structure and beliefs. 
 
 **Memorial Arches (Pai Fang 牌坊)**
 
