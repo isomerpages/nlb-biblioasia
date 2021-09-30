@@ -6,7 +6,7 @@ layout: post
 ---
 #### A sailor travels halfway around the world in his attempt to return home, and becomes the first Japanese resident in Singapore in the process. **Bonny Tan** tells the story.
 
-<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-2/yamamoto-otokichi/02-yamamoto-otokichi.jpg">(Left) An 1849 illustration of Yamamoto Otokichi. Artist unknown. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-2/yamamoto-otokichi/02a-yamamoto-otokichi.jpg">(Left) An 1849 illustration of Yamamoto Otokichi. Artist unknown. <i>Courtesy of Wikimedia Commons.</i></div>
 <div style="background-color: white;">(Right) Japanese drawing of the <i>Morrison</i>, anchored at Uraga, Kanagawa Prefecture, in 1837. This was the ship that brought Otokichi and his two comrades back to Japan but was received with cannon fire instead. Artist unknown. <i>Courtesy of Wikimedia Commons.</i></div>
 
 During the Edo period (1603–1868) under the rule of the Tokugawa Shogunate,[^1] Japan was a very insular society and kept its doors closed to foreign influence. Japanese nationals leaving the country could not return home on pain of death, and foreigners were barred from entering the country. Only Nagasaki on southernmost Kyushu island remained open as a primary trading port for the Dutch East India Company. This period of national isolation called *sakoku* (meaning literally “closed country”) was in force for over 250 years until Commodore Matthew Perry of the US arrived with his fleet in 1853 to wrest open Japan to foreign trade.
@@ -17,7 +17,7 @@ A little known figure by the name of Yamamoto Otokichi – born in 1817 in Onour
 
 The second overseas Japanese diplomatic mission[^2] to Europe, led by Takenouchi Yasunori, governor of the Shimotsuke region, arrived in Singapore on 17 February 1862, and stayed here for two days. Among the members of his delegation was the interpreter Fukuzawa Yukichi who would later gain fame as one of the leading advocates for the modernisation of Japan during the Meiji era (1868–1912).
 
-<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-12-issue-2/yamamoto-otokichi/03-yamamoto-otokichi.jpg">Some members of the Japanese government mission to Europe. Photo taken in Utrecht, Netherlands, in July 1862. The interpreter Fukuzawa Yukichi, who was part of the delegation that visited Singapore earlier on 17 February 1862, is seen standing second from the left. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/yamamoto-otokichi/03a-yamamoto-otokichi.jpg">Some members of the Japanese government mission to Europe. Photo taken in Utrecht, Netherlands, in July 1862. The interpreter Fukuzawa Yukichi, who was part of the delegation that visited Singapore earlier on 17 February 1862, is seen standing second from the left. <i>Courtesy of Wikimedia Commons.</i></div>
 
 On the day the Japanese entourage arrived in Singapore, Otokichi met up with Yukichi and some members of the mission at the Adelphi Hotel bringing them around Singapore to view the sights, including his house. Yukichi and several others also had their portraits taken at a photo studio on Orchard Road.[^3]
 
