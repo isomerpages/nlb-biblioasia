@@ -143,3 +143,85 @@ Today, the dispersed holdings of the Raffles Library and Museum exist in the col
 <a href="/vol-12/issue-1/apr-jun-2016/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
+
+Book show for Malaya. (1947, July 27). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+Buckley, C.B. (1984). An anecdotal history of old times in Singapore (pp. 122–139). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+
+Corner, E.J.H. (1981). The Marquis: A tale of Syonan-to. Singapore: Heinemann Asia. (Call no.: RSING  959.57023 COR)
+
+Daniel, P. (1941). A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library, Singapore. Singapore: [Malayan Branch of the Royal Asiatic Society]. Call no.: RCLOS 016.9595 DAN)
+
+Dennys, N.B. (1880). A contribution to Malayan bibliography. Singapore: Straits Branch of the Royal Asiatic Society. Retrieved from BookSG.
+
+Hanitsch, R. (1991). Raffles Library and Museum, Singapore. In W. Makepeace, G.E. Brooke & R.St. J. Braddell. (Eds.), One hundred years of Singapore (Vol. 1, pp. 519–560). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+
+Journal in the federal capital. (1932, April 16). The Straits Times, p. 16. Retrieved from NewspaperSG.
+
+Khoo, B.L. (1972, September 8). A jealous guard on Singapore’s earliest books. New Nation, p. 9. Retrieved from NewspaperSG.
+
+Liu, G. (1987). One hundred years of the National Museum: Singapore 1887–1987. Singapore: The Museum. (Call no.: RSING 708.95957 LIU)
+
+Lum, M. (1986, October 4). Glimpses of life in pre-war days. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Malaya’s first printed book. (1948, October 3). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Quah, R. (1973). The Southeast Asia Collection of the National Library, Singapore – an appraisal. Singapore Libraries, 3, 32–37.
+
+Quaint delights and surprises in books of Malaya’s past. (1936, January 12). The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+Raffles, T.S. (1819). Minute by Sir T.S. Raffles on the establishment of a Malay College at Singapore. [S.l.: s.n.]. Retrieved from BookSG.
+
+Raffles, T.S. (1823). Formation of the Singapore Institution, A. D. 1823. Malacca: Printed at the Mission Press. Retrieved from BookSG.
+
+Raffles Library. (1877). General catalogue of bound volumes in the Raffles Library, Sept. 1st, 1877. Singapore: The Library. Retrieved from BookSG.
+
+Raffles Library. (1881). Catalogue of the Logan Library. Singapore: Printed by Straits Times Press. (Call no.: RRARE 015.5957 RAF; Microfilm nos.: NL3998; NL2805)
+
+Raffles Library. (1897). Catalogue of the Rost Collection in the Raffles Library Singapore. Singapore: Printed at the American Mission Press. Retrieved from BookSG.
+
+Raffles Library. (1957–1958). Annual report. Singapore: The Library. (Call no.: RRARE 027.55957 RLSAR)
+
+Raffles Museum. (1950). A working list of the scientific periodical publications retained in the Raffles Museum and Library, Singapore. Singapore: Govt. Print. Off. (Call no.: RCLOS 015.5951 RAF)
+
+Raffles Museum and Library. (1876–1955). Annual report. Singapore: The Museum. (Call no.: RRARE 027.55957 RAF; Microfilm nos.: NL3874, NL5723, NL25786)
+
+Seet, K. K. (1983). A place for the people. Singapore: Times Books International. (Call no.: RSING 027.55957 SEE)
+
+Singapore Institution Free School. (1834–1862). Report (Singapore Institution Free School), 1834–62. Singapore: Printed at the Mission Press. Retrieved from BookSG.
+
+Singapore Library. (1844–1860). Report. Singapore: Singapore Library. Retrieved from BooKSG.
+
+Singapore Library. (1860). Catalogue of books in the Singapore Library, with regulations and by-laws, September 1860. Singapore: Printed at the Mission Press. Retrieved from BooKSG.
+
+Tan, K. (2015). Of whales and dinosaurs: The story of Singapore’s Natural History Museum. Singapore: NUS Press. (Call no.: RSING 508.0745957 TAN)
+
+Van der Hoop, A.N.J. (1957). The Raffles Museum Singapore. [S.l., s.n.]. (Call no.: RDLKL 069.2095957 VAN)
+
+#### **NOTES**
+
+[^1]:Reith, G.M. (1892). Handbook to Singapore (pp. 36–37). Singapore: Singapore and Straits Print. Office. Retrieved from BookSG.
+
+[^2]:Raffles, T.S. (1819). Minute by Sir T.S. Raffles on the establishment of a Malay College at Singapore (pp. 17, 24). [S.l.: s.n.]. Retrieved from BookSG.
+
+[^3]:Singapore Library. (1850). The sixth report of the Singapore Library (p. 7). Singapore: Printed at the Singapore Free Press Office. Retrieved from BooKSG.
+
+[^4]:Singapore Library. (1849). The fifth report of the Singapore Library (pp. 10, 20). Singapore: Singapore Free Press Office. Retrieved from BookSG.
+
+[^5]:Hanitsch, R. (1991). Raffles Library and Museum, Singapore. In W. Makepeace, G.E. Brooke & R.St. J. Braddell. (Eds.), One hundred years of Singapore (Vol. 1, p. 546). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+
+[^6]:Raffles Museum and Library. (1880). Report on the Raffles Library and Museum for 1879 (p. 1). Singapore: The Museum. (Call no.: RRARE 027.55957 RAF; Microfilm no.: NL3874)
+
+[^7]:This title is currently on display at the library’s “From the Stacks” exhibition.
+
+[^8]:This title is currently on display at the library’s “From the Stacks” exhibition.
+
+[^9]:Daniel, P. (1941). A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library (p. i). Singapore. Singapore: [Malayan Branch of the Royal Asiatic Society]. Call no.: RCLOS 016.9595 DAN)
+
+[^10]:The author wishes to thank Dr Peter Borschberg for his assessment of the Mills Collection. 
+
+[^11]:A selection of newspapers from the Occupation period are on display at the “From the Stacks” exhibition. 
+
+[^12]:Corner, E.J.H. (1981). The Marquis: A tale of Syonan-to (p. 151). Singapore: Heinemann Asia. (Call no.: RSING  959.57023 COR)
+
+[^13]:Raffles Library. (1894). Annual report on the Raffles Library and Museum, for the year ending 31st December 1893 (p. 1). [S.l.: s.n.]. (Call no.: RRARE 027.55957 RAF; Microfilm no..: NL3874)
