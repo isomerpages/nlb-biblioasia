@@ -116,7 +116,7 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/david-marshall/marcus.png">
-	<b>Marcus Ng</b> is a freelance writer, editor and curator interested in biodiversity, ethnobiology and the intersection between natural and human histories. His work includes the book Habitats in Harmony: The Story of Semakau Landfill (2009 and 2012), and two exhibitions at the National Museum of Singapore: <i>Balik Pulau: Stories from Singapore’s Islands</i> and <i>Danger and Desire</i>.
+	<b>Marcus Ng</b> is a freelance writer, editor and curator interested in biodiversity, ethnobiology and the intersection between natural and human histories. His work includes the book <i>Habitats in Harmony: The Story of Semakau Landfill</i> (2009 and 2012), and two exhibitions at the National Museum of Singapore: “Balik Pulau: Stories from Singapore’s Islands” and “Danger and Desire”.
 </div>
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
@@ -169,7 +169,7 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 [^23]:[There is no putting the clock back in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590511-1.2.65.aspx). (1959, May 11). *The Straits Times*, p. 6; [The united front](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570226-1.2.87.aspx). (1957, February 26). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^24]:Wild Singapore. (2008, November 10). Jambu bol. Retrieved from Wild Singapore website; Keng, H. (1990). T*[he concise flora of Singapore: Gymnosperms and dicotyledons](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5678012)* (p. 78). Singapore: Singapore University Press, National University of Singapore. (Call no.: RSING 581.95957 KEN)
+[^24]:Wild Singapore. (2008, November 10). *Jambu bol*. Retrieved from Wild Singapore website; Keng, H. (1990). *[The concise flora of Singapore: Gymnosperms and dicotyledons](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5678012)* (p. 78). Singapore: Singapore University Press, National University of Singapore. (Call no.: RSING 581.95957 KEN)
 
 [^25]:National Parks Board. (2014, December 30). *Sea apple*. Retrieved from National Parks Board website.
 
@@ -203,4 +203,4 @@ Meanwhile, Marshall, who had founded the Workers’ Party on 7 November 1957 and
 
 [^40]:Thum, P. (2011, July). Living Buddha: Chinese perspectives on David Marshall and his government, 1955–1956. *[Indonesia and the Malay World](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=8347428), 39* (114), 256. (Call no.: RSEA 959.8 IMW)
 
-[^41]:[Grumble grumble – All day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550419-1.2.6.aspx). (1955, April 19). *The Straits Times*, p. 1. Retrieved from NewspaperSG; Thum, Jul 2011, p. 264.
+[^41]:[Grumble grumble – All day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550419-1.2.6.aspx). (1955, April 19). *The Straits Times*, p. 1. Retrieved from NewspaperSG; [Thum](eservice.nlb.gov.sg/itemholdings.aspx?bid=8347428), Jul 2011, p. 264.
