@@ -4,7 +4,7 @@ date: 2016-07-03
 permalink: /vol-12/issue-2/jul-sep-2016/best-nonfiction-book
 layout: post
 ---
-<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-12-issue-2/best-non-fiction-book/01a-nonfictionbook.jpg"></div>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-12-issue-2/best-non-fiction-book/01b-nonfictionbook.jpg"></div>
 
 *Through the Lens of Lee Kip Lin: Photographs of Singapore 1965-1995* – a pictorial book published by the National Library Board in partnership with Editions Didier Millet – clinched top honours recently in the non-fiction category at the Singapore Book Awards. A total of eight awards, which recognises the best in Singapore’s publishing scene, were given out on 11 May 2016.
 
@@ -29,7 +29,5 @@ Prominent architect Tay Kheng Soon describes *Through the Lens of Lee Kip Lin* a
 Through the *Lens of Lee Kip Lin: Photographs of Singapore 1965-1995* (hardcover, 208 pp) is published by National Library Board and Editions Didier Millet and retails at $42. Lee’s other seminal book *The Singapore House: 1819-1942* (hardcover, 232 pp), reprinted in 2015 by National Library Board and Marshall Cavendish Editions, is priced at $46.70. Both books are on sale at major bookshops and online retailers such as Amazon and Book Depository. All prices quoted exclude GST.
 
 Both books are available for loan and reference at the Lee Kong Chian Reference Library and branches of all public libraries.
-
-Download the PDF versions of BiblioAsia here: http://www.nlb.gov.sg/Browse/BiblioAsia.aspx
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
