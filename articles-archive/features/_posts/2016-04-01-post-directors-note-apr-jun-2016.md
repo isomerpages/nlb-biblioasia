@@ -23,3 +23,7 @@ Reading and anything connected with reading is something that resonates soundly 
 Still on the subject of reading, librarians Barbara Quek and Zoe Yeo showcase a selection of entertainment magazines from the 1930s to more recent times in “From Cover to Cover”. (Some of us may recall reading magazines like Fanfare surreptitiously lest they were seized by disapproving parents or teachers!)
 
 Senior Librarian Gracie Lee goes back even further to 1837 to chart the history of the Raffles Library and Museum – precursor of the National Library as we now know it. Some of the treasured rare books from the old Raffles library (now part of the Rare Materials Collection) are featured in the exhibition “From the Stacks: Highlights of the National Library” on level 10 of the NLB building. The exhibition ends on 28 August, so catch it soon.
+
+<b>Mrs Wai Yin Pryke</b><br>
+Director<br>
+National Library
