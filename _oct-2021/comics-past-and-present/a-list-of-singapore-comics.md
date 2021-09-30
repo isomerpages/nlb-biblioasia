@@ -58,13 +58,13 @@ Lau, Johnny. *[Mr Kiasu in Singapore History.](http://eservice.nlb.gov.sg/item_h
 ![Alt text for image on Isomer site](/images/antibiotics-tales-small3.jpg)
 Liew, Sonny and Hsu Li Yang. *[The Antibiotic Tales](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203939109)*. Singapore: Epigram, 2019. (Call no. RSING 615.329 LIE)	
 
+Liew, Sonny. *[The Art of Charlie Chan Hock Chye](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204463637)*. Singapore: Epigram Books, 2020. (Call no. RSING 741.595957 LIE)
+
 Liew, Sonny, ed. *[Liquid City Volume One](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13233324).* Berkeley, California: Image Comics, 2008. (Call no. RSING 741.59 LIQ)
 
 Liew, Sonny and Lim Cheng Tju, eds. *[Liquid City Volume Two](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13804090)*. Berkeley, California: Image Comics, 2010. (Call no. RSING 741.59 LIQ)
 
 Liew, Sonny and Joyce Sim, eds. *[Liquid City Volume Three](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201026140)*. Berkeley, California: Image Comics, 2014. (Call no. RSING 741.59 LIQ)
-
-Liew, Sonny. *[The Art of Charlie Chan Hock Chye](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204463637)*. Singapore: Epigram Books, 2020. (Call no. RSING 741.595957 LIE)
 
 Low, Travis and Li Shaoyang. *[The Secret of Redhill.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202249669)* Singapore: Funics, 2015. (Call no. JRSING 741.595957 LOW)
 
