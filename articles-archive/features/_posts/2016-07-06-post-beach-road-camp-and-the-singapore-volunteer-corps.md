@@ -96,7 +96,7 @@ Although 1 SIR was to have its base at Ulu Pandan Camp in the west of Singapore,
 
 <div style="background-color: white;"><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/06-volunteercorps.png">In 1907, the wood-and-corrugated-iron Drill Hall at Fort Fullerton was physically moved to its new location along Beach Road and re-assembled. <i>Courtesy of Prof Cheah Jin Seng.</i></div>
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/05-volunteercorps.png">The original Drill Hall was a makeshift wood-and-corrugated iron structure erected at Fort Fullerton near the entrance of the Singapore River in 1891. This would be the temporary home of the Singapore Volunteer Corps for the next 15 years. <i>Courtesy of Prof Cheah Jin Seng.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/05-volunteercorps.png">The original Drill Hall was a makeshift wood-and-corrugated iron structure erected at Fort Fullerton near the entrance of the Singapore River in 1891. This would be the temporary home of the Singapore Volunteer Corps for the next 15 years. <i>Courtesy of Prof Cheah Jin Seng.</i></div>
 
 #### **End of SVC and Start of PDF**
 
