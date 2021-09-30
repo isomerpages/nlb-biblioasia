@@ -26,11 +26,11 @@ It was clear that such security flareups were beyond the scope of a regular poli
 
 <div style="background-color: white;"><img style="width:320px" src="/images/Vol-12-issue-2/singapore-volunteer-corps/02-volunteercorps.jpg">William J. Butterworth, Governor of the Straits Settlements (1843–55), was the Colonel-in-charge of the Singapore Volunteer Rifle Corps in when it was formed 1854. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/singapore-volunteer-corps/02b-volunteercorps.jpg">Wealthy British merchant and Beach Road resident William H. Read was one of the first volunteers of the Singapore Volunteer Rifle Corps. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
-
 Butterworth assumed leadership as the Colonel-in-charge and Captain Ronald MacPherson of the Madras Artillery was appointed as the Commandant. The SVRC was meant to bolster the resident police force in dealing with large-scale violence and disorder, not replace it. The SVRC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over 100 years.
 
 In 1857 and 1871, the SVRC was again placed on high alert as full-scale riots by the Chinese community erupted. All this time, SVRC members had kept themselves in top form by engaging in weapon training, drill practices and field camps. In addition, the SVRC assumed fire-fighting and ceremonial duties such as taking part in parades to mark important occasions and escorting dignitaries during their visits to Singapore.
+
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/singapore-volunteer-corps/02b-volunteercorps.jpg">Wealthy British merchant and Beach Road resident William H. Read was one of the first volunteers of the Singapore Volunteer Rifle Corps. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 #### **The SVC: 1887 to 1949**
 
@@ -94,9 +94,9 @@ It was only in 1957 that the go-ahead was given to start the first independent S
 
 Although 1 SIR was to have its base at Ulu Pandan Camp in the west of Singapore, Beach Road Camp, the headquarters of the Singapore Military Forces, was chosen as the site of the recruitment interviews and attestation parades. On 12 March 1957, the first 22 recruits (11 Chinese, 7 Malays, 3 Eurasians and 1 Sikh) were sworn into 1 SIR by Magistrate T. S. Sinnathuray – himself a member of the SVC. Over the following months, more young men joined the army, and by October 1958, a total of 842 recruits had been sworn in at Beach Road Camp.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/06-volunteercorps.png">In 1907, the wood-and-corrugated-iron Drill Hall at Fort Fullerton was physically moved to its new location along Beach Road and re-assembled. <i>Courtesy of Prof Cheah Jin Seng.</i></div>
-
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/05-volunteercorps.png">The original Drill Hall was a makeshift wood-and-corrugated iron structure erected at Fort Fullerton near the entrance of the Singapore River in 1891. This would be the temporary home of the Singapore Volunteer Corps for the next 15 years. <i>Courtesy of Prof Cheah Jin Seng.</i></div>
+
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-2/singapore-volunteer-corps/06-volunteercorps.png">In 1907, the wood-and-corrugated-iron Drill Hall at Fort Fullerton was physically moved to its new location along Beach Road and re-assembled. <i>Courtesy of Prof Cheah Jin Seng.</i></div>
 
 #### **End of SVC and Start of PDF**
 
