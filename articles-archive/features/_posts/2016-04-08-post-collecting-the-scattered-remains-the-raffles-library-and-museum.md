@@ -133,3 +133,13 @@ Today, the dispersed holdings of the Raffles Library and Museum exist in the col
 |In conjunction with the exhibition, the National Library has planned guided tours, talks and workshops, including a birdwatching tour, a conservation talk by archivists and a heritage cooking demonstration.|
 
 |The exhibition is held at the National Library Gallery, Level 10, National Library Building, until 28 August 2016. Admission is free. For more information on the exhibition and its programmes, check: [www.nlb.gov.sg/exhibitions](www.nlb.gov.sg/exhibitions)|
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-1/raffles-library-and-museum/gracie.png">
+	<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
+</div>
+
+<a href="/vol-12/issue-1/apr-jun-2016/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
