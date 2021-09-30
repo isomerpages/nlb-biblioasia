@@ -166,7 +166,7 @@ Videos on vanishing trades can also be found on YouTube, posted by teachers and 
 
 #### **Commemorative Memorabila**
 
-Vanishing trades have been featured in commemorative memorabilia such as the 1978 Straits Times calendars27 and a set of collectible econ minimart phonecards sold in 1996.28 Street traders of the early 1900s were also featured on a series of thematic MrT cards released in 1997.[^29]
+Vanishing trades have been featured in commemorative memorabilia such as the 1978 <i>Straits Times</i> calendars[^27] and a set of collectible econ minimart phonecards sold in 1996.[^28] Street traders of the early 1900s were also featured on a series of thematic MRT cards released in 1997.[^29]
 
 Samsui women, with their iconic red headgear and black trousers, have also been immortalised as dolls and t-shirt emblems sold at the Chinatown Heritage Centre. photographs of samsui women were also displayed at bus stops during the M1 Singapore Fringe Art Festival in 2011.[^30]
 
