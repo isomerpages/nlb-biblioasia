@@ -15,7 +15,7 @@ Stories told by grandparents, the saga of Eurasians in Bahau, and forgotten food
 **[My Grandmother’s Story](/vol-12/issue-2/jul-sep-2016/my-grandmother-story)** <br>
 An unexpected recollection by her grandmother about her experience of the Japanese Occupation sets *Yu-Mei Balasingamchow* thinking about unspoken memories and the stories that haven’t been told. [(PDF)](/files/pdf/vol-12/v12-issue2_Grandmother.pdf)
 
-**[Bahau: A Utopia That Went Awry*](/vol-12/issue-2/jul-sep-2016/bahau)** <br>
+**[Bahau: A Utopia That Went Awry](/vol-12/issue-2/jul-sep-2016/bahau)** <br>
 The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia during World War II has been largely forgotten. *Fiona Hodgkins* chronicles its painful history. [(PDF)](/files/pdf/vol-12/v12-issue2_Bahau.pdf)
 
 **[Mem, Don’t Mess with the Cook!](/vol-12/issue-2/jul-sep-2016/dontmesswiththecook)** <br>
