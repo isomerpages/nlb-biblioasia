@@ -6,7 +6,11 @@ layout: post
 ---
 #### There’s more to the hand than meets the eye, as **Tan Huism** found out when she curated an exhibition using the motif of hands for the National Library recently.
 
-Her hand movement in Indian dance tells stories. Santha Bhaskar has been dancing since the age of 3. <i>Photography by Sean Lee.</i>
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/hands/santhan_baskar.jpg">Her hand movement in Indian dance tells stories. Santha Bhaskar has been dancing since the age of 3. <i>Photography by Sean Lee.</i></div>
 
 “It was a great privilege to have been able to photograph so many Singaporeans who have, in ways big and small, contributed to the identity of the nation. there were many occasions during the course of shooting where I took pause to listen to their life stories. very often, I felt enriched simply by being a part of that moment as a listener.” 
 
@@ -20,17 +24,29 @@ At the recent Singapore Memory project exhibition “Hands: Gift of a Generation
 
 If you missed “Hands: Gift of a Generation” at the national Library, you can catch a modified — but no less interesting — version of the exhibition at the woodlands regional Library in April 2014. The “Hands” experience there will be adapted to flow naturally with the library spaces used by patrons. 
 
-Sean Lee photographing a ‘Hands’ profile. <i>Courtesy of Tan Huism.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/hands/sean_lee.jpg">
+Sean Lee photographing a ‘Hands’ profile. <i>Courtesy of Tan Huism.</i></div>
 
 “I was in full appreciation of the exhibition — it presented experiences of individuals and their contributions in a very unobtrusive way; the photographs were organic and aesthetic in composition capturing the individual in their natural element. The photographs also, I thought, teased the visitor into guessing who the individual might be, providing an experience of discovery.” 
 
 <div style="text-align: right">— NALINA GOPAL (VISITED HANDS EXHIBITION IN SEPTEMBER 2013)</div>
 
-Her hands promoted reading and libraries. Hedwig Anuar nee Aroozoo was the former Director of the National Library (1965–1988). <i>Photography by Sean Lee.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/hands/hedwig_anuar.jpg">
+Her hands promoted reading and libraries. Hedwig Anuar nee Aroozoo was the former Director of the National Library (1965–1988). <i>Photography by Sean Lee.</i></div>
 
-His hands worked at the first watch plant in Singapore in 1973. Kok Kham Seng still works at Seiko Instruments. <i>Photography by Sean Lee.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/hands/mr_kok.jpg">
+His hands worked at the first watch plant in Singapore in 1973. Kok Kham Seng still works at Seiko Instruments. <i>Photography by Sean Lee.</i></div>
 
-Her hands worked for 67 years tailoring custom-made shirts. <i>Photography by Sean Lee.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/hands/mdm.jpg">
+Her hands worked for 67 years tailoring custom-made shirts. <i>Photography by Sean Lee.</i></div>
 
 <p style="font-size:15px;"><b>Tan Huism</b> is the Head of Exhibitions and Curation with the National Library. She started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</p>
 
