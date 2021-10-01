@@ -152,11 +152,11 @@ State controls and the exposure to Western education further put paid to the ser
 
 |**REFERENCES**
 
-|Dennys, N.B. (1894). *A descriptive dictionary of British Malaya* (p. 104). London: London and China Telegraph. [Microfilm nos.: NL7464, NL25454].
+|Dennys, N.B. (1894). [*A descriptive dictionary of British Malaya*](https://eresources.nlb.gov.sg/printheritage/detail/aea703a6-d3b0-4a4e-956b-82390c582891.aspx) (p. 104). London: London and China Telegraph. (Retrieved from BookSG; Accession no.: B02984605A)
 
-|Gerrard, P.N. (1905). *A vocabulary of Malay medical terms* (p. 24). Singapore: Kelly & Walsh. (Microfilm no.: NL27512)
+|Gerrard, P.N. (1905). [*A vocabulary of Malay medical terms* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5454824)(p. 24). Singapore: Kelly & Walsh. (Call no.: RRARE 610.39928 GER; Microfilm no.: NL27512)
 
-|Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3966641) (pp. 424–425). London: Macmillan and Co., Limited. (Call no.: RCLOS 398.4 SKE-[GH])
+|Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (pp. 424–425). London: Macmillan and Co., Limited. (Retrieved from BookSG; Accession no.: B02930611K).
 
 |Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Microfilm no.: NL263).
 
@@ -194,7 +194,7 @@ Mohd. Taib Osman. (1989). [Malay folk beliefs: An integration of disparate eleme
 
 Tuminah Sapawi. (1997, January 8). [Bidan kampung now offers massage and other rituals](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970108-1.2.112.7.4). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. [Microfilm no.: NL 263].
+Wilkinson, R.J. (1908–10). [*Papers on Malay subjects. [First series, 4], Life and customs*](https://eresources.nlb.gov.sg/printheritage/detail/cbae6616-f86a-4d1b-a8aa-9550fdcc980b.aspx) (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Retrieved from BookSG; Microfilm no.: NL263)
 
 #### **NOTES**
 [^1]:The World Health Organization defines traditional medicine (also known as folk, indigenous or alternative medicine) as “the sum total of the knowledge, skill, and practices based on the theories, beliefs, and experiences indigenous to different cultures, whether explicable or not, used in the maintenance of health as well as in the prevention, diagnosis, improvement or treatment of physical and mental illness”. Herbal medicines include “herbs, herbal materials, herbal preparations and finished herbal products that contain as active ingredients parts of plant, or other plant materials or combinations”. See World Health Organization. (2018). *Traditional, complementary and integrative medicine*. Retrieved from World Health Organization website. 
