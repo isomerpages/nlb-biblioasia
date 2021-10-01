@@ -132,3 +132,66 @@ Xun, L. (1981). Hai shang tong xin [Maritime communications] (pp. 158–161). In
 
 Yip, K-C. (1995). *[Health and national reconstruction in nationalist China: The development of modern health services, 1928–1937](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13767092)* (pp. 117–120). An Arbor, MI: Association for Asian Studies. (Call no.: R 362.1095109043 YIP)
 
+#### **NOTES**
+
+[^1]: Kuhn, P.A. (2008). *[Chinese among others: Emigration in modern times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434)*. Lanham: Rowman & Littlefield. (Call no.: RSEA 304.80951 KUH)
+
+[^2]: For a survey of the Overseas Chinese’s efforts at supporting the 1911 revolution in China. See Lee, L.T., & Lee, H.G. (Eds.). (2011). *[Sun Yat-Sen, Nanyang, and the 1911 revolution](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14242263)*. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 951.036 SUN)
+
+[^3]: Lee & Lee, 2011, p. 270. 
+
+[^4]: This is not to say there is nothing on the overseas Chinese in China. What has been neglected, however, is the importance of their diasporic identities. For example, Karl Gerth points out the importance of Wu Tingfang, a Chinese elite educated in the West, in mobilizing the Chinese population in Shanghai and Nanjing to boycott Japanese-made products in favour of Chinese-produced ones. Similarly, Klaus Muhlhahn showed how Wu overhauled the criminal justice system after the fall of the Qing dynasty in 1911. Wu drew up a new legal system for the Republic of China based on the synthesis of Western laws and Chinese traditions. The new system abolished flogging, introduced professional judges and western-style lawyers, and limited punishments to fines, jail and the death penalty. Both Gerth and Muhlhahn however, did not mention that Wu was also a Overseas Chinese. Wu’s experiences growing up in colonial Singapore and Hong Kong, as well as his legal education the University College London, enabled Wu to understand the intricacies of Western laws and Chinese tradition. These experiences and education allowed Wu to occupy critical positions in the new Republic. See Gerth, K. (2003). China made: Consumer culture and the creating of the nation. Cambridge, MA.: Harvard University Press. (Call no.: RBUS 339.4709510904 GER) and Muhlhahn, K. (2009). Criminal justice in China: A history. Cambridge, MA.: Harvard University Press. (Call no.: R 364.951 MUH)
+
+[^5]: Another key individual was Wu Lien-Teh (伍連德 1879–1960), who was instrumental in instituting western medicine in Manchuria and Shanghai from 1911–1937. He was famous as the plague fighter who combated the outbreaks of plague, cholera, and other communicable diseases in North China.
+
+[^6]: Lim Boon Keng Matriculation File for the Department of Medicine, University of Edinburgh Student Records, University of Edinburgh.
+
+[^7]: See for example Li, Y. (1991). 林文庆的思想 : 中西文化的汇流与矛盾 = The thought of Lim Boon Kong: Convergency and contradiction between Chinese and western culture. XInjiapo: Xinjiapo Ya Zhou yan jiu xue hui. (Not available in NLB holdings)
+
+[^8]: Lim, B.K. (1897, December). Infectious diseases and the public. The Straits Chinese magazine, 1 (7), 120–124.
+
+[^9]: Brock, T. D. (1999). Robert Koch: A life in medicine and bacteriology (p. 117). Washington, D.C.: ASM Press. (Not available in NLB holdings)
+
+[^10]: Lim, B.K. (1898, September). The renovation of China. The Straits Chinese magazine, 2 (5), 88–98.
+
+[^11]: Lim Boon Keng drew his ideas of Confucianism as state religion for the Chinese, and the idea of Confucian as a god-like figure from prominent Late Qing reformer Kang Youwei. For an explanation of Kang’s ideas on Confucianism as a state religion, see Chen, Y. (2013). Confucianism as religion: Controversies and consequences (pp. 43–53). Leiden: Brill. (Call no.: R 299.513 CHE)
+
+[^12]: Chen, 2013, pp. 43–53. 
+
+[^13]: National Archives at Kew. (1899, February 14). Annual Department Reports, Colonial Office 279/59. Retrieved from National Archives at Kew.
+
+[^14]: Corfield, J. (2010). Historical dictionary of Singapore. Lanham, MD: Scarescrow Press. (Call no.: RSING 959.57003 COR)
+
+[^15]: 林文庆 [Lin, W.Q.]. (1911). 普通卫生讲义 [Pu tong wei sheng jiang yi]. Xin jia po: Xin jia po hua zhong shang wu zong hui cai zheng suo. (Call no.: RRARE 613 LBK)
+
+[^16]: Lin, W.X.B. (1987). Xiamen daxue xiaoshi bianweihui, Xiamen daxue xiaoshi ziliao (pp. 224–229). Xiamen: Xiamen daxue chu ban she. (Not available in NLB holdings)
+
+[^17]: Lim, B.K. (1931). On the tenth anniversary of the founding of Amoy University. (Unknown publisher). (Not available in NLB holdings)
+
+[^18]: Xiamen Shi defang zhi bian zuan weiyuan hui, Xiamen shi zhi: Mingguo (Xiamen Gazetteer: Republican Period) (Beijing: Fangzhi chubanshe, 1999), 331 and 361–67. A total of 2013 students graduated from Xiada til 1947. In 1947, there were around 3,000 teachers and 1,227 students in Xiada, with the majority of the students in the science, technical and law departments. 
+
+[^19]: Lim briefly visited his place of birth in 1937 and 1949, and wrote to his Singaporean relatives in the 1960s. See “Malayan Broadcasting interview with Robert Lim, July 14, 1949”, and “Lim to Thiam, July 25 1964”, in Robert Lim’s Papers, Institute of Modern History Archives, Academia Sinica, Taipei, Taiwan (hereafter Lim Papers, IMH archives).
+
+[^20]: Lim, R. (1921, November). The medical needs of China. Chinese Student, 24–25.
+
+[^21]: Seven reports of the Chinese Red Cross Medical Relief Corps, Lim’s Papers. IMH Archives.
+
+[^22]: Page 4 Advertisements Column 2: Cabaret. (1937, September 18). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^23]: Chinese venus arrives at Batavia. (1938, July 24). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+[^24]: Janet Chen describes similar efforts in Shanghai where elites would raise funds for Subei refugees right after the war through organising beauty pageants, and dance parties. Critics claimed that such efforts reflected the hedonistic life-style of the Shanghai elites, even though they appeared extraordinary successful in raising funds for relief efforts. See Chen, J.Y. (2012). Guilty of indigence: The urban poor in China, 1900–1953 (pp. 189–190). Princeton, NJ.: Princeton University Press. (Call no.: 305.5690951091732 CHE)
+
+[^25]: 5th report of the Chinese Red Cross Medical Relief Corps. Lim’s papers, IMH archives. 
+
+[^26]: Ibid, 135. 
+
+[^27]: 7th report of the Chinese Red Cross Medical Relief Corps, Lim’s papers, IMH archives, 2307001, 194. 
+
+[^28]: Xun, L. (1981). Hai shang tong xin [Maritime communications] (pp. 158–161). In Lu Xun quanji [Complete works of Lu Xun]. Beijing: Renmin wenxue. (Not available in NLB holdings); Also see Lin, Y., Liu, Z., & Bian, Y. (1991). Lin Yutang zi zhuan [Lin Yutan’s autobiography] (pp. 98–100). Shijiazhuang Shi: Hebei renmin chubanshe. (Not available in NLB holdings)
+
+[^29]: In folder Alfred Kohlberg original memo and Alfred Kohlberg second report. American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library, Columbia university in the city of New York.
+
+[^30]: American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library; Wakeman, F.E. (2003). Spymaster Dai Li and the Chinese secret service (p. 389). Berkeley, CA: University of California Press. (Not available in NLB holdings)
+
+[^31]: Yip, K-C. (1995). Health and national reconstruction in nationalist China: The development of modern health services, 1928–1937 (pp. 117–120). An Arbor, MI: Association for Asian Studies. (Call no.: R 362.1095109043 YIP)
