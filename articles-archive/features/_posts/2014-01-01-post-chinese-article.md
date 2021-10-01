@@ -6,15 +6,15 @@ layout: post
 ---
 #### 张人凤1940年生曾长期从事继续教育工作现为上海市文史研究馆馆员著有《张元济年谱长编》、《智民之师张元济》、《张元济研究文集》，编有十卷本《张元济全集》
 
-附图 1. All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board,Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan
+附图 1. All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan
 
-KhooSeokWan(1874-1941)wasamasterpoetandakeyplayer in the reformist activities of early Singapore. Visit thisexhibition to discover a slice of 20th century Singapore throughKhoo’s poetry and colourful life.
+Khoo Seok Wan (1874-1941) was a master poet and a key player in the reformist activities of early Singapore. Visit this exhibition to discover a slice of 20th century Singapore through Khoo’s poetry and colourful life.
 
 邱菽园 (1874-1941) 是享誉文坛的新加坡早期诗人，也是 光绪末年维新运动在本地的主要支持者。浪漫的诗意和革新 的激情在他身上交织着，谱写出他跌宕起伏的一生。欢迎亲 临本展，借由邱菽园的诗歌和富传奇性的人生，一探新加坡 廿世纪初历史。
 
-#### **In This Second Article by Professor Zhang
+#### **In This Second Article by Professor Zhang**
 
-Ren Feng (the first was published inBiblioAsiaoct– dec2013,vol.9issue3), he outlines the 20 years of friendship be- tweenKhooSeokwan(1874–1941)and Kangyouwei(1858–1927)thatbeganat thestartofthe20thcenturybypiecing together their letters to one another over the years, as well as their respective poet- ry. in the course of his research, professorZhangclarifiessomemythsabouttheir friendship,aswellasprovidesinsights intocertainhistoricaleventsinthelate Qing dynasty (1644 – 1911). The manu- script of Khoo and Kang’s letters are keptby the family of Mr. ong Cheng Kian, de- scendent of Khoo Seok wan.
+Ren Feng (the first was published in BiblioAsia Oct–Dec 2013, vol. 9 issue 3), he outlines the 20 years of friendship between Khoo Seok wan (1874 – 1941) and Kang You Wei (1858 – 1927) that began at the start of the 20th century by piecing together their letters to one another over the years, as well as their respective poetry. In the course of his research, professor Zhang clarifies some myths about their friendship, as well as provides insights into certain historical events in the late Qing Dynasty (1644–1911). The manuscript of Khoo and Kang’s letters are kept by the family of Mr. Ong Cheng Kian, descendent of Khoo Seok Wan.
 
 邱菽园与康有为的友谊与交往，历二十余载，然而记述这段历史的文章不多见。2007年中国人民大学出版社出版姜义华、张荣华两位先生编校的《康有为全集》，是目前收集康氏著述最完满的文本，书后选用三篇极具权威性的康传：梁启超《南海康先生传》、陆乃翔、陆敦骙《南海先生传》和张伯桢《南海康先生传》，对此均未提及。本文试图以在新加坡国家图书馆见到邱菽园外孙王清建先生所藏历史文献，参以其它史料，勾勒出邱、康两人友谊与交往的初步框架，亦冀随着这批史料的进一步解读而不断充实，日臻完善。
 
@@ -56,7 +56,7 @@ Ren Feng (the first was published inBiblioAsiaoct– dec2013,vol.9issue3), he ou
 
 前属寄二千日本还紫珊，今亦不甚催（尚欠五千），可不必汇二千，或汇一千数百以见意，如何？公又笑吾刻印刓手段，可笑。6（见附图4）
 
-附图 4. All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.
+附图 4. All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.
 
 以唐才常为首的自立会1900年初在上海成立，及夏，八国联军攻陷北京，慈禧与光绪出亡西安。他们便以“勤王”为名，意图发动起义，推翻慈禧政权，“归政”于光绪。但一帮毫无军事、政治经验的书生，仓猝起事，能调动的力量都是无能之辈，甚至乌合之众，因此，在老谋深算、心狠手辣的湖广总督张之洞面前，即时失败，唐才常等人立遭杀害。康有为远在南洋，鞭长莫及，再说他也未必真有军事指挥的能力。邱菽园慷慨捐助自立军，一人一己之力，毕竟有限，资金流动的渠道不畅，究竟有多少可以达于自立军之手也很难说。康、邱在南洋面对的是无情的、严酷的事实。这对他们的友谊是极大的考验。更为严峻的考验是邱菽园被张之洞发现是自立军的主要资助人，于1900年多次致电清政府驻英国公使罗丰禄和驻新加坡总领事罗忠尧（按，当时新为英属地，清政府驻新领事隶属于驻英公使管辖）请其“劝导”邱菽园，与康有为断绝关系。此时，邱本人虽身居南洋，朝廷一时还奈何他不得，但他在福建原籍的家族，逃脱不了酷吏的手掌。于是邱立即在11月22日《天南日报》刊登启事，宣布“谢绝人事”，1901年6月，又有“报效闽赈银二万两，以明心迹”，以及10月22日在《天南新报》发表《论康有为》文，表示与康决裂。7一次次被迫表态，终于使张之洞满意，奏请朝廷予以开脱罪责，一家满门始得活命。
 
@@ -64,7 +64,7 @@ Ren Feng (the first was published inBiblioAsiaoct– dec2013,vol.9issue3), he ou
 
 洞贼之电可笑。彼既日悬重赏以购，可笑复为此何耶？公何不致二罗钦差、领事书以攻诘之？洞贼交钱恂电曰：“外部云，地可割，款可赔，惟皇上必不可复。”则有丝毫为中国为皇上之心耶？吾欲如尊意代唐烈士为洞逆檄文刻之，以重其事。如何？但恐便宜此贼。8（见附图2）
 
-附图 2. All Rights Reserved, the lateKhoo Seok Wan Collections, National Library Board,Singapore 2013. Courtesy of Ong Family, descendentsof Khoo Seok Wan.
+附图 2. All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.
 
 这封信书写的时间不详，但很可能是1900年9月7日张之洞第二次致电罗丰禄之后，“可笑复为此何耶”中的“复”字可证。可以肯定，邱菽园把张之洞要求两位罗姓外交官对他“开导”的信息，即时全盘告诉了康有为。
 
@@ -102,7 +102,7 @@ Ren Feng (the first was published inBiblioAsiaoct– dec2013,vol.9issue3), he ou
 
 闻来申有期，今暂不远游，以待弟至。八月观潮恐不可及，九月后观红叶乎？复问菽园仁弟游祺游为八月二日15（见附图3）
 
-附图 3. All Rights Reserved, the lateKhoo Seok Wan Collections, National Library Board,Singapore 2013. Courtesy of Ong Family, descendentsof Khoo Seok Wan
+附图 3. All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan
 
 王先生所藏文献中，有康有为为邱菽园《啸虹生诗钞》撰写序言的毛笔抄稿。何人抄录，则不得知，但很明白，书于壬戌秋九月，即1922年10月，与《康有为全集》辑入的《邱菽园集序》由编者注明撰写月份晚了三个月，文字上也有较大的差异。不过文意大致相同，故本文不再采录。所见康有为致邱菽园的最后一封信书于壬戌年六月朔，即19227月24日。是年，康有为65岁，邱菽园49岁。原件不署书写年份，信中“顷悼亡”，指1922年康有为元配夫人张云珠去世，书写年份据以确定。
 
@@ -122,6 +122,6 @@ Ren Feng (the first was published inBiblioAsiaoct– dec2013,vol.9issue3), he ou
 
 本文写作过程中，得到新加坡国家图书馆王连美女士、赖燕鸿先生、叶若诗女士的大力相助，谨表感谢。
 
-<p style="font-size:15px;">Professor <b>Zhang Renfeng</b> is a member of the Shanghai Research Institute of Cultureand History. He has been involved in the study of Zhang yuanji, renowned educationist,bibliographer and founder of China’s modern publishing business. He compiled the10-volume Works of zhang yuanji; his own works include the Collection of Research paperson zhang yuanji, and zhang yuanji, an Enlightener of the people, Chronicle of life of zhangyuanji, and zhang yuanji, an Enlightener of the people.</p>
+<p style="font-size:15px;">Professor <b>Zhang Renfeng</b> is a member of the Shanghai Research Institute of Culture and History. He has been involved in the study of Zhang yuanji, renowned educationist, bibliographer and founder of China’s modern publishing business. He compiled the 10-volume Works of zhang yuanji; his own works include the Collection of Research papers on zhang yuanji, and zhang yuanji, an Enlightener of the people, Chronicle of life of zhang yuanji, and zhang yuanji, an Enlightener of the people.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
