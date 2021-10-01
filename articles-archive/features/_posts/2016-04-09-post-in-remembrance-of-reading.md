@@ -104,19 +104,27 @@ While how we buy and read books today has changed with the presence of online bo
 
 #### **NOTES**
 
-Radway, J. A. (1991). Reading the romance. Chapel Hill, North Carolina: The University of North Carolina Press.
-The Singapore Memory Project is a whole-of-nation movement that aims to capture and document precious moments and personal memories related to Singapore. See www.singaporememory.sg portal
-Liew, H.  (2015, October 7). Simple joys of my childhood [Web log post]. Retrieved from irememberSG website.
-Goh, M. (n.d.). Bookworm Club membership [Web log post]. Retrieved from irememberSG website,
-Flood, A. (2010, July 23, 2010). Enid Blyton Famous Five get 21st-century makeover. The Guardian. Retrieved from The Guardian website.
-Teo, J. (2011, November 17). Old Master Q (老夫子) [Web log post]. Retrieved from The Elusive Sleuth website. 
-Zaccheus, M. (2014, June 21). What future for our past? The Straits Times. Retrieved from AsiaOne website.
-Boey, K.C. (2014). The library of memory. Biblioasia, 10 (1), pp. 3–7. Retrieved from BiblioAsia website.
-Sunny Bookshop to close down in August 2014. (2014, August 4). Yahoo News. Retrieved from Yahoo! News website.
+[^1]:Radway, J. A. (1991). Reading the romance. Chapel Hill, North Carolina: The University of North Carolina Press.
 
-[^9]:Yam, C. (2013, December 20). 百胜楼. Retrieved from Singapore Memory Project website.
+[^2]:The Singapore Memory Project is a whole-of-nation movement that aims to capture and document precious moments and personal memories related to Singapore. See www.singaporememory.sg portal
 
-[^10]:Yong, C. (2014, October 4). PM Lee reads story book to children, extends reading programme for less privileged. *The Straits Times*. Retrieved from *The Straits Times* website.
+[^3]:Liew, H.  (2015, October 7). Simple joys of my childhood [Web log post]. Retrieved from irememberSG website.
+
+[^4]:Goh, M. (n.d.). Bookworm Club membership [Web log post]. Retrieved from irememberSG website.
+
+[^5]:Flood, A. (2010, July 23, 2010). Enid Blyton Famous Five get 21st-century makeover. The Guardian. Retrieved from The Guardian website.
+
+[^6]:Teo, J. (2011, November 17). Old Master Q (老夫子) [Web log post]. Retrieved from The Elusive Sleuth website. 
+
+[^7]:Zaccheus, M. (2014, June 21). What future for our past? The Straits Times. Retrieved from AsiaOne website.
+
+[^8]:Boey, K.C. (2014). The library of memory. Biblioasia, 10 (1), pp. 3–7. Retrieved from BiblioAsia website.
+
+[^9]:Sunny Bookshop to close down in August 2014. (2014, August 4). Yahoo News. Retrieved from Yahoo! News website.
+
+[^10]:Yam, C. (2013, December 20). 百胜楼. Retrieved from Singapore Memory Project website.
+
+[^11]:Yong, C. (2014, October 4). PM Lee reads story book to children, extends reading programme for less privileged. *The Straits Times*. Retrieved from *The Straits Times* website.
 
 [^12]:National Library Board. (2014, January 28). Borders (Singapore) written by Goh, Kenneth. Retrieved from Singapore Infopedia website.
 
