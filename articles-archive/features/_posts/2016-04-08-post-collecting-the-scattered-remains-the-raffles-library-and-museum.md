@@ -160,7 +160,7 @@ Journal in the federal capital. (1932, April 16). The Straits Times, p. 16. Retr
 
 Khoo, B.L. (1972, September 8). A jealous guard on Singapore’s earliest books. New Nation, p. 9. Retrieved from NewspaperSG.
 
-Liu, G. (1987). One hundred years of the National Museum: Singapore 1887–1987. Singapore: The Museum. (Call no.: RSING 708.95957 LIU)
+Liu, G. (1987). *[One hundred years of the National Museum: Singapore 1887–1987](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4425348)*. Singapore: The Museum. (Call no.: RSING 708.95957 LIU)
 
 Lum, M. (1986, October 4). *[Glimpses of life in pre-war days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861004-1.2.90.2)*. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
