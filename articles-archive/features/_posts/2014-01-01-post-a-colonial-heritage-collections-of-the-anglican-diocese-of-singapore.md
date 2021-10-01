@@ -48,7 +48,7 @@ Besides these rare items are limited numbers of photo albums, architectural draw
 
 |First published as the <i>Singapore Diocesan Magazine</i> in November 1910,[^6] it was “a quarterly record of church work etc. in the Diocese”.[^7] The Diocese of Singapore, formed in 1909, had extended beyond the Straits Settlements to include the Federated Malay States, Java and Siam (Thailand). The first issue noted how the <i>Singapore Diocesan Magazine</i> was inspired because “we in the Church of England seemed to know very little about each other’s doings, and in consequence were not sufficiently united.” The quarterly thus gave updates on recent church activities and events in each district as well as in the church-run homes, schools and institutions along with appointments of both clerics and laity. The digitised collection spans from the first issue of 1910 until Volume 27, Number 104 of November 1936. The magazine continues today as the <i>Diocesan Digest</i>.|
 
-|Cover page of the first issue of the Singapore Diocesan Magazine. Courtesy of the Archives of the Anglican Diocese of Singapore.|
+|Cover page of the first issue of the Singapore Diocesan Magazine. <i>Courtesy of the Archives of the Anglican Diocese of Singapore</i>.|
 
 |**St Andrew's Cathedral**|
 
