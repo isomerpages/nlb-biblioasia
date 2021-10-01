@@ -32,7 +32,7 @@ In December 1837, the Singapore Free School and the library moved into the Singa
 
 The school library became popular with residents in the fledgling years of the settlement when entertainment and news from Europe were limited. Soon, calls were made for the establishment of a “public library” that would serve the community beyond school hours. Taking heed, the Singapore Library was officially opened on 22 January 1845.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-1/raffles-library-and-museum/02a_raffleslibrary.jpg">Portraits of Alexander Laurie Johnston and William Henry Macleod Read. Both pioneers of Singapore generously donated Asian titles to the Singapore Library in the 1850s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-1/raffles-library-and-museum/02a_raffleslibrary.jpg">Portraits of Alexander Laurie Johnston and William Henry Macleod Read. Both pioneers of Singapore generously donated Asian titles to the Singapore Library in the 1850s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 The library operated from the north wing of the building with a core collection that was moved from the school library. Among the notable users of the Singapore Library was the renowned naturalist Alfred Russel Wallace. However, the Singapore Library was not a public library by any modern definition. Though aimed at the wider community, it was not supported by public funds, nor was it free. It was in fact a private enterprise managed, funded and opened to shareholders and subscribers only.
 
