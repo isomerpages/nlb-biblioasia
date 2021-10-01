@@ -8,4 +8,3 @@ layout: post
 
 <img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG">
 <div style="background-color: white;">Another vista of the Kranji War Cemetery framed against the setting sun. <i>Courtesy of Tan Heng Wang via flickr: https://www.flickr.com/photos/spintheday/25687925758/in/photostream/.</i></div>
-
