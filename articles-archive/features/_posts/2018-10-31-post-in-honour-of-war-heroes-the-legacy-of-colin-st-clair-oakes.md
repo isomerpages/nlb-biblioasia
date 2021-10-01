@@ -6,7 +6,7 @@ layout: post
 ---
 #### Who was the architect behind Singapore’s Kranji War Cemetery and other similar memorials in South and Southeast Asia? **Athanasios Tsakonas** has the story.
 
-<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG">
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG">
 <div style="background-color: white;">Another vista of the Kranji War Cemetery framed against the setting sun. <i>Courtesy of Tan Heng Wang via flickr: https://www.flickr.com/photos/spintheday/25687925758/in/photostream/.</i></div>
 
 On a bright and early Saturday morning on 2 March 1957, Governor of Singapore Robert Black presided over the unveiling of the Singapore Memorial at the Kranji War Cemetery. Under a sky filled with towering clouds, Black, a former prisoner-of-war interned in Changi during the Japanese Occupation (1942–45), was received by Air Marshal Sir Arthur Longmore, Vice-Chairman of the Imperial War Graves Commission (IWGC).
