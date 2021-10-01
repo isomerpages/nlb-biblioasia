@@ -110,29 +110,29 @@ The images carved on the stone wall and the memories they recall of the homeland
 
 #### **NOTES**
 
-[^1]: 
+[^1]: Established in 1924 as the Singapore Hui Ann Association, for the purposes of this essay the toponymic reference will instead be either the hanyu pinyin pronoun “Hui An” or the noun “Hui’an”.
 
-[^2]: 
+[^2]: Situated at the mouth of the Luoyang River, the Luoyang Bridge (also known as Wan’an Bridge) in Quanzhou was constructed between 1053 and 1059 in the Northern Song dynasty. In 2021, the bridge was inscribed on the UNESCO World Heritage List. 
 
-[^3]: 
+[^3]: The Mengjia Qingshan Temple is dedicated to Qing Shan Ling An Zun, a general from Hui’an, Quanzhou.
 
-[^4]: 
+[^4]: Chongwu town is located in southeastern Hui’an. The town’s historical centre, the Old Chongwu Fortress, is a walled city dating back to the late 14th century.
 
-[^5]: 
+[^5]: The Fujian Hui’an Kai Cheng Vocational Secondary School building was gifted to Hui’an by Ong Chwee Kow, a successful contractor and developer. The school imparts trade skills to young men and women without the means and opportunities. The East Hui’an Overseas Chinese Hospital building was gifted to the county by the steel magnate Liu Mah Choon, which superceded his earlier donation of a dispensary on the same site. 
 
-[^6]: 
+[^6]: Joseph Chia, online conversations, 20 February 2019 to 17 August 2021.
 
-[^7]: 
+[^7]:  “[故乡的石头会说话: 惠安公会石雕壁画展风情](https://eresources.nlb.gov.sg/newspapers/Digitised/Page/lhzb20130224-1.1.13)” [“Hometown’s Stones Can Talk: Hui’an Guild’s Stone Sculpture Murals Exhibition Style”], *联合早报 [Lianhe Zaobao]*, 24 February 2013, 13. (From NewspaperSG)
 
-[^8]: 
+[^8]: Claudine Salmon and Myra Sidharta, “The Manufacture of Chinese Gravestones in Indonesia – A Preliminary Survey”. *Archipel* 72 (2006): 196, https://www.persee.fr/doc/arch_0044-8613_2006_num_72_1_4031.
 
-[^9]: 
+[^9]: Salmon and Sidharta, “The Manufacture of Chinese Gravestones in Indonesia,” 198–99. 
 
-[^10]: 
+[^10]: While the earlier Chinese migrants were mainly from the Cantonese and Hokkien dialect groups, those from Hui’an spoke either the Xinghua or Minnan dialect.
 
-[^11]: 
+[^11]: The word “coolie” is believed to have originated from the Hindi term *kuli*, which is the name of a native tribe in the western Indian state of Gujarat. The word *kuli* also means “hire” in Tamil. See Naidu Ratnala Thulaja, “[Chinese coolies](https://eresources.nlb.gov.sg/infopedia/articles/SIP_87_2004-12-15.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
 
-[^12]: 
+[^12]: Otherwise known as *twakow* or *tongkang*, the bumboat was a large barge vessel used extensively for transport purposes along the Singapore, Rochor and Kallang rivers, and also along the coast of the mainland and other nearby islands. See Vernon Cornelius-Takahama, “Bumboats,” in *Singapore Infopedia*. National Library Board Singapore. Article published June 2019. 
 
 [^13]: 
 
@@ -185,4 +185,4 @@ The images carved on the stone wall and the memories they recall of the homeland
 
 [^37]: 
 
-[^38]: 
+[^38]:
