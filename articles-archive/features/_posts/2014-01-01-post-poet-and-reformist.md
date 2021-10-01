@@ -124,6 +124,6 @@ Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Is
 
 本文写作过程中，得到新加坡国家图书馆王连美女士、赖燕鸿先生、叶若诗女士的大力相助，谨表感谢。
 
-<p style="font-size:15px;">Professor <b>Zhang Renfeng</b> is a member of the Shanghai Research Institute of Culture and History. He has been involved in the study of Zhang yuanji, renowned educationist, bibliographer and founder of China’s modern publishing business. He compiled the 10-volume Works of zhang yuanji; his own works include the Collection of Research papers on zhang yuanji, and zhang yuanji, an Enlightener of the people, Chronicle of life of zhang yuanji, and zhang yuanji, an Enlightener of the people.</p>
+<p style="font-size:15px;">Professor <b>Zhang Renfeng</b> is a member of the Shanghai Research Institute of Culture and History. He has been involved in the study of Zhang Yuanji, renowned educationist, bibliographer and founder of China’s modern publishing business. He compiled the 10-volume <i>Works of Zhang Yuanji</i>; his own works include <i>the Collection of Research papers on Zhang Yuanji, and Zhang Yuanji, an Enlightener of the people, Chronicle of life of Zhang Yuanji, and Zhang Yuanji, an Enlightener of the people.</i></p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
