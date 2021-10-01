@@ -114,7 +114,7 @@ Here are some highlights of the collection.
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/eu-tong-sen/seow-peck-ngiam.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/eu-tong-sen/seow-peck-ngiam1.png">
 <b>Seow Peck Ngiam</b> is a Senior Librarian at the National Library, Singapore. Her responsibilities include the selection of Chinese materials and donor collections for the library as well as the provision of reference and information services. The Chinese translation was edited by Vicky Gao, a Senior Librarian who specialises in China Studies at the National Library, Singapore.
 <br>
 萧碧莹是新加坡国家图书馆的高级图书馆员。负责范围包括华文馆藏采选、捐赠馆藏及为读者提供咨询服务。华文翻译由高小行编辑。她是国家图书馆高级参考馆员，中文学科馆员。
