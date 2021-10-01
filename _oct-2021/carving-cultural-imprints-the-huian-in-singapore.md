@@ -150,7 +150,8 @@ The images carved on the stone wall and the memories they recall of the homeland
 
 [^20]: Completed in 1932, the five-storey China Building was one of the most recognisable landmarks in the business district with its distinctive pagoda-stye roof. It was designed by international architectural firm Keys and Dowdeswell, which operated out of Shanghai, China. The firm was named after British architects Major P. Hubert Keys and Frank Dowdeswell. See “[New Bank Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290701-1.2.11),” *Singapore Free Press and Mercantile Advertiser*, 1 July 1929, 4. (From NewspaperSG)
 
-[^21]: 
+[^21]: Located near the former Keretapi Tanah Melayu (KTM) Railway truss bridge along Upper Bukit Timah Road, Chia Eng Say Quarry is now a lake known as Singapore Quarry within Bukit Timah Nature Reserve. Chia Eng Say Road, which ran parallel to the KTM Railway line, was a private road built by the quarry company to gain access to their quarrying operations. The road also ran through a Chinese kampong called Kampong Chia Eng Say. See 柯木林 [Ke Mulin; Kua Bak Lim], “敢问路在何方?” [“Who Dares to Ask Where the Road Is?”], *联合早报 [Lianhe Zaobao]*, 18 August 2012, 20. (From NewspaperSG); Victor R. Savage and Brenda S.A. Yeoh, *Singapore Street Names: A Study of Toponymics* (Singapore: Marshall Cavendish Editions, 2013), 74. (From National Library, Singapore, Call no. RSING 915.9570014 SAV-[TRA])
+
 
 [^22]: 
 
