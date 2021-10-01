@@ -63,7 +63,7 @@ A long-standing policy of the IWGC was to select sites that were the scene of si
 <img style="width: 420px; height: 560px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour5.JPG">
 <div style="background-color: white;">The view along the main axis of the Sai Wan Bay War Cemetery located in Chai Wan, Hong Kong. Built in 1946, it commemorates fallen soldiers from World Wars I and II. The bay view beyond is now obscured by high-rise housing estates. <i>Courtesy of the Commonwealth War Graves Commission.</i></div>
 
-<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour6.JPG">
+<img style="width: 600px; height: 360px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour6.JPG">
 <div style="background-color: white;">The Cross of Sacrifice atop Garrison Hill at the Kohima War Cemetery in Nagaland, India, 1954. Garrison Hill – the former site of the British Deputy Commissioner’s residence housing his bungalow, garden and tennis court – witnessed the most bitter fighting in the Burma campaign. Colin St Clair Oakes, who also designed the cemetery, elevated the cross above a stone shelter and preserved the historic tennis court in memory of the fierce hand-to-hand combat that took place here. <i>Courtesy of the Commonwealth War Graves Commission.</i></div>
 
 Arriving in Singapore on 6 January 1946, Obbard and Oakes would meet Colonel Foster Hall, the British Army’s Deputy Director of Graves Registration & Enquiries, and were also briefed by Lieutenant-Colonel A.E. Brown, the recently appointed head of the Australian War Graves Service.[^9] Over the next seven days, they visited burial grounds at Buona Vista, Changi, Nee Soon, Melaik (located north of the former Mental Hospital along Yio Chu Kang Road), Wing Loong, Point 348 (Bukit Batok Hill) and Kranji. Their primary task was to critically assess the suitability of the existing burial sites and select one place where all the Allied war graves on the island could be consolidated and re-interred permanently. Oakes would then assess each location and compile the final report for the IWGC.
@@ -78,7 +78,7 @@ Changi cemetery, established during the Japanese Occupation by POWs incarcerated
 
 Ironically, Kranji cemetery, located within the grounds of a former POW hospital overlooking the Johor Straits, was not even considered in the first place. “Difficult cemetery to expand and situation not exceptional”, reported Oakes.[^11] Obbard too concurred that Kranji, along with Buona Vista, as being “surrounded by jungle and are on very sandy soil, and would be costly to construct… [besides] there are no special historical associations with these two sites at Buona Vista and Kranji”.[^12]
 
-<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour7.JPG">
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour7.JPG">
 <div style="background-color: white;">A panoramic view of Kranji War Cemetery and Memorial. The memorial is designed to resemble an aeroplane with its 22-metre (72-ft) central pylon and wing-shaped roof supported by 12 stone-clad pillars. Annual memorial services are held at the cemetery on Remembrance Day and ANZAC Day. <i>Courtesy of Chester Chen via flickr.https://www.flickr.com/photos/jamcansing/16577417460/in/photostream/. Photo was shot with a pinhole camera on Kodak 120 black and white negative film.</i></div>
 
 It was, in fact, a small yet prominent hill in central Singapore that captured Oakes’ imagination and fulfilled all the necessary requirements. At a height of 104 ft, Point 348, also known as Bukit Batok Hill, overlooked Ford Motor Factory, site of the Allied surrender to the Japanese. Tall and conical in shape, it was well situated along the main road connecting Singapore town to the Johor Straits. The summit had been levelled and extensively terraced with a wide road built to access it, all constructed by Australian POWs.
@@ -105,7 +105,7 @@ Work on establishing Kranji as a war cemetery began in April 1946, with all avai
 
 Colin St Clair Oakes would not see through the completion of Kranji War Cemetery, nor attend the unveiling ceremony of his “winged” memorial. By the late 1940s, he had taken up a partnership at Sir Aston Webb & Son, and rejoined the Architectural Association. In 1949, with a young family and having endured years away during the war, followed by months travelling for the IWGC, Oakes was appointed Chief Architect of Boots Pure Drug Company,[^18] continuing his predecessor’s work in rebuilding the many Boots stores in England that were destroyed during the German bombings.
 
-<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour10.JPG">
+<img style="width: 550px; height: 500px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour10.JPG">
 <div style="background-color: white;">An aerial view of Kranji War Cemetery and the Singapore Memorial. The Kranji Military Cemetery of non-world war dead is located on the right. <i>Photo by Weixiang Schrödinger Lim.</i></div>
 
 |**KANJI'S WAR DEAD**
