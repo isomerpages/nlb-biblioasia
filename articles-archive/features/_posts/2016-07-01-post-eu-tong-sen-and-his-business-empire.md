@@ -56,7 +56,7 @@ Here are some highlights of the collection.
 
 |这张凭单发于1936年12月25日，作为支付给范九工银叻币五元的凭据。凭单印有胶园“瑞林园”书柬。余东旋拥有一万五英亩树胶园，遍布马来亚。新加坡余仁生负责管理7个树胶园，包括柔佛瑞林园。有趣的是，余东旋的树胶园都是以妻子、女儿及其他女性亲朋戚友命名的。|
 
-|<br><img style="width:500px" src="/images/Vol-12-issue-2/eu-tong-sen/05a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/05a-eutongsen.jpg"><img style="width:500px" src="/images/Vol-12-issue-2/eu-tong-sen/05a-eutongsen.jpg"></a>|
 
 |3. This letter from the Electrical Engineer’s Office of the Municipal Commissioners of Singapore informed Eu Tong Sen on 15 January 1923 that the power supply to a theatre at 26 Eu Tong Sen Street had been disconnected and would be reinstated only after maintenance works had been carried out. [Note: the name of the theatre cannot be ascertained but it was possibly the Heng Wai Sun or the Heng Seng Peng, see text box below.]|
 
