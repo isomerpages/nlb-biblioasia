@@ -11,7 +11,7 @@ layout: post
 
 On a bright and early Saturday morning on 2 March 1957, Governor of Singapore Robert Black presided over the unveiling of the Singapore Memorial at the Kranji War Cemetery. Under a sky filled with towering clouds, Black, a former prisoner-of-war interned in Changi during the Japanese Occupation (1942–45), was received by Air Marshal Sir Arthur Longmore, Vice-Chairman of the Imperial War Graves Commission (IWGC).
 
-<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour2.JPG">
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour2.JPG">
 <div style="background-color: white;">Governor of Singapore Robert Black in conversation with relatives of servicemen who had perished in World War II during the unveiling of the Singapore Memorial at Kranji War Cemetery on 2 March 1957. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Some 3,000 guests, including dignitaries and representatives of the various Commonwealth governments, had gathered to bear witness to the culmination of an event that had commenced over a decade earlier in the aftermath of World War II.
