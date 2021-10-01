@@ -27,10 +27,10 @@ Food writer *Sylvia Tan* remembers the foods and flavours she grew up with and t
 **[Bygone Brands: Five Names That Are No More](/vol-12/issue-2/jul-sep-2016/bygone-brands)**<br>
 *Sue-Ann Chia* traces the birth and death of five companies, reliving the forgotten stories of some of Singapore’s biggest brand names. [(PDF)](/files/pdf/vol-12/v12-issue2_BygoneBrands.pdf)
 
-**Singapore’s First Japanese Resident: Yamamoto Otokichi** <br>
+**[Singapore’s First Japanese Resident: Yamamoto Otokichi](/vol-12/issue-2/jul-sep-2016/yamamoto-otokichi)** <br>
 A sailor travels halfway around the world in his attempt to return home, and becomes the first Japanese resident in Singapore in the process. *Bonny Tan* tells the story. [(PDF)](/files/pdf/vol-12/v12-issue2_Yamamoto.pdf)
 
-**Beach Road Camp and the Singapore Volunteer Corps** <br>
+**[Beach Road Camp and the Singapore Volunteer Corps](/vol-12/issue-2/jul-sep-2016/beach-road-camp)** <br>
 The SVC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over a century. *Francis Dorai* has the story. [(PDF)](/files/pdf/vol-12/v12-issue2_VolunteerCorps.pdf)
 
 **[The Fruit of His Labour: David Marshall’s Old Apple Tree](/vol-12/issue-2/jul-sep-2016/david-marshall)** <br>
