@@ -10,9 +10,9 @@ permalink: /vol-12/issue-2/jul-sep-2016/
 
 Stories told by grandparents, the saga of Eurasians in Bahau, and forgotten foods of the past are some of the highlights of this special issue.
 
-**Director’s Note**
+**[Director’s Note](/vol-12/issue-2/jul-sep-2016/director-note)**
 
-**My Grandmother’s Story** <br>
+**[My Grandmother’s Story](/vol-12/issue-2/jul-sep-2016/my-grandmother-story)** <br>
 An unexpected recollection by her grandmother about her experience of the Japanese Occupation sets *Yu-Mei Balasingamchow* thinking about unspoken memories and the stories that haven’t been told. [(PDF)](/files/pdf/vol-12/v12-issue2_Grandmother.pdf)
 
 **Bahau: A Utopia That Went Awry** <br>
@@ -39,10 +39,10 @@ Singapore’s fiery Chief Minister used to hold court under an apple tree at Emp
 **Angels in White: Early Nursing in Singapore** <br>
 In the 1820s, some “nurses” in Singapore were actually chained convicts. *Pattarin Kusolpalin* chronicles the history of nursing from 1819 until Independence. [(PDF)](/files/pdf/vol-12/v12-issue2_AngelsWhite.pdf)
 
-**Best Non-Fiction Book of the Year 2016** <br>
+**[Best Non-Fiction Book of the Year 2016](/vol-12/issue-2/jul-sep-2016/best-nonfiction-book)** <br>
 *Through the Lens of Lee Kip Lin: Photographs of Singapore 1965-1995* – a pictorial book published by the National Library Board in partnership with Editions Didier Millet – clinched top honours recently in the non-fiction category at the Singapore Book Awards. A total of eight awards, which recognises the best in Singapore’s publishing scene, were given out on 11 May 2016. [(PDF)](/files/pdf/vol-12/v12-issue2_NonFiction.pdf)
 
-**Index to Singapore Information** <br>
+**[Index to Singapore Information](/vol-12/issue-2/jul-sep-2016/index-singapore-info)** <br>
 This useful index serves as the gateway to Singapore-related articles published in periodicals. *Leong Hui Chuan* and *Chris Tang* explain its value. [(PDF)](/files/pdf/vol-12/v12-issue2_Index.pdf)
 
 **[Eu Tong Seng and His Business Empire 余东旋与他的 商业帝国](/vol-12/issue-2/jul-sep-2016/eu-tong-sen)** <br>
