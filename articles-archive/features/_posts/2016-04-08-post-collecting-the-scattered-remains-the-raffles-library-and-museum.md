@@ -144,21 +144,21 @@ Today, the dispersed holdings of the Raffles Library and Museum exist in the col
 
 #### **REFERENCES**
 
-Book show for Malaya. (1947, July 27). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[Book show for Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470727-1.2.40). (1947, July 27). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-Buckley, C.B. (1984). An anecdotal history of old times in Singapore (pp. 122–139). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)* (pp. 122–139). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
 
-Corner, E.J.H. (1981). The Marquis: A tale of Syonan-to. Singapore: Heinemann Asia. (Call no.: RSING  959.57023 COR)
+Corner, E.J.H. (1981). *[The Marquis: A tale of Syonan-to](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080105)*. Singapore: Heinemann Asia. (Call no.: RSING  959.57023 COR)
 
-Daniel, P. (1941). A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library, Singapore. Singapore: [Malayan Branch of the Royal Asiatic Society]. Call no.: RCLOS 016.9595 DAN)
+Daniel, P. (1941). *[A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library, Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980136)*. Singapore: [Malayan Branch of the Royal Asiatic Society]. Call no.: RCLOS 016.9595 DAN)
 
-Dennys, N.B. (1880). A contribution to Malayan bibliography. Singapore: Straits Branch of the Royal Asiatic Society. Retrieved from BookSG.
+Dennys, N.B. (1880). *[A contribution to Malayan bibliography](https://eresources.nlb.gov.sg/printheritage/detail/f0a98aed-bf71-430e-a36c-54596ed92704.aspx)*. Singapore: Straits Branch of the Royal Asiatic Society. Retrieved from BookSG.
 
-Hanitsch, R. (1991). Raffles Library and Museum, Singapore. In W. Makepeace, G.E. Brooke & R.St. J. Braddell. (Eds.), One hundred years of Singapore (Vol. 1, pp. 519–560). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+Hanitsch, R. (1991). Raffles Library and Museum, Singapore. In W. Makepeace, G.E. Brooke & R.St. J. Braddell. (Eds.), *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)* (Vol. 1, pp. 519–560). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 
-Journal in the federal capital. (1932, April 16). The Straits Times, p. 16. Retrieved from NewspaperSG.
+[Journal in the federal capital](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320416-1.2.100). (1932, April 16). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
-Khoo, B.L. (1972, September 8). A jealous guard on Singapore’s earliest books. New Nation, p. 9. Retrieved from NewspaperSG.
+Khoo, B.L. (1972, September 8). [A jealous guard on Singapore’s earliest books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720908-1.2.51.1). *New Nation*, p. 9. Retrieved from NewspaperSG.
 
 Liu, G. (1987). *[One hundred years of the National Museum: Singapore 1887–1987](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4425348)*. Singapore: The Museum. (Call no.: RSING 708.95957 LIU)
 
