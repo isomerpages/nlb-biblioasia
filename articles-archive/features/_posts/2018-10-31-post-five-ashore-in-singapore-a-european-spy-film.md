@@ -149,7 +149,7 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore13.jpg" style="width: 100px; height: 100px;">
-<b>Raphaël Millet</b> is a film director, producer and critic with a passion for early cinema. He has published two books, <i>"Le Cinéma de Singapour"</i> (2004) and <i>"Singapore Cinema"</i> (2006), as well as directed documentaries such as <i>"Gaston Méliès and His Wandering Star Film Company"</i> (2015), screened as part of the 2015 Singapore International Film Festival, and <i>"Chaplin in Bali"</i> (2017), which opened the Bali International Film Festival in 2017.
+<b>Raphaël Millet</b> is a film director, producer and critic with a passion for early cinema. He has published two books, <i>Le Cinéma de Singapour</i> (2004) and <i>Singapore Cinema</i> (2006), as well as directed documentaries such as <i>Gaston Méliès and His Wandering Star Film Company</i> (2015), screened as part of the 2015 Singapore International Film Festival, and <i>Chaplin in Bali</i> (2017), which opened the Bali International Film Festival in 2017.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
