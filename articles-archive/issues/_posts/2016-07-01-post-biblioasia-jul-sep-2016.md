@@ -15,16 +15,16 @@ Stories told by grandparents, the saga of Eurasians in Bahau, and forgotten food
 **[My Grandmother’s Story](/vol-12/issue-2/jul-sep-2016/my-grandmother-story)** <br>
 An unexpected recollection by her grandmother about her experience of the Japanese Occupation sets *Yu-Mei Balasingamchow* thinking about unspoken memories and the stories that haven’t been told. [(PDF)](/files/pdf/vol-12/v12-issue2_Grandmother.pdf)
 
-**Bahau: A Utopia That Went Awry** <br>
+**[Bahau: A Utopia That Went Awry*](/vol-12/issue-2/jul-sep-2016/bahau)** <br>
 The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia during World War II has been largely forgotten. *Fiona Hodgkins* chronicles its painful history. [(PDF)](/files/pdf/vol-12/v12-issue2_Bahau.pdf)
 
-**Mem, Don’t Mess with the Cook!** <br>
+**[Mem, Don’t Mess with the Cook!](/vol-12/issue-2/jul-sep-2016/dontmesswiththecook)** <br>
 European families in colonial Singapore had a retinue of servants – cook, chauffeur, nanny, gardener and houseboy – but this did not guarantee a life of ease, as *Janice Loo* tells us. [(PDF)](/files/pdf/vol-12/v12-issue2_Mem.pdf)
 
-**Forgotten Foods & Mealtime Memories** <br>
+**[Forgotten Foods & Mealtime Memories](/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories)** <br>
 Food writer *Sylvia Tan* remembers the foods and flavours she grew up with and the less than sanitary practices made for stomachs cast in iron. [(PDF)](/files/pdf/vol-12/v12-issue2_ForgottenFoods.pdf)
 
-**Bygone Brands: Five Names That Are No More**<br>
+**[Bygone Brands: Five Names That Are No More](/vol-12/issue-2/jul-sep-2016/bygone-brands)**<br>
 *Sue-Ann Chia* traces the birth and death of five companies, reliving the forgotten stories of some of Singapore’s biggest brand names. [(PDF)](/files/pdf/vol-12/v12-issue2_BygoneBrands.pdf)
 
 **Singapore’s First Japanese Resident: Yamamoto Otokichi** <br>
@@ -36,7 +36,7 @@ The SVC was the precursor of the first organised military service in Singapore a
 **The Fruit of His Labour: David Marshall’s Old Apple Tree** <br>
 Singapore’s fiery Chief Minister used to hold court under an apple tree at Empress Place. But was it *really* an apple tree? *Marcus Ng* separates fact from fiction. [(PDF)](/files/pdf/vol-12/v12-issue2_Marshall.pdf)
 
-**Angels in White: Early Nursing in Singapore** <br>
+**[Angels in White: Early Nursing in Singapore](/vol-12/issue-2/jul-sep-2016/angels-in-white)** <br>
 In the 1820s, some “nurses” in Singapore were actually chained convicts. *Pattarin Kusolpalin* chronicles the history of nursing from 1819 until Independence. [(PDF)](/files/pdf/vol-12/v12-issue2_AngelsWhite.pdf)
 
 **[Best Non-Fiction Book of the Year 2016](/vol-12/issue-2/jul-sep-2016/best-nonfiction-book)** <br>
