@@ -153,3 +153,49 @@ Tan, S.E. (2002, February 1). [Electrifying electronica](http://eresources.nlb.g
 Yap, M. (1988, February 23). [SAF chief tells of challenges](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880223-1.2.24.27).  <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
 #### **NOTES**
+
+[^1]: Top HSC pupil: Two in the running. (1972, March 6). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+[^2]: Cheah, P. (1986, February 6). Soldier composes a Singapore suite. The Straits Times, p. 32. Retrieved from NewspapersSG.
+
+[^3]: Stanford University. (1985, April 24). Campus report. Retrieved from Stanford University website. 
+
+[^4]: Chua, R. (1986, February 15). Our history in music. The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+[^5]: The Straits Times, 6 Feb 1986, p. 32.
+
+[^6]: The Straits Times, 6 Feb 1986, p. 32.
+
+[^7]: Emmanuel, G. (1986, June 16). Romantic touch of Haydn. The Straits Times, p. 19. Retrieved from NewspaperSG.
+
+[^8]: Chang, T.L. (1998, September 18). Too much to ask of Schweizer. The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+[^9]: 11 vie for best of youth title. (1986, September 4). The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+[^10]: Gunners plan big bang for centenary celebrations. (1988, February 9). The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+[^11]: Yap, M. (1988, February 23). SAF chief tells of challenges. The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+[^12]: Sng, S. (Interviewer). (2006, March 28). Oral history interview with Tan Kim Swee (Transcript of MP3 recording no. 002992/34/27, pp. 713–738). Retrieved from National Archives of Singapore website. 
+
+[^13]: Lim, H.F. (1988, March 19). A young pianist’s Sunday treat and a composer’s static work. The Straits Times, p. 39. Retrieved in NewspaperSG.
+
+[^14]: Oral history interview with Tan Kim Swee, 28 Mar 2006.
+
+[^15]: Sasitharan, T. (1989, January 9). Local composers merit patronage. The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+[^16]: The Straits Times, 15 Feb 1986, p. 13.
+
+[^17]: It sure beats chicken-scratch. (1992, June 9). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^18]: Looi, P. (1992, July 22).  Music notes. The Straits Times, p. 5; Phang, M.Y. (1994, March 23). Music notes. The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+[^19]: Concert tribute to Singapore composer. (1998, January 15). The Straits Times, p. 79. Retrieved from NewspaperSG.
+
+[^20]: Looi, P. (1992, July 27). Rich, controlled performance. The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+[^21]: The Straits Times, 9 Jun 1992, p. 2. 
+
+[^22]: Chang, T.L. (2001, December 7). A symphony with sound of Rasa Sayang? The Straits Times, p. 19. Retrieved from NewspaperSG.
+
+[^23]: Tan, S.E. (2002, February 1). Electrifying electronica. The Straits Times, p. 8. Retrieved from NewspaperSG.
