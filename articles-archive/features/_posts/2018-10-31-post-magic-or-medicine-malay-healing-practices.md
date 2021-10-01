@@ -25,7 +25,7 @@ Western scholars of the time held the view that the Malay community adopted a hy
 
 Medicine in Islam is characterised by a history of enquiry, innovation and adaptation. This is reflected in the ease in which indigenous healers adopted and adapted Islamic symbolism in their practices. In the Malay Peninsula, ceremonies overseen by the *pawang* (or shaman) include Quranic incantations and prayers addressed solely to God, even though most other aspects of the rituals are Hindu-Buddhist or pre-Indic in character.
 
-Although the origins are unclear, the Malay method of healing is mainly administered by the traditional medicine man or *bomoh* (see text box), who derives his knowledge from either *ilmu turun* (inherited knowledge) or *ilmu tuntut* (apprenticeship) and, in some instances, complemented by the *Kitab Tibb* (The Book of Medicine).
+Although the origins are unclear, the Malay method of healing is mainly administered by the traditional medicine man or *bomoh* (see text box below), who derives his knowledge from either *ilmu turun* (inherited knowledge) or *ilmu tuntut* (apprenticeship) and, in some instances, complemented by the *Kitab Tibb* (*The Book of Medicine*).
 
 <img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed2.JPG">
 <div style="background-color: white;">A portrait of a Malay traditional healer, c. 1900. These medicine men usually carried their bottles of medicine and herbs wrapped in a <i>kain sarong</i> (“sarong cloth”) slung over their shoulders. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
