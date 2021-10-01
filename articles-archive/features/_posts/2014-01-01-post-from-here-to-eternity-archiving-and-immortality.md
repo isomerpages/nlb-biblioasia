@@ -25,11 +25,11 @@ I met a traveler from an antique land / Who said: Two vast and trunkless legs of
 
 Thus most fundamentally, one’s “immortality” rests on the acclaim and recognition by others. Memory cannot be forced, and immortality is not something won by mere dictate or design.
 
-Surely god would not have created such a being as man, with an ability to grasp the infinite, to exist only for a day! No, no, man was made for immortality. 
+Surely God would not have created such a being as man, with an ability to grasp the infinite, to exist only for a day! No, no, man was made for immortality. 
 
 <div style="text-align: right">—ABRAHAM LINCON</div>
 
-Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (Image via Wikimedia Commons5) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^6]
+Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (image via Wikimedia Commons[^5]) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^6]
 
 #### **Archiving and Immortality**
 
