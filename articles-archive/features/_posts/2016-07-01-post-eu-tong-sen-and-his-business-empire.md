@@ -68,7 +68,7 @@ Here are some highlights of the collection.
 
 |这是United Engineers Limited于1933年10月31日在余园维修电梯的账单，费用为25元。在不计其数的产业中，位于苏菲雅山亚迪斯路，由双麦嘉仁建筑公司于1914年设计的余园也许是最广为人知。电梯是余东旋为能让母亲到顶楼看风景而设。余园在80年代已因公寓发展而被拆除。|
 
-|<br><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg"><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg">|
 
 |5. An account memo with two payment instructions, one of which was to the Penang Turf Club, issued by Eu Keng Chee (or K. C. Eu), Eu Tong Sen’s eldest son, on 25 January 1932 in his capacity as Managing Director of Lee Wah Bank. Founded in 1920 by a group of businessmen led by Eu Tong Sen, who became its first Chairman, the bank specifically served the Cantonese community (all staff members were required to converse in Cantonese). The bank managed to weather the Great Depression years and World War II, but a series of setbacks in the late 1960s resulted in its acquisition by United Overseas Bank in 1973.[^11]|
 
