@@ -162,9 +162,9 @@ Khoo, B.L. (1972, September 8). A jealous guard on Singapore’s earliest books.
 
 Liu, G. (1987). One hundred years of the National Museum: Singapore 1887–1987. Singapore: The Museum. (Call no.: RSING 708.95957 LIU)
 
-Lum, M. (1986, October 4). Glimpses of life in pre-war days. The Straits Times, p. 1. Retrieved from NewspaperSG.
+Lum, M. (1986, October 4). *[Glimpses of life in pre-war days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861004-1.2.90.2)*. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Malaya’s first printed book. (1948, October 3). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[Malaya’s first printed book](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481003-1.2.38). (1948, October 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
 Quah, R. (1973). The Southeast Asia Collection of the National Library, Singapore – an appraisal. *[Singapore Libraries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183443)*, *3*, 32–37.
 
