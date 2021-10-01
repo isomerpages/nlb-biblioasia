@@ -57,7 +57,7 @@ Despite having to contend with the difficulty of travelling in war-ravaged count
 
 A long-standing policy of the IWGC was to select sites that were the scene of significant battles or were associated with disturbing but significant memories. The scholar Maria Tumarkin, in her book *Traumascapes* (2005), identified the places upon which war cemeteries are founded as bearing the tangible imprint left behind at a place of violent suffering or “traumascape”.[^8] Obbard and Oakes were aware of this policy. In their initial tour of Asia, they were asked to identify sites that could be built as war cemeteries. Notable examples in this regard were Kohima and Imphal in India, Chungkai and Kanchanaburi in Thailand, Thanbyuzayat in Myanmar, and Sai Wan Bay in Hong Kong.
 
-<img style="width: 650px; height: 390px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour4.JPG">
+<img style="width: 600px; height: 390px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour4.JPG">
 <div style="background-color: white;">The Kanchanaburi War Cemetery, designed by Colin St Clair Oakes, in the town of Kanchanaburi in Thailand, near the border with Burma. The stone entrance portico and visitor shelter frame the cemetery, which houses almost 7,000 identified casualties from the notorious Siam-Burma Railway. <i>Courtesy of the Commonwealth War Graves Commission.</i></div>
 
 <img style="width: 420px; height: 560px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour5.JPG">
