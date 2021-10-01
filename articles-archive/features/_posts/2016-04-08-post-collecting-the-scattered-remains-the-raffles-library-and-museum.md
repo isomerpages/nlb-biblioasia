@@ -196,32 +196,32 @@ Singapore Library. (1860). Catalogue of books in the Singapore Library, with reg
 
 Tan, K. (2015). Of whales and dinosaurs: The story of Singapore’s Natural History Museum. Singapore: NUS Press. (Call no.: RSING 508.0745957 TAN)
 
-Van der Hoop, A.N.J. (1957). The Raffles Museum Singapore. [S.l., s.n.]. (Call no.: RDLKL 069.2095957 VAN)
+Van der Hoop, A.N.J. (1957). *[The Raffles Museum Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201905661)*. [S.l., s.n.]. (Call no.: RDLKL 069.2095957 VAN)
 
 #### **NOTES**
 
-[^1]:Reith, G.M. (1892). Handbook to Singapore (pp. 36–37). Singapore: Singapore and Straits Print. Office. Retrieved from BookSG.
+[^1]:Reith, G.M. (1892). *[Handbook to Singapore](https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx)* (pp. 36–37). Singapore: Singapore and Straits Print. Office. Retrieved from BookSG.
 
-[^2]:Raffles, T.S. (1819). Minute by Sir T.S. Raffles on the establishment of a Malay College at Singapore (pp. 17, 24). [S.l.: s.n.]. Retrieved from BookSG.
+[^2]:Raffles, T.S. (1819). *[Minute by Sir T.S. Raffles on the establishment of a Malay College at Singapore](https://eresources.nlb.gov.sg/printheritage/detail/ec629c60-58e9-40c6-847e-43d191dada47.aspx)* (pp. 17, 24). [S.l.: s.n.]. Retrieved from BookSG.
 
-[^3]:Singapore Library. (1850). The sixth report of the Singapore Library (p. 7). Singapore: Printed at the Singapore Free Press Office. Retrieved from BooKSG.
+[^3]:Singapore Library. (1850). *[The sixth report of the Singapore Library](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx)* (p. 7). Singapore: Printed at the Singapore Free Press Office. Retrieved from BooKSG.
 
-[^4]:Singapore Library. (1849). The fifth report of the Singapore Library (pp. 10, 20). Singapore: Singapore Free Press Office. Retrieved from BookSG.
+[^4]:Singapore Library. (1849). *[The fifth report of the Singapore Library](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx)* (pp. 10, 20). Singapore: Singapore Free Press Office. Retrieved from BookSG.
 
-[^5]:Hanitsch, R. (1991). Raffles Library and Museum, Singapore. In W. Makepeace, G.E. Brooke & R.St. J. Braddell. (Eds.), One hundred years of Singapore (Vol. 1, p. 546). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+[^5]:Hanitsch, R. (1991). Raffles Library and Museum, Singapore. In W. Makepeace, G.E. Brooke & R.St. J. Braddell. (Eds.), *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)* (Vol. 1, p. 546). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 
-[^6]:Raffles Museum and Library. (1880). Report on the Raffles Library and Museum for 1879 (p. 1). Singapore: The Museum. (Call no.: RRARE 027.55957 RAF; Microfilm no.: NL3874)
+[^6]:Raffles Museum and Library. (1880). *[Report on the Raffles Library and Museum for 1879](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247)* (p. 1). Singapore: The Museum. (Call no.: RRARE 027.55957 RAF; Microfilm no.: NL3874)
 
 [^7]:This title is currently on display at the library’s “From the Stacks” exhibition.
 
 [^8]:This title is currently on display at the library’s “From the Stacks” exhibition.
 
-[^9]:Daniel, P. (1941). A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library (p. i). Singapore. Singapore: [Malayan Branch of the Royal Asiatic Society]. Call no.: RCLOS 016.9595 DAN)
+[^9]:Daniel, P. (1941). *[A descriptive catalogue of the books relating to Malaysia in the Raffles Museum & Library](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980136)* (p. i). *Singapore*. Singapore: [Malayan Branch of the Royal Asiatic Society]. Call no.: RCLOS 016.9595 DAN)
 
 [^10]:The author wishes to thank Dr Peter Borschberg for his assessment of the Mills Collection. 
 
 [^11]:A selection of newspapers from the Occupation period are on display at the “From the Stacks” exhibition. 
 
-[^12]:Corner, E.J.H. (1981). The Marquis: A tale of Syonan-to (p. 151). Singapore: Heinemann Asia. (Call no.: RSING  959.57023 COR)
+[^12]:Corner, E.J.H. (1981). *[The Marquis: A tale of Syonan-to](https://eservice.nlb.gov.sg/itemholding.aspx?bid=4080105)* (p. 151). *Singapore: Heinemann Asia*. (Call no.: RSING  959.57023 COR)
 
-[^13]:Raffles Library. (1894). Annual report on the Raffles Library and Museum, for the year ending 31st December 1893 (p. 1). [S.l.: s.n.]. (Call no.: RRARE 027.55957 RAF; Microfilm no..: NL3874)
+[^13]:Raffles Library. (1894). *[Annual report on the Raffles Library and Museum, for the year ending 31st December 1893](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080105)* (p. 1). [S.l.: s.n.]. (Call no.: RRARE 027.55957 RAF; Microfilm no..: NL3874)
