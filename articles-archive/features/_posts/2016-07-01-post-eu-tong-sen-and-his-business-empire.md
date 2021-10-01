@@ -62,7 +62,7 @@ Here are some highlights of the collection.
 
 |此信函是市镇局于1923年1月15日通知余东旋位于余东旋街26号的戏院因事故电源已被割断，有待维修工作完成后才能重新启动。[注：戏院名称无法被确定，但有可能是庆维新或庆升平。]|
 
-|<br><img style="width:500px" src="/images/Vol-12-issue-2/eu-tong-sen/06a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/06a-eutongsen.jpg"><img style="width:500px" src="/images/Vol-12-issue-2/eu-tong-sen/06a-eutongsen.jpg"></a>|
 
 |4. A bill from United Engineers Limited dated 31 October 1933 for the maintenance fee of $25 for an electric lift in Eu Villa. Among the many properties owned by Eu Tong Sen in Singapore, the most well-known was perhaps Eu Villa at Adis Road on Mount Sophia. It was designed by Swan & Maclaren in 1914. The lift was specially installed for Eu’s mother to take her to the top floor to enjoy the scenery. Eu Villa was demolished in the 1980s to make way for a condominium.[^10]|
 
