@@ -17,14 +17,11 @@ Colonial scholars and administrators in 20th-century Malaya were invariably conf
 
 As a result, the practice and form of traditional Malay medicine underwent dramatic changes under colonial rule. Legislations, for instance – shaped by altruism or bigotry, but more likely a combination of the two – were introduced by the British to stamp out traditional Malay healing practices and regulate village healers.
 
-<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed2.JPG">
-<div style="background-color: white;">A portrait of a Malay traditional healer, c. 1900. These medicine men usually carried their bottles of medicine and herbs wrapped in a <i>kain sarong</i> (“sarong cloth”) slung over their shoulders. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
-
 #### **The Spread of Islam and Malay Medicine**
 
 The adoption of Islam in the Malay Archipelago from the 13th century onwards not only introduced a new religious doctrine to the region, but also fostered a pan-Islamic identity and defined new parameters for the spiritual, social and economic way of life of its inhabitants. Gradually, Islam became syncretised with the prevailing belief systems of the Malay world.
 
-Western scholars of the time held the view that the Malay community adopted a hybridised form of Islam. In his address before the Straits Philosophical Society in 1896, English orientalist and linguist Charles O. Blagden postulated that Malays were “only superficially Muhammadan” as their folk rituals were “unorthodox” and “pagan” in relation to the basic tenets of Islam.[^3] Such an assertion, however, simplifies the complex understanding and expressions of a dynamic and multifaceted faith.
+Western scholars of the time held the view that the Malay community adopted a hybridised form of Islam. In his address before the Straits Philosophical Society in 1896, the English Orientalist Charles O. Blagden postulated that Malays were “only superficially Muhammadan” as their folk rituals were “unorthodox” and “pagan” in relation to the basic tenets of Islam.[^3] Such an assertion, however, simplifies the complex understanding and expressions of a dynamic and multifaceted faith.
 
 Medicine in Islam is characterised by a history of enquiry, innovation and adaptation. This is reflected in the ease in which indigenous healers adopted and adapted Islamic symbolism in their practices. In the Malay Peninsula, ceremonies overseen by the *pawang* (or shaman) include Quranic incantations and prayers addressed solely to God, even though most other aspects of the rituals are Hindu-Buddhist or pre-Indic in character.
 
@@ -33,6 +30,9 @@ Medicine in Islam is characterised by a history of enquiry, innovation and adapt
 (Right) An anchak or sacrificial tray used by the Malay medicine man (or bomoh). The tray has a fringe around it called “centipedes’ feet”. The <i>ketupat</i> and <i>lepat</i> (rice receptacles made of plaited palm fronds) are hung from the “suspenders” attached to the tray. <i>Image reproduced from Skeat, W.W. (1900). Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula (p. 414). London: Macmillan and Co.</i></div>
 
 Although the origins are unclear, the Malay method of healing is mainly administered by the traditional medicine man or *bomoh* (see text box), who derives his knowledge from either *ilmu turun* (inherited knowledge) or *ilmu tuntut* (apprenticeship) and, in some instances, complemented by the *Kitab Tibb* (The Book of Medicine).
+
+<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed2.JPG">
+<div style="background-color: white;">A portrait of a Malay traditional healer, c. 1900. These medicine men usually carried their bottles of medicine and herbs wrapped in a <i>kain sarong</i> (“sarong cloth”) slung over their shoulders. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 There are numerous versions of *Kitab Tibb* manuscripts found in the Malay Archipelago. Mostly written between 1786 and 1883, these broadly outline three main types of healing practices: those using natural resources such as plants and herbs; those relying on *wafaq* (written symbols or amulets); and healing practices using Quranic verses, supplications and salawat (blessings to the Prophet). All these techniques can be used simultaneously or separately.[^4]
 
