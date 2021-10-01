@@ -179,3 +179,104 @@ The <i>tajam batu</i> man was usually a Punjabi (Sikh) who made his bicycle roun
 <p style="font-size:15px;">This article was researched by <b>Nor Afidah Abd Rahman</b>, a senior librarian with the National Library Board (NLB).</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+100 charcoal kilns close down. (1951, January 15). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+
+150 homeless in big kampong blaze. (1959, July 22). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+A Kadir Jasin. (2010, July 28). Potong kepala disiplinkan budak-budak desa. Retrieved from kadirjasian.blogspot.sg website.
+Alexander, W. (1956, April 4). Singapore awakes: The first at the standpipe. The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+An upcountry tourist in Singapore. (1949, December 31). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+Ang, J. (1962, August 12). The upstage barbecue. The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+Aref A. Ghouse. (1999, November 19). ‘Bai serbat’ balik kampong. Berita Harian, p. 11. Retrieved from NewspaperSG.
+
+At Kandang Kerbau. (1950, October 5). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+Azlina Rais. (1982, August 12). Bahasa pasar tak patut digalakkan. Berita Harian, p. 4. Retrieved from NewspaperSG.
+
+Campbell, W. (1974, March 15). Trading patterns change to keep pace with modern life styles. The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+Chan, K.S. (2001, November 26). Cooking with old king coal. The Straits Times, p. 16. Retrieved from NewspaperSG.
+
+Chew, D. (Interviewer). (1984, January 17). Oral history interview with Mable Martens. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
+
+Chew, D. (Interviewer). (1985, February 15). Oral history interview with Ronald Benjamin Milne [Transcript of MP3 recording no. 000447/64/63, pp. 562, 566]. Retrieved from National Archives of Singapore website.
+
+Chun, S.L. (2008, August 31). More than 1 type of kampong in Singapore. Good Morning Yesterday. Retrieved from Goodmorningyesterday.blogspot.sg. website.
+
+Eastley, A. (1955, June 25). Singapore’s great baby problem. The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
+
+Electricity supplies for several kampongs. (1961, October 9). The Singapore Free Press, p. 13. Retrieved from NewspaperSG.
+
+Esso cuts price of cooking gas. (1986, May 8). The Straits Times, p. 15. Retrieved from NewspaperSG.
+
+Farrer, R.J. (1951, November 4). The bygone mosquito buses: Honking horrors. The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+Feng, Y. (2008, August 9).  Makan mash-up. The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+Firewood. (1940, September 5). The Straits Times, p. 16. Retrieved from NewspaperSG.
+
+From huts to high rises. (2007, December 2). The Straits Times, p. 30. Retrieved from NewspaperSG.
+
+From tear-jerking to trouble-free cooking. The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Fuel important to good cook. (1964, October 28). The Straits Times, p. 18. Retrieved from NewspaperSG.
+
+Irahhajerah. (2011, May 1). Ingat tak mainan canggih kita zaman kanak-kanak dulu harga dia 20 sen jer? Retrieved from irahhajerah.blogspot.sg website.
+
+Lam, C.S. (2006, October 28). My friend Adrian Chua remembers his childhood days. Good Morning Yesterday. Retrieved from Goodmorningyesterday.blogspot.sg website.
+
+Lee, A. (1985, October 13). From kampong girl to a flat-dweller. The Straits Times, p. 36. Retrieved from NewspaperSG.
+
+Leong, S. (2008–2013). Hantam bola. Retrieved from http://www.singsupplies.com/showthread.php?152987-Hantam-bola
+Lights for all the kampongs by early 1966. (1965, July 23). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+Local. (1850, August 9). The Singapore Free Press and Mercantile Advertiser, p. 4. Retrieved from NewspaperSG.
+
+Mohd Yussoff Ahmad (Interviewer). (1990, February 7). Oral history with Mydeen Kutty Mydeen [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
+
+Nazerin Harun. (2012, June 7). Pemenggal kepala. Retrieved from nazerihn .blogspot.sg website.
+
+Nor-Afidah Abd Rahman. (2012, June 1). Then and now: Games children play. iremembersg. Retrieved from iremember.sg website.
+Oil stove boom in Singapore. (1951, March 10). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+“Orang Sebarang”. (1936, July 23). And then the durian. Too costly in Singapore. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Salmah Semono. (1979, March 4). Pemainan masa lalu jalin ikatan kejiranan. Berita Harian, p. 4. Retrieved from NewspaperSG.
+
+Seetoh, K. (2013, May 28). The karipap princess. Retrieved from Makanation website. 
+
+Singapore place names and their meanings. (1934, March 19). The Singapore Free Press and Mercantile Advertiser, p. 8. Retrieved from NewspaperSG.
+
+Soo, E.J. (2010, August 23). Is the old 555 notebook or the new iPad better. AsiaOne. Retrieve from AsiaOne website. 
+
+Suhami Ahmad & Krew Apo2 Yolah. (2012, March 14). Zaman hingus meleleh. Retrieved from anaknegori.blogspot.
+
+Suppiah, P. (2005, January 20). A clean break? Not yet. Today, p. 30. Retrieved from NewspaperSG.
+
+Syair Kampung Gelam Terbakar. Melayu Online. Retrieved from Melayu Online website. 
+
+Tan, C.H. (Interviewer). (2007, April 26). Oral history interview with Bryan Richmond [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
+
+Tan, S., & Tay, M. (2003). World food: Malaysia & Singapore (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
+Teh tarik dan jambatan bawa nostalgia masa silam. (1990, June 9). Berita Harian, p. 10. Retrieved from NewspaperSG.
+
+Tengok tu macam tak ada pape. (2012, October 16). Retrieved from Facebook.com website. 
+
+Teru-teru bozu. (2010, December 4). Kisah si penajam batu. Retrieved from teruterubozu68.blogspot.sg website.  
+
+The Chinese bus companies. (1950, June 6). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+The unborn give her no peace. (1950, October 28). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+
+When hundreds of hawkers are using them. (1971, November 23). The Straits Times, p. 17. Retrieved from NewspaperSG.
+
+Ye Ye Orh…sajer. (2009, April 16). Zero point. Retrieved from Percicilan.wordpress.com website.
+
+
+#### **NOTES**
