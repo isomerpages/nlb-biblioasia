@@ -166,15 +166,15 @@ Lum, M. (1986, October 4). Glimpses of life in pre-war days. The Straits Times, 
 
 Malaya’s first printed book. (1948, October 3). The Straits Times, p. 3. Retrieved from NewspaperSG.
 
-Quah, R. (1973). The Southeast Asia Collection of the National Library, Singapore – an appraisal. Singapore Libraries, 3, 32–37.
+Quah, R. (1973). The Southeast Asia Collection of the National Library, Singapore – an appraisal. *[Singapore Libraries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183443)*, *3*, 32–37.
 
-Quaint delights and surprises in books of Malaya’s past. (1936, January 12). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[Quaint delights and surprises in books of Malaya’s past](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360112-1.2.53). (1936, January 12). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-Raffles, T.S. (1819). Minute by Sir T.S. Raffles on the establishment of a Malay College at Singapore. [S.l.: s.n.]. Retrieved from BookSG.
+Raffles, T.S. (1819). *[Minute by Sir T.S. Raffles on the establishment of a Malay College at Singapore](https://eresources.nlb.gov.sg/printheritage/detail/ec629c60-58e9-40c6-847e-43d191dada47.aspx)*. [S.l.: s.n.]. Retrieved from BookSG.
 
-Raffles, T.S. (1823). Formation of the Singapore Institution, A. D. 1823. Malacca: Printed at the Mission Press. Retrieved from BookSG.
+Raffles, T.S. (1823). *[Formation of the Singapore Institution](https://eresources.nlb.gov.sg/printheritage/detail/c862d6a7-03d3-4333-9191-36bb78288b2f.aspx)*, *A. D. 1823*. Malacca: Printed at the Mission Press. Retrieved from BookSG.
 
-Raffles Library. (1877). General catalogue of bound volumes in the Raffles Library, Sept. 1st, 1877. Singapore: The Library. Retrieved from BookSG.
+Raffles Library. (1877). *[General catalogue of bound volumes in the Raffles Library](https://eresources.nlb.gov.sg/printheritage/detail/c70105a0-39a8-4ea2-9d99-22dcdb23d62a.aspx)*, *Sept. 1st, 1877*. Singapore: The Library. Retrieved from BookSG.
 
 Raffles Library. (1881). *[Catalogue of the Logan Library](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4412802)*. Singapore: Printed by Straits Times Press. (Call no.: RRARE 015.5957 RAF; Microfilm nos.: NL3998; NL2805)
 
