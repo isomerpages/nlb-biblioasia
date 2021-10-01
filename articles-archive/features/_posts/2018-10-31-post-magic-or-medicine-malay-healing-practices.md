@@ -98,10 +98,10 @@ Under the Midwives Ordinance enacted in the Straits Settlements in 1915, all *bi
 
 By 1936, there were 720 trained midwives in Singapore, 574 in Penang and 224 in Malacca. Despite these efforts, traditional *bidans* were still sought after by Malayan women in the subsequent decades due to the personal nature of the antenatal and postnatal services they provided, including up to six weeks after delivery.
 
-Two other legislations introduced by the colonial government further threatened the existence of traditional healers and the provision of traditional medicine. Under the Sale of Food and Drugs Ordinance that came into force in 1914, the sale of adulterated drugs was deemed an offence “if the purchaser [was] not fully informed of the nature of adulteration at time of purchase”.[^19] The second legislation, the Poisons Ordinance of 1938 “regulate[d] the possession and sales of potent medicinal substances, to prevent misuse or illicit diversion of poisons”.[^20]
-
 <img style="width: 600px; height: 390px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed6.JPG">
 <div style="background-color: white;">Group photograph of Malay midwives in Singapore, 1950. Known as <i>bidan</i>, these midwives specialised in women’s health matters, including fecundity, midwifery and contraception, along with beauty-related disorders. <i>Haji Mawardi Collection, courtesy of National Archives of Singapore.</i></div>
+
+Two other legislations introduced by the colonial government further threatened the existence of traditional healers and the provision of traditional medicine. Under the Sale of Food and Drugs Ordinance that came into force in 1914, the sale of adulterated drugs was deemed an offence “if the purchaser [was] not fully informed of the nature of adulteration at time of purchase”.[^19] The second legislation, the Poisons Ordinance of 1938 “regulate[d] the possession and sales of potent medicinal substances, to prevent misuse or illicit diversion of poisons”.[^20]
 
 These laws compromised the role of traditional Malay healers in the community, especially given the latent suspicions surrounding Malay medicine. However, due to the high costs involved in establishing an islandwide public healthcare system, the British authorities were rather lax at enforcing these legislations, and allowed itinerant and home-based traditional healers to continue practising their craft.
 
