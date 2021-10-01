@@ -33,7 +33,7 @@ A sailor travels halfway around the world in his attempt to return home, and bec
 **Beach Road Camp and the Singapore Volunteer Corps** <br>
 The SVC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over a century. *Francis Dorai* has the story. [(PDF)](/files/pdf/vol-12/v12-issue2_VolunteerCorps.pdf)
 
-**The Fruit of His Labour: David Marshall’s Old Apple Tree** <br>
+**[The Fruit of His Labour: David Marshall’s Old Apple Tree](/vol-12/issue-2/jul-sep-2016/david-marshall)** <br>
 Singapore’s fiery Chief Minister used to hold court under an apple tree at Empress Place. But was it *really* an apple tree? *Marcus Ng* separates fact from fiction. [(PDF)](/files/pdf/vol-12/v12-issue2_Marshall.pdf)
 
 **[Angels in White: Early Nursing in Singapore](/vol-12/issue-2/jul-sep-2016/angels-in-white)** <br>
