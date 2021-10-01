@@ -125,12 +125,32 @@ Colin St Clair Oakes would not see through the completion of Kranji War Cemetery
 
 |**REFERENCES**
 
-Blackburn, K., & Hack, K. (2012). War Memory and the making of Modern Singapore (p. 110). Singapore: NUS Press. (Call no.: RSING 940.53595 BLA-[WAR])
+|Blackburn, K., & Hack, K. (2012). [*War Memory and the making of Modern Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14230768) (p. 110). Singapore: NUS Press. (Call no.: RSING 940.53595 BLA-[WAR])
 
-Bose. R. (2006). Kranji: The Commonwealth war cemetery and the politics of the dead. Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.54655957 BOS-[WAR])
+|Bose. R. (2006). [*Kranji: The Commonwealth war cemetery and the politics of the dead*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200039628). Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.54655957 BOS-[WAR])
 
-Commonwealth War Graves Commission (2018). Kranji War Cemetery. Retrieved from Commonwealth War Graves Commission website.
+|Commonwealth War Graves Commission (2018). *Kranji War Cemetery*. Retrieved from Commonwealth War Graves Commission website.
 
-Lane, A. (1995). Kranji War Cemetery, Singapore. Stockport, Cheshire: Lane Publishers. (Call no.: RSING 940.54655957 LAN-[WAR])
+|Lane, A. (1995). [*Kranji War Cemetery, Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7491020). Stockport, Cheshire: Lane Publishers. (Call no.: RSING 940.54655957 LAN-[WAR])
 
-Longworth, P. (1967). The unending vigil: A history of the Commonwealth War Graves Commission. London: Constable. (Not available in NLB holdings)
+|Longworth, P. (1967). *The unending vigil: A history of the Commonwealth War Graves Commission*. London: Constable. (Not available in NLB holdings)
+
+<br>
+
+|**A BIOGRAPHY OF COLIN ST CLAIR OAKES**
+
+|<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour9.JPG">Colin St Clair Oakes, the architect with the Imperial War Graves Commission responsible for designing a number of cemeteries located across South and Southeast Asia. These include Kranji War Cemetery in Singapore; Taiping War Cemetery in Malaysia; Kanchanaburi War Cemetery and Chungkai War Cemetery, both in Thailand; Rangoon War Cemetery in Burma; Imphal War Cemetery in India; Sai Wan Bay Cemetery in Hong Kong; and Chittagong War Cemetery in Bangladesh. <i>Courtesy of the Oakes Family Collection.</i>
+
+|Born 23 May 1908, in the village of Tanyfron in north Wales, the childhood of Colin Sinclair Rycroft Oakes was bookended by the achievements of the Victorian age and the catastrophe of World War I. This was a period that also ushered in new attitudes to function and style – a movement that otherwise became known as Modernism.
+
+|Admitted to the Northern Polytechnic School of Architecture in 1927, Oakes would come under the tutelage of British abstract artist and pioneer of Modernism, John Cecil Stephenson. The polytechnic would instil in him a cosmopolitan outlook and design temperament that veered towards the contemporary. It also inspired his first overseas foray, departing in April 1930 for Helsinki, Finland, to join the practice of architect Jarl Eklund. Eklund would also mentor a young Eero Saarinen, one of the great architects of the 20th century.
+
+|Oakes’ return home in 1931 would prove short-lived. His application to the prestigious Rome Scholarship in Architecture, offering an opportunity to live and study at the British School at Rome, was successful. Travelling to the historic cities of Europe and producing detailed measured drawings from archaeological sites, Oakes’ work would be exhibited at the Royal Academy, and see his scholarship extended for a second year. It would also be the last, as by 1932, Italy’s fascist regime, coupled with rising anti-British sentiments, had created an environment of hostility.
+
+|By spring of 1936, Oakes once again left England, this time for India. Appointed Second Architect to the Government of Bengal, he would quickly assume the role of Acting Government Architect, responsible for the design of numerous public projects such as the Calcutta Custom House, expansion of Dum Dum Jail, and technical colleges in Dacca and Chittagong. His design contribution included three bridges, notably the iconic SevokeTeesta Bridge spanning the Teesta River.
+
+|Oakes’ experience of living in India, along with membership of the Territorial Army during his youth, would prove beneficial to the British Army when the Japanese entered World War II. Commissioned as a Captain, Oakes’ posting to Bengal would see his active involvement in the Allies’ Arakan Campaign into Burma. For his role in the campaign, Oakes was bestowed an MBE in May 1944 and promoted to the rank of Major.
+
+|Shortly after the end of the war, Oakes came to the attention of Sir Frederic Kenyon, Director of the British Museum and Artistic Advisor to the Imperial War Graves Commission (IWGC). On 2 November 1945, Oakes was invited to undertake a three-month-long tour of the very regions he had recently lived and fought in – along with Ceylon (Sri Lanka), Siam (Thailand), Malaya and Singapore – on behalf of the IWGC.
+
+|It would culminate with his appointment as a Principal Architect of IWGC, and tasked with the design of numerous war cemeteries and memorials in Asia. These edifices would later prove to be his defining body of work, bringing together all that he had learnt from his past. In accepting the position, Oakes would follow in the footsteps of his predecessors but, unlike them, he would become the only Principal Architect who had served in the recent war.
