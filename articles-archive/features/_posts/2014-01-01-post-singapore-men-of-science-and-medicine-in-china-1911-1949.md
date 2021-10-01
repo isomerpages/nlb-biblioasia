@@ -6,7 +6,10 @@ layout: post
 ---
 #### **Wayne Soon** sheds light on the enduring and underrated legacy of Overseas Chinese doctors such as Lim Boon Keng and Robert Lim on China's medical institutions.
 
-Despite being away from China, many Overseas Chinese such as Dr Lim Boon Keng, still contributed to the development of their homeland in one way or another. A group photograph of the first Straits Chinese British Association's committee. (Back row, from left: Seah Eng Kiat, Lim Boon Keng, Chia Keng Chin, Tan Boo Liat, Tan Hap Seng and Wee Theam Tew. Front row, from left: Ong Kew Hoe, Chan Chun Fook, Tan Chay Yan, Song Ong Siang (Honorary Secretary), Tan Jiak Kim (President), Seah Liang Seah (Vice-President), Lee Cheang Yee and Wee Kim Yam (1900)). <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg">
+Despite being away from China, many Overseas Chinese such as Dr Lim Boon Keng, still contributed to the development of their homeland in one way or another. A group photograph of the first Straits Chinese British Association's committee. (Back row, from left: Seah Eng Kiat, Lim Boon Keng, Chia Keng Chin, Tan Boo Liat, Tan Hap Seng and Wee Theam Tew. Front row, from left: Ong Kew Hoe, Chan Chun Fook, Tan Chay Yan, Song Ong Siang (Honorary Secretary), Tan Jiak Kim (President), Seah Liang Seah (Vice-President), Lee Cheang Yee and Wee Kim Yam (1900)). <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Historically, The Overseas Chinese — Defined**
 
@@ -14,13 +17,16 @@ as people of Chinese descent or birth who live most of their lives outside of Ch
 
 Yet, many Overseas Chinese returned to work and live in China, often occupying the highest echelons of leadership in various institutions in the first half of the 20th century. They range from Penang-born Gu Hongming who became the standard bearer for conservative intellectual currents at Peking University to Singapore-born Wu Tingfang who briefly became the Premier of the Republic of China. Even Tan Kah Kee, whose businesses were largely based in Southeast Asia, was actively involved in setting up schools in Xiamen.
 
-Among these individuals were educated professionals who promoted and instituted Western science and medicine in modern China,[^4] including Singapore-born Lim Boon Keng (林文慶 1869 – 1957) and Robert Lim Ko-sheng (林 可勝 1897 – 1969).[^5] This article focuses on the lesser-known aspects of their time spent in China, which not only broadens the study of the Chinese diaspora in Southeast Asia but also highlights the history of science, medicine and technology in China and Southeast Asia.
+Among these individuals were educated professionals who promoted and instituted Western science and medicine in modern China,[^4] including Singapore-born Lim Boon Keng (林文慶 1869–1957) and Robert Lim Ko-Sheng (林可勝 1897–1969).[^5] This article focuses on the lesser-known aspects of their time spent in China, which not only broadens the study of the Chinese diaspora in Southeast Asia but also highlights the history of science, medicine and technology in China and Southeast Asia.
 
-Lim Boon Keng: Advocate for Science and Confucianism
+#### **Lim Boon Keng: Advocate for Science and Confucianism**
 
 Lim Boon Keng was the first ethnic Chinese in Singapore to win the Queen's scholarship in 1887. He studied medicine at the University of Edinburgh from 1888 to 1892. Lim's education at Edinburgh was comprehensive: he attended classes on botany, anatomy, practical physiology, institute of medicine, pathology, surgery and clinical medicine, among several other classes.[^6] He graduated with first class honours, the only one out of 204 students who graduated that year. Even though Lim did not enroll in public health classes at the University of edinburgh, he would later use British texts in public health to establish health services for the new Republic of China in 1911.
 
-Dr Lim Boon Keng at age 40 in 1909.  <i>Ena Teh Guat Kheng collection, courtesy of  National Archives of Singapore</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Dr_Lim_Boon_Keng.jpg">
+Dr Lim Boon Keng at age 40 in 1909.  <i>Ena Teh Guat Kheng collection, courtesy of  National Archives of Singapore</i></div>
 
 Interestingly, Lim sought to integrate his eclectic views of Confucianism with the tenets of modern Western medical science.[^7] Lim was a strong proponent of Western medical sciences in China and Southeast Asia. As early as 1897, he introduced the origins and vectors of diseases to readers across Europe and Southeast Asia in an 1897 article entitled “Infectious diseases and the public,” published in the <i>Straits Chinese Magazine</i> and read by the English-speaking Chinese diaspora throughout China and Southeast Asia. Lim argued that modern medical science (in the form of physics, chemistry and biology) refuted traditional Chinese understanding that miasma (or “bad air”), and not bacteria and viruses, spread diseases.[^8] Lim cited British surgeon Joseph Lister and German bacteriologist Robert Koch, who were both known for their contributions to the study of bacteriology and tuberculosis respectively.
 
@@ -40,7 +46,10 @@ Lim's expertise in western medicine as well as his longstanding commitment in pr
 
 Lim’s sense of purpose was founded on his medical education at the University of Edinburgh, his commitment to leverage on transnational resources from Britain, China and the Straits Settlements, and his deep commitment to using his wealth and influence to turn ideas into medical action.
 
-Coolies, commonly found transporting goods along the Singapore River, formed part of the Overseas Chinese community (1948). <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Coolies.jpg">
+Coolies, commonly found transporting goods along the Singapore River, formed part of the Overseas Chinese community (1948). <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Robert Lim: Like Father, Like Son**
 
@@ -62,10 +71,15 @@ At the CRCMRC, Robert Lim greatly expanded medical care for the wounded Chinese 
 
 The delousing programme began in 1938 and expanded significantly in 1939. Trained sanitary engineers and doctors in mobile units were sent across unoccupied China to delouse soldiers and their clothes. By mid-1939, mobile units had reached as far east as Jinhua (金華) in Zhejiang, as far west as Chongqing (重慶), as far north as Ganguyi (甘谷驛) in Shanxi, and as far south as Liuzhou (柳洲) in Guangxi.[^26] By the mid-1940s, mobile units had reached further south to Nanning (南寧) in Guangxi and further west to Xiaguan (下關) in Yunnan.[^27] The reach of the delousing units spread far and wide as it attempted to extend treatment to all soldiers in unoccupied China. In total, the sanitary units deloused a total of around 380,000 people as well as 800,000 articles by the end of December 1940, an exponential increase from January to June 1939 where around 17,000 persons and 145,000 thousand articles were deloused. in total, Lim’s CRCMRC treated more than five million people.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Assn.jpg">
+Entrance of New World Amusement Park at Jalan Besar, circa 1960. This was where Chinese swimmer Yang Shau King helped to raise funds for the Chinese Red Cross. <i>Chinese Clan Association collection, courtesy of National Archives of Singapore.</i></div>
 
-Entrance of New World Amusement Park at Jalan Besar, circa 1960. This was where Chinese swimmer Yang Shau King helped to raise funds for the Chinese Red Cross. <i>Chinese Clan Association collection, courtesy of National Archives of Singapore.</i>
-
-Group photograph of Singapore Overseas Chinese raising relief funds for China, headed by Tan Kah Kee. <i>Singapore Chinese Clan Associations Collection, Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Associations.jpg">
+Group photograph of Singapore Overseas Chinese raising relief funds for China, headed by Tan Kah Kee. <i>Singapore Chinese Clan Associations Collection, Courtesy of National Archives of Singapore.</i></div>
 
 #### **Leaving A Legacy**
 
