@@ -176,11 +176,11 @@ Yip, K-C. (1995). *[Health and national reconstruction in nationalist China: The
 
 [^21]: Seven reports of the Chinese Red Cross Medical Relief Corps, Lim’s Papers. IMH Archives.
 
-[^22]: Page 4 Advertisements Column 2: Cabaret. (1937, September 18). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^22]: [Page 4 Advertisements Column 2: Cabaret](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370918-1.2.8.2). (1937, September 18). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
-[^23]: Chinese venus arrives at Batavia. (1938, July 24). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^23]: [Chinese venus arrives at Batavia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380724-1.2.51). (1938, July 24). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-[^24]: Janet Chen describes similar efforts in Shanghai where elites would raise funds for Subei refugees right after the war through organising beauty pageants, and dance parties. Critics claimed that such efforts reflected the hedonistic life-style of the Shanghai elites, even though they appeared extraordinary successful in raising funds for relief efforts. See Chen, J.Y. (2012). Guilty of indigence: The urban poor in China, 1900–1953 (pp. 189–190). Princeton, NJ.: Princeton University Press. (Call no.: 305.5690951091732 CHE)
+[^24]: Janet Chen describes similar efforts in Shanghai where elites would raise funds for Subei refugees right after the war through organising beauty pageants, and dance parties. Critics claimed that such efforts reflected the hedonistic life-style of the Shanghai elites, even though they appeared extraordinary successful in raising funds for relief efforts. See Chen, J.Y. (2012). *[Guilty of indigence: The urban poor in China, 1900–1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14292916)* (pp. 189–190). Princeton, NJ.: Princeton University Press. (Call no.: 305.5690951091732 CHE)
 
 [^25]: 5th report of the Chinese Red Cross Medical Relief Corps. Lim’s papers, IMH archives. 
 
@@ -188,10 +188,10 @@ Yip, K-C. (1995). *[Health and national reconstruction in nationalist China: The
 
 [^27]: 7th report of the Chinese Red Cross Medical Relief Corps, Lim’s papers, IMH archives, 2307001, 194. 
 
-[^28]: Xun, L. (1981). Hai shang tong xin [Maritime communications] (pp. 158–161). In Lu Xun quanji [Complete works of Lu Xun]. Beijing: Renmin wenxue. (Not available in NLB holdings); Also see Lin, Y., Liu, Z., & Bian, Y. (1991). Lin Yutang zi zhuan [Lin Yutan’s autobiography] (pp. 98–100). Shijiazhuang Shi: Hebei renmin chubanshe. (Not available in NLB holdings)
+[^28]: Xun, L. (1981). Hai shang tong xin [Maritime communications] (pp. 158–161). In <i>Lu Xun quanji</i> [<i>Complete works of Lu Xun</i>]. Beijing: Renmin wenxue. (Not available in NLB holdings); Also see Lin, Y., Liu, Z., & Bian, Y. (1991). Lin Yutang zi zhuan [<i>Lin Yutan’s autobiography</i>] (pp. 98–100). Shijiazhuang Shi: Hebei renmin chubanshe. (Not available in NLB holdings)
 
-[^29]: In folder Alfred Kohlberg original memo and Alfred Kohlberg second report. American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library, Columbia university in the city of New York.
+[^29]: In folder Alfred Kohlberg original memo and Alfred Kohlberg second report. <i>American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library, Columbia university in the city of New York</i>.
 
-[^30]: American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library; Wakeman, F.E. (2003). Spymaster Dai Li and the Chinese secret service (p. 389). Berkeley, CA: University of California Press. (Not available in NLB holdings)
+[^30]: American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library; Wakeman, F.E. (2003). <i>Spymaster Dai Li and the Chinese secret service</i> (p. 389). Berkeley, CA: University of California Press. (Not available in NLB holdings)
 
-[^31]: Yip, K-C. (1995). Health and national reconstruction in nationalist China: The development of modern health services, 1928–1937 (pp. 117–120). An Arbor, MI: Association for Asian Studies. (Call no.: R 362.1095109043 YIP)
+[^31]: Yip, K-C. (1995). *[Health and national reconstruction in nationalist China: The development of modern health services, 1928–1937](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13767092) (pp. 117–120). An Arbor, MI: Association for Asian Studies. (Call no.: R 362.1095109043 YIP)
