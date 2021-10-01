@@ -105,6 +105,9 @@ Work on establishing Kranji as a war cemetery began in April 1946, with all avai
 
 Colin St Clair Oakes would not see through the completion of Kranji War Cemetery, nor attend the unveiling ceremony of his “winged” memorial. By the late 1940s, he had taken up a partnership at Sir Aston Webb & Son, and rejoined the Architectural Association. In 1949, with a young family and having endured years away during the war, followed by months travelling for the IWGC, Oakes was appointed Chief Architect of Boots Pure Drug Company,18 continuing his predecessor’s work in rebuilding the many Boots stores in England that were destroyed during the German bombings.
 
+<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour10.JPG">
+<div style="background-color: white;">An aerial view of Kranji War Cemetery and the Singapore Memorial. The Kranji Military Cemetery of non-world war dead is located on the right. <i>Photo by Weixiang Schrödinger Lim.</i></div>
+
 |**KANJI'S WAR DEAD**
 
 |Named after the local tree, *pokok kranji* or *keranji*, Kranji is situated in the north of Singapore, on a small hill with commanding views over the Straits of Johor. The British first established a military base in this area in the 1930s, which also served as a depot for armaments and ammunition during the early days of World War II. When the Japanese attacked Singapore by air on 8 December 1941, the camp was turned into the battalion headquarters for the Australian forces. On 9 February 1942, Kranji was defended by the Australian 27th Brigade and a company of Chinese Dalforce volunteers when the Japanese first landed on Singapore soil at nearby Kranji Beach.
