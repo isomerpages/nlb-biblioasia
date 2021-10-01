@@ -80,25 +80,25 @@ Here are some highlights of the collection.
 
 |此单是位于余东旋街上，南天大酒店内的南天酒楼糕点账单，日期为1933年5月7日。南天大酒店始于1927 年，在战前时的鼎盛时期，这里可说是达官贵人、名人雅士的聚集之地。二楼及三楼的酒店设施，是第一间有电梯服务的华人酒店。战后，五楼改为龙宫大舞厅。|
 
-|<br><img style="width:250px" src="/images/Vol-12-issue-2/eu-tong-sen/09a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/09a-eutongsen.jpg"><img style="width:250px" src="/images/Vol-12-issue-2/eu-tong-sen/09a-eutongsen.jpg"></a>|
 
 |7. Dated 6 June 1934, this is a remittance note sent from the Eu Yan Sang branch in Ipoh to its counterpart in Singapore. Direct remittances between the two places were regularly carried out. The Singapore branch was divided into three units: remittance, wholesale Chinese herbs and pharmaceutical retail. Its remittance business was the most profitable.[^15]|
 
 |这是怡保余仁生于1934年6月6日转发给新加坡余仁生的汇款凭信单。当年两地可作直接汇款。从前新加坡的“余仁生”的店面划分为三个区，汇兑部、生药材批发部和药品零售部。其中，汇款生意最为兴旺。|
 
-|<br><img style="width:400px" src="/images/Vol-12-issue-2/eu-tong-sen/10a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/10a-eutongsen.jpg"><img style="width:400px" src="/images/Vol-12-issue-2/eu-tong-sen/10a-eutongsen.jpg"></a>|
 
 |8. Eu Tong Sen was one of two Chinese representatives in Perak who sat in the powerful Federated Malay States (FMS) Chamber of Mines, which was controlled by the Kinta miners. This letter dated 31 October 1921 from the government of the FMS informed Eu that the legislation on “the subject of section 18 (ii) of the Mining Enactment no. xii of 1911” would be introduced in the next Federal Council meeting in November 1921.[^16]|
 
 |余东旋是四州府矿务局的两位华侨代表之一。矿务局拥有极大势力，由近打谷锡矿商操控着。由四州府政府发出的这封信函，日期为1921年10月31日，主要告知余东旋有关在1911年立法的锡矿开采业法律中的第18（ii）条文将会在11月份的议政局会议提出讨论。|
 
-|<br><img style="width:450px" src="/images/Vol-12-issue-2/eu-tong-sen/11a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/11a-eutongsen.jpg"><img style="width:450px" src="/images/Vol-12-issue-2/eu-tong-sen/11a-eutongsen.jpg"></a>|
 
 |9. This letter in English, which shows the first of three pages and dated 10 May 1921, was written by William Antrobus Luning (the former Chairman of Kinta Tin Mines Ltd) in London. It was addressed to Eu Tong Sen in Singapore. Eu had entrusted Luning as the guardian of his eldest son, Eu Keng Chee (K. C. Eu), during his studies in the UK. Luning wrote that he had given the young man information about the accountancy course at Cambridge University. Upon graduation in 1925, K. C. Eu returned to Malaya and became the first certified public accountant in Singapore. After Eu passed on, K.C. Eu and his brothers inherited the family business.[^17]|
 
 |这是 William Antrobus Luning（前近打锡业有限公司主席）从英国邮寄至新加坡，给余东旋的一封英文信函中的第一页。余东旋曾托付他为监护人，以代为照顾在英国留学的长子余经铸。信中Luning 提及他已把相关报读英国剑桥大学会计课程的资料交给余经铸。余经铸1925年学成归来马来亚，成为新加坡第一位注册会计师。余东旋过世后，他与兄弟继承遗产，成为家族生意的掌舵人。|
 
-|<br><img style="width:400px" src="/images/Vol-12-issue-2/eu-tong-sen/12a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/12a-eutongsen.jpg"><img style="width:400px" src="/images/Vol-12-issue-2/eu-tong-sen/12a-eutongsen.jpg"></a>|
 
 |10. Eu Tong Sen was widely known for his acts of philanthropy. This acknowledgement receipt issued on 7 January 1933 was for his donation of 1,000 Straits dollars to Lingnan School, which was affiliated to Lingnan University in Guangdong, China. Eu was one of the founders of the school that was established in 1931 to provide Chinese education to the Chinese communities in Southeast Asia.[^18]|
 
