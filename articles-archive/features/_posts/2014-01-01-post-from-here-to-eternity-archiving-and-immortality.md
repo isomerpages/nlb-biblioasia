@@ -4,7 +4,7 @@ date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/archivingimmortality
 layout: post
 ---
-Selected pages from Sir Stamford Raffles' original instructions to Sir William Farquhar for the development of Singapore Town, 25 June 1819.10 Courtesy of National Archives of Singapore.
+Selected pages from Sir Stamford Raffles' original instructions to Sir William Farquhar for the development of Singapore Town, 25 June 1819.[^10] Courtesy of National Archives of Singapore.
 
 Man is immortal; therefore he must die endlessly. For life is a creative idea; it can only find itself in changing forms.
 <div style="text-align: right">— RABINFRANATH TAGORE</div>
