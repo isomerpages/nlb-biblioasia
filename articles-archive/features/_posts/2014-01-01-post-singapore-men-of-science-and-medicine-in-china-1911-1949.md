@@ -85,3 +85,50 @@ Wu, together with the Lims and the other Overseas Chinese, represent an unsung g
 
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+5th report of the Chinese Red Cross Medical Relief Corps. Lim’s papers, IMH archives.
+
+7th report of the Chinese Red Cross Medical Relief Corps, Lim’s papers, IMH archives, 2307001, 194.
+
+Brock, T. D. (1999). <i>Robert Koch: A life in medicine and bacteriology</i> (p. 117). Washington, D.C.: ASM Press. (Not available in NLB holdings)
+
+Chen, J.Y. (2012). *[Guilty of indigence: The urban poor in China, 1900–1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14292916)* (pp. 189–190). Princeton, NJ.: Princeton University Press. (Call no.: 305.5690951091732 CHE)
+
+[Chinese venus arrives at Batavia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380724-1.2.51). (1938, July 24). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
+
+Corfield, J. (2010). *[Historical dictionary of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203178074)*. Lanham, MD: Scarescrow Press. (Call no.: RSING 959.57003 COR)
+
+In folder Alfred Kohlberg original memo and Alfred Kohlberg second report. <i>American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library, Columbia university in the city of New York.</i>
+
+Kuhn, P.A. (2008). *[Chinese among others: Emigration in modern times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434)*. Lanham: Rowman & Littlefield. (Call no.: RSEA 304.80951 KUH)
+
+Lim, B.K. (1897, December). Infectious diseases and the public. *[The Straits Chinese Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779)*, 1 (7), 120–124.
+
+Lim, B.K. (1898, September). The renovation of China. *[The Straits Chinese Magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779)*, 2 (7), 88–98.
+
+Lim, B.K. (1931). <i>On the tenth anniversary of the founding of Amoy University</i>. (Unknown publisher). (Not available in NLB holdings)
+
+Lim, R. (1921, November). The medical needs of China. <i>Chinese Student</i>, 24–25.
+
+Lin, Y., Liu, Z., & Bian, Y. (1991). Lin Yutang zi zhuan *[Lin Yutan’s autobiography]* (pp. 98–100). Shijiazhuang Shi: Hebei renmin chubanshe. (Not available in NLB holdings)
+
+林文庆 [Lin, W.Q.]. (1911). [普通卫生讲义](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84506308) [Pu tong wei sheng jiang yi]. Xin jia po: Xin jia po hua zhong shang wu zong hui cai zheng suo. (Call no.: RRARE 613 LBK)
+
+Lin, W.X.B. (1987). <i>Xiamen daxue xiaoshi bianweihui, Xiamen daxue xiaoshi ziliao</i> (pp. 224–229). Xiamen: Xiamen daxue chu ban she. (Not available in NLB holdings)
+
+National Archives at Kew. (1899, February 14). <i>Annual Department Reports, Colonial Office 279/59</i>. Retrieved from National Archives at Kew.
+
+[Page 4 Advertisements Column 2: Cabaret](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370918-1.2.8.2). (1937, September 18). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+
+Seven reports of the Chinese Red Cross Medical Relief Corps, Lim’s Papers. IMH Archives.
+
+Wakeman, F.E. (2003). <i>Spymaster Dai Li and the Chinese secret service</i> (p. 389). Berkeley, CA: University of California Press. (Not available in NLB holdings)
+
+Xiamen Shi defang zhi bian zuan weiyuan hui, Xiamen shi zhi: Mingguo (Xiamen Gazetteer: Republican Period) (Beijing: Fangzhi chubanshe, 1999), 331 and 361–67. 
+
+Xun, L. (1981). Hai shang tong xin [Maritime communications] (pp. 158–161). In <i>Lu Xun quanji [Complete works of Lu Xun]</i>. Beijing: Renmin wenxue. (Not available in NLB holdings)
+
+Yip, K-C. (1995). *[Health and national reconstruction in nationalist China: The development of modern health services, 1928–1937](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13767092)* (pp. 117–120). An Arbor, MI: Association for Asian Studies. (Call no.: R 362.1095109043 YIP)
+
