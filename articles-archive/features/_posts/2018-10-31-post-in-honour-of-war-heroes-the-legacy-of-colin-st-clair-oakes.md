@@ -167,21 +167,21 @@ Colin St Clair Oakes would not see through the completion of Kranji War Cemetery
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:Hall, N. (1957, March 3). [Thoughts of the past move 81-year-old war heroine to tears](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.6). The Straits Times, p. 1. Retrieved from NewspaperSG; Blackburn, K., & Hack, K. (2012). [War memory and the making of modern Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14230768) (p. 110). Singapore: NUS Press. (Call no.: RSING 940.53595 BLA-[WAR]) 
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
+[^1]:Hall, N. (1957, March 3). [Thoughts of the past move 81-year-old war heroine to tears](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.6). *The Straits Times*, p. 1. Retrieved from NewspaperSG; Blackburn, K., & Hack, K. (2012). [*War memory and the making of modern Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14230768) (p. 110). Singapore: NUS Press. (Call no.: RSING 940.53595 BLA-[WAR]) 
+[^2]:Dalforce was a volunteer army whose members were recruited from among the ethnic Chinese community in Singapore. It was formed in December 1941 and named after its commander, Lieutenant Colonel John Dalley of the Federated Malay States Police Force. See National Library Board. (2014, August 19). [*Dalforce*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_765_2005-02-01.html) written by Chow, Alex. Retrieved from Singapore Infopedia; Mdm Cheng and Sim Chin Foo’s aliases courtesy of Kevin Blackburn in written communication, 24 April 2018.
+[^3]:Private Sim Chin Foo, Dalforce, Service no. DAL/46, died 1 September 1942, col. 399, Singapore Memorial.
+[^4]:Bose. R. (2006). [*Kranji: The Commonwealth war cemetery and the politics of the dead*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200039628). Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.54655957 BOS-[WAR]) Kranji would later be included as a chapter in Bose’s 2012 book. See Bose, R. (2012). [*Singapore at war: Secrets from the fall, liberation & aftermath of WWII*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14260547). Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.5425 BOS-[WAR]) 
+[^5]:Lee, A. (2015, November 9). *A case of renewed identity: The fading role of WWII in Singapore’s national narrative*. Retrieved from Singapore Police Journal website. Lee asserts that the war memory in Singapore is political rather than emotional. Singapore’s abandonment by the British and subsequent occupation by the Japanese was used to emphasise self-reliance and the concept of “total-defence”, and the importance of a strong national identity.
+[^6]:Hamzah Muzaini & Yeoh, B.S.A. (2007, June). Memory-making ’from below’: Rescaling remembrance at the Kranji War Memorial and Cemetery, Singapore. *Environment and Planning, 39* (6), 1288–1305, p. 1288. Retrieved from ResearchGate website.
+[^7]:Harry Naismith Obbard (1898–1970) was commissioned into the Royal Engineers during World War I. Seconded to the Indian Army in 1924, he was serving on the staff of GHQ, New Delhi, when he was loaned out to IWGC for the tour of India, Burma and the Far East. By November 1946, Obbard had been promoted to Brigadier and appointed Chief Administration Officer, IWGC India, Pakistan and Southeast Asia District, overseeing all the Commission’s works in the region, including French Indo-China and Hong Kong.
+[^8]:Tumarkin, M.  (2005).  *Traumascapes: The power and fate of places transformed by tragedy* (pp. 10–11). Melbourne: Melbourne University Press. (Not available in NLB holdings)
+[^9]:CWGC SDC 97 Box 2004. Obbard’s Tour Reports 1945–46. Annexure 2. The meeting also included British Army officers Major-General K.G. McLean and Major-General Denning. Foster Hall at the time was heading the Graves Registration Units, undertaking the recovery and concentration of remains found in Burma and along the Siam-Burma Railway. Brown would in a few years be appointed Secretary-General of the IWGC, heading up the ANZAC Agency responsible for the war graves throughout Australia, Indonesia, Borneo, Papua New Guinea, the Pacific and Japan.
+[^10]:CWGC SDC 97 Box 2004. Obbard’s Tour Reports 1945– 46. Annexure 6, In his notes on the selection of sites for permanent military cemeteries on Singapore, Obbard highlights that Foster Hall’s original proposal was for three Christian cemeteries at Buona Vista, Kranji and Changi, and one Muslim cemetery at Nee Soon. Agreeing on Nee Soon for the Muslim site, Foster Hall indicated it contained the ashes of Hindu cremations and the need to scatter them.
+[^11]:CWGC Add 1/6/17 Box 2003, Oakes report,Nov–Dec1945.
+[^12]:CWGC SDC 97 Box 2004,Obbard’s Tour Reports1945–46.
+[^13]:Bose, 2006, pp. 47–50. Also referred to as the Bukit Batok Memorial, and along with the Allies’ memorial cross, it was constructed under the engineering commander-in-charge Yasugi Tamura, using 500 Australian prisoners-of-war from the Sime Road and Adam Park camps.
+[^14]:CWGC Add1/6/17 Box 2003, Oakes report,Nov–Dec 1945.
+[^15]:CWGC Add 1/6/17 Box 2003,Oakes report,Nov–Dec1945.
+[^16]:CWGC Add 1/6/17 Box 2003,Oakes report, Nov–Dec 1945.
+[^17]:CWGC SDC97 Box 2004,Obbard’s Tour Reports 1945– 46. In a special note to Annexure 6.
+[^18]:*Beacon*, October 1949. In-house publication of Boots Pure Drug Company. Oakes joined Boots in 1949, with an arrangement with the IWGC to hand over part of the outstanding war cemeteries whilst committing to completing the remainder. This arrangement would conclude on 31 March 1953.
