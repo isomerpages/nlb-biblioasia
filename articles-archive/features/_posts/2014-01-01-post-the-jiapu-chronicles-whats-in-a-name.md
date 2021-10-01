@@ -100,7 +100,7 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 
 |**Memorial Arches (Pai Fang 牌坊)**|
 
-|In general, there were two main types of memorial arches: the Meritorious Deeds Memorial Arch (<i>gong de pai fang</i> 功德牌坊) and the Virtuous Memorial Arch (<i>dao de pai fang</i> 道 德牌坊). These arches glorified the clan and reminded descendents of desired virtues and conduct through the stories inscribed on the arches. Memorial arches were sometimes located near the ancestral hall and considered part of the compound. |
+|In general, there were two main types of memorial arches: the Meritorious Deeds Memorial Arch (<i>gong de pai fang</i> 功德牌坊) and the Virtuous Memorial Arch (<i>dao de pai fang</i> 道德牌坊). These arches glorified the clan and reminded descendents of desired virtues and conduct through the stories inscribed on the arches. Memorial arches were sometimes located near the ancestral hall and considered part of the compound. |
 
 |In traditional Chinese society, women were usually not mentioned in <i>jiapu</i>, unless they had given birth to sons, in which case, their surnames would be recorded. However, if a widow did not re-marry after the death of her husband, her virtue would earn her a chastity memorial arch. These women were also granted a chapter in the biographical section of the <i>jiapu</i>, which was considered to be a great honour.[^14]|
 
