@@ -104,34 +104,34 @@ While how we buy and read books today has changed with the presence of online bo
 
 #### **NOTES**
 
-[^1]:Radway, J. A. (1991). Reading the romance. Chapel Hill, North Carolina: The University of North Carolina Press.
+[^1]:Radway, J. A. (1991). *Reading the romance*. Chapel Hill, North Carolina: The University of North Carolina Press.
 
 [^2]:The Singapore Memory Project is a whole-of-nation movement that aims to capture and document precious moments and personal memories related to Singapore. See www.singaporememory.sg portal
 
-[^3]:Liew, H.  (2015, October 7). Simple joys of my childhood [Web log post]. Retrieved from irememberSG website.
+[^3]:Liew, H.  (2015, October 7). *Simple joys of my childhood* [Web log post]. Retrieved from irememberSG website.
 
-[^4]:Goh, M. (n.d.). Bookworm Club membership [Web log post]. Retrieved from irememberSG website.
+[^4]:Goh, M. (n.d.). *Bookworm Club* membership [Web log post]. Retrieved from irememberSG website.
 
-[^5]:Flood, A. (2010, July 23, 2010). Enid Blyton Famous Five get 21st-century makeover. The Guardian. Retrieved from The Guardian website.
+[^5]:Flood, A. (2010, July 23, 2010). Enid Blyton Famous Five get 21st-century makeover. *The Guardian*. Retrieved from The Guardian website.
 
-[^6]:Teo, J. (2011, November 17). Old Master Q (老夫子) [Web log post]. Retrieved from The Elusive Sleuth website. 
+[^6]:Teo, J. (2011, November 17). *Old Master Q* (老夫子) [Web log post]. Retrieved from The Elusive Sleuth website. 
 
-[^7]:Zaccheus, M. (2014, June 21). What future for our past? The Straits Times. Retrieved from AsiaOne website.
+[^7]:Zaccheus, M. (2014, June 21). What future for our past? *The Straits Times*. Retrieved from AsiaOne website.
 
-[^8]:Boey, K.C. (2014). The library of memory. Biblioasia, 10 (1), pp. 3–7. Retrieved from BiblioAsia website.
+[^8]:Boey, K.C. (2014). [The library of memory](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx). *Biblioasia, 10* (1), pp. 3–7. Retrieved from BiblioAsia website.
 
-[^9]:Sunny Bookshop to close down in August 2014. (2014, August 4). Yahoo News. Retrieved from Yahoo! News website.
+[^9]:Sunny Bookshop to close down in August 2014. (2014, August 4). *Yahoo News*. Retrieved from *Yahoo! News* website.
 
-[^10]:Yam, C. (2013, December 20). 百胜楼. Retrieved from Singapore Memory Project website.
+[^10]:Yam, C. (2013, December 20). *百胜楼*. Retrieved from Singapore Memory Project website.
 
 [^11]:Yong, C. (2014, October 4). PM Lee reads story book to children, extends reading programme for less privileged. *The Straits Times*. Retrieved from *The Straits Times* website.
 
-[^12]:National Library Board. (2014, January 28). Borders (Singapore) written by Goh, Kenneth. Retrieved from Singapore Infopedia website.
+[^12]:National Library Board. (2014, January 28). [Borders (Singapore)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-01-29_182220.html) written by Goh, Kenneth. Retrieved from Singapore Infopedia website.
 
-[^13]:Singapore Writers Festival. (2015). Singapore Writers Festival: Island of Dreams. Retrieved from Singapore Writers Festival website.
+[^13]:Singapore Writers Festival. (2015). S*ingapore Writers Festival: Island of Dreams*. Retrieved from Singapore Writers Festival website.
 
-[^14]:Fuller, D., & Sedo, D.R. (2013) Reading beyond the book: The social practices of contemporary literary culture. NY: Routledge. (Not available in NLB holdings)
+[^14]:Fuller, D., & Sedo, D.R. (2013) *Reading beyond the book: The social practices of contemporary literary culture*. NY: Routledge. (Not available in NLB holdings)
 
-[^15]:Ainon Kuntom. (1973). Malay newspapers, 1876 to 1973: A historical survey of the literature (p. 48). (Call no.: RSING q079.5951 AIN)
+[^15]:Ainon Kuntom. (1973). *[Malay newspapers, 1876 to 1973: A historical survey of the literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5838940)* (p. 48). (Call no.: RSING q079.5951 AIN)
 
-[^16]:Darton, R. (2011, April 17). 5 myths about the information age. The Chronicle of Higher Education. Retrieved from The Chronicle of Higher Education website.
+[^16]:Darton, R. (2011, April 17). 5 myths about the information age. *The Chronicle of Higher Education*. Retrieved from The Chronicle of Higher Education website.
