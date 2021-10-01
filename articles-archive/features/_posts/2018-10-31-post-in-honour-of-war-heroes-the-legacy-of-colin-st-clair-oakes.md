@@ -142,7 +142,7 @@ Colin St Clair Oakes would not see through the completion of Kranji War Cemetery
 
 |**A BIOGRAPHY OF COLIN ST CLAIR OAKES**
 
-|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour9.JPG">Colin St Clair Oakes, the architect with the Imperial War Graves Commission responsible for designing a number of cemeteries located across South and Southeast Asia. These include Kranji War Cemetery in Singapore; Taiping War Cemetery in Malaysia; Kanchanaburi War Cemetery and Chungkai War Cemetery, both in Thailand; Rangoon War Cemetery in Burma; Imphal War Cemetery in India; Sai Wan Bay Cemetery in Hong Kong; and Chittagong War Cemetery in Bangladesh. <i>Courtesy of the Oakes Family Collection.</i>
+|<img style="width: 350px; height: 400px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour9.JPG">Colin St Clair Oakes, the architect with the Imperial War Graves Commission responsible for designing a number of cemeteries located across South and Southeast Asia. These include Kranji War Cemetery in Singapore; Taiping War Cemetery in Malaysia; Kanchanaburi War Cemetery and Chungkai War Cemetery, both in Thailand; Rangoon War Cemetery in Burma; Imphal War Cemetery in India; Sai Wan Bay Cemetery in Hong Kong; and Chittagong War Cemetery in Bangladesh. <i>Courtesy of the Oakes Family Collection.</i>
 
 |Born 23 May 1908, in the village of Tanyfron in north Wales, the childhood of Colin Sinclair Rycroft Oakes was bookended by the achievements of the Victorian age and the catastrophe of World War I. This was a period that also ushered in new attitudes to function and style – a movement that otherwise became known as Modernism.
 
