@@ -157,3 +157,31 @@ Colin St Clair Oakes would not see through the completion of Kranji War Cemetery
 |Shortly after the end of the war, Oakes came to the attention of Sir Frederic Kenyon, Director of the British Museum and Artistic Advisor to the Imperial War Graves Commission (IWGC). On 2 November 1945, Oakes was invited to undertake a three-month-long tour of the very regions he had recently lived and fought in – along with Ceylon (Sri Lanka), Siam (Thailand), Malaya and Singapore – on behalf of the IWGC.
 
 |It would culminate with his appointment as a Principal Architect of IWGC, and tasked with the design of numerous war cemeteries and memorials in Asia. These edifices would later prove to be his defining body of work, bringing together all that he had learnt from his past. In accepting the position, Oakes would follow in the footsteps of his predecessors but, unlike them, he would become the only Principal Architect who had served in the recent war.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour11.jpg" style="width: 100px; height: 100px;">
+<b>Athanasios Tsakonas</b> is a practising architect with degrees from the University of Adelaide and the National University of Singapore. This essay is a precursor to his book on Colin St Clair Oakes, the Principal Architect from the Imperial War Graves Commission who designed many of the war cemeteries found in South and Southeast Asia.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
