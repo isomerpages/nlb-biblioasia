@@ -6,7 +6,7 @@ layout: post
 ---
 #### This valuable collection at the National Library is significant for a number of reasons. **Eunice Low** explains why.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/george-hicks-collection/01_georgehicks.bmp">George Hicks sharing with the audience highlights from the book, <i>The George Hicks Collection</i> at the National Library Singapore: An Annotated Bibliography of Selected Works, published and launched by the National Library on 2 March 2016. Looking on is John Koh, a board member of the National Library Board.</div>
+<div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-1/george-hicks-collection/01_georgehicks.bmp">George Hicks sharing with the audience highlights from the book, <i>The George Hicks Collection</i> at the National Library Singapore: An Annotated Bibliography of Selected Works, published and launched by the National Library on 2 March 2016. Looking on is John Koh, a board member of the National Library Board.</div>
 
 In order to appreciate the unique value and richness of the George Hicks Collection, one has to understand how these books and materials are interwoven with the personal experiences of their donor, George Lyndon Hicks. Donated to the National Library of Singapore in 2009 and 2013, the collection comprises nearly 7,000 items on China, Japan and Southeast Asia. Covering the main disciplines of social sciences and history, the bulk of the collection is made up of titles on sociology, economic history, political science, culture and customs.
 
