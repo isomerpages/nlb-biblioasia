@@ -2,10 +2,9 @@
 layout: post
 title: BiblioAsia Jul-Sep 2016
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Jul-Sep 2016"
+breadcrumb: Jul-Sep 2016
 permalink: /vol-12/issue-2/jul-sep-2016/
 ---
-
 <img src="/images/Vol-12-issue-2/vol12_iss2.JPG">  
 
 
@@ -16,16 +15,16 @@ Stories told by grandparents, the saga of Eurasians in Bahau, and forgotten food
 **My Grandmother’s Story** <br>
 An unexpected recollection by her grandmother about her experience of the Japanese Occupation sets *Yu-Mei Balasingamchow* thinking about unspoken memories and the stories that haven’t been told. [(PDF)](/files/pdf/vol-12/v12-issue2_Grandmother.pdf)
 
-**Bahau: A Utopia that went Awry** <br>
+**Bahau: A Utopia That Went Awry** <br>
 The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia during World War II has been largely forgotten. *Fiona Hodgkins* chronicles its painful history. [(PDF)](/files/pdf/vol-12/v12-issue2_Bahau.pdf)
 
-**Mem, don’t Mess with the Cook!** <br>
+**Mem, Don’t Mess with the Cook!** <br>
 European families in colonial Singapore had a retinue of servants – cook, chauffeur, nanny, gardener and houseboy – but this did not guarantee a life of ease, as *Janice Loo* tells us. [(PDF)](/files/pdf/vol-12/v12-issue2_Mem.pdf)
 
 **Forgotten Foods & Mealtime Memories** <br>
 Food writer *Sylvia Tan* remembers the foods and flavours she grew up with and the less than sanitary practices made for stomachs cast in iron. [(PDF)](/files/pdf/vol-12/v12-issue2_ForgottenFoods.pdf)
 
-**Bygone Brands: Five names that are no more**<br>
+**Bygone Brands: Five Names That Are No More**<br>
 *Sue-Ann Chia* traces the birth and death of five companies, reliving the forgotten stories of some of Singapore’s biggest brand names. [(PDF)](/files/pdf/vol-12/v12-issue2_BygoneBrands.pdf)
 
 **Singapore’s First Japanese Resident: Yamamoto Otokichi** <br>
@@ -34,7 +33,7 @@ A sailor travels halfway around the world in his attempt to return home, and bec
 **Beach Road Camp and the Singapore Volunteer Corps** <br>
 The SVC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over a century. *Francis Dorai* has the story. [(PDF)](/files/pdf/vol-12/v12-issue2_VolunteerCorps.pdf)
 
-**The Fruit of his Labour: David Marshall’s Old Apple Tree** <br>
+**The Fruit of His Labour: David Marshall’s Old Apple Tree** <br>
 Singapore’s fiery Chief Minister used to hold court under an apple tree at Empress Place. But was it *really* an apple tree? *Marcus Ng* separates fact from fiction. [(PDF)](/files/pdf/vol-12/v12-issue2_Marshall.pdf)
 
 **Angels in White: Early Nursing in Singapore** <br>
@@ -46,18 +45,5 @@ In the 1820s, some “nurses” in Singapore were actually chained convicts. *Pa
 **Index to Singapore Information** <br>
 This useful index serves as the gateway to Singapore-related articles published in periodicals. *Leong Hui Chuan* and *Chris Tang* explain its value. [(PDF)](/files/pdf/vol-12/v12-issue2_Index.pdf)
 
-**余东旋与他的 商业帝国** <br>
+**[Eu Tong Seng and His Business Empire 余东旋与他的 商业帝国](/vol-12/issue-2/jul-sep-2016/eu-tong-sen)** <br>
 The Koh Seow Chuan Collection at the National Library includes documents from the illustrious businessman Eu Tong Sen. *Seow Peck Ngiam* describes some of its highlights. [(PDF)](/files/pdf/vol-12/v12-issue2_EuTongSen.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
-
