@@ -98,11 +98,11 @@ Such chapters were heavily influenced by Confucian teachings on respecting autho
 
 The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of information found in traditional Chinese genealogical records. There are no fixed rules on how to write a genealogy, and many Chinese families have adapted aspects of <i>jiapu</i> that best suit the needs of their families. As a result, the <i>jiapu</i> is an ever-evolving document that captures the characteristics of society at a particular point in time, and also offers a glimpse into the historical continuity of Chinese family structure and beliefs. 
 
-**Memorial Arches (Pai Fang 牌坊)**
+|**Memorial Arches (Pai Fang 牌坊)**|
 
-In general, there were two main types of memorial arches: the Meritorious Deeds Memorial Arch (<i>gong de pai fang</i> 功德牌坊) and the Virtuous Memorial Arch (<i>dao de pai fang</i> 道 德牌坊). These arches glorified the clan and reminded descendents of desired virtues and conduct through the stories inscribed on the arches. Memorial arches were sometimes located near the ancestral hall and considered part of the compound. 
+|In general, there were two main types of memorial arches: the Meritorious Deeds Memorial Arch (<i>gong de pai fang</i> 功德牌坊) and the Virtuous Memorial Arch (<i>dao de pai fang</i> 道 德牌坊). These arches glorified the clan and reminded descendents of desired virtues and conduct through the stories inscribed on the arches. Memorial arches were sometimes located near the ancestral hall and considered part of the compound. |
 
-In traditional Chinese society, women were usually not mentioned in <i>jiapu</i>, unless they had given birth to sons, in which case, their surnames would be recorded. However, if a widow did not re-marry after the death of her husband, her virtue would earn her a chastity memorial arch. These women were also granted a chapter in the biographical section of the <i>jiapu</i>, which was considered to be a great honour.[^14]
+|In traditional Chinese society, women were usually not mentioned in <i>jiapu</i>, unless they had given birth to sons, in which case, their surnames would be recorded. However, if a widow did not re-marry after the death of her husband, her virtue would earn her a chastity memorial arch. These women were also granted a chapter in the biographical section of the <i>jiapu</i>, which was considered to be a great honour.[^14]|
 
 <p style="font-size:15px;"><b>Lee Meiyu</b> is a librarian at the Lee Kong Chian Reference Library at the National Library Board. The subject of genealogy is close to her heart and she has worked on resource publications that complement NLB’s exhibitions such as <i>Money by Mail to China: Dreams and Struggles of Early Migrants (2012)</i> and <i>ROOTS: Tracing Family Histories — A Resource Guide (2013).</i></p>
 
