@@ -6,7 +6,10 @@ layout: post
 ---
 #### Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. **Jun Zubillaga-Pow** traces the life of this underrated artist.
 
-Tsao Chieh working on a composition in 1986. <i>Courtesy of Vivien Chen.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/tsaochieh/tsaochieh.jpg">
+Tsao Chieh working on a composition in 1986. <i>Courtesy of Vivien Chen.</i></div>
 
 I prefer to listen to good Michael Jackson than bad mahler. <div style="text-align:right;">— TSAO CHIEH</div>
 
@@ -46,6 +49,13 @@ In the campus report of 24 April 1985, Tsao Chieh explained the decisions over t
 
 When his work subsequently premiered at the end-of-year Music Awards concert in May 1985, soprano Patricia Mikishka and conductor Chris Lanz,thought the piece was both “dramatic” and “contemporaneous”.
 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/tsaochieh/mita_collection.jpg">
+The student orchestra performing at the official opening of the 1986 Singapore Arts Festival at Kent Ridge. Tsao Chieh’s Singapore premiered on this occasion. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
+
+
 #### **Music With a Singapore Spin**
 
 From 1984 to 1985, not only did the accomplished polymath work on his engineering PhD dissertation, he also composed and orchestrated his symphonic poem, which was given the grand title <i>Singapore</i>. The idea of composing a series of tone poems based on the history of Singapore had already been churning in his head for over two years after reading Constance Mary Turnbull’s <i>A History of Singapore</i>. It had been compulsory reading for the Ministry of Defence officer and the subject had surfaced in conversations over the dinner table. The engineer in him instinctively decided that each of the five movements of the suite would be based upon a specific period in Singapore’s history. The 40-minute work, Tsao Chieh explained in an interview, charts the chronological progress of Singapore from the pre-colonial era to the Japanese occupation to independent republic. He said, “it’s what I call an abstract work with symphonic unity... a cyclical symphony. Each section evokes a period in the history of Singapore. It will give an atmosphere, for instance, of Singapore before raffles discovered it.”[^4]
@@ -70,6 +80,11 @@ This characteristic of being “minimalist” can be readily discerned in Tsao C
 
 In late 1990, his work <i>Amidst the sough of winds..., Two Poems by Edwin Thumboo for Narrator and Large Orchestra</i> was performed by the Singapore Symphony Orchestra on two December evenings. Preceding Max Bruch’s <i>First Symphony</i> and peter Tchaikovsky’s <i>First Piano Concerto</i>, Choo Hoey conducted the premiere at the Victoria Concert Hall with the poet as narrator. In 1986, Tsao Chieh had expressed his intention to compose “a piece for narrator and orchestra based on the poetry of some local poets”, but he was unsure which poem would suit his aesthetics.[^16] Eventually, he found two relevant pieces from the literary anthology <i>The Poetry of Singapore</i>, which was published by the ASEAN Committee on Culture and Information, and fitted the text to his music. He contemplated including a chorus, but was advised against the idea by the visiting British composer Alexander Goehr.
 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/tsaochieh/mita_collection_2.jpg">Several of Tsao Chieh’s pieces were performed by Singapore Symphonic Orchestra performing at the Victoria Concert Hall under the baton of Choo Hoey. <i>MITA collection, courtesy of National Archives of Singapore</i>.</div>
+
 #### **Computer Music**
 
 In 1992, Tsao Chieh was featured in a news report about electronic or computer music. He had gradually progressed from using computers for music typography in 1986 to composing directly at the computer in 1992. He explained that “the hardest part is mastering the software programme, which is very complex. The learning curve is steep. You only become proficient after six, seven months or more.”[^17] Sceptics would probably say that the task was a walk in the park for someone with an engineer’s mind and a proclivity for learning.
@@ -87,6 +102,14 @@ Tsao Chieh’s <i>Two Little Pieces</i> was performed again the following year b
 Sadly, on 27 October 1996, Tsao Chieh passed away from liver cancer just two months shy of his 43rd birthday, leaving behind his wife and two young children. At the time of his death he had left the military and joined Sembawang Corporation as Special Assistant for Technology but all this while he remained active in local arts circles as a member of the National Arts Council (1993) and management committee of the SYO, chairing the music panel for the 1994 Cultural Medallion awards.
 
 Despite his varied body of work, Tsao Chieh had always lamented that com- posers remained at the mercy of others. He said, “Of all the different artists, it is quite terrible to be a composer, because your dream has to be realised by other people.”
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/tsaochieh/tsaochieh_2.jpg">Photograph of Tsao Chieh taken in 1990. Source: <i>The Straits Times © Singapore Press Holdings Limited. Reproduced with permission.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/tsaochieh/tone_raw.jpg">Tone rows for <i>Amidst the Sough of Winds. Courtesy of Vivien Chen.</i></div>
 
 |**Making Water Music**|
 
