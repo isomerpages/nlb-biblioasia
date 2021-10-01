@@ -132,23 +132,23 @@ The images carved on the stone wall and the memories they recall of the homeland
 
 [^11]: The word “coolie” is believed to have originated from the Hindi term *kuli*, which is the name of a native tribe in the western Indian state of Gujarat. The word *kuli* also means “hire” in Tamil. See Naidu Ratnala Thulaja, “[Chinese coolies](https://eresources.nlb.gov.sg/infopedia/articles/SIP_87_2004-12-15.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
 
-[^12]: Otherwise known as *twakow* or *tongkang*, the bumboat was a large barge vessel used extensively for transport purposes along the Singapore, Rochor and Kallang rivers, and also along the coast of the mainland and other nearby islands. See Vernon Cornelius-Takahama, “Bumboats,” in *Singapore Infopedia*. National Library Board Singapore. Article published June 2019. 
+[^12]: Otherwise known as *twakow* or *tongkang*, the bumboat was a large barge vessel used extensively for transport purposes along the Singapore, Rochor and Kallang rivers, and also along the coast of the mainland and other nearby islands. See Vernon Cornelius-Takahama, “[Bumboats](https://eresources.nlb.gov.sg/infopedia/articles/SIP_956_2004-12-15.html?s=bumboats),” in *Singapore Infopedia*. National Library Board Singapore. Article published June 2019. 
 
-[^13]: 
+[^13]: “[Coolie Keng and Their Alliances](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820831-1.2.133.2.2),” *Straits Times*, 31 August 1982, 1. (From NewspaperSG)
 
-[^14]: 
+[^14]: “[European Contractor Gives Evidence in Loveday Case](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400822-1.2.52),” *Singapore Free Press and Mercantile Advertiser*, 22 August 1940, 5. (From NewspaperSG). Many of these practices came to light during the 1940 trial by court martial of Captain R.C. Loveday, R.E., who was charged with conspiracy to defraud the War Department.
 
-[^15]: 
+[^15]: “[At the War Memorial](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220331-1.2.36),” *Malaya Tribune*, 31 March 1922, 6. (From NewspaperSG)
 
-[^16]: 
+[^16]: “[At the War Memorial](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220331-1.2.36).”
 
-[^17]: 
+[^17]: Zaubidah Mohamed and Valerie Chew, “[Cenotaph](https://eresources.nlb.gov.sg/infopedia/articles/SIP_10_2004-12-17.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2010.
 
-[^18]: 
+[^18]: 区如柏 [Ou Rubo], “[不做拉车夫走入建筑界的惠安人](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19881225-1.2.65.1.1)” [“Rickshaw Drivers No Longer, the Hui’an People Enter the Construction Industry”], *联合早报 [Lianhe Zaobao]*, 25 December 1988, 34. (From NewspaperSG)
 
-[^19]: 
+[^19]: “[Page 5 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390802-1.2.151.32.1),” *Straits Times*, 2 August 1939, 5; “[Page 6 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380214-1.2.113.13.1),” *Singapore Free Press and Mercantile Advertiser*, 14 February 1938, 6. (From NewspaperSG); 中正中学校友会, [*源远流长: 中正中学创校八十周年纪念文集 = A Chung Cheng 80th Anniversary Commemorative Publication, Chung Cheng High School Alumni 2019*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203873387) (Singapore: 中正中学校友会, 2019), 44. (From National Library, Singapore, Call no. Chinese RSING C810.08)
 
-[^20]: 
+[^20]: Completed in 1932, the five-storey China Building was one of the most recognisable landmarks in the business district with its distinctive pagoda-stye roof. It was designed by international architectural firm Keys and Dowdeswell, which operated out of Shanghai, China. The firm was named after British architects Major P. Hubert Keys and Frank Dowdeswell. See “[New Bank Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290701-1.2.11),” *Singapore Free Press and Mercantile Advertiser*, 1 July 1929, 4. (From NewspaperSG)
 
 [^21]: 
 
