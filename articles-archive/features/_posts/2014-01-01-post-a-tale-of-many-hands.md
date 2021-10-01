@@ -48,6 +48,29 @@ His hands worked at the first watch plant in Singapore in 1973. Kok Kham Seng st
 <img src="/images/vol-9-issue-4/hands/mdm.jpg">
 Her hands worked for 67 years tailoring custom-made shirts. <i>Photography by Sean Lee.</i></div>
 
+“I try to go about the photo-making in as natural a way as possible for these folks. the main aim is to shoot them in their natural environment such as their homes or workplace so that they are comfortable. I avoid making them pose. I just want to create simple portraits where their personalities come through.” 
+<div style="text-align:right;">— Sean Lee</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/hands/m_siraj.jpg">
+Her hands worked to bring rights and protection for Muslim women. Mrs Mohamed Siraj co-founded the Young Women's Muslim Association (1952) and the Muslim Women's Welfare Council (1964). <i>Photography by Sean Lee.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/hands/lim_beak.jpg">
+From her mid 30s till her 70s, her hands laboured on her husband’s farm planting vegetables and rearing pigs and fish. Lim Beak is a centenarian. <i>Photography by Sean Lee.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/hands/mr_kadir.jpg">
+His hands punched their way to represent Singapore in the Olympics in 1972. Syed Abdul Kadir now coaches the new generation boxers. <i>Photography by Sean Lee.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/hands/abdul_rahman.jpg">
+ His hands used to be on alert to fight fire. Today Abdul Rahman bin Osman is a gardener. <i>Photography by Sean Lee.</i></div>
+
 <p style="font-size:15px;"><b>Tan Huism</b> is the Head of Exhibitions and Curation with the National Library. She started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</p>
 
 <p style="font-size:15px;"><b>Sean Lee</b> is a teller of short stories through his photographs. He was a winner of the 2011 ICON de Martell Cordon Bleu and a member of the Reflexions masterclass (2011-2013). His work has been exhibited at the Prix Decouverte, Les Rencontres d'arles (2009), Galeria Tagomago, Barcelona (2011), New York Photo Festival, New York (2011), Empire Project, Istanbul (2011) and Tantotempo Gallery, Kobe (2012), among others.</p>
