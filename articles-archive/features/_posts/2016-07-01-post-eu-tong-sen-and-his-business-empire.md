@@ -44,61 +44,61 @@ Here are some highlights of the collection.
 
 这批文献将帮助人们从中了解早期华商的创业史。同时，这批珍贵的文献资料对研究东南亚与新加坡华侨社会史、19至20世纪初的侨批业以及中国与东南亚的经济关系史方面有着重要的参考价值。
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/03a-eutongsen.jpg"><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/03a-eutongsen.jpg"></a>|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/03a-eutongsen.jpg" target="_blank"><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/03a-eutongsen.jpg"></a>|
 
 |1. A postal receipt dated 24 August 1934 for Chinese red dates delivered to the Eu Yan Sang shop in Negeri Sembilan in Malaysia. The first Eu Yan Sang shop was set up in 1879 in Gopeng, Perak, selling Chinese medicine to tin mine workers addicted to opium. Over the years, Eu Yan Sang was able to make a name for itself in traditional Chinese medicine by sourcing for the best raw ingredients and producing only high quality products.|
 
 |这是一张1934年8月24日年寄往马来西亚芙蓉县（森美兰州）余仁生分行的邮递品收据，物品是猴 子枣。第一间余仁生中药铺在1879年务边霹雳州创立，售卖中药给深受鸦片毒害的华侨矿工。多年 来，余仁生能够在中药业打响招牌，凭着的就是对中草药采购的严谨，以制作出上等品质的货品。|
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/04a-eutongsen.jpg"><img style="width:200px" src="/images/Vol-12-issue-2/eu-tong-sen/04a-eutongsen.jpg"></a>|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/04a-eutongsen.jpg" target="_blank"><img style="width:200px" src="/images/Vol-12-issue-2/eu-tong-sen/04a-eutongsen.jpg"></a>|
 
 |2. Issued on 25 December 1936, this invoice from the Eu Yan Sang branch in Singapore was for a salary payment of five Straits dollars and has the words “Swee Lam estate” stamped on it. Eu Tong Sen owned some 15,000 acres of rubber plantations across Malaya. Seven rubber plantations, including Swee Lam estate in Johor, were managed by the Eu Yan Sang branch in Singapore. Interestingly, Eu named the plantations after his wives, daughters and other female relatives and friends.[^9]|
 
 |这张凭单发于1936年12月25日，作为支付给范九工银叻币五元的凭据。凭单印有胶园“瑞林园”书柬。余东旋拥有一万五英亩树胶园，遍布马来亚。新加坡余仁生负责管理7个树胶园，包括柔佛瑞林园。有趣的是，余东旋的树胶园都是以妻子、女儿及其他女性亲朋戚友命名的。|
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/05a-eutongsen.jpg"><img style="width:500px" src="/images/Vol-12-issue-2/eu-tong-sen/05a-eutongsen.jpg"></a>|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/05a-eutongsen.jpg" target="_blank"><img style="width:500px" src="/images/Vol-12-issue-2/eu-tong-sen/05a-eutongsen.jpg"></a>|
 
 |3. This letter from the Electrical Engineer’s Office of the Municipal Commissioners of Singapore informed Eu Tong Sen on 15 January 1923 that the power supply to a theatre at 26 Eu Tong Sen Street had been disconnected and would be reinstated only after maintenance works had been carried out. [Note: the name of the theatre cannot be ascertained but it was possibly the Heng Wai Sun or the Heng Seng Peng, see text box below.]|
 
 |此信函是市镇局于1923年1月15日通知余东旋位于余东旋街26号的戏院因事故电源已被割断，有待维修工作完成后才能重新启动。[注：戏院名称无法被确定，但有可能是庆维新或庆升平。]|
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/06a-eutongsen.jpg"><img style="width:500px" src="/images/Vol-12-issue-2/eu-tong-sen/06a-eutongsen.jpg"></a>|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/06a-eutongsen.jpg" target="_blank"><img style="width:500px" src="/images/Vol-12-issue-2/eu-tong-sen/06a-eutongsen.jpg"></a>|
 
 |4. A bill from United Engineers Limited dated 31 October 1933 for the maintenance fee of $25 for an electric lift in Eu Villa. Among the many properties owned by Eu Tong Sen in Singapore, the most well-known was perhaps Eu Villa at Adis Road on Mount Sophia. It was designed by Swan & Maclaren in 1914. The lift was specially installed for Eu’s mother to take her to the top floor to enjoy the scenery. Eu Villa was demolished in the 1980s to make way for a condominium.[^10]|
 
 |这是United Engineers Limited于1933年10月31日在余园维修电梯的账单，费用为25元。在不计其数的产业中，位于苏菲雅山亚迪斯路，由双麦嘉仁建筑公司于1914年设计的余园也许是最广为人知。电梯是余东旋为能让母亲到顶楼看风景而设。余园在80年代已因公寓发展而被拆除。|
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg"><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg"></a>|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg" target="_blank"><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg"></a>|
 
 |5. An account memo with two payment instructions, one of which was to the Penang Turf Club, issued by Eu Keng Chee (or K. C. Eu), Eu Tong Sen’s eldest son, on 25 January 1932 in his capacity as Managing Director of Lee Wah Bank. Founded in 1920 by a group of businessmen led by Eu Tong Sen, who became its first Chairman, the bank specifically served the Cantonese community (all staff members were required to converse in Cantonese). The bank managed to weather the Great Depression years and World War II, but a series of setbacks in the late 1960s resulted in its acquisition by United Overseas Bank in 1973.[^11]|
 
 |这是一张余东旋长子余经铸在出任利华银行董事经理时，有关两项支付账目的指示便笺。日期是1932年1月25日，其中一项是槟城赛马会的款项。由粤商集资，余东旋带领，创立于1920年的利华银行，专门接待粤籍顾客（员工必须能够说粤语）。银行虽然在世界大萧条和二战的艰难时期仍然能度过，但60年代末的几次严重挫折最终使得银行于1973年被大华银行收购。|
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/08a-eutongsen.jpg"><img style="width:250px" src="/images/Vol-12-issue-2/eu-tong-sen/08a-eutongsen.jpg"></a>|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/08a-eutongsen.jpg" target="_blank"><img style="width:250px" src="/images/Vol-12-issue-2/eu-tong-sen/08a-eutongsen.jpg"></a>|
 
 |6. A 7 May 1933 invoice from the Great Southern Restaurant – which was located in Nam Tin or Great Southern Hotel on Eu Tong Sen Street – for the sale of Chinese pastries. Erected in 1927, the building was patronised by the wealthy and the literary class during its halcyon years before World War II.[^12] The hotel on the second and third floors was the first Chinese lodgings equipped with an elevator.[^13] After the war, the fifth floor was converted into a nightclub called Diamond Dragon Dance Palace.[^14]|
 
 |此单是位于余东旋街上，南天大酒店内的南天酒楼糕点账单，日期为1933年5月7日。南天大酒店始于1927 年，在战前时的鼎盛时期，这里可说是达官贵人、名人雅士的聚集之地。二楼及三楼的酒店设施，是第一间有电梯服务的华人酒店。战后，五楼改为龙宫大舞厅。|
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/09a-eutongsen.jpg"><img style="width:250px" src="/images/Vol-12-issue-2/eu-tong-sen/09a-eutongsen.jpg"></a>|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/09a-eutongsen.jpg" target="_blank"><img style="width:250px" src="/images/Vol-12-issue-2/eu-tong-sen/09a-eutongsen.jpg"></a>|
 
 |7. Dated 6 June 1934, this is a remittance note sent from the Eu Yan Sang branch in Ipoh to its counterpart in Singapore. Direct remittances between the two places were regularly carried out. The Singapore branch was divided into three units: remittance, wholesale Chinese herbs and pharmaceutical retail. Its remittance business was the most profitable.[^15]|
 
 |这是怡保余仁生于1934年6月6日转发给新加坡余仁生的汇款凭信单。当年两地可作直接汇款。从前新加坡的“余仁生”的店面划分为三个区，汇兑部、生药材批发部和药品零售部。其中，汇款生意最为兴旺。|
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/10a-eutongsen.jpg"><img style="width:400px" src="/images/Vol-12-issue-2/eu-tong-sen/10a-eutongsen.jpg"></a>|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/10a-eutongsen.jpg" target="_blank"><img style="width:400px" src="/images/Vol-12-issue-2/eu-tong-sen/10a-eutongsen.jpg"></a>|
 
 |8. Eu Tong Sen was one of two Chinese representatives in Perak who sat in the powerful Federated Malay States (FMS) Chamber of Mines, which was controlled by the Kinta miners. This letter dated 31 October 1921 from the government of the FMS informed Eu that the legislation on “the subject of section 18 (ii) of the Mining Enactment no. xii of 1911” would be introduced in the next Federal Council meeting in November 1921.[^16]|
 
 |余东旋是四州府矿务局的两位华侨代表之一。矿务局拥有极大势力，由近打谷锡矿商操控着。由四州府政府发出的这封信函，日期为1921年10月31日，主要告知余东旋有关在1911年立法的锡矿开采业法律中的第18（ii）条文将会在11月份的议政局会议提出讨论。|
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/11a-eutongsen.jpg"><img style="width:450px" src="/images/Vol-12-issue-2/eu-tong-sen/11a-eutongsen.jpg"></a>|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/11a-eutongsen.jpg" target="_blank"><img style="width:450px" src="/images/Vol-12-issue-2/eu-tong-sen/11a-eutongsen.jpg"></a>|
 
 |9. This letter in English, which shows the first of three pages and dated 10 May 1921, was written by William Antrobus Luning (the former Chairman of Kinta Tin Mines Ltd) in London. It was addressed to Eu Tong Sen in Singapore. Eu had entrusted Luning as the guardian of his eldest son, Eu Keng Chee (K. C. Eu), during his studies in the UK. Luning wrote that he had given the young man information about the accountancy course at Cambridge University. Upon graduation in 1925, K. C. Eu returned to Malaya and became the first certified public accountant in Singapore. After Eu passed on, K.C. Eu and his brothers inherited the family business.[^17]|
 
 |这是 William Antrobus Luning（前近打锡业有限公司主席）从英国邮寄至新加坡，给余东旋的一封英文信函中的第一页。余东旋曾托付他为监护人，以代为照顾在英国留学的长子余经铸。信中Luning 提及他已把相关报读英国剑桥大学会计课程的资料交给余经铸。余经铸1925年学成归来马来亚，成为新加坡第一位注册会计师。余东旋过世后，他与兄弟继承遗产，成为家族生意的掌舵人。|
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/12a-eutongsen.jpg"><img style="width:400px" src="/images/Vol-12-issue-2/eu-tong-sen/12a-eutongsen.jpg"></a>|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/12a-eutongsen.jpg" target="_blank"><img style="width:400px" src="/images/Vol-12-issue-2/eu-tong-sen/12a-eutongsen.jpg"></a>|
 
 |10. Eu Tong Sen was widely known for his acts of philanthropy. This acknowledgement receipt issued on 7 January 1933 was for his donation of 1,000 Straits dollars to Lingnan School, which was affiliated to Lingnan University in Guangdong, China. Eu was one of the founders of the school that was established in 1931 to provide Chinese education to the Chinese communities in Southeast Asia.[^18]|
 
