@@ -50,7 +50,7 @@ Here are some highlights of the collection.
 
 |这是一张1934年8月24日年寄往马来西亚芙蓉县（森美兰州）余仁生分行的邮递品收据，物品是猴 子枣。第一间余仁生中药铺在1879年务边霹雳州创立，售卖中药给深受鸦片毒害的华侨矿工。多年 来，余仁生能够在中药业打响招牌，凭着的就是对中草药采购的严谨，以制作出上等品质的货品。|
 
-|<br><img style="width:200px" src="/images/Vol-12-issue-2/eu-tong-sen/04a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/04a-eutongsen.jpg"><img style="width:200px" src="/images/Vol-12-issue-2/eu-tong-sen/04a-eutongsen.jpg"></a>|
 
 |2. Issued on 25 December 1936, this invoice from the Eu Yan Sang branch in Singapore was for a salary payment of five Straits dollars and has the words “Swee Lam estate” stamped on it. Eu Tong Sen owned some 15,000 acres of rubber plantations across Malaya. Seven rubber plantations, including Swee Lam estate in Johor, were managed by the Eu Yan Sang branch in Singapore. Interestingly, Eu named the plantations after his wives, daughters and other female relatives and friends.[^9]|
 
