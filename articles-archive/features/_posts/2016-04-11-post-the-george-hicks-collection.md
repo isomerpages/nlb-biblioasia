@@ -49,7 +49,7 @@ Items in the collection are available upon request at the Information Counter on
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-1/george-hicks-collection/eunice.png">
-	<b>Eunice Low</b> is an independent researcher who has worked in the library and information services sector for over 15 years. Eunice has researched and written on a broad range of subjects, including the social sciences, government information and natural history. She wrote and compiled The George Hicks Collection at the National Library Singapore: An Annotated Bibliography of Selected Works.
+	<b>Eunice Low</b> is an independent researcher who has worked in the library and information services sector for over 15 years. Eunice has researched and written on a broad range of subjects, including the social sciences, government information and natural history. She wrote and compiled <i>The George Hicks Collection at the National Library Singapore: An Annotated Bibliography of Selected Works</i>.
 </div>
 
 <a href="/vol-12/issue-1/apr-jun-2016/"><center>Back to Issue</center></a>
