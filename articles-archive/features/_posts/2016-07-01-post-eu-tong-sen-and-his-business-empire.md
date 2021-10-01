@@ -68,13 +68,13 @@ Here are some highlights of the collection.
 
 |这是United Engineers Limited于1933年10月31日在余园维修电梯的账单，费用为25元。在不计其数的产业中，位于苏菲雅山亚迪斯路，由双麦嘉仁建筑公司于1914年设计的余园也许是最广为人知。电梯是余东旋为能让母亲到顶楼看风景而设。余园在80年代已因公寓发展而被拆除。|
 
-|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg"><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg"><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/07a-eutongsen.jpg"></a>|
 
 |5. An account memo with two payment instructions, one of which was to the Penang Turf Club, issued by Eu Keng Chee (or K. C. Eu), Eu Tong Sen’s eldest son, on 25 January 1932 in his capacity as Managing Director of Lee Wah Bank. Founded in 1920 by a group of businessmen led by Eu Tong Sen, who became its first Chairman, the bank specifically served the Cantonese community (all staff members were required to converse in Cantonese). The bank managed to weather the Great Depression years and World War II, but a series of setbacks in the late 1960s resulted in its acquisition by United Overseas Bank in 1973.[^11]|
 
 |这是一张余东旋长子余经铸在出任利华银行董事经理时，有关两项支付账目的指示便笺。日期是1932年1月25日，其中一项是槟城赛马会的款项。由粤商集资，余东旋带领，创立于1920年的利华银行，专门接待粤籍顾客（员工必须能够说粤语）。银行虽然在世界大萧条和二战的艰难时期仍然能度过，但60年代末的几次严重挫折最终使得银行于1973年被大华银行收购。|
 
-|<br><img style="width:250px" src="/images/Vol-12-issue-2/eu-tong-sen/08a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/08a-eutongsen.jpg"><img style="width:250px" src="/images/Vol-12-issue-2/eu-tong-sen/08a-eutongsen.jpg"></a>|
 
 |6. A 7 May 1933 invoice from the Great Southern Restaurant – which was located in Nam Tin or Great Southern Hotel on Eu Tong Sen Street – for the sale of Chinese pastries. Erected in 1927, the building was patronised by the wealthy and the literary class during its halcyon years before World War II.[^12] The hotel on the second and third floors was the first Chinese lodgings equipped with an elevator.[^13] After the war, the fifth floor was converted into a nightclub called Diamond Dragon Dance Palace.[^14]|
 
