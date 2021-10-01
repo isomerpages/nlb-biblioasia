@@ -176,25 +176,25 @@ Raffles, T.S. (1823). Formation of the Singapore Institution, A. D. 1823. Malacc
 
 Raffles Library. (1877). General catalogue of bound volumes in the Raffles Library, Sept. 1st, 1877. Singapore: The Library. Retrieved from BookSG.
 
-Raffles Library. (1881). Catalogue of the Logan Library. Singapore: Printed by Straits Times Press. (Call no.: RRARE 015.5957 RAF; Microfilm nos.: NL3998; NL2805)
+Raffles Library. (1881). *[Catalogue of the Logan Library](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4412802)*. Singapore: Printed by Straits Times Press. (Call no.: RRARE 015.5957 RAF; Microfilm nos.: NL3998; NL2805)
 
-Raffles Library. (1897). Catalogue of the Rost Collection in the Raffles Library Singapore. Singapore: Printed at the American Mission Press. Retrieved from BookSG.
+Raffles Library. (1897). *[Catalogue of the Rost Collection in the Raffles Library Singapore](https://eresources.nlb.gov.sg/printheritage/detail/5a7e1026-a298-4d88-a511-7538ed2de936.aspx)*. Singapore: Printed at the American Mission Press. Retrieved from BookSG.
 
-Raffles Library. (1957–1958). Annual report. Singapore: The Library. (Call no.: RRARE 027.55957 RLSAR)
+Raffles Library. (1957–1958). *[Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394249)*. Singapore: The Library. (Call no.: RRARE 027.55957 RLSAR)
 
-Raffles Museum. (1950). A working list of the scientific periodical publications retained in the Raffles Museum and Library, Singapore. Singapore: Govt. Print. Off. (Call no.: RCLOS 015.5951 RAF)
+Raffles Museum. (1950). *[A working list of the scientific periodical publications retained in the Raffles Museum and Library, Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411652)*. Singapore: Govt. Print. Off. (Call no.: RCLOS 015.5951 RAF)
 
-Raffles Museum and Library. (1876–1955). Annual report. Singapore: The Museum. (Call no.: RRARE 027.55957 RAF; Microfilm nos.: NL3874, NL5723, NL25786)
+Raffles Museum and Library. (1876–1955). *[Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247)*. Singapore: The Museum. (Call no.: RRARE 027.55957 RAF; Microfilm nos.: NL3874, NL5723, NL25786)
 
-Seet, K. K. (1983). A place for the people. Singapore: Times Books International. (Call no.: RSING 027.55957 SEE)
+Seet, K. K. (1983). *[A place for the people](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082325)*. Singapore: Times Books International. (Call no.: RSING 027.55957 SEE)
 
-Singapore Institution Free School. (1834–1862). Report (Singapore Institution Free School), 1834–62. Singapore: Printed at the Mission Press. Retrieved from BookSG.
+Singapore Institution Free School. (1834–1862). *[Report (Singapore Institution Free School)](https://eresources.nlb.gov.sg/printheritage/detail/09dfc891-a6fc-451a-8008-51162dc7567c.aspx)*, 1834–62. Singapore: Printed at the Mission Press. Retrieved from BookSG.
 
-Singapore Library. (1844–1860). Report. Singapore: Singapore Library. Retrieved from BooKSG.
+Singapore Library. (1844–1860). *[Report](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx)*. Singapore: Singapore Library. Retrieved from BooKSG.
 
-Singapore Library. (1860). Catalogue of books in the Singapore Library, with regulations and by-laws, September 1860. Singapore: Printed at the Mission Press. Retrieved from BooKSG.
+Singapore Library. (1860). *[Catalogue of books in the Singapore Library, with regulations and by-laws](https://eresources.nlb.gov.sg/printheritage/detail/bf634eb4-67cb-4352-8c78-dea52e2372d2.aspx)*, September 1860. Singapore: Printed at the Mission Press. Retrieved from BooKSG.
 
-Tan, K. (2015). Of whales and dinosaurs: The story of Singapore’s Natural History Museum. Singapore: NUS Press. (Call no.: RSING 508.0745957 TAN)
+Tan, K. (2015). *[Of whales and dinosaurs: The story of Singapore’s Natural History Museum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201152734)*. Singapore: NUS Press. (Call no.: RSING 508.0745957 TAN)
 
 Van der Hoop, A.N.J. (1957). *[The Raffles Museum Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201905661)*. [S.l., s.n.]. (Call no.: RDLKL 069.2095957 VAN)
 
