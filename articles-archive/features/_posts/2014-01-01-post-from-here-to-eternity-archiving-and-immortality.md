@@ -62,5 +62,6 @@ Painting of Sima Qian, who served as court historian during the Han Dynasty betw
 
 An image of Orchard Road circa 1900s when its surroundings were mostly spice and fruit plantations. This is a far cry from Orchard Road today (above), which is a highly urbanised and chic shopping belt. Courtesy of National Archives of Singapore and Kevin Khoo, respectively.
 
-Kevin Khoo is an archivist at the National archives of Singapore. He is a historian by training, and alumni of the National University of Singapore’s history department. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science.
+<p style="font-size:15px;"><b>Kevin Khoo</b> is an archivist at the National archives of Singapore. He is a historian by training, and alumni of the National University of Singapore’s history department. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science.</p>
 
+<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
