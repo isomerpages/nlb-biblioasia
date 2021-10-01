@@ -44,7 +44,7 @@ Here are some highlights of the collection.
 
 这批文献将帮助人们从中了解早期华商的创业史。同时，这批珍贵的文献资料对研究东南亚与新加坡华侨社会史、19至20世纪初的侨批业以及中国与东南亚的经济关系史方面有着重要的参考价值。
 
-|<br><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/03a-eutongsen.jpg">|
+|<br><a href="/images/Vol-12-issue-2/eu-tong-sen/03a-eutongsen.jpg"><img style="width:300px" src="/images/Vol-12-issue-2/eu-tong-sen/03a-eutongsen.jpg"></a>|
 
 |1. A postal receipt dated 24 August 1934 for Chinese red dates delivered to the Eu Yan Sang shop in Negeri Sembilan in Malaysia. The first Eu Yan Sang shop was set up in 1879 in Gopeng, Perak, selling Chinese medicine to tin mine workers addicted to opium. Over the years, Eu Yan Sang was able to make a name for itself in traditional Chinese medicine by sourcing for the best raw ingredients and producing only high quality products.|
 
