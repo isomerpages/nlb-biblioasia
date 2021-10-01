@@ -6,9 +6,8 @@ layout: post
 ---
 Selected pages from Sir Stamford Raffles' original instructions to Sir William Farquhar for the development of Singapore Town, 25 June 1819.10 Courtesy of National Archives of Singapore.
 
-Man is immortal; therefore he must die endlessly. For life is a creative idea; it can only find itself in changing forms. 
-
-— RABINFRANATH TAGORE
+Man is immortal; therefore he must die endlessly. For life is a creative idea; it can only find itself in changing forms.
+<div style="text-align: right">— RABINFRANATH TAGORE</div>
 
 Immortality — the idea of living eternally, never aging, dying or being forgotten — has captivated mankind throughout history. Humans — as sentient beings gifted with intellect, self-awareness and creativity, capable of love and the capacity to conceive and perceive infinity, yet bound by mortal bodies which invariably age and die — have always sought an escape from this inevitable fate.
 
@@ -28,15 +27,15 @@ Thus most fundamentally, one’s “immortality” rests on the acclaim and reco
 
 Surely god would not have created such a being as man, with an ability to grasp the infinite, to exist only for a day! No, no, man was made for immortality. 
 
-—ABRAHAM LINCON
+<div style="text-align: right">—ABRAHAM LINCON</div>
 
-Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (image via Wikimedia Commons5) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^6]
+Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (Image via Wikimedia Commons5) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^6]
 
 #### **Archiving and Immortality**
 
 An archive is in effect a repository of memory — of records of legal, historical and cultural significance, generated and organised in the course of business or social transactions across the lifetime of individuals and organisations. As a primary function of an archive is to safekeep records that have been appraised and deemed worthy of preservation, documents selected for an archive’s permanent collection acquire — by extension — a form of immortality. Archives form a select corpus of records that allow people to reconstruct and understand events that have occurred in past times. As archived records are carefully safeguarded to preserve their provenance — or their original form and context — they have been accorded a special value by researchers and historians since ancient times.
 
-As records — “frozen in time” as it were — properly archived documents have a basic trustworthiness relative to other sources. Such archived documents can impart a lasting quality to works based on them. An example of this is the Justinian Code or “Corpus Juris Civilis”. Commissioned in 6th century Ce by the Byzantine emperor Justinian, the Code was based on centuries of carefully archived roman legal precedents and remains the basis of much european civil law till today.7 Another example is the Historical records of the Grand Historian Sima Qian, the famed court historian of the Han dynasty. written in the 1st century BCe, his work drew heavily on the Han imperial court archives and remains a classic and reliable resource on ancient Chinese history to this day.[^8]
+As records — “frozen in time” as it were — properly archived documents have a basic trustworthiness relative to other sources. Such archived documents can impart a lasting quality to works based on them. An example of this is the Justinian Code or “Corpus Juris Civilis”. Commissioned in 6th century Ce by the Byzantine emperor Justinian, the Code was based on centuries of carefully archived roman legal precedents and remains the basis of much european civil law till today.[^7] Another example is the Historical records of the Grand Historian Sima Qian, the famed court historian of the Han dynasty. written in the 1st century BCe, his work drew heavily on the Han imperial court archives and remains a classic and reliable resource on ancient Chinese history to this day.[^8]
 
 Mural depiction of the Emperor Justinian who ruled between 527–565 CE at the height of the Byzantine Empire's influence. Image via Wikipedia Commons.
 
