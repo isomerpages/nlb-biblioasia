@@ -116,7 +116,7 @@ Colin St Clair Oakes would not see through the completion of Kranji War Cemetery
 
 |In early 1946, the Imperial War Graves Commission (IWGC) would send officers and an architect to Singapore to advise on the general layout of Kranji for its impending transformation into a war cemetery and a memorial to the missing. Yet, plans for the present-day cemetery would not materialise immediately. As the IWGC had a long-standing policy of not taking over any remains that could not be satisfactorily proven as entitled to a war grave burial, there was a protracted impasse over identifying the remains of both combatants and non-combatants.
 
-|<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour8.JPG">Sorting and reburial of remains by workers despatched from the Graves Units in Australia and the United Kingdom, 1946. Kranji War Cemetery. <i>Courtesy of the Commonwealth War Graves Commission.</i>
+|<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour8.JPG">Sorting and reburial of remains by workers despatched from the Graves Units in Australia and the United Kingdom, 1946. Kranji War Cemetery. <i>Courtesy of the Commonwealth War Graves Commission.</i>
 
 |Across the causeway, the Malayan Emergency and numerous post-war independence movements in Asia seeking sovereignty from colonial rule would see further delays. It would take more than 10 years and the involvement of various parties, the British Army and War Office, the British Colonial Office, the IWGC and the Singapore government, before the Kranji War Cemetery and Memorial was officially unveiled on 2 March 1957.
 
@@ -142,7 +142,7 @@ Colin St Clair Oakes would not see through the completion of Kranji War Cemetery
 
 |**A BIOGRAPHY OF COLIN ST CLAIR OAKES**
 
-|<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour9.JPG">Colin St Clair Oakes, the architect with the Imperial War Graves Commission responsible for designing a number of cemeteries located across South and Southeast Asia. These include Kranji War Cemetery in Singapore; Taiping War Cemetery in Malaysia; Kanchanaburi War Cemetery and Chungkai War Cemetery, both in Thailand; Rangoon War Cemetery in Burma; Imphal War Cemetery in India; Sai Wan Bay Cemetery in Hong Kong; and Chittagong War Cemetery in Bangladesh. <i>Courtesy of the Oakes Family Collection.</i>
+|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour9.JPG">Colin St Clair Oakes, the architect with the Imperial War Graves Commission responsible for designing a number of cemeteries located across South and Southeast Asia. These include Kranji War Cemetery in Singapore; Taiping War Cemetery in Malaysia; Kanchanaburi War Cemetery and Chungkai War Cemetery, both in Thailand; Rangoon War Cemetery in Burma; Imphal War Cemetery in India; Sai Wan Bay Cemetery in Hong Kong; and Chittagong War Cemetery in Bangladesh. <i>Courtesy of the Oakes Family Collection.</i>
 
 |Born 23 May 1908, in the village of Tanyfron in north Wales, the childhood of Colin Sinclair Rycroft Oakes was bookended by the achievements of the Victorian age and the catastrophe of World War I. This was a period that also ushered in new attitudes to function and style – a movement that otherwise became known as Modernism.
 
