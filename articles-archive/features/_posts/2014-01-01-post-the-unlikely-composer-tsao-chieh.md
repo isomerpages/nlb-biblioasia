@@ -111,3 +111,45 @@ Despite his varied body of work, Tsao Chieh had always lamented that com- posers
 <p style="font-size:15px;"><b>Jun Zubillaga-Pow</b> is a PhD Candidate in music research at King’s College London. He has performed and curated music events at the esplanade, the arts House, theatreworks and the Substation. With the support of the National arts Council, Jun is the co-editor of Queer Singapore and Singapore Soundscape.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+[11 vie for best of youth title](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860904-1.2.37.19). (1986, September 4). The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+Chang, T.L. (1998, September 18). [Too much to ask of Schweizer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980918-1.2.101.5.3). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+Chang, T.L. (2001, December 7). [A symphony with sound of Rasa Sayang?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011207-1.2.117.8.4.1) The Straits Times, . 19. Retrieved from NewspaperSG.
+
+Cheah, P. (1986, February 6). [Soldier composes a Singapore suite](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860206-1.2.277). The Straits Times, p. 32. Retrieved from NewspapersSG.
+
+Chua, R. (1986, February 15). [Our history in music](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860215-1.2.67.24.1). The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+[Concert tribute to Singapore composer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980115-1.2.127.6). (1998, January 15). The Straits Times, p. 79. Retrieved from NewspaperSG.
+
+Emmanuel, G. (1986, June 16). [Romantic touch of Haydn](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860616-1.2.55.6.1). The Straits Times, p. 19. Retrieved from NewspaperSG.
+
+[Gunners plan big bang for centenary celebrations](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880209-1.2.28.15). (1988, February 9). The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+[It sure beats chicken-scratch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920609-1.2.61.4.1). (1992, June 9). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+Lim, H.F. (1988, March 19). [A young pianist’s Sunday treat and a composer’s static work](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880319-1.2.77.45.6). The Straits Times, p. 39. Retrieved in NewspaperSG.
+
+Looi, P. (1992, July 22).  [Music notes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920722-1.2.61.5.3). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+Looi, P. (1992, July 27). [Rich, controlled performance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920727-1.2.63.4.3). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+Phang, M.Y. (1994, March 23). [Music notes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940323-1.2.59.5.4). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+Sasitharan, T. (1989, January 9). [Local composers merit patronage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890109-1.2.61.9.1). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+Sng, S. (Interviewer). (2006, March 28). *[Oral history interview with Tan Kim Swee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/a/afdec841-1160-11e3-83d5-0050568939ad-OHC002992_027/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=26)* (Transcript of MP3 recording no. 002992/34/27, pp. 713–738). Retrieved from National Archives of Singapore website. 
+
+Stanford University. (1985, April 24). Campus report. Retrieved from Stanford University website. 
+
+Tan, S.E. (2002, February 1). [Electrifying electronica](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020201-1.2.106.3.10). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[Top HSC pupil: Two in the running](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720306-1.2.73). (1972, March 6). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+Yap, M. (1988, February 23). [SAF chief tells of challenges](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880223-1.2.24.27). The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+#### **NOTES**
