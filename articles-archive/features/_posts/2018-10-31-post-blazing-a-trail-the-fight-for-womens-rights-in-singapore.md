@@ -167,13 +167,31 @@ Rather than accept that women could only play supporting roles to men in society
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
+[^1]:SCW to Chinese Advisory Board, 23 August 1954; SCW to Secretary for Chinese Affairs, 11 November 1954.
+[^2]:The first two women elected to the Municipal Commission were Mrs Robert Eu (nee Phyllis Chia) in 1949 and Miss Amy Laycock in 1950. The Municipal Commission was renamed the City Council in 1951 when Singapore acquired city status.
+[^3]:Minutes of Protem Committee, 20 November 1951.
+[^4]:Minutes of Protem Committee, 20 November 1951.
+[^5]:SCW to President, International Council of Women 6 January 1959; YWCA to SCW 31 May 1954, Minutes of the SCW 9 September 1953.
+[^6]:*The Singapore Free Press*, 15 July 1954.
+[^7]:SCW to General Neguib of Cairo, March 1954.
+[^8]:SCW to Indonesian Women’s Association, Djarkarta, 26 December 1953.
+[^9]:Minutes of the SCW, 30 July 1958.
+[^10]:Annual report of the SCW, 1954 and 1960; *The Sunday Times*, 17 August 1958; *The Singapore Free Press*, 8 August 1959; *The Straits Times*, 10 August 1959; *The Sunday Times*, 6 September 1959, *The Straits Times*, 8 September 1959.
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
+
+
+
+
+
+
+
+
