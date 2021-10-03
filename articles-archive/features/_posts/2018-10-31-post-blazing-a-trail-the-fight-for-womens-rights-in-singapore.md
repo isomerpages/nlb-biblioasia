@@ -147,6 +147,7 @@ Rather than accept that women could only play supporting roles to men in society
 <br>
 
 |**FOUR OBJECTIVES OF SCW**
+
 <ol>
 |The SCW was a broad-based organisation with four main objectives: <li>affiliation with other women’s organisations in Singapore;</li>
 
