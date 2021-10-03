@@ -10,4 +10,3 @@ layout: post
 <div style="background-color: white;"></i></div>
 
 “Forget for a time the rights and privileges which a dying custom and a faulty judgment bestows upon a selfish husband, and learn to think in terms of your duties as fathers. The destiny of millions of Chinese girls is in your hands. Deal with them as you would like your daughters to be dealt with”.1
-
