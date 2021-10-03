@@ -5,9 +5,7 @@ permalink: /editors-picks/art
 <html> 
     <head> 
         <style>          
-            p.wb { 
-                word-break: normal; 
-            } 
+            p.wb {word-break: normal;} 
   </style> 
     </head> 
 	
