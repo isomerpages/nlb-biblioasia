@@ -109,6 +109,8 @@ With the introduction of Western-style healthcare, including clinics and hospita
 
 State controls and the exposure to Western education further put paid to the services of traditional Malay healers. Although their numbers have drastically dwindled over the years, traditional Malay medicine continues to play an ancillary – and occasionally complementary – role to Western medicine today for those who recognise its efficacy in providing ritual care and treating spiritual ailments and conditions not yet acknowledged in Western medical science.
 
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+	
 |**HEALING PRACTICES**
 
 |One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.<br>
@@ -124,7 +126,7 @@ State controls and the exposure to Western education further put paid to the ser
 
 |Burkill, I.H., & Ismail Munshi. (1930). [*The medical book of Malayan medicine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
 
-<br>
+</div><br>
 
 |**HUMOURAL THEORY AND MALAY MEDICINE**
 
@@ -132,7 +134,7 @@ State controls and the exposure to Western education further put paid to the ser
 
 |In one of the earliest Malayan accounts of humoural theory, English scholar Thomas J. Newbold describes Malay medicine as being based on the fundamental “principle of ‘preserving the balance of power’ within the four elements, specifically, air, fire, water and earth”.[^21] This ranges from the consumption of certain hot or cold foods (such as meat and fruit respectively), hot and cold temperatures, wind, micro-organisms and supernatural forces. Dry chills and dizzy spells arise when the “earth” element is too strong and from ailments such as cholera and dysentery, which are caused by excessive heat and moisture from the “air”.[^22] Consuming large amounts of food that contain “air” may cause feebleness in some. The plants and herbs prescribed by Malay healers help to revitalise and restore these imbalances in the human body.
 
-<br>
+<br><div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 
 |**PAWANG, BOMOH AND BIDAN**
 
@@ -159,7 +161,7 @@ State controls and the exposure to Western education further put paid to the ser
 |Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (pp. 424–425). London: Macmillan and Co., Limited. (Retrieved from BookSG; Accession no.: B02930611K).
 
 |Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Microfilm no.: NL263).
-
+</div>
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed7.jpg" style="width: 100px; height: 100px;">
