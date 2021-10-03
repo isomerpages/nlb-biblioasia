@@ -25,6 +25,9 @@ Other buildings featured on the wall include the East Hui’an Overseas Chinese 
 
 Unveiled on 17 November 2012, this wall measuring almost 12 metres by 1.8 metres was the culmination of an endeavour that had commenced over a year before. It had become apparent to the association’s leaders that there was a growing disconnect between their efforts to sustain the traditions and ancestral links to the “homeland”, and the younger generation who are born and bred in Singapore. 
 
+<div style="background-color: white;">Unveiled on 17 November 2012 and measuring almost 12 metres by 1.8 metres, the boundary wall of the premises of the Singapore Hui An Association premises is an expression of the key elements of the culture and heritage of the Hui’an people. <i>Photo courtesy of Jimmy Yap.</i></div>
+
+
 The committee decided that an expression of the key elements of the Hui’an identity could be transposed onto a physical wall fronting their premises. This would provide both a reminder and introduction to the rich history of the Hui’an community, reinforcing their roots and cultural identity in China and throughout the overseas diaspora.[^6]
 
 Given that stone carving in Hui’an has a history of over 1,600 years and is listed as one of the national intangible cultural heritages of China, the committee agreed to engage a sculptor from Hui’an and use granite from the county to create this relief. Tellingly, it was then left to the appointed sculptor, Wang Xiangrong (王向荣), himself a fifth-generation artist and stone mason, to propose the key elements to the diorama.[^7]
