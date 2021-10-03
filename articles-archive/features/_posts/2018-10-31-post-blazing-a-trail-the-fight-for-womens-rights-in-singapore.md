@@ -111,7 +111,7 @@ While leaders of several political parties jostling for power – this was the t
 
 Launched in 1956 under the leadership of Chan Choy Siong, a pioneer female politician, the PAP Women’s League adopted SCW’s 1952 slogan of “one man one wife”, as part of its anti-colonial manifesto.[^32] The first big event organised by the league was the celebration of International Women’s Day on 8 March 1956.
 
-<img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail7.JPG">
+<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail7.JPG">
 <div style="background-color: white;">Members of the Women’s League of the People’s Action Party. The party canvassed on the Singapore Council of Women’s 1952 slogan, “one man one wife”, during the International Women’s Day rally in March 1956. <i>Courtesy of Phyllis Chew.</i></div>
 
 The rally was held at four places simultaneously and attended by more than 2,000 people, most of whom were trade unionists and Chinese school students.[^33] Women leaders from all walks of life were invited to celebrate the occasion. The SCW’s representative was Shirin Fozdar, who urged the frenzied crowd to support the abolition of polygamy. On the same day, a resolution was passed by the Women’s League in support of the principle of monogamy (and subsequently moved during the PAP’s annual general meeting in 1957).
