@@ -68,6 +68,10 @@ Alighting from his car on 31 March 1922 to the backdrop of curious onlookers at 
 
 Following a short dedication by the Bishop of Singapore and the sounding of the last post and reveille, the prince, accompanied by Governor of the Straits Settlements Laurence Guillemard, greeted the invited dignitaries, which included the monument’s lauded architect Denis Santry of architectural firm Swan & Maclaren. Among that gathered company of Singapore’s building fraternity was Soh Mah Eng (苏马英), the contractor for the monument. The prince cordially shook his hand and even offered a few words of gratitude.[^16] It was fitting recognition for this Hui’an native who had migrated to Singapore some 20 years earlier and subsequently through his company, Chin Hup Heng & Co., became a pioneer in the island’s infrastructure development.
 
+
+<div style="background-color: white;">Soh Mah Eng was responsible for building the Cenotaph in 1922. <i>Courtesy of the Singapore Hui An Association.</i></div>
+
+
 Modelled after the Whitehall Cenotaph in London, the 18-metre-tall Singapore Cenotaph, raised on a plinth, would be entirely constructed of local granite. Bronze tablets inscribed with the names of the fallen adorn its face.[^17] Given its national significance, the quality of its finish was expected to be of the highest standard. The British colonial government, well aware of Hui’an’s reputation with stone and already familiar with Soh’s earlier work on Anderson Bridge, appointed him as the builder to undertake the main building works. 
 
 Finding himself short of manpower soon after commencing, Soh appealed to the authorities for additional labour and was allowed to recruit more than 200 skilled masons from his hometown village of Sukeng in Hui’an.[^18] The Cenotaph was thus successfully completed on schedule. What is more significant, though, is that the memorial helped cement the Hui’an community’s reputation for construction work in Singapore and provided the island with a future generation of skilled stone craftsmen as well.
