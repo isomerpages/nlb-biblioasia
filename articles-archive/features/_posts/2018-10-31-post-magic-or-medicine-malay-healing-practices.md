@@ -160,7 +160,7 @@ State controls and the exposure to Western education further put paid to the ser
 
 |Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (pp. 424–425). London: Macmillan and Co., Limited. (Retrieved from BookSG; Accession no.: B02930611K)
 
-|Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Microfilm no.: NL263).
+|Wilkinson, R.J. (1908–10). [*Papers on Malay subjects. [First series, 4], Life and customs*](https://eresources.nlb.gov.sg/printheritage/detail/cbae6616-f86a-4d1b-a8aa-9550fdcc980b.aspx) (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Retrieved from BookSG; Microfilm no.: NL263)
 </div>
 <br>
 <div style="background-color: white;">
