@@ -31,7 +31,7 @@ Although the origins are unclear, the Malay method of healing is mainly administ
 <div style="background-color: white;">A portrait of a Malay traditional healer, c. 1900. These medicine men usually carried their bottles of medicine and herbs wrapped in a <i>kain sarong</i> (“sarong cloth”) slung over their shoulders. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 <img style="width: 450px; height: 350px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/x.JPG">
-<div style="background-color: white;">A typical <i>Kitab Tibb</i> (The Book of Medicine) manuscript from 14th-century Iran listing the cures, properties and methods of preparation for healing purposes. Such manuscripts were later translated and used in the Malay Archipelago. <i>Collection of the Asian Civilisations Museum.</i></div>
+<div style="background-color: white;">A typical <i>Kitab Tibb</i> (<i>The Book of Medicine</i>) manuscript from 14th-century Iran listing the cures, properties and methods of preparation for healing purposes. Such manuscripts were later translated and used in the Malay Archipelago. <i>Collection of the Asian Civilisations Museum.</i></div>
 
 There are numerous versions of *Kitab Tibb* manuscripts found in the Malay Archipelago. Mostly written between 1786 and 1883, these broadly outline three main types of healing practices: those using natural resources such as plants and herbs; those relying on *wafaq* (written symbols or amulets); and healing practices using Quranic verses, supplications and salawat (blessings to the Prophet). All these techniques can be used simultaneously or separately.[^4]
 
