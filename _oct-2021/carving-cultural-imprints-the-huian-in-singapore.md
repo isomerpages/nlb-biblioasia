@@ -4,10 +4,15 @@ permalink: /vol-17/issue-3/oct-dec-2021/huianinsingapore
 ---
 #### A group of contractors from Hui’an county in China were responsible for building some of Singapore’s iconic landmarks. **Athanasios Tsakona**s has the story.
 
+<div style="background-color: white;">A granite stone wall adorns the premises of the Singapore Hui An Association in Geylang. Taking centre stage on the wall is an image of a man and woman grappling with a woven basket brimming with fish, against a background of traditional Fujian junks and a radiating sun. <i>Photo courtesy of Jimmy Yap.</i></div>
+
 
 In the heart of Geylang, along a nondescript lane inhabited by an assortment of clan associations, guild houses and Chinese temples, an unusual, grey-stone-clad boundary wall greets the casual observer. This masonry “canvas” is adorned with striking sculptured reliefs of what appears to be a bygone period out of China.
 
 Upon closer observation, the artwork reveals a carefully choreographed narrative presenting the cultural identity of the occupants of the premises behind, the Singapore Hui An Association (新加坡惠安公会). A Hokkien (Fujian) clan association that traces its origins to 1924,[^1] its present members are descended from immigrants who hailed from Hui’an, a county today under the jurisdiction of Quanzhou in China’s Fujian province.
+
+<div style="background-color: white;">Members of the Singapore Hui An Association outside their original association building at 7 Teo Hong Road during its 10th inauguration on 28 December 1947. <i>Singapore Hui An Association Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 Taking centre stage on this wall is an image depicting a flotilla of traditional tri-masted Fujian junks with a radiating sun in the background (see above). The foreground depicts a man and woman grappling with a woven basket brimming with fish. Occupying the full height of the wall, the scene symbolises the virtue of honest toil that marks the seafaring people of Hui’an who have enjoyed a deep connection with the sea for centuries and prospered from it. It also evokes the trading activity that occurred in the port city of Quanzhou, one of the starting points of the historic maritime silk route. A close examination of the relief reveals a more detailed history and narrative of the Hui’an people.
 
