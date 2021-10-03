@@ -85,6 +85,11 @@ Among the most prominent in this group is Chia Eng Say (谢荣西). Born in 1881
 
 Chia owned several quarries in Bukit Timah, Mandai and Pulau Ubin. Granite extracted from Chia Eng Say Granite was used for the foundation of the Supreme Court building, the Naval Base at Sembawang as well as the Causeway, where he was a major subcontractor to Messrs Topham, Jones & Railton of London, which had been awarded the construction contract.[^19]
 
+ 
+
+<div style="background-color: white;">Self-made millionaire Chia Eng Say owned quarries in Bukit Timah, Mandai and Pulau Ubin, and even has a road named after him. His construction projects include the Causeway in 1924, the China Building on Chulia Street in 1932 (later the headquarters of the Oversea-Chinese Banking Corporation) and Chung Cheng High School in 1939. <i>Courtesy of the Singapore Hui An Association.</i></div>
+
+
 Other notable projects to his name include the China Building (which became the headquarters of the Oversea-Chinese Banking Corporation after the merger of the Oversea-Chinese Bank and the Chinese Commercial Bank in 1932) on Chulia Street,[^20] along with numerous schools and private residential estates in both Singapore and Penang. Such was his prominence within the local construction industry that the track in Bukit Timah upon which his quarry was located would be named Chia Eng Say Road. (This road was later expunged but the name was subsequently resurrected; today Chia Eng Say Road lives on in Upper Bukit Timah, just fronting The Rail Mall.[^21]) 
 
 
