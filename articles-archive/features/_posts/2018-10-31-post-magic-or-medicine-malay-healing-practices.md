@@ -186,13 +186,13 @@ McHugh, J.N. (1955). [*Hantu hantu: An account of ghost belief in modern Malaya*
 
 Mohd. Affendi Mohd.Shafri & Intan Azura Shahdan. (Eds.). (2017). [*Malay medical manuscripts: Heritage from the garden of healing*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203011255). Kajang, Selangor, Malaysia: Akademi Jawi Malaysia. (Call no.: RSEA 610.95 INT)
 
+Mohd. Taib Osman. (1989). [*Malay folk beliefs: An integration of disparate elements*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5391123). Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan Malaysia. (Call no.: RSEA 398.4109595 MOH)
+
 Muhamad Zakaria & Mustafa Ali Mohd. (1992). [*Tumbuhan dan perubatan tradisional*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6307820). Kuala Lumpur: Fajar Bakti. (Call no.: Malay RSING 615.88209595 MUH)
 
 Ong, H.T. (Ed.). (2011). [*To heal the sick: The story of healthcare and doctors in Penang*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202468002). Georgetown: Penang Medical Practitioners’ Society. (Call no.: RSEA 362.1095951 TO)
 
 Owen, N. G. (Eds.). (1987). [*Death and disease in Southeast Asia : explorations in social, medical and demographic history*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4523171). Singapore: Oxford University Press. (Call no.: 301.3220959 DEA)
-
-Mohd. Taib Osman. (1989). [Malay folk beliefs: An integration of disparate elements](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5391123). Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan Malaysia. (Call no.: RSEA 398.4109595 MOH)
 
 Tuminah Sapawi. (1997, January 8). [Bidan kampung now offers massage and other rituals](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970108-1.2.112.7.4). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
