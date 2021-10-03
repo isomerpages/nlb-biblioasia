@@ -19,6 +19,9 @@ Taking centre stage on this wall is an image depicting a flotilla of traditional
 To the immediate left of the central image of the man and woman is an oblique representation of a multi-pier stone bridge, upon which stands a formally garbed official. This is Luoyang Bridge 
 (洛阳桥),[^2] recognised as one of the four ancient bridges in China, and the man on it is its designer and builder, Cai Xiang (蔡襄, 1012–67), chief of Quanzhou prefecture, who was also a renowned calligrapher, structural engineer and poet. Spanning 1,200 metres, with 46 ship-shaped piers supporting its stone structure, the Luoyang Bridge’s raft foundations were reinforced through the innovative breeding of oysters alongside, whose liquid secretion aided the binding of the footstones and thus solidified its base. 
 
+<div style="background-color: white;">Standing atop the Luoyang Bridge is its designer and builder, Cai Xiang (蔡襄, 1012–67), chief of Quanzhou prefecture, and also a renowned calligrapher, structural engineer and poet. Luoyang Bridge is recognised as one of the four ancient bridges in China. <i>Photo courtesy of Jimmy Yap.</i></div>
+
+
 This bridge is significant as it is believed to be the first stone beam bridge constructed in China using a living organism to reinforce its structure. Further along the full span of this boundary wall, other structures are prominently depicted such as Mengjia Qingshan Temple (艋舺青山宮) in Wanhua District in Taipei,[^3] the Jingfeng Temple (净峰寺) and Chongwu ancient city wall (崇武城墙) in Hui’an,[^4] a mosque in Baiqi Xiang (百崎乡) in Hui’an, and a scene of Hui’an women constructing a dam. 
 
 Other buildings featured on the wall include the East Hui’an Overseas Chinese Hospital (惠安县惠东华侨医院) and Fujian Hui’an Kai Cheng Vocational Secondary School (福建惠安开成职业中专学校), both of which were constructed thanks to donations by Hui’an philanthropists from Singapore.[^5]
