@@ -4,6 +4,7 @@ permalink: /vol-17/issue-3/oct-dec-2021/huianinsingapore
 ---
 #### A group of contractors from Hui’an county in China were responsible for building some of Singapore’s iconic landmarks. **Athanasios Tsakona**s has the story.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/Facing%20Page.jpg)
 <div style="background-color: white;">A granite stone wall adorns the premises of the Singapore Hui An Association in Geylang. Taking centre stage on the wall is an image of a man and woman grappling with a woven basket brimming with fish, against a background of traditional Fujian junks and a radiating sun. <i>Photo courtesy of Jimmy Yap.</i></div>
 
 
@@ -11,6 +12,8 @@ In the heart of Geylang, along a nondescript lane inhabited by an assortment of 
 
 Upon closer observation, the artwork reveals a carefully choreographed narrative presenting the cultural identity of the occupants of the premises behind, the Singapore Hui An Association (新加坡惠安公会). A Hokkien (Fujian) clan association that traces its origins to 1924,[^1] its present members are descended from immigrants who hailed from Hui’an, a county today under the jurisdiction of Quanzhou in China’s Fujian province.
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/Members.jpg)
 <div style="background-color: white;">Members of the Singapore Hui An Association outside their original association building at 7 Teo Hong Road during its 10th inauguration on 28 December 1947. <i>Singapore Hui An Association Collection, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -19,6 +22,7 @@ Taking centre stage on this wall is an image depicting a flotilla of traditional
 To the immediate left of the central image of the man and woman is an oblique representation of a multi-pier stone bridge, upon which stands a formally garbed official. This is Luoyang Bridge 
 (洛阳桥),[^2] recognised as one of the four ancient bridges in China, and the man on it is its designer and builder, Cai Xiang (蔡襄, 1012–67), chief of Quanzhou prefecture, who was also a renowned calligrapher, structural engineer and poet. Spanning 1,200 metres, with 46 ship-shaped piers supporting its stone structure, the Luoyang Bridge’s raft foundations were reinforced through the innovative breeding of oysters alongside, whose liquid secretion aided the binding of the footstones and thus solidified its base. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/Chief.jpg)
 <div style="background-color: white;">Standing atop the Luoyang Bridge is its designer and builder, Cai Xiang (蔡襄, 1012–67), chief of Quanzhou prefecture, and also a renowned calligrapher, structural engineer and poet. Luoyang Bridge is recognised as one of the four ancient bridges in China. <i>Photo courtesy of Jimmy Yap.</i></div>
 
 
@@ -28,6 +32,7 @@ Other buildings featured on the wall include the East Hui’an Overseas Chinese 
 
 Unveiled on 17 November 2012, this wall measuring almost 12 metres by 1.8 metres was the culmination of an endeavour that had commenced over a year before. It had become apparent to the association’s leaders that there was a growing disconnect between their efforts to sustain the traditions and ancestral links to the “homeland”, and the younger generation who are born and bred in Singapore. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/wallstitch.jpg)
 <div style="background-color: white;">Unveiled on 17 November 2012 and measuring almost 12 metres by 1.8 metres, the boundary wall of the premises of the Singapore Hui An Association premises is an expression of the key elements of the culture and heritage of the Hui’an people. <i>Photo courtesy of Jimmy Yap.</i></div>
 
 
@@ -54,7 +59,7 @@ Following the arrival of Stamford Raffles in 1819 and the establishment of a Bri
 
 Arriving later, along with migrant groups from Fuzhou, Putian and Fuqing, the people from Hui’an would find that what profitable industries were available in Singapore had already been taken up by others so they initially settled as coolies (indentured labourers)[^11] doing back-breaking work. Those who came from coastal northern Hui’an and were accustomed to the sea and fishing, made their home on large bumboats by the Singapore, Rochor and Kallang rivers, navigating between them and the coast for their livelihoods.[^12] Others worked as rickshaw pullers or as labourers in the construction, mining and agriculture sectors in exchange for three meals a day. 
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/Huian%20Women.jpg)
 <div style="background-color: white;">Hui’an women, in traditional clothing, removing bits of seaweed, shells and other remnants of the day’s haul from fishing nets hung out to dry. The nets would be mended before the next day’s catch. <i>Photo courtesy of Jimmy Yap.</i></div>
 
  
@@ -74,6 +79,8 @@ Many European firms took advantage of this situation by subcontracting to these 
 
 Alighting from his car on 31 March 1922 to the backdrop of curious onlookers at the Esplanade (now Padang) and a guard of honour consisting of 100 former servicemen, the Prince of Wales (later King Edward VIII) inspected this ceremonial guard before making his way to the foot of the war memorial, which was erected to honour 124 men from Singapore who had died in action in Europe during World War I. Delivering a speech extolling the virtues of bravery and sacrifice displayed by those men being commemorated, he proceeded to push a small button on the dais. With that action, a large Union Jack, fully draped over the structure, pulled away to reveal the new Cenotaph.[^15]
 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/princeofwales.jpg)
 <div style="background-color: white;">Unveiling of the Cenotaph on 31 March 1922, officiated by the Prince of Wales. It was erected to honour 124 men from Singapore who had died in action in Europe during World War I. The contractor who built it is Soh Mah Eng. <i>Courtesy of National Archives of Singapore.</i></div>
 
 
@@ -97,14 +104,14 @@ Among the most prominent in this group is Chia Eng Say (谢荣西). Born in 1881
 Chia owned several quarries in Bukit Timah, Mandai and Pulau Ubin. Granite extracted from Chia Eng Say Granite was used for the foundation of the Supreme Court building, the Naval Base at Sembawang as well as the Causeway, where he was a major subcontractor to Messrs Topham, Jones & Railton of London, which had been awarded the construction contract.[^19]
 
  
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/ChiaEng1.jpg)
 <div style="background-color: white;">Self-made millionaire Chia Eng Say owned quarries in Bukit Timah, Mandai and Pulau Ubin, and even has a road named after him. His construction projects include the Causeway in 1924, the China Building on Chulia Street in 1932 (later the headquarters of the Oversea-Chinese Banking Corporation) and Chung Cheng High School in 1939. <i>Courtesy of the Singapore Hui An Association.</i></div>
 
 
 Other notable projects to his name include the China Building (which became the headquarters of the Oversea-Chinese Banking Corporation after the merger of the Oversea-Chinese Bank and the Chinese Commercial Bank in 1932) on Chulia Street,[^20] along with numerous schools and private residential estates in both Singapore and Penang. Such was his prominence within the local construction industry that the track in Bukit Timah upon which his quarry was located would be named Chia Eng Say Road. (This road was later expunged but the name was subsequently resurrected; today Chia Eng Say Road lives on in Upper Bukit Timah, just fronting The Rail Mall.[^21]) 
 
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/China%20Building.jpg)
 <div style="background-color: white;">The China Building on Chulia Street, 1964. It was built by Chia Eng Say and completed in 1932. It later served as the headquarters of the Oversea-Chinese Banking Corporation arising from a merger of the Oversea-Chinese Bank and the Chinese Commercial Bank. <i>Kouo Shang-Wei Collection, PictureSG, National Library, Singapore.</i></div>
 
 
@@ -121,7 +128,7 @@ Unfortunately, Chia’s ability to write letters and maintain accounts also beca
 
 Eventually branching off, he became a contractor for the Public Works Department. The younger Chia’s added engineering skills saw him involved in numerous heavy infrastructure projects for the British authorities. These include the levelling of Kampong Silat Hill for the Singapore Improvement Trust’s housing development scheme in 1948, and the new taxiways and extension of the runway at Kallang Airport a year later. His most significant accomplishment, though, and that which accorded him the most professional recognition within the industry occurred just prior to World War II. 
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/ChiaLay.jpg)
 <div style="background-color: white;">Chia Lay Phor being congratulated by Colonial Secretary Patrick A.B McKerron upon the completion of the Kallang Airport runways extension, 1949. <i>Courtesy of Joseph Chia.</i></div>
 
 
@@ -136,22 +143,20 @@ Initially subcontracting his labour to other builders working on numerous army c
 Capitalising on the opportunity, Ho established his own construction company – beginning where he left off before the war – repairing and rebuilding old army camps and bases as well as those used for internment. An invaluable listing on the preferred contractor panel for the Public Works Department soon followed, and over the next 30 years, Ho Bock Kee Construction was awarded numerous public and private contracts, including a Ngee Ann Kongsi school on Balestier Road (1965), Singapore Television Studio Centre at Caldecott Hill (1966), Bedok Reformative Training Centre (1961), Mount Vernon Crematorium (1962) and the National Library building on Stamford Road (1960).
 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/NationalLibrary.jpg)
 <div style="background-color: white;">The National Library on Stamford Road, 1967. It was built by Ho Bock Kee’s construction company. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
- 
 
 
 As a main contractor, Ho’s most internationally recognised work was the Singapore Memorial at the Kranji War Cemetery. Officially unveiled on 
 2 March 1957 by the Singapore Governor Robert Black and attending international dignitaries, the event was broadcast throughout the Commonwealth to an extensive overseas audience.[^27] Designed by the British architect Colin St Clair Oakes, the memorial was built to resemble an aeroplane with its 22-metre central pylon and wing-shaped roof supported by 12 stone-clad pillars.[^28] The names of over 24,000 casualties without known graves are inscribed on the pillars. Memorial services are held at the cemetery every year on Remembrance Day (11 November), as well as ANZAC (Australian and New Zealand Army Corps) Day on 25 April.
 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/HoBock.jpg)
 <div style="background-color: white;">Ho Bock Kee was a prominent name in the local construction industry. Among the many projects that his construction company handled include the Singapore Memorial at the Kranji War Cemetery in 1957 and the National Library building on Stamford Road in 1960. <i>Courtesy of the Ho Family.</i></div>
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/Singapore%20Memorial%201.jpg)
 <div style="background-color: white;">The Singapore Memorial with war graves of fallen servicemen at the Kranji War Cemetery, 1960s. The memorial was built by Ho Bock Kee’s construction company. <i>John C. Young Collection, courtesy of National Archives of Singapore.</i></div>
 
-
-  
 
 #### Leaving a Legacy
 
@@ -163,13 +168,16 @@ The images carved on the stone wall and the memories they recall of the homeland
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author acknowledges the generous research and translation assistance from Joseph Chia (谢福崧) and Teo Seng Yeong (张成雄) of the Singapore Hui An Association, Fiona Lim and Yoke Lin Wong.</div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">Athanasios Tsakonas’s book, In Honour of War Heroes: Colin St Clair Oakes and the Design of Kranji War Memorial, was published by Marshall Cavendish Editions in 2020. Containing photographs, maps and architectural plans, the publication draws on extensive archival research and interviews conducted in Europe, Australia and Asia.<br><br>
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img src="/images/vol-17-issue-3/hui-an/InHonorOfWarHeroes.png">Athanasios Tsakonas’s book, In Honour of War Heroes: Colin St Clair Oakes and the Design of Kranji War Memorial, was published by Marshall Cavendish Editions in 2020. Containing photographs, maps and architectural plans, the publication draws on extensive archival research and interviews conducted in Europe, Australia and Asia.<br><br>
 The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204468661">Call nos.: RSING 725.94095957 TSA and RSING 725.94095957 TSA</a>). It also retails at major bookshops in Singapore.
-	</div>
+</div>
+
+
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-3/authors/Khir%20Johari.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-3/authors/Athanasios%20Tsakonas.png" style="width: 100px; height: 100px;" />
 <b>Athanasios Tsakonas</b> is a practising architect with degrees from the University of Adelaide and National University of Singapore. His book, <i>In Honour of War Heroes: Colin St Clair Oakes and the Design of Kranji War Memorial,</i> was published by Marshall Cavendish Editions in 2020. He is currently based in Melbourne, Australia.
 </div>
 
