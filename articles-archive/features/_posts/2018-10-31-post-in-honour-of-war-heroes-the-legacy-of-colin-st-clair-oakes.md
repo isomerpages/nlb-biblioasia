@@ -16,7 +16,7 @@ On a bright and early Saturday morning on 2 March 1957, Governor of Singapore Ro
 
 Some 3,000 guests, including dignitaries and representatives of the various Commonwealth governments, had gathered to bear witness to the culmination of an event that had commenced over a decade earlier in the aftermath of World War II.
 
-#### **Unveiling the Memorial **
+#### **Unveiling the Memorial**
 
 As the party comprising Black, selected guests and the presiding clergy was about to lay their wreaths at the base of the Cross of Sacrifice, a weeping, elderly Chinese woman dressed in a worn *samfoo* suddenly emerged from the crowd and stumbled up to the cross. Major-General J.F.D. Steedman, Director of Works at the IWGC, gently put his arm around her shoulders and led her away to a chair under the shade of a tree. Journalist Nan Hall reported in *The Straits Times* the following day that the woman had “sobbed loudly and rocked her head in her hands”.[^1]
 
