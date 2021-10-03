@@ -28,7 +28,7 @@ It was a poignant moment that captured the essence of the human sacrifice the me
 
 #### **The Legacy**
 
-Designed by a relatively unknown young architect named Colin St Clair Oakes (see box below), the Kranji War Cemetery resembles the design of many such war cemeteries he would design in South and Southeast Asia, influenced by his military service background and experience of having lived and worked in this part of the world.
+Designed by a relatively unknown young architect named Colin St Clair Oakes (see text box below), the Kranji War Cemetery resembles the design of many such war cemeteries he would design in South and Southeast Asia, influenced by his military service background and experience of having lived and worked in this part of the world.
 
 Oakes’ appointment by the IGWC would prove an astute choice as he would introduce a modernist sensibility to the various commemoration and pilgrimage sites he designed in the region, a sensibility that would later define his career. Similarly, Kranji can be framed within the wider context of similar sites that bear testament to the horrors and brutality of war. Although located in disparate countries, the shared architectural heritage of these sites gave rise to a common history with its own narrative: the advance of the Japanese campaign, its subsequent military confrontation and occupation, and eventual retreat.
 
@@ -40,7 +40,7 @@ Over the years, the literature on Kranji has placed the war cemetery and memoria
 
 Outside the “imperial” view, the most comprehensive book written on Kranji is by Singaporean journalist Romen Bose. Titled *Kranji: The Commonwealth War Cemetery and the Politics of the Dead* (2006), the book offers the first insight into the establishment of the cemetery from the perspective of its host country.[^4] It details all of Kranji’s individual memorials and explores the politics of its approval and funding, along with the official unveiling of the Singapore Memorial. The publication also marks an important shift in the local perception of Kranji.
 
-From the late 1980s onwards, there was renewed interest from both the public and state over the battlefield history of the Japanese invasion and occupation of Singapore. New literature on the subject gave rise to a national discourse on Singapore’s post-colonial history, raising important questions on national identity.[^5] Academics Brendah Yeoh and Hamzah Muzaini have described the prevailing literature as tending to “analyze these spaces of memory as loci of ’personal’ mourning or as symbolic manifestations of imperial identities”.[^6]
+From the late 1980s onwards, there was renewed interest from both the public and state over the battlefield history of the Japanese invasion and occupation of Singapore. New literature on the subject gave rise to a national discourse on Singapore’s post-colonial history, raising important questions on national identity.[^5] Academics Brendah Yeoh and Hamzah Muzaini have described the prevailing literature as tending to “analyze these spaces of memory as loci of ‘personal’ mourning or as symbolic manifestations of imperial identities”.[^6]
 
 #### **The Imperial War Graves Commission in Asia**
 
