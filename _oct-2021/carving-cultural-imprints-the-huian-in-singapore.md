@@ -35,7 +35,7 @@ Whereas Quanzhou was connected to the internal China hinterland through its earl
 
 This construction programme not only necessitated a great investment by the authorities but also brought with it the need for large numbers of highly qualified architects, engineers and tradespeople. At the same time, on account of Hui’an’s vast repositories of granite, the stone industry flourished, with thousands of masons involved in stone-cutting and carving for such public utilities as gateways, sanctuaries and pagodas.[^8]
 
-Thanks to Quanzhou’s deep-sea port, established trade routes and the overseas networks created by the Chinese diaspora, these stone commodities would subsequently find their way to and across Southeast Asia. According to Claudine Salmon and Myra Sidharta in their essay, “The Manufacture of Chinese Gravestones in Indonesia”, it was the need for ballast on the sailing ships that provided the economic case for transporting stone from Hui’an to Southeast Asia. Both plentiful and inexpensive, these stone ballasts (壓船石; yachuan shi; literally “stones that keep the ship down”) would be exchanged along the journey’s various ports with an equivalent weight in commodities and goods for the return leg.[^9]
+Thanks to Quanzhou’s deep-sea port, established trade routes and the overseas networks created by the Chinese diaspora, these stone commodities would subsequently find their way to and across Southeast Asia. According to Claudine Salmon and Myra Sidharta in their essay, “The Manufacture of Chinese Gravestones in Indonesia”, it was the need for ballast on the sailing ships that provided the economic case for transporting stone from Hui’an to Southeast Asia. Both plentiful and inexpensive, these stone ballasts (壓船石; *yachuan shi*; literally “stones that keep the ship down”) would be exchanged along the journey’s various ports with an equivalent weight in commodities and goods for the return leg.[^9]
 
 Both raw stone and carved slabs for tombstones, graves and temples also made their way across the South China Sea, bringing not only the products but also stamping the reputation of the Hui’an people for their quality material and workmanship. It was a prelude to the human capital that eventually arrived in the region in general and, Singapore in particular.
 
@@ -43,8 +43,8 @@ Following the arrival of Stamford Raffles in 1819 and the establishment of a Bri
 
 Arriving later, along with migrant groups from Fuzhou, Putian and Fuqing, the people from Hui’an would find that what profitable industries were available in Singapore had already been taken up by others so they initially settled as coolies (indentured labourers)[^11] doing back-breaking work. Those who came from coastal northern Hui’an and were accustomed to the sea and fishing, made their home on large bumboats by the Singapore, Rochor and Kallang rivers, navigating between them and the coast for their livelihoods.[^12] Others worked as rickshaw pullers or as labourers in the construction, mining and agriculture sectors in exchange for three meals a day. 
 
-Before the Hui An Association was founded in Singapore in 1924, early Hui’an immigrants sought out and received help from their fellow clansmen who had arrived before them. Their most pressing needs were finding accommodation and employment. Most lived in shophouses in the Tanjong Pagar area comprising Craig Road, Tras Street, Duxton Hill and Duxton Road in lodgings known colloquially as coolie keng 
-(估里间; gu li jian). Here, dozens of men would be crammed into tiny, compartmentalised and windowless  rooms – most without running water or proper sanitation – sleeping on tiered wooden bunk beds that were also shared. Despite the deplorable living conditions, these lodgings kept the new migrants together and afforded them some form of protection.
+Before the Hui An Association was founded in Singapore in 1924, early Hui’an immigrants sought out and received help from their fellow clansmen who had arrived before them. Their most pressing needs were finding accommodation and employment. Most lived in shophouses in the Tanjong Pagar area comprising Craig Road, Tras Street, Duxton Hill and Duxton Road in lodgings known colloquially as *coolie keng* 
+(估里间; *gu li jian*). Here, dozens of men would be crammed into tiny, compartmentalised and windowless  rooms – most without running water or proper sanitation – sleeping on tiered wooden bunk beds that were also shared. Despite the deplorable living conditions, these lodgings kept the new migrants together and afforded them some form of protection.
 
 Faced with isolation, alliances between fellow Hui’an men would form, mostly through membership in secret societies or triad associations. In the case of the Craig Road and Duxton Hill areas, where the Hui’an migrants worked mainly as rickshaw pullers, membership was allied under the surnames of Ho, Chang and Chuang.[^13]
 
@@ -106,7 +106,16 @@ By the late 1980s, the Hui’an construction community in Singapore accounted fo
 
 This story of the enterprising and intrepid Hui’an people and their contributions both within and outside China is an inspiring one. It was with this in mind that the sculptured wall fronting the Singapore Hui An Association at  Lorong 29 Geylang was commissioned. It is both an icon of the success that Hui’an immigrants have achieved overseas as well as an enduring symbol of their contributions to the Chinese homeland – as evidenced by depictions of the aforementioned Fujian Hui’an Kai Cheng Vocational Secondary School and East Hui’an Overseas Chinese Hospital.
 
-The images carved on the stone wall and the memories they recall of the homeland also serve another purpose, as captured by the Greek word nostos, which means “homecoming”. In ancient Greek literature, it describes an epic hero returning home by sea. The term − first recounted in Homer’s The Odyssey − refers not merely to the physical return of the hero but to his elevated identity and status upon arriving home. In a similar way, the Hui’an stone frieze depicts the journey of an enlightened culture to Southeast Asia and its eventual return back home.
+The images carved on the stone wall and the memories they recall of the homeland also serve another purpose, as captured by the Greek word *nostos*, which means “homecoming”. In ancient Greek literature, it describes an epic hero returning home by sea. The term − first recounted in Homer’s *The Odyssey* − refers not merely to the physical return of the hero but to his elevated identity and status upon arriving home. In a similar way, the Hui’an stone frieze depicts the journey of an enlightened culture to Southeast Asia and its eventual return back home.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author acknowledges the generous research and translation assistance from Joseph Chia (谢福崧) and Teo Seng Yeong (张成雄) of the Singapore Hui An Association, Fiona Lim and Yoke Lin Wong.</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-3/authors/Khir%20Johari.png" style="width: 100px; height: 100px;" />
+<b>Athanasios Tsakonas</b> is a practising architect with degrees from the University of Adelaide and National University of Singapore. His book, <i>In Honour of War Heroes: Colin St Clair Oakes and the Design of Kranji War Memorial,</i> was published by Marshall Cavendish Editions in 2020. He is currently based in Melbourne, Australia.
+</div>
+
 
 #### **NOTES**
 
