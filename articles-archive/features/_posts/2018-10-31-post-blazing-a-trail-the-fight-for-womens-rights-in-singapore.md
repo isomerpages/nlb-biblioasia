@@ -143,3 +143,17 @@ Rather than accept that women could only play supporting roles to men in society
 |Her involvement in the women’s movement in India culminated in her nomination in 1934 as the country’s representative at the All Asian Women’s Conference on women’s rights at the League of Nations in Geneva. In 1941, Fozdar delivered peace lectures to the riot-torn Indian city of Ahmedabad on the instructions of Mahatma Gandhi, leader of the Indian independence movement against British rule, who called her “his daughter”.
 
 |Fozdar passed away from cancer on 2 February 1992 in Singapore, leaving behind three sons and two daughters; her husband had died in 1958. Her personal collection comprising newspaper clippings, letters, correspondences, minutes of meetings, receipts and invoices are on loan to the National Library Board for digitisation by her son Jamshed. These are found in the library’s Jamshed & Parvati Fozdar Collection.
+
+<br>
+
+|**FOUR OBJECTIVES OF SCW**
+
+The SCW was a broad-based organisation with four main objectives:
+* affiliation with other women’s organisations in Singapore;
+* furthering the cultural, educational, economic, moral and social status of women in Singapore;
+* ensuring through legislation, if necessary, justice to all women and to further their welfare as embodied in the Declaration of Human Rights Charter;
+* facilitating and encouraging friendship, understanding and cooperation among women of all races, religions and nationalities in Singapore.
+
+|**REFERENCE**
+
+The Constitution of the SCW, Registrar of Societies, 1952.
