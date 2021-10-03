@@ -3,8 +3,8 @@ title: "Editor's Picks: Art"
 permalink: /editors-picks/art
 ---
 #### <a style="text-decoration: none" href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a>
-<img style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> <style>
-.responsive {max-width: 100%  height: auto;} </style> <p class="normal narrow">Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.  </p>
+<img style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> <style>.responsive {max-width: 100%  height: auto;} </style>
+<p class="normal narrow">Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.  </p>
 <br>
 <br>
 <hr>
