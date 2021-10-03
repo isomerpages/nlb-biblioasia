@@ -63,6 +63,9 @@ Many European firms took advantage of this situation by subcontracting to these 
 
 Alighting from his car on 31 March 1922 to the backdrop of curious onlookers at the Esplanade (now Padang) and a guard of honour consisting of 100 former servicemen, the Prince of Wales (later King Edward VIII) inspected this ceremonial guard before making his way to the foot of the war memorial, which was erected to honour 124 men from Singapore who had died in action in Europe during World War I. Delivering a speech extolling the virtues of bravery and sacrifice displayed by those men being commemorated, he proceeded to push a small button on the dais. With that action, a large Union Jack, fully draped over the structure, pulled away to reveal the new Cenotaph.[^15]
 
+<div style="background-color: white;">Unveiling of the Cenotaph on 31 March 1922, officiated by the Prince of Wales. It was erected to honour 124 men from Singapore who had died in action in Europe during World War I. The contractor who built it is Soh Mah Eng. <i>Courtesy of National Archives of Singapore.</i></div>
+
+
 Following a short dedication by the Bishop of Singapore and the sounding of the last post and reveille, the prince, accompanied by Governor of the Straits Settlements Laurence Guillemard, greeted the invited dignitaries, which included the monument’s lauded architect Denis Santry of architectural firm Swan & Maclaren. Among that gathered company of Singapore’s building fraternity was Soh Mah Eng (苏马英), the contractor for the monument. The prince cordially shook his hand and even offered a few words of gratitude.[^16] It was fitting recognition for this Hui’an native who had migrated to Singapore some 20 years earlier and subsequently through his company, Chin Hup Heng & Co., became a pioneer in the island’s infrastructure development.
 
 Modelled after the Whitehall Cenotaph in London, the 18-metre-tall Singapore Cenotaph, raised on a plinth, would be entirely constructed of local granite. Bronze tablets inscribed with the names of the fallen adorn its face.[^17] Given its national significance, the quality of its finish was expected to be of the highest standard. The British colonial government, well aware of Hui’an’s reputation with stone and already familiar with Soh’s earlier work on Anderson Bridge, appointed him as the builder to undertake the main building works. 
@@ -79,6 +82,12 @@ Among the most prominent in this group is Chia Eng Say (谢荣西). Born in 1881
 Chia owned several quarries in Bukit Timah, Mandai and Pulau Ubin. Granite extracted from Chia Eng Say Granite was used for the foundation of the Supreme Court building, the Naval Base at Sembawang as well as the Causeway, where he was a major subcontractor to Messrs Topham, Jones & Railton of London, which had been awarded the construction contract.[^19]
 
 Other notable projects to his name include the China Building (which became the headquarters of the Oversea-Chinese Banking Corporation after the merger of the Oversea-Chinese Bank and the Chinese Commercial Bank in 1932) on Chulia Street,[^20] along with numerous schools and private residential estates in both Singapore and Penang. Such was his prominence within the local construction industry that the track in Bukit Timah upon which his quarry was located would be named Chia Eng Say Road. (This road was later expunged but the name was subsequently resurrected; today Chia Eng Say Road lives on in Upper Bukit Timah, just fronting The Rail Mall.[^21]) 
+
+
+
+<div style="background-color: white;">The China Building on Chulia Street, 1964. It was built by Chia Eng Say and completed in 1932. It later served as the headquarters of the Oversea-Chinese Banking Corporation arising from a merger of the Oversea-Chinese Bank and the Chinese Commercial Bank. <i>Kouo Shang-Wei Collection, PictureSG, National Library, Singapore.</i></div>
+
+
 
 It was in education that Chia would make his most important contribution. In 1929, he was appointed as the main contractor for the Chinese Industrial and Commercial Continuation School 
 (南洋工商补习学校) on Outram Road at York Hill.[^22] A decade later, Chia would join with fellow philanthropists to build Chung Cheng High School on Kim Yan Road in 1939,[^23] making it one of the largest schools in Singapore and Malaya at the time. Sadly, on the final day of the Imperial Japanese Army’s invasion of Singapore in February 1942, Chia would be caught in a crossfire between Japanese and Australian troops along Geylang Lorong 31 and mortally wounded.[^24]
