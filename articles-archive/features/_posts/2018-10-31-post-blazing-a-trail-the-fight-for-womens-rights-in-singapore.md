@@ -6,7 +6,7 @@ layout: post
 ---
 #### The Singapore Council of Women was the city’s first female civil rights group that took bold steps to champion laws affecting women. **Phyllis Chew** documents its hard-won victories.
 
-<img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG">
 <div style="background-color: white;">In the 1959 Legislative Assembly general election, the People’s Action Party was the only political party to campaign openly on the “one man one wife” slogan. As voting had become compulsory by then, women came out in full force on polling day. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 “Forget for a time the rights and privileges which a dying custom and a faulty judgment bestows upon a selfish husband, and learn to think in terms of your duties as fathers. The destiny of millions of Chinese girls is in your hands. Deal with them as you would like your daughters to be dealt with”.[^1]
@@ -38,7 +38,7 @@ Accordingly, Fozdar called for the setting up of a new organisation that would u
 
 Taking advantage of the politically conducive climate, the SCW was inaugurated on 4 April 1952, barely five months after that first meeting mooted by Fozdar. The first executive committee (with Fozdar as Secretary-General and Choy as President) comprised mainly members drawn from the main women’s groups of the period, including the YWCA. Altogether there were seven Chinese, four Indians, two Malays, one Indonesian and one Briton – a composition that would not change much over the next 10 years. This racial mix in turn reflected the composition of the rank-and-file SCW membership; the majority were Chinese, followed by Malays, Indians, Eurasians and Europeans.
 
-<img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail4.JPG">
+<img style="width: 650px; height: 390px;" src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail4.JPG">
 <div style="background-color: white;">War heroine Elizabeth Choy (<i>in cheongsam</i>) was the president of the Singapore Council of Women’s Protem Committee (1951-1952). As president, she helped to unite the diverse women groups in Singapore. <i>Image reproduced from Lam, J.L., & Chew, P.G.L. (1993). Voices & Choices: The Women’s Movement in Singapore (p.116). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI)</i></div>
 
 #### **An International Sisterhood**
