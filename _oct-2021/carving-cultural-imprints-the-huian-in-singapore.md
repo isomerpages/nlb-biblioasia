@@ -127,6 +127,12 @@ Capitalising on the opportunity, Ho established his own construction company –
 As a main contractor, Ho’s most internationally recognised work was the Singapore Memorial at the Kranji War Cemetery. Officially unveiled on 
 2 March 1957 by the Singapore Governor Robert Black and attending international dignitaries, the event was broadcast throughout the Commonwealth to an extensive overseas audience.[^27] Designed by the British architect Colin St Clair Oakes, the memorial was built to resemble an aeroplane with its 22-metre central pylon and wing-shaped roof supported by 12 stone-clad pillars.[^28] The names of over 24,000 casualties without known graves are inscribed on the pillars. Memorial services are held at the cemetery every year on Remembrance Day (11 November), as well as ANZAC (Australian and New Zealand Army Corps) Day on 25 April.
 
+
+<div style="background-color: white;">Ho Bock Kee was a prominent name in the local construction industry. Among the many projects that his construction company handled include the Singapore Memorial at the Kranji War Cemetery in 1957 and the National Library building on Stamford Road in 1960. <i>Courtesy of the Ho Family.</i></div>
+
+
+ 
+
 #### Leaving a Legacy
 
 By the late 1980s, the Hui’an construction community in Singapore accounted for almost 50 enterprises, excluding those in the region. By now, the Hui An Association had expanded to include representation throughout most of Malaysia, Hong Kong, Taiwan, the Philippines, Indonesia and greater China. These pan-Asian cultural ties led to further opportunities for a new generation of industry pioneers. 
