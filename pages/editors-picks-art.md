@@ -4,7 +4,7 @@ permalink: /editors-picks/art
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a>
 <img style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
-<p class="word -break:break">Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.  </p>
+<p class="word-break:break">Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.  </p>
 <br>
 <br>
 <hr>
@@ -31,4 +31,4 @@ permalink: /editors-picks/art
  <hr>																																																											
 				
 #### [Stamford Raffles and the Two French Naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles)
-<img style="float:left; width:350px; height:auto; border:10px solid #FFFFFF" src="/images/Vol-16-issue-2/raffles/storkk.jpg">Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820. 
+<img style="float:left; width:350px; height:auto; border:10px solid #FFFFFF" src="/images/Vol-16-issue-2/raffles/storkk.jpg">Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
