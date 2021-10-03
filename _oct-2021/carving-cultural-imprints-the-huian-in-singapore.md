@@ -137,7 +137,10 @@ As a main contractor, Ho’s most internationally recognised work was the Singap
 <div style="background-color: white;">Ho Bock Kee was a prominent name in the local construction industry. Among the many projects that his construction company handled include the Singapore Memorial at the Kranji War Cemetery in 1957 and the National Library building on Stamford Road in 1960. <i>Courtesy of the Ho Family.</i></div>
 
 
- 
+<div style="background-color: white;">The Singapore Memorial with war graves of fallen servicemen at the Kranji War Cemetery, 1960s. The memorial was built by Ho Bock Kee’s construction company. <i>John C. Young Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+  
 
 #### Leaving a Legacy
 
