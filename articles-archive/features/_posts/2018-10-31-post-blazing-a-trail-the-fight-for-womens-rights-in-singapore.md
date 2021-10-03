@@ -7,7 +7,7 @@ layout: post
 #### The Singapore Council of Women was the city’s first female civil rights group that took bold steps to champion laws affecting women. **Phyllis Chew** documents its hard-won victories.
 
 <img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">In the 1959 Legislative Assembly general election, the People’s Action Party was the only political party to campaign openly on the “one man one wife” slogan. As voting had become compulsory by then, women came out in full force on polling day. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 <center>“Forget for a time the rights and privileges which a dying custom and a faulty judgment bestows upon a selfish husband, and learn to think in terms of your duties as fathers. The destiny of millions of Chinese girls is in your hands. Deal with them as you would like your daughters to be dealt with”.1</center>
 
@@ -117,3 +117,29 @@ Launched in 1956 under the leadership of Chan Choy Siong, a pioneer female polit
 The rally was held at four places simultaneously and attended by more than 2,000 people, most of whom were trade unionists and Chinese school students.33 Women leaders from all walks of life were invited to celebrate the occasion. The SCW’s representative was Shirin Fozdar, who urged the frenzied crowd to support the abolition of polygamy. On the same day, a resolution was passed by the Women’s League in support of the principle of monogamy (and subsequently moved during the PAP’s annual general meeting in 1957).
 
 Thus, the PAP became the only political party to campaign openly on the “one man one wife” slogan. The extent to which the adoption of women’s rights contributed to the PAP’s unexpected landslide victory in the 1959 general election that launched Singapore as a fully self-governing state should not be underestimated.34 Women came out in full force on polling day because voting was now compulsory. The party’s clear victory – it won 43 of the 51 seats contested – and its subsequent control of the Legislative Assembly meant that Singapore society was now prepared to accept the idea of civil rights for women. As a result, the long-drawn-out controversy over the issue of polygamy and child marriages finally came to an abrupt end.
+
+It took two years before the Legislative Assembly passed the Women’s Charter Bill on 24 May 1961 – with the ordinance coming into force on 15 September 1961 – finally bringing to a climax SCW’s decade-long fight for women’s rights. The Charter provided that the only form of marriage permitted would be monogamous, whether the rites were civil, Christian or customary. Women could now sue their husbands for adultery and bigamy, and receive both a fair hearing and justice under the law. The Charter strengthened the law relating to the registration of marriages and divorce, and the maintenance of wives and children, and also contained provisions regarding offences committed against women and girls.
+
+Although the Charter did not apply to Muslim women, its promulgation forced the Muslim community to look into ways of further improving the status of Muslim women through an amendment of the Muslim Ordinance of 1957. In 1960, the Muslim Syariah Court was empowered to order husbands to provide maintenance to their divorced wives until these women remarried or died. Getting divorced was no longer a simple process for Muslim men, and they were not allowed to take another wife if they were unable to show proof of their financial means. Although the SCW was unable to introduce monogamy in Muslim marriages, it was, nonetheless, able to limit the practice of polygamy.
+
+#### **The End of the Singapore Council of Women**
+
+Having achieved her mission, Shirin Fozdar left Singapore in 1961 to set up the Santhinam Girls’ school in Yasohorn, northeast Thailand, an impoverished area where rural girls would have opportunities to learn livelihood skills instead of resorting to prostitution.
+
+Deprived of Fodzar’s vision and dynamism, the SCW languished in the 1960s under a new political climate that saw grassroots organisations, such as the People’s Association, taking over many civic activities that were once left to NGOs. Eventually, left without a purpose and mission, the SCW was deregistered in 1971.
+
+The SCW’s legacy goes far beyond the successful lobbying that led to the Women’s Charter of 1961. It blazed an entirely new path for women after World War II, seeing women as being equal to men and lifting women’s groups in Singapore beyond fundraising, social networking and self-improvement courses.
+
+Rather than accept that women could only play supporting roles to men in society, the SCW confronted the injustices faced by all women in Singapore. From the outset, the SCW was single-minded in the pursuit of its goals, vociferous in its demands, wide-ranging in its call for reforms benefiting women, and forward-looking in its agenda. In short, the SCW was responsible for the awakening of Singapore women to a new consciousness of themselves as humans with a purpose and a goal.
+
+|**SHIRIN FOZDAR: FEMINIST EXTRAORDINAIRE**
+
+|Shirin Fozdar was born in 1905 in Bombay (now Mumbai), India, to Persian parents. She studied at a Parsi school in Bombay and then at St Joseph’s Convent in Panchgani, Maharashtra. After graduating from Elphinstone College, she enrolled at the Royal Institute of Science (both in Mumbai) to study dentistry, where she met her husband, Khodadad Muncherjee Fozdar, a doctor. When the couple arrived in Singapore in 1950, polygamy was a common and accepted practice.
+
+|As Secretary-General of the Singapore Council of Women between 1952 and 1961, Fozdar was the “brains” and public face of the women’s rights group. Inspired by the Baha’i principle that men and women are equal in status, Fozdar had begun the fight for the emancipation of women in India when she was just a teenager.
+
+<img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail3.JPG">Shirin Fozdar was the Secretary-General of the Singapore Council of Women between 1952 and 1961. Strongly believing that women are equal to men, she had begun the fight for the emancipation of women in India when she was just a teenager. <i>Image reproduced from Ong, R. (2000). Shirin Fozdar: Asia’s Foremost Feminist (cover). Singapore: Rose Ong. (Call no.: RSING 297.93092 ONG).</i></div>
+
+|Her involvement in the women’s movement in India culminated in her nomination in 1934 as the country’s representative at the All Asian Women’s Conference on women’s rights at the League of Nations in Geneva. In 1941, Fozdar delivered peace lectures to the riot-torn Indian city of Ahmedabad on the instructions of Mahatma Gandhi, leader of the Indian independence movement against British rule, who called her “his daughter”.
+
+|Fozdar passed away from cancer on 2 February 1992 in Singapore, leaving behind three sons and two daughters; her husband had died in 1958. Her personal collection comprising newspaper clippings, letters, correspondences, minutes of meetings, receipts and invoices are on loan to the National Library Board for digitisation by her son Jamshed. These are found in the library’s Jamshed & Parvati Fozdar Collection.
