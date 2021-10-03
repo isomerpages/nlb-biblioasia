@@ -18,14 +18,12 @@ permalink: /editors-picks/art
 #### [A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/malayan-fruits)
 <img src="/images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg" style="float:left; width:500px; height:auto; border:10px solid #FFFFFF">Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery.<br>
 <br>
-
- <hr>
+<hr>
 
 #### [Malay Seals from Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/malay-seals)
 
 <img src="/images/Vol-16-issue-1/malay-seals/sultan-ali.png" style="float:left; width:300px; height:auto;">	Malay seals of the 19th century hold important information, says Annabel Teh Gallop.<br>
 <br>										
-
 <br>
  <hr>																																																											
 				
