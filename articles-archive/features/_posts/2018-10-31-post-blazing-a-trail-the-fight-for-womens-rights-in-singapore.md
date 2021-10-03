@@ -187,3 +187,17 @@ Rather than accept that women could only play supporting roles to men in society
 [^18]:See Appendix A in Chew, P.G.L. (1994, March). The Singapore Council of Women and the women’s movement. *Journal of Southeast Asian Studies, 25* (1), 112–140, p. 139.
 [^19]:Minutes of the SCW, 5 January 1954.
 [^20]:SCW to the Governor-in-Council, 3 June 1957.
+[^21]:House of Commons, Reply from Hopkinson to Awbery, 27 January 1954; Letter of Awberry to SCW, 21 January 1954.
+[^22]:Minutes of the SCW, 6 August 1953; SCW to MAB, 14 December 1953 and 19 March 1954; MAB to SCW, 18 December 1953.
+[^23]:Handbill distributed by the SCW, c. December 1953/January 1954. See also Minutes of SCW, 8 January 1954, 12 January 1954 and 9 February 1954.
+[^24]:SCW to President Nasser of Egypt, 8 September 1955.
+[^25]:*Borneo Bulletin*, 19 March 1954; *The Malay Mail*, 23 May 1955; *The Straits Times*, 20 April 1958; *The Malay Mail*, 25 July 1960.
+[^26]:*The Straits Times*, 5 February 1958; *The Weekender*, 7 March 1958.
+[^27]:*The Malay Mail*, 25 April 1958.
+[^28]:*The Malay Mail*, 30 May 1955.
+[^29]:*The Straits Times*, 7 June 1958.
+[^30]:*The Malay Mail*, 9 July 1955; *The Weekender*, 4 November 1955.
+[^31]:
+[^32]:
+[^33]:
+[^34]:
