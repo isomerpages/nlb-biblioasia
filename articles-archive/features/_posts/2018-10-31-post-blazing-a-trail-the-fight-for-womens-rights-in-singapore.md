@@ -197,7 +197,7 @@ Rather than accept that women could only play supporting roles to men in society
 [^28]:*The Malay Mail*, 30 May 1955.
 [^29]:*The Straits Times*, 7 June 1958.
 [^30]:*The Malay Mail*, 9 July 1955; *The Weekender*, 4 November 1955.
-[^31]:
-[^32]:
-[^33]:
-[^34]:
+[^31]:J.M. Jumabhoy to Shirin Fozdar. 26 April 1958; Chief Minister Lim Yew Hock to Shirin Fozdar, 22 March 1956; SCW to Chief Minister Lim Yew Hock, 3 February 1958; SCW to Chief Minister Lim Yew Hock, 6 July 1955; See also *The Malay Mail*, 9 July 1955.
+[^32]:Interviews with Dr Toh Chin Chye, 27 January 1993; and S. Rajaratnam, 1 February 1993.
+[^33]:*The Straits Times*, 9 March 1956.
+[^34]:Interview with Ong Pang Boon, 27 January 1993.
