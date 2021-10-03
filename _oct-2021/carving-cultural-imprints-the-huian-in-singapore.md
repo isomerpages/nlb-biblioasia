@@ -150,40 +150,27 @@ The images carved on the stone wall and the memories they recall of the homeland
 
 [^20]: Completed in 1932, the five-storey China Building was one of the most recognisable landmarks in the business district with its distinctive pagoda-stye roof. It was designed by international architectural firm Keys and Dowdeswell, which operated out of Shanghai, China. The firm was named after British architects Major P. Hubert Keys and Frank Dowdeswell. See “[New Bank Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290701-1.2.11),” *Singapore Free Press and Mercantile Advertiser*, 1 July 1929, 4. (From NewspaperSG)
 
-[^21]: Located near the former Keretapi Tanah Melayu (KTM) Railway truss bridge along Upper Bukit Timah Road, Chia Eng Say Quarry is now a lake known as Singapore Quarry within Bukit Timah Nature Reserve. Chia Eng Say Road, which ran parallel to the KTM Railway line, was a private road built by the quarry company to gain access to their quarrying operations. The road also ran through a Chinese kampong called Kampong Chia Eng Say. See 柯木林 [Ke Mulin; Kua Bak Lim], “敢问路在何方?” [“Who Dares to Ask Where the Road Is?”], *联合早报 [Lianhe Zaobao]*, 18 August 2012, 20. (From NewspaperSG); Victor R. Savage and Brenda S.A. Yeoh, *Singapore Street Names: A Study of Toponymics* (Singapore: Marshall Cavendish Editions, 2013), 74. (From National Library, Singapore, Call no. RSING 915.9570014 SAV-[TRA])
+[^21]: Located near the former Keretapi Tanah Melayu (KTM) Railway truss bridge along Upper Bukit Timah Road, Chia Eng Say Quarry is now a lake known as Singapore Quarry within Bukit Timah Nature Reserve. Chia Eng Say Road, which ran parallel to the KTM Railway line, was a private road built by the quarry company to gain access to their quarrying operations. The road also ran through a Chinese kampong called Kampong Chia Eng Say. See 柯木林 [Ke Mulin; Kua Bak Lim], “[敢问路在何方?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20120818-1.2.28.3)” [“Who Dares to Ask Where the Road Is?”], *联合早报 [Lianhe Zaobao]*, 18 August 2012, 20. (From NewspaperSG); Victor R. Savage and Brenda S.A. Yeoh, *[Singapore Street Names: A Study of Toponymics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850)* (Singapore: Marshall Cavendish Editions, 2013), 74. (From National Library, Singapore, Call no. RSING 915.9570014 SAV-[TRA])
 
 
-[^22]: 
-
-[^23]: 
-
-[^24]: 
+[^22]: Established in1920 by Mr Shi Su, the Chinese Industrial and Commercial Continuation School started out as an evening Chinese school for working adults on Tanjong Pagar Road. It moved to Enggor Street in 1920 and then to York Hill in 1929. The school closed in 1985 and reopened as Gongshang Primary School, currently located in Tampines. See also 
+“[工商補習學校建校募捐之第一日](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19290221-1.2.11),” *南洋商报 [Nanyang Siang Pau]*, 21 February 1929, 4. (From NewspaperSG). 
 
 
-[^25]: 
+[^23]: The first principal of Chung Cheng High School was Chuang Chu Lin (庄竹林; Zhuang Zhulin) (1930–57), who was also a Hui’an native. The school moved to larger premises on Goodman Road in 1947 and was renamed Chung Cheng High School (Main). The original campus on Kim Yan Road became Chung Cheng High School (Branch) and has since moved to Yishun. 
 
-[^26]: 
 
-[^27]: 
+[^24]: 莫美颜 [Mo Meiyan], “若有来世还要做他女儿 庄曼娜忆父亲庄竹林” [“If There is an Afterlife She Will Still Want to be His Daughter, Zhuang Manna Recalls Her Father Zhuang Zhulin”], 新加坡新闻头条, 5 February 2020, https://toutiaosg.com/若有来世还要做他女儿——庄曼娜忆.
 
-[^28]: 
 
-[^29]: 
 
-[^30]: 
+[^25]: Joseph Chia, online conversations, 25 June 2021.
 
-[^31]: 
 
-[^32]: 
+[^26]: “[Big Singapore Military Hospital](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380807-1.2.120.aspx),” *Straits Times*, 7 August 1938, 17; “[New Singapore Military Hospital](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390129-1.2.97.aspx),” *Straits Times*, 29 January 1939, 12. (From NewspaperSG)
 
-[^33]: 
 
-[^34]: 
+[^27]: Athanasios Tsakonas, *[In Honour of War Heroes: Colin St Clair Oakes and the Design of Kranji War Memorial](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204468661)* (Singapore: Marshall Cavendish Editions, 2020), 184–86. (From National Library, Singapore, Call no. RSING 725.94095957 TSA)
 
-[^35]: 
 
-[^36]: 
-
-[^37]: 
-
-[^38]:
+[^28]: Colin St Clair Oakes also designed Kanchanaburi War Cemetery and Chungkai War Cemetery, both in Thailand; Rangoon War Cemetery in Burma; Imphal War Cemetery in India; Sai Wan Bay Cemetery in Hong Kong; and Chittagong War Cemetery in Bangladesh. See Athanasios Tsakonas, “In Honour of War Heroes: The Legacy of Colin St Clair Oakes,” BiblioAsia 14, no. 3 (Oct–Dec 2018), [https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/.](https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/)
