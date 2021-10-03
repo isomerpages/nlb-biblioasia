@@ -148,7 +148,7 @@ Rather than accept that women could only play supporting roles to men in society
 
 |**FOUR OBJECTIVES OF SCW**
 
-The SCW was a broad-based organisation with four main objectives:
+|The SCW was a broad-based organisation with four main objectives:
 * affiliation with other women’s organisations in Singapore;
 * furthering the cultural, educational, economic, moral and social status of women in Singapore;
 * ensuring through legislation, if necessary, justice to all women and to further their welfare as embodied in the Declaration of Human Rights Charter;
@@ -156,7 +156,7 @@ The SCW was a broad-based organisation with four main objectives:
 
 |**REFERENCE**
 
-The Constitution of the SCW, Registrar of Societies, 1952.
+|The Constitution of the SCW, Registrar of Societies, 1952.
 
 <br>
 <div style="background-color: white;">
