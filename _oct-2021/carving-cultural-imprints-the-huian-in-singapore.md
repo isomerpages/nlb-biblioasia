@@ -105,6 +105,10 @@ Unfortunately, Chia’s ability to write letters and maintain accounts also beca
 
 Eventually branching off, he became a contractor for the Public Works Department. The younger Chia’s added engineering skills saw him involved in numerous heavy infrastructure projects for the British authorities. These include the levelling of Kampong Silat Hill for the Singapore Improvement Trust’s housing development scheme in 1948, and the new taxiways and extension of the runway at Kallang Airport a year later. His most significant accomplishment, though, and that which accorded him the most professional recognition within the industry occurred just prior to World War II. 
 
+
+<div style="background-color: white;">Chia Lay Phor being congratulated by Colonial Secretary Patrick A.B McKerron upon the completion of the Kallang Airport runways extension, 1949. <i>Courtesy of Joseph Chia.</i></div>
+
+
 Between 1937 and 1940, while still working for his uncle, Chia Lay Phor oversaw his largest and most extensive construction project: building the 356-bed British Military Hospital (now Alexandra Hospital). Chia Eng Kee Chan had been appointed as the main subcontractor for Dobb & Co. and the War Department. The hospital was equipped with medical, surgical and officer wards as well as ancillary buildings comprising a barracks block, a laboratory, a mortuary and living quarters for staff and their families.[^26]
 
 #### Ho Bock Kee
