@@ -177,21 +177,13 @@ Rather than accept that women could only play supporting roles to men in society
 [^8]:SCW to Indonesian Women’s Association, Djarkarta, 26 December 1953.
 [^9]:Minutes of the SCW, 30 July 1958.
 [^10]:Annual report of the SCW, 1954 and 1960; *The Sunday Times*, 17 August 1958; *The Singapore Free Press*, 8 August 1959; *The Straits Times*, 10 August 1959; *The Sunday Times*, 6 September 1959, *The Straits Times*, 8 September 1959.
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^20]:
-
-
-
-
-
-
-
-
+[^11]:*The Sunday Times*, 17 August 1958; Minutes of the SCW 1 June 1957, 18 November 1957 and 19 March 1958.
+[^12]:SCW to Minister for Labour and Welfare, 16 September 1957; Minister for Labour and Welfare to SCW, 25 September 1957. See also Lai, A.E. (1986). [*Peasants, proletarians and prostitutes: A preliminary investigation into the work of Chinese women in colonial Malaya*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4363498) (pp. viii, 115). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 331.409595104 LAI)
+[^13]:*The Straits Times*, 29 April 1952; *The Straits Times*, 2 March 1952; *The Straits Times*, 6 August 1957; *The Singapore Free Press*, 30 August 1957; *The Straits Times*, 26 July 1958; *The Singapore Free Press*, 15 October 1959; *The Sunday Times*, 2 August 1959; see also Rev S.M. Thevathasan to SCW, 27 February 1952 and Methodist Fellowship Group to SCW, n.d.
+[^14]:Muriel Blythe to the SCW, 17 February 1953; *The Straits Times*, 2 April 1953; *The Singapore Free Press*, 16 February 1953; *The Straits Times*, 20 February 1953; Minutes of the SCW, 19 September 1953, 20 October 1953 and 16 September 1957.
+[^15]:Lee Seng Gee to SCW, 2 July 1952; Dunlop Rubber to SCW, 3 July 1952; Malayan Breweries to SCW, 14 July 1952.
+[^16]:*The Singapore Free Press*, 30 July 1958; Minutes of the SCW, 16 October 1957, 18 November 1957 and 3 January 1958.
+[^17]:Interview with Mrs Robert Eu, 11 November 1992.
+[^18]:See Appendix A in Chew, P.G.L. (1994, March). The Singapore Council of Women and the women’s movement. *Journal of Southeast Asian Studies, 25* (1), 112–140, p. 139.
+[^19]:Minutes of the SCW, 5 January 1954.
+[^20]:SCW to the Governor-in-Council, 3 June 1957.
