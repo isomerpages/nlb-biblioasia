@@ -158,7 +158,7 @@ State controls and the exposure to Western education further put paid to the ser
 
 |Gerrard, P.N. (1905). [*A vocabulary of Malay medical terms* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5454824)(p. 24). Singapore: Kelly & Walsh. (Call no.: RRARE 610.39928 GER; Microfilm no.: NL27512)
 
-|Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (pp. 424–425). London: Macmillan and Co., Limited. (Retrieved from BookSG; Accession no.: B02930611K).
+|Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (pp. 424–425). London: Macmillan and Co., Limited. (Retrieved from BookSG; Accession no.: B02930611K)
 
 |Wilkinson, R.J. (1908–10). *Papers on Malay subjects. [First series, 4], Life and customs* (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Microfilm no.: NL263).
 </div>
