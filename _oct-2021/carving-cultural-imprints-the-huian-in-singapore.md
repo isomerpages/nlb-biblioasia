@@ -51,6 +51,11 @@ Following the arrival of Stamford Raffles in 1819 and the establishment of a Bri
 
 Arriving later, along with migrant groups from Fuzhou, Putian and Fuqing, the people from Hui’an would find that what profitable industries were available in Singapore had already been taken up by others so they initially settled as coolies (indentured labourers)[^11] doing back-breaking work. Those who came from coastal northern Hui’an and were accustomed to the sea and fishing, made their home on large bumboats by the Singapore, Rochor and Kallang rivers, navigating between them and the coast for their livelihoods.[^12] Others worked as rickshaw pullers or as labourers in the construction, mining and agriculture sectors in exchange for three meals a day. 
 
+
+<div style="background-color: white;">Hui’an women, in traditional clothing, removing bits of seaweed, shells and other remnants of the day’s haul from fishing nets hung out to dry. The nets would be mended before the next day’s catch. <i>Photo courtesy of Jimmy Yap.</i></div>
+
+ 
+
 Before the Hui An Association was founded in Singapore in 1924, early Hui’an immigrants sought out and received help from their fellow clansmen who had arrived before them. Their most pressing needs were finding accommodation and employment. Most lived in shophouses in the Tanjong Pagar area comprising Craig Road, Tras Street, Duxton Hill and Duxton Road in lodgings known colloquially as *coolie keng* 
 (估里间; *gu li jian*). Here, dozens of men would be crammed into tiny, compartmentalised and windowless  rooms – most without running water or proper sanitation – sleeping on tiered wooden bunk beds that were also shared. Despite the deplorable living conditions, these lodgings kept the new migrants together and afforded them some form of protection.
 
