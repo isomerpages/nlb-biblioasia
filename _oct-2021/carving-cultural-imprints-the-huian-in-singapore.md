@@ -163,11 +163,8 @@ The images carved on the stone wall and the memories they recall of the homeland
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author acknowledges the generous research and translation assistance from Joseph Chia (谢福崧) and Teo Seng Yeong (张成雄) of the Singapore Hui An Association, Fiona Lim and Yoke Lin Wong.</div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">Athanasios Tsakonas’s book, In Honour of War Heroes: Colin St Clair Oakes and the Design of Kranji War Memorial, was published by Marshall Cavendish Editions in 2020. Containing photographs, maps and architectural plans, the publication draws on extensive archival research and interviews conducted in Europe, Australia and Asia.
-
- 
-
-The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 725.94095957 TSA and RSING 725.94095957 TSA](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204468661)). It also retails at major bookshops in Singapore.
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">Athanasios Tsakonas’s book, In Honour of War Heroes: Colin St Clair Oakes and the Design of Kranji War Memorial, was published by Marshall Cavendish Editions in 2020. Containing photographs, maps and architectural plans, the publication draws on extensive archival research and interviews conducted in Europe, Australia and Asia.<br><br>
+The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204468661">Call nos.: RSING 725.94095957 TSA and RSING 725.94095957 TSA</a>). It also retails at major bookshops in Singapore.
 	</div>
 
 <div style="background-color: white;">
