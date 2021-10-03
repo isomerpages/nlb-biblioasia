@@ -13,10 +13,12 @@ permalink: /editors-picks/art
 <img src="/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg"  style="float:left; width:400px;height:auto; border:10px solid #FFFFFF"> Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works.
 <br>
 <br>
+<br>
 <hr>
 
 #### [A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/malayan-fruits)
 <img src="/images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg" style="float:left; width:500px; height:auto; border:10px solid #FFFFFF">Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery.<br>
+<br>
 <br>
 <hr>
 
@@ -24,6 +26,7 @@ permalink: /editors-picks/art
 
 <img src="/images/Vol-16-issue-1/malay-seals/sultan-ali.png" style="float:left; width:300px; height:auto;">	Malay seals of the 19th century hold important information, says Annabel Teh Gallop.<br>
 <br>										
+<br>
 <br>
  <hr>																																																											
 				
