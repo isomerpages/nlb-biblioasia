@@ -2,7 +2,7 @@
 title: "Carving Cultural Imprints: The Hui'an in Singapore"
 permalink: /vol-17/issue-3/oct-dec-2021/huianinsingapore
 ---
-#### A group of contractors from Hui’an county in China were responsible for building some of Singapore’s iconic landmarks. **Athanasios Tsakona**s has the story.
+#### A group of contractors from Hui’an county in China were responsible for building some of Singapore’s iconic landmarks. **Athanasios Tsakonas** has the story.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/Facing%20Page.jpg)
 <div style="background-color: white;">A granite stone wall adorns the premises of the Singapore Hui An Association in Geylang. Taking centre stage on the wall is an image of a man and woman grappling with a woven basket brimming with fish, against a background of traditional Fujian junks and a radiating sun. <i>Photo courtesy of Jimmy Yap.</i></div>
@@ -56,12 +56,7 @@ Both raw stone and carved slabs for tombstones, graves and temples also made the
 
 Following the arrival of Stamford Raffles in 1819 and the establishment of a British trading port thereafter, the early Chinese migration to Singapore was predominantly drawn from the Straits areas and southern China.[^10] Significant migration from Quanzhou would only commence from the late 19th through to the beginning of the 20th centuries. 
 
-Arriving later, along with migrant groups from Fuzhou, Putian and Fuqing, the people from Hui’an would find that what profitable industries were available in Singapore had already been taken up by others so they initially settled as coolies (indentured labourers)[^11] doing back-breaking work. Those who came from coastal northern Hui’an and were accustomed to the sea and fishing, made their home on large bumboats by the Singapore, Rochor and Kallang rivers, navigating between them and the coast for their livelihoods.[^12] Others worked as rickshaw pullers or as labourers in the construction, mining and agriculture sectors in exchange for three meals a day. 
-
-![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/Huian%20Women.jpg)
-<div style="background-color: white;">Hui’an women, in traditional clothing, removing bits of seaweed, shells and other remnants of the day’s haul from fishing nets hung out to dry. The nets would be mended before the next day’s catch. <i>Photo courtesy of Jimmy Yap.</i></div>
-
- 
+Arriving later, along with migrant groups from Fuzhou, Putian and Fuqing, the people from Hui’an would find that what profitable industries were available in Singapore had already been taken up by others so they initially settled as coolies (indentured labourers)[^11] doing back-breaking work. Those who came from coastal northern Hui’an and were accustomed to the sea and fishing, made their home on large bumboats by the Singapore, Rochor and Kallang rivers, navigating between them and the coast for their livelihoods.[^12] Others worked as rickshaw pullers or as labourers in the construction, mining and agriculture sectors in exchange for three meals a day.  
 
 Before the Hui An Association was founded in Singapore in 1924, early Hui’an immigrants sought out and received help from their fellow clansmen who had arrived before them. Their most pressing needs were finding accommodation and employment. Most lived in shophouses in the Tanjong Pagar area comprising Craig Road, Tras Street, Duxton Hill and Duxton Road in lodgings known colloquially as *coolie keng* 
 (估里间; *gu li jian*). Here, dozens of men would be crammed into tiny, compartmentalised and windowless  rooms – most without running water or proper sanitation – sleeping on tiered wooden bunk beds that were also shared. Despite the deplorable living conditions, these lodgings kept the new migrants together and afforded them some form of protection.
@@ -160,6 +155,9 @@ As a main contractor, Ho’s most internationally recognised work was the Singap
 By the late 1980s, the Hui’an construction community in Singapore accounted for almost 50 enterprises, excluding those in the region. By now, the Hui An Association had expanded to include representation throughout most of Malaysia, Hong Kong, Taiwan, the Philippines, Indonesia and greater China. These pan-Asian cultural ties led to further opportunities for a new generation of industry pioneers. 
 
 This story of the enterprising and intrepid Hui’an people and their contributions both within and outside China is an inspiring one. It was with this in mind that the sculptured wall fronting the Singapore Hui An Association at  Lorong 29 Geylang was commissioned. It is both an icon of the success that Hui’an immigrants have achieved overseas as well as an enduring symbol of their contributions to the Chinese homeland – as evidenced by depictions of the aforementioned Fujian Hui’an Kai Cheng Vocational Secondary School and East Hui’an Overseas Chinese Hospital.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/Huian%20Women.jpg)
+<div style="background-color: white;">Hui’an women, in traditional clothing, removing bits of seaweed, shells and other remnants of the day’s haul from fishing nets hung out to dry. The nets would be mended before the next day’s catch. <i>Photo courtesy of Jimmy Yap.</i></div>
 
 The images carved on the stone wall and the memories they recall of the homeland also serve another purpose, as captured by the Greek word *nostos*, which means “homecoming”. In ancient Greek literature, it describes an epic hero returning home by sea. The term − first recounted in Homer’s *The Odyssey* − refers not merely to the physical return of the hero but to his elevated identity and status upon arriving home. In a similar way, the Hui’an stone frieze depicts the journey of an enlightened culture to Southeast Asia and its eventual return back home.
 
