@@ -294,62 +294,62 @@ Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresource
 
 #### **NOTES**
 
-[^1]: All kinds of everything along walkways of old. (1987, March 16). The Straits Times, p. 26. Retrieved from NewspaperSG.
+[^1]: [All kinds of everything along walkways of old](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870316-1.2.59.34.1). (1987, March 16). The Straits Times, p. 26. Retrieved from NewspaperSG.
 
-[^2]: Naidu, R.T. (2016). Five-foot-way traders. Retrieved from Singapore Infopedia, National Library Singapore.
+[^2]: Naidu, R.T. (2016). *[Five-foot-way traders](https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-[^3]: Sullivan, M. (1985). “Can survive, la”: Cottage industries in high-rise Singapore (p. 14). Singapore: G. Brash. (Call no.: RSING 338.634095957 SUL)
+[^3]: Sullivan, M. (1985). *[“Can survive, la”: Cottage industries in high-rise Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082532)* (p. 14). Singapore: G. Brash. (Call no.: RSING 338.634095957 SUL)
 
-[^4]: Sullivan, 1985, p. 15.
+[^4]: [Sullivan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082532), 1985, p. 15.
 
-[^5]: Sullivan, 1985, p. 26.
+[^5]: [Sullivan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082532), 1985, p. 26.
 
-[^6]: Naidu, R.T. (2018, July). Traditional cobblers. Retrieved from Singapore Infopedia, National Library Singapore.
+[^6]: Naidu, R.T. (2018, July). *[Traditional cobblers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_143_2004-12-14.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-[^7]: National Heritage Board. (2013). Heritage along footpaths: Community Heritage series IV (pp. 4–5). Retrieved from National Heritage Board website; Naidu, Jul 2018. 
+[^7]: National Heritage Board. (2013). <i>Heritage along footpaths: Community Heritage series IV</i> (pp. 4–5). Retrieved from National Heritage Board website; [Naidu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_143_2004-12-14.html), Jul 2018. 
 
-[^8]: National Heritage Board, 2013, pp. 8–10; Naidu, R.T. (2017). Parrot astrologers. Retrieved from Singapore Infopedia, National Library Singapore; Lo-Ang, S.G., & Chua, C.H. (Eds.). (1992). Vanishing trades of Singapore (pp. 60–64). Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
+[^8]: National Heritage Board, 2013, pp. 8–10; Naidu, R.T. (2017). *[Parrot astrologers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_602_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore; Lo-Ang, S.G., & Chua, C.H. (Eds.). (1992). *[Vanishing trades of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327)* (pp. 60–64). Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
 
 [^9]: National Heritage Board, 2013, pp. 12–14.
 
-[^10]: Lin, Z. (2005, May 21). Sell kachang puteh it’s a tough nut to crack. The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+[^10]: Lin, Z. (2005, May 21). Sell kachang puteh it’s a tough nut to crack. <i>The Straits Times</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^11]: The Straits Times, 21 May 2005.
+[^11]: <i>The Straits Times</i>, 21 May 2005.
 
 [^12]: National Heritage Board, 2013, pp. 16–18.
 
-[^13]: Lo-Ang & Chua, 1992, p. 36. 
+[^13]: [Lo-Ang & Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327), 1992, p. 36. 
 
-[^14]: Lo-Ang & Chua, 1992, pp. 35–37.
+[^14]: [Lo-Ang & Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327), 1992, pp. 35–37.
 
 [^15]: National Heritage Board, 2013, pp. 20–22.
 
-[^16]: National Library Board. (2013). Singapore memory portal. Retrieved from Singapore memory.sg website.
+[^16]: National Library Board. (2013). <i>Singapore memory portal</i>. Retrieved from Singapore memory.sg website.
 
-[^17]: Ghetto Singapore. (2013). Vanishing trades of Singapore. Retrieved from ghettosingapore website; Lim, J. (2013, March 15). Trading stories with six tradesmen. Retrieved from The Long and Winding Road website; The vanishing trade: Trishaws in Singapore. (2010, May 17). Retrieved from sgtrishaws.wordpress.com website; Teo, J. (2013). Vanishing trades/scenes in Singapore. Retrieved from pinterest.com wesbite; Vanishing Trades. (1999). Retrieved from ThinkQuest Library website. 
+[^17]: Ghetto Singapore. (2013). <i>Vanishing trades of Singapore</i>. Retrieved from ghettosingapore website; Lim, J. (2013, March 15). <i>Trading stories with six tradesmen</i>. Retrieved from The Long and Winding Road website; <i>The vanishing trade: Trishaws in Singapore</i>. (2010, May 17). Retrieved from sgtrishaws.wordpress.com website; Teo, J. (2013). <i>Vanishing trades/scenes in Singapore</i>. Retrieved from pinterest.com wesbite; <i>Vanishing Trades</i>. (1999). Retrieved from ThinkQuest Library website. 
 
-[^18]: Ng, S., & Yeo, J. (2012). Lost arts of The Republic of Singapore. Retrieved from flickr.com website. 
+[^18]: Ng, S., & Yeo, J. (2012). <i>Lost arts of The Republic of Singapore</i>. Retrieved from flickr.com website. 
 
-[^19]: Nathan, D. (1990, March 12). Indian heritage to go on show at Indian village in two weeks. The Straits Times, p. 19; Lim, P., & Lim, S.T. (1982, June 6). Glimpses into trades and tidbits of bygone days. The Straits Times, p. 7; Craftsman behind another vanishing trade…. (1977, November 19). The Straits Times, p. 7; Sim, G. (2004, April 12). Chinatown nightlife to return. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^19]: Nathan, D. (1990, March 12). [Indian heritage to go on show at Indian village in two weeks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900312-1.2.30.8). <i>The Straits Times</i>, p. 19; Lim, P., & Lim, S.T. (1982, June 6). [Glimpses into trades and tidbits of bygone days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820606-1.2.21). <i>The Straits Times</i>, p. 7; [Craftsman behind another vanishing trade….](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771119-1.2.27) (1977, November 19). <i>The Straits Times</i>, p. 7; Sim, G. (2004, April 12). [Chinatown nightlife to return](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040412-1.2.24.3). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
-[^20]: Toh, K. (2011, September 11). Keeping alive a vanishing trade. The Straits Times, pp. 16–17. Retrieved from NewspaperSG.
+[^20]: Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110911-1.2.11.15). <i>The Straits Times</i>, pp. 16–17. Retrieved from NewspaperSG.
 
-[^21]: National Heritage Board. (2013). Exhibitions: Trading stories: Conversations with six pioneering tradesmen. Retrieved from National Heritage Board website. 
+[^21]: National Heritage Board. (2013). <i>Exhibitions: Trading stories: Conversations with six pioneering tradesmen</i>. Retrieved from National Heritage Board website. 
 
-[^22]: Sng, M. (2002, June 30). She chews, she bites, she scores. The Straits Times, p. 18. Retrieved from NewspaperSG.
+[^22]: Sng, M. (2002, June 30). [She chews, she bites, she scores](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020630-1.2.59.12). <i>The Straits Times</i>, p. 18. Retrieved from NewspaperSG.
 
-[^23]: Vanishing trades: How do they fare? (1983, March 5). Singapore Monitor, p. 21. Retrieved from NewspaperSG.
+[^23]: [Vanishing trades: How do they fare?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830305-1.2.34.2) (1983, March 5). <i>Singapore Monitor</i>, p. 21. Retrieved from NewspaperSG.
 
-[^24]: Mediacorp. (2013). My grand partner – Webisode 11 – shoe makers and pen repairing. Retrieved from xin,msn.com website.
+[^24]: Mediacorp. (2013). <i>My grand partner – Webisode 11 – shoe makers and pen repairing</i>. Retrieved from xin,msn.com website.
 
-[^25]: All kinds of everything along walkways of old. (1987, March 16). The Straits Times, p. 26. Retrieved from NewspaperSG.
+[^25]: [All kinds of everything along walkways of old](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870316-1.2.59.34.1). (1987, March 16). <i>The Straits Times</i>, p. 26. Retrieved from NewspaperSG.
 
-[^26]: Ministry of Defence. (2013). Vanishing trades in Singapore. This three minute video features the Wah Keow Hair Salon, located in Joo Chiat. The family-owned salon opened in 1954 and has been in operation for 59 years. This entry won the Jury’s Choice (Open Category) Best Editing award in the 2013 ciNE65 Season II competition.
+[^26]: Ministry of Defence. (2013). <i>Vanishing trades in Singapore</i>. This three minute video features the Wah Keow Hair Salon, located in Joo Chiat. The family-owned salon opened in 1954 and has been in operation for 59 years. This entry won the Jury’s Choice (Open Category) Best Editing award in the 2013 ciNE65 Season II competition.
 
-[^27]: Craftsman behind another vanishing trade…. (1977, November 19). The Straits Times, p. 7. Retrieved from NewspaprSG.
+[^27]: [Craftsman behind another vanishing trade…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771119-1.2.27). (1977, November 19). <i>The Straits Times</i>, p. 7. Retrieved from NewspaprSG.
 
-[^28]: Ho, S.B. (1996, February 8). Old trades a new hit in phone-card series. The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^28]: Ho, S.B. (1996, February 8). [Old trades a new hit in phone-card series](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960208-1.2.79.7.4). <i>The Straits Times</i>, p. 15. Retrieved from NewspaperSG.
 
-[^29]: Vanishing trades MRT cards. (1997, June 29). The Straits Times, p. 28. Retrieved from NewspaperSG.
+[^29]: [Vanishing trades MRT cards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970629-1.2.40.7.3). (1997, June 29). <i>The Straits Times</i>, p. 28. Retrieved from NewspaperSG.
 
-[^30]: Gee, J. (2008, January 15). The samsui women of today. The Straits Times, p. 22. Retrieved from NewspaperSG.
+[^30]: Gee, J. (2008, January 15). [The samsui women of today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080115-2.2.32.4). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
