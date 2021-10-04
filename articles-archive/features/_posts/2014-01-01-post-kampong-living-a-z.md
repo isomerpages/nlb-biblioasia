@@ -317,55 +317,55 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^16]: Lee, A. (1985, October 13). [From kampong girl to a flat-dweller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851013-1.2.65.31.7). The Straits Times, p. 36. Retrieved from NewspaperSG.
 
-[^17]: Salmah Semono. (1979, March 4). Pemainan masa lalu jalin ikatan kejiranan. Berita Harian, p. 4. Retrieved from NewspaperSG.
+[^17]: Salmah Semono. (1979, March 4). [Pemainan masa lalu jalin ikatan kejiranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19790304-1.2.23). Berita Harian, p. 4. Retrieved from NewspaperSG.
 
-[^18]: Chew, D. (Interviewer). (1985, February 15). Oral history interview with Ronald Benjamin Milne [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
+[^18]: Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
 
-[^19]: “Orang Sebarang”. (1936, July 23). And then the durian. Too costly in Singapore. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^19]: “Orang Sebarang”. (1936, July 23). [And then the durian. Too costly in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360723-1.2.148.3). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
-[^20]: The Straits Times, 23 Jul 1936, p. 1.
+[^20]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360723-1.2.148.3)*, 23 Jul 1936, p. 1.
 
-[^21]: Chun, S.L. (2008, August 31). More than 1 type of kampong in Singapore. Good Morning Yesterday. Retrieved from Goodmorningyesterday.blogspot.sg. website.
+[^21]: Chun, S.L. (2008, August 31). More than 1 type of kampong in Singapore. <i>Good Morning Yesterday</i>. Retrieved from Goodmorningyesterday.blogspot.sg. website.
 
-[^22]: Azlina Rais. (1982, August 12). Bahasa pasar tak patut digalakkan. Berita Harian, p. 4. Retrieved from NewspaperSG.
+[^22]: Azlina Rais. (1982, August 12). [Bahasa pasar tak patut digalakkan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820812-1.2.149.10). Berita Harian, p. 4. Retrieved from NewspaperSG.
 
-[^23]: Ye Ye Orh…sajer. (2009, April 16). Zero point. Retrieved from Percicilan.wordpress.com website.
+[^23]: Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicilan.wordpress.com website.
 
-[^24]: Oral history interview with Ronald Benjamin Milne, 15 Feb 1985, p. 562.
+[^24]: [Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9), 15 Feb 1985, p. 562.
 
-[^25]: Leong, S. (2008–2013). Hantam bola. Retrieved from http://www.singsupplies.com/showthread.php?152987-Hantam-bola 
+[^25]: Leong, S. (2008–2013). Hantam bola. Retrieved from [http://www.singsupplies.com/showthread.php?152987-Hantam-bola](http://www.singsupplies.com/showthread.php?152987-Hantam-bola)
 
-[^26]: Tengok tu macam tak ada pape. (2012, October 16). Retrieved from Facebook.com website. 
+[^26]: <i>Tengok tu macam tak ada pape</i>. (2012, October 16). Retrieved from Facebook.com website. 
 
-[^27]: Chew, D. (Interviewer). (1984, January 17). Oral history interview with Mable Martens. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
+[^27]: Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mable Martens](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
 
-[^28]: An upcountry tourist in Singapore. (1949, December 31). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^28]: [An upcountry tourist in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491231-1.2.95.1). (1949, December 31). The Straits Times, p. 9. Retrieved from NewspaperSG.
 
-[^29]: Feng, Y. (2008, August 9).  Makan mash-up. The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^29]: Feng, Y. (2008, August 9).  [Makan mash-up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080809-1.2.214.19). The Straits Times, p. 9. Retrieved from NewspaperSG.
 
-[^30]: Farrer, R.J. (1951, November 4). The bygone mosquito buses: Honking horrors. The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^30]: Farrer, R.J. (1951, November 4). [The bygone mosquito buses: Honking horrors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511104-1.2.22). The Straits Times, p. 2. Retrieved from NewspaperSG.
 
-[^31]: The Chinese bus companies. (1950, June 6). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^31]: [The Chinese bus companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500606-1.2.80). (1950, June 6). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
-[^32]: Lam, C.S. (2006, October 28). My friend Adrian Chua remembers his childhood days. Good Morning Yesterday. Retrieved from Goodmorningyesterday.blogspot.sg website.
+[^32]: Lam, C.S. (2006, October 28). My friend Adrian Chua remembers his childhood days. <i>Good Morning Yesterday</i>. Retrieved from Goodmorningyesterday.blogspot.sg website.
 
-[^33]: Nor-Afidah Abd Rahman. (2012, June 1). Then and now: Games children play. iremembersg. Retrieved from iremember.sg website.
+[^33]: Nor-Afidah Abd Rahman. (2012, June 1). Then and now: Games children play. <i>iremembersg</i>. Retrieved from iremember.sg website.
 
-[^34]: Tan, S., & Tay, M. (2003). World food: Malaysia & Singapore (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
+[^34]: Tan, S., & Tay, M. (2003). <i>World food: Malaysia & Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
 
 [^35]: Tan, L.L. (1983, February 19). Use that mortar and pestle. The Straits Times, p. 2. Retrieved from NewspaperSG.
 
-[^36]: Teru-teru bozu. (2010, December 4). Kisah si penajam batu. Retrieved from teruterubozu68.blogspot.sg website; Nazerin Harun. (2012, June 6). Pemenggal kepala. Retrieved from nazerihn.blogspot.sg website.
+[^36]: Teru-teru bozu. (2010, December 4). <i>Kisah si penajam batu</i>. Retrieved from teruterubozu68.blogspot.sg website; Nazerin Harun. (2012, June 6). <i>Pemenggal kepala</i>. Retrieved from nazerihn.blogspot.sg website.
 
-[^37]: A Kadir Jasin. (2010, July 28). Potong kepala disiplinkan budak-budak desa. Retrieved from kadirjasian.blogspot.sg website; Nazerin, 7 Jun 2012.
+[^37]: A Kadir Jasin. (2010, July 28). <i>Potong kepala disiplinkan budak-budak desa</i>. Retrieved from kadirjasian.blogspot.sg website; Nazerin, 7 Jun 2012.
 
-[^38]: Irahhajerah. (2011, May 1). Ingat tak mainan canggih kita zaman kanak-kanak dulu harga dia 20 sen jer? Retrieved from irahhajerah.blogspot.sg website.
+[^38]: Irahhajerah. (2011, May 1). <i>Ingat tak mainan canggih kita zaman kanak-kanak dulu harga dia 20 sen jer?</i> Retrieved from irahhajerah.blogspot.sg website.
 
 [^39]: Tan, C.H. (Interviewer). (2007, April 26). Oral history interview with Bryan Richmond [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
 
-[^40]: Soo, E.J. (2010, August 23). Is the old 555 notebook or the new iPad better. AsiaOne. Retrieve from AsiaOne website. 
+[^40]: Soo, E.J. (2010, August 23). Is the old 555 notebook or the new iPad better. <i>AsiaOne</i>. Retrieve from AsiaOne website. 
 
-[^41]: Aref A. Ghouse. (1999, November 19). ‘Bai serbat’ balik kampong. Berita Harian, p. 11. Retrieved from NewspaperSG.
+[^41]: Aref A. Ghouse. (1999, November 19). ‘Bai serbat’ balik kampong. <i>Berita Harian</i>, p. 11. Retrieved from NewspaperSG.
 
 [^42]: Suppiah, P. (2005, January 20). A clean break? Not yet. Today, p. 30. Retrieved from NewspaperSG.
 
