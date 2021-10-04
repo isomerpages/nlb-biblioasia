@@ -150,7 +150,7 @@ As a main contractor, Ho’s most internationally recognised work was the Singap
 <div style="background-color: white;">The Singapore Memorial with war graves of fallen servicemen at the Kranji War Cemetery, 1960s. The memorial was built by Ho Bock Kee’s construction company. <i>John C. Young Collection, courtesy of National Archives of Singapore.</i></div>
 
 
-#### Leaving a Legacy
+#### **Leaving a Legacy**
 
 By the late 1980s, the Hui’an construction community in Singapore accounted for almost 50 enterprises, excluding those in the region. By now, the Hui An Association had expanded to include representation throughout most of Malaysia, Hong Kong, Taiwan, the Philippines, Indonesia and greater China. These pan-Asian cultural ties led to further opportunities for a new generation of industry pioneers. 
 
