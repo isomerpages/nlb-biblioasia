@@ -211,13 +211,14 @@ Lim Cheng Tju notes that political cartoons in Singapore walk a fine line betwee
 #### PAST...
 
 <i>Straits Produce</i> was first published in 1868, making it possibly the first comic to be published in Singapore. It aimed to provide “an abstract and brief chronicle of our time, with lines lightly touched in with pen and pencil, hitting off good-naturedly the chief features of the topics of the moment, and holding up the mirror of not unkindly humour to Straits men and Straits affairs”.[^23] It was started in response to then Governor of the Straits Settlements Harry Ord’s financial policy, which it roundly criticised through caricature and cartoon.
-
-
-<img src="/images/vol-17-issue-3/singapore-comics/Neil%20Malcolm.png"/>
-
-<div style="background-color: white;">In 1923, Neil Malcolm, General Officer Commanding the Troops in the Straits Settlements, called Singapore “the centre of the empire” in a speech at the British naval base in Sembawang, inspiring this pictorial response of a Roman general using a compass to draw a circle on a map with Singapore at the centre. <i>Image reproduced from Dream Awhile: Cartoons from Straits Produce Showing in Pictorial Form the Main Events in Local History (Singapore: Printers, 1932). (From National Library, Singapore, Call no. RCLOS 959.5 STR-[RFL]).</i></div>
 	
 In 1932, <i>Dream Awhile: Cartoons from Straits Produce Showing in Pictorial Form the Main Events in Local History</i> was published.[^24] The volume was produced to commemorate 10 years of continuous publication of <i>Straits Produce</i> and is probably the earliest publication of local political cartoons in the National Library’s collection.
+
+<img src="/images/vol-17-issue-3/singapore-comics/politiccomics.jpg"/>
+
+<div style="background-color: white;">(Left) In 1923, Neil Malcolm, General Officer Commanding the Troops in the Straits Settlements, called Singapore “the centre of the empire” in a speech at the British naval base in Sembawang, inspiring this pictorial response of a Roman general using a compass to draw a circle on a map with Singapore at the centre. (Right) Captioned “The Past Greets the Future,” the cartoon was drawn on the occasion of the Prince of Wales’s visit to Singapore in April 1922. He is depicted shaking hands with the ghost of Stamford Raffles.
+
+<i>Both images reproduced from Dream Awhile: Cartoons from Straits Produce Showing in Pictorial Form the Main Events in Local History (Singapore: Printers, 1932). (From National Library, Singapore, Call no. RCLOS 959.5 STR-[RFL].</i></div>
 
 A better-known example of a comic that tackles history and politics is Liu Kang’s <i>Chop Suey</i>, which records the horrors of the Japanese Occupation in Singapore (1942–45). First published in 1946, and with reprints thereafter, <i>Chop Suey</i> is a four-volume publication (three in English and one in Chinese) of charcoal sketches and caricatures.[^25] Liu and his friend, Zheng Zhenen, had collected stories from people who suffered during the Occupation, and these were depicted in the illustrations showing the various ways in which the Japanese tortured prisoners-of-war to force confessions. Liu’s work remains a poignant record of wartime memories.[^26] 
 
