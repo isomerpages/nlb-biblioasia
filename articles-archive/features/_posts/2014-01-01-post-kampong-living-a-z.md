@@ -353,7 +353,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^34]: Tan, S., & Tay, M. (2003). <i>World food: Malaysia & Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
 
-[^35]: Tan, L.L. (1983, February 19). Use that mortar and pestle. The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^35]: Tan, L.L. (1983, February 19). [Use that mortar and pestle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830219-1.2.138.5.1). The Straits Times, p. 2. Retrieved from NewspaperSG.
 
 [^36]: Teru-teru bozu. (2010, December 4). <i>Kisah si penajam batu</i>. Retrieved from teruterubozu68.blogspot.sg website; Nazerin Harun. (2012, June 6). <i>Pemenggal kepala</i>. Retrieved from nazerihn.blogspot.sg website.
 
@@ -361,36 +361,36 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^38]: Irahhajerah. (2011, May 1). <i>Ingat tak mainan canggih kita zaman kanak-kanak dulu harga dia 20 sen jer?</i> Retrieved from irahhajerah.blogspot.sg website.
 
-[^39]: Tan, C.H. (Interviewer). (2007, April 26). Oral history interview with Bryan Richmond [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
+[^39]: Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
 
 [^40]: Soo, E.J. (2010, August 23). Is the old 555 notebook or the new iPad better. <i>AsiaOne</i>. Retrieve from AsiaOne website. 
 
-[^41]: Aref A. Ghouse. (1999, November 19). ‘Bai serbat’ balik kampong. <i>Berita Harian</i>, p. 11. Retrieved from NewspaperSG.
+[^41]: Aref A. Ghouse. (1999, November 19). [‘Bai serbat’ balik kampong](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19991119-1.2.16.5). <i>Berita Harian</i>, p. 11. Retrieved from NewspaperSG.
 
-[^42]: Suppiah, P. (2005, January 20). A clean break? Not yet. Today, p. 30. Retrieved from NewspaperSG.
+[^42]: Suppiah, P. (2005, January 20). [A clean break? Not yet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050120-1.2.33.9). <i>Today</i>, p. 30. Retrieved from NewspaperSG.
 
-[^43]: Seetoh, K. (2013, May 28). The karipap princess. Retrieved from Makanation website. 
+[^43]: Seetoh, K. (2013, May 28). <i>The karipap princess</i>. Retrieved from Makanation website. 
 
-[^44]: Teh tarik dan jambatan bawa nostalgia masa silam. (1990, June 9). Berita Harian, p. 10. Retrieved from NewspaperSG.
+[^44]: [Teh tarik dan jambatan bawa nostalgia masa silam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19900609-1.2.24.9). (1990, June 9). Berita Harian, p. 10. Retrieved from NewspaperSG.
 
-[^45]: Mohd Yussoff Ahmad (Interviewer). (1990, February 7). Oral history with Mydeen Kutty Mydeen [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
+[^45]: Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
 
-[^46]: Local. (1850, August 9). The Singapore Free Press and Mercantile Advertiser, p. 4. Retrieved from NewspaperSG.
+[^46]: [Local](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500809-1.2.5). (1850, August 9). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
 
-[^47]: Singapore place names and their meanings. (1934, March 19). The Singapore Free Press and Mercantile Advertiser, p. 8. Retrieved from NewspaperSG.
+[^47]: [Singapore place names and their meanings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340319-1.2.76). (1934, March 19). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 8. Retrieved from NewspaperSG.
 
 [^48]: Oral interviews. National Archives of Singapore.
 
 [^49]: Chun, 31 Aug 2008. 
 
-[^50]: Syair Kampung Gelam Terbakar. Melayu Online. Retrieved from Melayu Online website. 
+[^50]: Syair Kampung Gelam Terbakar. <i>Melayu Online</i>. Retrieved from Melayu Online website. 
 
 [^51]: Ye Ye Orh…sajer, 16 Apr 2009. 
 
-[^52]: Electricity supplies for several kampongs. (1961, October 9). The Singapore Free Press, p. 13. Retrieved from NewspaperSG.
+[^52]: [Electricity supplies for several kampongs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19611009-1.2.82). (1961, October 9). The <i>Singapore Free Press</i>, p. 13. Retrieved from NewspaperSG.
 
-[^53]: From huts to high rises. (2007, December 2). The Straits Times, p. 30. Retrieved from NewspaperSG.
+[^53]: [From huts to high rises](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20071202-1.2.34.3). (2007, December 2). The Straits Times, p. 30. Retrieved from NewspaperSG.
 
-[^54]: 150 homeless in big kampong blaze. (1959, July 22). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^54]: [150 homeless in big kampong blaze](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590722-1.2.7). (1959, July 22). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
-[^55]: Lights for all the kampongs by early 1966. (1965, July 23). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^55]: [Lights for all the kampongs by early 1966](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650723-1.2.30). (1965, July 23). The Straits Times, p. 5. Retrieved from NewspaperSG.
