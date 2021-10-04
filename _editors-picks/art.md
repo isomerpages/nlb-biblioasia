@@ -3,7 +3,7 @@ title: "Art "
 permalink: /editors-picks/art
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals" target="_blank"> The Forgotten Murals of Paya Lebar Airport</a>
-<img style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be. 
+ <img style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be. 
 <br>
 <br>
 <hr>
@@ -13,7 +13,7 @@ permalink: /editors-picks/art
 <br>
 <br>
 <br>
-<br>
+<br><br>
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" target="_blank"> A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</a>
