@@ -3,19 +3,19 @@ url: https://biblioasia.nlb.gov.sg
 favicon: /images/nlb-favicon.ico
 google_analytics: UA-50449401-32
 colors:
-  primary-color: "#335CA8"
-  secondary-color: "#335CA8"
+  primary-color: "#d9674d"
+  secondary-color: "#ffdf00"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#f8e3da"
     - title: media-color-two
-      color: "#335CA8"
+      color: "#fff8da"
     - title: media-color-three
-      color: "#335CA8"
+      color: "#f6ab9a"
     - title: media-color-four
-      color: "#00838f"
+      color: "#fdef8f"
     - title: media-color-five
-      color: "#00838f"
+      color: "#fdef8f"
 resources_name: articles-archive
 permalink: none
 baseurl: ""
