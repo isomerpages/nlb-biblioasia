@@ -145,8 +145,7 @@ Capitalising on the opportunity, Ho established his own construction company –
 <div style="background-color: white;">The National Library on Stamford Road, 1967. It was built by Ho Bock Kee’s construction company. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 
-As a main contractor, Ho’s most internationally recognised work was the Singapore Memorial at the Kranji War Cemetery. Officially unveiled on 
-2 March 1957 by the Singapore Governor Robert Black and attending international dignitaries, the event was broadcast throughout the Commonwealth to an extensive overseas audience.[^27] Designed by the British architect Colin St Clair Oakes, the memorial was built to resemble an aeroplane with its 22-metre central pylon and wing-shaped roof supported by 12 stone-clad pillars.[^28] The names of over 24,000 casualties without known graves are inscribed on the pillars. Memorial services are held at the cemetery every year on Remembrance Day (11 November), as well as ANZAC (Australian and New Zealand Army Corps) Day on 25 April.
+As a main contractor, Ho’s most internationally recognised work was the Singapore Memorial at the Kranji War Cemetery. Officially unveiled on 2 March 1957 by the Singapore Governor Robert Black and attending international dignitaries, the event was broadcast throughout the Commonwealth to an extensive overseas audience.[^27] Designed by the British architect Colin St Clair Oakes, the memorial was built to resemble an aeroplane with its 22-metre central pylon and wing-shaped roof supported by 12 stone-clad pillars.[^28] The names of over 24,000 casualties without known graves are inscribed on the pillars. Memorial services are held at the cemetery every year on Remembrance Day (11 November), as well as ANZAC (Australian and New Zealand Army Corps) Day on 25 April.
 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/HoBock.jpg)
