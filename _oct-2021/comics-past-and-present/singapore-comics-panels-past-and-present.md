@@ -31,6 +31,10 @@ Many popular comic books in Singapore today are autobiographical or semi-autobio
 
 More recently, we have *Chronicles of a Circuit Breaker* by cartoonist Joseph Chiang. Between April and June 2020, Singapore entered a “circuit breaker” period where schools and most workplaces were closed to break the chain of infection resulting from the Covid-19 pandemic. In his book, Chiang documents life during the two months and summarises some key lessons that he learnt from the period.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/cbchronicles.png)
+
+<div style="background-color: white;">></div>
+
 #### **Launchpads for Comics**
 
 Many comic books started out as regular comic strips in the dailies. From the *Straits Times*, there is *The House of Lim* by Cheah Sin Ann and *Chew on It!* by Lee Chee Chew that provide incisive social commentary on Singapore and poke fun at local foibles and idiosyncrasies.
