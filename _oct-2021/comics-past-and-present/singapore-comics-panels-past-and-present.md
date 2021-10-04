@@ -127,6 +127,10 @@ Special mention should also be made of <i>Sacred Guardians</i> (2020) by Adyeel 
 
 Set in the 7th century on the island of Tumasik (Temasek), the story follows the quest of the immortal scribe Dev who gathers a group of “sacred guardians” with special powers to fight an invasion by the evil demon king. In June 2021, <i>Sacred Guardians</i> became the first local comic book to be made into an audio drama.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/sacredguardians.jpg)
+
+<div style="background-color: white;">A group of “sacred guardians” with special powers battle an evil demon king. <i>Image reproduced from Adyeel Djoeharie and Alan Bay, Sacred Guardians, ed. Viency Lee (Singapore: Asiapac Books Pte Ltd, 2020). (From National Library, Singapore, Call no. RSING 741.595957 DJO).</i></div>
+
 #### **INFORMATIONAL/EDUCATIONAL**
 
 Various organisations, companies and government agencies in Singapore have used comics as a medium to convey important information and messages in an effective yet highly entertaining manner.
