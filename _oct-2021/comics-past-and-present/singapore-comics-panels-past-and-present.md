@@ -238,9 +238,10 @@ Sonny Liew’s <i>The Art of Charlie Chan Hock Chye</i>, while difficult to plac
 
 With Minister Mentor Lee Kuan Yew’s passing in 2015, several biographical works in comic book form were published about him. These include Morgan Chua’s <i>L.K.Y. Political Cartoons</i>, which covers Lee’s political career over the decades, and Yoshio Nabeta’s <i>manga</i>, <i>The LKY Story: Lee Kuan Yew, the Man Who Shaped a Nation</i> and <i>The Story of LKY</i>.
 
-<img src="/images/vol-17-issue-3/singapore-comics/lkycomic.jpg"/>
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/lkycomic.jpg)
 
 <div style="background-color: white;">(Left) Morgan Chua’s cartoons trace Minister Mentor Lee Kuan Yew’s political career over the decades. <i>Image reproduced from Morgan Chua, L.K.Y. Political Cartoons, (Singapore: Epigram Books, [2014]). (From National Library Singapore, Call no. RSING 959.5704092 CHU).</i> (Right) This manga is a tribute to Singapore’s founding prime minister and also commemorates  50 years of Singapore-Japan diplomatic relations. <i>Image reproduced from Yoshio Nabeta and Yoshihide Fujiwara, The LKY Story: Lee Kuan Yew, the Man Who Shaped a Nation (Singapore: Shogakukan Asia, [2016]). (From National Library, Singapore, Call no. RSING 959.5705092 NAB).</i></div>
+
 
 #### **Promoting Comics at the National Library Board**
 
