@@ -175,7 +175,7 @@ Published in 1949, <i>Tani of the Tigers</i> is an adventure comic and a Malayan
 
 <img src="/images/vol-17-issue-3/singapore-comics/tanicomic.jpg"/>
 
-<div style="background-color: white;">This Malayan tale tells the story of Tani, an orphaned child raised by tigers in the Pahang jungle of Malaya and who is able to converse with animals. <i>Image reproduced from Willie and Bio, Tani of the Tigers (Singapore: Keng Yan Leng, [19--]). (From PublicationSG).</i></div>
+<div style="background-color: white;">Tani is an orphaned child raised by tigers in the Pahang jungle of Malaya and who is able to converse with animals. <i>Images reproduced from Willie and Bio, Tani of the Tigers (Singapore: Keng Yan Leng, [19--]). (From PublicationSG).</i></div>
 	
 Tani was perhaps inspired by the highly successful Tarzan novels and film adaptations which were all the rage at the time. 
 
