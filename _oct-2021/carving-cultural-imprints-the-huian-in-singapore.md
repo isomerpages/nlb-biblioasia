@@ -86,7 +86,7 @@ Alighting from his car on 31 March 1922 to the backdrop of curious onlookers at 
 
 Following a short dedication by the Bishop of Singapore and the sounding of the last post and reveille, the prince, accompanied by Governor of the Straits Settlements Laurence Guillemard, greeted the invited dignitaries, which included the monument’s lauded architect Denis Santry of architectural firm Swan & Maclaren. Among that gathered company of Singapore’s building fraternity was Soh Mah Eng (苏马英), the contractor for the monument. The prince cordially shook his hand and even offered a few words of gratitude.[^16] It was fitting recognition for this Hui’an native who had migrated to Singapore some 20 years earlier and subsequently through his company, Chin Hup Heng & Co., became a pioneer in the island’s infrastructure development.
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/princeofwales.jpg)
 <div style="background-color: white;">Soh Mah Eng was responsible for building the Cenotaph in 1922. <i>Courtesy of the Singapore Hui An Association.</i></div>
 
 
