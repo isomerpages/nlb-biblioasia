@@ -3,15 +3,11 @@ title: "Singapore Comics: Panels Past and Present"
 permalink: /vol-17/issue-3/oct-dec-2021/singapore-comics
 third_nav_title: Comics Past And Present
 ---
-
-
-
-
 #### With great power comes great responsibility. **Jacqueline Lee** and **Chiang Yu Xiang** use their power to give us an overview of the history of comics in Singapore.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/Facing%20Page2.jpg)
 
-<div style="background-color: white;">From left: Comic strips from <i>Bawang Puteh Bawang Merah</i>, <i>Tani of the Tigers</i>, <i>What If They Call Me Chicken?</i> and <i>The Antibiotic Tales</i>. Images reproduced from Nora Abdullah, Bawang Puteh Bawang Merah (Singapura: Geliga, 1957). (From PublicationSG); Willie and Bio, Tani of the Tigers (Singapore: Keng Yan Leng, [19--]). (From PublicationSG); Singapore Anti-Narcotics Association, What If They Call Me Chicken? (Singapore: Singapore Anti-Narcotics Association, [1979]). (From PublicationSG); and Sonny Liew and Hsu Li Yang, The Antibiotic Tales (Singapore: Epigram, 2019). (From National Library, Singapore, Call no. RSING 615.329 LIE).</i></div>
+<div style="background-color: white;">From left: Comic strips from <i>Bawang Puteh Bawang Merah</i>, <i>Tani of the Tigers</i>, <i>What If They Call Me Chicken?</i> and <i>The Antibiotic Tales</i>. <i>Images reproduced from Nora Abdullah, Bawang Puteh Bawang Merah (Singapura: Geliga, 1957). (From PublicationSG); Willie and Bio, Tani of the Tigers (Singapore: Keng Yan Leng, [19--]). (From PublicationSG); Singapore Anti-Narcotics Association, What If They Call Me Chicken? (Singapore: Singapore Anti-Narcotics Association, [1979]). (From PublicationSG); and Sonny Liew and Hsu Li Yang, The Antibiotic Tales (Singapore: Epigram, 2019). (From National Library, Singapore, Call no. RSING 615.329 LIE).</i></div>
 
 Since the first comic book, *The Glasgow Looking Glass* – which poked fun at the fashion and politics of 19th-century Scottish society – was published in Glasgow in 1825,[^1] comics have become more and more mainstream and popular. Comics these days are used to educate, entertain, lampoon, satirise and provoke. 
 
