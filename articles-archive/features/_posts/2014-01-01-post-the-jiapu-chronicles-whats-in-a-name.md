@@ -140,7 +140,38 @@ Xu, J. (1987). Fujian Jinjiang Shigui Yaolin Xu shi zupu [General discussion on 
 
 Xu, J. (2002). Zhongguo de jiapu *[The genealogies of China]*. Tianjin: Baihua Literature and Art Publishing House.
 
-6 朱洪斌  [Zhu, H.Z.]. (2006). [寻根问祖 : 中华姓氏源流](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13033768)  *[The origin and history of Chinese surnames]* (pp. 11─13). Beijing: Unity Press. (Call no.: Chinese R 929.420951 ZHB)
+朱洪斌  [Zhu, H.Z.]. (2006). [寻根问祖 : 中华姓氏源流](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13033768)  *[The origin and history of Chinese surnames]* (pp. 11─13). Beijing: Unity Press. (Call no.: Chinese R 929.420951 ZHB)
 
 #### **NOTES**
 
+[^1]: 王鹤鸣 [Wang, H.Z.]. (2011). [中国家谱通论](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14359427) *[General discussion on genealogies in China]* (pp. 50–115). Shanghai: Shanghai Guji Publishing House. (Call no.: Chinese R 929.1072051 WHM)
+
+[^2]: [Wang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14359427), 2011, pp. 279–348.
+
+[^3]: [Wang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14359427), 2011, pp. 279–280.
+
+[^4]: [Wang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14359427), 2011, pp. 288–291.
+
+[^5]: 钱杭 [Qian, H.]. (2001). [血缘与地缘之间 : 中国历史上的联宗与联宗组织](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12102501) *[Connection between blood and locality – the history of combined ancestry and their organisations]* (pp. 82–109). Shanghai: Shanghai Academy of Social Sciences Press. (Call no.: Chinese R 929.351 QH)
+
+[^6]: 朱洪斌  [Zhu, H.Z.]. (2006). [寻根问祖 : 中华姓氏源流](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13033768) *[The origin and history of Chinese surnames]* (pp. 11─13). Beijing: Unity Press. (Call no.: Chinese R 929.420951 ZHB) 
+
+[^7]: [Qian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12102501), 2001, pp. 184–219.
+
+[^8]: [Qian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12102501), 2001, pp. 211─219.
+
+[^9]: 程维荣 [Chen, W.]. (2008). [中国近代宗族制度](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13104407) *[The lineage organisations in Contemporary China]* (pp. 31–39). Shanghai: Xuelin. (Call no.: Chinese R 306.830951 CWR)
+
+[^10]: 陈湛绮 [Chen, Z.]. (2002). [宁乡南塘刘氏四修族谱](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11926437) *[Genealogy of Liu clan from Nantang Town in Ningxiang County]* (pp. 535–542). Beijing: China National Microfilming Center for Library Resouces. (Call no.: Chinese R q929.20951 NXN)
+
+[^11]: [Qian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12102501), 2001, pp. 220–255.
+
+[^12]: 刘黎明 [Liu, L.]. (2007). [血脉 : 祠堂•灵牌•家谱的传承血亲习俗](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922646) *[The continuity of lineage practices in ancestral halls, ancestral tablets, and genealogies]* (pp. 1–32). Taipei: Shuquan. (Call no.: Chinese R 306.830951 LLM)
+
+[^13]: [Liu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922646), 2007, pp. 28–32.
+
+[^14]: [Qian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12102501), 2001, pp. 19–22.
+
+[^15]: [Wang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14359427), 2011, pp. 64–65, 112–115.
+
+[^16]: [Wang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14359427), 2011, pp. 315–323.
