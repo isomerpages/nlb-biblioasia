@@ -77,6 +77,10 @@ In 2015, when Singapore celebrated 50 years of independence, a comics publicatio
 
 In 2020, the Difference Engine – an independent comics publisher based in Singapore – released its first anthology titled <i>Sound: A Comics Anthology</i>. The publication is a showcase of 13 comics by writers and illustrators from across Southeast Asia in response to sound.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/sound.jpg)
+
+<div style="background-color: white;">A showcase of 13 comics in response to sounds. <i>Image reproduced from Budjette Tan and Charis Loke, Sound: A Comics Anthology (Singapore: Difference Engine, 2020). (From National Library, Singapore, call no. RSING 741.5959 SOU-[CMX]).</i></div>
+
 #### **SUPERHEROES**
 Mention comics and most people automatically associate it with characters such as Superman and Wonder Woman. Superman popularised the superhero genre and inspired others to create their own superheroes, including in Singapore.
 
