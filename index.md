@@ -27,14 +27,14 @@ sections:
       description: Singapore has its own comic superheroes too, as Jacqueline Lee and
         Chiang Yu Xiang discover.
   - infopic:
-      title: Vaccinating a Nation
+      title: Unravelling the Mystery of Ubin’s German Girl Shrine
       subtitle: highlights
       button: Read more
-      url: /vol-17/issue-2/jul-sep-2021/vaccinating-nation
-      image: /images/vol-17-issue-2/vaccination/vacc%20highlight%20homepage%20520x320.jpg
+      url: /vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine
+      image: /images/vol-17-issue-3/ubin-shrine/Cover.jpg
       alt: sample of vaccination
-      description: Ong Eng Chuan looks at how the authorities have been trying to
-        vaccinate the residents of Singapore since 1819.
+      description: William L. Gibson makes many trips to Pulau Ubin to uncover the
+        origin of the mysterious shrine.
   - infopic:
       title: How Jurong Bird Park Was Hatched
       subtitle: highlights
