@@ -96,6 +96,10 @@ In 1987, Captain V was given his own comic book series when the first issue of <
 
 As a sidenote, while not strictly a superhero comic, among the older comics in the National Library is <i>Python Gang</i> by Ronald Wild. Written in English, Chinese and Malay, the comic revolves around police investigations into a criminal syndicate called the Python Gang. While it was printed in Singapore, there are no details about the publisher or year of publication. However, we do know that the comic has been in the National Library’s Legal Deposit collection since 1963.
 
+<img src="/images/vol-17-issue-3/singapore-comics/pythongang.jpg"/>
+
+<div style="background-color: white;">The police investigates the Python Gang in this comic book. <i>Images reproduced from Ronald Wild, 蟒蛇党 = Python Gang = Kumpulan Ular Sawa (Singapore: n.p., n.d.). (From PublicationSG).</i></div>
+
 
 #### PRESENT…
 
