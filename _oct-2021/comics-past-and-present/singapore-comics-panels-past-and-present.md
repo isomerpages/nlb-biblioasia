@@ -250,7 +250,7 @@ In 2005, NLB hosted the first Comix Jam at the National Library Building, follow
 
 NLB has also hosted longer comics workshops where participants underwent a comprehensive editorial and mentorship process of comic creation, with peer review of comic drafts. An extension of the 24-hour Comics Day Challenge, the first Panelgraph (the authoring of stories using comic-book panels) sessions were held at Toa Payoh Public Library from 2015 to 2016. The comics created during the sessions were compiled as digital issues and made available on the Panelgraph website.[^29]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/24%20Hour%20Challenge.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/comicchallenge.jpg)
 <div style="background-color: white;">The 24-hour Comics Day Challenge held at Bukit Merah Public Library in 2012.</div>
 
 In 2016, Tampines Regional Library was the venue for Places, a 13-week art co-creation workshop organised as part of the Community Arts & Culture Nodes initiative of the National Arts Council. Under the guidance of Gwee Li Swee – poet, graphic artist and author of several books, including the graphic novel *Myth of the Stone* – participants created comics with a select few compiled into an anthology.
