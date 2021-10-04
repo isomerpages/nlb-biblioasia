@@ -90,6 +90,10 @@ In 1985, the Singapore Police Force unveiled Captain V as the mascot for the Nat
 
 In 1987, Captain V was given his own comic book series when the first issue of <i>The Amazing Adventures of Captain V</i> was launched at Singapore’s second comics convention (Comicon ’87). Although Captain V combats crime using technology such as jet boots, he does not possess any inherent superpowers but has qualities such as vigilance and valour.
 
+<img src="/images/vol-17-issue-3/singapore-comics/captainvproductions.jpg"/>
+
+<div style="background-color: white;">Due to Captain V’s popularity, he was given his own comic book series. <i>Images reproduced from Captain V Productions, The Amazing Adventures of Captain V (Singapore: Captain V Productions, 1988). (From PublicationSG).</i></div>
+
 As a sidenote, while not strictly a superhero comic, among the older comics in the National Library is <i>Python Gang</i> by Ronald Wild. Written in English, Chinese and Malay, the comic revolves around police investigations into a criminal syndicate called the Python Gang. While it was printed in Singapore, there are no details about the publisher or year of publication. However, we do know that the comic has been in the National Library’s Legal Deposit collection since 1963.
 
 
