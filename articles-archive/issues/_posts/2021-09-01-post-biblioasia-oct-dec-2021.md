@@ -24,3 +24,5 @@ layout: post
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/strangevision">Strange Visions of Singapore and the Malay Peninsula</a><br>A human-monkey chimera. A dog king. *Benjamin J.Q. Khoo* examines early European views of Southeast Asia.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/changi-airport">How Changi Airport Came To Be</a><br>*Rebecca Tan* uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/huianinsingapore">Carving Cultural Imprints: The Hui’an in Singapore</a><br>A group of contractors from Hui’an county in China were responsible for building some of Singapore’s iconic landmarks. *Athanasios Tsakonas* has the story.
