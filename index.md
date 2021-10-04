@@ -16,7 +16,7 @@ sections:
             ancient gold in Southeast Asia and more!
           url: /vol-17/issue-2/jul-sep-2021/
       button: Read the current issue
-      url: /vol-17/issue-2/jul-sep-2021/
+      url: /vol-17/issue-3/oct-dec-2021/
   - infopic:
       title: The Forgotten Murals of Paya Lebar Airport
       subtitle: highlights
