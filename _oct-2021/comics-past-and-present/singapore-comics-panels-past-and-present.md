@@ -265,9 +265,9 @@ With all these ongoing efforts and initiatives by comic groups and societies in 
 
 [^7]: The books are available at the Lee Kong Chian Reference Library and at selected branch libraries. Check the catalogue for details.  
 
-[^8]: All these comic series are available at the Lee Kong Chian Reference and at selected branch libraries. Check the catalogue for details.  
+[^8]: All these comic series are available at the Lee Kong Chian Reference Library and at selected branch libraries. Check the catalogue for details.  
 
-[^9]: Rebecca Lynne Tan, “Feeling Lucky to be with Lat,” *Straits Times*, 12 April 2009, 57. (From NewspaperSG)
+[^9]: Rebecca Lynne Tan, “[Feeling Lucky to be with Lat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090412-1.2.71.1),” *Straits Times*, 12 April 2009, 57. (From NewspaperSG)
 
 [^10]: Susan Sim, *[Making Singapore Safe: Thirty Years of the National Crime Prevention Council](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14234363)* (Singapore: Marshall Cavendish Editions, 2011), 22. (From National Library, Singapore, Call no. RSING 364.4095957 SIM)
 
