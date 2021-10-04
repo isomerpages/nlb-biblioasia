@@ -62,7 +62,7 @@ Anthologies are a popular format for comics. A number of collections have been p
 	
 The <i>Liquid City</i> anthology, the brainchild of Sonny Liew, brought together a star-studded cast of artists who contributed short comics that have been compiled in three volumes. The series has received much attention, with volume two being nominated for Best Anthology Series at the 2011 Eisner Awards. Many of the participating artists went on to produce their own comic books. Otto Fong, a contributor to the anthology, said: “The experience of being in an anthology and working alongside other comics artists spurred my competitiveness.”[^9]
 
-<img src="/images/vol-17-issue-3/singapore-comics/LiquidCity2.png"/>
+<img src="/images/vol-17-issue-3/singapore-comics/liquidcitycomic.jpg"/>
 
 <div style="background-color: white;">Volume two of the  <i>Liquid City </i> anthology was nominated for Best Anthology Series at the 2011 Eisner Awards.  <i>Image reproduced from Sonny Liew and Lim Cheng Tju, eds., Liquid City Volume Two (Berkeley, California: Image Comics, [2010]). (From National Library, Singapore, Call no. RSING 741.59 LIQ).</i></div>
 
