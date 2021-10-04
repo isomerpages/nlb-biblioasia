@@ -23,12 +23,13 @@ Since the 19th century, nature in Singapore has been collected, studied, categor
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/manvsnature">Man vs Nature: Speculative Fiction and the Environment</a> <br>*Jacqueline Lee* looks at works of speculative fiction that imagine a Singapore beset by rising sea levels and mass extinctions.
 
-[The Nature of Poetry: An Odyssey Across Time](/vol-17/issue-1/apr-jun-2021/poetry)<br>*Michelle Heng* takes us on a journey to see how poets writing in English have charted the changing contours of Singapore and Malaya.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/poetry">The Nature of Poetry: An Odyssey Across Time</a> <br>*Michelle Heng* takes us on a journey to see how poets writing in English have charted the changing contours of Singapore and Malaya.
 
-[Finding Magic Everywhere](/vol-17/issue-1/apr-jun-2021/malay-magic)<br>According to *Farish A. Noor*, much of the magic in Walter Skeat’s book *Malay Magic* is an illusion.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malay-magic">Finding Magic Everywhere</a><br>According to *Farish A. Noor*, much of the magic in Walter Skeat’s book *Malay Magic* is an illusion.
 
-[From Gambier to Pepper: Plantation Agriculture in Singapore ](/vol-17/issue-1/apr-jun-2021/agriculture)<br>*Timothy Pwee* guides us through the pepper, gambier, nutmeg, pineapple and rubber plantations that once blanketed Singapore.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/agriculture">From Gambier to Pepper: Plantation Agriculture in Singapore </a><br>*Timothy Pwee* guides us through the pepper, gambier, nutmeg, pineapple and rubber plantations that once blanketed Singapore
 
-[Deforestation in 19th-century Singapore](/vol-17/issue-1/apr-jun-2021/deforestation)<br>As early as the 1840s, people had already observed that temperatures in Singapore were increasing as a result of rampant deforestation, says *Chia Jie Lin*.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/deforestation">Deforestation in 19th-century Singapore</a><br>As early as the 1840s, people had already observed that temperatures in Singapore were increasing as a result of rampant deforestation, says *Chia Jie Lin*.
 
-[Of Parks, Trees and Gardens: The Greening of Singapore](/vol-17/issue-1/apr-jun-2021/greening)<br>*Lim Tin Seng* traces the journey from the first botanical garden in 1822 to the “City in Nature” vision in 2020.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/greening">Of Parks, Trees and Gardens: The Greening of Singapore</a>
+<br>*Lim Tin Seng* traces the journey from the first botanical garden in 1822 to the “City in Nature” vision in 2020.in 2020.
