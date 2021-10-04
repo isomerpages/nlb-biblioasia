@@ -8,7 +8,7 @@ permalink: /editors-picks/art
 <br>
 <hr>
 
-#### [Chinese Graphic Artists in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists)<br>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/chinese-artists" target="_blank"> Chinese Graphic Artists in Pre-war Singapore</a>
 <img style="float:left; width:500px; height:auto; border:10px solid #FFFFFF" src="/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg"> Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works.
 <br>
 <br>
