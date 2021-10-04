@@ -293,3 +293,63 @@ Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresource
 [‘Vanishing trades’ theme for Straits Times calendar](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770928-1.2.39). (1977, September 28). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
 #### **NOTES**
+
+[^1]: All kinds of everything along walkways of old. (1987, March 16). The Straits Times, p. 26. Retrieved from NewspaperSG.
+
+[^2]: Naidu, R.T. (2016). Five-foot-way traders. Retrieved from Singapore Infopedia, National Library Singapore.
+
+[^3]: Sullivan, M. (1985). “Can survive, la”: Cottage industries in high-rise Singapore (p. 14). Singapore: G. Brash. (Call no.: RSING 338.634095957 SUL)
+
+[^4]: Sullivan, 1985, p. 15.
+
+[^5]: Sullivan, 1985, p. 26.
+
+[^6]: Naidu, R.T. (2018, July). Traditional cobblers. Retrieved from Singapore Infopedia, National Library Singapore.
+
+[^7]: National Heritage Board. (2013). Heritage along footpaths: Community Heritage series IV (pp. 4–5). Retrieved from National Heritage Board website; Naidu, Jul 2018. 
+
+[^8]: National Heritage Board, 2013, pp. 8–10; Naidu, R.T. (2017). Parrot astrologers. Retrieved from Singapore Infopedia, National Library Singapore; Lo-Ang, S.G., & Chua, C.H. (Eds.). (1992). Vanishing trades of Singapore (pp. 60–64). Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
+
+[^9]: National Heritage Board, 2013, pp. 12–14.
+
+[^10]: Lin, Z. (2005, May 21). Sell kachang puteh it’s a tough nut to crack. The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+
+[^11]: The Straits Times, 21 May 2005.
+
+[^12]: National Heritage Board, 2013, pp. 16–18.
+
+[^13]: Lo-Ang & Chua, 1992, p. 36. 
+
+[^14]: Lo-Ang & Chua, 1992, pp. 35–37.
+
+[^15]: National Heritage Board, 2013, pp. 20–22.
+
+[^16]: National Library Board. (2013). Singapore memory portal. Retrieved from Singapore memory.sg website.
+
+[^17]: Ghetto Singapore. (2013). Vanishing trades of Singapore. Retrieved from ghettosingapore website; Lim, J. (2013, March 15). Trading stories with six tradesmen. Retrieved from The Long and Winding Road website; The vanishing trade: Trishaws in Singapore. (2010, May 17). Retrieved from sgtrishaws.wordpress.com website; Teo, J. (2013). Vanishing trades/scenes in Singapore. Retrieved from pinterest.com wesbite; Vanishing Trades. (1999). Retrieved from ThinkQuest Library website. 
+
+[^18]: Ng, S., & Yeo, J. (2012). Lost arts of The Republic of Singapore. Retrieved from flickr.com website. 
+
+[^19]: Nathan, D. (1990, March 12). Indian heritage to go on show at Indian village in two weeks. The Straits Times, p. 19; Lim, P., & Lim, S.T. (1982, June 6). Glimpses into trades and tidbits of bygone days. The Straits Times, p. 7; Craftsman behind another vanishing trade…. (1977, November 19). The Straits Times, p. 7; Sim, G. (2004, April 12). Chinatown nightlife to return. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^20]: Toh, K. (2011, September 11). Keeping alive a vanishing trade. The Straits Times, pp. 16–17. Retrieved from NewspaperSG.
+
+[^21]: National Heritage Board. (2013). Exhibitions: Trading stories: Conversations with six pioneering tradesmen. Retrieved from National Heritage Board website. 
+
+[^22]: Sng, M. (2002, June 30). She chews, she bites, she scores. The Straits Times, p. 18. Retrieved from NewspaperSG.
+
+[^23]: Vanishing trades: How do they fare? (1983, March 5). Singapore Monitor, p. 21. Retrieved from NewspaperSG.
+
+[^24]: Mediacorp. (2013). My grand partner – Webisode 11 – shoe makers and pen repairing. Retrieved from xin,msn.com website.
+
+[^25]: All kinds of everything along walkways of old. (1987, March 16). The Straits Times, p. 26. Retrieved from NewspaperSG.
+
+[^26]: Ministry of Defence. (2013). Vanishing trades in Singapore. This three minute video features the Wah Keow Hair Salon, located in Joo Chiat. The family-owned salon opened in 1954 and has been in operation for 59 years. This entry won the Jury’s Choice (Open Category) Best Editing award in the 2013 ciNE65 Season II competition.
+
+[^27]: Craftsman behind another vanishing trade…. (1977, November 19). The Straits Times, p. 7. Retrieved from NewspaprSG.
+
+[^28]: Ho, S.B. (1996, February 8). Old trades a new hit in phone-card series. The Straits Times, p. 15. Retrieved from NewspaperSG.
+
+[^29]: Vanishing trades MRT cards. (1997, June 29). The Straits Times, p. 28. Retrieved from NewspaperSG.
+
+[^30]: Gee, J. (2008, January 15). The samsui women of today. The Straits Times, p. 22. Retrieved from NewspaperSG.
