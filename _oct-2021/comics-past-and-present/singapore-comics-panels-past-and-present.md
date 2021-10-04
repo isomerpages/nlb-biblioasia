@@ -151,11 +151,13 @@ Published by the Singapore Anti-Narcotics Association in 1979, <i>What If They C
 	
 Graphic medicine is a genre in which comics are used as a medium for communicating about medicine and healthcare.[^17] Examples of local comics in this category include <i>All That Remains</i> (2018) and <i>All Death Matters</i> (2020) about dementia, and end-of-life and palliative care respectively. Created by James Tan and funded by the Lien Foundation, the two comics aim to initiate “die-logues” about taboo topics such as death and illness and to start thinking about palliative care planning.
 
+<img src="/images/vol-17-issue-3/singapore-comics/medicalnovles.jpg"/>
+
+<div style="background-color: white;">(Left) A graphic novel about dementia. <i>Image reproduced from James Tan, All That Remains (Singapore: Lien Foundation: Alzheimer’s Disease Association, Singapore, 2018). (From National Library, Singapore, Call no. RSING 616.83 TAN).</i> (Right) This graphic medicine talks about end-of-life and palliative care. <i>Image reproduced from James Tan, All Death Matters (Singapore: Lien Foundation, 2020). (From National Library, Singapore, Call no. RSING 741.59597 TAN).</i></div>
+
 In <i>The Antibiotic Tales</i> (2019), Sonny Liew partnered infectious diseases physician Hsu Li Yang to create a cautionary tale of an apocalyptic future because of a general resistance to antibiotics.
 
-<img src="/images/vol-17-issue-3/singapore-comics/All%20That%20Remains.png"/>
 
-<div style="background-color: white;">This graphic novel deals with dementia. <i>Image reproduced from James Tan, All That Remains (Singapore: Lien Foundation: Alzheimer’s Disease Association, Singapore, 2018). (From National Library, Singapore, Call no. RSING 616.83 TAN)</i></div>
 
 #### **MYTHS AND LEGENDS**
 
