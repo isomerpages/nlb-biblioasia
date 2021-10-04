@@ -52,6 +52,10 @@ Anthologies are a popular format for comics. A number of collections have been p
 
 #### PAST...
 漫画同盟 (<i>Comics Alliance</i>) – a four-volume anthology series published in 1997, 1998 and 2001 – is a compilation of Chinese comics by various Singaporean comic artists. The books are edited by comic veterans Wee Tian Beng and Wee See Heng.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/comicalliance.png)
+
+<div style="background-color: white;">Cover of the volume published in 2001. <i>Image reproduced from Eldred Deng, ed., 漫画同盟 [2001] = Comics Alliance 2001 (新加坡: 亚太图书, 2001) (From National Library, Singapore, Call no. Chinese RSING 741.595957 COM).</i></div>
 	
 The <i>Liquid City</i> anthology, the brainchild of Sonny Liew, brought together a star-studded cast of artists who contributed short comics that have been compiled in three volumes. The series has received much attention, with volume two being nominated for Best Anthology Series at the 2011 Eisner Awards. Many of the participating artists went on to produce their own comic books. Otto Fong, a contributor to the anthology, said: “The experience of being in an anthology and working alongside other comics artists spurred my competitiveness.”[^9]
 
