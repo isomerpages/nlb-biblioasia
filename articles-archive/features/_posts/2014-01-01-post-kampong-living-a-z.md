@@ -285,49 +285,49 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 #### **NOTES**
 
-[^1]: Alexander, W. (1956, April 4). [Singapore awakes: The first at the standpipe](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360404-1.2.49). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^1]: Alexander, W. (1956, April 4). [Singapore awakes: The first at the standpipe](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360404-1.2.49). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-[^2]: Ang, J. (1962, August 12). [The upstage barbecue](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620812-1.2.27.1.4). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^2]: Ang, J. (1962, August 12). [The upstage barbecue](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620812-1.2.27.1.4). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-[^3]: Chan, K.S. (2001, November 26). [Cooking with old king coal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011126-1.2.93.4.3). The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^3]: Chan, K.S. (2001, November 26). [Cooking with old king coal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011126-1.2.93.4.3). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
 
-[^4]: [Firewood](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400905-1.2.41.8). (1940, September 5). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^4]: [Firewood](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400905-1.2.41.8). (1940, September 5). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
 [^5]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011126-1.2.93.4.3)*, 26 Nov 2001, p. 16.
 
-[^6]: [100 charcoal kilns close down](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510115-1.2.58). (1951, January 15). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+[^6]: [100 charcoal kilns close down](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510115-1.2.58). (1951, January 15). <i>The Singapore Free Press</i>, p. 3. Retrieved from NewspaperSG.
 
-[^7]: [Oil stove boom in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510310-1.2.95). (1951, March 10). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^7]: [Oil stove boom in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510310-1.2.95). (1951, March 10). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
-[^8]: [When hundreds of hawkers are using them](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711123-1.2.133.3). (1971, November 23). The Straits Times, p. 17. Retrieved from NewspaperSG.
+[^8]: [When hundreds of hawkers are using them](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711123-1.2.133.3). (1971, November 23). <i>The Straits Times</i>, p. 17. Retrieved from NewspaperSG.
 
-[^9]: [Fuel important to good cook](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641028-1.2.125.38). (1964, October 28). The Straits Times, p. 18. Retrieved from NewspaperSG.
+[^9]: [Fuel important to good cook](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641028-1.2.125.38). (1964, October 28). <i>The Straits Times</i>, p. 18. Retrieved from NewspaperSG.
 
-[^10]: [From tear-jerking to trouble-free cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640307-1.2.132.12). (1964, March 7). The Straits Times, p. 3; [Esso cuts price of cooking gas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860508-1.2.23.31). (1986, May 8). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^10]: [From tear-jerking to trouble-free cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640307-1.2.132.12). (1964, March 7). <i>The Straits Times</i>, p. 3; [Esso cuts price of cooking gas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860508-1.2.23.31). (1986, May 8). <i>The Straits Times</i>, p. 15. Retrieved from NewspaperSG.
 
-[^11]: Campbell, W. (1973, March 15). [Trading patterns change to keep pace with modern life styles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730315-1.2.96). The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^11]: Campbell, W. (1973, March 15). [Trading patterns change to keep pace with modern life styles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730315-1.2.96). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
 
-[^12]: [At Kandang Kerbau](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501005-1.2.77). (1950, October 5). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^12]: [At Kandang Kerbau](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501005-1.2.77). (1950, October 5). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-[^13]: Eastley, A. (1955, June 25). [Singapore’s great baby problem](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19550625-1.2.64). The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
+[^13]: Eastley, A. (1955, June 25). [Singapore’s great baby problem](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19550625-1.2.64). <i>The Singapore Free Press</i>, p. 12. Retrieved from NewspaperSG.
 
-[^14]: [The unborn give her no peace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501028-1.2.63.46). (1950, October 28). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[^14]: [The unborn give her no peace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501028-1.2.63.46). (1950, October 28). <i>The Singapore Free Press</i>, p. 5. Retrieved from NewspaperSG.
 
 [^15]: Suhami Ahmad & Krew Apo2 Yolah. (2012, March 14). <i>Zaman hingus meleleh</i>. Retrieved from anaknegori.blogspot.
 
-[^16]: Lee, A. (1985, October 13). [From kampong girl to a flat-dweller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851013-1.2.65.31.7). The Straits Times, p. 36. Retrieved from NewspaperSG.
+[^16]: Lee, A. (1985, October 13). [From kampong girl to a flat-dweller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851013-1.2.65.31.7). <i>The Straits Times</i>, p. 36. Retrieved from NewspaperSG.
 
-[^17]: Salmah Semono. (1979, March 4). [Pemainan masa lalu jalin ikatan kejiranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19790304-1.2.23). Berita Harian, p. 4. Retrieved from NewspaperSG.
+[^17]: Salmah Semono. (1979, March 4). [Pemainan masa lalu jalin ikatan kejiranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19790304-1.2.23). <i>Berita Harian</i>, p. 4. Retrieved from NewspaperSG.
 
 [^18]: Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
 
-[^19]: “Orang Sebarang”. (1936, July 23). [And then the durian. Too costly in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360723-1.2.148.3). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^19]: “Orang Sebarang”. (1936, July 23). [And then the durian. Too costly in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360723-1.2.148.3). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
 [^20]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360723-1.2.148.3)*, 23 Jul 1936, p. 1.
 
 [^21]: Chun, S.L. (2008, August 31). More than 1 type of kampong in Singapore. <i>Good Morning Yesterday</i>. Retrieved from Goodmorningyesterday.blogspot.sg. website.
 
-[^22]: Azlina Rais. (1982, August 12). [Bahasa pasar tak patut digalakkan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820812-1.2.149.10). Berita Harian, p. 4. Retrieved from NewspaperSG.
+[^22]: Azlina Rais. (1982, August 12). [Bahasa pasar tak patut digalakkan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820812-1.2.149.10). <i>Berita Harian</i>, p. 4. Retrieved from NewspaperSG.
 
 [^23]: Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicilan.wordpress.com website.
 
@@ -339,13 +339,13 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^27]: Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mable Martens](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
 
-[^28]: [An upcountry tourist in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491231-1.2.95.1). (1949, December 31). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^28]: [An upcountry tourist in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491231-1.2.95.1). (1949, December 31). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-[^29]: Feng, Y. (2008, August 9).  [Makan mash-up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080809-1.2.214.19). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^29]: Feng, Y. (2008, August 9).  [Makan mash-up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080809-1.2.214.19). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-[^30]: Farrer, R.J. (1951, November 4). [The bygone mosquito buses: Honking horrors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511104-1.2.22). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^30]: Farrer, R.J. (1951, November 4). [The bygone mosquito buses: Honking horrors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511104-1.2.22). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
-[^31]: [The Chinese bus companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500606-1.2.80). (1950, June 6). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^31]: [The Chinese bus companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500606-1.2.80). (1950, June 6). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
 [^32]: Lam, C.S. (2006, October 28). My friend Adrian Chua remembers his childhood days. <i>Good Morning Yesterday</i>. Retrieved from Goodmorningyesterday.blogspot.sg website.
 
@@ -353,7 +353,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^34]: Tan, S., & Tay, M. (2003). <i>World food: Malaysia & Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
 
-[^35]: Tan, L.L. (1983, February 19). [Use that mortar and pestle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830219-1.2.138.5.1). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^35]: Tan, L.L. (1983, February 19). [Use that mortar and pestle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830219-1.2.138.5.1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
 [^36]: Teru-teru bozu. (2010, December 4). <i>Kisah si penajam batu</i>. Retrieved from teruterubozu68.blogspot.sg website; Nazerin Harun. (2012, June 6). <i>Pemenggal kepala</i>. Retrieved from nazerihn.blogspot.sg website.
 
@@ -371,7 +371,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^43]: Seetoh, K. (2013, May 28). <i>The karipap princess</i>. Retrieved from Makanation website. 
 
-[^44]: [Teh tarik dan jambatan bawa nostalgia masa silam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19900609-1.2.24.9). (1990, June 9). Berita Harian, p. 10. Retrieved from NewspaperSG.
+[^44]: [Teh tarik dan jambatan bawa nostalgia masa silam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19900609-1.2.24.9). (1990, June 9). <i>Berita Harian</i>, p. 10. Retrieved from NewspaperSG.
 
 [^45]: Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
 
@@ -389,8 +389,8 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^52]: [Electricity supplies for several kampongs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19611009-1.2.82). (1961, October 9). The <i>Singapore Free Press</i>, p. 13. Retrieved from NewspaperSG.
 
-[^53]: [From huts to high rises](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20071202-1.2.34.3). (2007, December 2). The Straits Times, p. 30. Retrieved from NewspaperSG.
+[^53]: [From huts to high rises](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20071202-1.2.34.3). (2007, December 2). <i>The Straits Times</i>, p. 30. Retrieved from NewspaperSG.
 
-[^54]: [150 homeless in big kampong blaze](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590722-1.2.7). (1959, July 22). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^54]: [150 homeless in big kampong blaze](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590722-1.2.7). (1959, July 22). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
-[^55]: [Lights for all the kampongs by early 1966](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650723-1.2.30). (1965, July 23). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^55]: [Lights for all the kampongs by early 1966](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650723-1.2.30). (1965, July 23). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
