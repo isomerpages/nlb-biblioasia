@@ -36,13 +36,12 @@ sections:
       description: William L. Gibson makes many trips to Pulau Ubin to uncover the
         origin of the mysterious shrine.
   - infopic:
-      title: How Jurong Bird Park Was Hatched
+      title: The Modern Girls of Pre-war Singapore
       subtitle: highlights
-      description: A stolen cassowary. A questionable waterfall. A lack of falconers.
-        The opening of Jurong Bird Park in 1971 was rife with challenges, as Zoe
-        Yeo discovers.
+      description: Andrea Kee explores how the Modern Girl asserted her new-found
+        identity in interwar Singapore.
       button: Read more
-      url: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
-      image: /images/vol-17-issue-2/birdpark/cassowary%20highlight%20homepage%20520x320.jpg
+      url: /vol-17/issue-3/oct-dec-2021/moderngirl
+      image: /images/vol-17-issue-3/modern-girl/moderngirlhome.jpg
       alt: sample of JBP
 ---
