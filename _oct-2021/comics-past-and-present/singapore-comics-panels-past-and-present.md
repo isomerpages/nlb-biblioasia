@@ -90,7 +90,7 @@ One of the earliest local comic book superheroes is Pluto-man, who swooped onto 
 
 With his newfound powers – super strength, super speed, flight and a “plutonic instinct” for fighting crime – Pluto-man goes on a crime-busting spree, including foiling a bank heist involving a fake Merlion.
 
-<img src="/images/vol-17-issue-3/singapore-comics/plutomancover.jpg"/>
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/plutomancover.jpg)
 
 <div style="background-color: white;">Pluto-man is endowed with super strength, super speed, flight and a “plutonic instinct” for fighting crime. <i>Image reproduced from Roger Wong, The Valiant Pluto-man of Singapore (Singapore: Fantasy Comics, 1983). (From PublicationSG).</i></div>
 	
