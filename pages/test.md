@@ -9,3 +9,39 @@ Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsud
 <br>
 <br>
 <hr>
+
+<html>
+  <head>
+    <style>
+      .container {
+        font-size: 5em;
+        background-color: #a8a8a8;
+        color: white;
+        width: 8em;
+        height: 2em;
+        line-height: 2;
+        text-align: center;
+        font-family: Helvetica, Arial, sans-serif;
+        font-weight: bold;
+        cursor: pointer;
+        position: relative;
+      }
+      .link {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      W3Docs
+      <a href="/vol-17/issue-2/jul-sep-2021/murals/">
+        <span class="link"></span>
+      </a>
+    </div>
+  </body>
+</html>
