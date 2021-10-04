@@ -173,7 +173,7 @@ There are also locally published comics inspired by local legends. In the Chines
 
 Published in 1949, <i>Tani of the Tigers</i> is an adventure comic and a Malayan spin on legends like <i>The Jungle Book</i> and <i>Tarzan</i>.[^18] It tells the story of Tani, an orphaned child raised by tigers in the Pahang jungle of Malaya and who is able to converse with animals. An advertisement in the <i>Malaya Tribune</i> described it as being “drawn, written & published by Malayans” and that it “[excelled] any American comics published overseas!”[^19]
 
-<img src="/images/vol-17-issue-3/singapore-comics/Tani.png"/>
+<img src="/images/vol-17-issue-3/singapore-comics/tanicomic.jpg"/>
 
 <div style="background-color: white;">This Malayan tale tells the story of Tani, an orphaned child raised by tigers in the Pahang jungle of Malaya and who is able to converse with animals. <i>Image reproduced from Willie and Bio, Tani of the Tigers (Singapore: Keng Yan Leng, [19--]). (From PublicationSG).</i></div>
 	
