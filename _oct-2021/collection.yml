@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - comics-past-and-present/.keep
-      - comics-past-and-present/singapore-comic-panels-past-and-present.md
+      - comics-past-and-present/singapore-comics-panels-past-and-present.md
       - comics-past-and-present/a-list-of-singapore-comics.md
       - how-changi-airport-came-to-be/.keep
       - how-changi-airport-came-to-be/how-changi-airport-came-to-be.md
