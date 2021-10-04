@@ -71,6 +71,10 @@ The <i>Liquid City</i> anthology, the brainchild of Sonny Liew, brought together
 	
 In 2015, when Singapore celebrated 50 years of independence, a comics publication titled <i>Our Months Together</i>, comprising 12 stories representing the 12 months in a year, was published. That same year also saw the publication of <i>Mr Kiasu in Singapore History</i>, which brought the titular character back to different periods in Singapore’s history.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/Facing%20Page2.jpg)
+
+<div style="background-color: white;">(Left) In 2015, Our Months Together was published to commemorate Singapore’s 50th year of independence. <i>Image reproduced from Wee Tian Beng, Liu Jia Hui and Yeo Hui San, eds., Our Months Together: A Comics Anthology by 12 Artists (Singapore: TCZ Studio Pte Ltd, 2015). (From National Library, Singapore, Call no. RSING 741.595957 OUR).</i> (Right) Mr Kiasu goes back in time and encounters different characters from Singapore’s history. <i>Image reproduced from Johnny Lau, Mr Kiasu in Singapore History, (Singapore: Shogakukan Asia, 2019). (From National Library, Singapore Call no. RSING 959.57 LAU).</i></div>
+
 In 2020, the Difference Engine – an independent comics publisher based in Singapore – released its first anthology titled <i>Sound: A Comics Anthology</i>. The publication is a showcase of 13 comics by writers and illustrators from across Southeast Asia in response to sound.
 
 #### **SUPERHEROES**
