@@ -18,14 +18,14 @@ sections:
       button: Read the current issue
       url: /vol-17/issue-3/oct-dec-2021/
   - infopic:
-      title: The Forgotten Murals of Paya Lebar Airport
+      title: "Singapore Comics: Panels Past and Present"
       subtitle: highlights
       button: Read more
-      url: /vol-17/issue-2/jul-sep-2021/murals
-      image: /images/vol-17-issue-2/murals/mural%20highlight%20homepage%20520x320.jpg
+      url: /vol-17/issue-3/oct-dec-2021/singapore-comics
+      image: /images/vol-17-issue-3/singapore-comics/pythongang.jpg
       alt: Sample of murals
-      description: Three large murals used to grace the walls of Paya Lebar Airport.
-        Dahlia Shamsuddin has the inside story of how they came to be.
+      description: Singapore has its own comic superheroes too, as Jacqueline Lee and
+        Chiang Yu Xiang discover.
   - infopic:
       title: Vaccinating a Nation
       subtitle: highlights
