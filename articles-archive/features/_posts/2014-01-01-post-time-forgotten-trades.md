@@ -6,7 +6,10 @@ layout: post
 ---
 #### Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared. **Sharon Teng** tells us about these trades and what is being done to remember them.
 
-A barber shop along a five-foot way at Wayang Street in 1986. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/forgottentrades/bg.jpg">
+A barber shop along a five-foot way at Wayang Street in 1986. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The Streets of Chinatown, Little India and**
 
@@ -42,7 +45,10 @@ A few trades have survived the march of time, such as the mobile ice-cream cart 
 
 Then and Now Cobblers used to operate along five-foot-ways and roads in city areas. They stationed themselves at fixed locations or moved around housing estates on bicycle-carts filled with the tools of their trade. Traditional cobblers can still be found in Chinatown and Raffles Place, although they are gradually being replaced by shoe repair chains such as Mister Mint and Shukey Services that are conveniently located in shopping malls.[^7]
 
-Cobbler operating from pavement (1980). <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/forgottentrades/cobbler.jpg">
+Cobbler operating from pavement (1980). <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Fortune Tellers**
 
@@ -62,7 +68,10 @@ An Indian fortune teller, dressed in a white <i>dhoti</i> and shirt, would have 
 
 Parrot astrologers were based in Serangoon Road but they also made house calls, especially during festive occasions. Today, there are fewer than five still in business in Little India, as many Indians have ceased to believe in this method of divination.[^8]
 
-Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/forgottentrades/fortune_teller.jpg">
+Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archives of Singapore.</i></div>
 
 
 #### **Ice-ball Sellers**
@@ -75,7 +84,10 @@ Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archive
 
 <i>Then and Now</i><br>Ice-ball vendors were usually found near schools or along shophouses but sometimes moved to different locations with their mobile carts. Ice-balls are the predecessors of the more elaborate plated dessert called ice <i>kachang</i> sold in hawker centres and food courts. In 2011, ice-balls were brought back as part of the dessert menu at the Singapore Food Trail (a dining attraction featuring popular local dishes), located next to the Singapore Flyer.[^9]
 
-An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy of Ministry of Information and The Arts (MITA).</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/forgottentrades/ice_ball.jpg">
+An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy of Ministry of Information and The Arts (MITA).</i></div>
 
 #### **Kachang Puteh Sellers**
 
@@ -87,7 +99,10 @@ An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy o
 
 <i>Then and Now</i><br><i>Kachang puteh</i> sellers used to frequent schools, cinemas, swimming pools and shopping centres. Such independent vendors have all but vanished today, except for perhaps the sole survivng <i>kachang puteh</i> seller in Singapore, Mr Nagappan Arumugam, who has manned a pushcart at peace Centre on Selegie Road for over 20 years.[^11] <i>Kachang puteh</i> is now available in commercially pre-packed versions at supermarkets and 24-hour convenience stores all over Singapore. A push cart stall can also be found at the Singapore Food Trail.[^12]
 
-A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/forgottentrades/Chu_Sui_Mang.jpg">
+A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Letter Writers**
 
@@ -99,7 +114,10 @@ A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection,
 
 <i>Then and Now</i><br>Letter writers were once a common sight in Chinatown but the trade lost its popularity after the 1980s with the passing of many old-time patrons. The increase in literacy and communication technology such as the telephone also contributed to the trade’s decline. Letter writers today focus primarily on writing ancestral tablets for the younger Chinese generation and entertain occasional requests from tourists to compose spring couplets and auspicious words or to have Chinese translations of their English names written.[^14]
 
-A letter writer with a customer along a five foot way in Kreta Ayer. From the Kouo Shang-Wei collection 郭尚慰收集. <i>All rights reserved, family of Kouo Shang-Wei and National Library Board, Singapore, 2007.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/forgottentrades/letter_writter.jpg">
+A letter writer with a customer along a five foot way in Kreta Ayer. From the Kouo Shang-Wei collection 郭尚慰收集. <i>All rights reserved, family of Kouo Shang-Wei and National Library Board, Singapore, 2007.</i></div>
 
 #### **Street Barbers**
 
@@ -115,7 +133,10 @@ Barbers worked from around eight in the morning to dusk, charging about 50 cents
 
 With the erection of high-rise flats in the 1960s, barbers plied their trade along the corridors of housing estates. Today, however, they operate out of air-conditioned shops found in virtually every neighbourhood, with modern equipment such as electric clippers and shavers. What has survived is the unique icon denoting these neighbourhood barbers — the barber’s pole, with its spinning helix of tri-coloured red, white and blue stripes.[^15]
 
-Barber at Tras Street in 1988. <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/forgottentrades/barber.jpg">
+Barber at Tras Street in 1988. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Immortalising the Trades of Yesteryear**
 
@@ -147,7 +168,10 @@ In December 2011, the National Heritage Board put together a roving exhibition c
 
 The National Museum of Singapore has also curated several exhibitions on vanishing trades over the years, with the most recent being “Trading Stories: Conversations with Six Tradesmen” in March 2013, which featured true-life accounts of six pioneer tradesmen who have either retired or are still active in their occupations. [^21]
 
-Some of the individuals featured in the 2013 exhibition, “Trading Stories: Conversations with Six Pioneering Tradesmen” by the National Museum of Singapore include Sam Sui women and a movie poster painter. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/forgottentrades/individuals.jpg">
+Some of the individuals featured in the 2013 exhibition, “Trading Stories: Conversations with Six Pioneering Tradesmen” by the National Museum of Singapore include Sam Sui women and a movie poster painter. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 #### **Oral Recordings**
 
@@ -155,7 +179,13 @@ Established in 1979, the Oral History Centre of the National Archives of Singapo
 
 The recordings reveal fascinating details such as the reasons for entering or abandoning a trade, remuneration, details of goods and services provided, customer profiles, business practices, challenges and triumphs of the profession, anecdotes on training and apprenticeship, family stories and comparisons of past and present standards of living.
 
-"The Lost Arts of The Republic of Singapore" (2012) documented the vanishing arts and crafts of Singapore. <i>Courtesy of Su-Jin Ng.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/forgottentrades/lost_art.jpg"></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/forgottentrades/lost_art1.jpg">
+"The Lost Arts of The Republic of Singapore" (2012) documented the vanishing arts and crafts of Singapore. <i>Courtesy of Su-Jin Ng.</i></div>
 
 
 #### **Documentaries and Dramas**
