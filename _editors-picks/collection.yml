@@ -2,4 +2,4 @@ collections:
   editors-picks:
     output: true
     order:
-      - editors-picks-art.md
+      - art.md
