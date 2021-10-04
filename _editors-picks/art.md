@@ -19,10 +19,10 @@ permalink: /editors-picks/art
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals" target="_blank"> Malay Seals from Singapore</a>
-<img style="float:left; width:500px; height:auto;" src="/images/Vol-16-issue-1/malay-seals/temenggung.png">	Malay seals of the 19th century hold important information, says Annabel Teh Gallop.<br>
+<img style="float:left; width:500px; height:auto;" src="/images/Vol-16-issue-1/malay-seals/temenggung.png"><p>	Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
 <br>										
 <br clear=left>
 <hr>																																																															
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles" target="_blank"> Stamford Raffles and the Two French Naturalists</a>
-<img style="float:left; width:500px; height:auto; border:10px solid #FFFFFF" src="/images/Vol-16-issue-2/raffles/storkk.jpg">Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
+<img style="float:left; width:500px; height:auto; border:10px solid #FFFFFF" src="/images/Vol-16-issue-2/raffles/storkk.jpg"> <p>Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.</p>
