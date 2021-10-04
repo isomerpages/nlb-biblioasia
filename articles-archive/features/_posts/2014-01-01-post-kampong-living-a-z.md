@@ -285,37 +285,37 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 #### **NOTES**
 
-[^1]: Alexander, W. (1956, April 4). Singapore awakes: The first at the standpipe. The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^1]: Alexander, W. (1956, April 4). [Singapore awakes: The first at the standpipe](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360404-1.2.49). The Straits Times, p. 10. Retrieved from NewspaperSG.
 
-[^2]: Ang, J. (1962, August 12). The upstage barbecue. The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^2]: Ang, J. (1962, August 12). [The upstage barbecue](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620812-1.2.27.1.4). The Straits Times, p. 8. Retrieved from NewspaperSG.
 
-[^3]: Chan, K.S. (2001, November 26). Cooking with old king coal. The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^3]: Chan, K.S. (2001, November 26). [Cooking with old king coal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011126-1.2.93.4.3). The Straits Times, p. 16. Retrieved from NewspaperSG.
 
-[^4]: Firewood. (1940, September 5). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^4]: [Firewood](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400905-1.2.41.8). (1940, September 5). The Straits Times, p. 8. Retrieved from NewspaperSG.
 
-[^5]: The Straits Times, 26 Nov 2001, p. 16.
+[^5]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011126-1.2.93.4.3)*, 26 Nov 2001, p. 16.
 
-[^6]: 100 charcoal kilns close down. (1951, January 15). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+[^6]: [100 charcoal kilns close down](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510115-1.2.58). (1951, January 15). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
 
-[^7]: Oil stove boom in Singapore. (1951, March 10). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^7]: [Oil stove boom in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510310-1.2.95). (1951, March 10). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
-[^8]: When hundreds of hawkers are using them. (1971, November 23). The Straits Times, p. 17. Retrieved from NewspaperSG.
+[^8]: [When hundreds of hawkers are using them](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711123-1.2.133.3). (1971, November 23). The Straits Times, p. 17. Retrieved from NewspaperSG.
 
-[^9]: Fuel important to good cook. (1964, October 28). The Straits Times, p. 18. Retrieved from NewspaperSG.
+[^9]: [Fuel important to good cook](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641028-1.2.125.38). (1964, October 28). The Straits Times, p. 18. Retrieved from NewspaperSG.
 
-[^10]: From tear-jerking to trouble-free cooking. (1964, March 7). The Straits Times, p. 3; Esso cuts price of cooking gas. (1986, May 8). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^10]: [From tear-jerking to trouble-free cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640307-1.2.132.12). (1964, March 7). The Straits Times, p. 3; [Esso cuts price of cooking gas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860508-1.2.23.31). (1986, May 8). The Straits Times, p. 15. Retrieved from NewspaperSG.
 
-[^11]: Campbell, W. (1973, March 15). Trading patterns change to keep pace with modern life styles. The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^11]: Campbell, W. (1973, March 15). [Trading patterns change to keep pace with modern life styles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730315-1.2.96). The Straits Times, p. 16. Retrieved from NewspaperSG.
 
-[^12]: At Kandang Kerbau. (1950, October 5). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^12]: [At Kandang Kerbau](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501005-1.2.77). (1950, October 5). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
-[^13]: Eastley, A. (1955, June 25). Singapore’s great baby problem. The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
+[^13]: Eastley, A. (1955, June 25). [Singapore’s great baby problem](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19550625-1.2.64). The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
 
-[^14]: The unborn give her no peace. (1950, October 28). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[^14]: [The unborn give her no peace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501028-1.2.63.46). (1950, October 28). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
 
-[^15]: Suhami Ahmad & Krew Apo2 Yolah. (2012, March 14). Zaman hingus meleleh. Retrieved from anaknegori.blogspot.
+[^15]: Suhami Ahmad & Krew Apo2 Yolah. (2012, March 14). <i>Zaman hingus meleleh</i>. Retrieved from anaknegori.blogspot.
 
-[^16]: Lee, A. (1985, October 13). From kampong girl to a flat-dweller. The Straits Times, p. 36. Retrieved from NewspaperSG.
+[^16]: Lee, A. (1985, October 13). [From kampong girl to a flat-dweller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851013-1.2.65.31.7). The Straits Times, p. 36. Retrieved from NewspaperSG.
 
 [^17]: Salmah Semono. (1979, March 4). Pemainan masa lalu jalin ikatan kejiranan. Berita Harian, p. 4. Retrieved from NewspaperSG.
 
