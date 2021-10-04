@@ -221,9 +221,9 @@ In 1932, <i>Dream Awhile: Cartoons from Straits Produce Showing in Pictorial For
 
 A better-known example of a comic that tackles history and politics is Liu Kang’s <i>Chop Suey</i>, which records the horrors of the Japanese Occupation in Singapore (1942–45). First published in 1946, and with reprints thereafter, <i>Chop Suey</i> is a four-volume publication (three in English and one in Chinese) of charcoal sketches and caricatures.[^25] Liu and his friend, Zheng Zhenen, had collected stories from people who suffered during the Occupation, and these were depicted in the illustrations showing the various ways in which the Japanese tortured prisoners-of-war to force confessions. Liu’s work remains a poignant record of wartime memories.[^26] 
 
-<img src="/images/vol-17-issue-3/singapore-comics/Torture.png"/>
+<img src="/images/vol-17-issue-3/singapore-comics/chopsuey.jpg"/>
 
-<div style="background-color: white;">Sharp pencils being poked into the ears of a prisoner as a form of torture. <i>Image reproduced from Liu Kang, Chop Suey, vol. 1 (Singapore: Eastern Art Co., 1946). (From National Library, Singapore, Call no. RRARE 959.5106 CHO; Accession no. B02901745F)</i></div>
+<div style="background-color: white;">(Left) <i>Chop Suey</i> is a four-volume publication of charcoal sketches and caricatures by Liu Kang. <i>Image reproduced from Liu Kang, Chop Suey, vol. 2 (Singapore: Eastern Art Co., 1946). (From National Library, Singapore, Call no. RRARE 959.5106 CHO; Accession no. B02901746G).</i> (Right) Sharp pencils being poked into the ears of a prisoner as a form of torture. <i>Image reproduced from Liu Kang, Chop Suey, vol. 1 (Singapore: Eastern Art Co., 1946). (From National Library, Singapore, Call no. RRARE 959.5106 CHO; Accession no. B02901745F).</i></div>
 	
 
 #### PRESENT...
