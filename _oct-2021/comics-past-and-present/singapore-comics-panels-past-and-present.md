@@ -255,7 +255,7 @@ NLB has also hosted longer comics workshops where participants underwent a compr
 
 In 2016, Tampines Regional Library was the venue for Places, a 13-week art co-creation workshop organised as part of the Community Arts & Culture Nodes initiative of the National Arts Council. Under the guidance of Gwee Li Swee – poet, graphic artist and author of several books, including the graphic novel *Myth of the Stone* – participants created comics with a select few compiled into an anthology.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/Places2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/placescomic.jpg)
 <div style="background-color: white;">A compilation of comics created for Places, a 13-week art co-creation workshop, in 2016. <i>Image reproduced from Gwee Li Sui, ed., Places: A Graphic Anthology on the East of Singapore (Singapore: National Library Board, Singapore, [2016]). (From National Library, Singapore, call no. RSING 741.59597 PLA).</i></div>
 
 In the same year, Central Public Library played host to Speech Bubble, a month-long event comprising talks, workshops and an exhibition showcasing artefacts, books and original artworks from comic artists. Conceptualised by Sonny Liew and Lim Cheng Tju, the objective of the event was to celebrate Singapore comics and their rich and colourful history.[^30] 
