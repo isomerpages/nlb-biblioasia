@@ -157,6 +157,10 @@ Graphic medicine is a genre in which comics are used as a medium for communicati
 
 In <i>The Antibiotic Tales</i> (2019), Sonny Liew partnered infectious diseases physician Hsu Li Yang to create a cautionary tale of an apocalyptic future because of a general resistance to antibiotics.
 
+<img src="/images/vol-17-issue-3/singapore-comics/antibiotictales.jpg"/>
+
+<div style="background-color: white;">A cautionary tale about an apocalyptic future with antibiotic resistance. <i>Image reproduced from Sonny Liew and Hsu Li Yang, The Antibiotic Tales (Singapore: Epigram, 2019). (From National Library, Singapore, Call no. RSING 615.329 LIE).</i></div>
+
 
 
 #### **MYTHS AND LEGENDS**
