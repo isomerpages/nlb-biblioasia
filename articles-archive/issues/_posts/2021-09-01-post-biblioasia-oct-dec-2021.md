@@ -19,5 +19,6 @@ layout: post
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/moderngirl">The Modern Girls of Pre-war Singapore
 </a><br>*Andrea Kee* explores how the Modern Girl asserted her new-found identity in interwar Singapore.
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/ancientgold">Ancient Gold in Southeast Asia
-</a><br>Where did ancient gold come from? What gold discoveries have been made here? *Foo Shu Tieng* has the answers.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/ancientgold">Ancient Gold in Southeast Asia</a><br>Where did ancient gold come from? What gold discoveries have been made here? *Foo Shu Tieng* has the answers.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/strangevision">Strange Visions of Singapore and the Malay Peninsula</a><br>A human-monkey chimera. A dog king. *Benjamin J.Q. Khoo* examines early European views of Southeast Asia.
