@@ -197,6 +197,10 @@ Between 1955 and 1961, Nora Abdullah published at least 12 comic books with Geli
 
 The Comics of Singapore Histories (COSH Studios) – a collective of artists and writers – has produced seven graphic novels on local history between 2017 and 2018, with funding from the National Heritage Board. These comics offer stories relating to Singapore history and heritage but with a speculative twist. From supernatural encounters in Bukit Brown Cemetery (<i>Final Resting Place</i>) to cooking chicken rice in a zombie apocalypse (<i>We’ll Eat When We’re Done</i>), COSH comics present Singapore stories in a creative and fun way, reinterpreting familiar situations in new and witty ways.
 
+<img src="/images/vol-17-issue-3/singapore-comics/putehbawang2.jpg"/>
+
+<div style="background-color: white;">An Indonesian folktale about a gentle and obedient village girl. <i>Images reproduced from Nora Abdullah, Bawang Puteh Bawang Merah (Singapura: Geliga, 1957). (From PublicationSG).</i></div>
+
 
 #### **HISTORY AND POLITICS**
 
