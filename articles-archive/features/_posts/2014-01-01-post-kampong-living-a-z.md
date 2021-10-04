@@ -24,7 +24,10 @@ The <i>bidan kampung</i> (also known as <i>Mak Bidan</i> in Malay, or <i>jie she
 
 The modern <i>bidan</i> or government-trained midwife, fondly called “missy”, surfaced when the colonial government felt that the infant mortality rate was too high and that Singapore needed the guiding hand of western maternity services. The “missy” visited <i>kampongs</i> and co-existed with the <i>bidan</i>. Her trademark was the neat white uniform, but keeping it white was a challenge during her <i>kampong</i> rounds. The sight of a “missy” was often a welcome forebearer of an <i>akan datang</i> (meaning “coming soon”) member to the kampong.
 
-Infant growth assessment carried out by a trained midwife or “missy”, in 1950. <i>School of Nursing collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/kampong/trained_midwife.jpg">
+Infant growth assessment carried out by a trained midwife or “missy”, in 1950. <i>School of Nursing collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Capteh and Other Childhood Games**
 
@@ -38,7 +41,10 @@ Having fruit trees in the house compound was a treat for <i>kampong</i> resident
 
 Fruiting seasons were a heady affair that reminded villagers of nature’s bounty: “Life lost its monotony when the countryside resounded with the thud of falling durians and red bunches of luscious rambutans brightened the landscape. All around were trees laden with mangosteens, <i>langsat, rambai, nangka</i> and other seasonal fruits.”[^20]
 
-A man at a durian plantation circa 1915. <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/kampong/durian_plantation.jpg">
+A man at a durian plantation circa 1915. <i>Courtesy of National Archives of Singapore.</i></div>
 
 It’s hard to believe that Singapore was once a sleepy village outpost. Re-live those nostalgic kampong days with this laundry list of life as it once was.
 
@@ -54,7 +60,10 @@ Often, a common tongue bridged many cultural gaps. in those days, it was common 
 
 This was a tossing game, geared towards girls with delicate fingers and usually played sitting cross-legged on the floor. The “stones” — handmade by the girls themselves — were actually small pyramidshaped sachets simply sewn from scraps of cloth and filled with green beans, sand or rice grains. Instead of five, some used seven stones. The game is played by “throwing [the stones] up into the air and catching them back in some form of patterned movements.”[^23] Each stage has a particular pattern and increases in complexity as the player progresses in the game.
 
-Five Stones is played with five small triangular cloth bags filled with seeds, rice grains or sand (1960s). <i>Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/kampong/five_stones.jpg">
+Five Stones is played with five small triangular cloth bags filled with seeds, rice grains or sand (1960s). <i>Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Goli(marbles)**
 
@@ -78,9 +87,12 @@ Unlike <i>hantam bola</i>, <i>jelon</i> is played within a set boundary. This ga
 
 The aim of this game is to get a free piggyback ride from your opponent (pictured below).
 
-<i>Keleret</i> must be played in pairs or teams. Flat stones or tiles (<i>batu keleret</i>) are thrown to get close to the target line or circle (1950s). <i>Courtesy of Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/kampong/keleret.jpg">
+<i>Keleret</i> must be played in pairs or teams. Flat stones or tiles (<i>batu keleret</i>) are thrown to get close to the target line or circle (1950s). <i>Courtesy of Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i></div>
 
-#### **Lambong Tin (or "Hide-And-Seek", "I Spy" or Nyorok-Nyorok)
+#### **Lambong Tin (or "Hide-And-Seek", "I Spy" or Nyorok-Nyorok)**
 
 Prior to the start of the game, a pasang (Malay for catcher) or spy would be selected via oh somm or oh beh som or wah peh ya som (see text box). next, everyone would gather around and one player would shake a tin that had been filled with stones and then fling it. The moment the tin was flung, everyone would disperse. 
 
@@ -92,13 +104,19 @@ The mosquito bus (1920s-1950s) was a form of public transport that appeared abou
 
 For all that ruckus, the mosquito buses could only take six seating passengers and one standing. Little wonder that when bigger motorcars appeared, these buses lost their buzz. By the 1950s, they were allowed to ply only in rural areas and the outer fringes of the city.[^31]
 
-Tay Koh Yat bus service’s “Mosquito Buses” at Sembawang (1955). <i>F. W. York collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/kampong/unlicensed_hawkers.jpg">
+Tay Koh Yat bus service’s “Mosquito Buses” at Sembawang (1955). <i>F. W. York collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Next-Door Neighbours: "No Salt? No Problem!"**
 
 Today, when a housewife in the midst of cooking realises she has no salt in her larder, she turns off her gas-powered stove and heads to the nearest grocery store. Decades ago, she would have probably left her <i>arang</i> stove on while she dropped in on her neighbour to borrow some salt. Privacy in <i>kampongs</i> was less guarded as doors or gates were left ajar, inviting interactions and exchanging of small favours. A mother could <i>tumpang</i> (drop) her kids with the next-door neighbour while she ran an errand, or ask her neighbour to pick up some vegetables and fish on her behalf at the market. The <i>gotong-royong</i> (community help) spirit was much alive with neighbours looking out for one another.
 
-Unlicensed hawkers outside the Jalan Eunos Wet Market in 1958. MITA collection, courtesy of National Archives of Singapore
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/kampong/bus_services.jpg">
+Unlicensed hawkers outside the Jalan Eunos Wet Market in 1958. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Open-Air Cinemas = Open Skies Treatment**
 
@@ -112,7 +130,10 @@ This game of catch comprises two teams: police who chase and the thieves who fle
 
 In the days before the convenience of tap water at home, <i>kampong</i> residents had to queue at the common standpipes or wells to draw their water; the worse time for this was in the morning when everyone was getting ready for work or school. After things quietened, the next tranche of users were usually housewives who would crowd around the standpipes to do their washing. Invariably, it was more than just dirt that was swapped as the standpipe also doubled up as the village rumour mill. 
 
-A Malay house in Kampong Bedok Luat. <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/kampong/malay_house.jpg">
+A Malay house in Kampong Bedok Luat. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Rempah and Singapore's Own Spice Girls**
 
@@ -120,7 +141,10 @@ Before there were powdered spices and packaged spice mixes, women used to make t
 
 <i>Rempah</i> was freshly made daily and, in the days before home refrigeration, only what was needed was prepared. Such were the standards that went into the making of fish curries, <i>asam pedas</i> (a sour fish curry with pineapple chunks) and spicy <i>sambal</i> concoctions. For ladies whose fingers were too delicate for the hard work, hired hands were always available for about $1.50 a month. In particular, the Kadayanallur Muslim women, who migrated from Tamil Nadu in India, made this their signature trade, making daily home deliveries from house to house carrying baskets of ground spices on their heads. Some of them also sold fresh spice pastes at the wet market, which they ground with a granite rolling pin and a slab.
 
-A Nonya lady cooking in her kitchen using firewood. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/kampong/nyonya.jpg">
+A Nonya lady cooking in her kitchen using firewood. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Stoneware Sisters: Batu Giling and Batu Tumbuk**
 
@@ -148,7 +172,10 @@ Cattlemen and milkmen were mostly Tamils from South India. Serangoon was a cattl
 
 In the 1930s, the area between Cross Street and New Bridge Road was known as Kampong Susu (<i>milk kampong</i>) and the place lived up to its name from the many Indian milk sellers “identified by a tiny top knot of hair”.[^47] These Indian milkmen (or <i>bhai jual susu</i> to the Malays) ran door-to-door delivering fresh milk. Sometimes, the cow was milked on the spot: “[The milkmen came] with a cow and people [would] just buy the adulterated or diluted sort of thing. So fresh milk was really fresh...”[^48]
 
-Close-up of Indian <i>dhoby</i> ironing clothes in Serangoon Road (1982). <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/kampong/dhoby.jpg">
+Close-up of Indian <i>dhoby</i> ironing clothes in Serangoon Road (1982). <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Wooden Washboard: The Lean Mean Machine**
 
@@ -160,7 +187,10 @@ This slim rectangular wooden block was a dirt-crusher that all housewives swore 
 
 Kampongs were also vulnerable to fires due to their wooden and <i>attap</i> structures. The Bukit Ho Swee fire of 1961 is one that is etched in the nation’s consciousness. The famous 19th-century Malay writer Munsyi Abdullah was living in Kampong Glam when it was gutted by a fire in 1847, robbing him of his valuables and letters. The incident so affected the writer that he was moved to pen his now-famous poem <i>Syair Kampung Glam Terbakar (Kampong Gelam On Fire)</i> that was published in the same year.[^50]
 
-Women washing laundry at a common standpipe, circa 1960s. <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/kampong/common_standpipe.jpg">
+Women washing laundry at a common standpipe, circa 1960s. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Yeh Yeh (Zero-Point)**
 
