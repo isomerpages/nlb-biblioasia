@@ -15,3 +15,6 @@ layout: post
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/theroleofforaging"> The Role of Foraging in Malay Cuisine
 </a><br>Foraging for food has been carried out by the Malays for centuries, as *Khir Johari* tells us.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/moderngirl"> The Modern Girls of Pre-war Singapore
+</a><br>*Andrea Kee* explores how the Modern Girl asserted her new-found identity in interwar Singapore.
