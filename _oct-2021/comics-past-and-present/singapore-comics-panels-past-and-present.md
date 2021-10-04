@@ -96,6 +96,10 @@ With his newfound powers – super strength, super speed, flight and a “pluton
 	
 In 1985, the Singapore Police Force unveiled Captain V as the mascot for the National Crime Prevention Council. Captain V’s mission was to explain crime prevention to children and their role in the fight against crime.[^10] At the launch, a 3.65-metre-tall model of Captain V stood atop a bus, which crashed through a paper wall at the Police Academy on Thomson Road to reveal Captain V himself.[^11]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/captainVunveiled.jpg)
+
+<div style="background-color: white;">Captain V was unveiled in 1985 as the mascot for the National Crime Prevention Council. <i>Image reproduced from Susan Sim, Making Singapore Safe: Thirty Years of the National Crime Prevention Council (Singapore: Marshall Cavendish Editions, 2011), 22. (From National Library, Singapore, Call no. RSING 364.4095957 SIM).</i></div>
+
 In 1987, Captain V was given his own comic book series when the first issue of <i>The Amazing Adventures of Captain V</i> was launched at Singapore’s second comics convention (Comicon ’87). Although Captain V combats crime using technology such as jet boots, he does not possess any inherent superpowers but has qualities such as vigilance and valour.
 
 <img src="/images/vol-17-issue-3/singapore-comics/captainvproductions.jpg"/>
