@@ -12,8 +12,8 @@ sections:
       background: /images/vol-17-issue-2/Hero%20Banner2.jpg
       key_highlights:
         - title: ""
-          description: Learn about the forgotten murals, the evolution of Mulan's story,
-            early printing in the Philippines, and more!
+          description: Be enthralled by the comics collection in the National Library,
+            ancient gold in Southeast Asia and more!
           url: /vol-17/issue-2/jul-sep-2021/
       button: Read the current issue
       url: /vol-17/issue-2/jul-sep-2021/
