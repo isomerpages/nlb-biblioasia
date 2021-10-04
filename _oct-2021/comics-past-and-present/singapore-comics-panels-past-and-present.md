@@ -105,6 +105,10 @@ As a sidenote, while not strictly a superhero comic, among the older comics in t
 
 The <i>Dim Sum Warriors</i> (点心侠; <i>Dian Xin Xia</i>) series is the creation of husband-and-wife duo Colin Goh and Woo Yen Yen, of the TalkingCock.com satirical website and the <i>Coxford Singlish Dictionary</i> fame.[^12] The series features a colourful cast of familiar <i>dim sum</i> such as <i>cha shao bao</i> (roast pork bun), <i>xia jiao</i> (shrimp dumpling) and <i>shao mai</i> (pork and shrimp dumpling), imagined as kungfu warriors. The idea was conceived out of the couple’s love for <i>dim sum</i> and kungfu movies.
 
+<img src="/images/vol-17-issue-3/singapore-comics/dimsum.jpg"/>
+
+<div style="background-color: white;">Different types of dim sum are imagined as kungfu warriors in this comic series. <i>Image reproduced from Colin Goh, Woo Yen Yen, Soo Lee and Lauren Baker, Dim Sum Warriors = Dian Xin Xia. Volume 1, Enter the Dumpling (New York: Yumcha Studios, 2012). (From National Library, Singapore, Call no. JR SING 741.595957 GOH).</i></div>
+
 The bilingual comic book was first  published in 2012 and later adapted into a musical that toured major Chinese cities.[^13] In 2019, the couple launched a spin-off storybook series for children as well as an educational app for children to learn Mandarin.[^14]
 
 Special mention should also be made of <i>Sacred Guardians</i> (2020) by Adyeel Djoeharie and illustrated by Alan Bay. Supported by the National Arts Council, this comic book is a prequel story to “Sacred Guardian Singa: A Singapore Superhero Project”. Sacred Guardian Singa is a “<i>Tokusatsu</i> superhero character rooted in the real culture, history and heritage of Singapore and Southeast Asia”.[^15] (<i>Tokusatsu</i> is a Japanese term for live-action film or television drama that makes heavy use of special effects.)
