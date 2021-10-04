@@ -1,0 +1,4 @@
+collections:
+  editors-picks:
+    output: true
+    order: []
