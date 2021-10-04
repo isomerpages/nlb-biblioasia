@@ -411,7 +411,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^48]: Oral interviews. National Archives of Singapore.
 
-[^49]: Chun, 31 Aug 2008. 
+[^49]: <u>Chun</u>, 31 Aug 2008. 
 
 [^50]: Syair Kampung Gelam Terbakar. <i>Melayu Online</i>. Retrieved from Melayu Online website. 
 
