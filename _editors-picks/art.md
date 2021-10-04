@@ -15,7 +15,7 @@ permalink: /editors-picks/art
 <br>
 <hr>
 
-#### [A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits](https://biblioasia.nlb.gov.50/vol-17/issue-1/apr-jun-2021/malayan-fruits)
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" target="_blank"> A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</a>
 <img style="float:left; width:500px; height:auto; border:10px solid #FFFFFF" src="/images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg">Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery.<br>
 <br>
 <br>
