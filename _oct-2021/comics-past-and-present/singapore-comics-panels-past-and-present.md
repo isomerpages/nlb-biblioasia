@@ -19,6 +19,10 @@ When people talk about local comics today, what come to mind are popular comic s
 
 The Eisner Awards are sometimes referred to as the comics industry’s equivalent of the Academy Awards. In 2017, Liew’s *The Art of Charlie Chan Hock Chye* won three Eisner Awards. However, this is not the only comic book to have attained international success. *Moving Forward* is a short comic by Drewscape (whose real name is Andrew Tan) that was nominated for an Eisner Award for Best Short Story in 2013.[^3]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/movingforward.jpg)
+
+<div style="background-color: white;"><i>Moving Forward</i> was nominated for an Eisner Award for Best Short Story in 2013. <i>Images reproduced from Drewscape, Moving Forward (Singapore: National Library Board Singapore, 2014). (From National Library, Singapore, Call no: RSING 629.283 DRE).</i></div>
+
 Another award-winning comic book is Koh Hong Teng’s *Ten Sticks and One Rice* (2012) which clinched the third prize at the 7th International Manga Awards 2014 in Japan. In 2009, Koh had adapted Dave Chua’s award-winning novel *Gone Case* into a two-volume comic book. (*Gone Case* is a coming-of-age story set in a public housing estate, which won the Singapore Literature Commendation Prize in 1996.)
 
 Many popular comic books in Singapore today are autobiographical or semi-autobiographical. Lim Cheng Tju, an educator and an author and editor of comic books, notes that while autobiographical comics are considered an alternative genre in the United States, they are considered mainstream in Singapore. The majority of comic artists in Singapore are hobbyists and rely on government grants to fund their comic book projects.[^4] With many comic artists choosing to tell personal stories or pursue passion projects instead of trying to appeal to the mass market, the autobiographical genre has become mainstream here. 
