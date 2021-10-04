@@ -143,9 +143,9 @@ Another example of an educational comic is Otto Fong’s popular “Sir Fong’s
 
 Published by the Singapore Anti-Narcotics Association in 1979, <i>What If They Call Me Chicken?</i> is a cautionary tale about the dangers of taking drugs. A schoolboy named Kok Meng is offered a cigarette laced with drugs. While his friends agree to try it, he turns it down and goes home and tells his parents what had happened. Kok Meng is called a “chicken” for saying no to drugs, but he is vindicated in the end as his friends are arrested and punished. The message is blunt and direct: taking drugs is wrong and will ruin your life.
 
-<img src="/images/vol-17-issue-3/singapore-comics/Chicken.png"/>
+<img src="/images/vol-17-issue-3/singapore-comics/chicken.jpg"/>
 
-<div style="background-color: white;">This comic book  is a cautionary tale about the dangers of taking drugs published by the Singapore Anti-Narcotics Association in 1979. <i>Image reproduced from Singapore Anti-Narcotics Association, What If They Call Me Chicken? (Singapore: Singapore Anti-Narcotics Association, [1979]). (From PublicationSG).</i></div>
+<div style="background-color: white;">A cautionary tale about the dangers of taking drugs. <i>Images reproduced from Singapore Anti-Narcotics Association, What If They Call Me Chicken? (Singapore: Singapore Anti-Narcotics Association, [1979]). (From PublicationSG).</i></div>
 
 #### PRESENT…
 	
