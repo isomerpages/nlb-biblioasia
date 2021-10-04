@@ -26,3 +26,5 @@ layout: post
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/changi-airport">How Changi Airport Came To Be</a><br>*Rebecca Tan* uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/huianinsingapore">Carving Cultural Imprints: The Hui’an in Singapore</a><br>A group of contractors from Hui’an county in China were responsible for building some of Singapore’s iconic landmarks. *Athanasios Tsakonas* has the story.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/prewarphotography">Exhibiting Photography in Pre-war Singapore</a><br>*Zhuang Wubin* revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
