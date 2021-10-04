@@ -2,23 +2,23 @@
 layout: post
 title: BiblioAsia Apr-Jun 2021
 date: 2021-04-01T00:00:00.000Z
-breadcrumb: "Apr-Jun 2021"
+breadcrumb: Apr-Jun 2021
 permalink: /vol-17/issue-1/apr-jun-2021/
 ---
+Since the 19th century, nature in Singapore has been collected, studied, categorised and exploited. However, there have also been efforts to understand, protect, conserve and nurture. The changing relationship between humans and environment is the focus of this issue.
 
 <img src="/images/Vol-17-issue-1/cover.jpg">
 
-Since the 19th century, nature in Singapore has been collected, studied, categorised and exploited. However, there have also been efforts to understand, protect, conserve and nurture. The changing relationship between humans and environment is the focus of this issue.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/director-note"> Director's Note</a>
 
-[Director's Note](/vol-17/issue-1/apr-jun-2021/director-note)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/humanxnature"> Singapore's Environmental Histories</a> <br>*Georgina Wong* explores how European naturalists leveraged indigenous knowledge to catalogue the natural world and also shares highlights from the National Library’s latest exhibition Human x Nature.
 
-[Singapore's Environmental Histories](/vol-17/issue-1/apr-jun-2021/humanxnature)<br>*Georgina Wong* explores how European naturalists leveraged indigenous knowledge to catalogue the natural world and also shares highlights from the National Library’s latest exhibition Human x Nature.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malayan-fruits"> A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</a> <br> Who commissioned the beautiful paintings of local fruits in the Dumbarton Oaks collection? *Faris Joraimi* attempts to unravel the mystery.
 
-[A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits](/vol-17/issue-1/apr-jun-2021/malayan-fruits)<br>Who commissioned the beautiful paintings of local fruits in the Dumbarton Oaks collection? *Faris Joraimi* attempts to unravel the mystery.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/nature"> Nature Conservation in Singapore</a> <br>Over the last 200 years, the balance between biodiversity conservation and development has evolved, says *Ang Seow Leng*.
 
-[Nature Conservation in Singapore](/vol-17/issue-1/apr-jun-2021/nature)<br>Over the last 200 years, the balance between biodiversity conservation and development has evolved, says *Ang Seow Leng*.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/beastly-business"> A Beastly Business: Regulating the Wildlife Trade in Colonial Singapore</a> <br>*Fiona Tan* looks at an attempt to regulate the wildlife trade in Singapore in the 1930s.
 
-[A Beastly Business: Regulating the Wildlife Trade in Colonial Singapore](/vol-17/issue-1/apr-jun-2021/beastly-business)<br>*Fiona Tan* looks at an attempt to regulate the wildlife trade in Singapore in the 1930s.
 
 [Ishak Ahmad and the Story of Malayan Waters](/vol-17/issue-1/apr-jun-2021/ishak-ahmad)<br>A senior officer in the Fisheries Department, Ishak Ahmad helped boost the Malayan fishing industry and local fishermen, says *Anthony Medrano*.
 
