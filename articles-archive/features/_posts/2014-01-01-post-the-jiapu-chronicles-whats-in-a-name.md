@@ -107,3 +107,37 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 <p style="font-size:15px;"><b>Lee Meiyu</b> is a librarian at the Lee Kong Chian Reference Library at the National Library Board. The subject of genealogy is close to her heart and she has worked on resource publications that complement NLB’s exhibitions such as <i>Money by Mail to China: Dreams and Struggles of Early Migrants (2012)</i> and <i>ROOTS: Tracing Family Histories — A Resource Guide (2013).</i></p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Bose, J.K., & Palmer, S.J. (Eds.). (1972). *[Studies in Asian genealogy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=55949)*. Provo, Utah: Brigham Young University Press. (Call no.: RSEA 929.1095 WOR)
+
+程维荣 [Chen, W.]. (2008). [中国近代宗族制度](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13104407) *[The lineage organisations in Contemporary China]*. Shanghai: Xuelin. (Call no.: Chinese R 306.830951 CWR)
+
+陈湛绮 [Chen, Z.]. (2002). [宁乡南塘刘氏四修族谱](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11926437) *[Genealogy of Liu clan from Nantang Town in Ningxiang County]*. Beijing: China National Microfilming Center for Library Resouces. (Call no.: Chinese R q929.20951 NXN)
+
+Hong, T. (1949). *[Leok Kooi Tong genealogy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14716443)*. Quanzhou: Leok Kooi Tong. (Call no.: RCO 929.20951 LEO)
+
+Jones, R. (1989). *[Chinese names: The use of Chinese surnames and personal names in Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6323871)*. Petaling Jaya, Selangor: Pelanduk Publications. (Call no.: RSING 929.4 JON)
+
+Kee, P., Chai, K.K., & Zhuang, G. (Eds.). (2002). *[Genealogies and Chinese migration studies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11763680)*. Singapore: Chinese Heritage Centre. (Call no.: RSING 929.1072051 GEN)
+
+Lim, P. (1988). *[Myth and reality: Researching the Huang genealogies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9079767)*. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 929.108995105957 LIM)
+
+刘黎明 [Liu, L.]. (2007). [血脉 : 祠堂•灵牌•家谱的传承血亲习俗](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922646) *[The continuity of lineage practices in ancestral halls, ancestral tablets, and genealogies]*. Taipei: Shuquan. (Call no.: Chinese R 306.830951 LLM)
+
+Meishan Tiannei Lu shi jiapu [Genealogy of the Loo clan from Tiannei Town in the Meishan area]. (1994). Singapore: Singapore Loo Clan Association. 
+
+[蓬洲霞露黄氏族谱](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14715906) *[Genealogy of the Huang clan from Pengzhou and xialu]*. (n.d.). [China]: [publisher not identified]. (Call no.: Chinese RCO 929.20951 PZX)
+
+钱杭 [Qian, H.]. (2001). [血缘与地缘之间 : 中国历史上的联宗与联宗组织](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12102501) *[Connection between blood and locality – the history of combined ancestry and their organisations]*. Shanghai: Shanghai Academy of Social Sciences Press. (Call no.: Chinese R 929.351 QH)
+
+Singapore Peh Clan Association. (1989). <i>Geneaology of Peh Clan Pangtou Anxi Fujian China</i>.  Singapore: Singapore Peh Clan Association. (Not available in NLB holdings)
+
+王鹤鸣 [Wang, H.Z.] (2011). [中国家谱通论](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14359427) *[General discussion on genealogies in China]*. Shanghai: Shanghai Guji Publishing House. (Call no.: Chinese R 929.1072051 WHM)
+
+Xu, J. (1987). Fujian Jinjiang Shigui Yaolin Xu shi zupu [General discussion on genealogies in China]. Shanghai: Shanghai Guji Publishing House. 
+
+Xu, J. (2002). Zhongguo de jiapu *[The genealogies of China]*. Tianjin: Baihua Literature and Art Publishing House.
+
+6 朱洪斌  [Zhu, H.Z.]. (2006). [寻根问祖 : 中华姓氏源流](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13033768)  *[The origin and history of Chinese surnames]* (pp. 11─13). Beijing: Unity Press. (Call no.: Chinese R 929.420951 ZHB) 
