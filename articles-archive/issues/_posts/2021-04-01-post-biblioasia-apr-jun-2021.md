@@ -19,10 +19,9 @@ Since the 19th century, nature in Singapore has been collected, studied, categor
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/beastly-business"> A Beastly Business: Regulating the Wildlife Trade in Colonial Singapore</a> <br>*Fiona Tan* looks at an attempt to regulate the wildlife trade in Singapore in the 1930s.
 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/ishak-ahmad"> Ishak Ahmad and the Story of Malayan Waters</a> <br>A senior officer in the Fisheries Department, Ishak Ahmad helped boost the Malayan fishing industry and local fishermen, says *Anthony Medrano*.
 
-[Ishak Ahmad and the Story of Malayan Waters](/vol-17/issue-1/apr-jun-2021/ishak-ahmad)<br>A senior officer in the Fisheries Department, Ishak Ahmad helped boost the Malayan fishing industry and local fishermen, says *Anthony Medrano*.
-
-[Man vs Nature: Speculative Fiction and the Environment ](/vol-17/issue-1/apr-jun-2021/manvsnature)<br>*Jacqueline Lee* looks at works of speculative fiction that imagine a Singapore beset by rising sea levels and mass extinctions.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/manvsnature">Man vs Nature: Speculative Fiction and the Environment</a> <br>*Jacqueline Lee* looks at works of speculative fiction that imagine a Singapore beset by rising sea levels and mass extinctions.
 
 [The Nature of Poetry: An Odyssey Across Time](/vol-17/issue-1/apr-jun-2021/poetry)<br>*Michelle Heng* takes us on a journey to see how poets writing in English have charted the changing contours of Singapore and Malaya.
 
