@@ -2,6 +2,7 @@ collections:
   oct-2021:
     output: true
     order:
+      - directors-note.md
       - comics-past-and-present/.keep
       - comics-past-and-present/singapore-comics-panels-past-and-present.md
       - comics-past-and-present/a-list-of-singapore-comics.md
@@ -16,4 +17,3 @@ collections:
       - carving-cultural-imprints-the-huian-in-singapore.md
       - exhibiting-photography-in-pre-war-singapore.md
       - making-the-invisible-visible-restoring-the-statues-of-st-josephs-church-on-victoria-street.md
-      - directors-note.md
