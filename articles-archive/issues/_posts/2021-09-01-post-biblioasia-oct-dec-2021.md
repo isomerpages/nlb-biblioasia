@@ -4,4 +4,4 @@ date: 2021-09-01
 permalink: /vol-17/issue-3/oct-dec-2021/
 layout: post
 ---
-<img src="/images/Vol-17-issue-3/vol17iss3.jpg">
+<img src="/images/vol-17-issue-3/vol17iss3.jpg">
