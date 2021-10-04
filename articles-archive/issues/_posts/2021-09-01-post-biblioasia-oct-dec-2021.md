@@ -12,3 +12,6 @@ layout: post
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine"> Unravelling the Mystery of Ubin’s German Girl Shrine
 </a><br>*William L. Gibson* makes many trips to Pulau Ubin to uncover the origin of the mysterious shrine.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/theroleofforaging"> The Role of Foraging in Malay Cuisine
+</a><br>Foraging for food has been carried out by the Malays for centuries, as *Khir Johari* tells us.
