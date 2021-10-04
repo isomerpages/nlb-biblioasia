@@ -285,27 +285,48 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 #### **NOTES**
 
-1 Alexander, W. (1956, April 4). Singapore awakes: The first at the standpipe. The Straits Times, p. 10. Retrieved from NewspaperSG.
-2 Ang, J. (1962, August 12). The upstage barbecue. The Straits Times, p. 8. Retrieved from NewspaperSG.
-3 Chan, K.S. (2001, November 26). Cooking with old king coal. The Straits Times, p. 16. Retrieved from NewspaperSG.
-4 Firewood. (1940, September 5). The Straits Times, p. 8. Retrieved from NewspaperSG.
-5 The Straits Times, 26 Nov 2001, p. 16.
-6 100 charcoal kilns close down. (1951, January 15). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
-7 Oil stove boom in Singapore. (1951, March 10). The Straits Times, p. 7. Retrieved from NewspaperSG.
-8 When hundreds of hawkers are using them. (1971, November 23). The Straits Times, p. 17. Retrieved from NewspaperSG.
-9 Fuel important to good cook. (1964, October 28). The Straits Times, p. 18. Retrieved from NewspaperSG.
-10 From tear-jerking to trouble-free cooking. (1964, March 7). The Straits Times, p. 3; Esso cuts price of cooking gas. (1986, May 8). The Straits Times, p. 15. Retrieved from NewspaperSG.
-11 Campbell, W. (1973, March 15). Trading patterns change to keep pace with modern life styles. The Straits Times, p. 16. Retrieved from NewspaperSG.
-12 At Kandang Kerbau. (1950, October 5). The Straits Times, p. 6. Retrieved from NewspaperSG.
-13 Eastley, A. (1955, June 25). Singapore’s great baby problem. The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
-14 The unborn give her no peace. (1950, October 28). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
-15 Suhami Ahmad & Krew Apo2 Yolah. (2012, March 14). Zaman hingus meleleh. Retrieved from anaknegori.blogspot
-16 Lee, A. (1985, October 13). From kampong girl to a flat-dweller. The Straits Times, p. 36. Retrieved from NewspaperSG.
-17 Salmah Semono. (1979, March 4). Pemainan masa lalu jalin ikatan kejiranan. Berita Harian, p. 4. Retrieved from NewspaperSG.
-18 Chew, D. (Interviewer). (1985, February 15). Oral history interview with Ronald Benjamin Milne [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
-19 “Orang Sebarang”. (1936, July 23). And then the durian. Too costly in Singapore. The Straits Times, p. 1. Retrieved from NewspaperSG.
-20 The Straits Times, 23 Jul 1936, p. 1.
-21 Chun, S.L. (2008, August 31). More than 1 type of kampong in Singapore. Good Morning Yesterday. Retrieved from Goodmorningyesterday.blogspot.sg. website.
+[1]: Alexander, W. (1956, April 4). Singapore awakes: The first at the standpipe. The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+[2]: Ang, J. (1962, August 12). The upstage barbecue. The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[3]: Chan, K.S. (2001, November 26). Cooking with old king coal. The Straits Times, p. 16. Retrieved from NewspaperSG.
+
+[4]: Firewood. (1940, September 5). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[5]: The Straits Times, 26 Nov 2001, p. 16.
+
+[6]: 100 charcoal kilns close down. (1951, January 15). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+
+[7]: Oil stove boom in Singapore. (1951, March 10). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+[8]: When hundreds of hawkers are using them. (1971, November 23). The Straits Times, p. 17. Retrieved from NewspaperSG.
+
+[9]: Fuel important to good cook. (1964, October 28). The Straits Times, p. 18. Retrieved from NewspaperSG.
+
+[10]: From tear-jerking to trouble-free cooking. (1964, March 7). The Straits Times, p. 3; Esso cuts price of cooking gas. (1986, May 8). The Straits Times, p. 15. Retrieved from NewspaperSG.
+
+[11]: Campbell, W. (1973, March 15). Trading patterns change to keep pace with modern life styles. The Straits Times, p. 16. Retrieved from NewspaperSG.
+
+[12]: At Kandang Kerbau. (1950, October 5). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[13]: Eastley, A. (1955, June 25). Singapore’s great baby problem. The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
+
+[14]: The unborn give her no peace. (1950, October 28). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+
+[15]: Suhami Ahmad & Krew Apo2 Yolah. (2012, March 14). Zaman hingus meleleh. Retrieved from anaknegori.blogspot
+
+[16]: Lee, A. (1985, October 13). From kampong girl to a flat-dweller. The Straits Times, p. 36. Retrieved from NewspaperSG.
+
+[17]: Salmah Semono. (1979, March 4). Pemainan masa lalu jalin ikatan kejiranan. Berita Harian, p. 4. Retrieved from NewspaperSG.
+
+[18]: Chew, D. (Interviewer). (1985, February 15). Oral history interview with Ronald Benjamin Milne [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
+
+[19]: “Orang Sebarang”. (1936, July 23). And then the durian. Too costly in Singapore. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[20]: The Straits Times, 23 Jul 1936, p. 1.
+
+[21]: Chun, S.L. (2008, August 31). More than 1 type of kampong in Singapore. Good Morning Yesterday. Retrieved from Goodmorningyesterday.blogspot.sg. website.
+
 22 Azlina Rais. (1982, August 12). Bahasa pasar tak patut digalakkan. Berita Harian, p. 4. Retrieved from NewspaperSG.
 23 Ye Ye Orh…sajer. (2009, April 16). Zero point. Retrieved from Percicilan.wordpress.com website.
 24 Oral history interview with Ronald Benjamin Milne, 15 Feb 1985, p. 562.
