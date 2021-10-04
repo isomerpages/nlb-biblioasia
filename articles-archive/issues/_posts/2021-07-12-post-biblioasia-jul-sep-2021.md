@@ -8,17 +8,20 @@ In this issue’s cover story, we shine the spotlight on three murals that were 
 
 <img src="/images/Vol-17-issue-2/cover.jpg">
 
-<b>[Director's Note](/vol-17/issue-2/jul-sep-2021/director-note)</b>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/director-note"> Director's Note</a>
 
-<b>[The Forgotten Murals of Paya Lebar Airport](/vol-17/issue-2/jul-sep-2021/murals)</b><br>Three enormous murals used to grace the walls of Paya Lebar Airport. *Dahlia Shamsuddin* has the inside story.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a><br>Three enormous murals used to grace the walls of Paya Lebar Airport. *Dahlia Shamsuddin* has the inside story.
 
-<b>[Vaccinating a Nation: A Brief History](/vol-17/issue-2/jul-sep-2021/vaccinating-nation)</b><br>The first efforts at vaccinating here date back to 1819. *Ong Eng Chuan* has the details.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/vaccinating-nation"> Vaccinating a Nation: A Brief History</a><br>The first efforts at vaccinating here date back to 1819. *Ong Eng Chuan* has the details.
 
-<b>[Malay-Muslim Weddings: Keeping Up with the Times](/vol-17/issue-2/jul-sep-2021/malay-weddings)</b><br>Customs and traditions change over time. *Asrina Tanuri* and *Nadya Suradi* trace how Malay weddings here have evolved since the 1950s.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/malay-weddings"> Malay-Muslim Weddings: Keeping Up with the Times</a><br>Customs and traditions change over time. *Asrina Tanuri* and *Nadya Suradi* trace how Malay weddings here have evolved since the 1950s.
 
-<b>[Early Printing in the Philippines](/vol-17/issue-2/jul-sep-2021/early-printing)</b><br>*Gracie Lee* recounts the early history of printing and printed works in the Philippines.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/early-printing"> Early Printing in the Philippines</a>
+<br>*Gracie Lee* recounts the early history of printing and printed works 
+in the Philippines.
 
-<b>[Mulan’s Many Faces](/vol-17/issue-2/jul-sep-2021/mulan-many-faces)</b><br>*Goh Yu Mei* examines the Asian Children’s Literature Collection to see how Mulan’s story has evolved, while Michelle Heng reviews other stories in the acclaimed collection.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/mulan-many-faces"> Mulan’s Many Faces</a>
+<br>*Goh Yu Mei* examines the Asian Children’s Literature Collection to see how Mulan’s story has evolved, while Michelle Heng reviews other stories in the acclaimed collection.
 
 <b>[The Evolution of Straits-born Cuisine](/vol-17/issue-2/jul-sep-2021/straitsborncuisine)</b><br>What makes Peranakan cuisine unique? *Lee Geok Boi* looks for answers in old cookbooks.
 
