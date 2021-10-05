@@ -4,14 +4,14 @@ favicon: /images/nlb-favicon.ico
 google_analytics: UA-50449401-32
 colors:
   primary-color: "#d9674d"
-  secondary-color: "#eed000"
+  secondary-color: "#f6ab9a"
   media-colors:
     - title: media-color-one
       color: "#f8e3da"
     - title: media-color-two
       color: "#fff8da"
     - title: media-color-three
-      color: "#f6ab9a"
+      color: "#eed000"
     - title: media-color-four
       color: "#fdef8f"
     - title: media-color-five
@@ -55,3 +55,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+linkedin-insights: ""
