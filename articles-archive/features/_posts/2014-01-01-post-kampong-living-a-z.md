@@ -202,9 +202,9 @@ Electricity only reached the <i>kampongs</i> in 1961.[^52] Before this, resident
 
 However, many unfortunate villagers became victims of fires as a result of accidentally overturning these oil lamps. One such incident was reported in <i>The Straits Times</i> in 1959, where “[a fire] roared through a <i>kampong</i> about 50 yards from the Alexandra road fire station at 1.35 a.m. and destroyed 30 huts housing about 150 people.”[^54] To stem the hazard, the government introduced the 1963 <i>kampong</i> electricity scheme which promised that all villages would be provided with electricity by 1966.[^55]
 
-**The Tajam Batu Man**
+|**The Tajam Batu Man**|
 
-The <i>tajam batu</i> man was usually a Punjabi (Sikh) who made his bicycle rounds in the kampong with his sharp tools. He would call out <i>“tajam batu!”</i>, which literally means “stone sharp(ening)” in Malay. The women would take out their stone slabs that had become too smooth to crush the spices for him to service. He would chisel the surface of the slabs with a giant nail and hammer, etching small holes to make the surface rough for better grinding.[^36] For some reason, adults would scare children with stories of the <i>tajam batu</i> man kidnapping children, decapitating them and offering their heads for new constructions, bridges in particular. Scenes of scampering children would often precede the arrival of this “devilish” man.[^37]
+|The <i>tajam batu</i> man was usually a Punjabi (Sikh) who made his bicycle rounds in the kampong with his sharp tools. He would call out <i>“tajam batu!”</i>, which literally means “stone sharp(ening)” in Malay. The women would take out their stone slabs that had become too smooth to crush the spices for him to service. He would chisel the surface of the slabs with a giant nail and hammer, etching small holes to make the surface rough for better grinding.[^36] For some reason, adults would scare children with stories of the <i>tajam batu</i> man kidnapping children, decapitating them and offering their heads for new constructions, bridges in particular. Scenes of scampering children would often precede the arrival of this “devilish” man.[^37]|
 
 <p style="font-size:15px;">This article was researched by <b>Nor Afidah Abd Rahman</b>, a senior librarian with the National Library Board (NLB).</p>
 
