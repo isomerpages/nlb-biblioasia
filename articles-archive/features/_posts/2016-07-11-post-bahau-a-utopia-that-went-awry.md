@@ -99,13 +99,13 @@ I feel very privileged to have met so many survivors and have had access to so m
 |<img style="width:200px" src="/images/Vol-12-issue-2/bahau/07a-bahau.jpg">Bishop Adrien Devals was a French priest who became the leader of the Catholics in Singapore from the late 1930s. He led the first group of settlers to Bahau and tragically died there. <i>All rights reserved, Pilon, M., & Weiler, D. (2011). The French in Singapore: An Illustrated History (1819–Today). Singapore: Editions Didier Millet.</i>|
 
 |Bishop Adrien Devals, who led the first group of settlers in Bahau and tragically died there, should be more widely credited for his leadership there under adverse circumstances. Although Bahau failed as an experiment, it does not detract from Devals’ altruistic reasons for approving the resettlement plan.|
-<br><br>
+
 |Born in 1882 in Quins, France, Devals entered the seminary of the Société des Missions étrangères de Paris (MEP) in 1900 and was ordained a priest six years later. He arrived in Penang in September 1906 where he was initially the assistant at the Church of the Assumption, and later its parish priest. In 1934, he was appointed Bishop of the Diocese of Malacca, which included Singapore, and served in that role until his death in 1945.|
-<br><br>
+
 |When Mamoru Shinozaki offered Bahau to the Catholics as a settlement, Devals saw it as a way to protect both his flock and the religious communities for whom he was responsible. Although he was already 60 years old, Devals led by example and moved to Bahau too, among the first convoy of settlers who left Singapore in December 1943. The priests, brothers and nuns, including the bishop, lived in the same conditions as everyone else in Bahau.|
-<br><br>
+
 |Devals was in charge of the day-to-day running of the settlement and took charge from the start, assigning roles to the settlers, such as setting up anti-malarial teams and liaising with the Japanese authorities. He did not accord himself special privileges, sleeping in the same communal lodgings with the others and eating the same food. A few months later, as people began to move into the houses they had built, so too did the Bishop. He lived in a spartan hut that afforded him a bit of peace and quiet time for prayer and contemplation.|
-<br><br>
+
 |In the early days in Bahau, Devals relied heavily on the religious brothers for leadership and organisation as well as a core of lay people whom he knew and trusted. But as time went on and conditions in the settlement did not improve, Devals struggled to provide effective governance in the face of growing dissent from members of the laity. Still, he maintained his position in his belief of the motto “Non mea voluntas sed Tua” – Latin for “Not my will but Yours”, from the gospel of St Luke.|
 
 |Unfortunately, Devals’ health was failing – the physical hardships of Bahau, including malaria, took their toll. To make matters worse, he suffered from diabetes, and a bad scratch on his right foot sustained from farming eventually became infected and turned gangrenous, requiring the amputation of his leg. Sadly, the operation was not enough to save Devals and he died in a hospital in Seremban, Negeri Sembilan, on 17 January 1945, having spent just over a year in Bahau.|
