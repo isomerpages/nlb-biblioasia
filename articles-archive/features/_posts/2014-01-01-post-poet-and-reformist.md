@@ -6,7 +6,10 @@ layout: post
 ---
 #### 张人凤1940年生曾长期从事继续教育工作现为上海市文史研究馆馆员著有《张元济年谱长编》、《智民之师张元济》、《张元济研究文集》，编有十卷本《张元济全集》
 
-附图 1. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.</i>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/ch/NLB_KSW_Working.jpg"></div>
 
 Khoo Seok Wan (1874-1941) was a master poet and a key player in the reformist activities of early Singapore. Visit this exhibition to discover a slice of 20th century Singapore through Khoo’s poetry and colourful life.
 
@@ -27,6 +30,11 @@ Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Is
 康有为与梁铁军、汤觉顿、侄康同富遂于己亥年十二月廿九日离港，庚子年正月初二日抵新，“寓星坡邱菽园客云庐三层楼上，凭窗览眺，环水千家，有如吾故乡澹如楼风景，感甚。”[^2]
 
 王先生所藏文献中，有康有为手书题邱菽园《选诗图》的真迹（见附图）。更有趣的是康的另一首诗作手迹。1900年春夏，在客居他乡，为“国事郁郁久矣”的心情中，忽闻严复续娶的喜讯，难得悦乐开怀，赋诗以述，并将诗作写录一遍，赠送邱菽园。“事涉游戏，未知真否”，故称“游戏之作”，即今日所谓“搞笑”。这首诗辑入崔斯哲手写本《康南海先生诗集》（商务印书馆1937年影印本）。《康有为全集》又据以迻录，但文字与康氏手稿多有出入。现据手稿重录，并附原件照片（见附图1），以飨读者。
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collection.jpg">
+附图 1. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.</i></div>
 
 闻严又陵以译《天演论》得奇女子嫁之。亡人闻之，忘其忧患。妄欲论撰，以冀奇遇。以国事郁郁久矣，今日轩渠，可愈肝疾。写告观天演斋主，并寄贺译《天演》者。
 
@@ -56,7 +64,11 @@ Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Is
 
 前属寄二千日本还紫珊，今亦不甚催（尚欠五千），可不必汇二千，或汇一千数百以见意，如何？<br>公又笑吾刻印刓手段，可笑。[^6]（见附图4）
 
-附图 4. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.</i>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collections_4.jpg">
+附图 4. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.</i></div>
 
 以唐才常为首的自立会1900年初在上海成立，及夏，八国联军攻陷北京，慈禧与光绪出亡西安。他们便以“勤王”为名，意图发动起义，推翻慈禧政权，“归政”于光绪。但一帮毫无军事、政治经验的书生，仓猝起事，能调动的力量都是无能之辈，甚至乌合之众，因此，在老谋深算、心狠手辣的湖广总督张之洞面前，即时失败，唐才常等人立遭杀害。康有为远在南洋，鞭长莫及，再说他也未必真有军事指挥的能力。邱菽园慷慨捐助自立军，一人一己之力，毕竟有限，资金流动的渠道不畅，究竟有多少可以达于自立军之手也很难说。康、邱在南洋面对的是无情的、严酷的事实。这对他们的友谊是极大的考验。更为严峻的考验是邱菽园被张之洞发现是自立军的主要资助人，于1900年多次致电清政府驻英国公使罗丰禄和驻新加坡总领事罗忠尧（按，当时新为英属地，清政府驻新领事隶属于驻英公使管辖）请其“劝导”邱菽园，与康有为断绝关系。此时，邱本人虽身居南洋，朝廷一时还奈何他不得，但他在福建原籍的家族，逃脱不了酷吏的手掌。于是邱立即在11月22日《天南日报》刊登启事，宣布“谢绝人事”，1901年6月，又有“报效闽赈银二万两，以明心迹”，以及10月22日在《天南新报》发表《论康有为》文，表示与康决裂。[^7]一次次被迫表态，终于使张之洞满意，奏请朝廷予以开脱罪责，一家满门始得活命。
 
@@ -64,7 +76,10 @@ Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Is
 
 洞贼之电可笑。彼既日悬重赏以购，可笑复为此何耶？<br>公何不致二罗钦差、领事书以攻诘之？<br>洞贼交钱恂电曰：“外部云，地可割，款可赔，惟皇上必不可复。”则有丝毫为中国为皇上之心耶？吾欲如尊意代唐烈士为洞逆檄文刻之，以重其事。如何？但恐便宜此贼。[^8]（见附图2）
 
-附图 2. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collections_2.jpg">
+附图 2. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.</i></div>
 
 这封信书写的时间不详，但很可能是1900年9月7日张之洞第二次致电罗丰禄之后，“可笑复为此何耶”中的“复”字可证。可以肯定，邱菽园把张之洞要求两位罗姓外交官对他“开导”的信息，即时全盘告诉了康有为。
 
@@ -102,7 +117,10 @@ Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Is
 
 闻来申有期，今暂不远游，以待弟至。八月观潮恐不可及，九月后观红叶乎？复问菽园仁弟游祺 游为 八月二日[^15]（见附图3）
 
-附图 3. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collections_3_re.jpg">
+附图 3. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan</i></div>
 
 王先生所藏文献中，有康有为为邱菽园《啸虹生诗钞》撰写序言的毛笔抄稿。何人抄录，则不得知，但很明白，书于壬戌秋九月，即1922年10月，与《康有为全集》辑入的《邱菽园集序》由编者注明撰写月份晚了三个月，文字上也有较大的差异。不过文意大致相同，故本文不再采录。所见康有为致邱菽园的最后一封信书于壬戌年六月朔，即19227月24日。是年，康有为65岁，邱菽园49岁。原件不署书写年份，信中“顷悼亡”，指1922年康有为元配夫人张云珠去世，书写年份据以确定。
 
