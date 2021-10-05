@@ -4,8 +4,7 @@ permalink: /editors-picks/art
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals" target="_blank"> The Forgotten Murals of Paya Lebar Airport</a>
  <p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p> 
- <img style="float:left; width:800px; height:auto;  border:10px solid #FFFFFF" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
- <br clear=left>
+ <img style="float:center; width:800px; height:auto;  border:10px solid #FFFFFF" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
  <br clear=left>
  <hr>
 
@@ -22,8 +21,8 @@ Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? F
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals" target="_blank"> Malay Seals from Singapore</a>
-<img style="float:left; width:500px; height:auto;" src="/images/Vol-16-issue-1/malay-seals/temenggung.png">	Malay seals of the 19th century hold important information, says Annabel Teh Gallop.
-<br>										
+<p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
+<img style="float:center; width:600px; height:auto;" src="/images/Vol-16-issue-1/malay-seals/temenggung.png">
 <br clear=left>
 <hr>																																																															
 
