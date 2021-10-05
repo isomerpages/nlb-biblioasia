@@ -243,7 +243,7 @@ With Minister Mentor Lee Kuan Yew’s passing in 2015, several biographical work
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/lkycomic.jpg)
 
-<div style="background-color: white;">(Left) Morgan Chua’s cartoons trace Minister Mentor Lee Kuan Yew’s political career over the decades. <i>Image reproduced from Morgan Chua, L.K.Y. Political Cartoons, (Singapore: Epigram Books, [2014]). (From National Library Singapore, Call no. RSING 959.5704092 CHU).</i> (Right) This manga is a tribute to Singapore’s founding prime minister and also commemorates  50 years of Singapore-Japan diplomatic relations. <i>Image reproduced from Yoshio Nabeta and Yoshihide Fujiwara, The LKY Story: Lee Kuan Yew, the Man Who Shaped a Nation (Singapore: Shogakukan Asia, [2016]). (From National Library, Singapore, Call no. RSING 959.5705092 NAB).</i></div>
+<div style="background-color: white;">(Left) Morgan Chua’s cartoons trace Minister Mentor Lee Kuan Yew’s political career over the decades. <i>Image reproduced from Morgan Chua, L.K.Y. Political Cartoons, (Singapore: Epigram Books, [2014]). (From National Library Singapore, Call no. RSING 959.5704092 CHU).</i><br>(Right) This <i>manga</i> is a tribute to Singapore’s founding prime minister and also commemorates  50 years of Singapore-Japan diplomatic relations. <i>Image reproduced from Yoshio Nabeta and Yoshihide Fujiwara, The LKY Story: Lee Kuan Yew, the Man Who Shaped a Nation (Singapore: Shogakukan Asia, [2016]). (From National Library, Singapore, Call no. RSING 959.5705092 NAB).</i></div>
 
 
 #### **Promoting Comics at the National Library Board**
@@ -252,10 +252,11 @@ Besides building a collection of comics, the National Library Board (NLB) has ho
 
 In 2005, NLB hosted the first Comix Jam at the National Library Building, followed by the 24-hour Comics Day Challenge at Bukit Merah Public Library in 2012 and a 12-hour variation at library@harbourfront in 2019.[^28] These were held in the “draw-a-thon” format that allowed participants an uninterrupted period of time to create comics (for the 24-hour Comics Day Challenge, participants had to create 24 pages of comics within 24 hours).
 
-NLB has also hosted longer comics workshops where participants underwent a comprehensive editorial and mentorship process of comic creation, with peer review of comic drafts. An extension of the 24-hour Comics Day Challenge, the first Panelgraph (the authoring of stories using comic-book panels) sessions were held at Toa Payoh Public Library from 2015 to 2016. The comics created during the sessions were compiled as digital issues and made available on the Panelgraph website.[^29]
-
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/comicchallenge.jpg)
 <div style="background-color: white;">The 24-hour Comics Day Challenge held at Bukit Merah Public Library in 2012.</div>
+
+
+NLB has also hosted longer comics workshops where participants underwent a comprehensive editorial and mentorship process of comic creation, with peer review of comic drafts. An extension of the 24-hour Comics Day Challenge, the first Panelgraph (the authoring of stories using comic-book panels) sessions were held at Toa Payoh Public Library from 2015 to 2016. The comics created during the sessions were compiled as digital issues and made available on the Panelgraph website.[^29]
 
 In 2016, Tampines Regional Library was the venue for Places, a 13-week art co-creation workshop organised as part of the Community Arts & Culture Nodes initiative of the National Arts Council. Under the guidance of Gwee Li Swee – poet, graphic artist and author of several books, including the graphic novel *Myth of the Stone* – participants created comics with a select few compiled into an anthology.
 
