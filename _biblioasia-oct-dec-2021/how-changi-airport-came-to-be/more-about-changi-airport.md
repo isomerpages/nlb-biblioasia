@@ -70,7 +70,22 @@ The design of the iconic 78-metre tall control tower came from a competition hel
 
 The video below shows the radome (the dome-like structure on top of the control tower) and the radar equipment inside it being replaced in 2015.
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/Bjng3mcRUYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+}
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+<div class="video-container">
+    <iframe width="800" height="auto" src="https://www.youtube.com/embed/Bjng3mcRUYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   </div>
 <i>Courtesy of Civil Aviation Authority of Singapore</i>
 
 #### **Further Resources from the National Library and National Archives of Singapore**
