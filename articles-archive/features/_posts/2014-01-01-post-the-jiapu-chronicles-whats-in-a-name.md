@@ -91,6 +91,10 @@ Some <i>jiapu</i> are named after their ancestral halls, such as the genealogy o
 
 A 1949 drawing plan shows the Liugui Hall built in Quanzhou, China — where the six brothers originated from. There was a hall for the ancestral tablets, management offices for clan members and a stage for Chinese opera. Their <i>jiapu</i> was republished in conjunction with the construction of the ancestral hall (see page 41).
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/jiapu/info.jpg"></div>
+
 #### **Lands Belonging to the Ancestral Hall (Ji Tian 祭田)**
 
 Funds were needed to upkeep the ancestral hall as well as pay for the expansion of the building, the performance of ancestral rites, clan events, distribution of money to needy members, and even updating of the <i>jiapu</i>. Different households would contribute funds to the ancestral hall, but it was common for richer clan members to donate land to the ancestral hall. These were rented out as sources of revenue that went to the management of the ancestral hall. information on these lands was often recorded in the <i>jiapu</i> as well.[^13]
