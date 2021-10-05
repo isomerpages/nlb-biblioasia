@@ -135,9 +135,7 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 
 |<i>Wufu</i> was the set of rules that determined the mourning clothes and the mourning periods to be observed by different clan members within nine generations (<i>jiu zu</i> 九族). The nine generations were defined as the four generations before oneself (from father to great great-grandfather) and the four generations after oneself (from children to the great great-grandchildren). Mourning clothes were separated into five different types, and mourning periods ranged from three months to three years. In general, the closest kin to the deceased wore the coarsest fabric and observed the longest mourning period. These five degrees of mourning were separately known as <i>zhancui</i> (斩衰); <i>zicui</i> (齐衰); <i>dagong</i> (大功); <i>xiaogong</i> (小功); and <i>sima</i> (缌麻).[^10]|
 
-|<div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-4/jiapu/wufu_chart.jpg"><i>A wufu chart was used to determine the mourning clothes and duration of mourning for a clan member</i>. All rights reserved. <i>Ningxiang Nantang Liu shi si xiu zupu</i> (Genealogy of Liu clan from Nantang Town in Ningxiang County), 2002, Chen Zhanqi, China National Microfilming Center for Library Resources, Beijing.</div>|
+|<img src="/images/vol-9-issue-4/jiapu/wufu_chart.jpg"><i>A wufu chart was used to determine the mourning clothes and duration of mourning for a clan member</i>. All rights reserved. <i>Ningxiang Nantang Liu shi si xiu zupu</i> (Genealogy of Liu clan from Nantang Town in Ningxiang County), 2002, Chen Zhanqi, China National Microfilming Center for Library Resources, Beijing.|
 
 |**Memorial Arches (Pai Fang 牌坊)**|
 
