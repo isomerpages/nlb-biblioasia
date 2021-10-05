@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/vol-17-issue-2/Hero%20Banner2.jpg
+      background: /images/vol-17-issue-3/Hero%20Banner.jpg
       key_highlights:
         - title: ""
           description: Be enthralled by the comics collection in the National Library,
