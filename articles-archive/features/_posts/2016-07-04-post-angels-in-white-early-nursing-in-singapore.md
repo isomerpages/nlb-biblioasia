@@ -115,21 +115,21 @@ Nurses’ Week was celebrated for the first time in Singapore in May 1965. Held 
 
 Unlike most other countries, which celebrate Nurses Day on 12 May, the birthday of Florence Nightingale, Singapore celebrates Nurses Day on 1 August as it commemorates the exact date 131 years earlier when a group of French nuns in Singapore answered the call to become nurses – despite their lack of training and experience, and in the face of much public objection and protests. The nursing profession today has grown exponentially since 1965, but that subject is material for another article of its own.
 
-|**IDA SIMMONS: SINGAPORE'S FIRST PUBLIC HEALTH NURSE**|
-
-|Ida M. M. Simmons was Singapore’s first public health nurse. Fresh off the boat from Scotland, she joined the Straits Settlements Medical Department in December 1926 and was tasked with introducing infant and maternal health services in rural Singapore, an area then covering almost half the island.|
-
-|<br><img style="width:300px" src="/images/Vol-12-issue-2/angels-in-white/07-angelsinwhite.jpg">In 1927, Singapore’s first public health nurse, Ida M. M. Simmons from Scotland, was employed to provide infant and maternal health services to mothers and infants in rural areas. <i>All rights reserved, Ministry of Health. (1997). More than a Calling: Nursing in Singapore Since 1885 Singapore: Ministry of Health.</i>|
-
-|<br>In 1927, some 263 out of every 1,000 babies in Singapore died in their first year, while among rural Malays the number was almost 300 per 1,000 births. Simmons learned Malay and set out to visit every kampong (village) to uncover the extent of the problem. The health department launched a mobile dispensary to make her work easier. The vehicle travelled the rural byways and parked nearby while Simmons and her team made house calls, sending those needing medical attention to the dispensary or summoning the accompanying doctor to the house.|
-
-|Simmons and her staff earned the patients’ trust through their home visits and by 1930, formal welfare centres had been established. These centres focused on education and prevention, and provided regular check-ups, free milk, referrals to hospitals, lectures and counselling. By the time Simmons retired in 1948, there were 15 full-time centres.|
-
-|In 1934, Simmons was promoted to Public Health Matron for rural Singapore. During the Japanese Occupation of Singapore (1942–45), Simmons was interned at Sime Road Camp. After the war, she began rebuilding infant health services, which had been neglected under the Japanese. Infant mortality had worsened but the damage was soon reversed and services were extended to the small outlying islands of Singapore.|
-
-|Simmons retired to England in 1948, after having overseen a drop in the infant mortality rate from 263 deaths per 1,000 babies in 1927 to an exceptional record of 57 deaths per 1,000 babies that year. This was a feat especially when viewed against the backdrop of a rising birth rate. She later moved to Scotland, where she died in 1958.|
-
-|Extracted from Singapore Infopedia: National Library Board. (2013, March 25). [Ida Simmons](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-14_135054.html)  written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>IDA SIMMONS: SINGAPORE'S FIRST PUBLIC HEALTH NURSE</b>
+<br><br>
+Ida M. M. Simmons was Singapore’s first public health nurse. Fresh off the boat from Scotland, she joined the Straits Settlements Medical Department in December 1926 and was tasked with introducing infant and maternal health services in rural Singapore, an area then covering almost half the island.
+<br><br>
+<img style="width:300px" src="/images/Vol-12-issue-2/angels-in-white/07-angelsinwhite.jpg">In 1927, Singapore’s first public health nurse, Ida M. M. Simmons from Scotland, was employed to provide infant and maternal health services to mothers and infants in rural areas. <i>All rights reserved, Ministry of Health. (1997). More than a Calling: Nursing in Singapore Since 1885 Singapore: Ministry of Health.</i>
+<br><br>
+In 1927, some 263 out of every 1,000 babies in Singapore died in their first year, while among rural Malays the number was almost 300 per 1,000 births. Simmons learned Malay and set out to visit every kampong (village) to uncover the extent of the problem. The health department launched a mobile dispensary to make her work easier. The vehicle travelled the rural byways and parked nearby while Simmons and her team made house calls, sending those needing medical attention to the dispensary or summoning the accompanying doctor to the house.
+<br><br>
+Simmons and her staff earned the patients’ trust through their home visits and by 1930, formal welfare centres had been established. These centres focused on education and prevention, and provided regular check-ups, free milk, referrals to hospitals, lectures and counselling. By the time Simmons retired in 1948, there were 15 full-time centres.
+<br><br>
+In 1934, Simmons was promoted to Public Health Matron for rural Singapore. During the Japanese Occupation of Singapore (1942–45), Simmons was interned at Sime Road Camp. After the war, she began rebuilding infant health services, which had been neglected under the Japanese. Infant mortality had worsened but the damage was soon reversed and services were extended to the small outlying islands of Singapore.
+<br><br>
+Simmons retired to England in 1948, after having overseen a drop in the infant mortality rate from 263 deaths per 1,000 babies in 1927 to an exceptional record of 57 deaths per 1,000 babies that year. This was a feat especially when viewed against the backdrop of a rising birth rate. She later moved to Scotland, where she died in 1958.
+<br><br>
+Extracted from Singapore Infopedia: National Library Board. (2013, March 25). [Ida Simmons](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-14_135054.html)  written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.</div>
 
 <div style="background-color: white;">
 <br>
