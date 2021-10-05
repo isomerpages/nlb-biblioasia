@@ -4,6 +4,10 @@ date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/archivingimmortality
 layout: post
 ---
+#### Man is immortal; therefore he must die endlessly. For life is creating idea; it can only find itself in charging forms 
+
+<div style="text-align:right;">RABINDRANATH TAGORE</div>
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/enternity/Farquhar_Raffles_re.jpg">
