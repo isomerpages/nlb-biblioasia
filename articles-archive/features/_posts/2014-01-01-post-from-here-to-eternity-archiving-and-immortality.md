@@ -114,3 +114,33 @@ Warren, J.F. (2003). *[Rickshaw coolie: A people’s history of Singapore, 1880�
 Watson, B. (1958). <i>Ssuma Ch’ien: Grand historian of China</i>. New York: Columbia University Press. (Not available in NLB holdings)
 
 Wright, D.C. (2011). <i>The history of China</i>. California: Greenwood Press. (Not available in NLB holdings)
+
+#### **NOTES**
+
+[^1]: Housel, R., & Wisnewski, J.J. (2009). *[Twilight & philosophy: Vampires, vegetarians and the pursuit of immortality](https://nlb.overdrive.com/media/F73624CD-CFDA-4183-B370-BA988EEA31DD)*. Hoboken, New Jersey: John Wiley & Sons. Retrieved from OverDrive. (myLibrary ID is required to access this ebook) 
+
+[^2]: Wright, D.C. (2011). <i>The history of China</i>. California: Greenwood Press. (Not available in NLB holdings)
+
+[^3]: Bullfinch, T. (2004). <i>Bullfinch’s mythology: The age of fables or stories of Gods & heroes</i>. New York: Modern Library Paperbacks. (Not available in NLB holdings)
+
+[^4]: Shelly, P.B. (1818). The complete poetic works of Percy Bysshe Shellt (Vol. 2). <i>Ozymandias</i>, Retrieved from The Literature Network online website. 
+
+[^5]: Image of Ramesses II Bust: Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; With no invariant sections, no Front-Cover texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.
+
+[^6]: The British Museum. (2013). <i>Statue of Ramesses II, the “younger memnon’</i>. Retrieved from the British Museum website. 
+
+[^7]: Freedman. P. (2011, Fall). <i>The reign of Justinian – the early middle ages: 284-1000 AD</i> [Yale Open courses]. Retrieved from Yale University website. 
+
+[^8]: Watson, B. (1958). <i>Ssuma Ch’ien: Grand historian of China</i>. New York: Columbia University Press. (Not available in NLB holdings)
+
+[^9]: Image of Emperor Justinian: The work of art depicted in this image and the reproduction thereof are in the public domain worldwide. The reproduction is part of a collection of reproductions compiled by The Yorck Project. The compilation copyright is held by Zenodot Verlagsgesellchaft mbH and licensed under the GNU Free Documentation License. Image of Sima Qian: This image (or other media file) is in the public domain because its copyright has expired. This applies to Australia, the European Union and those countries with a copyright term of life of the author plus 70 years.
+
+[^10]: Raffles, S. (1819, June 25). Original instructions to William Farquhar on the Plan of Singapore Town. *[Straits Settlements Records. Series L, Singapore: Letters to Bencoolen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13844485)* [Straits Settlement Records, L10]. Singapore: National Archives of Singapore (Microfilm no.: NL 57)
+
+[^11]: Jayakumar, S., & Koh, T. (2009). *[Pedra Branca: The road to the world court](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13097148)*. Singapore: National University of Singapore Press. (Call no.: RSING 341.448095957 JAY)
+
+[^12]: Warren, J.F. (2003). *[Rickshaw coolie: A people’s history of Singapore, 1880–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063)*. Singapore: National University of Singapore Press. (Call no.: RSING 388.341 WAR)
+
+[^13]: Duranti, L. (1994, Spring). The concept of appraisal and archival theory. <i>American Archivist</i>, 57 (2), 328–344. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[^14]: British Military Administration (BMA). (1945, October–December). *[Estimates of revenue and expenditure for 1946](https://www.nas.gov.sg/archivesonline/government_records/record-details/a90edd9a-1159-11e3-83d5-0050568939ad)* [Microfilm no.: NA 1309]. Retrieved from National Archives of Singapore website.
