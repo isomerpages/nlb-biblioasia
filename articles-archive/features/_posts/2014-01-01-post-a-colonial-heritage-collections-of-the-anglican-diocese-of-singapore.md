@@ -4,7 +4,11 @@ date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/colonial-heritage
 layout: post
 ---
-The Anglican Diocese at St Andrew's Village. <i>All rights reserved, National Library Board, Singapore.</i>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg">
+The Anglican Diocese at St Andrew's Village. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 #### **Established in the Early 19th Century by the**
 
@@ -14,7 +18,10 @@ The Anglican church first gained a foothold in the Malay Peninsula when Captain 
 
 In 1823, Stamford Raffles chose the strategic location — the Esplanade — as the place to build the first Anglican church in Singapore soon after establishing the settlement. The large green expanse sat in the heart of the European residential population, locked between the business centre and the Chinese town to the west, and the Malay community to the east. St Andrew’s Cathedral (see text box on page 48) still stands there today, a towering testament to the vision of Raffles.
 
-The <i>Singapore Diocesan Quarterly Leaflet</i>, Vol. 1, No. 2, May 1939. <i>Image courtesy of the Archives of the Anglican Diocese of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/colonial/Singapore_Diocesan_Quarterly_Leaflet.jpg">
+The <i>Singapore Diocesan Quarterly Leaflet</i>, Vol. 1, No. 2, May 1939. <i>Image courtesy of the Archives of the Anglican Diocese of Singapore.</i></div>
 
 #### **The Straits Settlements Period**
 
@@ -22,13 +29,20 @@ After Singapore, Malacca and Penang were brought together to form the Straits Se
 
 The centre of authority for the Anglican church moved gradually from Calcutta to Southeast Asia when a United Diocese of Singapore, Labuan and Sarawak was formed in 1881. In the late 19th century, churches were increasingly established across the Peninsula, including Taiping (1887), Kuala Lumpur (1887) and Seremban (1893).[^1] This was a natural consequence as the Malay States opened up with the signing of the Pangkor Treaty in 1874 and the British started to establish themselves commercially, in businesses and plantations, in the Peninsula. During this time, local Tamils and Chinese from various dialect groups began joining the Anglican church.
 
-An example of subsequent editions renamed the <i>Singapore Diocesan Association Magazine</i>, August 1964. <i>Image courtesy of the Archives of the Anglican Diocese of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/colonial/Singapore_Diocesan_Association_Magazine_1964.jpg">
+An example of subsequent editions renamed the <i>Singapore Diocesan Association Magazine</i>, August 1964. <i>Image courtesy of the Archives of the Anglican Diocese of Singapore.</i></div>
 
 #### **The Anglican Church in the 20th Century**
 
 Increasingly, the need to centre Anglican missionary work in Singapore became apparent. Archdeacon Hose, a brilliant preacher and Malay scholar, started the Bishopric Endowment Fund to help set up the Diocese of Singapore.[^2] The Diocese of Singapore was formed in 1909 and included the <i>Straits Settlements</i>, namely Singapore, Penang and Malacca, as well as the Federated Malay States, Java and Siam (Thailand). Unfortunately, the diocese suffered financially during this period because of the Great Depression and the two World Wars. To make matters worse, the Japanese Occupation seemed to have obliterated what was left physically of the Anglican church as its expatriate priests were interned.
 
 Thankfully, a stronger Asian leadership emerged after the war. The church, with an awakened local laity, arose ready to ride the new wave of nationalism. The chaplaincy system was replaced by parishes in 1947, a signal of the endorsement of “a permanent civil establishment”.[^3] In 1960, the Diocese was renamed the Diocese of Singapore and Malaya, soon after Malaya’s independence from British rule in 1957. By 1970, five years after Singapore separated from Malaysia, the Diocese of Singapore reverted back to her former name with jurisdiction only over Singapore initially but later expanding in the 1990s to encompass the six deanery countries of Cambodia, Indonesia, Laos, Nepal, Thailand and Vietnam. 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/colonial/bg.jpg"></div>
 
 #### **The Anglican Archieves in Singapore**
 
@@ -48,7 +62,7 @@ Besides these rare items are limited numbers of photo albums, architectural draw
 
 |First published as the <i>Singapore Diocesan Magazine</i> in November 1910,[^6] it was “a quarterly record of church work etc. in the Diocese”.[^7] The Diocese of Singapore, formed in 1909, had extended beyond the Straits Settlements to include the Federated Malay States, Java and Siam (Thailand). The first issue noted how the <i>Singapore Diocesan Magazine</i> was inspired because “we in the Church of England seemed to know very little about each other’s doings, and in consequence were not sufficiently united.” The quarterly thus gave updates on recent church activities and events in each district as well as in the church-run homes, schools and institutions along with appointments of both clerics and laity. The digitised collection spans from the first issue of 1910 until Volume 27, Number 104 of November 1936. The magazine continues today as the <i>Diocesan Digest</i>.|
 
-|Cover page of the first issue of the Singapore Diocesan Magazine. <i>Courtesy of the Archives of the Anglican Diocese of Singapore</i>.|
+|<img src="/images/vol-9-issue-4/colonial/singapore_diocesan_magazine.jpg">Cover page of the first issue of the Singapore Diocesan Magazine. <i>Courtesy of the Archives of the Anglican Diocese of Singapore</i>.|
 
 |**St Andrew's Cathedral**|
 
@@ -60,7 +74,7 @@ Besides these rare items are limited numbers of photo albums, architectural draw
 
 |St Andrew’s Cathedral is the oldest Anglican house of worship in Singapore and was gazetted as a national monument in 1973.|
 
-|St Andrew's Cathedral. <i>chooyutshing, via Flickr.</i>|
+|<img src="/images/vol-9-issue-4/colonial/cathedral.jpg">St Andrew's Cathedral. <i>chooyutshing, via Flickr.</i>|
 
 <i>The author would like to thank Ms Lau Jen Sin and Reverend Canon Soon Soo Kee for reviewing this article.</i>
 
