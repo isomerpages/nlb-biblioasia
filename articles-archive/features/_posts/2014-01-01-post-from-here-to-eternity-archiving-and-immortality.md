@@ -64,3 +64,35 @@ An image of Orchard Road circa 1900s when its surroundings were mostly spice and
 <p style="font-size:15px;"><b>Kevin Khoo</b> is an archivist at the National archives of Singapore. He is a historian by training, and alumni of the National University of Singapore’s history department. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+British Military Administration (BMA). (1945, October–December). *[Estimates of revenue and expenditure for 1946](https://www.nas.gov.sg/archivesonline/government_records/record-details/a90edd9a-1159-11e3-83d5-0050568939ad)* [Microfilm no.: NA 1309]. Retrieved from National Archives of Singapore website.
+
+Bullfinch, T. (2004). <i>Bullfinch’s mythology: The age of fables or stories of Gods & heroes</i>. New York: Modern Library Paperbacks. (Not available in NLB holdings)
+
+Duranti, L. (1994, Spring). The concept of appraisal and archival theory. <i>American Archivist</i>, 57 (2), 328–344. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Freedman. P. (2011, Fall). <i>The reign of Justinian – the early middle ages: 284-1000 AD</i> [Yale Open courses]. Retrieved from Yale University website. 
+
+Gollner, A.L. (2013, August 19). Live forever, can science deliver immortality. <i>Salon Magazine</i>. Retrieved from salon.com website. 
+
+Housel, R., & Wisnewski, J.J. (2009). *[Twilight & philosophy: Vampires, vegetarians and the pursuit of immortality](https://nlb.overdrive.com/media/F73624CD-CFDA-4183-B370-BA988EEA31DD)*. Hoboken, New Jersey: John Wiley & Sons. Retrieved from OverDrive. (myLibrary ID is required to access this ebook) 
+
+Jayakumar, S., & Koh, T. (2009). *[Pedra Branca: The road to the world court](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13097148)*. Singapore: National University of Singapore Press. (Call no.: RSING 341.448095957 JAY)
+
+National Archives (Singapore). (2011). [Records management handbook: Creating, appraising, disposing and preserving public records](C:\Users\nlsvchl\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\8U0SSXGP\Records management handbook : creating, appraising, disposing and preserving public records). Singapore: National Archives of Singapore. (Call no.: RSING 025.1714095957 REC)
+
+Posner, E. (1972). <i>Archives in the ancient world</i>. Cambridge, Massachusetts, Harvard University Press. (Not available in NLB holdings)
+
+Raffles, S. (1819, June 25). Original instructions to William Farquhar on the Plan of Singapore Town. *[Straits Settlements Records. Series L, Singapore: Letters to Bencoolen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13844485) [Straits Settlement Records, L10]. Singapore: National Archives of Singapore (Microfilm no.: NL57)
+
+Shelly, P.B. (1818). The complete poetic works of Percy Bysshe Shellt (Vol. 2). <i>Ozymandias</i>, Retrieved from The Literature Network online website. 
+
+The British Museum. (2013). <i>Statue of Ramesses II, the “younger memnon’</i>. Retrieved from the British Museum website. 
+
+Warren, J.F. (2003). *[Rickshaw coolie: A people’s history of Singapore, 1880–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063)*. Singapore: National University of Singapore Press. (Call no.: RSING 388.341 WAR)
+
+Watson, B. (1958). <i>Ssuma Ch’ien: Grand historian of China</i>. New York: Columbia University Press. (Not available in NLB holdings)
+
+Wright, D.C. (2011). <i>The history of China</i>. California: Greenwood Press. (Not available in NLB holdings)
