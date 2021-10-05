@@ -2,18 +2,27 @@
 title: test
 permalink: /test
 ---
-#### [**The Forgotten Murals of Paya Lebar Airport**](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals)
-<img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF"> <style>
-responsive {max-width: 100%  height: auto;} </style>
-Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.
-<br>
-<br>
-<hr>
-<br>
 
-<div class="container">
-<a style="text-decoration:none; href=" target="_blank">
-<h4><strong>The Forgotten Murals of Paya Lebar Airport</strong></h4> 
-	<img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF">	
-	<p>Three large murals used to grace the walls of Paya Lebar </p> </a> 
-	</div>
+<iframe width=800px height=auto src="https://www.youtube.com/embed/Bjng3mcRUYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<i>Courtesy of Civil Aviation Authority of Singapore</i>
+
+
+<hr>
+
+<style>
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+}
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+<div class="video-container">
+    <iframe width="800" height="auto" src="https://www.youtube.com/embed/Bjng3mcRUYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
