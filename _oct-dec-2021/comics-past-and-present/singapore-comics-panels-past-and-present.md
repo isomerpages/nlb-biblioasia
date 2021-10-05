@@ -121,7 +121,7 @@ The <i>Dim Sum Warriors</i> (点心侠; <i>Dian Xin Xia</i>) series is the creat
 
 <img src="/images/vol-17-issue-3/singapore-comics/dimsum.jpg"/>
 
-<div style="background-color: white;">Different types of dim sum are imagined as kungfu warriors in this comic series. <i>Image reproduced from Colin Goh, Woo Yen Yen, Soo Lee and Lauren Baker, Dim Sum Warriors = Dian Xin Xia. Volume 1, Enter the Dumpling (New York: Yumcha Studios, 2012). (From National Library, Singapore, Call no. JR SING 741.595957 GOH).</i></div>
+<div style="background-color: white;">Different types of <i>dim sum</i> are imagined as kungfu warriors in this comic series. <i>Image reproduced from Colin Goh, Woo Yen Yen, Soo Lee and Lauren Baker, Dim Sum Warriors = Dian Xin Xia. Volume 1, Enter the Dumpling (New York: Yumcha Studios, 2012). (From National Library, Singapore, Call no. JR SING 741.595957 GOH).</i></div>
 
 The bilingual comic book was first  published in 2012 and later adapted into a musical that toured major Chinese cities.[^13] In 2019, the couple launched a spin-off storybook series for children as well as an educational app for children to learn Mandarin.[^14]
 
