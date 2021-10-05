@@ -12,14 +12,18 @@ layout: post
 
 [<b>A Tale of Many Hands</b>](/vol-9/issue-4/jan-march-2014/tale-of-many-hands)<br>There’s more to the hand than meets the eye, as **Tan Huism** found out when she curated an exhibition using the motif of hands for the National Library recently.
 
-[<b>The Unlikely Composer: Tsao Chieh</b>]()<br>Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. **Jun Zubillaga-Pow** traces the life of this underrated artist.
+[<b>The Unlikely Composer: Tsao Chieh</b>](/vol-9/issue-4/jan-march-2014/tsao-chieh)<br>Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. **Jun Zubillaga-Pow** traces the life of this underrated artist.
 
-[<b></b>]()<br>
+[<b>Kampong Living: A–Z</b>](/vol-9/issue-4/jan-march-2014/kampong-living)<br>
 
-[<b></b>]()<br>
+[<b>Time-Forgotten Trades</b>](/vol-9/issue-4/jan-march-2014/forgotten-trades)<br>Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared. **Sharon Teng** tells us about these trades and what is being done to remember them.
 
-[<b></b>]()<br>
+[<b>The Jiapu Chronicles: What’s in a Name?</b>](/vol-9/issue-4/jan-march-2014/jiapu)<br>Records of family lineage were important in traditional Chinese society. **Lee Meiyu** charts the history of these documents, or jiapu, which track not only family roots but also the social norms and cultural values of China at the time.
 
-[<b></b>]()<br>
+[<b>From Here to Eternity: Archiving and Immortality</b>](/vol-9/issue-4/jan-march-2014/archivingimmortality)<br>Man is immortal; therefore he must die endlessly. For life is creating idea; it can only find itself in charging forms
+
+[<b> A Colonial Heritage:  Collections of the  Anglican Diocese of Singapore</b>](/vol-9/issue-4/jan-march-2014/colonial-heritage)<br>
+
+[<b>Old Singapore: Places in Pictures and Oral History</b>](/vol-9/issue-4/jan-march-2014/old-sg)<br>
 
 [<b></b>]()<br>
