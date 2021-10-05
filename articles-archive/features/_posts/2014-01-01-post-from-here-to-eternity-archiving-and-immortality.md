@@ -4,16 +4,10 @@ date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/archivingimmortality
 layout: post
 ---
-Egyptian_Sulpture
-
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/enternity/Farquhar_Raffles_re.jpg">
 Selected pages from Sir Stamford Raffles' original instructions to Sir William Farquhar for the development of Singapore Town, 25 June 1819.[^10] Courtesy of National Archives of Singapore.</div>
-
-Man is immortal; therefore he must die endlessly. For life is a creative idea; it can only find itself in changing forms.
-<div style="text-align: right">— RABINFRANATH TAGORE</div>
 
 Immortality — the idea of living eternally, never aging, dying or being forgotten — has captivated mankind throughout history. Humans — as sentient beings gifted with intellect, self-awareness and creativity, capable of love and the capacity to conceive and perceive infinity, yet bound by mortal bodies which invariably age and die — have always sought an escape from this inevitable fate.
 
