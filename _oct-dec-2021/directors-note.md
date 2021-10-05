@@ -23,5 +23,5 @@ There is, as you can see, no shortage of interesting things to read in this issu
 <div style="background-color: white;">
 <br>
 <img style="">
-<center><b>Ms Alicia Yeo</b><br>Acting Director<br>National Library</center>
+<b>Ms Alicia Yeo</b><br>Acting Director<br>National Library
 </div>
