@@ -10,8 +10,10 @@ Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsud
 <br>
 <hr>
 <br>
-	 
-<div><a style="text-decoration:none; href=" target="_blank">
+
+<div class="container">
+<a style="text-decoration:none; href=" target="_blank">
 <h4><strong>The Forgotten Murals of Paya Lebar Airport</strong></h4> 
-	<img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF">	 <p>Three large murals used to grace the walls of Paya Lebar </a> </p>
+	<img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" style="float:left; width:500px; height:auto;  border:10px solid #FFFFFF">	
+	<p>Three large murals used to grace the walls of Paya Lebar </p> </a> 
 	</div>
