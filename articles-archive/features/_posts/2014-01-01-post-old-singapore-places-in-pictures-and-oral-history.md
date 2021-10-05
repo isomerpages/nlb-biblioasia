@@ -14,11 +14,21 @@ buildings in Singapore have undergone facelifts or changed their identities, whi
 
 — Mr Yap Pau Eng, former director of National Theatre Trust, on precautionary measures taken to minimise disruptions during performances. Translated from Chinese oral history interview no. 1489, reel 2, conducted in 2009.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/oldsg/national_theatre.jpg">
+<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
+
 #### **City Hall**
 
 “Third floor, Ministry of Culture... All I remember was that I just went up there. It was just a room. I don’t know what it was before. It was just a City Council office with little cubby-holes. All I had was a table and a chair. So I said “How do you start?” I think the first couple of days was just bringing in furniture and files and digging up stuff. At one point, I thought of having my Ministry in Radio Singapore because that was one part of the Ministry of Culture. But that would have been out of the way.”
 
 — Mr S. Rajaratnam, then-Minister for Culture, describing his office in City Hall on his first day of work in 1959. Oral history interview no. 0149, reel 28, conducted in 1982.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/oldsg/city_hall.jpg">
+<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
 
 #### **Grand Hotel De L'europe**
 
@@ -26,7 +36,10 @@ buildings in Singapore have undergone facelifts or changed their identities, whi
 
 — Mr Claude Oliveiro, pianist at Grand Hotel de l’Europe, on the music he used to play at the luxury hotel, which eventually made way for the Old Supreme Court in the 1930s. Oral history interview no. 1085, reel 2, conducted in 1989
 
-Courtesy of National Archives of Singapore.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/oldsg/hotel_de_IEurope.jpg">
+<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
 
 #### **National Stadium**
 
@@ -34,11 +47,21 @@ Very fond memories, I’ve been here before I joined the Sports Council: to watc
 
 — Col (Ret) Kwan Yue Yeong, former executive director of the Singapore Sports Council, on his memories of the National Stadium in the 1990s and early 2000s. Oral history interview no. 3101, reel 3, conducted in 2006.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/oldsg/national_stadium.jpg">
+<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
+
 #### **Capitol Theatre**
 
 “Capitol [had] a very wide hall, I mean, it may [have been] three times as large as Pavilion [Cinema] and it’s got some three dimensional figures on the sides. It had quite a decorative ceiling, they had curtains that come down and come up – very attractive. Well, all in all it’s a building that would have caught the attention of many people who went there for the first time to admire, unlike [the] Pavilion.”
 
 — Mr Khoo Beng Chuan Benjamin, former principal of Chai Chee Secondary School, on the interior of Capitol Theatre and why it was such a distinctive cinema in the 1930s. Oral history interview no. 2911, reel 26, conducted in 2005.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/oldsg/capital_theatre.jpg">
+<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
 
 #### **Old Hill Street Police Station**
 
@@ -46,7 +69,10 @@ Very fond memories, I’ve been here before I joined the Sports Council: to watc
 
 — Mr Tay Kiam Hong, artist and interior designer, on his childhood memories of the Old Hill Street Police Station, where he would participate in activities organised for the families of police officers in the 1950s. Translated from Chinese oral history interview no. 1504, reel 2, conducted in 2010.
 
-MITA collection, courtesy of National Archives of Singapore; Ronni Pinsler collection, courtesy of National Archives of Singapore; Courtesy of National Archives of Singapore.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/oldsg/police_station.jpg">
+<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
 
 <p style="font-size:15px;"><b>Lu Wenshi</b> is an Oral History Specialist with the National archives of Singapore. She conducts oral history interviews with individuals from different walks of life. Some oral history extracts in this article were contributed by Wenshi’s interviewees, and their narrations inspired her to curate this selection. She also conducts training for institutions that are keen to embark on their own oral history programme.</p>
 
