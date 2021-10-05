@@ -4,7 +4,13 @@ date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/archivingimmortality
 layout: post
 ---
-Selected pages from Sir Stamford Raffles' original instructions to Sir William Farquhar for the development of Singapore Town, 25 June 1819.[^10] Courtesy of National Archives of Singapore.
+Egyptian_Sulpture
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/enternity/Farquhar_Raffles_re.jpg">
+Selected pages from Sir Stamford Raffles' original instructions to Sir William Farquhar for the development of Singapore Town, 25 June 1819.[^10] Courtesy of National Archives of Singapore.</div>
 
 Man is immortal; therefore he must die endlessly. For life is a creative idea; it can only find itself in changing forms.
 <div style="text-align: right">— RABINFRANATH TAGORE</div>
@@ -29,6 +35,10 @@ Surely God would not have created such a being as man, with an ability to grasp 
 
 <div style="text-align: right">—ABRAHAM LINCON</div>
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/enternity/Egyptian_Sulpture.jpg">
+</div>
 Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (image via Wikimedia Commons[^5]) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^6]
 
 #### **Archiving and Immortality**
@@ -51,7 +61,15 @@ Many modern archives also have growing collections of photographic and audio-vis
 
 Immortality is a concept fraught with paradoxes. As far as physical immortality remains impossible, it implies a non-material existence which extends beyond mortal life; the continuation of a personality beyond death (whether in spirit or on record), and the retention of its capacity to influence this world however disembodied. The idea has pre-scientific roots, but retains a hold on a popular culture that is increasingly dominated by empirical studies and science. Immortality is granted to people and events that merit remembering, but also, as reflected in the contents of an archive, it is given to things which may have had no intention or conscious desire of being remembered. 
 
-Mural depiction of the Emperor Justinian who ruled between 527–565 CE at the height of the Byzantine Empire's influence. Image via Wikipedia Commons.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/enternity/meister.jpg">
+Mural depiction of the Emperor Justinian who ruled between 527–565 CE at the height of the Byzantine Empire's influence. Image via Wikipedia Commons.</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/enternity/sima_qian.jpg">
+Painting of Sima Qian, who serves as court historian during the Han Dynasty between 145/135-86 BCE. Image via Wikipedia Commons.[^5]</div>
 
 <i>The National Archives of Singapore (NAS) houses the collective memory of the nation, which allows current and future generations of Singaporeans to understand its different cultures, explore its common heritage and appreciate who we are as a people and how we became a nation.</i>
 
@@ -59,7 +77,13 @@ Mural depiction of the Emperor Justinian who ruled between 527–565 CE at the h
 
 <i>NAS protects the rights of citizens by providing evidence and accountability of government actions. Its repository of archival materials makes NAS an important research centre for those in search of information about the country's history. NAS also promotes public interest in Singapore history and heritage through educational programmes and exhibitions.</i>
 
-An image of Orchard Road circa 1900s when its surroundings were mostly spice and fruit plantations. This is a far cry from Orchard Road today (ABOVE), which is a highly urbanised and chic shopping belt. <i>Courtesy of National Archives of Singapore and Kevin Khoo, respectively.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/enternity/orchard_old.jpg"></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/enternity/orchard_new.jpg">
+An image of Orchard Road circa 1900s when its surroundings were mostly spice and fruit plantations. This is a far cry from Orchard Road today (ABOVE), which is a highly urbanised and chic shopping belt. <i>Courtesy of National Archives of Singapore and Kevin Khoo, respectively.</i></div>
 
 <p style="font-size:15px;"><b>Kevin Khoo</b> is an archivist at the National archives of Singapore. He is a historian by training, and alumni of the National University of Singapore’s history department. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science.</p>
 
