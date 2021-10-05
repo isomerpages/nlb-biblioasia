@@ -188,7 +188,7 @@ Nora Abdullah, also known as Nek Norzarah Abdullah, was Geliga’s first female 
 
 <img src="/images/vol-17-issue-3/singapore-comics/noraandcover.jpg" />
 
-<div style="background-color: white;">(Left) Nora Abdullah, also known as Nek Norzarah Abdullah, was Geliga’s first female cartoonist and also the first known Malay female cartoonist in Singapore and Malaya. <i>Courtesy of the Malay Heritage Centre.</i><br><br>(Right) Siti Wan Kembang is the legendary queen who ruled Kelantan in the 17th century. <i>Image reproduced from Nora Abdullah, Cik Siti Wan Kembang (London: The British Library, [2010–2013]). (From National Library, Singapore, Call no. Malay RCLOS 899.28 NOR).</i></div>
+<div style="background-color: white;">(Left) Nora Abdullah, also known as Nek Norzarah Abdullah, was Geliga’s first female cartoonist and also the first known Malay female cartoonist in Singapore and Malaya. <i>Courtesy of the Malay Heritage Centre.</i><br>(Right) Siti Wan Kembang is the legendary queen who ruled Kelantan in the 17th century. <i>Image reproduced from Nora Abdullah, Cik Siti Wan Kembang (London: The British Library, [2010–2013]). (From National Library, Singapore, Call no. Malay RCLOS 899.28 NOR).</i></div>
 
 Between 1955 and 1961, Nora Abdullah published at least 12 comic books with Geliga, including <i>Bawang Puteh Bawang Merah</i> (1957), which is based on an Indonesian folktale about a gentle and obedient village girl living with her evil stepsister and stepmother. The village girl eventually marries a prince.
 
