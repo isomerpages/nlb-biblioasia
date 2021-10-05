@@ -139,7 +139,7 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 <b>SPY MUSIC</b>
 
-	The music for <i>Five Ashore in Singapore</i> was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of <i>Five Ashore</i>’s director Bernard Toublanc-Michel, he composed <i>Somewhere in Singapore</i> (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
+The music for <i>Five Ashore in Singapore</i> was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of <i>Five Ashore</i>’s director Bernard Toublanc-Michel, he composed <i>Somewhere in Singapore</i> (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
 
 <img style="width: 420px; height: 420px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore12.JPG">Cover of the French record album of <i>Five Ashore in Singapore</i>, 1967. The music for the film was composed by renowned French composer Antoine Duhamel. © Barclay Editions. <i>Courtesy of Raphaël Millet.</i>
 
