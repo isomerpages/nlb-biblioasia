@@ -79,24 +79,24 @@ At last came the development we had all been waiting for. The Kuwaiti foreign mi
 
 The whole episode ended without bloodshed. It was good experience for me, the various ministries involved, the security service, the police and the military. While the decision to give the *Laju* hijackers safe passage out of Singapore attracted some criticism, we believed it was right. We wanted to minimise any likelihood of a terrorist group picking a quarrel with Singapore and seeking retaliation. In government you often have to make difficult decisions about serious problems with little accurate information at your disposal, and under great time pressure.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-3/s-r-nathan/05_sr_nathan.jpg"></div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><img style="width:400px" src="/images/Vol-12-issue-3/s-r-nathan/05_sr_nathan.jpg">
 
 |S R Nathan: *50 Stories from My Life* captures major milestones in the personal and official life of the late former President of Singapore (b. 3 July 1924−d. 22 August 2016). Written with a younger audience in mind, and illustrated by Morgan Chua, a former political cartoonist with the *Far Eastern Economic Review*, the book will appeal to anyone interested in Singapore and its history.|
 
-|S R Nathan: *50 Stories from My Life* (paperback, 184 pages) is published by Editions Didier Millet and retails at $19.90. It is available for loan and reference at the Lee Kong Chian Reference Library and branches of all public libraries ([Call no.: RSING 959.5705092 NAT](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200132009)).|
+|S R Nathan: *50 Stories from My Life* (paperback, 184 pages) is published by Editions Didier Millet and retails at $19.90. It is available for loan and reference at the Lee Kong Chian Reference Library and branches of all public libraries (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200132009">Call no.: RSING 959.5705092 NAT</a>).|
 
-|<br>**OTHER PUBLICATIONS BY S R NATHAN**|
+<b>OTHER PUBLICATIONS BY S R NATHAN</b>
 
-|<br>***[S R Nathan in Conversation with Timothy Auger](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201165320)***<br>Editions Didier Millet, 2015<br>Call nos.: RSING 959.5705 NAT and SING 959.5705 NAT|
+<b><i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201165320">S R Nathan in Conversation with Timothy Auger</a></i></b><br>Editions Didier Millet, 2015<br>Call nos.: RSING 959.5705 NAT and SING 959.5705 NAT
 
-|<br>***[An Unexpected Journey: Path to the Presidency](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14182432)***<br>Editions Didier Millet, 2011<br>Call nos.: RSING 959.5705092 NAT and SING 959.5705092 NAT|
+<b><i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14182432">An Unexpected Journey: Path to the Presidency</a></i></b><br>Editions Didier Millet, 2011<br>Call nos.: RSING 959.5705092 NAT and SING 959.5705092 NAT
 
-|<br>***[Why Am I Here?: Overcoming Hardships of Local Seafarers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13369901)***<br>Centre for Maritime Studies, National University of Singapore, 2010<br>Call nos.: RSING 331.7613875095957 NAT and SING 331.7613875095957 NAT|
+<b><i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13369901">Why Am I Here?: Overcoming Hardships of Local Seafarers</a></i></b><br>Centre for Maritime Studies, National University of Singapore, 2010<br>Call nos.: RSING 331.7613875095957 NAT and SING 331.7613875095957 NAT
 
-|<br>***[The Crane and the Crab](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124330)***<br>Epigram Books, 2013<br>Call nos.: JRSING 428.6 NAT and JSING 428.6 NAT|
+<b><i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124330">The Crane and the Crab</a></i></b><br>Epigram Books, 2013<br>Call nos.: JRSING 428.6 NAT and JSING 428.6 NAT
 
-|<br>***[Winning Against the Odds: The Labour Research Unit in NTUC’s Founding](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13729956)***<br>Straits Times Press, 2011<br>Call nos.: RSING 331.880959957 NAT and SING 331.880959957 NAT|
+<b><i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13729956">Winning Against the Odds: The Labour Research Unit in NTUC’s Founding</a></i></b><br>Straits Times Press, 2011<br>Call nos.: RSING 331.880959957 NAT and SING 331.880959957 NAT
 
-|<br>***[Singapore’s Foreign Policy: Beginnings and Future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13179096)***<br>MFA Diplomatic Academy, 2008<br>Call no.: RSING 327.5957 NAT|
+<b><i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13179096">Singapore’s Foreign Policy: Beginnings and Future</a></i></b><br>MFA Diplomatic Academy, 2008<br>Call no.: RSING 327.5957 NAT</div>
 
 <a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>
