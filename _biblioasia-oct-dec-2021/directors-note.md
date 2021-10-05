@@ -24,5 +24,5 @@ There is, as you can see, no shortage of interesting things to read in this issu
 <div style="background-color: white;">
 <br>
 <img src="/images/vol-17-issue-3/Director.png" style="width: 100px; height: 100px;" />
-<b>Ms Alicia Yeo</b><br>Acting Director<br>National Library
+<center><b>Ms Alicia Yeo</b><br>Acting Director<br>National Library</center>
 </div>
