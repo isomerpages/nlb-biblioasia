@@ -1,6 +1,7 @@
 ---
 title: "Carving Cultural Imprints: The Hui'an in Singapore"
 permalink: /vol-17/issue-3/oct-dec-2021/huianinsingapore
+image: /images/vol-17-issue-3/hui-an/Facing%20Page.jpg
 ---
 #### A group of contractors from Hui’an county in China were responsible for building some of Singapore’s iconic landmarks. **Athanasios Tsakonas** has the story.
 
