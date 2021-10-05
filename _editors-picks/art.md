@@ -22,6 +22,6 @@ permalink: /editors-picks/art
 
 #### <a target="_blank" href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" style="text-decoration: none; font-weight: bold;"> A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</a> 
 <p>Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? </p>
-<img style="float:center; width:800px; height:auto;" src="/images/Vol-17-issue-/malayan-fruits/ananas.jpg">
+<img  src="/images/Vol-17-issue-/malayan-fruits/ananas.jpg">
 
-<hr clear="left">																																		
+<hr clear="left">
