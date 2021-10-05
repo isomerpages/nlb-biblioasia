@@ -37,13 +37,13 @@ A few trades have survived the march of time, such as the mobile ice-cream cart 
 
 #### **Cobblers**
 
-<i>History</i><br>When Singaporeans switched from wearing clogs to modern footwear during the 1950s, cobblers filled in the demand for shoe repairs. Many cobblers started out as shoe shop apprentices before setting up their own businesses. The trade comprised predominantly Chinese males, although there were also several Malay and Indian cobblers.
+**History**<br>When Singaporeans switched from wearing clogs to modern footwear during the 1950s, cobblers filled in the demand for shoe repairs. Many cobblers started out as shoe shop apprentices before setting up their own businesses. The trade comprised predominantly Chinese males, although there were also several Malay and Indian cobblers.
 
-<i>Job Scope</i><br>Cobblers worked flexible hours with incomes varying from month-to-month and provided services such as shoe polishing, replacement of worn-out heels and soles, and stitching-up of torn slippers. Some branched out into more premium services by making and selling their own slippers (<i>capal</i>) and shoes. Replacing the sole or heel of a shoe would have cost around $1.50 in the late 1970s, with the cobbler earning around $300 a month on average.
+**Job Scope**<br>Cobblers worked flexible hours with incomes varying from month-to-month and provided services such as shoe polishing, replacement of worn-out heels and soles, and stitching-up of torn slippers. Some branched out into more premium services by making and selling their own slippers (<i>capal</i>) and shoes. Replacing the sole or heel of a shoe would have cost around $1.50 in the late 1970s, with the cobbler earning around $300 a month on average.
 
-<i>Tools of the Trade</i><br>Cobblers used an array of tools; “different kinds of knives, hammers, nails, pincers, adhesive, shoe lasts, shoe polish, shoe brushes, thread and needles, scissors, leather, vinyl, rags and rubber pieces”.[^6]
+**Tools of the Trade**<br>Cobblers used an array of tools; “different kinds of knives, hammers, nails, pincers, adhesive, shoe lasts, shoe polish, shoe brushes, thread and needles, scissors, leather, vinyl, rags and rubber pieces”.[^6]
 
-Then and Now Cobblers used to operate along five-foot-ways and roads in city areas. They stationed themselves at fixed locations or moved around housing estates on bicycle-carts filled with the tools of their trade. Traditional cobblers can still be found in Chinatown and Raffles Place, although they are gradually being replaced by shoe repair chains such as Mister Mint and Shukey Services that are conveniently located in shopping malls.[^7]
+**Then and Now**<br>Cobblers used to operate along five-foot-ways and roads in city areas. They stationed themselves at fixed locations or moved around housing estates on bicycle-carts filled with the tools of their trade. Traditional cobblers can still be found in Chinatown and Raffles Place, although they are gradually being replaced by shoe repair chains such as Mister Mint and Shukey Services that are conveniently located in shopping malls.[^7]
 
 <div style="background-color: white;">
 <br/>
@@ -52,19 +52,19 @@ Cobbler operating from pavement (1980). <i>Courtesy of National Archives of Sing
 
 #### **Fortune Tellers**
 
-<i>History</i><br>Chinese fortune-telling as a trade began in the 1800s when there was a huge influx of Chinese immigrants to Singapore. Having little or no education, people who needed help with selecting a felicitous date for a wedding or the opening of a shop for example, would seek the advice of a fortune teller. 
+**History**<br>Chinese fortune-telling as a trade began in the 1800s when there was a huge influx of Chinese immigrants to Singapore. Having little or no education, people who needed help with selecting a felicitous date for a wedding or the opening of a shop for example, would seek the advice of a fortune teller. 
 
 Parrot astrology was the domain of Indian fortune tellers who originated mainly from Tamil Nadu and Kerala in South India.
 
-<i>Job Scope</i><br>There were several popular methods that Chinese fortune tellers used, such as palmistry, face reading, <i>bazi</i> (using one’s birth date to predict one’s destiny or to gauge the compatibility of a match-made couple), <i>kau cim</i> (using a set of 78 sticks for short-term predictions) and <i>tung chu</i> (using the almanac to select auspicious dates for important events such as weddings and shifting house).
+**Job Scope**<br>There were several popular methods that Chinese fortune tellers used, such as palmistry, face reading, <i>bazi</i> (using one’s birth date to predict one’s destiny or to gauge the compatibility of a match-made couple), <i>kau cim</i> (using a set of 78 sticks for short-term predictions) and <i>tung chu</i> (using the almanac to select auspicious dates for important events such as weddings and shifting house).
 
 Indian fortune tellers relied on their specially trained green parakeets to foretell the future. The bird would pick a fortune card based on the customer’s name and birth date. The astrologer would then interpret the image on the card (which depicted deities of different faiths, accompanied by lucky messages) that would address the customer’s concerns, which ranged from chances at the lottery and matrimonial compatibility to the recovery of a sick loved one.
 
-<i>Tools of the Trade</i><br>Chinese fortune tellers operated from a simple consultation booth, furnished with a small table and a few stools for customers. on display would be religious iconography such as the statue of Buddha or other Chinese deities, lighted incense or joss sticks, pictures of palms, cards, bamboo sticks and books among others.
+**Tools of the Trade**<br>Chinese fortune tellers operated from a simple consultation booth, furnished with a small table and a few stools for customers. on display would be religious iconography such as the statue of Buddha or other Chinese deities, lighted incense or joss sticks, pictures of palms, cards, bamboo sticks and books among others.
 
 An Indian fortune teller, dressed in a white <i>dhoti</i> and shirt, would have had an even more basic set-up: a small table or even just the pavement itself, where a deck of 27 fortune cards would be displayed along with some charts, a notebook and caged parakeets. To supplement their paltry daily incomes of $10 to $15, they would also participate in cultural shows and trade exhibitions, earning up to $100 to $200 per job. 
 
-<i>Then and Now</i><br>In the past, fortune tellers were usually found along five-foot-ways and in temple grounds. Today, Chinese fortune tellers are still commonly seen around Chinatown, at Kwan Im Thong Hood Cho Temple in Waterloo Street, and at older HDB estates such as Bedok, Toa Payoh and Ang Mo Kio.
+**Then and Now**<br>In the past, fortune tellers were usually found along five-foot-ways and in temple grounds. Today, Chinese fortune tellers are still commonly seen around Chinatown, at Kwan Im Thong Hood Cho Temple in Waterloo Street, and at older HDB estates such as Bedok, Toa Payoh and Ang Mo Kio.
 
 Parrot astrologers were based in Serangoon Road but they also made house calls, especially during festive occasions. Today, there are fewer than five still in business in Little India, as many Indians have ceased to believe in this method of divination.[^8]
 
@@ -76,13 +76,13 @@ Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archive
 
 #### **Ice-ball Sellers**
 
-<i>History</i><br>ice-balls were hugely popular during the 1950s and 1960s, particularly among school children and teens. Iceball sellers were mostly Indian males, who sold drinks in addition to these cool delicious treats.
+**History**<br>ice-balls were hugely popular during the 1950s and 1960s, particularly among school children and teens. Iceball sellers were mostly Indian males, who sold drinks in addition to these cool delicious treats.
 
-<i>Job Scope</i><br>To make an ice-ball, the iceball seller would use a towel to press a block of ice against an ice shaver. One hand would hold a bowl beneath to catch the shavings. He would then shape the ice shavings into a semicircle, enclosing within ingredients such as cubes of <i>agar-agar</i>, or jelly, sweetened red beans and <i>attap-chee</i> (mangrove palm seeds). Using yet more ice shavings, he would deftly compact it into a spherical snowball. Then lashings of red and green and palm sugar syrup are drizzled over the ice-ball, followed by a trickle of evaporated milk for added sweetness.
+**Job Scope**<br>To make an ice-ball, the iceball seller would use a towel to press a block of ice against an ice shaver. One hand would hold a bowl beneath to catch the shavings. He would then shape the ice shavings into a semicircle, enclosing within ingredients such as cubes of <i>agar-agar</i>, or jelly, sweetened red beans and <i>attap-chee</i> (mangrove palm seeds). Using yet more ice shavings, he would deftly compact it into a spherical snowball. Then lashings of red and green and palm sugar syrup are drizzled over the ice-ball, followed by a trickle of evaporated milk for added sweetness.
 
-<i>Tools of the Trade</i><br>The ice-ball vendor’s stall or pushcart would be packed with glass bottles of soft drinks and drinking glasses, plastic containers filled with various sugar syrup concoctions, ingredients for the ice-ball fillings and the all-important wooden ice shaver.
+**Tools of the Trade**<br>The ice-ball vendor’s stall or pushcart would be packed with glass bottles of soft drinks and drinking glasses, plastic containers filled with various sugar syrup concoctions, ingredients for the ice-ball fillings and the all-important wooden ice shaver.
 
-<i>Then and Now</i><br>Ice-ball vendors were usually found near schools or along shophouses but sometimes moved to different locations with their mobile carts. Ice-balls are the predecessors of the more elaborate plated dessert called ice <i>kachang</i> sold in hawker centres and food courts. In 2011, ice-balls were brought back as part of the dessert menu at the Singapore Food Trail (a dining attraction featuring popular local dishes), located next to the Singapore Flyer.[^9]
+**Then and Now**<br>Ice-ball vendors were usually found near schools or along shophouses but sometimes moved to different locations with their mobile carts. Ice-balls are the predecessors of the more elaborate plated dessert called ice <i>kachang</i> sold in hawker centres and food courts. In 2011, ice-balls were brought back as part of the dessert menu at the Singapore Food Trail (a dining attraction featuring popular local dishes), located next to the Singapore Flyer.[^9]
 
 <div style="background-color: white;">
 <br/>
@@ -91,13 +91,13 @@ An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy o
 
 #### **Kachang Puteh Sellers**
 
-<i>History</i><br>A Malay phrase, <i>“kachang”</i> (nuts, beans or peas) and <i>“puteh”</i> (meaning white) was a popular snack up until the 1990s. The peanuts coated with melted white sugar is one of the most popular varieties and probably accounts for the name “white nuts”. <i>Kachang puteh</i> originated from an Indian snack called <i>chevdo</i>.[^10] Nuts of various colours and prepared in a variety of ways (steamed, fried, roasted or coated with sugar) were sold by the vendors, who were mostly Indians.
+**History**<br>A Malay phrase, <i>“kachang”</i> (nuts, beans or peas) and <i>“puteh”</i> (meaning white) was a popular snack up until the 1990s. The peanuts coated with melted white sugar is one of the most popular varieties and probably accounts for the name “white nuts”. <i>Kachang puteh</i> originated from an Indian snack called <i>chevdo</i>.[^10] Nuts of various colours and prepared in a variety of ways (steamed, fried, roasted or coated with sugar) were sold by the vendors, who were mostly Indians.
 
-<i>Job Scope</i><br>The early itinerant <i>kachang puteh</i> seller hawked his wares stored in bottles or paper bags from a tray balanced on his head, moving from one location to the next. Some used push carts or bicycles, while others stationed themselves at fixed locales. Typically between five and 20 varieties of <i>kachang puteh</i> would be sold and each serving (either a single or mixed flavour of nuts) would be packed into rolled-up paper cones, using pages torn from old newspapers, yellow pages directories and school exercise books.
+**Job Scope**<br>The early itinerant <i>kachang puteh</i> seller hawked his wares stored in bottles or paper bags from a tray balanced on his head, moving from one location to the next. Some used push carts or bicycles, while others stationed themselves at fixed locales. Typically between five and 20 varieties of <i>kachang puteh</i> would be sold and each serving (either a single or mixed flavour of nuts) would be packed into rolled-up paper cones, using pages torn from old newspapers, yellow pages directories and school exercise books.
 
-<i>Tools of the Trade</i><br><i>Kachang puteh</i> vendors either roasted and flavoured their own <i>kachang</i> at home (a lengthy and painstaking process) or bought ready-made <i>kachang</i> directly from suppliers.
+**Tools of the Trade**<br><i>Kachang puteh</i> vendors either roasted and flavoured their own <i>kachang</i> at home (a lengthy and painstaking process) or bought ready-made <i>kachang</i> directly from suppliers.
 
-<i>Then and Now</i><br><i>Kachang puteh</i> sellers used to frequent schools, cinemas, swimming pools and shopping centres. Such independent vendors have all but vanished today, except for perhaps the sole survivng <i>kachang puteh</i> seller in Singapore, Mr Nagappan Arumugam, who has manned a pushcart at peace Centre on Selegie Road for over 20 years.[^11] <i>Kachang puteh</i> is now available in commercially pre-packed versions at supermarkets and 24-hour convenience stores all over Singapore. A push cart stall can also be found at the Singapore Food Trail.[^12]
+**Then and Now**<br><i>Kachang puteh</i> sellers used to frequent schools, cinemas, swimming pools and shopping centres. Such independent vendors have all but vanished today, except for perhaps the sole survivng <i>kachang puteh</i> seller in Singapore, Mr Nagappan Arumugam, who has manned a pushcart at peace Centre on Selegie Road for over 20 years.[^11] <i>Kachang puteh</i> is now available in commercially pre-packed versions at supermarkets and 24-hour convenience stores all over Singapore. A push cart stall can also be found at the Singapore Food Trail.[^12]
 
 <div style="background-color: white;">
 <br/>
@@ -106,13 +106,13 @@ A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection,
 
 #### **Letter Writers**
 
-<i>History</i><br>The thousands of illiterate and semi-literate Chinese immgrants in Singapore — <i>coolies</i> (manual workers), <i>amahs</i> (domestic helpers) and <i>Samsui</i> women (female construction labourers from Guangdong Province) — who yearned to communicate with their families in China resulted in the demand for letter writers. The 1950s and 1960s were boom times for such letter writers, with long queues of people patiently waiting to send word back home after World War II, along with food, clothing and money. Letter writers were usually Chinese males in their 50s and 60s.
+**History**<br>The thousands of illiterate and semi-literate Chinese immgrants in Singapore — <i>coolies</i> (manual workers), <i>amahs</i> (domestic helpers) and <i>Samsui</i> women (female construction labourers from Guangdong Province) — who yearned to communicate with their families in China resulted in the demand for letter writers. The 1950s and 1960s were boom times for such letter writers, with long queues of people patiently waiting to send word back home after World War II, along with food, clothing and money. Letter writers were usually Chinese males in their 50s and 60s.
 
-<i>Job Scope</i><br>A letter writer would pen the feelings and thoughts of his customers and also read letters aloud for the illiterate, bridging the physical and emotional distance between relatives who resided thousands of miles away and their families in Singapore. The letters were written in a mixture of classical and vernacular Chinese. The writer would sometimes write “spring couplets, invitation cards, leases [and] marriage certificates”[^13] and, sadly, even suicide notes. Letter writers also wrote ancestral tablets for religious worship and to display at home for immigrants who moved into new residences. Due to the usually penurious circumstances of his clientele, the letter writer in the 1960s charged nominal sums for his services, such as a dollar per letter and earned about $250 a month.
+**Job Scope**<br>A letter writer would pen the feelings and thoughts of his customers and also read letters aloud for the illiterate, bridging the physical and emotional distance between relatives who resided thousands of miles away and their families in Singapore. The letters were written in a mixture of classical and vernacular Chinese. The writer would sometimes write “spring couplets, invitation cards, leases [and] marriage certificates”[^13] and, sadly, even suicide notes. Letter writers also wrote ancestral tablets for religious worship and to display at home for immigrants who moved into new residences. Due to the usually penurious circumstances of his clientele, the letter writer in the 1960s charged nominal sums for his services, such as a dollar per letter and earned about $250 a month.
 
-<i>Tools of the Trade</i><br>The letter writer’s stall was spartan, furnished with only a small table, one or two chairs and his writing instruments, comprising paper, Chinese brushes, ink and an abacus. 
+**Tools of the Trade**<br>The letter writer’s stall was spartan, furnished with only a small table, one or two chairs and his writing instruments, comprising paper, Chinese brushes, ink and an abacus. 
 
-<i>Then and Now</i><br>Letter writers were once a common sight in Chinatown but the trade lost its popularity after the 1980s with the passing of many old-time patrons. The increase in literacy and communication technology such as the telephone also contributed to the trade’s decline. Letter writers today focus primarily on writing ancestral tablets for the younger Chinese generation and entertain occasional requests from tourists to compose spring couplets and auspicious words or to have Chinese translations of their English names written.[^14]
+**Then and Now**<br>Letter writers were once a common sight in Chinatown but the trade lost its popularity after the 1980s with the passing of many old-time patrons. The increase in literacy and communication technology such as the telephone also contributed to the trade’s decline. Letter writers today focus primarily on writing ancestral tablets for the younger Chinese generation and entertain occasional requests from tourists to compose spring couplets and auspicious words or to have Chinese translations of their English names written.[^14]
 
 <div style="background-color: white;">
 <br/>
@@ -121,15 +121,15 @@ A letter writer with a customer along a five foot way in Kreta Ayer. From the Ko
 
 #### **Street Barbers**
 
-<i>History</i><br>Street barbers gained popularity after the 1911 Chinese Revolution, when Chinese immigrants who arrived in Singapore lopped off their braided “pigtails” (which had been a symbol of repression during the Qing Dynasty). Many barbers were self-taught, while some apprenticed at barber shops. The profession was equally represented by the Chinese, Malay and Indian races.
+**History**<br>Street barbers gained popularity after the 1911 Chinese Revolution, when Chinese immigrants who arrived in Singapore lopped off their braided “pigtails” (which had been a symbol of repression during the Qing Dynasty). Many barbers were self-taught, while some apprenticed at barber shops. The profession was equally represented by the Chinese, Malay and Indian races.
 
-<i>Job Scope</i><br>Operating along five-foot-ways or in roadside makeshift tents, street barbers offered haircuts, shaving, ear wax removal, nose-hair trimming, and scalp, face and shoulder massages.
+**Job Scope**<br>Operating along five-foot-ways or in roadside makeshift tents, street barbers offered haircuts, shaving, ear wax removal, nose-hair trimming, and scalp, face and shoulder massages.
 
 Barbers worked from around eight in the morning to dusk, charging about 50 cents for a haircut in the 1960s, and raising their prices during the Chinese New year season to cater to increased demand. Some made house calls to shave the heads of babies or to provide haircuts for the elderly and infirmed.
 
-<i>Tools of the Trade</i><br>A street barber’s equipment usually included one to three barber chairs, several pairs of scissors, manual clippers, combs, brushes, razor blades, powder puffs and a mirror.
+**Tools of the Trade**<br>A street barber’s equipment usually included one to three barber chairs, several pairs of scissors, manual clippers, combs, brushes, razor blades, powder puffs and a mirror.
 
-<i>Then and Now</i><br>Street barbers once operated along the aptly named Barber Street, between Jalan Sultan and Aliwal Street and at the cobbled lane between Jalan Sultan and North Bridge Road. They were also found in Chinatown, Serangoon Road and Tanjong Pagar. 
+**Then and Now**<br>Street barbers once operated along the aptly named Barber Street, between Jalan Sultan and Aliwal Street and at the cobbled lane between Jalan Sultan and North Bridge Road. They were also found in Chinatown, Serangoon Road and Tanjong Pagar. 
 
 With the erection of high-rise flats in the 1960s, barbers plied their trade along the corridors of housing estates. Today, however, they operate out of air-conditioned shops found in virtually every neighbourhood, with modern equipment such as electric clippers and shavers. What has survived is the unique icon denoting these neighbourhood barbers — the barber’s pole, with its spinning helix of tri-coloured red, white and blue stripes.[^15]
 
