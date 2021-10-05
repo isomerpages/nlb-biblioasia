@@ -134,8 +134,6 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 
 |The pun is lost in translation of course, but details such as the number of male protagonists and location were kept intact in most of the titles of the foreign-language versions that were either dubbed or subtitled, for example *Cinco Marinos en Singapur* in Spanish (also *Cinco Muchachos en Singapur* in Argentina), *Cinque Marines per Singapore* in Italian, *Vijf Kerels Voor Singapore* in Dutch, and *Pet Momaka za Singapour* in Serbian for the Yugoslavian version of the film.
 
-<br>
-
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 <b>SPY MUSIC</b>
 
