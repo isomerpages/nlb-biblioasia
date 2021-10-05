@@ -6,6 +6,11 @@ layout: post
 ---
 #### Records of family lineage were important in traditional Chinese society. **Lee Meiyu** charts the history of these documents, or jiapu, which track not only family roots but also the social norms and cultural values of China at the time.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/jiapu/bg.jpg">
+</div>
+
 In ancient Chinese society, <i>jiapu</i> (家谱) or Chinese genealogy records, were created for the express reason of documenting the ancestry of each family. Before the Song Dynasty (960–1279 CE), lineage determined a person’s social class in China, and <i>jiapu</i> were used as official documents by the imperial court to prove the identity of a member of the ruling class and justify his position. This objective, however, evolved during the Song Dynasty when <i>jiapu</i> became a social tool to unify families by kinship instead. This shift took the practice of recording <i>jiapu</i> beyond the realm of the courts to the non-ruling classes, leading to a peak in genealogy studies and documentation.[^1]
 
 As genealogical studies flourished and matured in China, guidelines on how, what and when a <i>jiapu</i> could be written were formulated. These guidelines were flexible and evolved with the times. As the <i>jiapu</i> was a lineage blueprint that served as a basis for families to function, its presentation and content reflected the characteristics and beliefs of society at a particular point in time. As society evolved, so did the function of the <i>jiapu</i>, and consequently, its content. 
