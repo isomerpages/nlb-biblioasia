@@ -96,8 +96,8 @@ I feel very privileged to have met so many survivors and have had access to so m
 
 |**THE BISHOP WHO LED BY EXAMPLE**|
 	
-<img style="width:200px" src="/images/Vol-12-issue-2/bahau/07a-bahau.jpg">Bishop Adrien Devals was a French priest who became the leader of the Catholics in Singapore from the late 1930s. He led the first group of settlers to Bahau and tragically died there. <i>All rights reserved, Pilon, M., & Weiler, D. (2011). The French in Singapore: An Illustrated History (1819–Today). Singapore: Editions Didier Millet.</i>
-<br><br>
+|<img style="width:200px" src="/images/Vol-12-issue-2/bahau/07a-bahau.jpg">Bishop Adrien Devals was a French priest who became the leader of the Catholics in Singapore from the late 1930s. He led the first group of settlers to Bahau and tragically died there. <i>All rights reserved, Pilon, M., & Weiler, D. (2011). The French in Singapore: An Illustrated History (1819–Today). Singapore: Editions Didier Millet.</i>|
+
 |Bishop Adrien Devals, who led the first group of settlers in Bahau and tragically died there, should be more widely credited for his leadership there under adverse circumstances. Although Bahau failed as an experiment, it does not detract from Devals’ altruistic reasons for approving the resettlement plan.|
 <br><br>
 |Born in 1882 in Quins, France, Devals entered the seminary of the Société des Missions étrangères de Paris (MEP) in 1900 and was ordained a priest six years later. He arrived in Penang in September 1906 where he was initially the assistant at the Church of the Assumption, and later its parish priest. In 1934, he was appointed Bishop of the Diocese of Malacca, which included Singapore, and served in that role until his death in 1945.|
