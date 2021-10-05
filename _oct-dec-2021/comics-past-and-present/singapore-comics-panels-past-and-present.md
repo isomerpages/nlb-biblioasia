@@ -34,6 +34,8 @@ More recently, we have *Chronicles of a Circuit Breaker* by cartoonist Joseph Ch
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/cbchronicles.png)
 <div style="background-color: white;"></div>
 
+<div style="background-color: white;">Joseph Chiang documents life during the two-month “circuit breaker”. <i>Image reproduced from Joseph Chiang, Chronicles of a Circuit Breaker (Singapore: Epigram Books, 2021). (From National Library, Singapore, Call no. RSING 741.595957 CHI).</i></div>
+
 #### **Launchpads for Comics**
 
 Many comic books started out as regular comic strips in the dailies. From the *Straits Times*, there is *The House of Lim* by Cheah Sin Ann and *Chew on It!* by Lee Chee Chew that provide incisive social commentary on Singapore and poke fun at local foibles and idiosyncrasies.
