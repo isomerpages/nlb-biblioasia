@@ -131,6 +131,10 @@ Between 1937 and 1940, while still working for his uncle, Chia Lay Phor oversaw 
 
 Born in 1905 in the small village of Fengqi in Wangchuan town in Hui’an county, Ho Bock Kee (何穆基) was the eldest of four children. His father was a carpenter while his mother was a housewife. Although daily life in a small rural community was hard and poverty was an everyday reality, his early exposure to carpentry and Hui’an’s economy centred around construction would prove invaluable. Unlike the impoverished and unskilled Chinese immigrants who ended up as indentured labour in Southeast Asia, Ho arrived in Singapore in 1929 as a qualified carpenter. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/HoBock.jpg)
+<div style="background-color: white;">Ho Bock Kee was a prominent name in the local construction industry. Among the many projects that his construction company handled include the Singapore Memorial at the Kranji War Cemetery in 1957 and the National Library building on Stamford Road in 1960. <i>Courtesy of the Ho Family.</i></div>
+
+
 Initially subcontracting his labour to other builders working on numerous army camps and military facilities across the island, the Japanese Occupation (1942–45) saw Ho resorting to slipping in and out of Malaya undertaking odd jobs to survive. It was the post-war demand for reconstruction that provided him with the impetus and opportunity to venture into main contracting. 
 
 Capitalising on the opportunity, Ho established his own construction company – beginning where he left off before the war – repairing and rebuilding old army camps and bases as well as those used for internment. An invaluable listing on the preferred contractor panel for the Public Works Department soon followed, and over the next 30 years, Ho Bock Kee Construction was awarded numerous public and private contracts, including a Ngee Ann Kongsi school on Balestier Road (1965), Singapore Television Studio Centre at Caldecott Hill (1966), Bedok Reformative Training Centre (1961), Mount Vernon Crematorium (1962) and the National Library building on Stamford Road (1960).
@@ -142,9 +146,6 @@ Capitalising on the opportunity, Ho established his own construction company –
 
 As a main contractor, Ho’s most internationally recognised work was the Singapore Memorial at the Kranji War Cemetery. Officially unveiled on 2 March 1957 by the Singapore Governor Robert Black and attending international dignitaries, the event was broadcast throughout the Commonwealth to an extensive overseas audience.[^27] Designed by the British architect Colin St Clair Oakes, the memorial was built to resemble an aeroplane with its 22-metre central pylon and wing-shaped roof supported by 12 stone-clad pillars.[^28] The names of over 24,000 casualties without known graves are inscribed on the pillars. Memorial services are held at the cemetery every year on Remembrance Day (11 November), as well as ANZAC (Australian and New Zealand Army Corps) Day on 25 April.
 
-
-![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/HoBock.jpg)
-<div style="background-color: white;">Ho Bock Kee was a prominent name in the local construction industry. Among the many projects that his construction company handled include the Singapore Memorial at the Kranji War Cemetery in 1957 and the National Library building on Stamford Road in 1960. <i>Courtesy of the Ho Family.</i></div>
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/Singapore%20Memorial%201.jpg)
 <div style="background-color: white;">The Singapore Memorial with war graves of fallen servicemen at the Kranji War Cemetery, 1960s. The memorial was built by Ho Bock Kee’s construction company. <i>John C. Young Collection, courtesy of National Archives of Singapore.</i></div>
