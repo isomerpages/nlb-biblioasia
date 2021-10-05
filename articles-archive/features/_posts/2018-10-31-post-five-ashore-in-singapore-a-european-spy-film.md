@@ -135,7 +135,7 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 |The pun is lost in translation of course, but details such as the number of male protagonists and location were kept intact in most of the titles of the foreign-language versions that were either dubbed or subtitled, for example *Cinco Marinos en Singapur* in Spanish (also *Cinco Muchachos en Singapur* in Argentina), *Cinque Marines per Singapore* in Italian, *Vijf Kerels Voor Singapore* in Dutch, and *Pet Momaka za Singapour* in Serbian for the Yugoslavian version of the film.
 
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
-<b>SPY MUSIC</b>
+<b>SPY MUSIC</b><\n>
 
 The music for <i>Five Ashore in Singapore</i> was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of <i>Five Ashore</i>’s director Bernard Toublanc-Michel, he composed <i>Somewhere in Singapore</i> (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
 
