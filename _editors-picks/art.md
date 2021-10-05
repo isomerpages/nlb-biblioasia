@@ -24,4 +24,3 @@ permalink: /editors-picks/art
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-20/raffles" target="_blank"> Stamford Raffles and the Two French Naturalists</a>
 <p>Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.</p>
  <hr clear="left">
-
