@@ -139,13 +139,13 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 <b>SPY MUSIC</b>
 
-The music for *Five Ashore in Singapore* was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of *Five Ashore*’s director Bernard Toublanc-Michel, he composed *Somewhere in Singapore* (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
+	The music for <i>Five Ashore in Singapore</i> was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of <i>Five Ashore</i>’s director Bernard Toublanc-Michel, he composed <i>Somewhere in Singapore</i> (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
 
 <img style="width: 420px; height: 420px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore12.JPG">Cover of the French record album of <i>Five Ashore in Singapore</i>, 1967. The music for the film was composed by renowned French composer Antoine Duhamel. © Barclay Editions. <i>Courtesy of Raphaël Millet.</i>
 
-Quite brazenly, the song was directly based on the melody of the now iconic *Yellow Submarine*, the Beatles’ number one hit in 1966. Indeed, Toublanc-Michel had asked his actors who played the five Marines to stride out of Clifford Pier with the Beatles’ song playing in their heads, so as to lend a certain rhythm to their swagger.
+Quite brazenly, the song was directly based on the melody of the now iconic <i>Yellow Submarine</i>, the Beatles’ number one hit in 1966. Indeed, Toublanc-Michel had asked his actors who played the five Marines to stride out of Clifford Pier with the Beatles’ song playing in their heads, so as to lend a certain rhythm to their swagger.
 
-Other melodies with no lyrics composed by Duhamel include *Paradise Limited* for the club scene and *Thème de la drogue* (the drug theme) for the opium den scene. </div>
+Other melodies with no lyrics composed by Duhamel include <i>Paradise Limited</i> for the club scene and <i>Thème de la drogue</i> (the drug theme) for the opium den scene. </div>
 
 <br>
 <div style="background-color: white;">
