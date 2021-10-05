@@ -4,7 +4,7 @@ date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/old-sg
 layout: post
 ---
-#### **With the Passing of TIme, Many Places and**
+#### **With the Passing of Time, Many Places and**
 
 buildings in Singapore have undergone facelifts or changed their identities, while some have disappeared altogether and become part of our history. However, many who grew up, played or worked at these places still have vivid memories of them. The National Archives of Singapore (NAS) is a treasure trove for Singaporeans seeking for a bit of nostalgia or to capture something of the old charm and colour of yesteryear. Journey back in time and re-visit Singapore through these interviews and images from NAS’s Oral History Centre and photograph collection — each a personal story, yet immediately recognisable to many as cherished collective memories of a different era.
 
