@@ -109,7 +109,7 @@ Despite his varied body of work, Tsao Chieh had always lamented that com- posers
 <br/>
 <img src="/images/vol-9-issue-4/tsaochieh/tsaochieh_2.jpg">Photograph of Tsao Chieh taken in 1990. Source: <i>The Straits Times © Singapore Press Holdings Limited. Reproduced with permission.</i></div>
 
-<div style="background-color: white;">
+<div style="background-color: white; padding-bottom:20px;" >
 <br/>
 <img src="/images/vol-9-issue-4/tsaochieh/tone_raw.jpg">Tone rows for <i>Amidst the Sough of Winds. Courtesy of Vivien Chen.</i></div>
 
