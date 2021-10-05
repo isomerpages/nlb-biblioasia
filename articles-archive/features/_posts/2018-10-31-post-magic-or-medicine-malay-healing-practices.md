@@ -108,8 +108,6 @@ These laws compromised the role of traditional Malay healers in the community, e
 With the introduction of Western-style healthcare, including clinics and hospitals, and the increasing availability of over-the-counter medications from the turn of the 20th century onwards, traditional Malay healing played a smaller role in the lives and rhythms of the community.
 
 State controls and the exposure to Western education further put paid to the services of traditional Malay healers. Although their numbers have drastically dwindled over the years, traditional Malay medicine continues to play an ancillary – and occasionally complementary – role to Western medicine today for those who recognise its efficacy in providing ritual care and treating spiritual ailments and conditions not yet acknowledged in Western medical science.
-
-<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 	
 |**HEALING PRACTICES**
 
@@ -126,7 +124,7 @@ State controls and the exposure to Western education further put paid to the ser
 
 |Burkill, I.H., & Ismail Munshi. (1930). [*The medical book of Malayan medicine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
 
-</div><br>
+<br>
 
 |**HUMOURAL THEORY AND MALAY MEDICINE**
 
