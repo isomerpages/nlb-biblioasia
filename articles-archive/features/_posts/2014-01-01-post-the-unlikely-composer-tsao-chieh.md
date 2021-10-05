@@ -11,7 +11,9 @@ layout: post
 <img src="/images/vol-9-issue-4/tsaochieh/tsaochieh.jpg">
 Tsao Chieh working on a composition in 1986. <i>Courtesy of Vivien Chen.</i></div>
 
-I prefer to listen to good Michael Jackson than bad mahler. <div style="text-align:right;">— TSAO CHIEH</div>
+I prefer to listen to good Michael Jackson than bad mahler. 
+
+<div style="text-align:right;">— TSAO CHIEH</div>
 
 Although hailed as a musical genius by his peers, Singaporean composer Tsao Chieh’s prodigious talents and legacy have been overshadowed by his untimely death at the age of 43. His accomplishments, unfortunately, have gone largely unnoticed by the general public, and this article is probably the first attempt at chronicling the composer’s life — from his growing-up years in Singapore, his musical forays during his engineering studies in Manchester and California, and his creative accomplishments in between juggling a high-flying military career on his return to Singapore.
 
