@@ -67,3 +67,38 @@ Besides these rare items are limited numbers of photo albums, architectural draw
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board (NLB) since 1997. She has a keen interest in Singapore church history and has been researching this subject since the early 1990s.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Batumalai, S. (2007). *[A bicentenary history of the Anglican Church of the Diocese of West Malaysia (1805–2005): From historical, theological and missiological perspectives](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13101675)*. Melaka: Syarikat Percetakan Muncul Sistem. (Call no.: RSEA 283.95951 BAT)
+
+Cornelius-Takahama, V., & Tan, J.H.S. (2017). *[St Andrew’s Cathedral](https://eresources.nlb.gov.sg/infopedia/articles/SIP_25_2_2008-12-01.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+
+Loh, K.A. (1963). *[Fifty years of the Anglican Church in Singapore Island 1909–1959](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181734)*. Singapore: The Department of History, University of Singapore. (Call no.: RDLKL 283.5957 LOH)
+
+Northcott, M.S. (1992). Two hundred years of Anglican mission. In R. Hunt, K.H. Lee & J. Roxbogh (Eds.). *[Christianity in West Malaysia: A denominational history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313603)*. Selangor: Pelanduk Publications. (Call no.: RSING 275.95 CHR)
+
+Soon, S.K. (2009). Introduction. In R. Mangus & S. Lai (Eds.). *[Crossing a century: The Anglican Church of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13584405)*. Singapore: The Diocese. (Call no.: RSING 283.5957 CRO)
+
+The Diocese of Singapore (2020). <i>Our history</i>. Retrieved from The Diocese of Singapore website. 
+
+#### **NOTES**
+
+[^1]: Loh, K.A. (1963). [Fifty years of the Anglican Church in Singapore Island 1909–1959](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181734)* (p. 4). Singapore: The Department of History, University of Singapore. (Call no.: RDLKL 283.5957 LOH)
+
+[^2]: Batumalai, S. (2007). *[A bicentenary history of the Anglican Church of the Diocese of West Malaysia (1805–2005): From historical, theological and missiological perspectives (p. 16)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13101675)*. Melaka: Syarikat Percetakan Muncul Sistem. (Call no.: RSEA 283.95951 BAT)
+
+[^3]: [Batumalai](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13101675), 2007, p. 20. 
+
+[^4]: Minutes of a meeting of the Trustees of the St. Andrews’ Church (1868, November 19), from the holdings of the Anglican Archives digitised by NLB (040002935, p. 106)
+
+[^5]: Birth, marriage and death records.
+
+[^6]: *[The Singapore Diocesan Magazine](https://eresources.nlb.gov.sg/printheritage/detail/9507f6ed-c712-4634-a1c6-acfe50c12961.aspx)*. (November 1910). 1 (1), p.1. Retrieved from BookSG.
+
+[^7]: From the title page of *[The Singapore Diocesan Magazine](https://eresources.nlb.gov.sg/printheritage/detail/9507f6ed-c712-4634-a1c6-acfe50c12961.aspx)*, Nov 1910.
+
+[^8]: Cornelius-Takahama, V., & Tan, J.H.S. (2017). *[St Andrew’s Cathedral](https://eresources.nlb.gov.sg/infopedia/articles/SIP_25_2_2008-12-01.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+
+[^9]: The Courier is not in NLB holdings but is available at the Anglican Archives.
+
