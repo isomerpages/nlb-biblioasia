@@ -92,25 +92,25 @@ There are two smaller and separate shrines scattered in the temple grounds honou
 The entire temple complex is surrounded by a high boundary wall surmounted by figures of sacred cows placed at regular intervals. The cow, which is revered in Hinduism, symbolises Mother Earth, strength, abundance, selfless giving and the sustenance of life.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>TEMPLE MILESTONES</b>
-
-<b>1827<b> - Opens as a small wood-and-*attap* structure.
-
+<br><br>
+<b>1827</b> - Opens as a small wood-and-*attap* structure.
+<br><br>
 	<b>1843</b> - Brick building replaces the wood-and-<i>attap</i> structure.
-
+<br><br>
 <b>1862–63</b> - Major reconstruction of the temple takes place.
-
+<br><br>
 <b>1936</b> - Major facelift, including construction of five-tiered <i>gopuram</i>.
-
+<br><br>
 <b>1949</b> - Minor repair works carried out, including a fresh coat of paint.
-
+<br><br>
 <b>1960s</b> - Restoration and decoration of the <i>gopuram</i> with elaborate sculptures and carvings.
-
+<br><br>
 <b>1971</b> - Addition of new statues and murals; removal of some statues, such as those of the Indian sepoys.
-
+<br><br>
 <b>1984</b> - Construction of two-storey wedding hall; restoration of sculptures and paintings; extension of the <i>vimanam</i>; building of the new Sundara Vinayagar sanctum, which houses the Lord Ganesha deity, to replace the old one.
-
+<br><br>
 <b>1996</b> - Addition of elevated viewing gallery; construction of three-storey annex with a separate entrance on Pagoda Street; restoration and repainting of murals, statues and sculptures.
-
+<br><br>
 <b>2009</b> - Undergoes $3-million facelift; restoration of decorative statues, repainting of wall murals, waterproofing and strengthening of the roof, and the expansion of the administrative offices.</div>
 
 <div style="background-color: white;">
