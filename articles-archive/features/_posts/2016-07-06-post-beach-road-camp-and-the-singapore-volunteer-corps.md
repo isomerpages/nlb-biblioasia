@@ -114,7 +114,7 @@ Between 1965 and 2000,[^5] various units of the PDF and later, the Singapore Inf
 
 On 18 February 2000, in a moving ceremony that echoed its august colonial-era opening on 4 March 1933, the same Golden Key that British Governor Cecil Clementi was presented with 67 years ago at the very same Drill Hall was handed over to the SAF for final safekeeping. In the background, a solitary trumpet played the Last Post, signalling the end of the day – and indeed the end of an era for a distinguished Singapore institution.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>**ELIZABETH CHOY: SVC VOLUNTEER AND WAR HEROINE</b>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>ELIZABETH CHOY: SVC VOLUNTEER AND WAR HEROINE</b>
 <br><br>
 One of the most famous SVC volunteers in the late 1950s was the war heroine Elizabeth Choy. Born in Sabah in 1910 and schooled in Singapore, Choy had a heightened sense of conscience since young. She gave up a college scholarship to work as a teacher to support her six younger siblings. During the Japanese Occupation, Choy and her husband worked tirelessly to smuggle medicine, money, letters and even radio parts to British civilians and prisoners-of-war interned at Changi Prison. Unfortunately, her husband was arrested in October 1943 and Choy herself a few weeks later. She was imprisoned and severely beaten by the Japanese over a 200-day period for being a British sympathiser. After the war, Choy was made Officer of the Order of the British Empire (OBE) and became involved in politics and education, but it was her selfless work during the war that she is most remembered for.
 <br><br>
