@@ -20,6 +20,7 @@ Finally, don’t miss [Andrea Kee’s](/vol-17/issue-3/oct-dec-2021/moderngirl) 
 
 There is, as you can see, no shortage of interesting things to read in this issue. Who says history is boring?
 
+<img src="/images/vol-17-issue-3/Director.png" style="width: 100px; height: 100px;" />
 <div style="background-color: white;">
 <br>
 <img style="">
