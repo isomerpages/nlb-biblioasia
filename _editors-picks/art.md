@@ -13,14 +13,15 @@ permalink: /editors-picks/art
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals" target="_blank"> Malay Seals from Singapore</a>
 <p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
-<img style="float:center; width:600px; height:auto;" src="/images/Vol-16-issue-1/malay-seals/temenggung.png">
-<hr clear="left">		
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-20/raffles" target="_blank"> Stamford Raffles and the Two French Naturalists</a>
-<p>Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.</p>
- <hr clear="left">
+<hr clear="left">		
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" target="_blank"> A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</a> 
 <p>Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? </p>
 <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="width:550px">
 <hr clear="left">
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-20/raffles" target="_blank"> Stamford Raffles and the Two French Naturalists</a>
+<p>Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.</p>
+ <hr clear="left">
+
