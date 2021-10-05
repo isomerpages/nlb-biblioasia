@@ -66,11 +66,11 @@ The nursing profession, as most people will readily admit, is one of the toughes
 <br><br>
 <b>EARLY MIDWIFERY AND THE BIDAN</b>
 <br><br>
-Prior to the arrival of the British, women in Singapore had their own birth rituals and customs. As the population was mainly Malay, home births were handled by the *bidan*, usually a well-respected female member of the community. These traditional Malay midwives acquired their skills and knowledge from older, more experienced *bidan*, and in turn, imparted their knowledge to other women. It was expected of a practising *bidan* to have gone through pregnancy and childbirth herself.
+Prior to the arrival of the British, women in Singapore had their own birth rituals and customs. As the population was mainly Malay, home births were handled by the <i>bidan</i>, usually a well-respected female member of the community. These traditional Malay midwives acquired their skills and knowledge from older, more experienced <i>bidan</i>, and in turn, imparted their knowledge to other women. It was expected of a practising <i>bidan</i> to have gone through pregnancy and childbirth herself.
 <br><br>
 <img style="width:650px"  src="/images/Vol-12-issue-2/angels-in-white/04-angelsinwhite.jpg">This 1950 photo shows a midwife weighing a newborn baby at home. As hospital beds in maternity hospitals were in short supply in the 1950s, women were discharged 24 hours after their babies were born. Midwives would visit these new mothers at their homes to provide postnatal care. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i>
 <br><br>
-In Singapore, midwifery training started earlier and advanced more rapidly than general nursing. Commencing in 1896, midwifery training was reserved only for married women until 1901, when three unmarried midwives passed the examination. In the early days, all midwives and probationers were of European ancestry; it was not until 1910 that the first course for Asian midwives kicked off. Malay *bidan*, however, preferred to stick to their own training programme that followed time-honoured Malay customs and traditions.</div>
+In Singapore, midwifery training started earlier and advanced more rapidly than general nursing. Commencing in 1896, midwifery training was reserved only for married women until 1901, when three unmarried midwives passed the examination. In the early days, all midwives and probationers were of European ancestry; it was not until 1910 that the first course for Asian midwives kicked off. Malay <i>bidan</i>, however, preferred to stick to their own training programme that followed time-honoured Malay customs and traditions.</div>
 
 One of the earliest records of a healthcare outreach programme in Singapore was in 1911 when infant welfare nurses made house visits to inspect the living conditions of infants and to advise young mothers. The results were significant: Singapore’s infant mortality rate fell to 267 per one thousand live births in 1912. In 1915, the Midwives Ordinance was passed to recognise certified midwives and require their compulsory registration in the Straits Settlements by the Central Midwives Board.
 
@@ -129,7 +129,7 @@ In 1934, Simmons was promoted to Public Health Matron for rural Singapore. Durin
 <br><br>
 Simmons retired to England in 1948, after having overseen a drop in the infant mortality rate from 263 deaths per 1,000 babies in 1927 to an exceptional record of 57 deaths per 1,000 babies that year. This was a feat especially when viewed against the backdrop of a rising birth rate. She later moved to Scotland, where she died in 1958.
 <br><br>
-Extracted from Singapore Infopedia: National Library Board. (2013, March 25). [Ida Simmons](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-14_135054.html)  written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.</div>
+Extracted from Singapore Infopedia: National Library Board. (2013, March 25). <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-14_135054.html">Ida Simmons</a> written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.</div>
 
 <div style="background-color: white;">
 <br>
