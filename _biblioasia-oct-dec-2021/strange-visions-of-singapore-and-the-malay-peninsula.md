@@ -1,6 +1,7 @@
 ---
 title: Strange Visions of Singapore and the Malay Peninsula
 permalink: /vol-17/issue-3/oct-dec-2021/strangevision
+image: /images/vol-17-issue-3/strange-vision/Opening%20Map.jpg
 ---
 #### From a letter written by a human-monkey chimera to a dog who became king, **Benjamin J.Q. Khoo** regales us with four fantastical tales that reflect European views of Southeast Asia.
 
