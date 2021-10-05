@@ -97,21 +97,21 @@ Tan held his first ever solo art exhibition in 1973 when “Paintings of Infused
 
 Over the years, Tan has generously donated more than 6,600 items from his personal collection to the National Library, including artworks and artefacts as well as manuscripts, notebooks and monographs. These are displayed at the Lee Kong Chian Reference Library at the National Library Building. His most recent donation includes the collection of notebooks displayed in the exhibition.
 
-|**ABOUT THE EXHIBITION**<br>|
-
-<div style="background-color: white;" align="center"><img style="width:270px" src="/images/Vol-12-issue-3/baring-mind-and-soul/09-baring-mind-soul.jpg">Portrait of Tan Swie Hian. <i>Collection of Tan Swie Hian.</i></div>
-
-|<br>“Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” opens on 22 November 2016 at the gallery on Level 10 of the National Library Building on Victoria Street.|
-
-|The exhibition will feature over 100 works of artistic and literary creations by Tan Swie Hian comprising paintings, sculptures, calligraphy, seal carvings, photographs, lithographs, and multimedia and literary works.|
-
-|Tan’s notebooks, manuscripts and related paraphernalia will be also displayed alongside the respective artworks.|
-
-|To commemorate the exhibition, a 272-page companion book of the same name, published by the National Library and Editions Didier Millet, will be launched at the exhibition and sold at major bookshops in Singapore as well as on online stores. The book includes an introduction and notes by writer Yap Su-Yin, and essays by Tan that shed light on his explorations of new artistic mediums.|
-
-|A series of programmes has been organised in conjunction with the exhibition, including monthly guided tours by the curators and public talks. Of special highlight is a guided tour that is open to the public and a talk by the artist himself.|
-
-|Also look out for the smaller scale roving exhibition on Tan’s literary works that will take place at the Jurong Regional Library (1 November–29 December 2016) followed by the Central Public Library (30 December 2016–28 February 2017).|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>ABOUT THE EXHIBITION</b>
+<br><br>
+<img style="width:270px" src="/images/Vol-12-issue-3/baring-mind-and-soul/09-baring-mind-soul.jpg">Portrait of Tan Swie Hian. <i>Collection of Tan Swie Hian.</i>
+<br><br>
+“Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” opens on 22 November 2016 at the gallery on Level 10 of the National Library Building on Victoria Street.
+<br><br>
+The exhibition will feature over 100 works of artistic and literary creations by Tan Swie Hian comprising paintings, sculptures, calligraphy, seal carvings, photographs, lithographs, and multimedia and literary works.
+<br><br>
+Tan’s notebooks, manuscripts and related paraphernalia will be also displayed alongside the respective artworks.
+<br><br>
+To commemorate the exhibition, a 272-page companion book of the same name, published by the National Library and Editions Didier Millet, will be launched at the exhibition and sold at major bookshops in Singapore as well as on online stores. The book includes an introduction and notes by writer Yap Su-Yin, and essays by Tan that shed light on his explorations of new artistic mediums.
+<br><br>
+A series of programmes has been organised in conjunction with the exhibition, including monthly guided tours by the curators and public talks. Of special highlight is a guided tour that is open to the public and a talk by the artist himself.
+<br><br>
+Also look out for the smaller scale roving exhibition on Tan’s literary works that will take place at the Jurong Regional Library (1 November–29 December 2016) followed by the Central Public Library (30 December 2016–28 February 2017).</div>
 
 <div style="background-color: white;">
 <br>
