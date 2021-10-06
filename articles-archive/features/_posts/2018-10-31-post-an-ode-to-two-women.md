@@ -77,3 +77,19 @@ In addition, quoting the poem entirely also shows the pains I took to write in s
 
 <img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde2.JPG">
 <div style="background-color: white;"> Catherine Lim’s collection of 17 short stories, Little Ironies: Stories of Singapore, was first published in 1978 by Heinemann Southeast Asia in the Writing in Asia Series. It was used as a text for the GCE N-Level examination in 1987. In 2015, <i>The Business Times selected Little Ironies as one of the Top 10 English Singapore books for the period 1965–2015.</i></div>
+
+In the process of collecting and editing short stories for an anthology of Singaporean writing from 1940 to 1977, I came across the stories of Catherine Lim. Subsequently I met her.
+
+Catherine was a young teacher of English Language and English Literature in a junior college. She had lively, sparkling eyes, and was very fair and slim in a way that fitted the *cheongsam* she wore. I told her I liked the few stories of hers that I had read in magazines and newspapers, and asked if she could show me more.
+
+A few days later, a few stories arrived and I was struck first by their appearance. Typed and marked up with pencilled or inked corrections, the A4-sized papers were crumpled, yellowed and dog-eared, evidence that they had been kept in drawers, read, moved-about and all but forgotten.
+
+Secondly, I thought the stories were excellent as they had a sharp, satirical eye for human foibles and detail, showing a society in the throes of transiting from tradition to modernity. I thought, “How exciting it would be if she had enough for a single volume of just her stories”, and asked her to send more.
+
+I had read about seven to eight stories, but they were not enough to make up a book. She did send more, altogether 17 stories. I forwarded them to John Watson, the genial, tall and bearded Englishman who was the General Manager of Heinemann Educational Books (Asia) Ltd, which had an office in Jalan Pemimpin.
+
+Together with Leon Comber, based in Hong Kong, John had just started to publish titles in the Writing in Asia Series and he was pleased with Catherine’s stories. Consistent with editorial practice, he sent her stories to the eminent English author, Austin Coates, who lived in the British colony; Coates was the author, among many books, of one of the best biographies of Jose Rizal, the Filipino doctor, revolutionary and national hero, and he gave her stories a ringing preview. John showed me what Coates wrote:
+
+<center>“They are riveting; there is no other word for them. In their Singapore Chinese context they rank with the best of Guy de Maupassant and the Alphonse Daudet. Each story has the same sureness of observation, clarity in the presentation of character, and finely judged economy both of words and emotion…. Her knowledge of Chinese ways of living and habits of thought is masterly. It may sound absurd to say this, but so few people are able, as she is, to draw back and look at it objectively. She exposes men and women with a mixture of complacent ruthlessness and compassion”.</center>
+
+Catherine Lim’s stories were published in a book entitled *Little Ironies* in 1978 to much acclaim. It marked the beginning of her remarkable career in English writing in Singapore.
