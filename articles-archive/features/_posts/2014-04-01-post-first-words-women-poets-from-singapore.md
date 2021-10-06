@@ -137,3 +137,82 @@ Collected Poems by Angeline Yap was published in 1986. <i>All rights reserved, N
 <p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library. She was involved in the curation of the Singapore Literary Pioneers Gallery and in the compilation of Singapore Literature in English: An Annotated Bibliography (2008).</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+<i>Angeline Yap: Biography and brief introduction.</i> (n.d.). Retrieved from Contemporary Postcolonial & Postcolonial Literature in English website.
+
+Hedwig, A. (1999). *[Under the apple tree: Political parodies of the 1950s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9614045)*. Singapore: Landmark Books. (Call no.: RSING S821 ANU)
+
+Bandara, L. (1980, January 13). [Rosaly does what comes naturally and loves…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800113-1.2.54.1). The Straits Times, p. 11. Retrieved from NewspaperSG. 
+
+Bong, M. (Ed.). (1979). *[Saya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078338)*. Singapore Educational Publications Bureau. (Call no.: RSING 828.995957 SAY)
+
+Brewster, A. (1989). *[Towards a semiotic of post-colonial discourse: University writing in Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5505388)*. Singapore: Heinemann Asia for Centre for Advances Studies. (Call no.: RSING 808.1 BRE)
+
+[Call to form a Malayan club to foster interest in poetry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600813-1.2.82). (1960, August 13). <i>The Singapore Free Press</i>, p. 7. Retrieved from NewspaperSG.
+
+Chan, F. (1999). *[Silences may speak: The poetry of Lee Tzu Pheng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9248106)* (pp. 11, 14, 38, 44–45, 52–55). Singapore: Times Books International. (Call no.: RSING 828.995957 CHA)
+
+Chung, Y.C. et al. (1974). *[Five takes: Poems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081736)*. [Singapore]: University of Singapore Society. (Call no.: RSING 828.995957 FIV)
+
+College of Liberal Arts. (n.d.). <i>Geraldine Heng</i>. Retrieved from The University of Texas at Austin website.
+
+[Dedicated poetry to son who hates it](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561208-1.2.45). (1956, December 8). The Straits Times, p. 20. Retrieved from NewspaperSG.
+
+Durai, J. (2012, March 28). [Pioneer sex educator Nalla Tan dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120328-1.2.34.16). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+Koh, T.A. (2002). The sun in her eyes: Writing in English by Singapore women (pp. 232–240). In Mohammad A.Quayum & P. Wicks (Eds.), *[Singaporean literature in English: A critical reader](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11732118)*. Malaysia: Universiti Putra Malaysia Press. (Call no.: RSING 820.995957 SIN)
+
+Leong, L.G. (1995). The poetics of history: Three women’s perspectives (pp. 433–442). In E. Thumboo & K. Thiru. (Eds.), *[The writer as historical witness: Studies in Commonwealth Literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7504056)*. (Call no.: RSING 820.9917124 1120 WRI)
+
+Leong, M. (1957). *[The air above the tamarinds: A collection of poems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077978)*. Singapore: Eastern Universities Press. (Call no.: RCLOS 828.995957 LEO)
+
+Leong, M. (1958). *[Rivers to Senang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980494)*. Singapore: Eastern Universities. (Call no.: RCLOS 821.914 LEO)
+
+Liew, G. (2000). Singapore: English literature (pp. 126–135). In Abdul Hakim Mohd. Yassin (Ed.), *[Modern literatures of ASEAN](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10759995)*. Jakarta: ASEAN Committee on Culture and Information. (Call no.: RSEA 895.9 MOD)
+
+Li, S.G-L. (1994). The national canon and English-language women writers from Malaysia and Singapore, 1949–1969 (pp. 158–202). In *[Writing S.E./Asia in English: Against the grain, focus on Asian English-language literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7082491)* (pp. 158–202). London: Skoob Books Pub. (Call no.: RSING 828.9959 Lim)
+
+[Malayan spirit in her poems](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581223-1.2.101.1). (1958, December 23). The Straits Times, p. 26. Retrieved from NewspaperSG.
+
+[Margaret Leong – a woman with fascination](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600531-1.2.65.2). (1960, May 31). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+Leong, M. (2011). *[The ice ball man and other peoms](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13927790)* (pp. 10–11). Singapore: Ethos Books. (Call no.: JRSING 811 LEO)
+
+Margaret Leong, 1921–2012. (2012, November 30). <i>Columbia Daily Tribune</i>. Retrieved from Columbia Daily Tribune website.
+
+Nair, C. (1976). Review of Whitedream. *[Singapore Book World](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)*, 7, 21. 
+
+Nor Faridah Abdul Manaf & Mohamma A. Quayum. (2003). *[Colonial to global: Malaysian women’s writing in English 1940s–1990s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12096522)*. Kuala Lumpur: IIUM Press. (Call no.: RSEA 828.99595 NOR)
+
+Ooi, T. (1984, April 23). [Singapore artist makes a stir in London](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840423-1.2.67.4.4). The Straits Times, p. 27. Retrieved from NewspaperSG.
+
+Ormerod, D. (1967). *[A private landscape](https://eservice.nlb.gov.sg/item_holding.aspx?bid=749298)*. Kuala Lumpur, University of Malaya Library. (Call no.: RDET 828.995957 ORM)
+
+Patke, R.S., & Philip. H. (2010). *[The Routledge concise history of Southeast Asian writing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)*. London; New York: Routledge. (Call no.: RSING 895.9 PAT)
+
+PEN America. (2013, April 24). <i>Four poems by Wong May</i>. Retrieved from PEN American website.
+
+Peters, A. (1972, November 5). [Geraldine wins yet another essay contest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721105-1.2.15.2). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Poetry Foundation. (2014). <i>Wong May</i>. Retrieved from Poetry Foundation website. 
+
+Puthucheary, R. (2012). *[My burning hill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14564295)*. Singapore: Ethos Books. (Call no.: RSING 821 PUT)
+
+Puthucheary, S., & Puthucheary, R. (2008). *[Harvest of morning flowers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13063416)*. Singapore: Select Pub. (Call no.: RSING S821 TAN)
+
+Tan, N. (1998). *[The collected poems of Nalla Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881464)* (p. 111). Singapore: Times Books International. (Call no.: RSING S821 TAN)
+
+Thumboo, E. (Ed.). (1976). *[The second tongue: An anthology of poetry from Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1113163)*. Singapore: Heinemann Educational Books (Asia). (Call no.: RSING 828.995957 SEC)
+
+Trope, L.R. (2009). Poetry on the brink: the indeterminate persona in the poetry of Lee Tzu Pheng (pp. 49–64). In E. Thumboo. (Ed.), *[Sharing borders: Studies in contemporary Singaporean-Malaysian literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13217811)*. Singapore: National Library Board in partnership with the National Arts Council (Call no.: RSING S820.9 SHA)
+
+University of Malaya in Singapore Literary Society. (1961– ). *[Focus](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4584806)*; Wong, M. (1969). *[A bad girl’s books of animals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=31320)*. New York, Harcourt, Brace & World. (Call no.: RCLOS 828.99 WON)
+
+Wong, M. (1972). *[Reports](https://eservice.nlb.gov.sg/item_holding.aspx?bid=582270)*. New York, Harcourt Brace Jovanovich. (Call no.: RSING 828.99 WON)
+
+Yap. A. (2011). *[Closing my eyes to listen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14328753)*. Singapore: Landmark Books. (Call no.: RSING S821 YAP)
+
+
+#### **NOTES**
