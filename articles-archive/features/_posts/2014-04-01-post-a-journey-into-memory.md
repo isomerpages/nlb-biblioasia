@@ -36,6 +36,8 @@ Historical truth, as far as we can understand it, rests not only upon recorded f
 
 <p style="font-size:15px;"><b>Meira Chand</b> was born in London of Swiss-Indian parentage and lived in Japan and India before making Singapore her home in 1997. Her latest novel, <i>A Different Sky</i> was long-listed for the Impac Dublin award in 2012, and also made it to Oprah Winfrey’s recommended reading list. She has a PhD in Creative Writing and is actively involved in promoting young writers in Singapore.</p>
 
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
+
 #### NOTES
 
 [^1]: Bunuel, L. (2013). My last sigh: The autobiography of Luis Bunuel (p. 2). London: Vintage. (Not available in NLB holdings)
