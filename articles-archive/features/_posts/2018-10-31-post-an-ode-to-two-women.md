@@ -93,3 +93,16 @@ Together with Leon Comber, based in Hong Kong, John had just started to publish 
 <center>“They are riveting; there is no other word for them. In their Singapore Chinese context they rank with the best of Guy de Maupassant and the Alphonse Daudet. Each story has the same sureness of observation, clarity in the presentation of character, and finely judged economy both of words and emotion…. Her knowledge of Chinese ways of living and habits of thought is masterly. It may sound absurd to say this, but so few people are able, as she is, to draw back and look at it objectively. She exposes men and women with a mixture of complacent ruthlessness and compassion”.</center>
 
 Catherine Lim’s stories were published in a book entitled *Little Ironies* in 1978 to much acclaim. It marked the beginning of her remarkable career in English writing in Singapore.
+
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+	Robert Yeo’s memoir, <i>Routes: A Singaporean Memoir 1940–75</i>, was published by Ethos Books in 2011. Volume 2 of his memoir is targeted for publication in 2019. Routes is available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries respectively. (Call nos.: RSING S822 YEO and S822 YEO). </div>
+	
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde3.jpg" style="width: 100px; height: 100px;">
+<b>Robert Yeo</b>, born 1940, is best known for his poems and plays published in "The Singapore Trilogy" (plays) and "The Best of Robert Yeo" (poems). He has also written in other genres, including essays, libretto for opera and edited anthologies of Singapore short stories. His most recent work is the play "The Eye of History" (2016). Volume 1 of his memoir, "Routes: A Singaporean Memoir 1940–75", was published in 2011.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
+	
