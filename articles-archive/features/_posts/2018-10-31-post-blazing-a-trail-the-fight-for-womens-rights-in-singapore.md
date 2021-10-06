@@ -132,20 +132,21 @@ The SCW’s legacy goes far beyond the successful lobbying that led to the Women
 
 Rather than accept that women could only play supporting roles to men in society, the SCW confronted the injustices faced by all women in Singapore. From the outset, the SCW was single-minded in the pursuit of its goals, vociferous in its demands, wide-ranging in its call for reforms benefiting women, and forward-looking in its agenda. In short, the SCW was responsible for the awakening of Singapore women to a new consciousness of themselves as humans with a purpose and a goal.
 
-|**SHIRIN FOZDAR: FEMINIST EXTRAORDINAIRE**
-
-|Shirin Fozdar was born in 1905 in Bombay (now Mumbai), India, to Persian parents. She studied at a Parsi school in Bombay and then at St Joseph’s Convent in Panchgani, Maharashtra. After graduating from Elphinstone College, she enrolled at the Royal Institute of Science (both in Mumbai) to study dentistry, where she met her husband, Khodadad Muncherjee Fozdar, a doctor. When the couple arrived in Singapore in 1950, polygamy was a common and accepted practice.
-
-|As Secretary-General of the Singapore Council of Women between 1952 and 1961, Fozdar was the “brains” and public face of the women’s rights group. Inspired by the Baha’i principle that men and women are equal in status, Fozdar had begun the fight for the emancipation of women in India when she was just a teenager.
-
-<img style="width: 320px; height: 450px;" src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail3.JPG">Shirin Fozdar was the Secretary-General of the Singapore Council of Women between 1952 and 1961. Strongly believing that women are equal to men, she had begun the fight for the emancipation of women in India when she was just a teenager. <i>Image reproduced from Ong, R. (2000). Shirin Fozdar: Asia’s Foremost Feminist (cover). Singapore: Rose Ong. (Call no.: RSING 297.93092 ONG).</i></div>
-
-|Her involvement in the women’s movement in India culminated in her nomination in 1934 as the country’s representative at the All Asian Women’s Conference on women’s rights at the League of Nations in Geneva. In 1941, Fozdar delivered peace lectures to the riot-torn Indian city of Ahmedabad on the instructions of Mahatma Gandhi, leader of the Indian independence movement against British rule, who called her “his daughter”.
-
-|Fozdar passed away from cancer on 2 February 1992 in Singapore, leaving behind three sons and two daughters; her husband had died in 1958. Her personal collection comprising newspaper clippings, letters, correspondences, minutes of meetings, receipts and invoices are on loan to the National Library Board for digitisation by her son Jamshed. These are found in the library’s Jamshed & Parvati Fozdar Collection.
-
-<br>
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+	<b>SHIRIN FOZDAR: FEMINIST EXTRAORDINAIRE</b>
+<br><br>
+Shirin Fozdar was born in 1905 in Bombay (now Mumbai), India, to Persian parents. She studied at a Parsi school in Bombay and then at St Joseph’s Convent in Panchgani, Maharashtra. After graduating from Elphinstone College, she enrolled at the Royal Institute of Science (both in Mumbai) to study dentistry, where she met her husband, Khodadad Muncherjee Fozdar, a doctor. When the couple arrived in Singapore in 1950, polygamy was a common and accepted practice.
+<br><br>
+As Secretary-General of the Singapore Council of Women between 1952 and 1961, Fozdar was the “brains” and public face of the women’s rights group. Inspired by the Baha’i principle that men and women are equal in status, Fozdar had begun the fight for the emancipation of women in India when she was just a teenager.
+<br><br>
+<img style="width: 320px; height: 450px;" src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail3.JPG">Shirin Fozdar was the Secretary-General of the Singapore Council of Women between 1952 and 1961. Strongly believing that women are equal to men, she had begun the fight for the emancipation of women in India when she was just a teenager. <i>Image reproduced from Ong, R. (2000). Shirin Fozdar: Asia’s Foremost Feminist (cover). Singapore: Rose Ong. (Call no.: RSING 297.93092 ONG).</i>
+<br><br>
+Her involvement in the women’s movement in India culminated in her nomination in 1934 as the country’s representative at the All Asian Women’s Conference on women’s rights at the League of Nations in Geneva. In 1941, Fozdar delivered peace lectures to the riot-torn Indian city of Ahmedabad on the instructions of Mahatma Gandhi, leader of the Indian independence movement against British rule, who called her “his daughter”.
+<br><br>
+Fozdar passed away from cancer on 2 February 1992 in Singapore, leaving behind three sons and two daughters; her husband had died in 1958. Her personal collection comprising newspaper clippings, letters, correspondences, minutes of meetings, receipts and invoices are on loan to the National Library Board for digitisation by her son Jamshed. These are found in the library’s Jamshed & Parvati Fozdar Collection.
+</div>
+<br>
+
 <b>FOUR OBJECTIVES OF SCW</b>
 <ul>
 The SCW was a broad-based organisation with four main objectives: 
