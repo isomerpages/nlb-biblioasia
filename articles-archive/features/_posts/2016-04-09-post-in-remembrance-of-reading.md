@@ -84,7 +84,7 @@ Ever the sentimental person, Edmund has two rented storerooms where he stores so
 
 |Currently, Myra is involved in three book clubs in Singapore that meet on a regular basis. Inspired by her daughter, the first club (Gathering Readers) was started in 2012 for tweens from 10 to 15 years old – the age range is adjusted as her daughter gets older – and is held at the Jurong West Public Library. The second book club (Saturday Night Out for Book Geeks) comprises a motley  ssortment of published (and aspiring) local and foreign authors, illustrators, librarians, art critics, comic geek enthusiasts and educators. The newest reading group (Gathering Readers at NIE) is made up of fellow colleagues from different departments at the National Institute of Education. This is what Myra calls her “book tribe”, a community of readers who share her love for reading.|
 
-|When I asked Myra about how she finds time to do all that she does, she quotes sagely from the poet Rumi: “When you do things from your soul you feel a river moving in you, a joy.” She is one of those fortunate individuals where the dividing line between passion and work has become blurred – in a good way.|
+|When I asked Myra about how she finds time to do all that she does, she quotes sagely from the poet Rumi: “When you do things from your soul you feel a river moving in you, a joy.” She is one of those fortunate individuals where the dividing line between passion and work has become blurred – in a good way.</div>
 
 |**THE LEE FAMILY: GENERATIONAL READING**|
 
