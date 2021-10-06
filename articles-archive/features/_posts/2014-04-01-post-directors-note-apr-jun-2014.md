@@ -18,4 +18,4 @@ In “First Words: Women Poets from Singapore”, senior librarian Gracie Lee tr
 
 I hope this issue will move you to pick up a work of literature and lose yourself in a world that only exists or exists once more in words and the imagination. Or as Gaiman quotes from Einstein, maybe we should all read a fairy tale.
 
-Gene Tan<br>Director, National Library
+<b>Gene Tan</b><br>Director, National Library
