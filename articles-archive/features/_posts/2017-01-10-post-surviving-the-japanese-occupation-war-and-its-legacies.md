@@ -160,15 +160,15 @@ In 1948, the Malayan Communist Party abandoned the “united front” strategy o
 </div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>FORMER FORD FACTORY</b>
-<br>
+<br><br>
 351 Upper Bukit Timah Road, Singapore 588192
-<br>
+<br><br>
 Mondays to Saturdays, 9am – 5.30pm
-<br>
+<br><br>
 Sundays, 12 noon – 5.30pm
-<br>
+<br><br>
 Daily guided tours are available.
-<br>
+<br><br>
 Visit <a href="https://corporate.nas.gov.sg/former-ford-factory/overview/">https://corporate.nas.gov.sg/former-ford-factory/overview/</a> for more information.</div>
 
 <div style="background-color: white;">
