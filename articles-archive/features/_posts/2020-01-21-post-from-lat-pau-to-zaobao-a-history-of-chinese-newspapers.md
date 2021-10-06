@@ -4,7 +4,6 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao
 layout: post
 ---
-
 #### Chinese newspapers have been published in Singapore since the 19th century. **Lee Meiyu** looks at how they have evolved and examines their impact on the Chinese community here.
 
 <img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image8.JPG">
@@ -123,19 +122,21 @@ Moving forward, SPH has announced that it will focus on the digital transformati
 
 |Other important *fukan* that contributed to the development of Chinese literature in Singapore were *Huang Dao* (荒岛) (1927) and *Lu Yi* (绿漪) (1927) by *Sin Kuo Min Jit Poh*; *Ye Lin* (椰林) (1928) by *Lat Pau*; *Hong Huang* (洪荒) (1927), *Wen Yi San Ri Kan* (文艺三日刊) (1929) and *Shi Sheng* (狮声) (1933) by *Nanyang Siang Pau*; and *Ye Pa* (野葩) (1930) and *Chen Xing* (晨星) (1937) by *Sin Chew Jit Poh*. 
 
-|**THE SWORDSMAN MAKES ITS DEBUT**
-
-|Fans of Chinese sword-fighting, or *wuxia*, novels would be familiar with Linghu Chong (令狐冲), the honourable, happy-go-lucky swordsman with a weakness for alcohol. He is the protagonist in *Xiao Ao Jianghu* (笑傲江湖), a story written by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha).
-
-|<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image9.JPG"><i>Xiao Ao Jianghu</i> (笑傲江湖) by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha) was first serialised in the inaugural issue of Shin Min Daily News on 18 March 1967. <i>Image reproduced from 金庸 [Jin Yong]. (1996).《笑傲江湖》[The Wandering Swordsman]. 新加坡: 明河社出版有限公司.</i>
-
-|Known in English under various titles such as *The Wandering Swordsman and The Smiling, Proud Wanderer*, the novel is so popular that it has been adapted for the stage, television, the big screen, comic books and even video games. To attract readers, the novel was first serialised in the inaugural issue of *Shin Min Daily News* (新民日报) on 18 March 1967, a local newspaper started by Cha and the founder of Axe Brand Universal Oil, Leong Yun Chee.
-
-|This was even before the novel was published in the Hong Kong newspaper *Ming Pao* (民报), which was also founded by Cha. Serialisation of his other novels in *Shin Min*  soon followed.
-
-|The entrance of *Shin Min Daily News* livened up the Chinese newspaper publishing scene in Singapore with its focus on the world of entertainment. The daily became an instant hit, thanks to its lottery results, sword-fighting novels, exclusive entertainment news and horse racing tips.
-
-|In 1983, *Shin Min Daily News* became a subsidiary company of The Straits Times Press Limited. One year later, in 1984, the paper became part of Singapore Press Holdings group.
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+<b>THE SWORDSMAN MAKES ITS DEBUT</b>
+<br><br>
+Fans of Chinese sword-fighting, or <i>wuxia</i>, novels would be familiar with Linghu Chong (令狐冲), the honourable, happy-go-lucky swordsman with a weakness for alcohol. He is the protagonist in <i>Xiao Ao Jianghu</i> (笑傲江湖), a story written by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha).
+<br><br>
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image9.JPG"><i>Xiao Ao Jianghu</i> (笑傲江湖) by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha) was first serialised in the inaugural issue of Shin Min Daily News on 18 March 1967. <i>Image reproduced from 金庸 [Jin Yong]. (1996).《笑傲江湖》[The Wandering Swordsman]. 新加坡: 明河社出版有限公司.</i>
+<br><br>
+Known in English under various titles such as <i>The Wandering Swordsman and The Smiling, Proud Wanderer</i>, the novel is so popular that it has been adapted for the stage, television, the big screen, comic books and even video games. To attract readers, the novel was first serialised in the inaugural issue of <i>Shin Min Daily News</i> (新民日报) on 18 March 1967, a local newspaper started by Cha and the founder of Axe Brand Universal Oil, Leong Yun Chee.
+<br><br>
+This was even before the novel was published in the Hong Kong newspaper <i>Ming Pao</i> (民报), which was also founded by Cha. Serialisation of his other novels in <i>Shin Min</i>  soon followed.
+<br><br>
+The entrance of <i>Shin Min Daily News</i> livened up the Chinese newspaper publishing scene in Singapore with its focus on the world of entertainment. The daily became an instant hit, thanks to its lottery results, sword-fighting novels, exclusive entertainment news and horse racing tips.
+<br><br>
+In 1983, <i>Shin Min Daily News</i> became a subsidiary company of The Straits Times Press Limited. One year later, in 1984, the paper became part of Singapore Press Holdings group.
+</div>
 
 <br>|**THE RISE AND FALL OF CHINESE TABLOIDS**
 
