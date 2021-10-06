@@ -216,3 +216,25 @@ Yap. A. (2011). *[Closing my eyes to listen](https://eservice.nlb.gov.sg/item_ho
 
 
 #### **NOTES**
+
+[^1]: Ee, T.H. (1987). History as myth in Malaysian poetry in English. In K. Singh (Ed.), *[The writer’s sense of the past: Essay on Southeast Asian and Australian literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4770111)* (p. 10). Singapore: University Press. (Call no.: RSING 809.89595 WRI)
+
+[^2]: Thumboo, E. (Ed.). (1976). *[The second tongue: An anthology of poetry from Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1113163)* (pp. xxxii–xxxiii). Singapore: Heinemann, Educational Books (Asia). (Call no.: RSING 828.995957 SEC)
+
+[^3]: Ormerod, D. (1967). *[A private landscape](https://eservice.nlb.gov.sg/item_holding.aspx?bid=749298)* (pp. 9–10). Kuala Lumpur, University of Malaya Library. (Call no.: RDET 828.995957 ORM)
+
+[^4]: Wong, M. (1969). *[A bad girl’s book of animals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=31320)*. New York, Harcourt, Brace & World. (Call no.: RCLOS 828.99 WON)
+
+[^5]: Chan, F. (1999). *[Silences may speak: The poetry of Lee Tzu Pheng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9248106)* (p. 53). Singapore: Times Books International. (Call no.: RSING 828.995957 CHA)
+
+[^6]: [Thumboo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1113163), 1976, p. xxx.
+
+[^7]: Patke, R.S., & Philip. H. (2010). *[The Routledge concise history of Southeast Asian writing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)* (p. 123). London; New York: Routledge. (Call no.: RSING 895.9 PAT)
+
+[^8]: [Malayan spirit in her poems](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581223-1.2.101.1). (1958, December 23). The Straits Times, p. 26. Retrieved from NewspaperSG.
+
+[^9]: [Dedicated poetry to son who hates it](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561208-1.2.45). (1956, December 8). The Straits Times, p. 20. Retrieved from NewspaperSG.
+
+[^10]: [Thumboo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1113163), 1976, p. xxiii.
+
+[^11]: Singh, K. (1987). Introduction. In K. Singh (Ed.), *[The writer’s sense of the past: Essay on Southeast Asian and Australian literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4770111)* (p. xiii). Singapore: University Press. (Call no.: RSING 809.89595 WRI)
