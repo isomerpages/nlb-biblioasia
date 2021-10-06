@@ -87,4 +87,6 @@ Feeling and smelling the aged paper, the old National Library is no longer a gho
 
 The lending section of the old National Library in 1962. <i>All rights reserved. National Library Board Singapore, 2014.</i>
 
-Singapore-born Boey Kim Cheng has written five collections of poetry and a travel memoir Between Stations. Boey lives in Australia, where he is now a citizen and teaches creative writing at the University of Newcastle. He is currently a writer-in-residence at Nanyang Technological University, Singapore.
+<p style="font-size:15px;">Singapore-born <b>Boey Kim Cheng</b> has written five collections of poetry and a travel memoir Between Stations. Boey lives in Australia, where he is now a citizen and teaches creative writing at the University of Newcastle. He is currently a writer-in-residence at Nanyang Technological University, Singapore.</p>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
