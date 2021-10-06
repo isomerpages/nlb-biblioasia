@@ -2,8 +2,8 @@
 title: Culture
 permalink: /editors-picks/culture
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals" target="_blank"> Malay-Muslim Weddings: Keeping Up with the Times</a>
- <p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p> 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/malay-weddings" target="_blank"> Malay-Muslim Weddings: Keeping Up with the Times</a>
+ <p>Customs and traditions change over time. Asrina Tanuri and Nadya Suradi trace how Malay-Muslim weddings in Singapore have evolved since the 1950s.</p> 
  <img style="width:100%;" src="/images/vol-17-issue-2/malayweddings/Tandu.jpg"> 
  <hr clear="left">
  
