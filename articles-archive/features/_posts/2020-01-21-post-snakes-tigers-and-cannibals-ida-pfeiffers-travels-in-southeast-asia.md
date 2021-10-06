@@ -4,7 +4,6 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/s-t-c-sea/
 layout: post
 ---
-
 #### Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. **John van Wyhe** recounts the adventures of this remarkable woman.
 
 <img style="width: 550px; height: 400px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t1.JPG">
@@ -194,50 +193,49 @@ Emaciated and weak, she finally reached Vienna in mid-September 1858. A few week
 
 By the time she died, Pfeiffer had become one of the most famous women in the world. She had seen more of the world than any other woman before her. But wanderlust at last had killed her.<br>
 
-|**THE WRITING OF WANDERLUST**
-
-|<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t12.JPG">John van Wyhe at Lake Toba, following in Ida Pfeiffer’s footsteps.
-
-
-
-|<b>John van Wyhe</b> talks about the research process behind his book on Ida Pfeiffer and his assessment of her as a traveller and collector.
-
-|<i>You’re known as an expert on Charles Darwin and Alfred Russel Wallace. How did you learn about Ida Pfeiffer and why did she intrigue you?</i>
-
-|I came across her while doing research for my 2013 book on Alfred Russel Wallace. I wanted to read about as many travellers to Singapore and Southeast Asia in those years as possible in order to enrich the story I could tell. Pfeiffer was one such traveller. Her writing was excellent and her adventures unbelievable. I could not resist reading more and more about her.
-
-|<i>What was the research process like?</i>
-
-|I spent four to five years researching this book. I bought all of her books and made extensive use of resources such as Google Books and online historical newspaper collections. From these and other sources, I discovered many descriptions of her that had not been found before. Plus, I read all of the German-language articles and books that have been written about her.
-
-|<i>Did you manage to use any resources from the National Library?</i>
-
-|I consulted the Singapore newspapers archives in the NewspaperSG portal. This is an amazing treasure trove of materials on the history of 19th-century Singapore.
-
-|<i>Ida Pfeiffer is a remarkable person. How did she manage to see so much of the world, and to do so as a woman travelling alone?</i>
-
-|Pfeiffer never gave up, no matter how much hardship she had to endure. In addition, she was a woman doing what no woman had ever done before, so she received a lot of help and sympathy that a man would not have received in similar circumstances. She often received free tickets on ships travelling great distances and hotel keepers would not charge her for a stay because they were so honoured to meet this famous traveller.
-
-|<i>As a traveller and a collector, how would you compare her to Wallace?</i>
-
-|Pfeiffer made many journeys that were far more adventurous (or reckless) than Wallace’s. But as a self-taught collector, she was nowhere near his level of scientific knowledge. Wallace, however, only collected a very narrow spectrum of the natural world, almost nothing but insects, birds and mammals. Pfeiffer collected these as well as plants, minerals, fungi, seaweed, crustaceans, fish, and ethnographic artefacts of many kinds.
-
-|<i>You’ve obviously spent a lot of time thinking about Pfeiffer. What do you find most striking about her and what do you think were her weak points?</i>
-
-|She was a fascinating human being and her exploits were amazing. She was a woman of her time though, and as a historian, one cannot just praise things that agree with our modern values and condemn things that don’t.
-
-|I feel that what she lacked most was preparatory research. She did almost no research about the places she was going to visit. She could have understood much more about the places she visited if she had. For example, when she travelled in China, she was amazed to see people eating with chopsticks, which she had never heard of. This was astonishingly ignorant. Any basic book on China would have told her about such things.
-
-|She was also very stubborn. She never followed the advice of local experts, no matter how dangerous they said a part of her journey would be. She would just go ahead anyway. This includes her final destination, Madagascar, which ultimately cost her her life.
-
-|<i>Finally, you’ve written extensively about Darwin and Wallace, and now Pfeiffer. Who’s next on your list?</i>
-
-|I have returned to my primary area of research on Darwin and Wallace and I’m about to submit another book on Darwin, which has been 10 years in the making.
-	
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+<b>THE WRITING OF WANDERLUST</b><br>
+<br>
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t12.JPG">John van Wyhe at Lake Toba, following in Ida Pfeiffer’s footsteps.
+<br><br>
+<b>John van Wyhe</b> talks about the research process behind his book on Ida Pfeiffer and his assessment of her as a traveller and collector.
+<br><br>
+<i>You’re known as an expert on Charles Darwin and Alfred Russel Wallace. How did you learn about Ida Pfeiffer and why did she intrigue you?</i>
+<br><br>
+I came across her while doing research for my 2013 book on Alfred Russel Wallace. I wanted to read about as many travellers to Singapore and Southeast Asia in those years as possible in order to enrich the story I could tell. Pfeiffer was one such traveller. Her writing was excellent and her adventures unbelievable. I could not resist reading more and more about her.
+<br><br>
+<i>What was the research process like?</i>
+<br><br>
+I spent four to five years researching this book. I bought all of her books and made extensive use of resources such as Google Books and online historical newspaper collections. From these and other sources, I discovered many descriptions of her that had not been found before. Plus, I read all of the German-language articles and books that have been written about her.
+<br><br>
+<i>Did you manage to use any resources from the National Library?</i>
+<br><br>
+I consulted the Singapore newspapers archives in the NewspaperSG portal. This is an amazing treasure trove of materials on the history of 19th-century Singapore.
+<br><br>
+<i>Ida Pfeiffer is a remarkable person. How did she manage to see so much of the world, and to do so as a woman travelling alone?</i>
+<br><br>
+Pfeiffer never gave up, no matter how much hardship she had to endure. In addition, she was a woman doing what no woman had ever done before, so she received a lot of help and sympathy that a man would not have received in similar circumstances. She often received free tickets on ships travelling great distances and hotel keepers would not charge her for a stay because they were so honoured to meet this famous traveller.
+<br><br>
+<i>As a traveller and a collector, how would you compare her to Wallace?</i>
+<br><br>
+Pfeiffer made many journeys that were far more adventurous (or reckless) than Wallace’s. But as a self-taught collector, she was nowhere near his level of scientific knowledge. Wallace, however, only collected a very narrow spectrum of the natural world, almost nothing but insects, birds and mammals. Pfeiffer collected these as well as plants, minerals, fungi, seaweed, crustaceans, fish, and ethnographic artefacts of many kinds.
+<br><br>
+<i>You’ve obviously spent a lot of time thinking about Pfeiffer. What do you find most striking about her and what do you think were her weak points?</i>
+<br><br>
+She was a fascinating human being and her exploits were amazing. She was a woman of her time though, and as a historian, one cannot just praise things that agree with our modern values and condemn things that don’t.
+<br><br>
+I feel that what she lacked most was preparatory research. She did almost no research about the places she was going to visit. She could have understood much more about the places she visited if she had. For example, when she travelled in China, she was amazed to see people eating with chopsticks, which she had never heard of. This was astonishingly ignorant. Any basic book on China would have told her about such things.
+<br><br>
+She was also very stubborn. She never followed the advice of local experts, no matter how dangerous they said a part of her journey would be. She would just go ahead anyway. This includes her final destination, Madagascar, which ultimately cost her her life.
+<br><br>
+<i>Finally, you’ve written extensively about Darwin and Wallace, and now Pfeiffer. Who’s next on your list?</i>
+<br><br>
+I have returned to my primary area of research on Darwin and Wallace and I’m about to submit another book on Darwin, which has been 10 years in the making.
+<br><br>	
 <img  style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t14.jpg">
-
-|John van Wyhe’s <i>Wanderlust: The Amazing Ida Pfeiffer, the First Female Tourist</i> (2019) retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 910.41 VAN and SING 910.41 VAN](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203864443)). The 1888 French edition of Ida Pfeiffer’s second book, Voyage autour du monde de Mme. Ida Pfeiffer (<i>Voyage Around the World by Mme. Ida Pfeiffer</i>), translated by E. Delauney was on display at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
-
+<br><br>
+John van Wyhe’s <i>Wanderlust: The Amazing Ida Pfeiffer, the First Female Tourist</i> (2019) retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 910.41 VAN and SING 910.41 VAN](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203864443)). The 1888 French edition of Ida Pfeiffer’s second book, Voyage autour du monde de Mme. Ida Pfeiffer (<i>Voyage Around the World by Mme. Ida Pfeiffer</i>), translated by E. Delauney was on display at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
+</div>
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t13.jpg" style="width: 100px; height: 100px;"><br>
