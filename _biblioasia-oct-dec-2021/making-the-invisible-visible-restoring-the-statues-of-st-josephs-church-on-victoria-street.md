@@ -22,7 +22,7 @@ The 30 or so statues in the church are physical connections to the history of th
 
  
 
-#### Restoring St Joseph’s
+#### **Restoring St Joseph’s**
 
 The restoration of the church initially started out as a paint job. But in June 2017, workers discovered intricate plasterwork hidden under decades of paintwork, exposing floral and foliage motifs.[^1] The discovery triggered a larger investigation into what else needed to be done, and a professional structural engineer was engaged to assess the building’s structural integrity. 
 
@@ -54,7 +54,7 @@ She was under no illusion that it would be an easy task. For a project of this s
 
 The restoration project began in August 2018 and an air-conditioned workshop was built on the church grounds to ensure optimal storage conditions and minimise the need to transport the statues. Between 2018 and 2021, a total of 29 statues were restored. (Three statues were deemed beyond restoration and decommissioned.)
 
-#### Making the Invisible Visible 
+#### **Making the Invisible Visible** 
 
 At the start of the project, Machado did a comprehensive survey of the statues and put together a report for the building committee. In her initial assessment, she examined 24 statues to ascertain their physical condition. The report was mixed: 14 statues were in good physical condition, but had yellowed over time. Overpainting and haphazard repairs had also caused a further loss of detail and definition and some statues had missing fingers. Also missing were the objects representing the saints’ particular attributes or virtues. 
 
@@ -66,7 +66,7 @@ Her approach was guided mainly by conservation principles. Every intervention ha
 
 In addition to the technical aspects, Machado also had to ensure that the restoration faithfully represented the historical and cultural contexts of both the statue and the saint. Her sensitive approach is an indication of how the restoration of a material object can sit at the intersection of history, art, chemistry, material science and more. 
 
-#### St Francis Xavier
+#### **St Francis Xavier**
 
 Machado’s first restoration piece was the statue of St Francis Xavier (1506–52), a task that took two weeks to complete. One of the seven original members of the Society of Jesus (also known as Jesuits), St Francis Xavier is remembered for his missionary work in establishing Christianity in Asia, the Malay Archipelago and Japan. Based in Melaka for several months in 1545, St Francis Xavier was informed that he had been appointed provincial of the “Indies and the countries beyond” while he was in Singapore at the end of 1551.[^8]
 
@@ -91,7 +91,7 @@ Next, pigment was used to restore St Francis Xavier’s surplice – a tunic wit
 
 With its now soulful eyes, kindly visage and handsome vestments, the restored statue of St Francis Xavier will once again grace the church building.
 
-#### Guardian Angel and Child 
+#### **Guardian Angel and Child** 
 
 Angels feature prominently in the Bible and Catholics traditionally believe that there are guardian angels who watch over, guide, protect and accompany the faithful throughout their lives. 
 
@@ -104,7 +104,7 @@ Unfortunately, years of overpainting had hardened the facial expressions of the 
 <div style="background-color: white;">Before restoration, the guardian angel had a nonchalant fixed stare while the child had a look of doubt. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
-#### St Sebastian 
+#### **St Sebastian** 
 
 The biggest technical challenge in the entire project was the restoration of the plaster statue of St Sebastian, the patron saint of archers, athletes and soldiers. Martyred in third-century Rome during the Roman emperor Diocletian’s persecution of Christians, St Sebastian is usually depicted as a handsome, fair-skinned youth pierced by arrows. The difficulty in restoring this statue was not because much of the original paintwork had been lost. In fact, it was the opposite.
 
@@ -122,7 +122,7 @@ In the end though, all that effort paid off. Machado said she was “very moved 
 
 Looking back, Machado said she was extremely proud of the work she had been able to accomplish on this project, “to have done such a big number of artworks by myself in such a short amount of time”.[^11]
 
-#### St Agnes and St Roch 
+#### **St Agnes and St Roch** 
 
 Of all the statues Machado restored, her favourite is that of St Agnes of Rome, a patron saint of virgins, girls and chastity. St Agnes was merely a young girl of 12 or 13 when she was martyred during a wave of persecutions in 303 CE unleashed by the Roman emperor Diocletian. The statue depicts a young woman with long, flowing tresses, wearing a Roman tunic with a palla (long shawl) draped over it. In her left arm, she is cradling a lamb. 
 
@@ -140,7 +140,7 @@ Machado’s other favourite statue is St Roch, a male saint canonised in the 16t
 <div style="background-color: white;">The statue of St Roch, the Catholic patron saint of dogs, is always depicted with a canine at his feet. <i>Courtesy of Saint Joseph’s Church (Victoria Street) and Pixelmusica Pte Ltd.</i></div>
 
 
-#### The Way of Truth, Beauty and Goodness 
+#### **The Way of Truth, Beauty and Goodness** 
 
 As the restoration of St Joseph’s Church approaches completion in late 2021, after almost three years, its full architectural splendour will be made visible with its original flooring reinstated, new lighting and paintwork. The statues will once again take up their places in niches that line the nave and transept, their finery revealed by soft illumination. 
 
