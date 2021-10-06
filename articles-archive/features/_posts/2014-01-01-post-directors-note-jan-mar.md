@@ -28,3 +28,5 @@ The reality is that a mere 15 minutes of fame doesn’t amount to much (Warhol m
 I hope this issue of <i>BiblioAsia</i> extends the National Library’s role in serving the reader with different perspectives of the peoples and lives of Singapore past — and in the process immortalise them in a manner that is based on a deeper appreciation of the context in which they once existed. 
 
 Gene Tan<br>Director, National Library
+
+<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
