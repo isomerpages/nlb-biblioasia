@@ -135,3 +135,5 @@ In Modern English (Song of a Singaporean) (1975)
 Collected Poems by Angeline Yap was published in 1986. <i>All rights reserved, National Library Board Singapore, 2014.</i>
 
 <p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library. She was involved in the curation of the Singapore Literary Pioneers Gallery and in the compilation of Singapore Literature in English: An Annotated Bibliography (2008).</p>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
