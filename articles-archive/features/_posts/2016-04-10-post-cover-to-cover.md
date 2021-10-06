@@ -18,7 +18,7 @@ Since the early 1950s, women in Singapore have fought for basic rights in marria
 
 The launch of Singapore’s first television station, Television Singapura, in February 1963 was a game changer in the entertainment scene. Television was such a novelty in those days that viewers were just as entertained by commercials as they were by the actual programmes. Magazines such as TV & Radio Magazine (电视与广播), and later Fanfare and Radio & TV Times, appeared on the scene to capitalise on the allure of television and the accompanying line-up of local celebrities it ushered. Fanfare is no longer around but TV & Radio Magazine and Radio & TV Times have since evolved to become the hugely popular i-Weekly and 8 DAYS respectively, two of Singapore’s longest-running entertainment magazines.
 
-#### **Covers from Yesteryear **
+#### **Covers from Yesteryear**
 
 The National Library has a rich collection of entertainment magazines acquired over the years or deposited by publishers in the Legal Deposit Collection, an archive of over 1 million items. Highlighted here is a small sampling of magazines from the Lee Kong Chian Reference Library and the Legal Deposit Collection.
 
