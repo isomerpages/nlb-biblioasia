@@ -127,28 +127,29 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 <div style="background-color: white;">(Left) An advertisement touting the various features of the Mercedes Benz 250S, such as its powerful 6-cylinder engine, the ergonomically built seats, the reliable breaking system, and the light and quick steering. <i>Image reproduced from The Straits Times Annual, 1968, p. 136.</i><br>
 (Right) This advertisement portrays car ownership as a happy family ideal, with a picture perfect modern family admiring their brand new Morris motorcar. <i>Image reproduced from Her World, November 1960.</i></div><br>
 
-|**TAXI! TAXI!**
-
-|First introduced in 1910, the taxi-cab service in Singapore was the brainchild of C.F.F. Wearne and Company. Singapore became the second city in Asia after Calcutta, India, to have such a service and it was lauded as being modern and affordable. Two Rover cars were fitted with “taximeters” and were initially used to provide a reservations-only private taxi service before obtaining the licence to ply the streets for public hire. At a charge of 40 cents per mile and with a seating capacity of five passengers, taxi-cab services worked out to be no more expensive than hiring a first-class rickshaw.
-
-|<img style="width: 600px; height: 400px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels7.JPG">A fleet of taxis along North Bridge Road, 1968. Meters were made compulsory for all licensed taxis by 1953. However, many private cars were used by unlicensed taxi drivers to ply the streets for hire. People negotiated fares with the driver and strangers could be picked up along the way to share the fare. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
-
-|In 1919, the Singapore Motor Taxi Cab and Transport Company Limited was incorporated in the Straits Settlements (comprising Singapore, Penang and Malacca) and published its prospectus in the local newspapers to raise $350,000 as capital. The company proposed starting a taxi service comprising a fleet of 40 Ford Landaulettes as taxi-cabs. The 20-horsepower six-seater Landaulette was distributed by C.F.F. Wearne and Company.
-
-|<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels8.JPG">(Left) The four-seater Trojan was promoted as a “private car, taxi or bus” that could halve the usual running expenses for a car. <i>Image reproduced from The Singapore Free Press, 9 September 1925, p. 5.</i><br> (Right) Yellow Top Cabs first appeared in Singapore in 1933 and soon became a familiar sight on the streets. <i>Image reproduced from The Straits Times, 6 November 1933, p. 16.</i>
-
-|By the end of 1920, the Singapore Taxicab Co. was advertising a “Call a Taxi” service in *The Straits Times*. Its black-and-yellow taxis were stationed at Raffles Place, General Post Office, Grand Hotel de l’Europe, Adelphi Hotel, Raffles Hotel and the company’s garage at 1 Orchard Road, ready to pick up passengers. The fare was 40 cents per mile – the same as when taxi services were introduced a decade earlier.
-
-|Abrams’ Motor Transport Company started a vehicle-for-hire scheme in the mid-1920s. Customers could hire a car or lorry at $3 per hour, which was touted as being cheaper than a taxi. Among the car models available for hire was the five-seater Gardner.
-
-|In 1930, Borneo Motors Limited imported a new type of taximeter that could calculate fares automatically. Apparently there had been disputes between drivers and passengers over the correct fare to be paid (taximeters became compulsory only in 1953). The new taximeter had been used in other Asian cities such as Rangoon and Calcutta.
-
-|Yellow Top Cabs – launched by Universal Cars Limited which claimed to have the lowest metered rates for closed cabs – made its debut in Singapore in 1933. Advertisements for Yellow Top Cabs between 1933 and 1934 sang praises of their cleanliness, efficiency and reliability. The cabs were available at taxi stands – at Raffles Place, Collyer Quay, Battery Road, Raffles Hotel, Stamford Road and Orchard Road – and could also be booked by telephone.
-
-|After World War II, many private cars were used by unlicensed taxi drivers to ply the streets for hire. These illegal “pirate taxis” caused problems for both licensed taxi drivers as well as the authorities, although it was argued that they provided a much-needed public service.
-
-|In 1970, the National Trades Union Congress started its Comfort taxi service and offered pirate taxi drivers the opportunity to join its operations. A total ban on pirate taxis came into force in July the following year.
-
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+<b>TAXI! TAXI!</b>
+<br><br>
+First introduced in 1910, the taxi-cab service in Singapore was the brainchild of C.F.F. Wearne and Company. Singapore became the second city in Asia after Calcutta, India, to have such a service and it was lauded as being modern and affordable. Two Rover cars were fitted with “taximeters” and were initially used to provide a reservations-only private taxi service before obtaining the licence to ply the streets for public hire. At a charge of 40 cents per mile and with a seating capacity of five passengers, taxi-cab services worked out to be no more expensive than hiring a first-class rickshaw.
+<br><br>
+<img style="width: 600px; height: 400px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels7.JPG">A fleet of taxis along North Bridge Road, 1968. Meters were made compulsory for all licensed taxis by 1953. However, many private cars were used by unlicensed taxi drivers to ply the streets for hire. People negotiated fares with the driver and strangers could be picked up along the way to share the fare. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
+<br><br>
+In 1919, the Singapore Motor Taxi Cab and Transport Company Limited was incorporated in the Straits Settlements (comprising Singapore, Penang and Malacca) and published its prospectus in the local newspapers to raise $350,000 as capital. The company proposed starting a taxi service comprising a fleet of 40 Ford Landaulettes as taxi-cabs. The 20-horsepower six-seater Landaulette was distributed by C.F.F. Wearne and Company.
+<br><br>
+<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels8.JPG">(Left) The four-seater Trojan was promoted as a “private car, taxi or bus” that could halve the usual running expenses for a car. <i>Image reproduced from The Singapore Free Press, 9 September 1925, p. 5.</i><br> (Right) Yellow Top Cabs first appeared in Singapore in 1933 and soon became a familiar sight on the streets. <i>Image reproduced from The Straits Times, 6 November 1933, p. 16.</i>
+<br><br>
+By the end of 1920, the Singapore Taxicab Co. was advertising a “Call a Taxi” service in *The Straits Times*. Its black-and-yellow taxis were stationed at Raffles Place, General Post Office, Grand Hotel de l’Europe, Adelphi Hotel, Raffles Hotel and the company’s garage at 1 Orchard Road, ready to pick up passengers. The fare was 40 cents per mile – the same as when taxi services were introduced a decade earlier.
+<br><br>
+Abrams’ Motor Transport Company started a vehicle-for-hire scheme in the mid-1920s. Customers could hire a car or lorry at $3 per hour, which was touted as being cheaper than a taxi. Among the car models available for hire was the five-seater Gardner.
+<br><br>
+In 1930, Borneo Motors Limited imported a new type of taximeter that could calculate fares automatically. Apparently there had been disputes between drivers and passengers over the correct fare to be paid (taximeters became compulsory only in 1953). The new taximeter had been used in other Asian cities such as Rangoon and Calcutta.
+<br><br>
+Yellow Top Cabs – launched by Universal Cars Limited which claimed to have the lowest metered rates for closed cabs – made its debut in Singapore in 1933. Advertisements for Yellow Top Cabs between 1933 and 1934 sang praises of their cleanliness, efficiency and reliability. The cabs were available at taxi stands – at Raffles Place, Collyer Quay, Battery Road, Raffles Hotel, Stamford Road and Orchard Road – and could also be booked by telephone.
+<br><br>
+After World War II, many private cars were used by unlicensed taxi drivers to ply the streets for hire. These illegal “pirate taxis” caused problems for both licensed taxi drivers as well as the authorities, although it was argued that they provided a much-needed public service.
+<br><br>
+In 1970, the National Trades Union Congress started its Comfort taxi service and offered pirate taxi drivers the opportunity to join its operations. A total ban on pirate taxis came into force in July the following year.
+</div>
 <br>
 
 |This essay is reproduced from the book, <i>Between the Lines: Early Print Advertising in Singapore 1830s-1960s</i>. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [[Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203150558)].
