@@ -22,7 +22,6 @@ permalink: /editors-picks/culture
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/betel-chewing" target="_blank">A Bite of History: Betel Chewing in Singapore</a>
  <p>Fiona Lim and Geoffrey Pakiam look at this time-honoured tradition – once a mainstay in Malay, Indian and Peranakan homes – that has since fallen out of fashion.</p> 
- <img style="width:400px;" src="/images/vol-16-issue-3/betel/
- twomensellingbetel.jpg"> 
+ <img style="width:400px;" src="/images/vol-16-issue-3/betel/twomensellingbetel.jpg"> 
   
  <hr clear="left">
