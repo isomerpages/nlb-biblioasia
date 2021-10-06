@@ -108,24 +108,23 @@ The popularity of amusement parks began to wane towards the end of the 1960s. Th
 
 Without the heaving crowds, the amusement parks were unable to survive and eventually closed. Gay World was the last park to cease operations in 2000.[^37] Over the years, the land occupied by the parks has been taken over by commercial or residential buildings. Only the faded memories of older Singaporeans linger, recalling the once glorious past of these “Worlds” and the joy and laughter they brought to their lives.
 
-|**AMUSEMENT PARKS: A TIMELINE**|
-
-|**New World**|
-
-|1923: Opens on 1 August.<br>1929: Establishes Singapore’s first cabaret.<br>1938: Shaw Brothers acquires New World.<br>1942: Remains open during the Japanese Occupation.<br>1987: City Developments buys over New World.<br>2009: Site is redeveloped into the first eco-friendly mall called City Square Mall.|
-
-|**Great World**|
-
-|1931: Opens on 1 June.<br>1940: Shaw Brothers acquires Great World.<br>1942: Remains open during the Japanese Occupation.<br>1964: Ceases operations but its cinemas and restaurants remain open.<br>1979: Malaysia’s Sugar King Robert Kuok buys over Great World.<br>1997: Site is redeveloped into a residential-commercial project called Great World City|
-
-|**Gay World**|
-
-|1937: Opens as Happy World on 6 May.<br>1942: Remains open during the Japanese Occupation.<br>1952: Its indoor stadium is used as a venue for the Thomas Cup.<br>1964: Renamed Gay World and transferred to the British and Malayan Trustees Ltd.<br>1973: Used as a venue for the 7th Southeast Asian Peninsular Games.<br>2000: Tenants are given notice by the Land Office to move from the park in March; main tenant Eng Wah Organisation terminates its lease.<br>2001: Demolished and the unoccupied site is zoned for residential projects.|
-
-|<br><br><img style="width:600px" src="/images/Vol-12-issue-1/old-world-amusement-parks/11_amusementpark.jpg">City Square Mall, Singapore’s first eco-friendly mall, was launched in 2009. The mall stands on the site of the former New World amusement park along Jalan Besar. New World was the first of the three amusement parks to open. <i>Courtesy of City Developments Limited.</i>|
-
-|<img style="width:600px" src="/images/Vol-12-issue-1/old-world-amusement-parks/12_amusementpark.jpg">A photo of the exterior of Great World City taken during its official opening in 1997. This mixed-use development comprising retail, office and residential units occupies the site of the former Great World amusement park. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>|
-
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>AMUSEMENT PARKS: A TIMELINE</b>
+<br><br>
+<b>New World</b>
+<br><br>
+1923: Opens on 1 August.<br>1929: Establishes Singapore’s first cabaret.<br>1938: Shaw Brothers acquires New World.<br>1942: Remains open during the Japanese Occupation.<br>1987: City Developments buys over New World.<br>2009: Site is redeveloped into the first eco-friendly mall called City Square Mall.
+<br><br>
+<b>Great World</b>
+<br><br>
+1931: Opens on 1 June.<br>1940: Shaw Brothers acquires Great World.<br>1942: Remains open during the Japanese Occupation.<br>1964: Ceases operations but its cinemas and restaurants remain open.<br>1979: Malaysia’s Sugar King Robert Kuok buys over Great World.<br>1997: Site is redeveloped into a residential-commercial project called Great World City.
+<br><br>
+<b>Gay World</b>
+<br><br>
+1937: Opens as Happy World on 6 May.<br>1942: Remains open during the Japanese Occupation.<br>1952: Its indoor stadium is used as a venue for the Thomas Cup.<br>1964: Renamed Gay World and transferred to the British and Malayan Trustees Ltd.<br>1973: Used as a venue for the 7th Southeast Asian Peninsular Games.<br>2000: Tenants are given notice by the Land Office to move from the park in March; main tenant Eng Wah Organisation terminates its lease.<br>2001: Demolished and the unoccupied site is zoned for residential projects.
+<br><br>
+<img style="width:600px" src="/images/Vol-12-issue-1/old-world-amusement-parks/11_amusementpark.jpg">City Square Mall, Singapore’s first eco-friendly mall, was launched in 2009. The mall stands on the site of the former New World amusement park along Jalan Besar. New World was the first of the three amusement parks to open. <i>Courtesy of City Developments Limited.</i>
+<br><br>
+<img style="width:600px" src="/images/Vol-12-issue-1/old-world-amusement-parks/12_amusementpark.jpg">A photo of the exterior of Great World City taken during its official opening in 1997. This mixed-use development comprising retail, office and residential units occupies the site of the former Great World amusement park. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;">
 <br>
