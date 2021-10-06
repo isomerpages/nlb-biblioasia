@@ -22,8 +22,7 @@ The launch of Singapore’s first television station, Television Singapura, in F
 
 The National Library has a rich collection of entertainment magazines acquired over the years or deposited by publishers in the Legal Deposit Collection, an archive of over 1 million items. Highlighted here is a small sampling of magazines from the Lee Kong Chian Reference Library and the Legal Deposit Collection.
 
-|**THE SINGAPORE CINEMA REVIEW**|
-|<br>(7th edition, 1937–38); publisher:  William Robert Williams|
 
-|When “sound” films took off in the early 1930s, it ushered in the Golden Age of filmmaking in Hollywood.  Local audiences, bitten by the Hollywood bug, flocked to cinemas such as Alhambra, Palladium, Capitol and Cathay to catch the latest imports. Film-related fan magazines such as The Singapore Cinema Review became popular as a result. This annual publication, first launched in 1932, offered the latest news on Hollywood film releases and popular stars of the time, such as Bette Davis and Katharine Hepburn. This issue featured the American actress and singer Alice Faye on the cover.|
+**The Singapore Cinema Review** (7th edition, 1937–38); publisher:  William Robert Williams
 
+When “sound” films took off in the early 1930s, it ushered in the Golden Age of filmmaking in Hollywood.  Local audiences, bitten by the Hollywood bug, flocked to cinemas such as Alhambra, Palladium, Capitol and Cathay to catch the latest imports. Film-related fan magazines such as The Singapore Cinema Review became popular as a result. This annual publication, first launched in 1932, offered the latest news on Hollywood film releases and popular stars of the time, such as Bette Davis and Katharine Hepburn. This issue featured the American actress and singer Alice Faye on the cover.
