@@ -124,15 +124,15 @@ These sweeping changes, which also saw the Printers and Publishers Ordinance and
 
 Today, the dispersed holdings of the Raffles Library and Museum exist in the collections of the National Library at Victoria Street and the Lee Kong Chian Natural History Museum at the National University of Singapore. Parts of the collections can also be found in the Library of Botany and Horticulture of the Botanic Gardens and the staff collection of the National Heritage Board museums.
 
-|**FROM THE STACKS: CATCH IT SOON!**|
-
-|“From the Stacks: Highlights of the National Library” is an ongoing exhibition that features several items from the Rare Materials Collection mentioned in this article: the first reports of the Singapore Library (1844–52); books inherited from the Singapore Library; the first edition of the *Straits Times Almanack and Directory* (1846); the first lithographed edition of *Hikayat Abdullah* (1849); and original copies of *The Syonan Shimbun* and *Zhanonan Ribao* ((昭南日报) newspapers.|
-
-|Visitors will also get to see letters penned by Stamford Raffles and his wife Sophia; an intricate “Loyalty Address” presented by local Chinese merchants to Prince Alfred, Duke of Edinburgh, in homage of his visit to Singapore in December 1869; as well as some of the the earliest materials published in or about Singapore.|
-
-|In conjunction with the exhibition, the National Library has planned guided tours, talks and workshops, including a birdwatching tour, a conservation talk by archivists and a heritage cooking demonstration.|
-
-|The exhibition is held at the National Library Gallery, Level 10, National Library Building, until 28 August 2016. Admission is free. For more information on the exhibition and its programmes, check: [www.nlb.gov.sg/exhibitions](www.nlb.gov.sg/exhibitions)|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>FROM THE STACKS: CATCH IT SOON!</b>
+<br><br>
+“From the Stacks: Highlights of the National Library” is an ongoing exhibition that features several items from the Rare Materials Collection mentioned in this article: the first reports of the Singapore Library (1844–52); books inherited from the Singapore Library; the first edition of the <i>Straits Times Almanack and Directory</i> (1846); the first lithographed edition of <i>Hikayat Abdullah</i> (1849); and original copies of <i>The Syonan Shimbun</i> and <i>Zhanonan Ribao</i> ((昭南日报) newspapers.
+<br><br>
+Visitors will also get to see letters penned by Stamford Raffles and his wife Sophia; an intricate “Loyalty Address” presented by local Chinese merchants to Prince Alfred, Duke of Edinburgh, in homage of his visit to Singapore in December 1869; as well as some of the the earliest materials published in or about Singapore.
+<br><br>
+In conjunction with the exhibition, the National Library has planned guided tours, talks and workshops, including a birdwatching tour, a conservation talk by archivists and a heritage cooking demonstration.
+<br><br>
+The exhibition is held at the National Library Gallery, Level 10, National Library Building, until 28 August 2016. Admission is free. For more information on the exhibition and its programmes, check: <a href="http://www.nlb.gov.sg/exhibitions">www.nlb.gov.sg/exhibitions</a></div>
 
 <div style="background-color: white;">
 <br>
