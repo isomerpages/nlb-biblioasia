@@ -70,3 +70,10 @@ Arbitrary, let there be three, yes three,<br>
 As this is the year of the three-<br>
 clawed dragon.<br>
 </div>
+
+I quote the poem fully to demonstrate the disjunct between the name and the character the baby is supposed to take on. Sha Min did not turn out to be dragonish at all; in fact, she grew up to be a very agreeable and even-tempered girl.
+
+In addition, quoting the poem entirely also shows the pains I took to write in such a way that avoided the obvious influence of the great poem by W.B. Yeats, *A Prayer for My Daughter*. Hopefully, the Chinese mythological references will differentiate my poem from his.
+
+<img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde2.JPG">
+<div style="background-color: white;"> Catherine Lim’s collection of 17 short stories, Little Ironies: Stories of Singapore, was first published in 1978 by Heinemann Southeast Asia in the Writing in Asia Series. It was used as a text for the GCE N-Level examination in 1987. In 2015, <i>The Business Times selected Little Ironies as one of the Top 10 English Singapore books for the period 1965–2015.</i></div>
