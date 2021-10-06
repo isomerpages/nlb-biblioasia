@@ -102,34 +102,36 @@ Geraldine Heng is an associate professor at the University of Texas, Austin. Her
 
 Nalla Tan and Rosaly Puthucheary were two prolific women writers in the 1970s. Though their works have not achieved critical standing, they are mentioned in this article for their contributions to the production of women writing.
 
-Born in Ipoh, Malaysia, Nalla Tan is better known for her ground-breaking work as a physician on sex education in schools and her advocacy work with women in Singapore. She has written two poetry collections, Emerald Autumn and Other Poems (1976) and The Gift, and Other Poems (1978). They were republished, along with new poems, in The Collected Poems of Nalla Tan in 1998. She also wrote prose, which met with greater success. Her short stories have been anthologised in The Sun in Her Eyes and Singapore Short Stories Volume II, and released as a collection as Hearts and Crosses (1989). Much of Tan’s poems draw on her life experiences growing up in Ipoh, and living in Singapore and the causes she championed. The following extract, from “Coffee at Eleven”, satires the world of kept mistresses.
+Born in Ipoh, Malaysia, Nalla Tan is better known for her ground-breaking work as a physician on sex education in schools and her advocacy work with women in Singapore. She has written two poetry collections, <i>Emerald Autumn and Other Poems</i> (1976) and <i>The Gift, and Other Poems</i> (1978). They were republished, along with new poems, in <i>The Collected Poems of Nalla Tan</i> in 1998. She also wrote prose, which met with greater success. Her short stories have been anthologised in <i>The Sun in Her Eyes</i> and <i>Singapore Short Stories Volume II</i>, and released as a collection as Hearts and Crosses (1989). Much of Tan’s poems draw on her life experiences growing up in Ipoh, and living in Singapore and the causes she championed. The following extract, from “Coffee at Eleven”, satires the world of kept mistresses.
 
-Coffee at eleven Singapore mean time. Leisured women, Chauffeur driven With nothing better to do Than to sip hot coffee Replacing the ‘mems’ Of not so long ago
+Coffee at eleven<br>Singapore mean time. <br>Leisured women, <br>Chauffeur driven <br>With nothing better to do <br>Than to sip hot coffee <br>Replacing the ‘mems’ <br>Of not so long ago
 
-Who’s being kept? What, a second establishment! With Woman’s Charter!!
+Who’s being kept? <br>What, a second establishment! <br>With Woman’s Charter!!
 
 (Lines 1–8, 30–32; The Gift and Other Poems, pp. 34–35)
 
-Nalla Tan wore many hats – doctor, academic, writer. She advocated a diverse range of issues from health education to women’s rights. Courtesy of Tan Ying Hsien.
+Nalla Tan wore many hats – doctor, academic, writer. She advocated a diverse range of issues from health education to women’s rights. <i>Courtesy of Tan Ying Hsien.</i>
 
-Rosaly Puthucheary has been writing poetry since 1952. She obtained her doctorate in English Literature at the National University of Singapore. Courtesy of Rosaly Puthucheary.
+Rosaly Puthucheary has been writing poetry since 1952. She obtained her doctorate in English Literature at the National University of Singapore. <i>Courtesy of Rosaly Puthucheary.</i>
 
-Rosaly Puthucheary, sister of former left-wing politician James Puthchucheary and Malaysian poet Susie Puthucheary, was born in Johor Bahru. She came to Singapore in 1974 and is now a retired teacher. To date, she has published six volumes of poetry Pillow Your Dreams (1978); The Fragmented Ego (1978); Dance on His Doorstep (1992); Mirrored Images (2008); Footfalls in the Rain (2008); My Burning Hill (2012); and two novels The Tessellated Path (2009) and In the Wake of Terror (2012). Her poems from the 1970s are short introspective pieces that dwell on the subject of romantic love and selfdiscovery. Poems, such as “A Door-Mat”, hint at her feminist sentiments.
+Rosaly Puthucheary, sister of former left-wing politician James Puthchucheary and Malaysian poet Susie Puthucheary, was born in Johor Bahru. She came to Singapore in 1974 and is now a retired teacher. To date, she has published six volumes of poetry <i>Pillow Your Dreams</i> (1978); <i>The Fragmented Ego</i> (1978); <i>Dance on His Doorstep</i> (1992); <i>Mirrored Images</i> (2008); <i>Footfalls in the Rain</i> (2008); <i>My Burning Hill</i> (2012); and two novels <i>The Tessellated Path</i> (2009) and <i>In the Wake of Terror</i> (2012). Her poems from the 1970s are short introspective pieces that dwell on the subject of romantic love and selfdiscovery. Poems, such as “A Door-Mat”, hint at her feminist sentiments.
 
-I will not be your door-mat a piece of convenience waiting at the door, to dust the ash of your desire a rug to throw your weariness crushing the rush of my fibre with your heavy indifference.
+I will not be your door-mat <br>a piece of convenience <br>waiting at the door, <br>to dust the ash of your desire <br>a rug to throw your weariness <br>crushing the rush of my fibre <br>with your heavy indifference.
 
 (Lines 1–7; Pillow Your Dreams, p. 1)
 
-These books are a sampling of Rosaly Puthucheary’s poetry. She has also written two novels to date. All rights reserved, National Library Board Singapore, 2014.
+These books are a sampling of Rosaly Puthucheary’s poetry. She has also written two novels to date. <i>All rights reserved, National Library Board Singapore, 2014.</i>
 
-Angeline Yap is the youngest poet featured in this article. She began writing as a child and contributed many poems during the 1970s and 1980s to periodicals such as Saya, Focus and Singa. Nurtured by the late Marie Bong who taught her to write not with her head but her heart, Yap won many prizes in writing competitions organised by the Ministry of Culture, NUS Literary Society and the National Book Development Council. Marie Bong was the former headmistress of CHIJ Katong and long-time editor of the student literary magazine Saya. Yap’s poems were republished in 1986 under the title Collected Poems, and have appeared in contemporary anthologies such as The Poetry of Singapore (1985) and Journeys: Words, Home and Nation (1995). Yap is also a mentor with the National Arts Council’s Mentor Access Project and released her second book of poems Closing My Eyes to Listen in 2011. Her latest outing sees a shift in direction towards spiritual contemplation, much like Lee Tzu Pheng’s more recent works. The following poem written in “almost colloquial”11 language is the first of two poems titled “Song of a Singaporean”.
+Angeline Yap is the youngest poet featured in this article. She began writing as a child and contributed many poems during the 1970s and 1980s to periodicals such as <i>Saya, Focus and Singa</i>. Nurtured by the late Marie Bong who taught her to write not with her head but her heart, Yap won many prizes in writing competitions organised by the Ministry of Culture, NUS Literary Society and the National Book Development Council. Marie Bong was the former headmistress of CHIJ Katong and long-time editor of the student literary magazine Saya. Yap’s poems were republished in 1986 under the title <i>Collected Poems</i>, and have appeared in contemporary anthologies such as <i>The Poetry of Singapore</i> (1985) and <i>Journeys: Words, Home and Nation</i> (1995). Yap is also a mentor with the National Arts Council’s Mentor Access Project and released her second book of poems <i>Closing My Eyes to Listen</i> in 2011. Her latest outing sees a shift in direction towards spiritual contemplation, much like Lee Tzu Pheng’s more recent works. The following poem written in “almost colloquial”[^11] language is the first of two poems titled “Song of a Singaporean”.
 
 Yap’s poem, “Colours”, was also featured in the exhibition “Calligraphy in Collaboration with Poets and Artists” with American calligrapher, Thomas Ingmire, in 2013.
 
-In Modern English (Song of a Singaporean) (1975) (i) Are you mad with me ‘Cos I’m not hooked On Culture Spelt with capital ‘C’, ‘Cos I don’t dig ballet, Don’t talk Chopin, Beethoven or Bizet, ‘Cos my spirit answers To the call of the Chinese flute And it dances To the rhythm of the Malay beat, ‘Cos my culture starts with ‘c’, Not capital, Not spoken with uplift of nose or brows, Can you be mad with me? 
+In Modern English (Song of a Singaporean) (1975) 
+
+(i) <br>Are you mad with me <br>‘Cos I’m not hooked <br>On Culture <br>Spelt with capital ‘C’, <br>‘Cos I don’t dig ballet, <br>Don’t talk Chopin, <br>Beethoven or Bizet, <br>‘Cos my spirit answers <br>To the call of the Chinese flute <br>And it dances <br>To the rhythm of the Malay beat, <br>‘Cos my culture starts with ‘c’, <br>Not capital, <br>Not spoken with uplift of nose or brows, <br>Can you be mad with me? 
 
 (Lines 1–15; Collected Poems, p.10 )
 
-Collected Poems by Angeline Yap was published in 1986. All rights reserved, National Library Board Singapore, 2014.
+Collected Poems by Angeline Yap was published in 1986. <i>All rights reserved, National Library Board Singapore, 2014.</i>
 
 <p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library. She was involved in the curation of the Singapore Literary Pioneers Gallery and in the compilation of Singapore Literature in English: An Annotated Bibliography (2008).</p>
