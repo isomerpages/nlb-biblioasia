@@ -71,7 +71,7 @@ As an actor, Edmund read to “understand the different roles” he had to play.
 As a father, the first book Edmund read to his daughter was a book that he wrote called <i>Xiao Qing’s Story</i> (小青的故事), about a proud bird of paradise that learnt not to judge other animals by their  appearances. Set in Malaysia, this book was one of a series of four books about endangered animals (the others being the whale, rhinoceros and proboscis monkey). Through these books, Edmund wanted to create awareness of endangered species and encourage children to protect such animals. Edmund feels that reading should be both enjoyable and educational, and writing stories is a way for him to impart strong moral values to young readers.
 <br><br>
 Ever the sentimental person, Edmund has two rented storerooms where he stores some of his most treasured books. His collection includes some of his old comics, <i>wuxia</i> novels and the books he used to read to his children.</div>
-
+<br><br>
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>RHONDA MYRA GARCES-BACSAL: GATHERING READERS</b>
 <br><br>
 <img style="width:400px"   src="/images/Vol-12-issue-1/in-remembrance-of-reading/07_reading.bmp">
