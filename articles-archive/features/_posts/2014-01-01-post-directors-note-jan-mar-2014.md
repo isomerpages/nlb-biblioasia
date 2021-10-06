@@ -4,7 +4,6 @@ date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/director-note
 layout: post
 ---
-
 HOW DOES ONE ACHIEVE IMMORTALITY IN A CROWDED SPACE? 
 
 Some people may be content with their scant 15 minutes of fame, the fleeting media publicity that celebrated pop artist Andy Warhol famously referred to in 1968. 
@@ -27,6 +26,6 @@ The reality is that a mere 15 minutes of fame doesn’t amount to much (Warhol m
 
 I hope this issue of <i>BiblioAsia</i> extends the National Library’s role in serving the reader with different perspectives of the peoples and lives of Singapore past — and in the process immortalise them in a manner that is based on a deeper appreciation of the context in which they once existed. 
 
-Gene Tan<br>Director, National Library
+<b>Gene Tan<b/><br>Director, National Library
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
