@@ -6,6 +6,8 @@ layout: post
 ---
 #### **Barbara Quek** and **Zoe Yeo** highlight entertainment magazine covers of yesteryear from the collections of the National Library.
 
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/cover-to-cover/01_covertocover.jpg"></div>
+
 For many of us (of a certain vintage), entertainment magazines were part and parcel of our growing-up years. We spent many delightful hours poring over such magazines for news and gossip of our favourite celebrities or the latest in film, music and fashion. We eagerly awaited to buy the next issue – much to the exasperation of our parents – or else tried to borrow a copy from friends or read it at the library.
 
 Teenagers today are just as enamoured of entertainment magazines as their parents were many years ago; the big difference is that they are spoilt for choice these days. Although the news is likely to be digitally consumed via a smartphone, tablet or notebook, recent research indicates that young people also show a predilection towards reading the tried and tested way – on old-fashioned ink and paper.
@@ -22,6 +24,7 @@ The launch of Singapore’s first television station, Television Singapura, in F
 
 The National Library has a rich collection of entertainment magazines acquired over the years or deposited by publishers in the Legal Deposit Collection, an archive of over 1 million items. Highlighted here is a small sampling of magazines from the Lee Kong Chian Reference Library and the Legal Deposit Collection.
 
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/cover-to-cover/02_covertocover.bmp"></div>
 
 **The Singapore Cinema Review** (7th edition, 1937–38); publisher:  William Robert Williams
 
