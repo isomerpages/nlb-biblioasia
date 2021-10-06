@@ -4,7 +4,7 @@ date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/library-memory
 layout: post
 ---
-Boey Kim Cheng’s memories of Singapore are closely tied to his recollections of reading and the old red-bricked National Library. Here, he remembers his love affair with the library, with words and with books.
+#### **Boey Kim Cheng**’s memories of Singapore are closely tied to his recollections of reading and the old red-bricked National Library. Here, he remembers his love affair with the library, with words and with books.
 
 
 From the street it looks nondescript, facing the Parisian-looking Park Mansion and around the corner from the Palladian Geological Institute, which looks a more fitting home to an establishment founded in 1788 to advance knowledge and research in all things Asian. It occupies No. 1 Park Street, now renamed Mother Teresa Sarani, a Modernist block with a clean rectilinear shape defined by protruding trim painted the ubiquitous vermilion red of Kolkata, its central block shielding the stairwell perforated by square holes. Kolkata’s four-storey building of the Asiatic Society, opened in 1965, the year Singapore and I were born, is pleasantly familiar; the old Rediffusion building in Singapore and numerous institutions built in that era, all vanished now, had the same provenance in British modernism.
