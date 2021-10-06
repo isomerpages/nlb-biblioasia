@@ -7,7 +7,9 @@ layout: post
 #### Acclaimed poet and playwright **Robert Yeo** pays tribute to his daughter and a noted author in chapter two of his work-in-progress sequel to his memoir *Routes*.
 
 <img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">(Left) Robert Yeo’s daughter Sha Min, who was born on 15 February 1976. Courtesy of Robert Yeo.
+<br>(Middle) Robert Yeo in a pensive pose in 1966 when he was 26 years old.
+</i></div>
 
 My wife Esther reminded me that it was a miracle, considering what she did in Bali in June 1975. It was our first visit to the famed island and we chose to stay in Kuta. It was all sea, sand, waves and coconut trees. We even asked a boy to climb a tree to pluck coconuts for us to drink the water. There were no buildings on the beach.
 
@@ -24,3 +26,48 @@ Sha Min (善敏) means kind and alert. Esther was adamant that she did not want 
 What was it like to be a father for the first time and a daughter as the firstborn? 1976 was the year of the dragon and a traditional Chinese father would expect a boy who could continue to bear the Yeo surname.
 
 I wrote a poem about it.
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+A Dragon for the Family
+For My Daughter Sha Min
+
+Hushed, we hovered between rabbit
+and dragon,
+Between a whitish squeak and
+flaming breath.
+When you declined to be a rabbit, like
+Your father, the hush dissolved,
+and I was pleased
+Knowing how auspicious the dragon is.
+I was prepared to wait, but it’s lovely
+To be scorched so soon, as long
+as you will
+Promise not to burn our house to
+the ground
+
+Girl or boy, your sex didn’t really matter.
+I’m not the traditional Chinese father
+Who needs a son to continue his line
+And swell his clan. My brothers may
+line up,
+And my clan of two-and-a-half million,
+Though small, is big enough for me,
+for us.
+I don’t know whether small is beautiful,
+But since we have no choice, let’s
+make it so.
+
+Sha Min, sweetheart, you know
+this prayer
+I offer you is really not a prayer as
+You are born in a good year in a good place,
+The prospect of water-rationing
+notwithstanding…
+Say rather that I’m offering you a hope,
+One of the many hopes; and so as
+not to seem
+Arbitrary, let there be three, yes three,
+As this is the year of the three-
+clawed dragon.
+	
+	
+</div>
