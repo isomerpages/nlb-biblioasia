@@ -4,8 +4,6 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/viet-war-through-sg/
 layout: post
 ---
-
-
 #### Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived. **Shirlene Noordin** has the story.
 
 <img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v.JPG">
@@ -173,32 +171,33 @@ The news stories that these men chased came at a great personal cost. Three of t
 
 Their consummate professionalism, their selfless courage, and their unstinting generosity of spirit continue to be an inspiration to journalists all over the world.
 
-|**THE INDOCHINA WARS: A SHORT HISTORY**
-
-|The First Indochina War (1945–54), or what the Vietnamese called the Anti-French Resistance War, came on the back of World War II in Asia. The returning French colonial forces were pitted against the nationalists led by Ho Chi Minh and Vo Nguyen Giap, united under the banner of the Viet Minh fighting for Vietnamese independence.
-
-|Fearing a communist victory, the United States officially provided military assistance to the French in 1950 and laid the groundwork for the subsequent protracted American involvement in Indochina.
-
-|The Viet Minh forces were, in turn, supported by China and the Soviet Union. What started as a low-level insurgency escalated into conventional war, which raged on until the Battle of Dien Bien Phu that lasted from 13 March to 7 May 1954 and saw the defeat of France.
-
-|In July 1954, the Geneva Agreements were signed. As part of the agreement, the French agreed to withdraw their troops from North Vietnam, leaving the Viet Minh in control.
-
-|South Vietnam came under the control of Ngo Dinh Diem, who was first the prime minister and then became president in 1955.
-
-|Vietnam temporarily became a divided country at the 17th parallel, pending elections within two years to choose a president and reunite the country.
-
-|As the French withdrew, the First Indochina War segued into the Second Indochina War (1955–75), also known as the Vietnam War. Officially, it was a war waged between the communist North Vietnamese Army and its allies, the Viet Cong, and the South Vietnamese government backed by the United States.
-
-|By 1961, the American military effort had intensified and in 1965, the first combat units from the United States landed in South Vietnam, marking a turning point in the war.
-
-|American public support for the war soon declined because of the prolonged nature of the conflict and the large number of American casualties in a war that was taking place overseas. Media reports, news photographs and video footages also helped fan resistance to the war.
-
-|In 1970, America began withdrawing its troops from Vietnam with the last batch of soldiers leaving in 1973. The North Vietnamese Army continued its push into South Vietnam after the American withdrawal. With the US Congress cutting military aid to South Vietnam, the weakened South soon proved unable to hold back the North. On 30 April 1975, Saigon fell to the North Vietnamese Army. According to estimates, about three million Vietnamese civilians and combatants died during the conflict while close to 60,000 Americans were killed or missing in action.
-
-|The war in Vietnam soon spilled over into neighbouring Cambodia and Laos, resulting in the Third Indochina War (1975–91) which involved Thailand and China. In 1975, armed conflicts between Vietnam and Cambodia resulted in the Vietnamese invasion of Cambodia in 1978 that eventually led to the fall of the Khmer Rouge government in Phnom Penh. The remaining Khmer Rouge forces retreated to the Thai-Cambodian border. In the following decade, Thai and Vietnamese troops clashed on several occasions.
-
-|China had objected to the invasion of Cambodia and launched attacks on Vietnam’s northern provinces in February 1979, capturing several cities near the border. Although China withdrew from Vietnam in March 1979, both countries were engaged in border disputes and clashes until 1990.’ The 1991 Paris Peace Agreements officially marked the end of the war between Vietnam and Cambodia.
-
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+	<b>THE INDOCHINA WARS: A SHORT HISTORY</b>
+<br><br>
+The First Indochina War (1945–54), or what the Vietnamese called the Anti-French Resistance War, came on the back of World War II in Asia. The returning French colonial forces were pitted against the nationalists led by Ho Chi Minh and Vo Nguyen Giap, united under the banner of the Viet Minh fighting for Vietnamese independence.
+<br><br>
+Fearing a communist victory, the United States officially provided military assistance to the French in 1950 and laid the groundwork for the subsequent protracted American involvement in Indochina.
+<br><br>
+The Viet Minh forces were, in turn, supported by China and the Soviet Union. What started as a low-level insurgency escalated into conventional war, which raged on until the Battle of Dien Bien Phu that lasted from 13 March to 7 May 1954 and saw the defeat of France.
+<br><br>
+In July 1954, the Geneva Agreements were signed. As part of the agreement, the French agreed to withdraw their troops from North Vietnam, leaving the Viet Minh in control.
+<br><br>
+South Vietnam came under the control of Ngo Dinh Diem, who was first the prime minister and then became president in 1955.
+<br><br>
+Vietnam temporarily became a divided country at the 17th parallel, pending elections within two years to choose a president and reunite the country.
+<br><br>
+As the French withdrew, the First Indochina War segued into the Second Indochina War (1955–75), also known as the Vietnam War. Officially, it was a war waged between the communist North Vietnamese Army and its allies, the Viet Cong, and the South Vietnamese government backed by the United States.
+<br><br>
+By 1961, the American military effort had intensified and in 1965, the first combat units from the United States landed in South Vietnam, marking a turning point in the war.
+<br><br>
+American public support for the war soon declined because of the prolonged nature of the conflict and the large number of American casualties in a war that was taking place overseas. Media reports, news photographs and video footages also helped fan resistance to the war.
+<br><br>
+In 1970, America began withdrawing its troops from Vietnam with the last batch of soldiers leaving in 1973. The North Vietnamese Army continued its push into South Vietnam after the American withdrawal. With the US Congress cutting military aid to South Vietnam, the weakened South soon proved unable to hold back the North. On 30 April 1975, Saigon fell to the North Vietnamese Army. According to estimates, about three million Vietnamese civilians and combatants died during the conflict while close to 60,000 Americans were killed or missing in action.
+<br><br>
+The war in Vietnam soon spilled over into neighbouring Cambodia and Laos, resulting in the Third Indochina War (1975–91) which involved Thailand and China. In 1975, armed conflicts between Vietnam and Cambodia resulted in the Vietnamese invasion of Cambodia in 1978 that eventually led to the fall of the Khmer Rouge government in Phnom Penh. The remaining Khmer Rouge forces retreated to the Thai-Cambodian border. In the following decade, Thai and Vietnamese troops clashed on several occasions.
+<br><br>
+China had objected to the invasion of Cambodia and launched attacks on Vietnam’s northern provinces in February 1979, capturing several cities near the border. Although China withdrew from Vietnam in March 1979, both countries were engaged in border disputes and clashes until 1990.’ The 1991 Paris Peace Agreements officially marked the end of the war between Vietnam and Cambodia.
+</div>
 
 <div style="background-color: white;">
 <br/>
