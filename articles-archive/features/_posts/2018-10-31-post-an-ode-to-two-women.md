@@ -75,7 +75,7 @@ I quote the poem fully to demonstrate the disjunct between the name and the char
 
 In addition, quoting the poem entirely also shows the pains I took to write in such a way that avoided the obvious influence of the great poem by W.B. Yeats, *A Prayer for My Daughter*. Hopefully, the Chinese mythological references will differentiate my poem from his.
 
-<img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde2.JPG">
 <div style="background-color: white;"> Catherine Lim’s collection of 17 short stories, Little Ironies: Stories of Singapore, was first published in 1978 by Heinemann Southeast Asia in the Writing in Asia Series. It was used as a text for the GCE N-Level examination in 1987. In 2015, <i>The Business Times selected Little Ironies as one of the Top 10 English Singapore books for the period 1965–2015.</i></div>
 
 In the process of collecting and editing short stories for an anthology of Singaporean writing from 1940 to 1977, I came across the stories of Catherine Lim. Subsequently I met her.
