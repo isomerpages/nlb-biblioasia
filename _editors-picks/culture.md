@@ -11,4 +11,7 @@ permalink: /editors-picks/culture
 <p> The RAF Seletar Theatre Club was a highly regarded amateur drama group in Singapore for more than 20 years. Suriati Sani provides a snapshot of the club’s history.</p>
  <hr clear="left">
  
- 
+  
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur" target="_blank">The Borobudur, Mysterious Gold Plates and Singing Maps</a>	
+<p> The RAF Seletar Theatre Club was a highly regarded amateur drama group in Singapore for more than 20 years. Suriati Sani provides a snapshot of the club’s history.</p>
+ <hr clear="left">
