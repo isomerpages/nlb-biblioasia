@@ -7,9 +7,9 @@ layout: post
 #### Acclaimed poet and playwright **Robert Yeo** pays tribute to his daughter and a noted author in chapter two of his work-in-progress sequel to his memoir *Routes*.
 
 <img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde1.JPG">
-<div style="background-color: white;">(Left) Robert Yeo’s daughter Sha Min, who was born on 15 February 1976. Courtesy of Robert Yeo.
-<br>(Middle) Robert Yeo in a pensive pose in 1966 when he was 26 years old.
-</i></div>
+<div style="background-color: white;">(Left) Robert Yeo’s daughter Sha Min, who was born on 15 February 1976. <i>Courtesy of Robert Yeo</i>.
+<br>(Middle) Robert Yeo in a pensive pose in 1966 when he was 26 years old. <i>Courtesy of Robert Yeo</i>.
+<br>(Right) Catherine Lim is regarded as the doyenne of Singaporean writers. Little Ironies: Stories of Singapore (1978), which is her first published book, earned her many accolades and is an all-time bestseller. <i>Courtesy of Marshall Cavendish Editions.</i></div>
 
 My wife Esther reminded me that it was a miracle, considering what she did in Bali in June 1975. It was our first visit to the famed island and we chose to stay in Kuta. It was all sea, sand, waves and coconut trees. We even asked a boy to climb a tree to pluck coconuts for us to drink the water. There were no buildings on the beach.
 
