@@ -19,7 +19,7 @@ I became a father on 15 February 1976. My daughter Sha Min was born in Kandang K
 
 In the midst of her long labour when her pain became unbearable, my wife asked a nurse about epidural intervention and was confronted by the cold question from one of the nurses, “Who told you about epidural?” So the birth was natural, but the experience certainly did not make her feel she would like another baby in the near future.
 
-Sha Min (善敏) means kind and alert. Esther was adamant that she did not want her first daughter to have a name that has a Nonya syllable, such as Gek, Geok, Poh, Neo, as my mother had lined up traditional names for her first grand-daughter. I agreed and so we consulted a Chinese almanac that took into account time, date of birth and gender, a process managed by Esther’s late father, who is Cantonese.
+Sha Min (善敏) means kind and alert. Esther was adamant that she did not want her first daughter to have a name that has a *Nonya* syllable, such as Gek, Geok, Poh, Neo, as my mother had lined up traditional names for her first grand-daughter. I agreed and so we consulted a Chinese almanac that took into account time, date of birth and gender, a process managed by Esther’s late father, who is Cantonese.
 
 What was it like to be a father for the first time and a daughter as the firstborn? 1976 was the year of the dragon and a traditional Chinese father would expect a boy who could continue to bear the Yeo surname.
 
