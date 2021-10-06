@@ -88,7 +88,7 @@ The Royal Society of St George was founded in 1894 with the aim of promoting “
 <div style="background-color: white;">
 	<br><img src="/images/Vol-12-issue-4/party-time-with-raffles/jubileedinner02.png">The menu card of the Jubilee Dinner held on 6 May 1935 to celebrate the 25th anniversary of the coronation of King George V and Queen Mary. Whoever crafted this menu to spell out the words “Jubilee Dinner” must have really struggled to come up with the appropriate dishes. The letter “U” for “Unless you prefer turtle soup with golden sherry” is rather lame and one wonders what inventive dessert dish called “Raffles” the chef had concocted for the letter “R”!</div><br>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">THE RARE MATERIALS COLLECTION</b>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>THE RARE MATERIALS COLLECTION</b>
 <br><br>
 All the menus featured in this article were donated to the National Library, Singapore, by Roberto Pregarz, who was General Manager of Raffles Hotel from 1972 to 1989. He is a collector of historical memorabilia from the Raffles Hotel, and the author of two books: <i>Memories of Raffles: 22 Years with a Grand Old Hotel and Raffles Legends and Stories</i>.
 <br><br>
