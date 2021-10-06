@@ -3,7 +3,6 @@ title: The Role of Foraging in Malay Cuisine
 permalink: /vol-17/issue-3/oct-dec-2021/theroleofforaging
 image: /images/vol-17-issue-3/malay-cuisine/Facing%20Page.jpg
 ---
-
 #### Foraging for food in the hills, the forests and the coastline has been carried out by the Malays for centuries, as **Khir Johari** tells us.
 
 
@@ -110,6 +109,7 @@ Unlike the coconut and the pineapple, the durian does not seem to have been cult
 There were once dozens of durian varieties that are now mostly lost, eradicated by modern monoculture. Due to aggressive commercial cultivation, durian consumption is now woefully limited to the same set of popular cultivars, such as Mao Shan Wang (Musang King) and the blandly named D24. Gone are the heirloom varieties known to Malays of old. <br><br>
 <img src="/images/vol-17-issue-3/malay-cuisine/Durian%20Tree.png">
 A durian tree with its thorny fruit. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i>
+<p style="text-align:center;">A durian tree with its thorny fruit. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></p>
 <br>
 <br>
 The evocative names of these heirloom durians lyrically describe their shape and form, such as Kuching Tidur (Sleeping Cat). Kachapuri referred to durians whose only edible pulp was found right in the centre (hence kachapuri, the central chamber of a palace). Varieties whose names were inspired by the shape of their pulp include Durian Kepala Gajah (Elephant’s Head), Kepala Rusa (Deer’s Head), Telor (Egg), Daun (Leaf), Kembar Dua (Pair of Twins), Gempa Bumi (Earthquake), Raja Asmara (King of Passion), Juring Panjang (Long Slice), Jantong (Heart), Gelok (Water Vessel), Mata Ketam (Crab’s Eye) and Sultan Bersandar (Reclining Sultan). Durian Bantal (Durian Pillow) probably had a “pillowy” texture. Some names referred to the colour of the fruit, such as Durian Nasi Kunyit (Turmeric Rice), Mentega (Butter), Emas (Gold), Batil Suasa (Rose Gold Bowl), Tembaga (Brass), Gading (Ivory), Susu (Milk) and Otak Udang (Prawns’ Brains). <br><br>
