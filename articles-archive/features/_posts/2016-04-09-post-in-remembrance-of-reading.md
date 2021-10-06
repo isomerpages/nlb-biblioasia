@@ -56,25 +56,25 @@ The idea of having conversations around what one’s friends and contemporaries 
 
 While how we buy and read books today has changed with the presence of online book retailers such as Amazon and Book Depository and e-readers like Kindle and iBooks, reading remains very much alive in the 21st century. The Internet is abuzz with online reading communities that provide opportunities for people to discuss, share and recommend their latest reads. Digital books are downloaded instantaneously on e-readers, especially convenient when travelling. Yet, the printed book remains a popular option,[^16] informal books clubs continue to thrive and book-related media events continue unabated. Technology, therefore, supports and encourages the reading of the printed book, and libraries and bookshops are reinventing themselves as places not just to access books, but also to engage in social activities around books. Our memories of reading are closely intertwined with the relationships and conversations that are built around books and the places that allow us to indulge in reading.
 
-|**EDMUND CHEN: READING WUXIA AND BEYOND**|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>EDMUND CHEN: READING WUXIA AND BEYOND</b>
+<br><br>
+<img style="width:400px"  src="/images/Vol-12-issue-1/in-remembrance-of-reading/06_reading.bmp">
+<br><br>
+Edmund Chen is a multi-talented artiste who is well-known in Singapore as an actor, director and producer. Much less publicised is the fact that he is also a gifted storyteller and illustrator who has designed a series of stamps for SingPost (the otter and panda series), set a Guinness World Record for “The Longest Drawing by an Individual” (at an impressive 601 metres), and published several Chinese-language  children’s books.
+<br><br>
+Edmund, who is equally comfortable in both English and Chinese, credits his affinity for the Chinese language to his time at Catholic High School, where he studied Chinese as a first language. He remembers reading <i>wuxia</i>, or swordfighting novels, for entertainment in secondary school. His favourite novels include <i>The Legend of the Condor Heroes</i> (神鵰俠侶) and <i>The Duke of Mount Deer</i> (鹿鼎记), both by Jin Yong (金庸), and a series of seven <i>wuxia</i> novels centred around the character Lu Xiaofeng (陆小凤) by the Taiwanese novelist Xiong Yaohua (熊耀华) under the pen name Gu Long (古龙).
+<br><br>
+<i>Wuxia</i> novels flourished in China, Hong Kong and Taiwan in the 1950s and the earliest <i>wuxia</i> were distributed via newspapers. In the 1970s and 80s, it was a popular genre among teenagers and adults in Singapore, partly for its  treatment of serious themes such as chivalry, historicism and nationalism. Well-known filmic explorations of the <i>wuxia</i> genre include Ang Lee’s <i>Crouching Tiger, Hidden Dragon</i> (卧虎藏龙) and the <i>Once Upon a Time in China</i> series starring Hong Kong actor Jet Li as folk hero Huang Feihong (黄飞鸿) and directed by Tsui Hark.
+<br><br>
+As an actor, Edmund read to “understand the different roles” he had to play. Reading reminds him not to be so narrowminded, to see things from new perspectives and to understand others. More recently, he initiated an SG50 project, <i>Ah Cai Kopi</i> (阿财 搅咖啡), where he produced and co-hosted a multilingual talk-show on web television that featured some of Singapore’s top personalities and professionals. Part of his preparations included reading about the history of the media industry and the personalities he interviewed.
+<br><br>
+As a father, the first book Edmund read to his daughter was a book that he wrote called <i>Xiao Qing’s Story</i> (小青的故事), about a proud bird of paradise that learnt not to judge other animals by their  appearances. Set in Malaysia, this book was one of a series of four books about endangered animals (the others being the whale, rhinoceros and proboscis monkey). Through these books, Edmund wanted to create awareness of endangered species and encourage children to protect such animals. Edmund feels that reading should be both enjoyable and educational, and writing stories is a way for him to impart strong moral values to young readers.
+<br><br>
+Ever the sentimental person, Edmund has two rented storerooms where he stores some of his most treasured books. His collection includes some of his old comics, <i>wuxia</i> novels and the books he used to read to his children.</div>
 
-|<img style="width:400px"  src="/images/Vol-12-issue-1/in-remembrance-of-reading/06_reading.bmp">|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>RHONDA MYRA GARCES-BACSAL: GATHERING READERS</b>
 
-|Edmund Chen is a multi-talented artiste who is well-known in Singapore as an actor, director and producer. Much less publicised is the fact that he is also a gifted storyteller and illustrator who has designed a series of stamps for SingPost (the otter and panda series), set a Guinness World Record for “The Longest Drawing by an Individual” (at an impressive 601 metres), and published several Chinese-language  children’s books.|
-
-|Edmund, who is equally comfortable in both English and Chinese, credits his affinity for the Chinese language to his time at Catholic High School, where he studied Chinese as a first language. He remembers reading *wuxia*, or swordfighting novels, for entertainment in secondary school. His favourite novels include *The Legend of the Condor Heroes* (神鵰俠侶) and *The Duke of Mount Deer* (鹿鼎记), both by Jin Yong (金庸), and a series of seven wuxia novels centred around the character Lu Xiaofeng (陆小凤) by the Taiwanese novelist Xiong Yaohua (熊耀华) under the pen name Gu Long (古龙).|
-
-|*Wuxia* novels flourished in China, Hong Kong and Taiwan in the 1950s and the earliest *wuxia* were distributed via newspapers. In the 1970s and 80s, it was a popular genre among teenagers and adults in Singapore, partly for its  treatment of serious themes such as chivalry, historicism and nationalism. Well-known filmic explorations of the *wuxia* genre include Ang Lee’s *Crouching Tiger, Hidden Dragon* (卧虎藏龙) and the *Once Upon a Time in China* series starring Hong Kong actor Jet Li as folk hero Huang Feihong (黄飞鸿) and directed by Tsui Hark.|
-
-|As an actor, Edmund read to “understand the different roles” he had to play. Reading reminds him not to be so narrowminded, to see things from new perspectives and to understand others. More recently, he initiated an SG50 project, *Ah Cai Kopi* (阿财 搅咖啡), where he produced and co-hosted a multilingual talk-show on web television that featured some of Singapore’s top personalities and professionals. Part of his preparations included reading about the history of the media industry and the personalities he interviewed.|
-
-|As a father, the first book Edmund read to his daughter was a book that he wrote called *Xiao Qing’s Story* (小青的故事), about a proud bird of paradise that learnt not to judge other animals by their  appearances. Set in Malaysia, this book was one of a series of four books about endangered animals (the others being the whale, rhinoceros and proboscis monkey). Through these books, Edmund wanted to create awareness of endangered species and encourage children to protect such animals. Edmund feels that reading should be both enjoyable and educational, and writing stories is a way for him to impart strong moral values to young readers.|
-
-|Ever the sentimental person, Edmund has two rented storerooms where he stores some of his most treasured books. His collection includes some of his old comics, *wuxia* novels and the books he used to read to his children.|
-
-|**RHONDA MYRA GARCES-BACSAL: GATHERING READERS**|
-
-|<img style="width:400px"   src="/images/Vol-12-issue-1/in-remembrance-of-reading/07_reading.bmp">|
+<img style="width:400px"   src="/images/Vol-12-issue-1/in-remembrance-of-reading/07_reading.bmp">
 
 |Myra’s enthusiasm for reading is contagious. As the co-founder of Gathering Books (gatheringbooks.org), a website celebrating books, an organiser of the Asian Festival of Children’s Content, and the enthusiastic leader of three book clubs in Singapore, much of Myra’s waking hours are spent reading and promoting books. All this is in addition to her busy day job as Assistant Professor at the National Institute of Education, where she specialises in the study of gifted children.|
 
