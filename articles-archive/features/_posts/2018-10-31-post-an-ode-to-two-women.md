@@ -27,47 +27,46 @@ What was it like to be a father for the first time and a daughter as the firstbo
 
 I wrote a poem about it.
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
-A Dragon for the Family
-For My Daughter Sha Min
+<b>A Dragon for the Family</b>
+<br><br>
+<b>For My Daughter Sha Min</b>
 
 Hushed, we hovered between rabbit
-and dragon,
+and dragon,<br>
 Between a whitish squeak and
-flaming breath.
-When you declined to be a rabbit, like
-Your father, the hush dissolved,
-and I was pleased
-Knowing how auspicious the dragon is.
-I was prepared to wait, but it’s lovely
-To be scorched so soon, as long
-as you will
-Promise not to burn our house to
-the ground
-
-Girl or boy, your sex didn’t really matter.
-I’m not the traditional Chinese father
-Who needs a son to continue his line
-And swell his clan. My brothers may
-line up,
-And my clan of two-and-a-half million,
-Though small, is big enough for me,
-for us.
-I don’t know whether small is beautiful,
-But since we have no choice, let’s
-make it so.
-
-Sha Min, sweetheart, you know
-this prayer
-I offer you is really not a prayer as
-You are born in a good year in a good place,
-The prospect of water-rationing
-notwithstanding…
-Say rather that I’m offering you a hope,
-One of the many hopes; and so as
-not to seem
-Arbitrary, let there be three, yes three,
-As this is the year of the three-
-clawed dragon.
-	
-	
+flaming breath.<br>
+When you declined to be a rabbit, like<br>
+Your father, the hush dissolved,<br>
+and I was pleased<br>
+Knowing how auspicious the dragon is.<br>
+I was prepared to wait, but it’s lovely<br>
+To be scorched so soon, as long<br>
+as you will<br>
+Promise not to burn our house to<br>
+the ground<br>
+<br><br>
+Girl or boy, your sex didn’t really matter.<br>
+I’m not the traditional Chinese father<br>
+Who needs a son to continue his line<br>
+And swell his clan. My brothers may <br>
+	line up,<br>
+And my clan of two-and-a-half million,<br>
+Though small, is big enough for me,<br>
+for us.<br>
+I don’t know whether small is beautiful,<br>
+But since we have no choice, let’s<br>
+make it so.<br>
+<br><br>
+Sha Min, sweetheart, you know<br>
+this prayer<br>
+I offer you is really not a prayer as<br>
+You are born in a good year in a good place,<br>
+The prospect of water-rationing<br>
+notwithstanding…<br>
+Say rather that I’m offering you a hope,<br>
+One of the many hopes; and so as<br>
+not to seem<br>
+Arbitrary, let there be three, yes three,<br>
+As this is the year of the three-<br>
+clawed dragon.<br>
 </div>
