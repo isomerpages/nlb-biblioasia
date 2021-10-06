@@ -132,31 +132,33 @@ State controls and the exposure to Western education further put paid to the ser
 
 |In one of the earliest Malayan accounts of humoural theory, English scholar Thomas J. Newbold describes Malay medicine as being based on the fundamental “principle of ‘preserving the balance of power’ within the four elements, specifically, air, fire, water and earth”.[^21] This ranges from the consumption of certain hot or cold foods (such as meat and fruit respectively), hot and cold temperatures, wind, micro-organisms and supernatural forces. Dry chills and dizzy spells arise when the “earth” element is too strong and from ailments such as cholera and dysentery, which are caused by excessive heat and moisture from the “air”.[^22] Consuming large amounts of food that contain “air” may cause feebleness in some. The plants and herbs prescribed by Malay healers help to revitalise and restore these imbalances in the human body.
 
-|**PAWANG, BOMOH AND BIDAN**
-
-|Traditional Malay healers are the main providers of Malay medicine. To achieve the necessary credentials, some have resorted to living in solitude, spending their time meditating, fasting or putting themselves through strict dietary regimens – all in the name of spiritual cleansing. Healers are also expected to have an extensive knowledge of botany and nature so that they can classify and identify the right plants and herbs as well as their healing properties, and prescribe the correct remedies.
-
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+<b>PAWANG, BOMOH AND BIDAN</b>
+<br><br>
+Traditional Malay healers are the main providers of Malay medicine. To achieve the necessary credentials, some have resorted to living in solitude, spending their time meditating, fasting or putting themselves through strict dietary regimens – all in the name of spiritual cleansing. Healers are also expected to have an extensive knowledge of botany and nature so that they can classify and identify the right plants and herbs as well as their healing properties, and prescribe the correct remedies.
+<br><br>
 |**PAWANG**
-
-|A *pawang* is commonly defined as a shaman or general practitioner of magic who incorporates incantations into his craft. He is usually involved in conducting agricultural rituals and divination ceremonies to sanctify the village. *Pawangs* have also been referred to as “wizards” by scholars such as Richard J. Wilkinson for their ability to manipulate the course of nature through the use of incantations and divination practices.
-
-|**DUKUN/BOMOH**
-
-|A *dukun* or *bomoh* is a general practitioner who treats fevers, headaches, broken bones, spirit possession and various ailments. The skills and reputation of a *dukun/bomoh* stem from the person’s knowledge of humoural medicine, the healing properties of local flora and fauna as well as syncretic ritual incantations. Some were well known for their treatment of victims of sorcery. The *bomoh akar kayu* (the latter words meaning “roots” in Malay) is known for his expertise in gathering and preparing *ubat-ubatan* from plants and herbs. In his book, *A Descriptive Dictionary of British Malaya* (1894), Nicholas B. Dennys compares the *dukun* to “being on par with witch doctors of history”. Although the *dukun* has been generally described in disparaging terms by Western scholars, a small minority saw the merits of these traditional healers. Percy N. Gerrard defines the “doctor” as a *bomoh*, *dukun* or *pawang* in his dictionary, *A Vocabulary of Malay Medical Terms* (1905).
-
+<br><br>
+A *pawang* is commonly defined as a shaman or general practitioner of magic who incorporates incantations into his craft. He is usually involved in conducting agricultural rituals and divination ceremonies to sanctify the village. *Pawangs* have also been referred to as “wizards” by scholars such as Richard J. Wilkinson for their ability to manipulate the course of nature through the use of incantations and divination practices.
+<br><br>
+**DUKUN/BOMOH**
+<br><br>
+A *dukun* or *bomoh* is a general practitioner who treats fevers, headaches, broken bones, spirit possession and various ailments. The skills and reputation of a *dukun/bomoh* stem from the person’s knowledge of humoural medicine, the healing properties of local flora and fauna as well as syncretic ritual incantations. Some were well known for their treatment of victims of sorcery. The *bomoh akar kayu* (the latter words meaning “roots” in Malay) is known for his expertise in gathering and preparing *ubat-ubatan* from plants and herbs. In his book, *A Descriptive Dictionary of British Malaya* (1894), Nicholas B. Dennys compares the *dukun* to “being on par with witch doctors of history”. Although the *dukun* has been generally described in disparaging terms by Western scholars, a small minority saw the merits of these traditional healers. Percy N. Gerrard defines the “doctor” as a *bomoh*, *dukun* or *pawang* in his dictionary, *A Vocabulary of Malay Medical Terms* (1905).
+<br><br>
 |**BIDAN**
-
+<br><br>
 |Also known as “Mak Bidan” or “dukun beranak”, these midwives specialise in women’s health matters, including fecundity, midwifery and contraception, along with a variety of beauty-related disorders. Up till the 1950s, it was common for mothers in Singapore to deliver their babies at home with the help of village midwives. Today, the role of these women is limited to providing antenatal and postnatal care, such as confinement services for new mothers or general massage therapies.
-
+<br><br>
 |**REFERENCES**
-
+<br><br>
 |Dennys, N.B. (1894). [*A descriptive dictionary of British Malaya*](https://eresources.nlb.gov.sg/printheritage/detail/aea703a6-d3b0-4a4e-956b-82390c582891.aspx) (p. 104). London: London and China Telegraph. (Retrieved from BookSG; Accession no.: B02984605A)
-
+<br><br>
 |Gerrard, P.N. (1905). [*A vocabulary of Malay medical terms* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5454824)(p. 24). Singapore: Kelly & Walsh. (Call no.: RRARE 610.39928 GER; Microfilm no.: NL27512)
-
+<br><br>
 |Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (pp. 424–425). London: Macmillan and Co., Limited. (Retrieved from BookSG; Accession no.: B02930611K)
-
-|Wilkinson, R.J. (1908–10). [*Papers on Malay subjects. [First series, 4], Life and customs*](https://eresources.nlb.gov.sg/printheritage/detail/cbae6616-f86a-4d1b-a8aa-9550fdcc980b.aspx) (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Retrieved from BookSG; Microfilm no.: NL263)
+<br><br>
+Wilkinson, R.J. (1908–10). [*Papers on Malay subjects. [First series, 4], Life and customs*](https://eresources.nlb.gov.sg/printheritage/detail/cbae6616-f86a-4d1b-a8aa-9550fdcc980b.aspx) (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Retrieved from BookSG; Microfilm no.: NL263)
+</div>
 
 <br>
 <div style="background-color: white;">
