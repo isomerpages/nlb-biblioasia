@@ -6,7 +6,7 @@ permalink: /editors-picks/culture
  <p>Customs and traditions change over time. Asrina Tanuri and Nadya Suradi trace how Malay-Muslim weddings in Singapore have evolved since the 1950s.</p> 
  <img style="width:100%;" src="/images/vol-17-issue-2/malayweddings/Tandu.jpg">
 
-   <hr clear="left">
+  <hr clear="left">
 
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/thespians" target="_blank">The Thespians of RAF Seletar</a>	
