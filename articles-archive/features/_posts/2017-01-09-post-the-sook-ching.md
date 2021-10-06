@@ -125,11 +125,6 @@ For me personally, Sook Ching was  no “purification through purge". Yes, my  g
 <div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-12-issue-4/the-sook-ching/5-majun.png">
 Illustration and handwritten note by the artist Ma Jun (马骏) describing the display of severed heads at the Cathay Building on 6 July 1942. <i>All rights reserved, Tan, S. T. L., et. al. (2009). Syonan Years 1942–1945: Living Beneath the Rising Sun. Singapore: National Archives of Singapore.</i><br></div>
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol-16-issue-1/Postcards/space.png">
-</div>
-
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">“The Sook Ching” was first published in 2004 as part of <i>Walk Like a Dragon</i>, a collection of short stories by Goh Sin Tub and published by Angsana Books. In 2016, “The Sook Ching” was reprinted along with other short stories by well-known Singaporean writers in a new anthology called <i>Written Country: The History of Singapore Through Literature</i>. Compiled and edited by Gwee Li Sui and published by Landmark Books, <i>Written Country</i> reconstructs the history of modern Singapore through 50 stories that capture pivotal moments in Singapore’s history. The 355-page book retails for $23.37 (excluding GST) at major bookstores and is also available for reference and loan at Lee Kong Chian Reference Library and branches of all public libraries (<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202464598">Call no. RSING S820.8 WRI and S820.8 WRI</a>).</div>
 
 <div style="background-color: white;">
