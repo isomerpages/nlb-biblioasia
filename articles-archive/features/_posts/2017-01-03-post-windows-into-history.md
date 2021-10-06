@@ -38,35 +38,35 @@ Relatively little is known about the studio of Martin Peintre in Angers, France,
 
 Of the three studios, Vitrail St Georges is by far the youngest. Founded by Joël Mône in 1979, the French studio claims its lineage from the studio of Jean-Baptiste Barrelon in Grigny, Lyon, which was established in 1852. Since 2010, the studio has been headed by Joël’s son, Jean.[^3] This was the studio that undertook the stained glass restoration when the CHIJ complex underwent extensive restoration between 1991 and 1996 and reopened as CHIJMES. The project was jointly overseen by the French architect Didier Repellin, and Ong and Ong Architects of Singapore.[^4]
 
-|**JULES DOBBELAERE STUDIO: A TIMELINE**|
-
-|**Henri Dobbelaere (fl. 1860–85)**|
-
-|The Dobbelaere studio was established by Henri Dobbelaere of Bruges, Belgium (b. 1822, d. 1885) in 1860.|
-
-|**Jules Dobbelaere (fl. 1885–1916)**|
-
-|Jules Dobbelaere (b. 1859, d. 1916) took over the workshop when his father Henri passed away in February 1885. Under his watch, theworkshop reached new heights in stained glass production and acquired international fame. The windows at St Joseph’s and CHIJ were commissioned during this time.|
-
-|**Justin Peene-Delodder (fl. 1919–29)**|
-
-|Jules passed away in 1916 without a male heir. In 1919, the workshop passed on to Justin Peene, a distant cousin of Jules’ daughters. He worked under the name Justin Peene-Delodder.|
-
-|**Weduwe Peene-Delodder (fl. 1929–38)**|
-
-|Justin’s wife, Alice Delodder, continued the workshop after his death in 1929, producing windows under the name Weduwe Peene-Delodder until 1938.|
-
-|**Andre Delodder-Peene (fl. 1938–53)**|
-
-|Andre Delodder, originally a cabinet maker, married Alice’s youngest daughter, Simonne Peene. He began working with his mother-in-law in 1936, and took on the family name two years later. His work appears under the name Andre Delodder-Peene.|
-
- |**Guy Delodder & son (fl. 1953–91)**|
- 
-|Andre’s eldest son Guy Delodder took over the workshop in 1953. The sudden death of Guy Delodder’s successor (one of his four sons) in 1991 ended a tradition that had endured for five generations.|
-
-|fl.=flourished|
-
-|Above information from the University of Leuven’s Documentation and Research Center on Religion and Society.|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>JULES DOBBELAERE STUDIO: A TIMELINE</b>
+<br><br>
+<b>Henri Dobbelaere (fl. 1860–85)</b>
+<br><br>
+The Dobbelaere studio was established by Henri Dobbelaere of Bruges, Belgium (b. 1822, d. 1885) in 1860.
+<br><br>
+<b>Jules Dobbelaere (fl. 1885–1916)</b>
+<br><br>
+Jules Dobbelaere (b. 1859, d. 1916) took over the workshop when his father Henri passed away in February 1885. Under his watch, theworkshop reached new heights in stained glass production and acquired international fame. The windows at St Joseph’s and CHIJ were commissioned during this time.
+<br><br>
+<b>Justin Peene-Delodder (fl. 1919–29)</b>
+<br><br>
+Jules passed away in 1916 without a male heir. In 1919, the workshop passed on to Justin Peene, a distant cousin of Jules’ daughters. He worked under the name Justin Peene-Delodder.
+<br><br>
+<b>Weduwe Peene-Delodder (fl. 1929–38)</b>
+<br><br>
+Justin’s wife, Alice Delodder, continued the workshop after his death in 1929, producing windows under the name Weduwe Peene-Delodder until 1938.
+<br><br>
+<b>Andre Delodder-Peene (fl. 1938–53)</b>
+<br><br>
+Andre Delodder, originally a cabinet maker, married Alice’s youngest daughter, Simonne Peene. He began working with his mother-in-law in 1936, and took on the family name two years later. His work appears under the name Andre Delodder-Peene.
+<br><br>
+<b>Guy Delodder & son (fl. 1953–91)</b>
+ <br><br>
+Andre’s eldest son Guy Delodder took over the workshop in 1953. The sudden death of Guy Delodder’s successor (one of his four sons) in 1991 ended a tradition that had endured for five generations.
+<br><br>
+fl.=flourished
+<br><br>
+Above information from the University of Leuven’s Documentation and Research Center on Religion and Society.</div>
 
 #### **The Importance of "Cartoons"**
 
