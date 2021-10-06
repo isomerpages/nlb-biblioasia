@@ -6,6 +6,8 @@ layout: post
 ---
 #### Each book is a memory, a reminder of the person we were when we read it. Here, **Claire Tham** shares with us the books she remembers – the ones that shaped her thoughts and her writing, and ultimately the person she became.
 
+<i>The Catcher in the Rye</i> was written by J.D. Salinger in 1951. <i>Cover by Penguin, London, 2010.</i>
+
 My mother worked Saturday mornings when I was a child in the 1970s; my father did not. Left with two children to entertain, my father would take my sister and I every Saturday morning to a bookshop or the National Library.
 
 The first bookshop I remember clearly was a neighbourhood shop in Tiong Bahru, where my grandparents lived. The first thing you saw when you entered was a line of Enid Blyton books strung up by clothes pegs above a wooden table on which yet more Blyton books were laid out like tiles. 
@@ -21,8 +23,6 @@ And there was Charles Dickens, of course. I was introduced to him through the mu
 Around the same time – when I was about 11 or 12 – I discovered Agatha Christie, which sparked a lifelong taste for detective novels and thrillers. Like Blyton, Christie seems to have gone out of critical fashion and, indeed, her most famous creations, Hercule Poirot and Miss Marple, never rise above the level of caricature. Yet her books were irresistible; I could easily get through a couple of Agatha Christies a day. Fortunately, Christie was a prolific writer who kept me happily supplied with paperbacks throughout secondary school. I remember little of the plots, though her best books (Ten Little Indians, The Murder of Roger Ackroyd) set a bar for denouement and twists that, even now, have not been bettered; in her best books, too, she was capable of a psychological insight into her characters’ motivations that transcended the serviceable writing. The England of the interwar years she depicted was also central to the atmosphere of her books – in that orderly, structured society, murder had the resonance of genuine evil which, after all, was what it was.
 
 Blyton, Chalet Girls, Dickens, Christie, Dorothy Sayers, L.P. Hartley, P.G. Wodehouse – these quintessentially English writers shaped my childhood imagination indelibly and stamped the contours of prewar England forever in my consciousness so that when I finally visited London the city seemed as familiar as a recurring dream. 
-
-The Catcher in the Rye was written by J.D. Salinger in 1951. Cover by Penguin, London, 2010.
 
 Before the advent of the internet, every trip to the library was like a treasure hunt; you never knew what you might find. 
 
