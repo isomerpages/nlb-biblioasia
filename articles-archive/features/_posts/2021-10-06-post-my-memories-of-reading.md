@@ -44,4 +44,6 @@ Someone told me once that her daughter never went to the library because the boo
 
 Reading, bookshops, libraries – they made up a significant part of my childhood and brought me endless solace and enjoyment. They still do.
 
-Singaporean writer and Oxford University law alumni <b>Claire Tham</b> has written several award-winning short story collections as well as full length novels. Her stories have been adapted for both television and theatre. Her most recent work <i>The Inlet</i>, was published by Ethos Books in 2013.
+<p style="font-size:15px;">Singaporean writer and Oxford University law alumni <b>Claire Tham</b> has written several award-winning short story collections as well as full length novels. Her stories have been adapted for both television and theatre. Her most recent work <i>The Inlet</i>, was published by Ethos Books in 2013.</p>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
