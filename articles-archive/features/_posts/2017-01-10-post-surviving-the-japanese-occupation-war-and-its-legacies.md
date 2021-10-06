@@ -154,11 +154,6 @@ Written with blood and Chinese brush ink, this poster (see image below) was crea
 
 In 1948, the Malayan Communist Party abandoned the “united front” strategy of peaceful struggle and pushed for an armed struggle, leading the British to declare a state of Emergency. The ensuing clashes between communists and the colonial government would have far-reaching consequences in shaping the post-war political landscape in Singapore and Malaya.
 
-<div style="background-color: white;">
-<br>
-<img src="/images/space1.png">
-</div>
-
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>FORMER FORD FACTORY</b>
 <br><br>
 351 Upper Bukit Timah Road, Singapore 588192
