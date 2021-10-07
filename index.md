@@ -22,7 +22,7 @@ sections:
       subtitle: highlights
       button: Read more
       url: /vol-17/issue-3/oct-dec-2021/singapore-comics
-      image: /images/vol-17-issue-3/singapore-comics/pythongang.jpg
+      image: /images/vol-17-issue-3/singapore-comics/pythongang3.jpg
       alt: Sample of murals
       description: Singapore has its own comic superheroes too, as Jacqueline Lee and
         Chiang Yu Xiang discover.
