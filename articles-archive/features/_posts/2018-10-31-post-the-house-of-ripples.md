@@ -45,3 +45,24 @@ Lee was subsequently tried and banished from the Straits Settlements on 12 Octob
 As for the third owner Neo Ah Loy, little is known about him. When the five land parcels were mortgaged in August 1873, the names listed on the mortgage document were Choa Moh Choon, Lee Ah Hoey and Leang Ah Teck (梁亚藉), suggesting that Neo Ah Loy might also have gone by the name Leang Ah Teck. This is not an improbable supposition given that Neo and Leang are Teochew transliterations of the family name *Liang* (梁).
 
 #### **A “Secret Society” House**
+
+Since two of its three owners were headmen of the infamous Ghee Hok Society, could River House have been or intended to be its new *kongsi* (secret society) house? Or was it purely coincidental that they were joint owners?
+
+The Ghee Hok Society was predominantly made up of Teochews. It is believed to have been founded around 1854 by those involved in the “Small-Dagger” (厦门小刀会) rebellion in Amoy (Xiamen), China, who fled to Singapore after the movement failed. The Ghee Hok was one of several societies that made up the Ghee Hin Kongsi in Singapore – where it was variously known as the Heaven and Earth Society (Tiandi Hui; 天地会) and the Triad – whose main objective was to overthrow the Manchus and restore the Ming dynasty in China. Despite being part of the same umbrella organisation, the Ghee Hok Society engaged in frequent clashes with rival Ghee Hin triads.
+
+In the decades leading up to the 1880s, the membership of the Ghee Hok Society grew from 800 in 1860 to 14,487 in 1889, the year before it was dissolved. Society members included those involved in illicit businesses as well as ordinary folks such as small-time hawkers and peddlers. Before 1886, the society’s registered address was 25-4 Carpenter Street, during which time it frequently clashed openly with rival societies in the area – such as the Say Tan (姓陈), Say Lim (姓林) and Hai San (海山).
+
+On official records at least, there is no reference to River House serving as the Ghee Hok Society’s headquarters before 1886. From 1886 until its dissolution in 1890, the society was located at 3 River Valley Road, which was very near the junction of River Valley Road and Hill Street. It is possible that the leaders of the society were searching for a new site near Clarke Quay, presumably for easier access to the port facilities of the Singapore River. Both the official old and new headquarters – first at Carpenter Street and then at River Valley Road – were very small units and seemed rather unbefitting for such a large society. If this was the case, River House could have served as the unofficial headquarters of the Ghee Hok Society.
+
+In December 1880, an earlier loan that was taken up before Choa Moh Choon’s death, and which used the house as collateral, was repaid in full. The house was then transferred to Lee Ah Hoey, Teng Seng Chiang (郑成章) and Koh Hak Yeang (许学贤) at the behest of the two remaining original owners, Lee Ah Hoey and Neo Ah Loy. It is likely that the legal owners of the house might have held the property unofficially in trust for the Ghee Hok society. As we shall see later, this was indeed the case for a subsequent group of owners of River House.
+
+#### **Teochew Influences**
+
+What we do know for certain is that the predominantly Teochew make-up of the Ghee Hok Society is reflected in the architectural style of River House. The building has a *Teochew sidianjin* (四点金) or “four-points of gold” layout, with two internal courtyards flanked by a pair of *huoxiang* (火巷) or fire alleys.
+
+Traditionally, Teochew houses, especially the more elaborate mansions, contain side wings or *congcuo* (从厝) that extend beyond the fire alleys. The alleys serve as physical breaks that prevent fire, should one break out, from spreading easily from one part of the house to another. Additionally, these alleys provide privacy to extended families living in different sections of the house.
+
+Side wings, however, are noticeably absent in River House. Could the owners have intended to build side wings after they had raised enough money to acquire the adjacent plots of land? Or did the owners foresee the importance of having physical breaks in an area packed cheek-by-jowl with godowns, knowing full well how fires can easily spread?
+
+<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples4.JPG">
+<div style="background-color: white;">River House has a roof truss system in the <i>tailiang</i> style (抬梁式), which is made up of “successive tiers of beams and struts in a transverse direction”. This photo shows three cantilever beams on the front elevation of the building: one beam on the first storey and two on the second storey. These beams are known as <i>jitou</i> (屐头), and their ends are carved in a highly abstract <i>chihu</i> (螭虎) motif. The manner in which the beams are cantilevered is unique to Teochew architecture. <i>Courtesy of Yeo Kang Shua.</i></div>
