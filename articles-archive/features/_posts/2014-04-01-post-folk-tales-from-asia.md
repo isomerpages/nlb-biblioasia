@@ -20,12 +20,12 @@ Carefully accumulated over time, the 23,000-volume ACL collection is housed at t
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/the_night_life_of_tree.jpg">
-A peek into a page of The Night Life of Trees. One Gond legend featured is that of the Ganja plant and the Mahua tree. Believed to be humans before they were turned into trees, they were lovers who could not marry because they belonged to different castes. Refusing to be separated, the couple took their lives somewhere deep in the forest and were reborn as plants on the spot where they died.</div>
+A peek into a page of <i>The Night Life of Trees</i>. One Gond legend featured is that of the Ganja plant and the Mahua tree. Believed to be humans before they were turned into trees, they were lovers who could not marry because they belonged to different castes. Refusing to be separated, the couple took their lives somewhere deep in the forest and were reborn as plants on the spot where they died.</div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/Princess_meera.jpg">
-The copy of Princess Meera found in the ACL collection. Published in 1963, only 10 copies of the book are available in the world. </div>
+The copy of <i>Princess Meera</i> found in the ACL collection. Published in 1963, only 10 copies of the book are available in the world. </div>
 
 #### **Indian Handmade Books**
 
@@ -33,38 +33,38 @@ Throughout history, every culture has made books, or the equivalent of what pass
 
 Over the last century, industrial production has steadily replaced traditional handmade means of book making. What is interesting, however, is that while modern technology and the invention of the printing press have made it possible to produce books more efficiently and in large quantities, there are places in the world where books are still being made by hand, using natural resources and time-honoured techniques passed down from one generation to another.
 
-In parts of India, there is a strong tradition of products made by traditional crafts people using simple, indigenous tools. The range of Indian art and handicrafts is as rich and varied as the people who live in the subcontinent. Despite the march of time, the unique craft of handmade books is still very much alive in India today. The Night Life of Trees, In the Dark and The Very Hungry Lion are some examples of handmade books from India, using paper made from a mixture of cotton cloth remnants, tree bark, rice husks or grass.
+In parts of India, there is a strong tradition of products made by traditional crafts people using simple, indigenous tools. The range of Indian art and handicrafts is as rich and varied as the people who live in the subcontinent. Despite the march of time, the unique craft of handmade books is still very much alive in India today. <i>The Night Life of Trees, In the Dark and The Very Hungry Lion</i> are some examples of handmade books from India, using paper made from a mixture of cotton cloth remnants, tree bark, rice husks or grass.
 
-The Night Life of Trees, published in 2012, is a handmade book that reflects the art of three Gond (a Dravidian people who live in central India) artists: Ram Singh Urveti, Bhajju Shyam and Durga Bai. Painstakingly silk screened by hand, each spread showcases an intricate drawing of a sacred tree along with an explanation of its significance to the community. Each image is a tribute to the Gond community’s animist belief in trees, giving readers an insight into the spirituality of the Gond people, and their perception of nature and the cosmos. 
+<i>The Night Life of Trees</i>, published in 2012, is a handmade book that reflects the art of three Gond (a Dravidian people who live in central India) artists: Ram Singh Urveti, Bhajju Shyam and Durga Bai. Painstakingly silk screened by hand, each spread showcases an intricate drawing of a sacred tree along with an explanation of its significance to the community. Each image is a tribute to the Gond community’s animist belief in trees, giving readers an insight into the spirituality of the Gond people, and their perception of nature and the cosmos. 
 
 About 100 pulls of the screen are required to print each copy of the 32-page book. A print run of 2,000 copies would require about 200,000 pulls of the screen by hand, an indication of the immense time and effort to print these books. In addition, the books are hand-bound, a process that involves the punching of holes with a mallet and nail and hand-stitching the pages together.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/copy_of_the_night_life_of_tree.jpg">
-Every copy of The Night Life of Trees is numbered by hand. This particular book is the 546th copy out of 2,000.</div>
+Every copy of <i>The Night Life of Trees</i> is numbered by hand. This particular book is the 546th copy out of 2,000.</div>
 
-Another example of a handmade book is Princess Meera. Published in 1963, this is one of the most treasured possessions in the Asian Children’s Literature collection. It is handwritten and bound by the author herself. Author Leela Row Dayal used line drawings to recount the story of Meerabai, a Hindu princess and mystical singer of sacred songs, based on Pandita Kshama Rao’s Sanskrit poem (the Sanskrit verses are included in their original form in the book). In the book, Princess Meerabai – who is known for her devotion to Lord Krishna – is born in the city of Khurkhi and hails from a noble kshatriya, or warrior family. 
+Another example of a handmade book is <i>Princess Meera</i>. Published in 1963, this is one of the most treasured possessions in the Asian Children’s Literature collection. It is handwritten and bound by the author herself. Author Leela Row Dayal used line drawings to recount the story of Meerabai, a Hindu princess and mystical singer of sacred songs, based on Pandita Kshama Rao’s Sanskrit poem (the Sanskrit verses are included in their original form in the book). In the book, Princess Meerabai – who is known for her devotion to Lord Krishna – is born in the city of Khurkhi and hails from a noble <i>kshatriya</i>, or warrior family. 
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/in_the_dark.jpg">
-In the Dark is a traditional Sufi tale of wisdom. This book is calligraphed and screenprinted on handmade paper.</div>
+<i>In the Dark</i> is a traditional Sufi tale of wisdom. This book is calligraphed and screenprinted on handmade paper.</div>
 
 #### **Japanese Woodblock Prints**
 
-llustrations of Japanese literature typically feature woodblock colour-printing called ukiyo-e, one of the most famous traditional Japanese art forms.
+llustrations of Japanese literature typically feature woodblock colour-printing called <i>ukiyo-e</i>, one of the most famous traditional Japanese art forms.
 
-The beauty of woodblock prints can be seen in Otogi-Banashi, a bilingual title packaged as an old-style toybook, which combines concepts of learning with play and serves as educational toys for children as well. Relatively few specimens in good condition exist today as, in many cases, these toybooks were literally read to pieces.[^1]
+The beauty of woodblock prints can be seen in <i>Otogi-Banashi</i>, a bilingual title packaged as an old-style toybook, which combines concepts of learning with play and serves as educational toys for children as well. Relatively few specimens in good condition exist today as, in many cases, these toybooks were literally read to pieces.[^1]
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/Otogi_Banashi_open.jpg">
-The uniqueness of Otogi-Banashi lies in its accompanying miniature books and the book-within-a-book format. The miniature books contain only illustrations. The bigger book provides captions to the miniature books and an introductory essay to the history of toybooks and woodblock prints.</div>
+The uniqueness of <i>Otogi-Banashi</i> lies in its accompanying miniature books and the book-within-a-book format. The miniature books contain only illustrations. The bigger book provides captions to the miniature books and an introductory essay to the history of toybooks and woodblock prints.</div>
 
-The craft of toybooks were originally created as playthings for Japanese children. Three Japanese folktales are featured in this volume: The Old Man Who Makes the Flowers Bloom, Momotaro and KachiKachi Mountain. The binding and outer slipcover for this particular volume is made of chiyogami, a traditional Japanese paper characterised by its hand-stencilled and block-printed patterns. 
+The craft of toybooks were originally created as playthings for Japanese children. Three Japanese folktales are featured in this volume: <i>The Old Man Who Makes the Flowers Bloom, Momotaro and KachiKachi Mountain</i>. The binding and outer slipcover for this particular volume is made of <i>chiyogami</i>, a traditional Japanese paper characterised by its hand-stencilled and block-printed patterns. 
 
-For more recent works featuring woodblock prints, award-winning artist Keizaburo Tejima comes to mind. Born in 1935, he was one of the few Japanese artists working with the woodblock technique used in children’s books in the 1980s. His books were published in 1986 in North America where he gained recognition as a prominent author and illustrator. Owl Lake and Fox’s Dream were on the American Library Association (ALA)’s list of Children’s Notable Books, and the New York Times listed Fox’s Dream as one of 1987’s 10 best illustrated books. His books are still popular today.
+For more recent works featuring woodblock prints, award-winning artist Keizaburo Tejima comes to mind. Born in 1935, he was one of the few Japanese artists working with the woodblock technique used in children’s books in the 1980s. His books were published in 1986 in North America where he gained recognition as a prominent author and illustrator. <i>Owl Lake</i> and <i>Fox’s Dream</i> were on the American Library Association (ALA)’s list of Children’s Notable Books, and the <i>New York Times</i> listed <i>Fox’s Dream</i> as one of 1987’s 10 best illustrated books. His books are still popular today.
 
 <div style="background-color: white;">
 <br/>
@@ -77,39 +77,40 @@ For more recent works featuring woodblock prints, award-winning artist Keizaburo
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/omocha-e_1_re.jpg">
-The woodblocks used to print the omocha-e (toy pictures) in Otogi-Banashi were cut during the Taisho period (1912–1926). By a fortunate shift in location, the woodblocks escaped the bombing that destroyed most of Tokyo during World War II. Just before the war, the well-known printing house of Ise-tatsu was moved from Kanda to the historic area known as Yanaka. This was one of the few areas of Tokyo that escaped the bombings. As Hirose Tatsuguro remarks, it was a stroke of luck that the woodblocks of one of the last publishers of traditional children’s books and omocha-e survived. The war saw the loss of private collections of omocha-e owned by children. As few museums or libraries had thought of collecting these toy-books, their loss was irreparable. </div>
+The woodblocks used to print the <i>omocha-e</i> (toy pictures) in <i>Otogi-Banashi</i> were cut during the Taisho period (1912–1926). By a fortunate shift in location, the woodblocks escaped the bombing that destroyed most of Tokyo during World War II. Just before the war, the well-known printing house of Ise-tatsu was moved from Kanda to the historic area known as Yanaka. This was one of the few areas of Tokyo that escaped the bombings. As Hirose Tatsuguro remarks, it was a stroke of luck that the woodblocks of one of the last publishers of traditional children’s books and <i>omocha-e</i> survived. The war saw the loss of private collections of <i>omocha-e</i> owned by children. As few museums or libraries had thought of collecting these toy-books, their loss was irreparable. </div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/father_owl.jpg">
-Often featured in flight with his expansive wings spanning entire two-page spreads, Father Owl’s magnificence is undeniable. As Father Owl swoops down on his unsuspecting prey, the scene is sharply framed by the angled white space at the bottom of the spread, creating an optical illusion by emphasising the exhilaration and immediacy of the catch. Dramatic woodcut illustrations and the clever use of diagonal lines in Owl Lake bring alive the story of an owl and its family’s search for food.</div>
+Often featured in flight with his expansive wings spanning entire two-page spreads, Father Owl’s magnificence is undeniable. As Father Owl swoops down on his unsuspecting prey, the scene is sharply framed by the angled white space at the bottom of the spread, creating an optical illusion by emphasising the exhilaration and immediacy of the catch. Dramatic woodcut illustrations and the clever use of diagonal lines in <i>Owl Lake</i> bring alive the story of an owl and its family’s search for food.</div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/Three_of_Keizaburo_Tejima.jpg">
-Three of Keizaburo Tejima’s books from the Asian Children’s Literature collection – Owl Lake, Woodpecker Forest and Fox’s Dream. One of Tejima’s purposes was to transport the reader vicariously to observe the wildlife of Hokkaido, his birthplace, and to showcase the island’s natural beauty through his works. He used a tinted woodblock technique which he sometimes supplemented with brush-on paint. This traditional form allows for a good deal of texture in solid blocks of colour as well as very strong, bold lines.</div>
+Three of Keizaburo Tejima’s books from the Asian Children’s Literature collection – <i>Owl Lake, Woodpecker Forest and Fox’s Dream</i>. One of Tejima’s purposes was to transport the reader vicariously to observe the wildlife of Hokkaido, his birthplace, and to showcase the island’s natural beauty through his works. He used a tinted woodblock technique which he sometimes supplemented with brush-on paint. This traditional form allows for a good deal of texture in solid blocks of colour as well as very strong, bold lines.</div>
 
 #### **China, Bookbinding and Papercuts**
 
-No one would dispute the importance of books and the written word in China. Few cultures in the world have enjoyed such a long and chequered tradition of literary production. Different kinds of Chinese bookbinding have been documented throughout history, many of them unique to China, including stitched binding, accordion binding and Chinese pothi binding.
+No one would dispute the importance of books and the written word in China. Few cultures in the world have enjoyed such a long and chequered tradition of literary production. Different kinds of Chinese bookbinding have been documented throughout history, many of them unique to China, including stitched binding, accordion binding and Chinese <i>pothi</i> binding.
 
-Accordion bookbinding is where the book is bound only to the front and back case boards with one long sheet between them, folded to demarcate pages. Accordion books were traditionally used as a vehicle for Buddhist sutras. For this reason, it was named “jingzhe zhuang,” which means “folded sutra binding”. By the late Tang Dynasty (AD 618–907), the accordion format of books had been widely adopted by Buddhists in China. Accordion bookbinding was said to have evolved from Chinese scrolls.[^2]
+Accordion bookbinding is where the book is bound only to the front and back case boards with one long sheet between them, folded to demarcate pages. Accordion books were traditionally used as a vehicle for Buddhist sutras. For this reason, it was named <i>“jingzhe zhuang,”</i> which means “folded sutra binding”. By the late Tang Dynasty (AD 618–907), the accordion format of books had been widely adopted by Buddhists in China. Accordion bookbinding was said to have evolved from Chinese scrolls.[^2]
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/Pang_Tao_long.jpg">
-Pang Tao (Flat Peaches): Eight Fairies Festival. The accordion book resembles a scroll when not folded. The transformation from Chinese scroll to accordion can be made by folding the scroll to form separate folios. Unlike the scroll books, which are awkward to unroll whenever one needs to examine a particular section of text, the accordion format makes it easier for the reader to sift through the text.</div>
+<i>Pang Tao (Flat Peaches): Eight Fairies Festival</i>. The accordion book resembles a scroll when not folded. The transformation from Chinese scroll to accordion can be made by folding the scroll to form separate folios. Unlike the scroll books, which are awkward to unroll whenever one needs to examine a particular section of text, the accordion format makes it easier for the reader to sift through the text.</div>
+
+
+<i>Pang Tao (Flat Peaches): Eight Fairies Festival</i> (1900–1950) is one of the few titles in the ACL collection that is bound in an accordion format. <i>Pang Tao</i> is a Chinese folktale that portrays these legendary characters: Hsi Wang-Mu, renowned for her famously sweet and delicious <i>pang tao</i> (peaches), and the legendary Eight Immortals of Chinese mythology. This bilingual book (English and Chinese) tells of the origins of the immortals and how they embarked on their journeys towards deity-hood.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/Pang_Tao.jpg">
-Pang Tao (Flat Peaches): Eight Fairies Festival (1900–1950) is one of the few titles in the ACL collection that is bound in an accordion format. Pang Tao is a Chinese folktale that portrays these legendary characters: Hsi Wang-Mu, renowned for her famously sweet and delicious pang tao (peaches), and the legendary Eight Immortals of Chinese mythology. This bilingual book (English and Chinese) tells of the origins of the immortals and how they embarked on their journeys towards deity-hood.</div>
-
-The eight hand-coloured plates of the legendary immortals framed in silk brocades in Pang Tao (Flat Peaches): Eight Fairies Festival breathe life into the characters and story.
+The eight hand-coloured plates of the legendary immortals framed in silk brocades in <i>Pang Tao (Flat Peaches): Eight Fairies Festival</i> breathe life into the characters and story.</div>
 
 The traditional style of papercutting is also typical of Chinese culture. The art of cutting paper designs in China developed during the Han and Wei periods before iron tools and paper were even invented. Papercutting is a technique of cutting an image out of paper. The final image is formed by the contrast of the solid parts that remain and the negative spaces that have been cut out. Legend has it that Emperor Wu of the Han Dynasty (156–87 BC) missed Lady Li, his favourite concubine who had died so much that he had a figure of her carved in hemp paper to summon her spirit back. This was perhaps the earliest mention of a papercut.[^3]
 
-During the Ming and Qing dynasties, the art of papercutting reached its peak. The technique was applied for embellishing folk lanterns, fans and embroidered fabrics. Today, papercutting remains a very popular folk art, a distinctive feature of Chinese culture and is commonly used for decorations. Papercutting is also used to illustrate Chinese literature. In Six Chinese Brothers, published in 1979, the author Cheng Houtien brings the ancient tale to life with red and black papercut illustrations using the scissor cutting technique. 
+During the Ming and Qing dynasties, the art of papercutting reached its peak. The technique was applied for embellishing folk lanterns, fans and embroidered fabrics. Today, papercutting remains a very popular folk art, a distinctive feature of Chinese culture and is commonly used for decorations. Papercutting is also used to illustrate Chinese literature. In <i>Six Chinese Brothers</i>, published in 1979, the author Cheng Houtien brings the ancient tale to life with red and black papercut illustrations using the scissor cutting technique. 
 
 In Chinese literature, papercut illustrations are used to depict famous scenes from popular legends that emphasise moral lessons and celebrate epic characters, providing a visual means to introduce Chinese art and culture to children during storytelling. As papercut illustrations combine folktales with art, they act as visual reminders of the beliefs and values of a people. 
 
