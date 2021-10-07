@@ -26,6 +26,18 @@ The National Library has a rich collection of entertainment magazines acquired o
 
 <div style="background-color: white;"><br><img style="width:350px" src="/images/Vol-12-issue-1/cover-to-cover/02_covertocover.bmp"></div>
 
-**The Singapore Cinema Review** (7th edition, 1937–38); publisher:  William Robert Williams
+***The Singapore Cinema Review*** (7th edition, 1937–38); publisher:  William Robert Williams
 
-When “sound” films took off in the early 1930s, it ushered in the Golden Age of filmmaking in Hollywood.  Local audiences, bitten by the Hollywood bug, flocked to cinemas such as Alhambra, Palladium, Capitol and Cathay to catch the latest imports. Film-related fan magazines such as The Singapore Cinema Review became popular as a result. This annual publication, first launched in 1932, offered the latest news on Hollywood film releases and popular stars of the time, such as Bette Davis and Katharine Hepburn. This issue featured the American actress and singer Alice Faye on the cover.
+When “sound” films took off in the early 1930s, it ushered in the Golden Age of filmmaking in Hollywood.  Local audiences, bitten by the Hollywood bug, flocked to cinemas such as Alhambra, Palladium, Capitol and Cathay to catch the latest imports. Film-related fan magazines such as *The Singapore Cinema Review* became popular as a result. This annual publication, first launched in 1932, offered the latest news on Hollywood film releases and popular stars of the time, such as Bette Davis and Katharine Hepburn. This issue featured the American actress and singer Alice Faye on the cover.
+
+<div style="background-color: white;"><br><img style="width:350px" src="/images/Vol-12-issue-1/cover-to-cover/03_covertocover.bmp"></div>
+
+***Singapore Illustrated Weekly*** (Vol. 1, No. 1, 2 August 1947); publisher: W. G. P. Davies
+
+From fashion to sports, and travel to theatre, *Singapore Illustrated Weekly* covered a variety of entertainment-related topics from around the world. As a prelude to the release of the film, *Song of Scheherazade* (1947), in Singapore, the Hollywood lead actress Yvonne De Carlo is photographed on the cover of this inaugural issue, poised during a dance performance. The film is based on the life and music of Russian composer, Nikolai Rimsky-Korsakov.
+
+<div style="background-color: white;"><br><img style="width:350px" src="/images/Vol-12-issue-1/cover-to-cover/04_covertocover.bmp"></div>
+
+***Indian Screen Guide*** (June/July 1952); publisher: Ranjit Singh
+
+This Indian film guide, published in English, was possibly the first of its kind when it was launched in Singapore in 1952. At the time, Tamil and Hindi movies were popular not only among Indians but also with non-Indian film-goers. The cover of this inaugural issue featured the Hindi film *Shin Shinaki Boobla Boo* (1952), starring Ranjan playing the character Boobla Boo and Rehana as Shin Shinaki.
