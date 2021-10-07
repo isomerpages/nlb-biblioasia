@@ -146,14 +146,15 @@ Her involvement in the women’s movement in India culminated in her nomination 
 Fozdar passed away from cancer on 2 February 1992 in Singapore, leaving behind three sons and two daughters; her husband had died in 1958. Her personal collection comprising newspaper clippings, letters, correspondences, minutes of meetings, receipts and invoices are on loan to the National Library Board for digitisation by her son Jamshed. These are found in the library’s Jamshed & Parvati Fozdar Collection.
 </div>
 <br>
-
-<b>FOUR OBJECTIVES OF SCW</b>
-<ul>
-The SCW was a broad-based organisation with four main objectives: 
-<li>affiliation with other women’s organisations in Singapore;</li> 
-<li>furthering the cultural, educational, economic, moral and social status of women in Singapore;</li> <li>ensuring through legislation, if necessary, justice to all women and to further their welfare as embodied in the Declaration of Human Rights Charter;</li> <li>facilitating and encouraging friendship, understanding and cooperation among women of all races, religions and nationalities in Singapore.</li>
-</ul>
-	<b>REFERENCE</b><\n>
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+<b>FOUR OBJECTIVES OF SCW</b><br><br>
+The SCW was a broad-based organisation with four main objectives: <br>
+–affiliation with other women’s organisations in Singapore;<br> 
+–furthering the cultural, educational, economic, moral and social status of women in Singapore;<br> 
+–ensuring through legislation, if necessary, justice to all women and to further their welfare as embodied in the Declaration of Human Rights Charter;<br>
+–facilitating and encouraging friendship, understanding and cooperation among women of all races, religions and nationalities in Singapore.<br>
+<br>
+	<b>REFERENCE</b><br>
 The Constitution of the SCW, Registrar of Societies, 1952.
 </div>
 <br>
