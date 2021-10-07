@@ -234,7 +234,7 @@ I have returned to my primary area of research on Darwin and Wallace and I’m a
 <br><br>	
 <img  style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t14.jpg">
 <br><br>
-John van Wyhe’s <i>Wanderlust: The Amazing Ida Pfeiffer, the First Female Tourist</i> (2019) retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 910.41 VAN and SING 910.41 VAN](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203864443)). The 1888 French edition of Ida Pfeiffer’s second book, Voyage autour du monde de Mme. Ida Pfeiffer (<i>Voyage Around the World by Mme. Ida Pfeiffer</i>), translated by E. Delauney was on display at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
+John van Wyhe’s <i>Wanderlust: The Amazing Ida Pfeiffer, the First Female Tourist</i> (2019) retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 910.41 VAN and SING 910.41 VAN). The 1888 French edition of Ida Pfeiffer’s second book, Voyage autour du monde de Mme. Ida Pfeiffer (<i>Voyage Around the World by Mme. Ida Pfeiffer</i>), translated by E. Delauney was on display at the “On Paper: Singapore Before 1867” exhibition held at level 10 of the National Library Building.
 </div>
 <br>
 <div style="background-color: white;">
