@@ -95,7 +95,7 @@ Catherine Lim’s stories were published in a book entitled *Little Ironies* in 
 <div style="background-color: white;"> Catherine Lim’s collection of 17 short stories, <i>Little Ironies: Stories of Singapore</i>, was first published in 1978 by Heinemann Southeast Asia in the Writing in Asia Series. It was used as a text for the GCE N-Level examination in 1987. In 2015, <i>The Business Times</i> selected <i>Little Ironies</i> as one of the Top 10 English Singapore books for the period 1965–2015.</div>
 
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
-	Robert Yeo’s memoir, <i>Routes: A Singaporean Memoir 1940–75</i>, was published by Ethos Books in 2011. Volume 2 of his memoir is targeted for publication in 2019. Routes is available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries respectively. (Call nos.: RSING S822 YEO and S822 YEO). </div>
+	Robert Yeo’s memoir, <i>Routes: A Singaporean Memoir 1940–75</i>, was published by Ethos Books in 2011. Volume 2 of his memoir is targeted for publication in 2019. <i>Routes</i> is available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries respectively. (Call nos.: RSING S822 YEO and S822 YEO). </div>
 	
 
 <br>
