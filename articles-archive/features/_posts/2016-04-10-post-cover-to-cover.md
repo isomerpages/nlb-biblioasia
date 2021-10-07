@@ -24,7 +24,7 @@ The launch of Singapore’s first television station, Television Singapura, in F
 
 The National Library has a rich collection of entertainment magazines acquired over the years or deposited by publishers in the Legal Deposit Collection, an archive of over 1 million items. Highlighted here is a small sampling of magazines from the Lee Kong Chian Reference Library and the Legal Deposit Collection.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/cover-to-cover/02_covertocover.bmp"></div>
+<div style="background-color: white;"><br><img style="width:350px" src="/images/Vol-12-issue-1/cover-to-cover/02_covertocover.bmp"></div>
 
 **The Singapore Cinema Review** (7th edition, 1937–38); publisher:  William Robert Williams
 
