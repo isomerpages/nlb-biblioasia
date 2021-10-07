@@ -23,14 +23,14 @@ Women recreated an identity for themselves by setting up alumni associations (su
 
 One association, however, stood out amidst the post-war euphoria – the Singapore Council of Women (SCW). This was a group energised by its vision of uniting Singapore’s diverse women’s groups across race, language, nationality and religion in its fight for female enfranchisement. Looking back at the history of women’s rights movement in Singapore, it would not be an overstatement to claim the SCW marked the awakening of Singapore women to a new and heightened consciousness of what they could achieve.
 
-<img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail2.JPG">
-<div style="background-color: white;">Some of the committee members of the Singapore Council of Women, 1957. Shirin Fozdar, Secretary-General between 1952 and 1961, is seated 6th from the left. <i>Image reproduced from Lam, J.L., & Chew, P.G.L. (1993). Voices & Choices: The Women’s Movement in Singapore (p.90). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI)</i></div>
-
 By defining clear goals, organising working groups, enlisting public support, and engaging the media, government and the international community, the SCW showed how Singaporean women, hitherto overshadowed and relegated to the fringes of society, would lead the way in changing their status quo.
 
 #### **Origins of the Singapore Council of Women**
 
 The seeds of the SCW were sown on 12 November 1951 when a small group of women under the leadership of Shirin Fozdar (see text box below) called a public meeting to discuss the formation of an organisation that would champion women’s rights in Singapore. Thirty prominent women in the community met, including Elizabeth Choy, Vilasini Menon, and Municipal Commissioners Mrs Robert Eu (nee Phyllis Chia) and Amy Laycock (see Note 2).
+
+<img src="/images/Vol-14-issue-3/blazing-a-trail/x.JPG">
+<div style="background-color: white;">Some of the committee members of the Singapore Council of Women, 1957. Shirin Fozdar, Secretary-General between 1952 and 1961, is seated 6th from the left. <i>Image reproduced from Lam, J.L., & Chew, P.G.L. (1993). Voices & Choices: The Women’s Movement in Singapore (p.90). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI).</i></div>
 
 The women agreed that despite the fine work done by the Young Women’s Christian Association, the Social Welfare Department and the Malay Women’s Welfare Association, their “admirable work could not ameliorate the legal disabilities under which women have been suffering and which were the root causes of many of the social evils”.[^3]
 
