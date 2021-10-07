@@ -148,6 +148,6 @@ Singapuraku / aku mengerti sekali / di sini tempatku / tapi aku tidak tahu bila 
 
 My Singapore / I truly understand / here is my home / yet I do not know when / I will recover what I have lost.
 
-<p style="font-size:15px;"><b>Dr Azhar Ibrahim<b> is a Visiting Fellow at the Department of Malay Studies, National University of Singapore. He teaches classical and modern Malay-Indonesian literature.</p>
+<p style="font-size:15px;"><b>Dr Azhar Ibrahim</b> is a Visiting Fellow at the Department of Malay Studies, National University of Singapore. He teaches classical and modern Malay-Indonesian literature.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
