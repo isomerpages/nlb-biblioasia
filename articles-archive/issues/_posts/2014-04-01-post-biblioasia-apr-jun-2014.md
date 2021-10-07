@@ -4,6 +4,8 @@ date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/
 layout: post
 ---
+<img src="/images/vol-10-issue-1/background/cover_4.jpg">
+
 [<b>Director's Note</b>](/vol-10/issue-1/apr-jun-2014/director-note)
 
 [<b>The Library of Memory </b>](/vol-10/issue-1/apr-jun-2014/library-memory)<br><i>Boey Kim Cheng</i>’s memories of Singapore are closely tied to his recollections of reading and the old red-bricked National Library. Here, he remembers his love affair with the library, with words and with books.
