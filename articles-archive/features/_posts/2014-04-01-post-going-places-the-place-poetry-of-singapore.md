@@ -4,6 +4,10 @@ date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/going-places
 layout: post
 ---
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/goingplace/bg.jpg"></div>
+
 In conjunction with its 10th anniversary celebrations, The Arts House presents an audio poetry exhibition entitled “Going Places”, which features 45 recordings by some of Singapore’s most well-loved poets on familiar places in Singapore. Some of these poems include <i>Bras Basah</i> by Edwin Thumboo; <i>Shophouse, Victoria Street</i> by Eileen Chong; <i>Katong</i> by Damon Chua; and <i>Elegy for Changi Beach</i> by Robert Yeo.
 
 The exhibition invites the visitor to embark on a lyrical journey of Singapore’s cityscape and history through the personal memories of poets who have captured some of the changes Singapore experienced between 1953 and 2014. This poetic approach to the individual experiences of the writers’ will draw on original audio-visual portraits of the city-state, highlighting its rich literary history and artistic diversity. 
@@ -36,7 +40,10 @@ Old images and videos of Singapore provided by the National Archives Singapore (
 
 While the visual aspect of the exhibition may invoke feelings of displacement and a melancholic loss of history and the familiar physical identifiers of space, “Going Places” hopes to inspire Singaporeans to remember the city as they know it and to create new memories of the Singapore we experience today.
 
-Chinatown in 1998. <i>Image courtesy of Terence Heng.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/goingplace/chinatown.jpg">
+Chinatown in 1998. <i>Image courtesy of Terence Heng.</i></div>
 
 |Going Places” is held at the Print & Film Gallery at The Arts House between 26 March and 18 May 2014.|
 
