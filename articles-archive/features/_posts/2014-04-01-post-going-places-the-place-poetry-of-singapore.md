@@ -38,17 +38,16 @@ While the visual aspect of the exhibition may invoke feelings of displacement an
 
 Chinatown in 1998. Image courtesy of Terence Heng.
 
-Going Places” is held at the Print & Film Gallery at The Arts House between 26 March and 18 May 2014.
+|Going Places” is held at the Print & Film Gallery at The Arts House between 26 March and 18 May 2014.|
 
-Special thanks to: Dr. Angelia Poon Dr. Loh Chin Ee Professor Rajeev Patke Department of English Language and Literature, National University of Singapore Jerome Lim, The Long & Winding Road Nguan 2902 Gallery Derek Tait Philipp Aldrup
+|Special thanks to: Dr. Angelia Poon Dr. Loh Chin Ee Professor Rajeev Patke Department of English Language and Literature, National University of Singapore Jerome Lim, The Long & Winding Road Nguan 2902 Gallery Derek Tait Philipp Aldrup|
 
-Programme Partners: National Institute of Education Singapore Memory Project
+|Programme Partners: National Institute of Education Singapore Memory Project|
 
-Supported by: National Museum of Singapore Institute Francaise Singapore
+|Supported by: National Museum of Singapore Institute Francaise Singapore|
 
-For more information, visit www.theartshouse.com.sg
+|For more information, visit www.theartshouse.com.sg|
 
 <p style="font-size:15px;"><b>Paula Sim</b> is a recent graduate of the National University of Singapore and is an aspiring actor currently on the Programming team of The Arts House. </p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
-
