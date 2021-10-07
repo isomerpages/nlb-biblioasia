@@ -162,19 +162,19 @@ Knapp, R.G. (2010). [*Chinese houses of Southeast Asia: The eclectic architectur
 
 林远辉 & 张应龙. (2016). [新加坡马来西亚华侨史](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202719923) (p. 392). 广东: 高等教育出版社. (Call no.: Chinese RSING 959.5004951 LYH)
 
-[Local and general](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18921006-1.2.11). (1892, October 6). Daily Advertiser, p. 3. Retrieved from NewspaperSG.
+[Local and general](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18921006-1.2.11). (1892, October 6). *Daily Advertiser*, p. 3. Retrieved from NewspaperSG.
 
-M.A. Fawzi Mohd. Basri. (1984). Sistem Kangcu dalam sejarah Johor 1844–1917 (p. 51). Kuala Lumpur: Persatuan Sejarah Malaysia. (Not available in NLB holdings)
+M.A. Fawzi Mohd. Basri. (1984). *Sistem Kangcu dalam sejarah Johor 1844–1917* (p. 51). Kuala Lumpur: Persatuan Sejarah Malaysia. (Not available in NLB holdings)
 
-Monday, 19th September. (1870, September 23). Straits Times Overland Journal, p. 5. Retrieved from NewspaperSG.
+[Monday, 19th September](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18700923-1.2.14.8). (1870, September 23). *Straits Times Overland Journal*, p. 5. Retrieved from NewspaperSG.
 
-National Heritage Board. (2006). Discover Singapore heritage trails (p. 25). Singapore: National Heritage Board. (Call no.: RSING 915.95704 DIS-[TRA])
+National Heritage Board. (2006). [*Discover Singapore heritage trails*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12794473) (p. 25). Singapore: National Heritage Board. (Call no.: RSING 915.95704 DIS-[TRA])
 
 Settlement of Singapore Registry of Deeds. Private Property Deeds. Singapore: Singapore Land Authority. (Not available in NLB holdings)
 
-Sim, S. (2002, March 28). Mansion from the past. Today, p. 33. Retrieved from NewspaperSG.
+Sim, S. (2002, March 28). [Mansion from the past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20020328-1.2.50.1). *Today*, p. 33. Retrieved from NewspaperSG.
 
-Singapore and Straits directory for 1893. (1893) (p. 161). Singapore: Printed at the Mission Press, p. 161. (Microfilm no.: NL1180)
+*Singapore and Straits directory for 1893*. (1893) (p. 161). Singapore: Printed at the Mission Press, p. 161. (Microfilm no.: NL1180)
 
 Singapore. Building Control Division. (1918). Additions and alterations to building, conversion into godown (cancelled) [Building plan no.: 438/1918]. Retrieved from National Archives of Singapore website.
 
