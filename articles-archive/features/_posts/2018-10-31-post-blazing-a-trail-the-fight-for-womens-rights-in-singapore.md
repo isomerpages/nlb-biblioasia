@@ -158,7 +158,7 @@ The Constitution of the SCW, Registrar of Societies, 1952.
 </div>
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail8.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-3/blazing-a-trail/P.jpg" style="width: 100px; height: 100px;">
 <b>Dr Phyllis Ghim-Lian Chew</b> is a professor at Nanyang Technological University. She has written many books, including <i>Emergent Lingua Francas</i> (Routledge, 2009) and <i>A Sociolinguistic History of Early Identities in Singapore</i> (Palgrave, 2010). She is past president of AWARE (Association of Women for Action and Research) and UWAS (University Women’s Association of Singapore).
 </div>
 
