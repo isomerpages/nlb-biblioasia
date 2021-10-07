@@ -3,10 +3,9 @@ title: Unravelling the Mystery of Ubin's German Girl Shrine
 permalink: /vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine
 image: /images/vol-17-issue-3/ubin-shrine/Cover.jpg
 ---
-
 #### What is the truth behind the German girl shrine on Pulau Ubin? **William L. Gibson** investigates the history of Pulau Ubin to uncover the origin of the tale.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Cover.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Cover2.jpg)
 <div style="background-color: white;">As part of the renovation to the German girl shrine in 2015, a new statue of the German girl now rests beside the urn on the altar. She holds a sprig of coffee berries in her hand. The Barbie doll is enclosed in a plastic case. Note the mirrors and cosmetics left as offerings. Photos taken in 2021. <i>Courtesy of William L. Gibson.</i></div>
 
 
