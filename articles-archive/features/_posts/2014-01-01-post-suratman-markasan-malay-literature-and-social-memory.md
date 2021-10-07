@@ -153,3 +153,31 @@ My Singapore / I truly understand / here is my home / yet I do not know when / I
 <p style="font-size:15px;"><b>Dr Azhar Ibrahim</b> is a Visiting Fellow at the Department of Malay Studies, National University of Singapore. He teaches classical and modern Malay-Indonesian literature.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Ngugi, w.T. (2009). <i>Something torn and new</i> (p. 114). New York: BasicCivitas Books. (Not available in NLB holdings)
+
+Siti Zainon Ismail. (2001). Potret isteri yang hilang (pp. 322–333). In Johar Buang (Ed.), *[70 tahun Suratman Markasan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10153124)*. Singapore: Toko Buku Hj Hashim. (Call no.: Malay RSING 899.28024 TUJ)
+
+Suratman Markasan. (2013). Balada seorang lelaki di depan patung Raffles (h.45). In *[Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200191789)*. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+Suratman Markasan. (2013). Cerita peribumi Singapura (h. 57). In *[Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200191789)*. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+Suratman Markasan. (2013). Dalam perjalanan masa (h. 257). In *[Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200191789)*. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+Suratman Markasan. (2013). Di balik bayang Tun Seri Lanang (h. 412). *[Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200191789)*. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+Suratman Markasan. (2013). Jalan permulaan {Buat Suri, Lita & Tauliq) – The Journey begins (h.10, 12). In *[Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200191789)*. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+Suratman Markasan. (1978). <i>Kesusasteraan Melayu Singapura Dulu, sekarang dan masa depan, dalam Persidangan Penulis ASEAN</i> (h. 299–324). Kuala Lumpur: DBP. (Not available in NLB holdings)
+
+Suratman Markasan. (2013). Masih adakah melayu di sini? (h. 458). In *[Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200191789)*. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+Suratman Markasan. (2013). Mencari melayu yang melayu (h. 454). In *[Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200191789)*. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+Suratman Markasan. (2005). *[Bangsa Melayu Singapura dalam transformasi budayanya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12604640)*. Singapore: Anuar Othman & Associates. (Call no.: Malay RSING 305.8992805957 SUR)
+
+Suratman Markasan. (2013). *[Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200191789)*. Singapura: Darus Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+Suratman Markasan. (1987). *[Tiga warna bertemu: Antologi puisi penulis-penulis Singapura](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4532343)*. Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay RSING S899.230081305 TIG)
