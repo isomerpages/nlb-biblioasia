@@ -75,9 +75,6 @@ I quote the poem fully to demonstrate the disjunct between the name and the char
 
 In addition, quoting the poem entirely also shows the pains I took to write in such a way that avoided the obvious influence of the great poem by W.B. Yeats, *A Prayer for My Daughter*. Hopefully, the Chinese mythological references will differentiate my poem from his.
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde2.JPG">
-<div style="background-color: white;"> Catherine Lim’s collection of 17 short stories, Little Ironies: Stories of Singapore, was first published in 1978 by Heinemann Southeast Asia in the Writing in Asia Series. It was used as a text for the GCE N-Level examination in 1987. In 2015, <i>The Business Times selected Little Ironies as one of the Top 10 English Singapore books for the period 1965–2015.</i></div>
-
 In the process of collecting and editing short stories for an anthology of Singaporean writing from 1940 to 1977, I came across the stories of Catherine Lim. Subsequently I met her.
 
 Catherine was a young teacher of English Language and English Literature in a junior college. She had lively, sparkling eyes, and was very fair and slim in a way that fitted the *cheongsam* she wore. I told her I liked the few stories of hers that I had read in magazines and newspapers, and asked if she could show me more.
@@ -93,6 +90,9 @@ Together with Leon Comber, based in Hong Kong, John had just started to publish 
 <center>“They are riveting; there is no other word for them. In their Singapore Chinese context they rank with the best of Guy de Maupassant and the Alphonse Daudet. Each story has the same sureness of observation, clarity in the presentation of character, and finely judged economy both of words and emotion…. Her knowledge of Chinese ways of living and habits of thought is masterly. It may sound absurd to say this, but so few people are able, as she is, to draw back and look at it objectively. She exposes men and women with a mixture of complacent ruthlessness and compassion”.</center>
 
 Catherine Lim’s stories were published in a book entitled *Little Ironies* in 1978 to much acclaim. It marked the beginning of her remarkable career in English writing in Singapore.
+
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde2.JPG">
+<div style="background-color: white;"> Catherine Lim’s collection of 17 short stories, <i>Little Ironies: Stories of Singapore</i>, was first published in 1978 by Heinemann Southeast Asia in the Writing in Asia Series. It was used as a text for the GCE N-Level examination in 1987. In 2015, <i>The Business Times</i> selected <i>Little Ironies</i> as one of the Top 10 English Singapore books for the period 1965–2015.</div>
 
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 	Robert Yeo’s memoir, <i>Routes: A Singaporean Memoir 1940–75</i>, was published by Ethos Books in 2011. Volume 2 of his memoir is targeted for publication in 2019. Routes is available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries respectively. (Call nos.: RSING S822 YEO and S822 YEO). </div>
