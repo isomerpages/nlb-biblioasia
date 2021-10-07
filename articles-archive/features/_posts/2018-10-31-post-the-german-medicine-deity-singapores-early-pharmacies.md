@@ -108,19 +108,6 @@ Foo Chee Guan retired from practising medicine in 1985, at 74 years of age.[^20]
 [^15]:[Deaths: Foo Khee How](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19311221-1.2.64). (1931, December 21). *The Malaya Tribune*, p. 8. Retrieved from NewspaperSG.
 [^16]:[73 and still going strong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841112-1.2.21.8). (1984, November 12). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 [^17]:[Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550526-1.2.99). (1955, May 26). *The Straits Times*, p. 6. Retrieved from NewspaperSG; Chan, J. (Interviewer). (2013, December 30). [*Oral history interview with Foo Tiang Fatt*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2e33ecad-0682-11e4-a330-0050568939ad?keywords=Foo%20Tiang%20Fatt&keywords-type=all) [Cassette recording no. 003840/11/1]. Retrieved from National Archives of Singapore website.
-[^18]:
-[^19]:
-[^20]:
-
-Koh, T.Y. (1981, August 15). Another Guardian Pharmacy store soon at Goldhill. The Business Times, p. 5; Subramanium, S. (1989, June 16). Watson’s to open its 11th outlet in Funan Centre next week. The Straits Times, p. 43. Retrieved from NewspaperSG.
-Oral history interview with Foo Tiang Fatt, 30 Dec 2013.
-The Straits Times, 12 Nov 1984, p. 11.
-
-
-
-
-
-
-
-
-
+[^18]:Koh, T.Y. (1981, August 15). [Another Guardian Pharmacy store soon at Goldhill](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810815-1.2.16.1). *The Business Times*, p. 5; Subramanium, S. (1989, June 16). [Watson’s to open its 11th outlet in Funan Centre next week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890616-1.2.63.30). *The Straits Times*, p. 43. Retrieved from NewspaperSG.
+[^19]:[*Oral history interview with Foo Tiang Fatt*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/b838a73e-0681-11e4-a330-0050568939ad?keywords=Foo%20Tiang%20Fatt&keywords-type=all), 30 Dec 2013.
+[^20]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841112-1.2.21.8), 12 Nov 1984, p. 11.
