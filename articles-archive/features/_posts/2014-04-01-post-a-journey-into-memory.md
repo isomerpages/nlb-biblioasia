@@ -6,7 +6,10 @@ layout: post
 ---
 #### **Meira Chand** shares with us her experience writing A Different Sky; what it was like to study the memories of others – and what it was like to make them hers.
 
-A Different Sky was written by Meira Chand in 2010. Cover image courtesy of Meira Chand, published by Random House, UK
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/journey/A_Different_Sky.jpg">
+A Different Sky was written by Meira Chand in 2010. Cover image courtesy of Meira Chand, published by Random House, UK</div>
 
 The filmmaker Luis Bunuel wrote, “Memory is what makes our lives. Our memory is our coherence, our reason, our feeling, even our action. Without it, we are nothing.”[^1]
 
@@ -34,7 +37,9 @@ I realised then that I had started writing before I had completely digested the 
 
 Historical truth, as far as we can understand it, rests not only upon recorded fact, but also upon the imaginative extension of our understanding of those facts. While historical record constructs the shape of the past, fiction creates a sense of experience. Now with my new-found voice, I could at last call to the reader to listen, so that together we might relive an important memory, bringing it to life in the present, and illuminating its enduring relevance to ourselves in the way that only fiction can conjure. 
 
-<p style="font-size:15px;"><b>Meira Chand</b> was born in London of Swiss-Indian parentage and lived in Japan and India before making Singapore her home in 1997. Her latest novel, <i>A Different Sky</i> was long-listed for the Impac Dublin award in 2012, and also made it to Oprah Winfrey’s recommended reading list. She has a PhD in Creative Writing and is actively involved in promoting young writers in Singapore.</p>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/journey/Meira_Chand.jpg"><b>Meira Chand</b> was born in London of Swiss-Indian parentage and lived in Japan and India before making Singapore her home in 1997. Her latest novel, <i>A Different Sky</i> was long-listed for the Impac Dublin award in 2012, and also made it to Oprah Winfrey’s recommended reading list. She has a PhD in Creative Writing and is actively involved in promoting young writers in Singapore.</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
 
