@@ -64,7 +64,7 @@ Traditionally, Teochew houses, especially the more elaborate mansions, contain s
 
 Side wings, however, are noticeably absent in River House. Could the owners have intended to build side wings after they had raised enough money to acquire the adjacent plots of land? Or did the owners foresee the importance of having physical breaks in an area packed cheek-by-jowl with godowns, knowing full well how fires can easily spread?
 
-<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples4.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples4.JPG">
 <div style="background-color: white;">River House has a roof truss system in the <i>tailiang</i> style (抬梁式), which is made up of “successive tiers of beams and struts in a transverse direction”. This photo shows three cantilever beams on the front elevation of the building: one beam on the first storey and two on the second storey. These beams are known as <i>jitou</i> (屐头), and their ends are carved in a highly abstract <i>chihu</i> (螭虎) motif. The manner in which the beams are cantilevered is unique to Teochew architecture. <i>Courtesy of Yeo Kang Shua.</i></div>
 
 Regardless, the fire alleys were probably the reason why River House survived a raging fire that engulfed its neighbour at 14 Clarke Quay on 21 August 1920. The fire was so huge that it required 36 firefighters and three firefighting machines before it was finally extinguished. The fire alleys, which provided the only escape routes for the occupants of River House, had front and back doors. The back doors opened into Clarke and Read streets, while the front doors opened into the now expunged Clarke Quay road. The main building did not have a back door at the time.
@@ -92,7 +92,7 @@ Soon after Tan Lock Shuan acquired the property, he engaged an architect to desi
 
 Tan was the *kangchu* (港主) or headman of Sungai Machap, a pepper and gambier plantation, in Johor. From the mid-1880s onwards, large tracts of land in Johor were cleared for pepper and gambier plantations, both of which were lucrative cash crops then. The harvested crops were shipped to Singapore for processing and transhipment before being exported to the rest of the world. Tan most probably used the shed at River House for the processing, storage and trading of gambier from his Johor plantations.
 
-<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples6.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples6.JPG">
 <div style="background-color: white;">A 1980s photo showing Tan Lock Shuan’s gambier shed built in front of River House. Tan was the <i>kangchu</i> (港主) or headman of Sungai Machap, a pepper and gambier plantation in Johor. The shed was demolished in the early 1990s when Clarke Quay was conserved as a heritage area. <i>Courtesy of Urban Redevelopment Authority.</i></div>
 
 The 1896 building plan of the gambier shed is significant as it shows the existence of River House by this date. No demolition of any structures in the open area in front of the main house are indicated on the building plan. It is thus unclear if there were any structures, such as a detached entrance gateway typically found in Chinese mansions, in the open space prior to 1896.
