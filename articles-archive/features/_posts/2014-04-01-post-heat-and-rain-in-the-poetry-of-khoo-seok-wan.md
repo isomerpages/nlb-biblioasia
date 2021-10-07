@@ -4,7 +4,10 @@ date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/heat-and-rain
 layout: post
 ---
-Khoo Seok Wan in his later years. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/heatandrain/Khoo_Seok_Wan.jpg">
+Khoo Seok Wan in his later years. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.</i></div>
 
 Khoo Seok Wan (1874–1941), the multi-talented Chinese scholar and poet is considered by many to be one of Singapore’s best and most prolific literary pioneers. Khoo was a man of many hats: a practical Confucianist, staunch Buddhist, passionate newspaperman and an ardent reformist, who at the same time was known for his chivalry and reputation for living life to the fullest.
 
@@ -135,4 +138,3 @@ National Library Board. (2021, March 22). *[Qiu Shuyuan biography](https://ereso
 [^25]:《久热得雨》, 见《丘菽园居士诗集》二编, 页3–4。
 
 [^26]: 同上, 页15。
-
