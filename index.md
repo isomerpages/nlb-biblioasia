@@ -12,7 +12,7 @@ sections:
       background: /images/vol-17-issue-3/Hero%20Banner.jpg
       key_highlights:
         - title: ""
-          description: Be enthralled by the comics collection in the National Library,
+          description: Be enthralled by the comics collection at the National Library,
             ancient gold in Southeast Asia and more!
           url: /vol-17/issue-2/jul-sep-2021/
       button: Read the current issue
