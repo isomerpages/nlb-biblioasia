@@ -6,7 +6,10 @@ layout: post
 ---
 #### **Boey Kim Cheng**’s memories of Singapore are closely tied to his recollections of reading and the old red-bricked National Library. Here, he remembers his love affair with the library, with words and with books.
 
-The old National Library on Stamford Road in 1990. Courtesy of National Archives of Singapore.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/library/old_National_Library.jpg">
+The old National Library on Stamford Road in 1990. <i>Courtesy of National Archives of Singapore.</i></div>
 
 From the street it looks nondescript, facing the Parisian-looking Park Mansion and around the corner from the Palladian Geological Institute, which looks a more fitting home to an establishment founded in 1788 to advance knowledge and research in all things Asian. It occupies No. 1 Park Street, now renamed Mother Teresa Sarani, a Modernist block with a clean rectilinear shape defined by protruding trim painted the ubiquitous vermilion red of Kolkata, its central block shielding the stairwell perforated by square holes. Kolkata’s four-storey building of the Asiatic Society, opened in 1965, the year Singapore and I were born, is pleasantly familiar; the old Rediffusion building in Singapore and numerous institutions built in that era, all vanished now, had the same provenance in British modernism.
 
@@ -32,15 +35,26 @@ My rite of initiation into library use began with an introduction to the catalog
 
 It was 1978, my first visit to the National Library. I was in Secondary Two at Victoria School, and had outgrown the school library’s small stash of poetry books, with its mildewed Robert Browning and William Bryant, their stitches undone and gold-embossed spines peeling. I alighted outside the bookstores at Bras Basah, the academic ones doing a roaring trade in text and assessment books, their discount stock spilling over onto the five-footway in crates and boxes. It was here that I bought my first poetry book, <i>The Albatross Book of Verse</i>, with a wine-dark cloth cover. It was an anthology that I would dip into every night for a few years before sleep. Miraculously it has ended up in Australia with me, though I don’t remember packing it. Somehow a visit to the National Library was never complete without a tour of these bookstores. Your senses were honed, alert and excited, scouring the randomly arranged titles in the shady interior of second-hand stores with names such as Sultana and Modern.
 
-A librarian teaching young patrons how to use the catalogue in 1965. <i>All rights reserved. National Library Board Singapore, 2014.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/library/bookshop.jpg">
+It was at one of these hole-in-the-wall bookshops along Bras Basah Road that the writer Boey Kim Cheng stumbled upon his first book of poetry, <i>The Albatross Book of Verse</i>. Old timers will recall bookshops with names such as Sultan and Modern (picture taken in 1972). <i>The Straits Times © Singapore Press Holdings Limited. Reproduced with permission.</i></div>
 
 Reading is a physical journey through real space, the place of reading an intrinsic part of the reading experience and memory, a dimension sadly missing in virtual libraries.
 
 You could then either take the route across the park to the old Tudor-style YMCA and walk past the National Museum to the library, or stroll down to St Joseph’s Institution and cross Bras Basah Road to the <i>sarabat</i>-stall-lined Waterloo Street, then ford the busy Stamford Road to a row of low, dingy shophouses and a tin-shed coffeeshop that served the best <i>mee soto</i> I have ever tasted, and finally up the steps to the stately but unpretentious and clean redbrick building that is the National Library, graced in front by a stand of royal palms, a canopy of yellow flame, saga and raintrees from Fort Canning just peering over its flat roof. 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/library/librarian_teach.jpg">
+A librarian teaching young patrons how to use the catalogue in 1965. <i>All rights reserved. National Library Board Singapore, 2014.</i></div>
+
 The building, though unassuming in appearance and size, commanded attention and respect. Next to the grander domed National Museum, facing the Edwardian-style MPH building and the mock Venetian-Renaissance Stamford House up the road, it looked modern, and was criticised for being “out of character” and “forbidding.” But its exposed bricks gave it an earthy look, their various shades of red exuding warmth and depth; the medley of rectangle and square art deco white trim windows with jambs extending beyond the bricks and the rectilinear planes made it an honest, elegant and dignified edifice.
 
-A librarian stamping the due date on a book at the old National Library in 1966. <i>All rights reserved. National Library Board Singapore, 2014.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/library/librarian_stamping.jpg">
+A librarian stamping the due date on a book at the old National Library in 1966. <i>All rights reserved. National Library Board Singapore, 2014.</i></div>
 
 I can see myself crossing the covered portico that was supported by brick pillars over the driveway, where cars would drop readers off, and walking up the tiled staircase flanked by brick banisters with slate tops, where teenagers would perch, chatting or waiting for friends. On the left of the lobby was a bag counter manned by a troupe of Malay attendants; there was a kind-faced old man wearing a <i>songkok</i> and his grumpy colleague who shuffled slowly because of a bad leg. In front was the courtyard, paved with cement slabs and fringed by potted plants. A few years before the library was demolished, it was given a facelift that included a fountain with a <i>fleur de lis</i> finial as part of the library’s overall renovation.
 
@@ -72,13 +86,19 @@ If, ever in thought, I take up <i>François le Champi</i> in the library, immedi
 
 Wandering the aisles of books in my memory, I can sense the dreams, aspirations and despair of the youth who was seeking companionship, meaning and salvation in the books that drew him ineluctably into their worlds. 
 
-The writings of French Nobel laureate author Albert Camus (1913–1960), especially <i>The Myth of Sisyphus</i>, made a deep impression on Boey Kim Cheng during his formative years. It spurred him to read several of Camus’ other books. Left: <i>Portrait from New York World-Telegram and the Sun Newspaper Photograph Collection, 1957.</i> Right: <i>Cover image all rights reserved, Penguin, London, 2000.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/library/franch_nobel.jpg">
+The writings of French Nobel laureate author Albert Camus (1913–1960), especially <i>The Myth of Sisyphus</i>, made a deep impression on Boey Kim Cheng during his formative years. It spurred him to read several of Camus’ other books. Left: <i>Portrait from New York World-Telegram and the Sun Newspaper Photograph Collection, 1957.</i> Right: <i>Cover image all rights reserved, Penguin, London, 2000.</i></div>
 
 I remember reading Nietzsche’s <i>The Birth of Tragedy</i> and pondering his insights into Wagner and then going upstairs to the audio-visual section of the Lee Kong Chian Reference Library to listen to <i>Parsifal and the Ring Cycle</i>. I started alternating between the fan-cooled Adult Section and the air-conditioned Reference Library. I sifted the catalogue of the audio-visual section and filled up request slips for vinyl treasures. The librarian would direct me to a listening booth and go into a backroom where the records were stored. I had discovered Mahler at the British Council Library opposite Clifford Pier, and here at the National Library I listened to his Third Symphony after reading <i>Thus Spake Zarathustra</i>. It was a heady mix, and for days something akin to delirium possessed me, the secret truth of Nietzsche’s “Midnight Song” scored deeply in Mahler’s notes. But there was also the anxiety that had been accumulating since I had started reading Keats, the fear that I was taking a path less-travelled and the way ahead was fraught with uncertainty and pain.
 
 One day I set out from the National Library to the British Council Library with a copy of Rimbaud’s <i>Illuminations</i> in my schoolbag. The two libraries had become key reference points between which my reading and life took their bearings; the routes and distances between them now provide the measures of memory. It was a daily ritual, starting out from the National Library after spending the afternoon there, walking past Capitol Cinema, across High Street to the Singapore River, where flotillas of <i>tongkangs</i> were berthed. My head was full of Rimbaud, my senses reeling from his intoxicating lines. The chugging of <i>tongkangs</i> carrying goods to the godowns upstream and empty ones going out to the harbour, their wide wakes slapping gently the slimy steps and pilings, the composite smell of bilges, mud and salt water, the reek of oil and timber hanging in the air, and the afternoon light percussive on the khaki-coloured tides gave me Rimbaud’s “disorientation of the senses.” I felt I was on the cusp of something, a sense of trespass and uplift; I wasn’t afraid anymore of the life of poetry, of the danger and solitude it meant. That night, after reading at the window seat in the British Council Library, looking up occasionally from <i>Four Quartets</i> at the transactions outside Change Alley, and across at Clifford Pier and the boats at anchor in the roads, I walked to the Cavanagh Bridge, which was deserted and dim-lit after office hours, and celebrated that day of epiphany by lighting up my first cigarette.
 
-Patrons browsing through the Asian Children’s collection at the National Library on Stamford Road. <i>All rights reserved. National Library Board Singapore, 2014.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/library/patrons_borrow.jpg">
+Patrons browsing through the Asian Children’s collection at the National Library on Stamford Road. <i>All rights reserved. National Library Board Singapore, 2014.</i></div>
 
 Wandering the aisles of books in my memory, I can sense the dreams, aspirations and despair of the youth who was seeking companionship, meaning and salvation in the books that drew him ineluctably into their worlds.
 
@@ -86,9 +106,15 @@ Here in the Asiatic Society reading room, Miss Mishra hands me the 12th volume o
 
 Feeling and smelling the aged paper, the old National Library is no longer a ghostly memory, a black hole that has swallowed up the reading history of a nation, the reading memories of generations of readers. Over the tunnel that seems such poor justification for the library’s removal, the reassuring red-brick building stands on the rise towards Fort Canning, beckoning to the skinny boy in slippers walking up its wide steps, its shelves calling with books that seem to read and write his life as he reads, and somewhere along the journey memory and reading will become one, as he wanders the tall aisles of books, waiting to be found in the library of memory.
 
-The lending section of the old National Library in 1962. <i>All rights reserved. National Library Board Singapore, 2014.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/library/lending_section.jpg">
+The lending section of the old National Library in 1962. <i>All rights reserved. National Library Board Singapore, 2014.</i></div>
 
-<p style="font-size:15px;">Singapore-born <b>Boey Kim Cheng</b> has written five collections of poetry and a travel memoir Between Stations. Boey lives in Australia, where he is now a citizen and teaches creative writing at the University of Newcastle. He is currently a writer-in-residence at Nanyang Technological University, Singapore.</p>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/library/Boey_Kim_Cheng_res.jpg">
+Singapore-born <b>Boey Kim Cheng</b> has written five collections of poetry and a travel memoir Between Stations. Boey lives in Australia, where he is now a citizen and teaches creative writing at the University of Newcastle. He is currently a writer-in-residence at Nanyang Technological University, Singapore.</p></div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
 
