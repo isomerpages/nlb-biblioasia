@@ -6,6 +6,12 @@ layout: post
 ---
 #### Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles. **Gracie Lee** highlights these poets and the literary works that captured the sentiment of the times.
 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg">
+Hedwig Aroozoo was not only one of Singapore’s earliest female poets, but also the director of the National Library of Singapore from 1960 to 1988. <i>Photography by Sean Lee.</i></div>
+
 From Hedwig Aroozoo’s parodies of 1950s Singapore politics to Angeline Yap’s poetic responses to nationhood, the verses of Singapore’s early women poets have engaged our imagination, emotions and intellect, enlarged our understanding of the human condition, and enriched the literary and cultural heritage of Singapore. It is hoped that this overview of poetry written by Singapore women in the 1950s–70s will stir the interest of readers to explore the wealth of local literature available in the National Library’s Singapore collection.
 
 #### **Hedwig Aroozoo (1928–)**
@@ -22,7 +28,7 @@ The lady says she’s willing<br>She declares the prospect thrilling, <br>But th
 
 Though Aroozoo was a contemporary of well-known historian Wang Gungwu, who belonged to a group of pioneering writers, she is not perceived as part of that circle for her writing was primarily a private endeavour. Her poems have mainly appeared in non-literary journals, many were never published, and some (such as her love poems) were even destroyed. After graduation, Aroozoo went on to carve out an illustrious career as the Director of the National Library and discontinued her poetry writing. It was only in 1999 that her published poems were gathered and re-introduced in <i>Under the Apple Tree: Political Parodies of the 1950s.</i> 
 
-Hedwig Aroozoo was not only one of Singapore’s earliest female poets, but also the director of the National Library of Singapore from 1960 to 1988. <i>Photography by Sean Lee.</i>
+
 
 #### **Wong May (1944–)**
 
@@ -44,7 +50,10 @@ Yet I hear somebody weeping – <br>Crying louder and louder – howling <br>I f
 
 (Lines 9–20; Seven Poets, p. 111)
 
-In 1999, Hedwig Aroozoo’s published poems were collected and released in <i>Under the Apple Tree. All rights reserved, National Library Board Singapore, 2014.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/womenpoets/Uder_the_Apple_Tree_res.jpg">
+In 1999, Hedwig Aroozoo’s published poems were collected and released in <i>Under the Apple Tree. All rights reserved, National Library Board Singapore, 2014.</i></div>
 
 #### **Lee Tzu Pheng (1946–)**
 
@@ -58,7 +67,10 @@ Regarded as one of the founding triumvirate of poetry in Singapore (Edwin Thumbo
 
 No discussion on Lee is complete without reference to “My Country and My People”. Intended to be a personal piece that Lee wrote for herself, the poem has since been lauded as a national poem though it had been, ironically, banned from the airwaves in the 1970s, supposedly for its reference to “brown-skinned neighbours”. The famous opening lines to her poem continue to resonate with generations of Singaporeans, unerringly capturing the ambivalence and contradictions of being Singaporean: “My country and my people/ are neither here nor there, nor/ in the comfort of my preferences/ if I could even choose”. The poem goes on to explore the poet’s disquiet with the disappearance of nostalgic familiar places that have made way for the sterile ubiquitous city and material progress. At the close of the poem, the poet turns the discourse around by reversing the order of the opening lines with: “I claim citizenship in your recognition/ of our kind./ My people, and my country,/ are you, and you my home.” Here, she asserts her personal vision that it is the kinship among neighbours that makes Singapore both a country and a home. The success of “My Country and My People” has been attributed to Lee’s ability to conflate her internal and external realities, bringing together personal and public histories, giving meaning to the larger political context through the experience of the individual.
 
-Cultural medallion recipient (1985), Lee Tzu Pheng, is one of Singapore’s most distinguished poets. <i>All rights reserved. Eric Foo Chee Meng 1979–2001. Courtesy of National Arts Council Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/womenpoets/Dr_Lee_Tzu_Pheng.jpg">
+Cultural medallion recipient (1985), Lee Tzu Pheng, is one of Singapore’s most distinguished poets. <i>All rights reserved. Eric Foo Chee Meng 1979–2001. Courtesy of National Arts Council Singapore.</i></div>
 
 #### **Chung Yee Chong (1950–)**
 
@@ -82,7 +94,10 @@ Where the kelong cuts across the sea <br>Like a wooden-handled kris <br>There is
 
 (Lines 9–12; The Air Above the Tamarinds, p. 17)
 
-Margaret Leong’s works were infused with the sights and sounds of Malaya. She was an accomplished writer and educator. <i>All rights reserved, National Library Board Singapore, 2014</i>.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/womenpoets/rivers_to_senang.jpg">
+Margaret Leong’s works were infused with the sights and sounds of Malaya. She was an accomplished writer and educator. <i>All rights reserved, National Library Board Singapore, 2014</i>.</div>
 
 #### **Geraldine Heng**
 
@@ -96,7 +111,10 @@ we were a crooked line of giggling children untidy-happy <br>delight burning on 
 
 (Lines 1–10; Whitedreams, p. 30)
 
-Geraldine Heng is an associate professor at the University of Texas, Austin. Her work has earned her six research fellowships to date. <i>Courtesy of Geraldine Heng.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/womenpoets/geraldine_heng.jpg">
+Geraldine Heng is an associate professor at the University of Texas, Austin. Her work has earned her six research fellowships to date. <i>Courtesy of Geraldine Heng.</i></div>
 
 #### **Nalla Tan and Rosaly Puthucheary**
 
@@ -110,9 +128,15 @@ Who’s being kept? <br>What, a second establishment! <br>With Woman’s Charter
 
 (Lines 1–8, 30–32; The Gift and Other Poems, pp. 34–35)
 
-Nalla Tan wore many hats – doctor, academic, writer. She advocated a diverse range of issues from health education to women’s rights. <i>Courtesy of Tan Ying Hsien.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/womenpoets/dr_nalla_tan.jpg">
+Nalla Tan wore many hats – doctor, academic, writer. She advocated a diverse range of issues from health education to women’s rights. <i>Courtesy of Tan Ying Hsien.</i></div>
 
-Rosaly Puthucheary has been writing poetry since 1952. She obtained her doctorate in English Literature at the National University of Singapore. <i>Courtesy of Rosaly Puthucheary.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/womenpoets/rosaly.jpg">
+Rosaly Puthucheary has been writing poetry since 1952. She obtained her doctorate in English Literature at the National University of Singapore. <i>Courtesy of Rosaly Puthucheary.</i></div>
 
 Rosaly Puthucheary, sister of former left-wing politician James Puthchucheary and Malaysian poet Susie Puthucheary, was born in Johor Bahru. She came to Singapore in 1974 and is now a retired teacher. To date, she has published six volumes of poetry <i>Pillow Your Dreams</i> (1978); <i>The Fragmented Ego</i> (1978); <i>Dance on His Doorstep</i> (1992); <i>Mirrored Images</i> (2008); <i>Footfalls in the Rain</i> (2008); <i>My Burning Hill</i> (2012); and two novels <i>The Tessellated Path</i> (2009) and <i>In the Wake of Terror</i> (2012). Her poems from the 1970s are short introspective pieces that dwell on the subject of romantic love and selfdiscovery. Poems, such as “A Door-Mat”, hint at her feminist sentiments.
 
@@ -120,7 +144,10 @@ I will not be your door-mat <br>a piece of convenience <br>waiting at the door, 
 
 (Lines 1–7; Pillow Your Dreams, p. 1)
 
-These books are a sampling of Rosaly Puthucheary’s poetry. She has also written two novels to date. <i>All rights reserved, National Library Board Singapore, 2014.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/womenpoets/sampling_of_Rosaly_Puthucheary.jpg">
+These books are a sampling of Rosaly Puthucheary’s poetry. She has also written two novels to date. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
 Angeline Yap is the youngest poet featured in this article. She began writing as a child and contributed many poems during the 1970s and 1980s to periodicals such as <i>Saya, Focus and Singa</i>. Nurtured by the late Marie Bong who taught her to write not with her head but her heart, Yap won many prizes in writing competitions organised by the Ministry of Culture, NUS Literary Society and the National Book Development Council. Marie Bong was the former headmistress of CHIJ Katong and long-time editor of the student literary magazine Saya. Yap’s poems were republished in 1986 under the title <i>Collected Poems</i>, and have appeared in contemporary anthologies such as <i>The Poetry of Singapore</i> (1985) and <i>Journeys: Words, Home and Nation</i> (1995). Yap is also a mentor with the National Arts Council’s Mentor Access Project and released her second book of poems <i>Closing My Eyes to Listen</i> in 2011. Her latest outing sees a shift in direction towards spiritual contemplation, much like Lee Tzu Pheng’s more recent works. The following poem written in “almost colloquial”[^11] language is the first of two poems titled “Song of a Singaporean”.
 
@@ -132,7 +159,11 @@ In Modern English (Song of a Singaporean) (1975)
 
 (Lines 1–15; Collected Poems, p.10 )
 
-Collected Poems by Angeline Yap was published in 1986. <i>All rights reserved, National Library Board Singapore, 2014.</i>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/womenpoets/collected_poem.jpg">
+Collected Poems by Angeline Yap was published in 1986. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
 <p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library. She was involved in the curation of the Singapore Literary Pioneers Gallery and in the compilation of Singapore Literature in English: An Annotated Bibliography (2008).</p>
 
