@@ -4,10 +4,12 @@ date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/reading-memory
 layout: post
 ---
-
 #### Each book is a memory, a reminder of the person we were when we read it. Here, **Claire Tham** shares with us the books she remembers – the ones that shaped her thoughts and her writing, and ultimately the person she became.
 
-<i>The Catcher in the Rye</i> was written by J.D. Salinger in 1951. <i>Cover by Penguin, London, 2010.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/memory/The_Catcher_in_the_Rye.jpg">
+<i>The Catcher in the Rye</i> was written by J.D. Salinger in 1951. <i>Cover by Penguin, London, 2010.</i></div>
 
 My mother worked Saturday mornings when I was a child in the 1970s; my father did not. Left with two children to entertain, my father would take my sister and I every Saturday morning to a bookshop or the National Library.
 
@@ -45,6 +47,9 @@ Someone told me once that her daughter never went to the library because the boo
 
 Reading, bookshops, libraries – they made up a significant part of my childhood and brought me endless solace and enjoyment. They still do.
 
-<p style="font-size:15px;">Singaporean writer and Oxford University law alumni <b>Claire Tham</b> has written several award-winning short story collections as well as full length novels. Her stories have been adapted for both television and theatre. Her most recent work <i>The Inlet</i>, was published by Ethos Books in 2013.</p>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/memory/Claire_Tham.jpg">
+	Singaporean writer and Oxford University law alumni <b>Claire Tham</b> has written several award-winning short story collections as well as full length novels. Her stories have been adapted for both television and theatre. Her most recent work <i>The Inlet</i>, was published by Ethos Books in 2013.</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
