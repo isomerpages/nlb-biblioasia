@@ -154,3 +154,11 @@ Tejima, K. (1987). <i>Fox’s dream</i>. New York: Philomel Books. (Not availabl
 Tejima, K. (1989). <i>Woodpecker forest</i>. New York: Philomel Books. (Not available in NLB holdings)
 
 Wolf, G., & Rao, S. (2000). <i>In the dark</i>. India: Tara Pub. (Not available in NLB holdings)
+
+#### **NOTES**
+
+[^1]: Tatsugoro, H. (1969). *[Otogi-Banashi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4243532)*. Tokyo: Ise—Tatsu. (Call no.: RACL 398.20952 HER)
+
+[^2]: Chinnery, C. (n.d.). *Bookbinding*. Retrieved from The International Dunhuang Project: The Silk Road website.
+
+[^3]: Knapp, R.G. (2011). *[Things Chinese: Antiques, crafts, collectibles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13979335)*. VT: Periplus Editions, North Clarendon. (RART 745.0951 KNA-[ART])
