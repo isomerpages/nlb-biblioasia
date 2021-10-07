@@ -138,6 +138,6 @@ Loong, M.L. (Ed.). (1988). On television in Singapore. Singapore: Singapore Broa
 
 Singapore Film Commission. (1999). Singapore film directory. Singapore: Singapore Film Commission. (Call no.: RSING 384.80255957 SFD)
 
-The ‘supporters’ of entertainment magazines. (1988, November 1). The Straits Times, p. 4. Retrieved from NewspaperSG.
+The ‘supporters’ of entertainment magazines. (1988, November 1). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 Toh, C. (2009, December 11). [8 Days every week, 1,000 times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20091211-2.2.110.4). Today, p. 102. Retrieved from NewspaperSG.
