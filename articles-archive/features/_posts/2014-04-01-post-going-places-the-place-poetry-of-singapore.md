@@ -4,17 +4,17 @@ date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/going-places
 layout: post
 ---
-In conjunction with its 10th anniversary celebrations, The Arts House presents an audio poetry exhibition entitled “Going Places”, which features 45 recordings by some of Singapore’s most well-loved poets on familiar places in Singapore. Some of these poems include Bras Basah by Edwin Thumboo; Shophouse, Victoria Street by Eileen Chong; Katong by Damon Chua; and Elegy for Changi Beach by Robert Yeo.
+In conjunction with its 10th anniversary celebrations, The Arts House presents an audio poetry exhibition entitled “Going Places”, which features 45 recordings by some of Singapore’s most well-loved poets on familiar places in Singapore. Some of these poems include <i>Bras Basah</i> by Edwin Thumboo; <i>Shophouse, Victoria Street</i> by Eileen Chong; <i>Katong</i> by Damon Chua; and <i>Elegy for Changi Beach</i> by Robert Yeo.
 
 The exhibition invites the visitor to embark on a lyrical journey of Singapore’s cityscape and history through the personal memories of poets who have captured some of the changes Singapore experienced between 1953 and 2014. This poetic approach to the individual experiences of the writers’ will draw on original audio-visual portraits of the city-state, highlighting its rich literary history and artistic diversity. 
 
 In the attempt to regain what has become “forgotten”, the exhibition hopes to remind Singaporeans of the city’s lost buildings and iconic landmarks through poetry, set against a background of constant flux and urban development. The poems cover various locations all over the island, and they span the spectrum of urban, natural and architectural typologies found in Singapore. Many of the poems are set in the city central area such as Bras Basah, Raffles Place and Singapore River. Some focus on Singapore’s attractions – Botanical Gardens and MacRitchie Reservoir for instance – while others wax lyrical about the HDB heartlands, including Clementi, Punggol and Toa Payoh. Others consider buildings that have disappeared from the cityscape, like the former National Library on Stamford Road.
 
-As The Arts House enters into a new decade and celebrates its 10th anniversary with the theme The Next Page, it is paramount that in our re-imagining of how things could be, we also take the opportunity to remember how things were. The exhibition reminds Singaporeans to appreciate the roles that these iconic places have played in shaping the city we have come to know, and also recognises how far we have come over the past 50 years. While the poems might reflect the poets’ personal memories of these places, their words trigger the collective memories that many other Singaporeans associate with these same places and the plurality of meanings attached.
+As The Arts House enters into a new decade and celebrates its 10th anniversary with the theme <i>The Next Page</i>, it is paramount that in our re-imagining of how things could be, we also take the opportunity to remember how things were. The exhibition reminds Singaporeans to appreciate the roles that these iconic places have played in shaping the city we have come to know, and also recognises how far we have come over the past 50 years. While the poems might reflect the poets’ personal memories of these places, their words trigger the collective memories that many other Singaporeans associate with these same places and the plurality of meanings attached.
 
 Terence Heng provides such an example:
 
-Racks of clothes along racks of clocks, as if ticking away the fashion of the eras. Fortune telling weight machine, I never stepped on one before. Durian sign sale, bicycle underneath no-bicycle sign. Rusty trishaw parked outside renovated lifts. And an old dental surgery somewhere next to an older barber in the HDB. Urn, three joss sticks burnt out sometime ago.
+<i>Racks of clothes along racks of clocks, as if ticking away the fashion of the eras. <br>Fortune telling weight machine, I never stepped on one before. Durian sign sale, bicycle underneath no-bicycle sign. <br>Rusty trishaw parked outside renovated lifts. And an old dental surgery somewhere next to an older barber in the HDB. <br>Urn, three joss sticks burnt out sometime ago.</i>
 
 <div style="text-align:right;">– Excerpt from “Postcards from Chinatown”, Terence Heng (October 2009)</div>
 
@@ -22,15 +22,15 @@ Here, the poet expresses a sense of nostalgia for a place that is vastly differe
 
 What “Going Places” does hope to ultimately achieve is to provide Singaporeans with an alternate perspective of the places that are already familiar to them. Take the Merlion for example; while it may not have “organically” morphed into a legitimate national icon, it still has had a lasting influence on the sense of history and national identity of Singaporeans. The exhibition features a number of Merlion poems that reflect the connection (or lack thereof) that Singaporeans may feel toward this somewhat kitschy icon.
 
-But this lion of the sea Salt-maned, scaly, wondrous of tail, Touched with power, insistent On this brief promontory... Puzzles.
+<i>But this lion of the sea <br>Salt-maned, scaly, wondrous of tail, <br>Touched with power, insistent <br>On this brief promontory... <br>Puzzles.</i>
 
 <div style="text-align:right;">– “Ulysses By The Merlion”, Edwin Thumboo</div>
 
-I am the scion of a wealthy race. I wear the silver armour of my moneyed people.
+<i>I am the scion of a wealthy race. <br>I wear the silver armour of my moneyed people.</i>
 
 <div style="text-align:right;">– “The Merlion To Ulysses”, Lee Tzu Pheng</div>
 
-All the poems featured in the exhibition are accompanied by the voice recordings of the poets reading their work(s) and recounting the occasional inside-story behind the poem. While the memories may be specific to the poets themselves, the ideas and histories of the places that they mention undeniably form a part of who we are as Singaporeans whether we choose to accept it or not. Places such as Chinatown, with its contrasts between new and old, “authentic” and “artificial”, form a part of our multifarious “rojak culture” as described by Terence Heng. 
+All the poems featured in the exhibition are accompanied by the voice recordings of the poets reading their work(s) and recounting the occasional inside-story behind the poem. While the memories may be specific to the poets themselves, the ideas and histories of the places that they mention undeniably form a part of who we are as Singaporeans whether we choose to accept it or not. Places such as Chinatown, with its contrasts between new and old, “authentic” and “artificial”, form a part of our multifarious <i>“rojak culture”</i> as described by Terence Heng. 
 
 Old images and videos of Singapore provided by the National Archives Singapore (NAS) are showcased alongside the poems, providing audiences with a more immersive and meaningful experience of the exhibition. 
 
