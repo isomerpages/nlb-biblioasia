@@ -6,14 +6,14 @@ layout: post
 ---
 #### **Martina Yeo** and **Yeo Kang** Shua piece together historical details of the little-known River House in Clarke Quay and discover that it was once a den for illicit triad activity.
 
-<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples1.JPG">
+<img style="width: 650px; height: 410px;" src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples1.JPG">
 <div style="background-color: white;">In 1993, River House was restored – sadly with some of its original Teochew characteristics lost in the process – and rented out as a commercial space. <i>Courtesy of Urban Redevelopment Authority.</i></div>
 
 Walking along the Singapore River – where godowns (warehouses) lining its banks were a ubiquitous sight in the 19th and 20th centuries – one building strikes the casual observer as being atypical. Designed in the southern Chinese style with a prominent tiled roof and a curved ridge embellished with ceramic shards, the building is stylistically different from the others in the area. This is River House along Clarke Quay, poetically known as “House of Ripples” or *Lianyi Xuan* (涟漪轩) in Chinese.
 
 Until very recently, River House was believed to have been built in the 1880s by Tan Yeok Nee (陈旭年), a wealthy Teochew gambier and pepper merchant. The house is a two-storey building with its front entrance facing the Singapore River. Unlike traditional southern Chinese mansions, however, the house is devoid of a detached entrance gateway that aligns with the edge of the street and typically leads to a forecourt.
 
-<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples2.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples2.JPG">
 <div style="background-color: white;">Portrait of Tan Yeok Nee (陈旭年), a wealthy Teochew gambier and pepper merchant, 1890. Until very recently River House was believed to have been built by Tan in the 1880s. At around the same period, Tan also ordered the construction of another elaborate Chinese-style mansion along present-day Clemenceau Avenue, now a national monument known as the House of Tan Yeok Nee. <i>Boden-Kloss Collection, courtesy of National Archives of Singapore.</i></div>
 
 Around the same period, Tan Yeok Nee also ordered the construction of another elaborate Chinese-style mansion along present-day Clemenceau Avenue – which has since been preserved as a national monument and is known as the House of Tan Yeok Nee. Given the geographical proximity of the two dwellings (they are only about one kilometre apart) and the similar architectural styles and approximate construction periods they shared, one wonders why Tan built the two residences so close to each other. More interestingly, it calls to question whether River House was even built by Tan in the first place.
@@ -26,7 +26,7 @@ River House occupied eight parcels of land, five of which form the grounds of th
 
 An 1863 photograph taken by Sachtler & Co. and another dating from the mid-1860s show the land being occupied by a two-storey masonry building and several smaller single-storey houses. Surrounding the structures were swampy grounds with houses on stilts clearly visible on the opposite river bank.
 
-<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples3.JPG">
+<img style="width: 650px; height: 430px;" src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples3.JPG">
 <div style="background-color: white;">
 Aerial view of Boat Quay and Clarke Quay before the area was rejuvenated. River House is circled in white. <i>G.P. Reichelt Collection, courtesy of National Archives of Singapore.</i></div>
 
