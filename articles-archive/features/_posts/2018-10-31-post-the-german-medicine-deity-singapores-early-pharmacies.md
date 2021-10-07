@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Timothy Pwee** charts the history of Singapore’s first Western-style pharmacies through old receipts and documents from the National Library’s Koh Seow Chuan Collection.
 
-<img src="/images/Vol-14-issue-3/the-german-medicine-deity/Germany1.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/the-german-medicine-deity/Germany1.JPG">
 <div style="background-color: white;">The Medical Office at the junction of North Bridge and Bras Basah roads, c. 1900s. Founded in 1892 by German chemist Emil Kahlert, this was one of Singapore’s earliest Western-style pharmacies. Its history has been eclipsed by the better known Medical Hall, a landmark for many years on Battery Road and established at least two decades earlier by another German, a doctor named Christopher Trebing. <i>Courtesy of Foo Suan Dick and Foo Suan Wee.</i></div>
 
 Among the items donated to the National Library by the philanthropist and architect Koh Seow Chuan are documents dating between the 1920s and 40s from the Medical Office in Singapore. The Chinese name of this old-style Western dispensary, 德国神辳大藥房 (De guo shen nong da yao fang; or in simplified Chinese 德国神农大药房), literally translates as “German Medicine Deity Medical Office” – a name that sounds altogether incongruous as 德国 is the Chinese name for Germany, while 神辳 refers to the Chinese deity of medicine.
@@ -47,7 +47,7 @@ It took another few decades before Singapore followed suit. Narcotic substances 
 
 Interestingly, Western dispensaries back then in Singapore provided the kind of services that Chinese medical halls do today. At the beginning of the 20th century, the mass manufacturing of pharmaceuticals as an industry had only just begun and Western medical dispensaries prepared their own array of treatments, including most ointments, lotions, mixtures and even tablets, in the shop itself.[^6] As late as the 1960s, the pharmaceutical practical examination at the University of Singapore required students to make tablets on the spot. Going by an account of a student from that era, if the examiner managed to break the pill with his hands, the student would immediately fail.[^7]
 
-<img src="/images/Vol-14-issue-3/the-german-medicine-deity/Germany2.JPG">
+<img style="width: 350px; height: 470px;" src="/images/Vol-14-issue-3/the-german-medicine-deity/Germany2.JPG">
 <div style="background-color: white;">A 1930s colour poster advertising the services of the Medical Office. The design is typical of the Shanghai “picture calendar” style (<i>yue fen pai</i>; 月份牌) popular in China and overseas Chinese communities between the 1920s and 1940s. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 #### **The End of a (German) Era**
