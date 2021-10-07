@@ -94,30 +94,33 @@ Foo Chee Guan retired from practising medicine in 1985, at 74 years of age.[^20]
 [^1]:[Page 3 advertisements column 3: Miscellaneous: Ch. Trebing, M. D](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740829-1.2.18.3). (1874, August 29). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^2]:Keaughran, T.J. (1879). [*The Singapore directory for the Straits Settlements*](http://eresources.nlb.gov.sg/printheritage/detail/9879b97a-f840-4443-9452-3cbd165b388b.aspx) (p. 105). Singapore: Straits Times Office. Retrieved from BookSG.
 [^3]:[Dispute about a “Medical Office”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18971103-1.2.30). (1897, November 3). *The Straits Times*, p. 3; [*The “Medical Office” prosecution*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18971221-1.2.75). (1897, December 21). *The Singapore Free Press*, p. 392. Retrieved from NewspaperSG.
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
+[^4]:Freer, G. D. (1907, August 30). Appendix 7: Straits and Federated Malay Straits Government Medical School (p. 73). In *The Straits Settlements Medical Report for the Year 1906* (p. 73–75). (Microfilm no.: NL1062); List of persons licensed under “The Poisons Ordinance 1905”. (1908, February 21). *Straits Settlements Government Gazette* (p. 308). (Microfilm no.: NL1064).
+[^5]:Derks, H. (2012). [*History of the opium problem: The assault on the East, ca. 1600–1950*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202079145) (pp. 113–120). Leiden; Brill, Boston. (Call no.: RSEA 363.450950903 DER)
+[^6]:Lee, P. (Interviewer). (1988, May 22). [*Oral history interview with Dr Wong Heck Sing*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3fff3e4-115f-11e3-83d5-0050568939ad-OHC002024_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of cassette recording no. 002024/09/02, pp. 23–24]; Ng, B. (Interviewer). (2012, November 6). [*Oral history interview with George Yuille Caldwell*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1cdf54f0-1163-11e3-83d5-0050568939ad?keywords=George%20Yuille%20Caldwell&keywords-type=all) [Cassette recording no. 003776/38/18]; Ng, B. (Interviewer). (2012, November 29). [*Oral history interview with George Yuille Caldwell*](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1cdf54f0-1163-11e3-83d5-0050568939ad?keywords=George%20Yuille%20Caldwell&keywords-type=all) [Cassette recording no. 003776/38/20]. Retrieved from National Archives of Singapore website.
+[^7]:Personal communication with a graduate of the 1960s.
+[^8]:[Legislative Council: Medical Hall](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19150814-1.2.11). (1915, August 14). *The Malaya Tribune*, p. 5. Retrieved from NewspaperSG.
+[^9]:[Fiat Justitia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19160219-1.2.18). (1916, February 19). *The Malaya Tribune*, p. 8. Retrieved from NewspaperSG.
+[^10]:[Page 7 advertisements column 2: Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19160222-1.2.21.2). (1916, February 22). *The Malaya Tribune*, p. 7. Retrieved from NewspaperSG.
+[^11]:[By order of the custodian of enemy property](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180403-1.2.9.1). (1918, April 3). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.
+[^12]:[T.F. Hwang takes you down memory lane](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790324-1.2.100). (1979, March 24). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+[^13]:[Death of Mr. G.W. Crawford](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410929-1.2.60). (1941, September 29). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^14]:*The Singapore & Straits Directory* (p. 193). (1917). Singapore: Printed at the Mission Press. (Microfilm nos.: NL 185–1190)
+[^15]:[Deaths: Foo Khee How](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19311221-1.2.64). (1931, December 21). *The Malaya Tribune*, p. 8. Retrieved from NewspaperSG.
+[^16]:[73 and still going strong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841112-1.2.21.8). (1984, November 12). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+[^17]:[Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550526-1.2.99). (1955, May 26). *The Straits Times*, p. 6. Retrieved from NewspaperSG; Chan, J. (Interviewer). (2013, December 30). [*Oral history interview with Foo Tiang Fatt*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2e33ecad-0682-11e4-a330-0050568939ad?keywords=Foo%20Tiang%20Fatt&keywords-type=all) [Cassette recording no. 003840/11/1]. Retrieved from National Archives of Singapore website.
 [^18]:
 [^19]:
 [^20]:
 
+Koh, T.Y. (1981, August 15). Another Guardian Pharmacy store soon at Goldhill. The Business Times, p. 5; Subramanium, S. (1989, June 16). Watson’s to open its 11th outlet in Funan Centre next week. The Straits Times, p. 43. Retrieved from NewspaperSG.
+Oral history interview with Foo Tiang Fatt, 30 Dec 2013.
+The Straits Times, 12 Nov 1984, p. 11.
 
 
-Freer, G. D. (1907, August 30). Appendix 7: Straits and Federated Malay Straits Government Medical School (p. 73). In The Straits Settlements Medical Report for the Year 1906 (p. 73–75). (Microfilm no.: NL1062); List of persons licensed under “The Poisons Ordinance 1905”. (1908, February 21). Straits Settlements Government Gazette (p. 308). (Microfilm no.: NL1064).
-Derks, H. (2012). History of the opium problem: The assault on the East, ca. 1600–1950 (pp. 113–120). Leiden; Brill, Boston. (Call no.: RSEA 363.450950903 DER)
-Lee, P. (Interviewer). (1988, May 22). Oral history interview with Dr Wong Heck Sing [Transcript of cassette recording no. 002024/09/02, pp. 23–24]; Ng, B. (Interviewer). (2012, November 6). Oral history interview with George Yuille Caldwell [Cassette recording no. 003776/38/18]; Ng, B. (Interviewer). (2012, November 29). Oral history interview with George Yuille Caldwell [Cassette recording no. 003776/38/20]. Retrieved from National Archives of Singapore website.
-Personal communication with a graduate of the 1960s.
-Legislative Council: Medical Hall. (1915, August 14). The Malaya Tribune, p. 5. Retrieved from NewspaperSG.
-Fiat Justitia. (1916, February 19). The Malaya Tribune, p. 8. Retrieved from NewspaperSG.
-Page 7 advertisements column 2: Notice. (1916, February 22). The Malaya Tribune, p. 7. Retrieved from NewspaperSG.
+
+
+
+
+
+
+
