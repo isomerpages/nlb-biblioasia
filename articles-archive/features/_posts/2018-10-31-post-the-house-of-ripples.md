@@ -118,3 +118,7 @@ In 1918 and 1919, Ho Ho Biscuit Factory submitted alteration plans to convert Ri
 
 <img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples8.JPG">
 <div style="background-color: white;">The first and second storey plans as well as the longitudinal section of the River House redrawn from a 1919 Ho Ho Biscuit Factory building alteration plan. The floor plans show the <i>sidianjin</i> (四点金) or “four-points of gold” layout of the River House, with its two internal courtyards and a pair of <i>huoxiang</i> (火巷) or fire alleys on either side. The longitudinal section shows the <i>tailiang</i> style (抬梁式) roof truss system used for the building. The alteration plan also proposed to cover up the two internal courtyards. <i>Drawings by Chen Jingwen.</i></div>
+
+#### **Leaving a Legacy**
+
+In 1993, River House was restored – sadly with some of its original Teochew characteristics lost in the process – and rented out as a commercial space (it is currently occupied by the VLV restaurant and lounge).
