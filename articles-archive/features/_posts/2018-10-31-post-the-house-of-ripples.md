@@ -203,8 +203,8 @@ Trocki, C.A. (2007). [*Prince of pirates: The temenggongs and the development of
 [^2]:Pickering, W.A. (1880, January 26). Report of the Chinese Protectorate, Singapore, for the year 1879 (G.N. 154). [*Straits Settlements Government Gazette*](http://eresources.nlb.gov.sg/printheritage/detail/88d8a281-5397-4ed0-9533-4e71db0f2bc1.aspx)*, 14*(15), p. 228. Singapore: Government Printing Office. Retrieved from BookSG.
 [^3]:Pickering, W.A. (1881, April 29). Annual report on the Chinese Protectorate, Singapore, for the year 1880 (G.N. 192). [*Straits Settlements Government Gazette*](http://eresources.nlb.gov.sg/printheritage/detail/0d2fd393-5f68-422a-937e-2ecaf1128bf2.aspx)*, 15*(18), p. 357. Singapore: Government Printing Office. Retrieved from BookSG.
 [^4]:There was no one listed as the President of the Ghee Hok Society for 1887 in the “Table showing the Number of Chinese Secret Societies, registered under Section 3 of Ordinance No. XIX of 1869, with Situation of Meeting Houses of Members, &c., in Singapore.” Found in Pickering, W.A., (1888, April 27). Annual report on the Chinese Protectorate, Singapore, for the year 1887 (G.N. 261). [*Straits Settlements Government Gazette*](http://eresources.nlb.gov.sg/printheritage/detail/3f7804b8-5940-462c-8d9e-388a780f4553.aspx)*, 22*(20), p. 909. Singapore: Government Printing Office. Retrieved from BookSG.
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
+[^5]:Kim, Y.J., & Park S.J. (2017). Tectonic traditions in ancient Chinese architecture, and their development. *Journal of Asian Architecture and Building Engineering, 16*(1), p. 32. (Not available in NLB holdings)
+[^6]:Hermann Naeher was also spelled as Hermann Näher.
+[^7]:Tan Lock Shuan was also spelled as Tan Lok Shuan and Tan Lok Swan.
+[^8]:*Singapore and Straits directory for 1893*. (1893) (p. 161). Singapore: Printed at the Mission Press, p. 161. (Microfilm no.: NL1180)
+[^9]:Chua Tze Yong was also known as Chua Choo Yong, while Leow Chia Heng was sometimes spelled as Liau Chia Heng.
