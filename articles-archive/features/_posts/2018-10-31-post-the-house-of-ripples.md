@@ -26,7 +26,7 @@ River House occupied eight parcels of land, five of which form the grounds of th
 
 An 1863 photograph taken by Sachtler & Co. and another dating from the mid-1860s show the land being occupied by a two-storey masonry building and several smaller single-storey houses. Surrounding the structures were swampy grounds with houses on stilts clearly visible on the opposite river bank.
 
-<img style="width: 650px; height: 430px;" src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples3.JPG">
+<img style="width: 700px; height: 430px;" src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples3.JPG">
 <div style="background-color: white;">
 Aerial view of Boat Quay and Clarke Quay before the area was rejuvenated. River House is circled in white. <i>G.P. Reichelt Collection, courtesy of National Archives of Singapore.</i></div>
 
