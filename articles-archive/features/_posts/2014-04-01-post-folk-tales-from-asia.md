@@ -6,7 +6,10 @@ layout: post
 ---
 #### The Asian Children’s Literature collection at Woodlands Regional Library has some of the oldest and rarest children’s books from Asia. **Lynn Chua** highlights these treasures.
 
-A selection of works found in the Asian Children’s Literature (ACL) collection at the Woodlands Regional Library. The 23,000-volume collection includes rare books that date back to the early 1900s.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/acl_collection.jpg">
+A selection of works found in the Asian Children’s Literature (ACL) collection at the Woodlands Regional Library. The 23,000-volume collection includes rare books that date back to the early 1900s.</div>
 
 Asia is the world’s largest continent in terms of population and area. With 49 countries spanning from China to Indonesia from north to south and Syria to Japan from east to west and containing over 60 percent of the world’s population, the Asian continent is home to a diverse variety of cultures with rich traditions and multi-layered histories.
 
@@ -14,9 +17,15 @@ Literature and art are the most common forms of cultural expression, and Asia, n
 
 Carefully accumulated over time, the 23,000-volume ACL collection is housed at the Woodlands Regional Library. The collection of extremely rare books, some of which were produced in limited copies, offers a gateway into Asia’s rich cultures and its untold treasures. The collection is too large and disparate to document in a single article, so highlighted here are selected gems from India, Japan and China. It is hoped that these books will expose children to other cultures, piquing their curiosity and firing their imaginations.
 
-A peek into a page of The Night Life of Trees. One Gond legend featured is that of the Ganja plant and the Mahua tree. Believed to be humans before they were turned into trees, they were lovers who could not marry because they belonged to different castes. Refusing to be separated, the couple took their lives somewhere deep in the forest and were reborn as plants on the spot where they died.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/the_night_life_of_tree.jpg">
+A peek into a page of The Night Life of Trees. One Gond legend featured is that of the Ganja plant and the Mahua tree. Believed to be humans before they were turned into trees, they were lovers who could not marry because they belonged to different castes. Refusing to be separated, the couple took their lives somewhere deep in the forest and were reborn as plants on the spot where they died.</div>
 
-The copy of Princess Meera found in the ACL collection. Published in 1963, only 10 copies of the book are available in the world. 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/Princess_meera.jpg">
+The copy of Princess Meera found in the ACL collection. Published in 1963, only 10 copies of the book are available in the world. </div>
 
 #### **Indian Handmade Books**
 
@@ -30,11 +39,17 @@ The Night Life of Trees, published in 2012, is a handmade book that reflects the
 
 About 100 pulls of the screen are required to print each copy of the 32-page book. A print run of 2,000 copies would require about 200,000 pulls of the screen by hand, an indication of the immense time and effort to print these books. In addition, the books are hand-bound, a process that involves the punching of holes with a mallet and nail and hand-stitching the pages together.
 
-Every copy of The Night Life of Trees is numbered by hand. This particular book is the 546th copy out of 2,000.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/copy_of_the_night_life_of_tree.jpg">
+Every copy of The Night Life of Trees is numbered by hand. This particular book is the 546th copy out of 2,000.</div>
 
 Another example of a handmade book is Princess Meera. Published in 1963, this is one of the most treasured possessions in the Asian Children’s Literature collection. It is handwritten and bound by the author herself. Author Leela Row Dayal used line drawings to recount the story of Meerabai, a Hindu princess and mystical singer of sacred songs, based on Pandita Kshama Rao’s Sanskrit poem (the Sanskrit verses are included in their original form in the book). In the book, Princess Meerabai – who is known for her devotion to Lord Krishna – is born in the city of Khurkhi and hails from a noble kshatriya, or warrior family. 
 
-In the Dark is a traditional Sufi tale of wisdom. This book is calligraphed and screenprinted on handmade paper.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/in_the_dark.jpg">
+In the Dark is a traditional Sufi tale of wisdom. This book is calligraphed and screenprinted on handmade paper.</div>
 
 #### **Japanese Woodblock Prints**
 
@@ -42,19 +57,37 @@ llustrations of Japanese literature typically feature woodblock colour-printing 
 
 The beauty of woodblock prints can be seen in Otogi-Banashi, a bilingual title packaged as an old-style toybook, which combines concepts of learning with play and serves as educational toys for children as well. Relatively few specimens in good condition exist today as, in many cases, these toybooks were literally read to pieces.[^1]
 
-The uniqueness of Otogi-Banashi lies in its accompanying miniature books and the book-within-a-book format. The miniature books contain only illustrations. The bigger book provides captions to the miniature books and an introductory essay to the history of toybooks and woodblock prints.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/Otogi_Banashi_open.jpg">
+The uniqueness of Otogi-Banashi lies in its accompanying miniature books and the book-within-a-book format. The miniature books contain only illustrations. The bigger book provides captions to the miniature books and an introductory essay to the history of toybooks and woodblock prints.</div>
 
 The craft of toybooks were originally created as playthings for Japanese children. Three Japanese folktales are featured in this volume: The Old Man Who Makes the Flowers Bloom, Momotaro and KachiKachi Mountain. The binding and outer slipcover for this particular volume is made of chiyogami, a traditional Japanese paper characterised by its hand-stencilled and block-printed patterns. 
 
 For more recent works featuring woodblock prints, award-winning artist Keizaburo Tejima comes to mind. Born in 1935, he was one of the few Japanese artists working with the woodblock technique used in children’s books in the 1980s. His books were published in 1986 in North America where he gained recognition as a prominent author and illustrator. Owl Lake and Fox’s Dream were on the American Library Association (ALA)’s list of Children’s Notable Books, and the New York Times listed Fox’s Dream as one of 1987’s 10 best illustrated books. His books are still popular today.
 
-Otogi-Banashi. This specimen of an uncut single-sheet print found in OtogiBanashi includes the heading “Fairy tale pictures for a toy book”, with brief instructions in the left margin on how to turn the pictures into miniature books. The illustrations here and in the three miniature books contained in this single volume were printed by hand using the original wood blocks from the publisher’s own collection.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/Otogi_Banashi.jpg">
+<i>Otogi-Banashi</i>. This specimen of an uncut single-sheet print found in <i>OtogiBanashi</i> includes the heading “Fairy tale pictures for a toy book”, with brief instructions in the left margin on how to turn the pictures into miniature books. The illustrations here and in the three miniature books contained in this single volume were printed by hand using the original wood blocks from the publisher’s own collection.</div>
 
-The woodblocks used to print the omocha-e (toy pictures) in Otogi-Banashi were cut during the Taisho period (1912–1926). By a fortunate shift in location, the woodblocks escaped the bombing that destroyed most of Tokyo during World War II. Just before the war, the well-known printing house of Ise-tatsu was moved from Kanda to the historic area known as Yanaka. This was one of the few areas of Tokyo that escaped the bombings. As Hirose Tatsuguro remarks, it was a stroke of luck that the woodblocks of one of the last publishers of traditional children’s books and omocha-e survived. The war saw the loss of private collections of omocha-e owned by children. As few museums or libraries had thought of collecting these toy-books, their loss was irreparable. 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/omocha-e.jpg"></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/omocha-e_1_re.jpg">
+The woodblocks used to print the omocha-e (toy pictures) in Otogi-Banashi were cut during the Taisho period (1912–1926). By a fortunate shift in location, the woodblocks escaped the bombing that destroyed most of Tokyo during World War II. Just before the war, the well-known printing house of Ise-tatsu was moved from Kanda to the historic area known as Yanaka. This was one of the few areas of Tokyo that escaped the bombings. As Hirose Tatsuguro remarks, it was a stroke of luck that the woodblocks of one of the last publishers of traditional children’s books and omocha-e survived. The war saw the loss of private collections of omocha-e owned by children. As few museums or libraries had thought of collecting these toy-books, their loss was irreparable. </div>
 
-Often featured in flight with his expansive wings spanning entire two-page spreads, Father Owl’s magnificence is undeniable. As Father Owl swoops down on his unsuspecting prey, the scene is sharply framed by the angled white space at the bottom of the spread, creating an optical illusion by emphasising the exhilaration and immediacy of the catch. Dramatic woodcut illustrations and the clever use of diagonal lines in Owl Lake bring alive the story of an owl and its family’s search for food.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/father_owl.jpg">
+Often featured in flight with his expansive wings spanning entire two-page spreads, Father Owl’s magnificence is undeniable. As Father Owl swoops down on his unsuspecting prey, the scene is sharply framed by the angled white space at the bottom of the spread, creating an optical illusion by emphasising the exhilaration and immediacy of the catch. Dramatic woodcut illustrations and the clever use of diagonal lines in Owl Lake bring alive the story of an owl and its family’s search for food.</div>
 
-Three of Keizaburo Tejima’s books from the Asian Children’s Literature collection – Owl Lake, Woodpecker Forest and Fox’s Dream. One of Tejima’s purposes was to transport the reader vicariously to observe the wildlife of Hokkaido, his birthplace, and to showcase the island’s natural beauty through his works. He used a tinted woodblock technique which he sometimes supplemented with brush-on paint. This traditional form allows for a good deal of texture in solid blocks of colour as well as very strong, bold lines.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/Three_of_Keizaburo_Tejima.jpg">
+Three of Keizaburo Tejima’s books from the Asian Children’s Literature collection – Owl Lake, Woodpecker Forest and Fox’s Dream. One of Tejima’s purposes was to transport the reader vicariously to observe the wildlife of Hokkaido, his birthplace, and to showcase the island’s natural beauty through his works. He used a tinted woodblock technique which he sometimes supplemented with brush-on paint. This traditional form allows for a good deal of texture in solid blocks of colour as well as very strong, bold lines.</div>
 
 #### **China, Bookbinding and Papercuts**
 
@@ -62,9 +95,15 @@ No one would dispute the importance of books and the written word in China. Few 
 
 Accordion bookbinding is where the book is bound only to the front and back case boards with one long sheet between them, folded to demarcate pages. Accordion books were traditionally used as a vehicle for Buddhist sutras. For this reason, it was named “jingzhe zhuang,” which means “folded sutra binding”. By the late Tang Dynasty (AD 618–907), the accordion format of books had been widely adopted by Buddhists in China. Accordion bookbinding was said to have evolved from Chinese scrolls.[^2]
 
-Pang Tao (Flat Peaches): Eight Fairies Festival. The accordion book resembles a scroll when not folded. The transformation from Chinese scroll to accordion can be made by folding the scroll to form separate folios. Unlike the scroll books, which are awkward to unroll whenever one needs to examine a particular section of text, the accordion format makes it easier for the reader to sift through the text.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/Pang_Tao_long.jpg">
+Pang Tao (Flat Peaches): Eight Fairies Festival. The accordion book resembles a scroll when not folded. The transformation from Chinese scroll to accordion can be made by folding the scroll to form separate folios. Unlike the scroll books, which are awkward to unroll whenever one needs to examine a particular section of text, the accordion format makes it easier for the reader to sift through the text.</div>
 
-Pang Tao (Flat Peaches): Eight Fairies Festival (1900–1950) is one of the few titles in the ACL collection that is bound in an accordion format. Pang Tao is a Chinese folktale that portrays these legendary characters: Hsi Wang-Mu, renowned for her famously sweet and delicious pang tao (peaches), and the legendary Eight Immortals of Chinese mythology. This bilingual book (English and Chinese) tells of the origins of the immortals and how they embarked on their journeys towards deity-hood.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/Pang_Tao.jpg">
+Pang Tao (Flat Peaches): Eight Fairies Festival (1900–1950) is one of the few titles in the ACL collection that is bound in an accordion format. Pang Tao is a Chinese folktale that portrays these legendary characters: Hsi Wang-Mu, renowned for her famously sweet and delicious pang tao (peaches), and the legendary Eight Immortals of Chinese mythology. This bilingual book (English and Chinese) tells of the origins of the immortals and how they embarked on their journeys towards deity-hood.</div>
 
 The eight hand-coloured plates of the legendary immortals framed in silk brocades in Pang Tao (Flat Peaches): Eight Fairies Festival breathe life into the characters and story.
 
@@ -76,7 +115,10 @@ In Chinese literature, papercut illustrations are used to depict famous scenes f
 
 The books featured in this article offer just a tiny sampling of the treasures available in the Asian Children’s Literature collection. The stories contained within these books, when shared with our young generation, will help them understand their own ancestral cultures, traditions and values as well as that of the larger Asian world we live in.
 
-An ancient Chinese tale of six brothers, each with a special trait, Six Chinese Brothers is popular legend that has been written and told in many variations – in some versions, there are 10 brothers instead of six. 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/folktales/six_chinese_brother.jpg">
+An ancient Chinese tale of six brothers, each with a special trait, Six Chinese Brothers is popular legend that has been written and told in many variations – in some versions, there are 10 brothers instead of six. </div>
 
 <p style="font-size:15px;"><b>Lynn Chua</b> is a Senior Librarian with the National Library Board (NLB). She was in charge of developing the Asian Children’s Literature collection at the Woodlands Regional Library in 2012, and making the collection available to a range of users such as researchers, teachers, parents and students. She has also initiated programmes and led librarians in curating exhibitions that cultivated interest in reading and appreciation of Asian culture and heritage.</p>
 
