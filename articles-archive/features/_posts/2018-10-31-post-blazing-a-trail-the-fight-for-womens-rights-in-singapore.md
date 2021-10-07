@@ -9,7 +9,7 @@ layout: post
 <img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG">
 <div style="background-color: white;">In the 1959 Legislative Assembly general election, the People’s Action Party was the only political party to campaign openly on the “one man one wife” slogan. As voting had become compulsory by then, women came out in full force on polling day. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-“Forget for a time the rights and privileges which a dying custom and a faulty judgment bestows upon a selfish husband, and learn to think in terms of your duties as fathers. The destiny of millions of Chinese girls is in your hands. Deal with them as you would like your daughters to be dealt with”.[^1]
+“Forget for a time the rights and privileges which a dying custom and a faulty judgment bestows upon a selfish husband, and learn to think in terms of your duties as fathers. The destiny of millions of Chinese girls is in your hands. Deal with them as you would like your daughters to be dealt with.”[^1]
 
 <div style="text-align: right">Shirin Fozdar, Secretary-General, <br>Singapore Council of Women, 23 August 1954</div>
 
