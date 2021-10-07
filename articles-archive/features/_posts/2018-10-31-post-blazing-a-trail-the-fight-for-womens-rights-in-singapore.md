@@ -51,7 +51,7 @@ Closer to home, when Perwari, the Indonesian Women’s Association, marched to I
 
 Both Fozdar and the SCW’s second president Mrs George Lee (nee Tan Cheng Hsiang) liaised with women’s groups in Hong Kong, Vietnam, Cambodia, China and Britain and undertook lecture tours.[^10] At the 1958 Afro-Asian Conference in Colombo, Fozdar’s criticism of Singapore as an important stop in the trade of Asian women triggered press publicity and caused an uproar with government officials, including Singapore’s Chief Minister Lim Yew Hock.[^11] The SCW had been increasingly concerned about prostitution in Singapore as well as the rising number of girls and women from Hong Kong and China sold to brothel owners against their will.[^12]
 
-<img style="width: 650px; height: 390px;" src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail5.JPG">
+<img style="width: 650px; height: 390px;" src="/images/Vol-14-issue-3/blazing-a-trail/y.JPG">
 <div style="background-color: white;">Mrs George Lee (left) and Mrs Shirin Fozdar (right) of the Singapore Council of Women were invited by the China Women’s League to visit the People’s Republic of China. They met up with Vice-Premier Marshal Chen Yi in Beijing in 1958. <i>Image reproduced from Lam, J.L., & Chew, P.G.L. (1993). Voices & Choices: The Women’s Movement in Singapore (p.119). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI)</i></div>
 
 #### **In the Public Eye**
