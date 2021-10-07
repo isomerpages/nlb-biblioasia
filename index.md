@@ -31,7 +31,7 @@ sections:
       subtitle: highlights
       button: Read more
       url: /vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine
-      image: /images/vol-17-issue-3/ubin-shrine/Cover.jpg
+      image: /images/vol-17-issue-3/ubin-shrine/Cover2.jpg
       alt: sample of vaccination
       description: William L. Gibson makes many trips to Pulau Ubin to uncover the
         origin of the mysterious shrine.
@@ -42,6 +42,6 @@ sections:
         identity in interwar Singapore.
       button: Read more
       url: /vol-17/issue-3/oct-dec-2021/moderngirl
-      image: /images/vol-17-issue-3/modern-girl/Nanyang%20Girls2.jpg
+      image: /images/vol-17-issue-3/modern-girl/moderngirlhome2.jpg
       alt: sample of JBP
 ---
