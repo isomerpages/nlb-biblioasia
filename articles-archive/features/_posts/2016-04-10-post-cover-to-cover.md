@@ -120,6 +120,20 @@ When Radio Television Singapore was restructured as Singapore Broadcasting Corpo
 <br><br>
 	Launched in October 2015, PublicationSG is a dedicated online catalogue of all physical materials found in the Legal Deposit Collection, a rich archive of nearly 1.1 million items that is now available for public  access. Serials and magazines comprise 70 percent of the collection, with 25 percent being books and the rest made up of audiovisual materials and maps as well as ephemera. Members of the public can place reservations to view legal deposit items at $1.55 each at the information counters of the Lee Kong Chian Reference Library on levels 7–13 of the National Library Building, or via an online form at <a href="http://www.eservice.nlb.gov.sg/forms/publicationsg">eservice.nlb.gov.sg/forms/publicationsg</a>. The items can only be viewed at designated work stations in the reference library.</div>
 	
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-1/cover-to-cover/barbara.png">
+<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy & Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
+</div>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-1/cover-to-cover/zoe.png">
+	<b>Zoe Yeo</b> is an Associate Librarian with the National Library, Singapore. Her responsibilities include developing the National Library’s collections as well as providing content and reference services on topics relating to Singapore and Southeast Asia.
+</div>
+
+<a href="/vol-12/issue-1/apr-jun-2016/"><center>Back to Issue</center></a>
+	
 #### **REFERENCES**
 
 Arora, M. (Ed.). (2007). Small steps, giant leaps: A history of AWARE and the women’s movement in Singapore. Singapore: Association of Women for Action and Research. (Call no.: RSING 305.42095957 SMA)
@@ -138,6 +152,6 @@ Loong, M.L. (Ed.). (1988). On television in Singapore. Singapore: Singapore Broa
 
 Singapore Film Commission. (1999). Singapore film directory. Singapore: Singapore Film Commission. (Call no.: RSING 384.80255957 SFD)
 
-The ‘supporters’ of entertainment magazines. (1988, November 1). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[The ‘supporters’ of entertainment magazines](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881101-1.2.67.8.4). (1988, November 1). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-Toh, C. (2009, December 11). [8 Days every week, 1,000 times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20091211-2.2.110.4). Today, p. 102. Retrieved from NewspaperSG.
+Toh, C. (2009, December 11). [8 Days every week, 1,000 times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20091211-2.2.110.4). *Today*, p. 102. Retrieved from NewspaperSG.
