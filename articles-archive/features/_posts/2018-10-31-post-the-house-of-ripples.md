@@ -197,3 +197,14 @@ Survey Department, Singapore. (1958). [*Sub-Division No.9, Block No.1*](https://
 Trocki, C.A. (2007). [*Prince of pirates: The temenggongs and the development of Johor and Singapore, 1784–1885*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12909460) (pp. 101–102, 117–119). Singapore: NUS Press. (Call no.: RSING 959.5103 TRO)
 
 颜清湟. (2007). [从历史角度看海外华人社会变革](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918025) (p. 151). 新加坡: 新加坡青年书局. (Call no.: Chinese RSING 959.004951 YQH)
+
+#### **NOTES**
+[^1]:Choa Moh Choon was also spelled as Choah Moh Choon, Chua Moh Choon and Chuah Moh Choon. He was also known as Choa Cheng Moh. In addition, Lee Ah Hoey was spelled as Lee Ah Hoy and Li Ah Hoey.
+[^2]:Pickering, W.A. (1880, January 26). Report of the Chinese Protectorate, Singapore, for the year 1879 (G.N. 154). [*Straits Settlements Government Gazette*](http://eresources.nlb.gov.sg/printheritage/detail/88d8a281-5397-4ed0-9533-4e71db0f2bc1.aspx)*, 14*(15), p. 228. Singapore: Government Printing Office. Retrieved from BookSG.
+[^3]:Pickering, W.A. (1881, April 29). Annual report on the Chinese Protectorate, Singapore, for the year 1880 (G.N. 192). [*Straits Settlements Government Gazette*](http://eresources.nlb.gov.sg/printheritage/detail/0d2fd393-5f68-422a-937e-2ecaf1128bf2.aspx)*, 15*(18), p. 357. Singapore: Government Printing Office. Retrieved from BookSG.
+[^4]:There was no one listed as the President of the Ghee Hok Society for 1887 in the “Table showing the Number of Chinese Secret Societies, registered under Section 3 of Ordinance No. XIX of 1869, with Situation of Meeting Houses of Members, &c., in Singapore.” Found in Pickering, W.A., (1888, April 27). Annual report on the Chinese Protectorate, Singapore, for the year 1887 (G.N. 261). [*Straits Settlements Government Gazette*](http://eresources.nlb.gov.sg/printheritage/detail/3f7804b8-5940-462c-8d9e-388a780f4553.aspx)*, 22*(20), p. 909. Singapore: Government Printing Office. Retrieved from BookSG.
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
