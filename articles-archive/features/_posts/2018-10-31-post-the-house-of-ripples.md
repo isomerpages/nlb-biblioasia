@@ -176,24 +176,24 @@ Sim, S. (2002, March 28). [Mansion from the past](http://eresources.nlb.gov.sg/n
 
 *Singapore and Straits directory for 1893*. (1893) (p. 161). Singapore: Printed at the Mission Press, p. 161. (Microfilm no.: NL1180)
 
-Singapore. Building Control Division. (1918). Additions and alterations to building, conversion into godown (cancelled) [Building plan no.: 438/1918]. Retrieved from National Archives of Singapore website.
+Singapore. Building Control Division. (1918). [*Additions and alterations to building, conversion into godown (cancelled)*](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/efe95795-115c-11e3-83d5-0050568939ad) [Building plan no.: 438/1918]. Retrieved from National Archives of Singapore website.
 
-Singapore. Building Control Division. (1919). Additions and alterations to 13 Clarke Quay for conversion into a godown [Building plan no. 40/1919]. Retrieved from National Archives of Singapore website. Singapore. Municipality. (1921). Administration report of the Singapore municipality for the year 1920 (p. 9–H). Singapore: The Straits Times Press. (Microfilm no.: NL3410)
+Singapore. Building Control Division. (1919). [*Additions and alterations to 13 Clarke Quay for conversion into a godown*](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/efe945e4-115c-11e3-83d5-0050568939ad) [Building plan no. 40/1919]. Retrieved from National Archives of Singapore website. Singapore. Municipality. (1921). *Administration report of the Singapore municipality for the year 1920* (p. 9–H). Singapore: The Straits Times Press. (Microfilm no.: NL3410)
 
-Singapore. The statutes of the Republic of Singapore. (1987, March 30). Ngee Ann Kongsi (Incorporation) Ordinance (Cap. 370, 1985 Rev. ed.). Retrieved from Singapore Statutes Online website.
+Singapore. *The statutes of the Republic of Singapore. (1987, March 30). Ngee Ann Kongsi (Incorporation) Ordinance* (Cap. 370, 1985 Rev. ed.). Retrieved from Singapore Statutes Online website.
 
-Song, O.S. (2016). One hundred years’ history of the Chinese in Singapore: The annotated edition (p. 487). Singapore: National Library Board. Retrieved from BookSG.
+Song, O.S. (2016). [*One hundred years’ history of the Chinese in Singapore: The annotated edition*](http://eresources.nlb.gov.sg/printheritage/detail/90de4577-25a7-416f-8ec6-994f1536c40b.aspx) (p. 487). Singapore: National Library Board. Retrieved from BookSG.
 
-Straits Settlements Government Gazette. Singapore: Government Printing Office. Retrieved from BookSG.
+*Straits Settlements Government Gazette*. Singapore: Government Printing Office. Retrieved from BookSG.
 
-Straits Settlements: Office of Inspector-General of Police. (1872, October 12). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[Straits Settlements: Office of Inspector-General of Police](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18721012-1.2.34). (1872, October 12). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-Survey Department, Singapore. (1870–1890). Land divisions at Clarke Quay and North Boat Quay [Survey map] [Accession no.: SP000037]. Retrieved from National Archives of Singapore website.
+Survey Department, Singapore. (1870–1890). [*Land divisions at Clarke Quay and North Boat Quay*](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8ef3332-115c-11e3-83d5-0050568939ad) [Survey map] [Accession no.: SP000037]. Retrieved from National Archives of Singapore website.
 
-Survey Department, Singapore. (1958). Sub-Division No.9, Block No.1 [Survey map] [Accession no. SP002158]. Retrieved from National Archives of Singapore website.
+Survey Department, Singapore. (1958). [*Sub-Division No.9, Block No.1*](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f90c1899-115c-11e3-83d5-0050568939ad) [Survey map] [Accession no. SP002158]. Retrieved from National Archives of Singapore website.
 
-The late attack upon the Protector of Chinese. (1887, September 7). Straits Times Weekly Issue, p. 9. Retrieved from NewspaperSG.
+[The late attack upon the Protector of Chinese](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870907-1.2.23). (1887, September 7). *Straits Times Weekly Issue*, p. 9. Retrieved from NewspaperSG.
 
-Trocki, C.A. (2007). Prince of pirates: The temenggongs and the development of Johor and Singapore, 1784–1885 (pp. 101–102, 117–119). Singapore: NUS Press. (Call no.: RSING 959.5103 TRO)
+Trocki, C.A. (2007). [*Prince of pirates: The temenggongs and the development of Johor and Singapore, 1784–1885*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12909460) (pp. 101–102, 117–119). Singapore: NUS Press. (Call no.: RSING 959.5103 TRO)
 
-颜清湟. (2007). 从历史角度看海外华人社会变革 (p. 151). 新加坡: 新加坡青年书局. (Call no.: Chinese RSING 959.004951 YQH)
+颜清湟. (2007). [从历史角度看海外华人社会变革](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12918025) (p. 151). 新加坡: 新加坡青年书局. (Call no.: Chinese RSING 959.004951 YQH)
