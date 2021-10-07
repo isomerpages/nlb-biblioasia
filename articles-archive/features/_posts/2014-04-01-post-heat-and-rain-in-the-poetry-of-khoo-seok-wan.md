@@ -26,11 +26,11 @@ The intense heat was, of course, a notable feature of Sin Chew‘s tropical clim
 
 Bitterly hot for consecutive nights The heat evaporates all water in every corner Clear ripples shining the jade-green Nymphoides The bright moon scorching red
 
-苦热连宵甚，炎蒸遍水隅。 清波明翠，月灼红珠。[^5]
+苦热连宵甚，炎蒸遍水隅。 <br>清波明翠，月灼红珠。[^5]
 
 It seems like the summer has not ended The awe of the heat still accumulated within the island Half the river seems burning in red Thousands of trees enveloped in green
 
-犹未销残暑，炎威积岛中。半江红似烧，万树绿交笼。[^6]
+犹未销残暑，炎威积岛中。<br>半江红似烧，万树绿交笼。[^6]
 
 This helplessness resulting from an inescapable situation made the poet lose hope in the gods (老天) – “useless deity in heaven stimulating poetry” (天公无用把诗催) – the only consolation from the deity was probably the material that Khoo was able to use in his writing and poetry.[^7]
 
@@ -40,11 +40,11 @@ Apart from the heat, “wetness” also features prominently in Khoo’s poems. 
 
 In the midst of the rainy season The hot island is experiencing a spike in chill Seeing the starving rat jumping around the stove The freezing fly seeking refuge through the curtain
 
-殊方当雨季，炎岛陡寒增。 窥灶腾饥鼠，穿避冻蝇。[^8]
+殊方当雨季，炎岛陡寒增。<br> 窥灶腾饥鼠，穿避冻蝇。[^8]
 
 The wet season comes along with the winter moon A sudden change in weather in the hot island The swallows in the roof move seeking refuge The croaking frogs in the trees know the rain
 
-湿季随冬月，炎洲候忽差。 移巢避燕，知雨树鸣蛙。[^9]
+湿季随冬月，炎洲候忽差。 <br>移巢避燕，知雨树鸣蛙。[^9]
 
 Both poems are written in similar styles, highlighting the scale of the tropical downpours and their sudden onset, causing the usually hot island to experience a sharp drop in temperature. The reader is left with an acute sense of how uncomfortable this is and animals, which as the sensitive and observant poet shares, are not spared either – the rats, flies, swallows and frogs are described as hungry and freezing, dodging and croaking. 
 
@@ -60,11 +60,11 @@ The following two poems offer a more holistic post-rain view of Sin Chew:
 
 Winter in the hot island experiences rain for consecutive days When the fog sets apart the vegetation stands tall Under the dancing moon the jade-green coconut trees kept in close order The rainbow drinking from the stream leans over the long bridge Entering the smog without having the straw raincoat prepared Ploughing together by the side of the field I can plough barefooted Shall meet companions in times of flooding
 
-炎洲冬序雨连朝，宿雾开时草木骄。舞月翠椰排密阵，饮溪红霓卧长桥。渔蓑未办烟中入，耘杖相期陇畔招。脱足耕吾尚可，倘容沮溺遇同侨。[^19]
+炎洲冬序雨连朝，宿雾开时草木骄。<br>舞月翠椰排密阵，饮溪红霓卧长桥。<br>渔蓑未办烟中入，耘杖相期陇畔招。<br>脱足耕吾尚可，倘容沮溺遇同侨。[^19]
 
 The rain shows compassion after the prolonged heat Feeling the shower in front of the window Within the winding dock a lonely flower stands bright Through the cold smog a heron flies
 
-久热雨相怜，临窗一洒然。 孤花明曲坞，只破寒烟。[^20]
+久热雨相怜，临窗一洒然。<br>孤花明曲坞，只破寒烟。[^20]
 
 And amidst all this chill during and after the rain, it is alcohol that keeps the poet warm. He says, “How best to defend from the chill?/ Little sips of strong wine” (敌寒何物最？小酌有醇醪).[^21]
 
