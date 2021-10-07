@@ -181,3 +181,51 @@ Suratman Markasan. (2005). *[Bangsa Melayu Singapura dalam transformasi budayany
 Suratman Markasan. (2013). *[Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200191789)*. Singapura: Darus Andalus. (Call no.: Malay RSING 899.281 SUR)
 
 Suratman Markasan. (1987). *[Tiga warna bertemu: Antologi puisi penulis-penulis Singapura](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4532343)*. Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay RSING S899.230081305 TIG)
+
+#### **NOTES**
+
+[^1]: Other awards include: Montblanc-NUC Centre for the Arts Literary Award (1997), Anugerah Pujangga from UPSI in 2003. Singapore Malay Language Council accorded to him the highest literary award of Tun Seri Lanang in 1999.
+
+[^2]: Suratman Markasan. (2013). Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011. Singapura: Darus Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+[^3]: Siti Zainon Ismail. (2001). Potret isteri yang hilang (pp. 322–333). In Johar Buang (Ed.), 70 tahun Suratman Markasan. Singapore: Toko Buku Hj Hashim. (Call no.: Malay RSING 899.28024 TUJ)
+
+[^4]: His two novels, Suratman Markasan. (1998). Penghulu yang hilang segala-galanya. Shah Alam: Penerbit Fajar Bakti. (Call no.: Malay RSING 899.283 SUR) has been translated into English [Solehah Ishak (Translater). (2012). Penghulu. Singapore: Epigram Books. (Call no.: RSING 899.283 SUR]. His first novel Suratman Markasan. (1962). Ta'ada jalan keluar. Singapura: Marican. (Call no.: Malay RSING S899.2305 SUR) has been translated into English as [Mohd. Saleh Sani. (Translater). (1980). Conflict. Singapore: Marican. (Call no.: RSING S899.2305 SUR)]
+
+[^5]: Suratman Markasan. (1987). Tiga warna bertemu: Antologi puisi penulis-penulis Singapura. Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay RSING S899.230081305 TIG)
+
+[^6]: Ngugi’s reflection on this point is relevant in many developing societies: Writers, artists, musicians, intellectuals, and workers in ideas are the keepers of memory of a community. What fate awaits a community when its keepers or memory have been subjected to the West’s linguistics means of production and storage of memory…we have languages, but our keepers of memory feel that they cannot store knowledge, emotions, and intellectual in [their] languages. Ngugi, w.T. (2009). Something torn and new (p. 114). New York: BasicCivitas Books. (Not available in NLB holdings)
+
+[^7]: Read Suratman Markasan. (2005). Bangsa Melayu Singapura dalam transformasi budayanya. Singapore: Anuar Othman & Associates. (Call no.: Malay RSING 305.8992805957 SUR)
+
+[^8]: Suratman Markasan. (2013). Di balik bayang Tun Seri Lanang (h. 412). In Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+[^9]: Suratman, 2013, h. 414.
+
+[^10]: Suratman Markasan. (2013). Masih adakah melayu di sini? (h. 458). In Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+[^11]: Suratman Markasan. (2013). Jalan permulaan {Buat Suri, Lita & Tauliq) – The Journey begins (h.10). In Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+[^12]: Suratman, 2013, h. 10.
+
+[^13]: Suratman Markasan. (2013). Dalam perjalanan masa (h. 257). In Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+[^14]: Suratman Markasan. (2013). Balada seorang lelaki di depan patung Raffles (h.45). In Kembali ke akar Melayu kembali ke akar Islam. Jilid 1, Kumpulan puisi 1954 – 2011. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+[^15]: Suratman, 2013, h. 47.
+
+[^16]: Suratman, Dalam perjalanan masa, 2013, h. 257.
+
+[^17]: Suratman, Masih adakah melayu di sini?, 2013, h. 456.
+
+[^18]: Suratman Markasan. (2013). Mencari melayu yang melayu (h. 454). In Kembali Ke Akar Melayu Kembali Ke Akar Islam, Jilid 1, Kumpulan Puisi 1954–2011. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+[^19]: Suratman, Di balik bayang Tun Seri Lanang, 2013, h. 415.
+
+[^20]: Suratman, Mencari melayu yang melayu, 2013, h. 454.
+
+[^21]: Suratman Markasan. (2013). Cerita peribumi Singapura (h. 57). In Kembali Ke Akar Melayu Kembali Ke Akar Islam, Jilid 1, Kumpulan Puisi 1954–2011. Singapore: Darul Andalus. (Call no.: Malay RSING 899.281 SUR)
+
+[^22]: For instance read, Suratman Markasan. (1978). Kesusasteraan Melayu Singapura Dulu, sekarang dan masa depan, dalam Persidangan Penulis ASEAN (h. 299–324). Kuala Lumpur: DBP. (Not available in NLB holdings)
+
+[^23]: Suratman, Jalan permulaan (Buar Suri, Lita & Taufiq) – The Journey begins, 2013, h. 12. 
