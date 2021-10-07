@@ -84,3 +84,13 @@ In addition, the presence of a void between the plaque and the lintel is unique 
 
 #### **A Gambier Shed**
 
+By 1890, with the remaining owners – Teng Seng Chiang and Koh Hak Yeang – having passed away, River House came under the sole ownership of Lee Ah Hoey. As mentioned earlier, he had mortgaged the house in February 1890 to Hermann Naeher, a German who later became an honorary citizen of Lindau in southern Germany.6
+
+When Lee defaulted on the mortgage, the house was sold to Arthur William Stiven of Stiven & Co. on 20 June 1891. This took place before Lee was deported for the second time in October 1892. Stiven subsequently sold the property to Tan Lock Shuan (陈禄选) on 7 July 1896.7 It is unclear what the house was used for under Stiven’s ownership, although his company was listed as “Merchants and Commission Agents” in the 1893 *Singapore and Straits Directory*, with offices at Boat Quay and Battery Road.8
+
+Soon after Tan Lock Shuan acquired the property, he engaged an architect to design and build a gambier shed on the open space in front of the house. This open space made up the remaining three land parcels of River House, which were acquired by Lee Ah Hoey and Teng Seng Chiang in 1881. The shed remained a feature of River House for almost a century until it was demolished in the early 1990s when Clarke Quay was conserved as a heritage area.
+
+Tan was the *kangchu* (港主) or headman of Sungai Machap, a pepper and gambier plantation, in Johor. From the mid-1880s onwards, large tracts of land in Johor were cleared for pepper and gambier plantations, both of which were lucrative cash crops then. The harvested crops were shipped to Singapore for processing and transhipment before being exported to the rest of the world. Tan most probably used the shed at River House for the processing, storage and trading of gambier from his Johor plantations.
+
+<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples6.JPG">
+<div style="background-color: white;">A 1980s photo showing Tan Lock Shuan’s gambier shed built in front of River House. Tan was the <i>kangchu</i> (港主) or headman of Sungai Machap, a pepper and gambier plantation in Johor. The shed was demolished in the early 1990s when Clarke Quay was conserved as a heritage area. <i>Courtesy of Urban Redevelopment Authority.</i></div>
