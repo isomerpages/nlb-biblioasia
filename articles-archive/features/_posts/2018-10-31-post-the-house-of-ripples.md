@@ -7,7 +7,7 @@ layout: post
 #### **Martina Yeo** and **Yeo Kang** Shua piece together historical details of the little-known River House in Clarke Quay and discover that it was once a den for illicit triad activity.
 
 <img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">In 1993, River House was restored – sadly with some of its original Teochew characteristics lost in the process – and rented out as a commercial space. <i>Courtesy of Urban Redevelopment Authority.</i></div>
 
 Walking along the Singapore River – where godowns (warehouses) lining its banks were a ubiquitous sight in the 19th and 20th centuries – one building strikes the casual observer as being atypical. Designed in the southern Chinese style with a prominent tiled roof and a curved ridge embellished with ceramic shards, the building is stylistically different from the others in the area. This is River House along Clarke Quay, poetically known as “House of Ripples” or *Lianyi Xuan* (涟漪轩) in Chinese.
 
@@ -122,3 +122,78 @@ In 1918 and 1919, Ho Ho Biscuit Factory submitted alteration plans to convert Ri
 #### **Leaving a Legacy**
 
 In 1993, River House was restored – sadly with some of its original Teochew characteristics lost in the process – and rented out as a commercial space (it is currently occupied by the VLV restaurant and lounge).
+
+Despite its prominent location and intricate architecture, the fascinating story behind River House has been buried in the annals of Singapore’s history for too long. The evidence drawn from the National Archives of Singapore and other government agencies reveals a building with a somewhat dubious past, but nevertheless one that is intimately intertwined with the social, economic and political conditions of the time.
+
+The location and architecture of River House bear testimony to the importance of the Teochew community in Singapore’s early trade, and the refined building traditions they brought from southern China. For nearly 150 years, River House has witnessed the rise and decline of the Singapore River as a trading centre along with various communities who made and lost fortunes along this body of water. Today, River House continues to play a similar role as successive generations recreate their own meanings while the building is repurposed for new functions.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples9.jpg" style="width: 100px; height: 100px;">
+<b>Martina Yeo Huijun</b> is a researcher with the Architectural Conservation Lab at the Singapore University of Technology and Design.
+</div>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples10.jpg" style="width: 100px; height: 100px;">
+<b>Dr Yeo Kang Shua</b> is an Assistant Professor at the Singapore University of Technology and Design.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Deportation of Chinese towkays. (1887, October 17). Straits Times Weekly Issue, p. 14. Retrieved from NewspaperSG.
+
+Blythe, W. (1969). The impact of Chinese secret societies in Malaya: A historical study (pp. 80, 259–260). London: Oxford University Press. (Call no.: RSEA 366.09595 BLY)
+
+Choa, M.C. (1864). The memorial of Chuah Moh Choon of Singapore Chinese merchant [memorial]. Straits Settlements Records, W54, p. 238. (Microfilm no.: NL151)
+
+Dunman, T. (1865) Letter to the Secretary to Government Straits Settlements Singapore. Straits Settlements Records, W54, p. 286. (Microfilm no.: NL151)
+
+Friday, 15th March. (1872, March 28). Straits Times Overland Journal, p. 3. Retrieved from NewspaperSG.
+
+Friday, 16th September. (1870, September 23). Straits Times Overland Journal, p. 5. Retrieved from NewspaperSG.
+
+Kim, Y.J., & Park S.J. (2017). Tectonic traditions in ancient Chinese architecture, and their development. Journal of Asian Architecture and Building Engineering, 16(1), 31–38, p. 32. (Not available in NLB holdings)
+
+Knapp, R.G. (2010). Chinese houses of Southeast Asia: The eclectic architecture of sojourners & settlers (p. 72). Clarendon, Vt.: Tuttle. (Call no.: RSING 728.370959 KNA)
+
+李谷僧 & 林国璋. (1936). 新加坡端蒙学校三十周年纪念册 (pp. 14, 16). 新加坡: 新加坡端蒙学校. Available via PublicationSG.
+
+林远辉 & 张应龙. (2016). 新加坡马来西亚华侨史 (p. 392). 广东: 高等教育出版社. (Call no.: Chinese RSING 959.5004951 LYH)
+
+Local and general. (1892, October 6). Daily Advertiser, p. 3. Retrieved from NewspaperSG.
+
+M.A. Fawzi Mohd. Basri. (1984). Sistem Kangcu dalam sejarah Johor 1844–1917 (p. 51). Kuala Lumpur: Persatuan Sejarah Malaysia. (Not available in NLB holdings)
+
+Monday, 19th September. (1870, September 23). Straits Times Overland Journal, p. 5. Retrieved from NewspaperSG.
+
+National Heritage Board. (2006). Discover Singapore heritage trails (p. 25). Singapore: National Heritage Board. (Call no.: RSING 915.95704 DIS-[TRA])
+
+Settlement of Singapore Registry of Deeds. Private Property Deeds. Singapore: Singapore Land Authority. (Not available in NLB holdings)
+
+Sim, S. (2002, March 28). Mansion from the past. Today, p. 33. Retrieved from NewspaperSG.
+
+Singapore and Straits directory for 1893. (1893) (p. 161). Singapore: Printed at the Mission Press, p. 161. (Microfilm no.: NL1180)
+
+Singapore. Building Control Division. (1918). Additions and alterations to building, conversion into godown (cancelled) [Building plan no.: 438/1918]. Retrieved from National Archives of Singapore website.
+
+Singapore. Building Control Division. (1919). Additions and alterations to 13 Clarke Quay for conversion into a godown [Building plan no. 40/1919]. Retrieved from National Archives of Singapore website. Singapore. Municipality. (1921). Administration report of the Singapore municipality for the year 1920 (p. 9–H). Singapore: The Straits Times Press. (Microfilm no.: NL3410)
+
+Singapore. The statutes of the Republic of Singapore. (1987, March 30). Ngee Ann Kongsi (Incorporation) Ordinance (Cap. 370, 1985 Rev. ed.). Retrieved from Singapore Statutes Online website.
+
+Song, O.S. (2016). One hundred years’ history of the Chinese in Singapore: The annotated edition (p. 487). Singapore: National Library Board. Retrieved from BookSG.
+
+Straits Settlements Government Gazette. Singapore: Government Printing Office. Retrieved from BookSG.
+
+Straits Settlements: Office of Inspector-General of Police. (1872, October 12). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+Survey Department, Singapore. (1870–1890). Land divisions at Clarke Quay and North Boat Quay [Survey map] [Accession no.: SP000037]. Retrieved from National Archives of Singapore website.
+
+Survey Department, Singapore. (1958). Sub-Division No.9, Block No.1 [Survey map] [Accession no. SP002158]. Retrieved from National Archives of Singapore website.
+
+The late attack upon the Protector of Chinese. (1887, September 7). Straits Times Weekly Issue, p. 9. Retrieved from NewspaperSG.
+
+Trocki, C.A. (2007). Prince of pirates: The temenggongs and the development of Johor and Singapore, 1784–1885 (pp. 101–102, 117–119). Singapore: NUS Press. (Call no.: RSING 959.5103 TRO)
+
+颜清湟. (2007). 从历史角度看海外华人社会变革 (p. 151). 新加坡: 新加坡青年书局. (Call no.: Chinese RSING 959.004951 YQH)
