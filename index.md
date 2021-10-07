@@ -42,6 +42,6 @@ sections:
         identity in interwar Singapore.
       button: Read more
       url: /vol-17/issue-3/oct-dec-2021/moderngirl
-      image: /images/vol-17-issue-3/modern-girl/moderngirlhome.jpg
+      image: /images/vol-17-issue-3/modern-girl/Nanyang%20Girls2.jpg
       alt: sample of JBP
 ---
