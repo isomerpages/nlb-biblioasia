@@ -83,3 +83,56 @@ Khoo’s poetry transcends time and space and vividly brings the weather conditi
 <p style="font-size:15px;"><b>Ho Yi Kai</i> is a Senior Editor with World Scientific Publishing Co, Manager and Assistant Editor-in-Chief of World Century Publishing Corp, and the Assistant Director of Pioneers’ Memorial Hall. He obtained his BA from Peking University, and MA and PhD from Nanjing University. He was a researcher for the recent “Khoo Seok Wan: Poet and Reformist” exhibition organised by the National Library.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+丘菽园居士诗集》. Call Number: Chinese C811.07 CS 饶宗颐编 [Rao, Z.Y.B.].  (1994). [新加坡古事记](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84557118). 香港 : 中文大学出版社. (Call no.: Chinese RSING 959.57 JTI)
+
+Wise, M. (2008). *[Travellers' tales of old Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13084961)*. Singapore: Marshall Cavendish Editions. (Available via PublicationSG)
+
+National Environment Agency. (n.d). <i>Weather/Climate information</i>. Retrieved from National Environment Agency website. 
+
+National Library Board. (2021, March 22). *[Qiu Shuyuan biography](https://eresources.nlb.gov.sg/webarchives/2008-10-09 16:24:52.000/wp/details/http:/exhibitions.nlb.gov.sg/literarypioneers/writers/chinese/qiushuyuan/index.php)*. Retrieved from Web Archives Singapore.
+
+#### **NOTES**
+
+[^1]: National Environment Agency. (n.d). Weather/Climate information. Retrieved from National Environment Agency website. 
+
+[^2]: In Chinese
+
+[^3]: … it is the moist heat which makes it unpleasant (p. 125). (2008). In M. Wise, *[Travellers' tales of old Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13084961)*. Singapore: Marshall Cavendish Editions. (Available via PublicationSG)
+
+[^4]:《二月七日早,枕上闻雨》, 见《丘菽园居士诗集》二编, 页3。
+
+[^5]: 《二月十六夜,东滨苦热》, 同上。
+
+[^6]: 《八月苦热》, 见《丘菽园居士诗集》二编, 页26。
+
+[^7]: 《苦热不雨,戏为俳体》, 见《丘菽园居士诗集》二编, 页19–20。
+
+[^8]: 《岛上雨季》其一 , 见《丘菽园居士诗集》初编卷六,  页11。
+
+[^9]: 《湿季》其一 , 见《丘菽园居士诗集》二编, 页46。
+
+[^1]:《岛上雨后,极目写怀》, 见《丘菽园居士诗集》初编卷六, 页14。
+
+[^11]:《连番雨》, 见《丘菽园居士诗集》二编, 页57。 [^12]:《冬首雨》, 见《丘菽园居士诗集》初编卷六, 页16。[^13]:《晴雨即事》, 见《丘菽园居士诗集》二编, 页22。 [^14]:《晴雨同时, 触目述怀,索痴禅开士和》, 同上, 页23。[^15]:《雨后极目》, 见《丘菽园居士诗集》初编卷二,  页18。[^16]:《夏日雨霁》, 见《丘菽园居士诗集》二编, 页7–8。
+
+[^17]:《雨过即事》(自注:在禧街振南社作), 见《丘菽园居士诗集》初编卷四, 页4–5。
+
+[^18]:《积雨》, 见《丘菽园居士诗集》初编卷二, 页11。
+
+[^19]:《岛上雨后,极目写怀》, 见《丘菽园居士诗集》初编卷六,  页14。
+
+[^20]:《雨后感咏》其一, 见《丘菽园居士诗集》二编, 页42。 [^21]:《敌寒》, 同上,页57。
+
+[^22]: 《小园雨过,起视荷竹,生趣盎然,漫赋一首》, 见《丘菽园居士诗集》初编卷二, 页11。
+
+[^23]: 见《丘菽园居士诗集》二编, 页7–8。
+
+[^24]: 《对雨作》, 同上, 页52。
+
+[^25]:《久热得雨》, 见《丘菽园居士诗集》二编, 页3–4。
+
+[^26]: 同上, 页15。
+
