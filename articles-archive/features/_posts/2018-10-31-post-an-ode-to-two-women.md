@@ -100,7 +100,7 @@ Catherine Lim’s stories were published in a book entitled *Little Ironies* in 
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde3.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-3/an-ode-to-two-women/R.jpg" style="width: 100px; height: 100px;">
 <b>Robert Yeo</b>, born 1940, is best known for his poems and plays published in <i>The Singapore Trilogy</i> (plays) and <i>The Best of Robert Yeo</i> (poems). He has also written in other genres, including essays, libretto for opera and edited anthologies of Singapore short stories. His most recent work is the play <i>The Eye of History</i> (2016). Volume 1 of his memoir, <i>Routes: A Singaporean Memoir 1940–75</i>, was published in 2011.
 </div>
 
