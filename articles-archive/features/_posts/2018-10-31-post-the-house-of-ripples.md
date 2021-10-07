@@ -142,27 +142,27 @@ The location and architecture of River House bear testimony to the importance of
 
 #### **REFERENCES**
 
-Deportation of Chinese towkays. (1887, October 17). Straits Times Weekly Issue, p. 14. Retrieved from NewspaperSG.
+[Deportation of Chinese towkays](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18871017-1.2.43). (1887, October 17). *Straits Times Weekly Issue*, p. 14. Retrieved from NewspaperSG.
 
-Blythe, W. (1969). The impact of Chinese secret societies in Malaya: A historical study (pp. 80, 259–260). London: Oxford University Press. (Call no.: RSEA 366.09595 BLY)
+Blythe, W. (1969). [*The impact of Chinese secret societies in Malaya: A historical study*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=561411) (pp. 80, 259–260). London: Oxford University Press. (Call no.: RSEA 366.09595 BLY)
 
-Choa, M.C. (1864). The memorial of Chuah Moh Choon of Singapore Chinese merchant [memorial]. Straits Settlements Records, W54, p. 238. (Microfilm no.: NL151)
+Choa, M.C. (1864). The memorial of Chuah Moh Choon of Singapore Chinese merchant [memorial]. *Straits Settlements Records*, W54, p. 238. (Microfilm no.: NL151)
 
-Dunman, T. (1865) Letter to the Secretary to Government Straits Settlements Singapore. Straits Settlements Records, W54, p. 286. (Microfilm no.: NL151)
+Dunman, T. (1865) Letter to the Secretary to Government Straits Settlements Singapore. *Straits Settlements Records*, W54, p. 286. (Microfilm no.: NL151)
 
-Friday, 15th March. (1872, March 28). Straits Times Overland Journal, p. 3. Retrieved from NewspaperSG.
+[Friday, 15th March](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18720328-1.2.14). (1872, March 28). *Straits Times Overland Journal*, p. 3. Retrieved from NewspaperSG.
 
-Friday, 16th September. (1870, September 23). Straits Times Overland Journal, p. 5. Retrieved from NewspaperSG.
+[Friday, 16th September](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18700923-1.2.14.6). (1870, September 23). *Straits Times Overland Journal*, p. 5. Retrieved from NewspaperSG.
 
-Kim, Y.J., & Park S.J. (2017). Tectonic traditions in ancient Chinese architecture, and their development. Journal of Asian Architecture and Building Engineering, 16(1), 31–38, p. 32. (Not available in NLB holdings)
+Kim, Y.J., & Park S.J. (2017). Tectonic traditions in ancient Chinese architecture, and their development. *Journal of Asian Architecture and Building Engineering, 16*(1), 31–38, p. 32. (Not available in NLB holdings)
 
-Knapp, R.G. (2010). Chinese houses of Southeast Asia: The eclectic architecture of sojourners & settlers (p. 72). Clarendon, Vt.: Tuttle. (Call no.: RSING 728.370959 KNA)
+Knapp, R.G. (2010). [*Chinese houses of Southeast Asia: The eclectic architecture of sojourners & settlers*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13370726) (p. 72). Clarendon, Vt.: Tuttle. (Call no.: RSING 728.370959 KNA)
 
 李谷僧 & 林国璋. (1936). 新加坡端蒙学校三十周年纪念册 (pp. 14, 16). 新加坡: 新加坡端蒙学校. Available via PublicationSG.
 
-林远辉 & 张应龙. (2016). 新加坡马来西亚华侨史 (p. 392). 广东: 高等教育出版社. (Call no.: Chinese RSING 959.5004951 LYH)
+林远辉 & 张应龙. (2016). [新加坡马来西亚华侨史](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202719923) (p. 392). 广东: 高等教育出版社. (Call no.: Chinese RSING 959.5004951 LYH)
 
-Local and general. (1892, October 6). Daily Advertiser, p. 3. Retrieved from NewspaperSG.
+[Local and general](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18921006-1.2.11). (1892, October 6). Daily Advertiser, p. 3. Retrieved from NewspaperSG.
 
 M.A. Fawzi Mohd. Basri. (1984). Sistem Kangcu dalam sejarah Johor 1844–1917 (p. 51). Kuala Lumpur: Persatuan Sejarah Malaysia. (Not available in NLB holdings)
 
