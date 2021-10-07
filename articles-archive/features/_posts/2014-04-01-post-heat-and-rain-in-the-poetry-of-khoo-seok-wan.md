@@ -10,13 +10,13 @@ Khoo Seok Wan (1874–1941), the multi-talented Chinese scholar and poet is cons
 
 Born in Haicheng in Fujian Province, China, Khoo settled in Singapore with his parents when he was eight years old. His father, Khoo Cheng Tiong, who was in his twenties when he arrived in Singapore, was a successful rice merchant and a prominent community leader.
 
-Educated in the Confucian tradition, Khoo Seok Wan returned to his hometown in China when he was 15 to prepare for the all-important Chinese imperial examinations. In 1894, he passed the provincial level of the examinations and attained the level of juren (举人), which meant that he qualified to sit for the next level conducted by the central government in Beijing the following year. However, Khoo was unsuccessful in his attempt, and in 1896 he returned to Singapore somewhat disheartened.
+Educated in the Confucian tradition, Khoo Seok Wan returned to his hometown in China when he was 15 to prepare for the all-important Chinese imperial examinations. In 1894, he passed the provincial level of the examinations and attained the level of <i>juren</i> (举人), which meant that he qualified to sit for the next level conducted by the central government in Beijing the following year. However, Khoo was unsuccessful in his attempt, and in 1896 he returned to Singapore somewhat disheartened.
 
-Khoo and his siblings came into their inheritance after their father’s death and Khoo stayed in Singapore for good. Like most Chinese literati of the day, Khoo led an extravagant lifestyle during his early years, enjoying life’s many pleasures. Besides managing the family business, he advocated the promotion of culture and education, founding poetic societies such as Lize and Huiyin, and establishing the Singapore Chinese Girls’ School with prominent contemporaries such as Lim Boon Keng and Song Ong Siang. He even edited the Thousand Character Classics: A New Version (《新出千字文》), probably the earliest existing original Chinese preschool text in Singapore.
+Khoo and his siblings came into their inheritance after their father’s death and Khoo stayed in Singapore for good. Like most Chinese literati of the day, Khoo led an extravagant lifestyle during his early years, enjoying life’s many pleasures. Besides managing the family business, he advocated the promotion of culture and education, founding poetic societies such as Lize and Huiyin, and establishing the Singapore Chinese Girls’ School with prominent contemporaries such as Lim Boon Keng and Song Ong Siang. He even edited the <i>Thousand Character Classics: A New Version</i> (《新出千字文》), probably the earliest existing original Chinese preschool text in Singapore.
 
-As a newspaperman and journalist, he founded the newspaper Thien Nan Shin Pao (《天南新报》) in 1898, became chief editor for Cheng Nam Jit Poh (《振南日报》) in 1912, and was appointed editor for the literary supplement of Sin Chew Jit Poh (星洲日报) in 1929. Politically, Khoo supported the reformists, in particular, Kang Youwei and Liang Qichao, contributing financially and helping out where he could.
+As a newspaperman and journalist, he founded the newspaper <i>Thien Nan Shin Pao</i> (《天南新报》) in 1898, became chief editor for <i>Cheng Nam Jit Poh</i> (《振南日报》) in 1912, and was appointed editor for the literary supplement of <i>Sin Chew Jit Poh</i> (星洲日报) in 1929. Politically, Khoo supported the reformists, in particular, Kang Youwei and Liang Qichao, contributing financially and helping out where he could.
 
-As a result of his extravagant ways Khoo went bankrupt when he was 34; this was a major turning point in his life and led him to live the rest of his life frugally. As the Chinese poetry pioneer of Nanyang, Khoo had written more than a thousand poems in the traditional form. His works include Notes of Khoo Seok Wan《菽园赘谈》, Collected Poems of Xiao Hong Sheng《啸虹生诗钞》, Five Hundred Stones: A Collection of Literary Criticism《五百石洞天 挥麈》, including his poetry collection Collected Poems of Khoo Seok Wan《丘菽园居士诗集》 edited by his family. 
+As a result of his extravagant ways Khoo went bankrupt when he was 34; this was a major turning point in his life and led him to live the rest of his life frugally. As the Chinese poetry pioneer of Nanyang, Khoo had written more than a thousand poems in the traditional form. His works include <i>Notes of Khoo Seok Wan</i>《菽园赘谈》, <i>Collected Poems of Xiao Hong Sheng</i>《啸虹生诗钞》, <i>Five Hundred Stones: A Collection of Literary Criticism</i>《五百石洞天 挥麈》, including his poetry collection <i>Collected Poems of Khoo Seok Wan</i>《丘菽园居士诗集》 edited by his family. 
 
 #### **Tropical Heat**
 
@@ -24,11 +24,11 @@ Singapore, known as “Sin Chew” or “Xingzhou” (星洲) in Khoo’s day, i
 
 The intense heat was, of course, a notable feature of Sin Chew‘s tropical climate, and Singapore was thus given the moniker “Yanzhou” (炎洲), meaning “hot island”. The heat was unbearable, especially in the absence of rain and modern conveniences such as electric fans and air-conditioning that we enjoy today. The Westerners living in Singapore felt the oppression of the weather, as did Khoo.[^3] He felt trapped and helpless as expressed in his poems, “nowhere to hide in the flaming heat”,[^4] using hyperboles such as the “boiling sea”, “scorching moon” and “burning river” to bring his experience to life:
 
-Bitterly hot for consecutive nights The heat evaporates all water in every corner Clear ripples shining the jade-green Nymphoides The bright moon scorching red
+Bitterly hot for consecutive nights <br>The heat evaporates all water in every corner <br>Clear ripples shining the jade-green Nymphoides <br>The bright moon scorching red
 
 苦热连宵甚，炎蒸遍水隅。 <br>清波明翠，月灼红珠。[^5]
 
-It seems like the summer has not ended The awe of the heat still accumulated within the island Half the river seems burning in red Thousands of trees enveloped in green
+It seems like the summer has not ended <br>The awe of the heat still accumulated within the island <br>Half the river seems burning in red <br>Thousands of trees enveloped in green
 
 犹未销残暑，炎威积岛中。<br>半江红似烧，万树绿交笼。[^6]
 
@@ -38,11 +38,11 @@ This helplessness resulting from an inescapable situation made the poet lose hop
 
 Apart from the heat, “wetness” also features prominently in Khoo’s poems. Let’s take a look at his description of the wet season:
 
-In the midst of the rainy season The hot island is experiencing a spike in chill Seeing the starving rat jumping around the stove The freezing fly seeking refuge through the curtain
+In the midst of the rainy season <br>The hot island is experiencing a spike in chill <br>Seeing the starving rat jumping around the stove <br>The freezing fly seeking refuge through the curtain
 
 殊方当雨季，炎岛陡寒增。<br> 窥灶腾饥鼠，穿避冻蝇。[^8]
 
-The wet season comes along with the winter moon A sudden change in weather in the hot island The swallows in the roof move seeking refuge The croaking frogs in the trees know the rain
+The wet season comes along with the winter moon <br>A sudden change in weather in the hot island <br>The swallows in the roof move seeking refuge <br>The croaking frogs in the trees know the rain
 
 湿季随冬月，炎洲候忽差。 <br>移巢避燕，知雨树鸣蛙。[^9]
 
@@ -58,11 +58,11 @@ In fact, Khoo’s poems about the weather are at their best when he writes about
 
 The following two poems offer a more holistic post-rain view of Sin Chew:
 
-Winter in the hot island experiences rain for consecutive days When the fog sets apart the vegetation stands tall Under the dancing moon the jade-green coconut trees kept in close order The rainbow drinking from the stream leans over the long bridge Entering the smog without having the straw raincoat prepared Ploughing together by the side of the field I can plough barefooted Shall meet companions in times of flooding
+Winter in the hot island experiences rain for consecutive days <br>When the fog sets apart the vegetation stands tall <br>Under the dancing moon the jade-green coconut trees kept in close order <br>The rainbow drinking from the stream leans over the long bridge <br>Entering the smog without having the straw raincoat prepared <br>Ploughing together by the side of the field <br>I can plough barefooted <br>Shall meet companions in times of flooding
 
 炎洲冬序雨连朝，宿雾开时草木骄。<br>舞月翠椰排密阵，饮溪红霓卧长桥。<br>渔蓑未办烟中入，耘杖相期陇畔招。<br>脱足耕吾尚可，倘容沮溺遇同侨。[^19]
 
-The rain shows compassion after the prolonged heat Feeling the shower in front of the window Within the winding dock a lonely flower stands bright Through the cold smog a heron flies
+The rain shows compassion after the prolonged heat <br>Feeling the shower in front of the window <br>Within the winding dock a lonely flower stands bright <br>Through the cold smog a heron flies
 
 久热雨相怜，临窗一洒然。<br>孤花明曲坞，只破寒烟。[^20]
 
