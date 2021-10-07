@@ -61,7 +61,6 @@ The life of a trainee at the Farm School is depicted through photos in this book
 <div style="background-color: white;"><b>Menternak Kambing | Rearing of Goats (1965)</b><br>
 Goat farms in 1960s Singapore reared goats ranging from local species to breeds imported from Switzerland and India. Booklets published by the Primary Production Department provided farmers with tips on taking care of different types of goats, including breeding methods, feeding and the proper ways of housing the goats.</div>
 
-<br>
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 <b>WHAT IS LEGAL DEPOSIT?</b>
 <br><br>
