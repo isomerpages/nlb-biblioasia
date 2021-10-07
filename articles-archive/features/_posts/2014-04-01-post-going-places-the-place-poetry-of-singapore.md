@@ -36,7 +36,7 @@ Old images and videos of Singapore provided by the National Archives Singapore (
 
 While the visual aspect of the exhibition may invoke feelings of displacement and a melancholic loss of history and the familiar physical identifiers of space, “Going Places” hopes to inspire Singaporeans to remember the city as they know it and to create new memories of the Singapore we experience today.
 
-Chinatown in 1998. Image courtesy of Terence Heng.
+Chinatown in 1998. <i>Image courtesy of Terence Heng.</i>
 
 |Going Places” is held at the Print & Film Gallery at The Arts House between 26 March and 18 May 2014.|
 
