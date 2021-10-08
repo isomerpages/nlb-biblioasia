@@ -18,7 +18,7 @@ permalink: /editors-picks/literature
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malay-magic" target="_blank">Finding Magic Everywhere</a>
 <p>According to Farish A. Noor, many of the beliefs and rituals described in Walter Skeat’s book Malay Magic may not be considered particularly “magical”.</p> 
- <img style="width:100%;"src="/images/Vol-17-issue-1/magic/malaymagic.png">  
+ <img style="width:500px;"src="/images/Vol-17-issue-1/magic/malaymagic.png">  
  <hr clear="left">
  
  #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur" target="_blank"> The Borobudur, Mysterious Gold Plates and Singing Maps</a>
