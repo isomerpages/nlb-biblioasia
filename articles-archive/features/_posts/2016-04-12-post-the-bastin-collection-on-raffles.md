@@ -92,7 +92,7 @@ Microfilm copies are also available to library users at level 11 of the Lee Kong
 
 [^11]:Raffles, T.S (1830). *[The history of Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201909379)*. London: J. Murray, 1830. (Call no.: RRARE 992.2 RAF)
 
-[^12]:Raffles, T.S. (1816). On the Maláyu nation: With a translation of its maritime institutions. Calcutta: Asiatick Society. (Call no.: RRARE 959.503 RAF)
+[^12]:Raffles, T.S. (1816). *[On the Maláyu nation: With a translation of its maritime institutions](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201923575)*. Calcutta: Asiatick Society. (Call no.: RRARE 959.503 RAF)
 
 [^13]:Asiatick researches, or, Transactions of the society instituted in Bengal, for inquiring into the history and antiquities, the arts, sciences, and literature of Asia. (1788–1839). Calcutta: Printed and sold by Manuel Cantopher. (Call no.: RRARE 950.05 AR)
 
