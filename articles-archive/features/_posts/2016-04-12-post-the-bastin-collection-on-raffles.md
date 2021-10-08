@@ -112,7 +112,7 @@ Microfilm copies are also available to library users at level 11 of the Lee Kong
 
 [^21]:Raffles, S. (1830). *[Memoir of the life and public services of Sir Thomas Stamford Raffles, F.R.S. &c., particularly in the government of Java, 1811–1816, and of Bencoolen and its dependencies, 1817–1824: With details of the commerce and resources of the Eastern Archipelago and selections from his correspondence](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx)*. London: John Murray. Retrieved from BookSG.
 
-[^22]:Raffles, S. (1820, April 8). Autograph letters from Lady Raffles to Raffles’ cousin, Reverend Dr. Thomas Raffles. (Call no.: RRARE 959.5703092 RAF)
+[^22]:Raffles, S. (1820, April 8). *[Autograph letters from Lady Raffles to Raffles’ cousin, Reverend Dr. Thomas Raffles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202100119)*. (Call no.: RRARE 959.5703092 RAF)
 
 [^23]:Marsden, W. (1838). A brief memoir of the life and writings of the late William Marsden written by himself: With notes from his correspondence. London: Printed by J. L. Cox. (Call no.: RRARE 941.0730924 MAR; Microfilm no.: NL18261)
 
