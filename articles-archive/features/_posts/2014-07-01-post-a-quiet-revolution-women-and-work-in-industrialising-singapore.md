@@ -6,11 +6,11 @@ layout: post
 ---
 #### The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. **Janice Loo** examines the impact that women have had on the nation’s development.
 
-Women washing clothes at the kampong’s standpipe in the 1960s. Before Independence, women were mostly engaged in domestic activities. MITA collection, courtesy of National Archives of Singapore.
+Women washing clothes at the kampong’s standpipe in the 1960s. Before Independence, women were mostly engaged in domestic activities. <i>MITA collection, courtesy of National Archives of Singapore.</i>
 
 It was 3 July 1959. Chooi Yong was working at the lathe machine when voices and footsteps along the corridor signaled their approach. She hurriedly smoothed her hair and straightened her apron just as the men entered the cabinet-making room. Incidentally, the first Cabinet of Singapore had been sworn in just a month earlier after the People’s Action Party (PAP) swept the 1959 general election. The newly minted Deputy Prime Minister Toh Chin Chye and the Minister for Education Yong Nyuk Lin were inspecting the Singapore Polytechnic, where first-year student Tan Chooi Yong was the only girl in the Engineering Department. 
 
-The next day, the Singapore Free Press reported the visit with an accompanying photograph of the education minister speaking to an intently listening Chooi Yong. “The new Singapore Government wants girls to put away their needlework, put on overalls and dungarees, and come forward to do practical work alongside the men,”[^1] urged the article’s opening line. The appeal for women to “end their worn-out role as ‘namby-pamby’[^2] people and join the workers”[^3] continued to resound in the years ahead as the island state, which catapulted to independence on 9 August 1965, struggled to find its economic footing.
+The next day, the <i>Singapore Free Press</i> reported the visit with an accompanying photograph of the education minister speaking to an intently listening Chooi Yong. “The new Singapore Government wants girls to put away their needlework, put on overalls and dungarees, and come forward to do practical work alongside the men,”[^1] urged the article’s opening line. The appeal for women to “end their worn-out role as ‘namby-pamby’[^2] people and join the workers”[^3] continued to resound in the years ahead as the island state, which catapulted to independence on 9 August 1965, struggled to find its economic footing.
 
 Singapore’s founding fathers take pride of place in the canonical narrative of the country’s success. However, Singapore’s industrial takeoff in the late 1960s would not have been as brisk if not for its working mothers, wives and daughters, whose labour proved instrumental.[^4]
 
