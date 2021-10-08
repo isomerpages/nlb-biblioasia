@@ -106,7 +106,7 @@ Microfilm copies are also available to library users at level 11 of the Lee Kong
 
 [^18]:*[Malayan miscellanies.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4316229)* (1822). Bencoolen: Sumatran Mission Press. (Call no.: RRARE 991 MAL)
 
-[^19]:Java government gazette. (1812–1816). Batavia: Printed by A. H. Hubbard at the Govt. Press. (Call no.: RRARE 959.82 JAV)
+[^19]:*[Java government gazette.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4197224)* (1812–1816). Batavia: Printed by A. H. Hubbard at the Govt. Press. (Call no.: RRARE 959.82 JAV)
 
 [^20]:Zoological Society of London. (1825). Short prospectus and original list of members of the Zoological Society of London, May 1825 with the names in manuscript in the hand of Sir Stamford Raffles, founder and first president of the society. [London: Author]. (Call no.: RRARE 590.73241 ZOO)
 
