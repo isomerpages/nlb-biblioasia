@@ -15,5 +15,3 @@ permalink: /editors-picks/medicine
 <p>The colony experienced its first cholera outbreak in 1841, and several epidemics in the decades thereafter. Bonny Tan examines how the battle against this deadly illness was won.</p> 
 <img style="width:100%;"src="/images/Vol-16-issue-2/cholera/monstrous.jpg">  
 <hr clear="left">
-
-
