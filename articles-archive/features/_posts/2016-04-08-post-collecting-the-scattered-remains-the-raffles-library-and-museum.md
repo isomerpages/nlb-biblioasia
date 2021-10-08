@@ -58,7 +58,7 @@ The objective of the Reference Library was “to collect valuable works relating
 
 The move back to the Raffles Institution building in 1876 presented the library with an opportunity to re-catalogue its books. Departing from the six-genre arrangement, the books were now organised into 24 subjects, each represented by a letter of the English alphabet. The letter “Q”, inexplicably, was the shelf mark for “Works on Singapore, the Straits Settlements and the Eastern Archipelago”.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-1/raffles-library-and-museum/05_raffleslibrary.bmp">Rules of the Raffles Library, 8 March 1882. <i>The National Library’s Rare Materials Collection.</i></div>
+<div style="background-color: white;"><img style="width:430px" src="/images/Vol-12-issue-1/raffles-library-and-museum/05_raffleslibrary.bmp">Rules of the Raffles Library, 8 March 1882. <i>The National Library’s Rare Materials Collection.</i></div>
 
 With the re-organisation, the first general catalogue and synoptical index of the Raffles Library was published. This was followed by possibly the first bibliography on Malayan works compiled by the librarian and curator Nicholas Belfield Dennys. Published in 1880, the bibliography listed works in the Raffles Library as well as holdings from overseas sources such as the British Museum Library (today’s British Library), the Royal Asiatic Society library, the William Marsden collection at King’s College, and publishers such as Trübner and Company and Bernard Quaritch. Dennys had delineated Malaya as the area bounded by the Malayan/Siamese border, Borneo, the Philippine islands, New Guinea, Java and Sumatra. In all, he listed nearly 400 titles in his catalogue.
 
@@ -124,7 +124,7 @@ These sweeping changes, which also saw the Printers and Publishers Ordinance and
 
 Today, the dispersed holdings of the Raffles Library and Museum exist in the collections of the National Library at Victoria Street and the Lee Kong Chian Natural History Museum at the National University of Singapore. Parts of the collections can also be found in the Library of Botany and Horticulture of the Botanic Gardens and the staff collection of the National Heritage Board museums.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>FROM THE STACKS: CATCH IT SOON!</b>
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6"><b>FROM THE STACKS: CATCH IT SOON!</b>
 <br><br>
 “From the Stacks: Highlights of the National Library” is an ongoing exhibition that features several items from the Rare Materials Collection mentioned in this article: the first reports of the Singapore Library (1844–52); books inherited from the Singapore Library; the first edition of the <i>Straits Times Almanack and Directory</i> (1846); the first lithographed edition of <i>Hikayat Abdullah</i> (1849); and original copies of <i>The Syonan Shimbun</i> and <i>Zhanonan Ribao</i> ((昭南日报) newspapers.
 <br><br>
