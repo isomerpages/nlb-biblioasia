@@ -114,22 +114,22 @@ Microfilm copies are also available to library users at level 11 of the Lee Kong
 
 [^22]:Raffles, S. (1820, April 8). *[Autograph letters from Lady Raffles to Raffles’ cousin, Reverend Dr. Thomas Raffles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202100119)*. (Call no.: RRARE 959.5703092 RAF)
 
-[^23]:Marsden, W. (1838). A brief memoir of the life and writings of the late William Marsden written by himself: With notes from his correspondence. London: Printed by J. L. Cox. (Call no.: RRARE 941.0730924 MAR; Microfilm no.: NL18261)
+[^23]:Marsden, W. (1838). *[A brief memoir of the life and writings of the late William Marsden written by himself: With notes from his correspondence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4296117)*. London: Printed by J. L. Cox. (Call no.: RRARE 941.0730924 MAR; Microfilm no.: NL18261)
 
-[^24]:Marsden, W. (1811). The history of Sumatra: Containing an account of the government, laws, customs, and manners of the native inhabitants, with a description of the natural productions, and a relation of the ancient political state of the island. London: Printed for the author by J. M’Creery. Retrieved from BookSG.
+[^24]:Marsden, W. (1811). *[The history of Sumatra: Containing an account of the government, laws, customs, and manners of the native inhabitants, with a description of the natural productions, and a relation of the ancient political state of the island](https://eresources.nlb.gov.sg/printheritage/detail/4f730f43-ac00-4177-920f-3f01259ccb09.aspx)*. London: Printed for the author by J. M’Creery. Retrieved from BookSG.
 
-[^25]:Marsden, W. (1812). A grammar of the Malayan language with an introduction and praxis. London: Cox and Baylis. (Call no.: RRARE  499.28321 DIC)
+[^25]:Marsden, W. (1812). *[A grammar of the Malayan language with an introduction and praxis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202584508)*. London: Cox and Baylis. (Call no.: RRARE  499.28321 DIC)
 
-[^26]:Marsden, W. (1812). A dictionary of the Malayan language, in two parts, Malayan and English and English and Malayan = Loghat Melayu ia-itu pada menyatakan Bahasa Melayu dan Bahasa Inggeris. London: Cox and Baylis. (Call no.: Malay RRARE 499.13 MAR)
+[^26]:Marsden, W. (1812). *[A dictionary of the Malayan language, in two parts, Malayan and English and English and Malayan = Loghat Melayu ia-itu pada menyatakan Bahasa Melayu dan Bahasa Inggeris](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4309469)*. London: Cox and Baylis. (Call no.: Malay RRARE 499.13 MAR)
 
-[^27]:Raffles, T.S. (1829). Map of the island of Sumatra constructed chiefly from surveys taken by order of the late Sir Thomas Stamford Raffles. London: Published for the proprietor, by J. Gardner. Retrieved from BookSG.
+[^27]:Raffles, T.S. (1829). *[Map of the island of Sumatra constructed chiefly from surveys taken by order of the late Sir Thomas Stamford Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6ac8dcf7-cc74-40fd-9c47-6c20169d3191.aspx)*. London: Published for the proprietor, by J. Gardner. Retrieved from BookSG.
 
-[^28]:Leyden, J, (1821). Malay annals. London: Longman. Retrieved from BooKSG.
+[^28]:Leyden, J, (1821). *[Malay annals](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx)*. London: Longman. Retrieved from BooKSG.
 
-[^29]:Horsfield, T. (1824). Zoological researchers in Java, and the neighbouring islands. London: Printed by Kingsbury, Parbury & Allen. Retrieved from BookSG.
+[^29]:Horsfield, T. (1824). *[Zoological researchers in Java, and the neighbouring islands](https://eresources.nlb.gov.sg/printheritage/detail/c82861cf-b4ab-4441-876c-62eda77ac466.aspx)*. London: Printed by Kingsbury, Parbury & Allen. Retrieved from BookSG.
 
-[^30]:Low, J. (1836). A dissertation on the soil & agriculture of the British settlement of Penang, or Prince of Wales Island, in the straits of Malacca; including Province Wellesley on the Malayan peninsula. With brief references to the settlements of Singapore & Malacca. Singapore: Printed at the Singapore Free Press Office. (Call no. RRARE 630.9595123 LOW)
+[^30]:Low, J. (1836). *[A dissertation on the soil & agriculture of the British settlement of Penang, or Prince of Wales Island, in the straits of Malacca; including Province Wellesley on the Malayan peninsula](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202677866)*. With brief references to the settlements of Singapore & Malacca. Singapore: Printed at the Singapore Free Press Office. (Call no. RRARE 630.9595123 LOW)
 
-[^31]:Milne, W.C. (1820). Retrospect of the first ten years of the Protestant mission to China. Malacca: Printed at the Anglo-Chinese Press. (Call no.: RARARE 266.40951 MIL)
+[^31]:Milne, W.C. (1820). *[Retrospect of the first ten years of the Protestant mission to China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5031135)*. Malacca: Printed at the Anglo-Chinese Press. (Call no.: RARARE 266.40951 MIL)
 
-[^32]:Eschelskroon, S. (1781). Beschreibung der Insel Sumatra: Besonders in Ansehung des Handels, und der dahin gehèorigen Merkwèurdigkeiten. Hamburg: Carl Ernst Bohn. (Call no.: RRARE 915.9810421 ESC; Microfilm no.: NL28460)
+[^32]:Eschelskroon, S. (1781). *[Beschreibung der Insel Sumatra: Besonders in Ansehung des Handels, und der dahin gehèorigen Merkwèurdigkeiten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12337536)*. Hamburg: Carl Ernst Bohn. (Call no.: RRARE 915.9810421 ESC; Microfilm no.: NL28460)
