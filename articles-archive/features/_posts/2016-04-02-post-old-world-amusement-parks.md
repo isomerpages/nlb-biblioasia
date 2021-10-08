@@ -108,7 +108,7 @@ The popularity of amusement parks began to wane towards the end of the 1960s. Th
 
 Without the heaving crowds, the amusement parks were unable to survive and eventually closed. Gay World was the last park to cease operations in 2000.[^37] Over the years, the land occupied by the parks has been taken over by commercial or residential buildings. Only the faded memories of older Singaporeans linger, recalling the once glorious past of these “Worlds” and the joy and laughter they brought to their lives.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>AMUSEMENT PARKS: A TIMELINE</b>
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>AMUSEMENT PARKS: A TIMELINE</b>
 <br><br>
 <b>New World</b>
 <br><br>
