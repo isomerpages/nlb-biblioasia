@@ -7,8 +7,7 @@ permalink: /editors-picks/literature
 <img style="width:100%;" src="/images/Vol-17-issue-1/poetry/selita.jpg"> <hr clear="left">
  
  #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/manvsnature" target="_blank"> Man vs Nature: Speculative Fiction and the Environment</a>
-<p>Jacqueline Lee surveys the landscape of Singapore speculative fiction to see how writers address pressing environmental concerns in their novels and short stories.
-</p>  
+<p>Jacqueline Lee surveys the landscape of Singapore speculative fiction to see how writers address pressing environmental concerns in their novels and short stories.</p>  
 <hr clear="left">
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/sangnila" target="_blank"> Sang Nila Utama: Separating Myth From Reality</a>
