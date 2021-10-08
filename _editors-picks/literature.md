@@ -19,7 +19,8 @@ permalink: /editors-picks/literature
  <img style="width:500px;"src="/images/Vol-17-issue-1/magic/malaymagic.png">  
  <hr clear="left">
  
- #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur" target="_blank"> The Borobudur, Mysterious Gold Plates and Singing Maps</a>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur" target="_blank"> The Borobudur, Mysterious Gold Plates and Singing Maps</a>
 <p>Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller The Java Enigma by debut novelist Erni Salleh.</p>  
 <hr clear="left">
 
