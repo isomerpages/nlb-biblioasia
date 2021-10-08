@@ -4,7 +4,7 @@ permalink: /editors-picks/food
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/kueh-lapis" target="_blank"> Love Is a Many-Layered Thing</a>
  <p>What lies in this vale of tiers? Christopher Tan delves into lapis legit, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers.</p> 
- <img style="width:500px;" src="/images/vol-16-issue-4/kuehlapis/TwoBatterCake.jpg">
+ <img style=width:600px; src="/images/vol-16-issue-4/kuehlapis/TwoBatterCake.jpg">
  <hr clear="left">
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/straitsborncuisine"  target="_blank">The Evolution of Straits-born Cuisine</a>
