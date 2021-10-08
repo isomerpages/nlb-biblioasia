@@ -74,7 +74,7 @@ The nipah palm can be found in the mangrove swamps of Pulau Ubin. The leaves can
 
 Kampong Chek Jawa, on the southeastern tip of Pulau Ubin, was probably named after the Javanese who first settled there. The villagers who used to live there were mostly fishermen and rubber tappers.[^53] Chek Jawa has six different ecosystems within its 1 sq km area: mangroves, coastal hill forest, sandy ecosystems, rocky shore, seagrass lagoon and coral rubble.[^54] This rich diversity makes it a veritable haven for scientific studies and nature lovers.
 
-In December 2000, Nature Society (Singapore) members made an accidental discovery of the rich marine life thriving at Chek Jawa.55 A newspaper article two years later reported that a biodiversity survey made at Pulau Ubin discovered several rare coastal plants, many of which were recorded for the first time in Singapore.[^56] News of Chek Jawa’s land reclamation and the imminent destruction of its ecosystem sparked off a deluge of visitors to the area. Numerous letters were sent to the press to appeal to the authorities to halt the land reclamation plans.[^57]
+In December 2000, Nature Society (Singapore) members made an accidental discovery of the rich marine life thriving at Chek Jawa.[^55] A newspaper article two years later reported that a biodiversity survey made at Pulau Ubin discovered several rare coastal plants, many of which were recorded for the first time in Singapore.[^56] News of Chek Jawa’s land reclamation and the imminent destruction of its ecosystem sparked off a deluge of visitors to the area. Numerous letters were sent to the press to appeal to the authorities to halt the land reclamation plans.[^57]
 
 On 14 January 2002, the Ministry of National Development announced that land reclamation work at Chek Jawa would be postponed indefinitely. In addition, NParks formed a committee with representatives from the Nature Society, Raffles Museum of Biodiversity Research and other experts to study how Chek Jawa’s unique and fragile ecosystem could be maintained.[^58]
 
@@ -83,4 +83,3 @@ High tide at the Chek Jawa boardwalk. Courtesy of Ria Tan, www.wildsingapore.com
 <p style="font-size:15px;"><b>Ang Seow Leng</b> is a Senior Reference Librarian with the National Library of Singapore. Her responsibilities include managing and developing content, as well as providing reference and research services relating to Singapore and Southeast Asia.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
-
