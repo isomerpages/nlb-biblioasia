@@ -28,3 +28,10 @@ permalink: /editors-picks/places-buildings
 <p>On the 50th anniversary of its opening, Zoe Yeo gives us a bird’s-eye view of the setting up of one.</p>
 <img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg;" style="height:300px; width:auto;"> 
 <hr clear="left">
+
+<div 
+    style="background-image:
+           url('/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg'); 
+    width:200px; 
+    height:100px; 
+    background-position:center;">&nbsp;</div>
