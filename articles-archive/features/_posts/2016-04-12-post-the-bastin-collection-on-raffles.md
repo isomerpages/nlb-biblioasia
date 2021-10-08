@@ -70,27 +70,27 @@ Microfilm copies are also available to library users at level 11 of the Lee Kong
 
 #### **NOTES**
 
-[^1]:Raffles, T.S. (1819, October 14). Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter: 1819 October 14. (Call no.: RRARE 959.5703 RAF)
+[^1]:Raffles, T.S. (1819, October 14). *[Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter: 1819 October 14](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201942639)*. (Call no.: RRARE 959.5703 RAF)
 
-[^2]:Raffles, T.S. (1819, November 10). Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter, 1819 November 10. (Call no.: RRARE 372.9598 RAF)
+[^2]:Raffles, T.S. (1819, November 10). *[Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter, 1819 November 10](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201909519)*. (Call no.: RRARE 372.9598 RAF)
 
-[^3]:Raffles, T.S. (1823, June 14). Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter: 1823 June 14. (Call no.: RRARE 959.5703 RAF)
+[^3]:Raffles, T.S. (1823, June 14). *[Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter: 1823 June 14](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201907067)*. (Call no.: RRARE 959.5703 RAF)
 
-[^4]:Raffles, T.S. (1818). Letter from Sir Thomas Stamford Raffles addressed to a newspaper editor, with salutation “My dear sir”: Letter, 1818. (Call no.: RRARE 959.8022 RAF)
+[^4]:Raffles, T.S. (1818). *[Letter from Sir Thomas Stamford Raffles addressed to a newspaper editor, with salutation “My dear sir”: Letter, 1818](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202095767)*. (Call no.: RRARE 959.8022 RAF)
 
-[^5]:Al-Qawl al-‘atīq iaitu segala surat Perjanjian Lama. (1758). [Batavia: s.n.]. (Call no.: RRARE 224.9 QAW)
+[^5]:*[Al-Qawl al-‘atīq iaitu segala surat Perjanjian Lama](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201942736)*. (1758). [Batavia: s.n.]. (Call no.: RRARE 224.9 QAW)
 
-[^6]:Raffles, T.S. (1812). Code of provisional regulations for the judicial and police departments at Batavia, Samarang, and Sourabaya, containing rules for the practice, and mode of proceeding, in civil and criminal cases, in the several courts of justice… in the different districts throughout the Island of Java. Batavia: A. H. Hubbard. Retrieved from BooKSG.
+[^6]:Raffles, T.S. (1812). *[Code of provisional regulations for the judicial and police departments at Batavia, Samarang, and Sourabaya, containing rules for the practice, and mode of proceeding, in civil and criminal cases, in the several courts of justice… in the different districts throughout the Island of Java](https://eresources.nlb.gov.sg/printheritage/detail/aca7a666-9451-467b-ae14-3303b1038ae2.aspx)*. Batavia: A. H. Hubbard. Retrieved from BooKSG.
 
-[^7]:Raffles, T. S. (1814). The charges of Major General Gillespie against The Honourable T. S. Raffles, Leutenant Governor of the Island of Java, with various papers and documents, in refutation of them relating to the administration of the British Government, in that Island its Dependencies. Batavia: [n.p.]. (Call no.: RRARE 353.46095982 CHA)
+[^7]:Raffles, T. S. (1814). *[The charges of Major General Gillespie against The Honourable T. S. Raffles, Leutenant Governor of the Island of Java, with various papers and documents, in refutation of them relating to the administration of the British Government, in that Island its Dependencies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201911120)*. Batavia: [n.p.]. (Call no.: RRARE 353.46095982 CHA)
 
-[^8]:Addresses etc. presented to Mr. Raffles on the occasion of his departure from Java. (1817). London: Printed by Cox and Baylis. Retrieved from BookSG.
+[^8]:*[Addresses etc. presented to Mr. Raffles on the occasion of his departure from Java](https://eresources.nlb.gov.sg/printheritage/detail/4c0d2454-eeac-4736-a4ac-f73b2d848a57.aspx).* (1817). London: Printed by Cox and Baylis. Retrieved from BookSG.
 
-[^9]:Raffles, T.S. (1824). Statement of the services of Sir Stamford Raffles. London: Printed by Cox and Bayliss. (Call no.. RRARE 959.5703092 RAF)
+[^9]:Raffles, T.S. (1824). *[Statement of the services of Sir Stamford Raffles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202687740)*. London: Printed by Cox and Bayliss. (Call no.. RRARE 959.5703092 RAF)
 
-[^10]:Raffles, T.S. (1817). The history of Java. London: Printed for Black, Parbury, and Allen, Booksellers to the Hon. East-India Company … and John Murray .… (Call no.: RRARE 959.82 RAF)
+[^10]:Raffles, T.S. (1817). *[The history of Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201909379)*. London: Printed for Black, Parbury, and Allen, Booksellers to the Hon. East-India Company … and John Murray .… (Call no.: RRARE 959.82 RAF)
 
-[^11]:Raffles, T.S (1830). The history of Java. London: J. Murray, 1830. (Call no.: RRARE 992.2 RAF)
+[^11]:Raffles, T.S (1830). *[The history of Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201909379)*. London: J. Murray, 1830. (Call no.: RRARE 992.2 RAF)
 
 [^12]:Raffles, T.S. (1816). On the Maláyu nation: With a translation of its maritime institutions. Calcutta: Asiatick Society. (Call no.: RRARE 959.503 RAF)
 
