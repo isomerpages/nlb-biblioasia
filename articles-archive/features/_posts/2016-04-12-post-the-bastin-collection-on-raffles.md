@@ -94,17 +94,17 @@ Microfilm copies are also available to library users at level 11 of the Lee Kong
 
 [^12]:Raffles, T.S. (1816). *[On the Maláyu nation: With a translation of its maritime institutions](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201923575)*. Calcutta: Asiatick Society. (Call no.: RRARE 959.503 RAF)
 
-[^13]:Asiatick researches, or, Transactions of the society instituted in Bengal, for inquiring into the history and antiquities, the arts, sciences, and literature of Asia. (1788–1839). Calcutta: Printed and sold by Manuel Cantopher. (Call no.: RRARE 950.05 AR)
+[^13]:*[Asiatick researches, or, Transactions of the society instituted in Bengal, for inquiring into the history and antiquities, the arts, sciences, and literature of Asia.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12995892)* (1788–1839). Calcutta: Printed and sold by Manuel Cantopher. (Call no.: RRARE 950.05 AR)
 
-[^14]:Finlayson, G., & Thomas, T.S. (1826). The mission to Siam, and Hue the capital of Cochin China in the years 1821-22: From the journal of the George Finlayson: With a memoir of the author by Sir Thomas Stamford Raffles. London: Murray. Retrieved from BooKSG.
+[^14]:Finlayson, G., & Thomas, T.S. (1826). *[The mission to Siam, and Hue the capital of Cochin China in the years 1821-22: From the journal of the George Finlayson: With a memoir of the author by Sir Thomas Stamford Raffles](https://eresources.nlb.gov.sg/printheritage/detail/18614110-958d-4785-9bde-53e8da320697.aspx)*. London: Murray. Retrieved from BooKSG.
 
-[^15]:Raffles, T.S. (1814). A discourse at a meeting of the Society of Arts and Sciences in Batavia, on the twenty-fourth day of April 1813, being the anniversary of the institution, delivered by Thomas Stamford Raffles. Batavia: Government Press. (Call no.: RRARE 959.80222 DIS)
+[^15]:Raffles, T.S. (1814). *[A discourse at a meeting of the Society of Arts and Sciences in Batavia, on the twenty-fourth day of April 1813, being the anniversary of the institution, delivered by Thomas Stamford Raffles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201923479)*. Batavia: Government Press. (Call no.: RRARE 959.80222 DIS)
 
-[^16]:Raffles, T.S. (1822). XVII. Descriptive catalogue of a zoological collection, made on account of the Honourable East India Company, in the island of Sumatra and its vicinity, under the direction of Sir Thomas Stamford Raffles, Lieutenant- Governor of Fort Marlborough; with additional notices illustrative of the natural history of those countries; XVIII. Second part of the descriptive catalogue of the zoological collection made in the island of Sumatra and its vicinity. [S.l.: s.n.]. (Call no.: RRARE 590.9598 RAF)
+[^16]:Raffles, T.S. (1822). *[XVII. Descriptive catalogue of a zoological collection, made on account of the Honourable East India Company, in the island of Sumatra and its vicinity, under the direction of Sir Thomas Stamford Raffles, Lieutenant- Governor of Fort Marlborough; with additional notices illustrative of the natural history of those countries; XVIII. Second part of the descriptive catalogue of the zoological collection made in the island of Sumatra and its vicinity.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201925655)* [S.l.: s.n.]. (Call no.: RRARE 590.9598 RAF)
 
-[^17]:Raffles, T.S. (1824). Substance of a memoir on the administration of the Eastern Islands … in 1819. London: [Printed privately by Raffles]. Retrieved from BooKSG.
+[^17]:Raffles, T.S. (1824). *[Substance of a memoir on the administration of the Eastern Islands … in 1819](https://eresources.nlb.gov.sg/printheritage/detail/8275bcba-e88c-4e5f-8faa-1e2c131b791e.aspx)*. London: [Printed privately by Raffles]. Retrieved from BooKSG.
 
-[^18]:Malayan miscellanies. (1822). Bencoolen: Sumatran Mission Press. (Call no.: RRARE 991 MAL)
+[^18]:*[Malayan miscellanies.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4316229)* (1822). Bencoolen: Sumatran Mission Press. (Call no.: RRARE 991 MAL)
 
 [^19]:Java government gazette. (1812–1816). Batavia: Printed by A. H. Hubbard at the Govt. Press. (Call no.: RRARE 959.82 JAV)
 
