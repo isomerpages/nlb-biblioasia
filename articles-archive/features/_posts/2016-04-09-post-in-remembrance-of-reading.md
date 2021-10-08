@@ -56,7 +56,7 @@ The idea of having conversations around what one’s friends and contemporaries 
 
 While how we buy and read books today has changed with the presence of online book retailers such as Amazon and Book Depository and e-readers like Kindle and iBooks, reading remains very much alive in the 21st century. The Internet is abuzz with online reading communities that provide opportunities for people to discuss, share and recommend their latest reads. Digital books are downloaded instantaneously on e-readers, especially convenient when travelling. Yet, the printed book remains a popular option,[^16] informal books clubs continue to thrive and book-related media events continue unabated. Technology, therefore, supports and encourages the reading of the printed book, and libraries and bookshops are reinventing themselves as places not just to access books, but also to engage in social activities around books. Our memories of reading are closely intertwined with the relationships and conversations that are built around books and the places that allow us to indulge in reading.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>EDMUND CHEN: READING WUXIA AND BEYOND</b>
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6"><b>EDMUND CHEN: READING WUXIA AND BEYOND</b>
 <br><br>
 <img style="width:400px"  src="/images/Vol-12-issue-1/in-remembrance-of-reading/06_reading.bmp">
 <br><br>
@@ -72,7 +72,7 @@ As a father, the first book Edmund read to his daughter was a book that he wrote
 <br><br>
 Ever the sentimental person, Edmund has two rented storerooms where he stores some of his most treasured books. His collection includes some of his old comics, <i>wuxia</i> novels and the books he used to read to his children.</div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>RHONDA MYRA GARCES-BACSAL: GATHERING READERS</b>
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6"><b>RHONDA MYRA GARCES-BACSAL: GATHERING READERS</b>
 <br><br>
 <img style="width:400px"   src="/images/Vol-12-issue-1/in-remembrance-of-reading/07_reading.bmp">
 <br><br>
@@ -86,7 +86,7 @@ Currently, Myra is involved in three book clubs in Singapore that meet on a regu
 <br><br>
 When I asked Myra about how she finds time to do all that she does, she quotes sagely from the poet Rumi: “When you do things from your soul you feel a river moving in you, a joy.” She is one of those fortunate individuals where the dividing line between passion and work has become blurred – in a good way.</div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>THE LEE FAMILY: GENERATIONAL READING</b>
+<div style="background-colour:#fdf5e6a; padding:20px; margin: 20px; background: #fdf5e6"><b>THE LEE FAMILY: GENERATIONAL READING</b>
 <br><br>
 <img style="width:500px"   src="/images/Vol-12-issue-1/in-remembrance-of-reading/08_reading.jpg">The family that reads together: Mum Adeline Lee, dad Eng Kiat and their brood of three avid readers, Christabel, aged 12 (left), Isabel, aged 14 (right) and the youngest, eight-year-old Estherbel, in the middle. Photographed on location at the Central Public Library, National Library Building.
 <br><br>
