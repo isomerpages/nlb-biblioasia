@@ -6,7 +6,10 @@ layout: post
 ---
 #### **Bonny Tan** pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore's multicultural character.
 
-The history of belacan, a local condiment, and curry puff, a popular snack, is traced in this article, pieced together from reports taken from digitised English newspapers in Malaya during the interwar period. These newspaper reports unveil the faces and flavours behind these local foods, their evolution through racial adaptations and their colloqualisation into place names and language.
+Research into Singapore's food heritage often neglects the unusually rich minefield of data found in newspapers. NewspaperSG, the National Library's digital archives of local newspapers dating from 1831, provides easy access to a fascinating wealth of information found in otherwise banal resources such as news articles and columns, recipes, restaurant reviews, and even advertisements.
+
+
+The history of <i>belacan</i>, a local condiment, and curry puff, a popular snack, is traced in this article, pieced together from reports taken from digitised English newspapers in Malaya during the interwar period. These newspaper reports unveil the faces and flavours behind these local foods, their evolution through racial adaptations and their colloqualisation into place names and language.
 
 #### **Food Reporting During Colonial Times**
 
