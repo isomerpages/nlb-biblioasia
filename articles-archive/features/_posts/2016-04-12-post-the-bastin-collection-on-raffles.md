@@ -108,9 +108,9 @@ Microfilm copies are also available to library users at level 11 of the Lee Kong
 
 [^19]:*[Java government gazette.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4197224)* (1812–1816). Batavia: Printed by A. H. Hubbard at the Govt. Press. (Call no.: RRARE 959.82 JAV)
 
-[^20]:Zoological Society of London. (1825). Short prospectus and original list of members of the Zoological Society of London, May 1825 with the names in manuscript in the hand of Sir Stamford Raffles, founder and first president of the society. [London: Author]. (Call no.: RRARE 590.73241 ZOO)
+[^20]:Zoological Society of London. (1825). *[Short prospectus and original list of members of the Zoological Society of London, May 1825 with the names in manuscript in the hand of Sir Stamford Raffles, founder and first president of the society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202565768)*. [London: Author]. (Call no.: RRARE 590.73241 ZOO)
 
-[^21]:Raffles, S. (1830). Memoir of the life and public services of Sir Thomas Stamford Raffles, F.R.S. &c., particularly in the government of Java, 1811–1816, and of Bencoolen and its dependencies, 1817–1824: With details of the commerce and resources of the Eastern Archipelago and selections from his correspondence. London: John Murray. Retrieved from BookSG.
+[^21]:Raffles, S. (1830). *[Memoir of the life and public services of Sir Thomas Stamford Raffles, F.R.S. &c., particularly in the government of Java, 1811–1816, and of Bencoolen and its dependencies, 1817–1824: With details of the commerce and resources of the Eastern Archipelago and selections from his correspondence](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx)*. London: John Murray. Retrieved from BookSG.
 
 [^22]:Raffles, S. (1820, April 8). Autograph letters from Lady Raffles to Raffles’ cousin, Reverend Dr. Thomas Raffles. (Call no.: RRARE 959.5703092 RAF)
 
