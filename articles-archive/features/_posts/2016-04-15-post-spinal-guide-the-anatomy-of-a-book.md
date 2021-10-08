@@ -14,6 +14,9 @@ As books became increasingly cheaper to produce and bind over time, the form of 
 
 Text by : Liao Youwen and Natalia Pereira
 
+<a href="/vol-12/issue-1/apr-jun-2016/"><center>Back to Issue</center></a>
+
+
 #### **REFERENCES**
 
 Berry, J. D. (2006). *Dot-font: Talking about design*. New York: Mark Batty Publisher. Call no. 686.221 BER
