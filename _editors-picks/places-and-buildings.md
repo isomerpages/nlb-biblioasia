@@ -22,4 +22,4 @@ permalink: /editors-picks/places-buildings
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/karikal" target="_blank"> Karikal Mahal: The Lost Palace of a Fallen Cattle King</a>
 <p>William L. Gibson uncovers the story behind the pair of grand buildings along Still Road South and their transformation over the last century.</p> 
-<hr clear="left"> 
+<hr clear="left">
