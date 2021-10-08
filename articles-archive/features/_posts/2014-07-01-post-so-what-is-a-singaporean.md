@@ -18,7 +18,7 @@ A shared history, common historical myths, deep attachment to values like freedo
 
 It also helps to belong to the most successful nation in human history. A deep sense of national pride accompanies the sense of national identity.
 
-The National Day emblem outside City Hall at the 1963 National Day Rally held at the Padang. MITA collection, courtesy of National Archives of Singapore.
+The National Day emblem outside City Hall at the 1963 National Day Rally held at the Padang. <i>MITA collection, courtesy of National Archives of Singapore.</i>
 
 #### **Old Cultures, New Nations**
 
@@ -26,9 +26,9 @@ The third category is the mixed category where national identity is a mixture of
 
 Both Indians and Indonesians have no difficulty recruiting people to die for their countries. And they have done this despite the tremendous diversity of their societies. The story of Indian diversity is well known. In the case of Indonesia, it continues to be a source of daily discovery. The late Indonesian foreign minister Ali Alatas, a distinguished diplomat, told me how the Indonesian people were totally riveted by a series of TV programmes in the 1990s which showcased how children worked, studied and played all over the archipelago. Many Indonesians discovered this diversity for the first time.
 
-Medical staff at the General Hospital attending to racial riot victims in 1964. MITA collection, courtesy of National Archives of Singapore.
+Medical staff at the General Hospital attending to racial riot victims in 1964. <i>MITA collection, courtesy of National Archives of Singapore.</i>
 
-Row of shophouses along Onan Road in 1983. This multiracial neighbourhood in the East Coast was where the author spent his formative years. From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.
+Row of shophouses along Onan Road in 1983. This multiracial neighbourhood in the East Coast was where the author spent his formative years. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
 
 #### **Poor But Happy Community**
 
@@ -56,6 +56,6 @@ The answer to this question will determine Singapore’s future. If it is a natu
 
 If it is an artificial development, we will remain in a state of continuous fragility. As Singapore continues its mighty metamorphosis, we have to hope and pray that our ethnic harmony is a result of natural development.
 
-<p style="font-size:15px;"><b>Kishore Mahbubani</b> was with the Singapore Foreign Service for 33 years (1971–2004) and was Permanent Secretary at the Foreign Ministry from 1993 to 1998. Currently, he is the Dean and Professor in the Practice of Public Policy at the Lee Kuan Yew School of Public Policy of the National University of Singapore. His latest book, The Great Convergence: Asia, the West, and the Logic of One World, was selected by the Financial Times as one of the best books of 2013 and long listed for the 2014 Lionel Gelber Prize. Most recently, he was selected by Prospect magazine as one of the top 50 world thinkers for 2014.</p>
+<p style="font-size:15px;"><b>Kishore Mahbubani</b> was with the Singapore Foreign Service for 33 years (1971–2004) and was Permanent Secretary at the Foreign Ministry from 1993 to 1998. Currently, he is the Dean and Professor in the Practice of Public Policy at the Lee Kuan Yew School of Public Policy of the National University of Singapore. His latest book, <i>The Great Convergence: Asia, the West, and the Logic of One World</i>, was selected by the <i>Financial Times</i> as one of the best books of 2013 and long listed for the 2014 Lionel Gelber Prize. Most recently, he was selected by <i>Prospect</i> magazine as one of the top 50 world thinkers for 2014.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
