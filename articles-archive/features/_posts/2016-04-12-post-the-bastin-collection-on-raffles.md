@@ -70,64 +70,66 @@ Microfilm copies are also available to library users at level 11 of the Lee Kong
 
 #### **NOTES**
 
-Raffles, T.S. (1819, October 14). Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter: 1819 October 14. (Call no.: RRARE 959.5703 RAF)
+[^1]:Raffles, T.S. (1819, October 14). Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter: 1819 October 14. (Call no.: RRARE 959.5703 RAF)
 
-Raffles, T.S. (1819, November 10). Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter, 1819 November 10. (Call no.: RRARE 372.9598 RAF)
+[^2]:Raffles, T.S. (1819, November 10). Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter, 1819 November 10. (Call no.: RRARE 372.9598 RAF)
 
-Raffles, T.S. (1823, June 14). Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter: 1823 June 14. (Call no.: RRARE 959.5703 RAF)
+[^3]:Raffles, T.S. (1823, June 14). Autograph letter from Sir Thomas Stamford Raffles to his cousin, Reverend Dr. Thomas Raffles, with salutation “My dear cousin”: Letter: 1823 June 14. (Call no.: RRARE 959.5703 RAF)
 
-Raffles, T.S. (1818). Letter from Sir Thomas Stamford Raffles addressed to a newspaper editor, with salutation “My dear sir”: Letter, 1818. (Call no.: RRARE 959.8022 RAF)
+[^4]:Raffles, T.S. (1818). Letter from Sir Thomas Stamford Raffles addressed to a newspaper editor, with salutation “My dear sir”: Letter, 1818. (Call no.: RRARE 959.8022 RAF)
 
-Al-Qawl al-‘atīq iaitu segala surat Perjanjian Lama. (1758). [Batavia: s.n.]. (Call no.: RRARE 224.9 QAW)
+[^5]:Al-Qawl al-‘atīq iaitu segala surat Perjanjian Lama. (1758). [Batavia: s.n.]. (Call no.: RRARE 224.9 QAW)
 
-Raffles, T.S. (1812). Code of provisional regulations for the judicial and police departments at Batavia, Samarang, and Sourabaya, containing rules for the practice, and mode of proceeding, in civil and criminal cases, in the several courts of justice… in the different districts throughout the Island of Java. Batavia: A. H. Hubbard. Retrieved from BooKSG.
+[^6]:Raffles, T.S. (1812). Code of provisional regulations for the judicial and police departments at Batavia, Samarang, and Sourabaya, containing rules for the practice, and mode of proceeding, in civil and criminal cases, in the several courts of justice… in the different districts throughout the Island of Java. Batavia: A. H. Hubbard. Retrieved from BooKSG.
 
-Raffles, T. S. (1814). The charges of Major General Gillespie against The Honourable T. S. Raffles, Leutenant Governor of the Island of Java, with various papers and documents, in refutation of them relating to the administration of the British Government, in that Island its Dependencies. Batavia: [n.p.]. (Call no.: RRARE 353.46095982 CHA)
+[^7]:Raffles, T. S. (1814). The charges of Major General Gillespie against The Honourable T. S. Raffles, Leutenant Governor of the Island of Java, with various papers and documents, in refutation of them relating to the administration of the British Government, in that Island its Dependencies. Batavia: [n.p.]. (Call no.: RRARE 353.46095982 CHA)
 
-Addresses etc. presented to Mr. Raffles on the occasion of his departure from Java. (1817). London: Printed by Cox and Baylis. Retrieved from BookSG.
+[^8]:Addresses etc. presented to Mr. Raffles on the occasion of his departure from Java. (1817). London: Printed by Cox and Baylis. Retrieved from BookSG.
 
-Raffles, T.S. (1824). Statement of the services of Sir Stamford Raffles. London: Printed by Cox and Bayliss. (Call no.. RRARE 959.5703092 RAF)
+[^9]:Raffles, T.S. (1824). Statement of the services of Sir Stamford Raffles. London: Printed by Cox and Bayliss. (Call no.. RRARE 959.5703092 RAF)
 
-Raffles, T.S. (1817). The history of Java. London: Printed for Black, Parbury, and Allen, Booksellers to the Hon. East-India Company … and John Murray .… (Call no.: RRARE 959.82 RAF)
+[^10]:Raffles, T.S. (1817). The history of Java. London: Printed for Black, Parbury, and Allen, Booksellers to the Hon. East-India Company … and John Murray .… (Call no.: RRARE 959.82 RAF)
 
-Raffles, T.S (1830). The history of Java. London: J. Murray, 1830. (Call no.: RRARE 992.2 RAF)
+[^11]:Raffles, T.S (1830). The history of Java. London: J. Murray, 1830. (Call no.: RRARE 992.2 RAF)
 
-Raffles, T.S. (1816). On the Maláyu nation: With a translation of its maritime institutions. Calcutta: Asiatick Society. (Call no.: RRARE 959.503 RAF)
+[^12]:Raffles, T.S. (1816). On the Maláyu nation: With a translation of its maritime institutions. Calcutta: Asiatick Society. (Call no.: RRARE 959.503 RAF)
 
-Asiatick researches, or, Transactions of the society instituted in Bengal, for inquiring into the history and antiquities, the arts, sciences, and literature of Asia. (1788–1839). Calcutta: Printed and sold by Manuel Cantopher. (Call no.: RRARE 950.05 AR)
+[^13]:Asiatick researches, or, Transactions of the society instituted in Bengal, for inquiring into the history and antiquities, the arts, sciences, and literature of Asia. (1788–1839). Calcutta: Printed and sold by Manuel Cantopher. (Call no.: RRARE 950.05 AR)
 
-Finlayson, G., & Thomas, T.S. (1826). The mission to Siam, and Hue the capital of Cochin China in the years 1821-22: From the journal of the George Finlayson: With a memoir of the author by Sir Thomas Stamford Raffles. London: Murray. Retrieved from BooKSG.
+[^14]:Finlayson, G., & Thomas, T.S. (1826). The mission to Siam, and Hue the capital of Cochin China in the years 1821-22: From the journal of the George Finlayson: With a memoir of the author by Sir Thomas Stamford Raffles. London: Murray. Retrieved from BooKSG.
 
-Raffles, T.S. (1814). A discourse at a meeting of the Society of Arts and Sciences in Batavia, on the twenty-fourth day of April 1813, being the anniversary of the institution, delivered by Thomas Stamford Raffles. Batavia: Government Press. (Call no.: RRARE 959.80222 DIS)
+[^15]:Raffles, T.S. (1814). A discourse at a meeting of the Society of Arts and Sciences in Batavia, on the twenty-fourth day of April 1813, being the anniversary of the institution, delivered by Thomas Stamford Raffles. Batavia: Government Press. (Call no.: RRARE 959.80222 DIS)
 
-Raffles, T.S. (1822). XVII. Descriptive catalogue of a zoological collection, made on account of the Honourable East India Company, in the island of Sumatra and its vicinity, under the direction of Sir Thomas Stamford Raffles, Lieutenant- Governor of Fort Marlborough; with additional notices illustrative of the natural history of those countries; XVIII. Second part of the descriptive catalogue of the zoological collection made in the island of Sumatra and its vicinity. [S.l.: s.n.]. (Call no.: RRARE 590.9598 RAF)
+[^16]:Raffles, T.S. (1822). XVII. Descriptive catalogue of a zoological collection, made on account of the Honourable East India Company, in the island of Sumatra and its vicinity, under the direction of Sir Thomas Stamford Raffles, Lieutenant- Governor of Fort Marlborough; with additional notices illustrative of the natural history of those countries; XVIII. Second part of the descriptive catalogue of the zoological collection made in the island of Sumatra and its vicinity. [S.l.: s.n.]. (Call no.: RRARE 590.9598 RAF)
 
-Raffles, T.S. (1824). Substance of a memoir on the administration of the Eastern Islands … in 1819. London: [Printed privately by Raffles]. Retrieved from BooKSG.
-Malayan miscellanies. (1822). Bencoolen: Sumatran Mission Press. (Call no.: RRARE 991 MAL)
+[^17]:Raffles, T.S. (1824). Substance of a memoir on the administration of the Eastern Islands … in 1819. London: [Printed privately by Raffles]. Retrieved from BooKSG.
 
-Java government gazette. (1812–1816). Batavia: Printed by A. H. Hubbard at the Govt. Press. (Call no.: RRARE 959.82 JAV)
+[^18]:Malayan miscellanies. (1822). Bencoolen: Sumatran Mission Press. (Call no.: RRARE 991 MAL)
 
-Zoological Society of London. (1825). Short prospectus and original list of members of the Zoological Society of London, May 1825 with the names in manuscript in the hand of Sir Stamford Raffles, founder and first president of the society. [London: Author]. (Call no.: RRARE 590.73241 ZOO)
+[^19]:Java government gazette. (1812–1816). Batavia: Printed by A. H. Hubbard at the Govt. Press. (Call no.: RRARE 959.82 JAV)
 
-Raffles, S. (1830). Memoir of the life and public services of Sir Thomas Stamford Raffles, F.R.S. &c., particularly in the government of Java, 1811–1816, and of Bencoolen and its dependencies, 1817–1824: With details of the commerce and resources of the Eastern Archipelago and selections from his correspondence. London: John Murray. Retrieved from BookSG.
+[^20]:Zoological Society of London. (1825). Short prospectus and original list of members of the Zoological Society of London, May 1825 with the names in manuscript in the hand of Sir Stamford Raffles, founder and first president of the society. [London: Author]. (Call no.: RRARE 590.73241 ZOO)
 
-Raffles, S. (1820, April 8). Autograph letters from Lady Raffles to Raffles’ cousin, Reverend Dr. Thomas Raffles. (Call no.: RRARE 959.5703092 RAF)
+[^21]:Raffles, S. (1830). Memoir of the life and public services of Sir Thomas Stamford Raffles, F.R.S. &c., particularly in the government of Java, 1811–1816, and of Bencoolen and its dependencies, 1817–1824: With details of the commerce and resources of the Eastern Archipelago and selections from his correspondence. London: John Murray. Retrieved from BookSG.
 
-Marsden, W. (1838). A brief memoir of the life and writings of the late William Marsden written by himself: With notes from his correspondence. London: Printed by J. L. Cox. (Call no.: RRARE 941.0730924 MAR; Microfilm no.: NL18261)
+[^22]:Raffles, S. (1820, April 8). Autograph letters from Lady Raffles to Raffles’ cousin, Reverend Dr. Thomas Raffles. (Call no.: RRARE 959.5703092 RAF)
 
-Marsden, W. (1811). The history of Sumatra: Containing an account of the government, laws, customs, and manners of the native inhabitants, with a description of the natural productions, and a relation of the ancient political state of the island. London: Printed for the author by J. M’Creery. Retrieved from BookSG.
+[^23]:Marsden, W. (1838). A brief memoir of the life and writings of the late William Marsden written by himself: With notes from his correspondence. London: Printed by J. L. Cox. (Call no.: RRARE 941.0730924 MAR; Microfilm no.: NL18261)
 
-Marsden, W. (1812). A grammar of the Malayan language with an introduction and praxis. London: Cox and Baylis. (Call no.: RRARE  499.28321 DIC)
+[^24]:Marsden, W. (1811). The history of Sumatra: Containing an account of the government, laws, customs, and manners of the native inhabitants, with a description of the natural productions, and a relation of the ancient political state of the island. London: Printed for the author by J. M’Creery. Retrieved from BookSG.
 
-Marsden, W. (1812). A dictionary of the Malayan language, in two parts, Malayan and English and English and Malayan = Loghat Melayu ia-itu pada menyatakan Bahasa Melayu dan Bahasa Inggeris. London: Cox and Baylis. (Call no.: Malay RRARE 499.13 MAR)
+[^25]:Marsden, W. (1812). A grammar of the Malayan language with an introduction and praxis. London: Cox and Baylis. (Call no.: RRARE  499.28321 DIC)
 
-Raffles, T.S. (1829). Map of the island of Sumatra constructed chiefly from surveys taken by order of the late Sir Thomas Stamford Raffles. London: Published for the proprietor, by J. Gardner. Retrieved from BookSG.
-Leyden, J, (1821). Malay annals. London: Longman. Retrieved from BooKSG.
+[^26]:Marsden, W. (1812). A dictionary of the Malayan language, in two parts, Malayan and English and English and Malayan = Loghat Melayu ia-itu pada menyatakan Bahasa Melayu dan Bahasa Inggeris. London: Cox and Baylis. (Call no.: Malay RRARE 499.13 MAR)
 
-Horsfield, T. (1824). Zoological researchers in Java, and the neighbouring islands. London: Printed by Kingsbury, Parbury & Allen. Retrieved from BookSG.
+[^27]:Raffles, T.S. (1829). Map of the island of Sumatra constructed chiefly from surveys taken by order of the late Sir Thomas Stamford Raffles. London: Published for the proprietor, by J. Gardner. Retrieved from BookSG.
 
-Low, J. (1836). A dissertation on the soil & agriculture of the British settlement of Penang, or Prince of Wales Island, in the straits of Malacca; including Province Wellesley on the Malayan peninsula. With brief references to the settlements of Singapore & Malacca. Singapore: Printed at the Singapore Free Press Office. (Call no. RRARE 630.9595123 LOW)
+[^28]:Leyden, J, (1821). Malay annals. London: Longman. Retrieved from BooKSG.
 
-Milne, W.C. (1820). Retrospect of the first ten years of the Protestant mission to China. Malacca: Printed at the Anglo-Chinese Press. (Call no.: RARARE 266.40951 MIL)
+[^29]:Horsfield, T. (1824). Zoological researchers in Java, and the neighbouring islands. London: Printed by Kingsbury, Parbury & Allen. Retrieved from BookSG.
 
-Eschelskroon, S. (1781). Beschreibung der Insel Sumatra: Besonders in Ansehung des Handels, und der dahin gehèorigen Merkwèurdigkeiten. Hamburg: Carl Ernst Bohn. (Call no.: RRARE 915.9810421 ESC; Microfilm no.: NL28460)
+[^30]:Low, J. (1836). A dissertation on the soil & agriculture of the British settlement of Penang, or Prince of Wales Island, in the straits of Malacca; including Province Wellesley on the Malayan peninsula. With brief references to the settlements of Singapore & Malacca. Singapore: Printed at the Singapore Free Press Office. (Call no. RRARE 630.9595123 LOW)
+
+[^31]:Milne, W.C. (1820). Retrospect of the first ten years of the Protestant mission to China. Malacca: Printed at the Anglo-Chinese Press. (Call no.: RARARE 266.40951 MIL)
+
+[^32]:Eschelskroon, S. (1781). Beschreibung der Insel Sumatra: Besonders in Ansehung des Handels, und der dahin gehèorigen Merkwèurdigkeiten. Hamburg: Carl Ernst Bohn. (Call no.: RRARE 915.9810421 ESC; Microfilm no.: NL28460)
