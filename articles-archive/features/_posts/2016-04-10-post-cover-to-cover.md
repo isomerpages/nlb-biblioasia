@@ -116,7 +116,7 @@ Radio & TV Times (25 October 1980) and 8 DAYS (20 October 1990)
 
 When Radio Television Singapore was restructured as Singapore Broadcasting Corporation on 1 February 1980, it ushered in a new era in television. Radio & TV Times became its vehicle to publicise its line-up of both locally produced Chinese dramas and imported Western TV shows – such as the TV series Battlestar Galactica on the cover of the maiden issue – as well as the latest news in entertainment to English-speaking readers. In October 1990, Radio & TV Times was given a design makeover and renamed 8 DAYS. This early issue (20 October 1990) featured Whitney Houston on its cover, and in December 2009, the magazine celebrated the launch of its 1,000th issue. The focus of the magazine has since shifted from celebrity gossip and TV-related news to include film, music, books and food reviews.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>What is PublicationSG</b>
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fff6ba"><b>What is PublicationSG</b>
 <br><br>
 	Launched in October 2015, PublicationSG is a dedicated online catalogue of all physical materials found in the Legal Deposit Collection, a rich archive of nearly 1.1 million items that is now available for public  access. Serials and magazines comprise 70 percent of the collection, with 25 percent being books and the rest made up of audiovisual materials and maps as well as ephemera. Members of the public can place reservations to view legal deposit items at $1.55 each at the information counters of the Lee Kong Chian Reference Library on levels 7–13 of the National Library Building, or via an online form at <a href="http://www.eservice.nlb.gov.sg/forms/publicationsg">eservice.nlb.gov.sg/forms/publicationsg</a>. The items can only be viewed at designated work stations in the reference library.</div>
 	
@@ -136,21 +136,21 @@ When Radio Television Singapore was restructured as Singapore Broadcasting Corpo
 	
 #### **REFERENCES**
 
-Arora, M. (Ed.). (2007). Small steps, giant leaps: A history of AWARE and the women’s movement in Singapore. Singapore: Association of Women for Action and Research. (Call no.: RSING 305.42095957 SMA)
+Arora, M. (Ed.). (2007). *[Small steps, giant leaps: A history of AWARE and the women’s movement in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12857007)*. Singapore: Association of Women for Action and Research. (Call no.: RSING 305.42095957 SMA)
 
-Big O. (2016). BigO. Retrieved from BigO website.
+Big O. (2016). *BigO*. Retrieved from BigO website.
 
-Chew, P., & Lam, J. (Eds.). (1993). Voices & choices: The women’s movement in Singapore. Singapore: Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI)
+Chew, P., & Lam, J. (Eds.). (1993). *[Voices & choices: The women’s movement in Singapore](https://eservice.nlb.gov.sg/itemholding.aspx?bid=6470289)*. Singapore: Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI)
 
-Chia, E. (2004, March 19). BAE watch. Today, p. 48. Retrieved from NewspaperSG.
+Chia, E. (2004, March 19). *[BAE watch](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20040319-1.2.62.1)*. *Today*, p. 48. Retrieved from NewspaperSG.
 
-Her World is still the No.1 seller. (1999, April 4). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[Her World is still the No.1 seller](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990404-1.2.67.2.2). (1999, April 4). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-Lee, S.C. (1988, November 1). It all started with Man in the Net. The Straits Times, p. 4. Retrieved from NewspaperSG.
+Lee, S.C. (1988, November 1). [It all started with Man in the Net](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881101-1.2.67.8.1). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-Loong, M.L. (Ed.). (1988). On television in Singapore. Singapore: Singapore Broadcasting Corporation. (Call no.: RSING 384.554095957 ON)
+Loong, M.L. (Ed.). (1988). *[On television in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979514)*. Singapore: Singapore Broadcasting Corporation. (Call no.: RSING 384.554095957 ON)
 
-Singapore Film Commission. (1999). Singapore film directory. Singapore: Singapore Film Commission. (Call no.: RSING 384.80255957 SFD)
+Singapore Film Commission. (1999). *[Singapore film directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9628745)*. Singapore: Singapore Film Commission. (Call no.: RSING 384.80255957 SFD)
 
 [The ‘supporters’ of entertainment magazines](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881101-1.2.67.8.4). (1988, November 1). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
