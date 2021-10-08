@@ -14,8 +14,3 @@ permalink: /editors-picks/food
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/kueh-lapis" target="_blank"> Love Is a Many-Layered Thing</a>
  <p>What lies in this vale of tiers? Christopher Tan delves into lapis legit, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers.</p> 
   <hr clear="left">
- 
- 
- 
- 
- 
