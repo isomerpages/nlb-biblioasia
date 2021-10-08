@@ -4,7 +4,7 @@ date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/home-and-away
 layout: post
 ---
-Michelle Heng meanders through Singapore’s post-Independence literary landscape and discovers diasporic works that display a quiet strength even as they explore refreshingly dissonant views on nation and one’s identity.
+#### **Michelle Heng** meanders through Singapore’s post-Independence literary landscape and discovers diasporic works that display a quiet strength even as they explore refreshingly dissonant views on nation and one’s identity.
 
 In the aftermath of a devastating World War II, budding writers in Malaya honed their craft by publishing works that appeared in varsity literature, empowered as they were by a fiery desire to forge a common literary voice in English. With the establishment of the University of Malaya in 1949, the students were likely moved to wield their pens by the 1948 Carr-Saunders Commission Report which articulated that “The University of Malaya will provide for the first time a common centre where varieties of race, religion and economic interest could mingle in a joint endeavour...For a University of Malaya must inevitably realise that it is a university for Malaya.” 
 
