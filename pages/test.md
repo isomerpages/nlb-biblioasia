@@ -2,27 +2,31 @@
 title: test
 permalink: /test
 ---
-
-<iframe width=800px height=auto src="https://www.youtube.com/embed/Bjng3mcRUYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<i>Courtesy of Civil Aviation Authority of Singapore</i>
-
-
-<hr>
-
 <style>
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
-    height: 0;
+.center-cropped {
+  width: 300px;
+  height: 300px;
+  background-image: url('/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
 }
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-<div class="video-container">
-    <iframe width="800" height="auto" src="https://www.youtube.com/embed/Bjng3mcRUYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+	</style>
+ <hr>
+ 
+ <style>
+        .Center {
+            width:500px;
+            height:200px;
+            position: fixed;
+            top: 20%;
+            left: 50%;
+            margin-top: -200px;
+            margin-left: -100px;
+        }
+    </style>
+</head>
+  
+<body>
+    <div style="Center">
+			<img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg"> </div>
+</body>
