@@ -18,16 +18,20 @@ permalink: /editors-picks/places-buildings
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/building" target="_blank"> Planning to Build, Building to Plan</a>
 <p>The collection of building plans in the National Archives of Singapore is a treasure trove of information about the history of urban Singapore, says Yap Jo Lin.</p> 
 <img style="width:100%;" src="/images/Vol-16-issue-3/building/planningbuilding-semidetachedhse.jpg">  
-<hr clear="left">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/karikal" target="_blank"> Karikal Mahal: The Lost Palace of a Fallen Cattle King</a>
 <p>William L. Gibson uncovers the story behind the pair of grand buildings along Still Road South and their transformation over the last century.</p> 
-<hr clear="left">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/jurong-bird-park" target="_blank"> How Jurong Bird Park Was Hatched</a>
 <p>On the 50th anniversary of its opening, Zoe Yeo gives us a bird’s-eye view of the setting up of one.</p>
 <div style="height: 220px; width:450px; overflow: hidden; float:center">
 <img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg"> </div>
-<hr clear="left">
 
+<hr>
 
+<div style="width: auto; height: 200px;  overflow: hidden; position: relative;">
+    <img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg" style="left:-40px; top:-45px; width:auto; height: 300px;"/>
+</div>
+<hr>
