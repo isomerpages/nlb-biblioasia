@@ -18,7 +18,8 @@ permalink: /editors-picks/literature
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malay-magic" target="_blank">Finding Magic Everywhere</a>
 <p>According to Farish A. Noor, many of the beliefs and rituals described in Walter Skeat’s book Malay Magic may not be considered particularly “magical”.</p> 
- <img style="width:500px;"src="/images/Vol-17-issue-1/magic/malaymagic.png">  
+ <img style="width:500px;" 
+		src="/images/Vol-17-issue-1/magic/malaymagic.png">  
  <hr clear="left">
  
 
