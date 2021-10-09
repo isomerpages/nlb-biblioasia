@@ -29,7 +29,6 @@ permalink: /editors-picks/places-buildings
 <img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg;" style="height:300px; width:auto;"> 
 <hr clear="left">
 
-<div style="width: auto; height: 150; overflow: hidden">
+<div style="width: auto; height: 240px; overflow: hidden">
   <img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg" width="auto" height="300">
-</div> 
-   
+</div>
