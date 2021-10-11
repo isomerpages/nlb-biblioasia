@@ -46,7 +46,7 @@ This Indian film guide, published in English, was possibly the first of its kind
 
 ***Indian Movie News*** (Vol. 5, No. 8, March 1957); publisher: I. S. Menon
 
-In the 1950s and right till the late 70s, Tamil and Hindi films were screened to full houses in Singapore and Kuala Lumpur. Royal and Diamond theatres, standing side by side along North Bridge Road were two of a handful of cinemas that specialised in screening Indian films. Indian Movie News, a bilingual magazine published in English and Tamil, featured happenings in the Indian film industry and interviews with film stars. Actor Dilip Kumar, pictured on the cover of this issue, plays the titular role in the film Azaad – the top grossing Hindi film of 1955.
+In the 1950s and right till the late 70s, Tamil and Hindi films were screened to full houses in Singapore and Kuala Lumpur. Royal and Diamond theatres, standing side by side along North Bridge Road were two of a handful of cinemas that specialised in screening Indian films. *Indian Movie News*, a bilingual magazine published in English and Tamil, featured happenings in the Indian film industry and interviews with film stars. Actor Dilip Kumar, pictured on the cover of this issue, plays the titular role in the film Azaad – the top grossing Hindi film of 1955.
 
 <div style="background-color: white;"><br><img style="width:330px" src="/images/Vol-12-issue-1/cover-to-cover/06_covertocover.bmp"></div>
 
@@ -58,48 +58,49 @@ This monthly women’s magazine in English offered more than just fashion news. 
 
 ***Berita Filem Film News*** (December 1960); publisher: Mohd. Salleh Haji Ali
 
-This magazine showcased the Malay film industry and the popular stars of the time such as P. Ramlee, Sa’adiah and Maria Menado. The years spanning 1947 to 1972, which saw film studios like Shaw Brothers’ Malay Film Productions and Cathay-Keris at their peak, is now regarded as the “golden age of Malay cinema”. This inaugural issue featured articles written by two special guest writers, the actresses Sa’adiah and Normadiah. Pictured on the cover is the actress Salmah Ahmad, who starred in three films in the 1950s that featured pontianak, a vampiric ghost from Malay folklore.
+This magazine showcased the Malay film industry and the popular stars of the time such as P. Ramlee, Sa’adiah and Maria Menado. The years spanning 1947 to 1972, which saw film studios like Shaw Brothers’ Malay Film Productions and Cathay-Keris at their peak, is now regarded as the “golden age of Malay cinema”. This inaugural issue featured articles written by two special guest writers, the actresses Sa’adiah and Normadiah. Pictured on the cover is the actress Salmah Ahmad, who starred in three films in the 1950s that featured *pontianak*, a vampiric ghost from Malay folklore.
 
 <div style="background-color: white;"><br><img style="width:330px" src="/images/Vol-12-issue-1/cover-to-cover/08_covertocover.bmp"></div>
 
 ***Her World*** (November 1962); publisher: Straits Times Press (Malaya) Ltd
 
-Since its inaugural issue in July 1960, this pioneer women’s magazine has stood the test of time and continues to reign as the most popular and recognisable women’s magazine in Singapore today. As a microcosm of women in Singapore society, Her World has successfully captured changing trends in lifestyles and gender-related issues over the decades. Apart from the usual features on fashion, makeup and food, the lead article of this issue was “Are Mothers Responsible for Juvenile Delinquency?” – a headline that will likely make the modern mothers of today fume! On the cover is model Tessie Lim, dressed in a traffic-stopping sarong kebaya.
+Since its inaugural issue in July 1960, this pioneer women’s magazine has stood the test of time and continues to reign as the most popular and recognisable women’s magazine in Singapore today. As a microcosm of women in Singapore society, *Her World* has successfully captured changing trends in lifestyles and gender-related issues over the decades. Apart from the usual features on fashion, makeup and food, the lead article of this issue was “Are Mothers Responsible for Juvenile Delinquency?” – a headline that will likely make the modern mothers of today fume! On the cover is model Tessie Lim, dressed in a traffic-stopping *sarong kebaya*.
 
 <div style="background-color: white;"><br><img style="width:330px" src="/images/Vol-12-issue-1/cover-to-cover/09_covertocover.bmp"></div>
 
-Movie Mirror (Vol. 1, No. 1, February/March 1963); publisher: Malaysian Enterprises
+***Movie Mirror*** (Vol. 1, No. 1, February/March 1963); publisher: Malaysian Enterprises
 
-Movie Mirror first hit Malayan newsstands in 1963, bringing the latest film news in English to fans in this part of the world. The cover of this maiden issue featured Charlton Heston and Sophia Loren in the movie El Cid (1961), which American director Martin Scorsese hailed as “one of the greatest epic films ever made”. Also mentioned in this issue is the film Cast the Same Shadow, a joint production by Cathay Keris and Precitel and loosely based on the life story of Maria Hertogh, whose custody lawsuit triggered a series of riots in Singapore in December 1950.
+*Movie Mirror* first hit Malayan newsstands in 1963, bringing the latest film news in English to fans in this part of the world. The cover of this maiden issue featured Charlton Heston and Sophia Loren in the movie *El Cid* (1961), which American director Martin Scorsese hailed as “one of the greatest epic films ever made”. Also mentioned in this issue is the film *Cast the Same Shadow*, a joint production by Cathay Keris and Precitel and loosely based on the life story of Maria Hertogh, whose custody lawsuit triggered a series of riots in Singapore in December 1950.
 
 <div style="background-color: white;"><br><img style="width:330px" src="/images/Vol-12-issue-1/cover-to-cover/10_covertocover.bmp"></div>
 
-Bintang dan Irama Star and Rhythm (June 1967); publisher: Suhaimi Enterprise
+***Bintang dan Irama Star and Rhythm*** (June 1967); publisher: Suhaimi Enterprise
 
-Bintang Dan Irama, which means “star and rhythm” in Malay, was a popular magazine that cast the spotlight on the Malay entertainment scene in the 1960s. This issue contains song lyrics and mini biographies of then popular singers such as Hussain Ismail, Jefri Din and Rafeah Buang, who were stars in the Malay pop industry during the “Pop yeh yeh” era, a genre of pop music that was in vogue in the 1960s. Featured on the cover of this first issue are Jefri Din (seated) with Rafeah Buang (left) and Siti Zaiton (right).
+*Bintang Dan Irama*, which means “star and rhythm” in Malay, was a popular magazine that cast the spotlight on the Malay entertainment scene in the 1960s. This issue contains song lyrics and mini biographies of then popular singers such as Hussain Ismail, Jefri Din and Rafeah Buang, who were stars in the Malay pop industry during the “Pop yeh yeh” era, a genre of pop music that was in vogue in the 1960s. Featured on the cover of this first issue are Jefri Din (seated) with Rafeah Buang (left) and Siti Zaiton (right).
 
 <div style="background-color: white;"><br><img style="width:330px" src="/images/Vol-12-issue-1/cover-to-cover/11_covertocover.bmp"></div>
 
-妇女俱乐部: 美容美发季刊 Woman’s Beauty Club: Hair Fashion and Beauty Culture Edition (July 1968); publisher: 妇女俱乐部出版
+**妇女俱乐部: 美容美发季刊** *Woman’s Beauty Club: Hair Fashion and Beauty Culture Edition* (July 1968); publisher: 妇女俱乐部出版
 
 This Chinese women’s magazine showcased the latest in hairstyles, fashion and makeup in the late 1960s and early 70s. Bouffant styles such as the voluminous beehive as well as the “Lion City” hairdo, which was designed to “portray light, feathery movements that reflect the classy side of the Singaporean lady”, were very popular at the time. These hairstyles were showcased in the maiden issue of the magazine published in July 1968.
 
 <div style="background-color: white;"><br><img style="width:330px" src="/images/Vol-12-issue-1/cover-to-cover/12_covertocover.bmp"></div>
 
-Female (25 March 1974); publisher: MPH Magazines Sdn. Bhd.
+***Female*** (25 March 1974); publisher: MPH Magazines Sdn. Bhd.
 
-Launched in 1974 by MPH Publications, Female is probably the closest competitor to Her World in the women’s magazine business. In terms of content, it is not vastly dissimilar from Her World. The cover girl for the 25 March 1974 issue was Debra de Souza, who was crowned Miss Singapore in 1973 and represented the country in the Miss Universe pageant in Athens and the Miss World pageant in London the same year. Female was acquired by SPH Magazines in 2004 and received an extensive makeover. It now markets itself as “Singapore’s No. 1 fashion and beauty curator”.
+Launched in 1974 by MPH Publications, *Female* is probably the closest competitor to *Her World* in the women’s magazine business. In terms of content, it is not vastly dissimilar from *Her World*. The cover girl for the 25 March 1974 issue was Debra de Souza, who was crowned Miss Singapore in 1973 and represented the country in the Miss Universe pageant in Athens and the Miss World pageant in London the same year. *Female* was acquired by SPH Magazines in 2004 and received an extensive makeover. It now markets itself as “Singapore’s No. 1 fashion and beauty curator”.
 
 <div style="background-color: white;"><br><img style="width:330px" src="/images/Vol-12-issue-1/cover-to-cover/13_covertocover.jpg"></div>
 
-Fanfare (24 October 1969); publisher: Straits Times Press (S) Sdn. Bhd.
+***Fanfare*** (24 October 1969); publisher: Straits Times Press (S) Sdn. Bhd.
 
-Billed as “The Weekly for Swingers”, Fanfare was the leading English-language entertainment magazine of the 1970s. Printed in colour on newsprint, this digest had a huge following among the hip teenagers and young adults of the day. Readers lapped up “chats” with stars, reports on the local entertainment scene as well as the latest in pop music and film from Hollywood and Hong Kong. Witty articles and columns by journalists Siva Choy, Sylvia Toh Paik Choo, Gloria Chandy, Margaret Cunico and the enigmatically named Kitchi Boy made Fanfare a much-loved bestseller for many years. The Beatles – Paul McCartney, Julian Lennon, George Harrison and Ringo Starr – took prime spot on the cover of this issue.
+Billed as “The Weekly for Swingers”, *Fanfare* was the leading English-language entertainment magazine of the 1970s. Printed in colour on newsprint, this digest had a huge following among the hip teenagers and young adults of the day. Readers lapped up “chats” with stars, reports on the local entertainment scene as well as the latest in pop music and film from Hollywood and Hong Kong. Witty articles and columns by journalists Siva Choy, Sylvia Toh Paik Choo, Gloria Chandy, Margaret Cunico and the enigmatically named Kitchi Boy made *Fanfare* a much-loved bestseller for many years. The Beatles – Paul McCartney, Julian Lennon, George Harrison and Ringo Starr – took prime spot on the cover of this issue.
 
 <div style="background-color: white;"><br><img style="width:350px" src="/images/Vol-12-issue-1/cover-to-cover/14_covertocover.jpg"></div>
 
-电视与广播 TV & Radio Magazine (18 February 1963); 电视周刊 TV Weekly (1 January 1977);
-i周刊 i-Weekly (8–15 November 1997); and 电视广播周刊 TV & Radio Weekly (24–30 January 1981)One of the first local showbiz magazines published in Chinese, 电视与广播 (TV & Radio Magazine) kept readers up-to-date with the latest entertainment news in the region during the 1960s and 70s. Launched on 18 February 1963 just three days after TV was introduced in Singapore on 15 February (see page 33), the magazine featured TV broadcaster 梁路诗 as its first cover girl. With TV sets becoming more common in households, the magazine was renamed 电视周刊 (TV Weekly) on 1 January 1977 to provide more content on TV programmes. Actress Tay Seen Yei (郑心愉), who was also a reporter with the Chinese daily Min Pao, graced the cover of the first issue. 电视广播周刊 (TV & Radio Weekly), published on 24January 1981 with Hong Kong actress Carol Cheng (郑裕玲) on the cover, replaced TV Weekly at a time when Hong Kong drama serials such as Man in the Net became hugely popular with local viewers. In 1997, the magazine was rebranded again, this time as i周刊 (i-Weekly), touted as Singapore’s No. 1 Chinese magazine and an all-time favourite for delivering a weekly staple of celebrity news and interviews, and TV and movie features. Featured on the inaugural issue of i-Weekly (8–15 November 1997) are local actresses Ann Kok (郭舒贤) (left) and Zoe Tay (郑惠玉) (right).
+(Clockwise from top left) **电视与广播** *TV & Radio Magazine* (18 February 1963); **电视周刊** *TV Weekly* (1 January 1977); **i周刊** *i-Weekly* (8–15 November 1997); and **电视广播周刊** *TV & Radio Weekly* (24–30 January 1981)
+
+One of the first local showbiz magazines published in Chinese, 电视与广播 (*TV & Radio Magazine*) kept readers up-to-date with the latest entertainment news in the region during the 1960s and 70s. Launched on 18 February 1963 just three days after TV was introduced in Singapore on 15 February (see page 33), the magazine featured TV broadcaster 梁路诗 as its first cover girl. With TV sets becoming more common in households, the magazine was renamed 电视周刊 (*TV Weekly*) on 1 January 1977 to provide more content on TV programmes. Actress Tay Seen Yei (郑心愉), who was also a reporter with the Chinese daily Min Pao, graced the cover of the first issue. 电视广播周刊 (*TV & Radio Weekly*), published on 24January 1981 with Hong Kong actress Carol Cheng (郑裕玲) on the cover, replaced *TV Weekly* at a time when Hong Kong drama serials such as *Man in the Net* became hugely popular with local viewers. In 1997, the magazine was rebranded again, this time as i周刊 (*i-Weekly*), touted as Singapore’s No. 1 Chinese magazine and an all-time favourite for delivering a weekly staple of celebrity news and interviews, and TV and movie features. Featured on the inaugural issue of *i-Weekly* (8–15 November 1997) are local actresses Ann Kok (郭舒贤) (left) and Zoe Tay (郑惠玉) (right).
 
 <div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-1/cover-to-cover/15_covertocover.jpg"></div>
 
