@@ -4,6 +4,11 @@ date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/what-is-singaporean
 layout: post
 ---
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/singaporean/outside_City_Hall.jpg">
+The National Day emblem outside City Hall at the 1963 National Day Rally held at the Padang. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
+
 Let me begin with a paradox. I know that I am a Singaporean. But I do not know what a Singaporean is.
 
 The best way to explain this paradox is to compare Singapore with other nations. There are three categories of nations with a clear sense of national identity. The first category is the old nation. Take France as an example. The French have zero doubts about their national identity. It is based on a common language, history, culture, relative ethnic homogeneity and deep attachment to key political concepts, like secularism. A Frenchman can recognise a fellow Frenchman in an instant. The bond is powerful and deep. This is equally true of other old nations, such as Japan and Korea, Russia and China, Spain and Sweden.
@@ -18,7 +23,10 @@ A shared history, common historical myths, deep attachment to values like freedo
 
 It also helps to belong to the most successful nation in human history. A deep sense of national pride accompanies the sense of national identity.
 
-The National Day emblem outside City Hall at the 1963 National Day Rally held at the Padang. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/singaporean/article.jpg">
+This article was first printed in <i>The Straits Times</i> on 8 June, 2013. <i>The Straits Times</i> © Singapore Press Holdings Pte Ltd. Reprinted with permission.</div>
 
 #### **Old Cultures, New Nations**
 
@@ -26,9 +34,15 @@ The third category is the mixed category where national identity is a mixture of
 
 Both Indians and Indonesians have no difficulty recruiting people to die for their countries. And they have done this despite the tremendous diversity of their societies. The story of Indian diversity is well known. In the case of Indonesia, it continues to be a source of daily discovery. The late Indonesian foreign minister Ali Alatas, a distinguished diplomat, told me how the Indonesian people were totally riveted by a series of TV programmes in the 1990s which showcased how children worked, studied and played all over the archipelago. Many Indonesians discovered this diversity for the first time.
 
-Medical staff at the General Hospital attending to racial riot victims in 1964. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/singaporean/hospital.jpg">
+Medical staff at the General Hospital attending to racial riot victims in 1964. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
-Row of shophouses along Onan Road in 1983. This multiracial neighbourhood in the East Coast was where the author spent his formative years. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/singaporean/on_road.jpg">
+Row of shophouses along Onan Road in 1983. This multiracial neighbourhood in the East Coast was where the author spent his formative years. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 #### **Poor But Happy Community**
 
