@@ -104,17 +104,17 @@ One of the first local showbiz magazines published in Chinese, 电视与广播 (
 
 <div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-1/cover-to-cover/15_covertocover.jpg"></div>
 
-BigO (November 1989 and January 1991); publisher: Options Publications
+***BigO*** (November 1989 and January 1991); publisher: Options Publications
 
-Launched in September 1985 by journalists (and brothers) Michael and Philip Cheah, BigO sold itself as a “self-styled indie magazine” promoting the English music scene in Singapore.
+Launched in September 1985 by journalists (and brothers) Michael and Philip Cheah, *BigO* sold itself as a “self-styled indie magazine” promoting the English music scene in Singapore.
 
-Published as a monthly in black and white, BigO (or Before I Get Old) had a small but devoted following among fans of homegrown bands. The magazine was also known for organising live concerts and releasing compilations on cassettes and CDs. BigO ceased publication in 2002 and later became an online magazine. The cover of the November 1989 issue featured a caricature of singer Chris Ho. In the 1990s, the magazine went full colour as seen in the January 1991 issue featuring the veteran rock band Heritage as well as a new masthead and design.
+Published as a monthly in black and white, *BigO* (or Before I Get Old) had a small but devoted following among fans of homegrown bands. The magazine was also known for organising live concerts and releasing compilations on cassettes and CDs. *BigO* ceased publication in 2002 and later became an online magazine. The cover of the November 1989 issue featured a caricature of singer Chris Ho. In the 1990s, the magazine went full colour as seen in the January 1991 issue featuring the veteran rock band Heritage as well as a new masthead and design.
 
 <div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-12-issue-1/cover-to-cover/16_covertocover.jpg"></div>
 
-Radio & TV Times (25 October 1980) and 8 DAYS (20 October 1990)
+***Radio & TV Times*** (25 October 1980) and ***8 DAYS*** (20 October 1990)
 
-When Radio Television Singapore was restructured as Singapore Broadcasting Corporation on 1 February 1980, it ushered in a new era in television. Radio & TV Times became its vehicle to publicise its line-up of both locally produced Chinese dramas and imported Western TV shows – such as the TV series Battlestar Galactica on the cover of the maiden issue – as well as the latest news in entertainment to English-speaking readers. In October 1990, Radio & TV Times was given a design makeover and renamed 8 DAYS. This early issue (20 October 1990) featured Whitney Houston on its cover, and in December 2009, the magazine celebrated the launch of its 1,000th issue. The focus of the magazine has since shifted from celebrity gossip and TV-related news to include film, music, books and food reviews.
+When Radio Television Singapore was restructured as Singapore Broadcasting Corporation on 1 February 1980, it ushered in a new era in television. *Radio & TV Times* became its vehicle to publicise its line-up of both locally produced Chinese dramas and imported Western TV shows – such as the TV series *Battlestar Galactica* on the cover of the maiden issue – as well as the latest news in entertainment to English-speaking readers. In October 1990, *Radio & TV Times* was given a design makeover and renamed *8 DAYS*. This early issue (20 October 1990) featured Whitney Houston on its cover, and in December 2009, the magazine celebrated the launch of its 1,000th issue. The focus of the magazine has since shifted from celebrity gossip and TV-related news to include film, music, books and food reviews.
 
 <div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6"><b>What is PublicationSG</b>
 <br><br>
