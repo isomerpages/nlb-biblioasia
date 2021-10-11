@@ -56,7 +56,7 @@ With very few exceptions, the most elegant – and fruitful – neuroscience met
 
 And so, I would see something like what S.U.R.E. is doing as complementary because often the brain is right but sometimes it is wrong. When it goes wrong, it is when it fails to see different perspectives of the same things, fails to understand the sources and fails to understand biases of the information coming in. So I would say that by and large, the brain does a good job and then, every now and then, you really do need to go the extra step and fully analyse and source the situation that you are in.
 
-#### **Can you share with us more on how the brain functions – specifically how it controls our decisionmaking process?**
+#### **Can you share with us more on how the brain functions – specifically how it controls our decision-making process?**
 
 We only know the very tip of the iceberg on this kind of problem and as I have already mentioned, neuroscience is still a very young field and we are just only going into these kinds of questions. 
 
@@ -72,6 +72,6 @@ The brain’s innate propensity to filter out information actually works to our 
 
 The National Information Literacy Programme promotes four simple steps – Source, Understand, Research and Evaluate – to assess information.
 
-<i>Currently an established neuroscience postdoctoral fellow in the Axel Laboratory at Columbia University, Dr Carl Schoonover is also the acclaimed author of Portraits of the Mind: Visualizing the Brain from Antiquity to the 21st Century (Abrams, November 2010), a book that chronicles the fascinating exploration of the brain through images. Watch his illuminating TED Presentation on this subject at: http://www.ted.com/talks/carl_schoonover_how_to_ look_inside_the_brain.html</i>
+<i>Currently an established neuroscience postdoctoral fellow in the Axel Laboratory at Columbia University, Dr Carl Schoonover is also the acclaimed author of</i> Portraits of the Mind: Visualizing the Brain from Antiquity to the 21st Century <i>(Abrams, November 2010), a book that chronicles the fascinating exploration of the brain through images. Watch his illuminating TED Presentation on this subject at: http://www.ted.com/talks/carl_schoonover_how_to_ look_inside_the_brain.html</i>
 
 <i>To view a full video of the exclusive interview with Dr Carl Schoonover, as well as highlights of S.U.R.E. Day, please visit: http://nlb.gov.sg/SURE</i>
