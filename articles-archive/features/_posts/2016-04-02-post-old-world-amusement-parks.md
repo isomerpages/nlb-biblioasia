@@ -44,7 +44,7 @@ Taking a spin on the Ferris wheel, carousel, ghost train and the dodgem or bumpe
 
 Theatre personality Margaret Chan, who spent many weekends at Great World when she was a child, preferred the carousel: “My little sister and I would rush for the one and only elephant on the carousel, and [we] loved sipping the free Milo… out of little conical cups.”[^12]
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-1/old-world-amusement-parks/03a_amusementpark.jpg">The carousel ride at the Great World amusement park in 1954. Along with the Ferris wheel, ghost train and dodgem or bumper car, the carousel was one of the most sought-after rides at the  amusement parks. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-1/old-world-amusement-parks/03a_amusementpark.jpg">The carousel ride at the Great World amusement park in 1954. Along with the Ferris wheel, ghost train and dodgem or bumper car, the carousel was one of the most sought-after rides at the  amusement parks. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In addition to the rides, there was also a wide variety of carnival games. These included ring toss, swinging cans and dart throwing. There were also gambling stalls called “tikam tikam” (Malay for game of chance) where people could bet on numbers to win either cash or prizes. Woon recalls that one of the most popular booths at Great World was the shooting gallery. The game required the player to shoot a target from various distances using a rifle to win prizes such as watches, bags, fans and vacuum flasks.[^13]
 
