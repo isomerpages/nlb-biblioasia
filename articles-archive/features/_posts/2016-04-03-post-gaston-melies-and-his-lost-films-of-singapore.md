@@ -1,9 +1,10 @@
 ---
-title: Gaston Mèliès and His Lost Films Of Singapore
+title: Gaston Mèliès and His Lost Films of Singapore
 date: 2016-04-03
 permalink: /vol-12/issue-1/apr-jun-2016/gaston-melies
 layout: post
 ---
+
 #### Gaston Méliès may be the first filmmaker to have directed fiction films in Singapore. Unfortunately, none have survived the ravages of time. **Raphaël Millet** tells you why.
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg">As none of the four films that Gaston Méliès shot in Singapore in January 1913 have survived, photographs such as these taken by members of Méliès’ entourage when they were here at the time likely indicate scenes that may have been captured in the film A Day at Singapore. Pictured here from left to right are Sri Mariamman Temple on South Bridge Road, a shophouse in Chinatown and Masjid Jamae (Chulia Mosque), an Indian-Muslim mosque on South Bridge Road. <i>Courtesy of “Gaston Méliès and his Wandering Star Film Company” © Nocturnes Productions, 2015.</i></div>
