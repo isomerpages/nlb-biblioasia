@@ -72,6 +72,6 @@ The brain’s innate propensity to filter out information actually works to our 
 
 The National Information Literacy Programme promotes four simple steps – Source, Understand, Research and Evaluate – to assess information.
 
-<i>Currently an established neuroscience postdoctoral fellow in the Axel Laboratory at Columbia University, Dr Carl Schoonover is also the acclaimed author of</i> Portraits of the Mind: Visualizing the Brain from Antiquity to the 21st Century <i>(Abrams, November 2010), a book that chronicles the fascinating exploration of the brain through images. Watch his illuminating TED Presentation on this subject at: http://www.ted.com/talks/carl_schoonover_how_to_ look_inside_the_brain.html</i>
+<i>Currently an established neuroscience postdoctoral fellow in the Axel Laboratory at Columbia University, Dr Carl Schoonover is also the acclaimed author of</i> Portraits of the Mind: Visualizing the Brain from Antiquity to the 21st Century <i>(Abrams, November 2010), a book that chronicles the fascinating exploration of the brain through images. Watch his illuminating TED Presentation on this subject at: http://www.ted.com/talks/carl_schoonover_how_to_look_inside_the_brain.html</i>
 
 <i>To view a full video of the exclusive interview with Dr Carl Schoonover, as well as highlights of S.U.R.E. Day, please visit: http://nlb.gov.sg/SURE</i>
