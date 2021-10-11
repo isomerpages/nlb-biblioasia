@@ -21,15 +21,14 @@ permalink: /editors-picks/people
 <img style="width:500px;" src="/images/Vol-16-issue-1/marjorie/Majorie-title.png"> 
 <hr> 
 
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague" target="_blank">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
-<p>The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.</p> 
-<hr> 
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/sangnila" target="_blank">Sang Nila Utama: Separating Myth From Reality</a>
 <p>The Malay prince who founded Singapura in the 13th-century is a controversial figure – depending on which account of the Sejarah Melayu you read, says Derek Heng.</p> 
 <hr> 
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague" target="_blank">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
+<p>The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.</p> 
+<img style="width:100%;" src="/images/Vol-16-issue-2/plague/DrWuLienTeh.jpg">  
+<hr> 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/karikal" target="_blank">Karikal Mahal: The Lost Palace of a Fallen Cattle King</a>
 <p>William L. Gibson uncovers the story behind the pair of grand buildings along Still Road South and their transformation over the last century.</p> 
