@@ -50,11 +50,11 @@ Semenjak itu muncul pula kumpulan-kumpulan bangsawan yang lain seperti Wayang Se
 
 Bai Kassim merupakan seorang tokoh yang sememangnya masyhur dengan kebolehannya sebagai pengarah dan pemimpin kumpulan bangsawan. Beliau telah membuka sebuah kumpulannya sendiri pada tahun 1902.[^10] Kumpulan ini telah diubah nama kepada Indera Zanzibar dan menjelajahi Tanah Melayu dan Indonesia termasuk Jawa, Sumatera dan Borneo. Kumpulan ini kemudian diraikan oleh Sultan dan diberikan kebesaran. Kemudian pada tahun 1907 kumpulan ini ditukar namanya kepada The Zanzibar Royal Theatrical Company of Singapore oleh Sultan Pontianak, salah sebuah negeri di Kalimantan.[^11]
 
+<div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/04-seni.bmp">Gambar awal pementasan bangsawan, 1900. <i>Koleksi Mohd Amin Bin Kadarisman. Ihsan Arkib Negara Singapura.</i></div>
+
 Tahun 1902 – 1935 boleh dianggap sebagai tahun-tahun gemilang seni pementasan bangsawan. Pada masa itu, setiap pementasan bangsawan dapat menarik ramai penonton ketika ia dipentaskan seperti di Happy World di Geylang Road, New World di Jalan Besar, Panggung Alhambra, Diamond dan Royal.
 
 Dalam kajian Rahmah Bujang,[^12] terdapat beberapa kumpulan bangsawan yang pernah bertapak di Singapura. Antaranya ialah International Opera of Singapore. Kumpulan bangsawan ini telah dibukan oleh seorang Cina bernama Baba Koh. Kumpulan ini telah diterajui oleh Nasir dan Midah sebagai pelakon utamanya.
-
-<div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/04-seni.bmp">Gambar awal pementasan bangsawan, 1900. <i>Koleksi Mohd Amin Bin Kadarisman. Ihsan Arkib Negara Singapura.</i></div>
 
 Star Opera merupakan sebuah kumpulan lagi yang terdapat di Singapura. Kumpulan ini telah ada sejak tahun 1919. Pelakon lelakinya ialah Khairuddin Tairo. Nahar Bangsawan merupakan sebuah lagi kumpulan yang ditubuhkan di Singapura. Pada tahun 1920, ia telah membuat sebuah pementasan di Geylang. Tuan  punya kumpulan bangsawan ini ialah Syed Ahmad Alsagoff dan pelakon utamanya Cik Sartinah.
 
@@ -72,13 +72,13 @@ Satu lagi faktor ialah kebolehan atau kemahiran para pelakon seni pementasan ban
 
 Maka tidaklah menjadi satu yang menghairankan bangsawan merupakan suatu bidang seni yang memerlukan tahap kemahiran dan kreativiti yang tinggi dari setiap anggota-anggotanya yang terlibat sama ada di depan atau belakang pentas.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/05-seni.bmp">Pementasan bangsawan di Perpustakaan Awam Geylang East oleh Perkumpulan Seni pada 26 September 2015. <i>Ihsan Perkumpulan Seni Singapura.</i></div>
-
 Namun selepas perang dunia kedua, seni pementasan bangsawan mula merudum sebelum akhirnya hilang pada tahun 1960an. Tetapi terdapat usaha-usaha untuk meneruskan seni lakon ini melalui wadah-wadah lain. Umpamanya pada tahun 1954,[^15] bangsawan mula ke udara melalui rancangan mingguan di Radio Malaya yang berpangkalan di Singapura. Pada tahun-tahun 1970an dan 1980an, bangsawan mula dipentaskan kembali dan muncul dikaca televisyen melalui penerbitan Radio Televisyen Singapura (RTS). Ini dibolehkan kerana ketika itu masih terdapat “orang-orang kuat” bangsawan seperti Almarhum Haji Shariff Medan, Almarhum Haji Ahmad Sabri dan Almarhum Haji Hamid Ahmad yang pernah melibatkan diri mereka dalam kegiatan dan pementasan seni bangsawan. Pada tahun April 1987, Seri Anggerik Bangsawan telah ditubuhkan dan diterajui oleh Almarhum Haji Hamid Ahmad.
 
 <div style="background-color: white;"><img style="width:380px" src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/06-seni.bmp"><i>Bangsawan: A Social and Stylistic History of Popular Malay Opera</i> oleh Tan Sooi Beng diterbitkan oleh The Asian Centre pada tahun 1997.</div>
 
 Radio Televisyen Singapura (RTS) pernah terlibat dalam beberapa pementasan bangsawan di Panggung Victoria. Antaranya ialah *Jula-Juli Bintang Tiga* (1978) dan *Puteri Gunung Ledang* (1979). Walaupun mendapat sambutan yang menggalakkan, namun setiap pementasan ini menelan belanja yang agak besar ketika itu. Kali terakhir seni bangsawan dipentaskan di Singapura ialah pada 15–17 Januari 2016. Ia telah dipentaskan di Teater Esplanade oleh Sri Mamanda Bangsawan yang membawa cerita *Raden Mas* yang ditulis oleh Encik Nadiputra.
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/05-seni.bmp">Pementasan bangsawan di Perpustakaan Awam Geylang East oleh Perkumpulan Seni pada 26 September 2015. <i>Ihsan Perkumpulan Seni Singapura.</i></div>
 
 Namun, setiap perubahan ruang di mana bangsawan ini dipentaskan juga sering menimbulkan perbincangan tentang keaslianseni pementasan bangsawan itu sendiri sama ada dari segi penampilan, cerita, lakonan dan sebagainya. Sebagaimana yang dihujahkan tadi, seni pementasan bangsawan adalah seni yang sering mengalami perubahan. Perubahan yang berlaku atau perlu dilakukan demi untuk memenuhi keperluan penonton semasa dan juga untuk mengadaptasikan ruang-ruang pementasan yang terdapat bagi pementasan seni bangsawan pada masa kini.
 
