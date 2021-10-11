@@ -6,6 +6,12 @@ layout: post
 ---
 #### **Michelle Heng** meanders through Singapore’s post-Independence literary landscape and discovers diasporic works that display a quiet strength even as they explore refreshingly dissonant views on nation and one’s identity.
 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/homeandaway/bg.jpg">
+Singapore’s stunning skyline is a much-photographed sight. While the soaring steel-and-glass buildings are a powerful symbol of the city’s triumphant nationbuilding efforts, it’s also a reminder of lost heritage and lives that have been displaced in the unrelenting pursuit of commercial success. As the poet Goh Poh Seng so succinctly described in his poem “Singapore”, it is a “city that does not even permit the memory of the sky”.</div>
+
 In the aftermath of a devastating World War II, budding writers in Malaya honed their craft by publishing works that appeared in varsity literature, empowered as they were by a fiery desire to forge a common literary voice in English. With the establishment of the University of Malaya in 1949, the students were likely moved to wield their pens by the 1948 Carr-Saunders Commission Report which articulated that “The University of Malaya will provide for the first time a common centre where varieties of race, religion and economic interest could mingle in a joint endeavour...For a University of Malaya must inevitably realise that it is a university for Malaya.” 
 
 Eager to partake in the moulding of a bright future in what was to become the new Malayan nation to-be, young student writers took on the mantle of establishing a Malayan literature for their countrymen who came from disparate communities that would, as part of a wide swathe of the Malayan cultural fabric, give Malayans a common national identity to aid their herculean endeavours in nation-building.[^1]
@@ -16,9 +22,7 @@ The other reputable literary publications of this period included <i>The Malayan
 
 In the post-1965 era, Singapore set forth on a programme of industrialisation, boosted by the government’s ideology of economic pragmatism, legitimised by the fact that Singapore was previously thought to be untenable as an independent nation in terms of defence, economics and politics.[^4] Amid the trauma and troubling anxiety that arose from Singapore’s newly independent status as a city-state, there was an urgent need on the part of the government to cement the twin ideologies of nation-building and modernisation. 
 
-The main pursuits of nation-building included the advocacy of a multi-ethnic policy and the promotion of a bilingual proficiency with English as the <i>lingua franca</i> as well as a “mother tongue” of either Malay, Mandarin or Tamil. The push for modernisation called for a switch from traditional social practices to traits that were more compliant with the economic goals of industrialisation. Urban renewal projects eradicated agrarian practices to make way for industrial projects, housing development policies encouraged ethnic integration where previously closeknit ethnic communities had existed in Michelle Heng is a Librarian with the National Library of Singapore. She compiled and edited Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems and more recently, Selected Poems of Goh Poh Seng. She was also the co-compiler and joint editor of Edwin Thumboo – Timetravelling: A Selected Annotated Bibliography. enclaves, and mandatory military service was introduced for all males in an effort to forge a common national identity. [^5]
-
-Singapore’s stunning skyline is a much-photographed sight. While the soaring steel-and-glass buildings are a powerful symbol of the city’s triumphant nationbuilding efforts, it’s also a reminder of lost heritage and lives that have been displaced in the unrelenting pursuit of commercial success. As the poet Goh Poh Seng so succinctly described in his poem “Singapore”, it is a “city that does not even permit the memory of the sky”. 
+The main pursuits of nation-building included the advocacy of a multi-ethnic policy and the promotion of a bilingual proficiency with English as the <i>lingua franca</i> as well as a “mother tongue” of either Malay, Mandarin or Tamil. The push for modernisation called for a switch from traditional social practices to traits that were more compliant with the economic goals of industrialisation. Urban renewal projects eradicated agrarian practices to make way for industrial projects, housing development policies encouraged ethnic integration where previously closeknit ethnic communities had existed in Michelle Heng is a Librarian with the National Library of Singapore. She compiled and edited Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems and more recently, Selected Poems of Goh Poh Seng. She was also the co-compiler and joint editor of Edwin Thumboo – Timetravelling: A Selected Annotated Bibliography. enclaves, and mandatory military service was introduced for all males in an effort to forge a common national identity. [^5] 
 
 #### **Public Verses, Personal Thoughts: Edwin Thumboo**
 
@@ -36,7 +40,10 @@ Thumboo was the first Singaporean to be conferred the prestigious S.E.A. Write A
 
 Today, Thumboo remains highly prolific; one of his recent poems, “Bukit Panjang: Hill, Village, Town” (2012), is a sensitive portrayal of how Singapore’s evolving urban-renewed identity underpins the social, political and economic values that frame the Republic’s rapid growth during its post-Independence years. This four-part poem personifies the familiar landmark as a “Time-traveller; master of winds...” in its imposing geology, Bukit Panjang’s cultural significance as a village in the chaotic period during the Japanese Occupation before it finally settles comfortably into the role of an “established” new town as it gradually becomes “plump with amenities”. Set against the dramatic backdrop of the restive preand post-Colonial periods, and later during the “super charged” nationbuilding years, the poem is one of Thumboo’s more recent efforts at blending his public voice and personal thoughts.
 
-Edwin Thumboo is considered as one of Singapore’s foremost literary pioneers and continues to write today. <i>Courtesy of Tribute.sg, an initiative by Esplanade – Theatres on the Bay and Edwin Nadason Thumboo.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/homeandaway/QUOTE_Edwin_Thumboo.jpg">
+Edwin Thumboo is considered as one of Singapore’s foremost literary pioneers and continues to write today. <i>Courtesy of Tribute.sg, an initiative by Esplanade – Theatres on the Bay and Edwin Nadason Thumboo.</i></div>
 
 #### **Private Verses, Public Thought: Goh Poh Seng**
 
@@ -48,7 +55,10 @@ As the eldest son in a lower-middleclass family, the protagonist, Kwang Meng, is
 
 Apart from his award-winning literary pursuits, Goh worked as a medical practitioner and held many honorary positions in the Singapore arts scene. As chairman of the National Theatre Trust Board between 1967 and 1972, he was responsible for the development of the arts and cultural policies of post-Independence Singapore, as well as the development of cultural institutions such as the Singapore National Symphony, the Chinese Orchestra and the Singapore Dance Company. 
 
-Goh Poh Seng was deeply involved in the development of Singapore’s arts and culture scene. <i>Courtesy of Tribute.sg, an initiative by Esplanade – Theatres on the Bay and the Goh family.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/homeandaway/Profile_Goh_Poh_Seng.jpg">
+Goh Poh Seng was deeply involved in the development of Singapore’s arts and culture scene. <i>Courtesy of Tribute.sg, an initiative by Esplanade – Theatres on the Bay and the Goh family.</i></div>
 
 Goh’s interests were not confined to just the highbrowed and cerebral. As a visionary cultural entrepreneur, Goh led the Boat Quay Conservation Scheme in the 1980s and crafted a blueprint for the development of Boat Quay into a vibrant lifestyle and entertainment area while preserving the historical buildings along the Singapore River. He also established Bistro Toulouse-Lautrec, a fashionable poetry-and-jazz café, and trendy Rainbow Lounge, Singapore’s first live disco and music venue.
 
@@ -72,9 +82,12 @@ More importantly, the suffocating and restless anxiety looming over his earlier 
 
 Then, during one night of night-long rain, alone in his room, listening to the monotonous drumming, to the anxious wind flapping the blind against the window sill, he found what he was looking for. He suddenly understood that there indeed was nothing to understand, that this was what all the wise men and sages of all the ages, what all the poets from time immemorial railed against, lamented – that there was nothing to understand, that it was impossible to know the unknowable...In extension, he had been wrong to feel that he had squandered his life, that it had been badly lived, that he had failed. Indeed, he had tried to love the whole world, and it was all right to live a life burdened with the love of family, children, friends, strangers. That night, he lost his fear, his anguish.
 
-The Singapore River after the removal of river craft such as <i>tongkangs</i> in 1984. Goh Poh Seng was involved in the redevelopment of Boat Quay in the 1980s. Today, the gentrified Boat Quay is a hub of bars, restaurants and cafés. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/homeandaway/singapore_river.jpg">
+The Singapore River after the removal of river craft such as <i>tongkangs</i> in 1984. Goh Poh Seng was involved in the redevelopment of Boat Quay in the 1980s. Today, the gentrified Boat Quay is a hub of bars, restaurants and cafés. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
-In a 2007 news article about Goh’s visit to Singapore for the first time in 21 years following his move to Canada, he was quoted as saying that he would have taken like a “duck to water” when asked if he could ever live in Singapore again.15 This was as fitting a denouement as one could expect for a diasporic homegrown writer who has left an indelible imprint on the nation’s works-in-progress mapping of its literary and cultural boundaries. 
+In a 2007 news article about Goh’s visit to Singapore for the first time in 21 years following his move to Canada, he was quoted as saying that he would have taken like a “duck to water” when asked if he could ever live in Singapore again.[^15] This was as fitting a denouement as one could expect for a diasporic homegrown writer who has left an indelible imprint on the nation’s works-in-progress mapping of its literary and cultural boundaries. 
 
 #### **Identity in a Global World**
 
@@ -86,9 +99,15 @@ And to what extent does state policy affect the “Renaissance Singaporean” �
 
 The main character in Hwee Hwee Tan’s novel <i>Mammon Inc.</i>, Chiah Deng Gan, is a fresh graduate from Oxford who is caught between the comforting offer of a research assistant position and the prospect of a lucrative job as an Adapter – a person who assists high-flyers from the world over adapt to different cultures in order to excel at their professions – at the sinister transnational set-up Mammon CorpS, a subsidiary of Mammon Inc, a larger global corporation with tentacles that reach every corner of the world. But Chiah has to succeed at three tests in order to be recruited; the first of which is to become accepted as a member of the uber-chic Gen Vex in New York, the second is to transform her British boyfriend Steve so that he can pass off as a Singlish-speaking ingaporean, and the last task is to help her dyed-in-the-wool Singaporean sibling Chiah Chen gain acceptance into the Oxford milieu.
 
-Award-winning writer Boey Kim Cheng in Palenque, Mexico. His latest works include <i>Between Stations</i> (2009) and <i>Clear Brightness</i> (2012). <i>Courtesy of Boey Kim Cheng.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/homeandaway/boey.jpg">
+Award-winning writer Boey Kim Cheng in Palenque, Mexico. His latest works include <i>Between Stations</i> (2009) and <i>Clear Brightness</i> (2012). <i>Courtesy of Boey Kim Cheng.</i></div>
 
-Hwee Hwee Tan is the author of Foreign Bodies (1997) and <i>Mammon Inc.</i> (2001).
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/homeandaway/Hwee_Hwee_Tan.jpg">
+Hwee Hwee Tan is the author of Foreign Bodies (1997) and <i>Mammon Inc.</i> (2001).</div>
 
 As Chiah Deng navigates her way in a transnational paradigm and mingles with the cosmopolitan Gen-Vexers who identify themselves with the latest fashion and gadgets, she finds herself drawn siren-like into the embrace of a formless consumerist entity. At the end of the story, Chiah Deng chooses to be a member of the diabolical global corporation, thus sealing her Faustian pact in a modern morality play. Chiah Deng’s choice plays up the difficult dilemma of how to become an effective citizen of the globalised world and yet retain ties to one’s homeland.[^19] It is no coincidence that <i>Mammon</i>’s Singapore-born author Hwee Hwee Tan was educated in both the United Kingdom and the United States; hence her oeuvre can be read as a reflection of her personal experiences outside Singapore.[^20]
 
