@@ -83,3 +83,88 @@ High tide at the Chek Jawa boardwalk. <i>Courtesy of Ria Tan, www.wildsingapore.
 <p style="font-size:15px;"><b>Ang Seow Leng</b> is a Senior Reference Librarian with the National Library of Singapore. Her responsibilities include managing and developing content, as well as providing reference and research services relating to Singapore and Southeast Asia.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Arumaintathan, P. (1973). *[Report on the census of population 1970, Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4648614)* (Vol. 2). Singapore: Department of Statistics. (Call no.: RSING 312.095957 SIN)
+
+[Atoll’s history retold as myth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000619-1.2.84.7.2). (2009, June 19). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+BoeKeng. (n.d.). <i>Pulau Ubin Fo Shan Teng Tua Pek Kong Temple</i>. Retrieved from Beokeng website. 
+
+Chandradas, G. (2001, July 8). [Chek out this hidden Eden](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010708-1.2.62.5). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+Chua, E.K. (2000). *[Pulau Ubin: Ours to treasure](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10089883)*. Singapore: Simply Green. (Call no.: RSING 333.78095957 CHU)
+
+Chua, E.K. (2002). *[Chek Jawa: Discovering Singapore’s biodiversity](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11715278)*. Singapore: Simply Green. (Call no.: RSING 333.91716 CHU)
+
+Chua, E.K. (2001, July 28). *[Destruction of Chek Jawa will be a loss for all](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010728-1.2.50.6)*. The Straits Times, p. 25. Retrieved from NewspaperSG.
+
+D’Rozario, v. (2001, December 28). [Chek Jawa an ideal outdoor classroom](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011228-1.2.26.4). The Straits Times, p. 18. Retrieved from NewspaperSG.
+
+Geh, M. (2001, July 16). [Chek Jawa’s natural beach should be preserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010716-1.2.23.4). The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+Hall-Jones, J., & Hooi, C. (1979). *[An early surveyor in Singapore: John Turnbull Thomson in Singapore, 1841–1853](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082509)*. Singapore: National Museum. (Call no.: RSING 526.90924 THO)
+
+Helmi, Yusof. (2003, October 16). [Farewell Ubin CC](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031016-1.2.30.4). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+Heng, L., & Kang, A. (2013, April 13). [This is our ONLY HOME](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20130413-1.2.3.1). <i>The New Paper</i>, pp. 2–3. Retrieved from NewspaperSG.
+
+Ho, B. (2005, April 27). [He does it by… keeping life simple](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050427-1.2.107.12.8). The Straits Times, p. 20. Retrieved from NewspaperSG.
+
+Ho, M. (2001, November 4). [The folks who live in paradise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011104-1.2.69.2.1). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+Leong, K.P. (2001, December 24). [Chek Jawa has unique ecosystem](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011224-1.2.23.1). The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+Lim, L. (2002, January 15). [Reprieve for rustic Ubin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020115-1.2.3). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Low, Y.L (1994, July). Isle be seeing you. *[Singapore Tatler](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049360)*.
+
+Ministry of National Development. (2014, March 10). <i> 2014 – Speech by MOS Desmond Lee “Working together to build a liveable and green Singapore” [Press release]. Singapore: Ministry of National Development. Retrieved from Ministry of National Development website.
+
+Murphy, C. (2003, July 3). Destination Singapore – Pulau Ubin abode for Thai monk. Bangkok Post. Retrieved from Factiva via NLB’s eResources website.
+
+National Heritage Board. (2013, March 14). Pulau Ubin. Singapore: National Heritage Board. Retrieved from Roots.sg website.
+Chua, A. (2009). The Causeway. Retrieved from Singapore Infopedia, National Library Singapore.
+
+Chew, V. (2009). Housing and Development Board. Retrieved from Singapore Infopedia, National Library Singapore.
+
+Cornelius-Takahama, V. (2018, July). Raffles Lighthouse. Retrieved from Singapore Infopedia, National Library Singapore.
+
+National Parks Board. (2013, May 19). Pulau Ubin. Singapore: National Parks Board. Retrieved from National Parks Board website.
+Neo, H.M. (2002, August 24). A kampong without village people. The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+Prime Minister’s Office Singapore. (2014, March 15). Transcript of speech by Prime Minister Lee Hsien Loong at National Residents’ Committee Convention. Retrieved from Prime Minister’s Office Singapore website.
+
+Pulau Ubin clinic to close from Tuesday. (1987, November 26). The Straits Times, p. 22. Retrieved from NewspaperSG.
+
+Pulau Ubin headman 101 dies. (2006, October 7). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+Saifulbahri Ismail. (2013, April 17). Pulau Ubin residents to start paying rent for first year.  Channel NewsAsia. Retrieved from Factiva via NLB’s eResources website.
+
+Singapore. Oral History Department. (1990). Recollections: People and places. Singapore: Oral History Dept. (Call no.: RSING 959.5703 REC)
+
+Stone from Malaya to help build English Cathedral. (1939, July 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+Tan, C. (1987, November 10). MPs take a boat ride to remote parts of their wards. The Straits Times, p. 19. Retrieved from NewspaperSG.
+
+Tan, H.Y. (1996, August 2). Take me to the headman’s house. The Straits Times, p. 40. Retrieved from NewspaperSG.
+
+Tan, T. (2000, December 4). Island living. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Tay, S.C. (2007, October 6). Chek Jawa Visitor Centre. The Straits Times, p. 109. Retrieved from NewspaperSG.
+
+Urban Redevelopment Authority (Singapore). (1991). Living the next lap: Towards a tropical city of excellence. Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.36095957 LIV)
+
+Urban Redevelopment Authority (Singapore). (1997). Central water catchment, Lim Chu Kang, north-eastern islands, Tengah, western islands, western water catchment planning areas: Planning report 1997. Singapore: The Authority. (Call no.: RSING 711.4095957 SIN)
+
+Urban Redevelopment Authority (Singapore). (2007). Architectural Heritage Awards – No. 1 Pulau Ubin. Retrieved from Urban Redevelopment Authority website.
+
+Visitors’ centre for Chek Jawa? (2001, December 31). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+White, T. (2001, February 12). Leaving Ubin for life on mainland. The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+Zaccheus, M., & Ee, D. (2013, October 4). Pulau Ubin: Rustic or just rustling away? The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+叶孝忠 . (2001, July 14). 乌敏岛另类风情. 联合早报,第 35页 
+陈鸣鸾 (访员) (1987年11月4日) 林再有先生访谈文稿. National Archives of Singapore. Retrieved from http:// archivesonline.nas.sg/
