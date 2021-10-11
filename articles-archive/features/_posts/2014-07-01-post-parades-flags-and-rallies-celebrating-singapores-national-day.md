@@ -79,3 +79,63 @@ Singapore’s first National Day was held on 4 June 1960, one year after it achi
 <p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010).</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Barr, M.D. (2002). *[Cultural politics and Asian values: The tepid war](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11645905)*. London: New York, N.Y.: Routledge. (Call no.: RSING 303.372095 BAR)
+
+Fraser & Neave & Ministry of Communications and Information. (1988). *[Sing Singapore: A celebration in song, National Day 1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6197175)*. Singapore: F&N Sarsi. (Call no.: RCLOS 782.42095957 SIN
+
+Koh, B.C. (2006). *[Our global city our home: NDP 2006, our journey in pictures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13366558)*. Singapore: NDP 2006 EXCO. (Call no.: RSING 394.26845957 OUR)
+
+Leong, W.T.L. (2001, December). Consuming the nation: National Day Parades in Singapore. <i>New Zealand Journal of Asia Studies</i>, 3 (2), 5–16. Retrieved from The New Zealand Asian Studies Society website.
+
+*[My Singapore: National Day parade 1991: Memories](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6142208)*. (1991). Singapore: National Day Parade Executive Committee, Souvenir Programme Sub-Committee. (Call no.: RSING 394.26845957 MY)
+
+*[National Day celebrations: [Souvenir programme]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4470300)*. (1987). Singapore: Al-Marh-Ad. (Call no.: RSING 394.26845957 NAT)
+
+*[National Day Parade 1996: My Singapore, my home](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8103052)*. (1996). Singapore: National Day Parade Executive Committee, Commemorative Magazine Sub-Committee. (Call no.: RSING 959.57 NAT)
+
+*[National Day Parade 1997: Commemorative magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9763203)*. (1997). Singapore: National Day Parade Executive Committee, Commemorative Magazine Sub-Committee. (Call no.: RSING q959.57 NAT)
+
+*[National Day Parade 2001: Building bridges, forging futures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10823781)*. (2001). Singapore: National Day Parade 2001 Executive Committee. (Call no.: RSING 959.57 NAT)
+
+*[National Day Parade 2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14221516)*. (2005). Singapore: MediaCorp Publishing. (Call no.: RSING 959.5705 NAT)
+
+*[National Day Parade 9th August, 1969](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078812)*. (1969). Singapore: Ministry of the Interior and Defence. (Call no.: RCLOS 959.57 NAT)
+
+*[National Day Parade 9th August, 1968](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13765400)*. (1968). Singapore: Ministry of the Interior and Defence. (Call no.: RCLOS 959.5705 NAT)
+
+*[National Day Parade 9th August, 1972](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7124260)*. (1972). Singapore: Ministry of the Interior and Defence. (Call no.: RCLOS 959.5705 NAT)
+
+*[National Day Parade: [Programme]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049597)*. (1967). Singapore: [s.n.]. (Microfilm no.: NL11208)
+
+*[NDP 98: Celebrating 33 years of independence: Stories behind the story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12816948)*. (1998). Singapore: NDP 1998 EXCO. (Call no.: RSING 959.57 NDP)
+
+*[NDP 2003: Celebrating as one united people. (2003)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12405329)*. Singapore: NDP 2003 EXCO. (Call no.: RSING 959.57 NDP)
+
+*[Our passion, our commitment: A tribute to the people behind NDP 04](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12432413)*. (2004). Singapore: NDP 2003 EXCO. (Call no.: RSING 959.57 OUR)
+
+*[Our people: Together we make the difference: NDP 99 commemorative magazine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9656565)*. (1999). Singapore: National Day Celebrations Committee. (Call no.: RSING 959.51 PEA)
+
+Pearson, H.F. (1954). *[Stories of early Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4087398)*. London: University of London Press. (Call no.: RCLOS 959.51 PEA)
+
+Peet, G.L. (2009). *[Rickshaw reporter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13164104). Singapore: Marshall Cavendish Editions. (Call no.: RSING 070.92 PEE)
+
+[Rain…rain…rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600604-1.2.2). (1960, June 4). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+
+*[Republic of Singapore National Day Parade: 9th August 1984: Souvenir programme](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4531952)*. (1984). Singapore: Public Affairs Dept, Ministry of Defence. (Call no.: RSING 959.57 REP)
+
+*[Republic of Singapore nineteen sixty-five [to] nineteen ninety](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5685837)*. (1990). Singapore: National Day Parade Executive Committee, Programme & Printing Sub-Committee. (Call no.: RSING 394.26845957 REP)
+
+Salma Khalik. (1987, August 8). [Remembering parades past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870808-1.2.104.3.1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+Tan, K.P. (2007). Singapore National Day Rally speech: A site of ideological negotiation. Journal of Contemporary Asia, 37 (3), 292─308, pp. 293–308. Retrieved from Taylor & Francis Online website.
+
+[Tattoo thrills at the stadium](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600605-1.2.10). (1960, June 5). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+*[The NDP journey: Commemorating National Day Parade 2002. (2002)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827570)*. Singapore: NDP 2002 EXCO. (Call no.: RSING 959.57 NDP)
+
+Volcic, Z., & Andrejevic, M. (2011). Nation branding in the era of commercial nationalism. <i>International Journal of Communication</i>, 5, pp. 598–618.
+
+#### **NOTES**
