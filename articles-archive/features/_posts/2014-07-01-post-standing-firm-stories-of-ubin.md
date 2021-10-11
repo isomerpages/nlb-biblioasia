@@ -133,7 +133,8 @@ Chew, V. (2009). *[Housing and Development Board](https://eresources.nlb.gov.sg/
 Cornelius-Takahama, V. (2018, July). *[Raffles Lighthouse](https://eresources.nlb.gov.sg/infopedia/articles/SIP_147_2005-01-18.html). Retrieved from Singapore Infopedia, National Library Singapore.
 
 National Parks Board. (2013, May 19). <i>Pulau Ubin</i>. Singapore: National Parks Board. Retrieved from National Parks Board website.
-Neo, H.M. (2002, August 24). A kampong without village people. <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+
+Neo, H.M. (2002, August 24). [A kampong without village people](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020824-1.2.42.14). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
 Prime Minister’s Office Singapore. (2014, March 15). <i>Transcript of speech by Prime Minister Lee Hsien Loong at National Residents’ Committee Convention</i>. Retrieved from Prime Minister’s Office Singapore website.
 
