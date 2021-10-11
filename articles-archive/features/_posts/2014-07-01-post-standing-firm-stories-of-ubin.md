@@ -169,3 +169,121 @@ Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling a
 
 叶孝忠 . (2001, July 14). 乌敏岛另类风情. 联合早报,第 35页 
 陈鸣鸾 (访员) (1987年11月4日) 林再有先生访谈文稿. National Archives of Singapore. Retrieved from http:// archivesonline.nas.sg/
+
+#### **NOTES**
+
+[^1]: Atoll’s history retold as myth. (2009, June 19). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+
+[^2]: National Heritage Board. (2013, March 14). Pulau Ubin. Singapore: National Heritage Board. Retrieved from Roots.sg website.
+
+[^3]: National Parks Board. (2013, May 19). Pulau Ubin. Singapore: National Parks Board. Retrieved from National Parks Board website.
+
+[^4]: National Heritage Board, 14 Mar 2013.
+
+[^5]: Hall-Jones, J., & Hooi, C. (1979). An early surveyor in Singapore: John Turnbull Thomson in Singapore, 1841–1853 (p. 96). Singapore: National Museum. (Call no.: RSING 526.90924 THO)
+
+[^6]: Hall-Jones & Hooi, 1979, p. 103.
+
+[^7]: Cornelius-Takahama, V. (2018, July). Raffles Lighthouse. Retrieved from Singapore Infopedia, National Library Singapore.
+
+[^8]: Chua, A. (2009). The Causeway. Retrieved from Singapore Infopedia, National Library Singapore.
+
+[^9]: Ministry of National Development. (2014, March 10). COS 2014 – Speech by MOS Desmond Lee “Working together to build a liveable and green Singapore” [Press release]. Singapore: Ministry of National Development. Retrieved from Ministry of National Development website
+
+[^10]: National Heritage Board, 14 Mar 2013.
+
+[^11]: Stone from Malaya to help build English Cathedral. (1939, July 23). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
+
+[^12]: Singapore. Oral History Department. (1990). Recollections: People and places (p. 60). Singapore: Oral History Dept. (Call no.: RSING 959.5703 REC)
+
+[^13]: Low, Y.L (1994, July). Isle be seeing you. Singapore Tatler, 78.
+
+[^14]: Surana, S. (2014, January 5). Where the concrete hasn’t reached. The New York Times. Retreived from Factiva via NLB’s eResources website.
+
+[^15]: National Heritage Board, 14 Mar 2013.
+
+[^16]: Arumaintathan, P. (1973). Report on the census of population 1970, Singapore (Vol. 2; p. 263). Singapore: Department of Statistics. (Call no.: RSING 312.095957 SIN)
+
+[^17]: Tan, C. (1987, November 10). MPs take a boat ride to remote parts of their wards. <i>The Straits Times</i>, p. 19. Retrieved from NewspaperSG.
+
+[^18]: Neo, H.M. (2002, August 24). A kampong without village people. <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+
+[^19]: Ministry of National Development, 10 Mar 2014.
+
+[^20]: Prime Minister’s Office Singapore. (2014, March 15). Transcript of speech by Prime Minister Lee Hsien Loong at National Residents’ Committee Convention. Retrieved from Prime Minister’s Office Singapore website.
+
+[^21]: Chew, V. (2009). Housing and Development Board. Retrieved from Singapore Infopedia, National Library Singapore.
+
+[^22]: 陈鸣鸾 (访员)(1987年11月4日) 林再有先生访谈文稿. Retrieved March 27, 2014, from Archives Online. http://archivesonline.nas.sg/
+
+[^23]: Tan, H.Y. (1996, August 2). Take me to the headman’s house. <i>The Straits Times</i>, p. 40. Retrieved from NewspaperSG.
+
+[^24]: Pulau Ubin headman 101 dies. (2006, October 7). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+[^25]: Ho, B. (2005, April 27). He does it by… keeping life simple. <i>The Straits Times</i>, p. 20. Retrieved from NewspaperSG.
+
+[^26]: The Straits Times, 7 Oct 2006, p. 2.
+
+[^27]: Chua, E.K. (2000). Pulau Ubin: Ours to treasure (p. 13). Singapore: Simply Green. (Call no.: RSING 333.91716 CHU)
+
+[^28]: Chua, 2000, p. 113.
+
+[^29]: The lists can be found in this National Parks Board website.
+
+[^30]: Surana, 5 Jan 2014.
+
+[^31]: Urban Redevelopment Authority. (1991). Living the next lap: Towards a tropical city of excellence (p. 16). Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.36095957 LIV)
+
+[^32]: Urban Redevelopment Authority. (1997). Central water catchment, Lim Chu Kang, north-eastern islands, Tengah, western islands, western water catchment planning areas: Planning report 1997 (p. 14). Singapore: The Authority. (Call no.: RSING 711.4095957 SIN)
+
+[^33]: Tan, T. (2000, December 4). Island living. <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+
+[^34]: Zaccheus, M., & Ee, D. (2013, October 4). Pulau Ubin: Rustic or just rustling away? <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+
+[^35]: Murphy, C. (2003, July 3). Destination Singapore – Pulau Ubin abode for Thai monk. Bangkok Post. Retrieved from Factiva via NLB’s eResources website.
+
+[^36]: Pulau Ubin clinic to close from Tuesday. (1987, November 26). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
+
+[^37]: Helmi Yusof. (2003, October 16). Farewell Ubin CC. <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+[^38]: Pulau Ubin residents to start paying rent for first year. (2013, April 17). Channel NewsAsia. Retrieved from Factiva via NLB’s eResources website.
+
+[^39]: The Straits Times, 24 Aug 2002, p. 8.
+
+[^40]: White, T. (2001, February 12). Leaving Ubin for life on mainland. <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+
+[^41]: Heng, L., & Kang, A. (2013, April 13). This is our ONLY HOME. The New Paper, pp. 2–3. Retrieved from NewspaperSG.
+
+[^42]: Chua, 2000, p. 36.
+
+[^43]: Chua, 2000, p. 37.
+
+[^44]: The Straits Times, 16 Oct 2003, p. 2.
+
+[^45]: 叶孝忠 . (2001, July 14). 乌敏岛另类风情. 联合早报, 第 35页.
+
+[^46]: BoeKeng. (n.d.). Pulau Ubin Fo Shan Teng Tua Pek Kong Temple. Retrieved from Boekeng website.
+
+[^47]: Ho, M. (2001, November 4). The folks who live in paradise. <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+[^48]: Urban Redevelopment Authority (Singapore). (2007). Architectural Heritage Awards – No. 1 Pulau Ubin. Retrieved from Urban Redevelopment Authority website.
+
+[^49]: Tay, S.C. (2007, October 6). Chek Jawa Visitor Centre. <i>The Straits Times</i>, p. 109. Retrieved from NewspaperSG.
+
+[^50]: Visitors’ centre for Chek Jawa? (2001, December 31). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+[^51]: Chua, 2000, p. 34.
+
+[^52]: Urban Redevelopment Authority (Singapore), 2007. 
+
+[^53]: Chua, E.K. (2002). Chek Jawa: Discovering Singapore’s biodiversity (p. 25). Singapore: Simply Green. (Call no.: RSING 333.91716 CHU)
+
+[^54]: Chua, 2002, p. 20.
+
+[^55]: Chandradas, G. (2001, July 8). Chek out this hidden Eden. <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+
+[^56]: Leong, K.P. (2001, December 24). Chek Jawa has unique ecosystem. <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
+
+[^57]: The letters included those written by prominent personalities in Nature Society. <i>The Straits Times</i>, 16 Jul 2001, p. 14; <i>The Straits Times</i>, 28 Jul 2001, p. 25; <i>The Straits Times</i>, 24 Dec 2001, p. 14; <i>The Straits Times</i>, 28 Dec 2001, p. 18.
+
+[^58]: Lim, L, (2002, January 15). Reprieve for rustic Ubin. <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
