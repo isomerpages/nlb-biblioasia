@@ -4,7 +4,7 @@ date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/national-day
 layout: post
 ---
-#### National Day parades have been a ubiquitous part of Singapore’s National Day celebrations since Independence. Lim Tin Seng delves into its history, its significance and its evolution.
+#### National Day parades have been a ubiquitous part of Singapore’s National Day celebrations since Independence. **Lim Tin Seng** delves into its history, its significance and its evolution.
 
 The 1968 National Day Parade carried on despite torrential rain. Yusof Ishak collection, courtesy of National Archives of Singapore.
 
