@@ -80,3 +80,103 @@ In the traditional method of making <i>belacan</i>, the semi-dried and salted sh
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. Her passion for Singapore food has increased with her move to Vietnam, where she currently telecommutes from.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
+
+#### REFERENCES
+
+**Books**
+
+Brazil, D. (1991). *[Street smart Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5796453)*. Singapore: Times Books International. (Call no.: RSING 959.57 BRA)
+
+Butcher, J.G. (1979). *[The British in Malaya, 1880–1941: The social history of a European community in colonial South-East Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870)*. Kuala Lumpur: Oxford University Press. (Call no.: RSING 301.4512105951033 BUT)
+
+Cheung, S.C.H., & Tan, C.B. (Eds.). (2007). *[Food and foodways in Asia: Resource, tradition and cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12827884)*. London: Routledge. (Call no.: RSEA 394.12095 FOO)
+
+Leong-Salobir, C. (2011). *[Food culture in colonial Asia: A taste of empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765)*. New York: Routledge. (Call no.: RSING 394.12095 LEO)
+
+Peet, G.L. (2011). *[Within Changi’s walls: A record of civilian internment in World War II](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13796733)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.53175957092 PEE)
+
+Mazelan bin Anuar., Law, C., & Soh, W.Y. (2012, August). <i>Challenges of digitizing vernacular newspapers & preliminary study of user behaviour on newspaperSG’s multilingual UI</i> [Paper presented at IFLA Pre-Conference in Mikkeli, Finland]. Retrieved from IFLA website.
+
+Tan, C.B. (Ed.). (2011). *[Chinese food and foodways in Southeast Asia and beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14100852)*. Singapore: NUS Press. (Call no.: RSEA 394.12089951059 CHI)
+
+Turnbull, C.M. (1995). *[Dateline Singapore: 150 years of the Straits Times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471414)*. Singapore: Times Editions for Singapore Press Holdings. (Call no.: RSING 079.5957 TUR)
+
+Wu, D.Y.H., & Tan, C.B. (Eds.). (2001). *[Changing Chinese foodways in Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10858495)*. Hong Kong: The Chinese United Nation Press. (Call no.: RSING 641.300951 CHA)
+
+**Newspaper articles**
+
+[300 children go gay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601220-1.2.84). (1960, December 20). <i></i>The Singapore Free Press</i>, p. 8. Retrieved from NewspaperSG.
+
+[A Kelantan Malay on Asiatics](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500803-1.2.93.1). (1950, August 3). <i></i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+
+Abdul Ghani Hamid. (2003, July 17). [Belacan dulu, belacan hari ini](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030717-1.2.21.2). </i>Berita Harian</i>, p. 9. Retrieved from newspaperSG.
+
+Abu Bakar Mardiana. (1988, March 1). [Bahasa: Focus now on pronunciation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880301-1.2.61.16.1). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
+
+[Balachan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250829-1.2.78). (1925, August 29). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 11. Retrieved from NewspaperSG.
+
+[Blachan toast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19010724-1.2.47.1). (1901, July 24). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
+
+Boey, S. (1971, June 30). [Red camp where blachan bombs were made](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710630-1.2.101). <i>The Straits Times</i>, p. 19. Retrieved from NewspaperSG.
+
+[Broadcast talks on wartime cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410815-1.2.97). (1941, August 15). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+
+Chan, M. (1982, December 26). [Stroll down Kali Pup lane](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821226-1.2.51). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
+
+Chan, M. (1987, November 22). [An old recipe adds fillip to satay dish](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871122-1.2.80.8.2). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+
+[Changkol for victory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400810-1.2.58). (1940, August 10). <i>The Singapore Free Press</i> and Mercantile Advertiser, p. 4. Retrieved from NewspaperSG.
+
+Chia, K.S. (1952, February 28). [The shrimpers of Tanjong Bungah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520228-1.2.173). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+
+[Distressful Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19100512-1.2.42). (1910, May 12). <i>The Singapore Free Press</i> and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+
+Drabble, D. (1950, February 23). [A Tamby takes it easy – with a curry puff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500223-1.2.140). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+
+[Free Press news feature](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400604-1.2.41). (1940, June 4). <i>The Singapore Free Press</i> and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
+
+House and home. (1914, May 28). Hull Daily Mail, England. Retrieved from the Australian Trove.
+
+[Learn to be a cook of many dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390824-1.2.152.19). (1939, August 24). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+
+Lim, R. (1997, December 7). [The Ah Beng in all of us](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971207-1.2.104.2). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+[Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740801-1.2.11.1). (1874, August 1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+[Memories of old Singapore disguised as Chinese, a European attended secret society meetings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470517-1.2.76). (1947, May 17). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+
+[Ms Violet Oon says](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060417-1.2.94.6.6). (2006, April 17). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+
+Neo, L. (1980, July 12). [Curry puffs from old man Chang in Albert Street](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800712-1.2.124.9). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
+
+[On the margin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510830-1.2.88). (1951, August 30). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+
+[Page 1 Advertisements Column 1: Adelphi Hotel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320122-1.2.4.1). (1932, January 22). <i>The Singapore Free Press</i>, p. 1. Retrieved from NewspaperSG.
+
+[Page 13 Advertisements Column 1: Season Confectionary](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690601-1.2.85.1). (1969, June 1). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
+
+Shukor Rahman. (1973, July 9). [Blachan: Where it all began](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730709-1.2.79). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
+
+[Singapore Girl Guides](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19210217-1.2.78). (1921, February 17). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+
+[Spent 50 yrs selling satay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470622-1.2.32). (1947, June 22). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
+
+[Straits Times goes Pinyin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790320-1.2.106.1). (1979, March 20). <i>The Straits Times</i>, p. 15. Retrieved from NewspaperSG.
+
+[T.F. Hwang takes you down memory lane](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740309-1.2.67). (1974, March 9). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+
+[The belachan trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240927-1.2.62). (1924, September 27). <i>The Singapore Free Press</i> and Mercantile Advertiser, p. 12, Retrieved from NewspaperSG.
+
+[The smells of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18910721-1.2.72). (1891, July 21). Straits Times Weekly, p. 12. Retrieved from NewspaperSG.
+
+The women’s page. (1917, June 8). <i></i>The Land</i>, pp. 10–11. Retrieved from The Australian Trove.
+
+[Vegetables and “Grow More Food” campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400212-1.2.45). (1940, February 12). <i>The Singapore Free Press</i> and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+
+**Websites**
+
+The Australian Trove.
+
+The British Newspaper Archive.
+
+#### NOTES
