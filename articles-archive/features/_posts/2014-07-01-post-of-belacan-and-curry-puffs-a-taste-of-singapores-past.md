@@ -211,38 +211,38 @@ The British Newspaper Archive.
 
 [^15]: [Balachan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250829-1.2.78). (1925, August 29). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 11. Retrieved from NewspaperSG.
 
-[^16]: [The belachan trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240927-1.2.62). (1924, September 27). The Singapore Free Press and Mercantile Advertiser, p. 12, Retrieved from NewspaperSG.
+[^16]: [The belachan trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240927-1.2.62). (1924, September 27). </i>The Singapore Free Press and Mercantile Advertiser</i>, p. 12, Retrieved from NewspaperSG.
 
-[^17]: [Distressful Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19100512-1.2.42). (1910, May 12). The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+[^17]: [Distressful Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19100512-1.2.42). (1910, May 12). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 5. Retrieved from NewspaperSG.
 
 [^18]: Twentieth century newspaper articles still refer to the more economically established local Eurasians as ‘grago’ though in a less contemptuous fashion.
 
-[^19]: A Kelantan Malay on Asiatics. (1950, August 3). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^19]: [A Kelantan Malay on Asiatics](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500803-1.2.93.1). (1950, August 3). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-[^20]: Abdul Ghani Hamid. (2003, July 17). Belacan dulu, belacan hari ini. Berita Harian, p. 9. Retrieved from newspaperSG.
+[^20]: Abdul Ghani Hamid. (2003, July 17). [Belacan dulu, belacan hari ini](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030717-1.2.21.2). </i>Berita Harian</i>, p. 9. Retrieved from newspaperSG.
 
-[^21]: Boey, S. (1971, June 30). Red camp where blachan bombs were made. The Straits Times, p. 19. Retrieved from NewspaperSG.
+[^21]: Boey, S. (1971, June 30). [Red camp where blachan bombs were made](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710630-1.2.101). <i>The Straits Times</i>, p. 19. Retrieved from NewspaperSG.
 
 [^22]: These include searches in the British Newspaper Archive as well as the Australian Trove.
 
-[^23]: House and home. (1914, May 28). Hull Daily Mail, England. Retrieved from the Australian Trove.
+[^23]: House and home. (1914, May 28). <i>Hull Daily Mail</i>, England. Retrieved from the Australian Trove.
 
-[^24]: Particularly The women’s page. (1917, June 8). The Land, pp. 10–11. Retrieved from The Australian Trove.
+[^24]: Particularly The women’s page. (1917, June 8). <i>The Land</i>, pp. 10–11. Retrieved from The Australian Trove.
 
-[^25]: Even into the 1960s, curry puffs seemed to be the norm for Christmas delights in children’s parties. 300 children go gay. (1960, December 20). The Singapore Free Press, p. 8. Retrieved from NewspaperSG.
+[^25]: Even into the 1960s, curry puffs seemed to be the norm for Christmas delights in children’s parties. [300 children go gay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601220-1.2.84). (1960, December 20). <i>The Singapore Free Press</i>, p. 8. Retrieved from NewspaperSG.
 
-[^26]: Page 1 Advertisements Column 1: Adelphi Hotel. (1932, January 22). The Singapore Free Press, p. 1. Retrieved from NewspaperSG.
+[^26]: [Page 1 Advertisements Column 1: Adelphi Hotel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320122-1.2.4.1). (1932, January 22). <i>The Singapore Free Press</i>, p. 1. Retrieved from NewspaperSG.
 
-[^27]: Brazil, D. (1991). Street smart Singapore (pp. 14–15). Singapore: Times Books International. (Call no.: RSING 959.57 BRA)
+[^27]: Brazil, D. (1991). *[Street smart Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5796453)* (pp. 14–15). Singapore: Times Books International. (Call no.: RSING 959.57 BRA)
 
-[^28]: Drabble, D. (1950, February 23). A Tamby takes it easy – with a curry puff. The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^28]: Drabble, D. (1950, February 23). [A Tamby takes it easy – with a curry puff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500223-1.2.140). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-[^29]: Ms Violet Oon says. (2006, April 17). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^29]: [Ms Violet Oon says](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060417-1.2.94.6.6). (2006, April 17). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
-[^30]: Neo, L. (1980, July 12). Curry puffs from old man Chang in Albert Street. The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^30]: Neo, L. (1980, July 12). [Curry puffs from old man Chang in Albert Street](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800712-1.2.124.9). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
-[^31]: The Straits Times, 12 Jul 1980, p. 4.
+[^31]: [The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800712-1.2.124.9), 12 Jul 1980, p. 4.
 
-[^32]: Chan, M. (1982, December 26). Stroll down Kali Pup lane. The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^32]: Chan, M. (1982, December 26). [Stroll down Kali Pup lane](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821226-1.2.51). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
 
-[^33]: Lim, R. (1997, December 7). The Ah Beng in all of us. The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^33]: Lim, R. (1997, December 7). [The Ah Beng in all of us](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971207-1.2.104.2). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
