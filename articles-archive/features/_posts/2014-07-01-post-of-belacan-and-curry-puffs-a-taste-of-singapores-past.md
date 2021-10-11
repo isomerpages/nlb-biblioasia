@@ -183,37 +183,37 @@ The British Newspaper Archive.
 
 [^1]: These items have been selected because of several reasons – their pervasive reference in newspapers spanning the period studied and their localised flavours. Although there are many other dishes such as Hainanese chicken rice, laksa, mee siam etc, their articulation especially in the English newspapers of the interwar period is not extensive.
 
-[^2]: Butcher, J.G. (1979). The British in Malaya, 1880–1941: The social history of a European community in colonial South-East Asia (p. 142). Kuala Lumpur: Oxford University Press. (Call no.: RSING 301.4512105951033 BUT)
+[^2]: Butcher, J.G. (1979). [*The British in Malaya*, 1880–1941: The social history of a European community in colonial South-East Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870) (p. 142). Kuala Lumpur: Oxford University Press. (Call no.: RSING 301.4512105951033 BUT)
 
-[^3]: Butcher, 1979, p. 134.
+[^3]: [Butcher](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870), 1979, p. 134.
 
 [^4]: This column seemed to have begun on January 10, 1935 with a half page but soon expanded to a full-page.
 
 [^5]: This continued the weekly Thursday column which was expanded into a four-page supplement first released on January 16, 1936.
 
-[^6]: Granted the main targets for the “grow more food” campaigns were local farmers, but there are articles that appeal to the Malayan to venture growing his own food such as Vegetables and “Grow More Food” campaign. (1940, February 12). The Singapore Free Press and Mercantile Advertiser, p. 5; Changkol for victory. (1940, August 10). The Singapore Free Press and Mercantile Advertiser, p. 4. Retrieved from NewspaperSG.
+[^6]: Granted the main targets for the “grow more food” campaigns were local farmers, but there are articles that appeal to the Malayan to venture growing his own food such as [Vegetables and “Grow More Food” campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400212-1.2.45). (1940, February 12). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 5; [Changkol for victory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400810-1.2.58). (1940, August 10). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
 
-[^7]: Broadcast talks on wartime cooking. (1941, August 15). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^7]: [Broadcast talks on wartime cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410815-1.2.97). (1941, August 15). The Straits Times, p. 12. Retrieved from NewspaperSG.
 
-[^8]: Peet, G.L. (2011). Within Changi’s walls: A record of civilian internment in World War II (pp. 67–68). Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.53175957092 PEE)
+[^8]: Peet, G.L. (2011). *[Within Changi’s walls: A record of civilian internment in World War II](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13796733)* (pp. 67–68). Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.53175957092 PEE)
 
-[^9]: Turnbull, C.M. (1995). Dateline Singapore: 150 years of the Straits Times (p. 102). Singapore: Times Editions for Singapore Press Holdings. (Call no.: RSING 079.5957 TUR)
+[^9]: Turnbull, C.M. (1995). *[Dateline Singapore: 150 years of the Straits Times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471414)* (p. 102). Singapore: Times Editions for Singapore Press Holdings. (Call no.: RSING 079.5957 TUR)
 
-[^10]: The smells of Singapore. (1891, July 21). Straits Times Weekly, p. 12. Retrieved from NewspaperSG.
+[^10]: [The smells of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18910721-1.2.72). (1891, July 21). <i>Straits Times Weekly</i>, p. 12. Retrieved from NewspaperSG.
 
-[^11]: Malacca. (1874, August 1). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^11]: [Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740801-1.2.11.1). (1874, August 1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
-[^12]: Shukor Rahman. (1973, July 9). Blachan: Where it all began. The Straits Times, p. 14. Retrieved from NewspaperSG.
+[^12]: Shukor Rahman. (1973, July 9). [Blachan: Where it all began](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730709-1.2.79). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
-[^13]: The Straits Times, 9 Jul 1973, p. 3.
+[^13]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730709-1.2.79)*, 9 Jul 1973, p. 3.
 
-[^14]: Blachan toast. (1901, July 24). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^14]: [Blachan toast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19010724-1.2.47.1). (1901, July 24). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
-[^15]: Balachan. (1925, August 29). The Singapore Free Press and Mercantile Advertiser, p. 11. Retrieved from NewspaperSG.
+[^15]: [Balachan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250829-1.2.78). (1925, August 29). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 11. Retrieved from NewspaperSG.
 
-[^16]: The belachan trade. (1924, September 27). The Singapore Free Press and Mercantile Advertiser, p. 12, Retrieved from NewspaperSG.
+[^16]: [The belachan trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240927-1.2.62). (1924, September 27). The Singapore Free Press and Mercantile Advertiser, p. 12, Retrieved from NewspaperSG.
 
-[^17]: Distressful Malacca. (1910, May 12). The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+[^17]: [Distressful Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19100512-1.2.42). (1910, May 12). The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
 
 [^18]: Twentieth century newspaper articles still refer to the more economically established local Eurasians as ‘grago’ though in a less contemptuous fashion.
 
