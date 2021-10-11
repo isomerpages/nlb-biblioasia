@@ -6,7 +6,10 @@ layout: post
 ---
 #### National Day parades have been a ubiquitous part of Singapore’s National Day celebrations since Independence. **Lim Tin Seng** delves into its history, its significance and its evolution.
 
-The 1968 National Day Parade carried on despite torrential rain. Yusof Ishak collection, courtesy of National Archives of Singapore.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/nationalday/National_Day_Parade.jpg">
+The 1968 National Day Parade carried on despite torrential rain. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i></div>
 
 Since becoming a sovereign state on 9 August 1965, the Singapore government has introduced numerous nation-building efforts – with varying degrees of success – to remind Singaporeans of their national identity. But none is more visceral and engaging than the annual National Day Parade (NDP), which draws patriotic flag-waving Singaporeans by the thousands to this colourful outdoor event. Held on 9 August each year, the parade not only commemorates Singapore’s Independence, but also serves to remind people of the country’s struggles and successes and to celebrate its unique multicultural identity. The main organiser of the NDP is the Singapore Armed Forces (SAF) and its preparation, from initial blueprint to full dress rehearsal, typically takes more than six months. 
 
@@ -38,7 +41,10 @@ In 2010, the decentralised concept was revived when organisers of the NDP 2010 d
 
 Bringing the parades to the people is only one aspect of the decentralised concept. Since the first NDP in 1966, parades have been broadcast live on television so that people can enjoy the celebrations from the comfort of their homes. The earlier broadcasts were in black and white until colour television was introduced in 1974.[^25] Since 1994, the parades have been streamed live via the Internet, allowing overseas Singaporeans to be a part of the celebrations.[^26] In 2007, the webcast was enhanced to allow viewers to enjoy the parade from multiple camera angles.[^27] In 2010, an NDP app was developed. Using Augmented Reality, the app provides users with trivia on the parade and allows them to post their thoughts on its “expression wall”.[^28]
 
-National Day celebration in 2012. National Day celebrations in Singapore have evolved over the years and have become a grand visual spectacle. <i>Image by Jordan Tan.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/nationalday/celebration_2012.jpg">
+National Day celebration in 2012. National Day celebrations in Singapore have evolved over the years and have become a grand visual spectacle. <i>Image by Jordan Tan.</i></div>
 
 Roadshows and exhibitions are organised in the heartlands to explain the meaning of the celebration to the people.[^29] These NDP roadshows move to different locations in Singapore and showcase exhibits that deepen the people’s understanding of Singapore and its identity. In addition, the organisers and participants regularly publish commemorative books or magazines that share their NDP experiences, from planning and rehearsals to the actual performances, among other memories.[^30]
 
@@ -54,7 +60,10 @@ To date, the prime ministers who have delivered the rally speeches since Indepen
 
 The past decade was probably the most spectacular of all the 10 years of Singapore’s history. There has never been such rapid transformation in any 10 years... [But] the last 10 years have been almost too fast in its speed of change. And in a way, I sometimes regret that we did not get a harder knock in 1974... I am not saying that it is a good thing. But I am saying that it is good for the soul. And employers, when they start looking for workers, like to have workers who know what hardship means. And if you can’t have real hardship, then you have got to inculcate the right attitudes and values.[^39]
 
-Former Prime Minister Lee Kuan Yew addressing the 3,500-strong audience during the 1971 National Day concert and rally held at the National Theatre. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/nationalday/Lee_Kuan_Yew.jpg">
+Former Prime Minister Lee Kuan Yew addressing the 3,500-strong audience during the 1971 National Day concert and rally held at the National Theatre. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 Goh Chok Tong’s and Lee Hsien Loong’s rally speeches were more open, consultative and gentle compared to Lee Kuan Yew’s. In fact, Goh regularly used humorous colloquial dialect expressions to lighten up his speeches.[^40] For example, while commenting on the pragmatism of some graduates in choosing to become hawkers in a tough job market, Goh said in his 2003 rally:
 
@@ -66,15 +75,19 @@ Current prime minister, Lee Hsien Loong, makes a distinct effort to name ordinar
 
 Despite a change in the political climate and the subsequent tone of today’s rally speeches, they continue to serve as part of the larger National Day celebrations and as a platform for Singaporeans to reflect on their identity.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/nationalday/process.jpg"></div>
+
 #### **NDP 2015: The Big Bang**
 
 In 2015, Singapore will celebrate its 50th year as an independent nation. To mark this important milestone, an SG50 committee was announced in August 2013 to coordinate the country’s Golden Jubilee celebrations. The celebrations will not focus solely on the parades but rather a whole year of activities and events. To this end, a seed fund that provides up to S$50,000 was set up to help those interested in organising their own projects to celebrate their love for the nation. In addition, the SG50 committee has been collecting ideas from the public on how the anniversary celebrations should take shape.
 
 Due to this ground-up approach, it is likely that the celebrations in 2015, including the NDP, may be different from previous years. However, it is certain that the impressive visual spectacle associated with past NDPs will take centre stage. Rest assured, whether in the form of parades, flags or rallies, the celebration will serve to remind Singaporeans of their national identity and obligations as well as provide an opportunity to reflect on how far Singapore has come.
 
-**The First National Day**
+|**The First National Day**|
 
-Singapore’s first National Day was held on 4 June 1960, one year after it achieved self-government. However, the ensuing parade, which was to have included a march-past and mass rally, was cancelled due to heavy rain disappointing the 25,000 participants who had turned up. Fortunately, the National Day celebration was a three-day event and thanks to clear skies the following day, more than 22,000 people, including then Yang di-Pertuan Negara Yusof Ishak, then Prime Minister Lee Kuan Yew and members of the Cabinet crowded into Jalan Besar stadium for a spectacular tattoo that was filled with rhythmic drills, music, singing, dances and displays of military prowess.
+|Singapore’s first National Day was held on 4 June 1960, one year after it achieved self-government. However, the ensuing parade, which was to have included a march-past and mass rally, was cancelled due to heavy rain disappointing the 25,000 participants who had turned up. Fortunately, the National Day celebration was a three-day event and thanks to clear skies the following day, more than 22,000 people, including then Yang di-Pertuan Negara Yusof Ishak, then Prime Minister Lee Kuan Yew and members of the Cabinet crowded into Jalan Besar stadium for a spectacular tattoo that was filled with rhythmic drills, music, singing, dances and displays of military prowess.|
 
 <p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010).</p>
 
