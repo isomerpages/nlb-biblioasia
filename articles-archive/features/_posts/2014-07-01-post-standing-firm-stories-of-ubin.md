@@ -120,37 +120,38 @@ Lim, L. (2002, January 15). [Reprieve for rustic Ubin](http://eresources.nlb.gov
 
 Low, Y.L (1994, July). Isle be seeing you. *[Singapore Tatler](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049360)*.
 
-Ministry of National Development. (2014, March 10). <i> 2014 – Speech by MOS Desmond Lee “Working together to build a liveable and green Singapore” [Press release]. Singapore: Ministry of National Development. Retrieved from Ministry of National Development website.
+Ministry of National Development. (2014, March 10). <i> 2014 – Speech by MOS Desmond Lee “Working together to build a liveable and green Singapore”</i> [Press release]. Singapore: Ministry of National Development. Retrieved from Ministry of National Development website.
 
-Murphy, C. (2003, July 3). Destination Singapore – Pulau Ubin abode for Thai monk. Bangkok Post. Retrieved from Factiva via NLB’s eResources website.
+Murphy, C. (2003, July 3). Destination Singapore – Pulau Ubin abode for Thai monk. Bangkok Post. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-National Heritage Board. (2013, March 14). Pulau Ubin. Singapore: National Heritage Board. Retrieved from Roots.sg website.
-Chua, A. (2009). The Causeway. Retrieved from Singapore Infopedia, National Library Singapore.
+National Heritage Board. (2013, March 14). <i>Pulau Ubin</i>. Singapore: National Heritage Board. Retrieved from Roots.sg website.
 
-Chew, V. (2009). Housing and Development Board. Retrieved from Singapore Infopedia, National Library Singapore.
+Chua, A. (2009). *[The Causeway](https://eresources.nlb.gov.sg/infopedia/articles/SIP_99_2004-12-30.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Cornelius-Takahama, V. (2018, July). Raffles Lighthouse. Retrieved from Singapore Infopedia, National Library Singapore.
+Chew, V. (2009). *[Housing and Development Board](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1589_2009-10-26.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-National Parks Board. (2013, May 19). Pulau Ubin. Singapore: National Parks Board. Retrieved from National Parks Board website.
+Cornelius-Takahama, V. (2018, July). *[Raffles Lighthouse](https://eresources.nlb.gov.sg/infopedia/articles/SIP_147_2005-01-18.html). Retrieved from Singapore Infopedia, National Library Singapore.
+
+National Parks Board. (2013, May 19). <i>Pulau Ubin</i>. Singapore: National Parks Board. Retrieved from National Parks Board website.
 Neo, H.M. (2002, August 24). A kampong without village people. The Straits Times, p. 8. Retrieved from NewspaperSG.
 
-Prime Minister’s Office Singapore. (2014, March 15). Transcript of speech by Prime Minister Lee Hsien Loong at National Residents’ Committee Convention. Retrieved from Prime Minister’s Office Singapore website.
+Prime Minister’s Office Singapore. (2014, March 15). <i>Transcript of speech by Prime Minister Lee Hsien Loong at National Residents’ Committee Convention</i>. Retrieved from Prime Minister’s Office Singapore website.
 
-Pulau Ubin clinic to close from Tuesday. (1987, November 26). The Straits Times, p. 22. Retrieved from NewspaperSG.
+[Pulau Ubin clinic to close from Tuesday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871126-1.2.28.22). (1987, November 26). The Straits Times, p. 22. Retrieved from NewspaperSG.
 
-Pulau Ubin headman 101 dies. (2006, October 7). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[Pulau Ubin headman 101 dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20061007-1.2.66.3). (2006, October 7). The Straits Times, p. 2. Retrieved from NewspaperSG.
 
-Saifulbahri Ismail. (2013, April 17). Pulau Ubin residents to start paying rent for first year.  Channel NewsAsia. Retrieved from Factiva via NLB’s eResources website.
+Saifulbahri Ismail. (2013, April 17). Pulau Ubin residents to start paying rent for first year.  Channel NewsAsia. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Singapore. Oral History Department. (1990). Recollections: People and places. Singapore: Oral History Dept. (Call no.: RSING 959.5703 REC)
+Singapore. Oral History Department. (1990). *[Recollections: People and places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5519492)*. Singapore: Oral History Dept. (Call no.: RSING 959.5703 REC)
 
-Stone from Malaya to help build English Cathedral. (1939, July 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[Stone from Malaya to help build English Cathedral](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390723-1.2.83). (1939, July 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
-Tan, C. (1987, November 10). MPs take a boat ride to remote parts of their wards. The Straits Times, p. 19. Retrieved from NewspaperSG.
+Tan, C. (1987, November 10). [MPs take a boat ride to remote parts of their wards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871110-1.2.33.1). The Straits Times, p. 19. Retrieved from NewspaperSG.
 
-Tan, H.Y. (1996, August 2). Take me to the headman’s house. The Straits Times, p. 40. Retrieved from NewspaperSG.
+Tan, H.Y. (1996, August 2). [Take me to the headman’s house](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960802-1.2.49.9). The Straits Times, p. 40. Retrieved from NewspaperSG.
 
-Tan, T. (2000, December 4). Island living. The Straits Times, p. 1. Retrieved from NewspaperSG.
+Tan, T. (2000, December 4). [Island living](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001204-1.2.34.2)he Straits Times, p. 1. Retrieved from NewspaperSG.
 
 Tay, S.C. (2007, October 6). Chek Jawa Visitor Centre. The Straits Times, p. 109. Retrieved from NewspaperSG.
 
