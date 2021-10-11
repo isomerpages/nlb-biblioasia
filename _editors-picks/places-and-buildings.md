@@ -26,7 +26,7 @@ permalink: /editors-picks/places-buildings
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/jurong-bird-park" target="_blank"> How Jurong Bird Park Was Hatched</a>
 <p>On the 50th anniversary of its opening, Zoe Yeo gives us a bird’s-eye view of the setting up of one.</p>
-<div style="width: 500px; height: 250px;  overflow: hidden">
-    <img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg" style="left:-90px; top:-45px; width:auto; height: 400px; class=center">
+<div style="width: 100%; height: 250px;  overflow: hidden">
+<img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg" style="width:auto; height: 400px; float=center">
 </div>
 <hr>
