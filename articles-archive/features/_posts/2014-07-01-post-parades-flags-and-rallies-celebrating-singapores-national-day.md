@@ -139,3 +139,89 @@ Tan, K.P. (2007). Singapore National Day Rally speech: A site of ideological neg
 Volcic, Z., & Andrejevic, M. (2011). Nation branding in the era of commercial nationalism. <i>International Journal of Communication</i>, 5, pp. 598–618.
 
 #### **NOTES**
+
+[^1]: Peet, G.L. (2009). *[Rickshaw reporter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13164104)* (pp. 36–37). Singapore: Marshall Cavendish Editions. (Call no.: RSING 070.92 PEE); Pearson, H.F. (1954). *[Stories of early Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4087398)* (pp. 31–41). London: University of London Press. (Call no.: RCLOS 959.51 PEA)
+
+[^2]: Salma Khalik. (1987, August 8). [Remembering parades past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870808-1.2.104.3.1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+[^3]: Singapore rugged society. (1967, April 21). TIME, 89 (16), p. 64. Retrieved from EBSCOHost via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Barr, M.D. (2002). *[Cultural politics and Asian values: The tepid war](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11645905)* (pp. 32–33). London: New York, N.Y.: Routledge. (Call no.: RSING 303.372095 BAR)
+
+[^4]: [National Day decorations theme is our rugged society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670804-1.2.65). (1967, August 4). <i>The Straits Times</i>, p. 8; Sam, J., & Yong, J. (1968, August 10). [The rugged society’s day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680810-1.2.3). (1968, August 10). <i>The Straits Times</i>, p. 1; Sam, J. (1968, August 9). [Youth and discipline](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690809-1.2.127). <i>The Straits Times</i>, p. 25. Retrieved from NewspaperSG.
+
+[^5]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680810-1.2.3)*, 10 Aug 1968, p. 1; Upcoming channel 8 drama to relive 1968 NDP. (2012, July 12). Channel NewsAsia. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[^6]: Sam, J. (1969, August 10). [Armour leads the big parade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690810-1.2.2). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+
+[^7]: Leong, W.T.L. (2001, December). Consuming the nation: National Day Parades in Singapore. <i>New Zealand Journal of Asia Studies</i>, 3 (2), 5–16, pp. 6–8, Retrieved from The New Zealand Asian Studies Society website.
+
+[^8]: [Spectators watch splendour of parade as marchers, floats take six-km route](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760810-1.2.34). (1976, August 10). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+
+[^9]: Leong, Dec 2001, pp. 6–8.
+
+[^10]: Leong, Dec 2001, pp. 6–8.
+
+[^11]: Leong, Dec 2001, pp. 6–8.
+
+[^12]: Leong, Dec 2001, pp. 6–8; Peterson, W. (2001). *[Theater and the politics of culture in contemporary Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10160304)* (pp. 77–82). Middletown, CT.: Wesleyan University Press. (Call no.: RSING 792.095957 PET)
+
+[^13]: Fraser & Neave & Ministry of Communications and Information. (1988). *[Sing Singapore: A celebration in song, National Day 1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6197175)* (p. i). Singapore: F&N Sarsi. (Call no.: RCLOS 782.42095957 SIN)
+
+[^14]: [‘Surprise’ collection points to beat queues](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020627-1.2.9.5). (2002, June 27). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+
+[^15]: Wee, C.Y. (2008, August 12). [On parade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080812-1.2.109.4.1). <i>The Straits Times</i>, p. 92. Retrieved from NewspaperSG.
+
+[^16]: Sam, J., Perstans, R., & Yong, J. (1966, August 10). [The big parade on the padang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660810-1.2.32). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+
+[^17]: [Colourama](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750714-1.2.52). (1975, July 14). <i>The Straits Times</i>, p. 11. Retrieved from NewspaperSG.
+
+[^18]: [Parades at 13 centres to mark 10th birthday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750810-1.2.3). (1975, August 10). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+
+[^19]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750810-1.2.3)*, 10 Aug 1975, p. 1.
+
+[^20]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750810-1.2.3)*, 10 Aug 1975, p. 1.
+
+[^21]: Leong, Dec 2001, p. 7.
+
+[^22]: Fang, J. (2010, July 16). Mini-NDPs to be held at five heartland areas. <i>My Paper</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[^23]: <i>My Paper</i>, 16 Jul 2010.
+
+[^24]: Chow, J. (2010, August 10). [This is truly home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100810-1.2.2). (2010, August 10). <i>The Straits Times</i>, p. 1. Retieved from NewspaperSG; MPs celebrate National Day with constituencies. (2010, August 10). <i>The Straits Times</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; [Home is where the heart is](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100810-1.2.27.3.18). (2010, August 10). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+
+[^25]: [Ministers and MPs seen in uniform by the public for the first time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660810-1.2.33). (1966, August 10). <i>The Straits Times</i>, p. 6; [Rush for colour TV sets to watch N-Day parade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740808-1.2.77). (1974, August 8). <i>The Straits Times</i>, p. 15. Retrieved from NewspaperSG.
+
+[^26]: [S’poreans overseas can watch N-Day parade live on PCs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940804-1.2.8.1). (1994, August 4). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
+
+[^27]: Chuah, D. (2007, July 11). [Watch this year’s NDP live from wherever you are](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20070711-2.2.7.7). <i>Today</i>, p. 9. Retrieved from NewspaperSG.
+
+[^28]: NDP 2010 at your fingertips. (2010, May 12). <i>Youth.SG</i> Retrieved from Youth.SG website: 
+
+[^29]: Yong, N. (2009, July 22). [NDP fever goes to the heartland before big day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090720-1.2.27.10). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
+
+[^30]: See Koh, B.C. (2006). *[Our global city our home: NDP 2006, our journey in pictures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13366558)*. Singapore: NDP 2006 EXCO. (Call no.: RSING 394.26845957 OUR); *[NDP 98: Celebrating 33 years of independence: Stories behind the story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12816948)*. (1998). Singapore: NDP 1998 EXCO. (Call no.: RSING 959.57 NDP) and other publications mostly by NDP EXCO (Executive Committee) for commemorative publications on previous NDPs.
+
+[^31]: See Volcic, Z., & Andrejevic, M. (2011). Nation branding in the era of commercial nationalism. *[International Journal of Communication](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12816948)*, 5, pp. 598–618 for approaches to branding and marketing the nation.
+
+[^32]: [State flags are flying high even before official go-ahead is given](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880728-1.2.23.20). (1988, July 28). <i>The Straits Times</i>, p.14. Retrieved from NewspaperSG.
+
+[^33]: Leong, Dec 2001, p. 10.
+
+[^34]: Tan, S., & Zuraidah Ibrahim. (1990, August 26). [PM caps 25-year tradition of talking to Singaporeans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900826-1.2.7.4). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+[^35]: Tan, K.P. (2007). Singapore National Day Rally speech: A site of ideological negotiation. *Journal of Contemporary Asia*, 37 (3), 292─308, pp. 293–294. Retrieved from Taylor & Francis Online website.
+
+[^36]: Tan, 2007, pp. 293–294.
+
+[^37]: Tan, 2007, pp. 293–294.
+
+[^38]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900826-1.2.7.4)*, 26 Aug 1990, p. 2.
+
+[^39]: [Lee on the need to inculcate right attitudes and values](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750821-1.2.60). (1971, August 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+
+[^40]:. Tan, 2007, p. 297.
+
+[^41]: Ministry of Information, Communications and Arts. (2003, August 17). *[Speech by Prime Minister Goh Chok Tong at the National Day Rally 2003](https://www.nas.gov.sg/archivesonline/speeches/record-details/76d4a135-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
+
+[^42]: Tan, 2007, p. 297.
+
+[^43]: Prime Minister’s Office. (2013, August 18). *Prime Minister Lee Hsien Loong’s National Day Rally 2013*. Retrieved from Prime Minister’s Office website.
