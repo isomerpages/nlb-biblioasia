@@ -18,7 +18,7 @@ In this article, Professor Zhang Renfeng examines the letters left by literary s
 
 菽园仁兄大人、老弟足下：月之初九，以福州大水，灾情甚重，泐函奉布，并恳招呼赈捐，以賙穷黎，未审何日得达左右。唯小民望拯甚急，几有迫不及待之势。兹特公挽王小樵广文元穉携带捐册，驰赴南洋劝募。唯人地生疏，非仗足下登高一呼，诚恐缓不济急。务乞鼎力格外提倡，造福桑梓，实无限量。小樵博学能文，性尤乐善，足下一见而知也。舟行在即，未及多赘，匆匆泐此奉恳，顺请善安，唯照不尽。
 
-<div style="text-align:right;">陈宝琛兄曾宗彦同顿首六月二十一日</div>
+<div style="text-align:right;">弟陈宝琛 兄曾宗彦 同顿首 六月二十一日</div>
 
 信中所述是1900年夏，福州城里遭遇水灾，损失惨重。陈宝琛、曾宗彦等曾发信给邱菽园求助，尚未得复，又公推王元穉直接到南洋，向当地侨界募捐。此信显然由王随身带去。据王元穉之子王祖榖在《哀启》中记述：“庚子夏，省垣（按，省城，即福州）疫症盛行，复被水灾，罹灾疫者数万人。经陈弢庵（按，陈宝琛）太傅函邀先严赴南洋各岛募赈......在新加坡各地募得十余万金，悉汇回，由陈太傅转付散赈，救活者数万家。”这段记述可与此信相互印证。信中还有几处可加以说明：旧时，称呼亲友或长者，都只能称呼对方或他人的字或号，决不可直呼其名讳。这里“小樵”是王元穉的字，下面“广文”是王的身份，在明清时期指儒学教官。因为王在1884年曾任台湾道儒学训导。其次，此信书法极佳，行书走笔流畅、潇洒，极具书法艺术之美感。笔者在上海图书馆见过陈宝琛的手迹，与此不同，推断当为曾宗彦所缮。再次，曾宗彦年龄小陈宝琛四岁，曾自称兄，署名在后，说明曾与邱菽园有特殊的交谊；而陈自称弟，称呼邱为“仁兄大人”，说明两人只是一般关系。
 
@@ -78,6 +78,6 @@ In this article, Professor Zhang Renfeng examines the letters left by literary s
 
 引文说明：本文全文引用四封清末高官致邱菽园信均为王清建先生所藏原件—作者。
 
-<p style="font-size:15px;"><b>Professor Zhang Renfeng</b> is a member of the Shanghai Research Institute of Culture and History. He has been involved in the study of Zhang Yuanji, renowned educationist, bibliographer and founder of China’s modern publishing business. He compiled the 10-volume Works of Zhang Yuanji; his own works include the Collection of Research Papers on Zhang Yuanji; Zhang Yuanji, an Enlightener of the People; and Chronicle of Life of Zhang Yuanji.</p>
+<p style="font-size:15px;"><b>Professor Zhang Renfeng</b> is a member of the Shanghai Research Institute of Culture and History. He has been involved in the study of Zhang Yuanji, renowned educationist, bibliographer and founder of China’s modern publishing business. He compiled the 10-volume <i>Works of Zhang Yuanji</i>; his own works include the <i>Collection of Research Papers on Zhang Yuanji; Zhang Yuanji, an Enlightener of the People; and Chronicle of Life of Zhang Yuanji.</i></p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
