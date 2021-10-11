@@ -25,7 +25,3 @@ permalink: /editors-picks/literature
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur" target="_blank"> The Borobudur, Mysterious Gold Plates and Singing Maps</a>
 <p>Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller The Java Enigma by debut novelist Erni Salleh.</p>  
 <hr clear="left">
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/raffles" target="_blank"> Raffles Displaced</a>
-<p>Raffles, once widely admired and revered as the founder of Singapore, has been portrayed in a more complicated light in recent years, as Ng Yi-Sheng tells us.</p>  
-<hr clear="left">
