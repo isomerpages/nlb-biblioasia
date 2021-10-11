@@ -1,9 +1,10 @@
 ---
-title: The Story of Singapore Radio (1924-41)
+title: The Story of Singapore Radio (1924–41)
 date: 2016-04-05
 permalink: /vol-12/issue-1/apr-jun-2016/story-of-sg-radio
 layout: post
 ---
+
 #### The advent of wireless broadcasting created the same ripples that the Internet unleashed in more recent times. **Chua Ai Lin** traces its development in colonial Singapore.
 
 <div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-12-issue-1/story-of-singapore-radio/01_singaporeradio.jpg">The studio of the Amateur Wireless Society of Malaya (AWSM) began operations in the Union Building at Collyer Quay at the end of 1924, using an aeroplane transmitter. <i>Roland Craske Collection, courtesy of National Archives of Singapore.</i></div>
