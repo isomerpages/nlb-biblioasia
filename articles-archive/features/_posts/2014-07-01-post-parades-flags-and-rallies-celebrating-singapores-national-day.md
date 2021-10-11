@@ -79,6 +79,10 @@ Despite a change in the political climate and the subsequent tone of today’s r
 <br/>
 <img src="/images/vol-10-issue-2/nationalday/process.jpg"></div>
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/nationalday/process_full.jpg"></div>
+
 #### **NDP 2015: The Big Bang**
 
 In 2015, Singapore will celebrate its 50th year as an independent nation. To mark this important milestone, an SG50 committee was announced in August 2013 to coordinate the country’s Golden Jubilee celebrations. The celebrations will not focus solely on the parades but rather a whole year of activities and events. To this end, a seed fund that provides up to S$50,000 was set up to help those interested in organising their own projects to celebrate their love for the nation. In addition, the SG50 committee has been collecting ideas from the public on how the anniversary celebrations should take shape.
