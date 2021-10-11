@@ -4,10 +4,9 @@ date: 2016-04-03
 permalink: /vol-12/issue-1/apr-jun-2016/gaston-melies
 layout: post
 ---
-
 #### Gaston Méliès may be the first filmmaker to have directed fiction films in Singapore. Unfortunately, none have survived the ravages of time. **Raphaël Millet** tells you why.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg">As none of the four films that Gaston Méliès shot in Singapore in January 1913 have survived, photographs such as these taken by members of Méliès’ entourage when they were here at the time likely indicate scenes that may have been captured in the film A Day at Singapore. Pictured here from left to right are Sri Mariamman Temple on South Bridge Road, a shophouse in Chinatown and Masjid Jamae (Chulia Mosque), an Indian-Muslim mosque on South Bridge Road. <i>Courtesy of “Gaston Méliès and his Wandering Star Film Company” © Nocturnes Productions, 2015.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg">As none of the four films that Gaston Méliès shot in Singapore in January 1913 have survived, photographs such as these taken by members of Méliès’ entourage when they were here at the time likely indicate scenes that may have been captured in the film <i>A Day at Singapore</i>. Pictured here from left to right are Sri Mariamman Temple on South Bridge Road, a shophouse in Chinatown and Masjid Jamae (Chulia Mosque), an Indian-Muslim mosque on South Bridge Road. <i>Courtesy of “Gaston Méliès and his Wandering Star Film Company” © Nocturnes Productions, 2015.</i></div>
 
 Between 1912 and 1913, while the renowned French filmmaker Georges Méliès was still filming imaginary trips to faraway places in his studio in Montreuil, near Paris, his US-based brother, Gaston Méliès, undertook a 10-month-long trip around Asia Pacific to places such as Polynesia, New Zealand, Australia, Java, Singapore, Cambodia and Japan. During this cinematic adventure, the older and less famous Méliès brother churned out no less than 64 fiction and non-fiction films.
 
@@ -25,9 +24,9 @@ In the absence of the physical works, one can only try to piece together what ma
 
 Some details of Méliès’ stay in Singapore can be traced to what remains of the letters he wrote to his son Paul in the US,[^3] photographs taken during the trip (including those likely taken by his wife Hortense who accompanied him),[^4] as well as the letters and a photo journal of his cinematographer Hugh McClung.[^5]
 
-Arriving from Batavia on the steamship S.S. Montoro after having toured Java, Méliès disembarked at Singapore on 10 January 1913. Interestingly, he may not have planned to stay long in Singapore, as the weather was reported to have been bad (it had been storming heavily during the last few days of his stay in Java, and the forecast called for rain in Singapore too).[^6]
+Arriving from Batavia on the steamship *S.S. Montoro* after having toured Java, Méliès disembarked at Singapore on 10 January 1913. Interestingly, he may not have planned to stay long in Singapore, as the weather was reported to have been bad (it had been storming heavily during the last few days of his stay in Java, and the forecast called for rain in Singapore too).[^6]
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-1/gaston-melies/03-gastonmelies.jpg">This was the vessel, the S.S. Montoro that brought Gaston Méliès and members of his Star Film Company from Batavia, in Java, to Singapore, on 10 January 1913.</div>
+<div style="background-color: white;"><img src="/images/Vol-12-issue-1/gaston-melies/03-gastonmelies.jpg">This was the vessel, the <i>S.S. Montoro</i>, that brought Gaston Méliès and members of his Star Film Company from Batavia, in Java, to Singapore, on 10 January 1913.</div>
 
 McClung, in a letter dated 6 January 1913 sent from Batavia to his sister, wrote of his experience in Singapore: “Just a few lines as we leave tomorrow for Singapore on account of rain, here. And as it is also in Singapore, we will only remain there a day and go on to Bangkok – through Siam and Indo China”.
 
