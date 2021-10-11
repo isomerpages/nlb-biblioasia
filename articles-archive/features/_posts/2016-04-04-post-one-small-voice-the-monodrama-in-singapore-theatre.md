@@ -20,11 +20,11 @@ Actors Lim Kay Tong and Zou Wenxue were the original leads, with Lim performing 
 
 One of the few directions Lim recalls Kuo giving him was to stand up at certain points in the play:
 
-“He seemed to focus on whenever the script came back to the coffin. Those were the moments of focus. The rest of the time he just said, ‘Tell the story’. That was all”.[^2]
+“He seemed to focus on whenever the script came back to the coffin. Those were the moments of focus. The rest of the time he just said, ‘Tell the story’. That was all.”[^2]
 
 The simplicity of Kuo’s direction proved powerful. To stand, to sit, to gesture, to speak meaning into a small, empty space – one might call to mind what British theatre director and luminary Peter Brook wrote in his seminal 1968 text, *The Empty Space*:
 
-“I can take any empty space and call it a bare stage. A man walks across an empty space whilst someone else is watching him, and this is all that is needed for an act of theatre to be engaged”.[^3]
+“I can take any empty space and call it a bare stage. A man walks across an empty space whilst someone else is watching him, and this is all that is needed for an act of theatre to be engaged.”[^3]
 
 But one might also look at Singapore’s street storytellers of the 1950s and 60s, the likes of Lee Dai Sor and Ong Toh who popularised what was known as *jiang gu* (讲古; “telling old stories” in Chinese), and who understood not just the simplicity or the individuality of the theatre, but the possibilities of communality. Theatre is, after all, also a communal experience, where a single character’s journey is magnified through the sympathies and empathies of the audience.
 
@@ -34,13 +34,13 @@ The storytelling tradition is still strong in Singapore today, with various grou
 	
 Immediately preceding the seminal *Coffin* was Stella Kon’s 1984 classic, *Emily of Emerald Hill*. Kon had written the play in 1981 but could find no one to direct or perform it after submitting it for the 1983 Singapore National Playwriting Competition. She said in an interview with the *Quarterly Literary Review Singapore* in 2002:
 
-“When it won the award, we couldn’t get any Singapore director to produce it because, well, this one-woman-play format, it was very  unseen in Singapore. You know that I didn’t invent the form, I’d seen one-person plays abroad, but it wasn’t known here. So the local directors, they asked how can one person maintain the attention of the audience for that length of time”.[^5]
+“When it won the award, we couldn’t get any Singapore director to produce it because, well, this one-woman-play format, it was very  unseen in Singapore. You know that I didn’t invent the form, I’d seen one-person plays abroad, but it wasn’t known here. So the local directors, they asked how can one person maintain the attention of the audience for that length of time.”[^5]
 
 It was not until Malaysian director Chin San Sooi and playwright-actress Leow Puay Tin took the plunge in 1984 – staging the monodrama in remote Seremban – that *Emily* emerged into the spotlight. The monodrama was produced in Singapore a year later, starring stage actress Margaret Chan and directed by university lecturer Max Le Blond.
 
 <div style="background-color: white;"><img src="/images/Vol-12-issue-1/one-small-voice/02a_onesmallvoice.jpg">Stella Kon’s <i>Emily of Emerald Hill</i> (1984) is one of Singapore’s most iconic single-person plays. The monodrama was first produced in Singapore in 1985, starring stage actress Margaret Chan and directed by university lecturer Max Le Blond. <i>Courtesy of Dr Margaret Chan.</i></div>
 
-The success of *Emily* in terms of its one-woman format and warm audience reception marked a high point of a fertile period in Singaporean theatre in the 1980s;[^6] the Ministry of Community Development, which organised the 1985 Drama Festival, wanted to repeat *Emily*’s success by publicising the National Playwriting Competition, which Kon had won in 1983 with *Emily*. A deputy director at the ministry was reported as saying: “*Emily* proves that there is a Singaporean audience appreciative of Singaporean works”.[^7] The play was also invited to the UK’s Commonwealth Arts Festival and the Edinburgh Fringe Festival, both in 1986.
+The success of *Emily* in terms of its one-woman format and warm audience reception marked a high point of a fertile period in Singaporean theatre in the 1980s;[^6] the Ministry of Community Development, which organised the 1985 Drama Festival, wanted to repeat *Emily*’s success by publicising the National Playwriting Competition, which Kon had won in 1983 with *Emily*. A deputy director at the ministry was reported as saying: “*Emily* proves that there is a Singaporean audience appreciative of Singaporean works.”[^7] The play was also invited to the UK’s Commonwealth Arts Festival and the Edinburgh Fringe Festival, both in 1986.
 
 But until that point, the monologue and monodrama had made few ripples in Singaporean theatre. Chinese-language theatre in Singapore in the early 1900s comprised mostly ensemble productions with a strong moralistic or didactic streak. A 1914 Chinese-language production of *The Heroine* (巾帼须眉), for instance, had strong feminist leanings, “depicting the importance of women’s education and social  orality”. It featured the female principal of a girls’ school who goes through great familial ordeals but eventually saves the day. In 1918, a trilogy of plays staged in Singapore as part of a fundraiser to aid victims of floods in Guangdong, China, dealt with various hot-button issues of the day, including one that critiqued arranged marriages, another that spelled the downfall of the rich and heartless, and one where a promiscuous man ends up bankrupt and in disrepute.[^8]
 
@@ -162,7 +162,7 @@ This direct address, a hallmark of most monodramas, draws out the magnetic vulne
 
 [^11]:[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19111212-1.2.41). (1911, December 12). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^11]:[The Humphrey Bishop Co](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19160426-1.2.53.aspx?q=The+Humphrey+Bishop+Co.&mode=advanced&f_df=19160101&f_dt=19161231&page=1&sort=relevance&token=co%2cbishop%2chumphrey%2cthe&sessionid=093e993cab6343b7aff342098d5c701b). (1916, April 26). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^12]:[The Humphrey Bishop Co](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19160426-1.2.53). (1916, April 26). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
 [^13]:[Leyland Hodgson Company](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19200625-1.2.22.aspx?q=Leyland+Hodgson+Company.&mode=advanced&f_df=19200101&f_dt=19201231&page=1&sort=relevance&token=company%2chodgson%2cleyland&sessionid=56c41158b0ce45e1bbe7faaa7f19ce86). (1920, June 26). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 12. Retrieved from NewspaperSG. 
 
