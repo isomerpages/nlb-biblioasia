@@ -92,11 +92,11 @@ There is a strong echo of the words of Kuo Pao Kun in his play *Descendants of t
 
 This anxiety over ancestry is perhaps a symptom of larger issues of memory and remembrance that weigh heavily on the Singaporean conscience. While Roots is the story of one man unravelling his family’s past, it also reflects a larger narrative – that of an immigrant nation, whose ancestors left their families to forge new ones, as this author pointed out in a <i>Straits Times</i> article:
 
-“The power of Chong’s intimate, compelling *Roots* lies both in that anxiety over ancestry, but also the ability to lay it to rest – to embrace it as part of our history and soldier through it to find an identity of our own”.[^23]
+“The power of Chong’s intimate, compelling *Roots* lies both in that anxiety over ancestry, but also the ability to lay it to rest – to embrace it as part of our history and soldier through it to find an identity of our own.”[^23]
 
 These preoccupations also come to light in playwright Huzir Sulaiman’s *Occupation* (2002), a monodrama revolving around his own grandmother, Mrs Mohamed Siraj, and her real-life experiences growing up in Singapore during the Japanese Occupation. The monodrama, first performed by Claire Wong in 2002 and Jo Kukathas in 2012, was a popular and critical success. As Mrs Siraj responds to questions and prompts from an oral history collector, the audience becomes aware of a larger tapestry at work, as writer and editor Kathy Rowland states in the preface to Huzir’s collection of plays:
 
-“The conceit of the oral history collector archiving Mrs Siraj’s wartime memories gives motion to the action, allowing the narrative to move between past and present in a fluid way. Indeed, this confluence of past and present is essential, for the play looks at how contemporary needs shape the way the past is remembered”.[^24]
+“The conceit of the oral history collector archiving Mrs Siraj’s wartime memories gives motion to the action, allowing the narrative to move between past and present in a fluid way. Indeed, this confluence of past and present is essential, for the play looks at how contemporary needs shape the way the past is remembered.”[^24]
 
 <div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-1/one-small-voice/06_onesmallvoice.bmp">Jo Kukathas performs in the 2012 production of Huzir Sulaiman’s <i>Occupation</i> (2002). The monodrama revolves around Huzir’s grandmother, Mrs Mohamed Siraj, and her real-life experiences growing up in Singapore during the Japanese Occupation. Photo by Tan Ngiap Heng. <i>Courtesy of Checkpoint Theatre.</i></div>
 
@@ -116,15 +116,15 @@ The 2010s have witnessed a flourishing of the monodrama, with well-received work
 
 <div style="background-color: white;"><img style="width:350px" src="/images/Vol-12-issue-1/one-small-voice/08_onesmallvoice.bmp">Programme booklet of Huzir Sulaiman’s <i>The Weight of Silk on Skin</i> (2011), about a well-heeled and erudite Singaporean man, played by Ivan Heng, who looks back at the loves and loves lost in his life. <i>Courtesy of Checkpoint Theatre.</i></div>
 
-There have also been more recent group productions of short monologues such as *The Theatre Practice’s Upstream* (2015) and *Teater Ekamatra’s Projek Suitcase* (2015), featuring many young and upcoming practitioners. These intimate evenings of solo work also paid particular attention to the spaces they were performed in – Stamford Arts Centre and the Malay Heritage Centre respectively. *Upstream*, for one, was a farewell to The Theatre Practice’s long-time premises as the centre undergoes refurbishment and rebranding as a traditional arts space. The monologues presented were often laden with yearning and tinged with regret. Often, there was very little movement – one performer presented his half-hour work standing completely still. Another sat on a bench, his back to the audience for almost the entire performance.
+There have also been more recent group productions of short monologues such as The Theatre Practice’s *Upstream* (2015) and Teater Ekamatra’s *Projek Suitcase* (2015), featuring many young and upcoming practitioners. These intimate evenings of solo work also paid particular attention to the spaces they were performed in – Stamford Arts Centre and the Malay Heritage Centre respectively. *Upstream*, for one, was a farewell to The Theatre Practice’s long-time premises as the centre undergoes refurbishment and rebranding as a traditional arts space. The monologues presented were often laden with yearning and tinged with regret. Often, there was very little movement – one performer presented his half-hour work standing completely still. Another sat on a bench, his back to the audience for almost the entire performance.
 
-Many of these recent monodramas were not inspired by their source material alone, but were buoyed also by a nostalgia for simpler storytelling times – a pre- Internet, pre-smartphone era. Director Alvin Tan wrote in his preface to *Best of* (2013) that they wanted the audience to focus their full attention on the storyteller without the help – or perhaps the distraction – of sound, multimedia or technology:
+Many of these recent monodramas were not inspired by their source material alone, but were buoyed also by a nostalgia for simpler storytelling times – a pre- Internet, pre-smartphone era. Director Alvin Tan wrote in his preface to *Best Of* (2013) that they wanted the audience to focus their full attention on the storyteller without the help – or perhaps the distraction – of sound, multimedia or technology:
 
-“With our contemporary environment bombarded with high tech presences and our senses often preoccupied with the iPad, iPhone, Facebook and Twitter, we have lost much human interactive abilities. (…) Can we ever listen deeply to another human being in person? Best of brings us back to storytelling basics. Just the storyteller and a chair”.[^26]
+“With our contemporary environment bombarded with high tech presences and our senses often preoccupied with the iPad, iPhone, Facebook and Twitter, we have lost much human interactive abilities. […] Can we ever listen deeply to another human being in person? Best of brings us back to storytelling basics. Just the storyteller and a chair.”[^26]
 
 For *Roots* (2012), creator Chong said in an interview with *The Straits Times* that he, too, wanted to bring the show back to the “roots” of theatre:
 
-“I think we are forgetting what theatre can be. Because it all started with rituals and street performances, where they had nothing – just maybe a table and two chairs, and they could tell the whole play. I thought that was the beauty of theatre”.[^27]
+“I think we are forgetting what theatre can be. Because it all started with rituals and street performances, where they had nothing – just maybe a table and two chairs, and they could tell the whole play. I thought that was the beauty of theatre.”[^27]
 
 By going “back to basics”, theatremakers invite greater scrutiny of not just the quality of the solo performance – an ability to engage an audience, alone, and for an extended period of time – but also their narrators and central characters. Often, these protagonists, from *Talaq* to *The Weight of Silk on Skin*, are flawed and bruised. Each carries with them a compelling emotional nakedness, inviting the audience to help shoulder part of the burden they cannot bear.
 
@@ -148,7 +148,7 @@ This direct address, a hallmark of most monodramas, draws out the magnetic vulne
 
 [^4]:The monologue is a long speech by a single actor in a play or film, or as part of a theatrical or broadcast programme; the monodrama is an entire dramatic piece acted by a single performer.
 
-[^5]:Lord, R. (2002, July) Konfrontation and konversion: Stella Kon gets her groove back. *Quarterly Literary Review Singapore*, 1(4). Retrieved from *Quarterly Literary Review Singapore* website.
+[^5]:Lord, R. (2002, July) Konfrontation and konversion: Stella Kon gets her groove back. *Quarterly Literary Review Singapore, 1*(4). Retrieved from *Quarterly Literary Review Singapore* website.
 
 [^6]:Tan, C. (2014, August 26). [Turning the tide with Emily](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140826-1.2.51.1.8). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
