@@ -110,23 +110,39 @@ In conclusion, while poets articulated their views in purpose-driven public or p
 
 #### **REFERENCES**
 
-Goh, P.S. (2010). If we dream too long. Singapore: NUS Press. (Call no.: RSING S823 GOH)
-Goh, P.S. (1976). Eyewitness. Singapore: Heinemann Educational Books. (Call no.: RSING 828.995957 GOH)
-Goh, P.S. (1995). A dance of moths. Singapore: Select Books. (Call no.: RSING S823 GOH)
-Gretchen, M. (1983, May 8). Boat Quay’s businessman and poet. The Straits Times, p. 1. Retrieved from NewspaperSG.
-Gwee, L.S., & Thumboo, E. (Eds.). Sharing borders: Studies in contemporary Singaporean-Malaysian literature II. Singapore: National Library Board, National Arts Council. (Call no.: RSING S820.9 SHA)
-Heng, M., & Gwee, L.S. (Eds.). (2012). Edwin Thumboo: Time-travelling: A select annotated bibliography (p. 32). Singapore: National Library Board. (Call no.: RSING S821 EDW)
-Goh, K.S. (2011). Home: A loaded world. In Dias-Pura. Retrieved from gohkasan wordpress website.
-Koh, B.S. (1996, September 9). Bleak vision of man trapped in futile quest. The Straits Times, p. 18. Retrieved from NewspaperSG.
-Koh, J.L. (2013, October 4). Erratic as thoughts: Goh Poh Seng’s lines from Batu Ferringhi. Quarterly Literary Review Singapore, 12 (4). 
-Lim, S. (1996, November 2). Singapore: Too much presence for young. The Straits Times, p. 25. Retrieved from NewspaperSG.
-Mohammed A. Quayum, Wong, P.N., & Thumboo, E. (Eds.). (2009). Sharing borders: Studies in contemporary Singaporean-Malaysian literature I. Singapore: National Library Board, National Arts Council. (Call no.: RSING S820.9 SHA)
-National Library Board. (2005). Literature development. Retrieved from NLB exhibitions website. 
-Phair, D. (2001, May 19). Living in exile, but the Dance never ends. The Straits Times, p. 21. Retrieved from NewspaperSG.
-Poon, A., & Holden, P. & Lim, S.G-L. (Eds.). (2009). Writing Singapore: An historical anthology of Singapore literature. Singapore: NUS Press. (Call no.: RSING S820.8 WRI)
-Tay, E. (2011). Colony, nation, and globalisation: Not at home in Singaporean and Malaysian literature. Singapore: NUS Press. (Call no.: RSING S820.9 TAY)
-Thumboo, E., & Sayson, R.I. (2007). (Eds.). From the inside: Asia Pacific literature in Englishes (Vol. 1). Singapore: Ethos Books. (Call no.: RSING 427.95 WRI)
-Yap, S. (2007, November 18). A pioneer returns home. The Straits Times, p. 70. Retrieved from NewspaperSG.
+Goh, P.S. (2010). *[If we dream too long](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13227365)*. Singapore: NUS Press. (Call no.: RSING S823 GOH)
+
+Goh, P.S. (1976). *[Eyewitness](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082085)*. Singapore: Heinemann Educational Books. (Call no.: RSING 828.995957 GOH)
+
+Goh, P.S. (1995). *[A dance of moths](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7485485)*. Singapore: Select Books. (Call no.: RSING S823 GOH)
+
+Gretchen, M. (1983, May 8). [Boat Quay’s businessman and poet](C:\Users\nlsvchl\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\8U0SSXGP\Boat Quay’s businessman and poet). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+
+Gwee, L.S., & Thumboo, E. (Eds.). *[Sharing borders: Studies in contemporary Singaporean-Malaysian literature II](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13217812)*. Singapore: National Library Board, National Arts Council. (Call no.: RSING S820.9 SHA)
+
+Heng, M., & Gwee, L.S. (Eds.). (2012). *[Edwin Thumboo: Time-travelling: A select annotated bibliography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14470981)* (p. 32). Singapore: National Library Board. (Call no.: RSING S821 EDW)
+
+Goh, K.S. (2011). Home: A loaded world. In <i>Dias-Pura</i>. Retrieved from gohkasan wordpress website.
+
+Koh, B.S. (1996, September 9). [Bleak vision of man trapped in futile quest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950909-1.2.76.8.1). <i>The Straits Times</i>, p. 18. Retrieved from NewspaperSG.
+
+Koh, J.L. (2013, October 4). Erratic as thoughts: Goh Poh Seng’s lines from Batu Ferringhi. <i>Quarterly Literary Review Singapore</i>, 12 (4). 
+
+Lim, S. (1996, November 2). [Singapore: Too much presence for young](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19961102-1.2.75.8.11). <i>The Straits Times</i>, p. 25. Retrieved from NewspaperSG.
+
+Mohammed A. Quayum, Wong, P.N., & Thumboo, E. (Eds.). (2009). *[Sharing borders: Studies in contemporary Singaporean-Malaysian literature I](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13217811)*. Singapore: National Library Board, National Arts Council. (Call no.: RSING S820.9 SHA)
+
+National Library Board. (2005). <i>Literature development</i>. Retrieved from NLB exhibitions website. 
+
+Phair, D. (2001, May 19). [Living in exile, but the Dance never ends](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010519-1.2.137.9.4). <i>The Straits Times</i>, p. 21. Retrieved from NewspaperSG.
+
+Poon, A., & Holden, P. & Lim, S.G-L. (Eds.). (2009). *[Writing Singapore: An historical anthology of Singapore literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13180645)*. Singapore: NUS Press. (Call no.: RSING S820.8 WRI)
+
+Tay, E. (2011). *[Colony, nation, and globalisation: Not at home in Singaporean and Malaysian literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13706643)*. Singapore: NUS Press. (Call no.: RSING S820.9 TAY)
+
+Thumboo, E., & Sayson, R.I. (2007). (Eds.). *[From the inside: Asia Pacific literature in Englishes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12924003)* (Vol. 1). Singapore: Ethos Books. (Call no.: RSING 427.95 WRI)
+
+Yap, S. (2007, November 18). [A pioneer returns home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20071118-1.2.61.5.6). <i>The Straits Times</i>, p. 70. Retrieved from NewspaperSG.
 
 
 #### **NOTES**
