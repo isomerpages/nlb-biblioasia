@@ -6,8 +6,12 @@ layout: post
 ---
 #### **Bonny Tan** pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore's multicultural character.
 
-Research into Singapore's food heritage often neglects the unusually rich minefield of data found in newspapers. NewspaperSG, the National Library's digital archives of local newspapers dating from 1831, provides easy access to a fascinating wealth of information found in otherwise banal resources such as news articles and columns, recipes, restaurant reviews, and even advertisements.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg">
+<i>Belacan</i> is used extensively in Malayan cooking and gives it its distinctive taste.</div>
 
+Research into Singapore's food heritage often neglects the unusually rich minefield of data found in newspapers. NewspaperSG, the National Library's digital archives of local newspapers dating from 1831, provides easy access to a fascinating wealth of information found in otherwise banal resources such as news articles and columns, recipes, restaurant reviews, and even advertisements.
 
 The history of <i>belacan</i>, a local condiment, and curry puff[^1], a popular snack, is traced in this article, pieced together from reports taken from digitised English newspapers in Malaya during the interwar period. These newspaper reports unveil the faces and flavours behind these local foods, their evolution through racial adaptations and their colloqualisation into place names and language.
 
@@ -23,6 +27,11 @@ Encouraged by the conveniences of tinned food, refrigeration and fresh imports o
 
 The <i>Malaya Tribune</i>, a newspaper started in 1914 and targeting Asiatic readers, is credited with training local journalists, particularly in the 1930s.[^9] Eventually, these journalists went on to anchor the increasingly localised English newspapers in post-war Singapore. Local food columnists of the 1970s and 1980s such as Violet Oon, Lee Geok Boi and Sylvia Toh Paik Choo, reinforced the romanticisation of the iconic dishes of the 1950s and 1960s as they reminisced over the food they grew up with. Thus, the flavours of local cuisine began to take centre stage in food columns, with greater attention paid to its ingredients, preparation methods and consumption.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_packing.jpg">
+<i>Belacan</i> in traditional packing.</div>
+
 #### **Flavours of Singapore**
 
 **Belacan**
@@ -33,15 +42,16 @@ The pungent <i>belacan</i> is manufactured through a crude process of fermenting
 
 <i>Belacan</i> may have been indispensable for flavouring local food, but newspapers reveal that its owerpowering olfactory presence, particularly in the 19th and early 20th centuries when Singapore had several belacan factories by the coast, offended the European population's sense of smell. <i>Belacan</i> naturally became one of the few local food items written about in English newspapers, almost always because of its potent stink. An 1891 letter from "one with a sensitive nose" complaining about the nefarious effusions from a government licensed <i>belacan</i> factory along Tanjong Rhu, a coastal health getaway in colonial Singapore, described it thus: "The odour of <i>blachang</i> [sic] is peculiarly Asiatic, there is nothing in Europe to contend with it; it is ghastly, penetrating and abominable... if a tired city man happens to land at ‘Sandy Point’ to reach Tanjong Katong... then a whiff comes from the <i>blachang</i> factory that makes his hair stand on end, and fills him with criminal impulses”.[^10]
 
-<i>Belacan</i> is thought to have been brought to Southeast Asia by the Portuguese.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_bought_by_Portuguese.jpg">
+<i>Belacan</i> is thought to have been brought to Southeast Asia by the Portuguese.</div>
 
 <i>Belacan</i> naturally became one of the few local food items written about in English newspapers, almost always because of its potent stink. 
 
 However, newspaper reports, one as early as 1874,[^11] indicate that a few Europeans had a connoisseur’s appreciation for this foul-smelling ingredient as suggested by its nickname – the Malayan caviar[^12] or the Malaccan cheese, where its best versions came from.[^13] Interest in its flavours was reflected by an enquiry on how to make <i>“blachan toast”</i> in the English newspapers in 1901[^14] and by the 1920s a greater discernment of its varied use in dishes was seen: “The <i>balachan</i> [sic] is decidedly a delicious compound. It can be cooked in various ways, fried simply and mixed with chillies, onions, garlic, and aromatic herbs of different kinds with prawns, fish, crabs... The ‘curry’ so well known in this part of the world has got to be flavoured with this condiment without which it will lose much of its palatable taste. <i>Balacan</i> is equal to or superior (to some tastes) to any European caviarre [sic]... but the taste for it must be acquired. The smell is decidedly objectionable.”[^15]
 
 <i>Belacan</i> is not only a key ingredient in Chinese, Malay and Eurasian dishes;[^16] newspapers reveal that entire communities were named after it or its raw ingredient, <i>grago (or gerago)</i>. The Portuguese-Eurasian fishermen of Malacca who dragged nets to catch these tiny shrimp were themselves referred to as <i>grago</i>,[^17] which otherwise was a term of contempt used to describe the impoverished segments of the Eurasian community.[^18] At the same time <i>belacan</i>-making was so strongly associated with the Malays that they themselves were often referred to as <i>belacan</i>.[^19] A popular local saying among Malays at the time was: <i>“Kalau tidak makan belacan, bukanlah orang Melayu”</i> (If you don’t eat belacan, you are not Malay).[^20] The Peranakans too favoured the use of <i>belacan</i> in their cookery due to the Malay influence in their dishes. The fact that newspaper articles of the time associate different communities with this condiment is an indication how its production and consumption cut across racial lines even in colonial times. The condiment was so much part of the social fabric that the communists who were holed up in Malayan jungles at the time even purportedly used it for the making of bombs.[^21]
-
-Belacan is used extensively in Malayan cooking and gives it its distinctive taste.
 
 **Curry Puff**
 
@@ -51,17 +61,31 @@ A scan through digitised British newspapers of the early 20th century show that 
 
 The famous Polar Cafe is believed to have created the first baked curry puff in Singapore. The recipe for the spicy chicken curry filling supposedly came from an Indian merchant while the flaky and buttery puff pastry was a British influence;[^27] the resulting Polar curry puff was a product of the ingenious marriage between colonial and colonised taste buds. Founded in the mid-1920s by Hong Konger Chan Hinky, who arrived in Singapore with little money in his pocket, the Western-style café along High Street sold baked goods and ice-cream, which soon became popular with the parliamentarians, lawyers and the rich who worked and stayed around the Supreme Court and Parliament House. 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/polar_cafe.jpg">
+The original Polar Cafe was located along High Street in the 1920s and popular with those who frequented the area. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
+
 By the 1980s, frozen versions of this baked curry puff were being mass produced for sale, and included exotic variations such as the black pepper chicken puff. These Western curry puffs were shaped and served as pies, with hot meat and potato filling encased in flaky puff pastry and eaten in a restaurant setting. Today, these trademark snacks known as “Polar puffs” come with a variety of fillings and are sold everywhere in Singapore, including petrol stations, convenience stores and supermarkets. 
 
-Founder of Polar Cafe, Chan Hinky, arrived in Singapore in the early 20th century, with little to his name. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/chan_hinky.jpg">
+Founder of Polar Cafe, Chan Hinky, arrived in Singapore in the early 20th century, with little to his name. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
 
-Established in the 1920s, the flaky polar puff can now be found island-wide in convenience stores and supermarkets. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/curry_puff.jpg">
+Established in the 1920s, the flaky polar puff can now be found island-wide in convenience stores and supermarkets. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
 
-The original Polar Cafe was located along High Street in the 1920s and popular with those who frequented the area. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i>
+
 
 Like the <i>samosa</i> in India which can be either baked or fried, there are two versions of local curry puffs – a baked version made of puff pastry and offered at Western-style cafes and a fried version encased in shortcrust pastry and sold as streetside fare, especially popular among the Muslim community. <i>Straits Times</i> writer Derek Drabble’s 1950 caricature of an Indian Muslim <i>thamby</i> (meaning “little brother” in Tamil), Adam Ghat, shows him serving curry puffs and other streetside delights such as “gluey <i>kaya</i> jam”, “<i>pisang mas</i>” (fried banana fritters) and “Bengali <i>roti</i> buns” (bread rolls) along Finlayson Green to office workers of various races, including Indian, Malay and Chinese.[^28] This Malay version of the curry puff – a deep-fried crescent-shaped dough crimped and stuffed with a spicy sardine or potato filling and served with a sweet chilli dipping sauce – is today known as <i>epok-epok</i>.
 
-Established in the 1980s, Old Chang Kee is now a household name and is best known for its curry puffs. <i>Courtesy of Old Chang Kee Ltd.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/old_chang_kee.jpg">
+Established in the 1980s, Old Chang Kee is now a household name and is best known for its curry puffs. <i>Courtesy of Old Chang Kee Ltd.</i></div>
 
 Old Chang Kee probably has redefined and popularised what is today considered a quintessential traditional Singaporean food. Transforming the Malay <i>epok-epok</i> into a popular fast-food snack,[^29] this Chinese version is chockfull of mildly curried potato and chicken mixture stuffed with one-half of a boiled egg. The pastry is a rich buttery base that is rolled out with an empty beer bottle, cut out into circles and then stuffed with the filling – a secret mix of diced chicken stewed in coconut milk, spices and curry powder. Sealed into a crescent-shape and crimped at the edges, the puff is then deep fried to a golden brown.[^30] It was Old Chang Kee’s move into modern franchising and distribution regionally in the 1990s, then worldwide soon after, that has made this buttery shortcrust pastry into the trademark Singapore curry puff as we know it today. 
 
@@ -71,11 +95,14 @@ Linda Neo’s article[^31] details how in the 1980s, Old Chang Kee’s founder, 
 
 In exploring iconic local dishes, newspaper articles help paint a multi-dimensional picture of local dishes and their consumption over time. In the case of <i>belacan</i>, these articles reveal how local flavours influenced dishes across racial boundaries, signaling the blurring of lines between communities. Similarly, the humble curry puff is truly an East meets West success story, drawing influences from both India and Britain before being adopted and then adapted by cooks in Singapore and Malaysia. Food is a canvas upon which cultures and communities are able to create new narratives, drawing together and integrating different peoples and races, and making Singapore a true (and tasty) melting pot in the process.
 
-Workers filling and sealing curry puffs to be baked and sold. <i>Image from currypuff.com, all rights reserve.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/filling_and_sealing.jpg">
+Workers filling and sealing curry puffs to be baked and sold. <i>Image from currypuff.com, all rights reserve.</i></div>
 
-**Stepping on it**
+|**Stepping on it**|
 
-In the traditional method of making <i>belacan</i>, the semi-dried and salted shrimps are placed into holes dug into the ground. Thereafter, women would trample on these dried shrimps for at least an hour in large wooden tubs – not unlike what Italian women would do to grapes in order to produce wine in the old days – before the drying process began again. English author Isabella Bird described in her 1883 book, <i>The Golden Chersonese and the Way Thither</i>, how <i>belacan</i> was made with bare feet "trampling a mass of putrefying prawns and shrimps into a paste". In the modern era, this process of mashing is done with machinery. Similarly, <i>belacan</i> is no longer pressed into <i>tampin</i>, conical containers woven out of <i>mengkuang</i> leaves (a variety of pine), like in times past and then sold in the market. Nowadays, <i>belacan</i> is pressed into thin rectangular blocks or circular discs prior to being wrapped with paper or plastic and shipped out to supermarkets.
+|In the traditional method of making <i>belacan</i>, the semi-dried and salted shrimps are placed into holes dug into the ground. Thereafter, women would trample on these dried shrimps for at least an hour in large wooden tubs – not unlike what Italian women would do to grapes in order to produce wine in the old days – before the drying process began again. English author Isabella Bird described in her 1883 book, <i>The Golden Chersonese and the Way Thither</i>, how <i>belacan</i> was made with bare feet "trampling a mass of putrefying prawns and shrimps into a paste". In the modern era, this process of mashing is done with machinery. Similarly, <i>belacan</i> is no longer pressed into <i>tampin</i>, conical containers woven out of <i>mengkuang</i> leaves (a variety of pine), like in times past and then sold in the market. Nowadays, <i>belacan</i> is pressed into thin rectangular blocks or circular discs prior to being wrapped with paper or plastic and shipped out to supermarkets.|
 
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. Her passion for Singapore food has increased with her move to Vietnam, where she currently telecommutes from.</p>
 
