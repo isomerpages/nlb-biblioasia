@@ -6,7 +6,10 @@ layout: post
 ---
 #### The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. **Janice Loo** examines the impact that women have had on the nation’s development.
 
-Women washing clothes at the kampong’s standpipe in the 1960s. Before Independence, women were mostly engaged in domestic activities. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/women/washing.jpg">
+Women washing clothes at the kampong’s standpipe in the 1960s. Before Independence, women were mostly engaged in domestic activities. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 It was 3 July 1959. Chooi Yong was working at the lathe machine when voices and footsteps along the corridor signaled their approach. She hurriedly smoothed her hair and straightened her apron just as the men entered the cabinet-making room. Incidentally, the first Cabinet of Singapore had been sworn in just a month earlier after the People’s Action Party (PAP) swept the 1959 general election. The newly minted Deputy Prime Minister Toh Chin Chye and the Minister for Education Yong Nyuk Lin were inspecting the Singapore Polytechnic, where first-year student Tan Chooi Yong was the only girl in the Engineering Department. 
 
@@ -24,7 +27,10 @@ For the majority who were economically inactive, life revolved around the home a
 
 The situation soon changed. Between 1970 and 1980, the FLFPR rose impressively from 29.5 percent to 44.3 percent.[^10] By 1990, the figure had reached 53 percent, meaning that 1 out of every 2 women was in the labour force.[^11] Singapore’s “working woman” had emerged in the span of one generation amid rapid economic development and tremendous social change. With education and employment, she had created a “quiet revolution”[^12] that challenged the gender order. 
 
-Women working in the factory of Roxy Electric Company Ltd in 1966. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/women/roxy_electric.jpg">
+Women working in the factory of Roxy Electric Company Ltd in 1966. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Women, Get *Right*  to Work!**
 
@@ -50,7 +56,10 @@ The entry of women into the workforce on such an unprecedented scale was attribu
 
 Conversely, government policies on education, housing and family planning, coupled with official encouragement of women’s employment, spurred female labour participation in both intended and inadvertent ways. Age, marital status, educational attainment, and socioeconomic background determined the extent to which women have contributed and benefitted from economic development.
 
-Workers at the factory of Tancho Corporation Limited at Little Road in 1967. Tancho was a sticky pomade that men used to style their hair. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/women/tancho_corporation.jpg">
+Workers at the factory of Tancho Corporation Limited at Little Road in 1967. Tancho was a sticky pomade that men used to style their hair. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Singapore Needs (Wo)manpower**
 
@@ -60,11 +69,17 @@ Demand for female labour consequently accelerated as industrialisation proceeded
 
 The severe labour shortage prompted the government not only to relax regulations on the employment of temporary foreign workers, but also to mobilise the economically inactive female population.[^30] In general, single women in their early twenties had the highest rate of economic activity; this decreased with advancing age as many pulled out of work after marriage and childbirth to focus on family responsibilities.[^31] Only 1 in 7 married women, as compared with 1 in 3 single women, were economically active in 1970.[^32]
 
-A female worker at Setron Limited – which manufactured television sets – at Tanglin Halt in 1966. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/women/setron_limited.jpg">
+A female worker at Setron Limited – which manufactured television sets – at Tanglin Halt in 1966. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 For a country that prizes human capital as its sole asset, the high proportion of economically inactive women represented a critically under-utilised resource. As such, housewives and young unmarried women who stayed home to help with domestic chores were identified by the state in 1971 as “the largest source for potential increase of the labour force.”[^33] Official measures taken to attract and retain women in the workforce included providing additional public childcare facilities, locating light-manufacturing industries within housing estates, and urging employers to offer part-time work arrangements.[^34]
 
-People’s Association Child Care Centre at Queen’s Street in 1985. Child care was and is a pressing concern of many working mothers. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/women/Child_care_centre.jpg">
+People’s Association Child Care Centre at Queen’s Street in 1985. Child care was and is a pressing concern of many working mothers. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 Improvements in female educational attainment have given women access to more career options.[^35] The official view on the purpose of female education is best encapsulated in the words of then Minister for Law and National Development E. W. Barker, who in July 1968 said, “In providing girls the same educational opportunities as the boys, we [the government] expect the girls to be equally capable of contributing to the economic growth of our nation.”[^36] The impact that education had on transforming the pattern of female employment is expressed by Chua Hui Neo in an interview in 1995:
 
@@ -84,7 +99,10 @@ In the meantime, the National Productivity Board, in its recommendations for inc
 
 The adoption of the two-child family norm, brought about by an intensive national family planning campaign in 1972, reduced the time and effort required for childbearing, nursing and housework, thus facilitating the employment of women.[^48] Even so, the problem of childcare has been a major obstacle to the participation of women in the labour force after marriage.[^49]
 
-A studio photograph of a family of eight taken in 1940. Families were later encouraged to have a maximum of two children. <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/women/studio_photograph.jpg">
+A studio photograph of a family of eight taken in 1940. Families were later encouraged to have a maximum of two children. <i>Courtesy of National Archives of Singapore.</i></div>
 
 By and large, working mothers relied on familial support for childcare and housework. For example, Sim Koo Kee left her two sons in the respective care of her mother and aunt while she put in a full day at work, and returned to fetch the children home each evening.[^50] Assistance from immediate family or relatives was regarded as a more reliable and affordable solution compared to hiring a domestic worker or using a childcare facility. Women were likely to sacrifice employment in the absence of childcare help, especially if it was better for a woman to be a full-time housewife than to work for low pay.[^51] Otherwise, working the night shift in the factory perhaps offered the only means of combining employment and motherhood for those who had trouble making substitute childcare arrangements.[^52] Women on the night shift would start work in the evening or late at night, after most child-minding and housework tasks were over, with intermittent rest during the day.[^53]
 
