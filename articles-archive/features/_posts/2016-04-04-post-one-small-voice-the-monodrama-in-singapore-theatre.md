@@ -190,6 +190,6 @@ This direct address, a hallmark of most monodramas, draws out the magnetic vulne
 
 [^25]:Huzir Sulaiman. (2013). Occupation. In K. Rowland. (Ed.), *[Huzir Sulaiman: Collected plays, 1998–2012](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200124538)* (p. 272). Singapore: Checkpoint Theatre. (Call no.: RSEA 822 SUL)
 
-[^26]:Tan, A. (2014). [Best of Haresh Sharma](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200688987). Singapore: The Necessary Stage. (Call no.: RSING S822 SHA)
+[^26]:Tan, A. (2014). *[Best of Haresh Sharma](https://eservice.nlb.gov.sg/itemholding.aspx?bid=200688987)*. Singapore: The Necessary Stage. (Call no.: RSING S822 SHA)
 
 [^27]:Tan, C. (2012, November 21). [Winding road to find roots](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121121-1.2.66.4). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
