@@ -81,7 +81,7 @@ In the traditional method of making <i>belacan</i>, the semi-dried and salted sh
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
 
-#### REFERENCES
+#### **REFERENCES**
 
 **Books**
 
@@ -179,4 +179,70 @@ The Australian Trove.
 
 The British Newspaper Archive.
 
-#### NOTES
+#### **NOTES**
+
+[^1]: These items have been selected because of several reasons – their pervasive reference in newspapers spanning the period studied and their localised flavours. Although there are many other dishes such as Hainanese chicken rice, laksa, mee siam etc, their articulation especially in the English newspapers of the interwar period is not extensive.
+
+[^2]: Butcher, J.G. (1979). The British in Malaya, 1880–1941: The social history of a European community in colonial South-East Asia (p. 142). Kuala Lumpur: Oxford University Press. (Call no.: RSING 301.4512105951033 BUT)
+
+[^3]: Butcher, 1979, p. 134.
+
+[^4]: This column seemed to have begun on January 10, 1935 with a half page but soon expanded to a full-page.
+
+[^5]: This continued the weekly Thursday column which was expanded into a four-page supplement first released on January 16, 1936.
+
+[^6]: Granted the main targets for the “grow more food” campaigns were local farmers, but there are articles that appeal to the Malayan to venture growing his own food such as Vegetables and “Grow More Food” campaign. (1940, February 12). The Singapore Free Press and Mercantile Advertiser, p. 5; Changkol for victory. (1940, August 10). The Singapore Free Press and Mercantile Advertiser, p. 4. Retrieved from NewspaperSG.
+
+[^7]: Broadcast talks on wartime cooking. (1941, August 15). The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+[^8]: Peet, G.L. (2011). Within Changi’s walls: A record of civilian internment in World War II (pp. 67–68). Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.53175957092 PEE)
+
+[^9]: Turnbull, C.M. (1995). Dateline Singapore: 150 years of the Straits Times (p. 102). Singapore: Times Editions for Singapore Press Holdings. (Call no.: RSING 079.5957 TUR)
+
+[^10]: The smells of Singapore. (1891, July 21). Straits Times Weekly, p. 12. Retrieved from NewspaperSG.
+
+[^11]: Malacca. (1874, August 1). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^12]: Shukor Rahman. (1973, July 9). Blachan: Where it all began. The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+[^13]: The Straits Times, 9 Jul 1973, p. 3.
+
+[^14]: Blachan toast. (1901, July 24). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^15]: Balachan. (1925, August 29). The Singapore Free Press and Mercantile Advertiser, p. 11. Retrieved from NewspaperSG.
+
+[^16]: The belachan trade. (1924, September 27). The Singapore Free Press and Mercantile Advertiser, p. 12, Retrieved from NewspaperSG.
+
+[^17]: Distressful Malacca. (1910, May 12). The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+
+[^18]: Twentieth century newspaper articles still refer to the more economically established local Eurasians as ‘grago’ though in a less contemptuous fashion.
+
+[^19]: A Kelantan Malay on Asiatics. (1950, August 3). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[^20]: Abdul Ghani Hamid. (2003, July 17). Belacan dulu, belacan hari ini. Berita Harian, p. 9. Retrieved from newspaperSG.
+
+[^21]: Boey, S. (1971, June 30). Red camp where blachan bombs were made. The Straits Times, p. 19. Retrieved from NewspaperSG.
+
+[^22]: These include searches in the British Newspaper Archive as well as the Australian Trove.
+
+[^23]: House and home. (1914, May 28). Hull Daily Mail, England. Retrieved from the Australian Trove.
+
+[^24]: Particularly The women’s page. (1917, June 8). The Land, pp. 10–11. Retrieved from The Australian Trove.
+
+[^25]: Even into the 1960s, curry puffs seemed to be the norm for Christmas delights in children’s parties. 300 children go gay. (1960, December 20). The Singapore Free Press, p. 8. Retrieved from NewspaperSG.
+
+[^26]: Page 1 Advertisements Column 1: Adelphi Hotel. (1932, January 22). The Singapore Free Press, p. 1. Retrieved from NewspaperSG.
+
+[^27]: Brazil, D. (1991). Street smart Singapore (pp. 14–15). Singapore: Times Books International. (Call no.: RSING 959.57 BRA)
+
+[^28]: Drabble, D. (1950, February 23). A Tamby takes it easy – with a curry puff. The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+[^29]: Ms Violet Oon says. (2006, April 17). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^30]: Neo, L. (1980, July 12). Curry puffs from old man Chang in Albert Street. The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+[^31]: The Straits Times, 12 Jul 1980, p. 4.
+
+[^32]: Chan, M. (1982, December 26). Stroll down Kali Pup lane. The Straits Times, p. 16. Retrieved from NewspaperSG.
+
+[^33]: Lim, R. (1997, December 7). The Ah Beng in all of us. The Straits Times, p. 2. Retrieved from NewspaperSG.
