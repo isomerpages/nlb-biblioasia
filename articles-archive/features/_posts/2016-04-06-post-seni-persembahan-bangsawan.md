@@ -20,7 +20,7 @@ Perkataan bangsawan ini telah banyak dikaitkan dengan opera Melayu kerana pada a
 
 Asal mula bangsawan sebenarnya bukanlah dari rantau ini, sebaliknya bangsawan lahir daripada pengkuburan sebuah teater bergerak dari India.[^3] Dalam tahun 1870an, Pulau Pinang telah menerima pengaruh sebuah pementasan teater bergerak bernama Wayang Parsi atau Mendu. Kumpulan ini  melakonkan cerita-cerita dengan menggunakan Bahasa Hindi dan dilakonkan oleh pelakon lelaki dan wanita yang didatangkan dari India.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/02-seni.bmp">Gambar awal pementasan bangsawan, 1900. Koleksi Mohd Amin Bin Kadarisman. <i>Ihsan Arkib Negara Singapura.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/02-seni.bmp">Gambar awal pementasan bangsawan, 1900. <i>Koleksi Mohd Amin Bin Kadarisman. Ihsan Arkib Negara Singapura.</i></div>
 
 Wayang Parsi ini kemudian diambil alih oleh tuan dari kalangan Jawi Pekan tempatan bernama Mohamed Pusi pada tahun 1884 dan diberikan nama Wayang Bangsawan. Mohamed Pusi merupakan seorang artawan di Pulau Pinang dan bertanggungjawab menubuhkan sebuah “kumpulan bangsawan secara professional yang pertama setelah beliau membeli perkakas-perkakas serta kelengkapan pementasan dari  rombongan Wayang Parsi”.[^4] Nama kumpulan bangsawan pertama ialah Pusi Indera Bangsawan of Penang yang bergiat pada tahun 1885 yang menggunakan Bahasa Melayu dan menjadi titik tolak penerapan pengaruh-pengaruh “Melayu” dalam aspek-aspek pementasan.
 
