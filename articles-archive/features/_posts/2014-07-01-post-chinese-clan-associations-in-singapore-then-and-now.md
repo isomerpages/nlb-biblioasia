@@ -6,7 +6,10 @@ layout: post
 ---
 #### Chinese clan associations in Singapore date back to the time of Stamford Raffles. **Lee Meiyu** shows us how the functions of clan associations have changed over the years according to the needs of the local Chinese community as well as changes in state policy.
 
-Chinese migrants in Singapore as depicted by E. Schlitter in 1858. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/chineseclan/Chinese_migrants.jpg">
+Chinese migrants in Singapore as depicted by E. Schlitter in 1858. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Chinese clan associations have had a long and chequered history in Singapore. The first ever clan association established on the island was said to be Cho Kah Koon (Cao Jia Guan曹家馆), started by an immigrant called Chow Ah Chey (Cao Yazhi曹亚志) in 1819. Chow was a carpenter on board the same ship as Stamford Raffles, founder of modern Singapore, when he spotted Temasek (old Singapore) for the first time. Chow volunteered to go on shore to explore the island and in reward of his bravery, Raffles granted him a piece of land upon which the first Chinese clan association was built.
 
@@ -24,9 +27,15 @@ Temples soon became key organisations providing the Chinese with much needed gui
 
 While religious associations flourished due to the Chinese community’s need for spiritual fulfillment, secret societies grew out of the colonial government’s need to control and organise the Chinese community without hampering the economic progress of Singapore. The British were more preoccupied with economic activities and turning Singapore into a successful entrepôt in the early years, leaving them with scant time and resources to develop a state governance system. The only governance systems available were the existing Kapitan China and Kangchu systems, which were adopted from the Malay rulers or earlier colonial powers in the region.
 
-Many Chinese migrants came to Singapore to seek work to support their families in China. Artist unknown, wood engraving, published in <i>The Graphic</i>, 4 November 1876. <i>Courtesy of the National Museum of Singapore, National Heritage Board. </i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/chineseclan/seek_for_work.jpg">
+Many Chinese migrants came to Singapore to seek work to support their families in China. Artist unknown, wood engraving, published in <i>The Graphic</i>, 4 November 1876. <i>Courtesy of the National Museum of Singapore, National Heritage Board. </i></div>
 
-Tattoo on a secret society member. Secret societies have existed in Singapore since the 1800s. <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/chineseclan/tattoo.jpg">
+Tattoo on a secret society member. Secret societies have existed in Singapore since the 1800s. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Both systems involved appointing an influential Chinese to oversee all issues related to the Chinese community, including maintaining law and order in the Chinese quarter. This person, known as the Kapitan or Kangchu, served as the liaison between the colonial government and the Chinese, and enjoyed privileges such as market monopoly and tax collection rights. Eventually, the Kapitan and Kangchu became a very rich and powerful group. As leaders of the Chinese community, the Kapitan and Kangchu played an active role in both the religious associations and secret societies, since these were the two most powerful Chinese organisations at the time. Many of their members might also have held memberships in both organisations.[^6]
 
@@ -36,7 +45,10 @@ Secret societies were at their peak in the late 19th century. The Chinese who ca
 
 The increasing conflict and fights between dialect groups soon drew the attention of the colonial government as great financial losses were incurred in terms of property damage and social disruption. The colonial government started clamping down on secret societies with a series of legislations starting from 1869.[^8] This included the1889 Society Ordinance which effectively outlawed secret societies by requiring all organisations to register themselves with the colonial government before they could be recognised as legal bodies.[^9]
 
-Table 1: Distribution of Chinese population by the five major dialect groups in Singapore.[^10]
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/chineseclan/table1.jpg">
+Table 1: Distribution of Chinese population by the five major dialect groups in Singapore.[^10]</div>
 
 With intervention by the colonial government, the control of secret societies over the Chinese community started to weaken.[^11] A leadership void within the Chinese community opened, which the clan associations gladly filled. In reality, clan associations had always been around, co-existing with secret societies and religious associations, but had been relegated to the periphery of the Chinese community because of their small membership base.
 
@@ -52,7 +64,10 @@ In the early 1900s, the clan associations became more directly involved with the
 
 Fund raising and mobilisation of support required organisation and by this time, there were already several established clan associations led by respected Chinese leaders, many of whom were successful businessmen in the Chinese community.[^16] These leaders were politically well connected and their wealth and networks made them the best people to organise such activities.
 
-Members of Kiung Chow Hwee Kuan helping out with registration of Singapore citizenship at the Chinese Chamber of Commerce, one of six registration centres in 1957. <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/chineseclan/member_of_Kiung_Chow_Hwee_Kuan .jpg">
+Members of Kiung Chow Hwee Kuan helping out with registration of Singapore citizenship at the Chinese Chamber of Commerce, one of six registration centres in 1957. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Decline of Clan Associations (1942-1985)**
 
@@ -62,11 +77,17 @@ After the war, the British continued their governance amid a growing sense of na
 
 In its first 10 years of Independence, the Singapore government faced an uphill task in unifying a population of migrants comprising different ethnicities and cultural backgrounds. For the Chinese community, this shift in political allegiance from China to Singapore started when the Chinese government outlawed dual citizenship in 1955, forcing many local Chinese to take up Singapore citizenship in order to stay on. As nation building efforts progressed, state policies and centralised state systems catering for welfare, education and housing were created. These policies and systems in turn replaced the functions traditionally offered by clan associations to the Chinese community during the colonial days.[^19]
 
-The 1984 seminar which re-examined the roles of Chinese clan associations in modern-day Singapore. It led to the formation of the umbrella body, Singapore Federation of Chinese Clan Associations, in 1986. <i>Courtesy of Singapore Federation of Chinese Clan Associations.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/chineseclan/1984_seminar.jpg">
+The 1984 seminar which re-examined the roles of Chinese clan associations in modern-day Singapore. It led to the formation of the umbrella body, Singapore Federation of Chinese Clan Associations, in 1986. <i>Courtesy of Singapore Federation of Chinese Clan Associations.</i></div>
 
 It became vital to join clan associations for one’s success, or even survival.
 
-Launch of the campaign to use Mandarin in 1986. The use of dialects began to decline as the population was encouraged to speak more Mandarin. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/chineseclan/campaign_to_use_Mandarin.jpg">
+Launch of the campaign to use Mandarin in 1986. The use of dialects began to decline as the population was encouraged to speak more Mandarin. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 In post-Independent Singapore, the character of the Chinese population went through a process of change. To create a common identity, the Singapore government adopted the concept of a multi-racial society. The population of Singapore was neatly divided into four ethnic categories: Chinese, Malays, Indians, and Others (CMIO). While this made it easier for the government to formulate and push out policies at the national level, it also began to erode Chinese dialect identities, which had been the fundamental basis of all clan associations.
 
@@ -78,13 +99,19 @@ Voices pushing for transformation began to surface in the 1970s. On 2 December 1
 
 The seminar concluded that regardless how the political environment might have changed, it was still important to retain one’s cultural roots. In an increasingly Westernised Singapore society, the task of preserving and promoting Chinese culture and language took on an urgent note as younger Singaporeans were becoming increasingly detached from their own heritage. From the 1980s onwards, both the government and clan associations agreed that the associations should take an active role in promoting Chinese culture to all.[^22]
 
-Table 2: Language most frequently spoken at home by resident Chinese population aged five years and over.[^23]
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/chineseclan/table2.jpg">
+Table 2: Language most frequently spoken at home by resident Chinese population aged five years and over.[^23]</div>
 
 #### **Revitalisation of Clan Associations (1986-2000s)**
 
 On 27 January 1986, the Singapore Federation of Chinese Clan Associations (SFCCA),[^24] an umbrella authority for all Chinese clan associations, was established. This bold move was to unite the various clan associations under one common purpose and direction: that of promoting Chinese culture and language to all, regardless of their dialect, ethnicity and nationality. Major cultural events (for instance River Hongbao, which celebrates Chinese New Year), exhibitions and publications related to Chinese culture and language are held or produced with support from the Singapore government.The SFCCA also publishes a magazine, <i>Yuan</i>(《源》), that serves as the publicity channel introducing members’ activities and articles about Chinese culture.[^25]
 
-Modern-day Chinese clan associations organise events and activities that promote awareness and understanding of the Chinese culture in an effort to reach out to younger Chinese and remind them of their identity. <i>Image by Hung Chung Chih.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/chineseclan/Modernday_Chinese_clan .jpg">
+Modern-day Chinese clan associations organise events and activities that promote awareness and understanding of the Chinese culture in an effort to reach out to younger Chinese and remind them of their identity. <i>Image by Hung Chung Chih.</i></div>
 
 Existing clan associations under the leadership of the SFCCA generally provide the following:
 
@@ -97,6 +124,11 @@ The efforts of the SFCCA and its members have paid off as there has been an incr
 What is interesting, however, is that in the Singapore context, this renewal process has been achieved at the expense of blurring dialect identities, while on the international level, proponents of Chinese race and culture continue to tap on their strong dialect networks to act as bridges between Singaporeans and other Chinese societies. The identity dilemma of Chinese clan associations in Singapore will, perhaps, always exist.
 
 The role of Chinese clan associations in Singapore, from the colonial years to modern times, have been strongly influenced, or even dictated at times, by the policies of the colonial and Singapore governments. The absence and presence of state policies influenced not only the growth and direction of the clan associations but also the composition and character of the Chinese community in Singapore, the main consumers of the services provided by the associations. Clan associations have been able to survive due to their ability to adapt to the changing needs of the Chinese community in Singapore as well as that of the government’s. The appearance of new associations formed by the latest wave of Chinese migrants adds another layer of diversity and complexity to Chinese organisations in Singapore. It remains to be seen how these old and new organisations will work together for the future development of the country.[^27]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/chineseclan/Fujian_Association.jpg">
+The Fujian Association at Telok Ayer Street still stands today, looking little different from when it was first built in 1913.</div>
 
 <p style="font-size:15px;"><b>Lee Meiyu</b> is a Librarian with the National Library of Singapore. She has co-written publications such as Money by Mail to China: Dreams and Struggles of Early Migrants and Roots: Tracing Family Histories – a Resource Guide.</p>
 
