@@ -1,9 +1,10 @@
 ---
-title: Old-World Amusement Parks
+title: Old-world Amusement Parks
 date: 2016-04-02
 permalink: /vol-12/issue-1/apr-jun-2016/old-world-amusement
 layout: post
 ---
+
 #### Theme parks in Singapore had their heyday from the 1920s to 50s. **Lim Tin Seng** charts their glory days and subsequent decline.
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/old-world-amusement-parks/01_amusementpark.jpg">Singapore’s first experience with the thrills and spills of an amusement park took place in 1922 when it held the Malaya-Borneo exhibition. The exhibition featured rides such as a Ferris wheel and carousel, an international trade fair, and exhibits of the flora and fauna of Malaya and Borneo. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
