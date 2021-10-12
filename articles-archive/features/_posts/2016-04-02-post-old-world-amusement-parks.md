@@ -6,7 +6,7 @@ layout: post
 ---
 #### Theme parks in Singapore had their heyday from the 1920s to 50s. **Lim Tin Seng** charts their glory days and subsequent decline.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/old-world-amusement-parks/01_amusementpark.jpg">Singapore’s first experience with the thrills and spills of an amusement park took place in 1922 when it held the Malaya-Borneo exhibition. The exhibition featured rides such as a Ferris wheel and carousel, an international trade fair, and exhibits of the flora and fauna of Malaya and Borneo. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/old-world-amusement-parks/01a_amusementpark.jpg">Singapore’s first experience with the thrills and spills of an amusement park took place in 1922 when it held the Malaya-Borneo exhibition. The exhibition featured rides such as a Ferris wheel and carousel, an international trade fair, and exhibits of the flora and fauna of Malaya and Borneo. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
 
 Built between the 1920s and 30s during the pre-television era, Singapore’s three amusement parks – New World, Great World and Gay World – provided a unique form of entertainment in colonial times. These “worlds” were permanent venues that provided an interesting East-meets-West blend of entertainment, with offerings as diverse as carnival rides, circus acts and boxing contests to Chinese opera and risqué cabaret shows.[^1]
 
