@@ -128,16 +128,16 @@ Tay, S.C. (2016, October 7). [Keeping the past alive](https://eresources.nlb.gov
 
 [The new world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320722-1.2.70). (1932, July 22). *The Malaya Tribune*, p. 11. Retrieved from NewspaperSG.
 
-Tregonning, K.G. (1967). [*Home port Singapore: A history of Straits Steamship Company Limited, 1890–1965* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=212158)(pp. 25, 56–58). Singapore: Oxford University Press for Straits Steamship Co. Ltd. (Call no.: RSING 387.5095957 TRE)
+Tregonning, K.G. (1967). [*Home port Singapore: A history of Straits Steamship Company Limited, 1890–1965* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=212158)(pp. 25, 56–58). Singapore: Oxford University Press for Straits Steamship Co. Ltd. (Call no.: RSING 387.5095957 TRE).
 
 [Trustees of millionaire’s estates sued](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350213-1.2.26). (1935, February 13). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
 
 [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19210308-1.2.18). (1921, March 8). *The Malaya Tribune*, p. 4. Retrieved from NewspaperSG.
 
-Wright, A., & Cartwright, H.A. (Eds.). (1908). [*Twentieth century impressions of British Malaya: its history, people, commerce, industries, and resources*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4125591) (pp. 633, 636). London] Lloyd’s Greater Britain Publishing Company, Limited. (Call no.: RCLOS 959.51033 TWE)
+Wright, A., & Cartwright, H.A. (Eds.). (1908). [*Twentieth century impressions of British Malaya: its history, people, commerce, industries, and resources*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4125591) (pp. 633, 636). London] Lloyd’s Greater Britain Publishing Company, Limited. (Call no.: RCLOS 959.51033 TWE).
 
 王振春. (2014, November 8). 山坡上的维基利公馆. 联合早报 [*Lianhe Zaobao*]. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 #### **NOTES**
-[^1]: Song, O.S. (1984). [One hundred years’ history of the Chinese in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287) (p. 130). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON-[HIS])
+[^1]: Song, O.S. (1984). [One hundred years’ history of the Chinese in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287) (p. 130). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON-[HIS]).
 [^2]: Lim Boon Keng (1869-1957) was a prominent member of the Straits Chinese community. Trained as a medical doctor, Lim was also a public intellectual and writer who championed Confucianism and supported Sun Yat-sen’s revolution in China. He served as a member of the Straits Settlements Legislative Council for 14 years and pushed for social reforms aimed at reforming the lives of the Chinese.
