@@ -116,7 +116,7 @@ By 1917, River House could no longer accommodate Tuan Mong’s rapidly expanding
 
 In 1918 and 1919, Ho Ho Biscuit Factory submitted alteration plans to convert River House into a godown, suggesting that the house was perhaps not originally built to be a warehouse. The alterations included covering up the internal courtyards as well as reinforcements that increased the load capacity of the building. Although Ho Ho Biscuit sold the property in 1946, for the next five decades – from the 1940s to 90s – the different owners of River House continued to use it as a warehouse.
 
-<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples8.JPG">
+<img src="/images/Vol-14-issue-3/the-house-of-ripples/x.JPG">
 <div style="background-color: white;">The first and second storey plans as well as the longitudinal section of the River House redrawn from a 1919 Ho Ho Biscuit Factory building alteration plan. The floor plans show the <i>sidianjin</i> (四点金) or “four-points of gold” layout of the River House, with its two internal courtyards and a pair of <i>huoxiang</i> (火巷) or fire alleys on either side. The longitudinal section shows the <i>tailiang</i> style (抬梁式) roof truss system used for the building. The alteration plan also proposed to cover up the two internal courtyards. <i>Drawings by Chen Jingwen.</i></div>
 
 #### **Leaving a Legacy**
@@ -129,12 +129,12 @@ The location and architecture of River House bear testimony to the importance of
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples9.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-3/the-house-of-ripples/MY.jpg" style="width: 100px; height: 100px;">
 <b>Martina Yeo Huijun</b> is a researcher with the Architectural Conservation Lab at the Singapore University of Technology and Design.
 </div>
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples10.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-3/the-house-of-ripples/YKS.jpg" style="width: 100px; height: 100px;">
 <b>Dr Yeo Kang Shua</b> is an Assistant Professor at the Singapore University of Technology and Design.
 </div>
 
