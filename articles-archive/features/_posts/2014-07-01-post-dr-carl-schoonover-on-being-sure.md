@@ -4,6 +4,11 @@ date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/dr-carl-schoonover
 layout: post
 ---
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/drcarl/sure_diagram.jpg">
+The National Information Literacy Programme promotes four simple steps – Source, Understand, Research and Evaluate – to assess information.</div>
+
 Dr Carl Schoonover, a neuroscience postdoctoral fellow at the Axel Laboratory at Columbia University, was a keynote speaker at S.U.R.E. Day held on 14 November 2013 at the National Library as part of its National Information Literacy Programme (NILP). The NILP seeks to simplify and promote information literacy, emphasising the importance of evaluation and discernment of information sources.
 
 In essence, S.U.R.E represents four simple steps to assess information: Source, Understand, Research and Evaluate. S.U.R.E encourages people to check if their sources are reliable, delve deeper into available alternative sources and materials, and evaluate the information based on their findings. 
@@ -69,11 +74,6 @@ Information relating to these kinds of decisions is encoded in the brain, essent
 Conveniently, our brain automatically filters some information out, preventing confusion and helping you to solve the more pressing problem of saving your skin. Less information is far more useful, so long as it is good information. In one way or another, many of the most successful neuroscience techniques perform an analogous filtering. They enable the researcher to zero in on very specific features in nervous tissue, cutting out most of the overwhelming mess and preventing it from distracting you from focusing on the question you seek to answer. By imparting such a selective restriction of vision, the most ingenious methods have time and time again opened up formerly unsuspected universes.
 
 The brain’s innate propensity to filter out information actually works to our advantage, cutting through the clutter of this age of information overload.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/drcarl/sure_diagram.jpg">
-The National Information Literacy Programme promotes four simple steps – Source, Understand, Research and Evaluate – to assess information.</div>
 
 <i>Currently an established neuroscience postdoctoral fellow in the Axel Laboratory at Columbia University, Dr Carl Schoonover is also the acclaimed author of</i> Portraits of the Mind: Visualizing the Brain from Antiquity to the 21st Century <i>(Abrams, November 2010), a book that chronicles the fascinating exploration of the brain through images. Watch his illuminating TED Presentation on this subject at: http://www.ted.com/talks/carl_schoonover_how_to_look_inside_the_brain.html</i>
 
