@@ -1,9 +1,10 @@
 ---
 title: Punkahs Everywhere
 date: 2014-08-01
-permalink: /vol-10/issue-2/oct-dec-2014/punkahs-everywhere
+permalink: /vol-10/issue-3/oct-dec-2014/punkahs-everywhere
 layout: post
 ---
+
 #### One of the great travel writers of the 19th century, Isabella Bird was 47 when she visited Singapore. She had just spent several months exploring Japan and was about to embark on a journey through the Malay Peninsula. In between, she made a brief stop in Singapore and wrote about it in a letter to her sister in Edinburgh.
 
 This extract is taken from <i>Traveller’s Tales of Old Singapore</i> by Michael Wise (2008), published by Marshall Cavendish. This letter was first written by Isabella Bird in 1879 and published in <i>The Golden Chersonese</i> in 1883. Reprinted with permission.
