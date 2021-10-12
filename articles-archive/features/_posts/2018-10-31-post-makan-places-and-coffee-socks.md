@@ -40,3 +40,19 @@ Here is a sampling of publications featuring hawker stalls and coffeeshops from 
 
 <b>I-S Magazine </b><br> (2008)
 <img src="/images/Vol-14-issue-3/makan-places-and-coffee-socks/CoffeeSocks5.JPG">The writers claim that it is “no secret that food factors largely in the psyche of the average Singaporean… [and] nothing comes remotely close to the colourful experience of eating in a hawker centre… from the most sinful <i>char kway teow</i>, or <i>luak</i> (fried oyster), Hokkien noodles, chicken rice and carrot cake…”.8 They stake out four popular hawker centres – People’s Park, Maxwell, Newton and Bedok Interchange – to find out what goes on in a day in the life of the average hawker.
+
+<b>Eat East: Food Guide of the Marine Parade District </b><br> (2001) 
+<img src="/images/Vol-14-issue-3/makan-places-and-coffee-socks/CoffeeSocks6.JPG">This food guide was published for residents of Marine Parade housing estate. It features some of Singapore’s best-loved multiracial <i>makan</i> places.
+
+<b>Community Bedok: Celebrating 10 Years of the Constituency  </b><br> (1987)
+<img src="/images/Vol-14-issue-3/makan-places-and-coffee-socks/CoffeeSocks7.JPG">In “Adventure for the Tastebuds: The Varied Flavours of Bedok”, writer Lau Li-choo claims that residents living in Bedok have no reason to complain of hunger. The constituency is served by many hawker centres and coffeeshops selling good food. Pictured here is Lau Soon Chye of Wah Kee Duck stall, located across the road from the former Bedok and Changi cinemas, deboning ducks for his customers. Unfortunately, the stall has since closed.
+
+<b>Singapore Hawker Centres: People, Places, Food   </b><br> (2007)
+<img src="/images/Vol-14-issue-3/makan-places-and-coffee-socks/CoffeeSocks8.JPG">Commissioned by the National Environment Agency, this coffee table book by Lily Kong looks at the changing face of hawking in Singapore, and features different types of local food. The book also includes case studies and interviews with enterprising hawkers, and is illustrated with photos.
+
+<b>旧机场路小贩中心百货商店二周年纪念特刊 (Old Airport Road Hawkers’ Centre & Emporium 2nd Anniversary Souvenir Magazine) </b><br> (1975)  
+<img src="/images/Vol-14-issue-3/makan-places-and-coffee-socks/CoffeeSocks9.JPG">The Old Airport Road Hawkers’ Centre & Emporium opened in 1973 with 192 food stalls on the first floor and 120 shops selling sundries on the second floor. It was so popular that people from all over Singapore came here to shop and eat. Kallang Airport was located nearby between 1937 and 1955, hence its name. Known as Old Airport Road Food Centre today, it still continues to draw the crowds as foodies say that some of Singapore’s best hawker fare is found here.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+	<b>WHAT IS LEGAL DEPOSIT?</b><br>
+Legal Deposit is one of the statutory functions of the National Library and is supported through the provisions of the National Library Board Act. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every physical work and one copy of every electronic work published in Singapore, for sale or public distribution, with the National Library within four weeks of its publication. The Legal Deposit function ensures that a repository of Singapore’s published heritage is preserved for future generations. For more information, please visit www.nlb.gov.sg/Deposit.</div>
