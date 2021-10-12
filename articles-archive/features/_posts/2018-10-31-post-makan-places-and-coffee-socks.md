@@ -53,6 +53,8 @@ Here is a sampling of publications featuring hawker stalls and coffeeshops from 
 |<b>旧机场路小贩中心百货商店二周年纪念特刊 (Old Airport Road Hawkers’ Centre & Emporium 2nd Anniversary Souvenir Magazine) </b><br> (1975)  
 |<img src="/images/Vol-14-issue-3/makan-places-and-coffee-socks/CoffeeSocks9.JPG">The Old Airport Road Hawkers’ Centre & Emporium opened in 1973 with 192 food stalls on the first floor and 120 shops selling sundries on the second floor. It was so popular that people from all over Singapore came here to shop and eat. Kallang Airport was located nearby between 1937 and 1955, hence its name. Known as Old Airport Road Food Centre today, it still continues to draw the crowds as foodies say that some of Singapore’s best hawker fare is found here.
 
+<br>
+
 |**WHAT'S YOUR BREW?**
 
 |Nothing rouses the senses more than the aroma of freshly roasted kopi brewed in traditional “coffee socks”, which are reusable filter bags made of muslin. To enjoy a proper Singapore-style coffee, you need to order as locals do. For example, if you just say “kopi” when placing your order, it means that you want coffee with condensed milk and sugar, and when you say “kopi c”, you’ll be given coffee with evaporated milk and sugar. If you like your coffee thick, say “kopi gao” and if you don’t want sugar, remember to say “kosong”.
