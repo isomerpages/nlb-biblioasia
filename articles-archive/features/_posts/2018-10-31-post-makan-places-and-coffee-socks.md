@@ -66,3 +66,22 @@ Here is a sampling of publications featuring hawker stalls and coffeeshops from 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
 	<b>WHAT IS LEGAL DEPOSIT?</b><br>
 Legal Deposit is one of the statutory functions of the National Library and is supported through the provisions of the National Library Board Act. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every physical work and one copy of every electronic work published in Singapore, for sale or public distribution, with the National Library within four weeks of its publication. The Legal Deposit function ensures that a repository of Singapore’s published heritage is preserved for future generations. For more information, please visit www.nlb.gov.sg/Deposit.</div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/makan-places-and-coffee-socks/CoffeeSocks10.jpg" style="width: 100px; height: 100px;">
+<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy & Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
+
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
