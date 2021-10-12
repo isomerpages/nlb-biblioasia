@@ -8,8 +8,8 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/background.jpg">
-<i>The Secret Map of Singapore 1986. All rights reserved. Mowe, Ropion, Hunt, 2014. </i>
+<img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg">
+<i>The Secret Map of Singapore</i> (left) and <i>The Secret Food Map of Singapore</i> (right) were released in 1986 and 1987 respectively. <i>The Secret Map of Singapore. All rights reserved. Mowe, Ropion, Hunt, 2014. The Secret Food Map of Singapore. All rights reserved, Ropion, Hunt, 2014. </i>.
 </div>
 
 <i>The Secret Map of Singapore</i> (1986) and its companion, <i>The Secret Food Map of Singapore</i> (1987), were created by three women whose sense of adventure led them to explore unusual corners of the island. The vividly coloured hand-drawn maps highlight little-known and often forgotten facets of Singapore's culture and flavours – long before it became fashionable for Singaporeans to reconnect with their own heritage. Unlike the staid text-based food guides produced in the 1980s,[^1] these map-centric guides provide visual impressions of places by locating them in the physical landscape, in the process giving context and lending immediacy to the everyday activities of the average Singaporean. 
@@ -65,12 +65,6 @@ Prior to this, articles about food and places of interest in the newspapers may 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg">
-<i>The Secret Map of Singapore</i> (left) and <i>The Secret Food Map of Singapore</i> (right) were released in 1986 and 1987 respectively. <i>The Secret Map of Singapore. All rights reserved. Mowe, Ropion, Hunt, 2014. The Secret Food Map of Singapore. All rights reserved, Ropion, Hunt, 2014. </i>.
-</div>
-
-<div style="background-color: white;">
-<br/>
 <img src="/images/vol-10-issue-4/thesecretmap/elderly.jpg">
 An elderly lady dictating her letter to a professional letter writer in Kreta Ayer, who set up his makeshift stall along a five-foot way, circa late 1970s. <i>From the Kouo Shang-Wei Collection 郭尚慰收集. All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007.</i>
 </div>
@@ -116,11 +110,12 @@ Shop selling rattan-weaved goods at Arab Street in the 1980s. <i>GP Reichelt Col
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/murtabak.jpg">
+<img src="/images/vol-10-issue-4/thesecretmap/murtabak_re.jpg">
 A man making murtatuk in the Kampong Glam area in 1991. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
-<i>Only</i> The Secret Map of Singapore <i>is available in the National Library collection.</i> 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+<i>Only</i> The Secret Map of Singapore <i>is available in the National Library collection.</i></div> 
 
 
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Reference Librarian at the National Library of Singapore. Her interest in the obscure things about Singapore led her to re-examine two little known maps and found herself surprised by their contents.</p>
