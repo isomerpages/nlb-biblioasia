@@ -4,7 +4,7 @@ date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/stories-of-ubin
 layout: post
 ---
-#### Apart from being an escape from the hubbub of city life, Pulau Ubin is home to a small but dwindling number of Singaporeans. **Ang Seow Leng** sheds some light on life on the island.Pulau_Ubin
+#### Apart from being an escape from the hubbub of city life, Pulau Ubin is home to a small but dwindling number of Singaporeans. **Ang Seow Leng** sheds some light on life on the island.
 
 <div style="background-color: white;">
 <br/>
