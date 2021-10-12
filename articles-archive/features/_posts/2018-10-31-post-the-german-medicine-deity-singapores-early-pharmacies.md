@@ -84,7 +84,7 @@ Foo Chee Guan retired from practising medicine in 1985, at 74 years of age.[^20]
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-3/the-german-medicine-deity/Germany5.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-3/the-german-medicine-deity/TP.jpg" style="width: 100px; height: 100px;">
 <b>Timothy Pwee</b> is a Senior Librarian with the National Library, Singapore. He is interested in Singapore’s business and natural histories, and is currently developing the library’s donor collections around these areas.
 </div>
 
