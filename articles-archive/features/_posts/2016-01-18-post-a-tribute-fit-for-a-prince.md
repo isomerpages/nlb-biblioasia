@@ -64,16 +64,16 @@ Written by: Nor-Afidah Abdul Rahman
 
 #### **NOTES**
 
-[^1]:Gibbney, H.J. (1972). Edinburgh, Duke of (1844–1900). Australian Dictionary of Biography, National Centre of Biography. Retrieved from Australian National University website.
+[^1]:Gibbney, H.J. (1972). Edinburgh, Duke of (1844–1900). *Australian Dictionary of Biography, National Centre of Biography*. Retrieved from Australian National University website.
 
-[^2]:The prince at Johore. (1869, December 11). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^2]:[The prince at Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18691211-1.2.4.3). (1869, December 11). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^3]:The decorations. (1869, December 7). Straits Times Overland Journal, p. 3. Retrieved from NewspaperSG.
+[^3]:[The decorations](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18691207-1.2.7.7). (1869, December 7). *Straits Times Overland Journal*, p. 3. Retrieved from NewspaperSG.
 
-[^4]:The Chinese Address. (1869, December 4). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^4]:[The Chinese Address](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18691204-1.2.8). (1869, December 4). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^5]:The Straits Times, 4 Dec 1869, p. 1.
+[^5]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18691204-1.2.8)*, 4 Dec 1869, p. 1.
 
-[^6]:Official reception of the Duke of Edinburgh. (1869, December 7). Straits Times Overland Journal, p. 3. Retrieved from NewspaperSG; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18691204-1.2.8)*, 4 Dec 1869, p. 1.
+[^6]:[Official reception of the Duke of Edinburgh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18691207-1.2.7.5). (1869, December 7). *Straits Times Overland Journal*, p. 3. Retrieved from NewspaperSG; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18691204-1.2.8)*, 4 Dec 1869, p. 1.
 
 [^7]:Moore, D., & Moore, J. (1969). *[The first 150 years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081611)* (p. 530). Singapore: Donald Moore Press. (Call no.: RSING 959.57 MOO)
