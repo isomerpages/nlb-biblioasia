@@ -58,7 +58,7 @@ In December 1880, an earlier loan that was taken up before Choa Moh Choon’s de
 
 #### **Teochew Influences**
 
-What we do know for certain is that the predominantly Teochew make-up of the Ghee Hok Society is reflected in the architectural style of River House. The building has a *Teochew sidianjin* (四点金) or “four-points of gold” layout, with two internal courtyards flanked by a pair of *huoxiang* (火巷) or fire alleys.
+What we do know for certain is that the predominantly Teochew make-up of the Ghee Hok Society is reflected in the architectural style of River House. The building has a Teochew *sidianjin* (四点金) or “four-points of gold” layout, with two internal courtyards flanked by a pair of *huoxiang* (火巷) or fire alleys.
 
 Traditionally, Teochew houses, especially the more elaborate mansions, contain side wings or *congcuo* (从厝) that extend beyond the fire alleys. The alleys serve as physical breaks that prevent fire, should one break out, from spreading easily from one part of the house to another. Additionally, these alleys provide privacy to extended families living in different sections of the house.
 
