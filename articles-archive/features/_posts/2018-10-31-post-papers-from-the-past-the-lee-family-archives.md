@@ -98,42 +98,42 @@ Featured here is a selection of items from the Lee Kip Lee and Lee Kip Lin Famil
 
 #### **REFERENCES**
 
-Chua, A.L. (2012, March). Nation, race and language: Discussing transnational identity in colonial Singapore, circa 1930. Modern Asian Studies, 46(2), 282–302. Retrieved from JSTOR via NLB’s eResources website.
+Chua, A.L. (2012, March). Nation, race and language: Discussing transnational identity in colonial Singapore, circa 1930. *Modern Asian Studies*, 46(2), 282–302. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-Curriculum Development Institute of Singapore. Lower Secondary History Project Team. (1985). Social and economic history of modern Singapore. Volume 2 (pp. 49–62). Singapore: Longman Singapore [for] Curriculum Development Institute of Singapore. (Call no.: RSING 959.57 SOC)
+Curriculum Development Institute of Singapore. Lower Secondary History Project Team. (1985). [*Social and economic history of modern Singapore. Volume 2*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140696) (pp. 49–62). Singapore: Longman Singapore [for] Curriculum Development Institute of Singapore. (Call no.: RSING 959.57 SOC)
 
-Death. (1955, May 3). Singapore Standard, p. 13. Retrieved from NewspaperSG.
+[Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19550503-1.2.191). (1955, May 3). *Singapore Standard*, p. 13. Retrieved from NewspaperSG.
 
-Death of Mr. Lee Choon Guan. (1924, August 28). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[Death of Mr. Lee Choon Guan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240828-1.2.61). (1924, August 28). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-Dinner to the governor. (1920, March 19). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
+[Dinner to the governor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19200319-1.2.29). (1920, March 19). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
 
-Dossett, J.W. (1918). Who’s who in Malaya, 1918 (p. 76). Singapore: Printed for Dossett & Co. by Methodist Pub. House. (Microfilm no.: NL5829)
+Dossett, J.W. (1918). *Who’s who in Malaya, 1918* (p. 76). Singapore: Printed for Dossett & Co. by Methodist Pub. House. (Microfilm no.: NL5829)
 
-Lee, K.L. (1999). Amber sands: A boyhood memoir. Singapore: Federal Publications. (Call no.: RSING 920.71 LEE)
+Lee, K.L. (1999). [*Amber sands: A boyhood memoir*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7481472). Singapore: Federal Publications. (Call no.: RSING 920.71 LEE)
 
-Lim, M. (1998, October–December). Lee Kip Lee – 76 golden years. The Peranakan, pp. 4–5. Retrieved from The Peranakan Association website.
+Lim, M. (1998, October–December). Lee Kip Lee – 76 golden years. *The Peranakan*, pp. 4–5. Retrieved from The Peranakan Association website.
 
-Mons. Clemenceau. (1920, October 21). The Singapore Free Press, p. 6. Retrieved from NewspaperSG.
+[Mons. Clemenceau](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19201021-1.2.15). (1920, October 21). *The Singapore Free Press*, p. 6. Retrieved from NewspaperSG.
 
-National Heritage Board. (n.d.). Tiong Bahru Community Centre. Tiong Bahru Heritage Trail, pp. 29–35. Retrieved from Roots website.
+National Heritage Board. (n.d.). *Tiong Bahru Community Centre*. *Tiong Bahru Heritage Trail*, pp. 29–35. Retrieved from Roots website.
 
-New man at the helm: Lee Kip Lee elected as new president. (1996, June). The Peranakan, pp. 1–2. Retrieved from The Peranakan Association website.
+New man at the helm: Lee Kip Lee elected as new president. (1996, June). *The Peranakan*, pp. 1–2. Retrieved from The Peranakan Association website.
 
-Old Singapore resident dies. (1958, April 15). Singapore Standard, p. 4. Retrieved from NewspaperSG.
+[Old Singapore resident dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19580415-1.2.39). (1958, April 15). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
 
-Song, O.S. (1984). One hundred years’ history of the Chinese in Singapore (pp. 110–111, 130, 220–221, 542). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
+Song, O.S. (1984). [*One hundred years’ history of the Chinese in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287) (pp. 110–111, 130, 220–221, 542). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
 
-Tay, S.C. (2016, October 7). Keeping the past alive. The Business Times, p. 28. Retrieved from NewspaperSG
+Tay, S.C. (2016, October 7). [Keeping the past alive](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20161007-1.2.41.1.1). *The Business Times*, p. 28. Retrieved from NewspaperSG
 
-The new world. (1932, July 22). The Malaya Tribune, p. 11. Retrieved from NewspaperSG.
+[The new world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320722-1.2.70). (1932, July 22). *The Malaya Tribune*, p. 11. Retrieved from NewspaperSG.
 
-Tregonning, K.G. (1967). Home port Singapore: A history of Straits Steamship Company Limited, 1890–1965 (pp. 25, 56–58). Singapore: Oxford University Press for Straits Steamship Co. Ltd. (Call no.: RSING 387.5095957 TRE)
+Tregonning, K.G. (1967). [*Home port Singapore: A history of Straits Steamship Company Limited, 1890–1965* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=212158)(pp. 25, 56–58). Singapore: Oxford University Press for Straits Steamship Co. Ltd. (Call no.: RSING 387.5095957 TRE)
 
-Trustees of millionaire’s estates sued. (1935, February 13). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+[Trustees of millionaire’s estates sued](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350213-1.2.26). (1935, February 13). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
 
-Untitled. (1921, March 8). The Malaya Tribune, p. 4. Retrieved from NewspaperSG.
+[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19210308-1.2.18). (1921, March 8). *The Malaya Tribune*, p. 4. Retrieved from NewspaperSG.
 
-Wright, A., & Cartwright, H.A. (Eds.). (1908). Twentieth century impressions of British Malaya: its history, people, commerce, industries, and resources (pp. 633, 636). London] Lloyd’s Greater Britain Publishing Company, Limited. (Call no.: RCLOS 959.51033 TWE)
+Wright, A., & Cartwright, H.A. (Eds.). (1908). [*Twentieth century impressions of British Malaya: its history, people, commerce, industries, and resources*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4125591) (pp. 633, 636). London] Lloyd’s Greater Britain Publishing Company, Limited. (Call no.: RCLOS 959.51033 TWE)
 
-王振春. (2014, November 8). 山坡上的维基利公馆. 联合早报 [Lianhe Zaobao]. Retrieved from Factiva via NLB’s eResources website.
+王振春. (2014, November 8). 山坡上的维基利公馆. 联合早报 [*Lianhe Zaobao*]. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
