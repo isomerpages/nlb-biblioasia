@@ -14,6 +14,8 @@ Bangsawan *is a form of traditional Malay opera or theatre that usually involves
 
 <p align="right">– Rahmah Bujang, 1989</p>
 
+<br>
+
 Menurut Haji Hamid Ahmad,[^2] bangsawan berasal daripada dua kekata iaitu “bangsa” dan “wan”. Perkataan “bangsa” itu diberikan kepada orang yang berbangsa dan perkataan “wan” pula diberikan kepada golongan yang berketurunan “Wan” atau “Syed” atau berdarah raja. Jadi bangsawan asalnya dipentaskan untuk istana. Namun ia dapat dinikmati sebagai hiburan rakyat selepas zaman raja-raja.
 
 Perkataan bangsawan ini telah banyak dikaitkan dengan opera Melayu kerana pada awal mula persembahan seni bangsawan ini, sering dipaparkan kisah raja-raja dan orang-orang bangsawan. Cerita-cerita pementasan bangsawan ketika itu seringkali memetik cerita-cerita daripada India, Arab, Barat, China, Jawa dan juga cerita-cerita daripada Sejarah Melayu.
