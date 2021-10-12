@@ -26,10 +26,6 @@ River House occupied eight parcels of land, five of which form the grounds of th
 
 An 1863 photograph taken by Sachtler & Co. and another dating from the mid-1860s show the land being occupied by a two-storey masonry building and several smaller single-storey houses. Surrounding the structures were swampy grounds with houses on stilts clearly visible on the opposite river bank.
 
-<img style="width: 700px; height: 430px;" src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples3.JPG">
-<div style="background-color: white;">
-Aerial view of Boat Quay and Clarke Quay before the area was rejuvenated. River House is circled in white. <i>G.P. Reichelt Collection, courtesy of National Archives of Singapore.</i></div>
-
 The two-storey building in these photographs cannot be River House as it is stylistically different in form and much smaller than the building we see today. In fact, River House had not yet been built in the 1860s. It was only in July 1870 that the five land leases of the main house were consolidated under a single ownership comprising three individuals. This possibly marks the earliest date of construction. Given that the earliest building plans of private buildings held by the National Archives of Singapore date from 1884 and that no original building plan of River House has ever been found, it is possible to surmise that the house was likely built sometime between 1870s and 1883.
 
 What’s more, there is no indication from archival records that River House was ever owned or leased by Tan Yeok Nee. The three owners in 1870 – Choa Moh Choon (蔡茂春), Lee Ah Hoey (李亚会) and Neo Ah Loy – had interesting backgrounds and were likely unrelated to each other as they had different family names.[^1] The probable identities of two of these owners, however, provide a clue as to what the house could have been used for.
@@ -53,6 +49,10 @@ The Ghee Hok Society was predominantly made up of Teochews. It is believed to ha
 In the decades leading up to the 1880s, the membership of the Ghee Hok Society grew from 800 in 1860 to 14,487 in 1889, the year before it was dissolved. Society members included those involved in illicit businesses as well as ordinary folks such as small-time hawkers and peddlers. Before 1886, the society’s registered address was 25-4 Carpenter Street, during which time it frequently clashed openly with rival societies in the area – such as the Say Tan (姓陈), Say Lim (姓林) and Hai San (海山).
 
 On official records at least, there is no reference to River House serving as the Ghee Hok Society’s headquarters before 1886. From 1886 until its dissolution in 1890, the society was located at 3 River Valley Road, which was very near the junction of River Valley Road and Hill Street. It is possible that the leaders of the society were searching for a new site near Clarke Quay, presumably for easier access to the port facilities of the Singapore River. Both the official old and new headquarters – first at Carpenter Street and then at River Valley Road – were very small units and seemed rather unbefitting for such a large society. If this was the case, River House could have served as the unofficial headquarters of the Ghee Hok Society.
+
+<img style="width: 700px; height: 430px;" src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples3.JPG">
+<div style="background-color: white;">
+Aerial view of Boat Quay and Clarke Quay before the area was rejuvenated. River House is circled in white. <i>G.P. Reichelt Collection, courtesy of National Archives of Singapore.</i></div>
 
 In December 1880, an earlier loan that was taken up before Choa Moh Choon’s death, and which used the house as collateral, was repaid in full. The house was then transferred to Lee Ah Hoey, Teng Seng Chiang (郑成章) and Koh Hak Yeang (许学贤) at the behest of the two remaining original owners, Lee Ah Hoey and Neo Ah Loy. It is likely that the legal owners of the house might have held the property unofficially in trust for the Ghee Hok society. As we shall see later, this was indeed the case for a subsequent group of owners of River House.
 
