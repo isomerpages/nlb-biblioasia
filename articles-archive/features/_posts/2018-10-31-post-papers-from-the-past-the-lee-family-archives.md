@@ -48,5 +48,92 @@ Although Singapore did not produce tin or oil, and its rubber yield was negligib
 
 By the 1920s, oil had overtaken tin to become Singapore’s second most important export. Seizing the opportunity, Lee Chim Tuan and his brother Lee Chim Huk became involved in the oil industry from the very start. Singapore’s oil sector took root in 1891 when Shell (which started out as M. Samuel and Company) began using Pulau Bukom as a storage centre for kerosene. Seeing an opportunity, the two men, along with another brother Lee Chim Teck, established Lee Chim Teck & Co., which provided stevedoring and material handling services to Shell.
 
-<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers.JPG">
-<div style="background-color: white;">Mr and Mrs Lee Choon Guan (she is dressed in a <i>qun-ao</i> [裙袄] and standing next to her husband in a Western-style suit) in a photograph taken in the 1920s. Lee Chim Tuan, who was the trusted aide of Lee Choon Guan (his father’s cousin and a director of the Straits Steamship Company) is standing at the extreme left wearing a hat. <i>Courtesy of Peter Lee.</i></div>
+When Lee Chim Teck passed away in 1927, the company was renamed Lee Chim Tuan, or more popularly LCT, and continued its long relationship with Shell over the next few decades. So valued was the relationship that when Lee Chim Tuan passed away in 1955, the flag at the Shell’s signal station on Pulau Bukom was lowered to half-mast as a mark of respect.
+
+Lee Kip Lee joined LCT after the war and later managed it with his sister-in-law Lee Li-ming (who was married to his brother Lee Kip Lin) until his retirement in 1988, when the company wound up its business. LCT’s business correspondences, meeting minutes and other records capture a rarely explored slice of the history of the oil industry in Singapore, including the management of the labour force that supported the industry. At the same time, these papers document the history and development of Pulau Bukom into the key oil and petrochemicals facility it has become today.
+
+The collection also contains significant documents pertaining to the shipping trade and the banking industry in Singapore during the early half of the 20th century. Notable items include a folder containing letters and business papers relating to Straits Steamship Company’s acquisition of Eastern Shipping Company in 1922, providing an insider’s look into the negotiations and discussions between the two companies. The Straits Steamship Company had been founded some three decades earlier in 1890 by Dutchman Theodore Cornelius Bogaardt and several local Chinese businessmen, including Lee Cheng Yan (father of Lee Choon Guan), Tan Jiak Kim and Tan Keong Saik.
+
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers4.JPG">
+<div style="background-color: white;">One of many letters regarding the acquisition of Eastern Shipping Company by the Straits Steamship Company in 1922. In this letter dated 9 August 1922 from the Straits Steamship Company to Lee Chim Tuan (who was helping to negotiate the purchase), the company agrees to increase its offer price for Eastern Shipping Company to $1.3 million. The sale eventually went through.</i></div>
+
+In the early years, Straits Steamship focused its operations on the western coast of the Malay Peninsula and mainly transported tin ore. Following in his father’s footsteps, Lee Choon Guan became a director in the Straits Steamship Company. One of the company’s most successful achievements under his stewardship was the acquisition of the Penang-based Eastern Shipping Company in 1922.
+
+The Eastern Shipping Company was initially controlled by the Khaw family in Penang who was well connected with the Siamese royal court. The company provided shipping services to tin-rich areas in Burma, Siam and Malaya, and by 1922 had amassed a fleet of 40 vessels. The fleet, however, was in poor shape as there was not enough money to maintain it. Sensing a business opportunity, Lee Choon Guan tasked Lee Chim Tuan to negotiate the takeover of Eastern Shipping Company. The younger Lee eventually acquired the company for $1.3 million. For his efforts, he was paid a commission of 7.5 percent of the sale price.
+
+The collection is important for the valuable insights it provides into the Straits Chinese business community, and the clues that point to its business connections and personal ties. The collection not only contains the papers of the Lee family, but also those of individuals from the family’s extended circle of relatives, friends and associates. These include prominent Straits Chinese such as Tan Cheng Lock, who was also the brother-in-law of Lee Chim Huk. Tan later became the founder and president of the Malayan Chinese Association, and played a critical role in the economic, social and political history of Singapore and Malaya in the years leading to and after World War II.
+
+The collection also includes documents pertaining to other important Chinese business leaders in Singapore and Malaya, such as Lim Peng Siang, Chan Kang Swi and Chee Bong Quee, as well as the Lee family’s correspondences with British officials and merchants and even members of the Malay royalty.
+
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers5.JPG">
+<div style="background-color: white;">The original Ocean Building erected in 1866 at the corner of Collyer Quay and Raffles Quay was demolished to make way for this second Ocean Building that was completed in 1923. The StraitsnSteamship Company was located in this building, 1920s. <i>Courtesy of National Archives of Singapore.</i></div>
+
+Apart from business documents, the collection also offers a rich resource of primary research materials on other aspects of Singapore’s history – such as the correspondences and records of the Lee family during World War II documenting the conditions, deprivation and strategies for survival during this period.
+
+Featured here is a selection of items from the Lee Kip Lee and Lee Kip Lin Family Archives.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<b>Letters pertaining to the formation of the Oversea-Chinese Banking Corporation, 1932</b>
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers6.JPG">A set of letters pertaining to a critical period in the history of banking in Singapore, namely the amalgamation of three Hokkien banks – Chinese Commercial Bank (1912), Ho Hong Bank (1917) and Oversea-Chinese Bank (1919) – into the Oversea-Chinese Banking Corporation in 1932. One of the letters, dated 5 September 1932, is from Lee Chim Tuan to the company secretary of the Chinese Commercial Bank (in which Lee held shares) to cast his vote for the merger of the three banks.
+<br><br>
+<b>Letter from W.M. Sime to Lee Chim Tuan, 15 February 1923</b>
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers7.JPG">W.M. Sime was co-founder of Sime Darby & Co., a rubber and tin mine agent and merchant established in Malacca in 1910, while Lee Chim Tuan was a director of the company. This letter was written shortly before the businessman Eu Tong Sen – of the Eu Yan Sang chain of medicinal shops – invested in Sime Darby. In this letter, Sime asks Lee to invite Eu to join the company’s board of directors. Sime enclosed with the letter a report on the company’s financial statements, from the year it began operations in 1910 to 1921, to prove to Eu that the company had sound financial standing and to assure Eu that his investment would be “in very safe hands”.
+<br><br>
+<b>Agreement between Asiatic Petroleum Company (Straits Settlements) Limited and Lee Chim Tuan, 12 July 1927</b>
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers8.JPG">This is a contract signed between Lee Chim Tuan and Asiatic Petroleum Company (APC), later renamed Shell, in which APC agrees to hire Lee to provide labour for its installations at Pulau Bukom and Pulau Samboe (in Indonesia). According to the contract, Lee was to supply and maintain at these islands a sufficient supply of labour to meet APC’s requirements, including “experienced mandores and winchmen” as well as “coal coolies” to supply coal to steamers. In return, APC would pay Lee for the labour at agreed rates. The contract also required Lee to hire a manager who would devote his “full time and attention” to the job, and it was agreed that his brother Lee Chim Huk would be ideal for the role.
+<br><br>
+<b>Letter from Lee Chim Tuan to Run Run Shaw, 14 April 1943</b>
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers9.JPG">A letter from Lee Chim Tuan to Run Run Shaw – who later established Shaw Brothers Studio – written during the Japanese Occupation. The letter seeks Shaw’s assistance in finding work for a Ibrahim bin Mohammad Sharif. Ibrahim was made jobless because his European employer J.S. David had been interned by the Japanese.
+<br><br>
+<b>Letter from the secretary of the Singapore Chinese Weekly Entertainment Club to Lee Chim Tuan, 24 August 1946</b>
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers10.JPG">This is an invitation to Lee Chim Tuan to attend a dinner hosted by “Tiger Balm King” Aw Boon How at the Singapore Chinese Weekly Entertainment Club (中华维基利俱乐部) on Club Street. The club was a private “millionaires΄ club” for the Straits Chinese community and has a history going back to 1891. Lee Choon Guan was a founding member of the club and served as the club’s president for a number of years.</div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers11.jpg" style="width: 100px; height: 100px;">
+<b>Ong Eng Chuan</b> is a Senior Librarian with the National Library, Singapore. His responsibilities include managing the library’s Rare Materials Collection as well as the provision of reference and research services.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Chua, A.L. (2012, March). Nation, race and language: Discussing transnational identity in colonial Singapore, circa 1930. Modern Asian Studies, 46(2), 282–302. Retrieved from JSTOR via NLB’s eResources website.
+
+Curriculum Development Institute of Singapore. Lower Secondary History Project Team. (1985). Social and economic history of modern Singapore. Volume 2 (pp. 49–62). Singapore: Longman Singapore [for] Curriculum Development Institute of Singapore. (Call no.: RSING 959.57 SOC)
+
+Death. (1955, May 3). Singapore Standard, p. 13. Retrieved from NewspaperSG.
+
+Death of Mr. Lee Choon Guan. (1924, August 28). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+Dinner to the governor. (1920, March 19). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
+
+Dossett, J.W. (1918). Who’s who in Malaya, 1918 (p. 76). Singapore: Printed for Dossett & Co. by Methodist Pub. House. (Microfilm no.: NL5829)
+
+Lee, K.L. (1999). Amber sands: A boyhood memoir. Singapore: Federal Publications. (Call no.: RSING 920.71 LEE)
+
+Lim, M. (1998, October–December). Lee Kip Lee – 76 golden years. The Peranakan, pp. 4–5. Retrieved from The Peranakan Association website.
+
+Mons. Clemenceau. (1920, October 21). The Singapore Free Press, p. 6. Retrieved from NewspaperSG.
+
+National Heritage Board. (n.d.). Tiong Bahru Community Centre. Tiong Bahru Heritage Trail, pp. 29–35. Retrieved from Roots website.
+
+New man at the helm: Lee Kip Lee elected as new president. (1996, June). The Peranakan, pp. 1–2. Retrieved from The Peranakan Association website.
+
+Old Singapore resident dies. (1958, April 15). Singapore Standard, p. 4. Retrieved from NewspaperSG.
+
+Song, O.S. (1984). One hundred years’ history of the Chinese in Singapore (pp. 110–111, 130, 220–221, 542). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
+
+Tay, S.C. (2016, October 7). Keeping the past alive. The Business Times, p. 28. Retrieved from NewspaperSG
+
+The new world. (1932, July 22). The Malaya Tribune, p. 11. Retrieved from NewspaperSG.
+
+Tregonning, K.G. (1967). Home port Singapore: A history of Straits Steamship Company Limited, 1890–1965 (pp. 25, 56–58). Singapore: Oxford University Press for Straits Steamship Co. Ltd. (Call no.: RSING 387.5095957 TRE)
+
+Trustees of millionaire’s estates sued. (1935, February 13). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+
+Untitled. (1921, March 8). The Malaya Tribune, p. 4. Retrieved from NewspaperSG.
+
+Wright, A., & Cartwright, H.A. (Eds.). (1908). Twentieth century impressions of British Malaya: its history, people, commerce, industries, and resources (pp. 633, 636). London] Lloyd’s Greater Britain Publishing Company, Limited. (Call no.: RCLOS 959.51033 TWE)
+
+王振春. (2014, November 8). 山坡上的维基利公馆. 联合早报 [Lianhe Zaobao]. Retrieved from Factiva via NLB’s eResources website.
