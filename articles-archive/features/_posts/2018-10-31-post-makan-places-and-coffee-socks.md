@@ -77,11 +77,13 @@ Legal Deposit is one of the statutory functions of the National Library and is s
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
+[^1]:Michelin Guide. (2018). *Michelin Guide experiences: Restaurants, lifestyle in Singapore*. Retrieved from Michelin Guide website.
+[^2]:Kong, L. (2007). [*Singapore hawker centres: People, places, food*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12874730) (p. 31). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON).
+[^3]:Pang, J. (2013). [*Not for sale: Singapore’s remaining heritage street food vendors*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200137594) (Foreword). Singapore: GoodFood Syndicate LLP. (Call no.: RSING 647.9509225957 PAN).
+[^4]:[Kong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12874730), 2007, p. 15.
+[^5]:Tay, L. (2013, November 26). *Heap Seng Leong coffeeshop: And time stood still*. Retrieved from ieatishootipost.sg website.
+[^6]:[Pang](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200137594), 2013, p. 12.
+[^7]:Phoon, A., & Cheah, U-H. (2010). [*The Business Times & Knight Frank CEOs’ hawker guide*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14339235). Singapore: Business Times. (Call no.: RSING 647.95095957 BUS)
+[^8]:Wan, B., & Yong, Y.S. (2008, January 18). The great hawker crackdown. [*I-S magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7504240) (pp. 8, 10, 12). Singapore: Asia City Pub. (Call no.: RSING 052 ISM)
+
+
