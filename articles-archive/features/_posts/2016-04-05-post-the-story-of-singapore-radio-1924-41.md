@@ -113,7 +113,7 @@ Radio broadcasting in Singapore has come a long way – from its shaky start in 
 
 [^1]:Keller, F. (1931, September). Work of the pioneers in Malaya. *Omba Pende*, p. 2.
 
-[^2]:‘Bancam. (1931, August). Work of the pioneers in Malaya. I – History of the A.W.S.M. *Omba Pende*, pp. 16–17; McDaniel, D.O. (1994). [Broadcasting in the Malay world: Radio, television, and video in Brunei, Indonesia, Malaysia, and Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6904277) (p. 24). Norwood, N.J: Ablex Publishing. (Call no.: RSING 302.2340959 MAC)
+[^2]:‘Bancam. (1931, August). Work of the pioneers in Malaya. I – History of the A.W.S.M. *Omba Pende*, pp. 16–17; McDaniel, D.O. (1994). *[Broadcasting in the Malay world: Radio, television, and video in Brunei, Indonesia, Malaysia, and Singapore](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=6904277)* (p. 24). Norwood, N.J: Ablex Publishing. (Call no.: RSING 302.2340959 MAC)
 
 [^3]:*Omba Pende*, Aug 1931, pp. 16–17.
 
