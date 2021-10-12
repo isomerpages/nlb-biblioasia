@@ -74,6 +74,11 @@ Painting of Pulau Ubin by John Turnbull Thomson. <i>“Grooved stones on Pulo Ub
 <img src="/images/vol-10-issue-2/ubin/rock_facade.jpg">
 Rock facade similar to that in the 1850 painting by John Turnbull Thomson photographed by Dr Chua Ee Kiam. <i>Courtesy of Dr Chua Ee Kiam.</i></div>
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/ubin/ong_kim_seng_painting.jpg">
+Painting of prawn ponds on Ubin by Cultural Medallion winner Ong Kim Seng. Ong spent eight months painting on the island and his paintings were showcased in 2001 at “Charms of Ubin”, an exhibition held at the People’s Association headquarters, organised by the Outward Bound School to raise funds to develop an adventure park for children. Ong’s time on Ubin reminded him of his <i>kampong</i> days. <i>Courtesy of Ong Kim Seng.</i></div>
+
 |**Ubin’s Flora and Fauna**|
 
 |In his book, <i>Pulau Ubin: Ours to Treasure</i> (2000), wildlife enthusiast Dr Chua Ee Kiam wrote about the natural areas in Pulau Ubin that were “a little wild, relatively undisturbed and support a large variety of indigenous flora and fauna”.[^27] He recorded a total of 179 species of birds, 382 species of vascular plants and 19 animal species on the island despite the fact that Ubin’s original rainforest was destroyed during the1950s and early 1960s when entire hills were blasted for the extraction of granite.[^28] Ubin is still home to a relatively large number of rare animals, birds and plants. A National Parks Board (NParks) website on Ubin provides detailed records on the flora and fauna of the island.[^29] As of January 2014, the island is home to 603 species of plants, 207 species of birds, 153 species of butterflies and 39 species of reptiles.[^30]|
