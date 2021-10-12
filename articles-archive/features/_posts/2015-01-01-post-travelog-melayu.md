@@ -11,7 +11,7 @@ Travelogues, particularly those from yesteryear, serve as important reference do
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-4/travelogmelayu/books.jpg">
-(Clockwise from top left) Melawat Negara Tetangga, Meninau Ka-Negara Sham, Melawat KB-Paris, Chatetan Ka-Tanah Suchi </i>and <i>Kunjongan Ka-Indonesia 1954</i> were all written by Harun Aminurrashid. 
+(Clockwise from top left) <i>Melawat Negara Tetangga, Meninau Ka-Negara Sham, Melawat KB-Paris, Chatetan Ka-Tanah Suchi </i>and <i>Kunjongan Ka-Indonesia 1954</i> were all written by Harun Aminurrashid. 
 </div>
 
 <i>"Bahwa ini peringatan sahaya berlayar dari negeri Singapura dalam kapal Syeikh ‘Abdul Karim yang bernama Subla’s-salam, yaitu kepada tarikh sanat 1270 tahun, kepada 29 hari bulan Jamadilawal, yaitu kepada tarikh Masehi 1854, yaitu setuju kepada sehari bulan Cina tahun baharu. </i>
@@ -96,7 +96,7 @@ Timur Tengah merupakan sebuah lagi benua yang sering dilawati dan kemudiannya me
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-4/travelogmelayu/sastera.jpg">
-<i>Kembara Sastera</i>, written by Nisah Haron, was published in 2012 by Institut Terjemahan &amp; Buku Malaysia Berhad. Kepustakaan Populer Gramedia published <i>Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 3, Hikayat Abdullah by Amin Sweeney in 2008.</i> 
+<i>Kembara Sastera</i>, written by Nisah Haron, was published in 2012 by Institut Terjemahan &amp; Buku Malaysia Berhad. Kepustakaan Populer Gramedia published <i>Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 3, Hikayat Abdullah</i> by Amin Sweeney in 2008. 
 </div>
 
 <div style="background-color: white;">
@@ -144,7 +144,7 @@ Harun Aminurrashid. (1965). *[Mengembara ka-Andalusia](https://eservice.nlb.gov.
 
 Harun Aminurrashid. (1965). *[Melawat negara tetangga](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12929667)*. Singapura: Pustaka Melayu. (Call no.: Malay RCLOS 915 HAR)
 
-Khalid Hitam bin Raja Hasan. (2002). *[Bahwa inilah Syair perjalanan Sultan Lingga dan yang Dipertuan Muda Riau pergi ke Singapura dan peri keindahan istana Sultan Johor yang amat elok](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11927551)*, Pekanbaru, Riau: Proyek Pembinaan Bahasa dan Sastra Daerah Riau, Dinas Kebudayaan, Kesenian dan Pariwisata. (Call no.: Malay R 899.281 KHA)
+Khalid Hitam bin Raja Hasan. (2002). *[Bahwa inilah Syair perjalanan Sultan Lingga dan yang Dipertuan Muda Riau pergi ke Singapura dan peri keindahan istana Sultan Johor yang amat elok](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11927551)*. Pekanbaru, Riau: Proyek Pembinaan Bahasa dan Sastra Daerah Riau, Dinas Kebudayaan, Kesenian dan Pariwisata. (Call no.: Malay R 899.281 KHA)
 
 Lucchesi, F. (1996, January). Geographic memories in travelogue literature: The Australian landscape in the writing of Italian travellers. *GeoJournal*, 38 (1), 129–136. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
