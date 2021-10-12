@@ -10,7 +10,7 @@ In essence, S.U.R.E represents four simple steps to assess information: Source, 
 
 In this exclusive interview, Dr Schoonover shares how the brain processes information and the importance of Information Literacy and the S.U.R.E. ways in the corroboration of information and data.
 
-#### **You have a background in philosophy and then decided to pursue a PhD in neuroscience. That seems like a remarkable shift where you moved from a general and abstract study of the mind and knowledge to a very specific, scientific study of the nervous system. Why or what inspired you to pursue a doctorate in neuroscience?**
+**You have a background in philosophy and then decided to pursue a PhD in neuroscience. That seems like a remarkable shift where you moved from a general and abstract study of the mind and knowledge to a very specific, scientific study of the nervous system. Why or what inspired you to pursue a doctorate in neuroscience?**
 
 Philosophy, of course, is interested in many other things than just the mind, but that was perhaps the most interesting thing to me as an undergraduate in college. I felt eventually, as I got to know the field a little bit better, that we were asking a lot of questions in philosophy that needed answers from science. And I grew increasingly dissatisfied with the inadequacy that philosophy, as a study, presented. 
 
@@ -20,7 +20,7 @@ Now, that is not to say that philosophy does not have anything to offer about ho
 
 But for me personally, it felt more exciting, at this moment, at the beginning of the 21st century, to jump into what is ultimately a very young field, which is neuroscience, something that has only been around for a century – which in science, is nothing.
 
-#### **Information literacy is defined as the ability to know when there is a need for information and the ability to access, evaluate, use and create information in an effective and responsible manner. How do you see the process and application of information literacy as relevant to how the brain processes information?**
+**Information literacy is defined as the ability to know when there is a need for information and the ability to access, evaluate, use and create information in an effective and responsible manner. How do you see the process and application of information literacy as relevant to how the brain processes information?**
 
 The brain’s function, basically, everything that it does, is to process information. The brain is an extraordinarily complex structure where information overload is really the starting point. As neuroscientists, we are beginning to have a grasp on what exactly is going on when information is processed by our nervous system in everyday life.
 
@@ -32,7 +32,7 @@ And so the brain really, is designed – from the standpoint of evolution – to
 
 The process and application of information literacy is contiguous to what the brain does to help us evaluate and mediate information as best it can. The world is so uncertain, and there’s so much information coming in, some of it good and some of it bad, it has to solve this problem for us all the time. 
 
-#### **NLB’s S.U.R.E. campaign is about bringing information literacy awareness to the man in the street, where we condense the information-searching process into four steps – Source, understand, Research and Evaluate. How would you explain the information searching behaviour and processes to the man in the street?**
+**NLB’s S.U.R.E. campaign is about bringing information literacy awareness to the man in the street, where we condense the information-searching process into four steps – Source, understand, Research and Evaluate. How would you explain the information searching behaviour and processes to the man in the street?**
 
 First of all, I think this campaign is very important and it is very exciting that it is happening because these are critical skills, especially today, where there is so much information coming from so many places: traditional media, the Internet and exploring the streets. It is very difficult to extract what is important, what is meaningful and what we are going to use to make decisions. Information literacy is a skill that in this current era ought to be promoted and I think it is very exciting that the S.U.R.E campaign is doing that today.
 
@@ -48,7 +48,7 @@ I can speak about my own experience as a scientist, where basically we need to a
 
 So, these are skills that translate back and forth between regular life on the street, life in the laboratory, life in the library and these are really critical skills that we need to develop. I think it’s very exciting that NLB has launched this initiative. And for me personally, also as a scientist, the approaches of S.U.R.E are important ways of making sense of an increasingly complicated world, both in life and science.
 
-#### **Would you say that the way that the brain processes information is similar to how we would apply the S.u.R.E. steps?**
+**Would you say that the way that the brain processes information is similar to how we would apply the S.u.R.E. steps?**
 
 I would say that in some cases yes and some cases no. The brain takes shortcuts and the reason it takes shortcuts is because we cannot process everything. So, the nervous system, even at the very early levels – that of the purely sensory levels – is constantly filtering what is coming in and extracting the general shape of things without giving you all of the information. In some cases, this is very useful because this means we can react quickly to different situations, we can make decisions very quickly; but of course that leads us to errors sometimes.
 
@@ -56,7 +56,7 @@ With very few exceptions, the most elegant – and fruitful – neuroscience met
 
 And so, I would see something like what S.U.R.E. is doing as complementary because often the brain is right but sometimes it is wrong. When it goes wrong, it is when it fails to see different perspectives of the same things, fails to understand the sources and fails to understand biases of the information coming in. So I would say that by and large, the brain does a good job and then, every now and then, you really do need to go the extra step and fully analyse and source the situation that you are in.
 
-#### **Can you share with us more on how the brain functions – specifically how it controls our decision-making process?**
+**Can you share with us more on how the brain functions – specifically how it controls our decision-making process?**
 
 We only know the very tip of the iceberg on this kind of problem and as I have already mentioned, neuroscience is still a very young field and we are just only going into these kinds of questions. 
 
@@ -70,7 +70,10 @@ Conveniently, our brain automatically filters some information out, preventing c
 
 The brain’s innate propensity to filter out information actually works to our advantage, cutting through the clutter of this age of information overload.
 
-The National Information Literacy Programme promotes four simple steps – Source, Understand, Research and Evaluate – to assess information.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/drcarl/sure_diagram.jpg">
+The National Information Literacy Programme promotes four simple steps – Source, Understand, Research and Evaluate – to assess information.</div>
 
 <i>Currently an established neuroscience postdoctoral fellow in the Axel Laboratory at Columbia University, Dr Carl Schoonover is also the acclaimed author of</i> Portraits of the Mind: Visualizing the Brain from Antiquity to the 21st Century <i>(Abrams, November 2010), a book that chronicles the fascinating exploration of the brain through images. Watch his illuminating TED Presentation on this subject at: http://www.ted.com/talks/carl_schoonover_how_to_look_inside_the_brain.html</i>
 
