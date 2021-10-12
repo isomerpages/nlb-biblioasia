@@ -14,7 +14,7 @@ In 2016, the National Library Board received a donation of personal papers and d
 
 The Lee family papers include documents that the brothers inherited from their father Lee Chim Huk (1889–1958) and uncle Lee Chim Tuan (1880–1955), both of whom were eminent figures in Singapore’s early Peranakan (Straits Chinese) and business communities.
 
-<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers2.JPG">
+<img style="width: 500px; height: 350px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers2.JPG">
 <div style="background-color: white;">Lee Chim Huk, father of Lee Kip Lee and Lee Kip Lin, striking a pose with his brother Lee Chim Tuan (standing) and a niece, in the vicinity of Amoy Street, where they grew up, c. 1900. <i>Courtesy of Peter Lee.</i></div>
 
 #### **Family Connections**
@@ -33,7 +33,7 @@ Lee Chim Tuan was appointed as general manager of Cheng Yan & Co., and over time
 
 The Lee Kip Lee and Lee Kip Lin Family Archives contain approximately 6,000 items, mainly the business and private correspondences of Lee Kip Lee, Lee Kip Lin, Lee Chim Tuan, Lee Chim Huk, Lee Choon Guan and other family members. Besides letters, there are also business documents such as company annual reports, minutes of meetings, business contracts, ledger books and receipts, as well as personal family records such as estate papers, household accounts books, bank statements, remittance slips, invitation cards, postcards and school magazines.
 
-<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers3.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers3.JPG">
 <div style="background-color: white;">Mr and Mrs Lee Choon Guan (she is dressed in a <i>qun-ao</i> [裙袄] and standing next to her husband in a Western-style suit) in a photograph taken in the 1920s. Lee Chim Tuan, who was the trusted aide of Lee Choon Guan (his father’s cousin and a director of the Straits Steamship Company) is standing at the extreme left wearing a hat. <i>Courtesy of Peter Lee.</i></div>
 
 Spanning nearly a century between the 1890s and 1980s, the collection covers critical periods in Singapore’s history, from the colonial era to World War II and the Japanese Occupation, the subsequent return of the British, and the post-independence period.
@@ -54,7 +54,7 @@ Lee Kip Lee joined LCT after the war and later managed it with his sister-in-law
 
 The collection also contains significant documents pertaining to the shipping trade and the banking industry in Singapore during the early half of the 20th century. Notable items include a folder containing letters and business papers relating to Straits Steamship Company’s acquisition of Eastern Shipping Company in 1922, providing an insider’s look into the negotiations and discussions between the two companies. The Straits Steamship Company had been founded some three decades earlier in 1890 by Dutchman Theodore Cornelius Bogaardt and several local Chinese businessmen, including Lee Cheng Yan (father of Lee Choon Guan), Tan Jiak Kim and Tan Keong Saik.
 
-<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers4.JPG">
+<img style="width: 350px; height: 480px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers4.JPG">
 <div style="background-color: white;">One of many letters regarding the acquisition of Eastern Shipping Company by the Straits Steamship Company in 1922. In this letter dated 9 August 1922 from the Straits Steamship Company to Lee Chim Tuan (who was helping to negotiate the purchase), the company agrees to increase its offer price for Eastern Shipping Company to $1.3 million. The sale eventually went through.</i></div>
 
 In the early years, Straits Steamship focused its operations on the western coast of the Malay Peninsula and mainly transported tin ore. Following in his father’s footsteps, Lee Choon Guan became a director in the Straits Steamship Company. One of the company’s most successful achievements under his stewardship was the acquisition of the Penang-based Eastern Shipping Company in 1922.
@@ -65,7 +65,7 @@ The collection is important for the valuable insights it provides into the Strai
 
 The collection also includes documents pertaining to other important Chinese business leaders in Singapore and Malaya, such as Lim Peng Siang, Chan Kang Swi and Chee Bong Quee, as well as the Lee family’s correspondences with British officials and merchants and even members of the Malay royalty.
 
-<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers5.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers5.JPG">
 <div style="background-color: white;">The original Ocean Building erected in 1866 at the corner of Collyer Quay and Raffles Quay was demolished to make way for this second Ocean Building that was completed in 1923. The StraitsnSteamship Company was located in this building, 1920s. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Apart from business documents, the collection also offers a rich resource of primary research materials on other aspects of Singapore’s history – such as the correspondences and records of the Lee family during World War II documenting the conditions, deprivation and strategies for survival during this period.
@@ -74,10 +74,10 @@ Featured here is a selection of items from the Lee Kip Lee and Lee Kip Lin Famil
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
 <b>Letters pertaining to the formation of the Oversea-Chinese Banking Corporation, 1932</b>
-<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers6.JPG">A set of letters pertaining to a critical period in the history of banking in Singapore, namely the amalgamation of three Hokkien banks – Chinese Commercial Bank (1912), Ho Hong Bank (1917) and Oversea-Chinese Bank (1919) – into the Oversea-Chinese Banking Corporation in 1932. One of the letters, dated 5 September 1932, is from Lee Chim Tuan to the company secretary of the Chinese Commercial Bank (in which Lee held shares) to cast his vote for the merger of the three banks.
+<img style="width: 350px; height: 480px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers6.JPG">A set of letters pertaining to a critical period in the history of banking in Singapore, namely the amalgamation of three Hokkien banks – Chinese Commercial Bank (1912), Ho Hong Bank (1917) and Oversea-Chinese Bank (1919) – into the Oversea-Chinese Banking Corporation in 1932. One of the letters, dated 5 September 1932, is from Lee Chim Tuan to the company secretary of the Chinese Commercial Bank (in which Lee held shares) to cast his vote for the merger of the three banks.
 <br><br>
 <b>Letter from W.M. Sime to Lee Chim Tuan, 15 February 1923</b>
-<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers7.JPG">W.M. Sime was co-founder of Sime Darby & Co., a rubber and tin mine agent and merchant established in Malacca in 1910, while Lee Chim Tuan was a director of the company. This letter was written shortly before the businessman Eu Tong Sen – of the Eu Yan Sang chain of medicinal shops – invested in Sime Darby. In this letter, Sime asks Lee to invite Eu to join the company’s board of directors. Sime enclosed with the letter a report on the company’s financial statements, from the year it began operations in 1910 to 1921, to prove to Eu that the company had sound financial standing and to assure Eu that his investment would be “in very safe hands”.
+<img style="width: 750px; height: 350px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers7.JPG">W.M. Sime was co-founder of Sime Darby & Co., a rubber and tin mine agent and merchant established in Malacca in 1910, while Lee Chim Tuan was a director of the company. This letter was written shortly before the businessman Eu Tong Sen – of the Eu Yan Sang chain of medicinal shops – invested in Sime Darby. In this letter, Sime asks Lee to invite Eu to join the company’s board of directors. Sime enclosed with the letter a report on the company’s financial statements, from the year it began operations in 1910 to 1921, to prove to Eu that the company had sound financial standing and to assure Eu that his investment would be “in very safe hands”.
 <br><br>
 <b>Agreement between Asiatic Petroleum Company (Straits Settlements) Limited and Lee Chim Tuan, 12 July 1927</b>
 <img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers8.JPG">This is a contract signed between Lee Chim Tuan and Asiatic Petroleum Company (APC), later renamed Shell, in which APC agrees to hire Lee to provide labour for its installations at Pulau Bukom and Pulau Samboe (in Indonesia). According to the contract, Lee was to supply and maintain at these islands a sufficient supply of labour to meet APC’s requirements, including “experienced mandores and winchmen” as well as “coal coolies” to supply coal to steamers. In return, APC would pay Lee for the labour at agreed rates. The contract also required Lee to hire a manager who would devote his “full time and attention” to the job, and it was agreed that his brother Lee Chim Huk would be ideal for the role.
