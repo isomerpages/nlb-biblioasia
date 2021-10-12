@@ -131,7 +131,7 @@ On his return to Britain in 1862, Wallace was no longer an obscure collector. He
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_re.jpg">
+<img src="/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_res.jpg">
 <i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. <i>Published by World Scientific Publishing Co., 2013.</i>
 </div>
 
