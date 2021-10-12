@@ -93,7 +93,7 @@ Over the next eight years Wallace made dozens of expeditions. His voyage corresp
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/darwinandwallace/wallace_assistant_re.jpg">
+<img src="/images/vol-10-issue-4/darwinandwallace/wallace_assistant_res.jpg">
 <i>Wallace's faithful Malay assistant Ali.</i> 
 </div>
 
