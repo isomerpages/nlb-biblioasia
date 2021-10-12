@@ -6,11 +6,10 @@ layout: post
 ---
 #### The National Library has a collection of rare maps dating back to the 15th century. **Makeswary Periasamy** shares the significance and history of these maps and their makers. 
 
-
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/raremap/background.jpg">
-</div>
+<img src="/images/vol-10-issue-4/raremap/wall_map.jpg">
+Detail from a wall map by map printing and publishing firm Covens & Mortier. <i>L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences & de Sanson, Nolin, Du Fer, De L’Isle & principalement sur la carte que monsieur N: Witsen Bourgemaistre &c. &c. a donneé au public & sur les memoires les plus recens et mis au jour, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</i></div>
 
 The National Library’s Rare Maps Collection forms part of the valuable Rare Materials Collection held in its Lee Kong Chian Reference Library. The collection contains topographic maps and navigational charts covering Singapore, Southeast Asia and Asia, as well as town plans and street maps of Singapore and Malaya. The majority of the maps were printed by European map-makers before 1945.
 
@@ -134,7 +133,7 @@ The National Library’s collection of rare maps is an important source for the 
 
 |Bellin's map depicts Singapore island in an unrecognisable shape and calls it "Pulo ou Isle Panjang", one of the early names used for the island. The map also features coastal profiles at its centre.|
 
-|<img src="/images/vol-10-issue-4/raremap/Carte.jpg">*Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine*, Jacques Nicolas Bellin (Paris, 1755).|
+|<img src="/images/vol-10-issue-4/raremap/Carte_re.jpg">*Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine*, Jacques Nicolas Bellin (Paris, 1755).|
 
 <br>
 
