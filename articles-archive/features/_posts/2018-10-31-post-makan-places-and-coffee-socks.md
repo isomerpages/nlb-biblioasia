@@ -53,6 +53,16 @@ Here is a sampling of publications featuring hawker stalls and coffeeshops from 
 <b>旧机场路小贩中心百货商店二周年纪念特刊 (Old Airport Road Hawkers’ Centre & Emporium 2nd Anniversary Souvenir Magazine) </b><br> (1975)  
 <img src="/images/Vol-14-issue-3/makan-places-and-coffee-socks/CoffeeSocks9.JPG">The Old Airport Road Hawkers’ Centre & Emporium opened in 1973 with 192 food stalls on the first floor and 120 shops selling sundries on the second floor. It was so popular that people from all over Singapore came here to shop and eat. Kallang Airport was located nearby between 1937 and 1955, hence its name. Known as Old Airport Road Food Centre today, it still continues to draw the crowds as foodies say that some of Singapore’s best hawker fare is found here.
 
+|**WHAT'S YOUR BREW?**
+
+|Nothing rouses the senses more than the aroma of freshly roasted kopi brewed in traditional “coffee socks”, which are reusable filter bags made of muslin. To enjoy a proper Singapore-style coffee, you need to order as locals do. For example, if you just say “kopi” when placing your order, it means that you want coffee with condensed milk and sugar, and when you say “kopi c”, you’ll be given coffee with evaporated milk and sugar. If you like your coffee thick, say “kopi gao” and if you don’t want sugar, remember to say “kosong”.
+
+|Foreign residents in Singapore have also learned to appreciate local coffee, and taken to using these local lexicons with gusto. According to food editor Tan Hsueh Yun, the ultimate treat is “kopi gu yew”, or coffee with butter, which contains just enough butter and “condensed milk to sweeten the drink without obscuring the nuances of the coffee”.
+
+|**REFERENCE**
+
+|Tan, H.Y. (2014, September 26). [Food picks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140926-1.2.73.5.9). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
 	<b>WHAT IS LEGAL DEPOSIT?</b><br>
 Legal Deposit is one of the statutory functions of the National Library and is supported through the provisions of the National Library Board Act. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every physical work and one copy of every electronic work published in Singapore, for sale or public distribution, with the National Library within four weeks of its publication. The Legal Deposit function ensures that a repository of Singapore’s published heritage is preserved for future generations. For more information, please visit www.nlb.gov.sg/Deposit.</div>
