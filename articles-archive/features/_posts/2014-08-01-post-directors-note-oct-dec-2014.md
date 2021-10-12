@@ -1,9 +1,10 @@
 ---
 title: Director's Note (Oct-Dec) 2014
 date: 2014-08-01
-permalink: /vol-10/issue-2/oct-dec-2014/punkahs-everywhere
+permalink: /vol-10/issue-3/oct-dec-2014/punkahs-everywhere
 layout: post
 ---
+
 How does one convey the idea of a city? 
 
 In her exuberant account of 19th-century Singapore, Isabella Bird wrote of a city that was full of character, thanks to the varying skin tones of its Oriental inhabitants and their exotic multi-hued costumes while deploring the pallid and detached European residents whose primary obsession was to faithfully send mail home each week. Truly, a tale of two cities depending on which side of the divide you stand.
