@@ -160,12 +160,12 @@ Méliès’ own approach to film raises many questions of identity, otherness an
 
 [^28]:Advertisement: Méliès “Round the World” films. (1913, July 19). *Moving Picture World, 17* (3), 379. Retrieved from Internet Archive.
 
-[^29]:Comments on the films: The Poisoned Darts. (1913, July 17). *Moving Picture World*, 17 (5), 535.
+[^29]:Comments on the films: The Poisoned Darts. (1913, July 17). *Moving Picture World, 17* (5), 535.
 
-[^30]:Advertisement: Méliès “Round the World” films. (1913, July 12). *Moving Picture World*, 17 (2), 271. Retrieved from Internet Archive.
+[^30]:Advertisement: Méliès “Round the World” films. (1913, July 12). *Moving Picture World, 17* (2), 271. Retrieved from Internet Archive.
 
-[^31]:Comments on the films: His Chinese Friend. (1913, July 26). *Moving Picture World*, 17 (4), 428. Retrieved from Internet Archive.
+[^31]:Comments on the films: His Chinese Friend. (1913, July 26). *Moving Picture World, 17* (4), 428. Retrieved from Internet Archive.
 
-[^32]:Méliès: The Poisoned Darts. (1913, July 12). *Moving Picture World*, 17 (2), 234. Retrieved from Internet Archive.
+[^32]:Méliès: The Poisoned Darts. (1913, July 12). *Moving Picture World, 17* (2), 234. Retrieved from Internet Archive.
 
-[^33]:Méliès: His Chinese Friend. (1913, July 5). *Moving Picture World*, 17 (1), 78. Retrieved from Internet Archive.
+[^33]:Méliès: His Chinese Friend. (1913, July 5). *Moving Picture World, 17* (1), 78. Retrieved from Internet Archive.
