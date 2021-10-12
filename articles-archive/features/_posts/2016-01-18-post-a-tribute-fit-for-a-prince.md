@@ -4,6 +4,8 @@ date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/atributefitforaprince
 layout: post
 ---
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/01_tributeprince.jpg">The front and back wooden covers of the Loyalty Address – created in homage to Price Alfred, the Duke of Edinburgh – are intricately handcraved with phoenixes. <i>All rights reserved, National Library Board, Singapore</i></div>
+
 Singapore has never hesitated to roll out the red carpet for visiting dignitaries, and this is exactly what a British royal experienced when he sailed into Singapore nearly 150 years ago.
 
 In December 1869, Prince Alfred, Duke of Edinburgh and Queen Victoria’s second son, paid a visit to Singapore on the *HMS Galatea*.[^1] As his tour marked the first time a member of the British royal family was to set foot in Malaya,[^2] officials and merchants scrambled to prepare for his arrival with a suitably grand programme of entertainment.[^3]
