@@ -100,7 +100,7 @@ Featured here is a selection of items from the Lee Kip Lee and Lee Kip Lin Famil
 
 Chua, A.L. (2012, March). Nation, race and language: Discussing transnational identity in colonial Singapore, circa 1930. *Modern Asian Studies*, 46(2), 282–302. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-Curriculum Development Institute of Singapore. Lower Secondary History Project Team. (1985). [*Social and economic history of modern Singapore. Volume 2*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140696) (pp. 49–62). Singapore: Longman Singapore [for] Curriculum Development Institute of Singapore. (Call no.: RSING 959.57 SOC)
+Curriculum Development Institute of Singapore. Lower Secondary History Project Team. (1985). [*Social and economic history of modern Singapore. Volume 2*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140696) (pp. 49–62). Singapore: Longman Singapore [for] Curriculum Development Institute of Singapore. (Call no.: RSING 959.57 SOC).
 
 [Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19550503-1.2.191). (1955, May 3). *Singapore Standard*, p. 13. Retrieved from NewspaperSG.
 
@@ -122,7 +122,7 @@ New man at the helm: Lee Kip Lee elected as new president. (1996, June). *The Pe
 
 [Old Singapore resident dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19580415-1.2.39). (1958, April 15). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
 
-Song, O.S. (1984). [*One hundred years’ history of the Chinese in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287) (pp. 110–111, 130, 220–221, 542). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
+Song, O.S. (1984). [*One hundred years’ history of the Chinese in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287) (pp. 110–111, 130, 220–221, 542). Singapore: Oxford University Press. (Call no.: RSING 959.57 SON).
 
 Tay, S.C. (2016, October 7). [Keeping the past alive](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20161007-1.2.41.1.1). *The Business Times*, p. 28. Retrieved from NewspaperSG
 
