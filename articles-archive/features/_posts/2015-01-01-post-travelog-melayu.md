@@ -11,7 +11,7 @@ Travelogues, particularly those from yesteryear, serve as important reference do
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-4/travelogmelayu/books.jpg">
-(Clockwise from top left) <i>Melawat Negara Tetangga, Meninau Ka-Negara Sham, Melawat KB-Paris, Chatetan Ka-Tanah Suchi </i>and <i>Kunjongan Ka-Indonesia 1954</i> were all written by Harun Aminurrashid. 
+(Clockwise from top left) <i>Melawat Negara Tetangga, Meninau Ka-Negara Sham, Melawat KB-Paris, Chatetan Ka-Tanah Suchi </i>and <i>Kunjongan Ka-Indonesia 1954</i>  were all written by Harun Aminurrashid. 
 </div>
 
 <i>"Bahwa ini peringatan sahaya berlayar dari negeri Singapura dalam kapal Syeikh ‘Abdul Karim yang bernama Subla’s-salam, yaitu kepada tarikh sanat 1270 tahun, kepada 29 hari bulan Jamadilawal, yaitu kepada tarikh Masehi 1854, yaitu setuju kepada sehari bulan Cina tahun baharu. </i>
