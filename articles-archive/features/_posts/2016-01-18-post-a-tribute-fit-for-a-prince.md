@@ -54,7 +54,7 @@ Written by: Nor-Afidah Abdul Rahman
 
 <div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE MANUSCRIPT</b>
 <br><br>
-<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/920ecc56-9df8-409e-b3ec-f742a6895eea.aspx">Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869</a>
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/920ecc56-9df8-409e-b3ec-f742a6895eea.aspx">Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869</a></i>
 <br>
 <b>Creator:</b> Unknown
 <br>
