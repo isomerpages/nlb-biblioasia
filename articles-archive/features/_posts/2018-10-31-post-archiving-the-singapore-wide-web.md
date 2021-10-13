@@ -39,7 +39,6 @@ The WAS portal currently comprises mainly government websites as well as a handf
 
 Featured here are some highlights from the collection.
 
-
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 30px; background:#fdf5e6">
 <b>National Day Parade</b> (Archived on 25 August 2015)
 <img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive2.JPG">The National Day Parade website is updated annually to reflect the programmes and events of that year’s celebrations. The National Library has archived the website since 2006, including the momentous SG50 milestone in 2015 celebrating Singapore’s Golden Jubilee.
