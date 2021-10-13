@@ -123,16 +123,17 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 
 <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">
 <div style="background-color: white;">Action scenes filmed in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div><br>
-						
-|**A MOVIE BY ANY OTHER NAME**
 
-|Like similar B-movies of the era, the film went by several different titles. The English version in the United Kingdom was called *Five Ashore in Singapore*, and in the United States as the double-barrelled *Singapore, Singapore*.[^26] Inexplicably, in Singapore it was first announced as *Singapore Mission for Five*,[^27] before being eventually retitled and released as *Our Five Men in Singapore* in February 1968.
-
-|Its original title *Cinq gars pour Singapour* is French, as this is the title of the French novel it is adapted from. *Cinq gars pour Singapour*, when literally translated, means “Five guys for Singapore” – *cinq* is “five”, *gars* is “guys” and *pour* is “for” – and is a clever phonetic pun on the name of the city, since *cinq-gars-pour* (when said quickly) sounds exactly like “Singapour”.
-
-|<img style="width: 600px; height: 630px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore11.JPG">(Top) A Yugoslavian lobby card with the film title translated into Serbian – <i>Pet Momaka za Singapour. Courtesy of Raphaël Millet.</i><br>(Left) The French press kit of <i>Five Ashore in Singapore</i>. The film was commercially released in March 1967 in France, where it enjoyed a long run at the Balzac Theatre in Paris. <i>Courtesy of Raphaël Millet.</i><br>(Right) The Italian film poster for Five Ashore in Singapore, 1967. <i>Courtesy of Raphaël Millet.</i>
-
-|The pun is lost in translation of course, but details such as the number of male protagonists and location were kept intact in most of the titles of the foreign-language versions that were either dubbed or subtitled, for example *Cinco Marinos en Singapur* in Spanish (also *Cinco Muchachos en Singapur* in Argentina), *Cinque Marines per Singapore* in Italian, *Vijf Kerels Voor Singapore* in Dutch, and *Pet Momaka za Singapour* in Serbian for the Yugoslavian version of the film.
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>A MOVIE BY ANY OTHER NAME</b>
+<br><br>
+Like similar B-movies of the era, the film went by several different titles. The English version in the United Kingdom was called <i>Five Ashore in Singapore</i>, and in the United States as the double-barrelled <i>Singapore, Singapore</i>.[^26] Inexplicably, in Singapore it was first announced as <i>Singapore Mission for Five</i>,[^27] before being eventually retitled and released as <i>Our Five Men in Singapore</i> in February 1968.
+<br><br>
+Its original title <i>Cinq gars pour Singapour</i> is French, as this is the title of the French novel it is adapted from. </i>Cinq gars pour Singapour</i>, when literally translated, means “Five guys for Singapore” – <i>cinq</i> is “five”, <i>gars</i> is “guys” and <i>pour</i> is “for” – and is a clever phonetic pun on the name of the city, since <i>cinq-gars-pour</i> (when said quickly) sounds exactly like “Singapour”.
+<br><br>
+<img style="width: 600px; height: 630px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore11.JPG">(Top) A Yugoslavian lobby card with the film title translated into Serbian – <i>Pet Momaka za Singapour. Courtesy of Raphaël Millet.</i><br>(Left) The French press kit of <i>Five Ashore in Singapore</i>. The film was commercially released in March 1967 in France, where it enjoyed a long run at the Balzac Theatre in Paris. <i>Courtesy of Raphaël Millet.</i><br>(Right) The Italian film poster for Five Ashore in Singapore, 1967. <i>Courtesy of Raphaël Millet.</i>
+<br><br>
+The pun is lost in translation of course, but details such as the number of male protagonists and location were kept intact in most of the titles of the foreign-language versions that were either dubbed or subtitled, for example <i>Cinco Marinos en Singapur</i> in Spanish (also <i>Cinco Muchachos en Singapur</i> in Argentina), <i>Cinque Marines per Singapore</i> in Italian, <i>Vijf Kerels Voor Singapore</i> in Dutch, and <i>Pet Momaka za Singapour</i> in Serbian for the Yugoslavian version of the film.</span>
 
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 <b>SPY MUSIC</b>
