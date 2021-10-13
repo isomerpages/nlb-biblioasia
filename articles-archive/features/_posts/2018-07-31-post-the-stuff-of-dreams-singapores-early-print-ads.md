@@ -104,3 +104,15 @@ With the passage of time, the products and services found in these vintage adver
 Apart from marketing products and services, early advertising adopted the strategy of selling a “dream” – a desirable outcome, tangible or intangible, to its intended audience, and closely associated with purchasing the advertised product or service. Such an advertising tactic is only too familiar to modern-day consumers who are often lured into parting with their money – whether on fast cars and jewellery or common everyday items like detergent and toothpaste – by slick advertisements promising them instant gratification.
 
 The product range as well as the scale and size of the advertising industry and its platforms may have changed drastically over the years, but the one constant that has survived to this day is the aspect of selling the stuff that is of dreams.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+	<b>ABOUT THE EXHIBITION</b>
+	<br><br>
+“Selling Dreams: Early Advertising in Singapore” opens on 20 July 2018 at the gallery on level 10 of the National Library Building on Victoria Street. Inspired by the concept of a department store, the exhibition contains nine “departments” showcasing various advertisements for food, medicine, household goods, automobiles, travel services, hospitality facilities, entertainment, fashion and retail.
+	<br><br>
+The exhibition will present a variety of print publications from the 1830s to 1960s that are rich in advertising content and drawn from the National Library’s collections, including copies of the first local newspaper, Singapore Chronicle and Commercial Register, from 1833. The earliest advertisements in newspapers were primarily shipping and commercial notices targeted at the mercantile community, along with advertisements of imported goods, services and recreational activities.
+	<br><br>
+Early business directories, periodicals, magazines, souvenir publications, travel guides, and ephemera such as posters and flyers are also rich sources of advertising material. Print advertising reigned supreme in Singapore until television made its foray here in 1963. The new media revolutionised the dissemination of information and entertainment, and as TV sets became increasingly common in local households, advertisements on television became the game changer in the industry.
+		<br><br>
+	<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams9.JPG">
+	A book titled <i>Between the Lines: Early Print Advertising in Singapore 1830s–1960s</i> will be launched in conjunction with the exhibition, and sold at major bookshops in Singapore as well as online stores. A series of programmes has been organised too, including guided tours by curators and public talks.</div>
