@@ -11,7 +11,7 @@ layout: post
 
 Advertising has existed since ancient times in various different shapes and forms. In the ruins of Pompeii for instance, advertisements hawking the services of prostitutes were carved into the buried stonework of this thriving Roman city before it was destroyed in 79 CE.[^1] In medieval Europe, town criers roamed the streets making public announcements accompanied by the ringing of a hand bell. In China, one of the earliest advertising artefacts discovered was a printing block of an advertisement for a needle shop in Jinan, Shandong province, dating from the Northern Song Dynasty (960–1127 CE).[^2]
 
-<img style="width: 380px; height: 400px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams2.JPG">
+<img style="width: 420px; height: 400px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams2.JPG">
 <div style="background-color: white;">An advertisement by Warin Publicity Services. <i>Image reproduced from The Straits Times Annual 1939, back cover.</i></div>
 
 In various towns and cities across Asia, street vendors calling out to customers have existed since time immemorial. Itinerant hawkers – who moved from place to place peddling food, drinks, vegetables, textiles and various sundries while verbally “advertising” their wares – were once a common sight on the streets of Singapore.[^3]
