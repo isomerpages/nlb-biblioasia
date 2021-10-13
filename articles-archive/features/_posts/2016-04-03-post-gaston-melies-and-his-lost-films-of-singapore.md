@@ -76,7 +76,7 @@ Similarly, Méliès obviously found a local actor to play Wing, the lead Chinese
 
 Méliès’ own approach to film raises many questions of identity, otherness and representation, giving us a better understanding of his place in early cinema and in Singapore’s film history. At the time of writing, there is no surviving print of Méliès’ made-in-Singapore films. These are what film historians and archivists call “lost films”, the same fate that befell most of the other works he filmed during his cinematic journey across Asia-Pacific in 1913. Out of the 64 films that Méliès shot during his eventful trip, only five survived, some of which are literally in fragments today. And out of four films made in Singapore, none exist. But lost films are not always lost forever, as a print can surface, sometimes in the most unexpected of places. There is hope yet for what might seem like an obscure French filmmaker who was also one of the pioneers of Singapore’s film history.
 
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"><b>MÉLIÉS’ FICTION MELODRAMAS</b>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>MÉLIÉS’ FICTION MELODRAMAS</b>
 <br><br>
 <b>The Poisoned Darts</b> [^32]
 <br><br>
