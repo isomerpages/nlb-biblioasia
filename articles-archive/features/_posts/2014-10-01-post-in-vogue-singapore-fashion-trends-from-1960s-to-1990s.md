@@ -4,7 +4,7 @@ date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/in-vogue
 layout: post
 ---
-Fashion spread from Her World November 1967 p.40. </i>All rights reserved. Singapore Press Holdings, 2014.<i>
+Fashion spread from Her World November 1967 p.40. <i>All rights reserved. Singapore Press Holdings, 2014.</i>
 
 In May 2014, the Asian Fashion Exchange was held, celebrating the best of Asian fashion and designers and doubling as a platform for young emerging talent to showcase their collections. To tie in with the event, the National Library held a week-long retrospective on the fashion trends of past decades with a display of books and women’s magazines.
 
