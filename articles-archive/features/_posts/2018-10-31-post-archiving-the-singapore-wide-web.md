@@ -11,13 +11,13 @@ layout: post
 
 Have you ever bookmarked a favourite website only to later find a broken link, or worse, find that it no longer exists? Unlike print materials, websites are ephemeral, and their content easily updated or removed with a mere swipe of the screen or click of the mouse.
 
-Within the span of just one year, between 2016 and 2017, the total number of websites on the World Wide Web grew by a whopping 69 percent to more than 1.7 billion.1 As at 10 September 2018, the number is close to a staggering 2 billion.
+Within the span of just one year, between 2016 and 2017, the total number of websites on the World Wide Web grew by a whopping 69 percent to more than 1.7 billion.[^1] As at 10 September 2018, the number is close to a staggering 2 billion.
 
 Websites are important records of memory, knowledge and history, and as more and more content is created online, there is an increasing need to ensure that websites are systematically archived and the information preserved for future generations. In recognition of this, many national libraries and institutions around the world today are collecting and preserving websites through a process called web archiving.
 
-As the custodian of our nation’s published heritage, the National Library of Singapore embarked on a web archiving initiative more than a decade ago in 2006. An online portal, the Web Archive Singapore (WAS), was specially created to archive Singapore related websites. Its reach, however, was limited as the National Library Board (NLB) Act only empowered the National Library to collect print materials via the Legal Deposit function.2 As the archiving of websites involved the administratively cumbersome process of seeking the written consent of website owners, it hampered the building of a comprehensive national collection of Singapore websites.
+As the custodian of our nation’s published heritage, the National Library of Singapore embarked on a web archiving initiative more than a decade ago in 2006. An online portal, the Web Archive Singapore (WAS), was specially created to archive Singapore related websites. Its reach, however, was limited as the National Library Board (NLB) Act only empowered the National Library to collect print materials via the Legal Deposit function.[^2] As the archiving of websites involved the administratively cumbersome process of seeking the written consent of website owners, it hampered the building of a comprehensive national collection of Singapore websites.
 
-Following in the footsteps of national libraries in the United Kingdom, Australia, New Zealand, Japan and South Korea, the NLB Act amendment bill was passed by parliament in July 2018 to allow Singapore’s National Library to archive websites containing the .sg domain without the need for written permission.3 With the introduction of the new legislation, the library intends to archive publicly available .sg websites at least once a year. Selected websites, such as those covering significant events like National Day and the Southeast Asian Games, will be archived more frequently.
+Following in the footsteps of national libraries in the United Kingdom, Australia, New Zealand, Japan and South Korea, the NLB Act amendment bill was passed by parliament in July 2018 to allow Singapore’s National Library to archive websites containing the .sg domain without the need for written permission.[^3] With the introduction of the new legislation, the library intends to archive publicly available .sg websites at least once a year. Selected websites, such as those covering significant events like National Day and the Southeast Asian Games, will be archived more frequently.
 
 #### **Revamping Web Archive Singapore (WAS)**
 
@@ -33,7 +33,7 @@ To encourage public participation, users are invited to help build the national 
 
 The new legislation to collect and preserve Singapore-related websites is a notable step forward for NLB. It enables the National Library to strengthen its national collection by collecting published heritage materials that are born digital, including all Singapore websites. These digital materials will not only enrich and supplement existing local content and create a lasting legacy for future generations of Singaporeans, but also enhance the National Library’s standing as a public and heritage institution.
 
-The journey, however, does not end here. Given the more than 180,000 registered .sg domain websites 4 and with the number set to increase every year, collecting and preserving Singapore-related websites is an uphill task. To complicate matters, there are many non-.sg websites out there with significant Singaporean content. As non-.sg websites are excluded under the new NLB Act mandate, the National Library is legally bound to seek written consent from website owners before such sites can be archived.
+The journey, however, does not end here. Given the more than 180,000 registered .sg domain websites[^4] and with the number set to increase every year, collecting and preserving Singapore-related websites is an uphill task. To complicate matters, there are many non-.sg websites out there with significant Singaporean content. As non-.sg websites are excluded under the new NLB Act mandate, the National Library is legally bound to seek written consent from website owners before such sites can be archived.
 
 The WAS portal currently comprises mainly government websites as well as a handful of websites of private organisations that had previously granted NLB permission to archive their sites.
 
@@ -69,6 +69,3 @@ Featured here are some highlights from the collection.
 [^2]: Legal Deposit is a statutory function of NLB. All publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The National Library has collected close to 1.3 million print publications over the last 50 years.
 [^3]: The amendments to the NLB Act extended the scope of the Legal Deposit function to include digital materials and web archiving. All publishers are now required by law to deposit one copy of every digital work published in Singapore with the National Library within four weeks of its publication.
 [^4]: Singapore Network Information Centre. (n.d.). *Registration statistics*. Retrieved from the Singapore Network Information Centre website.
-
-
-
