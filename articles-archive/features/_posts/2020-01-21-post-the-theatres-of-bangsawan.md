@@ -141,7 +141,7 @@ By the turn of the 20th century, a number of <i>bangsawan</i> companies had been
 <br><br>
 “The audience was composed of a motley crowd – Malays, dressed in all colours of the rainbow, which somehow never seem to clash, predominating. Among the rest of the audience I counted a large number of Chinese, Japanese, Sikhs, Bengalis, Tamils, Eurasians, and one European – myself.”[^16]
 <br><br>
-Stories in <i>bangsawan</i> theatre were usually adapted from the<i>Sejarah Melayu</i> (Malay Annals), the two great Indian epics the <i>Mahabharata</i> and the <i>Ramayana</i>, Arabic tales, Chinese classics, European stories and even Shakespearean plays. Each act was interspersed with performances consisting of orchestral music, songs, dances, comedy skits and novelty acts. It was not uncommon for *bangsawan* productions to include exotic songs from the Americas, Middle East and India. Musical instruments from different cultures, such as the piano, violin and tabla, were also featured.[^17]
+Stories in <i>bangsawan</i> theatre were usually adapted from the<i>Sejarah Melayu</i> (Malay Annals), the two great Indian epics the <i>Mahabharata</i> and the <i>Ramayana</i>, Arabic tales, Chinese classics, European stories and even Shakespearean plays. Each act was interspersed with performances consisting of orchestral music, songs, dances, comedy skits and novelty acts. It was not uncommon for <i>bangsawan</i> productions to include exotic songs from the Americas, Middle East and India. Musical instruments from different cultures, such as the piano, violin and tabla, were also featured.[^17]
 </span>
 
 <div style="background-color: white;">
