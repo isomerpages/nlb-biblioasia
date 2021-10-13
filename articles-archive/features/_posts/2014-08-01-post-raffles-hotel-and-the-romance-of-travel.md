@@ -108,6 +108,6 @@ It must be noted that Syed Mohamed was an outstanding landlord. He funded most o
 
 This article was adapted from the book Raffles Hotel by Gretchen Liu, Editions Didier Millet, Singapore, 2006.
 
-<p style="font-size:15px;"><b>Gretchen Liu</b> is a former journalist and book editor as well as the author of several illustrated books, including Pastel Portraits: Singapore’s Architectural Heritage and Singapore: A Pictorial History. As the former curator of the Raffles Hotel Collection, she oversaw all of the heritage projects during the hotel’s 1989–1992 restoration and for some years after that.</p>
+<p style="font-size:15px;"><b>Gretchen Liu</b> is a former journalist and book editor as well as the author of several illustrated books, including <i>Pastel Portraits: Singapore’s Architectural Heritage</i> and <i>Singapore: A Pictorial History</i>. As the former curator of the Raffles Hotel Collection, she oversaw all of the heritage projects during the hotel’s 1989–1992 restoration and for some years after that.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
