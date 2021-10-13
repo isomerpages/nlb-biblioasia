@@ -137,20 +137,20 @@ The entrance of <i>Shin Min Daily News</i> livened up the Chinese newspaper publ
 <br><br>
 In 1983, <i>Shin Min Daily News</i> became a subsidiary company of The Straits Times Press Limited. One year later, in 1984, the paper became part of Singapore Press Holdings group.
 </div>
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>THE RISE AND FALL OF CHINESE TABLOIDS</b>
+<br><br>
+Chinese tabloids first appeared and flourished in Singapore in the 1920s, providing readers with a different form of entertainment compared to the dailies. Known as <i>xiao bao</i> (小报), these tabloids were usually published once every two to three days and were much thinner than the dailies.
+<br><br>
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/XLB.jpg"><i>Xin Li Bao</i> (新力报) reporting on the opening of the latest nightclub in Singapore in December 1950. <i>Xin Li Bao, 29 December 1950 (issue 16).</i>
+<br><br>
+	The first Chinese tabloid, <i>Xiao Xian Zhong</i> (消闲钟), was published in Singapore in 1925. It featured mostly entertainment news, while other tabloids focused on topics such as photography, commerce, literature, education and politics.
+<br><br>
+The late 1940s and the 1950s marked another golden age for Chinese tabloids in Singapore. <i>Ye Deng Bao</i> (夜灯报) and <i>Xin Li Bao</i> (新力报) were the two most popular tabloids during that period. Chinese tabloids were mainly known for their frivolous reporting of entertainment news on the latest movies, celebrity gossip, <i>getai</i> (live stage performances) and popular bar hostesses. They also prided themselves on their ability to get the inside scoop on these subjects and regularly covered titillating topics like sensational crime and prostitution.
+<br><br>
+Some tabloids resorted to pornography to increase their readership in the highly competitive market. On the basis that these tabloids were promoting “yellow culture”,[^41] the government banned a number of such publications or revoked the printing licences of the companies in the 1960s.</span>
 
-<br>|**THE RISE AND FALL OF CHINESE TABLOIDS**
-
-|Chinese tabloids first appeared and flourished in Singapore in the 1920s, providing readers with a different form of entertainment compared to the dailies. Known as *xiao bao* (小报), these tabloids were usually published once every two to three days and were much thinner than the dailies.
-
-|<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/XLB.jpg"><i>Xin Li Bao</i> (新力报) reporting on the opening of the latest nightclub in Singapore in December 1950. <i>Xin Li Bao, 29 December 1950 (issue 16).</i>
-
-|The first Chinese tabloid, *Xiao Xian Zhong* (消闲钟), was published in Singapore in 1925. It featured mostly entertainment news, while other tabloids focused on topics such as photography, commerce, literature, education and politics.
-
-|The late 1940s and the 1950s marked another golden age for Chinese tabloids in Singapore. *Ye Deng Bao* (夜灯报) and *Xin Li Bao* (新力报) were the two most popular tabloids during that period. Chinese tabloids were mainly known for their frivolous reporting of entertainment news on the latest movies, celebrity gossip, *getai* (live stage performances) and popular bar hostesses. They also prided themselves on their ability to get the inside scoop on these subjects and regularly covered titillating topics like sensational crime and prostitution.
-
-|Some tabloids resorted to pornography to increase their readership in the highly competitive market. On the basis that these tabloids were promoting “yellow culture”,[^41] the government banned a number of such publications or revoked the printing licences of the companies in the 1960s.
-
-*The author wishes to thank Mr Lee Ching Seng for reviewing the essay. Past issues of Chinese newspapers can be accessed via NewspaperSG – a searchable, online archive of local newspapers – and also from the  microfilm collection at level 11 of the Lee Kong Chian Reference Library.* <br>
+*The author wishes to thank Mr Lee Ching Seng for reviewing the essay. Past issues of Chinese newspapers can be accessed via NewspaperSG – a searchable, online archive of local newspapers – and also from the  microfilm collection at level 11 of the Lee Kong Chian Reference Library.* 
 
 <div style="background-color: white;">
 <br/>
