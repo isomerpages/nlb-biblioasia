@@ -58,8 +58,8 @@ The FMS was instituted in 1895 after Swettenham secured agreements from the Mala
 
 [^4]:Barlow, 1995, pp. 691–715; Chew, E. (1968). Sir Frank Swettenham and the Federation of the Malay States. Modern Asian Studies, 2 (I), 51–69. Retrieved from JSTOR via NLB’s eResources website.
 
-[^5]:Kelly & Walsh: British Malaya. (1906, November 24). The Singapore Free Press, p. 6; Kelly & Walsh: New books. (1907, February 4). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+[^5]:[Kelly & Walsh: British Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19061124-1.2.23.1). (1906, November 24). *The Singapore Free Press*, p. 6; [Kelly & Walsh: New books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070204-1.2.16.1). (1907, February 4). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
 
-[^6]:Barlow, 1995, pp. 691–715.
+[^6]:[Barlow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524), 1995, pp. 691–715.
 
 [^7]:Cowan, C.D., & Swettenham, F.A. (1951, December). Sir Frank Swettenham’s Perak journals, 1874–1876. *Journal of the Malaysian Branch of the Royal Asiatic Society, 24* (4) (157), 1–148, p. 6. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Roff, W.R. (1993). Introduction. In F.A. Swettenham, *[A nocturne and other Malayan stories and sketches](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6531099)* (pp. ix–xviii). Kuala Lumpur: Oxford University Press. (Call no.: RSING 959.5 SWE); Sir Frank Swettenham. (2014). Encyclopaedia Britannica. Retrieved from Britannica Library website; National Library Board. (2014, May 15). *[Frank Swettenham](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-05-16_133845.html)*. Retrieved from Singapore Infopedia website.
