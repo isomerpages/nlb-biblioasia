@@ -131,11 +131,11 @@ Early business directories, periodicals, magazines, souvenir publications, trave
 [^3]:Romance of Advertising. (1935, October). [*The RODA: Magazine of the [Rotary] clubs of Malaya and Siam, 5*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053556) (52),199–203. Singapore: Roda. (Call no.: RRARE 369.509595 R; Microfilm no.: NL 7312)
 [^4]:[Fletcher](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14131948), 2010, p. 31. [Note: The advertisement was issued by English printer William Caxton and offered for sale his edition of the *Sarum Ordinal*, a manual for priests.].
 [^5]:Williams, K. (2010). [*Read all about it!: A history of the British newspaper*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13192640) (pp. 39–40)). London; Routledge, New York. (Call no.: R 072.09 WIL)
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
+[^6]:[1] Lim, P.P.H. (1992). [*Singapore, Malaysian and Brunei newspapers: An international union list*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6340966) (pp. 3–56). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 016.0795957 LIM-[LIB]) 
+[^7]:Dossett, J.W. (1918). [*Who’s who in Malaya, 1918*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981773)  (p. 137). Singapore: Printed for Dossett & Co. by Methodist Pub. House. (Call no.: RRARE 920.9595 WHO; Microfilm no.: NL 5829)
+[^8]:[Page 2 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19181211-1.2.9.1). (1918, December 11). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
+[^9]:[Page 3 Advertisements Column 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19190304-1.2.5.3). (1919, March 4). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^10]:Advertisers Association. (1971). [*A review of advertising in Singapore and Malaysia during early times*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082134) (p. 26). Singapore: Federal Publications. (Call no.: RSING 659.109 ADV)
 [^12]:
 [^13]:
 [^14]:
@@ -150,8 +150,7 @@ Early business directories, periodicals, magazines, souvenir publications, trave
 
 
 
-[1] Lim, P.P.H. (1992). Singapore, Malaysian and Brunei newspapers: An international union list (pp. 3–56). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 016.0795957 LIM-[LIB]) 
-Dossett, J.W. (1918). Who’s who in Malaya, 1918  (p. 137). Singapore: Printed for Dossett & Co. by Methodist Pub. House. (Call no.: RRARE 920.9595 WHO; Microfilm no.: NL 5829)
-Page 2 Advertisements Column 1. (1918, December 11). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
-Page 3 Advertisements Column 3. (1919, March 4). The Straits Times, p. 3. Retrieved from NewspaperSG.
-Advertisers Association. (1971). A review of advertising in Singapore and Malaysia during early times (p. 26). Singapore: Federal Publications. (Call no.: RSING 659.109 ADV)
+
+
+
+
