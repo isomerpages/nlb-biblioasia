@@ -146,19 +146,11 @@ Early business directories, periodicals, magazines, souvenir publications, trave
 [^18]:[The rise of Warin Studios: All forms of publicity](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370427-1.2.111.6). (1937, April 27). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 [^19]:[*The RODA: Magazine of the [Rotary] clubs of Malaya and Siam*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053556), Oct 1935, pp. 199–203.
 [^20]:Goerlik, B. (2013).[*Incredible Tretchikoff: Life of an artist and adventurer*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200167954) (p. 152). London: Art/Books. (Call no.: RART 759.968 GOR). [Note: *Chinese Girl*, popularly known as *The Green Lady*, portrays a young Chinese woman with a blue-green face and dressed in traditional Chinese costume. It sold for almost £1 million at an auction in London in 2013.].
-[^21]:
-[^22]:
-[^23]:
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-
-
-
-
-
-
-
-
+[^21]:[Goerlik](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200167954), 2013, p. 27
+[^22]:姚梦桐 [ Yao, M.]. (2017). [流动迁移·在地经历: 新加坡视觉艺术现象 (1886–1945)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202991136) [*Liu dong qian yi zai di jing li: Xinjiapo shi jue yi shu xian xiang (1886–1945)*] (p. 136). 新加坡: 南洋理工大学孔子学院. (Call no.: Chinese RSING 709.5957 YMT)
+[^23]:[Advertisers Association](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082134), 1971, p. 26.
+[^24]:Ling, P. (2017). Advertising in Singapore: Regional hub, global model. In R. Crawford, L. Brennan & L. Parker (Eds.). [*Global advertising practice in a borderless world*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203072590) (pp. 176–177). New York: Routledge. (Call no.: RBUS 659.1 GLO)
+[^25]:[Ling](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203072590), 2017, p. 177.
+[^26]:Malayan Advertisers Association. (1963, May). *Newsletter, 2* (3), p. 2. Singapore: Malayan Advertisers Association. Available via PublicationSG.
+[^27]:[Ling](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203072590), 2017, p. 177.
+[^28]:Kuo, E.C.Y. (1980). The sociolinguistic situation in Singapore: Unity in diversity. In E.A. Afendras & E.C.Y. Kuo (Eds.), [*Language and society in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080235) (p. 53). Singapore: Singapore University Press. (Call no.: RSING 409.5957 LAN); Tan, L.G. (2014). *Charting multilingualism in Singapore: From the nineteenth century to the present* [Final Year Project] (pp. 24–25). Retrieved from Nanyang Technological University website.
