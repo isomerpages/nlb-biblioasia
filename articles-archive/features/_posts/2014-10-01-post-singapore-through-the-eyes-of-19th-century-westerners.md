@@ -198,18 +198,18 @@ Wikipedia. (2014, August). <i>Tropical geography</i>. Retrieved from Wikipedia.
 
 [^30]: [Falconer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12496401), 1987, pp. 30–31; Jackson, A. (1992). Imagining Japan: The Victorian perception and acquisition of Japanese culture. <i>Journal of Design History 5</i> (4), 245–256, pp. 247–248. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^31]: Liu, 1987, p. 13: Ramsland, 2010, pp. 14–16.
+[^31]: [Liu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413294), 1987, p. 13: Ramsland, 2010, pp. 14–16.
 
-[^32]: Liu, 1987, pp. 12–13; Worsfold, W.B. (1893). A visit to Java, with an account of the founding of Singapore (pp. 280–281). London: Richard Bentley and Son. Retrieved from Project Gutenberg website; A lady on Singapore. (1892, October 5). Straits Times Weekly, p. 7. Retrieved from NewspaperSG.
+[^32]: [Liu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413294), 1987, pp. 12–13; Worsfold, W.B. (1893). <i>A visit to Java, with an account of the founding of Singapore</i> (pp. 280–281). London: Richard Bentley and Son. Retrieved from Project Gutenberg website; [A lady on Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18921005-1.2.43). (1892, October 5). <i>Straits Times Weekly</i>, p. 7. Retrieved from NewspaperSG.
 
-[^33]: Oddities of Singapore. (1892, August 2). Straits Times Weekly, p. 462. Retrieved from NewspaperSG.
+[^33]: [Oddities of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920802-1.2.21). (1892, August 2). <i>Straits Times Weekly</i>, p. 462. Retrieved from NewspaperSG.
 
-[^34]: Yvan, M. (1855). Six months among the Malays and a year in China (p. 64). London: J. Blackwood. Retrieved from catalog.hathitrust.org. (Call no.: RRARE 959.5 YVA; Accession no.: B29032526G)
+[^34]: Yvan, M. (1855). *[Six months among the Malays and a year in China](https://catalog.hathitrust.org/api/volumes/oclc/7482888.html)* (p. 64). London: J. Blackwood. Retrieved from catalog.hathitrust.org. (Call no.: RRARE 959.5 YVA; Accession no.: B29032526G)
 
-[^35]: Yvan, 1855, pp. 71–73, 81, 101–102; The diseased and indigent of Singapore, their miseries and the means for their relief. (1845, September 23). The Straits Times, p. 3; Singapore street scenes. (1893, May 31). Straits Times Weekly, p. 14. Retrieved from NewspaperSG; Han, M.L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore, 1819–1940. Sojourn: Journal of Social Issues in Southeast Asia, 18 (2), 257–278, pp. 264–265. Retrieved from JSTOR via NLB’s eResources website; Singh, A.R. (1995). A journey through Singapore: Travellers' impressions of a by-gone time (p. 44). Singapore: Landmark Books. (Call no.: RSING 959.57 REE)
+[^35]: [Yvan](https://catalog.hathitrust.org/api/volumes/oclc/7482888.html), 1855, pp. 71–73, 81, 101–102; [The diseased and indigent of Singapore, their miseries and the means for their relief](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18450923-1.2.11). (1845, September 23). <i>The Straits Times</i>, p. 3; [Singapore street scenes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18930531-1.2.88). (1893, May 31). <i>Straits Times Weekly</i>, p. 14. Retrieved from NewspaperSG; Han, M.L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore, 1819–1940. <i>Sojourn: Journal of Social Issues in Southeast Asia</i>, 18 (2), 257–278, pp. 264–265. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Singh, A.R. (1995). *[A journey through Singapore: Travellers' impressions of a by-gone time](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7488917)* (p. 44). Singapore: Landmark Books. (Call no.: RSING 959.57 REE)
 
-[^36]: Cameron, J. (1865). Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wesley, and Malacca; their peoples, products, commerce, and government (p. 82). London: Smith, Elder and Co. Retrieved from BookSG. (Call no.: RRARE 959.5 CAM-[JSB]; Microfilm no.: NL11224; Accession no.: B29032445G)
+[^36]: Cameron, J. (1865). *[Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wesley, and Malacca; their peoples, products, commerce, and government](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx?s=Our tropical possessions in Malayan India)* (p. 82). London: Smith, Elder and Co. Retrieved from BookSG. (Call no.: RRARE 959.5 CAM-[JSB]; Microfilm no.: NL11224; Accession no.: B29032445G)
 
-[^37]: Notes in the Straits. (1843, September 7). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+[^37]: [Notes in the Straits](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18430907-1.2.7). (1843, September 7). <i>The Singapore Free Press</i>, p. 3. Retrieved from NewspaperSG.
 
 [^38]: Mazower, 2002, p. 70; Driver & Martins, 2010, pp. 3–5.
