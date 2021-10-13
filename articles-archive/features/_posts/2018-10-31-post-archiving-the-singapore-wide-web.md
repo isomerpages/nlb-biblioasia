@@ -53,7 +53,7 @@ Featured here are some highlights from the collection.
 <img style="width: 650px; height: 350px;" src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive5.JPG">Founded in 1968, First Toa Payoh Secondary School was one of four secondary schools merged in 2016 due to falling student enrolment. The WAS portal contains several archives of its website, including the 2015 version before it was absorbed into Bartley Secondary School.
 <br><br>
 	<b>National Library Board</b> (Archived on 28 April 2006, 15 November 2009 and 24 August 2015)
-<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive6.JPG">Archived websites are not only useful in tracing organisational history, they also show how website designs and functionality have changed over the years. The National Library Board’s website has undergone several transformations between 2006 and 2016. From static HTML to dynamic content such as carousel banners, websites have to continually reinvent themselves to improve the user experience.</div>
+<img style="width: 550px; height: 400px;" src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive6.JPG">Archived websites are not only useful in tracing organisational history, they also show how website designs and functionality have changed over the years. The National Library Board’s website has undergone several transformations between 2006 and 2016. From static HTML to dynamic content such as carousel banners, websites have to continually reinvent themselves to improve the user experience.</div>
 
 <br>
 <div style="background-color: white;">
