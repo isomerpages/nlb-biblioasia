@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Janice Loo** explains how the travel writings by women such as Dorothy Cator reveal the complex relationships between colonisers and the colonised.
 
-Sandakan, formerly known as Elopura (1889). Courtesy of the Sabah Museum.
+Sandakan, formerly known as Elopura (1889). <i>Courtesy of the Sabah Museum.</i>
 
 The journey was slow as the vessel steered carefully through treacherous waters riddled with corals and submerged islands. Gradually, the bay, “one of the finest harbours in the world”,1 came into view; its entrance guarded by “fine red sandstone cliffs backed with forest-clad hills rising to a height of about 800 feet.”2 Dick and Dorothy Cator had at last reached Sandakan, the capital of British North Borneo (present-day Sabah, Malaysia), where the newly wedded couple were to be based for more than two years between 1893 and 1896.[^3]
 
