@@ -4,7 +4,6 @@ date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/19th-century-western
 layout: post
 ---
-
 #### **Nor Afidah Abd Rahman** shares how the impressions the first Western travellers held of colonial Singapore were influenced by their preconceived perceptions of the exotic East.
 
 From the mid-18th century onwards, Western powers enthusiastically explored the “mysterious” East through military, scientific and commercial missions. Under the flags of different imperial sponsors, the underlying aim of these expeditions was to outdo each other through the accumulation of first-hand knowledge. The broad quest for local knowledge dictated the assembly of experts; in one expedition for example “there was a naturalist, conchologist, mineralogist, botanist, horticulturalist and draughtsmen”.[^1] Their investigations were shared in travel accounts that fit into the standard narrative of scientific exploration.[^2] Steam technology empowered mass travel and the mid-19th century saw more independent travellers exploring the East.[^3] These travel writers stressed the experience of travel itself over methodical reporting of the lands visited. Unfortunately, these accounts, while still informative, have been coloured by the “meditations, reflection and reverie” of the Western traveller.[^4] 
@@ -70,3 +69,71 @@ Singapore was indeed a picture of progress on the eve of the 20th century. Yet i
 <p style="font-size:15px;"><b>Nor Afidah Abd Rahman</b> is a Senior Librarian with the National Library of Singapore.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+**Books**
+
+Bennett, G. (1834). *[Wanderings in New South Wates, Batavia, Pedir Coast, Singapore, and China](https://eresources.nlb.gov.sg/printheritage/detail/1e01ed12-fab7-432c-8743-12b9fc3c93d5.aspx)* (Vol. 2). London: R. Bentley. Retrieved from BookSG. (Call no.: RRARE 910.4 BEN; Microfilm no.: NL7979; Accession no.: B29034264H [v. 2])
+
+Bird, I.L. (2013). <i>The Golden Chersonese and the way thither</i> (Vol. 2). [ebook]. London: Forgotten Book. (Original work published 1883). 
+
+Cameron, J. (1865). *[Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wesley, and Malacca; their peoples, products, commerce, and government](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx?s=Our tropical possessions in Malayan India)*. London: Smith, Elder and Co. Retrieved from BookSG. (Call no.: RRARE 959.5 CAM-[JSB]; Microfilm no.: NL11224; Accession no.: B29032445G)
+
+Davidson, G.F. (2008, October 24). Trade and travel in the Far East or recollections of twenty-one years passed in Java, Singapore, Australia and China [ebook]. Retrieved 2014, July, from archive.org. 
+
+Driver, F., & Martins, L. (Eds.). (2010). <i>Tropical vision in an age of empire</i> (pp. 3–5). Chicago: University of Chicago Press. Retrieved from ProQuest ebray. 
+
+Falconer, J. (1987). *[A vision of the past: A history of early photography in Singapore and Malaya. The photographs of G.R. Lambert & Co., 1880–1910](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12496401)*. Singapore: Times Editions. (Call no.: RCLOS 779.995957 FAL)
+
+Goh, C.B. (2013). *[Technology and entrepot colonialism in Singapore, 1819–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200130222)* (p. 145). Singapore: ISEAS. (Call no.: RSING 338.06409595 GOH)
+
+Hall-Jones, J. & Hooi, C. (1979). *[An early surveyor in Singapore: John Turnbull Thomson in Singapore 1841–1843](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082509)* (pp. 1, 24, 31–34). Singapore: The National Museum. (Call no.: RSING 925 THO)
+
+Hawks, F.L. (1856). <i>The narrative of the expedition of an American squadron to the China seas and Japan, performed in the years 1852, 1853, and 1854, under the command of M.C. Perry, United States Navy…</i> (Vol. 1). Washington: Beverly Tucker. Retrieved from Internet Archive website.
+
+Lim, I. (2003). *[Sketches in the Straits: Nineteenth-century watercolours and manuscript of Singapore, Malacca, Penang and Batavia by Charles Dyce](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12163033)*. Singapore: NUS Museum. (Call no.: RSING 759.2911 LIM)
+
+Liu, G. (Ed.). (1987). *[Nineteenth century prints of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413294)* (p. 7). Singapore: National Museum. (Call no.: RSING 769.4995957 TEO)
+
+Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (Eds.). (1991). *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)* (Vol. 2). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+
+Singh, A.R. (1995). *[A journey through Singapore: Travellers' impressions of a by-gone time](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7488917)*. Singapore: Landmark Books. (Call no.: RSING 959.57 REE)
+
+Wise, M., & Wise, M. H. (1996). *[Travellers tales of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7977864)*. Brighton: In Print Publishing. (Call no.: RSING 959.57 TRA).
+
+Wong, H.S., & Waterson, R. (2010). *[Singapore through 19th century prints & paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091)*. Singapore: Editions Didier Millet and National Museum of Singapore. (Call no.: RSING 769.499595703 WON)
+
+Worsfold, W.B. (1893). <i>A visit to Java, with an account of the founding of Singapore</i> (pp. 280–281). London: Richard Bentley and Son. Retrieved from Project Gutenberg website.
+
+Yvan, M. (1855). *[Six months among the Malays and a year in China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4384527)*. London: J. Blackwood. (Call no.: RRARE 959.5 YVA; Microfilm no.: NL7610)
+
+**Articles**
+
+[A lady on Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18921005-1.2.43). (1892, October 5). Straits Times Weekly, p. 7. Retrieved from NewspaperSG.
+
+Arnold, D. (2000, March). “Illusory riches”: Representations of the tropical world, 1840–1950. <i>Singapore Journal of Tropical Geography</i>, 21 (1), 6–8. Retrieved from EBSCOHost Academic Search Premier
+
+Driver, F. (2004). Distance and disturbance: Travel, exploration and knowledge in the nineteenth century. <i>Transactions of the Royal Historical Society (sixth series)</i>, 14, 73–92. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Dupree, A.H. (1953). Science vs. the military: Dr. James Morrow and the Perry expedition. <i>Pacific Historical Review</i>, 22 (1), 29–31. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Han, M.L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore; 1819–1940. <i>Sojourn: Journal of Social Issues in Southeast Asia</i>, 18 (2), 257–278. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Mazower, M. (2002). Travellers and the Oriental city, c. 1840–1920. <i>Transactions of the Royal Historical Society</i>, 12, 59–111. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[Notes in the Straits](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18430907-1.2.7). (1843, September 7). <i>The Singapore Free Press</i>, p. 3. Retrieved from NewspaperSG.
+
+[Oddities of Singapore}(http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920802-1.2.21). (1892, August 2). <i>Straits Times Weekly</i>, p. 462. Retrieved from NewspaperSG.
+
+Ramsland, M. (2010). Impressions of a young French gentleman’s 1866 visit to the Australian colonies. <i>Australian Studies</i>, 2. Retrieved from National Library of Australia website.
+
+[Singapore street scenes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18930531-1.2.88). (1893, May 31). <i>Straits Times Weekly</i>, p. 14. Retrieved from NewspaperSG.
+
+[The diseased and indigent of Singapore, their miseries and the means for their relief](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18450923-1.2.11). (1845, September 23). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
+
+[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18441205-1.2.8). (1844, December 5). <i>The Singapore Free Press</i>, p. 2 Retrieved from NewspaperSG.
+
+Wikipedia. (2014, August). <i>Tropical geography</i>. Retrieved from Wikipedia.
+
+#### **NOTES**
