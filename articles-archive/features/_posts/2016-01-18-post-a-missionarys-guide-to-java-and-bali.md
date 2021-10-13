@@ -33,7 +33,7 @@ Following the end of the First Opium War (1839–42), Medhurst left for China in
 **Written by:** Ong Eng Chuan
 
 <div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE BOOK</b>
-<br>
+<br><br>
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx">Journal of a Tour Along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling</a></i>
 <br>
 	<b>Author:</b> Walter Henry Medhurst (1796–1857)
