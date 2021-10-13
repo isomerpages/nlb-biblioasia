@@ -116,3 +116,11 @@ Early business directories, periodicals, magazines, souvenir publications, trave
 		<br><br>
 	<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams9.JPG"><br>
 	A book titled <i>Between the Lines: Early Print Advertising in Singapore 1830s–1960s</i> will be launched in conjunction with the exhibition, and sold at major bookshops in Singapore as well as online stores. A series of programmes has been organised too, including guided tours by curators and public talks.</div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams10.jpg" style="width: 100px; height: 100px;">
+<b>Chung Sang Hong</b> is Assistant Director (Exhibitions & Curation) at the National Library, Singapore. He is the lead curator of the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhibition.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
