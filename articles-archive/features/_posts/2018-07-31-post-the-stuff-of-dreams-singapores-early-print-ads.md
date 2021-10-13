@@ -114,5 +114,5 @@ The exhibition will present a variety of print publications from the 1830s to 19
 	<br><br>
 Early business directories, periodicals, magazines, souvenir publications, travel guides, and ephemera such as posters and flyers are also rich sources of advertising material. Print advertising reigned supreme in Singapore until television made its foray here in 1963. The new media revolutionised the dissemination of information and entertainment, and as TV sets became increasingly common in local households, advertisements on television became the game changer in the industry.
 		<br><br>
-	<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams9.JPG">
+	<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams9.JPG"><br>
 	A book titled <i>Between the Lines: Early Print Advertising in Singapore 1830s–1960s</i> will be launched in conjunction with the exhibition, and sold at major bookshops in Singapore as well as online stores. A series of programmes has been organised too, including guided tours by curators and public talks.</div>
