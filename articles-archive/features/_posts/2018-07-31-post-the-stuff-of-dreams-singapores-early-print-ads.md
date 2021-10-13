@@ -53,3 +53,22 @@ Millington Ltd – one of the “Big Four” advertising agencies in Shanghai an
 Among the first homegrown ad agencies in Singapore, one stood out for its vibrant and attractive print advertisements. The name “Warins” typically appears at the corner of many beautifully illustrated advertisements found in premium publications such as the 1930s issues of *The Straits Times Annual*, a periodical on Malayan and Singaporean life and culture, published by Straits Times Press between 1905 and 1982.
 
 Warin Publicity Services was founded by Briton William Joseph Warin.14 W.J. Warin first arrived in Malaya in 1915 as a rubber planter.15 After his plantation business was hit by the Great Depression, Warin reinvented himself as a commercial artist and set up his advertising firm, Warin Studios, in a room on Orchard Road in 1932.16 His business flourished and within a span of three years, Warin Studios had moved into an office in the prestigious Union Building with a sizeable number of staff. The company also harboured ambitions of starting a branch in Hong Kong.17
+
+<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams5.JPG">
+<div style="background-color: white;">William Joseph Warin founded Warin Studios in 1932, which was renamed Warin Publicity Services in 1937. The ad agency was well known for its striking print advertisements. <i>Image reproduced from Malaya: The Journal of the Association of British Malaya, April 1936, p. 294.</i></div>
+
+Warin Studios was renamed Warin Publicity Services in 1937, and counted among its clientele major corporations and import houses in Singapore and Malaya as well as associates in London and New York.18 The agency’s success was largely due to the consistently high-quality and creative works it produced.19 Warin recruited professional talents from overseas, among whom was the Russian-born artist Vladimir Tretchikoff, who later found international fame for his painting *Chinese Girl*.20
+
+Before relocating to Singapore, Tretchikoff had been a successful commercial artist in Shanghai working for Mercury Press, a prominent publisher of an English newspaper.21 Many of Warin’s eye-catching advertisements – inspired by the Art Deco movement – were designed by Tretchikoff.
+
+#### **The Chinese Influence**
+
+With the pre-war advertising scene dominated by Western expatriates, Chinese ad practitioners carved a name for themselves by serving the advertising needs of Chinese-speaking clients. Some were fine arts painters who practised commercial art on the side by creating artworks for advertisements. One of these was the prominent Chinese artist Zhang Ruqi (张汝器), who trained in Shanghai and France, and moved to Singapore in 1927. Renowned for his comic art and caricatures, Zhang founded a commercial art studio and created illustrations for advertisements such as Tiger Balm.22
+
+Local Chinese printers also produced advertisements in the distinctive “picture calendar” (*yue fen pai*; 月份 牌) style which originated in Shanghai. These featured beautiful women dressed in form-fitting cheongsam (or *qipao*), Western attire and even swimsuits, and were highly popular in China and in overseas Chinese communities, including Singapore.
+
+<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams6.JPG">
+<div style="background-color: white;">
+(1 and 2) Art Deco-style advertisements attributed to Vladimir Tretchikoff, a Russian émigré commercial artist with Warin Publicity Services, who practised in Singapore from 1934 to 1941. Images reproduced from The Straits Times Annual, 1940, p. 80; and The Straits Times Annual, 1941, p. 16.
+(3) Whiteaways department store advertising the Daks brand of flannels that were available in “many patterns many styles”. Image reproduced from The Straits Times Annual, 1940, p. 88.
+(4) A 1930s poster – designed in the style of the Shanghai “picture calendar” (yue fen pai; 月份牌) – advertising the services of the Medical Office (神农大药房) at North Bridge Road that was founded in 1866. In 1916, Chinese pharmacist Foo Khee How acquired the business from its German owners and continued to run it as a Western-style pharmacy. It is still in operation today as the Singapore Medical Office.</i></div>
