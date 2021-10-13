@@ -4,7 +4,7 @@ date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/guidetojavabali
 layout: post
 ---
-<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/guide-to-java-and-bali/01_javaandbali.jpg">The title page of <i>Journal of a Tour Along the Coast of Java and Bali</i>. This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/vol-11-issue-4/guide-to-java-and-bali/01_javaandbali.jpg">The title page of <i>Journal of a Tour Along the Coast of Java and Bali</i>. This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 Ironically, the earliest extant English publication to be printed in Singapore and held in the National Library’s collection – in 1830 to be exact – was not about Singapore but on Java and Bali. Written by the English Protestant missionary, Walter Henry Medhurst, whose primary aim was to spread Christianity to the local people, it turned out to be the earliest published account of the history and culture of Bali.
 
@@ -14,7 +14,7 @@ In Singapore, Medhurst boarded a Chinese junk and began a futile search in the M
 
 A year later, on 14 November 1829, Medhurst made a second sojourn from Batavia – this time in the happy company of Reverend Tomlim – to Surabaya in Java. There, they stayed several days with the Chinese residents as well as distributing Christian tracts and scriptures. The two men then sailed in a small native prow to Bali, studying the northern regions of the island, especially Baliling, the traditional centre of foreign contact and trade in Bali.[^1] After nine weeks of travel, Medhurst returned to Batavia on 24 January 1830.
 
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/guide-to-java-and-bali/02_javaandbali.jpg">The Reverend Walter Henry Medhurst (1796–1857) in conversation with Choo Tih-Lang, with a Malay boy in attendance. Printed in oil by G. Baxter and used as the frontispiece in Medhurst’s <i>China: Its State and Prospects</i> published by John Snow (1838). Choo, a native of China, helped Medhurst to translate and transcribe the scriptures into Chinese. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/guide-to-java-and-bali/02_javaandbali.jpg">The Reverend Walter Henry Medhurst (1796–1857) in conversation with Choo Tih-Lang, with a Malay boy in attendance. Printed in oil by G. Baxter and used as the frontispiece in Medhurst’s <i>China: Its State and Prospects</i> published by John Snow (1838). Choo, a native of China, helped Medhurst to translate and transcribe the scriptures into Chinese. <i>Courtesy of Wikimedia Commons.</i></div>
 
 Fortunately for us, Medhurst meticulously recorded his experiences during his journey to Java and Bali. His travel journal, which was intended primarily to provide knowledge about Bali and its surrounding areas in order to facilitate the spread of the Gospel, was printed in Singapore by the Mission Press in 1830.
 
