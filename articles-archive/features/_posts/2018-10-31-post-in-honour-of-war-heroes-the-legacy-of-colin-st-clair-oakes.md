@@ -105,7 +105,7 @@ Colin St Clair Oakes would not see through the completion of Kranji War Cemetery
 <img style="width: 550px; height: 500px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour10.JPG">
 <div style="background-color: white;">An aerial view of Kranji War Cemetery and the Singapore Memorial. The Kranji Military Cemetery of non-world war dead is located on the right. <i>Photo by Weixiang Schrödinger Lim.</i></div>
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>KANJI'S WAR DEAD</b>
 <br><br>
 	Named after the local tree, <i>pokok kranji</i> or <i>keranji</i>, Kranji is situated in the north of Singapore, on a small hill with commanding views over the Straits of Johor. The British first established a military base in this area in the 1930s, which also served as a depot for armaments and ammunition during the early days of World War II. When the Japanese attacked Singapore by air on 8 December 1941, the camp was turned into the battalion headquarters for the Australian forces. On 9 February 1942, Kranji was defended by the Australian 27th Brigade and a company of Chinese Dalforce volunteers when the Japanese first landed on Singapore soil at nearby Kranji Beach.
