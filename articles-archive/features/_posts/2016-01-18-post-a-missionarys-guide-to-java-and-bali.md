@@ -36,7 +36,7 @@ Following the end of the First Opium War (1839–42), Medhurst left for China in
 <br><br>
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx">Journal of a Tour Along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling</a></i>
 <br>
-	<b>Author:</b> Walter Henry Medhurst (1796–1857)
+<b>Author:</b> Walter Henry Medhurst (1796–1857)
 <br>
 <b>Year published:</b> 1830
 <br>
@@ -49,7 +49,7 @@ Following the end of the First Opium War (1839–42), Medhurst left for China in
 <b>Location:</b> Call no.: RRARE 992.2 JOU; Microfilm no.: NL 5827
 </div>
 	
-#### **	NOTES**
+#### **NOTES**
 
 [^1]:Medhurst, W.H. (1830). *[Journal of a tour along the coast of Java and Bali etc, with a short account of the island of Bali particularly of Bali Baliling](https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx)* (p. 63). Singapore: Printed at the Mission Press. Retrieved from BookSG.
 
