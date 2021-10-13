@@ -138,21 +138,27 @@ Early business directories, periodicals, magazines, souvenir publications, trave
 [^10]:Advertisers Association. (1971). [*A review of advertising in Singapore and Malaysia during early times*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082134) (p. 26). Singapore: Federal Publications. (Call no.: RSING 659.109 ADV)
 [^11]:[Notices](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310116-1.2.55.2). (1931, January 16). *The Singapore Free Press*, p. 9. Retrieved from NewspaperSG.
 [^12]:[Page 16 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400102-1.2.122.1). (1940, January 2). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^2]:
+[^13]:[Advertising man arrives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371208-1.2.61). (1937, December 8). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^14]:[*Who’s who in Malaya, 1939: A biographical record of prominent members of Malaya’s community in official, professional and commercial circles*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5627978) (p. 139). (1939). Singapore: Fishers Ltd. (Call no.: RCLOS 920.9595 WHO-[RFL]; [W.J. Warin dies in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500611-1.2.89). (1950, June 11). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^15]:[*Who’s who in Malaya*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5627978), 1939, p. 139. 
+[^16]:[Mainly about Malayans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19381204-1.2.79). (1938, December 4). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^17]:[Warin Studios](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350904-1.2.43). (1935, September 4). *The Singapore Free Press*, p. 6. Retrieved from NewspaperSG.
+[^18]:[The rise of Warin Studios: All forms of publicity](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370427-1.2.111.6). (1937, April 27). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
+[^19]:[*The RODA: Magazine of the [Rotary] clubs of Malaya and Siam*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053556), Oct 1935, pp. 199–203.
+[^20]:Goerlik, B. (2013).[*Incredible Tretchikoff: Life of an artist and adventurer*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200167954) (p. 152). London: Art/Books. (Call no.: RART 759.968 GOR). [Note: *Chinese Girl*, popularly known as *The Green Lady*, portrays a young Chinese woman with a blue-green face and dressed in traditional Chinese costume. It sold for almost £1 million at an auction in London in 2013.].
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
 
 
-Advertising man arrives. (1937, December 8). The Straits Times, p. 12. Retrieved from NewspaperSG.
-Who’s who in Malaya, 1939: A biographical record of prominent members of Malaya’s community in official, professional and commercial circles (p. 139). (1939). Singapore: Fishers Ltd. (Call no.: RCLOS 920.9595 WHO-[RFL]; W.J. Warin dies in Singapore. (1950, June 11). The Straits Times, p. 9. Retrieved from NewspaperSG.
-Who’s who in Malaya, 1939, p. 139. 
-Mainly about Malayans. (1938, December 4). The Straits Times, p. 7. Retrieved from NewspaperSG.
-Warin Studios. (1935, September 4). The Singapore Free Press, p. 6. Retrieved from NewspaperSG.
-The rise of Warin Studios: All forms of publicity. (1937, April 27). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
-The RODA: Magazine of the [Rotary] clubs of Malaya and Siam, Oct 1935, pp. 199–203.
-Goerlik, B. (2013). Incredible Tretchikoff: Life of an artist and adventurer (p. 152). London: Art/Books. (Call no.: RART 759.968 GOR). [Note: Chinese Girl, popularly known as The Green Lady, portrays a young Chinese woman with a blue-green face and dressed in traditional Chinese costume. It sold for almost £1 million at an auction in London in 2013.]. 
+
+
+
+
+
+
