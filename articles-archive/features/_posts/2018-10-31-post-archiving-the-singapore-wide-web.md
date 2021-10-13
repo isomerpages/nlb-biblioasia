@@ -56,3 +56,19 @@ Featured here are some highlights from the collection.
 	<b>National Library Board</b> (Archived on 28 April 2006, 15 November 2009 and 24 August 2015)
 <img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive6.JPG">Archived websites are not only useful in tracing organisational history, they also show how website designs and functionality have changed over the years. The National Library Board’s website has undergone several transformations between 2006 and 2016. From static HTML to dynamic content such as carousel banners, websites have to continually reinvent themselves to improve the user experience.</div>
 
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive7.jpg" style="width: 100px; height: 100px;">
+<b>Shereen Tay</b> is an Associate Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions of the National Library, in particular web archiving.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:Internet Live Stats. (n.d.). *Total number of websites*. Retrieved from the Internet Live Stats website.
+[^2]: Legal Deposit is a statutory function of NLB. All publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The National Library has collected close to 1.3 million print publications over the last 50 years.
+[^3]: The amendments to the NLB Act extended the scope of the Legal Deposit function to include digital materials and web archiving. All publishers are now required by law to deposit one copy of every digital work published in Singapore with the National Library within four weeks of its publication.
+[^4]: Singapore Network Information Centre. (n.d.). *Registration statistics*. Retrieved from the Singapore Network Information Centre website.
+
+
+
