@@ -156,9 +156,10 @@ After a pleasant little tiffin with the District Officer Mr Flemming, we continu
 
 We boarded the Selangor in Malacca and reached Singapore on 13 May, after a most enjoyable trip of 686 miles.
 
-|A few months after Mrs Dare returned to Singapore, her first husband George Mildmay Dare passed away. Some years later, she married G.P. Owen and became known as Mrs G.P. Owen. She was an accomplished singer and musician, and an active figure in the social and cultural life of the colony, frequently taking part in musical and theatrical performances. She was also one of the founders of the Ladies’ Lawn Tennis Club.
-
-|She passed away from an illness on 28 January 1927 and her remains were laid to rest at Bidadari Cemetery.
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+A few months after Mrs Dare returned to Singapore, her first husband George Mildmay Dare passed away. Some years later, she married G.P. Owen and became known as Mrs G.P. Owen. She was an accomplished singer and musician, and an active figure in the social and cultural life of the colony, frequently taking part in musical and theatrical performances. She was also one of the founders of the Ladies’ Lawn Tennis Club.
+<br><br>
+She passed away from an illness on 28 January 1927 and her remains were laid to rest at Bidadari Cemetery.</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
 
