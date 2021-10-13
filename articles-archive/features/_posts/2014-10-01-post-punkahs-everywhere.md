@@ -4,8 +4,6 @@ date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/punkahs-everywhere
 layout: post
 ---
-
-
 #### One of the great travel writers of the 19th century, Isabella Bird was 47 when she visited Singapore. She had just spent several months exploring Japan and was about to embark on a journey through the Malay Peninsula. In between, she made a brief stop in Singapore and wrote about it in a letter to her sister in Edinburgh.
 
 This extract is taken from <i>Traveller’s Tales of Old Singapore</i> by Michael Wise (2008), published by Marshall Cavendish. This letter was first written by Isabella Bird in 1879 and published in <i>The Golden Chersonese</i> in 1883. Reprinted with permission.
@@ -29,3 +27,9 @@ It is only the European part of Singapore which is dull and sleepy looking. No l
 The native streets monopolise the picturesqueness of Singapore with their bizarre crowds, but more interesting still are the bazaars or continuous rows of open shops which create for themselves a perpetual twilight by hanging tatties or other screens outside the side walks, forming long shady alleys, in which crowds of buyers and sellers chaffer over their goods, the Chinese shopkeepers asking a little more than they mean to take, and the Klings always asking double. The bustle and noise of this quarter are considerable, and the vociferation mingles with the ringing of bells and the rapid beating of drums and tom-toms, an intensely heathenish sound. And heathenish this great city is. Chinese joss-houses, Hindu temples, and Mohammedan mosques almost jostle each other, and the indescrib able clamour of the temples and the din of the joss-houses are faintly pierced by the shrill cry from the minarets calling the faithful to prayer, and proclaiming the divine unity and the mission of Mahomet in one breath.
 
 How I wish I could convey an idea, however faint, of this huge, mingled, coloured, busy, Oriental population; of the old Kling and Chinese bazaars; of the itinerant sellers of seaweed jelly, water, vegetables, soup, fruit, and cooked fish, whose unintelligible street cries are heard above the din of the crowds of coolies, boatmen, and gharriemen waiting for hire; of the far-stretching suburbs of Malay and Chinese cottages; of the sheet of water, by no means clean, round which hundreds of Bengalis are to be seen at all hours of daylight unmercifully beating on great stones the delicate laces, gauzy silks, and elaborate flouncings of the European ladies; of the ceaseless rush and hum of industry, and of the resistless, overpowering, astonishing Chinese element, which is gradually turning Singapore into a Chinese city! I must conclude abruptly, or lose the mail.
+
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+
+[^1]: Originating from a Hindi word, a punkah is a manually operated fan consisting of a fabric-covered frame suspended from the ceiling and connected to a cord.
