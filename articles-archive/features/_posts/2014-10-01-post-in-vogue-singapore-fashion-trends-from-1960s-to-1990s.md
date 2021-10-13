@@ -4,11 +4,7 @@ date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/in-vogue
 layout: post
 ---
-Fashion spread from Her World November 1967 p.40. All rights reserved. Singapore Press Holdings, 2014.
-
-Jessie Yak is a Librarian with the National Library of Singapore. She manages the library’s fashion and Chinese arts collections. She is a graduate of Beijing University and the University of Cambridge.
-
-Sundari Balasubramaniam is a Librarian with the National Library of Singapore. Her responsibilities include managing and developing content as well as providing reference and research services. She also manages the library’s Tamil collection.
+Fashion spread from Her World November 1967 p.40. </i>All rights reserved. Singapore Press Holdings, 2014.<i>
 
 In May 2014, the Asian Fashion Exchange was held, celebrating the best of Asian fashion and designers and doubling as a platform for young emerging talent to showcase their collections. To tie in with the event, the National Library held a week-long retrospective on the fashion trends of past decades with a display of books and women’s magazines.
 
@@ -20,7 +16,7 @@ There were only a handful of fashion designers in Singapore in the 1960s, one of
 
 Although the contemporary fashion scene today is peppered with designers like Ashley Isham, Jo Soh, Priscilla Shunmugam, Keith Png and Jonathan Seow – some of whom have established an international presence – older fashion stalwarts from earlier decades such as Tan Yoong, Thomas Wee, Celia Loe and Francis Cheong still contribute to the Singapore fashion scene.
 
-Front covers from Her World November and September 1967. All rights reserved. Singapore Press Holdings, 2014.
+Front covers from Her World November and September 1967. <i>All rights reserved. Singapore Press Holdings, 2014.</i>
 
 Here are some key trends through the decades:
 
@@ -36,9 +32,9 @@ As the controversy over hemlines raged, the height of side-slits in cheongsams a
 
 For local fashion, the prevailing style of the late 1960s was clean lines, neat shapes and a trapeze silhouette, with the A-line shift dress being the defining shape of the time and the mini skirt as the phenomenon of the decade.
 
-Knee-length A-line dresses were popular in the 1960s. Her World November 1967, pp.40–41. All rights reserved. Singapore Press Holdings, 2014.
+Knee-length A-line dresses were popular in the 1960s. Her World November 1967, pp.40–41. <i>All rights reserved. Singapore Press Holdings, 2014.</i>
 
-An advertisement for pleated skirts. Her World, April 1964, inside back cover. All rights reserved. Singapore Press Holdings, 2014.
+An advertisement for pleated skirts. Her World, April 1964, inside back cover. <i>All rights reserved. Singapore Press Holdings, 2014.</i>
 
 #### **1970s Swanky Pants**
 
@@ -52,7 +48,7 @@ Other defining looks of the decade were bellbottom trousers and “pantsuits”.
 
 The local fashion scene was extremely vibrant towards the end of the 1970s, with fashion shows held at upscale venues such as Grand Hyatt, Hilton, Holiday Inn, Raffles Hotel and the Mandarin Orchard. In 1979, European fashion houses Louis Vuitton, Gucci and Christian Dior each opened their first boutiques in the city-state. These laid the foundation for Singapore’s fashion world to enter its golden era in the next decade.
 
-Flared-leg pants, such as bell-bottoms, were styles characteristic of the 1970s. Fashionable Clothing from the Sears Catalogs: mid 1970s, p. 42. All rights reserved, Schiffer Publishing Ltd, Pennsylvania, 2014.
+Flared-leg pants, such as bell-bottoms, were styles characteristic of the 1970s. Fashionable Clothing from the Sears Catalogs: mid 1970s, p. 42. <i>All rights reserved, Schiffer Publishing Ltd, Pennsylvania, 2014.</i>
 
 #### **1980s Power Dressing**
 
@@ -66,9 +62,9 @@ The recession in the 1980s led to more career-oriented designs as jobs and caree
 
 “Yuppies”, a term coined for young urban professionals in the 1980s, were a new breed of ambition-driven and materialistic young people who presented a niche market for the fashion trade. Designers began to target and create apparel that was in keeping with yuppie lifestyle aspirations and fashion sensibilities.
 
-The 1980s saw the market for office wear expand. Her World February 1988, p.5. All rights reserved. Singapore Press Holdings, 2014.
+The 1980s saw the market for office wear expand. Her World February 1988, p.5. <i>All rights reserved. Singapore Press Holdings, 2014.</i>
 
-With more women entering the workforce, designers began to focus on this new market. Fashionable Clothing from the Sears Catalogs: early 1980s, p.96. All rights reserved, Schiffer Publishing Ltd, Pennsylvania, 2014.
+With more women entering the workforce, designers began to focus on this new market. Fashionable Clothing from the Sears Catalogs: early 1980s, p.96. </i>All rights reserved, Schiffer Publishing Ltd, Pennsylvania, 2014.<i>
 
 #### **1990s Less is More**
 
@@ -78,8 +74,14 @@ Media and fashion shows played an important role in the fashion industry during 
 
 Casual and comfortable clothing began to gain popularity among young working women as, thanks to rising affluence, people began to travel more. At the same time, “casual Fridays” began making its way into offices, allowing workers to dress informally for the office on Fridays.
 
-The 1990s saw casual and comfortable clothes gaining popularity. Her World December 1990, p.261. All rights reserved, Singapore Press Holdings, 2014.
+The 1990s saw casual and comfortable clothes gaining popularity. Her World December 1990, p.261. <i>All rights reserved, Singapore Press Holdings, 2014.</i>
 
-In the 1990s, clothes were a reflection of the lifestyle of the wearer. Her World October 1990, p.211. All rights reserved, Singapore Press Holdings, 2014.
+In the 1990s, clothes were a reflection of the lifestyle of the wearer. Her World October 1990, p.211. <i>All rights reserved, Singapore Press Holdings, 2014.</i>
 
-Casual Fridays saw workers trade in their business attire for more casual wear. Her World December 1990, p.32. All rights reserved, Singapore Press Holdings, 2014.
+Casual Fridays saw workers trade in their business attire for more casual wear. Her World December 1990, p.32. <i>All rights reserved, Singapore Press Holdings, 2014.</i>
+
+<p style="font-size:15px;"><b>Jessie Yak</b> is a Librarian with the National Library of Singapore. She manages the library’s fashion and Chinese arts collections. She is a graduate of Beijing University and the University of Cambridge.</p>
+
+<p style="font-size:15px;"><b>Sundari Balasubramaniam</b> is a Librarian with the National Library of Singapore. Her responsibilities include managing and developing content as well as providing reference and research services. She also manages the library’s Tamil collection.</p>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
