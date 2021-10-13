@@ -41,5 +41,18 @@ Featured here are some highlights from the collection.
 
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 30px; background:#fdf5e6">
-	<b>National Day Parade</b> (Archived on 25 August 2015)
+<b>National Day Parade</b> (Archived on 25 August 2015)
 <img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive2.JPG">The National Day Parade website is updated annually to reflect the programmes and events of that year’s celebrations. The National Library has archived the website since 2006, including the momentous SG50 milestone in 2015 celebrating Singapore’s Golden Jubilee.
+<br><br>
+<b>Ministry of Information, Communications and the Arts</b> (Archived on 27 January 2006)
+<img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive3.JPG">The Ministry of Communications and Information has undergone several reorganisations and name changes since its formation in 1959 as the Ministry of Culture. Prior to its most recent change in 2012, it was known as the Ministry of Information, Communications and the Arts.
+<br><br>
+	<b>Fighting SARS Together!</b> (Archived on 3 July 2006)
+<img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive4.JPG">The Severe Acute Respiratory Syndrome (SARS) outbreak in 2003 is a tragic episode in Singapore’s history. This website was launched by the government to keep the public informed of the latest news and information on the disease.
+<br><br>
+	<b>First Toa Payoh Secondary School </b> (Archived on 8 November 2015)
+<img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive5.JPG">Founded in 1968, First Toa Payoh Secondary School was one of four secondary schools merged in 2016 due to falling student enrolment. The WAS portal contains several archives of its website, including the 2015 version before it was absorbed into Bartley Secondary School.
+<br><br>
+	<b>National Library Board</b> (Archived on 28 April 2006, 15 November 2009 and 24 August 2015)
+<img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive6.JPG">Archived websites are not only useful in tracing organisational history, they also show how website designs and functionality have changed over the years. The National Library Board’s website has undergone several transformations between 2006 and 2016. From static HTML to dynamic content such as carousel banners, websites have to continually reinvent themselves to improve the user experience.</div>
+
