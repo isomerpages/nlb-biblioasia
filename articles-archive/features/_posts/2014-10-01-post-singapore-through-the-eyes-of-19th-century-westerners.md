@@ -137,3 +137,80 @@ Ramsland, M. (2010). Impressions of a young French gentleman’s 1866 visit to t
 Wikipedia. (2014, August). <i>Tropical geography</i>. Retrieved from Wikipedia.
 
 #### **NOTES**
+
+[^1]: Liu, G. (Ed.). (1987). Nineteenth century prints of Singapore (p. 7). Singapore: National Museum. (Call no.: RSING 769.4995957 TEO); Dupree, A.H. (1953). Science vs. the military: Dr. James Morrow and the Perry expedition. Pacific Historical Review, 22 (1), 29–31. Retrieved from JSTOR via NLB’s eResources website; Ramsland, M. (2010). Impressions of a young French gentleman’s 1866 visit to the Australian colonies. Australian Studies, 2, 1–2. Retrieved from National Library of Australia website.
+
+[^2]: Driver, F. (2004). Distance and disturbance: Travel, exploration and knowledge in the nineteenth century. Transactions of the Royal Historical Society (sixth series), 14, 73–92, pp. 78, 80–85. Retrieved from JSTOR via NLB’s eResources website.
+
+[^3]: Wong, H.S., & Waterson, R. (2010). Singapore through 19th century prints & paintings (p. 11). Singapore: Editions Didier Millet and National Museum of Singapore. (Call no.: RSING 769.499595703 WON)
+
+[^4]: Mazower, M. (2002). Travellers and the Oriental city, c. 1840–1920. Transactions of the Royal Historical Society, 12, 59–111, p. 60. Retrieved from JSTOR via NLB’s eResources website.
+
+[^5]: Wong & Waterson, 2010, p. 11.
+
+[^6]: Hawks, F.L. (1856). The narrative of the expedition of an American squadron to the China seas and Japan, performed in the years 1852, 1853, and 1854, under the command of M.C. Perry, United States Navy… (Vol. 1; p. 129). Washington: Beverly Tucker. Retrieved from Internet Archive website.
+
+[^7]: Lim, I. (2003). Sketches in the Straits: Nineteenth-century watercolours and manuscript of Singapore, Malacca, Penang and Batavia by Charles Dyce (pp. 15, 32). Singapore: NUS Museum. (Call no.: RSING 759.2911 LIM)
+
+[^8]: Falconer, J. (1987). A vision of the past: A history of early photography in Singapore and Malaya. The photographs of G.R. Lambert & Co., 1880–1910 (p. 10). Singapore: Times Editions. (Call no.: RCLOS 779.995957 FAL)
+
+[^9]: Falconer, 1987, p. 31.
+
+[^10]: Lim, 2003, p. 35.
+
+[^11]: Wise, M., & Wise, M. H. (1996). Travellers tales of Singapore (p. 3). Brighton: In Print Publishing. (Call no.: RSING 959.57 TRA). Description of Singapore as an international “commercial mart” also found in Hawks, 1856, p. 125.
+
+[^12]: Wong & Waterson, 2010, p. 146.
+
+[^13]: Wong & Waterson, 2010, p. 87.
+
+[^14]: Wong & Waterson, 2010, p. 87.
+
+[^15]: Lim, 2003, pp. 48–63.
+
+[^16]: Hall-Jones, J. & Hooi, C. (1979). An early surveyor in Singapore: John Turnbull Thomson in Singapore 1841–1843 (pp. 1, 24, 31–34). Singapore: The National Museum. (Call no.: RSING 925 THO)
+
+[^17]: Bennett, G. (1834). Wanderings in New South Wates, Batavia, Pedir Coast, Singapore, and China (Vol. II; pp. 129–130). London: R. Bentley. Retrieved from BookSG. (Call no.: RRARE 910.4 BEN; Microfilm no.: NL7979; Accession no.: B29034264H [v. 2])
+
+[^18]: Arnold, D. (2000, March). “Illusory riches”: Representations of the tropical world, 1840–1950. Singapore Journal of Tropical Geography, 21 (1), 6–8. Retrieved from EBSCOHost via NLB’s eResources website; Wikipedia. (2014, August). Tropical geography. Retrieved from Wikipedia.
+
+[^19]: Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (Eds.). (1991). One hundred years of Singapore (Vol. 2; p. 29). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE); Goh, C.B. (2013). Technology and entrepot colonialism in Singapore, 1819–1940 (p. 145). Singapore: ISEAS. (Call no.: RSING 338.06409595 GOH); Driver, F., & Martins, L. (Eds.). (2010). Tropical vision in an age of empire (p. 14). Chicago: University of Chicago Press. 
+
+[^20]: Goh, 2013, p. 145.
+
+[^21]: Wong & Waterson, 2010, p. 139.
+
+[^22]: Wong & Waterson, 2010, p. 139.
+
+[^23]: Davidson, G.F. (2008, October 24). Trade and travel in the Far East or recollections of twenty-one years passed in Java, Singapore, Australia and China [ebook] (p. 26). Retrieved 2014, July, from archive.org. 
+
+[^24]: Bennett, 1834, pp. 177–178; Untitled. (1844, December 5). The Singapore Free Press, p. 2 Retrieved from NewspaperSG.
+
+[^25]: Driver & Martins, 2010, p. 14. 
+
+[^26]: Wong & Waterson, 2010, p. 146.
+
+[^27]: Foenander, T. (n.d.). Raphael Semmes’ description of early Singapore. Retrieved from The Navy & Marine Living History Association website.
+
+[^28]: Bird, I.L. (2013). The Golden Chersonese and the way thither [ebook] (pp. 150–151). (Vol. 11; pp. 167–168). London: Forgotten Book. (Original work published 1883). 
+
+[^29]: Bird, 2013, pp. 144–145. 
+
+[^30]: Falconer, 1987, pp. 30–31; Jackson, A. (1992). Imagining Japan: The Victorian perception and acquisition of Japanese culture. Journal of Design History 5 (4), 245–256, pp. 247–248. Retrieved from JSTOR via NLB’s eResources website.
+
+[^31]: Liu, 1987, p. 13: Ramsland, 2010, pp. 14–16.
+
+[^32]: Liu, 1987, pp. 12–13; Worsfold, W.B. (1893). A visit to Java, with an account of the founding of Singapore (pp. 280–281). London: Richard Bentley and Son. Retrieved from Project Gutenberg website; A lady on Singapore. (1892, October 5). Straits Times Weekly, p. 7. Retrieved from NewspaperSG.
+
+[^33]: Oddities of Singapore. (1892, August 2). Straits Times Weekly, p. 462. Retrieved from NewspaperSG.
+
+[^34]: Yvan, M. (1855). Six months among the Malays and a year in China (p. 64). London: J. Blackwood. Retrieved from catalog.hathitrust.org. (Call no.: RRARE 959.5 YVA; Accession no.: B29032526G)
+
+[^35]: Yvan, 1855, pp. 71–73, 81, 101–102; The diseased and indigent of Singapore, their miseries and the means for their relief. (1845, September 23). The Straits Times, p. 3; Singapore street scenes. (1893, May 31). Straits Times Weekly, p. 14. Retrieved from NewspaperSG; Han, M.L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore, 1819–1940. Sojourn: Journal of Social Issues in Southeast Asia, 18 (2), 257–278, pp. 264–265. Retrieved from JSTOR via NLB’s eResources website; Singh, A.R. (1995). A journey through Singapore: Travellers' impressions of a by-gone time (p. 44). Singapore: Landmark Books. (Call no.: RSING 959.57 REE)
+
+[^36]: Cameron, J. (1865). Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wesley, and Malacca; their peoples, products, commerce, and government (p. 82). London: Smith, Elder and Co. Retrieved from BookSG. (Call no.: RRARE 959.5 CAM-[JSB]; Microfilm no.: NL11224; Accession no.: B29032445G)
+
+[^37]: Notes in the Straits. (1843, September 7). The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+
+[^38]: Mazower, 2002, p. 70; Driver & Martins, 2010, pp. 3–5.
+
