@@ -91,7 +91,7 @@ Wondering how he became untied, but thankful to be free, the officer follows his
 Playing on the streets of Singapore with Wing, his little Chinese friend, three-year- old Charlie Foster, an American lad, is suddenly kidnapped. It does not take long for Wing to grasp the severity of the situation; he promptly informs the police and saves his playmate’s life.
 <br><br>
 Fast forward 25 years and the two are still firm friends. Foster, now married, is a speculator of rubber. However, as a result of a slump in the stock market, financial ruin stares him in the face. Once more Wing comes to the rescue of his friend, using his savings and raising money on his personal credit to tide Foster over until another boom in rubber makes him wealthy.Some 10 years pass and Wing is a high official, but secretly a leader in the Chinese revolution. The authorities become aware of his double dealing and issue a warrant offering a reward for his arrest. Foster learns of this and quickly hurries in his car to Wing’s palatial home, and spirits him away to his office. But they are followed and Wing is fired at. He drops to the ground, apparently lifeless.
-
+<br><br>
 News spreads that Wing is dead and a great funeral is held. But Wing is very much alive, and Foster, in a bid to save his loyal friend’s life, nails him shut into a box marked for shipment to Europe. Once the box is hoisted onto the steamer, it is prised open and Wing emerges. The two friends part, swearing eternal devotion to each other.</span>
 
 <div style="background-color: white;">
