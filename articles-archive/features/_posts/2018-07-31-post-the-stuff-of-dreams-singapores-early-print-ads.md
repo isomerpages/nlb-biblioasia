@@ -69,6 +69,33 @@ Local Chinese printers also produced advertisements in the distinctive “pictur
 
 <img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams6.JPG">
 <div style="background-color: white;">
-(1 and 2) Art Deco-style advertisements attributed to Vladimir Tretchikoff, a Russian émigré commercial artist with Warin Publicity Services, who practised in Singapore from 1934 to 1941. Images reproduced from The Straits Times Annual, 1940, p. 80; and The Straits Times Annual, 1941, p. 16.
-(3) Whiteaways department store advertising the Daks brand of flannels that were available in “many patterns many styles”. Image reproduced from The Straits Times Annual, 1940, p. 88.
-(4) A 1930s poster – designed in the style of the Shanghai “picture calendar” (yue fen pai; 月份牌) – advertising the services of the Medical Office (神农大药房) at North Bridge Road that was founded in 1866. In 1916, Chinese pharmacist Foo Khee How acquired the business from its German owners and continued to run it as a Western-style pharmacy. It is still in operation today as the Singapore Medical Office.</i></div>
+(1 and 2) Art Deco-style advertisements attributed to Vladimir Tretchikoff, a Russian émigré commercial artist with Warin Publicity Services, who practised in Singapore from 1934 to 1941. <i>Images reproduced from The Straits Times Annual, 1940, p. 80; and The Straits Times Annual, 1941, p. 16.</i><br>
+(3) Whiteaways department store advertising the Daks brand of flannels that were available in “many patterns many styles”. <i>Image reproduced from The Straits Times Annual, 1940, p. 88.</i><br>
+(4) A 1930s poster – designed in the style of the Shanghai “picture calendar” (<i>yue fen pai</i>; 月份牌) – advertising the services of the Medical Office (神农大药房) at North Bridge Road that was founded in 1866. In 1916, Chinese pharmacist Foo Khee How acquired the business from its German owners and continued to run it as a Western-style pharmacy. It is still in operation today as the Singapore Medical Office.</div>
+
+#### **Post-war Developments**
+
+With the outbreak of World War II, the business of most ad agencies came to a grinding halt. Many advertising practitioners resumed their trade after the Japanese Occupation ended in September 1945. Newcomers entered the scene in search of opportunities as Malaya returned to British rule.
+
+Still, the post-war advertising industry was dominated by firms with links to Britain, Australia, the United States and Hong Kong, with expatriates mostly holding the key positions. In 1948, Singapore’s first advertising association, Association of Accredited Advertising Agents of Malaya (4As), was formed to safeguard stakeholders’ interests and raise the standards of the local advertising industry. Its three founding members – Masters Ltd, Millington Ltd and Messrs C.F. Young – were key players who had been active before the war.23
+
+The post-war era also saw the penetration of international advertising firms into the Asian market who successfully tied up with local agencies as partners. In the 1950s, Masters Ltd partnered leading London agency, S.H. Benson, to grow its business, eventually becoming S.H. Benson (Singapore) in 1961 with offices in Kuala Lumpur and Hong Kong. The company subsequently merged with Ogilvy & Mather and became Ogilvy, Benson & Mather in 1971, making Masters the first Singapore agency to have evolved into an international agency.24
+
+C.F. Young had been a manager at the aforementioned APB before the war. In 1946, he started his own firm, C.F. Young Publicity, which was later renamed Young Advertising and Marketing Ltd to serve local and overseas clients. It was eventually acquired by a British company, London Press Exchange, in 1966 and was renamed LPE Singapore Ltd.25
+
+Another foreign agency, Cathay Advertising Limited, seemed to have followed a similar trajectory. Its founder, Australian businesswoman Elma Kelly, went to Shanghai in the early 1930s to work for Millington Ltd. She was posted to Hong Kong to manage the agency’s branch office in 1935 but ended up in internment when the city fell to the Japanese in 1941.
+
+<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams7.JPG">
+<div style="background-color: white;">(Left) Grundig marketed its radiogram as an essential item in the modern home in the 1960s. <i>Image reproduced from The Straits Times Annual, 1961, p. xiv.</i><br>
+(Right) This advertisement by The Royal Dutch Mails evoked the modernity and glamour associated with luxury cruise liners. <i>Image reproduced from The Straits Times Annual, 1937, p. 140.</div>
+	
+	After the war, Kelly and a few former Millington staff started Cathay Advertising in Hong Kong. Its Singapore office opened in 1946, and branches were subsequently set up in Kuala Lumpur and Bangkok. In 1963, Cathay was reported to be one of the three largest ad agencies in Singapore.26 It later merged with leading Australian agency George Patterson Pte Ltd and was eventually acquired by Ted Bates & Co (now Bates Worldwide)27, a New York-based advertising giant that expanded into Southeast Asia in the late 1960s.
+
+After the war, Kelly and a few former Millington staff started Cathay Advertising in Hong Kong. Its Singapore office opened in 1946, and branches were subsequently set up in Kuala Lumpur and Bangkok. In 1963, Cathay was reported to be one of the three largest ad agencies in Singapore.26 It later merged with leading Australian agency George Patterson Pte Ltd and was eventually acquired by Ted Bates & Co (now Bates Worldwide)27, a New York-based advertising giant that expanded into Southeast Asia in the late 1960s.
+
+After the war, Kelly and a few former Millington staff started Cathay Advertising in Hong Kong. Its Singapore office opened in 1946, and branches were subsequently set up in Kuala Lumpur and Bangkok. In 1963, Cathay was reported to be one of the three largest ad agencies in Singapore.26 It later merged with leading Australian agency George Patterson Pte Ltd and was eventually acquired by Ted Bates & Co (now Bates Worldwide)27, a New York-based advertising giant that expanded into Southeast Asia in the late 1960s.
+
+After the war, Kelly and a few former Millington staff started Cathay Advertising in Hong Kong. Its Singapore office opened in 1946, and branches were subsequently set up in Kuala Lumpur and Bangkok. In 1963, Cathay was reported to be one of the three largest ad agencies in Singapore.26 It later merged with leading Australian agency George Patterson Pte Ltd and was eventually acquired by Ted Bates & Co (now Bates Worldwide)27, a New York-based advertising giant that expanded into Southeast Asia in the late 1960s.
+
+After the war, Kelly and a few former Millington staff started Cathay Advertising in Hong Kong. Its Singapore office opened in 1946, and branches were subsequently set up in Kuala Lumpur and Bangkok. In 1963, Cathay was reported to be one of the three largest ad agencies in Singapore.26 It later merged with leading Australian agency George Patterson Pte Ltd and was eventually acquired by Ted Bates & Co (now Bates Worldwide)27, a New York-based advertising giant that expanded into Southeast Asia in the late 1960s.
+
