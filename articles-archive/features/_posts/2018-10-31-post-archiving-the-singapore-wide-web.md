@@ -41,10 +41,10 @@ Featured here are some highlights from the collection.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 30px; background:#fdf5e6">
 <b>National Day Parade</b> (Archived on 25 August 2015)
-<img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive2.JPG">The National Day Parade website is updated annually to reflect the programmes and events of that year’s celebrations. The National Library has archived the website since 2006, including the momentous SG50 milestone in 2015 celebrating Singapore’s Golden Jubilee.
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive2.JPG">The National Day Parade website is updated annually to reflect the programmes and events of that year’s celebrations. The National Library has archived the website since 2006, including the momentous SG50 milestone in 2015 celebrating Singapore’s Golden Jubilee.
 <br><br>
 <b>Ministry of Information, Communications and the Arts</b> (Archived on 27 January 2006)
-<img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive3.JPG">The Ministry of Communications and Information has undergone several reorganisations and name changes since its formation in 1959 as the Ministry of Culture. Prior to its most recent change in 2012, it was known as the Ministry of Information, Communications and the Arts.
+<img style="width: 450px; height: 420px;" src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive3.JPG">The Ministry of Communications and Information has undergone several reorganisations and name changes since its formation in 1959 as the Ministry of Culture. Prior to its most recent change in 2012, it was known as the Ministry of Information, Communications and the Arts.
 <br><br>
 	<b>Fighting SARS Together!</b> (Archived on 3 July 2006)
 <img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive4.JPG">The Severe Acute Respiratory Syndrome (SARS) outbreak in 2003 is a tragic episode in Singapore’s history. This website was launched by the government to keep the public informed of the latest news and information on the disease.
