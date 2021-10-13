@@ -50,7 +50,7 @@ Acclaimed poet and playwright *Robert Yeo* pays tribute to his daughter and a no
 The personal papers of a noted Peranakan family provide a window into the lives of the Straits Chinese community during the colonial era, as *Ong Eng Chuan* reveals. [(PDF)](/files/pdf/vol-14/v14-issue3_Papers.pdf)
 
 
-**Makan Places and Coffee Socks** <br>
+**[Makan Places and Coffee Socks](/vol-14/issue-3/oct-dec-2018/makan-place-coffee-s/)** <br>
 *Barbara Quek* highlights publications that showcase Singapore’s unique hawker fare from the National Library’s Legal Deposit Collection. [(PDF)](/files/pdf/vol-14/v14-issue3_CoffeeSocks.pdf)
 
 
