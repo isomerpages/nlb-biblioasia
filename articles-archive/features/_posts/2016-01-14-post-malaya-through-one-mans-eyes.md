@@ -38,7 +38,7 @@ The FMS was instituted in 1895 after Swettenham secured agreements from the Mala
 
 <div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE BOOK</b>
 <br><br>
-<b>Title:</b> <i>British Malaya: An Account of the Origin and Progress of British Influence in Malaya</i>
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250035">British Malaya: An Account of the Origin and Progress of British Influence in Malaya</a></i>
 <br>
 <b>Author:</b> Frank Athelstane Swettenham (1850–1946)
 <br>
