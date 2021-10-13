@@ -4,7 +4,6 @@ date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/raffles-hotel
 layout: post
 ---
-
 #### **Gretchen Liu** traces the history of this grand hotel, from its heyday of glitz and glamour to near ruin and its subsequent reincarnation into the heritage icon it is today.
 
 Jinrickshaws picking up travellers just outside Raffles Hotel, circa 1910. <i>Courtesy of Raffles Singapore.</i>
@@ -112,3 +111,62 @@ This article was adapted from the book Raffles Hotel by Gretchen Liu, Editions D
 <p style="font-size:15px;"><b>Gretchen Liu</b> is a former journalist and book editor as well as the author of several illustrated books, including <i>Pastel Portraits: Singapore’s Architectural Heritage</i> and <i>Singapore: A Pictorial History</i>. As the former curator of the Raffles Hotel Collection, she oversaw all of the heritage projects during the hotel’s 1989–1992 restoration and for some years after that.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+**Newspapers and Periodicals**
+
+Where shall we stay: The hotels and resthouses of Malaya. (1936). *[The Straits Times Annual](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181897)*. 
+
+<i>The sphere, orient number.</i> (1936, November 28).
+
+Various Raffles Hotel brochures circa 1900–1950s.
+
+**Guidebooks**
+
+<i>Bradshaws’ through routes, overland guide and handbook to India, Egypt, Turkey, Persia, China, Australia and New Zealand</i>. (1890). London: W.J. Adams & Sons. (Bradshaw’s guide office). (Not available in NLB holdings)
+
+<i>Handbook for travellers to Singapore</i>. (1920). Singapore: Far east Tourist Agency. Retrieved from Roots.sg website.
+Books
+
+Borland, B. (1933). *[Passports for Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2230558)*. New York: Long & Smith Inc. (Call no.: R 950 BOR)
+
+Brown, E.A. [1935]. *[Indiscreet memories](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5276937)*. London: Kelly & Walsh. (Call no. RCLOS 959.51 BRO-[RFL])
+
+Calder, R. (1989). <i>Wilie: The life of Somerset Maugham</i>. London; Heinemann. (Not available in NLB holdings)
+
+Cameron, C. (1880). <i>Wanderings in South-Eastern seas</i>. London: T, Fisher Unwin Ltd. 
+
+Chaplin, C. (1964). <i>My autobiography</i>. London: The Bodley Head. (Not available in NLB holdings)
+
+Coward, N. (1937). *[Present indicative](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202576633)*. New York: Doubleday, Doran and Company. (Call no.: RRARE 882.912 COW; Accession no.: B29268862J)
+
+Curle, R. (1923). *[Into the east: Notes on Burma and Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2365925)*. London: Macmillan and Co. (Call no.: RCLOS 915.95 CUR-[RFL])
+
+Kipling, R. (1900). *[From sea to sea, and other sketches: Letters of travel](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202604638)* (Vol. 1). London: Macmillan and Co. (Call no.: RRARE 915.4 KIP; Accession no.: B29032482H [v.1])
+
+Lockhart, R.H.B. (1921). <i>Return to Malaya</i>. London: Putnam. (Call no.: RCLOS 959.5 LOC-[ET]) 
+
+Maugham, W.S. (1926). <i>The casuarina tree</i>. London: Heinemann. (Not available in NLB holdings)
+
+Macmillan, A. (1925). *[Seaports of the Far East: Historical and descriptive, commercial and industrial facts, figures, & resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13051813)*. London: W. H. & L. Collingridge. (Call no.: RCLOS 387.12095 SEA)
+
+Morley, S. (1969). <i>A talent to amuse: A biography of Noel Cowar</i>. Boston: Little Brown and Company. (Not available in NLB holdings)
+
+Morris, I.J. (1958). *[My east was gorgeous](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203099165)*. London: The Travel Book Club. (Call no.: RCLOS 915.9 MOR)
+
+Morrison, I. (1942). *[Malayan postscript](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4117007)*. London: Faber. (Call no.: RCLOS 940.53595 MOR)
+
+Perkins, C.B. (1909). *[Travels from the Grandeurs of the west to the mysteries of the east or from occident to orient and around the world](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12631179)*. San Francisco, Calif.: C. B. Perkins Co. (Call no, RCLOS 910.4 PER)
+
+Plate, A.G. (1906). *[A cruise through eastern seas, being a travellers’ guide to the principal objects of interest in the Far East](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4806361)*. London: Llyod Bremen. (Call no.: RRARE 915 PLA; Microfilm no.: NL26040)
+
+Rennie, J.S.M. (1933). *[Musings of J.S.M.R., mostly Malayan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4412322)*. Singapore: Malaya Pub. House. (Call no.: RRARE 959.5 REN; Microfilm no.: NL8447)
+
+Turnbull, C.M. (1977). *[A history of Singapore, 1819–1975](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1194599)*. Kuala Lumpur: Oxford University Press. (Call no.: RSING 959.57 TUR-[HIS])
+
+Wright, A., & Cartwright, H.A. (1908). *[Twentieth century impressions of British Malaya: Its history, people, commerce, industries and resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591)*. London: Llyod’s Greater Britain Pub. (Call no.: RRARE 959.52033 TWE; Microfilm no.: NL16084)
+
+Wright, N.H. (2003). *[Respected citizens: The history of Armenians in Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12231618)*. Middle Park, Vic.: Amassia Publishing. (Call no.: RSING 305.891992 WRI)
+
+Wynd, O. (1958). *[Moon of the tiger](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5024324)*. London: Cassell. (Call no.: RCLOS 823.914 WYN-[RFL]))
