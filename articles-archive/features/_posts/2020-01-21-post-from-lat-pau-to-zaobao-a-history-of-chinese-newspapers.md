@@ -121,7 +121,7 @@ Other Chinese newspapers followed suit and produced their own supplements, now c
 <br><br>
 |In 1925, <i>Nan Feng</i> (南风) was published by <i>Sin Kuo Min Jit Poh while Xing Guang</i> (星光) was published by <i>Lat Pau</i>. These supplements helped define Singapore Chinese literature and establish its future direction of growth.
 <br><br>
-|Other important <i>ukan</i> that contributed to the development of Chinese literature in Singapore were <i>Huang Dao</i> (荒岛) (1927) and <i>Lu Yi</i> (绿漪) (1927) by <i>Sin Kuo Min Jit Poh</i>; <i>Ye Lin</i>(椰林) (1928) by <i>Lat Pau</i>; <i>Hong Huang</i> (洪荒) (1927), <i>Wen Yi San Ri Kan</i> (文艺三日刊) (1929) and <i>Shi Sheng</i> (狮声) (1933) by <i>Nanyang Siang Pau</i>; and <i>Ye Pa</i> (野葩) (1930) and <i>Chen Xing</i> (晨星) (1937) by *Sin Chew Jit Poh*. </span>
+Other important <i>fukan</i> that contributed to the development of Chinese literature in Singapore were <i>Huang Dao</i> (荒岛) (1927) and <i>Lu Yi</i> (绿漪) (1927) by <i>Sin Kuo Min Jit Poh</i>; <i>Ye Lin</i>(椰林) (1928) by <i>Lat Pau</i>; <i>Hong Huang</i> (洪荒) (1927), <i>Wen Yi San Ri Kan</i> (文艺三日刊) (1929) and <i>Shi Sheng</i> (狮声) (1933) by <i>Nanyang Siang Pau</i>; and <i>Ye Pa</i> (野葩) (1930) and <i>Chen Xing</i> (晨星) (1937) by *Sin Chew Jit Poh*. </span>
 
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 <b>THE SWORDSMAN MAKES ITS DEBUT</b>
