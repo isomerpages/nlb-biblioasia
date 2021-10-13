@@ -4,6 +4,8 @@ date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/guidetojavabali
 layout: post
 ---
+![Alt text for image on Isomer site](/images/vol-11-issue-4/guide-to-java-and-bali/01_javaandbali.jpg)
+
 Ironically, the earliest extant English publication to be printed in Singapore and held in the National Library’s collection – in 1830 to be exact – was not about Singapore but on Java and Bali. Written by the English Protestant missionary, Walter Henry Medhurst, whose primary aim was to spread Christianity to the local people, it turned out to be the earliest published account of the history and culture of Bali.
 
 In August 1828, Medhurst left his post in Batavia (now Jakarta), Indonesia, and travelled to Singapore. His intention was to meet with two fellow missionaries, the Reverend Jacob Tomlim and Karl Friedrich August Gützlaff, and travel to Siam (Thailand) and the coast of China.
