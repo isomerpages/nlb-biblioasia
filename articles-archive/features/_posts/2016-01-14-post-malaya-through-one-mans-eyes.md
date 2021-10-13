@@ -50,13 +50,13 @@ The FMS was instituted in 1895 after Swettenham secured agreements from the Mala
 
 #### **NOTES**
 
-[^1]:Barlow, H.S. (1995). Writings: Swettenham as historian. In Swettenham (pp. 691–715). Kuala Lumpur: Southdene. (Call no.: RSING 959.5104 BAR)
+[^1]:Barlow, H.S. (1995). Writings: Swettenham as historian. *[In Swettenham](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524)* (pp. 691–715). Kuala Lumpur: Southdene. (Call no.: RSING 959.5104 BAR)
 
-[^2]:Reid, A. (2010). Imperial alchemy: Nationalism and political identity in Southeast Asia (p. 94). Cambridge, UK; New York: Cambridge University Press. (Call no.: RSEA 320.540959 REI)
+[^2]:Reid, A. (2010). *[Imperial alchemy: Nationalism and political identity in Southeast Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13352726)* (p. 94). Cambridge, UK; New York: Cambridge University Press. (Call no.: RSEA 320.540959 REI)
 
-[^3]:Savage, V.R., & Kong, L. (1995). Hugh Clifford and Frank Swettenham: Environmental cognition and the Malayan colonial process. In E. Thumboo & T. Kandiah (Eds.). The writer as historical witness: Studies in Commonwealth literature (pp. 409–425). (Call no.: RSING 820.99171241120 WRI)
+[^3]:Savage, V.R., & Kong, L. (1995). Hugh Clifford and Frank Swettenham: Environmental cognition and the Malayan colonial process. In E. Thumboo & T. Kandiah (Eds.). *[The writer as historical witness: Studies in Commonwealth literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7504056)* (pp. 409–425). (Call no.: RSING 820.99171241120 WRI)
 
-[^4]:Barlow, 1995, pp. 691–715; Chew, E. (1968). Sir Frank Swettenham and the Federation of the Malay States. Modern Asian Studies, 2 (I), 51–69. Retrieved from JSTOR via NLB’s eResources website.
+[^4]:[Barlow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524), 1995, pp. 691–715; Chew, E. (1968). Sir Frank Swettenham and the Federation of the Malay States. Modern Asian Studies, 2 (I), 51–69. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^5]:[Kelly & Walsh: British Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19061124-1.2.23.1). (1906, November 24). *The Singapore Free Press*, p. 6; [Kelly & Walsh: New books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070204-1.2.16.1). (1907, February 4). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
 
