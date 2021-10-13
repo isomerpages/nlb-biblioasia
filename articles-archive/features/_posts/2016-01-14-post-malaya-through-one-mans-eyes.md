@@ -4,23 +4,23 @@ date: 2016-01-14
 permalink: /vol-11/issue-4/jan-mar-2016/malayathroughoneman
 layout: post
 ---
-In the early 1900s, there were few authoritative resources that could provide an accurate picture of Malaya’s colonial history. That changed in 1906, when the book British Malaya was published.
+In the early 1900s, there were few authoritative resources that could provide an accurate picture of Malaya’s colonial history. That changed in 1906, when the book *British Malaya* was published.
 
 Written by Frank Swettenham, the first Resident-General of the Federated Malay States (FMS), the book details the history of the Straits Settlements ports of Singapore, Malacca and Penang – in particular, the establishment of British presence in these colonies.
 
 The National Library carries several copies of the book’s 1907 edition. Of these, two copies are in their original yellow covers and were donated by the philanthropist and architect Koh Seow Chuan in 2007.
 
-As the official files of the Colonial Office were not accessible at the time, British Malaya remained the only reliable source of information on Malaya’s colonial history till the 1950s, exercising a profound influence over the historiography of Malaya. As Singapore was the administrative capital of British Malaya before World War II, Swettenham’s book was widely read in Singapore.
+As the official files of the Colonial Office were not accessible at the time, *British Malaya* remained the only reliable source of information on Malaya’s colonial history till the 1950s, exercising a profound influence over the historiography of Malaya. As Singapore was the administrative capital of *British Malaya* before World War II, Swettenham’s book was widely read in Singapore.
 
-After retiring in 1904, Swettenham delivered a talk at the London School of Economics on colonial administration in Malaya where he lamented the lack of a textbook on this subject. He likely started writing British Malaya soon after, publishing it two years later.[^1]
+After retiring in 1904, Swettenham delivered a talk at the London School of Economics on colonial administration in Malaya where he lamented the lack of a textbook on this subject. He likely started writing *British Malaya* soon after, publishing it two years later.[^1]
 
-In the preface to the original edition, Swettenham stated that the aim of the book was to explain how the British came to be involved in the region. British Malaya consists of three parts: a history of the Straits Settlements and Britain’s formal possessions; a description of the FMS states under Britain’s indirect rule; and a comparison of the FMS’s progress with other territories in Malaya that were outside British protection. The book includes vivid descriptions of landscapes, people, culture, commerce and governments, including detailed biographical descriptions of the Malay rulers. It is also the first book to use the term Malaya “as if it were the name of a country”.[^2]
+In the preface to the original edition, Swettenham stated that the aim of the book was to explain how the British came to be involved in the region. *British Malaya* consists of three parts: a history of the Straits Settlements and Britain’s formal possessions; a description of the FMS states under Britain’s indirect rule; and a comparison of the FMS’s progress with other territories in Malaya that were outside British protection. The book includes vivid descriptions of landscapes, people, culture, commerce and governments, including detailed biographical descriptions of the Malay rulers. It is also the first book to use the term Malaya “as if it were the name of a country”.[^2]
 
-Swettenham wrote from the point of view of an insider; someone intimately involved in the development of the FMS. Some scholars have commented that Swettenham recorded the role he personally played in the development of the FMS even as he was documenting its history.[^3] While others have questioned the veracity of some of his interpretations of events and people,[^4] British Malaya nevertheless remains as one of the canonical texts on the FMS.
+Swettenham wrote from the point of view of an insider; someone intimately involved in the development of the FMS. Some scholars have commented that Swettenham recorded the role he personally played in the development of the FMS even as he was documenting its history.[^3] While others have questioned the veracity of some of his interpretations of events and people,[^4] *British Malaya* nevertheless remains as one of the canonical texts on the FMS.
 
-The first edition of British Malaya was published with a coloured map of Malaya and over 50 illustrations. The cover is bright yellow – a distinctive characteristic of Swettenham’s books, possibly linked to his longstanding collaboration with his London publisher, John Lane. British Malaya was distributed locally by Kelly & Walsh at $8.50 per copy,[^5] and was reprinted many times. Corrections and additions were made in the 1920, 1929 and 1948 editions.
+The first edition of *British Malaya* was published with a coloured map of Malaya and over 50 illustrations. The cover is bright yellow – a distinctive characteristic of Swettenham’s books, possibly linked to his longstanding collaboration with his London publisher, John Lane. *British Malaya* was distributed locally by Kelly & Walsh at $8.50 per copy,[^5] and was reprinted many times. Corrections and additions were made in the 1920, 1929 and 1948 editions.
 
-In 1920, Swettenham added an appendix to the book in response to Cecil Clementi Smith’s pamphlet, Notes on Some of the Statements in Frank Swettenham’s Book “British Malaya”, which challenged Swettenham’s claim that he had proposed the FMS scheme. In the appendix, Swettenham provided documentary evidence that he had submitted a memorandum on the formation of the FMS to Smith, who in 1893 was the Governor of the Straits Settlements.[^6]
+In 1920, Swettenham added an appendix to the book in response to Cecil Clementi Smith’s pamphlet, *Notes on Some of the Statements in Frank Swettenham’s Book “British Malaya”*, which challenged Swettenham’s claim that he had proposed the FMS scheme. In the appendix, Swettenham provided documentary evidence that he had submitted a memorandum on the formation of the FMS to Smith, who in 1893 was the Governor of the Straits Settlements.[^6]
 
 Swettenham again revised the book in 1929 to include corrections and a new chapter “Twenty-years After” detailing the progress of the FMS. In 1948, a reprint edition was released posthumously by the publisher George Allen and Unwin. In the introduction, written two months before his death in 1946, Swettenham voiced his opposition to the formation of the Malayan Union.
 
@@ -32,7 +32,7 @@ The FMS was instituted in 1895 after Swettenham secured agreements from the Mala
 
 <div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE BOOK</b>
 <br><br>
-<b>Title:</b> British Malaya: An Account of the Origin and Progress of British Influence in Malaya
+<b>Title:</b> <i>British Malaya: An Account of the Origin and Progress of British Influence in Malaya</i>
 <br>
 <b>Author:</b> Frank Athelstane Swettenham (1850–1946)
 <br>
