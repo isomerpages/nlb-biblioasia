@@ -149,15 +149,15 @@ Traditional Malay healers are the main providers of Malay medicine. To achieve t
 <br><br>
 Also known as “Mak Bidan” or “dukun beranak”, these midwives specialise in women’s health matters, including fecundity, midwifery and contraception, along with a variety of beauty-related disorders. Up till the 1950s, it was common for mothers in Singapore to deliver their babies at home with the help of village midwives. Today, the role of these women is limited to providing antenatal and postnatal care, such as confinement services for new mothers or general massage therapies.
 <br><br>
-|**REFERENCES**
+<b>REFERENCES</b>
 <br><br>
-|Dennys, N.B. (1894). [*A descriptive dictionary of British Malaya*](https://eresources.nlb.gov.sg/printheritage/detail/aea703a6-d3b0-4a4e-956b-82390c582891.aspx) (p. 104). London: London and China Telegraph. (Retrieved from BookSG; Accession no.: B02984605A)
+Dennys, N.B. (1894). [<i>A descriptive dictionary of British Malaya</i>](https://eresources.nlb.gov.sg/printheritage/detail/aea703a6-d3b0-4a4e-956b-82390c582891.aspx) (p. 104). London: London and China Telegraph. (Retrieved from BookSG; Accession no.: B02984605A)
 <br><br>
-|Gerrard, P.N. (1905). [*A vocabulary of Malay medical terms* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5454824)(p. 24). Singapore: Kelly & Walsh. (Call no.: RRARE 610.39928 GER; Microfilm no.: NL27512)
+Gerrard, P.N. (1905). [<i>A vocabulary of Malay medical terms</i> ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5454824)(p. 24). Singapore: Kelly & Walsh. (Call no.: RRARE 610.39928 GER; Microfilm no.: NL27512)
 <br><br>
-|Skeat, W.W. (1900). [*Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (pp. 424–425). London: Macmillan and Co., Limited. (Retrieved from BookSG; Accession no.: B02930611K)
+Skeat, W.W. (1900). [<i>Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula</i>](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (pp. 424–425). London: Macmillan and Co., Limited. (Retrieved from BookSG; Accession no.: B02930611K)
 <br><br>
-|Wilkinson, R.J. (1908–10). [*Papers on Malay subjects. [First series, 4], Life and customs*](https://eresources.nlb.gov.sg/printheritage/detail/cbae6616-f86a-4d1b-a8aa-9550fdcc980b.aspx) (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Retrieved from BookSG; Microfilm no.: NL263)
+Wilkinson, R.J. (1908–10). [<i>Papers on Malay subjects. [First series, 4], Life and customs</i>](https://eresources.nlb.gov.sg/printheritage/detail/cbae6616-f86a-4d1b-a8aa-9550fdcc980b.aspx) (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Retrieved from BookSG; Microfilm no.: NL263)
 </span>
 <br>
 <div style="background-color: white;">
