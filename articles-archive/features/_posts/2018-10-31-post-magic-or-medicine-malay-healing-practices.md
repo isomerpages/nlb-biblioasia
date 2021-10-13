@@ -131,6 +131,12 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 		<th>For Violent Headaches and Loss of Energy</th>
 		<th>For Dizziness and Vertigo</th>
 		<th>For Night Chills</th>
+	</tr>
+	<tr>
+		<th>Ingredients</th>
+		<th>Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br><i>Smilax china</i><br>Mace (35 cents) <br> Nutmeg (5 cents) <br> Henbane <br>Javanese ginger</th>
+		<th> 5 young shoots of betel vine <br>Red onion <br>Fennel seeds</th>
+		<th> <i>Daun medan</i> (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut</th>
 	
 </table>
 </span>
