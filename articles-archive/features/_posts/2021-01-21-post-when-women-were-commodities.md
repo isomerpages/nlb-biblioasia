@@ -4,7 +4,6 @@ date: 2021-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/women-w-commodities/
 layout: post
 ---
-
 #### Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. **Adeline Foo** examines the lives of the unfortunate girls and women who were sold into prostitution.
 
 <img   style="width: 320px; height: 420px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w1.JPG">
@@ -112,40 +111,41 @@ As cabarets and nightclubs burgeoned in Singapore,[^34] women who lacked educati
 
 Because of the lowly status of women and the stigma around sex work, the lives of prostitutes in late 19th- and early 20th-century Singapore are typically given scant attention. However, they are an important part of Singapore’s social history, as historian James Warren has noted: “Much of the history of Singapore between 1870 and 1940 was in part shaped, and in large measure endured, by prostitutes and coolies.”[^35]
 
-|**THE OFFICE TO PROTECT VIRTUE**
-
-|The Po Leung Kuk was set up in Singapore in 1888, about 10 years after it was first established in Hong Kong. The Po Leung Kuk, or the Office to Protect Virtue, was created to offer protection to girls who had been sold or lured into prostitution.
-
-|In Singapore, the Po Leung Kuk also provided protection and assistance for the repatriation of women and girls to China. Its other role was to supply marriage partners to a predominantly male population who did not have the means to find a bride from their village.
-
-|In addition to housing girls rescued from prostitution, the Po Leung Kuk took in young female servants known as *mui tsai* if they had been abused.[^20] The Po Leung Kuk also functioned as a “halfway house”, offering shelter, food and training to rehabilitate girls. Once the residents turned 18, they were eligible for marriage. All applications made to the Po Leung Kuk by men to select brides were carefully screened and approved by the management committee.
-
-|The Po Leung Kuk had its beginnings in Lock Hospital in the Kandang Kerbau area, moving subsequently to larger premises on York Hill in Chinatown which could accommodate as many as 300 residents.[^21]
-
-|Women who were rescued and rehabilitated by the Po Leung Kuk were sought after as wives as they were trained in domestic service, and acquired skills such as dressmaking and hairdressing that could help supplement their husband’s income.[^22]
-
-|Life for the residents of Po Leung Kuk seemed to be a pleasant one, if a visitor’s impression in 1936 is any guide:
-
-|“The walls of the main schoolroom which is a large cheerful apartment are gaily decorated with pictures drawn and painted by the pupils themselves. The children are educated in accordance with Chinese custom, and the bigger girls are taught the arts of fine sewing and embroidery. With few exceptions, the girls are all under eighteen, and they appeared so happily carefree that I found it difficult to believe they had ever suffered unkind treatment or neglect."[^23]
-
-|In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.[^24]
-
-|<img src="/images/Vol-15-issue-4/when-women-were-commodities/w6.JPG" style="width: 300px; height: 430px;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.</i>|
-
-|On 1 March 1929, Mrs Mabel Winter was appointed the first Lady Assistant Protector of Chinese.[^25] She took over the management of Po Leung Kuk’s day-to-day operations and was assisted in her duties by a committee of ladies.[^26]
-
-|Winter’s appointment as Lady Assistant Protector of Chinese was significant as it was the first time a woman had been given such an important post, signifying the serious intent of the British, or at least the Chinese Protectorate, to rescue and rehabilitate women and girls from prostitution and slavery.
-
-|Mabel Winter was the wife of Mr H.B. Winter, the proprietor of a well-known tailoring establishment on Battery Road. She had been born in Hong Kong where “she learned to speak Chinese so fluently that the Chinese expressed astonishment at her complete mastery of the language”.[^27]
-
-|She married in Colombo in 1915, where her husband had served in the Fifth Gurkhas regiment.[^28]Unfortunately, Winter’s time at the Po Leung Kuk was cut short when she died from pneumonia on 25 January 1934 and was buried in Bidadari Cemetery.[^29] She was only 42.
-
-|To remember her contributions, the Mabel Winter Memorial Shield was set up and given out annually to an outstanding candidate in the Po Leung Kuk who excelled in needlework and cooking and displayed exemplary conduct.[^30]
-
-|From the 1930s, the number of women and girls admitted to the Po Leung Kuk in Singapore fell. One researcher suggests that this was due to the implementation of the 1930 Women and Girls’ Protection Ordinance that outlawed brothels and vice activities. Unfortunately, the legislation sent brothels underground and made it harder to track and rescue women who needed help.[^31] In 1932, the Mui Tsai Ordinance was introduced to prohibit the acquisition of*mui tsai*; this would, in time, also reduce the number of girls that needed to be rescued.
-
-|During the Japanese Occupation, the Po Leung Kuk’s premises were abandoned and its residents dispersed to several welfare centres. When the British Military Administration took over after the war, the new Department of Social Welfare was set up, and the Po Leung Kuk was closed.[^32]
-
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>THE OFFICE TO PROTECT VIRTUE</b>
+<br><br>
+The Po Leung Kuk was set up in Singapore in 1888, about 10 years after it was first established in Hong Kong. The Po Leung Kuk, or the Office to Protect Virtue, was created to offer protection to girls who had been sold or lured into prostitution.
+<br><br>
+In Singapore, the Po Leung Kuk also provided protection and assistance for the repatriation of women and girls to China. Its other role was to supply marriage partners to a predominantly male population who did not have the means to find a bride from their village.
+<br><br>
+In addition to housing girls rescued from prostitution, the Po Leung Kuk took in young female servants known as <i>mui tsai</i> if they had been abused.[^20] The Po Leung Kuk also functioned as a “halfway house”, offering shelter, food and training to rehabilitate girls. Once the residents turned 18, they were eligible for marriage. All applications made to the Po Leung Kuk by men to select brides were carefully screened and approved by the management committee.
+<br><br>
+The Po Leung Kuk had its beginnings in Lock Hospital in the Kandang Kerbau area, moving subsequently to larger premises on York Hill in Chinatown which could accommodate as many as 300 residents.[^21]
+<br><br>
+Women who were rescued and rehabilitated by the Po Leung Kuk were sought after as wives as they were trained in domestic service, and acquired skills such as dressmaking and hairdressing that could help supplement their husband’s income.[^22]
+<br><br>
+Life for the residents of Po Leung Kuk seemed to be a pleasant one, if a visitor’s impression in 1936 is any guide:
+<br><br>
+“The walls of the main schoolroom which is a large cheerful apartment are gaily decorated with pictures drawn and painted by the pupils themselves. The children are educated in accordance with Chinese custom, and the bigger girls are taught the arts of fine sewing and embroidery. With few exceptions, the girls are all under eighteen, and they appeared so happily carefree that I found it difficult to believe they had ever suffered unkind treatment or neglect."[^23]
+<br><br>
+In Singapore, the Po Leung Kuk’s management committee was chaired by the Protector of Chinese and a body of 13 influential Chinese businessmen. The activities of the Po Leung Kuk were supported by government funds and private donations.[^24]
+<br><br>
+<img src="/images/Vol-15-issue-4/when-women-were-commodities/w6.JPG" style="width: 300px; height: 430px;">Mrs Mabel Winter, the first Lady Assistant Protector of Chinese, passed away on 25 January 1934. <i>Image reproduced from The Straits Times, 26 January 1934, p. 13.</i>
+<br><br>
+On 1 March 1929, Mrs Mabel Winter was appointed the first Lady Assistant Protector of Chinese.[^25] She took over the management of Po Leung Kuk’s day-to-day operations and was assisted in her duties by a committee of ladies.[^26]
+<br><br>
+Winter’s appointment as Lady Assistant Protector of Chinese was significant as it was the first time a woman had been given such an important post, signifying the serious intent of the British, or at least the Chinese Protectorate, to rescue and rehabilitate women and girls from prostitution and slavery.
+<br><br>
+Mabel Winter was the wife of Mr H.B. Winter, the proprietor of a well-known tailoring establishment on Battery Road. She had been born in Hong Kong where “she learned to speak Chinese so fluently that the Chinese expressed astonishment at her complete mastery of the language”.[^27]
+<br><br>
+She married in Colombo in 1915, where her husband had served in the Fifth Gurkhas regiment.[^28]Unfortunately, Winter’s time at the Po Leung Kuk was cut short when she died from pneumonia on 25 January 1934 and was buried in Bidadari Cemetery.[^29] She was only 42.
+<br><br>
+To remember her contributions, the Mabel Winter Memorial Shield was set up and given out annually to an outstanding candidate in the Po Leung Kuk who excelled in needlework and cooking and displayed exemplary conduct.[^30]
+<br><br>
+From the 1930s, the number of women and girls admitted to the Po Leung Kuk in Singapore fell. One researcher suggests that this was due to the implementation of the 1930 Women and Girls’ Protection Ordinance that outlawed brothels and vice activities. Unfortunately, the legislation sent brothels underground and made it harder to track and rescue women who needed help.[^31] In 1932, the Mui Tsai Ordinance was introduced to prohibit the acquisition of*mui tsai*; this would, in time, also reduce the number of girls that needed to be rescued.
+<br><br>
+During the Japanese Occupation, the Po Leung Kuk’s premises were abandoned and its residents dispersed to several welfare centres. When the British Military Administration took over after the war, the new Department of Social Welfare was set up, and the Po Leung Kuk was closed.[^32]
+</span>
 
 <div style="background-color: white;">
 <br>
