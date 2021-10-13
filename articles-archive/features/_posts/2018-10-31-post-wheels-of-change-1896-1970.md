@@ -150,12 +150,11 @@ After World War II, many private cars were used by unlicensed taxi drivers to pl
 <br><br>
 In 1970, the National Trades Union Congress started its Comfort taxi service and offered pirate taxi drivers the opportunity to join its operations. A total ban on pirate taxis came into force in July the following year.
 </div>
-<br>
-
-|This essay is reproduced from the book, <i>Between the Lines: Early Print Advertising in Singapore 1830s-1960s</i>. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [[Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203150558)].
-
-|The exhibition “Selling Dreams: Early Advertising in Singapore” takes place at  level 10 of the National Library Building on Victoria Street. A variety of print advertisements from the 1830s on subjects such as food, fashion, entertainment, travel and more are on display until 24 February 2019.
-
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+This essay is reproduced from the book, <i>Between the Lines: Early Print Advertising in Singapore 1830s-1960s</i>. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [[Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203150558)].
+<br><br>
+The exhibition “Selling Dreams: Early Advertising in Singapore” takes place at  level 10 of the National Library Building on Victoria Street. A variety of print advertisements from the 1830s on subjects such as food, fashion, entertainment, travel and more are on display until 24 February 2019.
+</span>
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-3/wheels-of-change/MA.JPG" style="width: 100px; height: 100px;">
