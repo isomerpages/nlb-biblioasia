@@ -14,7 +14,7 @@ Indigenous products include coarse lakawood and tin. The goods used in trade are
 
 When junks sail to the Western Ocean, the local barbarians allow them to pass unmolested but when on their return the junks reach Chi-limen (Karimon), [then] the sailors prepare their armour and padded screens as a protection against arrows for, of a certainty, some two or three hundred pirate prahus will put out to attack them for several days. Sometimes [the junks] are fortunate enough to escape with a favouring wind; otherwise the crews are butchered and the merchandise made off with in quick time.[^1]
 
-Print from Illustrated London News showing Her Majesty’s ship, Royalist, being chased by a fleet of Malay pirates at Endeavour Straits (near Palawan Island), drawn by Captain Bate of the Royalist. The highland in the background is Malampaya Table (1852). Courtesy of National Archives of Singapore.
+Print from <i>Illustrated London News</i> showing Her Majesty’s ship, <i>Royalist</i>, being chased by a fleet of Malay pirates at Endeavour Straits (near Palawan Island), drawn by Captain Bate of the <i>Royalist</i>. The highland in the background is Malampaya Table (1852). <i>Courtesy of National Archives of Singapore.</i>
 
 Piracy, pillage, ancient rituals and barbarians – hardly a picture associated with the soaring skyscrapers and success of modern Singapore. Yet, this is how Wang Dayuan (汪大渊), the intrepid 14th-century traveller from Quanzhou (泉州), China, describes Dragon’s Tooth Strait (龙牙门or Longyamen), a place now identified as the western entrance of Keppel Harbour in former times.[^2]
 
@@ -51,7 +51,6 @@ Wang’s book was originally published in 1349 as an appendix in a local gazette
 In his own postscript, Wang stated that the 1349 edition was known as Dao Yi Zhi (《岛夷志》or Description of the Barbarians of the Isles). Another preface written by Zhang Zhu (张翥) relates that the account was re-published as a standalone travel account in 1350 in Nanchang, China. This particular edition is known as Dao Yi Zhi Lue.[^18]
 
 Construction of the new harbour in the 1880s, which was renamed Keppel Harbour in 1900. Courtesy of National Archives of Singapore.
-
 
 <p style="font-size:15px;"><b>Lee Meiyu</b> is a Librarian with the National Library of Singapore. She is co-writer of publications such as Money by Mail to China: Dreams and Struggles of Early Migrants and Roots: Tracing Family Histories – A Resource Guide.</p>
 
