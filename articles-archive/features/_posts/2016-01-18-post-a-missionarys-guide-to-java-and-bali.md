@@ -45,16 +45,16 @@ Following the end of the First Opium War (1839–42), Medhurst left for China in
 	
 #### **	NOTES**
 
-[^1]:Medhurst, W.H. (1830). Journal of a tour along the coast of Java and Bali etc, with a short account of the island of Bali particularly of Bali Baliling (p. 63). Singapore: Printed at the Mission Press. Retrieved from BookSG.
+[^1]:Medhurst, W.H. (1830). *[Journal of a tour along the coast of Java and Bali etc, with a short account of the island of Bali particularly of Bali Baliling](https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx)* (p. 63). Singapore: Printed at the Mission Press. Retrieved from BookSG.
 
-[^2]:Singapore Christian Union. (1830). The first report of the Singapore Christian Union, 48. Retrieved from BookSG.
+[^2]:Singapore Christian Union. (1830). *[The first report of the Singapore Christian Union](https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx)*, 48. Retrieved from BookSG.
 
-[^3]:Byrd, C.K. (1970). Early printing in the Straits Settlements, 1806–1858 (p. 28). Singapore: National Library. (Call no.: RCLOS 686.2095957 BYR)
+[^3]:Byrd, C.K. (1970). *[Early printing in the Straits Settlements, 1806–1858](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984)* (p. 28). Singapore: National Library. (Call no.: RCLOS 686.2095957 BYR)
 
-[^4]:Medhurst, 1830, p. 63.
+[^4]:[Medhurst](https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx), 1830, p. 63.
 
-[^5]:Nordholt, H.S. (1996). The spell of power: A history of Balinese politics 1650–1940 (p. 96). Leiden: KITLV Press. (Call no.: RSEA 959.802 NOR)
+[^5]:Nordholt, H.S. (1996). *[The spell of power: A history of Balinese politics 1650–1940](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8132398)* (p. 96). Leiden: KITLV Press. (Call no.: RSEA 959.802 NOR)
 
-[^6]:Trocki, C.A. (1987, March). The rise of Singapore’s great opium syndicate, 1840–86. Journal of Southeast Asian Studies, 18 (1), 58–80, p. 60. Retrieved from JSTOR via NLB’s eResources website.
+[^6]:Trocki, C.A. (1987, March). The rise of Singapore’s great opium syndicate, 1840–86. *Journal of Southeast Asian Studies, 18* (1), 58–80, p. 60. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^7]:Wylie, A. (1967). Memorials of Protestant missionaries to the Chinese: Giving a list of their publications, and obituary notices of the deceased, with copious indexes (p. 25). Taipei: Ch’eng-Wen Pub. (Call no.: RCLOS 266.40951 MEM); Bliss, E.M., Jackson, S.M., & Gilmore, G.W. (Eds.). (2002). The encyclopaedia of missions: Descriptive, historical, biographical, statistical (Vol. 2, pp. 44–45). London: Ganesha Pub.; Tokyo: Edition Synapse. (Call no.: R q266.003 ENC)
+[^7]:Wylie, A. (1967). *[Memorials of Protestant missionaries to the Chinese: Giving a list of their publications, and obituary notices of the deceased, with copious indexes](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5031695)* (p. 25). Taipei: Ch’eng-Wen Pub. (Call no.: RCLOS 266.40951 MEM); Bliss, E.M., Jackson, S.M., & Gilmore, G.W. (Eds.). (2002). *[The encyclopaedia of missions: Descriptive, historical, biographical, statistical](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12280715)* (Vol. 2, pp. 44–45). London: Ganesha Pub.; Tokyo: Edition Synapse. (Call no.: R q266.003 ENC)
