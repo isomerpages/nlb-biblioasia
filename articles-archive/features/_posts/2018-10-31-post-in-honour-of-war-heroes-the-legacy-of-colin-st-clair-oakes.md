@@ -105,38 +105,39 @@ Colin St Clair Oakes would not see through the completion of Kranji War Cemetery
 <img style="width: 550px; height: 500px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour10.JPG">
 <div style="background-color: white;">An aerial view of Kranji War Cemetery and the Singapore Memorial. The Kranji Military Cemetery of non-world war dead is located on the right. <i>Photo by Weixiang Schrödinger Lim.</i></div>
 
-|**KANJI'S WAR DEAD**
-
-|Named after the local tree, *pokok kranji* or *keranji*, Kranji is situated in the north of Singapore, on a small hill with commanding views over the Straits of Johor. The British first established a military base in this area in the 1930s, which also served as a depot for armaments and ammunition during the early days of World War II. When the Japanese attacked Singapore by air on 8 December 1941, the camp was turned into the battalion headquarters for the Australian forces. On 9 February 1942, Kranji was defended by the Australian 27th Brigade and a company of Chinese Dalforce volunteers when the Japanese first landed on Singapore soil at nearby Kranji Beach.
-
-|During the Japanese Occupation, Kranji camp was appropriated as a field hospital for the Indian National Army (INA) until its departure in 1944. The camp was then modified to accommodate returning POWs from the SiamBurma Death Railway as well as large numbers of sick and injured POWs transferred from Changi Prison. As with the small hospital at Changi, the makeshift “Kranji Hospital” also established a small cemetery for those who died within its care. When the war ended, this simple hospital graveyard would be expanded to become Singapore’s main war cemetery.
-
-|In early 1946, the Imperial War Graves Commission (IWGC) would send officers and an architect to Singapore to advise on the general layout of Kranji for its impending transformation into a war cemetery and a memorial to the missing. Yet, plans for the present-day cemetery would not materialise immediately. As the IWGC had a long-standing policy of not taking over any remains that could not be satisfactorily proven as entitled to a war grave burial, there was a protracted impasse over identifying the remains of both combatants and non-combatants.
-
-|<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour8.JPG">Sorting and reburial of remains by workers despatched from the Graves Units in Australia and the United Kingdom, 1946. Kranji War Cemetery. <i>Courtesy of the Commonwealth War Graves Commission.</i>
-
-|Across the causeway, the Malayan Emergency and numerous post-war independence movements in Asia seeking sovereignty from colonial rule would see further delays. It would take more than 10 years and the involvement of various parties, the British Army and War Office, the British Colonial Office, the IWGC and the Singapore government, before the Kranji War Cemetery and Memorial was officially unveiled on 2 March 1957.
-
-|Today, Kranji contains the remains of 4,461 Commonwealth casualties of World War II from numerous burial sites spread across Singapore, including graves relocated from Changi, Buona Vista and Bidadari. The Chinese Memorial marks the collective grave for 69 Chinese servicemen killed during the Occupation in 1942. In addition, there are the Singapore (Unmaintainable Graves) Memorial, Singapore Cremation Memorial and the Singapore Civil Hospital Grave Memorial; the latter commemorates more than 400 civilians and Commonwealth servicemen buried in a mass grave on the grounds of Singapore General Hospital. The Kranji Military Cemetery, which is the resting ground for non-world war burials, adjoins to the west.
-
-|The most visible structure is the Singapore Memorial, designed to reflect an aeroplane with its 22-metre (72-ft) central pylon and wing-shaped roof supported by 12 stone-clad pillars inscribed with the names of over 24,000 casualties who have no known graves. It is dedicated to servicemen from the United Kingdom, Australia, Canada, Ceylon, India, Malaya, the Netherlands and New Zealand.
-
-|<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour7.JPG">A panoramic view of Kranji War Cemetery and Memorial. The memorial is designed to resemble an aeroplane with its 22-metre (72-ft) central pylon and wing-shaped roof supported by 12 stone-clad pillars. Annual memorial services are held at the cemetery on Remembrance Day and ANZAC Day. <i>Courtesy of Chester Chen via flickr.https://www.flickr.com/photos/jamcansing/16577417460/in/photostream/. Photo was shot with a pinhole camera on Kodak 120 black and white negative film.</i>
-
-|Annual memorial services are held at the Kranji War Cemetery on Remembrance Day and ANZAC (Australian and New Zealand Army Corps) Day. The Remembrance Day ceremony is traditionally held on the second Sunday of November to honour those who sacrificed their lives in war. ANZAC Day takes place on 25 April.
-
-|**REFERENCES**
-
-|Blackburn, K., & Hack, K. (2012). [*War Memory and the making of Modern Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14230768) (p. 110). Singapore: NUS Press. (Call no.: RSING 940.53595 BLA-[WAR])
-
-|Bose. R. (2006). [*Kranji: The Commonwealth war cemetery and the politics of the dead*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200039628). Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.54655957 BOS-[WAR])
-
-|Commonwealth War Graves Commission (2018). *Kranji War Cemetery*. Retrieved from Commonwealth War Graves Commission website.
-
-|Lane, A. (1995). [*Kranji War Cemetery, Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7491020). Stockport, Cheshire: Lane Publishers. (Call no.: RSING 940.54655957 LAN-[WAR])
-
-|Longworth, P. (1967). *The unending vigil: A history of the Commonwealth War Graves Commission*. London: Constable. (Not available in NLB holdings)
-
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>KANJI'S WAR DEAD</b>
+<br><br>
+	Named after the local tree, <i>pokok kranji</i> or <i>keranji</i>, Kranji is situated in the north of Singapore, on a small hill with commanding views over the Straits of Johor. The British first established a military base in this area in the 1930s, which also served as a depot for armaments and ammunition during the early days of World War II. When the Japanese attacked Singapore by air on 8 December 1941, the camp was turned into the battalion headquarters for the Australian forces. On 9 February 1942, Kranji was defended by the Australian 27th Brigade and a company of Chinese Dalforce volunteers when the Japanese first landed on Singapore soil at nearby Kranji Beach.
+<br><br>
+During the Japanese Occupation, Kranji camp was appropriated as a field hospital for the Indian National Army (INA) until its departure in 1944. The camp was then modified to accommodate returning POWs from the SiamBurma Death Railway as well as large numbers of sick and injured POWs transferred from Changi Prison. As with the small hospital at Changi, the makeshift “Kranji Hospital” also established a small cemetery for those who died within its care. When the war ended, this simple hospital graveyard would be expanded to become Singapore’s main war cemetery.
+<br><br>
+In early 1946, the Imperial War Graves Commission (IWGC) would send officers and an architect to Singapore to advise on the general layout of Kranji for its impending transformation into a war cemetery and a memorial to the missing. Yet, plans for the present-day cemetery would not materialise immediately. As the IWGC had a long-standing policy of not taking over any remains that could not be satisfactorily proven as entitled to a war grave burial, there was a protracted impasse over identifying the remains of both combatants and non-combatants.
+<br><br>
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour8.JPG">Sorting and reburial of remains by workers despatched from the Graves Units in Australia and the United Kingdom, 1946. Kranji War Cemetery. <i>Courtesy of the Commonwealth War Graves Commission.</i>
+<br><br>
+Across the causeway, the Malayan Emergency and numerous post-war independence movements in Asia seeking sovereignty from colonial rule would see further delays. It would take more than 10 years and the involvement of various parties, the British Army and War Office, the British Colonial Office, the IWGC and the Singapore government, before the Kranji War Cemetery and Memorial was officially unveiled on 2 March 1957.
+<br><br>
+Today, Kranji contains the remains of 4,461 Commonwealth casualties of World War II from numerous burial sites spread across Singapore, including graves relocated from Changi, Buona Vista and Bidadari. The Chinese Memorial marks the collective grave for 69 Chinese servicemen killed during the Occupation in 1942. In addition, there are the Singapore (Unmaintainable Graves) Memorial, Singapore Cremation Memorial and the Singapore Civil Hospital Grave Memorial; the latter commemorates more than 400 civilians and Commonwealth servicemen buried in a mass grave on the grounds of Singapore General Hospital. The Kranji Military Cemetery, which is the resting ground for non-world war burials, adjoins to the west.
+<br><br>
+The most visible structure is the Singapore Memorial, designed to reflect an aeroplane with its 22-metre (72-ft) central pylon and wing-shaped roof supported by 12 stone-clad pillars inscribed with the names of over 24,000 casualties who have no known graves. It is dedicated to servicemen from the United Kingdom, Australia, Canada, Ceylon, India, Malaya, the Netherlands and New Zealand.
+<br><br>
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour7.JPG">A panoramic view of Kranji War Cemetery and Memorial. The memorial is designed to resemble an aeroplane with its 22-metre (72-ft) central pylon and wing-shaped roof supported by 12 stone-clad pillars. Annual memorial services are held at the cemetery on Remembrance Day and ANZAC Day. <i>Courtesy of Chester Chen via flickr.https://www.flickr.com/photos/jamcansing/16577417460/in/photostream/. Photo was shot with a pinhole camera on Kodak 120 black and white negative film.</i>
+<br><br>
+Annual memorial services are held at the Kranji War Cemetery on Remembrance Day and ANZAC (Australian and New Zealand Army Corps) Day. The Remembrance Day ceremony is traditionally held on the second Sunday of November to honour those who sacrificed their lives in war. ANZAC Day takes place on 25 April.
+<br><br>
+<b>REFERENCES</b>
+<br><br>
+	Blackburn, K., & Hack, K. (2012). [<i>War Memory and the making of Modern Singapore</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14230768) (p. 110). Singapore: NUS Press. (Call no.: RSING 940.53595 BLA-[WAR])
+<br><br>
+Bose. R. (2006). [<i>Kranji: The Commonwealth war cemetery and the politics of the dead</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200039628). Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.54655957 BOS-[WAR])
+<br><br>
+Commonwealth War Graves Commission (2018). <i>Kranji War Cemetery</i>. Retrieved from Commonwealth War Graves Commission website.
+<br><br>
+Lane, A. (1995). [<i>Kranji War Cemetery, Singapore</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7491020). Stockport, Cheshire: Lane Publishers. (Call no.: RSING 940.54655957 LAN-[WAR])
+<br><br>
+	Longworth, P. (1967). <i>The unending vigil: A history of the Commonwealth War Graves Commission</i>. London: Constable. (Not available in NLB holdings)
+</span>
 <br>
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 <b>A BIOGRAPHY OF COLIN ST CLAIR OAKES</b>
