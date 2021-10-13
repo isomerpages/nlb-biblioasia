@@ -24,3 +24,8 @@ Singapore’s oldest and longest Pan-Island Expressway was constructed between 1
 
 Ang Seow Leng shares highlights from the recent donation of rare historical items by the Singapore Lam Ann Association, while Gracie Lee explains the significance of the Lim Shao Bin Collection of Japanese World War II memorabilia comprising books, maps, postcards, letters and newspapers. Finally, Sharen Chua presents highlights of commemorative sports publications from our Legal Deposit Collection. We hope you enjoy reading this edition of *BiblioAsia*.
 
+<br>
+<b>Ms Wai Yin Pryke</b><br>Director<br>National Library
+
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
