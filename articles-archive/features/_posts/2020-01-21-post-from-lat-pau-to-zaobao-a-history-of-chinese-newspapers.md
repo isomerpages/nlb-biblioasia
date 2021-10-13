@@ -112,15 +112,16 @@ In this digital age, however, subscriptions to physical newspapers have been ste
 
 Moving forward, SPH has announced that it will focus on the digital transformation of its core media business and intensify efforts to make content available across different platforms. It remains to be seen, however, if Chinese newspapers in Singapore will continue to evolve and transform with the same innovative spirit and fervour that their predecessors did.[^40]
 
-|**FUKAN – THE CRADLE OF SINGAPORE CHINESE LITERATURE**
-
-|In 1907, Chinese daily *Lat Pau* introduced a supplement known as *fu zhang* (附张; which literally means “attached sheet”) in which folksongs and popular tales along with other miscellaneous articles were featured.[^25]
-
-|Other Chinese newspapers followed suit and produced their own supplements, now called *fukan* (副刊). One of the most important *fukan* published was *Xin Guo Min Za Zhi* (新国民杂志), the supplement to *Sin Kuo Min Jit Poh* (新国民日报), which was founded in 1919. This supplement was a milestone in the history of Singapore Chinese literature as it introduced modern Chinese literature inspired by the New Culture Movement[^26] in China to local readers.
-
-|In 1925, *Nan Feng* (南风) was published by *Sin Kuo Min Jit Poh while Xing Guang* (星光) was published by *Lat Pau*. These supplements helped define Singapore Chinese literature and establish its future direction of growth.
-
-|Other important *fukan* that contributed to the development of Chinese literature in Singapore were *Huang Dao* (荒岛) (1927) and *Lu Yi* (绿漪) (1927) by *Sin Kuo Min Jit Poh*; *Ye Lin* (椰林) (1928) by *Lat Pau*; *Hong Huang* (洪荒) (1927), *Wen Yi San Ri Kan* (文艺三日刊) (1929) and *Shi Sheng* (狮声) (1933) by *Nanyang Siang Pau*; and *Ye Pa* (野葩) (1930) and *Chen Xing* (晨星) (1937) by *Sin Chew Jit Poh*. 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>FUKAN – THE CRADLE OF SINGAPORE CHINESE LITERATURE</b>
+<br><br>
+	In 1907, Chinese daily <i>Lat Pau</i> introduced a supplement known as <i>fu zhang</i> (附张; which literally means “attached sheet”) in which folksongs and popular tales along with other miscellaneous articles were featured.[^25]
+<br><br>
+Other Chinese newspapers followed suit and produced their own supplements, now called <i>fukan</i> (副刊). One of the most important <i>fukan</i> published was </i>Xin Guo Min Za Zhi</i> (新国民杂志), the supplement to </i>Sin Kuo Min Jit Poh</i> (新国民日报), which was founded in 1919. This supplement was a milestone in the history of Singapore Chinese literature as it introduced modern Chinese literature inspired by the New Culture Movement[^26] in China to local readers.
+<br><br>
+|In 1925, <i>Nan Feng</i> (南风) was published by <i>Sin Kuo Min Jit Poh while Xing Guang</i> (星光) was published by <i>Lat Pau</i>. These supplements helped define Singapore Chinese literature and establish its future direction of growth.
+<br><br>
+|Other important <i>ukan</i> that contributed to the development of Chinese literature in Singapore were <i>Huang Dao</i> (荒岛) (1927) and <i>Lu Yi</i> (绿漪) (1927) by <i>Sin Kuo Min Jit Poh</i>; <i>Ye Lin</i>(椰林) (1928) by <i>Lat Pau</i>; <i>Hong Huang</i> (洪荒) (1927), <i>Wen Yi San Ri Kan</i> (文艺三日刊) (1929) and <i>Shi Sheng</i> (狮声) (1933) by <i>Nanyang Siang Pau</i>; and <i>Ye Pa</i> (野葩) (1930) and <i>Chen Xing</i> (晨星) (1937) by *Sin Chew Jit Poh*. </span>
 
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
 <b>THE SWORDSMAN MAKES ITS DEBUT</b>
