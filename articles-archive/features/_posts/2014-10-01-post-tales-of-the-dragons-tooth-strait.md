@@ -16,7 +16,7 @@ When junks sail to the Western Ocean, the local barbarians allow them to pass un
 
 Print from <i>Illustrated London News</i> showing Her Majesty’s ship, <i>Royalist</i>, being chased by a fleet of Malay pirates at Endeavour Straits (near Palawan Island), drawn by Captain Bate of the <i>Royalist</i>. The highland in the background is Malampaya Table (1852). <i>Courtesy of National Archives of Singapore.</i>
 
-Piracy, pillage, ancient rituals and barbarians – hardly a picture associated with the soaring skyscrapers and success of modern Singapore. Yet, this is how Wang Dayuan (汪大渊), the intrepid 14th-century traveller from Quanzhou (泉州), China, describes Dragon’s Tooth Strait (龙牙门or Longyamen), a place now identified as the western entrance of Keppel Harbour in former times.[^2]
+Piracy, pillage, ancient rituals and barbarians – hardly a picture associated with the soaring skyscrapers and success of modern Singapore. Yet, this is how Wang Dayuan (汪大渊), the intrepid 14th-century traveller from Quanzhou (泉州), China, describes Dragon’s Tooth Strait (龙牙门or <i>Longyamen</i>), a place now identified as the western entrance of Keppel Harbour in former times.[^2]
 
 Dragon’s Tooth Strait refers to a sailing route commonly used by traders travelling from Europe and the Middle East to China and vice versa. It is situated between Labrador Point and Fort Siloso. The term Dragon’s Tooth refers to a prominent rock that once overlooked the entrance of the waterway. Also known as Batu Berlayar and Lot’s Wife,3 the rock was demolished in the mid-19th century to widen the waterway for the passing of steamships.[^4]
 
