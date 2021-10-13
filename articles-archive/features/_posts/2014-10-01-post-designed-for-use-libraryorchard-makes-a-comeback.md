@@ -16,7 +16,7 @@ Guided by broad themes such as “Learn and Discover”, “Engage” and “Esc
 
 Here are some design elements that make up the library@orchard experience.
 
-Using the principles of Design Thinking, the National Library Board worked closely with Singapore Polytechnic and the public to develop library@orchard. Courtesy of Annusia Jaybalan.
+Using the principles of Design Thinking, the National Library Board worked closely with Singapore Polytechnic and the public to develop library@orchard. <i>Courtesy of Annusia Jaybalan.</i>
 
 #### **Pluck and Ponder**
 
