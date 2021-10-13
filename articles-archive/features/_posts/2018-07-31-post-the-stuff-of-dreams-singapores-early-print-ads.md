@@ -124,3 +124,5 @@ Early business directories, periodicals, magazines, souvenir publications, trave
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
