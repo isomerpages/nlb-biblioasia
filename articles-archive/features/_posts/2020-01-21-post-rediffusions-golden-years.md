@@ -138,7 +138,7 @@ When Rediffusion ceased its dialect programmes in 1982, Lee retired from broadca
 <br><br>
 Lee died of a heart attack in 1989, having done a recording for Radio Australia just the day before.[^26] He left behind two wives, one son, two daughters and two grandchildren.[^27]
 <br><br>
-The audiotapes of Lee’s *Journey to the West* form part of the more than 5,000 Rediffusion recordings held in the collection of the National Archives of Singapore (NAS). These recordings have been digitised and are available for public access on the Archives Online website.[^28] Lee was also interviewed by the Oral History Department of the NAS in 1983 and 1989.[^29] </span>
+	The audiotapes of Lee’s <i>Journey to the West</i> form part of the more than 5,000 Rediffusion recordings held in the collection of the National Archives of Singapore (NAS). These recordings have been digitised and are available for public access on the Archives Online website.[^28] Lee was also interviewed by the Oral History Department of the NAS in 1983 and 1989.[^29] </span>
 
 <div style="background-color: white;">
 <br>
