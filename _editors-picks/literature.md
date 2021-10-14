@@ -29,6 +29,8 @@ permalink: /editors-picks/literature
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/poetry" target="_blank">The Nature of Poetry: An Odyssey Across Time </a>
 <p>Michelle Heng takes us on a journey to see how poets writing in English have charted the changing contours of Singapore and Malaya over the course of the 20th century.</p> 
+<img style="width:500px;" 
+		src="/images/Vol-17-issue-1/poetry/selita.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur" target="_blank"> The Borobudur, Mysterious Gold Plates and Singing Maps</a>
