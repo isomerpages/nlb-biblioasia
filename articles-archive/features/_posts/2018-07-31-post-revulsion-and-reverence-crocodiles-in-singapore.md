@@ -150,3 +150,14 @@ News reports and public records on crocodile sightings in Singapore over the las
 The idea of “public space” is frequently challenged in the various encounters between humans and crocodiles in this article. The natural human tendency is to react negatively, from shutting down activities in parks and water-based clubs to draining and poisoning lakes.
 
 The public spaces developed for encounters with crocodiles question the notion of for whom or for what they were controlled for – zoos and marine parks are regulated spaces that allow encounters (or “non-encounters” in reality) with crocodiles within a safe setting for humans, while reserves are spaces controlled for the mobility of wildlife. Yet, the making of these spaces is constantly reconfigured when crocodile sightings take place. In the myriad encounters with these reptiles, whether from actual documentation or from cultural memory, the crocodile’s existence still escapes being understood in public history.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc8.jpg" style="width: 100px; height: 100px;">
+	<b>Siddharta Perez</b> is a Curator at NUS Museum. <i>Buaya: The Making of a Non-Myth</i> is one of the prep-room research projects she is currently managing.
+<br><br>
+<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc9.jpg" style="width: 100px; height: 100px;">
+<b>Kate Pocklington</b> is a Conservator at the Lee Kong Chian Natural History Museum. She heads the collaborative research project, <i>Buaya: The Making of a Non-Myth</i>, at NUS Museum.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
