@@ -121,7 +121,7 @@ The Edwardian-style building fitted with arched windows and a double-decker port
 
 NAS has a collection of over 45,000 aerial photographs taken from 1946 to 1968, publicly accessible from its Archives Online portal. Taken by the Royal Air Force, these aerial photographs were once an important source of reconnaissance data and were used to create maps by photogrammetric methods. Capturing the period of drastic landscape changes that accompanied the political changes in the 1950s and 1960s, the aerial photographs offer a bird’s eye view of Singapore.
 
-#### **Oral History Centre (OHC)
+#### **Oral History Centre (OHC)**
 
 Set up in 1979, the Oral History Centre records, documents, preserves and disseminates oral history interviews of national and historical significance. Using a rigorous methodology and approach towards interviewing, the oral history collection not only provides researchers with a detailed look into an individual’s life, but also allows rich insights into social, political and economic circumstances. Comprising more than 20,000 interview hours from over 3,600 individuals, the collection allows us to listen firsthand to the voices of these eyewitnesses of history.
 
